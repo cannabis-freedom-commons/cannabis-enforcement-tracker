@@ -28,6 +28,21 @@ media:
     media_url: https://vcdn.ensonhaber.com/flv/flvideo/v/2026/10/31/antalyada-uyusturucu-operasyonu-1-tutuklu_fkem.mp4
     publisher: Ensonhaber
     caption: Video of the operation published by Ensonhaber with its report; the opening frame shows a dog beside taped packages in a room. The page credits Ensonhaber / İhlas Haber Ajansı (İHA).
+  - kind: photo
+    url: https://www.gazetebirlik.com/foto-galeri/yerel-haberler/antalyada-uyusturucu-operasyonu-75-kilo-esrar-ele-gecirildi/1118521
+    media_url: https://www.gazetebirlik.com/uploads/haberler/2026/10/3472-antalya-da-uyusturucu-operasyonu-7-5-kilo-esrar-ele-gecirildi-2.webp
+    publisher: Yeni Birlik
+    caption: Two police officers search a room during the operation in Kepez, one holding a bag; police photo published by Yeni Birlik.
+  - kind: photo
+    url: https://www.gazetebirlik.com/foto-galeri/yerel-haberler/antalyada-uyusturucu-operasyonu-75-kilo-esrar-ele-gecirildi/1118521
+    media_url: https://www.gazetebirlik.com/uploads/haberler/2026/10/7503-antalya-da-uyusturucu-operasyonu-7-5-kilo-esrar-ele-gecirildi-3.webp
+    publisher: Yeni Birlik
+    caption: A police officer's gloved hand holds a bag of cannabis found in a cardboard box during the search; police photo published by Yeni Birlik.
+  - kind: photo
+    url: https://www.gazetebirlik.com/foto-galeri/yerel-haberler/antalyada-uyusturucu-operasyonu-75-kilo-esrar-ele-gecirildi/1118521
+    media_url: https://www.gazetebirlik.com/uploads/haberler/2026/10/9319-antalya-da-uyusturucu-operasyonu-7-5-kilo-esrar-ele-gecirildi-4.webp
+    publisher: Yeni Birlik
+    caption: Wrapped packages of seized cannabis laid out in front of a banner of the Antalya police narcotics branch; police photo published by Yeni Birlik.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7158ea0d83b0d99b63c7df31a1306028
@@ -88,6 +103,11 @@ sources:
     publisher: Ensonhaber
     date: 2026-10-31
     language: tr
+  - title: 'Antalya''da uyuşturucu operasyonu: 7,5 kilo esrar ele geçirildi'
+    url: https://www.gazetebirlik.com/foto-galeri/yerel-haberler/antalyada-uyusturucu-operasyonu-75-kilo-esrar-ele-gecirildi/1118521
+    publisher: Yeni Birlik
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -102,21 +122,23 @@ open_questions:
   - Ensonhaber credits İhlas Haber Ajansı (İHA) for the report, so the page repeats the agency account already cited in the report rather than adding independent reporting.
   - The page carries three uncaptioned stills of the operation; without captions or credits they could not be confirmed as distinct from the police handout frames already linked from İHA, so they were not listed as separate media.
   - Medya Gazete's report is an İHA wire copy, so it corroborates the agency account already cited in the report rather than adding independent reporting.
+  - The Yeni Birlik gallery gives no separate date for the operation; 31 October 2026 is its publication date.
+  - The gallery credits no photographer or agency for its five photographs.
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,3,4,5,7,8,9,10] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11] The pair were referred to the
+city. [@1,4,8,9,10,11,12] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+Kepez district. [@1,3,4,5,7,8,9,10,12] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
 substances. [@1,5,7,8,9,10,11]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,4,7,8,9,10,11] Sabah reported that it followed intelligence that the
+police directorate. [@1,4,7,8,9,10,11,12] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@3,4,6,7,8,9,10,11]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@3,4,6,7,8,9,10,11,12]
