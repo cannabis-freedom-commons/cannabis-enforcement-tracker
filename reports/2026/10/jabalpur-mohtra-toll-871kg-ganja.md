@@ -26,6 +26,11 @@ media:
     media_url: https://www.tarunmitra.in/media-webp/1200/2026-10/31oct51234567.jpg
     publisher: Tarun Mitra
     caption: Sacks of seized ganja stacked at the roadside during the operation; the page gave no photo credit.
+  - kind: photo
+    url: https://lalluram.com/jabalpur-police-seized-4-crore-ganja-paint-containers/
+    media_url: https://lalluram.com/wp-content/uploads/2026/10/JABALPUR-GANJA.jpg
+    publisher: Lalluram
+    caption: Police officers with stacks of coloured sacks of seized ganja in front of the container truck at the interception point. No photo credit was given.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -54,6 +59,11 @@ sources:
     publisher: Tarun Mitra
     date: 2026-10-31
     language: hi
+  - title: पेंट के डिब्बों में छिपाकर लाया जा रहा था गांजा, पुलिस और क्राइम ब्रांच ने 4 करोड़ के गांजे के साथ दो आरोपियों को दबोचा
+    url: https://lalluram.com/jabalpur-police-seized-4-crore-ganja-paint-containers/
+    publisher: Lalluram
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -67,10 +77,14 @@ open_questions:
   - Dainik Bhaskar Hindi's page carries an uncaptioned embedded video, which could not be confirmed to show the seizure, so no media entry was added from it.
   - Tarun Mitra dates the operation to the night of 30 October, while the existing report dates the interception to around 2 am on 31 October.
   - No other account confirms the Rajasthan supply detail or the village-level addresses given by Tarun Mitra.
+  - Lalluram describes the route as Visakhapatnam to Jabalpur, while the PTI account and the report say the consignment came from Odisha and was bound for Maihar.
+  - Lalluram puts the value at about ₹4 crore 34 lakh, slightly below the ₹4.35 crore figure the report uses.
+  - Lalluram names the accused only as Vikram and Dharamveer and gives their states, without the ages and home districts recorded in the report.
+  - The Lalluram page publishes its lead photograph without a credit.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1] The operation was
+driver, and seized a large consignment of cannabis. [@1,6] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
@@ -78,9 +92,9 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,4] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
