@@ -38,6 +38,11 @@ sources:
     publisher: العين الثالثة
     date: 2026-10-26
     language: ar
+  - title: إشادة مجتمعية واسعة بجهود مكافحة المخدرات في عدن عقب ضبط 10.5 كيلوغرام من الحشيش
+    url: https://www.adngad.net/news/894072
+    publisher: عدن الغد
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The exact day of the detention is not stated; 26 October 2026 is the date the police account was published, and Aden Al-Ghad reported the praise on 31 October.
   - The two detained people are not named, and their ages and nationalities are not given.
@@ -46,6 +51,7 @@ open_questions:
   - Only the Aden Al-Ghad picture could be checked, so other images published with the police statement are not listed.
   - 'Left out, as its quotation was not found in العين الثالثة: The force said the arrests followed close surveillance and field investigation.'
   - 'Left out, as its quotation was not found in صدى الساحل: Aden''s anti-narcotics department announced the seizure on Monday 26 October 2026.'
+  - Aden Al-Ghad published two versions of the praise story on 31 October 2026 (news/894060 and news/894072), so the two Aden Al-Ghad URLs are not independent corroboration.
 ---
 
 Aden's anti-narcotics police detained two people in Khormaksar district with
@@ -60,11 +66,10 @@ a 25-year prison sentence. [@2] He said the size of the seizure pointed to
 organised smuggling, promotion and distribution in Aden. [@2]
 
 Aden Al-Ghad reported wide public praise for the department and its director
-after the seizure. [@1] It reported that citizens and activists thanked the
+after the seizure. [@1,4] It reported that citizens and activists thanked the
 force for pursuing people involved in drug trafficking and for countering
-attempts to promote and circulate drugs. [@1] They said drug control was a
+attempts to promote and circulate drugs. [@1,4] They said drug control was a
 shared responsibility and called for continued security campaigns and closer
 monitoring to catch those involved and bring them to justice. [@1] They also
 urged support for the anti-narcotics officers' field work, saying it protects
 society and its security. [@1]
-
