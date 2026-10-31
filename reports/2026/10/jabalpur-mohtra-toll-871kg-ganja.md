@@ -39,6 +39,11 @@ sources:
     publisher: Hindustan
     date: 2026-10-31
     language: hi
+  - title: 'जबलपुर न्यूज: 871 किलो गांजा जब्त, दो आरोपी गिरफ्तार'
+    url: https://www.bhaskarhindi.com/city/jabalpur/871-kg-of-ganja-seized-two-accused-arrested-1385104
+    publisher: Dainik Bhaskar Hindi
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -49,6 +54,7 @@ open_questions:
   - Hindustan says the operation was carried out under the leadership of Jhansi ANTF in-charge Chandan Pandey with Madhya Pradesh police assisting, while the existing report describes a joint team of the Jabalpur Crime Branch and Gosalpur police helped by the Uttar Pradesh narcotics wing.
   - Hindustan places the interception near Muskura Mor on National Highway 30, while the existing report records a blockade at the Mohtra toll plaza.
   - The Hindustan page carried no photograph of the seizure; its only image was the site logo, so no media was added from it.
+  - Dainik Bhaskar Hindi's page carries an uncaptioned embedded video, which could not be confirmed to show the seizure, so no media entry was added from it.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -57,12 +63,12 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1]
+Dinajpur, West Bengal. [@1,4]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,4] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
@@ -73,7 +79,7 @@ said. [@2] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1] The 28 sacks were loaded
