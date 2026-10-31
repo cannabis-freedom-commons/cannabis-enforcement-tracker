@@ -74,6 +74,11 @@ sources:
     publisher: Jurnal Polisi
     date: 2026-10-30
     language: id
+  - title: Polresta Bandung Sita 12 Kg Ganja, Diduga Dikendalikan dari Lapas
+    url: https://www.headline.co.id/154788/polresta-bandung-sita-12-kg-ganja-diduga-dikendalikan-dari-lapas/
+    publisher: Headline.co.id
+    date: 2026-10-31
+    language: id
 open_questions:
   - IDN Times reported the payment as Rp2 million per kilogram, while RRI quoted police saying the Rp2 million was for the whole delivery.
   - RRI described the seizure as 'more than 12 kilograms'; this report uses the 12 kilograms given by police and IDN Times.
@@ -91,7 +96,7 @@ open_questions:
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on
-suspicion of dealing cannabis. [@1,4,5] They detained him at his rented room in
+suspicion of dealing cannabis. [@1,4,5,6] They detained him at his rented room in
 Kampung Cikanyang Kidul, Dayeuhkolot, on Wednesday 28 October 2026. [@1]
 Officers seized 12 kilograms of cannabis that police said had been sent from
 Medan and secured in the Kiaracondong area. [@1] The case began with drug
@@ -109,11 +114,13 @@ kilograms of cannabis. [@2] Police said he also consumed cannabis, brewing it as
 a tea. [@2,4] He told them he had not drunk the brew before officers arrived. [@2]
 
 Police charged AR under Articles 114(2) and 111(2) of the 2009 Narcotics Law.
-[@1,3,4,5] The offences carry up to 20 years in prison and a maximum fine of Rp10
+[@1,3,4,5,6] The offences carry up to 20 years in prison and a maximum fine of Rp10
 billion. [@1,2]
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on suspicion of dealing cannabis. [@3] Officers seized 12 kilograms of cannabis that police said had been sent from Medan and secured in the Kiaracondong area. [@3] He said AR was suspected of planning to send the cannabis to someone inside a prison, known in Indonesia as a lapas. [@3] Police said they were still investigating the distribution route and others involved. [@3] Police said he also consumed cannabis, brewing it as a tea. [@3] The offences carry up to 20 years in prison and a maximum fine of Rp10 billion. [@3]
 
-Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at about 04:00 on Thursday 29 October 2026. [@4,5] There they found a purple suitcase holding 12 packages of cannabis weighing about 12 kilograms. [@4,5] Police suspect a man identified as ALF alias BU controlled the distribution from inside a lapas, an Indonesian prison. [@4,5] AR told police that ALF alias BU ordered him to collect and store the cannabis packages. [@4,5] Police estimated the market value of the 12 kilograms at Rp250 million. [@4,5]
+Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at about 04:00 on Thursday 29 October 2026. [@4,5,6] There they found a purple suitcase holding 12 packages of cannabis weighing about 12 kilograms. [@4,5,6] Police suspect a man identified as ALF alias BU controlled the distribution from inside a lapas, an Indonesian prison. [@4,5,6] AR told police that ALF alias BU ordered him to collect and store the cannabis packages. [@4,5] Police estimated the market value of the 12 kilograms at Rp250 million. [@4,5,6]
 
 At the rented room, officers found two black plastic bags and a teapot holding dried stems and branches believed to be cannabis, one rolled joint and a red iPhone. [@5] Police put ALF alias BU, the suspected controller, on their wanted list and said they were hunting him. [@5]
+
+The arrest took place at about 19:00 on 28 October 2026. [@6]
