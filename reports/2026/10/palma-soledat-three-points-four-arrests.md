@@ -17,6 +17,11 @@ media:
     media_url: https://www.fibwidiario.com/asset/thumbnail,992,558,center,center/media/fibwidiario/images/2026/10/30/2026103010260489735.jpg
     publisher: Fibwi Diario
     caption: 'Image published with the report of the round-the-clock drug sales points in La Soledat. Caption: Los puntos de venta de droga atendían las 24 horas.'
+  - kind: video
+    url: https://www.fibwidiario.com/sucesos/golpe-menudeo-palma-desmantelan-tres-puntos-venta-que-servian-droga-24-horas/20261030182029327161.amp.html
+    media_url: https://www.youtube.com/embed/EcpHr_S0bV4?feature=oembed
+    publisher: Fibwi Diario
+    caption: 'Video report on the operation against the three round-the-clock drug sales points in La Soledat, Palma; the thumbnail shows a National Police officer at a doorway. Video: Fibwi Diario.'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c5fc613a45fe42b461b87b1b26cbc231
@@ -42,6 +47,11 @@ sources:
     publisher: Europa Press
     date: 2026-10-28
     language: es
+  - title: 'Golpe al menudeo en Palma: desmantelan tres puntos de venta que servían droga las 24 horas'
+    url: https://www.fibwidiario.com/sucesos/golpe-menudeo-palma-desmantelan-tres-puntos-venta-que-servian-droga-24-horas/20261030182029327161.amp.html
+    publisher: Fibwi Diario
+    date: 2026-10-30
+    language: es
 open_questions:
   - No weight was published for the hashish, or for the marijuana reported by Ultima Hora and Europa Press.
   - Europa Press on the morning of 28 October reported two arrests and four sales points; later accounts reported four arrests and three sealed sales points, plus a linked home that was searched.
@@ -52,7 +62,7 @@ open_questions:
 
 National Police dismantled three round-the-clock drug sales points in the
 Soledat neighbourhood of Palma on Wednesday 28 October and arrested four people
-as suspected drug traffickers. [@1] Those arrested were three men and a woman.
+as suspected drug traffickers. [@1,5] Those arrested were three men and a woman.
 [@2] A judge ordered the three premises sealed, because they were used to sell
 drugs and not as homes, and sent one of the arrested into pre-trial detention.
 [@1] The operation was concentrated around Manacor and Teix streets. [@3]
@@ -79,4 +89,3 @@ located and arrested them. [@2] On the morning of that Wednesday, before the
 later arrests, police had detained two people and reported four sales points
 dismantled in La Soledad, in an operation sources linked to the clan of El
 Pablo, and had seized various amounts of hashish and marijuana. [@4]
-
