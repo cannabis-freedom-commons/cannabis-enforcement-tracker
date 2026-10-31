@@ -53,6 +53,11 @@ sources:
     publisher: 4oito
     date: 2026-10-31
     language: pt
+  - title: Cerca de 140 quilos de maconha são apreendidos no Balneário Rincão
+    url: https://tnsul.com/2026/10/31/cerca-de-140-quilos-de-maconha-sao-apreendidos-no-balneario-rincao/
+    publisher: TN Sul
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -62,27 +67,29 @@ open_questions:
   - A second Revista Única photo, showing stacked cannabis tablets, had no recoverable direct image address and was not added to the media list.
   - The 4oito report does not give the suspect's age, the street or the number of scales, details that come from the report's earlier sources.
   - The account that the cannabis was intended for summer-season sales rests on the suspect's statement to police, reported only by 4oito; no other source for this event states it.
+  - The TN Sul page's only photo has no caption or credit beyond a file name, so it could not be identified as a distinct image of the seizure and was not added to the media list.
+  - TN Sul reproduces the same Military Police account carried by the outlets already cited, so it corroborates the police version rather than adding independent reporting.
 ---
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,4] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,4,5] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
-it was being used as a depot for drugs intended for sale. [@1] The man, known to
+it was being used as a depot for drugs intended for sale. [@1,5] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
-towards the neighbouring property. [@2] A first search found a scale and one
+towards the neighbouring property. [@2,5] A first search found a scale and one
 cannabis tablet; the man admitted the drug was his and said more was stored
-inside. [@1,4]
+inside. [@1,4,5]
 
-Officers also seized three precision scales and two mobile phones. [@1] The
+Officers also seized three precision scales and two mobile phones. [@1,5] The
 Military Police described the man as one of the leaders of a criminal faction
-operating in Balneário Rincão. [@1] The claim is part of the police account and
+operating in Balneário Rincão. [@1,5] The claim is part of the police account and
 is still to be investigated. [@3]
 
 Several of the tablets carried a printed photograph of President Luiz Inácio
 Lula da Silva beside another man, taped to packages wrapped in green and yellow
 tape; the reason was not explained. [@3] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station in
-Criciúma. [@3]
+Criciúma. [@3,5]
 
 The man told police the cannabis was meant to supply drug sales during the summer season in Balneário Rincão, when the town's population rises. [@4]
