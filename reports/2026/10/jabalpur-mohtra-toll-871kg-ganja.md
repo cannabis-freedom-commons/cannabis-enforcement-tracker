@@ -31,6 +31,11 @@ media:
     media_url: https://lalluram.com/wp-content/uploads/2026/10/JABALPUR-GANJA.jpg
     publisher: Lalluram
     caption: Police officers with stacks of coloured sacks of seized ganja in front of the container truck at the interception point. No photo credit was given.
+  - kind: photo
+    url: https://navbharatlive.com/uttar-pradesh/jhansi-antf-major-operation-871-kg-ganja-seized-jabalpur-two-arrested-npp09
+    media_url: https://media.assettype.com/navbharatlive%2F2026-10-31%2Fiygqjmsf%2FJhansi-ANTF.jpg?w=768&auto=format%2Ccompress&fit=max
+    publisher: Navbharat Live
+    caption: Composite photograph showing two suspects seated in front of a police station, left, and police officers beside the open container with sacks of seized ganja, right; the page credits it to social media.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -64,6 +69,16 @@ sources:
     publisher: Lalluram
     date: 2026-10-31
     language: hi
+  - title: 'जबलपुर: 4.35 करोड़ का 871 किलो गांजा जब्त, पेंट के डिब्बों में छिपाई गई थीं 28 बोरियां'
+    url: https://navbharatlive.com/madhya-pradesh/jabalpur/jabalpur-container-871-kg-ganja-seized-paint-boxes-pjn28
+    publisher: Navbharat Live
+    date: 2026-10-31
+    language: hi
+  - title: नशे के नेटवर्क पर झांसी ANTF का बड़ा प्रहार, जबलपुर में 871 किलो गांजा बरामद, दो गिरफ्तार
+    url: https://navbharatlive.com/uttar-pradesh/jhansi-antf-major-operation-871-kg-ganja-seized-jabalpur-two-arrested-npp09
+    publisher: Navbharat Live
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -81,6 +96,7 @@ open_questions:
   - Lalluram puts the value at about ₹4 crore 34 lakh, slightly below the ₹4.35 crore figure the report uses.
   - Lalluram names the accused only as Vikram and Dharamveer and gives their states, without the ages and home districts recorded in the report.
   - The Lalluram page publishes its lead photograph without a credit.
+  - 'Left out, as its quotation was not found in Navbharat Live: Police registered a case against the accused under the Narcotic Drugs and Psychotropic Substances Act.'
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -89,10 +105,10 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4]
+Dinajpur, West Bengal. [@1,4,7]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6] The container had a
 Nagaland registration number, police said. [@2]
@@ -114,8 +130,8 @@ promised ₹1 lakh for the trip. [@1] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
 were paid ₹1 lakh for each consignment, according to police. [@2] Investigators
 were working to identify other people connected with arranging, transporting and
-delivering the consignment. [@1,3]
+delivering the consignment. [@1,3,8]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
