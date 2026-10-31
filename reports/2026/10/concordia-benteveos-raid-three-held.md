@@ -42,12 +42,18 @@ sources:
     publisher: AHORA Entre Ríos
     date: 2026-10-31
     language: es
+  - title: 'Hallaron cocaína y marihuana en allanamientos: tres detenidos por agredir a policías'
+    url: https://9digital.com.ar/allanamientos-cocaina-marihuana-tres-detenidos-concordia/
+    publisher: 9 Digital - Mi 9
+    date: 2026-10-31
+    language: es
 open_questions:
   - Neither account names a calendar date; both say the raid was on Friday afternoon, and Elonce published the account on Friday 30 October 2026.
   - No weight or number of wrappers was published.
   - The three people who were detained are not named, and no later charge or court outcome is reported.
   - 7Páginas says both searches were positive but does not say drugs were found at both addresses; the seizure is described for the house where the violence occurred.
   - Two further images embedded in the Elonce article have no captions, so they were not listed.
+  - 'The 9 Digital page is a syndicated copy of the AHORA Entre Ríos article already cited in this report: the body text, publication time and lead photo are the same, so it adds no independent corroboration.'
 ---
 
 Three people were detained in Concordia during a police raid on Friday afternoon
@@ -55,22 +61,22 @@ after a woman struck officers with a kitchen board and two men punched them.
 [@1,3] Officers from Comisaría Séptima, the city's seventh police station, led the
 raid and seized wrappers of cocaine and marijuana. [@1] The searches ran at the
 same time at two homes, near Los Benteveos at number 2000 and at the corner of
-Los Jilgueros and Los Gorriones. [@1,3] Court orders had been issued in an
+Los Jilgueros and Los Gorriones. [@1,3,4] Court orders had been issued in an
 investigation into items stolen from a house. [@1]
 
 At one of the addresses, officers notified a 19-year-old of the search and
-identified three women and two men. [@1,3] Violence broke out as they entered and
+identified three women and two men. [@1,3,4] Violence broke out as they entered and
 briefly stopped the work. [@1] Police said the clash happened in a small room
 used as a kitchen and dining room, where one of the identified women and two men
-resisted the procedure. [@1,3] The woman picked up a kitchen board and hit the
-officers, and the two men punched them. [@1,3] Officers restrained the three,
+resisted the procedure. [@1,3,4] The woman picked up a kitchen board and hit the
+officers, and the two men punched them. [@1,3,4] Officers restrained the three,
 restored order and continued the search under the court orders. [@1]
 
 During the inspection they found wrappers of suspicious substances and called in
-the División Drogas Peligrosas, the dangerous-drugs unit. [@1,3] Field tests were
-positive for cocaine and marijuana. [@1,3] The substances were seized and held for
+the División Drogas Peligrosas, the dangerous-drugs unit. [@1,3,4] Field tests were
+positive for cocaine and marijuana. [@1,3,4] The substances were seized and held for
 the courts. [@1] Duty prosecutor Martín Núñez ordered the arrest of the woman
-and the two men involved in the assaults. [@1,3] The three were held for the
+and the two men involved in the assaults. [@1,3,4] The three were held for the
 alleged offences of attacking and resisting authority and illegal possession of
 narcotics, and the court proceedings continued. [@1] According to the police
 account given to 7Páginas, both searches produced positive results. [@2]
