@@ -63,6 +63,11 @@ sources:
     publisher: Şehir Medya
     date: 2026-10-31
     language: tr
+  - title: 'Bursa''da kasap dükkanını kenevir serasına çevirdiler: Şüpheli şahıs tutuklandı'
+    url: https://www.sabah.com.tr/yasam/bursada-kasap-dukkanini-kenevir-serasina-cevirdiler-supheli-sahis-tutuklandi-7692225
+    publisher: Sabah
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The sources give no separate date for the operation, detention or court appearance; 31 October 2026 is the publication date of the earliest accounts.
   - No charge, trial date, sentence or estimated value of the cannabis was published; tutuklama is pre-trial detention, not a conviction.
@@ -105,19 +110,19 @@ media:
 
 Police in Yıldırım, a district of Bursa, found a cannabis grow in the basement
 of a butcher's shop converted into a grow room with climate-control and lighting
-equipment. [@2,3,4,5,6,7,8] They detained a suspect identified only by the initials A.T.;
+equipment. [@2,3,4,5,6,7,8,10] They detained a suspect identified only by the initials A.T.;
 after questioning at the police station he was taken to court, where a judge
 ordered him held in pre-trial detention, known in Turkey as tutuklama. [@1,3,5,8] He
-was sent to prison after the court order. [@2,3,4,9]
+was sent to prison after the court order. [@2,3,4,9,10]
 
 Officers seized 114 cannabis plants in pots, 1 kg 885 g of esrar (cannabis) in
 four transparent bags, another 105 g in two bags and 924 g of cannabis left to
 dry, along with the climate-control and lighting equipment, liquid fertilisers
-and chemicals. [@1,3,4,5,9] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8]
+and chemicals. [@1,3,4,5,9,10] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8,10]
 
 The operation followed about a month of physical surveillance, after which
 police said the basement had been converted into a cannabis greenhouse and
 cannabis grown there was prepared for sale at another address. [@1] It was run
 by Yıldırım district police teams working against drug manufacture and
-trafficking. [@2,3,4,5,6,8] Searches were carried out at several addresses under a
-decision by judicial authorities. [@2,3,4,8]
+trafficking. [@2,3,4,5,6,8,10] Searches were carried out at several addresses under a
+decision by judicial authorities. [@2,3,4,8,10]
