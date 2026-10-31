@@ -108,6 +108,11 @@ sources:
     publisher: Yeni Birlik
     date: 2026-10-31
     language: tr
+  - title: 'Antalya’da zehir tacirine operasyon: O anlar kamerada'
+    url: https://www.antalyahakkinda.com/antalyada-zehir-tacirine-operasyon-o-anlar-kamerada
+    publisher: Antalya Hakkında
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -124,15 +129,18 @@ open_questions:
   - Medya Gazete's report is an İHA wire copy, so it corroborates the agency account already cited in the report rather than adding independent reporting.
   - The Yeni Birlik gallery gives no separate date for the operation; 31 October 2026 is its publication date.
   - The gallery credits no photographer or agency for its five photographs.
+  - The Antalya Hakkında page credits İHA, so it repeats the agency account already cited rather than adding independent reporting.
+  - Four uncaptioned police stills and an embedded Streamable video on the page could not be confirmed as distinct from İHA footage already linked, so they were not added as media.
+  - 'Left out, as its quotation was not found in Antalya Hakkında: M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11,12] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,3,4,5,7,8,9,10,12] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12] The pair were referred to the
+city. [@1,4,8,9,10,11,12,13] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+Kepez district. [@1,3,4,5,7,8,9,10,12,13] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12,13] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,5,7,8,9,10,11]
+substances. [@1,5,7,8,9,10,11,13]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
 police directorate. [@1,4,7,8,9,10,11,12] Sabah reported that it followed intelligence that the
