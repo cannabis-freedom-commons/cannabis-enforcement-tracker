@@ -30,6 +30,10 @@ sources:
     url: https://abc6onyourside.com/news/local/parents-charged-with-child-endangerment-after-infants-death-suspect-still-at-large-athens-county-sheriffs-office-rodney-smith-william-mccallister-justin-dye-hannah-edinger-arrested-child-endangerment-charged-fatal-wanted
     publisher: ABC 6 On Your Side (WSYX)
     date: 2026-10-30
+  - title: Ohio parents arrested, man wanted in marijuana death of infant
+    url: https://www.nbc4i.com/news/local-news/athens-county/ohio-parents-arrested-man-wanted-in-marijuana-death-of-infant/
+    publisher: NBC4 WCMH-TV
+    date: 2026-10-31
 open_questions:
   - No date is given for the grand jury indictment; the report is dated at the parents' arrests on 28 October 2026.
   - 'The sources do not say whether marijuana contributed to the infant''s death: the sheriff described fatal injuries, while NBC4 calls the case a marijuana death and quotes the drug counts.'
@@ -43,16 +47,16 @@ open_questions:
 ---
 
 Three adults were indicted in Athens County over the death of a three-month-old
-girl. [@1] William McCallister, 32, is charged with murder, endangering
+girl. [@1,4] William McCallister, 32, is charged with murder, endangering
 children, felonious assault, corrupting another with drugs and permitting drug
-abuse. [@1] The indictment's two drug counts state that McCallister furnished or
-administered marijuana to a juvenile. [@1]
+abuse. [@1,4] The indictment's two drug counts state that McCallister furnished or
+administered marijuana to a juvenile. [@1,4]
 
 Deputies arrested them in the Chauncey area and took them to the Southeastern
 Ohio Regional Jail. [@3] Prosecutors said both parents let their daughter go to
 a residence where she was caught up in the circumstances that led to her death.
-[@1] Both pleaded not guilty in Athens County Court of Common Pleas and were
-each given a $100,000 bond. [@1] Hearings are set for 24 November for Edinger
+[@1,4] Both pleaded not guilty in Athens County Court of Common Pleas and were
+each given a $100,000 bond. [@1,4] Hearings are set for 24 November for Edinger
 and 3 December for Dye. [@2]
 
 Sheriff Rodney Smith said McCallister is alleged to have inflicted fatal
@@ -64,3 +68,4 @@ announced. [@1] The sheriff's office asked anyone with information to call
 place their safety and well being at risk,” Athens County Prosecutor Keller J.
 Blackburn said. [@3]
 
+The indictment dates the child-endangerment allegations from January, the felonious assault from 19 February, and the death charged in the murder count as on or about 21 to 26 February 2026. [@4]
