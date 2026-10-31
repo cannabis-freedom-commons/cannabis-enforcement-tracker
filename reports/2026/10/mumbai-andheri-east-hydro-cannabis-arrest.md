@@ -73,6 +73,10 @@ sources:
     publisher: Lokmat
     date: 2026-10-31
     language: mr
+  - title: Two Arrested In Mumbai With High-Grade Hydroponic Cannabis
+    url: https://m.rediff.com/amp/news/report/hydroponic-cannabis-worth-rs-66-lakh-seized-in-mumbai/20261030.htm
+    publisher: Rediff.com
+    date: 2026-10-30
 open_questions:
   - Mid-Day dates the arrests to Thursday, 29 October; the Rediff report says a Mumbai police official spoke on Friday and its summary dates the arrest to Friday.
   - No charge sheet, court date or court outcome has been reported.
@@ -109,14 +113,14 @@ they were apprehended near JK Industrial Estate on Paper Box Road on Thursday.
 industrial estate to sell the contraband, and officers laid a trap, an MIDC
 police station official said. [@2]
 
-A search recovered 1.896 kg of hydroponic cannabis from a red bag. [@2,3,7,10,11] Police
-valued the cannabis at Rs 66.36 lakh, about 6.6 million rupees. [@1,3,5,6,8,9,10,11] The men had
+A search recovered 1.896 kg of hydroponic cannabis from a red bag. [@2,3,7,10,11,12] Police
+valued the cannabis at Rs 66.36 lakh, about 6.6 million rupees. [@1,3,5,6,8,9,10,11,12] The men had
 travelled from Satara district to Mumbai to sell the contraband, police said.
-[@1,3,5,6,8,9,10,11] Police said both were residents of Koregaon in Satara district. [@2]
+[@1,3,5,6,8,9,10,11] Police said both were residents of Koregaon in Satara district. [@2,12]
 
-A case was registered under the NDPS Act. [@1,3,7,10] Police said further investigation
-would examine the supply and distribution network. [@2,3,5,6,8,11] Hydroponic cannabis is
-grown in a water-based mineral nutrient solution rather than in soil. [@2]
+A case was registered under the NDPS Act. [@1,3,7,10,12] Police said further investigation
+would examine the supply and distribution network. [@2,3,5,6,8,11,12] Hydroponic cannabis is
+grown in a water-based mineral nutrient solution rather than in soil. [@2,12]
 
 Sub-Inspector Ranjit Gondkupe of the MIDC police station and the anti-narcotics squad were patrolling on the night of 29 October and spotted the two men at about 7.45 pm. [@3] Police gave the men's addresses as Bhakarwadi and Wathar Station in Koregaon, Satara district. [@3,5,6,8,11]
 
