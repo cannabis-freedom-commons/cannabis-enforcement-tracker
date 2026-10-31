@@ -18,6 +18,11 @@ media:
     media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/ternate/thumbs/full_1793437906018672_6562169b19_berita_ternate.webp
     publisher: RRI.co.id
     caption: 'Police handout photo of the Lukolamo arrest, showing the suspect with officers and the 23 sachets of ganja seized displayed as evidence. Photo: Humas Polda/RRI'
+  - kind: photo
+    url: https://klikfakta.id/polda-malut-sita-ganja-16-gram-di-halteng-dan-sabu-di-ternate/
+    media_url: https://klikfakta.id/wp-content/uploads/2026/10/IMG-20261031-WA0053.jpg
+    publisher: Klikfakta.id
+    caption: 'Police handout photo captioned as showing both arrested men with the seized evidence. Photo: Humas Polda Maluku Utara'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6ce5b8db17df2de4a64c08017d1bf2ef
@@ -38,21 +43,27 @@ sources:
     publisher: Tandaseru.com
     date: 2026-10-31
     language: id
+  - title: Polda Malut Sita Ganja 16 Gram di Halteng dan Sabu di Ternate
+    url: https://klikfakta.id/polda-malut-sita-ganja-16-gram-di-halteng-dan-sabu-di-ternate/
+    publisher: Klikfakta.id
+    date: 2026-10-31
+    language: id
 open_questions:
   - No charge has been announced; the reports say MS was taken to the Ditresnarkoba office for examination and further legal process.
   - All three accounts carry the same police statement, so the details rest on one official version rather than independent reporting.
   - 'The sachet counts do not reconcile: seven were handed over in the controlled buy, nine were found in his pocket and 14 in his room, while police give the total seized as 23 clip bags plus one sachet of leftovers.'
   - It is not clear whether the 16.35 grams total includes the seven sachets handed over in the controlled buy; the two seizures the statement lists add up to 16.31 grams.
   - The reports name only Desa Lukolamo in Weda Tengah; the coordinates are for Lelilef Waibulan, a village in the same district, not the roadside arrest site.
+  - The same Klikfakta article reports a separate methamphetamine case in Ternate, where a second man, GR (21), was arrested with 2.52 grams of sabu, or methamphetamine; that is a different event and is not covered here.
 ---
 
 North Maluku's police narcotics directorate, Ditresnarkoba Polda Malut, arrested
 a 31-year-old man identified as MS alias SAL beside the road in Desa Lukolamo, a
 village in Weda Tengah district, Central Halmahera, on Friday 30 October 2026.
 [@2] Police said the case began with a public tip about suspected possession and
-distribution of ganja in the area. [@1] Officers posed as buyers and set up an
-undercover purchase, the police statement said. [@1] They ordered seven sachets
-of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1]
+distribution of ganja in the area. [@1,4] Officers posed as buyers and set up an
+undercover purchase, the police statement said. [@1,4] They ordered seven sachets
+of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1,4]
 
 When MS arrived and handed over the seven sachets, the team detained him without
 resistance. [@1] A search of his jeans pocket found nine transparent clip bags
@@ -60,7 +71,7 @@ holding 5.23 grams gross of ganja and a green Oppo mobile phone. [@1] A search
 of his rented room found 14 small sachets and one medium sachet containing
 leftover ganja, 11.08 grams gross, in a backpack. [@1] In all, police seized 23
 clip bags and one sachet of leftover ganja weighing 16.35 grams gross, a sheet
-of white tissue and the phone. [@2]
+of white tissue and the phone. [@2,4]
 
 MS told officers he had brought 30 sachets from Ambon, bought from a friend
 identified as SS for Rp 500,000, and said they were for his own use. [@1] The
@@ -70,3 +81,4 @@ province. [@1] The operation was led by Ipda Harbun Fatmona of Unit 2, Subdit
 II. [@3] MS and the evidence were taken to the Ditresnarkoba office in North
 Maluku for examination and further legal process. [@2]
 
+Azhar said investigators would develop the case to break up the network behind the suspect and urged residents to keep reporting drug activity in the province. [@4]
