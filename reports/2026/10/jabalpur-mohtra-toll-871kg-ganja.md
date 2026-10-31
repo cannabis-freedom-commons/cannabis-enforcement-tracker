@@ -21,6 +21,11 @@ media:
     media_url: https://english.dainikjagranmpcg.com/media-webp/1200/2026-10/vaani-literature-festival-2026-shashi-tharoor-to-launch-constitution-book-in-indore-(64).png
     publisher: Dainik Jagran English
     caption: 'Police officers beside the opened container, with sacks of seized cannabis and paint cans stacked inside. Photo: Dainik Jagran'
+  - kind: photo
+    url: https://www.tarunmitra.in/state/uttar-pradesh/big-action-by-up-antf-in-madhya-pradesh-871-kg/article-170141
+    media_url: https://www.tarunmitra.in/media-webp/1200/2026-10/31oct51234567.jpg
+    publisher: Tarun Mitra
+    caption: Sacks of seized ganja stacked at the roadside during the operation; the page gave no photo credit.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -44,6 +49,11 @@ sources:
     publisher: Dainik Bhaskar Hindi
     date: 2026-10-31
     language: hi
+  - title: मध्य प्रदेश में यूपी एएनटीएफ की बड़ी कार्रवाई, 871 किलो गांजा बरामद
+    url: https://www.tarunmitra.in/state/uttar-pradesh/big-action-by-up-antf-in-madhya-pradesh-871-kg/article-170141
+    publisher: Tarun Mitra
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -55,6 +65,8 @@ open_questions:
   - Hindustan places the interception near Muskura Mor on National Highway 30, while the existing report records a blockade at the Mohtra toll plaza.
   - The Hindustan page carried no photograph of the seizure; its only image was the site logo, so no media was added from it.
   - Dainik Bhaskar Hindi's page carries an uncaptioned embedded video, which could not be confirmed to show the seizure, so no media entry was added from it.
+  - Tarun Mitra dates the operation to the night of 30 October, while the existing report dates the interception to around 2 am on 31 October.
+  - No other account confirms the Rajasthan supply detail or the village-level addresses given by Tarun Mitra.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -79,7 +91,7 @@ said. [@2] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1] The 28 sacks were loaded
@@ -90,4 +102,6 @@ were paid ₹1 lakh for each consignment, according to police. [@2] Investigator
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
+
+The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
