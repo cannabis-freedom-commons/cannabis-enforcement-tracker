@@ -48,12 +48,24 @@ sources:
     publisher: El Norte de Castilla
     date: 2026-10-31
     language: es
+  - title: Tres detenidos de la misma familia por vender droga en Valladolid
+    url: https://www.elnortedecastilla.es/valladolid/tres-detenidos-familia-vender-droga-valladolid-20261031140835-nt.html
+    publisher: El Norte de Castilla
+    date: 2026-10-31
+    language: es
+  - title: Detenidas tres personas de la misma familia por venta de droga desde su domicilio en Valladolid
+    url: https://www.abc.es/espana/castilla-leon/detenidas-tres-personas-familia-venta-droga-domicilio-20261031134934-nt.html
+    publisher: ABC
+    date: 2026-10-31
+    language: es
 open_questions:
   - No separate figure was published for the value of the marijuana and hashish; the police valuation of €20,150 and the estimate of 690 doses cover the cocaine, marijuana and hashish together.
   - The reports name none of the three detainees or give their ages, and no formal charges, court date or trial outcome were reported.
   - The judge's order sending the woman to prison was pre-trial detention, not a sentence.
   - All three accounts rest on the same Government Subdelegation statement, so the details could not be checked against an independent source.
   - El Norte de Castilla describes the detained man as the woman's husband, while El Día de Valladolid calls him her partner.
+  - El Norte de Castilla's article is paywalled; only its headline and standfirst could be read, so no detail from its body was used.
+  - The El Norte de Castilla page carries a one-minute video, but the page does not describe what it shows, so no media entry was added.
 ---
 
 National Police officers arrested a woman and two men, all members of one
@@ -66,13 +78,13 @@ operation, code-named SMURF, police declared the cocaine sales point dismantled.
 [@1,4]
 
 The search turned up 145 grams of cocaine, 500 grams of marijuana and 150 grams
-of hashish. [@1,4] Officers also seized €3,115 in cash, two bladed weapons and
-numerous utensils used to prepare and distribute drugs. [@1,4] Police estimated
+of hashish. [@1,4,6] Officers also seized €3,115 in cash, two bladed weapons and
+numerous utensils used to prepare and distribute drugs. [@1,4,7] Police estimated
 the haul could have made about 690 doses for direct sale and valued it at
-€20,150 on the illegal market. [@1,4]
+€20,150 on the illegal market. [@1,4,7]
 
 The two men gave statements at the Provincial Police Station in Valladolid and
-were released, with an obligation to appear before a court when required. [@1,4] A
+were released, with an obligation to appear before a court when required. [@1,4,7] A
 judge ordered the woman held in prison after she was brought before the court.
 [@1,5] The investigation began in August, after reports that a woman was selling
 drugs from her home and its surroundings. [@2,4] Police said the inquiry ran into
