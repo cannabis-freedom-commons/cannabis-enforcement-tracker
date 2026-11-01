@@ -34,6 +34,14 @@ sources:
     url: https://www.nbc4i.com/news/local-news/athens-county/ohio-parents-arrested-man-wanted-in-marijuana-death-of-infant/
     publisher: NBC4 WCMH-TV
     date: 2026-10-31
+  - title: Ohio parents arrested, man wanted in marijuana death of infant
+    url: https://www.yahoo.com/news/us/articles/ohio-parents-arrested-man-wanted-120000075.html
+    publisher: Yahoo News
+    date: 2026-10-31
+  - title: Three-month-old's death leads to charges against parents, murder indictment for Ohio man
+    url: https://local12.com/news/nation-world/baby-infant-death-parents-charged-alex-mccallister-murder-indictment-athens-county-ohio-justin-dye-hannah-edinger
+    publisher: Local 12 (WKRC)
+    date: 2026-10-30
 open_questions:
   - No date is given for the grand jury indictment; the report is dated at the parents' arrests on 28 October 2026.
   - 'The sources do not say whether marijuana contributed to the infant''s death: the sheriff described fatal injuries, while NBC4 calls the case a marijuana death and quotes the drug counts.'
@@ -44,23 +52,24 @@ open_questions:
   - 'Left out, as its quotation was not found in WTAP: The sheriff''s office arrested the girl''s parents while the third defendant remains at large.'
   - 'Left out, as its quotation was not found in WTAP: Justin Dye, 25, and Hannah Edinger, 29, were arrested on 28 October and each faces a felony child-endangering charge.'
   - 'Left out, as its quotation was not found in WTAP: The girl was left in McCallister''s care on 21 February and died on 26 February.'
+  - The Yahoo News page is a syndicated copy of the WCMH article already cited in the report, so it adds no independent corroboration.
 ---
 
 Three adults were indicted in Athens County over the death of a three-month-old
-girl. [@1,4] William McCallister, 32, is charged with murder, endangering
+girl. [@1,4,5] William McCallister, 32, is charged with murder, endangering
 children, felonious assault, corrupting another with drugs and permitting drug
-abuse. [@1,4] The indictment's two drug counts state that McCallister furnished or
-administered marijuana to a juvenile. [@1,4]
+abuse. [@1,4,5] The indictment's two drug counts state that McCallister furnished or
+administered marijuana to a juvenile. [@1,4,5]
 
 Deputies arrested them in the Chauncey area and took them to the Southeastern
 Ohio Regional Jail. [@3] Prosecutors said both parents let their daughter go to
 a residence where she was caught up in the circumstances that led to her death.
-[@1,4] Both pleaded not guilty in Athens County Court of Common Pleas and were
-each given a $100,000 bond. [@1,4] Hearings are set for 24 November for Edinger
+[@1,4,5] Both pleaded not guilty in Athens County Court of Common Pleas and were
+each given a $100,000 bond. [@1,4,5] Hearings are set for 24 November for Edinger
 and 3 December for Dye. [@2]
 
 Sheriff Rodney Smith said McCallister is alleged to have inflicted fatal
-injuries on her. [@2] An autopsy report was filed on 28 August. [@1] The
+injuries on her. [@2] An autopsy report was filed on 28 August. [@1,5] The
 prosecutor's office said it waited for the cause of death before deciding on
 charges. [@2] McCallister's whereabouts were unknown when the charges were
 announced. [@1] The sheriff's office asked anyone with information to call
@@ -69,3 +78,5 @@ place their safety and well being at risk,” Athens County Prosecutor Keller J.
 Blackburn said. [@3]
 
 The indictment dates the child-endangerment allegations from January, the felonious assault from 19 February, and the death charged in the murder count as on or about 21 to 26 February 2026. [@4]
+
+An arrest warrant for McCallister was issued after the indictment. [@6]
