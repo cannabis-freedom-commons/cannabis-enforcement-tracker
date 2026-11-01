@@ -25,6 +25,8 @@ open_questions:
   - Start News dates the raid to Sunday 1 November 2026, apparently by correcting MohgaNews's 'Minggu (31/10/2026)'; the report keeps 31 October, the date AnalisaDaily and Mistar.id also give.
   - Start News repeats MohgaNews's release, including the same quotes and the 30-tonne conversion, so the two accounts are not independent.
   - Tribun Medan says officers secured about 150 plants, while the same article also describes thousands and the report counts 150,000; the report keeps 150,000.
+  - Kumparan gives the approach trek as about six hours, while the existing report says seven hours one way and 14 hours round trip.
+  - Kumparan says BNNP had identified the owners and was pursuing them but does not name them, so their identity remains unknown.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -49,6 +51,16 @@ sources:
   - title: Penampakan 5 Hektare Ladang Ganja yang Dimusnahkan BNN Sumut dan Poldasu di Madina
     url: https://medan.tribunnews.com/sumut-terkini/1817792/penampakan-5-hektare-ladang-ganja-yang-dimusnahkan-bnn-sumut-dan-poldasu-di-madina
     publisher: Tribun Medan
+    date: 2026-11-01
+    language: id
+  - title: Tim Gabungan BNNP Sumut, Poldasu, TNI Musnahkan 5 Hektare Ladang Ganja di Mandaling Natal
+    url: https://www.waspada.id/berita/tim-gabungan-bnnp-sumut-poldasu-tni-musnahkan-5-hektare-ladang-ganja-di-mandaling-natal
+    publisher: Waspada.id
+    date: 2026-11-01
+    language: id
+  - title: 'BNNP-Polda Sumut Musnahkan 5 Hektare Ladang Ganja di Mandailing Natal: Dicabut, lalu Dibakar'
+    url: https://kumparan.com/kumparannews/bnnp-polda-sumut-musnahkan-5-hektare-ladang-ganja-di-mandailing-natal-dicabut-lalu-dibakar-28UJNziw1Hf
+    publisher: kumparan
     date: 2026-11-01
     language: id
 media:
@@ -89,4 +101,6 @@ on the round trip. [@2]
 
 The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4]
 
-Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5]
+Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5]
+
+Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7] He said the huts around the plots were empty when officers arrived. [@7]
