@@ -36,6 +36,11 @@ sources:
     publisher: صدى البلد
     date: 2026-11-01
     language: ar
+  - title: مباحث طهطا تضبط عاطلًا بحوزته حشيش ومبلغ مالي في سوهاج
+    url: https://www.iqraa.news/179078/%D9%85%D8%A8%D8%A7%D8%AD%D8%AB-%D8%B7%D9%87%D8%B7%D8%A7-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84%D9%8B%D8%A7-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D9%85%D8%A8/
+    publisher: إقرأ نيوز
+    date: 2026-11-01
+    language: ar
 open_questions:
   - None of the four accounts gives the weight of the hashish or the amount of cash seized.
   - No separate date is given for the arrest; 1 November 2026 is the publication date of all four accounts.
@@ -55,7 +60,7 @@ The operation followed authorisation from the Public Prosecution and was led by
 Ahmed al-Bariri, head of the Tahta police investigations unit, with Captain Alaa
 Omran assisting. [@3] Police said he was caught in the act with the seized
 items. [@1] Besides the hashish, officers found cash that police suspect came
-from drug sales. [@2] Questioned by police, he admitted holding the drugs for
+from drug sales. [@2,5] Questioned by police, he admitted holding the drugs for
 sale and said he wanted quick financial profit. [@1] He was referred to the
 Public Prosecution for investigation. [@4]
 
@@ -63,4 +68,3 @@ Dealing in hashish carries death or life imprisonment and a fine of between
 100,000 and 500,000 Egyptian pounds under article 34 of Egypt's 1960 narcotics
 law, the reports noted. [@1] The arrest came amid a series of security campaigns
 in Sohag's districts against drug dealing. [@4]
-
