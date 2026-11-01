@@ -60,6 +60,11 @@ sources:
     publisher: MTV Lebanon
     date: 2026-11-01
     language: ar
+  - title: 'بالفيديو: الجيش يعلن إتلاف مساحة واسعة من "الماريجوانا"'
+    url: https://www.mtv.com.lb/amp/details/1753966
+    publisher: MTV Lebanon
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The army's statement gives no separate date for the destruction; 1 November 2026 is the date the statement was issued.
   - No figure for the number of plants, the weight of cannabis or the value of the crop was published.
@@ -73,11 +78,11 @@ open_questions:
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square
 meters in the Zarzir and Ainata areas of Baalbek, the army said on 1 November
-2026. [@1,4,6] The army's Directorate of Orientation said the unit had worked to
+2026. [@1,4,6,7] The army's Directorate of Orientation said the unit had worked to
 destroy the planted area in the two locations. [@3,5] The army's English statement
 put the crop at an estimated 9,700 square meters in Zarazir and Aainata, in
 Baalbek. [@2] That is about 0.97 hectares, or roughly 9.7 Lebanese dunams of
-1,000 square meters. [@1]
+1,000 square meters. [@1,7]
 
 The army gave no count of plants, weight of cannabis or value for the crop. [@1]
 It named no owner, cultivator or suspect, and reported no arrests or charges.
