@@ -46,6 +46,11 @@ media:
     media_url: https://img.inews.id/media/600/files/networks/2026/10/31/51078_polresta-deli-serdang.jpeg
     publisher: iNewsMedan.id
     caption: 'Press conference on the results of Operasi Sarang Narkoba at Deli Serdang police headquarters, with the seized drugs on display. Photo: Istimewa / iNewsMedan.id'
+  - kind: photo
+    url: https://tekape.co/229-kg-sabu-dan-235-kg-ganja-disita-polresta-deli-serdang/
+    media_url: https://tekape.co/wp-content/uploads/2026/10/Polresta-Deli-Serdang-1536x1152.jpg
+    publisher: Tekape.co
+    caption: 'Deli Serdang police chief Kombes Pol Muhammad and officers display the drugs seized in the five October cases at a press conference on 30 October 2026. Photo: Abednego Manalu / Tekape.co'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -106,6 +111,11 @@ sources:
     publisher: iNewsMedan.id
     date: 2026-10-31
     language: id
+  - title: 22,9 Kg Sabu dan 23,5 Kg Ganja Disita Polresta Deli Serdang
+    url: https://tekape.co/229-kg-sabu-dan-235-kg-ganja-disita-polresta-deli-serdang/
+    publisher: Tekape.co
+    date: 2026-10-31
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -125,6 +135,9 @@ open_questions:
   - Trans89.com gives the ganja as 24 kg, a rounded figure; the report uses the police's detailed 23,517.86 g (23.5 kg).
   - iNews Medan labels the press conference 'Friday (31/10/2026)', although 31 October 2026 fell on a Saturday; the report keeps Friday 30 October, the date given in the earlier accounts.
   - Harian Dialog's only photograph carried no caption or credit, so no media entry was taken from that page; the iNews Medan press-conference photo is linked instead.
+  - This account presents five cases and six people arrested, while the report records 30 cases and 57 suspects from the same operation; the five-case list names suspects in every case without explaining the six-person count.
+  - The article gives the methamphetamine total as 22,971.72 grams, while the report's earlier sources give 23,010.24 grams.
+  - 'Left out, as its quotation was not found in Editorial24jam.com: The third case was at Dusun I in Seituan village, Pantai Labu, Deli Serdang, on the afternoon of 25 October 2026.'
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -151,3 +164,5 @@ drug-affected areas. [@1,4]
 Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9]
 
 Muhammad said the operation was intended to narrow the space for drug offenders and to deter bandar and pengedar operating in Deli Serdang and nearby areas. [@11]
+
+The first case was at Jalan Rebab Pasar II in Medan Baru on the evening of 28 October 2026. [@12] Police suspect the first lot of ganja came from a man known as FH, who is now on the wanted list in the Simalingkar area. [@12] Police suspect the ganja was sent by a man known as SL from Padangsidimpuan for sale in Medan. [@12] The second case was an Aceh–Tangerang methamphetamine network, with the arrest on the Banda Aceh–Medan road at Besitang, Langkat, on 25 October 2026. [@12] According to the suspect's account, the drugs were being carried with a wanted man known as MR.X from Idi Rayeuk in East Aceh to Tangerang, on the orders of a network identified as HN and R, for Rp150 million. [@12]
