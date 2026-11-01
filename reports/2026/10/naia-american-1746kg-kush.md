@@ -49,6 +49,10 @@ sources:
     url: https://thechronicle.com.ph/american-arrested-over-p17-46-m-marijuana-kush-seizure-at-naia/
     publisher: The Chronicle
     date: 2026-10-31
+  - title: American man arrested at NAIA after airport scan finds P17.4 million in marijuana
+    url: https://theglobalfilipinomagazine.com/american-man-arrested-at-naia-after-airport-scan-finds-p17-4-million-in-marijuana/
+    publisher: The Global Filipino Magazine
+    date: 2026-10-31
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -96,3 +100,5 @@ Dangerous Drugs Act of 2002. [@1]
 The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
 
 According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
+
+An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6]
