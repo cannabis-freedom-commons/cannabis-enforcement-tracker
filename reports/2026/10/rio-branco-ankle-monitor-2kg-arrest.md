@@ -48,6 +48,11 @@ sources:
     publisher: Acre Alerta
     date: 2026-10-30
     language: pt
+  - title: Monitorado é preso com 2 kg de maconha escondidos em apartamento em Rio Branco
+    url: https://contilnetnoticias.com.br/policia/monitorado-e-preso-com-2-kg-de-maconha-escondidos-em-apartamento-em-rio-branco/
+    publisher: ContilNet Notícias
+    date: 2026-10-30
+    language: pt
 open_questions:
   - No charge by prosecutors, court appearance or bail decision was reported; the accounts end with him at the police station.
   - Acre Alerta placed the apartment in Apolônio Sales, gave his age as 46 and said the backpack was inside the washing tank, while A Gazeta do Acre, Juruá em Tempo and ac24horas name Macauã and say the backpack was nearby.
@@ -58,8 +63,8 @@ open_questions:
 Police in Rio Branco, the capital of Acre, arrested Daniel Ferreira de Oliveira
 on the night of Thursday 29 October 2026 with about 2 kg of cannabis in an
 apartment on Rua Vitória, in the Macauã neighbourhood in the upper part of the
-city. [@2] He was wearing an electronic ankle bracelet and was booked for drug
-trafficking. [@1] Acre Alerta reported that he was already facing a
+city. [@2,3] He was wearing an electronic ankle bracelet and was booked for drug
+trafficking. [@1,5] Acre Alerta reported that he was already facing a
 drug-trafficking case. [@4]
 
 The arrest was made by the Batalhão de Operações Especiais (Bope), the state
@@ -68,12 +73,11 @@ units, after intelligence from Bope and the Grupo Especial de Operações em
 Fronteira (Gefron), a border operations unit. [@1] According to information
 given to the police, Daniel received drugs from Bolivia at the business where he
 worked, on Avenida dos Ipês at the corner of Rua Três in the same neighbourhood,
-and took them to the apartment. [@3]
+and took them to the apartment. [@3,5]
 
 Officers found him sitting by the entrance next to a washing tank, with a
-backpack nearby. [@1] Inside were two packages of a substance resembling
-cannabis. [@1] During the arrest he suddenly broke his own mobile phone, which
+backpack nearby. [@1,5] Inside were two packages of a substance resembling
+cannabis. [@1,5] During the arrest he suddenly broke his own mobile phone, which
 police said appeared to be an attempt to block access to the information stored
-on it. [@1] He was taken with the drug to the specialised police station, and
-the Civil Police will investigate. [@1]
-
+on it. [@1,5] He was taken with the drug to the specialised police station, and
+the Civil Police will investigate. [@1,5]
