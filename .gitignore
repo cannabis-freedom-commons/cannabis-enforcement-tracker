@@ -4,6 +4,7 @@ dist/
 .DS_Store
 archive/
 .cache/
+.commandcode/
 
 # Submission service state, private configuration and research evidence
 /backend/data/
