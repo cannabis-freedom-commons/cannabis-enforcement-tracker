@@ -24,7 +24,7 @@ const source = z.object({
   locator: z.string().min(1).optional(), // the page, section or paragraph
   date: day.optional(), // when the source was published
   archived: z.string().url().optional(), // a copy in the Wayback Machine or archive.today
-  language: z.string().regex(/^[a-z]{2}$/).optional(), // if not English
+  language: z.string().regex(/^[a-z]{2,3}$/).optional(), // ISO 639-1 or ISO 639-2 code, if not English
 }).strict().refine((s) => s.url || s.type, { message: "a source needs a url, or a type (book, journal, report, law) with its details" });
 
 // What the enforcement did, in numbers, where a source gives them. Everything is optional;
