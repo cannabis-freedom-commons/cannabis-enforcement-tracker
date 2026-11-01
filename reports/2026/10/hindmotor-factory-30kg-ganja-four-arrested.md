@@ -41,6 +41,11 @@ sources:
     publisher: Hindusthan Post
     date: 2026-10-30
     language: hi
+  - title: '''গাড়িতে কী, দেখি'', মালদহে বিরাট পর্দাফাঁস! ৩ কেজি মরফিন উদ্ধার করল এসটিএফ, জানেন এই ভয়ঙ্কর জিনিসটি আসলে কী?'
+    url: https://www.aajkaal.in/west-bengal/bengal-stf-arrested-four-from-malda-after-huge-amount-of-brown-sugar-siezed-518907
+    publisher: Aajkaal
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The articles date the raid only as Thursday night; 29 October 2026 is the calendar date before the Friday 30 October publications.
   - TheWall says the four had already been sent to court on Friday, while Onkar Bangla, published the same day, said they would be produced and that police would seek custody. No later court outcome is reported.
@@ -55,13 +60,13 @@ factory at Hindmotor, a neighbourhood of Uttarpara in Hooghly district, West
 Bengal. [@1] Officers said they found the men standing in near-total darkness
 with several bags and detained them at once. [@1] The four are Pintu Basak,
 Laltu Hazra, Rajkumar Mistri and Shubham Mukherjee, who police said live in
-Chandannagar and Bhadreswar. [@1,4]
+Chandannagar and Bhadreswar. [@1,4,5]
 
 Acting on a confidential tip, the detective department of the Chandannagar
 Police Commissionerate and Uttarpara police station searched the disused plant,
 identified as the former Hindustan Motors factory. [@3] They recovered about 30
 kilograms of cannabis, called ganja locally, packed in a school bag and ten
-shoulder bags. [@2] Deputy Commissioner of Police for Serampore, Arnab Biswas,
+shoulder bags. [@1,2] Deputy Commissioner of Police for Serampore, Arnab Biswas,
 said a case had been registered under the NDPS Act, India's main narcotics law.
 [@1] TheWall reported that the four were sent to court on Friday. [@1] Onkar
 Bangla, published the same day, said they were to be produced in court that day
