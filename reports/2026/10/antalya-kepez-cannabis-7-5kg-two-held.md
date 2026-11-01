@@ -158,6 +158,11 @@ sources:
     publisher: Mardin Life
     date: 2026-10-31
     language: tr
+  - title: 'Antalya’da zehir tacirlerine operasyon: 7,5 kilogram esrar ele geçirildi'
+    url: https://gazetepano.com/asayis/antalyada-zehir-tacirlerine-operasyon-7-bucuk-kilo-esrar/59905/
+    publisher: Gazete Pano
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -203,4 +208,4 @@ and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10,16,19,20]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23]
