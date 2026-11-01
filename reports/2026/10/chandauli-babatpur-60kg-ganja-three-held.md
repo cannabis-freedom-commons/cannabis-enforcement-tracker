@@ -21,6 +21,16 @@ media:
     media_url: https://www.jagranimages.com/images/2026/10/31/template/image/ganja-(2)-1793458075905_v.webp
     publisher: Dainik Jagran
     caption: Police and the three arrested men with the ganja recovered from the car at Alinagar police station, in a photograph published by Dainik Jagran.
+  - kind: photo
+    url: https://chandaulisamachar.com/crime/60kg-ganja-seized-ertiga-up44bl9326-3-smugglers-held/cid19473478.htm
+    media_url: https://chandaulisamachar.com/static/c1e/client/88752/uploaded/9810e7bff56da2d7c88bc267a6aa6ce9.jpg?width=730&height=420&resizemode=4
+    publisher: Chandauli Samachar
+    caption: 'Police officers and a white car after the seizure in Chandauli. Photo: Chandauli Samachar'
+  - kind: photo
+    url: https://chandaulisamachar.com/crime/60kg-ganja-seized-ertiga-up44bl9326-3-smugglers-held/cid19473478.htm
+    media_url: https://chandaulisamachar.com/static/c1e/client/88752/uploaded/12b1cd731b0a92be54f86f0d8592f896.png
+    publisher: Chandauli Samachar
+    caption: 'A white car parked at a police station after the seizure in Chandauli. Photo: Chandauli Samachar'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0a51bec327e940ca4ac48b108bdbe381
@@ -41,6 +51,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'Ganja Seized: चंदौली में 60 किलो अवैध गांजा बरामद, अर्टिगा से करते थे तस्करी, SOG-सर्विलांस और अलीनगर पुलिस ने 3 तस्करों को दबोचा'
+    url: https://chandaulisamachar.com/crime/60kg-ganja-seized-ertiga-up44bl9326-3-smugglers-held/cid19473478.htm
+    publisher: Chandauli Samachar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - No report says whether the three men were produced before a magistrate, remanded or granted bail.
   - The reports do not say where in Odisha the consignment was loaded or who supplied it.
@@ -52,21 +67,22 @@ open_questions:
 ---
 
 Alinagar police and the Special Operations Group (SOG) arrested three men with
-60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1] Abhishek
-Singh was 25, Awadhesh 20 and Naushad 24. [@3]
+60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1,4] Abhishek
+Singh was 25, Awadhesh 20 and Naushad 24. [@3,4]
 
-The Alinagar team was checking vehicles near Hamidpur Patanwa. [@2] Acting on an
-informer's tip, officers signalled a car coming from Mirzapur to stop. [@2] The
-driver tried to run the car at the police team. [@1] Officers chased the car and
+The Alinagar team was checking vehicles near Hamidpur Patanwa. [@2,4] Acting on an
+informer's tip, officers signalled a car coming from Mirzapur to stop. [@2,4] The
+driver tried to run the car at the police team. [@1,4] Officers chased the car and
 stopped it near Babatpur in Varanasi district. [@1] In the boot, under the
-stepney (spare wheel), they found 60 packets of ganja. [@1] The packets held 60
+stepney (spare wheel), they found 60 packets of ganja. [@1,4] The packets held 60
 kg, and police estimated the ganja's value at about 20 lakh rupees (2 million).
-[@3]
+[@3,4]
 
 A first information report was registered against all three at Alinagar police
 station under sections of the Narcotic Drugs and Psychotropic Substances (NDPS)
-Act and the Bharatiya Nyaya Sanhita (BNS). [@3] Police said four criminal cases
+Act and the Bharatiya Nyaya Sanhita (BNS). [@3,4] Police said four criminal cases
 were already registered against Abhishek Singh in Sultanpur, including attempted
-murder and Arms Act cases. [@3] Circle officer Arun Kumar Singh said police
+murder and Arms Act cases. [@3,4] Circle officer Arun Kumar Singh said police
 recovered 60 kg of ganja from the three and were taking further action. [@3]
 
+The car was a white Maruti Ertiga with registration UP44BL9326. [@4]
