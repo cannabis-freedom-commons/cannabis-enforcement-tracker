@@ -42,6 +42,16 @@ media:
     media_url: https://static.langimg.com/nbt/thumb/135408506/25-crore-ganja-seizure-plants-36-hour-police-operation-four-accused.jpg?imgsize=389926&width=700&height=394&resizemode=75
     publisher: Navbharat Times
     caption: Police officers stand among cannabis plants in a cotton-and-maize field; the page caption describes plants over six feet tall.
+  - kind: photo
+    url: https://vocaltv.in/national/mp-dhar-6700-kg-cannabis-plants-rs-25-crore-seizedphp/cid19474780.htm
+    media_url: https://vocaltv.in/static/c1e/client/111914/migrated/76024702adb3ae6a7bbee64b66937e0c.jpg
+    publisher: Vocal TV
+    caption: Four men stand in front of a tractor-trolley loaded with white sacks at night during the Umarban seizure.
+  - kind: photo
+    url: https://vocaltv.in/national/mp-dhar-6700-kg-cannabis-plants-rs-25-crore-seizedphp/cid19474780.htm
+    media_url: https://vocaltv.in/static/c1e/client/111914/migrated/3fa1694547c7de406380a67685546fa9.jpg
+    publisher: Vocal TV
+    caption: A dense field of tall green cannabis plants in Umarban, Dhar district.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e2cf01d5d63870561ed64f9aa310ac8d
@@ -72,6 +82,11 @@ sources:
     publisher: Navbharat Times
     date: 2026-10-31
     language: hi
+  - title: मप्र के धार जिले में लहलहा रही थी गांजे की खेती, 25 करोड़ रुपये के 6700 किलो पौधे जब्त, 4 गिरफ्तार
+    url: https://vocaltv.in/national/mp-dhar-6700-kg-cannabis-plants-rs-25-crore-seizedphp/cid19474780.htm
+    publisher: Vocal TV
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -82,26 +97,28 @@ open_questions:
   - Navbharat Times gives an overall weight of 6,729 kg, but its three site totals sum to 6,710 kg; Lalluram also reports about 6,729 kg, while the existing report uses about 6,700 kg.
   - Navbharat Times estimates the crop at Rs 25 crore, while Lalluram reports Rs 24 crore.
   - The article also reports two Khargone operations involving 1,018 plants and three arrests, but gives no dates or locations to determine whether they overlap the indexed 88-plant Khargone case; they are not merged here.
+  - The Vocal TV article is a Hindustan Samachar wire copy whose text closely matches the Dainik Bhaskar report already cited, so it is not independent corroboration.
+  - The wire calls Vijay Dawar a deputy superintendent of police, while the existing report calls him an additional superintendent; the report's wording is unchanged.
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
 the Manawar area of Dhar district, Madhya Pradesh. [@4] The accused were Anil
 Mandloi, Malsingh alias Haresingh Mory, Sakharam Mory and Gulsingh Mandloi, all
-residents of Badiya Patelpura. [@3] Manawar station house officer Rajesh Yadav
+residents of Badiya Patelpura. [@3,6] Manawar station house officer Rajesh Yadav
 said the four were taken into police custody on the night of Saturday 31
-October. [@3,5] A case was registered against all four under the Narcotic Drugs
-and Psychotropic Substances Act. [@3]
+October. [@3,5,6] A case was registered against all four under the Narcotic Drugs
+and Psychotropic Substances Act. [@3,6]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
 pea and cotton on the farms. [@1] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3] Police estimated the market value at about Rs
-25 crore. [@2] Lalluram put the value at Rs 24 crore. [@1] It took police teams
-about 24 hours to uproot the plants from the irrigated fields. [@3] Forty
+about 67 quintals (6,700 kg). [@3,6] Police estimated the market value at about Rs
+25 crore. [@2,6] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
-part. [@3] The crop was loaded onto five tractor-trolleys and taken to Manawar.
+part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.
 [@3] The plants were about 15 days from harvest, police said. [@3]
 
-The raids were part of Operation Prahar. [@1,2] The operation is a district
+The raids were part of Operation Prahar. [@1,2,6] The operation is a district
 campaign against illegal cannabis cultivation. [@4] It was led by Superintendent
 of Police Sachin Sharma. [@1] Additional Superintendent of Police Vijay Dawar
 said police used drones to survey forests, hills and fields. [@2] The operation
@@ -110,3 +127,5 @@ covered Manawar, Mandav, Gandhwani, Bagh and Tanda in southern Dhar district.
 evening. [@2]
 
 Police seized 4,390 cannabis plants from three locations in Badiya village. [@5]
+
+Police described the Umarban operation as the first of its kind in Dhar district. [@3] The drone surveillance and search in the Manawar police station area had been under way for 48 hours, police said. [@6]
