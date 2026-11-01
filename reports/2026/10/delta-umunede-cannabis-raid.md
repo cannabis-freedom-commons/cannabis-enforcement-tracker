@@ -34,14 +34,19 @@ sources:
     url: https://tribuneonlineng.com/delta-police-arrest-four-suspected-armed-robbers-cultists-recover-firearms-motorbikes/
     publisher: Tribune Online
     date: 2026-10-31
+  - title: Delta Police Arrest Two Suspected Cultists, Recover Five Firearms & Illicit Drugs
+    url: https://www.gistmania.com/talk/topic,654928.0.html
+    publisher: Gistmania
+    date: 2026-10-31
 open_questions:
   - The sources give no quantity for substances suspected to include cannabis and report no laboratory confirmation.
   - The police said the two men remained in custody; no charge or court outcome is reported.
+  - Whether the uncaptioned lead photo of four young men on the Gistmania page shows this arrest is unclear, so it was not added as media.
 ---
 
 Police arrested Chibuike Ezeji and 22-year-old Ikenna Emeka in Umunede, Delta.
-[@3] A resident had reported to the Umunede Division that Ezeji, 30, threatened
-to kill him while brandishing a pistol. [@3] The complaint came at about 1:15
+[@3,4] A resident had reported to the Umunede Division that Ezeji, 30, threatened
+to kill him while brandishing a pistol. [@3,4] The complaint came at about 1:15
 p.m. on Friday, according to the police spokesperson, SP Bright Edafe. [@2] TVC
 News reported that the two suspects were arrested on October 30 following that
 report. [@1] Officers from the Umunede Division worked with members of the
@@ -51,7 +56,6 @@ cultist, where Ezeji was reportedly residing. [@3]
 
 A search of the premises led to the recovery of one pump-action gun, one locally
 made cut-to-size gun, three locally made pistols, and eight live cartridges.
-[@3] The police said the search also recovered substances suspected to be
-cannabis and methamphetamine, the latter popularly known as ice. [@1] The two
-suspects were in police custody while investigations were ongoing. [@2]
-
+[@3,4] The police said the search also recovered substances suspected to be
+cannabis and methamphetamine, the latter popularly known as ice. [@1,4] The two
+suspects were in police custody while investigations were ongoing. [@2,4]
