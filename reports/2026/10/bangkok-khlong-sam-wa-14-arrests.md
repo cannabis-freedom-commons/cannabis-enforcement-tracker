@@ -33,6 +33,11 @@ media:
     media_url: https://thaitabloid.com/wp-content/uploads/2026/11/1793499354865.jpg
     publisher: Thai Tabloid
     caption: Detainees stand in a line with officers in the yard of the Khlong Sam Wa facility after the raid.
+  - kind: photo
+    url: https://www.ch7.com/en/news/199088/
+    media_url: https://image-sapp-prod.bugaboo.tv/eyJidWNrZXQiOiJzdXBlcmFwcC1wcm9kLWltYWdlIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6Imluc2lkZSJ9fSwia2V5IjoiaW1hZ2VzLzIwMjYvMTEvMS9xdWlja18xNzkzNTAzOTQ3ODM0X2NhaTJxby5qcGVnIn0=
+    publisher: CH7ON
+    caption: 'Cannabis plants under grow lights in the Khlong Sam Wa factory, with detained men seated at a table at left, in a still from CH7HDNews''s report on the raid. Credit: CH7HDNews.'
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 9d48c34cba4c50c6572ffc3969510db3
@@ -58,6 +63,11 @@ sources:
     publisher: MGR Online
     date: 2026-11-01
     language: th
+  - title: ป.ป.ส. รวบชาวเวียดนาม 2 คน นักค้ายาข้ามชาติ พร้อมยึดของกลางยาบ้า-ไอซ์และอุปกรณ์ ก่อนขยายผลทลายโรงงานผลิตกัญชากลางกรุง
+    url: https://www.ch7.com/en/news/199088/
+    publisher: CH7ON
+    date: 2026-11-01
+    language: th
 open_questions:
   - No cannabis weight or plant count was reported, and the amounts of ice and yaba seized were not quantified.
   - The detainees’ names and the outcomes of the criminal and immigration proceedings are not reported.
@@ -71,6 +81,7 @@ open_questions:
   - MGR Online republishes the same narcotics board release as Thai Tabloid, so the two added accounts are not independent of each other.
   - 'Left out, as its quotation was not found in Thai Tabloid: Immigration Bureau investigators conducted the search with Thailand’s Office of the Narcotics Control Board and Nimit Mai Police Station.'
   - 'Left out, as its quotation was not found in Thai Tabloid: Suspects were arrested for selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act.'
+  - The board's release does not say how many people were arrested on the Section 46 charge, or whether the Thai and Vietnamese owners it names were among them.
 ---
 
 Police arrested 14 foreign nationals after searching a warehouse used to store
@@ -87,4 +98,6 @@ legal proceedings. [@2] Officials said they were continuing to trace the
 warehouse’s financiers and other people involved, and to investigate whether
 Thai nationals had been used as nominee shareholders for foreign nationals. [@2]
 
-The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4] It said a Vietnamese financier and a Thai national owned the business. [@4]
+The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3,5] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3,5] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3,5] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4,5] It said a Vietnamese financier and a Thai national owned the business. [@4,5]
+
+The board said officers arrested the people running the factory on charges of selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act. [@5]
