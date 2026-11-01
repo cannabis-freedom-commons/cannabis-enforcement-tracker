@@ -29,25 +29,33 @@ sources:
     publisher: 25H
     date: 2026-10-31
     language: ar
+  - title: ലഹരിമരുന്ന് കേസില്‍ രണ്ടാം പ്രതിയെ വെറുതെവിട്ട ശിക്ഷാവിധി അപ്പീല്‍ കോടതി ശരിവെച്ചു
+    url: https://www.madhyamam.com/amp/gulf-news/uae/drug-possession-case-1568074
+    publisher: Madhyamam
+    date: 2026-11-01
+    language: ml
 open_questions:
   - The appeal hearing date is not stated separately from the 31 October 2026 publication date.
   - The arrest is dated only to January 2024, with no day given.
   - Police weighed the first wrap at 1,085 grams including its contents, while the laboratory later reported 1,091.1 grams of cannabis-linked narcotics; the 559.60-gram wrap was cut from that seizure, not a second quantity.
   - Neither defendant is named, and the appeal-fee amount is not stated.
   - No independent second report was opened. The only picture on the page is labelled an AI-generated illustration, so it is not included.
+  - The Malayalam report describes the 1,085-gram yellow roll as suspected cannabis rather than hashish, and gives no separate wrap weight, laboratory total, controlled-delivery figure or methamphetamine weight.
+  - The only picture on the Madhyamam page is an illustrative image of prison bars, not a photograph of the event, so no media entry was added.
+  - 'Left out, as its quotation was not found in Madhyamam: At the first defendant''s home, officers seized a substance suspected to be crystal meth, three electronic scales and tools bearing drug residue.'
 ---
 
 The Federal Court of Appeal in Abu Dhabi upheld the acquittal of a second
 defendant on two charges of possessing narcotics and psychotropic substances
 with intent to traffic, after Sharjah police caught him picking up a hashish
-wrap at a watched site. [@1,2] It also upheld a three-month jail term for using a
+wrap at a watched site. [@1,2,3] It also upheld a three-month jail term for using a
 psychotropic substance and rejected the prosecution appeal that sought
-convictions on both trafficking charges. [@1,2]
+convictions on both trafficking charges. [@1,2,3]
 
 The case began in January 2024, when the Sharjah Anti-Narcotics Department was
-told that a man was using drugs and promoting them for money. [@1] After a
+told that a man was using drugs and promoting them for money. [@1,3] After a
 prosecution warrant, officers arrested him near a shop with a bag holding a
-yellow wrap of suspected hashish weighing 1,085 grams including the wrap. [@1]
+yellow wrap of suspected hashish weighing 1,085 grams including the wrap. [@1,3]
 At his home they seized a crystalline substance suspected to be crystal
 methamphetamine, three electronic scales and tools bearing dark residue, plus
 items suspected of being used to prepare and use drugs. [@1] In custody he took
@@ -64,7 +72,7 @@ methamphetamine. [@1] Urine tests showed both men had used methamphetamine. [@1]
 Prosecutors sent both men to trial for possession with intent to traffic and for
 use. [@1] The first-instance court sentenced the first defendant in his absence
 to life imprisonment for the linked trafficking charges and three months for
-use. [@1] It sentenced the second, who was present, to three months for use and
+use. [@1,3] It sentenced the second, who was present, to three months for use and
 acquitted him of both trafficking charges. [@1] On the prosecution's appeal he
 appeared by video with his lawyer, admitted use and denied the rest. [@1] The
 appeal court said picking up the wrap, a methamphetamine test and a shisha in
