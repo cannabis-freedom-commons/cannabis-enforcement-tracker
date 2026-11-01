@@ -48,6 +48,11 @@ sources:
     publisher: Klikfakta.id
     date: 2026-10-31
     language: id
+  - title: Polisi Gagalkan Transaksi Ganja di Lukolamo Halmahera Tengah, Sita 23 Sachet
+    url: https://ternate.tribunnews.com/maluku-utara/107201/polisi-gagalkan-transaksi-ganja-di-lukolamo-halmahera-tengah-sita-23-sachet
+    publisher: Tribun Ternate
+    date: 2026-10-31
+    language: id
 open_questions:
   - No charge has been announced; the reports say MS was taken to the Ditresnarkoba office for examination and further legal process.
   - All three accounts carry the same police statement, so the details rest on one official version rather than independent reporting.
@@ -60,7 +65,7 @@ open_questions:
 North Maluku's police narcotics directorate, Ditresnarkoba Polda Malut, arrested
 a 31-year-old man identified as MS alias SAL beside the road in Desa Lukolamo, a
 village in Weda Tengah district, Central Halmahera, on Friday 30 October 2026.
-[@2] Police said the case began with a public tip about suspected possession and
+[@1,2] Police said the case began with a public tip about suspected possession and
 distribution of ganja in the area. [@1,4] Officers posed as buyers and set up an
 undercover purchase, the police statement said. [@1,4] They ordered seven sachets
 of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1,4]
@@ -71,7 +76,7 @@ holding 5.23 grams gross of ganja and a green Oppo mobile phone. [@1] A search
 of his rented room found 14 small sachets and one medium sachet containing
 leftover ganja, 11.08 grams gross, in a backpack. [@1] In all, police seized 23
 clip bags and one sachet of leftover ganja weighing 16.35 grams gross, a sheet
-of white tissue and the phone. [@2,4]
+of white tissue and the phone. [@2,4,5]
 
 MS told officers he had brought 30 sachets from Ambon, bought from a friend
 identified as SS for Rp 500,000, and said they were for his own use. [@1] The
