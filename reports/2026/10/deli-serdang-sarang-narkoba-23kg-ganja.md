@@ -81,6 +81,16 @@ sources:
     publisher: Tribun Medan
     date: 2026-10-30
     language: id
+  - title: Polresta Deli Serdang Amankan 57 Tersangka, Sita 23 Kg Sabu dan 24 Kg Ganja
+    url: https://trans89.com/2026/11/01/polresta-deli-serdang-amankan-57-tersangka-sita-23-kg-sabu-dan-24-kg-ganja
+    publisher: Trans89.com
+    date: 2026-11-01
+    language: id
+  - title: 12 Bandar Narkoba di Deli Serdang Ditangkap, 23 Kg Sabu-Ganja Disita
+    url: https://www.cnnindonesia.com/nasional/20261031144624-12-1421776/12-bandar-narkoba-di-deli-serdang-ditangkap-23-kg-sabu-ganja-disita
+    publisher: CNN Indonesia
+    date: 2026-10-31
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -97,6 +107,7 @@ open_questions:
   - Medan Pos Online names eight operation districts, while the existing report's other accounts name nine or ten; the difference in reported coverage remains unresolved.
   - 'Left out, as its quotation was not found in Medan Pos Online: It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja, 23,010.24 grams of methamphetamine and 42 ecstasy pills.'
   - Tribun Medan gives the methamphetamine total as 23.1 kg and the second cannabis lot as 9.4 kg, while the report's earlier sources give 23,010.24 grams and 9,046 grams; the article's two lots (14.4 kg and 9.4 kg) sum to 23.8 kg, above its own 23.5 kg total.
+  - Trans89.com gives the ganja as 24 kg, a rounded figure; the report uses the police's detailed 23,517.86 g (23.5 kg).
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -108,7 +119,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -120,4 +131,4 @@ airport security attended. [@1,4] The police chief said the operation was part o
 the national police chief's programme to suppress drug trafficking and restore
 drug-affected areas. [@1,4]
 
-Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5]
+Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9]
