@@ -22,6 +22,8 @@ open_questions:
   - AnalisaDaily estimates about three tonnes of potential production at 50 by 50 cm spacing; Mistar.id counts about 150,000 plants at 75 cm spacing and a rough 30-tonne gross conversion the BNN official offered, not a weighed total.
   - Neither outlet names anyone arrested or lists separate weights for the two plots beyond the 4.5 and 0.5 hectare split in Mistar.id.
   - Mistar.id places the site at Desa Rao Rao; AnalisaDaily does not name the village.
+  - Start News dates the raid to Sunday 1 November 2026, apparently by correcting MohgaNews's 'Minggu (31/10/2026)'; the report keeps 31 October, the date AnalisaDaily and Mistar.id also give.
+  - Start News repeats MohgaNews's release, including the same quotes and the 30-tonne conversion, so the two accounts are not independent.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -31,6 +33,16 @@ sources:
   - title: BNNP Sumut dan Poldasu Temukan 5 Hektare Ladang Ganja di Gunung Tor Sihite Madina
     url: https://mistar.id/news/hukum-peristiwa/bnnp-sumut-dan-poldasu-temukan-5-hektare-ladang-ganja-di-gunung-tor-sihite-madina
     publisher: Mistar.id
+    date: 2026-11-01
+    language: id
+  - title: Tim Gabungan Ratakan 5 Hektare Ladang Ganja di Pegunungan Tor Sihite Madina
+    url: https://mohganews.co.id/tim-gabungan-ratakan-5-hektare-ladang-ganja-di-pegunungan-tor-sihite-madina/
+    publisher: MohgaNews
+    date: 2026-11-01
+    language: id
+  - title: Negeri di Atas Awan Madina Jadi Lautan Ganja, 30 Ton Diberangus
+    url: https://startnews.co.id/negeri-di-atas-awan-madina-jadi-lautan-ganja-30-ton-diberangus/
+    publisher: Start News
     date: 2026-11-01
     language: id
 media:
@@ -44,11 +56,16 @@ media:
     media_url: https://files-manager.mistar.id/uploads/MISTAR/01-11-2026/bnnp_sumut_dan_poldasu_temukan_5_hektare_ladang_ganja_di_gunung_tor_sihite_madina_2026-11-01_11-45-32_8228.jpg
     publisher: Mistar.id
     caption: BNN North Sumatra and provincial police at the five-hectare find on Tor Sihite.
+  - kind: photo
+    url: https://startnews.co.id/negeri-di-atas-awan-madina-jadi-lautan-ganja-30-ton-diberangus/
+    media_url: https://startnews.co.id/wp-content/uploads/2026/11/Negeri-di-Atas-Awan-Madina-Jadi-Lautan-Ganja-30-Ton-Diberangus-700x375.jpg
+    publisher: Start News
+    caption: 'Joint BNN North Sumatra, North Sumatra police and military personnel at the cleared cannabis site on Tor Sihite. Photo: Istimewa'
 ---
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3] No growers were
 named or arrested in either account. [@1,2]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -56,10 +73,12 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1]
 
 The regency police chief, AKBP Bagus Priyandi, took part alongside provincial drug directors,
 according to AnalisaDaily. [@1] Mistar.id said the team walked about 14 hours in slippery rain
 on the round trip. [@2]
+
+The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4]
