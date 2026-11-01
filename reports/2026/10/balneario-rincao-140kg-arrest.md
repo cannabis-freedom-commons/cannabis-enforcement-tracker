@@ -68,6 +68,11 @@ sources:
     publisher: 4oito
     date: 2026-10-31
     language: pt
+  - title: Foto de Lula e Bolsonaro é encontrada em 140 kg de maconha de suspeito ligado a facção em SC
+    url: https://misturebas.com.br/2026/10/31/imagem-ia-lula-bolsonaro-maconha/
+    publisher: Misturebas News
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -81,27 +86,33 @@ open_questions:
   - TN Sul reproduces the same Military Police account carried by the outlets already cited, so it corroborates the police version rather than adding independent reporting.
   - The Içara News report puts the 140 kg figure only in its headline; its article text gives no weight.
   - The Içara News page's only photograph has no caption or credit, so it could not be identified as a distinct image of the seizure and was not added to the media list.
+  - 'Who the second man in the image is remains disputed: Misturebas, citing Portal Linha Verdade, names him as former president Jair Bolsonaro and says the image was AI-generated, while Jornal Razão describes him as unidentified, blurred his face and did not say the image was AI-generated.'
+  - No source says who made the AI image or why it was printed on the packages.
+  - The Misturebas page's only image is credited to 'Reprodução' and could not be distinguished from the photograph already listed from Jornal Razão, so it was not added as a separate media entry.
+  - 'Left out, as its quotation was not found in Jornal Razão: Several of the tablets carried a printed photograph of President Luiz Inácio Lula da Silva beside another man, taped to packages wrapped in green and yellow tape; the reason was not explained.'
 ---
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,4,5,6,7] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,3,4,5,6,7] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
 it was being used as a depot for drugs intended for sale. [@1,5] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
 towards the neighbouring property. [@2,5] A first search found a scale and one
 cannabis tablet; the man admitted the drug was his and said more was stored
-inside. [@1,4,5,6,7]
+inside. [@1,4,5,6,7,8]
 
-Officers also seized three precision scales and two mobile phones. [@1,5] The
+Officers also seized three precision scales and two mobile phones. [@1,5,8] The
 Military Police described the man as one of the leaders of a criminal faction
-operating in Balneário Rincão. [@1,5] The claim is part of the police account and
+operating in Balneário Rincão. [@1,5,8] The claim is part of the police account and
 is still to be investigated. [@3]
 
 Several of the tablets carried a printed photograph of President Luiz Inácio
 Lula da Silva beside another man, taped to packages wrapped in green and yellow
 tape; the reason was not explained. [@3] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station in
-Criciúma. [@3,5,6,7]
+Criciúma. [@3,5,6,7,8]
 
 The man told police the cannabis was meant to supply drug sales during the summer season in Balneário Rincão, when the town's population rises. [@4,6,7]
+
+The image printed on the tablets was AI-generated and showed President Luiz Inácio Lula da Silva beside former president Jair Bolsonaro, according to Misturebas. [@8]
