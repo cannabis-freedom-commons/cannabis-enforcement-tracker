@@ -173,6 +173,11 @@ sources:
     publisher: Memleket
     date: 2026-11-01
     language: tr
+  - title: 'Kepez’de 7,5 kilo esrar ele geçirildi: 1 tutuklu'
+    url: https://www.kemergozcu.com/haber/kepezde-75-kilo-esrar-ele-gecirildi-1-tutuklu-32450.html
+    publisher: Kemer Gözcü
+    date: 2026-11-01
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -201,21 +206,23 @@ open_questions:
   - 'Left out, as its quotation was not found in Yeni Alanya: Police in Antalya detained two men in an operation against drug trafficking after information that they were selling and distributing drugs brought into the city.'
   - 'Left out, as its quotation was not found in Yeni Alanya: Officers caught the suspects, identified only as M.S.K. and O.Ü., in Kepez district.'
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı (İHA): M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
+  - The page's lead photograph appears to be the same police handout of wrapped cannabis packets in front of the Antalya narcotics branch banner already linked from Yeni Birlik, so it was not listed as a separate picture.
+  - Kemer Gözcü publishes DHA's wire text without independent reporting, so it corroborates the account already in the record rather than adding a second independent source.
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11,12,13,14,15,17,19,20,25] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+city. [@1,4,8,9,10,11,12,13,14,15,17,19,20,25,26] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
 Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20,25] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,25] The pair were referred to the
+in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,25,26] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21,25]
+substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21,25,26]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20,25] Sabah reported that it followed intelligence that the
+police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20,25,26] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10,16,19,20,25]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23,25]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23,25,26]
