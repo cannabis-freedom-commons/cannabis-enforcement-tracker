@@ -32,6 +32,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-10-31
     language: hi
+  - title: हिमाचल पुलिस की STF ने पकड़ी चरस की 9.028 KG खेप, चंबा के तीसा में आधी रात कार सवार युवक किया काबू
+    url: https://www.jagran.com/himachal-pradesh/chamba-hp-stf-seizes-9kg-charas-in-chambas-tissa-one-arrested-40422615.html
+    publisher: Jagran
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article gives no calendar date for the checkpoint, only about 12:50 a.m.; 31 October 2026 is the publication date, so the stop was most likely in the early hours of that day.
   - Only one source could be opened.
@@ -55,12 +60,12 @@ media:
 
 Police arrested one young man, later named as 32-year-old Rakesh Kumar of Mandka
 village, during a checkpoint in Tissa in the Churah subdivision of Chamba
-district, Himachal Pradesh. [@1,2] Officers of the Special Task Force recovered 9
-kilograms 28 grams of charas, cannabis resin, from him at the stop. [@1] A
+district, Himachal Pradesh. [@1,2,3] Officers of the Special Task Force recovered 9
+kilograms 28 grams of charas, cannabis resin, from him at the stop. [@1,4] A
 search of his possession produced 9.028 kilograms of charas, the same quantity
 given in kilograms and grams. [@1,3]
 
-The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1,2]
+The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1,2,3]
 The checkpoint was on the link road to the Khakhdi dam site at Tissa. [@1]
 Assistant Sub-Inspector Paramesh Sharma, Tissa in-charge of STF North Range
 Kangra, led the action. [@1]
