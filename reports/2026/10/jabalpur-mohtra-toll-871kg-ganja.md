@@ -51,6 +51,11 @@ media:
     media_url: https://www.dailymotion.com/video/xbsgw9m
     publisher: ETV Bharat
     caption: 'ETV Bharat video report on the Jabalpur highway drug syndicate and the ₹4.35 crore seizure. Video: ETV Bharat'
+  - kind: photo
+    url: https://www.cgmp.co.in/the-largest-consignment-of-ganja-till-date-was-caught-in-jabalpur-more-than-871-kg-of-the-drug-was-seized-from-the-container/185741/
+    media_url: https://i0.wp.com/www.cgmp.co.in/wp-content/uploads/2026/10/Jabalpur-drug-bust.webp?resize=696%2C403&ssl=1
+    publisher: CG MP News
+    caption: Police officers behind a table displaying packages from the seized consignment; the page gives no photo credit.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -99,6 +104,15 @@ sources:
     publisher: ETV Bharat
     date: 2026-10-31
     language: hi
+  - title: जबलपुर में गांजे की अब तक की सबसे बड़ी खेप पकड़ी गई, कंटेनर से 871 किलो से अधिक नशीला पदार्थ जब्त
+    url: https://www.cgmp.co.in/the-largest-consignment-of-ganja-till-date-was-caught-in-jabalpur-more-than-871-kg-of-the-drug-was-seized-from-the-container/185741/
+    publisher: CG MP News
+    date: 2026-10-31
+    language: hi
+  - title: ओडिशा से मैहर जा रहा था 4 करोड़ का गांजा:जबलपुर में कंटेनर चालक समेत दो तस्कर गिरफ्तार; पेंट के डिब्बों के बीच छिपाई थीं 28 बोरियां
+    url: https://www.bhaskar.com/local/mp/jabalpur/news/jabalpur-police-seize-marijuana-consignment-highway-arrest-139547721.html
+    publisher: Dainik Bhaskar
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -118,10 +132,12 @@ open_questions:
   - The Lalluram page publishes its lead photograph without a credit.
   - 'Left out, as its quotation was not found in Navbharat Live: Police registered a case against the accused under the Narcotic Drugs and Psychotropic Substances Act.'
   - ETV Bharat says the Gosalpur police acted on a tip-off received on 30 October and then spotted the container on National Highway 30, while the report describes a patrolling team noticing it speeding; the accounts do not say whether the patrol was acting on that tip-off.
+  - CG MP News reports a five-day police remand for both suspects; no other opened account confirms the remand or its terms.
+  - CG MP News values the consignment at about ₹4 crore, below the ₹4.35 crore figure used in the report.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
@@ -129,25 +145,25 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
 plaza. [@1] The driver and the other man tried to flee but were caught, police
-said. [@2] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
+said. [@2,10] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
 Police registered a case against the accused under the Narcotic Drugs and
 Psychotropic Substances Act. [@1,3,4,5,9] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
-resident of Balangir in Odisha. [@1,9] The consignment was to be unloaded near a
+resident of Balangir in Odisha. [@1,9,11] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1] The 28 sacks were loaded
-into the container at Sahu's location on 27 October. [@1,9] Singh said he was
-promised ₹1 lakh for the trip. [@1] The accused told police they had earlier
+into the container at Sahu's location on 27 October. [@1,9,11] Singh said he was
+promised ₹1 lakh for the trip. [@1,10] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
 were paid ₹1 lakh for each consignment, according to police. [@2] Investigators
 were working to identify other people connected with arranging, transporting and
@@ -158,3 +174,5 @@ The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the op
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
 The container's registration number was NL-01-AC-7191, police said. [@9]
+
+Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10]
