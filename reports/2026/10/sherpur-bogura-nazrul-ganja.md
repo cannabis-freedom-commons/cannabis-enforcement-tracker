@@ -33,6 +33,11 @@ sources:
     publisher: Bangla Edition
     date: 2026-10-30
     language: bn
+  - title: বগুড়ার শেরপুরে ৫০০ গ্রাম গাঁজাসহ নজরুল ইসলাম গ্রেপ্তার
+    url: https://durnititalashnewstv.com/archives/3258
+    publisher: Durniti Talash News TV
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The article dates the house raid only as last Thursday night; 29 October 2026 follows from the Friday 30 October 2026 publication date.
   - No second outlet or police statement was opened.
@@ -44,6 +49,7 @@ open_questions:
   - This account does not give Nazrul Islam’s age, does not call him a drug dealer, does not say the cannabis raid followed a secret tip, and does not say he was produced in court.
   - This account says the people who fled were those at the separate Lakshikola yaba seizure, not at the cannabis arrest.
   - The article photo of officers, a man and cannabis sticks in front of the Sherpur police-station banner appears to be the same picture already linked from Daily Karatoa, so it was not added again.
+  - Local reports place Dublagari village in different unions, Shah-Bandegi and Kusumbi, so the union is uncertain.
 ---
 
 Police in Sherpur, Bogura, ran separate raids and recovered 500 grams of
@@ -54,7 +60,7 @@ Sheikh of Dublagari village in Shah-Bandegi union. [@1]
 Around 11:15 on Thursday night, a team led by sub-inspector Zahidul Islam raided
 Dublagari on a secret tip. [@1] A case at Sherpur police station is the basis
 given for that account of the raid, the team and the house search. [@1] Officers
-detained Nazrul at the house and recovered 500 grams of cannabis from him. [@1,2]
+detained Nazrul at the house and recovered 500 grams of cannabis from him. [@1,2,3]
 They then recorded him as arrested and brought him to the police station. [@1]
 The cannabis seized at the house is called ganja in that account. [@1]
 
@@ -62,4 +68,6 @@ Mohammad Ikramul Hossain, officer in charge of Sherpur police station, said
 police conduct regular operations against drugs. [@1,2] He said that after cases
 were filed, those arrested were handed over to the court. [@1]
 
-Sub-inspector Zahidul Islam’s team detained Nazrul Islam from the veranda of his own house in Dublagari. [@2] Sherpur police filed case number 39, dated 30 October 2026, against him under section 36(1), schedule 19(a), of the 2018 Narcotics Control Act. [@2]
+Sub-inspector Zahidul Islam’s team detained Nazrul Islam from the veranda of his own house in Dublagari. [@2,3] Sherpur police filed case number 39, dated 30 October 2026, against him under section 36(1), schedule 19(a), of the 2018 Narcotics Control Act. [@2,3]
+
+The raid took place late on the night of Thursday 29 October 2026. [@3]
