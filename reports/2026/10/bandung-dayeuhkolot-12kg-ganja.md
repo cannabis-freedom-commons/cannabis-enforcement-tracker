@@ -49,6 +49,11 @@ media:
     media_url: https://cdn.lensahukum.co.id/media/images/2026/10/xsQpejBHdw.jpeg?location=1&width=&height=&quality=90&fit=1
     publisher: Lensa Hukum
     caption: Police officers hold bags of seized cannabis at a press conference in Bandung; the page credits the photo to Tribratanews (Dok. Tribratanews).
+  - kind: photo
+    url: https://penaku.id/terbongkar-jaringan-ganja-12-kg-di-bandung-diduga-dikendalikan-dari-lapas/?amp=1
+    media_url: https://penaku.id/wp-content/uploads/2026/10/Terbongkar-Jaringan-Ganja-12-Kg-di-Bandung-Diduga-Dikendalikan-dari-Lapas.webp
+    publisher: PenaKu.ID
+    caption: Police at a press conference about the Bandung cannabis case, with packages displayed; no photo credit is stated.
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6f579684ca30d1b8a86a7815546da487
@@ -89,6 +94,11 @@ sources:
     publisher: Lensa Hukum
     date: 2026-10-31
     language: id
+  - title: Terbongkar! Jaringan Ganja 12 Kg di Bandung Diduga Dikendalikan dari Lapas
+    url: https://penaku.id/terbongkar-jaringan-ganja-12-kg-di-bandung-diduga-dikendalikan-dari-lapas/?amp=1
+    publisher: PenaKu.ID
+    date: 2026-10-30
+    language: id
 open_questions:
   - IDN Times reported the payment as Rp2 million per kilogram, while RRI quoted police saying the Rp2 million was for the whole delivery.
   - RRI described the seizure as 'more than 12 kilograms'; this report uses the 12 kilograms given by police and IDN Times.
@@ -103,13 +113,15 @@ open_questions:
   - West Java Today names ALF alias BU as the suspected controller inside the lapas but reports no arrest, charge or court step for him.
   - The Jurnal Polisi photograph has no credit or descriptive caption beyond a WhatsApp filename, so its photographer is unknown.
   - The article does not say when ALF alias BU was placed on the wanted list.
+  - PenaKu.ID places the rented room in Kampung Citamiang Kidul, while the existing report records Kampung Cikanyang Kidul.
+  - PenaKu.ID says a public report prompted the investigation, while other accounts identify a detected Kiaracondong transaction as the initial lead.
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on
-suspicion of dealing cannabis. [@1,4,5,6,7] They detained him at his rented room in
+suspicion of dealing cannabis. [@1,3,4,5,6,7,8] They detained him at his rented room in
 Kampung Cikanyang Kidul, Dayeuhkolot, on Wednesday 28 October 2026. [@1]
 Officers seized 12 kilograms of cannabis that police said had been sent from
-Medan and secured in the Kiaracondong area. [@1] The case began with drug
+Medan and secured in the Kiaracondong area. [@1,3,8] The case began with drug
 transactions police detected at Kiaracondong bus terminal in Bandung city. [@1]
 Bandung police chief Commissioner Tri Suhartanto announced the case at a press
 conference on 30 October. [@1,4,7] He said AR was suspected of planning to send the
@@ -133,4 +145,4 @@ Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at a
 
 At the rented room, officers found two black plastic bags and a teapot holding dried stems and branches believed to be cannabis, one rolled joint and a red iPhone. [@5] Police put ALF alias BU, the suspected controller, on their wanted list and said they were hunting him. [@5]
 
-The arrest took place at about 19:00 on 28 October 2026. [@6,7]
+The arrest took place at about 19:00 on 28 October 2026. [@6,7,8]
