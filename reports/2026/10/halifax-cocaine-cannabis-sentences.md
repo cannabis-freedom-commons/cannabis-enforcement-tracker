@@ -41,6 +41,10 @@ sources:
     url: https://www.gbnews.com/news/yorkshire-ten-men-jailed-drugs
     publisher: GB News
     date: 2026-10-31
+  - title: Sheffield man caged as sentences on drugs gang handed out
+    url: https://www.thestar.co.uk/news/people/sheffield-man-caged-as-sentences-on-drugs-gang-handed-out-9322199
+    publisher: The Star
+    date: 2026-10-31
 open_questions:
   - No total was published for the number of people arrested in the investigation; only Mohammed Hussain's November 2024 arrest is dated.
   - The 20kg of cannabis is the amount recovered when Hussain was arrested, not the total the gang supplied, for which no figure was given.
@@ -88,3 +92,5 @@ Detective Inspector Kevin Daly, of West Yorkshire Police's Force Precision team,
 said the investigation was huge and the impact of class A drug supply and use
 devastating. [@1] He said organised crime groups rely on firearms, violence and
 intimidation to control local drug markets. [@1]
+
+Miah's four-year sentence was for conspiracy to supply cocaine and conspiracy to possess criminal property. [@4]
