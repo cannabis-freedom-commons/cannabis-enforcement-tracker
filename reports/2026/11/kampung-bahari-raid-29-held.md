@@ -62,6 +62,11 @@ sources:
     publisher: VOI
     date: 2026-11-01
     language: zh
+  - title: Raid sur Kampung Bahari, la police arrête 26 personnes et confisque des armes à feu
+    url: https://voi.id/fr/amp/600880
+    publisher: VOI
+    date: 2026-11-01
+    language: fr
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -71,6 +76,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Kompas.com: Bismo called the stone-throwing an attempt to divert police from their targets.'
   - The VOI photo caption says 27 people were secured, while its article text says 26; the report uses the later count of 29.
   - The Chinese-language version mistranslates sabu (methamphetamine) as heroin; the Indonesian original says police seized methamphetamine and cannabis.
+  - The French VOI page is a translation of the same article already cited in Indonesian and Chinese, so it is not independent corroboration.
+  - The French translation renders sabu (methamphetamine) as ecstasy and cocaine and gives the raid time as 17:30, while the report's Indonesian-language account gives methamphetamine and 05:30.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
@@ -81,7 +88,7 @@ the mobile brigade (Brimob). [@2] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
 held. [@2] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
-Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5]
+Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
 ecstasy pills and a machine for pressing ecstasy tablets. [@1] They also found
@@ -92,4 +99,4 @@ Officers were pelted with stones during the raid. [@2] He said drug dealing in
 Kampung Bahari still used stalls along the railway despite earlier raids. [@2]
 He said police would keep raiding and hunting the suppliers. [@2]
 
-The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5] Police were still questioning the 26 people detained in the raid. [@6]
+The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5] Police were still questioning the 26 people detained in the raid. [@6,7]
