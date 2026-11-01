@@ -27,6 +27,11 @@ media:
     media_url: https://imgsrv2.voi.id/BElpKMo8eA_8v5jF0yJrhvwBZzK5BKBlWMcAvElJueo/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy82MDA4ODAvMjAyNjExMDExMjM1LW1haW4uY3JvcHBlZF8xNzkzNTExMzcyLmpwZw.jpg
     publisher: VOI
     caption: 'Police officers stand in a street in Kampung Bahari during the 1 November 2026 raid. Photo: ANTARA'
+  - kind: photo
+    url: https://megapolitan.antaranews.com/berita/558959/polisi-tangkap-27-orang-dan-sita-senjata-api-di-kampung-bahari
+    media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/01/54736.jpg
+    publisher: ANTARA News
+    caption: 'Jakarta police drug squad officers at Kampung Bahari during the 1 November 2026 raid. Photo: ANTARA/HO-Ditresnarkoba Polda Metro Jaya'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865
@@ -67,6 +72,16 @@ sources:
     publisher: VOI
     date: 2026-11-01
     language: fr
+  - title: Polisi Gerebek Kampung Bahari Jakut, 27 Orang Ditangkap
+    url: https://www.cnnindonesia.com/nasional/20261101120933-12-1421962/polisi-gerebek-kampung-bahari-jakut-27-orang-ditangkap
+    publisher: CNN Indonesia
+    date: 2026-11-01
+    language: id
+  - title: Polisi tangkap 27 orang dan sita senjata api di Kampung Bahari
+    url: https://megapolitan.antaranews.com/berita/558959/polisi-tangkap-27-orang-dan-sita-senjata-api-di-kampung-bahari
+    publisher: ANTARA News
+    date: 2026-11-01
+    language: id
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -78,13 +93,15 @@ open_questions:
   - The Chinese-language version mistranslates sabu (methamphetamine) as heroin; the Indonesian original says police seized methamphetamine and cannabis.
   - The French VOI page is a translation of the same article already cited in Indonesian and Chinese, so it is not independent corroboration.
   - The French translation renders sabu (methamphetamine) as ecstasy and cocaine and gives the raid time as 17:30, while the report's Indonesian-language account gives methamphetamine and 05:30.
+  - The submitted CNN Indonesia account and ANTARA's midday report both put the number of people secured at 27, a count between the 26 first reported and the 29 the report uses.
+  - The lead picture on the CNN Indonesia page is a BNN archive photograph from an earlier Kampung Bahari raid, filed under November 2025, and its second picture is from an 18 October 2026 nightclub raid, so neither was listed as media for this raid.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
 November 2026. [@4] Jakarta police drug squad director Kombes Bismo Teguh
 Prakoso said the operation involved the city police, the national police
 criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
-the mobile brigade (Brimob). [@2] He said some of those held were alleged
+the mobile brigade (Brimob). [@2,8] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
 held. [@2] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
@@ -100,3 +117,5 @@ Kampung Bahari still used stalls along the railway despite earlier raids. [@2]
 He said police would keep raiding and hunting the suppliers. [@2]
 
 The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5] Police were still questioning the 26 people detained in the raid. [@6,7]
+
+Officers also seized cash, which Bismo said was kept with the cannabis and came from its sale. [@8] He said police would also tear down the stalls so they could not be misused. [@8] He said the resistance was an attempt to draw officers away from the operation's targets. [@8] Bismo said four people were held at the primary site, three of them users and one the owner of the evidence. [@9]
