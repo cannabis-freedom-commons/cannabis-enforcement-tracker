@@ -41,6 +41,11 @@ sources:
     publisher: Le Défi Media Group
     date: 2026-11-01
     language: fr
+  - title: La piste d’un trafiquant présumé qui tirerait les ficelles de sa cellule
+    url: https://lexpress.mu/s/la-piste-dun-trafiquant-presume-qui-tirerait-les-ficelles-de-sa-cellule-564244
+    publisher: L'Express
+    date: 2026-10-31
+    language: fr
 open_questions:
   - The reports do not name the constable or the second coast guard member arrested.
   - No court date or outcome was reported after the provisional charge.
@@ -52,6 +57,8 @@ open_questions:
   - Le Défi says Pydegadu was provisionally charged with drug dealing (trafic de drogue) at the Mahébourg court on 29 October, while Le Mauricien reported a charge of possession of cannabis for the purpose of selling.
   - No report says whether Gerald Steeven Bagboot has been charged or when he is due in court.
   - Le Défi links the arrests to a separate investigation into National Coast Guard members over the alleged importation of 1.5 tonnes of cannabis from Thailand, an event left out of this report.
+  - L'Express says Bagboot allegedly sold 5 g of cannabis to Pydegadu on 27 October, while the earlier reports describe Pydegadu selling 2.10 g to undercover ADSU officers; the accounts differ on who sold to whom.
+  - The 5 g weight and the expected charge come from L'Express alone; no police statement or court record confirming them was found.
 media:
   - kind: photo
     url: https://defimedia.info/deux-policiers-de-la-ncg-arretes-dans-une-affaire-de-cannabis
@@ -75,8 +82,10 @@ mobile phone was also seized. [@2] He was placed in police detention. [@2,4]
 He was provisionally charged with possession of cannabis for the purpose of
 selling. [@1] The inquiry is led by Sergeants Valsada and Ramessur under
 Assistant Superintendent of Police Sooknah. [@2] ADSU arrested a second National
-Coast Guard member in the same investigation on Thursday 29 October. [@3,4]
+Coast Guard member in the same investigation on Thursday 29 October. [@3,4,5]
 Investigators are examining the two coast guard members' suspected involvement
 in possible cannabis trafficking in the south of the island. [@3]
 
 The two are Yeshvin Venkatesh Pydegadu, 21, a recruit posted to the Chaland post, and Gerald Steeven Bagboot, 34, a constable at the Bois-des-Amourettes post. [@4] Police suspect they acted in collusion. [@4] Bagboot lives at Beau-Champ and has 14 years' service. [@4] Bagboot was arrested after Pydegadu made allegations about where the cannabis came from. [@4]
+
+L'Express reported that Pydegadu had identified Bagboot as the colleague who sold him a 5 g sachet of cannabis on 27 October. [@5] Bagboot was held in a police cell awaiting his court appearance on a provisional charge of Drug Dealing with Aggravating Circumstances, and police said they would oppose bail. [@5] A search of his home found nothing incriminating, the newspaper reported. [@5] Pydegadu was on leave and preparing to fly to Thailand, and the first findings suggested the two officers may have exchanged cannabis, with Bagboot himself having bought drugs from Pydegadu. [@5]
