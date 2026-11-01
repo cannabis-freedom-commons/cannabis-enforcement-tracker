@@ -48,6 +48,11 @@ sources:
     publisher: O Alagoano
     date: 2026-10-30
     language: pt
+  - title: Dois homens são presos com crack, maconha e colete balístico em Coruripe
+    url: https://aquiacontece.com.br/dois-homens-sao-presos-com-crack-maconha-e-colete-balistico-em-coruripe/
+    publisher: Aqui Acontece
+    date: 2026-10-30
+    language: pt
 open_questions:
   - All three reports draw on the same Alagoas public security secretariat (Ascom SSP) account; no separate agency statement or eyewitness account was found.
   - The two men are not named or described by age, and no charges or court date are reported.
@@ -57,21 +62,20 @@ open_questions:
 
 Two men were arrested on suspicion of drug trafficking in Pontal do Coruripe, in
 the municipality of Coruripe, on Alagoas's southern coast, on the night of
-Thursday 29 October 2026. [@2] Police said the operation followed intelligence
-that drugs were being sold in a mangrove area of the region. [@1] When officers
+Thursday 29 October 2026. [@2,4] Police said the operation followed intelligence
+that drugs were being sold in a mangrove area of the region. [@1,4] When officers
 approached, the pair tried to run and threw away plastic packages; police caught
-them after a pursuit. [@1] Officers found portions of cannabis with the men and,
-searching further, more drugs and a ballistic vest. [@1]
+them after a pursuit. [@1,4] Officers found portions of cannabis with the men and,
+searching further, more drugs and a ballistic vest. [@1,4]
 
 In total, police seized 211 grams of cannabis and 375 grams of crack — 586 grams
-of drugs — as well as four mobile phones. [@1] The men and the material were
-taken to the police station. [@3]
+of drugs — as well as four mobile phones. [@1,4] The men and the material were
+taken to the police station. [@3,4]
 
 Police said the suspects may be linked to a criminal organisation operating in
 the region, and the Civil Police will investigate whether they took part in
-other crimes. [@1] The arrests took place during Operation Protetor das Divisas,
+other crimes. [@1,4] The arrests took place during Operation Protetor das Divisas,
 a Ministry of Justice and Public Security initiative that brings security forces
-together to fight crime. [@2] The operation involved the Alagoas state public
+together to fight crime. [@2,4] The operation involved the Alagoas state public
 security secretariat, military and civil police, intelligence units and
-specialised policing, with information exchanged with Bahia's FICCO. [@1]
-
+specialised policing, with information exchanged with Bahia's FICCO. [@1,4]
