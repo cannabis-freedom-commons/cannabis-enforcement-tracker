@@ -22,6 +22,11 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/01/IMG_5131.jpeg
     publisher: ANTARA News
     caption: Joint police and BNN officers sweep Kampung Bahari and Kampung Muara Bahari, Tanjung Priok, on the morning of 1 November 2026.
+  - kind: photo
+    url: https://voi.id/berita/600880/gerebek-kampung-bahari-polisi-tangkap-26-orang-dan-sita-senpi
+    media_url: https://imgsrv2.voi.id/BElpKMo8eA_8v5jF0yJrhvwBZzK5BKBlWMcAvElJueo/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy82MDA4ODAvMjAyNjExMDExMjM1LW1haW4uY3JvcHBlZF8xNzkzNTExMzcyLmpwZw.jpg
+    publisher: VOI
+    caption: 'Police officers stand in a street in Kampung Bahari during the 1 November 2026 raid. Photo: ANTARA'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865
@@ -47,6 +52,16 @@ sources:
     publisher: Aktual.com
     date: 2026-11-01
     language: id
+  - title: Gerebek Kampung Bahari, Polisi Tangkap 26 Orang dan Sita Senpi
+    url: https://voi.id/berita/600880/gerebek-kampung-bahari-polisi-tangkap-26-orang-dan-sita-senpi
+    publisher: VOI
+    date: 2026-11-01
+    language: id
+  - title: 搜查巴哈里村，警方逮捕26人，没收武器
+    url: https://voi.id/zh/news/600880
+    publisher: VOI
+    date: 2026-11-01
+    language: zh
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -54,6 +69,8 @@ open_questions:
   - No names, formal charges or court step for the 29 detainees were reported.
   - The submitted page's single image was a tall composite captioned only with a WhatsApp filename and carried no credit, so no media entry was made for it.
   - 'Left out, as its quotation was not found in Kompas.com: Bismo called the stone-throwing an attempt to divert police from their targets.'
+  - The VOI photo caption says 27 people were secured, while its article text says 26; the report uses the later count of 29.
+  - The Chinese-language version mistranslates sabu (methamphetamine) as heroin; the Indonesian original says police seized methamphetamine and cannabis.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
@@ -64,7 +81,7 @@ the mobile brigade (Brimob). [@2] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
 held. [@2] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
-Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3]
+Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
 ecstasy pills and a machine for pressing ecstasy tablets. [@1] They also found
@@ -75,3 +92,4 @@ Officers were pelted with stones during the raid. [@2] He said drug dealing in
 Kampung Bahari still used stalls along the railway despite earlier raids. [@2]
 He said police would keep raiding and hunting the suppliers. [@2]
 
+The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5] Police were still questioning the 26 people detained in the raid. [@6]
