@@ -42,7 +42,7 @@ open_questions:
 
 Police found 159 cannabis plants that had been left to dry at a private property
 in Grashevo, a village in Velingrad municipality, the Pazardzhik regional
-Interior Ministry directorate said. [@2] A field drug test identified the plants
+Interior Ministry directorate said. [@1,2] A field drug test identified the plants
 as marijuana. [@1] The directorate gave the 103 kg as the total weight of the
 marijuana from the 159 plants. [@2]
 
@@ -56,4 +56,3 @@ in Plovdiv. [@1]
 Officers checked 1,020 people, 950 cars, 25 pawnshops and fast-loan offices, and
 52 people known to be active in crime. [@1] No arrest at the property was
 reported, and the directorate named no suspect or owner there. [@2]
-
