@@ -579,5 +579,58 @@
       "https://www.provincia23.com.ar/2026/02/12/allanamientos-por-robo-derivaron-en-el-secuestro-de-19-plantas-de-marihuana/",
       "https://nominatim.openstreetmap.org/search?q=Ushuaia%2C+Argentina&format=jsonv2&limit=3"
     ]
+  },
+  {
+    "file": "reports/2026/09/sri-lanka-gurunagar-192kg-cannabis.md",
+    "country": "lk",
+    "place": "Gurunagar lagoon area, Jaffna",
+    "coordinates": [
+      9.6542,
+      80.0171
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "coastal-reference",
+    "reason": "The map uses a Gurunagar locality reference, not the exact interception point. The Navy locates the search only in the lagoon area, and Natural Earth's simplified land polygon excludes this coastal/lagoon reference.",
+    "evidence": [
+      "https://slnnews.navy.lk/operations-news/2026/september/navy-seizes-foreign-cannabis-worth-rs.-38-million-in-jaffna.html",
+      "https://nominatim.openstreetmap.org/search?q=Gurunagar+Jaffna+Sri+Lanka&format=jsonv2&limit=3"
+    ]
+  },
+  {
+    "file": "reports/2026/07/mauritius-imbe-prudence-seven-years-cannabis-resin.md",
+    "country": "mu",
+    "place": "Pointe aux Canonniers, near the Club Med Hotel",
+    "coordinates": [
+      -20.0042,
+      57.5549
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The map uses the OpenStreetMap reference for Club Med La Pointe aux Canonniers, close to the named site. The sources say only that the trenches were on a plot near the hotel; Natural Earth's simplified coastline places this locality reference outside its land polygon.",
+    "evidence": [
+      "https://topfm.mu/saisie-record-drogue-pointe-aux-cannoniers-deux-accuses-condamnes-sept-ans-de-prison-apres-leur",
+      "https://lexpress.mu/node/560140",
+      "https://nominatim.openstreetmap.org/search?q=Club+Med+La+Pointe+aux+Canonniers+Mauritius&format=jsonv2&limit=3"
+    ]
+  },
+  {
+    "file": "reports/2026/05/bahamas-andros-2576lb-seizure.md",
+    "country": "bs",
+    "place": "38 nautical miles southwest of Mars Bay, Andros",
+    "coordinates": [
+      23.421,
+      -78.005
+    ],
+    "precision": "region",
+    "reviewed_on": "2026-11-01",
+    "kind": "offshore",
+    "reason": "Both reports describe a maritime interception 38 nautical miles southwest of Mars Bay and give no coordinates. The pin is calculated from that bearing and distance as a broad offshore reference, not a published vessel position.",
+    "evidence": [
+      "https://www.thenassauguardian.com/news/police-make-6-4m-marijuana-bust/article_4521d164-16e4-4364-9d63-24f4571a2e87.html",
+      "https://www.tribune242.com/news/2026/may/05/rbdf-seize-64m-worth-of-marijuana-after-high-seas-chase/",
+      "https://nominatim.openstreetmap.org/search?q=Mars%20Bay%2C%20Andros%2C%20Bahamas&format=json&limit=1"
+    ]
   }
 ]
