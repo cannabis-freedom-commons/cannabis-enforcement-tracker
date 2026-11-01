@@ -70,6 +70,10 @@ sources:
     url: https://www.tribuneindia.com/news/delhi/four-passengers-land-in-police-dragnet-probe-underway/
     publisher: The Tribune
     date: 2026-11-01
+  - title: 'Delhi: Four passengers land in police dragnet, probe underway'
+    url: https://www.tribuneindia.com/news/delhi/four-passengers-land-in-police-dragnet-probe-underway/amp
+    publisher: The Tribune
+    date: 2026-11-01
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -87,6 +91,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Lokmat Times: The two passengers were arrested on 28 October under Section 43(b) of the Narcotic Drugs and Psychotropic Substances Act, 1985.'
   - The page's 36.325 kg and Rs 12.70 crore totals cover three separate narcotics cases, including the 26.67 kg seizure, and are not a single-event figure.
   - The page's only article image is captioned 'Photo for representation. Istock', so no media entry was added.
+  - The submitted page is the AMP edition of the Tribune article already cited in the report; it is the same account, not independent corroboration.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
@@ -97,15 +102,15 @@ media:
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9,10,11] The seizure was made at Terminal 3. [@3,8,11] Both were diverted from the Green
-Channel for X-ray screening after profiling. [@3,11] The two passengers were
+[@1,4,5,6,7,8,9,10,11] The seizure was made at Terminal 3. [@3,8,11,12] Both were diverted from the Green
+Channel for X-ray screening after profiling. [@3,11,12] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11] The substance was seized under Section
-43(a) of the same act. [@1,4,5,6,7]
+Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12] The substance was seized under Section
+43(a) of the same act. [@1,4,5,6,7,12]
 
 Officers found 26 polythene pouches of a green substance suspected to be
-marijuana or hydroponic weed. [@2,11] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7,8,11] A diagnostic test indicated prima facie that the substance was
+marijuana or hydroponic weed. [@2,11,12] Customs valued the haul at about Rs 9.33
+crore. [@1,4,5,6,7,8,11,12] A diagnostic test indicated prima facie that the substance was
 marijuana or hydroponic weed. [@2,5,6,7]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
