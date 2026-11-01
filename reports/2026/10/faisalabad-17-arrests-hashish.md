@@ -25,25 +25,36 @@ sources:
     url: https://www.inp.net.pk/news-detail/pakistan/17-drug-traffickers-arrested
     publisher: Independent News Pakistan
     date: 2026-10-31
+  - title: Sargodha Police Arrest 17 Suspects, Recover Hashish, Heroin And Liquor
+    url: https://www.urdupoint.com/en/pakistan/police-arrest-17-drug-traffickers-recover-co-2281234.html
+    publisher: UrduPoint
+    date: 2026-11-01
+    language: en
+  - title: Police arrest 17 drug traffickers, recover contraband
+    url: https://www.app.com.pk/domestic/police-arrest-17-drug-traffickers-recover-contraband/
+    publisher: Associated Press of Pakistan (APP)
+    date: 2026-11-01
+    language: en
 open_questions:
   - Police said the seizure was over 9 kg of hashish, so 9 kg is a minimum, not an exact weight.
   - The spokesperson spoke on Friday, 30 October 2026, about the previous 24 hours; the wire was published on Saturday, 31 October, and the exact hours of the crackdown were not given.
   - Neither outlet said whether anyone had been formally charged, or reported a court date, sentence, fine or value.
   - How much hashish each person was carrying, and the neighbourhoods of the arrests, were not given.
   - Photos on the UrduPoint and INP pages have no caption tying them to this seizure, so they were left out.
+  - APP carried the identical story, with the same 17 arrests, seizure figures and suspect names, a day earlier under a Faisalabad dateline, so the district and date of the roundup cannot be settled from these accounts.
+  - No statement naming the police stations or the division involved was published, so which district's police made the arrests remains open.
 ---
 
 Faisalabad police arrested 17 people they described as drug traffickers during a
 crackdown in the previous 24 hours. [@1] A police spokesperson in Faisalabad
 said on Friday that teams had held 17 people in the crackdown. [@1] Those named
 were Abid, Irfan, Amin, Asad Asif, Tanveer and Arshad, with others not named.
-[@1] Police said they had started legal action against the people arrested. [@1]
+[@1,3] Police said they had started legal action against the people arrested. [@1,3]
 
 The spokesperson said the teams seized over 9 kilograms of hashish, 1.8
-kilograms of heroin and 292 litres of liquor. [@1] Hashish is cannabis resin;
+kilograms of heroin and 292 litres of liquor. [@1,4] Hashish is cannabis resin;
 the heroin and liquor were reported in the same seizure and are not counted as
 cannabis. [@1]
 
 Independent News Pakistan carried the same account the same day, again citing a
 police spokesperson on Friday and the same arrest and seizure figures. [@2]
-
