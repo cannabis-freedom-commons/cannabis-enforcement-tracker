@@ -31,6 +31,11 @@ sources:
     publisher: MP Breaking News
     date: 2026-10-30
     language: hi
+  - title: 'धार में 1105 किलो गांजा जब्त: ऑपरेशन प्रहार के तहत तीन थाना क्षेत्रों में कार्रवाई; 1.24 करोड़ का माल पकड़ा, दो आरोपी गिरफ्तार'
+    url: https://www.pradeshprakash.com/article/dhar-men-1105-kilo-ganja-jabta
+    publisher: प्रदेश प्रकाश
+    date: 2026-10-30
+    language: hi
 open_questions:
   - The article dates the raids only to 'Thursday'; 29 October 2026 is inferred from its publication at 00:50 on 31 October and the two arrested men's scheduled court production on Saturday.
   - The headline puts the haul at Rs 1 crore, while the four itemised police valuations in the text add up to Rs 1.2754 crore; the report uses the itemised figures.
@@ -41,6 +46,9 @@ open_questions:
   - MP Breaking News gives 1,105 kg, valued at about 1 crore 24 lakh rupees, from three station areas, with two arrests and one person absconding, and does not mention the Dharampuri farm already in this report; the itemised Times of India totals are kept.
   - The page gives no separate date for the raids; 30 October 2026 is its publication date.
   - Its only photo is captioned “Dhar News” and does not show that it is this seizure, so it is not linked. A video file is named in page metadata but was not verified as footage of the raids.
+  - Pradesh Prakash, like the MP Breaking News account already noted, gives about 1,105 kg valued at 1 crore 24 lakh rupees and says Gandhwani police arrested two people with one absconding, which does not match the Times of India account of two named arrests, two absconders and a fourth Dharampuri farm.
+  - The page only says the story appeared “one day ago” beside a site header dated 31 October 2026, so 30 October 2026 is inferred as the publication date, not printed as a calendar date.
+  - The only image is a headline graphic, not a photograph of the seizure, so it is not linked.
 ---
 
 Four farmers were booked under Section 8/20 of the Narcotic Drugs and
@@ -64,3 +72,5 @@ Pataliya’s farm. [@1] At Panjariya, Dharampuri police found 14 plants weighing
 50.3 kg and worth Rs 6.04 lakh on Waskel’s farm. [@1]
 
 Police described the Gandhwani, Rajod and Sardarpur actions as part of Operation Prahar, a district drive against illegal drug cultivation and trade. [@2] In those station areas, officers recovered cannabis plants growing among pigeon pea, known locally as tuar, and cotton. [@2]
+
+Pradesh Prakash reported that Dhar police, under Operation Prahar, seized about 1,105 kg of illegal ganja from the Gandhwani, Sardarpur and Rajod police station areas and put its estimated value at 1 crore 24 lakh rupees. [@3] Of that haul, the outlet said 693 kg came from Gandhwani, 385 kg from Sardarpur and 27 kg from Rajod. [@3] Additional Superintendent of Police Vijay Dawar said the action followed tips from informers and the public during a 15-day special campaign against illegal narcotics. [@3] The same account said Gandhwani police arrested two accused and that a third was absconding, with teams still searching for him. [@3] Dawar said the drive against trafficking and the drug trade was continuing and that police were making special efforts to catch the remaining accused. [@3]
