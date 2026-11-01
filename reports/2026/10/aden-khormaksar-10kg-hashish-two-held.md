@@ -53,6 +53,16 @@ sources:
     publisher: عدن الغد
     date: 2026-10-31
     language: ar
+  - title: ضبط 10.5 كجم حشيش في العاصمة عدن
+    url: https://alwatanskynewss.com/136132
+    publisher: سماء الوطن الإخبارية
+    date: 2026-10-26
+    language: ar
+  - title: إشادة مجتمعية واسعة بجهود مكافحة المخدرات في عدن عقب ضبط 10.5 كيلوغرام من الحشيش
+    url: https://manbaraden.com/post/amp/50721
+    publisher: منبر عدن
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The exact day of the detention is not stated; 26 October 2026 is the date the police account was published, and Aden Al-Ghad reported the praise on 31 October.
   - The two detained people are not named, and their ages and nationalities are not given.
@@ -63,10 +73,14 @@ open_questions:
   - 'Left out, as its quotation was not found in صدى الساحل: Aden''s anti-narcotics department announced the seizure on Monday 26 October 2026.'
   - Aden Al-Ghad published two versions of the praise story on 31 October 2026 (news/894060 and news/894072), so the two Aden Al-Ghad URLs are not independent corroboration.
   - Aden Al-Ghad has published a third version of the 31 October praise story at news/894087, so the outlet's versions are not independent corroboration.
+  - Manbar Aden's page is a verbatim reprint of the Aden Al-Ghad story already cited in the report, so it adds no independent corroboration.
+  - The Manbar Aden page shows no publication date in its text; 1 November 2026 is taken from its page metadata.
+  - Sama Al-Watan's 26 October report carries the same police account and is not independent corroboration.
+  - The photograph on the Manbar Aden page appears to be the same police handout of the colonel and nine bags already listed from Aden Al-Ghad, so it was not added again.
 ---
 
 Aden's anti-narcotics police detained two people in Khormaksar district with
-nine bags of hashish weighing 10.5 kg in total. [@2,5] It said the nine bags had
+nine bags of hashish weighing 10.5 kg in total. [@2,5,7] It said the nine bags had
 been prepared for distribution. [@3]
 
 Colonel Mayas Haidara al-Jaadani, director of the anti-narcotics department at
@@ -79,7 +93,7 @@ organised smuggling, promotion and distribution in Aden. [@2]
 Aden Al-Ghad reported wide public praise for the department and its director
 after the seizure. [@1,4,6] It reported that citizens and activists thanked the
 force for pursuing people involved in drug trafficking and for countering
-attempts to promote and circulate drugs. [@1,4,6] They said drug control was a
+attempts to promote and circulate drugs. [@1,4,6,8] They said drug control was a
 shared responsibility and called for continued security campaigns and closer
 monitoring to catch those involved and bring them to justice. [@1] They also
 urged support for the anti-narcotics officers' field work, saying it protects
