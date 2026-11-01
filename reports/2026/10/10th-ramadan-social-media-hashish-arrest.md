@@ -36,6 +36,16 @@ sources:
     publisher: تليجراف مصر
     date: 2026-10-31
     language: ar
+  - title: القبض على عاطل بالشرقية لإدارته صفحة على مواقع التواصل لترويج المخدرات
+    url: https://www.iqraa.news/177798/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87-%D8%B5%D9%81%D8%AD%D8%A9-%D8%B9/
+    publisher: إقرأ نيوز
+    date: 2026-10-31
+    language: ar
+  - title: القبض على عاطل بالشرقية لإدارته صفحة على مواقع التواصل لترويج وبيع المخدرات
+    url: https://www.cairo24.com/2521372
+    publisher: القاهرة 24
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The article gives no separate date for the arrest; it reports the Interior Ministry's statement on 31 October 2026, the day of publication.
   - No weight or value was given for the hashish seized.
@@ -51,16 +61,16 @@ media:
 ---
 
 Egypt's Interior Ministry said its security services arrested a man who ran a
-social-media page promoting drugs for sale. [@1,4] The ministry said in a
+social-media page promoting drugs for sale. [@1,4,5] The ministry said in a
 statement on 31 October 2026 that the man was unemployed, had a criminal record
 and lived in the Third 10th of Ramadan police district of Sharqia Governorate.
-[@1,4] A quantity of hashish, a private car and a mobile phone were found in his
+[@1,4,6] A quantity of hashish, a private car and a mobile phone were found in his
 possession, and the ministry said the phone held evidence of his criminal
-activity. [@1,4]
+activity. [@1,4,5]
 
 The ministry said the man confessed to creating and running the page to promote
 drug sales and to holding the seized drugs for trafficking, and that the
-security services had taken the necessary legal measures. [@1,4] The security
+security services had taken the necessary legal measures. [@1,4,5] The security
 services detected a man running a social-media page that was used to advertise
 drugs for money. [@2] The man was seized with the hashish, the car and the phone
 after investigations identified him as the page's administrator. [@3]
