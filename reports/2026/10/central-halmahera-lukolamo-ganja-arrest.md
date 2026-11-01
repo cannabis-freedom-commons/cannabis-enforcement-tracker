@@ -23,6 +23,11 @@ media:
     media_url: https://klikfakta.id/wp-content/uploads/2026/10/IMG-20261031-WA0053.jpg
     publisher: Klikfakta.id
     caption: 'Police handout photo captioned as showing both arrested men with the seized evidence. Photo: Humas Polda Maluku Utara'
+  - kind: photo
+    url: https://polresternate.com/ditresnarkoba-polda-malut-gagalkan-transaksi-ganja-di-lukolamo-23-sachet-barang-bukti-disita/
+    media_url: https://polresternate.com/wp-content/uploads/2026/10/c953fa9d-64f5-4c16-9c66-a453417442b7.jpeg
+    publisher: Website Resmi Polres Ternate
+    caption: Night-time scene with officers and a man beside the road, accompanying the account of the Lukolamo arrest.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6ce5b8db17df2de4a64c08017d1bf2ef
@@ -53,6 +58,11 @@ sources:
     publisher: Tribun Ternate
     date: 2026-10-31
     language: id
+  - title: Ditresnarkoba Polda Malut Gagalkan Transaksi Ganja di Lukolamo, 23 Sachet Barang Bukti Disita
+    url: https://polresternate.com/ditresnarkoba-polda-malut-gagalkan-transaksi-ganja-di-lukolamo-23-sachet-barang-bukti-disita/
+    publisher: Website Resmi Polres Ternate
+    date: 2026-10-31
+    language: id
 open_questions:
   - No charge has been announced; the reports say MS was taken to the Ditresnarkoba office for examination and further legal process.
   - All three accounts carry the same police statement, so the details rest on one official version rather than independent reporting.
@@ -60,12 +70,13 @@ open_questions:
   - It is not clear whether the 16.35 grams total includes the seven sachets handed over in the controlled buy; the two seizures the statement lists add up to 16.31 grams.
   - The reports name only Desa Lukolamo in Weda Tengah; the coordinates are for Lelilef Waibulan, a village in the same district, not the roadside arrest site.
   - The same Klikfakta article reports a separate methamphetamine case in Ternate, where a second man, GR (21), was arrested with 2.52 grams of sabu, or methamphetamine; that is a different event and is not covered here.
+  - 'Left out, as its quotation was not found in RRI.co.id: In all, police seized 23 clip bags and one sachet of leftover ganja weighing 16.35 grams gross, a sheet of white tissue and the phone.'
 ---
 
 North Maluku's police narcotics directorate, Ditresnarkoba Polda Malut, arrested
 a 31-year-old man identified as MS alias SAL beside the road in Desa Lukolamo, a
 village in Weda Tengah district, Central Halmahera, on Friday 30 October 2026.
-[@1,2] Police said the case began with a public tip about suspected possession and
+[@1,2,6] Police said the case began with a public tip about suspected possession and
 distribution of ganja in the area. [@1,4] Officers posed as buyers and set up an
 undercover purchase, the police statement said. [@1,4] They ordered seven sachets
 of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1,4]
