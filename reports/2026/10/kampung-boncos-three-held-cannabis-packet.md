@@ -22,6 +22,11 @@ media:
     media_url: https://asset.kompas.com/crops/0uet44mpdBv0vaP1C7sSEAQ0uNQ=/0x0:0x0/1200x800/data/photo/2026/10/30/6ae476fdd85fa.jpeg
     publisher: Kompas.com
     caption: 'Three people detained in the police raid at Kampung Boncos, Palmerah, on the afternoon of 30 October 2026. Photo: Kompas.com/Pandi Ramedhan'
+  - kind: photo
+    url: https://news.detik.com/berita/d-8731759/polisi-gerebek-kampung-boncos-jakbar-3-orang-ditangkap-terkait-narkoba/amp
+    media_url: https://awsimages.detik.net.id/community/media/visual/2026/10/30/polisi-gerebek-kampung-boncos-jakbar-1793365834784_169.jpeg?w=650&q=90
+    publisher: detikNews
+    caption: 'Police officers stand behind three detained men during the raid on Kampung Boncos, Palmerah, West Jakarta, on 30 October 2026. Photo: Dok. Istimewa/detikNews'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: ccce5d0d271fd14f7d731b63ac916d8f
@@ -46,6 +51,11 @@ sources:
     publisher: VOI
     date: 2026-10-30
     language: ar
+  - title: Polisi Gerebek Kampung Boncos Jakbar, 3 Orang Ditangkap Terkait Narkoba
+    url: https://news.detik.com/berita/d-8731759/polisi-gerebek-kampung-boncos-jakbar-3-orang-ditangkap-terkait-narkoba/amp
+    publisher: detikNews
+    date: 2026-10-30
+    language: id
 open_questions:
   - VOI lists the three people as coming from Surabaya, East Java, Slipi Palmerah and Aceh, while Kompas quotes Nasriadi naming Surabaya, Jatipi and Temanggung and saying they were not local residents.
   - VOI describes marijuana remnants in an empty boarding room; Kompas describes one still-wrapped cannabis packet seized in the raid. No weight was published.
@@ -57,9 +67,9 @@ open_questions:
 
 West Jakarta Metro Police, led by chief Kombes Pol Nasriadi, raided Kampung
 Boncos in Palmerah, West Jakarta, on the afternoon of Friday 30 October 2026.
-[@2,4] The operation targeted points suspected of drug dealing and use, and
+[@2,4,5] The operation targeted points suspected of drug dealing and use, and
 hundreds of officers searched houses, wooden sheds and boarding rooms along
-alleys about 1.5 metres wide. [@1,4] Police secured three people. [@1,4] Nasriadi
+alleys about 1.5 metres wide. [@1,4] Police secured three people. [@1,4,5] Nasriadi
 told Kompas the three were caught using drugs inside the sheds, were not local
 residents, and came from Surabaya, Jatipi and Temanggung. [@3] VOI reported that
 the three came from Surabaya, East Java, the Slipi Palmerah area and Aceh, and
@@ -68,7 +78,7 @@ used methamphetamine. [@1,4]
 
 In a boarding room of about 2 by 3 metres, still air-conditioned but empty of
 occupants, officers found parang and badik blades, remnants of methamphetamine
-and marijuana, an empty safe and paper. [@2,4] Kompas reported that police seized
+and marijuana, an empty safe and paper. [@2,4,5] Kompas reported that police seized
 packets of methamphetamine, one still-wrapped packet of cannabis, smoking tools
 and an empty safe. [@3] Nasriadi said investigators had not yet decided whether
 those held were part of a network, dealers, couriers or users. [@1,4]
