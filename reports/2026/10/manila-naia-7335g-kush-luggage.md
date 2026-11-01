@@ -32,6 +32,10 @@ sources:
     url: https://tribune.net.ph/2026/10/28/unclaimed-luggages-containing-p73-m-worth-of-marijuana-kush-seized-at-naia
     publisher: Daily Tribune
     date: 2026-10-28
+  - title: American arrested over Php 17.46 million marijuana kush seizure at NAIA
+    url: https://thechronicle.com.ph/american-arrested-over-php-17-46-million-marijuana-kush-seizure-at-naia/
+    publisher: The Chronicle
+    date: 2026-11-01
 ---
 
 Bureau of Customs officers discovered 7,335 grams of marijuana kush inside three unclaimed pieces
@@ -43,3 +47,5 @@ The bags were linked to two passengers who arrived from Bangkok on 24 September,
 inspection brought together the NAIA inter-agency drug task group and the police aviation
 security group. [@1,2,3] No owner has been identified; the drugs were turned over to PDEA custody.
 [@1,2]
+
+The Bureau of Customs said the 26 October find and the 29 October arrest together yielded about 24.8 kg of suspected marijuana kush with an estimated street value of P24.79 million in four days. [@4]
