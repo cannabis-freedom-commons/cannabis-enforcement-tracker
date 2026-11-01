@@ -44,6 +44,11 @@ sources:
     publisher: Sabah
     date: 2026-10-30
     language: tr
+  - title: Alanya’da evini kenevir bahçesine çevirmiş
+    url: https://www.gazetealanya.com/alanyada-evini-kenevir-bahcesine-cevirmis
+    publisher: Gazete Alanya
+    date: 2026-10-31
+    language: tr
 open_questions:
   - Neither account gives a separate date for the searches or the court appearance; 30 October 2026 is the publication date of both reports.
   - The sources count 25 pots of cannabis plants rather than individual plants, so the number of plants may be higher.
@@ -52,24 +57,26 @@ open_questions:
   - The two accounts carry near-identical wording, suggesting both draw on the same İHA agency report rather than independent reporting.
   - 'Left out, as its quotation was not found in Sabah: The operations were coordinated by the Alanya public prosecutor''s office and carried out by the narcotics unit of the Alanya district police directorate.'
   - The İHA page carries only the agency's default placeholder image rather than a photo of the operation, so no media entry was added from it.
+  - Gazete Alanya's summary describes the two raids as simultaneous, while its text recounts a first and then a second address; the existing report's 'two searches' wording is kept.
+  - The page's lead image is a file from the outlet's July 2024 uploads showing a cannabis leaf held in a hand; it is not a photograph of the raids, so no media entry was added from it.
 ---
 
 Police detained five people in two searches in Alanya, a district of Antalya
-province, and a court ordered two of them held in pre-trial detention. [@1,4] The
+province, and a court ordered two of them held in pre-trial detention. [@1,4,5] The
 first search targeted a hotel staff residence — a lojman, housing provided by an
 employer — in the Saray neighbourhood, where officers found 46 grams of esrar,
-the cannabis preparation known in Turkey. [@1,3,4] They detained M.A. (22), E.Y.
-(26), M.K.Y. (33) and S.S. (24) at that address. [@1,3,4]
+the cannabis preparation known in Turkey. [@1,3,4,5] They detained M.A. (22), E.Y.
+(26), M.K.Y. (33) and S.S. (24) at that address. [@1,3,4,5]
 
 A second search, at a house in the Kızlarpınarı neighbourhood, found 25 cannabis
-plants growing in pots. [@1,3,4] Officers detained O.Ö. (45), who was in the house.
-[@1,3,4] Police described the house as one the suspect had turned into a cannabis
-garden. [@2] All five were questioned at the police station and taken to the
+plants growing in pots. [@1,3,4,5] Officers detained O.Ö. (45), who was in the house.
+[@1,3,4,5] Police described the house as one the suspect had turned into a cannabis
+garden. [@2,5] All five were questioned at the police station and taken to the
 courthouse, where they were processed on allegations of drug trafficking and
 drug use. [@1,3,4]
 
 The court released E.Y., M.K.Y. and S.S. under judicial control, a measure that
-leaves a suspect free while the case proceeds. [@1,3,4] M.A. and O.Ö. were ordered
-held in pre-trial detention and sent to Alanya's L-type closed prison. [@1,3,4]
+leaves a suspect free while the case proceeds. [@1,3,4,5] M.A. and O.Ö. were ordered
+held in pre-trial detention and sent to Alanya's L-type closed prison. [@1,3,4,5]
 
-The Alanya public prosecutor's office coordinated the two searches, which were carried out by the narcotics unit of the Alanya district police directorate. [@4]
+The Alanya public prosecutor's office coordinated the two searches, which were carried out by the narcotics unit of the Alanya district police directorate. [@4,5]
