@@ -36,6 +36,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: 'Satna News: नशे की फुटकर बिक्री पर प्रहार, अलग-अलग जगह 7 बंदी'
+    url: https://www.bhaskarhindi.com/city/satna/crackdown-on-retail-drug-sales-7-arrests-made-in-separate-locations-1385417
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Only one full account of the arrest could be opened; the submitted video page and the full news page are both Dainik Bhaskar, and no independent outlet report was found.
   - The report gives 31 October 2026 as the date of the tip but no separate date or time for the raid; 31 October is used as the event date.
@@ -43,10 +48,11 @@ open_questions:
   - The exact spot near the power house on Jhinna Road could not be geocoded, so the coordinates are the centre of Ramnagar town.
   - The page's lead image has no caption or credit identifying what it shows, so no photograph is linked; the 43-second video is linked as the page's report.
   - The 93,000-rupee total includes the motorcycle; the figures record only the stated ganja value of 13,000 rupees.
+  - The roundup gives the motorcycle's registration as MP 53 MV 4894, while this report's source gives MP53 MB 4894.
 ---
 
 A 60-year-old man was arrested with 1.30 kg of ganja (cannabis) in Maihar and
-his motorcycle was seized. [@2] The arrest took place in a forest beside Jhinna
+his motorcycle was seized. [@2,3] The arrest took place in a forest beside Jhinna
 Road near a power house, Ramnagar police said. [@1] Police identified him as
 Kailash Bais, also called Krishnapal, a resident of Lehechua Raghunathpur in
 Sidhi district's Rampur Naikin police area. [@1]
@@ -65,4 +71,3 @@ value of the seized goods at about 93,000 rupees. [@1] A case was registered
 against him under section 8/20(b) of the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act, India's main drug law. [@1] He was produced in court,
 which sent him to jail. [@1]
-
