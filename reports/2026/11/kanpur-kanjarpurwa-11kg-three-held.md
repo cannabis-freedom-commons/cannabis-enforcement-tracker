@@ -78,6 +78,11 @@ sources:
     publisher: Dynamite News Hindi
     date: 2026-11-01
     language: hi
+  - title: बरेली में मुठभेड़ के बाद गो-तस्कर गिरफ्तार, कानपुर में ड्रोन से निगरानी कर 11 किलो गांजा बरामद
+    url: https://www.bhaskarhindi.com/other/bareilly-mein-muthbhed-ke-baad-25-hazar-ka-inami-go-taskar-giraftar-kanpur-mein-drone-se-nigrani-kar-11-kilo-ganja-baramad-1385496
+    publisher: Dainik Bhaskar Hindi
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -92,18 +97,19 @@ open_questions:
   - India TV says Deputy Commissioner of Police (South) Deependra Nath Chaudhary personally monitored the operation, while the report's other accounts say Assistant Commissioner of Police Ghatampur supervised the joint operation.
   - The India TV photograph carries only the caption "Police action against drugs in Kanpur" and the credit "Reporter input", so it could not be confirmed to show this raid and was not linked as media.
   - 'The Dynamite News lead photograph carried only the caption ''Raid at drug hideouts in Kanpur'' (IMG: Dynamite News), so it could not be confirmed to show this operation and was not linked as media.'
+  - The Bhaskar Hindi lead image carries only the combined Bareilly–Kanpur headline and no credit, so it could not be confirmed to show the Kanpur raid and was not linked as media.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,7,8] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,7,8,9] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
 [@1,4,6,7]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7]
+stations. [@2,4,6,7,9]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2] Police said they had acted on repeated reports that drugs were sold
@@ -113,6 +119,6 @@ others involved in the trade. [@3,6]
 
 Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
-[@2,7,8]
+[@2,7,8,9]
 
 Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
