@@ -51,6 +51,16 @@ sources:
     publisher: Portal Guaíra
     date: 2026-10-30
     language: pt
+  - title: Mais de 1,3 tonelada de maconha é apreendida em caminhonete furtada após perseguição em Toledo
+    url: https://www.correiodolago.com.br/noticia/mais-de-13-tonelada-de-maconha-e-apreendida-em-caminhonete-furtada-apos-perseguicao-em-toledo/238627/
+    publisher: Correio do Lago
+    date: 2026-10-30
+    language: pt
+  - title: PRF e PM apreendem 1,3 tonelada de maconha no Paraná
+    url: https://www.gov.br/prf/pt-br/noticias/estaduais/parana/2026/outubro/291303
+    publisher: Polícia Rodoviária Federal (PRF)
+    date: 2026-10-29
+    language: pt
 open_questions:
   - The driver remained at large and no one had been arrested when the reports were published.
   - The origin and destination of the cannabis were not disclosed.
@@ -64,17 +74,19 @@ open_questions:
 ---
 
 The driver of the Toyota Hilux refused an order to stop and fled, starting a
-pursuit. [@1] He abandoned the pickup in a crop field and ran into a wooded
-area. [@1] Police searched the surroundings but did not find him. [@3] No one
+pursuit. [@1,5] He abandoned the pickup in a crop field and ran into a wooded
+area. [@1,5] Police searched the surroundings but did not find him. [@3] No one
 had been arrested in connection with the seizure. [@2]
 
 Military police reported seeing the Hilux travelling at high speed in heavy rain
 on a single-lane stretch of the highway where maintenance work was under way.
 [@1] A federal highway police special operations unit tried to stop it during an
 inspection on the road. [@2] Officers found bales of cannabis in the abandoned
-vehicle. [@1] The pickup's plate did not match its chassis number. [@3] Checks
+vehicle. [@1,6] The pickup's plate did not match its chassis number. [@3,5] Checks
 showed the Hilux had been stolen in Corbélia on 4 September 2026. [@1] Police
 took the cannabis and the recovered Hilux to the 20th Police Subdivision in
-Toledo. [@1,4]
+Toledo. [@1,4,5]
 
 Military police on patrol saw the Hilux acting suspiciously, followed it for a stop, and called other teams when the driver fled. [@4] Military police aspirant Clenilson Souza said the driver turned into a crop area and fled, leaving about 1.3 tonnes of cannabis in a pickup stolen in Corbélia. [@4]
+
+The operation was a joint action by teams from the 19th Military Police Battalion (19º BPM) and the Federal Highway Police (PRF). [@5]
