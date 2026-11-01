@@ -1,16 +1,15 @@
 ---
-date: 2026-10-30
+date: 2026-10-31
 country: in
 place: Kundilpur gas warehouse, Narkatiaganj–Bhikhnathori road, Narkatiaganj, West Champaran
 coordinates: [27.104, 84.465]
 precision: locality
 type: seizure
 also: [raid]
-title: Smugglers flee; police seize 10.4 kg of ganja in Narkatiaganj
-summary: >-
-  Shikarpur police seized 10.4 kg of ganja hidden under a tempo seat near Kundilpur in Narkatiaganj after the occupants fled into a sugarcane field. An NDPS Act case was registered against unknown smugglers; no one had been arrested.
+title: Dhaneelal Yadav named main accused in Narkatiaganj 10.4 kg ganja case
+summary: Shikarpur police in Narkatiaganj seized 10.4 kg of ganja from an abandoned tempo after its occupants fled, and have named Dhaneelal Yadav of Pirari village as the main accused. An NDPS Act case has been registered and officers are raiding to arrest him.
 figures:
-  kg_seized: 10.4
+    kg_seized: 10.4
 media:
   - kind: photo
     url: https://www.jagran.com/bihar/west-champaran-west-champaran-narkatiaganj-ganja-smuggling-10kg-seized-smugglers-flee-40421855.html
@@ -47,12 +46,21 @@ sources:
     publisher: Hindustan
     date: 2026-10-30
     language: hi
+  - title: 'Bagaha News: गांजा तस्करी में पिरारी के धनीलाल यादव पर केस दर्ज'
+    url: https://www.livehindustan.com/bihar/bagaha/story-narkatiaganj-police-identify-suspect-in-ganja-smuggling-case-launch-raids-201793462300787.html
+    publisher: Hindustan
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Neither report gives a calendar date for the stop; 30 October 2026 is the publication date of both accounts.
   - Jagran says officers signalled the tempo to stop and the occupants jumped into the field; Bhaskar says they rammed a police vehicle before fleeing. Both accounts are stated.
   - No names, number of occupants, street value or court outcome was published.
   - The Bhaskar page was partly behind an app prompt; the opened text still confirmed the seizure, the flight and the search under the magistrate.
   - नरकटियागंज में पुलिस ने 10.4 किलो गांजा बरामद किया:टेंपो के नीचे छिपाकर ले जा रहे थे, घेराबंदी देख गन्ने के खेत में भागे तस्कर (Dainik Bhaskar) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+  - The article gives no separate date for the identification; 31 October 2026 is its publication date.
+  - Only Hindustan reported the identification; no second outlet or police statement naming Yadav was found.
+  - The article does not say whether the FIR was amended to name Yadav after it was first registered against unknown smugglers.
+  - The page's lead image carries only the headline as its caption and no credit, so it could not be confirmed to show the seizure or the suspect and was not added as media.
 ---
 
 Shikarpur police in Narkatiaganj, West Champaran, acted on a tip that a tempo
@@ -77,3 +85,5 @@ vehicle owner and others from the seized tempo and phone, and were raiding to
 arrest the fugitives. [@1] Bhaskar quoted him saying further legal action was
 under way and that officers were tracing the people who fled and others linked
 to the smuggling. [@2] No one had been named or arrested in either account. [@2,3,4]
+
+Police named Dhaneelal Yadav, a resident of Pirari village in the Inarwa police station area, as the main accused in the case. [@5] Station house officer Manoj Kumar Singh said Yadav's name emerged from the seized tempo and the mobile phones found at the scene. [@5] Police said an FIR had been registered and they had begun raids to arrest Yadav. [@5]
