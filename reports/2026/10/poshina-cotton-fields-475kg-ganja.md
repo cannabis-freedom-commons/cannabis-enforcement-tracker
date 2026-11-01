@@ -24,6 +24,12 @@ tags: [sabarkantha, gujarat, cultivation]
 open_questions:
   - The map marks Poshina town; Anjani and Kalikankar were not resolved as separate mapped localities in the geographic sources checked.
   - Whether the absconding accused Manabhai Gamar was later arrested, and whether the two sites shared a supply network, was not reported.
+  - Divya Bhaskar names the arrested man as Shravan Hansa Gamar and the second accused as Mana Bhoma Gamar, while the English account already cited names Shrinbhai Gamar and Manabhai Gamar.
+  - Divya Bhaskar values the Anjani haul at Rs 2,00,88,500, while the English account already cited gives Rs 2,00,86,500.
+  - Divya Bhaskar was published on 3 October 2026 and does not give a separate raid date; the existing report dates the seizure to 4 October from accounts that say the SOG spoke on Sunday.
+  - The photos and video on the Divya Bhaskar page have no captions, so what each frame shows was not stated.
+  - 'Left out, as its quotation was not found in Divya Bhaskar: Deputy Superintendent of Police Virendrasinh Yadav and Sabarkantha Superintendent of Police Dr Parthrajsinh Gohil had directed the SOG to patrol border areas.'
+  - 'Left out, as its quotation was not found in Divya Bhaskar: A complaint under the NDPS Act was registered at Poshina police station.'
 sources:
   - title: Ganja worth over Rs 2.37 crore found cultivated among cotton crops in Gujarat; four held
     url: https://www.mangalorean.com/ganja-worth-over-rs-2-37-crore-found-cultivated-among-cotton-crops-in-gujarat-four-held/
