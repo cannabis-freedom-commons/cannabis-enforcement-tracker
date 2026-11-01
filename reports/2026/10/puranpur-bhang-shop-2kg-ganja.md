@@ -28,6 +28,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: पूरनपुर में 2.060 किलो गांजे के साथ युवक गिरफ्तार:भांग की दुकान की आड़ में गांजा बेचने का आरोप, लाइसेंस निरस्त कराने को भेजा पत्र
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/pilibhit/puranpur/news/puranpur-bhang-shop-ganja-arrest-shivam-excise-license-139544635.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Hindustan says the tip-off and arrest came on Thursday; Dainik Bhaskar, which gives the case number and the court production, says Friday 30 October 2026, the date used here.
   - Hindustan gives the weight as two kilos and Dainik Bhaskar as 2.060 kg; the report uses 2.060 kg.
@@ -35,12 +40,21 @@ open_questions:
   - The Hindustan report also covers a separate seizure of banned narcotic capsules from a Mandi Road warehouse three days earlier, a different event left out here.
   - No photograph of the arrest or the seized ganja was published; the Hindustan page's only image is a Pilibhit district banner.
   - Whether the excise department acted on the police request to cancel the shop's licence was not reported.
+  - Hindustan dates the tip-off and arrest to Thursday, while Dainik Bhaskar says Friday; the existing report records this difference.
+  - Hindustan gives the weight as two kilos and Dainik Bhaskar as 2.060 kg; the existing report retains the more precise figure.
+  - The embedded video lacks an asset-specific caption confirming that its footage depicts the arrest.
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/pilibhit/puranpur/news/puranpur-bhang-shop-ganja-arrest-shivam-excise-license-139544635.html
+    media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/10/31/11e70899-420f-4419-9cc3-2212332580b8_1793359676711.jpg
+    publisher: Dainik Bhaskar
+    caption: The image caption says police caught Shivam alias Mithu at the Roadways bus stand on Pilibhit Road.
 ---
 
 Police in Puranpur, in Uttar Pradesh's Pilibhit district, arrested 24-year-old
 Shivam alias Mithu on Friday 30 October 2026. [@2] Acting on a tip-off, officers
-stopped him at the roadways bus stand on Pilibhit Road. [@2] A search found
-2.060 kg of ganja on him. [@2] Hindustan put the weight at two kilos. [@1]
+stopped him at the roadways bus stand on Pilibhit Road. [@2,3] A search found
+2.060 kg of ganja on him. [@2,3] Hindustan put the weight at two kilos. [@1]
 
 Police say Shivam worked as a salesman at his father's licensed bhang shop. [@2]
 The shop, near Banda crossing, is licensed in the name of his father,
@@ -51,5 +65,4 @@ the bhang licence. [@2] Shivam lives in Kayasthan Ward No. 9 in Puranpur. [@2]
 Police registered a case against him under the NDPS Act and sent him to jail.
 [@1] Dainik Bhaskar gave the case number as 449/2026 and said he was produced in
 court at 4 pm on Friday. [@2] Police have written to the excise department
-asking it to cancel the shop's bhang licence. [@1]
-
+asking it to cancel the shop's bhang licence. [@1,3]
