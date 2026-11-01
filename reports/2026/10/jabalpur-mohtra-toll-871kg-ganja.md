@@ -56,6 +56,11 @@ media:
     media_url: https://i0.wp.com/www.cgmp.co.in/wp-content/uploads/2026/10/Jabalpur-drug-bust.webp?resize=696%2C403&ssl=1
     publisher: CG MP News
     caption: Police officers behind a table displaying packages from the seized consignment; the page gives no photo credit.
+  - kind: photo
+    url: https://rajexpress.com/madhya-pradesh-news/jabalpur-871-kg-ganja-seized-container-paint-boxes-two-arrested-mp-hindi-news
+    media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/6e427cf7-e16b-4ec8-8736-04ad940df9a1.webp
+    publisher: Raj Express
+    caption: A group stands beside a container at night; Raj Express's caption links the picture to the 871 kg 95 g seizure and two arrests. No photo credit was given.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -136,6 +141,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'जबलपुर में पेंट के डिब्बों से भरे कंटेनर में मिला 871 किलो गांजा: 2 गिरफ्तार, 4.35 करोड़ से ज्यादा की खेप जब्त; आरोपियों को 5 दिन की पुलिस रिमांड'
+    url: https://rajexpress.com/madhya-pradesh-news/jabalpur-871-kg-ganja-seized-container-paint-boxes-two-arrested-mp-hindi-news
+    publisher: Raj Express
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -163,10 +173,11 @@ open_questions:
   - Amar Ujala's page is a video article whose lead image is captioned only with the headline and carries no credit; the video's file address was not available, so no media entry was added.
   - The Times of India gives the weight as 871.95 kg, apparently a decimal slip for 871 kg 95 g (871.095 kg).
   - The submitted Amar Ujala page is a video article; its lead image is the video's poster frame, captioned only with the headline and carrying no credit, so it could not be confirmed to show the seizure and was not added to media. No direct video file address was recoverable.
+  - The three embedded video files have no captions in the captured page, so their connection to this seizure could not be established.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
@@ -174,7 +185,7 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16] The container had a
 Nagaland registration number, police said. [@2]
