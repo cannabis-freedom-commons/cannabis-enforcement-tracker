@@ -52,6 +52,11 @@ media:
     media_url: https://vocaltv.in/static/c1e/client/111914/migrated/3fa1694547c7de406380a67685546fa9.jpg
     publisher: Vocal TV
     caption: A dense field of tall green cannabis plants in Umarban, Dhar district.
+  - kind: video
+    url: https://www.etvbharat.com/hi/state/dhar-police-opration-prahar-drone-raid-ganja-plants-worth-25-crore-seized-mps26110100959
+    media_url: https://geo.dailymotion.com/player/xu5gi.html?video=xbsmpgm
+    publisher: ETV Bharat
+    caption: 'ETV Bharat video on the seizure of about 67 quintals of ganja plants from eight farms in Umarban, captioned with the police estimate of Rs 25 crore. Video: ETV Bharat'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e2cf01d5d63870561ed64f9aa310ac8d
@@ -87,6 +92,11 @@ sources:
     publisher: Vocal TV
     date: 2026-10-31
     language: hi
+  - title: आसमान में उड़ा पुलिस का ड्रोन, नीचे मक्का के खेतों में छुपी थी गांजे की फसल, 25 करोड़ का नशा पकड़ा
+    url: https://www.etvbharat.com/hi/state/dhar-police-opration-prahar-drone-raid-ganja-plants-worth-25-crore-seized-mps26110100959
+    publisher: ETV Bharat
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -99,6 +109,8 @@ open_questions:
   - The article also reports two Khargone operations involving 1,018 plants and three arrests, but gives no dates or locations to determine whether they overlap the indexed 88-plant Khargone case; they are not merged here.
   - The Vocal TV article is a Hindustan Samachar wire copy whose text closely matches the Dainik Bhaskar report already cited, so it is not independent corroboration.
   - The wire calls Vijay Dawar a deputy superintendent of police, while the existing report calls him an additional superintendent; the report's wording is unchanged.
+  - ETV Bharat, published on 1 November, quoted Additional Superintendent of Police Vijay Dawar saying the seizure work in the fields was still continuing, while the report says the operation ran until Saturday evening.
+  - ETV Bharat's wording closely matches the Zee News report, so the two accounts appear to draw on the same police briefing rather than independent reporting.
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
@@ -111,14 +123,14 @@ and Psychotropic Substances Act. [@3,6]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
 pea and cotton on the farms. [@1] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3,6] Police estimated the market value at about Rs
-25 crore. [@2,6] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+about 67 quintals (6,700 kg). [@3,6,7] Police estimated the market value at about Rs
+25 crore. [@2,6,7] Lalluram put the value at Rs 24 crore. [@1] It took police teams
 about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
 part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.
 [@3] The plants were about 15 days from harvest, police said. [@3]
 
-The raids were part of Operation Prahar. [@1,2,6] The operation is a district
+The raids were part of Operation Prahar. [@1,2,6,7] The operation is a district
 campaign against illegal cannabis cultivation. [@4] It was led by Superintendent
 of Police Sachin Sharma. [@1] Additional Superintendent of Police Vijay Dawar
 said police used drones to survey forests, hills and fields. [@2] The operation
@@ -129,3 +141,5 @@ evening. [@2]
 Police seized 4,390 cannabis plants from three locations in Badiya village. [@5]
 
 Police described the Umarban operation as the first of its kind in Dhar district. [@3] The drone surveillance and search in the Manawar police station area had been under way for 48 hours, police said. [@6]
+
+Police said the four were being questioned about the cultivation and about other people connected to it. [@7] Dawar said police were also investigating who had protected the cultivation and whether an organised network was behind it. [@7]
