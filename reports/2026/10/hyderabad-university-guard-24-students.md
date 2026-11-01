@@ -59,6 +59,11 @@ sources:
     publisher: TV9 Telugu
     date: 2026-10-31
     language: te
+  - title: గంజాయి అడ్డాలుగా ప్రముఖ యూనివర్సిటీలు.. దాడులలో సంచలన విషయాలు!
+    url: https://telugu.oneindia.com/news/telangana/top-universities-in-ganja-trap-eagle-force-busts-ganja-network-in-hyderabads-top-universities-512977.html
+    publisher: Oneindia Telugu
+    date: 2026-10-31
+    language: te
 open_questions:
   - The two students questioned on 29 October were described as picked up or apprehended for enquiry, not arrested, and their legal status after screening is not reported.
   - The reports do not say whether the 24 students identified as alleged consumers face charges, and no court appearance or charge sheet was reported for Singh.
@@ -80,10 +85,11 @@ open_questions:
   - 'Left out, as its quotation was not found in TV9 Telugu: He delivered the packets near the university''s South Gate after receiving orders, the officer said.'
   - 'Left out, as its quotation was not found in TV9 Telugu: Gachibowli police registered a case under the Narcotic Drugs and Psychotropic Substances Act.'
   - 'Left out, as its quotation was not found in TV9 Telugu: Both reportedly tested positive for cannabis in screening tests.'
+  - The Oneindia Telugu page has the same headline and text as the Prime9 News article already cited in the report and appears to be a syndicated copy, not independent reporting.
 ---
 
 A security guard accused of supplying marijuana to University of Hyderabad
-students was arrested by the Telangana EAGLE Force. [@1,6,7] The force seized 150
+students was arrested by the Telangana EAGLE Force. [@1,6,7,9] The force seized 150
 grams of ganja packed in 24 small sachets. [@1,6,7,8] The accused, Bikash Singh alias
 Jung, 30, a Nepali native living in Gowlidoddi, Gachibowli, was apprehended on
 29 October after information through the EAGLE Force toll-free number. [@1] A
