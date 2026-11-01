@@ -166,6 +166,11 @@ sources:
     publisher: Daily Thanthi
     date: 2026-10-31
     language: ta
+  - title: 'नशे के खिलाफ पुलिस का बड़ा अभियान: धार में 172 क्विंटल गांजा जब्त, जबलपुर में कंटेनर से 871 किलो खेप बरामद'
+    url: https://www.cgmp.co.in/big-campaign-of-police-against-drugs-172-quintals-of-ganja-seized-in-dhar/185799/
+    publisher: CG MP News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -243,3 +248,5 @@ Police took both arrested men on five-day remand and were questioning them about
 Dharamveer Singh had been caught in Odisha before, police said. [@14] The search for Prabhat Sahu, who had fled, was continuing. [@14] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14]
 
 Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16] Police also seized the container and the 412 paint tins. [@16]
+
+The container's driver was also its owner and was allegedly supplying cannabis in several cities before passing through Jabalpur, CG MP News reported. [@21]
