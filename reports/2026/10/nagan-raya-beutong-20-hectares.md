@@ -21,6 +21,11 @@ media:
     media_url: https://www.purnamanews.com/wp-content/uploads/2026/11/IMG-20261101-WA0017-1200x675.jpg
     publisher: Purnamanews.com
     caption: A group of police officers standing in the cannabis field during the destruction operation, one of them holding a cut cannabis branch; the outlet gives no caption or credit
+  - kind: photo
+    url: https://indonesiaglobal.net/2026/11/01/tembus-medan-terjal-polres-nagan-raya-musnahkan-20-hektare-ladang-ganja/
+    media_url: https://indonesiaglobal.net/wp-content/uploads/2026/11/63f4e57c-69bb-4ecb-8128-689a8713cb8f-1536x864.jpeg
+    publisher: Indonesiaglobal.net
+    caption: 'Composite lead image on the Indonesiaglobal report: the operation''s headline over a photograph of the cannabis field during the destruction; the outlet gives no caption or credit.'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9b110957c57a1cae8e942c323efa3a00
@@ -41,6 +46,11 @@ sources:
     publisher: Baranews Aceh
     date: 2026-11-01
     language: id
+  - title: Tembus Medan Terjal, Polres Nagan Raya Musnahkan 20 Hektare Ladang Ganja
+    url: https://indonesiaglobal.net/2026/11/01/tembus-medan-terjal-polres-nagan-raya-musnahkan-20-hektare-ladang-ganja/
+    publisher: Indonesiaglobal.net
+    date: 2026-11-01
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -49,14 +59,16 @@ open_questions:
   - All three accounts repeat the same police statement, and no independent reporting was found.
   - Purnamanews published its lead photograph without a caption or credit.
   - The text gives a number of plants ("10 hectares with plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - Indonesiaglobal says the team travelled about two hours by trail motorcycle and about two hours on foot; ANTARA, already cited in the report, gives four hours for each leg.
+  - Indonesiaglobal names Beutong Ateuh Banggalang district, while ANTARA and the report say Beutong; the accounts do not explain the difference.
 ---
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
-mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3] The fields lay
+mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4] The fields lay
 in Beutong district, in the mountains of the regency. [@2] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
-personnel. [@2] Officers found no owner and no suspect at the sites. [@1]
+personnel. [@2,4] Officers found no owner and no suspect at the sites. [@1]
 
 Police estimated the plantation at 20 hectares across three separate plots, the
 first of them about 10 hectares with plants up to 1.5 metres tall. [@2] Plants
@@ -66,11 +78,10 @@ carried some of the material to Nagan Raya police headquarters as evidence. [@1]
 
 Reaching the site took about four hours on trail motorcycles and another four
 hours on foot through mountain terrain. [@1] The operation ended at 02:00 WIB,
-western Indonesian time, early on Sunday 1 November. [@1] Nagan Raya police
+western Indonesian time, early on Sunday 1 November. [@1,4] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
 cannabis growing in the regency. [@3] He asked residents to report cannabis
 planting, storage and dealing in their neighbourhoods. [@1] The police said the
 fight against drugs needed the support and cooperation of the whole community.
 [@1]
-
