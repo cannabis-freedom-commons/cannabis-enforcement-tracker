@@ -49,6 +49,11 @@ sources:
     publisher: Prime9 News
     date: 2026-10-31
     language: te
+  - title: EAGLE Force tracks drug links in HCU, NALSAR, GITAM
+    url: https://www.thehansindia.com/news/cities/hyderabad/eagle-force-tracks-drug-links-in-hcu-nalsar-gitam-1137656
+    publisher: The Hans India
+    date: 2026-10-31
+    language: en
 open_questions:
   - The two students questioned on 29 October were described as picked up or apprehended for enquiry, not arrested, and their legal status after screening is not reported.
   - The reports do not say whether the 24 students identified as alleged consumers face charges, and no court appearance or charge sheet was reported for Singh.
@@ -63,27 +68,29 @@ open_questions:
   - The Times of India page's only image is an uncaptioned illustrative picture titled 'students drug use', so it was not added to the report's media.
   - The page presents the 24 University of Hyderabad students as identified in the recent searches, while the report's other sources count them across this inquiry and an earlier case in August.
   - The page's only picture is captioned with the headline alone and could not be confirmed to show this case, so it was not added as media.
+  - The Hans India account does not date the arrest; the existing report dates it to 29 October 2026 from The Hindu.
+  - The same page again describes separate NALSAR and GITAM enquiries, and a student killed in a road accident near the NALSAR tea stall with a marijuana packet said to have been found on him, none of which are part of this arrest.
 ---
 
 A security guard accused of supplying marijuana to University of Hyderabad
-students was arrested by the Telangana EAGLE Force. [@1,6] The force seized 150
-grams of ganja packed in 24 small sachets. [@1,6] The accused, Bikash Singh alias
+students was arrested by the Telangana EAGLE Force. [@1,6,7] The force seized 150
+grams of ganja packed in 24 small sachets. [@1,6,7] The accused, Bikash Singh alias
 Jung, 30, a Nepali native living in Gowlidoddi, Gachibowli, was apprehended on
 29 October after information through the EAGLE Force toll-free number. [@1] A
-mobile phone was also seized. [@3] EAGLE director Sandeep Shandilya said Singh
+mobile phone was also seized. [@3,7] EAGLE director Sandeep Shandilya said Singh
 admitted selling packets of about five grams for ₹500, sometimes ₹1,000. [@1] He
 delivered the packets near the university's South Gate after receiving orders,
 the officer said. [@1] Gachibowli police registered a case under the Narcotic
 Drugs and Psychotropic Substances Act. [@2]
 
 The inquiry began after two University of Hyderabad students, Bharadwaj, 27, and
-Anand, 26, were picked up for questioning. [@1] Both reportedly tested positive
-for cannabis in screening tests. [@1] Bharadwaj reportedly told investigators he
+Anand, 26, were picked up for questioning. [@1,7] Both reportedly tested positive
+for cannabis in screening tests. [@1,7] Bharadwaj reportedly told investigators he
 had used marijuana for two years with Anand, who allegedly bought the drug from
-Singh. [@1] Singh told investigators that Raiz, a resident of Assam, supplied
+Singh. [@1,7] Singh told investigators that Raiz, a resident of Assam, supplied
 him about 200 grams at a time, which he split into smaller packets. [@1] Singh
 also reportedly named 23 people, including seven students, who he said had
-bought marijuana from him. [@1] The force said the disclosures were being
+bought marijuana from him. [@1,7] The force said the disclosures were being
 verified. [@1] Across this inquiry and an earlier one in August, EAGLE Force
 said 24 University of Hyderabad students had been identified as alleged
 consumers. [@2,5,6] The force plans to write to the Vice-Chancellor seeking meetings
