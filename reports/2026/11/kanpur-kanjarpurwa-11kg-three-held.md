@@ -63,6 +63,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-01
     language: hi
+  - title: 'कानपुर: पुलिस की बड़ी कार्रवाई, 11 किलो गांजे के साथ 3 गिरफ्तार'
+    url: https://www.tarunmitra.in/state/uttar-pradesh/big-action-by-kanpur-police-3-arrested-with-11-kg/article-170270
+    publisher: Tarun Mitra
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -72,27 +77,28 @@ open_questions:
   - All three accounts rest on the police account; no comment from the accused or independent reporting was found.
   - Amar Ujala's headline says five police stations were involved, but its text names four — Kidwai Nagar, Babupurwa, Juhi and Govind Nagar; the report keeps the four named stations.
   - Hindustan reported about 9 kg of ganja, while the report's existing accounts give about 11 kg; the report keeps the 11 kg figure.
+  - The lead photograph on the Tarun Mitra page carries only the headline as its caption and no credit, and could not be confirmed to show this operation, so it was not added to the report's media.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
 search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2] The
 operation began at about 5 am on Sunday, 1 November 2026. [@3] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4]
+[@1,4,6]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4]
+stations. [@2,4,6]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6] Other teams kept
 searching during the operation, and police said they were trying to identify
-others involved in the trade. [@3]
+others involved in the trade. [@3,6]
 
 Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
 [@2]
 
-Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
+Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
