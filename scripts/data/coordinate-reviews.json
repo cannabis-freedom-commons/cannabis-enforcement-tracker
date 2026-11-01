@@ -510,5 +510,22 @@
       "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5729.html?p=1",
       "https://nominatim.openstreetmap.org/search?q=Hong+Kong+International+Airport&format=jsonv2&limit=3"
     ]
+  },
+  {
+    "file": "reports/2026/07/craig-klawock-underage-sales-infractions.md",
+    "country": "us/ak",
+    "place": "Craig and Klawock, Prince of Wales Island",
+    "coordinates": [
+      55.55222,
+      -133.09583
+    ],
+    "precision": "region",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The checks covered Craig and Klawock; the regional map pin uses the Alaska DEC reference coordinates for Klawock. The official community profile places Klawock on Prince of Wales Island, where this small-island point falls outside Natural Earth's simplified land polygon.",
+    "evidence": [
+      "https://dec.alaska.gov/media/6319/aiacp-9770-northslope-westernak.pdf",
+      "https://akenergygateway.alaska.edu/explore/communities/klawock/general"
+    ]
   }
 ]
