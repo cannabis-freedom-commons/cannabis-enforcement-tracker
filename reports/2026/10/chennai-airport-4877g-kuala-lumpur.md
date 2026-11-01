@@ -29,6 +29,10 @@ sources:
     url: https://www.hindustantimes.com/india-news/customs-seize-ganja-worth-rs-1-71-crore-at-chennai-airport-woman-arrested-101793509292322.html
     publisher: Hindustan Times
     date: 2026-11-01
+  - title: Customs seize ganja worth ₹1.71 crore at Chennai airport; woman arrested
+    url: https://www.hindustantimes.com/india-news/customs-seize-ganja-worth-rs-1-71-crore-at-chennai-airport-woman-arrested-101793509292322-amp.html
+    publisher: Hindustan Times
+    date: 2026-11-01
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -40,17 +44,16 @@ open_questions:
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1] She had flown in from the capital, Kuala Lumpur, and
-was 28 years old. [@1] Hindustan Times described her as an Indian woman. [@2]
+arrived from Malaysia. [@1,3] She had flown in from the capital, Kuala Lumpur, and
+was 28 years old. [@1] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
 
 The search found 4.877 kg of high-grade hydroponic cannabis in 23 packets
 disguised as food. [@1] Daily Thanthi put its international value at ₹1.71
 crore. [@1] Hindustan Times reported that the drug was in 15 transparent packets
-concealed inside eight food packets in her checked-in trolley bag. [@2]
+concealed inside eight food packets in her checked-in trolley bag. [@2,3]
 
-An official said further investigation was under way. [@2] Customs' intelligence
+An official said further investigation was under way. [@2,3] Customs' intelligence
 wing had put the airport under watch after a tip-off that narcotics were being
 brought into Chennai from abroad. [@1]
-
