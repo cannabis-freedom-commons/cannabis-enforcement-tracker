@@ -65,6 +65,11 @@ sources:
     publisher: MTV Lebanon
     date: 2026-11-01
     language: ar
+  - title: 'بالصور: عملية للجيش في بعلبك... إتلاف نحو 9700 متر مربع من الماريجوانا'
+    url: https://elsiyasa.com/article/434922
+    publisher: Elsiyasa
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The army's statement gives no separate date for the destruction; 1 November 2026 is the date the statement was issued.
   - No figure for the number of plants, the weight of cannabis or the value of the crop was published.
@@ -74,12 +79,13 @@ open_questions:
   - All the reports found repeat the army statement; no independent account of the destruction was published.
   - Addiyar and Al-Manar write the first village as الزرازير, which MTV rendered as Zarazir, while the existing report's title and place use Zarzir; the Arabic statement and the 9,700 square meter figure are otherwise the same.
   - The MTV Lebanon page gives no caption or credit for its lead image, which appears to be a frame from the Army video; it could not be confirmed as distinct from the three Army photographs already linked, so no new media entry was added.
+  - Elsiyasa's page carries three photos without captions or credits; they could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no separate media entries were added.
 ---
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square
 meters in the Zarzir and Ainata areas of Baalbek, the army said on 1 November
-2026. [@1,4,6,7] The army's Directorate of Orientation said the unit had worked to
-destroy the planted area in the two locations. [@3,5] The army's English statement
+2026. [@1,4,6,7,8] The army's Directorate of Orientation said the unit had worked to
+destroy the planted area in the two locations. [@3,5,8] The army's English statement
 put the crop at an estimated 9,700 square meters in Zarazir and Aainata, in
 Baalbek. [@2] That is about 0.97 hectares, or roughly 9.7 Lebanese dunams of
 1,000 square meters. [@1,7]
@@ -88,6 +94,6 @@ The army gave no count of plants, weight of cannabis or value for the crop. [@1]
 It named no owner, cultivator or suspect, and reported no arrests or charges.
 [@1] It did not say whether the crop was cut, burned or uprooted. [@3]
 
-Zarzir and Ainata lie in the Baalbek district. [@1,6] The army did not say how the
+Zarzir and Ainata lie in the Baalbek district. [@1,6,8] The army did not say how the
 planted area was divided between the two areas. [@1] No deaths or injuries were
 reported. [@1]
