@@ -41,6 +41,11 @@ media:
     media_url: https://asset.tribunnews.com/kW73wVEJhhuEEBmAUBj7QEm5sNc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Bandar-Para-Pengedar-Narkotika-Ditangkapi-Satnarkoba-Polresta-Deli-Serdang-20-Hari-57-Tersangka.jpg
     publisher: Tribun Medan
     caption: 'Deli Serdang police chief Kombes Pol Muhammad, holding a loudspeaker, with narcotics unit head Kompol Fery Kusnadi and other officers at the press conference where the seized drugs were displayed. Photo: Tribun Medan'
+  - kind: photo
+    url: https://medan.inews.id/read/726959/polisi-bongkar-sarang-narkoba-di-deli-serdang-57-orang-diringkus
+    media_url: https://img.inews.id/media/600/files/networks/2026/10/31/51078_polresta-deli-serdang.jpeg
+    publisher: iNewsMedan.id
+    caption: 'Press conference on the results of Operasi Sarang Narkoba at Deli Serdang police headquarters, with the seized drugs on display. Photo: Istimewa / iNewsMedan.id'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -91,6 +96,16 @@ sources:
     publisher: CNN Indonesia
     date: 2026-10-31
     language: id
+  - title: GEMPUR SARANG NARKOBA! Polresta Deli Serdang Amankan 57 Tersangka, Sita 23 Kg Sabu dan 24 Kg Ganja
+    url: https://hariandialog.co.id/gempur-sarang-narkoba-polresta-deli-serdang-amankan-57-tersangka-sita-23-kg-sabu-dan-24-kg-ganja/
+    publisher: Harian Dialog
+    date: 2026-11-01
+    language: id
+  - title: Polisi Bongkar Sarang Narkoba di Deli Serdang, 57 Orang Diringkus
+    url: https://medan.inews.id/read/726959/polisi-bongkar-sarang-narkoba-di-deli-serdang-57-orang-diringkus
+    publisher: iNewsMedan.id
+    date: 2026-10-31
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -108,6 +123,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Medan Pos Online: It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja, 23,010.24 grams of methamphetamine and 42 ecstasy pills.'
   - Tribun Medan gives the methamphetamine total as 23.1 kg and the second cannabis lot as 9.4 kg, while the report's earlier sources give 23,010.24 grams and 9,046 grams; the article's two lots (14.4 kg and 9.4 kg) sum to 23.8 kg, above its own 23.5 kg total.
   - Trans89.com gives the ganja as 24 kg, a rounded figure; the report uses the police's detailed 23,517.86 g (23.5 kg).
+  - iNews Medan labels the press conference 'Friday (31/10/2026)', although 31 October 2026 fell on a Saturday; the report keeps Friday 30 October, the date given in the earlier accounts.
+  - Harian Dialog's only photograph carried no caption or credit, so no media entry was taken from that page; the iNews Medan press-conference photo is linked instead.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -119,7 +136,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -132,3 +149,5 @@ the national police chief's programme to suppress drug trafficking and restore
 drug-affected areas. [@1,4]
 
 Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9]
+
+Muhammad said the operation was intended to narrow the space for drug offenders and to deter bandar and pengedar operating in Deli Serdang and nearby areas. [@11]
