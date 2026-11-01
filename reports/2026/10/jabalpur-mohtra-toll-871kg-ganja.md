@@ -61,6 +61,11 @@ media:
     media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/6e427cf7-e16b-4ec8-8736-04ad940df9a1.webp
     publisher: Raj Express
     caption: A group stands beside a container at night; Raj Express's caption links the picture to the 871 kg 95 g seizure and two arrests. No photo credit was given.
+  - kind: photo
+    url: https://www.dailythanthi.com/news/india/ganja-worth-rs-43-crore-seized-in-madhya-pradesh
+    media_url: https://media.assettype.com/dailythanthi%2F2026-10-31%2Fh4y12g7c%2F0.jpg?w=768&auto=format%2Ccompress&fit=max
+    publisher: Daily Thanthi
+    caption: Men stand behind stacks of green and white sacks at the night-time seizure; the page captioned the picture only with the headline and gave no photo credit.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -156,6 +161,11 @@ sources:
     publisher: Vocal TV
     date: 2026-10-31
     language: hi
+  - title: 'மத்தியபிரதேசம்: ரூ. 4.30 கோடி மதிப்புள்ள போதைப்பொருள் கடத்தல் - 2 பேர் கைது'
+    url: https://www.dailythanthi.com/news/india/ganja-worth-rs-43-crore-seized-in-madhya-pradesh
+    publisher: Daily Thanthi
+    date: 2026-10-31
+    language: ta
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -186,10 +196,11 @@ open_questions:
   - The three embedded video files have no captions in the captured page, so their connection to this seizure could not be established.
   - The Vocal TV account is a Hindustan Samachar copy by Mukesh Tomar and repeats the police version; it is not independent reporting.
   - The page's only photograph is an uncaptioned group picture of police personnel, so it was not added to media.
+  - The Daily Thanthi account values the seized cannabis at ₹4.30 crore, below the ₹4.35 crore figure the report uses.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
