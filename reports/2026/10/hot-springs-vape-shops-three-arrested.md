@@ -38,12 +38,17 @@ sources:
     url: https://recentlybooked.com/ar/garland/ammar-aldailam~904_aa24um10302026
     publisher: RecentlyBooked
     date: 2026-10-30
+  - title: Three people arrested in illegal marijuana sales after investigation at vape shops around Hot Springs
+    url: https://www.arkansasonline.com/news/2026/oct/30/three-arrested-illegal-marijuana-sales-hot-springs/
+    publisher: Arkansas Democrat-Gazette
+    date: 2026-10-30
 open_questions:
   - The Sentinel-Record article is subscriber-only beyond its opening paragraph, so charge details, seizure figures and court dates from its full text were not available.
   - No figure for marijuana seized, plants destroyed or the value of any goods was given in the opened reporting.
   - The newspaper identifies only Ameer's Tobacco and Vape Shop at 1607 Albert Pike Road; the second shop is not named in the accessible passage.
   - No plea, bail hearing or court outcome was reported, and the charges are allegations; all three are presumed innocent.
   - The names, booking details and charges come from RecentlyBooked, a public-records aggregator that says its information is drawn from Garland County law-enforcement records.
+  - The supplied Arkansas Democrat-Gazette capture exposes only the headline and image caption before the subscriber-only article body.
 ---
 
 Three employees of two tobacco and vape shops in the Hot Springs area were
@@ -51,7 +56,7 @@ arrested on the afternoon of Thursday 29 October 2026, after an undercover
 investigation into marijuana being sold illegally at the businesses. [@1] The
 local drug task force made the arrests on multiple felony charges. [@1] One of
 the shops was Ameer's Tobacco and Vape Shop at 1607 Albert Pike Road in Hot
-Springs. [@1]
+Springs. [@1,5]
 
 Garland County jail records name one of the three as Hemyar Mahubemulhi Abdulla,
 booked on 30 October 2026. [@3] A second record names Ammar Aldailam, booked the
@@ -61,4 +66,3 @@ The jail records list the drug task force as the arresting agency. [@3] The
 charges listed include possession of a Schedule VI controlled substance with
 purpose to deliver. [@2] Aldailam and Jones also face simultaneous possession of
 drugs and firearms. [@4]
-
