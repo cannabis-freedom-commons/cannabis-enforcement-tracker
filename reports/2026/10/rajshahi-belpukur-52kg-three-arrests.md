@@ -26,6 +26,11 @@ media:
     media_url: https://rajshahirsomoy.com/public/postimages/6ae5e831bc8e1.jpg
     publisher: Rajshahir Somoy
     caption: Lead photo accompanying the report of the Belpukur arrest and cannabis seizure; no separate photo credit was given.
+  - kind: photo
+    url: https://barta24.com/details/national/345500
+    media_url: https://cdn.barta24.com/barta/media/bangla/imgAll/2026October/8-1793428188.jpg
+    publisher: Barta24
+    caption: 'Photograph of the packages reported as cannabis seized in the Belpukur arrest. Photo: Barta24.com.'
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: b3a62bdfd1bec5fc0e39bae3581414a3
@@ -41,20 +46,27 @@ sources:
     publisher: Rajshahir Somoy
     date: 2026-10-31
     language: bn
+  - title: রাজশাহীতে ৫২ কেজি গাঁজাসহ তিনজন গ্রেপ্তার
+    url: https://barta24.com/details/national/345500
+    publisher: Barta24
+    date: 2026-10-31
+    language: bn
 open_questions:
   - Ajker Patrika gives the arrest time as about 10 pm, while Rajshahir Somoy gives about 11:15 pm; both place it at Belpukur roundabout on Friday, 30 October.
   - Rajshahir Somoy says the men were sent to jail through court on Saturday morning; neither account gives a subsequent case outcome or court-order details.
   - Both accounts attribute operational details to an SRB-5 statement rather than providing an independent account.
   - The outlets' lead images may reuse the same press-release photograph; their captions and alt text do not establish whether the images are distinct.
+  - Barta24 and Ajker Patrika place the arrest at about 10 pm, while Rajshahir Somoy gives about 11:15 pm.
+  - Barta24's lead image may duplicate a photograph already linked from another outlet; the captions do not establish whether it is distinct.
 ---
 
 SRB-5 arrested three men at Belpukur roundabout in Rajshahi on Friday, 30
 October 2026. [@2] The arrested men were Rifat Hossain, 36, Ibrahim Khan, 40,
 and Jamal Mia, 27, from localities in Moulvibazar district. [@1] Officers
-recovered 52 kg of cannabis concealed inside the pickup. [@1]
+recovered 52 kg of cannabis concealed inside the pickup. [@1,3]
 
 They also seized the pickup and three mobile phones, and SRB estimated the
-cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2]
+cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2,3]
 SRB-5 said it set up a highway checkpoint after receiving confidential
 information that a large cannabis consignment was coming to Rajshahi from the
 Sylhet or Moulvibazar area. [@1] According to the SRB account, the driver
@@ -62,4 +74,3 @@ ignored the signal to stop, and the team halted the pickup about half a
 kilometre farther on. [@1] The men were handed to police with the seized
 evidence, and a case under the Narcotics Control Act was filed against them.
 [@1] They were sent to jail through court on Saturday morning. [@2]
-
