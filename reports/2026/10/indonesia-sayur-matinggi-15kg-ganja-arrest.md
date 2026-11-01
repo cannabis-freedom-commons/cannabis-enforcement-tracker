@@ -51,6 +51,12 @@ open_questions:
   - Both outlets base their reports on the same South Tapanuli police statement, so the account is not independently corroborated.
   - 'Left out, as its quotation was not found in VOICE Indonesia: South Tapanuli police said they would keep pursuing drug trafficking and act against those involved under the law.'
   - The IDN Times page illustrates the report with generic handcuff and cannabis stock images rather than photographs of the arrest, so no media entry was added from it.
+  - BITV gives the suitcase haul as 15 kg, while ANTARA and the existing report describe it as about 15 kg; the report keeps the approximate figure.
+  - BITV describes a large cross-regency narcotics network but names no other suspects besides A.
+  - The photograph on the BITV page appears to be the same police handout already linked from ANTARA, so it was not added as a second media entry.
+  - 'Left out, as its quotation was not found in BITV Online: South Tapanuli police chief AKBP Anton Santoso gave the account through narcotics unit head AKP Philip Antonio Purba in a statement received on Saturday 31 October.'
+  - 'Left out, as its quotation was not found in BITV Online: The arrest took place at midday on 21 October 2026.'
+  - 'Left out, as its quotation was not found in BITV Online: Police said the arrest followed a long investigation into a narcotics network in their jurisdiction.'
 ---
 
 The South Tapanuli narcotics unit detained a 49-year-old man identified by the
@@ -59,11 +65,11 @@ dealing. [@1,3] The operation took place in Aek Badak village, Sayur Matinggi
 subdistrict, South Tapanuli regency, on Wednesday 21 October 2026. [@2] Officers
 acted on intelligence about a man suspected of carrying cannabis. [@1] They
 found a white sack containing a grey suitcase wrapped in blue plastic and tape.
-[@1,3]
+[@1,2,3]
 
-Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,3] A
-further 5.15 g was found in AHB's front left trouser pocket. [@1,3] AHB told
-officers the cannabis belonged to a friend identified only as A. [@1,3]
+Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,2,3] A
+further 5.15 g was found in AHB's front left trouser pocket. [@1,2,3] AHB told
+officers the cannabis belonged to a friend identified only as A. [@1,2,3]
 
 Police said they were still looking for A. [@1] They were also investigating
 where the cannabis came from and possible involvement by others. [@2] South
