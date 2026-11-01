@@ -38,6 +38,15 @@ sources:
     publisher: Eenadu
     date: 2026-10-31
     language: te
+  - title: ప్రజల భద్రతకు భరోసా
+    url: https://prabhanews.com/khammam-community-connect-police-surprise-checks-crime-control/
+    publisher: Andhra Prabha
+    date: 2026-10-31
+    language: te
+  - title: Khammam Police conduct massive crackdown in Tekulapalli, 286 personnel take part in community policing drive
+    url: https://www.thehansindia.com/news/cities/khammam/khammam-police-conduct-massive-crackdown-in-tekulapalli-286-personnel-take-part-in-community-policing-drive-1137786
+    publisher: The Hans India
+    date: 2026-10-31
 open_questions:
   - CK News reported 14 arrests in its headline, but its text and Kalam Daily say the two sellers and 12 consumers were identified; no charges or court appearance were reported.
   - Kalam Daily put the deployment at 286 police officers; Eenadu reported about 300.
@@ -45,20 +54,25 @@ open_questions:
   - CK News says three theft accused and two suspects were also identified, without saying whether they were among those arrested.
   - The three accounts are Telugu news reports; no police statement or English-language report of the operation was found.
   - 'Left out, as its quotation was not found in Eenadu: Eenadu described the operation as a cordon and search.'
+  - Andhra Prabha's only picture is an uncaptioned, uncredited group photograph of police officers, not of the search or the seized ganja, so it was not added as media.
+  - The Andhra Prabha and Hans India accounts carry near-identical wording, apparently from one police handout, so they do not independently confirm each other.
+  - 'Left out, as its quotation was not found in Andhra Prabha: Kalam Daily put the deployment at 286 officers from the CAR force, task force, special branch, central crime station, eagle force and clues team.'
+  - 'Left out, as its quotation was not found in Andhra Prabha: Officers also took away 62 motorcycles and five autorickshaws without proper documents.'
+  - 'Left out, as its quotation was not found in Andhra Prabha: Khammam police commissioner Sunil Dutt said the search was part of a Community Connect programme meant to ensure public safety and bring residents into crime prevention.'
 ---
 
 Police in the Telangana city of Khammam searched the KCR Towers housing colony
 at Tekulapalli on Saturday 31 October 2026 after reports that people were
 smoking ganja, the local name for cannabis. [@2] Officers went door to door in
-all 52 blocks of the colony. [@2] Kalam Daily put the deployment at 286 officers
+all 52 blocks of the colony. [@2,4] Kalam Daily put the deployment at 286 officers
 from the CAR force, task force, special branch, central crime station, eagle
 force and clues team. [@2] It reported that about 300 police took part. [@3]
 
 Police identified two men accused of selling ganja and 12 people smoking it, and
-seized 50 grams of dried ganja. [@1] CK News reported that 14 people were
+seized 50 grams of dried ganja. [@1,5] CK News reported that 14 people were
 arrested. [@1] Officers also took away 62 motorcycles and five autorickshaws
 without proper documents. [@1] They recorded the fingerprints of 105 people.
-[@1] CK News said three theft accused and two suspects were also identified.
+[@1,4] CK News said three theft accused and two suspects were also identified.
 [@1] Eenadu reported that ganja and liquor bottles were found with some of the
 people searched. [@3]
 
@@ -68,4 +82,3 @@ intoxicants and residents to install CCTV cameras and be alert to strangers and
 tenants. [@2] Additional DCP Ramanujam said residents should report suspicious
 people on Dial 112 and cyber fraud on 1930. [@3] The commissioner also said the
 excise department would act against belt shops, unlicensed liquor outlets. [@1]
-
