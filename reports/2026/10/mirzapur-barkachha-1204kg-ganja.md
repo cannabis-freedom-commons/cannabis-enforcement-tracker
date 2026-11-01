@@ -32,6 +32,11 @@ media:
     media_url: https://cms.patrika.com/wp-content/uploads/2026/10/IMG-20261031-WA0050_copy_1200x800.webp
     publisher: Patrika News
     caption: 'Police personnel with a man seated in front, published as a photo of the arrested accused. Photo: Mirzapur Police'
+  - kind: photo
+    url: https://newstrack.com/uttar-pradesh/mirzapur/truck-ganja-seizure-two-interstate-smugglers-arrested-up-news-644845
+    media_url: https://static.newstrack.com/h-upload/2026/10/31/2060528-mirzapur-9.webp
+    publisher: Newstrack
+    caption: 'Lead photo published with the report, captioned ''Rs 60 crore worth of ganja recovered from truck, two smugglers arrested''; the article text gives the value as ₹6 crore. Photo: Newstrack'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ed23a692cf816ca6f5e144e869c7b064
@@ -62,6 +67,11 @@ sources:
     publisher: Patrika News
     date: 2026-10-31
     language: hi
+  - title: 'Mirzapur News: ट्रक से छह करोड़ का गांजा बरामद, दो तस्कर हुए गिरफ्तार'
+    url: https://newstrack.com/uttar-pradesh/mirzapur/truck-ganja-seizure-two-interstate-smugglers-arrested-up-news-644845
+    publisher: Newstrack
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -71,25 +81,28 @@ open_questions:
   - The submitted article gives no separate date for the check; 30 October 2026 comes from Dainik Bhaskar's account, and 31 October is the publication and press-conference date.
   - Patrika gives the truck's registration as MP 09 HH 8980, while the existing report gives MP 09 HH 8908; the report keeps 8908.
   - 'Left out, as its quotation was not found in Patrika News: Police valued the consignment at about ₹6 crore, or 60 million rupees.'
+  - Newstrack's photo caption in the page metadata gives the value as 'Rs 60 crore', while its headline and article text say six crore rupees; the report uses ₹6 crore.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
 occupants, Ganesh Kewat alias Ramesh Kewat, 44, and Shabir alias Lalu, 30, both
-from Madhya Pradesh's Mauganj district. [@3] The arrests came during a vehicle
+from Madhya Pradesh's Mauganj district. [@3,6] The arrests came during a vehicle
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3] Officers stopped truck MP 09 HH 8908 during the
 check. [@3] A search found 1,204 kg of ganja, the Hindi word for cannabis,
 hidden under sacks of coconuts. [@3] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4] Bharat Samachar put the value at ₹4–5 crore.
+crore, or 60 million rupees. [@4,6] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
-police lines. [@2] Police said the consignment had come from Odisha. [@4,5] It was
-meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5] A
+police lines. [@2] Police said the consignment had come from Odisha. [@4,5,6] It was
+meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6] A
 case was registered against both men under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act at Kotwali Dehat police station, and they were being
-produced in court to be sent to jail. [@4] The truck was seized too. [@3,5]
+produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6]
 
 Officers also found three mobile phones and ₹1,900 in cash, according to Amar
 Ujala. [@2] Police said they were checking the men's criminal records and
 looking for others in the network. [@4]
+
+Both men told police during questioning that they split the proceeds of the trafficking between them. [@6]
