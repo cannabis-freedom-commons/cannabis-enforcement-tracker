@@ -101,6 +101,11 @@ sources:
     publisher: Posnews.co.id
     date: 2026-11-01
     language: id
+  - title: 搜查巴哈里村，警方逮捕26人，没收武器
+    url: https://voi.id/zh/amp/600880
+    publisher: VOI
+    date: 2026-11-01
+    language: zh
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -127,9 +132,9 @@ Prakoso said the operation involved the city police, the national police
 criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
 the mobile brigade (Brimob). [@2,8,10,12] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
-held. [@2,12] Bismo later put the final number at 29. [@4] About 1,816 officers
+held. [@2,12,13] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
-Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7]
+Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
 ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12] They also found
@@ -140,6 +145,6 @@ Officers were pelted with stones during the raid. [@2] He said drug dealing in
 Kampung Bahari still used stalls along the railway despite earlier raids. [@2,11]
 He said police would keep raiding and hunting the suppliers. [@2,12]
 
-The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5] Police were still questioning the 26 people detained in the raid. [@6,7]
+The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5,13] Police were still questioning the 26 people detained in the raid. [@6,7,13]
 
 Officers also seized cash, which Bismo said was kept with the cannabis and came from its sale. [@8,11] He said police would also tear down the stalls so they could not be misused. [@8,11] He said the resistance was an attempt to draw officers away from the operation's targets. [@8,11,12] Bismo said four people were held at the primary site, three of them users and one the owner of the evidence. [@9,11,12]
