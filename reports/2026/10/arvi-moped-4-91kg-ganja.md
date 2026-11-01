@@ -22,6 +22,11 @@ media:
     media_url: https://chandablast.com/wp-content/uploads/2026/10/IMG-20261031-WA0154-1-500x470.jpg
     publisher: CHANDABLAST
     caption: A group with the seized moped and bags after the operation in Arvi; the page published no caption or credit.
+  - kind: video
+    url: https://marathi.ndtv.com/videos/wardha-police-seize-5-kilograms-of-marijuana-from-arvi-school-bag-in-maharashtra-1183486
+    media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/Dhule_205986_123287_5000.mp4
+    publisher: NDTV Marathi
+    caption: NDTV Marathi video report on cannabis seized from a school bag in Arvi, Wardha.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c57a4ce57b0a24e4efc4cd156bbcc25e
@@ -42,6 +47,11 @@ sources:
     publisher: City News – 24
     date: 2026-10-31
     language: mr
+  - title: Wardha Crime News | वर्ध्याच्या आर्वीत शाळेच्या बॅगमधून तब्बल 5 किलो गांजा जप्त । NDTV मराठी
+    url: https://marathi.ndtv.com/videos/wardha-police-seize-5-kilograms-of-marijuana-from-arvi-school-bag-in-maharashtra-1183486
+    publisher: NDTV Marathi
+    date: 2026-10-31
+    language: mr
 open_questions:
   - Chandablast's itemised list gives the cannabis as '4.910 grams' while its headline says 5 kg; Policekaka and City News give 4 kg 910 g (4.910 kg), the figure used here.
   - No court appearance, remand order or plea was reported.
@@ -54,7 +64,7 @@ open_questions:
 Arvi police took Sheikh Guddu Sheikh Ashik, 43, into custody after stopping his
 moped in front of the ST (state transport) depot on the Arvi–Wardha road. [@3]
 Ashik lives in Dautnagar, Ambedkar Ward, Arvi. [@1] Officers found the cannabis
-in plastic bags inside a school bag on the vehicle. [@1] A case was registered
+in plastic bags inside a school bag on the vehicle. [@1,4] A case was registered
 against him under sections 8(c), 20(b), ii(b) and 29 of the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, and Arvi police said the investigation was
 continuing. [@1]
@@ -67,4 +77,3 @@ property at Rs 228,720. [@1]
 It was carried out on the orders of Wardha Superintendent of Police Saurabh
 Kumar Agrawal, who had directed all police stations in the district to act
 strictly against drug traffickers. [@1]
-
