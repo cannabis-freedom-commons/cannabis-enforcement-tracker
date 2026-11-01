@@ -21,6 +21,16 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/30/a8d5e406-4fa2-48fa-95b4-91cd395bed05_1793344680241.jpg
     publisher: Dainik Bhaskar
     caption: 'The seized ganja and the tempo. Photo: Dainik Bhaskar.'
+  - kind: photo
+    url: https://www.bhaskar.com/local/bihar/bettiah/narkatiaganj/news/narkatiaganj-ganja-seizure-police-raid-dhanilal-yadav-arrest-139556908.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/01/7aa8dc16-1484-41a4-a790-03a3658fdab7_1793510906187.jpg
+    publisher: Dainik Bhaskar
+    caption: 'Police officers with the seized ganja package at the roadside in Narkatiaganj, beside the tempo. Photo: Dainik Bhaskar.'
+  - kind: video
+    url: https://www.bhaskar.com/local/bihar/bettiah/narkatiaganj/news/narkatiaganj-ganja-seizure-police-raid-dhanilal-yadav-arrest-139556908.html
+    media_url: https://videos.bhaskarassets.com/2026/11/01/4b3024ad-c2ab-449c-96c5-ac90ac828fa4_1793510868405/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: 'A 35-second Dainik Bhaskar video on the Narkatiaganj seizure and the search for the main accused. Video: Dainik Bhaskar.'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c6f5b02e8796cc39fc3f69004d45ff9b
@@ -51,6 +61,11 @@ sources:
     publisher: Hindustan
     date: 2026-10-31
     language: hi
+  - title: 'नरकटियागंज में टेंपो से 10 किलो गांजा जब्त: पुलिस वाहन में टक्कर मारकर फरार हुए तस्कर, मुख्य आरोपी की तलाश जारी'
+    url: https://www.bhaskar.com/local/bihar/bettiah/narkatiaganj/news/narkatiaganj-ganja-seizure-police-raid-dhanilal-yadav-arrest-139556908.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither report gives a calendar date for the stop; 30 October 2026 is the publication date of both accounts.
   - Jagran says officers signalled the tempo to stop and the occupants jumped into the field; Bhaskar says they rammed a police vehicle before fleeing. Both accounts are stated.
@@ -61,6 +76,11 @@ open_questions:
   - Only Hindustan reported the identification; no second outlet or police statement naming Yadav was found.
   - The article does not say whether the FIR was amended to name Yadav after it was first registered against unknown smugglers.
   - The page's lead image carries only the headline as its caption and no credit, so it could not be confirmed to show the seizure or the suspect and was not added as media.
+  - This account names the block development officer present at the weighing as Suraj Kumar, where the earlier Bhaskar report gave Suraj Kumar Singh.
+  - The page shows only its opening paragraph to readers without the app; the remaining paragraphs were read in the page markup.
+  - The video is identified only by the page metadata, so its caption describes it as a video on the case rather than what it shows.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The operation took place on Friday, 30 October 2026.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Sub-inspector Rajesh Kumar led the vehicle-checking team on station house officer Manoj Kumar Singh''s instructions.'
 ---
 
 Shikarpur police in Narkatiaganj, West Champaran, acted on a tip that a tempo
@@ -86,4 +106,4 @@ arrest the fugitives. [@1] Bhaskar quoted him saying further legal action was
 under way and that officers were tracing the people who fled and others linked
 to the smuggling. [@2] No one had been named or arrested in either account. [@2,3,4]
 
-Police named Dhaneelal Yadav, a resident of Pirari village in the Inarwa police station area, as the main accused in the case. [@5] Station house officer Manoj Kumar Singh said Yadav's name emerged from the seized tempo and the mobile phones found at the scene. [@5] Police said an FIR had been registered and they had begun raids to arrest Yadav. [@5]
+Police named Dhaneelal Yadav, a resident of Pirari village in the Inarwa police station area, as the main accused in the case. [@5,6] Station house officer Manoj Kumar Singh said Yadav's name emerged from the seized tempo and the mobile phones found at the scene. [@5] Police said an FIR had been registered and they had begun raids to arrest Yadav. [@5,6]
