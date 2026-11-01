@@ -68,6 +68,11 @@ sources:
     publisher: Tarun Mitra
     date: 2026-11-01
     language: hi
+  - title: आसमान में ड्रोन, गलियों में 135 जवान, कंजड़नपुरवा में नशे के कारोबार पर पुलिस का प्रहार, 3 गिरफ्तार
+    url: https://www.indiatv.in/uttar-pradesh/up-kanpur-drones-in-the-sky-135-personnel-in-the-streets-police-strike-against-the-drug-trade-in-kanjadanpurwa-3-arrested-2026-11-01-1252168
+    publisher: India TV
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -78,18 +83,21 @@ open_questions:
   - Amar Ujala's headline says five police stations were involved, but its text names four — Kidwai Nagar, Babupurwa, Juhi and Govind Nagar; the report keeps the four named stations.
   - Hindustan reported about 9 kg of ganja, while the report's existing accounts give about 11 kg; the report keeps the 11 kg figure.
   - The lead photograph on the Tarun Mitra page carries only the headline as its caption and no credit, and could not be confirmed to show this operation, so it was not added to the report's media.
+  - India TV spells the neighbourhood Kanjadanpurwa, the form used in its headline and URL; the report uses Kanjarpurwa for the same locality in Kidwai Nagar.
+  - India TV says Deputy Commissioner of Police (South) Deependra Nath Chaudhary personally monitored the operation, while the report's other accounts say Assistant Commissioner of Police Ghatampur supervised the joint operation.
+  - The India TV photograph carries only the caption "Police action against drugs in Kanpur" and the credit "Reporter input", so it could not be confirmed to show this raid and was not linked as media.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,7] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6]
+[@1,4,6,7]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6]
+stations. [@2,4,6,7]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2] Police said they had acted on repeated reports that drugs were sold
@@ -99,6 +107,6 @@ others involved in the trade. [@3,6]
 
 Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
-[@2]
+[@2,7]
 
 Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
