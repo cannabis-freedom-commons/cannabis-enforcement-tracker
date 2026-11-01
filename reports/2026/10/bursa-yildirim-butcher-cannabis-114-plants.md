@@ -83,6 +83,11 @@ sources:
     publisher: Sabah
     date: 2026-10-31
     language: tr
+  - title: Bursa'da Kasap Dükkanına Baskın! Bodrumdan Bakın Ne Çıktı
+    url: https://www.inegolonline.com/amp/haber/bursa-da-kasap-dukkanina-baskin-bodrumdan-bakin-ne-cikti-365425
+    publisher: İnegöl Online
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The sources give no separate date for the operation, detention or court appearance; 31 October 2026 is the publication date of the earliest accounts.
   - No charge, trial date, sentence or estimated value of the cannabis was published; tutuklama is pre-trial detention, not a conviction.
@@ -96,6 +101,7 @@ open_questions:
   - Both pages opened for this submission carry İHA's dispatch, and Şehir Medya credits İHA as its source, so they corroborate the figures but are not independent reporting.
   - The two photographs on the İnegöl Online page carry only the headline as their caption and name no photographer or agency; they appear to repeat the İHA picture set already linked from another outlet, so no new media entry was added.
   - The submitted Son Dakika page is the AMP version of the article the existing report already cites by its canonical URL, so it is the same dispatch rather than independent reporting.
+  - The page gives 31 October 2026 as its publication date but no separate date for the operation; the existing report already records this gap.
 media:
   - kind: photo
     url: https://www.afyonturkeligazetesi.com/kasap-dukkaninin-altindan-uyusturucu-serasi-cikti-114-kok-kenevir-ele-gecirildi/148684
@@ -126,9 +132,9 @@ media:
 
 Police in Yıldırım, a district of Bursa, found a cannabis grow in the basement
 of a butcher's shop converted into a grow room with climate-control and lighting
-equipment. [@2,3,4,5,6,7,8,10,11,12,13] They detained a suspect identified only by the initials A.T.;
+equipment. [@2,3,4,5,6,7,8,10,11,12,13,14] They detained a suspect identified only by the initials A.T.;
 after questioning at the police station he was taken to court, where a judge
-ordered him held in pre-trial detention, known in Turkey as tutuklama. [@1,3,5,8,12] He
+ordered him held in pre-trial detention, known in Turkey as tutuklama. [@1,3,5,8,12,14] He
 was sent to prison after the court order. [@2,3,4,9,10,11,12]
 
 Officers seized 114 cannabis plants in pots, 1 kg 885 g of esrar (cannabis) in
