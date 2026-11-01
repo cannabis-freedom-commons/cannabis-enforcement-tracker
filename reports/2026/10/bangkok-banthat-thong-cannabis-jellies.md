@@ -83,6 +83,10 @@ sources:
     url: https://www.bangkokpost.com/thailand/general/3346521/police-raid-bangkok-shop-selling-cannabis-sweets
     publisher: Bangkok Post
     date: 2026-11-01
+  - title: FDA, CIB raid illegal cannabis gummy outlet in Bangkok, seize 90 packs
+    url: https://www.khaosodenglish.com/news/2026/11/01/fda-cib-raid-illegal-cannabis-gummy-outlet-in-bangkok-seize-90-packs/
+    publisher: Khaosod English
+    date: 2026-11-01
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -100,25 +104,25 @@ Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5] The
 shop occupied the second floor. [@1,4,5,7] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9] The FDA put the value of the jellies at 50,000 baht.
+Administration (FDA). [@1,4,5,7,8,9,11] The FDA put the value of the jellies at 50,000 baht.
 [@2,5]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8] A 26-year-old woman
+Thai customers and foreign tourists for about a year. [@1,4,7,8,11] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9] Officers told her
 she faced a charge of selling a controlled herb without permission. [@3,7] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
 planned to send samples to the Department of Medical Sciences to check whether
 THC and CBD levels exceeded the legal limit, which could bring further charges.
-[@3,4,5,8]
+[@3,4,5,8,11]
 
 The search followed a case in Khlung district, Chanthaburi province, where a
 family fell severely ill after eating cannabis sweets, with convulsions and loss
-of consciousness that required ventilators. [@1,7,8,9] The FDA warned parents to watch
+of consciousness that required ventilators. [@1,7,8,9,11] The FDA warned parents to watch
 for unlabelled sweets marked with cannabis leaves or the words Cannabis, CA or
 THC. [@1]
 
-The search was carried out under a warrant from the Pathum Wan Kwaeng Court. [@1,4,6] Police said selling the jellies also broke the Food Act, which bars producing and selling food with an incorrect label and carries a fine of up to 30,000 baht. [@2,4,5]
+The search was carried out under a warrant from the Pathum Wan Kwaeng Court. [@1,4,6] Police said selling the jellies also broke the Food Act, which bars producing and selling food with an incorrect label and carries a fine of up to 30,000 baht. [@2,4,5,11]
 
 The 26-year-old woman was identified only as Saowalak, with her surname withheld. [@5]
 
@@ -127,3 +131,5 @@ The shop was in a row building at 188/25 Soi Rong Mueang 5, Wang Mai subdistrict
 The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8]
 
 Police arrested a 26-year-old woman, identified only as Saowalak. [@10]
+
+The Central Investigation Bureau commissioner, Pol Lt Gen Nattasak Chaowanasai, said cannabis had increasingly been used for purposes unrelated to medical treatment, with some operators mixing it into gummies, cookies, sweets and other food products to produce intoxicating effects. [@11]
