@@ -24,6 +24,11 @@ sources:
     publisher: الإمارات اليوم
     date: 2026-10-31
     language: ar
+  - title: «الاستئناف» تؤيد براءة متهم من الاتجار في المخدرات
+    url: https://25h.app/2026/10/31/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%AA%D8%A4%D9%8A%D8%AF-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D9%85%D8%AA%D9%87%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7/
+    publisher: 25H
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The appeal hearing date is not stated separately from the 31 October 2026 publication date.
   - The arrest is dated only to January 2024, with no day given.
@@ -35,9 +40,9 @@ open_questions:
 The Federal Court of Appeal in Abu Dhabi upheld the acquittal of a second
 defendant on two charges of possessing narcotics and psychotropic substances
 with intent to traffic, after Sharjah police caught him picking up a hashish
-wrap at a watched site. [@1] It also upheld a three-month jail term for using a
+wrap at a watched site. [@1,2] It also upheld a three-month jail term for using a
 psychotropic substance and rejected the prosecution appeal that sought
-convictions on both trafficking charges. [@1]
+convictions on both trafficking charges. [@1,2]
 
 The case began in January 2024, when the Sharjah Anti-Narcotics Department was
 told that a man was using drugs and promoting them for money. [@1] After a
@@ -68,4 +73,3 @@ investigation had focused on the first defendant. [@1] It said a witness claim
 that the second man would divide the drug to sell it was not enough on its own,
 because trafficking penalties can reach death or life imprisonment. [@1] It
 upheld the judgment and ordered him to pay the appeal fees. [@1]
-
