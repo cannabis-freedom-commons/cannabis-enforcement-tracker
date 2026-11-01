@@ -36,16 +36,22 @@ sources:
     url: https://www.freepressjournal.in/pune/pune-policeman-dismissed-from-service-after-arrest-with-12-kg-ganja-in-telangana
     publisher: Free Press Journal
     date: 2026-10-31
+  - title: बीमारी का बहाना बनाकर छुट्टी लेता था पुलिस अफसर, फिर बेचता था पुड़िया, कैसे खुली पोल?
+    url: https://hindi.news18.com/amp/news/maharashtra/pune-pune-police-constable-nitin-shinde-arrested-12-kg-ganja-telangana-local18-10951766.html
+    publisher: News18 हिंदी
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The order dismissing Shinde is not dated in these reports; the report is dated to the 25 October 2026 arrest after which he was suspended and then dismissed.
   - No court appearance or outcome of the NDPS case has been reported.
   - No photograph of the arrest or of Shinde was published; the images on the Sakal and Times of India pages are generic illustrations, so none is listed.
   - The sources give no value for the 12 kg of ganja.
+  - News18's supplied image caption does not establish that the image depicts the arrest, so it is not listed as event media.
 ---
 
 Nitin Dnyanu Shinde, a constable in the Pune city police, was dismissed from
 government service after Telangana police arrested him with 12 kg of ganja in
-Warangal district. [@1,4] Shinde had been serving in the force's Vishrambaug
+Warangal district. [@1,4,5] Shinde had been serving in the force's Vishrambaug
 traffic division and had been on leave citing illness since 7 October 2026. [@1]
 He had held that posting for about one and a half years. [@3] Additional Police
 Commissioner (Administration) Sanjay Patil issued the dismissal order. [@1,4] The
