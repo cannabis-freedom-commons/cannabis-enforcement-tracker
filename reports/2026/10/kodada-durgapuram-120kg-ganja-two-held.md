@@ -56,6 +56,11 @@ sources:
     publisher: V6 Velugu
     date: 2026-10-31
     language: te
+  - title: 'Eagle Force : తెలంగాణ ఈగల్ ఫోర్స్ దాడులు'
+    url: https://www.telugupost.com/amp/crime/telangana-eagle-force-busted-inter-state-ganja-gang-1624915
+    publisher: Telugu Post
+    date: 2026-10-31
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -67,6 +72,7 @@ open_questions:
   - 'The reports disagree on the haul and route: the early Telugu accounts say 120 kg from Rajahmundry to Bengaluru, while The Hindu, Siasat and V6 Velugu say about 150 kg in 62 packets from Chitrakonda in Odisha to Karnataka; the report keeps 120 kg.'
   - The early reports place the interception at Durgapuram stage; The Hindu and Siasat place it near Kakatiya Seva Samithi on Kodad Highway.
   - The Hindu says both men are from Kollegala, while Siasat says Selva Surya is from Hanur taluk and Raja Gownder Murugan from Kollegala.
+  - The Telugu Post puts the haul at 150 kg and its value at about ₹75 lakh, while the report's figures keep 120 kg from the earlier Telugu accounts.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
@@ -87,3 +93,5 @@ released after the investigation. [@3]
 Telangana's EAGLE Force and Kodad Town Police stopped a Honda City near Kakatiya Seva Samithi on Kodad Highway. [@4] The two were identified as Selva Surya, 26, and Raja Gownder Murugan, 42, both from Chamarajanagar district in Karnataka. [@5] The Hindu reported that police seized 62 packets containing about 150 kg of ganja, valued at ₹75 lakh. [@5] Preliminary inquiries indicated the two had bought the consignment from a man named Raju in Chitrakonda, Odisha, and were taking it to Karnataka. [@5] The intended receivers arranged the car and promised the two ₹20,000 for the delivery, according to investigators. [@5] Investigators identified Eshwar Gownder, 40, and Shivappa, both from Hanur in Chamarajanagar, as the alleged receivers. [@5] Kodad Town Police registered a First Information Report under the Narcotic Drugs and Psychotropic Substances Act and began investigating. [@6]
 
 The seized ganja, vehicle and the two accused were handed over to Kodad Town Police for further legal action. [@5]
+
+Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
