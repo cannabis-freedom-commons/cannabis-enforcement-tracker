@@ -74,6 +74,10 @@ sources:
     url: https://www.tribuneindia.com/news/delhi/four-passengers-land-in-police-dragnet-probe-underway/amp
     publisher: The Tribune
     date: 2026-11-01
+  - title: Hydroponic Weed Worth Rs 9.33 Crore Seized At Delhi's IGI Airport, Two Passengers Arrested
+    url: https://www.etvbharat.com/en/bharat/hydroponic-weed-worth-rs-9-dot-33-crore-seized-at-delhi-igi-airport-two-passengers-arrested-enn26103102770
+    publisher: ETV Bharat
+    date: 2026-10-31
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -92,30 +96,39 @@ open_questions:
   - The page's 36.325 kg and Rs 12.70 crore totals cover three separate narcotics cases, including the 26.67 kg seizure, and are not a single-event figure.
   - The page's only article image is captioned 'Photo for representation. Istock', so no media entry was added.
   - The submitted page is the AMP edition of the Tribune article already cited in the report; it is the same account, not independent corroboration.
+  - The ETV Bharat English article appears to be the English-language edition of the ETV Bharat account already cited in Hindi, so it is not independent corroboration.
+  - The English page's lead image is captioned only with the headline and credited to a special arrangement, so its identification with this seizure rests on the article context.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28001396-thumbnail-16x9-ganja-aspera.jpg
     publisher: ETV Bharat
     caption: 'Two bags of seized hydroponic weed on weighing scales. Photo: ETV Bharat.'
+  - kind: photo
+    url: https://www.etvbharat.com/en/bharat/hydroponic-weed-worth-rs-9-dot-33-crore-seized-at-delhi-igi-airport-two-passengers-arrested-enn26103102770
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28002948-thumbnail-16x9-weed-at-igi-aspera.jpg
+    publisher: ETV Bharat
+    caption: 'Black-wrapped packages and a weighing scale in the lead image of the ETV Bharat report on the seizure. Photo: Special arrangement via ETV Bharat.'
 ---
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9,10,11] The seizure was made at Terminal 3. [@3,8,11,12] Both were diverted from the Green
+[@1,4,5,6,7,8,9,10,11,13] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
 Channel for X-ray screening after profiling. [@3,11,12] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12] The substance was seized under Section
+Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13] The substance was seized under Section
 43(a) of the same act. [@1,4,5,6,7,12]
 
 Officers found 26 polythene pouches of a green substance suspected to be
-marijuana or hydroponic weed. [@2,11,12] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7,8,11,12] A diagnostic test indicated prima facie that the substance was
+marijuana or hydroponic weed. [@2,11,12,13] Customs valued the haul at about Rs 9.33
+crore. [@1,4,5,6,7,8,11,12,13] A diagnostic test indicated prima facie that the substance was
 marijuana or hydroponic weed. [@2,5,6,7]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
-of the NDPS Act and that its investigation was in progress. [@3] Hydroponic
+of the NDPS Act and that its investigation was in progress. [@3,13] Hydroponic
 ganja is a high-potency variety of cannabis grown in nutrient-rich water instead
-of soil. [@1,4,5,6,7]
+of soil. [@1,4,5,6,7,13]
 
 The pouches were packed 13 to each of two black trolley bags. [@1,5,6,7,9]
+
+Customs said it acted on a tip-off as well as passenger profiling, and placed the two under surveillance as they tried to clear the Green Channel. [@13] Both passengers were being interrogated as investigators tried to determine the network and reach of the international drug syndicate within India, customs said. [@13] Customs said high-vigilance operations would remain in place at the airport terminals. [@13]
