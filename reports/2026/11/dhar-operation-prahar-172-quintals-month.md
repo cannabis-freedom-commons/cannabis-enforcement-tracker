@@ -36,6 +36,16 @@ sources:
     publisher: Raj Express
     date: 2026-11-01
     language: hi
+  - title: धार पुलिस के हाथ लगी बड़ी कामयाबी, भारी मात्रा में गांजा जब्त, 15 आरोपी पकड़े गए
+    url: https://thebharatnow.in/madhya-pradesh/major-breakthrough-for-dhar-police-large-quantity-of-cannabis-seized-15-suspects-arrested/
+    publisher: The Bharat Now
+    date: 2026-11-01
+    language: hi
+  - title: 'धार में 17 हजार किलो गांजे के पौधे जब्त: कांग्रेस का दावा- केवल छोटे आरोपी ही निशाने पर, बड़े नशा कारोबारी अब भी बाहर'
+    url: https://www.bhaskar.com/local/mp/dhar/news/dhar-news-ajay-singh-thakur-operation-prahar-liquor-drugs-scam-139556167.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Police gave the number of arrests as a range, 14 to 15; the report uses 15.
   - Police gave the value of the 172 quintals only as a range, 45 to 50 crore rupees; the figures record the lower bound.
@@ -46,24 +56,27 @@ open_questions:
   - The same article reports a separate 871 kg container seizure in Jabalpur, which has its own report and is left out here.
   - The two accounts repeat the same police briefing; no independent reporting of the figures was found.
   - Raj Express captioned its lead picture as an AI-generated photo, so no media entry was taken from that page.
+  - Dainik Bhaskar puts the haul at more than 17,000 kg of cannabis plants, while the police briefing gives 172 quintals (17,200 kg) of ganja.
+  - The accounts do not say whether the 172 quintals were weighed as green plants or as dried cannabis.
 ---
 
 Police in Dhar district, Madhya Pradesh, said they had seized 172 quintals
 (17,200 kg) of cannabis, known locally as ganja, in the past month and arrested
-14 to 15 people in 25 drug cases. [@1] Police put the international market value
-of the seized cannabis at 45 to 50 crore rupees. [@1]
+14 to 15 people in 25 drug cases. [@1,3] Police put the international market value
+of the seized cannabis at 45 to 50 crore rupees. [@1,3]
 
 Additional Superintendent of Police Vijay Dawar said Operation Prahar was run on
 instructions from police headquarters and used drone surveillance to search
 hilly and inaccessible areas where cannabis was suspected to be grown in secret.
 [@1] In the Manawar police station area alone, officers seized 67 quintals
-(6,700 kg) of cannabis that had been grown among cotton and maize crops. [@1]
+(6,700 kg) of cannabis that had been grown among cotton and maize crops. [@1,3]
 Raj Express reported that police identified the fields with drone surveillance
 before moving in. [@2] Searches were also continuing in Dehri, Thanabhag,
-Gandhwani and Mandu. [@1]
+Gandhwani and Mandu. [@1,3]
 
 Police described the campaign as a major action against illegal cannabis in the
 state and said the searches and seizures would continue. [@1] Police were also
 examining the role of people linked to the cultivation and trafficking, Raj
 Express reported. [@2]
 
+Dainik Bhaskar reported that Dhar district was being described as first in Madhya Pradesh for cannabis plant seizures. [@4] Congress district spokesperson Ajay Singh Thakur accused police of harassing only small people, saying no big offender had been caught so far. [@4]
