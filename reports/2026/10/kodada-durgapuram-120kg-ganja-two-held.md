@@ -23,6 +23,11 @@ media:
     media_url: https://static.v6velugu.com/uploads/2026/10/large-quantity-of-ganja-seized-in-kodad_biPpZjYTxq.jpg
     publisher: V6 Velugu
     caption: A composite image pairing a Kodad road sign with bundles of the seized ganja, used as the report's lead picture; no photo credit given.
+  - kind: photo
+    url: https://indtoday.com/suryapet-marijuana-seizure-150-kg-recovered-two-held/
+    media_url: https://indtoday.com/wp-content/uploads/2026/11/YT-Thumbnails-2026-11-01T151954.621.jpg
+    publisher: IND Today
+    caption: Police officers stand behind bundles of seized cannabis in front of a police vehicle; the page gives no photo credit.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84a8096d1d3579af6b716aef68cf7961
@@ -66,6 +71,14 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-01
     language: te
+  - title: 'Suryapet Marijuana Seizure: 150 Kg Recovered, Two Held'
+    url: https://indtoday.com/suryapet-marijuana-seizure-150-kg-recovered-two-held/
+    publisher: IND Today
+    date: 2026-11-01
+  - title: 150 kg of B’luru-bound ganja seized
+    url: https://assets.thehansindia.com/news/cities/nalgonda-suryapet/150-kg-of-bluru-bound-ganja-seized-1138275
+    publisher: The Hans India
+    date: 2026-11-02
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -82,6 +95,8 @@ open_questions:
   - The article is dated 1 November and carries a Suryapet dateline for that day, but gives no separate event date; the report keeps 31 October, when The Hindu and Siasat say the interception happened.
   - The article does not say whether the three who fled were later caught or charged.
   - 'Left out, as its quotation was not found in Andhrajyothy: Police said preliminary inquiries showed the two were taking the cannabis by car from Rajahmundry to Bengaluru.'
+  - IND Today and The Hans India put the haul at 150 kg, while the report's title and figures keep 120 kg from the earlier Telugu accounts.
+  - The IND Today page gives no photo credit for its lead picture of officers and seized bundles, so its provenance is not documented.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
@@ -105,4 +120,4 @@ The seized ganja, vehicle and the two accused were handed over to Kodad Town Pol
 
 Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
 
-Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8] The gang had five members; two were arrested and three fled. [@8] Police seized two mobile phones and a car along with the ganja. [@8] Police said they were searching for the suspects who had fled. [@8]
+Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9] The gang had five members; two were arrested and three fled. [@8,9] Police seized two mobile phones and a car along with the ganja. [@8,10] Police said they were searching for the suspects who had fled. [@8,10]
