@@ -39,6 +39,11 @@ media:
     media_url: https://03442.com.ar/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-a.jpg
     publisher: "03442"
     caption: Lead photo published with 03442's account of the federal searches at the former dump and Barrio 192 Viviendas.
+  - kind: photo
+    url: https://www.elonce.com/amp/desarticularon-dos-puntos-de-venta-de-drogas-y-detuvieron-a-cuatro-personas-en.htm
+    media_url: https://elonce-media.elonce.com/fotos/2026/10/30/o_1793408051_89920.webp
+    publisher: Elonce
+    caption: 'Federal police photo published with the account of the four detentions, showing seized items laid out on a table. Photo: PFA, via Elonce.'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: e5655aad1ab8710150e784427156756f
@@ -59,26 +64,32 @@ sources:
     publisher: "03442"
     date: 2026-10-30
     language: es
+  - title: Desarticularon dos puntos de venta de drogas y detuvieron a cuatro personas en Concepción del Uruguay
+    url: https://www.elonce.com/amp/desarticularon-dos-puntos-de-venta-de-drogas-y-detuvieron-a-cuatro-personas-en.htm
+    publisher: Elonce
+    date: 2026-10-30
+    language: es
 open_questions:
   - Only 03442 dates the searches to Thursday afternoon into the night, without a calendar date; 29 October 2026 is that Thursday relative to the 30 October publication, and the other two outlets do not give a separate raid date.
   - 03442 reports a compacted brick of marijuana, about 400,000 pesos in cash, five firearms and about 100 rounds, and does not state the 1.2 kilogram figure used by Análisis Digital and Elonce.
   - The Análisis Digital URL slug reads as if 12 kilograms were seized; the article text, headline and description say 1.2 kilograms.
   - No court outcome beyond the four people being charged and left at the judge's disposal was reported.
   - Elonce's body photos are credited to the federal police but have no individual captions describing what each frame shows.
+  - The submitted Elonce page is an AMP edition of the same article already cited, so it adds no independent confirmation.
 ---
 
 Federal police arrested four people — three men and one woman, all Argentine
 adults, the woman described as the alleged leader of the settlement — after
-breaking up two drug-selling points in Concepción del Uruguay, Entre Ríos. [@1]
+breaking up two drug-selling points in Concepción del Uruguay, Entre Ríos. [@1,4]
 They were charged with offences linked to selling narcotics and possessing
 firearms, and they and the seized items were left at the disposal of the
-intervening judge under the drug law. [@1] Elonce likewise reported three men
+intervening judge under the drug law. [@1,4] Elonce likewise reported three men
 and a woman, named as the alleged person responsible for the activity under
 investigation in the settlement, held after the same operation. [@2]
 
 Officers of the Federal Investigations Department of the Policía Federal
 Argentina searched two homes in the western part of Barrio 192 Viviendas, in the
-sector known as the former-dump settlement. [@1] The case had begun in August
+sector known as the former-dump settlement. [@1,4] The case had begun in August
 2026 with the Federal Operational Unit in Concepción del Uruguay, through
 intelligence, surveillance and following, and it led to court search warrants.
 [@1] Prosecutor's Office No. 5, led by Eduardo Pascual Santo, took part, and
@@ -88,7 +99,7 @@ authorised the searches. [@2]
 Police reported seizing several cocaine doses ready for distribution, 1.2
 kilograms of marijuana, 42 clonazepam pills, a .22 carbine with a pistol and
 ammunition of the same calibre, .28 and .12 ammunition, an air rifle, a homemade
-pistol, a precision scale, a motorcycle and several mobile phones. [@1] Elonce
+pistol, a precision scale, a motorcycle and several mobile phones. [@1,4] Elonce
 confirmed the same 1.2 kilograms of marijuana, cocaine doses prepared for
 distribution, 42 clonazepam pills, the .22 carbine, a pistol, an air rifle, a
 homemade weapon, a precision scale, a motorcycle and mobile phones. [@2] A local
@@ -99,4 +110,3 @@ compacted brick of marijuana. [@3] 03442 said twelve people were identified at
 the scene and four were detained on a judicial order, taken to the federal
 police station to await a statement before the Guarantee Court, with
 Prosecutor's Office No. 5 under Eduardo Santo intervening. [@3]
-
