@@ -86,6 +86,11 @@ sources:
     publisher: Metro Daily
     date: 2026-11-01
     language: id
+  - title: Ribuan Tanaman Ganja Ditemukan dalam Perbukitan di Mandailing Natal, Kini Dimusnahkan
+    url: https://medan.tribunnews.com/sumut-terkini/1817811/ribuan-tanaman-ganja-ditemukan-dalam-perbukitan-di-mandailing-natal-kini-dimusnahkan
+    publisher: Tribun Medan
+    date: 2026-11-01
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -139,7 +144,7 @@ on the round trip. [@2]
 
 The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4]
 
-Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5]
+Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12]
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7] He said the huts around the plots were empty when officers arrived. [@7]
 
