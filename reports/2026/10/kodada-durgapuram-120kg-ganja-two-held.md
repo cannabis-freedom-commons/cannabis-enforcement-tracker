@@ -18,6 +18,11 @@ media:
     media_url: https://image.ntnews.com/wp-content/uploads/2026/10/kodada_V_jpg--816x480-4g.webp?sw=1440&dsz=816x480&iw=620&p=false&r=1
     publisher: Namasthe Telangana
     caption: Police officers stand over bundles of seized ganja laid out at the roadside in Kodada, with two men sitting on the ground and a motorcycle parked nearby; no photo credit given.
+  - kind: photo
+    url: https://www.v6velugu.com/large-quantity-of-ganja-seized-in-kodad
+    media_url: https://static.v6velugu.com/uploads/2026/10/large-quantity-of-ganja-seized-in-kodad_biPpZjYTxq.jpg
+    publisher: V6 Velugu
+    caption: A composite image pairing a Kodad road sign with bundles of the seized ganja, used as the report's lead picture; no photo credit given.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84a8096d1d3579af6b716aef68cf7961
@@ -38,6 +43,19 @@ sources:
     publisher: Mee24News
     date: 2026-10-31
     language: te
+  - title: EAGLE Force arrests 2 with 150 kg ganja worth Rs 75L in Suryapet
+    url: https://www.siasat.com/eagle-force-arrests-2-with-150-kg-ganja-worth-rs-75l-in-suryapet-3567662/
+    publisher: The Siasat Daily
+    date: 2026-10-31
+  - title: Two inter-State drug smugglers held with 150 kg ganja in Kodad
+    url: https://www.thehindu.com/news/national/telangana/two-inter-state-drug-smugglers-held-with-150-kg-ganja-in-kodad/article71649442.ece
+    publisher: The Hindu
+    date: 2026-10-31
+  - title: కోదాడలో రూ.75 లక్షల గంజాయి పట్టివేత.. హైవేపై ఈగల్ ఫోర్స్, పోలీసుల జాయింట్ ఆపరేషన్
+    url: https://www.v6velugu.com/large-quantity-of-ganja-seized-in-kodad
+    publisher: V6 Velugu
+    date: 2026-10-31
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -46,6 +64,9 @@ open_questions:
   - Police did not say where in Rajahmundry the consignment was loaded or who in Bengaluru was to receive it, saying they were investigating.
   - 'Left out, as its quotation was not found in Namasthe Telangana: Kodada town police took two people into custody at Durgapuram stage in Kodada on the evening of Saturday 31 October 2026.'
   - 'Left out, as its quotation was not found in Andhra Prabha: The two were being questioned, Andhra Prabha reported.'
+  - 'The reports disagree on the haul and route: the early Telugu accounts say 120 kg from Rajahmundry to Bengaluru, while The Hindu, Siasat and V6 Velugu say about 150 kg in 62 packets from Chitrakonda in Odisha to Karnataka; the report keeps 120 kg.'
+  - The early reports place the interception at Durgapuram stage; The Hindu and Siasat place it near Kakatiya Seva Samithi on Kodad Highway.
+  - The Hindu says both men are from Kollegala, while Siasat says Selva Surya is from Hanur taluk and Raja Gownder Murugan from Kollegala.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
@@ -60,6 +81,7 @@ said they had opened an investigation into where the ganja had been loaded and
 to whom it was to be supplied. [@3]
 
 The seizure was made inside Kodada town limits in Suryapet district in the state
-of Telangana. [@3] Kodada town police said full details of the case would be
+of Telangana. [@3,4] Kodada town police said full details of the case would be
 released after the investigation. [@3]
 
+Telangana's EAGLE Force and Kodad Town Police stopped a Honda City near Kakatiya Seva Samithi on Kodad Highway. [@4] The two were identified as Selva Surya, 26, and Raja Gownder Murugan, 42, both from Chamarajanagar district in Karnataka. [@5] The Hindu reported that police seized 62 packets containing about 150 kg of ganja, valued at ₹75 lakh. [@5] Preliminary inquiries indicated the two had bought the consignment from a man named Raju in Chitrakonda, Odisha, and were taking it to Karnataka. [@5] The intended receivers arranged the car and promised the two ₹20,000 for the delivery, according to investigators. [@5] Investigators identified Eshwar Gownder, 40, and Shivappa, both from Hanur in Chamarajanagar, as the alleged receivers. [@5] Kodad Town Police registered a First Information Report under the Narcotic Drugs and Psychotropic Substances Act and began investigating. [@6]
