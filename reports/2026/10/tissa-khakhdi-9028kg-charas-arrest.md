@@ -22,22 +22,45 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'Chamba News: तीसा में 9 किलो चरस के साथ एक युवक गिरफ्तार'
+    url: https://www.amarujala.com/himachal-pradesh/chamba/youth-arrested-in-tisa-with-9-kg-of-charas-chamba-news-c-88-1-ssml1004-201626-2026-10-31
+    publisher: Amar Ujala
+    date: 2026-10-31
+    language: hi
+  - title: हिमाचल में 9 किलो चरस के साथ युवक गिरफ्तार, STF की बड़ी कार्रवाई
+    url: https://www.etvbharat.com/hi/state/chamba-tisa-9-kg-charas-seized-kangra-stf-arrests-32-year-old-youth-ndps-case-drug-smuggling-network-hps26103102528
+    publisher: ETV Bharat
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article gives no calendar date for the checkpoint, only about 12:50 a.m.; 31 October 2026 is the publication date, so the stop was most likely in the early hours of that day.
   - Only one source could be opened.
   - The page photo is labelled a symbolic image from social media, not a picture of this seizure, so it is not included.
   - No court appearance or remand was reported.
   - The sentence naming the FIR is garbled in the published text, though it still names the STF North Range Kangra station and NDPS Act sections 20 and 25.
+  - ETV Bharat said Rakesh was due to be produced in court on 31 October, but the sources do not establish whether he appeared or was remanded.
+  - 'Left out, as its quotation was not found in ETV Bharat: Chamba Superintendent of Police Vijay Kumar Saklani said the suspect would be produced in court on 31 October and questioned if police remand was granted.'
+media:
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/chamba-tisa-9-kg-charas-seized-kangra-stf-arrests-32-year-old-youth-ndps-case-drug-smuggling-network-hps26103102528
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28002706-thumbnail-16x9-news.jpg
+    publisher: ETV Bharat
+    caption: 'ETV Bharat captioned this as the Tissa arrest of a youth with 9 kg of charas. Photo: Kangra STF.'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/chamba-tisa-9-kg-charas-seized-kangra-stf-arrests-32-year-old-youth-ndps-case-drug-smuggling-network-hps26103102528
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/28002706_thumb.jpg
+    publisher: ETV Bharat
+    caption: 'ETV Bharat captioned this as the 9 kg 28 g of charas seized in Tissa. Photo: Kangra STF.'
 ---
 
 Police arrested one young man, later named as 32-year-old Rakesh Kumar of Mandka
 village, during a checkpoint in Tissa in the Churah subdivision of Chamba
-district, Himachal Pradesh. [@1] Officers of the Special Task Force recovered 9
+district, Himachal Pradesh. [@1,2] Officers of the Special Task Force recovered 9
 kilograms 28 grams of charas, cannabis resin, from him at the stop. [@1] A
 search of his possession produced 9.028 kilograms of charas, the same quantity
-given in kilograms and grams. [@1]
+given in kilograms and grams. [@1,3]
 
-The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1]
+The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1,2]
 The checkpoint was on the link road to the Khakhdi dam site at Tissa. [@1]
 Assistant Sub-Inspector Paramesh Sharma, Tissa in-charge of STF North Range
 Kangra, led the action. [@1]
@@ -47,4 +70,3 @@ office Thalli, tehsil Churah, Chamba district. [@1] An FIR was registered
 against him at the STF North Range Kangra police station under sections 20 and
 25 of the NDPS Act. [@1] ASI Paramesh Sharma is conducting the further
 investigation. [@1]
-
