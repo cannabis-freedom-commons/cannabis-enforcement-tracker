@@ -28,6 +28,11 @@ media:
     media_url: https://indtoday.com/wp-content/uploads/2026/11/YT-Thumbnails-2026-11-01T151954.621.jpg
     publisher: IND Today
     caption: Police officers stand behind bundles of seized cannabis in front of a police vehicle; the page gives no photo credit.
+  - kind: photo
+    url: https://m.dailyhunt.in/news/india/telugu/andhrajyothy-epaper-jyothy/suryaapetalo+150+kilola+ganjaayi+pattiveta+iddari+arest-newsid-n732371195
+    media_url: https://assets-news-bcdn.dailyhunt.in/cmd/resize/600x338_75/fetchdata20/images/ce/fd/b7/cefdb71a6156c5f1326b6e959ebe62872845562f5435a617407c7570df91a0dc.webp
+    publisher: Andhra Jyothy, via Dailyhunt
+    caption: Close-up of bundled cannabis published as the lead image of the report on the Suryapet seizure; the page gives no photo credit.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84a8096d1d3579af6b716aef68cf7961
@@ -79,6 +84,11 @@ sources:
     url: https://assets.thehansindia.com/news/cities/nalgonda-suryapet/150-kg-of-bluru-bound-ganja-seized-1138275
     publisher: The Hans India
     date: 2026-11-02
+  - title: సూర్యాపేటలో 150 కిలోల గంజాయి పట్టివేత.. ఇద్దరి అరెస్ట్
+    url: https://m.dailyhunt.in/news/india/telugu/andhrajyothy-epaper-jyothy/suryaapetalo+150+kilola+ganjaayi+pattiveta+iddari+arest-newsid-n732371195
+    publisher: Andhra Jyothy, via Dailyhunt
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -97,6 +107,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Andhrajyothy: Police said preliminary inquiries showed the two were taking the cannabis by car from Rajahmundry to Bengaluru.'
   - IND Today and The Hans India put the haul at 150 kg, while the report's title and figures keep 120 kg from the earlier Telugu accounts.
   - The IND Today page gives no photo credit for its lead picture of officers and seized bundles, so its provenance is not documented.
+  - The Dailyhunt page is a syndicated copy of the Andhra Jyothy report already cited, so its 150 kg figure does not independently resolve the report's 120 kg versus 150 kg discrepancy or confirm the five-person account.
+  - The lead image on the Dailyhunt page has no photo credit, so its provenance is not documented.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
@@ -120,4 +132,4 @@ The seized ganja, vehicle and the two accused were handed over to Kodad Town Pol
 
 Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
 
-Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9] The gang had five members; two were arrested and three fled. [@8,9] Police seized two mobile phones and a car along with the ganja. [@8,10] Police said they were searching for the suspects who had fled. [@8,10]
+Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9,11] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9,11] The gang had five members; two were arrested and three fled. [@8,9,11] Police seized two mobile phones and a car along with the ganja. [@8,10,11] Police said they were searching for the suspects who had fled. [@8,10,11]
