@@ -85,3 +85,5 @@ of Telangana. [@3,4] Kodada town police said full details of the case would be
 released after the investigation. [@3]
 
 Telangana's EAGLE Force and Kodad Town Police stopped a Honda City near Kakatiya Seva Samithi on Kodad Highway. [@4] The two were identified as Selva Surya, 26, and Raja Gownder Murugan, 42, both from Chamarajanagar district in Karnataka. [@5] The Hindu reported that police seized 62 packets containing about 150 kg of ganja, valued at ₹75 lakh. [@5] Preliminary inquiries indicated the two had bought the consignment from a man named Raju in Chitrakonda, Odisha, and were taking it to Karnataka. [@5] The intended receivers arranged the car and promised the two ₹20,000 for the delivery, according to investigators. [@5] Investigators identified Eshwar Gownder, 40, and Shivappa, both from Hanur in Chamarajanagar, as the alleged receivers. [@5] Kodad Town Police registered a First Information Report under the Narcotic Drugs and Psychotropic Substances Act and began investigating. [@6]
+
+The seized ganja, vehicle and the two accused were handed over to Kodad Town Police for further legal action. [@5]
