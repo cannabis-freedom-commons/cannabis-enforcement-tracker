@@ -58,6 +58,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-30
     language: hi
+  - title: ट्रक से 105 किलो तो कार के गेट से 16 किलो गांजा बरामद, 2 तस्कर गिरफ्तार
+    url: https://www.bhaskar.com/amp/local/bihar/gaya/dobhi/news/105-kg-of-marijuana-recovered-from-truck-16-kg-from-car-gate-2-smugglers-arrested-dbp-139542729.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Neither report names the charges filed or a court date; both say only that the two men were sent to judicial custody.
   - No estimated value was given for the 16.06 kg of ganja.
@@ -76,7 +81,7 @@ Kumar, a resident of Rirudih village in the Harla police station area of Bokaro
 district, Jharkhand. [@2,3]
 
 A search found 16.06 kg of ganja (cannabis) in 44 packets hidden inside the door
-panels of all four doors. [@1,3,4] Police seized the car and other evidence. [@2,3,4]
+panels of all four doors. [@1,3,4,5] Police seized the car and other evidence. [@2,3,4]
 The seizure list for the ganja was prepared in the presence of the local revenue
 officer for Dobhi. [@1] Both men were sent to judicial custody. [@1]
 
