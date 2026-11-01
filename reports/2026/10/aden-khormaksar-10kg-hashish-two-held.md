@@ -63,6 +63,11 @@ sources:
     publisher: منبر عدن
     date: 2026-11-01
     language: ar
+  - title: إشادة مجتمعية واسعة بجهود مكافحة المخدرات في عدن عقب ضبط 10.5 كيلوغرام من الحشيش
+    url: https://manbaraden.com/posts/50721
+    publisher: منبر عدن
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The exact day of the detention is not stated; 26 October 2026 is the date the police account was published, and Aden Al-Ghad reported the praise on 31 October.
   - The two detained people are not named, and their ages and nationalities are not given.
@@ -77,6 +82,9 @@ open_questions:
   - The Manbar Aden page shows no publication date in its text; 1 November 2026 is taken from its page metadata.
   - Sama Al-Watan's 26 October report carries the same police account and is not independent corroboration.
   - The photograph on the Manbar Aden page appears to be the same police handout of the colonel and nine bags already listed from Aden Al-Ghad, so it was not added again.
+  - Manbar Aden's page is a verbatim copy of Aden Al-Ghad's 31 October 2026 story already cited in the report and duplicates the AMP version also cited there, so it adds no independent corroboration.
+  - The report dates its Manbar Aden (AMP) source 1 November 2026 from page metadata, while this page gives Saturday 31 October 2026, 4:39 pm.
+  - Manbar Aden marks the story 'خاص' (its own) although the text matches Aden Al-Ghad's report.
 ---
 
 Aden's anti-narcotics police detained two people in Khormaksar district with
@@ -93,8 +101,8 @@ organised smuggling, promotion and distribution in Aden. [@2]
 Aden Al-Ghad reported wide public praise for the department and its director
 after the seizure. [@1,4,6] It reported that citizens and activists thanked the
 force for pursuing people involved in drug trafficking and for countering
-attempts to promote and circulate drugs. [@1,4,6,8] They said drug control was a
+attempts to promote and circulate drugs. [@1,4,6,8,9] They said drug control was a
 shared responsibility and called for continued security campaigns and closer
-monitoring to catch those involved and bring them to justice. [@1] They also
+monitoring to catch those involved and bring them to justice. [@1,9] They also
 urged support for the anti-narcotics officers' field work, saying it protects
 society and its security. [@1]
