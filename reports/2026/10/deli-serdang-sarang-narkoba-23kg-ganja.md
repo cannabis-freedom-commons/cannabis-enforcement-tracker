@@ -51,6 +51,11 @@ media:
     media_url: https://tekape.co/wp-content/uploads/2026/10/Polresta-Deli-Serdang-1536x1152.jpg
     publisher: Tekape.co
     caption: 'Deli Serdang police chief Kombes Pol Muhammad and officers display the drugs seized in the five October cases at a press conference on 30 October 2026. Photo: Abednego Manalu / Tekape.co'
+  - kind: photo
+    url: https://sumutpos.jawapos.com/hukum-kriminal/2611010017/57-tersangka-narkoba-ditangkap-di-deliserdang-polisi-sita-23-kg-sabu-dan-23-kg-ganja
+    media_url: https://cdn-jjmn.jawapos.com/images/15/2026/11/01/kapolresta-deliserdang-kombes-muhammad-chaniago-wakapolresta-akbp-juliani-prihartini-kasat-reserse-narkoba-kompol-dr-fery-kusnadi-sh-dan-lainnya-saat-memperlihatkan-barang-bukti-dan-tersangkabatarasumut-pos-5G0Kh.webp
+    publisher: Sumut Pos
+    caption: 'Deli Serdang police chief Kombes Muhammad Chaniago, deputy chief AKBP Juliani Prihartini, narcotics unit head Kompol Fery Kusnadi and other officers display the seized drugs and suspects at a press conference. Photo: Batara / Sumut Pos'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -116,6 +121,11 @@ sources:
     publisher: Tekape.co
     date: 2026-10-31
     language: id
+  - title: 57 Tersangka Narkoba Ditangkap di Deliserdang, Polisi Sita 23 Kg Sabu dan 23 Kg Ganja
+    url: https://sumutpos.jawapos.com/hukum-kriminal/2611010017/57-tersangka-narkoba-ditangkap-di-deliserdang-polisi-sita-23-kg-sabu-dan-23-kg-ganja
+    publisher: Sumut Pos
+    date: 2026-11-01
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -141,7 +151,7 @@ open_questions:
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -149,7 +159,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -166,3 +176,5 @@ Police put the total value of the drugs seized in the operation, including the g
 Muhammad said the operation was intended to narrow the space for drug offenders and to deter bandar and pengedar operating in Deli Serdang and nearby areas. [@11]
 
 The first case was at Jalan Rebab Pasar II in Medan Baru on the evening of 28 October 2026. [@12] Police suspect the first lot of ganja came from a man known as FH, who is now on the wanted list in the Simalingkar area. [@12] Police suspect the ganja was sent by a man known as SL from Padangsidimpuan for sale in Medan. [@12] The second case was an Aceh–Tangerang methamphetamine network, with the arrest on the Banda Aceh–Medan road at Besitang, Langkat, on 25 October 2026. [@12] According to the suspect's account, the drugs were being carried with a wanted man known as MR.X from Idi Rayeuk in East Aceh to Tangerang, on the orders of a network identified as HN and R, for Rp150 million. [@12]
+
+One of the 57 suspects was a Malaysian national, police said. [@13]
