@@ -87,6 +87,16 @@ sources:
     publisher: Yeni Journal
     date: 2026-10-30
     language: tr
+  - title: Malatya’da 2 kilo esrar ele geçirildi
+    url: https://www.karshakimiyet.com/malatyada-2-kilo-esrar-ele-gecirildi-121908h.htm
+    publisher: Kars Hakimiyet
+    date: 2026-10-30
+    language: tr
+  - title: Malatya’da 2 kilo esrar ele geçirildi
+    url: https://www.iha.com.tr/malatya-haberleri/malatyada-2-kilo-esrar-ele-gecirildi-508682047
+    publisher: İhlas Haber Ajansı
+    date: 2026-10-30
+    language: tr
 open_questions:
   - The reports give no separate date for the searches; 30 October 2026 is the date the first accounts were published, so the operation happened on or before that evening.
   - No suspect name, age, district or neighbourhood within Malatya, charge, court date or estimated value for the drugs was published.
@@ -96,6 +106,7 @@ open_questions:
   - Gazete Pano does not state a separate date for the searches; its publication date is 30 October 2026.
   - The featured image is labelled only “malatya” and is not confirmed to show this seizure.
   - The added account is a Marmaris Yeni Sayfa reprint credited to İhlas Haber Ajansı, not independent reporting.
+  - The Kars Hakimiyet page's only image is reused as the thumbnail for unrelated stories on the same site, so it could not be confirmed to show this seizure and no media entry was added.
 media:
   - kind: photo
     url: https://www.aksiyon.com.tr/malatya-da-sokak-saticilarina-yonelik-baskinda-2-kilo-50-gram-esrar-ve-ruhsatsiz-tufek-bulundu-385109
@@ -105,14 +116,14 @@ media:
 ---
 
 Police in Malatya detained a suspected street-level cannabis dealer after
-searching his person and his address. [@1,5,6,7,9,10,11,12,13,14] The searches turned up 2 kg 50 g of
-esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14] The suspect
+searching his person and his address. [@1,5,6,7,9,10,11,12,13,14,15] The searches turned up 2 kg 50 g of
+esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16] The suspect
 was taken into custody and his processing at the police station was continuing.
 [@2,5,8,11]
 
 The Malatya provincial police directorate said in a statement that its Narkotik
 Suçlarla Mücadele Şube Müdürlüğü — the narcotics branch — had searched the man
-after physical and technical surveillance of street sellers. [@2,4,5,6,8,9,13] The statement
+after physical and technical surveillance of street sellers. [@2,4,5,6,8,9,13,16] The statement
 put the seizure at 2 kg 50 g of cannabis and one unlicensed rifle. [@2,4] Malatya
 Haber, a local news site, reported that police had confiscated the cannabis and
 the rifle. [@3]
