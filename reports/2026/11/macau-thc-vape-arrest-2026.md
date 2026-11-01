@@ -20,6 +20,11 @@ media:
     media_url: https://newsstatic.rthk.hk/images/mfile_1876124_1_L_20261101140058.jpg
     publisher: RTHK
     caption: 'Judiciary Police officers take the Hong Kong man suspected of selling THC e-cigarettes to the Public Prosecutions Office on the morning of 1 November 2026. Photo: Cheng Yuet-ming (鄭月明), RTHK'
+  - kind: photo
+    url: https://taichungdaily.com/instantNews/44140
+    media_url: https://backend.taichungdaily.com/uploads/202611/Asr63rGCIDMoqTsz7UJb_1793511095.jpg
+    publisher: 大衆報 (Tai Chung Pou)
+    caption: 'E-cigarettes seized in the case, laid out in evidence bags on a green cloth with a Judiciary Police Narcotics Crime Investigation Division sign. Photo: no credit given on the page.'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: bdd656949ffe2b83398c054fca2d07ae
@@ -35,11 +40,30 @@ sources:
     publisher: RTHK
     date: 2026-11-01
     language: zh
+  - title: 港男來澳販賣毒電子煙斷正
+    url: https://taichungdaily.com/instantNews/44140
+    publisher: 大衆報 (Tai Chung Pou)
+    date: 2026-11-01
+    language: zh
+  - title: 港漢到澳門販賣毒煙被捕　檢6支電子煙驗出含四氫大麻酚
+    url: https://hk.on.cc/hk/bkn/cnt/news/20261101/bkn-20261101171905322-1101_00822_001.html
+    publisher: on.cc 東網
+    date: 2026-11-01
+    language: zh
+  - title: 35歲港男外勞涉販賣毒品電子煙被捕
+    url: https://www.click2macao.com/2026/11/02/35bu/
+    publisher: 澳門捷報
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
   - No charge, court appearance or sentence was reported.
   - The MOP8,000 figure is the Judiciary Police's own estimate of the vapes' value.
+  - Macau accounts put the six vapes' black-market value at about MOP8,400, while the Hong Kong reports behind this report said about MOP8,000; the report keeps MOP8,000.
+  - The 155.2 grams is the weight police gave for the six e-cigarettes, without separating the oil from the devices.
+  - Police said the four used devices found at his home were still being tested, and the reports do not say what that testing found.
+  - The earlier reports gave no arrest date; this account dates the interception to 30 October 2026, two days before he was taken to the Public Prosecutions Office.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
@@ -47,12 +71,12 @@ electrician in the city, suspecting him of smuggling THC e-cigarettes in from
 Hong Kong to sell. [@2] Acting on intelligence, officers stopped him in the
 central district (中區) and found six e-cigarettes filled with drug oil on him,
 which police put at about MOP8,000. [@2] A search of his home found four more
-e-cigarette devices that had already been used. [@2]
+e-cigarette devices that had already been used. [@2,3]
 
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
-and his urine test for drugs was positive. [@2] Police believe he used the vapes
+and his urine test for drugs was positive. [@2,3] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
-three people at MOP1,400 each. [@2] He was taken to the Public Prosecutions
+three people at MOP1,400 each. [@2,3] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
 consumption, possession and trafficking of narcotic and psychotropic substances.
 [@1]
@@ -64,3 +88,4 @@ liability. [@2] Police said they were still tracing other people involved and
 would share intelligence and enforcement cooperation with neighbouring forces
 against cross-border drug trafficking. [@2]
 
+The interception took place at about 1 pm on 30 October 2026. [@3] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3] He held a blue card, the identity document Macau issues to non-resident workers. [@3] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
