@@ -51,6 +51,10 @@ sources:
     publisher: Oneindia Tamil
     date: 2026-10-31
     language: ta
+  - title: Cops raid farmhouse pool party of university students, book 3 for ganja abuse
+    url: https://timesofindia.indiatimes.com/city/hyderabad/cops-raid-farmhouse-pool-party-of-university-students-book-3-for-ganja-abuse/articleshow/135373050.cms
+    publisher: The Times of India
+    date: 2026-10-30
 open_questions:
   - The reports say the 108 students were caught and that a case was registered, but they do not name anyone or say how many were formally arrested, charged or later produced in court.
   - No separate figure was given for how much liquor was seized, only that students were consuming it without permission.
@@ -67,6 +71,11 @@ open_questions:
   - The Tamil Oneindia account says three students, including the organiser, tested positive for ganja, while the report's text records four positives from the Siasat and Hindu accounts.
   - The Tamil Oneindia page gives no photographer or agency credit for its two photographs, which appear to match the Siasat picture set already used for this raid, so no separate media entry was added.
   - 'Left out, as its quotation was not found in Oneindia Tamil: Chevella Police Station Inspector Narendra Reddy said a case had been registered in connection with the incident and that a detailed investigation was under way.'
+  - The Times of India reports that police seized 50 grams of ganja from the organiser, while the report's existing accounts give 15 grams; the two figures have not been reconciled.
+  - The Times of India says three students tested positive and were booked, while the report's text records four positive tests; it is unclear whether the fourth student was not booked or the counts differ.
+  - The Times of India places the raid around 2 pm on Friday, while The Hindu describes it as Friday night.
+  - The Times of India says the organiser shared the venue details on Friday morning, while the report's earlier account says he sent the location at the last minute.
+  - The Times of India's only image on the page is captioned with the headline and carries no credit, so no photo of the raid was added from it.
 ---
 
 On Friday, 30 October 2026, police and the Special Operations Team raided LG
@@ -74,7 +83,7 @@ Farmhouse at Kammeta village, under Chevella police station limits on the
 outskirts of Hyderabad, after what police called credible information. [@1,4]
 Officers found 108 students from ICFAI and IBS colleges consuming liquor without
 the permissions required for the gathering. [@1,5] Of those caught at the
-farmhouse, 71 were boys and 37 were girls. [@1,5,6] Telangana excise rules require
+farmhouse, 71 were boys and 37 were girls. [@1,2,5,6] Telangana excise rules require
 permission before liquor is served at a private event, including a party at a
 farmhouse, and a breach can be acted on under those laws. [@2]
 
@@ -95,4 +104,6 @@ The organiser, Mannan, was taken into custody, and police said they were investi
 
 Police said they would act against drugs, unauthorised parties and other unusual activity at farmhouses. [@5]
 
-Police registered the case under the Narcotic Drugs and Psychotropic Substances Act and the Excise Act. [@6] Police said the students who tested positive for ganja were instructed to join a treatment and counselling programme for de-addiction. [@6]
+Police registered the case under the Narcotic Drugs and Psychotropic Substances Act and the Excise Act. [@6,7] Police said the students who tested positive for ganja were instructed to join a treatment and counselling programme for de-addiction. [@6,7]
+
+Police raided the farmhouse around 2 pm on Friday after a tip-off about an unauthorised pool party, inspector K Narender Reddy said. [@7] Three students, including the organiser, were booked in the case. [@7] The organiser was a 24-year-old undergraduate. [@7]
