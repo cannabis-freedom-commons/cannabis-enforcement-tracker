@@ -37,6 +37,11 @@ sources:
     publisher: القاهرة 24
     date: 2026-10-31
     language: ar
+  - title: سقوط مروجي مخدرات بالدراجة النارية في السويس.. ضبط الاستروكس والحشيش
+    url: https://www.algomhor.com/504901
+    publisher: الجمهور الإخباري
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The reports give no separate date for the arrests; 31 October 2026, the day the accounts were published, is used as the incident date.
   - No weight or value was given for the strox or hashish seized.
@@ -45,6 +50,7 @@ open_questions:
   - The reports say only that the arrests took place in a street in Suez governorate, without naming the street.
   - Other outlets published photos captioned "the accused" from the same statement; they could not be confirmed as distinct from the Masrawy photo, so only one is listed.
   - 'Left out, as its quotation was not found in مصراوي: When questioned, the two admitted committing the offence and said they held the drugs for trafficking, according to the ministry.'
+  - Masrawy's page now carries the admission that the two men held the drugs for trafficking, so the report's open question saying that quotation was not found there is out of date.
 ---
 
 Egypt's Interior Ministry said its security services arrested two people accused
@@ -53,13 +59,14 @@ after a video documenting the incident circulated on social media. [@1] The
 video showed the pair on the motorcycle promoting drugs in one of the city's
 streets. [@2] The ministry said officers established the circumstances of the
 footage after it circulated online. [@3] Police said both had criminal records
-and lived in the Arba'een police station district. [@1]
+and lived in the Arba'een police station district. [@1,4]
 
 Officers identified the two people shown in the video and arrested them, the
 ministry said. [@3] The motorcycle used in the incident, which had no licence
 plates, was found with them, along with a quantity of the drugs strox and
-hashish. [@1]
+hashish. [@1,4]
 
 Police held the motorcycle and took the required legal measures, the ministry
-said. [@2]
+said. [@2,4]
 
+When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said. [@4]
