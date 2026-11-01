@@ -61,6 +61,11 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-10-30
     language: hi
+  - title: 'दिल्ली IGI एयरपोर्ट पर नशा तस्करी का पर्दाफाश: 9.33 करोड़ रुपये की हाइड्रोपोनिक गांजा के साथ 2 यात्री गिरफ्तार'
+    url: https://www.haribhoomi.com/state-local/delhi/news/delhi-indira-gandhi-international-airport-worth-rs-9-33-crore-seized-2-passengers-arrest-120040
+    publisher: Haribhoomi
+    date: 2026-10-31
+    language: hi
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -75,6 +80,7 @@ open_questions:
   - The only image is labelled with a filename and has no caption identifying it as this seizure, so it was not added as media.
   - The wording matches the same official-statement account already cited and does not independently settle the existing discrepancy over one flight versus two separate flights.
   - The Bhasha feed says the passengers arrived on separate flights, while Delhi Customs names Flight AI2335; the discrepancy remains unresolved.
+  - 'Left out, as its quotation was not found in Lokmat Times: The two passengers were arrested on 28 October under Section 43(b) of the Narcotic Drugs and Psychotropic Substances Act, 1985.'
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
@@ -85,7 +91,7 @@ media:
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9] The seizure was made at Terminal 3. [@3,8] Both were diverted from the Green
+[@1,4,5,6,7,8,9,10] The seizure was made at Terminal 3. [@3,8] Both were diverted from the Green
 Channel for X-ray screening after profiling. [@3] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
 Psychotropic Substances Act, 1985. [@1,3,4,5,6,7] The substance was seized under Section
