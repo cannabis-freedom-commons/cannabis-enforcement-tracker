@@ -48,6 +48,15 @@ sources:
     publisher: KaliningradToday
     date: 2026-10-30
     language: ru
+  - title: В Калининградской области накрыли наркошоп, через который прошло около 10 тысяч сделок
+    url: https://max.ru/Klops/AaGL7iqqdSc
+    publisher: Клопс Новости Калининград
+    language: ru
+  - title: В Калининградской области пресекли деятельность наркошопа с 10 тыс. сделок
+    url: https://www.newkaliningrad.ru/news/briefs/incidents/24168469-v-kaliningradskoy-oblasti-presekli-deyatelnost-narkoshopa-s-10-tys-sdelok.html
+    publisher: Новый Калининград.Ru
+    date: 2026-10-30
+    language: ru
 open_questions:
   - The reports give no separate date for the arrests; 29 October 2026 is the date of the Kaliningrad police statement and 30 October that of the news report.
   - No weight or street value was given for the hashish, cannabis or amphetamine seized, and no total is given for the drugs sold.
@@ -64,20 +73,20 @@ Kaliningrad region's drug-control police, with colleagues from the Moscow and
 Leningrad regions and Rosgvardia's SOBR and OMON units, broke up an organised
 group selling drugs through an online shop, the regional interior ministry said.
 [@2] Ten people were detained in three regions. [@1] Police said the arrest
-operations ran simultaneously in the three regions. [@1,3,4] The organiser and an
-accomplice were taken to Kaliningrad, where they gave confessions. [@1,3,4]
+operations ran simultaneously in the three regions. [@1,3,4,5] The organiser and an
+accomplice were taken to Kaliningrad, where they gave confessions. [@1,3,4,6]
 
 The organiser lived in Leningrad region and coordinated the shop, while his
-brother in Sovetsk administered the website. [@1,3] An accomplice from the Moscow
+brother in Sovetsk administered the website. [@1,3,5] An accomplice from the Moscow
 region bought wholesale batches, and another member, from Nemansky district,
-grew cannabis and made marijuana from it. [@1,3] Couriers placed the finished
-goods in hiding places, known in Russia as zakladki, for contactless sales. [@1,3]
+grew cannabis and made marijuana from it. [@1,3,6] Couriers placed the finished
+goods in hiding places, known in Russia as zakladki, for contactless sales. [@1,3,6]
 Police say the group sold marijuana, hashish, mephedrone, alpha-PVP, methadone
-and LSD in the Kaliningrad and Moscow regions. [@1,4]
+and LSD in the Kaliningrad and Moscow regions. [@1,4,5]
 
 The shop handled about 10,000 drug sales, according to preliminary police
-figures. [@1] Searches of the detainees' homes found three cannabis bushes, 21
-stashes containing hashish, and cannabis. [@1,3] Officers also found caches
+figures. [@1,6] Searches of the detainees' homes found three cannabis bushes, 21
+stashes containing hashish, and cannabis. [@1,3,6] Officers also found caches
 holding packages of amphetamine and hashish. [@1,3] Criminal cases were opened
 under article 228.1 of Russia's Criminal Code, which covers drug trafficking.
 [@1,3]
