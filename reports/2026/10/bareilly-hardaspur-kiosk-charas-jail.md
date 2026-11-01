@@ -52,6 +52,15 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-30
     language: hi
+  - title: 'Bareilly News: चौकी के सामने बिक रही थी चरस, सीओ के छापे में खुली पोल'
+    url: https://www.amritvichar.com/uttar-pradesh/bareilly/charas-was-being-sold-in-front-of-the-police-post/article-597641
+    publisher: Amrit Vichar
+    date: 2026-10-30
+    language: hi
+  - title: हरदासपुर चौकी के सामने खोखे पर चरस मिली:सीओ मीरगंज ने छापा मारा; करीब 100 ग्राम चरस और अवैध शराब जब्त, खोखा संचालक फरार
+    url: https://www.bhaskar.com/local/uttar-pradesh/bareilly/ramnagar/news/mirganj-co-raid-hardaspur-charas-illegal-liquor-seized-139529861.html
+    publisher: Dainik Bhaskar
+    language: hi
 open_questions:
   - Dainik Bhaskar gave the charas weight as 95 g in one report and about 100 g in others; this report uses about 100 g.
   - Hindustan named the father Ganga Singh, while Dainik Bhaskar named him Ganga Sahay.
@@ -61,18 +70,25 @@ open_questions:
   - The submitted page's only image is a generic Uttar Pradesh map graphic, not a photograph of the raid, so no media entry is included.
   - Hindustan reports villagers complaining that local police were not paying attention, while the report, following Dainik Bhaskar, says villagers alleged the trade ran with police support.
   - The Aonla page is truncated by a paywall after the lead, so names, the kiosk, liquor and the court appearance cannot be checked in this copy.
+  - Amrit Vichar gives the charas as more than 100 g, while the report uses about 100 g.
+media:
+  - kind: photo
+    url: https://www.amritvichar.com/uttar-pradesh/bareilly/charas-was-being-sold-in-front-of-the-police-post/article-597641
+    media_url: https://www.amritvichar.com/media-webp/1200/2026-10/untitled-design-(3)11.png
+    publisher: Amrit Vichar
+    caption: Police officers and two detained men at the tea kiosk outside the Hardaspur police outpost, with seized items on a table in front.
 ---
 
 The Meerganj Circle Officer (CO), a sub-district police officer, raided a
 roadside kiosk outside the Hardaspur police outpost in Sirauli police station
-area, Bareilly district, on the evening of Thursday 29 October 2026. [@1,6] Police
+area, Bareilly district, on the evening of Thursday 29 October 2026. [@1,6,8] Police
 detained two people at the kiosk and said action was being taken against them.
 [@2] Officers seized about 100 grams (0.1 kg) of charas, a hand-made cannabis
-resin, and some illegal liquor. [@3] The two were identified as Chandrapal, who
+resin, and some illegal liquor. [@3,9] The two were identified as Chandrapal, who
 ran the kiosk, and his father. [@4,6]
 
-The kiosk stood a few steps from the Hardaspur police check post. [@5,6] Charas,
-illegal liquor and other intoxicants had been sold there for a long time. [@1]
+The kiosk stood a few steps from the Hardaspur police check post. [@5,6,9] Charas,
+illegal liquor and other intoxicants had been sold there for a long time. [@1,8]
 Villagers alleged the trade ran with the local police's support. [@3] Police
 also seized an electronic scale and ₹2,500 in cash. [@5,7]
 
