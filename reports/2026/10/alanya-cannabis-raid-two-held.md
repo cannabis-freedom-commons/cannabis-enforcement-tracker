@@ -49,6 +49,11 @@ sources:
     publisher: Gazete Alanya
     date: 2026-10-31
     language: tr
+  - title: 'Antalya''da uyuşturucu operasyonu: 2 tutuklama'
+    url: https://www.antalyahakkinda.com/antalyada-uyusturucu-operasyonu-2-tutuklama-1
+    publisher: Antalya Hakkında
+    date: 2026-10-31
+    language: tr
 open_questions:
   - Neither account gives a separate date for the searches or the court appearance; 30 October 2026 is the publication date of both reports.
   - The sources count 25 pots of cannabis plants rather than individual plants, so the number of plants may be higher.
@@ -59,10 +64,11 @@ open_questions:
   - The İHA page carries only the agency's default placeholder image rather than a photo of the operation, so no media entry was added from it.
   - Gazete Alanya's summary describes the two raids as simultaneous, while its text recounts a first and then a second address; the existing report's 'two searches' wording is kept.
   - The page's lead image is a file from the outlet's July 2024 uploads showing a cannabis leaf held in a hand; it is not a photograph of the raids, so no media entry was added from it.
+  - The submitted account is dated 31 October 2026, a day after the İHA account; neither date establishes when the raids or court appearance occurred.
 ---
 
 Police detained five people in two searches in Alanya, a district of Antalya
-province, and a court ordered two of them held in pre-trial detention. [@1,4,5] The
+province, and a court ordered two of them held in pre-trial detention. [@1,4,5,6] The
 first search targeted a hotel staff residence — a lojman, housing provided by an
 employer — in the Saray neighbourhood, where officers found 46 grams of esrar,
 the cannabis preparation known in Turkey. [@1,3,4,5] They detained M.A. (22), E.Y.
