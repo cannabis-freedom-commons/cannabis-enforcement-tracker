@@ -476,5 +476,39 @@
       "https://fr.apanews.net/governance/senegal-10-kg-de-haschich-saisis-au-port-de-dakar/",
       "https://photon.komoot.io/api/?q=Port%20Autonome%20de%20Dakar&limit=3"
     ]
+  },
+  {
+    "file": "reports/2026/09/mauritania-pk55-26kg-cannabis-resin.md",
+    "country": "mr",
+    "place": "PK55 border post, Dakhlet Nouadhibou",
+    "coordinates": [
+      21.3635,
+      -16.96001
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The pin is the PK55 border post on the Nouadhibou to Guerguerat crossing, taken from the logistics reference for the post. Natural Earth's simplified border places the point inside Western Sahara; the gendarmes' checks take place at this Mauritanian post.",
+    "evidence": [
+      "https://fr.saharamedias.net/la-gendarmerie-de-nouadhibou-fait-echec-a-une-tentative-dintroduction-de-cannabis-dans-le-pays/",
+      "https://lca.logcluster.org/231-mauritanie-poste-frontalier-de-pk-55"
+    ]
+  },
+  {
+    "file": "reports/2026/10/hong-kong-airport-3kg-cannabis-buds.md",
+    "country": "hk",
+    "place": "Hong Kong International Airport, Chek Lap Kok",
+    "coordinates": [
+      22.3126,
+      113.9173
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The pin is the airport reference point from OpenStreetMap. The passenger terminal stands on reclaimed land at Chek Lap Kok, which Natural Earth's simplified land polygon does not include, so the point audits as outside land.",
+    "evidence": [
+      "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5729.html?p=1",
+      "https://nominatim.openstreetmap.org/search?q=Hong+Kong+International+Airport&format=jsonv2&limit=3"
+    ]
   }
 ]
