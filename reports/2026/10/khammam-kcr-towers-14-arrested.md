@@ -47,6 +47,11 @@ sources:
     url: https://www.thehansindia.com/news/cities/khammam/khammam-police-conduct-massive-crackdown-in-tekulapalli-286-personnel-take-part-in-community-policing-drive-1137786
     publisher: The Hans India
     date: 2026-10-31
+  - title: 'Khammam: ఖమ్మం కేసీఆర్ టవర్స్‌లో పోలీసుల ఆకస్మిక తనిఖీలు..14 మంది అరెస్ట్!'
+    url: https://www.hmtvlive.com/telugu-news/khammam/khammam-cp-sunil-dutt-leads-raid-14-arrested-for-ganja-67-seized-207090
+    publisher: HMTV
+    date: 2026-10-31
+    language: te
 open_questions:
   - CK News reported 14 arrests in its headline, but its text and Kalam Daily say the two sellers and 12 consumers were identified; no charges or court appearance were reported.
   - Kalam Daily put the deployment at 286 police officers; Eenadu reported about 300.
@@ -69,8 +74,8 @@ from the CAR force, task force, special branch, central crime station, eagle
 force and clues team. [@2] It reported that about 300 police took part. [@3]
 
 Police identified two men accused of selling ganja and 12 people smoking it, and
-seized 50 grams of dried ganja. [@1,5] CK News reported that 14 people were
-arrested. [@1] Officers also took away 62 motorcycles and five autorickshaws
+seized 50 grams of dried ganja. [@1,2,5] CK News reported that 14 people were
+arrested. [@1,6] Officers also took away 62 motorcycles and five autorickshaws
 without proper documents. [@1] They recorded the fingerprints of 105 people.
 [@1,4] CK News said three theft accused and two suspects were also identified.
 [@1] Eenadu reported that ganja and liquor bottles were found with some of the
