@@ -38,6 +38,16 @@ sources:
     publisher: G1
     date: 2026-10-30
     language: pt
+  - title: Passageiro é preso com 24 kg de skunk em ônibus na BR-230, em Altamira
+    url: https://avozdoxingu.com.br/passageiro-e-preso-com-24-kg-de-skunk-em-onibus-na-br-230-em-altamira/
+    publisher: A Voz do Xingu
+    date: 2026-10-31
+    language: pt
+  - title: PRF apreende 24 kg de skunk em ônibus na BR-230 em Altamira/PA
+    url: https://www.gov.br/prf/pt-br/noticias/estaduais/para/prf-apreende-24-kg-de-skunk-em-onibus-na-br-230-em-altamira-pa
+    publisher: Polícia Rodoviária Federal (PRF)
+    date: 2026-10-30
+    language: pt
 open_questions:
   - Only one news report could be opened; the PRF’s own statement was not found.
   - The article says “this Friday (30)” and was published on 31 October 2026, so the incident date is read as 30 October 2026.
@@ -50,27 +60,28 @@ open_questions:
   - O Liberal does not say the case remains under investigation.
   - G1, like O Liberal, calls the load a substance similar to skunk, gives a preliminary weight of about 24.4 kg, and says the passenger would receive 5,000 reais to carry it from Santarém to Marabá, rather than that he had already been paid to take skunk to Marabá.
   - G1 says officers smelled narcotics in a suitcase in the luggage hold, not a strong smell of a chemical product, and it does not say the case remains under investigation.
+  - A Voz do Xingu's article repeats O Liberal's text almost word for word, so it is not an independent account.
 ---
 
 Federal Highway Police (Polícia Rodoviária Federal, PRF) arrested a 19-year-old
 on the morning of Friday the 30th after catching him transporting 24.4 kilograms
 of skunk on a bus on the Trans-Amazonian Highway (BR-230), in the municipality
-of Altamira, in southwestern Pará. [@1,2] The drug was divided into 23 tablets and
-was found during a PRF inspection. [@1,2,3]
+of Altamira, in southwestern Pará. [@1,2,4] The drug was divided into 23 tablets and
+was found during a PRF inspection. [@1,2,3,5]
 
 According to the PRF, the stop took place at about 6 a.m. at kilometre 646 of
-the highway. [@1,2,3] Officers were checking a bus travelling from Santarém to
+the highway. [@1,2,3,5] Officers were checking a bus travelling from Santarém to
 Marabá when they noticed a strong smell of a chemical product coming from a
 suitcase stored in the luggage compartment. [@1]
 
 During the search, police found eight skunk tablets inside the suitcase, while
 another 15 were in a backpack with the suspect, who is from Manaus, in Amazonas.
-[@1,2] The agents questioned him about the seized material and he confessed that
+[@1,2,5] The agents questioned him about the seized material and he confessed that
 he had been paid 5,000 reais to transport the drug to the municipality of
 Marabá. [@1,2]
 
 After the seizure, the passenger was taken, together with the drug, to the Civil
-Police station in Altamira, where legal procedures were carried out. [@1,2,3] The
+Police station in Altamira, where legal procedures were carried out. [@1,2,3,4] The
 case remains under investigation. [@1]
 
-The substance is popularly known as 'supermaconha' because it is modified in a laboratory. [@2]
+The substance is popularly known as 'supermaconha' because it is modified in a laboratory. [@2,4]
