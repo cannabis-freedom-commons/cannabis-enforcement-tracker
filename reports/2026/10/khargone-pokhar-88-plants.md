@@ -32,6 +32,16 @@ sources:
     publisher: Nai Dunia
     date: 2026-10-31
     language: hi
+  - title: कपास के सफेद फूलों के बीच लहलहा रहे थे गांजे के हरे-हरे पौधे, खरगोन पुलिस तक पहुंच गई खबर
+    url: https://www.patrika.com/khargone-news/illegal-ganja-farming-88-plants-102-kg-seized-21020873
+    publisher: Patrika News
+    date: 2026-10-31
+    language: hi
+  - title: कपास की खेती के बीच गांजे के 88 पौधे:खरगोन में 102 किलो माल जब्त, आरोपी गिरफ्तार
+    url: https://www.bhaskar.com/local/mp/khargone/news/khargone-police-seize-ganja-plants-arrest-farmer-balakwada-139547842.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Amar Ujala dates the informer's tip to 30 October but gives no separate date for the raid; Dainik Bhaskar says the field was raided on Saturday, 31 October.
   - No area was given for the field, and no report says whether the uprooted plants were later destroyed.
@@ -41,19 +51,27 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The raid took place on Saturday 31 October 2026 in the Balkwara police station area.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Additional Superintendent of Police Shakuntala Ruhal said the team surrounded the field before moving in.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said Mohan was on remand and being questioned about the cultivation and its supply network.'
+  - Patrika lists six category weights that add up to 106.4 kg, not the 102.25 kg total it reports; the report keeps the 102.25 kg figure given by every outlet.
+  - Patrika's text closely repeats Nai Dunia's already-cited account, so the two are not independent; Dainik Bhaskar provides separate confirmation.
+media:
+  - kind: photo
+    url: https://www.patrika.com/khargone-news/illegal-ganja-farming-88-plants-102-kg-seized-21020873
+    media_url: https://cms.patrika.com/wp-content/uploads/2026/10/khargone-ganja.webp
+    publisher: Patrika News
+    caption: Police officers in a field with cannabis plants seized among a cotton crop in Khargone; the article credits the photo to Patrika.
 ---
 
 Police in Khargone district, Madhya Pradesh, arrested 58-year-old farmer Mohan,
-son of Gulabsingh Sisodiya, at his field in Pokhar village. [@2] He was accused
-of growing cannabis among his cotton crop. [@2] Mohan tried to run when the
+son of Gulabsingh Sisodiya, at his field in Pokhar village. [@2,3] He was accused
+of growing cannabis among his cotton crop. [@2,3] Mohan tried to run when the
 police team reached the field, but officers surrounded him and caught him. [@1]
 Officers searched the field in the presence of villagers and found green
-cannabis plants at different places among the cotton. [@2] Police seized 88
-green plants from the field. [@2] The plants were pulled up by the roots before
-being seized. [@2]
+cannabis plants at different places among the cotton. [@2,3] Police seized 88
+green plants from the field. [@2,3] The plants were pulled up by the roots before
+being seized. [@2,4]
 
 The plants weighed 102 kg 250 g, and police estimated their value at about 10
-lakh rupees. [@1] Police registered case number 344/2026 against Mohan at
+lakh rupees. [@1,3] Police registered case number 344/2026 against Mohan at
 Balkwara police station under Sections 8/20 of the Narcotic Drugs and
 Psychotropic Substances Act, India's drug law. [@1]
 
@@ -63,4 +81,3 @@ Station in-charge Sagar Singh Chauhan led the team, with Khaltaka outpost
 in-charge Mithun Chauhan, under the guidance of sub-divisional police officer
 Shweta Shukla. [@1] Police said the campaign against illegal drug cultivation
 and trade would continue. [@1]
-
