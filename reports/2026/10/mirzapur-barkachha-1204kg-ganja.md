@@ -87,6 +87,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'Mirzapur News: छह करोड़ के गांजा संग दो अंतरराज्यीय तस्कर गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/mirzapur/story-mirzapur-police-arrest-two-interstate-smugglers-with-1-204-kg-of-cannabis-worth-6-crore-201793472983028.amp.html
+    publisher: Hindustan
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -98,6 +103,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Patrika News: Police valued the consignment at about ₹6 crore, or 60 million rupees.'
   - Newstrack's photo caption in the page metadata gives the value as 'Rs 60 crore', while its headline and article text say six crore rupees; the report uses ₹6 crore.
   - Amar Ujala values the consignment at ₹6 crore, while Bharat Samachar estimates ₹4–5 crore; the value remains disputed.
+  - 'Left out, as its quotation was not found in Hindustan: Police said the consignment had come from Odisha.'
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
@@ -106,19 +112,19 @@ from Madhya Pradesh's Mauganj district. [@3,6] The arrests came during a vehicle
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3] Officers stopped truck MP 09 HH 8908 during the
 check. [@3] A search found 1,204 kg of ganja, the Hindi word for cannabis,
-hidden under sacks of coconuts. [@1,3,7] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4,6] Bharat Samachar put the value at ₹4–5 crore.
+hidden under sacks of coconuts. [@1,3,7,8] Police valued the consignment at about ₹6
+crore, or 60 million rupees. [@4,6,8] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
-police lines. [@2] Police said the consignment had come from Odisha. [@4,5,6] It was
-meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6] A
+police lines. [@2,8] Police said the consignment had come from Odisha. [@4,5,6] It was
+meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8] A
 case was registered against both men under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act at Kotwali Dehat police station, and they were being
-produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6]
+produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8]
 
 Officers also found three mobile phones and ₹1,900 in cash, according to Amar
 Ujala. [@2] Police said they were checking the men's criminal records and
 looking for others in the network. [@4]
 
-Both men told police during questioning that they split the proceeds of the trafficking between them. [@6]
+Both men told police during questioning that they split the proceeds of the trafficking between them. [@6,8]
