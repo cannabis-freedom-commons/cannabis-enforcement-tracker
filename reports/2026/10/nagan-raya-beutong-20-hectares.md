@@ -51,6 +51,11 @@ sources:
     publisher: Indonesiaglobal.net
     date: 2026-11-01
     language: id
+  - title: BNN dan Polisi Sikat Habis Tiga Titik Ladang Ganja 20 Hektare di Nagan Raya
+    url: https://www.krusial.com/bnn-dan-polisi-sikat-habis-tiga-titik-ladang-ganja-20-hektare-di-nagan-raya/
+    publisher: Krusial.com
+    date: 2026-11-01
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -65,23 +70,23 @@ open_questions:
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
-mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4] The fields lay
+mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5] The fields lay
 in Beutong district, in the mountains of the regency. [@2] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
-personnel. [@2,4] Officers found no owner and no suspect at the sites. [@1]
+personnel. [@2,4,5] Officers found no owner and no suspect at the sites. [@1,5]
 
 Police estimated the plantation at 20 hectares across three separate plots, the
-first of them about 10 hectares with plants up to 1.5 metres tall. [@2] Plants
+first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5] Plants
 at the second plot were about 1 metre high and at the third about 30
-centimetres. [@1] The team uprooted and burned the plants where they stood and
-carried some of the material to Nagan Raya police headquarters as evidence. [@1]
+centimetres. [@1,5] The team uprooted and burned the plants where they stood and
+carried some of the material to Nagan Raya police headquarters as evidence. [@1,5]
 
 Reaching the site took about four hours on trail motorcycles and another four
-hours on foot through mountain terrain. [@1] The operation ended at 02:00 WIB,
-western Indonesian time, early on Sunday 1 November. [@1,4] Nagan Raya police
+hours on foot through mountain terrain. [@1,5] The operation ended at 02:00 WIB,
+western Indonesian time, early on Sunday 1 November. [@1,4,5] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
-cannabis growing in the regency. [@3] He asked residents to report cannabis
+cannabis growing in the regency. [@3,5] He asked residents to report cannabis
 planting, storage and dealing in their neighbourhoods. [@1] The police said the
 fight against drugs needed the support and cooperation of the whole community.
 [@1]
