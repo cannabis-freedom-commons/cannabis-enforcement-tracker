@@ -27,18 +27,24 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: 'नालंदा: जेल से छूटते ही गांजा तस्करी में जुटा आरोपी, 1.596 किलो गांजा और चार कारतूस के साथ गिरफ्तार, करायपरशुराय थाना पुलिस ने की कार्रवाई'
+    url: https://dnbbharat.com/?p=525135
+    publisher: Desh News Bharat
+    date: 2026-10-31
+    language: hi
 open_questions:
   - No charge or court outcome is reported; the reports say only that Prasad was produced before a judge and that further legal action was under way.
   - Dainik Bhaskar describes the material as ganja-like and gives no test result, while Prabhat Khabar calls it ganja.
   - The reports give the arrested man's father's name as Videshwar Prasad in Prabhat Khabar and Bindeshwar Prasad in Dainik Bhaskar, and Dainik Bhaskar once calls the suspect Rakesh Kumar.
   - Jharhapar village could not be matched to a mapped point, so the coordinates are the Karai Parsurai block centre.
   - The photographs published with the reports show the station house officer at a press conference or carry no caption, so no media link is listed.
+  - Only the DNB Bharat report gives the 25 October release, and it does not say what Prasad was jailed for or which case it concerned.
 ---
 
 Police arrested Rakesh Prasad after searching his house in Jharhapar village, in
 the Karai Parsurai police station area of Nalanda district, Bihar, on the
 evening of Friday 30 October 2026. [@1] Officers seized 1.596 kg of ganja, the
-local name for cannabis, and four live cartridges. [@1] Dainik Bhaskar reported
+local name for cannabis, and four live cartridges. [@1,3] Dainik Bhaskar reported
 that 1.126 kg of the ganja was in an open plastic bag inside a bucket and 470
 grams in a white plastic bag, and that the cartridges were in a box wrapped in
 black plastic. [@2]
@@ -49,5 +55,6 @@ information. [@1] The raid was carried out by a team formed on the orders of the
 Nalanda district superintendent of police to act against illegal narcotics,
 Dainik Bhaskar reported. [@2] Police questioned Prasad after the arrest and
 produced him before a judge at the Hilsa sub-divisional court on Saturday 31
-October. [@1] Police said further legal action was under way. [@1]
+October. [@1] Police said further legal action was under way. [@1,3]
 
+Prasad had been released from jail on 25 October and had returned to ganja smuggling, DNB Bharat reported. [@3] Police were working to trace the ganja smuggling network. [@3]
