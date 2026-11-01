@@ -23,6 +23,11 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/10/31/1001864002.jpg
     publisher: ANTARA News Sumatera Utara
     caption: 'The suspected courier with the 15 kg of cannabis seized in Aek Badak. Photo: ANTARA-HO'
+  - kind: photo
+    url: https://www.waspada.id/berita/polres-tapsel-sita-15-kg-ganja-di-sayur-matinggi-pria-asal-madina-diamankan
+    media_url: https://www.waspada.id/uploads/media/2026/10/1001279100-1793461494272.webp?w=960
+    publisher: Waspada
+    caption: 'Evidence seized in the Sayur Matinggi case, photographed at the South Tapanuli police station. Photo: Waspada.id/Ist'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e281b75ce383897f1f973fad4d469eab
@@ -43,6 +48,11 @@ sources:
     publisher: IDN Times Sumut
     date: 2026-10-31
     language: id
+  - title: Polres Tapsel Sita 15 Kg Ganja di Sayur Matinggi, Pria Asal Madina Diamankan
+    url: https://www.waspada.id/berita/polres-tapsel-sita-15-kg-ganja-di-sayur-matinggi-pria-asal-madina-diamankan
+    publisher: Waspada
+    date: 2026-10-31
+    language: id
 open_questions:
   - The cannabis in the suitcase was reported only as "about 15 kg"; the sources give no exact total weight or street value.
   - The 5.15 g found in AHB's pocket was reported separately from the suitcase haul, and the reports give no single precise combined figure.
@@ -61,20 +71,20 @@ open_questions:
 
 The South Tapanuli narcotics unit detained a 49-year-old man identified by the
 initials AHB, a resident of Mandailing Natal regency, over suspected cannabis
-dealing. [@1,3] The operation took place in Aek Badak village, Sayur Matinggi
-subdistrict, South Tapanuli regency, on Wednesday 21 October 2026. [@2] Officers
-acted on intelligence about a man suspected of carrying cannabis. [@1] They
+dealing. [@1,3,4] The operation took place in Aek Badak village, Sayur Matinggi
+subdistrict, South Tapanuli regency, on Wednesday 21 October 2026. [@2,4] Officers
+acted on intelligence about a man suspected of carrying cannabis. [@1,4] They
 found a white sack containing a grey suitcase wrapped in blue plastic and tape.
-[@1,2,3]
+[@1,2,3,4]
 
-Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,2,3] A
-further 5.15 g was found in AHB's front left trouser pocket. [@1,2,3] AHB told
-officers the cannabis belonged to a friend identified only as A. [@1,2,3]
+Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,2,3,4] A
+further 5.15 g was found in AHB's front left trouser pocket. [@1,2,3,4] AHB told
+officers the cannabis belonged to a friend identified only as A. [@1,2,3,4]
 
 Police said they were still looking for A. [@1] They were also investigating
-where the cannabis came from and possible involvement by others. [@2] South
+where the cannabis came from and possible involvement by others. [@2,4] South
 Tapanuli police chief AKBP Anton Santoso gave the account through narcotics unit
 head AKP Philip Antonio Purba in a statement received on Saturday 31 October.
-[@2,3]
+[@2,3,4]
 
-The arrest took place at midday on 21 October 2026. [@3] AHB said the cannabis had been left with him by a colleague in the same line of work. [@3] Police said they were also trying to establish where the 15 kg was intended to be distributed. [@3]
+The arrest took place at midday on 21 October 2026. [@3,4] AHB said the cannabis had been left with him by a colleague in the same line of work. [@3] Police said they were also trying to establish where the 15 kg was intended to be distributed. [@3]
