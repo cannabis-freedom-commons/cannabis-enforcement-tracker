@@ -146,6 +146,11 @@ sources:
     publisher: Raj Express
     date: 2026-10-31
     language: hi
+  - title: यूपी पुलिस का मध्य प्रदेश में बड़ा एक्शन, 4.35 करोड़ के गांजे के साथ अलीगढ़ और बंगाल के तस्कर गिरफ्तार
+    url: https://www.jagran.com/uttar-pradesh/jhansi-city-antf-jhansi-busts-4-point-35-cr-ganja-in-jabalpur-2-arrested-40422595.html
+    publisher: Dainik Jagran
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -211,7 +216,7 @@ delivering the consignment. [@1,3,8,9,12]
 
 The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15]
 
-The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
+The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5,18] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
 The container's registration number was NL-01-AC-7191, police said. [@9]
 
