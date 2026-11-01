@@ -43,6 +43,10 @@ sources:
     publisher: Dnes.dir.bg
     date: 2026-10-29
     language: bg
+  - title: Man, 39, from Sliven arrested at Sunny Beach with three types of drugs
+    url: https://burgasmedia.com/amp/news/zadarzhaniyat-s-tri-vida-narkotici-v-slanchev-bryag-e-39-godishen-ot-sliven?lang=en
+    publisher: BurgasMedia
+    date: 2026-10-31
 open_questions:
   - The reports give the time of the search as about 08:00 but no calendar date; 29 October 2026 is the date of the first police statement and reports.
   - The same police operation also searched a home in Sveti Vlas, where a 25-year-old woman was detained with about 27 grams of cannabis; that search is a separate event left out of this report.
@@ -53,22 +57,21 @@ open_questions:
 ---
 
 Police detained Valeri B., a 39-year-old man from Sliven known by the nickname
-Valkata. [@1] The search was at his flat in the Sunny Beach resort. [@2] He had
-previous convictions and was known to police in Sliven. [@4] The detention order
+Valkata. [@1,5] The search was at his flat in the Sunny Beach resort. [@2] He had
+previous convictions and was known to police in Sliven. [@4,5] The detention order
 was for up to 24 hours. [@2] He was kept in the arrest facility of the Nesebar
 district police department. [@1] A fast-track criminal proceeding was opened
-against him. [@1]
+against him. [@1,5]
 
 Police found about 3 grams of methamphetamine and about 3 grams of amphetamine
-in the flat. [@1] They also seized about 2 grams of dried plant material
-believed to be cannabis and two hand-rolled cigarettes containing it. [@1] The
+in the flat. [@1,5] They also seized about 2 grams of dried plant material
+believed to be cannabis and two hand-rolled cigarettes containing it. [@1,5] The
 search began at about 08:00 in a flat a few metres from the beach and the Kakao
-bus stop. [@1] Officers from the Burgas criminal police and the Nesebar district
+bus stop. [@1,5] Officers from the Burgas criminal police and the Nesebar district
 police carried out the operation. [@3] A field test identified the white
 crystalline substance as methamphetamine, known in Bulgaria as "piko", and the
 white powder as amphetamine. [@1]
 
 Police did not say whether the drugs were intended for sale or for personal use.
-[@1] Investigators said they still had to establish where the substances came
-from and how they were stored. [@1]
-
+[@1,5] Investigators said they still had to establish where the substances came
+from and how they were stored. [@1,5]
