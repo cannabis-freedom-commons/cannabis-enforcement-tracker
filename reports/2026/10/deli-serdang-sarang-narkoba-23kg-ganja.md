@@ -31,6 +31,11 @@ media:
     media_url: https://1kabar.com/wp-content/uploads/2026/10/IMG-20261030-WA0076.jpg
     publisher: 1kabar.com
     caption: 'Deli Serdang police chief Kombes Pol Muhammad, holding a loudspeaker, leads the press conference on the operation''s results at police headquarters, where the seized drugs were displayed. Photo: Zulkarnain Lubis / 1kabar.com'
+  - kind: photo
+    url: https://ftnews.co.id/tangkap-12-bandar-di-deli-serdang-polisi-sita-23-gram-sabu-ganja-setara-rp-11-miliar
+    media_url: https://ftnews.co.id/storage/comp/900x500/img-20261031-164620-311020267.webp
+    publisher: FTNews.co.id
+    caption: 'Deli Serdang police chief Kombes Muhammad and officers display the seized drugs at the operation''s press conference. Photo: Dok Istimewa / FTNews.co.id'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -56,6 +61,16 @@ sources:
     publisher: 1kabar.com
     date: 2026-10-30
     language: id
+  - title: Tangkap 12 Bandar di Deli Serdang, Polisi Sita 23 Gram Sabu - Ganja Senilai Rp 11 Miliar
+    url: https://ftnews.co.id/tangkap-12-bandar-di-deli-serdang-polisi-sita-23-gram-sabu-ganja-setara-rp-11-miliar
+    publisher: FTNews.co.id
+    date: 2026-10-31
+    language: id
+  - title: Operasi Sarang Narkoba 20 Hari, Polresta Deli Serdang Amankan 57 Orang, Sita 23 Kg Lebih Sabu dan 23,5 Kg Ganja
+    url: https://kompasnusa.net/2026/10/operasi-sarang-narkoba-20-hari-polresta-deli-serdang-amankan-57-orang-sita-23-kg-lebih-sabu-dan-235-kg-ganja/
+    publisher: Kompasnusa.net
+    date: 2026-10-30
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -63,6 +78,10 @@ open_questions:
   - The operation ran from 9 to 29 October 2026 and its results were announced on 30 October, the date used here.
   - 'Left out, as its quotation was not found in Mistar.id: Police in Deli Serdang regency, North Sumatra, held 57 people during Operasi Sarang Narkoba, a drug operation that ran from 9 to 29 October 2026.'
   - A photo caption on the 1kabar page says the operation lasted 20 days, while the article text says 21 days from 9 to 29 October 2026.
+  - The FTNews account dates the press conference to Saturday 31 October 2026, while the report and the earlier local reports date it to Friday 30 October.
+  - The FTNews headline says '23 Gram' where its body says 23 kg.
+  - FTNews gives the ganja as 23 kg, rounded from the 23,517.86 grams (23.5 kg) in the report.
+  - FTNews describes the remaining suspects only as 'puluhan' (dozens of) users, while the earlier reports give 36.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -74,7 +93,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@2,4] The operation covered districts including Lubuk
+dealers, and 36 as users. [@2,4,6] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -85,3 +104,5 @@ Serdang regent, the Lubuk Pakam district court and prosecutor's office, and
 airport security attended. [@1,4] The police chief said the operation was part of
 the national police chief's programme to suppress drug trafficking and restore
 drug-affected areas. [@1,4]
+
+Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5]
