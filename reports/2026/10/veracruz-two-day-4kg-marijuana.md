@@ -48,6 +48,11 @@ sources:
     publisher: Política al Día
     date: 2026-10-30
     language: es
+  - title: 'Operativos coordinados: 33 detenidos y seis presuntas víctimas de privación ilegal de la libertad'
+    url: https://horacero.mx/2026/10/30/operativos-coordinados-33-detenidos-y-seis-presuntas-victimas-de-privacion-ilegal-de-la-libertad/
+    publisher: Hora Cero
+    date: 2026-10-30
+    language: es
 open_questions:
   - The bulletin dates the operations only as Wednesday and Thursday before a Friday 30 October 2026 dateline, so the report uses 29 October as the second day and 28 October as the first.
   - No weight was given for the bags, doses, cigarettes, package or plant of marijuana-like material outside the 4 kg Cotaxtla seizure.
@@ -74,7 +79,7 @@ In Perote, men detained over alleged illegal possession of a firearm were also
 found with seven small bags of marijuana-like herb, a short firearm and live
 cartridges. [@1,3,4,5] In Cotaxtla, during operations at businesses that ship parcels,
 officers seized 4 kilograms of green herb with the characteristics of marijuana.
-[@1,2,3,4]
+[@1,2,3,4,6]
 
 In searches supporting the state prosecutor’s office in Tlapacoyan, Tepetzintla,
 Ixhuatlán de Madero, Álamo Temapache, Misantla, Cerro Azul, Yanga, Altotonga,
