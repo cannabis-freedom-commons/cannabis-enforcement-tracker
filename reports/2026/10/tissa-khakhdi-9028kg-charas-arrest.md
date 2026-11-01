@@ -42,6 +42,11 @@ sources:
     publisher: Punjab Kesari
     date: 2026-10-31
     language: hi
+  - title: हिमाचल में 9 किलो चरस संग राकेश गिरफ्तार, देर रात निकला था डील करने- पहुंचा जेल
+    url: https://news4himachal.in/amp/post/crime/himachal-pradesh-chamba-tissa-stf-seizes-9-kg-charas-youth-arrested/23713
+    publisher: News4himachal
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article gives no calendar date for the checkpoint, only about 12:50 a.m.; 31 October 2026 is the publication date, so the stop was most likely in the early hours of that day.
   - Only one source could be opened.
@@ -51,6 +56,7 @@ open_questions:
   - ETV Bharat said Rakesh was due to be produced in court on 31 October, but the sources do not establish whether he appeared or was remanded.
   - 'Left out, as its quotation was not found in ETV Bharat: Chamba Superintendent of Police Vijay Kumar Saklani said the suspect would be produced in court on 31 October and questioned if police remand was granted.'
   - Punjabkesari's image has no caption or credit tying it to this seizure, so it is not included as event media.
+  - News4himachal does not say whether the man was walking or in a vehicle when he was stopped.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/chamba-tisa-9-kg-charas-seized-kangra-stf-arrests-32-year-old-youth-ndps-case-drug-smuggling-network-hps26103102528
@@ -69,15 +75,17 @@ village, during a checkpoint in Tissa in the Churah subdivision of Chamba
 district, Himachal Pradesh. [@1,2,3] Officers of the Special Task Force recovered 9
 kilograms 28 grams of charas, cannabis resin, from him at the stop. [@1,3,4] A
 search of his possession produced 9.028 kilograms of charas, the same quantity
-given in kilograms and grams. [@1,3]
+given in kilograms and grams. [@1,3,6]
 
-The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1,2,3]
-The checkpoint was on the link road to the Khakhdi dam site at Tissa. [@1,5]
+The STF team set up the checkpoint at about 12:50 a.m. on a secret tip-off. [@1,2,3,6]
+The checkpoint was on the link road to the Khakhdi dam site at Tissa. [@1,5,6]
 Assistant Sub-Inspector Paramesh Sharma, Tissa in-charge of STF North Range
 Kangra, led the action. [@1]
 
 Police identified the arrested man as Rakesh Kumar, 32, of Mandka village, post
-office Thalli, tehsil Churah, Chamba district. [@1] An FIR was registered
+office Thalli, tehsil Churah, Chamba district. [@1,6] An FIR was registered
 against him at the STF North Range Kangra police station under sections 20 and
-25 of the NDPS Act. [@1] ASI Paramesh Sharma is conducting the further
-investigation. [@1]
+25 of the NDPS Act. [@1,6] ASI Paramesh Sharma is conducting the further
+investigation. [@1,6]
+
+Police said they were questioning him about where he obtained the charas and where it was to be supplied. [@6] Officers were also trying to trace the trafficking network and identify other people involved. [@6]
