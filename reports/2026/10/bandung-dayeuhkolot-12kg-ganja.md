@@ -99,6 +99,11 @@ sources:
     publisher: PenaKu.ID
     date: 2026-10-30
     language: id
+  - title: Polresta Bandung Ungkap Modus Konsumsi Teh Ganja, Sita 12 Kilogram
+    url: https://www.jabarnews.com/daerah/polresta-bandung-ungkap-modus-teh-ganja-sita-12-kilogram/
+    publisher: Jabar News
+    date: 2026-10-31
+    language: id
 open_questions:
   - IDN Times reported the payment as Rp2 million per kilogram, while RRI quoted police saying the Rp2 million was for the whole delivery.
   - RRI described the seizure as 'more than 12 kilograms'; this report uses the 12 kilograms given by police and IDN Times.
@@ -115,6 +120,9 @@ open_questions:
   - The article does not say when ALF alias BU was placed on the wanted list.
   - PenaKu.ID places the rented room in Kampung Citamiang Kidul, while the existing report records Kampung Cikanyang Kidul.
   - PenaKu.ID says a public report prompted the investigation, while other accounts identify a detected Kiaracondong transaction as the initial lead.
+  - Jabar News places the rented room in Kampung Citamiang Kidul, Desa Cangkuang Kulon; IDN Times names Kampung Cikanyang Kidul, while RRI specifies only Dayeuhkolot.
+  - 'The weight accounts differ: Jabar News says about 12 kg, IDN Times says 12 kg, and RRI says more than 12 kg; the existing report records 12 kg and leaves the RRI discrepancy open.'
+  - 'Left out, as its quotation was not found in IDN Times Jabar: Police in Kabupaten Bandung arrested a man they identified as AR, 27, on suspicion of dealing cannabis.'
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on
@@ -127,13 +135,13 @@ Bandung police chief Commissioner Tri Suhartanto announced the case at a press
 conference on 30 October. [@1,4,7] He said AR was suspected of planning to send the
 cannabis to someone inside a prison, known in Indonesia as a lapas. [@1] Police
 said they were still investigating the distribution route and others involved.
-[@1,7]
+[@1,2,7]
 
 Police said AR was paid Rp2 million for the job. [@2,5] IDN Times reported the
 payment as Rp2 million for each kilogram he distributed. [@1] AR told police
 this was his second run; on the first he carried a suitcase with about 6
 kilograms of cannabis. [@2] Police said he also consumed cannabis, brewing it as
-a tea. [@2,4,7] He told them he had not drunk the brew before officers arrived. [@2]
+a tea. [@2,4,7,9] He told them he had not drunk the brew before officers arrived. [@2]
 
 Police charged AR under Articles 114(2) and 111(2) of the 2009 Narcotics Law.
 [@1,3,4,5,6,7] The offences carry up to 20 years in prison and a maximum fine of Rp10
