@@ -38,6 +38,11 @@ sources:
     publisher: Dainik Jagran
     date: 2026-10-31
     language: hi
+  - title: मुरादाबाद में फैमिली ड्रग सिंडिकेट का खुलासा, आरोपी गिरफ्तार
+    url: https://jantaserishta.com/local/uttar-pradesh/family-drug-syndicate-unearthed-in-moradabad-accused-arrested-4912205
+    publisher: Janta Se Rishta
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Amar Ujala reported 4.50 kg of charas; this report uses 4.375 kg, the figure in the Hindusthan Samachar wire copy and Dainik Jagran.
   - The wire copy says the three were arrested during a police check, while Amar Ujala and Dainik Jagran describe a morning raid on their house; the report follows the raid account.
@@ -45,11 +50,13 @@ open_questions:
   - Coordinates are for Moradabad city, not for Jayantipur Neta Colony, and the colony's exact position was not given.
   - One photograph of the three accused with police officers was published on Vocal TV, with no photographer or agency credit.
   - 'Left out, as its quotation was not found in Amar Ujala: Kanta Prasad took orders from customers on WhatsApp and his wife and mother delivered the charas and smack to the addresses they gave, Amar Ujala reported.'
+  - Janta Se Rishta, publishing late on 31 October, described the Majhola case only as an allegation and said no details of the arrests, the quantity of drugs or the case registered were available.
+  - The same article also reports a separate Civil Lines case in which a mother and daughter were arrested with charas and a son was absconding; it gives no date or quantity, and the event is left out of this report.
 ---
 
 Majhola police in Moradabad, Uttar Pradesh, arrested a man, his wife and his
 mother on Saturday 31 October 2026 on allegations of trafficking charas and
-smack. [@1] Police named them as Kanta Prasad, his wife Kavita Saini and his
+smack. [@1,4] Police named them as Kanta Prasad, his wife Kavita Saini and his
 mother Rani Saini, residents of Jayantipur Neta Colony in the Majhola police
 station area. [@1] Officers recovered 4.375 kg of charas, a hand-made cannabis
 resin, and 14.59 g of smack, a form of heroin, police said. [@1] They also found
@@ -70,4 +77,3 @@ and smack together for a long time and lived on the money it brought. [@1]
 Police registered a first information report (FIR), the document that starts a
 criminal case in India, against all three under the NDPS Act, India's main
 anti-drug law. [@2] All three were produced in court and sent to jail. [@2]
-
