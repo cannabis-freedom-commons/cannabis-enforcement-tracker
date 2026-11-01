@@ -37,6 +37,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/31/dbgifmagic_-_2026-10-31t185754_351_1793453294504.gif
     publisher: Dainik Bhaskar
     caption: A police team seizing cannabis plants from a pigeon pea field in Umarban.
+  - kind: photo
+    url: https://navbharattimes.indiatimes.com/state/madhya-pradesh/khargone/25-crore-ganja-seizure-plants-36-hour-police-operation-four-accused/articleshow/135407992.cms
+    media_url: https://static.langimg.com/nbt/thumb/135408506/25-crore-ganja-seizure-plants-36-hour-police-operation-four-accused.jpg?imgsize=389926&width=700&height=394&resizemode=75
+    publisher: Navbharat Times
+    caption: Police officers stand among cannabis plants in a cotton-and-maize field; the page caption describes plants over six feet tall.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e2cf01d5d63870561ed64f9aa310ac8d
@@ -62,6 +67,11 @@ sources:
     publisher: Zee News Hindi
     date: 2026-10-31
     language: hi
+  - title: कपास-तुअर और मक्का के खेतों में उग रहा था 25 करोड़ का गांजा, धार पुलिस ने 36 घंटे की ताबड़तोड़ कार्रवाई, 4 गिरफ्तार
+    url: https://navbharattimes.indiatimes.com/state/madhya-pradesh/khargone/25-crore-ganja-seizure-plants-36-hour-police-operation-four-accused/articleshow/135407992.cms
+    publisher: Navbharat Times
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -69,6 +79,9 @@ open_questions:
   - No count of plants and no area for the farms was published; the plants are reported by weight only.
   - No court outcome beyond the four men being taken into police custody was reported.
   - The operation began on Friday 30 October and continued into Saturday 31 October; 30 October is used as the event date.
+  - Navbharat Times gives an overall weight of 6,729 kg, but its three site totals sum to 6,710 kg; Lalluram also reports about 6,729 kg, while the existing report uses about 6,700 kg.
+  - Navbharat Times estimates the crop at Rs 25 crore, while Lalluram reports Rs 24 crore.
+  - The article also reports two Khargone operations involving 1,018 plants and three arrests, but gives no dates or locations to determine whether they overlap the indexed 88-plant Khargone case; they are not merged here.
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
@@ -76,7 +89,7 @@ the Manawar area of Dhar district, Madhya Pradesh. [@4] The accused were Anil
 Mandloi, Malsingh alias Haresingh Mory, Sakharam Mory and Gulsingh Mandloi, all
 residents of Badiya Patelpura. [@3] Manawar station house officer Rajesh Yadav
 said the four were taken into police custody on the night of Saturday 31
-October. [@3] A case was registered against all four under the Narcotic Drugs
+October. [@3,5] A case was registered against all four under the Narcotic Drugs
 and Psychotropic Substances Act. [@3]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
@@ -88,7 +101,7 @@ constables, four assistant sub-inspectors and three station in-charges took
 part. [@3] The crop was loaded onto five tractor-trolleys and taken to Manawar.
 [@3] The plants were about 15 days from harvest, police said. [@3]
 
-The raids were part of Operation Prahar. [@1] The operation is a district
+The raids were part of Operation Prahar. [@1,2] The operation is a district
 campaign against illegal cannabis cultivation. [@4] It was led by Superintendent
 of Police Sachin Sharma. [@1] Additional Superintendent of Police Vijay Dawar
 said police used drones to survey forests, hills and fields. [@2] The operation
@@ -96,3 +109,4 @@ covered Manawar, Mandav, Gandhwani, Bagh and Tanda in southern Dhar district.
 [@2] Dawar said it began on Friday 30 October and continued until Saturday
 evening. [@2]
 
+Police seized 4,390 cannabis plants from three locations in Badiya village. [@5]
