@@ -18,6 +18,11 @@ media:
     media_url: https://www.cvoice24.com/media/imgAll/2022September/cvoice24--2611010550.jpg
     publisher: Cvoice24
     caption: 'The arrested man and the 80 packets of ganja recovered from the car at Nakapa Bazar. Photo: Cvoice24'
+  - kind: photo
+    url: https://janobani.com/words-of-bengal/91744
+    media_url: https://janobani.com/_next/image?url=https%3A%2F%2Fapi.janobani.com%2Fuploads%2Farticles%2Ff0552cc1-998f-49b3-8539-d354c7cb68ec_large.webp&w=828&q=75
+    publisher: Janobani
+    caption: 'Stacks of plastic-wrapped packets of ganja, stated to be the 40 kg seized from the private car at Nakapa Bazar. Photo: Janobani (collected)'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b0f2cacd732d9464e19f33e88d80bb9f
@@ -38,6 +43,11 @@ sources:
     publisher: Daily Naya Diganta
     date: 2026-11-01
     language: bn
+  - title: রামগড়ে প্রাইভেটকারে ৪০ কেজি গাঁজা, চালক আটক
+    url: https://janobani.com/words-of-bengal/91744
+    publisher: Janobani
+    date: 2026-11-01
+    language: bn
 open_questions:
   - No estimated value for the 40 kg of ganja was published.
   - No court outcome beyond the first appearance on 1 November was reported.
@@ -48,21 +58,20 @@ open_questions:
 
 Police in Ramgarh, Khagrachhari, recovered 40 kg of ganja, the local word for
 cannabis, from a private car at Nakapa, on the Ramgarh–Jaliapara road, and
-arrested the driver, Syed Mohammad Khaled, 29. [@1] The arrest happened at about
+arrested the driver, Syed Mohammad Khaled, 29. [@1,4] The arrest happened at about
 9:30 pm on Saturday 31 October 2026. [@1] Khaled is the son of Md Humayun Kabir
-and Salma Begum of the Swanirbhor area of Khagrachhari Sadar upazila. [@1]
-Officers also seized the car, Dhaka Metro-Kha-11-7209. [@1]
+and Salma Begum of the Swanirbhor area of Khagrachhari Sadar upazila. [@1,4]
+Officers also seized the car, Dhaka Metro-Kha-11-7209. [@1,4]
 
 Police and local witnesses said a car heading for Ramgarh was speeding along the
 Jaliapara road when locals became suspicious and informed the Hafchhari police
-outpost. [@1] Officers chased the car and stopped it at Nakapa Bazar. [@2]
-Nakapa lies in Patachhara Union of Ramgarh upazila. [@3] An agitated crowd
-smashed the car's front window before the search. [@1]
+outpost. [@1,4] Officers chased the car and stopped it at Nakapa Bazar. [@2,4]
+Nakapa lies in Patachhara Union of Ramgarh upazila. [@3,4] An agitated crowd
+smashed the car's front window before the search. [@1,4]
 
 Inside, officers found the ganja wrapped in 80 packets and packed into two
-sacks. [@1] Ramgarh police station Officer-in-Charge Md Nazir Alam said police
-arrested one man with the car and the 40 kg of ganja with help from locals. [@1]
+sacks. [@1,4] Ramgarh police station Officer-in-Charge Md Nazir Alam said police
+arrested one man with the car and the 40 kg of ganja with help from locals. [@1,4]
 A case was filed under the Narcotics Control Act, and he was sent to
-Khagrachhari court. [@1] He was presented before the court on Sunday 1 November.
+Khagrachhari court. [@1,4] He was presented before the court on Sunday 1 November.
 [@3]
-
