@@ -29,16 +29,23 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: गया जी में पुलिस ने ट्रक से एक क्विंटल गांजा किया बरामद, 10 लाख की खेप छोड़कर चालक फरार
+    url: https://www.prabhatkhabar.com/state/bihar/gaya/truck-seized-100kg-ganja-driver-absconding
+    publisher: Prabhat Khabar
+    date: 2026-10-30
+    language: hi
 open_questions:
   - The seizure date is not stated as a calendar date; 30 October is inferred from the Friday-evening reference and the 31 October publication date.
   - The driver fled, and no later arrest or court outcome is reported for the Konch seizure.
   - The intended recipient and precise delivery point are not identified.
   - No second independent account of the Konch truck seizure was opened.
+  - Prabhat Khabar reports about 100 kg, while Dainik Bhaskar reports about 105 kg; the sources do not explain the difference.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Konch station officer Alok Ranjan said police received information that cannabis traffickers were carrying a large consignment and planned to deliver it somewhere within the police-station area.'
 ---
 
 A truck driver fled when police signalled his vehicle to stop near Kauriya
 village on the Gaya–Goh main road in Konch, Gaya district, Bihar, on Friday
-evening. [@1] Konch station officer Alok Ranjan said police received information
+evening. [@1,2] Konch station officer Alok Ranjan said police received information
 that cannabis traffickers were carrying a large consignment and planned to
 deliver it somewhere within the police-station area. [@1] A team was formed
 under sub-inspector Sohrab Ali. [@1]
@@ -53,3 +60,4 @@ The cannabis was estimated to be worth about 10 lakh rupees, equivalent to ₹1
 million. [@1] Police seized the truck after the driver escaped. [@1] Officials
 said they were continuing efforts to identify the traffickers. [@1]
 
+Konch station officer Alok Ranjan said police had registered a case and were investigating the consignment's origin and intended delivery point. [@2]
