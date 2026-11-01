@@ -53,6 +53,11 @@ sources:
     publisher: Yeni Bakış Gazetesi İzmir
     date: 2026-10-31
     language: tr
+  - title: Konak'taki operasyonda 1 kilo 855 gram skunk bulundu
+    url: https://www.habererk.com/haber/konak-taki-operasyonda-1-kilo-855-gram-skunk-bulundu_358916/
+    publisher: Habererk
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports say only that the raid took place 'yesterday' (dün) relative to their 31 October 2026 publication, and give no time of day or street.
   - No charge, court date or outcome was reported for the two suspects, who were not named.
@@ -60,18 +65,20 @@ open_questions:
   - Hürriyet's local-news page carries the DHA byline and the same wording as the agency's own report, so the two accounts are not independent.
   - The photograph published with the report shows the seized drugs beneath the İzmir narcotics branch sign, but not the address or the suspects.
   - The only photo on the Son Kale İzmir page carries no caption or credit beyond the headline, so it could not be confirmed as a distinct photo of the raid.
+  - Habererk credits the story to DHA and repeats the agency's wording, so it is not an independent account of the raid.
+  - The Habererk page's only photograph is the DHA image of the seized drugs already linked from Hürriyet, captioned only with the headline, so it was not added as a separate media entry.
 ---
 
 Police in İzmir searched an address in Konak, one of the city's central
-districts, on 30 October 2026. [@1,3,4,5,6] Two suspects were detained and held in
+districts, on 30 October 2026. [@1,3,4,5,6,7] Two suspects were detained and held in
 gözaltı, the police custody in which a person is kept for questioning while
 prosecutors decide whether to bring charges or release them. [@2,3,4,5,6] The searches
 turned up 1 kg 855 g of skunk, a high-potency herbal cannabis preparation that
-Turkish police and newspapers call skunk, and 4 g of cocaine. [@1,3,4,5]
+Turkish police and newspapers call skunk, and 4 g of cocaine. [@1,3,4,5,7]
 
 The operation was carried out by teams from the narcotics crimes branch of the
 İzmir provincial police directorate, the Narkotik Suçlarla Mücadele Şube
-Müdürlüğü, the unit that investigates drug supply across the province. [@2,3,4,5] The
+Müdürlüğü, the unit that investigates drug supply across the province. [@2,3,4,5,7] The
 İzmir chief public prosecutor's office, the Cumhuriyet Başsavcılığı, which
 oversees criminal investigations in the province, coordinated the work,
 described by the police as aimed at preventing the trafficking of narcotics.
