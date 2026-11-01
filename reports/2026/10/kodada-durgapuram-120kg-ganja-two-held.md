@@ -61,6 +61,11 @@ sources:
     publisher: Telugu Post
     date: 2026-10-31
     language: te
+  - title: సూర్యాపేటలో 150 కిలోల గంజాయి పట్టివేత.. ఇద్దరి అరెస్ట్
+    url: https://www.andhrajyothy.com/2026/telangana/nalgonda/150-kg-ganja-seizure-in-suryapet-2-arrest-1572454.html
+    publisher: Andhrajyothy
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -73,6 +78,10 @@ open_questions:
   - The early reports place the interception at Durgapuram stage; The Hindu and Siasat place it near Kakatiya Seva Samithi on Kodad Highway.
   - The Hindu says both men are from Kollegala, while Siasat says Selva Surya is from Hanur taluk and Raja Gownder Murugan from Kollegala.
   - The Telugu Post puts the haul at 150 kg and its value at about ₹75 lakh, while the report's figures keep 120 kg from the earlier Telugu accounts.
+  - Only this account says three other members of a five-person gang fled; The Hindu and Siasat, already cited in the report, describe two men in the car and name two alleged receivers, so the number of people at large is not confirmed.
+  - The article is dated 1 November and carries a Suryapet dateline for that day, but gives no separate event date; the report keeps 31 October, when The Hindu and Siasat say the interception happened.
+  - The article does not say whether the three who fled were later caught or charged.
+  - 'Left out, as its quotation was not found in Andhrajyothy: Police said preliminary inquiries showed the two were taking the cannabis by car from Rajahmundry to Bengaluru.'
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
@@ -95,3 +104,5 @@ Telangana's EAGLE Force and Kodad Town Police stopped a Honda City near Kakatiya
 The seized ganja, vehicle and the two accused were handed over to Kodad Town Police for further legal action. [@5]
 
 Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
+
+Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8] The gang had five members; two were arrested and three fled. [@8] Police seized two mobile phones and a car along with the ganja. [@8] Police said they were searching for the suspects who had fled. [@8]
