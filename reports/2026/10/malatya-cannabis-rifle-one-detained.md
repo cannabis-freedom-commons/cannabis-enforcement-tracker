@@ -122,6 +122,16 @@ sources:
     publisher: İşçi Haber
     date: 2026-10-31
     language: tr
+  - title: 2 kilo esrar ele geçirildi
+    url: https://www.karshakimiyet.com/2-kilo-esrar-ele-gecirildi-121925h.htm
+    publisher: Kars Hakimiyet
+    date: 2026-10-31
+    language: tr
+  - title: Zehir Tacirlerine Darbe
+    url: https://www.kayisihaber.com/zehir-tacirlerine-darbe/85320
+    publisher: Kayısı Haber
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date for the searches; 30 October 2026 is the date the first accounts were published, so the operation happened on or before that evening.
   - No suspect name, age, district or neighbourhood within Malatya, charge, court date or estimated value for the drugs was published.
@@ -136,6 +146,8 @@ open_questions:
   - The article image is captioned only with the headline and is not confirmed to show this seizure; a second image on the page is a thumbnail for a different Malatya story.
   - İşçi Haber gives the amount as 2 kg, while the police statement cited in the existing report says 2 kg 50 g; the report keeps the police figure.
   - İşçi Haber does not mention the unlicensed rifle found in the same search.
+  - The existing report's open question says no separate date for the searches was published; Kayısı Haber gives 30 October 2026 as the date of the operation, which the report already uses.
+  - The Kars Hakimiyet page's photo, captioned only with the headline, appears to be the same police handout of the cannabis, rifle and ESRAR placard already linked from Aksiyon, so it was not listed a second time.
 media:
   - kind: photo
     url: https://www.aksiyon.com.tr/malatya-da-sokak-saticilarina-yonelik-baskinda-2-kilo-50-gram-esrar-ve-ruhsatsiz-tufek-bulundu-385109
@@ -145,8 +157,8 @@ media:
 ---
 
 Police in Malatya detained a suspected street-level cannabis dealer after
-searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,17,18,20,21] The searches turned up 2 kg 50 g of
-esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20] The suspect
+searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,17,18,20,21,22] The searches turned up 2 kg 50 g of
+esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20,22] The suspect
 was taken into custody and his processing at the police station was continuing.
 [@2,5,8,11]
 
@@ -162,7 +174,7 @@ street-level dealers who sell drugs to users. [@3] Malatya Haber said police had
 identified the man as selling drugs before he was caught with the cannabis and
 the rifle. [@3]
 
-The provincial police said the searches took place on 30 October 2026. [@4,10,13,17]
+The provincial police said the searches took place on 30 October 2026. [@4,10,13,17,23]
 
 Police said they detained the suspect on the instructions of the Malatya Chief Public Prosecutor's Office. [@10,17]
 
