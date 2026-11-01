@@ -29,6 +29,11 @@ sources:
     publisher: Le Journal d'Ici
     date: 2026-10-30
     language: fr
+  - title: 'Trafic de drogue à Albi : interpellé avec près de 900 euros et plusieurs centaines de grammes de stupéfiants, il écope de 13 mois de prison ferme'
+    url: https://www.ladepeche.fr/2026/10/31/trafic-de-drogue-a-albi-interpelle-avec-pres-de-900-euros-et-plusieurs-centaines-de-grammes-de-stupefiants-il-ecope-de-13-mois-de-prison-ferme-13628360.php
+    publisher: La Dépêche du Midi
+    date: 2026-10-31
+    language: fr
 open_questions:
   - Neither article names the man, the court that sentenced him, or the offence he was convicted of.
   - Neither article gives the date of the sentencing hearing; 30 October 2026, the publication date, is used as the incident date, while the arrest was on 27 October.
@@ -36,12 +41,20 @@ open_questions:
   - Le Journal d'Ici gives only a total of more than 380 g of drugs and 'nearly 60 g' of cannabis at the arrest, while Le Tarn libre's detailed count of 158.1 g of resin and 190 g of herb is used here.
   - The two articles use the same publishing platform and give the same account, so they may come from one newsroom rather than two independent outlets.
   - The only images are an Adobe Stock illustration on Le Tarn libre and an archive photo credited to JDI (Archives RL); neither could be confirmed as showing this seizure, so no media is listed.
+  - The supplied La Dépêche text ends at a subscriber wall, leaving its detailed seizure account unavailable in the capture.
+  - La Dépêche rounds the cash to nearly €900; the existing report's detailed account gives €880.
+media:
+  - kind: photo
+    url: https://www.ladepeche.fr/2026/10/31/trafic-de-drogue-a-albi-interpelle-avec-pres-de-900-euros-et-plusieurs-centaines-de-grammes-de-stupefiants-il-ecope-de-13-mois-de-prison-ferme-13628360.php
+    media_url: https://images.ladepeche.fr/api/v1/images/view/6ae4c9f2161740c1ee0ee4ca/full/image.jpg?v=1
+    publisher: La Dépêche du Midi
+    caption: 'Photo captioned as showing the police operation in Albi that week. Photo: Sébastien Lapeyrère'
 ---
 
 A police surveillance operation in the Cantepau priority neighbourhood of Albi
 on Tuesday 27 October 2026 uncovered drug-trafficking activity and led the
 anti-crime brigade (BAC) to arrest a man suspected of acting as a "sacocheur".
-[@1] In French drug cases the term describes an intermediary who carries money
+[@1,3] In French drug cases the term describes an intermediary who carries money
 or drugs for a network. [@1] At the time of his arrest he was carrying €880 in
 cash, 10 g of cocaine, 43.5 g of cannabis resin and 16 g of herbal cannabis.
 [@1]
@@ -55,4 +68,3 @@ cash. [@1] Le Journal d'Ici put the total at more than 380 g of drugs. [@2]
 Placed in police custody and then brought before a court, the man was sentenced
 to 13 months in prison. [@1] He was taken to the maison d'arrêt in Albi, the
 local remand prison. [@1]
-
