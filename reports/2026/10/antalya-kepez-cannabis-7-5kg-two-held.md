@@ -153,6 +153,11 @@ sources:
     publisher: Yeni Alanya
     date: 2026-10-31
     language: tr
+  - title: 'Antalya''da 7,5 kilo esrar ele geçirildi: 1 tutuklama'
+    url: https://www.mardinlife.com/gundem/antalya-da-7-5-kilo-esrar-ele-gecirildi-1-tutuklama
+    publisher: Mardin Life
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -187,7 +192,7 @@ Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
 city. [@1,4,8,9,10,11,12,13,14,15,17,19,20] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
 Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20] The pair were referred to the
+in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
 substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21]
 
