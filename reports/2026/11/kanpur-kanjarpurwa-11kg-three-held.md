@@ -43,6 +43,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/01/whatsapp_video_2026_11_01_at_2_15_56_pm_1793522809084/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Video published with the report of the police cordon and search in Kanjarpurwa. Video: Dainik Bhaskar'
+  - kind: photo
+    url: https://hindi.news18.com/amp/news/uttar-pradesh/kanpur/kanjadanpurwa-police-search-operation-drone-surveillance-11-kg-ganja-seized-local18-10955252.html
+    media_url: https://images.news18.com/ibnkhabar/uploads/2026/11/up-news-2026-11-01T154440.983-2026-11-d4ff95b2cad97d57bbf9a6a41d45c6a8-1200x675.jpg?impolicy=website&width=640&height=360
+    publisher: News18 हिंदी
+    caption: Police officers during the search operation in Kanjarpurwa, Kidwai Nagar, Kanpur.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7f1412a9ba8a8a91b49c8c41ab4ca9d8
@@ -108,6 +113,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-01
     language: hi
+  - title: कानपुर के कंजडनपुरवा में 135 पुलिसकर्मियों का छापा, ड्रोन से निगरानी कर पकड़े गए गांजा तस्कर
+    url: https://hindi.news18.com/amp/news/uttar-pradesh/kanpur/kanjadanpurwa-police-search-operation-drone-surveillance-11-kg-ganja-seized-local18-10955252.html
+    publisher: News18 हिंदी
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -126,27 +136,28 @@ open_questions:
   - The Deshbandhu article also reports a separate cow-smuggling arrest in Bareilly after a police encounter; that is a different event and is not part of this report.
   - The page's only image is a small uncaptioned, uncredited thumbnail carrying the combined Bareilly–Kanpur headline, so it could not be confirmed to show the Kanpur raid and was not linked as media.
   - Deshbandhu's text is an IANS roundup, the same agency copy already cited through Dainik Bhaskar Hindi, so it adds no independent reporting.
+  - News18 Hindi says the operation began at about 6 am, while the report and Amar Ujala give about 5 am; the report keeps 5 am.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
 search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,7,8,9,10] The three were
+operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6,7,11,12]
+[@1,4,6,7,11,12,13]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11]
+five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12]
+stations. [@2,4,6,7,9,10,12,13]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13] Other teams kept
 searching during the operation, and police said they were trying to identify
-others involved in the trade. [@3,6]
+others involved in the trade. [@3,6,13]
 
 Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
 [@2,7,8,9,10]
 
-Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
+Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
