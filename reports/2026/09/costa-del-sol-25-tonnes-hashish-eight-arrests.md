@@ -101,6 +101,11 @@ sources:
     publisher: 101TV
     date: 2026-10-30
     language: es
+  - title: 'Golpe al narcotráfico en Málaga: cuatro detenidos en una operación con 2,5 toneladas de hachís y 600 kilos de cocaína incautados'
+    url: https://www.azcostadelsol.com/costa-del-sol/golpe-al-narcotrafico-en-malaga-cuatro-detenidos-en-una-operacion-con-25-toneladas-de-hachis-y-600-kilos-de-cocaina-incautados/
+    publisher: AZ Costa del Sol
+    date: 2026-10-30
+    language: es
 open_questions:
   - The police account, as reported by Europa Press, places the searches in September 2026 but gives no day; 1 September marks that month only.
   - Which of the searched houses in Málaga or Valencia held the drugs is not stated.
@@ -128,34 +133,35 @@ open_questions:
   - The page's featured photograph, credited to the National Police, appears to repeat the seized-drugs handout already linked from Sur in English, so it was not listed as a second photo.
   - The 101TV account lists four charges — drug trafficking, criminal-organisation membership, illegal weapons and document forgery — and does not mention the vehicle-theft charge recorded in the existing report.
   - The 101TV photograph is credited to the Policía Nacional and shows part of the seized haul; whether it is a different frame from the police handout already linked from Sur in English could not be established.
+  - The page's lead photograph is captioned only with the headline and has no credit, so it could not be confirmed as a distinct image of this seizure and was not added; it may repeat a National Police handout already linked in the report. Other images on the page are advertisements.
 ---
 
 Eight men, aged 24 to 58, were arrested in Málaga, Valencia and Girona after the
 National Police dismantled an international cocaine and hashish trafficking
 organisation operating from the Costa del Sol. [@2,4,5,7,9,10,11,13] Two were detained in
 Marbella, two in Torremolinos, three in Cullera in Valencia and one in Girona.
-[@1,5,6,7,8,9,11,12] After they appeared in court, a judge remanded three of them in custody.
-[@1,4,5,6,7,8,9,10,11,12,13] The men were held as suspected authors of drug trafficking, membership of a
+[@1,5,6,7,8,9,11,12,14] After they appeared in court, a judge remanded three of them in custody.
+[@1,4,5,6,7,8,9,10,11,12,13,14] The men were held as suspected authors of drug trafficking, membership of a
 criminal organisation, unlawful possession of firearms, vehicle theft and
-document forgery. [@1,5,6,7,8,9,11,12]
+document forgery. [@1,5,6,7,8,9,11,12,14]
 
 Searches of six homes and one commercial premises in Málaga and Valencia,
 carried out in September, yielded 2.5 tonnes of hashish and 600 kilograms of
 cocaine from a single house, the National Police said in a statement reported by
 Europa Press. [@2,4,7,12] Officers also seized a rifle, 13,000 euros in cash, five
 stolen high-end vehicles, 14 sets of fake number plates, plate-stamping
-equipment, signal jammers and fraudulent identity documents. [@1,4,5,6,7,9,12]
+equipment, signal jammers and fraudulent identity documents. [@1,4,5,6,7,9,12,14]
 
 The inquiry was run jointly by the Drugs and Organised Crime Unit (UDYCO, the
 National Police unit for drugs and organised crime) in Torremolinos-Benalmádena
-and its counterpart in Valencia, and began in May. [@1,2,4,5,6,7,8,10,11,12,13] Detectives said the
+and its counterpart in Valencia, and began in May. [@1,2,4,5,6,7,8,10,11,12,13,14] Detectives said the
 group bought cocaine and hashish in Portugal, stored and prepared shipments in
 Málaga and Valencia, and moved them by road toward European markets, mainly
 France, in high-end cars stolen in France and Belgium and fitted with forged
 plates. [@1,7,9]
 
-Eight men aged between 24 and 58 were arrested in Cullera, Marbella, Torremolinos and Girona. [@3] Three of the eight were remanded in provisional custody, and the police account did not detail the status of the other five. [@3] Officers searched six homes and one commercial premises and seized 2.5 tonnes of hashish and 600 kg of cocaine. [@3,5,8,10,13] The investigation began in May 2026 and was carried out jointly by the Udyco units of Torremolinos-Benalmádena and Valencia. [@2] Police said the group obtained cocaine and hashish in Portugal and used Málaga and Valencia as intermediate storage and distribution points before taking the drugs to France. [@2] Officers also seized a rifle, €13,000 in cash, five stolen vehicles, 14 sets of false number plates, plate-stamping tools, signal jammers and false identity documents. [@2,8] The eight were held on charges of drug trafficking, membership of a criminal organisation, unlawful possession of firearms, vehicle theft and forgery. [@1] None of the eight has been tried, and all retain the presumption of innocence. [@3]
+Eight men aged between 24 and 58 were arrested in Cullera, Marbella, Torremolinos and Girona. [@3] Three of the eight were remanded in provisional custody, and the police account did not detail the status of the other five. [@3] Officers searched six homes and one commercial premises and seized 2.5 tonnes of hashish and 600 kg of cocaine. [@3,5,8,10,13,14] The investigation began in May 2026 and was carried out jointly by the Udyco units of Torremolinos-Benalmádena and Valencia. [@2] Police said the group obtained cocaine and hashish in Portugal and used Málaga and Valencia as intermediate storage and distribution points before taking the drugs to France. [@2] Officers also seized a rifle, €13,000 in cash, five stolen vehicles, 14 sets of false number plates, plate-stamping tools, signal jammers and false identity documents. [@2,8] The eight were held on charges of drug trafficking, membership of a criminal organisation, unlawful possession of firearms, vehicle theft and forgery. [@1] None of the eight has been tried, and all retain the presumption of innocence. [@3]
 
-Detectives said the group chose cars with enough power to try to flee if it spotted police or rival surveillance. [@7,8,10,11,12]
+Detectives said the group chose cars with enough power to try to flee if it spotted police or rival surveillance. [@7,8,10,11,12,14]
 
 Police said the group prepared the drugs in batches and distributed a portion in Spain before crossing the border, with the rest bound for France. [@12]
