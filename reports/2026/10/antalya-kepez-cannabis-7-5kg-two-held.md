@@ -148,6 +148,11 @@ sources:
     publisher: Mynet
     date: 2026-10-31
     language: tr
+  - title: 'Kepez''de 7.5 kilo esrar ele geçirildi: 1 kişi tutuklandı'
+    url: https://www.yenialanya.com/kepezde-75-kilo-esrar-ele-gecirildi-1-kisi-tutuklandi
+    publisher: Yeni Alanya
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -173,6 +178,9 @@ open_questions:
   - Haber Name's report is an Anadolu Agency wire copy, so it corroborates the agency account already in the report rather than adding independent reporting.
   - DHA's report is marked as illustrated, but its lead image could not be confirmed to show the operation rather than a generic view, so it was not added as a media entry.
   - 'Left out, as its quotation was not found in Mynet: M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
+  - 'Left out, as its quotation was not found in Yeni Alanya: Police in Antalya detained two men in an operation against drug trafficking after information that they were selling and distributing drugs brought into the city.'
+  - 'Left out, as its quotation was not found in Yeni Alanya: Officers caught the suspects, identified only as M.S.K. and O.Ü., in Kepez district.'
+  - 'Left out, as its quotation was not found in İhlas Haber Ajansı (İHA): M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody.'
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking
@@ -181,7 +189,7 @@ city. [@1,4,8,9,10,11,12,13,14,15,17,19,20] Officers caught the suspects, identi
 Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20] A search of their homes found 7 kg 500 g of cannabis, known
 in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,2,5,7,8,9,10,11,13,16,18,20]
+substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
 police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20] Sabah reported that it followed intelligence that the
