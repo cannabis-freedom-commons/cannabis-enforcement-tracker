@@ -178,16 +178,16 @@ open_questions:
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
 city. [@1,4,8,9,10,11,12,13,14,15,17,19,20] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,3,4,5,7,8,9,10,12,13,14,16,17,19,20] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20] The pair were referred to the
+Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,5,7,8,9,10,11,13,16,18,20]
+substances. [@1,2,5,7,8,9,10,11,13,16,18,20]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,4,6,7,8,9,10,11,12,14,16,17,19,20] Sabah reported that it followed intelligence that the
+police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10,16,19,20]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,3,4,6,7,8,9,10,11,12,14,15,16,17]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17]
