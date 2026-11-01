@@ -38,6 +38,10 @@ sources:
     url: https://www.tuko.co.ke/kenya/645149-nacada-arrests-3-suspects-jericho-estate-bhang-bust-seizes-1002-rolls/
     publisher: TUKO.co.ke
     date: 2026-10-31
+  - title: CRACKDOWN ON NARCOTICS TRAFFICKING
+    url: https://x.com/DCI_Kenya/status/2116492369709162560
+    publisher: Directorate of Criminal Investigations (DCI) Kenya
+    date: 2026-10-31
 open_questions:
   - The weight of the 1,002 rolls was not reported.
   - Whether the three people appeared in court or were formally charged is not established in these accounts.
@@ -51,7 +55,7 @@ Sub-County on Friday afternoon after an intelligence tip-off. [@1]
 
 Officers seized 936 brown rolls of suspected cannabis, described as bhang, and
 found another 66 red rolls hidden in a black polythene bag, bringing the total
-to 1,002. [@1,3,4] Officers also recovered a bunch of keys from a store within the
+to 1,002. [@1,3,4,5] Officers also recovered a bunch of keys from a store within the
 house as part of the investigation. [@1,3,4] The three occupants were taken to Jogoo
 Road Police Station. [@1,3,4] They were expected to be arraigned in court on Monday,
 2 November 2026. [@1,2,3]

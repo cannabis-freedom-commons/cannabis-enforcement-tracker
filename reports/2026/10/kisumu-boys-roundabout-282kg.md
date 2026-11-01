@@ -77,6 +77,10 @@ sources:
     url: https://eastleighvoice.co.ke/news/418499/detectives-seize-582kg-of-bhang-valued-at-sh865-million-arrest-five-in-three-counties?amp=1
     publisher: The Eastleigh Voice
     date: 2026-10-31
+  - title: Police seize 582kg of cannabis in nationwide crackdown
+    url: https://capitalfm.africa/police-seize-582kg-of-cannabis-in-nationwide-crackdown/
+    publisher: Capital FM
+    date: 2026-11-01
 open_questions:
   - No charge, court date or outcome for the arrested woman was reported; the DCI said suspects in the operations remained in custody pending arraignment.
   - 'The accounts differ on how the car was stopped: The Daily Post and Capital FM say officers deflated a tyre, while the DCI statement quoted by The Eastleigh Voice says an officer fired a shot at the front left tyre, and the reports do not say whether these describe the same action.'
@@ -98,8 +102,8 @@ flee, so officers deflated one of the tyres to bring the car to a halt. [@1,4] I
 the commotion the driver escaped, leaving the passenger behind. [@1,4,6,7]
 
 A search of the car found the suspected cannabis sativa packed in sacks,
-weighing 282.55 kg. [@1,4,6,7] The Directorate of Criminal Investigations (DCI) valued
-the cannabis at Sh8.65 million. [@3,5,6,8,9] Investigators had not established where the
+weighing 282.55 kg. [@1,4,6,7,10] The Directorate of Criminal Investigations (DCI) valued
+the cannabis at Sh8.65 million. [@3,5,6,8,9,10] Investigators had not established where the
 consignment was headed or the wider network behind it. [@2]
 
 In its statement, the DCI said the driver escaped during a scuffle and that the
