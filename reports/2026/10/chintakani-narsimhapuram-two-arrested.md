@@ -26,15 +26,21 @@ sources:
     publisher: Andhra Prabha
     date: 2026-10-31
     language: te
+  - title: చింతకానిలో గంజాయి కలకలం.... పోలీసుల పెట్రోలింగ్‌లో ఇద్దరు పట్టివేత...!
+    url: https://cknewstv.in/2026/10/31/%E0%B0%9A%E0%B0%BF%E0%B0%82%E0%B0%A4%E0%B0%95%E0%B0%BE%E0%B0%A8%E0%B0%BF%E0%B0%B2%E0%B1%8B-%E0%B0%97%E0%B0%82%E0%B0%9C%E0%B0%BE%E0%B0%AF%E0%B0%BF-%E0%B0%95%E0%B0%B2%E0%B0%95%E0%B0%B2%E0%B0%82/
+    publisher: CK News
+    date: 2026-10-31
+    language: te
 open_questions:
   - The encounter’s date is unspecified; 31 October 2026 is the publication date used for dating this report.
   - No weight or amount of cannabis involved was reported, and the report gives no later charge or court outcome.
   - No second opened report of the incident was found; this account relies on Andhra Prabha alone.
   - The featured image has no caption or credit, so whether it depicts the actual detainees cannot be confirmed.
+  - The two opened accounts give no separate date for the encounter.
 ---
 
 Two young men were caught using cannabis during a police patrol near
-Narsimhapuram village in Chintakani mandal, a local subdistrict. [@1] Police
+Narsimhapuram village in Chintakani mandal, a local subdistrict. [@1,2] Police
 took the youths into custody and questioned them after they appeared suspicious.
 [@1] Officers identified them as Vinay and Vijay. [@1] Both youths came from
 Agraharam Colony, while Penugonda Sai—the man they named as the seller—was from
@@ -48,4 +54,3 @@ began a follow-up investigation into the youths’ statements and the alleged sa
 of cannabis. [@1] Police continued inquiries to gather details about other
 people behind the cannabis supply, beyond the seller named by the two youths
 during questioning. [@1]
-
