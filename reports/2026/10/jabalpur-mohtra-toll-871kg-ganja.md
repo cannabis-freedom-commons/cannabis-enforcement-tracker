@@ -113,6 +113,10 @@ sources:
     url: https://www.bhaskar.com/local/mp/jabalpur/news/jabalpur-police-seize-marijuana-consignment-highway-arrest-139547721.html
     publisher: Dainik Bhaskar
     language: hi
+  - title: Police Bust Smuggling Racket In Madhya Pradesh, Arrest 2 People With 871 Kg Cannabis
+    url: https://www.etvbharat.com/en/state/police-bust-drug-smuggling-racket-in-madhya-pradesh-enn26103104677
+    publisher: ETV Bharat
+    date: 2026-10-31
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -134,6 +138,7 @@ open_questions:
   - ETV Bharat says the Gosalpur police acted on a tip-off received on 30 October and then spotted the container on National Highway 30, while the report describes a patrolling team noticing it speeding; the accounts do not say whether the patrol was acting on that tip-off.
   - CG MP News reports a five-day police remand for both suspects; no other opened account confirms the remand or its terms.
   - CG MP News values the consignment at about ₹4 crore, below the ₹4.35 crore figure used in the report.
+  - ETV Bharat English says the container left Visakhapatnam on 18 October and was due in Ambala on 19 October before a call from Prabhat Sahu redirected it to Madhya Pradesh, but also that the 28 sacks were loaded on 27 October; the sequence is unclear and does not fit the report's Odisha-to-Maihar route.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -142,11 +147,11 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9]
+Dinajpur, West Bengal. [@1,4,7,9,12]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
-[@1] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
+[@1,2,4,7,9,10,12] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,12] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11] The container had a
 Nagaland registration number, police said. [@2]
 
@@ -154,20 +159,20 @@ A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
 plaza. [@1] The driver and the other man tried to flee but were caught, police
-said. [@2,10] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
+said. [@2,10,12] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
-resident of Balangir in Odisha. [@1,9,11] The consignment was to be unloaded near a
+resident of Balangir in Odisha. [@1,9,11,12] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1] The 28 sacks were loaded
 into the container at Sahu's location on 27 October. [@1,9,11] Singh said he was
 promised ₹1 lakh for the trip. [@1,10] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
-were paid ₹1 lakh for each consignment, according to police. [@2] Investigators
+were paid ₹1 lakh for each consignment, according to police. [@2,12] Investigators
 were working to identify other people connected with arranging, transporting and
-delivering the consignment. [@1,3,8,9]
+delivering the consignment. [@1,3,8,9,12]
 
 The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
 
