@@ -36,14 +36,37 @@ func v2Args(args []string) []string {
 	return out
 }
 
-// OpenCode 2 owns its Console credentials in its native credential store. Use its
-// own scoped export/import commands, never parse/store a key in .env or copy chats.
+// Import only the model and configured search integrations. The research server
+// has its own credential store, so the user's /connect state is otherwise absent.
 func (r Runner) importOpenCode2Auth(ctx context.Context, binary string, command *exec.Cmd) error {
-	provider := strings.SplitN(r.Config.ResearchModel, "/", 2)[0]
-	target := provider
-	if provider == "opencode-go" || provider == "opencode" {
-		target = "OpenCode Console"
+	targets := []string{}
+	if selectedProviderKey(command) == "" {
+		target := strings.SplitN(r.Config.ResearchModel, "/", 2)[0]
+		if target == "opencode-go" || target == "opencode" {
+			target = "OpenCode Console"
+		}
+		targets = append(targets, target)
 	}
+	search := r.Config.ResearchWebSearch
+	if search == "" {
+		search = "exa"
+	}
+	if search == "random" {
+		targets = append(targets, "exa", "parallel", "firecrawl", "tavily", "tinyfish")
+	} else {
+		targets = append(targets, search)
+	}
+	for _, target := range targets {
+		if err := importOpenCode2Credential(ctx, binary, command, target); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+// Native scoped exports keep credentials out of environment variables, evidence,
+// and logs. An unconnected search integration exports an empty list.
+func importOpenCode2Credential(ctx context.Context, binary string, command *exec.Cmd, target string) error {
 	export := exec.CommandContext(ctx, binary, "auth", "export", target)
 	// This short native credential read uses the user's normal OpenCode auth. None
 	// of the exported bytes or command diagnostics are public or written to logs.
@@ -60,6 +83,9 @@ func (r Runner) importOpenCode2Auth(ctx context.Context, binary string, command 
 	defer clear(secret)
 	if len(secret) > 1024*1024 || !json.Valid(secret) {
 		return errors.New("OpenCode credential export was invalid")
+	}
+	if bytes.Equal(bytes.TrimSpace(secret), []byte("[]")) {
+		return nil
 	}
 	importer := exec.CommandContext(ctx, command.Path, append(append([]string(nil), command.Args[1:4]...), "auth", "import", "--standalone")...)
 	importer.Env = command.Env

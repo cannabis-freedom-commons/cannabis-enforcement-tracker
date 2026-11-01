@@ -140,8 +140,6 @@ func Load() (Config, error) {
 	if err != nil || c.ResearchMaxSteps < 4 || c.ResearchMaxSteps > 100 {
 		return c, errors.New("invalid research step limit")
 	}
-	// Exa and Parallel answer without an API key; Firecrawl's keyless allowance runs out and Tavily
-	// needs a key, so "random" (OpenCode's own choice among all four) left many searches failing
 	// a subscription such as OpenCode Go: what it costs a month and how much model usage, at API
 	// prices, it includes; the request page shows a run's share of the subscription beside its API
 	// price. 0 for either: no subscription, API prices only

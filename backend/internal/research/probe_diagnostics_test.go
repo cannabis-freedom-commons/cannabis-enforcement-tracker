@@ -98,6 +98,7 @@ func TestProbeRetriesAnEmptySuccessfulStopOnce(t *testing.T) {
 case "$1" in
  --version) printf 'opencode v2.2.0\n';;
  auth) if [ "$2" = export ]; then
+   if [ "$3" != 'OpenCode Console' ]; then printf '[]\n'; exit 0; fi
    n=0; if [ -f '` + counter + `' ]; then n=$(cat '` + counter + `'); fi
    n=$((n+1)); printf '%s' "$n" > '` + counter + `'; printf '{"attempt":%s}' "$n"
   else cat > "$HOME/attempt.json"; fi;;

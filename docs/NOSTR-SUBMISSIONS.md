@@ -47,8 +47,14 @@ agents, plugins, permissions and unrelated provider credentials are not imported
 startup diagnostics and public activity. The provider config stays outside the evidence input.
 `RESEARCH_MODEL` still selects the provider/model; restart the backend after changing either.
 OpenCode 2 uses its native scoped
-`auth export`/`auth import` commands to initialize a private standalone session; credential
-contents never enter logs or `.env`. OpenCode 1 copies only the selected provider from its
+`auth export`/`auth import` commands to initialize a private standalone session. It imports the
+selected model integration and the search integration chosen by `RESEARCH_WEBSEARCH` (default
+`exa`), including credentials saved through `/connect`. With `RESEARCH_WEBSEARCH=random`, it
+imports only the supported search integrations and lets OpenCode switch providers on HTTP 429.
+Unconnected search services retain OpenCode's normal anonymous/availability behavior; a saved
+connection does not remove the provider's account limits. Credential contents never enter logs
+or `.env`. Search credentials are imported even when the model uses an inline provider key.
+OpenCode 1 copies only the selected provider from its
 legacy auth file (`OPENCODE_AUTH_FILE` can override that file). Local mode does not require
 `RESEARCH_API_KEY`. Docker deployments can provide a dedicated provider key.
 On every backend start, the service checks the binary/version and runs a short, no-tool

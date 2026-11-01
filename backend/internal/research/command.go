@@ -130,10 +130,8 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 		cmd.Env = append(cmd.Env, providerKeyEnv+"="+providerKey)
 	}
 	if isV2 {
-		if providerKey == "" {
-			if err = r.importOpenCode2Auth(ctx, binary, cmd); err != nil {
-				return nil, nil, err
-			}
+		if err = r.importOpenCode2Auth(ctx, binary, cmd); err != nil {
+			return nil, nil, err
 		}
 		db := filepath.Join(home, "data", "opencode", "opencode.db")
 		if _, statErr := os.Stat(db); statErr != nil {
