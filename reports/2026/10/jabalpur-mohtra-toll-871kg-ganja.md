@@ -126,6 +126,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: एएनटीएफ की बड़ी कार्रवाई, जबलपुर में 871 किलो गांजा बरामद
+    url: https://www.livehindustan.com/national/story-up-antf-seizes-871-kg-of-cannabis-worth-4-35-crore-in-jabalpur-arrests-two-201793449037840.html
+    publisher: Hindustan
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -175,7 +180,7 @@ said. [@2,10,12] The Uttar Pradesh Narcotics Wing team from Jhansi had been trac
 the container and reached the spot around the same time, he said. [@2]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,15] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1,9,11,12] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1] The 28 sacks were loaded
@@ -186,7 +191,7 @@ were paid ₹1 lakh for each consignment, according to police. [@2,12] Investiga
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15]
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
