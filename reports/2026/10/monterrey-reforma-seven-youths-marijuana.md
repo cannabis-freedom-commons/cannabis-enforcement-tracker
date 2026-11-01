@@ -22,6 +22,16 @@ media:
     media_url: https://img.mvsnoticias.com/vbEy8Qsrv8azETF-MvSNqxfe9u21AML-C7K4lmHuffo/rs:fit:1280:0:0/q:65/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzMzY2NDcyNTcwLTNvc2FvcC5qcGVn
     publisher: MVS Noticias
     caption: 'Three young men with their faces covered stand in front of a wall with Monterrey SSPC and Escudo logos. Photo: Policía de Monterrey'
+  - kind: photo
+    url: https://www.elnorte.com/paseaban-jovenes-en-auto-polarizado-con-dosis-de-cristal/ar3305169
+    media_url: https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/310/6309977.jpg&imagencompleta=1
+    publisher: EL NORTE
+    caption: 'Seven detained youths, including four adolescents, transferred to Monterrey police. Credit: Especial (faces covered by authorities).'
+  - kind: photo
+    url: https://www.elnorte.com/paseaban-jovenes-en-auto-polarizado-con-dosis-de-cristal/ar3305169
+    media_url: https://iphonegr.elnorte.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/310/6309978.jpg&imagencompleta=1
+    publisher: EL NORTE
+    caption: 'Seven detained youths, including four adolescents, transferred to Monterrey police. Credit: Especial (faces covered by authorities).'
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 47c89ab0e0cde8395da0f99f9d8cfa69
@@ -37,6 +47,11 @@ sources:
     publisher: Quadratín Nuevo León
     date: 2026-10-30
     language: es
+  - title: Paseaban jóvenes en auto polarizado con dosis de cristal
+    url: https://www.elnorte.com/paseaban-jovenes-en-auto-polarizado-con-dosis-de-cristal/ar3305169
+    publisher: EL NORTE
+    date: 2026-10-31
+    language: es
 open_questions:
   - No weight was given for the two bags of marijuana, so no kilogram figure is recorded.
   - Milenio called the bags marijuana, while Quadratín described them as herb with the characteristics of marijuana; both agree there were two bags.
@@ -49,6 +64,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Milenio: Officers intercepted a Ford Explorer on Calle Reforma, in the centre of Monterrey, in which the seven men were travelling.'
   - 'Left out, as its quotation was not found in Milenio: Milenio named three adults, Brandon Jahir “N”, 24, Kevin Giovanni “N”, 19, and Fernando David “N”, 18, plus two 16-year-olds and two 17-year-olds.'
   - 'Left out, as its quotation was not found in Milenio: They were taken to Monterrey police premises and handed to the competent authorities.'
+  - EL NORTE's phrase “esta madrugada” in its 31 October account may imply a 31 October arrest, while MVS Noticias and Quadratín place the stop at about 03:20 on 30 October; the reports do not reconcile the date.
+  - 'Left out, as its quotation was not found in Quadratín Nuevo León: Quadratín Nuevo León, citing the police account, described the crystal as a solid substance similar to crystal and the bags as herb with the characteristics of marijuana.'
 ---
 
 The stop was in the early hours of Friday 30 October 2026. [@2] Quadratín Nuevo
@@ -64,9 +81,8 @@ further on. [@1] MVS said the seven men inside were evasive. [@1] The van was
 seized and taken to the official vehicle pound, and the seven were left with the
 Ministerio Público, the public prosecutor’s office, to decide their legal
 position. [@1] MVS also said the authorities seized 40 doses of crystal and two
-bags of marijuana inside the van. [@1]
+bags of marijuana inside the van. [@1,3]
 
 Quadratín named the minors as Cristofer and Byron, both 16, and Osiel and José,
 both 17. [@2] Monterrey police said the operation was part of the Escudo
 strategy. [@2]
-
