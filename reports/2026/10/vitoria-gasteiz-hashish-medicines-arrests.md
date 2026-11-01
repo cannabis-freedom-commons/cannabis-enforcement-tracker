@@ -25,6 +25,11 @@ sources:
     publisher: Ayuntamiento de Vitoria-Gasteiz
     date: 2026-10-30
     language: es
+  - title: Dos detenidos por traficar con hachís y medicamentos en Vitoria
+    url: https://www.noticiasdealava.eus/gasteiz/2026/10/30/detenidos-traficar-hachis-medicamentos-11706879.amp.html
+    publisher: Diario de Noticias de Álava
+    date: 2026-10-30
+    language: es
 open_questions:
   - No weight or quantity of hashish or medicines was published, and the medicines were not identified.
   - No charges, court appearance or sentence was reported for the two men.
@@ -35,7 +40,7 @@ open_questions:
 ---
 
 Two men aged 25 and 27 were arrested in Vitoria-Gasteiz on Thursday 29 October
-2026 on suspicion of trafficking hashish and medicines. [@1] Officers from the
+2026 on suspicion of trafficking hashish and medicines. [@1,3] Officers from the
 city's municipal police, the Policía Local, detained them at 17:41 and 18:27 on
 Calle Barrancal, 46 minutes apart. [@2] Police described both as suspected
 perpetrators of a crime against public health, the offence used for drug
@@ -45,4 +50,3 @@ The arrests came during the local police's evening service. [@2] They were
 recorded in the city council's police and fire-service bulletin, published by
 its communication service on Friday 30 October 2026. [@2] The two detentions
 were made on the same street within the same evening shift. [@2]
-
