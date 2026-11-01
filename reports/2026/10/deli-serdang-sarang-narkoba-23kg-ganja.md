@@ -83,6 +83,9 @@ open_questions:
   - FTNews gives the ganja as 23 kg, rounded from the 23,517.86 grams (23.5 kg) in the report.
   - FTNews describes the remaining suspects only as 'puluhan' (dozens of) users, while the earlier reports give 36.
   - 'Left out, as its quotation was not found in Sumut24.co: Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or dealers, and 36 as users.'
+  - Medan Pos Online's opening paragraph rounds the ganja quantity to 24 kg, while its detailed accounting gives 23,517.86 grams; the detailed weight agrees with the existing report.
+  - Medan Pos Online names eight operation districts, while the existing report's other accounts name nine or ten; the difference in reported coverage remains unresolved.
+  - 'Left out, as its quotation was not found in Medan Pos Online: It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja, 23,010.24 grams of methamphetamine and 42 ecstasy pills.'
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -94,7 +97,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@2,4,6] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
