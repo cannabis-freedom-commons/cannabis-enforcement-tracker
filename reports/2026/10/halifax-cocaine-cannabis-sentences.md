@@ -37,16 +37,21 @@ sources:
     url: https://www.thetelegraphandargus.co.uk/news/26686844.west-yorkshire-drugs-gang-jailed-85-years/
     publisher: Bradford Telegraph and Argus
     date: 2026-10-31
+  - title: Ten men jailed for 85 years over supply of cocaine and cannabis across West Yorkshire
+    url: https://www.gbnews.com/news/yorkshire-ten-men-jailed-drugs
+    publisher: GB News
+    date: 2026-10-31
 open_questions:
   - No total was published for the number of people arrested in the investigation; only Mohammed Hussain's November 2024 arrest is dated.
   - The 20kg of cannabis is the amount recovered when Hussain was arrested, not the total the gang supplied, for which no figure was given.
   - Neither report gives a street value for the cannabis or cocaine seized.
   - West Yorkshire Police's own statement could not be opened, so the account rests on the two newspaper reports.
   - No appeal or confiscation proceedings were reported.
+  - GB News's headline says 85 years, while its body and The Yorkshire Post report more than 85 years; the existing report uses the body figure.
 ---
 
 Ten men were jailed for a combined total of more than 85 years for supplying
-cocaine and cannabis across West Yorkshire. [@1] They were sentenced to
+cocaine and cannabis across West Yorkshire. [@1,3] They were sentenced to
 immediate prison terms at Bradford Crown Court on 30 October 2026, while an 11th
 defendant received a suspended sentence. [@1] Allah Yaar, 35, of Lindley,
 Huddersfield, received the longest term, 14 years and three months, for two
@@ -83,4 +88,3 @@ Detective Inspector Kevin Daly, of West Yorkshire Police's Force Precision team,
 said the investigation was huge and the impact of class A drug supply and use
 devastating. [@1] He said organised crime groups rely on firearms, violence and
 intimidation to control local drug markets. [@1]
-
