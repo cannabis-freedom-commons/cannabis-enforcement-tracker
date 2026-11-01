@@ -42,11 +42,21 @@ sources:
     publisher: إسبانيا بالعربي
     date: 2026-10-30
     language: ar
+  - title: 'Tiger of hashish’ caught in Tangier: alleged drug kingpin who lived in luxury in Madrid arrested after fleeing to Morocco'
+    url: https://www.theolivepress.es/spain-news/2026/11/01/tiger-of-hashish-el-moreno-caught/
+    publisher: The Olive Press
+    date: 2026-11-01
+  - title: Cae uno de los principales narcos españoles, 'el tigre del hachís', fugado en Marruecos
+    url: https://www.heraldo.es/noticias/nacional/2026/10/27/cae-uno-los-principales-narcos-espanoles-tigre-hachis-fugado-marruecos-2063326.html
+    publisher: Heraldo de Aragón
+    date: 2026-10-27
+    language: es
 open_questions:
   - Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost 20'. The report uses 18.
   - El Diario de Málaga describes all 86 detainees as accused of the three offences, while Barlamane says the 18 jailed were charged with them; the figures count 18 as charged.
   - 'The sources differ in emphasis on who made the arrest: Barlamane attributes the announcement to Spain''s National Police and says ''the authorities'' located him, while La Vanguardia says Moroccan authorities detained him through international cooperation. No source says Spanish officers were present.'
   - No extradition date is fixed; La Vanguardia says he could appear before the Audiencia Nacional in about two months.
+  - The Olive Press describes the arrest as happening 'this week' in a report published on 1 November, while the National Police announcement and Spanish coverage date it to 8 October in Tangier; the report keeps 8 October.
 ---
 
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
@@ -54,10 +64,10 @@ Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 Tangier. [@1] He had left his luxury residence in Madrid in March to avoid
 justice and was out of sight for more than six months. [@1] Moroccan authorities
 detained him in Tangier on 8 October through international police cooperation.
-[@3] He is held in Morocco awaiting extradition to Spain. [@1,4] Rabat has
+[@3] He is held in Morocco awaiting extradition to Spain. [@1,4,5] Rabat has
 accepted the extradition request. [@3]
 
-The police operation concluded with 86 arrests. [@2,4] Eighteen of them were
+The police operation concluded with 86 arrests. [@2,4,5] Eighteen of them were
 placed in pre-trial detention, accused of criminal organisation, drug
 trafficking and money laundering. [@1] UDYCO, Spain's central unit for drugs and
 organised crime, opened the case in early 2025. [@1] It uncovered seven drug
@@ -75,3 +85,5 @@ shell companies. [@1] Half of those arrested were Spanish and the rest Moroccan.
 [@3] The case is before the Audiencia Nacional, the Madrid court competent for
 major crime. [@1] Investigating judge Francisco de Jorge has led the case with
 the Special Anti-Drug Prosecutor's Office. [@3]
+
+Javier Ramos, head of the National Police's central drugs and organised crime brigade (UDYCO), said El Moreno had survived a kidnapping attempt and an attempt on his life. [@5] In Madrid, the network hid hashish in houses on residential estates and brought the drugs in through their garages. [@5] He already had a drug-trafficking record and was arrested over similar offences in 2009. [@6]
