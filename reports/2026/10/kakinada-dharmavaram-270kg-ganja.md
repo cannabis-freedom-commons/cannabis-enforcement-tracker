@@ -21,6 +21,11 @@ media:
     media_url: https://assets.hmtvlive.com/h-upload/2026/10/30/481883-prathipadu-270-.webp
     publisher: HMTV
     caption: 'Police officers with white sacks of seized ganja on the roadside at Dharmavaram, two detained men sitting in front and the vehicle behind. Photo: HMTV'
+  - kind: photo
+    url: https://prajasakti.com/districts/guntur/wf-1793372426966
+    media_url: https://prajasakti-publishingdbbucket.sgp1.digitaloceanspaces.com/1793372119960-1793372425848-5bd60a34-e0df-4511-93fc-b1cc89fcf75d-1793372426375-2e5f1d50-792c-408b-a468-c5348725aabf-900x637.webp
+    publisher: Prajasakti
+    caption: Police and other men stand behind sacks of seized ganja during the Dharmavaram operation.
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 76bcce762255e9f16a9fa694660f09d7
@@ -35,6 +40,11 @@ sources:
     url: https://test.uniindia.com/news/south/crime-ap-ganja-seized/4025456.html
     publisher: United News of India
     date: 2026-10-30
+  - title: 'ప్రత్తిపాడులో భారీ గంజాయి ముఠా గుట్టురట్టు : రూ.1.35 కోట్ల విలువైన సరుకు స్వాధీనం'
+    url: https://prajasakti.com/districts/guntur/wf-1793372426966
+    publisher: Prajasakti
+    date: 2026-10-30
+    language: te
 open_questions:
   - HMTV and Andhra Jyothy give the weight as 270.175 kg, while UNI reports 270.750 kg; this report uses the figure carried by the two Telugu accounts.
   - HMTV spells the arrested men's village as Besi Bhupalapatnam, while UNI and Andhra Jyothy give Benna Bhupalapatnam; the report uses the latter.
@@ -45,13 +55,14 @@ open_questions:
   - 'Left out, as its quotation was not found in HMTV: The two were to be produced before a magistrate at Prathipadu, police said.'
   - 'Left out, as its quotation was not found in Andhra Jyothy: The car was coming from Tuni towards Rajamahendravaram when it was checked, Andhra Jyothy reported.'
   - 'Left out, as its quotation was not found in Andhra Jyothy: Police put the value of the haul at Rs 1.35 crore.'
+  - Prajasakti reports 270.750 kg, while HMTV reports 270.175 kg; the weight remains unresolved.
 ---
 
 Prathipadu police, with the district Eagle team, arrested two men and seized
 about 270.175 kg of ganja, the local term for cannabis, from a car on National
 Highway 16 near Dharmavaram in Kakinada district. [@1] The car was a Maruti
-WagonR registered AP-31-BN-9513. [@1] The ganja was packed in eight sacks. [@1]
-Police seized the vehicle and two Aadhaar cards. [@2]
+WagonR registered AP-31-BN-9513. [@1] The ganja was packed in eight sacks. [@1,3]
+Police seized the vehicle and two Aadhaar cards. [@2,3]
 
 The arrested men were Adiraju Naidu and Pothuraju Manikanta alias Swami, both 24
 and from Benna Bhupalapatnam village in Rolugunta mandal of Anakapalli district.
@@ -61,4 +72,3 @@ Sub-Inspector S. Lakshmikantham told reporters the ganja was being taken from
 the agency areas of Odisha, the state's tribal districts, to Maharashtra. [@2] A
 third accused, Jerripothula Vamsikrishna, described by police as the organiser
 of the smuggling, escaped after noticing the police. [@2]
-
