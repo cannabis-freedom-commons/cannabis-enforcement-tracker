@@ -75,10 +75,10 @@ open_questions:
 A 62-year-old American citizen was arrested at Ninoy Aquino International
 Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of
 high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency
-(PDEA) reported. [@1,3,4] The suspect, identified only by the alias “Henry,” had
+(PDEA) reported. [@1,2,3,4] The suspect, identified only by the alias “Henry,” had
 arrived from Bangkok, Thailand, and was intercepted at the airport's customs
 secondary inspection area on Thursday 29 October. [@2] The interception happened
-around 8:35 p.m. [@1]
+around 8:35 p.m. [@1,2]
 
 During secondary screening, customs and anti-narcotics personnel found 15
 vacuum-sealed transparent plastic pouches of dried leaves suspected to be
@@ -93,7 +93,7 @@ The interdiction task group included personnel from PDEA's National Capital
 Region office, the Bureau of Customs Anti-Illegal Drugs Task Force, the PNP
 Aviation Security Group, the Airport Police Department, the PNP Drug Enforcement
 Group, the National Bureau of Investigation, the Bureau of Immigration and the
-Office for Transportation Security. [@1] The suspect remains in custody and
+Office for Transportation Security. [@1,2] The suspect remains in custody and
 faces formal charges for violating Republic Act 9165, the Comprehensive
 Dangerous Drugs Act of 2002. [@1]
 
