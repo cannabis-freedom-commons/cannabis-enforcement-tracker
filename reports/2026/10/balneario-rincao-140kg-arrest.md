@@ -63,6 +63,11 @@ sources:
     publisher: Içara News
     date: 2026-10-31
     language: pt
+  - title: Operação apreende 140 kg de maconha armazenadas para o verão; homem é preso em SC
+    url: https://www.4oito.com.br/noticia/operacao-apreende-140-kg-de-maconha-armazenadas-para-o-verao-homem-e-preso-em-sc-89775
+    publisher: 4oito
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -80,13 +85,13 @@ open_questions:
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,4,5,6] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,4,5,6,7] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
 it was being used as a depot for drugs intended for sale. [@1,5] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
 towards the neighbouring property. [@2,5] A first search found a scale and one
 cannabis tablet; the man admitted the drug was his and said more was stored
-inside. [@1,4,5,6]
+inside. [@1,4,5,6,7]
 
 Officers also seized three precision scales and two mobile phones. [@1,5] The
 Military Police described the man as one of the leaders of a criminal faction
@@ -97,6 +102,6 @@ Several of the tablets carried a printed photograph of President Luiz Inácio
 Lula da Silva beside another man, taped to packages wrapped in green and yellow
 tape; the reason was not explained. [@3] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station in
-Criciúma. [@3,5,6]
+Criciúma. [@3,5,6,7]
 
-The man told police the cannabis was meant to supply drug sales during the summer season in Balneário Rincão, when the town's population rises. [@4,6]
+The man told police the cannabis was meant to supply drug sales during the summer season in Balneário Rincão, when the town's population rises. [@4,6,7]
