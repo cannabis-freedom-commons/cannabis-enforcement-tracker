@@ -51,6 +51,11 @@ sources:
     publisher: Prabhasakshi
     date: 2026-10-31
     language: hi
+  - title: इंदिरा गांधी अंतर्राष्ट्रीय हवाई अड्डे पर 9.33 करोड़ रुपये की हाइड्रोपोनिक गांजा जब्त, दो यात्री गिरफ्तार
+    url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
+    publisher: ETV Bharat
+    date: 2026-10-31
+    language: hi
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -64,19 +69,25 @@ open_questions:
   - The page does not give its own publication date; it says only that officials gave the information on Friday.
   - The only image is labelled with a filename and has no caption identifying it as this seizure, so it was not added as media.
   - The wording matches the same official-statement account already cited and does not independently settle the existing discrepancy over one flight versus two separate flights.
+media:
+  - kind: photo
+    url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28001396-thumbnail-16x9-ganja-aspera.jpg
+    publisher: ETV Bharat
+    caption: 'Two bags of seized hydroponic weed on weighing scales. Photo: ETV Bharat.'
 ---
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7] The seizure was made at Terminal 3. [@3] Both were diverted from the Green
+[@1,4,5,6,7,8] The seizure was made at Terminal 3. [@3] Both were diverted from the Green
 Channel for X-ray screening after profiling. [@3] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,4,5,6,7] The substance was seized under Section
+Psychotropic Substances Act, 1985. [@1,3,4,5,6,7] The substance was seized under Section
 43(a) of the same act. [@1,4,5,6,7]
 
 Officers found 26 polythene pouches of a green substance suspected to be
 marijuana or hydroponic weed. [@2] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7] A diagnostic test indicated prima facie that the substance was
+crore. [@1,4,5,6,7,8] A diagnostic test indicated prima facie that the substance was
 marijuana or hydroponic weed. [@2,5,6,7]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
