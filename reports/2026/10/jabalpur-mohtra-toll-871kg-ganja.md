@@ -117,6 +117,15 @@ sources:
     url: https://www.etvbharat.com/en/state/police-bust-drug-smuggling-racket-in-madhya-pradesh-enn26103104677
     publisher: ETV Bharat
     date: 2026-10-31
+  - title: Container carrying 871kg ganja worth Rs 4.35cr seized in Jabalpur
+    url: https://timesofindia.indiatimes.com/city/bhopal/container-carrying-871kg-ganja-worth-rs-4-35cr-seized-in-jabalpur/articleshow/135408728.cms
+    publisher: The Times of India
+    date: 2026-10-31
+  - title: झांसी एएनटीएफ ने जबलपुर में पकड़ा 871 किलो गांजा, दो तस्कर गिरफ्तार
+    url: https://www.amarujala.com/video/uttar-pradesh/jhansi/crime/video-hansi-antf-seizes-871-kg-of-ganja-in-jabalpur-two-smugglers-arrested-2026-10-31
+    publisher: Amar Ujala
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -139,6 +148,9 @@ open_questions:
   - CG MP News reports a five-day police remand for both suspects; no other opened account confirms the remand or its terms.
   - CG MP News values the consignment at about ₹4 crore, below the ₹4.35 crore figure used in the report.
   - ETV Bharat English says the container left Visakhapatnam on 18 October and was due in Ambala on 19 October before a call from Prabhat Sahu redirected it to Madhya Pradesh, but also that the 28 sacks were loaded on 27 October; the sequence is unclear and does not fit the report's Odisha-to-Maihar route.
+  - Amar Ujala values the 871 kg consignment at ₹1.30 crore, well below the ₹4.35 crore figure used in the report.
+  - Amar Ujala describes 29 sacks loaded in a truck, while the report records 28 sacks hidden among 412 paint cans in a container.
+  - Amar Ujala's page is a video article whose lead image is captioned only with the headline and carries no credit; the video's file address was not available, so no media entry was added.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -147,10 +159,10 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12]
+Dinajpur, West Bengal. [@1,4,7,9,12,13]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11] The container had a
 Nagaland registration number, police said. [@2]
@@ -174,10 +186,12 @@ were paid ₹1 lakh for each consignment, according to police. [@2,12] Investiga
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14]
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
 The container's registration number was NL-01-AC-7191, police said. [@9]
 
 Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10]
+
+Dharamveer Singh had been caught in Odisha before, police said. [@14] The search for Prabhat Sahu, who had fled, was continuing. [@14] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14]
