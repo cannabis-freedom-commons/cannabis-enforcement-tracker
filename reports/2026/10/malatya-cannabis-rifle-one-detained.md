@@ -117,6 +117,11 @@ sources:
     publisher: Erzurum Günebakış
     date: 2026-10-31
     language: tr
+  - title: 'Malatya''da Uyuşturucu Operasyonu: 2 Kilo Esrar Ele Geçirildi'
+    url: https://www.iscihaber.net/malatya/malatyada-uyusturucu-operasyonu-2-kilo-esrar-ele-gecirildi/276877
+    publisher: İşçi Haber
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date for the searches; 30 October 2026 is the date the first accounts were published, so the operation happened on or before that evening.
   - No suspect name, age, district or neighbourhood within Malatya, charge, court date or estimated value for the drugs was published.
@@ -129,6 +134,8 @@ open_questions:
   - The Kars Hakimiyet page's only image is reused as the thumbnail for unrelated stories on the same site, so it could not be confirmed to show this seizure and no media entry was added.
   - This page states the searches were on 30 October 2026, which the report text already records, while an existing open question still says no separate search date was published.
   - The article image is captioned only with the headline and is not confirmed to show this seizure; a second image on the page is a thumbnail for a different Malatya story.
+  - İşçi Haber gives the amount as 2 kg, while the police statement cited in the existing report says 2 kg 50 g; the report keeps the police figure.
+  - İşçi Haber does not mention the unlicensed rifle found in the same search.
 media:
   - kind: photo
     url: https://www.aksiyon.com.tr/malatya-da-sokak-saticilarina-yonelik-baskinda-2-kilo-50-gram-esrar-ve-ruhsatsiz-tufek-bulundu-385109
@@ -138,7 +145,7 @@ media:
 ---
 
 Police in Malatya detained a suspected street-level cannabis dealer after
-searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,17,18,20] The searches turned up 2 kg 50 g of
+searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,17,18,20,21] The searches turned up 2 kg 50 g of
 esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20] The suspect
 was taken into custody and his processing at the police station was continuing.
 [@2,5,8,11]
@@ -160,3 +167,5 @@ The provincial police said the searches took place on 30 October 2026. [@4,10,13
 Police said they detained the suspect on the instructions of the Malatya Chief Public Prosecutor's Office. [@10,17]
 
 The man was detained on the instructions of the Malatya Chief Public Prosecutor's Office, the police said. [@13]
+
+After processing at the police station, the suspect was taken to a detention centre to be referred to court. [@21]
