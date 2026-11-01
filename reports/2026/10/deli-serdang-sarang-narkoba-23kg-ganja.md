@@ -82,6 +82,7 @@ open_questions:
   - The FTNews headline says '23 Gram' where its body says 23 kg.
   - FTNews gives the ganja as 23 kg, rounded from the 23,517.86 grams (23.5 kg) in the report.
   - FTNews describes the remaining suspects only as 'puluhan' (dozens of) users, while the earlier reports give 36.
+  - 'Left out, as its quotation was not found in Sumut24.co: Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or dealers, and 36 as users.'
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
