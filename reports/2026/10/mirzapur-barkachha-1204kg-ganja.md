@@ -37,6 +37,16 @@ media:
     media_url: https://static.newstrack.com/h-upload/2026/10/31/2060528-mirzapur-9.webp
     publisher: Newstrack
     caption: 'Lead photo published with the report, captioned ''Rs 60 crore worth of ganja recovered from truck, two smugglers arrested''; the article text gives the value as ₹6 crore. Photo: Newstrack'
+  - kind: photo
+    url: https://www.amarujala.com/video/uttar-pradesh/mirzapur/video-two-interstate-smugglers-arrested-with-cannabis-worth-six-crore-rupees-2026-10-31
+    media_url: https://posterimage.amarujala.com/1XncOpF.0000000.jpg?w=674&dpr=1.0&q=80
+    publisher: Amar Ujala
+    caption: Amar Ujala preview image captioned as showing two interstate smugglers arrested with cannabis; no photo credit listed.
+  - kind: video
+    url: https://www.amarujala.com/video/uttar-pradesh/mirzapur/video-two-interstate-smugglers-arrested-with-cannabis-worth-six-crore-rupees-2026-10-31
+    media_url: https://www.youtube.com/embed/1XncOpF
+    publisher: Amar Ujala
+    caption: Amar Ujala video report about the two arrests and cannabis seizure; no video credit listed.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ed23a692cf816ca6f5e144e869c7b064
@@ -72,6 +82,11 @@ sources:
     publisher: Newstrack
     date: 2026-10-31
     language: hi
+  - title: छह करोड़ के गांजा के साथ दो अंतरराज्यीय तस्कर गिरफ्तार;VIDEO
+    url: https://www.amarujala.com/video/uttar-pradesh/mirzapur/video-two-interstate-smugglers-arrested-with-cannabis-worth-six-crore-rupees-2026-10-31
+    publisher: Amar Ujala
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -82,6 +97,7 @@ open_questions:
   - Patrika gives the truck's registration as MP 09 HH 8980, while the existing report gives MP 09 HH 8908; the report keeps 8908.
   - 'Left out, as its quotation was not found in Patrika News: Police valued the consignment at about ₹6 crore, or 60 million rupees.'
   - Newstrack's photo caption in the page metadata gives the value as 'Rs 60 crore', while its headline and article text say six crore rupees; the report uses ₹6 crore.
+  - Amar Ujala values the consignment at ₹6 crore, while Bharat Samachar estimates ₹4–5 crore; the value remains disputed.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
@@ -90,7 +106,7 @@ from Madhya Pradesh's Mauganj district. [@3,6] The arrests came during a vehicle
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3] Officers stopped truck MP 09 HH 8908 during the
 check. [@3] A search found 1,204 kg of ganja, the Hindi word for cannabis,
-hidden under sacks of coconuts. [@3] Police valued the consignment at about ₹6
+hidden under sacks of coconuts. [@1,3,7] Police valued the consignment at about ₹6
 crore, or 60 million rupees. [@4,6] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
