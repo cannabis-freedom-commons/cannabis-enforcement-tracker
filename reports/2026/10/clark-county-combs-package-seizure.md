@@ -31,6 +31,10 @@ sources:
     url: https://www.wkyt.com/2026/10/31/clark-county-woman-arrested-after-package-marijuana-delivered-home/
     publisher: WKYT
     date: 2026-10-31
+  - title: Kentucky woman arrested after 37 lbs. of packaged marijuana delivered to home
+    url: https://www.lex18.com/videos/news/covering-kentucky/kentucky-woman-arrested-after-37-lbs-of-packaged-marijuana-delivered-to-home
+    publisher: LEX 18 News
+    date: 2026-10-31
 open_questions:
   - The reports do not say whether the 136 pounds (61.7 kg) of marijuana seized includes the 37-pound (16.8 kg) mailed package.
   - No court date, plea, lawyer or outcome is reported.
@@ -42,11 +46,12 @@ open_questions:
   - WKYT calls the unit the Gateway Drug Task Force, not the Gateway Area Drug Task Force.
   - WKYT says only that the arrest was on Thursday and does not give the calendar date.
   - The WKYT page has an embedded video player, but no recoverable video address and no captioned photo of the seizure.
+  - The LEX 18 capture has no readable transcript or event-specific video; its headline is the only event-specific text.
 ---
 
 Clark County deputies arrested Kristina Combs on Thursday 29 October 2026 after
 she signed for a 37-pound (16.8 kg) package of marijuana delivered to her home.
-[@2,3] The package had been intercepted by Lexington police and was addressed to
+[@2,3,4] The package had been intercepted by Lexington police and was addressed to
 the home in Clark County, Kentucky. [@1] Officers from the Gateway Area Drug
 Task Force, the Clark County Sheriff's Office and Mount Sterling police
 delivered it themselves, and Combs signed for it. [@1,3] Officers then executed a
