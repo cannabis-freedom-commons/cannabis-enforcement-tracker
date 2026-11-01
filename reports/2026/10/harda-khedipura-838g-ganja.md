@@ -31,28 +31,37 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-01
     language: hi
+  - title: खेड़ीपुरा में पुलिस ने 838 ग्राम गांजा किया जब्त, 28 वर्षीय युवक गिरफ्तार
+    url: https://anokhateer.com/archives/149708
+    publisher: अनोखा तीर
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'The two reports differ on the court appearance: one mentions a Sunday court date, while the fuller report says he was produced on Saturday evening and sent to jail.'
   - Both accounts are from Dainik Bhaskar, and the submitted report was paywalled after its opening lines; no independent outlet report was found.
   - No photograph of the arrest or the seized cannabis was published.
   - Police said a narcotics case was already registered against him, but the reports give no details of that case or its outcome.
   - The reports do not say whether a charge sheet was filed or what sentence he faces.
+  - Anokha Teer describes the night as the intervening night of 30 and 31 October; the report keeps 30 October as the date of the arrest.
+  - The new account does not mention the court appearance or the jail remand reported by Dainik Bhaskar.
+  - The page's only image is captioned '28' with no credit and could not be identified from the page, so no photo was added.
 ---
 
 Civil Lines police in Harda arrested a man on the night of 30 October 2026,
-catching him behind a cemetery in Khedipura where he stood by a power pole. [@2]
+catching him behind a cemetery in Khedipura where he stood by a power pole. [@2,3]
 Police identified him as Vicky Chauhan, 28, a resident of the Khedipura bypass.
-[@2] They said a narcotics trafficking case had already been registered against
-him. [@2]
+[@2,3] They said a narcotics trafficking case had already been registered against
+him. [@2,3]
 
-A search found 838 g of ganja on him. [@2] Police put the value of the seized
-cannabis at about ₹13,000. [@1] They registered a case against him under the
-Narcotics Drugs and Psychotropic Substances Act. [@2] He was produced in court,
+A search found 838 g of ganja on him. [@2,3] Police put the value of the seized
+cannabis at about ₹13,000. [@1,3] They registered a case against him under the
+Narcotics Drugs and Psychotropic Substances Act. [@2,3] He was produced in court,
 which sent him to jail. [@2]
 
 The Civil Lines station said the arrest came during a campaign against illegal
-drugs and that officers raided the Khedipura spot. [@1] Station house officer
+drugs and that officers raided the Khedipura spot. [@1,3] Station house officer
 R.S. Tiwari said officers acted on an informer's tip. [@2] The arrest was made
 in the Civil Lines police station area of Harda. [@2] Police described him as a
 seasoned ganja smuggler. [@1]
 
+Police said further investigation into the case was under way. [@3]
