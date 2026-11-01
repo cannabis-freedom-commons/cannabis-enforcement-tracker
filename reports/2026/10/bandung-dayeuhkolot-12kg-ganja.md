@@ -104,6 +104,11 @@ sources:
     publisher: Jabar News
     date: 2026-10-31
     language: id
+  - title: Polisi Bongkar Penyelundupan 12 Kg Ganja di Bandung, Tersangka Diduga Konsumsi Ganja Lewat Teh
+    url: https://salingkamedia.com/polisi-bongkar-penyelundupan-12-kg-ganja-di-bandung-tersangka-diduga-konsumsi-ganja-lewat-teh/
+    publisher: Salingka Media
+    date: 2026-10-31
+    language: id
 open_questions:
   - IDN Times reported the payment as Rp2 million per kilogram, while RRI quoted police saying the Rp2 million was for the whole delivery.
   - RRI described the seizure as 'more than 12 kilograms'; this report uses the 12 kilograms given by police and IDN Times.
@@ -123,6 +128,8 @@ open_questions:
   - Jabar News places the rented room in Kampung Citamiang Kidul, Desa Cangkuang Kulon; IDN Times names Kampung Cikanyang Kidul, while RRI specifies only Dayeuhkolot.
   - 'The weight accounts differ: Jabar News says about 12 kg, IDN Times says 12 kg, and RRI says more than 12 kg; the existing report records 12 kg and leaves the RRI discrepancy open.'
   - 'Left out, as its quotation was not found in IDN Times Jabar: Police in Kabupaten Bandung arrested a man they identified as AR, 27, on suspicion of dealing cannabis.'
+  - Salingka Media reports that, after Law No. 1 of 2026, Articles 114(2) and 111(2) carry the death penalty, life imprisonment or up to 20 years, with the maximum fine increased by one-third; the report records up to 20 years and a maximum fine of Rp10 billion, following other outlets.
+  - Salingka Media gives Tri Suhartanto the rank of Inspector and calls him head of the Bandung district police, while the report and other outlets call him Bandung police chief Commissioner.
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on
@@ -141,16 +148,16 @@ Police said AR was paid Rp2 million for the job. [@2,5] IDN Times reported the
 payment as Rp2 million for each kilogram he distributed. [@1] AR told police
 this was his second run; on the first he carried a suitcase with about 6
 kilograms of cannabis. [@2] Police said he also consumed cannabis, brewing it as
-a tea. [@2,4,7,9] He told them he had not drunk the brew before officers arrived. [@2]
+a tea. [@2,4,7,9,10] He told them he had not drunk the brew before officers arrived. [@2]
 
 Police charged AR under Articles 114(2) and 111(2) of the 2009 Narcotics Law.
-[@1,3,4,5,6,7] The offences carry up to 20 years in prison and a maximum fine of Rp10
-billion. [@1,2]
+[@1,3,4,5,6,7,10] The offences carry up to 20 years in prison and a maximum fine of Rp10
+billion. [@1,2,3]
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on suspicion of dealing cannabis. [@3] Officers seized 12 kilograms of cannabis that police said had been sent from Medan and secured in the Kiaracondong area. [@3] He said AR was suspected of planning to send the cannabis to someone inside a prison, known in Indonesia as a lapas. [@3] Police said they were still investigating the distribution route and others involved. [@3] Police said he also consumed cannabis, brewing it as a tea. [@3] The offences carry up to 20 years in prison and a maximum fine of Rp10 billion. [@3]
 
-Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at about 04:00 on Thursday 29 October 2026. [@4,5,6,7] There they found a purple suitcase holding 12 packages of cannabis weighing about 12 kilograms. [@4,5,6,7] Police suspect a man identified as ALF alias BU controlled the distribution from inside a lapas, an Indonesian prison. [@4,5,6,7] AR told police that ALF alias BU ordered him to collect and store the cannabis packages. [@4,5] Police estimated the market value of the 12 kilograms at Rp250 million. [@4,5,6,7]
+Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at about 04:00 on Thursday 29 October 2026. [@4,5,6,7,10] There they found a purple suitcase holding 12 packages of cannabis weighing about 12 kilograms. [@4,5,6,7,10] Police suspect a man identified as ALF alias BU controlled the distribution from inside a lapas, an Indonesian prison. [@4,5,6,7,10] AR told police that ALF alias BU ordered him to collect and store the cannabis packages. [@4,5,10] Police estimated the market value of the 12 kilograms at Rp250 million. [@4,5,6,7,10]
 
 At the rented room, officers found two black plastic bags and a teapot holding dried stems and branches believed to be cannabis, one rolled joint and a red iPhone. [@5] Police put ALF alias BU, the suspected controller, on their wanted list and said they were hunting him. [@5]
 
-The arrest took place at about 19:00 on 28 October 2026. [@6,7,8]
+The arrest took place at about 19:00 on 28 October 2026. [@6,7,8,10]
