@@ -46,6 +46,11 @@ sources:
     publisher: NewsMeter Telugu
     date: 2026-10-31
     language: te
+  - title: ஹைதராபாத் சொகுசு பண்ணை வீட்டில் கஞ்சா, மதுவுடன் விருந்து.. 108 மாணவ, மாணவிகள் சிக்கினார்கள்
+    url: https://tamil.oneindia.com/news/hyderabad/party-with-ganja-and-alcohol-at-a-hyderabad-farmhouse-108-students-caught-842033.html
+    publisher: Oneindia Tamil
+    date: 2026-10-31
+    language: ta
 open_questions:
   - The reports say the 108 students were caught and that a case was registered, but they do not name anyone or say how many were formally arrested, charged or later produced in court.
   - No separate figure was given for how much liquor was seized, only that students were consuming it without permission.
@@ -59,6 +64,9 @@ open_questions:
   - The Andhrajyothy page's photographs are generic ganja and liquor images and a headline graphic, not pictures of the raid, so no media was added from it.
   - The NewsMeter page's only article illustration is a posed picture of hands holding glasses of beer, not a photograph of the raid, so no media was added from it.
   - 'Left out, as its quotation was not found in NewsMeter Telugu: On Friday, 30 October 2026, police and the Special Operations Team raided LG Farmhouse at Kammeta village, under Chevella police station limits on the outskirts of Hyderabad, after what police called credible information.'
+  - The Tamil Oneindia account says three students, including the organiser, tested positive for ganja, while the report's text records four positives from the Siasat and Hindu accounts.
+  - The Tamil Oneindia page gives no photographer or agency credit for its two photographs, which appear to match the Siasat picture set already used for this raid, so no separate media entry was added.
+  - 'Left out, as its quotation was not found in Oneindia Tamil: Chevella Police Station Inspector Narendra Reddy said a case had been registered in connection with the incident and that a detailed investigation was under way.'
 ---
 
 On Friday, 30 October 2026, police and the Special Operations Team raided LG
@@ -66,7 +74,7 @@ Farmhouse at Kammeta village, under Chevella police station limits on the
 outskirts of Hyderabad, after what police called credible information. [@1,4]
 Officers found 108 students from ICFAI and IBS colleges consuming liquor without
 the permissions required for the gathering. [@1,5] Of those caught at the
-farmhouse, 71 were boys and 37 were girls. [@1,5] Telangana excise rules require
+farmhouse, 71 were boys and 37 were girls. [@1,5,6] Telangana excise rules require
 permission before liquor is served at a private event, including a party at a
 farmhouse, and a breach can be acted on under those laws. [@2]
 
@@ -86,3 +94,5 @@ A man named Mannan, who had earlier organised a freshers’ day party at ICFAI U
 The organiser, Mannan, was taken into custody, and police said they were investigating where the drugs came from and who brought them. [@4]
 
 Police said they would act against drugs, unauthorised parties and other unusual activity at farmhouses. [@5]
+
+Police registered the case under the Narcotic Drugs and Psychotropic Substances Act and the Excise Act. [@6] Police said the students who tested positive for ganja were instructed to join a treatment and counselling programme for de-addiction. [@6]
