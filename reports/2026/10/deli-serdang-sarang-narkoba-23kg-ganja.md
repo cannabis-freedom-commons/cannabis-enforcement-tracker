@@ -36,6 +36,11 @@ media:
     media_url: https://ftnews.co.id/storage/comp/900x500/img-20261031-164620-311020267.webp
     publisher: FTNews.co.id
     caption: 'Deli Serdang police chief Kombes Muhammad and officers display the seized drugs at the operation''s press conference. Photo: Dok Istimewa / FTNews.co.id'
+  - kind: photo
+    url: https://medan.tribunnews.com/sumut-terkini/1817607/polresta-deli-serdang-ringkus-57-tersangka-narkoba-dalam-20-hari-sita-puluhan-kilogram-barang-bukti
+    media_url: https://asset.tribunnews.com/kW73wVEJhhuEEBmAUBj7QEm5sNc=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Bandar-Para-Pengedar-Narkotika-Ditangkapi-Satnarkoba-Polresta-Deli-Serdang-20-Hari-57-Tersangka.jpg
+    publisher: Tribun Medan
+    caption: 'Deli Serdang police chief Kombes Pol Muhammad, holding a loudspeaker, with narcotics unit head Kompol Fery Kusnadi and other officers at the press conference where the seized drugs were displayed. Photo: Tribun Medan'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -71,6 +76,11 @@ sources:
     publisher: Kompasnusa.net
     date: 2026-10-30
     language: id
+  - title: Polresta Deli Serdang Ringkus 57 Tersangka Narkoba dalam 20 Hari, Sita Puluhan Kilogram Barang Bukti
+    url: https://medan.tribunnews.com/sumut-terkini/1817607/polresta-deli-serdang-ringkus-57-tersangka-narkoba-dalam-20-hari-sita-puluhan-kilogram-barang-bukti
+    publisher: Tribun Medan
+    date: 2026-10-30
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -86,10 +96,11 @@ open_questions:
   - Medan Pos Online's opening paragraph rounds the ganja quantity to 24 kg, while its detailed accounting gives 23,517.86 grams; the detailed weight agrees with the existing report.
   - Medan Pos Online names eight operation districts, while the existing report's other accounts name nine or ten; the difference in reported coverage remains unresolved.
   - 'Left out, as its quotation was not found in Medan Pos Online: It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja, 23,010.24 grams of methamphetamine and 42 ecstasy pills.'
+  - Tribun Medan gives the methamphetamine total as 23.1 kg and the second cannabis lot as 9.4 kg, while the report's earlier sources give 23,010.24 grams and 9,046 grams; the article's two lots (14.4 kg and 9.4 kg) sum to 23.8 kg, above its own 23.5 kg total.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -97,13 +108,13 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
 The results were presented at Deli Serdang police headquarters on Friday 30
 October 2026 by police chief Kombes Pol Muhammad, with the head of the Deli
-Serdang narcotics agency (BNNK) beside him. [@1,4] Representatives of the Deli
+Serdang narcotics agency (BNNK) beside him. [@1,4,7] Representatives of the Deli
 Serdang regent, the Lubuk Pakam district court and prosecutor's office, and
 airport security attended. [@1,4] The police chief said the operation was part of
 the national police chief's programme to suppress drug trafficking and restore
