@@ -168,6 +168,11 @@ sources:
     publisher: Kayseri Gürhaber
     date: 2026-10-31
     language: tr
+  - title: 'Antalya’da 7,5 Kilo Esrar Ele Geçirildi: 1 Tutuklama'
+    url: https://www.memleket.com.tr/antalyada-75-kilo-esrar-ele-gecirildi-1-tutuklama-2366383h.htm
+    publisher: Memleket
+    date: 2026-11-01
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -200,17 +205,17 @@ open_questions:
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11,12,13,14,15,17,19,20] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24] The pair were referred to the
+city. [@1,4,8,9,10,11,12,13,14,15,17,19,20,25] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20,25] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,25] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21]
+substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21,25]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20] Sabah reported that it followed intelligence that the
+police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20,25] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
-the operation and the material seized in the searches. [@1,7,8,10,16,19,20]
+the operation and the material seized in the searches. [@1,7,8,10,16,19,20,25]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23,25]
