@@ -55,6 +55,10 @@ sources:
     url: https://timesofindia.indiatimes.com/city/hyderabad/cops-raid-farmhouse-pool-party-of-university-students-book-3-for-ganja-abuse/articleshow/135373050.cms
     publisher: The Times of India
     date: 2026-10-30
+  - title: 'Hyderabad: Police raid party of 108 people; 3 test positive for ganja consumption'
+    url: https://www.thenewsminute.com/telangana/hyderabad-police-raid-party-of-108-people-3-test-positive-for-ganja-consumption
+    publisher: The News Minute
+    date: 2026-10-31
 open_questions:
   - The reports say the 108 students were caught and that a case was registered, but they do not name anyone or say how many were formally arrested, charged or later produced in court.
   - No separate figure was given for how much liquor was seized, only that students were consuming it without permission.
@@ -76,6 +80,8 @@ open_questions:
   - The Times of India places the raid around 2 pm on Friday, while The Hindu describes it as Friday night.
   - The Times of India says the organiser shared the venue details on Friday morning, while the report's earlier account says he sent the location at the last minute.
   - The Times of India's only image on the page is captioned with the headline and carries no credit, so no photo of the raid was added from it.
+  - The News Minute reports three students, including the organiser, tested positive for ganja, while the report's text records four positives from The Hindu and The Siasat Daily.
+  - The News Minute's only article image is a stock rave-party photo from Pixabay, not a picture of the raid, so no media was added from it.
 ---
 
 On Friday, 30 October 2026, police and the Special Operations Team raided LG
@@ -83,7 +89,7 @@ Farmhouse at Kammeta village, under Chevella police station limits on the
 outskirts of Hyderabad, after what police called credible information. [@1,4]
 Officers found 108 students from ICFAI and IBS colleges consuming liquor without
 the permissions required for the gathering. [@1,5] Of those caught at the
-farmhouse, 71 were boys and 37 were girls. [@1,2,5,6] Telangana excise rules require
+farmhouse, 71 were boys and 37 were girls. [@1,2,5,6,8] Telangana excise rules require
 permission before liquor is served at a private event, including a party at a
 farmhouse, and a breach can be acted on under those laws. [@2]
 
@@ -95,7 +101,7 @@ with seven cars, three motorcycles and 70 mobile phones from the premises. [@1,4
 
 Chevella Police Station Inspector Narendra Reddy said a case had been registered
 in connection with the incident and that a detailed investigation was under way.
-[@1,3,5] He said further legal action would be taken in accordance with the law.
+[@1,3,5,8] He said further legal action would be taken in accordance with the law.
 [@2]
 
 A man named Mannan, who had earlier organised a freshers’ day party at ICFAI University (IBS) in Dontanpally, Shankarpally mandal, advertised on Instagram that a party would be held on 30 October at a farmhouse in Chevella mandal and collected 1,000 to 2,000 rupees from each person. [@3] He kept the venue secret and sent the farmhouse location only at the last minute to those who had paid. [@3]
@@ -104,6 +110,6 @@ The organiser, Mannan, was taken into custody, and police said they were investi
 
 Police said they would act against drugs, unauthorised parties and other unusual activity at farmhouses. [@5]
 
-Police registered the case under the Narcotic Drugs and Psychotropic Substances Act and the Excise Act. [@6,7] Police said the students who tested positive for ganja were instructed to join a treatment and counselling programme for de-addiction. [@6,7]
+Police registered the case under the Narcotic Drugs and Psychotropic Substances Act and the Excise Act. [@6,7,8] Police said the students who tested positive for ganja were instructed to join a treatment and counselling programme for de-addiction. [@6,7,8]
 
 Police raided the farmhouse around 2 pm on Friday after a tip-off about an unauthorised pool party, inspector K Narender Reddy said. [@7] Three students, including the organiser, were booked in the case. [@7] The organiser was a 24-year-old undergraduate. [@7]
