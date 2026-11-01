@@ -26,6 +26,7 @@ open_questions:
   - The report says the dog alerted handlers to packages bound for shipment; the Daily Tribune and Abante Tonite accounts say only that a K9-assisted inspection was conducted and do not describe an alert.
   - The submitted page is the AMP edition of the Daily Tribune article already cited in the report, so it is the same account rather than independent corroboration.
   - Abante Tonite describes the haul as worth more than PHP 30,000, while the Daily Tribune says approximately PHP 30,000; the report keeps the approximate figure.
+  - The Inquirer places the courier hub in San Pablo City, Laguna, while the Daily Tribune and Abante Tonite accounts cited in the existing report place it in Barangay San Vicente, San Pedro City; the report keeps San Pedro City.
 sources:
   - title: Drug-sniffing dog uncovers marijuana shipment in Laguna
     url: https://tribune.net.ph/2026/10/31/drug-sniffing-dog-uncovers-marijuana-shipment-in-laguna
@@ -40,6 +41,11 @@ sources:
     url: https://tribune.net.ph/amp/story/2026/10/31/drug-sniffing-dog-uncovers-marijuana-shipment-in-laguna
     publisher: Daily Tribune
     date: 2026-10-31
+  - title: PDEA intercepts suspected marijuana shipment at Laguna courier hub
+    url: https://newsinfo.inquirer.net/2334063/pdea-intercepts-suspected-marijuana-shipment-at-laguna-courier-hub
+    publisher: INQUIRER.net
+    date: 2026-11-01
+    language: en
 media:
   - kind: photo
     url: https://tribune.net.ph/2026/10/31/drug-sniffing-dog-uncovers-marijuana-shipment-in-laguna
@@ -56,9 +62,9 @@ detection dog. [@1,2,3]
 The dog alerted handlers to packages bound for shipment. [@1,2] Agents recovered
 28 transparent sachets and 12 resealable sachets of suspected dried marijuana,
 a heat-sealed bag of suspected high-grade marijuana known as kush, two suspected
-marijuana brownies and a vape cartridge believed to contain marijuana oil. [@1,2,3]
+marijuana brownies and a vape cartridge believed to contain marijuana oil. [@1,2,3,4]
 PDEA put the total at about 250 grams with an estimated value of PHP 30,000. [@1,2]
 
 The seized material was taken to PDEA Regional Office 4A for documentation and
-inventory. [@1,2,3] The agency said investigators were tracing who sent the parcels
+inventory. [@1,2,3,4] The agency said investigators were tracing who sent the parcels
 and where they were headed, and had not announced any arrests or charges. [@1,2,3]
