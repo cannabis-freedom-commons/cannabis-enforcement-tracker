@@ -22,6 +22,11 @@ media:
     media_url: https://www.salampapua.com/assets/berita/7d6444d75e2a932adfa2fcfbc959b820.jpg
     publisher: Salam Papua
     caption: 'Mimika police chief AKBP Alredo Agustinus Rumbiak leads the press conference on the destruction of the seized methamphetamine and cannabis in Timika. Photo: salampapua.com/Acik'
+  - kind: photo
+    url: https://galeripapua.com/polres-mimika-bongkar-empat-kasus-narkotika-barang-bukti-dimusnahkan/
+    media_url: https://galeripapua.com/wp-content/uploads/2026/10/IMG-20261030-WA0030-800x450.jpg
+    publisher: Galeripapua.com
+    caption: 'Narcotics evidence being destroyed during a press conference at Mimika police headquarters. Photo: Istimewa'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e871d3af85c8e7990d4535d2f3d02509
@@ -42,6 +47,11 @@ sources:
     publisher: Jurnal Papua
     date: 2026-10-30
     language: id
+  - title: Polres Mimika Bongkar Empat Kasus Narkotika, Barang Bukti Dimusnahkan
+    url: https://galeripapua.com/polres-mimika-bongkar-empat-kasus-narkotika-barang-bukti-dimusnahkan/
+    publisher: Galeripapua.com
+    date: 2026-10-30
+    language: id
 open_questions:
   - Salam Papua describes four suspects in three linked cases, while Koreri and Jurnal Papua report four separate cases; this report follows the two accounts that give four arrest dates.
   - Koreri dates the press conference to Thursday 29 October 2026, while Salam Papua and Jurnal Papua date it to Friday 30 October; this report uses 30 October.
@@ -55,6 +65,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Koreri.com: The first methamphetamine suspect, MRM, was arrested at a Lion Parcel courier office on Jalan Hasanuddin on 16 September 2026.'
   - 'Left out, as its quotation was not found in Koreri.com: M was arrested on Jalan Seriti, SP4 Jalur 7, on 22 September 2026.'
   - 'Left out, as its quotation was not found in Koreri.com: MA was arrested on Jalan Cenderawasih, SP3, on 6 October 2026.'
+  - Salam Papua describes three related cases, while Galeripapua describes four; the reports do not resolve how the cases were grouped.
 ---
 
 All four were charged under Indonesia's 2009 narcotics law and the 2023 criminal
@@ -64,14 +75,15 @@ said he was arrested after collecting a package they believed contained ganja.
 
 At a press conference at Mimika police headquarters on Jalan Agimuga on Friday
 30 October 2026, police chief AKBP Alredo Agustinus Rumbiak announced the
-destruction. [@3] Police said they destroyed 147.46 grams of ganja (cannabis)
-and 158.2531 grams of sabu (crystal methamphetamine). [@1] The cannabis had
+destruction. [@3,4] Police said they destroyed 147.46 grams of ganja (cannabis)
+and 158.2531 grams of sabu (crystal methamphetamine). [@1,4] The cannabis had
 weighed 149.46 grams net, with one gram each set aside for laboratory testing
 and for court. [@2] The methamphetamine came from the three other cases and
 weighed 163.3322 grams net. [@2] Police valued the cannabis at Rp45 million and
-the methamphetamine at Rp475 million. [@3]
+the methamphetamine at Rp475 million. [@1,3]
 
 Police named two wanted men, A and M.S. alias M. [@3] They said M.S., in
 Jayapura, had supplied the cannabis to YM and was still under investigation.
 [@2]
 
+The first case began at a Lion Parcel courier office on Jalan Hasanuddin in Timika on 16 September 2026. [@4] Police arrested M.R.M. alias S, suspected of acting as an intermediary in a methamphetamine sale through a courier service. [@4] Police arrested M alias A on Jalan Seriti, SP 4 Jalur 7, in Timika on 22 September 2026. [@4] Police arrested M.A. alias A on Jalan Cendrawasih, SP 3, Timika, on 6 October 2026. [@4] Police uncovered the fourth case outside the post office on Jalan Yos Sudarso, Timika, at about 15:30 on 9 October 2026. [@4]
