@@ -36,6 +36,11 @@ sources:
     publisher: Le Défi Media Group
     date: 2026-10-29
     language: fr
+  - title: Deux policiers de la NCG arrêtés dans une affaire de cannabis
+    url: https://defimedia.info/deux-policiers-de-la-ncg-arretes-dans-une-affaire-de-cannabis
+    publisher: Le Défi Media Group
+    date: 2026-11-01
+    language: fr
 open_questions:
   - The reports do not name the constable or the second coast guard member arrested.
   - No court date or outcome was reported after the provisional charge.
@@ -43,6 +48,16 @@ open_questions:
   - Le Défi's follow-up says the cannabis was found in a search of the constable's Mercedes, while Le Mauricien describes a handover to undercover officers beside the car.
   - No police statement or court record was found; the account rests on the two Mauritian newspapers.
   - The only photograph on the Le Mauricien article shows the ADSU headquarters building in Mahébourg, not the arrest, so no event photo is listed.
+  - Le Défi values the 2.10 grams of cannabis at Rs 6,300, while Le Mauricien reported a police estimate of Rs 1,500.
+  - Le Défi says Pydegadu was provisionally charged with drug dealing (trafic de drogue) at the Mahébourg court on 29 October, while Le Mauricien reported a charge of possession of cannabis for the purpose of selling.
+  - No report says whether Gerald Steeven Bagboot has been charged or when he is due in court.
+  - Le Défi links the arrests to a separate investigation into National Coast Guard members over the alleged importation of 1.5 tonnes of cannabis from Thailand, an event left out of this report.
+media:
+  - kind: photo
+    url: https://defimedia.info/deux-policiers-de-la-ncg-arretes-dans-une-affaire-de-cannabis
+    media_url: https://files.defimedia.info/sites/default/files/2026-11/011126_policier.jpg
+    publisher: Le Défi Media Group
+    caption: Yeshvin Venkatesh Pydegadu (left) and Gerald Steeven Bagboot, the two arrested National Coast Guard officers, in police custody.
 ---
 
 A 21-year-old National Coast Guard constable was arrested in Mahébourg on
@@ -53,14 +68,15 @@ cannabis. [@1] The officers then identified themselves and arrested him. [@1]
 
 The cannabis weighed 2.10 grams and police valued it at Rs 1,500. [@1] Officers
 also found Rs 3,800 on the suspect. [@1] Investigators suspect the money came
-from drug sales. [@1] A search of his home in Mahébourg found nothing. [@1]
+from drug sales. [@1,4] A search of his home in Mahébourg found nothing. [@1]
 Police nonetheless requisitioned his vehicle for the investigation. [@1] His
-mobile phone was also seized. [@2] He was placed in police detention. [@2]
+mobile phone was also seized. [@2] He was placed in police detention. [@2,4]
 
 He was provisionally charged with possession of cannabis for the purpose of
 selling. [@1] The inquiry is led by Sergeants Valsada and Ramessur under
 Assistant Superintendent of Police Sooknah. [@2] ADSU arrested a second National
-Coast Guard member in the same investigation on Thursday 29 October. [@3]
+Coast Guard member in the same investigation on Thursday 29 October. [@3,4]
 Investigators are examining the two coast guard members' suspected involvement
 in possible cannabis trafficking in the south of the island. [@3]
 
+The two are Yeshvin Venkatesh Pydegadu, 21, a recruit posted to the Chaland post, and Gerald Steeven Bagboot, 34, a constable at the Bois-des-Amourettes post. [@4] Police suspect they acted in collusion. [@4] Bagboot lives at Beau-Champ and has 14 years' service. [@4] Bagboot was arrested after Pydegadu made allegations about where the cannabis came from. [@4]
