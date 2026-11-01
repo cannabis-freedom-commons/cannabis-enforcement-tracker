@@ -527,5 +527,57 @@
       "https://dec.alaska.gov/media/6319/aiacp-9770-northslope-westernak.pdf",
       "https://akenergygateway.alaska.edu/explore/communities/klawock/general"
     ]
+  },
+  {
+    "file": "reports/2026/10/punta-arenas-resin-parcel-1620g.md",
+    "country": "cl",
+    "place": "Punta Arenas, Magallanes",
+    "coordinates": [
+      -53.1626,
+      -70.9078
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The pin is the OpenStreetMap city reference for Punta Arenas. The city stands on the Brunswick Peninsula beside the Strait of Magellan, and Natural Earth's simplified land polygon places the point outside mapped land; the sources name the city, not an exact address.",
+    "evidence": [
+      "https://www.itvpatagonia.com/noticias/policial-tribunales/08-10-2026/pdi-incauta-16-kilos-de-resina-de-cannabis-y-detiene-a-hombre-en-punta-arenas/",
+      "https://nominatim.openstreetmap.org/search?q=Punta+Arenas%2C+Chile&format=jsonv2&limit=3"
+    ]
+  },
+  {
+    "file": "reports/2026/09/punta-arenas-delivery-five-held.md",
+    "country": "cl",
+    "place": "Punta Arenas, Magallanes",
+    "coordinates": [
+      -53.1626,
+      -70.9078
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The pin is the OpenStreetMap city reference for Punta Arenas. The city stands on the Brunswick Peninsula beside the Strait of Magellan, and Natural Earth's simplified land polygon places the point outside mapped land; the sources name the city, not an exact address.",
+    "evidence": [
+      "https://www.elpinguino.com/policial/caen-cinco-integrantes-de-una-banda-dedicada-al-trafico-de-cannabis-sativa-bajo-la-modalidad-de-delivery-en-punta-arenas/",
+      "https://nominatim.openstreetmap.org/search?q=Punta+Arenas%2C+Chile&format=jsonv2&limit=3"
+    ]
+  },
+  {
+    "file": "reports/2026/02/ushuaia-robbery-raids-19-plants.md",
+    "country": "ar",
+    "place": "Ushuaia, Tierra del Fuego",
+    "coordinates": [
+      -54.8073,
+      -68.3084
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The pin is the OpenStreetMap town reference for Ushuaia. The city stands on the Beagle Channel, and Natural Earth's simplified land polygon places the point outside mapped land; the sources name the city and a street, not coordinates.",
+    "evidence": [
+      "https://www.cronicasfueguinas.com/2026/02/allanamientos-por-robo-en-ushuaia-tres.html",
+      "https://www.provincia23.com.ar/2026/02/12/allanamientos-por-robo-derivaron-en-el-secuestro-de-19-plantas-de-marihuana/",
+      "https://nominatim.openstreetmap.org/search?q=Ushuaia%2C+Argentina&format=jsonv2&limit=3"
+    ]
   }
 ]
