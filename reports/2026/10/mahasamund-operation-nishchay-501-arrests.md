@@ -25,6 +25,11 @@ sources:
     publisher: Lalluram
     date: 2026-10-30
     language: hi
+  - title: गांजा तस्करी केस में बड़ा खुलासा, ओडिशा से दो मुख्य सप्लायर गिरफ्तार
+    url: https://jantaserishta.com/local/chhattisgarh/major-breakthrough-in-cannabis-trafficking-case-two-key-suppliers-arrested-from-odisha-4907907
+    publisher: Janta Se Rishta
+    date: 2026-10-27
+    language: hi
 open_questions:
   - The 10,000 kg, Rs 50 crore drug value and Rs 10 crore vehicle value are all given as approximate ("करीब"), not as exact weighed or appraised figures.
   - The headline calls all 501 people smugglers; the police figures in the text call them accused, of whom 289 were transporters.
@@ -57,3 +62,4 @@ Mahasamund police said the campaign would continue in order to break the
 network, and that they were preparing legal action against movable and immovable
 property bought with the proceeds. [@1]
 
+Mahasamund police arrested two alleged suppliers from Odisha while investigating an earlier 225-kg seizure under Operation Nishchay. [@2] The two were arrested on 27 October 2026 and brought to Mahasamund. [@2]
