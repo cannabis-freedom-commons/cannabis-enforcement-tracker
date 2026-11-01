@@ -128,6 +128,16 @@ sources:
     publisher: MYGAZETE
     date: 2026-10-31
     language: tr
+  - title: Antalya'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı
+    url: https://www.habername.com/haber-antalyada-uyusturucu-operasyonunda-yakalanan-supheli-tutuklandi-1-299617.htm
+    publisher: Haber Name
+    date: 2026-10-31
+    language: tr
+  - title: 'Antalya’da uyuşturucu operasyonu: 1 tutuklu'
+    url: https://www.dha.com.tr/yerel-haberler/antalya/antalyada-uyusturucu-operasyonu-1-tutuklu-2972974
+    publisher: DHA (Demirören Haber Ajansı)
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -150,21 +160,23 @@ open_questions:
   - The Haberler page's lead photo appears to be the same police handout of the seized packages already linked from Yeni Birlik's gallery, so it was not listed as a separate picture.
   - Haber Antalya's account follows the same police account as the AA and DHA wire copies, so it corroborates the operation rather than adding independent reporting.
   - The page's only photograph is a police-camera still of a car marked 'Şüpheli Araç' that appears to be the same handout already linked from İHA, so it was not added as a separate picture.
+  - Haber Name's report is an Anadolu Agency wire copy, so it corroborates the agency account already in the report rather than adding independent reporting.
+  - DHA's report is marked as illustrated, but its lead image could not be confirmed to show the operation rather than a generic view, so it was not added as a media entry.
 ---
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11,12,13,14,15] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,3,4,5,7,8,9,10,12,13,14,16] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12,13,14,15,16] The pair were referred to the
+city. [@1,4,8,9,10,11,12,13,14,15,17] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+Kepez district. [@1,3,4,5,7,8,9,10,12,13,14,16,17] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,3,4,5,7,8,9,10,11,12,13,14,15,16,17] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
-substances. [@1,5,7,8,9,10,11,13,16]
+substances. [@1,5,7,8,9,10,11,13,16,18]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,4,6,7,8,9,10,11,12,14,16] Sabah reported that it followed intelligence that the
+police directorate. [@1,4,6,7,8,9,10,11,12,14,16,17] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10,16]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@3,4,6,7,8,9,10,11,12,14,15,16]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@3,4,6,7,8,9,10,11,12,14,15,16,17]
