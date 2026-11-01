@@ -632,5 +632,22 @@
       "https://www.tribune242.com/news/2026/may/05/rbdf-seize-64m-worth-of-marijuana-after-high-seas-chase/",
       "https://nominatim.openstreetmap.org/search?q=Mars%20Bay%2C%20Andros%2C%20Bahamas&format=json&limit=1"
     ]
+  },
+  {
+    "file": "reports/2026/07/jersey-chard-hire-car-24kg-sentence.md",
+    "country": "je",
+    "place": "Royal Court, St Helier, Jersey",
+    "coordinates": [
+      49.1837,
+      -2.1056
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The Royal Court sits at the St Helier waterfront, and Natural Earth's simplified Jersey polygon excludes the southern edge of the town centre. The pin uses the OpenStreetMap reference for Royal Court Road, not an exact event site.",
+    "evidence": [
+      "https://www.gov.je/news/2026/pages/CannabisConcealedVehicle.aspx",
+      "https://nominatim.openstreetmap.org/search?q=Royal%20Court%2C%20St%20Helier%2C%20Jersey&format=json&limit=3"
+    ]
   }
 ]
