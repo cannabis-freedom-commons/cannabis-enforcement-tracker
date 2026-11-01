@@ -47,6 +47,10 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-10-30
     language: hi
+  - title: 'Delhi: Four passengers land in police dragnet, probe underway'
+    url: https://www.tribuneindia.com/news/delhi/four-passengers-land-in-police-dragnet-probe-underway/
+    publisher: The Tribune
+    date: 2026-11-01
 open_questions:
   - The two cases were detected on 24 and 26 October 2026, so the report is dated at the later seizure rather than a single incident date.
   - The Tribune rounds the weights to 4.2 kg and 5.4 kg, while PTI and the customs post give 4,229 g and 5,426 g; the exact figures are used here.
@@ -64,15 +68,15 @@ open_questions:
 
 Customs officers at Delhi's Indira Gandhi International Airport seized more than
 9.6 kg of suspected ganja, valued at about Rs 3.37 crore, from two passengers
-arriving from Bangkok in two cases within three days. [@1,4,5,6] Both passengers were
+arriving from Bangkok in two cases within three days. [@1,4,5,6,7] Both passengers were
 arrested. [@2,4,5,6] The cases were detected on 24 and 26 October 2026 at Terminal 3
 after passenger profiling, when the travellers were diverted from the Green
 Channel for X-ray screening and a search of their bags. [@1,5,6]
 
 In the first case, on 24 October, officers found nine polythene pouches of a
 green substance in a trolley bag belonging to a passenger arriving from Bangkok.
-[@1,5,6] The substance weighed 4,229 grams and was valued at about Rs 1.48 crore.
-[@1,5,6]
+[@1,5,6,7] The substance weighed 4,229 grams and was valued at about Rs 1.48 crore.
+[@1,5,6,7]
 
 The substances tested prima facie positive for ganja or marijuana in both cases.
 [@3,5,6] The contraband was seized under the Narcotic Drugs and Psychotropic
