@@ -21,6 +21,10 @@ sources:
     url: https://taazatv.com/article/20-kg-ganja-seized-in-digha-two-suspected-smugglers-caught-while-trying-to-board-bus&71693&en&All%20India
     publisher: Taaza TV
     date: 2026-10-31
+  - title: 'Digha | মাদক পাচারের নতুন করিডর দীঘা? #shorts #DighaNews #DrugTrafficking #BengalCrime #Zee24Ghanta #Shorts'
+    url: https://www.facebook.com/Zee24Ghanta/videos/digha-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%AA%E0%A6%BE%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8-%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%A1%E0%A6%B0-%E0%A6%A6%E0%A7%80%E0%A6%98%E0%A6%BE-shorts-dighanews-drugtrafficking-bengalcrime-/1471686004895404/
+    publisher: Zee 24 Ghanta
+    language: bn
 open_questions:
   - The submitted Zee 24 Ghanta item is a 33-second Facebook video with no transcript or article text; only its headline question, 'Is Digha a corridor for drug smuggling?', could be read, so it is not cited for any fact.
   - Only one detailed report of the arrest was found; Taaza TV is the sole source for the names, quantity and suspected route.
@@ -28,6 +32,7 @@ open_questions:
   - The report calls the substance suspected cannabis and gives no laboratory confirmation or estimated value.
   - No charges, court appearance or further arrests were reported.
   - No photo or video of the arrest could be verified, and the submitted video's frames could not be viewed.
+  - The Zee 24 Ghanta video is cited only for the corridor question in its headline; its 33-second report could not be watched or transcribed.
 ---
 
 Two suspected drug smugglers, Krishna Rajbhar and Sheikh Razzak, were arrested
@@ -48,3 +53,4 @@ Preliminary investigations suggest the duo had brought the cannabis from Odisha.
 Further investigation is under way to establish the details of the alleged
 smuggling operation. [@1]
 
+The case raised the question of whether Digha is a new corridor for drug trafficking. [@2]
