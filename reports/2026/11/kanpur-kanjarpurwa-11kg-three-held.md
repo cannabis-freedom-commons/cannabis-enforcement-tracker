@@ -18,6 +18,21 @@ media:
     media_url: https://posterimage.amarujala.com/1XnmCvd.0000000.jpg?w=674&dpr=1.0&q=80
     publisher: Amar Ujala
     caption: Lead image of Amar Ujala's video report on the operation, captioned 'Kanpur 135 police personnel surround Kanjarpurwa in operation against cannabis smugglers'
+  - kind: photo
+    url: https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-search-operation-in-kanjarpurwa-surveillance-via-drone-135-police-personnel-involved-three-arrested-2026-11-01
+    media_url: https://staticimg.amarujala.com/assets/images/2026/11/01/kanpur_71ba50b53f86364c572bc8df6766da64.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'Police personnel with rifles walking through a lane in Kanjarpurwa during the operation. Photo: Amar Ujala'
+  - kind: photo
+    url: https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-search-operation-in-kanjarpurwa-surveillance-via-drone-135-police-personnel-involved-three-arrested-2026-11-01
+    media_url: https://staticimg.amarujala.com/assets/images/2026/11/01/kanpur_8f0c087806cc5b3a6bba210dec118c1a.jpeg?w=674&dpr=1.0&q=80
+    publisher: Amar Ujala
+    caption: 'Police and residents in a street in Kanjarpurwa during the cordon and search. Photo: Amar Ujala'
+  - kind: photo
+    url: https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-search-operation-in-kanjarpurwa-surveillance-via-drone-135-police-personnel-involved-three-arrested-2026-11-01
+    media_url: https://staticimg.amarujala.com/assets/images/2026/11/01/kanpur_30f75c641cec1d0fa04fe574d834aafc.jpeg?w=674&dpr=1.0&q=80
+    publisher: Amar Ujala
+    caption: 'Police personnel moving through Kanjarpurwa during the search. Photo: Amar Ujala'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7f1412a9ba8a8a91b49c8c41ab4ca9d8
@@ -38,6 +53,16 @@ sources:
     publisher: MD News
     date: 2026-11-01
     language: hi
+  - title: 'कानपुर: कंजड़नपुरवा में सर्च ऑपरेशन, ड्रोन से निगरानी…पांच थानों की घेराबंदी, 11KG गांजा बरामद, तीन गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-search-operation-in-kanjarpurwa-surveillance-via-drone-135-police-personnel-involved-three-arrested-2026-11-01
+    publisher: Amar Ujala
+    date: 2026-11-01
+    language: hi
+  - title: कंजड़पुरवा में महिला समेत तीन नशे के सौदागर दबोचे, नौ किलो गांजा मिला
+    url: https://www.livehindustan.com/uttar-pradesh/kanpur/story-kanpur-drug-bust-135-police-search-35-homes-seize-9-kg-of-cannabis-201793540013014.html
+    publisher: Hindustan
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -45,22 +70,24 @@ open_questions:
   - The number of people who fled the cordon is not stated.
   - Amar Ujala published this story as a video report; no direct video address could be recovered, so only its lead image is linked.
   - All three accounts rest on the police account; no comment from the accused or independent reporting was found.
+  - Amar Ujala's headline says five police stations were involved, but its text names four — Kidwai Nagar, Babupurwa, Juhi and Govind Nagar; the report keeps the four named stations.
+  - Hindustan reported about 9 kg of ganja, while the report's existing accounts give about 11 kg; the report keeps the 11 kg figure.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
 search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2] The
 operation began at about 5 am on Sunday, 1 November 2026. [@3] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1]
+[@1,4]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1]
+five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2]
+stations. [@2,4]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4] Other teams kept
 searching during the operation, and police said they were trying to identify
 others involved in the trade. [@3]
 
@@ -68,3 +95,4 @@ Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
 [@2]
 
+Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
