@@ -18,6 +18,11 @@ media:
     media_url: https://foto.sondakika.com/crop/1210x0/haber/2026/10/31/balikesir-de-2-ayri-narkotik-operasyonunda-2-20382928_sd.jpg
     publisher: Son Dakika
     caption: Cannabis in clear bags and jars, synthetic pills and a precision scale displayed in front of the Balıkesir governor's office and provincial police headquarters board, in the photo published with the report. No photo credit given.
+  - kind: photo
+    url: https://www.habererk.com/haber/balikesir-de-uyusturucu-operasyonu-2-gozalti_358927/
+    media_url: https://img.habererk.com/manset/2026/10/balikesir-de-uyusturucu-operasyonu-2-gozalti-1793447223.webp
+    publisher: Habererk
+    caption: A police display of cannabis pictured with the Balıkesir operation report; no photo credit given.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca70948f496373ba768b4df84af5294f
@@ -38,6 +43,11 @@ sources:
     publisher: Son Dakika
     date: 2026-10-31
     language: tr
+  - title: 'Balıkesir''de uyuşturucu operasyonu: 2 gözaltı'
+    url: https://www.habererk.com/haber/balikesir-de-uyusturucu-operasyonu-2-gozalti_358927/
+    publisher: Habererk
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no street, neighbourhood or time of day for the two operations, only the Balıkesir city centre.
   - The two suspects were not named, and no charge, court date or outcome was reported.
@@ -50,14 +60,14 @@ open_questions:
 ---
 
 Police in the Balıkesir city centre detained two people in two separate
-narcotics operations. [@1,3] The operations took place on 30 October 2026. [@2,3]
+narcotics operations. [@1,3,4] The operations took place on 30 October 2026. [@2,3]
 Both suspects were held in gözaltı, the police custody in which a person is kept
 for questioning while prosecutors decide whether to bring charges or release
 them. [@1] They were processed for manufacturing and trading narcotic
 substances. [@1,3]
 
 The searches turned up 1 kg 254 g of skunk, a high-potency cannabis preparation
-that Turkish police reports also call esrar. [@1,3] Officers also seized 61.84 g
+that Turkish police reports also call esrar. [@1,2,3] Officers also seized 61.84 g
 of liquid synthetic cannabinoid, known in Turkey as bonzai, 42 synthetic pills,
 7.06 g of powdered bonzai, 6.75 g of cannabis seed and 1.29 g of
 methamphetamine. [@1,2] A precision scale and a cannabis grinder were found as
