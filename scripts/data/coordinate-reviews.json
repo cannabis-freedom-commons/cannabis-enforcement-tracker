@@ -459,5 +459,22 @@
       "https://www.lequotidien.re/article/faits-divers/2026/10/14/trafic-de-zamal-vers-maurice-les-peines-alourdies-par-la-cour-dappel",
       "https://nominatim.openstreetmap.org/search?q=Saint+Denis%2C+Reunion&format=jsonv2&limit=3"
     ]
+  },
+  {
+    "file": "reports/2026/10/senegal-dakar-port-10kg-skunk-hashish.md",
+    "country": "sn",
+    "place": "Port of Dakar, Dakar",
+    "coordinates": [
+      14.6841,
+      -17.4279
+    ],
+    "precision": "locality",
+    "reviewed_on": "2026-11-01",
+    "kind": "locality-reference",
+    "reason": "The map marks the Port autonome de Dakar area, which juts into the harbour and falls outside Natural Earth's coarse land polygon; the customs statement names the port, not an exact inspection point.",
+    "evidence": [
+      "https://fr.apanews.net/governance/senegal-10-kg-de-haschich-saisis-au-port-de-dakar/",
+      "https://photon.komoot.io/api/?q=Port%20Autonome%20de%20Dakar&limit=3"
+    ]
   }
 ]
