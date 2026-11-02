@@ -31,6 +31,11 @@ media:
     media_url: https://chandaulisamachar.com/static/c1e/client/88752/uploaded/12b1cd731b0a92be54f86f0d8592f896.png
     publisher: Chandauli Samachar
     caption: 'A white car parked at a police station after the seizure in Chandauli. Photo: Chandauli Samachar'
+  - kind: photo
+    url: https://livebharatnews.in/uttar-pradesh/chandauli/chandauli-60-kg-ganja-seized-three-smugglers-arrested/cid19472263.htm
+    media_url: https://livebharatnews.in/static/c1e/client/89702/uploaded/82d4f63a21d80df780d5a92230803d56.jpeg?width=730&height=420&resizemode=4
+    publisher: Live Bharat News
+    caption: Photo published with the Live Bharat News report on the Chandauli 60 kg ganja seizure.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0a51bec327e940ca4ac48b108bdbe381
@@ -56,6 +61,11 @@ sources:
     publisher: Chandauli Samachar
     date: 2026-10-31
     language: hi
+  - title: चंदौली में 20 लाख का गांजा बरामद, पुलिस को टक्कर मारकर भाग रहे तीन तस्कर गिरफ्तार
+    url: https://livebharatnews.in/uttar-pradesh/chandauli/chandauli-60-kg-ganja-seized-three-smugglers-arrested/cid19472263.htm
+    publisher: Live Bharat News
+    date: 2026-10-31
+    language: hi
 open_questions:
   - No report says whether the three men were produced before a magistrate, remanded or granted bail.
   - The reports do not say where in Odisha the consignment was loaded or who supplied it.
@@ -67,14 +77,14 @@ open_questions:
 ---
 
 Alinagar police and the Special Operations Group (SOG) arrested three men with
-60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1,4] Abhishek
+60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1,4,5] Abhishek
 Singh was 25, Awadhesh 20 and Naushad 24. [@3,4]
 
-The Alinagar team was checking vehicles near Hamidpur Patanwa. [@2,4] Acting on an
+The Alinagar team was checking vehicles near Hamidpur Patanwa. [@2,4,5] Acting on an
 informer's tip, officers signalled a car coming from Mirzapur to stop. [@2,4] The
 driver tried to run the car at the police team. [@1,4] Officers chased the car and
-stopped it near Babatpur in Varanasi district. [@1] In the boot, under the
-stepney (spare wheel), they found 60 packets of ganja. [@1,4] The packets held 60
+stopped it near Babatpur in Varanasi district. [@1,5] In the boot, under the
+stepney (spare wheel), they found 60 packets of ganja. [@1,4,5] The packets held 60
 kg, and police estimated the ganja's value at about 20 lakh rupees (2 million).
 [@3,4]
 
