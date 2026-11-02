@@ -7,7 +7,7 @@ precision: region
 type: eradication
 title: Aceh police and BNN destroy 157,290 cannabis plants in six districts
 summary: >-
-  Aceh provincial police and the provincial narcotics agency destroyed 157,290 cannabis plants across 104.86 hectares in six districts of Aceh on 31 October and 1 November 2026. Police estimated the uprooted plants at 78.645 tonnes and said the cleared land would be converted to productive use.
+  Aceh provincial police and the provincial narcotics agency destroyed 157,290 cannabis plants across 104.86 hectares in six districts of Aceh on 31 October and 1 November 2026. Police estimated the uprooted plants at 78.645 tonnes. A 2 November national-police recap put the wider operation at 122.86 hectares and named suspects.
 figures:
   plants_destroyed: 157290
   kg_seized: 78645
@@ -48,12 +48,21 @@ sources:
     publisher: Komparatif.ID
     date: 2026-11-01
     language: id
+  - title: Indonesian Police and BNN Destroy 122.86 Hectares of Marijuana Fields
+    url: https://www.indonesianow.co/news/8734689/indonesian-police-and-bnn-destroy-122-86-hectares-of-marijuana-fields
+    publisher: IndonesiaNow (detikcom)
+    date: 2026-11-02
 open_questions:
-  - The reports name no owner, grower or suspect, and no arrests were announced; no court follow-up is known.
-  - No breakdown of area, plants or weight by district was published.
+  - The Polda Aceh account names no owner, grower or suspect, and no court follow-up is known; the later Bareskrim recap names three suspects from the 27 October Lhokseumawe operation and a farmer suspect in East Aceh, with no trial reported.
+  - No breakdown of area, plants or weight by district was published in the Polda Aceh account.
   - Sinata quotes Joko's statement as made on Sunday 1 November 2026, while Detik dates the statement to Monday 2 November 2026.
   - The 78.645 tonnes is the police estimate for the uprooted plants as a whole; the reports give no weight of dried cannabis.
   - The sources do not say whether the 104.86-hectare total includes the 20 hectares that police and BNN reported destroying in Beutong district, Nagan Raya, on the same weekend.
+  - The Bareskrim recap puts the Aceh operation at 122.86 hectares and 93.225 tonnes wet weight, which reconciles with neither the 104.86-hectare Polda Aceh total nor the separately reported 20-hectare Beutong operation; it separately describes a 77-hectare Nagan Raya phase.
+  - The 122.86-hectare and 93.225-tonne recap comes from a single national-level briefing account observed by detikcom at the scene; no independent corroboration of those totals was found.
+  - The 93.225 tonnes is a wet-weight estimate, like the 78.645-tonne police estimate; no dried-cannabis weight was published.
+  - The recap's Mandailing Natal phase (five hectares, about 150,000 plants) lies in North Sumatra under a different command and is counted separately from the 122.86-hectare Aceh total.
+  - The IndonesiaNow page carries operation photos credited as documentation; they were not verified as showing this operation, so no new media entry is added.
   - Sinata, Habapublik and Detik all carry the same police statement, and no independent reporting of the operation was found.
   - 'Left out, as its quotation was not found in Sinata.id: He said the former cannabis land should be converted into productive land that benefits local people.'
   - 'Left out, as its quotation was not found in Sinata.id: He said the destruction showed the commitment of Polda Aceh and BNNP Aceh to protecting the public, especially young people, from drug abuse.'
@@ -76,3 +85,9 @@ November 2026. [@2]
 Joko said the operation was part of the national police chief's priority
 programme, Polisi Bersama Masyarakat, through Quick Wins 2, which includes
 restoring areas used for drug crops. [@1]
+
+On 2 November 2026 the national police criminal investigation agency, Bareskrim Polri, gave a wider recap of the same joint enforcement effort at the scene in Aceh, observed by detikcom. [@5] Bareskrim drug director Brigadier General Kristian Siagian, with the BNN Acting Deputy of Eradication Brigadier General Adri Irniadi, said joint teams of Bareskrim, the North Sumatra and Aceh provincial police forces, BNN, the military, local government and community members had handled about 122.86 hectares in the Aceh police jurisdiction between 27 October and 2 November, with an estimated wet weight of 93.225 tonnes. [@5]
+
+The recap described phases beyond the Polda Aceh announcement: Lhokseumawe police destroyed about 18 hectares in Teupin Rusep village, Sawang district, North Aceh, on 27 October and detained four people, and destroyed about 25 more hectares on 2 November. [@5] Of the four detained, S, 43, had identified the field to others, W, 35, had sown 1,800 cannabis seeds, and M, 39, had supplied the seeds to S; S, W and M were named suspects while the fourth person, HM, was released as uninvolved. [@5] The suspects were charged under Articles 114 and 111 of the Narcotics Law, which carry a maximum penalty of 20 years in prison. [@5]
+
+The recap further listed about 77 hectares destroyed in the Blang Meurande and Beutong Ateuh-Benggala areas of Nagan Raya on 31 October, about two hectares handled by Pidie police on 1 November, about 0.04 hectares uprooted by Bener Meriah police on 1 November, about 0.7 hectares handled by Aceh Besar police on 1 November, and about 0.12 hectares secured by East Aceh police, who named a cannabis farmer with the initials AM as a suspect under Article 111. [@5] Separately in North Sumatra, about five hectares with some 150,000 five-to-six-month-old plants were found in Tor Sihite, Rao Rao Dolok village, Tambangan district, Mandailing Natal, on 31 October after a public tip on 29 October, and the plants were burned at the site. [@5]
