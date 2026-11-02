@@ -33,6 +33,11 @@ sources:
     publisher: DHA
     date: 2026-11-02
     language: tr
+  - title: Pendik'te kamyonete düzenlenen operasyonda 336 kilogram 550 gram skunk ele geçirildi
+    url: https://www.haberler.com/guncel/pendik-te-kamyonete-duzenlenen-operasyonda-336-20386838-haberi/
+    publisher: Haberler
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The exact day of the operation is inferred as 1 November 2026 from both reports' wording that it occurred yesterday evening relative to their 2 November 2026 publication; no separate calendar date for the raid itself is given.
   - The suspect is identified only by the initials Ü.A.; his full name, age and nationality were not published.
@@ -41,20 +46,19 @@ open_questions:
 ---
 
 Istanbul narcotics police stopped a closed-box van on a highway in Pendik and
-detained its driver, identified only by the initials Ü.A. [@1] Officers took
+detained its driver, identified only by the initials Ü.A. [@1,3] Officers took
 Ü.A. into custody at the scene and brought him to the police station for
 questioning. [@1] He was the only person reported detained in the operation.
 [@1] After his statement procedures at the station, he was expected to be
 transferred to the courthouse. [@1]
 
 A search of the van’s cargo hold uncovered 336 kilograms 550 grams of skunk,
-which police seized. [@2] Officers had followed the van on the previous evening
+which police seized. [@2,3] Officers had followed the van on the previous evening
 as part of an investigation in Pendik, on Istanbul’s Anatolian side, before
 stopping it on the highway. [@2] Teams had carried out a series of inquiries in
 the district within the scope of that investigation. [@1]
 
 The operation was carried out by the Istanbul Narcotic Crimes Combating Branch,
 the city’s anti-drug police unit, as part of its ongoing work against drug
-trafficking. [@1] Police confiscated the drugs, and inquiries into the case were
+trafficking. [@1,3] Police confiscated the drugs, and inquiries into the case were
 continuing. [@2]
-
