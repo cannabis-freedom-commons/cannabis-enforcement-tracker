@@ -38,24 +38,32 @@ sources:
     publisher: ertnews.gr
     date: 2026-11-01
     language: el
+  - title: 'Αθήνα: «Καβάτζα» με 32 κιλά «σοκολάτα» κάνναβης – Η σύλληψη στην Κυψέλη και η αντίσταση στους αστυνομικούς'
+    url: https://pelop.gr/athina-kavatza-32-kila-sokolata-kannavis-dyo-syllipseis/
+    publisher: pelop.gr
+    date: 2026-11-01
+    language: el
 open_questions:
   - The 32.91 kg figure is the sum of the two stated gross weights, 590 grams plus 32 kilograms and 320 grams, and includes packaging.
   - No court outcome after referral to the prosecutor was reported.
   - No street or seizure value was published.
   - The ERT account calls the second location only a stash space and does not name Ithomis Street, and it does not mention the DRY SiFT 2026 labels recorded in the existing report.
+  - The submitted page gives only its publication date of 1 November 2026 and no separate date for the arrests and seizure.
+  - The submitted page calls the second location only a storage stash and does not name Ithomis Street.
+  - The submitted page does not mention the DRY SiFT 2026 labels, car, watch, phones, scale, gloves or keys recorded in the existing report.
 ---
 
 Greek police arrested two men aged 22 and 23 in Athens on 1 November 2026 on
 suspicion of possessing and trafficking large quantities of processed cannabis,
-commonly known as hashish. [@1] Officers of the Narcotics Prosecution
+commonly known as hashish. [@1,4] Officers of the Narcotics Prosecution
 Sub-Directorate said targeted investigations and intelligence established the
 alleged operation. [@1] Authorities believe the two suspects supplied drugs
 across the wider Attica region. [@1,3] Police said both suspects were already
 known to the authorities, and officers brought the two men before the competent
-public prosecutor to face charges. [@1,3]
+public prosecutor to face charges. [@1,3,4]
 
 Officers stopped the 22-year-old in Kypseli and found seven paper packages
-containing a total of 590 grams of processed cannabis in his possession. [@1,3]
+containing a total of 590 grams of processed cannabis in his possession. [@1,3,4]
 The 22-year-old allegedly resisted arrest by violently pushing officers, after
 collecting the drugs from his 23-year-old accomplice minutes earlier to
 distribute on the streets of Athens. [@1]
