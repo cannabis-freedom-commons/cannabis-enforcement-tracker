@@ -46,6 +46,8 @@ open_questions:
   - The submitted page gives a rough gross conversion of about 30 tonnes at about 200 grams per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
   - The submitted page dates the follow-up investigation to 29 October 2026 and does not give the 26 October tip date used in the existing report.
   - The page displays a main photo without a caption or credit identifying its content, so no media entry is listed for this source.
+  - The detik article dates the public tip to Saturday 31/10/2026, while the existing report follows a 26 October tip and 29 October follow-up check from other outlets.
+  - The detik article repeats the official's rough 30-tonne gross conversion at about 2 ons per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -132,6 +134,11 @@ sources:
     publisher: TRIBRATA TV
     date: 2026-11-01
     language: id
+  - title: Jalan Kaki 7 Jam, BNN Bongkar Ladang Ganja 5 Hektare di Pegunungan Bukit Barisan
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8733329/jalan-kaki-7-jam-bnn-bongkar-ladang-ganja-5-hektare-di-pegunungan-bukit-barisan
+    publisher: detikSumut
+    date: 2026-11-01
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -175,7 +182,7 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1]
 
@@ -189,6 +196,6 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10]
