@@ -21,6 +21,11 @@ media:
     media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/b23dded7361c86446b43edf284ee15561793518144663892_original.jpg?impolicy=abp_cdn&imwidth=470
     publisher: ABP Majha
     caption: A container truck, a crane and a crowd at the crash scene on National Highway 56 near Khamgaon.
+  - kind: photo
+    url: https://saamtv.esakal.com/amp/story/maharashtra/truck-car-collision-on-mumbai-nagpur-highway-kills-two-27-kg-cannabis-ganja-seized-at-khamgaon-bbj88
+    media_url: https://cf-images.assettype.com/saamtv%2F2026-11-01%2Fpfasj3do%2FTwo-killed-in-truck-car-collision-near-Khamgaon-on-Mumbai-Nagpur-Highway.jpg?w=640
+    publisher: Saam TV
+    caption: The truck-car crash scene on the Mumbai-Nagpur Highway near Khamgaon.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 287c265e08c1f1becabd7780a3794cc5
@@ -36,6 +41,11 @@ sources:
     publisher: Saam TV
     date: 2026-11-01
     language: mr
+  - title: मुंबई-नागपूर महामार्गावर ट्रक-कारची समोरासमोर धडक; दोघांचा जागीच मृत्यू, धडकेनंतर उघडलं गांजाचं गुपित
+    url: https://saamtv.esakal.com/amp/story/maharashtra/truck-car-collision-on-mumbai-nagpur-highway-kills-two-27-kg-cannabis-ganja-seized-at-khamgaon-bbj88
+    publisher: Saam TV
+    date: 2026-11-01
+    language: mr
 open_questions:
   - The reports do not say whether the truck driver was injured or whether anyone else was in the truck.
   - No arrest of a surviving suspect and no court date were reported; the NDPS case was registered against the two men who died.
@@ -45,18 +55,17 @@ open_questions:
 
 The car and a truck collided head-on on the Mumbai–Nagpur stretch of National
 Highway 56 near Khamgaon, in Maharashtra's Buldhana district, on the morning of
-1 November 2026. [@1] Both men in the car died at the scene. [@1] They were
+1 November 2026. [@1,3] Both men in the car died at the scene. [@1,3] They were
 Satish Sakharam Jadhav, a resident of Parbhani, and Sayyed Firoz Sayyed Mehmud.
 [@1]
 
 Police reached the scene after the crash and examined the wrecked car. [@2]
-Inside they found 27 kg of ganja, or cannabis, and seized the drug. [@1]
+Inside they found 27 kg of ganja, or cannabis, and seized the drug. [@1,3]
 Officers put its value at about ₹14 lakh, or 1.4 million rupees. [@2] The crash
 disrupted traffic on the highway, and the discovery caused a stir in the area.
 [@2]
 
 Police registered a case under the Narcotic Drugs and Psychotropic Substances
-Act against both dead men. [@1] They are investigating where the ganja was being
+Act against both dead men. [@1,3] They are investigating where the ganja was being
 taken and on whose instructions. [@1] Police also took the wrecked car into
 custody. [@2] They are investigating the exact cause of the crash. [@2]
-
