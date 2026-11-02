@@ -35,6 +35,11 @@ sources:
     url: https://en.cibercuba.com/noticias/2026-11-01-u1-e209363-s27061-nid344494-condenan-15-anos-carcel-ciudadano-vender-marihuana
     publisher: CiberCuba
     date: 2026-11-01
+  - title: 'La ''tolerancia cero'' no frena las drogas en Cuba: condenado un hombre a 15 años en Las Tunas'
+    url: https://diariodecuba.com/cuba/1793624536_69668.html
+    publisher: DIARIO DE CUBA
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives no separate date for the trial or sentence, so 2026-11-01 is the source publication date.
   - No weight or quantity was published for the marijuana, cocaine or synthetic cannabinoids, so no cannabis weight is recorded.
@@ -46,14 +51,14 @@ open_questions:
 
 The First Criminal Chamber of the Provincial People's Court in Las Tunas
 sentenced a man to 15 years in prison for trafficking marijuana, cocaine and
-synthetic cannabinoids in the Mexico neighborhood. [@1,2,3] The court tried the
+synthetic cannabinoids in the Mexico neighborhood. [@1,2,3,4] The court tried the
 matter as Case 115 of 2026, which state media described as a deterrent example.
-[@1,2,3] Authorities said electronic surveillance, a specialized investigative
+[@1,2,3,4] Authorities said electronic surveillance, a specialized investigative
 technique, verified that the defendant was systematically selling those
-substances in that part of the city. [@1,2,3] Alongside imprisonment, the court
+substances in that part of the city. [@1,2,3,4] Alongside imprisonment, the court
 imposed loss of public rights, confiscation of seized assets and a ban on
 acquiring a passport or leaving the national territory for the duration of the
-sentence under Law 151 of 2022, the Penal Code. [@1,2,3]
+sentence under Law 151 of 2022, the Penal Code. [@1,2,3,4]
 
 State media said the ruling was made in a public hearing that adhered to
 constitutional procedural guarantees and due process. [@1] The case was reported
