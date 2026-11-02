@@ -97,6 +97,11 @@ sources:
     publisher: O Hoje
     date: 2026-10-30
     language: pt
+  - title: Polícia apreende 3,5 toneladas de skunk escondidas em caminhão em Goiás
+    url: https://www.badiinho.com.br/policia-apreende-35-toneladas-de-skunk-escondidas-em-caminhao-em-goias/
+    publisher: Badiinho
+    date: 2026-10-31
+    language: pt
 open_questions:
   - The reports give the weight as about 3.5 tonnes and publish no exact figure.
   - Neither report says who valued the load at R$3.5 million.
@@ -118,21 +123,22 @@ open_questions:
   - Paipee credits its feature photo of the seized load only to 'Instagram'; it could not be confirmed as a distinct image, so no media entry was added.
   - Zap Catalão follows the PRF statement closely and publishes no independent reporting of its own.
   - The page's only photo is a PRF handout; it could not be confirmed as a different frame from the PRF handout photos already linked in the report.
+  - The page's only news photo is credited to PRF Goiás, but its file name refers to a synthetic-drug story and it could not be confirmed as showing this seizure, so no media entry was added.
 ---
 
 The Federal Highway Police and the Civil Police of the Federal District seized
 about 3.5 tonnes of skunk from a truck on the BR-153 at Morrinhos, in southern
-Goiás, on the afternoon of Thursday 29 October 2026. [@2,3,4,6,7,9,10] The bales of skunk
+Goiás, on the afternoon of Thursday 29 October 2026. [@2,3,4,6,7,9,10,12] The bales of skunk
 were hidden behind wooden pallets and were found by sniffer dogs. [@1] The
-driver was arrested. [@2,3,4,6,8,9,10]
+driver was arrested. [@2,3,4,6,8,9,10,12]
 
 The stop followed an exchange of information between the highway police and
-Civil Police officers in the Federal District. [@1,3,4,7,9,10] When approached, the driver
+Civil Police officers in the Federal District. [@1,3,4,7,9,10,12] When approached, the driver
 could not explain where he had come from or where he was going, and stayed
 silent. [@1,5] After the pallets were unloaded, officers found the skunk in the
-cargo compartment. [@2,3,4,6,7,9,10]
+cargo compartment. [@2,3,4,6,7,9,10,12]
 
-He was taken to the Civil Police with the seized drug. [@2,3,4,6,7,9,10] At the Civil Police
+He was taken to the Civil Police with the seized drug. [@2,3,4,6,7,9,10,12] At the Civil Police
 station in Brasília, he was booked on a charge of interstate drug trafficking.
 [@1] The PRF did not name him and released only his age, 40. [@1,3]
 
@@ -140,7 +146,7 @@ The load was valued at R$3.5 million and, according to the investigation, was to
 be sold in the Federal District. [@1] Skunk, known in Brazil as 'super maconha'
 (super marijuana), is a cannabis product. [@1,11]
 
-The PRF said the driver's behaviour and the circumstances of the transport prompted a closer inspection, but did not say which signs raised suspicion. [@3] Sniffer dogs from the PRF's dog-operations group indicated drugs in the truck. [@3,4,6,8,9,11]
+The PRF said the driver's behaviour and the circumstances of the transport prompted a closer inspection, but did not say which signs raised suspicion. [@3] Sniffer dogs from the PRF's dog-operations group indicated drugs in the truck. [@3,4,6,8,9,11,12]
 
 Investigations were continuing to identify the origin and destination of the load. [@4]
 
