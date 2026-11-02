@@ -39,12 +39,13 @@ open_questions:
   - Prabhat Khabar says he was sent to judicial custody; Hindustan says only that he was sent to jail.
   - No charge sheet, plea or further court date has been reported.
   - Hindustan gives no date for the raid; 30 October 2026 comes from Prabhat Khabar alone.
+  - The submitted page's only listed image is a default placeholder, not a photo of this raid or seizure, so no media from it is listed.
 ---
 
 Simdega police arrested Rahul Sahni, 36, son of Ramdhan Kewat and a resident of
 Niche Bazar. [@1] Officers raided the vegetable market in the town's Daily
 Market after a tip at about 2.30 pm on 30 October 2026 that ganja, the local
-name for cannabis, was being sold and consumed there. [@1] Sahni ran when he saw
+name for cannabis, was being sold and consumed there. [@1,2] Sahni ran when he saw
 the police vehicle and was chased down and caught. [@1]
 
 A search in the presence of the local circle officer (anchal adhikari) found
@@ -52,9 +53,8 @@ A search in the presence of the local circle officer (anchal adhikari) found
 [@1] Police registered Simdega police station case No. 144/2026 under the NDPS
 Act, India's narcotics law. [@1]
 
-He was sent to judicial custody on 31 October. [@1] The district police said
+He was sent to judicial custody on 31 October. [@1,2] The district police said
 they were running a continuing campaign against the consumption, sale and
 trafficking of illegal drugs. [@2] They asked residents to report drug sales,
 consumption or trafficking to the nearest police station and said informants'
 identities would be kept confidential. [@1]
-
