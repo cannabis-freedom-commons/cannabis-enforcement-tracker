@@ -28,6 +28,10 @@ sources:
     url: https://english.varthabharati.in/karnataka/passenger-held-at-bengaluru-airport-with-hydroponic-ganja-worth-rs-523-cr-2287624
     publisher: Vartha Bharati
     date: 2026-11-02
+  - title: Passenger Held At Bengaluru Airport With Rs 5.23 Crore Hydroponic Ganja
+    url: https://m.rediff.com/amp/news/report/passenger-held-at-bengaluru-airport-with-hydroponic-ganja/20261102.htm
+    publisher: Rediff
+    date: 2026-11-02
 open_questions:
   - The reports do not name the passenger or give age, sex, nationality or flight details.
   - No court outcome beyond the reported arrest was published.
@@ -37,19 +41,18 @@ open_questions:
 
 On 1 November 2026, Bengaluru Customs officers intercepted at Kempegowda
 International Airport in Bengaluru a passenger who had arrived from Bangkok.
-[@1] Officials said on Monday that the passenger who arrived from Bangkok was
+[@1,3] Officials said on Monday that the passenger who arrived from Bangkok was
 held at Kempegowda International Airport with hydroponic ganja valued at Rs 5.23
 crore. [@2]
 
 During the interception on 1 November, officers seized 14.940 kg of hydroponic
-ganja, which Bengaluru Customs valued at Rs 5.23 crore. [@1] The seized drug was
+ganja, which Bengaluru Customs valued at Rs 5.23 crore. [@1,3] The seized drug was
 concealed in vacuum-sealed packets containing green-coloured chunks that were
-hidden inside a bag belonging to the passenger. [@1]
+hidden inside a bag belonging to the passenger. [@1,3]
 
 Bengaluru Customs announced the case in a post on social media platform X,
 stating that the Bangkok passenger was intercepted on 1 November and that the
 vacuum-sealed packets with green-coloured chunks were found hidden inside a bag.
-[@1] Officials said the seizure led to an arrest under the NDPS Act. [@2] The
+[@1] Officials said the seizure led to an arrest under the NDPS Act. [@2,3] The
 reports identify Bengaluru Customs as the intercepting agency and Kempegowda
 International Airport as the place of the seizure. [@1]
-
