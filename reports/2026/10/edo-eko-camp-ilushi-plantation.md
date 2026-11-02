@@ -60,6 +60,10 @@ sources:
     url: https://realnewsmagazine.net/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
     publisher: Realnews Magazine
     date: 2026-11-01
+  - title: 2 France-based Nigerians excrete 200 cocaine wraps at Abuja airport as NDLEA seizes 1.8 tonnes of skunk in 1 week
+    url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 media:
   - kind: photo
     url: https://thisday.com.ng/two-europe-bound-businessmen-excrete-200-wraps-of-cocaine-at-abuja-airport/
@@ -68,8 +72,8 @@ media:
     caption: Lead photo on the source page for this NDLEA operation roundup
 ---
 
-NDLEA operatives supported by soldiers raided Eko Camp in Ilushi, in Esan South East Local Government Area of Edo State, on 28 October 2026. [@1,2,3,4,5,6,8] During the operation they destroyed a cannabis plantation measuring 1.646 hectares, which the agency said had an estimated yield of 4,115.53 kilograms. [@1,2,3,4,6,7,8]
+NDLEA operatives supported by soldiers raided Eko Camp in Ilushi, in Esan South East Local Government Area of Edo State, on 28 October 2026. [@1,2,3,4,5,6,8,10] During the operation they destroyed a cannabis plantation measuring 1.646 hectares, which the agency said had an estimated yield of 4,115.53 kilograms. [@1,2,3,4,6,7,8]
 
-A 50-year-old woman, Christiana Uboi, was arrested at the camp with 301 kilograms of processed cannabis, while another 176 kilograms was recovered during the raid. [@1,2,3,4,5,6,8,9] The two seizures together amount to 477 kilograms of processed cannabis. [@1,2]
+A 50-year-old woman, Christiana Uboi, was arrested at the camp with 301 kilograms of processed cannabis, while another 176 kilograms was recovered during the raid. [@1,2,3,4,5,6,8,9,10] The two seizures together amount to 477 kilograms of processed cannabis. [@1,2]
 
 The Edo raid was one of several operations across seven states announced by NDLEA's Director of Media and Advocacy, Femi Babafemi, in a statement on 1 November 2026. [@1,2] This report covers only the Eko Camp cannabis raid; the cocaine, ammunition and other-drug seizures in the same roundup are separate events left out here. [@1,2]

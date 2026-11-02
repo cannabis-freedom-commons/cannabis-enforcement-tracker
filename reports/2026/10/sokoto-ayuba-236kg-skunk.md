@@ -50,6 +50,10 @@ sources:
     url: https://realnewsmagazine.net/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
     publisher: Realnews Magazine
     date: 2026-11-01
+  - title: 2 France-based Nigerians excrete 200 cocaine wraps at Abuja airport as NDLEA seizes 1.8 tonnes of skunk in 1 week
+    url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 open_questions:
   - No town or neighbourhood in Sokoto was named, so the coordinates are for the state capital with regional precision.
   - No charges or court outcome for Ibrahim Ayuba have been published.
@@ -58,7 +62,7 @@ open_questions:
 
 ## The arrest
 
-Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5,7] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4,6,7,8] Skunk is a strong strain of cannabis. [@2]
+Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5,7,9] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4,6,7,8] Skunk is a strong strain of cannabis. [@2]
 
 ## The roundup it was announced in
 

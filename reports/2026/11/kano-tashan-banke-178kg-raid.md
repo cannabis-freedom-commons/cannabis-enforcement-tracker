@@ -61,6 +61,10 @@ sources:
     url: https://realnewsmagazine.net/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
     publisher: Realnews Magazine
     date: 2026-11-01
+  - title: 2 France-based Nigerians excrete 200 cocaine wraps at Abuja airport as NDLEA seizes 1.8 tonnes of skunk in 1 week
+    url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -75,7 +79,7 @@ open_questions:
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5,6,7,8,9,10] The agency published its account of the raid on 1
+among those held. [@1,4,5,6,7,8,9,10,12] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo

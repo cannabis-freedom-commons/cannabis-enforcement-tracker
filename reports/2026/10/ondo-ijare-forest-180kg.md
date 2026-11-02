@@ -49,6 +49,10 @@ sources:
     url: https://realnewsmagazine.net/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
     publisher: Realnews Magazine
     date: 2026-11-01
+  - title: 2 France-based Nigerians excrete 200 cocaine wraps at Abuja airport as NDLEA seizes 1.8 tonnes of skunk in 1 week
+    url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 open_questions:
   - No count of the plants growing on the farms, no area for the farms and no value for the 180 kg were published.
   - No charge against the four arrested men was reported.
@@ -61,7 +65,7 @@ open_questions:
 
 NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25
 October 2026. [@1,4,5,7] Four suspects were arrested during the raid, among them
-Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1,7] A fourth suspect was
+Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1,7,9] A fourth suspect was
 held but not named. [@2] Officers recovered 16 bags of processed cannabis
 weighing 180 kg from the farms, the agency said. [@2,3,4,5,6,7,8] The agency reported no
 plant count, no farm area and no value for the 180 kg. [@1]

@@ -67,6 +67,10 @@ sources:
     url: https://realnewsmagazine.net/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
     publisher: Realnews Magazine
     date: 2026-11-01
+  - title: 2 France-based Nigerians excrete 200 cocaine wraps at Abuja airport as NDLEA seizes 1.8 tonnes of skunk in 1 week
+    url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -74,12 +78,13 @@ open_questions:
   - The NDLEA statement also reports operations in Lagos, Kano, Kaduna, Sokoto, Ondo and Edo, which are different events left out of this report.
   - The photographs on the source pages show suspects from other operations in the same roundup, not this arrest, so no media entry was added.
   - The submitted page's single image carries only the file-name caption ImageMerge_LongImage_20261101_135938647 and cannot be confirmed to show the Igboora truck seizure, so no media entry was added.
+  - This account calls the 309.5 kg seizure Ghanaian Loud while the existing report calls it skunk; both are described as cannabis.
 ---
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
-The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8] No further detail about Omo Oba has been published. [@1,2]
+The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8,13] No further detail about Omo Oba has been published. [@1,2]
