@@ -80,6 +80,11 @@ sources:
     publisher: Elnashra News
     date: 2026-11-01
     language: ar
+  - title: Армия уничтожила 9700 квадратных метров марихуаны в Баальбеке
+    url: https://dailybeirut.com/ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%BB%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0/armiya-unichtozhila-9700-kv-m-marikhuany-v-baalbeke/
+    publisher: Daily Beirut
+    date: 2026-11-01
+    language: ru
 open_questions:
   - The army's statement gives no separate date for the destruction; 1 November 2026 is the date the statement was issued.
   - No figure for the number of plants, the weight of cannabis or the value of the crop was published.
@@ -93,12 +98,14 @@ open_questions:
   - The opened Lebanon Debate capture preserves only the headline and an embedded video, with no additional body text, plant count, or arrest detail beyond the headline figure and places.
   - Elnashra spells the first locality الزرازير, matching Addiyar and Al-Manar, while the existing report title and place use Zarzir; the 9,700 square metre figure and Ainata–Baalbek location are otherwise the same.
   - Elnashra carries one photo captioned with the same headline; it could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
+  - The Daily Beirut page writes the first locality as Заразир, rendered Zarazir in the army English version, while the existing report uses Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
+  - The page carries a lead photo captioned with the same headline, but it could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
 ---
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square
 meters in the Zarzir and Ainata areas of Baalbek, the army said on 1 November
-2026. [@1,4,6,7,8,9,10] The army's Directorate of Orientation said the unit had worked to
-destroy the planted area in the two locations. [@3,5,8] The army's English statement
+2026. [@1,4,6,7,8,9,10,11] The army's Directorate of Orientation said the unit had worked to
+destroy the planted area in the two locations. [@3,5,8,11] The army's English statement
 put the crop at an estimated 9,700 square meters in Zarazir and Aainata, in
 Baalbek. [@2] That is about 0.97 hectares, or roughly 9.7 Lebanese dunams of
 1,000 square meters. [@1,7]
