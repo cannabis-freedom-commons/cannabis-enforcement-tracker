@@ -56,7 +56,7 @@ Makkutti, Pelakkudi house in Bathery, was arrested by Noufal C, a sub-inspector
 with Bathery police. [@1,3,4]
 
 The district anti-drug squad and Bathery police stopped him during a vehicle
-inspection near Makkutti bridge. [@2,3]
+inspection near Makkutti bridge. [@1,2,3]
 
 Officers seized the ganja, an electronic weighing scale and plastic bags for
 packing the cannabis for sale. [@1] The seized ganja weighed one kilogram and 80
