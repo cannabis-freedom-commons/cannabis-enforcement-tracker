@@ -35,6 +35,11 @@ sources:
     publisher: RaiNews
     date: 2026-11-02
     language: it
+  - title: 'Kiloweise Drogen, illegale Einwanderung und das Nachtleben: Festnahmen und Durchsuchungen in Cagliari und Umgebung.'
+    url: https://www.unionesarda.it/de/sardinien/kiloweise-drogen-illegale-einwanderung-und-das-nachtleben-festnahmen-und-durchsuchungen-in-cagliari-und-umgebung-c9d2j3mi
+    publisher: L'Unione Sarda German
+    date: 2026-11-02
+    language: de
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -52,13 +57,13 @@ open_questions:
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1,2,3] On 9 October investigators arrested a 19-year-old from Elmas
-carrying about 70 grams of cannabis. [@1,2] On 15 October officers stopped a
+Quartucciu. [@1,2,3,4] On 9 October investigators arrested a 19-year-old from Elmas
+carrying about 70 grams of cannabis. [@1,2,4] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
 6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1,2,3] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2,3,4] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
 for retail and supply to other dealers. [@1]
 
