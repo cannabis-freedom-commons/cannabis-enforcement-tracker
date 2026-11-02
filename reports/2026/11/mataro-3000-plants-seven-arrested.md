@@ -34,17 +34,23 @@ sources:
     publisher: Infobae
     date: 2026-11-02
     language: es
+  - title: Siete detenidos en un golpe a una red de narcos de Mataró que tenía un arsenal de armas
+    url: https://www.abc.es/espana/siete-detenidos-golpe-red-narcos-mataro-arsenal-20261102112121-nt.html
+    publisher: Diario ABC
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the raid; the incident date uses the publication date.
   - The several localities in Barcelona province where the group allegedly operated are not named.
   - No identities, ages or nationalities of the seven detainees were published, and no court outcome beyond placement at the courts' disposal was reported.
   - Only one opened source supports the event; searches for a second account of the same Mataró operation found no accessible corroboration.
   - The existing report describes later distribution to the eastern European black market, while the submitted Infobae/EFE capture says the European black market without specifying east.
+  - The ABC page embeds police-supplied video of the operation; no stable direct video file address was recovered, so no media entry is added.
 ---
 
 National Police officers with Mataró Local Police carried out an anti-drug
 operation in the province that ended with the detention of seven people and the
-seizure of 3,000 marijuana plants. [@1,2] The operation dismantled an alleged
+seizure of 3,000 marijuana plants. [@1,2,3] The operation dismantled an alleged
 criminal organisation dedicated to indoor cultivation and later distribution of
 the drug on the European black market. [@1] The seven detainees are under
 investigation for alleged offences against public health, unlawful possession of
@@ -56,7 +62,7 @@ complete infrastructure for indoor marijuana cultivation. [@1] The seized
 material included 3,000 marijuana plants and one kilogram of buds, two 9 mm
 pistols with semi-jacketed ammunition, a replica pistol, an AK-47 rifle, five
 frequency jammers, two knuckle-dusters, several extendable batons and a baseball
-bat. [@1,2] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
+bat. [@1,2,3] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
 and abundant material used for indoor plantation cultivation. [@1,2]
 
 Investigators say the organisation operated in several localities in Barcelona
