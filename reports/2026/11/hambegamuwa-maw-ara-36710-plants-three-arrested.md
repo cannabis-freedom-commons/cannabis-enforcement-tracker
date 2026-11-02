@@ -27,6 +27,11 @@ sources:
     publisher: Hiru News
     date: 2026-11-02
     language: ta
+  - title: 'ஹம்பேகமுவவில் 36,710 கஞ்சா செடிகள் அழிப்பு: 3 சந்தேகநபர்கள் கைது'
+    url: https://www.virakesari.lk/article/265544
+    publisher: Virakesari.lk
+    date: 2026-11-02
+    language: ta
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the raid.
   - The three suspects were not named and no charges or court outcome were reported.
@@ -37,16 +42,16 @@ open_questions:
 
 Three suspects were arrested during a raid on a cannabis cultivation in the Maw
 Ara area of Hambegamuwa, in an operation that combined arrests with eradication
-of the crop. [@1,2] According to the Sri Lanka Army, the operation was carried out
+of the crop. [@1,2,3] According to the Sri Lanka Army, the operation was carried out
 by officers of the Monaragala Police Narcotics Bureau acting on information
-provided by Army Military Intelligence. [@1,2] Following the raid, the three
+provided by Army Military Intelligence. [@1,2,3] Following the raid, the three
 arrested suspects were handed over to the Hambegamuwa Police for further police
 investigations. [@1,2]
 
 At the Maw Ara site, officers found approximately two acres of land under
-cannabis cultivation, with a total of 36,710 cannabis plants growing there. [@1,2]
+cannabis cultivation, with a total of 36,710 cannabis plants growing there. [@1,2,3]
 The plants found during the raid were tall, mature, standing plants measuring
 between six and eight feet in height. [@1,2] The Army said all 36,710 cannabis
-plants were uprooted and then destroyed by burning at the same location. [@1,2]
+plants were uprooted and then destroyed by burning at the same location. [@1,2,3]
 The approximately two acres of cultivated land reported at the site corresponds
 to about 0.81 hectares. [@1]
