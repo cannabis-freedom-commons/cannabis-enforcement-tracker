@@ -31,16 +31,24 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-01
     language: bn
+  - title: মেহেরপুরে গাঁজা সেবনের দায়ে যুবকের কারাদণ্ড ও অর্থদণ্ড
+    url: https://shironam.com/news/youth-imprisoned-and-fined-for-cannabis-consumption-in-meherpur
+    publisher: Shironam
+    date: 2026-11-01
+    language: bn
 open_questions:
   - No weight was published for the seized ganja, described only as some quantity, so no cannabis weight is recorded in figures.
   - Only one source could be opened and no second report of this event was found in Bengali or English searches.
   - The incident date is taken as 1 November 2026 from the reported 6:30pm raid and same-day publication, with the mobile-court sentence at the scene on the same occasion.
   - Whether the lead photo on the source page shows this event could not be verified from the text capture, so its caption describes it only as the accompanying report photo.
+  - The submitted page shows only a relative timestamp of 1 day ago with a 2026/11/01 image path; 2026-11-01 is used as its publication date.
+  - The submitted summary omits the legal section, raid time, seized paraphernalia and officers named in the existing report, so it corroborates identity, place and sentence but not those details.
+  - The page carries a lead photo captioned only with the headline, which does not establish that it shows this event, so no media entry is added.
 ---
 
 District narcotics control officers caught 40-year-old Shariful Islam red-handed
 while he was smoking ganja near Garadob Secondary School in Gangni Upazila,
-Meherpur. [@1] The team raided the area at about 6:30pm on Sunday, 1 November,
+Meherpur. [@1,2] The team raided the area at about 6:30pm on Sunday, 1 November,
 and detained him. [@1] The convicted man is the son of Diraj Uddin of Garadob
 village. [@1]
 
@@ -51,10 +59,9 @@ evidence of consumption. [@1] Upazila executive officer and executive magistrate
 Masudur Rahman then convened a mobile court at the scene, a magistrate-led court
 that decides minor offences on the spot. [@1] The court convicted Shariful Islam
 under Section 36(5) of the Narcotics Control Act 2018 and sentenced him to three
-months simple imprisonment with a fine of 100 taka. [@1] After the verdict, the
+months simple imprisonment with a fine of 100 taka. [@1,2] After the verdict, the
 seized drug exhibits were burned publicly. [@1]
 
 District narcotics control Assistant Director Russell Ahmed was present during
 the operation. [@1] The mobile court said such anti-drug operations would
-continue. [@1]
-
+continue. [@1,2]
