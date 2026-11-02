@@ -36,6 +36,11 @@ sources:
     publisher: Hakaekonline | حقائق اون لاين
     date: 2026-11-01
     language: ar
+  - title: ضربة لشبكة تهريب القنب الهندي بسوسة.. حجز 30 صفيحة
+    url: https://www.tuniscope.com/ar/article/443706/actualites/tunisie/sousse-475921
+    publisher: Tuniscope
+    date: 2026-10-31
+    language: ar
 open_questions:
   - No weight was given for the 30 slabs, so the seizure is recorded by slab count only.
   - The suspect is not named, and no charge or court outcome has been reported.
@@ -53,7 +58,7 @@ media:
 ---
 
 Tuniscope reported that security units in Sousse Sud seized 30 slabs of cannabis
-on the evening of 31 October 2026. [@2] The substance was cannabis resin, known
+on the evening of 31 October 2026. [@2,5] The substance was cannabis resin, known
 in Tunisia as zatla, and the slabs were prepared for sale, Radio Marina said.
 [@3] A suspect was arrested, Radio Marina reported. [@3] The public prosecutor
 authorised his detention and legal measures against him. [@3] The operation
