@@ -48,24 +48,30 @@ sources:
     publisher: Dainik Jagran
     date: 2026-10-31
     language: hi
+  - title: 'ट्रक के टूल बॉक्स में छिपाया 40.545 KG गांजा: आरोपी ड्राइवर को 20 साल की जेल, कंपनी के गार्ड ने की थी शिकायत - Raipur News'
+    url: https://www.bhaskar.com/g/local/chhattisgarh/news/urla-real-ispat-truck-driver-ganja-smuggling-jail-sentence-139536868.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-30
+    language: hi
 open_questions:
   - The High Court bail order describes four packets kept beneath the truck's tool box, while the news reports say the sacks were inside it; the report follows the news accounts.
   - The special court's judgment itself was not available to read, so the sentence, fine and acquittal rest on the news reports.
   - No photo of the arrest, the truck or the court could be identified among the images on the pages used, so none is listed.
   - IRFAN SA DIWAN v. STATE OF CHHATTISGARH (CaseMine) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
   - The reports do not say whether Diwan has appealed the 27 October 2026 sentence.
+  - The page lists an image without a caption or credit, so whether it shows this seizure could not be established and no media is listed.
 ---
 
 A special NDPS court in Raipur sentenced truck driver Irfan Sa Diwan to 20 years
 of rigorous imprisonment on 27 October 2026. [@3,5] The court fined him ₹2 lakh
 and ordered six more months of rigorous imprisonment if he does not pay. [@3,5]
 Diwan, 32, is from Bhobha Tekari village in Borsad, Anand district, Gujarat.
-[@3] The court acquitted him of a separate conspiracy charge. [@1,5]
+[@3] The court acquitted him of a separate conspiracy charge. [@1,5,6]
 
 On 1 April 2025, a security guard at the Real Ispat Company in Urla, Raipur,
 told police that cannabis was hidden in the tool box of a truck that had come to
 load goods. [@2,5] Officers opened the box and found four white plastic sacks of
-cannabis. [@1,5] The load weighed 40.545 kg. [@1,5] Police seized the cannabis and
+cannabis. [@1,5,6] The load weighed 40.545 kg. [@1,5,6] Police seized the cannabis and
 the truck, and arrested Diwan after he could not show documents for possessing
 or transporting it. [@1,5] Police estimated the cannabis was worth about ₹4.05
 lakh. [@2]
@@ -77,4 +83,4 @@ told the High Court of Chhattisgarh that he was only the driver, that the
 truck's owner had fled the spot, and that he had no knowledge of the cannabis.
 [@4] The High Court refused his second bail application. [@4]
 
-Special Judge (NDPS Act) Shailesh Sharma delivered the judgment. [@5]
+Special Judge (NDPS Act) Shailesh Sharma delivered the judgment. [@5,6]
