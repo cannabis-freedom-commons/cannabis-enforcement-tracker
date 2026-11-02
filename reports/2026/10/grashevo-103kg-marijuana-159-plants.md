@@ -31,6 +31,11 @@ sources:
     publisher: БТА
     date: 2026-10-31
     language: bg
+  - title: Полиция нашла 103 кг марихуаны в имуществе в селе Грашево
+    url: https://burgasmedia.com/amp/news/policiyata-otkri-103-kg-marihuana-v-imot-v-grashevo?lang=ru
+    publisher: BurgasMedia
+    date: 2026-10-31
+    language: ru
 open_questions:
   - The reports say the operation ran in the 24 hours before publication on 31 October 2026 but give no separate date for the search at Grashevo.
   - The 103 kg is given as the total weight of the 159 drying plants; the reports do not separate usable marijuana from stems and leaves.
@@ -42,8 +47,8 @@ open_questions:
 
 Police found 159 cannabis plants that had been left to dry at a private property
 in Grashevo, a village in Velingrad municipality, the Pazardzhik regional
-Interior Ministry directorate said. [@1,2] A field drug test identified the plants
-as marijuana. [@1] The directorate gave the 103 kg as the total weight of the
+Interior Ministry directorate said. [@1,2,3] A field drug test identified the plants
+as marijuana. [@1,3] The directorate gave the 103 kg as the total weight of the
 marijuana from the 159 plants. [@2]
 
 The find came during a special operation across Pazardzhik region in the 24
@@ -51,7 +56,7 @@ hours before the announcement on 31 October 2026. [@1] The operation targeted
 violations of voting rights, everyday crime and traffic offences. [@1] Criminal,
 economic, security and traffic police from Pazardzhik, Peshtera, Septemvri,
 Velingrad and Panagyurishte took part, along with the regional gendarmerie unit
-in Plovdiv. [@1]
+in Plovdiv. [@1,3]
 
 Officers checked 1,020 people, 950 cars, 25 pawnshops and fast-loan offices, and
 52 people known to be active in crime. [@1] No arrest at the property was
