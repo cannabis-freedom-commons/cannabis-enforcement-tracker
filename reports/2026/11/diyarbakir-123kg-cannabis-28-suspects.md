@@ -39,6 +39,11 @@ sources:
     publisher: Amida Haber
     date: 2026-11-02
     language: tr
+  - title: Diyarbakır'da jandarma 28 şüpheliye işlem yaptı, 123 kilo esrar ele geçirildi
+    url: https://www.haberler.com/amp/diyarbakir-da-jandarma-28-supheliye-islem-yapti-20388098-haberi/
+    publisher: Haberler
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the operations themselves.
   - The reports say only that legal action was taken against 28 suspects and do not say whether they were detained, released, charged or remanded.
@@ -46,20 +51,21 @@ open_questions:
   - The Amida Haber page also reports 87 suspects caught in a separate wanted-persons sweep, which is a different event left out here.
   - Whether the lead photograph shows this specific seizure could not be established from its caption alone.
   - 'Left out, as its quotation was not found in Son Dakika: Diyarbakır''s provincial gendarmerie ran coordinated anti-drug operations across the city centre and districts against people accused of selling, transporting and using narcotics.'
+  - This account does not give the 16-incident count cited from Son Dakika in the existing report.
+  - The lead photo caption repeats only the headline and does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Those operations produced 16 recorded incidents and legal action against 28
 suspects. [@2] The reports give only that legal action and do not name any
 suspect or report any detention, remand or court outcome. [@1]
 
-Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1] They
+Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4] They
 also seized 525 cannabis and skunk roots, with kenevir the Turkish word for the
-cannabis plant and skunk the local term for high-potency cannabis. [@1] The same
+cannabis plant and skunk the local term for high-potency cannabis. [@1,4] The same
 operations also seized 523 pills, which are left out of the cannabis figures
-because the reports do not identify them as cannabis. [@3]
+because the reports do not identify them as cannabis. [@3,4]
 
 A governorship account says the provincial gendarmerie's anti-narcotics branch
-coordinated the work across the province. [@3] The reports are dated 2 November
+coordinated the work across the province. [@3,4] The reports are dated 2 November
 2026 and give no separate date for when the operations themselves took place.
 [@1]
-
