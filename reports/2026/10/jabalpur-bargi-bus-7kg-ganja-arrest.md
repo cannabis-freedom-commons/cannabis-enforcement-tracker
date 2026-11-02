@@ -40,22 +40,30 @@ sources:
     publisher: palpalindia
     date: 2026-11-01
     language: hi
+  - title: 23-yr-old arrested with 7.15 kg ganja worth Rs 3.58 lakh
+    url: https://www.thehitavada.com/Encyc/2026/11/2/23-yr-old-arrested-with-715-kg-ganja-worth-rs-358-lakh.html
+    publisher: The Hitavada
+    date: 2026-11-02
 open_questions:
   - The reports date the crime branch tip-off to 31 October but do not separately date the bus search and arrest.
   - No court date, plea or sentence was reported.
   - The Rs 3.58 lakh value is the police's estimate; the reports do not explain how it was calculated.
   - The submitted page's only photograph has no descriptive caption or credit, so it could not be identified as a picture of the seizure and is not listed as media.
   - Both accounts rest on the police version; no court record or independent witness account was found.
+  - The submitted page rounds the seizure to 7.15 kg while the existing report records 7 kg 158 g from Hindi accounts.
+  - The submitted page gives the bus registration as MP-50ZK-1297 while the existing report records MP 50 ZD 1297.
+  - The submitted page is dated 02-Nov-2026 with no separate day for the checkpoint; the existing report dates the tip-off to 31 October.
+  - The page photo caption only says 23-yr-old arrested with no descriptive caption or credit, so it could not be identified as showing this seizure and is not listed as media.
 ---
 
 A joint team of the crime branch and Bargi police arrested a 23-year-old man on
-a passenger bus. [@1,3] Officers stopped the bus near Sagar Dhaba on National
-Highway 34 in Bargi. [@2,3,4] Police identified the passenger as Deepak Barman, a
-resident of Hanumantal. [@1,3,4]
+a passenger bus. [@1,3,5] Officers stopped the bus near Sagar Dhaba on National
+Highway 34 in Bargi. [@2,3,4,5] Police identified the passenger as Deepak Barman, a
+resident of Hanumantal. [@1,3,4,5]
 
 A search of his backpack and plastic bags found four packets holding 7 kg 158 g
-of ganja, or cannabis. [@1,3] Police valued the haul at about Rs 3.58 lakh and
-seized his Vivo mobile phone. [@1,3]
+of ganja, or cannabis. [@1,3,5] Police valued the haul at about Rs 3.58 lakh and
+seized his Vivo mobile phone. [@1,3,5]
 
 The crime branch had received information on 31 October that a man was bringing
 a large quantity of ganja from Seoni to Bargi on a Pawan bus. [@1] Bargi station
@@ -64,5 +72,5 @@ at a checkpoint on the highway. [@2] Barman matched the description given by the
 informer and was found sitting on the bus. [@1,3]
 
 Police registered a case against him under Sections 8 and 20 of the Narcotic
-Drugs and Psychotropic Substances (NDPS) Act. [@1,3,4] They were questioning him
+Drugs and Psychotropic Substances (NDPS) Act. [@1,3,4,5] They were questioning him
 about where the consignment came from and whom it was meant for. [@1,3]
