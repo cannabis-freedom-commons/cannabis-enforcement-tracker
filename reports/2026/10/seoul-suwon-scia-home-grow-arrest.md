@@ -1,16 +1,19 @@
 ---
-date: 2026-10-28
+date: 2026-10-30
 country: kr
 place: Seoul
 coordinates: [37.5665, 126.978]
 precision: locality
 type: arrest
-also: [raid]
-title: Man in his 20s detained over a Seoul home cannabis grow
-summary: >-
-  Investigators detained a man in his 20s after arresting him at a Seoul home where he is accused of growing cannabis for several years. The Suwon Serious Crime Investigation Agency called it its first drug case; no plant count was released.
+also: [raid, seizure]
+title: Two men in their 20s arrested over 1.1 kg of cannabis grown in Seoul home
+summary: Suwon investigators arrested two men in their 20s for allegedly growing cannabis on the fourth floor of a Seongbuk building in Seoul, seizing about 1.1 kg valued at 170 million won. The case is the Suwon Serious Crime Investigation Agency's first self-initiated drug case, with distribution routes still under investigation.
 figures:
-  arrested: 1
+    arrested: 2
+    kg_seized: 1.1
+    value:
+        amount: 170000000
+        currency: KRW
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: d38f63e926770ffbf729f071c25d4cba
@@ -40,6 +43,10 @@ sources:
     publisher: SBS World News
     date: 2026-10-31
     language: en
+  - title: Two Men Arrested Over 1.1 Kilograms of Cannabis Grown in Seoul Home
+    url: https://en.sedaily.com/society/2026/11/01/two-men-arrested-over-11-kilograms-of-cannabis-grown-in
+    publisher: Seoul Economic Daily
+    date: 2026-11-01
 open_questions:
   - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
   - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
@@ -48,10 +55,14 @@ open_questions:
   - No court outcome beyond the detention warrant was reported.
   - The SBS English page is an AI translation and calls both the 28 October order and the court order issued on 30 October “arrest warrants,” while the existing Korean reports distinguish the arrest from a later detention warrant.
   - The only photo on the SBS page shows a signboard-unveiling ceremony for the Suwon office, not the home or the plants, so it was left out.
+  - Only this one opened source was found for the updated seizure weight and second suspect; no second outlet could be opened.
+  - The English account is AI-translated and says A was detained on 28 October and formally arrested on 30 October, leaving the exact Korean warrant terminology partly unresolved.
+  - No plant count was published, only the dried-cannabis weight.
+  - Whether the cannabis was distributed and the court outcome for both men remain under investigation.
 ---
 
 A man in his twenties, identified only as Mr A, was arrested at his home in a
-Seoul residential neighbourhood on suspicion of cultivating marijuana. [@1] The
+Seoul residential neighbourhood on suspicion of cultivating marijuana. [@1,6] The
 Narcotics Joint Investigation Division of the Suwon Regional Office of the
 Serious Crime Investigation Agency obtained an arrest warrant on 28 October 2026
 and took him at the residence. [@1,4,5] On 30 October the Suwon District Court
@@ -69,10 +80,12 @@ the scale of the cultivation and other details of the allegation could not be
 disclosed because the investigation was still under way. [@2] He was understood
 to claim that he had not distributed the cannabis he grew. [@3]
 
-The arrest is the Suwon office's first drug case since it opened. [@1,4,5] Its
+The arrest is the Suwon office's first drug case since it opened. [@1,4,5,6] Its
 narcotics joint investigation division is the only dedicated unit of its kind
 among regional Serious Crime Investigation Agency offices, formed after the
 Government Joint Investigation Headquarters for Drug Crimes under the Suwon
 District Prosecutors' Office was dissolved. [@1,4] The division brings together 43
 people from the investigation agency, the police, the Immigration and Foreign
 Policy Headquarters and customs. [@1]
+
+Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6]
