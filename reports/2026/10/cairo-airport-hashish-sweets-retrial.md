@@ -35,6 +35,11 @@ sources:
     publisher: Al-Masry Al-Youm
     date: 2026-10-28
     language: ar
+  - title: حلوى الحشيش في الحقائب.. القصة الكاملة لمحاولة تهريب عاملة أجنبية للمخدرات بمطار القاهرة
+    url: https://www.soralive.com/94637
+    publisher: صورة لايف
+    date: 2026-11-02
+    language: ar
 open_questions:
   - No date is given for the airport seizure or the in-absentia sentence; the retrial adjournment was reported on 28 October 2026, and 1 November is the publication date of the longer recap.
   - No weight for the hashish in the sweets and no estimated value for the seizure were published.
@@ -45,19 +50,18 @@ open_questions:
 
 Customs officers at Cairo International Airport found four transparent bags of
 sweets mixed with hashish hidden among the clothes of a foreign worker
-identified in court records as Mishil M. [@1] An inspector at the airport
+identified in court records as Mishil M. [@1,4] An inspector at the airport
 police's drug-control administration had received a tip that she was arriving
 from abroad with drugs and alerted customs officers, who searched her bags. [@1]
 She admitted possessing the sweets and said she held them for her own
-consumption. [@1] A laboratory test confirmed the sweets contained hashish,
+consumption. [@1,4] A laboratory test confirmed the sweets contained hashish,
 which Egypt's anti-narcotics law lists in its first schedule. [@1]
 
 The public prosecution charged her with possessing hashish for consumption and
 sent her to criminal trial. [@2] She was released pending the case. [@1] She did
 not attend her trial, and Cairo Criminal Court sentenced her in absentia to
-three years' aggravated imprisonment and a fine of 10,000 Egyptian pounds. [@1]
+three years' aggravated imprisonment and a fine of 10,000 Egyptian pounds. [@1,4]
 
-After the absentia verdict she began retrial proceedings. [@1] Cairo Criminal
+After the absentia verdict she began retrial proceedings. [@1,4] Cairo Criminal
 Court adjourned the retrial on 28 October 2026 to 8 November 2026 so that she
 could attend. [@3]
-
