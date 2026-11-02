@@ -91,6 +91,10 @@ sources:
   - title: Philippine Star - A 62-year-old American was arrested at... | Facebook
     url: https://www.facebook.com/PhilippineSTAR/posts/a-62-year-old-american-was-arrested-at-the-ninoy-aquino-international-airport-na/1678760480954491/
     publisher: Philippine Star
+  - title: Foreigner arrested at NAIA with P17-M high-grade marijuana
+    url: https://ptvnews.ph/foreigner-arrested-at-naia-with-p17-m-high-grade-marijuana/
+    publisher: PTV News
+    date: 2026-11-02
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -111,12 +115,14 @@ open_questions:
   - Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
   - The submitted page's only picture is a generic handcuff stock image from 2025, not a photograph of the seizure, so no media entry was added for it.
   - The post repeats the opening of the Philstar.com article the report already cites, so it corroborates that account rather than independently confirming it.
+  - The PTV News photo is credited to the Bureau of Customs and appears to show the same BOC seizure handout already cited in the report, so no new media entry is added.
+  - The same article also reports the separate 26 October seizure of 7,335 grams from abandoned luggage at the same terminal, which belongs to the existing report manila-naia-7335g-kush-luggage and is left out here.
 ---
 
 A 62-year-old American citizen was arrested at Ninoy Aquino International
 Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of
 high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency
-(PDEA) reported. [@1,2,3,4,7,9,12] The suspect, identified only by the alias “Henry,” had
+(PDEA) reported. [@1,2,3,4,7,9,12,13] The suspect, identified only by the alias “Henry,” had
 arrived from Bangkok, Thailand, and was intercepted at the airport's customs
 secondary inspection area on Thursday 29 October. [@2] The interception happened
 around 8:35 p.m. [@1,2]
@@ -140,7 +146,7 @@ Dangerous Drugs Act of 2002. [@1,7]
 
 The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
 
-According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
+According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
 
 An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9,11]
 
