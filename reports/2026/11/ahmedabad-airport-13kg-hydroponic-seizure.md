@@ -93,6 +93,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-01
     language: hi
+  - title: अहमदाबाद हवाई अड्डे से 13 किलो ‘हाइड्रोपोनिक गांजे’ के साथ गुजरात के 2 लोग गिरफ्तार
+    url: https://spokesmanhindi.com/national/gujarat/021126/two-people-from-gujarat-arrested-at-ahmedabad-airport-with-13-kg-of.html
+    publisher: Rozana Spokesman
+    date: 2026-11-02
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -120,13 +125,16 @@ open_questions:
   - The submitted page gives only its publication date of 1 November 2026 and no separate interception time.
   - The submitted page does not name the passengers, give ages or Surat residence, or identify a man and a woman as reported in other sources for the same event.
   - The page's only event image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
+  - The submitted page is published 2 November 2026 and says the seizure was reported on Sunday, consistent with the existing incident date of 1 November 2026, but gives no separate interception time.
+  - 'Left out, as its quotation was not found in Rozana Spokesman: X-ray screening of the baggage showed a suspicious image, and detailed examination found 14 packets in the trolley bags.'
+  - 'Left out, as its quotation was not found in Rozana Spokesman: The seized substance weighed 13.012 kg and was reported to be worth about Rs 13 crore in the illicit market.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
@@ -136,7 +144,7 @@ term for cannabis. [@1,2,5,9,10,11,14,15] Customs estimated the haul, a higher-p
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
