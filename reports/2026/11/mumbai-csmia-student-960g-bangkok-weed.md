@@ -21,30 +21,34 @@ sources:
     url: https://www.freepressjournal.in/mumbai/mumbai-customs-arrests-19-year-old-student-at-airport-for-allegedly-possessing-marijuana-brought-from-bangkok
     publisher: Free Press Journal
     date: 2026-11-02
+  - title: 'Mumbai Airport News: 19-Year-Old Held With Marijuana From Bangkok'
+    url: https://aviationjeta.com/mumbai-airport-news-19-year-old-held-with-marijuana-from-bangkok/
+    publisher: Aviation Jeta
+    date: 2026-11-01
 open_questions:
-  - The article says the interception and arrest happened on a Sunday; 1 November 2026 is used as that Sunday based on the 1-2 November 2026 update and publication stamps.
+  - The articles say the interception and arrest happened on a Sunday; 1 November 2026 is used as that Sunday based on the 1-2 November 2026 update and publication stamps.
   - No valuation, packaging weight breakdown, charge section, or independent bail order details were published.
-  - Only one opened source supported the event; no second account confirming the seizure was opened.
-  - The page's lead image is captioned as a representational image, so no event photo is listed.
+  - The passenger's name, student status, lawyer and bail are reported only by the Free Press Journal; the second account confirms the seizure details but names no one.
+  - Both pages' images are uncaptioned or representational, so no event photo is listed.
 ---
 
 Officers of the Air Intelligence Unit intercepted passenger B.S. Nathani after
 he arrived at CSMI Airport in Mumbai on Sunday from Bangkok on the basis of spot
-profiling for contraband. [@1] Mumbai Airport Customs then arrested Nathani, a
+profiling for contraband. [@1,2] Mumbai Airport Customs then arrested Nathani, a
 19-year-old Ulhasnagar resident, for allegedly possessing drugs sourced from
-Bangkok. [@1] Nathani was placed under arrest. [@1] His defence counsel,
+Bangkok. [@1,2] Nathani was placed under arrest. [@1] His defence counsel,
 Advocate Sunil Pandey, said Nathani is a student who was influenced by a woman
 in Bangkok and induced to carry a package to someone known to her in India
 without knowing its contents. [@1] Pandey said the court granted Nathani bail.
 [@1]
 
 Customs officers searched Nathani's backpack and found clothes and one food
-packet that held two plastic packets. [@1] Those packets contained marijuana
-described as hydroponic weed and weighing 960 grams. [@1]
+packet that held two plastic packets. [@1,2] Those packets contained marijuana
+described as hydroponic weed and weighing 960 grams. [@1,2]
 
 The accused claimed a woman he befriended in Bangkok had asked for his help
 delivering her package to her relative in Mumbai and said he did not know what
-was inside. [@1] A Customs officer said the preliminary investigation pointed to
+was inside. [@1,2] A Customs officer said the preliminary investigation pointed to
 other persons who had yet to be traced and that efforts were being made to
-identify and apprehend key associates. [@1]
+identify and apprehend key associates. [@1,2]
 
