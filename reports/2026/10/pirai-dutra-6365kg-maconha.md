@@ -54,12 +54,19 @@ sources:
     publisher: Gazeta Sul Fluminense
     date: 2026-11-01
     language: pt
+  - title: PRF prende foragido e barra 63 kg de maconha na Dutra no Sul do Rio
+    url: https://povonarua.com.br/prf-prende-foragido-droga-dutra-volta-redonda-pirai/
+    publisher: Povo na Rua
+    date: 2026-10-31
+    language: pt
 open_questions:
   - Foco Regional rounded the seizure to 63 kg and g1 said almost 64 kg; the report uses Folha do Aço's figure of 63.65 kg, which it attributes to the PRF.
   - No PRF statement was found, and none of the reports names the driver or gives a court outcome.
   - The payment of 1,500 reais is the driver's account to officers, not an official valuation of the cannabis.
   - The source does not explain the marking “CPX DO CONQUISTA CV A BRABA” found on the packages.
   - Gazeta Sul Fluminense republishes the Informa Cidade article word for word, so it adds no independent confirmation of the event.
+  - The new source also describes the capture of a 40-year-old fugitive passenger at km 264 in Volta Redonda, a separate event not covered by this cannabis report.
+  - The page's lead image carries no caption or credit confirming it shows this seizure, so no media entry is added from this source.
 ---
 
 Federal highway police arrested a 36-year-old driver on the afternoon of Friday
@@ -72,17 +79,19 @@ The car was a Volkswagen Polo Track with plates from São Bernardo do Campo, in
 São Paulo state. [@3,5] The driver told police a friend had rented the car and
 made it available for ride-hailing work. [@3,5] During the inspection officers
 noticed a strong smell of cannabis; Foco Regional said the search was carried
-out with dogs. [@1] In the boot they found five plastic bags of cannabis. [@1,4,5,6]
-Folha do Aço, citing the PRF, put the weight at 63.65 kilograms. [@3] Foco
+out with dogs. [@1] In the boot they found five plastic bags of cannabis. [@1,4,5,6,7]
+Folha do Aço, citing the PRF, put the weight at 63.65 kilograms. [@3,7] Foco
 Regional reported 63 kilograms, and g1 described the load as almost 64
 kilograms. [@2]
 
 He told officers he had collected the cannabis in Rio de Janeiro and was taking
 it to Volta Redonda, and that he would be paid 1,500 reais for the delivery.
-[@1,4,5,6] g1 reported that he admitted picking the load up in the state capital. [@2]
+[@1,4,5,6,7] g1 reported that he admitted picking the load up in the state capital. [@2]
 He was booked for drug trafficking and association for trafficking and taken
-with the load to the 94th police station in Piraí. [@3,4,5,6] His name was not
+with the load to the 94th police station in Piraí. [@3,4,5,6,7] His name was not
 released, and he remained at the disposal of the courts while the Civil Police
 investigated. [@2]
 
 The operation involved the PRF's tactical patrol group, the Alfa team of its 7th delegation and its dog unit from the Rio de Janeiro superintendency. [@5] The packages inside the bags were labelled “CPX DO CONQUISTA CV A BRABA”. [@5]
+
+The vehicle and the cannabis were retained for technical expert examination. [@7]
