@@ -51,6 +51,11 @@ sources:
     publisher: on.cc东网
     date: 2026-11-02
     language: zh
+  - title: 湾仔私家车遇查检冰毒可卡因大麻花 巴籍司机涉贩毒被捕
+    url: https://hk.on.cc/cnt/news/20261102/bkn-20261102020432347-1102_00822_001_cn.html
+    publisher: on.cc东网
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The HK$3,200 market-value figure covers the methamphetamine, cocaine and cannabis together and is therefore excluded from the cannabis figures.
   - Only the separately stated 1.6 grams of suspected cannabis buds is counted as cannabis; the suspected methamphetamine and cocaine weights are excluded.
@@ -66,16 +71,16 @@ car outside 221 Gloucester Road in Wan Chai at about 2am on 2 November 2026 and
 stopped it for a search. [@3,4,5] The car was parked at the Gloucester Road address
 when officers found it suspicious and approached to intercept it. [@2] Officers
 arrested the car's 34-year-old non-Chinese driver on suspicion of trafficking in
-dangerous drugs. [@1,4,5] The driver, described by one outlet as a Pakistani
+dangerous drugs. [@1,4,5,6] The driver, described by one outlet as a Pakistani
 national driving the private car, was detained for investigation and the case
 was passed to Wan Chai District criminal investigation team 7 for follow-up.
 [@2]
 
 Officers found about 3 grams of suspected methamphetamine, about 1.6 grams of
 suspected cocaine and about 1.6 grams of suspected cannabis buds inside the car.
-[@1,4,5] The seizure was described as more than 10 packets of suspected drugs taken
+[@1,4,5,6] The seizure was described as more than 10 packets of suspected drugs taken
 from the vehicle. [@1] Police put the combined market value of all three seized
 substances together at about HK$3,200, a joint figure that is not attributed to
 the cannabis alone. [@3]
 
-Officers brought a drug-sniffer dog to the scene but found no additional prohibited items. [@4,5]
+Officers brought a drug-sniffer dog to the scene but found no additional prohibited items. [@4,5,6]
