@@ -7,7 +7,7 @@ import { restartControl } from "../lib/submission-restart.js";
 import { renderAIActivity } from "../lib/ai-activity.js";
 import { renderDraft, readResult } from "./draft-report.js";
 import { savedReportPath } from "../lib/report-preview.js";
-import { runCost, planCost, formatUSD } from "../lib/model-cost.js";
+import { runCost, planCost, formatUSD, displayedRunCost, modelPlan, planDescription } from "../lib/model-cost.js";
 import { safeHTTP } from "../lib/submission-receipts.js";
 import { STAGES, statusMeta, isRunning, OUTCOME_HELP, ORIGINS, attempts, relativeTime, fullTime, duration, sourceParts } from "../lib/submission-status.js";
 
@@ -324,13 +324,13 @@ function stats(box, v, ai) {
     const sum = (k) => runs.reduce((t, r) => t + Number(r[k] || 0), 0);
     const read = sum("input_tokens") + sum("cache_read_tokens"), written = sum("output_tokens") + sum("reasoning_tokens");
     row("Tokens read", num(read), `${num(sum("input_tokens"))} new, ${num(sum("cache_read_tokens"))} from the cache`);
-    if (read) row("From cache", `${Math.round((sum("cache_read_tokens") / read) * 100)}%`, "Share of the input the model had seen in earlier steps, billed at a fraction of the price");
+    if (read) row("From cache", `${Math.round((sum("cache_read_tokens") / read) * 100)}%`, "Share of the input the model had seen in earlier steps, priced at the model’s cached rate when supplied");
     row("Tokens written", num(written), `${num(sum("output_tokens"))} answer and tool calls, ${num(sum("reasoning_tokens"))} reasoning`);
     if (written) row("Reasoning", `${Math.round((sum("reasoning_tokens") / written) * 100)}% of written`);
-    const api = runs.reduce((t, r) => t + runCost(r), 0), plan = ai?.processing?.plan, share = planCost(api, plan);
-    if (share) row("Cost (plan)", formatUSD(share), `Share of a $${plan.price_usd} a month plan with $${plan.allowance_usd} of usage`);
-    row("Cost (API price)", formatUSD(api), "Tokens at OpenCode Go prices for the hour each run started; reasoning as output, cached input at the cached price");
-    if (steps && api) row("Per step", formatUSD((share || api) / steps));
+    const api = runs.reduce((t, r) => t + runCost(r), 0), plan = ai?.processing?.plan, share = runs.reduce((t, r) => t + planCost(runCost(r), plan, r.model), 0);
+    if (share) row("Cost (plan)", formatUSD(share), `Sum of each run’s plan share (${[...new Set(runs.map(r => modelPlan(r.model, plan)).filter(Boolean).map(planDescription))].join("; ")})`);
+    row("Cost (API price)", formatUSD(api), "Reported API cost or model token prices; reasoning as output, cached input at its listed rate or standard input when unspecified");
+    if (steps && api) row("Per step", formatUSD(runs.reduce((t, r) => t + displayedRunCost(r, plan), 0) / steps));
   }
   // the source and the answer
   const c = v.source_check, check = v.validation, r = readResult(v);

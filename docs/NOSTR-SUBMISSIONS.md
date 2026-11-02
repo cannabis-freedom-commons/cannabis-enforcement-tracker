@@ -619,6 +619,16 @@ are explicitly excluded from cost totals. Plan share uses the current subscripti
 configuration and is an allocation estimate, not additional billing. Interrupted/running
 usage may be incomplete. Backend restart is required to expose the new endpoint.
 
+Swancloud token estimates use the operator-supplied USD prices per million tokens:
+`muse-spark-1.3-contributor` input $0.100/output $0.200, and `deepseek-v4.1-flash`
+input $0.150/output $0.090. These rates have no time-of-day adjustment. Reasoning uses output
+pricing; cache reads/writes use standard input pricing because no separate cache rate was supplied.
+Reported API costs still take precedence. The operator's 15× Swancloud plan is estimated as API
+value divided by 15, separately for each run. This applies only to these Swancloud model IDs,
+including reasoning variants; historical OpenCode runs retain the configured price/allowance ratio.
+The register, request detail, report research summary and AI statistics use the same calculations.
+Cost sorting uses API value, including the new Swancloud estimates.
+
 ## Archived capture compression
 
 After a case reaches a terminal status and no job is running for it, its private captured PNGs

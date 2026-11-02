@@ -1,5 +1,5 @@
 import { summarizeAIUsage } from '../lib/ai-usage.js';
-import { formatUSD } from '../lib/model-cost.js';
+import { formatUSD, modelPlan } from '../lib/model-cost.js';
 import { watchSubmissionUpdates } from '../lib/ai-activity.js';
 
 const root = document.querySelector('[data-ai-stats]');
@@ -23,7 +23,7 @@ function initialize(root) {
       const data = await response.json();
       if (selected !== period.value) { pending = true; return; }
       const {rows, totals} = summarizeAIUsage(data.usage, data.plan);
-      const hasPlan = data.plan?.price_usd > 0 && data.plan?.allowance_usd > 0;
+      const hasPlan = Boolean(modelPlan("", data.plan)) || rows.some(row => modelPlan(row.model, data.plan));
       const tiles = [
         [fmt(totals.runs), 'Research runs'], [fmt(totals.running), 'Running now'],
         [fmt(totals.input), 'Input tokens, including cache'], [fmt(totals.output), 'Output tokens, including reasoning'],
@@ -42,7 +42,7 @@ function initialize(root) {
       }));
       root.querySelector('[data-plan-cost]').hidden = !hasPlan;
       $('ai-stats-status').textContent = `${rows.length ? 'Updated' : 'No research runs recorded for this period. Updated'} ${new Date(data.updated_at * 1000).toLocaleTimeString()}.`;
-      $('ai-stats-note').textContent = `${fmt(totals.cached)} cached input tokens · ${fmt(totals.reasoning)} reasoning output tokens. Costs use OpenCode telemetry where available, otherwise the configured model pricing and each run’s peak/off-peak start time. These are usage estimates, separate from budget reservations.${hasPlan ? ' Plan share prorates API value using the current subscription price and allowance; it is not an additional bill.' : ''}${totals.unpriced ? ` Cost unavailable for ${fmt(totals.unpriced)} ${totals.unpriced === 1 ? "run" : "runs"}; those runs are excluded from cost totals.` : ''} Startup connectivity probes are excluded. Running and interrupted runs may have incomplete telemetry.`;
+      $('ai-stats-note').textContent = `${fmt(totals.cached)} cached input tokens · ${fmt(totals.reasoning)} reasoning output tokens. Costs use OpenCode telemetry where available, otherwise the configured model pricing, including peak/off-peak start time where applicable. These are usage estimates, separate from budget reservations.${hasPlan ? ' Plan share uses the model’s plan multiplier, or the configured subscription price and allowance; it is not an additional bill.' : ''}${totals.unpriced ? ` Cost unavailable for ${fmt(totals.unpriced)} ${totals.unpriced === 1 ? "run" : "runs"}; those runs are excluded from cost totals.` : ''} Startup connectivity probes are excluded. Running and interrupted runs may have incomplete telemetry.`;
       $('ai-stats-content').hidden = false;
     } catch {
       if (selected === period.value) $('ai-stats-status').textContent = 'AI usage is unavailable. Start or update the backend; this page retries automatically.';

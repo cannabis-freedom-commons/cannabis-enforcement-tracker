@@ -24,3 +24,14 @@ test('empty usage has zero totals, and a reported cost works for an unknown mode
  assert.equal(totals.unpriced,0);
  assert.equal(totals.planCost,0);
 });
+
+test('mixed providers keep separate plan ratios when aggregating multiple buckets',()=>{
+ const old=bucket({input_tokens:1e6,output_tokens:1e6,cache_read_tokens:0,cache_write_tokens:0,reasoning_tokens:0});
+ const muse=bucket({model:'swancloud/muse-spark-1.3-contributor#high',cost_usd:0.3});
+ const flash=bucket({model:'swancloud/deepseek-v4.1-flash',cost_usd:0.24});
+ const {rows,totals}=summarizeAIUsage([old,muse,muse,flash],{price_usd:10,allowance_usd:180});
+ assert.equal(totals.unpriced,0);
+ assert(Math.abs(rows.find(r=>r.model===muse.model).planCost-0.04)<1e-12);
+ assert(Math.abs(totals.planCost-(runCost(old)/18+0.6/15+0.24/15))<1e-12);
+ assert.equal(summarizeAIUsage([muse],null).totals.planCost,0.02);
+});

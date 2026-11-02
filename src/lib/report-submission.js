@@ -2,7 +2,7 @@
 // how, how long the AI research took and what it cost. Only what a reader would ask; the request
 // page has the rest.
 import { ORIGINS, duration } from "./submission-status.js";
-import { runCost, planCost, formatUSD } from "./model-cost.js";
+import { formatUSD, displayedRunCost } from "./model-cost.js";
 
 export const SUBMISSION_ID = /^[0-9a-f]{32}$/;
 export const shortSubmission = (id) => String(id).slice(0, 8);
@@ -17,7 +17,7 @@ export function submissionFacts(v, ai) {
   if (runs.length) {
     const seconds = runs.reduce((t, r) => t + r.finished_at - r.started_at, 0);
     facts.push(`researched in ${duration(seconds)}${runs.length > 1 ? ` over ${runs.length} runs` : ""}`);
-    const api = runs.reduce((t, r) => t + runCost(r), 0), cost = planCost(api, ai?.processing?.plan) || api;
+    const cost = runs.reduce((t, r) => t + displayedRunCost(r, ai?.processing?.plan), 0);
     if (cost > 0) facts.push(`AI cost ${formatUSD(cost)}`);
   }
   return facts;

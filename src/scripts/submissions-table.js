@@ -2,7 +2,7 @@
 // A row says what is happening (a pulsing status while running, its stage and attempt) or how it
 // ended and why, and links to the request's own page.
 import { renderProcessingStatus } from "../lib/ai-activity.js";
-import { runCost, planCost, formatUSD } from "../lib/model-cost.js";
+import { runCost, planCost, formatUSD, displayedRunCost } from "../lib/model-cost.js";
 import { ID_PATTERN } from "../lib/submission-receipts.js";
 import { queueEstimate } from "../lib/queue-estimate.js";
 import { statusMeta, isRunning, STAGES, ORIGINS, relativeTime, fullTime, sourceParts } from "../lib/submission-status.js";
@@ -82,8 +82,8 @@ function initialize(root) {
     runs.append(el("span", String(v.run_count || 0), "sx-row-count"), el("span", "·", "sx-row-sep"), el("span", span(total)));
     runs.title = `${v.run_count || 0} AI ${v.run_count === 1 ? "run" : "runs"} (${span(runTime)} of research) · ${span(total)} from receipt${running ? " so far" : ""}`;
     // cost: the plan's share, or the API price without a plan
-    const apiCost = list.reduce((t, r) => t + runCost(r), 0), share = planCost(apiCost, plan);
-    const cost = el("span", apiCost ? formatUSD(share || apiCost) : "—", "sx-row-cost");
+    const apiCost = list.reduce((t, r) => t + runCost(r), 0), share = list.reduce((t, r) => t + planCost(runCost(r), plan, r.model), 0), shownCost = list.reduce((t, r) => t + displayedRunCost(r, plan), 0);
+    const cost = el("span", apiCost ? formatUSD(shownCost) : "—", "sx-row-cost");
     cost.title = apiCost ? `${share ? `${formatUSD(share)} of the plan · ` : ""}${formatUSD(apiCost)} at API prices` : "No AI run yet";
     a.append(when, ...(showUpdated ? [updated] : []), id, src, state, tokens, runs, cost);
     li.append(a); return li;

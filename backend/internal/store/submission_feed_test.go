@@ -235,3 +235,38 @@ func TestCommitRateUsesRecentPublicationsAcrossFiltersAndReceipts(t *testing.T) 
 		t.Fatal(page.Summary, err)
 	}
 }
+
+func TestSubmissionCostSortIncludesSwancloudEstimates(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	// Deliberately insert in descending API-cost order; variants and cached input
+	// must be priced too, rather than sinking to the unknown-cost bucket.
+	models := []string{"opencode-go/deepseek-v4.1-flash", "swancloud/muse-spark-1.3-contributor#high", "swancloud/deepseek-v4.1-flash"}
+	ids := []string{}
+	for i, model := range models {
+		u := fmt.Sprintf("https://news.example/pricing-%d", i)
+		id, err := s.Accept(ctx, Intake{Origin: "web", URL: u, CanonicalURL: u})
+		if err != nil {
+			t.Fatal(err)
+		}
+		ids = append(ids, id)
+		v, _ := s.Get(ctx, id)
+		run, err := s.Reserve(ctx, v.CaseID, "workspace", 1, 1000)
+		if err != nil {
+			t.Fatal(err)
+		}
+		if _, err = s.DB.Exec("UPDATE research_runs SET model=?,input_tokens=500000,cache_read_tokens=500000,output_tokens=1000000,started_at=1793016000 WHERE id=?", model, run); err != nil {
+			t.Fatal(err)
+		}
+	}
+	page, err := s.ListSubmissions(ctx, "", "", "", "cost", "asc")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(page.Submissions) != 3 || page.Submissions[0].ID != ids[2] || page.Submissions[1].ID != ids[1] || page.Submissions[2].ID != ids[0] {
+		t.Fatal("incorrect estimated API-cost ordering", page.Submissions)
+	}
+	if page.Submissions[0].sortKey != "240000000" || page.Submissions[1].sortKey != "300000000" {
+		t.Fatal("Swancloud API value differs from displayed pricing", page.Submissions[0].sortKey, page.Submissions[1].sortKey)
+	}
+}

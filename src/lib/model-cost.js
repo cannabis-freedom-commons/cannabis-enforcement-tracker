@@ -1,9 +1,11 @@
-// What a run cost, worked out from the tokens it used and the model's published price. OpenCode
-// reports no cost for these models, so the request page does the sum itself. Prices are US dollars
-// per million tokens, from https://opencode.ai/v2/docs/console/go: DeepSeek V4.1 Flash costs half as
-// much outside its peak hours (01:00-04:00 and 06:00-10:00 UTC, Monday to Friday). Reasoning tokens
-// are billed as output; cached input (what the model has seen in earlier steps) at the cached price.
+// USD per million tokens. Operator-supplied Swancloud rates include no peak or cache
+// discount. OpenCode Go rates: https://opencode.ai/v2/docs/console/go (half price
+// outside 01:00–04:00 and 06:00–10:00 UTC weekdays). Reasoning is billed as output.
 export const MODEL_PRICES = {
+  // Swancloud rates and 15× subscription supplied by the operator (USD / million tokens).
+  // No separate cached-input rate supplied: estimate it at the standard input price.
+  "swancloud/muse-spark-1.3-contributor": { input: 0.100, output: 0.200, planMultiplier: 15 },
+  "swancloud/deepseek-v4.1-flash": { input: 0.150, output: 0.090, planMultiplier: 15 },
   "opencode-go/deepseek-v4.1-flash": { input: 0.15, output: 0.6, cached: 0.003, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006 },
 };
 
@@ -26,17 +28,32 @@ export function runCost(run) {
   const price = MODEL_PRICES[baseModel(run?.model)];
   if (!price) return 0;
   const peak = isPeak(run.started_at || run.created_at);
-  const input = peak ? price.peakInput : price.input;
-  const output = peak ? price.peakOutput : price.output;
-  const cached = peak ? price.peakCached : price.cached;
+  const input = peak ? (price.peakInput ?? price.input) : price.input;
+  const output = peak ? (price.peakOutput ?? price.output) : price.output;
+  const cached = (peak ? price.peakCached : undefined) ?? price.cached ?? input;
   const n = (k) => Number(run?.[k] || 0);
   // a cache write is billed as input where the model lists no price of its own for it
   return ((n("input_tokens") + n("cache_write_tokens")) * input + (n("output_tokens") + n("reasoning_tokens")) * output + n("cache_read_tokens") * cached) / 1e6;
 }
 
-// What a run really cost on a subscription (OpenCode Go: a monthly price for model usage worth
-// more at API prices): its share of the plan, the API price times price/allowance. 0 without a plan.
-export function planCost(apiCost, plan) {
+// Estimated subscription allocation: the model’s fixed plan multiplier takes priority
+// over the configured price/allowance ratio. A missing plan returns zero.
+export function modelPlan(model, plan) {
+  const multiplier = MODEL_PRICES[baseModel(model)]?.planMultiplier;
+  if (multiplier > 0) return { multiplier };
+  return plan?.multiplier > 0 || (plan?.price_usd > 0 && plan?.allowance_usd > 0) ? plan : null;
+}
+export function planDescription(plan) {
+  return plan?.multiplier > 0 ? `${plan.multiplier}× plan (API value ÷ ${plan.multiplier})`
+    : `$${plan?.price_usd} a month plan with $${plan?.allowance_usd} of usage`;
+}
+export function displayedRunCost(run, plan) {
+  const api = runCost(run);
+  return planCost(api, plan, run?.model) || api;
+}
+export function planCost(apiCost, plan, model) {
+  plan = modelPlan(model, plan);
+  if (plan?.multiplier > 0) return apiCost / plan.multiplier;
   const price = Number(plan?.price_usd || 0), allowance = Number(plan?.allowance_usd || 0);
   return price > 0 && allowance > 0 ? (apiCost * price) / allowance : 0;
 }

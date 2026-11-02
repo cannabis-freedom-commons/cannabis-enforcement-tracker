@@ -83,7 +83,7 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
       <button type="button" class="sx-sort" data-sort="status" aria-sort="none" title="Sort by status" disabled={!api}>Status</button>
       <button type="button" class="sx-sort" data-sort="tokens" aria-sort="none" title="Sort by tokens read and written" disabled={!api}>Tokens in/out</button>
       <button type="button" class="sx-sort" data-sort="runs" aria-sort="none" title="Sort by time since the source arrived" disabled={!api}>Runs · time</button>
-      <button type="button" class="sx-sort" data-sort="cost" aria-sort="none" title="Sort by cost" disabled={!api}>Cost</button>
+      <button type="button" class="sx-sort" data-sort="cost" aria-sort="none" title="Sort by API cost" disabled={!api}>Cost</button>
     </div>
     <ol class="sx-list" id="register-rows" aria-live="polite" aria-busy="true">
       <li class="sx-empty">{api ? "Loading submissions…" : "Submissions are not available yet."}</li>

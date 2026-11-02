@@ -12,7 +12,7 @@ export function summarizeAIUsage(buckets, plan) {
     row.reasoning += b.reasoning_tokens;
     row.cost += runCost(b);
     if (!(b.cost_usd > 0) && !MODEL_PRICES[baseModel(b.model)]) row.unpriced += b.runs;
-    row.planCost = planCost(row.cost, plan);
+    row.planCost = planCost(row.cost, plan, b.model);
     models.set(b.model, row);
   }
   const rows = [...models.values()].sort((a,b) => b.cost-a.cost || b.runs-a.runs || a.model.localeCompare(b.model));

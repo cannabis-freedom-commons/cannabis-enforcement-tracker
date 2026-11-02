@@ -1,6 +1,6 @@
-import { runCost, planCost, costEstimated, formatUSD } from "./model-cost.js";
+import { runCost, planCost, costEstimated, formatUSD, modelPlan, planDescription, displayedRunCost } from "./model-cost.js";
 
-export const MODEL_LABELS = { "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go" };
+export const MODEL_LABELS = { "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
 // "opencode-go/deepseek-v4.1-flash#max" is the model at a reasoning variant; show both, without the #
 export function modelLabel(model) {
   const [base, variant] = String(model || "").split("#");
@@ -173,9 +173,10 @@ export function renderAIActivity(container, payload, options = {}) {
     // OpenCode reports no cost for these runs, so it is worked out from the tokens at the price for
     // the hour the run started (src/lib/model-cost.js); on a subscription the main figure is the
     // run's share of it, with the API price under it
-    const plan = processing?.plan;
+    const plan = modelPlan(run.model, processing?.plan);
     const cost = runCost(run), totalCost = all.reduce((s, r) => s + runCost(r), 0);
     const shown = (c) => (plan ? planCost(c, plan) : c);
+    const totalShown = all.reduce((sum, r) => sum + displayedRunCost(r, processing?.plan), 0);
     const n = (r, ...keys) => keys.reduce((s, k) => s + Number(r[k] || 0), 0);
     const total = (...keys) => all.reduce((s, r) => s + n(r, ...keys), 0);
     const num = (v) => Number(v).toLocaleString();
@@ -184,12 +185,12 @@ export function renderAIActivity(container, payload, options = {}) {
       { label: "Time", value: run.started_at ? span(end - run.started_at) : "—", total: many && span(all.reduce((s, r) => s + time(r), 0)) },
       { label: "Steps", value: steps ? String(steps) : "—", total: many && String((activity.events || []).filter((e) => e.kind === "step" && !e.text.startsWith("OpenCode started")).length) },
       { label: "Tokens read", value: num(n(run, "input_tokens", "cache_read_tokens")), note: run.cache_read_tokens ? `${num(run.cache_read_tokens)} from cache` : "", total: many && num(total("input_tokens", "cache_read_tokens")),
-        title: `${num(run.input_tokens)} new input, ${num(run.cache_read_tokens || 0)} read from the cache (billed at a fraction of the price)` },
+        title: `${num(run.input_tokens)} new input, ${num(run.cache_read_tokens || 0)} read from the cache (priced at the model’s cached rate when supplied)` },
       { label: "Tokens written", value: num(n(run, "output_tokens", "reasoning_tokens")), note: run.reasoning_tokens ? `${num(run.reasoning_tokens)} reasoning` : "", total: many && num(total("output_tokens", "reasoning_tokens")),
         title: `${num(run.output_tokens)} answer and tool calls, ${num(run.reasoning_tokens || 0)} reasoning (billed as output)` },
-      { label: plan ? "Cost (plan)" : "Cost", value: money(shown(cost)), note: plan && cost > 0 ? `API price ${money(cost)}` : "", total: many && totalCost > 0 && money(shown(totalCost)),
+      { label: plan ? "Cost (plan)" : "Cost", value: money(shown(cost)), note: plan && cost > 0 ? `API price ${money(cost)}` : "", total: many && totalCost > 0 && money(totalShown),
         title: costEstimated(run)
-          ? `Worked out from the tokens used at OpenCode Go prices for the hour the run started (reasoning as output, cached input at the cached price): ${money(cost)} at API prices.${plan ? ` On a $${plan.price_usd} a month plan with $${plan.allowance_usd} of usage, that is ${money(shown(cost))}.` : ""}`
+          ? `Estimated from this model’s token prices (reasoning as output; cached input uses its listed rate, or standard input when unspecified): ${money(cost)} at API prices.${plan ? ` On a ${planDescription(plan)}, that is ${money(shown(cost))}.` : ""}`
           : money(cost) },
       { label: "Session", value: run.session_id || "starting…", total: many && `${all.length} runs` },
     ];
