@@ -39,6 +39,11 @@ sources:
     publisher: Memleket
     date: 2026-11-01
     language: tr
+  - title: 'Ankara''da uyuşturucu operasyonu: 40 şüpheli tutuklandı'
+    url: https://www.sabah.com.tr/yasam/ankarada-uyusturucu-operasyonu-40-supheli-tutuklandi-7692950
+    publisher: Sabah
+    date: 2026-11-01
+    language: tr
 open_questions:
   - Only one accessible report of this operation was found; no second report confirming the operation was opened.
   - 31 October 2026 is used as the incident date as the end of the stated 25-31 October 2026 operation period; 2 November 2026 is the publication date.
@@ -52,16 +57,18 @@ open_questions:
   - The submitted page says 49 Hint keneviri were seized (ele geçirildi) while the existing report describes 49 cannabis plants as destroyed; the count matches but the disposition wording differs.
   - The page lead image caption repeats the headline and its content could not be verified to show this operation, so no photo is listed.
   - The two page images captioned Ankara'da 109 gözaltı, 40 tutuklama repeat the headline and their content could not be verified to show this operation, so no photo is listed.
+  - The submitted page says 49 Hint keneviri were seized while the existing report describes 49 cannabis plants as destroyed; the count matches but the disposition wording differs.
+  - The page lead image caption repeats the headline and its content could not be verified to show this operation, so no media entry is added.
 ---
 
 Ankara Provincial Police Directorate's narcotics branch, the Narkotik Suçlarla
 Mücadele Şube Müdürlüğü, ran operations targeting drug sellers across Ankara
 between 25 and 31 October 2026. [@1,3,4] Officers detained 109 suspects during that
-week. [@1,2,3,4] Forty of the suspects were remanded in custody. [@1,2,3,4]
+week. [@1,2,3,4,5] Forty of the suspects were remanded in custody. [@1,2,3,4,5]
 
 Searches seized 791 grams of cannabis reported as esrar, alongside 85,929
 synthetic pills, 2 kilograms 965 grams of A.M. substance, 532 grams of cocaine,
-221 grams of bonzai and 57 grams of methamphetamine. [@1,2,3,4] Officers separately
+221 grams of bonzai and 57 grams of methamphetamine. [@1,2,3,4,5] Officers separately
 destroyed 49 cannabis plants reported as Hint keneviri roots. [@1,2,4] The esrar and
 Hint keneviri form the separately listed cannabis component of the mixed haul,
 while the other drug weights are not counted as cannabis. [@1]
