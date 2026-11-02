@@ -45,6 +45,10 @@ sources:
     publisher: WPEC
     date: 2026-10-30
     language: en
+  - title: Port St. Lucie police seize 9 pounds of marijuana during traffic stop
+    url: https://www.wqcs.org/wqcs-news/2026-10-31/port-st-lucie-police-seize-9-pounds-of-marijuana-during-traffic-stop
+    publisher: WQCS
+    date: 2026-10-31
 open_questions:
   - Police gave no street value for the marijuana; the $1,450 in the reports is cash found in the vehicle, not a valuation.
   - No court date, plea or outcome was reported after Torres was released on bail.
@@ -53,25 +57,27 @@ open_questions:
   - The gallery's first image shows a marked Port St. Lucie police SUV, while the report's existing media caption describes the lead CBS12 image as a composite of the driver's booking photo and the packaged marijuana; the other two gallery images share the same generic caption and could not be verified.
   - The WTVX page republishes the CBS12 article by the same author and repeats its text, so it is not an independent account of the arrest.
   - This gallery frame shares the same generic caption as the other CBS12 images and does not say what the photograph itself shows, so it was not added as a distinct picture.
+  - The page's only image is a stock crime-scene-tape photo credited to Aleksei Urussov/Gorodenkoff via stock.adobe.com, not a photo of this seizure, so no media entry is added.
+  - The WQCS wording of the first charge is possession of a controlled substance with intent to sell, manufacture or deliver marijuana, while the existing report phrases it as possession of marijuana with intent to sell, manufacture or deliver; the substance and conduct described are the same.
 ---
 
 The driver, Samuel Torres, 27, of Port St. Lucie, was arrested and charged with
 possession of marijuana with intent to sell, manufacture or deliver, and
-possession of drug paraphernalia for retail sale, police said. [@1,4] The
+possession of drug paraphernalia for retail sale, police said. [@1,4,6] The
 investigation began on 28 October 2026, when officers looking for a vehicle
 linked to a reported domestic disturbance stopped him near Southwest Rice Avenue
-and Southwest Chartwell Street. [@1,4] He was taken to the St. Lucie County Jail
+and Southwest Chartwell Street. [@1,4,6] He was taken to the St. Lucie County Jail
 and released the next day on a $22,500 bail, according to the jail’s website.
 [@2]
 
 Police said officers saw suspected marijuana inside the vehicle and called in
-the department’s Special Investigations Unit. [@1,4] Detectives found multiple
+the department’s Special Investigations Unit. [@1,4,6] Detectives found multiple
 vacuum-sealed and individually packaged bags, as well as loose suspected
 marijuana in the seats and floorboard, and investigators said the marijuana had
-been packaged for distribution. [@1,4] The traffic stop led to the seizure of
+been packaged for distribution. [@1,4,6] The traffic stop led to the seizure of
 nearly 9 pounds (about 4.1 kilograms) of marijuana and $1,450 in cash, police
-said. [@1,3,4,5] The 2019 Kia Optima was also seized under the Florida Contraband
-Forfeiture Act. [@1,4]
+said. [@1,3,4,5,6] The 2019 Kia Optima was also seized under the Florida Contraband
+Forfeiture Act. [@1,4,6]
 
 Torres told officers he and his girlfriend had argued and that he grabbed the
 marijuana from inside the home and put it in the vehicle to avoid her calling
