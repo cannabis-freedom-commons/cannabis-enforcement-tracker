@@ -23,6 +23,11 @@ media:
     media_url: https://foto.sondakika.com/crop/740x0/webp/haber/2026/11/02/pendik-te-kamyonete-duzenlenen-operasyonda-33-2-20386838_sd.jpg
     publisher: Son Dakika
     caption: Photo accompanying the report on the Pendik van seizure. Report credits DHA.
+  - kind: photo
+    url: https://www.baskenthaber06.com/haber/istanbul-pendikte-336-kilo-skunk-ele-gecirildi-1-kisi-gozaltina-alindi-1793608751/
+    media_url: https://media.baskenthaber06.com/article/bef872b4-b1e5-41d8-b660-351de8d56900-discover.webp
+    publisher: Başkent Haber 06
+    caption: Photo accompanying the report on the Pendik skunk operation.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 79e8ae9ea851addccec4c2fa654d8a5c
@@ -48,6 +53,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-02
     language: tr
+  - title: İstanbul Pendik'te 336 kilo skunk ele geçirildi, 1 kişi gözaltına alındı
+    url: https://www.baskenthaber06.com/haber/istanbul-pendikte-336-kilo-skunk-ele-gecirildi-1-kisi-gozaltina-alindi-1793608751/
+    publisher: Başkent Haber 06
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The exact day of the operation is inferred as 1 November 2026 from both reports' wording that it occurred yesterday evening relative to their 2 November 2026 publication; no separate calendar date for the raid itself is given.
   - The suspect is identified only by the initials Ü.A.; his full name, age and nationality were not published.
@@ -55,19 +65,21 @@ open_questions:
   - The reports give no origin, destination or intended distribution for the shipment.
   - The exact day of the operation is inferred as 1 November 2026 from the article's 'yesterday evening' relative to its 2 November 2026 publication; no separate calendar date for the raid is given.
   - Whether the Son Dakika page photo is distinct from the IHA photo already listed on the existing report or the same agency handout republished is not established.
+  - The submitted article gives no separate calendar date for the raid; 2026-11-02 is its publication date.
+  - The submitted article does not name the detained suspect, describe the vehicle as a van, or give the driver initials Ü.A. reported elsewhere.
 ---
 
 Istanbul narcotics police stopped a closed-box van on a highway in Pendik and
 detained its driver, identified only by the initials Ü.A. [@1,3] Officers took
 Ü.A. into custody at the scene and brought him to the police station for
 questioning. [@1] He was the only person reported detained in the operation.
-[@1,4] After his statement procedures at the station, he was expected to be
+[@1,4,5] After his statement procedures at the station, he was expected to be
 transferred to the courthouse. [@1]
 
 A search of the van’s cargo hold uncovered 336 kilograms 550 grams of skunk,
-which police seized. [@2,3,4] Officers had followed the van on the previous evening
+which police seized. [@2,3,4,5] Officers had followed the van on the previous evening
 as part of an investigation in Pendik, on Istanbul’s Anatolian side, before
-stopping it on the highway. [@2] Teams had carried out a series of inquiries in
+stopping it on the highway. [@2,5] Teams had carried out a series of inquiries in
 the district within the scope of that investigation. [@1]
 
 The operation was carried out by the Istanbul Narcotic Crimes Combating Branch,
