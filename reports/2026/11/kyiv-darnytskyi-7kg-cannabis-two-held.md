@@ -57,6 +57,11 @@ sources:
     publisher: ZahidFront
     date: 2026-11-02
     language: uk
+  - title: 'Наркоділки ховали канабіс у коробках з-під пластівців та собачих ласощів: у Києві вилучили наркотиків на 3 мільйони гривень'
+    url: https://kyivshchyna.info/narkodilky-khovaly-kanabis-u-korobkakh-z-pid-plastivtsiv-ta-sobachykh-lasoshchiv-u-kyievi-vyluchyly-narkotykiv-na-3-miljony-hryven/
+    publisher: Київщина Інфо
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -64,12 +69,13 @@ open_questions:
   - The page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
   - The submitted page states over 7.6 kg in total, consistent with about 4 kg plus 3.6 kg, so the existing 7 kg minimum figure is unchanged.
   - The submitted page's gallery image has no caption or credit establishing that it shows this seizure and its listed source image is a production-company promo, so no media entry is added.
+  - The page carries photos credited to Kyiv Police, but their captions repeat only the headline, so no media entry is added.
 ---
 
 Prosecutors under the Podilskyi district prosecutor's office in Kyiv notified
 two 25-year-old Kyiv men of suspicion of illegal acquisition and storage of
 drugs for sale on an especially large scale under Part 3 of Article 307. [@1]
-Both suspects are in custody. [@1,5] Investigators say the men packed the drug
+Both suspects are in custody. [@1,5,6] Investigators say the men packed the drug
 together for later sale to customers across Ukraine. [@1]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
@@ -78,11 +84,11 @@ flat in Kyiv's Darnytskyi district where they stored cannabis. [@1] They seized
 nine more vacuum packages weighing over 3.6 kg there. [@1,4] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 [@2,5] If proved, the charge carries up to 12 years in prison with confiscation of
-property. [@1,4,5]
+property. [@1,4,5,6]
 
 The pretrial investigation is being run by investigators of the Podilskyi police
-department in Kyiv with SBU operational support. [@1,4] Police say the men sold
+department in Kyiv with SBU operational support. [@1,4,6] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
 disguising parcels as household goods. [@3,4] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
-dog-treat boxes. [@3,4,5]
+dog-treat boxes. [@3,4,5,6]
