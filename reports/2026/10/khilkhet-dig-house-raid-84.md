@@ -47,6 +47,10 @@ sources:
     url: https://today.thefinancialexpress.com.bd/last-page/additional-dig-suspended-after-dj-party-raid-1793469350
     publisher: The Financial Express
     date: 2026-11-01
+  - title: Additional DIG suspended after DJ party raid at his rented Dhaka house
+    url: https://thefinancialexpress.com.bd/national/additional-dig-suspended-after-dj-party-raid-at-his-rented-dhaka-house
+    publisher: The Financial Express
+    date: 2026-10-31
 open_questions:
   - Initial police statements and bdnews24.com put the number detained at 84, while the home ministry notification cited by The Business Standard said 85 and The Business Standard reported that 85 people were sentenced.
   - bdnews24.com dates the raid to the early hours of 19 October; The Business Standard reported that it ran from 2:30am to 5:30am on 20 October, and its account of the suspension cites 19 October for the raid.
@@ -62,11 +66,11 @@ open_questions:
 
 Detectives from the Dhaka Metropolitan Police's Detective Branch (DB) raided a
 house in Dhaka's Khilkhet Police Housing area in the early hours of 19 October.
-[@1] The DB said a DJ party and drug consumption were under way when officers
+[@1,7] The DB said a DJ party and drug consumption were under way when officers
 moved in. [@1] Officers seized cannabis, yaba, alcohol and drug paraphernalia
-and detained 84 people, including 26 women. [@1,5,6]
+and detained 84 people, including 26 women. [@1,5,6,7]
 
-Additional Deputy Inspector General Abdullah Al Jahir rented out the house. [@1]
+Additional Deputy Inspector General Abdullah Al Jahir rented out the house. [@1,7]
 He had listed it for rent on Airbnb. [@3] Co-host Mahbubul Alam, who helped
 manage the property, was among those detained. [@3] Detectives said the house
 had hosted regular parties since 2025. [@4] The DB said 20 to 22 such events
