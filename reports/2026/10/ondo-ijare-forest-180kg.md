@@ -61,6 +61,10 @@ sources:
     url: https://www.nigerianeye.com/2026/11/ndlea-arrests-two-europe-bound.html
     publisher: NigerianEye
     date: 2026-11-01
+  - title: NDLEA intercepts large consignments of illicit drugs in 7 states
+    url: https://www.vanguardngr.com/2026/11/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/amp/
+    publisher: Vanguard News
+    date: 2026-11-01
 open_questions:
   - No count of the plants growing on the farms, no area for the farms and no value for the 180 kg were published.
   - No charge against the four arrested men was reported.
@@ -69,13 +73,15 @@ open_questions:
   - Ijare forest is not mapped separately; the coordinates mark Ijare town in Ifedore, Ondo State.
   - No photograph of the Ijare raid was identified; the submitted page's single image is uncaptioned and not described in its text.
   - The same roundup reports separate cannabis operations in Kano, Edo and Sokoto states, which belong to other reports.
+  - The Vanguard page is a seven-state NDLEA roundup; its Lagos, Kano, Kaduna, Sokoto, Oyo and Edo components belong to other reports and are left out here.
+  - The page's single image carries only the article title as caption and cannot be verified to show the Ijare raid, so no media entry is added.
 ---
 
 NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25
-October 2026. [@1,4,5,7] Four suspects were arrested during the raid, among them
+October 2026. [@1,4,5,7,12] Four suspects were arrested during the raid, among them
 Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1,7,9] A fourth suspect was
 held but not named. [@2] Officers recovered 16 bags of processed cannabis
-weighing 180 kg from the farms, the agency said. [@2,3,4,5,6,7,8,10,11] The agency reported no
+weighing 180 kg from the farms, the agency said. [@2,3,4,5,6,7,8,10,11,12] The agency reported no
 plant count, no farm area and no value for the 180 kg. [@1]
 
 NDLEA said the raid followed credible intelligence. [@2] The agency announced
