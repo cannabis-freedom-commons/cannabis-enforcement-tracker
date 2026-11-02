@@ -79,6 +79,11 @@ sources:
     publisher: Marreta Urgente
     date: 2026-10-30
     language: pt
+  - title: Mais de 50 kg de skunk são apreendidos em carro e casal acaba preso em Mato Grosso
+    url: https://noticiastudoaqui.com/noticia/rondonia-policial/100588/mulas-buscam-carga-em-rondonia-mais-de-50-kg-de-skunk-sao-apreendidos-em-carro-e-casal-acaba-preso-em-mato-grosso
+    publisher: Notícias Tudo Aqui
+    date: 2026-11-01
+    language: pt
 open_questions:
   - 'Police accounts differ on who made the stop: G1 and Primavera do Leste Net say Civil Police officers stopped the car on the MT-130 after a PRF tip, while CliqueF5 describes a routine PRF inspection; CliqueF5''s subheading also refers to a federal highway, not the MT-130.'
   - No court appearance, prosecutor's charge or sentence has been reported; the Civil Police said its investigation continued.
@@ -88,8 +93,8 @@ open_questions:
 ---
 
 A couple were arrested with 50.85 kg of skunk in Primavera do Leste, Mato
-Grosso, on Friday 30 October 2026. [@1,4,6,7] The drug was hidden in cardboard boxes
-in the boot of the car police searched. [@1,4,6,7] Skunk is a cannabis variety with a
+Grosso, on Friday 30 October 2026. [@1,4,6,7,8] The drug was hidden in cardboard boxes
+in the boot of the car police searched. [@1,4,6,7,8] Skunk is a cannabis variety with a
 high THC concentration. [@2]
 
 The Civil Police said it received information from the Federal Highway Police
@@ -107,7 +112,7 @@ said the trip began in Ji-Paraná (RO) and was bound for Rio Verde (GO). [@1,4]
 Both said they did not know who would receive the drug. [@1,4]
 
 Both were arrested in the act and charged with drug trafficking and association
-for trafficking. [@1,4,6,7] The Civil Police said it was still investigating who was
+for trafficking. [@1,4,6,7,8] The Civil Police said it was still investigating who was
 behind the load and how it was transported. [@3]
 
 The car was a white Chevrolet Onix and the stop was at about 09:15. [@4] The couple was travelling with a dog. [@5]
