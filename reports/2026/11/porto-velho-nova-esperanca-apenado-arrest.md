@@ -32,12 +32,18 @@ sources:
     publisher: PVH Notícias
     date: 2026-11-01
     language: pt
+  - title: 'VÍDEO: Apenado é preso com maconha, cocaína e ecstasy após tentar fugir pulando muros - Rondoniaovivo.com'
+    url: https://rondoniaaovivo.com/noticia/policia/2026/11/01/video-apenado-e-preso-com-maconha-cocaina-e-ecstasy-apos-tentar-fugir-pulando-muros.html
+    publisher: Rondoniaovivo
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No separable cannabis weight was published, and the headline total of more than 100 portions covers all drugs combined, so no cannabis kilogram figure is recorded.
   - The first account lists maconha, cocaine and ecstasy while the second lists maconha, cocaine, crack and synthetic drugs; the report keeps the shared cannabis component and notes the discrepancy.
   - The event date of 1 November 2026 rests on both reports' Sunday (01) timing and same-day publication; no separate hour-by-hour chronology was published.
   - No court outcome beyond transfer to the flagrante department was reported.
   - The Rondoniaovivo page embeds an Instagram video of the event, but no direct video file address was recoverable, so it is not listed as media.
+  - This account describes a Military Police patrol finding the man, while the existing report's Força Tática denunciation-led visit and Rua Raquel de Queiroz address come from the second outlet.
 ---
 
 Military police arrested a monitored apenado, a person serving a criminal
@@ -46,11 +52,11 @@ Queiroz in the Nova Esperança neighbourhood in the north zone of Porto Velho.
 [@2] A Força Tática team of the 1st Battalion under Sergeant Shokness went to
 the address after receiving denunciations that a man was selling drugs there.
 [@2] When the officers approached, the suspect ran and jumped over the walls of
-neighbouring houses to evade detention. [@1] The officers set up a perimeter
-cordon, intercepted and detained the apenado. [@1]
+neighbouring houses to evade detention. [@1,3] The officers set up a perimeter
+cordon, intercepted and detained the apenado. [@1,3]
 
 During the search officers seized several drug portions including maconha, the
-Portuguese word for cannabis, alongside cocaine and ecstasy. [@1] The second
+Portuguese word for cannabis, alongside cocaine and ecstasy. [@1,3] The second
 outlet described the haul as portions of maconha, cocaine, crack and synthetic
 drugs, plus objects of doubtful provenance. [@2] PVH Notícias presented the
 location as a boca de fumo, an open-air drug-selling point, and its headline put
@@ -58,4 +64,3 @@ the total haul at more than 100 drug portions. [@2]
 
 Police treated the case as trafficking and took the detainee with the seized
 material to the Civil Police flagrante department. [@1]
-
