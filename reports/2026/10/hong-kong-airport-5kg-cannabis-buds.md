@@ -34,6 +34,10 @@ sources:
     url: https://www.info.gov.hk/gia/general/202610/31/P2026103100514.htm
     publisher: Hong Kong Customs and Excise Department
     date: 2026-10-31
+  - title: Hong Kong Customs Seizes About 5kg of Suspected Cannabis Buds, Arrests Passenger at Airport
+    url: https://www.bastillepost.com/global/article/6310961-hong-kong-customs-seizes-about-5kg-of-suspected-cannabis-buds-arrests-passenger-at-airport
+    publisher: Bastillepost
+    date: 2026-10-31
 open_questions:
   - The weight was given as about 5 kilograms; no exact figure was published.
   - Customs did not name the man, and no charge or court appearance was reported in the opened accounts.
@@ -42,10 +46,10 @@ open_questions:
 ---
 
 Hong Kong Customs arrested a man at Hong Kong International Airport on 31
-October 2026 and seized about 5 kilograms of suspected cannabis buds. [@2] The
+October 2026 and seized about 5 kilograms of suspected cannabis buds. [@2,3] The
 passenger was a 37-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1] During clearance, officers found the buds inside his carry-on
-suitcase. [@2] Customs estimated their market value at about HK$1.1 million.
+Thailand. [@1,3] During clearance, officers found the buds inside his carry-on
+suitcase. [@2,3] Customs estimated their market value at about HK$1.1 million.
 [@2]
 
 Officials said an investigation into the origin and intended destination of the
@@ -58,4 +62,3 @@ behalf of others. [@1]
 
 Trafficking in a dangerous drug carries a maximum penalty of a HK$5 million fine
 and life imprisonment under the Dangerous Drugs Ordinance. [@1]
-
