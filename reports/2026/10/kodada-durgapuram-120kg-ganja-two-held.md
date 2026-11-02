@@ -94,6 +94,11 @@ sources:
     publisher: HMTV
     date: 2026-11-01
     language: te
+  - title: గంజాయి అక్రమ రవాణాపై పోలీసుల దాడి.. 120 కిలోల గంజాయి స్వాధీనం
+    url: https://telugu.getlokalapp.com/telangana-news/suryapet/kodad-constituency/police-raid-on-illegal-marijuana-trafficking-120-kg-of-marijuana-seized-17377178
+    publisher: Lokal Telugu
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -117,22 +122,27 @@ open_questions:
   - The HMTV article is dated 1 November 2026 and gives no separate date for the checks and seizure; the existing report keeps 31 October 2026.
   - HMTV names neither of the two people detained and reports no charges, value or court outcome.
   - The HMTV lead image is captioned only “Kodad” with no credit, so whether it shows this seizure is not established and no media entry is made.
+  - The article is dated 1 November 2026 and gives no separate date for the interception; the existing report keeps 31 October 2026.
+  - This account says over 120 kg from Rajahmundry to Bengaluru, while other reports already cited in the existing report say about 150 kg from Chitrakonda to Karnataka; the discrepancy is preserved in the existing report.
+  - This source transcribes the car's registration as KA03 MJ 4712; the existing report omits the registration because reports transcribe it differently.
+  - The value of the seized ganja and the identities of the two people held were still to be disclosed in this account.
+  - Whether the lead image on the Lokal page shows this seizure is not established from its caption, so no media entry is made.
 ---
 
-Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12]
+Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12,13]
 The two were carrying the cannabis by car from Rajahmundry in Andhra Pradesh to
 Bengaluru, according to the Telugu reports in Namasthe Telangana and Mee24News.
-[@1,12]
+[@1,12,13]
 
 Andhra Prabha reported that police received credible information about the ganja
 being moved and acted on it to stop the transport. [@2,12] After stopping the car,
-officers searched it and recovered the 120 kg, Mee24News reported. [@3] Police
+officers searched it and recovered the 120 kg, Mee24News reported. [@3,13] Police
 said they had opened an investigation into where the ganja had been loaded and
-to whom it was to be supplied. [@3,12]
+to whom it was to be supplied. [@3,12,13]
 
 The seizure was made inside Kodada town limits in Suryapet district in the state
 of Telangana. [@3,4] Kodada town police said full details of the case would be
-released after the investigation. [@3]
+released after the investigation. [@3,13]
 
 Telangana's EAGLE Force and Kodad Town Police stopped a Honda City near Kakatiya Seva Samithi on Kodad Highway. [@4] The two were identified as Selva Surya, 26, and Raja Gownder Murugan, 42, both from Chamarajanagar district in Karnataka. [@5] The Hindu reported that police seized 62 packets containing about 150 kg of ganja, valued at ₹75 lakh. [@5] Preliminary inquiries indicated the two had bought the consignment from a man named Raju in Chitrakonda, Odisha, and were taking it to Karnataka. [@5] The intended receivers arranged the car and promised the two ₹20,000 for the delivery, according to investigators. [@5] Investigators identified Eshwar Gownder, 40, and Shivappa, both from Hanur in Chamarajanagar, as the alleged receivers. [@5] Kodad Town Police registered a First Information Report under the Narcotic Drugs and Psychotropic Substances Act and began investigating. [@6]
 
