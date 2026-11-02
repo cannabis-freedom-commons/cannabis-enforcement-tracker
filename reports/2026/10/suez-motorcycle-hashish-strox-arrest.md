@@ -52,6 +52,11 @@ sources:
     publisher: يوليو
     date: 2026-11-01
     language: ar
+  - title: الداخلية تضبط مروجي مخدرات بعد تداول فيديو يوثق نشاطهما بالسويس
+    url: https://www.dostor.org/5759509
+    publisher: جريدة الدستور
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The reports give no separate date for the arrests; 31 October 2026, the day the accounts were published, is used as the incident date.
   - No weight or value was given for the strox or hashish seized.
@@ -67,20 +72,20 @@ open_questions:
 
 Egypt's Interior Ministry said its security services arrested two people accused
 of promoting drugs while riding a motorcycle in a street in Suez governorate,
-after a video documenting the incident circulated on social media. [@1,6] The
+after a video documenting the incident circulated on social media. [@1,6,7] The
 video showed the pair on the motorcycle promoting drugs in one of the city's
 streets. [@2,6] The ministry said officers established the circumstances of the
 footage after it circulated online. [@3,5,6] Police said both had criminal records
-and lived in the Arba'een police station district. [@1,4,5,6]
+and lived in the Arba'een police station district. [@1,4,5,6,7]
 
 Officers identified the two people shown in the video and arrested them, the
 ministry said. [@3,5,6] The motorcycle used in the incident, which had no licence
 plates, was found with them, along with a quantity of the drugs strox and
-hashish. [@1,4,5,6]
+hashish. [@1,4,5,6,7]
 
 Police held the motorcycle and took the required legal measures, the ministry
 said. [@2,4,5,6]
 
-When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said. [@4,6]
+When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said. [@4,6,7]
 
 The Public Prosecution took over the investigation, the ministry said. [@5]
