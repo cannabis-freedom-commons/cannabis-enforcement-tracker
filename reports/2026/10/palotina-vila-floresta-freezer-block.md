@@ -33,27 +33,33 @@ sources:
     publisher: Tribuna de Palotina
     date: 2026-10-30
     language: pt
+  - title: Polícia apreende mais de 680 gramas de maconha, cocaína e crack durante ação contra o tráfico em Palotina
+    url: https://portalpalotina.com.br/noticias/policial/policia-apreende-mais-de-680-gramas-de-maconha-cocaina-e-crack-durante-acao-contra-o-trafico-em-palotina
+    publisher: Portal Palotina
+    date: 2026-10-30
+    language: pt
 open_questions:
   - Only one arrest is reported; the Tribuna de Palotina says all three men were taken to the Military Police company for processing and does not say whether the other two were arrested, charged or released.
   - No weight was published for the cocaine or crack, and the 699 grams reported as the total includes all three drugs; the 663 grams of cannabis in the figures is the sum of the amounts Rádio Educadora gives (7, 620, 20 and 16 grams), not a police total.
   - No charges or court outcome were reported, and the case was still under investigation.
   - The Tribuna de Palotina published a lead photo credited to PMPR that was not added because its content could not be checked; it may be another picture of the same seizure.
+  - The submitted Toledo News capture contained only homepage listings and no article text for the Palotina seizure, so it could not be quoted.
 ---
 
 A tip about drug sales led Military Police to arrest one man and seize different
 kinds of drugs in Palotina. [@1] The operation took place on the afternoon of
-Friday 30 October 2026, at a house in the Vila Floresta neighbourhood. [@2] An
+Friday 30 October 2026, at a house in the Vila Floresta neighbourhood. [@2,3] An
 18-year-old fled through the back of the house and discarded a package as he
 ran. [@1] After a police cordon, he was found hiding under shelves inside a
-supermarket. [@1] A records check found an open arrest warrant against him for
-drug trafficking. [@1] A 24-year-old riding pillion on a motorcycle leaving the
+supermarket. [@1,3] A records check found an open arrest warrant against him for
+drug trafficking. [@1,3] A 24-year-old riding pillion on a motorcycle leaving the
 address was caught discarding a wrapper with about 7 grams of cannabis. [@1] A
 third man was inside the house when officers searched it. [@2] All three men
 were taken to the Palotina Military Police company for processing. [@2]
 
 With the resident's permission, officers searched the house and found a 620-gram
 block of cannabis, known in Brazil as maconha, and a precision scale inside the
-freezer. [@1] They also found rock cocaine and crack in divided and undivided
+freezer. [@1,3] They also found rock cocaine and crack in divided and undivided
 portions, and another 20 grams of cannabis along the route the 18-year-old took
 as he fled. [@1] A further 16 grams of cannabis were found with him. [@1] The
 Tribuna de Palotina put the total seizure at about 699 grams of cannabis,
@@ -62,4 +68,3 @@ cocaine and crack. [@2]
 The case remains under investigation, and the authorities are to examine the
 seized material, clarify the circumstances and establish each man's alleged
 role. [@2]
-
