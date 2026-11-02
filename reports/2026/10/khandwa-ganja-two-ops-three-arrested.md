@@ -31,15 +31,22 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: 'गांजा बेचने-सप्लाई करने वाले 3 आरोपी गिरफ्तार: दो थानों की पुलिस को 1.19 किलो गांजा मिला, एक आरोपी खरगोन से पकड़ा'
+    url: https://www.bhaskar.com/local/mp/khandwa/news/khandwa-police-arrest-drug-peddlers-seize-ganja-narcotics-case-139550689.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Only Dainik Bhaskar's Hindi report could be opened; no police statement or second outlet account of the arrests was found.
   - The article names the days only as Friday night and Saturday; the dates 30 and 31 October 2026 are taken from its publication on 31 October.
   - No court appearance, remand or formal charges were reported after the case was registered.
   - The article does not say whether the three men arrested in the two operations were connected to each other.
+  - The submitted canonical URL and the report's AMP URL are the same Dainik Bhaskar article, not an independent second outlet.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The two operations yielded 1.19 kg of ganja and a motorcycle.'
 ---
 
 Police in Khandwa, Madhya Pradesh, arrested three men accused of selling and
-supplying ganja, a cannabis preparation, in two separate operations. [@1] The
+supplying ganja, a cannabis preparation, in two separate operations. [@1,2] The
 two operations yielded 1.19 kg of ganja and a motorcycle. [@1] Moghat Road
 police carried out one of the operations near the railway bridge on Bargaon
 Bhila Road on the night of Friday 30 October. [@1] There they detained a young
@@ -60,4 +67,3 @@ Substances (NDPS) Act. [@1] City Superintendent of Police Abhinav Barange said
 officers were gathering information about other people involved in buying,
 selling and supplying ganja. [@1] Police were also trying to establish where the
 ganja came from and who was involved in supplying it. [@1]
-
