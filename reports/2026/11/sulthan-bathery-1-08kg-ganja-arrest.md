@@ -37,6 +37,11 @@ sources:
     publisher: Marunadan Malayalee
     date: 2026-11-02
     language: ml
+  - title: ഇലക്‌ട്രോണിക് ത്രാസും ഒരു കിലോ കഞ്ചാവുമായി യുവാവ് പിടിയില്‍; 35കാരന്‍ കുടുങ്ങിയത് വാഹന പരിശോധനയ്ക്കിടെ
+    url: https://m.dailyhunt.in/news/india/malayalam/marunadan+malayali-epaper-marunada/ilakdronik+thrasum+oru+kilo+kanchavumayi+yuvav+pidiyil+35karan+kudungiyath+vahana+parishodhanaykkide-newsid-n732439415?action=click&index=1&listname=newspaperLanding&mode=pwa&topic=Home&topicIndex=0
+    publisher: Marunadan Malayali
+    date: 2026-11-02
+    language: ml
 open_questions:
   - Neither report gives a separate date for the arrest; 1 November is the publication date of the earliest opened account, and Asianet published its report on 2 November.
   - No charge, remand or court outcome was reported.
@@ -48,19 +53,23 @@ open_questions:
   - Whether the lead photo on the Marunadan Malayalee page shows this seizure was not verified from the caption and article text alone.
   - Whether the lead photo on the Marunadan Malayalee page shows this seizure could not be verified from its caption and article text alone, so no media entry is included.
   - 'Left out, as its quotation was not found in Marunadan Malayalee: The district anti-drug squad and Bathery police stopped him during a vehicle inspection near Makkutti bridge.'
+  - The submitted headline says one kilo while its text gives one kilogram and 80 grams, matching the existing 1.08 kg figure.
+  - 'The accused''s name transliteration differs: Ebi Elias in this Malayalam text versus Abi Elias in the existing report.'
+  - The submitted page gives only its 2 November 2026 publication date with no separate day for the check, while the existing report dates the event to 1 November from its earliest account.
+  - 'Left out, as its quotation was not found in Marunadan Malayali: Police said the ganja had been brought from Mysore for sale.'
 ---
 
 Police in Sulthan Bathery, a town in Kerala's Wayanad district, arrested Abi
 Elias and seized 1.08 kg of ganja from him. [@1] Elias, 35, of Puthankunnu,
 Makkutti, Pelakkudi house in Bathery, was arrested by Noufal C, a sub-inspector
-with Bathery police. [@1,3,4]
+with Bathery police. [@1,3,4,5]
 
 The district anti-drug squad and Bathery police stopped him during a vehicle
 inspection near Makkutti bridge. [@1,2,3]
 
 Officers seized the ganja, an electronic weighing scale and plastic bags for
 packing the cannabis for sale. [@1] The seized ganja weighed one kilogram and 80
-grams. [@1,3,4] The scale had been used to weigh the ganja, and the plastic covers
+grams. [@1,3,4,5] The scale had been used to weigh the ganja, and the plastic covers
 were intended for packing it for sale. [@1] Police said the ganja had been
 brought from Mysore for sale. [@1,3]
 
