@@ -50,6 +50,16 @@ sources:
     publisher: Lensa Hukum
     date: 2026-11-02
     language: id
+  - title: Sinergi BNN-Polri Musnahkan 122 Hektar Ladang Ganja di Aceh
+    url: https://ipol.id/2026/11/sinergi-bnn-polri-musnahkan-122-hektar-ladang-ganja-di-aceh/
+    publisher: Ipol.id
+    date: 2026-11-02
+    language: id
+  - title: 122 HEKTARE LAHAN GANJA DIMUSNAHKAN, BNN DAN POLRI PUTUS RANTAI PASOK NARKOTIKA
+    url: https://bnn.go.id/122-hektare-lahan-ganja-dimusnahkan-bnn-dan-polri-putus-rantai-pasok-narkotika/
+    publisher: Badan Narkotika Nasional
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -61,6 +71,11 @@ open_questions:
   - The submitted page focuses on growers using hard-to-reach, higher-altitude sites far from settlements; no new figures follow from that account.
   - The page states it was automatically rewritten by AI from the detikNews source already cited in the existing report.
   - The page photo credited to Taufiq/detikcom duplicates the cannabis-field photo already listed from the original detikNews page, so it is not listed again as media.
+  - The Ipol.id and BNN accounts present the 122.86 hectares as an Aceh operation, while the existing campaign report records it across North Sumatra and Aceh.
+  - The BNN phase areas of about 18, 25, 77, 0.04, 0.7, 2 and 0.12 hectares add to more than the official 122.86-hectare total.
+  - The existing campaign report counts about 150,000 plants for the Mandailing Natal phase, while the new accounts estimate 186,450 plants for the whole operation.
+  - The lead Ipol.id image caption and the BNN page image do not establish what the photos show, so no media entry is added.
+  - 'Left out, as its quotation was not found in Badan Narkotika Nasional: BNN put the operation total at about 186,450 cannabis plants with an estimated wet weight of 93.225 tonnes.'
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
@@ -70,13 +85,13 @@ residents carried out cannabis-field operations across North Sumatra and Aceh.
 with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
-HM. [@1] Investigators designated three of the four as suspects and released HM
+HM. [@1,4] Investigators designated three of the four as suspects and released HM
 for lack of evidence. [@1] Police applied articles 114 and 111 of the Narcotics
 Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
 [@1]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3,4] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
 about 150,000 cannabis plants aged about five to six months. [@1] Officers
 burned those plants on the spot. [@1] The Mandailing Natal find began with a
@@ -88,4 +103,4 @@ destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1]
 
 Police said the eradication was intended to break the narcotics distribution
-chain at its production source. [@1]
+chain at its production source. [@1,5]
