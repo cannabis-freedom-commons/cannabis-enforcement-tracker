@@ -38,6 +38,10 @@ sources:
     url: https://www.intelregion.com/news/ndlea-arrests-two-nigerians-with-200-cocaine-wraps-in-their-stomachs
     publisher: IntelRegion
     date: 2026-11-01
+  - title: NDLEA intercepts large consignments of illicit drugs in 7 states
+    url: https://www.vanguardngr.com/2026/11/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
+    publisher: Vanguard News
+    date: 2026-11-01
 open_questions:
   - No town or neighbourhood in Sokoto was named, so the coordinates are for the state capital with regional precision.
   - No charges or court outcome for Ibrahim Ayuba have been published.
@@ -46,7 +50,7 @@ open_questions:
 
 ## The arrest
 
-Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4] Skunk is a strong strain of cannabis. [@2]
+Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4,6] Skunk is a strong strain of cannabis. [@2]
 
 ## The roundup it was announced in
 

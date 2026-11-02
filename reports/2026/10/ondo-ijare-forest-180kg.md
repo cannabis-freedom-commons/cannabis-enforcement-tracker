@@ -37,6 +37,10 @@ sources:
     url: https://thetrumpet.ng/ndlea-arrests-2-europe-based-nigerians-for-ingesting-200-cocaine-pellets/
     publisher: The Trumpet Newspaper Nigeria
     date: 2026-11-01
+  - title: NDLEA intercepts large consignments of illicit drugs in 7 states
+    url: https://www.vanguardngr.com/2026/11/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
+    publisher: Vanguard News
+    date: 2026-11-01
 open_questions:
   - No count of the plants growing on the farms, no area for the farms and no value for the 180 kg were published.
   - No charge against the four arrested men was reported.
@@ -51,7 +55,7 @@ NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25
 October 2026. [@1,4,5] Four suspects were arrested during the raid, among them
 Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1] A fourth suspect was
 held but not named. [@2] Officers recovered 16 bags of processed cannabis
-weighing 180 kg from the farms, the agency said. [@2,3,4,5] The agency reported no
+weighing 180 kg from the farms, the agency said. [@2,3,4,5,6] The agency reported no
 plant count, no farm area and no value for the 180 kg. [@1]
 
 NDLEA said the raid followed credible intelligence. [@2] The agency announced

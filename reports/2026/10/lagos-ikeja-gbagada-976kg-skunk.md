@@ -46,6 +46,10 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-01
     language: zh
+  - title: NDLEA intercepts large consignments of illicit drugs in 7 states
+    url: https://www.vanguardngr.com/2026/11/ndlea-intercepts-large-consignments-of-illicit-drugs-in-7-states/
+    publisher: Vanguard News
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -60,11 +64,13 @@ open_questions:
   - The article names no suspects and gives no street value for the Lagos cannabis.
   - The page's single image shows the Abuja cocaine case, not the Lagos bus interceptions, so no media entry is added.
   - The cocaine arrests described in the same article are a separate non-cannabis event and are excluded from this cannabis account.
+  - The page lead image file name dates to July 2025 and carries only the generic article title as caption, so it cannot be verified to show the October 2026 Lagos bus interceptions and no media entry is added.
+  - The statement lists Lagos, Kano, Kaduna, Sokoto, Ondo, Oyo and Edo as the seven states but the opened text gives no cannabis seizure detail for Kaduna.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7]
 
 ## The announcement
 
