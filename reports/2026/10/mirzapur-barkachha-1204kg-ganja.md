@@ -97,6 +97,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-01
     language: hi
+  - title: उड़ीसा से गांजा लाकर पूर्वांचल में करते थे सप्लाई, एमपी के दो आरोपी पकड़ाए, मिर्जापुर में ₹6 करोड़ का माल बरामद | Mirzapur Police Seized 6 Crore Ganja Two Interstate Smugglers Arrested - Patrika News
+    url: https://www.patrika.com/amp/mirzapur-news/mirzapur-police-seized-6-crore-ganja-two-interstate-smugglers-arrested-21021163
+    publisher: Patrika News
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -118,15 +123,15 @@ check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3,9] Officers stopped truck MP 09 HH 8908 during the
 check. [@3] A search found 1,204 kg of ganja, the Hindi word for cannabis,
 hidden under sacks of coconuts. [@1,3,7,8,9] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4,6,8,9] Bharat Samachar put the value at ₹4–5 crore.
+crore, or 60 million rupees. [@4,6,8,9,10] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
-police lines. [@2,8,9] Police said the consignment had come from Odisha. [@4,5,6] It was
-meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8,9] A
+police lines. [@2,8,9] Police said the consignment had come from Odisha. [@4,5,6,10] It was
+meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8,9,10] A
 case was registered against both men under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act at Kotwali Dehat police station, and they were being
-produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8,9]
+produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8,9,10]
 
 Officers also found three mobile phones and ₹1,900 in cash, according to Amar
 Ujala. [@2,9] Police said they were checking the men's criminal records and
