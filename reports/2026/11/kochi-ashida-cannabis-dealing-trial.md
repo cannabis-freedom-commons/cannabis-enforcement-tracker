@@ -25,6 +25,11 @@ sources:
     publisher: dメニューニュース
     date: 2026-11-02
     language: ja
+  - title: 「自分で『やる』と決めたので断れず…」大麻密売事件などの裁判員裁判　被告の男は起訴内容認める
+    url: https://newsdig.tbs.co.jp/articles/kutv/3057357?display=1
+    publisher: KUTVテレビ高知
+    date: 2026-11-02
+    language: ja
 open_questions:
   - No quantities, weights, prices, or customer numbers for the cannabis or cocaine were published.
   - The alleged dealing period is given only as late March to September last year, understood as 2025, with no exact dates.
@@ -35,9 +40,9 @@ open_questions:
 ---
 
 Fui Ashida, an unemployed man with no fixed address, is standing trial over
-alleged drug dealing in Kochi City. [@1] His lay-judge trial opened at the Kochi
+alleged drug dealing in Kochi City. [@1,3] His lay-judge trial opened at the Kochi
 District Court on 2 November 2026, and he admitted the charges at the first
-hearing. [@2]
+hearing. [@2,3]
 
 Prosecutors accuse him of repeatedly selling cannabis, cocaine and other drugs
 to a large number of customers in Kochi City from late March to September last
@@ -51,4 +56,3 @@ and having decided himself to do it he felt unable to refuse. [@2] He said he
 tried credit-card information obtained through a highly anonymous social-media
 service and found that it worked. [@2] The next hearing in the case is scheduled
 for 4 November. [@2]
-
