@@ -18,6 +18,11 @@ media:
     media_url: https://www.madhyamam.com/h-upload/2026/11/02/2941180-untitled-2.jpg
     publisher: Madhyamam
     caption: Photo published with the report on the youth held with hashish oil and methamphetamine in Palakkad.
+  - kind: photo
+    url: https://www.thejasnews.com/sublead/major-drug-seizure-at-palakkad-toll-plaza-274112
+    media_url: https://assets.thejasnews.com/h-upload/2026/11/02/261171-arrest.webp
+    publisher: Thejas News
+    caption: Photo published with the report on the man held with hashish oil and methamphetamine at the Palakkad toll plaza.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa47ffd2f7c58b884e117f40f231afe5
@@ -26,6 +31,11 @@ sources:
   - title: ഹാഷിഷ് ഓയിലും മെത്താംഫിറ്റമിനുമായി യുവാവ് പിടിയിൽ | Man Held with Hashish Oil in Palakkad | Madhyamam
     url: https://www.madhyamam.com/kerala/local-news/palakkad/man-held-with-hashish-oil-in-palakkad-1568380
     publisher: Madhyamam
+    date: 2026-11-02
+    language: ml
+  - title: പാലക്കാട് ടോള്‍ പ്ലാസയില്‍ വന്‍ ലഹരിവേട്ട; 420.692 ഗ്രാം ഹാഷിഷ് ഓയിലും മെത്താംഫിറ്റാമിനുമായി 31കാരന്‍ എക്‌സൈസ് പിടിയില്‍
+    url: https://www.thejasnews.com/sublead/major-drug-seizure-at-palakkad-toll-plaza-274112
+    publisher: Thejas News
     date: 2026-11-02
     language: ml
 open_questions:
@@ -38,18 +48,19 @@ open_questions:
 
 Excise officers in Palakkad arrested 31-year-old Ananthu Bhaskar of Valiya
 Parambil house in Eranad, Malappuram, when they searched bus traffic during a
-vehicle inspection. [@1] They caught him at the roadside in front of the labour
+vehicle inspection. [@1,2] They caught him at the roadside in front of the labour
 camp near the toll gate where vehicles coming from Coimbatore enter Palakkad at
 Pambampallam toll plaza. [@1] Officers seized 420.692 grams of hashish oil that
 he was allegedly carrying on the bus, along with 0.527 grams of methamphetamine
-found in the same check. [@1]
+found in the same check. [@1,2]
 
 The vehicle check was conducted as part of Operation Thunder, the Excise
 Department's enforcement drive, by the Palakkad Excise Enforcement and
-Anti-Narcotic Special Squad led by Circle Inspector N. Noufal. [@1] Officers
+Anti-Narcotic Special Squad led by Circle Inspector N. Noufal. [@1,2] Officers
 registered a case against the accused under the NDPS Act, India's Narcotic Drugs
 and Psychotropic Substances law that governs drug offences. [@1] Preventive
 Officer S. Sujith Kumar, Preventive Officer Grade K. Anand, Civil Excise
 Officers N. Rajith and D. Kishore, and Woman Civil Excise Officer V. Archana of
 the Palakkad squad took part in the inspection. [@1]
 
+The check took place at about 4.50 a.m. on 1 November near the Ganeshapuram Pampampallam toll plaza in Puthussery Central village, Palakkad district, on interstate bus KL 41 V 9099 travelling from Coimbatore to Palakkad. [@2] The accused was booked as NDPS CR 89/2026 under Sections 20(b)(ii)(B) and 22(a) of the NDPS Act. [@2]
