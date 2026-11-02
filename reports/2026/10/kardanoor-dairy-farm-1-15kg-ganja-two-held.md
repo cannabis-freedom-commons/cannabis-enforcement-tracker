@@ -44,6 +44,11 @@ sources:
     url: https://www.thehindu.com/news/national/telangana/two-arrested-for-selling-marijuana-in-patancheru/article71652690.ece
     publisher: The Hindu
     date: 2026-11-01
+  - title: 'Telangana: బయటకు డెయిరీ ఫామ్.. లోపల మత్తు దందా.. పోలీసుల ఎంట్రీతో గుట్టు రట్టు.. | Ganja Racket Busted at Dairy Farm in Patancheru, 6 Arrested by Eagle Force | TV9 Telugu'
+    url: https://tv9telugu.com/telangana/ganja-racket-busted-at-dairy-farm-in-patancheru-6-arrested-by-eagle-force-1948357.html/amp
+    publisher: TV9 Telugu
+    date: 2026-11-01
+    language: te
 open_questions:
   - The News18 Telugu page is dated 2 November 2026; the 31 October incident date comes from The Hindu and Telangana Today accounts of the Saturday raid.
   - Sources describe two men as arrested and four consumers as apprehended; the report groups all six detained people in the arrested figure.
@@ -51,14 +56,15 @@ open_questions:
   - No charges, court outcome, or action against the dairy farm owner were reported beyond registration of a Patancheru case.
   - 'Left out, as its quotation was not found in The Hindu: Four consumers were apprehended during the same raid.'
   - 'Left out, as its quotation was not found in Telangana Today: Police valued the seized ganja at about Rs 57,000.'
+  - Whether the lead photo on the TV9 Telugu page shows this seizure was not established from its caption, so no media entry is made.
 ---
 
 EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor
 village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
-[@3] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
+[@3,4] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
 at the parking yard opposite, both natives of Bihar. [@2]
 
-Officers seized 1.150 kg of ganja at the dairy farm. [@1] Police said the pair
+Officers seized 1.150 kg of ganja at the dairy farm. [@1,4] Police said the pair
 bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
 for Rs 300. [@2] Investigators said they procured one to two kg two or three
 times a week. [@2] Police said 20 to 30 consumers approached daily, rising to 50
@@ -67,5 +73,4 @@ to 60 on Sundays. [@2]
 Roy had worked at the dairy farm for the past three years. [@3] Kumar had
 allegedly assisted Roy in selling marijuana for the past year. [@3] The alleged
 supplier Kishan Singh of Dhoolpet was absconding. [@3] A case was registered and
-investigation continued. [@2]
-
+investigation continued. [@2,4]
