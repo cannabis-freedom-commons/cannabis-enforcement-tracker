@@ -30,6 +30,11 @@ sources:
     publisher: L'Unione Sarda Russian
     date: 2026-11-02
     language: ru
+  - title: Droga, sedici chili di stupefacenti sequestrati dalla polizia
+    url: https://www.rainews.it/amp/tgr/sardegna/articoli/2026/11/droga-sedici-chili-di-stupefacenti-sequestrati-dalla-polizia-e14ed3e4-1e35-4294-8986-c06abc97718b.html
+    publisher: RaiNews
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -39,17 +44,21 @@ open_questions:
   - The only image listed on the submitted page is captioned Gesico and does not show this event, and the RaiNews page image address could not be recovered as an absolute URL, so no media entry is listed.
   - The 25-year-old held after the Stampace garage seizure was also found in September with about 28,000 euros under preventive seizure; whether that cash is included in the 35,000-euro total is not stated.
   - 'Left out, as its quotation was not found in RaiNews: RaiNews corroborates that seven people were arrested for a total of 16 kg of substances including hashish, marijuana and cocaine, with about 35,000 euros seized as alleged dealing proceeds.'
+  - RaiNews gives 7 kg of hashish in Monserrato while the existing report uses about 7.1 kg from earlier sources.
+  - RaiNews gives no separate operation dates, so the October dates continue to rely on earlier sources.
+  - RaiNews gives only the combined 16-kg total for hashish, marijuana and cocaine, so the separated cannabis total is unchanged.
+  - The RaiNews page carries a police-credited photo titled with the headline, but its caption and alt text do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1,2] On 9 October investigators arrested a 19-year-old from Elmas
+Quartucciu. [@1,2,3] On 9 October investigators arrested a 19-year-old from Elmas
 carrying about 70 grams of cannabis. [@1,2] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
-6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2] On 16
+6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1,2] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2,3] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
 for retail and supply to other dealers. [@1]
 
@@ -65,4 +74,4 @@ youth crime, focused by police on drug trafficking, identifying foreigners who
 returned after expulsion, and controls in areas frequented by young people. [@1]
 In the immigration strand, checks identified seven Algerians with prior refusal
 or expulsion orders, and four were arrested after being found to have re-entered
-Italy. [@1,2]
+Italy. [@1,2,3]
