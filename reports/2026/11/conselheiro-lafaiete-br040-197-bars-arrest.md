@@ -22,6 +22,11 @@ media:
     media_url: https://cdn.jwplayer.com/players/3AfDv4Yf-65fVsHCx.html
     publisher: Metrópoles
     caption: Video report on the BR-040 pursuit and seizure
+  - kind: photo
+    url: https://www.jornalcorreiodacidade.com.br/noticias/51530-pm-apreende-197-barras-de-maconha-e-prende-homem-em-lafaiete
+    media_url: https://www.jornalcorreiodacidade.com.br/imagens/destaques/6ae7460d5477e.jpg
+    publisher: Jornal Correio da Cidade
+    caption: 'Lead photo on the source page for this seizure report. Photo: Polícia Militar'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 292b47e34414e719feefd54285386d5c
@@ -37,6 +42,11 @@ sources:
     publisher: Vertentes das Gerais
     date: 2026-11-01
     language: pt
+  - title: PM apreende 197 barras de maconha e prende homem em Lafaiete
+    url: https://www.jornalcorreiodacidade.com.br/noticias/51530-pm-apreende-197-barras-de-maconha-e-prende-homem-em-lafaiete
+    publisher: Jornal Correio da Cidade
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight for the 197 marijuana bars was published, so no kilogram figure is recorded.
   - The two containers held a substance described only as similar to ecstasy, with no confirmed identification reported.
@@ -48,19 +58,21 @@ open_questions:
 
 A 45-year-old man was arrested in flagrante for drug trafficking in the early
 hours of Sunday, 1 November 2026, in Conselheiro Lafaiete in central Minas
-Gerais. [@1,2] Minas Gerais Military Police officers identified a Fiat Argo acting
+Gerais. [@1,2,3] Minas Gerais Military Police officers identified a Fiat Argo acting
 suspiciously near the BR-040, and the driver accelerated, drove recklessly and
 disobeyed stop orders when he noticed the patrol car. [@1,2] Other police teams
 were urgently called in to assist with intercepting the fleeing vehicle. [@1]
 
 During the roadside search, officers found 25 bars of maconha, the Brazilian
 Portuguese word for marijuana, together with eight pins of cocaine and two
-containers holding a substance described as similar to ecstasy. [@1,2] During the
+containers holding a substance described as similar to ecstasy. [@1,2,3] During the
 same pursuit, another team located 172 additional bars of marijuana concealed in
 an area of vegetation. [@1,2] Together, the roadside and vegetation finds brought
-the reported marijuana haul to 197 bars. [@1,2]
+the reported marijuana haul to 197 bars. [@1,2,3]
 
 The driver was taken to the on-duty police station to give a statement on the
 trafficking allegation. [@1] The Fiat Argo involved in the chase was seized and
 removed by the Military Police. [@1] The case was a highway pursuit on the
 BR-040 in Minas Gerais that ended in the seizure. [@1]
+
+Police intercepted the Fiat Argo on Estrada União Indústria in Conselheiro Lafaiete. [@3] The driver was identified only by the initials T.M.P. [@3]
