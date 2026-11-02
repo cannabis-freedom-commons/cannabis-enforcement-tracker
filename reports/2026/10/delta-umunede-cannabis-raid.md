@@ -38,15 +38,23 @@ sources:
     url: https://www.gistmania.com/talk/topic,654928.0.html
     publisher: Gistmania
     date: 2026-10-31
+  - title: Delta Police Arrest 4 Cultism, Robbery Suspects, Recover Guns
+    url: https://thewhistler.ng/delta-police-arrest-4-cultism-robbery-suspects-recover-guns/
+    publisher: The Whistler Newspaper
+    date: 2026-10-31
 open_questions:
   - The sources give no quantity for substances suspected to include cannabis and report no laboratory confirmation.
   - The police said the two men remained in custody; no charge or court outcome is reported.
   - Whether the uncaptioned lead photo of four young men on the Gistmania page shows this arrest is unclear, so it was not added as media.
+  - No quantity or laboratory confirmation for the substances suspected to include cannabis was published.
+  - The article's totals of four arrests, seven firearms, 10 cartridges and two motorcycles cover both the Umunede and Ughelli operations, not the Umunede cannabis raid alone.
+  - The same article reports a separate Ughelli operation on 28 October involving alleged motorcycle theft and armed robbery, a different event left out here.
+  - The page's lead photo captioned only 'Suspects' was not added as media because the caption and credit do not establish that it shows this raid.
 ---
 
 Police arrested Chibuike Ezeji and 22-year-old Ikenna Emeka in Umunede, Delta.
-[@3,4] A resident had reported to the Umunede Division that Ezeji, 30, threatened
-to kill him while brandishing a pistol. [@3,4] The complaint came at about 1:15
+[@3,4,5] A resident had reported to the Umunede Division that Ezeji, 30, threatened
+to kill him while brandishing a pistol. [@3,4,5] The complaint came at about 1:15
 p.m. on Friday, according to the police spokesperson, SP Bright Edafe. [@2] TVC
 News reported that the two suspects were arrested on October 30 following that
 report. [@1] Officers from the Umunede Division worked with members of the
@@ -56,6 +64,6 @@ cultist, where Ezeji was reportedly residing. [@3]
 
 A search of the premises led to the recovery of one pump-action gun, one locally
 made cut-to-size gun, three locally made pistols, and eight live cartridges.
-[@3,4] The police said the search also recovered substances suspected to be
+[@3,4,5] The police said the search also recovered substances suspected to be
 cannabis and methamphetamine, the latter popularly known as ice. [@1,4] The two
 suspects were in police custody while investigations were ongoing. [@2,4]
