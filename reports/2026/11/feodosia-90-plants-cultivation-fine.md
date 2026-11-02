@@ -22,6 +22,11 @@ sources:
     publisher: МК в Крыму
     date: 2026-11-02
     language: ru
+  - title: Феодосиец заплатит штраф за выращивание конопли
+    url: https://primechaniya.ru/feodosiec-zaplatit-shtraf-za-vyrashhivanie-konopli/
+    publisher: Примечания
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the verdict, so that date is used as the incident date.
   - The amount of the fine imposed was not published.
@@ -32,17 +37,17 @@ open_questions:
   - 'Left out, as its quotation was not found in Объектив: As punishment for the cultivation offence, the court imposed a fine on the convicted grower.'
   - 'Left out, as its quotation was not found in Объектив: By July 2026 his cultivation had produced 90 narcotic-containing cannabis plants.'
   - 'Left out, as its quotation was not found in Объектив: The judgment closes a case that began with the May planting and ended with the July police seizure and the court''s fine.'
+  - The submitted page's images are labelled as AI-generated and do not show this event, so no media entry is added.
 ---
 
 The Feodosia city court in Crimea convicted a 32-year-old local resident of
 unlawfully cultivating narcotic-containing plants on a large scale after
-prosecutors said he had grown cannabis. [@1]
+prosecutors said he had grown cannabis. [@1,2]
 
 The court found that in May 2026 the man bought cannabis seeds, sowed them and
-then tended the plants as they grew. [@1] In that same month of July 2026,
-police officers discovered the plantation and seized all 90 plants. [@1]
+then tended the plants as they grew. [@1,2] In that same month of July 2026,
+police officers discovered the plantation and seized all 90 plants. [@1,2]
 
 The seized plants were destroyed after their confiscation. [@1] The court
 treated the 90-plant grow as large-scale cultivation, the scale cited by the
 court and prosecutors for the verdict. [@1]
-
