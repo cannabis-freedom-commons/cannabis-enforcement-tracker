@@ -48,6 +48,19 @@ sources:
     publisher: The CSR Journal
     date: 2026-11-01
     language: hi
+  - title: बैंकॉक से ट्रॉली बैग में भरकर लाए 13 करोड़ का गांजा, अहमदाबाद एयरपोर्ट पर पकड़े गए दो तस्कर
+    url: https://www.aajtak.in/india/gujarat/story/ahmedabad-airport-13-crore-hydroponic-weed-seized-two-arrested-lclcn-rptc-2686002-2026-11-01
+    publisher: AajTak
+    date: 2026-11-01
+    language: hi
+  - title: 'Ahmedabad Airport Drug Bust: Customs Seizes 13 Kg Of Marijuana Worth Rs 13 Cr, 2 Arrested'
+    url: https://www.timesnownews.com/city/ahmedabad/ahmedabad-airport-drug-bust-customs-seizes-13-kg-of-marijuana-worth-rs-13-crore-2-arrested-article-156451013
+    publisher: Times Now
+    date: 2026-11-02
+  - title: Gujarat duo held with 13 kg of hydroponic marijuana at Ahmedabad airport
+    url: https://theprint.in/india/gujarat-duo-held-with-13-kg-of-hydroponic-marijuana-at-ahmedabad-airport/3087812/
+    publisher: ThePrint
+    date: 2026-11-01
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -56,24 +69,27 @@ open_questions:
   - The submitted page gives only its publication date of 1 November 2026 and no separate time for the interception.
   - The submitted page does not name the two passengers, give their ages or Surat residence, or give the flight number TG-343 reported in other sources for the same event.
   - The page's only image is captioned only as Drugs with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
+  - The submitted capture's readable text contained only navigation, so its event details were taken from the page's own published metadata and corroborated by the two opened accounts of the same interception.
+  - No separate interception time beyond the 1 November 2026 publication and operation date was published.
+  - 'Left out, as its quotation was not found in Times Now: Inside the bags officers found 14 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi term for cannabis.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
 Vallabhbhai Patel International Airport. [@1,2,3,4,5] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5]
+on Thai Airways flight TG-343. [@1,2,3,4,5,7]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
 detailed manual examination. [@1,2] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
 term for cannabis. [@1,2,5] Customs estimated the haul, a higher-potency
-soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5]
+soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
-The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3]
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8]
