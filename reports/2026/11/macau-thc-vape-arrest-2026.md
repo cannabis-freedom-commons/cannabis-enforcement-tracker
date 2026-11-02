@@ -65,6 +65,10 @@ sources:
     publisher: "881903"
     date: 2026-11-01
     language: zh
+  - title: 港男來澳販賣毒電子煙斷正
+    url: https://www.houkongdailynews.com/instantNews/160384
+    publisher: 濠江日報
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -76,6 +80,7 @@ open_questions:
   - The earlier reports gave no arrest date; this account dates the interception to 30 October 2026, two days before he was taken to the Public Prosecutions Office.
   - The Hong Kong Commercial Daily describes the three suspected offences as drug use, smuggling and trafficking of drug-laced e-cigarettes, while the report's other sources describe them as illegal consumption, possession and trafficking.
   - The 881903 report carries essentially the same text as the Hong Kong Commercial Daily account and credits the Macau Government Information Bureau's Facebook page, so the two new accounts are not independent.
+  - The submitted account values the six THC e-cigarettes at about MOP8,400, while the existing report keeps about MOP8,000 from the Hong Kong accounts.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
@@ -86,7 +91,7 @@ which police put at about MOP8,000. [@2] A search of his home found four more
 e-cigarette devices that had already been used. [@2,3,6]
 
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
-and his urine test for drugs was positive. [@2,3,7] Police believe he used the vapes
+and his urine test for drugs was positive. [@2,3,7,8] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
 three people at MOP1,400 each. [@2,3] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
@@ -100,4 +105,4 @@ liability. [@2] Police said they were still tracing other people involved and
 would share intelligence and enforcement cooperation with neighbouring forces
 against cross-border drug trafficking. [@2]
 
-The interception took place at about 1 pm on 30 October 2026. [@3] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3] He held a blue card, the identity document Macau issues to non-resident workers. [@3] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
+The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8] He held a blue card, the identity document Macau issues to non-resident workers. [@3] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
