@@ -31,6 +31,10 @@ sources:
     url: https://balita.org/n/south-african-thailand-caught-with-p56-5/35010
     publisher: Balita.org
     date: 2024-08-14
+  - title: Thai woman gets life for drug smuggling
+    url: https://www.philstar.com/nation/2026/11/02/2567186/thai-woman-gets-life-drug-smuggling/amp/
+    publisher: Philstar.com
+    date: 2026-11-02
 open_questions:
   - The 2024 arrest account gave 14.8 kg valued at P20.7 million, while the 2026 decision convicts on 13.16 kg worth P18.43 million; the report uses the court's figures.
   - The report follows Philstar's spelling Sirirut Taweesup; the 2024 account also renders the name in the opposite order.
@@ -40,7 +44,7 @@ open_questions:
 
 ## The sentence
 
-In a 14-page decision dated 26 October 2026, the Pasay Regional Trial Court Branch 116 found Thai national Sirirut Taweesup guilty of importing illegal drugs and sentenced her to life imprisonment. [@1] The court held that she smuggled 13.16 kg of cannabis worth P18.43 million, and it fined her P2 million. [@1] It also convicted her of violating the Customs Modernization and Tariff Act, imposing up to 12 more years in prison and ordering her to pay P5 million. [@1] PDEA Director General Isagani Nerez said the conviction showed the agency's resolve to hold drug smugglers accountable. [@1]
+In a 14-page decision dated 26 October 2026, the Pasay Regional Trial Court Branch 116 found Thai national Sirirut Taweesup guilty of importing illegal drugs and sentenced her to life imprisonment. [@1,3] The court held that she smuggled 13.16 kg of cannabis worth P18.43 million, and it fined her P2 million. [@1] It also convicted her of violating the Customs Modernization and Tariff Act, imposing up to 12 more years in prison and ordering her to pay P5 million. [@1,3] PDEA Director General Isagani Nerez said the conviction showed the agency's resolve to hold drug smugglers accountable. [@1]
 
 ## The 2024 arrest
 
