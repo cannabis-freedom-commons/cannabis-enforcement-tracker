@@ -95,6 +95,7 @@ open_questions:
   - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report explicitly leaves out as a separate event.
   - The page's only image caption reads Barwani News and does not establish that it shows this seizure, so no media entry is made.
   - The ETV Bharat article says the informer's tip arrived on 31 October 2026 and describes the raid as on Sunday, while the existing report dates the event to 31 October 2026 from earlier coverage.
+  - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report leaves out as a separate event.
 ---
 
 Warla police in Barwani district, Madhya Pradesh, seized 1,716 green cannabis
