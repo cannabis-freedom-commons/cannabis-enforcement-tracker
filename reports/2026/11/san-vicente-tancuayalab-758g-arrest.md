@@ -48,23 +48,29 @@ sources:
     publisher: Telediario
     date: 2026-11-01
     language: es
+  - title: Capturan a pareja que estaría ligada a un grupo criminal
+    url: https://pulsoslp.com.mx/seguridad/capturan-a-pareja-que-estaria-ligada-a-un-grupo-criminal/2102805
+    publisher: Pulso Diario San Luis
+    date: 2026-11-02
+    language: es
 open_questions:
   - The reports give no separate date for the operation; 1 November 2026 is the publication date of the earliest opened account.
   - No weight was given for the 84 marijuana cigarettes, so the 758.3 g figure covers the 100 bags only.
   - The 675-unit total is a combined count of doses, bags and cigarettes and includes non-cannabis drugs; it is not a cannabis figure.
   - No charge, trial date or court outcome was reported.
   - All opened accounts repeat the same state security bulletin; no independent witness or defence account was found.
+  - The submitted page was published on 2 November 2026 while the existing report is dated to 1 November 2026 accounts; neither gives a separate date for the operation itself.
 ---
 
 Officers of San Luis Potosí's State Civil Guard (GCE), working with the army,
 detained Francisco “N”, 27, and Esmeralda “N”, 26, in the centre of San Vicente
-Tancuayalab. [@1,5] The pair were identified as suspected priority targets from
+Tancuayalab. [@1,5,6] The pair were identified as suspected priority targets from
 intelligence information. [@1,5] Investigators said they were linked to drug
 distribution and halconeo, or lookout work, at sales points in Tamuín, San
 Vicente Tancuayalab and Tanquián de Escobedo. [@1]
 
-Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,5] They also found
-42 packages holding 84 marijuana cigarettes. [@1] With them were a portable
+Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,5,6] They also found
+42 packages holding 84 marijuana cigarettes. [@1,6] With them were a portable
 radio, two mobile phones and the motorcycle the pair were riding. [@2] The rest
 of the haul was 401 doses of cristal, 40 doses of piedra and 50 doses of a
 substance with cocaine characteristics. [@2] Pulso SLP said the official
