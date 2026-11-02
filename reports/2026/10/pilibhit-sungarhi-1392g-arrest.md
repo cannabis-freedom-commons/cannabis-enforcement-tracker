@@ -22,6 +22,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-02
     language: hi
+  - title: 'Pilibhit News: सुनगढ़ी पुलिस ने 1.392 किलो गांजे के साथ युवक को किया गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/pilibhit/story-pilibhit-police-arrest-man-with-1-392-kg-of-illegal-cannabis-201793561255251.html
+    publisher: Live Hindustan
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article was published on 2 November 2026 and dates the interception only as Saturday night; 31 October 2026 is the Saturday night before publication.
   - No second report of this arrest could be found, so the account rests on a single opened source.
@@ -33,17 +38,16 @@ open_questions:
 Sungarhi police in Pilibhit arrested Anil Verma, a resident of Barha village in
 the Sungarhi station area and son of Makhanlal, on Chiryadah road. [@1] Sungarhi
 station in-charge Naresh Tyagi said Assam Road outpost police were conducting
-checking at Aliganj crossing on Saturday night when they received the tip. [@1]
+checking at Aliganj crossing on Saturday night when they received the tip. [@1,2]
 Acting on the tip, police laid a cordon on Chiryadah road and caught the youth
 as he arrived from the Gayabojh side. [@1] After information that he was
 carrying an intoxicant, Circle Officer (City) Amarnath Verma reached the spot
 and officers searched Verma in his presence. [@1]
 
 The search of the bag recovered 1 kg 392 g of illegal ganja in the form of 50
-pouches of ganja and some loose ganja. [@1]
+pouches of ganja and some loose ganja. [@1,2]
 
 On questioning, Verma said he had bought the ganja from Sungarhi resident Tarun
-Jaiswal. [@1] Police said Jaiswal runs a bhang shop near Naugawan crossing. [@1]
+Jaiswal. [@1,2] Police said Jaiswal runs a bhang shop near Naugawan crossing. [@1]
 Police registered a case under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act and sent the accused to jail. [@1]
-
+(NDPS) Act and sent the accused to jail. [@1,2]
