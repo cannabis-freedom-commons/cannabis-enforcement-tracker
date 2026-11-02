@@ -45,6 +45,11 @@ sources:
     publisher: detikNews
     date: 2026-11-02
     language: id
+  - title: BNN Ungkap Ladang Ganja Aceh Tersembunyi di Lokasi Terpencil
+    url: https://lensahukum.co.id/bnn-ladang-ganja-aceh-terpencil
+    publisher: Lensa Hukum
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -54,13 +59,15 @@ open_questions:
   - The incident date uses the latest reported destruction on 2 November 2026; the campaign ran from 27 October to 2 November 2026.
   - The submitted page gives about 25 hectares in Aceh Utara/Sawang on 2 November 2026 with no plant counts, weights, arrests or court outcomes.
   - The submitted page focuses on growers using hard-to-reach, higher-altitude sites far from settlements; no new figures follow from that account.
+  - The page states it was automatically rewritten by AI from the detikNews source already cited in the existing report.
+  - The page photo credited to Taufiq/detikcom duplicates the cannabis-field photo already listed from the original detikNews page, so it is not listed again as media.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
 [@1,2] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2] In North Aceh on
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
 HM. [@1] Investigators designated three of the four as suspects and released HM
@@ -69,7 +76,7 @@ Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
 [@1]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
 about 150,000 cannabis plants aged about five to six months. [@1] Officers
 burned those plants on the spot. [@1] The Mandailing Natal find began with a
@@ -77,7 +84,7 @@ public tip on 29 October about suspected planting at Tor Sihite. [@1] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
 in Nagan Raya on 31 October. [@1] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
-2 November. [@1,2] Police added about 0.04 hectares uprooted in Bener Meriah and
+2 November. [@1,2,3] Police added about 0.04 hectares uprooted in Bener Meriah and
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1]
 
 Police said the eradication was intended to break the narcotics distribution
