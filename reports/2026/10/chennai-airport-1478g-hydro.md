@@ -37,6 +37,10 @@ sources:
     publisher: Dinakaran
     date: 2026-10-31
     language: ta
+  - title: Customs seize ganja worth ₹1.71 crore at Chennai airport; woman arrested
+    url: https://www.hindustantimes.com/india-news/customs-seize-ganja-worth-rs-1-71-crore-at-chennai-airport-woman-arrested-101793509292322.html
+    publisher: Hindustan Times
+    date: 2026-11-01
 open_questions:
   - 'The reports give no precise date: Dinakaran says the flight landed at ''midnight yesterday'', so the seizure took place on the night of 30–31 October 2026; 31 October is used here.'
   - The man is not named, and neither report says whether he was charged or appeared in court.
@@ -62,3 +66,5 @@ Customs officials are investigating whether he was carrying the drugs for an
 international trafficking network. [@2] They are also investigating who arranged
 the shipment, who was to receive it in Chennai and who sent him to Thailand.
 [@2]
+
+The passenger was arrested and remanded to judicial custody. [@4]

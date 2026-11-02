@@ -33,6 +33,10 @@ sources:
     url: https://www.hindustantimes.com/india-news/customs-seize-ganja-worth-rs-1-71-crore-at-chennai-airport-woman-arrested-101793509292322-amp.html
     publisher: Hindustan Times
     date: 2026-11-01
+  - title: Woman caught at Chennai airport with 4.8 kg of hydroponic Ganja smuggled from Malaysia
+    url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
+    publisher: DT Next
+    date: 2026-11-02
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -41,10 +45,18 @@ open_questions:
   - Neither page carried a photograph of the seizure itself; the Daily Thanthi image shows the airport terminal and Hindustan Times used a representative photo.
   - 'Left out, as its quotation was not found in Hindustan Times: Customs seized the cannabis under the Narcotic Drugs and Psychotropic Substances Act, 1985.'
   - 'Left out, as its quotation was not found in Daily Thanthi: Officers questioned the woman about whether she had links to an international drug-trafficking gang and whom she intended to deliver the cannabis to.'
+  - DT Next gives the woman's age as 32; Daily Thanthi, the account used in the existing report, gives 28, and the report keeps 28.
+  - DT Next reports that she was produced before a magistrate but does not name the charge or the magistrate's order.
+media:
+  - kind: photo
+    url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
+    media_url: https://media.assettype.com/dt-next%2F2026-11-02%2Fuwku5o1c%2F1-2.jpg?w=768&auto=format%2Ccompress&fit=max
+    publisher: DT Next
+    caption: Parcels of hydroponic ganja concealed among dry fruit parcels seized at Chennai International Airport.
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1,3] She had flown in from the capital, Kuala Lumpur, and
+arrived from Malaysia. [@1,3,4] She had flown in from the capital, Kuala Lumpur, and
 was 28 years old. [@1] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
@@ -57,3 +69,5 @@ concealed inside eight food packets in her checked-in trolley bag. [@2,3]
 An official said further investigation was under way. [@2,3] Customs' intelligence
 wing had put the airport under watch after a tip-off that narcotics were being
 brought into Chennai from abroad. [@1]
+
+The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4]
