@@ -76,6 +76,10 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-02
     language: hi
+  - title: Cannabis plants worth Rs 42 lakh seized from two farms in Barwani
+    url: https://timesofindia.indiatimes.com/city/indore/cannabis-plants-worth-rs-42-lakh-seized-from-two-farms-in-barwani/amp_articleshow/135436542.cms
+    publisher: The Times of India
+    date: 2026-11-02
 open_questions:
   - No area was given for the field, and no report says whether the seized plants were destroyed or kept as evidence.
   - No one had been named or arrested, and no court step beyond the registration of the case was reported.
@@ -96,15 +100,18 @@ open_questions:
   - The page's only image caption reads Barwani News and does not establish that it shows this seizure, so no media entry is made.
   - The ETV Bharat article says the informer's tip arrived on 31 October 2026 and describes the raid as on Sunday, while the existing report dates the event to 31 October 2026 from earlier coverage.
   - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report leaves out as a separate event.
+  - The submitted page spells the village Borpadawa while the existing report uses Borpadwa for the same Warla police raid.
+  - The submitted page gives a combined total of 1,753 plants weighing 4.29 quintals and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
+  - The page's only listed image caption repeats the headline and does not establish that it shows this seizure, so no media entry is made.
 ---
 
 Warla police in Barwani district, Madhya Pradesh, seized 1,716 green cannabis
-plants from a field at Borpadwa village. [@1,4,6,7,8] The person accused of growing the
+plants from a field at Borpadwa village. [@1,4,6,7,8,9] The person accused of growing the
 crop was absconding, and police reported no arrest. [@1,5] Sendhwa sub-divisional
 police officer Ajay Waghmare disclosed the raid on Sunday 1 November. [@1]
 
-Police said the plants weighed 4 quintals 19 kg, or 419 kg. [@1,6,7,8] Police
-estimated their market value at about 41 lakh rupees. [@1,4,6,7,8] A case was registered
+Police said the plants weighed 4 quintals 19 kg, or 419 kg. [@1,6,7,8,9] Police
+estimated their market value at about 41 lakh rupees. [@1,4,6,7,8,9] A case was registered
 under Sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act,
 India's drug law. [@1,4] Amar Ujala dated the raid to 31 October 2026 and reported
 that Warla and Silawad police carried out separate raids that day. [@2] Its
