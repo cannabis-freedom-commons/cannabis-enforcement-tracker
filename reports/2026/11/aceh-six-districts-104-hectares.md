@@ -18,6 +18,11 @@ media:
     media_url: https://www.sinata.id/storage/berita/IUWOncirTkw0gj1QAtHtbagCtnpZxJrCClvf9duv.jpg
     publisher: Sinata.id
     caption: Aceh police and the provincial narcotics agency destroying cannabis fields in one of the six districts; the page credits the photograph only as 'istimewa' (special).
+  - kind: photo
+    url: https://komparatif.id/fantastis-157-ribu-batang-ganja-dimusnahkan-dari-104-hektare-ladang-di-aceh/
+    media_url: https://komparatif.id/wp-content/uploads/2026/11/ganja-1.jpg
+    publisher: Komparatif.ID
+    caption: 'Lead photo on the Komparatif.ID report of the Aceh cannabis-field destruction. Photo: HO for Komparatif.ID.'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e0035043d4e97af06cdb8b6e0ed219e6
@@ -38,6 +43,11 @@ sources:
     publisher: Habapublik.com
     date: 2026-11-01
     language: id
+  - title: Fantastis, 157 Ribu Batang Ganja Dimusnahkan dari 104 Hektare Ladang di Aceh
+    url: https://komparatif.id/fantastis-157-ribu-batang-ganja-dimusnahkan-dari-104-hektare-ladang-di-aceh/
+    publisher: Komparatif.ID
+    date: 2026-11-01
+    language: id
 open_questions:
   - The reports name no owner, grower or suspect, and no arrests were announced; no court follow-up is known.
   - No breakdown of area, plants or weight by district was published.
@@ -51,14 +61,14 @@ open_questions:
 
 A joint team of Aceh provincial police, Polda Aceh, and the Aceh provincial
 National Narcotics Agency, BNNP Aceh, destroyed fields of ganja, the Indonesian
-term for cannabis, in six districts of Aceh. [@2] The destruction ran over two
-days, 31 October and 1 November 2026. [@2] The fields lay in the police
+term for cannabis, in six districts of Aceh. [@2,4] The destruction ran over two
+days, 31 October and 1 November 2026. [@2,4] The fields lay in the police
 jurisdictions of Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and
-Nagan Raya. [@1]
+Nagan Raya. [@1,4]
 
-Police said the cleared fields covered 104.86 hectares in total. [@3] Officers
-uprooted and destroyed 157,290 cannabis plants. [@1] Police estimated the weight
-of the destroyed plants at 78.645 tonnes. [@1] Public relations chief Kombes
+Police said the cleared fields covered 104.86 hectares in total. [@3,4] Officers
+uprooted and destroyed 157,290 cannabis plants. [@1,4] Police estimated the weight
+of the destroyed plants at 78.645 tonnes. [@1,4] Public relations chief Kombes
 Pol. Joko Krisdiyanto gave the figures on behalf of the force's narcotics
 director, Kombes Pol. Gazali Ahmad. [@1] He gave the statement on Monday 2
 November 2026. [@2]
@@ -66,4 +76,3 @@ November 2026. [@2]
 Joko said the operation was part of the national police chief's priority
 programme, Polisi Bersama Masyarakat, through Quick Wins 2, which includes
 restoring areas used for drug crops. [@1]
-
