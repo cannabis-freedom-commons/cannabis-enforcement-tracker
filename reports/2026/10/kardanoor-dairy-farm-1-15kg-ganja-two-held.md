@@ -1,0 +1,71 @@
+---
+date: 2026-10-31
+country: in
+place: Govind Rao Dairy Farm, Kardanoor village, Patancheru, Sangareddy district
+coordinates: [17.5315, 78.2649]
+precision: locality
+type: arrest
+also: [seizure]
+title: Two held as 1.15 kg ganja seized at Kardanoor dairy farm
+summary: >-
+  EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor on 31 October 2026, arresting two interstate peddlers and apprehending four consumers. Officers seized 1.15 kg of ganja worth about Rs 57,000 allegedly sold to migrant workers in five-gram sachets.
+figures:
+  arrested: 6
+  kg_seized: 1.15
+  value:
+    amount: 57000
+    currency: INR
+media:
+  - kind: photo
+    url: https://telanganatoday.com/eagle-force-seizes-1-15-kg-of-ganja-at-dairy-farm-in-patancheru
+    media_url: https://media.telanganatoday.com/wp-content/uploads/2026/11/Eagle-Force.jpg
+    publisher: Telangana Today
+    caption: Lead photo published with the report on the dairy-farm ganja seizure.
+  - kind: video
+    url: https://telugu.news18.com/videos/hyderabad/hyderabad-police-arrest-two-interstate-ganja-peddlers-3258263.html
+    media_url: https://media.nw18.com/media-assets/t4akda/e5ab6682-dbbf-4ff7-a944-ffe4c6480f6a/11-2026/2-2026/VaOl1lBizh-i5TMJ4rzMYhyd-ganjai-dandamp4-MdabeitACv/1080highp-h264.mp4
+    publisher: News18 Telugu
+    caption: Video report on the dairy-farm ganja raid and arrests.
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 322de6accdc6c0a035bfe83687dc31f0
+tags: [patancheru, ganja, eagle-force]
+sources:
+  - title: Hyderabad | డెయిరీ ఫామ్ ముసుగులో గంజాయి దందా!
+    url: https://telugu.news18.com/videos/hyderabad/hyderabad-police-arrest-two-interstate-ganja-peddlers-3258263.html
+    publisher: News18 Telugu
+    date: 2026-11-02
+    language: te
+  - title: EAGLE Force seizes 1.15 kg of ganja at dairy farm in Patancheru
+    url: https://telanganatoday.com/eagle-force-seizes-1-15-kg-of-ganja-at-dairy-farm-in-patancheru
+    publisher: Telangana Today
+    date: 2026-11-01
+  - title: Two arrested for selling marijuana in Patancheru
+    url: https://www.thehindu.com/news/national/telangana/two-arrested-for-selling-marijuana-in-patancheru/article71652690.ece
+    publisher: The Hindu
+    date: 2026-11-01
+open_questions:
+  - The News18 Telugu page is dated 2 November 2026; the 31 October incident date comes from The Hindu and Telangana Today accounts of the Saturday raid.
+  - Sources describe two men as arrested and four consumers as apprehended; the report groups all six detained people in the arrested figure.
+  - Police said around 10 other consumers were identified; whether they were detained or charged was not reported.
+  - No charges, court outcome, or action against the dairy farm owner were reported beyond registration of a Patancheru case.
+  - 'Left out, as its quotation was not found in The Hindu: Four consumers were apprehended during the same raid.'
+  - 'Left out, as its quotation was not found in Telangana Today: Police valued the seized ganja at about Rs 57,000.'
+---
+
+EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor
+village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
+[@3] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
+at the parking yard opposite, both natives of Bihar. [@2]
+
+Officers seized 1.150 kg of ganja at the dairy farm. [@1] Police said the pair
+bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
+for Rs 300. [@2] Investigators said they procured one to two kg two or three
+times a week. [@2] Police said 20 to 30 consumers approached daily, rising to 50
+to 60 on Sundays. [@2]
+
+Roy had worked at the dairy farm for the past three years. [@3] Kumar had
+allegedly assisted Roy in selling marijuana for the past year. [@3] The alleged
+supplier Kishan Singh of Dhoolpet was absconding. [@3] A case was registered and
+investigation continued. [@2]
+
