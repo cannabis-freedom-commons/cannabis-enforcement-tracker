@@ -78,6 +78,11 @@ sources:
     url: https://www.etvbharat.com/en/bharat/hydroponic-weed-worth-rs-9-dot-33-crore-seized-at-delhi-igi-airport-two-passengers-arrested-enn26103102770
     publisher: ETV Bharat
     date: 2026-10-31
+  - title: दिल्ली हवाई अड्डे पर 26.6 किलोग्राम हाइड्रोपोनिक गांजा जब्त, दो लोग गिरफ्तार
+    url: https://hindi.theprint.in/india/26-6-kg-hydroponic-marijuana-seized-at-delhi-airport-two-arrested/1052128/
+    publisher: ThePrint Hindi
+    date: 2026-10-30
+    language: hi
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -113,22 +118,22 @@ media:
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9,10,11,13] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
+[@1,4,5,6,7,8,9,10,11,13,14] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
 Channel for X-ray screening after profiling. [@3,11,12] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13] The substance was seized under Section
+Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13,14] The substance was seized under Section
 43(a) of the same act. [@1,4,5,6,7,12]
 
 Officers found 26 polythene pouches of a green substance suspected to be
 marijuana or hydroponic weed. [@2,11,12,13] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7,8,11,12,13] A diagnostic test indicated prima facie that the substance was
-marijuana or hydroponic weed. [@2,5,6,7]
+crore. [@1,4,5,6,7,8,11,12,13,14] A diagnostic test indicated prima facie that the substance was
+marijuana or hydroponic weed. [@2,5,6,7,14]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
 of the NDPS Act and that its investigation was in progress. [@3,13] Hydroponic
 ganja is a high-potency variety of cannabis grown in nutrient-rich water instead
-of soil. [@1,4,5,6,7,13]
+of soil. [@1,4,5,6,7,13,14]
 
-The pouches were packed 13 to each of two black trolley bags. [@1,5,6,7,9]
+The pouches were packed 13 to each of two black trolley bags. [@1,5,6,7,9,14]
 
 Customs said it acted on a tip-off as well as passenger profiling, and placed the two under surveillance as they tried to clear the Green Channel. [@13] Both passengers were being interrogated as investigators tried to determine the network and reach of the international drug syndicate within India, customs said. [@13] Customs said high-vigilance operations would remain in place at the airport terminals. [@13]
