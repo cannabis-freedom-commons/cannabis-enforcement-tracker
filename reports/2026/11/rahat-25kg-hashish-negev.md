@@ -61,6 +61,11 @@ sources:
     publisher: كل العرب
     date: 2026-11-01
     language: ar
+  - title: 'מצוד מהאוויר ורובי M-16: הישגי מבצע האכיפה הנרחב ביישובי הבדואים בנגב'
+    url: https://www.b7net.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%9E%D7%A6%D7%95%D7%93-%D7%9E%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%95%D7%A8%D7%95%D7%91%D7%99-m-16-%D7%94%D7%99%D7%A9%D7%92%D7%99-%D7%9E%D7%91%D7%A6%D7%A2-%D7%94%D7%90%D7%9B%D7%99%D7%A4%D7%94-%D7%94%D7%A0%D7%A8%D7%97%D7%91-%D7%91%D7%99%D7%99%D7%A9%D7%95%D7%91%D7%99-%D7%94%D7%91%D7%93%D7%95%D7%90%D7%99%D7%9D-%D7%91%D7%A0%D7%92%D7%91-810004
+    publisher: באר שבע נט
+    date: 2026-11-01
+    language: he
 open_questions:
   - The reports give no separate date for the car seizure; 1 November 2026 is the date of the police announcement, and police said the operations took place over the previous few days.
   - Police gave no total number of arrests across the operations.
@@ -70,12 +75,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Wazcam: Police said the operations were part of efforts to strengthen law enforcement and security in the Negev towns and to counter illegal weapons, shootings and drug trafficking.'
   - The submitted tag page also lists an earlier Negev weapons operation, dated 25 October 2026 and reporting about NIS 275,000 seized, which is a separate event and was left out.
   - The page carries operation photographs and a video, but their captions do not confirm they show the hashish car seizure itself, so no new media entry is added.
+  - The page's image is credited only to Israel Police and its caption does not confirm it shows the hashish car seizure itself, so no media entry is added.
 ---
 
 Israeli police said they found about 25 kg of suspected hashish in a car near
-the city of Rahat in the Negev. [@2,5] They arrested the driver, a 28-year-old
-resident of Tarabin. [@2,5] The car had been spotted at the Goral junction and
-tried to flee before officers found it near Rahat after searches. [@2,5] The
+the city of Rahat in the Negev. [@2,5,7] They arrested the driver, a 28-year-old
+resident of Tarabin. [@2,5,7] The car had been spotted at the Goral junction and
+tried to flee before officers found it near Rahat after searches. [@2,5,7] The
 driver was taken for questioning. [@2]
 
 The seizure was one of a series of operations in Bedouin towns in the Negev,
