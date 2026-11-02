@@ -37,6 +37,20 @@ sources:
     publisher: BurgasMedia
     date: 2026-10-30
     language: ru
+  - title: Police seize about 50g of cannabis and 1g of cocaine from 21-year-old in Kraimorie
+    url: https://burgasmedia.com/news/policiyata-izze-okolo-50-g-marihuana-i-1-g-kokain-ot-21-godishen-v-kraymorie?lang=en
+    publisher: BurgasMedia
+    date: 2026-10-30
+  - title: Марихуана и кокаин откриха в дома на 21-годишен в "Крайморие"
+    url: https://www.burgas24.bg/novini/burgas/Marihuana-i-kokain-otkriha-v-doma-na-21-godishen-v-Kraimorie-3048246
+    publisher: Burgas24.bg
+    date: 2026-10-30
+    language: bg
+  - title: Иззеха над 100 грама наркотици при проверки в Бургаско
+    url: https://bnrnews.bg/burgas/post/550404/izzeha-nad-100-grama-narkotitsi-pri-proverki-v-burgasko
+    publisher: БНР Бургас
+    date: 2026-10-30
+    language: bg
 open_questions:
   - 'Reports differ on detentions: the police account reported by Burgas Online says three men were held for up to 24 hours, BurgasMedia says four and EraNova five.'
   - BurgasMedia counts the Kraimorie case separately from the other four men, while the police account reported by Burgas Online and EraNova's report treat all five as checks within one day.
@@ -55,7 +69,7 @@ cases. [@2]
 
 The largest quantity was found in the Kraimorie quarter, where officers stopped
 a 21-year-old man at about 17:10 and then searched his home on Lorna Street; the
-case totalled about 50 grams of marijuana and about 1 gram of cocaine. [@2,4] In
+case totalled about 50 grams of marijuana and about 1 gram of cocaine. [@2,4,5,6] In
 Meden Rudnik, officers searched a home on Preobrazhenska Street lived in by a
 33-year-old man. [@2] They found about 33 grams of cannabis in a glass bowl and
 three foil wraps. [@2] A 22-year-old man's apartment in block 20 of the same
@@ -65,6 +79,6 @@ Primorsko municipality, police found 10 grams of cannabis in the home of a
 36-year-old man. [@2]
 
 In total, police seized about 103 grams of cannabis and about 1 gram of cocaine,
-the directorate said. [@2] It described the Kraimorie find as separate from
+the directorate said. [@2,7] It described the Kraimorie find as separate from
 those four men. [@1] The police did not say whether the drugs were intended for
 distribution. [@2]
