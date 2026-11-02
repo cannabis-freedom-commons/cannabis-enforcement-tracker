@@ -123,6 +123,11 @@ sources:
     publisher: News18 हिंदी
     date: 2026-11-01
     language: hi
+  - title: कानपुर के कजड़नपुरवा में नशा तस्करों पर बड़ा एक्शन! 150 पुलिसकर्मियों ने ली 60 से 70 घरों की तलाशी, ड्रोन से निगरानी
+    url: https://www.jagran.com/uttar-pradesh/kanpur-city-drone-surveillance-house-searches-in-kanpur-kajjanpurwa-drug-crackdown-hree-arrested-with-11-kg-of-cannabis-40423820.html
+    publisher: Jagran
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -143,11 +148,15 @@ open_questions:
   - Deshbandhu's text is an IANS roundup, the same agency copy already cited through Dainik Bhaskar Hindi, so it adds no independent reporting.
   - News18 Hindi says the operation began at about 6 am, while the report and Amar Ujala give about 5 am; the report keeps 5 am.
   - This page says the operation started at about 6 am, while the existing report keeps about 5 am from its other accounts.
+  - This source says about 150 police personnel took part, while the existing report keeps 135 officers from its other accounts.
+  - This source says about 60 to 70 houses were searched, while the existing report cites Hindustan for about 35 homes.
+  - This source spells the locality Kajjanpurwa/Kajadnpurwa variants; the existing report uses Kanjarpurwa for the same Kidwai Nagar locality.
+  - The page displays a video thumbnail at https://www.jagranimages.com/videos/2026/11/01/media/video/thumbnail/KANPUR-1793526357020-1793526415726.webp, but no direct video file address could be recovered, so no media entry is added.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
 [@1,4,6,7,11,12,13]
 
@@ -167,3 +176,5 @@ were being questioned and that the drive against the drug trade would continue.
 [@2,7,8,9,10]
 
 Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
+
+About 150 police personnel took part, including about 50 sub-inspectors, 80 male constables and 24 female constables. [@15] Officers searched about 60 to 70 houses while monitoring the area with drone cameras. [@15]
