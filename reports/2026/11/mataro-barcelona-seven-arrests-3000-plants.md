@@ -34,6 +34,11 @@ sources:
     publisher: El Periódico
     date: 2026-11-02
     language: es
+  - title: 'Siete detenidos, 3.000 plantas de marihuana y un arsenal de armas: cae una banda de narcotráfico en Barcelona y Mataró'
+    url: https://amp.elperiodico.com/es/sociedad/20261102/policia-nacional-droga-marihuana-siete-detenidos-arsenal-armas-disposicon-judicial-policia-local-policia-nacional-3-000-plantas-de-marihuana-dinero-en-efectivo-investigacion-mataro-barcelona-135993400
+    publisher: El Periódico
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the operation.
   - Only one opened source was found; no agency statement or second outlet was available to corroborate.
@@ -44,13 +49,13 @@ open_questions:
 
 Agents of the National Police together with the Mataró Local Police carried out
 an anti-drug operation in the province of Barcelona in which seven people were
-detained and 3,000 marijuana plants were seized. [@1] The operation dismantled
+detained and 3,000 marijuana plants were seized. [@1,2] The operation dismantled
 an alleged criminal organisation dedicated to distributing marijuana for the
 European black market. [@1] The seven detainees were placed at judicial
 disposition accused of alleged crimes against public health, illegal possession
-of weapons, electricity fraud and membership of a criminal group. [@1]
+of weapons, electricity fraud and membership of a criminal group. [@1,2]
 
-In total police seized 3,000 marijuana plants and one kilogram of buds. [@1]
+In total police seized 3,000 marijuana plants and one kilogram of buds. [@1,2]
 Police listed the seized weapons as two 9 mm pistols with semi-jacketed
 ammunition, a simulated pistol and an AK-47 rifle, plus five frequency
 inhibitors, two knuckle-dusters, several extendable batons and a baseball bat.
@@ -59,4 +64,3 @@ abundant tools used for the plantations. [@1]
 
 Investigators say the group grew cannabis in covered facilities for later
 distribution on the eastern European black market. [@1]
-
