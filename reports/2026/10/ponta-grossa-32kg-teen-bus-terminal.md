@@ -27,16 +27,30 @@ sources:
     publisher: D'PontaNews
     date: 2026-11-01
     language: pt
+  - title: Adolescente de 17 anos é apreendido com 32 quilos de maconha e diz que receberia R$ 8 mil pelo transporte
+    url: https://oparana.com.br/cotidiano/adolescente-de-17-anos-e-apreendido-com-32-quilos-de-maconha-e-diz-que-receberia-r-8-mil-pelo-transporte/
+    publisher: O Paraná - Jornal de Fato
+    date: 2026-11-02
+    language: pt
 open_questions:
   - The incident date of 31 October 2026 is inferred from the Saturday 31 reference and the 1 November 2026 publication dates.
   - The reported R$8,000 is a promised courier payment, not an assessed drug value, and is excluded from figures.
   - No charge, custody outcome or court result for the adolescent was stated.
   - The aRede page's terminal photograph is captioned only as the bus station and credited as a reproduction, so it is not listed as event media.
   - The two outlets describe the receiving police unit in different terms, so the report uses a shared description.
+  - The submitted source dates publication to 2 November 2026 and places the incident on Saturday (31), consistent with the existing report's inferred incident date of 31 October 2026.
+  - The submitted source says FICCO/PR information mobilized Federal Police and Military Police Choque teams and that the teen was forwarded to the Civil Police, while the existing report details Choque/1st BPM handling, the flagrante unit and Tutelary Council accompaniment; the report uses a shared description.
+  - The R$8,000 is a promised courier payment for transport to Curitiba, not an assessed drug value, and is excluded from figures.
+media:
+  - kind: photo
+    url: https://oparana.com.br/cotidiano/adolescente-de-17-anos-e-apreendido-com-32-quilos-de-maconha-e-diz-que-receberia-r-8-mil-pelo-transporte/
+    media_url: https://uploads.oparana.com.br/2026/11/WhatsApp-Image-2026-11-01-at-15.20.15-1000x750.jpeg
+    publisher: O Paraná - Jornal de Fato
+    caption: 'Police photo of the seized suitcases with vacuum-packed cannabis at the Ponta Grossa bus terminal. Photo: PF'
 ---
 
 Military police apprehended a 17-year-old with cannabis on the night of Saturday
-31 October at the Ponta Grossa bus terminal. [@1] A Choque team acted on
+31 October at the Ponta Grossa bus terminal. [@1,3] A Choque team acted on
 information from the Força Integrada de Combate ao Crime Organizado that a
 passenger who had boarded in Cuiabá was carrying drugs. [@1] Officers stopped
 the bus at the terminal at about 11:08 p.m. with support from other teams. [@1]
@@ -49,13 +63,12 @@ while a tutelary counselor accompanied the procedures because the Curitiba
 resident had no legal representative in Ponta Grossa. [@1]
 
 Officers found 32 kilograms of maconha divided between two suitcases in the
-luggage compartment of a bus travelling from Porto Velho to Criciúma. [@1]
+luggage compartment of a bus travelling from Porto Velho to Criciúma. [@1,3]
 Police recovered multiple vacuum-packed packages of a substance analogous to
 maconha from the vehicle's luggage compartment, which totalled 32 kilograms
-after weighing. [@2]
+after weighing. [@2,3]
 
 The stop was carried out by the Choque platoon of the 1st Military Police
 Battalion with support from area officers and the unit's policing coordinator.
 [@2] The teenager was forwarded to the competent police authority with the drugs
 and a cell phone, with the Tutelary Council accompanying the procedures. [@2]
-
