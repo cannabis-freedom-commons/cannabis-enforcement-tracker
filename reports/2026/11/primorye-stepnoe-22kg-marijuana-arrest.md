@@ -33,28 +33,34 @@ sources:
     publisher: Ridus
     date: 2026-11-02
     language: ru
+  - title: Приморца с "оптовой" партией марихуаны для личного употребления задержали полицейские
+    url: https://deita.ru/article/592457
+    publisher: DEITA.RU
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The sources give only publication dates of 2 November 2026 and no separate date for the detention, so 2 November 2026 is used as the incident date.
   - PRIMPRESS reports the weight as 22 kilograms while Ridus reports it as more than 22 kilograms; the report uses 22 kilograms.
   - No court outcome, pretrial measure, or further identification of the detained man was reported.
+  - DEITA.RU reports the weight as more than 22 kg while the existing report uses 22 kilograms from PRIMPRESS.
+  - The DEITA.RU page carries a lead photo whose content could not be verified from caption and text alone, so it is not listed as media.
 ---
 
 Drug-control officers from the Mikhailovsky district police department detained
 a 34-year-old man near Stepnoe village in the Ussuriysky urban district of
-Primorsky Krai. [@2] The Primorsky Krai police press service reported the
+Primorsky Krai. [@2,3] The Primorsky Krai police press service reported the
 detention through the MAX messenger. [@2] Officers found the man beside a tarp
-on which cannabis tops and leaves were spread out to dry. [@1] They seized the
+on which cannabis tops and leaves were spread out to dry. [@1,3] They seized the
 substance and took him to the police station for questioning. [@1] He told
 police that he had found wild cannabis near the village, picked its tops and
-leaves, and was drying them on the tarp for himself. [@1]
+leaves, and was drying them on the tarp for himself. [@1,3]
 
 An expert examination confirmed that the seized material was cannabis
-(marijuana). [@1] Police put its total weight at 22 kilograms, an amount
+(marijuana). [@1,3] Police put its total weight at 22 kilograms, an amount
 classified as a large size. [@1] The man said he had stored the marijuana solely
 for personal use. [@1]
 
 Investigators opened a criminal case for illegal acquisition and storage of
 narcotics on a large scale under Part 2 of Article 228 of the Russian Criminal
-Code. [@1] The charge covers illegal acquisition and storage of drugs in a large
+Code. [@1,3] The charge covers illegal acquisition and storage of drugs in a large
 amount. [@2] The charge carries up to 10 years' imprisonment. [@1]
-
