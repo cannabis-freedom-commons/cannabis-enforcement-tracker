@@ -36,6 +36,11 @@ sources:
     publisher: प्रदेश प्रकाश
     date: 2026-10-30
     language: hi
+  - title: धार में कपास की फसल के बीच उगा रखा था गांजा, चार खेतों से 684 पौधे जब्त
+    url: https://www.naidunia.com/madhya-pradesh/dhar-cannabis-was-being-grown-amidst-a-cotton-crop-in-dhar-8473657
+    publisher: Nai Dunia
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article dates the raids only to 'Thursday'; 29 October 2026 is inferred from its publication at 00:50 on 31 October and the two arrested men's scheduled court production on Saturday.
   - The headline puts the haul at Rs 1 crore, while the four itemised police valuations in the text add up to Rs 1.2754 crore; the report uses the itemised figures.
@@ -49,6 +54,9 @@ open_questions:
   - Pradesh Prakash, like the MP Breaking News account already noted, gives about 1,105 kg valued at 1 crore 24 lakh rupees and says Gandhwani police arrested two people with one absconding, which does not match the Times of India account of two named arrests, two absconders and a fourth Dharampuri farm.
   - The page only says the story appeared “one day ago” beside a site header dated 31 October 2026, so 30 October 2026 is inferred as the publication date, not printed as a calendar date.
   - The only image is a headline graphic, not a photograph of the seizure, so it is not linked.
+  - Nai Dunia reports four arrests and says police arrested the accused in all four cases, while the Times of India account already cited says two farmers were arrested and two were absconding; the report keeps two arrests because Nai Dunia gives no separate arrest date or account of the two being caught.
+  - Nai Dunia gives the combined weight as 1,155.70 kg although its four itemised weights add to 1,156.2 kg; the report keeps 1,155.8 kg from the Times of India.
+  - The only image on the Nai Dunia page is captioned “-एआई इमेज” (AI image), so it is not linked as a photograph of the raids.
 ---
 
 Four farmers were booked under Section 8/20 of the Narcotic Drugs and
@@ -63,13 +71,13 @@ Rajaram Waskel could not be found after the Panjariya raid and was absconding.
 [@1]
 
 At Kota village, about 14 km from Gandhwani, police seized 400 plants weighing
-693 kg and valued at Rs 75 lakh from Solanki’s farm. [@1] Sub-inspector Suraj
+693 kg and valued at Rs 75 lakh from Solanki’s farm. [@1,4] Sub-inspector Suraj
 Singh Parmar said the plants there were grown among a cotton crop. [@1] At
 Nipawali, Rajod police seized 30 plants weighing 27.5 kg and valued at Rs 30,000
-from Popandya’s farm, opposite a Honda showroom. [@1] At Khamaliya, Sardarpur
+from Popandya’s farm, opposite a Honda showroom. [@1,4] At Khamaliya, Sardarpur
 police seized 240 plants weighing 385 kg and valued at Rs 46.2 lakh from
-Pataliya’s farm. [@1] At Panjariya, Dharampuri police found 14 plants weighing
-50.3 kg and worth Rs 6.04 lakh on Waskel’s farm. [@1]
+Pataliya’s farm. [@1,4] At Panjariya, Dharampuri police found 14 plants weighing
+50.3 kg and worth Rs 6.04 lakh on Waskel’s farm. [@1,4]
 
 Police described the Gandhwani, Rajod and Sardarpur actions as part of Operation Prahar, a district drive against illegal drug cultivation and trade. [@2] In those station areas, officers recovered cannabis plants growing among pigeon pea, known locally as tuar, and cotton. [@2]
 
