@@ -38,6 +38,11 @@ sources:
     publisher: Akdeniz Gerçek
     date: 2026-10-31
     language: tr
+  - title: Mersin'de sentetik uyuşturucu ve esrar ele geçirilen operasyonda 2 şüpheli tutuklandı
+    url: https://www.sondakika.com/3-sayfa/haber-mersin-de-sentetik-uyusturucu-ve-esrar-ele-geciril-20384114/
+    publisher: Son Dakika
+    date: 2026-10-31
+    language: tr
 open_questions:
   - No separate date was given for the operation or the court hearing; 31 October 2026 is the publication date of the earliest account, so both happened on or before that evening.
   - No weight, plant count or estimated value was published for the synthetic drugs or the esrar; the accounts say only that 'a quantity' of esrar was found.
@@ -49,16 +54,15 @@ open_questions:
 ---
 
 Anti-narcotics police in Mersin detained H.Y. and M.E. in an investigation run
-by the Mersin Chief Public Prosecutor's Office. [@1] The two were described as
-torbacı, or street-level drug dealers. [@2] The operation followed work by the
+by the Mersin Chief Public Prosecutor's Office. [@1,4] The two were described as
+torbacı, or street-level drug dealers. [@2,4] The operation followed work by the
 anti-narcotics branch against drug sellers in the city. [@1] Officers identified
 the pair through physical surveillance and raided their addresses, searching
 their persons and homes at the same time. [@3] The pair were caught in the raid.
 [@2]
 
 The searches found synthetic drugs prepared for sale and a quantity of esrar,
-the Turkish name for cannabis. [@1] After questioning at police headquarters,
+the Turkish name for cannabis. [@1,4] After questioning at police headquarters,
 the two were brought to court under heavy security. [@3] A duty court ordered
 tutuklama, pre-trial detention, on drug-trafficking charges and sent both to
-prison. [@3]
-
+prison. [@3,4]
