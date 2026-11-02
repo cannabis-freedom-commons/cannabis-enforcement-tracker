@@ -50,6 +50,11 @@ sources:
     publisher: LU17
     date: 2026-10-24
     language: es
+  - title: 'Operativo policial en Zapala: un detenido y un arma incautada'
+    url: https://zapalaya.com.ar/policiales/operativo-policial-en-zapala-un-detenido-y-un-arma-incautada-1
+    publisher: ZAPALAYA.COM.AR
+    date: 2026-10-31
+    language: es
 open_questions:
   - The reports give 1.11 kg of cannabis buds plus a further 20 g of chopped cannabis; no single overall weight was published.
   - ZapalaYa mentions one suspect detained in the Centenario raids, while the local reports say five people were detained, four of them only to verify their records; it is not known whether those four were released or charged.
@@ -57,10 +62,13 @@ open_questions:
   - Minuto Neuquén describes the 50 as plants and LU17 as seedlings (plantines), both between 15 and 60 cm tall.
   - The submitted ZapalaYa article is mainly about a separate firearms arrest in Zapala and reports the Centenario raids only in one passage.
   - No court date or outcome was reported.
+  - The submitted article says one suspect was detained in the Centenario raids, while the existing report records five detained based on local reports.
+  - The submitted article's main Zapala firearms arrest is a separate event left out here.
+  - Its photo shows the Zapala detention and seized firearm, not the Centenario cannabis seizure, so no media is listed.
 ---
 
 Four raids took place in Centenario's Vista Hermosa and 173 Viviendas
-neighbourhoods on 23 October 2026 and uncovered a cannabis cultivation. [@1]
+neighbourhoods on 23 October 2026 and uncovered a cannabis cultivation. [@1,4]
 Police detained five people in the operation. [@2] One adult was held over the
 investigation that prompted the raids, while four others were held while
 officers checked their records. [@3] Prosecutors charged two adults over the
@@ -75,4 +83,3 @@ The investigation began with a suspected firearm offence reported in September
 in the 130 Viviendas neighbourhood. [@3] The drug and firearm inquiries were
 proceeding in parallel, and the seized items were placed at the disposal of the
 courts. [@2] No identities were released. [@2]
-
