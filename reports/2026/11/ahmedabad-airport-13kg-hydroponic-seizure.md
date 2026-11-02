@@ -35,17 +35,22 @@ sources:
     url: https://hiindia.com/drugs-worth-rs-13-crore-seized-at-ahmedabad-airport-two-held/
     publisher: hi INDiA
     date: 2026-11-01
+  - title: How Ahmedabad Customs Foiled A Major Hydroponic Ganja Smuggling Bid
+    url: https://www.rediff.com/news/report/gujarat-duo-held-with-hydroponic-marijuana-at-ahmedabad-airport/20261101.htm
+    publisher: Rediff
+    date: 2026-11-01
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
   - The same airport saw separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg), different events left out here.
+  - The page's only image is explicitly labelled as AI-generated for representational purposes and does not show the event, so no event photo can be linked from this source.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2]
+Vallabhbhai Patel International Airport. [@1,2,3] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
@@ -58,3 +63,5 @@ The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
 1985, India's main drug law, and both passengers were arrested. [@1,2] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
+
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3]
