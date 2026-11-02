@@ -41,6 +41,11 @@ sources:
     publisher: Tuniscope
     date: 2026-10-31
     language: ar
+  - title: 'Sousse: Saisie de 30 plaquettes de cannabis'
+    url: https://www.mosaiquefm.net/fr/actualite-regional-tunisie/1535333/sousse-saisie-de-30-plaquettes-de-cannabis
+    publisher: Mosaique FM
+    date: 2026-11-01
+    language: fr
 open_questions:
   - No weight was given for the 30 slabs, so the seizure is recorded by slab count only.
   - The suspect is not named, and no charge or court outcome has been reported.
@@ -58,9 +63,9 @@ media:
 ---
 
 Tuniscope reported that security units in Sousse Sud seized 30 slabs of cannabis
-on the evening of 31 October 2026. [@2,5] The substance was cannabis resin, known
+on the evening of 31 October 2026. [@2,5,6] The substance was cannabis resin, known
 in Tunisia as zatla, and the slabs were prepared for sale, Radio Marina said.
-[@3] A suspect was arrested, Radio Marina reported. [@3] The public prosecutor
+[@3] A suspect was arrested, Radio Marina reported. [@3,6] The public prosecutor
 authorised his detention and legal measures against him. [@3] The operation
 began after information that a man was moving suspiciously between Msaken and
 Hay Riad. [@3] The Sousse Sud judicial police brigade, working with the head of
@@ -69,7 +74,7 @@ the judicial duty centre and the emergency squad, identified and stopped him.
 
 Officers also seized several mobile phones and a luxury car that Radio Marina
 said he used to move the drugs. [@3] Jawhara FM described the car as prepared
-for rental. [@1]
+for rental. [@1,6]
 
 The Sousse Sud judicial police brigade was still trying to identify and bring in
 the other suspected members of the network, Jawhara FM reported. [@1,4] Radio
