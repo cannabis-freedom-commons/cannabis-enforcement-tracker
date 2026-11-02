@@ -72,7 +72,6 @@ function routing(i) {
   if (!i.country) return "international";
   if (STATISTICS.test(i.title)) return "national statistics";
   if (PRECEDENT.test(i.title)) return "a ruling that sets a precedent";
-  if (/\bexecut|\bhang(s|ed)\b/i.test(i.title)) return "executions: the CFI's death-penalty record";
   if (!places.has(placeOf(i))) return `unknown place ${placeOf(i)}`;
   return null;
 }

@@ -23,7 +23,7 @@ func TestStrictAndValidation(t *testing.T) {
 	if err != nil || parsed.Validate(map[string]bool{"th": true}) != nil {
 		t.Fatal(err)
 	}
-	for _, mutate := range []func(*Result){func(r *Result) { r.CreatedByModel = "" }, func(r *Result) { r.Country = "invented" }, func(r *Result) { r.Date = "1999-01-01" }, func(r *Result) { r.Slug = "../../secret" }, func(r *Result) { r.Facts[0].Source = 2 }, func(r *Result) { r.Type = "execution" }, func(r *Result) { r.Facts[0].Text = "<script>steal()</script>" }} {
+	for _, mutate := range []func(*Result){func(r *Result) { r.CreatedByModel = "" }, func(r *Result) { r.Country = "invented" }, func(r *Result) { r.Date = "1999-01-01" }, func(r *Result) { r.Slug = "../../secret" }, func(r *Result) { r.Facts[0].Source = 2 }, func(r *Result) { r.Type = "invented" }, func(r *Result) { r.Facts[0].Text = "<script>steal()</script>" }} {
 		v := valid()
 		mutate(&v)
 		if v.Validate(map[string]bool{"th": true}) == nil {
@@ -134,5 +134,25 @@ func TestCleanTagsMendsInsteadOfRefusing(t *testing.T) {
 	r.Tags = CleanTags([]string{"Hong Kong", "大麻"})
 	if r.Validate(map[string]bool{"th": true}) != nil {
 		t.Fatal("cleaned tags still refused")
+	}
+}
+
+func TestCapitalPunishmentReports(t *testing.T) {
+	for _, typ := range []string{"sentence", "execution"} {
+		t.Run(typ, func(t *testing.T) {
+			r := valid()
+			r.Type = typ
+			r.Also = []string{"execution"}
+			if typ == "execution" {
+				r.Also = []string{"sentence"}
+			}
+			if err := r.Validate(map[string]bool{"th": true}); err != nil {
+				t.Fatal(err)
+			}
+			draft := r.Markdown()
+			if !strings.Contains(draft, "type: "+typ) {
+				t.Fatal(draft)
+			}
+		})
 	}
 }

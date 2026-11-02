@@ -110,7 +110,7 @@ var tag = regexp.MustCompile(`^[a-z0-9]+(?:-[a-z0-9]+)*$`)
 var currency = regexp.MustCompile(`^[A-Z]{3}$`)
 var language = regexp.MustCompile(`^[a-z]{2}$`)
 var submissionID = regexp.MustCompile(`^[0-9a-f]{32}$`)
-var types = "|eradication|seizure|raid|arrest|prosecution|sentence|death|"
+var types = "|eradication|seizure|raid|arrest|prosecution|sentence|execution|death|"
 var precisions = "|exact|locality|district|region|country|"
 
 func Strict(data []byte) (Result, error) {

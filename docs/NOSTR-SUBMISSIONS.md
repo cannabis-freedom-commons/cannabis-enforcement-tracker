@@ -588,3 +588,9 @@ go run ./cmd/tracker -prune-jobs
 
 This command starts no server, research or publication jobs and does not alter job leases.
 It observes the same active-job, pending-publication and recent-directory protections.
+
+Cannabis-related death sentences (`sentence`) and executions (`execution`) are tracker events,
+subject to the other routing rules in `docs/CFI.md`. Migration 017 queues fresh research for old
+CFI referrals whose explanation mentions death sentences or executions, preserving history and
+usage while discarding the obsolete decision checkpoint. Other referrals and running jobs stay
+untouched. Restart the backend to apply the migration and updated research validation.

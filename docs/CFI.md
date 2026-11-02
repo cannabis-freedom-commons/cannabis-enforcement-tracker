@@ -3,7 +3,7 @@
 The Cannabis Freedom Index (cannabisfreedom.fyi, checkout `../cannabis-freedom-index`) records what
 each country's law allows and how it got there: its history of laws, rulings and treaties. The
 tracker records how the law is applied: raids, seizures, eradication, arrests, prosecutions and
-sentences. Country ids are the CFI's.
+sentences, executions and deaths. Country ids are the CFI's.
 
 ## Substance scope
 
@@ -23,7 +23,10 @@ cannabis component cannot be established, do not draft a cannabis report.
 
 **Comes here (a report):** a single enforcement event since 2000 that changes no law: an operation,
 a raid, a seizure, fields destroyed, an arrest, a trial, a sentence, or an appeal that only changes a
-sentence.
+sentence, including death sentences and executions. These belong in the tracker even when the
+CFI also records them in a country’s death-penalty history; capital punishment alone is not a
+reason to route an event to the CFI. Use `sentence` for a death sentence and `execution` for an
+execution. The other routing rules below still apply.
 
 **Goes to the CFI history** (its `changes.yaml`, see its `docs/DATA-MAINTENANCE.md`, "Enforcement events
 go to the tracker"):
@@ -34,7 +37,6 @@ go to the tracker"):
   sentence under a new law);
 - national statistics and the overall picture (yearly figures, a crackdown or an amnesty announced
   as policy);
-- executions and death sentences (the CFI keeps each country's death-penalty record);
 - anything a CFI atlas entry lists or a did-you-know fact names.
 
 Found a change in the law while looking for reports? Add it to the CFI history (its

@@ -15,8 +15,9 @@ Apply the substance scope in `docs/CFI.md` first: synthetic cannabinoids and the
 including hemp used only as their carrier, are out of scope. A mixed event needs a separately
 supported cannabis enforcement component; never count synthetic quantities as cannabis.
 
-A single enforcement event since 2000 that changes no law belongs here. A change in the law, a
-precedent-setting ruling, a famous or landmark case, national statistics, an execution or an event
+A single enforcement event since 2000 that changes no law belongs here, including death sentences
+(`sentence`) and executions (`execution`). Capital punishment alone is not a CFI referral. A change in the law, a
+precedent-setting ruling, a famous or landmark case, national statistics or an event
 before 2000 goes to the Cannabis Freedom Index history instead (`docs/CFI.md`); say so and add it
 there with its `expand-country` instructions if asked.
 

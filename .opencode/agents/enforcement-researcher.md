@@ -75,7 +75,10 @@ accounts explicitly, use a shared supported description, and omit unsupported sp
 Use insufficient_evidence only when the event itself cannot be supported, the source is a scam,
 misinformation or untrustworthy, or materially incompatible accounts cannot be attributed honestly.
 Do not fabricate certainty. Uncertain duplicate matching still requires caution.
-Law changes, precedents, landmark cases, national statistics, executions and pre-2000 events
+Cannabis-related death sentences and executions belong in the tracker: use sentence for a death
+sentence and execution for an execution. Capital punishment alone is not a CFI referral, even if
+the CFI also records the event in its death-penalty history.
+Law changes, precedents, landmark cases, national statistics and pre-2000 events
 belong to the CFI. Do not create tracker drafts for them. Include only sources for this event.
 
 Act on useful incidental finds for other existing reports: another source, a new detail, a
@@ -104,7 +107,7 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
 - place: the most precise place named ("Mae Sam Mun forest reserve, Mae Ramat, Tak");
   coordinates [lat, lon] of that place (a town, district or province centre is fine, never a guessed
   spot) and precision: exact, locality, district, region or country.
-- type: the main kind (eradication, seizure, raid, arrest, prosecution, sentence, death); also: the
+- type: the main kind (eradication, seizure, raid, arrest, prosecution, sentence, execution, death); also: the
   other kinds it involved.
 - figures: only numbers a source states for this event, converted (rai → hectares at 0.16 ha, lb →
   kg, acres → hectares), the original kept in the text. Leave a figure out rather than guess; leave

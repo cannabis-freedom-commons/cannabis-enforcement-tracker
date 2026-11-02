@@ -12,7 +12,7 @@ Index (country ids are the CFI's).
 - **To find and add reports**, follow `.claude/skills/find-reports/SKILL.md`. Start with
   `node scripts/coverage.mjs`.
 - **What belongs here and what goes to the CFI history** (changes in the law, famous and landmark
-  cases, statistics, executions, events before 2000): `docs/CFI.md`.
+  cases, statistics, events before 2000): `docs/CFI.md`.
 - **How a report is written** (one event, sources, figures, pictures): `docs/WRITING.md`.
   Data format and JSON API: `README.md`.
 - Every report file **must** include `created_by_model`: the exact model identifier used by the
