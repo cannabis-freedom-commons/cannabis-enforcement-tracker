@@ -69,6 +69,10 @@ sources:
     url: https://www.nigerianeye.com/2026/11/ndlea-arrests-two-europe-bound.html
     publisher: NigerianEye
     date: 2026-11-01
+  - title: NDLEA arrests woman with 266 AK-47 ammunition rounds on Abuja-Kaduna highway
+    url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway-2/
+    publisher: The Nation Newspaper
+    date: 2026-11-02
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -84,14 +88,14 @@ open_questions:
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5,6,7,8,9,10,12] The agency published its account of the raid on 1
+among those held. [@1,4,5,6,7,8,9,10,12,14] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
 and the Abuja airport, for the arrests and seizures. [@1]
 
 Officers at Tashan Banke recovered 178.85 kilogrammes of cannabis, which is the
-separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13] Officers also recovered
+separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14] Officers also recovered
 quantities of diazepam, tramadol, Exol-5 and pregabalin at the same Tashan Banke
 location. [@3,4]
 

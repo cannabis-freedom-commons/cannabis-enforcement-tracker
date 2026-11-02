@@ -78,6 +78,10 @@ sources:
     url: https://www.nigerianeye.com/2026/11/ndlea-arrests-two-europe-bound.html
     publisher: NigerianEye
     date: 2026-11-01
+  - title: NDLEA arrests woman with 266 AK-47 ammunition rounds on Abuja-Kaduna highway
+    url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway-2/
+    publisher: The Nation Newspaper
+    date: 2026-11-02
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -106,11 +110,13 @@ open_questions:
   - No arrests or street value were reported for the two Lagos bus interceptions.
   - 'Not added to sokoto-ayuba-236kg-skunk, as its quotation was not found in Channels Television: Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026.'
   - 'Not added to edo-eko-camp-plantation-eradication, as its quotation was not found in Channels Television: On 28 October 2026, NDLEA operatives supported by soldiers raided Eko Camp near Illushi in Esan South-East, Edo State, and destroyed a cannabis plantation covering 1.646 hectares.'
+  - The submitted page is a multi-state NDLEA roundup; this decision covers only its Lagos cannabis component.
+  - The page lead image shows the ammunition case, not the Lagos bus interceptions, so no media entry is added.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12,16] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13,16] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15]
 
 ## The announcement
 
