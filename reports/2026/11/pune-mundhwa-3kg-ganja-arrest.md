@@ -31,6 +31,11 @@ sources:
     publisher: Divya Marathi
     date: 2026-11-01
     language: mr
+  - title: 'Pune News : मुंढव्यात ३ किलो गांजासह तरुणाला अटक - Maharashtra Mirror'
+    url: https://maharashtramirror.com/mundhwa-ganja-seizure-youth-arrest-pune-3-kg/
+    publisher: Maharashtra Mirror
+    date: 2026-11-02
+    language: mr
 open_questions:
   - The article gives no separate date for the trap and arrest; 2026-11-01 is the source's publication date.
   - The 3 kg weight and Rs 1.51 lakh ganja valuation are police figures as reported; no independent weighing is reported.
@@ -38,12 +43,16 @@ open_questions:
   - Only one source for this event was opened; a second report could not be obtained.
   - The same page carries a separate chain-snatching arrest report from Mahatma Phule Mandai, a different event left out here.
   - 'Left out, as its quotation was not found in Divya Marathi: Pune''s anti-narcotics squad arrested 27-year-old Sunny Sham Gumane in the Mundhwa area after he allegedly arrived there to sell ganja.'
+  - The existing report rounds the seizure to 3 kg while this source gives 3 kg 25 g; the report keeps the rounded figure.
+  - This source dates the patrol and trap to 30 October 2026, while the existing report uses the earlier source's 1 November 2026 publication date.
+  - The page lead image caption only repeats the headline and its file name refers to Mundhwa police station, so it could not be established to show the seizure itself and no media entry is added.
+  - The two embedded YouTube videos concern a metro-station leak and Chakan rain and do not show this event, so they are not listed as media.
 ---
 
-Gumane lives at Gayran Vasti in Keshavnagar, Mundhwa. [@1]
+Gumane lives at Gayran Vasti in Keshavnagar, Mundhwa. [@1,2]
 
 Officers seized three kilograms of ganja and a mobile phone from him, putting
-the total seized property at Rs 1.61 lakh. [@1] Police valued the ganja itself
+the total seized property at Rs 1.61 lakh. [@1,2] Police valued the ganja itself
 at Rs 1.51 lakh. [@1] The crime branch squad was patrolling the Mundhwa area
 when police employee Sandip Shirke received a tip that a person would arrive to
 sell ganja, after which the squad laid a trap and detained Gumane. [@1] Officers
@@ -51,7 +60,7 @@ found the ganja when they checked the bag he was carrying, and seized three
 kilograms of ganja. [@1]
 
 A case was registered against him at Mundhwa police station under the
-anti-narcotics law. [@1] Police said investigation is continuing into from whom
+anti-narcotics law. [@1,2] Police said investigation is continuing into from whom
 Gumane had brought the ganja. [@1] The operation was carried out under the
 guidance of Deputy Commissioner of Police Gauhar Hasan and Assistant
 Commissioner Shankar Khatke. [@1] Senior Police Inspector Tripti Sonawane,
@@ -59,3 +68,4 @@ sub-inspectors and constables including Yogesh Kotkar, Asha Bhingare, Vitthal
 Salunke, Sandip Raje, Nilesh Jadhav, Atul Kshirsagar, Tushar Salunke, Kiran
 Jadhav and Vishal Bhillare were part of the squad. [@1]
 
+The anti-narcotics squad detained the youth on 30 October 2026 after constable Sandip Shirke received a tip about ganja sale while patrolling Pune. [@2] The squad raided the Sharadnagar, Gayran Vasti area in Mundhwa and found 3 kg 25 g of greenish ganja with seeds, buds and stalks in a blue bag during a search before witnesses. [@2] Police valued the ganja at Rs 1,51,250 and the seized Redmi mobile phone at Rs 10,000. [@2]
