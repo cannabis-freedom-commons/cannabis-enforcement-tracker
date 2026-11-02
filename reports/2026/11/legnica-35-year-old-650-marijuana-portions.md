@@ -27,6 +27,11 @@ sources:
     publisher: 24legnica.pl
     date: 2026-11-02
     language: pl
+  - title: Blisko 650 porcji marihuany, metamfetamina i kokaina. 35-latek z zarzutami posiadania i wprowadzania narkotyków do obrotu
+    url: https://lca.pl/pl/941_kronika-kryminalna/140845_domowy-sklad-narkotykow-niemal-800-porcji-i-zarzuty-dla-legniczanina.html
+    publisher: lca.pl
+    date: 2026-11-02
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the search, seizure and arrest.
   - No weight in grams or kilograms was published for the marijuana or the other substances, so portion counts cannot be converted to a cannabis weight and no kg figure is given.
@@ -41,7 +46,7 @@ Officers from the property-crime department of the Legnica municipal police
 detained a 35-year-old Legnica man whose flat was suspected of holding
 significant quantities of drugs. [@1,2] Officers went to the identified address
 and searched the 35-year-old's flat, checking every room and hiding place for
-hidden drugs. [@1,2] They checked every room and nook without skipping any place
+hidden drugs. [@1,2,3] They checked every room and nook without skipping any place
 where illegal substances could have been hidden. [@1] The 35-year-old was
 charged with possessing a significant quantity of narcotics and putting them
 into circulation. [@1,2] As a preventive measure, he was placed under dozór
@@ -49,12 +54,12 @@ Policji, a Polish police-supervision measure under which he reports to the
 police rather than remaining in custody. [@1]
 
 Officers seized almost 800 dealer portions of intoxicants and psychotropic
-substances in total, according to the police count. [@1,2] That total comprised
+substances in total, according to the police count. [@1,2,3] That total comprised
 nearly 650 portions of marijuana, more than 100 portions of methamphetamine and
-over a dozen portions of cocaine. [@1,2] The marijuana is the separately stated
+over a dozen portions of cocaine. [@1,2,3] The marijuana is the separately stated
 cannabis component of this mixed seizure, and the methamphetamine and cocaine
 are not counted as cannabis. [@1]
 
 Police said each seized batch of drugs limits their availability and described
 the operation as part of continuing action against the local drug trade. [@1]
-The charged offences carry up to 12 years' imprisonment. [@1,2]
+The charged offences carry up to 12 years' imprisonment. [@1,2,3]
