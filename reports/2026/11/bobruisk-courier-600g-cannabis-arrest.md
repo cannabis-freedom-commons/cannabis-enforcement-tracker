@@ -1,0 +1,76 @@
+---
+date: 2026-11-01
+country: by
+place: Bobruisk, Mogilev Region
+coordinates: [53.15, 29.2333]
+precision: locality
+type: arrest
+also: [seizure, prosecution]
+title: Bobruisk courier detained with over 600 g of hashish and marijuana
+summary: >-
+  Police in Bobruisk detained a 32-year-old courier for an online drug shop and seized more than 600 g of hashish and marijuana, plus 2,000 LSD stamps, from him, his home and caches in four cities, the Interior Ministry said. Investigators opened a drug-trafficking case and he faces up to 15 years in prison.
+figures:
+  arrested: 1
+  kg_seized: 0.6
+media:
+  - kind: video
+    url: https://t.me/pressmvd/25412
+    media_url: https://t.me/pressmvd/25412
+    publisher: МВД Беларуси
+    caption: 'Interior Ministry video published with the detention report, showing the operation and packaged drugs, 42 seconds. Video: МВД Беларуси'
+  - kind: photo
+    url: https://magilev.by/news/2026/11/01/v-bobrujske-zaderzhan-narkozakladchik-shirokogo-profilya
+    media_url: https://media.magilev.by/gYBAAAAAAAEuNyRPcsM/photo.webp
+    publisher: проМогилев
+    caption: 'A still from the Interior Ministry video showing packaged drugs. Photo: video by МВД Беларуси, via проМогилев'
+status: reported
+created_by_model: opencode-go/deepseek-v4.1-flash#max
+submission: 4379621103fe62acf9faba402270616d
+tags: [bobruisk, belarus, online-drug-shop, hashish, zakladchik]
+sources:
+  - title: Закладчик широкого профиля задержан в Бобруйске – ему грозит до 15 лет
+    url: https://blizko.by/notes/zakladchik-shirokogo-profilya-zaderzhan-v-bobruyske-emu-grozit-do-15-let_nm2
+    publisher: Blizko.by
+    date: 2026-11-01
+    language: ru
+  - title: Задержан закладчик широкого профиля
+    url: https://t.me/pressmvd/25412
+    publisher: МВД Беларуси
+    date: 2026-11-01
+    language: ru
+  - title: Оперативники задержали наркозакладчика из Бобруйска — ему грозит до 15 лет тюрьмы
+    url: https://www.sb.by/articles/operativniki-zaderzhali-narkozakladchika-iz-bobruyska-emu-grozit-do-15-let-tyurmy.html
+    publisher: СБ. Беларусь сегодня
+    date: 2026-11-01
+    language: ru
+  - title: В Бобруйске задержан наркозакладчик широкого профиля
+    url: https://magilev.by/news/2026/11/01/v-bobrujske-zaderzhan-narkozakladchik-shirokogo-profilya
+    publisher: проМогилев
+    date: 2026-11-01
+    language: ru
+open_questions:
+  - The reports give no separate date for the detention; 1 November 2026 is the date of the Interior Ministry statement and the first news reports.
+  - The ministry gave only a combined figure of more than 600 g for the hashish and marijuana, without separate weights.
+  - The 32-year-old was not named, and no court decision on his custody or trial date was reported.
+  - All the accounts rest on the Interior Ministry's statement; no independent reporting was found.
+  - The 2,000 LSD stamps are not cannabis and are not included in the figures.
+  - Blizko.by's lead photograph is credited to Yandex and could not be confirmed as a picture of this event, and SB.by labelled its picture an archive illustration, so neither is listed as media.
+  - Задержан закладчик широкого профиля (МВД Беларуси) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+---
+
+Officers from the drug-control department of the Bobruisk city executive
+committee's interior directorate, working with operatives from the Mogilev
+Region interior directorate and OMON riot police, detained a 32-year-old
+Bobruisk resident, the Belarusian Interior Ministry said. [@2] The ministry said
+the man had worked as a wholesale and retail courier for an online drug shop and
+had packaged its goods with specialised equipment for further distribution. [@1]
+It called him a “broad-profile” zakladchik, a courier who leaves drugs in caches
+for buyers. [@2] Investigators opened a criminal case over illegal drug
+trafficking with intent to sell, and the man faces up to 15 years in prison.
+[@1]
+
+Police found and seized 2,000 LSD stamps and more than 600 g of hashish and
+marijuana, the ministry said. [@3] The drugs were found on him, at his home and
+in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4] The ministry said his drug
+business had lasted about a month. [@1]
+
