@@ -42,22 +42,28 @@ sources:
     publisher: प्रदेश प्रकाश
     date: 2026-11-01
     language: hi
+  - title: 'कपास के बीच में लगा रखी थी गांजे की फसल: बदनावर के तिलगरीपाड़ा बोरदा में 250.30 किलो गांजा जब्त, कीमत करीब 25 लाख रुपए'
+    url: https://www.bhaskar.com/local/mp/dhar/badnawar/video/badnawar-dhar-police-ganja-seizure-kheti-operation-prahar-139556746.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No arrest was reported, and the reports do not say whether Bijal was detained; no court appearance or charge sheet was reported.
   - Neither report gives the area of the field or says whether the 220 seized plants were destroyed or kept as evidence.
   - The two accounts repeat the same police information, and Pradesh Prakash's report closely matches the Dainik Bhaskar account; no independent reporting was found.
   - Coordinates are the centre of Badnawar town; Tilgaripada Borda itself could not be geocoded.
   - Further photographs in the two articles carried no captions or alt text and could not be identified, so they are not linked.
+  - The opened video page yielded only the headline and player text, so the 220-plant count and 31 October raid date continue to rest on the report's existing sources.
 ---
 
 Police in Badnawar, in Madhya Pradesh's Dhar district, found 220 cannabis
-plants. [@1] The plants were at Tilgaripada Borda. [@2] They were growing in the
+plants. [@1] The plants were at Tilgaripada Borda. [@2,3] They were growing in the
 cotton field of Bijal, son of Varda, among cotton and pigeon pea, known locally
 as tuvar. [@2] Police registered a case against Bijal under the Narcotic Drugs
 and Psychotropic Substances Act. [@2]
 
-Officers seized the plants, which weighed 250.30 kg in all, police said. [@1]
-Police put the value of the seized cannabis at about 25 lakh rupees. [@1]
+Officers seized the plants, which weighed 250.30 kg in all, police said. [@1,3]
+Police put the value of the seized cannabis at about 25 lakh rupees. [@1,3]
 
 The search took place on Saturday, 31 October, at the field in Tilgaripada
 Borda. [@2] It was part of Operation Prahar, the district police campaign
@@ -71,4 +77,3 @@ the field and who else was involved. [@2] The operation was supervised by
 Superintendent of Police Sachin Sharma, with Additional Superintendents Vijay
 Dawar and Parul Belapurkar and Sub-Divisional Police Officer Arvind Singh Tomar
 directing it. [@2]
-
