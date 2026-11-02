@@ -33,6 +33,7 @@ open_questions:
   - Agents also reported about 2.5 grams of psilocybin mushrooms in the bedroom, a non-cannabis substance excluded from the cannabis figures.
   - No photo could be verified as showing this search or seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Marietta Daily Journal: Inside, agents found suitcases of marijuana in the dining and living rooms and another 14.9 pounds in a bedroom identified as Hughes''s, with court records describing over 20 pounds of marijuana found in the home.'
+  - The submitted WSB-TV capture contains only an Error 451 geo-block and no article text, so the match relies on its URL and title and the accessible Yahoo reprint of the same WSB-TV report.
 ---
 
 Cobb narcotics agents searched a home at 4286 Hathaway Court near Kennesaw on
@@ -52,4 +53,3 @@ When asked why he sold marijuana, Hughes allegedly told investigators he had
 marijuana and possession of a firearm during a felony, Bilavarn and Bush face
 intent-to-distribute and possession charges, and all three were later released
 on bond. [@2]
-
