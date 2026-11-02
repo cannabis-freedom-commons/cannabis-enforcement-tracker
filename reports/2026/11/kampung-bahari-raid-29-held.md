@@ -129,6 +129,11 @@ sources:
     publisher: Shangbao Indonesia
     date: 2026-11-01
     language: zh
+  - title: Raid sur Kampung Bahari, la police arrête 26 personnes et confisque des armes à feu
+    url: https://voi.id/fr/berita/600880
+    publisher: VOI
+    date: 2026-11-01
+    language: fr
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -154,6 +159,9 @@ open_questions:
   - No separate weight or amount for the cannabis is given; it is listed only among mixed drug evidence with methamphetamine and ecstasy.
   - No names, formal charges or court outcome for those detained are reported.
   - The page carries one news photo captioned as the joint operation in Kampung Bahari, but without credit or detail to confirm it shows this raid or to rule out duplication, so no media entry is added.
+  - This French version reports 26 people held, an interim count, while the existing report uses the later police update of 29.
+  - This French version gives the raid time as 17h30, while the Indonesian-language account used in the report gives 05:30.
+  - The French translation names cocaine and ecstasy alongside cannabis, while the report follows Indonesian-language accounts in recording methamphetamine, cannabis and ecstasy pills.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
@@ -162,9 +170,9 @@ Prakoso said the operation involved the city police, the national police
 criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
 the mobile brigade (Brimob). [@2,8,10,12,15,16,17] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
-held. [@2,12,13] Bismo later put the final number at 29. [@4] About 1,816 officers
-began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
-Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13]
+held. [@2,12,13,18] Bismo later put the final number at 29. [@4] About 1,816 officers
+began sweeping the area at 5.30am. [@3,18] They rode a commuter train from Tanjung
+Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13,18]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
 ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12,14,15,17] They also found
