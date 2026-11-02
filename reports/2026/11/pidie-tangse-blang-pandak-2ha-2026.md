@@ -24,6 +24,11 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/11/02/bakar-ganja-pidie_1.jpeg
     publisher: ANTARA News Aceh
     caption: 'Police burning cannabis plants during the destruction operation in Pidie, Aceh, Sunday (1/11/2026). Photo: ANTARA/HO-Humas Polres Pidie'
+  - kind: photo
+    url: https://popularitas.com/berita/2-hektar-ladang-ganja-siap-panen-di-tangse-dimusnahkan/
+    media_url: https://popularitas.com/wp-content/uploads/2026/11/Ganja-di-Pidie-1536x1026.jpeg.webp
+    publisher: Popularitas.com
+    caption: 'Pidie police destroying the 2-hectare cannabis field in the Tangse hills. Photo: Polres Pidie via Popularitas.com'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 366753ce11451bd77dde811c9e6b0bc7
@@ -39,6 +44,11 @@ sources:
     publisher: ANTARA News Aceh
     date: 2026-11-02
     language: id
+  - title: 2 Hektar Ladang Ganja Siap Panen di Tangse Dimusnahkan
+    url: https://popularitas.com/berita/2-hektar-ladang-ganja-siap-panen-di-tangse-dimusnahkan/
+    publisher: Popularitas.com
+    date: 2026-11-02
+    language: id
 open_questions:
   - The article names no suspects, arrests, charges or court outcome.
   - Only one source for this event could be opened, so no second report confirms or adds facts.
@@ -49,16 +59,16 @@ open_questions:
 
 Pidie police found and destroyed a cannabis field of about two hectares in hills
 and forest at Blang Pandak village, Tangse district, Pidie, Aceh, on Sunday 1
-November 2026. [@1,2] Police presented the discovery as part of efforts to break
-the narcotics distribution chain in Pidie regency. [@1] Police said the remote
+November 2026. [@1,2,3] Police presented the discovery as part of efforts to break
+the narcotics distribution chain in Pidie regency. [@1,3] Police said the remote
 hill and forest location with challenging access complicated the operation. [@1]
 
 At the site, police found about 350 cannabis plants with an estimated weight of
-150 kilograms. [@1,2] The plants were one to two metres tall, according to deputy
+150 kilograms. [@1,2,3] The plants were one to two metres tall, according to deputy
 Pidie police chief Kompol Firdaus Jufrida speaking for police chief AKBP Jaka
 Mulyana. [@1] All of the cannabis plants were uprooted and destroyed at the
 location. [@1] Seized evidence was taken to Pidie police headquarters for
-further legal proceedings. [@1,2]
+further legal proceedings. [@1,2,3]
 
 Firdaus described the seizure as evidence of Pidie police seriousness in
 eradicating narcotics and protecting the community, especially young people,
