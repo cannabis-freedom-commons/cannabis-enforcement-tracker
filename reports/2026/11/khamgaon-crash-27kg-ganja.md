@@ -51,6 +51,11 @@ sources:
     publisher: Buldanalive
     date: 2026-11-02
     language: mr
+  - title: अपघातग्रस्त कारमध्ये सापडला २६ किलो गांजा, पोलीस चक्रावले; दुर्घटनेत कारमधील दोघांचा मृत्यू!
+    url: https://www.loksatta.com/nagpur/buldhana-car-accident-ganja-seized-khamgaon-national-highway-rak-94-6226754/
+    publisher: Loksatta
+    date: 2026-11-02
+    language: mr
 open_questions:
   - The reports do not say whether the truck driver was injured or whether anyone else was in the truck.
   - No arrest of a surviving suspect and no court date were reported; the NDPS case was registered against the two men who died.
@@ -61,21 +66,28 @@ open_questions:
   - This account reports seized property worth over about Rs 18 lakh including the Rs 5 lakh car, while the existing report values the ganja at about Rs 14 lakh.
   - This account spells the second dead man's name as Sayyad Firoz Sayyad Mahbub (सय्यद फिरोज सय्यद महबूब) while the existing report uses Sayyed Firoz Sayyed Mehmud.
   - The page's only listed image has the generic caption क्राईम with no descriptive caption establishing that it shows this crash or seizure, so no media entry is made.
+  - This account weighs the substance as 26 kg 670 g in 21 packets while the existing report uses 27 kg, apparently the same quantity rounded.
+  - This account says the crash happened late at night on the day before its 2 November 2026 publication while the existing report dates it to the morning of 1 November 2026.
+  - This account reports seized property worth over about Rs 18 lakh including the Rs 5 lakh car while the existing report values the ganja at about Rs 14 lakh.
+  - This account spells the second dead man's name as Sayyad Firoz Sayyad Mahbub while the existing report uses Sayyed Firoz Sayyed Mehmud.
+  - The page's only image is captioned as a representative file photo (प्रातिनिधिक छायाचित्र), so no media entry is made because it is not established to show this crash or seizure.
 ---
 
 The car and a truck collided head-on on the Mumbai–Nagpur stretch of National
 Highway 56 near Khamgaon, in Maharashtra's Buldhana district, on the morning of
-1 November 2026. [@1,3] Both men in the car died at the scene. [@1,3,4] They were
+1 November 2026. [@1,3,5] Both men in the car died at the scene. [@1,3,4,5] They were
 Satish Sakharam Jadhav, a resident of Parbhani, and Sayyed Firoz Sayyed Mehmud.
-[@1,4]
+[@1,4,5]
 
 Police reached the scene after the crash and examined the wrecked car. [@2,4]
-Inside they found 27 kg of ganja, or cannabis, and seized the drug. [@1,3]
+Inside they found 27 kg of ganja, or cannabis, and seized the drug. [@1,3,5]
 Officers put its value at about ₹14 lakh, or 1.4 million rupees. [@2] The crash
 disrupted traffic on the highway, and the discovery caused a stir in the area.
 [@2]
 
 Police registered a case under the Narcotic Drugs and Psychotropic Substances
-Act against both dead men. [@1,3] They are investigating where the ganja was being
+Act against both dead men. [@1,3,5] They are investigating where the ganja was being
 taken and on whose instructions. [@1] Police also took the wrecked car into
 custody. [@2] They are investigating the exact cause of the crash. [@2]
+
+The container heading towards Nagpur bore registration GJ 06 BY 1804 and the oncoming car bore registration MH 30 F 8385. [@5]
