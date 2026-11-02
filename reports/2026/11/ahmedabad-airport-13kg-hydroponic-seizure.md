@@ -78,6 +78,11 @@ sources:
     url: https://telanganatoday.com/ahmedabad-customs-seize-13-kg-of-hydroponic-marijuana-worth-rs-13-crore
     publisher: Telangana Today
     date: 2026-11-02
+  - title: Ahmedabad Airport पर 13 करोड़ का Hydroponic Ganja जब्त, बैंकॉक से आए दो तस्कर पकड़े गए
+    url: https://www.prabhasakshi.com/national/ahmedabad-airport-customs-seize-hydroponic-ganja-worth-rs-13-crore-two-arrested
+    publisher: Prabhasakshi
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -103,8 +108,8 @@ open_questions:
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
@@ -114,8 +119,8 @@ term for cannabis. [@1,2,5,9,10,11] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
-The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10]
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13]
