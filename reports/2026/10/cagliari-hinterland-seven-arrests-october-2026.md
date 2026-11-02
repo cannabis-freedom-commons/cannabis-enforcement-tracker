@@ -25,6 +25,11 @@ sources:
     publisher: L'Unione Sarda
     date: 2026-11-02
     language: zh
+  - title: 'Килограммы наркотиков, нелегальная иммиграция и ночная жизнь: аресты и обыски в Кальяри и его окрестностях.'
+    url: https://www.unionesarda.it/ru/%D1%81%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B8%D1%8F/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%BE%D0%B2-%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BC%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BD%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B0%D1%80%D0%B5%D1%81%D1%82%D1%8B-%D0%B8-%D0%BE%D0%B1%D1%8B%D1%81%D0%BA%D0%B8-%D0%B2-%D0%BA%D0%B0%D0%BB%D1%8C%D1%8F%D1%80%D0%B8-%D0%B8-%D0%B5%D0%B3%D0%BE-%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8F%D1%85-vupvxtji
+    publisher: L'Unione Sarda Russian
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -38,13 +43,13 @@ open_questions:
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1] On 9 October investigators arrested a 19-year-old from Elmas
-carrying about 70 grams of cannabis. [@1] On 15 October officers stopped a
+Quartucciu. [@1,2] On 9 October investigators arrested a 19-year-old from Elmas
+carrying about 70 grams of cannabis. [@1,2] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
-6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1] On 16
+6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
 for retail and supply to other dealers. [@1]
 
@@ -60,5 +65,4 @@ youth crime, focused by police on drug trafficking, identifying foreigners who
 returned after expulsion, and controls in areas frequented by young people. [@1]
 In the immigration strand, checks identified seven Algerians with prior refusal
 or expulsion orders, and four were arrested after being found to have re-entered
-Italy. [@1]
-
+Italy. [@1,2]
