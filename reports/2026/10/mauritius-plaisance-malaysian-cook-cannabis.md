@@ -34,6 +34,11 @@ sources:
     publisher: Kompas.com
     date: 2026-11-02
     language: id
+  - title: 'Foto : Bawa 17,88 Kg Ganja di Koper, Chef Asal Malaysia Ditangkap di Bandara Mauritius Halaman 1'
+    url: https://www.kompas.com/tren/image/2026/11/02/090000465/bawa-17-88-kg-ganja-di-koper-chef-asal-malaysia-ditangkap-di-bandara?page=1
+    publisher: Kompas.com
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -47,6 +52,9 @@ open_questions:
   - Kompas values the haul at about 26.88 million Mauritian rupees while the existing report keeps Le Défi Media Group's Rs 25.5 million figure; the difference is left open.
   - Kompas does not name the suspect or flight EK709 and does not name ADSU/CANS, which the existing report records from Le Défi Media Group.
   - The 15 September case of a 70-year-old Malaysian held with 6.18 kg at the same airport is a different event left out here.
+  - The opened image page contains only the caption and no article body, so suspect name, flight EK709, agency units and controlled delivery are not corroborated by this page.
+  - This page values the haul at Rp 10.2 miliar while the existing report keeps Rs 25.5 million from Le Défi Media Group; the difference is left open.
+  - The page image is captioned as an illustration credited to Shutterstock/ImYanis, not a photo of this seizure, so no media entry is added.
 ---
 
 Officers of the Anti Drug and Smuggling Unit and the Customs Anti Narcotics
@@ -54,7 +62,7 @@ Section were watching passengers off flight EK709 from Dubai, which landed
 around 3 p.m. on Friday 23 October, when customs checks on suspicious luggage
 flagged the suitcase of Sia Guan Kueh, a Malaysian national working as a cook.
 [@1] A scanner check and full search found cannabis packed in 17 compressed
-bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1]
+bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1,4]
 
 Kueh was arrested and questioned by ADSU investigators, who ran a controlled
 delivery with dummy parcels to identify the consignment's recipient; the
