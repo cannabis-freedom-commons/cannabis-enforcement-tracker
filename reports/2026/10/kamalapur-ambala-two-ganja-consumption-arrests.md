@@ -26,6 +26,11 @@ sources:
     publisher: Suryaa News
     date: 2026-10-31
     language: te
+  - title: గంజాయి సేవిస్తున్న ఇద్దరు వ్యక్తుల అరెస్ట్
+    url: https://www.suryaa.com/amp/telangana/gmjaayi-sevistunna-iddaru-vyaktula-arest
+    publisher: Suryaa News
+    date: 2026-10-31
+    language: te
 open_questions:
   - No quantity of ganja seized or recovered was published.
   - The article gives no separate date for the checks and arrests; 31 October 2026 is its publication and update date.
@@ -36,10 +41,10 @@ open_questions:
 
 Acting on information that ganja was being consumed near a stream on the
 outskirts of Ambala village in Kamalapur mandal, Kamalapur police carried out
-special checks there. [@1] Officers found two men allegedly consuming ganja,
+special checks there. [@1,2] Officers found two men allegedly consuming ganja,
 identified as Kukatla Ajay of Ambala village and Paka Raju of Guduru village.
-[@1] Police took both men into custody, arrested them and shifted them to the
-station. [@1] Police registered a case over the incident. [@1]
+[@1,2] Police took both men into custody, arrested them and shifted them to the
+station. [@1] Police registered a case over the incident. [@1,2]
 
 Circle Inspector Naveen said investigators are examining where the accused
 brought the ganja from and whether anyone else is behind its supply. [@1]
@@ -53,4 +58,3 @@ names of informants trying to protect youth will be kept confidential. [@1] He
 said youths under the influence of ganja are left in a state where they do not
 understand what they are doing, and described youths as the foundation of the
 country's future. [@1]
-
