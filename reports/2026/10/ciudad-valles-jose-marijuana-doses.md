@@ -30,6 +30,11 @@ sources:
     publisher: Pulso Diario San Luis
     date: 2026-10-31
     language: es
+  - title: Ahora capturan a seis presuntos delincuentes
+    url: https://pulsoslp.com.mx/amp/seguridad/ahora-capturan-a-seis-presuntos-delincuentes-/2102160
+    publisher: Pulso Diario San Luis
+    date: 2026-10-31
+    language: es
 open_questions:
   - The bulletin gives no date for the detention; 30 October 2026 is Plano Informativo’s publication date.
   - No count, weight or value was given for the marijuana doses.
@@ -39,10 +44,12 @@ open_questions:
   - A photo on the Plano Informativo page is stored under a 28 September path and has no caption tying it to this detention, so it was not included.
   - This account gives specific counts of around 30 bags of marijuana and 22 doses of crystal for the Ciudad Valles detention, while the existing report records only unspecified doses.
   - This account was published on 31 October 2026, one day after the existing report's 30 October 2026 source publication date; no separate event date is given.
+  - This capture gives around 30 bags of marijuana and 22 doses of crystal for the Ciudad Valles detention, while the existing report text records only unspecified doses.
+  - The page lists one photo with no caption tying it to this detention, so no event media is listed.
 ---
 
 Officers of the Guardia Civil Estatal, San Luis Potosí's state civil guard,
-detained a man identified only as José “N”, aged 31, in Ciudad Valles. [@1,3] They
+detained a man identified only as José “N”, aged 31, in Ciudad Valles. [@1,3,4] They
 identified him as a suspected priority target and a probable member of a
 criminal group, and said he was linked to narcomenudeo, the small-scale sale of
 drugs. [@1,3] The detention was reported under the deployment called Huasteca
@@ -52,7 +59,7 @@ surveillance in the Altiplano. [@1]
 
 From José “N” the officers seized doses of marijuana, doses of a substance with
 characteristics similar to crystal, and metal artefacts known as ponchallantas.
-[@1,3] The guard described the detentions and seizures from that deployment as
+[@1,3,4] The guard described the detentions and seizures from that deployment as
 relevant. [@1] The state Secretariat of Security and Citizen Protection said it
 was maintaining prevention, surveillance and intelligence operations to fight
 criminal activity and contribute to the calm of families in San Luis Potosí.
