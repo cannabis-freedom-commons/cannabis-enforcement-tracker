@@ -53,6 +53,11 @@ sources:
     publisher: internews أنتر نيوز
     date: 2026-11-02
     language: ar
+  - title: 'بومرداس: الإطاحة بشبكة إجرامية وضبط 25 كلغ من القنب الهندي - يومية الاتحاد الجزائرية'
+    url: https://www.elitihadcom.dz/%D8%A8%D9%88%D9%85%D8%B1%D8%AF%D8%A7%D8%B3-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D9%88%D8%B6%D8%A8%D8%B7-25-%D9%83/
+    publisher: يومية الاتحاد الجزائرية
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The article says the operation took place during the previous week but gives no exact date; 2 November 2026 is the publication date used as the incident date.
   - No second source confirming the arrests or seizure was found.
@@ -65,19 +70,20 @@ open_questions:
   - Whether the lead photo on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
   - Whether the lead image with the generic file caption 28506-021126.png shows this seizure could not be established, so no media entry is added.
   - The page carries a lead image whose alt text repeats only the headline, so whether it shows this seizure could not be established and no media entry is added.
+  - Whether the lead image on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
 ---
 
 During the previous week, officers of the Mobile Judicial Police Brigade of the
 Khemis El Khechna district security service, which operates under Boumerdès
 provincial security, arrested two people and seized 25 kg of treated kif. [@1,2,3,4,5,6]
 Following the seizure and investigation, officers presented both suspects before
-the public prosecutor at the court in Khemis El Khechna. [@1,2,3,4,5,6]
+the public prosecutor at the court in Khemis El Khechna. [@1,2,3,4,5,6,7]
 
 Officers found the drugs during a search of one suspect's home, seizing 225
 plates of cannabis, identified as Indian hemp, with a combined weight of 25 kg.
-[@1,2,3,4,5,6] The 225 plates were concealed tightly inside plastic bags in a bedroom and
+[@1,2,3,4,5,6,7] The 225 plates were concealed tightly inside plastic bags in a bedroom and
 had been prepared for distribution. [@1,2,3] Officers also seized a vehicle that had
-allegedly been used to transport and distribute the drugs. [@1,2,3]
+allegedly been used to transport and distribute the drugs. [@1,2,3,7]
 
 The case began after the brigade received information that people were storing a
 quantity of drugs inside a dwelling in order to distribute it across Boumerdès
