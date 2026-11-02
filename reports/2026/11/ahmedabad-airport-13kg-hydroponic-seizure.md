@@ -70,6 +70,10 @@ sources:
     publisher: India TV Hindi
     date: 2026-11-01
     language: hi
+  - title: Surat couple arrested at Ahmedabad airport with 13kg of marijuana
+    url: https://timesofindia.indiatimes.com/city/ahmedabad/surat-couple-arrested-at-ahmedabad-airport-with-13kg-of-marijuana/articleshow/135435624.cms
+    publisher: The Times of India
+    date: 2026-11-02
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -87,6 +91,7 @@ open_questions:
   - The Hindi spellings मोहम्मद अकील शेख and कनीज जहेरा मोमिन are transliteration variants of the Mohammed Akeel Sheikh and Kaniz Zahera Momin names in the existing report.
   - The page's only image is captioned as a symbolic picture with PTI credit and does not show this seizure, so no media entry is listed.
   - The page URL slug refers to two men while the article body reports one woman and one man from Surat; the body account is used for the match.
+  - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
@@ -99,11 +104,11 @@ The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
 detailed manual examination. [@1,2,9] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10,11] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
