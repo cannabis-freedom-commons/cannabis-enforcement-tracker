@@ -68,6 +68,11 @@ sources:
     publisher: منبر عدن
     date: 2026-10-31
     language: ar
+  - title: إشادة مجتمعية واسعة في عدن بجهود المقدم مياس الجعدني عقب ضبط شخصين بحوزتهما 10.5 كيلوغرامات من الحشيش
+    url: https://www.khlaasa.net/1520700
+    publisher: الخلاصة نت
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The exact day of the detention is not stated; 26 October 2026 is the date the police account was published, and Aden Al-Ghad reported the praise on 31 October.
   - The two detained people are not named, and their ages and nationalities are not given.
@@ -85,10 +90,12 @@ open_questions:
   - Manbar Aden's page is a verbatim copy of Aden Al-Ghad's 31 October 2026 story already cited in the report and duplicates the AMP version also cited there, so it adds no independent corroboration.
   - The report dates its Manbar Aden (AMP) source 1 November 2026 from page metadata, while this page gives Saturday 31 October 2026, 4:39 pm.
   - Manbar Aden marks the story 'خاص' (its own) although the text matches Aden Al-Ghad's report.
+  - The Khlaasa page names only Aden and does not mention Khormaksar district or the nine bags, so those details continue to rely on the earlier-cited police accounts.
+  - The page's image caption repeats the headline and does not describe what the photo shows, so no media entry is added.
 ---
 
 Aden's anti-narcotics police detained two people in Khormaksar district with
-nine bags of hashish weighing 10.5 kg in total. [@2,5,7] It said the nine bags had
+nine bags of hashish weighing 10.5 kg in total. [@2,5,7,10] It said the nine bags had
 been prepared for distribution. [@3]
 
 Colonel Mayas Haidara al-Jaadani, director of the anti-narcotics department at
@@ -99,7 +106,7 @@ a 25-year prison sentence. [@2] He said the size of the seizure pointed to
 organised smuggling, promotion and distribution in Aden. [@2]
 
 Aden Al-Ghad reported wide public praise for the department and its director
-after the seizure. [@1,4,6] It reported that citizens and activists thanked the
+after the seizure. [@1,4,6,10] It reported that citizens and activists thanked the
 force for pursuing people involved in drug trafficking and for countering
 attempts to promote and circulate drugs. [@1,4,6,8,9] They said drug control was a
 shared responsibility and called for continued security campaigns and closer
