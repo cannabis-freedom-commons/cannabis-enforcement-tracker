@@ -6,7 +6,7 @@
 //   focus: a report to centre on and ring (the report page): a shaded circle around it as large as
 //   its location is uncertain, every Landrace layer on but faded to 30%, as are the other reports;
 //   no layer switch, no globe and no hover boxes
-//   (the home page takes ?focus=<id> too: it jumps to that report and rings it)
+//   (the home page takes ?focus=<id> too: it flies to that report and rings it)
 //   country: show its reports (states included), with the whole country framed before first paint
 //   hash: keep the view in the address (#map=zoom/lat/lon), so a view can be shared (the Map page)
 //   otherwise all reports and the whole world; the home page's filters narrow it through the
@@ -427,7 +427,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         shown = rows.filter((r) => e.detail.has(r.i));
         (map.getSource("reports") as maplibregl.GeoJSONSource | undefined)?.setData(geojson(shown));
       }) as EventListener);
-      // the zoom icon in the list: jump to the report, ring it and show its hover box
+      // the zoom icon in the list: fly to the report, ring it and show its hover box
       document.addEventListener("reports:zoom", ((e: CustomEvent<string>) => {
         const r = rows.find((x) => x.i === e.detail);
         if (!r?.ll) return;
@@ -435,16 +435,20 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         if (map.getLayer("hover")) map.setFilter("hover", ["==", ["get", "id"], hovered]);
         // close in as far as the place is known: a spot, a town, a district, a region or only the country
         const zoom = ({ exact: 11, locality: 9, district: 8, region: 6, country: 4 } as Record<string, number>)[r.pr ?? "country"] ?? 6;
-        map.jumpTo({ center: r.ll, zoom });
-        popup.setLngLat(r.ll!).setHTML(`<span class="type" style="--c:${esc(types[r.t].color)}">${esc(types[r.t].label)}</span><strong>${esc(r.ti)}</strong><span class="muted">${esc([r.p, index.countries[r.c]].filter(Boolean).join(" · "))}<br>${esc(fmtDate(r.d))}</span>`).addTo(map);
-        current = `reports:${r.i}`;
-        if (matchMedia("(max-width: 860px)").matches) box.scrollIntoView({ behavior: "instant", block: "start" });
+        map.stop();
+        popup.remove();
+        map.once("moveend", () => {
+          popup.setLngLat(r.ll!).setHTML(`<span class="type" style="--c:${esc(types[r.t].color)}">${esc(types[r.t].label)}</span><strong>${esc(r.ti)}</strong><span class="muted">${esc([r.p, index.countries[r.c]].filter(Boolean).join(" · "))}<br>${esc(fmtDate(r.d))}</span>`).addTo(map);
+          current = `reports:${r.i}`;
+        });
+        map.flyTo({ center: r.ll, zoom, duration: 1200 });
+        if (matchMedia("(max-width: 860px)").matches) box.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth", block: "start" });
       }) as EventListener);
       document.addEventListener("reports:hover", ((e: CustomEvent<string | null>) => {
         hovered = e.detail ?? "";
         if (map.getLayer("hover")) map.setFilter("hover", ["==", ["get", "id"], hovered]);
       }) as EventListener);
-      // the home page opened from a report's "big map" link: jump there, ring it, show its hover box
+      // the home page opened from a report's "big map" link: fly there, ring it, show its hover box
       if (focus && !single) document.dispatchEvent(new CustomEvent("reports:zoom", { detail: focus }));
       // the site's theme switch: the other basemap, then everything drawn on it again
       document.addEventListener("theme:change", () => {
