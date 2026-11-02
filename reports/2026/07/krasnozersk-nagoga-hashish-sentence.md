@@ -28,6 +28,11 @@ sources:
     publisher: МК в Новосибирске
     date: 2026-11-02
     language: ru
+  - title: Житель Новосибирской области за изготовление и хранение наркотиков отделался «условкой»
+    url: https://newsib.net/novosti/zhitel-novosibirskoj-oblasti-za-izgotovlenie-i-hranenie-narkotikov-otdelalsya-uslovkoj.html
+    publisher: Новая Сибирь online
+    date: 2026-11-02
+    language: ru
 open_questions:
   - No weight or volume was published for the hashish oil and hashish mixture or for the seized marijuana.
   - The sources give 20 July 2026 for the offences and police detention but no separate date for the verdict; 2 November 2026 is the outlets' publication date.
@@ -42,20 +47,19 @@ found Nagoga guilty on both counts. [@1] For the part-2 count it imposed 3
 years' imprisonment and for the part-1 count 280 hours of compulsory labour.
 [@1] By partially combining the punishments the court imposed a final term of 3
 years and 1 month's imprisonment, suspended, with a probation period of 1 year
-and 6 months and additional obligations. [@1] The verdict had not yet entered
+and 6 months and additional obligations. [@1,3] The verdict had not yet entered
 into legal force. [@1]
 
 The court found that on the morning of 20 July 2026 Nagoga decided to make and
 keep for personal use a mixture of hashish oil and hashish. [@1] He went to a
 plot, collected the upper parts of cannabis plants and carried them home, making
-hashish oil at about 10 a.m. [@1] He consumed part of the product and left the
+hashish oil at about 10 a.m. [@1,3] He consumed part of the product and left the
 remainder on his kitchen table, where police found and seized it the same day.
 [@1]
 
 Later on 20 July Nagoga decided to acquire and keep marijuana for personal use.
 [@1] At about 5 p.m. he returned to the cannabis thickets, collected plant tops
 into a bag and was stopped by police officers on his way back, who seized the
-marijuana. [@1] The second account confirms that police stopped him on the way
+marijuana. [@1,3] The second account confirms that police stopped him on the way
 home and found and seized the marijuana, and that the court convicted him of
 illegal manufacture, acquisition and storage without intent to sell. [@2]
-
