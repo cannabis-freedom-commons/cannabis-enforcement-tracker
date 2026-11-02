@@ -118,6 +118,11 @@ sources:
     publisher: News18 हिंदी
     date: 2026-11-01
     language: hi
+  - title: कानपुर के कंजडनपुरवा में 135 पुलिसकर्मियों का छापा, ड्रोन से निगरानी कर पकड़े गए गांजा तस्कर
+    url: https://hindi.news18.com/news/uttar-pradesh/kanpur-kanjadanpurwa-police-search-operation-drone-surveillance-11-kg-ganja-seized-local18-10955252.html
+    publisher: News18 हिंदी
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -137,6 +142,7 @@ open_questions:
   - The page's only image is a small uncaptioned, uncredited thumbnail carrying the combined Bareilly–Kanpur headline, so it could not be confirmed to show the Kanpur raid and was not linked as media.
   - Deshbandhu's text is an IANS roundup, the same agency copy already cited through Dainik Bhaskar Hindi, so it adds no independent reporting.
   - News18 Hindi says the operation began at about 6 am, while the report and Amar Ujala give about 5 am; the report keeps 5 am.
+  - This page says the operation started at about 6 am, while the existing report keeps about 5 am from its other accounts.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
@@ -146,13 +152,13 @@ caught as they tried to flee, and about 11 kg of ganja was recovered from them.
 [@1,4,6,7,11,12,13]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13]
+five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12,13]
+stations. [@2,4,6,7,9,10,12,13,14]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14] Other teams kept
 searching during the operation, and police said they were trying to identify
 others involved in the trade. [@3,6,13]
 
