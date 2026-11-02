@@ -14,6 +14,10 @@ import (
 )
 
 type Config struct {
+	BingNewsEnabled                                                             bool
+	BingNewsQueries                                                             []harvest.BingNewsQuery
+	BingNewsInterval                                                            time.Duration
+	BingNewsMaxArticles, BingNewsQueriesPerScan                                 int
 	GoogleNewsEnabled                                                           bool
 	GoogleNewsQueries                                                           []harvest.GoogleNewsQuery
 	GoogleNewsQueriesPerScan                                                    int
@@ -79,6 +83,37 @@ func Load() (Config, error) {
 	}
 	if len(c.GoogleNewsQueries) > 50 {
 		return c, errors.New("at most 50 Google News queries")
+	}
+	c.BingNewsEnabled, discoveryErr = strconv.ParseBool(env("HARVEST_BING_NEWS_ENABLED", "true"))
+	if discoveryErr != nil {
+		return c, errors.New("invalid HARVEST_BING_NEWS_ENABLED")
+	}
+	c.BingNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_BING_NEWS_INTERVAL", "15m"))
+	if discoveryErr != nil || c.BingNewsInterval < time.Minute || c.BingNewsInterval > 24*time.Hour {
+		return c, errors.New("HARVEST_BING_NEWS_INTERVAL must be between 1m and 24h")
+	}
+	c.BingNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_MAX_ARTICLES", "10"))
+	if discoveryErr != nil || c.BingNewsMaxArticles < 1 || c.BingNewsMaxArticles > 100 {
+		return c, errors.New("HARVEST_BING_NEWS_MAX_ARTICLES must be 1 to 100")
+	}
+	c.BingNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_QUERIES_PER_SCAN", "4"))
+	if discoveryErr != nil || c.BingNewsQueriesPerScan < 1 || c.BingNewsQueriesPerScan > 50 {
+		return c, errors.New("HARVEST_BING_NEWS_QUERIES_PER_SCAN must be 1 to 50")
+	}
+	for _, raw := range strings.Split(os.Getenv("HARVEST_BING_NEWS_QUERIES"), "|") {
+		if raw = strings.TrimSpace(raw); raw != "" {
+			if len(raw) > 1000 {
+				return c, errors.New("Bing News query exceeds 1000 characters")
+			}
+			query, err := harvest.ParseBingNewsQuery(raw)
+			if err != nil {
+				return c, err
+			}
+			c.BingNewsQueries = append(c.BingNewsQueries, query)
+		}
+	}
+	if len(c.BingNewsQueries) > 50 {
+		return c, errors.New("at most 50 Bing News queries")
 	}
 	c.SourceBrowser = env("SOURCE_BROWSER", "true") == "true"
 	c.DevControls = env("DEV_CONTROLS", "false") == "true"

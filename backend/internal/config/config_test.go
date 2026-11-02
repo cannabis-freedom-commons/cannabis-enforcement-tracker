@@ -10,7 +10,7 @@ import (
 
 func defaults(t *testing.T) {
 	t.Helper()
-	for _, k := range []string{"NOSTR_GATEWAY_SECRET", "NOSTR_BOT_SECRET", "NOSTR_RELAYS", "RESEARCH_IMAGE", "RESEARCH_NETWORK", "RESEARCH_MODEL", "RESEARCH_API_KEY", "GITHUB_APP_ID", "GITHUB_INSTALLATION_ID", "GITHUB_APP_PRIVATE_KEY_FILE", "INGEST_TOKEN", "TRUSTED_PROXY_CIDRS", "HARVEST_RSS_URLS", "HARVEST_GDELT_QUERIES", "HARVEST_GOOGLE_NEWS_ENABLED", "HARVEST_GOOGLE_NEWS_INTERVAL", "HARVEST_GOOGLE_NEWS_QUERIES", "HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN"} {
+	for _, k := range []string{"NOSTR_GATEWAY_SECRET", "NOSTR_BOT_SECRET", "NOSTR_RELAYS", "RESEARCH_IMAGE", "RESEARCH_NETWORK", "RESEARCH_MODEL", "RESEARCH_API_KEY", "GITHUB_APP_ID", "GITHUB_INSTALLATION_ID", "GITHUB_APP_PRIVATE_KEY_FILE", "INGEST_TOKEN", "TRUSTED_PROXY_CIDRS", "HARVEST_RSS_URLS", "HARVEST_GDELT_QUERIES", "HARVEST_BING_NEWS_ENABLED", "HARVEST_BING_NEWS_INTERVAL", "HARVEST_BING_NEWS_QUERIES", "HARVEST_BING_NEWS_MAX_ARTICLES", "HARVEST_BING_NEWS_QUERIES_PER_SCAN", "HARVEST_GOOGLE_NEWS_ENABLED", "HARVEST_GOOGLE_NEWS_INTERVAL", "HARVEST_GOOGLE_NEWS_QUERIES", "HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN"} {
 		t.Setenv(k, "")
 	}
 	t.Setenv("DEMO_WORKER", "false")
@@ -111,5 +111,36 @@ func TestJobLogRetention(t *testing.T) {
 				t.Fatal("wrong default", c.JobLogRetention)
 			}
 		})
+	}
+}
+
+func TestBingNewsConfiguration(t *testing.T) {
+	defaults(t)
+	c, err := Load()
+	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 15*time.Minute || c.BingNewsMaxArticles != 10 || c.BingNewsQueriesPerScan != 4 {
+		t.Fatal(c, err)
+	}
+	t.Setenv("HARVEST_BING_NEWS_ENABLED", "false")
+	t.Setenv("HARVEST_BING_NEWS_QUERIES", " cannabis raid | [zh-CN] 大麻 查获 ")
+	c, err = Load()
+	if err != nil || c.BingNewsEnabled || len(c.BingNewsQueries) != 2 || c.BingNewsQueries[0] != (harvest.BingNewsQuery{Market: "en-US", Query: "cannabis raid"}) || c.BingNewsQueries[1] != (harvest.BingNewsQuery{Market: "zh-CN", Query: "大麻 查获"}) {
+		t.Fatal(c, err)
+	}
+	for key, values := range map[string][]string{
+		"HARVEST_BING_NEWS_ENABLED":          {"invalid"},
+		"HARVEST_BING_NEWS_INTERVAL":         {"0s", "25h", "bad"},
+		"HARVEST_BING_NEWS_MAX_ARTICLES":     {"0", "101", "bad"},
+		"HARVEST_BING_NEWS_QUERIES_PER_SCAN": {"0", "51", "bad"},
+		"HARVEST_BING_NEWS_QUERIES":          {"[zh-cn] 大麻", strings.Repeat("a", 1001), strings.Repeat("cannabis|", 51)},
+	} {
+		for _, value := range values {
+			t.Run(key+"/"+value[:min(20, len(value))], func(t *testing.T) {
+				defaults(t)
+				t.Setenv(key, value)
+				if _, err := Load(); err == nil {
+					t.Fatal("invalid value accepted")
+				}
+			})
+		}
 	}
 }

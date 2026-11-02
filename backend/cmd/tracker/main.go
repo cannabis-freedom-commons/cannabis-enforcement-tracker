@@ -177,7 +177,7 @@ func run() error {
 		slog.Info("Nostr enabled", "npub", w.Nostr.Npub())
 	}
 	collectorDone := make(chan struct{})
-	if len(c.RSSFeeds)+len(c.GDELTQueries) > 0 || c.GoogleNewsEnabled {
+	if len(c.RSSFeeds)+len(c.GDELTQueries) > 0 || c.GoogleNewsEnabled || c.BingNewsEnabled {
 		go func() {
 			defer close(collectorDone)
 			var collectors sync.WaitGroup
@@ -197,6 +197,17 @@ func run() error {
 				go func() {
 					defer collectors.Done()
 					(harvest.GoogleNews{Store: s, Queries: queries, Interval: c.GoogleNewsInterval, MaxArticles: c.GoogleNewsMaxArticles, QueriesPerScan: c.GoogleNewsQueriesPerScan}).Run(ctx)
+				}()
+			}
+			if c.BingNewsEnabled {
+				queries := c.BingNewsQueries
+				if len(queries) == 0 {
+					queries = harvest.DefaultBingNewsQueries
+				}
+				collectors.Add(1)
+				go func() {
+					defer collectors.Done()
+					(harvest.BingNews{Store: s, Queries: queries, Interval: c.BingNewsInterval, MaxArticles: c.BingNewsMaxArticles, QueriesPerScan: c.BingNewsQueriesPerScan}).Run(ctx)
 				}()
 			}
 			collectors.Wait()

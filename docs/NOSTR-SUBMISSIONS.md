@@ -454,6 +454,45 @@ scan totals (`found`, `queued`, `known`, `unresolved`), duration and next-scan d
 fetch/decoding failures and queue errors. `LOG_LEVEL=debug` additionally shows already-seen and
 already-covered candidates. No research-provider credentials or article bodies are logged.
 
+Bing News RSS discovery is also enabled by default and runs independently of Google and the
+other collectors, one second after startup and 15 minutes after each completed scan. No API key
+is needed; this uses the public RSS search, not Microsoft's retired Bing Search API. Configure:
+
+```dotenv
+HARVEST_BING_NEWS_ENABLED=true
+HARVEST_BING_NEWS_INTERVAL=15m
+HARVEST_BING_NEWS_MAX_ARTICLES=10
+HARVEST_BING_NEWS_QUERIES_PER_SCAN=4
+# Optional pipe-separated queries; blank uses the built-in set. Default market: en-US.
+HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-CN] 大麻 查获
+```
+
+The twelve built-in queries cover US, UK and Indian English, Simplified and Traditional Chinese,
+Russian and Arabic, plus English searches naming China, Iran and North Korea.
+Markets guide search results, not the event's location; coverage is best effort. Four queries
+rotate per scan, so every default query runs roughly every 45 minutes. Custom queries replace
+the defaults. Short keyword queries work better than compound Boolean expressions in live testing.
+Bounds match Google: 1–50 queries per scan, at most 50 configured queries of at most
+1000 characters, intervals from 1 minute to 24 hours, and 1–100 new URLs per scan.
+
+Bing tracking links are unwrapped from their publisher URL parameter before intake, without
+fetching the tracking redirect. Unrecognized Bing wrappers and unsafe destinations are skipped;
+raw aggregator pages are never queued. Normalized publisher URLs are checked against existing
+cases and captured sources across providers; durable queue admission also deduplicates concurrent
+submissions. Candidates are admitted round-robin across queries, with `rss` origin and `bing-news`,
+market, query and discovery URL in private research-job provenance. No candidate is posted to Nostr.
+
+Only results with a valid RSS publication date within the last seven days (and no more than a day
+in the future) qualify, since Bing may return much older matches. This date is a discovery hint,
+not evidence of the event date. AI research still verifies cannabis enforcement scope, including
+excluding synthetic-only stories. Bing's public RSS interface is undocumented: challenges, malformed
+feeds and individual market failures are logged and retried next scan without stopping other
+queries. Fetches use the pinned public-destination transport, a 2 MiB response limit, one-second
+pacing and a five-minute scan deadline. Info logs show search/queue activity and scan totals
+(`found`, `queued`, `known`, `unresolved`, `skipped`). Restart the backend to apply changes.
+For an opt-in live smoke test against a temporary database, with no AI or publication, run
+`cd backend && BING_NEWS_LIVE=1 go test ./internal/harvest -run TestBingNewsLive -v`.
+
 Optional RSS/Atom feeds and GDELT queries feed the same durable queue without posting every
 candidate to Nostr. Provider/article keys deduplicate discovery. GDELT advances bounded one-hour
 windows, pauses saturated 250-record partitions instead of silently skipping, and keeps cursors.
