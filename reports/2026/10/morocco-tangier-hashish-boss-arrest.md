@@ -51,12 +51,20 @@ sources:
     publisher: Heraldo de Aragón
     date: 2026-10-27
     language: es
+  - title: إسبانيا تنتظر تسليم «نمر الحشيش» الموقوف بطنجة
+    url: https://tanjanews.com/192484.html
+    publisher: مجلة طنجة نيوز
+    date: 2026-11-01
+    language: ar
 open_questions:
   - Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost 20'. The report uses 18.
   - El Diario de Málaga describes all 86 detainees as accused of the three offences, while Barlamane says the 18 jailed were charged with them; the figures count 18 as charged.
   - 'The sources differ in emphasis on who made the arrest: Barlamane attributes the announcement to Spain''s National Police and says ''the authorities'' located him, while La Vanguardia says Moroccan authorities detained him through international cooperation. No source says Spanish officers were present.'
   - No extradition date is fixed; La Vanguardia says he could appear before the Audiencia Nacional in about two months.
   - The Olive Press describes the arrest as happening 'this week' in a report published on 1 November, while the National Police announcement and Spanish coverage date it to 8 October in Tangier; the report keeps 8 October.
+  - The new account rounds the seizure to about 11 tonnes of hashish, while the existing report uses the police figure of 10.8 tonnes of cannabis resin plus 20 kg of marijuana buds.
+  - The new account gives only its publication date of 1 November 2026 and does not give a separate arrest date; the report keeps 8 October from the earlier police announcement.
+  - The page's lead image has no caption or alt text confirming it shows this event, so it is not listed as media.
 ---
 
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
@@ -64,10 +72,10 @@ Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 Tangier. [@1] He had left his luxury residence in Madrid in March to avoid
 justice and was out of sight for more than six months. [@1] Moroccan authorities
 detained him in Tangier on 8 October through international police cooperation.
-[@3] He is held in Morocco awaiting extradition to Spain. [@1,4,5] Rabat has
+[@3] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7] Rabat has
 accepted the extradition request. [@3]
 
-The police operation concluded with 86 arrests. [@2,4,5] Eighteen of them were
+The police operation concluded with 86 arrests. [@2,4,5,7] Eighteen of them were
 placed in pre-trial detention, accused of criminal organisation, drug
 trafficking and money laundering. [@1] UDYCO, Spain's central unit for drugs and
 organised crime, opened the case in early 2025. [@1] It uncovered seven drug
