@@ -71,6 +71,11 @@ sources:
     publisher: ANTARA News Aceh
     date: 2026-11-01
     language: id
+  - title: Polres Nagan Raya Bersama BNN Musnahkan 20 Hektare Ladang Ganja di Pegunungan Beutong Ateuh Banggalang Aceh
+    url: https://penanews.co.id/polres-nagan-raya-bersama-bnn-musnahkan-20-hektare-ladang-ganja-di-pegunungan-beutong-ateuh-banggalang-aceh/
+    publisher: Penanews.co.id
+    date: 2026-11-01
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -86,12 +91,16 @@ open_questions:
   - The PujaTV article spells the police chief's name as Muhammad Taufik, while the existing report uses Muhamad Taufiq.
   - The submitted page is dated 1 November 2026 and captions the operation Sunday (1/11/2026), while the existing report dates the operation to 31 October 2026 ending at 02:00 WIB on 1 November.
   - The submitted page spells the police chief Muhammad Taufik, while the existing report uses Muhamad Taufiq.
+  - Penanews says the team rode trail motorcycles for about two hours and then walked for about two hours, while the existing report says about four hours for each leg.
+  - Penanews places the fields in Beutong Ateuh Banggalang district, while the existing report says Beutong district.
+  - Penanews spells the police chief AKBP M. Taufiq, while the existing report uses AKBP Muhamad Taufiq.
+  - The page lead image carries only a file-name caption with no credit, so it is not listed as media.
 ---
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
-mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5] The fields lay
-in Beutong district, in the mountains of the regency. [@2,6,7,8] The operation was led
+mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5,9] The fields lay
+in Beutong district, in the mountains of the regency. [@2,6,7,8,9] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
 personnel. [@2,4,5] Officers found no owner and no suspect at the sites. [@1,5,6,7,8]
 
@@ -103,10 +112,12 @@ carried some of the material to Nagan Raya police headquarters as evidence. [@1,
 
 Reaching the site took about four hours on trail motorcycles and another four
 hours on foot through mountain terrain. [@1,5,6,7] The operation ended at 02:00 WIB,
-western Indonesian time, early on Sunday 1 November. [@1,4,5] Nagan Raya police
+western Indonesian time, early on Sunday 1 November. [@1,4,5,9] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
 cannabis growing in the regency. [@3,5] He asked residents to report cannabis
 planting, storage and dealing in their neighbourhoods. [@1] The police said the
 fight against drugs needed the support and cooperation of the whole community.
 [@1]
+
+Nagan Raya police chief AKBP M. Taufiq was joined by operations head Kompol Fajar Rahmat, BNN Langsa head Kompol Ir. Khairinnas and BNN Lhokseumawe head Henry Pahala Marbun. [@9]
