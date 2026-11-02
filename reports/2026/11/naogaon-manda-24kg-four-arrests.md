@@ -28,17 +28,25 @@ sources:
     publisher: North Capital News
     date: 2026-11-01
     language: bn
+  - title: নওগাঁয় ডিবি পুলিশের ০৩ উপজেলায় রাতভর অভিযান, ২৪ কেজি গাঁজাসহ আটক ৪
+    url: https://sorejominbarta.com/country/article/65945
+    publisher: Sorejomin Barta
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
   - The same briefing also reported van-theft arrests and 517 recovered mobile phones, separate events left out here.
   - The Desh TV page carries a press-conference photo whose content could not be verified, so it is not listed as media.
   - 'Left out, as its quotation was not found in Desh TV: Police seized a total of 24 kg of ganja, the local term for cannabis, from the four men.'
+  - The submitted page dates the operation to 01-11-2026 and says the Badalgachhi raid occurred around 10 a.m., while the existing report dates the raids from Saturday night through 8:30 a.m. Sunday to the 1 November press briefing.
+  - The submitted page names the Sadar rented house location as Kumaigari and the owner as Faruk Hossain and the Badalgachhi village as Nihinpur, details not in the existing report.
+  - The submitted page carries an image file but its caption and credit are empty, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
@@ -46,7 +54,7 @@ Naogaon office on Sunday, 1 November. [@1]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
 another 2 kg kept under a bed. [@1] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
@@ -56,3 +64,4 @@ The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
 by a Detective Branch team on the superintendent's orders. [@1] Police said
 district anti-drug drives of this kind would continue. [@1]
 
+Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2]
