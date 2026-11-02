@@ -38,6 +38,11 @@ sources:
     publisher: Punjab Kesari
     date: 2026-11-01
     language: hi
+  - title: कुल्लू में महिला के घर से मिली 2.990 किलो चरस! पुलिस ने मौके पर किया गिरफ्तार - Latest News Himachal Dastak
+    url: https://himachaldastak.com/kullu-ani-police-seize-charas-woman-arrested/7-198/
+    publisher: Himachal Dastak
+    date: 2026-11-01
+    language: hi
 open_questions:
   - The report gives no separate date for the raid; 2026-11-01 is the article's publication date.
   - Only one source for this event could be opened, so the police account has no independent corroboration.
@@ -54,11 +59,11 @@ a search. [@1]
 
 Police identified the house as belonging to Jovandasi, wife of Gopal Singh, a
 resident of Koot village, post office Lagauti, Ani tehsil. [@1,3] During the house
-search, police recovered 2.990 kilograms of charas from inside. [@1,2] Police
-seized the charas and arrested the woman on the spot. [@1]
+search, police recovered 2.990 kilograms of charas from inside. [@1,2,4] Police
+seized the charas and arrested the woman on the spot. [@1,4]
 
 Following the recovery, Ani police station registered a case against the accused
-woman under Section 20 of the NDPS Act. [@1,2] Police said legal proceedings have
+woman under Section 20 of the NDPS Act. [@1,2,4] Police said legal proceedings have
 started and the accused woman is being questioned to gather further information
 about the seized charas. [@1]
 
