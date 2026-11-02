@@ -42,6 +42,11 @@ media:
     media_url: https://cdn-assets.jawapos.com/images/1/2026/11/01/polda-metro-jaya-tangkap-26-bandar-dan-pengedar-dalam-penggerebakan-di-kampung-bahari-jakarta-utara-minggu-111-ryandi-zahdomojawaposcom-UKud5.webp
     publisher: JawaPos.com
     caption: 'Photo published with JawaPos''s report of the raid, captioned as showing the arrest of 26 dealers and distributors in Kampung Bahari on 1 November 2026. Photo: Ryandi Zahdomo/JawaPos.com'
+  - kind: photo
+    url: https://voi.id/zh/news/601018
+    media_url: https://imgsrv2.voi.id/o1zY3aCc1iK0ueJFh0O32iDFo9FQa6_py9h-V-MBN1o/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy82MDEwMTgvMjAyNjExMDIxODI1LW1haW4uY3JvcHBlZF8xNzkzNjE4NzE3LmpwZWc.jpg
+    publisher: VOI
+    caption: 'Joint officers during the 1 November 2026 raid on Kampung Bahari, North Jakarta. Photo: BNN file via VOI'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865
@@ -134,6 +139,11 @@ sources:
     publisher: VOI
     date: 2026-11-01
     language: fr
+  - title: 警察搜查巴哈里村，众议院第三委员会：在雅加达清除毒品
+    url: https://voi.id/zh/news/601018
+    publisher: VOI
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -162,20 +172,22 @@ open_questions:
   - This French version reports 26 people held, an interim count, while the existing report uses the later police update of 29.
   - This French version gives the raid time as 17h30, while the Indonesian-language account used in the report gives 05:30.
   - The French translation names cocaine and ecstasy alongside cannabis, while the report follows Indonesian-language accounts in recording methamphetamine, cannabis and ecstasy pills.
+  - No separate weight or amount for the cannabis is given; it is listed only among mixed drug evidence with ecstasy, sharp weapons and firearms.
+  - The Chinese text repeats ecstasy several times and is machine-translated from Indonesian, so drug-type wording beyond cannabis is left to Indonesian-language accounts.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
-November 2026. [@4,15] Jakarta police drug squad director Kombes Bismo Teguh
+November 2026. [@4,15,19] Jakarta police drug squad director Kombes Bismo Teguh
 Prakoso said the operation involved the city police, the national police
 criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
-the mobile brigade (Brimob). [@2,8,10,12,15,16,17] He said some of those held were alleged
+the mobile brigade (Brimob). [@2,8,10,12,15,16,17,19] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
 held. [@2,12,13,18] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3,18] They rode a commuter train from Tanjung
 Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13,18]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
-ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12,14,15,17] They also found
+ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12,14,15,17,19] They also found
 bongs, packaging, sharp weapons and firearms. [@2,14,15] Police also seized Happy Five
 pills and cartridges suspected of containing etomidate. [@4]
 
