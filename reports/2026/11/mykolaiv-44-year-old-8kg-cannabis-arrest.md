@@ -1,0 +1,67 @@
+---
+date: 2026-11-02
+country: ua
+place: Mykolaiv, Mykolaiv Oblast
+coordinates: [46.975, 31.995]
+precision: locality
+type: arrest
+also: [seizure]
+title: 44-year-old held in Mykolaiv with almost 8 kg of cannabis
+summary: >-
+  Police in Mykolaiv detained a 44-year-old man suspected of selling cannabis to acquaintances and seized almost 8 kg of cannabis at his home. He was notified of suspicion of repeated large-scale drug sale or storage for sale and placed in custody with 499,200 hryvnias bail available.
+figures:
+  arrested: 1
+  charged: 1
+  kg_seized: 8
+media:
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/
+    media_url: https://cdn4.suspilne.media/images/resize/1040x1.78/2128171cdc94ac21.jpg
+    publisher: Suspilne Mykolaiv
+    caption: 'Detention shown in the lead photo. Photo: National Police of Ukraine via Suspilne Mykolaiv'
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/
+    media_url: https://cdn4.suspilne.media/images/resize/400x0.1/f5c446b5519b095b.jpg
+    publisher: Suspilne Mykolaiv
+    caption: 'Packaged substance seized during the search. Photo: National Police of Ukraine via Suspilne Mykolaiv'
+  - kind: photo
+    url: https://suspilne.media/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/
+    media_url: https://cdn4.suspilne.media/images/resize/400x0.1/591f7d2827626f57.jpg
+    publisher: Suspilne Mykolaiv
+    caption: 'Items seized during the home search. Photo: National Police of Ukraine via Suspilne Mykolaiv'
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: b950642a0dbc4bbf79df1507d6a23f34
+tags: [mykolaiv, cannabis, repeat-offender]
+sources:
+  - title: 'У Миколаєві чоловіка підозрюють у збуті канабісу: вилучили майже 8 кг наркотиків'
+    url: https://suspilne.media/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/
+    publisher: Суспільне Миколаїв
+    date: 2026-11-02
+    language: uk
+open_questions:
+  - The article gives only its 2 November publication/announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
+  - The weight is stated only as almost and about 8 kilograms and is recorded as 8 kg.
+  - The city neighbourhood where sales allegedly occurred is not named.
+  - The 1,800 and 3,000 hryvnia payments and 499,200 hryvnia bail are hryvnia sums in the text and are not recorded as drug value or fine.
+  - A same-day Mykolaiv sentence report involving 14 plants and more than 8 kg appears to be a different case on bail, charges and procedural stage, but identity overlap cannot be fully excluded from this article alone.
+  - Only one source for this detention was opened; no agency statement or second outlet confirming it was found.
+---
+
+Police in Mykolaiv detained a 44-year-old man suspected of illegally selling
+cannabis. [@1] Investigators say he sold cannabis among acquaintances in one of
+the city's neighbourhoods, processing the substance himself, packaging it and
+arranging meeting times and places with buyers. [@1] Officers documented two
+sales for which he received 1,800 and 3,000 hryvnias. [@1]
+
+During a search of his place of residence, officers seized almost 8 kilograms of
+cannabis kept at the home. [@1] Officers also seized electronic scales,
+packaging material, mobile phones and money found with the cannabis during the
+same home search. [@1]
+
+Police notified him of suspicion of illegal production, manufacture or storage
+for sale on an especially large scale or repeated sale of narcotics. [@1] A
+court ordered that he be held in custody with the possibility of posting 499,200
+hryvnias bail while the pre-trial investigation continues. [@1] The offence
+carries up to 12 years' imprisonment with confiscation of property. [@1]
+
