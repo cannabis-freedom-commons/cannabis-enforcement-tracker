@@ -36,6 +36,11 @@ sources:
     publisher: Prensa Mercosur
     date: 2026-10-31
     language: es
+  - title: Intentaron ingresar marihuana oculta en un paquete de yerba a una comisaría de Posadas
+    url: https://www.noticiasdelacalle.com.ar/amp/noticias/2026/11/01/204498-intentaron-ingresar-marihuana-oculta-en-un-paquete-de-yerba-a-una-comisaria-de-posadas
+    publisher: Diario Noticias De La Calle de Misiones
+    date: 2026-11-01
+    language: es
 open_questions:
   - The articles give no separate date for the seizure; 31 October is the publication date of the first reports.
   - RadioUp, published on 1 November, says the procedure took place 'this Sunday', while MisionesOnline and Primera Edición published their accounts on the evening of Saturday 31 October; the report uses 31 October.
@@ -45,14 +50,16 @@ open_questions:
   - 'Left out, as its quotation was not found in Primera Edición: The check took place around 14:30.'
   - 'Left out, as its quotation was not found in RadioUp: Proceedings were opened for an alleged violation of National Drug Law No. 23.737, and the case passed to the federal courts.'
   - Prensa Mercosur's text reproduces the MisionesOnline article already cited almost word for word, so it is not independent corroboration.
+  - The new article was published on 1 November 2026, while the existing report uses 31 October 2026 from the first reports; no separate seizure date is given beyond the 14:30 check time.
+  - The new article, like the earlier reports, names no arrest, charge or court outcome for the young man who brought the packet.
 ---
 
 A young man brought food to detainees held in pavilion No. 2 of the Third Police
-Station in Posadas, in Argentina's Misiones province. [@1] The delivery included
+Station in Posadas, in Argentina's Misiones province. [@1,4] The delivery included
 a 500-gram packet of yerba mate, a herbal infusion drunk in Argentina. [@1,3] As
 part of routine security checks, officers began inspecting the goods entering
 the station. [@2] They opened the yerba packet and found a white polyethylene
-bag holding a greenish-brown plant substance. [@1,3] Specialists from the
+bag holding a greenish-brown plant substance. [@1,3,4] Specialists from the
 Directorate of Dangerous Drugs weighed the substance and tested it; the field
 test was positive for cannabis sativa and the weight was 143 grams. [@1,3] The
 check stopped the packet before it reached the detainees. [@2]
@@ -61,3 +68,5 @@ The Federal Prosecutor's Office intervened and called in the Directorate of
 Dangerous Drugs, a unit of the Misiones police, to carry out the tests. [@1,3] The
 detainees in pavilion No. 2 are "procesados", people held while criminal
 proceedings against them continue. [@1]
+
+The check took place around 14:30. [@4] Proceedings were opened for an alleged violation of National Drug Law No. 23.737, and the case passed to the federal courts. [@4]
