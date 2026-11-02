@@ -27,6 +27,11 @@ sources:
     publisher: Tiempo
     date: 2026-10-30
     language: es
+  - title: 'Se quedaron sin luces y también sin libertad: los detienen con presunta dr0-g4'
+    url: https://enblancoynegro.com.mx/2026/10/30/se-quedaron-sin-luces-y-tambien-sin-libertad-los-detienen-con-presunta-dr0-g4/
+    publisher: En Blanco y Negro
+    date: 2026-10-30
+    language: es
 open_questions:
   - The article gives no separate date for the stop; 30 October 2026 is its publication date.
   - No weight or value for the two bags was published.
@@ -37,9 +42,9 @@ open_questions:
 ---
 
 Municipal police arrested a man and a woman in the colonia Centro after finding
-two bags of marijuana, the DSPM said. [@1] The people detained were identified
-as Francisco P. Q., aged 43, and Karina Paola C. E., aged 25. [@1] They were
-travelling on a motorcycle when the officers intercepted them. [@1]
+two bags of marijuana, the DSPM said. [@1,2] The people detained were identified
+as Francisco P. Q., aged 43, and Karina Paola C. E., aged 25. [@1,2] They were
+travelling on a motorcycle when the officers intercepted them. [@1,2]
 
 The official report said the intervention happened while police from Distrito
 Ángel were making prevention and surveillance rounds at the crossing of calles
@@ -51,7 +56,6 @@ possession of Karina Paola C. E. [@1]
 
 After the find, both were taken to the Comandancia Sur for registration and then
 placed at the disposal of the Fiscalía de Distrito Zona Centro, the central-zone
-district prosecutor's office, together with the seized substance. [@1] The
+district prosecutor's office, together with the seized substance. [@1,2] The
 ministerial authority is to carry out the corresponding investigations and
 determine the legal situation of the people detained. [@1]
-
