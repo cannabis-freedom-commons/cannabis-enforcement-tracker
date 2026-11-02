@@ -32,20 +32,26 @@ sources:
     publisher: g1 Minas
     date: 2026-10-30
     language: pt
+  - title: Apreensão de haxixe dispara mais de 50 vezes nas rodovias federais de Minas Gerais
+    url: https://pordentrodetudo.com.br/apreensao-de-haxixe-dispara-mais-de-50-vezes-nas-rodovias-federais-de-minas-gerais/
+    publisher: Por Dentro de Tudo
+    date: 2026-10-31
+    language: pt
 open_questions:
   - The 8,810 kg total covers 1 January to 23 October 2026; 30 October 2026 is the article publication date.
   - The 179 arrests cover transporting drugs in general, not hashish alone, so no arrested figure is recorded as a cannabis figure.
   - Crack, cocaine, ecstasy, amphetamine, LSD and seized medicine totals in the same PRF balance are non-cannabis and are excluded from cannabis figures.
   - No separate PRF statement was opened; the second source is the original g1 report of which the submitted page is a reprint.
   - No breakdown of the 8,810 kg by individual seizure, highway, origin, destination or case outcome was published.
+  - The submitted page rounds the 2026 total to 8.8 tonnes while the existing report records 8,810 kg from the more precise g1 account.
 ---
 
 Federal Highway Police (PRF) data show hashish seizures on the federal highways
 crossing Minas Gerais grew more than 50 times in 2026. [@1] The reports describe
 hashish as a concentrated derivative of marijuana. [@1] The seizure total rose
 from 169 kilograms in all of 2025 to 8,810 kilograms between 1 January and 23
-October 2026. [@2] Between January and October 2026, the PRF arrested 179 people
-for transporting drugs on federal highways in Minas Gerais. [@2] In the same
+October 2026. [@2,3] Between January and October 2026, the PRF arrested 179 people
+for transporting drugs on federal highways in Minas Gerais. [@2,3] In the same
 comparison, the PRF balance records crack seizures rising from 14.7 kilograms to
 85 kilograms and cocaine from 740 to 937 kilograms. [@1]
 
@@ -61,4 +67,3 @@ through information on cargo origin and destination, vehicles used and those
 involved. [@1] The PRF says it relies on intelligence work, highway monitoring,
 sniffer-dog teams and integration with other security forces to expand
 anti-trafficking enforcement in the state. [@1]
-
