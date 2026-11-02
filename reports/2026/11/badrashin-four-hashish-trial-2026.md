@@ -4,15 +4,15 @@ country: eg
 place: Badrashin, Giza
 coordinates: [29.8514, 31.2742]
 precision: locality
-type: prosecution
-also: [seizure]
-title: Four on trial in Badrashin over 15 kg of hashish
-summary: >-
-  Four defendants face trial at the Giza Criminal Court in case 19560/2025 over about 15 kg of hashish seized in Badrashin in December 2025, alongside alleged phenethylamine derivatives and shotguns. Prosecutors say anti-narcotics officers arrested them under prosecution permission and allege the drugs were for trafficking and the weapons protected that activity.
+type: sentence
+also: [seizure, prosecution]
+title: Four jailed 15 years over 15 kg hashish in Badrashin
+summary: The Giza Criminal Court sentenced four defendants to 15 years of rigorous imprisonment in Badrashin case 19560/2025. The case involved about 15 kg of hashish and unlicensed shotguns seized in December 2025.
 figures:
-  arrested: 4
-  charged: 4
-  kg_seized: 15
+    arrested: 4
+    charged: 4
+    kg_seized: 15
+    prison: 15 years
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3e00412ebd75172e2ca00dda18e60a0
@@ -20,6 +20,11 @@ tags: [badrashin, giza, hashish, prosecution]
 sources:
   - title: «15 كيلو حشيش وأسلحة خرطوش».. اليوم محاكمة 4 متهمين بالإتجار في المخدرات بالبدرشين | المصري اليوم
     url: https://www.almasryalyoum.com/news/details/4399106
+    publisher: المصري اليوم
+    date: 2026-11-02
+    language: ar
+  - title: «15 كيلو حشيش وأسلحة خرطوش».. المشدد 15 سنة لـ 4 متهمين بالإتجار في المخدرات بالبدرشين | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4399601
     publisher: المصري اليوم
     date: 2026-11-02
     language: ar
@@ -55,3 +60,4 @@ defendants with trafficking in hashish essence and phenethylamine derivatives
 and with drug use, plus possession of unrifled firearms and ammunition without a
 licence. [@1]
 
+On Monday, the Giza Criminal Court sentenced the four defendants in case No. 19560 of 2025 for Badrashin felonies to 15 years of rigorous imprisonment. [@2] The court imposed the sentence for drug trafficking and possession of unlicensed firearms and ammunition. [@2]
