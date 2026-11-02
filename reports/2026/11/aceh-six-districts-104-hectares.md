@@ -33,6 +33,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/02/bareskrim-temukan-ladang-ganja-25-hektar-di-aceh-utara-1793596826910_169.jpeg?w=700&q=90
     publisher: detikNews
     caption: 'Bareskrim photo of the 25-hectare cannabis field found in Aceh Utara. Photo: Dok. Istimewa'
+  - kind: photo
+    url: https://garuda.tv/polri-dan-bnn-musnahkan-ladang-ganja-12286-hektare-estimasi-berat-capai-93-ton/
+    media_url: https://garuda.tv/wp-content/uploads/2026/11/pemusnahan-ladang-ganja.jpeg
+    publisher: GARUDA TV
+    caption: 'Joint Polri-BNN operation to eradicate 122.86 hectares of cannabis fields in Aceh and North Sumatra. Photo: Dok Istimewa'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e0035043d4e97af06cdb8b6e0ed219e6
@@ -92,6 +97,11 @@ sources:
     publisher: DETIK SUARA RAKYAT
     date: 2026-11-02
     language: id
+  - title: Polri dan BNN Musnahkan Ladang Ganja 122,86 Hektare, Estimasi Berat Capai 93 Ton – GARUDA TV
+    url: https://garuda.tv/polri-dan-bnn-musnahkan-ladang-ganja-12286-hektare-estimasi-berat-capai-93-ton/
+    publisher: GARUDA TV
+    date: 2026-11-02
+    language: id
 open_questions:
   - The Polda Aceh account names no owner, grower or suspect, and no court follow-up is known; the later Bareskrim recap names three suspects from the 27 October Lhokseumawe operation and a farmer suspect in East Aceh, with no trial reported.
   - No breakdown of area, plants or weight by district was published in the Polda Aceh account.
@@ -116,6 +126,7 @@ open_questions:
   - The submitted page describes the 122.86 hectares as covering North Sumatra and Aceh together, while the existing report reads the Bareskrim recap as the Aceh-jurisdiction total with the 5-hectare Mandailing Natal phase counted separately.
   - The component areas listed in the submitted page add to about 127.86 hectares, not the reported 122.86-hectare total.
   - The page carries a photo whose caption is only the file name IMG-20261102-WA0076, so whether it shows this operation could not be established and no media entry is added.
+  - The submitted page presents 122.86 hectares as covering North Sumatra and Aceh together, while the existing report reads the Bareskrim recap as the Aceh-jurisdiction total with the 5-hectare Mandailing Natal phase counted separately.
 ---
 
 A joint team of Aceh provincial police, Polda Aceh, and the Aceh provincial
@@ -136,10 +147,12 @@ Joko said the operation was part of the national police chief's priority
 programme, Polisi Bersama Masyarakat, through Quick Wins 2, which includes
 restoring areas used for drug crops. [@1]
 
-On 2 November 2026 the national police criminal investigation agency, Bareskrim Polri, gave a wider recap of the same joint enforcement effort at the scene in Aceh, observed by detikcom. [@5] Bareskrim drug director Brigadier General Kristian Siagian, with the BNN Acting Deputy of Eradication Brigadier General Adri Irniadi, said joint teams of Bareskrim, the North Sumatra and Aceh provincial police forces, BNN, the military, local government and community members had handled about 122.86 hectares in the Aceh police jurisdiction between 27 October and 2 November, with an estimated wet weight of 93.225 tonnes. [@5,6,7,8,9,11]
+On 2 November 2026 the national police criminal investigation agency, Bareskrim Polri, gave a wider recap of the same joint enforcement effort at the scene in Aceh, observed by detikcom. [@5] Bareskrim drug director Brigadier General Kristian Siagian, with the BNN Acting Deputy of Eradication Brigadier General Adri Irniadi, said joint teams of Bareskrim, the North Sumatra and Aceh provincial police forces, BNN, the military, local government and community members had handled about 122.86 hectares in the Aceh police jurisdiction between 27 October and 2 November, with an estimated wet weight of 93.225 tonnes. [@5,6,7,8,9,11,12]
 
-The recap described phases beyond the Polda Aceh announcement: Lhokseumawe police destroyed about 18 hectares in Teupin Rusep village, Sawang district, North Aceh, on 27 October and detained four people, and destroyed about 25 more hectares on 2 November. [@5,6,10,11] Of the four detained, S, 43, had identified the field to others, W, 35, had sown 1,800 cannabis seeds, and M, 39, had supplied the seeds to S; S, W and M were named suspects while the fourth person, HM, was released as uninvolved. [@5,6,9] The suspects were charged under Articles 114 and 111 of the Narcotics Law, which carry a maximum penalty of 20 years in prison. [@5,7,11]
+The recap described phases beyond the Polda Aceh announcement: Lhokseumawe police destroyed about 18 hectares in Teupin Rusep village, Sawang district, North Aceh, on 27 October and detained four people, and destroyed about 25 more hectares on 2 November. [@5,6,10,11,12] Of the four detained, S, 43, had identified the field to others, W, 35, had sown 1,800 cannabis seeds, and M, 39, had supplied the seeds to S; S, W and M were named suspects while the fourth person, HM, was released as uninvolved. [@5,6,9,12] The suspects were charged under Articles 114 and 111 of the Narcotics Law, which carry a maximum penalty of 20 years in prison. [@5,7,11]
 
-The recap further listed about 77 hectares destroyed in the Blang Meurande and Beutong Ateuh-Benggala areas of Nagan Raya on 31 October, about two hectares handled by Pidie police on 1 November, about 0.04 hectares uprooted by Bener Meriah police on 1 November, about 0.7 hectares handled by Aceh Besar police on 1 November, and about 0.12 hectares secured by East Aceh police, who named a cannabis farmer with the initials AM as a suspect under Article 111. [@5,6] Separately in North Sumatra, about five hectares with some 150,000 five-to-six-month-old plants were found in Tor Sihite, Rao Rao Dolok village, Tambangan district, Mandailing Natal, on 31 October after a public tip on 29 October, and the plants were burned at the site. [@5,6,11]
+The recap further listed about 77 hectares destroyed in the Blang Meurande and Beutong Ateuh-Benggala areas of Nagan Raya on 31 October, about two hectares handled by Pidie police on 1 November, about 0.04 hectares uprooted by Bener Meriah police on 1 November, about 0.7 hectares handled by Aceh Besar police on 1 November, and about 0.12 hectares secured by East Aceh police, who named a cannabis farmer with the initials AM as a suspect under Article 111. [@5,6] Separately in North Sumatra, about five hectares with some 150,000 five-to-six-month-old plants were found in Tor Sihite, Rao Rao Dolok village, Tambangan district, Mandailing Natal, on 31 October after a public tip on 29 October, and the plants were burned at the site. [@5,6,11,12]
 
 One suspect also grew cannabis at his own house to track how tall the field plants would grow. [@9] The cannabis field owner was still being pursued as a fugitive. [@9]
+
+Bareskrim estimated 186,450 cannabis plants for the 122.86-hectare operation. [@8]
