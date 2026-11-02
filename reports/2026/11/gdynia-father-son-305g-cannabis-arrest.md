@@ -23,6 +23,11 @@ sources:
     publisher: Policja Pomorska
     date: 2026-11-02
     language: pl
+  - title: 'Gdynia: 40-letni ojciec i 20-letni syn zatrzymani. W piwnicy trzymali blisko kilogram narkotyków'
+    url: https://informacje.wp.pl/wiadomosci/40-letni-ojciec-i-20-letni-syn-zatrzymani-w-piwnicy-trzymali-blisko-kilogram-narkotykow-7346730039167424a
+    publisher: WP Info
+    date: 2026-11-02
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the basement seizure or arrests, so the publication date is used as the incident date.
   - The 686 grams of amphetamine and the combined near-kilogram total are not counted as cannabis; only the separately stated 305 grams of marijuana is recorded as cannabis seized.
@@ -32,13 +37,13 @@ open_questions:
 
 Officers from the criminal department of the Gdynia city police detained a
 40-year-old man and his 20-year-old son, who had stored significant quantities
-of drugs in a basement. [@1] The two men were taken to the District Prosecutor's
-Office in Gdynia. [@1] Both men were formally notified of charges of possessing
-a significant quantity of drugs. [@1] At the prosecutor's request, the court
-ordered temporary arrest, a form of pretrial detention, for both detainees. [@1]
+of drugs in a basement. [@1,2] The two men were taken to the District Prosecutor's
+Office in Gdynia. [@1,2] Both men were formally notified of charges of possessing
+a significant quantity of drugs. [@1,2] At the prosecutor's request, the court
+ordered temporary arrest, a form of pretrial detention, for both detainees. [@1,2]
 
 Officers seized more than 305 grams of marijuana, which police said corresponded
-to 305 single portions. [@1] In the same basement seizure, officers also seized
+to 305 single portions. [@1,2] In the same basement seizure, officers also seized
 686 grams of amphetamine, from which 1,226 portions could have been prepared,
 bringing the combined seizure to nearly one kilogram of drugs. [@1]
 
@@ -46,4 +51,3 @@ The alleged offence is classified under Article 62 section 2 of the law on
 counteracting drug addiction. [@1] It is punishable by one to 10 years of
 imprisonment. [@1] Police said a court will decide what happens to the men next.
 [@1]
-
