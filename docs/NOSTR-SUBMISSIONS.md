@@ -420,24 +420,46 @@ HARVEST_GOOGLE_NEWS_QUERIES=[IN:hi] (गांजा OR चरस) (जब्त
 LOG_LEVEL=debug
 ```
 
-The built-in set (`DefaultGoogleNewsQueries` in `backend/internal/harvest/google_news.go`) searches
-the countries with the most enforcement reports in their own languages and local editions: India
-in English, Hindi, Bengali, Marathi, Tamil, Telugu and Malayalam; Bangladesh; Kenya, Nigeria,
-Morocco and French; Arabic in the Lebanese, Egyptian and Saudi editions (Syria, Lebanon, Palestine,
-Libya, Algeria, Bahrain); Indonesia, the Philippines, Thailand, Singapore, Malaysia, Vietnam,
-Chinese and the Pacific; Czech, Spanish, Russian, Turkish, Brazilian Portuguese and Latin American
-Spanish. Google News has no Nepali, Sinhala, Swahili, Khmer, Persian or Pashto edition, so Nepal,
-Sri Lanka and Afghanistan are searched through English (and Nepali terms in the Hindi edition, best
-effort). Local terms only work in the edition of their language.
+The built-in set (`DefaultGoogleNewsQueries` in `backend/internal/harvest/google_news.go`) has
+50 queries. It searches India in English, Hindi, Bengali, Marathi, Tamil, Telugu, Malayalam,
+Gujarati and Punjabi; Bangladesh in Bengali; Pakistan in English; Kenya, Nigeria and southern
+Africa in English, including regional terms such as bhang, dagga, mbanje and matekoane; Morocco
+and France in French; Arabic in the Lebanese, Egyptian and Saudi editions; and Israel in Hebrew.
+Asian editions include Indonesia, the Philippines, Thailand, Singapore, Malaysia, Vietnam,
+mainland China, Hong Kong, Taiwan, Japan and South Korea. European/American editions include
+Czech, German, Italian, Dutch, Polish, Romanian, Greek, Ukrainian, Swedish, Spanish, Russian,
+Turkish, Brazilian Portuguese and Latin American Spanish, alongside US English and the Pacific.
+
+Queries pair cannabis names, resin/oil forms, local synonyms and common inflections with seizure,
+arrest, raid, cultivation/eradication, prosecution, conviction and punishment terms where practical.
+Execution and death terms supplement seizure terms in English and relevant Asian/Arabic queries.
+No synthetic-cannabinoid terms are added as cannabis synonyms. Mixed articles still require AI
+research to establish a separately supported cannabis enforcement component; whole-article negative
+keywords would also hide qualifying mixed events.
+
+Edition support is checked through live RSS responses, not inferred from a language code. Gujarati
+and Punjabi use Google's `gu-IN`/`pa-IN` UI locales. Kannada and Urdu probes redirected to Hindi and
+English respectively, so no native-language edition is assumed for them. Nepal, Sri Lanka, Bhutan
+and Pakistan have explicit English searches (plus best-effort Nepali terms in the Hindi edition).
+A further English query names Iran, Afghanistan, North Korea, Myanmar and Cambodia rather than
+assuming working Persian, Pashto, Burmese, Khmer or North Korean editions. Regional editions are
+search locales, not strict event-country filters, and do not guarantee coverage of every country.
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
-second apart; with the default set and interval every query runs about every 45 minutes, inside
-its one-day lookback. New candidates are taken round-robin across that scan's queries, so a busy
-edition cannot use up the per-scan budget of 1–100 new URLs (default 25). At most 50 queries;
-each is at most 1000 characters. This is candidate discovery, not exhaustive worldwide coverage
-or a relevance verdict: the source check uses a multilingual vocabulary and the AI research decides
-from the opened article which ones become reports. Each queued candidate records its edition and
-query in its provenance. Restart the backend after configuration changes.
+second apart. With 50 default queries and 12 per scan, five scans visit the whole set, roughly
+75 minutes plus scan time (under two hours at the default interval and five-minute scan deadline),
+inside the one-day lookback. The larger set does not increase the per-scan request or admission
+budgets. New candidates are taken round-robin across that scan's queries, so a busy edition cannot
+use up the per-scan budget of 1–100 new URLs (default 25). At most 50 configured queries, each at
+most 1000 characters. Custom queries replace the built-in set. This is candidate discovery, not
+exhaustive worldwide coverage or a relevance verdict: AI research decides from opened articles
+which ones become reports. Each queued candidate records its edition and query in its provenance.
+Restart the backend after changing the defaults or configuration.
+
+An opt-in feed check tests every default query, verifies that Google retained the requested edition
+rather than silently redirecting to another language, and logs result counts without resolving
+articles, queuing URLs or starting AI research:
+`cd backend && GOOGLE_NEWS_LIVE=1 go test ./internal/harvest -run TestGoogleNewsLiveFeeds -v`.
 
 Google wrapper URLs are resolved to publisher article URLs before intake, using Google's public
 article-page redirect RPC. That RPC is undocumented and may change. Unresolved candidates are

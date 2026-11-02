@@ -3,9 +3,12 @@ package harvest
 import (
 	"context"
 	"encoding/json"
+	"encoding/xml"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"io"
 	"net/http"
+	"net/url"
+	"os"
 	"path/filepath"
 	"strings"
 	"testing"
@@ -143,6 +146,11 @@ func TestGoogleNewsQueryEditions(t *testing.T) {
 	if p := (GoogleNewsQuery{"HK:zh-Hant", "大麻"}).params(); p.Get("hl") != "zh-HK" || p.Get("gl") != "HK" {
 		t.Fatal(p)
 	}
+	for _, lang := range []string{"gu", "pa"} {
+		if p := (GoogleNewsQuery{"IN:" + lang, "cannabis"}).params(); p.Get("hl") != lang+"-IN" || p.Get("ceid") != "IN:"+lang {
+			t.Fatal(p)
+		}
+	}
 	if p := (GoogleNewsQuery{"KE:en", "bhang"}).params(); p.Get("hl") != "en-KE" {
 		t.Fatal(p)
 	}
@@ -154,9 +162,12 @@ func TestGoogleNewsQueryEditions(t *testing.T) {
 			t.Fatal("invalid query accepted", bad)
 		}
 	}
+	if len(DefaultGoogleNewsQueries) > 50 {
+		t.Fatal("default set exceeds configured query limit")
+	}
 	editions := map[GoogleNewsQuery]bool{}
 	for _, q := range DefaultGoogleNewsQueries {
-		if !googleEdition.MatchString(q.Edition) || !strings.Contains(q.Query, "when:1d") || editions[q] {
+		if !googleEdition.MatchString(q.Edition) || !strings.Contains(q.Query, "when:1d") || len(q.Query) > 1000 || editions[q] {
 			t.Fatal("invalid default query", q)
 		}
 		editions[q] = true
@@ -217,5 +228,77 @@ func TestGoogleQueriesRotate(t *testing.T) {
 	g.QueriesPerScan = 0
 	if len(g.batch(5)) != 3 {
 		t.Fatal("all queries expected")
+	}
+}
+
+// Validate new locales and query syntax against Google's public RSS without
+// resolving articles, touching the operational queue or starting AI research.
+func TestGoogleNewsLiveFeeds(t *testing.T) {
+	if os.Getenv("GOOGLE_NEWS_LIVE") != "1" {
+		t.Skip("set GOOGLE_NEWS_LIVE=1 to check public RSS editions")
+	}
+	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Minute)
+	defer cancel()
+	g := GoogleNews{}
+	paced := false
+	total, feeds := 0, 0
+	for _, q := range DefaultGoogleNewsQueries {
+		t.Run(q.Edition+"/"+q.Query, func(t *testing.T) {
+			if err := pause(ctx, &paced); err != nil {
+				t.Fatal(err)
+			}
+			b, final, err := g.request(ctx, "https://news.google.com/rss/search?"+q.params().Encode(), nil)
+			if err != nil {
+				t.Fatal(err)
+			}
+			u, err := url.Parse(final)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if got := u.Query().Get("ceid"); got != q.Edition {
+				t.Fatalf("edition redirected from %s to %s", q.Edition, got)
+			}
+			var feed struct {
+				XMLName xml.Name `xml:"rss"`
+				Channel struct {
+					Language string `xml:"language"`
+				} `xml:"channel"`
+			}
+			if err := xml.Unmarshal(b, &feed); err != nil {
+				t.Fatal(err)
+			}
+			links, err := ParseFeed(b)
+			if err != nil {
+				t.Fatal(err)
+			}
+			feeds++
+			total += len(links)
+			t.Logf("edition=%s language=%s results=%d", q.Edition, feed.Channel.Language, len(links))
+		})
+	}
+	if total == 0 {
+		t.Fatal("no results across the default query set")
+	}
+	t.Logf("%d query feeds returned %d candidates (not queued)", feeds, total)
+}
+
+func TestGoogleDefaultRotationCoversAllQueries(t *testing.T) {
+	g := GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 12}
+	seen := map[GoogleNewsQuery]bool{}
+	scans := (len(g.Queries) + g.QueriesPerScan - 1) / g.QueriesPerScan
+	for n := range scans {
+		batch := g.batch(n)
+		if len(batch) != g.QueriesPerScan {
+			t.Fatal("unexpected scan workload", len(batch))
+		}
+		for _, q := range batch {
+			seen[q] = true
+		}
+	}
+	if len(seen) != len(g.Queries) {
+		t.Fatal("rotation omitted queries", len(seen), len(g.Queries))
+	}
+	if time.Duration(scans)*(15*time.Minute+5*time.Minute) >= 24*time.Hour {
+		t.Fatal("default rotation exceeds query lookback")
 	}
 }
