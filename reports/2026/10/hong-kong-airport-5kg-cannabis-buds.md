@@ -38,19 +38,25 @@ sources:
     url: https://www.bastillepost.com/global/article/6310961-hong-kong-customs-seizes-about-5kg-of-suspected-cannabis-buds-arrests-passenger-at-airport
     publisher: Bastillepost
     date: 2026-10-31
+  - title: 香港海關於機場偵破一宗入境旅客販毒案件
+    url: https://www.flamingwheels.online/html/20261101/157266.htm
+    publisher: 香港風火時報
+    date: 2026-11-01
+    language: zh
 open_questions:
   - The weight was given as about 5 kilograms; no exact figure was published.
   - Customs did not name the man, and no charge or court appearance was reported in the opened accounts.
   - The HK$1.1 million value is Customs' own estimate.
   - The Standard's account repeats the Customs statement; no independent reporting of the event was found.
+  - The page carries one image with only the generic caption loadPhoto (1).jpg, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Hong Kong Customs arrested a man at Hong Kong International Airport on 31
-October 2026 and seized about 5 kilograms of suspected cannabis buds. [@2,3] The
+October 2026 and seized about 5 kilograms of suspected cannabis buds. [@2,3,4] The
 passenger was a 37-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3] During clearance, officers found the buds inside his carry-on
-suitcase. [@2,3] Customs estimated their market value at about HK$1.1 million.
-[@2]
+Thailand. [@1,3,4] During clearance, officers found the buds inside his carry-on
+suitcase. [@2,3,4] Customs estimated their market value at about HK$1.1 million.
+[@2,4]
 
 Officials said an investigation into the origin and intended destination of the
 drugs was continuing. [@1] Customs said it was committed to intensifying
