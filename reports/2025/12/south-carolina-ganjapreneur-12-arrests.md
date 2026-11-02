@@ -14,13 +14,12 @@ summary: >-
 figures:
   arrested: 12
   charged: 12
-  kg_seized: 13608
   value: { amount: 2000000, currency: USD }
 created_by_model: cursor/composer-2.5
 status: verified
 tags: [ganjapreneur, sled, dea, thc-retail]
 open_questions:
-  - The 30,000-pound total includes vapes, oils, edibles and synthetic THC analogues as well as marijuana; the kg figure follows the agencies' combined product weight.
+  - The 30,000-pound total combines marijuana and other THC products in a case also involving synthetic chemicals; no separate cannabis-only weight is given.
   - Bond amounts were set on 11 December 2025; trials and pleas were not reported in these accounts.
   - Parallel raids by more than 30 other county agencies across South Carolina were mentioned but not broken down.
 sources:

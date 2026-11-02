@@ -11,7 +11,6 @@ summary: >-
   Nigeria's NDLEA said it intercepted more than 2.3 tonnes of assorted illicit drugs, including synthetic cannabis known as Colorado, in a nationwide roundup, and destroyed 4,832.56 kg of skunk on farms in Edo State. It named 17 people arrested, among them a real estate agent who collected a UK-linked consignment at Lagos airport and a 70-year-old woman held with 110 bags of cannabis.
 figures:
   arrested: 17
-  kg_seized: 2300
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [colorado, skunk, edo, lagos, ndlea]
@@ -28,7 +27,7 @@ open_questions:
   - The statement was issued on Sunday 13 September 2026; the operations it describes took place on 9 and 11 September, so the incident date is the announcement date.
   - Vanguard reported operations in nine states; The Guardian listed eight (Lagos, Ondo, Edo, Delta, Kaduna, Plateau, Bayelsa and Kano).
   - Vanguard called the Lagos airport consignment 'UK-bound', while The Guardian described the Colorado shipments as coming from the United Kingdom; the direction of the shipments is unclear.
-  - The 2.3 tonnes covers assorted drugs including opioids; the statement gives no cannabis-only total, so the kg_seized figure is not cannabis alone.
+  - The 2.3-tonne total includes synthetic cannabinoids and other drugs; no cannabis-only seizure total is given.
   - 'No single arrest total was published: 17 is the number of people named as arrested in the statement, while The Guardian said at least seven were held over the seized consignments.'
   - No charges, court dates or outcomes were reported for any of the suspects.
   - NDLEA intercepts Colorado from UK, uncovers opioids in bread, speakers (The Guardian Nigeria) could not be opened again to check its quotations (The browser page answered HTTP 403); what it says is as the AI read it.
