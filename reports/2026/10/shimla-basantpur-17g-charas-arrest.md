@@ -22,11 +22,17 @@ sources:
     publisher: Punjab Kesari Himachal
     date: 2026-10-31
     language: hi
+  - title: 'Shimla: बाजार में गश्त के दौरान चरस के साथ एक व्यक्ति गिरफ्तार'
+    url: https://m.himachal.punjabkesari.in/himachal-pradesh/news/shimla-charas-accused-arrested-2395279?amp=
+    publisher: Punjabkesari
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article gives no separate date for the patrol and arrest, so 31 October 2026, the article's publication date, is used as the incident date.
   - Only one source for this event could be opened; a search for a second account found nothing.
   - No court outcome beyond registration of the NDPS case was reported.
   - The page carries a lead photo captioned to this arrest, but it is not established that the image shows this seizure, so no media entry is included.
+  - The submitted AMP URL appears to be the same Punjab Kesari article as the canonical URL already cited in the existing report, not an independent second account.
 ---
 
 A patrolling team from Sunni police station in Shimla district detained a man in
@@ -34,12 +40,11 @@ Basantpur market after linking him to a consignment of charas found during the
 patrol. [@1] Officers on patrol said they spotted the man in a suspicious
 condition, throwing away a plastic pouch and trying to slip away quickly. [@1]
 When the officers searched the discarded pouch, they recovered 17.5 grams of
-charas from it. [@1] Police sealed the recovered consignment at the spot itself
+charas from it. [@1,2] Police sealed the recovered consignment at the spot itself
 and took it into police custody as case property. [@1]
 
 Sunni police then registered a case in the matter under Section 20 of the NDPS
-Act. [@1] Police identified the arrested man as Bhagat Ram, son of Mathu Ram.
-[@1] His recorded address is village Mandialu, post office Basantpur, tehsil
+Act. [@1,2] Police identified the arrested man as Bhagat Ram, son of Mathu Ram.
+[@1,2] His recorded address is village Mandialu, post office Basantpur, tehsil
 Sunni, in Shimla district. [@1] In sum, the patrol produced a single arrest and
 a 17.5-gram charas recovery in Basantpur market. [@1]
-
