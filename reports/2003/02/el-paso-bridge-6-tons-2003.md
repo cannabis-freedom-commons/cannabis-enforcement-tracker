@@ -29,6 +29,7 @@ sources:
   - title: Texas Drug Threat Assessment
     publisher: National Drug Intelligence Center
     url: https://www.justice.gov/archive/ndic/pubs5/5624/marijuan.htm
+    archived: https://web.archive.org/web/20260529113146/https://www.justice.gov/archive/ndic/pubs5/5624/marijuan.htm
     date: 2003-10
 ---
 

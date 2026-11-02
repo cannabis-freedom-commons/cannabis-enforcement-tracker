@@ -27,6 +27,7 @@ sources:
   - title: Two men arrested in £18m cannabis seizure
     publisher: 4NI
     url: https://www.4ni.co.uk/northern-ireland-news/55800/two-men-arrested-in-18m-cannabis-seizure
+    archived: https://web.archive.org/web/20250427142053/https://www.4ni.co.uk/northern-ireland-news/55800/two-men-arrested-in-18m-cannabis-seizure
     date: 2006-10-11
   - title: Duo remanded over cannabis possession
     publisher: 4NI
