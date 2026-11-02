@@ -24,6 +24,11 @@ sources:
     url: https://en.964media.com/54610/
     publisher: 964media
     date: 2026-11-02
+  - title: العراق يعلن ضبط 9 أطنان من المخدرات في عمليات مع 7 دول | CNN Arabic | CNN
+    url: https://arabic.cnn.com/middle-east/article/2026/11/02/iraq-seizes-9-tons-of-narcotics-in-7-countries
+    publisher: CNN Arabic
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The country where the 20 kg of marijuana was seized was not named, and no separate date for that seizure was given; 2 November 2026 is the publication date of both reports.
   - The period over which the seven-country operations and the about-nine-ton total were accumulated was not given.
@@ -33,26 +38,27 @@ open_questions:
   - Both reports recycle the same directorate statement to the Iraqi News Agency; no independent weighing or seizure record was published.
   - Coordinates are given at country level for Iraq as the coordinating country because the seizure country was not named and no spot can be guessed.
   - The submitted page carries one image captioned only drug control, which does not establish that it shows this seizure, so no media entry is added.
+  - The CNN Arabic page carries an AFP photo captioned with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
 general, Lt. Gen. Ahmed Salih al-Zarkani, told the Iraqi News Agency that Iraqi
 intelligence supported joint anti-drug operations with agencies in seven Arab
-and regional states. [@1] He named those states as Kuwait, Iran, Syria, Lebanon,
+and regional states. [@1,3] He named those states as Kuwait, Iran, Syria, Lebanon,
 Saudi Arabia, Egypt and Libya, saying precise Iraqi intelligence helped track
-international smuggling networks and seize large quantities of drugs. [@1] An
+international smuggling networks and seize large quantities of drugs. [@1,3] An
 English account describes the same announcement as Iraqi intelligence leading to
 the seizure of about 9 metric tons of drugs in joint operations in seven
 countries, from Kuwait and Iran to Libya. [@2]
 
 Zarkani put the total seized outside Iraqi territory at about nine tons,
 comprising Captagon, crystal meth and hashish, without giving the period over
-which the operations occurred. [@1] He said the latest operation was carried out
+which the operations occurred. [@1,3] He said the latest operation was carried out
 in Libya on entirely Iraqi intelligence surveillance and seized 1,200,000 pills
-belonging to a criminal network operating from Chad. [@1] Separately, he said
+belonging to a criminal network operating from Chad. [@1,3] Separately, he said
 recent operations included 20 kilograms of marijuana seized in one neighbouring
 country after the directorate sent specialist teams to coordinate with the local
-authorities and carry out the necessary security measures. [@1] The English
+authorities and carry out the necessary security measures. [@1,3] The English
 account confirms the 20 kilograms of marijuana seized in a neighboring country
 after specialized teams were sent, noting that Zarkani did not name the country.
 [@2]
@@ -63,4 +69,3 @@ Iraq's borders rather than pursuing their activity only inside the country. [@1]
 He added that the United Nations Office on Drugs and Crime followed and studied
 the Iraqi experience in Vienna, and that Iraq placed third among 140 states and
 200 organizations at the police summit held in Dubai in May 2025. [@1]
-
