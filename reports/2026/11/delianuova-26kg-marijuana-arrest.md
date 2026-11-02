@@ -1,0 +1,54 @@
+---
+date: 2026-11-02
+country: it
+place: Delianuova, Reggio Calabria
+coordinates: [38.2351, 15.9186]
+precision: locality
+type: arrest
+also: [raid, seizure]
+title: Young man arrested in Delianuova with 2.6 kg of marijuana
+summary: >-
+  Carabinieri searching homes in Delianuova for illegal weapons arrested a young local man after finding about 2.6 kg of marijuana drying, plus a precision scale and packaging material. He was taken to Palmi prison pending judicial review, while officers also seized two firearms with abraded serial numbers and reported a 60-year-old man over ammunition material.
+figures:
+  arrested: 1
+  kg_seized: 2.6
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 7afe3dd3f2875466963a11138b5a66ae
+tags: [delianuova, calabria, marijuana, carabinieri]
+sources:
+  - title: 'Delianuova, beccato con oltre due chili e mezzo di marijuana: arrestato'
+    url: https://www.ilreggino.it/cronaca/delianuova-beccato-con-oltre-due-chili-e-mezzo-di-marijuana-arrestato-fj1d22cm
+    publisher: Il Reggino
+    date: 2026-11-02
+    language: it
+  - title: Blitz dei carabinieri nel Reggino, arrestato con 2,6 chili di marijuana
+    url: https://www.ansa.it/calabria/notizie/2026/11/02/blitz-dei-carabinieri-nel-reggino-arrestato-con-26-chili-di-marijuana_e362a8cc-f3cc-4158-a343-19eca17016e8.html
+    publisher: ANSA
+    date: 2026-11-02
+    language: it
+open_questions:
+  - The articles give no separate date for the dawn operation; 2 November 2026 is their publication date.
+  - The sources do not give the arrested young man's name or age.
+  - No court outcome is reported; the case was in the preliminary-investigation phase.
+  - The 60-year-old's referral concerns material for making ammunition, not cannabis, so he is not counted in the figures.
+  - The source page carries a lead image with only the caption PHOTO and no credit, so whether it shows this seizure could not be established and no media entry is added.
+---
+
+At dawn, Carabinieri of the Delianuova station, under the Palmi company, carried
+out an operation supported by provincial Carabinieri units, the Calabria
+helicopter-borne hunter squadron, the Vibo Valentia dog unit and intervention
+squads of the 12th Regiment Sicilia. [@1] The operation was aimed at illegally
+held weapons and covered several homes in the area. [@2] During the searches,
+officers arrested a young local man found with about 2.6 kg of marijuana that
+was being dried. [@1] The search also turned up a precision scale and material
+for packaging the drug, which led to the arrest. [@1] After the operation, the
+young man was taken to the Palmi prison at the disposal of the judicial
+authority. [@1]
+
+In further checks, officers found and seized a carbine and a hunting rifle, both
+with abraded serial numbers, along with various ammunition. [@1] A 60-year-old
+local man was reported at liberty in connection with possessing material for
+making ammunition. [@1] The case was in the preliminary-investigation phase,
+with the presumption of innocence applying until a final sentence. [@1]
+
