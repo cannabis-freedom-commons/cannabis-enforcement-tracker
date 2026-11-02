@@ -43,17 +43,23 @@ sources:
     publisher: Rthess
     date: 2026-11-01
     language: el
+  - title: 'Ηλεία: Εντοπίστηκαν θερμοκήπια με κάνναβη – Συνελήφθη ένας άνδρας'
+    url: https://www.thitanews.gr/ileia-entopistikan-thermokipia-me-kannavi-synelifthi-enas-andras/
+    publisher: Thita News
+    date: 2026-11-01
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
   - The reports do not state whether the 102 growing plants were uprooted or destroyed after seizure.
   - The page lead image uses a file path from 2016/05, so whether it shows this 2026 seizure could not be established and no media entry is added.
   - The page's only image caption repeats the headline and its file name suggests handcuffs, so whether it shows this seizure could not be established and no media entry is added.
+  - The submitted page carries an image captioned only “kanavi”, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
 Peloponnese on Saturday while he was tending the plantation. [@1] The man was
-detained on cultivation and drug-possession charges. [@2,3,4] The arrested man is to
+detained on cultivation and drug-possession charges. [@2,3,4,5] The arrested man is to
 be brought before the Ilia Court of First Instance prosecutor while the Ilida
 crime-investigation department continues its inquiries. [@2,3,4]
 
@@ -67,4 +73,4 @@ sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3,4]
+scale in a neighbouring storeroom. [@2,3,4,5]
