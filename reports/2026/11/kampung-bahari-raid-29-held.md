@@ -120,6 +120,10 @@ sources:
     url: https://en.antaranews.com/news/439315/drug-raid-in-north-jakarta-slum-area-27-arrested
     publisher: ANTARA News
     date: 2026-11-01
+  - title: Drug raid in North Jakarta slum area, 27 arrested
+    url: https://en.antaranews.com/amp/news/439315/drug-raid-in-north-jakarta-slum-area-27-arrested
+    publisher: ANTARA News
+    date: 2026-11-01
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -148,7 +152,7 @@ Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
 November 2026. [@4,15] Jakarta police drug squad director Kombes Bismo Teguh
 Prakoso said the operation involved the city police, the national police
 criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
-the mobile brigade (Brimob). [@2,8,10,12,15] He said some of those held were alleged
+the mobile brigade (Brimob). [@2,8,10,12,15,16] He said some of those held were alleged
 dealers or owners and others were users. [@2] Police first reported 26 people
 held. [@2,12,13] Bismo later put the final number at 29. [@4] About 1,816 officers
 began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
@@ -161,8 +165,8 @@ pills and cartridges suspected of containing etomidate. [@4]
 
 Officers were pelted with stones during the raid. [@2] He said drug dealing in
 Kampung Bahari still used stalls along the railway despite earlier raids. [@2,11,15]
-He said police would keep raiding and hunting the suppliers. [@2,12,15]
+He said police would keep raiding and hunting the suppliers. [@2,12,15,16]
 
 The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5,13] Police were still questioning the 26 people detained in the raid. [@6,7,13]
 
-Officers also seized cash, which Bismo said was kept with the cannabis and came from its sale. [@8,11] He said police would also tear down the stalls so they could not be misused. [@8,11,15] He said the resistance was an attempt to draw officers away from the operation's targets. [@8,11,12] Bismo said four people were held at the primary site, three of them users and one the owner of the evidence. [@9,11,12,15]
+Officers also seized cash, which Bismo said was kept with the cannabis and came from its sale. [@8,11] He said police would also tear down the stalls so they could not be misused. [@8,11,15] He said the resistance was an attempt to draw officers away from the operation's targets. [@8,11,12,16] Bismo said four people were held at the primary site, three of them users and one the owner of the evidence. [@9,11,12,15]
