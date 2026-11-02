@@ -29,6 +29,11 @@ sources:
     url: https://www.therakyatpost.com/news/2026/10/30/malaysian-chef-held-at-mauritius-airport-with-rm2-3mil-in-suspected-cannabis/
     publisher: The Rakyat Post
     date: 2026-10-30
+  - title: Bawa 17,88 Kg Ganja di Koper, Chef Asal Malaysia Ditangkap di Bandara Mauritius
+    url: https://www.kompas.com/tren/read/2026/11/02/090000465/bawa-17-88-kg-ganja-di-koper-chef-asal-malaysia-ditangkap-di-bandara
+    publisher: Kompas.com
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -38,6 +43,10 @@ open_questions:
   - Le Défi Media Group valued the haul at Rs 25.5 million; The Rakyat Post gives RM2.3 million, about Rs 26.88 million. The report keeps the Le Défi figure and the difference is left open.
   - The Rakyat Post describes the provisional charge as importing dangerous drugs for distribution; the report uses the fuller charge wording recorded by Le Défi Media Group.
   - The Rakyat Post's picture is credited to Defi Media and appears to be the same photograph already listed in the report, so it was not added a second time.
+  - The submitted Kompas page uses an illustration captioned as illustration, not a photo of this seizure, so no media entry is added.
+  - Kompas values the haul at about 26.88 million Mauritian rupees while the existing report keeps Le Défi Media Group's Rs 25.5 million figure; the difference is left open.
+  - Kompas does not name the suspect or flight EK709 and does not name ADSU/CANS, which the existing report records from Le Défi Media Group.
+  - The 15 September case of a 70-year-old Malaysian held with 6.18 kg at the same airport is a different event left out here.
 ---
 
 Officers of the Anti Drug and Smuggling Unit and the Customs Anti Narcotics
@@ -49,8 +58,8 @@ bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1]
 
 Kueh was arrested and questioned by ADSU investigators, who ran a controlled
 delivery with dummy parcels to identify the consignment's recipient; the
-recipient never came to collect it and was not caught. [@1,2] His mobile phone
+recipient never came to collect it and was not caught. [@1,2,3] His mobile phone
 was seized for examination, along with Rs 8,150 and Malaysian and Thai currency
-found on him. [@1,2] He was placed in police detention under a provisional charge
+found on him. [@1,2,3] He was placed in police detention under a provisional charge
 of drug dealing by importing dangerous drugs with an averment of trafficking.
-[@1,2]
+[@1,2,3]
