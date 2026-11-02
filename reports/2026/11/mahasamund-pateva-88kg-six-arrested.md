@@ -43,6 +43,11 @@ sources:
     publisher: Navbharat Times
     date: 2026-11-01
     language: hi
+  - title: छत्तीसगढ़ में छह अंतरराज्यीय तस्कर गिरफ्तार, 44 लाख का 88 किलो गांजा जब्त
+    url: https://jantaserishta.com/amp/national/six-inter-state-smugglers-arrested-in-chhattisgarh-88-kg-of-cannabis-worth-rs-44-lakh-seized-4912985
+    publisher: Janta Se Rishta
+    date: 2026-11-01
+    language: hi
 media:
   - kind: photo
     url: https://theworldopinion.com/india/six-interstate-ganja-smugglers-arrested-chhattisgarh-88-kg-seized
@@ -60,14 +65,17 @@ open_questions:
   - The article calls the escort vehicle a car while the existing report identifies it as a Maruti Swift Dzire from another account.
   - The page photo caption says four smugglers were arrested while the article text reports six, so whether the photo shows this seizure is not established and it is not listed as media.
   - The submitted page spells the location as 'Patewa' while the existing report uses 'Pateva' for the same National Highway 53 blockade in front of Pateva police station.
+  - The submitted page spells the location as Patewa while the existing report uses Pateva for the same National Highway 53 blockade in front of Pateva police station.
+  - The submitted page gives only its publication date of 1 November 2026 and no separate day for the blockade and arrests.
+  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 ## The blockade
 
-Acting on intelligence that ganja was moving in a white pickup escorted by a Maruti Swift Dzire, police set up a blockade on National Highway 53 in front of the Pateva police station in Mahasamund district. [@1,2,4] Officers stopped the Dzire first and found nothing in it, then searched the pickup and recovered 88 kilograms of ganja packed in three plastic sacks. [@1,2,3,4,5] The IANS account gives the pickup's registration as MH-21 BH-9873 and the escort car's as MH-46 X-5682. [@2]
+Acting on intelligence that ganja was moving in a white pickup escorted by a Maruti Swift Dzire, police set up a blockade on National Highway 53 in front of the Pateva police station in Mahasamund district. [@1,2,4,6] Officers stopped the Dzire first and found nothing in it, then searched the pickup and recovered 88 kilograms of ganja packed in three plastic sacks. [@1,2,3,4,5,6] The IANS account gives the pickup's registration as MH-21 BH-9873 and the escort car's as MH-46 X-5682. [@2]
 
 ## The arrests
 
-Police arrested six men, all residents of Maharashtra: three allegedly carrying the ganja and three travelling in the escort vehicle. [@1,2,3,4,5] The consignment had allegedly come from Katamal in Bargarh district of Odisha and was bound for distribution in Maharashtra. [@1,2,4,5] Alongside the drug, worth about Rs 44 lakh, police seized the pickup, the Dzire, Rs 28,600 in cash and seven mobile phones, putting the total property value at Rs 53.73 lakh. [@1,2] A case was registered at Pateva police station as Crime No. 210/2026 under Sections 20(b) and 29(1) of the NDPS Act, and all six accused were sent to judicial custody while investigation into the network's source, destination and finances continues. [@1,2,3,4]
+Police arrested six men, all residents of Maharashtra: three allegedly carrying the ganja and three travelling in the escort vehicle. [@1,2,3,4,5,6] The consignment had allegedly come from Katamal in Bargarh district of Odisha and was bound for distribution in Maharashtra. [@1,2,4,5,6] Alongside the drug, worth about Rs 44 lakh, police seized the pickup, the Dzire, Rs 28,600 in cash and seven mobile phones, putting the total property value at Rs 53.73 lakh. [@1,2] A case was registered at Pateva police station as Crime No. 210/2026 under Sections 20(b) and 29(1) of the NDPS Act, and all six accused were sent to judicial custody while investigation into the network's source, destination and finances continues. [@1,2,3,4]
 
 The six accused were identified as Siddharth Dande, Sachin Madan Sonawani, Badrinath Prahlad Khurmute, Shankar Tukaram Dige, Vishal Santosh Khade and Deepak Kharse. [@3,5]
