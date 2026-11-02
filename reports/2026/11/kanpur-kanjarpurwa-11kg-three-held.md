@@ -128,6 +128,11 @@ sources:
     publisher: Jagran
     date: 2026-11-01
     language: hi
+  - title: 'Kanpur: कंजड़नपुरवा में 135 पुलिसकर्मियों का सर्च ऑपरेशन, 11 किलो गांजा बरामद; 3 गिरफ्तार - ABC News'
+    url: https://abcnews.media/kanpur-search-operation-by-135-police-personnel-in-kanjarpurwa-11-kg-of-ganja-cannabis-seized-3-arrested/
+    publisher: ABC News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -152,13 +157,15 @@ open_questions:
   - This source says about 60 to 70 houses were searched, while the existing report cites Hindustan for about 35 homes.
   - This source spells the locality Kajjanpurwa/Kajadnpurwa variants; the existing report uses Kanjarpurwa for the same Kidwai Nagar locality.
   - The page displays a video thumbnail at https://www.jagranimages.com/videos/2026/11/01/media/video/thumbnail/KANPUR-1793526357020-1793526415726.webp, but no direct video file address could be recovered, so no media entry is added.
+  - The ABC News lead image carries only the headline as its caption with no credit, so it could not be confirmed to show this operation and no media entry is added.
+  - This source identifies the third arrested person only as a woman, while the existing report names her Anjali from its other accounts.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6,7,11,12,13]
+[@1,4,6,7,11,12,13,16]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14]
@@ -167,7 +174,7 @@ stations. [@2,4,6,7,9,10,12,13,14]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16] Other teams kept
 searching during the operation, and police said they were trying to identify
 others involved in the trade. [@3,6,13]
 
