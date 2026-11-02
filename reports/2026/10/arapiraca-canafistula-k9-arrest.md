@@ -47,12 +47,18 @@ sources:
     publisher: 7Segundos
     date: 2026-10-30
     language: pt
+  - title: Cão farejador localiza maconha e crack dentro de casa e suspeito de tráfico é preso
+    url: https://www.folhadedourados.com.br/cao-farejador-localiza-maconha-e-crack-dentro-de-casa-e-suspeito-de-trafico-e-preso/?amp=
+    publisher: Folha de Dourados
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight was published for the 28 marijuana portions, so the report gives no kilogram figure.
   - No charging decision, court date or outcome was reported; the accounts end with the man at the Arapiraca police station.
   - Em Tempo Notícias says the woman tried to flee when she saw the patrol car; GazetaWeb, 7Segundos and TNH1 say she turned back into the house, which this report follows.
   - The lead picture was published without a credit, so its origin could not be confirmed.
   - The 7Segundos lead says police seized 44 drug portions, crack and marijuana together, while its own body, and the existing report, count 44 crack rocks plus 28 marijuana portions.
+  - 'The page''s only image is captioned Foto: ilustração, so no event photo from this outlet is listed as media.'
 ---
 
 Military police arrested a 21-year-old man in the Canafístula neighbourhood of
@@ -63,12 +69,12 @@ unit. [@2] Officers were patrolling Rua 13 at about 5pm when a woman left the
 house and turned back inside on seeing the patrol car. [@2] She told them she
 had come to buy drugs and had already handed R$ 9 to the suspect. [@2,5] The man
 then came out questioning the officers and did not obey orders to put his hands
-on his head, and was restrained. [@2]
+on his head, and was restrained. [@2,6]
 
 A search with the sniffer dog K9-Kaos found two crack rocks in the sink drain
 and, in the CD compartment of an old sound system, five marijuana wraps and R$
 63 in cash. [@2] In the bathroom roof the dog indicated another hiding place,
-where officers found 23 more marijuana portions and 42 crack rocks. [@2] In all
+where officers found 23 more marijuana portions and 42 crack rocks. [@2,6] In all
 police seized 28 marijuana portions, 44 crack rocks and two mobile phones. [@2,5]
 
 He was taken with the material to the Central de Polícia de Arapiraca, the
@@ -76,4 +82,4 @@ city's central police station, where the formal procedures were carried out, and
 the woman was taken as a witness. [@2] The military police booked him for drug
 trafficking (tráfico de drogas). [@3,5] One phone, he said, belonged to his
 sister, who had left the house about three weeks earlier, and it was locked but
-still receiving calls, including from a contact saved as "Mago". [@4]
+still receiving calls, including from a contact saved as "Mago". [@4,6]
