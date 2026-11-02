@@ -73,6 +73,11 @@ sources:
     publisher: Habertürk
     date: 2026-10-31
     language: tr
+  - title: İzmir Konak'ta 1 kilo 855 gram skunk ele geçirildi, 2 şüpheli gözaltına alındı
+    url: https://www.haberler.com/guncel/izmir-konak-ta-1-kilo-855-gram-skunk-ele-gecirildi-20383067-haberi/
+    publisher: Haberler
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports say only that the raid took place 'yesterday' (dün) relative to their 31 October 2026 publication, and give no time of day or street.
   - No charge, court date or outcome was reported for the two suspects, who were not named.
@@ -85,14 +90,16 @@ open_questions:
   - The page's only photograph carries just the headline as its caption and no credit; it shows the same DHA scene already linked from Hürriyet, so it was not added as a separate media entry.
   - The Habertürk page says agency İzmir items appear without editorial intervention, so it is not an independent account of the raid.
   - Whether the Habertürk lead image is a distinct photo of this seizure cannot be confirmed from its headline-only caption, so no media entry was added.
+  - The Haberler page credits Demirören Haber Ajansı and repeats the agency wording, so it is not an independent account.
+  - The page's single photo carries only the headline as caption and appears to show the same agency handout already linked in the existing report, so no separate media entry was added.
 ---
 
 Police in İzmir searched an address in Konak, one of the city's central
-districts, on 30 October 2026. [@1,3,4,5,6,7,8,9] Two suspects were detained and held in
+districts, on 30 October 2026. [@1,3,4,5,6,7,8,9,11] Two suspects were detained and held in
 gözaltı, the police custody in which a person is kept for questioning while
-prosecutors decide whether to bring charges or release them. [@2,3,4,5,6,8,9,10] The searches
+prosecutors decide whether to bring charges or release them. [@2,3,4,5,6,8,9,10,11] The searches
 turned up 1 kg 855 g of skunk, a high-potency herbal cannabis preparation that
-Turkish police and newspapers call skunk, and 4 g of cocaine. [@1,3,4,5,7,8,9,10]
+Turkish police and newspapers call skunk, and 4 g of cocaine. [@1,3,4,5,7,8,9,10,11]
 
 The operation was carried out by teams from the narcotics crimes branch of the
 İzmir provincial police directorate, the Narkotik Suçlarla Mücadele Şube
