@@ -27,18 +27,25 @@ sources:
     url: https://english.ratopati.com/story/85394/five-arrested-while-loading-marijuana-into-scorpio-two-rounds-of-air-fire
     publisher: Ratopati
     date: 2026-11-02
+  - title: Police arrest five with 210 kg of marijuana after firing warning shots
+    url: https://english.onlinekhabar.com/police-arrest-five-with-210-kg-of-marijuana-after-firing-warning-shots.html
+    publisher: OnlineKhabar English News
+    date: 2026-11-02
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
   - No charges, custody status beyond arrest, or court outcome were reported.
   - No street value, cultivation source, or destination for the marijuana was reported.
   - Whether the lead photograph on the source page depicts this seizure could not be established from the caption alone.
+  - The new source writes 'Ramasagar Kumar Yadav' and 'Amrit Bishungkhé' while the existing report writes 'Ram Sagar Kumar Yadav' and 'Amrit Bishunkhe', minor spelling/transliteration variations.
+  - The new source describes the 210 kg as packed in 'eight bundles' while the existing report says '8 sacks'.
+  - Whether the lead photograph on the Onlinekhabar page depicts this seizure could not be established because its caption and credit are empty in the supplied data, so no media entry is added.
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
@@ -52,6 +59,5 @@ Cha 5038 and Ko.1 Cha 8182 at approximately 3:00 AM that day, a police team
 reached the location. [@1]
 
 Police found approximately 210 kg of marijuana kept in 8 sacks being loaded into
-the two vehicles. [@1] Police said further investigation into the incident was
+the two vehicles. [@1,2] Police said further investigation into the incident was
 under way. [@1]
-
