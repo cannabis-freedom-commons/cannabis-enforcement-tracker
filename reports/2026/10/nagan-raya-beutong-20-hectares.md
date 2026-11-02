@@ -61,6 +61,11 @@ sources:
     publisher: Pantau.com
     date: 2026-11-01
     language: id
+  - title: Polres Nagan Raya dan BNN Musnahkan Ladang Ganja Seluas 20 Hektare di Beutong
+    url: https://pujatvaceh.com/polres-nagan-raya-dan-bnn-musnahkan-ladang-ganja-seluas-20-hektare-di-beutong/
+    publisher: PUJATV ACEH
+    date: 2026-11-02
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -73,23 +78,24 @@ open_questions:
   - Indonesiaglobal names Beutong Ateuh Banggalang district, while ANTARA and the report say Beutong; the accounts do not explain the difference.
   - Pantau dates the operation to Sunday 1 November 2026, while the existing report dates it to 31 October 2026 ending at 02:00 WIB on 1 November.
   - 'Left out, as its quotation was not found in Pantau.com: The team uprooted and burned the plants where they stood and carried some of the material to Nagan Raya police headquarters as evidence.'
+  - The PujaTV article spells the police chief's name as Muhammad Taufik, while the existing report uses Muhamad Taufiq.
 ---
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
 mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5] The fields lay
-in Beutong district, in the mountains of the regency. [@2,6] The operation was led
+in Beutong district, in the mountains of the regency. [@2,6,7] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
-personnel. [@2,4,5] Officers found no owner and no suspect at the sites. [@1,5,6]
+personnel. [@2,4,5] Officers found no owner and no suspect at the sites. [@1,5,6,7]
 
 Police estimated the plantation at 20 hectares across three separate plots, the
 first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5,6] Plants
 at the second plot were about 1 metre high and at the third about 30
-centimetres. [@1,5] The team uprooted and burned the plants where they stood and
-carried some of the material to Nagan Raya police headquarters as evidence. [@1,5]
+centimetres. [@1,5,7] The team uprooted and burned the plants where they stood and
+carried some of the material to Nagan Raya police headquarters as evidence. [@1,5,7]
 
 Reaching the site took about four hours on trail motorcycles and another four
-hours on foot through mountain terrain. [@1,5,6] The operation ended at 02:00 WIB,
+hours on foot through mountain terrain. [@1,5,6,7] The operation ended at 02:00 WIB,
 western Indonesian time, early on Sunday 1 November. [@1,4,5] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
