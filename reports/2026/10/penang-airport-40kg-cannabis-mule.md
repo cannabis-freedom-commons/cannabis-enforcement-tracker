@@ -78,6 +78,10 @@ sources:
     url: https://www.malaymail.com/news/malaysia/2026/11/02/police-arrest-man-at-penang-airport-over-rm32m-cannabis-bound-for-london-rm105m-drugs-seized-in-jelutong/241726
     publisher: Malay Mail
     date: 2026-11-02
+  - title: Man Arrested At PIA With Cannabis Buds Worth RM3.2 Mln
+    url: https://bernama.com/en/crime_courts/news.php?id=2629078
+    publisher: BERNAMA
+    date: 2026-11-02
 open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
@@ -94,6 +98,8 @@ open_questions:
   - This article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin-5, ketamine and liquid methamphetamine; it is a different event left out here and its drugs are not counted as cannabis.
   - This article gives no remand period or court outcome; the remand and charge dates in the existing report come from its earlier sources.
   - Whether the lead Bernama photo on this page shows this cannabis seizure or a press-conference portrait could not be established from its caption, so no media entry is added.
+  - This article describes the detention location as the airport waiting area, while the existing report specifies Gate B1 from earlier sources; there is no material contradiction on the detention itself.
+  - Whether the lead Bernama photo on this page shows this cannabis seizure could not be established from its empty caption, so no media entry is added.
 ---
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
@@ -102,15 +108,15 @@ International Airport in Bayan Lepas. [@1,3,4,5,6,10] Officers from police toget
 the Royal Malaysian Customs Department found the drugs inside two pieces of
 luggage he was carrying. [@1]
 
-The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10] Police
+The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10,11] Police
 valued the cannabis at RM3.2 million and said the man was acting as a drug mule
-tasked with carrying it to London. [@2,3,4,5,7,9,10] The man had arrived in Penang only two
+tasked with carrying it to London. [@2,3,4,5,7,9,10,11] The man had arrived in Penang only two
 days earlier, said he was acting on another person's instructions, and was
 promised RM9,000 for the trip in what police believed was his first cross-border
 air-trafficking attempt. [@2,4,5]
 
 A urine screening found him positive for amphetamine and methamphetamine, and a
-records check found two prior crime-related records. [@1,8,10] He was remanded for 13
+records check found two prior crime-related records. [@1,8,10,11] He was remanded for 13
 days from 19 to 31 October for investigation under Section 39B of the Dangerous
 Drugs Act 1952. [@1]
 
