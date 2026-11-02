@@ -28,6 +28,9 @@ sources:
     url: https://www.cannabisinsider.co.uk/news/ashford-man-jailed-after-police-uncover-elaborate-hidden-cannabis-grow
     publisher: Cannabis Insider UK
     date: 2026-10-27
+  - title: Ashford drug dealer jailed after hiding secret cultivation behind cupboard door
+    url: https://www.kent.police.uk/news/kent/latest/policing-news/ashford-drug-dealer-jailed-after-hiding-secret-cultivation-behind-cupboard-door/
+    publisher: Kent Police
 ---
 
 Kent Police carried out a search warrant at a property on Riverbank Way in the Willesborough area
@@ -42,5 +45,5 @@ walls reached by crawling through a cupboard in a living-room sideboard. [@1,2] 
 recordings of the plants, showing his involvement in supplying cannabis, a Class B drug, dating
 back to September 2025. [@1,2]
 
-Dardha was charged with the production of cannabis and pleaded guilty. [@1,2] He was sentenced at
-Canterbury Crown Court on 20 October 2026 to 16 months in prison. [@1,2]
+Dardha was charged with the production of cannabis and pleaded guilty. [@1,2,3] He was sentenced at
+Canterbury Crown Court on 20 October 2026 to 16 months in prison. [@1,2,3]
