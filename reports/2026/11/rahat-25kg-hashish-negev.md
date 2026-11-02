@@ -56,6 +56,11 @@ sources:
     publisher: Новости Беэр-Шевы и Негева
     date: 2026-11-01
     language: ru
+  - title: 'حملات للشرطة في النقب: ضبط أسلحة وذخيرة مسروقة و25 كيلوغرامًا من الحشيش واعتقال مشتبهين'
+    url: https://kul-alarab.com/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%84%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%86%D9%82%D8%A8-%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D9%8825-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%B4/1131262
+    publisher: كل العرب
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The reports give no separate date for the car seizure; 1 November 2026 is the date of the police announcement, and police said the operations took place over the previous few days.
   - Police gave no total number of arrests across the operations.
@@ -74,10 +79,10 @@ tried to flee before officers found it near Rahat after searches. [@2,5] The
 driver was taken for questioning. [@2]
 
 The seizure was one of a series of operations in Bedouin towns in the Negev,
-including Tel Sheva, Ar'arat an-Naqab, Rahat, Tarabin, Laqiya and Hura. [@1]
+including Tel Sheva, Ar'arat an-Naqab, Rahat, Tarabin, Laqiya and Hura. [@1,6]
 Police said the operations took place over the previous few days. [@3] In the
 same operations police seized three M-16 rifles, four pistols, improvised
-weapons and hundreds of rounds, as well as the hashish. [@1,4] They arrested a
+weapons and hundreds of rounds, as well as the hashish. [@1,4,6] They arrested a
 number of suspects. [@1]
 
 In a separate raid in Rahat, police said they found three M-16 rifles, two Glock
