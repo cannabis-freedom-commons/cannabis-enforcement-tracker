@@ -18,6 +18,11 @@ media:
     media_url: https://www.narayanganjtimes.com/media/imgAll/2025July/IMG-20261102-WA0001-2611021105.jpg
     publisher: Narayanganj Times
     caption: Photo accompanying the report on the biscuit-packet cannabis seizure in Sonargaon
+  - kind: photo
+    url: https://www.ekusheysangbad.com/country/news/527848
+    media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/11-20261102063822.jpg
+    publisher: Ekushey Sangbad
+    caption: Photo accompanying the report on cannabis hidden in biscuit packets in the Sonargaon seizure
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bfd856ef7437645f6db4a7db0c89a9a5
@@ -26,6 +31,11 @@ sources:
   - title: বিস্কুটের প্যাকেটে গাঁজা, সোনারগাঁয়ে নারী গ্রেপ্তার
     url: https://www.narayanganjtimes.com/outsite-city/sonargaon/38401
     publisher: Narayanganj Times
+    date: 2026-11-02
+    language: bn
+  - title: বিস্কুটের প্যাকেটে লুকিয়ে গাঁজা পাচার, নারী মাদক কারবারি গ্রেপ্তার
+    url: https://www.ekusheysangbad.com/country/news/527848
+    publisher: Ekushey Sangbad
     date: 2026-11-02
     language: bn
 open_questions:
@@ -38,20 +48,19 @@ SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
 allegedly smuggling cannabis concealed inside biscuit packets using a novel
 technique. [@1] An SRB-11 Sadar Company operational team in Narayanganj set up a
 highway checkpoint on secret information and detained Aklima as she travelled
-disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1] The
+disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2] The
 arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
-and is the wife of Rajesh Sikder. [@1]
+and is the wife of Rajesh Sikder. [@1,2]
 
 Officers searched the Lexus biscuit packet she was carrying and recovered 4 kg
 200 grams of ganja, the local term for cannabis, according to the SRB-11
-account. [@1] The operation took place at about 7:30 pm on Sunday, 1 November,
+account. [@1,2] The operation took place at about 7:30 pm on Sunday, 1 November,
 in front of the Bismillah Filling Station under Sonargaon Police Station on the
-Dhaka-Chattogram highway. [@1]
+Dhaka-Chattogram highway. [@1,2]
 
 In its press account, SRB-11 described Aklima as an active member of an
 organised drug-trafficking ring who had long collected large consignments of
 banned drugs from border areas and carried, supplied and sold them in
 Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1] A
 regular case has been filed against her at Sonargaon Police Station under the
-Narcotics Control Act. [@1]
-
+Narcotics Control Act. [@1,2]
