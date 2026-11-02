@@ -101,6 +101,10 @@ sources:
     url: https://www.rediff.com/news/commentary/2026/oct/31/mp-drones-help-dhar-police-uncover-cannabis-cultivation-worth-rs-25-cr-four-held/6c7227848b7b21f28702e1e72b114aa0
     publisher: Rediff.com
     date: 2026-10-31
+  - title: 'Drone exposes 67 quintals of cannabis crop worth ₹25 crore: Grown among maize and pigeon pea in Umarban, 40 personnel uproot plants in 24 hours; 4 arrested - Madhya Pradesh News'
+    url: https://www.bhaskarenglish.in/amp/local/mp/news/umarban-dhar-cannabis-seizure-drone-police-operation-prahar-139555607.html
+    publisher: Bhaskar English
+    date: 2026-11-01
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -115,6 +119,8 @@ open_questions:
   - The wire calls Vijay Dawar a deputy superintendent of police, while the existing report calls him an additional superintendent; the report's wording is unchanged.
   - ETV Bharat, published on 1 November, quoted Additional Superintendent of Police Vijay Dawar saying the seizure work in the fields was still continuing, while the report says the operation ran until Saturday evening.
   - ETV Bharat's wording closely matches the Zee News report, so the two accounts appear to draw on the same police briefing rather than independent reporting.
+  - The English version says the action was carried out in the villages of Badiya and Mandawada in Umarban block, while the existing report uses Badiya Patelpura for the accused; the existing village-naming question remains.
+  - The page shows two photos of the cannabis field and seizure that appear to republish the same police handout already listed from the Hindi Bhaskar version, so no new distinct media entry is added.
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
@@ -123,18 +129,18 @@ Mandloi, Malsingh alias Haresingh Mory, Sakharam Mory and Gulsingh Mandloi, all
 residents of Badiya Patelpura. [@3,6] Manawar station house officer Rajesh Yadav
 said the four were taken into police custody on the night of Saturday 31
 October. [@3,5,6] A case was registered against all four under the Narcotic Drugs
-and Psychotropic Substances Act. [@3,6]
+and Psychotropic Substances Act. [@3,6,9]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
-pea and cotton on the farms. [@1] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3,6,7,8] Police estimated the market value at about Rs
-25 crore. [@2,6,7,8] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+pea and cotton on the farms. [@1,9] Police put the weight of the seized plants at
+about 67 quintals (6,700 kg). [@3,6,7,8,9] Police estimated the market value at about Rs
+25 crore. [@2,6,7,8,9] Lalluram put the value at Rs 24 crore. [@1] It took police teams
 about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
 part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.
 [@3] The plants were about 15 days from harvest, police said. [@3]
 
-The raids were part of Operation Prahar. [@1,2,6,7,8] The operation is a district
+The raids were part of Operation Prahar. [@1,2,6,7,8,9] The operation is a district
 campaign against illegal cannabis cultivation. [@4] It was led by Superintendent
 of Police Sachin Sharma. [@1] Additional Superintendent of Police Vijay Dawar
 said police used drones to survey forests, hills and fields. [@2,8] The operation
