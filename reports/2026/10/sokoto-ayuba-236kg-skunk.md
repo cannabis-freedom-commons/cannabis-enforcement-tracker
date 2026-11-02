@@ -62,15 +62,20 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway-2/
     publisher: The Nation Newspaper
     date: 2026-11-02
+  - title: NDLEA Arrests Two France-Bound Cocaine Couriers With 3.46kg - TheFact Daily
+    url: https://thefact.ng/ndlea-arrests-two-france-bound-cocaine-couriers-with-3-46kg/
+    publisher: TheFact Daily
+    date: 2026-11-01
 open_questions:
   - No town or neighbourhood in Sokoto was named, so the coordinates are for the state capital with regional precision.
   - No charges or court outcome for Ibrahim Ayuba have been published.
   - The 1 November NDLEA statement also reports operations in Lagos, Kano, Kaduna, Ondo, Oyo and Edo, which are different events left out of this report.
+  - The submitted page is a multi-event roundup; this update uses only its Sokoto cannabis component.
 ---
 
 ## The arrest
 
-Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5,7,9,11] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4,6,7,8,10] Skunk is a strong strain of cannabis. [@2]
+Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4,5,7,9,11] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4,6,7,8,10,12] Skunk is a strong strain of cannabis. [@2]
 
 ## The roundup it was announced in
 

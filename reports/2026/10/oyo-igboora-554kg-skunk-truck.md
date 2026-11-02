@@ -83,6 +83,10 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway-2/
     publisher: The Nation Newspaper
     date: 2026-11-02
+  - title: NDLEA Arrests Two France-Bound Cocaine Couriers With 3.46kg - TheFact Daily
+    url: https://thefact.ng/ndlea-arrests-two-france-bound-cocaine-couriers-with-3-46kg/
+    publisher: TheFact Daily
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -91,12 +95,16 @@ open_questions:
   - The photographs on the source pages show suspects from other operations in the same roundup, not this arrest, so no media entry was added.
   - The submitted page's single image carries only the file-name caption ImageMerge_LongImage_20261101_135938647 and cannot be confirmed to show the Igboora truck seizure, so no media entry was added.
   - This account calls the 309.5 kg seizure Ghanaian Loud while the existing report calls it skunk; both are described as cannabis.
+  - The submitted page is a multi-event NDLEA roundup headlined on the Abuja cocaine arrests; this decision covers only its Oyo cannabis component.
+  - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same article are separate non-cannabis events excluded from this cannabis account.
+  - No verified photo of the Igboora truck seizure was identified; the page images carry empty captions and cannot be confirmed to show this event, so no media entry is added.
+  - The Volvo truck detail and Thursday weekday in the existing report rest on earlier sources; the submitted account confirms truck, place, names, ages, date and weight but does not state the Volvo model.
 ---
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
-The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8,13] No further detail about Omo Oba has been published. [@1,2]
+The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8,13,17] No further detail about Omo Oba has been published. [@1,2]

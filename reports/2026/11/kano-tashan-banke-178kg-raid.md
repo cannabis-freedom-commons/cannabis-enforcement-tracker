@@ -73,6 +73,10 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway-2/
     publisher: The Nation Newspaper
     date: 2026-11-02
+  - title: NDLEA Arrests Two France-Bound Cocaine Couriers With 3.46kg - TheFact Daily
+    url: https://thefact.ng/ndlea-arrests-two-france-bound-cocaine-couriers-with-3-46kg/
+    publisher: TheFact Daily
+    date: 2026-11-01
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -84,6 +88,7 @@ open_questions:
   - The new Blueprint account places the Tashan Banke arrest in Kaduna State, while the existing report places it in Kano State; the number of suspects, name, place name and 178.85 kg weight match.
   - This Apex account places the Tashan Banke raid in Kaduna State while the existing report places it in Kano State; the suspect count, name, place name and 178.85 kg weight match.
   - This account places the Tashan Banke raid in Kaduna State while the existing report places it in Kano State; the suspect count and 178.85 kg cannabis weight match.
+  - The submitted page is a multi-event roundup; this update uses only its Tashan Banke cannabis component.
 ---
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
@@ -95,7 +100,7 @@ the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
 and the Abuja airport, for the arrests and seizures. [@1]
 
 Officers at Tashan Banke recovered 178.85 kilogrammes of cannabis, which is the
-separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14] Officers also recovered
+separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14,15] Officers also recovered
 quantities of diazepam, tramadol, Exol-5 and pregabalin at the same Tashan Banke
 location. [@3,4]
 
