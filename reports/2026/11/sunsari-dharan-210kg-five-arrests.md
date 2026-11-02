@@ -64,6 +64,8 @@ open_questions:
   - This account does not state the eight bundles or eight sacks packaging, vehicle registration numbers, or 3 a.m. timing given in existing reports.
   - No separate incident time is given beyond Nov 2; 2 November 2026 is the publication date used as the incident date.
   - The page lead image filename and alt text do not establish that it shows this seizure, so no media entry is added.
+  - The submitted amp URL and the canonical Himalayan Times URL already cited in the report are the same article.
+  - Whether the lead photograph credited only to Santosh Kafle depicts this seizure could not be established, so no media entry is added.
 ---
 
 Police arrested five people in the Chyandanda area of Dharan Sub-Metropolitan City-20, Sunsari, after finding them loading about 210 kg of cannabis packed in eight bundles into two Scorpio SUVs. [@1,2,3,4,5] Officers reached the spot at about 3 a.m. on Monday, 2 November 2026, on a tip-off, and fired two warning shots into the air when the suspects allegedly tried to flee with the cannabis. [@1,2,3,4,5]
