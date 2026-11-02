@@ -33,6 +33,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: 'Pilibhit News: दो किलो अवैध गांजा के साथ युवक गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/pilibhit/story-puranpur-man-arrested-with-2-kg-cannabis-ndps-case-registered-201793392411391.amp.html
+    publisher: Hindustan
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Hindustan says the tip-off and arrest came on Thursday; Dainik Bhaskar, which gives the case number and the court production, says Friday 30 October 2026, the date used here.
   - Hindustan gives the weight as two kilos and Dainik Bhaskar as 2.060 kg; the report uses 2.060 kg.
@@ -58,11 +63,11 @@ stopped him at the roadways bus stand on Pilibhit Road. [@2,3] A search found
 
 Police say Shivam worked as a salesman at his father's licensed bhang shop. [@2]
 The shop, near Banda crossing, is licensed in the name of his father,
-Chandrabhan Gupta. [@1] Police said ganja sales from the licensed shop had been
-going on for a long time. [@1] Police allege the sales were made under cover of
-the bhang licence. [@2] Shivam lives in Kayasthan Ward No. 9 in Puranpur. [@2]
+Chandrabhan Gupta. [@1,4] Police said ganja sales from the licensed shop had been
+going on for a long time. [@1,4] Police allege the sales were made under cover of
+the bhang licence. [@2,4] Shivam lives in Kayasthan Ward No. 9 in Puranpur. [@2]
 
 Police registered a case against him under the NDPS Act and sent him to jail.
-[@1] Dainik Bhaskar gave the case number as 449/2026 and said he was produced in
+[@1,4] Dainik Bhaskar gave the case number as 449/2026 and said he was produced in
 court at 4 pm on Friday. [@2] Police have written to the excise department
-asking it to cancel the shop's bhang licence. [@1,3]
+asking it to cancel the shop's bhang licence. [@1,3,4]
