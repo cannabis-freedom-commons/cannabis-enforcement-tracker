@@ -84,6 +84,10 @@ sources:
     url: https://www.manilatimes.net/2026/11/01/news/american-yields-p1746m-worth-of-marijuana-at-naia/2458826
     publisher: The Manila Times
     date: 2026-11-01
+  - title: American national nabbed at NAIA for P17.4-M marijuana kush
+    url: https://tribune.net.ph/2026/10/31/american-national-nabbed-at-naia-for-p174-m-marijuana-kush
+    publisher: Daily Tribune
+    date: 2026-10-31
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -102,6 +106,7 @@ open_questions:
   - The Chronicle's photo carries no credit line identifying it as this seizure.
   - 'Left out, as its quotation was not found in Daily Tribune: A 62-year-old American citizen was arrested at Ninoy Aquino International Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency (PDEA) reported.'
   - Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
+  - The submitted page's only picture is a generic handcuff stock image from 2025, not a photograph of the seizure, so no media entry was added for it.
 ---
 
 A 62-year-old American citizen was arrested at Ninoy Aquino International
@@ -133,8 +138,8 @@ The Philippine Star, citing Rudy Santos, said authorities valued the kush at ove
 
 According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
 
-An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9]
+An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9,11]
 
-PNP-Avsegroup Director Brig. Gen. Dionisio Bartolome Jr. said police would strengthen airport monitoring and enforcement to combat illegal drug trafficking. [@7]
+PNP-Avsegroup Director Brig. Gen. Dionisio Bartolome Jr. said police would strengthen airport monitoring and enforcement to combat illegal drug trafficking. [@7,11]
 
 The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8]

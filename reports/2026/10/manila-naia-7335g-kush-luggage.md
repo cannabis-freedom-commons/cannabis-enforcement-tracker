@@ -19,6 +19,7 @@ status: verified
 tags: [kush, airport, bangkok-route]
 open_questions:
   - No arrests were reported; the two Bangkok passengers linked to the bags have not been identified.
+  - Philstar reports a four-day total of 24.8 kg across two operations without naming the 26 October luggage find.
 sources:
   - title: PDEA seizes P7.3-M kush hidden in food packaging in abandoned NAIA luggage
     url: https://x-files-news.com/2026/10/28/pdea-seizes-p7-3-m-kush-hidden-in-food-packaging-in-abandoned-naia-luggage/
@@ -36,6 +37,10 @@ sources:
     url: https://thechronicle.com.ph/american-arrested-over-php-17-46-million-marijuana-kush-seizure-at-naia/
     publisher: The Chronicle
     date: 2026-11-01
+  - title: American, 62, nabbed for P17 million kush at NAIA
+    url: https://www.philstar.com/nation/2026/11/01/2566998/american-62-nabbed-p17-million-kush-naia
+    publisher: Philstar.com
+    date: 2026-11-01
 ---
 
 Bureau of Customs officers discovered 7,335 grams of marijuana kush inside three unclaimed pieces
@@ -48,4 +53,4 @@ inspection brought together the NAIA inter-agency drug task group and the police
 security group. [@1,2,3] No owner has been identified; the drugs were turned over to PDEA custody.
 [@1,2]
 
-The Bureau of Customs said the 26 October find and the 29 October arrest together yielded about 24.8 kg of suspected marijuana kush with an estimated street value of P24.79 million in four days. [@4]
+The Bureau of Customs said the 26 October find and the 29 October arrest together yielded about 24.8 kg of suspected marijuana kush with an estimated street value of P24.79 million in four days. [@4,5]
