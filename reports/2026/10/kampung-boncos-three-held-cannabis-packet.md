@@ -56,6 +56,11 @@ sources:
     publisher: detikNews
     date: 2026-10-30
     language: id
+  - title: 邦科斯村再次被搜查，3人被拘留，有证据表明大麻，大麻和Sajam
+    url: https://voi.id/zh/news/600727
+    publisher: VOI
+    date: 2026-10-30
+    language: zh
 open_questions:
   - VOI lists the three people as coming from Surabaya, East Java, Slipi Palmerah and Aceh, while Kompas quotes Nasriadi naming Surabaya, Jatipi and Temanggung and saying they were not local residents.
   - VOI describes marijuana remnants in an empty boarding room; Kompas describes one still-wrapped cannabis packet seized in the raid. No weight was published.
@@ -63,13 +68,16 @@ open_questions:
   - Police had not decided their roles, and no names, formal charges or court outcome were reported.
   - Kompas links separate earlier Kampung Boncos raids, including ones reported on 14 and 19 October 2026, which are not part of this account.
   - 'Left out, as its quotation was not found in Kompas.com: Kompas reported that the West Jakarta force had support from the National Narcotics Agency, the Criminal Investigation Agency and the Metro Jaya police narcotics directorate for continued operations.'
+  - The Chinese auto-translation renders both seized drugs as Dagma and describes the two men in the wooden bed as suspected of using a heroin-type drug, while the existing report records methamphetamine and marijuana.
+  - The Chinese text writes the locality as Bonoton while the existing report uses Kampung Boncos.
+  - The page photo is the same agency handout already cited from the English VOI version, so no new media entry is added.
 ---
 
 West Jakarta Metro Police, led by chief Kombes Pol Nasriadi, raided Kampung
 Boncos in Palmerah, West Jakarta, on the afternoon of Friday 30 October 2026.
-[@2,4,5] The operation targeted points suspected of drug dealing and use, and
+[@2,4,5,6] The operation targeted points suspected of drug dealing and use, and
 hundreds of officers searched houses, wooden sheds and boarding rooms along
-alleys about 1.5 metres wide. [@1,4] Police secured three people. [@1,4,5] Nasriadi
+alleys about 1.5 metres wide. [@1,4] Police secured three people. [@1,4,5,6] Nasriadi
 told Kompas the three were caught using drugs inside the sheds, were not local
 residents, and came from Surabaya, Jatipi and Temanggung. [@3] VOI reported that
 the three came from Surabaya, East Java, the Slipi Palmerah area and Aceh, and
@@ -78,7 +86,7 @@ used methamphetamine. [@1,4]
 
 In a boarding room of about 2 by 3 metres, still air-conditioned but empty of
 occupants, officers found parang and badik blades, remnants of methamphetamine
-and marijuana, an empty safe and paper. [@2,4,5] Kompas reported that police seized
+and marijuana, an empty safe and paper. [@2,4,5,6] Kompas reported that police seized
 packets of methamphetamine, one still-wrapped packet of cannabis, smoking tools
 and an empty safe. [@3] Nasriadi said investigators had not yet decided whether
 those held were part of a network, dealers, couriers or users. [@1,4]
