@@ -22,6 +22,10 @@ sources:
     archived: https://web.archive.org/web/20261022013703/https://deathpenaltyinfo.org/singapore-executes-man-for-cannabis-importation-amid-rising-drug-related-executions
     publisher: Death Penalty Information Center
     date: 2026-04-23
+  - title: Execution of a convicted drug importer - 16 April 2026
+    url: https://www.cnb.gov.sg/mediaroom/news/execution-of-a-convicted-drug-importer---16-april-2026/
+    publisher: Central Narcotics Bureau
+    date: 2026-04-16
 ---
 
 Singapore executed Omar bin Yacob Bamadhaj, 46, on 16 April 2026 for importing 1,009 grams of
@@ -37,6 +41,10 @@ He had been in prison since 2018. [@1] His wife, Alexandra Maria Piel, wrote to 
 Shanmugaratnam from Germany, where adults may legally have cannabis since 2024, to ask for clemency.
 [@1] She called Germany's legalisation imperfect but said it was "worlds away" from the punishment
 her husband faced. [@1]
+
+## The bureau's account
+
+The Central Narcotics Bureau says Omar entered Singapore from Malaysia by car at Woodlands Checkpoint on 12 July 2018, where officers found three foil-wrapped bundles in his bag holding 1,009.1 grams of cannabis. [@2] He told the court he did not know what the bundles were and said officers had threatened him, but the High Court found his testimony inconsistent while the officers' corroborating accounts were supported by CCTV footage. [@2] The Court of Appeal upheld the conviction and sentence on 12 October 2021, later applications were all dismissed or resolved, and his petitions to the President for clemency were unsuccessful. [@2]
 
 ## Protests
 
