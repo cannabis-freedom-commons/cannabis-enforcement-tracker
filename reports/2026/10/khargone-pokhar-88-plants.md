@@ -42,6 +42,10 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: Over 1000 cannabis plants weighing 561 kg and valued at Rs 80 lakh seized in two operations in Khargone district, three arrested
+    url: https://timesofindia.indiatimes.com/city/indore/over-1000-cannabis-plants-weighing-561-kg-and-valued-at-rs-80-lakh-seized-in-two-operations-in-khargone-district-three-arrested/articleshow/135410717.cms
+    publisher: The Times of India
+    date: 2026-11-01
 open_questions:
   - Amar Ujala dates the informer's tip to 30 October but gives no separate date for the raid; Dainik Bhaskar says the field was raided on Saturday, 31 October.
   - No area was given for the field, and no report says whether the uprooted plants were later destroyed.
@@ -53,6 +57,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said Mohan was on remand and being questioned about the cultivation and its supply network.'
   - Patrika lists six category weights that add up to 106.4 kg, not the 102.25 kg total it reports; the report keeps the 102.25 kg figure given by every outlet.
   - Patrika's text closely repeats Nai Dunia's already-cited account, so the two are not independent; Dainik Bhaskar provides separate confirmation.
+  - The Times of India spells the cultivator Mohan Sisodia and the police unit Balakawada, while the existing report uses Sisodiya and Balkwara.
 media:
   - kind: photo
     url: https://www.patrika.com/khargone-news/illegal-ganja-farming-88-plants-102-kg-seized-21020873
@@ -63,15 +68,15 @@ media:
 
 Police in Khargone district, Madhya Pradesh, arrested 58-year-old farmer Mohan,
 son of Gulabsingh Sisodiya, at his field in Pokhar village. [@2,3] He was accused
-of growing cannabis among his cotton crop. [@2,3] Mohan tried to run when the
+of growing cannabis among his cotton crop. [@2,3,5] Mohan tried to run when the
 police team reached the field, but officers surrounded him and caught him. [@1]
 Officers searched the field in the presence of villagers and found green
 cannabis plants at different places among the cotton. [@2,3] Police seized 88
-green plants from the field. [@2,3] The plants were pulled up by the roots before
+green plants from the field. [@2,3,5] The plants were pulled up by the roots before
 being seized. [@2,4]
 
 The plants weighed 102 kg 250 g, and police estimated their value at about 10
-lakh rupees. [@1,3] Police registered case number 344/2026 against Mohan at
+lakh rupees. [@1,3,5] Police registered case number 344/2026 against Mohan at
 Balkwara police station under Sections 8/20 of the Narcotic Drugs and
 Psychotropic Substances Act, India's drug law. [@1]
 

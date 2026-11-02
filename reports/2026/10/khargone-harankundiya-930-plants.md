@@ -48,6 +48,10 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-01
     language: hi
+  - title: Over 1000 cannabis plants weighing 561 kg and valued at Rs 80 lakh seized in two operations in Khargone district, three arrested
+    url: https://timesofindia.indiatimes.com/city/indore/over-1000-cannabis-plants-weighing-561-kg-and-valued-at-rs-80-lakh-seized-in-two-operations-in-khargone-district-three-arrested/articleshow/135410717.cms
+    publisher: The Times of India
+    date: 2026-11-01
 open_questions:
   - The Mediawala page reports both Khargone operations together and gives combined totals of 1,018 plants, 561 kg 850 g and three arrests; the second operation, the 88-plant Pokhar seizure of 30 October, is covered by a separate report and is not counted here.
   - No area was given for the three fields, and the reports do not say whether the uprooted plants were destroyed after seizure.
@@ -55,14 +59,18 @@ open_questions:
   - The exact site of the fields in Harankundiya and Haranmal was not published; the coordinates are for Khargone district.
   - Both accounts rest on the police briefing by Sub-Divisional Police Officer Ketan Adlak; no independent witness account was found.
   - The three photographs on the Mediawala page carry no caption or credit, so which field each shows is not stated.
+  - The Times of India spells the names Mohan Waskale, Sujan Chauhan, Harnamal, Balakawada and Mohan Sisodia, while the existing reports use Vaskale, Haranmal, Balkwara and Sisodiya; the people, places and figures identify the same events.
+  - The article gives combined totals of 1,018 plants, 561.85 kg and Rs 78.93 lakh for both operations together; each operation remains counted only in its own report.
+  - The Times of India dates the Pokhar raid to Oct 30 and published on Nov 01, while the Pokhar report notes the tip was dated 30 October and one outlet dated the raid to 31 October.
+  - The three page photos repeat the headline as caption with no credit or description of what each shows, so no new media entry is added.
 ---
 
 Police arrested Mohan Vaskale and Sadu Solanki, both residents of Harankundiya,
-a village in Khargone district, Madhya Pradesh. [@1] A third man from Haranmal,
-Sujan Chauhan, was named in a separate case and was still being sought. [@1] The
+a village in Khargone district, Madhya Pradesh. [@1,3] A third man from Haranmal,
+Sujan Chauhan, was named in a separate case and was still being sought. [@1,3] The
 arrests followed raids on three cannabis fields in Harankundiya and Haranmal on
 the afternoon of Saturday 31 October 2026. [@2] Officers seized 930 plants,
-weighing 459 kg 600 g, and valued them at 68 lakh 93 thousand rupees. [@1]
+weighing 459 kg 600 g, and valued them at 68 lakh 93 thousand rupees. [@1,3]
 Police registered three separate cases under the Narcotic Drugs and Psychotropic
 Substances Act, India's drug law, one against each of the three men. [@1] The
 two arrested men were sent to jail. [@2]
@@ -79,4 +87,3 @@ river, hill and difficult paths. [@2] Uprooting, carrying and seizing the plants
 took about six hours. [@2] The operation was part of a state-level
 anti-narcotics campaign that the police headquarters in Bhopal is running from
 27 October to 10 November. [@2]
-
