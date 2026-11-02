@@ -28,6 +28,11 @@ sources:
     publisher: Dhaka Mail
     date: 2026-10-31
     language: bn
+  - title: ব্রাহ্মণবাড়িয়ায় ১৬ কেজি গাঁজাসহ মাদক কারবারি গ্রেফতার
+    url: https://www.dailykaratoa.com/article/189287
+    publisher: Daily Karatoa
+    date: 2026-10-31
+    language: bn
 open_questions:
   - Only one source for this event could be opened, so the account rests on the Dhaka Mail report and the police statements quoted in it.
   - No independent weighing, street value, charge, or court outcome was reported, and police said preparation of a new case was under way.
@@ -35,17 +40,16 @@ open_questions:
 
 Police in Brahmanbaria town arrested 60-year-old alleged drug dealer Delowar
 Hossain, known as Dilu, after recovering 16 kg of ganja held in his possession.
-[@1] Officers detained him at midday on Saturday 31 October in the Uttar Mourail
-Pukurpar area of the district town, where he is a resident. [@1] Members of
+[@1,2] Officers detained him at midday on Saturday 31 October in the Uttar Mourail
+Pukurpar area of the district town, where he is a resident. [@1,2] Members of
 Police Outpost No. 2 carried out the operation after receiving secret
 information about drug dealing in Uttar Mourail. [@1] During the raid, police
 recovered the 16 kg of ganja from several sacks in Dilu's custody and arrested
-him over that recovery. [@1]
+him over that recovery. [@1,2]
 
 Sadar Model Police Station officer-in-charge Khairul Alam said drug dealing in
 Uttar Mourail of the town had been alleged for a long time. [@1] Police
 described Dilu as an identified drug dealer and said five earlier drug cases had
 already been brought against him. [@1] Police said preparation of a new case
-over this seizure was under way. [@1] Police said operations to recover
+over this seizure was under way. [@1,2] Police said operations to recover
 narcotics would continue. [@1]
-
