@@ -39,6 +39,10 @@ sources:
     url: https://www.inquirer.com/news/raymond-rc-horsch-federal-investigation-plea-deal-2009-20261028.html
     publisher: The Philadelphia Inquirer
     date: 2026-10-28
+  - title: R.C. Horsch provided feds info about child prostitution and drugs, newly unsealed documents show
+    url: https://6abc.com/post/rc-horsch-provided-feds-information-child-prostitution-drug-trafficking-documents-show/19996003/
+    publisher: 6abc Philadelphia
+    date: 2026-10-29
 open_questions:
   - The sources give only 2012 for the sentencing; the exact date of the sentencing hearing is not stated.
   - One Inquirer account said Horsch faced a 15-year minimum, while other reports cite a 20-year mandatory minimum; the report uses 20 years.
@@ -48,6 +52,7 @@ open_questions:
   - 'Left out, as its quotation was not found in The Philadelphia Inquirer: On 22 July 2009, a woman in Raymond “R.C.” Horsch’s Chalfont, Pennsylvania, home called 911 to report an intruder.'
   - 'Left out, as its quotation was not found in The Philadelphia Inquirer: They found 455 marijuana plants and two sawed-off shotguns.'
   - 'Left out, as its quotation was not found in The Philadelphia Inquirer: The case was referred for federal prosecution, and he was charged in December 2009 with possession with intent to distribute and firearms offenses.'
+  - 6abc describes the federal plea as possession of more than 100 marijuana plants with intent to distribute and two firearms offences, while the report's text says Horsch pleaded guilty to manufacturing marijuana and illegal gun possession.
 ---
 
 Officers found no intruder and discovered an indoor marijuana grow in the
@@ -60,12 +65,13 @@ police found an illegal marijuana grow operation. [@1] He pleaded guilty to
 manufacturing marijuana and illegal gun possession, charges that carried a
 20-year mandatory minimum. [@2] Court records put the plants’ weight at 89.3
 pounds (about 40.5 kg). [@3] In 2012, U.S. District Judge R. Barclay Surrick
-sentenced Horsch to 54 months in prison. [@2] He was released in June 2013. [@5]
+sentenced Horsch to 54 months in prison. [@2,6] He was released in June 2013. [@5]
 
 Prosecutors asked the judge to waive the mandatory minimum after Horsch provided
 information about “crimes against minors, including child prostitution,
 marijuana and cocaine trafficking, and fraud.” [@2] They said the information
-was credible and reliable but too old to be useful in a prosecution. [@2] The
+was credible and reliable but too old to be useful in a prosecution. [@2,6] The
 government later acknowledged that his information did not lead to further
 prosecutions. [@3]
 
+Horsch forfeited the weapons and his Chalfont home as part of his sentence. [@6]
