@@ -43,28 +43,36 @@ sources:
     url: https://www.socialnews.xyz/2026/11/01/drugs-worth-rs-13-crore-seized-at-ahmedabad-airport-two-held/
     publisher: Social News XYZ
     date: 2026-11-01
+  - title: बैंकॉक से आए यात्रियों के बैग से 13 करोड़ का गांजा जब्त, अहमदाबाद एयरपोर्ट पर मचा हड़कंप
+    url: https://thecsrjournal.in/bangkok-passengers-drugs-seized-ahmedabad-airport-hindi
+    publisher: The CSR Journal
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
   - The same airport saw separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg), different events left out here.
   - The page's only image is explicitly labelled as AI-generated for representational purposes and does not show the event, so no event photo can be linked from this source.
+  - The submitted page gives only its publication date of 1 November 2026 and no separate time for the interception.
+  - The submitted page does not name the two passengers, give their ages or Surat residence, or give the flight number TG-343 reported in other sources for the same event.
+  - The page's only image is captioned only as Drugs with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
 detailed manual examination. [@1,2] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2] Customs estimated the haul, a higher-potency
-soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4]
+term for cannabis. [@1,2,5] Customs estimated the haul, a higher-potency
+soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
