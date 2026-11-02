@@ -35,6 +35,10 @@ sources:
     url: https://www.lex18.com/videos/news/covering-kentucky/kentucky-woman-arrested-after-37-lbs-of-packaged-marijuana-delivered-to-home
     publisher: LEX 18 News
     date: 2026-10-31
+  - title: Clark County Sheriff’s Office plays active role in the arrest of suspect charged with drug trafficking and cultivation
+    url: https://www.newsbreak.com/the-winchester-sun-1672960/4977076992088-clark-county-sheriff-s-office-plays-active-role-in-the-arrest-of-suspect-charged-with-drug-trafficking-and-cultivation
+    publisher: The Winchester Sun
+    date: 2026-10-30
 open_questions:
   - The reports do not say whether the 136 pounds (61.7 kg) of marijuana seized includes the 37-pound (16.8 kg) mailed package.
   - No court date, plea, lawyer or outcome is reported.
@@ -52,11 +56,11 @@ open_questions:
 Clark County deputies arrested Kristina Combs on Thursday 29 October 2026 after
 she signed for a 37-pound (16.8 kg) package of marijuana delivered to her home.
 [@2,3,4] The package had been intercepted by Lexington police and was addressed to
-the home in Clark County, Kentucky. [@1] Officers from the Gateway Area Drug
+the home in Clark County, Kentucky. [@1,5] Officers from the Gateway Area Drug
 Task Force, the Clark County Sheriff's Office and Mount Sterling police
 delivered it themselves, and Combs signed for it. [@1,3] Officers then executed a
-search warrant at the address. [@1,3] She was charged with trafficking marijuana,
-cultivation of marijuana and trafficking a hallucinogen. [@1,3]
+search warrant at the address. [@1,3,5] She was charged with trafficking marijuana,
+cultivation of marijuana and trafficking a hallucinogen. [@1,3,5]
 
 The sheriff's office said officers seized 136 pounds (61.7 kg) of marijuana, 36
 marijuana plants and more than 5,000 THC vapes. [@1,3] They also seized 1.4 pounds
