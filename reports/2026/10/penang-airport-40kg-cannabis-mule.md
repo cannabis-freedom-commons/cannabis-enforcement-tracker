@@ -1,0 +1,62 @@
+---
+date: 2026-10-18
+country: my
+place: Penang International Airport, Bayan Lepas
+coordinates: [5.297, 100.277]
+precision: exact
+type: arrest
+also: [seizure]
+title: Man held at Penang airport with 40 kg of cannabis buds
+summary: >-
+  Police arrested a 28-year-old man from Miri at Penang International Airport on 18 October 2026 with about 40 kg of suspected cannabis buds in two bags. Police valued the drugs at RM3.2 million and said he was paid RM9,000 as a mule to carry them to London.
+figures:
+  arrested: 1
+  kg_seized: 40
+  value:
+    amount: 3200000
+    currency: MYR
+media:
+  - kind: photo
+    url: https://www.tvsarawak.my/2026/11/02/keldai-dadah-ditahan-di-lapangan-terbang-bawa-40-kg-bunga-ganja/
+    media_url: https://s3.tvstv.my/wp-content/uploads/2026/11/dadah-miri.jpg-e1793609658108.jpeg
+    publisher: TVS
+    caption: Penang police chief showing seized drugs at a press conference at the Penang police headquarters in George Town. Photo, TVS.
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 93d95bb1d2f916a244ecc65ee9f6d089
+tags: [penang, airport, drug-mule, london]
+sources:
+  - title: Keldai dadah ditahan di lapangan terbang bawa 40 kg bunga ganja
+    url: https://www.tvsarawak.my/2026/11/02/keldai-dadah-ditahan-di-lapangan-terbang-bawa-40-kg-bunga-ganja/
+    publisher: TVS
+    date: 2026-11-02
+    language: ms
+  - title: Lelaki ditahan di LTAPP cuba seludup ganja bernilai RM3.2 juta
+    url: https://www.astroawani.com/berita-malaysia/lelaki-ditahan-di-ltapp-cuba-seludup-ganja-bernilai-rm32-juta
+    publisher: Astro Awani
+    date: 2026-11-02
+    language: ms
+open_questions:
+  - No court outcome beyond the 19-31 October remand was reported.
+  - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
+  - The press-conference photo caption refers to seized drugs generally, so whether the pictured display shows only this cannabis seizure is not established.
+---
+
+Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
+on 18 October 2026 while he waited for a flight at Gate B1 of Penang
+International Airport in Bayan Lepas. [@1] Officers from police together with
+the Royal Malaysian Customs Department found the drugs inside two pieces of
+luggage he was carrying. [@1]
+
+The luggage held about 40 kilograms of suspected cannabis buds. [@1] Police
+valued the cannabis at RM3.2 million and said the man was acting as a drug mule
+tasked with carrying it to London. [@2] The man had arrived in Penang only two
+days earlier, said he was acting on another person's instructions, and was
+promised RM9,000 for the trip in what police believed was his first cross-border
+air-trafficking attempt. [@2]
+
+A urine screening found him positive for amphetamine and methamphetamine, and a
+records check found two prior crime-related records. [@1] He was remanded for 13
+days from 19 to 31 October for investigation under Section 39B of the Dangerous
+Drugs Act 1952. [@1]
+
