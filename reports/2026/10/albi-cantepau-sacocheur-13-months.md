@@ -34,6 +34,11 @@ sources:
     publisher: La Dépêche du Midi
     date: 2026-10-31
     language: fr
+  - title: 'Tarn - Trafic de drogue à Albi : un suspect condamné à 13 mois de prison ferme'
+    url: https://www.lasemainedespyrenees.fr/tarn-trafic-de-drogue-a-albi-un-suspect-condamne-a-13-mois-de-prison-ferme/
+    publisher: La Semaine des Pyrénées
+    date: 2026-11-02
+    language: fr
 open_questions:
   - Neither article names the man, the court that sentenced him, or the offence he was convicted of.
   - Neither article gives the date of the sentencing hearing; 30 October 2026, the publication date, is used as the incident date, while the arrest was on 27 October.
@@ -43,6 +48,7 @@ open_questions:
   - The only images are an Adobe Stock illustration on Le Tarn libre and an archive photo credited to JDI (Archives RL); neither could be confirmed as showing this seizure, so no media is listed.
   - The supplied La Dépêche text ends at a subscriber wall, leaving its detailed seizure account unavailable in the capture.
   - La Dépêche rounds the cash to nearly €900; the existing report's detailed account gives €880.
+  - Whether the page's photo captioned as an interpellation in Cantepau shows this 27 October operation is not established by its caption, so no media entry is added.
 media:
   - kind: photo
     url: https://www.ladepeche.fr/2026/10/31/trafic-de-drogue-a-albi-interpelle-avec-pres-de-900-euros-et-plusieurs-centaines-de-grammes-de-stupefiants-il-ecope-de-13-mois-de-prison-ferme-13628360.php
@@ -54,10 +60,10 @@ media:
 A police surveillance operation in the Cantepau priority neighbourhood of Albi
 on Tuesday 27 October 2026 uncovered drug-trafficking activity and led the
 anti-crime brigade (BAC) to arrest a man suspected of acting as a "sacocheur".
-[@1,3] In French drug cases the term describes an intermediary who carries money
+[@1,3,4] In French drug cases the term describes an intermediary who carries money
 or drugs for a network. [@1] At the time of his arrest he was carrying €880 in
 cash, 10 g of cocaine, 43.5 g of cannabis resin and 16 g of herbal cannabis.
-[@1]
+[@1,4]
 
 A search of his accommodation found another 81 g of cannabis resin. [@1] A
 second search at the address given as his supplier's found 23 g of cocaine, 33.6
@@ -66,5 +72,5 @@ g of cannabis resin and 174 g of herbal cannabis. [@1] In total, police seized
 cash. [@1] Le Journal d'Ici put the total at more than 380 g of drugs. [@2]
 
 Placed in police custody and then brought before a court, the man was sentenced
-to 13 months in prison. [@1] He was taken to the maison d'arrêt in Albi, the
-local remand prison. [@1]
+to 13 months in prison. [@1,4] He was taken to the maison d'arrêt in Albi, the
+local remand prison. [@1,4]
