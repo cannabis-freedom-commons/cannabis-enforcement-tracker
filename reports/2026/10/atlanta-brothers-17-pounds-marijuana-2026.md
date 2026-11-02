@@ -22,30 +22,35 @@ sources:
     url: https://www.fox5atlanta.com/news/brothers-face-drug-charges-after-17-pound-marijuana-bust
     publisher: FOX 5 Atlanta
     date: 2026-10-28
+  - title: Atlanta police arrest brothers accused of marijuana trafficking
+    url: https://www.yahoo.com/news/articles/atlanta-police-arrest-brothers-accused-195714459.html
+    publisher: Yahoo News
+    date: 2026-11-01
 open_questions:
   - The source says the warrant was executed on a Thursday without giving a calendar date; 22 October 2026 is the Thursday before the 28 October 2026 publication and is used as the incident date.
   - Officials had not confirmed whether additional suspects were tied to the operation or whether the apartment was being used as a primary distribution hub.
   - The FOX 5 page displays a photo credited to the Atlanta Police Department showing seized marijuana, but no direct image address could be recovered, so no media entry is listed.
   - Only one full source could be opened; the submitted WSB page returned Error 451 in this location and could not supply quotations.
+  - The Yahoo/WSB account says the search warrant was executed Oct. 1 while the existing report uses 22 October 2026 from the FOX 5 account's Thursday reference, so the exact raid date remains unresolved.
+  - No media entry is listed because the capture provides no recoverable direct event photo address; its Open Graph image is a Yahoo default logo and its video was unavailable in this region.
 ---
 
 Atlanta police arrested brothers Matthew and Justin Burch after executing a
-search warrant at 500 Northside Circle NW. [@1] Officers knocked, announced
+search warrant at 500 Northside Circle NW. [@1,2] Officers knocked, announced
 their presence, and ordered everyone inside to step out as additional officers
 established a perimeter. [@1] Matthew Burch and Justin Burch exited the unit and
 officers took them into custody without incident. [@1] Officers transported both
-men to the Fulton County Jail. [@1]
+men to the Fulton County Jail. [@1,2]
 
 Units with the Zone 2 Crime Suppression Unit executed a search warrant Thursday
 at 500 Northside Circle NW, according to the City of Atlanta Police Department.
-[@1] The team operated alongside K-9 units, Auto Crimes Enforcement, and an APEX
+[@1,2] The team operated alongside K-9 units, Auto Crimes Enforcement, and an APEX
 drone. [@1] Inside the apartment, officers recovered $6,637 in cash, two
-firearms, and roughly 17 pounds of suspected marijuana. [@1] Investigators also
+firearms, and roughly 17 pounds of suspected marijuana. [@1,2] Investigators also
 located digital scales and commercial packaging materials. [@1]
 
 Authorities charged both brothers with trafficking in marijuana, possession of
 marijuana with intent to distribute, possession of a firearm during the
-commission of a felony, and possession of drug-related objects. [@1] The
+commission of a felony, and possession of drug-related objects. [@1,2] The
 information in this story was gathered from the City of Atlanta Police
 Department, which detailed the raid and charges in a statement. [@1]
-
