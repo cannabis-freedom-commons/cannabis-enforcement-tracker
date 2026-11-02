@@ -25,16 +25,21 @@ sources:
     url: https://telegraph.ng/news/2026/11/01/ndlea-arrests-two-europe-bound-nigerians-with-cocaine-at-abuja-airport/
     publisher: The Telegraph Nigeria
     date: 2026-11-01
+  - title: Two Europe-Based Nigerian 'Businessmen' Arrested At Abuja Airport After Swallowing 200 Cocaine Wraps | Sahara Reporters
+    url: https://saharareporters.com/2026/11/01/two-europe-based-nigerian-businessmen-arrested-abuja-airport-after-swallowing-200
+    publisher: Sahara Reporters
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
   - The exact origin on the Island and destination on the Mainland were not given.
   - The sources' photographs could not be verified as showing these interceptions, so no media entry was added.
+  - The source page carries photos captioned only NDLEA whose content could not be verified as showing the Lagos bus interceptions, so no media entry was added.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3]
 
 ## The announcement
 
