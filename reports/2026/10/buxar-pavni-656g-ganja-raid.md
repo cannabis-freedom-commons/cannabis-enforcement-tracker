@@ -32,6 +32,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-10-30
     language: hi
+  - title: 'Buxar News: पवनी में एक घर से गांजा बरामद, धंधेबाज फरार'
+    url: https://www.livehindustan.com/bihar/buxar/story-police-seize-656-5-grams-of-cannabis-and-30-890-in-chausa-raid-201793370988889.html
+    publisher: Hindustan
+    date: 2026-10-30
+    language: hi
 open_questions:
   - Only Buxar Khabar could be opened; no police statement or second outlet was found.
   - The article gives Thursday for the raid and Friday for the court production, and was published on Friday 30 October 2026, so the raid is dated 29 October 2026.
@@ -40,6 +45,9 @@ open_questions:
   - The 30,890 rupees is cash seized from the house, not a valuation of the ganja, so it is not recorded as value. The headline rounds that cash to 30,000 rupees.
   - Prabhat Khabar gives the ganja weight as 656.6 grams; the existing report records 656 grams.
   - The source does not connect any of the 11 district-wide arrests to the Pavni ganja seizure.
+  - Hindustan names the fleeing trader as Rajeshwar Sah, the son of Yogendra Sah, while Buxar Khabar and the existing report name Yogendra Sah himself; the accounts do not reconcile the two.
+  - Hindustan reports one chillum seized, while Buxar Khabar and Prabhat Khabar reported 18 clay chillums.
+  - Hindustan gives the ganja weight as 656.5 grams; the existing report records 656 grams and Prabhat Khabar reported 656.6 grams.
 ---
 
 Mufassil police station officers in Buxar raided the house of Yogendra Sah of
@@ -48,8 +56,8 @@ cannabis. [@1] Sah had already left the house before the team arrived. [@1]
 Station house officer Shambhu Bhagat said police were still searching for him
 and would arrest him soon. [@1] An FIR was registered the same Thursday. [@1]
 
-Officers recovered 656 grams of ganja kept in two packets of polythene. [@1,2]
-They also seized 30,890 rupees from the house. [@1] Eighteen clay chillums,
+Officers recovered 656 grams of ganja kept in two packets of polythene. [@1,2,3]
+They also seized 30,890 rupees from the house. [@1,3] Eighteen clay chillums,
 pipes used to smoke cannabis, were taken as well. [@1] The ganja was produced
 before a court on Friday. [@1]
 
