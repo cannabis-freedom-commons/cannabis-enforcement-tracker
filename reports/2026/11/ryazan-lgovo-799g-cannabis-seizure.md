@@ -26,27 +26,32 @@ sources:
     publisher: АиФ Рязань
     date: 2026-11-02
     language: ru
+  - title: В Рязанском округе у сельчанина изъяли 799 граммов конопли
+    url: https://ya62.ru/text/criminal/2026/11/02/76740146/
+    publisher: Я62.ру
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The articles give only the 2 November 2026 publication date and no separate date for the search and seizure, so the publication date is used as the incident date.
   - Headlines round the seizure to about 800 grams while the expert result is 799 grams; the report uses 799 grams.
   - No detention, arrest count or pretrial measure is stated in the opened accounts.
   - The RyazPressa lead image is captioned as a publisher archive photo and the Aif-Ryazan image is stock, so no media entry is added.
   - Both accounts relay the regional police account without independent witnesses.
+  - The page displays a photo credited to Dmitry Yemelyanov / E1.RU, so it is not established to show this Lgovo search and no media entry is added.
 ---
 
 Drug-control officers and Ryazansky district police acted against a 41-year-old
-district resident over suspected illegal cannabis trafficking. [@2] The man
+district resident over suspected illegal cannabis trafficking. [@2,3] The man
 lives in the village of Lgovo and had previously been convicted of illegal drug
-possession and intentionally causing bodily harm. [@1]
+possession and intentionally causing bodily harm. [@1,3]
 
 Officers searching his household found a box of cannabis in an outbuilding
-hidden among buckets of vegetables and fruit. [@1] An expert examination
-identified the seized substance as cannabis weighing 799 grams. [@2] Police say
+hidden among buckets of vegetables and fruit. [@1,3] An expert examination
+identified the seized substance as cannabis weighing 799 grams. [@2,3] Police say
 he grew several cannabis bushes on his household plot in summer, then cut and
 dried them for later processing and personal use. [@2]
 
 An investigator opened a criminal case against him under part 2 of Article 228
 for illegal acquisition and storage of drug-containing plants on a large scale.
-[@2] The investigation was continuing and no court outcome had been reported.
+[@2,3] The investigation was continuing and no court outcome had been reported.
 [@2]
-
