@@ -97,6 +97,10 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-01
     language: hi
+  - title: 'MP: Drones help Dhar police uncover cannabis cultivation worth Rs 25 cr; four held'
+    url: https://www.rediff.com/news/commentary/2026/oct/31/mp-drones-help-dhar-police-uncover-cannabis-cultivation-worth-rs-25-cr-four-held/6c7227848b7b21f28702e1e72b114aa0
+    publisher: Rediff.com
+    date: 2026-10-31
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -123,20 +127,20 @@ and Psychotropic Substances Act. [@3,6]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
 pea and cotton on the farms. [@1] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3,6,7] Police estimated the market value at about Rs
-25 crore. [@2,6,7] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+about 67 quintals (6,700 kg). [@3,6,7,8] Police estimated the market value at about Rs
+25 crore. [@2,6,7,8] Lalluram put the value at Rs 24 crore. [@1] It took police teams
 about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
 part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.
 [@3] The plants were about 15 days from harvest, police said. [@3]
 
-The raids were part of Operation Prahar. [@1,2,6,7] The operation is a district
+The raids were part of Operation Prahar. [@1,2,6,7,8] The operation is a district
 campaign against illegal cannabis cultivation. [@4] It was led by Superintendent
 of Police Sachin Sharma. [@1] Additional Superintendent of Police Vijay Dawar
-said police used drones to survey forests, hills and fields. [@2] The operation
+said police used drones to survey forests, hills and fields. [@2,8] The operation
 covered Manawar, Mandav, Gandhwani, Bagh and Tanda in southern Dhar district.
-[@2] Dawar said it began on Friday 30 October and continued until Saturday
-evening. [@2]
+[@2,8] Dawar said it began on Friday 30 October and continued until Saturday
+evening. [@2,8]
 
 Police seized 4,390 cannabis plants from three locations in Badiya village. [@5]
 
