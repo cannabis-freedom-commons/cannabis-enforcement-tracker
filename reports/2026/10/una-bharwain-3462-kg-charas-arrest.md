@@ -19,6 +19,11 @@ media:
     media_url: https://img.punjabkesari.in/multimedia/914/0/0X0/0/static.punjabkesari.in/2026_11image_17_42_250092860arrested7-ll.jpg
     publisher: Punjab Kesari (Himachal)
     caption: 'Lead photo on Punjab Kesari''s report of the Bharwain arrests, captioned ''chintpurni charas arrested''. Photo: Punjab Kesari'
+  - kind: photo
+    url: https://himachaldastak.com/una-bharwain-police-seize-charas-two-youths-arrested/
+    media_url: https://i0.wp.com/himachaldastak.com/wp-content/uploads/2026/11/6.jpg?resize=1024%2C514&ssl=1
+    publisher: Himachal Dastak
+    caption: Photo on the Himachal Dastak report of the Bharwain arrests, captioned with two youths held with 3.462 kg of charas.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8311ba008ffe5a92aec2874d885b8a83
@@ -39,22 +44,28 @@ sources:
     publisher: News4Himachal
     date: 2026-11-01
     language: hi
+  - title: 'ऊना : बाइक पर जा रहे दो युवक 3.462 किलो चरस के साथ गिरफ्तार, डिजिटल तराजू भी बरामद'
+    url: https://himachaldastak.com/una-bharwain-police-seize-charas-two-youths-arrested/
+    publisher: Himachal Dastak
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Punjab Kesari gives the second suspect's name as Rahul Bhatol and quotes a deputy superintendent saying a third suspect is absconding; the other reports name only Rahul and describe two arrests.
   - No value was put on the 3.462 kg of charas, and no court date or charge sheet has been reported.
   - News4Himachal's headline describes the charas as worth lakhs but gives no figure.
   - Police did not say where the charas was produced or where it was being taken.
+  - The submitted source gives the second suspect's full name as Rahul Bhatol of Babehad, while the existing report shortens it to Rahul.
 ---
 
 Two men on a motorcycle were stopped near the Shiv temple in Bharwain late on 31
-October 2026, Una district police said. [@2] Police identified them as
+October 2026, Una district police said. [@2,4] Police identified them as
 Chandramohan Sharma, of Ward 1 in Marwari, and Rahul, of Babehar, both in Tehsil
-Ghanari of Una district. [@1] Sharma, who was riding, carried a shoulder bag
+Ghanari of Una district. [@1,4] Sharma, who was riding, carried a shoulder bag
 with 3.462 kg of charas, a cannabis resin, and a digital weighing scale, police
-said. [@1]
+said. [@1,4]
 
-Both men were arrested. [@1] A case was registered against them under the
-Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1] Una Superintendent
+Both men were arrested. [@1,4] A case was registered against them under the
+Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,4] Una Superintendent
 of Police Sachin Hiremath said the district force was running a special campaign
 under a zero-tolerance policy on drugs. [@1] Deputy Superintendent of Police
 Anil Patiyal of Amb said the two were in custody and a third suspect was
@@ -66,4 +77,3 @@ as happening late on 31 October, after a tip that a consignment was being moved
 by motorcycle in the area. [@3] Hiremath appealed to residents to pass on
 information about drug trafficking, saying informants' identities would be kept
 confidential. [@1]
-
