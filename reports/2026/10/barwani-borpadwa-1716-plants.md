@@ -21,6 +21,16 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/01/3649f519-0e6b-4778-a020-880aa9991e08_1793523280778/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video report on the drone-assisted search of the field at Borpadwa and the seizure of 1,716 cannabis plants, captioned with the police estimate of about 41 lakh rupees. Video: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/barwani-police-operation-green-strike-cannabis-cultivation-busted-seize-illegal-1716-trees-mps26110200977
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/02-11-2026/1200-675-28015504-thumbnail-16x9-barwaanii.jpg
+    publisher: ETV Bharat
+    caption: ETV Bharat photo captioned 'barwani 4 quintals ganja seized' on the Borpadwa raid report.
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/barwani-police-operation-green-strike-cannabis-cultivation-busted-seize-illegal-1716-trees-mps26110200977
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/02-11-2026/28015504_bwani1.jpg
+    publisher: ETV Bharat
+    caption: ETV Bharat photo captioned 'barwani ganja kheti raids' on the Borpadwa raid report.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 50198cbec321dbc62541c15206e5a78b
@@ -61,6 +71,11 @@ sources:
     publisher: MP Breaking News
     date: 2026-11-01
     language: hi
+  - title: बड़वानी में गांजे की खुल्लम-खुल्ला खेती! ऐसे पड़ी पुलिस की नजर, 41 लाख का माल जब्त
+    url: https://www.etvbharat.com/hi/state/barwani-police-operation-green-strike-cannabis-cultivation-busted-seize-illegal-1716-trees-mps26110200977
+    publisher: ETV Bharat
+    date: 2026-11-02
+    language: hi
 open_questions:
   - No area was given for the field, and no report says whether the seized plants were destroyed or kept as evidence.
   - No one had been named or arrested, and no court step beyond the registration of the case was reported.
@@ -79,15 +94,16 @@ open_questions:
   - The submitted page gives a combined total of 1,753 plants weighing 4 quintals 28 kg 840 g and valued at Rs 41.98 lakh for both raids, while the existing report scopes to the Borpadwa raid's 1,716 plants, 419 kg and about Rs 41 lakh.
   - The submitted page also describes the same-day Silawad police raid at Kajalmata village with 37 plants weighing 9.84 kg and valued at about Rs 98,000, which the existing report explicitly leaves out as a separate event.
   - The page's only image caption reads Barwani News and does not establish that it shows this seizure, so no media entry is made.
+  - The ETV Bharat article says the informer's tip arrived on 31 October 2026 and describes the raid as on Sunday, while the existing report dates the event to 31 October 2026 from earlier coverage.
 ---
 
 Warla police in Barwani district, Madhya Pradesh, seized 1,716 green cannabis
-plants from a field at Borpadwa village. [@1,4,6,7] The person accused of growing the
+plants from a field at Borpadwa village. [@1,4,6,7,8] The person accused of growing the
 crop was absconding, and police reported no arrest. [@1,5] Sendhwa sub-divisional
 police officer Ajay Waghmare disclosed the raid on Sunday 1 November. [@1]
 
-Police said the plants weighed 4 quintals 19 kg, or 419 kg. [@1,6,7] Police
-estimated their market value at about 41 lakh rupees. [@1,4,6,7] A case was registered
+Police said the plants weighed 4 quintals 19 kg, or 419 kg. [@1,6,7,8] Police
+estimated their market value at about 41 lakh rupees. [@1,4,6,7,8] A case was registered
 under Sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act,
 India's drug law. [@1,4] Amar Ujala dated the raid to 31 October 2026 and reported
 that Warla and Silawad police carried out separate raids that day. [@2] Its
@@ -105,5 +121,5 @@ instructions of superintendent of police in charge Vinod Singh and under SDOP
 Waghmare's guidance. [@3]
 
 The raid was part of Operation Green Strike, the district campaign against
-illegal narcotics cultivation. [@1,4,6,7] Police said the campaign would continue.
+illegal narcotics cultivation. [@1,4,6,7,8] Police said the campaign would continue.
 [@1]
