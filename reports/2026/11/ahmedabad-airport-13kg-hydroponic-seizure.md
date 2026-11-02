@@ -65,6 +65,11 @@ sources:
     url: https://ommcomnews.com/india-news/drugs-worth-rs-13-crore-seized-at-ahmedabad-airport-two-held/
     publisher: Ommcom News
     date: 2026-11-01
+  - title: अहमदाबाद एयरपोर्ट पर पकड़ी गई नशे की बड़ी खेप, 13 किलो हाइड्रोपोनिक गांजे के साथ दो गिरफ्तार, बैंकॉक से जुड़ा एक्शन - India TV Hindi
+    url: https://www.indiatv.in/gujarat/two-men-from-gujarat-arrested-at-ahmedabad-airport-with-13-kg-of-hydroponic-marijuana-2026-11-01-1252272
+    publisher: India TV Hindi
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -78,19 +83,23 @@ open_questions:
   - 'Left out, as its quotation was not found in Times Now: Inside the bags officers found 14 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi term for cannabis.'
   - Whether the page's lead image shows this seizure cannot be established from its empty caption and lack of credit, so no media entry is listed.
   - The article also mentions separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg) at the same airport, different events left out here.
+  - The article gives only its publication date of 1 November 2026 and no separate time for the interception.
+  - The Hindi spellings मोहम्मद अकील शेख and कनीज जहेरा मोमिन are transliteration variants of the Mohammed Akeel Sheikh and Kaniz Zahera Momin names in the existing report.
+  - The page's only image is captioned as a symbolic picture with PTI credit and does not show this seizure, so no media entry is listed.
+  - The page URL slug refers to two men while the article body reports one woman and one man from Surat; the body account is used for the match.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
 detailed manual examination. [@1,2,9] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
@@ -98,4 +107,4 @@ The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
-The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8]
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10]
