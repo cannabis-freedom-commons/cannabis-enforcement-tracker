@@ -48,6 +48,11 @@ sources:
     publisher: Habererk
     date: 2026-10-31
     language: tr
+  - title: Balıkesir'de polisin 2 narkotik operasyonunda 1 kilo 254 gram esrar ele geçirildi
+    url: https://www.sondakika.com/3-sayfa/haber-balikesir-de-polisin-2-narkotik-operasyonunda-1-ki-20382946/
+    publisher: Son Dakika
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no street, neighbourhood or time of day for the two operations, only the Balıkesir city centre.
   - The two suspects were not named, and no charge, court date or outcome was reported.
@@ -60,14 +65,14 @@ open_questions:
 ---
 
 Police in the Balıkesir city centre detained two people in two separate
-narcotics operations. [@1,3,4] The operations took place on 30 October 2026. [@2,3]
+narcotics operations. [@1,3,4,5] The operations took place on 30 October 2026. [@2,3]
 Both suspects were held in gözaltı, the police custody in which a person is kept
 for questioning while prosecutors decide whether to bring charges or release
 them. [@1] They were processed for manufacturing and trading narcotic
 substances. [@1,3]
 
 The searches turned up 1 kg 254 g of skunk, a high-potency cannabis preparation
-that Turkish police reports also call esrar. [@1,2,3] Officers also seized 61.84 g
+that Turkish police reports also call esrar. [@1,2,3,5] Officers also seized 61.84 g
 of liquid synthetic cannabinoid, known in Turkey as bonzai, 42 synthetic pills,
 7.06 g of powdered bonzai, 6.75 g of cannabis seed and 1.29 g of
 methamphetamine. [@1,2] A precision scale and a cannabis grinder were found as
