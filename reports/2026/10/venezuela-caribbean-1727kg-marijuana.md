@@ -1,5 +1,5 @@
 ---
-date: 2026-10-16
+date: 2026-10-13
 country: ve
 place: Caribbean Sea
 coordinates: [6.424, -66.590]
@@ -31,9 +31,16 @@ sources:
     publisher: El Nacional
     date: 2026-10-17
     language: es
+  - title: French Navy Seizes More Than 8.6 Tonnes of Drugs in Caribbean and Atlantic Operations
+    url: https://nexuseuropa.eu/en/article/french-navy-seizes-more-than-86-tonnes-of-drugs-in-caribbean-and-atlantic-operat
+    publisher: Nexus Europa
+    date: 2026-10-17
+  - title: French Navy Seizes 8.6 Tonnes of Drugs in Caribbean and Atlantic Operations
+    url: https://swedenherald.com/article/french-navy-seizes-86-tonnes-of-drugs-in-caribbean-and-atlantic-operations
+    publisher: Sweden Herald
+    date: 2026-10-17
 open_questions:
-  - Neither account gives a day for the boarding separate from the ministry statement published on 16 October 2026.
-  - The four people arrested are not named, and no boat type or exact position at sea is given.
+  - The four people arrested are not named, and no exact position at sea is given.
   - El Nacional’s picture is labelled an archive image, so no photo of this seizure is listed here.
   - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
 ---
@@ -48,3 +55,9 @@ kilograms of marijuana, 2,900.90 kilograms in all. [@1,2] The people arrested an
 placed at the disposal of the public prosecutor. [@1,2] The government thanked France for the naval
 help. [@2] The reports do not name the four people or say where in the Caribbean the boat was
 stopped. [@1,2]
+
+French accounts of the same interdiction say French forces stopped the Venezuelan fishing vessel
+on 13 October and handed the vessel, its crew and the seized cargo to the Venezuelan authorities
+for legal proceedings. [@3,4] They describe three October operations in which French vessels seized
+6.9 tonnes of cocaine and 1.7 tonnes of marijuana in total, with the Venezuelan boat's 166 bales
+holding both drugs. [@3,4]
