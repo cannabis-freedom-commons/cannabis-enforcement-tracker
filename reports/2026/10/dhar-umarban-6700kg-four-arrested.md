@@ -110,6 +110,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: मप्र के धार जिले में लहलहा रही थी गांजे की खेती, 25 करोड़ रुपये के 6700 किलो पौधे जब्त, 4 गिरफ्तार
+    url: https://www.yugwarta.com/Encyc/2026/10/31/MP-DHAR-6700-KG-CANNABIS-PLANTS-RS-25-CRORE-SEIZED.html
+    publisher: Yugvarta
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -126,20 +131,21 @@ open_questions:
   - ETV Bharat's wording closely matches the Zee News report, so the two accounts appear to draw on the same police briefing rather than independent reporting.
   - The English version says the action was carried out in the villages of Badiya and Mandawada in Umarban block, while the existing report uses Badiya Patelpura for the accused; the existing village-naming question remains.
   - The page shows two photos of the cannabis field and seizure that appear to republish the same police handout already listed from the Hindi Bhaskar version, so no new distinct media entry is added.
+  - The page carries two photos captioned as seized plants in trolleys and cannabis cultivation in fields, which appear to republish the same police handout already listed in the existing report, so no new distinct media entry is added.
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
-the Manawar area of Dhar district, Madhya Pradesh. [@4] The accused were Anil
+the Manawar area of Dhar district, Madhya Pradesh. [@4,11] The accused were Anil
 Mandloi, Malsingh alias Haresingh Mory, Sakharam Mory and Gulsingh Mandloi, all
-residents of Badiya Patelpura. [@3,6,10] Manawar station house officer Rajesh Yadav
+residents of Badiya Patelpura. [@3,6,10,11] Manawar station house officer Rajesh Yadav
 said the four were taken into police custody on the night of Saturday 31
 October. [@3,5,6] A case was registered against all four under the Narcotic Drugs
 and Psychotropic Substances Act. [@3,6,9]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
-pea and cotton on the farms. [@1,9,10] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3,6,7,8,9,10] Police estimated the market value at about Rs
-25 crore. [@2,6,7,8,9,10] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+pea and cotton on the farms. [@1,9,10,11] Police put the weight of the seized plants at
+about 67 quintals (6,700 kg). [@3,6,7,8,9,10,11] Police estimated the market value at about Rs
+25 crore. [@2,6,7,8,9,10,11] Lalluram put the value at Rs 24 crore. [@1] It took police teams
 about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
 part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.
