@@ -63,6 +63,11 @@ sources:
     publisher: Website Resmi Polres Ternate
     date: 2026-10-31
     language: id
+  - title: Ditresnarkoba Polda Malut Gagalkan Transaksi Ganja di Lukolamo, 23 Sachet Barang Bukti Disita
+    url: https://www.koranmalut.co.id/2026/10/ditresnarkoba-polda-malut-gagalkan.html
+    publisher: KORANMALUT.CO.ID
+    date: 2026-10-31
+    language: id
 open_questions:
   - No charge has been announced; the reports say MS was taken to the Ditresnarkoba office for examination and further legal process.
   - All three accounts carry the same police statement, so the details rest on one official version rather than independent reporting.
@@ -71,15 +76,16 @@ open_questions:
   - The reports name only Desa Lukolamo in Weda Tengah; the coordinates are for Lelilef Waibulan, a village in the same district, not the roadside arrest site.
   - The same Klikfakta article reports a separate methamphetamine case in Ternate, where a second man, GR (21), was arrested with 2.52 grams of sabu, or methamphetamine; that is a different event and is not covered here.
   - 'Left out, as its quotation was not found in RRI.co.id: In all, police seized 23 clip bags and one sachet of leftover ganja weighing 16.35 grams gross, a sheet of white tissue and the phone.'
+  - The page displays a lead photograph but gives no caption or credit identifying it as showing this seizure, so it is not listed as media.
 ---
 
 North Maluku's police narcotics directorate, Ditresnarkoba Polda Malut, arrested
 a 31-year-old man identified as MS alias SAL beside the road in Desa Lukolamo, a
 village in Weda Tengah district, Central Halmahera, on Friday 30 October 2026.
-[@1,2,6] Police said the case began with a public tip about suspected possession and
+[@1,2,6,7] Police said the case began with a public tip about suspected possession and
 distribution of ganja in the area. [@1,4] Officers posed as buyers and set up an
 undercover purchase, the police statement said. [@1,4] They ordered seven sachets
-of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1,4]
+of ganja, the Indonesian word for cannabis, for Rp 700,000. [@1,4,7]
 
 When MS arrived and handed over the seven sachets, the team detained him without
 resistance. [@1] A search of his jeans pocket found nine transparent clip bags
@@ -87,7 +93,7 @@ holding 5.23 grams gross of ganja and a green Oppo mobile phone. [@1] A search
 of his rented room found 14 small sachets and one medium sachet containing
 leftover ganja, 11.08 grams gross, in a backpack. [@1] In all, police seized 23
 clip bags and one sachet of leftover ganja weighing 16.35 grams gross, a sheet
-of white tissue and the phone. [@2,4,5]
+of white tissue and the phone. [@2,4,5,7]
 
 MS told officers he had brought 30 sachets from Ambon, bought from a friend
 identified as SS for Rp 500,000, and said they were for his own use. [@1] The
