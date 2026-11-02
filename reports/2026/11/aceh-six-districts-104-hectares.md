@@ -52,6 +52,11 @@ sources:
     url: https://www.indonesianow.co/news/8734689/indonesian-police-and-bnn-destroy-122-86-hectares-of-marijuana-fields
     publisher: IndonesiaNow (detikcom)
     date: 2026-11-02
+  - title: Tim Gabungan Musnahkan 122,86 Hektare Ladang Ganja di Sumut dan Aceh
+    url: https://bsinews.id/pemusnahan-ladang-ganja-sumut-aceh
+    publisher: Bsinews.id
+    date: 2026-11-02
+    language: id
 open_questions:
   - The Polda Aceh account names no owner, grower or suspect, and no court follow-up is known; the later Bareskrim recap names three suspects from the 27 October Lhokseumawe operation and a farmer suspect in East Aceh, with no trial reported.
   - No breakdown of area, plants or weight by district was published in the Polda Aceh account.
@@ -66,6 +71,9 @@ open_questions:
   - Sinata, Habapublik and Detik all carry the same police statement, and no independent reporting of the operation was found.
   - 'Left out, as its quotation was not found in Sinata.id: He said the former cannabis land should be converted into productive land that benefits local people.'
   - 'Left out, as its quotation was not found in Sinata.id: He said the destruction showed the commitment of Polda Aceh and BNNP Aceh to protecting the public, especially young people, from drug abuse.'
+  - The submitted page presents 122.86 hectares as covering North Sumatra and Aceh together, while the existing report reads the Bareskrim recap as 122.86 hectares in the Aceh jurisdiction with the 5-hectare Mandailing Natal phase counted separately.
+  - The submitted page lists about 77 hectares destroyed in Nagan Raya on 31 October, which does not reconcile with the separately reported 20-hectare Beutong operation on the same weekend.
+  - The page states it was automatically rewritten by AI from news.detik.com without altering facts; no independent corroboration of the recap totals was opened in this run.
 ---
 
 A joint team of Aceh provincial police, Polda Aceh, and the Aceh provincial
@@ -86,8 +94,8 @@ Joko said the operation was part of the national police chief's priority
 programme, Polisi Bersama Masyarakat, through Quick Wins 2, which includes
 restoring areas used for drug crops. [@1]
 
-On 2 November 2026 the national police criminal investigation agency, Bareskrim Polri, gave a wider recap of the same joint enforcement effort at the scene in Aceh, observed by detikcom. [@5] Bareskrim drug director Brigadier General Kristian Siagian, with the BNN Acting Deputy of Eradication Brigadier General Adri Irniadi, said joint teams of Bareskrim, the North Sumatra and Aceh provincial police forces, BNN, the military, local government and community members had handled about 122.86 hectares in the Aceh police jurisdiction between 27 October and 2 November, with an estimated wet weight of 93.225 tonnes. [@5]
+On 2 November 2026 the national police criminal investigation agency, Bareskrim Polri, gave a wider recap of the same joint enforcement effort at the scene in Aceh, observed by detikcom. [@5] Bareskrim drug director Brigadier General Kristian Siagian, with the BNN Acting Deputy of Eradication Brigadier General Adri Irniadi, said joint teams of Bareskrim, the North Sumatra and Aceh provincial police forces, BNN, the military, local government and community members had handled about 122.86 hectares in the Aceh police jurisdiction between 27 October and 2 November, with an estimated wet weight of 93.225 tonnes. [@5,6]
 
-The recap described phases beyond the Polda Aceh announcement: Lhokseumawe police destroyed about 18 hectares in Teupin Rusep village, Sawang district, North Aceh, on 27 October and detained four people, and destroyed about 25 more hectares on 2 November. [@5] Of the four detained, S, 43, had identified the field to others, W, 35, had sown 1,800 cannabis seeds, and M, 39, had supplied the seeds to S; S, W and M were named suspects while the fourth person, HM, was released as uninvolved. [@5] The suspects were charged under Articles 114 and 111 of the Narcotics Law, which carry a maximum penalty of 20 years in prison. [@5]
+The recap described phases beyond the Polda Aceh announcement: Lhokseumawe police destroyed about 18 hectares in Teupin Rusep village, Sawang district, North Aceh, on 27 October and detained four people, and destroyed about 25 more hectares on 2 November. [@5,6] Of the four detained, S, 43, had identified the field to others, W, 35, had sown 1,800 cannabis seeds, and M, 39, had supplied the seeds to S; S, W and M were named suspects while the fourth person, HM, was released as uninvolved. [@5,6] The suspects were charged under Articles 114 and 111 of the Narcotics Law, which carry a maximum penalty of 20 years in prison. [@5]
 
-The recap further listed about 77 hectares destroyed in the Blang Meurande and Beutong Ateuh-Benggala areas of Nagan Raya on 31 October, about two hectares handled by Pidie police on 1 November, about 0.04 hectares uprooted by Bener Meriah police on 1 November, about 0.7 hectares handled by Aceh Besar police on 1 November, and about 0.12 hectares secured by East Aceh police, who named a cannabis farmer with the initials AM as a suspect under Article 111. [@5] Separately in North Sumatra, about five hectares with some 150,000 five-to-six-month-old plants were found in Tor Sihite, Rao Rao Dolok village, Tambangan district, Mandailing Natal, on 31 October after a public tip on 29 October, and the plants were burned at the site. [@5]
+The recap further listed about 77 hectares destroyed in the Blang Meurande and Beutong Ateuh-Benggala areas of Nagan Raya on 31 October, about two hectares handled by Pidie police on 1 November, about 0.04 hectares uprooted by Bener Meriah police on 1 November, about 0.7 hectares handled by Aceh Besar police on 1 November, and about 0.12 hectares secured by East Aceh police, who named a cannabis farmer with the initials AM as a suspect under Article 111. [@5,6] Separately in North Sumatra, about five hectares with some 150,000 five-to-six-month-old plants were found in Tor Sihite, Rao Rao Dolok village, Tambangan district, Mandailing Natal, on 31 October after a public tip on 29 October, and the plants were burned at the site. [@5,6]
