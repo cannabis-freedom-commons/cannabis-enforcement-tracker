@@ -58,6 +58,12 @@ what you find, and add it if it confirms or adds facts. Every source must be abo
 Where sources disagree on a number, use the final or official one and say that another was
 reported; if they truly contradict, `status: disputed`.
 
+While researching, also act on useful information or sources you happen to find for another
+existing report. Check the coverage index, read that report, confirm the case match and update it
+in the same run without waiting for a separate request (docs/WRITING.md §1). Add corroborating
+citations or genuinely new details without repeating existing prose; keep the other event out of
+the main report. Resolve answered open questions and preserve the original creator and stable slug.
+
 ## 4. Write
 
 - `reports/<year>/<month>/<slug>.md` for the event's date; slug short, lower case, hyphens.
@@ -103,11 +109,13 @@ node scripts/check-coordinates.mjs "reports/<year>/<month>/<slug>.md"
 npm run build
 ```
 
-Fix anything the build reports. Check `git status`, commit only this report and its image:
+Archive sources and media for incidental updates too, and validate every report changed in the run.
+Fix anything the build reports. Check `git status`, commit only the reports and images you changed:
 `Report: <short title> (<country>)`.
 
 Do not run `sync-tracker.mjs` or commit `src/data/tracker.json` in the CFI checkout; that sync is
 handled separately.
 
 Reply with the report's title, date, country, figures, sources (and which have an archived copy),
-anything you could not confirm, and the page: `/report/<slug>/`.
+anything you could not confirm, and the page: `/report/<slug>/`. Also list any other reports updated,
+what changed and which sources were added.

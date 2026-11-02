@@ -81,6 +81,13 @@ For each candidate:
 5. Drop the candidate if the facts cannot be confirmed in an opened source. Never invent or fill
    gaps.
 
+Useful information or another source for an existing report is a reason to update that report,
+even when found incidentally while researching a different candidate. Read the original report,
+confirm the case match, and make the supported update in the same run without a separate request
+(docs/WRITING.md §1). Add corroborating citations or genuinely new details without repeating prose;
+resolve answered open questions and preserve the stable slug and original creator. Keep evidence
+for different events in their respective reports, and archive and validate every changed report.
+
 ## 4. Write
 
 - File: `reports/<year>/<month>/<slug>.md` for the event's date; slug short and descriptive
@@ -135,5 +142,5 @@ changed report files and images, one commit per run:
 Do not run `sync-tracker.mjs` or commit `src/data/tracker.json` in the CFI checkout; that sync is
 handled separately.
 
-Finish with a short list: each new report's title, country, date and sources, and any candidate you
-dropped and why.
+Finish with a short list: each new report's title, country, date and sources; any existing reports
+updated, what changed and which sources were added; and any candidate you dropped and why.

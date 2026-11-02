@@ -25,6 +25,10 @@ Index (country ids are the CFI's).
   available (notably historical imports), and make that limitation clear. Preserve the original
   creator on updates. Do not add update-model metadata.
 - Every sentence cites a source that was opened (`[@n]`); every source must be about the same event.
+- **Incidental finds:** when research turns up useful information or another source for an existing
+  report, read that report, confirm the case match, and update it in the same run without waiting
+  for a separate request. Add corroborating citations or genuinely new details to the matching
+  report, keeping different events separate. Follow `docs/WRITING.md` and validate all changed reports.
 - Photos: copy one into `src/assets/reports/` only with an open licence or a no-copyright government
   work; link all others as `media`. Every newly collected photo or video must include its direct
   `media_url` alongside the source-page `url`, one media entry per photo or video. Never guess a media

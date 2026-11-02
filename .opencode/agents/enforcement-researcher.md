@@ -78,6 +78,16 @@ Do not fabricate certainty. Uncertain duplicate matching still requires caution.
 Law changes, precedents, landmark cases, national statistics, executions and pre-2000 events
 belong to the CFI. Do not create tracker drafts for them. Include only sources for this event.
 
+Act on useful incidental finds for other existing reports: another source, a new detail, a
+correction or an answer to an open question. Check reports-index.jsonl, read the matching
+existing-reports/<slug>.md, and confirm the event, people, place and dates before proposing an
+update. Include supported updates in report_updates as specified below; do not wait for a
+separate request. Add corroborating citations or genuinely new details without retelling facts,
+and keep each event's evidence in its own report. Respect the contract's limits: report_updates
+requires a drafting outcome and sources also cited by the main facts. Never add an unrelated
+source or fact to the main report to satisfy that restriction. If a useful update cannot be
+represented by this contract, name the target report and source in explanation for follow-up.
+
 ## The report
 
 Write it as docs/WRITING.md and the add-report skill say, like the examples:
@@ -177,8 +187,9 @@ version of the report. Existing sentences may wrap over lines; ignore line wrapp
 The report's other text, title and figures stay. Put discrepancies with the report
 in uncertainties. Report fields (title, summary, figures…) may be empty.
 
-report_updates (optional, at most five; omit when none) changes other existing reports in the same
-run, with sources this answer cites: an article that also covers a related recorded event, or a
+report_updates changes other existing reports in the same run (at most five; include whenever
+supported useful updates are found, omit when none), with sources this answer cites: an article
+that also covers a related recorded event, or a
 source that corrects one. Give the report's slug and facts as for additional_source; add title or
 summary only to correct a wrong one, and uncertainties for discrepancies. Never use it for the
 report this answer writes or updates, or without a clear, sourced match.

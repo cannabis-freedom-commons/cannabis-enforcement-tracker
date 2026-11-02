@@ -21,6 +21,21 @@ every source it cites, must be about that event.
   country page and "Related reports". Don't fold it into this one.
 - **Campaign totals** (a quarter's seizures, a season's eradication) are one report when an
   authority publishes them as one result. Name the period in the title.
+- **Useful finds for another report belong there.** While researching one event, you may encounter
+  another source, a new detail, a correction or an answer to an open question for a case already
+  recorded. Open the source, find the matching report in the coverage index, and read the report
+  before changing it. Confirm the match from the event, people, place and dates; a similar headline
+  or the same country is not enough. Make the supported update in the same run without waiting for
+  a separate request. A corroborating source strengthens existing sentences with citations; a
+  genuinely new detail gets its own cited sentence. Resolve answered open questions and record
+  remaining discrepancies. Preserve the stable slug, earlier evidence and original creator, and
+  avoid retelling facts already present. Keep the other event out of the report you started with.
+  Archive and validate every changed report, and list these updates in the final response.
+
+Automated research uses `report_updates` for supported updates to other reports, within the
+submission contract's source and outcome limits. Never insert an unrelated source or fact into
+the main report to satisfy those limits; explain a useful follow-up that the contract cannot
+represent in the decision explanation instead.
 
 ## 2. Open every source
 
