@@ -1,0 +1,60 @@
+---
+date: 2026-11-01
+country: in
+place: Sardar Vallabhbhai Patel International Airport, Ahmedabad
+coordinates: [23.0772, 72.6347]
+precision: locality
+type: seizure
+also: [arrest]
+title: Ahmedabad Customs seizes 13 kg of hydroponic marijuana, arrests two
+summary: >-
+  Ahmedabad Customs arrested a man and a woman from Surat after finding 13.012 kg
+  of hydroponic marijuana, valued at about Rs 13 crore, vacuum-sealed inside their
+  trolley bags on arrival from Bangkok on Thai Airways flight TG-343.
+figures:
+  arrested: 2
+  kg_seized: 13.012
+  value:
+    amount: 130000000
+    currency: INR
+media:
+  - kind: photo
+    url: https://hiindia.com/drugs-worth-rs-13-crore-seized-at-ahmedabad-airport-two-held/
+    media_url: https://hiindia.com/wp-content/uploads/2026/11/202611013999664.jpg
+    publisher: hi INDiA
+    caption: 'A pink trolley bag beside vacuum-sealed packets of the seized hydroponic marijuana and a passport. Photo: IANS.'
+status: verified
+created_by_model: unknown
+tags: [ahmedabad, hydroponic, bangkok-route, ndps-act]
+sources:
+  - title: Drugs worth ₹13 crore seized at Ahmedabad Airport, two Surat residents held
+    url: https://www.nationpress.com/national/indian-rupee13-crore-drug-haul-at-ahmedabad-airport
+    publisher: NationPress
+    date: 2026-11-01
+  - title: Drugs worth Rs 13 crore seized at Ahmedabad Airport, two held
+    url: https://hiindia.com/drugs-worth-rs-13-crore-seized-at-ahmedabad-airport-two-held/
+    publisher: hi INDiA
+    date: 2026-11-01
+open_questions:
+  - Neither account names the two arrested passengers or gives their ages.
+  - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
+  - The same airport saw separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg), different events left out here.
+---
+
+Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
+woman, both residents of Surat district, on 1 November 2026 after recovering
+13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
+Vallabhbhai Patel International Airport. [@1,2] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2]
+
+The pair were flagged through passenger profiling before their trolley bags went
+through X-ray screening, where officers noticed suspicious images and ordered a
+detailed manual examination. [@1,2] Inside the bags officers found 14
+vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
+term for cannabis. [@1,2] Customs estimated the haul, a higher-potency
+soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2]
+
+The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
+1985, India's main drug law, and both passengers were arrested. [@1,2] Customs
+said further investigation into the wider supply chain was under way, with the
+two held in custody while investigators probe links to organised networks. [@1]
