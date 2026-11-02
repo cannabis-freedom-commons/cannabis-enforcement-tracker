@@ -46,6 +46,10 @@ sources:
     url: https://www.intelregion.com/news/ndlea-arrests-two-nigerians-with-200-cocaine-wraps-in-their-stomachs
     publisher: IntelRegion
     date: 2026-11-01
+  - title: NDLEA Arrests 2 Europe-Based Nigerians For Ingesting 200 Cocaine Pellets
+    url: https://thetrumpet.ng/ndlea-arrests-2-europe-based-nigerians-for-ingesting-200-cocaine-pellets/
+    publisher: The Trumpet Newspaper Nigeria
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -57,8 +61,8 @@ open_questions:
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
-The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6] No further detail about Omo Oba has been published. [@1,2]
+The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8] No further detail about Omo Oba has been published. [@1,2]
