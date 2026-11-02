@@ -36,27 +36,33 @@ sources:
     publisher: El Confidencial
     date: 2026-11-02
     language: es
+  - title: Condenada a dos años por introducir droga oculta en sus ropas en la cárcel de Huelva
+    url: https://www.infobae.com/espana/agencias/2026/11/02/condenada-a-dos-anos-por-introducir-droga-oculta-en-sus-ropas-en-la-carcel-de-huelva/?outputType=amp-type
+    publisher: Infobae
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives the offence date of 14 January 2025 but no separate sentence date; 2 November 2026, the article's publication date, is used as the incident date.
   - No second account of this sentencing could be found and opened, so the report rests on a single source.
   - The 17.05 grams and 4.79 grams of cocaine and 5.26 grams of heroin are non-cannabis substances in the same mixed event and are excluded from the cannabis figures above.
   - The only picture on the page is captioned as a general view of the prison where she tried to introduce the substances, which does not show the seizure, search or court, so no media entry is listed.
   - The article does not publish the woman's name, age or nationality, or the identity of the inmate she intended to visit.
+  - The submitted page lists only lottery-result images, which do not show this event, so no media entry is added.
 ---
 
 The Provincial Court of Huelva sentenced a woman to two years in prison for
 trying to take hashish, cocaine and heroin into Huelva Prison while visiting an
-inmate. [@1,2,3] The court convicted her of a crime against public health in an
-agreed judgment and ordered her to pay a fine of 2,636.73 euros. [@1,3] The court
+inmate. [@1,2,3,4] The court convicted her of a crime against public health in an
+agreed judgment and ordered her to pay a fine of 2,636.73 euros. [@1,3,4] The court
 suspended enforcement of the prison term for two years because the sentence did
 not exceed that limit and she had no criminal record. [@1]
 
 The events date to 14 January 2025, when she arrived at the prison visitors'
-entrance intending to meet one of the inmates. [@1,2] During the search at the
+entrance intending to meet one of the inmates. [@1,2,4] During the search at the
 access control, National Police officers found she was hiding several condoms
 containing drugs around her genital area. [@1] Officers seized 15 pellets of
 hashish with a total weight of 149.16 grams concealed in her clothing when she
-was intercepted. [@1,2,3] Officers also seized 17.05 grams of cocaine, 5.26 grams of
+was intercepted. [@1,2,3,4] Officers also seized 17.05 grams of cocaine, 5.26 grams of
 heroin and a further 4.79 grams of cocaine in the same search, which are
 excluded from the cannabis figures. [@1]
 
