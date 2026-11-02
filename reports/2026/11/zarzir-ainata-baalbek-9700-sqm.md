@@ -109,6 +109,11 @@ sources:
     publisher: Lebanon Debate
     date: 2026-11-01
     language: ar
+  - title: 'بالصور: عملية للجيش في بعلبك... إتلاف نحو 9700 متر مربع من الماريجوانا'
+    url: https://elsiyasa.com/article/434922/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1:-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A8%D8%B9%D9%84%D8%A8%D9%83...-%D8%A5%D8%AA%D9%84%D8%A7%D9%81-%D9%86%D8%AD%D9%88-9700-%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7
+    publisher: Elsiyasa
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The army's statement gives no separate date for the destruction; 1 November 2026 is the date the statement was issued.
   - No figure for the number of plants, the weight of cannabis or the value of the crop was published.
@@ -139,8 +144,8 @@ open_questions:
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square
 meters in the Zarzir and Ainata areas of Baalbek, the army said on 1 November
-2026. [@1,4,6,7,8,9,10,11,12,13,14,15,16] The army's Directorate of Orientation said the unit had worked to
-destroy the planted area in the two locations. [@3,5,8,11,12,13,14,15,16] The army's English statement
+2026. [@1,4,6,7,8,9,10,11,12,13,14,15,16,17] The army's Directorate of Orientation said the unit had worked to
+destroy the planted area in the two locations. [@3,5,8,11,12,13,14,15,16,17] The army's English statement
 put the crop at an estimated 9,700 square meters in Zarazir and Aainata, in
 Baalbek. [@2] That is about 0.97 hectares, or roughly 9.7 Lebanese dunams of
 1,000 square meters. [@1,7]
