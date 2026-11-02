@@ -30,6 +30,10 @@ sources:
     url: https://theinsight263.com/police-arrest-couple-after-drug-discovery-on-harare-chirundu-highway/
     publisher: TheInsight263
     date: 2026-11-01
+  - title: Couple arrested with mbanje
+    url: https://www.heraldonline.co.zw/couple-arrested-with-mbanje/
+    publisher: The Herald
+    date: 2026-11-02
 open_questions:
   - No weight for the 10 parcels of compressed dagga was published; only the parcel count is known.
   - The checkpoint is located only as the 288-kilometre peg, so the coordinates are approximate.
@@ -37,18 +41,20 @@ open_questions:
   - The same Pindula article also describes a separate 26 October recovery of two sacks of dagga from an abandoned Honda Fit on the Masvingo-Beitbridge Road, a different event left out of this report.
   - Both outlets attribute their accounts to the same Zimbabwe Republic Police statement, so they are not independent.
   - The listed photo is judged by its caption and surrounding text and was not visually verified.
+  - The same Herald article also reports the 30 October 2026 arrest of Patrick Khulani Ngwenya with dagga in a Monarch bag and two sacks at the Northbound Search Bay in Beitbridge, a separate event left out of this report.
+  - The Herald page carries a captioned photo of the couple with the mbanje contraband; no media entry is added because whether it duplicates the police handout already listed could not be verified visually.
 ---
 
 Police arrested a couple for alleged unlawful possession of dagga at the
-288-kilometre peg along the Harare-Chirundu Road. [@1] The Zimbabwe Republic
+288-kilometre peg along the Harare-Chirundu Road. [@1,3] The Zimbabwe Republic
 Police identified them as Dzinoreva Tafadzwa Jadson Brian, 33, and his wife
 Elizabeth Mugezelwa, 44, who were travelling in a foreign-registered truck when
-they were intercepted at a checkpoint on Thursday. [@1] The interception took
+they were intercepted at a checkpoint on Thursday. [@1,3] The interception took
 place on 29 October 2026 at the same 288-kilometre checkpoint on the
-Harare-Chirundu Road. [@2]
+Harare-Chirundu Road. [@2,3]
 
 A search of the vehicle led to the recovery of 10 parcels wrapped in black
-plastic and yellow tape containing compressed dagga. [@1] Police confirmed the
+plastic and yellow tape containing compressed dagga. [@1,3] Police confirmed the
 arrests in connection with the recovered parcels as a case of alleged unlawful
 possession of dagga. [@2]
 
@@ -56,4 +62,3 @@ Police did not disclose the weight of the dagga recovered or the country in
 which the truck was registered. [@2] The arrest comes amid ongoing police
 efforts to curb the possession and transportation of illegal drugs across the
 country. [@2]
-
