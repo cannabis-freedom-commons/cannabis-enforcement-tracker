@@ -58,6 +58,11 @@ sources:
     publisher: O Alto Acre
     date: 2026-10-31
     language: pt
+  - title: Homem monitorado por tornozeleira é preso com 2 kg de maconha em apartamento no bairro Macauã
+    url: https://oaltoacre.com/homem-monitorado-por-tornozeleira-e-preso-com-2-kg-de-maconha-em-apartamento-no-bairro-macaua/
+    publisher: O Alto Acre
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge by prosecutors, court appearance or bail decision was reported; the accounts end with him at the police station.
   - Acre Alerta placed the apartment in Apolônio Sales, gave his age as 46 and said the backpack was inside the washing tank, while A Gazeta do Acre, Juruá em Tempo and ac24horas name Macauã and say the backpack was nearby.
@@ -65,13 +70,15 @@ open_questions:
   - No estimated street value for the 2 kg of cannabis was published.
   - O Alto Acre gives no date for the arrest, so it does not independently confirm the 29 October date the report uses.
   - Whether the pictures on O Alto Acre add a new frame or repeat the police handout already linked from the earlier accounts could not be confirmed; no separate media entry was added.
+  - The O Alto Acre page gives only its publication date of 31 October 2026 and no separate date for the arrest.
+  - The page images listed in source_images carry no captions or credits confirming they show this arrest, so no media entry is added.
 ---
 
 Police in Rio Branco, the capital of Acre, arrested Daniel Ferreira de Oliveira
 on the night of Thursday 29 October 2026 with about 2 kg of cannabis in an
 apartment on Rua Vitória, in the Macauã neighbourhood in the upper part of the
 city. [@2,3] He was wearing an electronic ankle bracelet and was booked for drug
-trafficking. [@1,5,6] Acre Alerta reported that he was already facing a
+trafficking. [@1,5,6,7] Acre Alerta reported that he was already facing a
 drug-trafficking case. [@4]
 
 The arrest was made by the Batalhão de Operações Especiais (Bope), the state
@@ -84,9 +91,9 @@ and took them to the apartment. [@3,5,6]
 
 Officers found him sitting by the entrance next to a washing tank, with a
 backpack nearby. [@1,5,6] Inside were two packages of a substance resembling
-cannabis. [@1,5,6] During the arrest he suddenly broke his own mobile phone, which
+cannabis. [@1,5,6,7] During the arrest he suddenly broke his own mobile phone, which
 police said appeared to be an attempt to block access to the information stored
-on it. [@1,5,6] He was taken with the drug to the specialised police station, and
+on it. [@1,5,6,7] He was taken with the drug to the specialised police station, and
 the Civil Police will investigate. [@1,5,6]
 
-The Civil Police are investigating whether Daniel belonged to an interstate and international drug-trafficking network. [@6] At the apartment, Daniel gave conflicting accounts about whether there were drugs inside and had trouble answering simple questions, including his age. [@6]
+The Civil Police are investigating whether Daniel belonged to an interstate and international drug-trafficking network. [@6,7] At the apartment, Daniel gave conflicting accounts about whether there were drugs inside and had trouble answering simple questions, including his age. [@6,7]
