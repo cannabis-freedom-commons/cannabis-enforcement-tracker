@@ -33,10 +33,16 @@ sources:
     publisher: Skai
     date: 2026-11-01
     language: el
+  - title: Δύο συλλήψεις για κατοχή και διακίνηση κατεργασμένης κάνναβης - ertnews.gr
+    url: https://www.ertnews.gr/eidiseis/ellada/dyo-syllipseis-gia-katoxi-kai-diakinisi-katergasmenis-kannavis/
+    publisher: ertnews.gr
+    date: 2026-11-01
+    language: el
 open_questions:
   - The 32.91 kg figure is the sum of the two stated gross weights, 590 grams plus 32 kilograms and 320 grams, and includes packaging.
   - No court outcome after referral to the prosecutor was reported.
   - No street or seizure value was published.
+  - The ERT account calls the second location only a stash space and does not name Ithomis Street, and it does not mention the DRY SiFT 2026 labels recorded in the existing report.
 ---
 
 Greek police arrested two men aged 22 and 23 in Athens on 1 November 2026 on
@@ -44,12 +50,12 @@ suspicion of possessing and trafficking large quantities of processed cannabis,
 commonly known as hashish. [@1] Officers of the Narcotics Prosecution
 Sub-Directorate said targeted investigations and intelligence established the
 alleged operation. [@1] Authorities believe the two suspects supplied drugs
-across the wider Attica region. [@1] Police said both suspects were already
+across the wider Attica region. [@1,3] Police said both suspects were already
 known to the authorities, and officers brought the two men before the competent
-public prosecutor to face charges. [@1]
+public prosecutor to face charges. [@1,3]
 
 Officers stopped the 22-year-old in Kypseli and found seven paper packages
-containing a total of 590 grams of processed cannabis in his possession. [@1]
+containing a total of 590 grams of processed cannabis in his possession. [@1,3]
 The 22-year-old allegedly resisted arrest by violently pushing officers, after
 collecting the drugs from his 23-year-old accomplice minutes earlier to
 distribute on the streets of Athens. [@1]
@@ -59,10 +65,9 @@ Street in Athens allegedly used exclusively to conceal and store drugs, where
 they found the 23-year-old acting as custodian of the stash. [@1] In the
 apartment officers seized 31 airtight nylon packages, each containing ten paper
 packages of processed cannabis, with a total gross weight of approximately 32
-kilograms and 320 grams, some of which carried the label “DRY SiFT 2026”. [@1]
+kilograms and 320 grams, some of which carried the label “DRY SiFT 2026”. [@1,3]
 Officers also seized a car, a wristwatch, two mobile phones, a precision
 electronic scale, and fabric gloves and keys. [@1] The Skai account confirms the
 same operation, with the 22-year-old holding 590 grams in seven packages in
 Kypseli and the second accused holding 31 sealed packages weighing 32 kilograms
 and 320 grams in the stash location. [@2]
-
