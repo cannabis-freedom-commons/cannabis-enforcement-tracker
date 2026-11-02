@@ -111,6 +111,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: मीरजापुर में अंतरराज्यीय गिराेह के दाे तस्कर गिरफ्तार, छह करोड़ का गांजा जब्त
+    url: https://vocaltv.in/crime/up-cannabis-seized-two-arrestephp/cid19473176.htm
+    publisher: Vocal TV
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -127,21 +132,24 @@ open_questions:
   - The submitted post's only image is captioned 'May be an image of text' and cannot be confirmed as showing the seizure, so no media entry is added.
   - The submitted video page gives no separate date for the check; 30 October 2026 comes from the existing report's sources and 31 October 2026 is this page's publication date.
   - The submitted page's video and thumbnail carry no caption or credit confirming they show the seizure, so no media entry is added.
+  - This account says the vehicle check happened on Saturday, while the existing report dates the check to the evening of 30 October 2026; 31 October 2026 was the Saturday publication and press-conference date.
+  - This account does not mention coconuts as concealment, so it corroborates the 1,204 kg quantity but not that concealment detail.
+  - The page's only photo carries the article title as caption with no credit confirming it shows this seizure, so no media entry is added.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
 occupants, Ganesh Kewat alias Ramesh Kewat, 44, and Shabir alias Lalu, 30, both
-from Madhya Pradesh's Mauganj district. [@3,6] The arrests came during a vehicle
+from Madhya Pradesh's Mauganj district. [@3,6,13] The arrests came during a vehicle
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3,9] Officers stopped truck MP 09 HH 8908 during the
-check. [@3,4] A search found 1,204 kg of ganja, the Hindi word for cannabis,
+check. [@3,4,13] A search found 1,204 kg of ganja, the Hindi word for cannabis,
 hidden under sacks of coconuts. [@1,3,7,8,9,12] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4,6,8,9,10,11,12] Bharat Samachar put the value at ₹4–5 crore.
+crore, or 60 million rupees. [@4,6,8,9,10,11,12,13] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
-police lines. [@2,8,9] Police said the consignment had come from Odisha. [@4,5,6,10,12] It was
-meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8,9,10] A
+police lines. [@2,8,9] Police said the consignment had come from Odisha. [@4,5,6,10,12,13] It was
+meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8,9,10,13] A
 case was registered against both men under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act at Kotwali Dehat police station, and they were being
 produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8,9,10]
