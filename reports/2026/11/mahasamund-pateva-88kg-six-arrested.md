@@ -59,6 +59,7 @@ open_questions:
   - The article spells the location as Patewa while the existing report uses Pateva for the same National Highway 53 blockade in front of Pateva police station.
   - The article calls the escort vehicle a car while the existing report identifies it as a Maruti Swift Dzire from another account.
   - The page photo caption says four smugglers were arrested while the article text reports six, so whether the photo shows this seizure is not established and it is not listed as media.
+  - The submitted page spells the location as 'Patewa' while the existing report uses 'Pateva' for the same National Highway 53 blockade in front of Pateva police station.
 ---
 
 ## The blockade
