@@ -27,13 +27,17 @@ sources:
     archived: https://web.archive.org/web/20261022195207/https://ghanaiantimes.com.gh/police-arrest-man-over-suspected-cannabis-plantation-near-volta-lake/
     publisher: Ghanaian Times
     date: 2026-10-19
+  - title: Marine Police arrest 31-year-old man over suspected cannabis plantation in Volta Region
+    url: https://winnebanews.com/2026/10/16/marine-police-arrest-31-year-old-man-over-suspected-cannabis-plantation-in-volta-region/
+    publisher: Winneba News
+    date: 2026-10-16
 ---
 
 Marine Police officers on routine patrol along the Volta Lake discovered a fenced wooden structure
 at Mangoase in the Central Tongu District on 13 October 2026, and found a plantation of suspected
-Indian hemp behind it. [@1,2] They arrested 31-year-old Vincent Lotsu for alleged unlawful
+Indian hemp behind it. [@1,2,3] They arrested 31-year-old Vincent Lotsu for alleged unlawful
 cultivation and possession, and seized 16 sacks of dried leaves suspected to be cannabis that
-appeared harvested and prepared for transport. [@1,2]
+appeared harvested and prepared for transport. [@1,2,3]
 
 In a statement issued on 16 October and signed by Inspector Felix Kwao, the Volta North Regional
 Police Command said Lotsu and the exhibits had been handed to the Kpando divisional investigators,
