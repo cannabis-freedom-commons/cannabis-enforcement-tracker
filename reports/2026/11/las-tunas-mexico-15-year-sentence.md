@@ -40,6 +40,11 @@ sources:
     publisher: DIARIO DE CUBA
     date: 2026-11-02
     language: es
+  - title: 15 Jahre Haft für Drogenhandel in Las Tunas
+    url: https://www.kubakunde.de/neues/15-jahre-haft-fur-drogenhandel-in-las-tunas
+    publisher: KUBAKUNDE
+    date: 2026-11-02
+    language: de
 open_questions:
   - The article gives no separate date for the trial or sentence, so 2026-11-01 is the source publication date.
   - No weight or quantity was published for the marijuana, cocaine or synthetic cannabinoids, so no cannabis weight is recorded.
@@ -47,18 +52,20 @@ open_questions:
   - Only one opened source was found; searches for a second account of Case 115 of 2026 found no accessible report.
   - Whether the source-page photo shows this trial or defendant is not established from the caption and text alone.
   - The 15-year term covers mixed trafficking of marijuana with cocaine and synthetic cannabinoids; no combined total is counted as cannabis.
+  - The page gives only its publication date of 2 November 2026 and no separate day for the trial or sentence.
+  - The page's only image is explicitly captioned as a symbolic city view of Las Tunas, not the trial, seizure or defendant, so no media entry is added.
 ---
 
 The First Criminal Chamber of the Provincial People's Court in Las Tunas
 sentenced a man to 15 years in prison for trafficking marijuana, cocaine and
-synthetic cannabinoids in the Mexico neighborhood. [@1,2,3,4] The court tried the
+synthetic cannabinoids in the Mexico neighborhood. [@1,2,3,4,5] The court tried the
 matter as Case 115 of 2026, which state media described as a deterrent example.
-[@1,2,3,4] Authorities said electronic surveillance, a specialized investigative
+[@1,2,3,4,5] Authorities said electronic surveillance, a specialized investigative
 technique, verified that the defendant was systematically selling those
-substances in that part of the city. [@1,2,3,4] Alongside imprisonment, the court
+substances in that part of the city. [@1,2,3,4,5] Alongside imprisonment, the court
 imposed loss of public rights, confiscation of seized assets and a ban on
 acquiring a passport or leaving the national territory for the duration of the
-sentence under Law 151 of 2022, the Penal Code. [@1,2,3,4]
+sentence under Law 151 of 2022, the Penal Code. [@1,2,3,4,5]
 
 State media said the ruling was made in a public hearing that adhered to
 constitutional procedural guarantees and due process. [@1] The case was reported
