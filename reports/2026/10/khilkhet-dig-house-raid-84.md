@@ -43,6 +43,10 @@ sources:
     url: https://thefinancialexpress.com.bd/home/additional-dig-suspended-after-dj-party-raid-at-his-rented-dhaka-house
     publisher: The Financial Express
     date: 2026-10-31
+  - title: Additional DIG suspended after DJ party raid
+    url: https://today.thefinancialexpress.com.bd/last-page/additional-dig-suspended-after-dj-party-raid-1793469350
+    publisher: The Financial Express
+    date: 2026-11-01
 open_questions:
   - Initial police statements and bdnews24.com put the number detained at 84, while the home ministry notification cited by The Business Standard said 85 and The Business Standard reported that 85 people were sentenced.
   - bdnews24.com dates the raid to the early hours of 19 October; The Business Standard reported that it ran from 2:30am to 5:30am on 20 October, and its account of the suspension cites 19 October for the raid.
@@ -51,13 +55,16 @@ open_questions:
   - No criminal charge against Jahir over the property was reported; the action against him was a suspension for misconduct.
   - The Financial Express page is a verbatim republication of the bdnews24.com report already cited, and its page metadata credits bdnews24.com as the author, so it adds no independent confirmation of the figures.
   - The page dates the home ministry's action only to "Saturday" and gives no calendar date for the suspension; the 31 October date comes from The Business Standard.
+  - The report dates the suspension to the ministry's 31 October announcement, while the Bangla account gives 25 October as the date the order took effect.
+  - The Financial Express page carries no photograph of the raid, so no media entry was added.
+  - 'Left out, as its quotation was not found in Protidiner Sangbad: The ministry''s suspension order took effect on 25 October.'
 ---
 
 Detectives from the Dhaka Metropolitan Police's Detective Branch (DB) raided a
 house in Dhaka's Khilkhet Police Housing area in the early hours of 19 October.
 [@1] The DB said a DJ party and drug consumption were under way when officers
 moved in. [@1] Officers seized cannabis, yaba, alcohol and drug paraphernalia
-and detained 84 people, including 26 women. [@1,5]
+and detained 84 people, including 26 women. [@1,5,6]
 
 Additional Deputy Inspector General Abdullah Al Jahir rented out the house. [@1]
 He had listed it for rent on Airbnb. [@3] Co-host Mahbubul Alam, who helped
@@ -70,13 +77,15 @@ sentenced each male detainee to one month in jail and a Tk1,000 fine, and each
 woman to 15 days and a Tk500 fine. [@4]
 
 The home ministry suspended Jahir on 31 October. [@2] The order said the raid
-and the news coverage had "severely tarnished the police force's image". [@1] It
+and the news coverage had "severely tarnished the police force's image". [@1,6] It
 called his conduct "unbecoming of an officer and contrary to departmental
-discipline". [@1] During the suspension he was attached to the Police Special
-Training School in Rangamati's Betbunia. [@1,5] He will receive a subsistence
+discipline". [@1,6] During the suspension he was attached to the Police Special
+Training School in Rangamati's Betbunia. [@1,5,6] He will receive a subsistence
 allowance. [@1]
 
 Jahir told The Business Standard the house had been rented for a birthday
 celebration and that both rental platforms barred drugs and alcohol. [@2] The DB
 said Mahbubul Alam received 30% of party profits as commission and Jahir the
 remaining 70%. [@4]
+
+Jahir had been placed on special duty (OSD) shortly after the raid. [@6]
