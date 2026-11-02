@@ -27,6 +27,11 @@ sources:
     publisher: Jornal de Brasília
     date: 2026-11-01
     language: pt
+  - title: Rotam apreende grande quantidade de Maconha durante ações em Samambaia
+    url: https://www.correiobraziliense.com.br/cidades-df/2026/11/7531779-rotam-apreende-grande-quantidade-de-maconha-durante-acoes-em-samambaia.html
+    publisher: Correio Braziliense
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight or estimated value was published, so the seized cannabis cannot be recorded in kilograms.
   - No separate quantity was published for the skunk versus the marijuana.
@@ -36,24 +41,25 @@ open_questions:
 ---
 
 Two men were arrested in flagrante in Samambaia on 31 October 2026 on suspicion
-of drug trafficking during a Federal District Military Police operation. [@1]
+of drug trafficking during a Federal District Military Police operation. [@1,2]
 The actions were carried out by teams of the Battalion of Motorized Ostensive
 Tactical Patrols, known as ROTAM, and involved a large quantity of marijuana and
 skunk. [@1] Officers first stopped a suspect at around 6pm at QN 401 after
 intelligence work and found a portion of suspected marijuana on him during the
-search. [@1]
+search. [@1,2]
 
 Searches at a property linked to the man then found various pieces and portions
 of marijuana and skunk, four precision scales and materials used to divide the
 drugs. [@1] Information from that case led officers to a second address at QR
 601 at around 8:30pm, where they entered the home with the resident's
 authorization. [@1] Under a bed there, officers found a suitcase holding eight
-pieces, eight large portions and five medium portions of marijuana. [@1] Another
+pieces, eight large portions and five medium portions of marijuana. [@1,2] Another
 precision scale was also seized there, and police said the findings reinforced
 suspicions that the home was used to store narcotics. [@1] Across the two
 addresses, the reported total was five precision scales alongside the marijuana
 and skunk. [@1]
 
 Both men were taken with all the collected material to the 26th Police Station
-in Samambaia Norte. [@1]
+in Samambaia Norte. [@1,2]
 
+At the first location police seized one whole piece and one large portion of skunk, three whole pieces, 12 large portions and seven small portions of marijuana, plus four precision scales. [@2]
