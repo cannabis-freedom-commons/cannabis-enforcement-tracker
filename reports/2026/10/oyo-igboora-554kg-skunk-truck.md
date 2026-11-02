@@ -71,6 +71,10 @@ sources:
     url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
     publisher: The Sun Nigeria
     date: 2026-11-01
+  - title: NDLEA Intercepts Two Europe-Based Nigerians With Cocaine At Abuja Airport
+    url: https://www.channelstv.com/2026/11/01/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-at-abuja-airport
+    publisher: Channels Television
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -83,7 +87,7 @@ open_questions:
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 

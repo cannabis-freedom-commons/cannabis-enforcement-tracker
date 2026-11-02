@@ -62,6 +62,18 @@ sources:
     url: https://thesun.ng/2-france-based-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-as-ndlea-seizes-1-8-tonnes-of-skunk-in-1-week/
     publisher: The Sun Nigeria
     date: 2026-11-01
+  - title: NDLEA Intercepts Two Europe-Based Nigerians With Cocaine At Abuja Airport
+    url: https://www.channelstv.com/2026/11/01/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-at-abuja-airport
+    publisher: Channels Television
+    date: 2026-11-01
+  - title: Two Nigerians Swallowed 200 Cocaine Wraps In Failed Smuggling Bid
+    url: https://thewhistler.ng/two-nigerians-swallowed-200-cocaine-wraps-in-failed-smuggling-bid
+    publisher: The Whistler Newspaper
+    date: 2026-11-02
+  - title: NDLEA arrests Paris-bound passengers with cocaine in stomachs
+    url: https://www.galaxytvonline.com/news/local-news/ndlea-arrests-paris-bound-passengers-with-cocaine-in-stomachs
+    publisher: Galaxy TV
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -85,11 +97,16 @@ open_questions:
   - The submitted page is a multi-event NDLEA weekly roundup; this decision covers only its Lagos cannabis component and leaves cocaine, AK-47 ammunition, diazepam, tramadol, Exol-5, pregabalin and pentazocine seizures to other records.
   - The page's single image carries only a file-name caption and cannot be verified to show the Lagos bus interceptions, so no media entry was added.
   - The 976 kg figure is the sum of the two separately stated 537 kg and 439 kg seizures.
+  - The submitted headtopics URL yielded only a Google homepage capture, so no quotation could be taken from it.
+  - The cocaine, tramadol, diazepam, Exol-5, pregabalin, pentazocine and AK-47 ammunition seizures in the same roundup are non-cannabis events excluded from this cannabis account.
+  - No arrests or street value were reported for the two Lagos bus interceptions.
+  - 'Not added to sokoto-ayuba-236kg-skunk, as its quotation was not found in Channels Television: Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026.'
+  - 'Not added to edo-eko-camp-plantation-eradication, as its quotation was not found in Channels Television: On 28 October 2026, NDLEA operatives supported by soldiers raided Eko Camp near Illushi in Esan South-East, Edo State, and destroyed a cannabis plantation covering 1.646 hectares.'
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14]
 
 ## The announcement
 
