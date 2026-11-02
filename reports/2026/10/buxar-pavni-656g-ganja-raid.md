@@ -37,6 +37,16 @@ sources:
     publisher: Hindustan
     date: 2026-10-30
     language: hi
+  - title: पवनी गांव में पुलिस की छापेमारी, 656.5 ग्राम गांजा और 30890 रुपये नकद बरामद
+    url: https://www.prabhatkhabar.com/state/bihar/buxar/pawni-police-raid-seize-ganja-cash
+    publisher: Prabhat Khabar
+    date: 2026-10-30
+    language: hi
+  - title: पवनी में 656.5 ग्राम गांजा और 30,890 रुपए नकद बरामद:एनडीपीएस एक्ट के तहत मामला दर्ज, आरोपी फरार
+    url: https://www.bhaskar.com/local/bihar/buxar/chausa/news/pavni-ganja-seizure-police-raid-yogendra-sah-ndps-case-mufassil-139538794.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-30
+    language: hi
 open_questions:
   - Only Buxar Khabar could be opened; no police statement or second outlet was found.
   - The article gives Thursday for the raid and Friday for the court production, and was published on Friday 30 October 2026, so the raid is dated 29 October 2026.
@@ -48,17 +58,19 @@ open_questions:
   - Hindustan names the fleeing trader as Rajeshwar Sah, the son of Yogendra Sah, while Buxar Khabar and the existing report name Yogendra Sah himself; the accounts do not reconcile the two.
   - Hindustan reports one chillum seized, while Buxar Khabar and Prabhat Khabar reported 18 clay chillums.
   - Hindustan gives the ganja weight as 656.5 grams; the existing report records 656 grams and Prabhat Khabar reported 656.6 grams.
+  - 'Two Prabhat Khabar articles give different totals: this account says 656.5 grams, while the report''s open questions note 656.6 grams from another Prabhat Khabar article.'
+  - The Dainik Bhaskar page was truncated by an app paywall after its account of the raid, so only the visible paragraphs were used.
 ---
 
 Mufassil police station officers in Buxar raided the house of Yogendra Sah of
 Pavni village after a tip that he was dealing in ganja, the local name for
-cannabis. [@1] Sah had already left the house before the team arrived. [@1]
+cannabis. [@1,4] Sah had already left the house before the team arrived. [@1,4]
 Station house officer Shambhu Bhagat said police were still searching for him
 and would arrest him soon. [@1] An FIR was registered the same Thursday. [@1]
 
-Officers recovered 656 grams of ganja kept in two packets of polythene. [@1,2,3]
-They also seized 30,890 rupees from the house. [@1,3] Eighteen clay chillums,
-pipes used to smoke cannabis, were taken as well. [@1] The ganja was produced
+Officers recovered 656 grams of ganja kept in two packets of polythene. [@1,2,3,4]
+They also seized 30,890 rupees from the house. [@1,3,4] Eighteen clay chillums,
+pipes used to smoke cannabis, were taken as well. [@1,4] The ganja was produced
 before a court on Friday. [@1]
 
 Buxar Khabar described the target as a place used for the illegal ganja trade.
@@ -66,3 +78,5 @@ Buxar Khabar described the target as a place used for the illegal ganja trade.
 officers allowed the search and a magistrate accompanied the team. [@1] Bhagat
 said police were running a campaign against the narcotics trade, with similar
 action at every police station. [@1]
+
+Bhagat said police received the tip at about 11:30 am. [@5] Police raided the house at about 12:35 pm. [@5] Chausa circle officer Vijay Prakash was called in as magistrate for the search. [@5] Police registered the FIR under section 20(b)(ii)(A) of the NDPS Act. [@4] The first packet held 599.510 grams of ganja-like material and the second 56.990 grams. [@4]
