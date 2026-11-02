@@ -59,6 +59,10 @@ sources:
     url: https://www.graphic.com.gh/news/general-news/40-year-old-arrested-at-vip-bus-terminal-attempting-to-travel-with-91-parcels-of-wee-hidden-in-3-suitcases.html
     publisher: Graphic Online
     date: 2026-10-31
+  - title: Police arrest farmer with 91 parcels of suspected Indian hemp at Circle
+    url: https://www.ghanaweb.com/GhanaHomePage/crime/Police-arrest-farmer-with-91-parcels-of-suspected-Indian-hemp-at-Circle-2059230
+    publisher: GhanaWeb
+    date: 2026-10-31
 open_questions:
   - No weight was published for the 91 parcels, so the report records no kilogram figure.
   - The GH¢33,600 figure is the suspect's own reported valuation of the parcels, not a police assessment or an investigators' street-value estimate.
@@ -73,23 +77,23 @@ open_questions:
 ---
 
 The Ghana Police Service arrested 40-year-old Roger Borbobli at the VIP Bus
-Terminal at Kwame Nkrumah Circle in Accra. [@1,4,5] The arrest was made on Thursday
+Terminal at Kwame Nkrumah Circle in Accra. [@1,4,5,7] The arrest was made on Thursday
 29 October 2026 by officers from the Office of the Special Operations Assistant
 to the Inspector-General of Police. [@3] Preliminary investigations found that
 loading boys at the terminal smelled something unusual coming from the three
-suitcases and alerted police. [@1,4,5] Officers went to the terminal, arrested him
+suitcases and alerted police. [@1,4,5,7] Officers went to the terminal, arrested him
 and retrieved the suitcases, which held 91 parcels of compressed dried leaves
-suspected to be Indian hemp. [@1,4,6] The suspect himself reportedly valued the
-parcels at GH¢33,600. [@1,4,5]
+suspected to be Indian hemp. [@1,4,6,7] The suspect himself reportedly valued the
+parcels at GH¢33,600. [@1,4,5,7]
 
 Borbobli allegedly told investigators he was a farmer from Sovie Kudzra, near
-Kpando in the Volta North Region. [@1,4,5] He reportedly admitted growing Indian
+Kpando in the Volta North Region. [@1,4,5,7] He reportedly admitted growing Indian
 hemp but said the parcels had come from another farmer in the same community,
-named as Benjamin. [@1,4,5]
+named as Benjamin. [@1,4,5,7]
 
 The police said the exhibits would be sent to the Police Forensic Crime
 Laboratory for analysis and a report. [@2] He remained in police custody,
 assisting investigations, and police said he would be brought before a court.
-[@1,4,5] The arrest was announced in a statement the police posted on Facebook. [@3]
+[@1,4,5,7] The arrest was announced in a statement the police posted on Facebook. [@3]
 
-Police said the arrest on 29 October 2026 followed intelligence that he had been spotted at the terminal with three suitcases of suspected narcotics. [@4,5]
+Police said the arrest on 29 October 2026 followed intelligence that he had been spotted at the terminal with three suitcases of suspected narcotics. [@4,5,7]
