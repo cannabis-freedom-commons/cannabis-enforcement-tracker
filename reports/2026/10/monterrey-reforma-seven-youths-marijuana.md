@@ -52,6 +52,11 @@ sources:
     publisher: EL NORTE
     date: 2026-10-31
     language: es
+  - title: Detienen a 7 jóvenes con 40 dosis de droga y marihuana en el Centro de Monterrey
+    url: https://gamavision.com/noticias/detienen-a-7-jovenes-con-40-dosis-de-droga-y-marihuana-en-el-centro-de-monterrey
+    publisher: Gamavision
+    date: 2026-10-30
+    language: es
 open_questions:
   - No weight was given for the two bags of marijuana, so no kilogram figure is recorded.
   - Milenio called the bags marijuana, while Quadratín described them as herb with the characteristics of marijuana; both agree there were two bags.
@@ -66,12 +71,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Milenio: They were taken to Monterrey police premises and handed to the competent authorities.'
   - EL NORTE's phrase “esta madrugada” in its 31 October account may imply a 31 October arrest, while MVS Noticias and Quadratín place the stop at about 03:20 on 30 October; the reports do not reconcile the date.
   - 'Left out, as its quotation was not found in Quadratín Nuevo León: Quadratín Nuevo León, citing the police account, described the crystal as a solid substance similar to crystal and the bags as herb with the characteristics of marijuana.'
+  - Gamavision gives only the publication date of 30 October 2026 and no time for the stop; the 03:20 time in the existing report comes from the earlier MVS account.
 ---
 
 The stop was in the early hours of Friday 30 October 2026. [@2] Quadratín Nuevo
 León, citing the police account, described the crystal as a solid substance
 similar to crystal and the bags as herb with the characteristics of marijuana.
-[@2]
+[@2,4]
 
 MVS Noticias, citing the police report, put the stop at 03:20 on Reforma between
 Villagómez and Villagrán. [@1] Officers on a prevention patrol saw a maroon Ford
@@ -81,8 +87,8 @@ further on. [@1] MVS said the seven men inside were evasive. [@1] The van was
 seized and taken to the official vehicle pound, and the seven were left with the
 Ministerio Público, the public prosecutor’s office, to decide their legal
 position. [@1] MVS also said the authorities seized 40 doses of crystal and two
-bags of marijuana inside the van. [@1,3]
+bags of marijuana inside the van. [@1,3,4]
 
 Quadratín named the minors as Cristofer and Byron, both 16, and Osiel and José,
-both 17. [@2] Monterrey police said the operation was part of the Escudo
+both 17. [@2,4] Monterrey police said the operation was part of the Escudo
 strategy. [@2]
