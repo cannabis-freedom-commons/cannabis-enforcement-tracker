@@ -30,6 +30,11 @@ media:
     media_url: https://www.dailynews.co.th/wp-content/uploads/2026/11/pic13-1328169_0_0-960x1280.jpg
     publisher: เดลินิวส์
     caption: A hand holds a jar of cannabis edibles labelled 'By Edibles', one of the products at issue in the Banthat Thong raid.
+  - kind: photo
+    url: https://www.thaipbsworld.com/crime/572001
+    media_url: https://onecms.thaipbs.or.th/media/qtyhJRjCJuBcQ0xahjA4XirfRYQ5v1dTvt7cKGDc6zdEtGmNwylzcU9.png
+    publisher: Thai PBS World
+    caption: Police and TFDA officials with seized cannabis jellies from the Bangkok shop raid
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 07c77a1177ea24bb3a1e72e166e01fe5
@@ -97,6 +102,10 @@ sources:
     publisher: Thaipost
     date: 2026-11-01
     language: th
+  - title: Police and TFDA officials seize cannabis jellies from a Bangkok shop
+    url: https://www.thaipbsworld.com/crime/572001
+    publisher: Thai PBS World
+    date: 2026-11-01
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -112,23 +121,24 @@ open_questions:
   - Bangkok Post attributes the 50,000-baht figure to the price tags on the seized products, while the report attributes the valuation to the FDA.
   - The Thaipost lede says cannabis flower and cannabis jellies worth over 500,000 baht were found, while its body and the FDA account value the 90 seized jellies at 50,000 baht; the existing report uses 50,000 baht.
   - The page's image carries no caption or credit, so no media entry is added rather than repeating the raid photos already linked in the existing report.
+  - The submitted article says the raid was "today (Sunday)" on its 1 November 2026 publication date, while the existing report uses 29 October 2026 from the FDA statement.
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13] The
-shop occupied the second floor. [@1,4,5,7] Officers seized 90 cannabis-mixed jelly
+shop occupied the second floor. [@1,4,5,7,14] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,11,12,13] The FDA put the value of the jellies at 50,000 baht.
+Administration (FDA). [@1,4,5,7,8,9,11,12,13,14] The FDA put the value of the jellies at 50,000 baht.
 [@2,5]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
 Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9] Officers told her
-she faced a charge of selling a controlled herb without permission. [@3,7] That
+she faced a charge of selling a controlled herb without permission. [@3,7,14] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
 planned to send samples to the Department of Medical Sciences to check whether
 THC and CBD levels exceeded the legal limit, which could bring further charges.
-[@3,4,5,8,11]
+[@3,4,5,8,11,14]
 
 The search followed a case in Khlung district, Chanthaburi province, where a
 family fell severely ill after eating cannabis sweets, with convulsions and loss
