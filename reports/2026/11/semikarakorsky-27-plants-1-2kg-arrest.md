@@ -39,6 +39,11 @@ sources:
     publisher: DON24.RU
     date: 2026-11-02
     language: ru
+  - title: В Ростовской области задержали «наркоагронома» с 27 кустами конопли - Таганрогская правда
+    url: https://taganrogprav.ru/v-rostovskoj-oblasti-zaderzhali-narkoagronoma-s-27-kustami-konopli/
+    publisher: Таганрогская правда
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the search and detention.
   - The suspect is identified only as a 51-year-old man; no name or street address was published.
@@ -46,18 +51,19 @@ open_questions:
   - Bloknot Rostov calls more than 1.2 kg the combined expert mass, while 1rnd.ru describes it as the ready batch in the attic; the report uses more than 1.2 kg of seized marijuana without separating plant material further.
   - No court outcome has been reported; the investigation was still continuing.
   - 'Left out, as its quotation was not found in 1rnd.ru: Investigators also said his actions showed signs of a further drug-trafficking offence, with the outlets differing on whether they cited part 4 of article 228 or part 4 of article 228.1.'
+  - The submitted page describes the possible further offence as part 4 of article 228 of the Criminal Code, matching one source already cited in the existing report but differing from two existing sources that cite part 4 of article 228.1.
 ---
 
 Police in Semikarakorsky district, Rostov Oblast, detained a 51-year-old man on
 suspicion of illegally cultivating cannabis and storing drugs at his homestead.
-[@2] A court remanded him in custody, and the investigation is continuing. [@2]
+[@2,4] A court remanded him in custody, and the investigation is continuing. [@2]
 
 During a search of his property, officers found greenhouses in the yard where he
-had planted cannabis and seized 27 cannabis bushes. [@1] Officers also found a
+had planted cannabis and seized 27 cannabis bushes. [@1,4] Officers also found a
 ready batch of marijuana stored in the attic of an outbuilding, along with
-scales and packing materials. [@2] An expert examination identified the seized
+scales and packing materials. [@2,4] An expert examination identified the seized
 substances as a plant-based narcotic drug with a combined mass of more than 1.2
-kilograms. [@1]
+kilograms. [@1,4]
 
 Police said the man had bought cannabis seeds online, planted them in
 greenhouses in his own yard, tended the seedlings, then gathered parts of the
@@ -65,4 +71,3 @@ plants, dried them and stored the marijuana for his own use. [@3] The
 Semikarakorsky district police investigation department opened criminal cases
 under part 1 of article 231 of the Criminal Code for illegal cultivation and
 part 2 of article 228 for illegal storage of narcotics. [@1]
-
