@@ -22,6 +22,11 @@ sources:
     url: https://www.newswire.lk/2026/11/02/over-36000-cannabis-plants-destroyed-in-hambegamuwa-three-arrested/
     publisher: Newswire
     date: 2026-11-02
+  - title: 36,710 கஞ்சா செடிகளுடன் மூன்று சந்தேக நபர்கள் கைது
+    url: https://hirunews.lk/sooriyanfmnews/497796/36710-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%9A%E0%AF%86%E0%AE%9F%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%81%E0%AE%9F%E0%AE%A9%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%9A%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%87%E0%AE%95-%E0%AE%A8%E0%AE%AA%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    publisher: Hiru News
+    date: 2026-11-02
+    language: ta
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the raid.
   - The three suspects were not named and no charges or court outcome were reported.
@@ -32,17 +37,16 @@ open_questions:
 
 Three suspects were arrested during a raid on a cannabis cultivation in the Maw
 Ara area of Hambegamuwa, in an operation that combined arrests with eradication
-of the crop. [@1] According to the Sri Lanka Army, the operation was carried out
+of the crop. [@1,2] According to the Sri Lanka Army, the operation was carried out
 by officers of the Monaragala Police Narcotics Bureau acting on information
-provided by Army Military Intelligence. [@1] Following the raid, the three
+provided by Army Military Intelligence. [@1,2] Following the raid, the three
 arrested suspects were handed over to the Hambegamuwa Police for further police
-investigations. [@1]
+investigations. [@1,2]
 
 At the Maw Ara site, officers found approximately two acres of land under
-cannabis cultivation, with a total of 36,710 cannabis plants growing there. [@1]
+cannabis cultivation, with a total of 36,710 cannabis plants growing there. [@1,2]
 The plants found during the raid were tall, mature, standing plants measuring
-between six and eight feet in height. [@1] The Army said all 36,710 cannabis
-plants were uprooted and then destroyed by burning at the same location. [@1]
+between six and eight feet in height. [@1,2] The Army said all 36,710 cannabis
+plants were uprooted and then destroyed by burning at the same location. [@1,2]
 The approximately two acres of cultivated land reported at the site corresponds
 to about 0.81 hectares. [@1]
-
