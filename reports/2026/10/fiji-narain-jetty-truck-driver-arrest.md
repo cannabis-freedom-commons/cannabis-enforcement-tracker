@@ -42,6 +42,10 @@ sources:
     url: https://www.fijivillage.com/u/truck-driver-arrested-after-suspected-marijuana-found-at-narain-jetty-raid-f3d55a/
     publisher: Fijivillage
     date: 2026-11-02
+  - title: Truck driver arrested after suspected marijuana found at Narain Jetty raid
+    url: https://www.fijivillage.com/sports/truck-driver-arrested-after-suspected-marijuana-found-at-narain-jetty-raid-f3d55a/
+    publisher: Fijivillage
+    date: 2026-11-02
 open_questions:
   - No weight, parcel count, or laboratory confirmation for the suspected marijuana was reported.
   - The driver's identity and any charge had not been reported, with investigations continuing.
@@ -49,11 +53,12 @@ open_questions:
   - Whether the supplied photo on the FBC News page shows this seizure could not be established from its caption.
   - The submitted /f/ address and the report's cited /news/ address carry the same title and article text and appear to be two paths to the same Fijivillage article.
   - The submitted /u/ address carries the same title, article text and image as the /news/ and /f/ addresses already cited and appears to be another path to the same Fijivillage article.
+  - The submitted /sports/ address carries the same title, article text and image as the /news/ address already cited and appears to be another path to the same Fijivillage article.
 ---
 
 A truck driver was arrested at Narain Jetty after police discovered a bag
 containing parcels of dried leaves and branches believed to be marijuana during
-a raid. [@1,3,4,5] The driver was arrested and taken into police custody immediately
+a raid. [@1,3,4,5,6] The driver was arrested and taken into police custody immediately
 after the bag was found. [@1,3,5] The suspected marijuana was found on a truck at
 the jetty when a subsequent search followed the drug-detection dog's indication.
 [@1,5]
@@ -61,10 +66,10 @@ the jetty when a subsequent search followed the drug-detection dog's indication.
 The operation was conducted by a joint team from the Totogo Operations Team, the
 Dog Unit and the Fiji Detector Dog Unit. [@2,4] During the operation, police dog
 K9 Herb indicated the possible presence of illicit substances on the truck,
-prompting officers to conduct a search. [@2,3,5] Officers searching the truck
+prompting officers to conduct a search. [@2,3,5,6] Officers searching the truck
 discovered a bag containing several parcels of dried leaves and branches,
 believed to be marijuana, inside the vehicle. [@2]
 
 Police have sent the seized substances for testing as investigations into the
-matter continue. [@1,3,4,5] The driver remained in police custody after the arrest
+matter continue. [@1,3,4,5,6] The driver remained in police custody after the arrest
 while the investigation continued. [@2]
