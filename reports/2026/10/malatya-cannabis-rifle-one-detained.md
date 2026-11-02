@@ -157,6 +157,11 @@ sources:
     publisher: ERTV Malatya
     date: 2026-10-31
     language: tr
+  - title: Sokak Satıcılarına Yönelik Düzenlenen Operasyonda Yüklü Miktarda Uyuşturucu ve Tüfek Ele Geçirildi
+    url: https://www.malatyatime.com/haber/sokak-saticilarina-yonelik-duzenlenen-operasyonda-yuklu-miktarda-uyusturucu-ve-tufek-ele-gecirildi-119438
+    publisher: Malatya Time
+    date: 2026-11-01
+    language: tr
 open_questions:
   - The reports give no separate date for the searches; 30 October 2026 is the date the first accounts were published, so the operation happened on or before that evening.
   - No suspect name, age, district or neighbourhood within Malatya, charge, court date or estimated value for the drugs was published.
@@ -185,8 +190,8 @@ media:
 ---
 
 Police in Malatya detained a suspected street-level cannabis dealer after
-searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,26,27,28] The searches turned up 2 kg 50 g of
-esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20,22,24,26,27,28] The suspect
+searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,26,27,28,29] The searches turned up 2 kg 50 g of
+esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20,22,24,26,27,28,29] The suspect
 was taken into custody and his processing at the police station was continuing.
 [@2,5,8,11]
 
@@ -202,7 +207,7 @@ street-level dealers who sell drugs to users. [@3] Malatya Haber said police had
 identified the man as selling drugs before he was caught with the cannabis and
 the rifle. [@3]
 
-The provincial police said the searches took place on 30 October 2026. [@4,10,13,17,23,28]
+The provincial police said the searches took place on 30 October 2026. [@4,10,13,17,23,28,29]
 
 Police said they detained the suspect on the instructions of the Malatya Chief Public Prosecutor's Office. [@10,17]
 
