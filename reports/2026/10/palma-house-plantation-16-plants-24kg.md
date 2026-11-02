@@ -44,6 +44,11 @@ sources:
     publisher: Ultima Hora
     date: 2026-11-01
     language: es
+  - title: Una plantación de marihuana con plantas de hasta cuatro metros acaba con un detenido en Palma
+    url: https://www.larazon.es/baleares/plantacion-marihuana-plantas-cuatro-metros-acaba-detenido-palma-b30m_202611016ae7bc4e0250123215706dbb.html?outputType=amp
+    publisher: La Razón
+    date: 2026-11-01
+    language: es
 open_questions:
   - The article was published on 1 November 2026 and says the arrest occurred on the previous Wednesday, so 28 October 2026 is used as the incident date by inference.
   - Only one source for this event could be opened; no second outlet or agency statement was found.
@@ -52,21 +57,22 @@ open_questions:
   - No value, plant destruction method, or cultivation-site size was published.
   - The new account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
   - The Europa Press page carries a photo whose content cannot be confirmed from its caption alone, so no media entry is added.
+  - This account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
 ---
 
 Spain's National Police dismantled a marijuana plantation inside a house in
 Palma and arrested the man described as responsible for the drugs for an offence
-against public health. [@1,2,3,4] The arrest was carried out by Grupo II de
-Estupefacientes, the National Police narcotics unit. [@1,2] Investigators said
+against public health. [@1,2,3,4,5] The arrest was carried out by Grupo II de
+Estupefacientes, the National Police narcotics unit. [@1,2,5] Investigators said
 they had learned that marijuana was being cultivated in a Palma home for later
 sale and distribution. [@1,2] After further inquiries, they confirmed that the
 occupant kept a plantation and cultivation materials in his dwelling. [@1] The
 arrest took place on the previous Wednesday. [@1,2]
 
 Officers who entered the property found 16 marijuana plants measuring between
-three and four metres tall. [@1,2,3,4] They seized 21 kilograms of bud-covered
-branches at the property. [@1,2,3,4] Investigators also seized three kilograms of buds
-described as ready to distribute or consume. [@1,2,3,4]
+three and four metres tall. [@1,2,3,4,5] They seized 21 kilograms of bud-covered
+branches at the property. [@1,2,3,4,5] Investigators also seized three kilograms of buds
+described as ready to distribute or consume. [@1,2,3,4,5]
 
 After the operation, police invited the public to report drug trafficking
 anonymously by email to antidroga@policia.es or through a dedicated section of
