@@ -19,6 +19,11 @@ media:
     media_url: https://media.phunumoi.net.vn/files/nguyetphamminh/2026/10/30/dn-175048.jpg
     publisher: Phụ nữ mới
     caption: 'Officers and grassroots security forces during the inspection in An Hải ward. Photo: Công an Đà Nẵng (Da Nang city police), via Phụ nữ mới.'
+  - kind: photo
+    url: https://cadn.com.vn/phat-hien-con-nghien-chat-ma-tuy-moi-post360279.html
+    media_url: https://filesdata.cadn.com.vn/filedatacadn/media/1200/2026/10/31/16e.jpg
+    publisher: Báo Công an TP Đà Nẵng
+    caption: Person found positive for cannabis during the An Hải ward checks.
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6a441d23d442a997aa2ba6493cd2a778
@@ -27,6 +32,16 @@ sources:
   - title: Hơn 100 cán bộ chiến sĩ đồng loạt ra quân, kiểm tra 49 trường hợp
     url: https://phunumoi.net.vn/hon-100-can-bo-chien-si-dong-loat-ra-quan-kiem-tra-49-truong-hop-d383260.html
     publisher: Phụ nữ mới
+    date: 2026-10-30
+    language: vi
+  - title: Phát hiện 'con nghiện' chất ma túy mới
+    url: https://cadn.com.vn/phat-hien-con-nghien-chat-ma-tuy-moi-post360279.html
+    publisher: Báo Công an TP Đà Nẵng
+    date: 2026-10-31
+    language: vi
+  - title: Phường An Hải phát hiện trường hợp dương tính với ma túy mới Etomidate
+    url: https://danang.gov.vn/vi/w/phuong-an-hai-phat-hien-truong-hop-duong-tinh-voi-ma-tuy-moi-etomidate
+    publisher: Cổng Thông tin điện tử thành phố Đà Nẵng
     date: 2026-10-30
     language: vi
 open_questions:
@@ -40,10 +55,10 @@ open_questions:
 Two people tested positive for drugs when An Hải ward police in Da Nang
 drug-tested 49 people on the morning of 30 October 2026. [@1] One of them,
 B.C.C., born in 2004 and living in An Hải ward, tested positive for cannabis.
-[@1] The other, P.N.H., born in 1987 and living in an apartment in the ward,
-tested positive for Etomidate. [@1] More than 100 officers, soldiers and members
+[@1,2] The other, P.N.H., born in 1987 and living in an apartment in the ward,
+tested positive for Etomidate. [@1,2] More than 100 officers, soldiers and members
 of grassroots forces that help keep local security and order took part in the
-sweep. [@1]
+sweep. [@1,3]
 
 The sweep followed the ward police's Plan 763/KH-CAP to clean up an area they
 treat as a drug hotspot. [@1] Teams checked people's residence at lodging
@@ -55,4 +70,3 @@ confusion, loss of behavioural control and respiratory failure. [@1]
 Ward police said they would keep screening the area and handling drug offences,
 aiming for a “drug-free ward” by 2028. [@1] They urged lodging owners and
 residents to report drug dealing, storage and use. [@1]
-
