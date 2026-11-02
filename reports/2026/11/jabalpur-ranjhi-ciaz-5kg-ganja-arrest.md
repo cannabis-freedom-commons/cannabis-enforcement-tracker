@@ -42,6 +42,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-02
     language: hi
+  - title: 'लिफ्ट लेकर जा रहे युवक गांजे के साथ पकड़ाए: रांझी में 5 किलो 131 ग्राम गांजा जब्त, कीमत 2.56 लाख रुपए; क्राइम ब्रांच और पुलिस की संयुक्त कार्रवाई - Jabalpur News'
+    url: https://www.bhaskar.com/local/mp/jabalpur/news/jabalpur-ranjhi-crime-branch-police-ganja-seized-narcotics-arrest-139569045.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the stop, search and arrests.
   - The headline and first paragraph say two smugglers were arrested, while the report later says a case was registered against all three occupants; the report uses arrested 2 and charged 3.
@@ -62,7 +67,7 @@ half lakh rupees. [@1] Police registered a case against all three people in the
 car. [@1]
 
 The weighed ganja totalled 5 kg 131 g, with an estimated value of Rs 256,500.
-[@1,2] The driver was identified as 36-year-old Balkishan Nagvanshi of Pipariya,
+[@1,2,3] The driver was identified as 36-year-old Balkishan Nagvanshi of Pipariya,
 Narmadapuram. [@1,2] The other two occupants were identified as 25-year-old Manish
 Kumar Rajak and 24-year-old Anand Srivas, both of Gohalpur, Jabalpur. [@1,2]
 
