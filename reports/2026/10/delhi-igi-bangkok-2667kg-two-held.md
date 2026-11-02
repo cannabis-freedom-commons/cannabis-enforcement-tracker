@@ -83,6 +83,11 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-10-30
     language: hi
+  - title: दिल्ली एयरपोर्ट पर कस्टम विभाग की बड़ी कार्रवाई, बैंकॉक से आए यात्रियों के पास से 9 करोड़ का गांजा जब्त
+    url: https://www.etvbharat.com/hi/videos/delhi-airport-hydroponic-ganja-seized-customs-hin26103103751
+    publisher: ETV Bharat
+    date: 2026-10-31
+    language: hi
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -103,6 +108,8 @@ open_questions:
   - The submitted page is the AMP edition of the Tribune article already cited in the report; it is the same account, not independent corroboration.
   - The ETV Bharat English article appears to be the English-language edition of the ETV Bharat account already cited in Hindi, so it is not independent corroboration.
   - The English page's lead image is captioned only with the headline and credited to a special arrangement, so its identification with this seizure rests on the article context.
+  - The submitted page is ETV Bharat's video item and appears to be a companion to the Hindi article from the same outlet already cited in the report, so it corroborates rather than independently confirms the figures.
+  - The page gives no separate date for the seizure or the arrests; 31 October 2026 is its publication date.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/bharat/26-dot-67-kg-of-hydroponic-weed-seized-at-igi-airport-two-arrested-dln26103101218
@@ -114,19 +121,29 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28002948-thumbnail-16x9-weed-at-igi-aspera.jpg
     publisher: ETV Bharat
     caption: 'Black-wrapped packages and a weighing scale in the lead image of the ETV Bharat report on the seizure. Photo: Special arrangement via ETV Bharat.'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/videos/delhi-airport-hydroponic-ganja-seized-customs-hin26103103751
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/31-10-2026/1200-675-28003929-thumbnail-16x9-fgfd.jpg
+    publisher: ETV Bharat
+    caption: 'Clear plastic evidence containers holding green plant material, sealed with red customs seals, in the video thumbnail for the ETV Bharat report. Photo: ETV Bharat.'
+  - kind: video
+    url: https://www.etvbharat.com/hi/videos/delhi-airport-hydroponic-ganja-seized-customs-hin26103103751
+    media_url: https://geo.dailymotion.com/player/xu5gi.html?video=xbsggvy
+    publisher: ETV Bharat
+    caption: 'ETV Bharat''s feature video on the 26.67 kg seizure (1 minute 34 seconds). Video: ETV Bharat.'
 ---
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9,10,11,13,14] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
+[@1,4,5,6,7,8,9,10,11,13,14,15] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
 Channel for X-ray screening after profiling. [@3,11,12] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
 Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13,14] The substance was seized under Section
 43(a) of the same act. [@1,4,5,6,7,12]
 
 Officers found 26 polythene pouches of a green substance suspected to be
-marijuana or hydroponic weed. [@2,11,12,13] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7,8,11,12,13,14] A diagnostic test indicated prima facie that the substance was
+marijuana or hydroponic weed. [@2,11,12,13,15] Customs valued the haul at about Rs 9.33
+crore. [@1,4,5,6,7,8,11,12,13,14,15] A diagnostic test indicated prima facie that the substance was
 marijuana or hydroponic weed. [@2,5,6,7,14]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
