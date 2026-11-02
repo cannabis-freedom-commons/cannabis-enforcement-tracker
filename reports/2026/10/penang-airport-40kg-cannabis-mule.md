@@ -74,6 +74,10 @@ sources:
     publisher: Harian Metro
     date: 2026-11-02
     language: ms
+  - title: Police arrest man at Penang airport over RM3.2m cannabis bound for London; RM1.05m drugs seized in Jelutong
+    url: https://www.malaymail.com/news/malaysia/2026/11/02/police-arrest-man-at-penang-airport-over-rm32m-cannabis-bound-for-london-rm105m-drugs-seized-in-jelutong/241726
+    publisher: Malay Mail
+    date: 2026-11-02
 open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
@@ -86,23 +90,27 @@ open_questions:
   - The submitted article also describes a separate 1 November Jelutong apartment operation involving MDMA, Erimin 5, ketamine and liquid methamphetamine; it is a different event left out here and its drugs are not counted as cannabis.
   - The submitted article describes the detention place as the airport waiting room, while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction on the detention itself.
   - The submitted article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted as cannabis.
+  - This article describes the detention place as the airport waiting area while the existing report specifies Gate B1 from its earlier sources; there is no material contradiction on the detention itself.
+  - This article also describes a separate Jelutong apartment drug operation involving MDMA powder, Erimin-5, ketamine and liquid methamphetamine; it is a different event left out here and its drugs are not counted as cannabis.
+  - This article gives no remand period or court outcome; the remand and charge dates in the existing report come from its earlier sources.
+  - Whether the lead Bernama photo on this page shows this cannabis seizure or a press-conference portrait could not be established from its caption, so no media entry is added.
 ---
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
 on 18 October 2026 while he waited for a flight at Gate B1 of Penang
-International Airport in Bayan Lepas. [@1,3,4,5,6] Officers from police together with
+International Airport in Bayan Lepas. [@1,3,4,5,6,10] Officers from police together with
 the Royal Malaysian Customs Department found the drugs inside two pieces of
 luggage he was carrying. [@1]
 
-The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9] Police
+The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10] Police
 valued the cannabis at RM3.2 million and said the man was acting as a drug mule
-tasked with carrying it to London. [@2,3,4,5,7,9] The man had arrived in Penang only two
+tasked with carrying it to London. [@2,3,4,5,7,9,10] The man had arrived in Penang only two
 days earlier, said he was acting on another person's instructions, and was
 promised RM9,000 for the trip in what police believed was his first cross-border
 air-trafficking attempt. [@2,4,5]
 
 A urine screening found him positive for amphetamine and methamphetamine, and a
-records check found two prior crime-related records. [@1,8] He was remanded for 13
+records check found two prior crime-related records. [@1,8,10] He was remanded for 13
 days from 19 to 31 October for investigation under Section 39B of the Dangerous
 Drugs Act 1952. [@1]
 
