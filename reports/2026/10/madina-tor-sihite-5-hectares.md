@@ -38,6 +38,11 @@ open_questions:
   - The submitted page says names of suspected owners had been collected but further investigation was still needed to confirm each person's involvement, leaving the identification status partly unresolved.
   - The submitted page says about 150 plants were secured, while the existing report counts about 150,000 plants; the report's figure is retained.
   - The submitted page repeats the official's rough 30-tonne burned estimate at about 200 grams per plant, not a weighed total.
+  - The submitted page does not give the 26 October tip date used in the existing report; it says the tip came from the public and dates the follow-up investigation to 29 October 2026.
+  - The submitted page attributes the 150,000-plant estimate to officers generally and does not name Comb Pol Josua Tampubolon.
+  - The submitted page gives a rough 30-tonne gross-weight conversion for the 150,000 plants, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
+  - The submitted page says the 29 October investigation team travelled about six hours and the 31 October destruction team travelled about seven hours, while the existing report describes about seven hours one way and 14 hours round trip.
+  - The submitted page names no suspects, arrests or charges for the plots.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -114,6 +119,11 @@ sources:
     publisher: POSMETRO MEDAN
     date: 2026-11-01
     language: id
+  - title: BNN Sumut dan Tim Gabungan Temukan 5 Hektar Ladang Ganja di Madina, Jumlahnya Fantastis
+    url: https://www.tvonenews.com/daerah/sumatera/476109-bnn-sumut-dan-tim-gabungan-temukan-5-hektar-ladang-ganja-di-madina-jumlahnya-fantastis
+    publisher: tvOneNews.com
+    date: 2026-11-01
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -149,7 +159,7 @@ media:
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16] No growers were
 named or arrested in either account. [@1,2]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -157,7 +167,7 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1]
 
@@ -171,6 +181,6 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10]
