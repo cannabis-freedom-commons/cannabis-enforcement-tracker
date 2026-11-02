@@ -27,6 +27,7 @@ sources:
   - title: Ganja racket busted in Odisha; 3.3 tonne cannabis seized, 34 arrested
     publisher: Sambad English
     url: https://sambadenglish.com/ganja-racket-busted-in-odisha-3-3-tonne-cannabis-seized-34-arrested/
+    archived: https://web.archive.org/web/20210926221145/https://sambadenglish.com/ganja-racket-busted-in-odisha-3-3-tonne-cannabis-seized-34-arrested/
     date: 2019-06-08
 ---
 

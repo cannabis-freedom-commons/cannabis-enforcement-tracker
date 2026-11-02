@@ -21,20 +21,17 @@ created_by_model: meta/muse-spark
 tags: [ndlea, operation-weed-eaters, tractor]
 open_questions:
   - No court outcome for the arrested financier is given in the opened sources.
-media:
-  - kind: photo
-    url: https://urhobotoday.com/ndlea-tractor-destroy-n6-8b-cannabis-farm-in-osun-state/
-    media_url: https://i0.wp.com/urhobotoday.com/wp-content/uploads/2014/10/NDLEA-tractor-working-on-the-cannabis-farm-in-osun.jpg
-    publisher: Urhobo Today
-    caption: NDLEA tractor clearing the cannabis farm in Osun State
+  - The article page references a photo of the NDLEA tractor at the farm, but the image file itself no longer loads, so no media entry could be kept.
 sources:
   - title: NDLEA Tractor Destroy N6.8b Cannabis Farm in Osun State
     publisher: Urhobo Today
     url: https://urhobotoday.com/ndlea-tractor-destroy-n6-8b-cannabis-farm-in-osun-state/
+    archived: https://web.archive.org/web/20251117223123/https://urhobotoday.com/ndlea-tractor-destroy-n6-8b-cannabis-farm-in-osun-state/
     date: 2014-10-14
   - title: Decriminalize Marijuana in West Africa
     publisher: West Africa Drug Policy Network
     url: https://www.wadpn.org/post/decriminalize-marijuana-in-west-africa
+    archived: https://web.archive.org/web/20260617231753/https://www.wadpn.org/post/decriminalize-marijuana-in-west-africa
     date: 2015-08-30
 ---
 

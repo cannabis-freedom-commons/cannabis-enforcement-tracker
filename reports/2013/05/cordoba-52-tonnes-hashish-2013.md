@@ -27,10 +27,12 @@ sources:
   - title: Short-Lived Record
     publisher: Costa Tropical Gazette
     url: https://www.theseasidegazette.com/2013/05/17843/short-lived-record/
+    archived: https://web.archive.org/web/20250713115810/https://www.theseasidegazette.com/2013/05/17843/short-lived-record/
     date: 2013-05-07
   - title: Morocco hashish exports through the roof
     publisher: Global Ganja Report
     url: https://globalganjareport.com/node/766
+    archived: https://web.archive.org/web/20260422211115/https://globalganjareport.com/node/766
     date: 2013-10-10
 ---
 

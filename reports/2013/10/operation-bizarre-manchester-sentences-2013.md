@@ -28,6 +28,7 @@ sources:
   - title: James Gregory and Dan Thomas act for businessman acquitted in largest ever inland seizure of cannabis trial
     publisher: Lincoln House Chambers
     url: https://www.lincolnhousechambers.com/james-gregory-and-dan-thomas-act-for-businessman-acquitted-in-largest-ever-inland-seizure-of-cannabis-trial/
+    archived: https://web.archive.org/web/20260605224453/https://www.lincolnhousechambers.com/james-gregory-and-dan-thomas-act-for-businessman-acquitted-in-largest-ever-inland-seizure-of-cannabis-trial/
 ---
 
 Five Manchester men were jailed on 18 October 2013 for running a cannabis supply network that brought the drug into England from the Netherlands. [@1] Carmello Anthony Abela, 53, received 18 years and his brother Geno Abela, 42, received 15 years; Michael Levvy, 44, was jailed for 12 years, Ian Thompson, 42, for five years, and Rizwan Safdar, 30, who had pleaded guilty to conspiracy to supply, for 20 months. [@1] The judge called it the largest prosecution for cannabis supply ever brought in Britain. [@1]

@@ -22,10 +22,12 @@ sources:
   - title: Police in Spain seize 2.7 tonnes of hashish
     publisher: Euronews
     url: https://www.euronews.com/2019/05/11/police-in-spain-seize-2-7-tonnes-of-hashish
+    archived: https://web.archive.org/web/20251217143623/https://www.euronews.com/2019/05/11/police-in-spain-seize-2-7-tonnes-of-hashish
     date: 2019-05-11
   - title: This time 2.7 Tonnes Of Hashish Seized In Spain
     publisher: Cannabis Law Report
     url: https://cannabislaw.report/this-time-2-7-tonnes-of-hashish-seized-in-spain/
+    archived: https://web.archive.org/web/20241214014955/https://cannabislaw.report/this-time-2-7-tonnes-of-hashish-seized-in-spain/
     date: 2019-05-11
 ---
 
