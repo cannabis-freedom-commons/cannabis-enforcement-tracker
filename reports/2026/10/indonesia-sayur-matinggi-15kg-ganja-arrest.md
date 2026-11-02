@@ -58,6 +58,11 @@ sources:
     publisher: Sumut24.co
     date: 2026-10-31
     language: id
+  - title: Polres Tapsel sita 15 Kg ganja di Sayur Matinggi, terduga kurir sebut milik rekannya
+    url: https://sumut.antaranews.com/amp/berita/675467/polres-tapsel-sita-15-kg-ganja-di-sayur-matinggi-terduga-kurir-sebut-milik-rekannya
+    publisher: ANTARA News Sumatera Utara
+    date: 2026-10-31
+    language: id
 open_questions:
   - The cannabis in the suitcase was reported only as "about 15 kg"; the sources give no exact total weight or street value.
   - The 5.15 g found in AHB's pocket was reported separately from the suitcase haul, and the reports give no single precise combined figure.
@@ -76,15 +81,15 @@ open_questions:
 
 The South Tapanuli narcotics unit detained a 49-year-old man identified by the
 initials AHB, a resident of Mandailing Natal regency, over suspected cannabis
-dealing. [@1,3,4,5] The operation took place in Aek Badak village, Sayur Matinggi
-subdistrict, South Tapanuli regency, on Wednesday 21 October 2026. [@2,4,5] Officers
+dealing. [@1,3,4,5,6] The operation took place in Aek Badak village, Sayur Matinggi
+subdistrict, South Tapanuli regency, on Wednesday 21 October 2026. [@2,4,5,6] Officers
 acted on intelligence about a man suspected of carrying cannabis. [@1,4] They
 found a white sack containing a grey suitcase wrapped in blue plastic and tape.
 [@1,2,3,4,5]
 
-Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,2,3,4,5] A
-further 5.15 g was found in AHB's front left trouser pocket. [@1,2,3,4,5] AHB told
-officers the cannabis belonged to a friend identified only as A. [@1,2,3,4,5]
+Inside the suitcase was about 15 kg of ganja, Indonesian for cannabis. [@1,2,3,4,5,6] A
+further 5.15 g was found in AHB's front left trouser pocket. [@1,2,3,4,5,6] AHB told
+officers the cannabis belonged to a friend identified only as A. [@1,2,3,4,5,6]
 
 Police said they were still looking for A. [@1] They were also investigating
 where the cannabis came from and possible involvement by others. [@2,4] South
