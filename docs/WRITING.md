@@ -75,6 +75,10 @@ Leave a field out rather than guessing.
 Keep `kg_seized` in kilograms without rounding away small quantities: 3.86 g is `0.00386`.
 The site chooses mg, g, kg or tonnes for display; the stored unit stays kilograms.
 
+Apply the substance scope in `docs/CFI.md`: synthetic cannabinoids and their precursors are not
+cannabis figures. In mixed events, use only the separately supported cannabis weight; omit a
+combined weight that cannot be separated, and explain that limitation in `open_questions`.
+
 ## 6. Place
 
 Give `coordinates` for the most precise place the sources name, and say how precise with

@@ -59,6 +59,13 @@ insufficient_evidence.
 
 ## Research
 
+Apply the substance scope in docs/CFI.md before drafting. Synthetic cannabinoids and their
+precursors are out of scope, including hemp used only as their carrier: return not_relevant,
+not routed_to_cfi, for these cases. A mixed event qualifies only when opened sources establish a
+separate cannabis enforcement component. Focus on that component and never count synthetic
+quantities or combined drug totals as cannabis. Identify substances from the opened evidence,
+not a headline or trade name alone.
+
 Search for a second report of the same event (the agency's own statement, another outlet, in the
 local language too), open it and use it if it confirms or adds facts. An inaccessible source or a
 search snippet is not evidence. Publish a sourced account when trustworthy opened reporting establishes the enforcement event.
@@ -95,6 +102,8 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   - plants_destroyed: cannabis plants seized, uprooted, cut, burned or destroyed (the tracker keeps
     seized plants here too: "officers seized 52 plants" is plants_destroyed 52);
   - kg_seized: cannabis by weight, seized or destroyed (dried cannabis, resin, oil), in kg;
+    exclude synthetic cannabinoids and precursors, and omit combined weights that cannot be
+    separated into cannabis and other substances (explain the limitation in uncertainties);
   - hectares: fields destroyed; arrested: people detained; charged: people charged or tried;
   - prison: only a sentence a court has given, as stated ("3 years", "life"); never the penalty a
     charge could carry ("faces up to 3 years" stays in the text, not in figures);

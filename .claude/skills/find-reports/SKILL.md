@@ -48,6 +48,10 @@ sentence, a record campaign).
 
 ## 2b. Here or in the CFI?
 
+Apply the substance scope in `docs/CFI.md` first: skip synthetic cannabinoids and their precursors,
+including hemp used only as their carrier. A mixed event needs a separately supported cannabis
+enforcement component; never count synthetic quantities as cannabis.
+
 Only single enforcement events since 2000 that change no law are reports (`docs/CFI.md`). A change in
 the law, a precedent, a famous or landmark case, national statistics or an execution found on the way
 goes to the Cannabis Freedom Index history (`../cannabis-freedom-index`, `changes.yaml`, added without

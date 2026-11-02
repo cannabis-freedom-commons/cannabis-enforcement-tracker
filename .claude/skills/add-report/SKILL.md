@@ -11,6 +11,10 @@ events make one report each.
 
 ## 0. Does it belong here?
 
+Apply the substance scope in `docs/CFI.md` first: synthetic cannabinoids and their precursors,
+including hemp used only as their carrier, are out of scope. A mixed event needs a separately
+supported cannabis enforcement component; never count synthetic quantities as cannabis.
+
 A single enforcement event since 2000 that changes no law belongs here. A change in the law, a
 precedent-setting ruling, a famous or landmark case, national statistics, an execution or an event
 before 2000 goes to the Cannabis Freedom Index history instead (`docs/CFI.md`); say so and add it

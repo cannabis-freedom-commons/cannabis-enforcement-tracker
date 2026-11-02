@@ -4,6 +4,10 @@ The Cannabis Enforcement Tracker: sourced reports of cannabis eradication, seizu
 prosecutions, sentences, executions and deaths, built with Astro. Companion to the Cannabis Freedom
 Index (country ids are the CFI's).
 
+- **Scope:** cannabis enforcement only. Synthetic cannabinoids and their precursors are out of
+  scope, including hemp used only as a carrier for them. Mixed events qualify only with a separately
+  supported cannabis enforcement component; keep synthetic quantities out of cannabis figures.
+  See `docs/CFI.md` for the full rule.
 - **To add a report from a URL** the user gives, follow `.claude/skills/add-report/SKILL.md`.
 - **To find and add reports**, follow `.claude/skills/find-reports/SKILL.md`. Start with
   `node scripts/coverage.mjs`.

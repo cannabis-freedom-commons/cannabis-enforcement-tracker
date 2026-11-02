@@ -5,6 +5,20 @@ each country's law allows and how it got there: its history of laws, rulings and
 tracker records how the law is applied: raids, seizures, eradication, arrests, prosecutions and
 sentences. Country ids are the CFI's.
 
+## Substance scope
+
+The tracker covers enforcement involving cannabis plants and cannabis products such as marijuana,
+hashish, resin, oil and edibles. **Synthetic cannabinoids and their precursors are out of scope.**
+Do not add synthetic-only cases, including products described as "synthetic cannabis", Spice, K2
+or bonzai, or hemp sprayed or infused with synthetic cannabinoids when the hemp is only their
+carrier. These cases are outside this tracker's scope, not referrals to the CFI history.
+
+A mixed event can qualify when opened sources establish a separate cannabis enforcement component.
+Focus the report on that component; other substances may be mentioned to explain the same event,
+but never include their quantities in cannabis figures or attribute combined drug totals to cannabis.
+Determine the substance from the opened evidence, not a headline or trade name alone. If the
+cannabis component cannot be established, do not draft a cannabis report.
+
 ## What goes where
 
 **Comes here (a report):** a single enforcement event since 2000 that changes no law: an operation,
