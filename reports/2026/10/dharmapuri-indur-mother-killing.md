@@ -62,6 +62,11 @@ sources:
     publisher: Tamil Spark
     date: 2026-10-31
     language: ta
+  - title: தலைக்கேறிய கஞ்சா போதை.. பெற்ற தாய்க்கு மகன் செய்த கொடூரம்.. பதறவைக்கும் சம்பவம்!
+    url: https://tamil.news18.com/tamil-nadu/son-arrested-for-beating-mother-to-death-over-ganja-in-dharmapuri-nw-kpk-ws-l-2242721.html
+    publisher: News18 Tamil
+    date: 2026-10-30
+    language: ta
 open_questions:
   - 'The accounts differ on the date and time: Thanthi TV placed the killing on the morning of 30 October, The Hindu and Dinakaran late on 29 October, and Dinamalar on the night of 28 October; this report uses the night of 29 October.'
   - Chinnapappa's age is given as 42 by Thanthi TV and 45 by The Hindu, Dinakaran and Dinamalar; Devaraj's age is given as 19 by Thanthi TV, The Hindu and Dinakaran and 20 by Dinamalar.
@@ -74,6 +79,9 @@ open_questions:
   - Oneindia Tamil and Tamil Spark reported that Chinnapappa spent about ₹40,000 to secure Devaraj's bail, while The Hindu reported ₹50,000.
   - The Hindu reported that Devaraj attacked his mother after she refused him money, while the police account reported by Oneindia Tamil and Tamil Spark says he was angered by her advice to give up drinking and his insistence that no one question him.
   - 'No new event photograph was identified: Oneindia Tamil''s only image is captioned ''Dharmapuri crime'' with no credit, and Tamil Spark''s is an uncaptioned collage.'
+  - News18 Tamil gives no separate incident date; 30 October 2026 is its publication date and it dates the bail release to Thursday, while the existing report uses the night of 29 October and bail on 28 October.
+  - News18 Tamil says Devaraj attacked Chinnapappa with an iron rod, supporting The Hindu and Dinakaran against Thanthi TV's knife account already noted in the report.
+  - The page's only image is captioned Devaraj-Chinnapappa portraits, not the attack, arrest or scene, so no media entry is added.
 ---
 
 Police in Indur, in Tamil Nadu's Dharmapuri district, arrested 19-year-old
@@ -90,15 +98,15 @@ while wearing a traffic policeman's cap. [@2] His mother secured his release on
 bail on Wednesday, 28 October, by depositing ₹50,000 she had borrowed, according
 to the same report. [@2] Dinakaran reported that he had been addicted to alcohol
 and cannabis since childhood and had been released on bail shortly before the
-killing. [@3] On the night of 29 October he came home under the influence of
+killing. [@3,9] On the night of 29 October he came home under the influence of
 ganja and asked his mother for money, Dinakaran reported. [@3] When she refused,
 he stabbed her with an iron rod and a knife, Dinakaran reported. [@3] Neighbours
 who heard her screams found her dead and Devaraj standing nearby with an iron
-rod, according to Dinakaran. [@3]
+rod, according to Dinakaran. [@3,9]
 
 Dinamalar, which gave his age as 20 and his mother's as 45, said he was drunk.
 [@4] The Hindu described him as inebriated at the earlier arrest. [@2] Indur
 police sent Chinnapappa's body to Dharmapuri government hospital for
-post-mortem, Dinakaran reported. [@3]
+post-mortem, Dinakaran reported. [@3,9]
 
 In a statement, Indur police denied that Devaraj was under the influence of cannabis, saying he was addicted to alcohol and killed his mother in anger because he would not tolerate anyone questioning him. [@7] Chinnapappa urged Devaraj to give up drinking after he returned home, and he became angry when she scolded him, Tamil Spark reported. [@8]
