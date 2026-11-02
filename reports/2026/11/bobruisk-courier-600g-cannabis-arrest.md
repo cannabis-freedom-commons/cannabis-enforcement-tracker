@@ -78,6 +78,11 @@ sources:
     publisher: VK Видео
     date: 2026-11-01
     language: ru
+  - title: В Бобруйске задержали оптово-розничного курьера интернет-наркошопа
+    url: https://mogilevnews.by/news/02-11-2026-09-00/v-bobrujske-zaderzhali-optovo-roznichnogo-kurera-internet-narkoshopa/
+    publisher: mogilevnews.by
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The reports give no separate date for the detention; 1 November 2026 is the date of the Interior Ministry statement and the first news reports.
   - The ministry gave only a combined figure of more than 600 g for the hashish and marijuana, without separate weights.
@@ -89,6 +94,9 @@ open_questions:
   - The page gives only a relative publication time of '1 день назад'; 2026-11-01 is inferred from the 2026-11-02 run date and matches the existing report date.
   - The page's listed preview images are unrelated recommended videos, so no event photo or video is added as media.
   - The source gives only a combined figure of more than 600 g for hashish and marijuana, already recorded as such; the 2,000 LSD stamps are not cannabis and remain out of cannabis figures.
+  - The submitted page is dated 2 November 2026 while the existing report uses 1 November 2026, the date of the Interior Ministry statement and first reports; no separate detention date is given.
+  - The submitted photo caption repeats the headline and does not establish that the image shows this seizure, so no media entry is added.
+  - The source gives only a combined figure of more than 600 g for hashish and marijuana, without separate weights; the 2,000 LSD stamps are not cannabis and remain outside cannabis figures.
 ---
 
 Officers from the drug-control department of the Bobruisk city executive
@@ -96,13 +104,13 @@ committee's interior directorate, working with operatives from the Mogilev
 Region interior directorate and OMON riot police, detained a 32-year-old
 Bobruisk resident, the Belarusian Interior Ministry said. [@2,5,6,8,10] The ministry said
 the man had worked as a wholesale and retail courier for an online drug shop and
-had packaged its goods with specialised equipment for further distribution. [@1,8,10]
+had packaged its goods with specialised equipment for further distribution. [@1,8,10,11]
 It called him a “broad-profile” zakladchik, a courier who leaves drugs in caches
 for buyers. [@2] Investigators opened a criminal case over illegal drug
 trafficking with intent to sell, and the man faces up to 15 years in prison.
-[@1,5,6,7,9,10]
+[@1,5,6,7,9,10,11]
 
 Police found and seized 2,000 LSD stamps and more than 600 g of hashish and
-marijuana, the ministry said. [@3,5,6,7,8,10] The drugs were found on him, at his home and
-in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5,6,7,10] The ministry said his drug
-business had lasted about a month. [@1,7]
+marijuana, the ministry said. [@3,5,6,7,8,10,11] The drugs were found on him, at his home and
+in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5,6,7,10,11] The ministry said his drug
+business had lasted about a month. [@1,7,11]
