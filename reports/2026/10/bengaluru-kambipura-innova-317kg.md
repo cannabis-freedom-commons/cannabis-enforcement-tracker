@@ -1,5 +1,5 @@
 ---
-date: 2026-10-26
+date: 2026-10-12
 country: in
 place: Kambipura, Bengaluru, Karnataka
 coordinates: [12.882, 77.461]
@@ -22,15 +22,18 @@ tags: [rental-car, odisha-route, kerala-route]
 sources:
   - title: Bengaluru, Two inter-state drug peddlers arrested with 317 kg ganja worth Rs 1.78 crore
     url: https://desitalkchicago.com/bengaluru-two-inter-state-drug-peddlers-arrested-with-317-kg-ganja-worth-rs-1-78-crore/
+    archived: https://web.archive.org/web/20261014081624/https://desitalkchicago.com/bengaluru-two-inter-state-drug-peddlers-arrested-with-317-kg-ganja-worth-rs-1-78-crore/
     publisher: Desi Talk Chicago / ANI
     date: 2026-10-26
   - title: Two arrested with 317 kg of ganja worth Rs 3.17 crore in Bengaluru
     url: https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
+    archived: https://web.archive.org/web/20261013195118/https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     publisher: hi INDiA / IANS
-    date: 2026-10-26
+    date: 2026-10-13
 media:
   - kind: photo
     url: https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
+    archived: https://web.archive.org/web/20261013195118/https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     publisher: hi INDiA / Bengaluru police
     caption: Officers with the seized sacks at the Kumbalagodu press briefing
 ---
