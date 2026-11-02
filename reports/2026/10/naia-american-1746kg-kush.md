@@ -88,6 +88,9 @@ sources:
     url: https://tribune.net.ph/2026/10/31/american-national-nabbed-at-naia-for-p174-m-marijuana-kush
     publisher: Daily Tribune
     date: 2026-10-31
+  - title: Philippine Star - A 62-year-old American was arrested at... | Facebook
+    url: https://www.facebook.com/PhilippineSTAR/posts/a-62-year-old-american-was-arrested-at-the-ninoy-aquino-international-airport-na/1678760480954491/
+    publisher: Philippine Star
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -107,12 +110,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Tribune: A 62-year-old American citizen was arrested at Ninoy Aquino International Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency (PDEA) reported.'
   - Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
   - The submitted page's only picture is a generic handcuff stock image from 2025, not a photograph of the seizure, so no media entry was added for it.
+  - The post repeats the opening of the Philstar.com article the report already cites, so it corroborates that account rather than independently confirming it.
 ---
 
 A 62-year-old American citizen was arrested at Ninoy Aquino International
 Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of
 high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency
-(PDEA) reported. [@1,2,3,4,7,9] The suspect, identified only by the alias “Henry,” had
+(PDEA) reported. [@1,2,3,4,7,9,12] The suspect, identified only by the alias “Henry,” had
 arrived from Bangkok, Thailand, and was intercepted at the airport's customs
 secondary inspection area on Thursday 29 October. [@2] The interception happened
 around 8:35 p.m. [@1,2]
