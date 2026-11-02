@@ -44,6 +44,11 @@ sources:
     publisher: La Ciutat
     date: 2026-11-02
     language: es
+  - title: La Policía Nacional desmantela un entramado criminal con siete detenidos, 3.000 plantas de marihuana y un arsenal de armas
+    url: https://amp.elperiodico.com/es/videos/sucesos/policia-nacional-desmantela-entramado-criminal/135994599.shtml
+    publisher: El Periódico
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the operation.
   - Only one opened source was found; no agency statement or second outlet was available to corroborate.
@@ -53,11 +58,14 @@ open_questions:
   - The submitted page gives only its publication date of 2 November 2026 and no separate date for the raid, while the related castellar-valles-mataro-7-arrests-3000-plants report dates the operation to 20 October.
   - The page lists one image URL but provides no caption or credit confirming it shows this operation, so no media entry is added.
   - Two other existing slugs appear to record the same seven-arrest and 3,000-plant operation and may be duplicates.
+  - The video page gives only its publication date of 2 November 2026 and no separate date for the operation.
+  - The opened video page names no locality; the Mataró and Barcelona locations come from the existing report.
+  - The page gives no detainee identities, court outcome, drug weight beyond plant count, or other seizure details.
 ---
 
 Agents of the National Police together with the Mataró Local Police carried out
 an anti-drug operation in the province of Barcelona in which seven people were
-detained and 3,000 marijuana plants were seized. [@1,2,3] The operation dismantled
+detained and 3,000 marijuana plants were seized. [@1,2,3,4] The operation dismantled
 an alleged criminal organisation dedicated to distributing marijuana for the
 European black market. [@1] The seven detainees were placed at judicial
 disposition accused of alleged crimes against public health, illegal possession
