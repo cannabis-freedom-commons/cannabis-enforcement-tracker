@@ -52,6 +52,11 @@ sources:
     publisher: ОДКБ (CSTO)
     date: 2026-10-30
     language: ru
+  - title: Более 11 тонн наркотиков изъяли в ходе операции с участием Казахстана
+    url: https://dknews.kz/ru/v-mire/409244-bolee-11-tonn-narkotikov-izyali-v-hode-operacii-s
+    publisher: DKNews.kz
+    date: 2026-10-31
+    language: ru
 open_questions:
   - The figures cover five CSTO member states plus China and Iran, and no country-by-country breakdown was published; the report is filed under Kazakhstan because the operation's international coordination headquarters and the results announcement were in Almaty.
   - The marijuana and hashish figures are stated as minimums ("more than 1,260 kg" and "over 232 kg"), so the 1,492 kg cannabis total is a lower bound.
@@ -61,24 +66,25 @@ open_questions:
   - The submitted page's only image is the CSTO flag, not a photograph of the operation, so no media is listed.
   - Open.kg gives "more than 1,700" rounds of ammunition, while the report's 1,722 comes from the CSTO statement; the figures are compatible but not identical.
   - 'Left out, as its quotation was not found in ОДКБ (CSTO): Within CSTO territory, officers seized more than 1,260 kg of marijuana and over 232 kg of hashish — at least 1,492 kg of cannabis — along with 47 kg of alpha-PVP, more than 68 kg of mephedrone and 31 kg of heroin.'
+  - The page's only listed image has no caption identifying what it shows, so no media entry is made.
 ---
 
 Officers from five Collective Security Treaty Organization (CSTO) states
 detained 376 people suspected of drug trafficking during the operation,
 including 135 citizens of states outside the alliance and 59 people who had been
-wanted. [@1,6] The operation recorded 790 drug crimes, including 81 smuggling
-cases, and broke up 101 drug groups. [@1,6]
+wanted. [@1,6,8] The operation recorded 790 drug crimes, including 81 smuggling
+cases, and broke up 101 drug groups. [@1,6,8]
 
 Within CSTO territory, officers seized more than 1,260 kg of marijuana and over
 232 kg of hashish — at least 1,492 kg of cannabis — along with 47 kg of
-alpha-PVP, more than 68 kg of mephedrone and 31 kg of heroin. [@1] In total,
+alpha-PVP, more than 68 kg of mephedrone and 31 kg of heroin. [@1,8] In total,
 more than 11.4 tonnes of prohibited substances were taken out of circulation in
 the CSTO states, China and Iran, including about 11 tonnes of drugs, 9.4 kg of
 psychotropic substances and 23 kg of potent substances. [@1,6] The operation also
 seized 213 firearms and 1,722 rounds of ammunition. [@1,7]
 
 The subregional operation "Canal – Caspian Lighthouse" ran from 26 to 30 October
-2026. [@1,6] Almost 9,000 officers from Belarus, Kazakhstan, Kyrgyzstan, Russia
+2026. [@1,6,8] Almost 9,000 officers from Belarus, Kazakhstan, Kyrgyzstan, Russia
 and Tajikistan took part, joined by more than 2,000 representatives of China and
 Iran. [@1,6] Its international coordination headquarters was in Almaty,
 Kazakhstan. [@4] The preliminary results were announced in Almaty. [@2] The
