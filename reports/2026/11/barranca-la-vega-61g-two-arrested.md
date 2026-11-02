@@ -28,6 +28,11 @@ sources:
     publisher: RCC Noticias
     date: 2026-11-01
     language: es
+  - title: DNCD arresta a dos presuntos microtraficantes con cocaína, marihuana y arma ilegal en La Vega
+    url: https://eldia.com.do/dncd-arresta-a-dos-presuntos-microtraficantes-con-cocaina-marihuana-y-arma-ilegal-en-la-vega/
+    publisher: El Día
+    date: 2026-11-01
+    language: es
 open_questions:
   - The article gives no separate date for the raids; 1 November 2026 is the publication date used as the incident date.
   - All drug descriptions are presumptive and no laboratory confirmation was published.
@@ -40,18 +45,18 @@ open_questions:
 
 Agents of the DNCD, the Dominican Republic's National Directorate for Drug
 Control, working with the Public Ministry prosecutors, arrested two men during
-operations in the Barranca sector of La Vega province. [@1] The authorities
+operations in the Barranca sector of La Vega province. [@1,2] The authorities
 described the detainees as alleged members of a drug sale and distribution
-structure in that area supposedly led by a man known as Carlitos Darielky. [@1]
+structure in that area supposedly led by a man known as Carlitos Darielky. [@1,2]
 Officers detained Luis Alberto Florimón Abreu, also known as Sepequeño and Niño,
-in one of the procedures. [@1] Officers arrested Luis Miguel Lora Canela in
+in one of the procedures. [@1,2] Officers arrested Luis Miguel Lora Canela in
 another action near the same sector and took from him a handmade firearm with a
-9 mm cartridge. [@1] After the procedures, both men were transferred and placed
+9 mm cartridge. [@1,2] After the procedures, both men were transferred and placed
 at the disposal of the Public Ministry with the seized substances and objects
 for legal proceedings. [@1]
 
 From Lora Canela officers recovered 56 wrappers of plant material appearing to
-be marijuana, estimated at 61.4 grams. [@1] From the same man officers also
+be marijuana, estimated at 61.4 grams. [@1,2] From the same man officers also
 reported 37 portions of suspected cocaine weighing about 244.3 grams, a
 non-cannabis amount not counted in the cannabis figures. [@1] From Florimón
 Abreu officers reported 60 portions of white powder presumed to be cocaine
@@ -69,4 +74,3 @@ was keeping surveillance and investigation operations reinforced in the area to
 identify other possible distribution points and pursue alleged participants.
 [@1] The authorities were to continue investigations and establish each
 detainee's individual responsibility as the judicial process advanced. [@1]
-
