@@ -28,6 +28,11 @@ media:
     media_url: https://www.4oito.com.br/image/cT05OCZ0YWc9JnNyYz1tZWRpYS9ub3RpY2lhcy9fMTEwNDY5LmpwZyZyPTE3OTM0NTEzNzgmdz03Mjg=/_110469.jpg
     publisher: 4oito
     caption: 'Military Police handout photo published with the report, captioned as officers spotting the man who ran into the house when he saw the patrol car. Photo: Divulgação/PMSC'
+  - kind: photo
+    url: https://www.lenoticias.com.br/noticia/39622/homem-e-preso-com-140-kg-de-maconha-em-balneario-rincao
+    media_url: https://www.lenoticias.com.br/extranet/thumbnail/crop/850/Noticia/whatsapp_image_2026_10_31_at_11_1793466653410.29.39.jpeg
+    publisher: Lê Notícias
+    caption: Police photo of the 140 kg of cannabis and scales seized in Balneário Rincão.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3b33f6d39a1e25f135869e49ac79b18a
@@ -83,6 +88,11 @@ sources:
     publisher: ContraFatos
     date: 2026-10-31
     language: pt
+  - title: Homem é preso com 140 kg de maconha em Balneário Rincão
+    url: https://www.lenoticias.com.br/noticia/39622/homem-e-preso-com-140-kg-de-maconha-em-balneario-rincao
+    publisher: Lê Notícias
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -106,7 +116,7 @@ open_questions:
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,3,4,5,6,7,9,10] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,3,4,5,6,7,9,10,11] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
 it was being used as a depot for drugs intended for sale. [@1,5,9] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
@@ -123,10 +133,12 @@ Several of the tablets carried a printed photograph of President Luiz Inácio
 Lula da Silva beside another man, taped to packages wrapped in green and yellow
 tape; the reason was not explained. [@3] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station in
-Criciúma. [@3,5,6,7,8,10]
+Criciúma. [@3,5,6,7,8,10,11]
 
 The man told police the cannabis was meant to supply drug sales during the summer season in Balneário Rincão, when the town's population rises. [@4,6,7]
 
 The image printed on the tablets was AI-generated and showed President Luiz Inácio Lula da Silva beside former president Jair Bolsonaro, according to Misturebas. [@8]
 
 In the printed image taped to the packages, Lula wore a Corinthians shirt and made an L gesture beside another man. [@10]
+
+According to the military police, the man already had a criminal record for possession and drug trafficking, disobedience, resistance and robbery. [@11]
