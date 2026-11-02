@@ -51,18 +51,25 @@ sources:
     publisher: اوان مصر
     date: 2026-11-01
     language: ar
+  - title: ضبط تاجر مخدرات في طهطا وبحوزته حشيش ومبلغ مالي
+    url: https://mwlana.com/details/193886/
+    publisher: بوابة مولانا
+    date: 2026-11-01
+    language: ar
 open_questions:
   - None of the four accounts gives the weight of the hashish or the amount of cash seized.
   - No separate date is given for the arrest; 1 November 2026 is the publication date of all four accounts.
   - No charge, court date or outcome has been reported after the man was referred to the Public Prosecution.
   - The accounts repeat the police statement's wording and add little independent detail; one outlet gave the suspect's first name as Nour while the others used the initials N. A. S.
   - No photo of the arrest was published; the pictures on the pages are generic archive or Ministry of Interior images, so none is linked.
+  - The article gives no weight for the hashish or amount for the cash seized.
+  - The article gives no separate date for the arrest; 1 November 2026 is its publication date.
 ---
 
 Police in Tahta, a district in northern Sohag governorate, arrested a
 34-year-old man with a quantity of hashish, saying he was caught before he could
 sell the drug to customers. [@1,7] The man, identified in police accounts as N. A.
-S., lives in Al-Jubayrat village in the district. [@2,6] Detectives had received a
+S., lives in Al-Jubayrat village in the district. [@2,6,8] Detectives had received a
 tip that he was dealing in drugs and using one of the district's villages as his
 base. [@1,7]
 
@@ -70,9 +77,9 @@ The operation followed authorisation from the Public Prosecution and was led by
 Ahmed al-Bariri, head of the Tahta police investigations unit, with Captain Alaa
 Omran assisting. [@3,7] Police said he was caught in the act with the seized
 items. [@1] Besides the hashish, officers found cash that police suspect came
-from drug sales. [@2,5] Questioned by police, he admitted holding the drugs for
+from drug sales. [@2,5,8] Questioned by police, he admitted holding the drugs for
 sale and said he wanted quick financial profit. [@1,7] He was referred to the
-Public Prosecution for investigation. [@4,6]
+Public Prosecution for investigation. [@4,6,8]
 
 Dealing in hashish carries death or life imprisonment and a fine of between
 100,000 and 500,000 Egyptian pounds under article 34 of Egypt's 1960 narcotics
