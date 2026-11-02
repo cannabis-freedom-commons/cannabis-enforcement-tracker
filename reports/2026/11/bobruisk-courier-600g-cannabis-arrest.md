@@ -63,6 +63,16 @@ sources:
     publisher: Зеркало
     date: 2026-11-01
     language: ru
+  - title: 'До 15 лет лишения свободы: задержан бобруйчанин, работавший курьером интернет-наркошопа'
+    url: https://bobr.by/news/gai/199344
+    publisher: BOBR.BY
+    date: 2026-11-01
+    language: ru
+  - title: В Бобруйске задержан наркозакладчик широкого профиля
+    url: https://komkur.info/proisshestvija/v-bobrujske-zaderzhan-narkozakladchik-shirokogo-profilya
+    publisher: Коммерческий курьер
+    date: 2026-11-01
+    language: ru
 open_questions:
   - The reports give no separate date for the detention; 1 November 2026 is the date of the Interior Ministry statement and the first news reports.
   - The ministry gave only a combined figure of more than 600 g for the hashish and marijuana, without separate weights.
@@ -76,15 +86,15 @@ open_questions:
 Officers from the drug-control department of the Bobruisk city executive
 committee's interior directorate, working with operatives from the Mogilev
 Region interior directorate and OMON riot police, detained a 32-year-old
-Bobruisk resident, the Belarusian Interior Ministry said. [@2,5,6] The ministry said
+Bobruisk resident, the Belarusian Interior Ministry said. [@2,5,6,8] The ministry said
 the man had worked as a wholesale and retail courier for an online drug shop and
-had packaged its goods with specialised equipment for further distribution. [@1]
+had packaged its goods with specialised equipment for further distribution. [@1,8]
 It called him a “broad-profile” zakladchik, a courier who leaves drugs in caches
 for buyers. [@2] Investigators opened a criminal case over illegal drug
 trafficking with intent to sell, and the man faces up to 15 years in prison.
-[@1,5,6,7]
+[@1,5,6,7,9]
 
 Police found and seized 2,000 LSD stamps and more than 600 g of hashish and
-marijuana, the ministry said. [@3,5,6,7] The drugs were found on him, at his home and
+marijuana, the ministry said. [@3,5,6,7,8] The drugs were found on him, at his home and
 in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5,6,7] The ministry said his drug
 business had lasted about a month. [@1,7]
