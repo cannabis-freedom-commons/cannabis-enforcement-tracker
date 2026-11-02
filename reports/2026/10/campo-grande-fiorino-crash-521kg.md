@@ -31,19 +31,25 @@ sources:
     publisher: Campo Grande News
     date: 2026-11-01
     language: pt
+  - title: Acidente de trânsito termina com apreensão de mais de 500 kg de maconha em Campo Grande
+    url: https://www.fatimanews.com.br/policial/acidente-de-transito-termina-com-apreensao-de-mais-de-500-kg-de-maconha-em-campo-grande/1000924/
+    publisher: Fátima News
+    date: 2026-11-01
+    language: pt
 open_questions:
   - The reports do not describe the motorcyclist's injuries or condition.
   - The origin and intended destination of the cannabis load were not given; Civil Police investigation was continuing.
   - The JD1 Notícias page image is a generic police-siren illustration, not this seizure, so it is not listed as media.
+  - The submitted page's only image is a generic police-siren illustration credited as Reprodução, not a photo of this seizure, so no media entry is added.
 ---
 
 On the night of Saturday 31 October 2026, a Fiat Fiorino collided with a
 motorcycle at the crossing of Rua da Divisão and Avenida Eva Perón in Campo
 Grande, and its driver abandoned the vehicle and fled on foot before being
-identified. [@1] The driver took advantage of the rescuers' arrival to leave the
+identified. [@1,3] The driver took advantage of the rescuers' arrival to leave the
 scene and had not been identified. [@2] Firefighters sent to help the crash
 victims noticed a strong smell of cannabis from the Fiorino's cargo compartment
-and found numerous cannabis tablets when its rear door was opened. [@1]
+and found numerous cannabis tablets when its rear door was opened. [@1,3]
 
 Military Police, joined by the Força Tática of the 6th Independent Company,
 secured the scene and took the vehicle and the drug to Denar, the Delegacia
@@ -56,4 +62,3 @@ Delegacia de Pronto Atendimento Comunitário community emergency station, while
 Civil Police investigate the load's origin and seek the driver. [@2] Police say
 they are still working to establish where the load came from and to identify and
 locate the driver who abandoned it. [@2]
-
