@@ -90,6 +90,10 @@ sources:
     publisher: MTV Lebanon
     date: 2026-11-01
     language: ar
+  - title: Lebanese Army Destroys Approximately 9,700 Square Meters of Marijuana in Baalbek
+    url: https://waradana.com/english/article/277404-lebanese-army-destroys-approximately-9700-square-meters-of-marijuana-in-baalbek
+    publisher: Waradana
+    date: 2026-11-01
 open_questions:
   - The army's statement gives no separate date for the destruction; 1 November 2026 is the date the statement was issued.
   - No figure for the number of plants, the weight of cannabis or the value of the crop was published.
@@ -108,12 +112,13 @@ open_questions:
   - The submitted page writes the first locality as الزرازير, rendered Zarazir, while the existing report title and place use Zarzir; the 9,700-square-metre figure and Ainata–Baalbek location are otherwise the same.
   - The submitted page gives only the 1 November 2026 publication display; no separate day for the destruction beyond the army statement date is provided.
   - The submitted page's lead image has no caption or credit in the capture and could not be confirmed as distinct from the three Lebanese Army photographs already linked, so no new media entry is added.
+  - The submitted page writes the first locality as Zarazir while the existing report title and place use Zarzir; the 9,700-square-meter figure and Ainata-Baalbek location are otherwise the same.
 ---
 
 A Lebanese army unit destroyed a marijuana crop covering about 9,700 square
 meters in the Zarzir and Ainata areas of Baalbek, the army said on 1 November
-2026. [@1,4,6,7,8,9,10,11,12] The army's Directorate of Orientation said the unit had worked to
-destroy the planted area in the two locations. [@3,5,8,11,12] The army's English statement
+2026. [@1,4,6,7,8,9,10,11,12,13] The army's Directorate of Orientation said the unit had worked to
+destroy the planted area in the two locations. [@3,5,8,11,12,13] The army's English statement
 put the crop at an estimated 9,700 square meters in Zarazir and Aainata, in
 Baalbek. [@2] That is about 0.97 hectares, or roughly 9.7 Lebanese dunams of
 1,000 square meters. [@1,7]
