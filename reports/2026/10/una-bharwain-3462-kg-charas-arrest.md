@@ -49,6 +49,11 @@ sources:
     publisher: Himachal Dastak
     date: 2026-11-01
     language: hi
+  - title: हिमाचल में लाखों की चरस सप्लाई करने निकले थे दो युवक, बाइक समेत धरे; डिजिटल तराजू भी मिला
+    url: https://news4himachal.in/amp/post/crime/two-youth-on-bike-arrested-in-himachal-una-with-3-462-kg-charas/23748
+    publisher: News4Himachal
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Punjab Kesari gives the second suspect's name as Rahul Bhatol and quotes a deputy superintendent saying a third suspect is absconding; the other reports name only Rahul and describe two arrests.
   - No value was put on the 3.462 kg of charas, and no court date or charge sheet has been reported.
@@ -58,14 +63,14 @@ open_questions:
 ---
 
 Two men on a motorcycle were stopped near the Shiv temple in Bharwain late on 31
-October 2026, Una district police said. [@2,4] Police identified them as
+October 2026, Una district police said. [@2,4,5] Police identified them as
 Chandramohan Sharma, of Ward 1 in Marwari, and Rahul, of Babehar, both in Tehsil
-Ghanari of Una district. [@1,4] Sharma, who was riding, carried a shoulder bag
+Ghanari of Una district. [@1,4,5] Sharma, who was riding, carried a shoulder bag
 with 3.462 kg of charas, a cannabis resin, and a digital weighing scale, police
-said. [@1,4]
+said. [@1,4,5]
 
-Both men were arrested. [@1,4] A case was registered against them under the
-Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,4] Una Superintendent
+Both men were arrested. [@1,4,5] A case was registered against them under the
+Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,4,5] Una Superintendent
 of Police Sachin Hiremath said the district force was running a special campaign
 under a zero-tolerance policy on drugs. [@1] Deputy Superintendent of Police
 Anil Patiyal of Amb said the two were in custody and a third suspect was
