@@ -27,22 +27,28 @@ sources:
     publisher: Só Notícias
     date: 2026-11-01
     language: pt
+  - title: Casal é preso com tabletes de maconha, skunk e pasta base durante pane em moto na MT-175 em Mirassol d'Oeste | Cáceres Notícias
+    url: https://www.caceresnoticias.com.br/policia/casal-e-preso-com-tabletes-de-maconha-skunk-e-pasta-base-durante-pane-em-moto-na-mt-175-em-mirassol-doeste/667378
+    publisher: Cáceres Notícias
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight was published for the marijuana tablets, the skank portion or the coca paste, so no cannabis weight is recorded.
   - The incident date of 31 October 2026 is inferred from the 1 November 2026 publication describing the arrest as yesterday on a Saturday.
   - The names, ages and judicial outcome for the two detained people were not published in the opened source.
   - Only one source could be opened; another outlet page for the same event returned an access error and search snippets were not used as evidence.
   - Whether the lead image on the source page shows this seizure was not established from the readable text.
+  - The new source places Mirassol d'Oeste 300 km from Cuiabá while the existing report gives 296 km; the existing figure is retained.
 ---
 
 Military Police arrested a man and a woman on suspicion of drug trafficking on
 31 October 2026 on the roadside of the state MT-175 highway at Mirassol d’Oeste,
-Mato Grosso. [@1] The man was wearing an electronic ankle monitor at the time of
-the arrest. [@1] Both were taken to the police station for further procedures.
+Mato Grosso. [@1,2] The man was wearing an electronic ankle monitor at the time of
+the arrest. [@1,2] Both were taken to the police station for further procedures.
 [@1]
 
 With the pair, officers seized four tablets of marijuana, one portion of skank
-and one portion of coca base paste. [@1] Mirassol d’Oeste lies 296 km from
+and one portion of coca base paste. [@1,2] Mirassol d’Oeste lies 296 km from
 Cuiabá. [@1]
 
 Police teams acted after receiving information that the suspects were
@@ -51,5 +57,4 @@ found the couple on the stretch of road toward São José dos Quatro Marcos afte
 their motorcycle developed mechanical problems. [@1] During the stop the two
 gave conflicting accounts of the trip’s origin and destination. [@1] The man
 told officers he had been hired to carry the drugs from Mirassol d’Oeste to
-Araputanga. [@1]
-
+Araputanga. [@1,2]
