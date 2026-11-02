@@ -88,6 +88,10 @@ sources:
     publisher: ETV Bharat
     date: 2026-10-31
     language: hi
+  - title: Hydroponic weed worth Rs 9.33 crore seized at IGI Airport, two arrested
+    url: https://www.tribuneindia.com/news/delhi/hydroponic-weed-worth-rs-9-33-crore-seized-at-igi-airport-two-arrested/amp
+    publisher: The Tribune
+    date: 2026-10-31
 open_questions:
   - PTI reported that the two passengers arrived on two separate flights from Bangkok, while the Delhi Customs post names a single flight, AI2335; the report does not resolve the difference.
   - Customs gave no names, ages or other identifying details for the two passengers.
@@ -135,15 +139,15 @@ media:
 
 Customs officials at Delhi's Indira Gandhi International Airport seized 26.67 kg
 of suspected hydroponic ganja from two Indian passengers arriving from Bangkok.
-[@1,4,5,6,7,8,9,10,11,13,14,15] The seizure was made at Terminal 3. [@3,8,11,12,13] Both were diverted from the Green
-Channel for X-ray screening after profiling. [@3,11,12] The two passengers were
+[@1,4,5,6,7,8,9,10,11,13,14,15,16] The seizure was made at Terminal 3. [@3,8,11,12,13,16] Both were diverted from the Green
+Channel for X-ray screening after profiling. [@3,11,12,16] The two passengers were
 arrested on 28 October under Section 43(b) of the Narcotic Drugs and
-Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13,14] The substance was seized under Section
+Psychotropic Substances Act, 1985. [@1,3,4,5,6,7,11,12,13,14,16] The substance was seized under Section
 43(a) of the same act. [@1,4,5,6,7,12]
 
 Officers found 26 polythene pouches of a green substance suspected to be
-marijuana or hydroponic weed. [@2,11,12,13,15] Customs valued the haul at about Rs 9.33
-crore. [@1,4,5,6,7,8,11,12,13,14,15] A diagnostic test indicated prima facie that the substance was
+marijuana or hydroponic weed. [@2,11,12,13,15,16] Customs valued the haul at about Rs 9.33
+crore. [@1,4,5,6,7,8,11,12,13,14,15,16] A diagnostic test indicated prima facie that the substance was
 marijuana or hydroponic weed. [@2,5,6,7,14]
 
 Customs said cases were booked against the two under sections 8, 20, 23 and 29
