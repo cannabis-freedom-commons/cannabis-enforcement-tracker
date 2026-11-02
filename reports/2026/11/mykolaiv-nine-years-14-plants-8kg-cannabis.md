@@ -36,6 +36,11 @@ sources:
     publisher: Миколаївська правда
     date: 2026-11-02
     language: uk
+  - title: У Миколаєві чоловіка засудили до дев'яти років ув'язнення за вирощування конопель та зберігання канабісу
+    url: https://news.pn/uk/criminal/351542
+    publisher: Преступности.НЕТ
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so the report uses the publication date.
   - The search is dated only as 25 July with no year stated in the article text.
@@ -45,7 +50,7 @@ open_questions:
 
 Ingulsky District Court in Mykolaiv sentenced a local resident to nine years in
 prison for growing cannabis on his household plot and storing dried, ground
-cannabis in the attic of his house. [@1] He was charged under part 3 of Article
+cannabis in the attic of his house. [@1,3] He was charged under part 3 of Article
 307 of Ukraine's Criminal Code for illegally making and storing drugs for sale
 on an especially large scale and part 1 of Article 310 for illegally sowing or
 growing cannabis. [@1] The court remanded him in custody with the option of
@@ -57,7 +62,7 @@ cannabis for sale. [@2]
 
 The court established that he had grown cannabis at his home since April 2026
 and that a 25 July search recovered 14 cannabis plants and more than 8 kilograms
-of cannabis kept in the attic. [@1] The second account adds that he dried part
+of cannabis kept in the attic. [@1,3] The second account adds that he dried part
 of the drug in an outbuilding and kept part in glass jars in the attic and the
 summer kitchen. [@2] The court dismissed his personal-use claim as an attempt to
 avoid criminal responsibility given the especially large quantity seized. [@1]
@@ -65,9 +70,8 @@ It also took into account that he had previously served five years in prison for
 growing cannabis. [@1]
 
 The court found him guilty as charged and imposed nine years' imprisonment
-without confiscation of property. [@1] It ordered the seized cannabis plants and
+without confiscation of property. [@1,3] It ordered the seized cannabis plants and
 cannabis destroyed and 28,400 hryvnias in expert-examination costs recovered
 from the convict. [@1] The 133,120-hryvnia bail posted for him is to be returned
 to his brother after the verdict enters into force, and the verdict can be
 appealed to the Mykolaiv Appeal Court within 30 days. [@1]
-
