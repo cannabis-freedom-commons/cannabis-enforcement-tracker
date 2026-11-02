@@ -21,6 +21,11 @@ media:
     media_url: https://i0.wp.com/www.cgmp.co.in/wp-content/uploads/2026/11/Dhar-News-1-1.webp?resize=696%2C403&ssl=1
     publisher: CG MP News
     caption: Police officers stand behind bundles of seized cannabis laid out in a field during the Dhar campaign. The page published the picture without a caption or photo credit.
+  - kind: photo
+    url: https://hindi.news18.com/news/madhya-pradesh/dhar-cannabis-worth-over-50-crore-seized-in-dhar-under-operation-prahar-10955364.html
+    media_url: https://images.news18.com/ibnkhabar/uploads/2026/11/image-2026-11-01T161931.732-2026-11-1a3c4c2d60f095732ee707a756d9a42e-1200x675.jpg?impolicy=website&width=640&height=360
+    publisher: News18 हिंदी
+    caption: Photo published with the News18 report on the Dhar Operation Prahar seizure, captioned as ganja worth over 50 crore seized.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 31da6724885419a044d120fac4a71c58
@@ -46,6 +51,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-01
     language: hi
+  - title: एक्शन में पुलिस..मफियाओं में डर, धार में ऑपरेशन प्रहार, 50 करोड़ से अधिक का गांजा बरामद, 15 आरोपी गिरफ्तार
+    url: https://hindi.news18.com/news/madhya-pradesh/dhar-cannabis-worth-over-50-crore-seized-in-dhar-under-operation-prahar-10955364.html
+    publisher: News18 हिंदी
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Police gave the number of arrests as a range, 14 to 15; the report uses 15.
   - Police gave the value of the 172 quintals only as a range, 45 to 50 crore rupees; the figures record the lower bound.
@@ -58,12 +68,14 @@ open_questions:
   - Raj Express captioned its lead picture as an AI-generated photo, so no media entry was taken from that page.
   - Dainik Bhaskar puts the haul at more than 17,000 kg of cannabis plants, while the police briefing gives 172 quintals (17,200 kg) of ganja.
   - The accounts do not say whether the 172 quintals were weighed as green plants or as dried cannabis.
+  - The new account says more than 170 quintals seized, while the existing report records 172 quintals from the police briefing.
+  - The new account values the haul at more than 50 crore rupees, while the existing report records the police range of 45 to 50 crore rupees.
 ---
 
 Police in Dhar district, Madhya Pradesh, said they had seized 172 quintals
 (17,200 kg) of cannabis, known locally as ganja, in the past month and arrested
-14 to 15 people in 25 drug cases. [@1,3] Police put the international market value
-of the seized cannabis at 45 to 50 crore rupees. [@1,3]
+14 to 15 people in 25 drug cases. [@1,3,5] Police put the international market value
+of the seized cannabis at 45 to 50 crore rupees. [@1,3,5]
 
 Additional Superintendent of Police Vijay Dawar said Operation Prahar was run on
 instructions from police headquarters and used drone surveillance to search
