@@ -30,8 +30,12 @@ sources:
     url: https://www.channelstv.com/2026/11/01/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-at-abuja-airport/
     publisher: Channels Television
     date: 2026-11-01
+  - title: NDLEA nabs 2 Europe-bound Nigerians with 200 cocaine wraps
+    url: https://blueprint.ng/ndlea-nabs-2-europe-bound-nigerians-with-200-cocaine-wraps/
+    publisher: Blueprint Newspapers Limited
+    date: 2026-11-01
 ---
 
-On 28 October 2026, NDLEA operatives supported by soldiers raided Eko Camp near Illushi in Esan South-East, Edo State, and destroyed a cannabis plantation covering 1.646 hectares. [@1,2] NDLEA estimated that the crop could yield 4,115.53 kg of cannabis; this is a projected yield, not a reported weight of plants recovered or destroyed. [@1,2]
+On 28 October 2026, NDLEA operatives supported by soldiers raided Eko Camp near Illushi in Esan South-East, Edo State, and destroyed a cannabis plantation covering 1.646 hectares. [@1,2,3] NDLEA estimated that the crop could yield 4,115.53 kg of cannabis; this is a projected yield, not a reported weight of plants recovered or destroyed. [@1,2]
 
-The agency said operatives arrested Christiana Uboi, 50, at the camp with 301 kg of processed cannabis. [@1,2] It also reported recovering another 176 kg of processed cannabis at the site. [@1,2] The report gives no count of the growing plants. [@1] Channels Television repeated the NDLEA account, while the agency's own post places the plantation report in a broader roundup of operations that also included unrelated airport arrests. [@1,2] NDLEA published its account on 1 November, four days after the plantation raid. [@1] Neither report states whether Uboi or another person was charged, and neither gives a later court outcome. [@1,2]
+The agency said operatives arrested Christiana Uboi, 50, at the camp with 301 kg of processed cannabis. [@1,2,3] It also reported recovering another 176 kg of processed cannabis at the site. [@1,2] The report gives no count of the growing plants. [@1] Channels Television repeated the NDLEA account, while the agency's own post places the plantation report in a broader roundup of operations that also included unrelated airport arrests. [@1,2] NDLEA published its account on 1 November, four days after the plantation raid. [@1] Neither report states whether Uboi or another person was charged, and neither gives a later court outcome. [@1,2]

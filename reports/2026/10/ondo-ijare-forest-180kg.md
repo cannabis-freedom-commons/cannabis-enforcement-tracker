@@ -25,6 +25,10 @@ sources:
     url: https://www.ndlea.gov.ng/blog/2-europe-bound-businessmen-excrete-200-wraps-of-cocaine-at-abuja-airport
     publisher: National Drug Law Enforcement Agency (NDLEA)
     date: 2026-11-01
+  - title: NDLEA nabs 2 Europe-bound Nigerians with 200 cocaine wraps
+    url: https://blueprint.ng/ndlea-nabs-2-europe-bound-nigerians-with-200-cocaine-wraps/
+    publisher: Blueprint Newspapers Limited
+    date: 2026-11-01
 open_questions:
   - No count of the plants growing on the farms, no area for the farms and no value for the 180 kg were published.
   - No charge against the four arrested men was reported.
@@ -39,7 +43,7 @@ NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25
 October 2026. [@1] Four suspects were arrested during the raid, among them
 Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1] A fourth suspect was
 held but not named. [@2] Officers recovered 16 bags of processed cannabis
-weighing 180 kg from the farms, the agency said. [@2] The agency reported no
+weighing 180 kg from the farms, the agency said. [@2,3] The agency reported no
 plant count, no farm area and no value for the 180 kg. [@1]
 
 NDLEA said the raid followed credible intelligence. [@2] The agency announced
@@ -49,4 +53,3 @@ reported drug seizures and arrests across Kano, Kaduna, Ondo, Edo and Sokoto
 states in the same week. [@1] NDLEA chairman Brig. Gen. Mohamed Buba Marwa (Rtd)
 commended the officers of its Ondo command among those credited with the week's
 arrests and seizures. [@2]
-
