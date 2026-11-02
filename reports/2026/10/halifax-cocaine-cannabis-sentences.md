@@ -53,6 +53,10 @@ sources:
     url: https://www.examinerlive.co.uk/news/west-yorkshire-news/west-yorkshire-drugs-operation-dismantled-34844578.amp
     publisher: Yorkshire Live
     date: 2026-10-31
+  - title: West Yorkshire drugs operation dismantled as ten gang members brought down and guns seized - Yorkshire Live
+    url: https://www.examinerlive.co.uk/news/west-yorkshire-news/west-yorkshire-drugs-operation-dismantled-34844578
+    publisher: Yorkshire Live
+    date: 2026-10-31
 open_questions:
   - No total was published for the number of people arrested in the investigation; only Mohammed Hussain's November 2024 arrest is dated.
   - The 20kg of cannabis is the amount recovered when Hussain was arrested, not the total the gang supplied, for which no figure was given.
@@ -63,7 +67,7 @@ open_questions:
 ---
 
 Ten men were jailed for a combined total of more than 85 years for supplying
-cocaine and cannabis across West Yorkshire. [@1,3,5] They were sentenced to
+cocaine and cannabis across West Yorkshire. [@1,3,5,7] They were sentenced to
 immediate prison terms at Bradford Crown Court on 30 October 2026, while an 11th
 defendant received a suspended sentence. [@1] Allah Yaar, 35, of Lindley,
 Huddersfield, received the longest term, 14 years and three months, for two
@@ -81,7 +85,7 @@ Mohammed Hussain, 33, of Lemington Avenue, Halifax, was identified as a central
 figure, running the hubs from a flat in the Holmefield area and a property on
 Saville Park Road. [@1,5] His right-hand man, Zahid Shakoor, 34, was found at both
 properties. [@1] Hussain was arrested in November 2024 after an exchange led
-officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1,5,6]
+officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1,5,6,7]
 Further searches uncovered two stolen shotguns and industrial-scale drug
 paraphernalia. [@1,6] Following Hussain's arrest, the gang was disbanded and other
 members were arrested. [@1,6]
