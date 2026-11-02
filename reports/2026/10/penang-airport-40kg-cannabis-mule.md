@@ -51,6 +51,11 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-02
     language: ms
+  - title: Sanggup jadi keldai dadah dengan upah RM9,000, penganggur gagal seludup bunga ganja RM3.2 juta ke London
+    url: https://www.hmetro.com.my/mutakhir/2026/11/1431117/sanggup-jadi-keldai-dadah-dengan-upah-rm9000-penganggur-gagal-seludup-bunga
+    publisher: Harian Metro
+    date: 2026-11-02
+    language: ms
 open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
@@ -63,16 +68,16 @@ open_questions:
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
 on 18 October 2026 while he waited for a flight at Gate B1 of Penang
-International Airport in Bayan Lepas. [@1,3,4] Officers from police together with
+International Airport in Bayan Lepas. [@1,3,4,5] Officers from police together with
 the Royal Malaysian Customs Department found the drugs inside two pieces of
 luggage he was carrying. [@1]
 
-The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4] Police
+The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5] Police
 valued the cannabis at RM3.2 million and said the man was acting as a drug mule
-tasked with carrying it to London. [@2,3,4] The man had arrived in Penang only two
+tasked with carrying it to London. [@2,3,4,5] The man had arrived in Penang only two
 days earlier, said he was acting on another person's instructions, and was
 promised RM9,000 for the trip in what police believed was his first cross-border
-air-trafficking attempt. [@2,4]
+air-trafficking attempt. [@2,4,5]
 
 A urine screening found him positive for amphetamine and methamphetamine, and a
 records check found two prior crime-related records. [@1] He was remanded for 13
