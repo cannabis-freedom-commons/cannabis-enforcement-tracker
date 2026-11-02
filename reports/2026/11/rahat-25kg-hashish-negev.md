@@ -51,6 +51,11 @@ sources:
     url: https://kul-alarab.com/tag/%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D8%B0%D8%AE%D9%8A%D8%B1%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9
     publisher: كل العرب
     language: ar
+  - title: 15-летний вооруженный подозреваемый скрылся в Тель-Шеве и был обнаружен с помощью дрона
+    url: https://br7news.co.il/ru/news/news-1793520593
+    publisher: Новости Беэр-Шевы и Негева
+    date: 2026-11-01
+    language: ru
 open_questions:
   - The reports give no separate date for the car seizure; 1 November 2026 is the date of the police announcement, and police said the operations took place over the previous few days.
   - Police gave no total number of arrests across the operations.
@@ -59,12 +64,13 @@ open_questions:
   - The five photographs on the page carry only the article title as their caption and no credit is given.
   - 'Left out, as its quotation was not found in Wazcam: Police said the operations were part of efforts to strengthen law enforcement and security in the Negev towns and to counter illegal weapons, shootings and drug trafficking.'
   - The submitted tag page also lists an earlier Negev weapons operation, dated 25 October 2026 and reporting about NIS 275,000 seized, which is a separate event and was left out.
+  - The page carries operation photographs and a video, but their captions do not confirm they show the hashish car seizure itself, so no new media entry is added.
 ---
 
 Israeli police said they found about 25 kg of suspected hashish in a car near
-the city of Rahat in the Negev. [@2] They arrested the driver, a 28-year-old
-resident of Tarabin. [@2] The car had been spotted at the Goral junction and
-tried to flee before officers found it near Rahat after searches. [@2] The
+the city of Rahat in the Negev. [@2,5] They arrested the driver, a 28-year-old
+resident of Tarabin. [@2,5] The car had been spotted at the Goral junction and
+tried to flee before officers found it near Rahat after searches. [@2,5] The
 driver was taken for questioning. [@2]
 
 The seizure was one of a series of operations in Bedouin towns in the Negev,
@@ -75,5 +81,5 @@ weapons and hundreds of rounds, as well as the hashish. [@1,4] They arrested a
 number of suspects. [@1]
 
 In a separate raid in Rahat, police said they found three M-16 rifles, two Glock
-pistols, an improvised pistol and a Carlo rifle in residential compounds. [@3]
+pistols, an improvised pistol and a Carlo rifle in residential compounds. [@3,5]
 Several suspects were arrested there over shootings and illegal weapons. [@3]
