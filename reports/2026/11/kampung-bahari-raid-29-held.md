@@ -37,6 +37,11 @@ media:
     media_url: https://www.posnews.co.id/wp-content/uploads/2026/11/Polisi-Gerebek-Kampung-Bahari-Sabu-Ratusan-Gram-dan-Ribuan-Ekstasi-Disita.webp
     publisher: Posnews.co.id
     caption: Photo published with the Posnews report on the Kampung Bahari raid; the page caption reads 'Police raid Kampung Bahari, hundreds of grams of meth and thousands of ecstasy pills seized.' No credit given.
+  - kind: photo
+    url: https://www.jawapos.com/jabodetabek/2611010180/ribuan-polisi-gerebek-kampung-bahari-26-orang-ditangkap-terkait-narkoba
+    media_url: https://cdn-assets.jawapos.com/images/1/2026/11/01/polda-metro-jaya-tangkap-26-bandar-dan-pengedar-dalam-penggerebakan-di-kampung-bahari-jakarta-utara-minggu-111-ryandi-zahdomojawaposcom-UKud5.webp
+    publisher: JawaPos.com
+    caption: 'Photo published with JawaPos''s report of the raid, captioned as showing the arrest of 26 dealers and distributors in Kampung Bahari on 1 November 2026. Photo: Ryandi Zahdomo/JawaPos.com'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865
@@ -106,6 +111,11 @@ sources:
     publisher: VOI
     date: 2026-11-01
     language: zh
+  - title: Ribuan Polisi Gerebek Kampung Bahari, 26 Orang Ditangkap Terkait Narkoba
+    url: https://www.jawapos.com/jabodetabek/2611010180/ribuan-polisi-gerebek-kampung-bahari-26-orang-ditangkap-terkait-narkoba
+    publisher: JawaPos.com
+    date: 2026-11-01
+    language: id
 open_questions:
   - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
   - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
@@ -124,6 +134,7 @@ open_questions:
   - The INP page is an English summary that credits antaranews.com, so it is not independent corroboration.
   - Posnews reported that some people threw firecrackers at officers and police used tear gas, while the existing account records stone-throwing; the reports do not reconcile the two.
   - Posnews said it was not clear whether the four people held at the primary site were among the larger group detained.
+  - The 26 people were detained over the drug market as a whole; the accounts do not say how many face cannabis-specific allegations.
 ---
 
 Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
@@ -137,8 +148,8 @@ began sweeping the area at 5.30am. [@3] They rode a commuter train from Tanjung
 Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13]
 
 Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
-ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12] They also found
-bongs, packaging, sharp weapons and firearms. [@2] Police also seized Happy Five
+ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12,14] They also found
+bongs, packaging, sharp weapons and firearms. [@2,14] Police also seized Happy Five
 pills and cartridges suspected of containing etomidate. [@4]
 
 Officers were pelted with stones during the raid. [@2] He said drug dealing in
