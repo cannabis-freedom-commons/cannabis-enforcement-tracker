@@ -17,6 +17,11 @@ media:
     media_url: https://www.fijivillage.com/news_images/20261102095617_media_6ae7b527e8e749_56464030.jpg
     publisher: Fijivillage
     caption: Photo published with the report on the truck driver's arrest at Narain Jetty.
+  - kind: photo
+    url: https://fijisun.com.fj/news/crime/k9-herb-sniffs-out-suspected-drugs-during-jetty-operation
+    media_url: https://images.fijisun.com.fj/media/c6ce02fc-c862-46d1-9269-a288be7a4ff7?w=1080&q=75
+    publisher: Fiji Sun
+    caption: 'A police drug detection dog alerted officers to a truck at Narain Jetty, leading to the discovery of suspected marijuana concealed inside a bag. Photo: Police Media Cell.'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8f6ad391645f8366fc10f112863c0a08
@@ -46,6 +51,10 @@ sources:
     url: https://www.fijivillage.com/sports/truck-driver-arrested-after-suspected-marijuana-found-at-narain-jetty-raid-f3d55a/
     publisher: Fijivillage
     date: 2026-11-02
+  - title: K9 Herb sniffs out suspected drugs during jetty operation
+    url: https://fijisun.com.fj/news/crime/k9-herb-sniffs-out-suspected-drugs-during-jetty-operation
+    publisher: Fiji Sun
+    date: 2026-11-02
 open_questions:
   - No weight, parcel count, or laboratory confirmation for the suspected marijuana was reported.
   - The driver's identity and any charge had not been reported, with investigations continuing.
@@ -54,21 +63,22 @@ open_questions:
   - The submitted /f/ address and the report's cited /news/ address carry the same title and article text and appear to be two paths to the same Fijivillage article.
   - The submitted /u/ address carries the same title, article text and image as the /news/ and /f/ addresses already cited and appears to be another path to the same Fijivillage article.
   - The submitted /sports/ address carries the same title, article text and image as the /news/ address already cited and appears to be another path to the same Fijivillage article.
+  - The submitted article calls the raid location Port Mua-i-Walu in its text and Narain Jetty in its caption and photo caption, consistent with the existing Narain Jetty location but with a naming variation.
 ---
 
 A truck driver was arrested at Narain Jetty after police discovered a bag
 containing parcels of dried leaves and branches believed to be marijuana during
 a raid. [@1,3,4,5,6] The driver was arrested and taken into police custody immediately
-after the bag was found. [@1,3,5] The suspected marijuana was found on a truck at
+after the bag was found. [@1,3,5,7] The suspected marijuana was found on a truck at
 the jetty when a subsequent search followed the drug-detection dog's indication.
 [@1,5]
 
 The operation was conducted by a joint team from the Totogo Operations Team, the
-Dog Unit and the Fiji Detector Dog Unit. [@2,4] During the operation, police dog
+Dog Unit and the Fiji Detector Dog Unit. [@2,4,7] During the operation, police dog
 K9 Herb indicated the possible presence of illicit substances on the truck,
-prompting officers to conduct a search. [@2,3,5,6] Officers searching the truck
+prompting officers to conduct a search. [@2,3,5,6,7] Officers searching the truck
 discovered a bag containing several parcels of dried leaves and branches,
-believed to be marijuana, inside the vehicle. [@2]
+believed to be marijuana, inside the vehicle. [@2,7]
 
 Police have sent the seized substances for testing as investigations into the
 matter continue. [@1,3,4,5,6] The driver remained in police custody after the arrest
