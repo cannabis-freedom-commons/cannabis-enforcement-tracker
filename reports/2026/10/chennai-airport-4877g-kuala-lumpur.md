@@ -47,6 +47,11 @@ sources:
     publisher: Dinakaran
     date: 2026-11-02
     language: ta
+  - title: மலேசியாவிலிருந்து கடத்தி வரப்பட்ட ரூ.4.80 கோடி கஞ்சா பறிமுதல்!
+    url: https://www.dinamani.com/all-editions/edition-chennai/chennai/2026/Nov/01/cannabis-worth-rs-480-crore-smuggled-from-malaysia-seized
+    publisher: Dinamani
+    date: 2026-11-02
+    language: ta
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -63,6 +68,10 @@ open_questions:
   - Dinakaran gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi; this age discrepancy was already noted.
   - The article gives only its publication date of 2 November 2026 and describes the flight as arriving the night before yesterday, supporting 31 October 2026 but giving no separate seizure time.
   - 'No verifiable event photo is listed: the page''s first image is only captioned featured-img and the second image is an advertisement, so neither is used as media.'
+  - Dinamani gives 4.80 kg and Rs 4.80 crore while the existing report uses 4.877 kg and Rs 1.71 crore from other outlets.
+  - Dinamani gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
+  - The article shows Updated On 2 November 2026 and describes a Saturday-midnight arrival from Kuala Lumpur, supporting 31 October 2026 but giving no separate seizure time.
+  - The submitted page lists an image with an empty caption that cannot be verified to show this seizure, so no media entry is made.
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
@@ -72,7 +81,7 @@ media:
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1,3,4,5,6] She had flown in from the capital, Kuala Lumpur, and
+arrived from Malaysia. [@1,3,4,5,6,7] She had flown in from the capital, Kuala Lumpur, and
 was 28 years old. [@1,5] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
@@ -86,4 +95,4 @@ An official said further investigation was under way. [@2,3] Customs' intelligen
 wing had put the airport under watch after a tip-off that narcotics were being
 brought into Chennai from abroad. [@1]
 
-The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6]
+The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6,7] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4,7] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6,7]
