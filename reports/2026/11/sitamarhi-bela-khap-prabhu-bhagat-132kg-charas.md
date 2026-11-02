@@ -33,6 +33,11 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-02
     language: hi
+  - title: 25 हजार का इनामी बदमाश प्रभु भगत गिरफ्तार, 1.320 किलो चरस...
+    url: https://www.prabhatkhabar.com/state/bihar/sitamarhi/wanted-criminal-arrested-charas-seizure
+    publisher: Prabhat Khabar
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The raid happened on Sunday night / midnight of 1-2 November 2026; 2 November is used as the incident date while the first report calls it Sunday night.
   - The seizure is given as 1.320 kg in one report and rounded to 1.3 kg in the other; the report uses 1.320 kg.
@@ -43,10 +48,12 @@ open_questions:
   - 'Left out, as its quotation was not found in Prabhat Khabar: The next day, 29 June, he escaped from the Parihar lockup by breaking the toilet ventilator after asking to use the toilet.'
   - 'Left out, as its quotation was not found in Prabhat Khabar: Police headquarters then announced a Rs 25,000 reward for his arrest.'
   - 'Left out, as its quotation was not found in Prabhat Khabar: Superintendent Amit Ranjan suspended three chowkidars over the escape while ASP Ashish Anand investigated it.'
+  - The submitted canonical URL appears to be the same Prabhat Khabar article already cited in the report as its amp version.
+  - Details in the existing report about the Bihar STF midnight tip, Jagdar-Parwaha road vehicle checks, bike seizure, NDPS case No. 287/26 and 12 prior cases come from the second source and are not in this opened capture.
 ---
 
 Parihar police arrested Rs 25,000-reward wanted criminal Prabhu Bhagat at Bela
-Khap village on Sunday night. [@1] Bihar STF told Parihar station chief Pankaj
+Khap village on Sunday night. [@1,3] Bihar STF told Parihar station chief Pankaj
 Kumar Yadav around midnight of 1-2 November that Bhagat would travel the
 Jagdar-Parwaha road toward Sitamarhi, after which police started vehicle checks
 near Bela Khap crossing. [@2] Officers encircled and caught Bhagat as he arrived
@@ -58,4 +65,3 @@ narcotics law. [@2]
 Police say Bhagat faces 12 criminal cases across Parsauni, Sitamarhi Town, Riga,
 Bathnaha and Parihar stations for robbery, dacoity, murder, Arms Act and NDPS
 Act offences, including the escape case. [@2]
-
