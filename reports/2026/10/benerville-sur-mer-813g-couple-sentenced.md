@@ -32,26 +32,33 @@ sources:
     publisher: actu.fr
     date: 2026-11-02
     language: fr
+  - title: Un trafic de stupéfiants démantelé à Benerville-sur-Mer, un couple de 20 ans condamné à de la prison
+    url: https://www.ici.fr/normandie/calvados-14/benerville-sur-mer/un-trafic-de-stupefiants-demantele-a-benerville-sur-mer-un-couple-de-20-ans-condamne-a-de-la-prison-8679454
+    publisher: ICI
+    date: 2026-11-02
+    language: fr
 open_questions:
   - The 22 grams of cocaine and its reported 1,520-euro resale value are excluded from cannabis figures; the value figure uses only the separately stated 8,130 euros for cannabis.
   - The 2,005 euros in cash is seized cash, not a drug valuation, and is not counted in the value figure.
   - The lead images on both pages are captioned as illustration or archive-style photos and are not shown to depict this search or seizure, so no media entry is made.
   - The defendants are identified only as a 20-year-old couple; no names were published.
   - No independent weighing beyond the gendarmerie seizure count is reported.
+  - The lead image on the ICI page is explicitly captioned as a photo d'illustration and is not shown to depict this search or seizure, so no media entry is made.
+  - This account does not state the 26 October search date or the separate cannabis and cocaine resale values used in the existing report; those details continue to rely on the earlier sources.
 ---
 
 Gendarmes from Deauville and Villers-sur-Mer arrested two 20-year-olds living as
-a couple and placed them in police custody. [@2] Their case was heard at the
-Lisieux judicial court on 29 October 2026. [@2] The young woman was sentenced to
+a couple and placed them in police custody. [@2,3] Their case was heard at the
+Lisieux judicial court on 29 October 2026. [@2,3] The young woman was sentenced to
 18 months’ imprisonment suspended and the young man to 20 months’ imprisonment
-including 8 months’ firm custody. [@1] Both were banned from appearing in
+including 8 months’ firm custody. [@1,3] Both were banned from appearing in
 Benerville, Blonville, Deauville and Villers-sur-Mer. [@1] The court
 definitively confiscated the seized money and objects belonging to them. [@1]
 
 A search of the couple’s home was carried out on 26 October under the authority
 of the Lisieux prosecutor. [@1] The search found and seized 813 grams of
 cannabis resin, 22 grams of cocaine, 2,005 euros in cash, a replica revolver,
-three telephones and a precision scale. [@1] The gendarmerie put the resale
+three telephones and a precision scale. [@1,3] The gendarmerie put the resale
 value at 8,130 euros for the cannabis and 1,520 euros for the cocaine. [@2]
 
 The case began on 22 October 2026 when Villers-sur-Mer gendarmes received
@@ -61,4 +68,3 @@ resin and cocaine on the public road near the 20-year-old couple’s home. [@2]
 Confronted with evidence including statements from several client neighbours,
 they admitted trafficking since January 2025 whose proceeds supported their
 daily needs without paid work. [@1]
-
