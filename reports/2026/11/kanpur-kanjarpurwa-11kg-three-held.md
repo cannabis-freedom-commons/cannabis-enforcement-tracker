@@ -133,6 +133,11 @@ sources:
     publisher: ABC News
     date: 2026-11-01
     language: hi
+  - title: 'Kanpur News: कंजड़नपुरवा में छापा, ड्रोन से निगरानी कर तीन तस्कर पकड़े, नौ किग्रा गांजा बरामद'
+    url: https://www.amarujala.com/uttar-pradesh/kanpur/raid-in-kanjadanpurwa-three-smugglers-caught-following-drone-surveillance-nine-kilograms-of-cannabis-seized-kanpur-news-c-362-1-ka11025-160003-2026-11-02
+    publisher: Amar Ujala
+    date: 2026-11-02
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -159,16 +164,20 @@ open_questions:
   - The page displays a video thumbnail at https://www.jagranimages.com/videos/2026/11/01/media/video/thumbnail/KANPUR-1793526357020-1793526415726.webp, but no direct video file address could be recovered, so no media entry is added.
   - The ABC News lead image carries only the headline as its caption with no credit, so it could not be confirmed to show this operation and no media entry is added.
   - This source identifies the third arrested person only as a woman, while the existing report names her Anjali from its other accounts.
+  - This account reports nine kilograms of ganja while the existing report keeps about 11 kilograms from its other accounts, so the cannabis weight is left out of figures here.
+  - The page was published on 2 November 2026 for a Sunday dawn raid, matching the report's 1 November 2026 event date.
+  - This source spells the locality Kanjadanpurwa while the existing report uses Kanjarpurwa for the same Kidwai Nagar locality.
+  - The page lead image carries a 2021 file address and headline caption, so it could not be confirmed to show this operation and no media entry is added.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
 [@1,4,6,7,11,12,13,16]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14]
+five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
 stations. [@2,4,6,7,9,10,12,13,14]
 
@@ -185,3 +194,5 @@ were being questioned and that the drive against the drug trade would continue.
 Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
 
 About 150 police personnel took part, including about 50 sub-inspectors, 80 male constables and 24 female constables. [@15] Officers searched about 60 to 70 houses while monitoring the area with drone cameras. [@15]
+
+Arman is a resident of Chishtinagar in Sanigwan, Chakeri, while Anjali and Sagar are residents of Kanjadanpurwa. [@17]
