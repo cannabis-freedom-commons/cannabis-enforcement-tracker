@@ -30,6 +30,10 @@ sources:
     url: https://blueprint.ng/ndlea-nabs-2-europe-bound-nigerians-with-200-cocaine-wraps/
     publisher: Blueprint Newspapers Limited
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians with 200 cocaine wraps at Abuja airport
+    url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
+    publisher: Apex News Exclusive
+    date: 2026-11-02
 open_questions:
   - No town or neighbourhood in Sokoto was named, so the coordinates are for the state capital with regional precision.
   - No charges or court outcome for Ibrahim Ayuba have been published.
@@ -38,7 +42,7 @@ open_questions:
 
 ## The arrest
 
-Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2] Skunk is a strong strain of cannabis. [@2]
+Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026. [@1,2,3,4] The agency said its officers acted on credible intelligence. [@1,2] Officers recovered 236.6 kilograms of skunk from him. [@1,2,4] Skunk is a strong strain of cannabis. [@2]
 
 ## The roundup it was announced in
 

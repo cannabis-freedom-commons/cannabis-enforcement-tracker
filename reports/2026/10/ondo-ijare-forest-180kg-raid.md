@@ -25,6 +25,10 @@ sources:
     url: https://telegraph.ng/news/2026/11/01/ndlea-arrests-two-europe-bound-nigerians-with-cocaine-at-abuja-airport/
     publisher: The Telegraph Nigeria
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians with 200 cocaine wraps at Abuja airport
+    url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
+    publisher: Apex News Exclusive
+    date: 2026-11-02
 open_questions:
   - The fourth arrested suspect was not named.
   - No plant count or hectare figure for the Ijare farms was published.
@@ -35,7 +39,7 @@ open_questions:
 
 ## The raid
 
-On Sunday 25 October 2026, NDLEA officers acting on credible intelligence raided cannabis farms in the Ijare forest in Ondo State. [@1,2] Officers arrested four suspects, three of them named as Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1] The search recovered 16 bags of processed cannabis weighing 180 kg from the farms. [@1,2]
+On Sunday 25 October 2026, NDLEA officers acting on credible intelligence raided cannabis farms in the Ijare forest in Ondo State. [@1,2,3] Officers arrested four suspects, three of them named as Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1] The search recovered 16 bags of processed cannabis weighing 180 kg from the farms. [@1,2,3]
 
 ## The announcement
 

@@ -38,6 +38,10 @@ sources:
     url: https://blueprint.ng/ndlea-nabs-2-europe-bound-nigerians-with-200-cocaine-wraps/
     publisher: Blueprint Newspapers Limited
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians with 200 cocaine wraps at Abuja airport
+    url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
+    publisher: Apex News Exclusive
+    date: 2026-11-02
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -49,8 +53,8 @@ open_questions:
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
-The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5] No further detail about Omo Oba has been published. [@1,2]
+The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6] No further detail about Omo Oba has been published. [@1,2]

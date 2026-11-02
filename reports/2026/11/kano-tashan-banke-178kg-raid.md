@@ -37,6 +37,10 @@ sources:
     url: https://blueprint.ng/ndlea-nabs-2-europe-bound-nigerians-with-200-cocaine-wraps/
     publisher: Blueprint Newspapers Limited
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians with 200 cocaine wraps at Abuja airport
+    url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
+    publisher: Apex News Exclusive
+    date: 2026-11-02
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -46,18 +50,19 @@ open_questions:
   - No verified photo of the Tashan Banke raid was available; the submitted page lead image concerns the cocaine and ammunition cases, so no media entry was added.
   - The page's two images depict the ammunition case, not the Tashan Banke cannabis raid, so no media entry was added.
   - The new Blueprint account places the Tashan Banke arrest in Kaduna State, while the existing report places it in Kano State; the number of suspects, name, place name and 178.85 kg weight match.
+  - This Apex account places the Tashan Banke raid in Kaduna State while the existing report places it in Kano State; the suspect count, name, place name and 178.85 kg weight match.
 ---
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5] The agency published its account of the raid on 1
+among those held. [@1,4,5,6] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
 and the Abuja airport, for the arrests and seizures. [@1]
 
 Officers at Tashan Banke recovered 178.85 kilogrammes of cannabis, which is the
-separately stated cannabis weight for this raid. [@1,4] Officers also recovered
+separately stated cannabis weight for this raid. [@1,4,6] Officers also recovered
 quantities of diazepam, tramadol, Exol-5 and pregabalin at the same Tashan Banke
 location. [@3,4]
 
