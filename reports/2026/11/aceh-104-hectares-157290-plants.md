@@ -38,22 +38,28 @@ sources:
     publisher: Krusial
     date: 2026-11-01
     language: id
+  - title: Polda Aceh Musnahkan 104,86 Hektare Ladang Ganja di Enam Kabupaten
+    url: https://habanusantara.net/2026/11/polda-aceh-musnahkan-10486-hektare-ladang-ganja-di-enam-kabupaten.html
+    publisher: habanusantara
+    date: 2026-11-01
+    language: id
 open_questions:
   - No arrests, suspects or charges were reported from the two-day operation.
   - The accounts give no breakdown of area or plant numbers by district, and no separate figure for dried cannabis; 78.645 tonnes is the police estimate of the total weight of the plants destroyed.
   - The accounts date the operation to 31 October–1 November 2026 but do not say which district's fields were destroyed on which of the two days.
+  - The article page displays a photograph with no caption or alt text identifying it, so it cannot be confirmed to show this eradication and no media entry is added.
 ---
 
 Aceh provincial police and the Aceh provincial narcotics agency (BNNP Aceh)
 destroyed cannabis fields across six district police jurisdictions in Aceh over
-two days, from 31 October to 1 November 2026. [@1] The fields were in the areas
+two days, from 31 October to 1 November 2026. [@1,4] The fields were in the areas
 policed by the Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and
-Nagan Raya district police. [@1]
+Nagan Raya district police. [@1,4]
 
-Officers cleared and destroyed about 104.86 hectares in the sweep. [@2] The
+Officers cleared and destroyed about 104.86 hectares in the sweep. [@2,4] The
 joint teams destroyed about 157,290 cannabis plants, an estimated 78.645 tonnes
-in total. [@2] The provincial police's drug directorate chief, Kombes Pol.
-Gazali Ahmad, gave the figures through the spokesman. [@1]
+in total. [@2,4] The provincial police's drug directorate chief, Kombes Pol.
+Gazali Ahmad, gave the figures through the spokesman. [@1,4]
 
 Aceh police spokesman Kombes Pol. Joko Krisdiyanto said the operation aimed to
 cut the narcotics supply chain at its production source. [@3] Joko said the
@@ -62,4 +68,3 @@ cannabis land so it could be converted to productive use for local communities.
 [@1] He said it formed part of the national police chief's priority programme,
 Polisi Bersama Masyarakat (Police with the Community), through its Quick Wins 2
 land-recovery component. [@1]
-
