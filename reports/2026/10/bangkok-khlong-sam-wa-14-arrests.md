@@ -68,6 +68,11 @@ sources:
     publisher: CH7ON
     date: 2026-11-01
     language: th
+  - title: ทลายโรงงานผลิตกัญชาเถื่อนกลางเมืองหลวง รวบแรงงานเวียดนาม-เมียนมา 15 ราย มีนายทุนคนไทย
+    url: https://news1live.com/detail/1793538664643
+    publisher: News1Live
+    date: 2026-11-01
+    language: th
 open_questions:
   - No cannabis weight or plant count was reported, and the amounts of ice and yaba seized were not quantified.
   - The detainees’ names and the outcomes of the criminal and immigration proceedings are not reported.
@@ -82,6 +87,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Thai Tabloid: Immigration Bureau investigators conducted the search with Thailand’s Office of the Narcotics Control Board and Nimit Mai Police Station.'
   - 'Left out, as its quotation was not found in Thai Tabloid: Suspects were arrested for selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act.'
   - The board's release does not say how many people were arrested on the Section 46 charge, or whether the Thai and Vietnamese owners it names were among them.
+  - News1Live reproduces the narcotics board's release word for word, so it repeats the board's figures rather than corroborating them independently.
 ---
 
 Police arrested 14 foreign nationals after searching a warehouse used to store
@@ -98,6 +104,6 @@ legal proceedings. [@2] Officials said they were continuing to trace the
 warehouse’s financiers and other people involved, and to investigate whether
 Thai nationals had been used as nominee shareholders for foreign nationals. [@2]
 
-The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3,5] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3,5] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3,5] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4,5] It said a Vietnamese financier and a Thai national owned the business. [@4,5]
+The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3,5] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3,5] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3,5,6] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4,5,6] It said a Vietnamese financier and a Thai national owned the business. [@4,5,6]
 
-The board said officers arrested the people running the factory on charges of selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act. [@5]
+The board said officers arrested the people running the factory on charges of selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act. [@5,6]
