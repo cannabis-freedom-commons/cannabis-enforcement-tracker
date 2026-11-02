@@ -21,6 +21,11 @@ media:
     media_url: https://2daysbulletin.com/wp-content/uploads/2026/11/ganja.jpg
     publisher: 2Days Bulletin
     caption: Area Police Office Dharan officers displaying the seized sacks of cannabis after the operation
+  - kind: photo
+    url: https://english.khabarhub.com/2026/02/574056/
+    media_url: https://english.khabarhub.com/wp-content/uploads/2026/11/Dharan-arrest.jpg
+    publisher: Khabarhub
+    caption: 'Scorpio vehicles being seized by police in Dharan. Photo: RSS'
 created_by_model: meta/muse-spark
 status: verified
 tags: [sunsari, dharan, suvs]
@@ -33,11 +38,21 @@ sources:
     url: https://2daysbulletin.com/dharan-drug-bust-five-arrested-210kg-marijuana/
     publisher: 2Days Bulletin
     date: 2026-11-02
+  - title: Five arrested with 209 kg of marijuana in Dharan
+    url: https://english.khabarhub.com/2026/02/574056/
+    publisher: Khabarhub
+    date: 2026-11-02
 open_questions:
   - The reports do not say where the cannabis came from or where it was headed.
   - The Daily Informiq page carries a photo whose content could not be verified, so it is not listed here.
+  - This source gives 209 kilograms and 420 grams while existing reports round to about 210 kg.
+  - This source writes Rajkumar Sah while the existing report writes Rajkumar Shah, and Dakneshwari versus Dakneshwori and spacing in Ramsagar and Rajendra Prasad names differ by transliteration.
+  - This source does not state the eight bundles or eight sacks packaging count given in existing reports.
+  - Whether the lead RSS photo of seized Scorpio vehicles depicts this specific seizure beyond its caption could not be independently established.
 ---
 
-Police arrested five people in the Chyandanda area of Dharan Sub-Metropolitan City-20, Sunsari, after finding them loading about 210 kg of cannabis packed in eight bundles into two Scorpio SUVs. [@1,2] Officers reached the spot at about 3 a.m. on Monday, 2 November 2026, on a tip-off, and fired two warning shots into the air when the suspects allegedly tried to flee with the cannabis. [@1,2]
+Police arrested five people in the Chyandanda area of Dharan Sub-Metropolitan City-20, Sunsari, after finding them loading about 210 kg of cannabis packed in eight bundles into two Scorpio SUVs. [@1,2,3] Officers reached the spot at about 3 a.m. on Monday, 2 November 2026, on a tip-off, and fired two warning shots into the air when the suspects allegedly tried to flee with the cannabis. [@1,2,3]
 
-Those arrested were Ramsagar Kumar Yadav, 24, of Dakneshwori Municipality-10 in Saptari, who was driving vehicle Ba 1 Cha 5038; Rajendraprasad Mandal, 45, of Rajgadh Rural Municipality-1 in Saptari; Santosh Thakur, 38, of Madhubani district in India's Bihar state; Rajkumar Shah, 59, of Chhinnamasta Rural Municipality-6 in Saptari, who was driving vehicle Ko 1 Cha 8182; and Amrit Bishungkhe, 21, of Dharan Sub-Metropolitan City-11 in Sunsari. [@1] Police said further investigation into the case is under way. [@1]
+Those arrested were Ramsagar Kumar Yadav, 24, of Dakneshwori Municipality-10 in Saptari, who was driving vehicle Ba 1 Cha 5038; Rajendraprasad Mandal, 45, of Rajgadh Rural Municipality-1 in Saptari; Santosh Thakur, 38, of Madhubani district in India's Bihar state; Rajkumar Shah, 59, of Chhinnamasta Rural Municipality-6 in Saptari, who was driving vehicle Ko 1 Cha 8182; and Amrit Bishungkhe, 21, of Dharan Sub-Metropolitan City-11 in Sunsari. [@1,3] Police said further investigation into the case is under way. [@1,3]
+
+Police reported the seized marijuana as 209 kilograms and 420 grams. [@3]
