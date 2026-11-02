@@ -61,6 +61,11 @@ sources:
     publisher: Samakalika Malayalam
     date: 2026-10-31
     language: ml
+  - title: മയക്കുമരുന്ന് കേസിലെ പ്രധാനപ്രതി 2 വർഷത്തിനുശേഷം പിടിയിൽ
+    url: https://www.deshabhimani.com/district-news/-44954/drug-case-nb4
+    publisher: Deshabhimani
+    date: 2026-10-31
+    language: ml
 open_questions:
   - Neither account gives the calendar date of the Kullu arrest; 30 October 2026 is the publication date of both.
   - Asianet News alone reported two LSD stamps, the date 27 June 2024, the unnamed resort, the tourist disguise, the junior officers and seizure of the car. The Hindu described the MDMA and ganja as suspected and did not mention LSD.
@@ -87,29 +92,31 @@ open_questions:
   - The page's picture is a portrait of the accused, not the arrest or the 2024 seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Samakalika Malayalam: He had allegedly provided financial assistance to buy the narcotics, fled to Kullu on learning of the earlier arrests, and had been working as a tourist guide there.'
   - 'Left out, as its quotation was not found in Samakalika Malayalam: On 27 June 2024, police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at Athani that was carrying the drugs from Bengaluru.'
+  - The page's lead picture is a portrait of the accused, not the arrest or the 2024 seizure, so no media entry is added.
+  - This account states as fact that Ragesh provided the money for the drugs; the report keeps 'allegedly' because the claim comes from the police account.
 ---
 
 Nedumbassery police arrested Ragesh, also known as Jumanchi, the main accused in
 a drug case, a 32-year-old from Painkulam in Thalappilly, Thrissur, from Kullu
-in Himachal Pradesh. [@1,5,6,7,8,9] He had been absconding for two years. [@2,3,5,7,8,9] He had
+in Himachal Pradesh. [@1,5,6,7,8,9,10] He had been absconding for two years. [@2,3,5,7,8,9] He had
 allegedly provided financial assistance to buy the narcotics, fled to Kullu on
 learning of the earlier arrests, and had been working as a tourist guide there.
-[@2,7,8] Police said he had been staying at a resort 20 kilometres above the base
-camp in Kullu. [@1,5,7,8]
+[@2,7,8,10] Police said he had been staying at a resort 20 kilometres above the base
+camp in Kullu. [@1,5,7,8,10]
 
 On 27 June 2024, police seized 316 grams of MDMA, two LSD stamps and 420 grams
 of cannabis from a car at Athani that was carrying the drugs from Bengaluru.
-[@1,5,6,7,8] Police described the MDMA and the ganja from that car seizure as suspected.
+[@1,5,6,7,8,10] Police described the MDMA and the ganja from that car seizure as suspected.
 [@2] Azad, 38, of Chalakkal, Aluva, and Harikrishnan, 28, of Tirurangadi,
-Malappuram, had been arrested earlier. [@1,5,6,7,8,9] The car was taken into custody. [@1,3,5,6,8]
+Malappuram, had been arrested earlier. [@1,5,6,7,8,9,10] The car was taken into custody. [@1,3,5,6,8]
 
 An investigation team led by Ernakulam Rural district police chief K.S.
 Sudarshan tracked him down. [@2] The team stayed for several days disguised as
-tourists before taking him into custody. [@1,5,7,8,9] With Sudarshan were deputy
+tourists before taking him into custody. [@1,5,7,8,9,10] With Sudarshan were deputy
 superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun
 Raj and Rony Augustine, assistant sub-inspector M.V. Binu and civil police
-officer Sajaz. [@1] Ragesh was produced before a court and remanded in judicial
-custody. [@2,5,7]
+officer Sajaz. [@1,10] Ragesh was produced before a court and remanded in judicial
+custody. [@2,5,7,10]
 
 Nedumbassery police arrested Ragesh, also known as Jumanchi, the main accused in a drug case, a 32-year-old from Painkulam in Thalappilly, Thrissur, from Kullu in Himachal Pradesh. [@3] Police said he had been staying at a resort 20 kilometres above the base camp in Kullu. [@3] On 27 June 2024, police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at Athani that was carrying the drugs from Bengaluru. [@3] Azad, 38, of Chalakkal, Aluva, and Harikrishnan, 28, of Tirurangadi, Malappuram, had been arrested earlier. [@3] The team stayed for several days disguised as tourists before taking him into custody. [@3] Ragesh was produced before a court and remanded in judicial custody. [@3]
 
