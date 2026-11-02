@@ -29,6 +29,11 @@ media:
     media_url: https://popularitas.com/wp-content/uploads/2026/11/Ganja-di-Pidie-1536x1026.jpeg.webp
     publisher: Popularitas.com
     caption: 'Pidie police destroying the 2-hectare cannabis field in the Tangse hills. Photo: Polres Pidie via Popularitas.com'
+  - kind: photo
+    url: https://portalnusa.com/2026/11/02/polres-pidie-bongkar-ladang-ganja-2-hektare-di-tangse-350-batang-dimusnahkan-dan-150-kg-disita/
+    media_url: https://portalnusa.com/wp-content/uploads/2026/11/Screenshot_2026-11-02-12-40-30-868_com.openai.chatgpt-edit.jpg
+    publisher: PORTALNUSA
+    caption: 'Police personnel burning 350 cannabis plants from the 2-hectare field in Blang Pandak hills, Tangse, Pidie. Photo: Humas Polres Pidie for Portalnusa.com'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 366753ce11451bd77dde811c9e6b0bc7
@@ -64,6 +69,11 @@ sources:
     publisher: Komparatif.ID
     date: 2026-11-02
     language: id
+  - title: Polres Pidie Bongkar Ladang Ganja 2 Hektare di Tangse, 350 Batang Dimusnahkan dan 150 Kg Disita
+    url: https://portalnusa.com/2026/11/02/polres-pidie-bongkar-ladang-ganja-2-hektare-di-tangse-350-batang-dimusnahkan-dan-150-kg-disita/
+    publisher: PORTALNUSA
+    date: 2026-11-02
+    language: id
 open_questions:
   - The article names no suspects, arrests, charges or court outcome.
   - Only one source for this event could be opened, so no second report confirms or adds facts.
@@ -74,20 +84,22 @@ open_questions:
   - The page's lead photograph has no caption or accessible description, so whether it shows this eradication operation could not be confirmed and it is not listed as media.
   - The new account names no suspects, arrests, charges or court outcome.
   - 'The page''s photo caption is only ''Foto: HO for Komparatif.ID'' with no description of its content, so whether it shows this eradication could not be confirmed and it is not listed as media.'
+  - Whether the 150 kg is the estimated weight of the 350 plants or a separate seized amount is not resolved between the Portalnusa wording and the existing report's reading.
+  - The Portalnusa article names no suspects, arrests, charges or court outcome.
 ---
 
 Pidie police found and destroyed a cannabis field of about two hectares in hills
 and forest at Blang Pandak village, Tangse district, Pidie, Aceh, on Sunday 1
-November 2026. [@1,2,3,4,5,6] Police presented the discovery as part of efforts to break
+November 2026. [@1,2,3,4,5,6,7] Police presented the discovery as part of efforts to break
 the narcotics distribution chain in Pidie regency. [@1,3] Police said the remote
 hill and forest location with challenging access complicated the operation. [@1]
 
 At the site, police found about 350 cannabis plants with an estimated weight of
-150 kilograms. [@1,2,3,4,5,6] The plants were one to two metres tall, according to deputy
+150 kilograms. [@1,2,3,4,5,6,7] The plants were one to two metres tall, according to deputy
 Pidie police chief Kompol Firdaus Jufrida speaking for police chief AKBP Jaka
 Mulyana. [@1] All of the cannabis plants were uprooted and destroyed at the
 location. [@1,5] Seized evidence was taken to Pidie police headquarters for
-further legal proceedings. [@1,2,3,4,5,6]
+further legal proceedings. [@1,2,3,4,5,6,7]
 
 Firdaus described the seizure as evidence of Pidie police seriousness in
 eradicating narcotics and protecting the community, especially young people,
