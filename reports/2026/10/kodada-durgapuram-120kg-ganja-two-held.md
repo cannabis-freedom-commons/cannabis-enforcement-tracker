@@ -89,6 +89,11 @@ sources:
     publisher: Andhra Jyothy, via Dailyhunt
     date: 2026-11-01
     language: te
+  - title: 'Kodad: 120 కిలోల గంజాయి పట్టివేత.. కారులో తరలిస్తుండగా పట్టుకున్న పోలీసులు! | Police Seize 120 kg Ganja Transported in Car from AP to Bengaluru'
+    url: https://www.hmtvlive.com/telugu-news/nalgonda-suryapet/police-seize-120-kg-ganja-transported-in-car-from-ap-to-bengaluru-207452
+    publisher: HMTV
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -109,18 +114,21 @@ open_questions:
   - The IND Today page gives no photo credit for its lead picture of officers and seized bundles, so its provenance is not documented.
   - The Dailyhunt page is a syndicated copy of the Andhra Jyothy report already cited, so its 150 kg figure does not independently resolve the report's 120 kg versus 150 kg discrepancy or confirm the five-person account.
   - The lead image on the Dailyhunt page has no photo credit, so its provenance is not documented.
+  - The HMTV article is dated 1 November 2026 and gives no separate date for the checks and seizure; the existing report keeps 31 October 2026.
+  - HMTV names neither of the two people detained and reports no charges, value or court outcome.
+  - The HMTV lead image is captioned only “Kodad” with no credit, so whether it shows this seizure is not established and no media entry is made.
 ---
 
-Officers seized 120 kg of ganja from the pair, according to the reports. [@1]
+Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12]
 The two were carrying the cannabis by car from Rajahmundry in Andhra Pradesh to
 Bengaluru, according to the Telugu reports in Namasthe Telangana and Mee24News.
-[@1]
+[@1,12]
 
 Andhra Prabha reported that police received credible information about the ganja
-being moved and acted on it to stop the transport. [@2] After stopping the car,
+being moved and acted on it to stop the transport. [@2,12] After stopping the car,
 officers searched it and recovered the 120 kg, Mee24News reported. [@3] Police
 said they had opened an investigation into where the ganja had been loaded and
-to whom it was to be supplied. [@3]
+to whom it was to be supplied. [@3,12]
 
 The seizure was made inside Kodada town limits in Suryapet district in the state
 of Telangana. [@3,4] Kodada town police said full details of the case would be
