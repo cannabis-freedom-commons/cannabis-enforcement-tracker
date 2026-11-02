@@ -126,6 +126,11 @@ sources:
     publisher: Sumut Pos
     date: 2026-11-01
     language: id
+  - title: Polresta Deli Serdang Ungkap 30 Kasus Narkoba, 12 Bandar Diamankan dalam Operasi Sarang Narkoba
+    url: https://www.metro24jam.co.id/2026/10/polresta-deli-serdang-ungkap-30-kasus.html
+    publisher: Metro24Jam.co.id
+    date: 2026-10-30
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -148,10 +153,12 @@ open_questions:
   - This account presents five cases and six people arrested, while the report records 30 cases and 57 suspects from the same operation; the five-case list names suspects in every case without explaining the six-person count.
   - The article gives the methamphetamine total as 22,971.72 grams, while the report's earlier sources give 23,010.24 grams.
   - 'Left out, as its quotation was not found in Editorial24jam.com: The third case was at Dusun I in Seituan village, Pantai Labu, Deli Serdang, on the afternoon of 25 October 2026.'
+  - Metro24Jam.co.id labels the 30 October 2026 presentation 'Kamis' (Thursday), although 30 October 2026 was a Friday; the report keeps the date and the weekday given in its earlier sources.
+  - The page's only photograph has no caption or credit and appears to show the same press conference already documented by other outlets, so it was not added as a separate media entry.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -159,7 +166,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10,13] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -178,3 +185,5 @@ Muhammad said the operation was intended to narrow the space for drug offenders 
 The first case was at Jalan Rebab Pasar II in Medan Baru on the evening of 28 October 2026. [@12] Police suspect the first lot of ganja came from a man known as FH, who is now on the wanted list in the Simalingkar area. [@12] Police suspect the ganja was sent by a man known as SL from Padangsidimpuan for sale in Medan. [@12] The second case was an Aceh–Tangerang methamphetamine network, with the arrest on the Banda Aceh–Medan road at Besitang, Langkat, on 25 October 2026. [@12] According to the suspect's account, the drugs were being carried with a wanted man known as MR.X from Idi Rayeuk in East Aceh to Tangerang, on the orders of a network identified as HN and R, for Rp150 million. [@12]
 
 One of the 57 suspects was a Malaysian national, police said. [@13]
+
+Police chief Kombes Pol Muhammad said the operation included extra surveillance at air-transport facilities. [@14] The cases remained under further investigation by the Deli Serdang narcotics unit (Satresnarkoba). [@14]
