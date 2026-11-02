@@ -38,27 +38,33 @@ sources:
     publisher: Newsbeast
     date: 2026-11-01
     language: el
+  - title: Είχε μετατρέψει τα θερμοκήπια σε…φυτεία κάνναβης / Τι βρήκαν οι αστυνομικοί
+    url: https://www.rthess.gr/ellada/eiche-metatrepsei-ta-thermokipia-se-fyteia-kannavis-ti-vrikan-oi-astynomikoi/
+    publisher: Rthess
+    date: 2026-11-01
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
   - The reports do not state whether the 102 growing plants were uprooted or destroyed after seizure.
   - The page lead image uses a file path from 2016/05, so whether it shows this 2026 seizure could not be established and no media entry is added.
+  - The page's only image caption repeats the headline and its file name suggests handcuffs, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
 Peloponnese on Saturday while he was tending the plantation. [@1] The man was
-detained on cultivation and drug-possession charges. [@2,3] The arrested man is to
+detained on cultivation and drug-possession charges. [@2,3,4] The arrested man is to
 be brought before the Ilia Court of First Instance prosecutor while the Ilida
-crime-investigation department continues its inquiries. [@2,3]
+crime-investigation department continues its inquiries. [@2,3,4]
 
 Police say the suspect was growing 102 cannabis plants up to 2.5 meters high
 inside two greenhouses. [@1] Officers found 50 kilograms and 30 grams of raw
 dried cannabis and plant fragments, 102 cannabis plants and a precision scale.
-[@2,3] Police described the greenhouse growing as large-scale cultivation with a
+[@2,3,4] Police described the greenhouse growing as large-scale cultivation with a
 view to trafficking the drug. [@1] A search of an adjacent storeroom also
 revealed precision scales for measuring small quantities of the drug for retail
 sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3]
+scale in a neighbouring storeroom. [@2,3,4]
