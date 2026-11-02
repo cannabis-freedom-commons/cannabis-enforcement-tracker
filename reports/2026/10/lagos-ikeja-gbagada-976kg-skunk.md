@@ -74,6 +74,10 @@ sources:
     url: https://www.galaxytvonline.com/news/local-news/ndlea-arrests-paris-bound-passengers-with-cocaine-in-stomachs
     publisher: Galaxy TV
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-bound businessmen who ‘excreted 200 wraps of cocaine’ at Abuja airport
+    url: https://www.nigerianeye.com/2026/11/ndlea-arrests-two-europe-bound.html
+    publisher: NigerianEye
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -106,7 +110,7 @@ open_questions:
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15]
 
 ## The announcement
 
