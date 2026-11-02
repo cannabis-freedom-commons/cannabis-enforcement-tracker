@@ -42,6 +42,11 @@ sources:
     publisher: G1
     date: 2026-11-01
     language: pt
+  - title: Van registrada em nome de delegado é apreendida com 174 tabletes de maconha
+    url: https://jornaldaparaiba.com.br/cotidiano/van-registrada-em-nome-de-delegado-e-apreendida-com-174-tabletes-de-maconha
+    publisher: Jornal da Paraíba
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight was published for the 174 tablets, so no kilogram figure is recorded.
   - The reports describe the seized material as maconha or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -54,12 +59,12 @@ open_questions:
 ---
 
 The workshop owner outside whose premises the van was parked was taken to give a
-statement and was then booked for drug trafficking. [@2] The driver said to have
+statement and was then booked for drug trafficking. [@2,4] The driver said to have
 delivered the van to the workshop had not been found when the reports were last
 updated. [@1]
 
 The van was parked in front of a mechanical workshop with one of its windows
-broken. [@1,3] The shop owner said the van had been left at the site on Thursday
+broken. [@1,3,4] The shop owner said the van had been left at the site on Thursday
 29 October by a service provider for repairs. [@1] Brandão said in a note that
 the vehicle had been left at the workshop on that Thursday by a service provider
 and that he had not known about the drugs found inside. [@2] Brandão said he had
@@ -71,4 +76,4 @@ Flagrantes. [@2] He said he trusted a rigorous investigation of the facts and
 was in absolute tranquillity. [@1] The Paraíba Civil Police are investigating
 the seizure in the Cuiá case. [@1]
 
-On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3]
+On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4]
