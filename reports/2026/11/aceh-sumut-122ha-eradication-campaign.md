@@ -30,6 +30,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/02/polisi-temukan-dan-musnahkan-ladang-ganja-di-aceh-taufiqdetikcom-1793615725226_169.png?w=700&q=90
     publisher: detikNews
     caption: 'Police find and destroy a cannabis field in Aceh. Photo: Taufiq/detikcom'
+  - kind: photo
+    url: https://www.niaga.asia/operasi-bnn-polri-12286-hektare-lahan-ganja-di-aceh-dimusnahkan/
+    media_url: https://www.niaga.asia/wp-content/uploads/2026/11/IMG-20261102-WA0058.jpg
+    publisher: Niaga.Asia
+    caption: 'Eradication of cannabis fields in Aceh. Photo: HO-Biro Humas dan Protokol BNN RI.'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0b11fdb744747faab0170240badc5d4
@@ -63,6 +68,11 @@ sources:
   - title: BNN dan Polri Musnahkan 122,86 Hektare Ladang Ganja di Aceh, 186 Ribu Batang Disita
     url: https://kakinews.id/bnn-dan-polri-musnahkan-12286-hektare-ladang-ganja-di-aceh-186-ribu-batang-disita/
     publisher: Kalimantan Kita
+    date: 2026-11-02
+    language: id
+  - title: Operasi BNN-Polri, 122,86 Hektare Lahan Ganja di Aceh Dimusnahkan
+    url: https://www.niaga.asia/operasi-bnn-polri-12286-hektare-lahan-ganja-di-aceh-dimusnahkan/
+    publisher: Niaga.Asia
     date: 2026-11-02
     language: id
 open_questions:
@@ -100,7 +110,7 @@ Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
 [@1]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3,4,6] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3,4,6,7] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
 about 150,000 cannabis plants aged about five to six months. [@1] Officers
 burned those plants on the spot. [@1] The Mandailing Natal find began with a
@@ -114,4 +124,4 @@ about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6]
 Police said the eradication was intended to break the narcotics distribution
 chain at its production source. [@1,5]
 
-Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@6] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6]
+Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7]
