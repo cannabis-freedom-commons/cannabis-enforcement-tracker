@@ -38,23 +38,30 @@ sources:
     publisher: Ekushey Sangbad
     date: 2026-11-02
     language: bn
+  - title: বিস্কুটের প্যাকেটে ৪ কেজি গাঁজাসহ নারী গ্রেপ্তার
+    url: https://www.dainikamadershomoy.com/details/01a19bc11c23
+    publisher: Dainik Amader Shomoy
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
   - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
   - No court outcome beyond the filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
+  - The headline rounds the seizure to 4 kg while the body consistently states 4.2 kg; the existing report uses 4.2 kg.
+  - The page lists two images but both carry only an 'Image not found' caption and credit, so whether any photo shows this seizure could not be established and no media entry is added.
 ---
 
 SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
 allegedly smuggling cannabis concealed inside biscuit packets using a novel
-technique. [@1] An SRB-11 Sadar Company operational team in Narayanganj set up a
+technique. [@1,3] An SRB-11 Sadar Company operational team in Narayanganj set up a
 highway checkpoint on secret information and detained Aklima as she travelled
 disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2] The
 arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
-and is the wife of Rajesh Sikder. [@1,2]
+and is the wife of Rajesh Sikder. [@1,2,3]
 
 Officers searched the Lexus biscuit packet she was carrying and recovered 4 kg
 200 grams of ganja, the local term for cannabis, according to the SRB-11
-account. [@1,2] The operation took place at about 7:30 pm on Sunday, 1 November,
+account. [@1,2,3] The operation took place at about 7:30 pm on Sunday, 1 November,
 in front of the Bismillah Filling Station under Sonargaon Police Station on the
 Dhaka-Chattogram highway. [@1,2]
 
@@ -63,4 +70,4 @@ organised drug-trafficking ring who had long collected large consignments of
 banned drugs from border areas and carried, supplied and sold them in
 Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1] A
 regular case has been filed against her at Sonargaon Police Station under the
-Narcotics Control Act. [@1,2]
+Narcotics Control Act. [@1,2,3]
