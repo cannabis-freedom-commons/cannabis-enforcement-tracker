@@ -23,6 +23,10 @@ sources:
     url: https://coconutcreektalk.com/coconut-creek-crime-blotter-vehicle-burglaries-catalytic-converter-theft-and-domestic-battery-arrests
     publisher: Coconut Creek Talk
     date: 2026-10-29
+  - title: Coconut Creek Police Report Hammock Estates Car Break-Ins and Someone Who Fled Officers
+    url: https://www.tapinto.net/towns/coconut-creek/articles/coconut-creek-police-report-hammock-estates-car-break-ins-and-someone-who-fled-officers
+    publisher: TAPinto
+    date: 2026-11-01
 open_questions:
   - No weight beyond the more-than-20-grams threshold was published, so no cannabis quantity is counted.
   - The arrest listing uses the statutory phrasing of more than 20 grams of cannabis or more than 3 grams of synthetic cannabinoids, while the incident entry specifies marijuana.
@@ -34,7 +38,7 @@ open_questions:
 
 Coconut Creek police arrested a 23-year-old man on a felony charge of possessing
 more than 20 grams of cannabis after a traffic stop on West Sample Road on 21
-October 2026. [@1] The arrested man was identified as 23-year-old Maliq Camel
+October 2026. [@1,3] The arrested man was identified as 23-year-old Maliq Camel
 Peck, arrested on 21 October at 4200 W. Sample Road. [@2] Police logged the
 traffic stop on West Sample Road between 8:53 p.m. and 8:54 p.m. on 21 October.
 [@2] Police documented that one person from the stop was transported to the
@@ -47,5 +51,4 @@ than 20 grams of cannabis or more than 3 grams of synthetic cannabinoids. [@2]
 Coconut Creek police responded to various calls from 20 to 26 October 2026, the
 weekly set that includes this stop. [@2] The felony cannabis arrest was reported
 as part of Coconut Creek police reporting for 20 to 26 October alongside other
-local matters. [@1]
-
+local matters. [@1,3]
