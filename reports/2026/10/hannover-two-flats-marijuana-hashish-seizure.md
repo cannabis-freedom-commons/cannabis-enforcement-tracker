@@ -20,6 +20,11 @@ media:
     media_url: https://cache.pressmailing.net/thumbnail/story_big/df4fbea2-87e8-404c-9f9c-f78bac037797/zoll-h-zoll-stellt-drogen-im-wert-von-rund-300-000-euro-sicher-durchsuchungen-von-zwei-wohnungen-in-
     publisher: Presseportal
     caption: Seized cannabis in a cupboard shown in the lead photo on the source page
+  - kind: photo
+    url: https://www.nord24.de/blaulicht/ueber-fuenf-kilo-marihuana-und-drei-kilo-ketamin-zoll-durchsucht-wohnungen-427524.html
+    media_url: https://www.nord24.de/bilder/die-zollfahnder-beschlagnahmten-in-der-wohnung-des-25-900955m.webp
+    publisher: nord24
+    caption: 'Cash seized in the 25-year-old suspect''s flat. Photo: Zoll'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 21fac406e1bc5da2d33e819f356b7359
@@ -30,6 +35,11 @@ sources:
     publisher: Presseportal
     date: 2026-11-02
     language: de
+  - title: 'Über fünf Kilo Marihuana und drei Kilo Ketamin: Zoll durchsucht Wohnungen'
+    url: https://www.nord24.de/blaulicht/ueber-fuenf-kilo-marihuana-und-drei-kilo-ketamin-zoll-durchsucht-wohnungen-427524.html
+    publisher: nord24
+    date: 2026-11-02
+    language: de
 open_questions:
   - Only one source, the Zollfahndungsamt Hannover statement via Presseportal, was opened; no second report of the same event was found.
   - Cannabis weights are qualified as more than five kilograms of marijuana and about 150 grams of hashish, so 5.15 kg is an approximate lower bound.
@@ -37,23 +47,25 @@ open_questions:
   - The estimated street value of about 300,000 euros covers all seized substances including cocaine and ketamine, not cannabis alone.
   - The more than ten kilograms of marijuana found in the July postal parcel is background to the same investigation and is not counted in the October flat-seizure figure.
   - Whether the lead photo of cannabis in a cupboard shows this seizure beyond its caption could not be independently established.
+  - The Nord24 account gives no street value, so the existing about 300,000 euros estimate continues to rely on the Zollfahndungsamt statement alone.
+  - The first Nord24 photo credited to Zoll appears to show the same agency handout already listed from Presseportal, so only the distinct cash-seizure photo is listed here.
 ---
 
 Customs investigators are investigating two Germans aged 59 and 25 on suspicion
 of dealing drugs commercially on a kilogram scale. [@1] Both suspects were
 processed for identification and then released, and face prison sentences if
-convicted. [@1] The Hanover Customs Investigation Office is continuing the
+convicted. [@1,2] The Hanover Customs Investigation Office is continuing the
 investigation on behalf of the Hanover public prosecutor's office. [@1]
 
 On 20 October 2026 investigators searched two flats in Hanover and seized large
 quantities of drugs and ketamine, which the office describes as a medicine
-misused as a drug. [@1] In the 59-year-old suspect's flat officers found more
+misused as a drug. [@1,2] In the 59-year-old suspect's flat officers found more
 than five kilograms of marijuana, about 150 grams of hashish, about one kilogram
 of cocaine and about three kilograms of ketamine, plus an irritant spray device.
-[@1] In the 25-year-old suspect's flat investigators seized 6,000 euros in cash
+[@1,2] In the 25-year-old suspect's flat investigators seized 6,000 euros in cash
 suspected to come from drug deals. [@1] The case began when Giessen customs
 officers found more than ten kilograms of marijuana in a postal parcel in July
-addressed to the 59-year-old from Hanover, leading to the October searches. [@1]
+addressed to the 59-year-old from Hanover, leading to the October searches. [@1,2]
 The office puts the estimated street sale value of all the seized substances at
 about 300,000 euros. [@1]
 
@@ -61,4 +73,3 @@ The office said it reported the 20 October measures only now for tactical
 investigative reasons. [@1] Office head Monika Dennhardt said the seized
 substances were withdrawn from the illegal market, which she described as a
 contribution to protecting public health. [@1]
-
