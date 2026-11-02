@@ -43,6 +43,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-10-31
     language: hi
+  - title: 'Moradabad News: मुरादाबाद में नशे के कारोबार पर पुलिस का शिकंजा, दो महिलाओं समेत तीन आरोपी गिरफ्तार'
+    url: https://newstrack.com/uttar-pradesh/moradabad/moradabad-drug-smuggling-case-three-arrested-two-women-smack-charas-seized-644885
+    publisher: Newstrack
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Amar Ujala reported 4.50 kg of charas; this report uses 4.375 kg, the figure in the Hindusthan Samachar wire copy and Dainik Jagran.
   - The wire copy says the three were arrested during a police check, while Amar Ujala and Dainik Jagran describe a morning raid on their house; the report follows the raid account.
@@ -52,15 +57,17 @@ open_questions:
   - 'Left out, as its quotation was not found in Amar Ujala: Kanta Prasad took orders from customers on WhatsApp and his wife and mother delivered the charas and smack to the addresses they gave, Amar Ujala reported.'
   - Janta Se Rishta, publishing late on 31 October, described the Majhola case only as an allegation and said no details of the arrests, the quantity of drugs or the case registered were available.
   - The same article also reports a separate Civil Lines case in which a mother and daughter were arrested with charas and a son was absconding; it gives no date or quantity, and the event is left out of this report.
+  - The submitted article spells the names as Kana Prasad, Kavita Rani and Rani, while the existing report uses Kanta Prasad, Kavita Saini and Rani Saini; the match rests on place, date, relationships and identical quantities.
+  - The submitted page lists one lead photo whose caption only repeats the headline with no credit; whether it shows this seizure is not established, so no media entry is made.
 ---
 
 Majhola police in Moradabad, Uttar Pradesh, arrested a man, his wife and his
 mother on Saturday 31 October 2026 on allegations of trafficking charas and
-smack. [@1,4] Police named them as Kanta Prasad, his wife Kavita Saini and his
+smack. [@1,4,5] Police named them as Kanta Prasad, his wife Kavita Saini and his
 mother Rani Saini, residents of Jayantipur Neta Colony in the Majhola police
-station area. [@1] Officers recovered 4.375 kg of charas, a hand-made cannabis
-resin, and 14.59 g of smack, a form of heroin, police said. [@1] They also found
-33,600 rupees in cash and two mobile phones. [@1]
+station area. [@1,5] Officers recovered 4.375 kg of charas, a hand-made cannabis
+resin, and 14.59 g of smack, a form of heroin, police said. [@1,5] They also found
+33,600 rupees in cash and two mobile phones. [@1,5]
 
 The arrests came in a raid on the family's house on Saturday morning by a
 15-member police team led by Bhaskar Kumar Mishra, the Circle Officer (CO) for
