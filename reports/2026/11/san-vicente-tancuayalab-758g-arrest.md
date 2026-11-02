@@ -64,13 +64,13 @@ open_questions:
 
 Officers of San Luis Potosí's State Civil Guard (GCE), working with the army,
 detained Francisco “N”, 27, and Esmeralda “N”, 26, in the centre of San Vicente
-Tancuayalab. [@1,5,6] The pair were identified as suspected priority targets from
+Tancuayalab. [@1,2,5,6] The pair were identified as suspected priority targets from
 intelligence information. [@1,5] Investigators said they were linked to drug
 distribution and halconeo, or lookout work, at sales points in Tamuín, San
 Vicente Tancuayalab and Tanquián de Escobedo. [@1]
 
-Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,5,6] They also found
-42 packages holding 84 marijuana cigarettes. [@1,6] With them were a portable
+Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,2,5,6] They also found
+42 packages holding 84 marijuana cigarettes. [@1,2,6] With them were a portable
 radio, two mobile phones and the motorcycle the pair were riding. [@2] The rest
 of the haul was 401 doses of cristal, 40 doses of piedra and 50 doses of a
 substance with cocaine characteristics. [@2] Pulso SLP said the official
