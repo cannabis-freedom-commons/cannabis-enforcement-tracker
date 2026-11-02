@@ -33,6 +33,7 @@ open_questions:
   - No charges, court appearance or further arrests were reported.
   - No photo or video of the arrest could be verified, and the submitted video's frames could not be viewed.
   - The Zee 24 Ghanta video is cited only for the corridor question in its headline; its 33-second report could not be watched or transcribed.
+  - Whether the reel reports the 30 October 2026 Digha arrest or Digha drug trafficking more broadly could not be confirmed, because the page offers no text, transcript or viewable frames.
 ---
 
 Two suspected drug smugglers, Krishna Rajbhar and Sheikh Razzak, were arrested
