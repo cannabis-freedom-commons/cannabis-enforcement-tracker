@@ -73,6 +73,11 @@ sources:
     publisher: İstiklal Gazetesi
     date: 2026-11-01
     language: tr
+  - title: Bayındır'daki evde esrar, tohum ve kenevir bitkisi bulundu
+    url: https://www.saraymedya.com/haber/bayindir-daki-evde-esrar-tohum-ve-kenevir-bitkisi-bulundu_319995/
+    publisher: Saray Medya, via İhlas Haber Ajansı (İHA)
+    date: 2026-11-01
+    language: tr
 open_questions:
   - The accounts give no separate date for the search; 1 November 2026 is the publication date of the earliest report.
   - No charge, court date or outcome was reported; the suspect was still being processed at the police station.
@@ -82,6 +87,8 @@ open_questions:
   - The accounts rest on the same police statement and name no suspect; no independent reporting was found.
   - The submitted page carries a single image captioned only with its headline and no credit, and no photograph of the search itself appears with the opened accounts.
   - This syndicated copy names the Ödemiş and Bayındır district police directorates as the raiding units; the existing report follows fuller agency copies that name the Ödemiş anti-narcotics branch.
+  - The submitted page gives no separate date for the search; 1 November 2026 is its publication date.
+  - The page's single image is captioned only with the headline and carries no credit, so it cannot be confirmed to show this seizure and no media entry is added.
 media:
   - kind: photo
     url: https://www.aksiyon.com.tr/bayindir-da-evde-yapilan-aramada-3-kilo-esrar-ve-10-kok-hint-keneviri-yakalandi-385786
@@ -91,17 +98,17 @@ media:
 ---
 
 Police in Bayındır, a district of İzmir province in western Turkey, raided a
-house. [@3,4,5,6,7,9,10,11] The owner of the house was detained. [@3,4,5,7,11]
+house. [@3,4,5,6,7,9,10,11,12] The owner of the house was detained. [@3,4,5,7,11,12]
 
 Officers found 3 kilo 59 gram of esrar, 2 kilo 744 gram of cannabis seeds and 10
-cannabis plants, all seized, at the property. [@1,4,5,6,7,9,10,11] The search covered the house
+cannabis plants, all seized, at the property. [@1,4,5,6,7,9,10,11,12] The search covered the house
 and its outbuilding, which belong to the suspect. [@1,5,6,8,9] Esrar is the Turkish term
 for cannabis, and Hint keneviri is the Turkish name for the cannabis plant. [@1]
 The search was carried out by teams from the Ödemiş narcotics crimes bureau and
-the Bayındır district police department. [@1,5,6,8,9,10] The teams acted on an address in
+the Bayındır district police department. [@1,5,6,8,9,10,12] The teams acted on an address in
 Bayındır identified in advance. [@2,6,8]
 
 The operation was part of work against the trade in and use of drugs in the
 district. [@2,6,8] The suspect was held in gözaltı, Turkish police custody, and was
 to be sent in person to the judicial authorities after processing at the police
-station. [@1,5,6,10]
+station. [@1,5,6,10,12]
