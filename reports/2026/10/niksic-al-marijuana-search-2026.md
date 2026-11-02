@@ -37,6 +37,10 @@ sources:
     publisher: Vijesti
     date: 2026-10-31
     language: sr
+  - title: 'Raids across Montenegro: Kavčani and Škaljari controlled, six people arrested, cocaine and marijuana found'
+    url: https://en.vijesti.me/news-b/black-chronicle/834146/raids-throughout-Montenegro--Kav%C4%8Dani-and-Skaljarci-controlled--six-people-arrested--cocaine-and-marijuana-found
+    publisher: Vijesti
+    date: 2026-10-31
 open_questions:
   - The incident date is inferred as 30 October from the description “the previous night” in a story published on 31 October; the precise start and end times are not stated.
   - The weight of the marijuana seized in Nikšić was not given.
@@ -46,13 +50,13 @@ open_questions:
 ---
 
 Police arrested 23-year-old A.L. in Nikšić after finding a small package of
-cocaine on him during a check at a catering venue. [@2] He was brought before a
+cocaine on him during a check at a catering venue. [@2,3] He was brought before a
 Misdemeanor Court with a misdemeanor charge for violating Montenegro's law on
-the prevention of drug abuse. [@1] Officers searched a residential and catering
+the prevention of drug abuse. [@1,3] Officers searched a residential and catering
 property used by members of organized-crime groups and people of operational
-interest. [@1] Police seized several packages of marijuana and cocaine from A.L.
+interest. [@1,3] Police seized several packages of marijuana and cocaine from A.L.
 there, along with a metal drug crusher, a metal box, a knife and a metal baton.
-[@1]
+[@1,3]
 
 The search was part of intensified police checks and raids carried out across
 Montenegro the previous night. [@1] Officers from four regional security centers
@@ -61,4 +65,3 @@ associates and people of operational interest, as well as the venues where they
 gathered. [@1] Police checked 59 premises, including 53 catering establishments
 and six betting shops and casinos, and raided 14 catering establishments. [@1]
 Police said activity related to the Nikšić case was ongoing. [@1]
-
