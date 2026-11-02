@@ -29,6 +29,11 @@ sources:
     publisher: عنب بلدي
     date: 2026-11-01
     language: ar
+  - title: ضبط 4.3 ملايين حبة كبتاجون وتفكيك 30 شبكة مخدرات في سوريا
+    url: https://www.enabbaladi.net/831731/%D8%B6%D8%A8%D8%B7-4-3-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%AC%D9%88%D9%86-%D9%88%D8%AA%D9%81%D9%83%D9%8A%D9%83-30-%D8%B4%D8%A8%D9%83%D8%A9-%D9%85/?amp=1
+    publisher: عنب بلدي
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the incident date for the monthly period.
   - No number of people arrested or detained was published for the October tally as a whole.
@@ -39,9 +44,9 @@ open_questions:
 ---
 
 Syria's Anti-Narcotics Department said it carried out 157 security operations
-across the country during October 2026. [@1,3] The department said those
-operations dismantled 30 domestic drug-trafficking networks. [@1,3] The department
-reported seizing 582 kilograms of hashish in those October operations. [@2,3]
+across the country during October 2026. [@1,3,4] The department said those
+operations dismantled 30 domestic drug-trafficking networks. [@1,3,4] The department
+reported seizing 582 kilograms of hashish in those October operations. [@2,3,4]
 
 The same monthly tally separately listed about 4.3 million Captagon pills, more
 than 28,000 narcotic pills and 7 kilograms of crystal meth, which are not
