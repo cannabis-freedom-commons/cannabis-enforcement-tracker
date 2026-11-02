@@ -138,6 +138,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-02
     language: hi
+  - title: कानपुर में भोर होते ही पुलिस का महा एक्शन! 135 जवानों ने घेरा कंजरपुरवा, 11 किलो गांजा बरामद, तीन गिरफ्तार
+    url: https://www.swatantraprabhat.com/article/193402/as-soon-as-dawn-broke-in-kanpur-police-took-massive
+    publisher: Swatantra Prabhat
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -168,22 +173,23 @@ open_questions:
   - The page was published on 2 November 2026 for a Sunday dawn raid, matching the report's 1 November 2026 event date.
   - This source spells the locality Kanjadanpurwa while the existing report uses Kanjarpurwa for the same Kidwai Nagar locality.
   - The page lead image carries a 2021 file address and headline caption, so it could not be confirmed to show this operation and no media entry is added.
+  - The page's lead image carries only the headline as its caption with no credit, so it could not be confirmed to show this operation and no media entry is added.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
 search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17] The
 operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6,7,11,12,13,16]
+[@1,4,6,7,11,12,13,16,18]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12,13,14]
+stations. [@2,4,6,7,9,10,12,13,14,18]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16,18] Other teams kept
 searching during the operation, and police said they were trying to identify
 others involved in the trade. [@3,6,13]
 
