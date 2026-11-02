@@ -83,6 +83,11 @@ sources:
     publisher: Prabhasakshi
     date: 2026-11-01
     language: hi
+  - title: अहमदाबाद विमानतळावर 13 कोटींचा गांजा जप्त, बँकॉकहून आलेल्या जोडप्याला अटक
+    url: https://www.saamana.com/cannabis-worth-crores-seized-at-ahmedabad-airport-couple-arriving-from-bangkok-arrested-saamana-online-news/
+    publisher: Saamana
+    date: 2026-11-02
+    language: mr
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -103,23 +108,27 @@ open_questions:
   - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
   - Whether the page's lead image shows this seizure cannot be established from its caption and lack of credit, so no media entry is listed.
   - The submitted page gives 2 November 2026 as its publication date and says the seizure was made on Sunday, consistent with the existing report's incident date of 1 November 2026.
+  - The Saamana page is published 2 November 2026 and says the interception was on Sunday, consistent with the existing report's incident date of 1 November 2026, but gives no separate interception time.
+  - The Saamana account does not repeat the flight number TG-343, the Air Intelligence Unit, passenger profiling, checked-in luggage detail, hydroponic description, passenger names, or ages reported in other sources for the same event.
+  - The Saamana account does not state the Rs 13 crore valuation method beyond reporting 13 কোটিंचा गांजा seized, matching the existing value figure.
+  - The page's only listed image is captioned only as ganja siezed with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
 detailed manual examination. [@1,2,9] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10,11] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10,11,14] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
