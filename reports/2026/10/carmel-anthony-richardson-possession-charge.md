@@ -24,6 +24,10 @@ sources:
     url: https://www.wruf.com/headlines/2026/10/23/former-florida-qb-anthony-richardson-charged-with-marijuana-possession/
     publisher: WRUF
     date: 2026-10-23
+  - title: Anthony Richardson charged with misdemeanor marijuana possession
+    url: https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/anthony-richardson-charged-with-misdemeanor-marijuana-possession
+    publisher: NBC Sports
+    date: 2026-10-23
 open_questions:
   - No weight was published for the mason jar contents or the THC-infused gummies, so no cannabis quantity is recorded.
   - The filing date of 19 October 2026 is inferred from the charge being filed on the Monday a week after the Oct. 12 stop.
@@ -32,6 +36,8 @@ open_questions:
   - It is unclear whether the reported positive THC test covered only the mason-jar substance or also the gummies.
   - The Dec. 9 hearing year and the exact January 2027 trial date beyond month and year were not given in the opened text.
   - The WRUF page photo shows Richardson playing for Florida and does not depict the traffic stop or seizure, so no media entry is listed.
+  - The NBC Sports account dates the bench trial to January 4 without stating the year, while the existing report gives January 2027 without a day.
+  - The page's lead image is described as Indianapolis Colts v Pittsburgh Steelers and does not depict the traffic stop or seizure, so no media entry is listed.
 ---
 
 Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor charge
@@ -45,14 +51,14 @@ a citation for the expired registration and a summons for marijuana possession.
 
 Police said the car pulled to the side of the road and officers noticed the odor
 of marijuana as they approached. [@1] Richardson reportedly admitted that he had
-smoked marijuana in the car so as not to do so in front of his children. [@1] He
+smoked marijuana in the car so as not to do so in front of his children. [@1,3] He
 also told police that he possessed a small amount of marijuana in the car. [@1]
 Officers searching the car reportedly found a small mason jar containing a
 substance believed to be marijuana and an opened bag of THC-infused gummies.
-[@1,2] The substance reportedly tested positive for THC. [@1]
+[@1,2,3] The substance reportedly tested positive for THC. [@1]
 
 The Colts said they were aware of the situation, were gathering additional
-information and would have no further comment. [@1] Richardson's agent said
+information and would have no further comment. [@1,3] Richardson's agent said
 Richardson takes the matter seriously, respects the legal process and remains
 focused on his responsibilities, family and future. [@1] A hearing scheduled for
 Dec. 9 has been waived, and a bench trial will be held in Jan. 2027. [@1]
