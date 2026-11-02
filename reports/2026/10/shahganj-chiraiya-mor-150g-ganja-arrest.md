@@ -37,18 +37,25 @@ sources:
     publisher: Hindustan
     date: 2026-11-01
     language: hi
+  - title: 'Jaunpur News: गांजा संग एक आरोपित गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/jaunpur/story-shahganj-police-arrest-suspect-with-150-grams-of-illegal-cannabis-201793556009361.html
+    publisher: Hindustan
+    date: 2026-11-01
+    language: hi
 open_questions:
   - All three reports rest on the Shahganj police account; no independent witness account or court record was found.
   - No chargesheet, plea or court outcome is reported; the accounts say only that a case was registered and further legal action was under way.
   - No age or estimated value was published for Bahadur or the 150 grams of ganja.
   - The pages carried no photograph of the arrest or the seized ganja; the Hindustan page's image is a generic Jaunpur city banner, so no media is linked.
+  - The new Hindustan copy gives only Saturday night and its 1 November 2026 publication date; the 31 October 2026 incident date comes from the Dainik Bhaskar account already cited in the report.
+  - The page image is a generic site logo, not a photograph of this arrest or the seized ganja, so no media entry is added.
 ---
 
 Shahganj police arrested Bahadur, a resident of Takha West village, during a
 vehicle check near Chiraiya Mor in Jaunpur district, Uttar Pradesh, on Saturday
-night. [@1,4] The check was under way at about 6:55 pm on 31 October 2026 when a
+night. [@1,4,5] The check was under way at about 6:55 pm on 31 October 2026 when a
 tip-off said a man was nearby with ganja. [@2] A search found 150 grams of
-ganja, the local name for cannabis, on him. [@1,4]
+ganja, the local name for cannabis, on him. [@1,4,5]
 
 Shahganj police registered case 382/2026 at the police station under the
 Narcotic Drugs and Psychotropic Substances Act, India's main drug law, and said
