@@ -21,6 +21,11 @@ sources:
     publisher: RCA1
     date: 2026-11-01
     language: pt
+  - title: Abordagem policial termina com apreensão de cocaína e maconha em Conchal
+    url: https://rca1.com.br/abordagem-policial-termina-com-apreensao-de-cocaina-e-maconha-em-conchal/
+    publisher: RCA1
+    date: 2026-11-01
+    language: pt
 open_questions:
   - The weight of the marijuana portion and the suspected cocaine was not stated.
   - The stop is dated to the night of Saturday (31) in a report published on 1 November 2026, so 31 October 2026 is used as the incident date.
@@ -31,9 +36,9 @@ open_questions:
 Military police officers on preventive patrol seized cocaine and marijuana in
 the local Parque Industrial neighbourhood of Conchal on the night of Saturday 31
 October 2026. [@1] Officers spotted a man standing in front of a residence on
-Rua Mato Grosso there and decided to approach him. [@1] A personal search found
+Rua Mato Grosso there and decided to approach him. [@1,2] A personal search found
 two eppendorfs holding a substance resembling cocaine, one portion of marijuana
-and R$49 in cash. [@1] Officers took the man first to the Madre Vanini emergency
+and R$49 in cash. [@1,2] Officers took the man first to the Madre Vanini emergency
 unit for evaluation and then to the on-duty police station in Araras, where the
 case was presented and recorded as possession of narcotics. [@1]
 
@@ -42,4 +47,3 @@ portion of marijuana, alongside two eppendorfs described as containing a
 cocaine-like substance. [@1] Police also listed R$49 in cash among the items
 seized alongside the drugs during the stop. [@1] After the procedures carried
 out by the Judicial Police, the man was released. [@1]
-
