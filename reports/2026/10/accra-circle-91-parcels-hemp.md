@@ -67,6 +67,10 @@ sources:
     url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Police-arrest-farmer-with-91-parcels-of-suspected-Indian-hemp-at-Circle-2059230
     publisher: GhanaWeb
     date: 2026-10-31
+  - title: Police arrest man with 91 suspected parcels of Indian hemp at Circle VIP Bus station
+    url: https://www.modernghana.com/news/1540839/police-arrest-man-with-91-suspected-parcels-of.html
+    publisher: Modern Ghana
+    date: 2026-10-31
 open_questions:
   - No weight was published for the 91 parcels, so the report records no kilogram figure.
   - The GH¢33,600 figure is the suspect's own reported valuation of the parcels, not a police assessment or an investigators' street-value estimate.
@@ -78,16 +82,18 @@ open_questions:
   - Citi Newsroom’s photograph is the same police handout already linked from MyJoyOnline (file 877508359), so it was not added again.
   - Graphic Online's headline describes the man as attempting to travel, but its article text reports only that he was arrested at the terminal.
   - Graphic Online places Sovie Kudzra in the Volta Region, while Modern Ghana and the existing report say the Volta North Region.
+  - The submitted page attributes the arrest to the Police Special Operations Team, while the existing report names the Office of the Special Operations Assistant to the Inspector-General of Police.
+  - The submitted page places Sovie Kudzra near Kpando in the Volta Region, while the existing report says Volta North Region.
 ---
 
 The Ghana Police Service arrested 40-year-old Roger Borbobli at the VIP Bus
-Terminal at Kwame Nkrumah Circle in Accra. [@1,4,5,7] The arrest was made on Thursday
+Terminal at Kwame Nkrumah Circle in Accra. [@1,4,5,7,9] The arrest was made on Thursday
 29 October 2026 by officers from the Office of the Special Operations Assistant
 to the Inspector-General of Police. [@3] Preliminary investigations found that
 loading boys at the terminal smelled something unusual coming from the three
-suitcases and alerted police. [@1,4,5,7,8] Officers went to the terminal, arrested him
+suitcases and alerted police. [@1,4,5,7,8,9] Officers went to the terminal, arrested him
 and retrieved the suitcases, which held 91 parcels of compressed dried leaves
-suspected to be Indian hemp. [@1,4,6,7,8] The suspect himself reportedly valued the
+suspected to be Indian hemp. [@1,4,6,7,8,9] The suspect himself reportedly valued the
 parcels at GH¢33,600. [@1,4,5,7]
 
 Borbobli allegedly told investigators he was a farmer from Sovie Kudzra, near
