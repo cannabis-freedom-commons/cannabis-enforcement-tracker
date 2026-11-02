@@ -19,6 +19,10 @@ sources:
     url: https://burgasmedia.com/news/izzeha-metamfetamin-i-marihuana-ot-chetirima-mazhe-v-pomorie?lang=en
     publisher: BurgasMedia
     date: 2026-11-02
+  - title: Police find meth and cannabis on four men in Pomorie
+    url: https://burgasmedia.com/amp/news/izzeha-metamfetamin-i-marihuana-ot-chetirima-mazhe-v-pomorie?lang=en
+    publisher: BurgasMedia
+    date: 2026-11-02
 open_questions:
   - Only one opened source could be found for this event.
   - The incident date of 30 October 2026 is the date of the 2-gram marijuana seizure; the source was published on 2 November 2026.
@@ -29,7 +33,7 @@ open_questions:
 ---
 
 Police in Pomorie seized methamphetamine and marijuana from four men during
-checks on 29 and 30 October, as attributed to the Interior Ministry. [@1] One of
+checks on 29 and 30 October, as attributed to the Interior Ministry. [@1,2] One of
 the four men was wanted by police at the time of the checks. [@1] On 29 October,
 officers seized 8 grams of methamphetamine from a 23-year-old man who was wanted
 by police. [@1]
@@ -39,10 +43,9 @@ no amount published for that find. [@1] On the next day, 30 October, police in
 Pomorie seized 4 grams of methamphetamine from a 41-year-old man. [@1] On that
 same 30 October check in Pomorie, police seized 2 grams of marijuana from a
 44-year-old man, the only separately stated cannabis amount in these checks.
-[@1]
+[@1,2]
 
 The methamphetamine amounts were found during the same two-day Pomorie checks
 but are a different substance from marijuana and are excluded from the cannabis
 weight, leaving 2 grams as the recorded cannabis seizure. [@1] The Pomorie drug
 finds were reported as Interior Ministry information. [@1]
-
