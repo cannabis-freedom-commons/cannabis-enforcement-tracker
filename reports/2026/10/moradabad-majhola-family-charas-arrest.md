@@ -53,6 +53,15 @@ sources:
     publisher: 4PM News
     date: 2026-11-01
     language: hi
+  - title: “மகனுக்கு அம்மாவும் மனைவியும் பார்ட்னர்களா?” கஞ்சா, சரஸ், ஸ்மாக் என குடும்பமே சேர்ந்து நடத்திய கடத்தல்! ரூ.4 லட்சம் போதைப்பொருள்… யக்ஷ் செயலி மூலம் சிக்கிய மூவர்…! – Seithi Solai
+    url: https://www.seithisolai.com/%E0%AE%AE%E0%AE%95%E0%AE%A9%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%85%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%BE%E0%AE%B5%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AE%A9%E0%AE%88%E0%AE%B5/
+    publisher: Seithi Solai
+    language: ta
+  - title: मुरादाबाद में नशा तस्करी के आरोप में मां, बेटा और पत्नी गिरफ्तार; यक्ष ऐप से मिला सुराग
+    url: https://www.aajkasach.com/news/moradabad-police-narcotics-network-yaksh-app-bust-0e077702
+    publisher: Aaj Ka Sach
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Amar Ujala reported 4.50 kg of charas; this report uses 4.375 kg, the figure in the Hindusthan Samachar wire copy and Dainik Jagran.
   - The wire copy says the three were arrested during a police check, while Amar Ujala and Dainik Jagran describe a morning raid on their house; the report follows the raid account.
@@ -69,13 +78,19 @@ open_questions:
   - This outlet says about Rs 33,000 in cash was seized, while the existing report uses Rs 33,600.
   - This outlet gives only its 1 November 2026 publication date and no separate raid date.
   - The page lists one lead photo with no caption or credit establishing that it shows this seizure, so no media entry is made.
+  - This account reports 15 grams of charas and 4.5 kg of ganja, while the existing report uses 4.375 kg of charas and 14.59 g of smack; the similar totals appear to describe the same seizure with substances labelled differently.
+  - This account names the mother as Kavita and the wife as Rani, reversing the existing report's wife Kavita Saini and mother Rani Saini.
+  - This account says about Rs 33,000 in cash was seized, while the existing report uses Rs 33,600.
+  - This account gives no separate raid date; its page carries only a 2 November 2026 site header, while the Hindi corroboration is dated 1 November 2026 and the existing report dates the raid 31 October 2026.
+  - The page lists one lead image with no caption or credit establishing that it shows this seizure, so no media entry is made.
+  - “மகனுக்கு அம்மாவும் மனைவியும் பார்ட்னர்களா?” கஞ்சா, சரஸ், ஸ்மாக் என குடும்பமே சேர்ந்து நடத்திய கடத்தல்! ரூ.4 லட்சம் போதைப்பொருள்… யக்ஷ் செயலி மூலம் சிக்கிய மூவர்…! – Seithi Solai (Seithi Solai) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
 ---
 
 Majhola police in Moradabad, Uttar Pradesh, arrested a man, his wife and his
 mother on Saturday 31 October 2026 on allegations of trafficking charas and
 smack. [@1,4,5,6] Police named them as Kanta Prasad, his wife Kavita Saini and his
 mother Rani Saini, residents of Jayantipur Neta Colony in the Majhola police
-station area. [@1,5] Officers recovered 4.375 kg of charas, a hand-made cannabis
+station area. [@1,5,7] Officers recovered 4.375 kg of charas, a hand-made cannabis
 resin, and 14.59 g of smack, a form of heroin, police said. [@1,5] They also found
 33,600 rupees in cash and two mobile phones. [@1,5]
 
@@ -83,9 +98,9 @@ The arrests came in a raid on the family's house on Saturday morning by a
 15-member police team led by Bhaskar Kumar Mishra, the Circle Officer (CO) for
 Civil Lines, a sub-district police officer. [@3] Police said they had identified
 Kanta Prasad while checking the records of known offenders on a police database
-app. [@3,6] He had been released from jail on bail about a month earlier and had
+app. [@3,6,7] He had been released from jail on bail about a month earlier and had
 started selling drugs again, police said. [@3,6] The family had put CCTV cameras
-around the house to watch for police, Jagran reported. [@3,6] Kanta Prasad already
+around the house to watch for police, Jagran reported. [@3,6,7] Kanta Prasad already
 faced six cases under the NDPS Act, the Excise Act and the Arms Act at three
 police stations in Moradabad city, his wife one case and his mother two, Jagran
 reported. [@3] In questioning, the three said they had bought and resold charas
@@ -93,4 +108,4 @@ and smack together for a long time and lived on the money it brought. [@1]
 
 Police registered a first information report (FIR), the document that starts a
 criminal case in India, against all three under the NDPS Act, India's main
-anti-drug law. [@2,6] All three were produced in court and sent to jail. [@2]
+anti-drug law. [@2,6,8] All three were produced in court and sent to jail. [@2]
