@@ -56,6 +56,11 @@ sources:
     publisher: Rupali Bangladesh
     date: 2026-10-31
     language: bn
+  - title: রাজশাহীতে চেকপোস্টের অভিযানে গাঁজাসহ গ্রেপ্তার ৩
+    url: https://www.fns24.com/single/91641/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%9A%E0%A7%87%E0%A6%95%E0%A6%AA%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A9
+    publisher: FNS24
+    date: 2026-10-31
+    language: bn
 open_questions:
   - Ajker Patrika gives the arrest time as about 10 pm, while Rajshahir Somoy gives about 11:15 pm; both place it at Belpukur roundabout on Friday, 30 October.
   - Rajshahir Somoy says the men were sent to jail through court on Saturday morning; neither account gives a subsequent case outcome or court-order details.
@@ -66,15 +71,17 @@ open_questions:
   - The new article attributes the operation to SRB generally, while the existing report identifies SRB-5 from its earlier sources.
   - The new article gives the interception time as 10:10 pm on 30 October, matching two existing sources but differing from Rajshahir Somoy's about 11:15 pm already noted in the report.
   - The page's lead image is captioned only as collected, so it cannot be confirmed to show this seizure and no media entry is added.
+  - The page's lead image is captioned only with the article title, so it cannot be confirmed to show this seizure rather than reusing the same press-release photograph and no media entry is added.
+  - The article gives the interception as about 10 pm on 30 October, matching two existing sources and differing from Rajshahir Somoy's about 11:15 pm already noted in the existing report.
 ---
 
 SRB-5 arrested three men at Belpukur roundabout in Rajshahi on Friday, 30
-October 2026. [@2] The arrested men were Rifat Hossain, 36, Ibrahim Khan, 40,
-and Jamal Mia, 27, from localities in Moulvibazar district. [@1,4] Officers
-recovered 52 kg of cannabis concealed inside the pickup. [@1,3,4]
+October 2026. [@2,5] The arrested men were Rifat Hossain, 36, Ibrahim Khan, 40,
+and Jamal Mia, 27, from localities in Moulvibazar district. [@1,4,5] Officers
+recovered 52 kg of cannabis concealed inside the pickup. [@1,3,4,5]
 
 They also seized the pickup and three mobile phones, and SRB estimated the
-cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2,3,4]
+cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2,3,4,5]
 SRB-5 said it set up a highway checkpoint after receiving confidential
 information that a large cannabis consignment was coming to Rajshahi from the
 Sylhet or Moulvibazar area. [@1] According to the SRB account, the driver
