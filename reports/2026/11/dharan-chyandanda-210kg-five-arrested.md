@@ -35,6 +35,11 @@ sources:
     url: https://risingnepaldaily.com/news/88321
     publisher: The Rising Nepal
     date: 2026-11-02
+  - title: स्कार्पियो में गांजा लोड करते समय पांच लोग गिरफ्तार, दो राउंड हवाई फायरिंग
+    url: https://hindi.ratopati.com/story/39430/five-arrested-while-loading-marijuana-into-scorpio-two-rounds-of-air-fire
+    publisher: Ratopati Hindi
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -48,24 +53,26 @@ open_questions:
   - This source does not name the Chyandanda locality, sack count, vehicle registration numbers or 3:00 AM timing given in the existing report.
   - Name spellings differ by transliteration, including Ramsagar versus Ram Sagar and Raj Kumar Shah versus Rajkumar Shah.
   - The page lead image caption is empty, so whether it depicts this seizure could not be established and no media entry is added.
+  - This source writes 8 packets while the existing report writes 8 sacks, a packaging translation difference for the same 210 kg figure.
+  - Name spellings differ by transliteration, including Ramsagar versus Ram Sagar, Rajendraprasad versus Rajendra Prasad, Rajkumar Shah versus Rajkumar Sah, and Bishunkhe versus Bishungkhe.
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
-Ba.1 Cha 5038. [@1] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
+Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
-were also arrested. [@1,3]
+were also arrested. [@1,3,4]
 
 Rajkumar Shah, 59, of Chhinnamasta Rural Municipality-6, Saptari, was identified
 as the driver of the vehicle numbered Ko.1 Cha 8182, and Amrit Bishunkhe, 21, of
-Dharan Sub-Metropolis-11, Sunsari, was also arrested. [@1] Acting on secret
+Dharan Sub-Metropolis-11, Sunsari, was also arrested. [@1,4] Acting on secret
 information that marijuana was being loaded into Scorpio vehicles numbered Ba.1
 Cha 5038 and Ko.1 Cha 8182 at approximately 3:00 AM that day, a police team
-reached the location. [@1]
+reached the location. [@1,4]
 
 Police found approximately 210 kg of marijuana kept in 8 sacks being loaded into
-the two vehicles. [@1,2,3] Police said further investigation into the incident was
-under way. [@1]
+the two vehicles. [@1,2,3,4] Police said further investigation into the incident was
+under way. [@1,4]
