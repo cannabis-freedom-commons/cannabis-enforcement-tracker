@@ -27,6 +27,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-02
     language: hi
+  - title: 'तीन गिरफ्तार: कट्टा, गांजा, शराब जब्त!'
+    url: https://www.prabhatkhabar.com/state/bihar/jamui/dwarpahari-police-arrest-three-illegal-weapons-drugs
+    publisher: Prabhat Khabar
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article describes the seized cannabis only as more than one kilogram, so no precise seized weight is recorded.
   - The article gives only its publication date of 2 November 2026 and no separate day for the raids, so that date is used as the incident date.
@@ -36,16 +41,16 @@ open_questions:
 ---
 
 Dwarpahari police in Jhajha arrested three people in separate actions against
-illegal weapons, ganja and liquor. [@1] In Yogiatilha village, officers
+illegal weapons, ganja and liquor. [@1,2] In Yogiatilha village, officers
 recovered one desi katta, a country-made pistol, from a house and arrested
 Abhishek Kumar in that case. [@1] In the same village, officers searched a bag
 held by resident Prince Kumar and found 11 bottles of foreign liquor inside.
 [@1] Police seized that liquor and arrested Prince Kumar. [@1] In Bhelvinda
 village, police searched the house of village resident Kartik Sah after
-information that a heavy quantity of ganja was stored there. [@1] Officers found
+information that a heavy quantity of ganja was stored there. [@1,2] Officers found
 more than one kilogram of ganja, or cannabis, kept at one spot in the house and
-arrested Kartik Sah. [@1] Police registered cases against all three accused and
-sent them to judicial custody for further legal proceedings. [@1]
+arrested Kartik Sah. [@1,2] Police registered cases against all three accused and
+sent them to judicial custody for further legal proceedings. [@1,2]
 
 Across the raids, police recovered one desi katta, 11 bottles of foreign liquor
 and more than one kilogram of ganja. [@1] Station head Shri Ram said police
@@ -56,4 +61,3 @@ Police said Prince worked as a liquor supplier and was carrying the liquor
 somewhere for delivery. [@1] Police said they are investigating the keeping of
 the ganja and possible illegal-trade links. [@1] Police said they are also
 investigating why the pistol was kept in the house. [@1]
-
