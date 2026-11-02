@@ -31,6 +31,11 @@ sources:
     publisher: CK News
     date: 2026-10-31
     language: te
+  - title: చింతకానిలో గంజాయి కలకలం…. పోలీసుల పెట్రోలింగ్‌లో ఇద్దరు పట్టివేత…!
+    url: https://cknewstv.in/2026/10/31/%E0%B0%9A%E0%B0%BF%E0%B0%82%E0%B0%A4%E0%B0%95%E0%B0%BE%E0%B0%A8%E0%B0%BF%E0%B0%B2%E0%B1%8B-%E0%B0%97%E0%B0%82%E0%B0%9C%E0%B0%BE%E0%B0%AF%E0%B0%BF-%E0%B0%95%E0%B0%B2%E0%B0%95%E0%B0%B2%E0%B0%82/clip/
+    publisher: CK News
+    date: 2026-10-31
+    language: te
 open_questions:
   - The encounter’s date is unspecified; 31 October 2026 is the publication date used for dating this report.
   - No weight or amount of cannabis involved was reported, and the report gives no later charge or court outcome.
@@ -40,17 +45,17 @@ open_questions:
 ---
 
 Two young men were caught using cannabis during a police patrol near
-Narsimhapuram village in Chintakani mandal, a local subdistrict. [@1,2] Police
+Narsimhapuram village in Chintakani mandal, a local subdistrict. [@1,2,3] Police
 took the youths into custody and questioned them after they appeared suspicious.
-[@1] Officers identified them as Vinay and Vijay. [@1] Both youths came from
+[@1,3] Officers identified them as Vinay and Vijay. [@1,3] Both youths came from
 Agraharam Colony, while Penugonda Sai—the man they named as the seller—was from
 Gandhi Nagar Colony, placing the two groups in separate areas. [@1]
 
 During questioning, the youths reportedly said they had bought the cannabis they
-were using from Penugonda Sai, a resident of Gandhi Nagar Colony. [@1] Sai was
+were using from Penugonda Sai, a resident of Gandhi Nagar Colony. [@1,3] Sai was
 said to be facing allegations of selling cannabis and was currently absconding.
-[@1] Chintakani sub-inspector G. Naresh registered a case over the incident and
+[@1,3] Chintakani sub-inspector G. Naresh registered a case over the incident and
 began a follow-up investigation into the youths’ statements and the alleged sale
-of cannabis. [@1] Police continued inquiries to gather details about other
+of cannabis. [@1,3] Police continued inquiries to gather details about other
 people behind the cannabis supply, beyond the seller named by the two youths
 during questioning. [@1]
