@@ -33,17 +33,22 @@ sources:
     url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
     publisher: Apex News Exclusive
     date: 2026-11-02
+  - title: NDLEA arrest two Nigerian 'businessmen' with 200 cocaine wraps in their stomachs in Abuja
+    url: https://www.intelregion.com/news/ndlea-arrests-two-nigerians-with-200-cocaine-wraps-in-their-stomachs
+    publisher: IntelRegion
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
   - The exact origin on the Island and destination on the Mainland were not given.
   - The sources' photographs could not be verified as showing these interceptions, so no media entry was added.
   - The source page carries photos captioned only NDLEA whose content could not be verified as showing the Lagos bus interceptions, so no media entry was added.
+  - The page's images show the Abuja cocaine case, not the Lagos bus interceptions, so no media entry is added.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3]
 
 ## The announcement
 

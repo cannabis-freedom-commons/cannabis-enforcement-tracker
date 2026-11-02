@@ -41,6 +41,10 @@ sources:
     url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-two-europe-based-nigerians-with-200-cocaine-wraps-at-abuja-airport/
     publisher: Apex News Exclusive
     date: 2026-11-02
+  - title: NDLEA arrest two Nigerian 'businessmen' with 200 cocaine wraps in their stomachs in Abuja
+    url: https://www.intelregion.com/news/ndlea-arrests-two-nigerians-with-200-cocaine-wraps-in-their-stomachs
+    publisher: IntelRegion
+    date: 2026-11-01
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -55,7 +59,7 @@ open_questions:
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5,6] The agency published its account of the raid on 1
+among those held. [@1,4,5,6,7] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
