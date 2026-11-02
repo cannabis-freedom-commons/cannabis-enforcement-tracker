@@ -49,6 +49,11 @@ sources:
     publisher: Корабелов.ИНФО
     date: 2026-11-02
     language: uk
+  - title: 'У Миколаєві чоловіка підозрюють у збуті канабісу: вилучили майже 8 кг наркотиків'
+    url: https://suspilne.media/amp/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/
+    publisher: Суспільне Миколаїв
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its 2 November publication/announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
   - The weight is stated only as almost and about 8 kilograms and is recorded as 8 kg.
@@ -62,20 +67,20 @@ open_questions:
 ---
 
 Police in Mykolaiv detained a 44-year-old man suspected of illegally selling
-cannabis. [@1] Investigators say he sold cannabis among acquaintances in one of
+cannabis. [@1,3] Investigators say he sold cannabis among acquaintances in one of
 the city's neighbourhoods, processing the substance himself, packaging it and
 arranging meeting times and places with buyers. [@1] Officers documented two
 sales for which he received 1,800 and 3,000 hryvnias. [@1,2]
 
 During a search of his place of residence, officers seized almost 8 kilograms of
-cannabis kept at the home. [@1,2] Officers also seized electronic scales,
+cannabis kept at the home. [@1,2,3] Officers also seized electronic scales,
 packaging material, mobile phones and money found with the cannabis during the
 same home search. [@1]
 
 Police notified him of suspicion of illegal production, manufacture or storage
 for sale on an especially large scale or repeated sale of narcotics. [@1] A
 court ordered that he be held in custody with the possibility of posting 499,200
-hryvnias bail while the pre-trial investigation continues. [@1,2] The offence
+hryvnias bail while the pre-trial investigation continues. [@1,2,3] The offence
 carries up to 12 years' imprisonment with confiscation of property. [@1,2]
 
 He was detained immediately after another cannabis sale. [@2] Authorised searches were carried out both at his registered address and at his actual residence. [@2] The money seized included money in national and foreign currency. [@2]
