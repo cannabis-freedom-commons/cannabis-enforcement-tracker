@@ -3,8 +3,8 @@ package research
 import (
 	"bufio"
 	"encoding/json"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/archivefile"
 	"io"
-	"os"
 	"path/filepath"
 	"sort"
 	"strings"
@@ -17,7 +17,7 @@ import (
 // captures; every quotation still has to occur in that body. Truncated/failed
 // captures fall back to the service's browser/HTTP and archive retrieval.
 func ReadToolEvidence(dir string) []safeurl.Evidence {
-	f, err := os.Open(filepath.Join(dir, "research-events.jsonl"))
+	f, err := archivefile.Open(filepath.Join(dir, "research-events.jsonl"))
 	if err != nil {
 		return nil // Older/missing workspaces still have the initial checkpoint.
 	}

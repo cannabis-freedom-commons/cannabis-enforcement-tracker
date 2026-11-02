@@ -3,6 +3,7 @@ package worker
 import (
 	"context"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"testing"
 	"time"
@@ -16,7 +17,7 @@ import (
 // repository copy go.
 func TestPruneKeepsLogsOnly(t *testing.T) {
 	dir := t.TempDir()
-	for _, name := range []string{"research-events.jsonl", "research-stderr.log", "evidence-1-abc.json", "package.json", "node_modules/x/index.js", "dist/index.html", "reports/2026/10/a.md", ".research-input/source.txt"} {
+	for _, name := range []string{"research-events.jsonl.zst", "research-stderr.log", "evidence-1-abc.json.zst", "package.json", "node_modules/x/index.js", "dist/index.html", "reports/2026/10/a.md", ".research-input/source.txt"} {
 		path := filepath.Join(dir, name)
 		if err := os.MkdirAll(filepath.Dir(path), 0700); err != nil {
 			t.Fatal(err)
@@ -196,5 +197,37 @@ func TestSweepLeavesRecentUnknownDirectoriesAndRemovesOldOrphans(t *testing.T) {
 	}
 	if _, err := os.Stat(old); !os.IsNotExist(err) {
 		t.Fatal("kept orphan", err)
+	}
+}
+
+func TestScreenshotArchiveWaitsForTerminalCaseAndIdleJobs(t *testing.T) {
+	if _, err := exec.LookPath("node"); err != nil {
+		t.Skip("node unavailable")
+	}
+	for _, status := range []string{"queued", "researching", "publishing", "committed", "failed"} {
+		t.Run(status, func(t *testing.T) {
+			w, cid := cleanupFixture(t, status)
+			w.Config.RepoPath = t.TempDir()
+			scripts := filepath.Join(w.Config.RepoPath, "scripts")
+			os.MkdirAll(scripts, 0700)
+			os.WriteFile(filepath.Join(scripts, "archive-screenshots.mjs"), []byte(`import fs from 'node:fs'; fs.writeFileSync(process.argv[2]+'/invoked','yes');`), 0600)
+			dir := filepath.Join(w.Config.Workspaces, "sources", cid)
+			os.MkdirAll(dir, 0700)
+			if err := w.archiveScreenshots(context.Background(), cid); err != nil {
+				t.Fatal(err)
+			}
+			_, err := os.Stat(filepath.Join(dir, "invoked"))
+			if (err == nil) != store.Terminal(status) {
+				t.Fatal("unexpected archive invocation", status, err)
+			}
+			os.Remove(filepath.Join(dir, "invoked"))
+			w.Store.DB.Exec("UPDATE jobs SET status='running' WHERE ref=?", cid)
+			if err := w.archiveScreenshots(context.Background(), cid); err != nil {
+				t.Fatal(err)
+			}
+			if _, err := os.Stat(filepath.Join(dir, "invoked")); !os.IsNotExist(err) {
+				t.Fatal("archived while job running")
+			}
+		})
 	}
 }

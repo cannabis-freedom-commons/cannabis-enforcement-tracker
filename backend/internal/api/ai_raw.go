@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"errors"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/archivefile"
 	"io"
 	"net/http"
 	"os"
@@ -131,7 +132,7 @@ func (s *Server) rawLogFile(workspace, name string, limit int64) ([]byte, bool, 
 		return nil, false, err
 	}
 	defer root.Close()
-	file, err := root.Open(filepath.Join(relative, name))
+	file, err := archivefile.OpenRoot(root, filepath.Join(relative, name))
 	if os.IsNotExist(err) {
 		return nil, false, nil
 	}
@@ -139,13 +140,6 @@ func (s *Server) rawLogFile(workspace, name string, limit int64) ([]byte, bool, 
 		return nil, false, err
 	}
 	defer file.Close()
-	stat, err := file.Stat()
-	if err != nil {
-		return nil, false, err
-	}
-	if !stat.Mode().IsRegular() {
-		return nil, false, errors.New("not a regular log file")
-	}
 	data, err := io.ReadAll(io.LimitReader(file, limit+1))
 	if err != nil {
 		return nil, false, err

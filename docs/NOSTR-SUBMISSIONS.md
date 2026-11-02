@@ -619,6 +619,45 @@ are explicitly excluded from cost totals. Plan share uses the current subscripti
 configuration and is an allocation estimate, not additional billing. Interrupted/running
 usage may be incomplete. Backend restart is required to expose the new endpoint.
 
+## Archived capture compression
+
+After a case reaches a terminal status and no job is running for it, its private captured PNGs
+(including `images/*.png`) are converted beside the originals to AVIF. The archive uses ImageMagick
+with `-resize '16383x16383>' -quality 25`: preserve aspect ratio, never enlarge, and fit either
+dimension inside 16383 pixels. AVIF encoding uses `heic:speed=8` to keep the bulk conversion fast
+while retaining quality 25. This produces one image per capture, without tiling. ImageMagick's
+`magick` binary with AVIF support and Node must be installed on the backend host.
+
+Conversion writes a temporary file in the same directory, verifies its format and dimensions,
+preserves permissions and timestamps, and renames it before removing the original PNG. A failed
+conversion retains the PNG. Per-file locks avoid concurrent converters. Local screenshot/photo
+endpoints transparently serve either PNG or AVIF; research retries also recognize archived pages.
+
+Captured `page.html`, `research-events.jsonl` and `evidence-*.json` are losslessly compressed in
+place as `page.html.zst`, `research-events.jsonl.zst` and `evidence-*.json.zst`, using
+Zstandard level 19 with a frame checksum. Before removing any text original, the archive is decompressed
+and compared byte for byte with the original. Permissions and timestamps are preserved. Node's
+built-in Zstandard support is used; no extra executable is needed for text compression. Originals
+stay in place on errors or if they exceed the 64 MiB archive memory bound. This compression
+only changes the private disk copy; source text, metadata, receipts and report media stay as saved.
+
+To convert existing captures, or retry conversions that failed, run from the repository root:
+`node scripts/archive-screenshots.mjs backend/data/jobs/sources`.
+Add `--html-only` to compress only existing HTML files. The script reports counts and bytes saved,
+and exits unsuccessfully if any conversion fails. Read an archived page with
+`zstd -dc /path/to/page.html.zst`, or use the exported `readCaptureHtml` helper, which accepts the
+original `page.html` path and supports both formats. No backend disk reader currently relies on
+plain `page.html`: research and retries use captured content retained in evidence/checkpoints.
+
+The completion hook also archives the case's retained job workspaces. Use the same command with
+one job workspace path and `--logs-only` to archive only its research events and evidence JSON.
+For a controlled bulk migration, `--files-from FILE` accepts a JSON array of artifact paths; select
+idle cases before running it, leaving active writers alone. The backend reads plain files first,
+then `.zst` transparently for raw-log views, token backfill and tool-evidence recovery. Its native
+Go decoder retains output limits and filesystem confinement; it does not need a `zstd` executable.
+Workspace pruning recognizes the compressed names, so it preserves archived logs and evidence.
+Restart the backend after updating its archive/viewer support.
+
 ## Job workspace cleanup
 
 `WORKSPACE_PATH` (normally `backend/data/jobs`) contains disposable case checkouts alongside

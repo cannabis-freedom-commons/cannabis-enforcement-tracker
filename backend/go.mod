@@ -5,6 +5,7 @@ go 1.27.3
 require (
 	fiatjaf.com/nostr v0.0.0-20261026145325-252a038facda
 	github.com/coder/websocket v1.8.13
+	github.com/klauspost/compress v1.20.3
 	github.com/tidwall/jsonc v0.3.3
 	golang.org/x/image v0.47.0
 	golang.org/x/text v0.43.0

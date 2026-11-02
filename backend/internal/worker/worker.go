@@ -110,6 +110,11 @@ func (w *Worker) jobs(ctx context.Context, kind string) {
 				}
 			}
 			finishCancel()
+			if finishErr == nil {
+				if archiveErr := w.archiveScreenshots(ctx, j.Ref); archiveErr != nil && ctx.Err() == nil {
+					slog.Warn("completed case screenshot archival incomplete", "error", archiveErr)
+				}
+			}
 			if finishErr != nil {
 				slog.Error("job completion failed", "job", j.ID)
 			}

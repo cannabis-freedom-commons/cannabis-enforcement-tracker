@@ -87,6 +87,10 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 	}
 	defer root.Close()
 	file, err := root.Open(filepath.Join(relative, filepath.FromSlash(name)))
+	if os.IsNotExist(err) {
+		name = strings.TrimSuffix(name, ".png") + ".avif"
+		file, err = root.Open(filepath.Join(relative, filepath.FromSlash(name)))
+	}
 	if err != nil {
 		problem(w, 404, "Screenshot unavailable.")
 		return
@@ -97,13 +101,21 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 		problem(w, 503, "Invalid screenshot.")
 		return
 	}
-	header := make([]byte, 8)
-	if _, err = file.Read(header); err != nil || !bytes.Equal(header, []byte{137, 80, 78, 71, 13, 10, 26, 10}) {
+	header := make([]byte, 32)
+	n, readErr := file.Read(header)
+	contentType := ""
+	if n >= 8 && bytes.Equal(header[:8], []byte{137, 80, 78, 71, 13, 10, 26, 10}) {
+		contentType = "image/png"
+	}
+	if n >= 12 && string(header[4:8]) == "ftyp" && (string(header[8:12]) == "avif" || string(header[8:12]) == "avis") {
+		contentType = "image/avif"
+	}
+	if readErr != nil || contentType == "" {
 		problem(w, 503, "Invalid screenshot.")
 		return
 	}
 	file.Seek(0, 0)
-	w.Header().Set("Content-Type", "image/png")
+	w.Header().Set("Content-Type", contentType)
 	w.Header().Set("Content-Disposition", `inline; filename="source-`+strings.ReplaceAll(name, "/", "-")+`"`)
 	w.Header().Set("Cache-Control", "private, max-age=3600") // a capture never changes once taken
 	http.ServeContent(w, r, "source-"+strings.ReplaceAll(name, "/", "-"), info.ModTime(), file)

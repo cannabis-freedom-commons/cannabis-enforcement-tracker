@@ -1,6 +1,7 @@
 package research
 
 import (
+	"github.com/klauspost/compress/zstd"
 	"os"
 	"path/filepath"
 	"testing"
@@ -20,6 +21,14 @@ not json
 	got, ok := countTokens(path)
 	if !ok || got != [5]int64{10084, 271, 10, 3840, 5} {
 		t.Fatal(got, ok)
+	}
+	encoder, _ := zstd.NewWriter(nil)
+	os.WriteFile(path+".zst", encoder.EncodeAll([]byte(log), nil), 0600)
+	encoder.Close()
+	os.Remove(path)
+	compressed, ok := countTokens(path)
+	if !ok || compressed != got {
+		t.Fatal("compressed token log differs", compressed, got)
 	}
 	if _, ok = countTokens(filepath.Join(t.TempDir(), "missing.jsonl")); ok {
 		t.Fatal("missing log counted")

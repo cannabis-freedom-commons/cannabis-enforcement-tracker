@@ -862,10 +862,17 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 		metadata, _ := json.MarshalIndent(e.Metadata, "", "  ")
 		files["source-metadata.json"] = metadata
 	}
-	if e.Screenshot == "page.png" && e.ArtifactDir != "" {
-		if screenshot, err := os.ReadFile(filepath.Join(e.ArtifactDir, "page.png")); err == nil {
-			request["source_screenshot"] = "source.png"
-			files["source.png"] = screenshot
+	if (e.Screenshot == "page.png" || e.Screenshot == "page.avif") && e.ArtifactDir != "" {
+		name := e.Screenshot
+		screenshot, err := os.ReadFile(filepath.Join(e.ArtifactDir, name))
+		if os.IsNotExist(err) && name == "page.png" {
+			name = "page.avif"
+			screenshot, err = os.ReadFile(filepath.Join(e.ArtifactDir, name))
+		}
+		if err == nil {
+			target := "source" + filepath.Ext(name)
+			request["source_screenshot"] = target
+			files[target] = screenshot
 		}
 	}
 	request["browser_rendered"] = e.Rendered
@@ -1186,6 +1193,7 @@ func PruneBuild(dir string) {
 // KeptFile says what a finished request's workspace keeps: the AI run's logs (the raw log view and
 // the token count read them), the build check's log and the evidence files.
 func KeptFile(name string) bool {
+	name = strings.TrimSuffix(name, ".zst")
 	switch name {
 	case "research-events.jsonl", "research-stderr.log", "validation.log":
 		return true

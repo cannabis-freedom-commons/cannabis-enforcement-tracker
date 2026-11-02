@@ -48,7 +48,7 @@ func Check(e Evidence) (SourceCheck, error) {
 	if u, err := url.Parse(host); err == nil && u.Host != "" {
 		host = strings.TrimPrefix(u.Hostname(), "www.")
 	}
-	c := SourceCheck{CaptureID: e.CaptureID, Host: host, Rendered: e.Rendered, Screenshot: e.Screenshot == "page.png", BrowserWarning: e.BrowserWarning, Cleanup: e.Cleanup, AccessBlocked: AccessChallenge(e), ArchiveURL: e.ArchiveURL, ArchivedAt: e.ArchivedAt}
+	c := SourceCheck{CaptureID: e.CaptureID, Host: host, Rendered: e.Rendered, Screenshot: e.Screenshot == "page.png" || e.Screenshot == "page.avif", BrowserWarning: e.BrowserWarning, Cleanup: e.Cleanup, AccessBlocked: AccessChallenge(e), ArchiveURL: e.ArchiveURL, ArchivedAt: e.ArchivedAt}
 	if e.Metadata != nil {
 		m := e.Metadata
 		c.Metadata = &SourceMetadata{Description: limitText(m.Description, 500), Canonical: limitText(m.Canonical, 4096), Language: limitText(m.Language, 40), Authors: m.Authors, PublishedAt: limitText(m.PublishedAt, 100), ModifiedAt: limitText(m.ModifiedAt, 100), SiteName: limitText(m.SiteName, 200)}

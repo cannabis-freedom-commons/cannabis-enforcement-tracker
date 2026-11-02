@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"github.com/klauspost/compress/zstd"
 	"os"
 	"path/filepath"
 	"strings"
@@ -24,6 +25,14 @@ func TestToolCapturesAreReusedButQuotationsAreStillChecked(t *testing.T) {
 	captured := ReadToolEvidence(dir)
 	if len(captured) != 1 {
 		t.Fatalf("lost completed capture: %d", len(captured))
+	}
+	encoder, _ := zstd.NewWriter(nil)
+	os.WriteFile(filepath.Join(dir, "research-events.jsonl.zst"), encoder.EncodeAll(append(b, '\n'), nil), 0600)
+	encoder.Close()
+	os.Remove(filepath.Join(dir, "research-events.jsonl"))
+	captured = ReadToolEvidence(dir)
+	if len(captured) != 1 {
+		t.Fatal("compressed tool evidence lost")
 	}
 	calls := 0
 	fetch := func(context.Context, string) (safeurl.Evidence, error) {

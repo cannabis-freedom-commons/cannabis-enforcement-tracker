@@ -8,8 +8,10 @@ import (
 	"fmt"
 	"log/slog"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"regexp"
+	"syscall"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
@@ -168,4 +170,56 @@ func (w *Worker) janitor(ctx context.Context) {
 			clean()
 		}
 	}
+}
+
+// Archive only completed cases; research and publication retain the original PNG
+// until no job can still be reading it. Conversion failure leaves the PNG intact.
+func (w *Worker) archiveScreenshots(ctx context.Context, cid string) error {
+	if !regexp.MustCompile(`^[0-9a-f]{32}$`).MatchString(cid) {
+		return errors.New("invalid archive case")
+	}
+	var status string
+	var running bool
+	if err := w.Store.DB.QueryRowContext(ctx, `SELECT status, EXISTS(SELECT 1 FROM jobs WHERE ref=cases.id AND status='running') FROM cases WHERE id=?`, cid).Scan(&status, &running); err != nil {
+		return err
+	}
+	if running || !store.Terminal(status) {
+		return nil
+	}
+	root, err := filepath.Abs(w.Config.Workspaces)
+	if err != nil {
+		return err
+	}
+	dirs := []string{}
+	sources := filepath.Join(root, "sources", cid)
+	if _, err := os.Stat(sources); err == nil {
+		dirs = append(dirs, sources)
+	} else if !os.IsNotExist(err) {
+		return err
+	}
+	entries, err := os.ReadDir(root)
+	if err != nil {
+		return err
+	}
+	for _, e := range entries {
+		if m := workspaceName.FindStringSubmatch(e.Name()); e.IsDir() && m != nil && m[1] == cid {
+			dirs = append(dirs, filepath.Join(root, e.Name()))
+		}
+	}
+	script, err := filepath.Abs(filepath.Join(w.Config.RepoPath, "scripts", "archive-screenshots.mjs"))
+	if err != nil {
+		return err
+	}
+	run, cancel := context.WithTimeout(ctx, 2*time.Minute)
+	defer cancel()
+	var failures []error
+	for _, dir := range dirs {
+		command := exec.CommandContext(run, "node", script, dir)
+		command.Cancel = func() error { return command.Process.Signal(syscall.SIGTERM) }
+		command.WaitDelay = 5 * time.Second
+		if err := command.Run(); err != nil {
+			failures = append(failures, fmt.Errorf("archive capture files (originals retained on failure): %w", err))
+		}
+	}
+	return errors.Join(failures...)
 }

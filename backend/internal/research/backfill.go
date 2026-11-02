@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"context"
 	"encoding/json"
-	"os"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/archivefile"
 	"path/filepath"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
@@ -47,7 +47,7 @@ func BackfillTokens(ctx context.Context, s *store.Store) error {
 // input, output, reasoning, cache read, cache write over every finished step of a run's log
 func countTokens(path string) ([5]int64, bool) {
 	var total [5]int64
-	f, err := os.Open(path)
+	f, err := archivefile.Open(path)
 	if err != nil || path == "research-events.jsonl" {
 		return total, false
 	}
@@ -68,5 +68,5 @@ func countTokens(path string) ([5]int64, bool) {
 		total[4] += max(0, t.Cache.Write)
 		steps++
 	}
-	return total, steps > 0
+	return total, steps > 0 && scanner.Err() == nil
 }

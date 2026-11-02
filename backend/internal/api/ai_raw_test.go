@@ -3,6 +3,7 @@ package api
 import (
 	"context"
 	"encoding/json"
+	"github.com/klauspost/compress/zstd"
 	"os"
 	"path/filepath"
 	"strings"
@@ -75,6 +76,18 @@ func TestRawAILogIncludesEmittedReasoningToolsAndLivePartialOutput(t *testing.T)
 	if strings.Contains(public.Body.String(), "Fixture reasoning") || strings.Contains(public.Body.String(), "Fixture full tool result") {
 		t.Fatal("public transcript changed")
 	}
+	encoder, _ := zstd.NewWriter(nil)
+	os.WriteFile(filepath.Join(workspace, "research-events.jsonl.zst"), encoder.EncodeAll([]byte(stream), nil), 0600)
+	encoder.Close()
+	os.Remove(filepath.Join(workspace, "research-events.jsonl"))
+	archived := request(h, "GET", "/v1/submissions/"+id+"/ai/raw", "", "")
+	if archived.Code != 200 || archived.Body.String() != body {
+		t.Fatal("compressed raw log response changed", archived.Code)
+	}
+	if _, _, err := s.rawLogFile(workspace, "research-events.jsonl", 10); err == nil {
+		t.Fatal("decompressed log bypassed size bound")
+	}
+	os.Remove(filepath.Join(workspace, "research-events.jsonl.zst"))
 	// Removing an archived file produces an unavailable entry rather than invented data.
 	os.Remove(filepath.Join(workspace, "research-events.jsonl"))
 	response = request(h, "GET", "/v1/submissions/"+id+"/ai/raw", "", "")

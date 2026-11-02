@@ -46,6 +46,17 @@ func TestSourceScreenshotIsLocalAndBoundToReceipt(t *testing.T) {
 	if r := send("127.0.0.1:1234"); r.Code != 200 || r.Header().Get("Content-Type") != "image/png" || len(r.Body.Bytes()) != len(png) {
 		t.Fatal(r.Code, r.Body.String())
 	}
+	// Existing receipts keep their PNG URLs while disk storage becomes AVIF.
+	avif := append([]byte{0, 0, 0, 24}, []byte("ftypavif0000000000000000")...)
+	if err := os.WriteFile(filepath.Join(dir, "page.avif"), avif, 0600); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.Remove(filepath.Join(dir, "page.png")); err != nil {
+		t.Fatal(err)
+	}
+	if r := send("127.0.0.1:1234"); r.Code != 200 || r.Header().Get("Content-Type") != "image/avif" || len(r.Body.Bytes()) != len(avif) {
+		t.Fatal(r.Code, r.Body.String())
+	}
 	outside := t.TempDir()
 	os.WriteFile(filepath.Join(outside, "page.png"), png, 0600)
 	s.Store.DB.Exec("UPDATE source_captures SET artifact_dir=?", outside)
