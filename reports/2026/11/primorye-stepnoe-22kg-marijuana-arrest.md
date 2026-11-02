@@ -38,29 +38,37 @@ sources:
     publisher: DEITA.RU
     date: 2026-11-02
     language: ru
+  - title: 'Борьба с наркопреступностью в Приморье: задержан поставщик марихуаны'
+    url: https://vladnews.ru/2026-11-02/276444/borba_narkoprestupnostyu
+    publisher: VladNews
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The sources give only publication dates of 2 November 2026 and no separate date for the detention, so 2 November 2026 is used as the incident date.
   - PRIMPRESS reports the weight as 22 kilograms while Ridus reports it as more than 22 kilograms; the report uses 22 kilograms.
   - No court outcome, pretrial measure, or further identification of the detained man was reported.
   - DEITA.RU reports the weight as more than 22 kg while the existing report uses 22 kilograms from PRIMPRESS.
   - The DEITA.RU page carries a lead photo whose content could not be verified from caption and text alone, so it is not listed as media.
+  - VladNews reports the weight as more than 22 kilograms while the existing report uses 22 kilograms; the existing open questions already record this 22 kg versus more than 22 kg difference.
+  - 'The page lead image is credited as Фото: ИИ and captioned only as handcuffs, so it does not show this event and no media entry is added.'
+  - The article gives only its publication time of 9:48, 2 November 2026 and no separate date for the detention.
 ---
 
 Drug-control officers from the Mikhailovsky district police department detained
 a 34-year-old man near Stepnoe village in the Ussuriysky urban district of
-Primorsky Krai. [@2,3] The Primorsky Krai police press service reported the
+Primorsky Krai. [@2,3,4] The Primorsky Krai police press service reported the
 detention through the MAX messenger. [@2] Officers found the man beside a tarp
 on which cannabis tops and leaves were spread out to dry. [@1,3] They seized the
 substance and took him to the police station for questioning. [@1] He told
 police that he had found wild cannabis near the village, picked its tops and
-leaves, and was drying them on the tarp for himself. [@1,3]
+leaves, and was drying them on the tarp for himself. [@1,3,4]
 
 An expert examination confirmed that the seized material was cannabis
 (marijuana). [@1,3] Police put its total weight at 22 kilograms, an amount
-classified as a large size. [@1] The man said he had stored the marijuana solely
+classified as a large size. [@1,4] The man said he had stored the marijuana solely
 for personal use. [@1]
 
 Investigators opened a criminal case for illegal acquisition and storage of
 narcotics on a large scale under Part 2 of Article 228 of the Russian Criminal
-Code. [@1,3] The charge covers illegal acquisition and storage of drugs in a large
-amount. [@2] The charge carries up to 10 years' imprisonment. [@1]
+Code. [@1,3,4] The charge covers illegal acquisition and storage of drugs in a large
+amount. [@2] The charge carries up to 10 years' imprisonment. [@1,4]
