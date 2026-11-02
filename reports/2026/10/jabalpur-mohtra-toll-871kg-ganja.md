@@ -171,6 +171,11 @@ sources:
     publisher: CG MP News
     date: 2026-11-01
     language: hi
+  - title: जबलपुर में 4.35 करोड़ का गांजा जब्त, कंटेनर से दो गिरफ्तार
+    url: https://www.dainikjagranmpcg.com/state/madhya-pradesh/two-arrested-from-container-seized-ganja-worth-rs-435-crore/article-71943
+    publisher: Dainik Jagran MPCG
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -205,23 +210,23 @@ open_questions:
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12,13]
+Dinajpur, West Bengal. [@1,4,7,9,12,13,22]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19] The driver and the other man tried to flee but were caught, police
+plaza. [@1,16,19,22] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
