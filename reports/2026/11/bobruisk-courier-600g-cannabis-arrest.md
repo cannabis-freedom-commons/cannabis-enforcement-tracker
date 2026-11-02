@@ -48,6 +48,11 @@ sources:
     publisher: проМогилев
     date: 2026-11-01
     language: ru
+  - title: Оперативники задержали наркозакладчика из Бобруйска — ему грозит до 15 лет тюрьмы
+    url: https://www.sb.by/articles/operativniki-zaderzhali-narkozakladchika-iz-bobruyska-emu-grozit-do-15-let-tyurmy.html?amp=1
+    publisher: СБ. Беларусь сегодня
+    date: 2026-11-01
+    language: ru
 open_questions:
   - The reports give no separate date for the detention; 1 November 2026 is the date of the Interior Ministry statement and the first news reports.
   - The ministry gave only a combined figure of more than 600 g for the hashish and marijuana, without separate weights.
@@ -61,16 +66,15 @@ open_questions:
 Officers from the drug-control department of the Bobruisk city executive
 committee's interior directorate, working with operatives from the Mogilev
 Region interior directorate and OMON riot police, detained a 32-year-old
-Bobruisk resident, the Belarusian Interior Ministry said. [@2] The ministry said
+Bobruisk resident, the Belarusian Interior Ministry said. [@2,5] The ministry said
 the man had worked as a wholesale and retail courier for an online drug shop and
 had packaged its goods with specialised equipment for further distribution. [@1]
 It called him a “broad-profile” zakladchik, a courier who leaves drugs in caches
 for buyers. [@2] Investigators opened a criminal case over illegal drug
 trafficking with intent to sell, and the man faces up to 15 years in prison.
-[@1]
+[@1,5]
 
 Police found and seized 2,000 LSD stamps and more than 600 g of hashish and
-marijuana, the ministry said. [@3] The drugs were found on him, at his home and
-in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4] The ministry said his drug
+marijuana, the ministry said. [@3,5] The drugs were found on him, at his home and
+in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5] The ministry said his drug
 business had lasted about a month. [@1]
-
