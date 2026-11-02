@@ -22,6 +22,11 @@ sources:
     publisher: Newstrack
     date: 2026-11-02
     language: hi
+  - title: 'Hapur News: रेलवे फाटक के पास झाड़ियों में चल रहा था गांजे का खेल, गांजे के साथ तस्कर गिरफ्तार | News Track in Hindi'
+    url: https://newstrack.com/amp/uttar-pradesh/hapur/hapur-ganja-smuggler-arrested-near-railway-crossing-645210
+    publisher: Newstrack
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article gives no calendar date for the arrest; 1 November 2026 is inferred as the Sunday night before its 2 November 2026 publication.
   - No second report of this 850-gram arrest was found; it rests on a single source.
@@ -29,13 +34,13 @@ open_questions:
   - No value, charges beyond the NDPS case registration, or court outcome were reported.
 ---
 
-Hapur city police arrested a man selling ganja on Badnauli road. [@1] He had
+Hapur city police arrested a man selling ganja on Badnauli road. [@1,2] He had
 been standing behind bushes near the railway crossing looking for customers.
-[@1] During questioning he gave his name as Shakeel, a resident of Mohalla Nabi
+[@1,2] During questioning he gave his name as Shakeel, a resident of Mohalla Nabi
 Karim. [@1] He tried to flee when he saw the police team approaching, but
 officers surrounded and caught him. [@1]
 
-Police searched his bag and recovered 850 grams of ganja. [@1] Police said he
+Police searched his bag and recovered 850 grams of ganja. [@1,2] Police said he
 brought ganja in a bag and sold it to passers-by and addicts for profit. [@1]
 Sub-Inspector Ravindra Kumar's team was patrolling the area on Sunday night when
 an informant told them near Nizampar underpass that a man was selling ganja from
@@ -47,4 +52,3 @@ Police took the seized ganja into custody and registered a case under the NDPS
 Act, with further legal action under way. [@1] Police said they are now tracing
 where he sourced the ganja and to whom he supplied it, including others linked
 to the trade. [@1]
-
