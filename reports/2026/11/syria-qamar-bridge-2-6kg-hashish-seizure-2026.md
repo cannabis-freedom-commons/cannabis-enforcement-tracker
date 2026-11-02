@@ -35,6 +35,11 @@ sources:
     publisher: Daily Beirut
     date: 2026-11-01
     language: ar
+  - title: إحباط تهريب حشيش وهيروين داخل مكبّر صوت على الحدود السورية - اللبنانية
+    url: https://www.annahar.com/arab-world/arabian-levant/362405/%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D9%87%D9%8A%D8%B1%D9%88%D9%8A%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D9%83%D8%A8%D8%B1-%D8%B5%D9%88%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9
+    publisher: Annahar
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The article gives only its publication date of 1 November 2026 and no separate day for the interception.
   - No suspects were named and no arrests, charges or court outcomes were reported.
@@ -46,18 +51,17 @@ open_questions:
 Syria's General Authority for Borders and Customs said it foiled an attempt to
 smuggle a quantity of narcotics through the Qamar Bridge border crossing with
 Lebanon during routine inspections of luggage belonging to arriving travelers.
-[@1] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
+[@1,4] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
 had been tightly concealed together inside a loudspeaker to disguise them and
-bypass customs inspection. [@2]
+bypass customs inspection. [@2,4]
 
 The 2,600 grams of hashish equal 2.6 kilograms and form the separately supported
 cannabis component of this mixed seizure, while the 17 grams of heroin are a
 non-cannabis drug excluded from the cannabis figure. [@1] The authority said a
 customs seizure report was drawn up and the necessary legal measures were taken,
 and it pledged continued efforts against narcotics smuggling with tighter
-surveillance of border crossings. [@3]
+surveillance of border crossings. [@3,4]
 
 The Qamar Bridge crossing lies in the Wadi Khaled area of Akkar in northern
-Lebanon. [@1] It is the only open border crossing in northern Lebanon with
+Lebanon. [@1,4] It is the only open border crossing in northern Lebanon with
 Syria, and it is restricted exclusively to pedestrian crossings. [@2]
-
