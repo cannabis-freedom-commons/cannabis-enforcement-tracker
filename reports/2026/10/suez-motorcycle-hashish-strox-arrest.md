@@ -57,6 +57,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-10-31
     language: ar
+  - title: ضبط شخصين بتهمة ترويج الاستروكس والحشيش على “موتوسيكل” بالسويس - اخبار مصر لحظة بلحظة
+    url: https://news.egydreampro.com/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D9%88%D9%83%D8%B3-%D9%88%D8%A7%D9%84%D8%AD%D8%B4/
+    publisher: اخبار مصر لحظة بلحظة
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The reports give no separate date for the arrests; 31 October 2026, the day the accounts were published, is used as the incident date.
   - No weight or value was given for the strox or hashish seized.
@@ -68,20 +73,22 @@ open_questions:
   - Masrawy's page now carries the admission that the two men held the drugs for trafficking, so the report's open question saying that quotation was not found there is out of date.
   - Only Al-Ahram Gate, among the accounts read for this update, reports that the Public Prosecution took over the investigation.
   - 'Left out, as its quotation was not found in بوابة الأهرام: When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said.'
+  - The submitted page gives no weight or value for the strox or hashish, so no cannabis quantity can be added.
+  - Its listed photo uses the same direct image address already cited in the existing report, so no additional media entry is listed.
 ---
 
 Egypt's Interior Ministry said its security services arrested two people accused
 of promoting drugs while riding a motorcycle in a street in Suez governorate,
-after a video documenting the incident circulated on social media. [@1,6,7] The
+after a video documenting the incident circulated on social media. [@1,6,7,8] The
 video showed the pair on the motorcycle promoting drugs in one of the city's
 streets. [@2,6] The ministry said officers established the circumstances of the
 footage after it circulated online. [@3,5,6] Police said both had criminal records
-and lived in the Arba'een police station district. [@1,4,5,6,7]
+and lived in the Arba'een police station district. [@1,4,5,6,7,8]
 
 Officers identified the two people shown in the video and arrested them, the
 ministry said. [@3,5,6] The motorcycle used in the incident, which had no licence
 plates, was found with them, along with a quantity of the drugs strox and
-hashish. [@1,4,5,6,7]
+hashish. [@1,4,5,6,7,8]
 
 Police held the motorcycle and took the required legal measures, the ministry
 said. [@2,4,5,6]
