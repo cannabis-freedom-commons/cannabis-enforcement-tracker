@@ -44,6 +44,11 @@ sources:
     publisher: 香港文匯報
     date: 2026-11-02
     language: zh
+  - title: 泰國入境內地男涉販逾百萬大麻花及未完稅煙等 明提訊
+    url: https://www.881903.com/news/amp/local/2657623
+    publisher: 商業電台 881903
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The HK$1.06 million estimate covers the cannabis, the suspected Part I poison products and the cigarettes together, so no value figure is recorded.
   - The weight was given as about 5.1 kg; no exact figure was published.
@@ -51,20 +56,21 @@ open_questions:
   - The three products said to contain suspected Part I poison were not further described.
   - 'Left out, as its quotation was not found in on.cc東網: Possession of a Part I poison other than in accordance with Hong Kong''s Pharmacy and Poisons Ordinance is punishable on conviction by up to a HK$100,000 fine and two years'' imprisonment.'
   - The page's captioned Government Information Service photo of the seized suspected cannabis buds appears to republish the same agency handout already listed from on.cc, so no separate media entry is added.
+  - The 881903 page carries a Government Information Service photo of the seized suspected cannabis buds that appears to republish the same agency handout already listed from on.cc, so no separate media entry is added.
 ---
 
 Hong Kong Customs detected an incoming-passenger drug-trafficking case at Hong
-Kong International Airport on 2 November 2026. [@1,4] The passenger was a
-42-year-old mainland man who had arrived from Bangkok, Thailand. [@2,4] During
+Kong International Airport on 2 November 2026. [@1,4,5] The passenger was a
+42-year-old mainland man who had arrived from Bangkok, Thailand. [@2,4,5] During
 clearance, officers found about 5.1 kg of suspected cannabis buds, three
 products containing suspected Part I poison and 261 duty-unpaid cigarettes in
-his hand luggage. [@2] He was charged with one count each of trafficking in a
+his hand luggage. [@2,5] He was charged with one count each of trafficking in a
 dangerous drug, possession of dutiable goods, failure to declare dutiable goods
-to Customs officers and possession of a Part I poison. [@1,4] The case was to go
-before West Kowloon Magistrates' Courts on 3 November. [@3,4]
+to Customs officers and possession of a Part I poison. [@1,4,5] The case was to go
+before West Kowloon Magistrates' Courts on 3 November. [@3,4,5]
 
 Customs estimated the combined market value of the haul at about HK$1.06
-million. [@2,4] Customs said it would continue to step up enforcement against drug
+million. [@2,4,5] Customs said it would continue to step up enforcement against drug
 trafficking through intelligence analysis. [@3] Trafficking in a dangerous drug
 is punishable on conviction by up to a HK$5 million fine and life imprisonment.
 [@1]
