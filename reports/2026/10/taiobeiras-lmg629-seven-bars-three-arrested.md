@@ -37,6 +37,11 @@ sources:
     publisher: G1
     date: 2026-10-31
     language: pt
+  - title: Dois jovens são presos com 7 barras de maconha, em Taiobeiras
+    url: https://gazetadearacuai.com.br/noticia/1343/dois-jovens-sao-presos-com-7-barras-de-maconha-em-taiobeiras
+    publisher: Gazeta de Araçuaí
+    date: 2026-11-01
+    language: pt
 open_questions:
   - WebTerra reports two detainees taken to the Civil Police station, while the more detailed Recifes/g1-based account reports two men held in the car plus a 27-year-old held at the Santos Cruzeiro address, for three total; the report uses three and omits a single undisputed total from figures.
   - 'The intended destination differs: WebTerra says the silver car was heading toward Rio Pardo de Minas, while the second account says the load was bound for Caetité in Bahia; the shared report omits the destination.'
@@ -46,15 +51,15 @@ open_questions:
 ---
 
 Military Police acted after an anonymous tip that two individuals would move a
-drug shipment by car. [@2,3] Officers located the car on the LMG-629 near
-Taiobeiras, by km 15, at about 22:50 on the night of Friday 30 October. [@2] Two
-men aged 19 and 21 who were in the vehicle were arrested. [@2,3] A search found
+drug shipment by car. [@2,3,4] Officers located the car on the LMG-629 near
+Taiobeiras, by km 15, at about 22:50 on the night of Friday 30 October. [@2,4] Two
+men aged 19 and 21 who were in the vehicle were arrested. [@2,3,4] A search found
 seven marijuana bars inside a bag and a cocaine portion in a bag on the vehicle
-seat. [@2,3] In follow-up checks police went to a second address in the Santos
-Cruzeiro neighbourhood in Taiobeiras. [@2,3] A 27-year-old man was arrested in
-flagrante during those checks. [@2,3] The three detainees were taken to the Civil
+seat. [@2,3,4] In follow-up checks police went to a second address in the Santos
+Cruzeiro neighbourhood in Taiobeiras. [@2,3,4] A 27-year-old man was arrested in
+flagrante during those checks. [@2,3,4] The three detainees were taken to the Civil
 Police station with the seized material and the vehicles were removed to an
-accredited yard. [@2,3]
+accredited yard. [@2,3,4]
 
 In total police listed seven bars and eight portions of marijuana, one bar of
 coca paste, nine portions of cocaine and seven crack rocks. [@1] Police also
