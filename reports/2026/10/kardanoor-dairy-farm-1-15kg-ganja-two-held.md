@@ -54,6 +54,11 @@ sources:
     publisher: Namasthe Telangana
     date: 2026-11-02
     language: te
+  - title: 'Video: હૈદરાબાદમાં બે આંતરરાજ્ય ગાંજા તસ્કરો ઝડપાયા'
+    url: https://www.gstv.in/news/india/two-interstate-marijuana-smugglers-arrested-in-hyderabad
+    publisher: GSTV
+    date: 2026-11-01
+    language: gu
 open_questions:
   - The News18 Telugu page is dated 2 November 2026; the 31 October incident date comes from The Hindu and Telangana Today accounts of the Saturday raid.
   - Sources describe two men as arrested and four consumers as apprehended; the report groups all six detained people in the arrested figure.
@@ -65,14 +70,16 @@ open_questions:
   - The submitted page says the joint arrest happened on Sunday with a Hyderabad November 1 dateline, while the existing report dates the raid to 31 October 2026; the one-day difference is unresolved.
   - The submitted page places Kardanoor/Patancheru in Rangareddy district while the existing report uses Sangareddy district.
   - Whether the lead photo on the submitted page shows this seizure was not established from its generic caption, so no media entry is made.
+  - The GSTV page gives only its publication date of 1 November 2026 and no separate date for the raid; 31 October 2026 is the incident date established by the existing report's other accounts.
+  - 'The GSTV page carries a video still with the generic caption ''સોર્સ: gstv''; whether it shows this seizure was not established, so no media entry is made.'
 ---
 
 EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor
 village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
-[@3,4,5] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
+[@3,4,5,6] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
 at the parking yard opposite, both natives of Bihar. [@2]
 
-Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5] Police said the pair
+Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5,6] Police said the pair
 bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
 for Rs 300. [@2] Investigators said they procured one to two kg two or three
 times a week. [@2] Police said 20 to 30 consumers approached daily, rising to 50
@@ -82,3 +89,5 @@ Roy had worked at the dairy farm for the past three years. [@3] Kumar had
 allegedly assisted Roy in selling marijuana for the past year. [@3] The alleged
 supplier Kishan Singh of Dhoolpet was absconding. [@3,5] A case was registered and
 investigation continued. [@2,4]
+
+Police valued the seized ganja at about Rs 57,000. [@6]
