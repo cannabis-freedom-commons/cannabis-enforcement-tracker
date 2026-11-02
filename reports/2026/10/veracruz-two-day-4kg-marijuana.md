@@ -63,6 +63,11 @@ sources:
     publisher: HoyXalapa
     date: 2026-10-30
     language: es
+  - title: 'Operativos coordinados: 33 detenidos y seis presuntas víctimas de privación ilegal de la libertad - El Chiltepín'
+    url: https://elchiltepin.com/noticias/estatales/188595/operativos-coordinados-33-detenidos-y-seis-presuntas-victimas-de-privacion-ilegal-de-la-libertad.html
+    publisher: El Chiltepín
+    date: 2026-10-30
+    language: es
 open_questions:
   - The bulletin dates the operations only as Wednesday and Thursday before a Friday 30 October 2026 dateline, so the report uses 29 October as the second day and 28 October as the first.
   - No weight was given for the bags, doses, cigarettes, package or plant of marijuana-like material outside the 4 kg Cotaxtla seizure.
@@ -77,12 +82,13 @@ open_questions:
   - The SSP page carries no separate publication timestamp; the bulletin is dated only with a Friday 30 October 2026 dateline from Xalapa.
   - The agency page's only image is an uncaptioned "Comunicado SSP" graphic filed under a March 2026 upload folder and is not described as showing the operations, so no media entry was added for it.
   - The page image has no caption or description linking it to the marijuana seizures, so no media entry was added.
+  - The page displays an image with no caption or credit linking it to the marijuana seizures, so no media entry is added.
 ---
 
 On Wednesday and Thursday, the Veracruz Public Security Secretariat, with the
 state prosecutor’s office, the Navy, the Defence Ministry, the National Guard
 and municipal police, carried out coordinated operations that included seizures
-of herb the authorities said had the characteristics of marijuana. [@1,5,7,8] In
+of herb the authorities said had the characteristics of marijuana. [@1,5,7,8,9] In
 actions the secretariat linked to alleged crimes against health, officers seized
 31 small bags of that herb and 60 doses of a substance they compared to crystal
 methamphetamine, along with cash, mobile phones, a bicycle, two motorcycles and
@@ -90,9 +96,9 @@ two cars that were not reported stolen. [@2,3,4,5,7]
 
 In Perote, men detained over alleged illegal possession of a firearm were also
 found with seven small bags of marijuana-like herb, a short firearm and live
-cartridges. [@1,3,4,5,7,8] In Cotaxtla, during operations at businesses that ship parcels,
+cartridges. [@1,3,4,5,7,8,9] In Cotaxtla, during operations at businesses that ship parcels,
 officers seized 4 kilograms of green herb with the characteristics of marijuana.
-[@1,2,3,4,6,7,8]
+[@1,2,3,4,6,7,8,9]
 
 In searches supporting the state prosecutor’s office in Tlapacoyan, Tepetzintla,
 Ixhuatlán de Madero, Álamo Temapache, Misantla, Cerro Azul, Yanga, Altotonga,
