@@ -102,6 +102,10 @@ sources:
     publisher: Patrika News
     date: 2026-10-31
     language: hi
+  - title: 'Mirzapur News: ट्रक में छिपाकर ले... - Dynamite News Hindi | Facebook'
+    url: https://www.facebook.com/DNHindi/posts/mirzapur-news-%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%95-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%9B%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%95%E0%A4%B0-%E0%A4%B2%E0%A5%87-%E0%A4%9C%E0%A4%BE%E0%A4%88-%E0%A4%9C%E0%A4%BE-%E0%A4%B0%E0%A4%B9%E0%A5%80-%E0%A4%A5%E0%A5%80-6-%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A4%BC-%E0%A4%95%E0%A5%80-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%96%E0%A5%87%E0%A4%AA-%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B8-%E0%A4%A8%E0%A5%87-/1631954492310285/
+    publisher: Dynamite News Hindi
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -114,6 +118,8 @@ open_questions:
   - Newstrack's photo caption in the page metadata gives the value as 'Rs 60 crore', while its headline and article text say six crore rupees; the report uses ₹6 crore.
   - Amar Ujala values the consignment at ₹6 crore, while Bharat Samachar estimates ₹4–5 crore; the value remains disputed.
   - 'Left out, as its quotation was not found in Hindustan: Police said the consignment had come from Odisha.'
+  - The submitted Facebook post gives only a relative date of 'a day ago'; the event date rests on the existing report's sources.
+  - The submitted post's only image is captioned 'May be an image of text' and cannot be confirmed as showing the seizure, so no media entry is added.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
@@ -121,9 +127,9 @@ occupants, Ganesh Kewat alias Ramesh Kewat, 44, and Shabir alias Lalu, 30, both
 from Madhya Pradesh's Mauganj district. [@3,6] The arrests came during a vehicle
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3,9] Officers stopped truck MP 09 HH 8908 during the
-check. [@3] A search found 1,204 kg of ganja, the Hindi word for cannabis,
+check. [@3,4] A search found 1,204 kg of ganja, the Hindi word for cannabis,
 hidden under sacks of coconuts. [@1,3,7,8,9] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4,6,8,9,10] Bharat Samachar put the value at ₹4–5 crore.
+crore, or 60 million rupees. [@4,6,8,9,10,11] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
