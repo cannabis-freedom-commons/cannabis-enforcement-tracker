@@ -45,6 +45,10 @@ sources:
     url: https://www.thestar.co.uk/news/people/sheffield-man-caged-as-sentences-on-drugs-gang-handed-out-9322199
     publisher: The Star
     date: 2026-10-31
+  - title: Ten jailed for industrial supply of cocaine and cannabis
+    url: https://www.westyorkshire.police.uk/news-appeals/ten-jailed-industrial-supply-cocaine-and-cannabis
+    publisher: West Yorkshire Police
+    date: 2026-10-31
 open_questions:
   - No total was published for the number of people arrested in the investigation; only Mohammed Hussain's November 2024 arrest is dated.
   - The 20kg of cannabis is the amount recovered when Hussain was arrested, not the total the gang supplied, for which no figure was given.
@@ -55,15 +59,15 @@ open_questions:
 ---
 
 Ten men were jailed for a combined total of more than 85 years for supplying
-cocaine and cannabis across West Yorkshire. [@1,3] They were sentenced to
+cocaine and cannabis across West Yorkshire. [@1,3,5] They were sentenced to
 immediate prison terms at Bradford Crown Court on 30 October 2026, while an 11th
 defendant received a suspended sentence. [@1] Allah Yaar, 35, of Lindley,
 Huddersfield, received the longest term, 14 years and three months, for two
 counts of conspiracy to supply cocaine, conspiracy to supply cannabis and
-conspiracy to possess criminal property. [@1] Zulfazah Khaliq Hussain, 42, of
+conspiracy to possess criminal property. [@1,5] Zulfazah Khaliq Hussain, 42, of
 Bradford, was given 12 months in prison, suspended for 24 months, for
 transferring criminal property and failing to comply with a Section 49 RIPA
-notice. [@1]
+notice. [@1,5]
 
 A long-running West Yorkshire Police investigation uncovered a gang operating
 from Halifax with connections to Middlesbrough and Blackpool. [@1] The operation
@@ -71,9 +75,9 @@ involved the wholesale supply of cocaine and cannabis, with two distribution
 hubs used to control stock, organise transactions and distribute drugs. [@1]
 Mohammed Hussain, 33, of Lemington Avenue, Halifax, was identified as a central
 figure, running the hubs from a flat in the Holmefield area and a property on
-Saville Park Road. [@1] His right-hand man, Zahid Shakoor, 34, was found at both
+Saville Park Road. [@1,5] His right-hand man, Zahid Shakoor, 34, was found at both
 properties. [@1] Hussain was arrested in November 2024 after an exchange led
-officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1]
+officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1,5]
 Further searches uncovered two stolen shotguns and industrial-scale drug
 paraphernalia. [@1] Following Hussain's arrest, the gang was disbanded and other
 members were arrested. [@1]
@@ -94,3 +98,5 @@ devastating. [@1] He said organised crime groups rely on firearms, violence and
 intimidation to control local drug markets. [@1]
 
 Miah's four-year sentence was for conspiracy to supply cocaine and conspiracy to possess criminal property. [@4]
+
+Police said digital evidence proved the roles of Hussain and Shakoor in the wider gang. [@5]
