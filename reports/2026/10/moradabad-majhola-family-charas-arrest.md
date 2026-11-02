@@ -48,6 +48,11 @@ sources:
     publisher: Newstrack
     date: 2026-10-31
     language: hi
+  - title: घर को ही बना लिया नशा तस्करी का अड्डा, मां और पत्नी के साथ पकड़ा गया आरोपी
+    url: https://4pm.co.in/accused-turned-his-own-home-into-a-hub-for-drug-trafficking-arrested-along-with-his-mother-and-wife/195710
+    publisher: 4PM News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Amar Ujala reported 4.50 kg of charas; this report uses 4.375 kg, the figure in the Hindusthan Samachar wire copy and Dainik Jagran.
   - The wire copy says the three were arrested during a police check, while Amar Ujala and Dainik Jagran describe a morning raid on their house; the report follows the raid account.
@@ -59,11 +64,16 @@ open_questions:
   - The same article also reports a separate Civil Lines case in which a mother and daughter were arrested with charas and a son was absconding; it gives no date or quantity, and the event is left out of this report.
   - The submitted article spells the names as Kana Prasad, Kavita Rani and Rani, while the existing report uses Kanta Prasad, Kavita Saini and Rani Saini; the match rests on place, date, relationships and identical quantities.
   - The submitted page lists one lead photo whose caption only repeats the headline with no credit; whether it shows this seizure is not established, so no media entry is made.
+  - This outlet names the mother as Kavita and the wife as Rani, reversing the existing report's wife Kavita Saini and mother Rani Saini.
+  - This outlet reports 15 grams of charas and 4.5 kilograms of ganja worth about Rs 4 lakh, while the existing report uses 4.375 kg of charas and 14.59 g of smack; the 4.5 kg and 15 g versus 14.59 g figures appear to describe the same seizure with substances labelled differently.
+  - This outlet says about Rs 33,000 in cash was seized, while the existing report uses Rs 33,600.
+  - This outlet gives only its 1 November 2026 publication date and no separate raid date.
+  - The page lists one lead photo with no caption or credit establishing that it shows this seizure, so no media entry is made.
 ---
 
 Majhola police in Moradabad, Uttar Pradesh, arrested a man, his wife and his
 mother on Saturday 31 October 2026 on allegations of trafficking charas and
-smack. [@1,4,5] Police named them as Kanta Prasad, his wife Kavita Saini and his
+smack. [@1,4,5,6] Police named them as Kanta Prasad, his wife Kavita Saini and his
 mother Rani Saini, residents of Jayantipur Neta Colony in the Majhola police
 station area. [@1,5] Officers recovered 4.375 kg of charas, a hand-made cannabis
 resin, and 14.59 g of smack, a form of heroin, police said. [@1,5] They also found
@@ -73,9 +83,9 @@ The arrests came in a raid on the family's house on Saturday morning by a
 15-member police team led by Bhaskar Kumar Mishra, the Circle Officer (CO) for
 Civil Lines, a sub-district police officer. [@3] Police said they had identified
 Kanta Prasad while checking the records of known offenders on a police database
-app. [@3] He had been released from jail on bail about a month earlier and had
-started selling drugs again, police said. [@3] The family had put CCTV cameras
-around the house to watch for police, Jagran reported. [@3] Kanta Prasad already
+app. [@3,6] He had been released from jail on bail about a month earlier and had
+started selling drugs again, police said. [@3,6] The family had put CCTV cameras
+around the house to watch for police, Jagran reported. [@3,6] Kanta Prasad already
 faced six cases under the NDPS Act, the Excise Act and the Arms Act at three
 police stations in Moradabad city, his wife one case and his mother two, Jagran
 reported. [@3] In questioning, the three said they had bought and resold charas
@@ -83,4 +93,4 @@ and smack together for a long time and lived on the money it brought. [@1]
 
 Police registered a first information report (FIR), the document that starts a
 criminal case in India, against all three under the NDPS Act, India's main
-anti-drug law. [@2] All three were produced in court and sent to jail. [@2]
+anti-drug law. [@2,6] All three were produced in court and sent to jail. [@2]
