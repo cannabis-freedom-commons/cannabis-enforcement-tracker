@@ -40,10 +40,16 @@ AUTO_PUBLISH=true
 
 Keep `.env` mode 0600 and out of Git. Never prefix a secret with `PUBLIC_`.
 The local runner uses OpenCode’s saved credentials. It also loads the selected provider’s
-endpoint, model definitions and options from `~/.opencode/opencode.json` (JSON), or the file
-named by `OPENCODE_CONFIG`. Only that provider is imported into the isolated session; home
-agents, plugins, permissions and unrelated provider credentials are not imported. An inline
-`options.apiKey` or `{env:NAME}` key is passed privately to the harness and redacted from
+endpoint, model definitions and options from `~/.config/opencode/opencode.json` or
+`opencode.jsonc` (under `$XDG_CONFIG_HOME` when set), or the file named by `OPENCODE_CONFIG`.
+JSONC comments and trailing commas are supported. The legacy `~/.opencode/opencode.json(c)`
+location remains supported; standard global settings override it, and JSONC overrides matching
+JSON settings while retaining other provider/model settings. OpenCode 1's `provider`/`options`
+and OpenCode 2's `providers`/`settings` definitions are imported in their native format,
+including custom runtime packages and model reasoning variants. Only that provider is imported
+into the isolated session; home agents, plugins, permissions and unrelated provider credentials
+are not imported. A provider key from `options.apiKey` (v1), `settings.apiKey` (v2), a
+`{env:NAME}` reference, or the selected provider's `env` list is passed privately to the harness and redacted from
 startup diagnostics and public activity. The provider config stays outside the evidence input.
 `RESEARCH_MODEL` still selects the provider/model; restart the backend after changing either.
 OpenCode 2 uses its native scoped

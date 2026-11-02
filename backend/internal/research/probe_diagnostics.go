@@ -31,8 +31,8 @@ type ProbeDiagnostics struct {
 var probeSecretPattern = regexp.MustCompile(`(?i)(bearer\s+[^\s"'\\]+|(?:sk|oc|opencode)[-_][A-Za-z0-9_-]{16,})`)
 var probeCredentialPattern = regexp.MustCompile(`(?i)("(?:api[_-]?key|access[_-]?token|refresh[_-]?token|authorization|password)"\s*:\s*")[^"]*(")`)
 
-func (r Runner) redactProbeText(value string) string {
-	for _, secret := range []string{r.Config.ResearchKey, r.Config.IngestToken, r.Config.BotSecret, r.Config.GatewaySecret, r.Config.WebhookSecret} {
+func (r Runner) redactProbeText(value string, extraSecrets ...string) string {
+	for _, secret := range append([]string{r.Config.ResearchKey, r.Config.IngestToken, r.Config.BotSecret, r.Config.GatewaySecret, r.Config.WebhookSecret}, extraSecrets...) {
 		if secret != "" {
 			value = strings.ReplaceAll(value, secret, "[redacted]")
 		}

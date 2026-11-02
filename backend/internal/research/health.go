@@ -62,13 +62,14 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 	diagnostics = ProbeDiagnostics{Model: r.Config.ResearchModel, Prompt: probePrompt, AgentInstruction: probeInstruction}
 	started := time.Now()
 	var diagnosticRoot string
+	var providerKey string
 	defer func() {
 		diagnostics.DurationMS = time.Since(started).Milliseconds()
-		diagnostics.Response = r.redactProbeText(diagnostics.Response)
-		diagnostics.Stdout = r.redactProbeText(diagnostics.Stdout)
-		diagnostics.Stderr = r.redactProbeText(diagnostics.Stderr)
+		diagnostics.Response = r.redactProbeText(diagnostics.Response, providerKey)
+		diagnostics.Stdout = r.redactProbeText(diagnostics.Stdout, providerKey)
+		diagnostics.Stderr = r.redactProbeText(diagnostics.Stderr, providerKey)
 		if probeErr != nil {
-			diagnostics.Error = r.redactProbeText(probeErr.Error())
+			diagnostics.Error = r.redactProbeText(probeErr.Error(), providerKey)
 		}
 		if diagnosticRoot != "" {
 			if err := diagnostics.save(diagnosticRoot); err != nil {
@@ -112,6 +113,7 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 		return diagnostics, err
 	}
 	defer cleanup()
+	providerKey = selectedProviderKey(command)
 	diagnostics.Arguments = append([]string(nil), args...)
 	if r.Config.ResearchRunner == "local" && strings.Contains(strings.Join(command.Args, " "), "--standalone") {
 		diagnostics.Arguments = v2Args(args)
