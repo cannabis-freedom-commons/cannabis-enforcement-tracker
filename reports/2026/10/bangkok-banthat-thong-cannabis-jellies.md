@@ -122,13 +122,15 @@ open_questions:
   - The Thaipost lede says cannabis flower and cannabis jellies worth over 500,000 baht were found, while its body and the FDA account value the 90 seized jellies at 50,000 baht; the existing report uses 50,000 baht.
   - The page's image carries no caption or credit, so no media entry is added rather than repeating the raid photos already linked in the existing report.
   - The submitted article says the raid was "today (Sunday)" on its 1 November 2026 publication date, while the existing report uses 29 October 2026 from the FDA statement.
+  - Bangkok Post places the search on Saturday, which would be 31 October 2026, while the existing report uses 29 October 2026 from the FDA statement.
+  - Bangkok Post attributes the 50,000-baht figure to price tags on the seized products, while the existing report attributes the valuation to the FDA.
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13] The
 shop occupied the second floor. [@1,4,5,7,14] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,11,12,13,14] The FDA put the value of the jellies at 50,000 baht.
+Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14] The FDA put the value of the jellies at 50,000 baht.
 [@2,5]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
