@@ -38,6 +38,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-02
     language: hi
+  - title: 'Balrampur News: गांजा-भांग के साथ दो तस्कर गिरफ्तार, चार पुलिसकर्मियों पर गिरी गाज'
+    url: https://www.livehindustan.com/uttar-pradesh/balrampur/story-balrampur-police-arrest-two-in-drug-bust-seize-cannabis-and-suspend-two-constables-201793617678100.html
+    publisher: Live Hindustan
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The Live Hindustan report places the arrests at about 11:30 pm on Sunday night while both reports were published on 2 November 2026, so 1 November 2026 is used as the incident date.
   - No estimated street value or independent weighing of the ganja and bhang was reported.
@@ -48,14 +53,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Live Hindustan: Police put the combined recovery at 1.966 kilograms of ganja and 2.264 kilograms of bhang.'
   - The submitted URL is the non-AMP version of the Live Hindustan article already cited in AMP form in the existing report.
   - The page image is the outlet logo frame dated October 2025, not an event photo, so no media entry is made.
+  - The submitted URL uses story ID 201793617678100 while the existing report cites Live Hindustan story ID 201793602669019; the names, places and quantities match, indicating the same event.
 ---
 
 Police in Balrampur arrested two accused in separate actions in the Kotwali
-Nagar and Kotwali Dehat areas. [@2,3] Kotwali Nagar police arrested Sandeep Sharma
-near Veer Vinay crossing. [@1,3] Sharma was described as a resident of Lalapurwa
+Nagar and Kotwali Dehat areas. [@2,3,4] Kotwali Nagar police arrested Sandeep Sharma
+near Veer Vinay crossing. [@1,3,4] Sharma was described as a resident of Lalapurwa
 village in the Ramnagar police-station area of Barabanki district. [@1] Kotwali
 Dehat police arrested Nankau Singh near Belha turn, described as a local
-resident. [@1,3]
+resident. [@1,3,4]
 
 Police registered a case against Sharma under the NDPS Act and the Excise Act.
 [@2] Police registered a case against Singh under the NDPS Act for further legal
@@ -63,8 +69,8 @@ action. [@2] Both accused were taken into custody and sent to jail. [@1]
 
 Superintendent of Police Martand Prakash Singh suspended constables Vinay Pratap
 Singh and Gyanendra Kumar with immediate effect for failure to gather
-intelligence and negligence of duty. [@1] The superintendent also ordered
+intelligence and negligence of duty. [@1,4] The superintendent also ordered
 preliminary departmental inquiries against Purabtola outpost in-charge
 Sub-Inspector Kislay Mishra and Belha-turn area in-charge Sub-Inspector Udaybhan
-Singh. [@1] Police said they are searching for others linked to the district's
+Singh. [@1,4] Police said they are searching for others linked to the district's
 drug trade. [@1]
