@@ -66,6 +66,11 @@ sources:
     publisher: Live Bharat News
     date: 2026-10-31
     language: hi
+  - title: Chandauli News | 60kg Ganja Seized From Car, Three Smugglers Arrested
+    url: https://www.bhaskar.com/local/uttar-pradesh/chandauli/niyamatabad/news/chandauli-police-arrest-drug-smugglers-ganja-seized-car-139550794.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - No report says whether the three men were produced before a magistrate, remanded or granted bail.
   - The reports do not say where in Odisha the consignment was loaded or who supplied it.
@@ -74,10 +79,13 @@ open_questions:
   - No report says whether the car was seized.
   - 'Left out, as its quotation was not found in Dainik Jagran: Those arrested were Abhishek Singh of Bahorpur Dostpur in Sultanpur district, Awadhesh of Sirsiya Dubauliya in Basti district and Naushad of Sangrampur Chhawani.'
   - 'Left out, as its quotation was not found in Dainik Jagran: The men told police they brought ganja by road from Odisha to sell at high prices in Sultanpur and other areas.'
+  - The submitted page is paywalled after the opening sentences, so names, checkpoint, chase, FIR and case history in the existing report are not corroborated here.
+  - The submitted account describes the team as SOG, surveillance and Alinagar police, while the existing report names Alinagar police and the Special Operations Group.
+  - The page carries a photo with empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Alinagar police and the Special Operations Group (SOG) arrested three men with
-60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1,4,5] Abhishek
+60 kg of ganja, or cannabis, during a vehicle check on Saturday. [@1,4,5,6] Abhishek
 Singh was 25, Awadhesh 20 and Naushad 24. [@3,4]
 
 The Alinagar team was checking vehicles near Hamidpur Patanwa. [@2,4,5] Acting on an
@@ -86,7 +94,7 @@ driver tried to run the car at the police team. [@1,4] Officers chased the car a
 stopped it near Babatpur in Varanasi district. [@1,5] In the boot, under the
 stepney (spare wheel), they found 60 packets of ganja. [@1,4,5] The packets held 60
 kg, and police estimated the ganja's value at about 20 lakh rupees (2 million).
-[@3,4]
+[@3,4,6]
 
 A first information report was registered against all three at Alinagar police
 station under sections of the Narcotic Drugs and Psychotropic Substances (NDPS)
