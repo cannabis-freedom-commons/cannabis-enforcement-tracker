@@ -34,6 +34,11 @@ sources:
     publisher: Al-Rai
     date: 2026-11-01
     language: ar
+  - title: «الجنايات» تقضي بإعدام لبنانيين وهندي والمؤبد لمواطنة
+    url: https://sarmad.com/351111/
+    publisher: Sarmad
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The articles give only publication dates of 1 and 2 November 2026; 1 November 2026 is used as the ruling date, with Al-Anba describing the ruling as issued “yesterday”.
   - No arrest location or separate dates for the arrests and seizure were published.
@@ -41,10 +46,11 @@ open_questions:
   - The same articles also report a separate death sentence for an Indian defendant over psychoactive-soaked A4 sheets, a non-cannabis event excluded from the cannabis figures.
   - The Al-Anba article also reports a separate life sentence and fine for a woman over psychotropic substances, a different event left out here.
   - Whether the death sentences are final or subject to appeal was not reported.
+  - The page carries a lead image with no caption identifying its content, so whether it shows this event could not be established and no media entry is added.
 ---
 
 Kuwait’s Criminal Court sentenced two Lebanese nationals to death for
-trafficking in and using hashish and psychoactive substances. [@1,3] The General
+trafficking in and using hashish and psychoactive substances. [@1,3,4] The General
 Department for Drug Control arrested the two Lebanese men after information and
 investigations indicated they possessed narcotics and psychoactive substances
 for trafficking and use. [@1] Prosecutors charged the pair with possession for
@@ -62,4 +68,4 @@ The verdicts were published on 1 November 2026, with a second newspaper dating
 the ruling to the day before its 2 November edition. [@2] The Lebanese case was
 one of two separate drug cases decided together, the other a death sentence for
 an Indian defendant over psychoactive substances concealed in 100 soaked A4
-sheets in a shoe-carton parcel from abroad. [@1,3]
+sheets in a shoe-carton parcel from abroad. [@1,3,4]
