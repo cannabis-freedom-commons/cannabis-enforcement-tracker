@@ -44,6 +44,11 @@ sources:
     publisher: صحيفة الوطن السورية
     date: 2026-11-01
     language: ar
+  - title: تحول لافت في سوريا نحو تفكيك البنية التحتية لشبكات الكبتاغون
+    url: https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5336338-%D8%AA%D8%AD%D9%88%D9%84-%D9%84%D8%A7%D9%81%D8%AA-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%86%D8%AD%D9%88-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86
+    publisher: الشرق الأوسط
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the incident date for the monthly period.
   - No number of people arrested or detained was published for the October tally as a whole.
@@ -54,11 +59,13 @@ open_questions:
   - The article's cannabis detail is summary-level — hundreds of kilograms of hashish — and does not give the tally's 582 kg total, so the existing total is unchanged.
   - The article mentions a 260 kg hashish seizure in an Aleppo smuggling cell and other pill seizures that may be components of the October tally but are not separately dated or detailed enough for a new report.
   - The lead image on the page has only the generic caption 'image' with no credit or event description, so no media entry is listed.
+  - This account gives only hundreds of kilograms of hashish and does not state the 582 kg total, so the total continues to rely on the earlier sources.
+  - The page's Damascus and Homs seizure photos are captioned only as drug seizures from the Anti-Narcotics Department and are not established to show cannabis, so no media entry is added.
 ---
 
 Syria's Anti-Narcotics Department said it carried out 157 security operations
-across the country during October 2026. [@1,3,4,5,6] The department said those
-operations dismantled 30 domestic drug-trafficking networks. [@1,3,4,5,6] The department
+across the country during October 2026. [@1,3,4,5,6,7] The department said those
+operations dismantled 30 domestic drug-trafficking networks. [@1,3,4,5,6,7] The department
 reported seizing 582 kilograms of hashish in those October operations. [@2,3,4,6]
 
 The same monthly tally separately listed about 4.3 million Captagon pills, more
