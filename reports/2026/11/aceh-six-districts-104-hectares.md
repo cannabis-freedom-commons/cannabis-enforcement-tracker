@@ -127,6 +127,7 @@ open_questions:
   - The component areas listed in the submitted page add to about 127.86 hectares, not the reported 122.86-hectare total.
   - The page carries a photo whose caption is only the file name IMG-20261102-WA0076, so whether it shows this operation could not be established and no media entry is added.
   - The submitted page presents 122.86 hectares as covering North Sumatra and Aceh together, while the existing report reads the Bareskrim recap as the Aceh-jurisdiction total with the 5-hectare Mandailing Natal phase counted separately.
+  - The page also embeds a video thumbnail for a separate BNN operation reported as 6.5 hectares in Aceh Utara, a different event left out here.
 ---
 
 A joint team of Aceh provincial police, Polda Aceh, and the Aceh provincial
@@ -134,11 +135,11 @@ National Narcotics Agency, BNNP Aceh, destroyed fields of ganja, the Indonesian
 term for cannabis, in six districts of Aceh. [@2,4] The destruction ran over two
 days, 31 October and 1 November 2026. [@2,4] The fields lay in the police
 jurisdictions of Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and
-Nagan Raya. [@1,4]
+Nagan Raya. [@1,2,4]
 
-Police said the cleared fields covered 104.86 hectares in total. [@3,4] Officers
-uprooted and destroyed 157,290 cannabis plants. [@1,4] Police estimated the weight
-of the destroyed plants at 78.645 tonnes. [@1,4] Public relations chief Kombes
+Police said the cleared fields covered 104.86 hectares in total. [@2,3,4] Officers
+uprooted and destroyed 157,290 cannabis plants. [@1,2,4] Police estimated the weight
+of the destroyed plants at 78.645 tonnes. [@1,2,4] Public relations chief Kombes
 Pol. Joko Krisdiyanto gave the figures on behalf of the force's narcotics
 director, Kombes Pol. Gazali Ahmad. [@1] He gave the statement on Monday 2
 November 2026. [@2]
