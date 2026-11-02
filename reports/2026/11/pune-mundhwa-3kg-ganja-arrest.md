@@ -36,6 +36,11 @@ sources:
     publisher: Maharashtra Mirror
     date: 2026-11-02
     language: mr
+  - title: 'पुणे : मुंढव्यात गांजा विक्रीसाठी आलेला तरुण जेरबंद! 3 किलो गांजासह 1 लाख 61 हजारांचा मुद्देमाल जप्त'
+    url: https://www.instagram.com/p/DfPhQXajcM_/
+    publisher: Policenama
+    date: 2026-11-02
+    language: mr
 open_questions:
   - The article gives no separate date for the trap and arrest; 2026-11-01 is the source's publication date.
   - The 3 kg weight and Rs 1.51 lakh ganja valuation are police figures as reported; no independent weighing is reported.
@@ -47,13 +52,14 @@ open_questions:
   - This source dates the patrol and trap to 30 October 2026, while the existing report uses the earlier source's 1 November 2026 publication date.
   - The page lead image caption only repeats the headline and its file name refers to Mundhwa police station, so it could not be established to show the seizure itself and no media entry is added.
   - The two embedded YouTube videos concern a metro-station leak and Chakan rain and do not show this event, so they are not listed as media.
+  - The post's images have only generic auto-generated captions such as meme or poster descriptions, so none could be established to show the seizure and no media entry is added.
 ---
 
-Gumane lives at Gayran Vasti in Keshavnagar, Mundhwa. [@1,2]
+Gumane lives at Gayran Vasti in Keshavnagar, Mundhwa. [@1,2,3]
 
 Officers seized three kilograms of ganja and a mobile phone from him, putting
-the total seized property at Rs 1.61 lakh. [@1,2] Police valued the ganja itself
-at Rs 1.51 lakh. [@1] The crime branch squad was patrolling the Mundhwa area
+the total seized property at Rs 1.61 lakh. [@1,2,3] Police valued the ganja itself
+at Rs 1.51 lakh. [@1,3] The crime branch squad was patrolling the Mundhwa area
 when police employee Sandip Shirke received a tip that a person would arrive to
 sell ganja, after which the squad laid a trap and detained Gumane. [@1] Officers
 found the ganja when they checked the bag he was carrying, and seized three
