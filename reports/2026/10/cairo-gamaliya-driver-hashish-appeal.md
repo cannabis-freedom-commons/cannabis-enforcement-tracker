@@ -33,6 +33,11 @@ sources:
     publisher: الأسبوع
     date: 2026-10-31
     language: ar
+  - title: 'بالبلدي: بعد قبول استئنافه.. تخفيف عقوبة سائق بالجمالية ضبط بحوزته «حشيش»'
+    url: https://belbalady.net/7699256
+    publisher: بالبلدي
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The reports do not give the date of the appeal ruling or of the original three-year sentence; 31 October 2026 is the date both accounts were published.
   - The driver is not named, and the reports do not say when he was arrested or which court imposed the original three-year term.
@@ -41,16 +46,17 @@ open_questions:
   - The page's only photograph is a generic image of a man's hands gripping prison bars, not confirmed to show this case, so no image is linked.
   - El Aosboa's text closely follows the Al-Dostor court brief already cited in the report, so it corroborates the ruling without adding independent detail.
   - 'Left out, as its quotation was not found in الأسبوع: A search found cigarettes containing hashish, and he admitted he was holding them for his own use, after which the police took the legal steps in the case.'
+  - The Belbalady page states it operates automatically and credits الأسبوع as its source, so it corroborates rather than adding independent reporting.
 ---
 
 The Cairo criminal appeal court accepted a driver's appeal against a three-year
 prison sentence and cut the term to six months for using hashish and possessing
-drugs in the El Gamaliya district of Cairo. [@1,3]
+drugs in the El Gamaliya district of Cairo. [@1,3,4]
 
 Police from the El Gamaliya police station, under the Cairo Security
 Directorate, stopped the driver during a security patrol after they grew
-suspicious of him, and he tried to flee when they approached. [@1,3] They caught
-him riding a motorcycle that had been reported stolen. [@2,3] A search found
+suspicious of him, and he tried to flee when they approached. [@1,3,4] They caught
+him riding a motorcycle that had been reported stolen. [@2,3,4] A search found
 cigarettes containing hashish, and he admitted he was holding them for his own
 use, after which the police took the legal steps in the case. [@1]
 
