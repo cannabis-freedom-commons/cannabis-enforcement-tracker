@@ -38,20 +38,28 @@ sources:
     publisher: Daily Jaijaidin
     date: 2026-10-31
     language: bn
+  - title: ব্রাহ্মণবাড়িয়া কসবায় পুলিশের অভিযানে ২৪ কেজি গাঁজাসহ দুই কারবারি গ্রেপ্তার
+    url: https://www.sorejominbarta.com/news-cutting/65870
+    publisher: Sorejomin Barta
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The reports do not say where the cannabis came from or where it was being taken.
   - No estimate of the cannabis's value was published.
   - No court date, plea or sentence was reported; the case had only been filed when the reports appeared.
   - Both reports carry the same Kasba police press release; no independent account or comment from the two men was found.
+  - The new source gives Friday and its 31 October 2026 publication date rather than writing 30 October 2026 explicitly; 30 October is treated as the event date from the existing reports.
+  - The new source does not give the two men's ages, the Sub-Inspector's name, or the Madina Engineering Workshop and fire-station roadside detail named in the existing report.
+  - The submitted page carries a photo whose content cannot be verified from its caption alone, so no media entry is listed.
 ---
 
 Police in Kasba, Brahmanbaria, arrested two men with 24 kg of cannabis and
-seized the pickup they were using to carry it. [@1,3] The arrests took place at
+seized the pickup they were using to carry it. [@1,3,4] The arrests took place at
 about 4:50 pm on 30 October 2026 on a paved road in front of Madina Engineering
 Workshop beside the Kuti Choumuni fire station in Kuti Union, Kasba upazila, and
-police announced them in a press release the next day. [@1,3] Police named the two
+police announced them in a press release the next day. [@1,3,4] Police named the two
 as Shakil Mia, 36, of Ramrail village in Brahmanbaria Sadar upazila, and Babu,
-26, of Bar Thuta village in Gopinathpur Union, Kasba upazila. [@1,3]
+26, of Bar Thuta village in Gopinathpur Union, Kasba upazila. [@1,3,4]
 
 Acting on secret information, a team led by Sub-Inspector Sagar Haldar recovered
 the cannabis from the two men's possession, Kasba police said. [@1,3] A case was
