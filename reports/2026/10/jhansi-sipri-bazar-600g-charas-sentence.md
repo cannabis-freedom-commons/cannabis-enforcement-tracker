@@ -27,6 +27,11 @@ sources:
     publisher: Newstrack
     date: 2026-10-31
     language: hi
+  - title: 'Jhansi News: झांसी में चरस तस्करी के आरोपी को सजा, सात माह दस दिन का कठोर कारावास | News Track in Hindi'
+    url: https://newstrack.com/amp/uttar-pradesh/jhansi/jhansi-charas-case-accused-sentenced-ndps-act-644864
+    publisher: Newstrack
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article gives no separate date for the sentencing; 31 October 2026 is its publication date and is used as the incident date.
   - Only one source for this sentencing could be opened; no second report confirming the case was found.
@@ -35,17 +40,16 @@ open_questions:
 ---
 
 A special NDPS court in Jhansi sentenced Deepak Ahirwar after he admitted guilt
-in a six-year-old charas-recovery case. [@1] The court set the punishment at
+in a six-year-old charas-recovery case. [@1,2] The court set the punishment at
 rigorous imprisonment for the seven months and ten days he had already spent in
-jail, plus a Rs 5,000 fine. [@1] The presiding court was that of Special Judge
+jail, plus a Rs 5,000 fine. [@1,2] The presiding court was that of Special Judge
 (NDPS Act)/Additional Sessions Judge (FTC) Ompal Singh. [@1] The court ordered
 one more month of imprisonment if the fine is not paid. [@1]
 
 Sipri Bazar police arrested Ahirwar, son of Ghanshyam Ahirwar of Lahar Gird,
-Sipri Bazar, on 7 March 2020 near the Manoranjan Grih by Rajghat Colony. [@1] A
-search recovered 600 grams of charas from his possession. [@1] Police registered
+Sipri Bazar, on 7 March 2020 near the Manoranjan Grih by Rajghat Colony. [@1,2] A
+search recovered 600 grams of charas from his possession. [@1,2] Police registered
 the case under Sections 18/20 of the NDPS Act. [@1] A chargesheet was filed
 after the investigation was completed. [@1] During the trial, the accused
 admitted guilt on the basis of the evidence presented. [@1] The judge imposed
 the jail term and fine under Sections 18/20 of the NDPS Act. [@1]
-
