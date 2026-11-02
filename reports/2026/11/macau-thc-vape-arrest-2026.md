@@ -69,6 +69,19 @@ sources:
     url: https://www.houkongdailynews.com/instantNews/160384
     publisher: 濠江日報
     language: zh
+  - title: マカオ、大麻由来成分含む電子たばこの密売・使用で香港人の男逮捕 | チバテレ＋プラス
+    url: https://www.chiba-tv.com/plus/detail/2026112185968
+    publisher: チバテレ＋プラス
+    date: 2026-11-02
+    language: ja
+  - title: Man arrested for selling cannabis-laced vapes
+    url: https://macaudailytimes.com.mo/man-arrested-for-selling-cannabis-laced-vapes.html
+    publisher: Macau Daily Times
+    date: 2026-11-02
+  - title: Hong Kong man arrested in Macau over alleged THC vape smuggling
+    url: https://www.thestandard.com.hk/news/article/347148/Hong-Kong-man-arrested-in-Macau-over-alleged-THC-vape-smuggling
+    publisher: The Standard
+    date: 2026-11-01
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -85,13 +98,13 @@ open_questions:
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
 electrician in the city, suspecting him of smuggling THC e-cigarettes in from
-Hong Kong to sell. [@2,6] Acting on intelligence, officers stopped him in the
+Hong Kong to sell. [@2,6,9] Acting on intelligence, officers stopped him in the
 central district (中區) and found six e-cigarettes filled with drug oil on him,
 which police put at about MOP8,000. [@2] A search of his home found four more
 e-cigarette devices that had already been used. [@2,3,6]
 
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
-and his urine test for drugs was positive. [@2,3,7,8] Police believe he used the vapes
+and his urine test for drugs was positive. [@2,3,7,8,11] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
 three people at MOP1,400 each. [@2,3] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
@@ -105,4 +118,4 @@ liability. [@2] Police said they were still tracing other people involved and
 would share intelligence and enforcement cooperation with neighbouring forces
 against cross-border drug trafficking. [@2]
 
-The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8] He held a blue card, the identity document Macau issues to non-resident workers. [@3] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
+The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8] He held a blue card, the identity document Macau issues to non-resident workers. [@3,10] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
