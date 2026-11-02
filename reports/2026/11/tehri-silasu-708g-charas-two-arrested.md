@@ -31,23 +31,29 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-02
     language: hi
+  - title: यहां चरस के साथ दो तस्कर गिरफ्तार ।। - Uttarakhand City News
+    url: https://uttarakhandcitynews.com/two-smugglers-arrested-with-charas-here/
+    publisher: Uttarakhand City News
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The Amar Ujala page labels its photo as symbolic (प्रतीकात्मक), so no event photo is listed as media.
   - The content of the Dainik Bhaskar page photo could not be verified as showing this seizure, so it is not listed as media.
   - No court outcome beyond production of the accused in court was reported.
+  - Whether the lead photo on the submitted page shows this seizure is not established, since it has no caption or credit linking it to the Silasu bridge checking.
 ---
 
 Camptee police stopped two young men at Silasu bridge in the Nainbag check-post
-area and arrested them after a search found charas in their possession. [@1] The
+area and arrested them after a search found charas in their possession. [@1,3] The
 arrested men were identified as Akhilesh Chauhan, son of Shailendra Singh, and
 Rajmohan, son of Shoorveer Singh, both residents of Devjani village in the Mori
-police-station area of Uttarkashi district. [@1] Police registered a case
+police-station area of Uttarkashi district. [@1,3] Police registered a case
 against both men under the NDPS Act at Camptee police station and were producing
-them in court. [@1]
+them in court. [@1,3]
 
 Officers seized 708 grams of illegal charas, a cannabis resin, from the two men.
-[@1] Police gave the estimated value of the charas as Rs 1.77 lakh. [@2] The
-interception and search took place on 1 November 2026. [@1]
+[@1,3] Police gave the estimated value of the charas as Rs 1.77 lakh. [@2,3] The
+interception and search took place on 1 November 2026. [@1,3]
 
 Police said the checking was conducted under Operation Prahar, an anti-narcotics
 drive being carried out on the directions of Senior Superintendent of Police
@@ -56,4 +62,3 @@ trade would continue and appealed to the public to share information, keeping
 informants' identities confidential. [@1] The police team included Sub-Inspector
 Mangesh Kumar, Head Constable Akbar Ali and constables Rajendra Singh and Ankit
 Rawat. [@1]
-
