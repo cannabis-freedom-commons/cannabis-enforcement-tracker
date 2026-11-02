@@ -66,6 +66,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-01
     language: hi
+  - title: 'Bagaha News: गांजा तस्करी में पिरारी के धनीलाल यादव पर केस दर्ज'
+    url: https://www.livehindustan.com/bihar/bagaha/story-narkatiaganj-police-identify-suspect-in-ganja-smuggling-case-launch-raids-201793462300787.amp.html
+    publisher: Hindustan
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Neither report gives a calendar date for the stop; 30 October 2026 is the publication date of both accounts.
   - Jagran says officers signalled the tempo to stop and the occupants jumped into the field; Bhaskar says they rammed a police vehicle before fleeing. Both accounts are stated.
@@ -106,4 +111,4 @@ arrest the fugitives. [@1] Bhaskar quoted him saying further legal action was
 under way and that officers were tracing the people who fled and others linked
 to the smuggling. [@2] No one had been named or arrested in either account. [@2,3,4]
 
-Police named Dhaneelal Yadav, a resident of Pirari village in the Inarwa police station area, as the main accused in the case. [@5,6] Station house officer Manoj Kumar Singh said Yadav's name emerged from the seized tempo and the mobile phones found at the scene. [@5] Police said an FIR had been registered and they had begun raids to arrest Yadav. [@5,6]
+Police named Dhaneelal Yadav, a resident of Pirari village in the Inarwa police station area, as the main accused in the case. [@5,6,7] Station house officer Manoj Kumar Singh said Yadav's name emerged from the seized tempo and the mobile phones found at the scene. [@5,7] Police said an FIR had been registered and they had begun raids to arrest Yadav. [@5,6,7]
