@@ -52,6 +52,16 @@ sources:
     publisher: Oneindia Tamil
     date: 2026-10-30
     language: ta
+  - title: 'Dharmapuri murder: கஞ்சா போதையில் தாயை கொன்றாரா தருமபுரி தேவராஜ்? போலீஸார் பரபரப்பு விளக்கம்'
+    url: https://tamil.oneindia.com/news/tamilnadu/police-explains-about-dharmapuri-murder-case-842025.html
+    publisher: Oneindia Tamil
+    date: 2026-10-31
+    language: ta
+  - title: மகனுக்காக தாய் செய்த அந்த ஒரு செயல்! கடைசியில் கொடூர மகன் தாய்க்கு செய்த கொடூரம்! உள்ளே சின்ன பாப்பா வேற... தருமபுரியில் நடந்த பயங்கரம்..!!!
+    url: https://www.tamilspark.com/tamilnadu/dharmapuri-son-kills-mother-after-bail
+    publisher: Tamil Spark
+    date: 2026-10-31
+    language: ta
 open_questions:
   - 'The accounts differ on the date and time: Thanthi TV placed the killing on the morning of 30 October, The Hindu and Dinakaran late on 29 October, and Dinamalar on the night of 28 October; this report uses the night of 29 October.'
   - Chinnapappa's age is given as 42 by Thanthi TV and 45 by The Hindu, Dinakaran and Dinamalar; Devaraj's age is given as 19 by Thanthi TV, The Hindu and Dinakaran and 20 by Dinamalar.
@@ -61,11 +71,14 @@ open_questions:
   - Lokal Tamil described the earlier case as threatening police with a knife and his release on bail as 'a few days' before the killing, where the report, citing The Hindu, describes a sword and a bail on 28 October.
   - Oneindia Tamil placed the killing on 30 October and the bail on 29 October, while the report uses the night of 29 October and dates the bail to 28 October.
   - Oneindia Tamil described the earlier arrest as taking place at the Indur bus stand during a ganja-fuelled disturbance, rather than near the police station with a sword as The Hindu reported.
+  - Oneindia Tamil and Tamil Spark reported that Chinnapappa spent about ₹40,000 to secure Devaraj's bail, while The Hindu reported ₹50,000.
+  - The Hindu reported that Devaraj attacked his mother after she refused him money, while the police account reported by Oneindia Tamil and Tamil Spark says he was angered by her advice to give up drinking and his insistence that no one question him.
+  - 'No new event photograph was identified: Oneindia Tamil''s only image is captioned ''Dharmapuri crime'' with no credit, and Tamil Spark''s is an uncaptioned collage.'
 ---
 
 Police in Indur, in Tamil Nadu's Dharmapuri district, arrested 19-year-old
 Devaraj after he allegedly killed his mother at their home in Pazhaya Indur.
-[@1,5,6] Thanthi TV reported that he stabbed Chinnapappa, 42, with a knife while
+[@1,5,6,7] Thanthi TV reported that he stabbed Chinnapappa, 42, with a knife while
 under the influence of cannabis, known locally as ganja, and that she died at
 the scene. [@1,6] The Hindu said he attacked her with an iron rod around 11:30
 p.m. on Thursday, 29 October, after she refused him money. [@2] The Hindu gave
@@ -87,3 +100,5 @@ Dinamalar, which gave his age as 20 and his mother's as 45, said he was drunk.
 [@4] The Hindu described him as inebriated at the earlier arrest. [@2] Indur
 police sent Chinnapappa's body to Dharmapuri government hospital for
 post-mortem, Dinakaran reported. [@3]
+
+In a statement, Indur police denied that Devaraj was under the influence of cannabis, saying he was addicted to alcohol and killed his mother in anger because he would not tolerate anyone questioning him. [@7] Chinnapappa urged Devaraj to give up drinking after he returned home, and he became angry when she scolded him, Tamil Spark reported. [@8]
