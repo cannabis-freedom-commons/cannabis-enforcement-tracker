@@ -30,6 +30,11 @@ sources:
     publisher: Navabharat
     date: 2026-11-01
     language: hi
+  - title: बरगी पुलिस-क्राइम ब्रांच का बड़ा एक्शन, 3.58 लाख के गांजे के साथ शातिर तस्कर गिरफ्तार
+    url: https://palpalindia.com/2026/11/01/Jabalpur-Bargi-Police-Crime-Branch-takes-major-action-arrests-notorious-smuggler-with-marijuana-worth-Rs-3-58-lakh.html
+    publisher: palpalindia
+    date: 2026-11-01
+    language: hi
 open_questions:
   - The reports date the crime branch tip-off to 31 October but do not separately date the bus search and arrest.
   - No court date, plea or sentence was reported.
@@ -39,21 +44,20 @@ open_questions:
 ---
 
 A joint team of the crime branch and Bargi police arrested a 23-year-old man on
-a passenger bus. [@1] Officers stopped the bus near Sagar Dhaba on National
-Highway 34 in Bargi. [@2] Police identified the passenger as Deepak Barman, a
-resident of Hanumantal. [@1]
+a passenger bus. [@1,3] Officers stopped the bus near Sagar Dhaba on National
+Highway 34 in Bargi. [@2,3] Police identified the passenger as Deepak Barman, a
+resident of Hanumantal. [@1,3]
 
 A search of his backpack and plastic bags found four packets holding 7 kg 158 g
-of ganja, or cannabis. [@1] Police valued the haul at about Rs 3.58 lakh and
-seized his Vivo mobile phone. [@1]
+of ganja, or cannabis. [@1,3] Police valued the haul at about Rs 3.58 lakh and
+seized his Vivo mobile phone. [@1,3]
 
 The crime branch had received information on 31 October that a man was bringing
 a large quantity of ganja from Seoni to Bargi on a Pawan bus. [@1] Bargi station
 house officer Nilesh Dohre said the bus, registration MP 50 ZD 1297, was stopped
 at a checkpoint on the highway. [@2] Barman matched the description given by the
-informer and was found sitting on the bus. [@1]
+informer and was found sitting on the bus. [@1,3]
 
 Police registered a case against him under Sections 8 and 20 of the Narcotic
-Drugs and Psychotropic Substances (NDPS) Act. [@1] They were questioning him
-about where the consignment came from and whom it was meant for. [@1]
-
+Drugs and Psychotropic Substances (NDPS) Act. [@1,3] They were questioning him
+about where the consignment came from and whom it was meant for. [@1,3]
