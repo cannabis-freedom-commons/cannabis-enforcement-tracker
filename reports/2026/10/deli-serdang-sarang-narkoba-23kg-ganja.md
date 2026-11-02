@@ -56,6 +56,11 @@ media:
     media_url: https://cdn-jjmn.jawapos.com/images/15/2026/11/01/kapolresta-deliserdang-kombes-muhammad-chaniago-wakapolresta-akbp-juliani-prihartini-kasat-reserse-narkoba-kompol-dr-fery-kusnadi-sh-dan-lainnya-saat-memperlihatkan-barang-bukti-dan-tersangkabatarasumut-pos-5G0Kh.webp
     publisher: Sumut Pos
     caption: 'Deli Serdang police chief Kombes Muhammad Chaniago, deputy chief AKBP Juliani Prihartini, narcotics unit head Kompol Fery Kusnadi and other officers display the seized drugs and suspects at a press conference. Photo: Batara / Sumut Pos'
+  - kind: photo
+    url: https://www.cnnindonesia.com/nasional/20261031144624-12-1421776/12-bandar-narkoba-di-deli-serdang-ditangkap-23-kg-sabu-ganja-disita/amp
+    media_url: https://akcdn.detik.net.id/visual/2026/10/31/polisi-tangkap-12-bandar-narkoba-di-deli-serdang-1793432296188_169.jpeg?w=480&q=90
+    publisher: CNN Indonesia
+    caption: Seized methamphetamine, cannabis and ecstasy from Operasi Sarang Narkoba on display.
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -136,6 +141,11 @@ sources:
     publisher: Tekape.co
     date: 2026-10-31
     language: id
+  - title: 12 Bandar Narkoba di Deli Serdang Ditangkap, 23 Kg Sabu-Ganja Disita
+    url: https://www.cnnindonesia.com/nasional/20261031144624-12-1421776/12-bandar-narkoba-di-deli-serdang-ditangkap-23-kg-sabu-ganja-disita/amp
+    publisher: CNN Indonesia
+    date: 2026-10-31
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -164,10 +174,13 @@ open_questions:
   - The page-2 text estimates circulation potentially reaching 94,173 people, while the existing report records 94,071 lives for the cannabis seizure; the difference is unresolved.
   - The caption describes five cases, while the existing report records 30 cases from the same operation; the five appear to be highlighted cases.
   - The headline rounds the methamphetamine to 22.9 kg, while the existing report uses the police detailed total of 23,010.24 grams.
+  - The CNN account rounds the ganja seizure to 23 kg, while the existing report uses the police detailed total of 23,517.86 grams (23.5 kg).
+  - The CNN account describes the remaining suspects only as dozens of users, without giving the 36-user breakdown recorded in the existing report.
+  - 31 October 2026 is the CNN publication date; the existing report dates the operation results presentation to 30 October 2026.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -175,7 +188,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
@@ -187,7 +200,7 @@ airport security attended. [@1,4] The police chief said the operation was part o
 the national police chief's programme to suppress drug trafficking and restore
 drug-affected areas. [@1,4]
 
-Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9]
+Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9,16]
 
 Muhammad said the operation was intended to narrow the space for drug offenders and to deter bandar and pengedar operating in Deli Serdang and nearby areas. [@11]
 
