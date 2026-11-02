@@ -63,6 +63,11 @@ sources:
     publisher: Yorumla
     date: 2026-11-02
     language: tr
+  - title: İstanbul Pendik'te 336 kilo skunk ele geçirildi · Haberizlenim
+    url: https://www.haberizlenim.com/istanbul-pendik-te-336-kilo-skunk-ele-gecirildi/198356
+    publisher: Haberizlenim
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The exact day of the operation is inferred as 1 November 2026 from both reports' wording that it occurred yesterday evening relative to their 2 November 2026 publication; no separate calendar date for the raid itself is given.
   - The suspect is identified only by the initials Ü.A.; his full name, age and nationality were not published.
@@ -75,17 +80,20 @@ open_questions:
   - The Yorumla article gives only its publication date of 2 November 2026 and no separate calendar date for the raid.
   - The Yorumla article does not name the detained suspect, describe the vehicle as a van, or give the driver initials Ü.A. reported elsewhere.
   - Whether the Yorumla page photo shows this seizure or repeats the same agency handout already listed is not established, so it is not listed as media.
+  - The Haberizlenim article gives only its 2 November 2026 publication date and no separate calendar date for the raid.
+  - The Haberizlenim article does not name the detained suspect, describe the vehicle beyond a suspicious vehicle, or give the driver initials Ü.A. reported elsewhere.
+  - Whether the Haberizlenim page photo is distinct from the photos already listed or repeats the same agency handout is not established.
 ---
 
 Istanbul narcotics police stopped a closed-box van on a highway in Pendik and
 detained its driver, identified only by the initials Ü.A. [@1,3] Officers took
 Ü.A. into custody at the scene and brought him to the police station for
 questioning. [@1] He was the only person reported detained in the operation.
-[@1,4,5,6] After his statement procedures at the station, he was expected to be
+[@1,4,5,6,7] After his statement procedures at the station, he was expected to be
 transferred to the courthouse. [@1]
 
 A search of the van’s cargo hold uncovered 336 kilograms 550 grams of skunk,
-which police seized. [@2,3,4,5,6] Officers had followed the van on the previous evening
+which police seized. [@2,3,4,5,6,7] Officers had followed the van on the previous evening
 as part of an investigation in Pendik, on Istanbul’s Anatolian side, before
 stopping it on the highway. [@2,5] Teams had carried out a series of inquiries in
 the district within the scope of that investigation. [@1]
