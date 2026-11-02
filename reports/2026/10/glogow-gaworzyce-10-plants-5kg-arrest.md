@@ -24,6 +24,11 @@ sources:
     publisher: Głogów Nasze Miasto
     date: 2026-11-02
     language: pl
+  - title: Namierzyli uprawę marihuany pod Głogowem
+    url: https://myglogow.pl/pl/11_dzieje-sie/194176_namierzyli-uprawe-marihuany-pod-glogowem.html
+    publisher: myglogow.pl
+    date: 2026-11-02
+    language: pl
 open_questions:
   - The exact village holding the property is not named, only a village near Głogów.
   - No separate day is given for the raid and arrest; 31 October 2026 is the court remand date used as the incident date, while 2 November 2026 is the article publication date.
@@ -31,19 +36,20 @@ open_questions:
   - The page image is captioned as an illustrative photo (Zdjęcie poglądowe), so it does not show this event and no media entry is added.
   - No court outcome beyond the three-month pre-trial detention is reported.
   - No value figure for the seized cannabis was published.
+  - 'The page labels its photo as illustrative (foto: ilustracyjne KPP), so no media entry is added.'
 ---
 
 Polkowice police traced a cannabis grow on a property in a village near Głogów
 and detained its 44-year-old keeper, a resident of Gmina Gaworzyce. [@1] The
-investigation in the case was run by police from Polkowice. [@1] Głogów district
+investigation in the case was run by police from Polkowice. [@1,2] Głogów district
 prosecutor Marek Wójcik charged him with manufacturing and processing
 significant quantities of intoxicants from March to October 2026. [@1] After the
 charges were presented, the prosecutor asked the court to detain the man pending
 trial. [@1] On 31 October the Głogów District Court placed him in pre-trial
-detention for three months. [@1] The detainee confessed to the charges. [@1]
+detention for three months. [@1,2] The detainee confessed to the charges. [@1,2]
 
 At the property officers found what they described as cannabis other than
-fibrous hemp, securing at least 10 cultivated plants. [@1] Officers described
+fibrous hemp, securing at least 10 cultivated plants. [@1,2] Officers described
 the plants as significant quantities of cannabis other than fibrous hemp,
 meaning marijuana. [@1] They also seized large quantities of herbal material
 processed most likely on site, which police put at at least 5 kilograms of dried
@@ -53,4 +59,3 @@ imprisonment. [@1]
 Police say they are still establishing what the man intended to do with the
 dried cannabis he produced. [@1] Officers found the grow and at least 5 kg of
 ready dried material on a property in a village near Głogów. [@1]
-
