@@ -1,0 +1,57 @@
+---
+date: 2026-11-01
+country: bd
+place: Bismillah Filling Station, Sonargaon, Narayanganj
+coordinates: [23.66, 90.61]
+precision: locality
+type: arrest
+also: [seizure]
+title: Woman arrested in Sonargaon with 4.2 kg ganja in biscuit packet
+summary: >-
+  SRB-11 arrested 22-year-old Aklima at a highway checkpoint in Sonargaon on 1 November 2026 after finding about 4.2 kg of cannabis hidden in a Lexus biscuit packet. She was travelling as a passenger on a Chattogram-to-Dhaka bus and a Narcotics Control Act case was filed at Sonargaon Police Station.
+figures:
+  arrested: 1
+  kg_seized: 4.2
+media:
+  - kind: photo
+    url: https://www.narayanganjtimes.com/outsite-city/sonargaon/38401
+    media_url: https://www.narayanganjtimes.com/media/imgAll/2025July/IMG-20261102-WA0001-2611021105.jpg
+    publisher: Narayanganj Times
+    caption: Photo accompanying the report on the biscuit-packet cannabis seizure in Sonargaon
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: bfd856ef7437645f6db4a7db0c89a9a5
+tags: [sonargaon, narayanganj, ganja, highway-checkpoint]
+sources:
+  - title: বিস্কুটের প্যাকেটে গাঁজা, সোনারগাঁয়ে নারী গ্রেপ্তার
+    url: https://www.narayanganjtimes.com/outsite-city/sonargaon/38401
+    publisher: Narayanganj Times
+    date: 2026-11-02
+    language: bn
+open_questions:
+  - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
+  - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
+  - No court outcome beyond the filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
+---
+
+SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
+allegedly smuggling cannabis concealed inside biscuit packets using a novel
+technique. [@1] An SRB-11 Sadar Company operational team in Narayanganj set up a
+highway checkpoint on secret information and detained Aklima as she travelled
+disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1] The
+arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
+and is the wife of Rajesh Sikder. [@1]
+
+Officers searched the Lexus biscuit packet she was carrying and recovered 4 kg
+200 grams of ganja, the local term for cannabis, according to the SRB-11
+account. [@1] The operation took place at about 7:30 pm on Sunday, 1 November,
+in front of the Bismillah Filling Station under Sonargaon Police Station on the
+Dhaka-Chattogram highway. [@1]
+
+In its press account, SRB-11 described Aklima as an active member of an
+organised drug-trafficking ring who had long collected large consignments of
+banned drugs from border areas and carried, supplied and sold them in
+Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1] A
+regular case has been filed against her at Sonargaon Police Station under the
+Narcotics Control Act. [@1]
+
