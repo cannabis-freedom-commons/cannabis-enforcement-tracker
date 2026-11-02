@@ -37,6 +37,11 @@ sources:
     publisher: Agence Arabe Syrienne de Presse – SANA
     date: 2026-11-01
     language: fr
+  - title: سورية تضبط نصف طن من الحشيش.. والأردن يحبط تهريب مليوني حبة مخدرة
+    url: https://www.alaraby.co.uk/society/%D8%B3%D9%88%D8%B1%D9%8A%D9%87-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%86%D8%B5%D9%81-%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%AD%D8%A8%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9
+    publisher: العربي الجديد
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The operations' exact date is not given; 31 October 2026 is the publication date of the article and agency post.
   - The department reports arrests but does not give their number or identify the detainees.
@@ -56,7 +61,7 @@ outcomes. [@1]
 
 The reported seizure included 9.571 kilograms of hashish and 21 grams of
 marijuana; converting 21 grams to 0.021 kilograms gives a combined cannabis
-weight of 9.592 kilograms. [@1,3] The same list included 51,000 Captagon pills and
+weight of 9.592 kilograms. [@1,3,4] The same list included 51,000 Captagon pills and
 5,430 pregabalin pills as well as a military handgun, separate items from the
 hashish and marijuana quantities. [@1] The agency said those arrested were
 referred to the competent authorities to complete investigations and take the
