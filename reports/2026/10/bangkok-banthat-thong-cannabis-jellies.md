@@ -116,6 +116,11 @@ sources:
     publisher: COP'S Magazine
     date: 2026-11-01
     language: th
+  - title: ทลายแหล่งจำหน่ายเยลลี่ผสมกัญชา พบ 3พ่อแม่ลูกรับประทานชักเกรง
+    url: https://th.headtopics.com/news/360736213634361206530-89420677
+    publisher: Head Topics
+    date: 2026-11-01
+    language: th
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -137,17 +142,19 @@ open_questions:
   - The submitted article says the search was “today (1 Nov.)” on its 1 November 2026 publication date, while the existing report uses 29 October 2026 from the FDA statement.
   - The page carries eight images with only the generic article title as caption and no credit, so no media entry is added rather than repeating raid photos already linked.
   - This page gives no explicit raid date beyond its 1 November 2026 publication date, so it does not resolve the existing 29 October versus 1 November dating.
+  - The submitted page lede says cannabis flower and jellies worth over 500,000 baht were found, while its body values the 90 seized jellies at 50,000 baht; the existing report uses 50,000 baht.
+  - The page image carries only the generic caption on Thailand news with no event-specific caption or credit, so no media entry is added.
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13] The
-shop occupied the second floor. [@1,4,5,7,14,15,16] Officers seized 90 cannabis-mixed jelly
+shop occupied the second floor. [@1,4,5,7,14,15,16,17] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16] The FDA put the value of the jellies at 50,000 baht.
+Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17] The FDA put the value of the jellies at 50,000 baht.
 [@2,5]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16] A 26-year-old woman
+Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9,16] Officers told her
 she faced a charge of selling a controlled herb without permission. [@3,7,14] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
@@ -157,7 +164,7 @@ THC and CBD levels exceeded the legal limit, which could bring further charges.
 
 The search followed a case in Khlung district, Chanthaburi province, where a
 family fell severely ill after eating cannabis sweets, with convulsions and loss
-of consciousness that required ventilators. [@1,7,8,9,11,13,15] The FDA warned parents to watch
+of consciousness that required ventilators. [@1,7,8,9,11,13,15,17] The FDA warned parents to watch
 for unlabelled sweets marked with cannabis leaves or the words Cannabis, CA or
 THC. [@1]
 
