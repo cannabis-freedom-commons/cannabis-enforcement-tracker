@@ -49,6 +49,10 @@ sources:
     url: https://www.westyorkshire.police.uk/news-appeals/ten-jailed-industrial-supply-cocaine-and-cannabis
     publisher: West Yorkshire Police
     date: 2026-10-31
+  - title: West Yorkshire drugs operation dismantled as ten gang members brought down and guns seized - YorkshireLive
+    url: https://www.examinerlive.co.uk/news/west-yorkshire-news/west-yorkshire-drugs-operation-dismantled-34844578.amp
+    publisher: Yorkshire Live
+    date: 2026-10-31
 open_questions:
   - No total was published for the number of people arrested in the investigation; only Mohammed Hussain's November 2024 arrest is dated.
   - The 20kg of cannabis is the amount recovered when Hussain was arrested, not the total the gang supplied, for which no figure was given.
@@ -77,10 +81,10 @@ Mohammed Hussain, 33, of Lemington Avenue, Halifax, was identified as a central
 figure, running the hubs from a flat in the Holmefield area and a property on
 Saville Park Road. [@1,5] His right-hand man, Zahid Shakoor, 34, was found at both
 properties. [@1] Hussain was arrested in November 2024 after an exchange led
-officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1,5]
+officers to recover 4kg of cocaine, 20kg of cannabis and £26,970 in cash. [@1,5,6]
 Further searches uncovered two stolen shotguns and industrial-scale drug
-paraphernalia. [@1] Following Hussain's arrest, the gang was disbanded and other
-members were arrested. [@1]
+paraphernalia. [@1,6] Following Hussain's arrest, the gang was disbanded and other
+members were arrested. [@1,6]
 
 Zahid Shakoor, 34, of Halifax, was jailed for 13 years, and Muhammed Hussain,
 33, of Halifax, for 12 years for drugs offences, firearms offences and
