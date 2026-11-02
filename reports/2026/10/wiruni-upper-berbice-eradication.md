@@ -20,7 +20,7 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [wiruni, berbice, eradication]
 open_questions:
-  - A second outlet (Guyana Chronicle) carried the same figures in its headline, but its page could not be opened, so every fact above comes from the iNews Guyana report.
+  - A second outlet (Guyana Chronicle) carried the same figures in its headline, but its page could not be opened; a third account (Guyana Inquirer, read in its archived copy) corroborates the field-by-field details.
   - No arrests were made and no suspects were named; investigations were said to be ongoing.
 sources:
   - title: Police destroy ganja fields along Berbice River
@@ -32,6 +32,12 @@ sources:
     publisher: Guyana Chronicle
     date: 2026-10-13
     locator: Headline corroboration only; article page blocked by a script check and could not be opened
+  - title: Police destroy ganja fields along Berbice River
+    url: https://guyanainquirer.com/police-destroy-ganja-fields-along-berbice-river/
+    archived: https://web.archive.org/web/20261013030504/https://guyanainquirer.com/police-destroy-ganja-fields-along-berbice-river/
+    publisher: Guyana Inquirer
+    date: 2026-10-12
+    locator: Page no longer loads; read in its 13 October 2026 Wayback capture
 ---
 
 A 12-hour drug eradication exercise at Wiruni, Upper Berbice River, on Sunday 11 October 2026
@@ -53,4 +59,5 @@ investigations are ongoing. [@1]
 
 The Guyana Chronicle headline for the same Wiruni operation matches these figures — 37,000
 plants, 40 pounds of dried cannabis and a $26.8M value — though its article page could not be
-opened. [@2]
+opened. [@2] The Guyana Inquirer's account of the same exercise, read in its archived copy,
+matches the field-by-field details above. [@3]
