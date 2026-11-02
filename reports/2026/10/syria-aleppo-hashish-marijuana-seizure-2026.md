@@ -42,6 +42,11 @@ sources:
     publisher: العربي الجديد
     date: 2026-11-01
     language: ar
+  - title: حلب.. تفكيك شبكات تجارة مخدرات وضبط كميات من المواد المخدرة
+    url: https://sana.sy/governorates/aleppo/2622497/
+    publisher: الوكالة العربية السورية للأنباء – سانا
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The operations' exact date is not given; 31 October 2026 is the publication date of the article and agency post.
   - The department reports arrests but does not give their number or identify the detainees.
@@ -52,17 +57,17 @@ open_questions:
 
 The Anti-Narcotics Department said its branch in Aleppo Governorate carried out
 several separate security operations against networks active in the trade and
-promotion of narcotic substances. [@2,3] One of the operations was conducted in
+promotion of narcotic substances. [@2,3,5] One of the operations was conducted in
 cooperation with the Road Security branch; the department said the operations
-dismantled the networks and led to the arrest of a number of their members. [@2]
+dismantled the networks and led to the arrest of a number of their members. [@2,5]
 The authorities described the drug-trading and promotion networks as the focus
 of those operations, and said arrests and seizures were among the stated
 outcomes. [@1]
 
 The reported seizure included 9.571 kilograms of hashish and 21 grams of
 marijuana; converting 21 grams to 0.021 kilograms gives a combined cannabis
-weight of 9.592 kilograms. [@1,3,4] The same list included 51,000 Captagon pills and
+weight of 9.592 kilograms. [@1,3,4,5] The same list included 51,000 Captagon pills and
 5,430 pregabalin pills as well as a military handgun, separate items from the
 hashish and marijuana quantities. [@1] The agency said those arrested were
 referred to the competent authorities to complete investigations and take the
-necessary legal measures against them. [@2,3]
+necessary legal measures against them. [@2,3,5]
