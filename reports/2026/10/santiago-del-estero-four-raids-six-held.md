@@ -38,6 +38,11 @@ sources:
     publisher: Nuevo Diario Web
     date: 2026-10-31
     language: es
+  - title: Cuatro allanamientos antidroga en la Capital dejaron seis detenidos y el secuestro de cocaína, marihuana y más de $4 millones
+    url: https://www.radiolv11.com.ar/noticia/cuatro-allanamientos-antidroga-en-la-capital-dejaron-seis-detenidos-y-el-secuestro-de-cocaina-marihuana-y-mas-de-4-millones-
+    publisher: Radio LV11
+    date: 2026-10-31
+    language: es
 open_questions:
   - The reports give no separate date for the raids; 30 October 2026 is the publication date of the first accounts, and Nuevo Diario Web published on 31 October.
   - El Liberal and Diario Panorama count five people detained and a sixth apprehended, while Nuevo Diario Web's headline speaks of six arrested; this report counts all six as taken into custody.
@@ -45,20 +50,21 @@ open_questions:
   - No value was placed on the drugs; the 4,339,790 pesos is cash seized, not a valuation.
   - 'Left out, as its quotation was not found in Diario Panorama: Six people were taken into custody when police carried out four simultaneous raids on homes in the Campo Contreras and Inmigrantes neighbourhoods of Santiago del Estero, the provincial capital.'
   - 'Left out, as its quotation was not found in Nuevo Diario Web: Previous inquiries had detected a steady flow of buyers at different times of day.'
+  - The article gives no separate date for the raids; 31 October 2026 is its publication date.
+  - Whether the lead photo on the submitted page shows this seizure could not be verified from its caption, so it is not listed as media.
 ---
 
 The raids were ordered by a court in an investigation under National Law 23.737,
 Argentina's drug law, and targeted homes where drugs were sold by the dose, a
 practice known locally as narcomenudeo. [@1] Five people were detained: four men
-aged between 27 and 39 and a 64-year-old woman. [@1] A 32-year-old woman was
+aged between 27 and 39 and a 64-year-old woman. [@1,4] A 32-year-old woman was
 also apprehended and left at the disposal of the courts. [@2]
 
 Officers seized 118 wrappers of cocaine weighing 18.75 grams in total and 33
-wrappers of marijuana weighing 35.75 grams. [@1] They also seized 4,339,790
+wrappers of marijuana weighing 35.75 grams. [@1,4] They also seized 4,339,790
 pesos in cash, eleven mobile phones, nylon cuttings and a pair of scissors, all
 added to the case file. [@1] Investigators described the cash as the direct
 proceeds of the sales. [@3]
 
 The case continues under the direction of the judicial authority, which is
 seeking to establish what happened. [@1]
-
