@@ -30,6 +30,14 @@ sources:
     url: https://www.dublinlive.ie/news/dublin-news/man-arrested-296000-worth-cannabis-34850596
     publisher: Dublin Live
     date: 2026-11-02
+  - title: Man Arrested As €296,000 Worth Of Cannabis Found In Vehicle At Dublin Port On Halloween
+    url: https://www.nova.ie/man-arrested-as-e296000-worth-of-cannabis-found-in-vehicle-at-dublin-port-on-halloween/
+    publisher: Radio Nova
+    date: 2026-11-02
+  - title: Revenue seize herbal cannabis worth over €296,000 at Dublin Port
+    url: https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-110226-herbal-cannabis.aspx
+    publisher: Revenue Irish Tax and Customs
+    date: 2026-11-02
 open_questions:
   - Only one account of this event could be opened, so no second source confirms or adds to the seizure and arrest.
   - The article gives no name, age, nationality, charge or court outcome for the arrested driver.
@@ -39,19 +47,18 @@ open_questions:
 
 The seizure was made at Dublin Port on Halloween, Saturday 31 October 2026, when
 Revenue officers stopped and searched a vehicle that had arrived from France.
-[@1] The vehicle was coming into Ireland from France and was examined during a
+[@1,2] The vehicle was coming into Ireland from France and was examined during a
 routine search. [@1] The driver of the vehicle was arrested by Gardaí attached
-to Store Street Garda Station. [@1] The arrested man was being held in a Dublin
+to Store Street Garda Station. [@1,2] The arrested man was being held in a Dublin
 Garda station. [@1]
 
 Officers found approximately 21.2 kg of herbal cannabis in the vehicle at Dublin
-Port. [@1] Revenue put the estimated value of the cannabis at over €296,000.
-[@1] Revenue described the examination as routine profiling and a routine search
+Port. [@1,2] Revenue put the estimated value of the cannabis at over €296,000.
+[@1,3] Revenue described the examination as routine profiling and a routine search
 of the vehicle. [@1]
 
 Revenue said the seizure forms part of its ongoing joint investigations
 targeting organised crime groups involved in the importation, sale and supply of
 illegal drugs. [@1] Revenue confirmed that investigations into the matter were
-ongoing. [@1] Revenue asked businesses or members of the public with information
+ongoing. [@1,3] Revenue asked businesses or members of the public with information
 regarding drug smuggling to contact it in confidence on 1800 295 295. [@1]
-
