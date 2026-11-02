@@ -45,6 +45,11 @@ media:
     media_url: https://itapuanoticias.tv/wp-content/uploads/2026/10/877029905_1178503974505036_3592860381621934028_n-650x488.jpg
     publisher: Itapúa en Noticias
     caption: "Aerial view of the cleared and burning cannabis field in San Lorenzo. Photo: CODI-FTC / Itapúa en Noticias."
+  - kind: photo
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/11/01/destruyen-9300-kilogramos-de-marihuana-en-itapua/
+    media_url: https://www.latribuna.com.py/resizer/v2/BMG7PZBPJBDANIT4Z3ETYCMDCA.jpg?smart=true&width=800&height=450&quality=75&auth=2215d81220bc4044752182fa67abb1475b81294cca5cca362ed5cf26fdf0ed10
+    publisher: La Tribuna
+    caption: 'A parcel of the marijuana plantings that were destroyed in San Lorenzo. Photo: La Tribuna.'
 sources:
   - title: Eliminan marihuana por valor de USD 1.350.000 en Itapúa
     url: https://www.lanacion.com.py/pais_edicion_impresa/2026/11/01/eliminan-marihuana-por-valor-de-usd-1350000-en-itapua/
@@ -55,12 +60,17 @@ sources:
     url: https://itapuanoticias.tv/erradican-9-300-kilos-de-marihuana-en-san-pedro-del-parana/
     publisher: Itapúa en Noticias
     language: es
+  - title: Destruyen 9.300 kilogramos de marihuana en Itapúa
+    url: https://www.latribuna.com.py/sucesos/policiales/2026/11/01/destruyen-9300-kilogramos-de-marihuana-en-itapua/
+    publisher: La Tribuna
+    date: 2026-11-01
+    language: es
 ---
 
 The Joint Task Force South (FTC Sur), with soldiers from the Military
 Intelligence Battalion, destroyed illegal marijuana plantations in the San
 Lorenzo community of San Pedro del Paraná district, Itapúa, on 31 October 2026.
-[@1,2] The operation was carried out at the request of the Public Prosecutor's
+[@1,2,3] The operation was carried out at the request of the Public Prosecutor's
 Office, under prosecutor Rocío Valdez of the specialised anti-drug unit. [@1,2]
 
 Prosecutors are investigating a suspected criminal organisation that the
@@ -68,8 +78,8 @@ operation's participants say was buying weapons with proceeds from drug
 trafficking. [@1,2]
 
 Officers destroyed three hectares of plants, a makeshift camp and 5 kg of
-seeds, and burned 300 kg of chopped marijuana stacked in bags. [@1,2] The total
-destroyed was 9,300 kg of marijuana, the authorities said. [@1,2]
+seeds, and burned 300 kg of chopped marijuana stacked in bags. [@1,2,3] The total
+destroyed was 9,300 kg of marijuana, the authorities said. [@1,2,3]
 
 They estimated the organisations would lose about USD 1,350,000 in sales on the
 foreign market. [@1,2]
