@@ -131,6 +131,11 @@ sources:
     publisher: Metro24Jam.co.id
     date: 2026-10-30
     language: id
+  - title: 22,9 Kg Sabu dan 23,5 Kg Ganja Disita Polresta Deli Serdang
+    url: https://tekape.co/229-kg-sabu-dan-235-kg-ganja-disita-polresta-deli-serdang/2/
+    publisher: Tekape.co
+    date: 2026-10-31
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -155,10 +160,14 @@ open_questions:
   - 'Left out, as its quotation was not found in Editorial24jam.com: The third case was at Dusun I in Seituan village, Pantai Labu, Deli Serdang, on the afternoon of 25 October 2026.'
   - Metro24Jam.co.id labels the 30 October 2026 presentation 'Kamis' (Thursday), although 30 October 2026 was a Friday; the report keeps the date and the weekday given in its earlier sources.
   - The page's only photograph has no caption or credit and appears to show the same press conference already documented by other outlets, so it was not added as a separate media entry.
+  - The supplied page-2 capture details only methamphetamine cases and gives no cannabis breakdown; the 9,046 gram and 14,471.86 gram ganja lots are on page 1 of the same article.
+  - The page-2 text estimates circulation potentially reaching 94,173 people, while the existing report records 94,071 lives for the cannabis seizure; the difference is unresolved.
+  - The caption describes five cases, while the existing report records 30 cases from the same operation; the five appear to be highlighted cases.
+  - The headline rounds the methamphetamine to 22.9 kg, while the existing report uses the police detailed total of 23,010.24 grams.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -172,7 +181,7 @@ methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
 
 The results were presented at Deli Serdang police headquarters on Friday 30
 October 2026 by police chief Kombes Pol Muhammad, with the head of the Deli
-Serdang narcotics agency (BNNK) beside him. [@1,4,7] Representatives of the Deli
+Serdang narcotics agency (BNNK) beside him. [@1,4,7,15] Representatives of the Deli
 Serdang regent, the Lubuk Pakam district court and prosecutor's office, and
 airport security attended. [@1,4] The police chief said the operation was part of
 the national police chief's programme to suppress drug trafficking and restore
