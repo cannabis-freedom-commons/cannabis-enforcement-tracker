@@ -74,6 +74,10 @@ sources:
     url: https://timesofindia.indiatimes.com/city/ahmedabad/surat-couple-arrested-at-ahmedabad-airport-with-13kg-of-marijuana/articleshow/135435624.cms
     publisher: The Times of India
     date: 2026-11-02
+  - title: Ahmedabad Customs seize 13 kg of hydroponic marijuana worth Rs 13 crore
+    url: https://telanganatoday.com/ahmedabad-customs-seize-13-kg-of-hydroponic-marijuana-worth-rs-13-crore
+    publisher: Telangana Today
+    date: 2026-11-02
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -92,13 +96,15 @@ open_questions:
   - The page's only image is captioned as a symbolic picture with PTI credit and does not show this seizure, so no media entry is listed.
   - The page URL slug refers to two men while the article body reports one woman and one man from Surat; the body account is used for the match.
   - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
+  - Whether the page's lead image shows this seizure cannot be established from its caption and lack of credit, so no media entry is listed.
+  - The submitted page gives 2 November 2026 as its publication date and says the seizure was made on Sunday, consistent with the existing report's incident date of 1 November 2026.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
@@ -108,7 +114,7 @@ term for cannabis. [@1,2,5,9,10,11] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
