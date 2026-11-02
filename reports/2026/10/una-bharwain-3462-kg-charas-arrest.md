@@ -65,6 +65,8 @@ open_questions:
   - News4Himachal's headline describes the charas as worth lakhs but gives no figure.
   - Police did not say where the charas was produced or where it was being taken.
   - The submitted source gives the second suspect's full name as Rahul Bhatol of Babehad, while the existing report shortens it to Rahul.
+  - The attachment page gives only its publication date of 1 November 2026 and no separate day for the stop; the event date of 31 October 2026 continues to rely on earlier sources.
+  - The attachment page says SIU team while the existing report says Una district police; SIU is treated as part of the same police action, not a separate event.
 ---
 
 Two men on a motorcycle were stopped near the Shiv temple in Bharwain late on 31
