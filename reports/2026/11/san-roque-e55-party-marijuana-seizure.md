@@ -40,6 +40,11 @@ sources:
     publisher: Infobae
     date: 2026-11-02
     language: es
+  - title: Secuestraron éxtasis, ketamina, mdma y marihuana en una fiesta electrónica en Córdoba
+    url: https://www.infobae.com/sociedad/policiales/2026/11/02/secuestraron-extasis-ketamina-mdma-y-marihuana-en-una-fiesta-electronica-en-cordoba/?outputType=amp-type
+    publisher: Infobae
+    date: 2026-11-02
+    language: es
 open_questions:
   - No separate weight or dose count for the marijuana was published, so no cannabis quantity is recorded.
   - The reports name no detained persons, arrests, charges or court outcome.
@@ -53,10 +58,10 @@ anti-narcotics operation during an electronic party in the town of San Roque.
 [@1] Officers recorded 23 positive procedures, described as a mix of checks on
 attendees and drug finds inside and around the events complex. [@2] The
 operation took place at an events complex located on provincial route E55, the
-access road cited for the San Roque venue. [@1]
+access road cited for the San Roque venue. [@1,3]
 
 During the interventions officers seized ecstasy tablets, MDMA, ketamine and
-several doses of marijuana. [@1] The marijuana formed the cannabis component of
+several doses of marijuana. [@1,3] The marijuana formed the cannabis component of
 a mixed seizure that also included ecstasy, MDMA and ketamine. [@2]
 
 Investigators from the Dirección General de Investigaciones Antinarcotráfico
@@ -65,4 +70,3 @@ teams specialised in intervention and drug detection. [@1] The deployment
 combined controls on partygoers with dedicated detection work, including trained
 dogs, during the event. [@2] The FPA presents such preventive checks at mass
 events as part of its specialist anti-drug tasks. [@2]
-
