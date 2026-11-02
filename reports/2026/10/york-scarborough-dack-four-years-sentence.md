@@ -24,12 +24,21 @@ sources:
     url: https://www.hellorayo.co.uk/hits-radio/north-yorkshire/news/scarborough-man-jailed-crypto-drug-dealing
     publisher: Hits Radio North Yorkshire
     date: 2026-10-23
+  - title: 'Il pensait son trafic intraçable grâce au Bitcoin : la police a saisi ses Rolex et l''a envoyé 4 ans en prison'
+    url: https://bourseinside.fr/crypto/il-pensait-son-trafic-intracable-grace-au-bitcoin-la-police-a-saisi-ses-rolex-et-la-envoye-4-ans-en-prison/
+    publisher: Bourse Inside
+    date: 2026-10-31
+    language: fr
 open_questions:
   - A confiscation hearing under proceeds-of-crime law was expected next year; its outcome is not in these reports.
+  - The new source gives the supply period as 17 February 2022 to 23 April 2026, more precise than but consistent with the existing February 2022 to April 2026 range.
+  - The lead photo on the Bourse Inside page is captioned only with the article title and cannot be confirmed to show this seizure, raid or court, so no media entry is included.
 ---
 
-York Crown Court jailed Benjamin Dack, 28, of no fixed address from the Scarborough area, for four years on 23 October 2026 for a large-scale cannabis supply operation. [@1,2] He had pleaded guilty to possessing cannabis with intent to supply on 22 April 2026, being concerned in its supply between February 2022 and April 2026, and possessing criminal property. [@1,2]
+York Crown Court jailed Benjamin Dack, 28, of no fixed address from the Scarborough area, for four years on 23 October 2026 for a large-scale cannabis supply operation. [@1,2,3] He had pleaded guilty to possessing cannabis with intent to supply on 22 April 2026, being concerned in its supply between February 2022 and April 2026, and possessing criminal property. [@1,2,3]
 
 Prosecutors said he dealt for more than four years, including in front of children and by exploiting a cancer patient, advertising on Instagram and Telegram and recruiting runners. [@1] Police put his takings above £125,000, including £63,927 received in cryptocurrency, and seized several kilos of cannabis worth up to £40,000 on the street as well as Bitcoin worth £4,104 and £7,580 in cash. [@1,2]
 
 The investigation began in 2023, and though arrested five times he kept dealing; on 22 April 2026 he was stopped for a motoring offence in Scarborough, tried to swallow cannabis and hid linked items in bushes before fleeing through a window and being caught. [@1,2] Most of the dealing was in Scarborough with links further afield. [@1]
+
+A proceeds-of-crime confiscation hearing for the seized bitcoin, cash and watches is scheduled for March 2027. [@3]
