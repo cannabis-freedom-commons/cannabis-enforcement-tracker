@@ -29,11 +29,18 @@ sources:
     publisher: Ke se dice
     date: 2026-10-30
     language: es
+  - title: Un control de carretera destapó 80 kilos de marihuana creepy en Puerto Boyacá
+    url: https://oronoticias.tv/judicial/un-control-de-carretera-destapo-80-kilos-de-marihuana-creepy-en-puerto-boyaca/
+    publisher: Oro Noticias
+    date: 2026-11-01
+    language: es
 open_questions:
   - The article gives no separate date for the stop; 30 October 2026 is its publication date.
   - No names, ages or official value of the load were published.
   - Only this Ke se dice report of the Puerto Serviez stop could be opened.
   - The lead photo is credited only as supplied, so it is linked as the article's image of this seizure rather than described in more detail.
+  - The Oro Noticias article is dated 1 November 2026 while the existing report is dated 30 October 2026; neither gives a separate day for the roadside stop.
+  - The page carries a lead photo of the seizure and arrests that is not listed as media here to avoid duplicating the supplied police handout already linked from the existing report.
 ---
 
 Three people travelling in a Chevrolet were arrested after police found 160
@@ -43,17 +50,16 @@ left two men ordered held in a prison and a woman under house arrest. [@1]
 
 National Police officers of the Transit and Transport section were checking
 vehicles at kilometre 130+200 of the Honda–Río Ermitaño road, in the Puerto
-Serviez sector. [@1] During the inspection they found three canvas bags holding
-160 packets of marijuana in a Chevrolet. [@1] The National Police said the load
+Serviez sector. [@1,2] During the inspection they found three canvas bags holding
+160 packets of marijuana in a Chevrolet. [@1,2] The National Police said the load
 was about 80 kilograms of creepy marijuana and that the three people were caught
 in the act in Puerto Boyacá. [@1] Officers also seized five mobile phones and
-immobilised the car used to carry the drug. [@1]
+immobilised the car used to carry the drug. [@1,2]
 
 The three occupants were arrested for trafficking, manufacturing or carrying
 narcotics and handed to the Attorney General's Office, the Fiscalía General de
 la Nación. [@1] After preliminary hearings, a judge ordered the two men held in
-a prison and the woman held at home. [@1] All three remain linked to the case
+a prison and the woman held at home. [@1,2] All three remain linked to the case
 while the investigation continues. [@1] The National Police said it would keep
 checks on Magdalena Medio road corridors to stop drug shipments through the
 region. [@1]
-
