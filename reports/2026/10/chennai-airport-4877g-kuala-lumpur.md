@@ -37,6 +37,11 @@ sources:
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
     publisher: DT Next
     date: 2026-11-02
+  - title: 'சென்னை ஏர்போர்ட்: ரூ.1.71 கோடி மதிப்புள்ள ஹைட்ரோபோனிக் கஞ்சா பறிமுதல். Illegal Hydroponic Cannabis Worth ₹1.71 Crore Seized at Chennai Airport.'
+    url: https://www.thanthitv.com/news/tamilnadu/chennai-airport-large-quantities-of-illegal-items-seized-at-chennai-airport
+    publisher: Thanthi TV
+    date: 2026-11-01
+    language: ta
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -47,6 +52,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Thanthi: Officers questioned the woman about whether she had links to an international drug-trafficking gang and whom she intended to deliver the cannabis to.'
   - DT Next gives the woman's age as 32; Daily Thanthi, the account used in the existing report, gives 28, and the report keeps 28.
   - DT Next reports that she was produced before a magistrate but does not name the charge or the magistrate's order.
+  - The Thanthi TV page gives only its publication date of 01 Nov 2026 and no separate seizure date, so the event date remains 31 October 2026 from the existing report.
+  - The page includes an embedded video whose visual content showing the seizure itself could not be verified from the text capture, so no media entry is made.
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
@@ -56,14 +63,14 @@ media:
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1,3,4] She had flown in from the capital, Kuala Lumpur, and
-was 28 years old. [@1] Hindustan Times described her as an Indian woman. [@2,3]
+arrived from Malaysia. [@1,3,4,5] She had flown in from the capital, Kuala Lumpur, and
+was 28 years old. [@1,5] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
 
 The search found 4.877 kg of high-grade hydroponic cannabis in 23 packets
-disguised as food. [@1] Daily Thanthi put its international value at ₹1.71
-crore. [@1] Hindustan Times reported that the drug was in 15 transparent packets
+disguised as food. [@1,5] Daily Thanthi put its international value at ₹1.71
+crore. [@1,5] Hindustan Times reported that the drug was in 15 transparent packets
 concealed inside eight food packets in her checked-in trolley bag. [@2,3]
 
 An official said further investigation was under way. [@2,3] Customs' intelligence
