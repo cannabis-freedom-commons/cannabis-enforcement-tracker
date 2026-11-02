@@ -48,6 +48,11 @@ sources:
     publisher: Krusial
     date: 2026-11-01
     language: id
+  - title: Polda Aceh Bongkar Ladang Ganja 104,86 Hektare, 157 Ribu Batang Dimusnahkan
+    url: https://sinata.id/polda-aceh-bongkar-ladang-ganja-10486-hektare-157-ribu-batang-dimusnahkan
+    publisher: SINATA.ID
+    date: 2026-11-01
+    language: id
 open_questions:
   - No arrests, suspects or charges were reported from the two-day operation.
   - The accounts give no breakdown of area or plant numbers by district, and no separate figure for dried cannabis; 78.645 tonnes is the police estimate of the total weight of the plants destroyed.
@@ -57,13 +62,13 @@ open_questions:
 
 Aceh provincial police and the Aceh provincial narcotics agency (BNNP Aceh)
 destroyed cannabis fields across six district police jurisdictions in Aceh over
-two days, from 31 October to 1 November 2026. [@1,4,5] The fields were in the areas
+two days, from 31 October to 1 November 2026. [@1,4,5,6] The fields were in the areas
 policed by the Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and
-Nagan Raya district police. [@1,4,5]
+Nagan Raya district police. [@1,4,5,6]
 
-Officers cleared and destroyed about 104.86 hectares in the sweep. [@2,4,5] The
+Officers cleared and destroyed about 104.86 hectares in the sweep. [@2,4,5,6] The
 joint teams destroyed about 157,290 cannabis plants, an estimated 78.645 tonnes
-in total. [@2,4,5] The provincial police's drug directorate chief, Kombes Pol.
+in total. [@2,4,5,6] The provincial police's drug directorate chief, Kombes Pol.
 Gazali Ahmad, gave the figures through the spokesman. [@1,4]
 
 Aceh police spokesman Kombes Pol. Joko Krisdiyanto said the operation aimed to
