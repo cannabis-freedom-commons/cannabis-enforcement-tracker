@@ -26,6 +26,11 @@ sources:
     publisher: Huelva Información
     date: 2026-11-02
     language: es
+  - title: Condenada a dos años de prisión por intentar introducir hachís, cocaína y heroína en la cárcel de Huelva
+    url: https://www.huelvainformacion.es/huelva/condenada-anos-prision-introducir-hachis_0_2008406764.html
+    publisher: Huelva Información
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives the offence date of 14 January 2025 but no separate sentence date; 2 November 2026, the article's publication date, is used as the incident date.
   - No second account of this sentencing could be found and opened, so the report rests on a single source.
@@ -36,17 +41,17 @@ open_questions:
 
 The Provincial Court of Huelva sentenced a woman to two years in prison for
 trying to take hashish, cocaine and heroin into Huelva Prison while visiting an
-inmate. [@1] The court convicted her of a crime against public health in an
+inmate. [@1,2] The court convicted her of a crime against public health in an
 agreed judgment and ordered her to pay a fine of 2,636.73 euros. [@1] The court
 suspended enforcement of the prison term for two years because the sentence did
 not exceed that limit and she had no criminal record. [@1]
 
 The events date to 14 January 2025, when she arrived at the prison visitors'
-entrance intending to meet one of the inmates. [@1] During the search at the
+entrance intending to meet one of the inmates. [@1,2] During the search at the
 access control, National Police officers found she was hiding several condoms
 containing drugs around her genital area. [@1] Officers seized 15 pellets of
 hashish with a total weight of 149.16 grams concealed in her clothing when she
-was intercepted. [@1] Officers also seized 17.05 grams of cocaine, 5.26 grams of
+was intercepted. [@1,2] Officers also seized 17.05 grams of cocaine, 5.26 grams of
 heroin and a further 4.79 grams of cocaine in the same search, which are
 excluded from the cannabis figures. [@1]
 
@@ -54,4 +59,3 @@ All of the substances were hidden among her clothes and discovered during the
 visitor-access check. [@1] The suspension is conditional on her not reoffending
 in the next two years, so she can avoid serving the jail term while she complies
 with the ruling. [@1]
-
