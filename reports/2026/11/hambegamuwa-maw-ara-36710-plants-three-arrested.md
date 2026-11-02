@@ -1,0 +1,48 @@
+---
+date: 2026-11-02
+country: lk
+place: Maw Ara area, Hambegamuwa
+coordinates: [6.522, 81.125]
+precision: locality
+type: eradication
+also: [arrest, raid]
+title: 36,710 cannabis plants burned in Hambegamuwa, three arrested
+summary: >-
+  Officers of the Monaragala Police Narcotics Bureau raided a two-acre cannabis cultivation in the Maw Ara area of Hambegamuwa and arrested three suspects. All 36,710 plants, six to eight feet tall, were uprooted and burned on site, and the suspects were handed to Hambegamuwa Police.
+figures:
+  arrested: 3
+  plants_destroyed: 36710
+  hectares: 0.81
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: a2b85958ea56c18e6f1d0b7720c4a603
+tags: [sri-lanka, hambegamuwa, eradication]
+sources:
+  - title: Over 36,000 cannabis plants destroyed in Hambegamuwa, three arrested - Newswire
+    url: https://www.newswire.lk/2026/11/02/over-36000-cannabis-plants-destroyed-in-hambegamuwa-three-arrested/
+    publisher: Newswire
+    date: 2026-11-02
+open_questions:
+  - The article gives only its publication date of 2 November 2026 and no separate day for the raid.
+  - The three suspects were not named and no charges or court outcome were reported.
+  - Only one source for this event could be opened and no second report confirming or adding facts was found.
+  - The two-acre area is stated as approximate, so the converted 0.81 hectares is also approximate.
+  - The submitted page carries a thumbnail image that could not be verified to show this raid, so no media entry is listed.
+---
+
+Three suspects were arrested during a raid on a cannabis cultivation in the Maw
+Ara area of Hambegamuwa, in an operation that combined arrests with eradication
+of the crop. [@1] According to the Sri Lanka Army, the operation was carried out
+by officers of the Monaragala Police Narcotics Bureau acting on information
+provided by Army Military Intelligence. [@1] Following the raid, the three
+arrested suspects were handed over to the Hambegamuwa Police for further police
+investigations. [@1]
+
+At the Maw Ara site, officers found approximately two acres of land under
+cannabis cultivation, with a total of 36,710 cannabis plants growing there. [@1]
+The plants found during the raid were tall, mature, standing plants measuring
+between six and eight feet in height. [@1] The Army said all 36,710 cannabis
+plants were uprooted and then destroyed by burning at the same location. [@1]
+The approximately two acres of cultivated land reported at the site corresponds
+to about 0.81 hectares. [@1]
+
