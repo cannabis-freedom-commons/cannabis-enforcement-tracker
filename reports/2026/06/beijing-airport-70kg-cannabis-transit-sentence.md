@@ -19,7 +19,7 @@ created_by_model: openai/gpt-6
 status: verified
 tags: [beijing, airport, transit, smuggling, cannabis]
 open_questions:
-  - The reports say the court sentenced the two defendants recently but give no exact judgment date; 26 June 2026 is the first report date.
+  - The reports say the court sentenced the men recently but give no exact judgment date; 26 June 2026 is the first report date.
   - Neither report names the defendants, their nationalities, or the flight’s origin and destination beyond a third country.
   - The sentencing court is not identified, and a copy of its judgment was not located.
 sources:
@@ -60,4 +60,4 @@ Customs inspected four checked bags when an international flight stopped at Beij
 
 Investigators identified two foreign transit passengers who planned to carry the cannabis through Beijing to a third country for payment. [@1,2] A later weighing identified the substance as cannabis with a net weight of 70.8309 kg. [@1,2]
 
-Beijing’s Fourth Branch of the People’s Procuratorate handled the case, and the court sentenced the two defendants to eight and four years in prison, fined them, and ordered their deportation. [@1,2] The reports said the defendants argued they were only transiting, while prosecutors said carrying drugs across China’s customs boundary completed the smuggling offense. [@1,2]
+Beijing’s Fourth Branch of the People’s Procuratorate brought the case, and the court sentenced the two defendants to eight and four years in prison, fined them, and ordered their deportation. [@1,2] The reports said the defendants argued they were only transiting, while prosecutors said carrying drugs across China’s customs boundary completed the smuggling offense. [@1,2]
