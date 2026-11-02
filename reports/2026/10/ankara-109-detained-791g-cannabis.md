@@ -24,6 +24,11 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-02
     language: tr
+  - title: 'Başkentte zehir tacirlerine operasyon: 109 gözaltı, 40 tutuklama'
+    url: https://www.iha.com.tr/ankara-haberleri/baskentte-zehir-tacirlerine-operasyon-109-gozalti-40-tutuklama-509548381
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-01
+    language: tr
 open_questions:
   - Only one accessible report of this operation was found; no second report confirming the operation was opened.
   - 31 October 2026 is used as the incident date as the end of the stated 25-31 October 2026 operation period; 2 November 2026 is the publication date.
@@ -33,23 +38,23 @@ open_questions:
   - The page lead image repeats the headline and cannot be confirmed to show this operation, so no photo is listed.
   - The 159,475 lira, scales, pistol and cartridges are non-drug seizures and are not counted in cannabis figures.
   - No suspect names and no court outcome beyond the 40 remands was published.
+  - The IHA page image caption repeats the headline and its content could not be verified to show this operation, so no photo is listed.
 ---
 
 Ankara Provincial Police Directorate's narcotics branch, the Narkotik Suçlarla
 Mücadele Şube Müdürlüğü, ran operations targeting drug sellers across Ankara
 between 25 and 31 October 2026. [@1] Officers detained 109 suspects during that
-week. [@1] Forty of the suspects were remanded in custody. [@1]
+week. [@1,2] Forty of the suspects were remanded in custody. [@1,2]
 
 Searches seized 791 grams of cannabis reported as esrar, alongside 85,929
 synthetic pills, 2 kilograms 965 grams of A.M. substance, 532 grams of cocaine,
-221 grams of bonzai and 57 grams of methamphetamine. [@1] Officers separately
-destroyed 49 cannabis plants reported as Hint keneviri roots. [@1] The esrar and
+221 grams of bonzai and 57 grams of methamphetamine. [@1,2] Officers separately
+destroyed 49 cannabis plants reported as Hint keneviri roots. [@1,2] The esrar and
 Hint keneviri form the separately listed cannabis component of the mixed haul,
 while the other drug weights are not counted as cannabis. [@1]
 
 Teams also seized four precision scales, one blank-firing pistol, three
 blank-pistol cartridges, 24 shotgun cartridges and 159,475 lira in cash
-described as linked to the offences. [@1] Police reported all of these
+described as linked to the offences. [@1,2] Police reported all of these
 detention, remand and seizure totals as the results of their own 25-31 October
 operations. [@1]
-
