@@ -45,6 +45,10 @@ sources:
     url: https://en.vijesti.me/amp/834146/Increased-police-activity-on-Friday--more-than-1500-people-were-checked--six-were-arrested--cocaine-and-marijuana-were-found
     publisher: Vijesti
     date: 2026-10-31
+  - title: 'Raids across Montenegro: Kavčani and Škaljari controlled, six people arrested, cocaine and marijuana found'
+    url: https://en.vijesti.me/amp/834146/raids-throughout-Montenegro--Kav%C4%8Dani-and-Skaljarci-controlled--six-people-arrested--cocaine-and-marijuana-found
+    publisher: Vijesti
+    date: 2026-10-31
 open_questions:
   - The incident date is inferred as 30 October from the description “the previous night” in a story published on 31 October; the precise start and end times are not stated.
   - The weight of the marijuana seized in Nikšić was not given.
@@ -54,16 +58,16 @@ open_questions:
 ---
 
 Police arrested 23-year-old A.L. in Nikšić after finding a small package of
-cocaine on him during a check at a catering venue. [@2,3,4] He was brought before a
+cocaine on him during a check at a catering venue. [@2,3,4,5] He was brought before a
 Misdemeanor Court with a misdemeanor charge for violating Montenegro's law on
 the prevention of drug abuse. [@1,3,4] Officers searched a residential and catering
 property used by members of organized-crime groups and people of operational
 interest. [@1,3] Police seized several packages of marijuana and cocaine from A.L.
 there, along with a metal drug crusher, a metal box, a knife and a metal baton.
-[@1,3,4]
+[@1,3,4,5]
 
 The search was part of intensified police checks and raids carried out across
-Montenegro the previous night. [@1] Officers from four regional security centers
+Montenegro the previous night. [@1,5] Officers from four regional security centers
 carried out an operation aimed at organized-crime group members, their
 associates and people of operational interest, as well as the venues where they
 gathered. [@1] Police checked 59 premises, including 53 catering establishments
