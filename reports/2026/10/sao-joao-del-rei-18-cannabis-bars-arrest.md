@@ -28,6 +28,11 @@ sources:
     publisher: Tribuna de Minas
     date: 2026-10-31
     language: pt
+  - title: Operações da Polícia Militar terminam com prisões, apreensões de armas e drogas em Minas Gerais
+    url: https://www.rcwtv.com.br/noticia/operacoes-da-policia-militar-terminam-com-prisoes-apreensoes-de-armas-e-drogas-em-minas-gerais
+    publisher: RCWTV
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the 18 and a half cannabis bars or five portions, so no kilogram figure is recorded and bar counts are not converted to weight.
   - Cocaine and crack amounts are mentioned only to explain the same event and are not counted as cannabis.
@@ -37,14 +42,14 @@ open_questions:
 
 The Tático Móvel unit of the Military Police arrested a 35-year-old man in
 flagrante at a sítio, a rural smallholding, in the rural zone of São João
-del-Rei during an operation on Friday 30 October 2026. [@1] The team acted after
+del-Rei during an operation on Friday 30 October 2026. [@1,3] The team acted after
 information-gathering and monitoring identified a structure used for producing
 and processing narcotic substances including marijuana, cocaine and crack. [@2]
 The man was taken to the on-duty Civil Police station, where the occurrence was
 closed. [@1]
 
 During the search officers seized 18 and a half bars of a marijuana-like
-substance, plus five portions of varying sizes. [@1] In the same search they
+substance, plus five portions of varying sizes. [@1,3] In the same search they
 found cocaine-like material described as a salt-packet-sized packet, two bars
 and three portions, and two crack-like bars described as rapadura-sized. [@1]
 Police also seized an industrial hydraulic press, two precision scales, a
@@ -56,4 +61,3 @@ Officers seized three firearms: a Bayard Piper model 1908 pistol in 6 mm/M35, a
 cartridges, comprising 12 of calibre 12, six of calibre 32 and 25 of calibre 22.
 [@2] Police additionally seized a Xiaomi Redmi mobile phone, a motorcycle and a
 cheque leaf for R$1,450 at the site. [@1]
-
