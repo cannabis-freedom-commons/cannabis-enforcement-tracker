@@ -55,6 +55,11 @@ sources:
     publisher: Nostálgica
     date: 2026-10-29
     language: es
+  - title: Cuatro detenidos y cinco kilos de cannabis decomisados en operativo contra banda de narcotraficantes en Copiapó
+    url: https://www.soychile.cl/copiapo/policial/2026/10/29/970801/detenidos-copiapo-drogas.html
+    publisher: SoyChile
+    date: 2026-10-29
+    language: es
 open_questions:
   - The reports do not give the date of the police operation or the arrests; 29 October 2026 is when the four were formally charged and remanded, and the earliest reports were published that day.
   - The four detainees are identified only by nationality, not by name, age or role in the group.
@@ -65,22 +70,21 @@ open_questions:
 
 Chile's investigative police (PDI) arrested four people and seized 5.2 kg of
 cannabis in Copiapó in an operation with the Atacama prosecutor's SAC unit
-against an alleged trafficking ring. [@1] The operation was carried out in the
-Ampliación Prat sector of Copiapó, where the four were detained. [@1] Three of
+against an alleged trafficking ring. [@1,4] The operation was carried out in the
+Ampliación Prat sector of Copiapó, where the four were detained. [@1,4] Three of
 the detainees are Colombian and one is Chilean, and one of the Colombians was in
-Chile irregularly. [@2]
+Chile irregularly. [@2,4]
 
 The head of the Copiapó anti-drug brigade, subprefect José Villablanca, said the
 group brought large amounts of drugs from Calama and distributed them in Copiapó
-and Caldera through social media. [@2] The police work also established the
+and Caldera through social media. [@2,4] The police work also established the
 points where the drug was sold, he said. [@1] Villablanca said the 5.2 kg had an
-informal sale value of about 38 million pesos. [@1] Detectives also seized the
-vehicle used to sell the drug, ammunition and cash. [@1]
+informal sale value of about 38 million pesos. [@1,4] Detectives also seized the
+vehicle used to sell the drug, ammunition and cash. [@1,4]
 
 The four were formally charged at a hearing on Thursday 29 October 2026. [@2]
 Copiapó prosecutor Marcelo Torres Rossel presented the evidence at the hearing.
-[@1] The four were told they were being investigated for completed illicit drug
-trafficking. [@1] Torres said the group acted in coordination to sell and
+[@1,4] The four were told they were being investigated for completed illicit drug
+trafficking. [@1,4] Torres said the group acted in coordination to sell and
 distribute the drug. [@1] The court granted pretrial detention and ordered all
-four to a prison while the investigation continues. [@3]
-
+four to a prison while the investigation continues. [@3,4]
