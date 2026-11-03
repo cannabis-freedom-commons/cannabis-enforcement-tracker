@@ -29,6 +29,11 @@ sources:
     publisher: petitbleu.fr
     date: 2026-11-03
     language: fr
+  - title: 'Agen : le conducteur sans permis avait plusieurs kilos de cannabis chez lui'
+    url: https://www.sudouest.fr/lot-et-garonne/agen-le-conducteur-sans-permis-avait-plusieurs-kilos-de-cannabis-chez-lui-31369560.php
+    publisher: Sud Ouest
+    date: 2026-11-03
+    language: fr
 open_questions:
   - No breakdown of the four kilograms between herb and resin was published.
   - The very small quantity found on the man during the roadside stop was not quantified.
@@ -36,6 +41,11 @@ open_questions:
   - The court outcome was not yet known because the 4 November immediate trial was only a possibility.
   - Only one accessible source for this event was found after searching in French.
   - The page's photo is captioned as an illustration and is not established to show this seizure, so no media entry is included.
+  - Sud Ouest describes the driver as 25 years old while the existing report records 26 years old from La Dépêche/petitbleu.
+  - Sud Ouest reports only "plusieurs kilos" without an exact weight or herb/resin breakdown, so the 4 kg figure is not corroborated by this source.
+  - The page photo is credited to NICOLAS MAETERLINCK / AFP and is not established to show this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Sud Ouest: Officers had first stopped him on that same day because he was driving without a licence.'
+  - 'Left out, as its quotation was not found in Sud Ouest: The case then changed scale when officers carried out a search of his home in Agen.'
 ---
 
 A 26-year-old man has been held in police custody at the Agen police station
@@ -49,8 +59,8 @@ That home search recovered four kilograms of drugs, far more than the minimal
 amount found during the roadside stop. [@1] The seized drugs were a mix of
 cannabis herb and cannabis resin. [@1,2]
 
-The man admitted the facts found by the investigators. [@1] He was due to be
-brought before the prosecutor on the morning of Wednesday 4 November. [@1,2]
+The man admitted the facts found by the investigators. [@1,3] He was due to be
+brought before the prosecutor on the morning of Wednesday 4 November. [@1,2,3]
 Prosecutors could then send him for immediate trial before the Agen judicial
-court on that same day. [@1,2] The arrest, custody and home search all took place
+court on that same day. [@1,2,3] The arrest, custody and home search all took place
 in Agen, in the Lot-et-Garonne department. [@1]
