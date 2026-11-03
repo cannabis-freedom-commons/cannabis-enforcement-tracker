@@ -41,6 +41,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: मीरजापुर में पुलिस का बड़ा एक्शन! 25 हजार का इनामी गांजा तस्कर गिरफ्तार, 10 किलो से ज्यादा गांजा बरामद
+    url: https://hindi.dynamitenews.com/uttar-pradesh/mirzapur-police-arrested-25000-reward-ganja-smuggler
+    publisher: Dynamite News Hindi
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Neither report says whether a new case was registered over the 10.1 kg of ganja seized in Ahraura, or what charges Mahto faces in it.
   - No value was published for the 10.1 kg of ganja; the ₹11,000 is described only as money from sales.
@@ -48,19 +53,20 @@ open_questions:
   - The Hindustan page's summary also carries a cyber-fraud item about bank accounts, a separate matter left out of this report.
   - Amar Ujala gives no total number of cases against Mahto; it says three at Link Road police station date from 2003 and 2011, so whether they are among the seven cases the earlier reports counted is unclear.
   - The Amar Ujala page is filed in the newspaper's Ghazipur section and headlined 'Ghazipur News', although its dateline and text place the arrest in Ahraura, Mirzapur district.
+  - The Dynamite News page gives no separate date for the arrest; 31 October 2026 is its publication date, while the existing report dates the arrest to 30 October 2026.
 ---
 
 Ahraura police in Uttar Pradesh's Mirzapur district arrested Viresh Kumar Mahto
-near KD Hotel on Friday 30 October 2026 after a tip-off. [@1,3] Police described
-Mahto as a ganja (cannabis) smuggler with a ₹25,000 reward offered for him. [@1,3]
+near KD Hotel on Friday 30 October 2026 after a tip-off. [@1,3,4] Police described
+Mahto as a ganja (cannabis) smuggler with a ₹25,000 reward offered for him. [@1,3,4]
 A search found 10 kg 100 g of ganja and ₹11,000 that police described as money
-from sales. [@1,3] Ahraura station house officer Ajay Kumar Mishra said Mahto had
+from sales. [@1,3,4] Ahraura station house officer Ajay Kumar Mishra said Mahto had
 been sent to jail. [@1]
 
 Mahto was wanted in two cases under the Narcotic Drugs and Psychotropic
-Substances (NDPS) Act at Madihan police station. [@1,3] A resident of Babhnaulia
+Substances (NDPS) Act at Madihan police station. [@1,3,4] A resident of Babhnaulia
 in Daundpur police station area of Chhapra district, Bihar, he had been living
-in Gurugram, Haryana. [@1,3] The ₹25,000 reward had been announced by the
+in Gurugram, Haryana. [@1,3,4] The ₹25,000 reward had been announced by the
 superintendent of police. [@1] Police named the superintendent as Aparna Rajat
 Kaushik and said the arrest came in a campaign she ordered against drug
 traffickers. [@2,3]
@@ -71,3 +77,5 @@ said. [@1] Those police stations included Farah in Mathura, Kavinagar and Link
 Road in Ghaziabad, and others in Chandauli. [@2]
 
 Three cases from 2003 and 2011 are also registered against him at Link Road police station. [@3]
+
+The two Madihan cases are numbered 151/2026 under NDPS Act sections 8/20/29 and 228/2026 under sections 8/20/26. [@4] Mahto is the son of Swaminath Mahto and his current address was given as Gupta Colony, Palanpur Bihar in Gurugram district, Haryana. [@4]
