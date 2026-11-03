@@ -85,6 +85,11 @@ sources:
     url: https://www.thestandard.com.hk/news/article/347148/Hong-Kong-man-arrested-in-Macau-over-alleged-THC-vape-smuggling
     publisher: The Standard
     date: 2026-11-01
+  - title: 澳門司警拘35歲港男 涉走私及販賣大麻電子煙
+    url: https://hk.news.yahoo.com/%E6%BE%B3%E9%96%80%E5%8F%B8%E8%AD%A6%E6%8B%9835%E6%AD%B2%E6%B8%AF%E7%94%B7-%E6%B6%89%E8%B5%B0%E7%A7%81%E5%8F%8A%E8%B2%A9%E8%B3%A3%E5%A4%A7%E9%BA%BB%E9%9B%BB%E5%AD%90%E7%85%99-064852765.html
+    publisher: am730 (via Yahoo News Hong Kong)
+    date: 2026-11-01
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -97,19 +102,20 @@ open_questions:
   - The Hong Kong Commercial Daily describes the three suspected offences as drug use, smuggling and trafficking of drug-laced e-cigarettes, while the report's other sources describe them as illegal consumption, possession and trafficking.
   - The 881903 report carries essentially the same text as the Hong Kong Commercial Daily account and credits the Macau Government Information Bureau's Facebook page, so the two new accounts are not independent.
   - The submitted account values the six THC e-cigarettes at about MOP8,400, while the existing report keeps about MOP8,000 from the Hong Kong accounts.
+  - The Yahoo (am730) page carries one image captioned as the arrest of the 35-year-old Hong Kong man, without a credit, which does not by itself establish that it shows this arrest distinctly from the escort photos already in the report, so no media entry is added.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
 electrician in the city, suspecting him of smuggling THC e-cigarettes in from
-Hong Kong to sell. [@2,6,9] Acting on intelligence, officers stopped him in the
+Hong Kong to sell. [@2,6,9,12] Acting on intelligence, officers stopped him in the
 central district (中區) and found six e-cigarettes filled with drug oil on him,
-which police put at about MOP8,000. [@2] A search of his home found four more
-e-cigarette devices that had already been used. [@2,3,6]
+which police put at about MOP8,000. [@2,12] A search of his home found four more
+e-cigarette devices that had already been used. [@2,3,6,12]
 
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
-and his urine test for drugs was positive. [@2,3,7,8,11] Police believe he used the vapes
+and his urine test for drugs was positive. [@2,3,7,8,11,12] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
-three people at MOP1,400 each. [@2,3] He was taken to the Public Prosecutions
+three people at MOP1,400 each. [@2,3,12] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
 consumption, possession and trafficking of narcotic and psychotropic substances.
 [@1]
