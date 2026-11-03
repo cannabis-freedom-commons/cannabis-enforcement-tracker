@@ -45,6 +45,11 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-03
     language: es
+  - title: 13 detenidos en Isla Cristina y Lepe tras incautar más de 16 kilos de droga
+    url: https://www.huelvahoy.com/sucesos/13-detenidos-isla-cristina-lepe-incautar-mas-16-kilos-droga/20261103122636405867.html
+    publisher: Huelva Hoy
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles place the eight searches at the end of November although they were published on 3 November 2026, so the publication date is used as the incident date.
   - The nearly 20,000 euros in cash, four vehicles and telephone and computer equipment are mentioned only to explain the seizure and are not recorded as a fine or value.
@@ -55,7 +60,7 @@ open_questions:
 
 The Guardia Civil arrested 13 people in Isla Cristina and Lepe accused of drug
 trafficking and membership of a criminal organisation tied to cannabis
-associations that acted as drug sales points. [@1,3] The investigation, known as
+associations that acted as drug sales points. [@1,3,4] The investigation, known as
 Operation Dehesa, began after anonymous complaints about a constant flow of
 people visiting these premises to buy drugs. [@2] Those arrested, together with
 the case files, the seized substances and the other seized material, were placed
@@ -63,8 +68,8 @@ at the disposal of the court handling the case. [@1]
 
 After judicial authorisation, officers carried out eight searches, four in the
 cannabis premises and four in homes used to store and prepare the substances for
-distribution. [@1,3] The searches yielded 10.6 kg of hashish and 6 kg of
-marijuana. [@1,3] Officers also seized almost 20,000 euros in cash, tools for
+distribution. [@1,3,4] The searches yielded 10.6 kg of hashish and 6 kg of
+marijuana. [@1,3,4] Officers also seized almost 20,000 euros in cash, tools for
 handling and weighing drugs, four vehicles including electric scooters, and
 mobile-phone and computer equipment. [@1] The operation dismantled a total of
 four drug sales points. [@1]
