@@ -51,6 +51,7 @@ open_questions:
   - The page displays a main photo without a caption or credit identifying its content, so no media entry is listed for this source.
   - The detik article dates the public tip to Saturday 31/10/2026, while the existing report follows a 26 October tip and 29 October follow-up check from other outlets.
   - The detik article repeats the official's rough 30-tonne gross conversion at about 2 ons per plant, while the existing report retains 3,000 kg; the rough estimate is not a weighed total.
+  - The opened video-page text extraction contains only the title and publication timestamp, so plant counts, weight estimates, trek duration and arrest status cannot be corroborated from the opened text.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -147,6 +148,11 @@ sources:
     publisher: Mistar.id
     date: 2026-11-02
     language: id
+  - title: 'Video: BNN Bongkar Ladang Ganja 5 Hektare di Bukit Barisan'
+    url: https://20.detik.com/detikupdate/20261101-261101033/video-bnn-bongkar-ladang-ganja-5-hektare-di-bukit-barisan
+    publisher: 20DETIK
+    date: 2026-11-01
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -195,7 +201,7 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1]
 
