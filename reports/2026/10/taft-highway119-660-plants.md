@@ -55,6 +55,10 @@ sources:
     archived: https://web.archive.org/web/20261016010922/https://www.crimevoice.com/2026/10/15/kern-county-taft-cannabis-grow-investigation/
     publisher: Crime Voice
     date: 2026-10-15
+  - title: Mexican national arrested on suspicion of growing marijuana for sale near Taft
+    url: https://www.kget.com/news/crime-watch/mexican-national-arrested-on-suspicion-of-growing-marijuana-for-sale-near-taft/
+    publisher: KGET 17 News
+    date: 2026-10-14
 open_questions:
   - No bail amount, prosecutor's charging decision or court outcome was reported.
   - The sources do not identify the pesticides or give their quantities, the cultivation area or a cannabis weight.
@@ -64,17 +68,17 @@ open_questions:
 
 Rogelio Lorenzo Francisca, 32, was arrested after officers searched a
 marijuana growing site near Taft in Kern County, California, on 8 October
-2026. [@1,2,3] The Kern County Sheriff's Office said 660 plants were
-eradicated during the search. [@1,2,3] Deputies also found what the
-department described as dangerous pesticides within the grow site. [@1,2,3]
+2026. [@1,2,3,4] The Kern County Sheriff's Office said 660 plants were
+eradicated during the search. [@1,2,3,4] Deputies also found what the
+department described as dangerous pesticides within the grow site. [@1,2,3,4]
 
 The search warrant covered a property in the 27000 block of Highway 119.
-[@1,2,3] Deputies from the sheriff's Taft substation carried it out with
+[@1,2,3,4] Deputies from the sheriff's Taft substation carried it out with
 help from the department's High Intensity Drug Trafficking Areas Task Force
 and the Taft Police Department. [@1,2,3]
 
 Francisca, identified as being from Guerrero, Mexico, was booked into the
-Taft jail facility. [@1,2,3] Authorities arrested him on suspicion of
+Taft jail facility. [@1,2,3,4] Authorities arrested him on suspicion of
 growing marijuana, possessing it for sale, conspiracy, and resisting,
 delaying or obstructing arrest. [@2] The sheriff's announcement described
 the investigation as active and ongoing. [@1,3] Crime Voice reproduced the
