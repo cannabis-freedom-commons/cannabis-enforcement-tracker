@@ -37,6 +37,11 @@ sources:
     publisher: VladNews
     date: 2026-11-03
     language: ru
+  - title: В Пограничном округе полиция обнаружила и изъяла 136 килограммов марихуаны
+    url: https://otvprim.tv/news/proisshestviya/v_pogranichnom_okruge_politsiya_obnaruzhila_i_izyala_136_kilogrammov_marikhuany/
+    publisher: ОТВ-Прим
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the tip, search or seizure.
   - The report names no detention or arrest and does not say whether the 41-year-old property owner was detained or charged.
@@ -49,23 +54,28 @@ open_questions:
   - The VladNews page gives only its publication timestamp of 3 November 2026 and no separate date for the tip, search or seizure.
   - The page names no detention or arrest and does not say whether the 41-year-old property owner was detained or charged.
   - The page lists a photo captioned only 5651515.jpg, which does not establish that it shows this seizure, so no media entry is added.
+  - The OTV-Prim page gives only its publication date of 3 November 2026 and no separate date for the tip, search or seizure, while the existing report is dated 2 November 2026.
+  - The OTV-Prim page gives the weight as 136 kilograms while the existing report records it as more than 136 kg.
+  - The OTV-Prim page does not name Article 228 or its part and says only that up to 15 years' imprisonment threatens; the part-3 classification continues to rely on earlier sources.
+  - The OTV-Prim page names no detention or arrest, consistent with the existing report's open question on that point.
+  - The page's Rutube embed and hidden/related thumbnail image carry only the article title and do not establish that they show this seizure, so no media entry is added.
 ---
 
 In Primorsky Krai in Russia's Far East, officers of the Interior Ministry's
 Pogranichny district department received information during the fifth stage of
 the preventive operation Mak that a local resident was storing prohibited
-substances. [@1,2] After verifying the tip, officers found and seized a batch of
+substances. [@1,2,4] After verifying the tip, officers found and seized a batch of
 plant-origin narcotic in a shed in the yard of a household property in the
 settlement of Talovy belonging to a 41-year-old resident of the village of
-Novonikolsk. [@1,2,3]
+Novonikolsk. [@1,2,3,4]
 
-An expert examination concluded that the seized substance was marijuana. [@1,2,3]
+An expert examination concluded that the seized substance was marijuana. [@1,2,3,4]
 Police said its weight was more than 136 kg, an amount that qualifies as an
 especially large size under Russian law. [@1,2,3] An investigator of the
 investigative unit of the Pogranichny district police then opened a criminal
 case under part 3 of Article 228 of the Russian Criminal Code. [@1,2] The report
 notes that the sanction under that part provides for imprisonment for up to 15
-years. [@1,2,3]
+years. [@1,2,3,4]
 
 Police said they continue systematic work to identify and suppress crimes and
 administrative offences involving illegal trafficking in narcotics and
