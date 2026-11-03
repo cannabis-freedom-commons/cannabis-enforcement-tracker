@@ -44,23 +44,31 @@ sources:
     publisher: NUR.KZ
     date: 2026-11-02
     language: ru
+  - title: В Алматы у 43-летнего мужчины изъяли 10 килограммов наркотиков
+    url: https://www.caravan.kz/news/v-almaty-u-43-letnego-muzhchiny-izjali-10-kilogrammov-narkotikov/
+    publisher: Караван
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the detention and search; 2 November is used as the incident date.
   - The police statement gave no amount for the seized cash; the figure of no less than 500,000 tenge is only Zakon.kz's estimate from operational footage, so no cash value is recorded in figures.
   - The cover image on the Kazinform page is credited to the police department of a different region and dated 2025, so it is not listed as showing this event.
   - Only the suspect's age was published; his name was not given.
   - No court outcome beyond placement in temporary detention has been reported.
+  - The submitted Caravan page is dated 3 November 2026 while the existing report uses 2 November 2026 from earlier accounts; no separate date for the search and detention is given.
+  - The lead image on the submitted page is labelled as AI-generated, so no media entry is added.
+  - 'Left out, as its quotation was not found in Караван: Officers of the anti-drug crime office of the Almaty police detained a 43-year-old man in the city''s Nauryzbai district.'
 ---
 
 Officers of the anti-drug crime office of the Almaty police detained a
 43-year-old man in the city's Nauryzbai district. [@1] Police opened a criminal
 case over the discovery and placed the suspect in the temporary detention
-isolator pending investigation. [@1]
+isolator pending investigation. [@1,4]
 
 During a search of his private house, officers found 13 cannabis bushes and a
-box holding dried plant material. [@1] Police said a forensic examination
+box holding dried plant material. [@1,4] Police said a forensic examination
 confirmed that the total mass of the seized narcotic substances was 10 kilograms
-and that cash was also seized from the house. [@1] A second account from the
+and that cash was also seized from the house. [@1,4] A second account from the
 city police press service likewise said officers in Nauryzbai district found 13
 cannabis bushes and a box with dried plant material during the house search.
 [@2] Zakon.kz, describing the operational footage, estimated the seized cash at
@@ -70,5 +78,4 @@ specify. [@2]
 NUR.KZ, citing Almaty police, also reported that anti-drug officers had
 identified the 43-year-old man in Nauryzbai district. [@3] Investigators are
 still establishing all the circumstances of the alleged unlawful cultivation of
-drug-containing plants. [@1]
-
+drug-containing plants. [@1,4]
