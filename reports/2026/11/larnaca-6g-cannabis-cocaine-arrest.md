@@ -25,6 +25,11 @@ sources:
     url: https://cyprus-mail.com/2026/11/03/more-than-1kg-of-cocaine-seized-in-larnaca
     publisher: Cyprus Mail
     date: 2026-11-03
+  - title: Συνελήφθη 32χρονος στη Λάρνακα για κατοχή πέραν του ενός κιλού κοκαΐνης
+    url: https://news.rik.cy/article/2026/11/3/sunelephthe-32khronos-ste-larnaka-gia-katokhe-peran-tou-enos-kilou-kokaines/
+    publisher: Ραδιόφωνο ΡΙΚ
+    date: 2026-11-03
+    language: el
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -33,14 +38,18 @@ open_questions:
   - The submitted page carries five images captioned Kokaini Larnaka, Viber Image 2026 11 02 22 38 45 506 Copy, Image 12, Image 13 and Image 14 708x1536, whose captions do not establish that they depict this seizure, so no media entry is added.
   - The Cyprus Mail page image is labelled File photo and is excluded because it does not depict this event.
   - 'Left out, as its quotation was not found in Cyprus Mail: In total, police seized approximately 1.03kg of cocaine, along with the other substances, cash, equipment, 16 firecrackers and four mobile phones as evidence for further examination.'
+  - The submitted page gives only its publication date of 3 November 2026 and says the arrest was yesterday evening, so the 2 November 2026 incident date continues to rely on inference from the existing sources.
+  - The submitted page states only quantity of cannabis without a weight, so the six-gram cannabis figure continues to rely on the existing sources.
+  - The submitted page describes cash as exceeding 21,000 euros without the exact 21,100 figure used in the existing report.
+  - The submitted page carries an image with an empty caption, so whether it depicts this seizure could not be established and no media entry is added.
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
-of his car, home and two open areas. [@1] Officers from the Directorate for
+of his car, home and two open areas. [@1,3] Officers from the Directorate for
 Combating Organised Crime (DAOE), the Anti-Drugs Unit (YKAN) and YPEE stopped
 the car he was driving in a rural part of the district at about 5pm. [@1] The
 man was taken into custody and was expected to appear before Larnaca District
-Court on Tuesday morning for a remand hearing. [@1] Police said the arrest was
+Court on Tuesday morning for a remand hearing. [@1,3] Police said the arrest was
 part of efforts to track down people systematically involved in drug
 trafficking, and Larnaca DAOE-YKAN is continuing investigations. [@1]
 
@@ -53,9 +62,8 @@ stop, they found another plastic container holding two bags of cocaine with a
 combined gross weight of 100 grams. [@1] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
 be proceeds of illegal activities. [@2]
-
