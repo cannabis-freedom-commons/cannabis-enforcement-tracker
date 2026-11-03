@@ -107,6 +107,11 @@ sources:
     publisher: News18 Telugu
     date: 2026-11-01
     language: te
+  - title: గంజాయి ముఠా గుట్టురట్టు.. కోదాడలో 150 కిలోల సరుకు సీజ్ !
+    url: https://www.dishadaily.com/telugunews/illegal-transportation-of-cannabis-in-a-car-597652
+    publisher: Disha Daily
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -138,12 +143,14 @@ open_questions:
   - This account puts the haul at 150 kg, while the existing report keeps 120 kg from the earlier Telugu accounts.
   - This account says the cannabis was being taken from Rajahmundry to Bengaluru, while other reports already cited in the existing report say it was bought in Chitrakonda, Odisha for delivery to Karnataka.
   - The lead image on the News18 page is captioned only “News18” with no descriptive caption, so whether it shows this seizure is not established and no media entry is made.
+  - This account puts the haul at about 150 kg in 62 packets, while the existing report keeps 120 kg from the earlier Telugu accounts; the 120 kg versus 150 kg discrepancy already noted in the report is not resolved.
+  - The page's lead image is captioned only with the headline and carries no credit or description establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12,13]
 The two were carrying the cannabis by car from Rajahmundry in Andhra Pradesh to
 Bengaluru, according to the Telugu reports in Namasthe Telangana and Mee24News.
-[@1,12,13]
+[@1,12,13,15]
 
 Andhra Prabha reported that police received credible information about the ganja
 being moved and acted on it to stop the transport. [@2,12] After stopping the car,
@@ -161,4 +168,6 @@ The seized ganja, vehicle and the two accused were handed over to Kodad Town Pol
 
 Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
 
-Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9,11,14] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9,11,14] The gang had five members; two were arrested and three fled. [@8,9,11,14] Police seized two mobile phones and a car along with the ganja. [@8,10,11,14] Police said they were searching for the suspects who had fled. [@8,10,11,14]
+Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9,11,14,15] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9,11,14] The gang had five members; two were arrested and three fled. [@8,9,11,14,15] Police seized two mobile phones and a car along with the ganja. [@8,10,11,14,15] Police said they were searching for the suspects who had fled. [@8,10,11,14]
+
+The two had already moved 27 ganja packets from Rajahmundry to Bengaluru about a month earlier, according to police questioning. [@15] The organisers promised each courier Rs 20,000 per trip plus an additional Rs 30,000 each after the ganja was sold. [@15] The pair left Karnataka on 29 October, reached Rajahmundry on the night of 30 October, and loaded about 150 kg of ganja in 62 packets brought by Raju from Odisha on 31 October before leaving for Bengaluru. [@15] Police tried to stop the Honda City near Durgapuram crossroad on NH-65 on 31 October, chased it after the driver tried to escape, and intercepted it near Kamma Kakatiya function hall. [@15] Police seized the 62 packets in the presence of mediators and said the two arrested men would be produced in court. [@15]
