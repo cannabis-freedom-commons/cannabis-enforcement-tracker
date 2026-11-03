@@ -48,6 +48,11 @@ sources:
     publisher: KPP w Otwocku
     date: 2026-11-02
     language: pl
+  - title: 'Otwock: Podejrzenia policjantów szybko się potwierdziły. 42-latek usłyszał zarzuty'
+    url: https://informacje.wp.pl/wiadomosci/podejrzenia-policjantow-szybko-sie-potwierdzily-42-latek-uslyszal-zarzuty-7346958625192416a
+    publisher: WP Info
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The police page gives only its publication date of 2 November 2026 and no separate day for the roadside stop or home search, so that date is used as the incident date.
   - The small amount found on the driver was not weighed and the home amount is given only as over 20 grams, so figures record 0.02 kg as the stated minimum and exclude the unweighed roadside amount.
@@ -55,6 +60,8 @@ open_questions:
   - The Info Józefów account cites the Otwock police as its source and adds no independent weighing or case outcome.
   - 'The page''s police-credited photo caption reads only ''źródło: policja.gov.pl'' with headline alt text and does not establish that it shows this seizure, so no media entry is added and it may duplicate the police handout already represented.'
   - The second source image on the page is an advertisement ('moje bielany 10-2026 2'), not an event photo, and is omitted.
+  - The submitted page was published on 3 November 2026 while the existing report uses the police publication date of 2 November 2026 as the incident date; this reflects republication timing, not a separate event.
+  - 'The page carries a police-credited image whose caption reads only ''źródło: policja.gov.pl'' and does not establish that it shows this seizure, so no media entry is added.'
 media:
   - kind: photo
     url: https://iotwock.info/artykul/kierowca-pod-wplywem-n1874981
@@ -64,18 +71,18 @@ media:
 ---
 
 Otwock traffic police stopped a 42-year-old Skoda driver in Pogorzel after
-suspecting he could be under the influence of alcohol or drugs. [@1,3,4,5,6] A
-preliminary test found marijuana in the 42-year-old's body. [@2,3,4] Officers
+suspecting he could be under the influence of alcohol or drugs. [@1,3,4,5,6,7] A
+preliminary test found marijuana in the 42-year-old's body. [@2,3,4,7] Officers
 immediately detained the man and electronically retained his driving licence.
 [@1] The man was detained and placed in a police cell. [@2]
 
 Officers found a small amount of marijuana on the driver during the roadside
-check. [@1,3,4,5] Officers then searched his residence and found more than 20 grams of
-marijuana there. [@2,3,4,5,6] Detectives searching his flat found further drugs beyond
+check. [@1,3,4,5,7] Officers then searched his residence and found more than 20 grams of
+marijuana there. [@2,3,4,5,6,7] Detectives searching his flat found further drugs beyond
 what he carried in the car. [@1]
 
 The 42-year-old was charged with driving a motor vehicle under the influence of
-an intoxicant and with possessing intoxicating substances. [@1,3,4,6] Police say these
+an intoxicant and with possessing intoxicating substances. [@1,3,4,6,7] Police say these
 offences carry up to three years of imprisonment. [@1] Police described him as
 another driver removed from the roads of Otwock county and warned that driving
 after alcohol or drugs endangers other people's lives and health. [@1]
