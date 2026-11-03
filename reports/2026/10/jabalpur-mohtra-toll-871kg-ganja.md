@@ -213,6 +213,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-01
     language: hi
+  - title: जबलपुर में Jabalpur Police ने पकड़ा 4.35 करोड़ का गांजा, दो तस्कर गिरफ्तार
+    url: https://www.prabhasakshi.com/amp/news/jabalpur-police-seize-ganja-worth-rs-4-crore-from-container-two-arrested
+    publisher: Prabhasakshi
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -250,6 +255,8 @@ open_questions:
   - The page dates the interception to the intervening night of Friday-Saturday while the existing report records around 2 am on 31 October 2026.
   - The page credits the text to Hindustan Samachar / Vilok Pathak and is therefore a reprint of the agency version, not independent reporting.
   - The Naidunia account values the consignment at about Rs 4.5 crore, above the Rs 4,35,55,000 figure used in the existing report.
+  - The Prabhasakshi account gives the weight as 871.95 kg, while the existing report records 871 kg 95 g (871.095 kg); the existing figure is retained.
+  - The Prabhasakshi page carries a lead image whose caption repeats only the headline and gives no credit, so it could not be confirmed to show this seizure and no media entry was added from it.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -261,9 +268,9 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
@@ -274,14 +281,14 @@ said. [@2,10,12,19,27] The Uttar Pradesh Narcotics Wing team from Jhansi had bee
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
-resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27] The consignment was to be unloaded near a
+resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1,16,25,27] The 28 sacks were loaded
 into the container at Sahu's location on 27 October. [@1,9,11,25,27] Singh said he was
 promised ₹1 lakh for the trip. [@1,10,27] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
-were paid ₹1 lakh for each consignment, according to police. [@2,12,19] Investigators
+were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28] Investigators
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12,19]
 
