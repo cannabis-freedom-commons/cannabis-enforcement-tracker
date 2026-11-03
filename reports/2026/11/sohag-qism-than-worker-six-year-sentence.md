@@ -44,6 +44,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-03
     language: ar
+  - title: ضربة لتجار الكيف في سوهاج.. السجن 6 سنوات وغرامة 100 ألف جنيه لتاجر شابو وحشيش
+    url: https://www.alraeesnews.com/344152
+    publisher: الرئيس نيوز
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No separate sentencing date was published; 3 November 2026 is the publication date and is used as the incident date.
   - No weight, value or separate cannabis quantity was reported; the seizure is described only as a quantity of narcotic substances.
@@ -51,12 +56,14 @@ open_questions:
   - Only one accessible source for this exact defendant and sentence was found after searching in Arabic; similar Sohag sentences concern different initials and dates.
   - No photograph of the event was available; the page carries only archive and unrelated images, so no media entry is included.
   - The Cairo24 page image is captioned as archival and the Youm7 image as archival custody art, so no event photo is listed as media.
+  - The page photo is captioned only as تعبيرية, meaning illustrative, so no media entry is included.
+  - The initials appear as ع. م. ع in this account versus A. M. A. in the existing report, a transliteration of the same Arabic initials.
 ---
 
 The Sohag Criminal Court closed the case against a worker accused of drug
-trafficking in the Second Sohag police district. [@1,2,3] It sentenced him to six
-years of aggravated imprisonment and fined him 100,000 Egyptian pounds. [@1,2,3] The
-defendant was identified only by the initials A. M. A. [@1,4]
+trafficking in the Second Sohag police district. [@1,2,3,5] It sentenced him to six
+years of aggravated imprisonment and fined him 100,000 Egyptian pounds. [@1,2,3,5] The
+defendant was identified only by the initials A. M. A. [@1,4,5]
 
 The case dates to 2026, when detectives received information that the defendant
 was trafficking shabu, methamphetamine essence, hashish and narcotic pills. [@1]
@@ -64,10 +71,10 @@ Security agencies carried out the necessary investigations after receiving the
 information about his activity. [@1] After completing legal procedures, they
 confirmed the tip, which had come from a secret source. [@1] Officers then
 arrested the accused and found a quantity of narcotic substances in his
-possession. [@1,2,3]
+possession. [@1,2,3,5]
 
 When confronted, he admitted that he was trafficking in narcotic substances.
 [@1,2] He was then referred to the criminal court, which tried him and imposed the
 six-year term and the 100,000-pound fine. [@1] The trafficking allegation
 expressly included hashish alongside shabu, methamphetamine essence and narcotic
-pills. [@1,2,3]
+pills. [@1,2,3,5]
