@@ -61,6 +61,11 @@ sources:
     publisher: La Provincia di Como
     date: 2026-11-02
     language: it
+  - title: 'Coltivavano marijuana in un''azienda di piante aromatiche: sequestrate 245 piante per oltre mezzo milione di euro'
+    url: https://www.quicomo.it/cronaca/gavirate-marijuana-azienda-piante-aromatiche-sequestro-500mila-euro.html
+    publisher: QuiComo
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -76,13 +81,15 @@ open_questions:
   - The page’s only event-related image is credited to Rex Medlen via Pixabay, so it is a stock illustration and no media entry is added.
   - The submitted page gives no separate raid date; 2 November 2026 is its publication date, matching the existing report's incident date.
   - The page's plantation photo is captioned as an archive photo, so it is not established to show this seizure and no media entry is added.
+  - The QuiComo article gives only its publication date of 2 November 2026 and no separate date for the Guardia di Finanza control.
+  - Whether the lead image on the QuiComo page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3,4,5,6] All 245 plants were seized and placed at
-the disposal of the judicial authority for further steps. [@2,3,6] The two owners of
+marijuana cultivation in Gavirate. [@1,3,4,5,6,7] All 245 plants were seized and placed at
+the disposal of the judicial authority for further steps. [@2,3,6,7] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3,4,5,6]
+liberty for cultivating narcotic substances. [@1,3,4,5,6,7]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
 approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from about
