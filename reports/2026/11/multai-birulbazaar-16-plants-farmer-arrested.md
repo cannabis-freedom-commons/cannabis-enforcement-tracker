@@ -37,29 +37,36 @@ sources:
     publisher: Gyan Wani
     date: 2026-11-02
     language: hi
+  - title: 'Betul Cannabis Farming: बैतूल के बिरूलबाजार में खेत के अंदर लहलहा रहे थे गांजे के पौधे, मुखबिर की सूचना पर पुलिस ने मारा छापा - Betul Update'
+    url: https://www.betulupdate.com/betul-cannabis-farming-illegal-ganja-seized/
+    publisher: Betul Update
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 2 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event could be opened, so no independent second account confirms the figures.
   - The report does not specify whether the 14.8 kg is the fresh green weight of the 16 plants or dried cannabis.
   - No court outcome beyond registration of the NDPS Act case is reported.
   - The page displays a lead photograph with no caption, alt text or credit identifying what it shows, so no media entry is added.
+  - The submitted page spells the surname as सातपुते while the existing report uses Satpute by transliteration.
+  - The page carries a lead photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Sainkheda police arrested farmer Yuvraj Satpute, aged 40, who owned an ancestral
-family field in Birulbazaar where cannabis plants were found growing. [@1,2]
+family field in Birulbazaar where cannabis plants were found growing. [@1,2,3]
 Police registered a case against Satpute under the NDPS Act after taking him
 into custody over the cultivation found on his own field. [@1] The enforcement
 action was reported from the Multai area, with the field, the seizure and the
 arrest all linked to Birulbazaar and the local Sainkheda police. [@1]
 
 Officers seized 16 ganja plants, the local name for cannabis, from Satpute's
-ancestral field during the Birulbazaar operation. [@1,2] Police weighed all of the
+ancestral field during the Birulbazaar operation. [@1,2,3] Police weighed all of the
 seized plants together and reported their combined total weight as 14.8
-kilograms of ganja. [@1,2] Police estimated the value of the seized cannabis at
+kilograms of ganja. [@1,2,3] Police estimated the value of the seized cannabis at
 about 110,000 rupees, presented as the authorities' own valuation of the plants.
-[@1,2]
+[@1,2,3]
 
 The case was recorded as an NDPS Act cultivation matter, with the 16 plants and
 the 14.8 kg forming the whole reported seizure in this action. [@1]
 
-Sainkheda police say they reached the field on 2 November 2026 after an informant reported that Satpute was growing cannabis on his ancestral field. [@2] The accused is identified as Yuvraj son of Sahebrao Satpute and the case was registered as Crime No. 0/26 under Sections 8/20 of the NDPS Act at Sainkheda station. [@2]
+Sainkheda police say they reached the field on 2 November 2026 after an informant reported that Satpute was growing cannabis on his ancestral field. [@2,3] The accused is identified as Yuvraj son of Sahebrao Satpute and the case was registered as Crime No. 0/26 under Sections 8/20 of the NDPS Act at Sainkheda station. [@2]
