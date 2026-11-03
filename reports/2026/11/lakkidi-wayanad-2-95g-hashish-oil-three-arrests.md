@@ -32,6 +32,11 @@ sources:
     publisher: Express Kerala
     date: 2026-11-03
     language: ml
+  - title: പോലീസിനെ കണ്ട് പരുങ്ങി; വയനാട്ടിൽ ഹാഷിഷ് ഓയിലുമായി നാല് യുവാക്കൾ പിടിയിൽ
+    url: https://www.mathrubhumi.com/crime/news/hashish-oil-seized-wayanad-kozhikode-arrests-geq5wpx4
+    publisher: Mathrubhumi
+    date: 2026-11-03
+    language: ml
 open_questions:
   - The article gives no separate date for the patrol; 2 November 2026 is its publication date and is used as the incident date.
   - Only one opened source supports this event; searches for a second report of the same Lakkidi seizure found none.
@@ -40,7 +45,7 @@ open_questions:
 ---
 
 Vythiri police arrested three youths from Kozhikode during a routine patrol at
-Lakkidi, within the limits of Vythiri police station. [@1] According to a police
+Lakkidi, within the limits of Vythiri police station. [@1,3] According to a police
 communique, the arrested men were identified as Abdul Hadi Riyas (25) of
 Chalamkott Malayil House, Kakkoor, K K Nihal (25) of Arayanna House, and Goutham
 Dinesh (24) of Madhavam House. [@1] Nihal and Dinesh are natives of Nanmanda in
@@ -52,7 +57,7 @@ the vehicle before taking the occupants into custody. [@1]
 The patrol and subsequent action were led by Vythiri Station House Officer K K
 Sobin. [@1,2] During a subsequent search, police recovered 2.95 grams of hashish
 oil allegedly stored in a small plastic bottle in Abdul Hadi Riyas's pocket.
-[@1,2]
+[@1,2,3]
 
 Speaking to Onmanorama, SHO Sobin said the three were later released on station
 bail as the quantity of the contraband seized was small. [@1]
