@@ -252,6 +252,11 @@ sources:
     publisher: Yash Bharat
     date: 2026-10-31
     language: hi
+  - title: NH-30 पर 4.35 करोड़ का गांजा जब्त, पेंट के डिब्बों की आड़ में चल रही थी तस्करी | AIMA Media
+    url: https://aimamedia.org/newsdetails.aspx?nid=837380
+    publisher: AIMA MEDIA
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -309,6 +314,8 @@ open_questions:
   - The page URL slug refers to three accused while its headline and body say two accused were arrested at the spot; the report's two-arrest count is retained.
   - The article gives no separate incident date; 31 October 2026 is its publication date and matches the report's incident date.
   - The page's sole image is captioned only Untitled 4 copy 2 with no credit, so it could not be confirmed to show this seizure and no media entry is added.
+  - The submitted page carries one image file but no caption or credit, so it could not be confirmed to show this seizure and no media entry was added.
+  - The page was published on 1 November 2026 while the existing report dates the interception to 31 October 2026; the accounts describe the same operation.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -317,27 +324,27 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33]
+Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1,32] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22,24,25,27,29,31,34] The driver and the other man tried to flee but were caught, police
+plaza. [@1,16,19,22,24,25,27,29,31,34,35] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19,27,31,33] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
 Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
-resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28] The consignment was to be unloaded near a
+resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28,35] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30] The 28 sacks were loaded
-into the container at Sahu's location on 27 October. [@1,9,11,25,27] Singh said he was
+into the container at Sahu's location on 27 October. [@1,9,11,25,27,35] Singh said he was
 promised ₹1 lakh for the trip. [@1,10,27] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
 were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28,31,33] Investigators
@@ -358,7 +365,7 @@ Superintendent of Police Sampat Upadhyay said at the police control room that th
 
 The container's driver was also its owner and was allegedly supplying cannabis in several cities before passing through Jabalpur, CG MP News reported. [@21]
 
-The case was registered under Sections 8/20 and 29 of the Narcotic Drugs and Psychotropic Substances Act. [@24,25]
+The case was registered under Sections 8/20 and 29 of the Narcotic Drugs and Psychotropic Substances Act. [@24,25,35]
 
 The Bhaskar account reports 29 sacks containing 871 kg 95 g of ganja in the truck. [@29] The Bhaskar account values the 871 kg consignment at Rs 1 crore 30 lakh 66 thousand. [@29,34]
 
