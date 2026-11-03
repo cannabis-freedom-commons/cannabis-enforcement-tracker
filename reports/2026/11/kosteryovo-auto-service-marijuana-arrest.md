@@ -46,6 +46,11 @@ sources:
     publisher: Владимирские ведомости
     date: 2026-11-03
     language: ru
+  - title: В Костереве у мужчины изъяли более 5 килограммов конопли и марихуану
+    url: https://6tv.ru/v-kostereve-u-muzhchiny-izyali-bolee-5-kilogrammov-konopli-i-marixuanu
+    publisher: 6 канал — Владимир
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The detention is dated only to late October; 3 November 2026 is the publication date of both reports and is used as the incident date
   - The official release reports more than 5 kg of plant material plus over 60 grams of ready marijuana, while the regional outlet reports almost two kilograms of plants in total, so the larger plant weight is omitted from figures and only the 0.06 kg of ready marijuana is counted
@@ -55,18 +60,21 @@ open_questions:
   - The regional outlet largely follows the police account and adds no independent witness evidence
   - The new source describes the target as an organised group but then describes only one detained 1975-born suspect.
   - The new source reports both more than 5 kg of plant material and a total of more than 1,800 g of narcotic-containing plants without explaining the difference.
+  - The new outlet breaks the seizure into more than 1.8 kg of plants and over 3 kg of cannabis parts plus over 60 g of marijuana, while the existing report records more than 5 kg of plant material, so the plant total remains unresolved
+  - The new outlet dates the discovery only to October and its own publication to 3 November 2026, so the existing publication-date incident date is retained
+  - The page carries a photo credited to the Vladimir regional FSB without a caption establishing what it shows, so no media entry is listed
 ---
 
 In late October, officers detained a 51-year-old resident of Kosteryovo on
-suspicion of unlawful drug trafficking. [@1] The detention followed operational
+suspicion of unlawful drug trafficking. [@1,4] The detention followed operational
 intelligence and involved the Petushinsky drug-control unit with Vladimir
 regional MVD drug-control and canine units, FSB colleagues and Rosgvardia
 special forces. [@1] Investigators opened two criminal cases against the man
 under Russian Criminal Code possession and attempted large-scale sale
-provisions. [@1,3] He was remanded in custody. [@1,3]
+provisions. [@1,3,4] He was remanded in custody. [@1,3,4]
 
 Searches at his home and at the car-service premises he owns found more than 5
-kg of plant material and over 60 grams of ready-to-use marijuana. [@1,3] Officers
+kg of plant material and over 60 grams of ready-to-use marijuana. [@1,3,4] Officers
 also seized a mobile phone, scales and plant-grinding tools. [@1,3] The detainee
 said he grew the cannabis for personal consumption. [@1] Police said they had
 gathered evidence linking him to attempted cannabis sale. [@1]
