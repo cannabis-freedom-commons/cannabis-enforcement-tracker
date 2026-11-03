@@ -109,10 +109,12 @@ Police said the three were not tied to a specific gang but supplied cannabis to
 groups selling it in Greater Vitória, including the Terceiro Comando Puro (TCP)
 and the Primeiro Comando de Vitória (PCV). [@2,6,7] Saulo already had police records
 for drug trafficking and robbery. [@1,6,7] The three had lived in the rented flat
-for about a year. [@1,6] The Military Police suspect the cannabis came from
+for about a year. [@1,6,7] The Military Police suspect the cannabis came from
 another state to be sold in Espírito Santo; the three did not say where it came
-from. [@2,6]
+from. [@2,6,7]
 
 The three were arrested in the act. [@4,6]
 
 Norte Notícia, reporting while officers were still counting, put the initial estimate at more than 700 kg of cannabis. [@5] That outlet said the total could still be updated once the count was finished. [@5]
+
+Police said the seizure caused a financial loss to criminal organisations, which obtain resources from drug sales and can use part of the proceeds to buy weapons and finance other illegal activities. [@7]
