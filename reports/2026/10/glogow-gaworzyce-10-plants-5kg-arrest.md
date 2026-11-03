@@ -37,6 +37,11 @@ sources:
     publisher: Policja Dolnośląska
     date: 2026-11-03
     language: pl
+  - title: Uprawiał konopie, ścięte rośliny suszył na strychu
+    url: https://miedziowe.pl/content/view/122773/81/
+    publisher: miedziowe.pl
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The exact village holding the property is not named, only a village near Głogów.
   - No separate day is given for the raid and arrest; 31 October 2026 is the court remand date used as the incident date, while 2 November 2026 is the article publication date.
@@ -48,6 +53,11 @@ open_questions:
   - The agency statement describes one standing bush about 170 cm tall plus cut bushes totalling over 5 kg without stating a total plant number, while the existing report records at least 10 plants from outlet accounts.
   - The agency statement identifies the suspect only as a 44-year-old resident of Polkowice county and does not name the village or confirm the Gmina Gaworzyce residence given in the existing report.
   - The agency page displays six gallery photos of the detention and cannabis material; no media entry is included in this additional-source result.
+  - The submitted page reports one thriving bush plus over 5 kg of cut bushes, while the existing report records at least 10 plants from other outlet accounts, so the total plant count remains unresolved.
+  - The submitted page names only Polkowice county and the Głogów court and does not name the village or confirm the Gmina Gaworzyce residence given in the existing report.
+  - The submitted page confirms the 29 October raid and three-month detention but gives no remand date; the existing report uses 31 October as the remand date.
+  - The page carries a police-credited photo captioned only (fot. KPP Polkowice) without describing what it shows and appears to republish the police handout already cited, so no media entry is added.
+  - 'Left out, as its quotation was not found in miedziowe.pl: Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property.'
 ---
 
 Polkowice police traced a cannabis grow on a property in a village near Głogów
@@ -56,7 +66,7 @@ investigation in the case was run by police from Polkowice. [@1,2,3] Głogów di
 prosecutor Marek Wójcik charged him with manufacturing and processing
 significant quantities of intoxicants from March to October 2026. [@1] After the
 charges were presented, the prosecutor asked the court to detain the man pending
-trial. [@1] On 31 October the Głogów District Court placed him in pre-trial
+trial. [@1,4] On 31 October the Głogów District Court placed him in pre-trial
 detention for three months. [@1,2,3] The detainee confessed to the charges. [@1,2]
 
 At the property officers found what they described as cannabis other than
@@ -65,10 +75,10 @@ the plants as significant quantities of cannabis other than fibrous hemp,
 meaning marijuana. [@1] They also seized large quantities of herbal material
 processed most likely on site, which police put at at least 5 kilograms of dried
 cannabis. [@1,3] The offence as charged is punishable by 3 to 20 years’
-imprisonment. [@1]
+imprisonment. [@1,4]
 
 Police say they are still establishing what the man intended to do with the
 dried cannabis he produced. [@1] Officers found the grow and at least 5 kg of
 ready dried material on a property in a village near Głogów. [@1]
 
-Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3]
+Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3,4]
