@@ -100,6 +100,11 @@ sources:
     publisher: Nasional.id
     date: 2026-11-02
     language: id
+  - title: BNN bersama Polri Musnahkan 122 Hektare Ladang Ganja di Aceh, 186 Ribu Batang Disita
+    url: https://1kabar.com/bnn-bersama-polri-musnahkan-122-hektare-ladang-ganja-di-aceh-186-ribu-batang-disita/
+    publisher: 1kabar.com
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -130,6 +135,7 @@ open_questions:
   - The submitted page spells the Pidie site as Desa Blang Padang, Kecamatan Tangse, while the existing report uses Desa Blang Pandak, Tangse.
   - The page carries one photo captioned as Bareskrim mapping vulnerable points with credit Istimewa, which does not establish that it shows the fields, plants or destruction, so no media entry is added.
   - The listed phase areas of about 18, 77, 0.04, 0.7, 2, 0.12 and 25 hectares add to more than the official 122.86-hectare total; the existing report keeps the official total.
+  - The page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this eradication, so no media entry is added.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
@@ -145,13 +151,13 @@ Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
 [@1]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3,4,6,7,9,10,11] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3,4,6,7,9,10,11,12] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
 about 150,000 cannabis plants aged about five to six months. [@1] Officers
 burned those plants on the spot. [@1] The Mandailing Natal find began with a
 public tip on 29 October about suspected planting at Tor Sihite. [@1] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
-in Nagan Raya on 31 October. [@1,9,10] Police also listed about two hectares
+in Nagan Raya on 31 October. [@1,9,10,12] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
 2 November. [@1,2,3,8] Police added about 0.04 hectares uprooted in Bener Meriah and
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6]
@@ -159,6 +165,6 @@ about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6]
 Police said the eradication was intended to break the narcotics distribution
 chain at its production source. [@1,5]
 
-Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6,9,10,11] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7,9,10,11] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7]
+Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6,9,10,11,12] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7,9,10,11,12] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7]
 
 In Bener Meriah, police destroyed 600 cannabis plants on 0.04 hectares on 1 November. [@10] In Aceh Besar, police destroyed an estimated 1,050 cannabis plants on 0.7 hectares. [@10]
