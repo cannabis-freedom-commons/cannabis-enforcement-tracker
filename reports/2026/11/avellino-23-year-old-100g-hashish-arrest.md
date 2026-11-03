@@ -27,6 +27,11 @@ sources:
     publisher: Ottopagine
     date: 2026-11-02
     language: it
+  - title: 'Jugendkriminalität im Visier: Festnahmen in Avellino'
+    url: https://www.ilmattino.it/AMP/de/jugendkriminalitat_im_visier_festnahmen_in_avellino-9863958.html
+    publisher: Il Mattino
+    date: 2026-11-02
+    language: de
 open_questions:
   - No separate arrest date is given; 2 November 2026 is the publication date of both reports and is used as the incident date, while the arrest is described only as occurring within a two-week national operation.
   - The 50 grams of cocaine reported with the hashish is excluded from kg_seized; no combined drug total is counted as cannabis.
@@ -34,17 +39,19 @@ open_questions:
   - No court outcome, charge or detention status for the 23-year-old was reported.
   - The Ottopagine headline calls the cannabis marijuana while its body and the Virgilio report call it hashish; the report uses hashish from the article bodies.
   - 'No event-specific photo could be listed: the Virgilio image is a labelled repertory/file photo and the Ottopagine thumbnail caption does not establish that it shows this seizure.'
+  - The page gives only its publication date of 2 November 2026 and no separate day for the checks and arrest.
+  - The page carries a photo captioned Operazione della polizia, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Avellino's Squadra Mobile officers arrested a 23-year-old man from Avellino in
 flagrante during checks in the city. [@1] The arrest followed controls and
 identifications of numerous young people in districts of Avellino frequented by
-people with previous police records. [@1] The arrests were part of a vast
+people with previous police records. [@1,3] The arrests were part of a vast
 national operation conducted over the previous two weeks against offences
 committed by young people, including minors. [@1]
 
 During the checks, officers found the 23-year-old carrying 50 grams of cocaine
-and 100 grams of hashish, together with 850 euros in cash. [@1] Police seized
+and 100 grams of hashish, together with 850 euros in cash. [@1,3] Police seized
 the cocaine, the hashish and the cash reported in the drug case. [@1] Of the
 drugs in the case, only the 100 grams of hashish is counted here as cannabis,
 while the 50 grams of cocaine is excluded from the cannabis figure. [@1]
@@ -52,4 +59,3 @@ while the 50 grams of cocaine is excluded from the cannabis figure. [@1]
 The national operation targeted young people, including minors, involved
 individually or in groups in crimes against persons and property and in weapons
 and drugs matters. [@2]
-
