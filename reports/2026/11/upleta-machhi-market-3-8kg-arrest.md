@@ -49,6 +49,11 @@ sources:
     publisher: Abtak Media
     date: 2026-11-03
     language: gu
+  - title: 'Video: ધોરાજી અને ઉપલેટામાં રાજકોટ ગ્રામ્ય SOGના દરોડા, 13.6 કિલો ગાંજા સાથે ત્રણ શખ્સો ઝડપાયા!'
+    url: https://www.gstv.in/news/gujarat/rajkot/rajkot-rural-sog-raids-in-dhoraji-and-upleta-three-men-arrested-with-136-kg-of-cannabis
+    publisher: GSTV
+    date: 2026-11-03
+    language: gu
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the raid.
   - No second independent outlet account of this 3.816 kg Upleta seizure was found; the video and text pages are the same outlet and story.
@@ -59,6 +64,7 @@ open_questions:
   - Abtak Media values the ganja at Rs 1.90 lakh with total property of Rs 1,91,300, while the existing report uses Rs 190,800 for the drug within the same Rs 191,300 total, so the precise Rs 190,800 breakdown remains single-source.
   - Abtak Media does not give the detained man's age, the names of the Rajkot Range DIG and Rajkot Rural SP, the itemised non-drug property, or the NDPS section numbers, so those existing details remain supported only by Divya Bhaskar.
   - The Abtak Media page carries a lead photo captioned for this seizure, but the caption and credit do not establish that it shows this seizure and it may duplicate the existing outlet's handout photo, so no media entry is added.
+  - GSTV rounds the Upleta portion to 3 kg 800 g within a combined Rs 6.8 lakh total, while the existing report uses 3.816 kg valued at Rs 190,800 within Rs 191,300 total; the existing precise figures are retained.
 ---
 
 During the raid, officers detained 36-year-old Imran alias Javlo Siddikbhai
@@ -79,7 +85,7 @@ Gurjar. [@2]
 
 Police said a 2023 case under the NDPS Act at Jamjodhpur police station was
 already recorded against the detained man. [@2] Police declared the alleged
-Odisha supplier wanted and set wheels in motion to catch him. [@2] Upleta police
+Odisha supplier wanted and set wheels in motion to catch him. [@2,4] Upleta police
 registered a case against both men involved under NDPS Act sections 8(C),
 20(B)(2-B) and 29 and began further investigation. [@2]
 

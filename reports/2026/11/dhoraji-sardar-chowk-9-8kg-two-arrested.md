@@ -34,6 +34,11 @@ sources:
     publisher: Abtak Media
     date: 2026-11-02
     language: gu
+  - title: 'Video: ધોરાજી અને ઉપલેટામાં રાજકોટ ગ્રામ્ય SOGના દરોડા, 13.6 કિલો ગાંજા સાથે ત્રણ શખ્સો ઝડપાયા!'
+    url: https://www.gstv.in/news/gujarat/rajkot/rajkot-rural-sog-raids-in-dhoraji-and-upleta-three-men-arrested-with-136-kg-of-cannabis
+    publisher: GSTV
+    date: 2026-11-03
+    language: gu
 open_questions:
   - The Divya Bhaskar text dates the operations to 2 November 2024 while it was published on 3 November 2026; 2 November 2026 is used as the incident date consistent with the Abtak report dated 2 November 2026.
   - Divya Bhaskar rounds the Dhoraji seizure to Rs 4.90 lakh of ganja within Rs 5 lakh total, while Abtak gives Rs 489,850 within Rs 499,850; the report uses the precise Abtak figures.
@@ -44,6 +49,11 @@ open_questions:
   - 'Left out, as its quotation was not found in Divya Bhaskar: Kasam Sama already faced four prohibition cases recorded at Jamjodhpur police station between 2014 and 2016.'
   - 'Left out, as its quotation was not found in Divya Bhaskar: The men allegedly sourced the ganja from Kansa village in Balasore district, Odisha, and police are investigating a wanted Odisha suspect and the wider supply network.'
   - 'Not added to upleta-machhi-market-3-8kg-arrest, as its quotation was not found in Divya Bhaskar: Police said the detained man admitted bringing the ganja by train from a man in Kangsa (Kansa) village in Balasore district, Odisha, to sell retail in the Upleta area.'
+  - The GSTV page gives only its publication date of 3 November 2026 and no separate date for the raids; the existing reports use 2 November 2026.
+  - GSTV rounds the breakdown to 9 kg 80 g at Dhoraji and 3 kg 800 g at Upleta with Rs 6.8 lakh total, while the existing reports use precise figures of 9.797 kg and Rs 499,850 for Dhoraji and 3.816 kg and Rs 191,300 for Upleta; the existing precise figures are retained.
+  - The GSTV page combines two seizures already recorded separately as Dhoraji and Upleta reports, so no combined quantity is recorded as a new event.
+  - The page video thumbnail is captioned only as source gstv and is not established to show this seizure, so no media entry is included.
+  - No second full outlet account of the combined roundup could be opened; social-media snippets mentioning the same 13.6 kg total are not evidence.
 ---
 
 The Rural SOG team had rushed to Sardar Chowk and set a watch there after
@@ -52,7 +62,7 @@ receiving a tip that two men would arrive with narcotics. [@1]
 Officers seized about 9.797 kg of ganja packed in four sacks, which police
 valued at Rs 489,850. [@1] Including mobile phones, police put the total
 property seized at Rs 499,850. [@1] The men told police they had brought the
-ganja by train from Odisha. [@1] They said they got off at Rajkot railway
+ganja by train from Odisha. [@1,2] They said they got off at Rajkot railway
 station and reached Dhoraji by bus. [@1] Police suspect the pair had come to
 deliver the consignment in Dhoraji, while the accused claimed the delivery was
 meant for Rajkot and they diverted to Dhoraji fearing checks. [@1] Police are
@@ -62,4 +72,3 @@ The operation was part of the Say No to Drugs mission on District Superintendent
 Vijaysinh Gurjar's instructions and was carried out by Rural SOG PI F A Pargi's
 team. [@1] Police registered an NDPS Act complaint against both men at Dhoraji
 City police station. [@1]
-
