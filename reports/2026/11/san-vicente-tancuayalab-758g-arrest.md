@@ -61,6 +61,11 @@ sources:
     publisher: El Imparcial de Matehuala
     date: 2026-11-01
     language: es
+  - title: Caen dos presuntos operadores criminales en la Huasteca Potosina; les aseguran 675 dosis de droga
+    url: https://www.telediario.mx/policia/slp-caen-presuntos-operadores-criminales-huasteca-potosina
+    publisher: Telediario
+    date: 2026-11-01
+    language: es
 open_questions:
   - The reports give no separate date for the operation; 1 November 2026 is the publication date of the earliest opened account.
   - No weight was given for the 84 marijuana cigarettes, so the 758.3 g figure covers the 100 bags only.
@@ -78,11 +83,11 @@ intelligence information. [@1,5,7] Investigators said they were linked to drug
 distribution and halconeo, or lookout work, at sales points in Tamuín, San
 Vicente Tancuayalab and Tanquián de Escobedo. [@1]
 
-Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,2,5,6,7] They also found
+Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,2,5,6,7,8] They also found
 42 packages holding 84 marijuana cigarettes. [@1,2,6,7] With them were a portable
-radio, two mobile phones and the motorcycle the pair were riding. [@2] The rest
+radio, two mobile phones and the motorcycle the pair were riding. [@2,8] The rest
 of the haul was 401 doses of cristal, 40 doses of piedra and 50 doses of a
-substance with cocaine characteristics. [@2] Pulso SLP said the official
+substance with cocaine characteristics. [@2,8] Pulso SLP said the official
 breakdown added doses, bags and cigarettes to 675 units of drugs. [@3,7]
 
 Jesús Juárez Hernández, head of the state Secretariat of Security and Citizen
@@ -92,3 +97,5 @@ intervene with coordinated operations. [@1] The SSPC did not name the criminal
 group it links to the pair. [@3] The two and the seized items were placed at the
 disposal of the competent authorities, which are to continue the investigation
 and determine their legal situation. [@4]
+
+The operation was a ground operation with air support. [@8]
