@@ -51,6 +51,11 @@ sources:
     publisher: CHTV
     date: 2026-10-30
     language: es
+  - title: '#ÚLTIMAHORA | Incineramos más de 400 libras de marihuana decomisadas a integrante del cartel "El Diablo"'
+    url: https://www.facebook.com/PoliciaNacionaldeHonduras/posts/%C3%BAltimahora-incineramos-m%C3%A1s-de-400-libras-de-marihuana-decomisadas-a-integrante-d/1458847449771560/
+    publisher: Policía Nacional de Honduras
+    date: 2026-10-30
+    language: es
 media:
   - kind: photo
     url: https://policianacional.gob.hn/en-la-capital-dpi-incinera-mas-de-400-libras-de-marihuana-decomisadas-a-presunto-integrante-del-cartel-el-diablo/
@@ -71,4 +76,6 @@ weight and substance. [@1,2]
 public health; the weapon would be investigated separately. [@1,2] Reports did not name any
 accomplices. [@1,2]
 
-Police announced that the DPI had burned more than 400 pounds of marijuana seized from the 'Cartel del Diablo' in the capital. [@3] The load had been seized on 22 October 2026 during a police operation in Marale, Francisco Morazán. [@4] The destruction took place at the Military Police complex in Las Casitas, Tegucigalpa, with prosecutors, the ARSA health regulator and the fire service taking part. [@4] Police said the load was taken from a suspect known as 'El Colocho', a suspected member of the 'El Diablo' cartel. [@4] A man remained in custody in the case, CHTV reported. [@5]
+Police announced that the DPI had burned more than 400 pounds of marijuana seized from the 'Cartel del Diablo' in the capital. [@3,6] The load had been seized on 22 October 2026 during a police operation in Marale, Francisco Morazán. [@4] The destruction took place at the Military Police complex in Las Casitas, Tegucigalpa, with prosecutors, the ARSA health regulator and the fire service taking part. [@4] Police said the load was taken from a suspect known as 'El Colocho', a suspected member of the 'El Diablo' cartel. [@4] A man remained in custody in the case, CHTV reported. [@5]
+
+The destruction was carried out under strict security protocols and in accordance with the country's current law. [@6]
