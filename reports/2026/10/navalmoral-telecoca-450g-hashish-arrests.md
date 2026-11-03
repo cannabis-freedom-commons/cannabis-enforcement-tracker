@@ -86,14 +86,14 @@ open_questions:
 
 Guardia Civil officers arrested four people, two men and two women, in
 Navalmoral de la Mata as alleged members of a drug-trafficking criminal group.
-[@1,4,5,6,7,8] The detainees were placed at the disposal of Court of Instance No. 1 in
+[@1,2,4,5,6,7,8] The detainees were placed at the disposal of Court of Instance No. 1 in
 Navalmoral de la Mata, which will continue the judicial proceedings. [@2,5,6]
 
 Officers called the case Operation Telecoca 2026. [@3,5] Three entries and
 searches of linked properties recovered 450 grams of hashish, the cannabis
-component recorded here. [@1,4,5,6,7,8] The same searches also yielded 60 doses of
+component recorded here. [@1,2,4,5,6,7,8] The same searches also yielded 60 doses of
 cocaine, about 13,000 euros in cash and jewellery, mentioned only to explain the
-mixed case and excluded from cannabis figures. [@1,5,6,8]
+mixed case and excluded from cannabis figures. [@1,2,5,6,8]
 
 The investigation lasted about a year after agents learned of a possible drug
 sales point in the town, mainly for cocaine. [@1,6] Investigators said the four
