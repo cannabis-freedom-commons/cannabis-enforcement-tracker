@@ -58,6 +58,11 @@ sources:
     publisher: ENIKOS
     date: 2026-11-01
     language: el
+  - title: Δύο συλλήψεις για κατοχή και διακίνηση κατεργασμένης κάνναβης
+    url: https://www.kontranews.gr/koinonia/dyo-syllipseis-gia-katochi-kai-diakinisi-katergasmenis-kannavis/
+    publisher: KontraNews
+    date: 2026-11-02
+    language: el
 open_questions:
   - The 32.91 kg figure is the sum of the two stated gross weights, 590 grams plus 32 kilograms and 320 grams, and includes packaging.
   - No court outcome after referral to the prosecutor was reported.
@@ -75,11 +80,15 @@ open_questions:
   - The submitted page says one of those arrested had previously occupied the authorities, while the existing report says both were known to the authorities.
   - The page carries a lead image captioned only with the headline and no credit, so whether it shows this seizure could not be established and no media entry is added.
   - The page carries a lead photo captioned only “Κάνναβη” with no credit linking it to this seizure, so no media entry is added.
+  - The Kontranews page gives only its publication date of 2 November 2026 and no separate date for the arrests and seizure, while the existing report dates the event to 1 November 2026.
+  - The page calls the second location only a stash space and does not name Ithomis Street used in the existing report.
+  - The page does not mention the DRY SiFT 2026 labels, car, watch, phones, scale, gloves or keys recorded in the existing report.
+  - The page image has an empty caption and credit and its filename indicates a generic patrol-car illustration, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Greek police arrested two men aged 22 and 23 in Athens on 1 November 2026 on
 suspicion of possessing and trafficking large quantities of processed cannabis,
-commonly known as hashish. [@1,4,5,6,7] Officers of the Narcotics Prosecution
+commonly known as hashish. [@1,4,5,6,7,8] Officers of the Narcotics Prosecution
 Sub-Directorate said targeted investigations and intelligence established the
 alleged operation. [@1] Authorities believe the two suspects supplied drugs
 across the wider Attica region. [@1,3] Police said both suspects were already
@@ -87,7 +96,7 @@ known to the authorities, and officers brought the two men before the competent
 public prosecutor to face charges. [@1,3,4,5,6,7]
 
 Officers stopped the 22-year-old in Kypseli and found seven paper packages
-containing a total of 590 grams of processed cannabis in his possession. [@1,3,4,5,6,7]
+containing a total of 590 grams of processed cannabis in his possession. [@1,3,4,5,6,7,8]
 The 22-year-old allegedly resisted arrest by violently pushing officers, after
 collecting the drugs from his 23-year-old accomplice minutes earlier to
 distribute on the streets of Athens. [@1]
@@ -97,7 +106,7 @@ Street in Athens allegedly used exclusively to conceal and store drugs, where
 they found the 23-year-old acting as custodian of the stash. [@1,6] In the
 apartment officers seized 31 airtight nylon packages, each containing ten paper
 packages of processed cannabis, with a total gross weight of approximately 32
-kilograms and 320 grams, some of which carried the label “DRY SiFT 2026”. [@1,3]
+kilograms and 320 grams, some of which carried the label “DRY SiFT 2026”. [@1,3,8]
 Officers also seized a car, a wristwatch, two mobile phones, a precision
 electronic scale, and fabric gloves and keys. [@1,5] The Skai account confirms the
 same operation, with the 22-year-old holding 590 grams in seven packages in
