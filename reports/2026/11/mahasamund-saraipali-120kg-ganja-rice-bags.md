@@ -27,6 +27,11 @@ sources:
     publisher: Deshbandhu
     date: 2026-11-03
     language: hi
+  - title: छत्तीसगढ़ चावल की बोरियों के बीच छिपाकर ले जाए जा रहे 120.960 किलो गांजा जब्त, दो तस्कर गिरफ्तार
+    url: https://www.bhaskarhindi.com/other/chhattisgarh-chawal-ki-boriyon-ke-beech-chhipakar-le-jaye-ja-rahe-120-960-kilo-ganja-jabt-do-taskar-giraftar-1386859
+    publisher: Bhaskar Hindi
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article gives no separate date for the interception; 3 November 2026 is its dateline and publication timestamp and is used as the incident date.
   - Only one accessible source for this event was opened after searching; no second account could be added.
@@ -35,16 +40,16 @@ open_questions:
 ---
 
 Mahasamund police arrested two alleged smugglers from Uttar Pradesh with ganja
-hidden in a container truck. [@1] The men identified themselves as Amandeep, 27,
-and Lallu Yadav, 24, both residents of Jaunpur district. [@1] The Anti-Narcotic
+hidden in a container truck. [@1,2] The men identified themselves as Amandeep, 27,
+and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2] The Anti-Narcotic
 Task Force and Saraipali police stopped the suspect container at the Khamharpali
 RTO barrier after a tip that a large ganja consignment was being taken from
-Odisha through Chhattisgarh toward Raipur. [@1] Police registered a case at
+Odisha through Chhattisgarh toward Raipur. [@1,2] Police registered a case at
 Saraipali police station under Section 20(b) of the NDPS Act and sent both
-accused to judicial remand. [@1]
+accused to judicial remand. [@1,2]
 
 Officers searching the container found 117 packets concealed in four bags among
-about 300 rice bags. [@1] The search recovered 120.960 kilograms of ganja, which
+about 300 rice bags. [@1,2] The search recovered 120.960 kilograms of ganja, which
 police estimated to be worth Rs 6,048,000. [@1] Police put the ganja's value at
 about Rs 60.48 lakh and said the total seizure together with the container and
 other goods exceeded Rs 1 crore. [@1] Besides the drug, officers seized the
@@ -55,4 +60,3 @@ Police said the seizure was made in Mahasamund district under Operation
 Nishchay. [@1] Police said investigation into forward and backward links was
 continuing to trace the supply chain, source, destination and financial network.
 [@1]
-
