@@ -1,11 +1,11 @@
-// USD per million tokens. Operator-supplied Swancloud rates include no peak or cache
-// discount. DeepSeek OpenCode Go rates: https://opencode.ai/v2/docs/console/go (half price
+// USD per million tokens. Operator-supplied Swancloud rates have no peak adjustment.
+// DeepSeek OpenCode Go rates: https://opencode.ai/v2/docs/console/go (half price
 // outside 01:00–04:00 and 06:00–10:00 UTC weekdays). Reasoning is billed as output.
 export const MODEL_PRICES = {
   // Swancloud rates and 15× subscription supplied by the operator (USD / million tokens).
-  // No separate cached-input rate supplied: estimate it at the standard input price.
-  "swancloud/muse-spark-1.3-contributor": { input: 0.100, output: 0.200, planMultiplier: 15 },
-  "swancloud/deepseek-v4.1-flash": { input: 0.150, output: 0.090, planMultiplier: 15 },
+  // Cached input uses the standard input price where no separate rate was supplied.
+  "swancloud/muse-spark-1.3-contributor": { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
+  "swancloud/deepseek-v4.1-flash": { input: 0.150, output: 0.6, planMultiplier: 15 },
   // Operator-supplied API rates and 6× plan; no time-of-day adjustment.
   "opencode-go/muse-spark-1.3-contributor": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },
   "opencode-go/deepseek-v4.1-flash": { input: 0.15, output: 0.6, cached: 0.003, peakInput: 0.3, peakOutput: 1.2, peakCached: 0.006 },

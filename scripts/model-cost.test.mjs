@@ -59,9 +59,9 @@ test("costs keep four decimals, and six below a ten-thousandth of a dollar", () 
   assert.equal(formatUSD(0), "—");
 });
 
-for (const [model,input,output] of [
- ["swancloud/muse-spark-1.3-contributor",0.100,0.200],
- ["swancloud/deepseek-v4.1-flash",0.150,0.090],
+for (const [model,input,output,cached] of [
+ ["swancloud/muse-spark-1.3-contributor",0.100,0.200,0.002],
+ ["swancloud/deepseek-v4.1-flash",0.150,0.600,0.150],
 ]) {
  test(`${model} uses the supplied API rates and 15× plan at every hour`,()=>{
   for(const started_at of [peak,offPeak]) {
@@ -71,7 +71,8 @@ for (const [model,input,output] of [
    assert.equal(modelPlan(run.model,null).multiplier,15);
   }
   const run={model,input_tokens:1e6,cache_read_tokens:1e6,cache_write_tokens:1e6,output_tokens:1e6,reasoning_tokens:1e6};
-  assert(Math.abs(runCost(run)-(3*input+2*output))<1e-12);
+  assert(Math.abs(runCost(run)-(2*input+cached+2*output))<1e-12);
+  assert.equal(runCost({model,cache_read_tokens:1e6}),cached);
   assert.equal(runCost({...run,cost_usd:3}),3);
   assert.equal(planCost(3,null,model),0.2);
  });
