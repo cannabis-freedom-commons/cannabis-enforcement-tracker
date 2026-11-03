@@ -1,4 +1,5 @@
 ---
+code: SK880S
 date: 2026-10-29
 country: in
 place: Khadrak village, Bhairavsthan, Madhubani, Bihar

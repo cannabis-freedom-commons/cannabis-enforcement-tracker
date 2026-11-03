@@ -1,4 +1,5 @@
 ---
+code: HPW6GG
 date: 2026-11-01
 country: in
 place: Narmada Ghat, Navghat Khedi, Barwaha, Khargone

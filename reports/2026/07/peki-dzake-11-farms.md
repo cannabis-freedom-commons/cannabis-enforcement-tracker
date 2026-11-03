@@ -1,4 +1,5 @@
 ---
+code: ZTHNYR
 date: 2026-07-09
 country: gh
 place: Peki-Dzake, South Dayi, Volta Region

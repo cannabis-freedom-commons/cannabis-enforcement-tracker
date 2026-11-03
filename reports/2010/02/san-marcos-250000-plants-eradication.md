@@ -1,4 +1,5 @@
 ---
+code: WNWCNY
 date: 2010-02-05
 country: gt
 place: Ixchiguán and Tajumulco, San Marcos

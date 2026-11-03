@@ -1,4 +1,5 @@
 ---
+code: J6983J
 date: 2026-11-01
 country: in
 place: Krishnapalayam village, Shoolagiri, Krishnagiri district, Tamil Nadu

@@ -1,4 +1,5 @@
 ---
+code: AR8B85
 date: 2026-10-30
 country: ua
 place: Khust

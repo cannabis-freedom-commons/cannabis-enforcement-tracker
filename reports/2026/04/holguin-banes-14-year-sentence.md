@@ -1,4 +1,5 @@
 ---
+code: 0ZD702
 date: 2026-04-28
 country: cu
 place: Jagüeyes de Puerto Rico, Banes, Holguín

@@ -1,4 +1,5 @@
 ---
+code: YB3P9R
 date: 2026-09-01
 country: gh
 place: Jasikan Circuit Court, Jasikan, Oti Region

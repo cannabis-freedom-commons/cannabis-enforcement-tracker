@@ -1,4 +1,5 @@
 ---
+code: YS0P77
 date: 2026-11-01
 country: in
 place: Kanjarpurwa, Kidwai Nagar, Kanpur

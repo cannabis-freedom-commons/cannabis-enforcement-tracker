@@ -1,4 +1,5 @@
 ---
+code: 9A0V4X
 date: 2026-11-02
 country: in
 place: Alampur Mor, Gangoh, Saharanpur, Uttar Pradesh

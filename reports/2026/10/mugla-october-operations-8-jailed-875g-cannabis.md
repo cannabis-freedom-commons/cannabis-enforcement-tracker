@@ -1,4 +1,5 @@
 ---
+code: MRP0GY
 date: 2026-10-31
 country: tr
 place: Muğla province

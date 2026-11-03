@@ -1,4 +1,5 @@
 ---
+code: G9JAGY
 date: 2026-10-31
 country: eg
 place: Al-Nozha police district, Cairo

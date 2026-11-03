@@ -1,4 +1,5 @@
 ---
+code: 6S7THM
 date: 2026-11-02
 country: ua
 place: Mykolaiv, Mykolaiv Oblast

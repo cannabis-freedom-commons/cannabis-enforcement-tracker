@@ -1,4 +1,5 @@
 ---
+code: MYN68W
 date: 2026-10-30
 country: kz
 place: Almaty, Kazakhstan

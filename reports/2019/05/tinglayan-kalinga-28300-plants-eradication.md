@@ -1,4 +1,5 @@
 ---
+code: DFHZHA
 date: 2019-05-29
 country: ph
 place: Butbut Proper, Tinglayan, Kalinga

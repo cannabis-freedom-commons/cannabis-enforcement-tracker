@@ -1,4 +1,5 @@
 ---
+code: 1FCBNX
 date: 2026-11-01
 country: bd
 place: Anantpur and Balarhat border, Fulbari, Kurigram

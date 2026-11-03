@@ -1,4 +1,5 @@
 ---
+code: 4764MS
 date: 2026-08-14
 country: bo
 place: La Angostura, El Torno, Santa Cruz

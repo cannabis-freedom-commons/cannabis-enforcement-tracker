@@ -1,4 +1,5 @@
 ---
+code: 51XGYJ
 date: 2026-10-11
 country: in
 place: Chhota Itara, Alirajpur

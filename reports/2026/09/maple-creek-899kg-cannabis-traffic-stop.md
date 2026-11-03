@@ -1,4 +1,5 @@
 ---
+code: KNCWH3
 date: 2026-09-04
 country: ca/sk
 place: Maple Creek area, Saskatchewan

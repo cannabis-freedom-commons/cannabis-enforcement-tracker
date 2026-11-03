@@ -1,4 +1,5 @@
 ---
+code: 5YANHW
 date: 2026-10-28
 country: in
 place: Bhagoli Nala, Jubbal, Shimla district, Himachal Pradesh

@@ -1,4 +1,5 @@
 ---
+code: Y6KM1G
 date: 2026-10-30
 country: bd
 place: Belpukur roundabout, Natore–Rajshahi Highway, Rajshahi

@@ -1,4 +1,5 @@
 ---
+code: 96KBZY
 date: 2026-10-30
 country: br
 place: Perobas district, Domingos Martins, Espírito Santo

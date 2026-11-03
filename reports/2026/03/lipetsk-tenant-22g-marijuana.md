@@ -1,4 +1,5 @@
 ---
+code: 7DETBX
 date: 2026-03-03
 country: ru
 place: Lipetsk

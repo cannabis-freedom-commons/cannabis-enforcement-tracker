@@ -1,4 +1,5 @@
 ---
+code: Z2YPA9
 date: 2026-10-23
 country: pk
 place: Gulistan and Dobandi, Killa Abdullah

@@ -1,4 +1,5 @@
 ---
+code: K2BEVK
 date: 2026-08-13
 country: id
 place: Teupin Reusep, Sawang, Aceh Utara

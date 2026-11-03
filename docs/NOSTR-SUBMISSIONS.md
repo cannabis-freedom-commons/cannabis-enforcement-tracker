@@ -253,7 +253,17 @@ each report file the run writes is checked on its own (`CheckReport` in
 (`src/content.config.ts`) and the report tests (`scripts/reports.test.mjs`): known fields and types,
 country, type, precision and status ids, its reports/<year>/<month>/ path and slug, and every
 citation naming a source and every source cited. A test runs the check over every existing report,
-so it cannot be stricter than the site. The commit accepts only the validated report and
+so it cannot be stricter than the site.
+
+The service assigns every new report a permanent six-character `code` using the same SHA-256
+slug hash and Crockford base32 encoding as `npm run codes`, trying `slug#1`, `slug#2`, etc. on
+a collision. The field is a required YAML string, stored without `CET-`; it is service-owned
+and never accepted from model JSON. Updates and moves preserve existing codes; legacy reports
+without one gain a code when updated. Draft validation checks uniqueness, and publication
+rechecks it against the current working tree under the commit lock to catch concurrent claims.
+Restart the backend after updating this code.
+
+The commit accepts only the validated report and
 its old dated path when moving an existing report. It refuses local edits on those paths and
 concurrent changes to an existing report. Git `commit --only` excludes unrelated staged files.
 A case trailer and a persisted SHA recover publication retries without a second commit.

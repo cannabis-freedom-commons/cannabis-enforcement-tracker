@@ -1,4 +1,5 @@
 ---
+code: D6120M
 date: 2026-11-02
 country: pk
 place: Dera Town and Kirri Khaisour, Dera Ismail Khan

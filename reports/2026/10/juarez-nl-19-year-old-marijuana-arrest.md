@@ -1,4 +1,5 @@
 ---
+code: W5RDVW
 date: 2026-10-29
 country: mx
 place: Los Cometas, Juárez, Nuevo León

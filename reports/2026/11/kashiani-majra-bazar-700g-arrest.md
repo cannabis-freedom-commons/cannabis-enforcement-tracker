@@ -1,4 +1,5 @@
 ---
+code: YXC99H
 date: 2026-11-02
 country: bd
 place: In front of Majra Bazar government market, Bhattaidhopa, Kashiani, Gopalganj

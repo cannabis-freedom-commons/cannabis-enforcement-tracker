@@ -1,4 +1,5 @@
 ---
+code: RHQGS8
 date: 2026-10-30
 country: bd
 place: Uttar Adharmanik, Radhanagar, Chhagalnaiya, Feni

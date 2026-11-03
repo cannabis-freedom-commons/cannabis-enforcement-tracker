@@ -1,4 +1,5 @@
 ---
+code: FCJ8KV
 date: 2026-10-31
 country: in
 place: Ashapur Bhatu colony, Mukhtyarpur Nawada, Kanth, Moradabad, Uttar Pradesh

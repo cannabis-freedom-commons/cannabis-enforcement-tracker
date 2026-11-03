@@ -1,4 +1,5 @@
 ---
+code: FCA7F5
 date: 2026-10-30
 country: br
 place: LMG-629 near km 15 and bairro Santos Cruzeiro, Taiobeiras

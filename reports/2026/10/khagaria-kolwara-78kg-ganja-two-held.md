@@ -1,4 +1,5 @@
 ---
+code: DQMJG3
 date: 2026-10-30
 country: in
 place: Kolwara village, Madaiya police station area, Khagaria district, Bihar

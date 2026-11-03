@@ -1,4 +1,5 @@
 ---
+code: DK46XJ
 date: 2026-09-17
 country: ng
 place: Modire Community, Yolde Pate, Yola South LGA, Adamawa State

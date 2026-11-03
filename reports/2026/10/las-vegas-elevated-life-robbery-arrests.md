@@ -1,4 +1,5 @@
 ---
+code: 69Y137
 date: 2026-10-27
 country: us/nv
 place: 3400 block of East Flamingo Road, Las Vegas, Nevada

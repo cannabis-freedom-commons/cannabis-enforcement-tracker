@@ -1,4 +1,5 @@
 ---
+code: 98HVC3
 date: 2025-06-02
 country: cn
 place: Lanpa Village, Yuqikat Town, Xinhe County, Xinjiang

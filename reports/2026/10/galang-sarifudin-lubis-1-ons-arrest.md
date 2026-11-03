@@ -1,4 +1,5 @@
 ---
+code: E3JDH0
 date: 2026-10-30
 country: id
 place: Jalan Perintis Kemerdekaan, Galang Kota, Galang, Deli Serdang

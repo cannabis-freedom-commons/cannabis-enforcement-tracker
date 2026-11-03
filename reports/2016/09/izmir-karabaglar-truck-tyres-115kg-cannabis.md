@@ -1,4 +1,5 @@
 ---
+code: H000M0
 date: 2016-09-27
 country: tr
 place: Karabağlar, İzmir

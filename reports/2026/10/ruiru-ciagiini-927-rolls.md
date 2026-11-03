@@ -1,4 +1,5 @@
 ---
+code: VDMDC2
 date: 2026-10-23
 country: ke
 place: Wataalam, Ruiru and Ciagi-ini village, Kirinyaga

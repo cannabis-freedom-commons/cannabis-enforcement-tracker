@@ -1,4 +1,5 @@
 ---
+code: 7MC6WZ
 date: 2026-11-01
 country: es
 place: Plasencia, Cáceres

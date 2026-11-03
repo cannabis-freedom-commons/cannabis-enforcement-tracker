@@ -1,4 +1,5 @@
 ---
+code: 45RYFJ
 date: 2026-10-26
 country: hn
 place: El Florido checkpoint, Copán

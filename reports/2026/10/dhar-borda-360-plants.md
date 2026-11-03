@@ -1,4 +1,5 @@
 ---
+code: BD3B9F
 date: 2026-10-28
 country: in
 place: Borda village, Gandhwani, Dhar

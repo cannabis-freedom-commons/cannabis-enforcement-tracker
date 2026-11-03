@@ -1,4 +1,5 @@
 ---
+code: C29GSY
 date: 2026-10-30
 country: ar
 place: Los Benteveos, Concordia, Entre Ríos

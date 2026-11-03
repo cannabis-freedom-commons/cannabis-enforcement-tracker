@@ -1,4 +1,5 @@
 ---
+code: 50WTPF
 date: 2026-10-31
 country: mx
 place: colonia Rosario, Chihuahua City, Chihuahua

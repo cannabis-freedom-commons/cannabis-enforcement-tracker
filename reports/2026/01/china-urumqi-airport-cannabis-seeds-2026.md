@@ -1,4 +1,5 @@
 ---
+code: CVH98A
 date: 2026-01-30
 country: cn
 place: Ürümqi Diwopu International Airport, Xinjiang

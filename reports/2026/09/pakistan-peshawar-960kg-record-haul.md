@@ -1,4 +1,5 @@
 ---
+code: V1TK2A
 date: 2026-09-21
 country: pk
 place: Double Road near Peshawar Ring Road, Peshawar, Khyber Pakhtunkhwa

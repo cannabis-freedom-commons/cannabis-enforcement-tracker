@@ -1,4 +1,5 @@
 ---
+code: JBVFWN
 date: 2025-11-27
 country: sk
 place: Trnava

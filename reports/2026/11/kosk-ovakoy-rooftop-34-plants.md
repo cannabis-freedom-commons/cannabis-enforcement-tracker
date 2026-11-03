@@ -1,4 +1,5 @@
 ---
+code: RCYBE4
 date: 2026-11-02
 country: tr
 place: Ovaköy, Köşk, Aydın

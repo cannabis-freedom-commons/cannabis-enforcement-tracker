@@ -1,4 +1,5 @@
 ---
+code: GVX920
 date: 2026-10-30
 country: br
 place: Rua Juarez Clever, Ivaiporã, Paraná

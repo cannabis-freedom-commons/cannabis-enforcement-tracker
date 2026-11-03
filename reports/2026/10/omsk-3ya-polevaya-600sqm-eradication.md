@@ -1,4 +1,5 @@
 ---
+code: J3NYG1
 date: 2026-10-15
 country: ru
 place: Omsk

@@ -1,4 +1,5 @@
 ---
+code: GFQP1D
 date: 2026-08-26
 country: bg
 place: Churicheni and Ilindentsi, Blagoevgrad Province

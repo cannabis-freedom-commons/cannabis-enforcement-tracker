@@ -1,4 +1,5 @@
 ---
+code: A56K2D
 date: 2026-10-25
 country: gr
 place: Drapetsona, Attica

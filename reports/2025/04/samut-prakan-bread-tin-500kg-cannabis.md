@@ -1,4 +1,5 @@
 ---
+code: RGRJAC
 date: 2025-04-23
 country: th
 place: Rachathewa, Bang Phli, Samut Prakan

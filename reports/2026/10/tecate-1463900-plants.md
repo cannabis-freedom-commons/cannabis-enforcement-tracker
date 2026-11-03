@@ -1,4 +1,5 @@
 ---
+code: GK9Q90
 date: 2026-10-19
 country: mx
 place: south of Tecate, Baja California

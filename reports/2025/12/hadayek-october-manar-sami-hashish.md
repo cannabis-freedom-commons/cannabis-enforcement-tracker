@@ -1,4 +1,5 @@
 ---
+code: YNW1RE
 date: 2025-12-22
 country: eg
 place: Hadayek October, Giza

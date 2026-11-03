@@ -1,4 +1,5 @@
 ---
+code: HE2JH6
 date: 2026-10-28
 country: kr
 place: Sokcho Branch, Chuncheon District Court, Sokcho, Gangwon Province

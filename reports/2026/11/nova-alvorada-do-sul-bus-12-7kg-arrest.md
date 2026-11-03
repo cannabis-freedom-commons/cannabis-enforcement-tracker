@@ -1,4 +1,5 @@
 ---
+code: SCQ2HC
 date: 2026-11-01
 country: br
 place: Terminal Rodoviário de Nova Alvorada do Sul, Mato Grosso do Sul

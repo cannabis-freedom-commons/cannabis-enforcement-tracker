@@ -1,4 +1,5 @@
 ---
+code: ZHQ9HR
 date: 2026-10-28
 country: in
 place: Chalthi checkpoint gate, Champawat district, Uttarakhand

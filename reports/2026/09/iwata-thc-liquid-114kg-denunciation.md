@@ -1,4 +1,5 @@
 ---
+code: 5PZ93C
 date: 2026-09-29
 country: jp
 place: Iwata, Shizuoka prefecture

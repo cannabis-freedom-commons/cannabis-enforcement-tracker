@@ -1,4 +1,5 @@
 ---
+code: SKZ8JQ
 date: 2015-07-26
 country: us/sc
 place: Hardee's restaurant parking lot, Seneca, South Carolina

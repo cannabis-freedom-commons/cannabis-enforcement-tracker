@@ -1,4 +1,5 @@
 ---
+code: D41E2B
 date: 2026-04-07
 country: br
 place: Complexo da Maré, Rio de Janeiro

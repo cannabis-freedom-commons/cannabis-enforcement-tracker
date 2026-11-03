@@ -1,4 +1,5 @@
 ---
+code: TYXGAX
 date: 2026-11-02
 country: in
 place: Hanumangarh village, Semariya, Sidhi district, Madhya Pradesh

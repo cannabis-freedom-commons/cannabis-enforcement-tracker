@@ -1,4 +1,5 @@
 ---
+code: 3XS3MP
 date: 2026-10-30
 country: ge
 place: Tskhinvali, South Ossetia

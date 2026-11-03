@@ -1,4 +1,5 @@
 ---
+code: CNVEA3
 date: 2026-11-01
 country: in
 place: Anuppur district, Madhya Pradesh

@@ -1,4 +1,5 @@
 ---
+code: QMEWSM
 date: 2026-10-23
 country: gt
 place: Pamaría, Momostenango, Totonicapán

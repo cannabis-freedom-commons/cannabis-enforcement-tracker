@@ -1,4 +1,5 @@
 ---
+code: Q6PY3J
 date: 2026-09-15
 country: sg
 place: Tuas Checkpoint, Singapore

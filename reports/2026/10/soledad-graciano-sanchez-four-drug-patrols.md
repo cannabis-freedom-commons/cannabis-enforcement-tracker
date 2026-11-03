@@ -1,4 +1,5 @@
 ---
+code: MTMDVA
 date: 2026-10-31
 country: mx
 place: Soledad de Graciano Sánchez, San Luis Potosí

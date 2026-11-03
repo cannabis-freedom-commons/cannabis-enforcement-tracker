@@ -1,4 +1,5 @@
 ---
+code: BW896Z
 date: 2026-10-08
 country: es
 place: Madrid and six other provinces; leader arrested in Tangier, Morocco

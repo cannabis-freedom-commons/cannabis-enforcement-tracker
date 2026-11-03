@@ -1,4 +1,5 @@
 ---
+code: BRPTF0
 date: 2026-10-07
 country: sa
 place: Asir region, Saudi Arabia

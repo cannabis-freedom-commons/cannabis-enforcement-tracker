@@ -1,4 +1,5 @@
 ---
+code: 4JJWV8
 date: 2026-10-26
 country: ph
 place: Sitio Taba-ao, Poblacion, Kibungan

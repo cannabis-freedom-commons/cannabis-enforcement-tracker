@@ -1,4 +1,5 @@
 ---
+code: 896F8F
 date: 2026-10-31
 country: in
 place: Chiraiya Mor, Shahganj, Jaunpur, Uttar Pradesh

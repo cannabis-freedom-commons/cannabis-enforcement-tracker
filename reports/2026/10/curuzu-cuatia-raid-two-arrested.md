@@ -1,4 +1,5 @@
 ---
+code: VWTRA4
 date: 2026-10-30
 country: ar
 place: General Ramírez 200, Curuzú Cuatiá, Corrientes

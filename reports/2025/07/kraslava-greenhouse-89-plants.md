@@ -1,4 +1,5 @@
 ---
+code: 0BJ29E
 date: 2025-07-31
 country: lv
 place: Krāslava, Latvia

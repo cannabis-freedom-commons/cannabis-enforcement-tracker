@@ -1,4 +1,5 @@
 ---
+code: NKMNAG
 date: 2025-08-08
 country: lt
 place: "Ukmergė district"

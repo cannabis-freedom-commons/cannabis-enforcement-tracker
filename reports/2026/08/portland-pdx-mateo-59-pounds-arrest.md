@@ -1,4 +1,5 @@
 ---
+code: ZTMZKC
 date: 2026-08-31
 country: us/or
 place: Portland International Airport (PDX), Portland, Oregon

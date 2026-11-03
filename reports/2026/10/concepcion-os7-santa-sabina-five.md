@@ -1,4 +1,5 @@
 ---
+code: 8G3C01
 date: 2026-10-30
 country: cl
 place: Santa Sabina, Concepción, and San Pedro de la Costa, San Pedro de la Paz

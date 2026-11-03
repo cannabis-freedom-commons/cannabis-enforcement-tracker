@@ -1,4 +1,5 @@
 ---
+code: X19X0N
 date: 2026-10-14
 country: pk
 place: Sona Khan Chowk, Quetta

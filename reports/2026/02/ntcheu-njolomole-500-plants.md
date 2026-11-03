@@ -1,4 +1,5 @@
 ---
+code: AFX6G1
 date: 2026-02-26
 country: mw
 place: Njolomole Village, Ntcheu district

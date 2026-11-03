@@ -1,4 +1,5 @@
 ---
+code: MQS1Q2
 date: 2026-10-30
 country: me
 place: Vladimirske Krute, Ulcinj

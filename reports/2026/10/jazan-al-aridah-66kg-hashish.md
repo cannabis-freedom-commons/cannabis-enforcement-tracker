@@ -1,4 +1,5 @@
 ---
+code: 7F2VYE
 date: 2026-10-30
 country: sa
 place: Al-Aridah sector, Jazan region, Saudi Arabia

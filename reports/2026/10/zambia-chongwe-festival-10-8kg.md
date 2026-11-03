@@ -1,4 +1,5 @@
 ---
+code: 7N8ZNE
 date: 2026-10-03
 country: zm
 place: Chongwe District, Lusaka Province, Zambia

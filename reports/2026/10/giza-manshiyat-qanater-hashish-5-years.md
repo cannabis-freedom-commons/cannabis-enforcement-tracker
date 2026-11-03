@@ -1,4 +1,5 @@
 ---
+code: HZM84V
 date: 2026-10-20
 country: eg
 place: Manshiyat al-Qanatir, Giza

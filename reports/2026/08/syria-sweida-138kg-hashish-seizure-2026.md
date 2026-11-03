@@ -1,4 +1,5 @@
 ---
+code: 104Z7G
 date: 2026-08-29
 country: sy
 place: Eastern countryside of Sweida governorate, Syria

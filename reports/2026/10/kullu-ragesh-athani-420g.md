@@ -1,4 +1,5 @@
 ---
+code: ZAFK8A
 date: 2026-10-30
 country: in
 place: Kullu, Himachal Pradesh

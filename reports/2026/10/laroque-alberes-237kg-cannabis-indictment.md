@@ -1,4 +1,5 @@
 ---
+code: 1W8XCN
 date: 2026-10-16
 country: fr
 place: Laroque-des-Albères, Pyrénées-Orientales

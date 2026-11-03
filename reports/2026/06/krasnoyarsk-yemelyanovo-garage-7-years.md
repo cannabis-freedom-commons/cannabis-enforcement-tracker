@@ -1,4 +1,5 @@
 ---
+code: 4FWVVW
 date: 2026-06-08
 country: ru
 place: Yemelyanovo, Yemelyanovsky district, Krasnoyarsk Krai

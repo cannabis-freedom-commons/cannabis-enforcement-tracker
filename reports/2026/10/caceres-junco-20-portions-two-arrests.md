@@ -1,4 +1,5 @@
 ---
+code: CXDV6T
 date: 2026-10-29
 country: br
 place: Junco neighbourhood, near the bus terminal, Cáceres, Mato Grosso

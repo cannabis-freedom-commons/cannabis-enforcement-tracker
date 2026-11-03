@@ -1,4 +1,5 @@
 ---
+code: VKY8RA
 date: 2026-10-30
 country: mx
 place: Colonia Industrial, Monterrey, Nuevo León

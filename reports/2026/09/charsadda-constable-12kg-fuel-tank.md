@@ -1,4 +1,5 @@
 ---
+code: ZKFZDX
 date: 2026-09-16
 country: pk
 place: Prang, Nowshera Road, Charsadda, Khyber Pakhtunkhwa

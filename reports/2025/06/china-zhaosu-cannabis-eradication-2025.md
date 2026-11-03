@@ -1,4 +1,5 @@
 ---
+code: CXFBCC
 date: 2025-06-21
 country: cn
 place: Zhaosu County, Xinjiang

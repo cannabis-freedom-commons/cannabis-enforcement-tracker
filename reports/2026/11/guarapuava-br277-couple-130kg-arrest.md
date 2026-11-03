@@ -1,4 +1,5 @@
 ---
+code: HJGZTA
 date: 2026-11-02
 country: br
 place: BR-277, Guarapuava, Paraná

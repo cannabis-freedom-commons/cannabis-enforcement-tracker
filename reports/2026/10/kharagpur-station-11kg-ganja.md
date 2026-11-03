@@ -1,4 +1,5 @@
 ---
+code: HJ9VNK
 date: 2026-10-30
 country: in
 place: Kharagpur railway station, Kharagpur, Paschim Medinipur, West Bengal, India

@@ -1,4 +1,5 @@
 ---
+code: N538MS
 date: 2026-07-09
 country: ng
 place: Maiduguri–Monguno axis, toward Kwatan Doron Baga, Kukawa LGA, Borno State

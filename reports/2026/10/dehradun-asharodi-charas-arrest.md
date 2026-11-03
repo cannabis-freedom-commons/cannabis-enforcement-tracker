@@ -1,4 +1,5 @@
 ---
+code: GW6T6V
 date: 2026-10-21
 country: in
 place: Asharodi check post, Dehradun

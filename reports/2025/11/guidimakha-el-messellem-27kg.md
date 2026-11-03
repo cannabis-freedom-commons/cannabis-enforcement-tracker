@@ -1,4 +1,5 @@
 ---
+code: QCG1T9
 date: 2025-11-19
 country: mr
 place: El-Messellem checkpoint, Guidimakha

@@ -1,4 +1,5 @@
 ---
+code: XNWXH6
 date: 2026-10-30
 country: br
 place: Rua Severino de Lima, Nossa Senhora Aparecida, Campo Novo do Parecis, Mato Grosso

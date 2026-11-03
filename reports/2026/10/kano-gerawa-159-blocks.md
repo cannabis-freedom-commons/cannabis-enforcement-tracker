@@ -1,4 +1,5 @@
 ---
+code: XGJMXK
 date: 2026-10-22
 country: ng
 place: Gerawa area, Kano State

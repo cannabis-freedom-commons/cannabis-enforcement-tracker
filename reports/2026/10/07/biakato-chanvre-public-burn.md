@@ -1,4 +1,5 @@
 ---
+code: AFYX3Q
 date: 2026-10-07
 country: cd
 place: Biakato, Mambasa territory, Ituri

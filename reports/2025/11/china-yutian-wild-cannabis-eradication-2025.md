@@ -1,4 +1,5 @@
 ---
+code: TR1NYV
 date: 2025-11-25
 country: cn
 place: Yutian County, Xinjiang

@@ -1,4 +1,5 @@
 ---
+code: 31T2E5
 date: 2026-10-14
 country: pl
 place: Brzesko County (powiat brzeski), Lesser Poland

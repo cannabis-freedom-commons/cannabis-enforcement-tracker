@@ -1,4 +1,5 @@
 ---
+code: AQ2RJ0
 date: 2023-06-14
 country: id
 place: Km 56 forest area, Sesnuk District, Boven Digoel Regency, South Papua

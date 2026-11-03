@@ -1,4 +1,5 @@
 ---
+code: ACJ447
 date: 2026-10-27
 country: ru
 place: Syuksyum, Inzensky district, Ulyanovsk Oblast

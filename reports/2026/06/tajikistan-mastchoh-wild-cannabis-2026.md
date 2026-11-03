@@ -1,4 +1,5 @@
 ---
+code: 4QKFT6
 date: 2026-06-09
 country: tj
 place: Buston, Mastchoh District, Sughd

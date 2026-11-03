@@ -1,4 +1,5 @@
 ---
+code: PJT25P
 date: 2026-09-24
 country: ph
 place: La Trinidad, Benguet

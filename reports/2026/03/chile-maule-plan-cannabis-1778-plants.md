@@ -1,4 +1,5 @@
 ---
+code: RNV6TC
 date: 2026-03-11
 country: cl
 place: San Clemente, Retiro and Longaví, Maule region

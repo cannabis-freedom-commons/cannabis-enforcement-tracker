@@ -1,4 +1,5 @@
 ---
+code: KDW3HP
 date: 2026-10-26
 country: fr
 place: Saint-Georges, Cantal

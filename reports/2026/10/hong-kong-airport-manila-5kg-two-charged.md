@@ -1,4 +1,5 @@
 ---
+code: ZW7APN
 date: 2026-10-10
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

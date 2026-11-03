@@ -1,4 +1,5 @@
 ---
+code: N0T0X3
 date: 2026-10-23
 country: mu
 place: Sir Seewoosagur Ramgoolam International Airport, Plaisance

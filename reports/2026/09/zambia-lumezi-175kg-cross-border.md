@@ -1,4 +1,5 @@
 ---
+code: W0ZYNA
 date: 2026-09-21
 country: zm
 place: Lumezi District, Eastern Province, Zambia

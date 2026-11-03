@@ -1,4 +1,5 @@
 ---
+code: 6RV3GC
 date: 2026-11-02
 country: mx
 place: San Luis Potosí

@@ -1,4 +1,5 @@
 ---
+code: W6MYCW
 date: 2026-06-30
 country: pt
 place: Supremo Tribunal de Justiça, Lisbon

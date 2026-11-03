@@ -1,4 +1,5 @@
 ---
+code: DA9YR8
 date: 2026-06-17
 country: ru
 place: Pervomaysky district, Rostov-on-Don

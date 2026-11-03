@@ -1,4 +1,5 @@
 ---
+code: C3WX8F
 date: 2026-11-02
 country: br
 place: BR-470 after the Agronômica junction, toward Rio do Sul, Agronômica

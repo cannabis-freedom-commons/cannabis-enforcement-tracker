@@ -1,4 +1,5 @@
 ---
+code: 6E9X20
 date: 2026-11-01
 country: mx
 place: San Vicente Tancuayalab, San Luis Potosí, Mexico

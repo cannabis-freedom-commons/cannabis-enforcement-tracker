@@ -1,4 +1,5 @@
 ---
+code: 6F1ZHF
 date: 2026-09-20
 country: id
 place: Ekan and Pepelah, Pining, Gayo Lues

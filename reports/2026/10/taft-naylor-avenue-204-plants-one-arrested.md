@@ -1,4 +1,5 @@
 ---
+code: TVSMGG
 date: 2026-10-22
 country: us/ca
 place: 200 block of Naylor Avenue, Taft, Kern County, California

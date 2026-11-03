@@ -1,4 +1,5 @@
 ---
+code: B0BK51
 date: 2026-10-24
 country: in
 place: Chandesh, Sarkaghat, Mandi district, Himachal Pradesh

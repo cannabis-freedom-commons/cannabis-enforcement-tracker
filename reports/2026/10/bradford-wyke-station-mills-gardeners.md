@@ -1,4 +1,5 @@
 ---
+code: GM2NPE
 date: 2026-10-19
 country: gb
 place: Wyke, Bradford, West Yorkshire

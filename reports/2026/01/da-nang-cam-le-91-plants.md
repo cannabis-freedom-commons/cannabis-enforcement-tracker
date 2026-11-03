@@ -1,4 +1,5 @@
 ---
+code: 5WMPZG
 date: 2026-01-28
 country: vn
 place: Cẩm Lệ ward, Da Nang

@@ -1,4 +1,5 @@
 ---
+code: JCNNZA
 date: 2026-08-18
 country: in
 place: Khoradhar bridge, NH-107, Maheshkhunt, Khagaria, Bihar

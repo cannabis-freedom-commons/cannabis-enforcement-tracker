@@ -1,4 +1,5 @@
 ---
+code: FJPY61
 date: 2016-06-23
 country: tr
 place: Anamur and Mut districts, Mersin

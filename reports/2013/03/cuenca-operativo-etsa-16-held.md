@@ -1,4 +1,5 @@
 ---
+code: 6KD6DF
 date: 2013-03-27
 country: ec
 place: Cuenca, Azuay, Ecuador

@@ -1,4 +1,5 @@
 ---
+code: XSGYBJ
 date: 2026-05-16
 country: bd
 place: Surma tea garden gate, Shahjahanpur Union, Madhabpur, Habiganj

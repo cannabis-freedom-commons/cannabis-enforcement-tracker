@@ -1,4 +1,5 @@
 ---
+code: GYYA28
 date: 2026-10-31
 country: mx
 place: Matehuala and Ciudad Fernández, San Luis Potosí

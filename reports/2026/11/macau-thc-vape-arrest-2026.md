@@ -1,4 +1,5 @@
 ---
+code: XF4RFH
 date: 2026-11-01
 country: mo
 place: Central District (中區), Macau

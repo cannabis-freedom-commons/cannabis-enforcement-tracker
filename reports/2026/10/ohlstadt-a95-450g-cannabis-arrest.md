@@ -1,4 +1,5 @@
 ---
+code: 9NZ3TA
 date: 2026-10-31
 country: de
 place: A95 near Ohlstadt, Garmisch-Partenkirchen district, Bavaria

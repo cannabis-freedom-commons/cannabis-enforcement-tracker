@@ -1,4 +1,5 @@
 ---
+code: SNW9W0
 date: 2026-06-27
 country: ug
 place: Iganga Municipality and Nakigo Sub-county, Iganga District, Uganda

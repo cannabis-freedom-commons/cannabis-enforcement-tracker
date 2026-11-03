@@ -1,4 +1,5 @@
 ---
+code: 7XBHTK
 date: 2026-11-02
 country: fr
 place: Orléans, Loiret

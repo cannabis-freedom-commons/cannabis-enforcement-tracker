@@ -1,4 +1,5 @@
 ---
+code: 8JQGZS
 date: 2026-11-01
 country: cl
 place: centre of Río Bueno, Los Ríos Region

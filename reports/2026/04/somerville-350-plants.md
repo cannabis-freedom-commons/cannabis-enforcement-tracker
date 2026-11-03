@@ -1,4 +1,5 @@
 ---
+code: 5K9NGM
 date: 2026-04-14
 country: au
 place: Genovese Way, Somerville, Kalgoorlie-Boulder, Western Australia

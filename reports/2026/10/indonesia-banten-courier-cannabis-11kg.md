@@ -1,4 +1,5 @@
 ---
+code: AR66YM
 date: 2026-10-08
 country: id
 place: Gunung Sindur, Bogor Regency, West Java

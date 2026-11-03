@@ -1,4 +1,5 @@
 ---
+code: VBSA04
 date: 2026-10-28
 country: id
 place: Beringin Indah, Pangkalan Kuras, Pelalawan, Riau

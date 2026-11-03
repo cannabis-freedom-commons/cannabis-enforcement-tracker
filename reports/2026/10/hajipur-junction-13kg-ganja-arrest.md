@@ -1,4 +1,5 @@
 ---
+code: JH08Q3
 date: 2026-10-28
 country: in
 place: Hajipur Junction, Hajipur, Vaishali, Bihar

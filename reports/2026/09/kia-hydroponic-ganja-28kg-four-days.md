@@ -1,4 +1,5 @@
 ---
+code: A1B06B
 date: 2026-09-15
 country: in
 place: Kempegowda International Airport, Bengaluru, Karnataka

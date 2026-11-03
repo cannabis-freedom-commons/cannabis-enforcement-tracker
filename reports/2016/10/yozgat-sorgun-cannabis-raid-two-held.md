@@ -1,4 +1,5 @@
 ---
+code: C6QB7Y
 date: 2016-10-26
 country: tr
 place: Sorgun, Yozgat

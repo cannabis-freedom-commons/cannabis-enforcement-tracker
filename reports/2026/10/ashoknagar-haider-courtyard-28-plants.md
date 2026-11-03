@@ -1,4 +1,5 @@
 ---
+code: QS0DN2
 date: 2026-10-30
 country: in
 place: Haider village, Ashoknagar district, Madhya Pradesh

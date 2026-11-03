@@ -1,4 +1,5 @@
 ---
+code: RASGX7
 date: 2026-10-29
 country: in
 place: Pungh, Sundernagar, Mandi district, Himachal Pradesh

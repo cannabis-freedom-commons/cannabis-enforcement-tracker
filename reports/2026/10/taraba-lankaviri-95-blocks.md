@@ -1,4 +1,5 @@
 ---
+code: N43N62
 date: 2026-10-23
 country: ng
 place: Lankaviri checkpoint, Yorro, Taraba State

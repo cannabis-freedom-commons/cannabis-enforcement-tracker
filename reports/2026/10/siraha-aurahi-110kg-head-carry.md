@@ -1,4 +1,5 @@
 ---
+code: 4PW6RC
 date: 2026-10-03
 country: np
 place: Aurahi-2, Siraha

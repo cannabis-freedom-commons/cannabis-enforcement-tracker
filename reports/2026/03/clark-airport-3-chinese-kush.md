@@ -1,4 +1,5 @@
 ---
+code: BZM9F7
 date: 2026-03-07
 country: ph
 place: Clark International Airport, Mabalacat, Pampanga

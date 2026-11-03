@@ -1,4 +1,5 @@
 ---
+code: A65DE8
 date: 2026-06-04
 country: mu
 place: Sir Seewoosagur Ramgoolam International Airport, Plaisance

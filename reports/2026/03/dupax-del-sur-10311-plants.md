@@ -1,4 +1,5 @@
 ---
+code: 1JS9VH
 date: 2026-03-17
 country: ph
 place: Sitio Gunot, Barangay Kimbutan, Dupax del Sur

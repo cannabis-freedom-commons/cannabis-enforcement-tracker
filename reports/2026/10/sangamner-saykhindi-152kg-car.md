@@ -1,4 +1,5 @@
 ---
+code: XJTCZV
 date: 2026-10-05
 country: in
 place: Saykhindi Phata, Nashik-Pune highway, Sangamner

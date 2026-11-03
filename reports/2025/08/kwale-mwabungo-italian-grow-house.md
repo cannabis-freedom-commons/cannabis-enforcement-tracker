@@ -1,4 +1,5 @@
 ---
+code: 0VP21P
 date: 2025-08-04
 country: ke
 place: Mwabungo village, Ukunda, Kwale

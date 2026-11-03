@@ -1,4 +1,5 @@
 ---
+code: XSB1YW
 date: 2026-03-12
 country: sn
 place: Kadialock, North Sindian, Bignona

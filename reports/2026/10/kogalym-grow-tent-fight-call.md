@@ -1,4 +1,5 @@
 ---
+code: 7FAZ85
 date: 2026-10-30
 country: ru
 place: Kogalym, Khanty-Mansi Autonomous Okrug – Yugra

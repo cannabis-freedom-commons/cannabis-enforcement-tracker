@@ -1,4 +1,5 @@
 ---
+code: YFX48J
 date: 2026-11-03
 country: eg
 place: Dandarah village, Qena, Qena Governorate

@@ -1,4 +1,5 @@
 ---
+code: 6XBQR9
 date: 2026-03-18
 country: in
 place: Lonwal, Wadwani tehsil, Beed district

@@ -1,4 +1,5 @@
 ---
+code: 79CD00
 date: 2026-11-02
 country: mx
 place: Calzada Benito Juárez, colonia Mártires de Uruapan, Uruapan, Michoacán

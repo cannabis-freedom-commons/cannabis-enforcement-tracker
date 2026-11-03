@@ -1,4 +1,5 @@
 ---
+code: H4C89X
 date: 2025-09-02
 country: cn
 place: Keta Railway, between Hojirt and Tiechangou, Toli County, Xinjiang

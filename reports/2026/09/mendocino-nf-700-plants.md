@@ -1,4 +1,5 @@
 ---
+code: BBYEH8
 date: 2026-09-16
 country: us/ca
 place: Mendocino National Forest, California

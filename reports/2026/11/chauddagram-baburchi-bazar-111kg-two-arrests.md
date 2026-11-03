@@ -1,4 +1,5 @@
 ---
+code: C4NGE4
 date: 2026-11-01
 country: bd
 place: Baburchi Bazar, Chauddagram, Cumilla

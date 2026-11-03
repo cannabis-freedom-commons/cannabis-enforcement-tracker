@@ -1,6 +1,9 @@
 ---
 name: add-report
-description: Add one specific enforcement event to the Cannabis Enforcement Tracker from a URL (a news article, agency statement, court record or post) the user gives, or update an existing report with it. Use when the user pastes a link, or several, and asks to add, write up, record or archive it (e.g. "/add-report https://…", "add this raid: <url>", "write a report from this article").
+description: >-
+  Add or update a Cannabis Enforcement Tracker report from URLs supplied by the user, such as
+  news articles, agency statements, court records or posts. Use when the user asks to add,
+  write up, record or archive a specific enforcement event from one or more links.
 ---
 
 # Add a report from a URL
@@ -68,6 +71,10 @@ the main report. Resolve answered open questions and preserve the original creat
 ## 4. Write
 
 - `reports/<year>/<month>/<slug>.md` for the event's date; slug short, lower case, hyphens.
+- **Required `code`:** the permanent six-character CET identifier, stored without `CET-`.
+  Run `npm run codes -- <new/updated report paths>` before the build; never invent or copy a code.
+  Preserve an existing code on updates, renames and moves. The submission service assigns codes
+  itself for JSON results; do not add `code` to that contract or run commands in its read-only harness.
 - `country`: the CFI id from `src/data/countries.json` (`th`, `us/ca`).
 - `coordinates` of the most precise named place, with `precision`.
 - `type` (+ `also`), title, two-sentence summary, figures only as stated (convert lb → kg,
@@ -107,6 +114,8 @@ node scripts/archive-sources.mjs <slug>
 ```bash
 # Audit coordinates on the new/updated files; review flags against the source.
 node scripts/check-coordinates.mjs "reports/<year>/<month>/<slug>.md"
+# Persist codes only for the reports changed in this run (include incidental updates).
+npm run codes -- reports/<year>/<month>/<slug>.md
 npm run build
 ```
 

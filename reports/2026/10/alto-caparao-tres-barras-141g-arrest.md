@@ -1,4 +1,5 @@
 ---
+code: 5KD1D8
 date: 2026-10-31
 country: br
 place: Córrego Três Barras, Alto Caparaó, Minas Gerais

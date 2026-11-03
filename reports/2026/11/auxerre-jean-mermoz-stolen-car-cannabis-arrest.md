@@ -1,4 +1,5 @@
 ---
+code: H1BH6W
 date: 2026-11-02
 country: fr
 place: avenue Jean-Mermoz, Auxerre

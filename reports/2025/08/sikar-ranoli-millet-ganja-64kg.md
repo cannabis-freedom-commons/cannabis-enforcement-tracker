@@ -1,4 +1,5 @@
 ---
+code: NJT9Y2
 date: 2025-08-31
 country: in
 place: Garhwalon ki Dhani, Trilokpura, Ranoli, Sikar district, Rajasthan

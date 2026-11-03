@@ -1,4 +1,5 @@
 ---
+code: 1WKFJT
 date: 2025-09-10
 country: id
 place: Desa Pulo and Desa Ie Seum, Aceh Besar, Aceh

@@ -1,4 +1,5 @@
 ---
+code: SGVZHC
 date: 2026-10-30
 country: in
 place: Sanugula, Chandurthi mandal, Rajanna Sircilla district, Telangana

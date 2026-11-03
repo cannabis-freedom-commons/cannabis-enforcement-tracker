@@ -1,4 +1,5 @@
 ---
+code: SHS2TB
 date: 2026-11-02
 country: id
 place: Dusun Alue Garut, Desa Teupin Ruseb, Sawang, Aceh Utara

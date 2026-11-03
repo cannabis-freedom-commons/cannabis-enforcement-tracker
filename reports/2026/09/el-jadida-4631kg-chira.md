@@ -1,4 +1,5 @@
 ---
+code: XR22DS
 date: 2026-09-22
 country: ma
 place: Outskirts of El Jadida

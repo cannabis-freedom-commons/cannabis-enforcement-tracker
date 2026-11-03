@@ -1,4 +1,5 @@
 ---
+code: R6KKF3
 date: 2026-11-02
 country: bd
 place: In front of Asia Mill, Muktarpur road, Munshiganj Sadar, Munshiganj

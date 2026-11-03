@@ -70,6 +70,7 @@ func TestExistingCaseDraftPreservesCitationsAndSlug(t *testing.T) {
 		t.Fatal(err)
 	}
 	original := `---
+code: 7KQ2MX
 date: 2026-01-02
 country: th
 type: arrest
@@ -110,7 +111,7 @@ Police arrested a person. [@1]
 	if err = yaml.Unmarshal([]byte(parts[1]), &header); err != nil {
 		t.Fatal(err)
 	}
-	if header["status"] != "reported" || header["date"].(time.Time).Format("2006-01-02") != "2026-02-03" || header["type"] != "sentence" {
+	if header["code"] != "7KQ2MX" || header["status"] != "reported" || header["date"].(time.Time).Format("2006-01-02") != "2026-02-03" || header["type"] != "sentence" {
 		t.Fatal(header)
 	}
 	r.Country = "us"

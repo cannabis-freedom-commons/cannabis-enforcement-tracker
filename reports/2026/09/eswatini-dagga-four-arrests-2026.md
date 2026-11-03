@@ -1,4 +1,5 @@
 ---
+code: 0C96Z6
 date: 2026-09-05
 country: sz
 place: Eswatini

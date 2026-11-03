@@ -1,4 +1,5 @@
 ---
+code: VZ833C
 date: 2026-10-22
 country: pl
 place: Sochaczew (arrest on national road 92 in Dachowa)

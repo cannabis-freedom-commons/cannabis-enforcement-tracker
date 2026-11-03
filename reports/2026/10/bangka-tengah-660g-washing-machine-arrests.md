@@ -1,4 +1,5 @@
 ---
+code: 4S13E5
 date: 2026-10-23
 country: id
 place: Perlang, Lubuk Besar, Bangka Tengah, Kepulauan Bangka Belitung

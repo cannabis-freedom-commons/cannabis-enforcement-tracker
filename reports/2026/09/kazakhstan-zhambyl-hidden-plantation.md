@@ -1,4 +1,5 @@
 ---
+code: RDJN4V
 date: 2026-09-14
 country: kz
 place: Zhambyl Region, Kazakhstan

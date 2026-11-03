@@ -1,4 +1,5 @@
 ---
+code: QDTZB1
 date: 2026-11-02
 country: ru
 place: Lgovo, Ryazansky District, Ryazan Oblast

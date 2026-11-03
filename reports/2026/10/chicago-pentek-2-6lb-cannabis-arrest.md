@@ -1,4 +1,5 @@
 ---
+code: CGVC5K
 date: 2026-10-30
 country: us/il
 place: 6900 block of North Ashland Avenue, Rogers Park, Chicago

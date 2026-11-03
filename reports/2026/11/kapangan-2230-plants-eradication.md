@@ -1,4 +1,5 @@
 ---
+code: WT2RNZ
 date: 2026-11-03
 country: ph
 place: Barangays Kayapa, Bakun and Sagubo, Kapangan, Benguet

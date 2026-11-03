@@ -1,4 +1,5 @@
 ---
+code: 1V7KZM
 date: 2026-04-10
 country: aw
 place: Seroe Blanco and nearby streets, Oranjestad, Aruba

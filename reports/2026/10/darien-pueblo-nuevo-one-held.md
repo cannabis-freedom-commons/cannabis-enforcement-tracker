@@ -1,4 +1,5 @@
 ---
+code: RGZBSP
 date: 2026-10-30
 country: pa
 place: Pueblo Nuevo, Darién

@@ -1,4 +1,5 @@
 ---
+code: CMJMW1
 date: 2026-10-26
 country: id
 place: Kampung Sinimbuk, Serambakon, Pegunungan Bintang

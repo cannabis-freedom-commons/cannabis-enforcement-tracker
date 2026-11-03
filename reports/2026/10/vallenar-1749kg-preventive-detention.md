@@ -1,4 +1,5 @@
 ---
+code: 6HBR9P
 date: 2026-10-14
 country: cl
 place: Route 5 Norte, south of Vallenar, Atacama

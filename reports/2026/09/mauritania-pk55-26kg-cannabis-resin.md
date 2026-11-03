@@ -1,4 +1,5 @@
 ---
+code: TQHEQA
 date: 2026-09-29
 country: mr
 place: PK55 border post, Dakhlet Nouadhibou

@@ -1,4 +1,5 @@
 ---
+code: P47H7A
 date: 2026-11-02
 country: ua
 place: Darnytskyi district, Kyiv

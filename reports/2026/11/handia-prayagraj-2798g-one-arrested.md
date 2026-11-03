@@ -1,4 +1,5 @@
 ---
+code: BWFQ2J
 date: 2026-11-02
 country: in
 place: Near Anjana canal, Handia, Prayagraj, Uttar Pradesh

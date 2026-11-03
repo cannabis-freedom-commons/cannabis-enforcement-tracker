@@ -1,4 +1,5 @@
 ---
+code: 8JVT39
 date: 2026-10-10
 country: ly
 place: An agricultural area southeast of Tobruk

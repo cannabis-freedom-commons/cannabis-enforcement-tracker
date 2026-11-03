@@ -1,4 +1,5 @@
 ---
+code: R9TE0S
 date: 2026-11-01
 country: bd
 place: Garadob, Gangni, Meherpur

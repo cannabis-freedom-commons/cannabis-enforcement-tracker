@@ -1,4 +1,5 @@
 ---
+code: C132K4
 date: 2026-10-31
 country: in
 place: Bharwain, Una district, Himachal Pradesh

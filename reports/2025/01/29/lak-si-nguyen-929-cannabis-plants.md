@@ -1,4 +1,5 @@
 ---
+code: S2H35N
 date: 2025-01-29
 country: th
 place: Soi Ngamwongwan 32, Thung Song Hong, Lak Si, Bangkok

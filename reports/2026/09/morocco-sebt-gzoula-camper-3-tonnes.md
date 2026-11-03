@@ -1,4 +1,5 @@
 ---
+code: 1YW1Q1
 date: 2026-09-28
 country: ma
 place: National Road 1 near Sebt Gzoula, Safi Province

@@ -1,4 +1,5 @@
 ---
+code: 4ZCBFX
 date: 2026-10-01
 country: ro
 place: Sfântu Gheorghe, Covasna

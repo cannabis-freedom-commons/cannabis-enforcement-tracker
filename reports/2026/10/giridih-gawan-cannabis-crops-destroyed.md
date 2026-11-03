@@ -1,4 +1,5 @@
 ---
+code: X1H8S4
 date: 2026-10-31
 country: in
 place: Odpodo and Rajokhar villages, Gawan block, Giridih district, Jharkhand

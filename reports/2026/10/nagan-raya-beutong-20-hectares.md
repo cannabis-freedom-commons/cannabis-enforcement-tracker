@@ -1,4 +1,5 @@
 ---
+code: 3WWPMS
 date: 2026-10-31
 country: id
 place: Beutong district, Nagan Raya Regency, Aceh

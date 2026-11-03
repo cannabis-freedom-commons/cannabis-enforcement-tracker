@@ -1,4 +1,5 @@
 ---
+code: KCRC1P
 date: 2026-08-16
 country: id
 place: Blang Meurandeh, Nagan Raya, Aceh

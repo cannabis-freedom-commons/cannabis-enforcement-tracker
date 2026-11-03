@@ -1,4 +1,5 @@
 ---
+code: EGJX0M
 date: 2026-10-27
 country: in
 place: near Mahuakheda, Bankhedi, Narmadapuram, Madhya Pradesh

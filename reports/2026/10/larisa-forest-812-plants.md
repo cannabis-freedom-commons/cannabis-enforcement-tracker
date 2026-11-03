@@ -1,4 +1,5 @@
 ---
+code: HD7ASX
 date: 2026-10-15
 country: gr
 place: Larisa

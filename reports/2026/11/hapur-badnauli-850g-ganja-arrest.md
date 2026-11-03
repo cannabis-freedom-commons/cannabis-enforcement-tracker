@@ -1,4 +1,5 @@
 ---
+code: 8CBCBH
 date: 2026-11-01
 country: in
 place: Railway crossing on Badnauli road, Hapur, Uttar Pradesh

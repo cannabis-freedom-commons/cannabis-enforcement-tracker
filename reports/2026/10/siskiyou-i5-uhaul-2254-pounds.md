@@ -1,4 +1,5 @@
 ---
+code: 19MHN9
 date: 2026-10-21
 country: us/ca
 place: Siskiyou County, California

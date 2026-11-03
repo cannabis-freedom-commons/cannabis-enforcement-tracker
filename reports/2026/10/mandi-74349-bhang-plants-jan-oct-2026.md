@@ -1,4 +1,5 @@
 ---
+code: F94H1G
 date: 2026-10-31
 country: in
 place: Mandi district, Himachal Pradesh

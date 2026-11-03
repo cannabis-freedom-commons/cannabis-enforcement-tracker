@@ -1,4 +1,5 @@
 ---
+code: K2KS73
 date: 2026-10-30
 country: gb
 place: Forden, near Welshpool, Powys

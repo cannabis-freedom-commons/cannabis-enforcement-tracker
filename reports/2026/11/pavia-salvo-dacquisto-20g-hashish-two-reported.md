@@ -1,4 +1,5 @@
 ---
+code: H4VY5R
 date: 2026-11-02
 country: it
 place: Piazza Salvo D'Acquisto, Pavia

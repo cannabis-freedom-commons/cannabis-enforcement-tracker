@@ -1,4 +1,5 @@
 ---
+code: 0JB1GM
 date: 2026-10-30
 country: id
 place: Kelurahan Padang Sikabu, Payakumbuh, West Sumatra

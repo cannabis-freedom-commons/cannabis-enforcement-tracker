@@ -1,4 +1,5 @@
 ---
+code: CD0T2J
 date: 2026-10-31
 country: id
 place: Takengon, Aceh Tengah Regency, Aceh

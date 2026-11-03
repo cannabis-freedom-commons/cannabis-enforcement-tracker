@@ -1,4 +1,5 @@
 ---
+code: BXVDYB
 date: 2026-03-08
 country: lv
 place: Rīga, Latvia

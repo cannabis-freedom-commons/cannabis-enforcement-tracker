@@ -1,4 +1,5 @@
 ---
+code: WCYHE9
 date: 2026-10-14
 country: in
 place: Mandwa village, Kotra tehsil, Udaipur

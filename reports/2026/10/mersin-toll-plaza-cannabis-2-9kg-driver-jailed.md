@@ -1,4 +1,5 @@
 ---
+code: DPGR6A
 date: 2026-10-29
 country: tr
 place: Mersin Gişeleri, Mersin

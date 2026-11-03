@@ -1,4 +1,5 @@
 ---
+code: QJ2JC2
 date: 2026-10-05
 country: gh
 place: Paga, Kassena-Nankana West District, Upper East Region

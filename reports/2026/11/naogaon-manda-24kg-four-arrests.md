@@ -1,4 +1,5 @@
 ---
+code: 0ZPEJG
 date: 2026-11-01
 country: bd
 place: Manda, Naogaon Sadar and Badalgachhi upazilas, Naogaon District

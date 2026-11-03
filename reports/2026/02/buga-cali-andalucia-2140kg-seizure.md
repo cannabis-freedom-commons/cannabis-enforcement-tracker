@@ -1,4 +1,5 @@
 ---
+code: AJDKAG
 date: 2026-02-26
 country: co
 place: Buga, Valle del Cauca

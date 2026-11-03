@@ -1,4 +1,5 @@
 ---
+code: FP01VT
 date: 2026-10-09
 country: lb
 place: Outskirts of Aarsal, Baalbek-Hermel

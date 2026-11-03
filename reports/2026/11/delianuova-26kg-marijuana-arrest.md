@@ -1,4 +1,5 @@
 ---
+code: GFG52T
 date: 2026-11-02
 country: it
 place: Delianuova, Reggio Calabria

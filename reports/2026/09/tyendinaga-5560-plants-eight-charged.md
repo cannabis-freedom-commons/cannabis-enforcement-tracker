@@ -1,4 +1,5 @@
 ---
+code: 7SVEZC
 date: 2026-09-09
 country: ca/on
 place: Tyendinaga Mohawk Territory, Ontario

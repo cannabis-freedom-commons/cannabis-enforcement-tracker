@@ -1,4 +1,5 @@
 ---
+code: G6YZDG
 date: 2026-10-28
 country: kr
 place: Yeonsu District, Incheon

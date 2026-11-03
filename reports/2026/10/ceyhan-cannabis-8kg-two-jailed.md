@@ -1,4 +1,5 @@
 ---
+code: TV3VJJ
 date: 2026-10-29
 country: tr
 place: Çiftlikler Mahallesi, Ceyhan, Adana

@@ -1,4 +1,5 @@
 ---
+code: E6CG8R
 date: 2026-10-30
 country: br
 place: Catalão, Goiás

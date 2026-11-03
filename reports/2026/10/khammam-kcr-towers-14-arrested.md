@@ -1,4 +1,5 @@
 ---
+code: Y0PAKA
 date: 2026-10-31
 country: in
 place: KCR Towers, Tekulapalli, Khammam

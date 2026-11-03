@@ -1,4 +1,5 @@
 ---
+code: 98JNJB
 date: 2026-10-31
 country: it
 place: town centre, Rezzato

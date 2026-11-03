@@ -1,4 +1,5 @@
 ---
+code: G22GNQ
 date: 2018-04-29
 country: ph
 place: Barangays Buscalan and Loccong, Tinglayan, Kalinga

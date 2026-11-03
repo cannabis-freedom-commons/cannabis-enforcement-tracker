@@ -1,4 +1,5 @@
 ---
+code: T2Q6QY
 date: 2026-10-29
 country: in
 place: Kunkuni, Kharsia, Raigarh district, Chhattisgarh

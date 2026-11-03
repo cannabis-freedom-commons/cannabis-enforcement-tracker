@@ -1,4 +1,5 @@
 ---
+code: DN2JJB
 date: 2026-10-02
 country: in
 place: Mudabi village, Basavakalyana taluk, Bidar, Karnataka

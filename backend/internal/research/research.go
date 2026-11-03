@@ -13,6 +13,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportcode"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"golang.org/x/text/runes"
@@ -78,6 +79,7 @@ type Figures struct {
 }
 type Result struct {
 	// Set by the service after execution, never accepted from model-generated JSON.
+	Code           string    `json:"-"` // permanent CET id, allocated by the service
 	CreatedByModel string    `json:"-"`
 	Submission     string    `json:"-"` // the submission that created the report, set by the service
 	Outcome        string    `json:"outcome"`
@@ -550,6 +552,11 @@ func (f *Figures) validate() error {
 func (r Result) Markdown() string {
 	doc := &yaml.Node{Kind: yaml.MappingNode}
 	add := func(k string, v *yaml.Node) { doc.Content = append(doc.Content, str(k), v) }
+	code := r.Code
+	if code == "" {
+		code = reportcode.Of(r.Slug)
+	}
+	add("code", str(code))
 	add("date", &yaml.Node{Kind: yaml.ScalarNode, Tag: "!!timestamp", Value: r.Date})
 	add("country", str(r.Country))
 	if r.Place != "" {
@@ -1175,6 +1182,12 @@ func prepareReport(dir string, r Result) (Draft, error) {
 	} else if existing != "" {
 		return d, errors.New("slug already exists; case matching required")
 	}
+	used, err := reportcode.Index(dir)
+	if err != nil {
+		return d, err
+	}
+	r.Code = reportcode.Available(r.Slug, used)
+	d.Content = r.Markdown()
 	return d, nil
 }
 
@@ -1246,10 +1259,15 @@ func ValidateBuild(ctx context.Context, dir string, r Result) (Draft, error) {
 		}
 	}
 	var problems []string
+	files := map[string]string{}
 	for _, f := range append([]Draft{d}, d.Updates...) {
+		files[f.Path] = f.Content
 		if err := CheckReport(dir, f.Path, f.Content); err != nil {
 			problems = append(problems, f.Path+": "+err.Error())
 		}
+	}
+	if err := reportcode.Check(dir, files, d.PreviousPath); err != nil {
+		problems = append(problems, err.Error())
 	}
 	if len(problems) > 0 {
 		detail := strings.Join(problems, "\n")

@@ -1,4 +1,5 @@
 ---
+code: 1K5CCB
 date: 2026-11-01
 country: gb
 place: Ruby Street, Dalmarnock, Glasgow

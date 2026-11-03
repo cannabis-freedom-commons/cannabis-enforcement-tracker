@@ -1,4 +1,5 @@
 ---
+code: GAXFXS
 date: 2026-04-23
 country: se
 place: Härnösand-based network supplying northern Sweden

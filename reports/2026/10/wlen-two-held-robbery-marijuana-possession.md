@@ -1,4 +1,5 @@
 ---
+code: 5K9YG6
 date: 2026-10-26
 country: pl
 place: Wleń, Lwówek Śląski County, Lower Silesian Voivodeship

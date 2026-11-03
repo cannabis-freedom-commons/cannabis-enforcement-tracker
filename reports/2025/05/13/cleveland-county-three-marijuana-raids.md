@@ -1,4 +1,5 @@
 ---
+code: 7S7W9S
 date: 2025-05-13
 country: us/ok
 place: Lexington, Cleveland County, Oklahoma

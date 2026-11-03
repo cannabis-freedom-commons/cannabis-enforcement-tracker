@@ -1,4 +1,5 @@
 ---
+code: GN5KX3
 date: 2026-10-31
 country: bd
 place: Bilgathua field, Daulatpur, Kushtia

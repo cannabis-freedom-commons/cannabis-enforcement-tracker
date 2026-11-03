@@ -1,4 +1,5 @@
 ---
+code: EXAJ8T
 date: 2026-10-03
 country: us/il
 place: Iroquois, Kankakee and McLean counties

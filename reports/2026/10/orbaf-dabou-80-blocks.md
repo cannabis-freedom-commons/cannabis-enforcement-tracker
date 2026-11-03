@@ -1,4 +1,5 @@
 ---
+code: FAQ3DK
 date: 2026-10-14
 country: ci
 place: Orbaf, Dabou

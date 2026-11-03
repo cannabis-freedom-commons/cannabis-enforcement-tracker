@@ -1,4 +1,5 @@
 ---
+code: JARFPQ
 date: 2026-10-31
 country: in
 place: PN College, Khurda, Odisha

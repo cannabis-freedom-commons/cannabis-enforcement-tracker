@@ -1,4 +1,5 @@
 ---
+code: Q9RA7G
 date: 2026-10-28
 country: tr
 place: Aksaray city centre, Aksaray

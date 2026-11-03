@@ -1,4 +1,5 @@
 ---
+code: CK6KP1
 date: 2026-11-01
 country: ph
 place: Cordillera Administrative Region

@@ -1,4 +1,5 @@
 ---
+code: EVBGZX
 date: 2026-11-01
 country: de
 place: Bad Bentheim station, Bad Bentheim

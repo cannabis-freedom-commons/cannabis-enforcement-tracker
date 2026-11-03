@@ -1,4 +1,5 @@
 ---
+code: VQ531T
 date: 2026-11-02
 country: ru
 place: Talovy, Pogranichny district, Primorsky Krai

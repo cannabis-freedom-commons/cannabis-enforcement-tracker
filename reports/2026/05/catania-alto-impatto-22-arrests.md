@@ -1,4 +1,5 @@
 ---
+code: WA7V8N
 date: 2026-05-30
 country: it
 place: Catania, San Cristoforo, San Giorgio, Barriera, Picanello and San Giovanni Galermo districts

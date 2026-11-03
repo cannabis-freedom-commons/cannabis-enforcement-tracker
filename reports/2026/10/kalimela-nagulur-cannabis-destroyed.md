@@ -1,4 +1,5 @@
 ---
+code: GA5F98
 date: 2026-10-25
 country: in
 place: Nagulur village, Kalimela, Malkangiri

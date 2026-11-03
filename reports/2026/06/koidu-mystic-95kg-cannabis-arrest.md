@@ -1,4 +1,5 @@
 ---
+code: YMDHH8
 date: 2026-06-25
 country: sl
 place: Tankoro Camp, Koidu, Kono District

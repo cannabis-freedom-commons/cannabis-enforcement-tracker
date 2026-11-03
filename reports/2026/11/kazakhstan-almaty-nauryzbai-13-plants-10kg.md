@@ -1,4 +1,5 @@
 ---
+code: 35596J
 date: 2026-11-02
 country: kz
 place: Nauryzbai district, Almaty

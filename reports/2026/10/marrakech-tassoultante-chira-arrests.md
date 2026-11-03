@@ -1,4 +1,5 @@
 ---
+code: TBKEQJ
 date: 2026-10-27
 country: ma
 place: Tassoultante, Marrakech

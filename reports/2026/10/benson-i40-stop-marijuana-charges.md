@@ -1,4 +1,5 @@
 ---
+code: 8RT4FE
 date: 2026-10-28
 country: us/nc
 place: Interstate 40 east of NC 210 interchange, Benson, Johnston County, North Carolina

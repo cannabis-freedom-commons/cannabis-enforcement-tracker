@@ -1,4 +1,5 @@
 ---
+code: T81HQ2
 date: 2026-10-31
 country: ua
 place: Kharkiv Oblast, Ukraine

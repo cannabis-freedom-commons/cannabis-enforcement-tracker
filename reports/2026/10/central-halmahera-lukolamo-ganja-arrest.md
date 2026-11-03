@@ -1,4 +1,5 @@
 ---
+code: JQPXFF
 date: 2026-10-30
 country: id
 place: Desa Lukolamo, Weda Tengah, Halmahera Tengah, North Maluku

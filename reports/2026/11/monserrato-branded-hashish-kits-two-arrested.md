@@ -1,4 +1,5 @@
 ---
+code: JQX80P
 date: 2026-11-02
 country: it
 place: Monserrato, Metropolitan City of Cagliari, Sardinia

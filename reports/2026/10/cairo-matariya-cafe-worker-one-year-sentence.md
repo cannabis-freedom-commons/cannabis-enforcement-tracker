@@ -1,4 +1,5 @@
 ---
+code: DNDWJ3
 date: 2026-10-26
 country: eg
 place: Al-Matariya, Cairo

@@ -1,4 +1,5 @@
 ---
+code: YV5JN8
 date: 2026-08-30
 country: cl
 place: Calama, Antofagasta

@@ -1,4 +1,5 @@
 ---
+code: SJZMYX
 date: 2026-05-04
 country: bs
 place: 38 nautical miles southwest of Mars Bay, Andros

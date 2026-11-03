@@ -1,4 +1,5 @@
 ---
+code: KC5N7S
 date: 2026-10-31
 country: pk
 place: Rawalpindi

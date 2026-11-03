@@ -1,4 +1,5 @@
 ---
+code: YKRBNX
 date: 2026-10-06
 country: np
 place: Dhiring Khola riverbed, Hatuwagadhi Rural Municipality-9, Bhojpur

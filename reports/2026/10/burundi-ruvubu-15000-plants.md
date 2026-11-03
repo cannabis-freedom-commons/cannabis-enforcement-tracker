@@ -1,4 +1,5 @@
 ---
+code: 6R46E0
 date: 2026-10-09
 country: bi
 place: Ruvubu National Park, Gitega Province

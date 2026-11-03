@@ -1,4 +1,5 @@
 ---
+code: Q8NMAE
 date: 2016-06-26
 country: tr
 place: Lice and surrounding areas, Diyarbakır

@@ -1,4 +1,5 @@
 ---
+code: KG313E
 date: 2025-07-27
 country: cn
 place: Xinhe County and Yining, Xinjiang

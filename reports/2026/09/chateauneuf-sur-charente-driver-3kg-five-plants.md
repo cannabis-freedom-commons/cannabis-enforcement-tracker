@@ -1,4 +1,5 @@
 ---
+code: KDFJ0J
 date: 2026-09-23
 country: fr
 place: Châteauneuf-sur-Charente, Charente

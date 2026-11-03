@@ -1,4 +1,5 @@
 ---
+code: GEDYAR
 date: 2025-10-18
 country: cn
 place: Guangzhou Baiyun International Airport, Guangdong

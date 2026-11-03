@@ -1,4 +1,5 @@
 ---
+code: YPATZK
 date: 2026-10-28
 country: ru
 place: Usinsk, Komi Republic

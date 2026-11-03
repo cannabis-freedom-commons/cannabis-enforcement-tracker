@@ -1,4 +1,5 @@
 ---
+code: WBN6CQ
 date: 2026-01-20
 country: in
 place: Manamelkudi seashore, Pudukkottai district

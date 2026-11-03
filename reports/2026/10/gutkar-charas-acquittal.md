@@ -1,4 +1,5 @@
 ---
+code: KTZ0J2
 date: 2026-10-30
 country: in
 place: Gutkar, Mandi district, Himachal Pradesh

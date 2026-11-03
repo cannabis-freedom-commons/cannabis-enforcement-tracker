@@ -1,4 +1,5 @@
 ---
+code: NC8XT9
 date: 2026-10-29
 country: it
 place: Pietramelara, Caserta

@@ -1,4 +1,5 @@
 ---
+code: XYFPA3
 date: 2025-06-28
 country: cm
 place: Bandjoun, West Region

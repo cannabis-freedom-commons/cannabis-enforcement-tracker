@@ -1,4 +1,5 @@
 ---
+code: MX269N
 date: 2026-11-02
 country: py
 place: camino vecinal entre Araujo Cué y Acepar, Curuguaty, Canindeyú

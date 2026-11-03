@@ -1,4 +1,5 @@
 ---
+code: VB3QMD
 date: 2026-10-06
 country: si
 place: Slovenia

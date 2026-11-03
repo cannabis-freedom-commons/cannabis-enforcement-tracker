@@ -1,4 +1,5 @@
 ---
+code: HVF0XX
 date: 2026-10-18
 country: eg
 place: Hurghada International Airport, Hurghada

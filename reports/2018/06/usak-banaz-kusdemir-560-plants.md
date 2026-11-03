@@ -1,4 +1,5 @@
 ---
+code: MJG5ZT
 date: 2018-06-20
 country: tr
 place: Kuşdemir village, Banaz, Uşak

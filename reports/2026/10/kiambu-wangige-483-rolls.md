@@ -1,4 +1,5 @@
 ---
+code: DQJD67
 date: 2026-10-12
 country: ke
 place: Wangige Town and Corner One, Kiambu

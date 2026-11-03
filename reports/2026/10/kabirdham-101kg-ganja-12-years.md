@@ -1,4 +1,5 @@
 ---
+code: X5H33M
 date: 2026-10-31
 country: in
 place: Kabirdham, Chhattisgarh

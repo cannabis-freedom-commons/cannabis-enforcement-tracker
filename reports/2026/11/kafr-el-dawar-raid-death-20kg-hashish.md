@@ -1,4 +1,5 @@
 ---
+code: 0EZ2HV
 date: 2026-11-02
 country: eg
 place: Kafr El Dawar district, Beheira Governorate

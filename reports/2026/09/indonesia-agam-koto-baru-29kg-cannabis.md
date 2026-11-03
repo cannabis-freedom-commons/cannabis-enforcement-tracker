@@ -1,4 +1,5 @@
 ---
+code: 0SS507
 date: 2026-09-15
 country: id
 place: Simpang Pasar Koto Baru, Agam Regency, West Sumatra

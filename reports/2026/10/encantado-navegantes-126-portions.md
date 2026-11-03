@@ -1,4 +1,5 @@
 ---
+code: ZYEAST
 date: 2026-10-27
 country: br
 place: Navegantes, Encantado, Rio Grande do Sul

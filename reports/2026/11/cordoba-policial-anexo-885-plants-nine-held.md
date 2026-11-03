@@ -1,4 +1,5 @@
 ---
+code: SPCJ4Q
 date: 2026-11-02
 country: ar
 place: Barrio Policial Anexo, city of Córdoba, Córdoba

@@ -1,4 +1,5 @@
 ---
+code: 17Y2FV
 date: 2026-05-30
 country: id
 place: Tor Sihite hill, Rao Rao Dolok, Tambangan, Mandailing Natal

@@ -1,4 +1,5 @@
 ---
+code: 2Q6KJH
 date: 2026-10-31
 country: in
 place: Vagu near Ambala village, Kamalapur mandal, Hanumakonda district

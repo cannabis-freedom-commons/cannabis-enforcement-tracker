@@ -1,4 +1,5 @@
 ---
+code: M7K19T
 date: 2026-11-01
 country: sa
 place: Al-Raboah sector, Asir region, Saudi Arabia

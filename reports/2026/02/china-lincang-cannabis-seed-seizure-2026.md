@@ -1,4 +1,5 @@
 ---
+code: AHXQ39
 date: 2026-02-13
 country: cn
 place: Lincang, Yunnan

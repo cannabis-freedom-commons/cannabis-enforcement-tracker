@@ -1,4 +1,5 @@
 ---
+code: C0GDJK
 date: 2026-10-25
 country: ph
 place: Cordillera Administrative Region

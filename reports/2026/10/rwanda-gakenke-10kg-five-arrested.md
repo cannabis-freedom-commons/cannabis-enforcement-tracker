@@ -1,4 +1,5 @@
 ---
+code: YHT5YC
 date: 2026-10-22
 country: rw
 place: Kabutwa Village, Kamubuga Sector, Gakenke District

@@ -1,4 +1,5 @@
 ---
+code: 41NCJJ
 date: 2026-10-30
 country: tr
 place: Mersin

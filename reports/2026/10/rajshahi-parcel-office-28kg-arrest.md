@@ -1,4 +1,5 @@
 ---
+code: 4A4PX0
 date: 2026-10-29
 country: bd
 place: Boalia thana area, Rajshahi

@@ -1,4 +1,5 @@
 ---
+code: S8WWT1
 date: 2026-10-26
 country: cr
 place: Cañas Dulces district, Liberia canton, Guanacaste

@@ -1,4 +1,5 @@
 ---
+code: GAW4CB
 date: 2026-10-23
 country: ar
 place: Vista Hermosa and 173 Viviendas, Centenario, Neuquén

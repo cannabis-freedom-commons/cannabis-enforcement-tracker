@@ -1,4 +1,5 @@
 ---
+code: SXWKCS
 date: "2010-11-26"
 country: us/ca
 place: Otay Mesa, San Diego

@@ -1,4 +1,5 @@
 ---
+code: BZGTDE
 date: 2026-10-11
 country: us/ca
 place: Herbert Street, Roseville, Placer County

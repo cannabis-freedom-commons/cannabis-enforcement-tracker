@@ -1,4 +1,5 @@
 ---
+code: KNHA15
 date: 2026-10-31
 country: br
 place: Belvedere, Ouro Branco, Minas Gerais

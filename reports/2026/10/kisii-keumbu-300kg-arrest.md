@@ -1,4 +1,5 @@
 ---
+code: 8TTBSP
 date: 2026-10-31
 country: ke
 place: Keumbu Trading Centre, Kisii County

@@ -1,4 +1,5 @@
 ---
+code: MXNKX2
 date: 2026-08-30
 country: cn
 place: Nuoliang area, Cangyuan County, Lincang, Yunnan

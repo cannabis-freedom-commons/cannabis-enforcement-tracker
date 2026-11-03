@@ -1,4 +1,5 @@
 ---
+code: B10C1A
 date: 2026-10-29
 country: ma
 place: Aoulouz, Taroudant province

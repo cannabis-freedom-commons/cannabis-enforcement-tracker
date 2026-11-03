@@ -1,4 +1,5 @@
 ---
+code: GQK6PR
 date: 2026-10-28
 country: in
 place: Bharat Nagar, Solapur, Maharashtra

@@ -1,4 +1,5 @@
 ---
+code: 8GM2NM
 date: 2026-10-27
 country: in
 place: Odisha

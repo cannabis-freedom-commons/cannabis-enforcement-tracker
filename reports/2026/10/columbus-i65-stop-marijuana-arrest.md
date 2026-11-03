@@ -1,4 +1,5 @@
 ---
+code: 20AB5Z
 date: 2026-10-28
 country: us/in
 place: Interstate 65 near the Walesboro exit, Columbus, Indiana

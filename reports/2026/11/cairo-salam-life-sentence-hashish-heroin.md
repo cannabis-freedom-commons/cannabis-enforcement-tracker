@@ -1,4 +1,5 @@
 ---
+code: MYVVDQ
 date: 2026-11-01
 country: eg
 place: Al-Salam district, Cairo

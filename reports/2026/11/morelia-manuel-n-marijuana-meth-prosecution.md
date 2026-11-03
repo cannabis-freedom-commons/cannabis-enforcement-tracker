@@ -1,4 +1,5 @@
 ---
+code: 1B84N8
 date: 2026-11-01
 country: mx
 place: Morelia, Michoacán

@@ -1,4 +1,5 @@
 ---
+code: H0WH1G
 date: 2026-10-27
 country: ph
 place: Baguio City

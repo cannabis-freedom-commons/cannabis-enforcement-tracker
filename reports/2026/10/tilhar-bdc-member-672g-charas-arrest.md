@@ -1,4 +1,5 @@
 ---
+code: 6SZDEK
 date: 2026-10-31
 country: in
 place: Dhakiya Ragha bridge, Tilhar, Shahjahanpur, Uttar Pradesh

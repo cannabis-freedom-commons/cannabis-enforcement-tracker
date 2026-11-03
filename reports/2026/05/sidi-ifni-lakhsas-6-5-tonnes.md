@@ -1,4 +1,5 @@
 ---
+code: NVV152
 date: 2026-05-14
 country: ma
 place: Lakhsas, on the Tiznit–Dakhla highway, Sidi Ifni province

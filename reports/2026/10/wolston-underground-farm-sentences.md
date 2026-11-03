@@ -1,4 +1,5 @@
 ---
+code: KYDWCC
 date: 2026-10-26
 country: gb
 place: Wolston, Warwickshire

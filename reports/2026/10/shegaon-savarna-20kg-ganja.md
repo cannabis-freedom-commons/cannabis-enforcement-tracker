@@ -1,4 +1,5 @@
 ---
+code: JWS47Y
 date: 2026-10-18
 country: in
 place: Savarna, Shegaon taluka, Buldhana

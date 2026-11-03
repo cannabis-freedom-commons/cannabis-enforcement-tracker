@@ -1,4 +1,5 @@
 ---
+code: G3ZXBH
 date: 2026-10-30
 country: gb
 place: Moss Lane, Whittle-le-Woods, Chorley, Lancashire

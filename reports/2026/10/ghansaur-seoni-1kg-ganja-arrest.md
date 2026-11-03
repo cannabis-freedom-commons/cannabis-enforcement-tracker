@@ -1,4 +1,5 @@
 ---
+code: GN376B
 date: 2026-10-30
 country: in
 place: Ghansaur–Mandla trijunction, Samnapur road, Ghansaur, Seoni

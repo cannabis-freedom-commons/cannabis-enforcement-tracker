@@ -1,4 +1,5 @@
 ---
+code: YNK66Y
 date: 2026-10-29
 country: mx
 place: Veracruz

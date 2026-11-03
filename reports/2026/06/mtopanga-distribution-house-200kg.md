@@ -1,4 +1,5 @@
 ---
+code: DXST2X
 date: 2026-06-08
 country: ke
 place: Mtopanga, Kisauni, Mombasa

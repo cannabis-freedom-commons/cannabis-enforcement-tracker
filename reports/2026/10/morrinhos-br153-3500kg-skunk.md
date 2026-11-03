@@ -1,4 +1,5 @@
 ---
+code: VQDJVQ
 date: 2026-10-29
 country: br
 place: Morrinhos, Goiás (BR-153)

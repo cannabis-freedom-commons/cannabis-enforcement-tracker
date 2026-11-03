@@ -1,4 +1,5 @@
 ---
+code: AE0EGN
 date: 2026-10-30
 country: br
 place: Rua José Costa, Jardim Fátima, Araras, São Paulo

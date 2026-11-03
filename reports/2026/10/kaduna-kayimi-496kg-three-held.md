@@ -1,4 +1,5 @@
 ---
+code: Z44XJR
 date: 2026-10-18
 country: ng
 place: Kayimi village, Igabi, Kaduna State

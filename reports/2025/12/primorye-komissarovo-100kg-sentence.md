@@ -1,4 +1,5 @@
 ---
+code: SERRAZ
 date: 2025-12-12
 country: ru
 place: Komissarovo, Khankaysky district, Primorsky Krai

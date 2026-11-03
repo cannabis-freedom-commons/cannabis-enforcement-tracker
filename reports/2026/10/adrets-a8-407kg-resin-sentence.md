@@ -1,4 +1,5 @@
 ---
+code: 6MWYHJ
 date: 2026-10-26
 country: fr
 place: "Aire de repos des Adrets-de-l'Estérel, Var"

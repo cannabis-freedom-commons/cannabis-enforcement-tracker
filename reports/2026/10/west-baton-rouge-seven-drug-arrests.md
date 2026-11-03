@@ -1,4 +1,5 @@
 ---
+code: YJYXA5
 date: 2026-10-30
 country: us/la
 place: West Baton Rouge Parish, Louisiana

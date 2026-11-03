@@ -1,4 +1,5 @@
 ---
+code: NZAEW3
 date: 2026-10-30
 country: mx
 place: Avenida 127, Supermanzana 101, Cancún, Quintana Roo

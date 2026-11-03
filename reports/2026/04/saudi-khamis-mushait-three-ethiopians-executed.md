@@ -1,4 +1,5 @@
 ---
+code: FZWHDT
 date: 2026-04-21
 country: sa
 place: Khamis Mushait detention centre, Asir region, Saudi Arabia

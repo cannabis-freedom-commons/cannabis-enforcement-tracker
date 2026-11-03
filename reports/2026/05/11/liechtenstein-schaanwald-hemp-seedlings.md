@@ -1,4 +1,5 @@
 ---
+code: Q7MKEZ
 date: 2026-05-11
 country: li
 place: Schaanwald border crossing

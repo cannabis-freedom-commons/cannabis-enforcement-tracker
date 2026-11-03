@@ -1,4 +1,5 @@
 ---
+code: 78FQC0
 date: 2026-10-31
 country: gh
 place: Siiru, Nadowli-Kaleo District, Upper West Region

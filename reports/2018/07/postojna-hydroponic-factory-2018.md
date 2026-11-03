@@ -1,4 +1,5 @@
 ---
+code: C3AXGA
 date: 2018-07-19
 country: si
 place: Kajuhova ulica, Postojna

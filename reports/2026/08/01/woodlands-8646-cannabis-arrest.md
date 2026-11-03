@@ -1,4 +1,5 @@
 ---
+code: FM5HW0
 date: 2026-08-01
 country: sg
 place: Woodlands Checkpoint, Singapore

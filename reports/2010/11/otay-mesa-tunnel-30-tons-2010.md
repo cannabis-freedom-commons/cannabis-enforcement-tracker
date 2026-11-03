@@ -1,4 +1,5 @@
 ---
+code: 4D68JS
 date: "2010-11-03"
 country: us/ca
 place: Otay Mesa, San Diego

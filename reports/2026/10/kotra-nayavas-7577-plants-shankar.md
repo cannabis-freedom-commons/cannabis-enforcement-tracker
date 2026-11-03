@@ -1,4 +1,5 @@
 ---
+code: TE4WJY
 date: 2026-10-07
 country: in
 place: Nayavas, Kotra tehsil, Udaipur

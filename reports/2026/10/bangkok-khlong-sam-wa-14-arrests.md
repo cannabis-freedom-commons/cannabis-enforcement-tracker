@@ -1,4 +1,5 @@
 ---
+code: 3E7WCX
 date: 2026-10-31
 country: th
 place: Sam Wa Tawan Tok, Khlong Sam Wa, Bangkok

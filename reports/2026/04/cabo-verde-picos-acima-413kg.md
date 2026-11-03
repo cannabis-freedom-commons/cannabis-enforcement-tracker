@@ -1,4 +1,5 @@
 ---
+code: 7VERYC
 date: 2026-04-04
 country: cv
 place: Picos Acima, São Salvador do Mundo, Santiago

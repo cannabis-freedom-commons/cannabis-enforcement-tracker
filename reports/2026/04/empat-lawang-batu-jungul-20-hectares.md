@@ -1,4 +1,5 @@
 ---
+code: CNRGBG
 date: 2026-04-24
 country: id
 place: Batu Jungul, Muara Pinang, Empat Lawang, South Sumatra

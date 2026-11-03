@@ -1,4 +1,5 @@
 ---
+code: 6B8BR8
 date: 2026-06-16
 country: bd
 place: Darapara culvert, Madarganj, Bhulli, Thakurgaon

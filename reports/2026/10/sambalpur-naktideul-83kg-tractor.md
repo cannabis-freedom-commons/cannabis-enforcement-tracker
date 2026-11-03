@@ -1,4 +1,5 @@
 ---
+code: 0AQ40B
 date: 2026-10-30
 country: in
 place: Naktideul, Sambalpur district, Odisha

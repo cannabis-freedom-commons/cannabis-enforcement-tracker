@@ -1,4 +1,5 @@
 ---
+code: CF6H6K
 date: 2026-11-02
 country: id
 place: Aceh and North Sumatra

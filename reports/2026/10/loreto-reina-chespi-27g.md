@@ -1,4 +1,5 @@
 ---
+code: C3B6FF
 date: 2026-10-30
 country: py
 place: Loreto, Concepción

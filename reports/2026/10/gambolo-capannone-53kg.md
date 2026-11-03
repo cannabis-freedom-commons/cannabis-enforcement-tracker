@@ -1,4 +1,5 @@
 ---
+code: BDNCCS
 date: 2026-10-26
 country: it
 place: Gambolò, Pavia province

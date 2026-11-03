@@ -1,4 +1,5 @@
 ---
+code: 5K1W9B
 date: 2026-10-31
 country: br
 place: BR-364, Jataí, Goiás

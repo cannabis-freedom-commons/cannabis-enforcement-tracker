@@ -1,4 +1,5 @@
 ---
+code: AVK2QZ
 date: 2026-10-28
 country: gb
 place: Vale of White Horse, Oxfordshire

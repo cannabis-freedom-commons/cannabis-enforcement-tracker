@@ -1,4 +1,5 @@
 ---
+code: 1WE3ZN
 date: 2026-08-15
 country: iq
 place: Iraqi territorial waters, operating from Umm Qasr naval base, Basra

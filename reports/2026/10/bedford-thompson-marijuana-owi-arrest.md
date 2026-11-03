@@ -1,4 +1,5 @@
 ---
+code: TQF23N
 date: 2026-10-25
 country: us/in
 place: Bedford, Lawrence County, Indiana

@@ -94,6 +94,10 @@ for different events in their respective reports, and archive and validate every
 
 - File: `reports/<year>/<month>/<slug>.md` for the event's date; slug short and descriptive
   (`ndlea-edo-igbanke-farms`).
+- **Required `code`:** the permanent six-character CET identifier, stored without `CET-`.
+  Run `npm run codes -- <new/updated report paths>` before the build; never invent or copy a code.
+  Preserve an existing code on updates, renames and moves. The submission service assigns codes
+  itself for JSON results; do not add `code` to that contract or run commands in its read-only harness.
 - Country: the CFI id from `src/data/countries.json` (`ng`, `us/ca`).
 - Coordinates for the most precise named place, with `precision`.
 - Text, figures, citations and status per docs/WRITING.md; `status: verified` only when every fact was
@@ -131,6 +135,8 @@ update-model metadata. See `docs/WRITING.md` for the provenance rules.
 ## 6. Check and commit
 
 ```bash
+# Persist codes only for the reports changed in this run (include incidental updates).
+npm run codes -- reports/<year>/<month>/<slug>.md
 npm run build
 ```
 

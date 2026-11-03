@@ -1,4 +1,5 @@
 ---
+code: KS3KRB
 date: 2026-10-16
 country: lk
 place: Arambekema, Thanamalwila, Monaragala District

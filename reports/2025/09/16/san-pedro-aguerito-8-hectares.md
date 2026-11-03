@@ -1,4 +1,5 @@
 ---
+code: E54D99
 date: 2025-09-16
 country: py
 place: Asentamiento Aguerito, Santa Rosa del Aguaray, San Pedro

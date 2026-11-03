@@ -1,4 +1,5 @@
 ---
+code: EK4865
 date: 2026-01-05
 country: us/hi
 place: Jasmine Drive, Hawaiian Oceanview Estates, Ocean View, Hawaiʻi County

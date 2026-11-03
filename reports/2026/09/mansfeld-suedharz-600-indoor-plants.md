@@ -1,4 +1,5 @@
 ---
+code: QBB3MR
 date: 2026-09-22
 country: de
 place: Seegebiet Mansfelder Land, Mansfeld-Südharz

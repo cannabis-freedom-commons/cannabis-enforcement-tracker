@@ -1,4 +1,5 @@
 ---
+code: PXCH7K
 date: 2026-01-08
 country: sg
 place: West Coast Way condominium

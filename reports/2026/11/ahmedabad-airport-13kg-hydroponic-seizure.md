@@ -1,4 +1,5 @@
 ---
+code: H3E6A6
 date: 2026-11-01
 country: in
 place: Sardar Vallabhbhai Patel International Airport, Ahmedabad

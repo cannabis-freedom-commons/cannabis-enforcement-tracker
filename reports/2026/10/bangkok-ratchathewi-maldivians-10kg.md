@@ -1,4 +1,5 @@
 ---
+code: CK35VH
 date: 2026-10-06
 country: th
 place: Ratchathewi, Bangkok

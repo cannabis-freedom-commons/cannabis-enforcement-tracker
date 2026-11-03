@@ -1,4 +1,5 @@
 ---
+code: F2FZAX
 date: 2026-10-01
 country: eg
 place: Downtown Cairo

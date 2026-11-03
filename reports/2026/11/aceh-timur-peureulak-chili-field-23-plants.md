@@ -1,4 +1,5 @@
 ---
+code: 5QYSNV
 date: 2026-11-03
 country: id
 place: Gampong Cek Mbon, Peureulak, Aceh Timur

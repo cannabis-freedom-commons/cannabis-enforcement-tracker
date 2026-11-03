@@ -1,4 +1,5 @@
 ---
+code: BFXXBX
 date: 2026-02-26
 country: tg
 place: Agou Nyogbo, Agou prefecture, Plateaux

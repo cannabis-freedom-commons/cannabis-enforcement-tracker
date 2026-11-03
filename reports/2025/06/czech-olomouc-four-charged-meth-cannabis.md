@@ -1,4 +1,5 @@
 ---
+code: GJF5QY
 date: 2025-06-06
 country: cz
 place: Olomoucko, Olomouc Region, Czech Republic

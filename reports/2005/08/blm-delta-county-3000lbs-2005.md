@@ -1,4 +1,5 @@
 ---
+code: KH9JCM
 date: 2005-08-04
 country: us/co
 place: Delta County, Colorado

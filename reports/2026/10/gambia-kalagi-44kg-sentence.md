@@ -1,4 +1,5 @@
 ---
+code: YRQE17
 date: 2026-10-08
 country: gm
 place: Kalagi Military Checkpoint, West Coast Region

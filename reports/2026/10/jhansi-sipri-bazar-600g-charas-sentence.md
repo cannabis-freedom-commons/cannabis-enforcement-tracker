@@ -1,4 +1,5 @@
 ---
+code: 4HCWSH
 date: 2026-10-31
 country: in
 place: Sipri Bazar, Jhansi, Uttar Pradesh

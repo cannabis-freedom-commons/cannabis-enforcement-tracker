@@ -1,4 +1,5 @@
 ---
+code: 4N9E2K
 date: 2026-10-11
 country: ke
 place: Kakawa Market, Makima, Embu

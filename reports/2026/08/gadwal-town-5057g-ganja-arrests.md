@@ -1,4 +1,5 @@
 ---
+code: ZRWSYF
 date: 2026-08-30
 country: in
 place: Gadwal town, Jogulamba Gadwal, Telangana

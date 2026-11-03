@@ -1,4 +1,5 @@
 ---
+code: X5VDA0
 date: 2026-02-18
 country: hn
 place: Las Minas, Tocoa, Colón

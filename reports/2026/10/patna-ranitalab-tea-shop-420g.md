@@ -1,4 +1,5 @@
 ---
+code: KRWRRS
 date: 2026-10-28
 country: in
 place: Kab-Nisarpura, Ranitalab police station area, Patna

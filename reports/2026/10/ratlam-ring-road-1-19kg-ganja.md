@@ -1,4 +1,5 @@
 ---
+code: 50AV02
 date: 2026-10-31
 country: in
 place: Ring Road between Baroth Mata temple and Sagod, Ratlam, Madhya Pradesh

@@ -1,4 +1,5 @@
 ---
+code: N63PT5
 date: 2026-10-27
 country: ma
 place: Al Aroui, Nador

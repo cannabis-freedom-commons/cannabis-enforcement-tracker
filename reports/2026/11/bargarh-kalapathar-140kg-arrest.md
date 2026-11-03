@@ -1,4 +1,5 @@
 ---
+code: B1ZQGD
 date: 2026-11-01
 country: in
 place: near Kalapathar-Sardapali junction, Bargarh district, Odisha

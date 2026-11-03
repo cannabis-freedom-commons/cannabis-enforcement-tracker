@@ -1,4 +1,5 @@
 ---
+code: J17NTK
 date: 2026-10-30
 country: ar
 place: La Falda, Punilla department, Córdoba

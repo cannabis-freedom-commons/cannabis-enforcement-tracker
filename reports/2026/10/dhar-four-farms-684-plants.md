@@ -1,4 +1,5 @@
 ---
+code: A1BQT5
 date: 2026-10-29
 country: in
 place: Dhar district, Madhya Pradesh

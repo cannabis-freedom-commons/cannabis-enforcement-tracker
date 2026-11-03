@@ -1,4 +1,5 @@
 ---
+code: Z0M2CF
 date: 2026-10-28
 country: in
 place: Gangaji Dareli, Kalmeshwar, Nagpur Rural

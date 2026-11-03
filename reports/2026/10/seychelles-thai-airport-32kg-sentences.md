@@ -1,4 +1,5 @@
 ---
+code: TECPNM
 date: 2026-10-01
 country: sc
 place: Seychelles International Airport, Pointe Larue, Mahé

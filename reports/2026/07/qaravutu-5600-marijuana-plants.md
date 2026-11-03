@@ -1,4 +1,5 @@
 ---
+code: XSY7ZZ
 date: 2026-07-08
 country: fj
 place: Qaravutu farming area, Northern Division

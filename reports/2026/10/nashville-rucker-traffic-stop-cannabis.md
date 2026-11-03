@@ -1,4 +1,5 @@
 ---
+code: GBZK4Y
 date: 2026-10-18
 country: us/tn
 place: Edmonson Pike and Nolensville Pike, Nashville, Davidson County, Tennessee

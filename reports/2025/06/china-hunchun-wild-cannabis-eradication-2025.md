@@ -1,4 +1,5 @@
 ---
+code: ZZR54N
 date: 2025-06-26
 country: cn
 place: Hunchun, Yanbian, Jilin

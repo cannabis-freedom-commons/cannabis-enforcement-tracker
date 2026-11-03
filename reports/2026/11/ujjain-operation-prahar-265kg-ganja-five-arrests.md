@@ -1,4 +1,5 @@
 ---
+code: BP79V6
 date: 2026-11-01
 country: in
 place: Ujjain, Madhya Pradesh

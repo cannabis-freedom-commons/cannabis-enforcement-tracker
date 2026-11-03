@@ -1,4 +1,5 @@
 ---
+code: NR02F7
 date: 2026-10-26
 country: sz
 place: Machobeni, Shiselweni Region and Mpuluzi, Hhohho Region

@@ -1,4 +1,5 @@
 ---
+code: 6V1KF4
 date: 2026-10-14
 country: pt
 place: Covilhã

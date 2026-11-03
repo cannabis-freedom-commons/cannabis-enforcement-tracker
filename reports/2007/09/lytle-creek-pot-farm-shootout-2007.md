@@ -1,4 +1,5 @@
 ---
+code: Z6ZETA
 date: 2007-09-10
 country: us/ca
 place: Lytle Creek, San Bernardino County

@@ -1,4 +1,5 @@
 ---
+code: HYB7ZA
 date: 2026-11-01
 country: ar
 place: Agua de Oro, Córdoba

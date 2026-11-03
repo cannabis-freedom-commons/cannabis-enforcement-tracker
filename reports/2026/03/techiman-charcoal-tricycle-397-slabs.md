@@ -1,4 +1,5 @@
 ---
+code: 2YWYHR
 date: 2026-03-08
 country: gh
 place: Methodist Park, Techiman, Bono East Region

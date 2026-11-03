@@ -1,4 +1,5 @@
 ---
+code: C5Q0XJ
 date: 2026-05-10
 country: id
 place: Batang Palupuh, Agam Regency, West Sumatra

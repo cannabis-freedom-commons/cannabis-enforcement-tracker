@@ -1,4 +1,5 @@
 ---
+code: VHE31A
 date: 2026-09-18
 country: nz
 place: Auckland region

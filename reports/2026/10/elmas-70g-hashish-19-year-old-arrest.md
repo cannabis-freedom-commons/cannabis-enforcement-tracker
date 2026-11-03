@@ -1,4 +1,5 @@
 ---
+code: NF6RX0
 date: 2026-10-09
 country: it
 place: Elmas, Metropolitan City of Cagliari, Sardinia

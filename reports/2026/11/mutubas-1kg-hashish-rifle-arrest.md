@@ -1,4 +1,5 @@
 ---
+code: 2ZWJTB
 date: 2026-11-01
 country: eg
 place: Mutubas, Kafr El-Sheikh governorate

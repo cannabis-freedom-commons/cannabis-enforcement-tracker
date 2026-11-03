@@ -1,4 +1,5 @@
 ---
+code: 1VK9PE
 date: 2026-11-02
 country: id
 place: Kejaksaan Negeri Jembrana, Negara, Jembrana

@@ -1,4 +1,5 @@
 ---
+code: THQCKB
 date: 2026-10-24
 country: id
 place: Kampung Vietnam, Argapura, South Jayapura, Jayapura City

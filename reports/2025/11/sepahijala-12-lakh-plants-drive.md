@@ -1,4 +1,5 @@
 ---
+code: 3ADWK6
 date: 2025-11-18
 country: in
 place: Sutarmura, Toktumadum, Chitta Rambari, Ukyamura, Tulamura Kamalnagar and Ghatigar, Sepahijala district, Tripura

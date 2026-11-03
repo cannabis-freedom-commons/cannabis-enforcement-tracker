@@ -1,4 +1,5 @@
 ---
+code: K62K9E
 date: 2026-11-01
 country: kw
 place: Kuwait

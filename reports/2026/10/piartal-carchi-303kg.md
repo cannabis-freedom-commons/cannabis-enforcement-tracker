@@ -1,4 +1,5 @@
 ---
+code: Z5WGMX
 date: 2026-10-09
 country: ec
 place: Piartal, Montúfar, Carchi

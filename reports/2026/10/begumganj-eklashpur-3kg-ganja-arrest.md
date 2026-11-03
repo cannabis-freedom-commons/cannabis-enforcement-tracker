@@ -1,4 +1,5 @@
 ---
+code: JDKA0G
 date: 2026-10-31
 country: bd
 place: Purba Ekalshapur, Eklashpur union, Begumganj, Noakhali

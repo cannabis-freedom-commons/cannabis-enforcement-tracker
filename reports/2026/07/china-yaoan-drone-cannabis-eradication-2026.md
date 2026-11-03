@@ -1,4 +1,5 @@
 ---
+code: BRNCD8
 date: 2026-07-15
 country: cn
 place: Dongchuan and Guanglu towns, Yao'an County, Yunnan

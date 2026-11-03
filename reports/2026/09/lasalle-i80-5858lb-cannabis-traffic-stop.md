@@ -1,4 +1,5 @@
 ---
+code: 9VHCV1
 date: 2026-09-04
 country: us/il
 place: Interstate 80 eastbound, LaSalle County, Illinois

@@ -1,4 +1,5 @@
 ---
+code: 3JGC3P
 date: 2026-11-01
 country: tr
 place: Gaziantep

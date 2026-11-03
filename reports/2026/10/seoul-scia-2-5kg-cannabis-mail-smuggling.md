@@ -1,4 +1,5 @@
 ---
+code: 97F43W
 date: 2026-10-23
 country: kr
 place: Seoul

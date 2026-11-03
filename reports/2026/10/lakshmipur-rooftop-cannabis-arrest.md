@@ -1,4 +1,5 @@
 ---
+code: 5X1J55
 date: 2026-10-31
 country: bd
 place: Sonapur, Ward 1, Ramganj municipality, Lakshmipur

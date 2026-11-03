@@ -1,4 +1,5 @@
 ---
+code: 3YZZCP
 date: 2026-10-29
 country: ci
 place: Côte d'Ivoire

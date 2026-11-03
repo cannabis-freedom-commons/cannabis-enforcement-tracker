@@ -1,4 +1,5 @@
 ---
+code: JN2C83
 date: 2026-10-31
 country: in
 place: Service road from Vilaydham bridge to Ahladpur, Izzatnagar, Bareilly, Uttar Pradesh

@@ -1,4 +1,5 @@
 ---
+code: EH1FKD
 date: 2026-08-02
 country: ke
 place: Munju, Molo, Nakuru County

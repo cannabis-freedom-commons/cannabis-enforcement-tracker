@@ -1,4 +1,5 @@
 ---
+code: V7JCFT
 date: 2026-10-28
 country: tr
 place: 32 provinces, announced in Ankara

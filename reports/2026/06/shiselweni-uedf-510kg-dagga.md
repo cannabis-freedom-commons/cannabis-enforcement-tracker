@@ -1,4 +1,5 @@
 ---
+code: STBCSV
 date: 2026-06-23
 country: sz
 place: Mashayineni checkpoint, Lushikishini area, Shiselweni Region

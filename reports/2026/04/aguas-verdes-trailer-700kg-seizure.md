@@ -1,4 +1,5 @@
 ---
+code: PN9YJ0
 date: 2026-04-01
 country: pe
 place: CEBAF Aguas Verdes, Zarumilla, Tumbes

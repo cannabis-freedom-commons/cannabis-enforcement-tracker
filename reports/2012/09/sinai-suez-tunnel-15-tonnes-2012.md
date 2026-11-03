@@ -1,4 +1,5 @@
 ---
+code: VKKEZG
 date: 2012-09-26
 country: eg
 place: Suez Canal tunnel, Suez

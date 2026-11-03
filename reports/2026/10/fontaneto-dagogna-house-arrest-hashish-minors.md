@@ -1,4 +1,5 @@
 ---
+code: PPMDGK
 date: 2026-10-21
 country: it
 place: Fontaneto d'Agogna

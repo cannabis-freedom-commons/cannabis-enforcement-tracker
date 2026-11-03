@@ -1,4 +1,5 @@
 ---
+code: 6NEBR2
 date: 2026-09-23
 country: is
 place: Bolungarvík, Westfjords

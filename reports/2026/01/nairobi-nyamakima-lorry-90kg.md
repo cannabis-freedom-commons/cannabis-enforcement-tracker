@@ -1,4 +1,5 @@
 ---
+code: DF1ZEQ
 date: 2026-01-06
 country: ke
 place: Nyamakima, Nairobi CBD

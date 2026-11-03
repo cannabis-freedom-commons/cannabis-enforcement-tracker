@@ -1,4 +1,5 @@
 ---
+code: C9H21T
 date: 2026-08-01
 country: ph
 place: Loccong and Buscalan, Tinglayan, Kalinga

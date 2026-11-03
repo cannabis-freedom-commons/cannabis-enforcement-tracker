@@ -1,4 +1,5 @@
 ---
+code: 0R1P8Y
 date: 2026-11-01
 country: br
 place: events venue on Rua Leopoldo Machado, Jesus de Nazaré, Macapá

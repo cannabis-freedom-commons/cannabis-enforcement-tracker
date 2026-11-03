@@ -1,4 +1,5 @@
 ---
+code: A4ZKHB
 date: 2026-10-30
 country: it
 place: near Rosarno exit, Autostrada A2 del Mediterraneo

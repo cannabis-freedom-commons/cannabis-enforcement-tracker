@@ -1,4 +1,5 @@
 ---
+code: E58HG4
 date: 2026-10-30
 country: py
 place: Aeropuerto Internacional Silvio Pettirossi, Luque, Central

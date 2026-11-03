@@ -1,4 +1,5 @@
 ---
+code: KMMPHK
 date: 2026-08-24
 country: lt
 place: Lithuanian Post logistics centre, Vilnius

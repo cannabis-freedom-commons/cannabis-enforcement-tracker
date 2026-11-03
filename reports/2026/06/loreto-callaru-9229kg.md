@@ -1,4 +1,5 @@
 ---
+code: 1C7S0E
 date: 2026-06-30
 country: pe
 place: Bellavista de Callarú, Ramón Castilla, Loreto

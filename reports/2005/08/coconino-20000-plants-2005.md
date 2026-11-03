@@ -1,4 +1,5 @@
 ---
+code: M2HVGB
 date: 2005-08-15
 country: us/az
 place: Coconino National Forest north of Strawberry, Arizona

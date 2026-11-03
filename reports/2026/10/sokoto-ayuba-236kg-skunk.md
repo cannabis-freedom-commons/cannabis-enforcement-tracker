@@ -1,4 +1,5 @@
 ---
+code: AWAY79
 date: 2026-10-31
 country: ng
 place: Sokoto, Sokoto State

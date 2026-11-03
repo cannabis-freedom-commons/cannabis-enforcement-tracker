@@ -1,4 +1,5 @@
 ---
+code: Y09B9J
 date: 2026-10-15
 country: gh
 place: Torve, near Akatsi, Volta Region

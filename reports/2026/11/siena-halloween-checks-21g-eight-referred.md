@@ -1,4 +1,5 @@
 ---
+code: 6KW9HE
 date: 2026-11-01
 country: it
 place: Siena, Monteroni d'Arbia, Poggibonsi and Monteriggioni, Siena province

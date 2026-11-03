@@ -1,4 +1,5 @@
 ---
+code: HVWEVF
 date: 2026-08-20
 country: de
 place: Kriminalgericht Moabit, Berlin

@@ -1,4 +1,5 @@
 ---
+code: ETQKDZ
 date: 2020-08-12
 country: us/ca
 place: Blake Mountain area, Eastern Humboldt County, California

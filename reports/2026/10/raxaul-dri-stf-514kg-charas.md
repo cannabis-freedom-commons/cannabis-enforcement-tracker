@@ -1,4 +1,5 @@
 ---
+code: 62H9ZS
 date: 2026-10-26
 country: in
 place: Raxaul, East Champaran, Bihar

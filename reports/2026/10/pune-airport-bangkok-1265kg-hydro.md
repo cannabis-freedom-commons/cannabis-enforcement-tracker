@@ -1,4 +1,5 @@
 ---
+code: 7WNAJH
 date: 2026-10-19
 country: in
 place: Pune International Airport, Lohegaon, Pune

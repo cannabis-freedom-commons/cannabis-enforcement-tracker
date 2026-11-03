@@ -1,4 +1,5 @@
 ---
+code: 4QNR4S
 date: 2026-08-17
 country: uy
 place: raids in Montevideo, Canelones and Maldonado

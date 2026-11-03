@@ -1,4 +1,5 @@
 ---
+code: 526NF1
 date: 2026-01-17
 country: ph
 place: Barangay Licungan, Sugpon, Ilocos Sur

@@ -1,4 +1,5 @@
 ---
+code: 37JWA3
 date: 2026-10-30
 country: pl
 place: Szczecin, Poland

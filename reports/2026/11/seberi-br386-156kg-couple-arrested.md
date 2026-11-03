@@ -1,4 +1,5 @@
 ---
+code: HTXAZ8
 date: 2026-11-02
 country: br
 place: BR-386, Seberi, Rio Grande do Sul

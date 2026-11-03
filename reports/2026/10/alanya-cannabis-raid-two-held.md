@@ -1,4 +1,5 @@
 ---
+code: TNBFG7
 date: 2026-10-30
 country: tr
 place: Saray and Kızlarpınarı neighbourhoods, Alanya, Antalya

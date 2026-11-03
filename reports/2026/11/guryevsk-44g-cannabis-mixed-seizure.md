@@ -1,4 +1,5 @@
 ---
+code: XTY1SV
 date: 2026-11-02
 country: ru
 place: Guryevsk, Kaliningrad Oblast

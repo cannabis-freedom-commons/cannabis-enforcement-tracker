@@ -1,4 +1,5 @@
 ---
+code: 8BS7E1
 date: 2026-09-16
 country: cn
 place: Yun County, Lincang, Yunnan

@@ -1,4 +1,5 @@
 ---
+code: EYQ6FB
 date: 2017-07-25
 country: tr
 place: Eğrikavak Mahallesi, Efeler, Aydın

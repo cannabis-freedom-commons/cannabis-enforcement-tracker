@@ -1,4 +1,5 @@
 ---
+code: EQQ1ZK
 date: 2026-11-02
 country: eg
 place: Badrashin, Giza

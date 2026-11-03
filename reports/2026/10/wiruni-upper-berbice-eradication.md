@@ -1,4 +1,5 @@
 ---
+code: 9YSZY4
 date: 2026-10-11
 country: gy
 place: Wiruni, Upper Berbice River, Region 10

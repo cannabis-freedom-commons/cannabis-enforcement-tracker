@@ -1,4 +1,5 @@
 ---
+code: KRH1N6
 date: 2026-10-29
 country: sv
 place: colonia Santa Marta, Ciudad Delgado, San Salvador Centro

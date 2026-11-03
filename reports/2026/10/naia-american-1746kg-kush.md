@@ -1,4 +1,5 @@
 ---
+code: T0H0WC
 date: 2026-10-29
 country: ph
 place: NAIA Terminal 3, Pasay City

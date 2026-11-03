@@ -1,4 +1,5 @@
 ---
+code: GJ8M5Z
 date: 2026-11-02
 country: pl
 place: Legnica, Lower Silesian Voivodeship

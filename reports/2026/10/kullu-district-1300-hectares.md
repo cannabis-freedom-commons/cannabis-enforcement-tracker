@@ -1,4 +1,5 @@
 ---
+code: Z1WK2C
 date: 2026-10-24
 country: in
 place: Kullu district, Himachal Pradesh

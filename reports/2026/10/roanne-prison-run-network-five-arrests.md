@@ -1,4 +1,5 @@
 ---
+code: HNYM1Q
 date: 2026-10-24
 country: fr
 place: Roanne, Loire

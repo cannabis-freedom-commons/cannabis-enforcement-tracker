@@ -1,4 +1,5 @@
 ---
+code: TN6KF6
 date: 2026-10-13
 country: ph
 place: Sitio Pingew, Proper Tacadang, Kibungan, Benguet

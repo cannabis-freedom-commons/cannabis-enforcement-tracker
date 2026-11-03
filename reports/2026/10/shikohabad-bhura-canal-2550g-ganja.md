@@ -1,4 +1,5 @@
 ---
+code: 41HV3H
 date: 2026-10-27
 country: in
 place: Bhura canal bridge, Shikohabad, Firozabad district, Uttar Pradesh

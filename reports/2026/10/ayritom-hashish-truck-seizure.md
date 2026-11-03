@@ -1,4 +1,5 @@
 ---
+code: 41CHG2
 date: 2026-10-01
 country: uz
 place: Ayritom border post, Surxondaryo region, Uzbek-Afghan border

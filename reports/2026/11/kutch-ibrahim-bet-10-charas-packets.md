@@ -1,4 +1,5 @@
 ---
+code: Y6T2CJ
 date: 2026-11-01
 country: in
 place: Ibrahim Bet, Lakhpat, Kutch, Gujarat

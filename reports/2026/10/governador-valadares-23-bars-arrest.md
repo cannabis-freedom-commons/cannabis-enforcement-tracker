@@ -1,4 +1,5 @@
 ---
+code: H2SZ03
 date: 2026-10-29
 country: br
 place: Governador Valadares, Minas Gerais

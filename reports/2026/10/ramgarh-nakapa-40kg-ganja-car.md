@@ -1,4 +1,5 @@
 ---
+code: 7Z1D3W
 date: 2026-10-31
 country: bd
 place: Nakapa Bazar, Patachhara Union, Ramgarh, Khagrachhari

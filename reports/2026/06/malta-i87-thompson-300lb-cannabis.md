@@ -1,4 +1,5 @@
 ---
+code: S7TC32
 date: 2026-06-17
 country: us/ny
 place: Interstate 87 Northway, Malta, Saratoga County

@@ -1,4 +1,5 @@
 ---
+code: 91VPKR
 date: 2026-08-27
 country: id
 place: Desa Makmur Jaya, Darul Hasanah, Aceh Tenggara

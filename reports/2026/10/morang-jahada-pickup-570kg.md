@@ -1,4 +1,5 @@
 ---
+code: DJMH2P
 date: 2026-10-26
 country: np
 place: Ramchowk, Jahada-4, Morang

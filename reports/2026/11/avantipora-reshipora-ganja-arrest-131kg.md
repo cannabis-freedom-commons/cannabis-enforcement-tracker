@@ -1,4 +1,5 @@
 ---
+code: QA1Y7X
 date: 2026-11-02
 country: in
 place: Ghat Tokina, Reshipora, Avantipora, Pulwama

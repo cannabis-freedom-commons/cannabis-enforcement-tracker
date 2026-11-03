@@ -1,4 +1,5 @@
 ---
+code: Z74NEA
 date: 2026-10-06
 country: in
 place: Mungiakami, Khowai district, Tripura

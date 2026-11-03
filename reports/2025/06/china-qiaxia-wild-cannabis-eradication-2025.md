@@ -1,4 +1,5 @@
 ---
+code: MQ1TPW
 date: 2025-06-16
 country: cn
 place: Qiaxia, Tacheng Prefecture, Xinjiang

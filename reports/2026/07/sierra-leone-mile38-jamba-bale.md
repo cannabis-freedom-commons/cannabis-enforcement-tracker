@@ -1,4 +1,5 @@
 ---
+code: X73Q3D
 date: 2026-07-16
 country: sl
 place: Mile 38 checkpoint

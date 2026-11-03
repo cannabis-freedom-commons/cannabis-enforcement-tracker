@@ -1,4 +1,5 @@
 ---
+code: 6AJYNA
 date: 2026-11-03
 country: ru
 place: Selikhino, Komsomolsky District, Khabarovsk Krai

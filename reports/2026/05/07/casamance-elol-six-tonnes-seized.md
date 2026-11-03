@@ -1,4 +1,5 @@
 ---
+code: GWGRCA
 date: 2026-05-07
 country: sn
 place: Bignona department, Casamance

@@ -1,4 +1,5 @@
 ---
+code: 4ZDSW1
 date: 2026-10-13
 country: cl
 place: Purranque toll plaza, Route 5 Sur, Los Lagos

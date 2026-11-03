@@ -1,4 +1,5 @@
 ---
+code: GJ2FK7
 date: 2026-06-18
 country: id
 place: Teupin Rusep, Sawang, North Aceh

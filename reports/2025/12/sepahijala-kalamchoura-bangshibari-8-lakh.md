@@ -1,4 +1,5 @@
 ---
+code: 1YHECZ
 date: 2025-12-02
 country: in
 place: North Kalamchoura and Bangshibari, Sepahijala district

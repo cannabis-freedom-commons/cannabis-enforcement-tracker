@@ -1,4 +1,5 @@
 ---
+code: QA3SYY
 date: 2026-09-23
 country: cz
 place: Orlová, Czech Republic

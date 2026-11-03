@@ -1,4 +1,5 @@
 ---
+code: N1M51J
 date: 2025-09-10
 country: cn
 place: Lixin County, Anhui; sales in Qingdao and Weihai, Shandong

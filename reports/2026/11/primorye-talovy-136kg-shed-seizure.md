@@ -1,4 +1,5 @@
 ---
+code: 70SEA8
 date: 2026-11-03
 country: ru
 place: shed on Tsentralnaya Street in Talovy, Pogranichny district, Primorye

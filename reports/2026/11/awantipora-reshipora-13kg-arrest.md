@@ -1,4 +1,5 @@
 ---
+code: 2G3HR1
 date: 2026-11-01
 country: in
 place: Ghat Tokina, Reshipora, Awantipora, Pulwama

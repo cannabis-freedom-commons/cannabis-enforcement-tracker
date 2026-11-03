@@ -1,4 +1,5 @@
 ---
+code: FBA6BB
 date: 2026-11-01
 country: in
 place: Chand Colony Road, Mandi police station area, Saharanpur, Uttar Pradesh

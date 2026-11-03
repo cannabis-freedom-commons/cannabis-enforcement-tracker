@@ -1,4 +1,5 @@
 ---
+code: P8QV4Z
 date: 2026-10-10
 country: in
 place: Vaipet (Vayupet) village, Sirikonda mandal, Adilabad district, Telangana

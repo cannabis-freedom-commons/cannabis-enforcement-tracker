@@ -1,4 +1,5 @@
 ---
+code: WCJR6A
 date: 2025-10-31
 country: ru
 place: Simferopol

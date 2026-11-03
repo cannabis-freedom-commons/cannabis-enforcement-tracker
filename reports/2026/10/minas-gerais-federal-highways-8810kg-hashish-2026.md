@@ -1,4 +1,5 @@
 ---
+code: S6R74K
 date: 2026-10-23
 country: br
 place: federal highways, Minas Gerais

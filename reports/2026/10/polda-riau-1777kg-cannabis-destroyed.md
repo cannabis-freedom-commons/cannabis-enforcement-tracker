@@ -1,4 +1,5 @@
 ---
+code: QYNABW
 date: 2026-10-28
 country: id
 place: Pekanbaru, Riau

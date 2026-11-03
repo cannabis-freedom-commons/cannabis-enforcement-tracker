@@ -1,4 +1,5 @@
 ---
+code: 4WWRCY
 date: 2024-12-18
 country: cz
 place: Czechia and Slovakia

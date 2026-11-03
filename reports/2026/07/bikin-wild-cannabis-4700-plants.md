@@ -1,4 +1,5 @@
 ---
+code: AX9AKH
 date: 2026-07-15
 country: ru
 place: Bikin, Khabarovsk Krai

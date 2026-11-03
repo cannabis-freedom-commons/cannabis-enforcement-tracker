@@ -1,4 +1,5 @@
 ---
+code: 4R59S2
 date: 2006-01-24
 country: ph
 place: Barangay Caoayan, Sugpon, Ilocos Sur

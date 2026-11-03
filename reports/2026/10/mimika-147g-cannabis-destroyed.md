@@ -1,4 +1,5 @@
 ---
+code: 4WS66R
 date: 2026-10-30
 country: id
 place: Timika, Mimika Regency, Central Papua

@@ -1,4 +1,5 @@
 ---
+code: 8YVKGD
 date: 2025-08-20
 country: ni
 place: La Campana, Wamblán, Wiwilí, Jinotega

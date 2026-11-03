@@ -1,4 +1,5 @@
 ---
+code: E01QTY
 date: 2026-09-14
 country: ke
 place: Kakongo Village, Kairungu Location, Kiomo Kyethani Ward, Mwingi Central, Kitui County

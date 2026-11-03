@@ -1,4 +1,5 @@
 ---
+code: K1GP0Z
 date: 2026-10-30
 country: br
 place: Jardim Dona Hilda, Martinópolis, São Paulo

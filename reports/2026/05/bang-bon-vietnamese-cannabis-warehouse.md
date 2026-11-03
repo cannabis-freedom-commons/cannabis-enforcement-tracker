@@ -1,4 +1,5 @@
 ---
+code: 5Y89B1
 date: 2026-05-26
 country: th
 place: Bang Bon district, Bangkok

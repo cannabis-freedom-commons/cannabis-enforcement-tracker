@@ -1,4 +1,5 @@
 ---
+code: YF7HJ5
 date: 2026-11-02
 country: in
 place: Panikkarupadi bus stop, Vypin, Kochi

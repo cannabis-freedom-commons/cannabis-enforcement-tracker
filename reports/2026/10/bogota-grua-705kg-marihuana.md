@@ -1,4 +1,5 @@
 ---
+code: 6YYETW
 date: 2026-10-21
 country: co
 place: Ciudad Bolívar, Bogotá

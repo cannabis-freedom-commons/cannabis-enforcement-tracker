@@ -1,4 +1,5 @@
 ---
+code: K9WRG7
 date: 2026-10-30
 country: in
 place: Sataun bus stand, Sataun, Sirmaur district, Himachal Pradesh

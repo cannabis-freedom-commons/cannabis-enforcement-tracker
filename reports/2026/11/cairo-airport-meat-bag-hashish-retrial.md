@@ -1,4 +1,5 @@
 ---
+code: A18E1S
 date: 2026-11-02
 country: eg
 place: Cairo International Airport, Cairo

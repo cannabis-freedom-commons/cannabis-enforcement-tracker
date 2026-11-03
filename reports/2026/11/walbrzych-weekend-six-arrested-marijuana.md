@@ -1,4 +1,5 @@
 ---
+code: TMDDAY
 date: 2026-11-02
 country: pl
 place: Wałbrzych, Lower Silesian Voivodeship

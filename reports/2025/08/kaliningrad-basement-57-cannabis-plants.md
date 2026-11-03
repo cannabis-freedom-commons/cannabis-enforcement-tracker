@@ -1,4 +1,5 @@
 ---
+code: 7Q0TQS
 date: 2025-08-11
 country: ru
 place: Kaliningrad

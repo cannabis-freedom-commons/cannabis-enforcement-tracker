@@ -1,4 +1,5 @@
 ---
+code: DXH1BY
 date: 2026-10-29
 country: np
 place: Jhajpatti, Nawrajpur rural municipality-5, Siraha

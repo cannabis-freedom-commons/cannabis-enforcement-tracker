@@ -1,4 +1,5 @@
 ---
+code: NZ6XH9
 date: 2026-08-31
 country: sl
 place: Mile 38 checkpoint, Port Loko District

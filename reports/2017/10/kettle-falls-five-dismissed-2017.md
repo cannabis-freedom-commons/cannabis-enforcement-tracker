@@ -1,4 +1,5 @@
 ---
+code: NH6XSY
 date: 2017-10-16
 country: us/wa
 place: Near Kettle Falls, Stevens County, Washington

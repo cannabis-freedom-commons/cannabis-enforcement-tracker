@@ -1,4 +1,5 @@
 ---
+code: SCK0ZQ
 date: 2026-10-30
 country: in
 place: Dharmavaram, Prathipadu mandal, Kakinada district, Andhra Pradesh

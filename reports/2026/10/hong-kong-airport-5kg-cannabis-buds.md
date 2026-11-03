@@ -1,4 +1,5 @@
 ---
+code: HRQMTA
 date: 2026-10-31
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

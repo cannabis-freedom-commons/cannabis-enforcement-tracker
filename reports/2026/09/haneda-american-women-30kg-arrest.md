@@ -1,4 +1,5 @@
 ---
+code: D197FH
 date: 2026-09-05
 country: jp
 place: Haneda Airport, Tokyo

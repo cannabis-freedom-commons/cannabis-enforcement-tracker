@@ -1,4 +1,5 @@
 ---
+code: 2XPD1X
 date: 2026-10-14
 country: dz
 place: Moroccan borders, military regions

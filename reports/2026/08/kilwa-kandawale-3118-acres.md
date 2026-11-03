@@ -1,4 +1,5 @@
 ---
+code: G2F90Y
 date: 2026-08-03
 country: tz
 place: Kandawale and Kipatimo, Kilwa, Lindi

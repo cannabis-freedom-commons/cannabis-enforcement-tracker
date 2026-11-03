@@ -1,4 +1,5 @@
 ---
+code: 1ZKMSB
 date: 2026-05-20
 country: no
 place: Trøndelag

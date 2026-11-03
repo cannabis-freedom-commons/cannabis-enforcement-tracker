@@ -1,4 +1,5 @@
 ---
+code: 2E0S70
 date: 2026-10-04
 country: cn
 place: Junsai Township, Zhenkang County, Lincang, Yunnan

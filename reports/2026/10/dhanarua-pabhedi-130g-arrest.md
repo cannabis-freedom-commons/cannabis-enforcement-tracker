@@ -1,4 +1,5 @@
 ---
+code: NWGXVH
 date: 2026-10-31
 country: in
 place: Pabhedi, Dhanarua, Patna district, Bihar

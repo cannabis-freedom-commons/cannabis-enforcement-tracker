@@ -1,4 +1,5 @@
 ---
+code: 1VATZM
 date: 2026-10-31
 country: sv
 place: San Miguel Centro, San Miguel

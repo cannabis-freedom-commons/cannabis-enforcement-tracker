@@ -1,4 +1,5 @@
 ---
+code: C7TJP2
 date: 2026-02-03
 country: id
 place: Bukit Selamat, Besitang, Langkat, North Sumatra

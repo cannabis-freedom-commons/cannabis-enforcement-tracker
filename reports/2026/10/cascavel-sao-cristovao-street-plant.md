@@ -1,4 +1,5 @@
 ---
+code: KP9PTT
 date: 2026-10-30
 country: br
 place: Rua Francisco Beltrão, São Cristóvão, Cascavel, Paraná

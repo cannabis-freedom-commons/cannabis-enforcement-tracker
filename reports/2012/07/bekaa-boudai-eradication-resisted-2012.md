@@ -1,4 +1,5 @@
 ---
+code: DTKSVC
 date: "2012-07-23"
 country: lb
 place: Near Boudai, outskirts of Baalbek, Bekaa Valley

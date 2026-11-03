@@ -1,4 +1,5 @@
 ---
+code: 93XRWC
 date: 2026-10-29
 country: id
 place: Lampung Selatan, Lampung

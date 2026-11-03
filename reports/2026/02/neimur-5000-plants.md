@@ -1,4 +1,5 @@
 ---
+code: HPSX5H
 date: 2026-02-11
 country: au
 place: Neimur, about 80 km north-west of Deniliquin, New South Wales

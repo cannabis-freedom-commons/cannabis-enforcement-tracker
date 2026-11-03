@@ -1,4 +1,5 @@
 ---
+code: 5Z2F8F
 date: 2026-10-22
 country: hn
 place: La Bolsa, Tocoa, Colón

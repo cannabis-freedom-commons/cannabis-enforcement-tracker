@@ -1,4 +1,5 @@
 ---
+code: GFAQAB
 date: 2026-11-01
 country: ru
 place: Kuznetsk, Penza Oblast

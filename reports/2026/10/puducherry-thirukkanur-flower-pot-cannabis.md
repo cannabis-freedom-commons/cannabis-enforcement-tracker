@@ -1,4 +1,5 @@
 ---
+code: 2FC5NW
 date: 2026-10-30
 country: in
 place: Lingareddipalayam, near Thirukkanur, Puducherry

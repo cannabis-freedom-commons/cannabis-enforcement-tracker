@@ -1,4 +1,5 @@
 ---
+code: GFYHZE
 date: 2026-09-09
 country: lr
 place: Karloken checkpoint, Karluway District, Maryland County, Liberia

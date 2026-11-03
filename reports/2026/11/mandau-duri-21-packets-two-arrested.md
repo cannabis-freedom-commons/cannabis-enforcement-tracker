@@ -1,4 +1,5 @@
 ---
+code: Q2PXB1
 date: 2026-11-02
 country: id
 place: Gang Abdul Rahman, Jalan Asrama Tribrata, Pematang Pudu, Mandau, Bengkalis

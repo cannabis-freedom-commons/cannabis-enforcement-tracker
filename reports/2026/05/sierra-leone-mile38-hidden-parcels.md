@@ -1,4 +1,5 @@
 ---
+code: EHE117
 date: 2026-05-09
 country: sl
 place: Mile 38 checkpoint

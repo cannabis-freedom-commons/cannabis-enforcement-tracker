@@ -1,4 +1,5 @@
 ---
+code: ZBBB8M
 date: 2026-09-17
 country: ml
 place: Sénou, Bamako

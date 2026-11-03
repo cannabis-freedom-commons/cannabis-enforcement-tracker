@@ -1,4 +1,5 @@
 ---
+code: GSHPE5
 date: 2026-11-01
 country: in
 place: Maranchi, Hathidah, Patna, Bihar

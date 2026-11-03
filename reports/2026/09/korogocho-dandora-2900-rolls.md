@@ -1,4 +1,5 @@
 ---
+code: B1KZKD
 date: 2026-09-23
 country: ke
 place: Korogocho Road, Nairobi

@@ -1,4 +1,5 @@
 ---
+code: 4Y0BB0
 date: 2026-11-01
 country: th
 place: Soi Rong Mueang 5, Wang Mai, Pathum Wan, Bangkok

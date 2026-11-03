@@ -1,4 +1,5 @@
 ---
+code: 82CYAP
 date: 2026-11-02
 country: iq
 place: An unnamed neighbouring country of Iraq

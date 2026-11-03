@@ -1,4 +1,5 @@
 ---
+code: JF6CY2
 date: "2010-10-18"
 country: mx
 place: Tijuana, Baja California

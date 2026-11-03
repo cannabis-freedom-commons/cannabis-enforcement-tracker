@@ -1,4 +1,5 @@
 ---
+code: 1VPXEQ
 date: 2026-10-30
 country: in
 place: Phaphrala Khad near Jakhol-Sankri crossing, Mori-Sankri road, Mori, Uttarkashi

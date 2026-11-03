@@ -1,4 +1,5 @@
 ---
+code: RX4GWS
 date: 2026-10-13
 country: ua
 place: Shpola District, Cherkasy region

@@ -1,4 +1,5 @@
 ---
+code: Y5Y77R
 date: 2026-10-31
 country: eg
 place: El Gamaliya district, Cairo

@@ -1,4 +1,5 @@
 ---
+code: JW3XFE
 date: 2026-11-01
 country: in
 place: Jaipur Hattala, Joypur, Bankura district, West Bengal

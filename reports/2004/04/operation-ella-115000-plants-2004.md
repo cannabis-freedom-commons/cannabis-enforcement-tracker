@@ -1,4 +1,5 @@
 ---
+code: WCGCZ8
 date: 2004-04-30
 country: nz
 place: New Zealand (nationwide)

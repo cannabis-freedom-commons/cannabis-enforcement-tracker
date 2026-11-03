@@ -1,4 +1,5 @@
 ---
+code: YNT12S
 date: 2026-10-02
 country: in
 place: Lavakera barrier, Jashpur district

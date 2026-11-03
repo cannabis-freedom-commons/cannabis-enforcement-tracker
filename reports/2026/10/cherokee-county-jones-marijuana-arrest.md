@@ -1,4 +1,5 @@
 ---
+code: 5NVCQS
 date: 2026-10-30
 country: us/al
 place: Cherokee County, Alabama

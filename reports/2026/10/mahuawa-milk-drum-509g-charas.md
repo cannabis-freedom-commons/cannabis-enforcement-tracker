@@ -1,4 +1,5 @@
 ---
+code: E5P0ES
 date: 2026-10-30
 country: in
 place: Dharmnagar, Mahuawa, East Champaran, Bihar

@@ -1,4 +1,5 @@
 ---
+code: CJKPE0
 date: 2026-10-25
 country: gh
 place: New York, near Airport Junction, Tema

@@ -1,4 +1,5 @@
 ---
+code: RWWB78
 date: 2026-10-02
 country: pk
 place: M-2 Motorway near Islamabad

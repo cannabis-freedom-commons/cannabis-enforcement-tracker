@@ -1,4 +1,5 @@
 ---
+code: Y0XCGS
 date: 2025-12-08
 country: ke
 place: Kibiku area, Kabete, Kiambu

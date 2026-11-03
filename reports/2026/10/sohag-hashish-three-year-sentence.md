@@ -1,4 +1,5 @@
 ---
+code: 4ZCR7X
 date: 2026-10-29
 country: eg
 place: First Police District (Qism Awwal Sohag), Sohag

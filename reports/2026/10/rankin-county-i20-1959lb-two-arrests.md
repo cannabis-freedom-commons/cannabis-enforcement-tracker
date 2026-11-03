@@ -1,4 +1,5 @@
 ---
+code: "ZN8P7C"
 date: 2026-10-29
 country: us/ms
 place: Interstate 20, Rankin County, Mississippi

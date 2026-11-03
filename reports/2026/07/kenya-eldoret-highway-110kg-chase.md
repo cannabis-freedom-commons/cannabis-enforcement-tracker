@@ -1,4 +1,5 @@
 ---
+code: VT236S
 date: 2026-07-27
 country: ke
 place: KFA roundabout, Eldoret-Nakuru highway

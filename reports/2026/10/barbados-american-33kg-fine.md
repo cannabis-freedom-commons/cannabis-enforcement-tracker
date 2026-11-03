@@ -1,4 +1,5 @@
 ---
+code: 6VWRY8
 date: 2026-10-14
 country: bb
 place: Barbados

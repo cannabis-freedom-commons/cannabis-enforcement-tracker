@@ -1,4 +1,5 @@
 ---
+code: 5GRNWH
 date: 2026-11-01
 country: in
 place: Koot village, Ani, Kullu district, Himachal Pradesh

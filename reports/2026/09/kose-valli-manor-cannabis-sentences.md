@@ -1,4 +1,5 @@
 ---
+code: FJ13AN
 date: 2026-09-02
 country: ee
 place: Valli manor, Kose Parish, Harju County

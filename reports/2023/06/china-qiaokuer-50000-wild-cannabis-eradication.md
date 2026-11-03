@@ -1,4 +1,5 @@
 ---
+code: XCZP9M
 date: 2023-06-18
 country: cn
 place: Ili Kazakh Autonomous Prefecture, Xinjiang

@@ -1,4 +1,5 @@
 ---
+code: 6DJ18B
 date: 2026-07-24
 country: uz
 place: Urganch district, Khorezm and Yangiqorgon district, Namangan

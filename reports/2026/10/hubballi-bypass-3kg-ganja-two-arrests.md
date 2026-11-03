@@ -1,4 +1,5 @@
 ---
+code: MVKG0A
 date: 2026-10-05
 country: in
 place: Thimmasagar village, Hubballi-Dharwad bypass, Hubballi

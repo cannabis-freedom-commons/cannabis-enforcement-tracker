@@ -1,4 +1,5 @@
 ---
+code: MGXT2X
 date: 2026-10-29
 country: es
 place: Polígono industrial, Calasparra, Murcia

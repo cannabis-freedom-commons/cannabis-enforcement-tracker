@@ -1,4 +1,5 @@
 ---
+code: 1MVM96
 date: 2026-09-09
 country: eg
 place: Al-Manira Al-Gharbeya, Giza Governorate

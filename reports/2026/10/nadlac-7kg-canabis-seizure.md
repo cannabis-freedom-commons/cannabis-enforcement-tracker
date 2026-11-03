@@ -1,4 +1,5 @@
 ---
+code: JJYA5H
 date: 2026-10-12
 country: ro
 place: Nădlac border crossing, Arad

@@ -1,4 +1,5 @@
 ---
+code: 7TWVEK
 date: 2026-11-01
 country: id
 place: Blang Pandak village, Tangse, Pidie, Aceh

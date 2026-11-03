@@ -1,4 +1,5 @@
 ---
+code: XZ2SF4
 date: 2026-10-26
 country: us/nc
 place: Mama Noi's parking lot on Church Street, Ellerbe, Richmond County, North Carolina

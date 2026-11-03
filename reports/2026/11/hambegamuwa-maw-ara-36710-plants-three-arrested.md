@@ -1,4 +1,5 @@
 ---
+code: Q6GCJ4
 date: 2026-11-02
 country: lk
 place: Maw Ara area, Hambegamuwa

@@ -1,4 +1,5 @@
 ---
+code: 1H8HBW
 date: 2026-09-25
 country: jp
 place: Yamakawacho, Ashikaga, Tochigi

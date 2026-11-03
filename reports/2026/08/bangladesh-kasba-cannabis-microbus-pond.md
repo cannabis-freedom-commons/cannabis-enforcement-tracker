@@ -1,4 +1,5 @@
 ---
+code: QMBC1P
 date: 2026-08-28
 country: bd
 place: Khidirpur, Binauti union, Kasba upazila, Brahmanbaria

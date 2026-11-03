@@ -1,4 +1,5 @@
 ---
+code: PZTHH0
 date: 2026-11-02
 country: cy
 place: Larnaca district

@@ -1,4 +1,5 @@
 ---
+code: 4AQ21Y
 date: 2026-11-01
 country: eg
 place: Al-Jubayrat, Tahta, Sohag

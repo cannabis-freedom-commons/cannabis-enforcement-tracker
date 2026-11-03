@@ -1,4 +1,5 @@
 ---
+code: 87ZTJ1
 date: 2026-10-28
 country: cl
 place: Calama, Antofagasta region

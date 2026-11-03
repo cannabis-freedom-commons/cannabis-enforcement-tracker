@@ -1,4 +1,5 @@
 ---
+code: 14WFPC
 date: 2026-11-01
 country: mx
 place: Pueblo Nuevo, Elota, Sinaloa

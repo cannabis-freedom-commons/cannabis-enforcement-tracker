@@ -1,4 +1,5 @@
 ---
+code: G6ZT1F
 date: 2026-10-22
 country: fr
 place: Nanterre, Hauts-de-Seine

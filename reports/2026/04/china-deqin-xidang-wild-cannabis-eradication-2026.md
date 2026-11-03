@@ -1,4 +1,5 @@
 ---
+code: YX52XW
 date: 2026-04-16
 country: cn
 place: Xidang Village, Yunling Township, Deqin County, Yunnan

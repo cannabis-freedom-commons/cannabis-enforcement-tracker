@@ -1,4 +1,5 @@
 ---
+code: CVN44T
 date: 2026-08-11
 country: jp
 place: Hidaka town, Hidaka District, Hokkaido

@@ -1,4 +1,5 @@
 ---
+code: 2M0CVR
 date: 2026-10-30
 country: in
 place: Pandripani, Charama, Kanker district, Chhattisgarh

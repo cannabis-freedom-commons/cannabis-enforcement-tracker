@@ -1,4 +1,5 @@
 ---
+code: 5RGAVM
 date: 2026-10-27
 country: ph
 place: Barangay Loccong, Tinglayan, Kalinga

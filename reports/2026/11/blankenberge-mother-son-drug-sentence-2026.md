@@ -1,4 +1,5 @@
 ---
+code: EPENBY
 date: 2026-11-02
 country: be
 place: Bruges, West Flanders

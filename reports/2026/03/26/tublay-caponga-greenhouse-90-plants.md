@@ -1,4 +1,5 @@
 ---
+code: CZR47V
 date: 2026-03-26
 country: ph
 place: Barangay Caponga, Tublay, Benguet

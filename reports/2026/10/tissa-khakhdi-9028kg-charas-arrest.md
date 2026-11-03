@@ -1,4 +1,5 @@
 ---
+code: E0WFVD
 date: 2026-10-31
 country: in
 place: Khakhdi dam site link road, Tissa, Churah, Chamba

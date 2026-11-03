@@ -1,4 +1,5 @@
 ---
+code: BT6WCC
 date: 2026-10-23
 country: gb
 place: Scarborough, North Yorkshire

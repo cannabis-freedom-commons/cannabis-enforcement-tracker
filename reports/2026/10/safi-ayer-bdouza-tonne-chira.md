@@ -1,4 +1,5 @@
 ---
+code: RK4HQR
 date: 2026-10-13
 country: ma
 place: Ayer-Bdouza beach area, Safi province

@@ -1,4 +1,5 @@
 ---
+code: 8QT4QP
 date: 2026-10-18
 country: in
 place: Dindawar village, Vijayapura district, Karnataka

@@ -1,4 +1,5 @@
 ---
+code: EQ3430
 date: 2026-10-30
 country: eg
 place: Alexandria

@@ -1,4 +1,5 @@
 ---
+code: 1QSDYC
 date: 2023-09-30
 country: co
 place: Central Pacific, Colombia (Buenaventura, Valle del Cauca)

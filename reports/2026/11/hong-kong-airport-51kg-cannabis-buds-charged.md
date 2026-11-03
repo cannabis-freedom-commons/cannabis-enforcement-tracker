@@ -1,4 +1,5 @@
 ---
+code: F4RR3E
 date: 2026-11-02
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

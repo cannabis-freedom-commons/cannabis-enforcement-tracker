@@ -1,4 +1,5 @@
 ---
+code: SAWXVS
 date: 2026-10-31
 country: in
 place: Kali Nadi bridge on the Charthawal–Niajupura road, Muzaffarnagar, Uttar Pradesh

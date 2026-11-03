@@ -1,4 +1,5 @@
 ---
+code: J0A3VB
 date: 2026-10-27
 country: in
 place: Masal Road, Nagrota Bagwan, Kangra district, Himachal Pradesh

@@ -1,4 +1,5 @@
 ---
+code: GKH7JV
 date: 2026-10-14
 country: np
 place: Jugedi, Bharatpur-29, Chitwan

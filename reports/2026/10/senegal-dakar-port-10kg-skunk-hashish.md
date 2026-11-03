@@ -1,4 +1,5 @@
 ---
+code: 2X7RXD
 date: 2026-10-12
 country: sn
 place: Port of Dakar, Dakar

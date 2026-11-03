@@ -1,4 +1,5 @@
 ---
+code: 5YZYQX
 date: 2026-10-04
 country: ng
 place: Yala Nkum village, Ikom Local Government Area, Cross River State, Nigeria

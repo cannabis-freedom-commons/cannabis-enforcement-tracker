@@ -1,4 +1,5 @@
 ---
+code: K2GSGA
 date: 2007-02-03
 country: ph
 place: Sugpon, Ilocos Sur and Bacun, Benguet boundary

@@ -1,4 +1,5 @@
 ---
+code: HB9JRB
 date: 2026-10-31
 country: gr
 place: Monemvasia municipality, Laconia

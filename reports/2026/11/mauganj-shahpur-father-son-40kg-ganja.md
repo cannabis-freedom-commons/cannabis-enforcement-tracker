@@ -1,4 +1,5 @@
 ---
+code: JNE86A
 date: 2026-11-01
 country: in
 place: Barav Chahala Tola, Shahpur, Mauganj district, Madhya Pradesh

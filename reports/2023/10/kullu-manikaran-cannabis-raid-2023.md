@@ -1,4 +1,5 @@
 ---
+code: 9MGV0S
 date: 2023-10-11
 country: in
 place: Manikaran valley, Kullu district, Himachal Pradesh

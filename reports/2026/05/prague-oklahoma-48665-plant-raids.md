@@ -1,4 +1,5 @@
 ---
+code: QTS85S
 date: 2026-05-06
 country: us/ok
 place: Prague, Pottawatomie County, Oklahoma

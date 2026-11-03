@@ -1,4 +1,5 @@
 ---
+code: ZB94SD
 date: 2026-11-02
 country: np
 place: Chyandanda, Dharan Sub-Metropolis-20, Sunsari

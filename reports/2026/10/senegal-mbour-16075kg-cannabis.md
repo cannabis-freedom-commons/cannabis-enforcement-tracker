@@ -1,4 +1,5 @@
 ---
+code: 5GYA2F
 date: 2026-10-12
 country: sn
 place: Between Mbaling and Sinthiou Mbadane, Mbour Department

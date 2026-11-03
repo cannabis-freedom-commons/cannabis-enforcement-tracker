@@ -1,4 +1,5 @@
 ---
+code: D95NKQ
 date: 2026-10-05
 country: mx
 place: Rincón de Centeno, Juventino Rosas, Guanajuato

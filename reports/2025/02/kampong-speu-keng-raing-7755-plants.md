@@ -1,4 +1,5 @@
 ---
+code: 52XCYW
 date: 2025-02-14
 country: kh
 place: Pooswek, Oral, Kampong Speu, Cambodia

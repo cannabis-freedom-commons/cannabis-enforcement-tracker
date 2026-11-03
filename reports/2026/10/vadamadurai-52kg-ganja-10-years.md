@@ -1,4 +1,5 @@
 ---
+code: EQTVDK
 date: 2026-10-28
 country: in
 place: Vadamadurai, Dindigul district, Tamil Nadu

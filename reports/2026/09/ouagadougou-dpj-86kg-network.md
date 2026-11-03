@@ -1,4 +1,5 @@
 ---
+code: YR9CHX
 date: 2026-09-29
 country: bf
 place: Ouagadougou

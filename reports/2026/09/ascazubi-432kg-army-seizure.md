@@ -1,4 +1,5 @@
 ---
+code: RGS1AQ
 date: 2026-09-07
 country: ec
 place: Ascázubi, Cayambe, Pichincha

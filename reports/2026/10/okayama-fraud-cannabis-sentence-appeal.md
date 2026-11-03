@@ -1,4 +1,5 @@
 ---
+code: Y3D08B
 date: 2026-10-28
 country: jp
 place: Okayama, Okayama Prefecture

@@ -1,4 +1,5 @@
 ---
+code: BNCV4N
 date: 2026-10-25
 country: ly
 place: Murqub, on a route from eastern Libya toward the centre and west

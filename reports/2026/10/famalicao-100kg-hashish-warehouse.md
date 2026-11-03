@@ -1,4 +1,5 @@
 ---
+code: 1GDY2X
 date: 2026-10-26
 country: pt
 place: Vila Nova de Famalicão, Braga

@@ -1,4 +1,5 @@
 ---
+code: CQNM4F
 date: 2026-10-29
 country: co
 place: Yarumal, Antioquia

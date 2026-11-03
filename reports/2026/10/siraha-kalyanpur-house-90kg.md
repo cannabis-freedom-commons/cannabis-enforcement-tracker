@@ -1,4 +1,5 @@
 ---
+code: 2XAX3A
 date: 2026-10-26
 country: np
 place: Kalyanpur, Sakhuwanankarkatti-5, Siraha

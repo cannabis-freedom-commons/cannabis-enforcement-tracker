@@ -1,4 +1,5 @@
 ---
+code: C7Y93H
 date: 2026-05-31
 country: ng
 place: Ibeno, Akwa Ibom State

@@ -1,4 +1,5 @@
 ---
+code: WMKMEJ
 date: 2026-10-29
 country: id
 place: TPA Tlekung, Desa Tlekung, Kecamatan Junrejo, Kota Batu, East Java

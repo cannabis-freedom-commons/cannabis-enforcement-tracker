@@ -1,4 +1,5 @@
 ---
+code: 1ZKG9M
 date: 2026-10-16
 country: ng
 place: Ameyinti hideout, Owo, Ondo State

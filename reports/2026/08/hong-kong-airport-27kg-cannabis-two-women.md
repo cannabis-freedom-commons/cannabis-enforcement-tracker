@@ -1,4 +1,5 @@
 ---
+code: E6Q04D
 date: 2026-08-18
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

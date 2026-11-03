@@ -1,4 +1,5 @@
 ---
+code: F7K01P
 date: 2012-05-17
 country: lv
 place: Gulbene municipality, Vidzeme

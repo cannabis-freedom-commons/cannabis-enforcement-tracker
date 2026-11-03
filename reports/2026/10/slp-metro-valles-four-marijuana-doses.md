@@ -1,4 +1,5 @@
 ---
+code: TE7AXN
 date: 2026-10-29
 country: mx
 place: San Luis Potosí

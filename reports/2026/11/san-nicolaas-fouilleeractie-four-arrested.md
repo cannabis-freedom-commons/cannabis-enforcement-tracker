@@ -1,4 +1,5 @@
 ---
+code: EJYK1H
 date: 2026-11-01
 country: aw
 place: San Nicolaas, Aruba

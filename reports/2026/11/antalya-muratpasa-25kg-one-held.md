@@ -1,4 +1,5 @@
 ---
+code: PT9ZHH
 date: 2026-11-03
 country: tr
 place: Muratpaşa, Antalya

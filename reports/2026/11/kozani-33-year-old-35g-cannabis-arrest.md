@@ -1,4 +1,5 @@
 ---
+code: XV1VBK
 date: 2026-11-01
 country: gr
 place: Kozani

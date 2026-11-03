@@ -1,4 +1,5 @@
 ---
+code: 2ZD7X0
 date: 2026-01-28
 country: mw
 place: Senga Bay, Salima

@@ -1,4 +1,5 @@
 ---
+code: FRY9TZ
 date: 2026-11-02
 country: es
 place: Mataró, Barcelona province

@@ -1,4 +1,5 @@
 ---
+code: 0BK24Y
 date: 2026-01-20
 country: cr
 place: Cabo Matapalo, Pacific coast, Puntarenas

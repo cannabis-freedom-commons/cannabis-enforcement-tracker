@@ -1,4 +1,5 @@
 ---
+code: VM7QFR
 date: 2026-10-18
 country: in
 place: Imampur, Ahilyanagar taluka, Ahilyanagar district, Maharashtra

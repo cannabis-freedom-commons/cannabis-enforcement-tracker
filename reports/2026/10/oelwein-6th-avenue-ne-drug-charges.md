@@ -1,4 +1,5 @@
 ---
+code: KX5YWD
 date: 2026-10-31
 country: us/ia
 place: 27 6th Avenue NE, Oelwein, Iowa

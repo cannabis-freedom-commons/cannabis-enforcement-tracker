@@ -1,4 +1,5 @@
 ---
+code: 92M5GS
 date: 2018-07-26
 country: tr
 place: Çamlıhemşin, Rize

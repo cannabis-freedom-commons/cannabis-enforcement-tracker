@@ -1,4 +1,5 @@
 ---
+code: EBDCEX
 date: 2026-10-29
 country: th
 place: Banthat Thong Road, Wang Mai, Pathum Wan, Bangkok

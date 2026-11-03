@@ -1,4 +1,5 @@
 ---
+code: R52Z6N
 date: 2026-09-16
 country: us/nc
 place: Harmony Highway, northern Iredell County, North Carolina

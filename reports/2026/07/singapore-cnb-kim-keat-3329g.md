@@ -1,4 +1,5 @@
 ---
+code: C4XZWQ
 date: 2026-07-07
 country: sg
 place: Kim Keat Road and Geylang East, Singapore

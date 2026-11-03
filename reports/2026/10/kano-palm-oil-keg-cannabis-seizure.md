@@ -1,4 +1,5 @@
 ---
+code: 0YY589
 date: 2026-10-16
 country: ng
 place: Mallam Aminu Kano International Airport, Kano State

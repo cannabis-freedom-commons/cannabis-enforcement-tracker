@@ -1,4 +1,5 @@
 ---
+code: EWKZPQ
 date: 2026-11-02
 country: pk
 place: Rawalpindi

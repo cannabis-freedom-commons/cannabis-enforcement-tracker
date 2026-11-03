@@ -1,4 +1,5 @@
 ---
+code: 09FGW4
 date: 2026-11-01
 country: tr
 place: Bayındır, İzmir

@@ -1,4 +1,5 @@
 ---
+code: QMYEAR
 date: 2015-06-24
 country: al
 place: Lazarat, Gjirokastër County, southern Albania

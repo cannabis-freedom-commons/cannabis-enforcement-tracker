@@ -1,4 +1,5 @@
 ---
+code: 47HD68
 date: 2026-10-16
 country: fi
 place: Rovaniemi

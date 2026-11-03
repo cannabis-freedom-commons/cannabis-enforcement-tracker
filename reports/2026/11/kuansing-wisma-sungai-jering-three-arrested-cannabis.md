@@ -1,4 +1,5 @@
 ---
+code: 4BZPDE
 date: 2026-11-01
 country: id
 place: Wisma O, Sungai Jering, Kuantan Tengah, Kuantan Singingi, Riau

@@ -1,4 +1,5 @@
 ---
+code: TAQ5DH
 date: 2025-03-15
 country: th
 place: Samui Airport, Ko Samui, Surat Thani

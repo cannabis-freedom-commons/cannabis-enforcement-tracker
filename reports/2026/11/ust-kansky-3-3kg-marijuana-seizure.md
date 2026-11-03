@@ -1,4 +1,5 @@
 ---
+code: 20V65V
 date: 2026-11-02
 country: ru
 place: Ust-Kansky District, Altai Republic

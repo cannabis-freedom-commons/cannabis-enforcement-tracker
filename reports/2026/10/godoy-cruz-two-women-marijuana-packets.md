@@ -1,4 +1,5 @@
 ---
+code: 6CSSP8
 date: 2026-10-29
 country: ar
 place: Rawson and Vélez Sarsfield, Godoy Cruz, Mendoza

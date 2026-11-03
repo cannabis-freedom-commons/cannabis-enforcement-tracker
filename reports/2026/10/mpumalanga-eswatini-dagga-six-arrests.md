@@ -1,4 +1,5 @@
 ---
+code: G455G4
 date: 2026-10-23
 country: za
 place: Mahamba and Carolina, Mpumalanga

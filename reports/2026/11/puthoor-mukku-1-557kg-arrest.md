@@ -1,4 +1,5 @@
 ---
+code: N1MA6N
 date: 2026-11-02
 country: in
 place: Puthoor Mukku junction, Puthoor, Kollam

@@ -1,4 +1,5 @@
 ---
+code: SNC7V7
 date: 2026-10-30
 country: in
 place: Yuva Awas More, Digha, Purba Medinipur

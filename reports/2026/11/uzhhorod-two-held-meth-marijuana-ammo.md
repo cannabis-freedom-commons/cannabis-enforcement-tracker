@@ -1,4 +1,5 @@
 ---
+code: YZYNSF
 date: 2026-11-03
 country: ua
 place: Uzhhorod, Zakarpattia Oblast

@@ -1,4 +1,5 @@
 ---
+code: 1QZD2X
 date: 2025-06-26
 country: be
 place: Namur

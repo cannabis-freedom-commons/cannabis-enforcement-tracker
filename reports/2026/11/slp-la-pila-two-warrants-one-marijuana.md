@@ -1,4 +1,5 @@
 ---
+code: RW27QD
 date: 2026-11-02
 country: mx
 place: Centro Estatal de Reinserción Social La Pila, San Luis Potosí

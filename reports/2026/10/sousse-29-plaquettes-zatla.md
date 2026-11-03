@@ -1,4 +1,5 @@
 ---
+code: 2D12WM
 date: 2026-10-18
 country: tn
 place: Sousse

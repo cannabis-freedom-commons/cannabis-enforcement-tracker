@@ -1,4 +1,5 @@
 ---
+code: VWESN4
 date: 2026-10-31
 country: mk
 place: Skopje, Prilep, Demir Kapija, Bogovinje and Štip

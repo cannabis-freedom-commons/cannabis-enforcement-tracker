@@ -1,4 +1,5 @@
 ---
+code: 47KC01
 date: 2026-11-02
 country: pk
 place: Hazara Town, Quetta

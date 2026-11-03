@@ -1,4 +1,5 @@
 ---
+code: X6H8HF
 date: 2026-10-30
 country: in
 place: Ambapada shivar, Shirpur taluka, Dhule district, Maharashtra

@@ -1,4 +1,5 @@
 ---
+code: C8M39K
 date: 2026-05-15
 country: cz
 place: Xaveriova Street, Prague 5, Prague

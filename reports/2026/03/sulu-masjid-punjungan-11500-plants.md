@@ -1,4 +1,5 @@
 ---
+code: 3XPE8Q
 date: 2026-03-03
 country: ph
 place: Barangay Masjid Punjungan, Kalingalan Caluang, Sulu

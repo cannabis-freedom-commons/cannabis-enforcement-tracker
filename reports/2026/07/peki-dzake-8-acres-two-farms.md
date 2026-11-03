@@ -1,4 +1,5 @@
 ---
+code: 68DQXE
 date: 2026-07-16
 country: gh
 place: Peki Dzake forest, South Dayi, Volta Region

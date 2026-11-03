@@ -1,4 +1,5 @@
 ---
+code: SNSYHF
 date: 2026-08-14
 country: fo
 place: Tórshavn

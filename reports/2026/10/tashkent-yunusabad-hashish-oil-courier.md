@@ -1,4 +1,5 @@
 ---
+code: T8V0GY
 date: 2026-10-28
 country: uz
 place: Yunusabad district, Tashkent

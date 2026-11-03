@@ -1,4 +1,5 @@
 ---
+code: 6V41TA
 date: 2026-10-31
 country: pe
 place: San Miguel, Lima, Peru

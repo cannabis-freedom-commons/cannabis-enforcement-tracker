@@ -1,4 +1,5 @@
 ---
+code: YBT6Y5
 date: 2026-10-30
 country: mx
 place: Libramiento Ahuehuepan, Taxco de Alarcón, Guerrero

@@ -1,4 +1,5 @@
 ---
+code: H7HABR
 date: 2026-01-14
 country: us/ny
 place: Wheaton Road, Town of Erin, Chemung County

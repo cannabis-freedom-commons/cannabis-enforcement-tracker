@@ -1,4 +1,5 @@
 ---
+code: YK0H2H
 date: 2026-10-17
 country: pe
 place: Pajonal, Ocros, Ayacucho

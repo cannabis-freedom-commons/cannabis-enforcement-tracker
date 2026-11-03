@@ -1,4 +1,5 @@
 ---
+code: VP2W2C
 date: 2026-05-13
 country: hn
 place: Güiscoyol, Gualaco, Olancho

@@ -1,4 +1,5 @@
 ---
+code: HNAQPN
 date: 2026-10-26
 country: es
 place: La Marina, San Fulgencio, Alicante

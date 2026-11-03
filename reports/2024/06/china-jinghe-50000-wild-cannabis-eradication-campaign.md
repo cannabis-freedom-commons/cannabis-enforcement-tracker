@@ -1,4 +1,5 @@
 ---
+code: 23SW5K
 date: 2024-06-20
 country: cn
 place: Jinghe County, Bortala Mongol Autonomous Prefecture, Xinjiang

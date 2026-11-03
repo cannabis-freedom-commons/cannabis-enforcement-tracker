@@ -1,4 +1,5 @@
 ---
+code: YY4AK6
 date: 2026-10-26
 country: in
 place: Ghumpali, Patnagarh, Balangir, Odisha

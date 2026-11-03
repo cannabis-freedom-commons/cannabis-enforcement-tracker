@@ -1,4 +1,5 @@
 ---
+code: MTPCK5
 date: 2026-10-21
 country: id
 place: Kuala Langsa, Langsa Barat, Langsa, Aceh

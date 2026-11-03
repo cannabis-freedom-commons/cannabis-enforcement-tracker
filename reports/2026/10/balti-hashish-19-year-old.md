@@ -1,4 +1,5 @@
 ---
+code: 2Y0BGQ
 date: 2026-10-30
 country: md
 place: Bălți

@@ -1,4 +1,5 @@
 ---
+code: HAG6JK
 date: 2026-10-31
 country: in
 place: Gaganpahad, Rajendranagar, Hyderabad

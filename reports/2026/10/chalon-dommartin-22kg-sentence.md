@@ -1,4 +1,5 @@
 ---
+code: GK1WCK
 date: 2026-10-22
 country: fr
 place: Dommartin-lès-Cuiseaux, Saône-et-Loire

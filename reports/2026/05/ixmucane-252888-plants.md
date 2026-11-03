@@ -1,4 +1,5 @@
 ---
+code: 7BCW5A
 date: 2026-05-27
 country: gt
 place: Ixmucané, Las Cruces, Petén

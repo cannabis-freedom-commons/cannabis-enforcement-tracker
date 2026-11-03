@@ -1,4 +1,5 @@
 ---
+code: A9GKZ2
 date: 2026-10-26
 country: in
 place: Hariharganj, Palamu, Jharkhand

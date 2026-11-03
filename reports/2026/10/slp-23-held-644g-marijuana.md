@@ -1,4 +1,5 @@
 ---
+code: N1T4GY
 date: 2026-10-31
 country: mx
 place: San Luis Potosí

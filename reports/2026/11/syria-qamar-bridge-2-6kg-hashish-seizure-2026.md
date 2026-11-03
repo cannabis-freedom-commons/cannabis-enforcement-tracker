@@ -1,4 +1,5 @@
 ---
+code: FSHQMN
 date: 2026-11-01
 country: sy
 place: Qamar Bridge border crossing, Wadi Khaled, Akkar

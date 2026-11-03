@@ -1,4 +1,5 @@
 ---
+code: PWCGAK
 date: 2026-10-29
 country: es
 place: Maó (Mahón), Menorca

@@ -1,4 +1,5 @@
 ---
+code: A19KZQ
 date: 2026-10-31
 country: in
 place: Pokhar village, Balkwara, Khargone district, Madhya Pradesh

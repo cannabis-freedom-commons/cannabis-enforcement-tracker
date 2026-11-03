@@ -1,4 +1,5 @@
 ---
+code: J9H1MT
 date: 2026-03-05
 country: mz
 place: Tete, Tete Province

@@ -1,4 +1,5 @@
 ---
+code: AM9BQ2
 date: 2026-09-23
 country: br
 place: Chico Mendes Extractive Reserve, rural Brasiléia, Acre

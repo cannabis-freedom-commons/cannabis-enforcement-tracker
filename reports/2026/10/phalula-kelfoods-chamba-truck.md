@@ -1,4 +1,5 @@
 ---
+code: QS6BAN
 date: 2026-10-23
 country: mw
 place: Phalula, Balaka

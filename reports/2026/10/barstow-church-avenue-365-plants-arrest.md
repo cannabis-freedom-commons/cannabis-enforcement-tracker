@@ -1,4 +1,5 @@
 ---
+code: 5SXKYE
 date: 2026-10-16
 country: us/ca
 place: 27000 block of Church Avenue, Barstow, San Bernardino County

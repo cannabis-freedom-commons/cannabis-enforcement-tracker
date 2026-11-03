@@ -1,4 +1,5 @@
 ---
+code: 1EEFH6
 date: 2026-10-15
 country: lk
 place: Bandaranaike International Airport, Katunayake

@@ -1,4 +1,5 @@
 ---
+code: QVNDY6
 date: 2026-07-06
 country: is
 place: Southwest Iceland

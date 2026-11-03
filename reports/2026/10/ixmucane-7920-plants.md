@@ -1,4 +1,5 @@
 ---
+code: 8QAFNV
 date: 2026-10-03
 country: gt
 place: Cooperativa Ixmucané, Las Cruces, Petén

@@ -1,4 +1,5 @@
 ---
+code: MA6W54
 date: 2026-06-24
 country: cn
 place: Hills near Baiyanghe Kazakh Ethnic Township, Midong District, Urumqi, Xinjiang

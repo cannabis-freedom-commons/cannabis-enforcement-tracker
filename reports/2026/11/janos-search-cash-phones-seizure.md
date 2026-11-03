@@ -1,4 +1,5 @@
 ---
+code: BYGM8V
 date: 2026-11-02
 country: mx
 place: Janos, Chihuahua

@@ -1,4 +1,5 @@
 ---
+code: B4AJX8
 date: 2026-10-10
 country: es
 place: Cita Shopping Centre, Playa del Inglés, Gran Canaria

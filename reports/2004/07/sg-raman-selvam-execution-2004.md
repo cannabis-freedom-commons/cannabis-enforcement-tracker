@@ -1,4 +1,5 @@
 ---
+code: XSMAQY
 date: 2004-07-16
 country: sg
 place: Changi Prison, Singapore

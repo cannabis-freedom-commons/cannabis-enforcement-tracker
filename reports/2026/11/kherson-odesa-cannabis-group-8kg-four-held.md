@@ -1,4 +1,5 @@
 ---
+code: S2RJYH
 date: 2026-11-02
 country: ua
 place: Kherson district, Kherson Oblast

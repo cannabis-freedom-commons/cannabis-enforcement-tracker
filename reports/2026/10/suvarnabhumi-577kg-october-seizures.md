@@ -1,4 +1,5 @@
 ---
+code: ZHDJPT
 date: 2026-10-24
 country: th
 place: Suvarnabhumi Airport, Samut Prakan

@@ -1,4 +1,5 @@
 ---
+code: 70BF10
 date: 2026-10-27
 country: pl
 place: Sierpc, Masovian Voivodeship

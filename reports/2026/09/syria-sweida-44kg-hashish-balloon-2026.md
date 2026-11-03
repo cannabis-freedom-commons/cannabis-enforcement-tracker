@@ -1,4 +1,5 @@
 ---
+code: K86ZZE
 date: 2026-09-07
 country: sy
 place: Countryside of Sweida governorate, Syria

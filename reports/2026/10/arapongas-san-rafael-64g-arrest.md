@@ -1,4 +1,5 @@
 ---
+code: PD6NAX
 date: 2026-10-26
 country: br
 place: Rua Beija-Flor Marrom, Jardim San Rafael, Arapongas

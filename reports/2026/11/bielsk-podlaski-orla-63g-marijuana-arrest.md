@@ -1,4 +1,5 @@
 ---
+code: 90N3AV
 date: 2026-11-02
 country: pl
 place: Marketplace (targowica), Bielsk Podlaski

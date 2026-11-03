@@ -1,4 +1,5 @@
 ---
+code: PM7B2W
 date: 2026-09-11
 country: ru
 place: Simferopol

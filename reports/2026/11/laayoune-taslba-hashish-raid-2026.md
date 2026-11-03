@@ -1,4 +1,5 @@
 ---
+code: GHNFMA
 date: 2026-11-02
 country: ma
 place: Taslba, Boukraa commune, Laayoune

@@ -1,4 +1,5 @@
 ---
+code: ECNXRB
 date: 2026-06-14
 country: cn
 place: Altay Prefecture, Xinjiang

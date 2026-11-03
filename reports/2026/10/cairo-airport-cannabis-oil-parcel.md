@@ -1,4 +1,5 @@
 ---
+code: 6YC20H
 date: 2026-10-10
 country: eg
 place: Cairo International Airport cargo village

@@ -1,4 +1,5 @@
 ---
+code: ZN7N6K
 date: 2026-08-28
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

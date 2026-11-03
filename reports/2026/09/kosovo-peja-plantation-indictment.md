@@ -1,4 +1,5 @@
 ---
+code: 2CZ8BG
 date: 2026-09-30
 country: xk
 place: Kliqinë and Sverkë, Peja municipality

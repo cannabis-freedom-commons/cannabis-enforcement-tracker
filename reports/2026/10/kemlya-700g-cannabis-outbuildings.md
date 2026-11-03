@@ -1,4 +1,5 @@
 ---
+code: BZPR4D
 date: 2026-10-20
 country: ru
 place: Kemlya, Ichalkovsky District, Mordovia

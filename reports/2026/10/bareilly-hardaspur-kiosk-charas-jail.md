@@ -1,4 +1,5 @@
 ---
+code: 9C6XKV
 date: 2026-10-30
 country: in
 place: Hardaspur police outpost, Sirauli, Bareilly, Uttar Pradesh

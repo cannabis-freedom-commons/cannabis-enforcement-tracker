@@ -1,4 +1,5 @@
 ---
+code: CCNJ9P
 date: 2026-03-12
 country: us/ca
 place: Oceanside, California

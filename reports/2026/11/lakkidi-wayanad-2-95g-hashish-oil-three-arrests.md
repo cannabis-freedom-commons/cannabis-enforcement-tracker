@@ -1,4 +1,5 @@
 ---
+code: K46SE0
 date: 2026-11-02
 country: in
 place: Lakkidi, Vythiri, Wayanad

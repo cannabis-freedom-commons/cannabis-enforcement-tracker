@@ -1,4 +1,5 @@
 ---
+code: YG3HGZ
 date: 2018-02-17
 country: tr
 place: Çınar district entrance, Diyarbakır

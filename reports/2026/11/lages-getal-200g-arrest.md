@@ -1,4 +1,5 @@
 ---
+code: GNZW8F
 date: 2026-11-01
 country: br
 place: Rua Independência, Getal, Lages

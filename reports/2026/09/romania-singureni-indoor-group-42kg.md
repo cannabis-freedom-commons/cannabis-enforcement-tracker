@@ -1,4 +1,5 @@
 ---
+code: RGQTTP
 date: 2026-09-08
 country: ro
 place: Singureni, Giurgiu County

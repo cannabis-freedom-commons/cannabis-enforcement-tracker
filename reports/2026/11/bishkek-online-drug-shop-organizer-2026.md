@@ -1,4 +1,5 @@
 ---
+code: 475Q20
 date: 2026-11-03
 country: kg
 place: Bishkek

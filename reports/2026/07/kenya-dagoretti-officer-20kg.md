@@ -1,4 +1,5 @@
 ---
+code: K6XJ16
 date: 2026-07-23
 country: ke
 place: Dagoretti sub-county, Nairobi

@@ -1,4 +1,5 @@
 ---
+code: JV0X59
 date: 2026-10-28
 country: ua
 place: Bila Tserkva district, Kyiv Oblast

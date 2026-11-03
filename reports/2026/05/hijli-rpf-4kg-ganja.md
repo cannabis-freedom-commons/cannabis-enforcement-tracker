@@ -1,4 +1,5 @@
 ---
+code: GQ3GD6
 date: 2026-05-14
 country: in
 place: Hijli Railway Station, Kharagpur, Paschim Medinipur, West Bengal

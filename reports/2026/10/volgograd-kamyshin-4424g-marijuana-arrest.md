@@ -1,4 +1,5 @@
 ---
+code: D2S5SF
 date: 2026-10-19
 country: ru
 place: Kamyshin district, Volgograd Oblast

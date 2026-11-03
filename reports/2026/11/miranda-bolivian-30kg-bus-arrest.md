@@ -1,4 +1,5 @@
 ---
+code: ENFRC7
 date: 2026-11-01
 country: br
 place: Miranda, Mato Grosso do Sul

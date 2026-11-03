@@ -1,4 +1,5 @@
 ---
+code: QDJ934
 date: 2026-07-16
 country: ru
 place: Mondelevo, Gatchina district, Leningrad Oblast

@@ -1,4 +1,5 @@
 ---
+code: KZN9F4
 date: 2026-11-02
 country: jp
 place: Kochi City, Kochi

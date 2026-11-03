@@ -1,4 +1,5 @@
 ---
+code: HWAFZN
 date: 2026-10-26
 country: us/in
 place: Springville MiniMart, Springville, Lawrence County, Indiana

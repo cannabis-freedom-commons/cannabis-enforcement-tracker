@@ -6,6 +6,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execSync } from "node:child_process";
+import { codeOf } from "../src/lib/code.js";
 
 const N = Number(process.argv[2] || 5000);
 const root = ".cache/load-test", dir = path.join(root, "reports"), out = path.join(root, "dist");
@@ -23,6 +24,7 @@ for (let i = 0; i < N; i++) {
   fs.mkdirSync(d, { recursive: true });
   const coords = rnd() < 0.7 ? `coordinates: [${(rnd() * 120 - 50).toFixed(2)}, ${(rnd() * 340 - 170).toFixed(2)}]\nprecision: district\n` : "";
   fs.writeFileSync(path.join(d, `test-${i}.md`), `---
+code: "${codeOf(`test-${i}`)}"
 date: ${date}
 country: ${c.id}
 place: Test place ${i}

@@ -1,4 +1,5 @@
 ---
+code: VZ6J3X
 date: 2026-09-24
 country: ca/ab
 place: Calgary and Airdrie, Alberta

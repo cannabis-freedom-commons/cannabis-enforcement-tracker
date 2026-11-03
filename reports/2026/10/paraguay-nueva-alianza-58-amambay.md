@@ -1,4 +1,5 @@
 ---
+code: DY9BM2
 date: 2026-10-23
 country: py
 place: Amambay (Pedro Juan Caballero and Capitán Bado districts)

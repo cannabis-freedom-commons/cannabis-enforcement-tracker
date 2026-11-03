@@ -1,4 +1,5 @@
 ---
+code: J013XJ
 date: 2026-10-01
 country: fr
 place: Saint-Lary-Soulan, Hautes-Pyrénées

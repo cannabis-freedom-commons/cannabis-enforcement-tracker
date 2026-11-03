@@ -1,4 +1,5 @@
 ---
+code: BEBY8Y
 date: 2026-10-29
 country: fj
 place: Vesivuru, Lea and Nawi, Tukavesi, Northern Division

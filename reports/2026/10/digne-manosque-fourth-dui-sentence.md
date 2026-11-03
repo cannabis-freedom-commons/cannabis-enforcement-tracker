@@ -1,4 +1,5 @@
 ---
+code: PSJQKV
 date: 2026-10-12
 country: fr
 place: Les Mées, Alpes-de-Haute-Provence

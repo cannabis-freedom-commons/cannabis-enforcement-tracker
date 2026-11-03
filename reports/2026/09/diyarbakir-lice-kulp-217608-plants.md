@@ -1,4 +1,5 @@
 ---
+code: JBE8XY
 date: 2026-09-21
 country: tr
 place: Lice and Kulp, Diyarbakır

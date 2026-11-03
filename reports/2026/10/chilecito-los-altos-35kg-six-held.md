@@ -1,4 +1,5 @@
 ---
+code: 0B8FSG
 date: 2026-10-21
 country: ar
 place: barrio Los Altos, Chilecito, La Rioja

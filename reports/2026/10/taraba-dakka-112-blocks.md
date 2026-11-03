@@ -1,4 +1,5 @@
 ---
+code: W42XAF
 date: 2026-10-23
 country: ng
 place: Dakka village, Bali, Taraba State

@@ -1,4 +1,5 @@
 ---
+code: SZV8EM
 date: 2026-10-26
 country: np
 place: Pacharauta-6, Bara

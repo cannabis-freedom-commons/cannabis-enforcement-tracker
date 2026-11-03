@@ -1,4 +1,5 @@
 ---
+code: 2PFNY6
 date: 2026-11-01
 country: id
 place: Desa Pulo, Mukim Lamteuba, Seulimeum, Aceh Besar

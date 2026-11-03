@@ -1,4 +1,5 @@
 ---
+code: AFNKPF
 date: 2025-05-22
 country: gg
 place: Ridgeway Vinery, Pointes Lane, St Andrew's, Guernsey

@@ -1,4 +1,5 @@
 ---
+code: A1J1DG
 date: 2026-11-03
 country: ru
 place: Zakamensky district, Buryatia

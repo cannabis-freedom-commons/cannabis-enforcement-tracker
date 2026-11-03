@@ -1,4 +1,5 @@
 ---
+code: 1ZXC69
 date: 2026-10-30
 country: in
 place: Ibrahimpur village, Gyanpur, Bhadohi district, Uttar Pradesh

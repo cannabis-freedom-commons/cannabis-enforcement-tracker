@@ -1,4 +1,5 @@
 ---
+code: KG1DSY
 date: 2026-10-28
 country: br
 place: rural Alagoinha, Agreste, Pernambuco

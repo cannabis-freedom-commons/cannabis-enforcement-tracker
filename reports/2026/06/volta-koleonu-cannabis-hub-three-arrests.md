@@ -1,4 +1,5 @@
 ---
+code: JDD3JZ
 date: 2026-06-22
 country: gh
 place: Koleonu, Wegbe and Akplamafu, Volta Region

@@ -1,4 +1,5 @@
 ---
+code: VJ023N
 date: 2026-07-16
 country: us/ny
 place: Saratoga County, New York (I-87 Northway)

@@ -1,4 +1,5 @@
 ---
+code: KJZ9ZM
 date: 2026-06-12
 country: az
 place: Hanifa village, Balakan District

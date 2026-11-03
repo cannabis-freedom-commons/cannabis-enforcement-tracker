@@ -1,4 +1,5 @@
 ---
+code: NMAXKG
 date: 2026-10-27
 country: ru
 place: House on Yegora Sazonova Street, Ufa

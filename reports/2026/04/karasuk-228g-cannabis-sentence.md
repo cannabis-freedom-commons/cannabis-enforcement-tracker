@@ -1,4 +1,5 @@
 ---
+code: AMDGMP
 date: 2026-04-14
 country: ru
 place: Karasuk, Novosibirsk Oblast

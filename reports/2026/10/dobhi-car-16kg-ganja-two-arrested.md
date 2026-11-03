@@ -1,4 +1,5 @@
 ---
+code: S44VMK
 date: 2026-10-30
 country: in
 place: Bahera police station gate, Dobhi–Chatra road (NH-22), Dobhi, Gaya district, Bihar

@@ -1,4 +1,5 @@
 ---
+code: 8NTGF7
 date: 2026-10-07
 country: bo
 place: La Angostura–Samaipata road, Santa Cruz

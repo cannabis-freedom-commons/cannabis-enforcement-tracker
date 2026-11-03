@@ -1,4 +1,5 @@
 ---
+code: 6P0MKQ
 date: 2026-10-29
 country: es
 place: Plaça de Ramon Muntaner, Vila-seca

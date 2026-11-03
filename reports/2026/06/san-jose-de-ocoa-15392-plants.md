@@ -1,4 +1,5 @@
 ---
+code: 0W7WXE
 date: 2026-06-21
 country: do
 place: El Pinar municipal district, San José de Ocoa province, Dominican Republic

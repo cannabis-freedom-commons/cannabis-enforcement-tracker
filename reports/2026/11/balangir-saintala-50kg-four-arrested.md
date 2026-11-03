@@ -1,4 +1,5 @@
 ---
+code: NP91AQ
 date: 2026-11-02
 country: in
 place: Saintala, Balangir, Odisha

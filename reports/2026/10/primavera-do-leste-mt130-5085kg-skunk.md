@@ -1,4 +1,5 @@
 ---
+code: HA8D5X
 date: 2026-10-30
 country: br
 place: Primavera do Leste, Mato Grosso

@@ -1,4 +1,5 @@
 ---
+code: V3VQQT
 date: 2026-06-23
 country: sa
 place: Asir region, Saudi Arabia

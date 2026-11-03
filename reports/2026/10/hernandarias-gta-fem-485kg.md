@@ -1,4 +1,5 @@
 ---
+code: X5TNVH
 date: 2026-10-02
 country: py
 place: Barrio Caacupemí, Hernandarias, Alto Paraná

@@ -1,4 +1,5 @@
 ---
+code: 3NPXDM
 date: 2026-11-01
 country: id
 place: Kampung Bahari, Tanjung Priok, North Jakarta

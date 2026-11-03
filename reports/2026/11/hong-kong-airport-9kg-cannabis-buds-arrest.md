@@ -1,4 +1,5 @@
 ---
+code: 076KGT
 date: 2026-11-01
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

@@ -1,4 +1,5 @@
 ---
+code: 51MVT4
 date: 2026-10-30
 country: in
 place: Tunuhatti, Chamba district, Himachal Pradesh

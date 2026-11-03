@@ -1,4 +1,5 @@
 ---
+code: R1BMA2
 date: 2026-10-28
 country: es
 place: Las Delicias, Valladolid

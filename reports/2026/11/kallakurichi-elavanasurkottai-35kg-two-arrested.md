@@ -1,4 +1,5 @@
 ---
+code: 56A5K5
 date: 2026-11-01
 country: in
 place: Elavanasurkottai, near Ulundurpet, Kallakurichi district, Tamil Nadu

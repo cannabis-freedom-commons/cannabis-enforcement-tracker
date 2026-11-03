@@ -1,4 +1,5 @@
 ---
+code: 05Y9HZ
 date: 2026-10-30
 country: in
 place: Anantnag district, Jammu and Kashmir

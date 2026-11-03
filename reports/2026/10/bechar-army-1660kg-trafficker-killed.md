@@ -1,4 +1,5 @@
 ---
+code: NWC4T3
 date: 2026-10-02
 country: dz
 place: 3rd Military Region, Béchar

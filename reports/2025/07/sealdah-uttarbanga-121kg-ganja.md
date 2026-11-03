@@ -1,4 +1,5 @@
 ---
+code: 6Y3EQA
 date: 2025-07-26
 country: in
 place: Sealdah railway station, Kolkata, West Bengal

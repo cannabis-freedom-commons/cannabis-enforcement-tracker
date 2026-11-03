@@ -1,4 +1,5 @@
 ---
+code: C2R4RZ
 date: 2026-10-14
 country: us/co
 place: Colorado Springs and El Paso County, Colorado

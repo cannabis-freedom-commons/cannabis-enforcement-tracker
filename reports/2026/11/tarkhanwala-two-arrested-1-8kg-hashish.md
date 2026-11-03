@@ -1,4 +1,5 @@
 ---
+code: AP8215
 date: 2026-11-01
 country: pk
 place: Tarkhanwala, Sargodha District, Punjab

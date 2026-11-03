@@ -1,4 +1,5 @@
 ---
+code: A66MX4
 date: 2026-04-10
 country: ru
 place: Saransk, Mordovia

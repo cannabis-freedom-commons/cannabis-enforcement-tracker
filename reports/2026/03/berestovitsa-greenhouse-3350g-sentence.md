@@ -1,4 +1,5 @@
 ---
+code: EW7BY4
 date: 2026-03-06
 country: by
 place: Berestovitsa District, Grodno Region

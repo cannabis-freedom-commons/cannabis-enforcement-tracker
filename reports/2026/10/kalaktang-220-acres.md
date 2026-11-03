@@ -1,4 +1,5 @@
 ---
+code: A08EF6
 date: 2026-10-27
 country: in
 place: Kalaktang subdivision, West Kameng, Arunachal Pradesh

@@ -1,4 +1,5 @@
 ---
+code: G2KBF7
 date: 2026-01-28
 country: fr
 place: Brest, Finistère

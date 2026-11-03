@@ -1,4 +1,5 @@
 ---
+code: 83DS4P
 date: 2026-01-26
 country: cz
 place: Slaný, Kladno District, Central Bohemian Region

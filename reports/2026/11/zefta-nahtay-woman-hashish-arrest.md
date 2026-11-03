@@ -1,4 +1,5 @@
 ---
+code: JFPW6X
 date: 2026-11-01
 country: eg
 place: Nahtay village, Zefta, Gharbia Governorate

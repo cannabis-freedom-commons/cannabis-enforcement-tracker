@@ -1,4 +1,5 @@
 ---
+code: A368NJ
 date: 2026-01-03
 country: in
 place: North and South Kalamchoura, Anandapur and Ghatigarh, Sepahijala

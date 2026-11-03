@@ -1,4 +1,5 @@
 ---
+code: TYTRNW
 date: 2026-10-31
 country: br
 place: Avenida Doutor José Ferreira Azambuja, Vila Nova, São Carlos, São Paulo

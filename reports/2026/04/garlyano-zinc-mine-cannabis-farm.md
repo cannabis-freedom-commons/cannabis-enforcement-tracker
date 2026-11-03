@@ -1,4 +1,5 @@
 ---
+code: 1ZBJ3G
 date: 2026-04-29
 country: bg
 place: Garlyano, Kyustendil

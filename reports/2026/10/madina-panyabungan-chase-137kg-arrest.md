@@ -1,4 +1,5 @@
 ---
+code: HMJ6ZN
 date: 2026-10-26
 country: id
 place: Pidoli Lombang, Panyabungan, Mandailing Natal

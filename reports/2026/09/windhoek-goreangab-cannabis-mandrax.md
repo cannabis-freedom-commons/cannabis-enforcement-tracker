@@ -1,4 +1,5 @@
 ---
+code: TYEDYJ
 date: 2026-09-13
 country: na
 place: Goreangab, Windhoek

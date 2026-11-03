@@ -1,4 +1,5 @@
 ---
+code: SXAWCF
 date: 2026-11-01
 country: bd
 place: Rankin Street, Wari, Dhaka

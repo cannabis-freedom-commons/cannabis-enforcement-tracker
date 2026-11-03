@@ -1,4 +1,5 @@
 ---
+code: FV8E0V
 date: 2026-10-29
 country: eg
 place: Al-Habil, Al-Bayadiya, Luxor

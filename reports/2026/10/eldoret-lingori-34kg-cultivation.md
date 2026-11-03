@@ -1,4 +1,5 @@
 ---
+code: BEJCE8
 date: 2026-10-21
 country: ke
 place: Malel, Kapseret, Uasin Gishu County

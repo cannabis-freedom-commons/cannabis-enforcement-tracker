@@ -1,4 +1,5 @@
 ---
+code: HM6TAH
 date: 2026-04-14
 country: cz
 place: Vícov, Prostějov District

@@ -1,4 +1,5 @@
 ---
+code: 622DHJ
 date: 2026-07-17
 country: py
 place: Cerro Corá district, Amambay

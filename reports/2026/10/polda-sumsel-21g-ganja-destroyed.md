@@ -1,4 +1,5 @@
 ---
+code: 5WA1P1
 date: 2026-10-30
 country: id
 place: Palembang, South Sumatra

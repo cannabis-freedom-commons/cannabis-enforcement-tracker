@@ -1,4 +1,5 @@
 ---
+code: 5YM0HA
 date: 2026-10-31
 country: tr
 place: Mordoğan Mahallesi, Karaburun, İzmir

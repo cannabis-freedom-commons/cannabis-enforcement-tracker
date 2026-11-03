@@ -1,4 +1,5 @@
 ---
+code: K6QWXF
 date: 2026-10-29
 country: py
 place: Aeropuerto Internacional Silvio Pettirossi, Luque, Central

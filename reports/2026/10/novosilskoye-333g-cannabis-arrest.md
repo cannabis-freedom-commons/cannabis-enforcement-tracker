@@ -1,4 +1,5 @@
 ---
+code: 7Z12PA
 date: 2026-10-30
 country: ru
 place: Novosilskoye, Terbunsky municipal okrug, Lipetsk Oblast

@@ -1,4 +1,5 @@
 ---
+code: RW6X32
 date: 2026-10-13
 country: pl
 place: Jelenia Góra

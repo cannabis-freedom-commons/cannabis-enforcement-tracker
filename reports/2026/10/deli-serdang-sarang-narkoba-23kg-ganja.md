@@ -1,4 +1,5 @@
 ---
+code: V8N4MP
 date: 2026-10-30
 country: id
 place: Deli Serdang Regency, North Sumatra

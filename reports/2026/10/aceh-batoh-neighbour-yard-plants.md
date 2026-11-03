@@ -1,4 +1,5 @@
 ---
+code: Y2SK0M
 date: 2026-10-26
 country: id
 place: Gampong Batoh, Lueng Bata, Banda Aceh

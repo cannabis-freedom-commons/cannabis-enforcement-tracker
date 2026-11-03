@@ -1,4 +1,5 @@
 ---
+code: V6SAPV
 date: 2026-10-28
 country: es
 place: La Soledat, Palma

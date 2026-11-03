@@ -1,4 +1,5 @@
 ---
+code: 5Z7KA7
 date: 2026-09-25
 country: us/nm
 place: 102 Howell Road, Estancia, Torrance County, New Mexico

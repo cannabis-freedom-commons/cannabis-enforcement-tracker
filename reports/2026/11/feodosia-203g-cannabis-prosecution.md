@@ -1,4 +1,5 @@
 ---
+code: AE8EBG
 date: 2026-11-02
 country: ru
 place: Feodosia, Crimea

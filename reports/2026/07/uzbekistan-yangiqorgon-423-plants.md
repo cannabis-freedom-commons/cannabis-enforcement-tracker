@@ -1,4 +1,5 @@
 ---
+code: KVXPBV
 date: 2026-07-24
 country: uz
 place: Yangiqorgon district, Namangan region

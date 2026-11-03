@@ -1,4 +1,5 @@
 ---
+code: 0JKGFJ
 date: 2004-09-09
 country: ca/bc
 place: Commercial Drive, Vancouver

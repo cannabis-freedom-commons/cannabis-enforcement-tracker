@@ -1,4 +1,5 @@
 ---
+code: XHSSFW
 date: 2026-10-30
 country: us/ca
 place: Arcata, Humboldt County, California

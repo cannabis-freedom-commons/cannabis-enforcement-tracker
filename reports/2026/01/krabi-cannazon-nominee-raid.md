@@ -1,4 +1,5 @@
 ---
+code: HN420Q
 date: 2026-01-21
 country: th
 place: Sai Thai, Mueang Krabi

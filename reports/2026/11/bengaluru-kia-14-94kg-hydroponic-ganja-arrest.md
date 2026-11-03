@@ -1,4 +1,5 @@
 ---
+code: GWD34R
 date: 2026-11-01
 country: in
 place: Kempegowda International Airport, Bengaluru

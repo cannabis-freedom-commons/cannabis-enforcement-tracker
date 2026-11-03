@@ -1,4 +1,5 @@
 ---
+code: AYVFGP
 date: 2026-09-30
 country: ec
 place: Santa Martha de Cuba, Carchi

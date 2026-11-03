@@ -1,4 +1,5 @@
 ---
+code: 4H50QM
 date: 2026-07-16
 country: kg
 place: Jumgal District, Naryn Region, Kyrgyzstan

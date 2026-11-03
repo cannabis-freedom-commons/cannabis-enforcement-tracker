@@ -1,4 +1,5 @@
 ---
+code: NQE456
 date: 2026-11-02
 country: fr
 place: Carpentras, Vaucluse

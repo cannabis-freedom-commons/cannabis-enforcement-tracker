@@ -1,4 +1,5 @@
 ---
+code: FPX96W
 date: 2026-10-31
 country: bg
 place: Grashevo, Velingrad municipality, Pazardzhik

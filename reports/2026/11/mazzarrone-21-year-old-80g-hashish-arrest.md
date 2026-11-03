@@ -1,4 +1,5 @@
 ---
+code: 7ZY1A7
 date: 2026-11-01
 country: it
 place: Via Botteghelle, Mazzarrone

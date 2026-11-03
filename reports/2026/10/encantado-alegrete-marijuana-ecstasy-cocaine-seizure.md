@@ -1,4 +1,5 @@
 ---
+code: DK7CWV
 date: 2026-10-31
 country: br
 place: Estrada do Alegrete, Encantado, Rio Grande do Sul

@@ -1,4 +1,5 @@
 ---
+code: 4FYM4T
 date: 2026-10-22
 country: zm
 place: Kazungula border with operations in Lusaka and Mpika

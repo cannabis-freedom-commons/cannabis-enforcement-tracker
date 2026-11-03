@@ -1,4 +1,5 @@
 ---
+code: FTV6H2
 date: 2026-11-02
 country: to
 place: Popua, Nuku'alofa

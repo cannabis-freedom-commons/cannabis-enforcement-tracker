@@ -1,4 +1,5 @@
 ---
+code: WV5RTR
 date: 2026-11-02
 country: bd
 place: Footpath in front of West Kawran Bazar, Tejgaon, Dhaka

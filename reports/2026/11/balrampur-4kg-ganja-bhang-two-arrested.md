@@ -1,4 +1,5 @@
 ---
+code: 472VF7
 date: 2026-11-01
 country: in
 place: Balrampur, Uttar Pradesh

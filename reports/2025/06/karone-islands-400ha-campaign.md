@@ -1,4 +1,5 @@
 ---
+code: 7PXVKV
 date: 2025-06-25
 country: sn
 place: Karone Islands, Ziguinchor

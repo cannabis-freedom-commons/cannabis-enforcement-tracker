@@ -1,4 +1,5 @@
 ---
+code: HFB9W0
 date: 2026-10-15
 country: in
 place: Duttalur village, Nellore

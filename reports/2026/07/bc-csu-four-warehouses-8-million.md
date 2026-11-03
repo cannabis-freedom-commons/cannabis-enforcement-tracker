@@ -1,4 +1,5 @@
 ---
+code: P1NF79
 date: 2026-07-15
 country: ca/bc
 place: Richmond, Vancouver and Vernon, British Columbia

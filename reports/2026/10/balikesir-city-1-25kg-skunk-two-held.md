@@ -1,4 +1,5 @@
 ---
+code: R4439D
 date: 2026-10-30
 country: tr
 place: Balıkesir city centre, Balıkesir

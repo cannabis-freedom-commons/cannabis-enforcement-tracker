@@ -1,4 +1,5 @@
 ---
+code: NYMAZ1
 date: 2026-11-02
 country: it
 place: Bussoleno, Val di Susa, Piedmont

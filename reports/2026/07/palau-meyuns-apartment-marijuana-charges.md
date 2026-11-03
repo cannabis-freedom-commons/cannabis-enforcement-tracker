@@ -1,4 +1,5 @@
 ---
+code: JA8KYG
 date: 2026-07-29
 country: pw
 place: Meyuns, Koror

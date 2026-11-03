@@ -1,4 +1,5 @@
 ---
+code: P0M6B7
 date: "2014-03-20"
 country: bz
 type: eradication

@@ -1,4 +1,5 @@
 ---
+code: TZNB3N
 date: 2026-08-03
 country: cn
 place: Qiblagh, Tacheng Prefecture, Xinjiang

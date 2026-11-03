@@ -42,6 +42,8 @@ func TestCheckReportNamesWhatIsWrong(t *testing.T) {
 		change     func(string) string
 		path, want string
 	}{
+		{func(s string) string { return strings.Replace(s, "code: MZ48CH\n", "", 1) }, "", "code"},
+		{func(s string) string { return strings.Replace(s, "code: MZ48CH", "code: 123456", 1) }, "", "code"},
 		{func(s string) string { return strings.Replace(s, "country: th", "country: atlantis", 1) }, "", "country"},
 		{func(s string) string { return strings.Replace(s, "type: raid", "type: picnic", 1) }, "", "type"},
 		{func(s string) string {

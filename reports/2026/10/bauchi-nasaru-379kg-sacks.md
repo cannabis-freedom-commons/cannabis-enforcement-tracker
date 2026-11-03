@@ -1,4 +1,5 @@
 ---
+code: AGXNSB
 date: 2026-10-21
 country: ng
 place: Nasaru Town, Ningi, Bauchi State

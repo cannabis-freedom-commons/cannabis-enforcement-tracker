@@ -1,4 +1,5 @@
 ---
+code: 2JE4EA
 date: 2026-10-28
 country: fr
 place: Mulhouse, Haut-Rhin

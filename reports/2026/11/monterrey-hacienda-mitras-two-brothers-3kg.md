@@ -1,4 +1,5 @@
 ---
+code: 0MFKNN
 date: 2026-11-01
 country: mx
 place: Calle San Sebastián, Colonia Hacienda Mitras, Monterrey

@@ -1,4 +1,5 @@
 ---
+code: CM0MRF
 date: 2026-03-24
 country: au
 place: Hunterview, near Singleton, Hunter Valley, New South Wales

@@ -1,4 +1,5 @@
 ---
+code: 0JV0GP
 date: 2026-10-30
 country: ru
 place: Yakutsk

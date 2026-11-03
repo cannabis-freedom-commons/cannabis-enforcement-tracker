@@ -1,4 +1,5 @@
 ---
+code: BSBH5M
 date: 2026-10-21
 country: gt
 place: Puesto de Control Interinstitucional, km 185.3, Nuevo San Carlos, Retalhuleu

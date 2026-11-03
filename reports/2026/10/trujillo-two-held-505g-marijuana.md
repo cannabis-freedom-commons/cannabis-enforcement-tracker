@@ -1,4 +1,5 @@
 ---
+code: H0816G
 date: 2026-10-30
 country: pe
 place: Trujillo

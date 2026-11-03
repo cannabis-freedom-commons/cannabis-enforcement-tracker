@@ -1,4 +1,5 @@
 ---
+code: RNVRYV
 date: 2026-10-08
 country: ma
 place: Tangier, Morocco

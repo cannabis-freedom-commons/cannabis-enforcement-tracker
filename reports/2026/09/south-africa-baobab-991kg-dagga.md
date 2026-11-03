@@ -1,4 +1,5 @@
 ---
+code: 5Y93RH
 date: 2026-09-18
 country: za
 place: Baobab Toll Plaza, N1 near Musina, Limpopo

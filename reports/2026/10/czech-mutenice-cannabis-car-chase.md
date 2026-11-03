@@ -1,4 +1,5 @@
 ---
+code: NAX19V
 date: 2026-10-24
 country: cz
 place: Mutěnice, Hodonín District, South Moravian Region

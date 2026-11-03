@@ -1,4 +1,5 @@
 ---
+code: H6T9P1
 date: 2025-12-12
 country: bg
 place: Malko Tarnovo checkpoint, Bulgaria–Turkey border

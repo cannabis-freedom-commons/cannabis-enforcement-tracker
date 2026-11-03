@@ -1,4 +1,5 @@
 ---
+code: NYYFXN
 date: 2026-11-01
 country: in
 place: Canal culvert on Shyamkalan-Dhigawa road, Charkhi Dadri, Haryana

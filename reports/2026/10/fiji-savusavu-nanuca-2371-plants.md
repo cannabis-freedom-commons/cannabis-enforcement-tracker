@@ -1,4 +1,5 @@
 ---
+code: GH8DDZ
 date: 2026-10-19
 country: fj
 place: Nanuca, Savusavu

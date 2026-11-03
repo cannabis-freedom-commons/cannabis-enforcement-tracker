@@ -1,4 +1,5 @@
 ---
+code: 8AXJBJ
 date: 2026-10-16
 country: ke
 place: Busia, Homa Bay, Kitui, Murang'a and Wajir counties

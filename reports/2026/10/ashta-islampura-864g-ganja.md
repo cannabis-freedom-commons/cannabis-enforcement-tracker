@@ -1,4 +1,5 @@
 ---
+code: 7TQZSV
 date: 2026-10-31
 country: in
 place: Islampura, Ashta, Sehore district, Madhya Pradesh

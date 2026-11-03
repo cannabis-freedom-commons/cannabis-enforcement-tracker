@@ -1,4 +1,5 @@
 ---
+code: HMTC8P
 date: 2025-11-30
 country: ke
 place: Makutano area, Kikuyu, Kiambu

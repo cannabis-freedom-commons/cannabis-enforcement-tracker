@@ -1,4 +1,5 @@
 ---
+code: KJ4FK3
 date: 2026-11-01
 country: in
 place: Washere shivar, Akole taluka, Ahilyanagar district, Maharashtra

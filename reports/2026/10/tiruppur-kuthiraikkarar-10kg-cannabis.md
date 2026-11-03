@@ -1,4 +1,5 @@
 ---
+code: C10ZV3
 date: 2026-10-31
 country: in
 place: Kuthiraikkarar Thottam, Tiruppur, Tamil Nadu

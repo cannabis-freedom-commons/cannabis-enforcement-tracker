@@ -1,4 +1,5 @@
 ---
+code: R80CXW
 date: 2026-05-21
 country: cn
 place: Dacheng neighbourhood, Urumqi High-tech Zone, Xinjiang

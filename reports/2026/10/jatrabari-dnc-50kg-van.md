@@ -1,4 +1,5 @@
 ---
+code: SJD892
 date: 2026-10-10
 country: bd
 place: Jatrabari, Dhaka

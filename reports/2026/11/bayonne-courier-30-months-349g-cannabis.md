@@ -1,4 +1,5 @@
 ---
+code: AWNGJT
 date: 2026-11-02
 country: fr
 place: Bayonne, Pyrénées-Atlantiques

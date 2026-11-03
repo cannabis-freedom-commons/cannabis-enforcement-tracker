@@ -1,4 +1,5 @@
 ---
+code: ZCDKXT
 date: 2026-07-02
 country: mw
 place: Chisembe Village, Chitipa District

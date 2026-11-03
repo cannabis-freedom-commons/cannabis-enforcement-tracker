@@ -1,4 +1,5 @@
 ---
+code: YHGAPF
 date: 2026-10-06
 country: us/ca
 place: unincorporated part of Covina, Los Angeles County

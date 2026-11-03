@@ -1,4 +1,5 @@
 ---
+code: 69N05W
 date: 2026-07-24
 country: ba
 place: Ilidža, Sarajevo

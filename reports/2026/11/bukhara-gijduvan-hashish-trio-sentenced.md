@@ -1,4 +1,5 @@
 ---
+code: 8GTVNH
 date: 2026-11-03
 country: uz
 place: Gijduvan district, Bukhara region

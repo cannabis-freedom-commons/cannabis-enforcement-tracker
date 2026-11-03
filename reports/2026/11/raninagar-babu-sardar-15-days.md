@@ -1,4 +1,5 @@
 ---
+code: 82VDPF
 date: 2026-11-02
 country: bd
 place: Madhyarajapur village, Raninagar, Naogaon

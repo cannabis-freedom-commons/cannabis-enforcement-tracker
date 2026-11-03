@@ -1,4 +1,5 @@
 ---
+code: 31540E
 date: 2026-10-31
 country: mx
 place: Altos del Miramar, Acapulco, Guerrero

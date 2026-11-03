@@ -1,4 +1,5 @@
 ---
+code: 0PM5YD
 date: 2026-11-02
 country: dz
 place: Khemis El Khechna, Boumerdès

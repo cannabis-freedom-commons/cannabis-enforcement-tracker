@@ -1,4 +1,5 @@
 ---
+code: KMEZEK
 date: 2026-11-02
 country: bd
 place: Gobindakati village, Dhalbaria union, Kaliganj, Satkhira

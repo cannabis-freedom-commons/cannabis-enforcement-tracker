@@ -1,4 +1,5 @@
 ---
+code: XZ538Q
 date: 2026-10-02
 country: ph
 place: Urdaneta City, Pangasinan

@@ -1,4 +1,5 @@
 ---
+code: Z0WQ18
 date: 2026-10-28
 country: za
 place: N12 road near Christiana, North West

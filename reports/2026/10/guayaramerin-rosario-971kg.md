@@ -1,4 +1,5 @@
 ---
+code: 8W58R7
 date: 2026-10-20
 country: bo
 place: near Rosario, Guayaramerín–Cachuela Esperanza road, Beni

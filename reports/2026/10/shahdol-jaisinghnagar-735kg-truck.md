@@ -1,4 +1,5 @@
 ---
+code: V6NC5X
 date: 2026-10-26
 country: in
 place: Jaisinghnagar, Shahdol, Madhya Pradesh

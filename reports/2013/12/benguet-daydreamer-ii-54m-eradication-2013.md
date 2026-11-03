@@ -1,4 +1,5 @@
 ---
+code: RCK9PF
 date: 2013-12-15
 country: ph
 place: Kibungan, Bakun and Kapangan, Benguet, Cordillera

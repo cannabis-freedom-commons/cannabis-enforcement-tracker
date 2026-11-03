@@ -1,4 +1,5 @@
 ---
+code: 8X5B0Z
 date: 2026-05-13
 country: cn
 place: Dunmaili Subdistrict, Yining City, Ili Kazakh Autonomous Prefecture, Xinjiang

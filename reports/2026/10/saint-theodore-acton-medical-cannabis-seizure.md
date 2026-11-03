@@ -1,4 +1,5 @@
 ---
+code: D0F3EZ
 date: 2026-10-28
 country: ca
 place: Saint-Théodore-d'Acton, MRC d'Acton, Quebec

@@ -1,4 +1,5 @@
 ---
+code: TZP1YY
 date: 2026-10-29
 country: id
 place: Arga Makmur, Bengkulu

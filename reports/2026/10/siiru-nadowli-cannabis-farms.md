@@ -1,4 +1,5 @@
 ---
+code: BATVPN
 date: 2026-10-31
 country: gh
 place: Siiru, Nadowli District, Upper West Region

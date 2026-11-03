@@ -1,4 +1,5 @@
 ---
+code: E8Y5CS
 date: 2026-10-28
 country: in
 place: Chikhali bridge, Kalamna, Nagpur, Maharashtra

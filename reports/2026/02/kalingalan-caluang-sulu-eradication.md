@@ -1,4 +1,5 @@
 ---
+code: 0GQVP6
 date: 2026-02-12
 country: ph
 place: Masjid Punjungan and Pitogo, Kalingalan Caluang, Sulu

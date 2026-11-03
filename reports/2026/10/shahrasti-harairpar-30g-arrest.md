@@ -1,4 +1,5 @@
 ---
+code: QTGTHE
 date: 2026-10-31
 country: bd
 place: Harairpar Chowkidar Bari, Suchipara Uttar Union, Shahrasti, Chandpur

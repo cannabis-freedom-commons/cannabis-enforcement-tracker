@@ -1,4 +1,5 @@
 ---
+code: VPJ1B2
 date: 2026-10-05
 country: ng
 place: Grang, Zah, Michika LGA, Adamawa State

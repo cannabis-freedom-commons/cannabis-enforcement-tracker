@@ -1,4 +1,5 @@
 ---
+code: DXQ5NN
 date: 2023-08-08
 country: lv
 place: Kurzeme, Latvia

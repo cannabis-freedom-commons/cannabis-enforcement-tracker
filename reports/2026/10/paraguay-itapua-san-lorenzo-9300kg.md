@@ -1,4 +1,5 @@
 ---
+code: 5QJG86
 date: 2026-10-31
 country: py
 place: San Lorenzo, San Pedro del Paraná, Itapúa

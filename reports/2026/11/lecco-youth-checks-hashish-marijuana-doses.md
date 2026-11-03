@@ -1,4 +1,5 @@
 ---
+code: WRNYSG
 date: 2026-11-02
 country: it
 place: Lecco, Lombardy

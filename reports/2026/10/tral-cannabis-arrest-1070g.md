@@ -1,4 +1,5 @@
 ---
+code: P0RM9H
 date: 2026-10-31
 country: in
 place: Tral-Awantipora road near Fiza Point, Tral

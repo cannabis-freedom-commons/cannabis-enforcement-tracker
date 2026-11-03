@@ -1,4 +1,5 @@
 ---
+code: 6M0NP2
 date: 2026-08-27
 country: id
 place: Kampung Pipukmo, Hubikosi, Jayawijaya, Papua Pegunungan

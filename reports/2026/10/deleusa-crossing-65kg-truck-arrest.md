@@ -1,4 +1,5 @@
 ---
+code: V1R2VH
 date: 2026-10-07
 country: me
 place: Vraćenovići–Deleuša border crossing

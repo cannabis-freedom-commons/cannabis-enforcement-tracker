@@ -1,4 +1,5 @@
 ---
+code: "924788"
 date: 2026-05-29
 country: tz
 place: Kivule, Ilala District, Dar es Salaam

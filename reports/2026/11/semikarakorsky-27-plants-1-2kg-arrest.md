@@ -1,4 +1,5 @@
 ---
+code: G42GVP
 date: 2026-11-02
 country: ru
 place: Semikarakorsky district, Rostov Oblast

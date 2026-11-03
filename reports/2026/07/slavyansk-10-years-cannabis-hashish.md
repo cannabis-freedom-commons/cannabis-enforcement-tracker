@@ -1,4 +1,5 @@
 ---
+code: 3G6ZEV
 date: 2026-07-21
 country: ru
 place: Slavyansk-na-Kubani, Krasnodar Krai

@@ -1,4 +1,5 @@
 ---
+code: FE7WZN
 date: 2026-09-09
 country: ke
 place: Murram area, Kakamega Central

@@ -1,4 +1,5 @@
 ---
+code: P62GH9
 date: 2026-09-29
 country: cn
 place: Xiaoxiang Village, Qilin District, Qujing, Yunnan

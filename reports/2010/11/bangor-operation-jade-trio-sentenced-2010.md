@@ -1,4 +1,5 @@
 ---
+code: EG21B2
 date: 2010-11-12
 country: gb
 place: Bangor, Gwynedd

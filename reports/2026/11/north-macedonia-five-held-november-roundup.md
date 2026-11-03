@@ -1,4 +1,5 @@
 ---
+code: GK0V1J
 date: 2026-11-01
 country: mk
 place: Tabanovce, Skopje, Bogovinje, Ohrid and Idrizovo, North Macedonia

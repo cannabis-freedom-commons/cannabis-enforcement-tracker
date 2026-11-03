@@ -1,4 +1,5 @@
 ---
+code: 8DM7DC
 date: 2026-10-19
 country: np
 place: Budhi River bank, Duhabi-6, Sunsari

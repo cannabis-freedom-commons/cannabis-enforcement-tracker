@@ -1,4 +1,5 @@
 ---
+code: 8NW1QY
 date: 2026-10-07
 country: es
 place: Peñasolana industrial estate, Carrascal de Barregas, Salamanca

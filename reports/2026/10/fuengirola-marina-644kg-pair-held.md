@@ -1,4 +1,5 @@
 ---
+code: GPNJPJ
 date: 2026-10-03
 country: es
 place: Fuengirola marina

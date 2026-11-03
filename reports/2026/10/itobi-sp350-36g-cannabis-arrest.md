@@ -1,4 +1,5 @@
 ---
+code: RM5SSQ
 date: 2026-10-23
 country: br
 place: Rodovia SP-350, km 252, rural Itobi, São Paulo

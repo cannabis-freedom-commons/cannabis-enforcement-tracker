@@ -1,4 +1,5 @@
 ---
+code: YBYBM9
 date: 2026-02-15
 country: id
 place: Kulu, Kuta Blang, Bireuen, Aceh

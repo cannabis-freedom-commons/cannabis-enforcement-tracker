@@ -1,4 +1,5 @@
 ---
+code: MDCQCB
 date: 2026-10-31
 country: cl
 place: El Loa province, Antofagasta region

@@ -1,4 +1,5 @@
 ---
+code: TSQDXG
 date: 2026-10-14
 country: in
 place: Kullu district, Himachal Pradesh

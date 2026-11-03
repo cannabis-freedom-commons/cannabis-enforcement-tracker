@@ -1,4 +1,5 @@
 ---
+code: N5PAHX
 date: 2026-10-08
 country: in
 place: Bhopal Bypass Chauraha, Guna, Madhya Pradesh

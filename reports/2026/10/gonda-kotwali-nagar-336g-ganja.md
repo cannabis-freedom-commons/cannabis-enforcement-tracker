@@ -1,4 +1,5 @@
 ---
+code: CDJBSE
 date: 2026-10-25
 country: in
 place: Kotwali Nagar police station area, Gonda, Uttar Pradesh

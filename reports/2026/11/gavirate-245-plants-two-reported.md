@@ -1,4 +1,5 @@
 ---
+code: F5K5E2
 date: 2026-11-02
 country: it
 place: Gavirate, Varese

@@ -1,4 +1,5 @@
 ---
+code: H4WJQP
 date: 2026-11-01
 country: bd
 place: Akhra Bazar, Purba Austagram Union, Austagram, Kishoreganj

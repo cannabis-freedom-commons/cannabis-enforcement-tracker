@@ -1,4 +1,5 @@
 ---
+code: P9XVZ6
 date: 2026-09-11
 country: cn
 place: Baji Village, Bayi District, Nyingchi, Tibet

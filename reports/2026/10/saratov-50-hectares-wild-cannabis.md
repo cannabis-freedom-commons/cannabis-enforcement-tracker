@@ -1,4 +1,5 @@
 ---
+code: CCNX11
 date: 2026-10-09
 country: ru
 place: Marksovsky, Balakovsky and Pugachevsky districts, Saratov Oblast

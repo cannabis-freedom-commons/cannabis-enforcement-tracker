@@ -1,4 +1,5 @@
 ---
+code: FNNDME
 date: 2025-10-05
 country: ke
 place: Sabaki Bridge, Malindi, Kilifi County

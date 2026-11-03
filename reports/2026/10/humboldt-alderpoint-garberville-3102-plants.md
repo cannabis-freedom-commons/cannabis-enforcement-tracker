@@ -1,4 +1,5 @@
 ---
+code: 10RBYT
 date: 2026-10-06
 country: us/ca
 place: Rancho Sequoia Road area, Alderpoint and Sawmill Road area, Garberville, Humboldt County

@@ -1,4 +1,5 @@
 ---
+code: DM2A4Z
 date: 2026-11-02
 country: mx
 place: Fraccionamiento Fovissste Playa Azul, Mazatlán, Sinaloa

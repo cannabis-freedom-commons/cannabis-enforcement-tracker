@@ -1,4 +1,5 @@
 ---
+code: JCFAHM
 date: 2026-10-31
 country: it
 place: Piazza Garibaldi, Corso Umberto I and Via Dante, central Molfetta

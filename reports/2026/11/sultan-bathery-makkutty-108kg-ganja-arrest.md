@@ -1,4 +1,5 @@
 ---
+code: DGH3SB
 date: 2026-11-02
 country: in
 place: Near Makkutty bridge, Sultan Bathery, Wayanad

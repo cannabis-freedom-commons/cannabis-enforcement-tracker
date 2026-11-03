@@ -1,4 +1,5 @@
 ---
+code: V03S3D
 date: 2026-10-31
 country: in
 place: Laukaha, Madhubani, Bihar

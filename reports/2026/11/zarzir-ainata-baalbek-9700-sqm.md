@@ -1,4 +1,5 @@
 ---
+code: W2Q6PA
 date: 2026-11-01
 country: lb
 place: Zarzir and Ainata, Baalbek

@@ -1,4 +1,5 @@
 ---
+code: D8R5BB
 date: 2026-10-12
 country: ci
 place: Quartier France, Grand-Bassam

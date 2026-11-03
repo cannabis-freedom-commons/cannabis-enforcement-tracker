@@ -1,4 +1,5 @@
 ---
+code: 43ZEQ2
 date: 2026-10-30
 country: br
 place: Araçá, Porto Belo

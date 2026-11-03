@@ -1,4 +1,5 @@
 ---
+code: 14NP7B
 date: 2026-11-01
 country: il
 place: Near Rahat, Negev

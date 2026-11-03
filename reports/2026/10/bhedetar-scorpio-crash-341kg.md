@@ -1,4 +1,5 @@
 ---
+code: 7J216H
 date: 2026-10-07
 country: np
 place: Bhedetar, Sangurigadhi-6, Dhankuta

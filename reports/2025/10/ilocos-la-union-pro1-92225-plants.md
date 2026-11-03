@@ -1,4 +1,5 @@
 ---
+code: A3H01S
 date: 2025-10-26
 country: ph
 place: Licungan, Sugpon, Ilocos Sur and Tubaday, Santol, La Union

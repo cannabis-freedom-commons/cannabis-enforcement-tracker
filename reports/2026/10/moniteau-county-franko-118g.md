@@ -1,4 +1,5 @@
 ---
+code: M3P153
 date: 2026-10-28
 country: us/mo
 place: Moniteau County, Missouri

@@ -1,4 +1,5 @@
 ---
+code: XCFQVW
 date: 2026-04-21
 country: bd
 place: Bhurungamari bus terminal, Bhurungamari, Kurigram

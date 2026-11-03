@@ -1,4 +1,5 @@
 ---
+code: Y72AQ1
 date: 2026-09-13
 country: in
 place: Hinduwari Tiraha, Robertsganj, Sonbhadra, Uttar Pradesh

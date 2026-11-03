@@ -1,4 +1,5 @@
 ---
+code: 7QK18S
 date: 2026-01-10
 country: in
 place: Sunajhari, Banspal, Keonjhar

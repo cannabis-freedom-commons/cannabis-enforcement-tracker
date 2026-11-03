@@ -1,4 +1,5 @@
 ---
+code: DS1C44
 date: 2026-09-18
 country: gb
 place: Bury, Greater Manchester

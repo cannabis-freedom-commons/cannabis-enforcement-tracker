@@ -1,4 +1,5 @@
 ---
+code: YGTD4Q
 date: 2026-10-28
 country: br
 place: BR-277 km 305 near Prudentópolis, Paraná

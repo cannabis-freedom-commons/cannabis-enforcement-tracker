@@ -1,4 +1,5 @@
 ---
+code: XEWXZP
 date: 2009-03-18
 country: is
 place: Esjumelar, Kjalarnes peninsula, Capital Region

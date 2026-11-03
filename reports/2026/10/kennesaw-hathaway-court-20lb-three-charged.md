@@ -1,4 +1,5 @@
 ---
+code: C7FBTV
 date: 2026-10-14
 country: us/ga
 place: 4286 Hathaway Court, Kennesaw, Cobb County, Georgia

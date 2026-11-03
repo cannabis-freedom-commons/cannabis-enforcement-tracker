@@ -1,4 +1,5 @@
 ---
+code: 2131A8
 date: 2026-10-31
 country: in
 place: Gadchiroli district, Maharashtra

@@ -1,4 +1,5 @@
 ---
+code: ZWGGDT
 date: 2026-10-22
 country: br
 place: Pindorama rural zone, Coruripe, Alagoas

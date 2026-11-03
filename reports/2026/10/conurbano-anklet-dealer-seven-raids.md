@@ -1,4 +1,5 @@
 ---
+code: XEE67G
 date: 2026-10-31
 country: ar
 place: Western Greater Buenos Aires (oeste del conurbano bonaerense), Buenos Aires province

@@ -1,4 +1,5 @@
 ---
+code: A8WT27
 date: 2026-10-31
 country: sy
 place: Aleppo Governorate, Syria

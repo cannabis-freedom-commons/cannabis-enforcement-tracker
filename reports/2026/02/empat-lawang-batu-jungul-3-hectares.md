@@ -1,4 +1,5 @@
 ---
+code: ADKC1C
 date: 2026-02-13
 country: id
 place: Batu Jungul, Muara Pinang, Empat Lawang, South Sumatra

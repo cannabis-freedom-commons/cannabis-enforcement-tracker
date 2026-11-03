@@ -1,4 +1,5 @@
 ---
+code: B2DK7Z
 date: 2026-05-31
 country: gh
 place: Gbi-Wegbe, near Hohoe, Volta Region

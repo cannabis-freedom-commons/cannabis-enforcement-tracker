@@ -1,4 +1,5 @@
 ---
+code: PSH2F5
 date: 2026-01-20
 country: ke
 place: Namanga One Stop Border Post, Kajiado County

@@ -1,4 +1,5 @@
 ---
+code: 1WE0ZQ
 date: 2026-10-30
 country: in
 place: Tadwa railway crossing, Yusufpur, Muhammadabad, Ghazipur district, Uttar Pradesh

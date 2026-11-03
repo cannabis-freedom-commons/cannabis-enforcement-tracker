@@ -1,4 +1,5 @@
 ---
+code: 83MWCW
 date: 2026-11-02
 country: mx
 place: Colonia Caleras Maciel, Tuxtla Gutiérrez, Chiapas

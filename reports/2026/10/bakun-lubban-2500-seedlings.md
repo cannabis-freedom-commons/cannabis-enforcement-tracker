@@ -1,4 +1,5 @@
 ---
+code: WB8XTV
 date: 2026-10-01
 country: ph
 place: Sitio Lubban, Kayapa, Bakun, Benguet

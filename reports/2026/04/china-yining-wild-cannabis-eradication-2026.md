@@ -1,4 +1,5 @@
 ---
+code: K5FDEX
 date: 2026-04-28
 country: cn
 place: Sayibuyi Subdistrict, Yining, Xinjiang

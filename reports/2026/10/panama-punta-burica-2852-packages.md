@@ -1,4 +1,5 @@
 ---
+code: QW5WRG
 date: 2026-10-05
 country: pa
 place: Punta Burica, Barú, Chiriquí

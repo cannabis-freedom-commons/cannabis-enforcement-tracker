@@ -1,4 +1,5 @@
 ---
+code: 5B8AQS
 date: 2026-10-30
 country: bd
 place: Chattogram Range, Bangladesh

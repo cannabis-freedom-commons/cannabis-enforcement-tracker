@@ -1,4 +1,5 @@
 ---
+code: 5F26C2
 date: 2026-10-29
 country: br
 place: Jardim Bosque II, José Bonifácio, São Paulo

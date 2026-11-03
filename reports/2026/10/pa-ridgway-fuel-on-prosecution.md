@@ -1,4 +1,5 @@
 ---
+code: BAJYPA
 date: 2026-10-30
 country: us/pa
 place: Ridgway, Elk County, Pennsylvania

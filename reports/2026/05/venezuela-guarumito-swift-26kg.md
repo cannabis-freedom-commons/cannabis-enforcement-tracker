@@ -1,4 +1,5 @@
 ---
+code: E1GGDE
 date: 2026-05-13
 country: ve
 place: Guarumito checkpoint, Ayacucho, Táchira

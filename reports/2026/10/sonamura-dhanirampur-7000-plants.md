@@ -1,4 +1,5 @@
 ---
+code: M3P8CM
 date: 2026-10-16
 country: in
 place: Dhanirampur forest areas, Sonamura, Sepahijala

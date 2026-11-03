@@ -1,4 +1,5 @@
 ---
+code: NGMCF6
 date: 2000-02-24
 country: kh
 place: Phnom Thlan Muroi, Chhuk district, Kampot province

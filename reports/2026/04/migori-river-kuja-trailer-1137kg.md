@@ -1,4 +1,5 @@
 ---
+code: RAHXB6
 date: 2026-04-24
 country: ke
 place: River Kuja, Migori-Rongo Road

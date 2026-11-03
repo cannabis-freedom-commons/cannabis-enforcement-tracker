@@ -1,4 +1,5 @@
 ---
+code: 21SE5K
 date: 2026-09-17
 country: mz
 place: Save checkpoint, Vila Franca do Save, Govuro, Inhambane

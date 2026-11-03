@@ -1,4 +1,5 @@
 ---
+code: KACF0C
 date: 2026-10-31
 country: id
 place: Tor Sihite, Mandailing Natal, North Sumatra

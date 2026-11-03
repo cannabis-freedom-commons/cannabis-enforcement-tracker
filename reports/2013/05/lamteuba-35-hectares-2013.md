@@ -1,4 +1,5 @@
 ---
+code: 1T26BD
 date: 2013-05-13
 country: id
 place: Pulo Kemukiman Lamteuba, Seulimeum, Aceh Besar, Aceh

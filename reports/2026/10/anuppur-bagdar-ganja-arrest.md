@@ -1,4 +1,5 @@
 ---
+code: 7Y39TM
 date: 2026-10-29
 country: in
 place: Bagdara Ghat bend, Anuppur district, Madhya Pradesh

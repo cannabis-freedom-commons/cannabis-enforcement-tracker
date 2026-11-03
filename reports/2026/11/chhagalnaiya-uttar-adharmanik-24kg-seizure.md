@@ -1,4 +1,5 @@
 ---
+code: 638QA5
 date: 2026-11-01
 country: bd
 place: Uttar Adharmanik, Radhanagar, Chhagalnaiya, Feni

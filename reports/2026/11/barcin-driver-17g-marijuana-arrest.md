@@ -1,4 +1,5 @@
 ---
+code: SVFYE1
 date: 2026-11-02
 country: pl
 place: Barcin, Żnin County

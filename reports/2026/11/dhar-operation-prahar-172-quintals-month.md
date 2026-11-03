@@ -1,4 +1,5 @@
 ---
+code: Q6XVQF
 date: 2026-11-01
 country: in
 place: Dhar district, Madhya Pradesh

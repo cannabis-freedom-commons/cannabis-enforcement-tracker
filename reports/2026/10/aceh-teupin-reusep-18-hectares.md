@@ -1,4 +1,5 @@
 ---
+code: PHFDGV
 date: 2026-10-27
 country: id
 place: Alue Garut and Cot Mancang, Teupin Reusep, Sawang, Aceh Utara

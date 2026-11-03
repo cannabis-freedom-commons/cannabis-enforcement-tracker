@@ -1,4 +1,5 @@
 ---
+code: 6BYH78
 date: 2026-11-01
 country: ng
 place: Tashan Banke area, Kano State

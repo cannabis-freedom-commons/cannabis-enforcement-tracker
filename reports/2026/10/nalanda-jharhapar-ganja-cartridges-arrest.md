@@ -1,4 +1,5 @@
 ---
+code: 79YQ38
 date: 2026-10-30
 country: in
 place: Jharhapar village, Karai Parsurai, Nalanda, Bihar

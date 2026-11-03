@@ -1,4 +1,5 @@
 ---
+code: T6P35M
 date: 2026-11-01
 country: eg
 place: Badr police district, Cairo

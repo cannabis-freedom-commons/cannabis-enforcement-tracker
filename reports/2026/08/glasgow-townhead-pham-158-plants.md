@@ -1,4 +1,5 @@
 ---
+code: X10MAF
 date: 2026-08-17
 country: gb
 place: Townhead, Glasgow

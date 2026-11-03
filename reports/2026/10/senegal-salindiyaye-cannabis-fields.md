@@ -1,4 +1,5 @@
 ---
+code: YQE86W
 date: 2026-10-08
 country: sn
 place: Salindiyaye, Karones archipelago, Casamance

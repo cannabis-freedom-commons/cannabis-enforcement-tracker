@@ -1,4 +1,5 @@
 ---
+code: 2D3GKM
 date: 2026-11-02
 country: it
 place: Mercato Saraceno, Forlì-Cesena

@@ -1,4 +1,5 @@
 ---
+code: M1M26S
 date: 2026-11-02
 country: eg
 place: Awsim, Giza Governorate

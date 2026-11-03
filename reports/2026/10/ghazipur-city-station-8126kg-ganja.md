@@ -1,4 +1,5 @@
 ---
+code: PWPMAS
 date: 2026-10-28
 country: in
 place: Ghazipur City railway station, platform 1, Ghazipur, Uttar Pradesh

@@ -1,4 +1,5 @@
 ---
+code: XEY7F8
 date: 2026-11-01
 country: gr
 place: Trikala

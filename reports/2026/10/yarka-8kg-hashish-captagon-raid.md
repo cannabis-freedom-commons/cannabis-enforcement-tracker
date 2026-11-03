@@ -1,4 +1,5 @@
 ---
+code: 9MB112
 date: 2026-10-20
 country: il
 place: Yarka, Western Galilee

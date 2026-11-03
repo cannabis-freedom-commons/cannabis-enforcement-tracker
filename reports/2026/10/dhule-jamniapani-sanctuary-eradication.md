@@ -1,4 +1,5 @@
 ---
+code: YHSK54
 date: 2026-10-14
 country: in
 place: Wildlife sanctuary near Jamniapani, Shirpur, Dhule, Maharashtra

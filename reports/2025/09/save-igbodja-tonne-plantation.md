@@ -1,4 +1,5 @@
 ---
+code: HKY1QJ
 date: 2025-09-17
 country: bj
 place: Igbodja, Savè, Collines

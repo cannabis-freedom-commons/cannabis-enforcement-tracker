@@ -1,4 +1,5 @@
 ---
+code: XMK9CK
 date: 2026-08-22
 country: cl
 place: Ollagüe border crossing, Antofagasta

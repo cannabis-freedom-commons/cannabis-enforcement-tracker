@@ -1,4 +1,5 @@
 ---
+code: F3YD9D
 date: 2021-05-27
 country: cn
 place: 61st Regiment, Ili Kazakh Autonomous Prefecture, Xinjiang

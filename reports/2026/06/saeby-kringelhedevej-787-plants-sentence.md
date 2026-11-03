@@ -1,4 +1,5 @@
 ---
+code: 5RMM80
 date: 2026-06-15
 country: dk
 place: Kringelhedevej, between Voerså and Præstbro, near Sæby

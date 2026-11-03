@@ -1,4 +1,5 @@
 ---
+code: B34R1W
 date: 2026-11-02
 country: pk
 place: Fateh Chowk, Mirpur Khas Road and St Mary School area, Hyderabad, Sindh

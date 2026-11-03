@@ -1,4 +1,5 @@
 ---
+code: B26EYZ
 date: 2026-01-17
 country: sg
 place: Holland Drive, Singapore

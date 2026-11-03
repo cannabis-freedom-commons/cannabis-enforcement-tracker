@@ -1,4 +1,5 @@
 ---
+code: 2BS66K
 date: 2026-09-23
 country: gb
 place: Scotland (multi-region operation)

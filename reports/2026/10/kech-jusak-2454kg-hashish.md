@@ -1,4 +1,5 @@
 ---
+code: Z5YG7Y
 date: 2026-10-06
 country: pk
 place: Jusak area, Kech district, Balochistan

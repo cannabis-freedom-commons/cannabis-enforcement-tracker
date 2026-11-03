@@ -1,4 +1,5 @@
 ---
+code: 67WA4S
 date: 2026-10-11
 country: bj
 place: Bantè, Collines

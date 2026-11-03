@@ -1,4 +1,5 @@
 ---
+code: 11BW3R
 date: 2026-10-22
 country: dj
 place: Galafi border post, Dikhil region

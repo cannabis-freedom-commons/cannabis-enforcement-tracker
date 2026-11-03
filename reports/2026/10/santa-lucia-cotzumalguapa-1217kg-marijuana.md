@@ -1,4 +1,5 @@
 ---
+code: 5PG2YM
 date: 2026-10-28
 country: gt
 place: El Socorro, Santa Lucía Cotzumalguapa, Escuintla

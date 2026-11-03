@@ -1,4 +1,5 @@
 ---
+code: YTDH6E
 date: 2026-02-01
 country: pe
 place: Yamobamba, Huamachuco, Sánchez Carrión, La Libertad

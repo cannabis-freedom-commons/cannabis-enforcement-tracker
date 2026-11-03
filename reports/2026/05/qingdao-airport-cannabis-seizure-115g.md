@@ -1,4 +1,5 @@
 ---
+code: T824CV
 date: 2026-05-13
 country: cn
 place: Qingdao Jiaodong International Airport, Qingdao

@@ -1,4 +1,5 @@
 ---
+code: 6NHE7T
 date: 2026-10-20
 country: it
 place: Coassolo Torinese, Turin province

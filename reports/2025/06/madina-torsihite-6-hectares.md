@@ -1,4 +1,5 @@
 ---
+code: MHF2GX
 date: 2025-06-25
 country: id
 place: Tor Sihite, Rao Rao Dolok, Mandailing Natal

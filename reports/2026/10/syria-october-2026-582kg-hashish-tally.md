@@ -1,4 +1,5 @@
 ---
+code: N1ZK0Y
 date: 2026-10-31
 country: sy
 place: Syria

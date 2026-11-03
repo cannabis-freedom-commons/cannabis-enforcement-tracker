@@ -1,4 +1,5 @@
 ---
+code: JQ8NCF
 date: 2026-10-31
 country: tr
 place: Ankara

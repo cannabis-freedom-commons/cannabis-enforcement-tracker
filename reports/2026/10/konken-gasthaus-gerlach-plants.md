@@ -1,4 +1,5 @@
 ---
+code: ZJKD42
 date: 2026-10-07
 country: de
 place: former Gasthaus Gerlach, Konken, Kusel district

@@ -1,4 +1,5 @@
 ---
+code: D7HMNH
 date: 2025-02-26
 country: eg
 place: Alexandria and Sharqia governorates, Egypt

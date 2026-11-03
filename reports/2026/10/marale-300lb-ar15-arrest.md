@@ -1,4 +1,5 @@
 ---
+code: EF5JQV
 date: 2026-10-30
 country: hn
 place: Marale, Francisco Morazán

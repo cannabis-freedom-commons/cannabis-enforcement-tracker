@@ -1,4 +1,5 @@
 ---
+code: Z23Y2H
 date: 2026-10-30
 country: fr
 place: Rue du 11-Novembre, Charleville-Mézières

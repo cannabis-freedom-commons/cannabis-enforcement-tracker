@@ -1,4 +1,5 @@
 ---
+code: ZE26KY
 date: 2026-08-31
 country: np
 place: Shantiban forest, Banketar, Katari Municipality-6, Udayapur district

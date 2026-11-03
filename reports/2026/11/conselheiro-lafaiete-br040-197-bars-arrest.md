@@ -1,4 +1,5 @@
 ---
+code: TZE2X9
 date: 2026-11-01
 country: br
 place: BR-040 near Conselheiro Lafaiete, Minas Gerais

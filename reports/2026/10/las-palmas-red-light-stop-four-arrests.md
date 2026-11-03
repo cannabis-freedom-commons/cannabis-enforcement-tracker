@@ -1,4 +1,5 @@
 ---
+code: 7WDGBM
 date: 2026-10-30
 country: es
 place: Plaza de la Feria, Las Palmas de Gran Canaria

@@ -1,4 +1,5 @@
 ---
+code: J1Z1TA
 date: 2026-09-04
 country: ug
 place: Iganga District

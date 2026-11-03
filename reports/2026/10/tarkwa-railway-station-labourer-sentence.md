@@ -1,4 +1,5 @@
 ---
+code: 2FQP03
 date: 2026-10-26
 country: gh
 place: Tarkwa Railway Station, Tarkwa

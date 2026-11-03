@@ -1,4 +1,5 @@
 ---
+code: 9B33D6
 date: 2026-10-29
 country: cl
 place: Ampliación Prat, Copiapó

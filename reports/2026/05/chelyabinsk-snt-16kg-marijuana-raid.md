@@ -1,4 +1,5 @@
 ---
+code: D17EHZ
 date: 2026-05-14
 country: ru
 place: Sosnovsky district, Chelyabinsk Oblast

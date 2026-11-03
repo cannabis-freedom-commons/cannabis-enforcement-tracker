@@ -1,4 +1,5 @@
 ---
+code: R8H5WB
 date: 2026-05-31
 country: in
 place: Guptamani, Jhargram, West Bengal

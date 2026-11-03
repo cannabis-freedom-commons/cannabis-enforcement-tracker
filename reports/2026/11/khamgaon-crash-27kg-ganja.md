@@ -1,4 +1,5 @@
 ---
+code: FCD55H
 date: 2026-11-01
 country: in
 place: Khamgaon, Buldhana, Maharashtra

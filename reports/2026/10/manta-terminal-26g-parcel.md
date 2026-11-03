@@ -1,4 +1,5 @@
 ---
+code: QSCGDW
 date: 2026-10-30
 country: ec
 place: Terminal Terrestre Luis Valdiviezo Morán, Manta, Manabí

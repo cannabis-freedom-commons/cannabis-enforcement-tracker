@@ -1,4 +1,5 @@
 ---
+code: 3J2K30
 date: 2026-10-30
 country: ru
 place: Amurzet, Oktyabrsky District, Jewish Autonomous Oblast

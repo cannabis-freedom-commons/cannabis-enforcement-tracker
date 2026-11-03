@@ -1,4 +1,5 @@
 ---
+code: 5T5YXD
 date: 2026-11-01
 country: in
 place: Chongdiapura, Tol village, Kukshi, Dhar district, Madhya Pradesh

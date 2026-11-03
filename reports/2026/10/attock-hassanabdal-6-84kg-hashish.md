@@ -1,4 +1,5 @@
 ---
+code: XYGE57
 date: 2026-10-31
 country: pk
 place: Hassanabdal, Attock District

@@ -1,4 +1,5 @@
 ---
+code: 715RKR
 date: 2026-11-03
 country: eg
 place: Warraq, Giza

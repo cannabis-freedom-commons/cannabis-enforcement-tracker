@@ -1,4 +1,5 @@
 ---
+code: JX9KJY
 date: 2026-10-05
 country: af
 place: Badakhshan province

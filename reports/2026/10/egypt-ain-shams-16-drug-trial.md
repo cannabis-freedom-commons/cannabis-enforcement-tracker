@@ -1,4 +1,5 @@
 ---
+code: TVMMCJ
 date: 2026-10-23
 country: eg
 place: North Cairo Criminal Court, Abbasiya, Cairo

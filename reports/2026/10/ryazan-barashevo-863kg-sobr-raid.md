@@ -1,4 +1,5 @@
 ---
+code: NJW1G3
 date: 2026-10-07
 country: ru
 place: Barashevo, Ryazan Oblast

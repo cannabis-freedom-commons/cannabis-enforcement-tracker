@@ -1,4 +1,5 @@
 ---
+code: SGA4ED
 date: 2026-11-03
 country: id
 place: Denpasar District Court, Denpasar, Bali

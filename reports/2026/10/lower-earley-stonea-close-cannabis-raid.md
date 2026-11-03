@@ -1,4 +1,5 @@
 ---
+code: KZSQP3
 date: 2026-10-28
 country: gb
 place: Stonea Close, Lower Earley

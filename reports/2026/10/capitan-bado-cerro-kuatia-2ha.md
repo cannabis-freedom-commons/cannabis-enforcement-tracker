@@ -1,4 +1,5 @@
 ---
+code: N44RTT
 date: 2026-10-28
 country: py
 place: Estancia Pica Pau, Cerro Kuatiá, Capitán Bado, Amambay

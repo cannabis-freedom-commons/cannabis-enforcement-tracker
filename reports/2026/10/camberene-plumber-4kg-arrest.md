@@ -1,4 +1,5 @@
 ---
+code: XZ4MHW
 date: 2026-10-30
 country: sn
 place: Cambérène 1, Dakar

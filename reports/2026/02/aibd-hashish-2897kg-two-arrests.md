@@ -1,4 +1,5 @@
 ---
+code: RSNBCQ
 date: 2026-02-26
 country: sn
 place: Blaise Diagne International Airport (AIBD), Diass, Mbour

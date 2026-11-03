@@ -1,4 +1,5 @@
 ---
+code: FWDBBK
 date: 2026-06-09
 country: us/ny
 place: Peace Bridge border crossing, Buffalo, New York

@@ -1,4 +1,5 @@
 ---
+code: XHTMDZ
 date: 2025-04-26
 country: in
 place: Purba Bhogdabri, Sitalkuchi, Cooch Behar district, West Bengal

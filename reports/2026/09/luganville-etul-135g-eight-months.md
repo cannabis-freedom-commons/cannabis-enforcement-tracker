@@ -1,4 +1,5 @@
 ---
+code: V7MFHN
 date: 2026-09-18
 country: vu
 place: Sanlaet area, Luganville, Santo

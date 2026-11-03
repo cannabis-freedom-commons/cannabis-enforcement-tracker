@@ -1,4 +1,5 @@
 ---
+code: BHSVMP
 date: 2025-08-05
 country: ru
 place: Khabarovsk Krai

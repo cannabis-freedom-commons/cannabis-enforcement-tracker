@@ -1,4 +1,5 @@
 ---
+code: SG2KNN
 date: 2017-08-02
 country: tr
 place: Camuzcu Mahallesi, Seyhan, Adana

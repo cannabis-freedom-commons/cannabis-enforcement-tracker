@@ -1,4 +1,5 @@
 ---
+code: X53CV6
 date: 2026-10-31
 country: in
 place: Arlapenta village, Dammapeta mandal, Bhadradri Kothagudem district, Telangana

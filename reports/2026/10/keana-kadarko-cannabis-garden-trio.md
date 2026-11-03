@@ -1,4 +1,5 @@
 ---
+code: BX05AF
 date: 2026-10-22
 country: ng
 place: Sabongida Bature and Gidan Kparev, Kadarko, Keana

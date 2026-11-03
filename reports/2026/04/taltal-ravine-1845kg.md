@@ -1,4 +1,5 @@
 ---
+code: H9DPJW
 date: 2026-04-23
 country: cl
 place: Taltal, Antofagasta

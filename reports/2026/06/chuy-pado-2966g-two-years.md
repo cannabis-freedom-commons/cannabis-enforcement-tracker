@@ -1,4 +1,5 @@
 ---
+code: GZ1M7M
 date: 2026-06-25
 country: uy
 place: Chuy, Rocha

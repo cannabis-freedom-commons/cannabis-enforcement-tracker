@@ -1,4 +1,5 @@
 ---
+code: ECHD24
 date: 2025-09-15
 country: ru
 place: Kolomna urban district, Moscow Oblast

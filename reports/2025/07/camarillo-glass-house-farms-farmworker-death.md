@@ -1,4 +1,5 @@
 ---
+code: 2QRX4A
 date: 2025-07-12
 country: us/ca
 place: Glass House Farms, near Camarillo, Ventura County

@@ -1,4 +1,5 @@
 ---
+code: 56GPG0
 date: 2026-10-31
 country: ph
 place: Barangay Bulanit, Labangan, Zamboanga del Sur

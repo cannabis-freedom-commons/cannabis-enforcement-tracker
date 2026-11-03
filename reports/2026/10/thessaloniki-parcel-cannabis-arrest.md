@@ -1,4 +1,5 @@
 ---
+code: D2Z9RZ
 date: 2026-10-27
 country: gr
 place: Thessaloniki

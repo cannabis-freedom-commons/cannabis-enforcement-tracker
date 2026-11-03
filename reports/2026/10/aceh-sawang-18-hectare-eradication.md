@@ -1,4 +1,5 @@
 ---
+code: GNGP4M
 date: 2026-10-27
 country: id
 place: Teupin Reusep, Sawang, Aceh Utara

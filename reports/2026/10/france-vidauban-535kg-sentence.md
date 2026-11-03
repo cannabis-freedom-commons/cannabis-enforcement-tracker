@@ -1,4 +1,5 @@
 ---
+code: 263Z59
 date: 2026-10-27
 country: fr
 place: Vidauban Sud rest area, A8 motorway, Var

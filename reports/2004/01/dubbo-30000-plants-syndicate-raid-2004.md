@@ -1,4 +1,5 @@
 ---
+code: W0M64J
 date: 2004-01-29
 country: au/nsw
 place: Isolated woodland near Dubbo, New South Wales

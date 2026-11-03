@@ -1,4 +1,5 @@
 ---
+code: GCJ3ZA
 date: 2026-10-28
 country: lk
 place: Central Mail Exchange, Colombo

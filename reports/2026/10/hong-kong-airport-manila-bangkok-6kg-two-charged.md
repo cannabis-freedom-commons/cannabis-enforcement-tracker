@@ -1,4 +1,5 @@
 ---
+code: 15TXHP
 date: 2026-10-06
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

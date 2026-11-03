@@ -1,4 +1,5 @@
 ---
+code: RRG4XR
 date: 2026-10-02
 country: de
 place: Breiten Weg, Kalbe (Milde), Sachsen-Anhalt

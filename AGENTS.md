@@ -15,6 +15,10 @@ Index (country ids are the CFI's).
   cases, statistics, events before 2000): `docs/CFI.md`.
 - **How a report is written** (one event, sources, figures, pictures): `docs/WRITING.md`.
   Data format and JSON API: `README.md`.
+- Every report file **must** include a permanent `code`: six Crockford base32 characters,
+  stored as a YAML string without the `CET-` display prefix. For skill-written reports run
+  `npm run codes -- <report paths>` before building/committing; the backend assigns it itself.
+  Preserve the original code on updates, renames and date-folder moves.
 - Every report file **must** include `created_by_model`: the exact model identifier used by the
   writing agent, including provider and reasoning effort when known, as `provider/model#effort`
   (for example `alibaba-token-plan/qwen3.8-flash#xhigh`, where `xhigh` is the effort setting).

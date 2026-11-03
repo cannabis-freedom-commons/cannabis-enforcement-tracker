@@ -1,4 +1,5 @@
 ---
+code: Q5K7X3
 date: 2026-11-02
 country: in
 place: Tarot fourlane near Dhanotu, Sundarnagar, Mandi, Himachal Pradesh

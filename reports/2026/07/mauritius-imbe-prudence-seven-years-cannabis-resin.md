@@ -1,4 +1,5 @@
 ---
+code: T2K1HJ
 date: 2026-07-06
 country: mu
 place: Pointe aux Canonniers, near the Club Med Hotel

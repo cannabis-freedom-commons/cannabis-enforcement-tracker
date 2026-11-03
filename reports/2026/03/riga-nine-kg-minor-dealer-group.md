@@ -1,4 +1,5 @@
 ---
+code: 26SQ3J
 date: 2026-03-18
 country: lv
 place: Rīga, Latvia

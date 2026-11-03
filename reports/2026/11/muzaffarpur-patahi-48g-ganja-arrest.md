@@ -1,4 +1,5 @@
 ---
+code: 5QVZCW
 date: 2026-11-01
 country: in
 place: Patahi, Sadar, Muzaffarpur

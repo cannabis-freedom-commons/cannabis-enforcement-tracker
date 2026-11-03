@@ -1,4 +1,5 @@
 ---
+code: H6NAZB
 date: 2026-05-18
 country: ro
 place: Henri Coandă International Airport, Ilfov

@@ -1,4 +1,5 @@
 ---
+code: GFA3N7
 date: 2026-10-31
 country: it
 place: Peia, Bergamo

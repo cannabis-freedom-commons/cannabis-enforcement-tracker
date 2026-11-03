@@ -1,4 +1,5 @@
 ---
+code: A16H6T
 date: 2026-10-30
 country: in
 place: Daily Market, Simdega, Jharkhand

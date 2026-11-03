@@ -1,4 +1,5 @@
 ---
+code: A3ZB4R
 date: 2026-10-06
 country: jp
 place: Higashi Mochida, Aira, Kagoshima

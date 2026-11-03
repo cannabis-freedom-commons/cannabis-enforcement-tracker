@@ -1,4 +1,5 @@
 ---
+code: DPX6BG
 date: 2026-11-01
 country: br
 place: Mororó, Piracuruca, Piauí

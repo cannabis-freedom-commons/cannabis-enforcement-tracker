@@ -1,4 +1,5 @@
 ---
+code: 8TR0B3
 date: 2026-10-31
 country: it
 place: San Felice a Cancello, Caserta

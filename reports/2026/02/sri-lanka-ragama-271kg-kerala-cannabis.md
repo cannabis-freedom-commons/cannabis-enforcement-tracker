@@ -1,4 +1,5 @@
 ---
+code: M0B0GJ
 date: 2026-02-14
 country: lk
 place: Ragama, Gampaha District, Western Province

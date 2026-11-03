@@ -1,4 +1,5 @@
 ---
+code: BD48DJ
 date: "2014-02-28"
 country: id
 place: Beji, Depok, West Java

@@ -1,4 +1,5 @@
 ---
+code: NKRCDA
 date: 2026-10-28
 country: ng
 place: Eko Camp, near Illushi, Esan South-East, Edo

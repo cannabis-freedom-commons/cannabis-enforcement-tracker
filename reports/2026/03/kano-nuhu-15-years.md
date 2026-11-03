@@ -1,4 +1,5 @@
 ---
+code: K9RQSS
 date: 2026-03-17
 country: ng
 place: Kano (Federal High Court No. 2; arrest near Wudil Bridge)

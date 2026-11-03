@@ -1,4 +1,5 @@
 ---
+code: VS8B13
 date: 2026-06-16
 country: gh
 place: Akyeremanteng, Yilo Krobo, Eastern Region

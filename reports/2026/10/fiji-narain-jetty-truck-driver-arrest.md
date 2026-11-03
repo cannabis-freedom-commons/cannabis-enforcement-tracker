@@ -1,4 +1,5 @@
 ---
+code: ZCBKKR
 date: 2026-10-30
 country: fj
 place: Narain Jetty, Suva

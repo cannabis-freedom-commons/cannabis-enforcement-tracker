@@ -1,4 +1,5 @@
 ---
+code: Y0RPCQ
 date: 2026-04-14
 country: ph
 place: Kayapa, Bakun and Badeo, Kibungan, Benguet

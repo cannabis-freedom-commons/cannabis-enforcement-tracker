@@ -1,4 +1,5 @@
 ---
+code: K1RGX1
 date: 2026-11-01
 country: in
 place: Sehlang village, Kanina, Mahendragarh district, Haryana

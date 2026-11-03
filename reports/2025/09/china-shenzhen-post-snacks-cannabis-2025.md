@@ -1,4 +1,5 @@
 ---
+code: 06Z1B2
 date: 2025-09-05
 country: cn
 place: Shenzhen, Guangdong

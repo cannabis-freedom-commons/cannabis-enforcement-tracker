@@ -1,4 +1,5 @@
 ---
+code: XNHC4K
 date: 2026-10-03
 country: ke
 place: Majengo Estate, Vihiga town

@@ -1,4 +1,5 @@
 ---
+code: BEJ2YR
 date: 2026-10-31
 country: it
 place: Underground car park in Via Nino Bixio, Cenisia, Turin

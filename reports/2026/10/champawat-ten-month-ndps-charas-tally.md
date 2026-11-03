@@ -1,4 +1,5 @@
 ---
+code: SHNG4X
 date: 2026-10-27
 country: in
 place: Champawat district, Uttarakhand

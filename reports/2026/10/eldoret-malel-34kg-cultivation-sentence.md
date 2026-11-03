@@ -1,4 +1,5 @@
 ---
+code: 6X44PQ
 date: 2026-10-21
 country: ke
 place: Malel, Kapseret, Uasin Gishu County

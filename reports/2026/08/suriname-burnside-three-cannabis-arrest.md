@@ -1,4 +1,5 @@
 ---
+code: 6PAJ68
 date: 2026-08-23
 country: sr
 place: Burnside police checkpoint, Coronie district

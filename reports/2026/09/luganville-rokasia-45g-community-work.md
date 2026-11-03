@@ -1,4 +1,5 @@
 ---
+code: EXJJ6G
 date: 2026-09-18
 country: vu
 place: Chapuis, Luganville, Santo

@@ -1,4 +1,5 @@
 ---
+code: TKEAKC
 date: 2026-09-16
 country: ke
 place: Thindigua, Ruiru and Busia border, Kiambu and Busia counties

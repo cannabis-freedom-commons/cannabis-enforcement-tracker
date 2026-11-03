@@ -1,4 +1,5 @@
 ---
+code: 76A1D9
 date: 2026-10-30
 country: in
 place: Raigarh, Chhattisgarh

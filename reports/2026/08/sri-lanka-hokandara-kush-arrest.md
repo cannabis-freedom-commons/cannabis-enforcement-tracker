@@ -1,4 +1,5 @@
 ---
+code: 7S0TYZ
 date: 2026-08-30
 country: lk
 place: Wanaguru Mawatha, Hokandara

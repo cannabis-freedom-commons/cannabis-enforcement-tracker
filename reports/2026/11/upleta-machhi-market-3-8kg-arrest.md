@@ -1,4 +1,5 @@
 ---
+code: 1VM0XT
 date: 2026-11-02
 country: in
 place: Machhi Market, Upleta, Rajkot district, Gujarat

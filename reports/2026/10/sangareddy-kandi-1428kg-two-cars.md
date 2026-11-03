@@ -1,4 +1,5 @@
 ---
+code: GDH6XC
 date: 2026-10-26
 country: in
 place: Kandi Cross Road, NH-65, Sangareddy, Telangana

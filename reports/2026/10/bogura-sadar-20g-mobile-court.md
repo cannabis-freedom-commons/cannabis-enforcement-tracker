@@ -1,4 +1,5 @@
 ---
+code: BJSCBH
 date: 2026-10-24
 country: bd
 place: Central Mosque and Sweeper Colony areas, Bogura Sadar

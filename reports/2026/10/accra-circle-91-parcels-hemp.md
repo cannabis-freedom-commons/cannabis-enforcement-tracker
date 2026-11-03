@@ -1,4 +1,5 @@
 ---
+code: PNPC9J
 date: 2026-10-29
 country: gh
 place: VIP Bus Terminal, Kwame Nkrumah Circle, Accra

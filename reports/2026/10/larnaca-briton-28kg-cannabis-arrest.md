@@ -1,4 +1,5 @@
 ---
+code: 3JB0KW
 date: 2026-10-23
 country: cy
 place: Larnaca Airport

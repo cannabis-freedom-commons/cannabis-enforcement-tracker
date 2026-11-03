@@ -1,4 +1,5 @@
 ---
+code: C2E764
 date: 2026-10-31
 country: eg
 place: Rawafi al-Qasir, Sohag markaz, Sohag

@@ -1,4 +1,5 @@
 ---
+code: DMJGGK
 date: 2026-03-12
 country: bo
 place: Near Laguna Lagunillas, Machacamarca, Rafael Bustillo, Potosí

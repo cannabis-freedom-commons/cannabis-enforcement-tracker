@@ -1,4 +1,5 @@
 ---
+code: 1ABQMJ
 date: 2026-06-10
 country: ma
 place: Selouane, Nador and Souk El Arbaa du Gharb entrance

@@ -1,4 +1,5 @@
 ---
+code: C0ZXTX
 date: 2026-10-30
 country: in
 place: Muhammadabad Gohna, Mau district, Uttar Pradesh

@@ -1,4 +1,5 @@
 ---
+code: 1778RK
 date: 2026-10-12
 country: in
 place: Kambipura, Bengaluru, Karnataka

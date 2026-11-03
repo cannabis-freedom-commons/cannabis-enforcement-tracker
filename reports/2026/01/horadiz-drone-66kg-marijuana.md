@@ -1,4 +1,5 @@
 ---
+code: VDAWEZ
 date: 2026-01-18
 country: az
 place: Horadiz border detachment area, Jabrayil

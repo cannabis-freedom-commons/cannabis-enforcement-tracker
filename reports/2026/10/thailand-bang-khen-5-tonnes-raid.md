@@ -1,4 +1,5 @@
 ---
+code: P5SNVT
 date: 2026-10-19
 country: th
 place: Soi Khu Bon 27, Bang Khen, Bangkok

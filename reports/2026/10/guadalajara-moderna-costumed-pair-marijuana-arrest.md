@@ -1,4 +1,5 @@
 ---
+code: TE25NC
 date: 2026-10-31
 country: mx
 place: Avenida Enrique Díaz de León, colonia Moderna, Guadalajara

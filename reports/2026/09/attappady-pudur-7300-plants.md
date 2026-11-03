@@ -1,4 +1,5 @@
 ---
+code: JF5R26
 date: 2026-09-24
 country: in
 place: Pudur, Attappady, Palakkad

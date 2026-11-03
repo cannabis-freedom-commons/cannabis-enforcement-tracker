@@ -1,4 +1,5 @@
 ---
+code: Y6PZAX
 date: 2026-11-01
 country: bd
 place: East of Kodda Boro Bridge, Akhaura Bypass–Sultanpur road, Brahmanbaria Sadar

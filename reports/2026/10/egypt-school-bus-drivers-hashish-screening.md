@@ -1,4 +1,5 @@
 ---
+code: DPA5M8
 date: 2026-10-26
 country: eg
 place: Several governorates, Egypt

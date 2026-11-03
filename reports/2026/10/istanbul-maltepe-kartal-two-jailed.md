@@ -1,4 +1,5 @@
 ---
+code: 2Q41V8
 date: 2026-10-29
 country: tr
 place: Maltepe and Kartal, Istanbul

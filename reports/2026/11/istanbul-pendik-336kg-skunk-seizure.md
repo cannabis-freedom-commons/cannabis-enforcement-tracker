@@ -1,4 +1,5 @@
 ---
+code: E2D275
 date: 2026-11-01
 country: tr
 place: Pendik, Istanbul

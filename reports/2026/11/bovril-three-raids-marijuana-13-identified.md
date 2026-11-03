@@ -1,4 +1,5 @@
 ---
+code: MDB6G2
 date: 2026-11-01
 country: ar
 place: Bovril, Entre Ríos

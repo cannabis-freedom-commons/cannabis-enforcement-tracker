@@ -1,4 +1,5 @@
 ---
+code: E8SYWR
 date: 2026-10-29
 country: au/vic
 place: Northland retail hub, Preston, Melbourne

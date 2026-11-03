@@ -1,4 +1,5 @@
 ---
+code: FMYAXN
 date: 2026-09-02
 country: py
 place: Santa Lucía, Itakyry, Alto Paraná

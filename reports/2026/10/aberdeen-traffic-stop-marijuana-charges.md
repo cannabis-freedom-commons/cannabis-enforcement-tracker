@@ -1,4 +1,5 @@
 ---
+code: WM20KH
 date: 2026-10-16
 country: us/nc
 place: Aberdeen, Moore County, North Carolina

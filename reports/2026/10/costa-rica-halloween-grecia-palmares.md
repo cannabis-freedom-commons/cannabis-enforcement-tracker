@@ -1,4 +1,5 @@
 ---
+code: EFGT2C
 date: 2026-10-30
 country: cr
 place: Grecia, Alajuela

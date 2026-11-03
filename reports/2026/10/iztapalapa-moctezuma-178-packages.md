@@ -1,4 +1,5 @@
 ---
+code: B0E9TY
 date: 2026-10-29
 country: mx
 place: Santiago Acahualtepec, Iztapalapa, Mexico City

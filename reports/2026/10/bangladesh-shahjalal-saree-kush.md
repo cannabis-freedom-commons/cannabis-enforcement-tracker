@@ -1,4 +1,5 @@
 ---
+code: C406FR
 date: 2026-10-14
 country: bd
 place: Shahjalal International Airport, Dhaka

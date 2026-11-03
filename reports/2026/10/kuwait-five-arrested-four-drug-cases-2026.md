@@ -1,4 +1,5 @@
 ---
+code: 9CZ3AB
 date: 2026-10-29
 country: kw
 place: Kuwait

@@ -1,4 +1,5 @@
 ---
+code: RQRDQ2
 date: 2026-10-22
 country: mu
 place: Résidence Kennedy, Quatre-Bornes

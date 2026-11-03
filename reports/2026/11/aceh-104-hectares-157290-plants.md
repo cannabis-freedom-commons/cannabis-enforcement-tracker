@@ -1,4 +1,5 @@
 ---
+code: RMY6K4
 date: 2026-11-01
 country: id
 place: Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and Nagan Raya, Aceh

@@ -1,4 +1,5 @@
 ---
+code: 2D86YP
 date: 2025-12-22
 country: mx
 place: Mascota, Jalisco

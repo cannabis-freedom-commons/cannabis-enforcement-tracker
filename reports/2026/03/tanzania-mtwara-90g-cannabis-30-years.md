@@ -1,4 +1,5 @@
 ---
+code: FDKYXZ
 date: 2026-03-27
 country: tz
 place: Bomba la Bure, Magomeni Ward, Mtwara

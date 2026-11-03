@@ -1,4 +1,5 @@
 ---
+code: D3AM3V
 date: 2026-10-22
 country: dz
 place: Bir Mourad Raïs, Algiers

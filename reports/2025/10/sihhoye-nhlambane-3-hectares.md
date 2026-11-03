@@ -1,4 +1,5 @@
 ---
+code: RQ3N43
 date: 2025-10-28
 country: sz
 place: Nhlambane area, Sihhoye, Tshaneni Police Station area

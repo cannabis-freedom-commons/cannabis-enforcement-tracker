@@ -1,4 +1,5 @@
 ---
+code: XQ62EQ
 date: 2026-10-22
 country: fr
 place: Wood at Amilly, Loiret

@@ -1,4 +1,5 @@
 ---
+code: 0X27W4
 date: 2026-10-29
 country: es
 place: Calle Barrancal, Vitoria-Gasteiz

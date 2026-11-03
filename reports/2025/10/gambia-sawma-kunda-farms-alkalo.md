@@ -1,4 +1,5 @@
 ---
+code: K12ZPX
 date: 2025-10-10
 country: gm
 place: Sawma Kunda and Mbafaf villages, Central River Region

@@ -1,4 +1,5 @@
 ---
+code: X8739J
 date: 2026-10-30
 country: in
 place: Dhanupur, Handia, Prayagraj district, Uttar Pradesh

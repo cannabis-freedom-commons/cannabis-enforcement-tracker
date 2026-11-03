@@ -1,4 +1,5 @@
 ---
+code: 5K298A
 date: 2026-11-01
 country: pk
 place: Paharpur, Dera Ismail Khan

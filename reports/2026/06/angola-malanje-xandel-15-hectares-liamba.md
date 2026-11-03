@@ -1,4 +1,5 @@
 ---
+code: A64JCM
 date: 2026-06-16
 country: ao
 place: Seca and Bamba neighbourhoods, Xandel and Cambundi Catembo, Malanje

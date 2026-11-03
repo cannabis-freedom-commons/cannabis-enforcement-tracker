@@ -1,4 +1,5 @@
 ---
+code: S8PGM5
 date: 2026-10-16
 country: gb
 place: Little Horton Lane, Bradford

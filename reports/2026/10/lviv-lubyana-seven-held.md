@@ -1,4 +1,5 @@
 ---
+code: C042EP
 date: 2026-10-19
 country: ua
 place: "Lub'yana, Trostianets community, Stryi district"

@@ -1,4 +1,5 @@
 ---
+code: HW2ZT8
 date: 2026-10-26
 country: in
 place: Churk Mor, Sonbhadra district, Uttar Pradesh

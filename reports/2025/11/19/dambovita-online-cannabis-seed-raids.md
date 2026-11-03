@@ -1,4 +1,5 @@
 ---
+code: WK9G76
 date: 2025-11-19
 country: ro
 place: Dâmbovița County

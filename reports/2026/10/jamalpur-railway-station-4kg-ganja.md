@@ -1,4 +1,5 @@
 ---
+code: 60T522
 date: 2026-10-28
 country: in
 place: Platform 1, Jamalpur railway station, Jamalpur, Munger district, Bihar

@@ -1,4 +1,5 @@
 ---
+code: XT49Z0
 date: 2026-11-02
 country: np
 place: Chyandanda, Dharan Sub-Metropolitan City-20, Sunsari

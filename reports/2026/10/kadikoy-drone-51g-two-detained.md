@@ -1,4 +1,5 @@
 ---
+code: 3BSTT9
 date: 2026-10-30
 country: tr
 place: Rasimpaşa Mahallesi, Kadıköy, Istanbul

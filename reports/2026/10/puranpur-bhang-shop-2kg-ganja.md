@@ -1,4 +1,5 @@
 ---
+code: HGW3FQ
 date: 2026-10-30
 country: in
 place: Puranpur, Pilibhit district, Uttar Pradesh

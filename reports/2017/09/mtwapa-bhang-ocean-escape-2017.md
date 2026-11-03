@@ -1,4 +1,5 @@
 ---
+code: GWZQM4
 date: 2017-09-04
 country: ke
 place: Mtwapa, Kilifi County

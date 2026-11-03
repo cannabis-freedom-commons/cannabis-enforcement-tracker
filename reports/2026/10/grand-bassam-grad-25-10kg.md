@@ -1,4 +1,5 @@
 ---
+code: PB6B1V
 date: 2026-10-22
 country: ci
 place: Grand-Bassam, Sud-Comoé

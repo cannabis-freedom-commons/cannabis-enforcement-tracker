@@ -1,4 +1,5 @@
 ---
+code: X0HJAH
 date: 2026-03-18
 country: py
 place: Colonias Estrella, San Luis, Tres Palos, Timbori and San José, Amambay

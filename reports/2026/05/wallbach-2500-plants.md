@@ -1,4 +1,5 @@
 ---
+code: WP86SV
 date: 2026-05-26
 country: ch
 place: Wallbach, Aargau

@@ -1,4 +1,5 @@
 ---
+code: NDD6JG
 date: 2026-10-15
 country: in
 place: Kamalnagar Krishnadola, Sonamura, Sepahijala

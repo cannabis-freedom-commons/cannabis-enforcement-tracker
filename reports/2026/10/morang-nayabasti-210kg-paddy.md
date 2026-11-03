@@ -1,4 +1,5 @@
 ---
+code: ADX2EY
 date: 2026-10-05
 country: np
 place: Naya Basti, Jahada-1, Morang

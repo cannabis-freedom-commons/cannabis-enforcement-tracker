@@ -1,4 +1,5 @@
 ---
+code: ESKE5H
 date: 2026-11-01
 country: cl
 place: Boca Sur, San Pedro de la Paz, Biobío

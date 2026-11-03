@@ -1,4 +1,5 @@
 ---
+code: RM0GR2
 date: 2026-10-30
 country: in
 place: Khedipura, Harda, Madhya Pradesh

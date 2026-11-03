@@ -1,4 +1,5 @@
 ---
+code: 8FRNXY
 date: 2026-10-30
 country: id
 place: Kampung Boncos, Palmerah, West Jakarta

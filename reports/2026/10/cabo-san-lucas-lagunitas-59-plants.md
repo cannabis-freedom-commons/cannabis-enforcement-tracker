@@ -1,4 +1,5 @@
 ---
+code: A44ME2
 date: 2026-10-27
 country: mx
 place: Colonia Lagunitas 2, Cabo San Lucas, Baja California Sur

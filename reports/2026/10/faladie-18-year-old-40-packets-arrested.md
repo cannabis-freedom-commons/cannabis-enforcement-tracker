@@ -1,4 +1,5 @@
 ---
+code: 1GEESE
 date: 2026-10-17
 country: ml
 place: Check-point at École de la Gendarmerie de Faladié, Faladié

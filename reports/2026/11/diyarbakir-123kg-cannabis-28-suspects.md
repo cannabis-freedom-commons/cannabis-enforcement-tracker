@@ -1,4 +1,5 @@
 ---
+code: GT7S0W
 date: 2026-11-02
 country: tr
 place: Diyarbakır province

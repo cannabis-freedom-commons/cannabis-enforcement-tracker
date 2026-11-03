@@ -1,4 +1,5 @@
 ---
+code: NZYT5J
 date: 2026-09-28
 country: ru
 place: Dukhovskoye, Primorsky Krai

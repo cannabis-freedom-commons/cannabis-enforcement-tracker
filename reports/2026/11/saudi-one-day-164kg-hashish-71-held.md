@@ -1,4 +1,5 @@
 ---
+code: PVHXNW
 date: 2026-11-02
 country: sa
 place: Jazan, Asir, Eastern Province, Northern Borders, Al-Jawf and Qassim regions, Saudi Arabia

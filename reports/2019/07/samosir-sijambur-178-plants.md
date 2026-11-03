@@ -1,4 +1,5 @@
 ---
+code: YP6YFV
 date: 2019-07-26
 country: id
 place: Sijambur, Ronggur Nihuta, Samosir, North Sumatra

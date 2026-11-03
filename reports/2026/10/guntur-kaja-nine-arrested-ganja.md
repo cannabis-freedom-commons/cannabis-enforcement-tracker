@@ -1,4 +1,5 @@
 ---
+code: 9EYPJA
 date: 2026-10-30
 country: in
 place: Kaja Venkatareddypalem, Mangalagiri mandal, Guntur district, Andhra Pradesh

@@ -1,4 +1,5 @@
 ---
+code: XCYVEN
 date: 2026-09-11
 country: us/or
 place: 91597 Newman Place, Coos Bay

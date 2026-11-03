@@ -1,4 +1,5 @@
 ---
+code: CHZ1DR
 date: 2026-10-29
 country: ru
 place: Kochubeyevsky District, Stavropol Krai

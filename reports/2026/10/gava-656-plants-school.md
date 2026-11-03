@@ -1,4 +1,5 @@
 ---
+code: JYW1E7
 date: 2026-10-28
 country: es
 place: Gavà, Baix Llobregat, Barcelona

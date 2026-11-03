@@ -1,4 +1,5 @@
 ---
+code: 898E3B
 date: 2026-10-29
 country: fr
 place: Béziers, Hérault

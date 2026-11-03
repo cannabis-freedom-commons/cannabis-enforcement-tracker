@@ -1,4 +1,5 @@
 ---
+code: S8WTKR
 date: 2026-11-02
 country: mx
 place: Fraccionamiento Rincones de Puebla, Mexicali, Baja California

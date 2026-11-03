@@ -1,4 +1,5 @@
 ---
+code: MDCX3Y
 date: 2026-10-16
 country: ru
 place: Belev, Tula Oblast

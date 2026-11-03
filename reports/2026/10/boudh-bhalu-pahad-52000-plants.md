@@ -1,4 +1,5 @@
 ---
+code: 7RAPSW
 date: 2026-10-14
 country: in
 place: Bhalu Pahad forest, Bagidia village, Boudh

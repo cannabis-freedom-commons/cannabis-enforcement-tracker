@@ -1,4 +1,5 @@
 ---
+code: 26QYWK
 date: 2026-10-20
 country: fr
 place: Vendôme, Loir-et-Cher

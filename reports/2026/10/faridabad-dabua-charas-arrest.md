@@ -1,4 +1,5 @@
 ---
+code: DTKJVS
 date: 2026-10-30
 country: in
 place: Dabua police station area, Faridabad, Haryana

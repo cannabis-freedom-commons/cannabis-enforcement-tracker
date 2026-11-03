@@ -1,4 +1,5 @@
 ---
+code: 7VZGVC
 date: 2016-05-30
 country: tr
 place: Efeler Mahallesi, Didim, Aydın

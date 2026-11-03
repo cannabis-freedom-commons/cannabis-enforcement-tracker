@@ -1,4 +1,5 @@
 ---
+code: 5QMRZQ
 date: 2026-06-29
 country: ru
 place: Roshchino, Primorsky Krai

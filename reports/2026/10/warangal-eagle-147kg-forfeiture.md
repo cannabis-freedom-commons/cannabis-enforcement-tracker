@@ -1,4 +1,5 @@
 ---
+code: 4JFGSN
 date: 2026-10-28
 country: in
 place: Warangal, Telangana

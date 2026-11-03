@@ -1,4 +1,5 @@
 ---
+code: AVV526
 date: 2025-09-28
 country: cn
 place: Dehong Dai and Jingpo Autonomous Prefecture, Yunnan

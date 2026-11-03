@@ -1,4 +1,5 @@
 ---
+code: 12SNYH
 date: 2026-10-29
 country: mx
 place: Avenida de los Nogales, Nogales, Sonora

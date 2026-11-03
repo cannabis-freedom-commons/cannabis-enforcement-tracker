@@ -1,4 +1,5 @@
 ---
+code: YVPD7P
 date: 2026-10-30
 country: cl
 place: Calle Bulnes 400, Los Ángeles, Biobío

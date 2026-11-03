@@ -1,4 +1,5 @@
 ---
+code: 387FD8
 date: 2026-11-01
 country: in
 place: Silasu bridge, Nainbag, Tehri, Uttarakhand

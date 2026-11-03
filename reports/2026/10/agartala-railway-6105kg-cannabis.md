@@ -1,4 +1,5 @@
 ---
+code: 8G3PB8
 date: 2026-10-28
 country: in
 place: Agartala Railway Station, platform no. 1, Agartala, Tripura

@@ -1,4 +1,5 @@
 ---
+code: BMQ3VZ
 date: 2026-06-14
 country: sy
 place: Deir ez-Zor and Homs governorates, Syria

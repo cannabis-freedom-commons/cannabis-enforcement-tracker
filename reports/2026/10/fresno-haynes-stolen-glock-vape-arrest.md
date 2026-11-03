@@ -1,4 +1,5 @@
 ---
+code: GJ09XY
 date: 2026-10-05
 country: us/ca
 place: Mildreda Avenue and North College Street, Fresno

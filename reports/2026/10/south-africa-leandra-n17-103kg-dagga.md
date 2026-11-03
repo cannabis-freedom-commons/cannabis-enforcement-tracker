@@ -1,4 +1,5 @@
 ---
+code: 0XNC4S
 date: 2026-10-19
 country: za
 place: N17 near Leandra, Mpumalanga

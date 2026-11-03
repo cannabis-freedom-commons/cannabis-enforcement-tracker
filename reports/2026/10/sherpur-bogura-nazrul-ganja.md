@@ -1,4 +1,5 @@
 ---
+code: 4HFR82
 date: 2026-10-29
 country: bd
 place: Dublagari, Shah-Bandegi, Sherpur, Bogura

@@ -1,4 +1,5 @@
 ---
+code: 8HZJE9
 date: 2026-06-03
 country: lv
 place: Rēzekne, Latvia

@@ -1,4 +1,5 @@
 ---
+code: 27N8H4
 date: 2026-09-03
 country: id
 place: Hinai and Besitang, Langkat; Hamparan Perak, Deli Serdang, North Sumatra

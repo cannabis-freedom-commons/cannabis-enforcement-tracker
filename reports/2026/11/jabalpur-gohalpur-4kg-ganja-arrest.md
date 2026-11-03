@@ -1,4 +1,5 @@
 ---
+code: EV23WR
 date: 2026-11-01
 country: in
 place: Kudwari, near Kali Mata temple, Gohalpur, Jabalpur, Madhya Pradesh

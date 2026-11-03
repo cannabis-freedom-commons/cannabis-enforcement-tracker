@@ -1,4 +1,5 @@
 ---
+code: Q3EAV2
 date: 2026-10-25
 country: it
 place: Ottana countryside, Nuoro, Sardinia

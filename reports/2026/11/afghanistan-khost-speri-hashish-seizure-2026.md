@@ -1,4 +1,5 @@
 ---
+code: 16NPSW
 date: 2026-11-02
 country: af
 place: Speri district, Khost province

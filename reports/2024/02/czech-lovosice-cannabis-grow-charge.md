@@ -1,4 +1,5 @@
 ---
+code: HHW0G9
 date: 2024-02-20
 country: cz
 place: Lovosicko, Litoměřice District

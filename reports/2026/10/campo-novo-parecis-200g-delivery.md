@@ -1,4 +1,5 @@
 ---
+code: 4WZ062
 date: 2026-10-29
 country: br
 place: Jardim das Palmeiras, Campo Novo do Parecis, Mato Grosso

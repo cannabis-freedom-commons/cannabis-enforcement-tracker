@@ -1,4 +1,5 @@
 ---
+code: JN3DTS
 date: 2026-05-22
 country: ru
 place: Khimki, Moscow Oblast

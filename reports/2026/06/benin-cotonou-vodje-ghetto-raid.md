@@ -1,4 +1,5 @@
 ---
+code: 1100GY
 date: 2026-06-30
 country: bj
 place: Vodjè district, Cotonou

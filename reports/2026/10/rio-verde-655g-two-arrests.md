@@ -1,4 +1,5 @@
 ---
+code: JEG0XZ
 date: 2026-10-31
 country: br
 place: Jardim dos Estados, Rio Verde de Mato Grosso, Mato Grosso do Sul

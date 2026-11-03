@@ -1,4 +1,5 @@
 ---
+code: 0VKHTP
 date: 2026-10-03
 country: in
 place: Forest near Venkatapallam village, Kalimela, Malkangiri district, Odisha

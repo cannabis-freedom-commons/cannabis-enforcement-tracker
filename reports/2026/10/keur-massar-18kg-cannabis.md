@@ -1,4 +1,5 @@
 ---
+code: CRJ2BQ
 date: 2026-10-03
 country: sn
 place: Keur Massar, Dakar region

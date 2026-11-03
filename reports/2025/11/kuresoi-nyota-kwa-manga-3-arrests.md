@@ -1,4 +1,5 @@
 ---
+code: DPAYBG
 date: 2025-11-30
 country: ke
 place: Kwa Manga, Nyota, Kuresoi North, Nakuru

@@ -1,4 +1,5 @@
 ---
+code: G15ZZ6
 date: 2026-10-30
 country: in
 place: Anchalpur, Rajendragram, Anuppur district, Madhya Pradesh

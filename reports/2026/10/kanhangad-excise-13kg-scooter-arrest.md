@@ -1,4 +1,5 @@
 ---
+code: V23S1Y
 date: 2026-10-29
 country: in
 place: Kanhangad, Kasaragod district, Kerala

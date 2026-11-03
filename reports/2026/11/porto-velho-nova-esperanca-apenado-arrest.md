@@ -1,4 +1,5 @@
 ---
+code: XQXYG2
 date: 2026-11-01
 country: br
 place: Rua Raquel de Queiroz, Nova Esperança, Porto Velho

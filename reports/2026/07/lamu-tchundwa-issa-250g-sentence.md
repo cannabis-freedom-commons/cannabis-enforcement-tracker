@@ -1,4 +1,5 @@
 ---
+code: XVQFXR
 date: 2026-07-29
 country: ke
 place: Tchundwa Village, Lamu East

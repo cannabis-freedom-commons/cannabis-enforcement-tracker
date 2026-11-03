@@ -1,4 +1,5 @@
 ---
+code: QJ1CHP
 date: 2026-10-13
 country: gl
 place: Nuuk Airport, Nuuk, Greenland

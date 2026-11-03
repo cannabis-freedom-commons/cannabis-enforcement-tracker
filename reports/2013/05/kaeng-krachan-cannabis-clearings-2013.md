@@ -1,4 +1,5 @@
 ---
+code: BTYQ8W
 date: 2013-05-01
 country: th
 place: Ban Jai Paen Din, Huai Mae Phriang, Kaeng Krachan district, Phetchaburi

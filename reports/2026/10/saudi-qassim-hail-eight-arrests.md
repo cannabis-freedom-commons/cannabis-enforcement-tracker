@@ -1,4 +1,5 @@
 ---
+code: 2G3GF7
 date: 2026-10-30
 country: sa
 place: Qassim and Hail regions, Saudi Arabia

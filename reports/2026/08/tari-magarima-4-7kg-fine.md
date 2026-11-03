@@ -1,4 +1,5 @@
 ---
+code: ANBTEV
 date: 2026-08-10
 country: pg
 place: Tari, Hela Province

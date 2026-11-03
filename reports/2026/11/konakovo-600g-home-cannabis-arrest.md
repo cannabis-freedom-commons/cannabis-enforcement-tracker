@@ -1,4 +1,5 @@
 ---
+code: R51D0D
 date: 2026-11-02
 country: ru
 place: Baskakova Street, Konakovo, Tver Oblast

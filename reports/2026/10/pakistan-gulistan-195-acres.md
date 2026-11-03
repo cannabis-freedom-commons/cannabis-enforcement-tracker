@@ -1,4 +1,5 @@
 ---
+code: XRB4D3
 date: 2026-10-24
 country: pk
 place: Gulistan tehsil, Qila Abdullah district, Balochistan

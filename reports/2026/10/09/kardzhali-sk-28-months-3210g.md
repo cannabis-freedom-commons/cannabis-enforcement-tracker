@@ -1,4 +1,5 @@
 ---
+code: 1063NE
 date: 2026-10-09
 country: bg
 place: Verben, Kirkovo municipality, Kardzhali

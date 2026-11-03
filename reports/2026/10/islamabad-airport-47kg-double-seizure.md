@@ -1,4 +1,5 @@
 ---
+code: 0ZG4DX
 date: 2026-10-02
 country: pk
 place: Islamabad International Airport

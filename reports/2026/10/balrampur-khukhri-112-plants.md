@@ -1,4 +1,5 @@
 ---
+code: VNVAVZ
 date: 2026-10-03
 country: in
 place: Rakhetpara, Khukhri village, Balrampur district, Chhattisgarh

@@ -1,4 +1,5 @@
 ---
+code: QYXJ1K
 date: 2026-02-09
 country: ar
 place: Monte Encantado, La Banda, Santiago del Estero

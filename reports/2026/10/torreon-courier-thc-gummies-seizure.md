@@ -1,4 +1,5 @@
 ---
+code: VCYT3M
 date: 2026-10-31
 country: mx
 place: Zona industrial, Torreón, Coahuila

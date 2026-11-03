@@ -1,4 +1,5 @@
 ---
+code: MYAKP0
 date: 2026-10-01
 country: in
 place: Kotda Gadhi, Magra Falia, Poshina taluka, Sabarkantha

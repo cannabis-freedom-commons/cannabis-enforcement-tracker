@@ -1,4 +1,5 @@
 ---
+code: H6S92Q
 date: 2026-09-09
 country: cr
 place: Telire district, Talamanca canton, Limón Province

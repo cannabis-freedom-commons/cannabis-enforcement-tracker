@@ -1,4 +1,5 @@
 ---
+code: NE3KES
 date: 2026-09-15
 country: vn
 place: Hạ Hamlet, Phụng Công Commune, Hưng Yên

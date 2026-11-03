@@ -1,4 +1,5 @@
 ---
+code: P8Q332
 date: 2016-05-26
 country: ca/on
 place: 43 dispensaries across Toronto

@@ -1,4 +1,5 @@
 ---
+code: PTHV40
 date: 2026-09-17
 country: id
 place: Lambada, Lamteuba, Seulimuem, Aceh Besar

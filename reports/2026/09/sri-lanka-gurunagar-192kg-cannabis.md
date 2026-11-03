@@ -1,4 +1,5 @@
 ---
+code: M69KY7
 date: 2026-09-24
 country: lk
 place: Gurunagar lagoon area, Jaffna

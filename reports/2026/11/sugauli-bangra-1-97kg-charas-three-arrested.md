@@ -1,4 +1,5 @@
 ---
+code: CAMG63
 date: 2026-11-03
 country: in
 place: Bangra overbridge, Sugauli, East Champaran district, Bihar

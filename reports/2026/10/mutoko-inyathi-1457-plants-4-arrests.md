@@ -1,4 +1,5 @@
 ---
+code: 2HG0VR
 date: 2026-10-16
 country: zw
 place: Mutize Village, Mutoko and Inyathi mine compound

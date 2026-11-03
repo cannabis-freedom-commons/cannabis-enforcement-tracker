@@ -1,4 +1,5 @@
 ---
+code: 42YH9T
 date: 2026-10-28
 country: in
 place: Dadha Mor, Chatra–Jori main road, Chatra, Jharkhand

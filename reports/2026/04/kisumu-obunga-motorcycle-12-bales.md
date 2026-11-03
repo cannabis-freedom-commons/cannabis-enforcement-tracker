@@ -1,4 +1,5 @@
 ---
+code: RFB1B5
 date: 2026-04-09
 country: ke
 place: Obunga, Kisumu Central

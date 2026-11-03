@@ -1,4 +1,5 @@
 ---
+code: 56SH8W
 date: 2026-03-18
 country: au
 place: Spring Creek Road, Young, New South Wales

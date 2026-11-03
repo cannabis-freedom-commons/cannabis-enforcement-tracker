@@ -1,4 +1,5 @@
 ---
+code: 8ABR5E
 date: 2026-06-10
 country: ru
 place: Kamysh, Pestrechinsky district, Tatarstan

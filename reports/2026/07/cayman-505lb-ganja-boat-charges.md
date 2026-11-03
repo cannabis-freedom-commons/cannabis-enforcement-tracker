@@ -1,4 +1,5 @@
 ---
+code: WT5QZ5
 date: 2026-07-14
 country: ky
 place: South coast of Grand Cayman, near Frank Sound

@@ -1,4 +1,5 @@
 ---
+code: RQRSVJ
 date: 2026-01-20
 country: ru
 place: Kulaikovo and Sinkovo, Ramensky district, Moscow Oblast

@@ -1,4 +1,5 @@
 ---
+code: P4FKEN
 date: 2025-12-09
 country: us/sc
 place: Richland and Lexington counties, Columbia area

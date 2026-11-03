@@ -1,4 +1,5 @@
 ---
+code: C287RT
 date: 2026-10-08
 country: us/ri
 place: Providence and Cranston, Rhode Island

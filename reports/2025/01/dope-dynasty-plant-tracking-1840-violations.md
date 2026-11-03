@@ -1,4 +1,5 @@
 ---
+code: E6E375
 date: 2025-01-02
 country: us/ak
 place: Dope Dynasty cultivation facility, Wasilla

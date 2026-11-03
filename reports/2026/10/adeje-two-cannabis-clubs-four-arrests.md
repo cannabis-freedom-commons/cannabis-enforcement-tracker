@@ -1,4 +1,5 @@
 ---
+code: JQDE7T
 date: 2026-10-29
 country: es
 place: Adeje, Tenerife

@@ -1,4 +1,5 @@
 ---
+code: X020KG
 date: 2025-10-19
 country: ph
 place: Sitio Benigno Aquino, Barangay Miasong, Tupi, South Cotabato

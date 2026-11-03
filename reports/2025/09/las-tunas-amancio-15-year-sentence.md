@@ -1,4 +1,5 @@
 ---
+code: D63KS5
 date: 2025-09-27
 country: cu
 place: Las Tunas city, Las Tunas Province

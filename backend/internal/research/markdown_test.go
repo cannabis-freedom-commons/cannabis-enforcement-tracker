@@ -27,7 +27,7 @@ func TestMarkdownLooksLikeAReport(t *testing.T) {
 	r.Submission = "0123456789abcdef0123456789abcdef"
 	md := r.Markdown()
 	for _, want := range []string{
-		"---\ndate: 2026-01-02\ncountry: th\nplace: Chiang Mai\ncoordinates: [18.79, 98.98]\nprecision: locality\ntype: raid\nalso: [arrest]\n",
+		"---\ncode: MZ48CH\ndate: 2026-01-02\ncountry: th\nplace: Chiang Mai\ncoordinates: [18.79, 98.98]\nprecision: locality\ntype: raid\nalso: [arrest]\n",
 		"summary: >-\n  Police raided",
 		"figures:\n  arrested: 2\n  kg_seized: 12.5\n  value:\n    amount: 300000\n    currency: THB\n",
 		"status: reported\ncreated_by_model: fixture/research-model\nsubmission: 0123456789abcdef0123456789abcdef\ntags: [opium]\nsources:\n  - title: News story\n    url: https://news.example/a\n    publisher: Publisher\n    date: 2026-01-03\n    language: th\n---\n",

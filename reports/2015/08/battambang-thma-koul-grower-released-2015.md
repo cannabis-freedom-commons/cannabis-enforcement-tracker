@@ -1,4 +1,5 @@
 ---
+code: S2X19Z
 date: 2015-08-09
 country: kh
 place: Tameun commune, Thma Koul district, Battambang

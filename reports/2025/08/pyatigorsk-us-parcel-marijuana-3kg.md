@@ -1,4 +1,5 @@
 ---
+code: S87D3A
 date: 2025-08-12
 country: ru
 place: Pyatigorsk, Stavropol Krai

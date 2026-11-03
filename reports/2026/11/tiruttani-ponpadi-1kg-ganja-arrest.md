@@ -1,4 +1,5 @@
 ---
+code: 0SCMPB
 date: 2026-11-01
 country: in
 place: Ponpadi checkpost, Tiruttani, Thiruvallur district, Tamil Nadu

@@ -1,4 +1,5 @@
 ---
+code: 6SBWHF
 date: 2026-10-31
 country: ru
 place: Volgograd

@@ -1,4 +1,5 @@
 ---
+code: QTDCPY
 date: 2017-06-09
 country: ru
 place: Romny, Krasnoarmeysky district, Primorsky Krai

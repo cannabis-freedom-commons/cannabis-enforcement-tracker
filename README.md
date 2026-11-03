@@ -98,6 +98,7 @@ agency valued them at …"). No law-number lists, no adjectives the source does 
 
 ```yaml
 ---
+code: "7KQ2MX"                  # REQUIRED permanent CET id; npm run codes -- <report paths> assigns it
 date: 2026-08-17                 # when it happened (a campaign: when it ended or was announced)
 country: ng                      # a CFI country file: "de", "th"; a state: "us/ca", "au/act"
 place: Igbanke forest, Orhionmwon, Edo State     # optional
@@ -147,6 +148,11 @@ sources:                         # at least one
 The Edo State command of Nigeria's National Drug Law Enforcement Agency (NDLEA) destroyed two
 cannabis farms … [@1] A day later, … [@2]
 ```
+
+Run `npm run codes -- <new/updated report paths>` before building or committing skill-written
+reports. Codes are six-character strings (quote all-digit values), assigned once and preserved
+on updates, slug changes and date-folder moves. The backend assigns them automatically.
+`npm run codes` without paths fills missing codes across the repository.
 
 The rules live in two places, both run by `npm run build`:
 

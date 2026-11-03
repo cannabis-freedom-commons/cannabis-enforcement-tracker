@@ -1,4 +1,5 @@
 ---
+code: EBDH25
 date: 2026-10-21
 country: ru
 place: Glebkovo, Ryazan Oblast

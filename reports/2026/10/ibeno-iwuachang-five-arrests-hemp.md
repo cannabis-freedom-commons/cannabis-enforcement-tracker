@@ -1,4 +1,5 @@
 ---
+code: SAF74A
 date: 2026-10-22
 country: ng
 place: Iwuachang Village, Ibeno, Akwa Ibom State

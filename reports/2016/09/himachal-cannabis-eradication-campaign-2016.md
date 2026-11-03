@@ -1,4 +1,5 @@
 ---
+code: HSM4T1
 date: 2016-09-05
 country: in
 place: Himachal Pradesh, focussed on Kullu district

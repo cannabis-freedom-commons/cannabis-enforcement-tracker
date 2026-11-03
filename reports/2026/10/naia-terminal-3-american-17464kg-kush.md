@@ -1,4 +1,5 @@
 ---
+code: Q4AADK
 date: 2026-10-29
 country: ph
 place: Ninoy Aquino International Airport Terminal 3, Pasay City

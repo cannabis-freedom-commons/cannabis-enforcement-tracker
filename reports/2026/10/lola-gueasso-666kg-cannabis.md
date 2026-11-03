@@ -1,4 +1,5 @@
 ---
+code: FJQ2SV
 date: 2026-10-29
 country: gn
 place: Dongola, Zessou district, Guéasso, Lola Prefecture, N'Zérékoré

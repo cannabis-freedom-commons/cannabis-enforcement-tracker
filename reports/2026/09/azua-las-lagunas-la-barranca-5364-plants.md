@@ -1,4 +1,5 @@
 ---
+code: HYVCK6
 date: 2026-09-11
 country: do
 place: Las Lagunas and La Barranca, Azua Province

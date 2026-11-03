@@ -1,4 +1,5 @@
 ---
+code: 9APA5A
 date: 2018-04-01
 country: tr
 place: Silvan road, Diyarbakır

@@ -1,4 +1,5 @@
 ---
+code: WZ9SH6
 date: 2026-09-23
 country: us/sc
 place: Gibbs Road, Laurens, Laurens County, South Carolina

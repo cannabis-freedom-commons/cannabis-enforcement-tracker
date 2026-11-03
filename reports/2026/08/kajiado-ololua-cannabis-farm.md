@@ -1,4 +1,5 @@
 ---
+code: ZXT0QH
 date: 2026-08-01
 country: ke
 place: Ololua, Kajiado

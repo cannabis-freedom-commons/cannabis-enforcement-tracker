@@ -1,4 +1,5 @@
 ---
+code: GS2ZWP
 date: 2025-07-10
 country: is
 place: Hafnarfjörður and Capital Region, Iceland

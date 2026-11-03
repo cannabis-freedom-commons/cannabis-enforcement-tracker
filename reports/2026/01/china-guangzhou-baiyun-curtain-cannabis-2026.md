@@ -1,4 +1,5 @@
 ---
+code: R0RYB9
 date: 2026-01-16
 country: cn
 place: Guangzhou Baiyun International Airport, Guangdong

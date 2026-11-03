@@ -1,4 +1,5 @@
 ---
+code: AZT2XV
 date: 2026-10-18
 country: fr
 place: Asnières-sur-Seine, Hauts-de-Seine

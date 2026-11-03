@@ -1,4 +1,5 @@
 ---
+code: G46CTN
 date: 2026-10-30
 country: in
 place: Dumurdah bus stand, Balagarh, Hooghly district, West Bengal

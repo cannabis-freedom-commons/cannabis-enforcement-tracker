@@ -1,4 +1,5 @@
 ---
+code: M4NX50
 date: 2026-10-16
 country: cl
 place: Coyhaique, Aysén

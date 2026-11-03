@@ -1,4 +1,5 @@
 ---
+code: J87Q1E
 date: 2026-10-22
 country: mx
 place: La Yesca, Nayarit

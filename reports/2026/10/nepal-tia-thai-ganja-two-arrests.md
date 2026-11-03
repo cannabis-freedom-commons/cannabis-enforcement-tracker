@@ -1,4 +1,5 @@
 ---
+code: ZS8C79
 date: 2026-10-27
 country: np
 place: Tribhuvan International Airport, Kathmandu

@@ -1,4 +1,5 @@
 ---
+code: WM7GWW
 date: 2026-09-26
 country: by
 place: Belarus–Russia border, Vitebsk Region

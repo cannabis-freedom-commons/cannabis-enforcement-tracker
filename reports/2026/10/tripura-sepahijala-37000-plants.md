@@ -1,4 +1,5 @@
 ---
+code: CKA77X
 date: 2026-10-16
 country: in
 place: Radhanagar, Debipur and Urangan Bari, Sepahijala

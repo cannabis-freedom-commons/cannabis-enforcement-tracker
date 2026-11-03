@@ -1,4 +1,5 @@
 ---
+code: T6QMGB
 date: 2026-04-08
 country: mw
 place: Mwanza Border, Mwanza District, Malawi

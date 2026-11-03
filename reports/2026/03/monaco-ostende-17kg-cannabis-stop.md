@@ -1,4 +1,5 @@
 ---
+code: KZTYC2
 date: 2026-03-24
 country: mc
 place: Avenue d'Ostende, Monaco

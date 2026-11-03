@@ -51,7 +51,7 @@ const reports = defineCollection({
     const { updated_by_models, ...report } = value as Record<string, unknown>;
     return report;
   }, z.object({
-    code: z.string().regex(/^[0-9A-HJKMNP-TV-Z]{6}$/, { message: "six characters of Crockford base32; npm run codes writes it" }).optional(), // the permanent short id, CET-XXXXXX (scripts/codes.mjs)
+    code: z.string().regex(/^[0-9A-HJKMNP-TV-Z]{6}$/, { message: "six characters of Crockford base32; npm run codes writes it" }), // required permanent short id, CET-XXXXXX (scripts/codes.mjs)
     date: day, // when it happened (or, for a campaign, when it ended or was announced)
     country: z.enum(COUNTRY_IDS), // a country file of the Cannabis Freedom Index: "de", "us/ca"
     place: z.string().min(1).optional(),

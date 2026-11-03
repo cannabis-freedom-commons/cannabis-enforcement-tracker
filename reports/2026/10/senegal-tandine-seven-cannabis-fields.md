@@ -1,4 +1,5 @@
 ---
+code: 2AFN3F
 date: 2026-10-17
 country: sn
 place: Tandine area, North Sindian, Bignona, Casamance

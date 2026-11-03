@@ -1,4 +1,5 @@
 ---
+code: C07Z32
 date: 2026-03-04
 country: se
 place: Eastern Norrbotten

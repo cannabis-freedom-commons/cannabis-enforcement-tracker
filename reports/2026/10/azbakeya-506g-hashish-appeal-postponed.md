@@ -1,4 +1,5 @@
 ---
+code: CCERXX
 date: 2026-10-31
 country: eg
 place: Azbakeya, Cairo

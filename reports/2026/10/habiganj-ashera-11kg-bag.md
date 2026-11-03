@@ -1,4 +1,5 @@
 ---
+code: WE143Z
 date: 2026-10-30
 country: bd
 place: Ashera area, Lokra Union, Habiganj Sadar

@@ -1,4 +1,5 @@
 ---
+code: GF8J9T
 date: 2026-06-26
 country: cn
 place: Qujing Economic Development Zone, Yunnan

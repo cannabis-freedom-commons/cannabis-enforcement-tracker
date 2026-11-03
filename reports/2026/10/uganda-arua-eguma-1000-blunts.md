@@ -1,4 +1,5 @@
 ---
+code: NQZHRH
 date: 2026-10-22
 country: ug
 place: Link Bus Terminal, Arua City

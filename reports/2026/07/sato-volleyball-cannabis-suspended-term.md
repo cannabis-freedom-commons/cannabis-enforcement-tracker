@@ -1,4 +1,5 @@
 ---
+code: 8WCGAF
 date: 2026-07-31
 country: jp
 place: Tokyo District Court, Kasumigaseki, Tokyo

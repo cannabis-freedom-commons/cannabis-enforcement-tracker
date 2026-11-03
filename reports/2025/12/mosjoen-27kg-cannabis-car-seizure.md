@@ -1,4 +1,5 @@
 ---
+code: G6T94B
 date: 2025-12-15
 country: no
 place: Mosjøen, Nordland

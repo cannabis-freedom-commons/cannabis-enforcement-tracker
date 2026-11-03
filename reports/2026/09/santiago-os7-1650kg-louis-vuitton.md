@@ -1,4 +1,5 @@
 ---
+code: GMW84A
 date: 2026-09-10
 country: cl
 place: Santiago Metropolitan Region (cargo from Antofagasta)

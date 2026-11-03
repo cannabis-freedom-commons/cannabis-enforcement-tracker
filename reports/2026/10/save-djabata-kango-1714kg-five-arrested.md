@@ -1,4 +1,5 @@
 ---
+code: TSQYBD
 date: 2026-10-11
 country: bj
 place: Djabata Kango, Bessé, Savè, Collines

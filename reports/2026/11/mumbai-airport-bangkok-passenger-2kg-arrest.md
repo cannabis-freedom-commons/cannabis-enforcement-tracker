@@ -1,4 +1,5 @@
 ---
+code: KD3MPZ
 date: 2026-11-01
 country: in
 place: Chhatrapati Shivaji Maharaj International Airport, Mumbai

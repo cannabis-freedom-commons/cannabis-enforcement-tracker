@@ -1,4 +1,5 @@
 ---
+code: N16E55
 date: 2026-08-20
 country: at
 place: Karawanken Autobahn (A11), Carinthia

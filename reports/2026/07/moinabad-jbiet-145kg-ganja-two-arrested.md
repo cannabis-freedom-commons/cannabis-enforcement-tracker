@@ -1,4 +1,5 @@
 ---
+code: Y5FSKS
 date: 2026-07-14
 country: in
 place: Tea Time, opposite JBIET College, Moinabad, Ranga Reddy

@@ -1,4 +1,5 @@
 ---
+code: YT2NK6
 date: 2026-10-15
 country: in
 place: Mango orchard near Fatehpur, Veerpur, Supaul

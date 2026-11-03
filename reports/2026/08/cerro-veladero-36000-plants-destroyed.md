@@ -1,4 +1,5 @@
 ---
+code: EZVFQK
 date: 2026-08-04
 country: mx
 place: Cerro Veladero, Tijuana municipality, Baja California

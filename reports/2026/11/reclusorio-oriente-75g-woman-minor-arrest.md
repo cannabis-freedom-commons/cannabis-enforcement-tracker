@@ -1,4 +1,5 @@
 ---
+code: F0K69C
 date: 2026-11-02
 country: mx
 place: Reclusorio Preventivo Varonil Oriente, San Lorenzo Tezonco, Iztapalapa, Mexico City

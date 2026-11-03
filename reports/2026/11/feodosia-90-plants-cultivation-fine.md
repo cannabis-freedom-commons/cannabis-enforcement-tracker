@@ -1,4 +1,5 @@
 ---
+code: 4G14S7
 date: 2026-11-02
 country: ru
 place: Feodosia, Crimea

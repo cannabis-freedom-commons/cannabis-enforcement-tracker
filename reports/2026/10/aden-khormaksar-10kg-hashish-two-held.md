@@ -1,4 +1,5 @@
 ---
+code: 8GC726
 date: 2026-10-26
 country: ye
 place: Khormaksar district, Aden

@@ -1,4 +1,5 @@
 ---
+code: Q6T0JG
 date: 2026-07-30
 country: pg
 place: Menyake village, Menyamya, Morobe

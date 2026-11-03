@@ -1,4 +1,5 @@
 ---
+code: JTTQ4B
 date: 2026-11-02
 country: in
 place: Nawabpet village bus stand, Nawabpet, Rangareddy, Telangana

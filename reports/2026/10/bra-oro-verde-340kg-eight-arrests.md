@@ -1,4 +1,5 @@
 ---
+code: 0BF09A
 date: 2026-10-13
 country: it
 place: Sanfrè, Castellinaldo, Bene Vagienna and Ceres, Piedmont

@@ -1,4 +1,5 @@
 ---
+code: NG7Z19
 date: 2026-10-24
 country: cl
 place: Calama, Antofagasta region, Chile

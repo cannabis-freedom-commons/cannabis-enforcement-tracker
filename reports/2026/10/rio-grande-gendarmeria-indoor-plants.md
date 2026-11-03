@@ -1,4 +1,5 @@
 ---
+code: GAS704
 date: 2026-10-11
 country: ar
 place: Río Grande, Tierra del Fuego

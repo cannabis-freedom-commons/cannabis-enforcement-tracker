@@ -1,4 +1,5 @@
 ---
+code: 89SHS8
 date: 2026-08-26
 country: ma
 place: Oulad Hamdane, Sidi Ismail circle, El Jadida province

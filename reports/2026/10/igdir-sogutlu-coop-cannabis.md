@@ -1,4 +1,5 @@
 ---
+code: QJTVRS
 date: 2026-10-26
 country: tr
 place: Söğütlü Mahallesi, Iğdır

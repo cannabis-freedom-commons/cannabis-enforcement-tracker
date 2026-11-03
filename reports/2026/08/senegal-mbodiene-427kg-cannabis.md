@@ -1,4 +1,5 @@
 ---
+code: VBFQEY
 date: 2026-08-29
 country: sn
 place: Mbodiène coast, Mbour Department

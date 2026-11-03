@@ -1,4 +1,5 @@
 ---
+code: DJF9W3
 date: 2026-03-03
 country: bo
 place: Mojón K'asa, Toro Toro, Potosí Department

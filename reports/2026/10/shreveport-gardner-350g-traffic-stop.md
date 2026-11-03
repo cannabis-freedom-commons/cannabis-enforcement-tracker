@@ -1,4 +1,5 @@
 ---
+code: 5JQGFD
 date: 2026-10-20
 country: us/la
 place: Shreveport, Caddo Parish, Louisiana

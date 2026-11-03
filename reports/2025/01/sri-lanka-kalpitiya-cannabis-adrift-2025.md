@@ -1,4 +1,5 @@
 ---
+code: 5JHHDN
 date: 2025-01-10
 country: lk
 place: Kappaladi, Kalpitiya

@@ -1,4 +1,5 @@
 ---
+code: 4F2G52
 date: 2025-06-26
 country: cn
 place: Huangxing, Changsha County, Hunan

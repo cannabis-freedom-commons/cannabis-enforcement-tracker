@@ -1,4 +1,5 @@
 ---
+code: REH9JQ
 date: 2026-08-05
 country: de
 place: Balgstädt, Burgenlandkreis, Saxony-Anhalt

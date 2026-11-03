@@ -1,4 +1,5 @@
 ---
+code: 6RG6SR
 date: 2026-10-23
 country: in
 place: Vadali village, Chotila taluka, Surendranagar district, Gujarat

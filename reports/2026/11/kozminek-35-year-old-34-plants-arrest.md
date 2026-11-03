@@ -1,4 +1,5 @@
 ---
+code: 6C223T
 date: 2026-11-02
 country: pl
 place: Koźminek, Kalisz County, Greater Poland

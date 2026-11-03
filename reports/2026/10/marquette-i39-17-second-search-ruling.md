@@ -1,4 +1,5 @@
 ---
+code: AKFZ2Q
 date: 2026-10-29
 country: us/wi
 place: Interstate 39, Marquette County, Wisconsin

@@ -40,9 +40,7 @@ func CheckReport(dir, rel, content string) error {
 	}
 	c := checker{}
 	c.only(data, "", "code", "date", "country", "place", "coordinates", "precision", "type", "also", "title", "summary", "figures", "cover", "media", "status", "cfi_id", "tags", "created_by_model", "submission", "open_questions", "sources")
-	if v, ok := data["code"]; ok {
-		c.match("code", v, `^[0-9A-HJKMNP-TV-Z]{6}$`)
-	}
+	c.match("code", data["code"], `^[0-9A-HJKMNP-TV-Z]{6}$`)
 	date := c.date("date", data["date"], true)
 	if id, _ := data["country"].(string); !countries[id] {
 		c.fail("country: %q is not a country id of the Cannabis Freedom Index", data["country"])

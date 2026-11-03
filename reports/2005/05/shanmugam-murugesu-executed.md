@@ -1,4 +1,5 @@
 ---
+code: HZ1B93
 date: 2005-05-13
 country: sg
 place: Changi Prison, Singapore

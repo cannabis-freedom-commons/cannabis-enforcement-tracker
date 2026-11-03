@@ -1,4 +1,5 @@
 ---
+code: 77BM7E
 date: 2026-10-29
 country: py
 place: Colonia Indígena Takua Ju, Yby Pytã, Canindeyú

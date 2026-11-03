@@ -1,4 +1,5 @@
 ---
+code: W6Q2B4
 date: 2026-10-30
 country: ar
 place: Campo Contreras and Inmigrantes neighbourhoods, Santiago del Estero

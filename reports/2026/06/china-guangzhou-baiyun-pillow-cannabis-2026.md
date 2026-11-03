@@ -1,4 +1,5 @@
 ---
+code: SBKGQ0
 date: 2026-06-10
 country: cn
 place: Guangzhou Baiyun International Airport, Guangdong

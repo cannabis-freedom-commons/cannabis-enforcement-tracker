@@ -1,4 +1,5 @@
 ---
+code: KHANMN
 date: 2026-07-27
 country: sa
 place: Asir region, Saudi Arabia

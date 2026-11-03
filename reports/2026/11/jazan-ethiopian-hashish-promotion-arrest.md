@@ -1,4 +1,5 @@
 ---
+code: J07S5X
 date: 2026-11-02
 country: sa
 place: Jazan region, Saudi Arabia

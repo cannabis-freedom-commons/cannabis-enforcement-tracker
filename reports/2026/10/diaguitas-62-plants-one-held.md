@@ -1,4 +1,5 @@
 ---
+code: T3XX04
 date: 2026-10-30
 country: cl
 place: Diaguitas, Vicuña, Coquimbo Region

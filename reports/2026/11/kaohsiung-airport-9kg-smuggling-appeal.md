@@ -1,4 +1,5 @@
 ---
+code: NCD6JE
 date: 2026-11-03
 country: tw
 place: Kaohsiung International Airport, Kaohsiung

@@ -1,4 +1,5 @@
 ---
+code: MFMG67
 date: 2026-07-03
 country: ro
 place: Dragomirești, Neamț County

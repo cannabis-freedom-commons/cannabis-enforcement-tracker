@@ -1,4 +1,5 @@
 ---
+code: HPXGQV
 date: 2026-10-14
 country: ga
 place: Mouila, Ngounié

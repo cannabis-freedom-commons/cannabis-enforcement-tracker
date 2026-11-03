@@ -1,4 +1,5 @@
 ---
+code: 3RDH63
 date: 2026-10-04
 country: id
 place: Teupin Rusep and Jurong, Sawang, Aceh Utara

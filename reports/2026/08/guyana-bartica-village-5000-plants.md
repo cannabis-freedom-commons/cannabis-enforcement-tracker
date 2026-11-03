@@ -1,4 +1,5 @@
 ---
+code: TCGQ71
 date: 2026-08-06
 country: gy
 place: Bartica Village, Upper Berbice River, Guyana

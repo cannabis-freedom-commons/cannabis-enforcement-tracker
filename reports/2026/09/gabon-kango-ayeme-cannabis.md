@@ -1,4 +1,5 @@
 ---
+code: 5WF3FN
 date: 2026-09-11
 country: ga
 place: Ayeme-Bokoue, Kango, Estuaire

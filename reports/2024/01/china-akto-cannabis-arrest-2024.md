@@ -1,4 +1,5 @@
 ---
+code: VQQCCY
 date: 2024-01-01
 country: cn
 place: Akto County, Xinjiang, China

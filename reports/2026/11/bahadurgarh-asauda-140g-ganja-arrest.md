@@ -1,4 +1,5 @@
 ---
+code: PTAZKR
 date: 2026-11-01
 country: in
 place: Asauda police station area, Bahadurgarh, Haryana

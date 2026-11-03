@@ -1,4 +1,5 @@
 ---
+code: GXFKD2
 date: 2026-09-21
 country: ca/bc
 place: Vancouver International Airport, Richmond, British Columbia

@@ -1,4 +1,5 @@
 ---
+code: M6E917
 date: 2026-06-29
 country: uy
 place: Parque del Plata, Canelones, and La Unión, Montevideo, Uruguay

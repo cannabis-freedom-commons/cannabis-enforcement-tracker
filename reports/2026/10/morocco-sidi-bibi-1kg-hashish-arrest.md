@@ -1,4 +1,5 @@
 ---
+code: WJWJB3
 date: 2026-10-30
 country: ma
 place: Sidi Bibi, Chtouka Ait Baha

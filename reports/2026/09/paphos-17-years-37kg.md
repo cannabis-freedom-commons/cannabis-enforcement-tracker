@@ -1,4 +1,5 @@
 ---
+code: HR1RX2
 date: 2026-09-28
 country: cy
 place: Paphos

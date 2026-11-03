@@ -1,4 +1,5 @@
 ---
+code: X24E2D
 date: 2026-10-27
 country: es
 place: Caspe, Zaragoza

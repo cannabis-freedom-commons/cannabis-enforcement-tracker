@@ -1,4 +1,5 @@
 ---
+code: F39BZR
 date: 2026-11-02
 country: gb
 place: Spalding Avenue, Clifton, York

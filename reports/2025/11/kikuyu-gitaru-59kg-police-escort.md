@@ -1,4 +1,5 @@
 ---
+code: ST22F4
 date: 2025-11-12
 country: ke
 place: Gitaru roadblock, Nakuru-Nairobi Highway, Kikuyu

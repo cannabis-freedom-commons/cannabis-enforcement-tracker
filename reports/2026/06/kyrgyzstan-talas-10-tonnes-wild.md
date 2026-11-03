@@ -1,4 +1,5 @@
 ---
+code: JW1Q08
 date: 2026-06-22
 country: kg
 place: Talas district, Talas region

@@ -1,4 +1,5 @@
 ---
+code: 53AEXA
 date: 2026-02-01
 country: ke
 place: Bonje, Jomvu, Nairobi-Mombasa Highway

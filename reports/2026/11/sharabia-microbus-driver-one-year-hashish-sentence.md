@@ -1,4 +1,5 @@
 ---
+code: 862M3M
 date: 2026-11-01
 country: eg
 place: Al-Sharabia, Cairo

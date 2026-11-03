@@ -1,4 +1,5 @@
 ---
+code: XVMMA8
 date: 2025-10-20
 country: us/ok
 place: Purple Light 168 LLC, near Wilson, Carter County

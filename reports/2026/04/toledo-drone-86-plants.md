@@ -1,4 +1,5 @@
 ---
+code: D04CBF
 date: 2026-04-24
 country: bz
 place: Remote area, Toledo District

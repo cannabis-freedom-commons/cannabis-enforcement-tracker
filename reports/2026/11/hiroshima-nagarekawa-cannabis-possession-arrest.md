@@ -1,4 +1,5 @@
 ---
+code: GQSHVE
 date: 2026-11-03
 country: jp
 place: Nagarekawa, Naka-ku, Hiroshima City

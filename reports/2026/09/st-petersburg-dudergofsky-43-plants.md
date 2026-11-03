@@ -1,4 +1,5 @@
 ---
+code: 47XYQE
 date: 2026-09-09
 country: ru
 place: Dudergofsky canal embankment, Krasnoselsky district, St Petersburg

@@ -1,4 +1,5 @@
 ---
+code: WGKJMQ
 date: 2026-11-01
 country: sy
 place: Qamar border crossing, Wadi Khaled, Akkar

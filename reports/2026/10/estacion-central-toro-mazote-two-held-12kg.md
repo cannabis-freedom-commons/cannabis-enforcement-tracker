@@ -1,4 +1,5 @@
 ---
+code: MTEX9A
 date: 2026-10-29
 country: cl
 place: Toro Mazote sector, Pequeña Caracas, Estación Central

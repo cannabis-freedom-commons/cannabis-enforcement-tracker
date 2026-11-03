@@ -1,4 +1,5 @@
 ---
+code: 7NDP50
 date: 2026-11-02
 country: mx
 place: Zona Centro, Venustiano Carranza, Mexico City

@@ -1,4 +1,5 @@
 ---
+code: AX5Z1Q
 date: 2026-10-05
 country: fr
 place: Péage du Capitou, Fréjus, Var

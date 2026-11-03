@@ -1,4 +1,5 @@
 ---
+code: Q9VKZ0
 date: 2026-10-30
 country: ru
 place: Ivanovsky District, Ivanovo Oblast

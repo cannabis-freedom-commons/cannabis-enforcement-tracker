@@ -1,4 +1,5 @@
 ---
+code: B4G6ZC
 date: 2025-09-09
 country: cn
 place: Bole, Bortala Mongol Autonomous Prefecture, Xinjiang

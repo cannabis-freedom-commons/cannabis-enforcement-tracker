@@ -1,4 +1,5 @@
 ---
+code: F7GYKZ
 date: 2026-10-30
 country: in
 place: Biju Expressway, Paikmal, Bargarh

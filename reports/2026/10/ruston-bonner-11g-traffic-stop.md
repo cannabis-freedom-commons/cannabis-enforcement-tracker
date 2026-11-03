@@ -1,4 +1,5 @@
 ---
+code: 2YZC6R
 date: 2026-10-28
 country: us/la
 place: South Maple and Saratoga streets, Ruston, Louisiana

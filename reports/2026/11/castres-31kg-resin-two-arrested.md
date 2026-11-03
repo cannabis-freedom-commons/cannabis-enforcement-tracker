@@ -1,4 +1,5 @@
 ---
+code: FW1G6D
 date: 2026-11-02
 country: fr
 place: rue Jean-Saulière, Petit Train-Laden, Castres, Tarn

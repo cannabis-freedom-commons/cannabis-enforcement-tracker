@@ -1,4 +1,5 @@
 ---
+code: YPNAMF
 date: 2026-10-28
 country: fr
 place: Cité des Arrious, Aureilhan, Hautes-Pyrénées

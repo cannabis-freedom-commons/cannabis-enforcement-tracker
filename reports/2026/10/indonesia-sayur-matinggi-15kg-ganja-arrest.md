@@ -1,4 +1,5 @@
 ---
+code: B55XVS
 date: 2026-10-21
 country: id
 place: Aek Badak, Sayur Matinggi, South Tapanuli, North Sumatra

@@ -1,4 +1,5 @@
 ---
+code: NGT9S9
 date: 2025-12-12
 country: sk
 place: Ilava District, Trenčín Region

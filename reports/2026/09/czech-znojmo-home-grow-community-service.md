@@ -1,4 +1,5 @@
 ---
+code: 9YYQ9C
 date: 2026-09-10
 country: cz
 place: Znojmo District, South Moravian Region

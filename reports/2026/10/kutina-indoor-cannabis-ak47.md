@@ -1,4 +1,5 @@
 ---
+code: 00HD6T
 date: 2026-10-22
 country: hr
 place: Kutina, Popovača and Velika Ludina

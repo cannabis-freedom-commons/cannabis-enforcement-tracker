@@ -1,4 +1,5 @@
 ---
+code: ZX5QDJ
 date: 2026-08-08
 country: kg
 place: Osh Region, Kyrgyzstan

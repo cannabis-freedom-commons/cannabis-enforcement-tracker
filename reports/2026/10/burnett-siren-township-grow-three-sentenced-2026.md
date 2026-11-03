@@ -1,4 +1,5 @@
 ---
+code: GJ2C7N
 date: 2026-10-30
 country: us/wi
 place: Siren Township, Burnett County

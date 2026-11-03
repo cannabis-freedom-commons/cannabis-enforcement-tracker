@@ -1,4 +1,5 @@
 ---
+code: FPY1R7
 date: 2026-10-30
 country: co
 place: Puerto Serviez, Puerto Boyacá, Boyacá

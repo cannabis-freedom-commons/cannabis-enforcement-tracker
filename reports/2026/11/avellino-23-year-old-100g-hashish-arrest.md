@@ -1,4 +1,5 @@
 ---
+code: JRVG22
 date: 2026-11-02
 country: it
 place: Avellino, Campania

@@ -1,4 +1,5 @@
 ---
+code: DHB8KW
 date: 2026-11-01
 country: ar
 place: Event complex on provincial route E55, San Roque

@@ -1,4 +1,5 @@
 ---
+code: 7DD4BT
 date: 2026-10-29
 country: bd
 place: Krodgacha, Gobindaganj, Gaibandha

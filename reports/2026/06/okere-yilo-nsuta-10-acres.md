@@ -1,4 +1,5 @@
 ---
+code: 0FYSJV
 date: 2026-06-12
 country: gh
 place: Nsuta Aperade, Okere, and Nsuta Hasi, Yilo Krobo, Eastern Region

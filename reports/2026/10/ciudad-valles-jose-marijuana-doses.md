@@ -1,4 +1,5 @@
 ---
+code: YE6ZM4
 date: 2026-10-30
 country: mx
 place: Ciudad Valles, San Luis Potosí

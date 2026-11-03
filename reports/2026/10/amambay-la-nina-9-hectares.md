@@ -1,4 +1,5 @@
 ---
+code: 236KC8
 date: 2026-10-08
 country: py
 place: Estancia La Niña, Bella Vista Norte, Amambay

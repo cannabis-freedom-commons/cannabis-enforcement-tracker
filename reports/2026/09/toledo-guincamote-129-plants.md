@@ -1,4 +1,5 @@
 ---
+code: 6D4YKB
 date: 2026-09-03
 country: ph
 place: Sitio Guincamote, Barangay Captain Claudio, Toledo City, Cebu

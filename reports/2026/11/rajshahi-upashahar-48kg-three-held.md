@@ -1,4 +1,5 @@
 ---
+code: E8VPTV
 date: 2026-11-02
 country: bd
 place: Upashahar Sector 2, Rajshahi

@@ -1,4 +1,5 @@
 ---
+code: XFD5HC
 date: 2026-07-03
 country: my
 place: Semenyih, Selangor

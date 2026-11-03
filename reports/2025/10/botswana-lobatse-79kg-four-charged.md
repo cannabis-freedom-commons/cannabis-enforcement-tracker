@@ -1,4 +1,5 @@
 ---
+code: 2KAH11
 date: 2025-10-26
 country: bw
 place: Trans Kalahari road near Meru fuel station, Lobatse

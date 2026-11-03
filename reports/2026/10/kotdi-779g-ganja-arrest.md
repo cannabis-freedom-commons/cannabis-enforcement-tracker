@@ -1,4 +1,5 @@
 ---
+code: Y63NQP
 date: 2026-10-26
 country: in
 place: Kotdi, Arnod tehsil, Pratapgarh district, Rajasthan

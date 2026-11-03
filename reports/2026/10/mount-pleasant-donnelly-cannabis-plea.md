@@ -1,4 +1,5 @@
 ---
+code: 5KEC5A
 date: 2026-10-27
 country: au/vic
 place: Mount Pleasant, Ballarat, Victoria

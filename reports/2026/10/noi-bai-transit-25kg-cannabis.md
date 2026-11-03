@@ -1,4 +1,5 @@
 ---
+code: 5SRA0G
 date: 2026-10-25
 country: vn
 place: Noi Bai International Airport, Hanoi

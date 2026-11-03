@@ -1,4 +1,5 @@
 ---
+code: KTA7QT
 date: 2026-10-29
 country: bd
 place: Narayanganj district

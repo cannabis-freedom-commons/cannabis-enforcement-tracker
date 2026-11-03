@@ -1,4 +1,5 @@
 ---
+code: 4WZND7
 date: 2026-10-26
 country: np
 place: Chargare, Chaudandigadhi-1, Udayapur

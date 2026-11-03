@@ -1,4 +1,5 @@
 ---
+code: 32J2Z1
 date: 2026-07-17
 country: ph
 place: Butbut Proper, Tinglayan, Kalinga

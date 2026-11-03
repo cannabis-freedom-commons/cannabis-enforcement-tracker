@@ -1,4 +1,5 @@
 ---
+code: ZCVFVT
 date: 2026-09-08
 country: dz
 place: Algeria

@@ -1,4 +1,5 @@
 ---
+code: KEYAPT
 date: 2026-11-01
 country: jp
 place: convenience store car park in Okamoto-cho, Matsusaka, Mie

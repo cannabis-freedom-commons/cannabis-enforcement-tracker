@@ -1,4 +1,5 @@
 ---
+code: SZGS03
 date: 2026-09-29
 country: py
 place: Estancia Sanguina Cue, Yby Yaú, Concepción

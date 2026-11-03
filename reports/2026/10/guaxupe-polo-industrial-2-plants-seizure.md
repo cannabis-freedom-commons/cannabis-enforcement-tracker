@@ -1,4 +1,5 @@
 ---
+code: 7YDMMW
 date: 2026-10-30
 country: br
 place: Polo Industrial, Guaxupé, Minas Gerais

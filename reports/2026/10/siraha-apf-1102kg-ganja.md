@@ -1,4 +1,5 @@
 ---
+code: 3VYEBY
 date: 2026-10-01
 country: np
 place: Gagan Khola bridge, Bishwakarma Chowk, Sukhipur municipality-10, Siraha

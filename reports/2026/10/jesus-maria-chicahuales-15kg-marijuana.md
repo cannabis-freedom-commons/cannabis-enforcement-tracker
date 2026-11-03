@@ -1,4 +1,5 @@
 ---
+code: YR98R3
 date: 2026-10-29
 country: mx
 place: Chicahuales I, Jesús María, Aguascalientes

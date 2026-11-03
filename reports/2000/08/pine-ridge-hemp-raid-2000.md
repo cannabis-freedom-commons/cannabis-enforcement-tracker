@@ -1,4 +1,5 @@
 ---
+code: CFWBVC
 date: 2000-08-24
 country: sd
 place: Manderson, Pine Ridge Indian Reservation, South Dakota

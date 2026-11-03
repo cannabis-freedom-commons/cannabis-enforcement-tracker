@@ -1,4 +1,5 @@
 ---
+code: TPB953
 date: 2026-11-02
 country: bd
 place: Kalyanpur village, Patnitala, Naogaon

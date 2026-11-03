@@ -1,4 +1,5 @@
 ---
+code: PNYJNM
 date: 2018-05-11
 country: tr
 place: Akyazı, Sakarya

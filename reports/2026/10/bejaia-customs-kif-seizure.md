@@ -1,4 +1,5 @@
 ---
+code: S214WH
 date: 2026-10-04
 country: dz
 place: Béjaïa

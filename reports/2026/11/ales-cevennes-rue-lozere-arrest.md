@@ -1,4 +1,5 @@
 ---
+code: FT4W16
 date: 2026-11-02
 country: fr
 place: Rue du Lozère, Cévennes district, Alès

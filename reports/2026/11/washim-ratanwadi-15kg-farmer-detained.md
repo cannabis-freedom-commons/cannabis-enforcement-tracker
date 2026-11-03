@@ -1,4 +1,5 @@
 ---
+code: S9V1H5
 date: 2026-11-03
 country: in
 place: Ratanwadi village, Manora tehsil, Washim district, Maharashtra

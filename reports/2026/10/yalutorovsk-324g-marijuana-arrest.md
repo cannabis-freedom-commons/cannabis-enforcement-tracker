@@ -1,4 +1,5 @@
 ---
+code: KJ40TF
 date: 2026-10-16
 country: ru
 place: Yalutorovsk, Tyumen Oblast

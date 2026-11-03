@@ -1,4 +1,5 @@
 ---
+code: JHMKBX
 date: 2026-10-14
 country: ng
 place: Aka Itiam Street, Uyo, Akwa Ibom State

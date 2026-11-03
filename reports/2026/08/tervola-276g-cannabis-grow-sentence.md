@@ -1,4 +1,5 @@
 ---
+code: TNFRNV
 date: 2026-08-16
 country: fi
 place: Tervola, Lapland

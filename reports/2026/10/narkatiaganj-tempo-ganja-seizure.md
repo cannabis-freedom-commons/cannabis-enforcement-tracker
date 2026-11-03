@@ -1,4 +1,5 @@
 ---
+code: YSN47Q
 date: 2026-10-31
 country: in
 place: Kundilpur gas warehouse, Narkatiaganj–Bhikhnathori road, Narkatiaganj, West Champaran

@@ -1,4 +1,5 @@
 ---
+code: NPKKD9
 date: 2026-10-29
 country: ro
 place: Vaslui, Vaslui County

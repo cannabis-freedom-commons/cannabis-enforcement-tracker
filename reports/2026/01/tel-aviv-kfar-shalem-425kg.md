@@ -1,4 +1,5 @@
 ---
+code: S65H8E
 date: 2026-01-07
 country: il
 place: Kfar Shalem, Tel Aviv

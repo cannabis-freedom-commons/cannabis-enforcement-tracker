@@ -1,4 +1,5 @@
 ---
+code: 2VNBXB
 date: 2026-10-16
 country: ec
 place: Quevedo, Los Ríos

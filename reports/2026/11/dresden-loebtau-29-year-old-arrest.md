@@ -1,4 +1,5 @@
 ---
+code: SKTNY5
 date: 2026-11-01
 country: de
 place: Tharandter Strasse, Dresden-Loebtau, Dresden

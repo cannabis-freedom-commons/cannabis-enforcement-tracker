@@ -1,4 +1,5 @@
 ---
+code: EGZ930
 date: 2026-01-23
 country: cn
 place: Railway corridors across Xinjiang, China

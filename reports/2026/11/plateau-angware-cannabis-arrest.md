@@ -1,4 +1,5 @@
 ---
+code: 8EPSYC
 date: 2026-11-01
 country: ng
 place: Angware, Jos East LGA, Plateau State

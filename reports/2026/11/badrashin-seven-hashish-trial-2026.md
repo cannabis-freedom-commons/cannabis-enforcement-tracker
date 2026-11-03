@@ -1,4 +1,5 @@
 ---
+code: ZH9194
 date: 2026-11-02
 country: eg
 place: Badrashin, Giza

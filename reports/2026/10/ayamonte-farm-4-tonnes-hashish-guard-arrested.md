@@ -1,4 +1,5 @@
 ---
+code: GHZD0Y
 date: 2026-10-26
 country: es
 place: Ayamonte, Huelva

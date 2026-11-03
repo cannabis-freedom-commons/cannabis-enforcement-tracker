@@ -1,4 +1,5 @@
 ---
+code: CNB8JW
 date: 2026-10-30
 country: gr
 place: Xanthi

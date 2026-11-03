@@ -1,4 +1,5 @@
 ---
+code: SP4QC3
 date: 2026-10-29
 country: ph
 place: Barangay Nalook, Kalibo, Aklan

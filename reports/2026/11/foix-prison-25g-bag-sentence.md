@@ -1,4 +1,5 @@
 ---
+code: 87NSKH
 date: 2026-11-01
 country: fr
 place: Maison d'arrêt de Foix, Foix, Ariège

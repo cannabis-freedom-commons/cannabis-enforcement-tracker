@@ -1,4 +1,5 @@
 ---
+code: RJ4ZV9
 date: 2026-10-29
 country: cl
 place: Villa Bicentenario, Molina, Maule

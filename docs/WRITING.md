@@ -201,7 +201,18 @@ configuration. For historical reports without recorded attribution, or when the 
 not disclose its identity, write `created_by_model: unknown` and explain the limitation.
 Preserve the original creator when updating a report. Do not add update-model metadata. The report page shows recorded attribution or "not recorded".
 
+## 11. Permanent report code
+
+Every report must store `code` as a six-character Crockford base32 string, without the `CET-`
+display prefix. Assign it with `npm run codes -- <new/updated report paths>` before the build
+and commit. The script checks existing codes and resolves collisions; do not invent or copy one.
+The backend assigns codes automatically using the same slug hash and collision rule. Preserve
+the original code when updating, renaming or moving a report, so its short links remain stable.
+The schema and tests reject missing, invalid or duplicate codes; the build never assigns them.
+
 ## Checklist
+
+- [ ] Required `code` persisted with `npm run codes -- <report paths>`; existing code preserved.
 
 - [ ] Required `created_by_model` records the actual provider, model and effort when available; original creator preserved on updates.
 - [ ] One event; every source is about it.

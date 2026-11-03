@@ -1,4 +1,5 @@
 ---
+code: 6PA8BS
 date: 2026-05-31
 country: hn
 place: El Chelón No. 2, Guaimaca, Francisco Morazán

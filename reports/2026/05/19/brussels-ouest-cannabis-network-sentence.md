@@ -1,4 +1,5 @@
 ---
+code: NAYX49
 date: 2026-05-19
 country: be
 place: Brussels-Capital Region

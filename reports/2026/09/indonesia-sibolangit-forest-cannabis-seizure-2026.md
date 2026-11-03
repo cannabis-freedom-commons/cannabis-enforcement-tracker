@@ -1,4 +1,5 @@
 ---
+code: D41KZ0
 date: 2026-09-08
 country: id
 place: Dusun II Sarang Kulit, Desa Ketangkuhen, Sibolangit, Deli Serdang, North Sumatra

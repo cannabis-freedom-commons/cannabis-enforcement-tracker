@@ -13,6 +13,8 @@ import (
 	"sync"
 	"syscall"
 	"time"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportcode"
 )
 
 var reportPath = regexp.MustCompile(`^reports/[0-9]{4}/[0-9]{2}/[a-z0-9]+(?:-[a-z0-9]+)*\.md$`)
@@ -144,6 +146,15 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		if e != nil || e2 != nil || !bytes.Equal(base, current) {
 			return "", errors.New("existing report changed since research; restart this submission")
 		}
+	}
+	// Recheck under the publication lock: another job may have claimed a code
+	// since this draft was prepared in its isolated snapshot.
+	files := map[string]string{d.Rel: string(content)}
+	for rel, data := range updates {
+		files[rel] = string(data)
+	}
+	if err := reportcode.Check(repo, files, d.PreviousRel); err != nil {
+		return "", err
 	}
 	original := map[string][]byte{}
 	for _, path := range paths {

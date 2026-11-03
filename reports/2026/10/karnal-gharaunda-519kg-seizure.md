@@ -1,4 +1,5 @@
 ---
+code: CKNBN0
 date: 2026-10-27
 country: in
 place: Gharaunda, Karnal, Haryana

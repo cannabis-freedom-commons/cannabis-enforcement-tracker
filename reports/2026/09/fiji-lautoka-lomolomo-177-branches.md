@@ -1,4 +1,5 @@
 ---
+code: 5R6AXG
 date: 2026-09-22
 country: fj
 place: Lomolomo, Lautoka, Fiji

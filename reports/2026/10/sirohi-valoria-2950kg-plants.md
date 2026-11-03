@@ -1,4 +1,5 @@
 ---
+code: 5PVYNM
 date: 2026-10-16
 country: in
 place: Valoria village, Rohida, Sirohi

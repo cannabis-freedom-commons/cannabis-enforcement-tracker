@@ -1,4 +1,5 @@
 ---
+code: EKSTAH
 date: 2026-11-01
 country: hk
 place: Hong Kong International Airport arrivals hall, Hong Kong

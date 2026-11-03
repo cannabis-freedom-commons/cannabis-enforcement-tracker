@@ -1,4 +1,5 @@
 ---
+code: 726K0V
 date: 2026-10-29
 country: co
 place: Planeta Rica, Córdoba, Colombia

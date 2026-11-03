@@ -1,4 +1,5 @@
 ---
+code: 3W9960
 date: 2026-09-07
 country: ke
 place: Wakigunyi Village, Vihiga County, Kenya

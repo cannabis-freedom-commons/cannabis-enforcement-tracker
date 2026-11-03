@@ -1,4 +1,5 @@
 ---
+code: 24CNE2
 date: 2026-08-20
 country: gb
 place: Club 104, Cheney Manor Road, Swindon

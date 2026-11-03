@@ -1,4 +1,5 @@
 ---
+code: WW2BDT
 date: 2025-06-26
 country: cn
 place: Hutubi County, Xinjiang

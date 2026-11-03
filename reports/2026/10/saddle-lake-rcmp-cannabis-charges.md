@@ -1,4 +1,5 @@
 ---
+code: 7R18KW
 date: 2026-10-21
 country: ca/ab
 place: Saddle Lake Cree Nation, Alberta

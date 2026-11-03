@@ -1,4 +1,5 @@
 ---
+code: HE8Z4M
 date: 2026-11-03
 country: cn
 place: Nuoliang Town, Cangyuan Va Autonomous County, Lincang, Yunnan

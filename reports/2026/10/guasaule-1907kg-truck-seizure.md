@@ -1,4 +1,5 @@
 ---
+code: D8Z4H4
 date: 2026-10-27
 country: ni
 place: El Guasaule border post, Chinandega

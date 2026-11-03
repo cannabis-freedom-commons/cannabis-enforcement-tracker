@@ -7,6 +7,7 @@ import { spawn, execFileSync } from "node:child_process";
 import { once } from "node:events";
 import { setTimeout as delay } from "node:timers/promises";
 import { pathToFileURL } from "node:url";
+import { codeOf } from "../src/lib/code.js";
 
 // Exercise Astro's real dev route cache: commits change no watched source files.
 test("dev commits refresh changelog, report indexes and cached report routes", { timeout: 60000 }, async () => {
@@ -31,8 +32,8 @@ test("dev commits refresh changelog, report indexes and cached report routes", {
     copyFileSync(resolve("src/pages/r/[code].astro"), join(root, "src/pages/r/[code].astro"));
     writeFileSync(join(root, "src/content.config.ts"), `import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
-export const collections = { reports: defineCollection({ loader: glob({ pattern: '**/*.md', base: './reports' }), schema: z.object({date:z.coerce.date()}).passthrough() }) };`);
-    const report = (title) => `---\ndate: 2026-10-30\ncountry: cz\ntype: seizure\ntitle: ${title}\nsummary: Fixture report\nfigures:\n  kg_seized: 0.00386\nstatus: reported\ncreated_by_model: unknown\nsources: []\n---\nFixture body.\n`;
+export const collections = { reports: defineCollection({ loader: glob({ pattern: '**/*.md', base: './reports' }), schema: z.object({date:z.coerce.date(),code:z.string()}).passthrough() }) };`);
+    const report = (title, slug = "initial") => `---\ncode: "${codeOf(slug)}"\ndate: 2026-10-30\ncountry: cz\ntype: seizure\ntitle: ${title}\nsummary: Fixture report\nfigures:\n  kg_seized: 0.00386\nstatus: reported\ncreated_by_model: unknown\nsources: []\n---\nFixture body.\n`;
     writeFileSync(join(root, "reports/initial.md"), report("Initial report"));
     writeFileSync(join(root, "src/pages/report/[slug].astro"), `---
 import { reports } from '../../lib/reports.js';
@@ -70,7 +71,6 @@ export function getStaticPaths() {
     assert.equal(JSON.parse((await read("/api/country/cz.json")).text).totals.kg_seized, 0.00386);
     assert.equal((await read("/report/new-report/")).status, 404);
     assert.ok((await read("/report/initial/")).text.includes("Initial report"));
-    const { codeOf } = await import("../src/lib/code.js");
     assert.equal((await fetch(address + `/r/${codeOf("initial")}/`, { redirect: "manual" })).status, 301);
     const client = await (await fetch(address + "/@vite/client")).text();
     const token = client.match(/const wsToken = "([^"]+)"/)?.[1];
@@ -86,7 +86,7 @@ export function getStaticPaths() {
     const older = await read("/changelog/2/");
     assert.equal(older.status, 200);
     assert.ok(older.text.includes("<h1>Initial history</h1>"));
-    writeFileSync(join(root, "reports/new-report.md"), report("Newly committed report"));
+    writeFileSync(join(root, "reports/new-report.md"), report("Newly committed report", "new-report"));
     writeFileSync(join(root, "reports/initial.md"), report("Updated report"));
     git("add", "reports"); git("commit", "-m", "Add and update reports");
     await until(async () => (await read("/changelog/")).text.includes("Add and update reports"));

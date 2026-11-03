@@ -1,4 +1,5 @@
 ---
+code: DJN5TT
 date: 2026-10-19
 country: uz
 place: Qibray district, Tashkent region

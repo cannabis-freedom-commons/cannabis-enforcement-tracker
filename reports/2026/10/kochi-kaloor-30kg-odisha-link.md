@@ -1,4 +1,5 @@
 ---
+code: EC9GGW
 date: 2026-10-15
 country: in
 place: Kaloor, Kochi

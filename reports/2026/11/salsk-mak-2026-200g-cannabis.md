@@ -1,4 +1,5 @@
 ---
+code: 14ECNX
 date: 2026-11-02
 country: ru
 place: Salsk, Rostov Oblast

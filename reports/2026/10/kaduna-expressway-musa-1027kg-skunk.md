@@ -1,4 +1,5 @@
 ---
+code: YKW0HR
 date: 2026-10-26
 country: ng
 place: Zaria-Kaduna Expressway, Kaduna State

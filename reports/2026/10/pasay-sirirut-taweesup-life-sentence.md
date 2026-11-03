@@ -1,4 +1,5 @@
 ---
+code: 67T7S6
 date: 2026-10-26
 country: ph
 place: NAIA Terminal 3, Pasay City

@@ -1,4 +1,5 @@
 ---
+code: S6XF55
 date: 2026-10-31
 country: in
 place: Durgapuram stage, Kodada, Suryapet district, Telangana

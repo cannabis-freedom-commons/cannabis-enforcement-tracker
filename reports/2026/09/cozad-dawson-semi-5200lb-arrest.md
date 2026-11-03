@@ -1,4 +1,5 @@
 ---
+code: VW0W7D
 date: 2026-09-04
 country: us/ne
 place: Interstate 80 near Cozad, Dawson County, Nebraska

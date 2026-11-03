@@ -1,4 +1,5 @@
 ---
+code: 3MBQTF
 date: 2026-07-02
 country: id
 place: Prambanan Bizland warehouse, Cerme, Gresik, East Java

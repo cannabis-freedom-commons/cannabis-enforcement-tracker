@@ -1,4 +1,5 @@
 ---
+code: VYVXKK
 date: 2026-10-29
 country: al
 place: Guraj, Malësi e Madhe

@@ -1,4 +1,5 @@
 ---
+code: ZEPJZG
 date: 2026-06-20
 country: cy
 place: Famagusta district

@@ -1,4 +1,5 @@
 ---
+code: MX1QHZ
 date: 2026-10-29
 country: in
 place: Abandoned Hindmotor factory, Hindmotor, Uttarpara, Hooghly

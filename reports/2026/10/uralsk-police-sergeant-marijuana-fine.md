@@ -1,4 +1,5 @@
 ---
+code: 59PBB8
 date: 2026-10-30
 country: kz
 place: Uralsk (Oral), West Kazakhstan

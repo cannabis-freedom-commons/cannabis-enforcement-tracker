@@ -1,4 +1,5 @@
 ---
+code: 7P13E6
 date: 2026-08-28
 country: ru
 place: Buryatia (republic-wide campaign)

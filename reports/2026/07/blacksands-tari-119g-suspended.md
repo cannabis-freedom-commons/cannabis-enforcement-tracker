@@ -1,4 +1,5 @@
 ---
+code: SGFS68
 date: 2026-07-03
 country: vu
 place: Blacksands, Efate

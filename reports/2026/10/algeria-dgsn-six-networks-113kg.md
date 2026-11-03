@@ -1,4 +1,5 @@
 ---
+code: JGWPGD
 date: 2026-10-17
 country: dz
 place: Oran, Tlemcen, El Oued and Tipasa wilayas, Algeria

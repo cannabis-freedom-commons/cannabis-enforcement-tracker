@@ -1,4 +1,5 @@
 ---
+code: XDTN2V
 date: 2026-10-21
 country: mx
 place: Guerrero municipality, Chihuahua

@@ -1,4 +1,5 @@
 ---
+code: KTMNBS
 date: 2026-10-29
 country: fr
 place: Benerville-sur-Mer, Calvados

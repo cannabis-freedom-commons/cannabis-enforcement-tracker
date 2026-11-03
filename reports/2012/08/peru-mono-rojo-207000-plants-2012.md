@@ -1,4 +1,5 @@
 ---
+code: SDJ71H
 date: 2012-08-03
 country: pe
 place: La Libertad and Huánuco regions, central Peru

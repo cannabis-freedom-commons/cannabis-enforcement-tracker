@@ -1,4 +1,5 @@
 ---
+code: PW8TRB
 date: 2026-10-22
 country: hu
 place: Sopron

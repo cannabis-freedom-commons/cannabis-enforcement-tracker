@@ -1,4 +1,5 @@
 ---
+code: 9KG65T
 date: 2026-06-21
 country: np
 place: Bhojpur district

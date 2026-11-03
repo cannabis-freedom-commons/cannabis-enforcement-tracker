@@ -1,4 +1,5 @@
 ---
+code: JYP76B
 date: 2026-06-26
 country: cn
 place: Beijing, China

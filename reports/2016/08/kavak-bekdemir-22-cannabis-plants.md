@@ -1,4 +1,5 @@
 ---
+code: GF1TFR
 date: 2016-08-24
 country: tr
 place: Bekdemir Mahallesi, Kavak, Samsun

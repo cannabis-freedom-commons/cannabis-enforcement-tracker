@@ -1,4 +1,5 @@
 ---
+code: 9EMXR9
 date: 2026-09-21
 country: ke
 place: Buruburu Police Station, Nairobi and Kairi, Thika West

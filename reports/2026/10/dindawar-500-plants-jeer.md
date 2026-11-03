@@ -1,4 +1,5 @@
 ---
+code: RVEEVN
 date: 2026-10-18
 country: in
 place: Dindawar village, Basavana Bagewadi taluk, Vijayapura, Karnataka

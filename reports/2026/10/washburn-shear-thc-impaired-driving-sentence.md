@@ -1,4 +1,5 @@
 ---
+code: MERN5Q
 date: 2026-10-28
 country: us/wi
 place: Washburn County, Wisconsin

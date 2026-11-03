@@ -1,4 +1,5 @@
 ---
+code: RZP9HA
 date: 2026-10-14
 country: ng
 place: Tudun Natsira, Bauchi–Gombe road, Bauchi State

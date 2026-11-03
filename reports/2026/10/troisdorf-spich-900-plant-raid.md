@@ -1,4 +1,5 @@
 ---
+code: 8MMSKE
 date: 2026-10-27
 country: de
 place: Spich, Troisdorf, Rhein-Sieg-Kreis

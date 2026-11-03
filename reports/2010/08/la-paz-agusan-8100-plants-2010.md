@@ -1,4 +1,5 @@
 ---
+code: 83VHGK
 date: 2010-08-02
 country: ph
 place: Sitio Tinkug, Barangay Casapa 1, La Paz, Agusan del Sur

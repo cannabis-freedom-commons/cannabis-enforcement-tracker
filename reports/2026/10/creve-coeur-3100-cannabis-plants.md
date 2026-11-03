@@ -1,4 +1,5 @@
 ---
+code: VE7G5M
 date: 2026-10-09
 country: mu
 place: Crève-Cœur, Mauritius

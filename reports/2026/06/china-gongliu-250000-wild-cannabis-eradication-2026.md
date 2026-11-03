@@ -1,4 +1,5 @@
 ---
+code: 0GP955
 date: 2026-06-18
 country: cn
 place: Aketubieke Town, Gongliu County, Ili Kazakh Autonomous Prefecture, Xinjiang

@@ -1,4 +1,5 @@
 ---
+code: 8MS2PA
 date: 2026-10-28
 country: in
 place: Andar vegetable market, Siwan, Bihar

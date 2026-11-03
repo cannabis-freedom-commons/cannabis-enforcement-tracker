@@ -1,4 +1,5 @@
 ---
+code: QJBVR6
 date: 2026-10-31
 country: in
 place: Babatpur, Varanasi district, Uttar Pradesh

@@ -1,4 +1,5 @@
 ---
+code: 6QPX26
 date: 2026-10-27
 country: us/al
 place: Montgomery, Alabama

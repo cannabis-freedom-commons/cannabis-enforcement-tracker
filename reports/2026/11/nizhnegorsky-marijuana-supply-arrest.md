@@ -1,4 +1,5 @@
 ---
+code: GWZN0R
 date: 2026-11-02
 country: ru
 place: Nizhnegorsky district, Crimea

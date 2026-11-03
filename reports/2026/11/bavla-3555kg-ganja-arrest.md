@@ -1,4 +1,5 @@
 ---
+code: 4HXKAA
 date: 2026-11-02
 country: in
 place: Bavla, Ahmedabad (rural), Gujarat

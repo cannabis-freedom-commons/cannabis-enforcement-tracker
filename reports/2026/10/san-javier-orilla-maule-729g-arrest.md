@@ -1,4 +1,5 @@
 ---
+code: 8R0GPN
 date: 2026-10-30
 country: cl
 place: Orilla de Maule, San Javier

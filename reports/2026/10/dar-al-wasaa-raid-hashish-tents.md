@@ -1,4 +1,5 @@
 ---
+code: Y5C4CB
 date: 2026-10-13
 country: lb
 place: Dar al-Wasaa, Baalbek

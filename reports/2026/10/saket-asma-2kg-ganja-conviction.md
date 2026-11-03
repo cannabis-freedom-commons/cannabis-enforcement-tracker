@@ -1,4 +1,5 @@
 ---
+code: MQK2Z3
 date: 2026-10-24
 country: in
 place: Khusro Park, Hazrat Nizamuddin, New Delhi

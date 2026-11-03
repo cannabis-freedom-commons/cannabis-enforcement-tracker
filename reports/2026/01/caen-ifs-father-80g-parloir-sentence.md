@@ -1,4 +1,5 @@
 ---
+code: VDPMH0
 date: 2026-01-19
 country: fr
 place: Centre pénitentiaire de Caen-Ifs, Calvados

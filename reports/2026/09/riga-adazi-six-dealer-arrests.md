@@ -1,4 +1,5 @@
 ---
+code: VP645Q
 date: 2026-09-17
 country: lv
 place: Rīga and Ādaži, Latvia

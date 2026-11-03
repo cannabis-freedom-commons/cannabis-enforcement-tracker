@@ -1,4 +1,5 @@
 ---
+code: EQP1RC
 date: 2026-10-06
 country: br
 place: Gameleira, Campo Formoso, Bahia

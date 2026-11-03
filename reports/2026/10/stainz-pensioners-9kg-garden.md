@@ -1,4 +1,5 @@
 ---
+code: 4B485S
 date: 2026-10-15
 country: at
 place: Stainz, Deutschlandsberg district, Styria

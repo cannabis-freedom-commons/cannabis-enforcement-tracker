@@ -1,4 +1,5 @@
 ---
+code: 28WSK4
 date: 2026-11-02
 country: es
 place: Centro Penitenciario de Almería, Almería

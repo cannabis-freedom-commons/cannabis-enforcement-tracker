@@ -1,4 +1,5 @@
 ---
+code: KQ39QS
 date: 2026-04-01
 country: cz
 place: Park in the centre of České Budějovice, Jihočeský kraj

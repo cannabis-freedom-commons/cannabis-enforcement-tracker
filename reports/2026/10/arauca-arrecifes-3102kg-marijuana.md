@@ -1,4 +1,5 @@
 ---
+code: BJF7AJ
 date: 2026-10-28
 country: co
 place: Vereda Arrecifes, Arauca municipality, Arauca Department

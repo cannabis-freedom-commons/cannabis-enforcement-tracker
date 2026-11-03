@@ -1,4 +1,5 @@
 ---
+code: 3F25V4
 date: 2026-04-19
 country: ke
 place: Embu Township, Embu County

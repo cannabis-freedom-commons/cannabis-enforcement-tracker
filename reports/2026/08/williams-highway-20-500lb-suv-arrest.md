@@ -1,4 +1,5 @@
 ---
+code: RXXRQK
 date: 2026-08-07
 country: us/ca
 place: Highway 20 west of Walnut Drive, Williams, Colusa County

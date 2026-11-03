@@ -1,4 +1,5 @@
 ---
+code: 1Z4CW9
 date: 2026-08-21
 country: cn
 place: Guangzhou Baiyun International Airport, Guangdong

@@ -1,4 +1,5 @@
 ---
+code: TC5DBA
 date: 2026-10-26
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

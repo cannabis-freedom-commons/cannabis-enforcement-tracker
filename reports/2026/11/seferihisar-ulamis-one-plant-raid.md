@@ -1,4 +1,5 @@
 ---
+code: 3K0TV2
 date: 2026-11-01
 country: tr
 place: Ulamış Mahallesi, Seferihisar, İzmir

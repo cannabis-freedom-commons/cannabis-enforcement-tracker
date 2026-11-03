@@ -1,4 +1,5 @@
 ---
+code: KFGA2W
 date: 2026-11-01
 country: in
 place: Nihalpur (Hanumantya Padampura), Dhar district, Madhya Pradesh

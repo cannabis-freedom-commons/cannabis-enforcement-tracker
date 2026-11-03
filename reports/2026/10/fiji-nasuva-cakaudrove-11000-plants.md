@@ -1,4 +1,5 @@
 ---
+code: KY7R28
 date: 2026-10-02
 country: fj
 place: Nasuva farming area, Cakaudrove

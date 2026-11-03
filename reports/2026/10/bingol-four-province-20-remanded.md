@@ -1,4 +1,5 @@
 ---
+code: G5B1TF
 date: 2026-10-27
 country: tr
 place: Bingöl

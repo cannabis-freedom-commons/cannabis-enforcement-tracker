@@ -1,4 +1,5 @@
 ---
+code: 7NJM5M
 date: 2026-10-18
 country: in
 place: Road between Gorakhpur and Kushinagar, Uttar Pradesh

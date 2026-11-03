@@ -1,4 +1,5 @@
 ---
+code: GSW3HH
 date: 2026-10-07
 country: us/il
 place: Hinckley, DeKalb County, Illinois

@@ -1,4 +1,5 @@
 ---
+code: KH3BV6
 date: 2026-10-29
 country: tw
 place: Sanchong District, New Taipei City

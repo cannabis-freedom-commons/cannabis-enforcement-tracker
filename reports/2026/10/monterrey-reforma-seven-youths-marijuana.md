@@ -1,4 +1,5 @@
 ---
+code: CDXCZP
 date: 2026-10-30
 country: mx
 place: Calle Reforma, between Villagómez and Villagrán, Centro, Monterrey, Nuevo León

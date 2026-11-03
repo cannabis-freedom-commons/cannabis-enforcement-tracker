@@ -1,4 +1,5 @@
 ---
+code: C73EE6
 date: 2026-11-02
 country: jp
 place: Goto City, Nagasaki

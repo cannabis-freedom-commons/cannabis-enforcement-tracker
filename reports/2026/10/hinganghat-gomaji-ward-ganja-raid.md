@@ -1,4 +1,5 @@
 ---
+code: DFSYWT
 date: 2026-10-29
 country: in
 place: Gomaji Ward, Hinganghat, Wardha district, Maharashtra

@@ -1,4 +1,5 @@
 ---
+code: 0D67QG
 date: 2026-10-27
 country: us/ar
 place: 600 block of Poplar Street, Jonesboro, Arkansas

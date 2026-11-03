@@ -1,4 +1,5 @@
 ---
+code: RSTSBA
 date: 2026-10-20
 country: bz
 place: Cayo District

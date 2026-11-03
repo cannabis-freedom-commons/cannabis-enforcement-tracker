@@ -1,4 +1,5 @@
 ---
+code: 6CZ5A1
 date: 2026-10-26
 country: lb
 place: Jabab al-Hamr, Hermel

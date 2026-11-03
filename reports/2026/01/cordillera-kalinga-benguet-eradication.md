@@ -1,4 +1,5 @@
 ---
+code: B3D9HM
 date: 2026-01-13
 country: ph
 place: Tinglayan, Kalinga and Kibungan/Kapangan, Benguet

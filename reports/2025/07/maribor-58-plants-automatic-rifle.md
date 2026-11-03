@@ -1,4 +1,5 @@
 ---
+code: ACYRRZ
 date: 2025-07-30
 country: si
 place: Maribor area, Slovenia

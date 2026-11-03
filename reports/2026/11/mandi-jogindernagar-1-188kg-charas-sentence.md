@@ -1,4 +1,5 @@
 ---
+code: XJDPCF
 date: 2026-11-01
 country: in
 place: Syuri bridge, Jogindernagar, Mandi district, Himachal Pradesh

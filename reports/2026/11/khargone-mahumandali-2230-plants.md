@@ -1,4 +1,5 @@
 ---
+code: AKPAMK
 date: 2026-11-03
 country: in
 place: Mahumandali, Bistan, Khargone district, Madhya Pradesh

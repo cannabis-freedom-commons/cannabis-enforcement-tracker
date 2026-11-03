@@ -1,4 +1,5 @@
 ---
+code: ZBV8CB
 date: 2026-10-27
 country: mx
 place: colonia Maximiliano R. López, Cajeme, Sonora

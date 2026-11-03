@@ -1,4 +1,5 @@
 ---
+code: VKWQZE
 date: 2026-10-29
 country: in
 place: Viloniya Chak road, Guna district, Madhya Pradesh

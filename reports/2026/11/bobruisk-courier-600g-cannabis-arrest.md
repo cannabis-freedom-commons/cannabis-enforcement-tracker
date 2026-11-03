@@ -1,4 +1,5 @@
 ---
+code: MCQFND
 date: 2026-11-01
 country: by
 place: Bobruisk, Mogilev Region

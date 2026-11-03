@@ -1,4 +1,5 @@
 ---
+code: C7VN3X
 date: 2009-06-12
 country: py
 place: Pedro Juan Caballero and Capitán Bado, Amambay, Paraguay

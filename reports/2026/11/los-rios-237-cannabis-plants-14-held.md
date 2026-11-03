@@ -1,4 +1,5 @@
 ---
+code: YHJ6BN
 date: 2026-11-02
 country: cl
 place: Los Ríos Region

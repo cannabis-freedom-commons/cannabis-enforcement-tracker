@@ -1,4 +1,5 @@
 ---
+code: MM3V61
 date: 2026-07-20
 country: ru
 place: Krasnozersky district, Novosibirsk region

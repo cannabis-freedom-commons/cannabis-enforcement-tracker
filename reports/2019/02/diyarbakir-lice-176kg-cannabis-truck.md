@@ -1,4 +1,5 @@
 ---
+code: V59SM3
 date: 2019-02-18
 country: tr
 place: Lice–Diyarbakır highway, Diyarbakır

@@ -1,4 +1,5 @@
 ---
+code: 3AM4BP
 date: 2026-10-31
 country: br
 place: Presidente Castro Pinto International Airport, João Pessoa, Paraíba

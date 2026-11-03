@@ -1,4 +1,5 @@
 ---
+code: 4F3N2P
 date: 2026-10-27
 country: kw
 type: arrest

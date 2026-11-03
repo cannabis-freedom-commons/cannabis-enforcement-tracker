@@ -1,4 +1,5 @@
 ---
+code: "2F3ABQ"
 date: 2026-11-02
 country: bd
 place: Bara Dhadas village, Belpukur, Rajshahi

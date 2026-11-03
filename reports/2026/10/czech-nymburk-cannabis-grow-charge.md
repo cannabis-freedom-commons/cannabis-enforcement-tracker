@@ -1,4 +1,5 @@
 ---
+code: TDCENA
 date: 2026-10-01
 country: cz
 place: Nymburk district, Central Bohemian Region

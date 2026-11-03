@@ -1,4 +1,5 @@
 ---
+code: KX5DPY
 date: 2026-10-18
 country: ke
 place: Kibwezi, Makueni County

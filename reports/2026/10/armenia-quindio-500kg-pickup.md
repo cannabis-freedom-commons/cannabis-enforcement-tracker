@@ -1,4 +1,5 @@
 ---
+code: 49DSC1
 date: 2026-10-27
 country: co
 place: Carrera 18 with Calle 62, southern Armenia, Quindío

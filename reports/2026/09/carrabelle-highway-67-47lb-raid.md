@@ -1,4 +1,5 @@
 ---
+code: YVX5MM
 date: 2026-09-21
 country: us/fl
 place: Highway 67, Carrabelle, Franklin County, Florida

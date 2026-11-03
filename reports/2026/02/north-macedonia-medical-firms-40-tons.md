@@ -1,4 +1,5 @@
 ---
+code: Y2S672
 date: 2026-02-07
 country: mk
 place: Licensed medical-cannabis facilities near Skopje and in the Strumica region

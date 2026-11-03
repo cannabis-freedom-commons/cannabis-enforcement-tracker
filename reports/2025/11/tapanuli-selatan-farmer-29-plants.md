@@ -1,4 +1,5 @@
 ---
+code: Y7PCAS
 date: 2025-11-11
 country: id
 place: Sihuik Huik, Angkola Selatan, Tapanuli Selatan, North Sumatra

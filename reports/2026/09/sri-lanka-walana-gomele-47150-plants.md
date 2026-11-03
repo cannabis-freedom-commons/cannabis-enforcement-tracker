@@ -1,4 +1,5 @@
 ---
+code: WNPD2C
 date: 2026-09-30
 country: lk
 place: Gomele Mav-Ara, Meegahagamuwa police division, near Panadura

@@ -1,4 +1,5 @@
 ---
+code: DTNBCN
 date: 2026-10-05
 country: gb
 place: Bordon, East Hampshire

@@ -1,4 +1,5 @@
 ---
+code: TYDBBX
 date: 2026-01-05
 country: in
 place: Kalibira, Dami and Ratang, Phiringia, Kandhamal

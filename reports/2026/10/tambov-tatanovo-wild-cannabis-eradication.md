@@ -1,4 +1,5 @@
 ---
+code: ZS2YJK
 date: 2026-10-28
 country: ru
 place: Tatanovo, Tambov Oblast

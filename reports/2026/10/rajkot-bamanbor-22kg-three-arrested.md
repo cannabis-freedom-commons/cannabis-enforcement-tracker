@@ -1,4 +1,5 @@
 ---
+code: PVCGAT
 date: 2026-10-30
 country: in
 place: Bamanbor village, Rajkot-Ahmedabad highway, Gujarat

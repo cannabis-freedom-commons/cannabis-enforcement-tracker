@@ -1,4 +1,5 @@
 ---
+code: BGYJRN
 date: 2026-03-09
 country: cn
 place: Kunming Changshui International Airport, Kunming

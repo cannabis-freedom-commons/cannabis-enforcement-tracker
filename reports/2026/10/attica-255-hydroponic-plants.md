@@ -1,4 +1,5 @@
 ---
+code: 2A0G4E
 date: 2026-10-19
 country: gr
 place: Attica (car stop near Loutsa; grow in an Athens-area home)

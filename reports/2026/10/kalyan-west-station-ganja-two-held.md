@@ -1,4 +1,5 @@
 ---
+code: NXR9HS
 date: 2026-10-29
 country: in
 place: Kalyan West railway station, Kalyan, Thane district, Maharashtra

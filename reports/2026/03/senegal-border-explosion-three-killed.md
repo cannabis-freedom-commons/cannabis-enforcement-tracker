@@ -1,4 +1,5 @@
 ---
+code: SY0HPJ
 date: 2026-03-17
 country: sn
 place: Gambia border, Casamance

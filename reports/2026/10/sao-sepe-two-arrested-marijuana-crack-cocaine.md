@@ -1,4 +1,5 @@
 ---
+code: ME0S0M
 date: 2026-10-28
 country: br
 place: Bairro Centro, São Sepé, Rio Grande do Sul, Brazil

@@ -1,4 +1,5 @@
 ---
+code: S3AFFJ
 date: 2026-10-25
 country: in
 place: Nekkonda police station limits, Warangal district, Telangana

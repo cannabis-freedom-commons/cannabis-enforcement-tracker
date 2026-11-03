@@ -1,4 +1,5 @@
 ---
+code: WQ6V6W
 date: 2026-11-02
 country: tr
 place: Pendik, Istanbul

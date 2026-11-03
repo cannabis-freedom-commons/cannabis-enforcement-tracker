@@ -1,4 +1,5 @@
 ---
+code: BXTV1G
 date: 2026-06-23
 country: id
 place: Tomka village, Oksamol district, Pegunungan Bintang

@@ -1,4 +1,5 @@
 ---
+code: C6E0GJ
 date: 2026-10-28
 country: in
 place: Gujar Khedi, Daddudevani (Mohgaon area), and Neelkanth, Pandhurna district, Madhya Pradesh

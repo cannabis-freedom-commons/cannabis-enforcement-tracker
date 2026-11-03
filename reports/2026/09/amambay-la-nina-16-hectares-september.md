@@ -1,4 +1,5 @@
 ---
+code: 6SNEAC
 date: 2026-09-30
 country: py
 place: Estancia La Niña, Bella Vista Norte, Amambay

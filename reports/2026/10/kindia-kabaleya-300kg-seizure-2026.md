@@ -1,4 +1,5 @@
 ---
+code: KB2V98
 date: 2026-10-29
 country: gn
 place: Kabaléya district, Kindia

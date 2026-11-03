@@ -1,4 +1,5 @@
 ---
+code: QTHH4E
 date: 2026-09-10
 country: zm
 place: Lusaka Magistrate's Court, Lusaka

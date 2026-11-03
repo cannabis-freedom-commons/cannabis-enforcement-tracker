@@ -1,4 +1,5 @@
 ---
+code: AXYESM
 date: 2018-01-29
 country: tr
 place: Demircili, Urla, İzmir

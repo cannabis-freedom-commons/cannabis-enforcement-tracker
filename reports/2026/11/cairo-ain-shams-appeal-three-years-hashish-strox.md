@@ -1,4 +1,5 @@
 ---
+code: DB4RTX
 date: 2026-11-02
 country: eg
 place: Ain Shams police district, Cairo

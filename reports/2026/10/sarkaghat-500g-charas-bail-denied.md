@@ -1,4 +1,5 @@
 ---
+code: 9Q5V4Z
 date: 2026-10-31
 country: in
 place: Sarkaghat, Mandi district, Himachal Pradesh

@@ -1,4 +1,5 @@
 ---
+code: HCP7EB
 date: 2026-10-25
 country: tr
 place: Gaziantep

@@ -1,4 +1,5 @@
 ---
+code: WGVKYH
 date: 2026-10-08
 country: in
 place: Sadaram village, Chitrakonda block, Malkangiri district, Odisha

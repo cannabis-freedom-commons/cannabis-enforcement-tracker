@@ -1,4 +1,5 @@
 ---
+code: J82HD4
 date: 2026-11-02
 country: in
 place: Alanthalai Tsunami Colony, Tiruchendur, Thoothukudi district

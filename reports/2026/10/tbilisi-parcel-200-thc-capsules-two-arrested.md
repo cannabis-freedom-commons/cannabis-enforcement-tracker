@@ -1,4 +1,5 @@
 ---
+code: HN8NS2
 date: 2026-10-31
 country: ge
 place: Tbilisi International Airport, Tbilisi

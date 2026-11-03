@@ -1,4 +1,5 @@
 ---
+code: HNCBEZ
 date: 2026-10-29
 country: gb
 place: Alford Drive, Glenrothes, Fife

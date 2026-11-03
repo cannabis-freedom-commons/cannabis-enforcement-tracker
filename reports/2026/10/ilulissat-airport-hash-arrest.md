@@ -1,4 +1,5 @@
 ---
+code: GKRN8X
 date: 2026-10-29
 country: gl
 place: Ilulissat Airport, Ilulissat, Greenland

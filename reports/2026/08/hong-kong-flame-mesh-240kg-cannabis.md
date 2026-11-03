@@ -1,4 +1,5 @@
 ---
+code: 8C3HC1
 date: 2026-08-18
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok

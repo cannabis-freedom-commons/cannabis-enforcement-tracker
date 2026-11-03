@@ -1,4 +1,5 @@
 ---
+code: 6622T0
 date: 2026-07-06
 country: fi
 place: Valtimo, Nurmes, North Karelia

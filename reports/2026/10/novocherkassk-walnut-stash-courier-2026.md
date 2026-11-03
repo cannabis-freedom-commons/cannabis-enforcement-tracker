@@ -1,4 +1,5 @@
 ---
+code: XCWRSQ
 date: 2026-10-30
 country: ru
 place: Novocherkassk, Rostov Oblast

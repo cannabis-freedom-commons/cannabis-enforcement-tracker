@@ -1,4 +1,5 @@
 ---
+code: V1E38Z
 date: 2026-10-13
 country: lk
 place: Rathbalawewa, Hambegamuwa, Monaragala

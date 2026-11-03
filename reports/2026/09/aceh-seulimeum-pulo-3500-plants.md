@@ -1,4 +1,5 @@
 ---
+code: 21924C
 date: 2026-09-15
 country: id
 place: Desa Pulo, Seulimeum, Aceh Besar, Aceh

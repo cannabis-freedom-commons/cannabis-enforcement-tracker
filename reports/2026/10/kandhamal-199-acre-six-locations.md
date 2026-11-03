@@ -1,4 +1,5 @@
 ---
+code: 91BKWA
 date: 2026-10-24
 country: in
 place: Kandhamal district (Phulbani, Baliguda, Phiringia and four other areas)

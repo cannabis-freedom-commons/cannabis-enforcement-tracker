@@ -1,4 +1,5 @@
 ---
+code: K5YPS0
 date: 2026-11-01
 country: ru
 place: Uspenskoye, Uspensky District, Krasnodar Krai

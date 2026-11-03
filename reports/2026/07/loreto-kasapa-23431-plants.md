@@ -1,4 +1,5 @@
 ---
+code: K0GGYJ
 date: 2026-07-04
 country: ph
 place: Sitio Bunlak, Barangay Kasapa, Loreto, Agusan del Sur

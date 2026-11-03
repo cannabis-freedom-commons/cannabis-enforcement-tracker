@@ -1,4 +1,5 @@
 ---
+code: CZ50A8
 date: 2026-10-29
 country: mx
 place: Tuncingo and Colonia Lucio Cabañas, Acapulco, Guerrero

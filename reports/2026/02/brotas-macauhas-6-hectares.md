@@ -1,4 +1,5 @@
 ---
+code: 6QWAWX
 date: 2026-02-20
 country: br
 place: Brotas de Macaúbas, Bahia

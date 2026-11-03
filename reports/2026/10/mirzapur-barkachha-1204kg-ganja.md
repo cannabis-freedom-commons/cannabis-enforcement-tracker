@@ -1,4 +1,5 @@
 ---
+code: 1APSB0
 date: 2026-10-30
 country: in
 place: Chhitampur turn, Barkachha Khurd, Mirzapur district, Uttar Pradesh

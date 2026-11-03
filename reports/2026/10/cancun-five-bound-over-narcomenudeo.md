@@ -1,4 +1,5 @@
 ---
+code: ZNQ4K6
 date: 2026-10-29
 country: mx
 place: Cancún, Benito Juárez, Quintana Roo

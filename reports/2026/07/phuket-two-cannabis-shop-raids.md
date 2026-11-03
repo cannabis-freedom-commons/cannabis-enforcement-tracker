@@ -1,4 +1,5 @@
 ---
+code: A5DQFX
 date: 2026-07-11
 country: th
 place: Thalang and Mueang Phuket districts, Phuket

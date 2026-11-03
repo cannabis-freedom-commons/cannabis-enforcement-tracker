@@ -1,4 +1,5 @@
 ---
+code: A2HFYH
 date: 2026-10-29
 country: ar
 place: Jesús María, Córdoba

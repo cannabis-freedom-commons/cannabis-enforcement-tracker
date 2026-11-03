@@ -1,4 +1,5 @@
 ---
+code: MC7Z44
 date: 2025-12-18
 country: ro
 place: Costinești, Constanța County

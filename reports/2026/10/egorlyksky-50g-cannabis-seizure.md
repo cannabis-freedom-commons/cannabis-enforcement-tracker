@@ -1,4 +1,5 @@
 ---
+code: 4D9CQP
 date: 2026-10-31
 country: ru
 place: Egorlyksky District, Rostov Oblast

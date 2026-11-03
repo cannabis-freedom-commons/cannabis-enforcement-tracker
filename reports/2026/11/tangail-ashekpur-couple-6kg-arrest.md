@@ -1,4 +1,5 @@
 ---
+code: 9TDV72
 date: 2026-11-02
 country: bd
 place: Ashekpur Bypass Mor, Dhaka-Tangail Highway, Tangail Sadar, Tangail

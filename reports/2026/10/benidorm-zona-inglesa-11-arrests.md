@@ -1,4 +1,5 @@
 ---
+code: ZES9RH
 date: 2026-10-27
 country: es
 place: Benidorm, Alicante

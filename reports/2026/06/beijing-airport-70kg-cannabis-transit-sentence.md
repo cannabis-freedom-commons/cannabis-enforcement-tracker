@@ -1,4 +1,5 @@
 ---
+code: 56WN7J
 date: 2026-06-26
 country: cn
 place: Beijing Capital International Airport

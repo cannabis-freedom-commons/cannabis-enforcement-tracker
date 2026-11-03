@@ -1,4 +1,5 @@
 ---
+code: NQG9Q0
 date: 2026-10-28
 country: br
 place: Rodovia dos Bandeirantes, Itupeva

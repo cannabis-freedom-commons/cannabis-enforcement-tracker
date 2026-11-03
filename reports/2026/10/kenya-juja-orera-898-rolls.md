@@ -1,4 +1,5 @@
 ---
+code: XT8G6K
 date: 2026-10-22
 country: ke
 place: Juja Matatu Stage, Kiambu and Orera, Homa Bay

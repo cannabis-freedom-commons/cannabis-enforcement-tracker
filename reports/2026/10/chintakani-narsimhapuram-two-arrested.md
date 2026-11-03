@@ -1,4 +1,5 @@
 ---
+code: GZA5TR
 date: 2026-10-31
 country: in
 place: Near Narsimhapuram village, Chintakani mandal, Khammam, Telangana

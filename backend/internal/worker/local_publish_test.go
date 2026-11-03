@@ -38,7 +38,7 @@ func commitFixture(t *testing.T) (string, draftJob) {
 	workspace := filepath.Join(root, "job")
 	os.MkdirAll(filepath.Join(workspace, "reports/2026/10"), 0755)
 	path := "reports/2026/10/fixture-report.md"
-	content := "---\nopen_questions:\n  - Which vegetables were in the truck?\n---\nCited report.\n"
+	content := "---\ncode: 7KQ2MX\nopen_questions:\n  - Which vegetables were in the truck?\n---\nCited report.\n"
 	os.WriteFile(filepath.Join(workspace, path), []byte(content), 0644)
 	digest := sha256.Sum256([]byte(content))
 	return repo, draftJob{Dir: workspace, Rel: path, Slug: "fixture-report", Title: "Fixture report", Digest: hex.EncodeToString(digest[:])}
@@ -180,7 +180,7 @@ func TestLocalCommitIncludesUpdatedReports(t *testing.T) {
 	d.Dir = snapshot
 	os.MkdirAll(filepath.Dir(filepath.Join(snapshot, d.Rel)), 0755)
 	os.WriteFile(filepath.Join(snapshot, d.Rel), content, 0644)
-	os.WriteFile(filepath.Join(snapshot, other), []byte("other report with a new source"), 0644)
+	os.WriteFile(filepath.Join(snapshot, other), []byte("---\ncode: ABC123\n---\nother report with a new source"), 0644)
 	d.Updates = []fileJob{{Rel: other, Slug: "other-report", Title: "Other report"}}
 	sha, err := commitReport(context.Background(), repo, "case-update", d)
 	if err != nil {
@@ -189,7 +189,7 @@ func TestLocalCommitIncludesUpdatedReports(t *testing.T) {
 	if got := testGit(t, repo, "diff-tree", "--no-commit-id", "--name-only", "-r", sha); !strings.Contains(got, other) || !strings.Contains(got, d.Rel) {
 		t.Fatal(got)
 	}
-	if b, _ := os.ReadFile(filepath.Join(repo, other)); string(b) != "other report with a new source" {
+	if b, _ := os.ReadFile(filepath.Join(repo, other)); string(b) != "---\ncode: ABC123\n---\nother report with a new source" {
 		t.Fatal(string(b))
 	}
 	if msg := testGit(t, repo, "log", "-1", "--format=%s"); msg != "Add report: Fixture report (and update other-report)" {
@@ -198,5 +198,34 @@ func TestLocalCommitIncludesUpdatedReports(t *testing.T) {
 	d.Updates[0].Rel = "../outside.md"
 	if _, err = commitReport(context.Background(), repo, "case-bad", d); err == nil {
 		t.Fatal("invalid update path accepted")
+	}
+}
+
+func TestLocalCommitRefusesMissingOrConcurrentlyClaimedCode(t *testing.T) {
+	for _, missing := range []bool{false, true} {
+		t.Run(map[bool]string{false: "concurrent claim", true: "missing"}[missing], func(t *testing.T) {
+			repo, d := commitFixture(t)
+			if missing {
+				file := filepath.Join(d.Dir, d.Rel)
+				b, _ := os.ReadFile(file)
+				os.WriteFile(file, []byte(strings.Replace(string(b), "code: 7KQ2MX\n", "", 1)), 0644)
+			} else {
+				other := "reports/2026/10/another-report.md"
+				os.MkdirAll(filepath.Dir(filepath.Join(repo, other)), 0755)
+				os.WriteFile(filepath.Join(repo, other), []byte("---\ncode: 7KQ2MX\n---\nAnother report.\n"), 0644)
+				testGit(t, repo, "add", other)
+				testGit(t, repo, "commit", "-m", "Concurrent report")
+			}
+			before := testGit(t, repo, "rev-parse", "HEAD")
+			if _, err := commitReport(context.Background(), repo, "case-code", d); err == nil || !strings.Contains(err.Error(), "code") {
+				t.Fatal("invalid publication accepted", err)
+			}
+			if after := testGit(t, repo, "rev-parse", "HEAD"); after != before {
+				t.Fatal("committed invalid code")
+			}
+			if _, err := os.Stat(filepath.Join(repo, d.Rel)); !os.IsNotExist(err) {
+				t.Fatal("wrote rejected report", err)
+			}
+		})
 	}
 }

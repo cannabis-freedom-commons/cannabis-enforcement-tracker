@@ -1,4 +1,5 @@
 ---
+code: E0F6C0
 date: 2026-10-31
 country: us/ms
 place: Monroe County, Mississippi

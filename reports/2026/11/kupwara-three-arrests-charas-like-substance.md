@@ -1,4 +1,5 @@
 ---
+code: ZAQ0QE
 date: 2026-11-02
 country: in
 place: Alachizab and Thayan Gujran, Kupwara district, Jammu and Kashmir

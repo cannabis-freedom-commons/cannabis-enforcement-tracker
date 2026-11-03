@@ -1,4 +1,5 @@
 ---
+code: M4X73T
 date: 2026-10-28
 country: ke
 place: KK Towers, Juja Town and Kamukuywa Market, Kimilili

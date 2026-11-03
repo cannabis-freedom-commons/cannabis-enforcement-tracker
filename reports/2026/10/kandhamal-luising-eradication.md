@@ -1,4 +1,5 @@
 ---
+code: XSWC86
 date: 2026-10-15
 country: in
 place: Gochhapada, Kandhamal

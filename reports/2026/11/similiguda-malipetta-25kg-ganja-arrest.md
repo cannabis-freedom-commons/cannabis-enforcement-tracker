@@ -1,4 +1,5 @@
 ---
+code: ZG0635
 date: 2026-11-01
 country: in
 place: near Malipetta village, Similiguda, Koraput

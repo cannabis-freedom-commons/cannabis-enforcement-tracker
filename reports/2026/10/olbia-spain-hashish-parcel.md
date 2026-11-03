@@ -1,4 +1,5 @@
 ---
+code: NE9NXW
 date: 2026-10-23
 country: it
 place: Olbia, Gallura

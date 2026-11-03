@@ -1,4 +1,5 @@
 ---
+code: 0E7EA4
 date: 2018-09-29
 country: tr
 place: Ergani, Diyarbakır

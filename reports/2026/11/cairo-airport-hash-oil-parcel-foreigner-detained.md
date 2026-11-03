@@ -1,4 +1,5 @@
 ---
+code: VHVVSM
 date: 2026-11-02
 country: eg
 place: Cargo village, Cairo International Airport, Cairo

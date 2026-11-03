@@ -1,4 +1,5 @@
 ---
+code: CHPW9F
 date: 2026-09-29
 country: py
 place: Tavaí and Abaí districts, Caazapá

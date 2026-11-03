@@ -1,4 +1,5 @@
 ---
+code: 5YFGEQ
 date: 2026-02-20
 country: bo
 place: Viru Viru International Airport, Santa Cruz de la Sierra, Bolivia

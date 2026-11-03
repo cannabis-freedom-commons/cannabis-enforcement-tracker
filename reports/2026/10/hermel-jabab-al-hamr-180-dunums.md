@@ -1,4 +1,5 @@
 ---
+code: MNY19A
 date: 2026-10-26
 country: lb
 place: Jabab al-Hamr, Hermel district

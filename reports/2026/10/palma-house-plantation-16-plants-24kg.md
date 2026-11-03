@@ -1,4 +1,5 @@
 ---
+code: CW8NGV
 date: 2026-10-28
 country: es
 place: Palma, Mallorca

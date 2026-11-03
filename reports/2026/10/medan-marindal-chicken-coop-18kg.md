@@ -1,4 +1,5 @@
 ---
+code: 5V14QB
 date: 2026-10-28
 country: id
 place: Desa Marindal I, Patumbak, Deli Serdang

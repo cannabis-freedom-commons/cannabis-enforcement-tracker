@@ -1,4 +1,5 @@
 ---
+code: 2J3JYF
 date: 2026-10-26
 country: np
 place: Saguri Bridge, Katari-6, Udayapur

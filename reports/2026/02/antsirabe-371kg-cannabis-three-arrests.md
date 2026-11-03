@@ -1,4 +1,5 @@
 ---
+code: BG7Y58
 date: 2026-02-17
 country: mg
 place: Antsirabe, Vakinankaratra

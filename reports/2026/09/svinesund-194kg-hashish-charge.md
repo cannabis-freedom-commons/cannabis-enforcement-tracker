@@ -1,4 +1,5 @@
 ---
+code: DZF5GQ
 date: 2026-09-17
 country: no
 place: Svinesund, Halden

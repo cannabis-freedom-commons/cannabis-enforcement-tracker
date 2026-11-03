@@ -1,4 +1,5 @@
 ---
+code: GXNAR7
 date: 2026-10-22
 country: ar
 place: Entre Ríos and 9 de Julio, Capital, San Juan

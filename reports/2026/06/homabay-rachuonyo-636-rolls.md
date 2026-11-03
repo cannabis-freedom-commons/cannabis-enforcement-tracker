@@ -1,4 +1,5 @@
 ---
+code: SB2EMT
 date: 2026-06-13
 country: ke
 place: Rachuonyo North, Homa Bay County

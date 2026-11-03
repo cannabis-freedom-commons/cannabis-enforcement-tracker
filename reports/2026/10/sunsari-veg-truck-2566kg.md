@@ -1,4 +1,5 @@
 ---
+code: KKFPBA
 date: 2026-10-05
 country: np
 place: Sakhuwagachhi Chowk, Inaruwa-3, Sunsari

@@ -1,4 +1,5 @@
 ---
+code: VZNBBT
 date: 2026-10-28
 country: ru
 place: Illichivskyi district, Mariupol

@@ -1,4 +1,5 @@
 ---
+code: 434JFW
 date: 2025-07-31
 country: lv
 place: Saldus municipality, Latvia

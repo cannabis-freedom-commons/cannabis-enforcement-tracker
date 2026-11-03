@@ -1,4 +1,5 @@
 ---
+code: 84KR1H
 date: 2026-05-27
 country: ph
 place: Barangay Loccong, Tinglayan, Kalinga

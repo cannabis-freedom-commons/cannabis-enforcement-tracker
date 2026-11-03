@@ -1,4 +1,5 @@
 ---
+code: SRGJ4Q
 date: 2026-10-22
 country: us/ga
 place: apartment at 500 Northside Circle NW, Atlanta

@@ -1,4 +1,5 @@
 ---
+code: WQ3N8Q
 date: 2026-04-18
 country: ph
 place: Cordillera Administrative Region

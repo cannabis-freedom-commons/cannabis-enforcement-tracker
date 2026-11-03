@@ -1,4 +1,5 @@
 ---
+code: REWCH0
 date: 2026-10-30
 country: in
 place: Hasayan, Hathras district, Uttar Pradesh

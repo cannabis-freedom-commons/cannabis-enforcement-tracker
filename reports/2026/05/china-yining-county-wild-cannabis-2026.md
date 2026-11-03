@@ -1,4 +1,5 @@
 ---
+code: SQQK3B
 date: 2026-05-18
 country: cn
 place: Yining County, Xinjiang

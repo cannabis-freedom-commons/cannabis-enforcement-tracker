@@ -1,4 +1,5 @@
 ---
+code: PDDAYT
 date: 2026-10-21
 country: ke
 place: Eldoret central police station, Uasin Gishu County

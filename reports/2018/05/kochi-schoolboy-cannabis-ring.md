@@ -1,4 +1,5 @@
 ---
+code: V4R711
 date: 2018-05-11
 country: jp
 place: Kochi, Kochi Prefecture

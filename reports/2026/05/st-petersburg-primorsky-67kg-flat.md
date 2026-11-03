@@ -1,4 +1,5 @@
 ---
+code: EW7KR7
 date: 2026-05-18
 country: ru
 place: Arzeulovskaya alleya, Primorsky district, St Petersburg

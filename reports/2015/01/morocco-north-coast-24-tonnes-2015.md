@@ -1,4 +1,5 @@
 ---
+code: FHVRZM
 date: 2015-01-24
 country: ma
 place: Off the northern coast

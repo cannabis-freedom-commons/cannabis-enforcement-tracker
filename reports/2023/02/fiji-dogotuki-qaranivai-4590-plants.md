@@ -1,4 +1,5 @@
 ---
+code: H30JVN
 date: 2023-02-10
 country: fj
 place: Qaranivai, Dogotuki, Vanua Levu, Fiji

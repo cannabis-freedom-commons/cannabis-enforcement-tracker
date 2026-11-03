@@ -1,4 +1,5 @@
 ---
+code: RXWNE3
 date: 2026-10-21
 country: uz
 place: Uchtepa and Bektemir districts, Tashkent

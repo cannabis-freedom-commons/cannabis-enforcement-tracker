@@ -1,4 +1,5 @@
 ---
+code: 2D5638
 date: 2014-02-23
 country: py
 place: Amambay department (Cadete Boquerón and Colo'o area)

@@ -1,4 +1,5 @@
 ---
+code: C2ZZ3S
 date: 2026-10-27
 country: in
 place: Yardi Beach, Uliyargoli, Kaup, Udupi

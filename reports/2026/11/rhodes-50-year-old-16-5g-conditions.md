@@ -1,4 +1,5 @@
 ---
+code: 85JEGS
 date: 2026-11-03
 country: gr
 place: Rhodes, Dodecanese

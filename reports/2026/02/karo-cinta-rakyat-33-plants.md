@@ -1,4 +1,5 @@
 ---
+code: QZB1H2
 date: 2026-02-07
 country: id
 place: Julun Tapin, Cinta Rakyat, Merdeka, Karo

@@ -1,4 +1,5 @@
 ---
+code: XAYVTM
 date: 2026-10-10
 country: lb
 place: Knaisseh, Baalbek

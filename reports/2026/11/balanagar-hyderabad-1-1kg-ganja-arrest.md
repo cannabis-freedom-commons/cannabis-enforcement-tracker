@@ -1,4 +1,5 @@
 ---
+code: W2SFH7
 date: 2026-11-02
 country: in
 place: Balanagar, Hyderabad, Telangana

@@ -1,4 +1,5 @@
 ---
+code: 0CCV9R
 date: 2026-10-30
 country: bd
 place: Kanipara, Singimari, Hatibandha, Lalmonirhat

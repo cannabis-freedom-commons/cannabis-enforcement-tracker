@@ -1,4 +1,5 @@
 ---
+code: KFENG6
 date: 2026-10-31
 country: tr
 place: Yıldırım, Bursa

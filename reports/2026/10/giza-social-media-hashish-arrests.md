@@ -1,4 +1,5 @@
 ---
+code: W6H3QZ
 date: 2026-10-10
 country: eg
 place: 6th of October City, Giza Governorate

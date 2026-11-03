@@ -1,4 +1,5 @@
 ---
+code: BZBP7G
 date: 2026-10-30
 country: us/ms
 place: Interstate 20 near mile marker 159, east of Meridian, Mississippi

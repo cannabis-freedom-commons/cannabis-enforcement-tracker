@@ -1,4 +1,5 @@
 ---
+code: J8YM6P
 date: 2025-12-31
 country: mu
 place: Sir Seewoosagur Ramgoolam International Airport

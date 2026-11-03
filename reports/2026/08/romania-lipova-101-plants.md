@@ -1,4 +1,5 @@
 ---
+code: 4MK97X
 date: 2026-08-14
 country: ro
 place: Lipova, Arad County (Mureș riverbank)

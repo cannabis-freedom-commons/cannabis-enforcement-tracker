@@ -1,4 +1,5 @@
 ---
+code: NH92WE
 date: 2008-06-09
 country: af
 place: Spin Boldak district, Kandahar province

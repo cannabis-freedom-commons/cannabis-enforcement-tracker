@@ -1,4 +1,5 @@
 ---
+code: M3ACP6
 date: 2026-04-30
 country: cl
 place: Calama, Antofagasta

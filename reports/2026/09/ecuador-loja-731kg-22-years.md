@@ -1,4 +1,5 @@
 ---
+code: 35SVDS
 date: 2026-09-28
 country: ec
 place: Amaluza, Espíndola, Loja

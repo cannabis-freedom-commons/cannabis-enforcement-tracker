@@ -1,4 +1,5 @@
 ---
+code: Q3EGEP
 date: 2026-10-30
 country: ph
 place: Barangay Sagubo, Kapangan and Barangay Poblacion, Kibungan, Benguet

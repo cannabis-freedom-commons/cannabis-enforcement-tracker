@@ -1,4 +1,5 @@
 ---
+code: XMQVPJ
 date: 2026-10-30
 country: mx
 place: Calle Capri, colonia Lomas Estrella, Iztapalapa, Mexico City

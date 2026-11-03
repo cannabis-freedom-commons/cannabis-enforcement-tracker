@@ -1,4 +1,5 @@
 ---
+code: X79P58
 date: 2026-06-03
 country: gr
 place: Forest area above Kammena Vourla, Phthiotis

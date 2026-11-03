@@ -1,4 +1,5 @@
 ---
+code: 9A0J7S
 date: 2026-10-30
 country: vn
 place: An Hải ward, Da Nang

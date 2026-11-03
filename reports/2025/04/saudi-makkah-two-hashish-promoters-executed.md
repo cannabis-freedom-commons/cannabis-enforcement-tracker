@@ -1,4 +1,5 @@
 ---
+code: GXEHWV
 date: 2025-04-22
 country: sa
 place: Makkah region, Saudi Arabia

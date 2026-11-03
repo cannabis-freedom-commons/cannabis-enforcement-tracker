@@ -1,4 +1,5 @@
 ---
+code: YBGNW8
 date: 2026-10-29
 country: bd
 place: Rani Ganj brothel area, Jamalpur municipality, Jamalpur District

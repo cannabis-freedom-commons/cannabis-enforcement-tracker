@@ -1,4 +1,5 @@
 ---
+code: 6SF30M
 date: 2026-10-09
 country: pk
 place: Pakistan

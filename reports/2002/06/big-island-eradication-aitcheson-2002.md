@@ -1,4 +1,5 @@
 ---
+code: YSMYXJ
 date: 2002-06-28
 country: us/hi
 place: Puna, Hilo and North Hilo, Hawaii Island; Mountain View (arrest)

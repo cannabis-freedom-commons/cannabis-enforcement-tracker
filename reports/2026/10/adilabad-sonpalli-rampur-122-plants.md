@@ -1,4 +1,5 @@
 ---
+code: 5NBK65
 date: 2026-10-02
 country: in
 place: Sonpalli and Rampur, Adilabad district

@@ -1,4 +1,5 @@
 ---
+code: DR2JAF
 date: 2026-07-11
 country: ph
 place: Mount Makago-ong, Barangay Saclit, Sadanga–Tinglayan boundary

@@ -1,4 +1,5 @@
 ---
+code: YGGBFP
 date: 2026-10-26
 country: np
 place: Deurali, Belaka-5, Udayapur

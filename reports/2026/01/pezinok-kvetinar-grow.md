@@ -1,4 +1,5 @@
 ---
+code: CQBKKQ
 date: 2026-01-23
 country: sk
 place: Pezinok

@@ -1,4 +1,5 @@
 ---
+code: BDD6QP
 date: 2026-10-30
 country: gb
 place: Wanstead Park, London

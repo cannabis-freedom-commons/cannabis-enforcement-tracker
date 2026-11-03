@@ -1,4 +1,5 @@
 ---
+code: AQE9TM
 date: 2026-08-05
 country: ch
 place: Rötelberg, Menznau

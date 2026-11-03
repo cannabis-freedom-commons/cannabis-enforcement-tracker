@@ -1,4 +1,5 @@
 ---
+code: 6NA9W0
 date: 2026-04-24
 country: us/ok
 place: Oklahoma (multi-county takedown)

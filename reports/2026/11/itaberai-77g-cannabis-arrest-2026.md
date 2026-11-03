@@ -1,4 +1,5 @@
 ---
+code: 4AMX2E
 date: 2026-11-01
 country: br
 place: Itaberaí, Goiás

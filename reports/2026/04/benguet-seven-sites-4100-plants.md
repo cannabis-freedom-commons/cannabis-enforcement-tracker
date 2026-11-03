@@ -1,4 +1,5 @@
 ---
+code: 7V6H51
 date: 2026-04-29
 country: ph
 place: Badeo and Tacadang, Kibungan; Gadang, Kapangan; Kayapa, Bakun, Benguet

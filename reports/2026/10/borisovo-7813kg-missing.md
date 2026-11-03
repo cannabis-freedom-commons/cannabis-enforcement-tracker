@@ -1,4 +1,5 @@
 ---
+code: WWM5DF
 date: 2026-10-28
 country: mk
 place: Borisovo, Novo Selo

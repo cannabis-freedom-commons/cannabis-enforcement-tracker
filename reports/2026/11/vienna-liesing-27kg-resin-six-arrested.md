@@ -1,4 +1,5 @@
 ---
+code: NVZSKT
 date: 2026-11-02
 country: at
 place: Liesing, Vienna

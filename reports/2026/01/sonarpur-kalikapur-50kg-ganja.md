@@ -1,4 +1,5 @@
 ---
+code: BG33QY
 date: 2026-01-20
 country: in
 place: Kalikapur station, Sonarpur, South 24 Parganas

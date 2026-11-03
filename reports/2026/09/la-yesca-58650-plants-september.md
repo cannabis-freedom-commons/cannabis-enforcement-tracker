@@ -1,4 +1,5 @@
 ---
+code: ZYXMY8
 date: 2026-09-23
 country: mx
 place: La Yesca municipality, Nayarit

@@ -1,4 +1,5 @@
 ---
+code: 2A1W4Z
 date: 2026-06-02
 country: lk
 place: Yala Jungle area

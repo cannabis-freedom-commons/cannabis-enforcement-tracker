@@ -1,4 +1,5 @@
 ---
+code: GVMYGK
 date: 2026-10-08
 country: us/ca
 place: 27000 block of Highway 119, Taft, Kern County, California

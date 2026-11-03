@@ -1,4 +1,5 @@
 ---
+code: VRM6DG
 date: 2026-07-02
 country: hk
 place: Tsing Yi, Hong Kong

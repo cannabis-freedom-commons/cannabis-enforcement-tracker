@@ -1,4 +1,5 @@
 ---
+code: AXZ9Z1
 date: 2026-06-01
 country: bg
 place: Zimnitsa, Straldzha, Yambol

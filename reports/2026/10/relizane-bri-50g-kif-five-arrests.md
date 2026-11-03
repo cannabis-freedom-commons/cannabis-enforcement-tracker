@@ -1,4 +1,5 @@
 ---
+code: XW7QKR
 date: 2026-10-30
 country: dz
 place: Relizane

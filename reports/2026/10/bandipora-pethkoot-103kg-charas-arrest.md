@@ -1,4 +1,5 @@
 ---
+code: 0F22T4
 date: 2026-10-31
 country: in
 place: Lal Qila Morh, Pethkoot, Bandipora

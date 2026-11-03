@@ -1,4 +1,5 @@
 ---
+code: F5CWQ9
 date: 2025-06-05
 country: vn
 place: Tuyên Quang, Hà Nội and Ho Chi Minh City

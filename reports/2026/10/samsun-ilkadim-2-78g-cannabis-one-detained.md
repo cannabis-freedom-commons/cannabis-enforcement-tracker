@@ -1,4 +1,5 @@
 ---
+code: AZMG89
 date: 2026-10-25
 country: tr
 place: İlkadım, Samsun

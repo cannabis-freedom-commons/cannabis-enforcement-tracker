@@ -1,4 +1,5 @@
 ---
+code: 1GAN0E
 date: 2026-10-31
 country: eg
 place: Al-Marg district, Cairo

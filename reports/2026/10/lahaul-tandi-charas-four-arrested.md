@@ -1,4 +1,5 @@
 ---
+code: DCP8KR
 date: 2026-10-25
 country: in
 place: Tandi, Lahaul and Spiti district, Himachal Pradesh

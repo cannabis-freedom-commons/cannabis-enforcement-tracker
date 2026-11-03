@@ -1,4 +1,5 @@
 ---
+code: SDPMMQ
 date: '2026-02-28'
 country: in
 place: Island in Jalaput reservoir, Padua, Koraput

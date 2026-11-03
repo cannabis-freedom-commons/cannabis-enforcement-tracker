@@ -1,4 +1,5 @@
 ---
+code: KMKQF4
 date: 2026-09-25
 country: sy
 place: Syrian-Lebanese border, Syria

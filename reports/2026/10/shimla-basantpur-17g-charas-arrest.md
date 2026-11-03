@@ -1,4 +1,5 @@
 ---
+code: K3R862
 date: 2026-10-31
 country: in
 place: Basantpur market, Sunni, Shimla district

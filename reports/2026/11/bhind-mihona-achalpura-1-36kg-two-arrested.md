@@ -1,4 +1,5 @@
 ---
+code: 9YMYTA
 date: 2026-11-02
 country: in
 place: Achalpura village, Mihona, Bhind district, Madhya Pradesh

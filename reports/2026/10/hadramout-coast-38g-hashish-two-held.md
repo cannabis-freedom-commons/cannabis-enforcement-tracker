@@ -1,4 +1,5 @@
 ---
+code: 14FGAY
 date: 2026-10-13
 country: ye
 place: Hadramout coast, Hadramaut Governorate

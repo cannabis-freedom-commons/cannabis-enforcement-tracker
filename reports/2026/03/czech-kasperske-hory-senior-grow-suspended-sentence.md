@@ -1,4 +1,5 @@
 ---
+code: HSGJWT
 date: 2026-03-04
 country: cz
 place: Kašperské Hory, Klatovy District, Plzeň Region

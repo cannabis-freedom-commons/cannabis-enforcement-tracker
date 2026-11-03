@@ -1,4 +1,5 @@
 ---
+code: CTVS88
 date: 2026-10-29
 country: in
 place: Shivnandan Chowk, Muffasil police station area, Samastipur, Bihar

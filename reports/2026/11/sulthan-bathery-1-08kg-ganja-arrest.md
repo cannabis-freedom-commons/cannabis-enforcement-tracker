@@ -1,4 +1,5 @@
 ---
+code: CJYMK5
 date: 2026-11-01
 country: in
 place: Sulthan Bathery, Wayanad, Kerala

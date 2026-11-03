@@ -1,4 +1,5 @@
 ---
+code: QZEAGK
 date: 2026-10-31
 country: br
 place: Rua Manoel Caetano de Farias, bairro Manoel Teles, Arapiraca, Alagoas

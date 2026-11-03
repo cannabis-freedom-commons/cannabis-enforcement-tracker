@@ -1,4 +1,5 @@
 ---
+code: J96932
 date: 2026-09-04
 country: kr
 place: Gangbuk-gu, Seoul

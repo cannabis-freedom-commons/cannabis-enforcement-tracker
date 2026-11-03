@@ -1,4 +1,5 @@
 ---
+code: RVQEK5
 date: 2025-08-15
 country: no
 place: Oslo Airport Gardermoen (flyfraktseksjonen), Ullensaker

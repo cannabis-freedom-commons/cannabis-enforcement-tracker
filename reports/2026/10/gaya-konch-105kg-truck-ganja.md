@@ -1,4 +1,5 @@
 ---
+code: BXJVXX
 date: 2026-10-30
 country: in
 place: Kauriya village, Konch, Gaya district, Bihar

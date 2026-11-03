@@ -4,6 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportcode"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -180,6 +181,15 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		}
 		front = strings.Split(strings.TrimRight(string(encoded), "\n"), "\n")
 	}
+	// Legacy reports gain a code on update; existing codes survive every case change.
+	codeAdded := mapping(header, "code") == nil
+	if codeAdded {
+		used, err := reportcode.Index(dir)
+		if err != nil {
+			return d, err
+		}
+		front = append([]string{"code: " + strconv.Quote(reportcode.Available(u.Report, used))}, front...)
+	}
 	// this run's sources, numbered as in the report: an already cited one keeps its number
 	number := map[int]int{}
 	added := map[string]bool{}
@@ -231,7 +241,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 			return d, err
 		}
 	}
-	changed := len(newSources) > 0 || archivesChanged
+	changed := len(newSources) > 0 || archivesChanged || codeAdded
 	body := strings.TrimSpace(parts[2])
 	extra := ""
 	for _, f := range u.Facts {

@@ -1,4 +1,5 @@
 ---
+code: AVSESM
 date: 2026-10-09
 country: in
 place: 12th Mile, Ambher, near Jorabat, Guwahati

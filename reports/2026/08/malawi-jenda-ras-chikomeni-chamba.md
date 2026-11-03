@@ -1,4 +1,5 @@
 ---
+code: 7GXWNJ
 date: 2026-08-07
 country: mw
 place: Jenda police roadblock, Mzimba district

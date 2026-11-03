@@ -1,4 +1,5 @@
 ---
+code: NXSWVJ
 date: 2026-09-20
 country: lk
 place: Bandaranaike International Airport, Katunayake

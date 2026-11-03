@@ -1,4 +1,5 @@
 ---
+code: R61CZT
 date: 2026-10-24
 country: id
 place: Padangsidimpuan, North Sumatra

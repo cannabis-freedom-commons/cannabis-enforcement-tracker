@@ -4,7 +4,6 @@ import { getCollection } from "astro:content";
 import { TYPES } from "./types.js";
 import { countryName, countryOf } from "./countries.js";
 import { centreOf } from "./map.js";
-import { codeOf } from "./code.js";
 import { figureRows } from "./figures.js";
 
 export const formatDate = (d) => d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
@@ -16,7 +15,6 @@ export const reports = entries.map(({ id, data, body }) => {
   const coordinates = data.coordinates ?? centreOf(data.country);
   return {
     id, ...data, body,
-    code: data.code ?? codeOf(id), // until npm run codes writes it into the file
     url: `report/${id}/`,
     countryName: countryName(data.country),
     parent: countryOf(data.country)?.parent ?? null,

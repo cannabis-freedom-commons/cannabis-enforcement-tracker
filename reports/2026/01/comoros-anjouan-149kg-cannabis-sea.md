@@ -1,4 +1,5 @@
 ---
+code: DMA8VA
 date: 2026-01-21
 country: km
 place: Comorian waters

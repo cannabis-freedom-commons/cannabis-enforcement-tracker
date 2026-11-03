@@ -1,4 +1,5 @@
 ---
+code: Q6PXP9
 date: 2026-10-05
 country: ng
 place: Otuo, Owan East, Edo

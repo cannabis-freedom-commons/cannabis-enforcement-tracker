@@ -1,4 +1,5 @@
 ---
+code: 53FD70
 date: 2026-11-02
 country: in
 place: Yogiatilha and Bhelvinda villages, Jhajha, Jamui district, Bihar

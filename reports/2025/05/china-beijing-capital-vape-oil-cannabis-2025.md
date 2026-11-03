@@ -1,4 +1,5 @@
 ---
+code: XRYACC
 date: 2025-05-28
 country: cn
 place: Beijing Capital International Airport, Beijing

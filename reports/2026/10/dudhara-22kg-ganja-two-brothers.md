@@ -1,4 +1,5 @@
 ---
+code: 3TRBMR
 date: 2026-10-30
 country: in
 place: Dudhara, Sant Kabir Nagar, Uttar Pradesh

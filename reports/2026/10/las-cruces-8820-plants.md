@@ -1,4 +1,5 @@
 ---
+code: 28V6CQ
 date: 2026-10-25
 country: gt
 place: Near Ixcoch and Ixmucané, Las Cruces, Petén

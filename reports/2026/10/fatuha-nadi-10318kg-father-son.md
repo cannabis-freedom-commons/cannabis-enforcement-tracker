@@ -1,4 +1,5 @@
 ---
+code: 58GE6Z
 date: 2026-10-28
 country: in
 place: Fatuha, Patna district

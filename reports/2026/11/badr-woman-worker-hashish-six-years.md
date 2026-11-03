@@ -1,4 +1,5 @@
 ---
+code: 02M0WX
 date: 2026-11-01
 country: eg
 place: Badr police district, Cairo

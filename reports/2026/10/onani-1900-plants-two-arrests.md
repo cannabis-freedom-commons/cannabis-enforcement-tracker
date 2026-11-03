@@ -1,4 +1,5 @@
 ---
+code: J12Q8B
 date: 2026-10-21
 country: it
 place: Onanì, Nuoro, Sardinia

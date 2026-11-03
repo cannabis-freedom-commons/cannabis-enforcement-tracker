@@ -1,4 +1,5 @@
 ---
+code: C5AY57
 date: 2026-09-17
 country: ec
 place: El Inca and La Morita, Quito

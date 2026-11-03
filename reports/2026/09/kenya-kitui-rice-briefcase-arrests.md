@@ -1,4 +1,5 @@
 ---
+code: T37Z9A
 date: 2026-09-26
 country: ke
 place: Kitui Police Station and Kanyonyoo, Kitui

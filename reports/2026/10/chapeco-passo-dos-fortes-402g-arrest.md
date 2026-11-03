@@ -1,4 +1,5 @@
 ---
+code: QESGGP
 date: 2026-10-28
 country: br
 place: Passo dos Fortes, Chapecó, Santa Catarina

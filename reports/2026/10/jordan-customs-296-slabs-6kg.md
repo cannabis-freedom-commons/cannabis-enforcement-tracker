@@ -1,4 +1,5 @@
 ---
+code: FY7PD6
 date: 2026-10-09
 country: jo
 place: Jordan

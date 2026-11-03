@@ -1,4 +1,5 @@
 ---
+code: GZ2TG4
 date: 2026-10-09
 country: id
 place: Holtekamp, Jayapura City, Papua

@@ -1,4 +1,5 @@
 ---
+code: 8QTYKC
 date: 2026-10-22
 country: to
 place: Nuku'alofa

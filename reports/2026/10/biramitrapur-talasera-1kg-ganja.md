@@ -1,4 +1,5 @@
 ---
+code: ZMA2JV
 date: 2026-10-28
 country: in
 place: Talasera Chowk, Biramitrapur, Sundargarh district, Odisha

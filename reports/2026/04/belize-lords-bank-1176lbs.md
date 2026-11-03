@@ -1,4 +1,5 @@
 ---
+code: 1AYQXZ
 date: 2026-04-08
 country: bz
 place: Lords Bank Village, Belize District

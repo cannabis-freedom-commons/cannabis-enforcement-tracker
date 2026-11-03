@@ -1,4 +1,5 @@
 ---
+code: TY1RDR
 date: 2026-10-02
 country: bd
 place: Chauddagram, Cumilla

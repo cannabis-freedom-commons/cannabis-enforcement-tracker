@@ -1,4 +1,5 @@
 ---
+code: R8B7D3
 date: 2026-10-30
 country: br
 place: Arapongas, Paraná

@@ -1,4 +1,5 @@
 ---
+code: 7KTW8G
 date: 2026-08-25
 country: bg
 place: Harsovo and Vishlene, Blagoevgrad Province

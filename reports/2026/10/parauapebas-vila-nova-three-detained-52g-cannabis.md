@@ -1,4 +1,5 @@
 ---
+code: AKM13W
 date: 2026-10-30
 country: br
 place: Invasão do Vila Nova, Parauapebas, Pará

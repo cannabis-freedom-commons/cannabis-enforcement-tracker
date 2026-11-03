@@ -1,4 +1,5 @@
 ---
+code: 7KX4GQ
 date: 2026-10-29
 country: kz
 place: Aktobe

@@ -1,4 +1,5 @@
 ---
+code: GABFNS
 date: 2026-10-08
 country: ng
 place: Edo State, Nigeria

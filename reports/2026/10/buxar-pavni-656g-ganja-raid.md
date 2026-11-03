@@ -1,4 +1,5 @@
 ---
+code: JJ82VV
 date: 2026-10-29
 country: in
 place: Pavni village, Buxar, Bihar

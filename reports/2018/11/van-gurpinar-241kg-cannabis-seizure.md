@@ -1,4 +1,5 @@
 ---
+code: HQSDCG
 date: 2018-11-19
 country: tr
 place: Kırkgeçit Mahallesi–Gürpınar road, Gürpınar, Van

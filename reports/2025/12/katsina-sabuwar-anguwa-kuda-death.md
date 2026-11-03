@@ -1,4 +1,5 @@
 ---
+code: FN1AHF
 date: 2025-12-27
 country: ng
 place: Sabuwar Anguwa, Katsina, Katsina State

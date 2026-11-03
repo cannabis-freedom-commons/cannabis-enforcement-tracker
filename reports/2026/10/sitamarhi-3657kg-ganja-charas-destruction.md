@@ -1,4 +1,5 @@
 ---
+code: TXGJEZ
 date: 2026-10-29
 country: in
 place: Sitamarhi district, Bihar

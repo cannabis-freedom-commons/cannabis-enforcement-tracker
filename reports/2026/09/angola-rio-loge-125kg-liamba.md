@@ -1,4 +1,5 @@
 ---
+code: 2FYJ7M
 date: 2026-09-12
 country: ao
 place: Rio Loge Grande inspection post, Zaire province

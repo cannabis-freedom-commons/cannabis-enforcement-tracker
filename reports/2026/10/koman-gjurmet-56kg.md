@@ -1,4 +1,5 @@
 ---
+code: GXXC2X
 date: 2026-10-30
 country: al
 place: Koman, Vau i Dejës, Shkodër

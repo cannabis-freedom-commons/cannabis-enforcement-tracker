@@ -1,4 +1,5 @@
 ---
+code: 6D0M93
 date: 2026-10-27
 country: it
 place: Cagliari and hinterland (Elmas, Monserrato, Quartu Sant'Elena, Quartucciu), Sardinia

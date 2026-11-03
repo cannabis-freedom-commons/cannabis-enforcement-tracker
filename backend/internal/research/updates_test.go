@@ -12,6 +12,7 @@ import (
 )
 
 const existingReport = `---
+code: 7KQ2MX
 date: 2026-10-30
 country: ua
 coordinates: [48.1765, 23.2912]

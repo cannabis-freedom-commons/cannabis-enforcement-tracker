@@ -1,4 +1,5 @@
 ---
+code: J78ZJK
 date: 2026-10-21
 country: br
 place: Assis, São Paulo

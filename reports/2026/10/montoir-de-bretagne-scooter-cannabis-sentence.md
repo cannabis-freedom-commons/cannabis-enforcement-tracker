@@ -1,4 +1,5 @@
 ---
+code: PDQ7V4
 date: 2026-10-13
 country: fr
 place: Montoir-de-Bretagne, Loire-Atlantique

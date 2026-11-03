@@ -1,4 +1,5 @@
 ---
+code: 7GBGF5
 date: 2026-11-03
 country: eg
 place: Dandara village, Qena Governorate

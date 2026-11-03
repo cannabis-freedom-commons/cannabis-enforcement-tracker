@@ -1,4 +1,5 @@
 ---
+code: 04PPC0
 date: 2026-09-29
 country: ru
 place: Sakha (Yakutia)

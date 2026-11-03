@@ -1,4 +1,5 @@
 ---
+code: ZYT59E
 date: 2026-10-08
 country: in
 place: Baikhuntapur village, Khowai district, Tripura

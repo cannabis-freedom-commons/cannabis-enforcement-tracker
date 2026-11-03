@@ -1,4 +1,5 @@
 ---
+code: TK5AH7
 date: 2026-10-31
 country: it
 place: via Isonzo, Lamezia Terme

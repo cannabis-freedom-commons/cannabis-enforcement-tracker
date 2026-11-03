@@ -1,4 +1,5 @@
 ---
+code: NX2HBZ
 date: 2026-09-10
 country: cr
 place: Corazón de Jesús, Hospital district, San José

@@ -1,4 +1,5 @@
 ---
+code: GFQ4C9
 date: 2026-10-13
 country: cl
 place: Población Norte Grande, Valdivia

@@ -1,4 +1,5 @@
 ---
+code: 4E4W3X
 date: 2026-10-29
 country: ma
 place: Boumalne Dadès, Tinghir province

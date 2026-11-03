@@ -1,4 +1,5 @@
 ---
+code: 8GK6A4
 date: 2026-10-29
 country: in
 place: Champawat, Uttarakhand

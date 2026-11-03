@@ -1,4 +1,5 @@
 ---
+code: 1GKYW1
 date: 2026-10-29
 country: cl
 place: Codegua and San Francisco de Mostazal, Cachapoal province, O'Higgins region

@@ -1,4 +1,5 @@
 ---
+code: YR08W9
 date: 2026-11-02
 country: it
 place: Reggio Calabria

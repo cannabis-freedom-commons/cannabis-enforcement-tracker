@@ -1,4 +1,5 @@
 ---
+code: G2D26G
 date: 2026-10-29
 country: ar
 place: San Javier, Misiones

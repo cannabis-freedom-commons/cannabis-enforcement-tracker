@@ -1,4 +1,5 @@
 ---
+code: GYW9RV
 date: 2026-10-09
 country: in
 place: Rajuri (Navgan), Beed

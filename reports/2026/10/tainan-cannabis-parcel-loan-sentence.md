@@ -1,4 +1,5 @@
 ---
+code: GFQMZR
 date: 2026-10-29
 country: tw
 place: Tainan

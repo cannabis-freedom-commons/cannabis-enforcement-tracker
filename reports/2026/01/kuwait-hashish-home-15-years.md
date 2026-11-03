@@ -1,4 +1,5 @@
 ---
+code: 8ZT9XA
 date: 2026-01-22
 country: kw
 place: Kuwait City

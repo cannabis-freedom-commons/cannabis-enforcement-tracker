@@ -1,4 +1,5 @@
 ---
+code: JNEPK5
 date: 2026-11-02
 country: in
 place: Hakbara-Chandergair crossing, Hajin, Bandipora district, Jammu and Kashmir

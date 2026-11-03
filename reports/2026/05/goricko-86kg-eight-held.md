@@ -1,4 +1,5 @@
 ---
+code: GV19N7
 date: 2026-05-04
 country: si
 place: Goričko, Murska Sobota

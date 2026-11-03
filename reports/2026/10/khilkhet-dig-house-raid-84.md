@@ -1,4 +1,5 @@
 ---
+code: 4RHSQN
 date: 2026-10-19
 country: bd
 place: Khilkhet Police Housing area, Dhaka

@@ -1,4 +1,5 @@
 ---
+code: YK4KGQ
 date: 2026-02-06
 country: ru
 place: Petergof, St Petersburg

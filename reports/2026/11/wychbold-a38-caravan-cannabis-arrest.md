@@ -1,4 +1,5 @@
 ---
+code: 18N6R6
 date: 2026-11-01
 country: gb
 place: A38 near Wychbold, Worcestershire

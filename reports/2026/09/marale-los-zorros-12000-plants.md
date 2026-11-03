@@ -1,4 +1,5 @@
 ---
+code: RXE6EE
 date: 2026-09-05
 country: hn
 place: Los Zorros, Marale, Francisco Morazán

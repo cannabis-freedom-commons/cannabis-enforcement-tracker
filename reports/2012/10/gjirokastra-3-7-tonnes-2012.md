@@ -1,4 +1,5 @@
 ---
+code: 8MWEQ7
 date: 2012-10-19
 country: al
 place: Gjirokastër and Kakavijë

@@ -1,4 +1,5 @@
 ---
+code: MBK69C
 date: 2026-08-27
 country: ec
 place: Guamá Alto, Tulcán, Carchi

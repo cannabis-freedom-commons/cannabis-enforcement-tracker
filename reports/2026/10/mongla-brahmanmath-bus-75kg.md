@@ -1,4 +1,5 @@
 ---
+code: 79HRX5
 date: 2026-10-06
 country: bd
 place: Brahmanmath, Chandpai, Mongla, Bagerhat

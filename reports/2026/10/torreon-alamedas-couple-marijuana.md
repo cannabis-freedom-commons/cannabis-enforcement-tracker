@@ -1,4 +1,5 @@
 ---
+code: 524MQE
 date: 2026-10-28
 country: mx
 place: Avenida Ricardo Flores Magón, colonia Alamedas, Torreón, Coahuila

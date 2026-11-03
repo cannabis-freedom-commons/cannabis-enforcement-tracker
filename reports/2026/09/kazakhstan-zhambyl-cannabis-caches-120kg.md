@@ -1,4 +1,5 @@
 ---
+code: KVH8AX
 date: 2026-09-16
 country: kz
 place: Zhambyl region, Kazakhstan

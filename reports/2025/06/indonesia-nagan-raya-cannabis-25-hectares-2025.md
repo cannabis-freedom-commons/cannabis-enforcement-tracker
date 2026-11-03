@@ -1,4 +1,5 @@
 ---
+code: 69H6ZE
 date: 2025-06-24
 country: id
 place: Beutong Ateuh Banggalang, Nagan Raya, Aceh

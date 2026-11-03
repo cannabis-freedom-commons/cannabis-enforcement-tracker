@@ -1,4 +1,5 @@
 ---
+code: YTAMDQ
 date: 2026-10-14
 country: ie
 place: Longford, Mayo, Roscommon, Wexford and Carlow

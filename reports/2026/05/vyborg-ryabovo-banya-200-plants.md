@@ -1,4 +1,5 @@
 ---
+code: GVE97D
 date: 2026-05-15
 country: ru
 place: Ryabovo, Vyborg district, Leningrad Oblast

@@ -1,4 +1,5 @@
 ---
+code: 2V9YD9
 date: 2026-10-30
 country: ar
 place: Barrios Feria y Eucaliptal, La Paz, Entre Ríos

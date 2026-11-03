@@ -1,4 +1,5 @@
 ---
+code: P3VBQD
 date: 2026-11-01
 country: bd
 place: Paschim Moilakanda, Gouripur, Mymensingh

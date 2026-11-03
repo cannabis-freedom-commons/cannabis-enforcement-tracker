@@ -1,4 +1,5 @@
 ---
+code: DZEFKK
 date: 2026-11-01
 country: cu
 place: Mexico neighborhood, Las Tunas, Las Tunas Province

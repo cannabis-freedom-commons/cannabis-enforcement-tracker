@@ -1,4 +1,5 @@
 ---
+code: BF3R5B
 date: 2026-10-31
 country: in
 place: Bajaura bridge, Kullu district, Himachal Pradesh

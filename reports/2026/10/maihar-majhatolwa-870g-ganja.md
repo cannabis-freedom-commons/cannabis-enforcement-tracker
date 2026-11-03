@@ -1,4 +1,5 @@
 ---
+code: 32X9VC
 date: 2026-10-29
 country: in
 place: Majhatolwa village, Ramnagar, Maihar

@@ -1,4 +1,5 @@
 ---
+code: 2J6BFE
 date: 2026-11-01
 country: in
 place: Chhatrapati Shivaji Maharaj International Airport (CSMI Airport), Mumbai

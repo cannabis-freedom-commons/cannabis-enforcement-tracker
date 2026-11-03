@@ -1,4 +1,5 @@
 ---
+code: 1511XN
 date: 2026-10-18
 country: in
 place: Gorakhpur-Kushinagar road, Uttar Pradesh

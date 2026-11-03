@@ -1,4 +1,5 @@
 ---
+code: G8JG5Z
 date: 2026-10-26
 country: ru
 place: Rostov-on-Don, Rostov Oblast

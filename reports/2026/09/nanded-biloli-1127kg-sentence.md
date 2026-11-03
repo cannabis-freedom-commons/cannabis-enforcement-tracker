@@ -1,4 +1,5 @@
 ---
+code: GWBB6K
 date: 2026-09-08
 country: in
 place: Manjram village, Naigaon, Nanded district, Maharashtra

@@ -1,4 +1,5 @@
 ---
+code: D4DN5C
 date: 2026-07-13
 country: at
 place: Traiskirchen, Baden district, Lower Austria

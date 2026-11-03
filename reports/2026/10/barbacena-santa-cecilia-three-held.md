@@ -1,4 +1,5 @@
 ---
+code: MGYF8A
 date: 2026-10-31
 country: br
 place: Bairro Santa Cecília, Barbacena, Minas Gerais

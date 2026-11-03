@@ -1,4 +1,5 @@
 ---
+code: VKBPN4
 date: 2026-10-31
 country: ma
 place: Tiznit, Souss-Massa

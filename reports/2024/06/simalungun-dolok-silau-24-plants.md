@@ -1,4 +1,5 @@
 ---
+code: 7MDBMV
 date: 2024-06-14
 country: id
 place: Juma Lepar, Nagori Ujung Bawang, Dolok Silau, Simalungun, North Sumatra

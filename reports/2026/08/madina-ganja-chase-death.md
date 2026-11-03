@@ -1,4 +1,5 @@
 ---
+code: 77E5HC
 date: 2026-08-20
 country: id
 place: Darussalam, Panyabungan Timur, Mandailing Natal

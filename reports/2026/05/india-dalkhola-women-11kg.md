@@ -1,4 +1,5 @@
 ---
+code: J9WFSS
 date: 2026-05-24
 country: in
 place: NH12 bypass underpass, Dalkhola, Uttar Dinajpur

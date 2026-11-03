@@ -1,4 +1,5 @@
 ---
+code: DKW6SP
 date: 2018-12-06
 country: th
 place: Bang Phli district, Samut Prakan

@@ -1,4 +1,5 @@
 ---
+code: DFQ8SW
 date: 2026-10-31
 country: in
 place: Kardanoor village, Patancheru, Sangareddy district

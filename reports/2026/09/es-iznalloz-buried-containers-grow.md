@@ -1,4 +1,5 @@
 ---
+code: E50HKN
 date: 2026-09-26
 country: es
 place: Iznalloz, Los Montes, Granada

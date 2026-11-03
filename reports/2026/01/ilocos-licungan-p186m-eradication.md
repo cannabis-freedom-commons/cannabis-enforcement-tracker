@@ -1,4 +1,5 @@
 ---
+code: PKSNME
 date: 2026-01-21
 country: ph
 place: Licungan, Sugpon, Ilocos Sur and Tacadang, Kibungan, Benguet

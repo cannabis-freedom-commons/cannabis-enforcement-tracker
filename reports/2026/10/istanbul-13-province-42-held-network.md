@@ -1,4 +1,5 @@
 ---
+code: 4E0V6B
 date: 2026-10-13
 country: tr
 place: Istanbul

@@ -1,4 +1,5 @@
 ---
+code: RPNW8N
 date: 2026-10-22
 country: in
 place: Rupnagar, Punjab

@@ -1,4 +1,5 @@
 ---
+code: ZTTHPS
 date: 2026-10-31
 country: pl
 place: Property in a village near Głogów

@@ -1,4 +1,5 @@
 ---
+code: SGZZQ5
 date: 2026-09-05
 country: dz
 place: East–West Highway, Chlef wilaya

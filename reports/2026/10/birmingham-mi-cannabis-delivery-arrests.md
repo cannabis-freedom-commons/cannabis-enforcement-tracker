@@ -1,4 +1,5 @@
 ---
+code: BXWK6Z
 date: 2026-10-16
 country: us/mi
 place: Birmingham, Michigan

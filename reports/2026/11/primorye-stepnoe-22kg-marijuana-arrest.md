@@ -1,4 +1,5 @@
 ---
+code: XYPH8E
 date: 2026-11-02
 country: ru
 place: near Stepnoe village, Ussuriysky urban district, Primorsky Krai
