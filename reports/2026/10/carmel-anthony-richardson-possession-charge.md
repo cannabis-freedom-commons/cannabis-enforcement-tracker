@@ -32,6 +32,10 @@ sources:
     url: https://www.espn.com/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession
     publisher: ESPN
     date: 2026-10-23
+  - title: Colts QB Anthony Richardson charged with marijuana possession after traffic stop
+    url: https://sports.yahoo.com/articles/colts-qb-anthony-richardson-charged-141120783.html
+    publisher: Yahoo Sports
+    date: 2026-10-23
 open_questions:
   - No weight was published for the mason jar contents or the THC-infused gummies, so no cannabis quantity is recorded.
   - The filing date of 19 October 2026 is inferred from the charge being filed on the Monday a week after the Oct. 12 stop.
@@ -44,11 +48,14 @@ open_questions:
   - The page's lead image is described as Indianapolis Colts v Pittsburgh Steelers and does not depict the traffic stop or seizure, so no media entry is listed.
   - ESPN schedules the bench trial for Jan. 4 without stating the year, while the existing report gives January 2027.
   - ESPN describes 500-milligram THC-infused gummies found in the glove compartment, while the existing report describes a small mason jar and an opened bag of THC-infused gummies.
+  - The submitted page does not name Carmel, Indiana as the stop location, so place corroboration for Carmel continues to rely on the existing report's earlier sources.
+  - The submitted page gives no filing date, hearing date, or bench-trial date beyond the Friday charge and Oct. 12 stop.
+  - The page's only picture is a Getty pre-game image of Richardson and does not depict the stop or seizure, so no media entry is listed.
 ---
 
 Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor charge
 of marijuana possession following an Oct. 12 traffic stop in Carmel, Indiana.
-[@1,2,4] Court documents show the charge was filed on the Monday a week after
+[@1,2,4,5] Court documents show the charge was filed on the Monday a week after
 officers stopped his black 2023 Dodge Charger. [@1] The vehicle's registration
 was reportedly expired and assigned to a different car. [@1] Richardson was
 handcuffed after exiting the car, but he was not arrested and was released with
@@ -57,11 +64,11 @@ a citation for the expired registration and a summons for marijuana possession.
 
 Police said the car pulled to the side of the road and officers noticed the odor
 of marijuana as they approached. [@1] Richardson reportedly admitted that he had
-smoked marijuana in the car so as not to do so in front of his children. [@1,3,4] He
+smoked marijuana in the car so as not to do so in front of his children. [@1,3,4,5] He
 also told police that he possessed a small amount of marijuana in the car. [@1]
 Officers searching the car reportedly found a small mason jar containing a
 substance believed to be marijuana and an opened bag of THC-infused gummies.
-[@1,2,3] The substance reportedly tested positive for THC. [@1]
+[@1,2,3,5] The substance reportedly tested positive for THC. [@1]
 
 The Colts said they were aware of the situation, were gathering additional
 information and would have no further comment. [@1,3,4] Richardson's agent said
