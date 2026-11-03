@@ -48,6 +48,11 @@ sources:
     publisher: Boishakhi Online
     date: 2026-11-02
     language: bn
+  - title: দীর্ঘদিন ধরে সীমান্ত থেকে বিশেষ কায়দায় গাঁজা আনতেন নারী, অতঃপর...
+    url: https://rtvonline.com/country/413370
+    publisher: RTV
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
   - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
@@ -58,6 +63,8 @@ open_questions:
   - The submitted article's lede rounds the seizure to 4 kg while its body states 4.2 kg; the existing report uses 4.2 kg.
   - The submitted page carries a lead image without caption or credit, so whether it shows this seizure could not be established and no media entry is added.
   - No court outcome beyond filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
+  - The RTV page carries a lead image without caption or credit, so whether it shows this seizure could not be established and no media entry is added.
+  - The RTV account says biscuit packets without naming the Lexus brand used in the existing report; that brand detail continues to rely on the earlier sources.
 ---
 
 SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
@@ -66,17 +73,17 @@ technique. [@1,3] An SRB-11 Sadar Company operational team in Narayanganj set up
 highway checkpoint on secret information and detained Aklima as she travelled
 disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2] The
 arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
-and is the wife of Rajesh Sikder. [@1,2,3,4]
+and is the wife of Rajesh Sikder. [@1,2,3,4,5]
 
 Officers searched the Lexus biscuit packet she was carrying and recovered 4 kg
 200 grams of ganja, the local term for cannabis, according to the SRB-11
 account. [@1,2,3,4] The operation took place at about 7:30 pm on Sunday, 1 November,
 in front of the Bismillah Filling Station under Sonargaon Police Station on the
-Dhaka-Chattogram highway. [@1,2]
+Dhaka-Chattogram highway. [@1,2,5]
 
 In its press account, SRB-11 described Aklima as an active member of an
 organised drug-trafficking ring who had long collected large consignments of
 banned drugs from border areas and carried, supplied and sold them in
 Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1] A
 regular case has been filed against her at Sonargaon Police Station under the
-Narcotics Control Act. [@1,2,3,4]
+Narcotics Control Act. [@1,2,3,4,5]
