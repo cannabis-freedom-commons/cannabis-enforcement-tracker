@@ -31,6 +31,11 @@ sources:
     publisher: RBA TV
     date: 2026-11-02
     language: pt
+  - title: Apreensão de drogas em Agronômica. Crack e maconha tinham como destino Pouso Redondo
+    url: https://www.rbatv.com.br/noticias/apreensao-de-drogas-em-agronomica-crack-e-maconha-tinham-como-destino-pouso-redondo/
+    publisher: RBA TV
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No second account of the same BR-470 stop was found; only one source could be opened.
   - The source gives no name, age or other identity for the arrested driver.
@@ -38,6 +43,9 @@ open_questions:
   - No charges or court outcome beyond transfer to the Civil Police station were reported.
   - The cannabis figure counts only the reported 4.1 kg of maconha; the 501 g of crack from the same stop is excluded from kg_seized.
   - Whether the lead PMSC-credited photo depicts this seizure could not be independently established beyond its caption.
+  - The opened page contains no readable article body beyond its title and a YouTube embed, so quantities, arrests and circumstances cannot be checked in this account.
+  - The page was published on 3 November 2026 while the existing report dates the BR-470 stop to 2 November 2026; the difference appears to be publication timing for the same seizure.
+  - The lead image listed as Drogas Agron was not added as media because its caption does not establish what it depicts.
 ---
 
 The interception took place during a Military Police patrol on highway BR-470.
@@ -51,10 +59,9 @@ station. [@1]
 
 The stop yielded approximately 4.1 kilograms of maconha (marijuana) together
 with 501 grams of crack on the afternoon of Monday 2 November 2026 in
-Agronômica. [@1] Inside the boot officers found five bricks of marijuana, a
+Agronômica. [@1,2] Inside the boot officers found five bricks of marijuana, a
 smaller piece of the same drug and just over half a kilogram of crack. [@1]
 Officers also seized a mobile phone from the driver. [@1]
 
 The account describes Itajaí as the collection point and Pouso Redondo as the
-intended destination for the load. [@1]
-
+intended destination for the load. [@1,2]
