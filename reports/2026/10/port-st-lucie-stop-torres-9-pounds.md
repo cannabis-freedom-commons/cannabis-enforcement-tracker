@@ -52,6 +52,10 @@ sources:
     url: https://www.wqcs.org/wqcs-news/2026-10-31/port-st-lucie-police-seize-9-pounds-of-marijuana-during-traffic-stop
     publisher: WQCS
     date: 2026-10-31
+  - title: 'Port St. Lucie police: Traffic stop leads to nearly 9 pounds of marijuana seizure'
+    url: https://cw34.com/news/local/gallery/port-st-lucie-police-traffic-stop-leads-to-nearly-9-pounds-of-marijuana-seizure-1450-cash-packaged-for-distribution-intent-to-sell-?photo=1
+    publisher: WTVX
+    date: 2026-10-30
 open_questions:
   - Police gave no street value for the marijuana; the $1,450 in the reports is cash found in the vehicle, not a valuation.
   - No court date, plea or outcome was reported after Torres was released on bail.
@@ -79,7 +83,7 @@ vacuum-sealed and individually packaged bags, as well as loose suspected
 marijuana in the seats and floorboard, and investigators said the marijuana had
 been packaged for distribution. [@1,4,6] The traffic stop led to the seizure of
 nearly 9 pounds (about 4.1 kilograms) of marijuana and $1,450 in cash, police
-said. [@1,3,4,5,6] The 2019 Kia Optima was also seized under the Florida Contraband
+said. [@1,3,4,5,6,7] The 2019 Kia Optima was also seized under the Florida Contraband
 Forfeiture Act. [@1,4,6]
 
 Torres told officers he and his girlfriend had argued and that he grabbed the
