@@ -51,6 +51,11 @@ sources:
     publisher: La Ciutat
     date: 2026-11-03
     language: es
+  - title: Los Mossos desmantelan una plantación con 327 plantas de marihuana en el centro de Tortosa
+    url: https://www.diaridetarragona.com/sucesos/274713/mossos-desmantelan-plantacion-327-plantas-marihuana-centro-tortosa_amp.html
+    publisher: Diari de Tarragona
+    date: 2026-11-03
+    language: es
 open_questions:
   - Only one source for this event could be opened; no second report confirming the raid was found.
   - The operation is dated only as Sunday around 22:00; 1 November 2026, the Sunday before the 3 November publication, is used as the incident date.
@@ -62,21 +67,21 @@ open_questions:
 ---
 
 Mossos d'Esquadra, Catalonia's police force, dismantled an indoor marijuana
-plantation in a home in the historic centre of Tortosa. [@1,3] Officers arrested a
+plantation in a home in the historic centre of Tortosa. [@1,3,5] Officers arrested a
 30-year-old man as the alleged author of a drug-trafficking offence against
-public health. [@1,2,3,4] The man was also accused of an electricity-fraud offence.
+public health. [@1,2,3,4,5] The man was also accused of an electricity-fraud offence.
 [@1,2] The detainee was released a few hours later and must appear before the
 judicial authority when required. [@1,4]
 
 The operation took place on Sunday at around 22:00 after officers of the Tortosa
 public-safety unit confirmed a possible plantation in a house on Carreró de
-Cabanes. [@1,2,3] Officers observed covered windows and running air-conditioning
+Cabanes. [@1,2,3,5] Officers observed covered windows and running air-conditioning
 units and smelled marijuana in the premises and ventilation ducts before
 entering and searching the building. [@1] Inside they found a marijuana grow
 with complex lighting and cooling equipment, with several rooms altered to hold
 lamps, humidifiers, fans, air conditioners and exterior air outlets. [@1,4] The
 Mossos seized 327 marijuana plants up to one metre tall in an advanced state of
-flowering, plus about ten wraps of cocaine. [@1,2,3,4]
+flowering, plus about ten wraps of cocaine. [@1,2,3,4,5]
 
 The house was illegally connected to the electricity supply to power the
 installation, producing disproportionate consumption. [@1] The Mossos dismantled
