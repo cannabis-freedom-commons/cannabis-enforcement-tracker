@@ -71,6 +71,11 @@ sources:
     publisher: Diario de Valladolid
     date: 2026-10-31
     language: es
+  - title: Detenidos una mujer y dos hombres de la misma familia por vender cocaína en una vivienda de Las Delicias
+    url: https://www.valladolidplural.com/sucesos/detenidos-mujer-dos-hombres-misma-familia-vender-cocaina-vivienda-delicias/20261101130101073891.html
+    publisher: Valladolid Plural
+    date: 2026-11-01
+    language: es
 open_questions:
   - No separate figure was published for the value of the marijuana and hashish; the police valuation of €20,150 and the estimate of 690 doses cover the cocaine, marijuana and hashish together.
   - The reports name none of the three detainees or give their ages, and no formal charges, court date or trial outcome were reported.
@@ -82,24 +87,24 @@ open_questions:
 ---
 
 National Police officers arrested a woman and two men, all members of one
-family, in Valladolid on Wednesday 28 October 2026. [@3,4] The woman lived in the
-flat with her partner and son. [@1,4,8] Police said the flat, in Las Delicias, was a
+family, in Valladolid on Wednesday 28 October 2026. [@3,4,9] The woman lived in the
+flat with her partner and son. [@1,4,8,9] Police said the flat, in Las Delicias, was a
 retail point for cocaine. [@1] They were detained on suspicion of drug
 trafficking after officers searched the home. [@2] Police said the woman and her
-partner had both been arrested before for similar offences. [@1] With the
+partner had both been arrested before for similar offences. [@1,9] With the
 operation, code-named SMURF, police declared the cocaine sales point dismantled.
-[@1,4,8]
+[@1,4,8,9]
 
 The search turned up 145 grams of cocaine, 500 grams of marijuana and 150 grams
-of hashish. [@1,4,6,8] Officers also seized €3,115 in cash, two bladed weapons and
-numerous utensils used to prepare and distribute drugs. [@1,4,7] Police estimated
+of hashish. [@1,4,6,8,9] Officers also seized €3,115 in cash, two bladed weapons and
+numerous utensils used to prepare and distribute drugs. [@1,4,7,9] Police estimated
 the haul could have made about 690 doses for direct sale and valued it at
-€20,150 on the illegal market. [@1,4,7,8]
+€20,150 on the illegal market. [@1,4,7,8,9]
 
 The two men gave statements at the Provincial Police Station in Valladolid and
-were released, with an obligation to appear before a court when required. [@1,4,7,8] A
+were released, with an obligation to appear before a court when required. [@1,4,7,8,9] A
 judge ordered the woman held in prison after she was brought before the court.
-[@1,5,8] The investigation began in August, after reports that a woman was selling
-drugs from her home and its surroundings. [@2,4] Police said the inquiry ran into
+[@1,5,8,9] The investigation began in August, after reports that a woman was selling
+drugs from her home and its surroundings. [@2,4,9] Police said the inquiry ran into
 difficulties because the suspects took security measures to detect police
 movements. [@1]
