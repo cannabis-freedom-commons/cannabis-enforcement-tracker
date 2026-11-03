@@ -36,23 +36,30 @@ sources:
     url: https://kashmirlife.net/two-drug-peddlers-arrested-in-separate-operations-in-south-kashmir-459372/
     publisher: Kashmir Life
     date: 2026-11-02
+  - title: 'Srinagar News: नशा तस्करी के दो आरोपी गिरफ्तार, चरस व गांजा बरामद'
+    url: https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-drug-smuggling-two-arrested-hashish-recovered-srinagar-news-c-10-1-agr1010-1054343-2026-11-03
+    publisher: Amar Ujala
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The reports carry 2 November 2026 datelines and publication dates but give no separate day for the two operations.
   - The sources name no lawyer, court date or custody outcome for either man.
   - The sources' lead images could not be confirmed as photographs of these seizures, so no media entry was added.
+  - The submitted page was published on 3 November 2026 while the existing report's sources are dated 2 November 2026, with no separate day given for the two operations.
+  - The page's lead image is a 2021 file image captioned only with the generic headline, so it cannot be confirmed as a photograph of these seizures.
 ---
 
 Anantnag police arrested two alleged drug peddlers in separate operations run by
-its Mattan and Srigufwara stations. [@1,2,3,4]
+its Mattan and Srigufwara stations. [@1,2,3,4,5]
 
 A Mattan police team searched Aamir Ayoub Khan, a resident of Khurd Gopalpora,
-and recovered about 17.8 grams of charas from him. [@1,2,3,4] Police registered
+and recovered about 17.8 grams of charas from him. [@1,2,3,4,5] Police registered
 FIR No. 126/2026 under Sections 8/20 of the NDPS Act at Mattan station.
 [@1,2,3,4]
 
 Separately, a Srigufwara team stopped Sahil Ahmad Bhat, a resident of Hanji
 Danter, during naka checking at Pethnoo Crossing and recovered about 30 grams
-of cannabis from him. [@1,2,3,4] Police registered FIR No. 111/2026 under
+of cannabis from him. [@1,2,3,4,5] Police registered FIR No. 111/2026 under
 Sections 8/20 of the NDPS Act at Srigufwara station. [@1,2,3,4] Police said
 investigation in both cases was underway to trace the sources of the drugs and
 the accused men's forward and backward links. [@1,2,3]
