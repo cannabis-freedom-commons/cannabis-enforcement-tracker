@@ -59,6 +59,11 @@ sources:
     publisher: 香港01
     date: 2026-11-03
     language: zh
+  - title: 香港電競網紅Toyz假釋出獄！ 移民署今強制驅逐出境 - 社會 - 自由時報電子報
+    url: https://news.ltn.com.tw/amp/news/society/breakingnews/5627954
+    publisher: 自由時報電子報
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -70,19 +75,19 @@ open_questions:
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
 supervision on 20 October. [@2,4,5]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
-term. [@1]
+term. [@1,6]
 
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
 Hong Kong. [@2,4] Immigration said any future application by Liu to reside in
