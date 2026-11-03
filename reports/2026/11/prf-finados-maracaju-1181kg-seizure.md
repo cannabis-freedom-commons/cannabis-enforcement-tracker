@@ -30,6 +30,11 @@ sources:
     publisher: Midiamax
     date: 2026-11-03
     language: pt
+  - title: Maconha, cocaína e pistolas apreendidas em MS
+    url: https://www.douranews.com.br/policia/2026/11/03/maconha-cocaina-e-pistolas-apreendidas-em-ms.html
+    publisher: Douranews
+    date: 2026-11-03
+    language: pt
 open_questions:
   - Only one accessible source for this event was found after searching in Portuguese; no second outlet or agency statement could be opened.
   - The article says the balance covers Friday (30) to Sunday (2) but also dates the Campo Grande seizure to Sunday (1); 1 November 2026 was a Sunday and 2 November a Monday, so 1 November is used as the incident date.
@@ -50,14 +55,13 @@ after officers found 10 9-mm pistols and magazines hidden in a Fiat Mobi panel
 and were taken to the Federal Police. [@1]
 
 Across the four cases the police reported seizing 1,172 kilos of marijuana, 608
-kilos of cocaine and 10 pistols. [@1] In the Maracaju car officers found 1,171
+kilos of cocaine and 10 pistols. [@1,2] In the Maracaju car officers found 1,171
 kilos of marijuana and 10.9 kilos of hashish, the cannabis component recorded
-here. [@1] In Anastácio officers seized 233.8 kilos of coca paste and 37.4 kilos
-of cocaine hydrochloride from a truck with bales covered by a tarpaulin. [@1] In
+here. [@1,2] In Anastácio officers seized 233.8 kilos of coca paste and 37.4 kilos
+of cocaine hydrochloride from a truck with bales covered by a tarpaulin. [@1,2] In
 São Gabriel do Oeste officers found 337 kilos of coca paste hidden in
 compartments in a truck roof. [@1]
 
 The roundup covered four major cases registered between Friday the 30th and
 Sunday in Anastácio, Maracaju, São Gabriel do Oeste and Campo Grande. [@1] The
 operation was conducted by the PRF, the Polícia Rodoviária Federal. [@1]
-
