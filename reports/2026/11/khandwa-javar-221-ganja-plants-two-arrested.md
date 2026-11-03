@@ -28,30 +28,39 @@ sources:
     publisher: MP Breaking News
     date: 2026-11-03
     language: hi
+  - title: Two farmers arrested, 221 cannabis plants seized in Khandwa
+    url: https://timesofindia.indiatimes.com/city/indore/two-farmers-arrested-221-cannabis-plants-seized-in-khandwa/articleshow/135511498.cms
+    publisher: The Times of India
+    date: 2026-11-04
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
   - The page carries an image captioned only Khandwa News which does not establish what it shows, so no media entry is listed
   - No court outcome beyond registration of cases against the two men was reported
+  - The Times of India gives 100.7 kg for the second field's 111 plants, while the existing report gives about 100.339 kg for that field; the total 221 plants and 295.7 kg otherwise match.
+  - The Times of India was published on 4 November 2026 and says the seizure happened on Monday, while the existing report uses 3 November 2026 from the earlier outlet's publication date, so the exact raid date remains uncertain.
+  - Name spellings differ between outlets as Jawar/Javar, Debri Faliya Kaisoon/Debri Falya Kaisun and tur/tuar, but the village, police, names, ages and plant counts identify the same event.
+  - The page image is captioned only with the headline and does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Javar police raided two separate fields in Debri Falya Kaisun village and found
 ganja being grown illegally. [@1] Police said they acted after an informer
-reported that two farmers in the village were growing ganja. [@1] Police
+reported that two farmers in the village were growing ganja. [@1,2] Police
 searched the field near the house of Dariyavsingh, son of Savarn Ningwal, aged
 48. [@1] Police arrested the owner of that first field. [@1] Police searched the
 field of Bhuru alias Rajesh, son of Sagar Bhilala, aged 40. [@1] Police arrested
 field owner Bhuru alias Rajesh. [@1] Police registered cases against both men
-and started an investigation. [@1]
+and started an investigation. [@1,2]
 
 Officers uprooted and seized a total of 221 green ganja plants with a combined
-weight of 295.700 kilograms. [@1] Police put the estimated value of the seized
+weight of 295.700 kilograms. [@1,2] Police put the estimated value of the seized
 plants at 29 lakh 57 thousand rupees. [@1] The plants were growing among cotton
-and tuar crops in both fields. [@1] The first field yielded about 110 plants
-weighing 195.361 kilograms. [@1] The second field yielded 111 plants weighing
+and tuar crops in both fields. [@1,2] The first field yielded about 110 plants
+weighing 195.361 kilograms. [@1,2] The second field yielded 111 plants weighing
 about 100.339 kilograms. [@1]
 
 Police said they are investigating how long the cultivation had continued and
 where the seized plants were to be sold or used. [@1] Police said the action
 against narcotics will continue. [@1]
 
+Khandwa SP Agam Jain said police verified information that two farmers were cultivating cannabis before conducting the raids. [@2]
