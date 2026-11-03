@@ -50,6 +50,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-03
     language: tr
+  - title: Manisa Alaşehir'de Operasyonda 113,68 Gram Metamfetamin Ele Geçirildi, Y.S. Tutuklandı
+    url: https://www.ngazete.com/service/amp/manisa-alasehirde-operasyonda-11368-gram-metamfetamin-ele-gecirildi-y-s-tutuklandi-285270h.htm
+    publisher: N Gazete
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the searches and detention, so the publication date is used as the incident date.
   - The 113.68 grams of methamphetamine and 299 synthetic pills are excluded from cannabis figures, and no combined drug total is counted as cannabis.
@@ -63,17 +68,17 @@ open_questions:
 ---
 
 Police in Alaşehir district in Manisa province carried out an operation aimed at
-preventing the sale and use of narcotic substances. [@1] The work was conducted
+preventing the sale and use of narcotic substances. [@1,7] The work was conducted
 by teams of the Alaşehir office of the narcotics crime-combating branch. [@1] As
 part of the operation, officers searched two separate addresses linked to Y.S.,
 who is reported as 34 years old. [@1,5] Y.S. was detained during the operation
 and, after procedures at the police station, was referred to the courthouse,
-where the court ordered remand in custody. [@1,3,5,6]
+where the court ordered remand in custody. [@1,3,5,6,7]
 
 Searches at the two addresses recovered 2.86 grams of cannabis, which the report
-calls esrar, the Turkish term for cannabis. [@1,4,5] The same searches also
+calls esrar, the Turkish term for cannabis. [@1,4,5,7] The same searches also
 recovered 113.68 grams of methamphetamine and 299 synthetic pills described as
-sentetik ecza. [@1,2,6] The methamphetamine and synthetic pills are non-cannabis
+sentetik ecza. [@1,2,6,7] The methamphetamine and synthetic pills are non-cannabis
 substances in this mixed seizure and are excluded from the cannabis seizure
 figure. [@1] The cannabis component therefore stands separately supported at
 only 2.86 grams, while the wider case remains a predominantly methamphetamine
