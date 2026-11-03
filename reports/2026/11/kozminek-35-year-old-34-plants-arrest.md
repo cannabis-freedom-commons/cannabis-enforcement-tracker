@@ -40,6 +40,11 @@ sources:
     publisher: Ostrów Wielkopolski Nasze Miasto
     date: 2026-11-02
     language: pl
+  - title: Zatrzymany za narkotyki
+    url: https://zyciekalisza.pl/artykul/zatrzymany-za-narkotyki-n1875305
+    publisher: Życie Kalisza
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search and arrest, so the publication date is used as the incident date.
   - The exact village or address of the property was not named beyond the Koźminek police area, so Koźminek is used as the place.
@@ -48,19 +53,22 @@ open_questions:
   - No court outcome beyond the charges has been reported.
   - Only one source for this event was found.
   - 'Left out, as its quotation was not found in Kalisz Nasze Miasto: Officers entered the property while acting in connection with one of their ongoing cases.'
+  - The submitted page was published on 3 November 2026 while the existing report uses 2 November 2026 from earlier coverage; no separate date for the search and arrest is given.
+  - The submitted page credits its lead photo to pixabay, indicating stock imagery, so no media entry is added.
+  - The submitted page says the man was detained and faces 3 years, without explicitly stating a charge already filed as in the existing report.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the
 property where he lived in connection with growing cannabis and dealing drugs.
-[@1,2,3] He has already been charged and faces up to three years in prison. [@1,2]
+[@1,2,3,4] He has already been charged and faces up to three years in prison. [@1,2]
 
 During a search of the premises, they found a foil tunnel prepared for cannabis
 cultivation, holding seedlings at various growth stages as well as seed trays.
-[@1] They seized 34 cannabis bushes. [@1,2,3] They also seized more than 540 grams
+[@1,4] They seized 34 cannabis bushes. [@1,2,3,4] They also seized more than 540 grams
 of ready-made cannabis dried material, alongside more than 40 grams of a
-psychotropic substance described as an amphetamine derivative. [@1,2,3] Police put
+psychotropic substance described as an amphetamine derivative. [@1,2,3,4] Police put
 the estimated black-market value of the seized ready-made drugs at nearly 25,000
-zlotys. [@1]
+zlotys. [@1,4]
 
 Police said they continue work to identify the unlawful production and sale of
 intoxicants, and that successive batches of seized drugs will not reach the
