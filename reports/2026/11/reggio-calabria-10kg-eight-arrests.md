@@ -30,6 +30,11 @@ sources:
     publisher: Corriere della Calabria
     date: 2026-11-02
     language: it
+  - title: 'Criminalità giovanile, operazione nazionale della polizia: nel Reggino 8 arresti e 10 chili di droga sequestrati'
+    url: https://www.reggiotoday.it/cronaca/reggio-calabria-polizia-controlli-giovani-arresti-denunce.html
+    publisher: ReggioToday
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only their publication date of 2 November 2026 and no separate date for the checks, so that date is used as the incident date.
   - The marijuana amount is stated as about 10 kg, so the 10.037 kg cannabis total is approximate.
@@ -39,6 +44,7 @@ open_questions:
   - No independent weighing beyond the police count is reported.
   - No photo is listed because the CityNow image is captioned only Polizia Rc Volante with a 2024 file path and the Corriere image caption does not establish that it shows this seizure.
   - 'Left out, as its quotation was not found in Corriere della Calabria: The checks covered the city centre, the main squares, shopping centres, gambling halls and stations.'
+  - The ReggioToday page shows a photo captioned only as a police checkpoint, which does not establish that it depicts this operation's searches or seizure, so no media entry is listed.
 ---
 
 Reggio Calabria's Squadra Mobile, the city's mobile detective branch, arrested
@@ -49,14 +55,13 @@ other drug offences, and illegal possession of weapons of war, ammunition and
 explosives. [@1] The other two were arrested for production, trafficking, trade
 and unlawful possession of narcotic or psychotropic substances. [@1] Seven young
 people were reported at liberty for crimes against the person, property and drug
-offences. [@1] Authorities also imposed two orders to report to the judicial
+offences. [@1,3] Authorities also imposed two orders to report to the judicial
 police and issued three oral warnings. [@1]
 
 Officers carried out 16 personal and home searches that led to the drug and
-weapon seizure. [@1] The searches seized about 10 kg of marijuana and 37 grams
-of hashish, together with 3.5 grams of cocaine and a pistol. [@1] The 3.5 grams
+weapon seizure. [@1,3] The searches seized about 10 kg of marijuana and 37 grams
+of hashish, together with 3.5 grams of cocaine and a pistol. [@1,3] The 3.5 grams
 of cocaine are a separate non-cannabis substance and are not counted in the
 cannabis quantity. [@2]
 
-Police identified and checked 103 minors during the operation. [@1]
-
+Police identified and checked 103 minors during the operation. [@1,3]
