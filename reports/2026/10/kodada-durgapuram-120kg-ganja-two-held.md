@@ -102,6 +102,11 @@ sources:
     publisher: Lokal Telugu
     date: 2026-11-01
     language: te
+  - title: 'Suryapet Crime: కారులో 150 కిలోల గంజాయి.. ఇద్దరు అరెస్ట్, మరో ముగ్గురు పరార్..!'
+    url: https://telugu.news18.com/news/telangana/suryapet-150-kg-of-ganja-seized-in-suryapet-gvj-local18-ws-l-3257944.html
+    publisher: News18 Telugu
+    date: 2026-11-01
+    language: te
 open_questions:
   - The reports give no names, ages, charges or court date for the two people held.
   - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
@@ -130,6 +135,9 @@ open_questions:
   - This source transcribes the car's registration as KA03 MJ 4712; the existing report omits the registration because reports transcribe it differently.
   - The value of the seized ganja and the identities of the two people held were still to be disclosed in this account.
   - Whether the lead image on the Lokal page shows this seizure is not established from its caption, so no media entry is made.
+  - This account puts the haul at 150 kg, while the existing report keeps 120 kg from the earlier Telugu accounts.
+  - This account says the cannabis was being taken from Rajahmundry to Bengaluru, while other reports already cited in the existing report say it was bought in Chitrakonda, Odisha for delivery to Karnataka.
+  - The lead image on the News18 page is captioned only “News18” with no descriptive caption, so whether it shows this seizure is not established and no media entry is made.
 ---
 
 Officers seized 120 kg of ganja from the pair, according to the reports. [@1,12,13]
@@ -153,4 +161,4 @@ The seized ganja, vehicle and the two accused were handed over to Kodad Town Pol
 
 Police arrested two inter-state ganja transporters in the case and were questioning them. [@7]
 
-Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9,11] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9,11] The gang had five members; two were arrested and three fled. [@8,9,11] Police seized two mobile phones and a car along with the ganja. [@8,10,11] Police said they were searching for the suspects who had fled. [@8,10,11]
+Deputy Superintendent of Police Srinivas Reddy gave details of the case at a media conference. [@8,9,11,14] Police conducted checks across Suryapet district after receiving information that a large quantity of ganja was being moved. [@8,9,11,14] The gang had five members; two were arrested and three fled. [@8,9,11,14] Police seized two mobile phones and a car along with the ganja. [@8,10,11,14] Police said they were searching for the suspects who had fled. [@8,10,11,14]
