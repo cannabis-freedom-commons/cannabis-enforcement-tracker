@@ -35,6 +35,10 @@ sources:
     url: https://www.doncasterfreepress.co.uk/news/crime/drugs-in-prison-oct-30-2026-9321527
     publisher: Doncaster Free Press
     date: 2026-10-30
+  - title: Gang jailed over prison drug smuggling racket
+    url: https://ca.news.yahoo.com/gang-jailed-over-prison-drug-180050756.html
+    publisher: BBC
+    date: 2026-11-02
 open_questions:
   - No separate weight for the cannabis alone was published, so no cannabis quantity is recorded.
   - Police put the packages at tens of thousands of pounds as a combined contraband total including ketamine, cannabis, spice and nicotine, so no cannabis-only value is recorded.
@@ -46,10 +50,10 @@ Sheffield Crown Court sentenced Kieran Murphy and Brandon Horne on 30 October
 2026, giving Murphy another six years and Horne another four years. [@2] Serving
 prisoners Brandon Horne, 23, and Kieran Murphy, 30, were jailed with Horne's
 mother Michelle Midgley and Murphy's partner Lydia Pinnington for their roles in
-the conspiracy. [@1] Horne was sentenced to four years and Murphy to six years
-after both pleaded guilty to a number of drugs charges. [@1] Pinnington, 28, of
+the conspiracy. [@1,3] Horne was sentenced to four years and Murphy to six years
+after both pleaded guilty to a number of drugs charges. [@1,3] Pinnington, 28, of
 Clieves Road, Liverpool, was sentenced to five and a half years, while Midgley,
-48, of Halifax Road in Ripponden was jailed for 32 months. [@1]
+48, of Halifax Road in Ripponden was jailed for 32 months. [@1,3]
 
 South Yorkshire Police said the group used "any items" they could to smuggle
 ketamine, cannabis and spice into prisons across the UK. [@1] Members of the
@@ -67,4 +71,3 @@ conspiracy, while Pinnington had received a suspended sentence for money
 laundering linked to the activity. [@1] Detective Sergeant Gareth Gent said
 those involved in smuggling drugs into prisons destabilise the prison
 environment and fuel violence, intimidation and criminality. [@1]
-
