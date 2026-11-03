@@ -33,6 +33,11 @@ media:
     media_url: https://www.lenoticias.com.br/extranet/thumbnail/crop/850/Noticia/whatsapp_image_2026_10_31_at_11_1793466653410.29.39.jpeg
     publisher: Lê Notícias
     caption: Police photo of the 140 kg of cannabis and scales seized in Balneário Rincão.
+  - kind: video
+    url: https://g1.globo.com/rs/rio-grande-do-sul/videos-jornal-do-almoco/video/homem-e-preso-e-140-kg-de-maconha-sao-apreendidos-no-balneario-rincao-15152471.ghtml
+    media_url: https://vodstreaming01.video.globo.com/45/4a/a9/15152471_a98897b8e7074d0567342c3ab697c5e45b88a1fa/15152471-360p_487k_h264-16406dd0-b917-013f-0036-000000000000.mp4
+    publisher: G1
+    caption: 48-second Jornal do Almoço video report on the man arrested and 140 kg of maconha seized in Balneário Rincão.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3b33f6d39a1e25f135869e49ac79b18a
@@ -103,6 +108,11 @@ sources:
     publisher: Cidade 92,3 FM
     date: 2026-11-01
     language: pt
+  - title: 'Vídeo: Homem é preso e 140 kg de maconha são apreendidos no Balneário Rincão | Vídeos Jornal do Almoço | G1'
+    url: https://g1.globo.com/rs/rio-grande-do-sul/videos-jornal-do-almoco/video/homem-e-preso-e-140-kg-de-maconha-sao-apreendidos-no-balneario-rincao-15152471.ghtml
+    publisher: G1
+    date: 2026-11-02
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -122,11 +132,14 @@ open_questions:
   - 'Left out, as its quotation was not found in Jornal Razão: Several of the tablets carried a printed photograph of President Luiz Inácio Lula da Silva beside another man, taped to packages wrapped in green and yellow tape; the reason was not explained.'
   - The Hora Hiper page carries a photo credited to PMSC, but its caption does not describe what it shows, so it was not added as a distinct media entry.
   - The ContraFatos page's sole image is credited only as Reprodução with no descriptive caption, so it was not identified as a distinct image of the seizure from the media already listed.
+  - The opened G1 video page provides only the title and 48-second video metadata and no article body, so no suspect age, agency, street, house, scales, phones, faction claim or summer-stock motive is supported by this source.
+  - This source's publication date is 2 November 2026 while the existing report dates the arrest to the night of 30 October 2026.
+  - The video picture content was not transcribed beyond its title and thumbnail, so no additional figures or details are attributed to it.
 ---
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,3,4,5,6,7,9,10,11,12,13] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,3,4,5,6,7,9,10,11,12,13,14] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
 it was being used as a depot for drugs intended for sale. [@1,5,9] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
