@@ -27,17 +27,23 @@ sources:
     publisher: Eldyar
     date: 2026-11-02
     language: ar
+  - title: تصفية عنصر إجرامي شديد الخطورة وضبط كميات كبيرة من المخدرات والأسلحة بالبحيرة
+    url: https://www.dostor.org/5762007
+    publisher: جريدة الدستور
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The articles give only the 2 November 2026 publication date and no separate raid date, so that date is used as the incident date.
   - The 1 kilogram of ice/shabu is a separate non-cannabis drug and is excluded from kg_seized under the substance scope.
   - The deceased man is not named and no age or further identity is given.
   - No arrests beyond the death, no seizure value and no court outcome are reported.
   - No event photo is listed because the submitted page images are unrelated or placeholders and the second page labels its body image as archival.
+  - The Dostor page's only listed image is captioned as the interior minister and does not show the raid, seizure or hideout, so no media entry is added.
 ---
 
 Beheira police killed a man described as a highly dangerous criminal during a
 shootout while raiding his hideout in Kafr El Dawar district, after he opened
-fire on the force to resist arrest and escape. [@1] Security information said
+fire on the force to resist arrest and escape. [@1,3] Security information said
 the man was hiding in Kafr El Dawar district and was accused of drug trafficking
 and imposing control. [@1] When he sensed the officers approaching, he fired
 intensively and randomly at them to flee, and the force returned fire under
@@ -46,7 +52,7 @@ died on the spot after the intensive exchange of fire during the raid in Kafr El
 Dawar in Beheira. [@2]
 
 Officers searching the man's house and the surrounding area found 20 kilograms
-of hashish. [@1] The same search also found one kilogram of ice known as shabu,
+of hashish. [@1,3] The same search also found one kilogram of ice known as shabu,
 plus firearms and assorted ammunition, which is not counted as cannabis. [@1]
 The second account gives the same seizure as 20 kilograms of hashish and one
 kilogram of ice known as shabu, plus firearms and ammunition. [@2]
@@ -57,3 +63,4 @@ sent to target the suspect. [@1] Police completed the legal procedures, filed
 the required report and notified the Public Prosecution, which began
 investigating the circumstances. [@1]
 
+The suspect was 24 years old and was hiding in a criminal hideout in Ezbet Nazir in the Kafr El Dawar district. [@3]
