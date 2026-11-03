@@ -28,6 +28,11 @@ sources:
     publisher: Réalités
     date: 2026-11-03
     language: ar
+  - title: 'Ben Arous : arrêté pour viol sur mineur et trafic de drogue'
+    url: https://www.mosaiquefm.net/fr/national-tunisie/1535587/ben-arous-arrete-pour-viol-sur-mineur-et-trafic-de-drogue
+    publisher: Mosaique FM
+    date: 2026-11-03
+    language: fr
 open_questions:
   - No weight was published for the cannabis or the cocaine, so no cannabis quantity can be recorded and the combined seizure cannot be split.
   - The cocaine is mentioned only to explain the mixed seizure and is excluded from cannabis figures.
@@ -38,19 +43,18 @@ open_questions:
 ---
 
 The judicial-police brigade of Ben Arous arrested one man in the Sidi Saad area
-of Mornag on Tuesday 3 November 2026. [@1] The brigade made the arrest during a
-campaign of searches carried out in Sidi Saad that day. [@1] Police described
+of Mornag on Tuesday 3 November 2026. [@1,3] The brigade made the arrest during a
+campaign of searches carried out in Sidi Saad that day. [@1,3] Police described
 the arrested man as a dangerous criminal who was already being sought by
 investigators. [@1] He was the subject of several outstanding search warrants
-for drug trafficking and for the rape of a minor. [@1] Those warrants had been
+for drug trafficking and for the rape of a minor. [@1,3] Those warrants had been
 issued at the request of the Ben Arous investigation units and the Directorate
 of the Judicial Police. [@1] The drug allegation was trafficking, not simple
 possession, and the sexual-violence allegation concerned a minor. [@1]
 
 During the operation, officers seized a quantity of cannabis together with a
-quantity of cocaine from the suspect. [@1] The Arabic account of the same
+quantity of cocaine from the suspect. [@1,3] The Arabic account of the same
 operation calls the cannabis “zatla”, the Tunisian term for cannabis herb. [@2]
 
 After consulting the public prosecution, police kept the suspect in detention
-while the case continues. [@1]
-
+while the case continues. [@1,3]
