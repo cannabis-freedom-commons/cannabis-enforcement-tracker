@@ -51,6 +51,11 @@ sources:
     publisher: Sky TG24
     date: 2026-11-02
     language: it
+  - title: 'Piantagione di marijuana nel Varesotto: la Guardia di Finanza sequestra quasi 250 piantine'
+    url: https://www.settenews.it/piantagione-di-marijuana-nel-varesotto-la-guardia-di-finanza-sequestra-quasi-250-piantine/
+    publisher: SetteNews
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -60,25 +65,29 @@ open_questions:
   - The article gives no separate raid date; 2 November 2026 is its publication date.
   - The page gives no separate date for the raid; 2 November 2026 is its publication date.
   - The page's preview image is a 2025 file photo from an unrelated article and the embedded video is the general 2 November newscast, so neither is established to show this seizure and no media entry is added.
+  - The page gives no separate raid date beyond “in the past few hours”; 2 November 2026 is its publication date, matching the existing report’s incident date.
+  - SetteNews says “just under 250” plants while the existing report uses the precise 245-plant count from other outlets.
+  - SetteNews attributes the 500,000-euro estimate to sources close to the discovery rather than to investigators.
+  - The page’s only event-related image is credited to Rex Medlen via Pixabay, so it is a stock illustration and no media entry is added.
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3,4] All 245 plants were seized and placed at
+marijuana cultivation in Gavirate. [@1,3,4,5] All 245 plants were seized and placed at
 the disposal of the judicial authority for further steps. [@2,3] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3,4]
+liberty for cultivating narcotic substances. [@1,3,4,5]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
-approaching cutting, drying and packaging. [@1,4] The specimens ranged from about
+approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from about
 40 centimetres to one metre tall, with one plant reaching about 1.80 metres.
 [@1] Laboratory tests found a THC concentration above the limits in force,
-giving the matter criminal relevance. [@1,3] Investigators estimated that, once
+giving the matter criminal relevance. [@1,3,5] Investigators estimated that, once
 growth and processing were complete, the crop could have been worth more than
-500,000 euros. [@1,3,4]
+500,000 euros. [@1,3,4,5]
 
 Investigators traced the cultivation to a farm formally operating in the
 aromatic- and medicinal-plant sector. [@1] Officers then checked
 hemp-cultivation requirements, focusing on seed traceability and the
-production's destination. [@1] The Guardia di Finanza said such controls verify
+production's destination. [@1,5] The Guardia di Finanza said such controls verify
 crops and operators' compliance and prevent apparently lawful farming from being
 used for unlawful conduct. [@1]
