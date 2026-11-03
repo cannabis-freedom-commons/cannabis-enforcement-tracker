@@ -46,6 +46,11 @@ sources:
     publisher: Patroli Hukum Indonesia
     date: 2026-11-03
     language: id
+  - title: Ditresnarkoba PMJ Tangkap Kurir Ganja Antarprovinsi, Barbuk 44,1 Kg Disita
+    url: https://poskota.co/hukum-kriminal/ditresnarkoba-pmj-tangkap-kurir-ganja-antarprovinsi-barbuk-441-kg-disita/
+    publisher: Poskotaonline
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -55,30 +60,37 @@ open_questions:
   - The new page does not name the exact rest-area kilometre point, the alleged Depok and Tangerang destinations, the promised Rp1 juta per kilogram payment, the criminal charges, or the wanted controller, so those points continue to rely on earlier sources.
   - The page's featured image is captioned only with the article title and is not established to show the seized cannabis, so no media entry is added.
   - The page places the two earlier shipments only in July 2026 on different days, without separate dates, and gives the third shipment and arrest as 31 October 2026 with the press conference on 3 November 2026.
+  - This page gives only the 3 November 2026 press conference and publication date and does not state the 31 October 2026 seizure date or the Jagorawi rest-area location, so the event date and place continue to rely on earlier sources.
+  - This page confirms two earlier shipments from Mandailing Natal to Jakarta but gives no weights or dates for them, so the 50 kg and 44 kg July 2026 figures continue to rely on earlier sources.
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
     media_url: https://cdn25.metrotvnews.com/dynamic/content/2026/11/03/N0BCgxWl/a_6ae9aaaa0a964.jpeg?w=720
     publisher: MetroTVNews
     caption: 'Seized cannabis evidence held by Ditresnarkoba Polda Metro Jaya. Photo: Metro TV/Damar.'
+  - kind: photo
+    url: https://poskota.co/hukum-kriminal/ditresnarkoba-pmj-tangkap-kurir-ganja-antarprovinsi-barbuk-441-kg-disita/
+    media_url: https://poskota.co/wp-content/uploads/2026/11/Kurir-Ganja-Antarprovinsi.jpg
+    publisher: Poskotaonline
+    caption: 'Drug director Bismo Teguh Prakoso presents courier YT with the 44.1 kg cannabis evidence at a press conference. Photo: ist'
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
 rest area on 31 October 2026. [@3] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5] Police said they had followed him overland all the
+of cannabis at the time. [@3,4,5,6] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5]
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
 across the Bakauheni-Merak ferry crossing. [@2,5] They said the load was intended
-for distribution in Depok and Tangerang. [@1] Police said YT had already
+for distribution in Depok and Tangerang. [@1,6] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
 the October load his third. [@1,5] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1]
+kilogram he carried. [@1,6]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
-years in prison. [@3,4] Police said they had identified the alleged controller,
-initialled K, who is on the wanted list and is being pursued. [@1]
+years in prison. [@3,4,6] Police said they had identified the alleged controller,
+initialled K, who is on the wanted list and is being pursued. [@1,6]
 
 At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
