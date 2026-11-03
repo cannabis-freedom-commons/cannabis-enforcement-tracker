@@ -44,6 +44,11 @@ sources:
     publisher: موقع الموقع
     date: 2026-11-03
     language: ar
+  - title: السجن المشدد 15 عامًا لـ3 متهمين بمقاومة السلطات والاتجار في المخدرات بأسيوط
+    url: https://www.masrawy.com/news/news_regions/details/2026/11/3/3073157/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-15-%D8%B9%D8%A7%D9%85-%D8%A7-%D9%84%D9%803-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A3%D8%B3%D9%8A%D9%88%D8%B7
+    publisher: مصراوي
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No weight was published for the hashish; only a quantity, two large slabs and 17 large pieces were described, so no cannabis weight is recorded.
   - The article gives no separate date for the roadside arrest; 3 November 2026 is the publication date and, with the verdict described as issued on Tuesday, is used as the sentence date.
@@ -53,12 +58,17 @@ open_questions:
   - Firearms and ammunition were part of the same conviction and are mentioned only to explain the mixed case; no separate firearms penalty is recorded.
   - Only one accessible source was found for this event, and its single photograph is captioned only as a court panel and is not established to show this hearing or seizure, so no media entry is listed.
   - The page's single image is captioned only as drugs and is not established to show this seizure, so no media entry is listed.
+  - Masrawy places the checkpoint at Mawqif al-Nazla and the final stop at Al-Wasta village in Al-Fath, while the existing report places the checkpoint at Nazlet Abdallah; whether these are different names for the same checkpoint area or checkpoint versus arrest locations is unclear.
+  - Masrawy says the defendants said weapons secured their criminal activity and money and phones were trafficking proceeds and client contacts, while the existing report says weapons were for self-defence.
+  - Masrawy does not mention the 50,000-pound fine per man or case No. 2332 of 2026 Second Asyut felonies recorded in the existing report.
+  - Masrawy names court secretaries as Adel Abu El-Reesh, Zakaria Hafez and Abadir Emad El-Din, differing from the existing report's panel and prosecution attendees.
+  - The page's only image is captioned as the Tenth Circuit court panel and is not established to show this hearing or seizure, so no media entry is listed.
 ---
 
 The Tenth Circuit of the Asyut Criminal Court sentenced three men to 15 years of
 aggravated imprisonment each and fined each of them 50,000 Egyptian pounds for
 possessing drugs, firearms and ammunition after a security checkpoint in Nazlet
-Abdallah in the Second Asyut district. [@1,2,3,4] The report was published on 3
+Abdallah in the Second Asyut district. [@1,2,3,4,5] The report was published on 3
 November 2026. [@1] The panel was headed by Judge Ahmed Abdel-Tawab Saleh with
 Judge Romil Shehata Amin as member, with prosecutor Ahmed Fathi present and Adel
 Abu El-Reesh and Zakaria Hafez as court secretaries. [@1] The case was filed as
@@ -70,13 +80,15 @@ When officers tried to stop the car, the driver reversed at high speed, one of
 the men threw a shotgun from the car, the driver rammed a plainclothes policeman
 and injured him, then drove the wrong way to flee. [@1] Police chased the car
 until it hit a concrete block beside the road, then overpowered and arrested the
-three men. [@1] Searching the first man found a pistol, a quantity of hashish
+three men. [@1,5] Searching the first man found a pistol, a quantity of hashish
 essence hidden in his clothes and 1,400 pounds, while the second man carried a
 large slab of hashish and a mobile phone and the third carried a large slab of
 the same drug. [@1,3,4] Searching the car found 17 large pieces of hashish, a
-cannabis resin. [@1,2,3,4]
+cannabis resin. [@1,2,3,4,5]
 
 Confronted with the seizures, the men admitted possessing the drugs for
 trafficking and the firearms and ammunition for self-defence. [@1] The court
 treated the hashish, the cannabis product in this case, together with the
 weapons as the basis for the trafficking convictions. [@1]
+
+The chemical laboratory found the seized 21 hashish pieces weighed 1,781 grams in total. [@5] The driver Khaled M. was 20 and a student, Mohamed A. was 21 and a student, and Ayman S. was 21 and unemployed and sat in the back seat. [@5] Police found a pistol holding six live rounds on the driver along with two hashish slabs and 1,400 pounds. [@5]
