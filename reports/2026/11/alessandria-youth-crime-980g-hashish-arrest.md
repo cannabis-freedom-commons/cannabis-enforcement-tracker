@@ -32,31 +32,37 @@ sources:
     publisher: CasaleNotizie
     date: 2026-11-02
     language: it
+  - title: 'Controlli della Polizia contro violenza giovanile: sequestrati 980 grammi di hashish'
+    url: https://radiogold.it/news-alessandria/450815-controlli-polizia-violenza-giovanile-sequestro-hashish/
+    publisher: RadioGold.it
+    date: 2026-11-02
+    language: it
 open_questions:
   - The articles give only their publication date of 2 November 2026 and no separate date for the checks and arrest.
   - The six denunciati are reported, not stated to be charged or arrested, so they are not counted in figures; the four people reported to the Prefect as users are also not counted as arrested.
   - The 980-gram hashish figure is the police count; no independent weighing is reported.
   - The articles also mention amphetamine use among those reported to the Prefect, but give no amphetamine quantity; the report counts only the separately stated 980 grams of hashish.
   - The only image on the submitted page shows the Alessandria police headquarters building in a 2019 file photo, not this operation, so no media entry is listed.
+  - The article gives only its publication date of 2 November 2026 and no separate date for the weekend checks and arrest.
+  - The page carries a photo captioned with the headline, but its 2025 file path and lack of credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 State Police in Alessandria province arrested a foreign man for drug dealing
 during an operation against youth crime. [@1] Six people were reported for
-crimes against the person, robbery and use of objects capable of offending. [@1]
+crimes against the person, robbery and use of objects capable of offending. [@1,4]
 One foreign man was reported as responsible for robbing a shop. [@3] Two foreign
 nationals were reported for threats using sticks and causing bodily harm. [@3]
 Two other foreign nationals were searched and found carrying bladed weapons
 whose possession is prohibited. [@1] Four drug users were reported to the
 Prefect, including one person who used amphetamines. [@1]
 
-Police seized 980 grams of hashish. [@2] Officers checked seven businesses,
+Police seized 980 grams of hashish. [@2,4] Officers checked seven businesses,
 including three nightlife venues, and identified 263 people, among them 33
 minors and 101 foreigners. [@1] Officers carried out 12 searches for weapons,
-blunt objects and drugs. [@1]
+blunt objects and drugs. [@1,4]
 
 The Alessandria checks were part of a national operation involving 1,000
 officers in total for preventing and combating youth crime. [@1] The national
 operation was coordinated by the central operational service, with Mobile Squad
 officers supported by Crime Prevention Department crews and other Alessandria
 police offices. [@2]
-
