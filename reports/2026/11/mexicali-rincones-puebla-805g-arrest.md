@@ -33,30 +33,36 @@ sources:
     publisher: El Imparcial
     date: 2026-11-02
     language: es
+  - title: Asegura FESC más de 800 gramos de marihuana durante operativos en Mexicali
+    url: https://www.uniradiobaja.com/policiaca/asegura-fesc-mas-800-gramos-marihuana-durante-operativos-mexicali-n912122/amp
+    publisher: Uniradio Informa Baja California
+    date: 2026-11-02
+    language: es
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the patrol and arrest, so the publication date is used as the incident date.
   - The substance is described only as having the characteristics of marijuana, and no laboratory confirmation is reported.
   - The detainee's legal situation after referral to the FGE narcomenudeo unit is not reported.
   - Both accounts appear to follow the same official bulletin, so no independent weighing or separate official statement is established.
+  - The submitted AMP URL ends in n912122 while the existing report cites a Uniradio variant ending in n912123 on a different Uniradio domain with the same title and text.
+  - The page carries a lead image captioned with the headline, but the caption does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Fuerza Estatal de Seguridad Ciudadana (FESC), Baja California's
 state citizen-security force, detained a 51-year-old man identified as José
-Ramón "N" in the Rincones de Puebla neighbourhood of Mexicali. [@1] The man is
-originally from Cananea, Sonora. [@1] Officers informed him of the reason for
+Ramón "N" in the Rincones de Puebla neighbourhood of Mexicali. [@1,3] The man is
+originally from Cananea, Sonora. [@1,3] Officers informed him of the reason for
 his detention and handed him and the seized substance to the State Attorney
 General's Office (FGE), before its specialized narcomenudeo, or street-level
-drug dealing, prosecution unit, which will determine his legal situation. [@1]
+drug dealing, prosecution unit, which will determine his legal situation. [@1,3]
 
 The stop happened while officers patrolled Avenida Atzitzintla and approached
 the man after conduct that prompted a preventive intervention, informing him why
 they were present and obtaining his authorization for an inspection. [@1] The
 search found 171 packets containing a dry green herb described as having the
-characteristics of marijuana. [@1] Police put the approximate weight at 805.2
+characteristics of marijuana. [@1,3] Police put the approximate weight at 805.2
 grams, reported as more than 800 grams. [@1]
 
 The FESC action was described as part of preventive operations against
 narcomenudeo. [@1] A second outlet's account likewise attributes the detention
 on Avenida Atzitzintla to an official bulletin and reports the same 171 packets
 and 805.2 grams. [@2]
-
