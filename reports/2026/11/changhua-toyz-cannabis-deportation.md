@@ -79,6 +79,11 @@ sources:
     publisher: COOL-STYLE 潮流生活網
     date: 2026-11-03
     language: zh
+  - title: 結婚也沒用！Toyz賣毒判刑 今假釋出獄「直接驅逐出境」 | 太報 | LINE TODAY
+    url: https://today.line.me/tw/v3/article/BEmq0mQ
+    publisher: 太報
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -87,20 +92,22 @@ open_questions:
   - The Liberty Times lead image is marked as file material and is not listed as event media; the listed photos are the Changhua task-force handout via ETtoday.
   - The sources refer conditionally to a Taiwan-registered spouse but do not name her or confirm a marriage, so this report states only the review requirement.
   - The page's lead image caption repeats the headline without credit or operation detail, so it is not established as showing this deportation and no media entry is added.
+  - The submitted page carries an immigration-agency handout photo captioned as the parole escort, which appears to duplicate the Changhua task-force handout already listed in the existing report, so no new media entry is added.
+  - The submitted page names Liu's girlfriend as 篠崎泫 and repeats a Mirror Weekly claim of an in-prison marriage, which the existing report leaves unconfirmed and is not added as a verified fact.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8]
+supervision on 20 October. [@2,4,5,7,8,9]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6]
