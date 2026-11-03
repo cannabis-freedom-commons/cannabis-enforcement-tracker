@@ -27,6 +27,9 @@ open_questions:
   - The page carries an illustration whose caption does not establish what it depicts, so no media entry is listed.
   - 'Sources disagree on which court issued the 3 November annulment: SpotMedia attributes it to the Bucharest Court of Appeal after the High Court transferred file No. 462/36/2026 to Bucharest, while Mediafax, Observator and the existing report attribute it to the Constanta Court of Appeal.'
   - The SpotMedia page carries only a portrait credited to Instagram/wizkhalifa, which does not depict the festival, seizure or court, so no media entry is listed.
+  - HotNews attributes the 3 November annulment to the Bucharest Court of Appeal after transfer, while the existing report text attributes it to the Constanta Court of Appeal; HotNews corroborates the SpotMedia Bucharest version noted in the report's open questions.
+  - The page's only image shows Wiz Khalifa at a May festival in California and does not depict the Costinesti festival, seizure or court, so no media entry is listed.
+  - The article's mention of a 2014 Texas airport arrest for half a gram of marijuana is a separate event left out here.
 sources:
   - title: UPDATE - Rapperul Wiz Khalifa, condamnat la nouă luni de închisoare cu executare
     url: https://www.news.ro/justitie/update-rapperul-wiz-khalifa-condamnat-luni-inchisoare-executare-dupa-fumat-tigara-cannabis-scena-festivalului-beach-please-costinesti-decizia-curtii-apel-constanta-definitiva-dat-urmarire-1922403418002025121722278686
@@ -52,6 +55,11 @@ sources:
     publisher: spotmedia.ro
     date: 2026-11-03
     language: ro
+  - title: Condamnat la închisoare în România, rapperul Wiz Khalifa ar putea scăpa de pedeapsă. Ce a decis Curtea de Apel Bucureşti
+    url: https://hotnews.ro/condamnat-la-inchisoare-in-romania-rapperul-american-wiz-khalifa-ar-putea-scapa-de-pedeapsa-curtea-de-apel-bucuresti-i-a-admis-contestatia-in-anulare-2393828
+    publisher: HotNews.ro
+    date: 2026-11-03
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -66,7 +74,7 @@ risk drugs for personal use. [@1,2,3] The court's final decision replaced an ear
 3,600 lei and ordered the term served in detention. [@1,2]
 
 Prosecutors said that on 13 July 2024, around 23:55, Jibril possessed 18.53 grams of cannabis and
-smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1] Police had
+smoked a cannabis cigarette on stage during the Beach Please festival in Costinești. [@1,6] Police had
 briefly detained him after the concert in 2024 before releasing him pending trial. [@2]
 
 Romanian police told News.ro he was placed under national search and that an international warrant
@@ -76,4 +84,6 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4] State-advanced court costs remain on him. [@3]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4] State-advanced court costs remain on him. [@3]
+
+On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6]
