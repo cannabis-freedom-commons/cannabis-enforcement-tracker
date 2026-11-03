@@ -62,6 +62,11 @@ sources:
     publisher: Київщина Інфо
     date: 2026-10-28
     language: uk
+  - title: 'Зірковий наркокартель: як на Білоцерківщині вирощували марихуану'
+    url: https://mykyivregion.com.ua/analytics/zirkovii-narkokartel-iak-na-bilocerkivshhini-viroshhuvali-marixuanu
+    publisher: Моя Київщина
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The reports give no separate date for the searches; 28 October 2026 is the day the Kyiv Oblast police announced the case.
   - Police said about 50 kg of cannabis was seized, while the prosecutor's office account reported by local media said more than 50 kg; the report uses the police figure.
@@ -69,24 +74,26 @@ open_questions:
   - The 209 plants were seized; the reports do not say whether they were later destroyed.
   - No area or plant count is given for the whole plantation beyond the 209 plants seized on one plot.
   - Four police photos of one detained suspect and the photo of his house are not listed under media because they show a person or a building rather than the plantation or seizure.
+  - The new article says more than 50 kg while the existing report uses about 50 kg from the police account; the existing open question on that wording difference remains.
+  - The page lead image caption only repeats the headline and does not establish that it shows this seizure, so no media entry is added.
+  - The article contains unverified editorial claims linking named local deputies and past cases to the plantation, which are not supported as enforcement facts for this event.
 ---
 
 Police searching the homes of four men in Bila Tserkva district, Kyiv Oblast,
 found about 50 kg of cannabis and money. [@2] A further 209 cannabis plants were
-seized from a plot of land. [@1] Police valued the drugs found at more than 60.7
-million hryvnias. [@2] All four men were detained and placed in a temporary
+seized from a plot of land. [@1,4] Police valued the drugs found at more than 60.7
+million hryvnias. [@2,4] All four men were detained and placed in a temporary
 detention facility. [@2] Police said the group had set up the production,
 storage and sale of the drug in the capital region. [@2]
 
 The four suspects are local residents of Bila Tserkva district. [@3] All four
 were notified of suspicion of producing and selling narcotics as an organised
-group in especially large amounts. [@2] Three of them are also suspected of
+group in especially large amounts. [@2,4] Three of them are also suspected of
 growing cannabis for sale. [@1] The charges carry up to 12 years in prison with
 confiscation of property. [@2]
 
 Investigators say the men worked together from July to October 2026, growing the
 plants among corn in fields in Bila Tserkva district. [@3] The harvested crop
 was dried at the home of one of the suspects. [@3] A court ordered all four held
-in custody without the right to bail. [@3] The pre-trial investigation is
+in custody without the right to bail. [@3,4] The pre-trial investigation is
 continuing. [@3]
-
