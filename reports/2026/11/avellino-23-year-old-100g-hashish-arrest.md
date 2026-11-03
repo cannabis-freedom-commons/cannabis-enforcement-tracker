@@ -37,6 +37,11 @@ sources:
     publisher: Il Caudino
     date: 2026-11-02
     language: it
+  - title: 'Avellino, controlli della Polizia contro la criminalità giovanile: tre arresti, sequestrati droga e denaro - binews.it'
+    url: https://www.binews.it/attualita/avellino-controlli-della-polizia-contro-la-criminalita-giovanile-tre-arresti-sequestrati-droga-e-denaro/
+    publisher: binews.it
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate arrest date is given; 2 November 2026 is the publication date of both reports and is used as the incident date, while the arrest is described only as occurring within a two-week national operation.
   - The 50 grams of cocaine reported with the hashish is excluded from kg_seized; no combined drug total is counted as cannabis.
@@ -49,14 +54,14 @@ open_questions:
 ---
 
 Avellino's Squadra Mobile officers arrested a 23-year-old man from Avellino in
-flagrante during checks in the city. [@1,4] The arrest followed controls and
+flagrante during checks in the city. [@1,4,5] The arrest followed controls and
 identifications of numerous young people in districts of Avellino frequented by
 people with previous police records. [@1,3] The arrests were part of a vast
 national operation conducted over the previous two weeks against offences
-committed by young people, including minors. [@1,4]
+committed by young people, including minors. [@1,4,5]
 
 During the checks, officers found the 23-year-old carrying 50 grams of cocaine
-and 100 grams of hashish, together with 850 euros in cash. [@1,3,4] Police seized
+and 100 grams of hashish, together with 850 euros in cash. [@1,3,4,5] Police seized
 the cocaine, the hashish and the cash reported in the drug case. [@1] Of the
 drugs in the case, only the 100 grams of hashish is counted here as cannabis,
 while the 50 grams of cocaine is excluded from the cannabis figure. [@1]
