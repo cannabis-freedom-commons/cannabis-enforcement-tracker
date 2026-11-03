@@ -79,6 +79,11 @@ media:
     media_url: https://img.naidunia.com/naidunia/ndnimg/01112026/01_11_2026-jabalpur_ganja_smuggling_2026111_102629.webp
     publisher: Nai Dunia
     caption: 'Seized ganja consignment in Jabalpur. Photo: Nai Dunia'
+  - kind: photo
+    url: https://www.tv9hindi.com/state/madhya-pradesh/jabalpur-police-seize-1000-kg-ganja-two-smugglers-arrested-3950394.html
+    media_url: https://images.tv9hindi.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-31-at-2.19.09-pm-1.jpeg?w=1280&q=51
+    publisher: TV9 Bharatvarsh
+    caption: Police officers with the seized ganja consignment and the accused.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0
@@ -233,6 +238,11 @@ sources:
     publisher: The Cliff News
     date: 2026-10-31
     language: hi
+  - title: पार्सल कंटेनर की आड़ में कर रहे थे गांजा तस्करी... 871 किलो गांजे के साथ दो गिरफ्तार
+    url: https://www.tv9hindi.com/state/madhya-pradesh/jabalpur-police-seize-1000-kg-ganja-two-smugglers-arrested-3950394.html
+    publisher: TV9 Bharatvarsh
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -278,10 +288,14 @@ open_questions:
   - The page writes the interception point as मोहतरा टोल while the existing report uses Mohtra toll plaza.
   - The page dates surveillance of the container to 30 October and was published 31 October 2026, while the existing report records the interception at around 2 am on 31 October; the accounts are compatible but the page gives no separate interception time.
   - The page's only listed image is captioned only with the headline, so it could not be confirmed to show this seizure and no media entry was added from it.
+  - The TV9 Hindi account headlines 871 kg but also writes that nearly 1,000 kg was recovered, while the existing report records 871 kg 95 g.
+  - The TV9 Hindi account values the ganja at about Rs 4.25 crore, below the Rs 4,35,55,000 figure used in the existing report.
+  - The TV9 Hindi account describes both accused as residents of Aligarh, Uttar Pradesh, while the existing report identifies Vikram Karmakar as a resident of South Dinajpur, West Bengal.
+  - The TV9 Hindi account says the accused set out from Ambala toward Katni, while the existing report records an Odisha-to-Maihar route.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
@@ -295,14 +309,14 @@ crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,2
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
-noticed the container speeding near the Muskhara turn. [@1] Police followed the
+noticed the container speeding near the Muskhara turn. [@1,32] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
 plaza. [@1,16,19,22,24,25,27,29,31] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19,27,31] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30] The 28 sacks were loaded
@@ -330,3 +344,5 @@ The container's driver was also its owner and was allegedly supplying cannabis i
 The case was registered under Sections 8/20 and 29 of the Narcotic Drugs and Psychotropic Substances Act. [@24,25]
 
 The Bhaskar account reports 29 sacks containing 871 kg 95 g of ganja in the truck. [@29] The Bhaskar account values the 871 kg consignment at Rs 1 crore 30 lakh 66 thousand. [@29]
+
+Police valued the container used for the smuggling at about 5 million rupees. [@32]
