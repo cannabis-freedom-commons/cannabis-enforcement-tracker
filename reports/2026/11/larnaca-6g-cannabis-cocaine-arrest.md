@@ -37,6 +37,11 @@ sources:
     url: https://cyprus-mail.com/2026/11/03/remand-after-1kg-cocaine-seized-in-larnaca
     publisher: Cyprus Mail
     date: 2026-11-03
+  - title: 'Λάρνακα: Συνελήφθη 32χρονος για κατοχή πέραν του ενός κιλού κοκαΐνης'
+    url: https://www.kathimerini.com.cy/gr/kypros/larnaka-synelifthi-32xronos-gia-katoxi-peran-toy-enos-kiloy-kokainis
+    publisher: Kathimerini.com.cy
+    date: 2026-11-03
+    language: el
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -51,27 +56,28 @@ open_questions:
   - The submitted page carries an image with an empty caption, so whether it depicts this seizure could not be established and no media entry is added.
   - The article's summary says the total cocaine, cannabis, resin, scale and cash were found in his home, while its detailed account places finds across the car, home and two open areas as recorded in the existing report.
   - The article gives only its publication date of 3 November 2026 and says the stop was on Monday, so the 2 November 2026 arrest date still relies on inference from the earlier sources.
+  - The page's lead image is labelled as an archive photo and its two inline drug photos carry no caption establishing they show this seizure, so no media entry is listed.
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
 of his car, home and two open areas. [@1,3] Officers from the Directorate for
 Combating Organised Crime (DAOE), the Anti-Drugs Unit (YKAN) and YPEE stopped
-the car he was driving in a rural part of the district at about 5pm. [@1] The
+the car he was driving in a rural part of the district at about 5pm. [@1,5] The
 man was taken into custody and was expected to appear before Larnaca District
-Court on Tuesday morning for a remand hearing. [@1,3] Police said the arrest was
+Court on Tuesday morning for a remand hearing. [@1,3,5] Police said the arrest was
 part of efforts to track down people systematically involved in drug
 trafficking, and Larnaca DAOE-YKAN is continuing investigations. [@1]
 
 Officers found two cylindrical packages of cocaine on him, with a combined gross
-weight of 100 grams, and 16 firecrackers in the car. [@1,4] In an open area near
+weight of 100 grams, and 16 firecrackers in the car. [@1,4,5] In an open area near
 his home, where he had also been seen earlier, a plastic container carefully
 hidden in the ground held 11 bags of cocaine with a combined gross weight of 826
-grams. [@1,4] In a second open area, where officers had seen the man before the
+grams. [@1,4,5] In a second open area, where officers had seen the man before the
 stop, they found another plastic container holding two bags of cocaine with a
 combined gross weight of 100 grams. [@1] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1,3,4] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3,4,5] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
