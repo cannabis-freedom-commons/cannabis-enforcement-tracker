@@ -55,6 +55,11 @@ sources:
     publisher: Kyiv.News
     date: 2026-11-03
     language: uk
+  - title: 'Наркотики серед одягу: у Києві викрили 33-річну жінку, яка перевозила PVP, амфетамін і канабіс'
+    url: https://kriminal.net.ua/news/18289narkotiki-sered-odjagu-u-ki-v-vikrili-33-r-chnu-zh-nku-jaka-perevozila-pvp-amfetam-n-kanab-s.html
+    publisher: Криминал
+    date: 2026-11-03
+    language: uk
 open_questions:
   - No separate weight, plant count or value was published for the cannabis, and no combined total can be separated into cannabis, so no cannabis quantity is recorded
   - PVP and amphetamine are mentioned only to explain the mixed seizure and their amounts are excluded from cannabis figures
@@ -65,21 +70,20 @@ open_questions:
 ---
 
 Patrol officers stopped a Subaru Forester on a Kyiv street during curfew for a
-check. [@2] During the check officers found the 33-year-old passenger with
+check. [@2,4] During the check officers found the 33-year-old passenger with
 suspicious packages in her bag and called the Holosiivskyi investigative team to
 the scene. [@2] Officers seized 11 postal parcels from the woman, with numerous
 packets of powdery and crystalline substances and plant-origin material hidden
-among clothing inside them. [@2]
+among clothing inside them. [@2,4]
 
 Forensic examination confirmed the seized items included the especially
 dangerous psychotropic PVP, amphetamine and cannabis, which investigators say
-she stored for further sale. [@1] Investigators detained her under Article 208
+she stored for further sale. [@1,4] Investigators detained her under Article 208
 of Ukraine's Criminal Procedure Code and, under Holosiivskyi district
 prosecutors, notified her of suspicion under Article 307 Part 3 for obtaining,
 storing and transporting an especially dangerous psychotropic in an especially
 large amount for sale and a narcotic drug for sale. [@2] At the investigators'
 request, a court ordered custody as the preventive measure. [@2] The pretrial
 investigation is now complete and the indictment has been sent to court, which
-will decide guilt. [@3] If convicted, she faces up to 12 years in prison with
-confiscation of property. [@1]
-
+will decide guilt. [@3,4] If convicted, she faces up to 12 years in prison with
+confiscation of property. [@1,4]
