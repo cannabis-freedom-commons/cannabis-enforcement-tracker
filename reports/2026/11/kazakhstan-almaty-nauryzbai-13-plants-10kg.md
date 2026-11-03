@@ -52,6 +52,11 @@ sources:
     publisher: Караван
     date: 2026-11-03
     language: ru
+  - title: 'Плантатор с юга: 13 кустов конопли выращивал дома 43-летний алматинец'
+    url: https://ru.elordainfo.kz/regiony/plantator-s-yuga-13-kustov-konopli-vyrashchival-doma-43-letniy-almatinets
+    publisher: Elordainfo.kz
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the detention and search; 2 November is used as the incident date.
   - The police statement gave no amount for the seized cash; the figure of no less than 500,000 tenge is only Zakon.kz's estimate from operational footage, so no cash value is recorded in figures.
@@ -61,17 +66,18 @@ open_questions:
   - The submitted Caravan page is dated 3 November 2026 while the existing report uses 2 November 2026 from earlier accounts; no separate date for the search and detention is given.
   - The lead image on the submitted page is labelled as AI-generated, so no media entry is added.
   - 'Left out, as its quotation was not found in Караван: Officers of the anti-drug crime office of the Almaty police detained a 43-year-old man in the city''s Nauryzbai district.'
+  - The Elordainfo page gives only its publication date of 3 November 2026 and no separate date for the search and detention, while the existing report uses 2 November 2026 from earlier accounts.
 ---
 
 Officers of the anti-drug crime office of the Almaty police detained a
-43-year-old man in the city's Nauryzbai district. [@1] Police opened a criminal
+43-year-old man in the city's Nauryzbai district. [@1,5] Police opened a criminal
 case over the discovery and placed the suspect in the temporary detention
-isolator pending investigation. [@1,4]
+isolator pending investigation. [@1,4,5]
 
 During a search of his private house, officers found 13 cannabis bushes and a
-box holding dried plant material. [@1,4] Police said a forensic examination
+box holding dried plant material. [@1,4,5] Police said a forensic examination
 confirmed that the total mass of the seized narcotic substances was 10 kilograms
-and that cash was also seized from the house. [@1,4] A second account from the
+and that cash was also seized from the house. [@1,4,5] A second account from the
 city police press service likewise said officers in Nauryzbai district found 13
 cannabis bushes and a box with dried plant material during the house search.
 [@2] Zakon.kz, describing the operational footage, estimated the seized cash at
