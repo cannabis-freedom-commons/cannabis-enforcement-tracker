@@ -27,10 +27,16 @@ sources:
     url: https://www.onmanorama.com/news/kerala/2026/11/02/police-chase-down-three-youths-with-hashish-oil-in-wayanad.amp.html
     publisher: Onmanorama
     date: 2026-11-02
+  - title: വയനാട്ടിലും കോഴിക്കോട്ടും ലഹരിവേട്ട; ഹാഷിഷ് ഓയിലുമായി നാല് യുവാക്കൾ പിടിയിൽ
+    url: https://www.expresskerala.com/news/drug-raids-in-wayanad-and-kozhikode-four-youths-arrested-with-hashish-oil.html
+    publisher: Express Kerala
+    date: 2026-11-03
+    language: ml
 open_questions:
   - The article gives no separate date for the patrol; 2 November 2026 is its publication date and is used as the incident date.
   - Only one opened source supports this event; searches for a second report of the same Lakkidi seizure found none.
   - No charge, case number or further court outcome beyond station bail was reported.
+  - This corroborating account does not mention the station bail reported in the existing report.
 ---
 
 Vythiri police arrested three youths from Kozhikode during a routine patrol at
@@ -44,10 +50,9 @@ allegedly attempted to flee in the vehicle. [@1] Police chased and intercepted
 the vehicle before taking the occupants into custody. [@1]
 
 The patrol and subsequent action were led by Vythiri Station House Officer K K
-Sobin. [@1] During a subsequent search, police recovered 2.95 grams of hashish
+Sobin. [@1,2] During a subsequent search, police recovered 2.95 grams of hashish
 oil allegedly stored in a small plastic bottle in Abdul Hadi Riyas's pocket.
-[@1]
+[@1,2]
 
 Speaking to Onmanorama, SHO Sobin said the three were later released on station
 bail as the quantity of the contraband seized was small. [@1]
-
