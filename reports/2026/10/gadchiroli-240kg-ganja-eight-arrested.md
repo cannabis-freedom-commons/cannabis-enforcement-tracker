@@ -24,21 +24,29 @@ sources:
     url: https://timesofindia.indiatimes.com/city/nagpur/gadchiroli-police-seize-240kg-ganja-worth-rs1-20cr-arrest-8/amp_articleshow/135473477.cms
     publisher: The Times of India
     date: 2026-11-03
+  - title: 'Gadchiroli Crime News: गड़चिरोली में पुलिस की बड़ी कार्रवाई, 240 किलो गांजा जब्त; 8 आरोपी गिरफ्तार'
+    url: https://navbharatlive.com/maharashtra/gadchiroli/gadchiroli-240-kg-ganja-seized-8-accused-arrested-asl01
+    publisher: Navbharat Live
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Only one opened source supports this event; no agency statement or second outlet was found.
   - The names and individual roles of the eight accused were not published, only that they are from Gadchiroli and Chhattisgarh.
   - No court outcome beyond three days of police custody was reported.
   - The page carries an image captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
+  - The new outlet gives 240.580 kg and Rs 1,20,29,000 while the existing report rounds to 240 kg and Rs 1.2 crore; the precise figures are treated as the same seizure.
+  - The new outlet names the accused and vehicle numbers in Hindi transliteration, which is not used to change the existing report's description of their origins.
+  - The submitted page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Gadchiroli police arrested eight people in a joint operation by the Local Crime
-Branch and Gatta police. [@1] The operation was executed on 31 October. [@1]
+Branch and Gatta police. [@1,2] The operation was executed on 31 October. [@1,2]
 Police said the eight accused are from Gadchiroli and Chhattisgarh. [@1]
 
 Officers first intercepted an SUV carrying three occupants on suspicion it was
 escorting a vehicle carrying narcotics. [@1] Subsequent questioning revealed the
 movement of a pickup carrying ganja and another car carrying prospective buyers.
-[@1] Police said the escort vehicle had alerted the pickup occupants, who then
+[@1,2] Police said the escort vehicle had alerted the pickup occupants, who then
 dumped the consignment in a forest area and tried to escape. [@1] Police
 intercepted the suspects and recovered the contraband. [@1]
 
@@ -52,3 +60,4 @@ A case was registered under the Narcotic Drugs and Psychotropic Substances Act
 at Pendhri police outpost on 1 November, and all eight accused were remanded to
 three days of police custody. [@1]
 
+Police recovered 240.580 kilograms of ganja packed in 12 sacks. [@2] Police valued the ganja at Rs 1,20,29,000 and put the total seizure including three vehicles and eight phones at Rs 1,46,10,000. [@2]
