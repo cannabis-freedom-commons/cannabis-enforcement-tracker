@@ -97,7 +97,7 @@ together for later sale to customers across Ukraine. [@1]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
 during a personal search. [@1,4] Officers then identified his accomplice and a
-flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,9] They seized
+flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,6,9] They seized
 nine more vacuum packages weighing over 3.6 kg there. [@1,4] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 [@2,5] If proved, the charge carries up to 12 years in prison with confiscation of
