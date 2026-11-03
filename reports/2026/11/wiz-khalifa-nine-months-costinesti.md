@@ -25,6 +25,8 @@ open_questions:
   - The DIICOT appeal retrial scheduled for 12 November 2026 had not yet occurred at publication, so its outcome is not reported here.
   - Only one source for this annulment step could be opened.
   - The page carries an illustration whose caption does not establish what it depicts, so no media entry is listed.
+  - 'Sources disagree on which court issued the 3 November annulment: SpotMedia attributes it to the Bucharest Court of Appeal after the High Court transferred file No. 462/36/2026 to Bucharest, while Mediafax, Observator and the existing report attribute it to the Constanta Court of Appeal.'
+  - The SpotMedia page carries only a portrait credited to Instagram/wizkhalifa, which does not depict the festival, seizure or court, so no media entry is listed.
 sources:
   - title: UPDATE - Rapperul Wiz Khalifa, condamnat la nouă luni de închisoare cu executare
     url: https://www.news.ro/justitie/update-rapperul-wiz-khalifa-condamnat-luni-inchisoare-executare-dupa-fumat-tigara-cannabis-scena-festivalului-beach-please-costinesti-decizia-curtii-apel-constanta-definitiva-dat-urmarire-1922403418002025121722278686
@@ -38,6 +40,16 @@ sources:
   - title: Condamnarea lui Wiz Khalifa, desființată de Curtea de Apel Constanța
     url: https://www.oradesibiu.ro/2026/11/03/condamnarea-lui-wiz-khalifa-desfiintata-de-curtea-de-apel-constanta/
     publisher: Ora de Sibiu
+    date: 2026-11-03
+    language: ro
+  - title: Hotărârea de condamnare a rapperului Wiz Khalifa, anulată de Curtea de Apel Constanța. Apelul va fi rejudecat
+    url: https://www.mediafax.ro/life-inedit/hotararea-de-condamnare-a-rapperului-wiz-khalifa-anulata-de-curtea-de-apel-constanta-apelul-va-fi-rejudecat-23836797
+    publisher: Mediafax
+    date: 2026-11-03
+    language: ro
+  - title: Rapperul Wiz Khalifa, condamnat la închisoare pentru o țigară cu cannabis la Beach, Please!, ar putea scăpa de pedeapsă
+    url: https://spotmedia.ro/stiri/monden/rapperul-wiz-khalifa-condamnat-la-inchisoare-pentru-o-tigara-cu-cannabis-la-beach-please-ar-putea-scapa-de-pedeapsa
+    publisher: spotmedia.ro
     date: 2026-11-03
     language: ro
 media:
@@ -64,4 +76,4 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3] State-advanced court costs remain on him. [@3]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4] State-advanced court costs remain on him. [@3]
