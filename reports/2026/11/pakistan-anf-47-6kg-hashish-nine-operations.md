@@ -24,6 +24,10 @@ sources:
     url: https://www.dailyindependent.com.pk/2026/11/03/anf-arrests-10-suspects-seizes-over-302kg-of-narcotics-in-nine-nationwide-operations/
     publisher: Daily Independent
     date: 2026-11-03
+  - title: ANF Seizes 302.49kg Of Narcotics In Nine Operations, Arrests 10
+    url: https://www.urdupoint.com/en/pakistan/anf-seizes-over-302-kg-of-drugs-in-nine-opera-2282610.html
+    publisher: UrduPoint
+    date: 2026-11-03
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate dates for the nine operations.
   - The cannabis figure of 47.6 kg is the sum of six stated hashish seizures (10.8 kg plus 9.6 kg plus 9.6 kg plus 6.6 kg plus 6 kg plus 5 kg); the source states only the 302.49 kg combined narcotics total.
@@ -32,16 +36,17 @@ open_questions:
   - The suspects are not named and no ages, charges in court or court dates beyond registration under the Control of Narcotic Substances Act are given.
   - The page carries several seizure photos with empty captions and alt text, so whether they depict this event could not be established and no media entry is added.
   - No second report of the same nine operations was found; searches for the agency statement and other outlets returned no accessible results.
+  - The UrduPoint feature image carries only the article title as alt text with no caption or credit establishing it shows this seizure, so no media entry is added.
 ---
 
 The Anti-Narcotics Force arrested 10 suspected drug traffickers, including a
-woman, during nine operations in different cities across Pakistan. [@1] The
+woman, during nine operations in different cities across Pakistan. [@1,2] The
 operations targeted domestic, international and inter-provincial drug
 trafficking networks, according to an ANF spokesperson. [@1] Cases were
 registered against the arrested suspects under the Control of Narcotic
-Substances Act, 1997, and further investigations were under way. [@1]
+Substances Act, 1997, and further investigations were under way. [@1,2]
 
-The ANF put the total seizure at 302.49 kilogrammes of narcotics. [@1] Near
+The ANF put the total seizure at 302.49 kilogrammes of narcotics. [@1,2] Near
 Kuchlak Bypass in Balochistan, officers recovered 210kg of morphine from a
 secret hideout in an intelligence-based operation. [@1] In Peshawar, officers
 seized 26.4kg of narcotics concealed in a secret compartment of a vehicle near
@@ -52,11 +57,10 @@ material, with a combined gross weight of 11.290kg, destined for Australia. [@1]
 
 In Burewala in Vehari district, officers recovered 10.8kg of hashish and 7.2kg
 of opium from a suspected vehicle near the post office and apprehended two
-suspects. [@1] Officers seized 9.6kg of hashish from a vehicle near Pindorian in
+suspects. [@1,2] Officers seized 9.6kg of hashish from a vehicle near Pindorian in
 Islamabad, arresting two suspects, and recovered another 9.6kg of hashish from a
 suspect near Ravi Toll Plaza in Lahore. [@1] Officers also seized 6.6kg of
 hashish from a vehicle near the Islamabad Motorway Toll Plaza and arrested the
 accused. [@1] In Gujranwala, officers recovered 6kg of hashish from a man and a
 woman travelling on a motorcycle near Chan Da Qila on GT Road, and in Hyderabad
 seized 5kg of hashish from a motorcyclist near Sehrish Nagar. [@1]
-
