@@ -34,28 +34,35 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-10-31
     language: ar
+  - title: سقوط تاجر شابو وحشيش في قبضة مباحث سوهاج.. ضبط كيلو مخدرات و5 فرش حشيش وسلاح ناري
+    url: https://www.alraeesnews.com/343347
+    publisher: الرئيس نيوز
+    date: 2026-10-31
+    language: ar
 open_questions:
   - Neither report gives the date of the raid or arrest; 31 October 2026 is the publication date of both accounts.
   - No weight was given for the five hashish slabs; the one-kilogram figure refers to the shabu, not the hashish.
   - No charge, court date or outcome was reported after the man was referred to the Public Prosecution.
   - The two accounts share the police statement's wording and add little independent detail.
   - Cairo24's only picture is a generic 'security campaign' image, and no picture could be verified as showing this raid, so no photo is linked.
+  - The new account gives the suspect's initials as D.M. (ض. م), while the existing report records D.A.
+  - The page's only listed image is captioned with the outlet's name and cannot be verified as showing this raid, so no photo is linked.
 ---
 
 Security forces in Sohag arrested a man in his thirties during a security
 campaign against drug trafficking in Sohag markaz, the district around Sohag
-city. [@1,3] He was 30 years old, unemployed and living in Rawafi al-Qasir
-village. [@1] Detectives had been monitoring his activity in promoting drugs in
+city. [@1,3,4] He was 30 years old, unemployed and living in Rawafi al-Qasir
+village. [@1,4] Detectives had been monitoring his activity in promoting drugs in
 the village before the raid. [@2] The raid followed authorisation from the
 Public Prosecution and targeted his home. [@2] He was identified by the initials
 D. A. [@1]
 
 Police found 139 rolls of shabu, a methamphetamine, weighing about one kilogram,
-and five slabs of hashish in his possession. [@1] The 139 shabu rolls were
+and five slabs of hashish in his possession. [@1,4] The 139 shabu rolls were
 prepared for sale. [@2] They also seized a locally made gun, ammunition, a
-precision scale and cash. [@1]
+precision scale and cash. [@1,4]
 
 Lt. Col. Ahmed al-Omda, head of the Sohag police station's investigations unit,
-led the raid with Captains Mohamed al-Khatib and Mustafa Qureishi. [@1] The man
+led the raid with Captains Mohamed al-Khatib and Mustafa Qureishi. [@1,4] The man
 was detained and referred to the Public Prosecution after the case file was
-drawn up. [@2]
+drawn up. [@2,4]
