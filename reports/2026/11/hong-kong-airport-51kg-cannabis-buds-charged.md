@@ -54,6 +54,11 @@ sources:
     publisher: RTHK
     date: 2026-11-02
     language: zh
+  - title: 行李藏$106万大麻花、私烟及第一部毒药 曼谷抵港内地汉遭拘控
+    url: https://global.hk01.com/%E7%AA%81%E5%8F%91/60406379/%E8%A1%8C%E6%9D%8E%E8%97%8F-106%E4%B8%87%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E7%A7%81%E7%83%9F%E5%8F%8A%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%8D%AF-%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E5%86%85%E5%9C%B0%E6%B1%89%E9%81%AD%E6%8B%98%E6%8E%A7
+    publisher: 香港01
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The HK$1.06 million estimate covers the cannabis, the suspected Part I poison products and the cigarettes together, so no value figure is recorded.
   - The weight was given as about 5.1 kg; no exact figure was published.
@@ -66,17 +71,17 @@ open_questions:
 ---
 
 Hong Kong Customs detected an incoming-passenger drug-trafficking case at Hong
-Kong International Airport on 2 November 2026. [@1,4,5] The passenger was a
-42-year-old mainland man who had arrived from Bangkok, Thailand. [@2,4,5,6] During
+Kong International Airport on 2 November 2026. [@1,4,5,7] The passenger was a
+42-year-old mainland man who had arrived from Bangkok, Thailand. [@2,4,5,6,7] During
 clearance, officers found about 5.1 kg of suspected cannabis buds, three
 products containing suspected Part I poison and 261 duty-unpaid cigarettes in
-his hand luggage. [@2,5,6] He was charged with one count each of trafficking in a
+his hand luggage. [@2,5,6,7] He was charged with one count each of trafficking in a
 dangerous drug, possession of dutiable goods, failure to declare dutiable goods
-to Customs officers and possession of a Part I poison. [@1,4,5,6] The case was to go
-before West Kowloon Magistrates' Courts on 3 November. [@3,4,5,6]
+to Customs officers and possession of a Part I poison. [@1,4,5,6,7] The case was to go
+before West Kowloon Magistrates' Courts on 3 November. [@3,4,5,6,7]
 
 Customs estimated the combined market value of the haul at about HK$1.06
-million. [@2,4,5,6] Customs said it would continue to step up enforcement against drug
+million. [@2,4,5,6,7] Customs said it would continue to step up enforcement against drug
 trafficking through intelligence analysis. [@3] Trafficking in a dangerous drug
 is punishable on conviction by up to a HK$5 million fine and life imprisonment.
 [@1]
