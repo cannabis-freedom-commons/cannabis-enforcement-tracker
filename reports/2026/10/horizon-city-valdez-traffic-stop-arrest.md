@@ -29,26 +29,33 @@ sources:
     publisher: El Diario de El Paso
     date: 2026-11-02
     language: es
+  - title: Man arrested for drug possession in Horizon City
+    url: https://www.aol.com/articles/man-arrested-drug-possession-horizon-192957000.html
+    publisher: AOL
+    date: 2026-11-02
 open_questions:
   - No quantity or weight was published for the suspected marijuana or methamphetamine.
   - The incident date is recorded as 21 October 2026 based on the 2 November 2026 publication date and the Wednesday, Oct. 21 reference.
   - No court outcome beyond the reported possession charges was published.
   - The KTSM page displays a booking-style photo of Valdez, but its caption does not establish that it shows the stop or seizure, so no media entry is added.
+  - No weight was published for the suspected marijuana or the suspected crystal-like substance, so no cannabis quantity can be recorded.
+  - The AOL page is a republication of the KTSM article already cited in the existing report, not an independent second account.
+  - The page portrait captioned Miguel Angel Valdez, 39 (Horizon City Police Department) does not show the stop, search or seizure, so no media entry is added.
 ---
 
 Horizon City police arrested 39-year-old Miguel Angel Valdez during a traffic
 stop on Wednesday, October 21, in Horizon City, Texas, on charges including
 possession of marijuana. [@1] Officers with the department's Tactical
 Suppression and Gang Unit stopped Valdez just after 10 a.m. for a traffic
-violation. [@1] During the contact, officers detected an odor of marijuana
+violation. [@1,3] During the contact, officers detected an odor of marijuana
 coming from Valdez and the vehicle, which led them to conduct a probable-cause
-search. [@1]
+search. [@1,3]
 
 Valdez was taken to the El Paso County Downtown Jail and was charged with
-possession of a controlled substance and possession of marijuana. [@1] Police
+possession of a controlled substance and possession of marijuana. [@1,3] Police
 said officers found suspected marijuana and a suspected crystal-like substance
-inside the vehicle's center console. [@1] The substances were field-tested and
-returned positive results for marijuana and methamphetamine. [@1]
+inside the vehicle's center console. [@1,3] The substances were field-tested and
+returned positive results for marijuana and methamphetamine. [@1,3]
 
 El Diario de El Paso confirmed the same arrest, identifying the detainee as
 39-year-old Miguel Angel Valdez, who faces charges for possession of a
@@ -57,4 +64,3 @@ both substances underwent preliminary field tests that returned positive results
 for marijuana and methamphetamine. [@2] Police did not report the quantity of
 drugs seized, so no cannabis weight is recorded and the methamphetamine
 component is excluded from the cannabis figures. [@2]
-
