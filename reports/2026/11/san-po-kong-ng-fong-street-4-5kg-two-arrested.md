@@ -54,6 +54,11 @@ sources:
     publisher: 香港文匯報
     date: 2026-11-03
     language: zh
+  - title: 警搜新蒲崗工廈檢95萬元大麻　兩男涉販毒被捕
+    url: https://www.dotdotnews.com/a/202611/03/AP6ae9f893e4b02fd1c5f66543.html
+    publisher: 點新聞
+    date: 2026-11-03
+    language: zh
 open_questions:
   - Only one source could be opened for this event, so no independent corroboration was available.
   - No charge beyond arrest and detention, and no court outcome, was reported.
@@ -63,18 +68,18 @@ open_questions:
 
 After an in-depth investigation, officers from Yau Tsim District carried out an
 anti-drug operation in Wong Tai Sin District on the night of 2 November 2026.
-[@1,2,3,4] During the operation inside an industrial building on Ng Fong Street in San
-Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3,4]
+[@1,2,3,4,5] During the operation inside an industrial building on Ng Fong Street in San
+Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3,4,5]
 Officers searched a unit in the same industrial building that was rented by one
-of the two men. [@1,2,4] The two local men, aged 22 and 24, were arrested on
+of the two men. [@1,2,4,5] The two local men, aged 22 and 24, were arrested on
 suspicion of trafficking in dangerous drugs and remained in detention pending
 investigation. [@1,2,3,4]
 
 The search recovered about 4,500 grams of suspected cannabis, together with a
-batch of suspected drug-packaging tools. [@1,2,3,4] The packaging tools included
+batch of suspected drug-packaging tools. [@1,2,3,4,5] The packaging tools included
 electronic scales and a sealing machine, according to the police account. [@1]
 Police estimated the total market value of the seized drugs at about HK$950,000.
-[@1,2,3,4]
+[@1,2,3,4,5]
 
 Under Chapter 134 of Hong Kong's laws, the Dangerous Drugs Ordinance,
 trafficking means selling or supplying a dangerous drug to another person. [@1]
