@@ -10,7 +10,7 @@ type: arrest
 also: [seizure]
 title: 21-year-old arrested in Sant'Antimo with 71 g of cannabis
 summary: >-
-  Police in Sant'Antimo arrested a 21-year-old after finding 18 marijuana packets (41 g) and six hashish packets (30 g) in his car during a night check on Via Svizzera. Officers also seized 2,000 euros in cash, a 12-cm knife and a telescopic wrench, and reported him for unlawful carrying of weapons.
+  Police in Sant'Antimo arrested a 21-year-old after finding 18 marijuana packets (41 g) and six hashish packets (30 g) in his car during a night check on Via Svizzera. Officers also seized 2,000 euros in cash, a 12-cm knife and a telescopic baton, and reported him for unlawful carrying of weapons.
 figures:
   arrested: 1
   kg_seized: 0.071
@@ -35,10 +35,21 @@ sources:
     publisher: Il Gazzettino Vesuviano
     date: 2026-11-03
     language: it
+  - title: 'Sant’Antimo, 21enne arrestato per spaccio: sequestrati marijuana, hashish e 2mila euro'
+    url: https://www.ilmeridianonews.it/2026/11/santantimo-21enne-arrestato-per-spaccio-sequestrati-marijuana-hashish-e-2mila-euro/
+    publisher: Il Meridiano News
+    date: 2026-11-03
+    language: it
+  - title: 'Sant’Antimo, sorpreso in strada con droga e coltello: arrestato 21enne'
+    url: https://www.teleclubitalia.it/santantimo-sorpreso-in-strada-con-droga-e-coltello-arrestato-21enne/
+    publisher: Teleclub
+    date: 2026-11-03
+    language: it
 open_questions:
   - The Lo Strillone article describes the suspect as 21 in its headline and opening but as 20 later; other outlets report 21, and the report uses 21 while noting the discrepancy.
   - The articles describe the stop as occurring at night but give no separate calendar date for it; 3 November 2026 is the publication date and is used as the incident date.
   - The suspect's name was not published.
+  - The 2,000 euros seized was cash held by the suspect, not an official valuation of the cannabis.
   - No court outcome was reported; the arrest for possession for dealing and the report for weapons offences were the latest steps known.
 ---
 
@@ -48,13 +59,13 @@ after his manner drew their attention. [@1] The young man, described as 21 years
 old, was arrested on suspicion of unlawful possession of narcotics for the
 purpose of dealing. [@1] He was also reported for unlawful carrying of weapons
 or objects capable of offending in connection with the knife and the telescopic
-wrench found in his possession. [@1]
+baton found in his possession. [@1,3,4]
 
-The search recovered 18 packets of marijuana weighing 41 grams in total. [@1]
-Officers also recovered six packets containing 30 grams of hashish. [@1] The
+The search recovered 18 packets of marijuana weighing 41 grams in total. [@1,3,4]
+Officers also recovered six packets containing 30 grams of hashish. [@1,3,4] The
 young man was found with 2,000 euros in cash in mixed-denomination banknotes.
 [@1] Officers also found a knife measuring 12 centimetres overall and a
-telescopic lug wrench, a long tyre iron. [@1] A second local account confirms
+telescopic baton. [@1,2,3,4] A second local account confirms
 the seizure of 18 marijuana packets totalling 41 grams and six hashish packets
 totalling 30 grams. [@2]
 

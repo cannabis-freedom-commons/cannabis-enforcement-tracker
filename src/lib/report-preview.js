@@ -1,10 +1,12 @@
 import { load, JSON_SCHEMA } from "js-yaml";
 
+import reportAliases from "./report-aliases.js";
+
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const SAVED = new Set(["committed", "published", "duplicate"]);
 
 export function savedReportPath(v, base = "/") {
-  return SAVED.has(v?.status) && SLUG.test(v.report_slug || "") ? `${base}report/${v.report_slug}/` : null;
+  return SAVED.has(v?.status) && SLUG.test(v.report_slug || "") ? `${base}report/${reportAliases.slugs[v.report_slug] || v.report_slug}/` : null;
 }
 
 // Once prepared, the actual report file is authoritative, including an empty
