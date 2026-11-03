@@ -35,12 +35,21 @@ sources:
     publisher: Douranews
     date: 2026-11-03
     language: pt
+  - title: PRF apreende 600 kg de cocaína e 10 pistolas durante o feriado de Finados — AconteceuMS
+    url: https://www.aconteceums.com.br/noticia/78250/prf-apreende-600-kg-de-cocaina-e-10-pistolas-durante-o-feriado-de-finados
+    publisher: AconteceuMS
+    date: 2026-11-03
+    language: pt
 open_questions:
   - Only one accessible source for this event was found after searching in Portuguese; no second outlet or agency statement could be opened.
   - The article says the balance covers Friday (30) to Sunday (2) but also dates the Campo Grande seizure to Sunday (1); 1 November 2026 was a Sunday and 2 November a Monday, so 1 November is used as the incident date.
   - The overview total is given as 1,172 kilos of marijuana while the detailed Maracaju seizure is given as 1,171 kilos; the detailed 1,171 kilos plus 10.9 kilos of hashish is used for cannabis figures.
   - Cocaine weights and the 10 pistols are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - No charges or court outcomes beyond arrest and referral to the Federal and Civil Police were reported.
+  - This source dates the operation 30 October to 2 November 2026 but dates the Campo Grande seizure to Sunday the 1st; 1 November 2026 was a Sunday and 2 November a Monday, as already noted in the existing report.
+  - The same article reports a separate Receita Federal seizure of 76 kilos of cocaine on 3 November in a Campo Grande carrier, a cocaine-only event excluded from cannabis figures.
+  - The page photo credited Divulgação/PRF appears to republish the same PRF handout already recorded via Midiamax, so no new media entry is added.
+  - No charges or court outcomes beyond arrest and referral to the Federal Police are reported in this source.
 ---
 
 The Federal Highway Police's Operação Finados in Mato Grosso do Sul ended with
@@ -52,15 +61,15 @@ foot, and was not found. [@1] In São Gabriel do Oeste, the truck driver who
 confessed to receiving the load locally for delivery to São Paulo was arrested
 and taken to the Civil Police. [@1] In Campo Grande, two women were arrested
 after officers found 10 9-mm pistols and magazines hidden in a Fiat Mobi panel
-and were taken to the Federal Police. [@1]
+and were taken to the Federal Police. [@1,3]
 
 Across the four cases the police reported seizing 1,172 kilos of marijuana, 608
-kilos of cocaine and 10 pistols. [@1,2] In the Maracaju car officers found 1,171
+kilos of cocaine and 10 pistols. [@1,2,3] In the Maracaju car officers found 1,171
 kilos of marijuana and 10.9 kilos of hashish, the cannabis component recorded
-here. [@1,2] In Anastácio officers seized 233.8 kilos of coca paste and 37.4 kilos
-of cocaine hydrochloride from a truck with bales covered by a tarpaulin. [@1,2] In
+here. [@1,2,3] In Anastácio officers seized 233.8 kilos of coca paste and 37.4 kilos
+of cocaine hydrochloride from a truck with bales covered by a tarpaulin. [@1,2,3] In
 São Gabriel do Oeste officers found 337 kilos of coca paste hidden in
-compartments in a truck roof. [@1]
+compartments in a truck roof. [@1,3]
 
 The roundup covered four major cases registered between Friday the 30th and
 Sunday in Anastácio, Maracaju, São Gabriel do Oeste and Campo Grande. [@1] The
