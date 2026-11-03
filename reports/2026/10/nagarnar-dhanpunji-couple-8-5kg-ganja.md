@@ -54,6 +54,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-10-30
     language: hi
+  - title: 'Chhattisgarh news today: छत्तीसगढ़ में गांजा तस्करी खिलाफ पुलिस बड़ी कार्रवाई, 4.25 लाख के गांजे के साथ दंपती गिरफ्तार – RGH NEWS'
+    url: https://rghnews.com/chhattisgarh-news-today-46/
+    publisher: RGH News
+    date: 2026-10-30
+    language: hi
 open_questions:
   - The reports do not say whether the couple has appeared in court or whether a charge sheet has been filed.
   - The reports differ slightly on whether the couple was travelling or waiting for a vehicle when police stopped them; all place the stop at the Dhanpunji checkpoint.
@@ -61,19 +66,22 @@ open_questions:
   - 'Left out, as its quotation was not found in State Media Service: Police stopped them at the Dhanpunji RTO checkpoint in Bastar district on 27 October 2026.'
   - 'Left out, as its quotation was not found in The Gazette: Officers searching their blue bag found four packets of ganja, or cannabis, weighing 8.5 kg.'
   - 'Left out, as its quotation was not found in The Gazette: They also seized ₹120 in cash and a Lava Android mobile phone.'
+  - The RGH News page gives only its publication date of 30 October 2026 and no separate date for the checkpoint stop; the existing report dates the event to 27 October 2026.
+  - The page image uses the same timestamped file name as a photo already held in the existing report, so it appears to be the same agency handout and no separate media entry is added.
 ---
 
 Nagarnar police arrested a husband and wife who were taking ganja from Odisha to
-Mathura. [@1] The checkpoint is on National Highway 63. [@1] They were Narendra
+Mathura. [@1,5] The checkpoint is on National Highway 63. [@1,5] They were Narendra
 Das, 21, and Sanchita Das, 20, from Vrindavan Gate in Mathura, Uttar Pradesh,
-police said. [@3]
+police said. [@3,5]
 
-Police valued the cannabis at about ₹4.25 lakh, or 425,000 rupees. [@2] A case
+Police valued the cannabis at about ₹4.25 lakh, or 425,000 rupees. [@2,5] A case
 was registered against both under section 20(b) of the Narcotic Drugs and
-Psychotropic Substances Act, known as the NDPS Act, as crime No. 151/2026. [@3]
-The case is under further investigation. [@3]
+Psychotropic Substances Act, known as the NDPS Act, as crime No. 151/2026. [@3,5]
+The case is under further investigation. [@3,5]
 
 Bastar district borders Odisha, and the Dhanpunji RTO checkpoint is on one of
 the main routes from the state. [@4] Police were still trying to establish where
 the cannabis was bought and who was to receive it in Mathura. [@4]
 
+Officers searching their bag found four packets of ganja. [@5] Officers also seized cash and a mobile phone alongside the 8.5 kg of ganja. [@5]
