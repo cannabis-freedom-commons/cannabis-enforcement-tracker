@@ -41,6 +41,11 @@ sources:
     publisher: PetroNews
     date: 2026-11-03
     language: pl
+  - title: Poszukiwany 37-latek zatrzymany z marihuaną. Miał przy sobie blisko 40 gramów narkotyków
+    url: https://plock.naszemiasto.pl/poszukiwany-37-latek-zatrzymany-z-marihuana-mial-przy-sobie-blisko-40-gramow-narkotykow/ar/c1p2-29494755
+    publisher: Płock Nasze Miasto
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The amount is reported only as nearly 40 grams, not an exact laboratory weight, so 0.04 kg records the stated amount
   - The five-month term is a previously imposed penalty being enforced, not a new sentence for this possession case, so no prison figure is recorded for it
@@ -48,22 +53,23 @@ open_questions:
   - Only the detention date of 2 November 2026 is given; 3 November 2026 is the publication date recorded on both sources
   - No court outcome for the new possession charge was reported beyond the possible penalty of up to three years
   - The PetroNews page carries a photo credited to KMP in Płock whose distinctness from the police handout already cited cannot be established from the caption alone, so no additional media entry is listed.
+  - The submitted page's only listed image is captioned as a generic police car and is not shown to depict this seizure, so no media entry is added.
 ---
 
-Płock police detained a 37-year-old city resident. [@1,3] The detention took place
-on 2 November 2026. [@2,3] Officers of the municipal police headquarters'
+Płock police detained a 37-year-old city resident. [@1,3,4] The detention took place
+on 2 November 2026. [@2,3,4] Officers of the municipal police headquarters'
 life-and-health crime unit conducted operational work concerning a man suspected
 of possessing drugs. [@1] Police established his whereabouts and carried out the
 detention. [@1]
 
 A data check showed the man was wanted by the justice system. [@1] He was to
-serve a five-month prison term. [@2,3] He was taken to prison after the new
+serve a five-month prison term. [@2,3,4] He was taken to prison after the new
 arrest. [@2]
 
 During the intervention officers found nearly 40 grams of marijuana, about 0.04
-kg, on him. [@1,3] He was charged the same day with possession of intoxicants, the
-Polish legal term for drugs, and admitted guilt. [@2,3] Police said he now faces
-up to three more years in prison for the possession charge. [@2]
+kg, on him. [@1,3,4] He was charged the same day with possession of intoxicants, the
+Polish legal term for drugs, and admitted guilt. [@2,3,4] Police said he now faces
+up to three more years in prison for the possession charge. [@2,4]
 
 Police said the detained 37-year-old had been convicted many times before for
 various offences. [@1] Police spokeswoman Monika Jakubowska reported that he
