@@ -29,21 +29,31 @@ const accuracy = focus?.coordinates && RADIUS[focus.precision] ? { center: [focu
 // accessions by seed lot status, with Landrace.wiki's own colours (MediaWiki:Common.js); no seed lot is a hollow dot
 const LOTS = [["Urgent", "#c92a2a"], ["At risk", "#e67700"], ["Secure", "#0ca678"], ["Held in a genebank", "#4c6ef5"], ["No data yet", "#6c757d"], ["No seed lot recorded", null]];
 const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { label: v.label, color: v.color, icon: typeIcon(k, 64) }]));
+// The loading leaf: seven serrated leaflets fanning out from one point, longest in the middle,
+// drawn as outlines from the middle outwards (global.css, .map-leaf). Coordinates in a 100 × 100 box.
+const leaflet = (angle, length) => {
+  const base = [50, 80], rad = (angle * Math.PI) / 180, steps = 14;
+  const along = [Math.sin(rad), -Math.cos(rad)], across = [Math.cos(rad), Math.sin(rad)];
+  const point = (t, side) => {
+    const width = length * 0.17 * Math.pow(Math.sin(Math.PI * Math.min(1, t * 1.08)), 0.9) * (1 - t * 0.35);
+    const tooth = t > 0.12 && t < 0.94 && Math.round(t * steps) % 2 ? 1.22 : 1; // a serration every other step
+    const d = length * t, w = width * tooth * side;
+    return [base[0] + along[0] * d + across[0] * w, base[1] + along[1] * d + across[1] * w];
+  };
+  const left = Array.from({ length: steps + 1 }, (_, i) => point(i / steps, -1));
+  const right = Array.from({ length: steps + 1 }, (_, i) => point(1 - i / steps, 1));
+  return `M${[...left, ...right].map(([x, y]) => `${x.toFixed(1)} ${y.toFixed(1)}`).join("L")}Z`;
+};
+const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 2], [-88, 27, 3], [88, 27, 3]].map(([a, l, ring]) => ({ d: leaflet(a, l), ring }));
 ---
 <div class="map" data-map data-styles={JSON.stringify(MAP_STYLES)} data-base={import.meta.env.BASE_URL}
   data-loading aria-busy="true" data-country-bounds={countryBounds ? JSON.stringify(countryBounds) : undefined} data-view={view ? JSON.stringify(view) : undefined} data-focus={focus?.id} data-country={country ?? undefined} data-hash={hash ? "" : undefined}
   data-accuracy={accuracy ? JSON.stringify(accuracy) : undefined} data-types={JSON.stringify(types)} role="region" aria-label={label}>
   <div class="map-loading" role="status" aria-live="polite">
-    <div class="map-loader-plot" aria-hidden="true">
-      <svg viewBox="0 0 180 100" fill="none">
-        <path class="map-loader-contour" d="M12 38 30 22 55 28 73 13 96 25 116 17 143 31 166 25M8 60 31 47 52 54 78 39 101 49 121 40 147 53 172 45M16 83 37 69 61 76 84 61 109 72 130 61 156 77 174 66" />
-        <path class="map-loader-route" d="M32 56 70 34 111 64 150 39" />
-        <g class="map-loader-pin" style="--pin:0"><path d="m32 49 7 7-7 7-7-7Z" /><circle cx="32" cy="56" r="1.5" /></g>
-        <g class="map-loader-pin" style="--pin:1"><path d="m70 27 7 7-7 7-7-7Z" /><circle cx="70" cy="34" r="1.5" /></g>
-        <g class="map-loader-pin" style="--pin:2"><path d="m111 57 7 7-7 7-7-7Z" /><circle cx="111" cy="64" r="1.5" /></g>
-        <g class="map-loader-pin" style="--pin:3"><path d="m150 32 7 7-7 7-7-7Z" /><circle cx="150" cy="39" r="1.5" /></g>
-      </svg>
-    </div>
+    <svg class="map-leaf" viewBox="0 0 100 100" aria-hidden="true">
+      <path class="map-leaf-stem" d="M50 80 50 97" pathLength="1" />
+      {LEAFLETS.map((l) => <path class="map-leaflet" d={l.d} pathLength="1" style={`--ring:${l.ring}`} />)}
+    </svg>
     <span class="map-loading-label">Preparing your map</span>
   </div>
   {!focus && <details class="map-layers">
