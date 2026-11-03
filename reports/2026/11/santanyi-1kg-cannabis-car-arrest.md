@@ -30,6 +30,11 @@ sources:
     publisher: El Confidencial
     date: 2026-11-03
     language: es
+  - title: Detenido un joven en Santanyí por tráfico de drogas tras hallarle un kilo de marihuana en el coche
+    url: https://www.europapress.es/illes-balears/noticia-detenido-joven-santanyi-trafico-drogas-hallarle-kilo-marihuana-coche-20261103144552.html
+    publisher: Europa Press
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article says the stop occurred at 19.00 on Monday and was published on 3 November 2026, so 2 November 2026 is used as the incident date.
   - No name, exact age or residence beyond young Spanish national was published.
@@ -39,18 +44,17 @@ open_questions:
 
 The Guardia Civil detained a young Spanish national in Santanyí, on the island
 of Mallorca, for alleged drug trafficking after intercepting him with a kilo of
-marijuana inside his car. [@1] The driver was detained for drug trafficking and
+marijuana inside his car. [@1,2] The driver was detained for drug trafficking and
 placed at the disposal of the competent judicial authority following the
-seizure. [@1]
+seizure. [@1,2]
 
 According to the Guardia Civil statement issued as the Instituto Armado, the
 events occurred at 19.00 on Monday when officers were conducting a control as
-part of their citizen-security functions. [@1] When officers signalled a vehicle
+part of their citizen-security functions. [@1,2] When officers signalled a vehicle
 to stop during that control, they noticed a strong smell of marijuana coming
-from inside the car. [@1] Officers then inspected the interior of the car and
-found a large-sized bag in the rear that contained a kilo of cannabis. [@1]
+from inside the car. [@1,2] Officers then inspected the interior of the car and
+found a large-sized bag in the rear that contained a kilo of cannabis. [@1,2]
 
 Following the discovery in the rear of the car, officers seized the substance
 containing the kilo of cannabis. [@1] The stop and arrest took place in
 Santanyí, a town on the island of Mallorca. [@1]
-
