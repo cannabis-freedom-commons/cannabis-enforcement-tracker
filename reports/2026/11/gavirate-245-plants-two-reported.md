@@ -46,6 +46,11 @@ sources:
     publisher: Prealpina
     date: 2026-11-02
     language: it
+  - title: Marijuana coltivata in casa, sequestrate 245 piante nel Varesotto
+    url: https://tg24.sky.it/cronaca/2026/11/02/marijuana-coltivata-casa-sequestro-varese
+    publisher: Sky TG24
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -53,21 +58,23 @@ open_questions:
   - The Malpensa24 lead photo is captioned only marijuana, so it is not established to show this seizure and no photo entry is listed.
   - The Il Giorno cannabis image is labelled as an archive photo, so it is omitted as a stock illustration.
   - The article gives no separate raid date; 2 November 2026 is its publication date.
+  - The page gives no separate date for the raid; 2 November 2026 is its publication date.
+  - The page's preview image is a 2025 file photo from an unrelated article and the embedded video is the general 2 November newscast, so neither is established to show this seizure and no media entry is added.
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3] All 245 plants were seized and placed at
+marijuana cultivation in Gavirate. [@1,3,4] All 245 plants were seized and placed at
 the disposal of the judicial authority for further steps. [@2,3] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3]
+liberty for cultivating narcotic substances. [@1,3,4]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
-approaching cutting, drying and packaging. [@1] The specimens ranged from about
+approaching cutting, drying and packaging. [@1,4] The specimens ranged from about
 40 centimetres to one metre tall, with one plant reaching about 1.80 metres.
 [@1] Laboratory tests found a THC concentration above the limits in force,
 giving the matter criminal relevance. [@1,3] Investigators estimated that, once
 growth and processing were complete, the crop could have been worth more than
-500,000 euros. [@1,3]
+500,000 euros. [@1,3,4]
 
 Investigators traced the cultivation to a farm formally operating in the
 aromatic- and medicinal-plant sector. [@1] Officers then checked
