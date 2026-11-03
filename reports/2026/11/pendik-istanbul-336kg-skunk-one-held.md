@@ -27,17 +27,26 @@ sources:
     publisher: CrimeNieuws
     date: 2026-11-02
     language: nl
+  - title: Turkse politie pakt vrachtwagen met honderden kilo`s vacuüm verpakt `skunk` wiet
+    url: https://drimble.nl/dossiers/multicultureel/turkije/108474708/turkse-politie-pakt-vrachtwagen-met-honderden-kilos-vacuum-verpakt-skunk-wiet.html
+    publisher: Drimble.nl
+    date: 2026-11-02
+    language: nl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the vehicle check; 2 November 2026 is used as the incident date.
   - Police had not disclosed the origin or destination of the load or whether the suspect belonged to a larger drug network.
   - No details about the arrested person or the specific suspicion against him were reported.
   - The CrimeNieuws page carries an image file, but its caption and surrounding text do not establish that it shows this seizure, so no media entry is added.
+  - The page gives only its publication date of 2 November 2026 and no separate day for the vehicle check.
+  - The readable text is truncated after stating the drugs were in the car and were fully seized.
+  - The title mentions a truck while the readable text describes a car, so the vehicle type beyond suspicious vehicle is not resolved by this page.
+  - Whether the lead image captioned only with the headline shows this seizure could not be established, so no media entry is added.
 ---
 
 During a check of a suspicious vehicle in the Pendik district of Istanbul,
 Turkish police found 336 kilos and 550 grams of skunk, described as a strong
-cannabis variant. [@1] The drugs were in the car and were fully seized, and
-officers arrested one person. [@1]
+cannabis variant. [@1,3] The drugs were in the car and were fully seized, and
+officers arrested one person. [@1,3]
 
 A second account of the same check likewise reports 336 kilos and 550 grams of
 the strong cannabis variant found in Pendik and one person arrested. [@2] Police
@@ -51,4 +60,3 @@ Anyone who sells, transports, stores or possesses drugs for trade purposes
 without a licence faces at least ten years' imprisonment under the law. [@1]
 Possession for own use is also punishable, although prosecution may be deferred
 under conditions with treatment or supervision. [@1]
-
