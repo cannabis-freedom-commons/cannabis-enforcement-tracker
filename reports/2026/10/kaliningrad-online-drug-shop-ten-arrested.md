@@ -60,6 +60,11 @@ sources:
     publisher: Новый Калининград.Ru
     date: 2026-10-30
     language: ru
+  - title: Калининградские полицейские с коллегами из двух регионов пресекли работу интернет-магазина наркотиков
+    url: https://kaskad.tv/novosti/66496-kaliningradskie-politsejskie-s-kollegami-iz-dvukh-regionov-presekli-rabotu-internet-magazina-narkotikov
+    publisher: Каскад.тв
+    date: 2026-10-30
+    language: ru
 open_questions:
   - The reports give no separate date for the arrests; 29 October 2026 is the date of the Kaliningrad police statement and 30 October that of the news report.
   - No weight or street value was given for the hashish, cannabis or amphetamine seized, and no total is given for the drugs sold.
@@ -70,27 +75,30 @@ open_questions:
   - A related line on the page says police detained a Kaliningrad resident for advertising an online drug shop; the article does not say whether that person is one of the ten.
   - The KaliningradToday account gives the group as ten people but does not state how many were detained, so the figure of ten arrests rests on the police statement and the other reports.
   - The page's lead photograph shows a masked officer but carries no caption or credit, so it has not been confirmed as a picture of this operation and is not listed as media.
+  - The Kaskad page states the group had 10 members and that detentions ran in three regions but does not explicitly state that all ten were detained, so the existing arrest figure still rests on the police statement and the other reports.
+  - The Kaskad page's lead photograph is credited to the regional UMVD press service and appears to republish the police handout already listed from MVD Media, so no new media entry is added.
+  - 'Left out, as its quotation was not found in Каскад.тв: The organiser and an accomplice were taken to Kaliningrad, where they gave confessions.'
 ---
 
 Kaliningrad region's drug-control police, with colleagues from the Moscow and
 Leningrad regions and Rosgvardia's SOBR and OMON units, broke up an organised
 group selling drugs through an online shop, the regional interior ministry said.
-[@2] Ten people were detained in three regions. [@1] Police said the arrest
-operations ran simultaneously in the three regions. [@1,3,4,5] The organiser and an
+[@2,7] Ten people were detained in three regions. [@1] Police said the arrest
+operations ran simultaneously in the three regions. [@1,3,4,5,7] The organiser and an
 accomplice were taken to Kaliningrad, where they gave confessions. [@1,3,4,6]
 
 The organiser lived in Leningrad region and coordinated the shop, while his
-brother in Sovetsk administered the website. [@1,3,5] An accomplice from the Moscow
+brother in Sovetsk administered the website. [@1,3,5,7] An accomplice from the Moscow
 region bought wholesale batches, and another member, from Nemansky district,
-grew cannabis and made marijuana from it. [@1,3,6] Couriers placed the finished
-goods in hiding places, known in Russia as zakladki, for contactless sales. [@1,3,6]
+grew cannabis and made marijuana from it. [@1,3,6,7] Couriers placed the finished
+goods in hiding places, known in Russia as zakladki, for contactless sales. [@1,3,6,7]
 Police say the group sold marijuana, hashish, mephedrone, alpha-PVP, methadone
-and LSD in the Kaliningrad and Moscow regions. [@1,4,5]
+and LSD in the Kaliningrad and Moscow regions. [@1,4,5,7]
 
 The shop handled about 10,000 drug sales, according to preliminary police
-figures. [@1,6] Searches of the detainees' homes found three cannabis bushes, 21
-stashes containing hashish, and cannabis. [@1,3,6] Officers also found caches
-holding packages of amphetamine and hashish. [@1,3] Criminal cases were opened
+figures. [@1,6,7] Searches of the detainees' homes found three cannabis bushes, 21
+stashes containing hashish, and cannabis. [@1,3,6,7] Officers also found caches
+holding packages of amphetamine and hashish. [@1,3,7] Criminal cases were opened
 under article 228.1 of Russia's Criminal Code, which covers drug trafficking.
 [@1,3]
 
