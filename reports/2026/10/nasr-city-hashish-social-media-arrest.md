@@ -40,6 +40,11 @@ sources:
     publisher: مصراوي
     date: 2026-10-21
     language: ar
+  - title: ضبط عاطل نشر صوره وهو يتعاطى الحشيش لزيادة المشاهدات بمدينة نصر
+    url: https://ekhbary24.com/article/31551
+    publisher: إخباري 24 نيوز
+    date: 2026-10-30
+    language: ar
 open_questions:
   - Ekhbary 24 names the accused as Mustafa El-Ramah, but Sada El Balad lists that name as the article's writer and Masrawy does not name him, so the report does not treat it as the suspect's name.
   - No weight or value for the hashish was published.
@@ -50,16 +55,17 @@ open_questions:
 
 Security services arrested an unemployed man with a criminal record who lived in
 the area of the Nasr City First police station after identifying him from a
-social-media post. [@2] The post, illustrated with photographs, complained that
-he was publishing pictures of himself while using and dealing in drugs. [@1]
+social-media post. [@2,4] The post, illustrated with photographs, complained that
+he was publishing pictures of himself while using and dealing in drugs. [@1,4]
 Officers then found a quantity of hashish, cannabis resin, in his possession.
-[@2] The Interior Ministry's security apparatus said its inquiry began from that
+[@2,4] The Interior Ministry's security apparatus said its inquiry began from that
 circulating post. [@3]
 
 Confronted with the seizure, he admitted possessing the drugs in order to use
-them. [@2] He also said he had published the post on his own social-media page
-in order to increase the number of views. [@3] Officers took the legal
+them. [@2,4] He also said he had published the post on his own social-media page
+in order to increase the number of views. [@3,4] Officers took the legal
 procedures required in the case. [@1] The online complaint had alleged both use
 and dealing, while the admission the security services recorded was possession
 for use and posting the pictures for views. [@2]
 
+The man was referred to the Public Prosecution for investigation. [@4]
