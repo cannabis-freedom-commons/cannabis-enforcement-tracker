@@ -121,6 +121,11 @@ sources:
     publisher: herkesduysun.com
     date: 2026-11-03
     language: tr
+  - title: Uyuşturucu operasyonunda 25 kilogram esrar ele geçirildi
+    url: https://www.karshakimiyet.com/service/amp/uyusturucu-operasyonunda-25-kilogram-esrar-ele-gecirildi-122298h.htm
+    publisher: Kars Hakimiyet
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The reports give only the publication date of 3 November 2026 and no separate day for the raid.
   - No independent weighing of the cannabis is reported beyond the police figure of 25 kilograms.
@@ -138,14 +143,14 @@ open_questions:
 ---
 
 Antalya anti-narcotics police detained a suspect identified only as Y.K. during
-an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17,18] Police said Y.K. had brought narcotic
+an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19] Police said Y.K. had brought narcotic
 and stimulant substances into Antalya in order to sell and distribute them. [@1,6,15,16]
 He was referred to the judicial authorities on suspicion of trading and
-supplying drugs. [@2,15,16] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+supplying drugs. [@2,15,16] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 
 Officers searching his residence seized 25 kilograms of cannabis, called esrar
-in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] The cannabis was divided into 50 separate plastic
-bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18] Police said the bags were hidden inside a suitcase and under a bed
+in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] The cannabis was divided into 50 separate plastic
+bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19] Police said the bags were hidden inside a suitcase and under a bed
 base. [@3,9,14,15,18] No other suspect was reported as detained in the operation. [@1]
 
 The operation was carried out by the Anti-Narcotics Crime Branch of the Antalya
