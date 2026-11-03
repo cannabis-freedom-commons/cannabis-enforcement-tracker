@@ -39,6 +39,16 @@ sources:
     url: https://www.info.gov.hk/gia/general/202611/02/P2026110200533.htm
     publisher: Hong Kong Customs and Excise Department
     date: 2026-11-02
+  - title: 海關機場檢值106萬元毒品及未完稅香煙 拘捕42歲內地男
+    url: https://www.hkcd.com.hk/hkcdweb/content/2026/11/03/content_8783226.html
+    publisher: 香港商報網
+    date: 2026-11-03
+    language: zh
+  - title: 行李藏106萬元大麻花及第一部毒藥等 42歲內地男曼谷抵港被捕
+    url: https://www.stheadline.com/breaking-news/3632803/%E8%A1%8C%E6%9D%8E%E8%97%8F106%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%8A%E7%AC%AC%E4%B8%80%E9%83%A8%E6%AF%92%E8%97%A5%E7%AD%89-42%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%9B%BC%E8%B0%B7%E6%8A%B5%E6%B8%AF%E8%A2%AB%E6%8D%95
+    publisher: 星島頭條
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The HK$1.06 million estimated value covers the cannabis, Part I poison products and cigarettes together, not cannabis alone.
   - No quantity, weight or estimated value is given separately for the three suspected Part I poison products.
@@ -49,20 +59,19 @@ open_questions:
 ---
 
 A 42-year-old Mainland male passenger arrived in Hong Kong from Bangkok,
-Thailand, on 2 November 2026. [@1] During customs clearance at Hong Kong
+Thailand, on 2 November 2026. [@1,3] During customs clearance at Hong Kong
 International Airport, officers found the suspected drugs and cigarettes inside
-his carry-on baggage and arrested him. [@2] The arrested man has been charged
+his carry-on baggage and arrested him. [@2,4] The arrested man has been charged
 with trafficking in a dangerous drug, possession of dutiable goods, failing to
-declare dutiable goods, and possession of a Part I poison. [@1] The case was
+declare dutiable goods, and possession of a Part I poison. [@1,3] The case was
 scheduled to be brought up at the West Kowloon Magistrates' Courts on 3
-November. [@2]
+November. [@2,4]
 
 Customs put the total estimated market value of the cannabis, poison products
-and cigarettes at about $1.06 million. [@1]
+and cigarettes at about $1.06 million. [@1,3]
 
 Customs said it would continue to step up enforcement against drug trafficking
 through intelligence analysis and risk-based checks focused on passengers from
 high-risk regions. [@2] Under Hong Kong's Dangerous Drugs Ordinance, trafficking
 in a dangerous drug carries a maximum penalty of a $5 million fine and life
 imprisonment. [@2]
-
