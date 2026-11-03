@@ -77,6 +77,10 @@ sources:
     url: https://thefact.ng/ndlea-arrests-two-france-bound-cocaine-couriers-with-3-46kg/
     publisher: TheFact Daily
     date: 2026-11-01
+  - title: Two Nigerians Swallowed 200 Cocaine Wraps In Failed Smuggling Bid
+    url: https://thewhistler.ng/two-nigerians-swallowed-200-cocaine-wraps-in-failed-smuggling-bid/
+    publisher: The Whistler Newspaper
+    date: 2026-11-02
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -93,7 +97,7 @@ open_questions:
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5,6,7,8,9,10,12,14] The agency published its account of the raid on 1
+among those held. [@1,4,5,6,7,8,9,10,12,14,16] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
