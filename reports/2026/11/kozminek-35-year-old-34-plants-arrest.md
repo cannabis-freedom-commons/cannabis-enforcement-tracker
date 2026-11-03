@@ -23,6 +23,11 @@ media:
     media_url: https://d-pa.ppstatic.pl/frames/pa-def/97/3d/26110205c0_977991697,size,752x1200,crop,0.0000x736.0000x752.0000x394.0000,h,e3b8bb.jpg
     publisher: Kalisz Nasze Miasto
     caption: 'Officers from Koźminek with the dismantled cannabis grow. Photo: KMP in Kalisz'
+  - kind: photo
+    url: https://wkaliszu.pl/2026/11/03/policja-hodowal-konopie-zostal-zatrzymany/
+    media_url: https://wkaliszu.pl/wp-content/uploads/2026/11/narkotyki1.png
+    publisher: wKaliszu
+    caption: 'Indoor grow tent with potted cannabis seedlings found on the property. Photo: KMP in Kalisz'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa3e0f4db5b3a0ae88a41100149ad928
@@ -48,6 +53,11 @@ sources:
     publisher: Życie Kalisza
     date: 2026-11-03
     language: pl
+  - title: POLICJA. Hodował konopie. Został zatrzymany
+    url: https://wkaliszu.pl/2026/11/03/policja-hodowal-konopie-zostal-zatrzymany/
+    publisher: wKaliszu
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search and arrest, so the publication date is used as the incident date.
   - The exact village or address of the property was not named beyond the Koźminek police area, so Koźminek is used as the place.
@@ -59,19 +69,20 @@ open_questions:
   - The submitted page was published on 3 November 2026 while the existing report uses 2 November 2026 from earlier coverage; no separate date for the search and arrest is given.
   - The submitted page credits its lead photo to pixabay, indicating stock imagery, so no media entry is added.
   - The submitted page says the man was detained and faces 3 years, without explicitly stating a charge already filed as in the existing report.
+  - The submitted page gives no separate date for the search and arrest; 3 November 2026 is its publication date, while the existing report uses 2 November 2026 from earlier coverage.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the
 property where he lived in connection with growing cannabis and dealing drugs.
-[@1,2,3,4] He has already been charged and faces up to three years in prison. [@1,2]
+[@1,2,3,4,5] He has already been charged and faces up to three years in prison. [@1,2,5]
 
 During a search of the premises, they found a foil tunnel prepared for cannabis
 cultivation, holding seedlings at various growth stages as well as seed trays.
-[@1,4] They seized 34 cannabis bushes. [@1,2,3,4] They also seized more than 540 grams
+[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5] They also seized more than 540 grams
 of ready-made cannabis dried material, alongside more than 40 grams of a
-psychotropic substance described as an amphetamine derivative. [@1,2,3,4] Police put
+psychotropic substance described as an amphetamine derivative. [@1,2,3,4,5] Police put
 the estimated black-market value of the seized ready-made drugs at nearly 25,000
-zlotys. [@1,4]
+zlotys. [@1,4,5]
 
 Police said they continue work to identify the unlawful production and sale of
 intoxicants, and that successive batches of seized drugs will not reach the
