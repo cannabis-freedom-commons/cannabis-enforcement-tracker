@@ -635,9 +635,14 @@ input $0.150/output $0.090. These rates have no time-of-day adjustment. Reasonin
 pricing; cache reads/writes use standard input pricing because no separate cache rate was supplied.
 Reported API costs still take precedence. The operator's 15× Swancloud plan is estimated as API
 value divided by 15, separately for each run. This applies only to these Swancloud model IDs,
-including reasoning variants; historical OpenCode runs retain the configured price/allowance ratio.
+including reasoning variants; OpenCode DeepSeek runs retain the configured price/allowance ratio.
+
+`opencode-go/muse-spark-1.3-contributor` uses operator-supplied API prices per million tokens:
+input $0.10, output $0.20 and cache reads $0.002, with no time-of-day adjustment. Cache writes
+use the standard input rate because no separate rate was supplied; reasoning uses output pricing.
+Its 6× plan allocation is API value divided by 6, including reasoning variants and reported API costs.
 The register, request detail, report research summary and AI statistics use the same calculations.
-Cost sorting uses API value, including the new Swancloud estimates.
+Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estimates.
 
 ## Archived capture compression
 

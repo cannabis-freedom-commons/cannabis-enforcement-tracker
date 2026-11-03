@@ -80,3 +80,18 @@ test('Swancloud plan does not override historical OpenCode or unknown models',()
  assert.equal(planCost(18,{price_usd:10,allowance_usd:180},model),1);
  assert.equal(modelPlan('other/model',null),null);
 });
+
+
+test("OpenCode Go Muse uses supplied cache pricing and a 6× plan at every hour", () => {
+  for (const model of ["opencode-go/muse-spark-1.3-contributor", "opencode-go/muse-spark-1.3-contributor#xhigh"]) {
+    for (const started_at of [peak, offPeak]) {
+      const run = { model, started_at, input_tokens: 1e6, cache_read_tokens: 1e6, cache_write_tokens: 1e6, output_tokens: 1e6, reasoning_tokens: 1e6 };
+      assert.ok(Math.abs(runCost(run) - 0.602) < 1e-12);
+      assert.ok(Math.abs(displayedRunCost(run, { price_usd: 10, allowance_usd: 180 }) - 0.602 / 6) < 1e-12);
+      assert.equal(costEstimated(run), true);
+      assert.equal(modelPlan(model, null).multiplier, 6);
+      assert.equal(runCost({ ...run, cost_usd: 3 }), 3);
+      assert.equal(displayedRunCost({ ...run, cost_usd: 3 }, null), 0.5);
+    }
+  }
+});

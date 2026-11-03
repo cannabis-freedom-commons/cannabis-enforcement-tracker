@@ -1,6 +1,6 @@
 import { runCost, planCost, costEstimated, formatUSD, modelPlan, planDescription, displayedRunCost } from "./model-cost.js";
 
-export const MODEL_LABELS = { "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
+export const MODEL_LABELS = { "opencode-go/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · OpenCode Go", "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
 // "opencode-go/deepseek-v4.1-flash#max" is the model at a reasoning variant; show both, without the #
 export function modelLabel(model) {
   const [base, variant] = String(model || "").split("#");
