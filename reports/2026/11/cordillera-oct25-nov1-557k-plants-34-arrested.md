@@ -30,6 +30,10 @@ sources:
     url: https://northluzonmonitor.com/p110-m-illegal-drugs-seized-34-nabbed-in-police-weeklong-ops/
     publisher: North Luzon Monitor
     date: 2026-11-03
+  - title: Cordillera cops seize P110-M illegal drugs in week-long operations
+    url: https://newsinfo.inquirer.net/2335629/cordillera-cops-seize-p110-m-illegal-drugs-in-week-long-operations
+    publisher: INQUIRER.net
+    date: 2026-11-03
 open_questions:
   - Only one accessible source for this week-long operation was found and no second outlet or agency statement could be opened to corroborate it.
   - The P110 million total and the P108.8 million Kalinga share are police valuations for all illegal drugs including shabu, so no value is recorded as a cannabis figure.
@@ -39,6 +43,9 @@ open_questions:
   - No names, charges or court outcomes were reported for the six suspected drug personalities.
   - Twenty-eight of the 34 arrests were general manhunt arrests for offences including statutory rape and attempted murder, with only six clearly identified as drug arrests.
   - The article gives the operation as Oct. 25 through Nov. 1 without a year and 2026 is taken from its 3 November 2026 publication.
+  - The Inquirer dates the campaign Oct. 26 to Nov. 1, while the existing report dates it Oct. 25 to Nov. 1 from North Luzon Monitor.
+  - The Inquirer does not mention the 28 manhunt arrests; the total of 34 relies on North Luzon Monitor.
+  - The Inquirer page image is a file map of the Cordillera captioned INQUIRER FILES, not a photo of this operation, so no media entry is added.
 ---
 
 The Police Regional Office-Cordillera Administrative Region (PRO-CAR), the
@@ -56,9 +63,9 @@ followed closely by Baguio City police with 13. [@1]
 The bulk of the seizures came from 14 targeted operations which netted 548,130
 fully grown marijuana plants, 9,000 seedlings and 1,060 marijuana leaves and
 fruiting tops, plus 7.47 grams of suspected methamphetamine locally known as
-shabu. [@1] PRO-CAR put the week's total haul at more than P110 million worth of
-illegal drugs. [@1] The Kalinga Police Provincial Office accounted for the
-largest share at P108.8 million worth of illicit drugs. [@1] Benguet police
+shabu. [@1,2] PRO-CAR put the week's total haul at more than P110 million worth of
+illegal drugs. [@1,2] The Kalinga Police Provincial Office accounted for the
+largest share at P108.8 million worth of illicit drugs. [@1,2] Benguet police
 eradicated P1.18 million worth of marijuana plants, while units in Baguio City,
 Ifugao, and Apayao seized the remainder of the contraband. [@1]
 
@@ -72,3 +79,4 @@ clearance and solution rates of 85.14% and 74.32% for the period. [@1] Shabu is
 methamphetamine, not cannabis, and its 7.47 grams are excluded from the cannabis
 figures, which count only the marijuana plants and seedlings. [@1]
 
+The 14 operations comprised seven marijuana eradication operations, five buy-bust operations, one search warrant operation and one police response. [@2] Police gave the combined standard drug price as P110,164,002.80. [@2] Police said the six arrested will face charges under Republic Act 9165, the Comprehensive Dangerous Drugs Act of 2002, with one classified as a high-value individual and five as street-level individuals. [@2] Police broke down the remainder as P172,896 seized in Baguio City with three street-level suspects arrested, P2,244 of suspected shabu in Ifugao, and P2,183 of suspected shabu in Apayao with one high-value individual and one street-level individual arrested. [@2]
