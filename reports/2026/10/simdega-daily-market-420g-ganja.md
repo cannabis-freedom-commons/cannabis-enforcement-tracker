@@ -33,6 +33,11 @@ sources:
     publisher: Hindustan
     date: 2026-10-31
     language: hi
+  - title: Raid on information of selling ganja, one arrested
+    url: https://www.bhaskar.com/local/jharkhand/simdega/news/raid-on-information-of-selling-ganja-one-arrested-dbp-139554564.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither report says where the ganja came from or what it was worth.
   - Both describe the seized substance as ganja-like, and neither says whether a test confirmed it was cannabis.
@@ -40,10 +45,12 @@ open_questions:
   - No charge sheet, plea or further court date has been reported.
   - Hindustan gives no date for the raid; 30 October 2026 comes from Prabhat Khabar alone.
   - The submitted page's only listed image is a default placeholder, not a photo of this raid or seizure, so no media from it is listed.
+  - The opened Bhaskar capture is cut by a paywall and does not state the 4.20 g weight, Daily Market vegetable-market location, case number, NDPS sections or judicial-custody date; those continue to rely on the existing report's sources.
+  - The Bhaskar page gives only its publication date of 1 November 2026; the incident date of 30 October 2026 comes from the existing report.
 ---
 
 Simdega police arrested Rahul Sahni, 36, son of Ramdhan Kewat and a resident of
-Niche Bazar. [@1] Officers raided the vegetable market in the town's Daily
+Niche Bazar. [@1,3] Officers raided the vegetable market in the town's Daily
 Market after a tip at about 2.30 pm on 30 October 2026 that ganja, the local
 name for cannabis, was being sold and consumed there. [@1,2] Sahni ran when he saw
 the police vehicle and was chased down and caught. [@1]
