@@ -36,6 +36,11 @@ sources:
     publisher: السعودية الإخبارية
     date: 2026-10-30
     language: ar
+  - title: مكافحة المخدرات تضبط مواطنَين في حائل و6 أشخاص في القصيم ومقيماً في تبوك
+    url: https://sabq.org/article/h0fw79h
+    publisher: صحيفة سبق
+    date: 2026-10-30
+    language: ar
 open_questions:
   - The reports give no separate date for the arrests; 30 October 2026 is their publication date.
   - No town or city within Qassim or Hail was named; the coordinates are for Buraydah, the Qassim regional capital.
@@ -43,22 +48,24 @@ open_questions:
   - No weight was given for the hashish and amphetamine attributed to the six in Qassim, and no count was given for the Hail tablets.
   - Ajel described the Hail pair as promoting the drugs, while Al-Saudi News also said they possessed them.
   - Both outlets appear to reproduce the same directorate announcement; no agency page or independent reporting could be opened.
+  - The Sabq roundup bundles a separate Tabuk methamphetamine arrest with the Qassim-Hail operations, and that Tabuk case is left out here as non-cannabis.
+  - The page's only listed image is the Sabq logo rather than a photo of this event, so no media entry is included.
+  - Sabq describes the Hail pair as promoting the drugs, matching the promotion wording already used for that operation.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control said six citizens were
 arrested in the Qassim region on accusations of promoting hashish and
-amphetamine, two narcotic drugs. [@1] In a separate operation in the Hail
+amphetamine, two narcotic drugs. [@1,3] In a separate operation in the Hail
 region, the directorate arrested two citizens accused of possessing and
 promoting 2.5 kilograms of hashish and tablets subject to medical-sale controls.
-[@2] The two operations accounted for eight arrests in all. [@2]
+[@2,3] The two operations accounted for eight arrests in all. [@2,3]
 
 The six in Qassim were detained, legal procedures were taken against them and
 they were referred to the Public Prosecution. [@1] The two in Hail were also
-detained and referred to the Public Prosecution. [@1]
+detained and referred to the Public Prosecution. [@1,3]
 
 The directorate asked citizens and residents to report any information about
 drug smuggling or promotion. [@1] It said all reports would be treated in strict
 confidence. [@1] It gave 911 for Mecca, Medina, Riyadh and the Eastern Province,
 999 and 994 for the rest of the kingdom, and 995 for its own reports line, along
 with the email address 995@gdnc.gov.sa. [@1]
-
