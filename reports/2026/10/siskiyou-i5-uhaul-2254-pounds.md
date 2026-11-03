@@ -35,14 +35,18 @@ sources:
     publisher: Jefferson Daily News
     date: 2026-10-28
     language: en
+  - title: Over 2,200 pounds of black market marijuana found in U-Haul trailer
+    url: https://krcrtv.com/news/local/over-2200-pounds-of-black-market-marijuana-found-in-u-haul-trailer
+    publisher: KRCR
+    date: 2026-10-29
 ---
 
 A northbound pickup pulling a U-Haul trailer, spotted driving erratically
 on Interstate 5, was stopped by a sheriff's sergeant; a probable-cause
-search found dozens of large black bags filled with marijuana. [@1]
+search found dozens of large black bags filled with marijuana. [@1,2]
 
 Driver Omar Jacob Gonzalez, 36, was arrested for transportation and
 possession for sale under Health and Safety Code sections 11360(a) and
-11359(b) and booked into Siskiyou County Jail. [@1] A follow-up inventory
+11359(b) and booked into Siskiyou County Jail. [@1,2] A follow-up inventory
 put the load at about 2,254 pounds of black-market cannabis lacking the
-certifications of legally produced product. [@1]
+certifications of legally produced product. [@1,2]
