@@ -33,10 +33,18 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-02
     language: bn
+  - title: মুন্সিগঞ্জে ১৪ কেজি গাঁজাসহ দুই কারবারি গ্রেফতার, পিকআপ জব্দ
+    url: https://shironam.com/news/two-traffickers-arrested-with-14-kg-cannabis-in-munshiganj-pickup-seized
+    publisher: Shironam
+    language: bn
 open_questions:
   - Only one accessible source for this event was found, so no second account confirms the figures.
   - No court outcome was reported; police said legal proceedings were under way at the time of publication.
   - No street value, plant count or field area was published for this event.
+  - The Shironam page gives only a relative time of 16 hours ago and Monday late night, so the 2 November 2026 date continues to rely on the existing Dhaka Mail account.
+  - The Shironam summary does not repeat the ages, addresses, Asia Mill location detail, three-packet packing, pickup colour and registration, or officer names, which continue to rely on the existing source.
+  - The Shironam lead photo caption repeats the headline and does not establish that it shows this seizure, and it may duplicate the Dhaka Mail handout already cited, so no media entry is added.
+  - 'Left out, as its quotation was not found in Shironam: Detective Branch police in Munshiganj arrested two alleged drug traders in a late-night operation at Muktarpur and seized the pickup van used to carry drugs.'
 ---
 
 Detective Branch police in Munshiganj arrested two alleged drug traders in a
@@ -54,5 +62,4 @@ transport the drugs. [@1]
 The raid was carried out by a Munshiganj district Detective Branch team led by
 OC Ishtiaq Ashfaq, with SI Kamrul Hasan and ASI Dipak Kumar, on secret
 information, according to district police superintendent Menhazul Alam. [@1]
-Police said legal proceedings against the two arrested men were under way. [@1]
-
+Police said legal proceedings against the two arrested men were under way. [@1,2]
