@@ -34,28 +34,34 @@ sources:
     publisher: pellanews.gr
     date: 2026-11-03
     language: el
+  - title: 'Πέλλα: Συλλήψεις για παραβάσεις της νομοθεσίας για ναρκωτικά'
+    url: https://logospellas.gr/%CE%91%CF%84%CE%B1%CE%BE%CE%B9%CE%BD%CF%8C%CE%BC%CE%B7%CF%84%CE%B1/%CF%80%CE%AD%CE%BB%CE%BB%CE%B1-%CF%83%CF%85%CE%BB%CE%BB%CE%AE%CF%88%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%80%CE%B1%CF%81%CE%B1%CE%B2%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CF%84%CE%B7%CF%82-%CE%BD%CE%BF/
+    publisher: Λόγος της Πέλλας
+    date: 2026-11-03
+    language: el
 open_questions:
   - The incident date of 1 November 2026 is inferred because one outlet says the arrests happened the day before yesterday and the other says last Sunday, both published on 3 November 2026.
   - The recorded cannabis total of 0.1975 kg is the sum of the separately stated 158.3 g, 27 g and 12.2 g amounts.
   - The exact locality within the Pella area and the suspects' names were not published.
   - No charges, detention outcome or court referral were reported.
   - The page photo shows a generic police patrol car credited to Intime and is not established to show this seizure, so no media entry is included.
+  - The page image is a generic night-time police patrol car filed in October 2024 and is not shown to depict this seizure, so no media entry is added.
 ---
 
 Officers of the Pella Department for the Prosecution and Detection of Crimes
 arrested three people in an area of Pella. [@1] The main suspect is a
 33-year-old Greek man whose home was searched in that operation. [@2] A
 17-year-old Greek youth was also arrested after being found with cannabis he had
-obtained earlier from the 33-year-old. [@2,3] The youth's mother was arrested for
+obtained earlier from the 33-year-old. [@2,3,4] The youth's mother was arrested for
 neglect of supervision of a minor. [@2,3]
 
 From the 33-year-old's house officers seized two packets of raw cannabis with a
-combined weight of 158.3 grams. [@1,3] Officers seized another 27 grams of raw
+combined weight of 158.3 grams. [@1,3,4] Officers seized another 27 grams of raw
 cannabis from the same house, along with a precision electronic scale and a
-metal cannabis grinder. [@1,3] From the man's possession officers seized 70 euros
-and two mobile phones. [@1] From the 17-year-old officers seized one packet of
+metal cannabis grinder. [@1,3,4] From the man's possession officers seized 70 euros
+and two mobile phones. [@1,4] From the 17-year-old officers seized one packet of
 raw cannabis weighing 12.2 grams. [@1,3]
 
 Police treated the 33-year-old's case as alleged drug trafficking. [@2] The
 arrests took place on the Sunday before the 3 November reports, which
-corresponds to 1 November 2026. [@2]
+corresponds to 1 November 2026. [@2,4]
