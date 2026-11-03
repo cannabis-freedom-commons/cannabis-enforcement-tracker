@@ -534,11 +534,14 @@ HARVEST_BING_NEWS_INTERVAL=5m
 HARVEST_BING_NEWS_MAX_ARTICLES=10
 HARVEST_BING_NEWS_QUERIES_PER_SCAN=4
 # Optional pipe-separated queries; blank uses the built-in set. Default market: en-US.
-HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-CN] 大麻 查获
+HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-HK] 大麻 查获
 ```
 
 The twelve built-in queries cover US, UK and Indian English, Simplified and Traditional Chinese,
 Russian and Arabic, plus English searches naming China, Iran and North Korea.
+Both Chinese searches use the `zh-HK` RSS market while retaining their Simplified or Traditional
+Chinese keywords. Bing redirects `zh-CN` news requests to its HTML homepage; existing custom
+`[zh-CN]` queries are normalized to `zh-HK`, also recorded as their market in logs and provenance.
 Markets guide search results, not the event's location; coverage is best effort. Four queries
 rotate per scan, so every default query runs roughly every 15 minutes plus scan time. Custom queries replace
 the defaults. Short keyword queries work better than compound Boolean expressions in live testing.
@@ -559,8 +562,9 @@ excluding synthetic-only stories. Bing's public RSS interface is undocumented: c
 feeds and individual market failures are logged and retried next scan without stopping other
 queries. Fetches use the pinned public-destination transport, a 2 MiB response limit, one-second
 pacing and a five-minute scan deadline. Info logs show search/queue activity and scan totals
-(`found`, `queued`, `known`, `unresolved`, `skipped`). Restart the backend to apply changes.
-For an opt-in live smoke test against a temporary database, with no AI or publication, run
+(`found`, `queued`, `known`, `unresolved`, `skipped`). Non-RSS errors include the final response URL
+to expose redirects away from the feed. Restart the backend to apply changes.
+For an opt-in live check of every built-in feed, without queuing URLs, AI or publication, run
 `cd backend && BING_NEWS_LIVE=1 go test ./internal/harvest -run TestBingNewsLive -v`.
 
 Optional RSS/Atom feeds and GDELT queries feed the same durable queue without posting every

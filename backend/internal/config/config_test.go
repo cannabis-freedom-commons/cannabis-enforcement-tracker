@@ -123,7 +123,7 @@ func TestBingNewsConfiguration(t *testing.T) {
 	t.Setenv("HARVEST_BING_NEWS_ENABLED", "false")
 	t.Setenv("HARVEST_BING_NEWS_QUERIES", " cannabis raid | [zh-CN] 大麻 查获 ")
 	c, err = Load()
-	if err != nil || c.BingNewsEnabled || len(c.BingNewsQueries) != 2 || c.BingNewsQueries[0] != (harvest.BingNewsQuery{Market: "en-US", Query: "cannabis raid"}) || c.BingNewsQueries[1] != (harvest.BingNewsQuery{Market: "zh-CN", Query: "大麻 查获"}) {
+	if err != nil || c.BingNewsEnabled || len(c.BingNewsQueries) != 2 || c.BingNewsQueries[0] != (harvest.BingNewsQuery{Market: "en-US", Query: "cannabis raid"}) || c.BingNewsQueries[1] != (harvest.BingNewsQuery{Market: "zh-HK", Query: "大麻 查获"}) {
 		t.Fatal(c, err)
 	}
 	for key, values := range map[string][]string{

@@ -38,6 +38,11 @@ func ParseBingNewsQuery(raw string) (BingNewsQuery, error) {
 	if q.Query == "" {
 		return q, errors.New("empty Bing News query")
 	}
+	// zh-CN redirects news searches to Bing's HTML homepage. The Hong Kong RSS
+	// market accepts the same Simplified Chinese keywords without translating them.
+	if q.Market == "zh-CN" {
+		q.Market = "zh-HK"
+	}
 	return q, nil
 }
 
@@ -52,7 +57,7 @@ var DefaultBingNewsQueries = []BingNewsQuery{
 	{"en-US", "China cannabis seized"},
 	{"en-US", "Iran hashish"},
 	{"en-US", `"North Korea" marijuana`},
-	{"zh-CN", "大麻 查获"},
+	{"zh-HK", "大麻 查获"},
 	{"zh-HK", "大麻 檢獲"},
 	{"ru-RU", "гашиш изъяли"},
 	{"ar-SA", "حشيش ضبط"},
@@ -137,7 +142,15 @@ func (g BingNews) feed(ctx context.Context, q BingNewsQuery) ([]bingItem, error)
 	if len(b) > 2*1024*1024 {
 		return nil, errors.New("Bing News response exceeds limit")
 	}
-	return parseBingFeed(b)
+	items, err := parseBingFeed(b)
+	if err != nil {
+		responseURL := req.URL.String()
+		if res.Request != nil && res.Request.URL != nil {
+			responseURL = res.Request.URL.Redacted()
+		}
+		return nil, fmt.Errorf("Bing News RSS unavailable for %s (response URL %s): %w", q.Market, responseURL, err)
+	}
+	return items, nil
 }
 
 func (g BingNews) Scan(ctx context.Context) (BingNewsStats, error) { return g.scan(ctx, g.Queries) }

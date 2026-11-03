@@ -3,7 +3,6 @@ package harvest
 import (
 	"context"
 	"encoding/json"
-	"fmt"
 	"html"
 	"net/http"
 	"net/url"
@@ -118,7 +117,7 @@ func TestBingQueriesAndFeeds(t *testing.T) {
 		}
 	}
 	q, err := ParseBingNewsQuery(" [zh-CN] 大麻 查获 ")
-	if err != nil || q != (BingNewsQuery{"zh-CN", "大麻 查获"}) {
+	if err != nil || q != (BingNewsQuery{"zh-HK", "大麻 查获"}) {
 		t.Fatal(q, err)
 	}
 	q, err = ParseBingNewsQuery("cannabis raid")
@@ -135,6 +134,49 @@ func TestBingQueriesAndFeeds(t *testing.T) {
 		}
 	}
 }
+
+func TestBingChineseSearchUsesRSSMarket(t *testing.T) {
+	legacy, err := ParseBingNewsQuery("[zh-CN] 大麻 查获")
+	if err != nil {
+		t.Fatal(err)
+	}
+	queries := []BingNewsQuery{legacy}
+	for _, q := range DefaultBingNewsQueries {
+		if q.Query == "大麻 查获" {
+			queries = append(queries, q)
+		}
+	}
+	if len(queries) != 2 {
+		t.Fatal("Simplified Chinese default query missing")
+	}
+	g := BingNews{client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
+		if r.URL.Query().Get("mkt") != "zh-HK" || r.URL.Query().Get("q") != "大麻 查获" {
+			t.Error("Chinese query must use the RSS-capable market without changing keywords", r.URL)
+			return newsResponse(r, "<html>Bing homepage</html>"), nil
+		}
+		return newsResponse(r, "<rss><channel>"+bingTestItem("https://publisher.example/chinese", time.Now())+"</channel></rss>"), nil
+	})}}
+	for _, q := range queries {
+		items, err := g.feed(context.Background(), q)
+		if err != nil || len(items) != 1 || items[0].Link != "https://publisher.example/chinese" {
+			t.Fatal(items, err)
+		}
+	}
+}
+
+func TestBingNonRSSResponseReportsFinalURL(t *testing.T) {
+	g := BingNews{client: &http.Client{Transport: newsTransport(func(r *http.Request) (*http.Response, error) {
+		res := newsResponse(r, "<html>Bing homepage</html>")
+		res.Request = r.Clone(r.Context())
+		res.Request.URL, _ = url.Parse("https://www.bing.com/")
+		return res, nil
+	})}}
+	items, err := g.feed(context.Background(), BingNewsQuery{"en-US", "cannabis"})
+	if len(items) != 0 || err == nil || !strings.Contains(err.Error(), "RSS unavailable for en-US (response URL https://www.bing.com/)") {
+		t.Fatal(items, err)
+	}
+}
+
 func TestBingSchedulerRepeatsAndStops(t *testing.T) {
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
@@ -158,36 +200,33 @@ func TestBingSchedulerRepeatsAndStops(t *testing.T) {
 	}
 }
 
-// Explicit opt-in: no production queue, AI calls or report writes.
+// Explicit opt-in: checks every default feed without queuing URLs or starting AI.
 func TestBingNewsLive(t *testing.T) {
 	if os.Getenv("BING_NEWS_LIVE") != "1" {
 		t.Skip("set BING_NEWS_LIVE=1 to test public RSS")
 	}
-	s, err := store.Open(filepath.Join(t.TempDir(), "live.sqlite"))
-	if err != nil {
-		t.Fatal(err)
-	}
-	defer s.DB.Close()
-	g := BingNews{Store: s, Queries: []BingNewsQuery{{"en-US", "cannabis seized"}}}
-	items, err := g.feed(context.Background(), g.Queries[0])
-	if err != nil {
-		t.Fatal(err)
-	}
-	if len(items) == 0 {
-		t.Fatal("live feed returned no articles")
-	}
-	for _, item := range items {
-		if _, err := bingPublisher(item.Link); err != nil {
+	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Minute)
+	defer cancel()
+	g := BingNews{}
+	paced := false
+	for _, q := range DefaultBingNewsQueries {
+		if err := pause(ctx, &paced); err != nil {
 			t.Fatal(err)
 		}
+		t.Run(q.Market+"/"+q.Query, func(t *testing.T) {
+			items, err := g.feed(ctx, q)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if q.Query == "cannabis seized" && len(items) == 0 {
+				t.Fatal("control feed returned no articles")
+			}
+			for _, item := range items {
+				if _, err := bingPublisher(item.Link); err != nil {
+					t.Fatal(err)
+				}
+			}
+			t.Logf("market %s: %d articles", q.Market, len(items))
+		})
 	}
-	g.Queries = DefaultBingNewsQueries
-	stats, err := g.Scan(context.Background())
-	if err != nil {
-		t.Fatal(err)
-	}
-	if stats.Found == 0 {
-		t.Fatal("built-in searches returned no articles")
-	}
-	t.Log(fmt.Sprintf("live Bing RSS defaults: %+v", stats))
 }
