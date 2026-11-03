@@ -48,6 +48,11 @@ sources:
     publisher: Караван Ярмарка
     date: 2026-11-02
     language: ru
+  - title: В Тверской области пресекли попытку сбыта крупной партии марихуаны
+    url: https://tvtver.ru/news/v-tverskoj-oblasti-presekli-popytku-sbyta-krupnoj-partii-marihuany/
+    publisher: TVTver.ru
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate day for the search and detention.
   - No figure for the number of cannabis plants or growing containers was published.
@@ -56,18 +61,18 @@ open_questions:
 ---
 
 Drug-control police officers visited the flat of a 36-year-old local resident on
-Baskakova Street in Konakovo in Tver Oblast. [@2,4] The officers belonged to the
+Baskakova Street in Konakovo in Tver Oblast. [@2,4,5] The officers belonged to the
 regional drug-control department of the regional Interior Ministry, acting on
 operational information about home cultivation. [@3] According to police, the
 man was growing a drug-containing plant in his own home and preparing it for
 further sale. [@3] Officers detained the man, and he was remanded in custody
-pending the investigation. [@3,4]
+pending the investigation. [@3,4,5]
 
 Inside the dwelling, officers found fertilisers and equipment intended for
 growing cannabis. [@1] They seized containers holding about 600 grams of
 ready-to-use dried and ground cannabis, together with jars and bags containing
-dried parts of the plant. [@3,4] Police described the seized material as marijuana
+dried parts of the plant. [@3,4,5] Police described the seized material as marijuana
 that the man was making for sale. [@1] The investigative unit of the Konakovsky
 police department opened a criminal case for preparation for illegal sale of
 narcotics under Part 3 of Article 30 and Part 4 of Article 228.1 of the Russian
-Criminal Code. [@1]
+Criminal Code. [@1,5]
