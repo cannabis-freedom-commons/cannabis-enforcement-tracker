@@ -54,6 +54,16 @@ sources:
     publisher: Миколаївська Правда
     date: 2026-11-03
     language: uk
+  - title: 'Понад 10 кг наркосировини на збут: жителю Миколаєва призначили 9 років ув’язнення'
+    url: https://korabelov.info/2026/11/632790/ponad-10-kh-narkosyrovyny-na-zbut-zhyteliu-mykolaieva-pryznachyly-9-rokiv-uv-iaznennia/
+    publisher: Корабелов.ИНФО
+    date: 2026-11-03
+    language: uk
+  - title: Дев’ять років ув’язнення за незаконне зберігання наркосировини задля збуту – у Миколаєві за доказами слідчих поліції суд виніс вирок місцевому мешканцю
+    url: https://mk.npu.gov.ua/news/deviat-rokiv-uviaznennia-za-nezakonne-zberihannia-narkosyrovyny-zadlia-zbutu-u-mykolaievi-za-dokazamy-slidchykh-politsii-sud-vynis-vyrok-mistsevomu-meshkantsiu
+    publisher: Головне управління Національної поліції в Миколаївській області
+    date: 2026-11-03
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so the report uses the publication date.
   - The search is dated only as 25 July with no year stated in the article text.
@@ -63,6 +73,9 @@ open_questions:
   - The new account reports more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
   - The new account dates the exposure only to July 2026 and does not name the Ingulsky District Court, the 25 July search date, the April start of cultivation or the prior conviction recorded in the existing report.
   - The page carries four images with empty captions and alt text, so no media entry can be confirmed to show this seizure.
+  - The new accounts report more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
+  - The new pages were published on 3 November 2026, one day after the existing report's 2 November 2026 date, and give no separate sentencing date.
+  - The new account does not name the Ingulsky District Court, the 25 July search date, the April start of cultivation or the prior conviction recorded in the existing report.
 ---
 
 Ingulsky District Court in Mykolaiv sentenced a local resident to nine years in
@@ -70,8 +83,8 @@ prison for growing cannabis on his household plot and storing dried, ground
 cannabis in the attic of his house. [@1,3,4,5] He was charged under part 3 of Article
 307 of Ukraine's Criminal Code for illegally making and storing drugs for sale
 on an especially large scale and part 1 of Article 310 for illegally sowing or
-growing cannabis. [@1,5] The court remanded him in custody with the option of
-posting bail. [@1] At trial he partly admitted guilt, conceding that he grew
+growing cannabis. [@1,5,6] The court remanded him in custody with the option of
+posting bail. [@1,6] At trial he partly admitted guilt, conceding that he grew
 cannabis and made the drug but insisting it was only for personal use and not
 for sale. [@1] Mykolaivska Pravda gives the same account, reporting that the
 Ingulsky court found him guilty of illegal cultivation and of making and storing
@@ -92,3 +105,5 @@ cannabis destroyed and 28,400 hryvnias in expert-examination costs recovered
 from the convict. [@1] The 133,120-hryvnia bail posted for him is to be returned
 to his brother after the verdict enters into force, and the verdict can be
 appealed to the Mykolaiv Appeal Court within 30 days. [@1]
+
+The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7] The verdict has not entered into force. [@7]
