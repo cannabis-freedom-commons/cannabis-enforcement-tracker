@@ -31,6 +31,10 @@ sources:
     url: https://www.gistmania.com/talk/topic,655011.0.html
     publisher: Gistmania
     date: 2026-11-02
+  - title: Kano Prison Foils Attempt To Supply Indian Hemp To Inmates
+    url: https://thewhistler.ng/kano-prison-foils-attempt-to-supply-indian-hemp-to-inmates/
+    publisher: The Whistler Newspaper
+    date: 2026-11-02
 open_questions:
   - The sources date the interception to Sunday around noon and the command's statement and publication to Monday, 2 November 2026, so the incident date is recorded as 1 November 2026.
   - No weight, packaging detail or value for the suspected cannabis was published.
@@ -40,27 +44,29 @@ open_questions:
   - The submitted page gives only its publication date of 2 November 2026 and no separate day or time for the interception.
   - The only image address supplied with the page has no caption or credit establishing that it shows this interception, so no media entry is listed.
   - 'Left out, as its quotation was not found in Gistmania: Officers of the Nigerian Correctional Service Kano State Command arrested a 40-year-old man for allegedly attempting to smuggle suspected cannabis into a custodial facility in Kano State.'
+  - The page's lead prison image carries an August 2025 file address and a general prison caption, so it does not show this interception and no media entry is listed.
+  - The article's mention of an August 2026 drug-smuggling arrest at Ibara, Abeokuta is a separate event left out here.
 ---
 
 Officers of the Nigerian Correctional Service Kano State Command arrested a
 40-year-old man for allegedly attempting to smuggle suspected cannabis into a
-custodial facility in Kano State. [@1] He was intercepted while attempting to
+custodial facility in Kano State. [@1,5] He was intercepted while attempting to
 throw the prohibited substance into the Medium Security Custodial Centre at
 Kurmawa, Kano, around noon on Sunday. [@1] The suspect was described as a
-resident of Janguza Quarters in Kano. [@1,4] Officers of the Armed Squad Unit made
-the arrest under the supervision of the unit commander, CSC Usman M. Sale. [@1]
+resident of Janguza Quarters in Kano. [@1,4,5] Officers of the Armed Squad Unit made
+the arrest under the supervision of the unit commander, CSC Usman M. Sale. [@1,5]
 The command's public relations officer, CSC Musbahu Kofarnassarawa, announced
 the arrest in a statement issued on Monday, saying the officers foiled the
-attempt through vigilance and swift response. [@1]
+attempt through vigilance and swift response. [@1,5]
 
 The man was caught while trying to throw the substance over the perimeter wall
 of the Kurmawa centre. [@3] The command handed the suspect over to the National
-Drug Law Enforcement Agency for further investigation and necessary action. [@2,4]
+Drug Law Enforcement Agency for further investigation and necessary action. [@2,4,5]
 
 The state Controller of Corrections, Ahmed Yusuf-Lakpene, commended the officers
 for vigilance and professionalism, saying their intervention prevented
 prohibited substances from entering the facility. [@1] He restated the command's
 zero-tolerance stance on introducing illicit drugs and other prohibited
-materials into correctional centres. [@2] He also reaffirmed the service's
+materials into correctional centres. [@2,5] He also reaffirmed the service's
 commitment to strengthening security across custodial facilities to ensure a
 safe environment for the reformation and rehabilitation of inmates. [@1]
