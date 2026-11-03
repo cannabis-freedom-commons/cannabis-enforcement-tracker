@@ -67,6 +67,11 @@ sources:
     publisher: detikBali
     date: 2026-11-03
     language: id
+  - title: Simpan Ganja dan Kokain di Bali, WN Belarus Dituntut 9 Tahun Penjara
+    url: https://www.detik.com/bali/hukum-dan-kriminal/d-8736914/simpan-ganja-dan-kokain-di-bali-wn-belarus-dituntut-9-tahun-penjara/amp
+    publisher: detikBali
+    date: 2026-11-03
+    language: id
 open_questions:
   - The nine-year prison term and Rp100 million fine are the prosecutor's demand; no verdict or sentence has been reported, with a defence plea expected at the next hearing.
   - Radar Badung reports the fine's subsidiary as one year's imprisonment, while NusaBali reports 60 days if the fine is unpaid, with payment within one month; the report follows the subsidiary account but omits it from figures because no sentence has been imposed.
@@ -79,8 +84,8 @@ open_questions:
   - Detik reports the Rp100 million fine's subsidiary as 60 days' imprisonment if unpaid within one month, matching NusaBali and BALIPOST.com and differing from Radar Badung's reported one year already noted in the existing report.
 ---
 
-Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1,3,4,5] The
-prosecution also sought a Rp100 million fine. [@2,4,5] His lawyer Lukman Hakim said
+Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1,3,4,5,6] The
+prosecution also sought a Rp100 million fine. [@2,4,5,6] His lawyer Lukman Hakim said
 he will prepare a defence plea responding to the demand. [@2,4,5]
 
 Officers searching the package found seven packs of dried leaves suspected to be
@@ -97,4 +102,4 @@ officers acting on a public tip about a suspicious package secured Saroka when
 he came to take it. [@2] His urine tested positive for Ecgonine Methyl Ester, a
 metabolite of cocaine. [@2]
 
-The demand hearing was presided over by judge I Wayan Suarta. [@5]
+The demand hearing was presided over by judge I Wayan Suarta. [@5,6]
