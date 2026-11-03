@@ -27,30 +27,38 @@ sources:
     publisher: МВД МЕДИА
     date: 2026-11-02
     language: ru
+  - title: В Приморье у 41-летнего мужчины изъяли более 136 кг марихуаны
+    url: https://life.ru/p/saraynyy-narkobaron-iz-primorya-popalsya-so-136-kilogrammami-marihuany
+    publisher: Life.ru
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the tip, search or seizure.
   - The report names no detention or arrest and does not say whether the 41-year-old property owner was detained or charged.
   - The weight is reported only as more than 136 kg, with no exact figure.
   - Only one source for this event was opened; no second report confirming or adding details was found.
+  - The Life.ru page gives only its publication date of 3 November 2026 and no separate date for the tip, search or seizure, while the existing report is dated 2 November 2026.
+  - The new account does not mention the fifth stage of Operation Mak or the Novonikolsk residence detail recorded in the existing report.
+  - The weight is given only as more than 136 kg, with no exact figure.
+  - No verifiable event photo from this page is listed; the page capture lists only a banner image and a cover image whose content showing this seizure cannot be established from text alone.
 ---
 
 In Primorsky Krai in Russia's Far East, officers of the Interior Ministry's
 Pogranichny district department received information during the fifth stage of
 the preventive operation Mak that a local resident was storing prohibited
-substances. [@1] After verifying the tip, officers found and seized a batch of
+substances. [@1,2] After verifying the tip, officers found and seized a batch of
 plant-origin narcotic in a shed in the yard of a household property in the
 settlement of Talovy belonging to a 41-year-old resident of the village of
-Novonikolsk. [@1]
+Novonikolsk. [@1,2]
 
-An expert examination concluded that the seized substance was marijuana. [@1]
+An expert examination concluded that the seized substance was marijuana. [@1,2]
 Police said its weight was more than 136 kg, an amount that qualifies as an
-especially large size under Russian law. [@1] An investigator of the
+especially large size under Russian law. [@1,2] An investigator of the
 investigative unit of the Pogranichny district police then opened a criminal
-case under part 3 of Article 228 of the Russian Criminal Code. [@1] The report
+case under part 3 of Article 228 of the Russian Criminal Code. [@1,2] The report
 notes that the sanction under that part provides for imprisonment for up to 15
-years. [@1]
+years. [@1,2]
 
 Police said they continue systematic work to identify and suppress crimes and
 administrative offences involving illegal trafficking in narcotics and
 psychoactive substances. [@1]
-
