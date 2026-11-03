@@ -51,6 +51,11 @@ sources:
     publisher: Moncloa
     date: 2026-11-02
     language: es
+  - title: مقتل مغربي يشعل الغضب في إسبانيا
+    url: https://www.hespress.com/%D9%85%D9%82%D8%AA%D9%84-%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%BA%D8%B6%D8%A8-%D9%81%D9%8A-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-1833363.html
+    publisher: Hespress
+    date: 2026-11-03
+    language: ar
 open_questions:
   - The 5 grams of cocaine and the vehicle reported alongside the drugs are not cannabis and are excluded from the cannabis figure.
   - No street value for the seized cannabis was published.
@@ -58,6 +63,9 @@ open_questions:
   - The report is dated 1 November 2026, the day of the court decision; the stabbing occurred on 30 October 2026 and the arrests followed shortly after.
   - One outlet page briefly worded the second man's release inconsistently before its editing note confirmed release with charges, which this report uses.
   - Whether the page's lead image captioned only 'homicidio Plasencia' shows this seizure, raid or court step could not be established, so no media entry is added.
+  - Hespress identifies the victim as 22-year-old Moroccan Imad, a name and nationality not recorded in the existing report.
+  - Hespress does not mention that the hashish was in tablets, a detail in the existing report from Spanish outlets.
+  - The Hespress lead photo is credited only to the Spanish police page with a 2025 upload path, so it is not established to show this seizure and no media entry is added.
 ---
 
 The Civil and Instruction Section of the Plasencia court ordered prison on
@@ -69,18 +77,18 @@ was released provisionally with charges after both appeared before the court.
 release with charges for the second man. [@3]
 
 During the operation officers seized two suitcases containing 16 kilograms of
-hashish in tablets and 2 kilograms of marijuana. [@1,4] Police say the 26-year-old
+hashish in tablets and 2 kilograms of marijuana. [@1,4,5] Police say the 26-year-old
 had allegedly tried to help the suspect evade justice and to hide an important
 quantity of drugs from the flat where the suspect lived in order to leave the
 city. [@2] Officers also seized two simulated firearms and 17 bladed weapons of
-different types during the home intervention. [@1] Officers also reported 5
+different types during the home intervention. [@1,5] Officers also reported 5
 grams of cocaine and a vehicle, which are excluded from the cannabis total
 above. [@3] Police later recovered a machete that the examined evidence suggests
 could have been the weapon used in the killing. [@3]
 
 The stabbing happened at about 02:00 on Friday at the junction of Talavera and
-Encarnación streets in Plasencia. [@1,4] Police and then medical services assisted
+Encarnación streets in Plasencia. [@1,4,5] Police and then medical services assisted
 the victim and took him to Virgen del Puerto hospital, where his death was
 confirmed at about 06:00. [@1] After witness statements, police went to a
 dwelling near the scene and intercepted the two men, aged 19 and 26, as they
-tried to flee. [@3]
+tried to flee. [@3,5]
