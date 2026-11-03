@@ -31,6 +31,11 @@ sources:
     publisher: АТВ
     date: 2026-11-03
     language: ru
+  - title: Более 2 кг марихуаны нашли у жителя Бурятии
+    url: https://www.baikal-daily.ru/news/20/533288/
+    publisher: Байкал-Дейли
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The article gives no separate date for the search and seizure, so 3 November 2026, its publication date, is used as the incident date.
   - No exact weight beyond 'more than 2 kilograms' was published.
@@ -41,17 +46,18 @@ open_questions:
 
 Police in Zakamensky district acted after the district duty unit received
 information that a local resident might be storing a plant-based narcotic
-substance, travelling to the stated address to verify the report. [@1] During an
+substance, travelling to the stated address to verify the report. [@1,2] During an
 inspection of the outbuildings there, officers discovered and seized a polymer
 bag of plant material with the characteristic smell of wild-growing cannabis
-from a 28-year-old man. [@1] The detained man fully admitted his guilt and
+from a 28-year-old man. [@1,2] The detained man fully admitted his guilt and
 explained that he had independently gathered wild cannabis himself in a field
-nearby for his own personal use. [@1]
+nearby for his own personal use. [@1,2]
 
 A forensic examination confirmed that the seized plant material was cannabis.
 [@1] Police reported that the total weight of the drug in dried form was more
-than 2 kilograms, an amount they classified as large. [@1] The Buryatia Interior
+than 2 kilograms, an amount they classified as large. [@1,2] The Buryatia Interior
 Ministry was cited as the source of the account, which described the operation
 as the suppression of large-scale trafficking of narcotic drugs in Zakamensky
-district. [@1] A criminal case was opened over the seizure. [@1]
+district. [@1] A criminal case was opened over the seizure. [@1,2]
 
+The man said he had not planned to sell the cannabis. [@2]
