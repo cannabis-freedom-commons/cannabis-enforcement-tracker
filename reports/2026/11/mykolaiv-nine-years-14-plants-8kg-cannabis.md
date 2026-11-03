@@ -74,6 +74,11 @@ sources:
     publisher: Novosti-N
     date: 2026-11-03
     language: ru
+  - title: Миколаївець отримав 9 років за вирощування коноплі
+    url: https://nikvesti.com/news/justice/325852-mykolaivets-otrymav-9-rokiv-vyroshchuvannia-konopli
+    publisher: МикВісті
+    date: 2026-11-03
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so the report uses the publication date.
   - The search is dated only as 25 July with no year stated in the article text.
@@ -87,23 +92,24 @@ open_questions:
   - The new pages were published on 3 November 2026, one day after the existing report's 2 November 2026 date, and give no separate sentencing date.
   - The new account does not name the Ingulsky District Court, the 25 July search date, the April start of cultivation or the prior conviction recorded in the existing report.
   - The page's lead photo is captioned only with the headline, so it cannot be established to show this seizure and no media entry is added.
+  - The page's only photo is labelled as an illustrative National Police photo rather than this seizure, so no media entry is added.
 ---
 
 Ingulsky District Court in Mykolaiv sentenced a local resident to nine years in
 prison for growing cannabis on his household plot and storing dried, ground
-cannabis in the attic of his house. [@1,3,4,5] He was charged under part 3 of Article
+cannabis in the attic of his house. [@1,3,4,5,10] He was charged under part 3 of Article
 307 of Ukraine's Criminal Code for illegally making and storing drugs for sale
 on an especially large scale and part 1 of Article 310 for illegally sowing or
 growing cannabis. [@1,5,6,8] The court remanded him in custody with the option of
 posting bail. [@1,6] At trial he partly admitted guilt, conceding that he grew
 cannabis and made the drug but insisting it was only for personal use and not
-for sale. [@1] Mykolaivska Pravda gives the same account, reporting that the
+for sale. [@1,10] Mykolaivska Pravda gives the same account, reporting that the
 Ingulsky court found him guilty of illegal cultivation and of making and storing
 cannabis for sale. [@2]
 
 The court established that he had grown cannabis at his home since April 2026
 and that a 25 July search recovered 14 cannabis plants and more than 8 kilograms
-of cannabis kept in the attic. [@1,3,4,5] The second account adds that he dried part
+of cannabis kept in the attic. [@1,3,4,5,10] The second account adds that he dried part
 of the drug in an outbuilding and kept part in glass jars in the attic and the
 summer kitchen. [@2,5] The court dismissed his personal-use claim as an attempt to
 avoid criminal responsibility given the especially large quantity seized. [@1]
@@ -117,6 +123,6 @@ from the convict. [@1] The 133,120-hryvnia bail posted for him is to be returned
 to his brother after the verdict enters into force, and the verdict can be
 appealed to the Mykolaiv Appeal Court within 30 days. [@1]
 
-The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6,8,9] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7] The verdict has not entered into force. [@7,8,9]
+The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6,8,9] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7] The verdict has not entered into force. [@7,8,9,10]
 
 Officers of police department No. 2 of the Mykolaiv district police uncovered the man's activity in July. [@8,9] He tended the plants, fertilised the soil, removed weeds and watered them regularly. [@8,9]
