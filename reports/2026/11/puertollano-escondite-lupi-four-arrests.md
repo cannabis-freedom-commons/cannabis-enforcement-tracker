@@ -45,6 +45,11 @@ sources:
     publisher: La Tribuna de Ciudad Real
     date: 2026-11-03
     language: es
+  - title: 'Cuatro detenidos en Puertollano por tráfico de drogas: intervienen marihuana, morfina y fentanilo'
+    url: https://www.lanocion.es/castillala-mancha/20261103/cuatro-detenidos-en-puertollano-por-trafico-de-dro-124z8.html
+    publisher: La Noción
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give no separate date for the raids; 3 November 2026 is the publication date and is used as the incident date.
   - The two itemised marijuana seizures total 5,667.87 grams while police report more than 6.5 kilograms overall; the report uses the official total.
@@ -53,6 +58,8 @@ open_questions:
   - The two prison entries are pretrial remand, not a court sentence, so no prison figure is recorded and no further court outcome was reported.
   - 'Left out, as its quotation was not found in La Voz de Tomelloso: The first two searches yielded 3,995 grams of buds and marijuana plants left to dry, plus a scoped long gun and a short gun ready to fire with ammunition.'
   - The page carries two photos sharing the same generic caption about the investigation, which does not describe what each photo shows, so no new media entry is added.
+  - The La Noción page image has only the generic alt text “Foto de la noticia” with no caption identifying what it depicts, so no media entry is added from this source.
+  - The La Noción account notes the police release does not clearly classify the short firearm described as ready to fire.
 ---
 
 National Police detained four people, two men and two women including a minor,
@@ -69,7 +76,7 @@ flow of buyers. [@1] Officers seized more than 6.5 kilograms of marijuana along
 with 895 euros in cash, precision scales, machetes, ammunition and firearms.
 [@1] A third search in the Las Mercedes neighbourhood found 1,672.87 grams of
 processed marijuana packaged for sale, with scales, machetes, 16 shotgun
-cartridges and prescription medicines. [@1] The medicines, mainly morphine and
+cartridges and prescription medicines. [@1,4] The medicines, mainly morphine and
 fentanyl, had been seized after officers found they were being sold from one of
 the homes. [@1]
 
@@ -78,9 +85,11 @@ led to a third property in Las Mercedes with another marijuana grow and medicine
 trafficking. [@1] Police said the main suspect grew marijuana at home and stored
 cocaine there, moving substances to a nearby street only after checking no
 officers were present. [@1] He fled over rooftops to a neighbouring house while
-police drones tracked his movements. [@1] Officers found him hidden inside a
-living-room cabinet. [@1] Police said all four detainees had prior records
+police drones tracked his movements. [@1,4] Officers found him hidden inside a
+living-room cabinet. [@1,4] Police said all four detainees had prior records
 including drug trafficking, criminal organisation, violent robbery, injury, home
-invasion and domestic abuse. [@1]
+invasion and domestic abuse. [@1,4]
 
-The search deployment included officers from Puertollano's judicial police brigade, the Prevention and Reaction Unit, the police air unit and the canine guides unit. [@3]
+The search deployment included officers from Puertollano's judicial police brigade, the Prevention and Reaction Unit, the police air unit and the canine guides unit. [@3,4]
+
+The first two searches yielded 3,995 grams of cannabis buds and drying plants, plus a scoped long gun and a short gun described as ready to fire with ammunition. [@4]
