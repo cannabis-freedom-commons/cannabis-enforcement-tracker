@@ -43,6 +43,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-03
     language: fr
+  - title: 贝沙尔省查获逾700公斤加工大麻
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mw0u7xi7-%E8%B4%9D%E6%B2%99%E5%B0%94%E7%9C%81%E6%9F%A5%E8%8E%B7%E9%80%BE700%E5%85%AC%E6%96%A4%E5%8A%A0%E5%B7%A5%E5%A4%A7%E9%BA%BB
+    publisher: Algérie Presse Service
+    date: 2026-11-03
+    language: zh
 open_questions:
   - No arrests, suspects, or court outcome were reported in either account.
   - The reports do not specify the exact location within the Béchar military sector beyond the sector and the 3rd Military Region.
@@ -54,18 +59,19 @@ open_questions:
   - No arrests, suspects or court outcome are reported in the opened article text.
   - The page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is listed.
   - The APS page image is captioned only with the article title and is not established to show this seizure, so no media entry is added for it.
+  - The page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is included.
 ---
 
 A joint security formation of the army and customs carried it out, according to
-a Ministry of National Defence statement. [@2,3,4]
+a Ministry of National Defence statement. [@2,3,4,5]
 
 The coordinated action located and seized 707.45 kilograms of kif traité, the
-local term for processed cannabis resin. [@1,3,4] The shipment was described as
+local term for processed cannabis resin. [@1,3,4,5] The shipment was described as
 ready to be sold on the illicit market. [@1]
 
 The result was presented as part of permanent missions to secure and monitor the
 national border route. [@1] The defence statement framed the operation as
 continued border-protection work against organised crime, particularly drugs of
-all kinds. [@2,4] The account credited operational coordination and the vigilance
+all kinds. [@2,4,5] The account credited operational coordination and the vigilance
 of the security units with preserving territorial integrity and citizens'
 safety. [@1]
