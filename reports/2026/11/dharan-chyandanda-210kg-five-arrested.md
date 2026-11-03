@@ -60,6 +60,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: 'Araria News: सुनसरी के धरान में 210 किलो गांजा जब्त , एक भारतीय सहित पांच गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/araria/story-dharan-police-seize-210-kg-of-cannabis-arrest-five-in-smuggling-case-201793648950203.amp.html
+    publisher: Hindustan
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -81,12 +86,14 @@ open_questions:
   - The page's captured image is only the outlet logo, so whether any photo shows this seizure could not be established and no media entry is added.
   - The page was published on 3 November 2026 but describes a Monday early-morning operation at about 3 a.m., consistent with the existing report's 2 November 2026 incident date.
   - The captured image for this page is only the outlet logo, so whether any photo shows this seizure could not be established and no media entry is added.
+  - The opened readable text gives only the publication date of 3 November 2026; the 2 November 2026 incident date relies on the existing report.
+  - The captured image for this page is only the outlet logo, so no event photo can be listed from this source.
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7,8] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3,4,5,6,7] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4,5,6,7,8] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
