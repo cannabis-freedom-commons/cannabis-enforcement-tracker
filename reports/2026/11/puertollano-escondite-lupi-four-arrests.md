@@ -50,6 +50,11 @@ sources:
     publisher: La Noción
     date: 2026-11-03
     language: es
+  - title: Cuatro detenidos por tráfico de drogas en Puertollano, uno menor
+    url: https://www.clm24.es/provincias/ciudad-real/cuatro-detenidos-trafico-drogas-puertollano-ciudad-real/20261103120633485033.html
+    publisher: CLM24
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give no separate date for the raids; 3 November 2026 is the publication date and is used as the incident date.
   - The two itemised marijuana seizures total 5,667.87 grams while police report more than 6.5 kilograms overall; the report uses the official total.
@@ -60,10 +65,11 @@ open_questions:
   - The page carries two photos sharing the same generic caption about the investigation, which does not describe what each photo shows, so no new media entry is added.
   - The La Noción page image has only the generic alt text “Foto de la noticia” with no caption identifying what it depicts, so no media entry is added from this source.
   - The La Noción account notes the police release does not clearly classify the short firearm described as ready to fire.
+  - This account gives an itemised total of 5,667.87 grams of marijuana while the existing report uses the higher official total of more than 6.5 kilograms reported by other outlets.
 ---
 
 National Police detained four people, two men and two women including a minor,
-for alleged drug trafficking in Puertollano. [@2,3] The main suspect is a
+for alleged drug trafficking in Puertollano. [@2,3,5] The main suspect is a
 29-year-old man wanted under four court orders, two for detention and
 imprisonment and two for detention and appearance. [@1,3] His mother-in-law was
 also detained after allegedly opening the street sales point and distributing
@@ -76,7 +82,7 @@ flow of buyers. [@1] Officers seized more than 6.5 kilograms of marijuana along
 with 895 euros in cash, precision scales, machetes, ammunition and firearms.
 [@1] A third search in the Las Mercedes neighbourhood found 1,672.87 grams of
 processed marijuana packaged for sale, with scales, machetes, 16 shotgun
-cartridges and prescription medicines. [@1,4] The medicines, mainly morphine and
+cartridges and prescription medicines. [@1,4,5] The medicines, mainly morphine and
 fentanyl, had been seized after officers found they were being sold from one of
 the homes. [@1]
 
@@ -85,7 +91,7 @@ led to a third property in Las Mercedes with another marijuana grow and medicine
 trafficking. [@1] Police said the main suspect grew marijuana at home and stored
 cocaine there, moving substances to a nearby street only after checking no
 officers were present. [@1] He fled over rooftops to a neighbouring house while
-police drones tracked his movements. [@1,4] Officers found him hidden inside a
+police drones tracked his movements. [@1,4,5] Officers found him hidden inside a
 living-room cabinet. [@1,4] Police said all four detainees had prior records
 including drug trafficking, criminal organisation, violent robbery, injury, home
 invasion and domestic abuse. [@1,4]
