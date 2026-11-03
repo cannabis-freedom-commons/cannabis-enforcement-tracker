@@ -52,6 +52,11 @@ sources:
     publisher: Radio Touring 104
     date: 2026-11-02
     language: it
+  - title: 'Delianuova, blitz dei Carabinieri all’alba: arrestato un giovane con 2,6 chili di marijuana, sequestrate armi clandestine'
+    url: https://www.calabriainchieste.it/2026/11/02/delianuova-blitz-dei-carabinieri-allalba-arrestato-un-giovane-con-26-chili-di-marijuana-sequestrate-armi-clandestine/
+    publisher: Calabria Inchieste
+    date: 2026-11-02
+    language: it
 open_questions:
   - The articles give no separate date for the dawn operation; 2 November 2026 is their publication date.
   - The sources do not give the arrested young man's name or age.
@@ -62,21 +67,22 @@ open_questions:
   - The page carries a photo captioned with the headline and no credit, so whether it shows this seizure could not be established and no media entry is added.
   - The page carries a photo captioned only 'Carabinieri di Delianuova' with no credit, so whether it shows this seizure could not be established and no media entry is added.
   - The page's lead image uses a file path from April 2026 (Carabinieri-Rosarno-2.jpg), so whether it shows this Delianuova operation could not be established and no media entry is added.
+  - The submitted page carries one image captioned only Foto (5) with no descriptive caption or credit, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 At dawn, Carabinieri of the Delianuova station, under the Palmi company, carried
 out an operation supported by provincial Carabinieri units, the Calabria
 helicopter-borne hunter squadron, the Vibo Valentia dog unit and intervention
-squads of the 12th Regiment Sicilia. [@1] The operation was aimed at illegally
-held weapons and covered several homes in the area. [@2,5,6,7] During the searches,
+squads of the 12th Regiment Sicilia. [@1,8] The operation was aimed at illegally
+held weapons and covered several homes in the area. [@2,5,6,7,8] During the searches,
 officers arrested a young local man found with about 2.6 kg of marijuana that
-was being dried. [@1,3,4,5,6,7] The search also turned up a precision scale and material
-for packaging the drug, which led to the arrest. [@1,4,7] After the operation, the
+was being dried. [@1,3,4,5,6,7,8] The search also turned up a precision scale and material
+for packaging the drug, which led to the arrest. [@1,4,7,8] After the operation, the
 young man was taken to the Palmi prison at the disposal of the judicial
-authority. [@1,3,4,5,6,7]
+authority. [@1,3,4,5,6,7,8]
 
 In further checks, officers found and seized a carbine and a hunting rifle, both
-with abraded serial numbers, along with various ammunition. [@1,3,4,5,6,7] A 60-year-old
+with abraded serial numbers, along with various ammunition. [@1,3,4,5,6,7,8] A 60-year-old
 local man was reported at liberty in connection with possessing material for
-making ammunition. [@1,7] The case was in the preliminary-investigation phase,
+making ammunition. [@1,7,8] The case was in the preliminary-investigation phase,
 with the presumption of innocence applying until a final sentence. [@1]
