@@ -54,6 +54,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-02
     language: tr
+  - title: Diyarbakır'da 123 kilogram esrar ele geçirildi
+    url: https://www.malatyaguncel.com/amp/diyarbakir-da-123-kilogram-esrar-ele-gecirildi-3119858h.htm
+    publisher: Malatya Haber
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the operations themselves.
   - The reports say only that legal action was taken against 28 suspects and do not say whether they were detained, released, charged or remanded.
@@ -69,13 +74,13 @@ open_questions:
 
 Those operations produced 16 recorded incidents and legal action against 28
 suspects. [@2,6] The reports give only that legal action and do not name any
-suspect or report any detention, remand or court outcome. [@1]
+suspect or report any detention, remand or court outcome. [@1,7]
 
-Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6] They
+Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7] They
 also seized 525 cannabis and skunk roots, with kenevir the Turkish word for the
-cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6] The same
+cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7] The same
 operations also seized 523 pills, which are left out of the cannabis figures
-because the reports do not identify them as cannabis. [@3,4,5]
+because the reports do not identify them as cannabis. [@3,4,5,7]
 
 A governorship account says the provincial gendarmerie's anti-narcotics branch
 coordinated the work across the province. [@3,4,5] The reports are dated 2 November
