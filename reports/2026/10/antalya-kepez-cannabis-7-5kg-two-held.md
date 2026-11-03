@@ -222,6 +222,11 @@ sources:
     publisher: وكالة نيو ترك بوست الاخبارية
     date: 2026-11-01
     language: ar
+  - title: 'Antalya’da zehir tacirine operasyon kamerada: 7,5 kilogram esrar ele geçirildi'
+    url: https://www.tv42haber.com/amp/asayis/antalyada-zehir-tacirine-operasyon-kamerada-75-kilogram-esrar-ele-gecirildi-177124
+    publisher: Tv42 Haber
+    date: 2026-10-31
+    language: tr
 open_questions:
   - The reports give no separate date or time for the operation; 31 October 2026 is the publication date of both accounts.
   - No full names, estimated value for the 7.5 kg of cannabis, court date or trial outcome were published.
@@ -266,17 +271,17 @@ open_questions:
 
 Police in Antalya detained two men in an operation against drug trafficking
 after information that they were selling and distributing drugs brought into the
-city. [@1,4,8,9,10,11,12,13,14,15,17,19,20,25,26,29,30,31,32,33,34] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
-Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20,25,28,29,30,31,32,33,34] A search of their homes found 7 kg 500 g of cannabis, known
-in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,25,26,27,28,29,30,31,32,34] The pair were referred to the
+city. [@1,4,8,9,10,11,12,13,14,15,17,19,20,25,26,29,30,31,32,33,34,35] Officers caught the suspects, identified only as M.S.K. and O.Ü., in
+Kepez district. [@1,2,3,4,5,7,8,9,10,12,13,14,16,17,19,20,25,28,29,30,31,32,33,34,35] A search of their homes found 7 kg 500 g of cannabis, known
+in Turkey as esrar, divided into 15 packets. [@1,2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,19,20,22,24,25,26,27,28,29,30,31,32,34,35] The pair were referred to the
 judicial authorities over trading and supplying narcotic or psychotropic
 substances. [@1,2,5,7,8,9,10,11,13,16,18,20,21,25,26,27,28,30,31,34]
 
 The operation was run by the narcotics crimes branch of the Antalya provincial
-police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20,25,26,30,33,34] Sabah reported that it followed intelligence that the
+police directorate. [@1,2,4,6,7,8,9,10,11,12,14,16,17,19,20,25,26,30,33,34,35] Sabah reported that it followed intelligence that the
 two men were bringing drugs obtained outside the province into the city for sale
 and distribution. [@2] Officers identified the suspects and their addresses
 before launching the raid, the paper said. [@2] Police camera footage recorded
 the operation and the material seized in the searches. [@1,7,8,10,16,19,20,25,30]
 
-M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23,25,26,29,30,31,32,33,34]
+M.S.K. was remanded in pre-trial detention, known in Turkey as tutuklama, while O.Ü. was released under judicial control, a supervision order that falls short of custody. [@1,2,3,4,6,7,8,9,10,11,12,14,15,16,17,23,25,26,29,30,31,32,33,34,35]
