@@ -78,6 +78,11 @@ sources:
     publisher: Η ΚΑΘΗΜΕΡΙΝΗ
     date: 2026-11-01
     language: el
+  - title: Εντοπίστηκαν θερμοκήπια κάνναβης στην Ηλεία – Μία σύλληψη για κατοχή και καλλιέργεια
+    url: https://www.gargalianoionline.gr/entopistikan-thermokipia-kannavis-stin-ileia-mia-syllipsi-gia-katochi-kai-kalliergeia/?amp=1
+    publisher: Gargalianoionline
+    date: 2026-11-02
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
@@ -92,11 +97,13 @@ open_questions:
   - The submitted page's listed images are site banners and an older police-car file, none established as showing this seizure, so no media entry is added.
   - The submitted page gives only its 1 November 2026 publication date; the existing report dates the arrest to Saturday 31 October 2026.
   - The submitted page carries an image captioned only “αστυνομία-1”, which does not establish that it shows this seizure, so no media entry is added.
+  - The submitted page was published 2 November 2026 and says the arrest was yesterday at midday, implying 1 November 2026, while the existing report dates the arrest to Saturday 31 October 2026.
+  - The page carries one image whose caption and credit are empty, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
 Peloponnese on Saturday while he was tending the plantation. [@1,8] The man was
-detained on cultivation and drug-possession charges. [@2,3,4,5,7,9] The arrested man is to
+detained on cultivation and drug-possession charges. [@2,3,4,5,7,9,12] The arrested man is to
 be brought before the Ilia Court of First Instance prosecutor while the Ilida
 crime-investigation department continues its inquiries. [@2,3,4,8,9,11]
 
@@ -110,6 +117,6 @@ sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10]
+scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10,12]
 
-Of the 102 cannabis plants, 21 had already been harvested. [@8]
+Of the 102 cannabis plants, 21 had already been harvested. [@8,12]
