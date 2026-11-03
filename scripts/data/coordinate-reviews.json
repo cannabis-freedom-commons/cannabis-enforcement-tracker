@@ -649,5 +649,22 @@
       "https://www.gov.je/news/2026/pages/CannabisConcealedVehicle.aspx",
       "https://nominatim.openstreetmap.org/search?q=Royal%20Court%2C%20St%20Helier%2C%20Jersey&format=json&limit=3"
     ]
+  },
+  {
+    "file": "reports/2021/02/jean-bart-arabian-sea-hashish-2021.md",
+    "country": "fr",
+    "place": "Arabian Sea",
+    "coordinates": [
+      14,
+      65
+    ],
+    "precision": "region",
+    "reviewed_on": "2026-11-03",
+    "kind": "offshore-reference",
+    "reason": "CMF locates the interception in the Arabian Sea without exact coordinates. The pin uses a regional sea reference, not a French land location or an exact vessel position; the uncertainty is stated in the report.",
+    "evidence": [
+      "https://combinedmaritimeforces.com/2021/03/07/faa-jean-bart-seizes-over-6500-lbs-of-narcotics-in-the-arabian-sea/",
+      "https://en.wikipedia.org/wiki/Arabian_Sea"
+    ]
   }
 ]

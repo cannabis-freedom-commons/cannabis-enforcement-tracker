@@ -4,6 +4,9 @@ code: "KVX7HS"
 date: 2021-02-12
 country: fr
 place: Arabian Sea
+# Regional sea reference, not the vessel position: https://en.wikipedia.org/wiki/Arabian_Sea
+coordinates: [14, 65]
+precision: region
 type: seizure
 title: French frigate seizes 2,960 kg of hashish in the Arabian Sea
 summary: >-
@@ -42,6 +45,7 @@ media:
     publisher: Combined Maritime Forces
     caption: 'Boarding teams approach the dhow after the crew dumped cargo overboard. Photo: FS Jean Bart'
 open_questions:
+  - The sources give no exact interception coordinates; the map pin is a broad Arabian Sea reference point, not the vessel's position.
   - The CMF statement does not say whether the dhow's crew were detained.
   - No video of the interception with a recoverable address was found, so no video entry was added.
 ---
