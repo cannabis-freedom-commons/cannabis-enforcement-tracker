@@ -27,19 +27,25 @@ sources:
     publisher: Suriname Nieuws Centrale
     date: 2026-11-02
     language: nl
+  - title: Ambtenaar met hasj aangehouden, ook verdacht van drugshandel onder jongeren
+    url: https://drimble.nl/dossiers/multicultureel/suriname/108472037/ambtenaar-met-hasj-aangehouden-ook-verdacht-van-drugshandel-onder-jongeren.html
+    publisher: Drimble
+    date: 2026-11-02
+    language: nl
 open_questions:
   - No independent weighing of the 72 grams of hashish is reported.
   - The allegation of selling drugs to young people and prior police stops is attributed only to information received by the newsroom, with no named source.
   - The second opened page is a reprint of the same Waterkant account, so it does not provide independent confirmation.
   - The lead image on the source pages shows generic cell bars from a 2024 file photo and does not depict this arrest, so no media entry is added.
   - No charge beyond suspicion under the Narcotics Act and no court outcome are reported yet.
+  - The Drimble page shows only a truncated teaser ending with outstanding text about the Zuster Jensenweg stop and refers readers to the original source for the rest.
 ---
 
 Police in eastern Suriname arrested 37-year-old civil servant O.S. on 31 October
-on suspicion of violating the Narcotics Act. [@1] Officers stopped him at the
+on suspicion of violating the Narcotics Act. [@1,3] Officers stopped him at the
 corner of Zuster Jensenweg and Hoofdweg in Mariënburg. [@1] He was carrying a
 bag in which the drugs were stored. [@1] At the arrest, officers found 72 grams
-of hashish on him. [@1]
+of hashish on him. [@1,3]
 
 During questioning, the civil servant said he had bought the hashish for his own
 use. [@1] He said he had paid SRD 8,000 for it to a man at the Central Market.
@@ -51,4 +57,3 @@ quantities were found then. [@1]
 After his arrest, the suspect was taken to the Mariënburg police station. [@1]
 After consultation with the Surinamese Public Prosecution Service, it was
 decided to remand the 37-year-old civil servant in custody. [@2]
-
