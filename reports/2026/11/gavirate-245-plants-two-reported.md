@@ -66,6 +66,11 @@ sources:
     publisher: QuiComo
     date: 2026-11-02
     language: it
+  - title: 'Scoperta dalla Finanza a Gavirate una piantagione di marijuana: 245 piante sequestrate, valore oltre 500mila euro'
+    url: https://www.varesenews.it/2026/11/scoperta-dalla-finanza-a-gavirate-una-piantagione-di-marijuana-245-piante-sequestrate-valore-oltre-500mila-euro/2725771/
+    publisher: VareseNews
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -83,13 +88,14 @@ open_questions:
   - The page's plantation photo is captioned as an archive photo, so it is not established to show this seizure and no media entry is added.
   - The QuiComo article gives only its publication date of 2 November 2026 and no separate date for the Guardia di Finanza control.
   - Whether the lead image on the QuiComo page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
+  - The page's only usable image is captioned Generico 26 Oct 2026, indicating a generic illustration rather than this seizure, so no media entry is added.
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3,4,5,6,7] All 245 plants were seized and placed at
-the disposal of the judicial authority for further steps. [@2,3,6,7] The two owners of
+marijuana cultivation in Gavirate. [@1,3,4,5,6,7,8] All 245 plants were seized and placed at
+the disposal of the judicial authority for further steps. [@2,3,6,7,8] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3,4,5,6,7]
+liberty for cultivating narcotic substances. [@1,3,4,5,6,7,8]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
 approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from about
@@ -97,11 +103,13 @@ approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from ab
 [@1] Laboratory tests found a THC concentration above the limits in force,
 giving the matter criminal relevance. [@1,3,5] Investigators estimated that, once
 growth and processing were complete, the crop could have been worth more than
-500,000 euros. [@1,3,4,5]
+500,000 euros. [@1,3,4,5,8]
 
 Investigators traced the cultivation to a farm formally operating in the
-aromatic- and medicinal-plant sector. [@1] Officers then checked
+aromatic- and medicinal-plant sector. [@1,8] Officers then checked
 hemp-cultivation requirements, focusing on seed traceability and the
 production's destination. [@1,5] The Guardia di Finanza said such controls verify
 crops and operators' compliance and prevent apparently lawful farming from being
 used for unlawful conduct. [@1]
+
+Both farm owners are residents of Gavirate. [@8]
