@@ -38,23 +38,35 @@ sources:
     publisher: GrNet News Sicurezza e Difesa
     date: 2026-11-03
     language: it
+  - title: 'Ventimiglia: sequestrati 30 chili di marijuana al valico autostradale, arrestato un automobilista'
+    url: https://imperiapost.it/835252/ventimiglia-sequestrati-30-chili-di-marijuana-al-valico-autostradale-arrestato-un-automobilista
+    publisher: Imperiapost
+    date: 2026-11-03
+    language: it
+  - title: Tornava dalla Spagna con 30 kg di marijuana, fermato alla frontiera di Ventimiglia e arrestato
+    url: https://www.primocanale.it/cronaca/73179-ventimiglia-arrestato-con-30-chili-di-marijuana-al-valico-autostradale.html
+    publisher: Primocanale
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
   - No court outcome beyond the arrest was reported.
+  - The Primocanale page gives only its publication date of 3 November 2026 and no separate incident day; 27 October relies on the Imperiapost account and existing sources.
+  - The Primocanale page carries an image with no caption or credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
 stopped a car driven by an Italian man at the motorway border crossing entering
-Italy. [@1,3] The officers arrested the Italian driver for international
+Italy. [@1,3,4] The officers arrested the Italian driver for international
 trafficking in narcotic substances. [@2,3] The Imperia prosecutor's office assumed
 direction of the investigation. [@1,3] The man remains presumed innocent until any
 final sentence. [@2]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
-bags containing 30 kilograms of marijuana. [@1,3] Officers also seized 2,700 euros
+bags containing 30 kilograms of marijuana. [@1,3,4,5] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1,3]
+and the car used for transport. [@1,3,5]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
 and gave contradictory, evasive accounts of a trip to Spain. [@1,3] The Guardia di
