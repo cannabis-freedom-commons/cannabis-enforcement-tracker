@@ -45,6 +45,11 @@ sources:
     publisher: Pulzo
     date: 2026-10-30
     language: es
+  - title: Dos jóvenes son capturados en Bogotá con más de dos kilos de marihuana en un taxi
+    url: https://www.diariodelsur.com.co/noticias/dos-jovenes-son-capturados-en-bogota-con-mas-de-dos-kilos-de-marihuana-en-un-taxi
+    publisher: Diario del Sur
+    date: 2026-10-30
+    language: es
 open_questions:
   - The reports give no separate date for the vehicle stop; 30 October 2026 is the publication date of both articles, and HSB Noticias says Noticias RCN published the police account on 29 October.
   - HSB Noticias attributes its account to a Noticias RCN report that could not itself be opened; the facts here rest on HSB Noticias, the mayor's office page and La Región.
@@ -55,19 +60,20 @@ open_questions:
   - Pulzo’s article text calls the vehicle a car and does not name Santa Fe; the image alt text says the couple was stopped in Santa Fe with marijuana hidden in a taxi boot.
   - Pulzo states the pair were suspected of trafficking, manufacturing or carrying drugs, a line the existing report already found missing from the Portal Bogotá page. Pulzo says the piece was curated with artificial intelligence.
   - The Pulzo photo is credited to Policía de Bogotá and was not added again, because the report already links a police image of the arrest.
+  - The Diario del Sur cover image is captioned only as cover art and cannot be confirmed to show this seizure, so no media entry was added.
 ---
 
 The arrest took place in Santa Fe, one of Bogotá's administrative localities.
-[@3] Officers found 2,140 grams of marijuana in the boot of the taxi the pair
-were travelling in, in packages wrapped in paper and cardboard. [@1,4] The two
+[@3,5] Officers found 2,140 grams of marijuana in the boot of the taxi the pair
+were travelling in, in packages wrapped in paper and cardboard. [@1,4,5] The two
 told officers they were a couple, and were stopped during a patrol, registration
-and control check. [@3,4]
+and control check. [@3,4,5]
 
 Both were arrested in flagrante (caught in the act) and left, with the drug, at
-the disposal of the competent authority. [@2,4] The reports name no charges or
+the disposal of the competent authority. [@2,4,5] The reports name no charges or
 court hearing, and note that an arrest is not in itself a finding of guilt. [@1]
 The woman told officers her parents were being held over homicide and theft
-investigations. [@1] The reports gave no detail to confirm that account. [@1]
+investigations. [@1,5] The reports gave no detail to confirm that account. [@1]
 
 The case was one of the patrol, registration and control operations Bogotá
 police run across the city to detect the transport and distribution of illegal
