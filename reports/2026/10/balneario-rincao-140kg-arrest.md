@@ -116,6 +116,11 @@ sources:
     publisher: G1
     date: 2026-11-02
     language: pt
+  - title: Polícia apreende 140 quilos de maconha e prende suspeito de ligação com facção em SC
+    url: https://www.topelegance.com.br/seguranca/policia-apreende-140-quilos-de-maconha-e-prende-suspeito-de-ligacao-com-faccao-em-sc
+    publisher: TopElegance
+    date: 2026-10-31
+    language: pt
 open_questions:
   - No charge, court appearance or sentence has been reported.
   - The 140 kg is a police estimate ('cerca de'); the exact weight was not published.
@@ -138,21 +143,23 @@ open_questions:
   - The opened G1 video page provides only the title and 48-second video metadata and no article body, so no suspect age, agency, street, house, scales, phones, faction claim or summer-stock motive is supported by this source.
   - This source's publication date is 2 November 2026 while the existing report dates the arrest to the night of 30 October 2026.
   - The video picture content was not transcribed beyond its title and thumbnail, so no additional figures or details are attributed to it.
+  - The TopElegance page says its account comes from Engeplus and Hora Hiper, both already cited in the existing report, so it corroborates the police version rather than adding independent reporting.
+  - 'The cover photo is captioned only as Foto: PMSC and the gallery image only as Galeria — 1 foto, with no description establishing what either shows, so no distinct media entry is added.'
 ---
 
 Military police arrested a 32-year-old man on the night of 30 October 2026 after
 finding about 140 kg of cannabis in a house in the Centre of Balneário Rincão,
-Santa Catarina. [@1,3,4,5,6,7,9,10,11,12,13,14] The police went to the house on Rua Luiz Maria Júlia after
+Santa Catarina. [@1,3,4,5,6,7,9,10,11,12,13,14,15] The police went to the house on Rua Luiz Maria Júlia after
 the Tático de Içara, a Military Police tactical unit, received information that
 it was being used as a depot for drugs intended for sale. [@1,5,9] The man, known to
 patrols, ran into the house when officers arrived and threw a mobile phone
 towards the neighbouring property. [@2,5] A first search found a scale and one
 cannabis tablet; the man admitted the drug was his and said more was stored
-inside. [@1,4,5,6,7,8,13]
+inside. [@1,4,5,6,7,8,13,15]
 
-Officers also seized three precision scales and two mobile phones. [@1,5,8,9,10,12,13] The
+Officers also seized three precision scales and two mobile phones. [@1,5,8,9,10,12,13,15] The
 Military Police described the man as one of the leaders of a criminal faction
-operating in Balneário Rincão. [@1,5,8,9] The claim is part of the police account and
+operating in Balneário Rincão. [@1,5,8,9,15] The claim is part of the police account and
 is still to be investigated. [@3]
 
 Several of the tablets carried a printed photograph of President Luiz Inácio
