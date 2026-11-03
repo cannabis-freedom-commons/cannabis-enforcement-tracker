@@ -27,6 +27,11 @@ media:
     media_url: https://medias.letarnlibre.com/photos/1200/15481-plus-de-3kg-de-cannabis-d-une-valeur-marchande-de-11-000-euros-du-protoxide-d-azote-et-des-armes?v=1793638341
     publisher: Le Tarn libre
     caption: 'Seized cannabis resin, nitrous oxide and weapons displayed after the search. Photo: Gendarmerie du Tarn'
+  - kind: photo
+    url: https://www.lasemainedespyrenees.fr/tarn-castres-31-kg-de-cannabis-et-des-armes-saisis-lors-dune-operation-de-gendarmerie/
+    media_url: https://www.lasemainedespyrenees.fr/wp-content/uploads/2026/11/Capture-decran-2026-11-02-a-21.37.10-600x431.png
+    publisher: La Semaine des Pyrénées
+    caption: 'Seized cannabis, cash and weapons from the Petit Train–Laden operation. Photo: gendarmerie du Tarn'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ba87c356c0798b2fcdced496cb8ee21b
@@ -47,16 +52,22 @@ sources:
     publisher: Le Tarn libre
     date: 2026-11-02
     language: fr
+  - title: 'Tarn - Castres : 3,1 kg de cannabis et des armes saisis lors d’une opération de gendarmerie'
+    url: https://www.lasemainedespyrenees.fr/tarn-castres-31-kg-de-cannabis-et-des-armes-saisis-lors-dune-operation-de-gendarmerie/
+    publisher: La Semaine des Pyrénées
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The lead image on the submitted page credited to Actu Tarn archives is an archive photo and is not listed as media because it is not shown to depict this seizure.
   - No outcome is reported for the 21-year-old arrestee, and the 19-year-old's immediate-appearance hearing was scheduled for 2 November 2026 after publication, so no verdict is reported.
   - The cannabis value of nearly 11,000 euros is the authorities' estimate as reported, not an independently verified valuation.
   - This account reports more than 3 kg of cannabis resin while the existing report records 3.1 kg from earlier coverage.
   - The text gives a weight ("3 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The submitted page describes the 19-year-old as held in provisional detention awaiting immediate appearance and does not report the 2 November 2026 two-year sentence recorded in the existing report.
 ---
 
 Two men aged 19 and 21 were arrested and placed in custody after gendarmes
-carried out an arrest-and-search operation in Castres on 27 October 2026. [@1]
+carried out an arrest-and-search operation in Castres on 27 October 2026. [@1,4]
 The searches took place in a flat and a cellar on rue Jean-Saulière in the Petit
 Train-Laden neighbourhood of Castres. [@1,3] The younger man was referred to the
 Castres prosecutor on 31 October and held in provisional detention pending an
@@ -65,7 +76,7 @@ acquisition, offer, transfer and use charges plus possession of category B and C
 weapons. [@1]
 
 In the flat and cellar officers found 3.1 kg of cannabis resin which police
-valued at nearly 11,000 euros. [@1] They also seized 3,530 euros in cash,
+valued at nearly 11,000 euros. [@1,4] They also seized 3,530 euros in cash,
 several nitrous oxide canisters, a 22 Long Rifle revolver classed as a category
 B handgun, and a category C shoulder weapon with its ammunition. [@2]
 
