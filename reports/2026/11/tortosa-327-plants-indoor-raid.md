@@ -18,6 +18,11 @@ media:
     media_url: https://imagenes.diaridetarragona.com/files/image_media_main_desktop/uploads/2026/11/03/6ae9a6a255905.jpeg
     publisher: Diari de Tarragona
     caption: 'Indoor cannabis plants found in the home in Tortosa''s historic centre. Photo: Mossos d''Esquadra via Diari de Tarragona'
+  - kind: photo
+    url: https://www.europapress.es/catalunya/noticia-mossos-desmantelan-plantacion-marihuana-detienen-hombre-tortosa-tarragona-20261103104905.html
+    media_url: https://img.europapress.es/fotoweb/fotonoticia_20261103104905_690.avif
+    publisher: Europa Press
+    caption: 'A Mossos d''Esquadra officer in the marijuana plantation dismantled in Tortosa. Photo: Mossos via Europa Press'
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c0ca7dd3729b6a9cb0b587b6e9c6fe02
@@ -26,6 +31,11 @@ sources:
   - title: Los Mossos desmantelan una plantación con 327 plantas de marihuana en el centro de Tortosa
     url: https://www.diaridetarragona.com/sucesos/274713/mossos-desmantelan-plantacion-327-plantas-marihuana-centro-tortosa.html
     publisher: Diari de Tarragona
+    date: 2026-11-03
+    language: es
+  - title: Los Mossos desmantelan una plantación de marihuana y detienen a un hombre en Tortosa (Tarragona)
+    url: https://www.europapress.es/catalunya/noticia-mossos-desmantelan-plantacion-marihuana-detienen-hombre-tortosa-tarragona-20261103104905.html
+    publisher: Europa Press
     date: 2026-11-03
     language: es
 open_questions:
@@ -40,23 +50,22 @@ open_questions:
 Mossos d'Esquadra, Catalonia's police force, dismantled an indoor marijuana
 plantation in a home in the historic centre of Tortosa. [@1] Officers arrested a
 30-year-old man as the alleged author of a drug-trafficking offence against
-public health. [@1] The man was also accused of an electricity-fraud offence.
-[@1] The detainee was released a few hours later and must appear before the
+public health. [@1,2] The man was also accused of an electricity-fraud offence.
+[@1,2] The detainee was released a few hours later and must appear before the
 judicial authority when required. [@1]
 
 The operation took place on Sunday at around 22:00 after officers of the Tortosa
 public-safety unit confirmed a possible plantation in a house on Carreró de
-Cabanes. [@1] Officers observed covered windows and running air-conditioning
+Cabanes. [@1,2] Officers observed covered windows and running air-conditioning
 units and smelled marijuana in the premises and ventilation ducts before
 entering and searching the building. [@1] Inside they found a marijuana grow
 with complex lighting and cooling equipment, with several rooms altered to hold
 lamps, humidifiers, fans, air conditioners and exterior air outlets. [@1] The
 Mossos seized 327 marijuana plants up to one metre tall in an advanced state of
-flowering, plus about ten wraps of cocaine. [@1]
+flowering, plus about ten wraps of cocaine. [@1,2]
 
 The house was illegally connected to the electricity supply to power the
 installation, producing disproportionate consumption. [@1] The Mossos dismantled
 the fraudulent system because they considered it a safety risk for neighbourhood
 residents. [@1] According to police, residents had complained about the number
 of people regularly coming to the house to buy drugs. [@1]
-
