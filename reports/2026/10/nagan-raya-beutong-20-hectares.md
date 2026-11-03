@@ -89,6 +89,11 @@ sources:
     publisher: PUJATV ACEH
     date: 2026-11-03
     language: id
+  - title: Ladang Ganja 20 Hektare Dibabat
+    url: https://www.nusabali.com/berita/235235/ladang-ganja-20-hektare-dibabat
+    publisher: NusaBali
+    date: 2026-11-02
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -115,23 +120,27 @@ open_questions:
   - The submitted page places the fields in Beutong Ateuh district while the existing report says Beutong district.
   - The submitted page was published on 3 November 2026 while the existing report dates the operation to 31 October 2026.
   - The page carries photographs credited to Orian Saputra with only a generic source caption, so whether they show this eradication could not be established and no media entry is added.
+  - The NusaBali page captions the operation to Sunday 1 November 2026 while the existing report dates the operation to 31 October 2026 ending at 02:00 WIB on 1 November.
+  - The NusaBali page spells the police chief Muhammad Taufiq and Muhamad Taufik in different lines while the existing report uses AKBP Muhamad Taufiq.
+  - The page lead image carries only the file-name caption www.nusabali.com-ladang-ganja-20-hektare-dibabat with no credit, so it does not establish that it shows this eradication and no media entry is added.
+  - 'Left out, as its quotation was not found in NusaBali: The operation was led by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN personnel.'
 ---
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
 mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5,9,10,11] The fields lay
-in Beutong district, in the mountains of the regency. [@2,6,7,8,9,10,11] The operation was led
+in Beutong district, in the mountains of the regency. [@2,6,7,8,9,10,11,12] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
-personnel. [@2,4,5,11] Officers found no owner and no suspect at the sites. [@1,5,6,7,8,10,11]
+personnel. [@2,4,5,11] Officers found no owner and no suspect at the sites. [@1,5,6,7,8,10,11,12]
 
 Police estimated the plantation at 20 hectares across three separate plots, the
-first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5,6,8,10,11] Plants
+first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5,6,8,10,11,12] Plants
 at the second plot were about 1 metre high and at the third about 30
-centimetres. [@1,5,7,8,10,11] The team uprooted and burned the plants where they stood and
-carried some of the material to Nagan Raya police headquarters as evidence. [@1,5,7,11]
+centimetres. [@1,5,7,8,10,11,12] The team uprooted and burned the plants where they stood and
+carried some of the material to Nagan Raya police headquarters as evidence. [@1,5,7,11,12]
 
 Reaching the site took about four hours on trail motorcycles and another four
-hours on foot through mountain terrain. [@1,5,6,7,11] The operation ended at 02:00 WIB,
+hours on foot through mountain terrain. [@1,5,6,7,11,12] The operation ended at 02:00 WIB,
 western Indonesian time, early on Sunday 1 November. [@1,4,5,9] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
