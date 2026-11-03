@@ -47,6 +47,11 @@ sources:
     publisher: Infobae
     date: 2026-11-02
     language: es
+  - title: 'Siete detenidos, 3.000 plantas de marihuana incautadas y un arsenal de armas: operación contra el narcotráfico en Mataró'
+    url: https://amp.lasexta.com/noticias/sociedad/siete-detenidos-3000-plantas-marihuana-incautadas-arsenal-armas-operacion-narcotrafico-mataro_202611026ae8d5b0004b78127abd816e.html
+    publisher: LaSexta
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the raid; the incident date uses the publication date.
   - The several localities in Barcelona province where the group allegedly operated are not named.
@@ -54,6 +59,8 @@ open_questions:
   - Only one opened source supports the event; searches for a second account of the same Mataró operation found no accessible corroboration.
   - The existing report describes later distribution to the eastern European black market, while the submitted Infobae/EFE capture says the European black market without specifying east.
   - The ABC page embeds police-supplied video of the operation; no stable direct video file address was recovered, so no media entry is added.
+  - LaSexta describes distribution to the European black market without specifying eastern Europe, while the existing report says eastern Europe.
+  - The laSexta page carries a photo and video titled with the event, but without caption or credit confirming they show this operation, so no media entry is added.
 ---
 
 National Police officers with Mataró Local Police carried out an anti-drug
@@ -62,7 +69,7 @@ seizure of 3,000 marijuana plants. [@1,2,3,4] The operation dismantled an allege
 criminal organisation dedicated to indoor cultivation and later distribution of
 the drug on the European black market. [@1,4] The seven detainees are under
 investigation for alleged offences against public health, unlawful possession of
-weapons, electricity fraud and membership of a criminal group. [@1] All seven
+weapons, electricity fraud and membership of a criminal group. [@1,5] All seven
 have been placed at the disposal of the courts. [@1]
 
 During the operation officers seized a large arsenal of weapons, cash and a
@@ -70,8 +77,8 @@ complete infrastructure for indoor marijuana cultivation. [@1] The seized
 material included 3,000 marijuana plants and one kilogram of buds, two 9 mm
 pistols with semi-jacketed ammunition, a replica pistol, an AK-47 rifle, five
 frequency jammers, two knuckle-dusters, several extendable batons and a baseball
-bat. [@1,2,3,4] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
-and abundant material used for indoor plantation cultivation. [@1,2]
+bat. [@1,2,3,4,5] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
+and abundant material used for indoor plantation cultivation. [@1,2,5]
 
 Investigators say the organisation operated in several localities in Barcelona
 province and sent its production to the black market in eastern Europe. [@1]
