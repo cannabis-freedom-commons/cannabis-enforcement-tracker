@@ -24,6 +24,11 @@ media:
     media_url: https://www.telegranducato.it/wp-content/uploads/2026/11/Arezzogdf1-640x432.jpg
     publisher: Telegranducato di Toscana
     caption: Blocks and loose pieces of seized hashish beside a Guardia di Finanza sign
+  - kind: photo
+    url: https://www.lanazione.it/arezzo/cronaca/droga-hashish-spagna-arresti-locker-vw7hvf0i
+    media_url: https://www.lanazione.it/image-service/view/acePublic/alias/contentid/MTQwNzgzMjEtZWE4Yi00/0/image.webp?f=16%3A9&q=0.75&w=580
+    publisher: La Nazione
+    caption: Objects seized in Arezzo from the two men arrested for drug dealing
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa
@@ -44,6 +49,11 @@ sources:
     publisher: NoiTV
     date: 2026-11-03
     language: it
+  - title: Due pacchi dalla Spagna con 4 chili di hashish. Arrestati due uomini ad Arezzo
+    url: https://www.lanazione.it/arezzo/cronaca/droga-hashish-spagna-arresti-locker-vw7hvf0i
+    publisher: La Nazione
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -55,13 +65,13 @@ open_questions:
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
 4 kg of hashish and arrested two people. [@1] The two people stopped were one
-Italian national and one Albanian national. [@2,3] Officers had flagged two
+Italian national and one Albanian national. [@2,3,4] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
 of residents in Arezzo province. [@1,3] The two were stopped as they collected the
-parcels, which concealed 4,140 grams of hashish that officers seized. [@1] After
+parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1,3]
+under house arrest. [@1,3,4]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1]
