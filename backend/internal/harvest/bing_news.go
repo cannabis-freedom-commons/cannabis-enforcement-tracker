@@ -228,7 +228,7 @@ func (g BingNews) batch(n int) []BingNewsQuery {
 func (g BingNews) Run(ctx context.Context) {
 	interval := g.Interval
 	if interval <= 0 {
-		interval = 15 * time.Minute
+		interval = 5 * time.Minute
 	}
 	slog.Info("Bing News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles)
 	timer := time.NewTimer(time.Second)

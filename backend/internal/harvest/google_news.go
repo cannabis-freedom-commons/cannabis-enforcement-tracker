@@ -406,7 +406,7 @@ func (g GoogleNews) batch(n int) []GoogleNewsQuery {
 func (g GoogleNews) Run(ctx context.Context) {
 	interval := g.Interval
 	if interval <= 0 {
-		interval = 15 * time.Minute
+		interval = 5 * time.Minute
 	}
 	slog.Info("Google News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles)
 	timer := time.NewTimer(time.Second)

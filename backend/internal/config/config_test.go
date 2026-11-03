@@ -75,7 +75,7 @@ func TestResearchModelComesFromEnvironment(t *testing.T) {
 func TestGoogleNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval.String() != "15m0s" || c.GoogleNewsMaxArticles != 25 || c.GoogleNewsQueriesPerScan != 12 {
+	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 5*time.Minute || c.GoogleNewsMaxArticles != 25 || c.GoogleNewsQueriesPerScan != 12 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_GOOGLE_NEWS_ENABLED", "false")
@@ -117,7 +117,7 @@ func TestJobLogRetention(t *testing.T) {
 func TestBingNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 15*time.Minute || c.BingNewsMaxArticles != 10 || c.BingNewsQueriesPerScan != 4 {
+	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 5*time.Minute || c.BingNewsMaxArticles != 10 || c.BingNewsQueriesPerScan != 4 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_BING_NEWS_ENABLED", "false")

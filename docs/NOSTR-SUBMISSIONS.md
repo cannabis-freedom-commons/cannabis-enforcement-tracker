@@ -455,11 +455,11 @@ cannot be recalled globally. Metadata/cursors backfill a five-minute overlap wit
 maximum intake age; longer outages need an explicit recovery run.
 
 Google News discovery is enabled by default. It runs shortly after backend startup and then
-15 minutes after each completed scan, independently of RSS/GDELT collectors. Configure it with:
+five minutes after each completed scan, independently of RSS/GDELT collectors. Configure it with:
 
 ```dotenv
 HARVEST_GOOGLE_NEWS_ENABLED=true
-HARVEST_GOOGLE_NEWS_INTERVAL=15m
+HARVEST_GOOGLE_NEWS_INTERVAL=5m
 HARVEST_GOOGLE_NEWS_MAX_ARTICLES=25
 HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN=12
 # Optional pipe-separated queries; blank uses the built-in multilingual set. Prefix a query
@@ -495,7 +495,7 @@ search locales, not strict event-country filters, and do not guarantee coverage 
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
 second apart. With 50 default queries and 12 per scan, five scans visit the whole set, roughly
-75 minutes plus scan time (under two hours at the default interval and five-minute scan deadline),
+25 minutes plus scan time (under an hour at the default interval and five-minute scan deadline),
 inside the one-day lookback. The larger set does not increase the per-scan request or admission
 budgets. New candidates are taken round-robin across that scan's queries, so a busy edition cannot
 use up the per-scan budget of 1–100 new URLs (default 25). At most 50 configured queries, each at
@@ -525,12 +525,12 @@ fetch/decoding failures and queue errors. `LOG_LEVEL=debug` additionally shows a
 already-covered candidates. No research-provider credentials or article bodies are logged.
 
 Bing News RSS discovery is also enabled by default and runs independently of Google and the
-other collectors, one second after startup and 15 minutes after each completed scan. No API key
+other collectors, one second after startup and five minutes after each completed scan. No API key
 is needed; this uses the public RSS search, not Microsoft's retired Bing Search API. Configure:
 
 ```dotenv
 HARVEST_BING_NEWS_ENABLED=true
-HARVEST_BING_NEWS_INTERVAL=15m
+HARVEST_BING_NEWS_INTERVAL=5m
 HARVEST_BING_NEWS_MAX_ARTICLES=10
 HARVEST_BING_NEWS_QUERIES_PER_SCAN=4
 # Optional pipe-separated queries; blank uses the built-in set. Default market: en-US.
@@ -540,7 +540,7 @@ HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-CN] 大麻 查获
 The twelve built-in queries cover US, UK and Indian English, Simplified and Traditional Chinese,
 Russian and Arabic, plus English searches naming China, Iran and North Korea.
 Markets guide search results, not the event's location; coverage is best effort. Four queries
-rotate per scan, so every default query runs roughly every 45 minutes. Custom queries replace
+rotate per scan, so every default query runs roughly every 15 minutes plus scan time. Custom queries replace
 the defaults. Short keyword queries work better than compound Boolean expressions in live testing.
 Bounds match Google: 1–50 queries per scan, at most 50 configured queries of at most
 1000 characters, intervals from 1 minute to 24 hours, and 1–100 new URLs per scan.

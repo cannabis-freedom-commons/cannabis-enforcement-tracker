@@ -57,7 +57,7 @@ func Load() (Config, error) {
 	if discoveryErr != nil {
 		return c, errors.New("invalid HARVEST_GOOGLE_NEWS_ENABLED")
 	}
-	c.GoogleNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_GOOGLE_NEWS_INTERVAL", "15m"))
+	c.GoogleNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_GOOGLE_NEWS_INTERVAL", "5m"))
 	if discoveryErr != nil || c.GoogleNewsInterval < time.Minute || c.GoogleNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_INTERVAL must be between 1m and 24h")
 	}
@@ -88,7 +88,7 @@ func Load() (Config, error) {
 	if discoveryErr != nil {
 		return c, errors.New("invalid HARVEST_BING_NEWS_ENABLED")
 	}
-	c.BingNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_BING_NEWS_INTERVAL", "15m"))
+	c.BingNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_BING_NEWS_INTERVAL", "5m"))
 	if discoveryErr != nil || c.BingNewsInterval < time.Minute || c.BingNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_BING_NEWS_INTERVAL must be between 1m and 24h")
 	}
