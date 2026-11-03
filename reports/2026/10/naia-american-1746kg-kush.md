@@ -103,6 +103,10 @@ sources:
     url: https://www.manilatimes.net/2026/11/03/news/national/american-with-p1746m-marijuana-stash-nabbed/2458826
     publisher: The Manila Times
     date: 2026-11-03
+  - title: American with P17.46M marijuana stash nabbed
+    url: https://www.manilatimes.net/2026/11/03/news/national/american-with-p1746m-marijuana-stash-nabbed/2458826/amp
+    publisher: The Manila Times
+    date: 2026-11-03
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -160,10 +164,10 @@ Dangerous Drugs Act of 2002. [@1,7]
 
 The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
 
-According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13,14] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13,15] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13,14,15] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5,14] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
+According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13,14,16] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13,15,16] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13,14,15,16] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5,14] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
 
 An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9,11]
 
 PNP-Avsegroup Director Brig. Gen. Dionisio Bartolome Jr. said police would strengthen airport monitoring and enforcement to combat illegal drug trafficking. [@7,11]
 
-The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8,15]
+The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8,15,16]
