@@ -130,6 +130,10 @@ sources:
     publisher: Mersin Haber
     date: 2026-10-31
     language: tr
+  - title: 'Bursa''da kasap dükkanını kenevir serasına çevirdiler: Şüpheli şahıs tutuklandı - Enerji FM 100.5'
+    url: https://enerjifm.com.tr/haber/39158/bursada-kasap-dukkanini-kenevir-serasina-cevirdiler-supheli-sahis-tutuklandi
+    publisher: Enerji FM
+    language: tr
 open_questions:
   - The sources give no separate date for the operation, detention or court appearance; 31 October 2026 is the publication date of the earliest accounts.
   - No charge, trial date, sentence or estimated value of the cannabis was published; tutuklama is pre-trial detention, not a conviction.
@@ -190,12 +194,12 @@ of a butcher's shop converted into a grow room with climate-control and lighting
 equipment. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,22] They detained a suspect identified only by the initials A.T.;
 after questioning at the police station he was taken to court, where a judge
 ordered him held in pre-trial detention, known in Turkey as tutuklama. [@1,3,5,8,12,14,16,18,19,22] He
-was sent to prison after the court order. [@2,3,4,9,10,11,12,17,20]
+was sent to prison after the court order. [@2,3,4,9,10,11,12,17,20,23]
 
 Officers seized 114 cannabis plants in pots, 1 kg 885 g of esrar (cannabis) in
 four transparent bags, another 105 g in two bags and 924 g of cannabis left to
 dry, along with the climate-control and lighting equipment, liquid fertilisers
-and chemicals. [@1,3,4,5,9,10,11,16,17,18,19,20,21,22] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8,10,12,13,15,22]
+and chemicals. [@1,3,4,5,9,10,11,16,17,18,19,20,21,22,23] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8,10,12,13,15,22]
 
 The operation followed about a month of physical surveillance, after which
 police said the basement had been converted into a cannabis greenhouse and
