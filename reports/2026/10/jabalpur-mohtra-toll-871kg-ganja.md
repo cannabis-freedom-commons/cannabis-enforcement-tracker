@@ -262,6 +262,11 @@ sources:
     publisher: Deshbandhu
     date: 2026-10-31
     language: hi
+  - title: कंटेनर में छिपाकर ले जाया जा रहा 871 किलो से अधिक गांजा जब्त, दो आरोपी गिरफ्तार - Divya Kirti
+    url: https://divyakirti.com/archives/20832
+    publisher: Divya Kirti
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -322,20 +327,22 @@ open_questions:
   - The submitted page carries one image file but no caption or credit, so it could not be confirmed to show this seizure and no media entry was added.
   - The page was published on 1 November 2026 while the existing report dates the interception to 31 October 2026; the accounts describe the same operation.
   - The page carries one image file but provides no caption or credit, so it could not be confirmed to show this seizure and no media entry was added from it.
+  - The Divya Kirti page gives no separate date for the interception; 1 November 2026 is its publication date, while the existing report dates the interception to 31 October 2026.
+  - The Divya Kirti page carries an image file without caption or credit, so it could not be confirmed to show this seizure and no media entry was added from it.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
 driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
-Jhansi, Uttar Pradesh. [@1,36] The two were identified as 45-year-old Dharamveer
+Jhansi, Uttar Pradesh. [@1,36,37] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
 [@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
@@ -367,7 +374,7 @@ Police took both arrested men on five-day remand and were questioning them about
 
 Dharamveer Singh had been caught in Odisha before, police said. [@14] The search for Prabhat Sahu, who had fled, was continuing. [@14] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14]
 
-Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16,27] Police also seized the container and the 412 paint tins. [@16,25]
+Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16,27] Police also seized the container and the 412 paint tins. [@16,25,37]
 
 The container's driver was also its owner and was allegedly supplying cannabis in several cities before passing through Jabalpur, CG MP News reported. [@21]
 
