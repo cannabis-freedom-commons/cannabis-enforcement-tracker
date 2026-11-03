@@ -71,6 +71,11 @@ sources:
     publisher: Senanews.id
     date: 2026-11-03
     language: id
+  - title: Tiga Kali Kirim Ganja ke Jakarta, Kurir Asal Sumut Raup Upah Rp1 Juta per Kg
+    url: https://id.headtopics.com/news/tiga-kali-kirim-ganja-ke-jakarta-kurir-asal-sumut-raup-89491559
+    publisher: Head Topics
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -95,6 +100,8 @@ open_questions:
   - The submitted page says YT had twice shipped cannabis from Mandailing Natal to Jakarta, while the existing report records two earlier July shipments plus the October load as his third; the shared supported account is at least two shipments from Mandailing Natal.
   - The submitted page states the charge carries a maximum 20 years in prison, while the existing report records five to 20 years from earlier sources, so the sentencing range continues to rely on earlier sources.
   - The page's featured image is captioned only with the article title and is not established to show the seized 44.1 kg cannabis, so no media entry is added.
+  - The submitted page names only the Tol Jagorawi area and gives the arrest date through the 31 October third shipment, so the exact rest-area point continues to rely on earlier sources
+  - The page's featured image is captioned only with the article subject and is not established to show the seized cannabis, so no media entry is added
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -109,8 +116,8 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5]
 
@@ -118,8 +125,8 @@ Police said the cannabis originated in Mandailing Natal and was moved by land
 across the Bakauheni-Merak ferry crossing. [@2,5,8,9] They said the load was intended
 for distribution in Depok and Tangerang. [@1,6,10] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
-the October load his third. [@1,5,7,8,9] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1,6,10]
+the October load his third. [@1,5,7,8,9,11] They said he was promised Rp 1 juta for each
+kilogram he carried. [@1,6,10,11]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
