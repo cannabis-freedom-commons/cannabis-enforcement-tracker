@@ -33,28 +33,33 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-03
     language: hi
+  - title: 'सहारनपुर: गंगोह पुलिस ने दो शातिर नशा तस्करों को किया गिरफ्तार, 206 ग्राम चरस बरामद'
+    url: https://royalbulletin.in/uttar-pradesh/saharanpur/saharanpur-police-arrests-two-drug-smugglers-with-206-grams-illegal-charas/article-251149
+    publisher: Royal Bulletin
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The Royal Bulletin account gives only its publication date of 3 November 2026; the 2 November 2026 arrest date comes from the Dainik Bhaskar account.
   - No street value or estimated market value for the seized charas was published.
   - No court outcome beyond production before the court was reported, and no result of the investigation into forward and backward contacts was reported.
+  - The new Royal Bulletin account gives only its publication date of 3 November 2026 and no separate arrest date; the 2 November 2026 arrest date in the existing report comes from the Dainik Bhaskar account.
 ---
 
 Gangoh police arrested two alleged drug traffickers, Rishipal and Oman, at
-Alampur Mor during checking and patrolling. [@1] Police identified them as
+Alampur Mor during checking and patrolling. [@1,3] Police identified them as
 Rishipal son of Gyan Singh and Oman son of Tellu, both residents of Taharpur
-village under Jhinjhana police station in Shamli district. [@1] The Gangoh
+village under Jhinjhana police station in Shamli district. [@1,3] The Gangoh
 police team was checking under the supervision of the Circle Officer, Gangoh and
-the leadership of station in-charge Rakesh Kumar. [@1] Senior officers directed
+the leadership of station in-charge Rakesh Kumar. [@1,3] Senior officers directed
 the drive, with the Superintendent of Police (Rural) and the Circle Officer,
 Gangoh monitoring the checking team. [@2]
 
 Police said they recovered a total of 206 grams of illegal charas, with 104
-grams found in Rishipal's possession and 102 grams in Oman's possession. [@1]
+grams found in Rishipal's possession and 102 grams in Oman's possession. [@1,3]
 Police registered a case at Gangoh police station as case number 496/26 under
-Section 8/20 of the NDPS Act. [@1] Police said both men were being produced
-before the court after completing legal formalities. [@1]
+Section 8/20 of the NDPS Act. [@1,3] Police said both men were being produced
+before the court after completing legal formalities. [@1,3]
 
 The arrests took place on 2 November 2026 as part of Operation Savera in the
 Saharanpur range. [@2] Police said they are investigating the men's forward and
 backward contacts in the drug trade. [@2]
-
