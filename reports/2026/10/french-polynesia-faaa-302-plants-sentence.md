@@ -33,27 +33,36 @@ sources:
     publisher: Tahiti Infos
     date: 2026-11-03
     language: fr
+  - title: Un habitant de Faa’a condamné à 18 mois de prison après la saisie de 302 pieds de cannabis et 13g d’ice
+    url: https://www.tntvnews.pf/polynesie/politique/un-habitant-de-faaa-condamne-a-18-mois-de-prison-apres-la-saisie-de-302-pieds-de-cannabis-et-13g-dice/
+    publisher: TNTV News - Tahiti Nui Télévision
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The exact raid and sentencing dates are inferred from relative dates in the article published 3 November 2026, which says the raid happened mercredi dernier and the hearing jeudi dernier, so 28 and 29 October 2026 are understood with 29 October used as the latest step.
   - Only one accessible source for this event was found after searching in French.
   - The 13 grams of methamphetamine and 470,500 Fcfp in cash are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No separate cannabis-only valuation was published; the cash figure is seized cash, not a drug value.
+  - The 1.4 kg of leaves is listed without stating that they are cannabis leaves, so no additional cannabis weight is recorded from it.
+  - TNTV calls the 13 g seizure ice while the existing report calls it methamphetamine; the local meaning of ice is left as reported.
+  - The page carries one image captioned only drogue saisie ok, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Gendarmes assisted by the Faa’a municipal police arrested one person at his
 private home in Faa’a during a joint operation linked to a judicial
-investigation into drug trafficking. [@1] Officers placed him in custody and
-then brought him before the tribunal in Papeete. [@1] The tribunal sentenced him
+investigation into drug trafficking. [@1,2] Officers placed him in custody and
+then brought him before the tribunal in Papeete. [@1,2] The tribunal sentenced him
 to 18 months of firm imprisonment and ordered his committal to prison under a
-mandat de dépôt, a committal order. [@1]
+mandat de dépôt, a committal order. [@1,2]
 
-Officers seized 302 cannabis plants during the search of the home. [@1] They
+Officers seized 302 cannabis plants during the search of the home. [@1,2] They
 also seized 382 grams of cannabis herb found with the plants during that same
-home search. [@1] The same search also recovered 13 grams of methamphetamine and
-470,500 Fcfp, CFP francs, in cash alongside the cannabis. [@1]
+home search. [@1,2] The same search also recovered 13 grams of methamphetamine and
+470,500 Fcfp, CFP francs, in cash alongside the cannabis. [@1,2]
 
 The home intervention took place on the Wednesday of the previous week. [@1] It
 formed part of a judicial enquiry specifically concerning drug trafficking. [@1]
 The custody, court appearance and sentencing followed, with the hearing held on
 the Thursday of that same week. [@1]
 
+The intervention in Faa’a occurred on 28 October. [@2] The individual was brought before the Papeete judicial court on 29 October. [@2] Officers also listed 1.4 kg of leaves among the items seized alongside the cannabis plants and herb. [@2]
