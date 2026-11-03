@@ -77,6 +77,11 @@ sources:
     publisher: Dikastiko.gr
     date: 2026-11-03
     language: el
+  - title: 'Δυτική Αττική: Συλλήψεις τριών νεαρών για διακίνηση ναρκωτικών. Βίντεο'
+    url: https://www.briefingnews.gr/ellada/dytiki-attiki-syllipseis-trion-nearon-gia-diakinisi-narkotikon-vinteo
+    publisher: BriefingNews
+    date: 2026-11-03
+    language: el
 open_questions:
   - The 520 grams of cocaine are excluded from cannabis figures under the substance scope; the cannabis total is 903 grams.
   - The 6,340 euros is seized cash, not a drug-value estimate, and is not counted in figures.
@@ -98,27 +103,29 @@ open_questions:
   - The submitted page gives only its publication date of 3 November 2026 and no separate date for the arrests, while the existing report dates the incident 29 October 2026 from other sources.
   - No media entry is added because the page's lead image is captioned only with the headline and the author portrait and embedded video do not establish by caption that they show this seizure.
   - No media entry is added because the page's lead image is a 2023 upload captioned only with the headline and does not establish that it shows this seizure.
+  - The BriefingNews article says the arrests happened last Saturday relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
+  - No media entry is listed because the page's lead image and embedded ERT screenshot are captioned only with the headline and do not establish that they show this seizure, and the embedded video has no caption establishing that it shows this seizure.
 ---
 
 Police arrested three youths aged 14, 17 and 21 in Petroupoli and Peristeri,
-western Athens, on 29 October 2026 on suspicion of drug trafficking. [@1,4,5,6,8,9,10]
+western Athens, on 29 October 2026 on suspicion of drug trafficking. [@1,4,5,6,8,9,10,13]
 Officers of the Attica General Police Directorate's Drug Immediate Response Unit
 made the arrests in morning and afternoon operations after acting on information
-about the youths' activity. [@3,7] Police say the three stored cocaine and
+about the youths' activity. [@3,7,13] Police say the three stored cocaine and
 cannabis at their homes, while the 21-year-old distributed the drugs, including
 to minors. [@1,4,6,7,11] Case files were opened against the three for drug, weapons and
 violence-against-officials offences as applicable, and they were taken before
-the competent prosecutor. [@1,12]
+the competent prosecutor. [@1,12,13]
 
 Searches of the suspects and their homes seized 44 grams of processed cannabis
-and 859 grams of unprocessed cannabis, a total of 903 grams. [@1,4,5,6,7,8,9,10,11,12] Police also
+and 859 grams of unprocessed cannabis, a total of 903 grams. [@1,4,5,6,7,8,9,10,11,12,13] Police also
 seized 520 grams of cocaine, a replica pistol, a butterfly knife, three
 precision scales, packaging materials, a notebook with handwritten notes, five
-mobile phones and 6,340 euros in cash. [@1,5,6,12] Officers also seized the motorcycle
+mobile phones and 6,340 euros in cash. [@1,5,6,12,13] Officers also seized the motorcycle
 the 21-year-old allegedly used to transport the drugs. [@1,8]
 
 The 21-year-old had hidden drugs inside a delivery-company box to conceal them.
 [@1,4,5,6,7,9,10,11,12] He also kept a specially modified vehicle key containing a hidden
-compartment for storing drugs. [@2,8,9,11,12]
+compartment for storing drugs. [@2,8,9,11,12,13]
 
 The 14- and 17-year-old suspects are brothers. [@11] Police expect examination of the five seized phones and the handwritten notebook to yield further evidence about the suspects' minor clientele. [@11]
