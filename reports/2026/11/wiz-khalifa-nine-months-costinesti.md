@@ -2,23 +2,19 @@
 added_at_source: git
 added_at: "2026-11-01T05:27:25.000Z"
 code: MC7Z44
-date: 2025-12-18
+date: 2026-11-03
 country: ro
 place: Costinești, Constanța County
 coordinates: [43.951, 28.635]
 precision: locality
-type: sentence
-also: [prosecution]
-title: Wiz Khalifa sentenced to nine months over on-stage cannabis at Beach Please
-summary: >-
-  The Constanța Court of Appeal sentenced American rapper Thomaz Cameron Jibril, known as Wiz Khalifa,
-  to nine months in prison on 18 December 2025 for unlawful possession of cannabis for personal use
-  after he smoked on stage at the Beach Please festival in Costinești in July 2024; prosecutors had
-  appealed a earlier fine and the ruling is final, with national search under way.
+type: prosecution
+also: [sentence]
+title: Wiz Khalifa's nine-month cannabis sentence annulled for retrial
+summary: On 3 November 2026 the Constanta Court of Appeal annulled American rapper Wiz Khalifa's final nine-month prison sentence for smoking cannabis on stage at the Beach Please festival in Costinesti and cancelled the prison warrant. Prosecutors' DIICOT appeal will be retried on 12 November 2026, with steps for Khalifa to join by videoconference.
 figures:
-  charged: 1
-  prison: 9 months
-  kg_seized: 0.01853
+    charged: 1
+    prison: 9 months
+    kg_seized: 0.01853
 created_by_model: cursor/composer-2.5
 status: verified
 tags: [costinesti, festival, appeal]
@@ -26,6 +22,9 @@ open_questions:
   - The rapper was sentenced in absentia and commentators said extradition from the United States was unlikely; no custody date has been reported.
   - BBC and Romanian outlets quoted 18 grams at the scene while prosecutors' minutes cited 18.53 grams possessed plus a joint smoked on stage.
   - The April 2025 tribunal fine of 3,600 lei was overturned entirely in favour of custody; confiscation details from the first judgment were not repeated in the appeal coverage opened here.
+  - The DIICOT appeal retrial scheduled for 12 November 2026 had not yet occurred at publication, so its outcome is not reported here.
+  - Only one source for this annulment step could be opened.
+  - The page carries an illustration whose caption does not establish what it depicts, so no media entry is listed.
 sources:
   - title: UPDATE - Rapperul Wiz Khalifa, condamnat la nouă luni de închisoare cu executare
     url: https://www.news.ro/justitie/update-rapperul-wiz-khalifa-condamnat-luni-inchisoare-executare-dupa-fumat-tigara-cannabis-scena-festivalului-beach-please-costinesti-decizia-curtii-apel-constanta-definitiva-dat-urmarire-1922403418002025121722278686
@@ -36,6 +35,11 @@ sources:
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
     publisher: BBC News
     date: 2025-12-18
+  - title: Condamnarea lui Wiz Khalifa, desființată de Curtea de Apel Constanța
+    url: https://www.oradesibiu.ro/2026/11/03/condamnarea-lui-wiz-khalifa-desfiintata-de-curtea-de-apel-constanta/
+    publisher: Ora de Sibiu
+    date: 2026-11-03
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -46,7 +50,7 @@ media:
 
 On Thursday 18 December 2025 the Constanța Court of Appeal upheld prosecutors' appeal and sentenced
 Thomaz Cameron Jibril, the American rapper Wiz Khalifa, to nine months in prison for possessing
-risk drugs for personal use. [@1,2] The court's final decision replaced an earlier tribunal fine of
+risk drugs for personal use. [@1,2,3] The court's final decision replaced an earlier tribunal fine of
 3,600 lei and ordered the term served in detention. [@1,2]
 
 Prosecutors said that on 13 July 2024, around 23:55, Jibril possessed 18.53 grams of cannabis and
@@ -59,3 +63,5 @@ perform abroad, and quoted criminologists who doubted the United States would ex
 Judges said the public consumption at a youth festival normalised illegal drug use. [@2]
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
+
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3] State-advanced court costs remain on him. [@3]
