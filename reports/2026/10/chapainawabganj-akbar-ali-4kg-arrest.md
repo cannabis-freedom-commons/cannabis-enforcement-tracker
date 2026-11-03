@@ -20,6 +20,11 @@ media:
     media_url: https://sarabangla.net/wp-content/uploads/2026/11/chapai-arrest-826x497.jpg
     publisher: Sarabangla
     caption: Photo labelled as seized cannabis from the Chapainawabganj arrest.
+  - kind: photo
+    url: https://www.eimattro.com/news/details/1793522830846/
+    media_url: https://api.eimattro.com/uploads/93fca526-a8bc-4f94-a920-8000fc15644a.jpg
+    publisher: Eimattro
+    caption: Photo labelled with the Chapainawabganj dwelling-house arrest with 4 kg of cannabis.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d112c9842a18b66b2d734b899f2964d0
@@ -30,26 +35,34 @@ sources:
     publisher: Sarabangla
     date: 2026-11-01
     language: bn
+  - title: চাঁপাইনবাবগঞ্জে বসতবাড়ি থেকে ৪ কেজি গাঁজাসহ আটক ১
+    url: https://www.eimattro.com/news/details/1793522830846/
+    publisher: Eimattro
+    date: 2026-11-01
+    language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English, so no second account corroborates the arrest.
   - No court outcome beyond the planned regular case was reported.
   - No seizure value was published, so no value figure can be recorded.
+  - The new account gives Saturday night without the 10 p.m. search end time in the earlier account; the report's timing is unchanged.
+  - A second image on the Eimattro page has no caption and cannot be established to show this seizure, so only the captioned arrest photo is listed as media.
 ---
 
 Officers of the Department of Narcotics Control detained 59-year-old Md. Akbar
 Ali in Chapainawabganj Sadar Upazila after accusing him of holding cannabis.
 [@1] Ali, a resident of Khinnitola Ganashapara village, was detained at his own
-dwelling house in that same village during the evening operation. [@1]
+dwelling house in that same village during the evening operation. [@1,2]
 Sub-Inspector Md. Mustafizur Rahman of the narcotics department, acting as
 complainant, is preparing a regular case against the detained man in connection
-with the recovery. [@1]
+with the recovery. [@1,2]
 
 The officers raided Ali's house in Gobratala Union's Khinnitola Ganashapara
 village on Saturday, 31 October, continuing the search of his home until 10 p.m.
-that night. [@1] During that house search, the officers recovered and seized 4
-kg of ganja, the Bengali word for cannabis, from the premises. [@1] The
+that night. [@1,2] During that house search, the officers recovered and seized 4
+kg of ganja, the Bengali word for cannabis, from the premises. [@1,2] The
 published account describes the raid as part of an ongoing anti-drug drive,
 citing concerned sources, and gives no seizure value or court result beyond the
 planned case. [@1] The account identifies Ali as the only detained person in the
 operation and reports no additional arrests at the house. [@1]
 
+A special Department of Narcotics Control team raided the house on secret information. [@2]
