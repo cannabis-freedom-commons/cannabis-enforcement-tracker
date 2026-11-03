@@ -35,16 +35,29 @@ sources:
     url: https://www.akelicious.net/police-uncover-high-tech-indoor-cannabis-farm-in-lagos-arrest-two-suspects/
     publisher: Akelicious
     date: 2026-11-03
+  - title: Lagos police uncover indoor cannabis farm in Apapa, arrest two
+    url: https://www.galaxytvonline.com/news/local-news/lagos-police-uncover-indoor-cannabis-farm-in-apapa-arrest-two
+    publisher: Galaxy TV
+    date: 2026-11-03
+  - title: Police Uncover Suspected Indoor Cannabis Farm In Lagos, Two Arrested
+    url: https://www.channelstv.com/2026/11/03/police-uncover-suspected-indoor-cannabis-farm-in-lagos-two-arrested/
+    publisher: Channels Television
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
   - The Command has not announced formal charges and has not disclosed whether additional arrests are anticipated.
   - Whether the photos on the source pages show this farm, the suspects or the inspection has not been established from their captions and alt text.
   - 'Left out, as its quotation was not found in Akelicious: Police said they found an elaborate indoor farming installation equipped for the cultivation, harvesting and processing of substances suspected to be cannabis.'
+  - The Channels Television account gives only its publication date of 3 November 2026 and no separate raid date or time; the 2 November 8:15 a.m. timing in the existing report relies on earlier sources.
+  - The Channels Television and Galaxy accounts do not name the two suspects; the names Thomas Razvickas and James Chisome in the existing report rely on earlier sources.
+  - No figure for the number of plants, weight of cannabis, equipment inventory value or facility value was published in these accounts.
+  - The submitted page's only image is captioned Lagos's New Commissioner of Police Tijani Fatai, a portrait of an official rather than the farm or raid, so no media entry is added.
+  - Channels Television describes seedlings grown in cups while Galaxy describes plants in black bags plus harvested bags and grow lights; whether these describe different stages of the same facility or differing accounts is unresolved.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
 and James Chisome, a 36-year-old Nigerian. [@1] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
@@ -66,3 +79,4 @@ Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
 
+The plants, which would take three months to mature, were allegedly cultivated for eventual sale in the illicit drug market. [@4] The young plants were grown in cups and, after germinating, were to be harvested and sold into society. [@4] The property manager reportedly told reporters that he only intended to help someone and had no plan to profit from the operation. [@3] Lagos State Commissioner of Police Tijani Fatai described the discovery as another breakthrough in the Command's fight against drug abuse and trafficking. [@4] The raid recovered cannabis plants growing in black bags, bags of harvested cannabis and cultivation equipment including grow lights. [@3]
