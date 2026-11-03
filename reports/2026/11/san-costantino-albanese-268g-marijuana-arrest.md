@@ -24,6 +24,11 @@ sources:
     publisher: Agenzia ANSA
     date: 2026-11-03
     language: it
+  - title: 'San Costantino Albanese, 43enne arrestato con marijuana e cocaina: sequestrati oltre 370 grammi di droga'
+    url: https://www.radiosenisecentrale.it/news/2026/11/03/san-costantino-albanese-43enne-arrestato-con-marijuana-e-cocaina-sequestrati-oltre-370-grammi-di-droga/
+    publisher: Radio Senise Centrale
+    date: 2026-11-03
+    language: it
 open_questions:
   - The article gives no separate date for the arrest; 3 November 2026 is its publication date and is used as the incident date.
   - The 109 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
@@ -34,13 +39,14 @@ open_questions:
 ---
 
 Carabinieri arrested a 43-year-old man in San Costantino Albanese, in the
-province of Potenza. [@1] Officers found 268 grams of marijuana and 109 grams of
+province of Potenza. [@1,2] Officers found 268 grams of marijuana and 109 grams of
 cocaine in his possession, the cocaine noted only to explain the mixed seizure.
-[@1]
+[@1,2]
 
 Inside the man's sports bag, officers found two precision scales and five
-packets containing drugs. [@1]
+packets containing drugs. [@1,2]
 
 The investigating judge of the Lagonegro court later validated the arrest and
-ordered the suspect held in pretrial custody in prison. [@1]
+ordered the suspect held in pretrial custody in prison. [@1,2]
 
+The operation was conducted by officers of the Terranova di Pollino station during a territorial control service arranged by the Senise Carabinieri company. [@2] Officers also found small-denomination banknotes in the bag with the drugs, scales and wrappers. [@2] On the order of the Lagonegro prosecutor, the man was taken to Potenza prison. [@2]
