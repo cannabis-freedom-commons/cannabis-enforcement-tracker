@@ -40,6 +40,11 @@ sources:
     publisher: nord24
     date: 2026-11-02
     language: de
+  - title: 'Hanower: Ponad 20 kilogramów narkotyków przejął niemiecki Zoll'
+    url: https://trybunapolska.pl/niemcy/hanower-ponad-20-kilogramow-narkotykow-przejal-niemiecki-zoll
+    publisher: Trybuna Polska
+    date: 2026-11-02
+    language: pl
 open_questions:
   - Only one source, the Zollfahndungsamt Hannover statement via Presseportal, was opened; no second report of the same event was found.
   - Cannabis weights are qualified as more than five kilograms of marijuana and about 150 grams of hashish, so 5.15 kg is an approximate lower bound.
@@ -49,25 +54,27 @@ open_questions:
   - Whether the lead photo of cannabis in a cupboard shows this seizure beyond its caption could not be independently established.
   - The Nord24 account gives no street value, so the existing about 300,000 euros estimate continues to rely on the Zollfahndungsamt statement alone.
   - The first Nord24 photo credited to Zoll appears to show the same agency handout already listed from Presseportal, so only the distinct cash-seizure photo is listed here.
+  - 'The page''s only image is labelled Fot: Pixabay / zdjęcie poglądowe, an illustrative stock photo, so no media entry is added.'
+  - 'Left out, as its quotation was not found in Trybuna Polska: The case began when Giessen customs officers found more than ten kilograms of marijuana in a postal parcel in July addressed to the 59-year-old from Hanover, leading to the October searches.'
 ---
 
 Customs investigators are investigating two Germans aged 59 and 25 on suspicion
-of dealing drugs commercially on a kilogram scale. [@1] Both suspects were
+of dealing drugs commercially on a kilogram scale. [@1,3] Both suspects were
 processed for identification and then released, and face prison sentences if
 convicted. [@1,2] The Hanover Customs Investigation Office is continuing the
 investigation on behalf of the Hanover public prosecutor's office. [@1]
 
 On 20 October 2026 investigators searched two flats in Hanover and seized large
 quantities of drugs and ketamine, which the office describes as a medicine
-misused as a drug. [@1,2] In the 59-year-old suspect's flat officers found more
+misused as a drug. [@1,2,3] In the 59-year-old suspect's flat officers found more
 than five kilograms of marijuana, about 150 grams of hashish, about one kilogram
 of cocaine and about three kilograms of ketamine, plus an irritant spray device.
-[@1,2] In the 25-year-old suspect's flat investigators seized 6,000 euros in cash
+[@1,2,3] In the 25-year-old suspect's flat investigators seized 6,000 euros in cash
 suspected to come from drug deals. [@1] The case began when Giessen customs
 officers found more than ten kilograms of marijuana in a postal parcel in July
 addressed to the 59-year-old from Hanover, leading to the October searches. [@1,2]
 The office puts the estimated street sale value of all the seized substances at
-about 300,000 euros. [@1]
+about 300,000 euros. [@1,3]
 
 The office said it reported the 20 October measures only now for tactical
 investigative reasons. [@1] Office head Monika Dennhardt said the seized
