@@ -82,6 +82,11 @@ sources:
     publisher: Kyiv1
     date: 2026-11-02
     language: ro
+  - title: 'Збували канабіс у коробках з-під собачих ласощів: у Києві затримали наркоділків'
+    url: https://uainfo.org/blognews/1793631205-zbuvali-kanabis-u-korobkah-z-pid-sobachih-lasoshchiv-u-kievi.html
+    publisher: UAINFO
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -96,12 +101,16 @@ open_questions:
   - The submitted page gives the 3.6 kg flat find but does not separately state the about-4 kg personal-search portion detailed in the existing report.
   - The submitted page gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The page lead image caption does not establish that it shows this seizure and the other listed images are advertising, so no media entry is added.
+  - The page gives only its publication date of 2 November 2026 and no separate date for the detentions and searches.
+  - The page states about 4 kg plus 3.6 kg without stating a combined total, so the 7.6 kg figure is the sum of the two stated parts while the existing report uses the stated 7 kg minimum.
+  - The page does not give the nine-package counts for each seizure cited in the existing report from the prosecutor's statement.
+  - The gallery captions repeat only the headline and do not establish that the images show this seizure, so no media entry is added.
 ---
 
 Prosecutors under the Podilskyi district prosecutor's office in Kyiv notified
 two 25-year-old Kyiv men of suspicion of illegal acquisition and storage of
-drugs for sale on an especially large scale under Part 3 of Article 307. [@1]
-Both suspects are in custody. [@1,5,6] Investigators say the men packed the drug
+drugs for sale on an especially large scale under Part 3 of Article 307. [@1,11]
+Both suspects are in custody. [@1,5,6,11] Investigators say the men packed the drug
 together for later sale to customers across Ukraine. [@1]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
@@ -113,8 +122,8 @@ total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 property. [@1,4,5,6,7]
 
 The pretrial investigation is being run by investigators of the Podilskyi police
-department in Kyiv with SBU operational support. [@1,4,6,8] Police say the men sold
+department in Kyiv with SBU operational support. [@1,4,6,8,11] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
-disguising parcels as household goods. [@3,4,7,10] One suspect was detained on a street
+disguising parcels as household goods. [@3,4,7,10,11] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
-dog-treat boxes. [@3,4,5,6,7,8]
+dog-treat boxes. [@3,4,5,6,7,8,11]
