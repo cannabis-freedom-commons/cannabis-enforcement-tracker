@@ -60,6 +60,16 @@ sources:
     publisher: CagliariToday
     date: 2026-11-02
     language: it
+  - title: 'Cagliari, blitz antidroga della Polizia: scattano sette arresti. Sequestrati 16 kg di sostanze stupefacenti'
+    url: https://www.affaritaliani.it/cronache/cagliari-blitz-antidroga-della-polizia-scattano-sette-arresti-sequestrati-16-kg-di-sostanze-stupefacenti.html
+    publisher: Affaritaliani.it
+    date: 2026-11-02
+    language: it
+  - title: Blitz antidroga polizia a Cagliari, 7 arresti e 16 kg di stupefacente
+    url: https://www.ansa.it/sardegna/notizie/2026/11/02/blitz-antidroga-polizia-a-cagliari-7-arresti-e-16-kg-di-stupefacente_747b6550-5574-41c7-82c0-5a37e755c849.html
+    publisher: ANSA
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -78,19 +88,22 @@ open_questions:
   - The page lists a droga-nel-frigo image with empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
   - The submitted page gives only the combined figure of about 16 kg of mixed substances including cocaine, so the separable cannabis total continues to rely on earlier sources.
   - Whether the two page photos show this seizure could not be established from their captions, so no media entry is added.
+  - The submitted page describes the Quartu Sant'Elena seizure as over 300 grams of mixed hashish and marijuana, while ANSA gives 320 grams and the existing report uses more than 320 grams.
+  - The combined about-16-kg total covers hashish, marijuana and cocaine together, so only separately stated cannabis items can be counted as cannabis.
+  - The page's only listed image is a January 2026 polizia-roma photo captioned with the headline and does not show this event, so no media entry is listed.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1,2,3,4,8] On 9 October investigators arrested a 19-year-old from Elmas
-carrying about 70 grams of cannabis. [@1,2,4] On 15 October officers stopped a
+Quartucciu. [@1,2,3,4,8,9] On 9 October investigators arrested a 19-year-old from Elmas
+carrying about 70 grams of cannabis. [@1,2,4,9] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
 6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3,5,6,7] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1,2,3,4,8] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2,3,4,8,10] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
-for retail and supply to other dealers. [@1,8]
+for retail and supply to other dealers. [@1,8,9]
 
 On 27 October police arrested a young man in Quartu Sant'Elena after finding
 more than 320 grams of hashish and marijuana under his bed together with 6,000
