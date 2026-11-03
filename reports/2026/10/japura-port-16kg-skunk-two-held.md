@@ -46,6 +46,11 @@ sources:
     publisher: Politiza Amazonas
     date: 2026-11-01
     language: pt
+  - title: Polícia apreende 16 kg de skunk escondidos em embarcação no interior do Amazonas - O Chefão da Notícia
+    url: https://ochefaodanoticia.com.br/policia/policia-apreende-16-kg-de-skunk-escondidos-em-embarcacao-no-interior-do-amazonas/
+    publisher: O Chefão da Notícia
+    date: 2026-11-03
+    language: pt
 open_questions:
   - The 16 kg figure is approximate and no independent weighing is reported.
   - The names of the two arrested men were not published.
@@ -53,24 +58,24 @@ open_questions:
   - The incident day is given only as Saturday (31); 31 October 2026 is inferred from the 1 November 2026 publication date.
   - A second image on the submitted page carries no caption, so whether it shows this seizure could not be established and it is omitted.
   - The Politiza Amazonas account credits Imediato Online and reproduces its photo, adding no independent photography.
+  - 'Left out, as its quotation was not found in O Chefão da Notícia: One suspect said he knew he was carrying drugs and would receive between R$1,000 and R$1,500 to look after the material.'
 ---
 
 Police arrested two 39-year-old men at the port of Japurá in inland Amazonas on
-Saturday 31 October 2026. [@3] Both men were taken to the 59th Interactive
-Police Station, the 59ª DIP, where legal procedures were carried out. [@1] One
+Saturday 31 October 2026. [@3,4] Both men were taken to the 59th Interactive
+Police Station, the 59ª DIP, where legal procedures were carried out. [@1,4] One
 suspect said he knew he was carrying drugs and would receive between R$1,000 and
 R$1,500 to look after the material. [@1] The second man denied involvement and
-said he did not know drugs were on the boat. [@1]
+said he did not know drugs were on the boat. [@1,4]
 
-The operation seized about 16 kilograms of skunk-type marijuana. [@3] Officers
+The operation seized about 16 kilograms of skunk-type marijuana. [@3,4] Officers
 found the drugs in a black bag hidden inside one of the boat's flotation buoys,
-a compartment that was completely full of water. [@1] Police said the load was
-bound for Manaus, the Amazonas state capital. [@2]
+a compartment that was completely full of water. [@1,4] Police said the load was
+bound for Manaus, the Amazonas state capital. [@2,4]
 
 The action was carried out by the Amazonas Civil Police through the 59th DIP,
-with support from the Military Police and the Municipal Civil Guard. [@1]
+with support from the Military Police and the Municipal Civil Guard. [@1,4]
 Delegate Jandervan Rocha said teams began checks after an anonymous report that
-a vessel was carrying drugs hidden in its structure. [@2] The seized drugs will
+a vessel was carrying drugs hidden in its structure. [@2,4] The seized drugs will
 undergo forensic examination while investigations continue to clarify each
-detainee's role and identify possible members of a criminal organization. [@1]
-
+detainee's role and identify possible members of a criminal organization. [@1,4]
