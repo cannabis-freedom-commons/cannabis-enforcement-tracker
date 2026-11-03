@@ -39,6 +39,11 @@ sources:
     publisher: Diario ABC
     date: 2026-11-02
     language: es
+  - title: Siete detenidos en un golpe a una red de narcos de Mataró que tenía un arsenal de armas - Infobae
+    url: https://www.infobae.com/espana/agencias/2026/11/02/siete-detenidos-en-un-golpe-a-una-red-de-narcos-de-mataro-que-tenia-un-arsenal-de-armas/?outputType=amp-type
+    publisher: Infobae
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the raid; the incident date uses the publication date.
   - The several localities in Barcelona province where the group allegedly operated are not named.
@@ -50,9 +55,9 @@ open_questions:
 
 National Police officers with Mataró Local Police carried out an anti-drug
 operation in the province that ended with the detention of seven people and the
-seizure of 3,000 marijuana plants. [@1,2,3] The operation dismantled an alleged
+seizure of 3,000 marijuana plants. [@1,2,3,4] The operation dismantled an alleged
 criminal organisation dedicated to indoor cultivation and later distribution of
-the drug on the European black market. [@1] The seven detainees are under
+the drug on the European black market. [@1,4] The seven detainees are under
 investigation for alleged offences against public health, unlawful possession of
 weapons, electricity fraud and membership of a criminal group. [@1] All seven
 have been placed at the disposal of the courts. [@1]
@@ -62,7 +67,7 @@ complete infrastructure for indoor marijuana cultivation. [@1] The seized
 material included 3,000 marijuana plants and one kilogram of buds, two 9 mm
 pistols with semi-jacketed ammunition, a replica pistol, an AK-47 rifle, five
 frequency jammers, two knuckle-dusters, several extendable batons and a baseball
-bat. [@1,2,3] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
+bat. [@1,2,3,4] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
 and abundant material used for indoor plantation cultivation. [@1,2]
 
 Investigators say the organisation operated in several localities in Barcelona
