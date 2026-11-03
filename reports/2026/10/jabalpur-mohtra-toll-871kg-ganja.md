@@ -184,6 +184,10 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-31
     language: hi
+  - title: Police Bust Smuggling Racket In Madhya Pradesh, Arrest 2 People With 871 Kg Cannabis
+    url: https://www.etvbharat.com/amp/en/state/police-bust-drug-smuggling-racket-in-madhya-pradesh-enn26103104677
+    publisher: ETV Bharat
+    date: 2026-10-31
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -215,6 +219,7 @@ open_questions:
   - The Vocal TV account is a Hindustan Samachar copy by Mukesh Tomar and repeats the police version; it is not independent reporting.
   - The page's only photograph is an uncaptioned group picture of police personnel, so it was not added to media.
   - The Daily Thanthi account values the seized cannabis at ₹4.30 crore, below the ₹4.35 crore figure the report uses.
+  - The opened ETV Bharat English account values the consignment at over Rs 4.3 crore, without giving the precise Rs 4,35,55,000 figure used in the existing report.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -223,18 +228,18 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23]
+Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
-[@1,12,16,19] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,12,16,19,24] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22] The driver and the other man tried to flee but were caught, police
+plaza. [@1,16,19,22,24] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2]
 
@@ -254,7 +259,7 @@ The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the op
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5,18] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
-The container's registration number was NL-01-AC-7191, police said. [@9]
+The container's registration number was NL-01-AC-7191, police said. [@9,24]
 
 Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10]
 
@@ -263,3 +268,5 @@ Dharamveer Singh had been caught in Odisha before, police said. [@14] The search
 Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16] Police also seized the container and the 412 paint tins. [@16]
 
 The container's driver was also its owner and was allegedly supplying cannabis in several cities before passing through Jabalpur, CG MP News reported. [@21]
+
+The case was registered under Sections 8/20 and 29 of the Narcotic Drugs and Psychotropic Substances Act. [@24]
