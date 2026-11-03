@@ -29,6 +29,11 @@ sources:
     publisher: Região em Destake
     date: 2026-11-03
     language: pt
+  - title: Homem é preso com cocaína e maconha em Ibaté
+    url: https://jornalpp.com.br/noticias/policia/homem-e-preso-com-cocaina-e-maconha-em-ibate/
+    publisher: Jornal Primeira Página
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the six suspected marijuana portions, so no cannabis quantity can be recorded.
   - The 18 suspected cocaine pins are not cannabis and are excluded from cannabis figures.
@@ -37,19 +42,21 @@ open_questions:
   - The suspect was not named and no age or address was published.
   - No court outcome beyond flagrante booking and custody at the disposal of the courts was reported.
   - Only one accessible source for this event was found after searching in Portuguese.
+  - The new outlet names the substances directly as cocaine and marijuana while the existing report records them as suspected pending forensic confirmation.
+  - The Jornal Primeira Página page carries an image file without a caption or credit establishing it shows this seizure, so no media entry is added for it.
 ---
 
 A Guarda Civil Municipal patrol arrested a man in flagrante on suspicion of drug
-trafficking in Jardim América, Ibaté, after he tried to flee from officers. [@1]
+trafficking in Jardim América, Ibaté, after he tried to flee from officers. [@1,2]
 The team was on preventive patrol in Jardim América when the man began running
-as the patrol vehicle approached. [@1] During the flight, he discarded a bag in
+as the patrol vehicle approached. [@1,2] During the flight, he discarded a bag in
 a public litter bin on the street, and guards detained him a few metres ahead.
 [@1] Officers needed to use handcuffs during the security procedures to protect
 the safety of the agents and the detained man. [@1]
 
 Inside the discarded bag, agents found 18 pins containing a substance described
 as similar to cocaine and six portions of material described as similar to
-marijuana. [@1] Officers also seized R$5.15 in cash during the action on Rua
+marijuana. [@1,2] Officers also seized R$5.15 in cash during the action on Rua
 Benedito Arruda Camargo. [@1] The occurrence was recorded at about 19h50 on Rua
 Benedito Arruda Camargo. [@1] The cannabis component recorded here is the six
 suspected marijuana portions, while the suspected cocaine is mentioned only to
@@ -59,7 +66,6 @@ The man was first taken to Ibaté Municipal Hospital for a forensic medical
 examination and then to the Civil Police station in São Carlos for presentation
 to the police authority. [@1] After reviewing the facts, the police authority
 ordered his flagrante booking for the crime of drug trafficking, and he remained
-in custody at the disposal of the courts. [@1] The operation was described as
+in custody at the disposal of the courts. [@1,2] The operation was described as
 part of the Ibaté municipal guards' preventive patrol work against crime and the
 illegal drug trade in the city's neighbourhoods. [@1]
-
