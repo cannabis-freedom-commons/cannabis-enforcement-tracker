@@ -30,18 +30,28 @@ sources:
     url: https://ktul.com/news/local/ryan-bassham-arrested-in-connection-with-deadly-sand-springs-explosion
     publisher: KTUL
     date: 2026-08-30
+  - title: Marijuana business owner charged with murder after Oklahoma explosion kills 2
+    url: https://www.livenowfox.com/news/marijuana-business-owner-charged-murder-after-oklahoma-explosion-kills-2
+    publisher: LiveNOW from FOX
+    date: 2026-09-01
+  - title: Owner of THC extraction facility charged with murder after explosion kills 2 workers
+    url: https://www.kbtx.com/2026/09/01/owner-thc-extraction-facility-charged-with-murder-after-explosion-kills-2-workers
+    publisher: KBTX
+    date: 2026-08-31
 open_questions:
   - Public Radio Tulsa says Bassham surrendered Saturday while KTUL says he surrendered and was booked Sunday; 30 August 2026 is used as the arrest date.
   - No cannabis weight, plant count or seizure value was published in the opened reporting.
   - No event photo with a recoverable direct media address was identified in the opened pages, so no media entry is listed.
   - The investigation was described as still ongoing with no reported court outcome beyond bonding out.
+  - The submitted page writes Solo Extracts while the existing report writes Solos Extracts LLC.
+  - The submitted page's only image is a Tulsa County Sheriff's Office mug-shot portrait of Bassham, not an event photo, so no media entry is listed.
 ---
 
 Ryan Bassham surrendered to authorities after the Tulsa County District
-Attorney's Office filed an arrest warrant for him. [@2] He was booked into the
-Tulsa County jail after surrendering to sheriff's deputies. [@3] He bonded out
+Attorney's Office filed an arrest warrant for him. [@2,4] He was booked into the
+Tulsa County jail after surrendering to sheriff's deputies. [@3,5] He bonded out
 on two counts of felony murder in the first degree in the commission of a crime.
-[@2] His bail totaled $2 million. [@2] Employee Stephen Scott died at the scene.
+[@2] His bail totaled $2 million. [@2,4] Employee Stephen Scott died at the scene.
 [@3] Michael Newman was critically injured in the explosion and later died from
 his injuries. [@3]
 
@@ -49,7 +59,7 @@ The case was listed as an arrest following an explosion at a medical marijuana
 extraction business. [@1] The explosion happened in the early hours of Aug. 27
 at a marijuana extraction business that may have used burnable gases such as
 butane or propane to extract THC. [@2] Bassham had taken over the business,
-called Solos Extracts LLC, earlier this year. [@3]
+called Solos Extracts LLC, earlier this year. [@3,4]
 
 The city's fire marshal had instructed the business to halt work until
 discrepancies were fixed, which it had not done. [@2] Investigators said Bassham
@@ -57,3 +67,4 @@ never applied for a new OBN registration under his name as required by law. [@3]
 State investigators said they believed he was therefore illegally manufacturing
 a controlled and dangerous substance. [@3]
 
+No one else was harmed in the explosion, but multiple nearby businesses were damaged. [@4]
