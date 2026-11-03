@@ -87,6 +87,11 @@ sources:
     publisher: UAINFO
     date: 2026-11-02
     language: uk
+  - title: 藏匿于麦片盒和狗粮中的违禁品：基辅查获违禁品销售案件
+    url: https://kyiv1.com/zh-CN/shovaly-v-korobkah-z-pid-plastivciv-i-sobachyh-lasoschiv-zbut-zaboronenyh-rechovyn-nalahodyly-u-kyevi/
+    publisher: Kyiv1
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -105,18 +110,21 @@ open_questions:
   - The page states about 4 kg plus 3.6 kg without stating a combined total, so the 7.6 kg figure is the sum of the two stated parts while the existing report uses the stated 7 kg minimum.
   - The page does not give the nine-package counts for each seizure cited in the existing report from the prosecutor's statement.
   - The gallery captions repeat only the headline and do not establish that the images show this seizure, so no media entry is added.
+  - The submitted page values the haul at about 30,000 hryvnias as written, against about 3 million hryvnias in the existing report, so the existing official figure is unchanged.
+  - The submitted page does not state the nine-package counts, Darnytskyi and Pecherskyi districts, custody, suspicion notification or Article 307 charge detailed in the existing report.
+  - The lead image caption repeats only the headline and the other listed images are advertising, so no media entry is added.
 ---
 
 Prosecutors under the Podilskyi district prosecutor's office in Kyiv notified
 two 25-year-old Kyiv men of suspicion of illegal acquisition and storage of
 drugs for sale on an especially large scale under Part 3 of Article 307. [@1,11]
 Both suspects are in custody. [@1,5,6,11] Investigators say the men packed the drug
-together for later sale to customers across Ukraine. [@1]
+together for later sale to customers across Ukraine. [@1,12]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
 during a personal search. [@1,4] Officers then identified his accomplice and a
 flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,6,9] They seized
-nine more vacuum packages weighing over 3.6 kg there. [@1,4] Prosecutors put the
+nine more vacuum packages weighing over 3.6 kg there. [@1,4,12] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 [@2,5,10] If proved, the charge carries up to 12 years in prison with confiscation of
 property. [@1,4,5,6,7]
@@ -124,6 +132,6 @@ property. [@1,4,5,6,7]
 The pretrial investigation is being run by investigators of the Podilskyi police
 department in Kyiv with SBU operational support. [@1,4,6,8,11] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
-disguising parcels as household goods. [@3,4,7,10,11] One suspect was detained on a street
+disguising parcels as household goods. [@3,4,7,10,11,12] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
 dog-treat boxes. [@3,4,5,6,7,8,11]
