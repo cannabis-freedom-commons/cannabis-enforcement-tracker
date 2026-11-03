@@ -53,6 +53,16 @@ sources:
     publisher: TAG24
     date: 2026-11-03
     language: de
+  - title: 'HZA-DD: Leipzig: Gemeinsamer Einsatz zur Bekämpfung von Clankriminalität'
+    url: https://www.nachrichten-heute.net/1779899-hza-dd-leipzig-gemeinsamer-einsatz-zur-bekaempfung-von-clankriminalitaet.html
+    publisher: nachrichten-heute.net
+    date: 2026-11-03
+    language: de
+  - title: Gemeinsamer Einsatz zur Bekämpfung von Clankriminalität
+    url: https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Schwarzarbeitsbekaempfung/2026/x78_bekaempfung_clankriminalitaet_dd.html
+    publisher: Hauptzollamt Dresden
+    date: 2026-11-03
+    language: de
 open_questions:
   - No separate weight for the marijuana, hashish or other narcotics was published, so no cannabis weight is counted and the combined larger quantity is omitted from the figures.
   - The six kilograms of water-pipe tobacco is a tobacco-tax seizure and is excluded from cannabis figures.
@@ -67,17 +77,17 @@ clan crime. [@1] The reported target was the Anatolia Star Bar at the corner of
 Eisenbahnstraße and Konstantinstraße. [@3] Officers arrived around 22:00,
 according to TAG24 information. [@3] Customs units were joined by Saxony's LKA,
 federal police, tax investigators, Leipzig police and the city order service.
-[@2] Around 200 officers took part jointly in the operation. [@2] Police
+[@2] Around 200 officers took part jointly in the operation. [@2,4] Police
 reported 122 identity checks. [@2]
 
 The checks began in the afternoon and covered twelve premises mainly in eastern
-Leipzig. [@2] Those premises were bars, shisha bars and retail shops. [@2]
+Leipzig. [@2,4] Those premises were bars, shisha bars and retail shops. [@2]
 Officers recorded violations of the narcotics and consumer cannabis law in seven
-cases. [@3] They also recorded eight violations of residence law. [@2] Three
+cases. [@3,5] They also recorded eight violations of residence law. [@2] Three
 violations of weapons law were recorded. [@2] Customs officers seized six
 kilograms of untaxed water-pipe tobacco in one property. [@2] In a Leipzig
 prosecution inquiry over suspected drug trafficking, a commercial building on
-Eisenbahnstraße was searched. [@2] Larger quantities of narcotics were found
+Eisenbahnstraße was searched. [@2,4] Larger quantities of narcotics were found
 there and passed to LKA Saxony for further handling. [@2] Radio Leipzig
 described the find as larger quantities of marijuana and other drugs. [@1]
 
@@ -85,4 +95,3 @@ Customs said the operation also aimed to gather cross-offence and cross-agency
 intelligence on clan activities and unlawful structures. [@2] The Clan task
 force was set up at the LKA in 2023 and focuses on the greater Leipzig area.
 [@1]
-
