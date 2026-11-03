@@ -29,6 +29,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-03
     language: fr
+  - title: 'Sousse : Saisie de 500gr cannabis'
+    url: https://www.mosaiquefm.net/amp/fr/national-tunisie/1535541/sousse-saisie-de-500gr-cannabis
+    publisher: Mosaique FM
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The article gives no separate date for the raid; 3 November 2026 is the publication date and is used as the incident date.
   - The cannabis weight is reported as approximate, about half a kilogram, not an exact laboratory weight.
@@ -42,14 +47,14 @@ open_questions:
 ---
 
 Sousse's regional anti-drug brigade detained three people, including a foreign
-national, in a security operation. [@1,2] The operation consisted of a raid on a
+national, in a security operation. [@1,2,3] The operation consisted of a raid on a
 house located in the El Aouina neighbourhood. [@1] After consulting the Public
 Prosecution, the prosecution ordered the three suspects to be held pending
 investigation to continue inquiries and complete the necessary legal procedures.
-[@1,2]
+[@1,2,3]
 
 The search seized about half a kilogram of cannabis, described as cannabis herb.
-[@1,2] Officers also seized a quantity of narcotic pills alongside the cannabis.
+[@1,2,3] Officers also seized a quantity of narcotic pills alongside the cannabis.
 [@1,2] They also seized a weighing scale suspected of being used in dealing
 activity and a sum of money suspected of being linked to that activity. [@1,2]
 
