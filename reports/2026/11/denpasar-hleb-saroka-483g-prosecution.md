@@ -40,6 +40,11 @@ sources:
     publisher: NusaBali
     date: 2026-11-03
     language: id
+  - title: Bawa 483 Gram Ganja dan 33 Gram Kokain, WNA Belarus Dituntut 9 Tahun Penjara
+    url: https://radarbadung.jawapos.com/amp/hukum-kriminal/2611030006/bawa-483-gram-ganja-dan-33-gram-kokain-wna-belarus-dituntut-9-tahun-penjara
+    publisher: Radar Badung
+    date: 2026-11-03
+    language: id
 open_questions:
   - The nine-year prison term and Rp100 million fine are the prosecutor's demand; no verdict or sentence has been reported, with a defence plea expected at the next hearing.
   - Radar Badung reports the fine's subsidiary as one year's imprisonment, while NusaBali reports 60 days if the fine is unpaid, with payment within one month; the report follows the subsidiary account but omits it from figures because no sentence has been imposed.
@@ -50,12 +55,12 @@ open_questions:
   - 'Left out, as its quotation was not found in NusaBali: His counsel said the foreign national has no family or friends assisting him in Indonesia and was confused about what steps to take.'
 ---
 
-Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1] The
+Prosecutor Finna Wulandari demanded nine years' imprisonment for him. [@1,3] The
 prosecution also sought a Rp100 million fine. [@2] His lawyer Lukman Hakim said
 he will prepare a defence plea responding to the demand. [@2]
 
 Officers searching the package found seven packs of dried leaves suspected to be
-cannabis. [@2] Officers searching his lodging found a small clip plastic of
+cannabis. [@2,3] Officers searching his lodging found a small clip plastic of
 white powder containing cocaine inside his Adidas shoe. [@2] Weighing recorded
 483.5 grams net (525.8 grams gross) of cannabis and 33.69 grams net (34.56 grams
 gross) of cocaine. [@2] Bali Police forensic laboratory tests confirmed the
@@ -67,4 +72,3 @@ wanted, contacted Saroka to say he would send a package. [@2] Denpasar police
 officers acting on a public tip about a suspicious package secured Saroka when
 he came to take it. [@2] His urine tested positive for Ecgonine Methyl Ester, a
 metabolite of cocaine. [@2]
-
