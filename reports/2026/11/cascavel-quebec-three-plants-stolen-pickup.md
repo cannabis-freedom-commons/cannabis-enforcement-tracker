@@ -31,10 +31,16 @@ sources:
     publisher: Cascavel Diário
     date: 2026-11-02
     language: pt
+  - title: Três pés de maconha e caminhonete clonada são apreendidos em Cascavel
+    url: https://taroba.com.br/noticias/cidade/tres-pes-de-maconha-e-caminhonete-clonada-sao-apreendidos-em-cascavel/amp
+    publisher: Portal Tarobá
+    date: 2026-11-02
+    language: pt
 open_questions:
   - No arrests were reported and those responsible for the vehicle and the plants were not identified.
   - No laboratory result, weight or disposal details for the three plants were reported.
   - What happened after referral to the 15th Police Subdivision was not reported.
+  - The submitted account describes the plants as seen inside a residence, while the existing report describes a plot near a residence and a yard; both place the seizure in Bairro Quebec, Cascavel on the same day.
 ---
 
 A Military Police Shock Platoon team was patrolling in Loteamento Quebec, in the
@@ -45,7 +51,7 @@ arrested during the operation and those responsible for the vehicle and the
 plants had not been identified. [@1]
 
 During the inspection of the ground, officers located three cannabis plants,
-known locally as maconha. [@1] The second account identifies the seized vehicle
+known locally as maconha. [@1,3] The second account identifies the seized vehicle
 as a Volkswagen Amarok found in the yard with cloned plates. [@2] A records
 check showed the pickup had a theft-or-robbery record in Rio Grande do Sul,
 while its plates belonged to a different, black pickup. [@1] The pickup was
@@ -53,6 +59,5 @@ stripped, missing its engine, bumpers and tailgate, with other parts also
 removed. [@1]
 
 The three plants and the pickup were seized and sent to the 15th Police
-Subdivision of Cascavel for the applicable legal procedures. [@2] The occurrence
-was recorded in the late afternoon of Monday, 2 November 2026. [@2]
-
+Subdivision of Cascavel for the applicable legal procedures. [@2,3] The occurrence
+was recorded in the late afternoon of Monday, 2 November 2026. [@2,3]
