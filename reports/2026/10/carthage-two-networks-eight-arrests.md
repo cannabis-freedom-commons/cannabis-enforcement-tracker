@@ -29,22 +29,27 @@ sources:
     publisher: رياليتي
     date: 2026-10-30
     language: ar
+  - title: الإطاحة بشبكتين لترويج المخدرات بهذه الجهة وإيقاف 8 أشخاص.. | المصدر تونس
+    url: https://ar.webmanagercenter.com/2026/10/30/429821/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D9%87%D8%B0%D9%87/
+    publisher: المصدر تونس
+    date: 2026-10-30
+    language: ar
 open_questions:
   - No separate date for the operation is stated; 30 October 2026 is the publication date of both accounts.
   - Neither account gives a weight for the one and a half plates and 25 pieces of zatla, or an amount for the cash.
   - No one is named, and no charge or court outcome is stated.
   - The pictures on the cited pages are older stock images, not photographs of this seizure, so none is listed.
+  - The page's arrest photo is served from a 2024 file path with no caption tying it to this Carthage operation, so no media entry is included.
 ---
 
 Security units of the National Security District of Carthage broke up two
-networks dealing drugs and arrested eight people. [@1] Réalités, citing the
+networks dealing drugs and arrested eight people. [@1,3] Réalités, citing the
 Tunis Afrique Presse agency, reported the same dismantling of two dealing
 networks and the same eight arrests. [@2] Among those held was a foreign woman
 from a Maghreb country, and four people wanted in connection with theft and
-robbery cases. [@1] Réalités said arrest warrants had been issued for those four
+robbery cases. [@1,3] Réalités said arrest warrants had been issued for those four
 over theft and robbery cases. [@2]
 
 The operation seized one and a half plates of Indian cannabis, called zatla, and
-25 pieces of the same substance. [@1] Officers also took 5 grams of cocaine and
-sums of money they suspected were proceeds of dealing. [@2]
-
+25 pieces of the same substance. [@1,3] Officers also took 5 grams of cocaine and
+sums of money they suspected were proceeds of dealing. [@2,3]
