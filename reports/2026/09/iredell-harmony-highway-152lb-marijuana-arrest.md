@@ -30,11 +30,16 @@ sources:
     url: https://www.iredellfreenews.com/news-features/2026/sheriff-charlotte-man-faces-drug-trafficking-charges-after-icso-deputies-find-more-than-150-pounds-of-marijuana-in-vehicle
     publisher: Iredell Free News
     date: 2026-09-22
+  - title: Iredell Deputies Seize 152 Pounds of Marijuana During Traffic Stop
+    url: https://whky.com/iredell-deputies-seize-152-pounds-of-marijuana-during-traffic-stop/
+    publisher: WHKY
+    date: 2026-09-22
 open_questions:
   - The submitted WSOC-TV page could not be read because it returned an Error 451 location block, so this report relies on two other accessible reports of the same event.
   - No direct image addresses could be recovered for the sheriff's-office photos described on the source pages, so no media entry is listed.
   - The reports give no count for the ecstasy pills seized.
   - No court outcome beyond the charges and bonds is reported.
+  - 'Left out, as its quotation was not found in WHKY: Boxes in the vehicle held approximately 150 pounds of marijuana along with 2.74 pounds of marijuana wax.'
 ---
 
 Iredell County Sheriff Darren Campbell announced the arrest of Clarence Edgar
@@ -47,11 +52,10 @@ paraphernalia, impaired-driving and traffic offenses. [@2]
 
 Boxes in the vehicle held approximately 150 pounds of marijuana along with 2.74
 pounds of marijuana wax. [@2] In total deputies seized approximately 152 pounds
-of marijuana and marijuana products. [@2] The sheriff's office put the estimated
-street value of the marijuana products at about $225,000. [@1]
+of marijuana and marijuana products. [@2,3] The sheriff's office put the estimated
+street value of the marijuana products at about $225,000. [@1,3]
 
 Deputies also found a loaded handgun in a backpack, ecstasy pills, an open
 alcohol container, more than $5,000 in cash and vacuum-sealed marijuana
-packages. [@2] A magistrate set a $200,000 secured bond on the drug and firearm
+packages. [@2,3] A magistrate set a $200,000 secured bond on the drug and firearm
 charges and another $2,500 on the impaired-driving charge. [@2]
-
