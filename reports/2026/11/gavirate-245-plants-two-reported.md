@@ -76,6 +76,11 @@ sources:
     publisher: Varesenoi.it
     date: 2026-11-02
     language: it
+  - title: Scoperte 245 piante di marijuana in un’azienda agricola di Gavirate | denunciati i due titolari
+    url: https://www.zazoom.it/2026-11-02/scoperte-245-piante-di-marijuana-in-unazienda-agricola-di-gavirate-denunciati-i-due-titolari/19874703/
+    publisher: Zazoom Social News
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -97,10 +102,10 @@ open_questions:
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3,4,5,6,7,8,9] All 245 plants were seized and placed at
+marijuana cultivation in Gavirate. [@1,3,4,5,6,7,8,9,10] All 245 plants were seized and placed at
 the disposal of the judicial authority for further steps. [@2,3,6,7,8,9] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3,4,5,6,7,8,9]
+liberty for cultivating narcotic substances. [@1,3,4,5,6,7,8,9,10]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
 approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from about
@@ -108,7 +113,7 @@ approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from ab
 [@1] Laboratory tests found a THC concentration above the limits in force,
 giving the matter criminal relevance. [@1,3,5,9] Investigators estimated that, once
 growth and processing were complete, the crop could have been worth more than
-500,000 euros. [@1,3,4,5,8,9]
+500,000 euros. [@1,3,4,5,8,9,10]
 
 Investigators traced the cultivation to a farm formally operating in the
 aromatic- and medicinal-plant sector. [@1,8] Officers then checked
