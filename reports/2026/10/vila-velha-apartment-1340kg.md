@@ -66,6 +66,11 @@ sources:
     publisher: Diário do Estado
     date: 2026-10-30
     language: pt
+  - title: Mais de 1,3 tonelada de maconha é apreendida em apartamento em Vila Velha (ES); três são presos
+    url: https://sudesteagora.com.br/mais-de-13-tonelada-de-maconha-e-apreendida-em-apartamento-em-vila-velha-es-tres-sao-presos/
+    publisher: Sudeste Agora
+    date: 2026-10-30
+    language: pt
 open_questions:
   - Folha Vitória, published on the night of the raid, reported that two men were detained, while G1 and ES Hoje, citing the Military Police, named three people, including Cleidileia Firmino; this report uses the three-person account.
   - No charge or court outcome for the three has been reported.
@@ -79,12 +84,15 @@ open_questions:
   - Diário do Estado said the Military Police command estimated the street loss at at least R$ 2 million; the reports already cited did not publish a value, so that figure was not added.
   - The same article said the three were indicted under Article 33 of the Drug Law and that preventive detention would be sought in the coming days; earlier reports recorded only the in-the-act arrests, so that later step was not added.
   - The image on the page is a headline graphic, not a photograph of the cannabis or the raid, and was not added.
+  - This account reports only more than 1.3 tonnes and does not give the 1,340 kg figure used in the existing report.
+  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Sudeste Agora: The Military Police suspect the cannabis came from another state to be sold in Espírito Santo; the three did not say where it came from.'
 ---
 
 Military police arrested three people and found more than 1.3 tonnes of cannabis
-in an apartment in Riviera da Barra, Vila Velha, on 29 October 2026. [@2,6] The
+in an apartment in Riviera da Barra, Vila Velha, on 29 October 2026. [@2,6,7] The
 three were Felipe Vieira Lima, 29, known as "Di Rocha", Saulo Ferreira
-Junqueira, 45, and Cleidileia Firmino, 46. [@2,4,6] They were taken to the Federal
+Junqueira, 45, and Cleidileia Firmino, 46. [@2,4,6,7] They were taken to the Federal
 Police headquarters with the seized material. [@3]
 
 The Military Police put the load at 1 tonelada e 340 quilos, or 1,340 kg. [@1]
@@ -93,14 +101,14 @@ Company received information that the flat was used to store drugs. [@1] The
 information was shared with the Military Police intelligence directorate and the
 4th Battalion's intelligence service, and officers watched the flat before the
 raid. [@1] Approaching the flat, officers smelled a strong odour of drugs and
-saw one suspect holding a tablet of the drug before he ran inside. [@1] The
-officers broke the padlock on the gate to enter. [@2] Most of the cannabis was
+saw one suspect holding a tablet of the drug before he ran inside. [@1,7] The
+officers broke the padlock on the gate to enter. [@2,7] Most of the cannabis was
 in one room, inside zippered bags and closed boxes, with some of it loose. [@1]
 
 Police said the three were not tied to a specific gang but supplied cannabis to
 groups selling it in Greater Vitória, including the Terceiro Comando Puro (TCP)
-and the Primeiro Comando de Vitória (PCV). [@2,6] Saulo already had police records
-for drug trafficking and robbery. [@1,6] The three had lived in the rented flat
+and the Primeiro Comando de Vitória (PCV). [@2,6,7] Saulo already had police records
+for drug trafficking and robbery. [@1,6,7] The three had lived in the rented flat
 for about a year. [@1,6] The Military Police suspect the cannabis came from
 another state to be sold in Espírito Santo; the three did not say where it came
 from. [@2,6]
