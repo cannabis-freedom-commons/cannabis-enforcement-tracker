@@ -124,6 +124,11 @@ sources:
     publisher: Basketball Top5
     date: 2026-11-03
     language: zh
+  - title: 網紅Toyz遭驅逐出境！ 「超派鐵拳」超哥說話了 | 娛樂 | CTWANT
+    url: https://www.ctwant.com/article/505079/
+    publisher: CTWANT
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -150,11 +155,13 @@ open_questions:
   - No new media entry is added because the page's single image is the Changhua task-force handout captioned as the parole escort, which appears to duplicate the handout already listed in the existing report.
   - This page names Taoyuan International Airport for the deportation escort, while the existing report omits the airport because other accounts disagree.
   - The page's single image carries no caption or credit, so whether it shows this deportation could not be established and no media entry is added.
+  - The article gives the deportation day only as 今（3）日; 3 November 2026 comes from its publication date.
+  - No new photo entry is added because the page's single image is captioned as an immigration-agency handout of the same parole escort and appears to duplicate the Changhua task-force handout already listed in the existing report.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17] Prosecutors ordered deportation in place of protective supervision after
