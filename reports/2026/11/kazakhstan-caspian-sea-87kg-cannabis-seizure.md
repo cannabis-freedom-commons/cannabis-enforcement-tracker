@@ -80,6 +80,11 @@ sources:
     publisher: Qaz365.kz
     date: 2026-11-03
     language: ru
+  - title: В Казахстане изъяли почти 110 кг наркотиков - фото
+    url: https://caliber.az/post/v-kazahstane-izyali-pochti-110-kg-narkotikov
+    publisher: Caliber.az
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The 87 kg cannabis total is the sum of the separately stated 27 kg of hashish and 60 kg of marijuana; the 22 kg of opium from the same operation is excluded from cannabis figures.
   - The names, ages, detailed nationalities and procedural status of the five detained people were not published.
@@ -90,22 +95,23 @@ open_questions:
   - Almaty.tv describes the operation as the National Security Committee with Mangistau police, while the existing report describes the Border Service with the Committee's Mangistau department, treated here as the same joint operation.
   - Almaty.tv does not state the nationalities of the two people detained in the coastal area; their identification as Kazakh citizens in the existing report comes from its other sources.
   - The headline figure of almost 110 kg is the combined total of 22 kg of opium plus 27 kg of hashish plus 60 kg of marijuana; only the 87 kg hashish-plus-marijuana part counts as cannabis.
+  - The three Caliber.az photos carry no captions or credits identifying their content, so no media entry is added for them.
 ---
 
 Kazakhstan's National Security Committee said an international drug channel
-operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10] On 1 November, the
+operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10,11] On 1 November, the
 Border Service together with the committee's Mangistau Region department
-detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10] Two
-Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10]
+detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10,11] Two
+Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10,11]
 The committee presented the detentions on the water and on the coast as parts of
 the same operation. [@1]
 
-Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10]
+Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10,11]
 The two cannabis seizures together amount to 87 kg of cannabis covered by this
 report. [@2] Officers also seized 22 kg of opium and a small fast boat alongside
-the cannabis. [@1,3,4,7,8,9,10]
+the cannabis. [@1,3,4,7,8,9,10,11]
 
-A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10] The committee said
+A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10,11] The committee said
 further information cannot be disclosed under part 1 of article 201 of the
 Criminal Procedure Code. [@2] The committee published the announcement on 3
 November 2026. [@2] The announcement was issued by the committee's press
