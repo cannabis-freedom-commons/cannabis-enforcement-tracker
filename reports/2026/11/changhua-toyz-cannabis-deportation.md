@@ -54,6 +54,11 @@ sources:
     publisher: 壹蘋新聞網
     date: 2026-11-03
     language: zh
+  - title: Toyz刘伟健假释出狱直送机场　移民署执行强制出境　现场画面曝光
+    url: https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%A8%B1%E4%B9%90/60406661/toyz%E5%88%98%E4%BC%9F%E5%81%A5%E5%81%87%E9%87%8A%E5%87%BA%E7%8B%B1%E7%9B%B4%E9%80%81%E6%9C%BA%E5%9C%BA-%E7%A7%BB%E6%B0%91%E7%BD%B2%E6%89%A7%E8%A1%8C%E5%BC%BA%E5%88%B6%E5%87%BA%E5%A2%83-%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89
+    publisher: 香港01
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -65,12 +70,12 @@ open_questions:
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4]
+supervision on 20 October. [@2,4,5]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
