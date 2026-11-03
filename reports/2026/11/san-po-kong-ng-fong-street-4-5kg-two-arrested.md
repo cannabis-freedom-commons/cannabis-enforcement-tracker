@@ -34,6 +34,11 @@ sources:
     publisher: on.cc東網
     date: 2026-11-03
     language: zh
+  - title: 警查新蒲崗工廈 檢95萬元大麻拘兩男
+    url: https://www.stheadline.com/breaking-news/3633148/%E8%AD%A6%E6%9F%A5%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88-%E6%AA%A295%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E6%8B%98%E5%85%A9%E7%94%B7
+    publisher: 星島頭條
+    date: 2026-11-03
+    language: zh
 open_questions:
   - Only one source could be opened for this event, so no independent corroboration was available.
   - No charge beyond arrest and detention, and no court outcome, was reported.
@@ -43,21 +48,20 @@ open_questions:
 
 After an in-depth investigation, officers from Yau Tsim District carried out an
 anti-drug operation in Wong Tai Sin District on the night of 2 November 2026.
-[@1] During the operation inside an industrial building on Ng Fong Street in San
-Po Kong, officers intercepted two local men who appeared suspicious. [@1]
+[@1,2] During the operation inside an industrial building on Ng Fong Street in San
+Po Kong, officers intercepted two local men who appeared suspicious. [@1,2]
 Officers searched a unit in the same industrial building that was rented by one
-of the two men. [@1] The two local men, aged 22 and 24, were arrested on
+of the two men. [@1,2] The two local men, aged 22 and 24, were arrested on
 suspicion of trafficking in dangerous drugs and remained in detention pending
-investigation. [@1]
+investigation. [@1,2]
 
 The search recovered about 4,500 grams of suspected cannabis, together with a
-batch of suspected drug-packaging tools. [@1] The packaging tools included
+batch of suspected drug-packaging tools. [@1,2] The packaging tools included
 electronic scales and a sealing machine, according to the police account. [@1]
 Police estimated the total market value of the seized drugs at about HK$950,000.
-[@1]
+[@1,2]
 
 Under Chapter 134 of Hong Kong's laws, the Dangerous Drugs Ordinance,
 trafficking means selling or supplying a dangerous drug to another person. [@1]
 A person convicted of drug trafficking faces a maximum penalty of a HK$5 million
 fine and life imprisonment. [@1]
-
