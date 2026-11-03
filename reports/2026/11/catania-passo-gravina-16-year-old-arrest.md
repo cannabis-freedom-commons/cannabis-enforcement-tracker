@@ -46,13 +46,18 @@ sources:
     publisher: Video Regione
     date: 2026-11-03
     language: it
+  - title: Catania, arrestato un 16enne con 40 grammi di marijuana
+    url: https://www.freepressonline.it/2026/11/03/catania-arrestato-un-16enne-con-40-grammi-di-marijuana/
+    publisher: Free Press Online
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the evening stop and arrest, so 3 November 2026 is used as the incident date.
   - The reports do not say whether the woman driving the car was identified or investigated.
 ---
 
 State Police arrested a 16-year-old boy found with marijuana in Via Passo
-Gravina in Catania. [@1,3,4] An off-duty officer from the Librino commissariat
+Gravina in Catania. [@1,3,4,5] An off-duty officer from the Librino commissariat
 noticed the boy in the evening while passing through the area. [@1,3] The boy,
 dressed in black, was standing beside a small car with its engine running and
 driven by a woman, which made the officer suspicious. [@1] The boy then climbed
@@ -60,9 +65,9 @@ over the gate of a house while the car drove away. [@1]
 
 The officer identified himself and called for help from a Flying Squad patrol.
 [@1,3] Despite a brief attempt to evade the check, the boy was stopped and found
-with five small bags of marijuana weighing 40 grams in total. [@1,3,4] He was
+with five small bags of marijuana weighing 40 grams in total. [@1,3,4,5] He was
 arrested for possession of narcotics for the purpose of dealing. [@1]
 
 On the order of the public prosecutor at the Catania Juvenile Court, he was
-taken to the First Reception Centre. [@2,3,4] The second account states that the
+taken to the First Reception Centre. [@2,3,4,5] The second account states that the
 presumption of innocence applies until a final conviction. [@2]
