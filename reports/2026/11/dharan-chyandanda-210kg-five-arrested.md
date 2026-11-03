@@ -65,6 +65,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: सुनसरी के धरान में 210 किलो गांजा जब्त , एक भारतीय सहित पांच गिरफ्तार
+    url: https://www.livehindustan.com/international/story-nepal-police-arrest-five-in-210-kg-cannabis-smuggling-case-in-dharan-201793648958117.amp.html
+    publisher: Hindustan
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -91,9 +96,9 @@ open_questions:
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7,8] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7,8,9] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3,4,5,6,7,8] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4,5,6,7,8,9] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
