@@ -67,6 +67,16 @@ sources:
     publisher: Київщина 24/7
     date: 2026-11-02
     language: uk
+  - title: 'Збували у коробках з-під пластівців та собачих ласощів: в Києві у наркоділків вилучили більше 7 кг канабісу'
+    url: https://www.cripo.com.ua/news/crime/zbuvaly-u-korobkah-z-pid-plastivtsiv-ta-sobachyh-lasoshhiv-v-kyyevi-u-narkodilkiv-vyluchyly-bilshe-7-kg-kanabisu/amp/
+    publisher: УКРАЇНА КРИМІНАЛЬНА
+    date: 2026-11-02
+    language: uk
+  - title: 'Збували у коробках з-під пластівців та собачих ласощів: поліцейські Києва вилучили більше 7 кілограмів канабісу та затримали двох збувачів'
+    url: https://kyiv.npu.gov.ua/news/zbuvaly-u-korobkakh-z-pid-plastivtsiv-ta-sobachykh-lasoshchiv-politseiski-kyieva-vyluchyly-bilshe-7-kilohramiv-kanabisu-ta-zatrymaly-dvokh-zbuvachiv
+    publisher: Головне управління Національної поліції у місті Києві
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -87,15 +97,15 @@ together for later sale to customers across Ukraine. [@1]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
 during a personal search. [@1,4] Officers then identified his accomplice and a
-flat in Kyiv's Darnytskyi district where they stored cannabis. [@1] They seized
+flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,9] They seized
 nine more vacuum packages weighing over 3.6 kg there. [@1,4] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 [@2,5] If proved, the charge carries up to 12 years in prison with confiscation of
 property. [@1,4,5,6,7]
 
 The pretrial investigation is being run by investigators of the Podilskyi police
-department in Kyiv with SBU operational support. [@1,4,6] Police say the men sold
+department in Kyiv with SBU operational support. [@1,4,6,8] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
 disguising parcels as household goods. [@3,4,7] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
-dog-treat boxes. [@3,4,5,6,7]
+dog-treat boxes. [@3,4,5,6,7,8]
