@@ -30,6 +30,11 @@ sources:
     publisher: Jornal da Região On-line
     date: 2026-11-02
     language: pt
+  - title: Pés de maconha são apreendidos pela PM em Guaxupé
+    url: https://www.varginhaonline.com.br/cidades/pes-de-maconha-apreendidos-guaxupe/
+    publisher: Varginha Online
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the glass container portion, so no cannabis weight is recorded.
   - The plants are described only as similar to marijuana, with no laboratory confirmation reported.
@@ -38,21 +43,20 @@ open_questions:
 ---
 
 Military police searched for a 24-year-old man named in anonymous tips as the
-possible grower and seller, but did not find him. [@1] Police said the same
+possible grower and seller, but did not find him. [@1,2] Police said the same
 suspect had already been arrested in 2024 in a similar situation. [@1] In that
 earlier case, officers had found cannabis-like plants, a pressed tablet of the
 drug broken into small portions and seeds at his home. [@1]
 
 The operation took place on the afternoon of Friday, 30 October 2026 in the Polo
 Industrial neighbourhood of Guaxupé, Minas Gerais, after anonymous reports of
-possible cultivation and sale of drugs. [@1] A team from the Rapid Ostensive
+possible cultivation and sale of drugs. [@1,2] A team from the Rapid Ostensive
 Motorised Patrol Specialised Group (GPMOR) went to the address to check the
 information. [@1] From the road, officers saw two plants with cannabis-like
-characteristics growing amid vegetation in front of the reported property. [@1]
+characteristics growing amid vegetation in front of the reported property. [@1,2]
 During the check of the outside area, they also found a glass container holding
-a portion of the same substance divided into several pieces. [@1] Officers
+a portion of the same substance divided into several pieces. [@1,2] Officers
 seized the plants and the container and forwarded them for legal measures. [@1]
 
 The case was registered and will be investigated by the competent authorities as
 part of military police anti-trafficking operations in Guaxupé. [@1]
-
