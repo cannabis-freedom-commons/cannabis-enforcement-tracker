@@ -88,6 +88,11 @@ sources:
     publisher: Новости Беларуси | Интернет-журнал «Чеснок»
     date: 2026-11-01
     language: ru
+  - title: На Могилевщине задержан закладчик широкого профиля
+    url: https://masheka.by/novosti-mogileva/24619-na-mogilevschine-zaderzhan-zakladchik-shirokogo-profilja.html
+    publisher: Masheka.by
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The reports give no separate date for the detention; 1 November 2026 is the date of the Interior Ministry statement and the first news reports.
   - The ministry gave only a combined figure of more than 600 g for the hashish and marijuana, without separate weights.
@@ -103,20 +108,21 @@ open_questions:
   - The submitted photo caption repeats the headline and does not establish that the image shows this seizure, so no media entry is added.
   - The source gives only a combined figure of more than 600 g for hashish and marijuana, without separate weights; the 2,000 LSD stamps are not cannabis and remain outside cannabis figures.
   - The page's photo is credited as a screenshot of the Interior Ministry video already listed in the existing report, so the same agency handout is not listed again as media.
+  - The page's lead image has no caption establishing that it shows this seizure, so no media entry is added.
 ---
 
 Officers from the drug-control department of the Bobruisk city executive
 committee's interior directorate, working with operatives from the Mogilev
 Region interior directorate and OMON riot police, detained a 32-year-old
-Bobruisk resident, the Belarusian Interior Ministry said. [@2,5,6,8,10,12] The ministry said
+Bobruisk resident, the Belarusian Interior Ministry said. [@2,5,6,8,10,12,13] The ministry said
 the man had worked as a wholesale and retail courier for an online drug shop and
-had packaged its goods with specialised equipment for further distribution. [@1,8,10,11,12]
+had packaged its goods with specialised equipment for further distribution. [@1,8,10,11,12,13]
 It called him a “broad-profile” zakladchik, a courier who leaves drugs in caches
 for buyers. [@2] Investigators opened a criminal case over illegal drug
 trafficking with intent to sell, and the man faces up to 15 years in prison.
-[@1,5,6,7,9,10,11,12]
+[@1,5,6,7,9,10,11,12,13]
 
 Police found and seized 2,000 LSD stamps and more than 600 g of hashish and
-marijuana, the ministry said. [@3,5,6,7,8,10,11,12] The drugs were found on him, at his home and
-in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5,6,7,10,11,12] The ministry said his drug
+marijuana, the ministry said. [@3,5,6,7,8,10,11,12,13] The drugs were found on him, at his home and
+in caches in Bobruisk, Minsk, Gomel and Zhlobin. [@4,5,6,7,10,11,12,13] The ministry said his drug
 business had lasted about a month. [@1,7,11]
