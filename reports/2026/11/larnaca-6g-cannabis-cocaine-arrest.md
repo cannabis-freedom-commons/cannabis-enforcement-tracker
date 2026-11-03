@@ -52,6 +52,11 @@ sources:
     publisher: Philenews
     date: 2026-11-03
     language: el
+  - title: Υπό οκταήμερη κράτηση 32χρονος στη Λάρνακα για κατοχή πέραν του ενός κιλού κοκαΐνης
+    url: https://news.rik.cy/article/2026/11/3/upo-oktaemere-kratese-32khronos-ste-larnaka-gia-katokhe-peran-tou-enos-kilou-kokaines/
+    publisher: Ραδιόφωνο ΡΙΚ
+    date: 2026-11-03
+    language: el
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -68,10 +73,12 @@ open_questions:
   - The article gives only its publication date of 3 November 2026 and says the stop was on Monday, so the 2 November 2026 arrest date still relies on inference from the earlier sources.
   - The page's lead image is labelled as an archive photo and its two inline drug photos carry no caption establishing they show this seizure, so no media entry is listed.
   - The page's only listed image is labelled as an indicative photo and is not shown to depict this seizure, so no media entry is listed.
+  - The submitted page states only a quantity of cannabis without a weight, so the six-gram cannabis figure continues to rely on the existing sources.
+  - The submitted page describes cash as exceeding 21,000 euros without the exact 21,100 euro figure used in the existing report.
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
-of his car, home and two open areas. [@1,3,6,7] Officers from the Directorate for
+of his car, home and two open areas. [@1,3,6,7,8] Officers from the Directorate for
 Combating Organised Crime (DAOE), the Anti-Drugs Unit (YKAN) and YPEE stopped
 the car he was driving in a rural part of the district at about 5pm. [@1,5,7] The
 man was taken into custody and was expected to appear before Larnaca District
@@ -88,10 +95,10 @@ stop, they found another plastic container holding two bags of cocaine with a
 combined gross weight of 100 grams. [@1] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
 be proceeds of illegal activities. [@2]
 
-The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7]
+The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8]
