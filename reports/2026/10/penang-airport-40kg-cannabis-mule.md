@@ -82,6 +82,11 @@ sources:
     url: https://bernama.com/en/crime_courts/news.php?id=2629078
     publisher: BERNAMA
     date: 2026-11-02
+  - title: 'AWANI Ringkas: Penumpang pesawat cuba seludup 40kg dadah ditahan'
+    url: https://www.astroawani.com/video/awani-ringkas-vc56cd0qf/awani-ringkas-penumpang-pesawat-cuba-seludup-40kg-dadah-ditahan
+    publisher: Astro Awani
+    date: 2026-11-02
+    language: ms
 open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
@@ -100,6 +105,8 @@ open_questions:
   - Whether the lead Bernama photo on this page shows this cannabis seizure or a press-conference portrait could not be established from its caption, so no media entry is added.
   - This article describes the detention location as the airport waiting area, while the existing report specifies Gate B1 from earlier sources; there is no material contradiction on the detention itself.
   - Whether the lead Bernama photo on this page shows this cannabis seizure could not be established from its empty caption, so no media entry is added.
+  - The submitted video page gives only the headline about 40kg of dadah with no article body identifying the substance, place or date; cannabis identification and event details come from the corroborating Astro Awani report.
+  - Whether the video thumbnail or footage shows this seizure could not be established from its caption, so no media entry is added.
 ---
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
@@ -108,7 +115,7 @@ International Airport in Bayan Lepas. [@1,3,4,5,6,10] Officers from police toget
 the Royal Malaysian Customs Department found the drugs inside two pieces of
 luggage he was carrying. [@1]
 
-The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10,11] Police
+The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10,11,12] Police
 valued the cannabis at RM3.2 million and said the man was acting as a drug mule
 tasked with carrying it to London. [@2,3,4,5,7,9,10,11] The man had arrived in Penang only two
 days earlier, said he was acting on another person's instructions, and was
