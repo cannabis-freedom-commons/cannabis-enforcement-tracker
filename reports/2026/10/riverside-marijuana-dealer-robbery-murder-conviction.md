@@ -31,6 +31,10 @@ sources:
     url: https://www.sbsun.com/2026/11/03/woman-convicted-in-marijuana-dealers-2020-death-at-riverside-apartment/
     publisher: San Bernardino Sun
     date: 2026-11-03
+  - title: Woman convicted in marijuana dealer’s 2020 death at Riverside apartment
+    url: https://www.pressenterprise.com/2026/11/03/woman-convicted-in-marijuana-dealers-2020-death-at-riverside-apartment/
+    publisher: Press Enterprise
+    date: 2026-11-03
 open_questions:
   - 'Ortiz has not been sentenced: the 18 November hearing is scheduled, and life without parole is the expected term, not a sentence the court has imposed.'
   - Both opened accounts are the same City News Service story, syndicated by MyNewsLA and Patch; no independent reporting of the verdict was found.
@@ -42,11 +46,11 @@ open_questions:
 
 A 24-year-old woman was convicted on Thursday of first-degree murder and other
 charges in the 2020 killing of a marijuana dealer at a Riverside apartment
-complex. [@1] A Banning jury found Merlin Perales Ortiz of Yucca Valley guilty
+complex. [@1,4] A Banning jury found Merlin Perales Ortiz of Yucca Valley guilty
 of murder, conspiracy and a special-circumstance allegation of killing in the
 course of a robbery in the slaying of 20-year-old Wesley Flores Miranda, a
-Honduran national, after deliberating only a few hours. [@1,3] Ortiz is being held
-without bail at the Smith Correctional Facility. [@2] She had no documented
+Honduran national, after deliberating only a few hours. [@1,3,4] Ortiz is being held
+without bail at the Smith Correctional Facility. [@2,4] She had no documented
 prior felony or misdemeanor convictions. [@2] Riverside County Superior Court
 Judge Jonathan Mendoza scheduled sentencing for 18 November at the Banning
 Justice Center, where she is expected to receive life in prison without the
@@ -59,7 +63,7 @@ holdup, directing Rodriguez to act as the gunman. [@2] The holdup occurred on
 the night of 8 November 2020 at an apartment leased by Runkle's girlfriend,
 identified only as "Star," in the 5200 block of El Cerrito Drive in Riverside's
 Canyon Crest neighborhood, according to a trial brief filed by the district
-attorney's office. [@2,3] Surveillance video showed Ortiz meeting Miranda at the
+attorney's office. [@2,3,4] Surveillance video showed Ortiz meeting Miranda at the
 door as he carried a backpack; inside, Rodriguez brandished a Glock 9mm handgun
 at him. [@1] When Miranda refused Ortiz's order in Spanish to hand over the
 backpack, he was fatally shot in the upper body just outside the doorway,
