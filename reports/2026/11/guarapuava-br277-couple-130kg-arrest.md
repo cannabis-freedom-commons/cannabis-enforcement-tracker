@@ -36,28 +36,34 @@ sources:
     publisher: G+ Notícias
     date: 2026-11-02
     language: pt
+  - title: Casal é preso com mais de 130 quilos de maconha em Guarapuava
+    url: https://paiquerefm.com.br/casal-e-preso-com-mais-de-130-quilos-de-maconha-em-guarapuava/
+    publisher: Paiquerê FM News
+    date: 2026-11-03
+    language: pt
 open_questions:
   - The names of the two arrested people were not published.
   - No charges or court outcome have been reported yet.
   - Only one source for this event could be opened, so no second account confirms the details.
   - The incident date of 2 November 2026 rests on the article's reference to Monday morning (2) together with its 2 November 2026 publication date.
+  - 'The page carries a photo credited only as Foto: PRF with a file name referring to Operacao Finados, whose caption does not establish that it shows this seizure, so no media entry is included.'
 ---
 
 Brazil's Federal Highway Police (PRF) arrested a 27-year-old man and a
 33-year-old woman on the morning of Monday 2 November 2026 during an operation
-on the BR-277 in Guarapuava. [@1] The woman was driving a car without a driving
-licence and was travelling with her two daughters, aged 10 and 9. [@1] Officers
+on the BR-277 in Guarapuava. [@1,3] The woman was driving a car without a driving
+licence and was travelling with her two daughters, aged 10 and 9. [@1,3] Officers
 found the woman driver's answers disconnected, then ordered a second vehicle to
 stop, but its driver disobeyed and fled along the highway. [@1]
 
 The pursuit lasted about 14 kilometres and ended when the fleeing vehicle hit a
-pole on the roadside of the BR-277. [@1,2] The detained driver also had no driving
+pole on the roadside of the BR-277. [@1,2,3] The detained driver also had no driving
 licence and admitted that he had collected the drug in Foz do Iguaçu to take it
 to Curitiba. [@1] Officers seized 130.9 kilograms of cannabis in the operation,
 allegedly being transported from Foz do Iguaçu to Curitiba. [@1,2]
 
 The woman confessed that she was supporting her partner in transporting the
-drug. [@1,2] Both suspects were taken with the drug and the vehicles to the
-Federal Police station in Guarapuava for further procedures. [@1,2] The two
+drug. [@1,2,3] Both suspects were taken with the drug and the vehicles to the
+Federal Police station in Guarapuava for further procedures. [@1,2,3] The two
 children who were in the first car were placed under the care of the Conselho
-Tutelar, the local child-protection council. [@1]
+Tutelar, the local child-protection council. [@1,3]
