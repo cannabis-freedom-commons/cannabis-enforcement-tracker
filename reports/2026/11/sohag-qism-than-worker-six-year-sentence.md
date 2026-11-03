@@ -27,6 +27,11 @@ sources:
     publisher: اوان مصر
     date: 2026-11-03
     language: ar
+  - title: جنايات سوهاج تعاقب عاملًا بالسجن المشدد 6 سنوات وغرامة 100 ألف جنيه
+    url: https://www.iqraa.news/188749/%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B3%D9%88%D9%87%D8%A7%D8%AC-%D8%AA%D8%B9%D8%A7%D9%82%D8%A8-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%B4/
+    publisher: إقرأ نيوز
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No separate sentencing date was published; 3 November 2026 is the publication date and is used as the incident date.
   - No weight, value or separate cannabis quantity was reported; the seizure is described only as a quantity of narcotic substances.
@@ -36,8 +41,8 @@ open_questions:
 ---
 
 The Sohag Criminal Court closed the case against a worker accused of drug
-trafficking in the Second Sohag police district. [@1] It sentenced him to six
-years of aggravated imprisonment and fined him 100,000 Egyptian pounds. [@1] The
+trafficking in the Second Sohag police district. [@1,2] It sentenced him to six
+years of aggravated imprisonment and fined him 100,000 Egyptian pounds. [@1,2] The
 defendant was identified only by the initials A. M. A. [@1]
 
 The case dates to 2026, when detectives received information that the defendant
@@ -46,11 +51,10 @@ Security agencies carried out the necessary investigations after receiving the
 information about his activity. [@1] After completing legal procedures, they
 confirmed the tip, which had come from a secret source. [@1] Officers then
 arrested the accused and found a quantity of narcotic substances in his
-possession. [@1]
+possession. [@1,2]
 
 When confronted, he admitted that he was trafficking in narcotic substances.
-[@1] He was then referred to the criminal court, which tried him and imposed the
+[@1,2] He was then referred to the criminal court, which tried him and imposed the
 six-year term and the 100,000-pound fine. [@1] The trafficking allegation
 expressly included hashish alongside shabu, methamphetamine essence and narcotic
-pills. [@1]
-
+pills. [@1,2]
