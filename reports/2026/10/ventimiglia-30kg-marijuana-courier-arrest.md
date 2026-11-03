@@ -66,6 +66,11 @@ sources:
     publisher: Mondoreale
     date: 2026-11-03
     language: it
+  - title: 'Ventimiglia, torna dalla Spagna con 30 chili di marijuana: arrestato'
+    url: https://www.ligurianotizie.it/ventimiglia-torna-dalla-spagna-con-30-chili-di-marijuana-arrestato/2026/11/03/1287411/
+    publisher: Liguria Notizie
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
@@ -74,6 +79,10 @@ open_questions:
   - The Primocanale page carries an image with no caption or credit establishing that it shows this seizure, so no media entry is added.
   - The page carries a lead photo captioned L'intervento della Finanza al valico di Ventimiglia, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The Riviera24 page labels its image as archive material, so no media entry from this source is added.
+  - This account gives no separate incident date; 3 November 2026 is its publication date, while the existing report dates the event to 27 October on other accounts.
+  - This account does not state the driver's nationality; Italian nationality relies on the existing report's other sources.
+  - The page photo captioned as a GdF check at the border crossing is not established to show this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Liguria Notizie: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
 ---
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
@@ -84,9 +93,9 @@ direction of the investigation. [@1,3,6] The man remains presumed innocent until
 final sentence. [@2]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
-bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8] Officers also seized 2,700 euros
+bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8,9] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1,3,5,6,7,8]
+and the car used for transport. [@1,3,5,6,7,8,9]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
 and gave contradictory, evasive accounts of a trip to Spain. [@1,3,7] The Guardia di
