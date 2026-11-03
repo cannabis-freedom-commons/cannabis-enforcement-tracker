@@ -39,15 +39,24 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-03
     language: hi
+  - title: मादक पदार्थ की बड़ी खेप बरामद,20 लाख के चरस के साथ तीन गिरफ्तार
+    url: https://deshvani.in/madk-pdarth-ki-bdi-khep-bramd-20-lakh-ke-chrs-ke-sath-tin-girphtar/
+    publisher: Deshvani
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Neither article gives a separate calendar date for the checks and arrests; 3 November 2026 is the publication date used as the incident date.
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
   - Residence details differ slightly between accounts, with the first naming Nayka Tola in Rajepur and the second naming Nayak Tola in Raxaul for Guddu Sah.
   - No court outcome beyond sending the three to jail was reported.
+  - The Deshvani headline values the haul at Rs 20 lakh while its body says about Rs 30 lakh, differing from the Rs 40 lakh international-market valuation in the existing report.
+  - The Deshvani page photo is captioned only as 21119 with no description establishing that it shows this seizure or these arrests, so no media entry is included.
+  - The Deshvani article gives only its 3 November 2026 publication date and no separate calendar date for the checks and arrests.
+  - Name and residence spellings differ slightly, with Deshvani naming Guddu Sah of Harpur, Ghoda Rai of Ghorasahan and Rambalak Baitha of Sikta and describing a recipient trader in Uttar Pradesh.
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged
-charas traffickers in East Champaran. [@2] The first man held was identified as
+charas traffickers in East Champaran. [@2,3] The first man held was identified as
 35-year-old Guddu Sah of Nayka Tola in the Rajepur station area, whose
 questioning named Ramabalak Baitha, linked to Lakshmipur in Sikta and Gandak
 Chowk in Birgunj, Nepal, and Dhoda Rai of Mahuai in Ghorasahan. [@1] Police
@@ -61,9 +70,8 @@ seized two mobile phones and three Nepali SIM cards from the three accused. [@1]
 
 The STF narcotics cell in Patna had tipped police that a man carrying narcotics
 had left Raxaul and would travel via the Sugauli overbridge toward the station.
-[@1] A team led by Sadar SDPO Dilip Kumar began vehicle checks under the Bangra
+[@1,3] A team led by Sadar SDPO Dilip Kumar began vehicle checks under the Bangra
 overbridge, chased down a suspect who tried to flee on seeing police and
 searched his bag in the presence of the BDO. [@1] Police said questioning has
 produced leads on the supply syndicate's main kingpin and further raids are
 continuing. [@1]
-
