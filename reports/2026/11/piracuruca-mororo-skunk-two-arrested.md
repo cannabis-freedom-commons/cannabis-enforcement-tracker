@@ -30,30 +30,36 @@ sources:
     publisher: GP1
     date: 2026-11-02
     language: pt
+  - title: Dois homens são presos com 20 pacotes de skunk avaliados em R$ 400 mil no Piauí
+    url: https://cidadeverde.com/piracuruca/135727/dois-homens-sao-presos-com-20-pacotes-de-skunk-avaliados-em-r-400-mil-no-piaui
+    publisher: Cidadeverde.com
+    date: 2026-11-02
+    language: pt
 open_questions:
   - No weight was published for the 20 packages of skunk, only the package count.
   - The two arrested men are identified only by initials, and no charges or court outcome were reported.
   - Only one source for this event could be opened; no second account was found to corroborate it.
   - The R$400,000 figure is the police valuation, with no independent weighing or valuation reported.
+  - The new account attributes the operation to SSP-PI generally and does not name Denarc or the 22nd BPM Tactical Force given in the existing report.
+  - The page carries a photo credited to Ascom SSP-PI, but its alt text and caption do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Piauí's Civil and Military Police, acting through the anti-narcotics department
 Denarc and the Tactical Force of the 22nd BPM, arrested two men in the
-municipality of Piracuruca in northern Piauí. [@1] The two men, identified only
+municipality of Piracuruca in northern Piauí. [@1,2] The two men, identified only
 by the initials H.J.S. and L.F.S.N., were in the car where officers found the
 drugs and were arrested during the vehicle search. [@1] The suspects and the
 seized material were taken to the Denarc headquarters in Teresina for the
 applicable legal procedures. [@1]
 
 Officers found 20 packages of skunk, a potent form of cannabis known locally as
-'supermaconha', inside the vehicle. [@1] Police valued the 20 packages at about
-R$400,000. [@1] The interception took place on highway PI-110 at Mororó village
+'supermaconha', inside the vehicle. [@1,2] Police valued the 20 packages at about
+R$400,000. [@1,2] The interception took place on highway PI-110 at Mororó village
 in rural Piracuruca after authorities tracked the vehicle's movements and set up
-a strategy to stop it. [@1] The seizure happened on the night of Sunday 1
+a strategy to stop it. [@1,2] The seizure happened on the night of Sunday 1
 November following monitoring work. [@1]
 
 The vehicle had left Portal da Alegria in the south zone of Teresina and was
-bound for the city of Parnaíba. [@1] Denarc is Piauí's Department for the
+bound for the city of Parnaíba. [@1,2] Denarc is Piauí's Department for the
 Repression of Narcotics, and this operation combined its officers with the
 military police tactical force. [@1]
-
