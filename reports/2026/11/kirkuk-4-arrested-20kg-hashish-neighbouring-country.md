@@ -29,6 +29,11 @@ sources:
     publisher: السومرية
     date: 2026-11-03
     language: ar
+  - title: 'Kerkük Narkotikle Mücadele Müdürlüğü: Komşu ülkedeki uluslararası uyuşturucu şebekesi çökertildi, 20 kilogram esrar ele geçirildi'
+    url: https://ina.iq/tk/security/67854-kerkuk-narkotikle-mucadele-mudurluu-komu-ulkedeki-uluslararas-uyuturucu-ebekesi-cokertildi-20-kilogram-esrar-ele-gecirildi.html
+    publisher: Irak Haber Ajansı
+    date: 2026-11-03
+    language: tk
 open_questions:
   - The articles give no separate date for the operation; 3 November 2026 is the publication date of both outlets and is used as the incident date.
   - The neighbouring country where the arrests and seizure occurred was not named.
@@ -38,22 +43,26 @@ open_questions:
   - A similar 20 kg seizure in a neighbouring country by the same Kirkuk directorate was reported on 13 August 2026, and a 20 kg seizure was mentioned in 2 November 2026 nine-ton coverage; the similar weight and unnamed country leave a possible overlap, but the 3 November accounts' four arrests and luring method distinguish this event.
   - 'Left out, as its quotation was not found in السومرية: The directorate announced the intelligence operation on Tuesday as the work of Kirkuk narcotics detachments in a neighbouring state.'
   - 'Left out, as its quotation was not found in السومرية: It said intelligence efforts to pursue trafficking networks and dismantle them continue inside Iraq and outside it.'
+  - The article gives only “Şu gün, 18:15” for its timestamp; 3 November 2026 from the page current date and matching outlets is used as the incident date, with no separate operation date given.
+  - The neighbouring country where the infiltration, arrests and seizure occurred was not named.
+  - The names, nationalities, charges and any court outcome for the four arrested people were not published.
+  - Turkish “esrar” in this page corresponds to “hashish” in the existing report; identification rests on the directorate statement with no independent weighing record published.
+  - The page image is captioned only with the headline and is not established to show this seizure, so no media entry is listed.
 ---
 
 Kirkuk's narcotics affairs directorate, which belongs to the General Directorate
 for Narcotics Affairs, said its detachments successfully infiltrated a network
-trading in narcotic substances inside one of the neighbouring countries. [@1]
+trading in narcotic substances inside one of the neighbouring countries. [@1,3]
 The directorate described the effort as a tightly planned, high-quality
-operation that started by luring one of the network's members. [@1] Officers
+operation that started by luring one of the network's members. [@1,3] Officers
 caught that member red-handed inside that country's territory. [@2] The first
 suspect's confessions and the intelligence information he provided led the
 executing force to uncover the network's remaining branches and overthrow its
 three other members. [@1] In total, the force arrested all four members of the
-network and seized 20 kilograms of hashish. [@1]
+network and seized 20 kilograms of hashish. [@1,3]
 
 It presented the operation as embodying the directorate's ability to pursue
 international trafficking networks and dismantle their rings beyond Iraq's
 borders. [@1] It credited precise intelligence work and joint coordination,
 stressing that pursuing traffickers does not stop at the limits of geography and
 that the law reaches them wherever their activity extends. [@1]
-
