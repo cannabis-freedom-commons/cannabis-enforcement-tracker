@@ -50,6 +50,10 @@ sources:
     url: https://www.dailyexcelsior.com/5-arrested-in-separate-drug-cases/
     publisher: Daily Excelsior
     date: 2026-11-03
+  - title: 5 arrested in separate drug cases - Daily Excelsior
+    url: https://www.dailyexcelsior.com/5-arrested-in-separate-drug-cases/amp
+    publisher: Daily Excelsior
+    date: 2026-11-03
 open_questions:
   - The reports carry 2 November 2026 datelines and publication dates but give no separate day for the two operations.
   - The sources name no lawyer, court date or custody outcome for either man.
@@ -63,13 +67,13 @@ Anantnag police arrested two alleged drug peddlers in separate operations run by
 its Mattan and Srigufwara stations. [@1,2,3,4,5,6]
 
 A Mattan police team searched Aamir Ayoub Khan, a resident of Khurd Gopalpora,
-and recovered about 17.8 grams of charas from him. [@1,2,3,4,5,6] Police registered
+and recovered about 17.8 grams of charas from him. [@1,2,3,4,5,6,8] Police registered
 FIR No. 126/2026 under Sections 8/20 of the NDPS Act at Mattan station.
 [@1,2,3,4]
 
 Separately, a Srigufwara team stopped Sahil Ahmad Bhat, a resident of Hanji
 Danter, during naka checking at Pethnoo Crossing and recovered about 30 grams
-of cannabis from him. [@1,2,3,4,5,6,7] Police registered FIR No. 111/2026 under
+of cannabis from him. [@1,2,3,4,5,6,7,8] Police registered FIR No. 111/2026 under
 Sections 8/20 of the NDPS Act at Srigufwara station. [@1,2,3,4] Police said
 investigation in both cases was underway to trace the sources of the drugs and
 the accused men's forward and backward links. [@1,2,3]
