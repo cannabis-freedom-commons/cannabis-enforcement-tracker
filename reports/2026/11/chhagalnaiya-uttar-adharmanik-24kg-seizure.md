@@ -32,6 +32,11 @@ sources:
     publisher: Barta Bichitra
     date: 2026-11-02
     language: bn
+  - title: ছাগলনাইয়ায় পুলিশের যৌথ অভিযান, উদ্ধার ২৪ কেজি গাঁজা
+    url: https://www.sorejominbarta.com/country/article/65979/%E0%A6%9B%E0%A6%BE%E0%A6%97%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%AF%E0%A7%8C%E0%A6%A5
+    publisher: Sorejomin Barta
+    date: 2026-11-02
+    language: bn
 open_questions:
   - No arrests were reported and the people behind the stored cannabis were not identified.
   - No value for the seized cannabis was published.
@@ -42,17 +47,16 @@ open_questions:
 No one was arrested during the raid because officers found the cannabis lying
 abandoned. [@1] Police said efforts were continuing to identify and arrest those
 involved in storing, supplying and transporting the drugs, and that legal action
-was still being processed. [@1] Mohammad Abu Taher, the officer-in-charge of
+was still being processed. [@1,3] Mohammad Abu Taher, the officer-in-charge of
 Chhagalnaiya police station, confirmed the seizure. [@1]
 
 A joint team of Chhagalnaiya police station and the Ghopal investigation centre
 carried out the raid at about 6:30 pm on Sunday, 1 November, acting on secret
-information. [@1] The officers searched behind the tinshed house of expatriate
+information. [@1,3] The officers searched behind the tinshed house of expatriate
 Belal beside the Dakshinpara Jame mosque in Uttar Adharmanik village of
 Radhanagar union in Chhagalnaiya. [@2]
 
 They recovered two abandoned sacks holding 12 packets in total, six packets in
-each sack, with 2 kg in each packet for a total of 24 kg of ganja. [@2] The
+each sack, with 2 kg in each packet for a total of 24 kg of ganja. [@2,3] The
 seizure list was prepared in the presence of mosque worshippers and nearby
 villagers before police took the cannabis into custody. [@1]
-
