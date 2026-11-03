@@ -47,6 +47,10 @@ sources:
     publisher: Radio-Canada
     date: 2026-10-29
     language: fr
+  - title: '3 men arrested, 600 plants seized in cannabis smuggling operation in Quebec: police'
+    url: https://www.ctvnews.ca/montreal/article/3-men-arrested-600-plants-seized-in-cannabis-smuggling-operation-in-quebec-police/
+    publisher: CTV News
+    date: 2026-10-29
 open_questions:
   - 'No charges had been laid: the three men were interviewed and released, and police said only that they could eventually face cannabis-smuggling charges.'
   - The Sûreté du Québec gave no market value for the seized drugs and did not say how the quantities were divided among the three municipalities.
@@ -58,22 +62,22 @@ open_questions:
 
 Quebec's provincial police, the Sûreté du Québec, carried out searches in
 Saint-Théodore-d'Acton, Drummondville and Trois-Rivières on Wednesday 28 October
-2026. [@2,4] They searched five homes and farm fields and three vehicles. [@2,4]
+2026. [@2,4,5] They searched five homes and farm fields and three vehicles. [@2,4,5]
 Three men — one aged 31 and two aged 46 — were arrested, interviewed and
-released. [@1,4] Police said they could eventually face cannabis-smuggling
-charges. [@2,4]
+released. [@1,4,5] Police said they could eventually face cannabis-smuggling
+charges. [@2,4,5]
 
 Officers seized more than 600 cannabis plants, about 1,950 kg of dried cannabis
-buds and nearly 6 kg of hashish. [@1] They also found about 480 methamphetamine
-tablets and seized four vehicles as offence-related property. [@2] About 60
-police officers took part in the operation. [@1,4] The warrants were executed by
+buds and nearly 6 kg of hashish. [@1,5] They also found about 480 methamphetamine
+tablets and seized four vehicles as offence-related property. [@2,5] About 60
+police officers took part in the operation. [@1,4,5] The warrants were executed by
 MRC d'Acton officers, the Escouade régionale mixte (ERM, a joint regional
 squad), Trois-Rivières police and road controllers from the transport ministry
 (MTMD). [@3]
 
 The searches followed an investigation opened in summer 2026 into a criminal
 organisation of producers said to work under the cover of several Health Canada
-medical cannabis production certificates. [@1,4] The operation was run under
+medical cannabis production certificates. [@1,4,5] The operation was run under
 ACCES-Cannabis (Actions concertées pour contrer les économies souterraines), a
 provincial programme set up in 2018 to fight cannabis smuggling at every stage
 of the supply chain, from illegal production to neighbourhood dealing. [@1] The
