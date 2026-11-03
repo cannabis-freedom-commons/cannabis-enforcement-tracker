@@ -218,6 +218,16 @@ sources:
     publisher: Prabhasakshi
     date: 2026-10-31
     language: hi
+  - title: 'झांसी एंटी नारकोटिक्स टास्क फोर्स ने MP में गांजा पकड़ा: 1.30 करोड़ का गांजा मैहर जा रहा था, तस्कर यूपी का रहने वाला'
+    url: https://www.bhaskar.com/local/uttar-pradesh/jhansi/news/jhansi-anti-narcotics-task-force-seizes-ganja-maihar-mp-139545693.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
+  - title: 'झांसी एंटी नारकोटिक्स टास्क फोर्स ने MP में गांजा पकड़ा: 1.30 करोड़ का गांजा मैहर जा रहा था, तस्कर यूपी का रहने वाला - Jhansi News'
+    url: https://www.bhaskar.com/local/uttar-pradesh/jhansi/video/jhansi-anti-narcotics-task-force-seizes-ganja-maihar-mp-139545693.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -257,6 +267,9 @@ open_questions:
   - The Naidunia account values the consignment at about Rs 4.5 crore, above the Rs 4,35,55,000 figure used in the existing report.
   - The Prabhasakshi account gives the weight as 871.95 kg, while the existing report records 871 kg 95 g (871.095 kg); the existing figure is retained.
   - The Prabhasakshi page carries a lead image whose caption repeats only the headline and gives no credit, so it could not be confirmed to show this seizure and no media entry was added from it.
+  - The Bhaskar account values the consignment at Rs 1,30,66,000, while the existing report records Rs 4,35,55,000 from other outlets.
+  - The Bhaskar account reports 29 sacks in a truck, while the existing report records 28 sacks concealed among 412 paint cans in a container.
+  - The submitted video page contains almost no readable article text beyond its headline, so details are drawn from the same-ID Bhaskar news page; the video footage itself could not be confirmed to show this seizure, so no media entry is added.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -265,7 +278,7 @@ carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27]
+Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
 [@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
@@ -276,15 +289,15 @@ Nagaland registration number, police said. [@2]
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22,24,25,27] The driver and the other man tried to flee but were caught, police
+plaza. [@1,16,19,22,24,25,27,29] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19,27] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28] The consignment was to be unloaded near a
-Jio petrol pump before reaching Maihar, he said. [@1,16,25,27] The 28 sacks were loaded
+Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30] The 28 sacks were loaded
 into the container at Sahu's location on 27 October. [@1,9,11,25,27] Singh said he was
 promised ₹1 lakh for the trip. [@1,10,27] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
@@ -292,7 +305,7 @@ were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28] Inv
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12,19]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15,29] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15]
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5,18] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
@@ -307,3 +320,5 @@ Superintendent of Police Sampat Upadhyay said at the police control room that th
 The container's driver was also its owner and was allegedly supplying cannabis in several cities before passing through Jabalpur, CG MP News reported. [@21]
 
 The case was registered under Sections 8/20 and 29 of the Narcotic Drugs and Psychotropic Substances Act. [@24,25]
+
+The Bhaskar account reports 29 sacks containing 871 kg 95 g of ganja in the truck. [@29] The Bhaskar account values the 871 kg consignment at Rs 1 crore 30 lakh 66 thousand. [@29]
