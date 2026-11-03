@@ -34,11 +34,21 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-30
     language: hi
+  - title: 'किसान के खेत से गांजे के 9 पौधे जब्त: 4 किलो गांजे के साथ आरोपी गिरफ्तार; NDPS का मामला दर्ज'
+    url: https://www.bhaskar.com/local/mp/chhindwara/pandhurna/news/pandhurna-nilkanth-village-farmer-arrested-ganja-seized-ndps-act-139525761.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-29
+    language: hi
 open_questions:
   - The detailed account dates the Gujar Khedi action to 24 November despite publication on 30 October; the first action date and reported 35-day span cannot be reconciled.
   - The case-level plant counts imply about 66 plants (56, one tall plant, and about nine), but the source does not give a combined count.
   - Only Dainik Bhaskar coverage was found; the readable text page is an alternate view of the submitted video story, not an independent second account.
   - The submitted video page links a clip but its captured text does not describe the footage, so it is not possible to confirm that the clip shows this event and it is omitted.
+  - The submitted page gives only its publication date of 29 October 2026 and no separate day for the raid, while the existing report dates the Neelkanth raid to 28 October.
+  - The submitted page spells the village as Nilkanth and the accused as भाऊराव धुर्वे while the existing report uses Neelkanth and Bhau Rao Dhurve by transliteration.
+  - The submitted page carries a lead photo but its caption and alt text are empty, so whether it shows this seizure could not be established and no media entry is added.
+  - No second independent account of this single-field raid was found; the later Dainik Bhaskar roundup already cited in the existing report covers the same Neelkanth seizure as part of three cases.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police arrested Dhurve under the Narcotic Drugs and Psychotropic Substances Act.'
 ---
 
 Police in Pandhurna arrested three farmers in a 35-day sequence involving three
@@ -54,8 +64,7 @@ premises. [@2] Salame was arrested and sent to jail. [@2]
 
 On 28 October in Neelkanth, a team led by station officer Amit Dani raided
 farmer Bhau Rao Dhurve’s field and found about nine plants weighing around 4 kg.
-[@2] Police arrested Dhurve under the Narcotic Drugs and Psychotropic Substances
+[@2,3] Police arrested Dhurve under the Narcotic Drugs and Psychotropic Substances
 Act and sent him to judicial custody. [@2] Police were investigating whether an
 organized network was behind the cultivation or whether the accused had grown
 cannabis independently. [@2]
-
