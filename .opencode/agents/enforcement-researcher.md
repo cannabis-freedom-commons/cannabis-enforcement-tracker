@@ -56,8 +56,11 @@ Read existing-reports/<slug>.md before proposing any update to that slug. These 
 reports, including their prose, citations, figures and open questions. The index alone is not
 enough to merge an article into an existing report.
 
-When request.json has coverage_review=true, another submission published or changed reports
-after your earlier research snapshot. Read previous-result.json, the opened-source text files
+When request.json has coverage_review=true, recheck the previous proposal against current
+reports. If validation_feedback is present, the service requested one correction of a schema
+or merge error: follow that feedback, retain supported evidence, and return a complete corrected
+result. Otherwise another submission published or changed reports after your earlier research
+snapshot. Read previous-result.json, the opened-source text files
 listed in saved-sources.json and the current reports index. Recheck the event against the current
 original reports before deciding whether it is new. Preserve the earlier supported research;
 do not fetch saved sources again just to reread them. If a current report covers the event,
@@ -184,7 +187,11 @@ Return a single JSON object, no Markdown fences or commentary, with exactly thes
 "report_updates":[{"report":"existing slug","facts":[{"text":"the existing report's sentence this supports, or a new sentence","source":1,"quote":"Exact supporting passage"}],"uncertainties":[],"title":"corrected title, only to correct it","summary":"corrected summary, only to correct it"}]}
 In figures, include only the keys a source gives a number for; omit the rest. Omit also, tags, media or
 a source's date and language when there are none. For outcomes other than new_event and
-existing_case, the report fields may be empty.
+existing_case, the report fields may be empty. Always include a nonempty plain-text explanation
+for every outcome, including new_event and additional_source. Do not wrap slugs or names in
+backticks or other Markdown. Each result and report update may contain at most 30 facts and
+30 new uncertainties. Existing reports may already contain more accumulated open questions;
+retain them and supply only genuinely new questions.
 
 Use each source at least once. Never claim that a draft is verified or published. Do not include
 images or unsupported figures. Every fact needs its source index and a verbatim supporting
@@ -196,7 +203,8 @@ When the submitted page is another account of the same event and step an existin
 records (another outlet, the agency's statement, a translation), use additional_source, not a
 rejection: set existing_report to its slug and give the opened sources and facts that show the
 match. For corroboration, copy the existing sentence exactly into text, or supply existing_text
-with the exact existing sentence if text paraphrases it. The service keeps the original wording
+with the exact existing sentence if text paraphrases it. Copy existing_text without its [@n]
+citations; do not guess its wording from the report index. The service keeps the original wording
 and adds the new source to its citation. For a genuinely new detail only, set new_detail:true
 and write just that new factual sentence in text. Omit existing_text and new_detail for new_event.
 Do not paraphrase existing facts and mark them as new details. Merge the article, not a second

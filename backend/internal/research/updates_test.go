@@ -105,6 +105,21 @@ func TestAdditionalSourceAndReportUpdatesValidate(t *testing.T) {
 	}
 }
 
+func TestAdditionalSourceCanCorroborateMoreThanTenFacts(t *testing.T) {
+	r := valid()
+	r.Outcome, r.ExistingReport = "additional_source", r.Slug
+	for len(r.Facts) < 30 {
+		r.Facts = append(r.Facts, r.Facts[0])
+	}
+	if err := r.Validate(map[string]bool{"th": true}); err != nil {
+		t.Fatal(err)
+	}
+	r.Facts = append(r.Facts, r.Facts[0])
+	if r.Validate(map[string]bool{"th": true}) == nil {
+		t.Fatal("unbounded corroborating facts")
+	}
+}
+
 func TestConfirmChecksAndRenumbersUpdateFacts(t *testing.T) {
 	r := valid()
 	r.Sources = append(r.Sources, Source{URL: "https://news.example/b", Title: "Second", Publisher: "Second"})

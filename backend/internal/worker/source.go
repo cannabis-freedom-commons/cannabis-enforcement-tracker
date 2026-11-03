@@ -5,11 +5,16 @@ import (
 	"errors"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
+
+func captureStorageError(err error) bool {
+	return err != nil && (strings.Contains(err.Error(), "no space left on device") || strings.Contains(err.Error(), "ENOSPC"))
+}
 
 func (w *Worker) loadSource(ctx context.Context, cid, raw string) (safeurl.Evidence, error) {
 	return safeurl.ResolveSource(ctx, raw, func(ctx context.Context, u string) (safeurl.Evidence, error) { return w.loadSourceDirect(ctx, cid, u) }, safeurl.LookupArchive)

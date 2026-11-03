@@ -107,7 +107,25 @@ export function extractSourcePage() {
     open_graph: Object.fromEntries(Object.entries(tags).filter(([key]) => key.startsWith("og:") || key.startsWith("article:"))),
     twitter: Object.fromEntries(Object.entries(tags).filter(([key]) => key.startsWith("twitter:"))), json_ld: jsonLD,
   };
-  const candidates = [document.querySelector("article"), document.querySelector("main"), document.body];
+  // Related-story cards often use <article> too. Anchor the capture to the visible
+  // headline and main content before considering standalone article elements.
+  const unrelated = "nav, aside, footer, [role=banner], [role=navigation], [role=complementary], [class*=related], [class*=recommend], [class*=promo], [class*=advert]";
+  const visible = element => element && element.getClientRects().length && !element.closest(unrelated);
+  const title = clean(tags["og:title"] || document.title).toLocaleLowerCase();
+  const headlines = [...document.querySelectorAll("h1")].filter(visible);
+  const headlineScore = element => {
+    const text = clean(element.innerText).toLocaleLowerCase();
+    return text && title.includes(text) ? text.length : 0;
+  };
+  headlines.sort((a, b) => headlineScore(b) - headlineScore(a));
+  const headline = headlines[0];
+  const byLength = (a, b) => b.innerText.trim().length - a.innerText.trim().length;
+  const mains = [...document.querySelectorAll("main, [role=main]")].filter(visible).sort(byLength);
+  const articles = [...document.querySelectorAll("article")].filter(visible).sort(byLength);
+  const candidates = [headline?.closest("article"), headline?.closest("main, [role=main]"), ...mains,
+    // A headline outside semantic containers is common on custom-element sites.
+    // In that case, the body is safer than an unrelated article card.
+    ...(headline ? [document.body] : articles), document.body];
   const content = candidates.find(element => (element?.innerText || "").trim().length >= 200) || document.body;
   const text = (content?.innerText || "").trim();
   const clone = document.documentElement.cloneNode(true);
@@ -234,7 +252,7 @@ export async function captureSource({ url, dir, proxy, token }) {
       fs.writeFile(path.join(dir, "metadata.json"), JSON.stringify(extracted.metadata, null, 2), { mode: 0o600 }),
     ]);
     const status = response?.status() || 0;
-    const evidence = { access_blocked: (await response?.headerValue("cf-mitigated")) === "challenge" ? "Cloudflare" : "", url, final_url: page.url(), content: extracted.content, text: extracted.text, metadata: extracted.metadata, rendered: true, screenshot, browser_warning: screenshotError,
+    const evidence = { access_blocked: (await response?.headerValue("cf-mitigated").catch(() => "")) === "challenge" ? "Cloudflare" : "", url, final_url: page.url(), content: extracted.content, text: extracted.text, metadata: extracted.metadata, rendered: true, screenshot, browser_warning: screenshotError,
       cleanup: { blocker: Boolean(blocker), blocked_requests: blocked, consent: consent.done ? `refused (${consent.cmp || "dialog"})` : consent.detected ? `${blocker ? "hidden" : "found, not answered"} (${consent.cmp || "dialog"})` : "none found" } };
     if (height < fullHeight) evidence.browser_warning = [screenshotError, "Screenshot height limited to 40,000 pixels."].filter(Boolean).join(" ");
     const error = status >= 400 ? `The browser page answered HTTP ${status}.` : navigationError && !extracted.text ? "Browser navigation failed." : "";

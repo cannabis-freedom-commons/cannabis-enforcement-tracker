@@ -87,7 +87,8 @@ const reports = defineCollection({
     tags: z.array(z.string().regex(/^[a-z0-9-]+$/)).optional(),
     created_by_model: z.string().trim().min(1).max(300), // required; "unknown" only when attribution was not recorded
     submission: z.string().regex(/^[0-9a-f]{32}$/).optional(), // the submission the service created it from
-    open_questions: z.array(z.string().trim().min(1).max(4000)).max(30).optional(),
+    // Updates accumulate questions from many sources; the model's per-run limit is separate.
+    open_questions: z.array(z.string().trim().min(1).max(4000)).optional(),
     sources: z.array(source).min(1, { message: "a report needs at least one source" }),
   }).strict()
     .refine((r) => !r.added_at_source || r.added_at, { message: "added_at_source needs added_at" })

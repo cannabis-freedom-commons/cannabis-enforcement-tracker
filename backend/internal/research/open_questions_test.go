@@ -2,6 +2,7 @@ package research
 
 import (
 	"context"
+	"fmt"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -11,6 +12,44 @@ import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"gopkg.in/yaml.v3"
 )
+
+func TestMergedQuestionsHaveNoPerRunLifetimeCeiling(t *testing.T) {
+	dir := t.TempDir()
+	r := valid()
+	r.Facts[0].Text = strings.Repeat("Police raided the farm and arrested two men. ", 6)
+	for i := 0; i < 30; i++ {
+		r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Original unresolved question %d.", i))
+	}
+	path := filepath.Join(dir, "reports/2026/01", r.Slug+".md")
+	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
+		t.Fatal(err)
+	}
+	if err := os.WriteFile(path, []byte(r.Markdown()), 0644); err != nil {
+		t.Fatal(err)
+	}
+	u := ReportUpdate{Report: r.Slug, Facts: r.Facts, Uncertainties: []string{"Original  unresolved question 0.", "A genuinely new discrepancy remains unresolved."}}
+	d, err := UpdateReport(dir, u, r.Sources, nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	var header struct {
+		Questions []string `yaml:"open_questions"`
+	}
+	if err := yaml.Unmarshal([]byte(strings.SplitN(d.Content, "---", 3)[1]), &header); err != nil {
+		t.Fatal(err)
+	}
+	if len(header.Questions) != 31 || header.Questions[0] != r.Uncertainties[0] || header.Questions[30] != u.Uncertainties[1] {
+		t.Fatal(header.Questions)
+	}
+	if err := CheckReport(repo, d.Path, d.Content); err != nil {
+		t.Fatal("accumulated questions invalidated a sourced report", err)
+	}
+	// Intake bounds remain in force even though a report can accumulate more over time.
+	r.Uncertainties = append(r.Uncertainties, "Thirty-first question in one model result.")
+	if r.Validate(map[string]bool{"th": true}) == nil {
+		t.Fatal("unbounded per-run questions")
+	}
+}
 
 func TestOpenQuestionsDoNotInvalidateSourcedReportAndSurviveMarkdown(t *testing.T) {
 	r := valid()

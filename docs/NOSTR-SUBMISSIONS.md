@@ -234,6 +234,21 @@ Updates preserve `disputed` and retain `verified` only when the older report was
 the added facts all pass. A checked addition cannot certify unchecked older prose; corrected
 titles/summaries remain `reported` pending a full check.
 
+The service normalizes formatting in public decision labels and supplies a neutral operation
+description when a drafted result omits its explanation; rejected outcomes still require the
+model's own rationale. Explanation limits count Unicode characters, not UTF-8 bytes. Each
+generated result/update is limited to 30 facts and 30 new questions. A report can accumulate
+more open questions across updates: earlier discrepancies are preserved, with whitespace-only
+duplicates ignored, rather than failing after its thirtieth lifetime question.
+
+A schema-invalid result or unmatched corroborating sentence gets one automatic correction
+review using its saved research, captured sources and current reports. This is a normal budgeted
+OpenCode run, with the validation feedback in its private input. It never guesses a merge target,
+changes a quotation or bypasses validation. A second invalid answer remains failed. Technical job
+errors are logged privately with the job, kind, case and attempt; local disk-full capture errors
+retry as infrastructure failures instead of being recorded as inaccessible publisher pages.
+Restart the backend to apply the Go changes; the source-capture script is read on each capture.
+
 Existing backend reports can be reclassified from saved service checks without another model
 run or network request: `node scripts/recheck-report-status.mjs backend/data/tracker.sqlite`
 previews eligible reports; add `--write` to apply. It opens SQLite read-only and changes only

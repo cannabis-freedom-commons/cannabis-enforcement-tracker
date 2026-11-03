@@ -32,11 +32,14 @@ type ReportUpdate struct {
 // ErrUnchanged is an update that would change nothing: its sources are already in the report.
 var ErrUnchanged = errors.New("the report already cites these sources")
 
+// ErrMergeTarget requires another model pass against the original report, not a fuzzy merge.
+var ErrMergeTarget = errors.New("merge fact must match an existing cited sentence or explicitly be a new_detail; do not append a paraphrase of existing prose")
+
 func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 	if !slug.MatchString(u.Report) || len(u.Report) > 100 {
 		return errors.New("invalid report to update")
 	}
-	if len(u.Facts) == 0 || len(u.Facts) > 10 || len(u.Uncertainties) > 10 {
+	if len(u.Facts) == 0 || len(u.Facts) > 30 || len(u.Uncertainties) > 30 {
 		return errors.New("invalid report update")
 	}
 	for _, f := range u.Facts {
@@ -258,7 +261,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 			changed = changed || extra != next
 			extra = next
 		} else if f.ExistingText != "" || !f.NewDetail {
-			return d, errors.New("merge fact must match an existing cited sentence or explicitly be a new_detail; do not append a paraphrase of existing prose")
+			return d, ErrMergeTarget
 		} else if !strings.Contains(body, strings.TrimSpace(f.Text)) {
 			if extra != "" {
 				extra += " "
@@ -318,7 +321,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 		for _, q := range u.Uncertainties {
 			seen := false
 			for _, o := range append(old, newQuestions...) {
-				seen = seen || o.Value == q
+				seen = seen || strings.Join(strings.Fields(o.Value), " ") == strings.Join(strings.Fields(q), " ")
 			}
 			if !seen {
 				newQuestions = append(newQuestions, scalar(q))

@@ -29,6 +29,7 @@ import (
 	"strconv"
 	"strings"
 	"time"
+	"unicode/utf8"
 )
 
 type Source struct {
@@ -166,16 +167,34 @@ func CleanTags(tags []string) []string {
 	return out
 }
 
+// CleanPresentation removes formatting from public decision labels, never from facts or
+// quotations. Drafts can use a service-owned description of the proposed operation when
+// the model omitted its explanation; a rejection still needs the model's actual rationale.
+func (r *Result) CleanPresentation() {
+	r.Explanation = strings.TrimSpace(plain.ReplaceAllString(r.Explanation, ""))
+	r.DecisionTitle = strings.TrimSpace(plain.ReplaceAllString(r.DecisionTitle, ""))
+	if r.Explanation == "" {
+		switch r.Outcome {
+		case "new_event":
+			r.Explanation = "The AI proposed a new enforcement report for source and report validation."
+		case "additional_source":
+			r.Explanation = "The AI proposed adding sources to an existing report for source and report validation."
+		case "existing_case":
+			r.Explanation = "The AI proposed updating an existing case for source and report validation."
+		}
+	}
+}
+
 func (r Result) Validate(countries map[string]bool) error {
 	switch r.Outcome {
 	case "new_event", "existing_case", "additional_source", "duplicate", "not_relevant", "insufficient_evidence", "routed_to_cfi", "needs_review":
 	default:
 		return errors.New("invalid outcome")
 	}
-	if len(r.DecisionTitle) > 120 || plain.MatchString(r.DecisionTitle) {
+	if utf8.RuneCountInString(r.DecisionTitle) > 120 || plain.MatchString(r.DecisionTitle) {
 		return errors.New("invalid decision title")
 	}
-	if len(r.Explanation) < 10 || len(r.Explanation) > 1500 || plain.MatchString(r.Explanation) {
+	if n := utf8.RuneCountInString(r.Explanation); n < 10 || n > 1500 || plain.MatchString(r.Explanation) {
 		return errors.New("invalid explanation")
 	}
 	if len(r.Sources) > 8 || len(r.Facts) > 30 || len(r.Uncertainties) > 30 {
@@ -756,6 +775,7 @@ type Runner struct {
 	// A publication race needs a new event-identity decision, not a new source crawl.
 	PreviousResult   *Result
 	PreviousEvidence []safeurl.Evidence
+	ReviewProblem    string
 }
 
 // Snapshot clones history and overlays trusted current site inputs for local validation.
@@ -865,6 +885,9 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	files := map[string][]byte{"reports-index.jsonl": []byte(index.String())}
 	if r.PreviousResult != nil {
 		request["coverage_review"] = true
+		if r.ReviewProblem != "" {
+			request["validation_feedback"] = r.ReviewProblem
+		}
 		request["previous_result"] = "previous-result.json"
 		request["saved_sources"] = "saved-sources.json"
 		files["previous-result.json"], _ = json.MarshalIndent(r.PreviousResult, "", "  ")

@@ -95,8 +95,12 @@ func (w *Worker) jobs(ctx context.Context, kind string) {
 			close(stop)
 			cancel()
 			if errors.Is(err, errCoverageRequeued) {
-				// The fenced publication was atomically replaced by a research job.
+				// The fenced job was atomically replaced by a research review.
 				continue
+			}
+			if err != nil && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrInterrupted) {
+				// Private operator diagnostics, never part of the public AI transcript.
+				slog.Error("job processing failed", "job", j.ID, "kind", j.Kind, "case", j.Ref, "attempt", j.Attempts, "error", err)
 			}
 			if ctx.Err() != nil {
 				err = store.ErrInterrupted
@@ -327,6 +331,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			if errors.Is(err, safeurl.ErrUnsafeDestination) {
 				return w.Store.Transition(ctx, j.Ref, "insufficient_evidence", "The source destination is not permitted for public research.", "", "")
 			}
+			if captureStorageError(err) {
+				return err // retry local storage failures rather than blaming the source
+			}
 			// The source check: the submitted page itself must load, be readable and be about cannabis before
 			// any AI research. A report rests on the source that was sent, not on whatever else can be found.
 			if err != nil {
@@ -365,6 +372,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if checkpoint.ReviewCoverage {
 			runner.PreviousResult = &checkpoint.Result
 			runner.PreviousEvidence = checkpoint.Evidence
+			runner.ReviewProblem = checkpoint.ReviewProblem
 		}
 		dir, err = runner.Snapshot(ctx, j.Ref)
 		if err != nil {
@@ -395,11 +403,12 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			checkpoint.AddedAt, checkpoint.Code = "", ""
 		}
 
-		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AddedAt: checkpoint.AddedAt, Code: checkpoint.Code}
+		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
 		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
 			return err
 		}
 	}
+	result.CleanPresentation()
 	// the answer is public: the request page shows it as a report, whatever happens to it next
 	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": "", "draft_markdown": ""})
 	b, err := os.ReadFile(filepath.Join(w.Config.RepoPath, "src/data/countries.json"))
@@ -420,6 +429,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	result.Uncertainties = append(result.Uncertainties, research.FigureGaps(result)...)
 	result.Tags = research.CleanTags(result.Tags) // a tag in another script or with spaces is mended, not refused
 	if err = result.Validate(ids); err != nil {
+		if checkpoint.RepairAttempts < 1 {
+			return w.requeueResearchReview(ctx, j, nil, "The result did not pass schema validation: "+err.Error()+". Correct the result using the saved sources and current reports; do not invent missing evidence.")
+		}
 		return w.Store.Transition(ctx, j.Ref, "failed", "The AI result did not pass validation ("+err.Error()+") and cannot be published automatically.", "", "")
 	}
 	// Scope decisions do not draft facts. They must not fail quotation checks for
@@ -548,6 +560,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		return w.Store.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
 	}
 	if err != nil {
+		if errors.Is(err, research.ErrMergeTarget) && checkpoint.RepairAttempts < 1 {
+			return w.requeueResearchReview(ctx, j, nil, "An update could not match its existing sentence. Read the current target report and copy each corroborated sentence exactly into existing_text, without citations. Only genuinely new details may use new_detail:true. Do not append paraphrases of existing prose.")
+		}
 		var build *research.BuildError
 		if errors.As(err, &build) {
 			return w.Store.Transition(ctx, j.Ref, "failed", "The AI's draft did not pass the report check:\n\n"+build.Detail+"\n\nRestart to research and draft it again.", "", "")
@@ -589,7 +604,9 @@ type researchCheckpoint struct {
 	Initial                 safeurl.Evidence
 	Evidence                []safeurl.Evidence `json:",omitempty"`
 	Dir, Model, ArtifactDir string
-	ReviewCoverage          bool `json:",omitempty"`
+	ReviewCoverage          bool   `json:",omitempty"`
+	ReviewProblem           string `json:",omitempty"`
+	RepairAttempts          int    `json:",omitempty"`
 	Coverage                map[string]string
 	AddedAt                 string `json:",omitempty"`
 	Code                    string `json:",omitempty"`

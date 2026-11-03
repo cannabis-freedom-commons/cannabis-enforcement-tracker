@@ -84,6 +84,12 @@ var errCoverageRequeued = errors.New("publication replaced by coverage review")
 // A crash at any point resumes either the original publication or this review;
 // it never publishes the stale draft or loses its completed research/evidence.
 func (w *Worker) requeueCoverageReview(ctx context.Context, j store.Job, content []byte) error {
+	return w.requeueResearchReview(ctx, j, content, "")
+}
+
+// A malformed result or unmatched merge target gets one correction attempt with saved
+// evidence. The service still runs all schema, quotation, merge and publication checks.
+func (w *Worker) requeueResearchReview(ctx context.Context, j store.Job, content []byte, problem string) error {
 	tx, err := w.Store.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return err
@@ -98,6 +104,13 @@ func (w *Worker) requeueCoverageReview(ctx context.Context, j store.Job, content
 		return err
 	}
 	checkpoint.ReviewCoverage = true
+	checkpoint.ReviewProblem = problem
+	if problem != "" {
+		if checkpoint.RepairAttempts >= 1 {
+			return errors.New("the result correction attempt has already been used")
+		}
+		checkpoint.RepairAttempts++
+	}
 	if len(content) > 0 && checkpoint.Result.Outcome == "new_event" {
 		parts := frontmatter.Split(string(content))
 		if len(parts) != 3 {
@@ -132,6 +145,9 @@ func (w *Worker) requeueCoverageReview(ctx context.Context, j store.Job, content
 		return err
 	}
 	why := "Another submission changed report coverage while this one was researching. Saved research will be checked against the latest reports before publication."
+	if problem != "" {
+		why = "The proposed result needs a correction before it can be validated. One research review will use the saved sources and current reports; all evidence and report checks still apply."
+	}
 	if _, err = tx.ExecContext(ctx, "UPDATE cases SET status='queued',explanation=?,report_slug='',draft_path='',draft_markdown='',updated_at=? WHERE id=?", why, now, j.Ref); err != nil {
 		return err
 	}

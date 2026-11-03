@@ -155,9 +155,6 @@ func CheckReport(dir, rel, content string) error {
 	}
 	if v, ok := data["open_questions"]; ok {
 		list := c.list("open_questions", v)
-		if len(list) > 30 {
-			c.fail("open_questions: at most 30")
-		}
 		for i, q := range list {
 			c.text(fmt.Sprintf("open_questions[%d]", i), q, 4000, true)
 		}

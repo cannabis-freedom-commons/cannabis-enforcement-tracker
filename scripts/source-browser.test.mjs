@@ -5,10 +5,31 @@ import os from "node:os";
 import path from "node:path";
 import http from "node:http";
 import { chromium } from "playwright";
-import { captureSource } from "./source-browser.mjs";
+import { captureSource, extractSourcePage } from "./source-browser.mjs";
 
 let browserAvailable = true;
 try { await fs.access(chromium.executablePath()); } catch { browserAvailable = false; }
+
+test("source extraction follows the story rather than the first article preview and excludes hidden evidence", { skip: !browserAvailable }, async () => {
+  const browser = await chromium.launch({ channel: "chromium", headless: true });
+  try {
+    const page = await browser.newPage();
+    const story = "Police reported a cannabis seizure and arrested two suspects at the farm. ".repeat(5);
+    const preview = "An unrelated robbery was reported in another district. ".repeat(12);
+    const hidden = "This allegation is hidden behind a paywall.";
+    for (const body of [
+      `<article>${preview}</article><main><article><h1>Cannabis seizure</h1><p>${story}</p><p hidden>${hidden}</p></article></main>`,
+      `<h1>Cannabis seizure</h1><article>${preview}</article><main><app-article-paragraph>${story}</app-article-paragraph><p style="display:none">${hidden}</p></main>`,
+      `<h1>Cannabis seizure</h1><article>${preview}</article><section>${story}</section><p hidden>${hidden}</p>`,
+    ]) {
+      await page.setContent(`<html><head><title>Cannabis seizure</title><meta name="description" content="${hidden}"></head><body>${body}</body></html>`);
+      const result = await page.evaluate(extractSourcePage);
+      assert.ok(result.text.includes(story.trim()), result.text);
+      assert.ok(!result.text.includes(hidden), "hidden content became quotation evidence");
+      if (body.includes("<main>")) assert.ok(!result.text.includes(preview.trim()), "selected the related-story card");
+    }
+  } finally { await browser.close(); }
+});
 
 test("Playwright captures JavaScript text, SEO metadata, redirects and screenshots through the proxy", { skip: !browserAvailable, timeout: 45000 }, async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), "tracker-source-fixture-"));
