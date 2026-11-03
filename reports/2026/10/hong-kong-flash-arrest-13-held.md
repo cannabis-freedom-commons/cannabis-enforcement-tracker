@@ -67,18 +67,25 @@ sources:
     publisher: 香港01
     date: 2026-10-30
     language: zh
+  - title: 警反毒品行動拘13人 檢總值3400萬元不同種類毒品
+    url: https://www.dotdotnews.com/s/202610/30/AP6ae44a0ee4b02fd1c5f600e5.html
+    publisher: 點新聞
+    date: 2026-10-30
+    language: zh
 open_questions:
   - The 32 kg and HK$34 million figures cover the whole mixed haul of cocaine, methamphetamine, etomidate and cannabis; no separate total weight or value for the cannabis was published.
   - Wen Wei Po dates the operation to 13–26 October, while myTV Super and HK01 report the final raids on 29 October; the report uses 29 October.
   - The sources do not say how many of the 13 arrests or the two charges concern cannabis rather than the other drugs.
   - No outcome of the two trafficking cases was reported.
   - The myTV Super page carries only a still of the police briefing, not a photo of the raids, so no image from it is listed.
+  - The DotDotNews page does not use the 'Flash Arrest' codename or report the two trafficking charges and court dates already in the report.
+  - Its 32 kg and HK$34 million totals cover cocaine, cannabis, methamphetamine and etomidate together, with no separate cannabis value.
 ---
 
 Hong Kong police ran an anti-drug operation codenamed Flash Arrest (閃逮) from 13
 to 29 October 2026. [@1] They arrested 11 men and two women aged 22 to 73 on
 suspicion of trafficking and manufacturing dangerous drugs, operating a drug den
-and taking drugs. [@3] Some of the 13 had triad backgrounds, police said. [@3]
+and taking drugs. [@3,4] Some of the 13 had triad backgrounds, police said. [@3]
 Two 29-year-old men have each been charged with one count of trafficking in a
 dangerous drug, appearing at Kowloon City Magistrates' Courts on 14 October and
 West Kowloon Magistrates' Courts on 24 October; the other 11 remained in
@@ -86,10 +93,10 @@ custody. [@3]
 
 Officers seized more than 32 kg of suspected drugs, including cocaine, cannabis,
 methamphetamine and etomidate, which police valued at more than HK$34 million.
-[@1] The 40 g of cannabis was found on 29 October when officers raided a 'drug
+[@1,4] The 40 g of cannabis was found on 29 October when officers raided a 'drug
 canteen' (毒品飯堂), a venue where drugs are sold and used, in Sau Mau Ping and a
 small drug warehouse in Sham Shui Po, along with 100 g of methamphetamine, a
-small amount of heroin and etomidate. [@3]
+small amount of heroin and etomidate. [@3,4]
 
 Police identified a private flat in Hung Hom as a suspected drug warehouse. [@2]
 On 13 October, officers lying in wait there stopped a man entering with a key
@@ -105,4 +112,3 @@ private flats and sent 'drug fast cars' to supply drug canteens and
 entertainment venues in Kowloon. [@2] Manufacturing or trafficking dangerous
 drugs carries a maximum of life imprisonment and a HK$5 million fine, police
 said. [@2]
-
