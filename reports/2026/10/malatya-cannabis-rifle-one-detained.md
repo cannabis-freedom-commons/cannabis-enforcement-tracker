@@ -165,6 +165,11 @@ sources:
     publisher: Malatya Time
     date: 2026-11-01
     language: tr
+  - title: Malatya'da Sokak Satıcılarına Yönelik Düzenlenen Operasyonda 2 Kilo Esrar Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-malatyada-sokak-saticilarina-yonelik-duzenlenen-operasyonda-2-kilo-esrar-ele-gecirildi/832617
+    publisher: Mersin Haber
+    date: 2026-10-30
+    language: tr
 open_questions:
   - The reports give no separate date for the searches; 30 October 2026 is the date the first accounts were published, so the operation happened on or before that evening.
   - No suspect name, age, district or neighbourhood within Malatya, charge, court date or estimated value for the drugs was published.
@@ -193,14 +198,14 @@ media:
 ---
 
 Police in Malatya detained a suspected street-level cannabis dealer after
-searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,26,27,28,29] The searches turned up 2 kg 50 g of
-esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20,22,24,26,27,28,29] The suspect
+searching his person and his address. [@1,2,5,6,7,9,10,11,12,13,14,15,16,17,18,20,21,22,26,27,28,29,30] The searches turned up 2 kg 50 g of
+esrar, the Turkish name for cannabis, and one unlicensed rifle. [@1,4,5,6,7,8,9,10,11,12,13,14,16,17,19,20,22,24,26,27,28,29,30] The suspect
 was taken into custody and his processing at the police station was continuing.
-[@2,5,8,11]
+[@2,5,8,11,30]
 
 The Malatya provincial police directorate said in a statement that its Narkotik
 Suçlarla Mücadele Şube Müdürlüğü — the narcotics branch — had searched the man
-after physical and technical surveillance of street sellers. [@2,4,5,6,8,9,13,16,25,26,27] The statement
+after physical and technical surveillance of street sellers. [@2,4,5,6,8,9,13,16,25,26,27,30] The statement
 put the seizure at 2 kg 50 g of cannabis and one unlicensed rifle. [@2,4,25] Malatya
 Haber, a local news site, reported that police had confiscated the cannabis and
 the rifle. [@3]
