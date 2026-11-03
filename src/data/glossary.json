@@ -214,9 +214,25 @@
       "id": "edibles",
       "kind": "glossary",
       "also": [
-        "edible"
+        "edible",
+        "THC gummies",
+        "cannabis gummies"
       ],
       "text": "Food or sweets made with cannabis, such as cookies, chocolate or gummies."
+    },
+    {
+      "id": "vape cartridge",
+      "kind": "glossary",
+      "also": [
+        "vape cartridges",
+        "THC cartridge",
+        "THC cartridges",
+        "THC vape",
+        "THC vapes",
+        "vape pen",
+        "vape pens"
+      ],
+      "text": "A small cartridge of cannabis oil, usually high in THC, that is heated in a battery-powered vaporiser and inhaled."
     },
     {
       "id": "concentrates",
@@ -782,6 +798,280 @@
         "precursor chemicals"
       ],
       "text": "A chemical used in making a drug. Many precursor chemicals also have ordinary legal uses, so controls often concern preventing their diversion into illegal production."
+    },
+    {
+      "id": "NDPS Act",
+      "kind": "glossary",
+      "also": [
+        "NDPS",
+        "Narcotic Drugs and Psychotropic Substances Act"
+      ],
+      "text": "India's Narcotic Drugs and Psychotropic Substances Act of 1985, its main drug law. Penalties depend on the amount; for ganja, up to 1 kg is a \"small quantity\" and 20 kg or more a \"commercial quantity\", which carries 10 to 20 years in prison."
+    },
+    {
+      "id": "Dangerous Drugs Act",
+      "kind": "glossary",
+      "also": [
+        "Comprehensive Dangerous Drugs Act"
+      ],
+      "text": "The title of the main drug law in several countries, among them Malaysia (1952) and, as the Comprehensive Dangerous Drugs Act of 2002, the Philippines."
+    },
+    {
+      "id": "Narcotics Control Act",
+      "kind": "glossary",
+      "also": [],
+      "text": "The title of the drug law in several countries. In reports from Bangladesh it is the Narcotics Control Act of 2018."
+    },
+    {
+      "id": "Article 228",
+      "kind": "glossary",
+      "also": [],
+      "text": "The article of Russia's Criminal Code on acquiring, keeping or carrying drugs without intent to sell. It applies from a \"significant\" amount set by government decree; smaller amounts are an administrative offence, and selling falls under Article 228.1."
+    },
+    {
+      "id": "Class B drug",
+      "kind": "glossary",
+      "also": [
+        "Class A drug",
+        "Class C drug",
+        "Class A drugs",
+        "Class B drugs",
+        "Class C drugs"
+      ],
+      "text": "The United Kingdom groups controlled drugs into Classes A, B and C, with A carrying the highest penalties. Cannabis is Class B, with up to five years in prison for possession and up to 14 years for supply."
+    },
+    {
+      "id": "controlled substance",
+      "kind": "glossary",
+      "also": [
+        "controlled substances",
+        "Controlled Substances Act"
+      ],
+      "text": "A drug whose making, possession and supply are restricted by law. In the United States the term comes from the Controlled Substances Act of 1970, which places drugs in schedules."
+    },
+    {
+      "id": "possession with intent to supply",
+      "kind": "glossary",
+      "also": [
+        "possession with intent to distribute",
+        "possession with intent to sell",
+        "intent to supply",
+        "intent to distribute",
+        "intent to sell"
+      ],
+      "text": "Having drugs with the intention of passing them on to others, a more serious offence than possession for one's own use. The intent is often inferred from the amount, the packaging, scales or cash."
+    },
+    {
+      "id": "death penalty",
+      "kind": "glossary",
+      "also": [
+        "death sentence",
+        "death sentences",
+        "sentenced to death",
+        "capital punishment"
+      ],
+      "text": "Execution as a punishment set by law. Some countries allow it for drug trafficking, among them Singapore, Indonesia, Iran, Saudi Arabia and China."
+    },
+    {
+      "id": "mandatory death sentence",
+      "kind": "glossary",
+      "also": [
+        "mandatory death penalty",
+        "mandatory death sentences"
+      ],
+      "text": "A death sentence the court must impose once guilt is proved, without weighing the circumstances. Singapore keeps it for trafficking above set amounts, such as more than 500 grams of cannabis, with narrow exceptions; Malaysia gave its judges a choice of sentence in 2023."
+    },
+    {
+      "id": "rigorous imprisonment",
+      "kind": "glossary",
+      "also": [
+        "simple imprisonment"
+      ],
+      "text": "Imprisonment with compulsory labour, a form of sentence in South Asian criminal law, for example in India and Bangladesh. Simple imprisonment is the same without labour."
+    },
+    {
+      "id": "magistrate",
+      "kind": "glossary",
+      "also": [
+        "magistrates",
+        "magistrates' court",
+        "magistrates' courts",
+        "magistrate's court",
+        "magistrate court"
+      ],
+      "text": "A judicial officer who deals with less serious cases and the first hearings of serious ones, such as remand and bail. Their courts usually pass serious cases on to a higher court for trial."
+    },
+    {
+      "id": "Crown Court",
+      "kind": "glossary",
+      "also": [],
+      "text": "The court in England and Wales that tries serious criminal cases, usually before a jury, and passes sentences that a magistrates' court cannot."
+    },
+    {
+      "id": "High Court",
+      "kind": "glossary",
+      "also": [
+        "High Courts"
+      ],
+      "text": "In many countries with English-style law, a senior court that tries the most serious cases and hears appeals from lower courts. In Malaysia and Singapore it tries drug trafficking cases that can carry the death penalty."
+    },
+    {
+      "id": "arraignment",
+      "kind": "glossary",
+      "also": [
+        "arraigned",
+        "arraign",
+        "arraignments"
+      ],
+      "text": "A court hearing at which the charges are formally read to the accused, who is asked to plead guilty or not guilty."
+    },
+    {
+      "id": "FIR",
+      "kind": "glossary",
+      "also": [
+        "First Information Report"
+      ],
+      "text": "First Information Report, the police record that opens a criminal case in India, Pakistan and Bangladesh. Registering an FIR starts an investigation; it is not a charge."
+    },
+    {
+      "id": "proclaimed offender",
+      "kind": "glossary",
+      "also": [
+        "proclaimed offenders"
+      ],
+      "text": "In India and Pakistan, a person a court has declared to be absconding after failing to appear, which allows their arrest anywhere and the seizure of their property."
+    },
+    {
+      "id": "station house officer",
+      "kind": "glossary",
+      "also": [
+        "SHO"
+      ],
+      "text": "In South Asia, the officer in charge of a police station, usually an inspector or sub-inspector."
+    },
+    {
+      "id": "crime branch",
+      "kind": "glossary",
+      "also": [],
+      "text": "A specialised investigation wing of a police force, in India and elsewhere, often given serious or complex cases."
+    },
+    {
+      "id": "money laundering",
+      "kind": "glossary",
+      "also": [
+        "laundering",
+        "laundered",
+        "launder"
+      ],
+      "text": "Hiding where money came from so that the proceeds of crime look legitimate, for example by passing them through businesses or bank accounts."
+    },
+    {
+      "id": "proceeds of crime",
+      "kind": "glossary",
+      "also": [
+        "criminal proceeds"
+      ],
+      "text": "Money or property gained from an offence. Courts can order it to be confiscated, sometimes even without a conviction."
+    },
+    {
+      "id": "gendarmerie",
+      "kind": "glossary",
+      "also": [
+        "gendarmeries",
+        "gendarme",
+        "gendarmes",
+        "Jandarma",
+        "Gendarmería"
+      ],
+      "text": "A police force with military status, as in France, Turkey, Morocco and Argentina, that usually polices rural areas, roads and borders."
+    },
+    {
+      "id": "Guardia Civil",
+      "kind": "glossary",
+      "also": [],
+      "text": "Spain's national police force with military status, which polices rural areas, coasts, ports and borders and seizes much of the hashish smuggled from Morocco."
+    },
+    {
+      "id": "Carabinieri",
+      "kind": "glossary",
+      "also": [
+        "carabiniere"
+      ],
+      "text": "Italy's national police force with military status, working alongside the State Police and the Guardia di Finanza. Moldova also has a carabinieri force, under its interior ministry."
+    },
+    {
+      "id": "Guardia di Finanza",
+      "kind": "glossary",
+      "also": [],
+      "text": "Italy's financial police, with military status, responsible for tax, customs and smuggling, including drugs brought in by sea and through ports."
+    },
+    {
+      "id": "Polícia Federal",
+      "kind": "glossary",
+      "also": [
+        "Polícia Rodoviária Federal",
+        "Policia Rodoviaria Federal",
+        "PRF"
+      ],
+      "text": "Brazil's federal police, which investigates drug trafficking across borders and states. The Polícia Rodoviária Federal (PRF) patrols the federal highways, where much cannabis is seized from vehicles."
+    },
+    {
+      "id": "DEA",
+      "kind": "glossary",
+      "also": [
+        "Drug Enforcement Administration"
+      ],
+      "text": "The Drug Enforcement Administration, the United States' federal drug police, part of the Department of Justice."
+    },
+    {
+      "id": "NDLEA",
+      "kind": "glossary",
+      "also": [
+        "National Drug Law Enforcement Agency"
+      ],
+      "text": "The National Drug Law Enforcement Agency, Nigeria's federal agency against drugs, which also destroys cannabis farms."
+    },
+    {
+      "id": "PDEA",
+      "kind": "glossary",
+      "also": [
+        "Philippine Drug Enforcement Agency"
+      ],
+      "text": "The Philippine Drug Enforcement Agency, set up under the Comprehensive Dangerous Drugs Act of 2002 to lead drug enforcement in the Philippines."
+    },
+    {
+      "id": "BNN",
+      "kind": "glossary",
+      "also": [
+        "Badan Narkotika Nasional",
+        "National Narcotics Agency",
+        "National Narcotics Board"
+      ],
+      "text": "Badan Narkotika Nasional, Indonesia's national narcotics agency, which investigates drug crimes and runs prevention and rehabilitation."
+    },
+    {
+      "id": "SENAD",
+      "kind": "glossary",
+      "also": [
+        "Secretaría Nacional Antidrogas"
+      ],
+      "text": "Secretaría Nacional Antidrogas, Paraguay's national anti-drug agency, which leads the destruction of cannabis fields with the police."
+    },
+    {
+      "id": "NCB",
+      "kind": "glossary",
+      "also": [
+        "Narcotics Control Bureau"
+      ],
+      "text": "The Narcotics Control Bureau, India's federal drug-enforcement agency. Nepal's police has a bureau of the same name."
+    },
+    {
+      "id": "CNB",
+      "kind": "glossary",
+      "also": [
+        "Central Narcotics Bureau"
+      ],
+      "text": "The Central Narcotics Bureau, Singapore's drug-enforcement agency."
     },
     {
       "id": "grow house",
