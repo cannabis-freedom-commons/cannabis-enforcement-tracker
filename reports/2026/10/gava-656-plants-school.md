@@ -76,6 +76,11 @@ sources:
     publisher: VilaPress
     date: 2026-11-02
     language: es
+  - title: Los Mossos desmantelan una plantación de 656 plantas de marihuana frente a un colegio de Gavà
+    url: https://gava.info/los-mossos-desmantelan-una-plantacion-de-656-plantas-de-marihuana-frente-a-un-colegio-de-gava/
+    publisher: Gavà.info
+    date: 2026-10-30
+    language: es
 open_questions:
   - The Mossos' X post says a young couple was detained, while El Periódico, La Vanguardia and Metrópoli Abierta say only the man was arrested and the woman was placed under investigation; the report follows the press account.
   - No weight, cultivated area or street value was published for the 656 plants.
@@ -89,24 +94,24 @@ open_questions:
 
 Mossos d'Esquadra, Catalonia's regional police force, dismantled an indoor
 cannabis plantation of 656 plants in a home facing an infant and primary school
-in Gavà, in the Baix Llobregat district, on 28 October 2026. [@1,5,6] A couple aged
+in Gavà, in the Baix Llobregat district, on 28 October 2026. [@1,5,6,7] A couple aged
 24 and 22 lived on the ground floor with their two minor children, one of them a
-month old. [@1,6] Officers arrested the 24-year-old man as the alleged author of a
-crime against public health and another of electricity fraud. [@1,6] The man's
+month old. [@1,6,7] Officers arrested the 24-year-old man as the alleged author of a
+crime against public health and another of electricity fraud. [@1,6,7] The man's
 detention was later lifted after he gave a statement at a police station,
-because of his obligation to care for the children. [@1,4,5]
+because of his obligation to care for the children. [@1,4,5,7]
 
 The investigation began with several complaints from neighbours about possible
-illegal activity in the home. [@1,4,5] Officers from the Gavà investigation unit
-carried out the entry and search. [@1,6] The upper floor was used entirely for the
-cannabis plantation, while the couple and the two children lived below. [@2] The
-plants were in an advanced stage of growth. [@2] Officers also found a
+illegal activity in the home. [@1,4,5,7] Officers from the Gavà investigation unit
+carried out the entry and search. [@1,6,7] The upper floor was used entirely for the
+cannabis plantation, while the couple and the two children lived below. [@2,7] The
+plants were in an advanced stage of growth. [@2,7] Officers also found a
 fraudulent electricity connection feeding both the grow area and the
-ground-floor home. [@1] The distribution company confirmed that the electricity
-bypassed every authorised meter and recorded high consumption. [@1] The Mossos
+ground-floor home. [@1,7] The distribution company confirmed that the electricity
+bypassed every authorised meter and recorded high consumption. [@1,7] The Mossos
 said they had removed the fraudulent connection. [@3] The company's report said
 303,446.4 kWh had been defrauded between 23 July 2025 and 22 July 2026, a loss
-it claimed at €74,190.40. [@1,6] Officers dismantled and disabled all the
-infrastructure used for the cultivation. [@1]
+it claimed at €74,190.40. [@1,6,7] Officers dismantled and disabled all the
+infrastructure used for the cultivation. [@1,7]
 
-The detained man's partner was reported over the fraudulent electricity installation. [@4,5]
+The detained man's partner was reported over the fraudulent electricity installation. [@4,5,7]
