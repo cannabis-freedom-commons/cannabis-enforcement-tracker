@@ -117,6 +117,11 @@ sources:
     url: https://enerjifm.com.tr/?id=39158&page=haber
     publisher: Enerji FM
     language: tr
+  - title: 'Bursa’da uyuşturucu serasına operasyon: 114 saksıda hint keneviri ele geçirildi'
+    url: https://www.mardinlife.com/gundem/bursa-da-uyusturucu-serasina-operasyon-114-saksida-hint-keneviri-ele-gecirildi/amp
+    publisher: Mardin Life
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The sources give no separate date for the operation, detention or court appearance; 31 October 2026 is the publication date of the earliest accounts.
   - No charge, trial date, sentence or estimated value of the cannabis was published; tutuklama is pre-trial detention, not a conviction.
@@ -141,6 +146,8 @@ open_questions:
   - The page gives only its publication date of 2 November 2026 and no separate date for the operation, detention or court order.
   - The captured page gives no publication date and no separate date for the searches, detention or court order.
   - The page's images carry only the article headline as caption with no photographer or agency credit and appear to repeat the İHA photo set already linked in the existing report, so no media entry is added.
+  - The submitted page calls the premises an iş yeri (workplace) while the existing report identifies it as a butcher's shop from more specific accounts.
+  - The page's sole image carries only the article headline as its caption with no photographer or agency credit, so it cannot be verified as showing this raid and no media entry is added.
 media:
   - kind: photo
     url: https://www.afyonturkeligazetesi.com/kasap-dukkaninin-altindan-uyusturucu-serasi-cikti-114-kok-kenevir-ele-gecirildi/148684
@@ -179,11 +186,11 @@ was sent to prison after the court order. [@2,3,4,9,10,11,12,17,20]
 Officers seized 114 cannabis plants in pots, 1 kg 885 g of esrar (cannabis) in
 four transparent bags, another 105 g in two bags and 924 g of cannabis left to
 dry, along with the climate-control and lighting equipment, liquid fertilisers
-and chemicals. [@1,3,4,5,9,10,11,16,17,18,19,20] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8,10,12,13,15]
+and chemicals. [@1,3,4,5,9,10,11,16,17,18,19,20,21] İhlas Haber Ajansı put the esrar total at 1 kg 990 g. [@2,5,6,7,8,10,12,13,15]
 
 The operation followed about a month of physical surveillance, after which
 police said the basement had been converted into a cannabis greenhouse and
-cannabis grown there was prepared for sale at another address. [@1,18,19] It was run
+cannabis grown there was prepared for sale at another address. [@1,18,19,21] It was run
 by Yıldırım district police teams working against drug manufacture and
 trafficking. [@2,3,4,5,6,8,10,11,12,15] Searches were carried out at several addresses under a
 decision by judicial authorities. [@2,3,4,8,10,11]
