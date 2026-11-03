@@ -26,6 +26,11 @@ sources:
     url: https://www.aninews.in/news/national/general-news/nine-arrested-over-attack-on-bsf-personnel-in-ashabari-tripura-sp-bijoy-debbarma-assures-strict-action-against-all-involved20261103142946/
     publisher: ANI
     date: 2026-11-03
+  - title: त्रिपुरामध्ये बीएसएफच्या जवानांवर जीवघेणा हल्ला
+    url: https://dainikekmat.com/deadly-attack-on-bsf-personnel-in-tripura/190690/
+    publisher: Dainik Ekmat
+    date: 2026-11-03
+    language: mr
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -34,10 +39,12 @@ open_questions:
   - No court outcome beyond the planned production in court on 3 November was reported.
   - The submitted page's only image is a 2019 file photo of BSF border patrol, not this event, so no media entry is included.
   - 'Left out, as its quotation was not found in ANI: The assault took place on Monday morning in the Ashabari area under Boxanagar.'
+  - This source gives no weight, packet count or value for the recovered ganja, so no cannabis quantity can be recorded from it.
+  - The page's only image is captioned only "bsf" with no credit or event detail, so it is not established to show this attack and no media entry is included.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
-attacking Border Security Force troopers in Sepahijala district. [@1] Three
+attacking Border Security Force troopers in Sepahijala district. [@1,3] Three
 personnel, including an assistant commandant who is the local company commander,
 were injured when a mob of men and women attacked them with sticks. [@1] The mob
 allegedly attempted to snatch their firearms and damaged a force vehicle. [@1]
@@ -50,13 +57,12 @@ of a local resident by the BSF. [@1] Sepahijala superintendent of police Bijoy
 Debbarma said BSF personnel on duty had noticed smuggling activities on the
 border. [@1] When the BSF personnel challenged the smugglers, the smugglers
 pelted stones and scuffled with them, after which the personnel recovered
-packets of ganja from the spot. [@1] Those who fled mobilised villagers and
+packets of ganja from the spot. [@1,3] Those who fled mobilised villagers and
 enforced a road blockade, and the BSF company commander travelling with a
-constable and driver came under attack at the blockade. [@1]
+constable and driver came under attack at the blockade. [@1,3]
 
 Police later brought the situation under control. [@1] The superintendent said
 the chief minister and Home Department had directed stringent action and the
 director general of police was monitoring the investigation. [@2] He said
 efforts were under way to arrest those still absconding and produce them before
 the court. [@2]
-
