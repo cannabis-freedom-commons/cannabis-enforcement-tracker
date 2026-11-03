@@ -59,6 +59,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: STF और पुलिस की बड़ी कार्रवाई, 40 लाख की चरस के साथ तीन तस्कर गिरफ्तार
+    url: https://www.youthindiatoday.com/articles/major-operation-by-stf-and-police-three-smugglers-arrested-f9b7a23b
+    publisher: Youth India 24 News
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Neither article gives a separate calendar date for the checks and arrests; 3 November 2026 is the publication date used as the incident date.
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
@@ -70,10 +75,14 @@ open_questions:
   - Name and residence spellings differ slightly, with Deshvani naming Guddu Sah of Harpur, Ghoda Rai of Ghorasahan and Rambalak Baitha of Sikta and describing a recipient trader in Uttar Pradesh.
   - The page's image address resolves to a site template/logo image rather than an established photo of this seizure, so no media entry is included.
   - This account places the first suspect at Nayak Tola under Harpur station, differing in station attribution from earlier accounts, so the report's residence wording is left unchanged pending further clarification.
+  - This account gives only its 3 November 2026 publication date and says the tip came on Monday night, giving no separate calendar date for the checks and arrests.
+  - Name and residence spellings differ from the existing report, listing Guddu Sah of Harpur in East Champaran, Rambalak Baitha of Sikta in West Champaran and Dora Rai of Ghodasahan in East Champaran.
+  - This account words the valuation as more than about Rs 40 lakh in the international market, while the existing report records about Rs 40 lakh.
+  - The page carries a photo captioned with the headline, but the caption does not establish that it shows this seizure or these arrests, so no media entry is included.
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged
-charas traffickers in East Champaran. [@2,3,4,5] The first man held was identified as
+charas traffickers in East Champaran. [@2,3,4,5,6] The first man held was identified as
 35-year-old Guddu Sah of Nayka Tola in the Rajepur station area, whose
 questioning named Ramabalak Baitha, linked to Lakshmipur in Sikta and Gandak
 Chowk in Birgunj, Nepal, and Dhoda Rai of Mahuai in Ghorasahan. [@1] Police
@@ -81,9 +90,9 @@ arrested Baitha and Rai in follow-up raids. [@1] Police sent all three to jail
 after completing legal formalities. [@1]
 
 Officers found 1.970 kg of a charas-like substance in four packets inside a bag
-carried by the first suspect. [@1,4,5] Police put the international-market value of
-the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4] Police also
-seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4]
+carried by the first suspect. [@1,4,5,6] Police put the international-market value of
+the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4,6] Police also
+seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4,6]
 
 The STF narcotics cell in Patna had tipped police that a man carrying narcotics
 had left Raxaul and would travel via the Sugauli overbridge toward the station.
