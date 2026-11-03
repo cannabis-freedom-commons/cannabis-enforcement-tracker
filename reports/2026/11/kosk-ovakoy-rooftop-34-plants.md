@@ -40,6 +40,11 @@ sources:
     publisher: Aydın Denge
     date: 2026-11-03
     language: tr
+  - title: 'Köşk’te uyuşturucu operasyonu: Çatıda 34 kök kenevir ele geçirildi'
+    url: https://www.aydinpost.com/koskte-uyusturucu-operasyonu-catida-34-kok-kenevir-ele-gecirildi
+    publisher: Aydınpost
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The report uses the post's publication date of 2 November 2026 as the incident date because no separate date for the raid is given.
   - The nearly 2,000 grams of seized drug substance is not identified as cannabis, so it is excluded from kg_seized.
@@ -51,19 +56,22 @@ open_questions:
   - Saray Medya and Aydın Denge name Aydın Cumhuriyet Başsavcılığı as coordinator while Ses Gazetesi names Efeler Cumhuriyet Başsavcılığı.
   - No separate raid date is given; the existing report uses its publication date as the incident date.
   - The pages carry photos whose captions only repeat the headline, so whether any photo shows this seizure is not established and no media entry is listed.
+  - The Aydınpost page is dated 3 November 2026 while the existing report uses 2 November 2026 as the incident date; no separate raid date is given.
+  - The Aydınpost page names Efeler Cumhuriyet Başsavcılığı as coordinator, while existing sources differ between Aydın and Efeler Cumhuriyet Başsavcılığı.
+  - The page's photo caption only repeats the headline, so whether it shows this seizure is not established and no media entry is added.
 ---
 
 Aydın Provincial Gendarmerie Command narcotics teams together with Köşk District
 Gendarmerie Command teams carried out an anti-drug operation against a business
-located in Ovaköy neighbourhood in Köşk district of Aydın province. [@1,2] During
+located in Ovaköy neighbourhood in Köşk district of Aydın province. [@1,2,5] During
 that operation officers detained E.G., described as 39 years old, and took the
-suspect into custody. [@1,3] Authorities then opened a judicial investigation
-concerning the detained suspect. [@1]
+suspect into custody. [@1,3,5] Authorities then opened a judicial investigation
+concerning the detained suspect. [@1,5]
 
 Officers searched the rooftop floor of the business and seized 34 cannabis
-plants there. [@1,4] The same rooftop search also yielded close to 2,000 grams of
+plants there. [@1,4,5] The same rooftop search also yielded close to 2,000 grams of
 a drug substance that the account does not identify as cannabis, together with
-two bong devices. [@1,2] The headline summary of the same operation likewise
+two bong devices. [@1,2,5] The headline summary of the same operation likewise
 reports 34 cannabis plants seized and one suspect detained. [@1]
 
 The account presents the Ovaköy business operation as part of continuing
