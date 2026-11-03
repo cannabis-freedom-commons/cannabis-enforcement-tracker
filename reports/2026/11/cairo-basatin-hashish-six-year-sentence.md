@@ -27,6 +27,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-03
     language: ar
+  - title: الجنايات تُعاقب عاطل بالمشدد 6 سنوات لترويجه المخدرات في البساتين
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/3/3073178/%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D9%8A%D8%A7%D8%AA-%D8%AA-%D8%B9%D8%A7%D9%82%D8%A8-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-6-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC%D9%87-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B3%D8%A7%D8%AA%D9%8A%D9%86
+    publisher: مصراوي
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No weight, quantity or estimated value was published for the hashish, so no cannabis quantity can be recorded.
   - The article gives no separate date for the arrest or sentence; 3 November 2026 is its publication date and is used as the incident date.
@@ -34,24 +39,24 @@ open_questions:
   - Strox was reported alongside the hashish, but no separate weight was published, so no cannabis quantity can be separated and strox is not counted in cannabis figures.
   - Only one accessible source for this event was found after searching in Arabic.
   - The page photo caption only repeats the headline and does not establish that it shows this seizure, so no media entry is included.
+  - The Masrawy page image is captioned as illustrative ('تعبيرية عن حبس متهم') and reuses a 2017 stock photo, so it does not show this seizure and no media entry is included.
 ---
 
 The Cairo Criminal Court sentenced one man to six years of rigorous imprisonment
 and a 10,000-Egyptian-pound fine for possessing drugs and trafficking in them in
-Al-Basatin. [@1] A chemical-laboratory report found that a seized bag held brown
+Al-Basatin. [@1,2] A chemical-laboratory report found that a seized bag held brown
 pieces that tested as hashish, which the report described as listed in the first
-schedule of the anti-drugs law. [@1]
+schedule of the anti-drugs law. [@1,2]
 
 Cairo Security Directorate officers opened the case after receiving information
 and investigation findings indicating that a person was holding drugs and
-trafficking in them. [@1] After further investigation and information-gathering,
+trafficking in them. [@1,2] After further investigation and information-gathering,
 officers identified the accused and prepared the necessary ambushes before Cairo
 Security Directorate forces arrested him. [@1] A search of the man found a bag
 containing hashish and strox, along with a sum of money and two mobile phones.
-[@1]
+[@1,2]
 
 Officers said the man admitted when confronted that he held the seized items for
-profit and trafficking. [@1] He said the seized money came from sales proceeds
+profit and trafficking. [@1,2] He said the seized money came from sales proceeds
 and that he used the mobile phones to make contact with his customers easier.
-[@1] Police then completed the required legal procedures in the case. [@1]
-
+[@1,2] Police then completed the required legal procedures in the case. [@1]
