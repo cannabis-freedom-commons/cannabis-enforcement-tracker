@@ -83,6 +83,61 @@ def changed_report_paths():
     return sorted(set(filter(None, tracked + untracked)))
 
 
+def compact(value, width=190):
+    """One-line summary; tool outputs stay intact in muse.jsonl."""
+    value = " ".join(str(value).split())
+    return value if len(value) <= width else value[:width - 1] + "…"
+
+
+def tool_details(payload, name):
+    """Best-effort target from RESULT metadata (Muse JSONL omits tool inputs)."""
+    facts = payload.get("edit_facts") or {}
+    if isinstance(facts, dict):
+        for key in ("path", "file_path", "target_path", "filename", "target"):
+            value = facts.get(key)
+            if isinstance(value, str) and value:
+                return compact(value)
+
+    raw = payload.get("text") or ""
+    if not isinstance(raw, str):
+        return ""
+
+    # Tool results sometimes wrap structured tool outputs as JSON strings.
+    try:
+        obj = json.loads(raw)
+    except (ValueError, TypeError):
+        obj = None
+    if isinstance(obj, dict):
+        for container in (obj, obj.get("result"), obj.get("data")):
+            if not isinstance(container, dict):
+                continue
+            if name in ("bash", "shell"):
+                for key in ("description", "command", "cmd"):
+                    val = container.get(key)
+                    if isinstance(val, str) and val:
+                        return compact(val)
+            if name in ("read_file", "write_file", "edit_file", "read", "write", "edit"):
+                for key in ("path", "file_path", "target_path", "filename"):
+                    val = container.get(key)
+                    if isinstance(val, str) and val:
+                        return compact(val)
+            if name in ("web_fetch", "web_search", "web_open", "web_get"):
+                for key in ("url", "source_url", "requested_url", "final_url", "query"):
+                    val = container.get(key)
+                    if isinstance(val, str) and val:
+                        return compact(val)
+
+    # Only explicit result metadata, never grab the first random URL from page text.
+    if name in ("web_fetch", "web_search", "web_open", "web_get"):
+        pat = r"(?im)^(?:fetched|requested|source|final)?[ -]?url\s*[:=]\s*(https?://\S+)"
+    elif name in ("read_file", "write_file", "edit_file"):
+        pat = r"(?im)^(?:file|file_path|path|wrote|edited|reading)\s*[:=]\s*(\S+)"
+    else:
+        return ""
+    match = re.search(pat, raw)
+    return compact(match.group(1)) if match else ""
+
+
 def run_command(cmd, log, raw_file=None, muse_json=False):
     """Run detached from terminal SIGINT; parent keeps receiving Ctrl+C."""
     proc = subprocess.Popen(cmd, cwd=repo, stdin=subprocess.DEVNULL,
@@ -100,7 +155,6 @@ def run_command(cmd, log, raw_file=None, muse_json=False):
 
     thread = threading.Thread(target=watch_errors, daemon=True)
     thread.start()
-    final_parts = []
     delta_seen = False
     with (raw_file.open("w", encoding="utf-8") if raw_file else open(os.devnull, "w")) as raw:
         for line in proc.stdout:
@@ -116,27 +170,25 @@ def run_command(cmd, log, raw_file=None, muse_json=False):
                 continue
             kind = event.get("payload_type", "")
             payload = event.get("payload") or {}
-            if kind in ("task.lifecycle.side_effect_intent", "task.lifecycle.proposed"):
-                operation = (payload.get("event") or {}).get("operation") or (payload.get("event") or {}).get("task_kind") or ""
-                if operation.startswith("tool:") or operation.startswith("tool."):
-                    say("→ " + operation.split(":", 1)[-1].removeprefix("tool."), log)
-            elif kind == "tool.result":
+            if kind == "tool.result":
                 cf = payload.get("correlation_facts") or {}
-                tool = cf.get("tool_name", "tool")
-                result = cf.get("outcome", "done")
-                say(f"✓ {tool}: {result}", log)
+                name = cf.get("tool_name") or "tool"
+                outcome = cf.get("outcome", "done")
+                detail = tool_details(payload, name)
+                prefix = "✓" if outcome in ("success", "completed", "done") else "✗"
+                suffix = f"  {detail}" if detail else ""
+                say(f"{prefix} {name}{suffix}" + ("" if prefix == "✓" else f" ({outcome})"), log)
             elif kind == "run.output.delta":
                 fragment = payload.get("text", "")
                 if fragment:
                     delta_seen = True
-                    final_parts.append(fragment)
                     say(fragment, log, end="")
             elif kind == "run.terminal.completed":
                 final_text = payload.get("text", "")
                 if not delta_seen and final_text:
                     say("\n" + final_text, log)
                 elif delta_seen:
-                    say("", log)  # newline after streamed final answer
+                    say("", log)
             elif kind.startswith("run.terminal."):
                 say("! Muse: " + kind + " " + str(payload.get("reason", "")), log)
     returncode = proc.wait()
@@ -147,14 +199,18 @@ def run_command(cmd, log, raw_file=None, muse_json=False):
 prompt = f"""Read .claude/skills/find-reports/SKILL.md and execute it for {years}.
 Find NEW, independently verified events; check existing reports to avoid duplicates.
 
-PHOTO / VIDEO RESEARCH IS REQUIRED FOR EACH EVENT:
-Perform dedicated image and video searches IN ADDITION TO reading the news sources.
-Search in local languages, government agency galleries, photo archives, and historical news.
-Inspect every candidate and verify it depicts the specific event, not a generic stock photo.
-Follow docs/WRITING.md §7: record each verified photo/video with its original page URL,
-actual direct media_url, caption and publisher. Respect licensing requirements for covers.
-Don't mistake 'no photo on this article' for 'no event photos exist'. If none is found,
-record what sources were checked and the limitation in open_questions.
+PHOTO / VIDEO RESEARCH (BEST EFFORT; MEDIA IS OPTIONAL):
+Actively look for relevant event photos and videos when researching each report,
+including dedicated searches beyond the original news sources where useful.
+Try local-language searches, official agency galleries and historical archives.
+Only include media verified as depicting the actual event, not generic stock imagery.
+Follow docs/WRITING.md §7 for media URLs, captions, publishers and licensing.
+If suitable media cannot be found or verified, continue and publish the report
+WITHOUT photos or videos. Never invent media, use unrelated pictures, or reject
+an otherwise well-sourced event because no visual evidence is available.
+A brief note in open_questions is fine when a photo was found but could not be
+verified or its direct URL could not be recovered; do not make a missing photo
+a blocker or turn every unsuccessful image search into an open question.
 
 COMPLETE THE RESEARCH, ARCHIVING AND VALIDATION. Commit handling is done by the
 OUTER research.sh controller, which has permission to write Git metadata.
@@ -172,7 +228,7 @@ if pending_report_changes():
              "Commit or stash those first so the script cannot accidentally commit unrelated work.\n"
              f"Inspect with: git status --short -- {' '.join(scopes)}\nLogs: {log_dir}")
 
-validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npm run build").strip()
+validate_cmd = os.environ.get("RESEARCH_VALIDATE_CMD", "npx astro build").strip()
 max_steps = os.environ.get("RESEARCH_MAX_STEPS", "120")
 if not max_steps.isdecimal() or int(max_steps) < 1:
     sys.exit("RESEARCH_MAX_STEPS must be a positive integer")
@@ -187,6 +243,7 @@ try:
         with (run_dir / "output.log").open("w", encoding="utf-8", buffering=1) as out:
             say(f"\n========== RUN {index} | {years} ==========", out)
             before = git("rev-parse", "HEAD").stdout.strip()
+            branch_before = git("symbolic-ref", "--quiet", "--short", "HEAD", check=False).stdout.strip()
             cmd = ["muse", "exec", "--json", "--disable-approval", "--max-model-steps", max_steps]
             if os.environ.get("RESEARCH_MODEL"):
                 cmd += ["--model", os.environ["RESEARCH_MODEL"]]
@@ -197,10 +254,14 @@ try:
                 say("ERROR: Muse did not finish successfully. Leaving files untouched and stopping.", out)
                 had_error = True
                 break
-            if git("rev-parse", "HEAD").stdout.strip() != before:
-                say("ERROR: HEAD moved during the run. Review unexpected commits; stopping.", out)
+            after = git("rev-parse", "HEAD").stdout.strip()
+            branch_after = git("symbolic-ref", "--quiet", "--short", "HEAD", check=False).stdout.strip()
+            if branch_before != branch_after:
+                say(f"ERROR: Git branch switched from {branch_before or '(detached)'} to {branch_after or '(detached)'}. Stopping to avoid committing on the wrong branch.", out)
                 had_error = True
                 break
+            if after != before:
+                say(f"ℹ HEAD advanced {before[:10]} → {after[:10]} during research (concurrent commits are OK).", out)
             changes = pending_report_changes()
             if not changes:
                 say("No new/changed report files. Stopping to avoid repeating an empty run.", out)
