@@ -24,6 +24,10 @@ sources:
     publisher: Diario Sur
     date: 2026-11-03
     language: es
+  - title: Around 30 defendants escape justice as Malaga hashish case becomes time-barred
+    url: https://www.surinenglish.com/malaga/malaga-city/around-thirty-people-20261103000500-nt.html
+    publisher: Sur in English
+    date: 2026-11-03
 open_questions:
   - The article gives no separate date for the dismissal order, so 3 November 2026 is its publication date used as the incident date.
   - The number of accused is approximate, given as una treintena and cerca de treinta.
@@ -34,18 +38,18 @@ open_questions:
 
 The criminal section of the Cádiz Court of Instance, Plaza number 4, finally
 archived the proceedings and declared the offences time-barred. [@1] The order
-grants full dismissal for nearly thirty investigated people. [@1] Prosecutors
+grants full dismissal for nearly thirty investigated people. [@1,2] Prosecutors
 had sought four years and three months in prison and individual fines of up to
-half a million euros for those accused. [@1] The ruling extinguishes all
+half a million euros for those accused. [@1,2] The ruling extinguishes all
 criminal liability and closes a case dating to 2012 without the facts ever
-reaching trial. [@1]
+reaching trial. [@1,2]
 
 The network was accused of moving nearly 200 kilos of hashish, with more than
-150 kilos allegedly distributed from the Costa del Sol. [@1] The estimated
+150 kilos allegedly distributed from the Costa del Sol. [@1,2] The estimated
 overall value of the drug the organisation allegedly moved exceeded 343,000
 euros. [@1] In a key seizure on 8 March 2013 in Villanueva del Trabuco, officers
 found 220 tablets totalling 21 kilos valued at 33,900 euros hidden in the
-air-conditioning duct and boot. [@1] Between March and June 2013 police detected
+air-conditioning duct and boot. [@1,2] Between March and June 2013 police detected
 stashes of 20 to 54 kilos of hashish, including a batch in Linares valued at
 more than 41,000 euros. [@1]
 
@@ -62,4 +66,3 @@ because defendants were untraced, lacked counsel, were not summoned or were
 wanted. [@1] The court found the five-year limitation period had run excessively
 with no step capable of interrupting it, holding that trial listings frustrated
 by procedural failings do not interrupt prescription. [@1]
-
