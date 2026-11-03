@@ -47,22 +47,28 @@ sources:
     url: https://www.yorkshireeveningpost.co.uk/news/crime/leeds-trio-jailed-9315956
     publisher: Yorkshire Evening Post
     date: 2026-10-29
+  - title: Who Are the Four Men Sentenced in the East Leeds Drug Ring?
+    url: https://dazzlingdawn.com/public/2026/11/03/who-are-the-four-men-sentenced-in-the-east-leeds-drug-ring
+    publisher: The Daily Dazzling Dawn
+    date: 2026-11-03
 open_questions:
   - No cannabis weight was published, only a police valuation of over £17,000, so no kg_seized figure is given.
   - 'The exact sentencing day is uncertain: police date the outcome 3 November 2026 and say sentences were handed down today, while the Yorkshire Evening Post reported the same sentences on 29 October 2026.'
   - Cocaine valuations of over £13,000 and £2,850, heroin and cocaine possession counts, over £14,000 cash, jewellery and suspected bank profits are not cannabis and are excluded from cannabis figures.
   - The May 2023 arrests included two unnamed men besides Laking; no total arrested figure is counted and figures use four charged for the four sentenced people.
   - No outcome of the later Proceeds of Crime Act hearing was reported.
+  - No media entry is listed because the page's images lack captions establishing they depict this event.
+  - 'Left out, as its quotation was not found in The Daily Dazzling Dawn: Luke Cockerill, 36, of no fixed abode, was jailed for four years and six months.'
 ---
 
 Four people were sentenced after an investigation into drug supply in east Leeds
-examined as Operation Angelford. [@1] Christopher Laking, 35, of Ramshead Drive,
-Seacroft, was jailed for 14 years. [@1] Laking was convicted of being concerned
+examined as Operation Angelford. [@1,3] Christopher Laking, 35, of Ramshead Drive,
+Seacroft, was jailed for 14 years. [@1,3] Laking was convicted of being concerned
 in cannabis supply from May 2023 to December 2025. [@1] Chris Wilson, 35, of
-Bradford, was jailed for six years and three months. [@1] Luke Cockerill, 36, of
+Bradford, was jailed for six years and three months. [@1,3] Luke Cockerill, 36, of
 no fixed abode, was jailed for four years and six months. [@1] Jordan Parker,
 33, of Inglewood Drive, was given a two-year community order for being concerned
-in cannabis supply. [@1]
+in cannabis supply. [@1,3]
 
 Operation Angelford began in May 2023 with a warrant at Laking’s home on
 Ramshead Drive in Seacroft. [@1] Officers found over £14,000 in cash at that
@@ -83,4 +89,3 @@ in a dial-and-delivery operation. [@2] Bank records showed suspected profits of
 role while Wilson and Cockerill had subordinate but significant roles. [@2]
 Police said drugs, cash and assets were taken out of the supply chain and that
 assets will be pursued in a later Proceeds of Crime Act hearing. [@1]
-
