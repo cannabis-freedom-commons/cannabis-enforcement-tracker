@@ -33,7 +33,7 @@ sources:
   - title: "Danish cannabis policy in practice: the closing of 'Pusher Street' and the cannabis market in Copenhagen"
     publisher: Transnational Institute
     url: https://www.tni.org/en/publication/danish-cannabis-policy-in-practice
-    date: 2007
+    year: 2007
   - title: Danish police arrest an unindentified person in a raid in Copenhagen's Free City, Christiania, 16 March, 2004
     publisher: Getty Images (AFP/Scanpix photo by Mogens Flindt)
     url: https://www.gettyimages.ae/detail/news-photo/danish-police-arrest-an-unindentified-person-in-a-raid-in-news-photo/3100088
@@ -41,7 +41,7 @@ sources:
   - title: Police crackdown on Christiania in Copenhagen
     publisher: Transnational Institute
     url: https://www.tni.org/en/publication/police-crackdown-on-christiania-in-copenhagen
-    date: 2009
+    year: 2009
 ---
 
 On the morning of 16 March 2004, several hundred armed police officers with bulldozers entered the Freetown of Christiania in Copenhagen and tore down the market stalls of Pusher Street, the open cannabis market the Danish government called northern Europe's largest. [@1,2] About 50 cannabis dealers and lookouts, described as security guards who warned sellers of approaching police, were arrested in Christiania and elsewhere in Copenhagen and remanded in custody. [@1] A same-day wire caption put the number taken in for preliminary questioning at 44. [@2]
