@@ -59,6 +59,16 @@ sources:
     publisher: Malatya Haber
     date: 2026-11-02
     language: tr
+  - title: 'Diyarbakır’da Uyuşturucu Operasyonları: 123 Kilo Esrar Ele Geçirildi Diyarbakır'
+    url: https://tekha.com.tr/diyarbakirda-uyusturucu-operasyonlari-123-kilo-esrar-ele-gecirildi-diyarbakir
+    publisher: TEKHA Türkiye’nin Habercisi
+    date: 2026-11-03
+    language: tr
+  - title: Diyarbakır’da uyuşturucu operasyonlarında 28 şüpheliye işlem
+    url: https://www.dha.com.tr/yerel-haberler/diyarbakir/diyarbakirda-uyusturucu-operasyonlarinda-28-su-2973838
+    publisher: DHA
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the operations themselves.
   - The reports say only that legal action was taken against 28 suspects and do not say whether they were detained, released, charged or remanded.
@@ -70,15 +80,17 @@ open_questions:
   - The lead photo caption repeats only the headline and does not establish that it shows this seizure, so no media entry is added.
   - The submitted page gives only its publication date of 2 November 2026 and no separate date for the operations.
   - The submitted page does not give the 16-incident count cited in the existing report.
+  - The TEKHA page lists two photos but their captions do not establish that they show this seizure, so no media entry is added.
+  - The DHA account places the operations in the previous week but gives no exact operation dates.
 ---
 
 Those operations produced 16 recorded incidents and legal action against 28
-suspects. [@2,6] The reports give only that legal action and do not name any
+suspects. [@2,6,8] The reports give only that legal action and do not name any
 suspect or report any detention, remand or court outcome. [@1,7]
 
-Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7] They
+Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7,8] They
 also seized 525 cannabis and skunk roots, with kenevir the Turkish word for the
-cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7] The same
+cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7,9] The same
 operations also seized 523 pills, which are left out of the cannabis figures
 because the reports do not identify them as cannabis. [@3,4,5,7]
 
@@ -86,3 +98,5 @@ A governorship account says the provincial gendarmerie's anti-narcotics branch
 coordinated the work across the province. [@3,4,5] The reports are dated 2 November
 2026 and give no separate date for when the operations themselves took place.
 [@1]
+
+The DHA account says the operations were conducted over the previous week. [@9]
