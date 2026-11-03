@@ -5,7 +5,7 @@ import { reports, totals, countByType, countriesWithReports, monthName, years } 
 import { sourcesByDomain } from "../lib/source-domains.js";
 import { TYPES, STATUS } from "../lib/types.js";
 import { countryOf, flagOf, countryName } from "../lib/countries.js";
-import { fmt, compact, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy } from "../lib/stats.js";
+import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, typeMixByRegion } from "../lib/stats.js";
 import { formatWeight, formatWeightNumber } from "../lib/figures.js";
 const base = import.meta.env.BASE_URL;
 const domains = sourcesByDomain(reports);
@@ -25,6 +25,9 @@ const now = new Date(), months = Array.from({ length: 24 }, (_, i) => new Date(D
 const monthCols = periodColumns(reports, (r) => r.month, months);
 const chart = (cols, label, href) => { const max = Math.max(1, ...cols.map((c) => c.total)); return { max, cols: cols.map((c) => ({ ...c, h: (c.total / max) * 100, label: label(c.key), href: href(c.key), tip: JSON.stringify({ t: label(c.key), s: `${fmt(c.total)} ${c.total === 1 ? "report" : "reports"}`, rows: typeRows(c.types) }) })) }; };
 const yearChart = chart(yearCols, (y) => String(y), (y) => `${base}${y}/`);
+// the recent years dwarf the older ones, whose columns are slivers: their average, said in words
+const older = yearCols.filter((c) => c.key <= (last ?? 0) - 3);
+const olderNote = older.length > 1 ? `${older[0].key}–${older.at(-1).key}: ${fmt(older.reduce((n, c) => n + c.total, 0) / older.length)} reports a year on average so far.` : "";
 const monthChart = chart(monthCols, (m) => monthName(m), (m) => `${base}${m.replace("-", "/")}/`);
 const models = reportsByModel(reports);
 const maxModel = Math.max(1, models.unrecorded, ...models.rows.map((m) => m.count));
@@ -36,7 +39,15 @@ const leaders = [
 ].map((l) => ({ ...l, rows: topCountriesBy(reports, l.figure) })).filter((l) => l.rows.length);
 const yearRows = years.map((y) => { const list = reports.filter((r) => r.year === y); return { y, list, t: totals(list), types: countByType(list) }; });
 const pct = (n, of) => `${((n / Math.max(1, of)) * 100).toFixed(1)}%`;
-const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "What happened"], ["where", "Where"], ["leaders", "Biggest figures"], ["models", "AI models"], ["ai-usage", "AI usage"], ["years", "By year"], ["sources", "Sources"]];
+// how long the stated prison terms are, and how big the stated seizures
+const prison = prisonBands(reports), seizures = seizureBands(reports);
+const band = (b, of) => ({ ...b, h: (b.count / Math.max(1, ...of.map((x) => x.count))) * 100 });
+const yearsText = (y) => y < 1 ? `${Math.round(y * 12)} months` : `${y.toLocaleString("en-GB", { maximumFractionDigits: 1 })} years`;
+// what enforcement looks like in each region: the share of its reports of each primary type
+const mixTypes = byType.map(([id]) => id);
+const mix = typeMixByRegion(reports, (r) => countryOf(r.country)?.region ?? "Other");
+const shade = (share) => `color-mix(in srgb, var(--cite) ${Math.round(Math.min(1, share / 0.45) * 72)}%, var(--surface))`;
+const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "What happened"], ["sizes", "Sentences and seizures"], ["where", "Where"], ["leaders", "Biggest figures"], ["models", "AI models"], ["ai-usage", "AI usage"], ["years", "By year"], ["sources", "Sources"]];
 ---
 <Base title="Statistics" description="Totals, timelines and breakdowns of the cannabis enforcement reports.">
   <h1>Statistics</h1>
@@ -44,38 +55,40 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "Wha
   <nav class="stats-nav" aria-label="On this page">{sections.map(([id, label]) => <a href={`#${id}`}>{label}</a>)}</nav>
 
   <section id="overview" class="overview" aria-label="Overview">
+    {/* the numbers are sized by the width of their own box, so they fit however large they grow */}
     <div class="headline">
       <div class="headline-main"><span class="headline-num">{fmt(reports.length)}</span><span class="headline-label">reports</span></div>
-      <p class="headline-facts">
-        <span><b>{fmt(countries.length)}</b> countries and states</span>
-        {first && <span><b>{first}–{last}</b></span>}
-        <span><b>{pct(verified, reports.length).replace(/\.\d%/, "%")}</b> checked against the sources</span>
-        <span><b>{fmt(domains.length)}</b> source domains</span>
-      </p>
+      <dl class="headline-facts">
+        <div><dt>countries and states</dt><dd>{fmt(countries.length)}</dd></div>
+        {first && <div><dt>years covered</dt><dd>{first}–{last}</dd></div>}
+        <div><dt>checked against the sources</dt><dd>{pct(verified, reports.length).replace(/\.\d%/, "%")}</dd></div>
+        <div><dt>source domains</dt><dd>{fmt(domains.length)}</dd></div>
+      </dl>
     </div>
     <div class="figure-cards">
-      {figures.map((f) => (
+      {figures.map((f) => { const full = f.unit ? formatWeightNumber(f.value, 6) : fmt(f.value), short = tileNumber(f); return (
         <div class="figure-card">
-          <div class="fc-num" title={`${formatWeightNumber(f.value)}${f.unit ? ` ${f.unit}` : ""}`}>{f.id === "seized" && f.value < 10000 ? formatWeightNumber(f.value, 6) : compact(f.value)}{f.unit && <small> {f.unit}</small>}</div>
+          <div class="fc-num" title={`${full}${f.unit ? ` ${f.unit}` : ""}`}>{short}{f.unit && <small> {f.unit}</small>}</div>
           <div class="fc-label">{f.label}</div>
-          <div class="fc-note">{f.value >= 10000 && <>{f.value.toLocaleString("en-GB", { maximumFractionDigits: 0 })}{f.unit ? ` ${f.unit}` : ""} · </>}from {fmt(f.reports)} {f.reports === 1 ? "report" : "reports"}</div>
+          <div class="fc-note">{short !== full && <>{full}{f.unit ? ` ${f.unit}` : ""} · </>}from {fmt(f.reports)} {f.reports === 1 ? "report" : "reports"}</div>
         </div>
-      ))}
+      ); })}
     </div>
   </section>
 
   <section id="time" aria-labelledby="time-title">
     <h2 id="time-title">Over time</h2>
     <div class="chart-pair">
-      {[["Reports per year", "by the date of the event", yearChart, 5], ["The last 24 months", "reports per month", monthChart, 6]].map(([title, sub, c, every]) => (
+      {[["Reports per year", "by the date of the event", yearChart, 5, olderNote], ["The last 24 months", "reports per month", monthChart, 6, ""]].map(([title, sub, c, every, note]) => (
         <figure class="col-chart" data-chart>
           <figcaption><b>{title}</b> <span>{sub} · highest {fmt(c.max)}</span></figcaption>
           <div class="cols" style={`--n:${c.cols.length}`}>
-            {c.cols.map((col) => <a class="col" href={col.href} data-tip={col.tip} aria-label={`${col.label}: ${col.total} reports`}><i style={`height:${col.h}%`}></i></a>)}
+            {c.cols.map((col) => <a class="col" href={col.href} data-tip={col.tip} aria-label={`${col.label}: ${col.total} reports`}><i style={`height:${col.h}%${col.total ? ";min-height:2px" : ""}`}></i></a>)}
           </div>
           <div class="col-axis" style={`--n:${c.cols.length}`}>
             {c.cols.map((col, i) => <span>{((i % every === 0 && c.cols.length - 1 - i >= every / 2) || i === c.cols.length - 1) && (c === yearChart ? col.key : monthName(col.key, "short").replace(" 20", " ’"))}</span>)}
           </div>
+          {note && <p class="chart-note">{note}</p>}
         </figure>
       ))}
     </div>
@@ -98,6 +111,30 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "Wha
     </div>
   </section>
 
+  <section id="sizes" aria-labelledby="sizes-title">
+    <h2 id="sizes-title">Sentences and seizures</h2>
+    <p class="muted">How long the stated prison terms are, and how large the stated seizures. Each report counts once.</p>
+    <div class="chart-pair">
+      {[
+        { title: "Prison sentences", sub: `${fmt(prison.bands.reduce((n, b) => n + b.count, 0))} reports with a stated term${prison.median != null ? ` · median ${yearsText(prison.median)}` : ""}`, bands: prison.bands, apart: ["Life", "Death sentence"], unit: "sentence", note: `The longest single term a report states. Life and death sentences are shown apart (striped)${prison.unread ? `; ${fmt(prison.unread)} combined or unclear terms are left out` : ""}.` },
+        { title: "Size of seizures", sub: `${fmt(seizures.total)} reports with a stated weight${seizures.median != null ? ` · median ${formatWeight(seizures.median, 3)}` : ""}`, bands: seizures.bands, apart: [], unit: "seizure", note: "Each band is ten times the one before it." },
+      ].map((c) => (
+        <figure class="col-chart band-chart" data-chart>
+          <figcaption><b>{c.title}</b> <span>{c.sub}</span></figcaption>
+          <div class="cols" style={`--n:${c.bands.length}`}>
+            {c.bands.map((b) => { const x = band(b, c.bands); return (
+              <div class:list={["col", { apart: c.apart.includes(b.label) }]} style={`--h:${x.h}%`} tabindex="0" data-tip={JSON.stringify({ t: b.label, s: `${fmt(b.count)} ${b.count === 1 ? "report" : "reports"}`, rows: [] })} aria-label={`${b.label}: ${b.count} reports`}>
+                <span class="col-val" aria-hidden="true">{fmt(b.count)}</span><i></i>
+              </div>
+            ); })}
+          </div>
+          <div class="col-axis band-axis" style={`--n:${c.bands.length}`} aria-hidden="true">{c.bands.map((b) => <span>{b.short}</span>)}</div>
+          <p class="chart-note">{c.note}</p>
+        </figure>
+      ))}
+    </div>
+  </section>
+
   <section id="where" aria-labelledby="where-title">
     <h2 id="where-title">Where</h2>
     <div class="side-grid">
@@ -110,6 +147,22 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "Wha
         <h3>By region</h3>
         <ol class="hbars">{regions.map(([k, n]) => <li><span class="hb-label">{k}</span><span class="hb-track"><i style={`width:${(n / maxRegion) * 100}%`}></i></span><span class="hb-num">{fmt(n)}</span></li>)}</ol>
       </div>
+    </div>
+    <h3 class="mix-title">What enforcement looks like in each region</h3>
+    <p class="muted">Each row splits one region's reports by their main type; the darker the cell, the larger its share.</p>
+    <div class="table-wrap" data-chart>
+      <table class="table mix">
+        <thead><tr><th scope="col">Region</th><th scope="col" class="num">Reports</th>{mixTypes.map((t) => <th scope="col" class="num" title={TYPES[t].plural}><i class="dot" style={`--c:${TYPES[t].color}`}></i>{TYPES[t].label}</th>)}</tr></thead>
+        <tbody>{mix.map((row) => <tr>
+          <th scope="row">{row.region}</th><td class="num">{fmt(row.total)}</td>
+          {mixTypes.map((t) => { const share = row.shares[t] ?? 0, n = row.counts[t] ?? 0; return (
+            <td class="num mix-cell" style={share ? `background:${shade(share)}` : undefined} tabindex={n ? 0 : undefined}
+              data-tip={n ? JSON.stringify({ t: `${TYPES[t].plural} in ${row.region}`, s: `${fmt(n)} of ${fmt(row.total)} reports`, rows: [] }) : undefined}>
+              {!n ? "–" : share < 0.01 ? "<1%" : `${Math.round(share * 100)}%`}
+            </td>
+          ); })}
+        </tr>)}</tbody>
+      </table>
     </div>
   </section>
 
@@ -203,16 +256,19 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "Wha
   section + section { margin-top: 3rem; }
   h3 { margin: 0 0 10px; font: 600 14px/1.4 Inter, system-ui, sans-serif; }
 
-  .headline { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px 32px; padding: 28px 28px 24px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px 10px 0 0; }
-  .headline-main { display: flex; align-items: baseline; gap: 14px; }
-  .headline-num { font: 400 clamp(56px, 10vw, 104px)/0.9 var(--display); letter-spacing: -0.01em; }
-  .headline-label { font: 400 clamp(22px, 3vw, 32px) var(--display); color: var(--text-2); }
-  .headline-facts { display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 0 0 6px; font-size: 14px; color: var(--text-2); }
-  .headline-facts b { color: var(--text); font-weight: 600; font-variant-numeric: tabular-nums; }
+  .headline { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); align-items: end; gap: 20px 40px; padding: 28px 28px 24px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px 10px 0 0; }
+  @media (max-width: 760px) { .headline { grid-template-columns: minmax(0, 1fr); padding: 22px 20px 20px; } }
+  .headline-main { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; min-width: 0; container-type: inline-size; }
+  .headline-num { font: 400 min(104px, 27cqi)/0.9 var(--display); letter-spacing: -0.01em; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .headline-label { font: 400 min(32px, 9cqi) var(--display); color: var(--text-2); }
+  .headline-facts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 24px; margin: 0; }
+  .headline-facts div { display: flex; flex-direction: column-reverse; gap: 2px; min-width: 0; padding-left: 12px; border-left: 1px solid var(--border); }
+  .headline-facts dd { margin: 0; font: 400 26px/1.1 var(--display); color: var(--text); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .headline-facts dt { font-size: 12.5px; color: var(--text-2); }
   .figure-cards { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); border-top: 0; border-radius: 0 0 10px 10px; overflow: hidden; }
-  .figure-card { padding: 18px 20px 16px; background: var(--surface); min-width: 0; }
+  .figure-card { padding: 16px 16px 14px; background: var(--surface); min-width: 0; container-type: inline-size; }
   @media (max-width: 860px) { .figure-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } .figure-card:last-child:nth-child(odd) { grid-column: 1 / -1; } }
-  .fc-num { font: 400 clamp(34px, 4.4vw, 46px)/1 var(--display); white-space: nowrap; }
+  .fc-num { font: 400 clamp(26px, 26cqi, 46px)/1 var(--display); white-space: nowrap; font-variant-numeric: tabular-nums; }
   .fc-num small { font-size: .5em; color: var(--text-2); }
   .fc-label { margin-top: 8px; font: 500 11px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--text-2); }
   .fc-note { margin-top: 4px; font: 11px var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
@@ -228,6 +284,29 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["what", "Wha
   .col:hover i, .col:focus-visible i { background: var(--text); }
   .col-axis { display: grid; grid-template-columns: repeat(var(--n), 1fr); margin-top: 6px; font: 10.5px var(--mono); color: var(--muted); }
   .col-axis span { white-space: nowrap; overflow: visible; }
+
+  /* banded counts: the value over each column; bands kept apart from the scale are striped */
+  .band-chart .cols { padding-top: 20px; }
+  .band-chart .col { position: relative; }
+  .band-chart .col i { height: var(--h); min-height: 2px; }
+  .band-chart .col:hover i, .band-chart .col:focus-visible i { background: var(--text); }
+  .band-chart .col:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+  .band-chart .col.apart i { background: repeating-linear-gradient(135deg, var(--text-2) 0 2px, transparent 2px 5px); box-shadow: inset 0 0 0 1px var(--text-2); }
+  .col-val { position: absolute; left: 0; right: 0; bottom: calc(var(--h) + 4px); text-align: center; font: 11px var(--mono); color: var(--text-2); font-variant-numeric: tabular-nums; }
+  .band-axis { gap: 2px; }
+  .band-axis span { text-align: center; }
+  .chart-note { margin: 10px 0 0; font-size: 12.5px; color: var(--muted); }
+
+  .mix-title { margin-top: 28px; }
+  .mix { table-layout: fixed; width: 100%; min-width: 600px; }
+  .mix th, .mix td { padding: 8px 5px; }
+  .mix thead th { white-space: normal; vertical-align: bottom; line-height: 1.3; font: 500 11.5px Inter, system-ui, sans-serif; text-transform: none; letter-spacing: 0; }
+  .mix thead th:first-child { width: 7.5rem; }
+  .mix thead th:nth-child(2) { width: 4.5rem; }
+  .mix thead th .dot { margin-right: 5px; }
+  .mix tbody th { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mix-cell { font-variant-numeric: tabular-nums; }
+  .mix-cell[tabindex]:focus-visible { outline: 2px solid var(--text); outline-offset: -2px; }
 
   .hbars { list-style: none; margin: 0; padding: 0; }
   .hbars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "label num" "bar bar"; align-items: baseline; gap: 3px 12px; padding: 5px 0; font-size: 13.5px; }

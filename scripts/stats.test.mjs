@@ -41,3 +41,39 @@ test('top countries and period columns', () => {
   assert.deepEqual(cols.map((c) => c.total), [0, 1, 2]);
   assert.deepEqual(cols[2].types, { arrest: 1, raid: 1 });
 });
+
+import { tileNumber, prisonYears, prisonBands, seizureBands, typeMixByRegion } from '../src/lib/stats.js';
+test('tile numbers stay short as the totals grow', () => {
+  assert.equal(tileNumber({ value: 25623 }), '25.6K');
+  assert.equal(tileNumber({ value: 70989763 }), '71M');
+  assert.equal(tileNumber({ value: 8604.7, unit: 't' }), '8,605');
+  assert.equal(tileNumber({ value: 3.4567, unit: 'kg' }), '3.46');
+  assert.equal(tileNumber({ value: 155 }), '155');
+});
+test('prison terms are read from the stated text, or left out', () => {
+  assert.equal(prisonYears('7 years rigorous imprisonment'), 7);
+  assert.equal(prisonYears('3 years and 6 months'), 3.5);
+  assert.equal(prisonYears('18 months'), 1.5);
+  assert.ok(Math.abs(prisonYears('15 days') - 15 / 365) < 1e-9);
+  assert.equal(prisonYears('six years (reported as three years on each of two counts)'), 6);
+  assert.equal(prisonYears('3 to 7 years'), 7);
+  assert.equal(prisonYears('9.5 to 10.5 years'), 10.5);
+  assert.equal(prisonYears('12 and 18 months'), 1.5);
+  assert.equal(prisonYears('life imprisonment and 12 strokes'), 'life');
+  assert.equal(prisonYears('death by hanging'), 'death');
+  assert.equal(prisonYears('more than 30 years (combined)'), null);
+  assert.equal(prisonYears('time served (29 March 2007 to 9 July 2008)'), null);
+  assert.equal(prisonYears('16 weeks (time served)'), 16 / 52);
+  const b = prisonBands([{ figures: { prison: '7 years' } }, { figures: { prison: 'life' } }, { figures: { prison: 'over 24 years combined' } }, { figures: {} }]);
+  assert.deepEqual(b.bands.filter((x) => x.count).map((x) => x.label), ['5–10 years', 'Life']);
+  assert.equal(b.unread, 1);
+  assert.equal(b.median, 7);
+});
+test('seizures are banded by weight and the type mix sums to one per region', () => {
+  const s = seizureBands([{ figures: { kg_seized: 0.5 } }, { figures: { kg_seized: 120 } }, { figures: { kg_seized: 12000 } }, { figures: {} }]);
+  assert.deepEqual(s.bands.map((x) => x.count), [1, 0, 0, 1, 0, 1]);
+  assert.equal(s.median, 120);
+  const mix = typeMixByRegion([{ type: 'raid', c: 'A' }, { type: 'arrest', c: 'A' }, { type: 'raid', c: 'B' }], (r) => r.c);
+  assert.equal(mix[0].region, 'A');
+  assert.equal(mix[0].shares.raid + mix[0].shares.arrest, 1);
+});

@@ -71,3 +71,81 @@ export function topCountriesBy(list, figure, n = 8) {
   }
   return [...sums].map(([id, value]) => ({ id, value })).sort((a, b) => b.value - a.value).slice(0, n);
 }
+
+// A big figure for a tile, short enough to fit any width: 25.6K, 71M, 8,605 t, 3.4 kg. A weight
+// comes as { value, unit } (figures.js weightParts), shown to three significant digits under 100.
+export function tileNumber({ value, unit }) {
+  if (unit && value < 100) return value.toLocaleString("en-GB", { maximumSignificantDigits: 3 });
+  return compact(value);
+}
+
+// A stated prison term in years, from the free text a report gives ("7 years rigorous imprisonment",
+// "3 years and 6 months", "18 months"): "life", "death" (a death sentence), a number of years, or
+// null when it cannot be read as one term (combined totals of several people, time served…). A
+// range ("3 to 7 years") counts by its upper end, as written last.
+const WORDS = { one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9, ten: 10, eleven: 11, twelve: 12, fifteen: 15, twenty: 20, thirty: 30 };
+const UNIT = { year: 1, month: 1 / 12, week: 1 / 52, day: 1 / 365 };
+export function prisonYears(text) {
+  const s = String(text ?? "").toLowerCase();
+  if (/\bdeath\b/.test(s)) return "death";
+  if (/^\s*life\b/.test(s)) return "life";
+  if (/combined/.test(s)) return null;
+  const clause = s.split(/[;(]| for /)[0];
+  if (/time served/.test(clause)) return null;
+  const parts = [...clause.matchAll(/(\d+(?:[.,]\d+)?|[a-z]+)\s*(year|month|week|day)s?\b/g)];
+  if (!parts.length) return null;
+  // "3 years and 6 months": the units add up; "3 to 7 years": only the last term counts
+  const terms = [];
+  for (const [, n, unit] of parts) {
+    const v = /\d/.test(n) ? Number(n.replace(",", ".")) : WORDS[n];
+    if (v == null) return null;
+    terms.push(v * UNIT[unit]);
+  }
+  const ranged = /\d\s*(?:to|–|-)\s*\d/.test(clause) || /\b(?:and|or)\b/.test(clause) && parts.every(([, , u]) => u === parts[0][2]);
+  return ranged ? terms.at(-1) : terms.reduce((a, b) => a + b, 0);
+}
+
+// how many sentences fall in each band of length; `unread` are those no term could be read from
+// [label, short label for an axis, from, below]
+export const PRISON_BANDS = [["Under 1 year", "<1 yr", 0, 1], ["1–3 years", "1–3", 1, 3], ["3–5 years", "3–5", 3, 5], ["5–10 years", "5–10", 5, 10], ["10–20 years", "10–20", 10, 20], ["20 years or more", "20+", 20, Infinity]];
+export function prisonBands(list) {
+  const bands = PRISON_BANDS.map(([label, short]) => ({ label, short, count: 0 }));
+  const extra = { life: { label: "Life", short: "Life", count: 0 }, death: { label: "Death sentence", short: "Death", count: 0 } };
+  let unread = 0;
+  const years = [];
+  for (const r of list) {
+    if (r.figures?.prison == null) continue;
+    const y = prisonYears(r.figures.prison);
+    if (y == null) { unread++; continue; }
+    if (typeof y === "string") { extra[y].count++; continue; }
+    years.push(y);
+    bands[PRISON_BANDS.findIndex(([, , lo, hi]) => y >= lo && y < hi)].count++;
+  }
+  years.sort((a, b) => a - b);
+  return { bands: [...bands, extra.life, extra.death], unread, median: years.length ? years[Math.floor((years.length - 1) / 2)] : null };
+}
+
+// how many seizures fall in each band of weight (kg), and the median seizure
+export const SEIZURE_BANDS = [["Under 1 kg", "<1 kg", 0, 1], ["1–10 kg", "1–10 kg", 1, 10], ["10–100 kg", "10–100 kg", 10, 100], ["100 kg–1 t", "0.1–1 t", 100, 1000], ["1–10 t", "1–10 t", 1000, 10000], ["10 t or more", "10 t+", 10000, Infinity]];
+export function seizureBands(list) {
+  const kg = list.map((r) => r.figures?.kg_seized).filter((v) => v > 0).sort((a, b) => a - b);
+  return {
+    bands: SEIZURE_BANDS.map(([label, short, lo, hi]) => ({ label, short, count: kg.filter((v) => v >= lo && v < hi).length })),
+    median: kg.length ? kg[Math.floor((kg.length - 1) / 2)] : null,
+    total: kg.length,
+  };
+}
+
+// each region's reports split by primary type, as shares of that region: [{ region, total, shares: { type: 0.4 } }]
+export function typeMixByRegion(list, regionOf) {
+  const rows = new Map();
+  for (const r of list) {
+    const k = regionOf(r);
+    const row = rows.get(k) ?? { region: k, total: 0, counts: {} };
+    row.total++;
+    row.counts[r.type] = (row.counts[r.type] ?? 0) + 1;
+    rows.set(k, row);
+  }
+  return [...rows.values()].sort((a, b) => b.total - a.total)
+    .map((row) => ({ ...row, shares: Object.fromEntries(Object.entries(row.counts).map(([t, n]) => [t, n / row.total])) }));
+}
