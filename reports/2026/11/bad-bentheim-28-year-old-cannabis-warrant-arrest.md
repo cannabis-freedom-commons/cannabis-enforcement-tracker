@@ -30,6 +30,11 @@ sources:
     publisher: News.de
     date: 2026-11-02
     language: de
+  - title: Wegen Cannabishandels gesuchter 28-Jähriger bei Zugkontrolle festgenommen
+    url: https://polizei.news/2026/11/02/wegen-cannabishandels-gesuchter-28-jaehriger-bei-zugkontrolle-festgenommen/
+    publisher: Polizei.news
+    date: 2026-11-02
+    language: de
 open_questions:
   - 1 November 2026 is inferred as the incident date because the 2 November 2026 police statement says the arrest happened on Sunday evening at about 22:00.
   - No quantity, packaging, seizure or market value for the alleged cannabis dealing was published.
@@ -37,6 +42,7 @@ open_questions:
   - No outcome beyond committal to prison after presentation to the custodial judge was reported.
   - The page's arrest photograph is labelled as a symbolic photo, so it is not listed as event media.
   - The submitted page's only image is labelled as a stock example illustration, so no event media is listed.
+  - The submitted page's only image is labelled as a symbolic photo, so no event media entry is added.
 ---
 
 Federal police arrested a 28-year-old man on Sunday evening at the German-Dutch
@@ -44,13 +50,13 @@ border on an outstanding custodial warrant alleging cannabis dealing, and he is
 now in prison. [@1,3] The man, whose nationality was stated as unclear, was a
 passenger on a cross-border train from the Netherlands and was checked at Bad
 Bentheim station at about 22:00 during temporarily reintroduced internal border
-controls. [@1,3]
+controls. [@1,3,4]
 
 The identity check showed he was wanted for dealing in a not-small quantity of
-cannabis in a particularly serious case. [@1,3] The competent local court had
+cannabis in a particularly serious case. [@1,3,4] The competent local court had
 ordered pretrial detention because he had apparently gone underground to evade
-the proceedings. [@1] After spending a night in police custody, he was brought
-before a custodial judge the next day and then admitted to a prison. [@1,3]
+the proceedings. [@1,4] After spending a night in police custody, he was brought
+before a custodial judge the next day and then admitted to a prison. [@1,3,4]
 
 The judiciary had also repeatedly circulated requests to establish his
 whereabouts. [@1] A second outlet corroborates the Sunday-evening arrest in Bad
