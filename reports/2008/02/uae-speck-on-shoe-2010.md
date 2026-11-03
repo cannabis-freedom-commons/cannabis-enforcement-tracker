@@ -1,6 +1,6 @@
 ---
 added_at_source: git
-added_at: "2026-11-03T12:46:28.000Z"
+added_at: "2026-10-29T01:18:44.000Z"
 code: BJK2RY
 date: 2008-02-26
 country: ae
@@ -14,7 +14,7 @@ summary: >-
   at Dubai airport in September 2007. Customs found 0.003 grams of cannabis in
   the tread of his shoe. He was sentenced to four years in February 2008, then
   pardoned and released early within weeks.
-created_by_model: muse-code/muse-spark-1.3#xhigh
+created_by_model: unknown
 status: verified
 cfi_id: uae-speck-on-shoe-2010
 tags: [sentencing, pardon]
