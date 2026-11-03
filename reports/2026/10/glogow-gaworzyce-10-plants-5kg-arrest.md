@@ -47,6 +47,11 @@ sources:
     publisher: Bolec.Info
     date: 2026-11-03
     language: pl
+  - title: Urządził na strychu suszarnię konopi. Mężczyzna został aresztowany
+    url: https://informacje.wp.pl/wiadomosci/urzadzil-na-strychu-suszarnie-ziola-mezczyzna-zostal-aresztowany-i-uslyszal-zarzuty-za-ktore-grozi-20-lat-7347113455974880a
+    publisher: WP Info
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The exact village holding the property is not named, only a village near Głogów.
   - No separate day is given for the raid and arrest; 31 October 2026 is the court remand date used as the incident date, while 2 November 2026 is the article publication date.
@@ -67,6 +72,10 @@ open_questions:
   - The submitted page reports one bush about 170 cm tall plus almost 35 grams of ready herb and over 5 kg of cut bushes without stating a total plant number, while the existing report records at least 10 plants from other outlet accounts.
   - The submitted page confirms the Głogów court ordered three-month detention but gives no remand date, while the existing report uses 31 October 2026 as the remand date.
   - The page carries a police-credited photo captioned Nielegalna uprawa konopii (fot. KPP Polkowice) that appears to republish the police handout already cited, so no media entry is added.
+  - The opened account reports one standing bush plus cut bushes totalling over 5 kg without stating a total plant number, while the existing report records at least 10 plants from other outlet accounts.
+  - The opened account names only Polkowice county and the Glogow court and does not name the village or confirm the Gmina Gaworzyce residence given in the existing report.
+  - The opened account confirms the 29 October visit and three-month detention but gives no remand date, while the existing report uses 31 October as the remand date.
+  - The page carries photos captioned only as licensor photos without describing what they show, so no media entry is added.
 ---
 
 Polkowice police traced a cannabis grow on a property in a village near Głogów
@@ -90,4 +99,4 @@ Police say they are still establishing what the man intended to do with the
 dried cannabis he produced. [@1] Officers found the grow and at least 5 kg of
 ready dried material on a property in a village near Głogów. [@1]
 
-Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3,5] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3,4,5]
+Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3,5,6] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3,4,5,6]
