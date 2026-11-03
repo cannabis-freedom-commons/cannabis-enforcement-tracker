@@ -23,6 +23,7 @@ tags: [sunsari, inaruwa, ganja, seizure]
 open_questions:
   - Nagarik News said the search followed a tip that cannabis was being sold from the house at about 1:30 am on Saturday; English outlets described a morning search without reconciling the exact time.
   - Further investigation was under way when the sources were published; charges and court dates were not reported.
+  - This roundup gives only its publication date of 18 October 2026 and no separate time for the house search, so the morning timing rests on the earlier sources.
 sources:
   - title: Four people arrested with more than nine quintals cannabis
     url: https://radionepalonline.com/en/2026/10/18/437985.html
@@ -31,6 +32,10 @@ sources:
   - title: Four arrested with over nine quintals of cannabis
     url: https://myrepublica.nagariknetwork.com/news/four-arrested-with-over-nine-quintals-of-cannabis-95-30.html
     publisher: Republica
+    date: 2026-10-18
+  - title: Today’s News in a Nutshell
+    url: https://english.khabarhub.com/2026/18/572466/
+    publisher: Khabarhub
     date: 2026-10-18
 media:
   - kind: photo
@@ -42,13 +47,13 @@ media:
 ---
 
 District police in Sunsari arrested four men with 915.68 kg of cannabis after
-searching a house in Gyanodaya Tol, Inaruwa municipality-4. [@1,2]
+searching a house in Gyanodaya Tol, Inaruwa municipality-4. [@1,2,3]
 
 Assistant information officer Hemraj Oli of the Sunsari District Police Office
 said officers found the marijuana hidden at Bulbul Yadav's home near the Hanuman
-temple on the morning of 18 October 2026. [@1,2] Those held were Bulbul Yadav,
+temple on the morning of 18 October 2026. [@1,2,3] Those held were Bulbul Yadav,
 36, of Inaruwa-4, Santosh Yadav, 23, Ashish Yadav, 30, and Kundan Yadav, 22,
-of Duhabi municipality-10. [@1,2]
+of Duhabi municipality-10. [@1,2,3]
 
-Police also impounded a motorcycle in connection with the case. [@1,2] Oli said
+Police also impounded a motorcycle in connection with the case. [@1,2,3] Oli said
 a further investigation was continuing. [@2]
