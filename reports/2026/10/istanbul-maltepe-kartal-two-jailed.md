@@ -57,6 +57,11 @@ sources:
     publisher: Saray Medya (İHA)
     date: 2026-10-30
     language: tr
+  - title: İstanbul Kartal ve Maltepe'deki Uyuşturucu Operasyonunda 2 Kişi Tutuklandı
+    url: https://www.mersinhaber.com/amp/haber/832560
+    publisher: Mersin Haber
+    date: 2026-10-30
+    language: tr
 open_questions:
   - Yeni Şafak's summary gives a combined total of 2 kg 545 g, which matches the cocaine and hashish alone and leaves out the 15.75 g of marijuana; this report uses the itemised weights instead.
   - The reports do not give the date of the court hearing that ordered the two men held; 29 October 2026 is the date of the police operations.
@@ -65,14 +70,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Yeni Şafak: After a short chase, officers caught him and found 1 kg 175 g of esrar, or hashish, in a vacuum-sealed bag he had thrown to the ground.'
   - DHA gives no photographer credit for its lead photograph of the operation and captions it only with the headline.
   - The 30 October remand date is inferred from “today” in a story published that day; the text does not state a separate date for the court order.
+  - 'Left out, as its quotation was not found in Mersin Haber: M.B., 34, ran when police ordered him to stop in Gülensu neighbourhood, Maltepe.'
 ---
 
 Police carried out drug operations in the Istanbul districts of Maltepe and
-Kartal on 29 October 2026. [@1,3] M.B., 34, ran when police ordered him to stop in
+Kartal on 29 October 2026. [@1,3,6] M.B., 34, ran when police ordered him to stop in
 Gülensu neighbourhood, Maltepe. [@1,3] S.A., 26, was detained as he left a
 building in Hürriyet neighbourhood, Kartal, that police had under surveillance
-as a drug stash. [@1,3] Both were sent to court after questioning and jailed
-pending trial on a charge of manufacturing and trading narcotics. [@1,3,5]
+as a drug stash. [@1,3,6] Both were sent to court after questioning and jailed
+pending trial on a charge of manufacturing and trading narcotics. [@1,3,5,6]
 
 A search of his home found 0.75 g of marijuana, an unlicensed pistol, 11
 cartridges and 5,600 liras. [@1,3]
@@ -82,11 +88,11 @@ two precision scales, many clip-seal bags, a mobile phone and 166,550 liras.
 [@1,3] Police said the two operations together seized 1 kg 370 g of cocaine, 1 kg
 175 g of hashish, 15.75 g of marijuana, an unlicensed pistol, 11 cartridges, two
 precision scales, many clip-seal bags, a mobile phone and 172,150 liras in cash.
-[@2,3,4,5]
+[@2,3,4,5,6]
 
 The operations were run by the Istanbul police department's Maltepe district
 teams against suspected drug traders. [@1,3]
 
-M.B. threw a vacuum-sealed bag holding 1 kg 175 g of hashish to the ground as he fled, and officers recovered it after catching him. [@3]
+M.B. threw a vacuum-sealed bag holding 1 kg 175 g of hashish to the ground as he fled, and officers recovered it after catching him. [@3,6]
 
 The court remanded both men on 30 October 2026. [@5]
