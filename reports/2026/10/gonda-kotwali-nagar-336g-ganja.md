@@ -31,6 +31,16 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-25
     language: hi
+  - title: गोंडा में दो अलग-अलग कार्रवाई में 2 तस्कर गिरफ्तार:पुलिस ने उनके पास से कुल 596 ग्राम अवैध गांजा और 200 रुपये नकद बरामद किए
+    url: https://www.bhaskar.com/local/uttar-pradesh/gonda/jhanjhari/news/gonda-police-arrest-drug-smugglers-ganja-seized-139486283.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-25
+    language: hi
+  - title: 'Gonda News: 596 ग्राम गांजे के साथ दो गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/gonda/two-arrested-with-596-grams-of-cannabis-gonda-news-c-100-1-slko1026-168653-2026-10-25
+    publisher: Amar Ujala
+    date: 2026-10-25
+    language: hi
 open_questions:
   - No separate date for the arrest was published; 25 October 2026 is the article’s publication date.
   - The person’s name and age were not in the opened text, and no charge, court date or outcome was reported.
@@ -43,5 +53,6 @@ open_questions:
 Police in the Kotwali Nagar police station area of Gonda arrested one person
 they described as an accused, found with illegal ganja, the local name for
 cannabis. [@1] From that person, officers recovered 70 packets containing 336
-grams of ganja in all, and 200 rupees in cash. [@1]
+grams of ganja in all, and 200 rupees in cash. [@1,2]
 
+The person held with the 70 packets was Pankaj Singh of Bambhaura village in the Jarwal Road area of Bahraich, caught near Katahaghat turn. [@3] Pankaj admitted that he bought ganja and sold it secretly. [@3]
