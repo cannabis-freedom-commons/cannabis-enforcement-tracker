@@ -47,6 +47,14 @@ sources:
     url: https://en.vijesti.me/news-b/black-chronicle/834517/Budva--Beranac-arrested--apartment-searched--marijuana--cocaine--phones--sim-cards--money-found
     publisher: Vijesti
     date: 2026-11-03
+  - title: 'Budva: Beranac arrested, search of apartment found marijuana, cocaine, phones, SIM cards, money...'
+    url: https://en.vijesti.me/amp/834517/Budva--Beranac-arrested--apartment-searched--marijuana--cocaine--phones--sim-cards--money-found
+    publisher: Vijesti
+    date: 2026-11-03
+  - title: Cocaine and marijuana seized in Budva, 23-year-old man arrested
+    url: https://radiobijelopolje.me/en/hronika/82830/u-budvi-zaplijenjeni-kokain-i-marihuana-uhapsen-23-godisnjak
+    publisher: Radio Bijelo Polje
+    date: 2026-11-03
 open_questions:
   - The incident date is used as 2 November 2026 because the 3 November report says the operation happened yesterday.
   - Only one opened source account of this event was available and no second confirming report was found.
@@ -59,16 +67,15 @@ open_questions:
 ---
 
 Budva police arrested 23-year-old Ć.S. from Berane after searching an apartment
-he was using in Budva. [@1] The arrest followed a criminal investigation and was
+he was using in Budva. [@1,2,3] The arrest followed a criminal investigation and was
 ordered by the acting state prosecutor at the Higher State Prosecutor's Office
 in Podgorica on suspicion of unauthorized production, possession and
-distribution of narcotic drugs. [@1] Police said he will be brought to the
+distribution of narcotic drugs. [@1,2] Police said he will be brought to the
 Higher State Prosecutor's Office for further proceedings together with criminal
-charges. [@1]
+charges. [@1,3]
 
 The Police Administration announced the operation as activities resulting in the
 seizure of narcotics and the arrest. [@1]
 
 Officers carried out the search, seizure and arrest on the day before the
 announcement, described in the police statement as yesterday. [@1]
-
