@@ -53,6 +53,10 @@ sources:
     url: https://en.philenews.com/local/nicosia-cannabis-parcel-arrest-22-year-old-taxi-driver-released/
     publisher: Philenews
     date: 2026-10-30
+  - title: Suspect tailed undercover officer before 6.6kg Nicosia cannabis seizure
+    url: https://en.philenews.com/local/man-remanded-cannabis-seized-nicosia-sting/
+    publisher: Philenews
+    date: 2026-10-30
 open_questions:
   - The parcel's weight is given as 2.56kg in the police statement and by Cyprus Mail, but Politis reported 2kg 660g; with Politis's vehicle figures that would total about 6.5kg. The report uses the police statement's 2.56kg and its total of about 6.4kg.
   - No charges or trial date were reported; the investigation was at an early stage.
@@ -61,30 +65,33 @@ open_questions:
   - Cyprus Inform describes the 3.836kg as found in a separate search, not in the suspect's vehicle as the report states on the police account.
   - The only photograph on the Cyprus Inform page is an illustrative stock image of handcuffs, so no media from this page shows the event.
   - Philenews reports gross weights of 2.56 kilos, about 100 grams and about 3.84 kilos and describes the total only as more than six kilos, while the existing report uses the police total of about 6.4kg.
+  - The new account gives gross weights of about 2.66 kilograms in the parcel and about 3.94 kilograms in the car, totalling nearly 6.6 kilograms, while the existing report uses about 2.56 kilograms and a police total of about 6.4 kilograms.
+  - The new account describes the taxi driver as aged about 60, while the existing report says 62.
+  - The only listed page image is captioned Astinomia 2 (3) with no descriptive caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 A 22-year-old man was remanded in custody for eight days on Friday after police
-seized about 6.4kg of cannabis. [@1] The Nicosia district court issued the
+seized about 6.4kg of cannabis. [@1,6] The Nicosia district court issued the
 remand order after his arrest in Engomi the previous day. [@1] He is being
 investigated for illegal importation and possession of controlled drugs,
 possession with intent to supply, conspiracy to commit a felony and offences
-related to the proceeds of illegal activity. [@3]
+related to the proceeds of illegal activity. [@3,6]
 
 The investigation concerned a parcel containing 2.56kg of cannabis that arrived
 in Cyprus from abroad on 26 October. [@1,4,5] Police investigated the case with the
 customs department. [@1,4,5] The parcel had been declared as Lego toys. [@3] It
 carried the details of a sender company in the United States and a recipient
 address in Engomi. [@3] Anti-drug police replaced the cannabis with dummies and
-mounted a controlled delivery. [@3] On 29 October the parcel was left at a
+mounted a controlled delivery. [@3,6] On 29 October the parcel was left at a
 parking area in Engomi under police surveillance. [@3] A 62-year-old taxi driver
 then collected it and was arrested. [@2,4,5] He told police a customer had
 instructed him to collect it and that he did not know what it contained. [@1,5] He
-was released after questioning when no evidence emerged against him. [@1,4,5]
+was released after questioning when no evidence emerged against him. [@1,4,5,6]
 
 Further inquiries led police to the 22-year-old, and officers stopped his car
 for a check. [@2] In the car they found three packets holding about 100g of
 cannabis and further packages weighing about 3.84kg, police said. [@1] They also
-seized €4,330 and five mobile phones. [@1,4,5]
+seized €4,330 and five mobile phones. [@1,4,5,6]
 
 The investigation was at an early stage. [@3] Investigators planned to take
 statements and examine phone data and transactions, and asked the taxi platform
@@ -92,3 +99,5 @@ and courier companies for information. [@3] Police are also looking into
 possible accomplices and earlier shipments. [@3]
 
 Police searched the taxi driver's home with his written consent and found nothing illegal. [@5]
+
+His lawyer, Nikos Koromias, did not object to the remand request. [@6] Surveillance officers saw the suspicious car circle the building complex and then follow the undercover officer when he drove away. [@6] In the suspect's car, officers found about 100 grams on the front passenger-side mat, about 1,836 grams elsewhere and four airtight packages containing two kilograms. [@6]
