@@ -1,0 +1,56 @@
+---
+code: 4G38T3
+date: 2026-11-03
+country: eg
+place: Second Police District (Qism Than Sohag), Sohag
+coordinates: [26.5591, 31.6957]
+precision: district
+type: sentence
+also: [arrest, prosecution, seizure]
+title: Sohag worker jailed 6 years, fined over hashish trafficking
+summary: >-
+  The Sohag Criminal Court sentenced a worker to six years of aggravated imprisonment and a 100,000-pound fine for trafficking that included hashish in Second Sohag. Police arrested him in 2026 with a quantity of drugs after a tip from a secret source, and he confessed before referral to court.
+figures:
+  arrested: 1
+  charged: 1
+  prison: 6 years
+  fine:
+    amount: 100000
+    currency: EGP
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 658f76a483c9bf9fa51a26a20f98ca60
+tags: [sohag, hashish, sentencing]
+sources:
+  - title: غرامة 100 ألف جنيه.. السجن المشدد لعامل بتهمة ترويج المخدرات في سوهاج
+    url: https://www.awanmasr.com/%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-100-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-%D9%84%D8%B9%D8%A7%D9%85%D9%84-%D8%A8%D8%AA%D9%87/
+    publisher: اوان مصر
+    date: 2026-11-03
+    language: ar
+open_questions:
+  - No separate sentencing date was published; 3 November 2026 is the publication date and is used as the incident date.
+  - No weight, value or separate cannabis quantity was reported; the seizure is described only as a quantity of narcotic substances.
+  - The defendant's full name was not published, only the initials A. M. A.
+  - Only one accessible source for this exact defendant and sentence was found after searching in Arabic; similar Sohag sentences concern different initials and dates.
+  - No photograph of the event was available; the page carries only archive and unrelated images, so no media entry is included.
+---
+
+The Sohag Criminal Court closed the case against a worker accused of drug
+trafficking in the Second Sohag police district. [@1] It sentenced him to six
+years of aggravated imprisonment and fined him 100,000 Egyptian pounds. [@1] The
+defendant was identified only by the initials A. M. A. [@1]
+
+The case dates to 2026, when detectives received information that the defendant
+was trafficking shabu, methamphetamine essence, hashish and narcotic pills. [@1]
+Security agencies carried out the necessary investigations after receiving the
+information about his activity. [@1] After completing legal procedures, they
+confirmed the tip, which had come from a secret source. [@1] Officers then
+arrested the accused and found a quantity of narcotic substances in his
+possession. [@1]
+
+When confronted, he admitted that he was trafficking in narcotic substances.
+[@1] He was then referred to the criminal court, which tried him and imposed the
+six-year term and the 100,000-pound fine. [@1] The trafficking allegation
+expressly included hashish alongside shabu, methamphetamine essence and narcotic
+pills. [@1]
+
