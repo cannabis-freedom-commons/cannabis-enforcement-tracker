@@ -27,6 +27,11 @@ sources:
     publisher: Mazowiecka Policja
     date: 2026-10-29
     language: pl
+  - title: Nocna akcja służb w regionie. Zatrzymano 26-latka
+    url: https://terazgostynin.pl/wiadomosci/nocna-akcja-sluzb-w-regionie-zatrzymano-26-latka/AU35w4Ks29HjRoQwLMt3
+    publisher: Portal Gostynin
+    date: 2026-11-02
+    language: pl
 open_questions:
   - No weight or separate amounts were published for the marijuana and the amphetamine, so no cannabis quantity is recorded and the combined seizure cannot be counted as cannabis.
   - The outcome of the blood test and any driving-under-the-influence charge is not yet known.
@@ -40,15 +45,14 @@ Sierpc, and officers smelled a strong odour of marijuana from him during the
 check. [@2]
 
 Police found several small bags in his trouser pocket, and a drug test
-identified the seized substances as marijuana and amphetamine. [@1] The account
+identified the seized substances as marijuana and amphetamine. [@1,3] The account
 attributes the details to Asp. Szt. Katarzyna Krukowska, the press officer of
 the Sierpc police. [@1] A saliva test for intoxicants was positive, so police
 seized his driving licence and took blood for further testing on suspicion of
-driving under the influence of drugs. [@1]
+driving under the influence of drugs. [@1,3]
 
-He was detained in a police cell for possessing the prohibited substances. [@1]
+He was detained in a police cell for possessing the prohibited substances. [@1,3]
 After evidence was gathered he was charged with drug possession, to which he
 confessed, an offence carrying up to 3 years' imprisonment. [@2] Whether he will
 also be charged with driving under the influence will be decided by the
 blood-test results. [@2]
-
