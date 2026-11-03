@@ -25,6 +25,11 @@ media:
     media_url: https://backend.newsnow24.com/storage/photos/shares/news/2026/10/30/file_1793356045.jpg
     publisher: NewsNow24
     caption: Seized 15 kg of ganja hidden beside the CNG auto engine in the Brahmanpara operation.
+  - kind: photo
+    url: https://dailysakalbela.com/saradesh/two-arrested-with-15-kg-ganja-in-brahmanpara
+    media_url: https://dailysakalbela.com/assets/images/post/1793362732AGoT02WC.webp
+    publisher: Daily Sakalbela
+    caption: Photo published with the report on the two men arrested with 15 kg of ganja in Brahmanpara.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ba60f7a9d0f844e38d8e058a2f48222
@@ -45,18 +50,25 @@ sources:
     publisher: NewsNow24
     date: 2026-10-30
     language: bn
+  - title: ব্রাহ্মণপাড়ায় গাঁজাসহ দুই মাদক কারবারি আটক
+    url: https://dailysakalbela.com/saradesh/two-arrested-with-15-kg-ganja-in-brahmanpara
+    publisher: Daily Sakalbela
+    date: 2026-10-30
+    language: bn
 open_questions:
   - The specific drug-law section and any court outcome after the reported case filing were not published.
   - No street value, packaging count or ownership and seizure status of the auto-rickshaw was reported.
   - The 29 October 2026 date is the operation date stated in both reports; 30 and 31 October 2026 are their publication dates.
+  - The new account says Senior Assistant Superintendent Md. Shahin led the operation with SI Rupam Sarkar and ASI Kamruzzaman as participants, while the existing report describes SI Rupam Kumar Sarkar as leading the raid.
+  - The new account does not mention the CNG auto-rickshaw, concealment beside the engine, or the Gopal Nagar Bazar to Kalikapur Bazar road location, which remain supported only by the earlier sources.
 ---
 
 Brahmanpara police in Cumilla arrested two men accused of trying to smuggle
-ganja hidden in a CNG-fuelled auto-rickshaw. [@1,3] The operation took place at
+ganja hidden in a CNG-fuelled auto-rickshaw. [@1,3,4] The operation took place at
 midday on Thursday 29 October on the paved road from Gopal Nagar Bazar toward
 Kalikapur Bazar in Dulalpur Union. [@1,3] The detained men are 42-year-old Jamil
 Hossain of Dhalahas in Debidwar and 38-year-old Babul Mia of South Tentabhumi in
-Brahmanpara. [@1,3]
+Brahmanpara. [@1,3,4]
 
 Acting on a tip-off, a Brahmanpara police team waited on the Gopal
 Nagar-Kalikapur road and stopped the auto-rickshaw after its movements looked
@@ -68,3 +80,5 @@ Kamruzzaman. [@1,3] Brahmanpara officer-in-charge Md. Faruk Hossain said legal
 action was being taken against the arrested men and anti-drug operations would
 continue. [@1,3] Police said a case under the relevant law was being filed against
 the arrested men. [@2]
+
+Police named four additional accused as absconding in the case — Suman Mia (35), Mobarak Hossain, Manik (25) and Hasan Ali (22) — and said drives to arrest them were continuing. [@4] The 29 October operation was led by Debidwar Circle Senior Assistant Superintendent of Police Md. Shahin and included SI Md. Shamim, SI Rupam Sarkar and ASI Kamruzzaman Sohag of Brahmanpara police station. [@4]
