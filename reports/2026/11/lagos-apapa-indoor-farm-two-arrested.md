@@ -87,6 +87,10 @@ sources:
     url: https://idomavoice.com/police-uncover-lagos-indoor-cannabis-farm-arrest-two/
     publisher: Idoma Voice Newspaper
     date: 2026-11-03
+  - title: Police uncover cannabis farm hidden inside Lagos residential building – The Sun Nigeria
+    url: https://thesun.ng/police-uncover-cannabis-farm-hidden-inside-lagos-residential-building/
+    publisher: The Sun Nigeria
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -107,14 +111,15 @@ open_questions:
   - The Idoma Voice account gives the discovery date as 2 November 2026 without a time of day; the 8:15 a.m. timing in the existing report relies on earlier sources.
   - No figure for the number of plants, weight of suspected cannabis, equipment inventory, value or duration of operation was published.
   - The page carries a lead image and an in-article exhibit image without captions establishing that they show this farm, the suspects or the raid, so no media entry is listed.
+  - The page's only image is captioned HWMXiDnXoAAVDpD, which does not establish that it shows this farm, the suspects or the raid, so no media entry is listed.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
-credible intelligence. [@1,7,9,10,11] The Lagos State Police Command announced the
+credible intelligence. [@1,7,9,10,11,14] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
@@ -133,3 +138,5 @@ operation, including any possible links to wider drug production or distribution
 networks. [@1]
 
 The plants, which would take three months to mature, were allegedly cultivated for eventual sale in the illicit drug market. [@4] The young plants were grown in cups and, after germinating, were to be harvested and sold into society. [@4] The property manager reportedly told reporters that he only intended to help someone and had no plan to profit from the operation. [@3] Lagos State Commissioner of Police Tijani Fatai described the discovery as another breakthrough in the Command's fight against drug abuse and trafficking. [@4] The raid recovered cannabis plants growing in black bags, bags of harvested cannabis and cultivation equipment including grow lights. [@3]
+
+The suspects are expected to be handed over to the National Drug Law Enforcement Agency (NDLEA) for further investigation and prosecution. [@14]
