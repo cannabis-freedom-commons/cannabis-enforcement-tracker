@@ -30,6 +30,11 @@ media:
     media_url: https://dailysakalbela.com/assets/images/post/1793362732AGoT02WC.webp
     publisher: Daily Sakalbela
     caption: Photo published with the report on the two men arrested with 15 kg of ganja in Brahmanpara.
+  - kind: photo
+    url: https://banglaralonews.com/5551848/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81'%E0%A6%9C%E0%A6%BE-%E0%A6%AA%E0%A6%BE'%E0%A6%9A%E0%A6%BE'%E0%A6%B0,-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87'%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE'%E0%A6%B0-%E0%A7%A8
+    media_url: https://banglaralonews.com/public/postimages/6ae4ef4ae8c74.jpg
+    publisher: Banglar Alo News
+    caption: Photo published with the Banglar Alo News report on the Brahmanpara CNG-auto ganja seizure.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ba60f7a9d0f844e38d8e058a2f48222
@@ -55,6 +60,11 @@ sources:
     publisher: Daily Sakalbela
     date: 2026-10-30
     language: bn
+  - title: ব্রাহ্মণপাড়ায় সিএনজির ইঞ্জিনে লুকিয়ে গাঁ'জা পা'চা'র, গ্রে'প্তা'র ২
+    url: https://banglaralonews.com/5551848/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%A3%E0%A6%AA%E0%A6%BE%E0%A7%9C%E0%A6%BE%E0%A7%9F-%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF%E0%A6%B0-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%B2%E0%A7%81%E0%A6%95%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81'%E0%A6%9C%E0%A6%BE-%E0%A6%AA%E0%A6%BE'%E0%A6%9A%E0%A6%BE'%E0%A6%B0,-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87'%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE'%E0%A6%B0-%E0%A7%A8
+    publisher: Banglar Alo News
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The specific drug-law section and any court outcome after the reported case filing were not published.
   - No street value, packaging count or ownership and seizure status of the auto-rickshaw was reported.
@@ -64,21 +74,21 @@ open_questions:
 ---
 
 Brahmanpara police in Cumilla arrested two men accused of trying to smuggle
-ganja hidden in a CNG-fuelled auto-rickshaw. [@1,3,4] The operation took place at
+ganja hidden in a CNG-fuelled auto-rickshaw. [@1,3,4,5] The operation took place at
 midday on Thursday 29 October on the paved road from Gopal Nagar Bazar toward
-Kalikapur Bazar in Dulalpur Union. [@1,3] The detained men are 42-year-old Jamil
+Kalikapur Bazar in Dulalpur Union. [@1,3,5] The detained men are 42-year-old Jamil
 Hossain of Dhalahas in Debidwar and 38-year-old Babul Mia of South Tentabhumi in
-Brahmanpara. [@1,3,4]
+Brahmanpara. [@1,3,4,5]
 
 Acting on a tip-off, a Brahmanpara police team waited on the Gopal
 Nagar-Kalikapur road and stopped the auto-rickshaw after its movements looked
-suspicious. [@1,3] A search found 15 kg of ganja, the local term for cannabis,
-concealed beside the engine of the three-wheeled vehicle. [@1,3]
+suspicious. [@1,3,5] A search found 15 kg of ganja, the local term for cannabis,
+concealed beside the engine of the three-wheeled vehicle. [@1,3,5]
 
 Sub-Inspector Rupam Kumar Sarkar led the raid with Assistant Sub-Inspector Md.
-Kamruzzaman. [@1,3] Brahmanpara officer-in-charge Md. Faruk Hossain said legal
+Kamruzzaman. [@1,3,5] Brahmanpara officer-in-charge Md. Faruk Hossain said legal
 action was being taken against the arrested men and anti-drug operations would
-continue. [@1,3] Police said a case under the relevant law was being filed against
+continue. [@1,3,5] Police said a case under the relevant law was being filed against
 the arrested men. [@2]
 
 Police named four additional accused as absconding in the case — Suman Mia (35), Mobarak Hossain, Manik (25) and Hasan Ali (22) — and said drives to arrest them were continuing. [@4] The 29 October operation was led by Debidwar Circle Senior Assistant Superintendent of Police Md. Shahin and included SI Md. Shamim, SI Rupam Sarkar and ASI Kamruzzaman Sohag of Brahmanpara police station. [@4]
