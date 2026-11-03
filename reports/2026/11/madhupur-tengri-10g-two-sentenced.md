@@ -31,6 +31,11 @@ sources:
     publisher: Muktodhoni
     date: 2026-11-03
     language: bn
+  - title: টাঙ্গাইলের ধনবাড়ী-মধুপুরে মাদকবিরোধী অভিযান,গ্রেপ্তার ৪
+    url: https://sorejominbarta.com/country/article/66055/%E0%A6%9F%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A7%80-%E0%A6%AE%E0%A6%A7%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0
+    publisher: Sorejomin Barta
+    date: 2026-11-03
+    language: bn
 open_questions:
   - The wider operation detained four people in total; figures here count only the two held with ganja, and yaba, heroin, phones and cash from the other two are excluded from cannabis figures.
   - The submitted page carries a photo with an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added.
@@ -40,10 +45,10 @@ open_questions:
 
 Department of Narcotics Control officers detained four people in separate
 anti-drug raids in Dhanbari and Madhupur upazilas of Tangail on 2 November 2026.
-[@1] The cannabis pair were Imon Arefin Swakkhar (25) and Mahim Arefin Sourav
-(27) of Tengri Madhyapara village in Madhupur, held with 10 grams of ganja. [@1]
+[@1,3] The cannabis pair were Imon Arefin Swakkhar (25) and Mahim Arefin Sourav
+(27) of Tengri Madhyapara village in Madhupur, held with 10 grams of ganja. [@1,3]
 A mobile court sentenced each of the two to six months of simple imprisonment
-and a 100-taka fine. [@1] Sub-Inspector Topu Khan filed the prosecution, and
+and a 100-taka fine. [@1,3] Sub-Inspector Topu Khan filed the prosecution, and
 Madhupur Upazila Nirbahi Officer and Executive Magistrate Md Saiful Islam
 conducted the mobile court that sentenced them. [@1]
 
@@ -61,4 +66,3 @@ narcotics-control assistant director. [@2] A second outlet confirms the separate
 10-gram ganja detention and the six-month sentence with a 100-taka fine for each
 of the two men. [@2] The department says anti-drug operations will continue
 across the district. [@1]
-
