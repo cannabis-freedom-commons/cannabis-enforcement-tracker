@@ -33,29 +33,37 @@ sources:
     publisher: Betul Update
     date: 2026-11-03
     language: hi
+  - title: 'Betul News : गांजा की तस्करी करने वाले तीन आरोपी गिरफ्तार, सारणी पुलिस ने की कार्रवाई'
+    url: https://www.gyanwani.com/41375/
+    publisher: Gyan Wani
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The interception occurred on 2 November and the third arrest on 3 November; 3 November 2026 is used as the incident date for the latest step.
   - The page carries a lead photo with an empty caption, so whether it shows this seizure could not be established and no media entry is added.
   - The Rs 80,000 figure is the police estimate reported by the source; no independent valuation is reported.
   - Only one opened source could be found for this 3 November 2026 event; no second account was available to corroborate details.
   - The Betul Update page carries a photo whose caption repeats the headline and does not establish what it depicts, so no media entry is added.
+  - The page image carries no caption or alt text establishing that it shows this seizure, so no media entry is added.
 ---
 
 In Sarni in Betul district, police arrested three accused, including a husband
-and wife, in a ganja-smuggling case. [@1,2] The first two arrested were Sheikh
-Farid, 42, and his wife Jasmin Sheikh, 35, residents of Ward No. 3, Sarni. [@1,2]
+and wife, in a ganja-smuggling case. [@1,2,3] The first two arrested were Sheikh
+Farid, 42, and his wife Jasmin Sheikh, 35, residents of Ward No. 3, Sarni. [@1,2,3]
 The third person arrested was Bhuliya Kashyap, 40, a resident of Rajendra Nagar,
-Pathakhera, arrested on Tuesday, 3 November. [@1,2] Police named Deepak Kashyap,
+Pathakhera, arrested on Tuesday, 3 November. [@1,2,3] Police named Deepak Kashyap,
 30, of Rajendra Nagar, Pathakhera, as absconding and said a search for him is
-under way. [@1,2]
+under way. [@1,2,3]
 
 Officers recovered 2.002 kilograms of ganja from the couple and seized the
-scooty used for smuggling. [@1,2] Police valued the seized ganja at about Rs
-80,000. [@1]
+scooty used for smuggling. [@1,2,3] Police valued the seized ganja at about Rs
+80,000. [@1,3]
 
 Acting on a 2 November informant tip that a person was bringing ganja by scooty
 along the Amla-Belond road toward Sarni, police cordoned Belond Road and stopped
-scooty number MP 48 MP 8215. [@1] Police registered a case under the NDPS Act
+scooty number MP 48 MP 8215. [@1,3] Police registered a case under the NDPS Act
 and started investigation, arresting Bhuliya Kashyap on the basis of questioning
 and the accused persons' memorandums. [@1] Police said the three arrested
-accused will be produced in court. [@1]
+accused will be produced in court. [@1,3]
+
+Sarni police registered the case as crime number 390/26 under Section 8/20 of the NDPS Act. [@3]
