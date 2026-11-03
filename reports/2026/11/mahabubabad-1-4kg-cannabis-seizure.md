@@ -29,19 +29,25 @@ sources:
     url: https://www.thehansindia.com/news/cities/warangal/excise-raids-crack-down-on-cannabis-illicit-liquor-in-mahabubabad-1138942
     publisher: The Hans India
     date: 2026-11-03
+  - title: గంజాయి రవాణా చేస్తే కఠిన చర్యలు తప్పవు..
+    url: https://www.dishadaily.com/telangana/warangal/strict-action-will-be-taken-if-ganja-cannabis-is-transported-598352
+    publisher: Disha Daily
+    date: 2026-11-03
+    language: te
 open_questions:
   - The article gives no separate date for the checks and raids, so 3 November 2026, its publication date, is used as the incident date.
   - No suspect or arrest was reported for the cannabis seizure; the three recorded arrests were in the natusara liquor cases.
   - It is unclear whether the two women reported as caught with natusara are included in the three persons reported as arrested, so only the explicit arrested total of three is recorded.
   - Liquor, black jaggery and alum quantities are mentioned only to explain the mixed operation and are excluded from cannabis figures.
   - Only one accessible source for this 1.4 kg seizure was opened and no corroborating second report was found.
+  - The Disha page carries a photo whose caption only repeats the headline and does not establish what it depicts, so no media entry is included.
 ---
 
 District excise officials carried out special checks against cannabis transport
 and country-made liquor in Mahabubabad district under District Prohibition and
-Excise Officer Karanchand. [@1] Around Mahabubabad railway station and near
+Excise Officer Karanchand. [@1,2] Around Mahabubabad railway station and near
 Kuravi Gate, officers found 1.4 kg of dried cannabis hidden in bushes beside the
-railway track on Anantharam road and seized it. [@1] No one was reported as
+railway track on Anantharam road and seized it. [@1,2] No one was reported as
 arrested with the cannabis. [@1]
 
 Separately in the same operation, officers raided Bhangya Thanda, Rayini Patnam
@@ -58,4 +64,3 @@ liquor sale or transport and said surveillance of illicit liquor making and
 narcotics transport would continue. [@1] Excise Sub-Inspector Srinivas, trainee
 Sub-Inspector Dhanalakshmi and constables Nagaraju, Gopi and John Pasha took
 part in the raids. [@1]
-
