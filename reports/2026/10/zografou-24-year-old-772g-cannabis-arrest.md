@@ -22,6 +22,11 @@ sources:
     publisher: Zougla
     date: 2026-11-01
     language: el
+  - title: 'Ζωγράφου: Συνελήφθη 24χρονος για διακίνηση ναρκωτικών – Κατασχέθηκαν 772 γραμμάρια κάνναβης'
+    url: https://pieria24.gr/zografoy-synelifthi-24chronos-gia-diakinisi-narkotikon-kataschethikan-772-grammaria-kannavis/
+    publisher: Pieria24
+    date: 2026-11-01
+    language: el
 open_questions:
   - Only one source for this event could be opened, so no second account confirms the arrest or seizure.
   - The article gives the arrest time only as the evening of Friday 30 October and the place only as the Zografou area, with no street-level location.
@@ -31,18 +36,17 @@ open_questions:
 
 On the evening of Friday 30 October, police in the Zografou area arrested a
 24-year-old man accused of violating the legislation on addictive substances.
-[@1] The arrest was carried out by officers of the DIAS police unit who were
+[@1,2] The arrest was carried out by officers of the DIAS police unit who were
 operating in the Zografou area that evening. [@1] Hellenic Police officers who
 were patrolling in Zografou said they judged the young man's movements to be
 suspicious and therefore called him for a check. [@1] The account describes only
 one young man being stopped, checked and arrested in this incident. [@1]
 
 During that check, officers found cannabis in his possession and seized a total
-of 772 grams of raw cannabis. [@1] The seized quantity, described as 772 grams
+of 772 grams of raw cannabis. [@1,2] The seized quantity, described as 772 grams
 of unprocessed cannabis, corresponds to 0.772 kilograms. [@1]
 
 The Zografou Department for the Prosecution and Investigation of Crimes prepared
 the criminal case file against the detained man. [@1] Following completion of
 the case file, officers referred the detainee to the competent public prosecutor
-for further handling. [@1]
-
+for further handling. [@1,2]
