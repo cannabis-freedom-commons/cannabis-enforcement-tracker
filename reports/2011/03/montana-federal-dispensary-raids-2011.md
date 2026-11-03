@@ -25,8 +25,13 @@ sources:
     url: https://whitefishpilot.com/news/2011/mar/22/feds-raid-marijuana-operations-across-state-9/
     publisher: Whitefish Pilot
     date: 2011-03-22
+  - title: Christopher Wayne Williams Sentenced In U.S. District Court
+    url: https://www.justice.gov/usao-mt/pr/christopher-wayne-williams-sentenced-us-district-court
+    publisher: US Attorney's Office, District of Montana
+    date: 2013-02-01
+    archived: https://web.archive.org/web/20210805154512/https://www.justice.gov/usao-mt/pr/christopher-wayne-williams-sentenced-us-district-court
 open_questions:
-  - No arrests were made and no charges had been filed in the opened sources; the outcome of the investigation was not reported.
+  - No arrests were made in the raids; the later prosecution of the Helena greenhouse's operator is noted above, and other cases' outcomes were not reported.
   - No photo of the raids with a recoverable direct address was found in the opened sources, so no media entry was added.
 ---
 
@@ -35,3 +40,5 @@ Federal agents raided 26 medical-marijuana dispensaries and grow sites in 13 Mon
 Owners reported that agents seized marijuana plants, computers and cell phones, and in some cases froze bank accounts; no charges were filed immediately after the raids. [@2] At the Montana Cannabis greenhouse near Helena, agents seized computers, data storage, products and 1,680 plants while about 15 workers were detained during the search. [@2]
 
 US Attorney Michael Cotter said the warrants capped an 18-month multi-agency investigation and targeted premises where there was probable cause of large-scale trafficking, noting marijuana's status as a Schedule 1 drug under federal law. [@2] He said people clearly complying with state law were not the focus, a line advocates rejected: Americans for Safe Access said the raids were timed to undermine the democratic process while the legislature debated HB 161, a bill to repeal the voter-approved medical-marijuana law. [@1,2]
+
+The Helena greenhouse belonged to Montana Cannabis, whose partner Christopher Williams was convicted in the case in September 2012 and sentenced in February 2013 to five years in prison; his trial and sentencing are covered in a separate report. [@3]
