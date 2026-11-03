@@ -270,3 +270,52 @@ func TestSubmissionCostSortIncludesSwancloudEstimates(t *testing.T) {
 		t.Fatal("Swancloud API value differs from displayed pricing", page.Submissions[0].sortKey, page.Submissions[1].sortKey)
 	}
 }
+
+func TestSubmissionFeedPagesEverySortWithTies(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	for i := 0; i < 57; i++ {
+		u := fmt.Sprintf("https://news.example/%03d", i)
+		if _, err := s.Accept(ctx, Intake{Origin: "rss", URL: u, CanonicalURL: u}); err != nil {
+			t.Fatal(err)
+		}
+	}
+	// Equal timestamps and empty usage force every sort to use the receipt tie-breaker.
+	if _, err := s.DB.Exec("UPDATE cases SET created_at=1,updated_at=1; UPDATE submissions SET created_at=1"); err != nil {
+		t.Fatal(err)
+	}
+	for sort := range submissionSorts {
+		for _, order := range []string{"asc", "desc"} {
+			t.Run(sort+"/"+order, func(t *testing.T) {
+				seen := map[string]bool{}
+				cursor := ""
+				for pageNumber := 0; pageNumber < 2; pageNumber++ {
+					page, err := s.ListSubmissions(ctx, cursor, "", "rss", sort, order)
+					if err != nil {
+						t.Fatal(err)
+					}
+					expected := 50
+					if pageNumber == 1 {
+						expected = 7
+					}
+					if len(page.Submissions) != expected || page.Total != 57 {
+						t.Fatalf("incorrect bounded page: %d/%d", len(page.Submissions), page.Total)
+					}
+					for _, entry := range page.Submissions {
+						if seen[entry.ID] {
+							t.Fatalf("repeated receipt %s", entry.ID)
+						}
+						seen[entry.ID] = true
+					}
+					cursor = page.NextCursor
+					if (pageNumber == 0) != (cursor != "") {
+						t.Fatal("incorrect next cursor")
+					}
+				}
+				if len(seen) != 57 {
+					t.Fatal("missing receipts")
+				}
+			})
+		}
+	}
+}

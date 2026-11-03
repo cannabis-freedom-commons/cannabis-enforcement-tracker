@@ -206,7 +206,10 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
  coalesce((SELECT available_at FROM jobs WHERE ref=c.id AND kind='research' AND error_code='daily_budget_wait' AND status='queued'),0),
  coalesce((SELECT json_group_array(json_object('model',model,'status',status,'started_at',coalesce(started_at,0),'finished_at',coalesce(finished_at,0),'input_tokens',input_tokens,'output_tokens',output_tokens,'reasoning_tokens',reasoning_tokens,'cache_read_tokens',cache_read_tokens,'cache_write_tokens',cache_write_tokens,'cost_usd',cost_usd)) FROM (SELECT * FROM research_runs WHERE case_id=c.id ORDER BY rowid DESC LIMIT 20)),'[]')`
 	from := ` FROM submissions s JOIN cases c ON c.id=s.case_id`
-	rows, err := tx.QueryContext(ctx, columns+fmt.Sprintf(", CAST((%s) AS TEXT)", spec.expr)+from+where+fmt.Sprintf(" ORDER BY %s %s, s.rowid %s LIMIT 51", spec.expr, dir, dir), args...)
+	// Select the bounded page before loading histories, usage totals and run JSON.
+	// Otherwise SQLite may hydrate every candidate while sorting the full register.
+	pageQuery := fmt.Sprintf("WITH page AS MATERIALIZED (SELECT s.rowid AS sequence, %s AS sort_key", spec.expr) + from + where + fmt.Sprintf(" ORDER BY %s %s, s.rowid %s LIMIT 51) ", spec.expr, dir, dir)
+	rows, err := tx.QueryContext(ctx, pageQuery+columns+", CAST(page.sort_key AS TEXT) FROM page JOIN submissions s ON s.rowid=page.sequence JOIN cases c ON c.id=s.case_id"+fmt.Sprintf(" ORDER BY page.sort_key %s, s.rowid %s", dir, dir), args...)
 	if err != nil {
 		return out, err
 	}

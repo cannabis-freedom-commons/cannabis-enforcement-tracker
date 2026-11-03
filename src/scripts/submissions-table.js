@@ -18,7 +18,9 @@ function initialize(root) {
   const el = (tag, text, className) => { const n = document.createElement(tag); if (text !== undefined) n.textContent = text; if (className) n.className = className; return n; };
   let cursors = [""], nextCursor = "", revision = "", rows = [], status = "", plan = null, sort = "updated", order = "desc";
   const sortDefault = { received: "desc", updated: "desc", id: "asc", source: "asc", status: "asc", tokens: "desc", runs: "desc", cost: "desc" };
-  let socket, retryTimer, refreshTimer, tick, failures = 0, request, pending = false, disposed = false;
+  let socket, retryTimer, refreshTimer, tick, failures = 0, request, pending = false, disposed = false, lastRefresh = 0;
+  const rowCaches = new WeakMap();
+  let processingSignature = "";
 
   function connection(text, state = "offline") { const c = $("connection"); c.dataset.state = state; c.querySelector("span").textContent = text; }
   function controls() {
@@ -88,10 +90,29 @@ function initialize(root) {
     a.append(when, ...(showUpdated ? [updated] : []), id, src, state, tokens, runs, cost);
     li.append(a); return li;
   }
+  // Keep unchanged links in place while live work updates. Rebuilding every row
+  // loses keyboard focus and forces layout and accessibility updates for the whole table.
+  function renderRows(list, values, showUpdated, empty) {
+    const previous = rowCaches.get(list) || new Map(), next = new Map();
+    const planKey = JSON.stringify(plan), clock = Math.floor(Date.now() / 30000);
+    for (const [index, value] of values.entries()) {
+      const signature = JSON.stringify(value) + planKey + (isRunning(value.status) ? clock : "");
+      const cached = previous.get(value.id);
+      const entry = cached?.signature === signature ? cached : { signature, node: row(value, showUpdated) };
+      next.set(value.id, entry);
+      if (cached && cached !== entry && cached.node.parentNode === list) cached.node.replaceWith(entry.node);
+      if (list.children[index] !== entry.node) list.insertBefore(entry.node, list.children[index] || null);
+    }
+    if (!values.length) {
+      if (list.children.length !== 1 || list.firstElementChild?.textContent !== empty) list.replaceChildren(el("li", empty, "sx-empty"));
+    } else {
+      while (list.children.length > values.length) list.lastElementChild.remove();
+    }
+    rowCaches.set(list, next);
+  }
   function render() {
-    const list = $("rows"); list.replaceChildren(); list.setAttribute("aria-busy", "false");
-    if (!rows.length) list.append(el("li", status || $("origin").value ? "No submissions match this filter." : "No submissions yet.", "sx-empty"));
-    for (const v of rows) list.append(row(v, true));
+    const list = $("rows"); list.setAttribute("aria-busy", "false");
+    renderRows(list, rows, true, status || $("origin").value ? "No submissions match this filter." : "No submissions yet.");
     controls();
   }
   async function refresh() {
@@ -102,15 +123,20 @@ function initialize(root) {
     if (status) params.set("status", status);
     if ($("origin").value) params.set("origin", $("origin").value);
     params.set("sort", sort); params.set("order", order);
+    clearTimeout(refreshTimer); refreshTimer = null;
+    lastRefresh = Date.now();
     request = new AbortController(); const active = request;
     try {
       const data = await get(`/v1/submissions?${params}`, active.signal);
       if (disposed || active.signal.aborted) return;
-      renderProcessingStatus($("processing"), data.processing, { compact: true });
+      const nextProcessing = JSON.stringify(data.processing);
+      if (nextProcessing !== processingSignature) {
+        renderProcessingStatus($("processing"), data.processing, { compact: true });
+        processingSignature = nextProcessing;
+      }
       plan = data.processing?.plan || null;
       const working = (data.working || []).filter(v => ID_PATTERN.test(v.id));
-      $("working").replaceChildren(...working.map(v => row(v)));
-      if (!working.length) $("working").append(el("li", "No submissions are running right now.", "sx-empty"));
+      renderRows($("working"), working, false, "No submissions are running right now.");
       const limit = data.processing?.max_running > 0 ? `/${data.processing.max_running}` : "";
       $("working-count").textContent = Number.isFinite(data.summary?.running) ? `· ${data.summary.running.toLocaleString()}${limit}` : "";
       rows = data.submissions.filter((v) => ID_PATTERN.test(v.id));
@@ -131,8 +157,13 @@ function initialize(root) {
       if (!active.signal.aborted) { $("message").textContent = "Submissions could not be refreshed; the last loaded list is kept."; if (!rows.length) $("rows").replaceChildren(el("li", "Submissions could not be loaded.", "sx-empty")); }
     } finally { request = null; if (pending) { pending = false; scheduleRefresh(); } }
   }
-  function scheduleRefresh() { clearTimeout(refreshTimer); refreshTimer = setTimeout(refresh, 250); }
-  function changePage(action) { request?.abort(); action(); pending = true; if (!request) { pending = false; refresh(); } }
+  // Coalesce stream bursts without postponing updates indefinitely. Explicit navigation
+  // still refreshes immediately; background updates run at most once every two seconds.
+  function scheduleRefresh() {
+    if (refreshTimer || disposed || document.hidden) return;
+    refreshTimer = setTimeout(() => { refreshTimer = null; refresh(); }, Math.max(250, 2000 - (Date.now() - lastRefresh)));
+  }
+  function changePage(action) { clearTimeout(refreshTimer); refreshTimer = null; lastRefresh = 0; request?.abort(); action(); pending = true; if (!request) { pending = false; refresh(); } }
 
   for (const chip of root.querySelectorAll("[data-filter]")) chip.addEventListener("click", () => {
     status = chip.dataset.filter;
@@ -184,10 +215,10 @@ function initialize(root) {
     } catch { socket = null; reconnect(); }
   }
   function reconnect() { if (disposed || document.hidden) return; connection("Reconnecting…"); clearTimeout(retryTimer); retryTimer = setTimeout(connect, Math.min(30000, 1000 * 2 ** Math.min(failures++, 5)) + Math.random() * 500); }
-  document.addEventListener("visibilitychange", () => { if (document.hidden) { disconnect(); clearTimeout(refreshTimer); connection("Paused"); } else { refresh(); connect(); } });
+  document.addEventListener("visibilitychange", () => { if (document.hidden) { disconnect(); clearTimeout(refreshTimer); refreshTimer = null; connection("Paused"); } else { refresh(); connect(); } });
   window.addEventListener("online", () => { disconnect(); connect(); refresh(); });
   window.addEventListener("offline", () => { disconnect(); connection("Offline"); });
-  window.addEventListener("pagehide", () => { disposed = true; disconnect(); request?.abort(); clearTimeout(refreshTimer); clearInterval(tick); });
+  window.addEventListener("pagehide", () => { disposed = true; disconnect(); request?.abort(); clearTimeout(refreshTimer); refreshTimer = null; clearInterval(tick); });
   window.addEventListener("pageshow", (event) => { if (event.persisted) { disposed = false; connect(); refresh(); } });
   refresh(); connect();
 }

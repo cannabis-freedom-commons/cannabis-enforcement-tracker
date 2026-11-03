@@ -146,6 +146,12 @@ UI shows the startup test failure. Research can finish before
 the publication job runs: a separate durable job commits it to the configured local repository.
 No GitHub App or API key is needed for this step.
 
+The submissions register coalesces live updates to at most one refresh every two seconds;
+filters and pagination still load immediately. Unchanged rows retain their DOM nodes and keyboard
+focus. The feed selects its 51-row page before loading histories and AI usage, and job lookups
+use a case-reference index. `go test ./internal/store -run '^$' -bench BenchmarkSubmissionFeed`
+measures the feed against 5,000 synthetic cases in an isolated in-memory database.
+
 ## Browser source capture
 
 Install the matching Chromium once with `npm run browser-install` (Playwright is a pinned runtime
