@@ -41,6 +41,11 @@ sources:
     publisher: Sinaloahoy Noticias
     date: 2026-11-01
     language: es
+  - title: Asegura Marina más de 7 kilos de presunta mariguana durante operativo en Sinaloa
+    url: https://losnoticieristas.com/policiaca/2026/11/asegura-marina-mas-de-7-kilos-de-presunta-mariguana-durante-operativo-en-sinaloa-1159595/
+    publisher: Los Noticieristas
+    date: 2026-11-02
+    language: es
 open_questions:
   - The sources say only 'more than seven kilograms'; the exact weight above seven kilograms was not published.
   - The reports give no separate day for the patrols, so 1 November 2026 is the publication date; the second account says the seizure occurred 'in recent days'.
@@ -49,19 +54,21 @@ open_questions:
   - The Sinaloahoy account names Pueblo Nuevo, Sinaloa, without naming Elota municipality; the Elota attribution comes from the earlier sources.
   - The Sinaloahoy account gives only more than seven kilograms with no exact weight above seven kilograms.
   - The Sinaloahoy account does not report detentions or any later investigative outcome.
+  - This account was published on 2 November 2026 while the existing report is dated 1 November 2026, and it describes the patrols only as occurring in recent days with no separate incident date.
+  - This account names Pueblo Nuevo, Sinaloa, without naming Elota municipality; the Elota attribution rests on the earlier sources cited in the existing report.
 ---
 
 Mexico's Navy found a bag of suspected marijuana while patrolling the community
-of Pueblo Nuevo in Sinaloa as part of Operation Sable. [@1,3] The find was made by
+of Pueblo Nuevo in Sinaloa as part of Operation Sable. [@1,3,4] The find was made by
 Mexican Navy personnel during reconnaissance and crime-prevention patrols
 reported through the Fourth Naval Region. [@1,3] No one was detained in connection
 with the seizure. [@1]
 
 Naval personnel seized the bag of suspected drugs in accordance with official
 protocols. [@1] The bag held dry herb with characteristics similar to marijuana
-and weighed more than seven kilograms. [@2] The Navy placed the seized material
+and weighed more than seven kilograms. [@2,4] The Navy placed the seized material
 at the disposal of the competent authorities to open an investigation file and
-carry out further steps. [@1,3]
+carry out further steps. [@1,3,4]
 
 The Navy said the patrols are part of operations across Sinaloa aimed at
 combating distribution of illicit substances and reinforcing security in
