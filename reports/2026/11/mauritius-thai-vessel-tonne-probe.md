@@ -1,15 +1,15 @@
 ---
-date: 2026-10-29
+date: 2026-11-01
 country: mu
 place: Off Baie-du-Tombeau
 coordinates: [-20.119, 57.499]
 precision: locality
 type: arrest
 also: [seizure, prosecution]
-title: Fifteen held over 1.5 tonnes of cannabis on Mauritius yacht
-summary: Mauritian police have arrested 14 people, including a National Coast Guard officer, over about 1.5 tonnes of cannabis and hashish landed from the Thai yacht Dreamer; Le Défi reported a second coast guard arrest, bringing the total to 15. Eight Thai crew appeared in Port-Louis court on 29 October and were held until 5 November on provisional drug-importation charges.
+title: Eighteen held over 1.5 tonnes of cannabis on Mauritius yacht
+summary: Mauritian police have now arrested 18 people over about 1.5 tonnes of cannabis said to have been landed from the Thai yacht Dreamer off Round Island on 20 October 2026. The latest suspect, a port-zone employee held for allegedly driving three shore-pickup men, appeared on a provisional conspiracy charge as investigators named Mauritian-British suspect Nishal as the alleged sender.
 figures:
-    arrested: 15
+    arrested: 18
     charged: 14
     kg_seized: 1500
     value:
@@ -49,6 +49,16 @@ sources:
     publisher: L'Express
     date: 2026-10-31
     language: fr
+  - title: 'Importation de 1,5 tonne de cannabis à bord du Dreamer : un dénommé Nishal soupçonné d’être l’expéditeur et le commanditaire'
+    url: https://defimedia.info/importation-de-15-tonne-de-cannabis-bord-du-dreamer-un-denomme-nishal-soupconne-detre-lexpediteur
+    publisher: Le Défi Media Group
+    date: 2026-11-02
+    language: fr
+  - title: 'Trafic présumé de cannabis entre la Thaïlande et Maurice : un 18e suspect arrêté'
+    url: https://defimedia.info/trafic-presume-de-cannabis-entre-la-thailande-et-maurice-un-18e-suspect-arrete
+    publisher: Le Défi Media Group
+    date: 2026-11-01
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -65,6 +75,11 @@ media:
     media_url: https://lexpress.mu/storage/articles/gE3yVLnJZN0IbTVpfHmuskmDP45nvTxXetimf58h.jpg
     publisher: L'Express
     caption: 'Thai suspects arrested on the yacht Dreamer at their Port-Louis court appearance on 29 October, beside the bags of seized drugs. Photo: L''Express'
+  - kind: photo
+    url: https://defimedia.info/importation-de-15-tonne-de-cannabis-bord-du-dreamer-un-denomme-nishal-soupconne-detre-lexpediteur
+    media_url: https://files.defimedia.info/sites/default/files/2026-11/Le%20Dreamer-021126.jpg
+    publisher: Le Défi Media Group
+    caption: Suspects including Bryan Fu Kin Lew Tin Wah and Nishal, suspected of sending the Dreamer cargo.
 open_questions:
   - Police put the number arrested at 14 in their 29 October statement, while Le Défi reported a second coast guard arrest that brought the total to 15; L'Express and Le Mauricien, published the same day, still said 14.
   - Le Mauricien reported that no drugs were found aboard the yacht and that the cargo had already been landed; the 1.5-tonne figure is the amount investigators believe was imported, not a consignment recovered from the vessel.
@@ -75,6 +90,9 @@ open_questions:
   - The identity of the alleged intermediary and whether confidential coast-guard operational information was actually passed to traffickers remained unresolved.
   - L'Express's account of the suspected organiser, and of three yacht arrivals in 2026, rests on information it says is still to be verified; it names neither the Mauritian nor the suspected drug baron it says was recently arrested.
   - L'Express reports three yacht arrivals carrying several hundred kilos each, while the existing account describes two suspected deliveries of just over a tonne; the two accounts have not been reconciled.
+  - No arrest or charge of Nishal himself was reported; he remains only a suspect sought under an Arrest on Arrival order.
+  - The submitted page reports 792 grams seized at the Trou-d'Eau-Douce villa and says a link to the Dreamer cargo is only suspected, while the existing report records 719 grams for that villa seizure.
+  - The total number provisionally charged after the rise to 18 arrests was not stated.
 ---
 
 The Anti Drug and Smuggling Unit, with the National Coast Guard's Maritime
@@ -105,3 +123,5 @@ L'Express put the shipment at about 1.5 tonnes of cannabis and hashish, estimate
 The captain's phone contained images and videos of cannabis cargo, and investigators believed footage of bags represented nearly one-third of the shipment suspected of reaching Mauritius. [@5] Investigators suspected that the officer assigned to the NCG Ops Room passed coast-guard movement and operations information to an intermediary, who would relay it to Dreamer captain Suriya Samanboot. [@5]
 
 L'Express reported that investigators were checking information that a Mauritian who grew up in England and returned to the island in 2021 had built a cannabis and hashish traffic, first through couriers by air. [@6] The newspaper said his move to Thailand in 2023 was a central element of the lead, and that information being checked pointed to three yacht arrivals in Mauritius in 2026 carrying cannabis, cocaine and hashish, each of several hundred kilos. [@6]
+
+The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7]
