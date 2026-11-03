@@ -102,6 +102,11 @@ sources:
     publisher: Nmiu.com.ua
     date: 2026-11-02
     language: uk
+  - title: Двоє киян відправляли канабіс поштою в коробках із-під пластівців і собачих ласощів (фото) - КиївВлада
+    url: https://kyivvlada.com.ua/news/dvoye-kyyan-vidpravlyaly-kanabis-poshtoyu-v-korobkah-iz-pid-plastivcziv-i-sobachyh-lasoshhiv-foto/
+    publisher: КиївВлада
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -125,6 +130,8 @@ open_questions:
   - The lead image caption repeats only the headline and the other listed images are advertising, so no media entry is added.
   - The submitted page describes the over-7 kg total as illegal drugs while the existing report attributes it to cannabis from the prosecutor and police statements.
   - The page's listed image carries no caption or credit establishing that it shows this seizure, so no media entry is added.
+  - The page states the 3.6 kg flat seizure without the nine-package counts cited in the existing report from the prosecutor's statement.
+  - The page carries photos credited to Kyiv police, but their captions repeat only the headline, so whether they show this seizure is not established and no media entry is added.
 ---
 
 Prosecutors under the Podilskyi district prosecutor's office in Kyiv notified
@@ -136,14 +143,14 @@ together for later sale to customers across Ukraine. [@1,12,14]
 Officers found nine packages holding about 4 kg of cannabis on one suspect
 during a personal search. [@1,4,14] Officers then identified his accomplice and a
 flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,6,9,14] They seized
-nine more vacuum packages weighing over 3.6 kg there. [@1,4,12,13,14] Prosecutors put the
+nine more vacuum packages weighing over 3.6 kg there. [@1,4,12,13,14,15] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
 [@2,5,10,13,14] If proved, the charge carries up to 12 years in prison with confiscation of
-property. [@1,4,5,6,7]
+property. [@1,4,5,6,7,15]
 
 The pretrial investigation is being run by investigators of the Podilskyi police
 department in Kyiv with SBU operational support. [@1,4,6,8,11] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
-disguising parcels as household goods. [@3,4,7,10,11,12,13] One suspect was detained on a street
+disguising parcels as household goods. [@3,4,7,10,11,12,13,15] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
-dog-treat boxes. [@3,4,5,6,7,8,11]
+dog-treat boxes. [@3,4,5,6,7,8,11,15]
