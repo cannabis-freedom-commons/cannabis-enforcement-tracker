@@ -161,6 +161,10 @@ def quiet_build(cmd, log_path, output_log=None):
 
         started = time.monotonic()
         say(f"→ Building (details: {log_path})", output_log)
+        # The controller spends minutes inside Muse before validating; a log
+        # cleanup may have removed run_dir meanwhile. Recreate it so one
+        # missing directory cannot abort the whole run with ENOENT.
+        log_path.parent.mkdir(parents=True, exist_ok=True)
         with log_path.open("w", encoding="utf-8", errors="replace") as build_log:
             try:
                 proc = subprocess.Popen(cmd, cwd=repo, stdin=subprocess.DEVNULL,
