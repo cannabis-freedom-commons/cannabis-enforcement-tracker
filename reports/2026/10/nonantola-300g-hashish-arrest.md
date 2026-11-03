@@ -25,30 +25,37 @@ sources:
     publisher: ModenaToday
     date: 2026-11-02
     language: it
+  - title: 'Nonantola, in casa aveva 300 grammi di hashish: pusher arrestato'
+    url: https://www.sulpanaro.net/2026/11/nonantola-in-casa-aveva-300-grammi-di-hashish-pusher-arrestato/
+    publisher: SulPanaro | News
+    date: 2026-11-03
+    language: it
 open_questions:
   - Only one source for this event could be opened, so no second account confirms the details.
   - The year 2026 for the 28 October arrest and 30 October hearing is inferred from the 2 November 2026 publication date and the phrase 28 ottobre scorso.
   - The arrested man's name, age and nationality were not published in the available account.
   - No value, purity figure or court outcome beyond house arrest was reported.
   - The page displays a photo filed as carabinieri-nonantola-notte-2.jpg, but its empty caption and alt text do not establish that it shows this seizure, so no media entry is added.
+  - The SulPanaro page gives no separate event date; 3 November 2026 is its publication date, while the 28 October arrest and 30 October validation dates come from ModenaToday.
+  - SulPanaro does not name the prosecutor, the search warrant or the validation hearing details beyond house arrest.
+  - The SulPanaro page image has an empty caption and credit and a March 2026 upload path, so it is not established to show this seizure and no media entry is added.
 ---
 
 Carabinieri officers from the Castelfranco Emilia station arrested a man on 28
 October in flagrante for possession of hashish alleged to be intended for
-dealing. [@1] The Modena public prosecutor's office at the Modena court
+dealing. [@1,2] The Modena public prosecutor's office at the Modena court
 announced the arrest through a press release signed by prosecutor Luca Masini.
 [@1] The operation came from the execution of a local and personal search
 warrant issued by the prosecutor as part of criminal proceedings covering
 several offences. [@1] Within those proceedings, investigators said the
 suspected sale of narcotics had emerged from analysis of the suspect's bank
-movements. [@1]
+movements. [@1,2]
 
 Inside the suspect's home in Nonantola, the Carabinieri found and seized about
-300 grams of hashish already divided into blocks and individual doses. [@1]
+300 grams of hashish already divided into blocks and individual doses. [@1,2]
 Officers also seized a precision scale together with various cutting and
-packaging materials. [@1] On 30 October, following the validation hearing, the
+packaging materials. [@1,2] On 30 October, following the validation hearing, the
 judge for preliminary investigations at the Modena court validated the arrest on
 the prosecutor's concurring request. [@1] The same judge ordered the
 precautionary measure of house arrest for the suspect, who therefore moved from
-custody to detention at home. [@1]
-
+custody to detention at home. [@1,2]
