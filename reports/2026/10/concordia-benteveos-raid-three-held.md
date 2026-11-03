@@ -60,6 +60,11 @@ sources:
     publisher: El Heraldo
     date: 2026-10-31
     language: es
+  - title: Atacaron a policías en un allanamiento y terminaron detenidos
+    url: https://informedigital.com.ar/atacaron-a-policias-en-un-allanamiento-y-terminaron-detenidos/
+    publisher: Informe Digital
+    date: 2026-10-31
+    language: es
 open_questions:
   - Neither account names a calendar date; both say the raid was on Friday afternoon, and Elonce published the account on Friday 30 October 2026.
   - No weight or number of wrappers was published.
@@ -71,29 +76,31 @@ open_questions:
   - This page does not name the city; Concordia is taken from the other accounts of the same raid already cited in the report.
   - The El Heraldo page was published on 31 October 2026 and gives no separate calendar date for the raids, while the existing report dates the event to 30 October 2026.
   - The page image caption only repeats the headline, so whether the photo shows this raid could not be verified and it is not listed as media.
+  - The new account locates the raid in Paraná while the existing report places the same street addresses in Concordia, so the city name conflicts.
+  - The page image shares the file name m_1793415132_89594.webp with the existing report's lead photo and carries only the headline as caption, so it appears to duplicate already-listed media rather than add a distinct image.
 ---
 
 Three people were detained in Concordia during a police raid on Friday afternoon
 after a woman struck officers with a kitchen board and two men punched them.
-[@1,3] Officers from Comisaría Séptima, the city's seventh police station, led the
-raid and seized wrappers of cocaine and marijuana. [@1,5] The searches ran at the
+[@1,3,7] Officers from Comisaría Séptima, the city's seventh police station, led the
+raid and seized wrappers of cocaine and marijuana. [@1,5,7] The searches ran at the
 same time at two homes, near Los Benteveos at number 2000 and at the corner of
-Los Jilgueros and Los Gorriones. [@1,3,4,5,6] Court orders had been issued in an
-investigation into items stolen from a house. [@1]
+Los Jilgueros and Los Gorriones. [@1,3,4,5,6,7] Court orders had been issued in an
+investigation into items stolen from a house. [@1,7]
 
 At one of the addresses, officers notified a 19-year-old of the search and
-identified three women and two men. [@1,3,4] Violence broke out as they entered and
+identified three women and two men. [@1,3,4,7] Violence broke out as they entered and
 briefly stopped the work. [@1] Police said the clash happened in a small room
 used as a kitchen and dining room, where one of the identified women and two men
 resisted the procedure. [@1,3,4] The woman picked up a kitchen board and hit the
-officers, and the two men punched them. [@1,3,4,5,6] Officers restrained the three,
+officers, and the two men punched them. [@1,3,4,5,6,7] Officers restrained the three,
 restored order and continued the search under the court orders. [@1]
 
 During the inspection they found wrappers of suspicious substances and called in
 the División Drogas Peligrosas, the dangerous-drugs unit. [@1,3,4] Field tests were
-positive for cocaine and marijuana. [@1,3,4,5,6] The substances were seized and held for
+positive for cocaine and marijuana. [@1,3,4,5,6,7] The substances were seized and held for
 the courts. [@1] Duty prosecutor Martín Núñez ordered the arrest of the woman
-and the two men involved in the assaults. [@1,3,4,5,6] The three were held for the
+and the two men involved in the assaults. [@1,3,4,5,6,7] The three were held for the
 alleged offences of attacking and resisting authority and illegal possession of
-narcotics, and the court proceedings continued. [@1,5] According to the police
+narcotics, and the court proceedings continued. [@1,5,7] According to the police
 account given to 7Páginas, both searches produced positive results. [@2]
