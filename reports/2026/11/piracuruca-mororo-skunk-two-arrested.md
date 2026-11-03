@@ -53,6 +53,11 @@ sources:
     publisher: Conecta Piauí
     date: 2026-11-02
     language: pt
+  - title: Dois homens são presos com 20 pacotes de skunk avaliados em R$ 400 mil no Piauí - Notícia da Manhã | CV Play
+    url: https://cidadeverde.com/cvplay/v/121311/dois-homens-sao-presos-com-20-pacotes-de-skunk-avaliados-em-r-400-mil-no-piaui
+    publisher: Cidadeverde.com
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the 20 packages of skunk, only the package count.
   - The two arrested men are identified only by initials, and no charges or court outcome were reported.
@@ -64,19 +69,22 @@ open_questions:
   - The new account does not publish a weight for the 20 packages or names for the two arrested men.
   - Whether the page photo credited to Conecta Piauí shows this seizure is not established beyond its caption, so no media entry is added.
   - The submitted canonical URL and the amp URL already cited in the report are the same article ID 33988 in different renderings, so no independent second-outlet corroboration is added.
+  - The CV Play page is a video listing that gives only the headline and its 3 November 2026 exhibition date, with no article text, weight, precise arrest location, agency or case details.
+  - The 3 November 2026 exhibition date is treated as the source publication date, while the interception date remains 1 November 2026 as recorded in the existing report.
+  - The embedded video's visual content was not verified from captions or article text, so no media entry is added.
 ---
 
 Piauí's Civil and Military Police, acting through the anti-narcotics department
 Denarc and the Tactical Force of the 22nd BPM, arrested two men in the
-municipality of Piracuruca in northern Piauí. [@1,2,3,4] The two men, identified only
+municipality of Piracuruca in northern Piauí. [@1,2,3,4,6] The two men, identified only
 by the initials H.J.S. and L.F.S.N., were in the car where officers found the
 drugs and were arrested during the vehicle search. [@1,4] The suspects and the
 seized material were taken to the Denarc headquarters in Teresina for the
 applicable legal procedures. [@1,3,4,5]
 
 Officers found 20 packages of skunk, a potent form of cannabis known locally as
-'supermaconha', inside the vehicle. [@1,2,3,4,5] Police valued the 20 packages at about
-R$400,000. [@1,2,3,4,5] The interception took place on highway PI-110 at Mororó village
+'supermaconha', inside the vehicle. [@1,2,3,4,5,6] Police valued the 20 packages at about
+R$400,000. [@1,2,3,4,5,6] The interception took place on highway PI-110 at Mororó village
 in rural Piracuruca after authorities tracked the vehicle's movements and set up
 a strategy to stop it. [@1,2,3,4] The seizure happened on the night of Sunday 1
 November following monitoring work. [@1,3,4]
