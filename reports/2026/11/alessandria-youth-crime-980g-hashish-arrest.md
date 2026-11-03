@@ -37,6 +37,11 @@ sources:
     publisher: RadioGold.it
     date: 2026-11-02
     language: it
+  - title: 'Criminalità giovanile, un arresto per spaccio e sei denunciati: sequestrato un chilo di hashish'
+    url: https://www.lastampa.it/alessandria/2026/11/02/news/criminalita_giovanile_polizia_chilo_hashish_sequestrato-15785593/
+    publisher: La Stampa
+    date: 2026-11-02
+    language: it
 open_questions:
   - The articles give only their publication date of 2 November 2026 and no separate date for the checks and arrest.
   - The six denunciati are reported, not stated to be charged or arrested, so they are not counted in figures; the four people reported to the Prefect as users are also not counted as arrested.
@@ -56,10 +61,10 @@ Two other foreign nationals were searched and found carrying bladed weapons
 whose possession is prohibited. [@1] Four drug users were reported to the
 Prefect, including one person who used amphetamines. [@1]
 
-Police seized 980 grams of hashish. [@2,4] Officers checked seven businesses,
+Police seized 980 grams of hashish. [@2,4,5] Officers checked seven businesses,
 including three nightlife venues, and identified 263 people, among them 33
-minors and 101 foreigners. [@1] Officers carried out 12 searches for weapons,
-blunt objects and drugs. [@1,4]
+minors and 101 foreigners. [@1,5] Officers carried out 12 searches for weapons,
+blunt objects and drugs. [@1,4,5]
 
 The Alessandria checks were part of a national operation involving 1,000
 officers in total for preventing and combating youth crime. [@1] The national
