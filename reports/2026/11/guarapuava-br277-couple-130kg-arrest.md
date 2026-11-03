@@ -28,6 +28,11 @@ sources:
     publisher: Tarobá
     date: 2026-11-02
     language: pt
+  - title: PRF prende casal transportando maconha na BR 277, em Guarapuava; crianças de 9 e 10 anos estavam no carro
+    url: https://gmaisnoticias.com/prf-prende-casal-transportando-maconha-na-br-277-em-guarapuava-criancas-de-9-e-10-anos-estavam-com-os-pais-no-carro
+    publisher: G+ Notícias
+    date: 2026-11-02
+    language: pt
 open_questions:
   - The names of the two arrested people were not published.
   - No charges or court outcome have been reported yet.
@@ -43,14 +48,13 @@ found the woman driver's answers disconnected, then ordered a second vehicle to
 stop, but its driver disobeyed and fled along the highway. [@1]
 
 The pursuit lasted about 14 kilometres and ended when the fleeing vehicle hit a
-pole on the roadside of the BR-277. [@1] The detained driver also had no driving
+pole on the roadside of the BR-277. [@1,2] The detained driver also had no driving
 licence and admitted that he had collected the drug in Foz do Iguaçu to take it
 to Curitiba. [@1] Officers seized 130.9 kilograms of cannabis in the operation,
-allegedly being transported from Foz do Iguaçu to Curitiba. [@1]
+allegedly being transported from Foz do Iguaçu to Curitiba. [@1,2]
 
 The woman confessed that she was supporting her partner in transporting the
-drug. [@1] Both suspects were taken with the drug and the vehicles to the
-Federal Police station in Guarapuava for further procedures. [@1] The two
+drug. [@1,2] Both suspects were taken with the drug and the vehicles to the
+Federal Police station in Guarapuava for further procedures. [@1,2] The two
 children who were in the first car were placed under the care of the Conselho
 Tutelar, the local child-protection council. [@1]
-
