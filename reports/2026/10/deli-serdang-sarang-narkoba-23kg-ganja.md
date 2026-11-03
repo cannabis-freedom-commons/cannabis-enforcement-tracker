@@ -64,6 +64,11 @@ media:
     media_url: https://akcdn.detik.net.id/visual/2026/10/31/polisi-tangkap-12-bandar-narkoba-di-deli-serdang-1793432296188_169.jpeg?w=480&q=90
     publisher: CNN Indonesia
     caption: Seized methamphetamine, cannabis and ecstasy from Operasi Sarang Narkoba on display.
+  - kind: photo
+    url: https://www.hariansib.com/Medan-Sekitarnya/452065/osn-polresta-deliserdang-ungkap-30-kasus-dan-amankan-57-tersangka-sita-23-kg-sabu-dan-23-kg-ganja/all/
+    media_url: https://www.hariansib.com/cdn/uploads/images/2026/10/_887_OSN-Polresta-Deliserdang-Ungkap-30-Kasus-dan-Amankan-57-Tersangka--Sita-23-Kg-Sabu-dan-23-Kg-Ganja.png
+    publisher: Harian SIB
+    caption: 'Police chief with Forkopimda members and guests holding up seized evidence at the press conference on 30 October 2026 in Lubukpakam. Photo: Lisbon Situmorang / harianSIB.com'
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645
@@ -154,6 +159,11 @@ sources:
     publisher: Media POLRI
     date: 2026-10-30
     language: id
+  - title: OSN Polresta Deliserdang Ungkap 30 Kasus dan Amankan 57 Tersangka, Sita 23 Kg Sabu dan 23 Kg Ganja
+    url: https://www.hariansib.com/Medan-Sekitarnya/452065/osn-polresta-deliserdang-ungkap-30-kasus-dan-amankan-57-tersangka-sita-23-kg-sabu-dan-23-kg-ganja/all/
+    publisher: Harian SIB
+    date: 2026-10-30
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -187,28 +197,30 @@ open_questions:
   - 31 October 2026 is the CNN publication date; the existing report dates the operation results presentation to 30 October 2026.
   - This account values the whole haul at Rp11.5 billion, while the existing report records Rp11.54 billion from other accounts.
   - The page carries photographs without captions or credits identifying the event, so no media entry is added from this page.
+  - The same article gives the methamphetamine total as 23,020.24 grams in its summary and as 23,010.24 grams in its detailed breakdown, a 10-gram intra-article difference; the existing report uses the detailed 23,010.24-gram figure.
+  - The article rounds the ganja seizure to 23 kg in its headline and summary while also giving the detailed 23,517.86 grams used in the existing report.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17,18] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
-[@1,4] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
+[@1,4,18] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
 cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
-[@1,4]
+[@1,4,18]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17,18] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
-methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3]
+methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3,18]
 
 The results were presented at Deli Serdang police headquarters on Friday 30
 October 2026 by police chief Kombes Pol Muhammad, with the head of the Deli
-Serdang narcotics agency (BNNK) beside him. [@1,4,7,15] Representatives of the Deli
+Serdang narcotics agency (BNNK) beside him. [@1,4,7,15,18] Representatives of the Deli
 Serdang regent, the Lubuk Pakam district court and prosecutor's office, and
 airport security attended. [@1,4] The police chief said the operation was part of
 the national police chief's programme to suppress drug trafficking and restore
-drug-affected areas. [@1,4]
+drug-affected areas. [@1,4,18]
 
 Police put the total value of the drugs seized in the operation, including the ganja, at Rp11.54 billion. [@5,9,16]
 
@@ -219,3 +231,5 @@ The first case was at Jalan Rebab Pasar II in Medan Baru on the evening of 28 Oc
 One of the 57 suspects was a Malaysian national, police said. [@13]
 
 Police chief Kombes Pol Muhammad said the operation included extra surveillance at air-transport facilities. [@14] The cases remained under further investigation by the Deli Serdang narcotics unit (Satresnarkoba). [@14]
+
+The operation targeted ten districts: Tanjungmorawa, Pantailabu, Biru-biru, Lubukpakam, Beringin, Batangkuis, Galang, Pagarmerbau, Namorambe and STM Hilir. [@18]
