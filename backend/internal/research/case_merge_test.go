@@ -89,3 +89,22 @@ func TestResearchInputIncludesOriginalReportsForSentenceMatching(t *testing.T) {
 		t.Fatal("original report missing from read-only evidence input", files, err)
 	}
 }
+
+func TestMergeReportWithInlineFrontMatterHyphens(t *testing.T) {
+	dir := writeReport(t)
+	path := filepath.Join(dir, "reports/2026/10/khust-five-years.md")
+	original := strings.Replace(existingReport, "First story", "Death penalty news----worldwide", 1)
+	if err := os.WriteFile(path, []byte(original), 0644); err != nil {
+		t.Fatal(err)
+	}
+	u := ReportUpdate{Report: "khust-five-years", Facts: []Fact{{Text: "Police arrested him in July.", Source: 1, Quote: "Police arrested him in July 2026."}}}
+	d, err := UpdateReport(dir, u, []Source{{URL: "https://second.example/story", Title: "Second", Publisher: "Second"}}, nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, want := range []string{"Death penalty news----worldwide", "Police arrested him in July. [@1,2]"} {
+		if !strings.Contains(d.Content, want) {
+			t.Fatalf("lost %q: %s", want, d.Content)
+		}
+	}
+}

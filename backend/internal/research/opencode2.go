@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"errors"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -120,7 +121,7 @@ func configureOpenCode2(input string, steps int, toolOutput ...string) error {
 		"permissions": deny, "system": probeInstruction}}
 	path := filepath.Join(input, ".opencode", "agents", "enforcement-researcher.md")
 	if data, err := os.ReadFile(path); err == nil {
-		parts := strings.SplitN(string(data), "---", 3)
+		parts := frontmatter.Split(string(data))
 		if len(parts) != 3 {
 			return errors.New("research agent instructions are invalid")
 		}

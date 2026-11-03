@@ -5,6 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"image"
 	_ "image/gif"
 	_ "image/jpeg"
@@ -13,7 +14,6 @@ import (
 	"math/bits"
 	"net/http"
 	"os"
-	"strings"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
@@ -159,7 +159,7 @@ func ReportMedia(dir, slug string) []string {
 	if err != nil {
 		return nil
 	}
-	parts := strings.SplitN(string(b), "---", 3)
+	parts := frontmatter.Split(string(b))
 	if len(parts) != 3 {
 		return nil
 	}

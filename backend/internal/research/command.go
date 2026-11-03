@@ -5,6 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"errors"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"gopkg.in/yaml.v3"
 	"os"
 	"os/exec"
@@ -219,7 +220,7 @@ func configureLegacyToolOutput(input, toolOutput string) error {
 	if err != nil {
 		return err
 	}
-	parts := strings.SplitN(string(data), "---", 3)
+	parts := frontmatter.Split(string(data))
 	if len(parts) != 3 {
 		return errors.New("research agent instructions are invalid")
 	}

@@ -236,6 +236,10 @@ updates preserve the stable slug, earlier prose/citations and existing open ques
 new questions without duplication. Unsupported event identity or ambiguous duplicate matches
 still need explicit handling rather than fabricated certainty.
 
+Report and agent YAML front matter is delimited by standalone `---` lines. Hyphens inside
+source titles, URLs or other field values do not close the header. A coverage-loading error
+names the offending report in the private backend log; it can block research before source fetching.
+
 The validation checkout overlays the current trusted site files, editorial rules and reports,
 including development edits, without copying `.env` or backend state. The site is not built:
 each report file the run writes is checked on its own (`CheckReport` in

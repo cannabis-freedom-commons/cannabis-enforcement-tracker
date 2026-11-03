@@ -9,6 +9,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/nostr"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
@@ -188,13 +189,13 @@ func Coverage(repo string) ([]report, error) {
 		if err != nil {
 			return err
 		}
-		parts := strings.SplitN(string(b), "---", 3)
+		parts := frontmatter.Split(string(b))
 		if len(parts) != 3 {
-			return errors.New("invalid report front matter")
+			return fmt.Errorf("%s: invalid report front matter", path)
 		}
 		var r report
 		if err = yaml.Unmarshal([]byte(parts[1]), &r); err != nil {
-			return err
+			return fmt.Errorf("%s: invalid report front matter: %w", path, err)
 		}
 		r.Slug = strings.TrimSuffix(d.Name(), ".md")
 		out = append(out, r)
@@ -263,6 +264,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		}
 		reports, err := Coverage(w.Config.RepoPath)
 		if err != nil {
+			slog.Error("report coverage could not be loaded", "error", err)
 			return err
 		}
 		for _, r := range reports {
@@ -409,6 +411,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	if len(targets) > 0 {
 		reports, err := Coverage(w.Config.RepoPath)
 		if err != nil {
+			slog.Error("report coverage could not be loaded", "error", err)
 			return err
 		}
 		for _, r := range reports {

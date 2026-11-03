@@ -3,6 +3,7 @@ package research
 import (
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -153,7 +154,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	if err != nil {
 		return d, err
 	}
-	parts := strings.SplitN(string(b), "---", 3)
+	parts := frontmatter.Split(string(b))
 	if len(parts) != 3 || strings.TrimSpace(parts[0]) != "" {
 		return d, errors.New("invalid existing report")
 	}
