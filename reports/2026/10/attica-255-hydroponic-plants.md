@@ -25,6 +25,11 @@ tags: [attica, daoe, hydroponic, skunk]
 open_questions:
   - The exact street address of the grow apartment was not published.
   - The €200,000 figure is police's estimate of potential proceeds from plants, cuttings and related sales.
+  - The new source says Monday afternoon while the existing report says midday for the 19 October operation.
+  - The new source does not mention nationalities or Loutsa, while the existing report identifies two suspects as Albanian nationals and the car stop near Loutsa.
+  - The new source says large bags with 27 kilograms in the car and 27.6 kilograms in total, while the existing report says two black bags with 27.6 kilograms in total.
+  - The new source says profits of about €200,000 while the existing report says more than €200,000.
+  - The page lead image is captioned as general marijuana plants and appears to be stock, so no media entry is added.
 sources:
   - title: >-
       Εντοπίστηκε εργαστήριο υδροπονικής κάνναβης στην Αττική με 255 δενδρύλλια -
@@ -41,6 +46,10 @@ sources:
     publisher: SKAI
     date: 2026-10-20
     language: el
+  - title: Major Cannabis Farm Found in Attica, Three Arrested
+    url: https://www.tovima.com/society/major-cannabis-farm-found-in-attica-three-arrested/
+    publisher: tovima.com
+    date: 2026-10-21
 media:
   - kind: photo
     url: https://www.ertnews.gr/eidiseis/ellada/entopistike-ergastirio-ydroponikis-kannavis-stin-attiki-me-255-dendryllia-treis-syllipseis-prosdokomena-kerdi-ano-ton-200-000-eyro/
@@ -50,16 +59,16 @@ media:
 ---
 
 At midday on Monday 19 October 2026 officers of the Narcotics Subdivision of the Directorate for
-Combating Organised Crime stopped a car in the Loutsa area of Attica. [@2] Inside were a 54-year-old
-man, described as the group's leader, and a 49-year-old woman; both are Albanian nationals. [@2]
+Combating Organised Crime stopped a car in the Loutsa area of Attica. [@2,3] Inside were a 54-year-old
+man, described as the group's leader, and a 49-year-old woman; both are Albanian nationals. [@2,3]
 They held two black bags with cannabis cuttings weighing 27.6 kilograms in total, said to be for a
-27-year-old Greek co-accused. [@1,2]
+27-year-old Greek co-accused. [@1,2,3]
 
 A later search of the two foreigners' home in the Athens area found 120 grams of raw cannabis and a
 fully equipped hydroponic nursery run for the 27-year-old, with 29 LED panels, pots, fans and
-ventilation. [@1,2] Officers uprooted 255 cannabis plants between 50 and 160 centimetres tall. [@1,2]
+ventilation. [@1,2] Officers uprooted 255 cannabis plants between 50 and 160 centimetres tall. [@1,2,3]
 
 Police also seized €3,620 in cash, the car, seven phones and two electronic scales. [@1,2] They
 estimated potential illicit proceeds from the plants, cuttings and related trafficking at more than
-€200,000. [@1,2] All three were taken to the competent prosecutor; one had prior police attention for
+€200,000. [@1,2,3] All three were taken to the competent prosecutor; one had prior police attention for
 similar and other offences, and the 54-year-old also faces an immigration case. [@1,2]
