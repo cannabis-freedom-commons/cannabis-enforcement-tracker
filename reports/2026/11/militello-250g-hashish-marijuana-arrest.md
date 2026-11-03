@@ -30,27 +30,34 @@ sources:
     publisher: RSC Radio Studio Centrale
     date: 2026-11-02
     language: it
+  - title: 'Militello Val di Catania, droga nascosta in un vaso sul terrazzo: arrestato 36enne ai domiciliari'
+    url: https://newsicilia.it/catania/cronaca/militello-val-di-catania-droga-nascosta-in-un-vaso-sul-terrazzo-arrestato-36enne-ai-domiciliari/1122239/
+    publisher: NewSicilia
+    date: 2026-11-03
+    language: it
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the dawn raid.
   - The reported total of more than 250 grams is not split between hashish and marijuana.
   - No weight or count is given for the seized hemp seeds.
   - The lead photo on the source page is captioned only with the headline, so it is not established that it shows this seizure and no media entry is added.
   - No court outcome beyond transfer to Caltagirone prison at the disposal of the judicial authority is reported.
+  - The new source was published on 3 November 2026 while the existing report is dated 2 November 2026; neither gives a separate calendar day for the dawn raid.
+  - The page photos are captioned only with the headline, so it is not established that they show this seizure and no media entry is added.
 ---
 
 Carabinieri in Militello Val di Catania arrested a 36-year-old local man in the
 act for possession of drugs with intent to deal and for breaching the
-house-arrest conditions he was under. [@1] The man, already subject to
+house-arrest conditions he was under. [@1,3] The man, already subject to
 detenzione domiciliare, a house-arrest measure, was transferred to the
-Caltagirone prison at the disposal of the judicial authority. [@1]
+Caltagirone prison at the disposal of the judicial authority. [@1,3]
 
 During a dawn search of his home, officers found more than 250 grams of drugs
 consisting of hashish and marijuana hidden on the terrace and inside a desk,
 with two precision scales, a cutter and a mini cleaver described as packaging
-tools. [@1] The anti-drug dog Hams of the Nicolosi canine unit proved decisive
+tools. [@1,3] The anti-drug dog Hams of the Nicolosi canine unit proved decisive
 by signalling the presence of drugs on the terrace and inside a desk. [@1] In
 the bedroom officers seized another precision scale, hemp seeds and 360 euros in
-cash. [@1]
+cash. [@1,3]
 
 The operation began at dawn following investigative activity and was carried out
 by the Militello station with support from the Sicilia Hunter Squadron and the
@@ -59,4 +66,3 @@ reports that checks of the places signalled by the dog uncovered a total of more
 than 250 grams of drugs divided between hashish and marijuana. [@2] The seized
 substance is to be examined by the Catania Carabinieri analysis laboratory, and
 the suspect remains presumed innocent until any final conviction. [@1]
-
