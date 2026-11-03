@@ -72,6 +72,38 @@ function markdownCitations() {
   };
 }
 
+// Each cited stretch of text (from the previous citation, or the start of its paragraph, up to its
+// own citations) is wrapped in <span class="cited" data-refs="1 3">. Without scripts it changes
+// nothing; with them, the report page hides the [n] numbers and shows a sentence's sources when it
+// is pointed at, focused or tapped (src/scripts/report-citations.js).
+function markdownCitedText() {
+  const isCite = (n) => n?.type === "raw" && n.value.startsWith('<sup class="cite">');
+  const hasText = (n) => n.type === "text" ? n.value.trim() !== "" : n.type !== "comment";
+  const walk = (node) => {
+    if (!node.children) return;
+    if (node.type === "element" && node.children.some(isCite)) {
+      const out = [];
+      let run = [];
+      for (let i = 0; i < node.children.length; i++) {
+        if (!isCite(node.children[i])) { run.push(node.children[i]); continue; }
+        const group = [node.children[i]];
+        while (isCite(node.children[i + 1])) group.push(node.children[++i]);
+        // the space after the previous citation stays outside, so the highlight starts at the text
+        const lead = run[0]?.type === "text" ? run[0].value.match(/^\s+/)?.[0] : "";
+        if (lead) { out.push({ type: "text", value: lead }); run[0] = { type: "text", value: run[0].value.slice(lead.length) }; }
+        const refs = group.flatMap((g) => [...g.value.matchAll(/#ref-(\d+)/g)].map((m) => m[1]));
+        if (run.some(hasText)) out.push({ type: "element", tagName: "span", properties: { className: ["cited"], dataRefs: refs.join(" ") }, children: run });
+        else out.push(...run);
+        out.push(...group);
+        run = [];
+      }
+      node.children = [...out, ...run];
+    }
+    node.children.forEach(walk);
+  };
+  return walk;
+}
+
 export default defineConfig({
   redirects: Object.fromEntries([
     ...Object.entries(reportAliases.slugs).map(([slug, target]) => [`/report/${slug}/`, { destination: `${base}report/${target}/`, status: 301 }]),
@@ -102,6 +134,6 @@ export default defineConfig({
     },
   },
   markdown: {
-    processor: unified({ remarkPlugins: [markdownCitations], rehypePlugins: [markdownLinks, [markdownGlossary, { revision: glossaryRevision }]] }),
+    processor: unified({ remarkPlugins: [markdownCitations], rehypePlugins: [markdownLinks, markdownCitedText, [markdownGlossary, { revision: glossaryRevision }]] }),
   },
 });

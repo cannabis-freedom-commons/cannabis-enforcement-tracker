@@ -195,5 +195,6 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
   )}
 </Base>
 
+<script>import "../../scripts/report-citations.js";</script>
 {r.submission && <script>import "../../scripts/report-submission.js";</script>}
 {shown.some((m) => m.view.type === "photo") && <script>import "../../scripts/media-viewer.js";</script>}
