@@ -350,6 +350,9 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .cfi { border: 1px solid var(--border); border-radius: var(--r); background: var(--surface); padding: 16px 18px; margin: 20px 0; }
 .cfi-head { display: flex; justify-content: space-between; gap: 12px; font: 11px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 10px; }
 .cfi-brand { color: var(--text-2); }
+.cfi-country { display: flex; align-items: baseline; gap: 10px; margin: 0 0 12px; font: 400 34px/1.1 var(--display); color: var(--text); overflow-wrap: anywhere; }
+.cfi-flag { font-size: .7em; }
+.cfi.compact .cfi-country { font-size: 30px; }
 .cfi-top { display: flex; align-items: center; gap: 16px; }
 .cfi-score { display: flex; align-items: baseline; }
 .cfi-num { font: 400 52px/1 var(--display); color: var(--tier); }

@@ -5,6 +5,7 @@
 // year by year, the latest law changes and how many people use cannabis.
 //   compact: score, tier, legal status and summary only (the report page)
 import { cfiOf, cfiApi, tierOf, SEGMENTS, REC, MED, CFI } from "../lib/cfi.js";
+import { flagOf } from "../lib/countries.js";
 const { id, compact = false } = Astro.props;
 const c = cfiOf(id);
 const tier = c && tierOf(c.score);
@@ -27,6 +28,8 @@ const trend = c && trendPath(c.trend);
       <a href={CFI} target="_blank" rel="noopener" class="cfi-brand">Cannabis Freedom Index</a>
       <span class="cfi-updated">{c.updated && <>Reviewed <time data-cfi-reviewed>{fmtDate(c.updated)}</time></>}</span>
     </header>
+    {/* the place in large type, even where the page already names it: the box stands on its own */}
+    <h3 class="cfi-country">{flagOf(id) && <span class="cfi-flag" aria-hidden="true">{flagOf(id)}</span>}{c.name}</h3>
     <div class="cfi-top">
       <div class="cfi-score">
         <span class="cfi-num" data-cfi-score>{c.score}</span><span class="cfi-of">/100</span>
