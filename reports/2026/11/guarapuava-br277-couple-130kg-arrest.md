@@ -1,0 +1,56 @@
+---
+date: 2026-11-02
+country: br
+place: BR-277, Guarapuava, Paraná
+coordinates: [-25.3945, -51.4771]
+precision: locality
+type: arrest
+also: [seizure]
+title: Couple arrested with 130.9 kg of cannabis on BR-277 in Guarapuava
+summary: >-
+  PRF officers arrested a man and a woman on the BR-277 in Guarapuava on 2 November 2026 and seized 130.9 kg of cannabis. The drug was allegedly being moved from Foz do Iguaçu to Curitiba, with two children travelling in the lead car.
+figures:
+  arrested: 2
+  kg_seized: 130.9
+media:
+  - kind: photo
+    url: https://taroba.com.br/noticias/cidade/casal-e-preso-com-130-kg-de-maconha-na-br-277
+    media_url: https://files.ndeal.app/api/images/proxy?format=webp&width=800&src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1793646622799_prf_droga_ok.jpg
+    publisher: Tarobá
+    caption: Lead photo on the Tarobá page for this PRF seizure report
+status: reported
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 505c6a8ecdea1de263fcba919106d6dc
+tags: [guarapuava, parana, br-277]
+sources:
+  - title: Casal é preso com 130 kg de maconha na BR-277
+    url: https://taroba.com.br/noticias/cidade/casal-e-preso-com-130-kg-de-maconha-na-br-277
+    publisher: Tarobá
+    date: 2026-11-02
+    language: pt
+open_questions:
+  - The names of the two arrested people were not published.
+  - No charges or court outcome have been reported yet.
+  - Only one source for this event could be opened, so no second account confirms the details.
+  - The incident date of 2 November 2026 rests on the article's reference to Monday morning (2) together with its 2 November 2026 publication date.
+---
+
+Brazil's Federal Highway Police (PRF) arrested a 27-year-old man and a
+33-year-old woman on the morning of Monday 2 November 2026 during an operation
+on the BR-277 in Guarapuava. [@1] The woman was driving a car without a driving
+licence and was travelling with her two daughters, aged 10 and 9. [@1] Officers
+found the woman driver's answers disconnected, then ordered a second vehicle to
+stop, but its driver disobeyed and fled along the highway. [@1]
+
+The pursuit lasted about 14 kilometres and ended when the fleeing vehicle hit a
+pole on the roadside of the BR-277. [@1] The detained driver also had no driving
+licence and admitted that he had collected the drug in Foz do Iguaçu to take it
+to Curitiba. [@1] Officers seized 130.9 kilograms of cannabis in the operation,
+allegedly being transported from Foz do Iguaçu to Curitiba. [@1]
+
+The woman confessed that she was supporting her partner in transporting the
+drug. [@1] Both suspects were taken with the drug and the vehicles to the
+Federal Police station in Guarapuava for further procedures. [@1] The two
+children who were in the first car were placed under the care of the Conselho
+Tutelar, the local child-protection council. [@1]
+
