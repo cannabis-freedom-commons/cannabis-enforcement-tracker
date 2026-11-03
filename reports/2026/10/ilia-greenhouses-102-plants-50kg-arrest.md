@@ -53,6 +53,11 @@ sources:
     publisher: ertnews.gr
     date: 2026-11-02
     language: el
+  - title: 'Ηλεία: Καλλιεργούσε 102 δενδρύλλια κάνναβης σε δύο θερμοκήπια – Κατασχέθηκαν 50 κιλά'
+    url: https://newpost.gr/eidiseis/ileia-kalliergoyse-102-dendryllia-kannavis-se-dyo-thermokipia-kataschethikan-50-kila/
+    publisher: Newpost.gr
+    date: 2026-11-02
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
@@ -67,12 +72,12 @@ open_questions:
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
 Peloponnese on Saturday while he was tending the plantation. [@1] The man was
-detained on cultivation and drug-possession charges. [@2,3,4,5] The arrested man is to
+detained on cultivation and drug-possession charges. [@2,3,4,5,7] The arrested man is to
 be brought before the Ilia Court of First Instance prosecutor while the Ilida
 crime-investigation department continues its inquiries. [@2,3,4]
 
 Police say the suspect was growing 102 cannabis plants up to 2.5 meters high
-inside two greenhouses. [@1] Officers found 50 kilograms and 30 grams of raw
+inside two greenhouses. [@1,7] Officers found 50 kilograms and 30 grams of raw
 dried cannabis and plant fragments, 102 cannabis plants and a precision scale.
 [@2,3,4,6] Police described the greenhouse growing as large-scale cultivation with a
 view to trafficking the drug. [@1] A search of an adjacent storeroom also
@@ -81,4 +86,4 @@ sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3,4,5,6]
+scale in a neighbouring storeroom. [@2,3,4,5,6,7]
