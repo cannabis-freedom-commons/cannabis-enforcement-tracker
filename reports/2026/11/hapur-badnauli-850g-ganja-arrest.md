@@ -27,20 +27,26 @@ sources:
     publisher: Newstrack
     date: 2026-11-02
     language: hi
+  - title: 'Hapur News: हिस्ट्रीशिटर गिरफ्तार,850 ग्राम गांजा बरामद'
+    url: https://www.livehindustan.com/uttar-pradesh/hapur/story-hapur-police-arrest-history-sheeter-recover-850-grams-of-cannabis-near-railway-crossing-201793647375424.html
+    publisher: Live Hindustan
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article gives no calendar date for the arrest; 1 November 2026 is inferred as the Sunday night before its 2 November 2026 publication.
   - No second report of this 850-gram arrest was found; it rests on a single source.
   - The page carries a photo captioned only Hapur News and labelled as a social-media photo, so whether it shows this seizure could not be established and it is not listed as media.
   - No value, charges beyond the NDPS case registration, or court outcome were reported.
+  - The page carries an image captioned only with the headline, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
-Hapur city police arrested a man selling ganja on Badnauli road. [@1,2] He had
+Hapur city police arrested a man selling ganja on Badnauli road. [@1,2,3] He had
 been standing behind bushes near the railway crossing looking for customers.
 [@1,2] During questioning he gave his name as Shakeel, a resident of Mohalla Nabi
-Karim. [@1] He tried to flee when he saw the police team approaching, but
-officers surrounded and caught him. [@1]
+Karim. [@1,3] He tried to flee when he saw the police team approaching, but
+officers surrounded and caught him. [@1,3]
 
-Police searched his bag and recovered 850 grams of ganja. [@1,2] Police said he
+Police searched his bag and recovered 850 grams of ganja. [@1,2,3] Police said he
 brought ganja in a bag and sold it to passers-by and addicts for profit. [@1]
 Sub-Inspector Ravindra Kumar's team was patrolling the area on Sunday night when
 an informant told them near Nizampar underpass that a man was selling ganja from
@@ -52,3 +58,5 @@ Police took the seized ganja into custody and registered a case under the NDPS
 Act, with further legal action under way. [@1] Police said they are now tracing
 where he sourced the ganja and to whom he supplied it, including others linked
 to the trade. [@1]
+
+Police described the arrested man as a history-sheeter facing nine cases at Kotwali Hapur Nagar. [@3] Police said they acted after a video of ganja sales in the area circulated on social media. [@3]
