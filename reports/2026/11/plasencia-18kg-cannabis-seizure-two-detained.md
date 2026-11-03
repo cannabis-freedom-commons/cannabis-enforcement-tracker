@@ -43,24 +43,30 @@ sources:
     publisher: Heraldo de Aragón
     date: 2026-11-01
     language: es
+  - title: 'Los homicidio en Plasencia: el presunto autor entra en prisión y otro detenido queda libre con cargos'
+    url: https://www.moncloa.com/2026/11/02/homicidio-plasencia-detenido-prision-cargos-3460379/
+    publisher: Moncloa
+    date: 2026-11-02
+    language: es
 open_questions:
   - The 5 grams of cocaine and the vehicle reported alongside the drugs are not cannabis and are excluded from the cannabis figure.
   - No street value for the seized cannabis was published.
   - No court outcome beyond pretrial prison for the main suspect and provisional release with charges for the second man was reported.
   - The report is dated 1 November 2026, the day of the court decision; the stabbing occurred on 30 October 2026 and the arrests followed shortly after.
   - One outlet page briefly worded the second man's release inconsistently before its editing note confirmed release with charges, which this report uses.
+  - Whether the page's lead image captioned only 'homicidio Plasencia' shows this seizure, raid or court step could not be established, so no media entry is added.
 ---
 
 The Civil and Instruction Section of the Plasencia court ordered prison on
 Sunday for the alleged perpetrator of the killing of a 22-year-old man in the
-early hours of Friday. [@1] The main detainee is a 19-year-old Plasencia native
+early hours of Friday. [@1,4] The main detainee is a 19-year-old Plasencia native
 arrested at his home shortly after the events, while a 26-year-old second man
 was released provisionally with charges after both appeared before the court.
 [@1] The court imposed pretrial detention without bail on the main suspect and
 release with charges for the second man. [@3]
 
 During the operation officers seized two suitcases containing 16 kilograms of
-hashish in tablets and 2 kilograms of marijuana. [@1] Police say the 26-year-old
+hashish in tablets and 2 kilograms of marijuana. [@1,4] Police say the 26-year-old
 had allegedly tried to help the suspect evade justice and to hide an important
 quantity of drugs from the flat where the suspect lived in order to leave the
 city. [@2] Officers also seized two simulated firearms and 17 bladed weapons of
@@ -70,9 +76,8 @@ above. [@3] Police later recovered a machete that the examined evidence suggests
 could have been the weapon used in the killing. [@3]
 
 The stabbing happened at about 02:00 on Friday at the junction of Talavera and
-Encarnación streets in Plasencia. [@1] Police and then medical services assisted
+Encarnación streets in Plasencia. [@1,4] Police and then medical services assisted
 the victim and took him to Virgen del Puerto hospital, where his death was
 confirmed at about 06:00. [@1] After witness statements, police went to a
 dwelling near the scene and intercepted the two men, aged 19 and 26, as they
 tried to flee. [@3]
-
