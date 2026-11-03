@@ -35,6 +35,11 @@ sources:
     publisher: চ্যানেল এস | Channel S
     date: 2026-11-03
     language: bn
+  - title: গোপালগঞ্জে ইয়াবা-গাঁজাসহ মাদককারবারি গ্রেপ্তার | কালবেলা
+    url: https://www.kalbela.com/country-news/345975
+    publisher: কালবেলা
+    date: 2026-11-03
+    language: bn
 open_questions:
   - The 1,380 yaba pills are methamphetamine-type tablets, not cannabis, and are excluded from the cannabis figures above.
   - The Star News page carries a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
@@ -44,11 +49,13 @@ open_questions:
   - The new source names the detainee as Md. Naimur Rahman without an age, while the existing report gives 28-year-old B. M. Naimur Rahman.
   - The new source says an accomplice fled but does not name him, while the existing report names 27-year-old Md. Raju Sheikh.
   - The submitted page carries a photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is included.
+  - The Kalbela account does not mention the second man reported elsewhere as fleeing during the arrest, so it neither confirms nor contradicts that part of the existing report.
+  - The page photo is captioned only as the named man with a collected-photo credit and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Special Response Battalion-6 arrested 28-year-old B. M. Naimur Rahman in
 Kashiani, Gopalganj, after finding yaba pills, ganja, cash and a motorcycle in
-his possession. [@1] Officers detained him around 12:30 at night on 2 November
+his possession. [@1,4] Officers detained him around 12:30 at night on 2 November
 2026 in front of the Majra Bazar government market in the Bhattaidhopa area.
 [@1,3] Another man who was with Rahman at the time, 27-year-old Md. Raju Sheikh,
 fled cunningly during the arrest and remains fugitive. [@1] The SRB-6 Sadar
@@ -56,11 +63,11 @@ Company team from Bhatiapara Camp carried out the operation on the Majra Bazar
 to Bishwaroad road after receiving a secret tip-off. [@2]
 
 On searching Rahman, the team recovered 1,380 yaba pills, 700 grams of ganja, Tk
-169,150 in alleged drug-sale cash and one motorcycle used for drug sales. [@1,3]
+169,150 in alleged drug-sale cash and one motorcycle used for drug sales. [@1,3,4]
 The 1,380 yaba pills are kept separate from the cannabis count, so this report
 records only the 700 grams of ganja as 0.7 kg of seized cannabis. [@2]
 
 The detained man and the recovered drugs and other seized items were handed over
 to Kashiani Police Station for further legal action. [@2,3] A regular case under
 the Narcotics Control Act was filed at Kashiani Police Station in connection
-with the seizure. [@1,3]
+with the seizure. [@1,3,4]
