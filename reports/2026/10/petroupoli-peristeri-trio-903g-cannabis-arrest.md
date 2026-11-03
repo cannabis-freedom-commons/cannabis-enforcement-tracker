@@ -53,6 +53,10 @@ sources:
     publisher: Athlosnews.gr
     date: 2026-11-03
     language: el
+  - title: Three Young Suspects Arrested in Drug Bust Near Athens
+    url: https://www.tovima.com/society/three-young-suspects-arrested-in-drug-bust-near-athens/
+    publisher: tovima.com
+    date: 2026-11-03
 open_questions:
   - The 520 grams of cocaine are excluded from cannabis figures under the substance scope; the cannabis total is 903 grams.
   - The 6,340 euros is seized cash, not a drug-value estimate, and is not counted in figures.
@@ -65,10 +69,12 @@ open_questions:
   - The page carries a lead image captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
   - The page image is captioned only as an ELAS police patrol car and does not establish that it shows this seizure, so no media entry is added.
   - The page's lead image is captioned only 'narkotika-peristeri-ogimage.jpg', which does not establish that it shows this seizure, so no media entry is added.
+  - The To Vima article says the operations happened “last Saturday” relative to its 3 November 2026 publication, while the existing report dates the incident 29 October 2026 from other sources.
+  - No media entry is listed because the page's lead image uses a Shutterstock file with only the headline as caption and does not establish that it shows this seizure.
 ---
 
 Police arrested three youths aged 14, 17 and 21 in Petroupoli and Peristeri,
-western Athens, on 29 October 2026 on suspicion of drug trafficking. [@1,4,5,6]
+western Athens, on 29 October 2026 on suspicion of drug trafficking. [@1,4,5,6,8]
 Officers of the Attica General Police Directorate's Drug Immediate Response Unit
 made the arrests in morning and afternoon operations after acting on information
 about the youths' activity. [@3,7] Police say the three stored cocaine and
@@ -78,12 +84,12 @@ violence-against-officials offences as applicable, and they were taken before
 the competent prosecutor. [@1]
 
 Searches of the suspects and their homes seized 44 grams of processed cannabis
-and 859 grams of unprocessed cannabis, a total of 903 grams. [@1,4,5,6,7] Police also
+and 859 grams of unprocessed cannabis, a total of 903 grams. [@1,4,5,6,7,8] Police also
 seized 520 grams of cocaine, a replica pistol, a butterfly knife, three
 precision scales, packaging materials, a notebook with handwritten notes, five
 mobile phones and 6,340 euros in cash. [@1,5,6] Officers also seized the motorcycle
-the 21-year-old allegedly used to transport the drugs. [@1]
+the 21-year-old allegedly used to transport the drugs. [@1,8]
 
 The 21-year-old had hidden drugs inside a delivery-company box to conceal them.
 [@1,4,5,6,7] He also kept a specially modified vehicle key containing a hidden
-compartment for storing drugs. [@2]
+compartment for storing drugs. [@2,8]
