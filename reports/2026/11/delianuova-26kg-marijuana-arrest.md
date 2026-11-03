@@ -32,12 +32,18 @@ sources:
     publisher: quicosenza
     date: 2026-11-02
     language: it
+  - title: 'Delianuova, blitz dei carabinieri: arrestato un giovane con 2,6 chili di marijuana, sequestrate anche armi con matricola abrasa'
+    url: https://www.reggiotoday.it/cronaca/dalianuova-marijuana-dentro-casa-carabinieri-arresto-giovane.html
+    publisher: ReggioToday
+    date: 2026-11-02
+    language: it
 open_questions:
   - The articles give no separate date for the dawn operation; 2 November 2026 is their publication date.
   - The sources do not give the arrested young man's name or age.
   - No court outcome is reported; the case was in the preliminary-investigation phase.
   - The 60-year-old's referral concerns material for making ammunition, not cannabis, so he is not counted in the figures.
   - The source page carries a lead image with only the caption PHOTO and no credit, so whether it shows this seizure could not be established and no media entry is added.
+  - The submitted page carries an image with no caption or credit, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 At dawn, Carabinieri of the Delianuova station, under the Palmi company, carried
@@ -46,13 +52,13 @@ helicopter-borne hunter squadron, the Vibo Valentia dog unit and intervention
 squads of the 12th Regiment Sicilia. [@1] The operation was aimed at illegally
 held weapons and covered several homes in the area. [@2] During the searches,
 officers arrested a young local man found with about 2.6 kg of marijuana that
-was being dried. [@1,3] The search also turned up a precision scale and material
-for packaging the drug, which led to the arrest. [@1] After the operation, the
+was being dried. [@1,3,4] The search also turned up a precision scale and material
+for packaging the drug, which led to the arrest. [@1,4] After the operation, the
 young man was taken to the Palmi prison at the disposal of the judicial
-authority. [@1,3]
+authority. [@1,3,4]
 
 In further checks, officers found and seized a carbine and a hunting rifle, both
-with abraded serial numbers, along with various ammunition. [@1,3] A 60-year-old
+with abraded serial numbers, along with various ammunition. [@1,3,4] A 60-year-old
 local man was reported at liberty in connection with possessing material for
 making ammunition. [@1] The case was in the preliminary-investigation phase,
 with the presumption of innocence applying until a final sentence. [@1]
