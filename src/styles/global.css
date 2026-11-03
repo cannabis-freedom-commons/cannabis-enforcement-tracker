@@ -593,6 +593,11 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .glossary-tooltip .glossary-eyebrow { margin: 0; font: 500 10px var(--mono); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
 .glossary-tooltip .glossary-title { display: block; margin-top: 6px; font: 400 22px/1.1 var(--display); }
 .glossary-tooltip .glossary-definition { margin: 8px 0 0; color: var(--text-2); }
+.glossary-table { width: 100%; margin: 10px 0 0; border-collapse: collapse; font-size: 13px; }
+.glossary-table th, .glossary-table td { padding: 5px 0; border-top: 1px solid var(--border); text-align: left; font-weight: 400; }
+.glossary-table th { color: var(--text-2); padding-right: 14px; }
+.glossary-table td { color: var(--text); font: 13px var(--mono); text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.glossary-tooltip .glossary-note { margin: 8px 0 0; color: var(--muted); font-size: 12px; }
 .prose a.term { text-decoration: underline dashed; text-decoration-color: var(--muted); text-decoration-thickness: 1px; }
 .prose a.term:hover, .prose a.term:focus-visible { text-decoration-color: currentColor; }
 

@@ -21,10 +21,22 @@ if (main) {
     }
     if (current !== term) current?.removeAttribute("aria-describedby");
     current = term; term.setAttribute("aria-describedby", tip.id);
-    const eyebrow = document.createElement("p"); eyebrow.className = "glossary-eyebrow"; eyebrow.textContent = "Explained";
+    const eyebrow = document.createElement("p"); eyebrow.className = "glossary-eyebrow"; eyebrow.textContent = term.dataset.eyebrow || "Explained";
     const title = document.createElement("b"); title.className = "glossary-title"; title.textContent = term.dataset.title;
     const definition = document.createElement("p"); definition.className = "glossary-definition"; definition.textContent = term.dataset.text;
-    tip.replaceChildren(eyebrow, title, definition); tip.hidden = false;
+    // a weight or a sum of money: its conversions as a small table, with a note under it
+    let rows = null;
+    try { rows = term.dataset.rows ? JSON.parse(term.dataset.rows) : null; } catch {}
+    if (rows?.length) {
+      const table = document.createElement("table"); table.className = "glossary-table";
+      for (const [label, value] of rows) {
+        const tr = table.insertRow(), th = document.createElement("th"); th.scope = "row"; th.textContent = label;
+        const td = document.createElement("td"); td.textContent = value; tr.append(th, td);
+      }
+      const note = document.createElement("p"); note.className = "glossary-note"; note.textContent = term.dataset.note ?? "";
+      tip.replaceChildren(eyebrow, title, table, ...(note.textContent ? [note] : []));
+    } else tip.replaceChildren(eyebrow, title, definition);
+    tip.hidden = false;
     const rect = term.getBoundingClientRect(), margin = 10, width = tip.offsetWidth, height = tip.offsetHeight;
     const below = rect.bottom + 8 + height < innerHeight || rect.top - 8 - height < 0;
     tip.style.left = `${Math.max(margin, Math.min(rect.left, innerWidth - width - margin))}px`;
@@ -61,7 +73,8 @@ if (main) {
     });
     const texts = []; while (walker.nextNode()) texts.push(walker.currentNode);
     for (const node of texts) {
-      const parts = glossaryParts(node.textContent, seen);
+      // "$" or "Rs" is the currency of the report the text belongs to
+      const parts = glossaryParts(node.textContent, seen, { country: node.parentElement?.closest("[data-country]")?.dataset.country });
       if (!parts.some(part => part.entry)) continue;
       const fragment = document.createDocumentFragment();
       for (const part of parts) {
@@ -69,7 +82,9 @@ if (main) {
         const term = document.createElement(part.entry.url ? "a" : "span"); term.className = `term term-g${part.entry.url ? " term-l" : ""}`;
         if (part.entry.url) { term.href = part.entry.url; term.target = "_blank"; term.rel = "noopener noreferrer"; }
         term.tabIndex = 0; if (!part.entry.url) term.setAttribute("role", "button");
-        term.dataset.termId = part.entry.id; term.dataset.title = part.entry.id; term.dataset.text = part.entry.text;
+        term.dataset.termId = part.entry.id; term.dataset.title = part.entry.title ?? part.entry.id; term.dataset.text = part.entry.text;
+        if (part.entry.eyebrow) term.dataset.eyebrow = part.entry.eyebrow;
+        if (part.entry.rows) { term.dataset.rows = JSON.stringify(part.entry.rows); term.dataset.note = part.entry.note; }
         term.textContent = part.text; fragment.append(term);
       }
       node.replaceWith(fragment);

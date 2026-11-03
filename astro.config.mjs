@@ -8,7 +8,12 @@ import { unified } from "@astrojs/markdown-remark";
 
 // Fully static output: one HTML file per report and per country, plus the JSON files under /api/.
 // Changing definitions must invalidate Astro's cached Markdown, even when report files are unchanged.
-const glossaryRevision = createHash("sha256").update(readFileSync(new URL("./src/data/glossary.json", import.meta.url))).digest("hex");
+// The same for the exchange rates and the weight and money rules behind the tooltips.
+const glossaryRevision = createHash("sha256")
+  .update(readFileSync(new URL("./src/data/glossary.json", import.meta.url)))
+  .update(readFileSync(new URL("./src/data/exchange-rates.json", import.meta.url)))
+  .update(readFileSync(new URL("./src/lib/measures.js", import.meta.url)))
+  .digest("hex");
 
 const base = (process.env.BASE_PATH || "").replace(/\/+$/, "") + "/";
 

@@ -207,7 +207,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
   // a photo the publisher no longer serves is removed, and its row drawn without it
   const thumb = (r: Row) => r.im ? `<img class="thumb" src="${esc(imageProxy(r.im))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-thumb');this.remove()">` : "";
-  const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}">
+  const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}" data-country="${esc(r.c)}">
     <div class="meta"><span class="type" style="--c:${types[r.t].color}">${esc(types[r.t].label)}</span>
       <time datetime="${r.d}">${fmtDate(r.d)}</time>
       <a href="${base}country/${r.c}/">${flag(r.c)} ${esc(countries[r.c])}</a>${zoomable && r.ll ? `<button type="button" class="zoom-to" data-zoom="${r.i}" aria-label="Show on the map" title="Show on the map"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg></button>` : ""}</div>

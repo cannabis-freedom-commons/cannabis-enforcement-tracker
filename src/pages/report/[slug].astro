@@ -64,7 +64,7 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
   <nav class="crumbs" aria-label="Breadcrumb"><a href={`${base}reports/`}>Reports</a> / <a href={`${base}country/${r.country}/`}>{r.countryName}</a></nav>
   {/* on a wide screen the map and the law sit in a column beside the text; narrower, under it */}
   <div class="report-layout">
-  <article id="report-article" class="report-article h-entry" itemscope itemtype="https://schema.org/Article">
+  <article id="report-article" class="report-article h-entry" data-country={r.country} itemscope itemtype="https://schema.org/Article">
     <header class="report-head">
       <div class="meta">
         <span class="type" style={`--c:${r.color}`}>{r.typeLabel}</span>

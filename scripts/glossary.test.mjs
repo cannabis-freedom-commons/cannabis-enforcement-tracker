@@ -39,12 +39,15 @@ test("reviewed enforcement vocabulary covers real report wording", () => {
   const examples = [
     ["Both were remanded for five days after a controlled delivery.", ["remand", "controlled delivery"]],
     ["Two consecutive months followed the concurrent prison terms.", ["consecutive sentence", "concurrent sentence"]],
-    ["Police put the street value at ₹13 crore, or 1,300 lakh.", ["street value", "crore", "lakh"]],
+    // "₹13 crore" is one sum of money (measures.js), whose tooltip says what a crore is
+    ["Police put the street value at ₹13 crore, or 1,300 lakh.", ["street value", "lakh"]],
     ["The defendant was convicted after pleading not guilty; others pleaded guilty.", ["defendant", "conviction", "guilty plea"]],
     ["The consignment weighed 434 kg (wet weight).", ["consignment", "wet weight"]],
     ["A hydroponic grow house covered two hectares.", ["hydroponics", "grow house", "hectare"]],
     ["Officers found cannabis resin.", ["Hashish"]],
   ];
-  for (const [text, expected] of examples) assert.deepEqual(glossaryParts(text).filter(p=>p.entry).map(p=>p.entry.id), expected, text);
+  // the vocabulary only: weights and sums of money are tested in measures.test.mjs
+  const terms = text => glossaryParts(text).filter(p => p.entry && !/^(weight|money):/.test(p.entry.id)).map(p => p.entry.id);
+  for (const [text, expected] of examples) assert.deepEqual(terms(text), expected, text);
   assert.equal(glossaryParts("They paid excess baggage charges.").some(p=>p.entry?.id === "criminal charge"), false);
 });
