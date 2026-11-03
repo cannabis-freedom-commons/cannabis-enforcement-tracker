@@ -29,6 +29,11 @@ sources:
     publisher: Sabinia TV
     date: 2026-11-03
     language: it
+  - title: Latitante svizzero arrestato dalla Polizia
+    url: https://www.corrieredirieti.it/cronaca/latitante-svizzero-arrestato-dalla-polizia/
+    publisher: Corriere di Rieti
+    date: 2026-11-03
+    language: it
 open_questions:
   - The article gives no separate date for the arrest, saying only that it happened in the days before publication, so 3 November 2026, the publication date, is used as the incident date.
   - The hashish and marijuana weights are reported as approximate, almost 40 grams and about 30 grams, with about 75 grams in total.
@@ -39,19 +44,19 @@ open_questions:
 
 Officers of the Squadra Mobile of the Rieti Questura, Rieti's provincial police
 headquarters, tracked down and arrested a 57-year-old man of Swiss origin in the
-municipality of Greccio after he had evaded house arrest since February. [@1,2]
+municipality of Greccio after he had evaded house arrest since February. [@1,2,3]
 According to police, he tried to flee during the stop and resisted violently,
-injuring an officer. [@1,2] Following the procedures, he was transferred to the
+injuring an officer. [@1,2,3] Following the procedures, he was transferred to the
 Nuovo Complesso prison in Rieti at the disposal of the judicial authority. [@1,2]
 
-A personal search found a packet containing 5 grams of marijuana. [@1,2] A search
+A personal search found a packet containing 5 grams of marijuana. [@1,2,3] A search
 of his home found almost 40 grams of hashish and about 30 grams of marijuana
-buds, all of which police seized. [@1,2] In total, about 75 grams of drugs were
+buds, all of which police seized. [@1,2,3] In total, about 75 grams of drugs were
 seized. [@1]
 
 He had been arrested in October of the previous year by State Police on
 suspicion of cultivating, selling and possessing marijuana for dealing, and had
 first been ordered to report to the judicial police before a court imposed house
-arrest. [@1] After he absconded and became untraceable, the authorities issued a
+arrest. [@1,3] After he absconded and became untraceable, the authorities issued a
 fugitive decree in February, and the search ended with his arrest in Greccio.
 [@1]
