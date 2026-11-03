@@ -40,6 +40,11 @@ sources:
     publisher: ÓRBITA Navalmoral
     date: 2026-11-03
     language: es
+  - title: Desmantelan una red de venta de droga en Navalmoral que repartía cocaína en patinete eléctrico
+    url: https://www.elperiodicoextremadura.com/caceres/2026/11/03/desmantelan-red-venta-droga-navalmoral-136030069.html
+    publisher: El Periódico Extremadura
+    date: 2026-11-03
+    language: es
 open_questions:
   - The 450-gram hashish figure is reported without a separate laboratory weight.
   - Cocaine was reported only as 60 doses with no weight, so it is excluded from cannabis figures.
@@ -50,12 +55,12 @@ open_questions:
 
 Guardia Civil officers arrested four people, two men and two women, in
 Navalmoral de la Mata as alleged members of a drug-trafficking criminal group.
-[@1] The detainees were placed at the disposal of Court of Instance No. 1 in
+[@1,4] The detainees were placed at the disposal of Court of Instance No. 1 in
 Navalmoral de la Mata, which will continue the judicial proceedings. [@2]
 
 Officers called the case Operation Telecoca 2026. [@3] Three entries and
 searches of linked properties recovered 450 grams of hashish, the cannabis
-component recorded here. [@1] The same searches also yielded 60 doses of
+component recorded here. [@1,4] The same searches also yielded 60 doses of
 cocaine, about 13,000 euros in cash and jewellery, mentioned only to explain the
 mixed case and excluded from cannabis figures. [@1]
 
@@ -66,5 +71,4 @@ drugs. [@2] The drugs were allegedly sold from one investigated home used as a
 distribution point and through direct handovers to users. [@1] One suspect
 allegedly used an electric scooter to move around the town to make the
 deliveries. [@2] The exploitation phase took place on Friday 30 October with
-officers from different Guardia Civil units and specialities. [@1]
-
+officers from different Guardia Civil units and specialities. [@1,4]
