@@ -70,24 +70,30 @@ sources:
     publisher: La Portada de Extremadura
     date: 2026-11-03
     language: es
+  - title: La Guardia Civil desmantela un grupo presuntamente dedicado al tráfico de drogas al menudeo
+    url: https://navalmoral.hoy.es/guardia-civil-desmantela-grupo-presuntamente-dedicado-trafico-20261103143934-nt_amp.html
+    publisher: Hoy
+    date: 2026-11-03
+    language: es
 open_questions:
   - The 450-gram hashish figure is reported without a separate laboratory weight.
   - Cocaine was reported only as 60 doses with no weight, so it is excluded from cannabis figures.
   - About 13,000 euros in cash and jewellery were seized with the drugs, but no cannabis-only valuation was published, so no value is recorded.
   - The names and ages of the four detainees were not published.
   - No court outcome after the referral to the Navalmoral court was reported.
+  - The page's single image caption only repeats the headline and does not identify what is depicted, so no media entry is added.
 ---
 
 Guardia Civil officers arrested four people, two men and two women, in
 Navalmoral de la Mata as alleged members of a drug-trafficking criminal group.
-[@1,4,5,6,7] The detainees were placed at the disposal of Court of Instance No. 1 in
+[@1,4,5,6,7,8] The detainees were placed at the disposal of Court of Instance No. 1 in
 Navalmoral de la Mata, which will continue the judicial proceedings. [@2,5,6]
 
 Officers called the case Operation Telecoca 2026. [@3,5] Three entries and
 searches of linked properties recovered 450 grams of hashish, the cannabis
-component recorded here. [@1,4,5,6,7] The same searches also yielded 60 doses of
+component recorded here. [@1,4,5,6,7,8] The same searches also yielded 60 doses of
 cocaine, about 13,000 euros in cash and jewellery, mentioned only to explain the
-mixed case and excluded from cannabis figures. [@1,5,6]
+mixed case and excluded from cannabis figures. [@1,5,6,8]
 
 The investigation lasted about a year after agents learned of a possible drug
 sales point in the town, mainly for cocaine. [@1,6] Investigators said the four
@@ -96,4 +102,4 @@ drugs. [@2] The drugs were allegedly sold from one investigated home used as a
 distribution point and through direct handovers to users. [@1] One suspect
 allegedly used an electric scooter to move around the town to make the
 deliveries. [@2,7] The exploitation phase took place on Friday 30 October with
-officers from different Guardia Civil units and specialities. [@1,4,5,6]
+officers from different Guardia Civil units and specialities. [@1,4,5,6,8]
