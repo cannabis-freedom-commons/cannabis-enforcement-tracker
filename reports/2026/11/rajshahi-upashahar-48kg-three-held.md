@@ -56,6 +56,11 @@ sources:
     publisher: Daily Sokaler Somoy
     date: 2026-11-02
     language: bn
+  - title: রাজশাহীতে ৪৮ কেজি গাঁজা উদ্ধার, আটক ৩
+    url: https://www.newsg24.com/bangladesh-news/244530/
+    publisher: NewsG24
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only the Amader Shomoy account of this event could be opened; no second outlet or agency statement was found.
   - The detentions are reported as detention and questioning, and whether formal arrests, charges or a court outcome followed is not reported.
@@ -76,26 +81,27 @@ open_questions:
   - This account reports two arrests while the existing report records three detentions including a Sarkar Builders site engineer, whose fate is not mentioned here.
   - This account places the raid in a plot's chapra tin-shed house, differing from the Sarkar Builders under-construction building description in the existing report.
   - The page carries a lead photo with an empty caption, so whether it shows this seizure could not be established and no media entry is added.
+  - 'The page''s lead photograph is captioned only as Photo: NewsG24 with no descriptive caption, so whether it shows this seizure could not be established and no media entry is added.'
 ---
 
 Boalia Model Police detained three people in Rajshahi, including the
 construction firm's site engineer, after recovering 48 kg of ganja from a
-workers' room. [@1] The raid took place at about 3:30 pm on Sunday, 1 November,
+workers' room. [@1,6] The raid took place at about 3:30 pm on Sunday, 1 November,
 in a workers' tin-shed room in a Sarkar Builders under-construction building in
-Upashahar Sector 2. [@1,2,5] Police named the detained men as 24-year-old Sohir
+Upashahar Sector 2. [@1,2,5,6] Police named the detained men as 24-year-old Sohir
 Islam of Bagdhani, 20-year-old Rayhan of Palpur Dharampur, and another Rayhan of
 Chanduria who worked as Sarkar Builders' site engineer. [@1]
 
 Officers said they acted on secret information and broke the lock after those
-inside first refused to open the door for a search. [@1] Inside, officers found
-12 packets holding a total of 48 kg of ganja in two sacks. [@1,5] Police said the
+inside first refused to open the door for a search. [@1,6] Inside, officers found
+12 packets holding a total of 48 kg of ganja in two sacks. [@1,5,6] Police said the
 consignment had arrived by truck in three sacks, with one sack already sold and
-the remaining two intended to be moved elsewhere. [@1]
+the remaining two intended to be moved elsewhere. [@1,6]
 
 The three were taken to Boalia Model Police Station for questioning, with police
 saying further legal steps would follow after investigation and interrogation.
-[@1] Police said the site engineer was among the three and had been called from
-his home. [@1] The site engineer was handcuffed while being taken to the
+[@1,6] Police said the site engineer was among the three and had been called from
+his home. [@1,6] The site engineer was handcuffed while being taken to the
 station, but police gave no detailed explanation of his suspected link to the
 consignment. [@1] Attempts to reach Rajshahi Metropolitan Police Additional
 Commissioner Gaziur Rahman by phone for comment were unsuccessful. [@1]
