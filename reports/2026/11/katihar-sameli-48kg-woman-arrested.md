@@ -36,6 +36,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-03
     language: hi
+  - title: 'Katihar News: 48 किलो गांजा बरामद, एक महिला गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/katihar/story-police-recover-48-kg-of-ganja-in-bihar-raid-woman-arrested-201793723610667.html
+    publisher: Live Hindustan
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The reports give the raid only as Tuesday with a 3 November 2026 publication date; no separate calendar date for the raid is stated.
   - The arrested woman is identified only as the wife of Bhagat Lal Muni; no personal name or age is given.
@@ -46,19 +51,18 @@ open_questions:
 
 A joint police and circle-administration team raided a house at Ward No. 13 in
 Nawabganj Purab Tola, Muradpur panchayat, in the Sameli-Kursela area of Katihar,
-Bihar, on Tuesday. [@2] Officers detained and then arrested the wife of
+Bihar, on Tuesday. [@2,3] Officers detained and then arrested the wife of
 householder Bhagat Lal Muni, who was present during the search. [@2] Other
-members of the household fled while the raid was under way. [@2]
+members of the household fled while the raid was under way. [@2,3]
 
-The team searched Bhagat Lal Muni's house and recovered 48 kg of ganja. [@2]
+The team searched Bhagat Lal Muni's house and recovered 48 kg of ganja. [@2,3]
 Kursela police said they had received a tip that ganja was being bought and sold
 in Nawabganj Purab Tola, which station chief Rakesh Kumar verified before moving
-in with force. [@2] Sameli circle officer Priyaranjan Kumar joined the raid
-alongside the police. [@2]
+in with force. [@2,3] Sameli circle officer Priyaranjan Kumar joined the raid
+alongside the police. [@2,3]
 
 Police described the action as a joint operation against the illegal narcotics
 trade in the area. [@1] Station chief Rakesh Kumar said the operation yielded 48
-kg of ganja and one woman's arrest. [@2] Police said they are identifying others
-linked to the ganja trade and continuing efforts to arrest them. [@2] Police
-said further legal action will be taken under the NDPS Act. [@2]
-
+kg of ganja and one woman's arrest. [@2,3] Police said they are identifying others
+linked to the ganja trade and continuing efforts to arrest them. [@2,3] Police
+said further legal action will be taken under the NDPS Act. [@2,3]
