@@ -52,6 +52,11 @@ sources:
     publisher: Dhaka Mail
     date: 2026-10-30
     language: bn
+  - title: ফেনীতে এসআরবির অভিযানে ৪০ কেজি গাঁজা উদ্ধার, গ্রেপ্তার ১
+    url: https://www.agrajatrapratidin.com/crime/news/28261
+    publisher: agrajatrapratidin.com
+    date: 2026-10-30
+    language: bn
 open_questions:
   - The Jagonews24 article body never loaded, so that page was not quoted.
   - Daily Best News spells the village Uttar Adharmamik and times the raid at about 4:05 pm; the Bangla report says উত্তর আধারমানিক at about 4 pm, which this account follows for the place name.
@@ -62,7 +67,7 @@ open_questions:
 
 Anwar Hossain, 40, son of the late Siraj Uddin, was arrested after SRB-7,
 Chattogram (Feni Camp) raided a house in Chhagalnaiya upazila of Feni and seized
-40 kilograms of ganja. [@1,3] The unit's operational team searched the house on
+40 kilograms of ganja. [@1,3,5] The unit's operational team searched the house on
 Friday, 30 October 2026, at about 4 pm, in Uttar Adharmanik village of
 Radhanagar union. [@1] He was taken from that house, and the report identifies
 him as the son of the late Siraj Uddin. [@1] Daily Best News, citing the same
@@ -70,12 +75,12 @@ SRB operation, put the time at about 4:05 pm and spelled the village Uttar
 Adharmamik. [@2]
 
 Officers searched a stair room next to the roof and recovered and seized 40
-kilograms of ganja. [@1,4] SRB sources estimated the market value at about 4 lakh
-taka, or 400,000 Bangladeshi taka. [@1,2] The English report described the same
+kilograms of ganja. [@1,4,5] SRB sources estimated the market value at about 4 lakh
+taka, or 400,000 Bangladeshi taka. [@1,2,5] The English report described the same
 consignment as illicit hemp hidden in that rooftop staircase room. [@2] SRB
 officials there also put the estimated value at around BDT 4 lakh. [@2]
 
 SRB said the next legal steps for the arrested man and the seized drugs were
-still being arranged. [@1] Daily Best News reported that SRB was preparing a
+still being arranged. [@1,5] Daily Best News reported that SRB was preparing a
 case under the Narcotics Control Act and intended to hand Anwar Hossain and the
 evidence to the relevant police station. [@2]
