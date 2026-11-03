@@ -27,26 +27,32 @@ sources:
     publisher: Pieria24
     date: 2026-11-01
     language: el
+  - title: Συνελήφθη από αστυνομικούς της Ομάδας ΔΙ.ΑΣ. 24χρονος στην περιοχή του Ζωγράφου
+    url: https://www.policenet.gr/article/synelifthi-apo-astynomikoys-tis-omadas-dias-24hronos-stin-periohi-toy-zografoy
+    publisher: policenet.gr
+    date: 2026-11-02
+    language: el
 open_questions:
   - Only one source for this event could be opened, so no second account confirms the arrest or seizure.
   - The article gives the arrest time only as the evening of Friday 30 October and the place only as the Zografou area, with no street-level location.
   - No outcome beyond referral to the competent prosecutor is reported.
   - The source page carries a lead cannabis image, but its caption and alt text do not establish that it shows this 772-gram seizure, so no media entry is added.
+  - The policenet.gr page shows a generic DI.AS. image from March 2026 and an Hellenic Police photo without a caption establishing that either depicts this 772-gram seizure, so no media entry is added.
 ---
 
 On the evening of Friday 30 October, police in the Zografou area arrested a
 24-year-old man accused of violating the legislation on addictive substances.
-[@1,2] The arrest was carried out by officers of the DIAS police unit who were
+[@1,2,3] The arrest was carried out by officers of the DIAS police unit who were
 operating in the Zografou area that evening. [@1] Hellenic Police officers who
 were patrolling in Zografou said they judged the young man's movements to be
 suspicious and therefore called him for a check. [@1] The account describes only
 one young man being stopped, checked and arrested in this incident. [@1]
 
 During that check, officers found cannabis in his possession and seized a total
-of 772 grams of raw cannabis. [@1,2] The seized quantity, described as 772 grams
+of 772 grams of raw cannabis. [@1,2,3] The seized quantity, described as 772 grams
 of unprocessed cannabis, corresponds to 0.772 kilograms. [@1]
 
 The Zografou Department for the Prosecution and Investigation of Crimes prepared
 the criminal case file against the detained man. [@1] Following completion of
 the case file, officers referred the detainee to the competent public prosecutor
-for further handling. [@1,2]
+for further handling. [@1,2,3]
