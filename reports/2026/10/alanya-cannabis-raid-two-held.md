@@ -72,6 +72,11 @@ sources:
     publisher: MYGAZETE
     date: 2026-10-30
     language: tr
+  - title: Alanya'da Narkotik Ekiplerince Yapılan Operasyonda 2 Şüpheli Tutuklandı
+    url: https://www.mersinhaber.com/haber-alanyada-narkotik-ekiplerince-yapilan-operasyonda-2-supheli-tutuklandi/832519
+    publisher: Mersin Haber
+    date: 2026-10-30
+    language: tr
 open_questions:
   - Neither account gives a separate date for the searches or the court appearance; 30 October 2026 is the publication date of both reports.
   - The sources count 25 pots of cannabis plants rather than individual plants, so the number of plants may be higher.
@@ -86,17 +91,18 @@ open_questions:
   - Kemer Gözcü credits its text to İHA and the Hürriyet page publishes an Anadolu Agency report, so both are agency accounts rather than original reporting by those outlets.
   - The MYGAZETE lead image carries only the headline as its caption and no credit, so it was not added as a photograph of the raids.
   - 'Left out, as its quotation was not found in MYGAZETE: Police detained five people in two searches in Alanya, a district of Antalya province, and a court ordered two of them held in pre-trial detention.'
+  - The Mersin Haber lead image carries only the event summary as its caption with no credit, so it was not added as a photograph of the raids.
 ---
 
 Police detained five people in two searches in Alanya, a district of Antalya
-province, and a court ordered two of them held in pre-trial detention. [@1,4,5,6] The
+province, and a court ordered two of them held in pre-trial detention. [@1,4,5,6,10] The
 first search targeted a hotel staff residence — a lojman, housing provided by an
 employer — in the Saray neighbourhood, where officers found 46 grams of esrar,
 the cannabis preparation known in Turkey. [@1,3,4,5,7,9] They detained M.A. (22), E.Y.
-(26), M.K.Y. (33) and S.S. (24) at that address. [@1,3,4,5,7,9]
+(26), M.K.Y. (33) and S.S. (24) at that address. [@1,3,4,5,7,9,10]
 
 A second search, at a house in the Kızlarpınarı neighbourhood, found 25 cannabis
-plants growing in pots. [@1,3,4,5,8] Officers detained O.Ö. (45), who was in the house.
+plants growing in pots. [@1,3,4,5,8,10] Officers detained O.Ö. (45), who was in the house.
 [@1,3,4,5,7,9] Police described the house as one the suspect had turned into a cannabis
 garden. [@2,5] All five were questioned at the police station and taken to the
 courthouse, where they were processed on allegations of drug trafficking and
