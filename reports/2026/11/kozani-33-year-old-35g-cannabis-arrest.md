@@ -32,23 +32,29 @@ sources:
     publisher: EordaiaLive.com
     date: 2026-11-02
     language: el
+  - title: Συνελήφθη 33χρονος από αστυνομικούς του Τμήματος Δίωξης και Εξιχνίασης Εγκλημάτων Κοζάνης
+    url: https://www.policenet.gr/article/synelifthi-33hronos-apo-astynomikoys-toy-tmimatos-dioxis-kai-exihniasis-egklimaton-0
+    publisher: policenet.gr
+    date: 2026-11-02
+    language: el
 open_questions:
   - The 1.4 grams of cocaine seized in the same check are excluded from the cannabis figure above.
   - No court outcome beyond referral of the case file to the Kozani misdemeanour prosecutor was reported.
   - The Tharos page carries a lead image captioned with the headline, but its content could not be verified as showing this seizure, so no media entry is added.
   - The submitted page's listed source_images are advertisements, and whether its generic police-car image shows this seizure could not be established, so no media entry is added.
+  - The page shows an image served from a 2024 file path with generic alt text, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of the Kozani Crime Detection and Clearance Division arrested a
 33-year-old man in an area of Kozani in the early morning hours of 1 November
-2026. [@1,3] The arrest was made by officers of the division's drug enforcement
+2026. [@1,3,4] The arrest was made by officers of the division's drug enforcement
 team during organised checks intended to combat drug trafficking and use. [@1,3]
 Officers searched the man and found the drugs on him. [@1]
 
 The search led to the seizure of 35.3 grams of unprocessed cannabis, described
-in Greek as akatergasti kannavi. [@2,3] Officers also seized 1.4 grams of cocaine
+in Greek as akatergasti kannavi. [@2,3,4] Officers also seized 1.4 grams of cocaine
 in the same check, a non-cannabis substance whose weight is not counted in the
-cannabis figure. [@1,3]
+cannabis figure. [@1,3,4]
 
 The Kozani Crime Detection and Clearance Division carried out the preliminary
 investigation and gathered the evidence for the case. [@2] Officers drew up a
