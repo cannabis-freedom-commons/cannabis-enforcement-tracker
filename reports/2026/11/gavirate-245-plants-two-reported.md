@@ -71,6 +71,11 @@ sources:
     publisher: VareseNews
     date: 2026-11-02
     language: it
+  - title: 'Gavirate, la Guardia di Finanza scopre una piantagione di marijuana: due persone denunciate'
+    url: https://www.varesenoi.it/2026/11/02/leggi-notizia/argomenti/cronaca-20/articolo/gavirate-la-guardia-di-finanza-scopre-una-piantagione-di-marijuana-due-persone-denunciate.html
+    publisher: Varesenoi.it
+    date: 2026-11-02
+    language: it
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - The two owners were reported while at liberty; no arrest or court outcome is reported.
@@ -92,18 +97,18 @@ open_questions:
 ---
 
 Guardia di Finanza officers from the Varese group discovered a 245-plant
-marijuana cultivation in Gavirate. [@1,3,4,5,6,7,8] All 245 plants were seized and placed at
-the disposal of the judicial authority for further steps. [@2,3,6,7,8] The two owners of
+marijuana cultivation in Gavirate. [@1,3,4,5,6,7,8,9] All 245 plants were seized and placed at
+the disposal of the judicial authority for further steps. [@2,3,6,7,8,9] The two owners of
 the farm business linked to the cultivation were reported while remaining at
-liberty for cultivating narcotic substances. [@1,3,4,5,6,7,8]
+liberty for cultivating narcotic substances. [@1,3,4,5,6,7,8,9]
 
 The potted plants were at an advanced growth stage, with formed inflorescences
 approaching cutting, drying and packaging. [@1,4,5] The specimens ranged from about
 40 centimetres to one metre tall, with one plant reaching about 1.80 metres.
 [@1] Laboratory tests found a THC concentration above the limits in force,
-giving the matter criminal relevance. [@1,3,5] Investigators estimated that, once
+giving the matter criminal relevance. [@1,3,5,9] Investigators estimated that, once
 growth and processing were complete, the crop could have been worth more than
-500,000 euros. [@1,3,4,5,8]
+500,000 euros. [@1,3,4,5,8,9]
 
 Investigators traced the cultivation to a farm formally operating in the
 aromatic- and medicinal-plant sector. [@1,8] Officers then checked
