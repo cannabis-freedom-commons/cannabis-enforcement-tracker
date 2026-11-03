@@ -60,6 +60,11 @@ sources:
     publisher: La Semaine des Pyrénées
     date: 2026-11-03
     language: fr
+  - title: 'Tarn - Castres : 3,1 kg de cannabis et des armes saisis lors d’une opération de gendarmerie'
+    url: https://www.lasemainedespyrenees.fr/tag/1-kg-de-cannabis-et-des-armes-saisis-lors-dune-operation-de-gendarmerie/
+    publisher: La Semaine des Pyrénées
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The lead image on the submitted page credited to Actu Tarn archives is an archive photo and is not listed as media because it is not shown to depict this seizure.
   - No outcome is reported for the 21-year-old arrestee, and the 19-year-old's immediate-appearance hearing was scheduled for 2 November 2026 after publication, so no verdict is reported.
@@ -67,10 +72,13 @@ open_questions:
   - This account reports more than 3 kg of cannabis resin while the existing report records 3.1 kg from earlier coverage.
   - The text gives a weight ("3 kg") but the figures have no kg_seized; check whether it belongs there.
   - The submitted page describes the 19-year-old as held in provisional detention awaiting immediate appearance and does not report the 2 November 2026 two-year sentence recorded in the existing report.
+  - The excerpt says 'plusieurs kilos' in the text with '3,1 kg' only in the headline, while the existing report records 3.1 kg of cannabis resin from fuller sourcing.
+  - The excerpt says one of the two arrestees was placed in provisional detention, while the existing report records both placed in custody from fuller sourcing.
+  - The excerpt does not report the flat and cellar on rue Jean-Saulière, the cash and weapons details, or the 2 November 2026 sentence recorded in the existing report.
 ---
 
 Two men aged 19 and 21 were arrested and placed in custody after gendarmes
-carried out an arrest-and-search operation in Castres on 27 October 2026. [@1,4]
+carried out an arrest-and-search operation in Castres on 27 October 2026. [@1,4,5]
 The searches took place in a flat and a cellar on rue Jean-Saulière in the Petit
 Train-Laden neighbourhood of Castres. [@1,3] The younger man was referred to the
 Castres prosecutor on 31 October and held in provisional detention pending an
