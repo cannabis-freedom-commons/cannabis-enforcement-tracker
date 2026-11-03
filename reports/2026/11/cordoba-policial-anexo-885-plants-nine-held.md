@@ -33,6 +33,11 @@ sources:
     publisher: Canal C
     date: 2026-11-02
     language: es
+  - title: Allanamientos, detenidos y casi 900 plantas de marihuana secuestradas
+    url: https://www.eldiariodecarlospaz.com.ar/sucesos/2026/11/2/allanamientos-detenidos-y-casi-900-plantas-de-marihuana-secuestradas-263412.html
+    publisher: El Diario de Carlos Paz
+    date: 2026-11-02
+    language: es
 open_questions:
   - No separate date for the raids was published; 2 November 2026 is the publication date of both sources.
   - No number or weight was published for the cocaine and marijuana doses, so no cannabis weight in kilograms could be recorded.
@@ -45,15 +50,15 @@ open_questions:
 ---
 
 Nine adults, six men and three women, were detained in the city of Córdoba after
-an investigation lasting about four months. [@1,2]
+an investigation lasting about four months. [@1,2,3]
 
-Investigators seized 885 cannabis sativa plants. [@1,2] Officers also seized 13
+Investigators seized 885 cannabis sativa plants. [@1,2,3] Officers also seized 13
 shotgun cartridges, $697,500 in cash and other items of interest to the case.
 [@1,2]
 
 The dismantled drug sale points operated independently, with no links between
-those responsible for them. [@1,2] Some of the raided homes were near the
-Polideportivo Social Policial Anexo, a community sports facility. [@1,2] The
+those responsible for them. [@1,2,3] Some of the raided homes were near the
+Polideportivo Social Policial Anexo, a community sports facility. [@1,2,3] The
 Fiscalía de Lucha contra el Narcotráfico del Primer Turno supervised the
 procedures and ordered the detainees and seized items sent to judicial
 headquarters under National Narcotics Law No. 23.737. [@1,2]
