@@ -29,6 +29,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-03
     language: hi
+  - title: 'गड़चिरोली में पुलिस की बड़ी कार्रवाई: 240 किलो गांजा जब्त, 8 आरोपी गिरफ्तार'
+    url: https://navbharatlive.com/amp/story/maharashtra/gadchiroli/gadchiroli-240-kg-ganja-seized-8-accused-arrested-asl01
+    publisher: Navbharat Live
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Only one opened source supports this event; no agency statement or second outlet was found.
   - The names and individual roles of the eight accused were not published, only that they are from Gadchiroli and Chhattisgarh.
@@ -40,7 +45,7 @@ open_questions:
 ---
 
 Gadchiroli police arrested eight people in a joint operation by the Local Crime
-Branch and Gatta police. [@1,2] The operation was executed on 31 October. [@1,2]
+Branch and Gatta police. [@1,2,3] The operation was executed on 31 October. [@1,2,3]
 Police said the eight accused are from Gadchiroli and Chhattisgarh. [@1]
 
 Officers first intercepted an SUV carrying three occupants on suspicion it was
@@ -60,4 +65,4 @@ A case was registered under the Narcotic Drugs and Psychotropic Substances Act
 at Pendhri police outpost on 1 November, and all eight accused were remanded to
 three days of police custody. [@1]
 
-Police recovered 240.580 kilograms of ganja packed in 12 sacks. [@2] Police valued the ganja at Rs 1,20,29,000 and put the total seizure including three vehicles and eight phones at Rs 1,46,10,000. [@2]
+Police recovered 240.580 kilograms of ganja packed in 12 sacks. [@2,3] Police valued the ganja at Rs 1,20,29,000 and put the total seizure including three vehicles and eight phones at Rs 1,46,10,000. [@2]
