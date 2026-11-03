@@ -53,6 +53,11 @@ sources:
     publisher: RTV
     date: 2026-11-02
     language: bn
+  - title: দীর্ঘদিন ধরে সীমান্ত থেকে বিশেষ কায়দায় গাঁজা আনতেন নারী
+    url: https://rajshahirsomoy.com/19926
+    publisher: Rajshahir Somoy
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
   - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
@@ -65,11 +70,13 @@ open_questions:
   - No court outcome beyond filing of a Narcotics Control Act case at Sonargaon Police Station was reported.
   - The RTV page carries a lead image without caption or credit, so whether it shows this seizure could not be established and no media entry is added.
   - The RTV account says biscuit packets without naming the Lexus brand used in the existing report; that brand detail continues to rely on the earlier sources.
+  - The submitted talashbd.com capture contains only a 404 page, so no event details could be quoted from it directly.
+  - The Rajshahir Somoy page uses a generic template image reused across many stories, so no event photo is listed as media.
 ---
 
 SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
 allegedly smuggling cannabis concealed inside biscuit packets using a novel
-technique. [@1,3] An SRB-11 Sadar Company operational team in Narayanganj set up a
+technique. [@1,3,6] An SRB-11 Sadar Company operational team in Narayanganj set up a
 highway checkpoint on secret information and detained Aklima as she travelled
 disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2] The
 arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
@@ -86,4 +93,4 @@ organised drug-trafficking ring who had long collected large consignments of
 banned drugs from border areas and carried, supplied and sold them in
 Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1] A
 regular case has been filed against her at Sonargaon Police Station under the
-Narcotics Control Act. [@1,2,3,4,5]
+Narcotics Control Act. [@1,2,3,4,5,6]
