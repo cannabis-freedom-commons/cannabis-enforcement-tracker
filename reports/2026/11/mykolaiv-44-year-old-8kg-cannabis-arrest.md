@@ -34,6 +34,21 @@ media:
     media_url: https://korabelov.info/wp-content/uploads/2026/11/news-d7cfe4c6455a3a41138ee52c-1999a1e4e652cb16-780x470.webp
     publisher: Корабелов.ИНФО
     caption: Cannabis seized in the Mykolaiv drug-sale case
+  - kind: photo
+    url: https://nikvesti.com/news/incidents/325827-cholovik-prodavav-kanabis-sered-znaiomykh-mykolaievi-vyluchyly-8-kh
+    media_url: https://nikvesti.com/images/imageeditor/2026/11/2/325827/325827_6ae8ae075f3062_24198081_1500.webp
+    publisher: МикВісті
+    caption: 'Lead photo of cannabis seized in the Mykolaiv drug-sale case. Photo: National Police via NikVesti'
+  - kind: photo
+    url: https://nikvesti.com/news/incidents/325827-cholovik-prodavav-kanabis-sered-znaiomykh-mykolaievi-vyluchyly-8-kh
+    media_url: https://nikvesti.com/images/imageeditor/2026/11/2/325827/260x260/325827_6ae8ae07210425_50600252.webp
+    publisher: МикВісті
+    caption: 'Gallery photo of cannabis seized in the Mykolaiv drug-sale case. Photo: National Police via NikVesti'
+  - kind: photo
+    url: https://nikvesti.com/news/incidents/325827-cholovik-prodavav-kanabis-sered-znaiomykh-mykolaievi-vyluchyly-8-kh
+    media_url: https://nikvesti.com/images/imageeditor/2026/11/2/325827/260x260/325827_6ae8ae06b4fe42_75650527.webp
+    publisher: МикВісті
+    caption: 'Gallery photo of cannabis seized in the Mykolaiv drug-sale case. Photo: National Police via NikVesti'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b950642a0dbc4bbf79df1507d6a23f34
@@ -64,6 +79,11 @@ sources:
     publisher: Novosti-N
     date: 2026-11-02
     language: uk
+  - title: У Миколаєві затримали чоловіка за підозрою у продажу канабісу
+    url: https://nikvesti.com/news/incidents/325827-cholovik-prodavav-kanabis-sered-znaiomykh-mykolaievi-vyluchyly-8-kh
+    publisher: МикВісті
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its 2 November publication/announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
   - The weight is stated only as almost and about 8 kilograms and is recorded as 8 kg.
@@ -84,14 +104,14 @@ arranging meeting times and places with buyers. [@1] Officers documented two
 sales for which he received 1,800 and 3,000 hryvnias. [@1,2,5]
 
 During a search of his place of residence, officers seized almost 8 kilograms of
-cannabis kept at the home. [@1,2,3,4] Officers also seized electronic scales,
+cannabis kept at the home. [@1,2,3,4,6] Officers also seized electronic scales,
 packaging material, mobile phones and money found with the cannabis during the
 same home search. [@1,4,5]
 
 Police notified him of suspicion of illegal production, manufacture or storage
 for sale on an especially large scale or repeated sale of narcotics. [@1] A
 court ordered that he be held in custody with the possibility of posting 499,200
-hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5] The offence
-carries up to 12 years' imprisonment with confiscation of property. [@1,2,4]
+hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5,6] The offence
+carries up to 12 years' imprisonment with confiscation of property. [@1,2,4,6]
 
-He was detained immediately after another cannabis sale. [@2,4,5] Authorised searches were carried out both at his registered address and at his actual residence. [@2,4,5] The money seized included money in national and foreign currency. [@2]
+He was detained immediately after another cannabis sale. [@2,4,5,6] Authorised searches were carried out both at his registered address and at his actual residence. [@2,4,5] The money seized included money in national and foreign currency. [@2]
