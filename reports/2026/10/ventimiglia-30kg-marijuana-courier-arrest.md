@@ -33,6 +33,11 @@ sources:
     publisher: Sanremonews
     date: 2026-11-03
     language: it
+  - title: Sequestrati 30 chilogrammi di marijuana al valico di Ventimiglia, arrestato un corriere
+    url: https://www.grnet.it/sequestrati-30-chilogrammi-di-marijuana-al-valico-di-ventimiglia-arrestato-un-co/
+    publisher: GrNet News Sicurezza e Difesa
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
@@ -41,18 +46,17 @@ open_questions:
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
 stopped a car driven by an Italian man at the motorway border crossing entering
-Italy. [@1] The officers arrested the Italian driver for international
-trafficking in narcotic substances. [@2] The Imperia prosecutor's office assumed
-direction of the investigation. [@1] The man remains presumed innocent until any
+Italy. [@1,3] The officers arrested the Italian driver for international
+trafficking in narcotic substances. [@2,3] The Imperia prosecutor's office assumed
+direction of the investigation. [@1,3] The man remains presumed innocent until any
 final sentence. [@2]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
-bags containing 30 kilograms of marijuana. [@1] Officers also seized 2,700 euros
+bags containing 30 kilograms of marijuana. [@1,3] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1]
+and the car used for transport. [@1,3]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
-and gave contradictory, evasive accounts of a trip to Spain. [@1] The Guardia di
+and gave contradictory, evasive accounts of a trip to Spain. [@1,3] The Guardia di
 Finanza of Imperia conducted the operation as part of border controls against
 cross-border illicit trafficking. [@2]
-
