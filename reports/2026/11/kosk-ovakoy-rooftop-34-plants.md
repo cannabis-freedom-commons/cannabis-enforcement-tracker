@@ -25,6 +25,21 @@ sources:
     publisher: Aydın Kulis
     date: 2026-11-02
     language: tr
+  - title: Köşk'te kullanılmayan işletmede 34 kök kenevir ve uyuşturucu ele geçirildi
+    url: https://www.saraymedya.com/haber/kosk-te-kullanilmayan-isletmede-34-kok-kenevir-ve-uyusturucu-ele-gecirildi_320492/
+    publisher: Saray Medya
+    date: 2026-11-03
+    language: tr
+  - title: Aydın'da zehir tacirinden akılalmaz plan
+    url: https://sesgazetesi.com.tr/aydinda-zehir-tacirinden-akilalmaz-plan
+    publisher: Aydın Ses Gazetesi
+    date: 2026-11-03
+    language: tr
+  - title: Aydın’da kullanılmayan işletmenin çatısından uyuşturucu çıktı
+    url: https://www.aydindenge.com.tr/kosk/03/11/2026/aydinda-kullanilmayan-isletmenin-catisindan-uyusturucu-cikti
+    publisher: Aydın Denge
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The report uses the post's publication date of 2 November 2026 as the incident date because no separate date for the raid is given.
   - The nearly 2,000 grams of seized drug substance is not identified as cannabis, so it is excluded from kg_seized.
@@ -32,19 +47,23 @@ open_questions:
   - Only one source for this event could be opened; a search for a second report found no accessible corroboration.
   - The page carries photos with only generic image-of-text captions, so whether any photo shows this seizure is not established and no media entry is added.
   - Coordinates are for the Köşk district centre because a more precise location for the Ovaköy business was not published.
+  - The nearly 2,000 grams of seized drug substance is not identified as cannabis, so it is excluded from cannabis figures.
+  - Saray Medya and Aydın Denge name Aydın Cumhuriyet Başsavcılığı as coordinator while Ses Gazetesi names Efeler Cumhuriyet Başsavcılığı.
+  - No separate raid date is given; the existing report uses its publication date as the incident date.
+  - The pages carry photos whose captions only repeat the headline, so whether any photo shows this seizure is not established and no media entry is listed.
 ---
 
 Aydın Provincial Gendarmerie Command narcotics teams together with Köşk District
 Gendarmerie Command teams carried out an anti-drug operation against a business
-located in Ovaköy neighbourhood in Köşk district of Aydın province. [@1] During
+located in Ovaköy neighbourhood in Köşk district of Aydın province. [@1,2] During
 that operation officers detained E.G., described as 39 years old, and took the
-suspect into custody. [@1] Authorities then opened a judicial investigation
+suspect into custody. [@1,3] Authorities then opened a judicial investigation
 concerning the detained suspect. [@1]
 
 Officers searched the rooftop floor of the business and seized 34 cannabis
-plants there. [@1] The same rooftop search also yielded close to 2,000 grams of
+plants there. [@1,4] The same rooftop search also yielded close to 2,000 grams of
 a drug substance that the account does not identify as cannabis, together with
-two bong devices. [@1] The headline summary of the same operation likewise
+two bong devices. [@1,2] The headline summary of the same operation likewise
 reports 34 cannabis plants seized and one suspect detained. [@1]
 
 The account presents the Ovaköy business operation as part of continuing
@@ -52,4 +71,3 @@ anti-drug work in Aydın province, naming the provincial narcotics branch and th
 Köşk district teams as the participating units. [@1] It places the seizure on
 the roof of a commercial premises rather than in a field or residence, making
 that rooftop the specific site of the finds and the detention. [@1]
-
