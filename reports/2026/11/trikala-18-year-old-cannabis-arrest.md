@@ -44,6 +44,11 @@ sources:
     publisher: Trikala Online
     date: 2026-11-02
     language: el
+  - title: 'Τρίκαλα: Δύο κορίτσια, δύο συλλήψεις και μια νύχτα που προκαλεί ανησυχία'
+    url: https://www.trikalavoice.gr/%CF%84%CE%BF%CF%80%CE%B9%CE%BA%CE%AC/trikala-dyo-koritsia-dyo-syllipseis-kai-mia-nychta-pou-prokalei-anisychia/
+    publisher: TrikalaVoice
+    date: 2026-11-03
+    language: el
 open_questions:
   - No weight was published for the seized cannabis beyond describing it as a small amount.
   - No charges, custody status or court outcome were reported for the cannabis arrest.
@@ -51,10 +56,11 @@ open_questions:
   - The same page also reports a separate non-cannabis forgery and alcohol case involving a minor; figures here count only the cannabis arrest.
   - The page's lead image caption does not establish that it shows this arrest, so no media entry is added.
   - The page's lead image has no caption or alt text linking it to this arrest, so no media entry is added.
+  - The page's lead police image has no caption or alt text linking it to this arrest, so no media entry is added.
 ---
 
 On the evening of 1 November 2026, officers of the Trikala DIAS
-motorcycle-police unit arrested an 18-year-old Greek woman in Trikala. [@1,5] She
+motorcycle-police unit arrested an 18-year-old Greek woman in Trikala. [@1,5,6] She
 was caught possessing a small amount of dried, unprocessed cannabis. [@1,4,5]
 Officers seized the cannabis at the scene. [@2,4,5] Police handled the 18-year-old's
 arrest as a violation of narcotics legislation. [@2,4]
@@ -62,9 +68,9 @@ arrest as a violation of narcotics legislation. [@2,4]
 On the morning of the same day in Trikala, police arrested a minor Greek girl,
 and the Trikala Subdirectorate for the Prosecution and Investigation of Crimes
 opened a forgery case against her. [@1] The minor had been taken to hospital for
-first aid after consuming alcohol. [@1] Inquiries then found that she had
+first aid after consuming alcohol. [@1,6] Inquiries then found that she had
 earlier entered a shop and entertainment venue by showing a false identification
-document and had consumed alcohol there. [@1]
+document and had consumed alcohol there. [@1,6]
 
 The cannabis arrest occurred on the evening of Sunday, 1 November 2026, in
 Trikala. [@2,4] The person arrested in that cannabis case was 18 years old and the
