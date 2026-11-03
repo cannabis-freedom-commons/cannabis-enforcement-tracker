@@ -51,6 +51,11 @@ sources:
     publisher: Free Press Online
     date: 2026-11-03
     language: it
+  - title: Sorpreso in possesso di dosi di marijuana, arrestato 16enne
+    url: https://www.grandangoloagrigento.it/catania/sorpreso-in-possesso-di-dosi-di-marijuana-arrestato-16enne
+    publisher: GrandangoloAgrigento
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the evening stop and arrest, so 3 November 2026 is used as the incident date.
   - The reports do not say whether the woman driving the car was identified or investigated.
@@ -58,16 +63,16 @@ open_questions:
 
 State Police arrested a 16-year-old boy found with marijuana in Via Passo
 Gravina in Catania. [@1,3,4,5] An off-duty officer from the Librino commissariat
-noticed the boy in the evening while passing through the area. [@1,3] The boy,
+noticed the boy in the evening while passing through the area. [@1,3,6] The boy,
 dressed in black, was standing beside a small car with its engine running and
-driven by a woman, which made the officer suspicious. [@1] The boy then climbed
-over the gate of a house while the car drove away. [@1]
+driven by a woman, which made the officer suspicious. [@1,6] The boy then climbed
+over the gate of a house while the car drove away. [@1,6]
 
 The officer identified himself and called for help from a Flying Squad patrol.
 [@1,3] Despite a brief attempt to evade the check, the boy was stopped and found
-with five small bags of marijuana weighing 40 grams in total. [@1,3,4,5] He was
-arrested for possession of narcotics for the purpose of dealing. [@1]
+with five small bags of marijuana weighing 40 grams in total. [@1,3,4,5,6] He was
+arrested for possession of narcotics for the purpose of dealing. [@1,6]
 
 On the order of the public prosecutor at the Catania Juvenile Court, he was
-taken to the First Reception Centre. [@2,3,4,5] The second account states that the
+taken to the First Reception Centre. [@2,3,4,5,6] The second account states that the
 presumption of innocence applies until a final conviction. [@2]
