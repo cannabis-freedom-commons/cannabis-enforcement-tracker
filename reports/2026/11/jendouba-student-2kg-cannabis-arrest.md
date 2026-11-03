@@ -29,12 +29,20 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-03
     language: fr
+  - title: Arrestation d'un étudiant étranger en possession de 2 kg de cannabis à Jendouba - Kapitalis
+    url: https://kapitalis.com/tunisie/2026/11/03/arrestation-dun-etudiant-etranger-en-possession-de-2-kg-de-cannabis-a-jendouba/
+    publisher: Kapitalis
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The article gives no separate date for the ambush and arrest; 3 November 2026 is the publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in French.
   - The exact arrest location within Jendouba was not given, so coordinates are for the town centre.
   - The page photo is captioned only as Cannabis and is not established to show this seizure, so no media entry is included.
   - No court outcome beyond the detention warrant was reported; any charges or trial remain unknown.
+  - The article gives no separate date for the arrest; 3 November 2026 is its publication date and is used as the incident date.
+  - The Kapitalis account attributes the detention and investigation details to Mosaïque FM, the existing report's source, so it is not fully independent corroboration.
+  - The page image uses a September 2025 file-photo path and is not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the Research and Investigation Brigade of the National Guard in
@@ -44,12 +52,14 @@ prepared ambush to intercept him before any sale. [@1] The ambush had been
 organised in advance in coordination with the Tribunal de première instance de
 Jendouba, the local court of first instance. [@1] Officers intervened at the
 moment when the student was allegedly about to sell the drugs in a school
-environment. [@1]
+environment. [@1,3]
 
 During the operation officers found the student in possession of two kilogrammes
-of cannabis and seized the drugs. [@1,2] After the arrest the case passed to an
+of cannabis and seized the drugs. [@1,2,3] After the arrest the case passed to an
 investigating judge attached to the Jendouba Court of First Instance for further
 inquiry. [@1] The investigating judge issued a detention warrant against the
 19-year-old student and ordered his detention while the investigation continues.
-[@1,2] The detention keeps the student in custody under the authority of the
+[@1,2,3] The detention keeps the student in custody under the authority of the
 investigating judge. [@1]
+
+The investigation is continuing in particular to identify possible accomplices involved in the case. [@3]
