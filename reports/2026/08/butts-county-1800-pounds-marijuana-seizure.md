@@ -46,6 +46,10 @@ sources:
     url: https://www.freightwaves.com/news/georgia-authorities-intercept-1800-pounds-of-marijuana-in-shipment-headed-toward-atlanta-orlando
     publisher: FreightWaves
     date: 2026-08-26
+  - title: Nearly 900 pounds of marijuana headed to Florida seized in Georgia
+    url: https://wlos.com/news/nation-world/nearly-900-pounds-of-marijuana-headed-to-orlando-seized-in-georgia
+    publisher: WLOS
+    date: 2026-08-29
 open_questions:
   - The submitted CBS12 article says the marijuana was seized Monday morning, while FOX 5 Atlanta and FreightWaves place the interception and sheriff's statement on Tuesday; 25 August 2026 is used as the incident date.
   - How the marijuana entered the driver's trailer and who was responsible for loading it is not established.
@@ -61,13 +65,13 @@ Sacramento, California. [@2] Long said the driver will not be charged and will
 receive reward money, even though reporting the load cost him about $10,000 in
 freight pay. [@2] Authorities have not said who was expected to receive the
 marijuana in Orlando or announced arrests tied to the Florida-bound portion of
-the shipment. [@1]
+the shipment. [@1,4]
 
 Butts County authorities intercepted approximately 1,800 pounds (about 816 kg)
 of marijuana in Butts County on Tuesday morning. [@3] Long said the marijuana
 was seized after originating in Sacramento, California, where marijuana is
-legal. [@1] About half the shipment was headed to Atlanta, while the other half
-was destined for Orlando. [@1] The driver had already dropped off a legitimate
+legal. [@1,4] About half the shipment was headed to Atlanta, while the other half
+was destined for Orlando. [@1,4] The driver had already dropped off a legitimate
 portion of his delivery at a warehouse in Atlanta and was en route to Orlando
 when he made the discovery in Butts County. [@2]
 
@@ -80,4 +84,3 @@ medical patients but has not legalized recreational marijuana. [@1] Long's
 release does not identify a person or business connected to the shipment and
 does not announce arrests or charges. [@3] Long confirmed that deputies plan to
 burn all 1,800 pounds of the seized marijuana. [@2]
-
