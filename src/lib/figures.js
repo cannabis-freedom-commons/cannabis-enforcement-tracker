@@ -23,7 +23,8 @@ export function figureRows(f = {}) {
   if (f.arrested != null) rows.push({ key: "arrested", label: "Arrested", value: fmtNum(f.arrested) });
   if (f.charged != null) rows.push({ key: "charged", label: "Charged", value: fmtNum(f.charged) });
   if (f.plants_destroyed != null) rows.push({ key: "plants_destroyed", label: "Plants destroyed", value: fmtNum(f.plants_destroyed) });
-  if (f.hectares != null) rows.push({ key: "hectares", label: "Hectares", value: fmtNum(f.hectares) });
+  // with its unit, like the weight, so its tooltip can give it in acres
+  if (f.hectares != null) rows.push({ key: "hectares", label: "Area", value: `${fmtNum(f.hectares)} ha` });
   if (f.kg_seized != null) rows.push({ key: "kg_seized", label: "Cannabis", value: formatWeight(f.kg_seized) });
   if (f.prison) rows.push({ key: "prison", label: "Prison", value: f.prison });
   if (f.fine) rows.push({ key: "fine", label: "Fine", value: fmtMoney(f.fine) });

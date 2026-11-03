@@ -1,5 +1,6 @@
-// Weights and sums of money in a report's words, each explained in a tooltip by the glossary
-// (glossary.js): a metric weight in US pounds and ounces, any other weight in grams and kilograms,
+// Weights, areas, lengths and sums of money in a report's words, each explained in a tooltip by the
+// glossary (glossary.js): a metric measure in US units (pounds, acres, miles, feet), any other in
+// metric units (grams and kilograms, hectares and square metres, kilometres and metres),
 // and money in US dollars and euros at one day's exchange rates (src/data/exchange-rates.json,
 // refreshed by scripts/update-exchange-rates.mjs). "$", "Rs", "¥" and words like "rupees" or
 // "pesos" are read as the currency of the report's country.
@@ -63,7 +64,7 @@ const UNITS = [
   [["kilograms", "kilogrammes", "kilogram", "kilogramme", "kilos", "kilo", "kgs", "kg"], 1000, true, "kg"],
   [["grams", "grammes", "gram", "gramme", "gms", "gm", "g"], 1, true, "g"],
   [["milligrams", "milligram", "mg"], 0.001, true, "mg"],
-  [["metric tonnes", "metric tons", "metric ton", "tonnes", "tonne"], 1e6, true, "t"],
+  [["metric tonnes", "metric tons", "metric ton", "tonnes", "tonne", "t"], 1e6, true, "t"],
   [["pounds", "pound", "lbs", "lb"], 453.59237, false, "pound (lb)", "A pound (lb) is 453.6 grams."],
   [["ounces", "ounce", "oz"], 28.349523125, false, "ounce (oz)", "An ounce (oz) is 28.35 grams."],
   [["tons", "ton"], 907184.74, false, "ton", null],
@@ -73,7 +74,36 @@ const UNITS = [
   [["stones", "stone"], 6350.29318, false, "stone", "A stone is 14 pounds, 6.35 kilograms."],
   [["arrobas", "arroba"], 15000, false, "arroba", "An arroba, as used in Brazil, is 15 kilograms."],
 ];
-const unitOf = new Map(UNITS.flatMap((u) => u[0].map((word) => [word.toLowerCase(), u])));
+// areas: square metres per unit; lengths: metres per unit. As above, with the kind of measure last.
+// Lengths need the unit written out: a bare "m" is as often "million" ("5m plants").
+const AREAS = [
+  [["hectares", "hectare", "ha"], 1e4, true, "ha"],
+  [["square metres", "square meters", "square metre", "square meter", "sq m", "sq. m", "m2", "m²"], 1, true, "m2"],
+  [["square kilometres", "square kilometers", "square kilometre", "square kilometer", "sq km", "km2", "km²"], 1e6, true, "km2"],
+  [["acres", "acre"], 4046.8564224, false, "acres", "An acre is about 4,047 square metres, or 0.405 hectares."],
+  [["square feet", "square foot", "sq ft", "sq. ft", "ft2", "ft²"], 0.09290304, false, "sqft", "A square foot is about 0.093 square metres."],
+  [["square miles", "square mile", "sq mi"], 2589988.110336, false, "sqmi", "A square mile is about 2.59 square kilometres, or 640 acres."],
+  [["square yards", "square yard", "sq yd"], 0.83612736, false, "sqyd", "A square yard is about 0.836 square metres."],
+  [["rai"], 1600, false, "rai", "A rai, a Thai land measure, is 1,600 square metres."],
+  [["dunums", "dunum", "dunams", "dunam", "donums", "donum"], 1000, false, "dunum", "A dunum, used in the lands of the former Ottoman Empire, is about 1,000 square metres (2,500 in Iraq)."],
+  [["mu"], 666.667, false, "mu", "A mu, a Chinese land measure, is about 667 square metres."],
+  [["kanals", "kanal"], 505.857, false, "kanal", "A kanal, used in Pakistan and northern India, is about 506 square metres."],
+  [["marlas", "marla"], 25.2929, false, "marla", "A marla, a twentieth of a kanal, is about 25 square metres."],
+  [["feddans", "feddan"], 4200.83, false, "feddan", "A feddan, an Egyptian land measure, is about 4,200 square metres."],
+  [["manzanas", "manzana"], 6987, false, "manzana", "A manzana, used in Central America, is about 0.7 hectares."],
+  [["bighas", "bigha"], 1, false, "bigha"],
+].map((u) => [...u.concat(Array(5 - u.length).fill(null)), "area"]);
+const LENGTHS = [
+  [["kilometres", "kilometers", "kilometre", "kilometer", "kms", "km"], 1000, true, "km"],
+  [["metres", "meters", "metre", "meter"], 1, true, "m"],
+  [["centimetres", "centimeters", "centimetre", "centimeter", "cm"], 0.01, true, "cm"],
+  [["nautical miles", "nautical mile"], 1852, false, "nmi", "A nautical mile is 1,852 metres."],
+  [["miles", "mile"], 1609.344, false, "miles", "A mile is about 1.61 kilometres."],
+  [["feet", "foot", "ft"], 0.3048, false, "ft", "A foot is 0.3048 metres."],
+  [["yards", "yard", "yd"], 0.9144, false, "yd", "A yard is 0.9144 metres."],
+  [["inches", "inch"], 0.0254, false, "in", "An inch is 2.54 centimetres."],
+].map((u) => [...u.concat(Array(5 - u.length).fill(null)), "length"]);
+const unitOf = new Map([...UNITS, ...AREAS, ...LENGTHS].flatMap((u) => u[0].map((word) => [word.toLowerCase(), u])));
 // how a unit may be written: as listed; a whole word also capitalised ("Kilograms"), and kg and lb
 // also in capitals ("KG", "LBS"); never "G" or "M", which are networks, sizes and grades
 const unitForms = [...unitOf.keys()].flatMap((w) => [w, ...(w.length > 3 ? [w[0].toUpperCase() + w.slice(1)] : []), ...(["kg", "kgs", "lb", "lbs"].includes(w) ? [w.toUpperCase()] : [])]);
@@ -139,6 +169,44 @@ function weightRows(grams, written) {
   return rows.filter((r) => r[2] !== written).map(([label, value]) => [label, `≈ ${value}`]);
 }
 const FAMILY = { kg: "kg", g: "g", mg: "g", t: "t", "pound (lb)": "lb", "ounce (oz)": "oz", ton: "ton" };
+// an area in the units that suit its size, leaving out the one it is written in
+function areaRows(m2, written) {
+  const rows = [];
+  if (m2 >= 1e6) rows.push(["Square kilometres", `${big(m2 / 1e6)} km²`, "km2"]);
+  if (m2 >= 1000) rows.push(["Hectares", `${big(m2 / 1e4)} ha`, "ha"]);
+  if (m2 < 1e6) rows.push(["Square metres", `${big(m2)} m²`, "m2"]);
+  if (m2 >= 400) rows.push(["Acres", `${big(m2 / 4046.8564224)} acres`, "acres"]);
+  if (m2 < 2000) rows.push(["Square feet", `${big(m2 / 0.09290304)} sq ft`, "sqft"]);
+  if (m2 >= 2.59e6) rows.push(["Square miles", `${big(m2 / 2589988.110336)} sq miles`, "sqmi"]);
+  return rows.filter((r) => r[2] !== written).map(([label, value]) => [label, `≈ ${value}`]);
+}
+function lengthRows(m, written) {
+  const rows = [];
+  if (m >= 1000) rows.push(["Kilometres", `${big(m / 1000)} km`, "km"]);
+  if (m < 1000) rows.push(["Metres", `${big(m)} m`, "m"]);
+  if (m >= 500) rows.push(["Miles", `${big(m / 1609.344)} miles`, "miles"]);
+  if (m < 3000) rows.push(["Feet", `${big(m / 0.3048)} ft`, "ft"]);
+  return rows.filter((r) => r[2] !== written).map(([label, value]) => [label, `≈ ${value}`]);
+}
+// A bigha's size depends on the region (local land records give the exact figure)
+const BIGHAS = { in: [["Himachal Pradesh (about 809 m²)", 809.4], ["West Bengal and Assam (about 1,338 m²)", 1337.8], ["Rajasthan, Uttar Pradesh, Bihar (about 2,529 m²)", 2529.3]], np: [["Nepal (about 6,773 m²)", 6772.63]] };
+function areaEntry(written, amount, unit, country) {
+  const [, , metric, name, about] = unit;
+  if (name === "bigha") {
+    const sizes = BIGHAS[String(country ?? "").split("/")[0]] ?? [...BIGHAS.in, ...BIGHAS.np];
+    const rows = sizes.map(([where, m2]) => [where, `≈ ${big((amount * m2) / 1e4)} ha · ${big((amount * m2) / 4046.8564224)} acres`]);
+    return entry("area", written, "In other units", rows, "A bigha's size depends on the region; local land records give the exact figure.");
+  }
+  const rows = areaRows(amount * unit[1], name);
+  const defines = [rows.some(([l]) => l === "Acres") && "An acre is about 4,047 square metres.", rows.some(([l]) => l === "Square feet") && "A square foot is about 0.093 square metres.", rows.some(([l]) => l === "Square miles") && "A square mile is about 2.59 square kilometres."];
+  return entry("area", written, "In other units", rows, metric ? defines.filter(Boolean).join(" ") : about);
+}
+function lengthEntry(written, amount, unit) {
+  const [, , metric, name, about] = unit;
+  const rows = lengthRows(amount * unit[1], name);
+  const defines = [rows.some(([l]) => l === "Miles") && "A mile is about 1.61 kilometres.", rows.some(([l]) => l === "Feet") && "A foot is 0.3048 metres."];
+  return entry("length", written, "In other units", rows, metric ? defines.filter(Boolean).join(" ") : about);
+}
 function weightEntry(written, grams, unit, country) {
   const [, , metric, name, about] = unit;
   if (name === "ton") {
@@ -175,12 +243,15 @@ export function measureMatches(text, { country } = {}) {
     const [written, n, scaleWord, scaleShort, word] = m, scale = scaleWord ?? scaleShort;
     const unit = unitOf.get(word.toLowerCase());
     if (!unit) continue;
-    if (unit[3].startsWith("pound") && POUND_MONEY.test(s.slice(Math.max(0, m.index - 40), m.index + written.length + 16))) {
+    if (unit[3]?.startsWith("pound") && POUND_MONEY.test(s.slice(Math.max(0, m.index - 40), m.index + written.length + 16))) {
       const code = local(country) === "EGP" ? "EGP" : "GBP";
       add(m.index, written, moneyEntry(written, code, number(n, scale), scale));
       continue;
     }
-    add(m.index, written, weightEntry(written, number(n, scale) * unit[1], unit, country));
+    const amount = number(n, scale);
+    add(m.index, written, unit[5] === "area" ? areaEntry(written, amount, unit, country)
+      : unit[5] === "length" ? lengthEntry(written, amount, unit)
+      : weightEntry(written, amount * unit[1], unit, country));
   }
   return found.sort((a, b) => a.at - b.at);
 }

@@ -13,6 +13,8 @@ test('weights both ways: metric in pounds and ounces, others in grams and kilogr
   assert.match(tip('500 g'), /Pounds: ≈ 1\.1 lb; Ounces: ≈ 17\.6 oz/);
   assert.match(tip('562 pounds'), /Kilograms: ≈ 255 kg/);
   assert.match(tip('37 quintals'), /Tonnes: ≈ 3\.7 t/);
+  assert.deepEqual(found('Cannabis 4 t, 2.5 t seized; 4th raid, T-shirts'), ['4 t', '2.5 t']);
+  assert.match(tip('4 t'), /Pounds: ≈ 8,820 lb/);
   assert.match(tip('5 tons', 'us'), /^If US tons \(2,000 lb\): ≈ 4\.54 t/);
   assert.match(tip('5 tons', 'ph'), /^If metric tonnes: ≈ 5 t/);
 });
@@ -59,4 +61,15 @@ test('a currency named with its nationality is read as that currency', () => {
   assert.equal(rows('500 Australian dollars', 'nz')[0][0], 'Australian Dollar');
   assert.equal(rows('5,000 Indian rupees', 'pk')[0][0], 'Indian Rupee');
   assert.deepEqual(found('Police said 300 dollars', 'ca'), ['300 dollars']);
+});
+
+test('areas and lengths both ways, and a bigha by region', () => {
+  assert.deepEqual(found('456 hectares, a 10-acre farm, 63 square metres, 16 dunums, 4 mu, 35 miles, a 200-metre road'), ['456 hectares', '10-acre', '63 square metres', '16 dunums', '4 mu', '35 miles', '200-metre']);
+  assert.match(tip('456 hectares'), /Acres: ≈ 1,130 acres/);
+  assert.match(tip('125 acres'), /Hectares: ≈ 50\.6 ha/);
+  assert.match(tip('63 square metres'), /Square feet: ≈ 678 sq ft/);
+  assert.match(tip('35 miles'), /Kilometres: ≈ 56\.3 km/);
+  assert.match(tip('27 kilometres'), /Miles: ≈ 16\.8 miles/);
+  assert.deepEqual(rows('235 bighas', 'in').map(([l]) => l.split(' (')[0]), ['Himachal Pradesh', 'West Bengal and Assam', 'Rajasthan, Uttar Pradesh, Bihar']);
+  assert.deepEqual(found('5m plants and 15 m from the road', 'in'), []);
 });
