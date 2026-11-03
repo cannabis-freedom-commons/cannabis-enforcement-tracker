@@ -141,6 +141,11 @@ sources:
     publisher: iNews Medan
     date: 2026-10-31
     language: id
+  - title: Satresnarkoba Polrestabes Medan Gerebek Gudang Penyimpanan Narkoba Berkedok Kandang Ayam
+    url: https://www.posmetromedan.id/medan/14917/satresnarkoba-polrestabes-medan-gerebek-gudang-penyimpanan-narkoba-berkedok-kandang-ayam/
+    publisher: POSMETRO MEDAN
+    date: 2026-10-30
+    language: id
 open_questions:
   - No court date or formal charge was reported; the two arrested men are described as suspects.
   - No estimate of the cannabis's street value was published.
@@ -158,14 +163,14 @@ open_questions:
 ---
 
 Narcotics detectives at Medan city police raided a warehouse disguised as a
-chicken coop in Deli Serdang on the night of Wednesday 28 October 2026. [@1,10,13] The
-coop stood in Desa Marindal I, Patumbak, Deli Serdang. [@3,5,6,8,10,11,12,15,16,17,18,19] Police arrested two
-close friends and seized 18 kg of dried cannabis. [@1,5,6,7,8,10,13,15,18] Police identified the two
+chicken coop in Deli Serdang on the night of Wednesday 28 October 2026. [@1,10,13,20] The
+coop stood in Desa Marindal I, Patumbak, Deli Serdang. [@3,5,6,8,10,11,12,15,16,17,18,19,20] Police arrested two
+close friends and seized 18 kg of dried cannabis. [@1,5,6,7,8,10,13,15,18,20] Police identified the two
 as MF, 28, of Jalan Cinta Karya in Medan Polonia, and DS, 19, of Jalan Bajak V
 in Medan. [@3,12,15] MF was caught in the parking area of a fast-food restaurant on
-Jalan AH Nasution in Medan with 2 ons, or 200 grams, of dried cannabis. [@1,9,10,12,13,15,18,19] DS
-was caught on Jalan Brigjen Katamso with 1 kg of cannabis. [@1,5,9,10,11,13,16,17,18,19] Officers found
-another 17 kg of dried cannabis in a safety box inside the coop. [@3,5,6,8,9,10,11,12,13,15,16,17,18,19]
+Jalan AH Nasution in Medan with 2 ons, or 200 grams, of dried cannabis. [@1,9,10,12,13,15,18,19,20] DS
+was caught on Jalan Brigjen Katamso with 1 kg of cannabis. [@1,5,9,10,11,13,16,17,18,19,20] Officers found
+another 17 kg of dried cannabis in a safety box inside the coop. [@3,5,6,8,9,10,11,12,13,15,16,17,18,19,20]
 
 The coop was remote and far from houses. [@2,7,8,9,11,13,15,17] Police said the building did not
 look suspicious from outside because it resembled an ordinary house. [@2,5,6,8,11,12,14,15,17] Police
