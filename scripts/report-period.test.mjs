@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { readPeriod, changePeriod, rangePeriod, periodLabel } from '../src/scripts/report-period.js';
+import { readPeriod, changePeriod, rangePeriod, periodLabel, recentPeriodBounds } from '../src/scripts/report-period.js';
 
 test('calendar links override recent presets, including older shared links', () => {
   assert.deepEqual(readPeriod(new URLSearchParams('range=30d&year=2023&month=07'), '30d'), {
@@ -70,4 +70,17 @@ test('calendar periods are labelled for the time switch', () => {
   assert.equal(periodLabel({ year: '2023' }), '2023');
   assert.equal(periodLabel({ month: '07' }), 'July, every year');
   assert.equal(periodLabel({}), 'Custom');
+});
+
+
+test('recent windows include valid dates ahead of UTC without admitting days still future worldwide', () => {
+  const now = Date.parse('2026-11-03T19:53:47Z');
+  for (const days of [1, 7, 30, 365]) {
+    const { start, end } = recentPeriodBounds(days, now);
+    assert.ok('2026-11-04' >= start && '2026-11-04' <= end, 'Gurugram local date must remain visible');
+    assert.ok('2026-11-05' > end);
+  }
+  assert.equal(recentPeriodBounds(30, Date.parse('2026-11-03T09:59:59Z')).end, '2026-11-03');
+  assert.equal(recentPeriodBounds(30, Date.parse('2026-11-03T10:00:00Z')).end, '2026-11-04');
+  assert.equal(recentPeriodBounds(30, Date.parse('2026-12-31T19:00:00Z')).end, '2027-01-01');
 });

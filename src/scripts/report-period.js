@@ -4,6 +4,15 @@ const presets = new Set(["24h", "7d", "30d", "1y", "all"]);
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 const LONG_MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
+// Incident dates are local calendar days, not UTC timestamps. UTC+14 is the
+// furthest-ahead civil timezone; its current day is already valid somewhere.
+export function recentPeriodBounds(days, now = Date.now()) {
+  return {
+    start: new Date(now - days * 864e5).toISOString().slice(0, 10),
+    end: new Date(now + 14 * 3600e3).toISOString().slice(0, 10),
+  };
+}
+
 // Calendar links take precedence over legacy rolling-window parameters. Never
 // intersect a chosen calendar date with an invisible recent-period restriction.
 // allowRange: the page has a From–To control (the map), so ?from= and ?to= are read; elsewhere they

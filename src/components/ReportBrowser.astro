@@ -113,7 +113,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   import { loadIndex, inCountry, type Row } from "../scripts/report-index";
   import { yearsHTML, appendYears } from "../scripts/report-years.js";
   import { reportTimeline, timelineSelection, axisTicks, brushRange } from "../scripts/report-timeline.js";
-  import { readPeriod, changePeriod, rangePeriod, periodLabel } from "../scripts/report-period.js";
+  import { readPeriod, changePeriod, rangePeriod, periodLabel, recentPeriodBounds } from "../scripts/report-period.js";
   import { timelineTooltip } from "../scripts/report-timeline-tooltip.js";
   import { reportDay, compareReports } from "../lib/report-time.js";
   import { imageProxy } from "../lib/media.js";
@@ -138,7 +138,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   $("tag").value = $("tag").value.trim().toLowerCase();
   let updateTags: ((rows: Row[]) => void) | undefined;
   // One Time control owns both rolling periods and calendar selections.
-  // incident dates are days, so the last 24 hours are the reports dated yesterday or today (UTC)
+  // Relative windows include calendar dates already reached in any local timezone.
   const RANGES: Record<string, number> = { "24h": 1, "7d": 7, "30d": 30, "1y": 365, all: 0 };
   const DEFAULT_RANGE = list.closest(".compact") ? "30d" : "all";
   let period = readPeriod(params, DEFAULT_RANGE, { allowRelative: !byYear, allowRange: onMap });
@@ -162,7 +162,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     }
   };
   setPeriod(period);
-  const since = () => (RANGES[range] ? new Date(Date.now() - RANGES[range] * 864e5).toISOString().slice(0, 10) : "");
+  const since = () => (RANGES[range] ? recentPeriodBounds(RANGES[range]).start : "");
 
   // the map's legend shows which types are on; on a phone, the Filters button counts what is set;
   // under the bar, a row names every filter in force (each with a × that drops it) and the count
@@ -226,7 +226,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       && (!country || inCountry(r, country))
       && (!year || date.startsWith(year)) && (!month || date.slice(5, 7) === month)
       && (!period.from || date >= period.from) && (!period.to || date <= period.to)
-      && (!since() || (date >= since() && date <= new Date().toISOString().slice(0, 10)))
+      && (!since() || (date >= since() && date <= recentPeriodBounds(RANGES[range]).end))
       && (skipDay || !day || date === day)
       && (skipTag || hasTag(r, $("tag").value))
       && q.every((w) => haystack.get(r)!.includes(w));
@@ -285,9 +285,12 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     const longHistory = dates.length > 0 && Number(dates.at(-1)!.slice(0, 4)) - Number(dates[0].slice(0, 4)) >= 5;
     const yearly = custom ? span > 6 * 366 : range === "all" && !$("year").value && !daily && longHistory;
     const dayCalendar = !custom && day && range !== "24h" && range !== "7d" && range !== "30d";
+    // Extend only for actual local-date reports, without an empty tomorrow bar.
+    const lastLocal = dates.filter(d => d <= recentPeriodBounds(0).end).at(-1) || today;
+    const chartEnd = lastLocal > today ? lastLocal : today;
     const series = reportTimeline(matching, {
       dateOf,
-      start: custom ? first : since(), end: custom ? last : today,
+      start: custom ? first : since(), end: custom ? last : chartEnd,
       year: $("year").value || (dayCalendar ? day.slice(0, 4) : ""),
       month: $("month").value || (dayCalendar ? day.slice(5, 7) : ""), daily, yearly,
     });
