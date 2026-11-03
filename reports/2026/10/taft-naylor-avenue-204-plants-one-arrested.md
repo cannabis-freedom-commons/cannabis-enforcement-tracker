@@ -39,6 +39,10 @@ sources:
     url: https://bakersfieldnow.com/news/local/kcso-204-marijuana-plants-eradicated-in-taft-search-warrant-one-arrested-kern-county-sheriffs-office-californiataft-search-warrant-arrest
     publisher: BakersfieldNow
     date: 2026-10-23
+  - title: 'KCSO: 204 marijuana plants eradicated in Taft search warrant, one arrested'
+    url: https://bakersfieldnow.com/newsletter-daily/gallery/kcso-204-marijuana-plants-eradicated-in-taft-search-warrant-one-arrested-kern-county-sheriffs-office-californiataft-search-warrant-arrest
+    publisher: BakersfieldNow
+    date: 2026-10-23
 open_questions:
   - The KGET account says the warrant was in the 200 block of Naylor Street while BakersfieldNow and the KGET image filenames say Naylor Avenue; the report uses Avenue.
   - No weight, value, growing area, or property description was published for the 204 plants.
@@ -55,12 +59,11 @@ was booked into the Kern County Sheriff’s Office Lerdo Justice Facility. [@2]
 Deputies assigned to the Sheriff’s Office Taft Substation executed a search
 warrant on October 22, 2026, in the 200 block of Naylor Avenue in Taft. [@2]
 During that search, deputies found a total of 204 marijuana plants and
-eradicated them. [@1]
+eradicated them. [@1,3]
 
 The Sheriff’s Office reported the Taft search-warrant operation as resulting in
-both the eradication of 204 marijuana plants and the arrest of one person. [@1]
+both the eradication of 204 marijuana plants and the arrest of one person. [@1,3]
 The Taft Substation deputies carried out the October 22 warrant entry that
 produced the seizure and arrest. [@2] The 204-plant total was the Sheriff’s
 Office figure for marijuana plants eradicated during the Naylor block search.
 [@2]
-
