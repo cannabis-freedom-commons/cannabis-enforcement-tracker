@@ -36,10 +36,14 @@ sources:
     publisher: Global Voices
     url: https://globalvoices.org/2015/05/06/death-penalty-debate-rages-on-after-indonesia-executes-drug-convicts/
     date: 2015-05-06
+  - title: Marijuana trafficker gets death sentence
+    publisher: The Jakarta Post (via Jawawa)
+    url: https://jawawa.id/newsitem/marijuana-trafficker-gets-death-sentence-1447893297
+    date: 2001-12-14
 ---
 
 Indonesia executed eight convicted drug smugglers by firing squad on Nusa Kambangan island in Central Java in the early hours of 29 April 2015. [@1] Seven were foreign nationals, including two Australians of the Bali Nine group, and the eighth was Zainal Abidin, the only Indonesian on the condemned list. [@1] A Filipina prisoner, Mary Jane Veloso, was spared, and a Frenchman's execution was delayed while his legal challenge continued. [@1]
 
-Zainal Abidin was the only Indonesian on death row and the only convict executed for cannabis, which he possessed in the amount of 58.7 kilograms. [@2] He had been charged with marijuana possession and first sentenced to 18 years before receiving a death sentence. [@3]
+Zainal Abidin was the only Indonesian on death row and the only convict executed for cannabis, which he possessed in the amount of 58.7 kilograms. [@2] He had been charged with marijuana possession and first sentenced to 18 years before receiving a death sentence. [@3] Police had arrested him with accomplice Aldo bin Hasan Umar on 25 December 2000 on a tip from neighbours, and the Palembang District Court sentenced Aldo to 20 years the previous September; Aldo did not appeal. [@4]
 
 His case-review petition, filed in 2005, lay buried among other documents until the Supreme Court examined it in 2015, with the chief justice admitting the delay was the court's own fault. [@2] The court issued its decision on 27 April 2015, two days before the execution, after Abidin had already been moved to an isolation cell. [@2] A day after the execution, reports surfaced that his clemency file had been misplaced by the Palembang District Court. [@3]
