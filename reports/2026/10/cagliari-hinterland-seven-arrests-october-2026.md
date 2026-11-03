@@ -55,6 +55,11 @@ sources:
     publisher: Sardiniapost.it
     date: 2026-11-02
     language: it
+  - title: 'Hashish con il marchio Sardegna: maxi operazione della polizia, indagini sulla rete dello spaccio nel Cagliaritano'
+    url: https://www.cagliaritoday.it/cronaca/cagliari-spaccio-hashish-marchio-droga.html
+    publisher: CagliariToday
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -71,19 +76,21 @@ open_questions:
   - The two new pages give no separate date for the Stampace seizure beyond their 2 November 2026 publication dates.
   - The Sardiniapost page gives only its 2 November 2026 publication date and no separate day for the Stampace operation, so the 15 October date continues to rely on earlier sources in the existing report.
   - The page lists a droga-nel-frigo image with empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
+  - The submitted page gives only the combined figure of about 16 kg of mixed substances including cocaine, so the separable cannabis total continues to rely on earlier sources.
+  - Whether the two page photos show this seizure could not be established from their captions, so no media entry is added.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1,2,3,4] On 9 October investigators arrested a 19-year-old from Elmas
+Quartucciu. [@1,2,3,4,8] On 9 October investigators arrested a 19-year-old from Elmas
 carrying about 70 grams of cannabis. [@1,2,4] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
 6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3,5,6,7] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1,2,3,4] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2,3,4,8] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
-for retail and supply to other dealers. [@1]
+for retail and supply to other dealers. [@1,8]
 
 On 27 October police arrested a young man in Quartu Sant'Elena after finding
 more than 320 grams of hashish and marijuana under his bed together with 6,000
