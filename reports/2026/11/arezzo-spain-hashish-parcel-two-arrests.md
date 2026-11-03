@@ -39,22 +39,29 @@ sources:
     publisher: Saturno Notizie
     date: 2026-11-03
     language: it
+  - title: Sequestrati 4 kg di hashish provenienti dalla Spagna
+    url: https://www.noitv.it/2026/11/sequestrati-4-kg-di-hashish-provenienti-dalla-spagna-793319/
+    publisher: NoiTV
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
   - No court outcome beyond house arrest was reported.
   - The page photographs carry no captions or credits, so identification of what each shows relies on page context.
+  - The submitted source rounds the seizure to more than 4 kilograms while the existing report uses 4,140 grams from the other accounts.
+  - The page includes an image and an embedded video, but with empty captions, alt text and image metadata that do not establish they show this seizure, so no media entry is added.
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
 4 kg of hashish and arrested two people. [@1] The two people stopped were one
-Italian national and one Albanian national. [@2] Officers had flagged two
+Italian national and one Albanian national. [@2,3] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1] The two were stopped as they collected the
+of residents in Arezzo province. [@1,3] The two were stopped as they collected the
 parcels, which concealed 4,140 grams of hashish that officers seized. [@1] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1]
+under house arrest. [@1,3]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1]
@@ -63,4 +70,3 @@ Guardia di Finanza, Italy's financial police, said the operation showed its
 commitment to upholding legality as a force present in the area. [@1] The press
 release was authorised by the Arezzo public prosecutor. [@2] The suspects are
 presumed innocent pending a final judgment. [@2]
-
