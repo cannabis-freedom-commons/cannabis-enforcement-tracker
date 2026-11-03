@@ -40,6 +40,11 @@ sources:
     publisher: Lada.kz
     date: 2026-11-03
     language: ru
+  - title: Международный наркоканал пресекли в Каспийском море
+    url: https://24.kz/amp/ru/news/incidents/803597-mezhdunarodnyj-narkokanal-presekli-v-kaspijskom-mor
+    publisher: 24KZ
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The 87 kg cannabis total is the sum of the separately stated 27 kg of hashish and 60 kg of marijuana; the 22 kg of opium from the same operation is excluded from cannabis figures.
   - The names, ages, detailed nationalities and procedural status of the five detained people were not published.
@@ -49,19 +54,19 @@ open_questions:
 ---
 
 Kazakhstan's National Security Committee said an international drug channel
-operating in the Caspian Sea waters had been eliminated. [@2,3] On 1 November, the
+operating in the Caspian Sea waters had been eliminated. [@2,3,4] On 1 November, the
 Border Service together with the committee's Mangistau Region department
-detained three foreigners who tried to flee pursuit on a watercraft. [@2,3] Two
-Kazakh citizens were detained in the coastal area in the same operation. [@1,3]
+detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4] Two
+Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4]
 The committee presented the detentions on the water and on the coast as parts of
 the same operation. [@1]
 
-Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3]
+Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4]
 The two cannabis seizures together amount to 87 kg of cannabis covered by this
 report. [@2] Officers also seized 22 kg of opium and a small fast boat alongside
-the cannabis. [@1,3]
+the cannabis. [@1,3,4]
 
-A pre-trial investigation was opened into the case. [@2,3] The committee said
+A pre-trial investigation was opened into the case. [@2,3,4] The committee said
 further information cannot be disclosed under part 1 of article 201 of the
 Criminal Procedure Code. [@2] The committee published the announcement on 3
 November 2026. [@2] The announcement was issued by the committee's press
