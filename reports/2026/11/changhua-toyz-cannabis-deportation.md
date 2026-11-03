@@ -84,6 +84,11 @@ sources:
     publisher: 太報
     date: 2026-11-03
     language: zh
+  - title: Toyz假釋出獄了！移民署強制驅逐出境　登機回香港「落寞背影」曝光
+    url: https://www.mirrormedia.mg/story/20261103edi029
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -94,14 +99,15 @@ open_questions:
   - The page's lead image caption repeats the headline without credit or operation detail, so it is not established as showing this deportation and no media entry is added.
   - The submitted page carries an immigration-agency handout photo captioned as the parole escort, which appears to duplicate the Changhua task-force handout already listed in the existing report, so no new media entry is added.
   - The submitted page names Liu's girlfriend as 篠崎泫 and repeats a Mirror Weekly claim of an in-prison marriage, which the existing report leaves unconfirmed and is not added as a verified fact.
+  - The submitted page's three immigration-agency handout photos appear to duplicate the Changhua task-force handout already listed in the existing report, so no new media entry is added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
 supervision on 20 October. [@2,4,5,7,8,9]
 
