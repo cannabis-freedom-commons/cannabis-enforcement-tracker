@@ -23,6 +23,10 @@ sources:
     url: https://en.vijesti.me/news-b/black-chronicle/834633/Four-people-prosecuted-for-drug-abuse--vehicle-temporarily-seized
     publisher: Vijesti
     date: 2026-11-03
+  - title: Four people prosecuted for drug abuse, vehicle temporarily seized
+    url: https://en.vijesti.me/amp/834633/zbog-zloupotrebe-droga-procesuirane-cetiri-osobe-privremeno-oduzeto-vozilo
+    publisher: Vijesti
+    date: 2026-11-03
 open_questions:
   - No weight or amount of marijuana seized was published, only that a smaller amount was found on VM, so no cannabis quantity can be recorded.
   - The article gives no separate date for the checks, arrests or complaints; 3 November 2026 is its publication date and is used as the incident date.
@@ -34,12 +38,12 @@ open_questions:
 
 Nikšić police arrested two people for possession of marijuana, while criminal
 charges were filed against two others over suspected unauthorized production and
-trafficking of the drug or facilitating its consumption. [@1] Misdemeanor
+trafficking of the drug or facilitating its consumption. [@1,2] Misdemeanor
 charges were filed against KA from Nikšić and VM from Kotor after marijuana was
-found in their possession during checks. [@1] KA was deprived of liberty and
+found in their possession during checks. [@1,2] KA was deprived of liberty and
 charged in summary proceedings at the Misdemeanor Court in Podgorica - Nikšić
 Department, while the high-class vehicle he was driving was temporarily seized
-for further checks. [@1]
+for further checks. [@1,2]
 
 Police said a smaller amount of marijuana was also found on VM, who was in the
 company of NM, who is of operational interest. [@1] VM was arrested and a
@@ -49,7 +53,6 @@ filed two criminal complaints against two more people. [@1]
 
 A criminal complaint for suspected unauthorized production, possession and
 distribution of narcotics was filed against SH from Nikšić, whom police describe
-as close to members of an organized criminal group. [@1] A criminal complaint
+as close to members of an organized criminal group. [@1,2] A criminal complaint
 for suspected facilitating consumption of narcotic drugs was filed against MB,
-also from Nikšić. [@1]
-
+also from Nikšić. [@1,2]
