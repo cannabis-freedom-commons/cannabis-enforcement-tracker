@@ -42,6 +42,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-03
     language: hi
+  - title: वाशिम जिले में किसान के खेत में उग रहा था गांजा, पुलिस ने छापेमारी कर 15 किलो से ज्यादा मादक पदार्थ जब्त किया
+    url: https://navbharatlive.com/amp/story/maharashtra/washim/crime-news-washim-police-raid-illegal-ganja-farming-ratanwadi-manora-pmy20
+    publisher: Navbharat Live
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate day for the raid; 3 November 2026 is used as the incident date.
   - No figure for the number of cannabis plants or the cultivated area was published, only the seized processed weight.
@@ -50,12 +55,14 @@ open_questions:
   - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The Navarashtra page labels its lead image as a courtesy AI Gemini photo, so no media entry is added.
   - Whether the lead photo captioned Manora Police Raid Ganja shows this seizure could not be established from its caption and credit, so no media entry is added.
+  - The submitted AMP URL is the same Navbharat Live article as the canonical URL already cited in the existing report, not a separate account.
+  - The article gives only its publication date of 3 November 2026 and no separate day for the raid.
 ---
 
 Police detained Narayan Kisan Vyavahare, a 70-year-old farmer associated with a
-farm in Ratanwadi village, in connection with illegal cannabis cultivation. [@1,2,3,4,5]
+farm in Ratanwadi village, in connection with illegal cannabis cultivation. [@1,2,3,4,5,6]
 Manora Police registered a case under relevant sections of the law and began
-further investigation. [@1,3] Investigators are trying to establish how long the
+further investigation. [@1,3,6] Investigators are trying to establish how long the
 cultivation had been taking place and whether other individuals or gangs were
 involved. [@1] Police are also examining the purpose of the cultivation, whether
 the marijuana was intended for sale, and possible links to a wider drug network.
@@ -70,7 +77,7 @@ Thackeray, Station House Officer Naina Pohekar and Tehsildar Rajendra Patil.
 [@1]
 
 During the operation, police recovered and seized a total of 15 kg and 225 grams
-of marijuana. [@1,2,3,4,5] Police put the estimated market value of the seized
-contraband at Rs 2,26,500. [@1,2,4,5] The case was registered on the accused farmer's
+of marijuana. [@1,2,3,4,5,6] Police put the estimated market value of the seized
+contraband at Rs 2,26,500. [@1,2,4,5,6] The case was registered on the accused farmer's
 statement, and police said more details would emerge as the investigation
 progresses. [@1]
