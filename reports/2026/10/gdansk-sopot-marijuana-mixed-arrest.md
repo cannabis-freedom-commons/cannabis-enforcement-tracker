@@ -50,6 +50,11 @@ sources:
     publisher: Policja Pomorska
     date: 2026-11-03
     language: pl
+  - title: Ponad 30 kg narkotyków i kanister płynnej amfetaminy. Kryminalni zatrzymali dwóch mężczyzn
+    url: https://www.kryminalki.pl/artykul/36602,ponad-30-kg-narkotykow-i-kanister-plynnej-amfetaminy-kryminalni-zatrzymali-dwoch-mezczyzn
+    publisher: kryminalki.pl
+    date: 2026-11-03
+    language: pl
 open_questions:
   - No separate cannabis-only weight was published; the figure of more than 30 kilograms covers all seized drugs together and is therefore excluded from cannabis figures.
   - The tens of grams reported from the Chełm flat covers marijuana, cocaine and klefedron together, so no marijuana-only amount can be recorded.
@@ -64,11 +69,11 @@ open_questions:
 ---
 
 Gdańsk detectives detained two local men aged 43 and 44 suspected of trading
-banned substances, one of whom was additionally wanted to serve a sentence. [@1,2,5]
+banned substances, one of whom was additionally wanted to serve a sentence. [@1,2,5,6]
 On Friday 30 October, officers established that one of the suspects was in Sopot
 and drove there to check. [@1,2,5] Just before 4 pm, officers spotted the wanted
 44-year-old on aleja Niepodległości, detained him and searched his flat in
-Chełm, a district of Gdańsk. [@1,2,5] Just after 6 pm, officers stopped the second
+Chełm, a district of Gdańsk. [@1,2,5,6] Just after 6 pm, officers stopped the second
 man near his address and searched his flat, where they found considerably more
 drugs. [@1] Both detainees were brought to the Gdańsk-Śródmieście district
 prosecutor's office, the local prosecution authority for central Gdańsk, where
@@ -78,10 +83,10 @@ drugs. [@1,3,5] Both men were placed under arrest after being detained. [@1,3]
 In the Chełm flat, officers found and secured tens of grams including marijuana,
 cocaine and klefedron. [@1,5] Police said the seized banned substances included
 ecstasy tablets, amphetamine, methamphetamine, marijuana, cocaine, klefedron and
-a canister with liquid amphetamine. [@1,5] Police put the combined weight of the
+a canister with liquid amphetamine. [@1,5,6] Police put the combined weight of the
 various seized drugs at more than 30 kilograms and handed the material to a
 court expert, who examined only part of it for a preliminary opinion because of
-its volume. [@1,2,5]
+its volume. [@1,2,5,6]
 
 Officers from the Orunia police station prepared the collected evidence and
 procedural documentation. [@1] The 44-year-old must additionally serve 1 year
