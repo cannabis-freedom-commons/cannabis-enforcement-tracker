@@ -39,6 +39,11 @@ sources:
     publisher: ioannina24.gr
     date: 2026-11-03
     language: el
+  - title: 'Λέσβος: Συνελήφθη ανήλικος για κατοχή και διακίνηση ναρκωτικών - στο Καρφί'
+    url: https://www.tokarfi.gr/lesvos-synelifthi-anilikos-gia-katochi-kai-diakinisi-narkotikon/
+    publisher: στο Καρφί
+    date: 2026-11-03
+    language: el
 open_questions:
   - No weight was published for the seized cannabis, described only as a small amount of hashish or unprocessed cannabis.
   - The 36.72 grams in 54 packages is cocaine and is excluded from cannabis figures, so no cannabis weight is recorded.
@@ -50,19 +55,19 @@ open_questions:
 Mytilene drug-squad officers arrested a 17-year-old accused of possessing and
 trafficking drugs on Saturday 31 October 2026 in the wider Mytilene area of
 Lesbos. [@3,4] The boy's parents were also arrested for alleged neglect of
-supervision of a minor. [@2] The preliminary investigation was carried out by
+supervision of a minor. [@2,5] The preliminary investigation was carried out by
 the Drug Prosecution Department of the Mytilene Subdivision for Prosecution and
-Clearance of Crimes. [@1]
+Clearance of Crimes. [@1,5]
 
 The case came to light during a police check when officers found a small amount
 of hashish, described as unprocessed cannabis, in the minor's possession. [@1] A
 follow-up search of his home found 54 nylon packages containing cocaine with a
-total weight of 36.72 grams, along with a precision electronic scale. [@1]
+total weight of 36.72 grams, along with a precision electronic scale. [@1,5]
 Officers seized the drugs, the precision scale and a mobile phone the teenager
 had in his possession. [@3] Police described the cannabis only as a small amount
 and published no weight for it, while the 36.72-gram figure is the police count
-for the cocaine. [@1]
+for the cocaine. [@1,5]
 
 Police allege the teenager held the substances to supply them to third parties
-for payment. [@1,4] A case file was opened against his parents for neglect of
+for payment. [@1,4,5] A case file was opened against his parents for neglect of
 supervision of a minor. [@3]
