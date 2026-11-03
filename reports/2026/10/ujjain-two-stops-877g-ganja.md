@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.877
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f9b2d45de9543d939f077361cd09afa4
 tags: [ujjain, madhya-pradesh, ganja, ndps-act]

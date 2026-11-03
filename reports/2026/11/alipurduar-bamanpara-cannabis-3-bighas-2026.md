@@ -12,7 +12,7 @@ summary: >-
   Alipurduar police destroyed illegal cannabis cultivation spread across 3 bighas at Bamanpara village on 2 November 2026. Landowners Parimal Karjee and Tapas Karjee fled the raid and police said a search for them was under way.
 figures:
   hectares: 0.4
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f6b4f22813a0390fbb6697ec1ca04aff
 tags: [alipurduar, west-bengal, ganja, eradication]

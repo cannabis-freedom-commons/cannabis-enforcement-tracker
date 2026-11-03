@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 152
   kg_seized: 774.075
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4a6e03e44ff828229cf1159534a6a204
 tags: [ivory-coast, abidjan, vacances-securisees, fumoirs]

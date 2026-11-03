@@ -13,7 +13,7 @@ summary: >-
 figures:
   plants_destroyed: 49
   prison: 3 years, suspended for 3 years
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: abd7026451d2f57d9b756bc51f29dc58
 tags: [southwick, loft-grow, suspended-sentence, electricity-theft, sussex]

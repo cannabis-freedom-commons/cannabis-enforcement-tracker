@@ -30,7 +30,7 @@ media:
     media_url: https://image.vietnamnews.vn/uploadvnnews/Article/2026/9/15/530419_5587284913685597_ac.jpg
     publisher: Viet Nam News
     caption: 'The closed indoor cannabis cultivation and care system installed by the group in Phụng Công Commune. Photo: Hưng Yên Police'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 61024b96fbf29ab46439d589ee09d9ed
 tags: [vietnam, hung-yen, indoor-cultivation, social-media]

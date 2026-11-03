@@ -29,7 +29,7 @@ media:
     media_url: https://www.vijesti.me/data/images/2026/11/01/12/5771082_marihuana2_ff.jpg?ver=1793531858
     publisher: Vijesti
     caption: 'Police photo of seized marijuana packaging. Photo: UP'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 73e77ba17da29d29f6d88a9c27fac54b
 tags: [podgorica, marijuana, minors]

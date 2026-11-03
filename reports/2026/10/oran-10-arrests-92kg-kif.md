@@ -14,7 +14,7 @@ figures:
   arrested: 10
   charged: 10
   kg_seized: 9.2
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 1560e9f9d636b919df99c33430066462
 tags: [oran, kif, algeria, cocaine, psychotropics]

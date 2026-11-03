@@ -14,7 +14,7 @@ figures:
   value:
     amount: 60000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, bsf, tarali, west-bengal, smuggling]
 sources:

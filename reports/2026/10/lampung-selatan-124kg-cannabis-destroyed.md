@@ -22,7 +22,7 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/10/30/IMG_3648.jpeg
     publisher: ANTARA News Lampung
     caption: 'Officers carry out the destruction of seized evidence in Lampung Selatan. Photo: ANTARA/HO/Kejari Lampung Selatan'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fa73fb78f2eba72d1763a763a55502c4
 tags: [lampung, prosecutors, ganja, etomidate]

@@ -28,7 +28,7 @@ media:
     media_url: https://cdn.jwplayer.com/videos/V7BcVtdV-o549A0fu.mp4
     publisher: Infobae
     caption: 'Video of the seized packages labelled with weights and names, coloured wrappers and slot machines in the background. Video: Redes Diego Pesqueira'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e237e2d3cfd52f13ef512e3be129a28f
 tags: [capotillo, santo-domingo, dominican-republic, marijuana, microtrafficking]

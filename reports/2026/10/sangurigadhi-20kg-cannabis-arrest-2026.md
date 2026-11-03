@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 20
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 9dd47254a44d5d43f5ea96fae38e184d
 tags: [dhankuta, bhedetar, cannabis, ganja, seizure]

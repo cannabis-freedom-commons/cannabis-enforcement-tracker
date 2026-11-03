@@ -9,7 +9,7 @@ type: seizure
 title: Police seize hashish doses and five balaclavas in Molfetta
 summary: >-
   Molfetta Local Police checked underage boys in the city centre on Halloween Saturday evening and seized several doses of hashish along with balaclavas, firecrackers and eggs. The weekend was otherwise limited to minor disorder amid intensified patrols ordered by the local command.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a1d9dbfd0c95a6a59a581104e0e1eb15
 tags: [molfetta, hashish, halloween]

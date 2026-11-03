@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 84cb77f5a2750e5873e10bc41c596384
 tags: [horizon-city, texas, possession]

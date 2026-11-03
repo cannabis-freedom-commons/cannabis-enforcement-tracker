@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.05417
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a1c9867cb2849c0b37d22530fc01ada8
 tags: [mauritius, adsu, wooton, cannabis-seeds, home-search]

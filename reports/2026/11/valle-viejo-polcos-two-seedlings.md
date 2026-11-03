@@ -12,7 +12,7 @@ summary: >-
   On 2 November 2026 officers seized two cultivated marijuana seedlings from a home in La Playa, Polcos, Valle Viejo, after judicial officers spotted Cannabis sativa-like plants during a judicial measure. Judicial Unit No. 10 and the motorized group called in the Dangerous Drugs Directorate, and the Federal Court under Judge Miguel Ángel Contreras took over the case.
 figures:
   plants_destroyed: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c5d4e8174cd87f4961c3482a41f1d86a
 tags: [valle-viejo, catamarca, polcos]

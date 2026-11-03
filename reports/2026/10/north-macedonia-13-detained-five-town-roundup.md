@@ -12,7 +12,7 @@ summary: >-
   Police in North Macedonia detained 13 people aged 18 to 46 in drug operations in Skopje, Prilep, Demir Kapija, Bogovinje and Štip on 30 and 31 October 2026, seizing marijuana, white powder and tablets. The Interior Ministry said charges would follow once the cases were documented; no weights were given.
 figures:
   arrested: 13
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dcee585daed624cf938a8f34800203f3
 tags: [skopje, roundup, marijuana, police]

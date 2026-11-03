@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 1.111
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2e3badf8ddd7fcf351b65a67b74ae3da
 tags: [himachal-pradesh, mandi, charas, acquittal, ndps]

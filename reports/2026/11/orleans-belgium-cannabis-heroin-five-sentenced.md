@@ -19,7 +19,7 @@ media:
     media_url: https://img.centrefrance.com/P0emwNaA7VvqLquC3s7Rzn1yX72BoBJPkn4HK-ErJ5U/rs:fit:657:438:1/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvODUvMjYvMjAwMDAwNzg1MjY0OA.jpg
     publisher: La République du Centre
     caption: 'Courtroom photo caption says five youths were convicted for drug trafficking by the Orléans court. Photo: Christelle Gaujard'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2bb46d6954235ac22737651a44d774e1
 tags: [orleans, loiret, cannabis-resin]

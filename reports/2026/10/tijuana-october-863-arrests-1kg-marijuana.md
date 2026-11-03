@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 863
   kg_seized: 1.01
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eca439ca6fb6a4924f1e06f4e9252986
 tags: [tijuana, marijuana, narcomenudeo, sspcm]

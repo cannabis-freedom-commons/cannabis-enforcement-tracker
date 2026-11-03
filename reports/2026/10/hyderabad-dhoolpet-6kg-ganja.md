@@ -22,7 +22,7 @@ media:
     media_url: https://assets.hmtvlive.com/h-upload/2026/10/30/481813-hyderabad-350-.webp
     publisher: HMTV
     caption: Two suspects sit in front of the Dhoolpet excise police team with an electric scooter and a package at the seizure site.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 19eab450ef7ccf3671468f473f8e4ec1
 tags: [hyderabad, telangana, ganja, dhoolpet, excise-police]

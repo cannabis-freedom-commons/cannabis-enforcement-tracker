@@ -20,7 +20,7 @@ media:
     media_url: https://rcmp.ca/sites/default/files/styles/large_480x480/public/images/0908-seizure-cora.jpg?itok=0bI8Pm2X
     publisher: Royal Canadian Mounted Police
     caption: 'Items seized from the vehicle stopped in Dieppe, labelled by the RCMP as seized items. Photo: New Brunswick RCMP'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: fbe8f6b6c90e2946159b59eddbf13da4
 tags: [dieppe, rcmp, cash, moncton]

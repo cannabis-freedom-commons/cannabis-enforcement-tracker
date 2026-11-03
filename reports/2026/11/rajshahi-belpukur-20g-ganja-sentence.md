@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 1000
     currency: BDT
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4557623aa364121b788fffdad7f5b787
 tags: [rajshahi, belpukur, ganja, sentence]

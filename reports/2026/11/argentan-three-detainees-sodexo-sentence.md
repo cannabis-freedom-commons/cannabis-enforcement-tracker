@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 3
   prison: 12 and 18 months
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 913ac7dd8e20f7f94954016771103183
 tags: [argentan, prison, corruption, sodexo]

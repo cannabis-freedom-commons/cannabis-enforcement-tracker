@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3.2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 57b66efa43e2e396cac80c73fb0754c0
 tags: [khost, speri, hashish]

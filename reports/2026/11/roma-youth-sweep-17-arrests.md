@@ -12,7 +12,7 @@ summary: >-
   Rome police arrested 17 people for drug dealing and reported three more for weapons during two weeks of youth-crime checks in nightlife areas. Officers seized about 5 kg of cocaine and hashish combined, with no separate hashish weight given, plus cash, knives and balaclavas.
 figures:
   arrested: 17
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e32f81106bad3454164ab59294ac9c1
 tags: [rome, lazio, hashish, squadra-mobile]

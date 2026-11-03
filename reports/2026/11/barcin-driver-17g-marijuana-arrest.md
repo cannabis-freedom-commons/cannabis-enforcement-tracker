@@ -20,7 +20,7 @@ media:
     media_url: https://ino.online/img/media/post/37473/515424/c/barcin-column.jpg
     publisher: Ino.online
     caption: 'Photo accompanying the Barcin report on the stopped driver and the nearly 17 grams of marijuana found on the allotment. Photo: KPP w Żninie'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: adc8ab9b5c8992b876ffd909ea5fab83
 tags: [barcin, znin, marijuana, roadside-check]

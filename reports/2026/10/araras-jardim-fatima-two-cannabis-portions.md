@@ -18,7 +18,7 @@ media:
     media_url: https://reporterbetoribeiro.com.br/wp-content/uploads/2026/10/policia-militar-apreende-cocaina-e-maconha-durante-abordagem-no-jardim-fatima-em-araras-sp-696x488.jpeg
     publisher: Repórter Beto Ribeiro
     caption: Bagged drugs and cash displayed against a São Paulo Military Police emblem.
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 4c409fd7c4bb5b89c927958e7d6f60d8
 tags: [araras, sao-paulo, cannabis, personal-use]

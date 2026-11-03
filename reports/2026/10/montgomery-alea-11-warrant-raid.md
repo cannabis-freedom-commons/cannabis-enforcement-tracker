@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 15.932
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eae8cc991fa9a93e5321b42e83d2ae3d
 tags: [alabama, montgomery, alea, marijuana-trafficking, multi-agency]

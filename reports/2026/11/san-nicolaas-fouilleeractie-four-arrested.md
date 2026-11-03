@@ -12,7 +12,7 @@ summary: >-
   Aruba police arrested four people in San Nicolaas during a preventive search running from Saturday afternoon into early Sunday morning, seizing a weapon, cocaine, marijuana and cash. Officers searched 90 people and 31 cars in the pariba di brug area.
 figures:
   arrested: 4
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4b405546177e6b63a245895cc235a38d
 tags: [aruba, san-nicolaas, kpa]

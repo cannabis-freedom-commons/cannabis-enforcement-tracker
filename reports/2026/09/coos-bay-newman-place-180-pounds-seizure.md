@@ -21,7 +21,7 @@ media:
     media_url: https://katu.com/resources/media2/16x9/1600/1174/0x150/80/25dabcc6-8f13-46c1-8525-6fd7bf20fc9c-5376edfc14e04ae4b91d538cb24ebd95.jfif
     publisher: KATU
     caption: Seized marijuana and other drugs from the Coos Bay operation. Photo Courtesy Coos County Sheriff's Office.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea19153fa7ff1efe9cbf9500e0de7746
 tags: [coos-bay, oregon, scint]

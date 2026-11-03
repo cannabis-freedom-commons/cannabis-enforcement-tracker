@@ -15,7 +15,7 @@ media:
     media_url: https://acontecenovale.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-01T112716.022-1024x538.png
     publisher: Acontece no Vale
     caption: 'Seized drugs found during the Estrada do Alegrete stop in Encantado. Photo: Brigada Militar'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a131409f5588ec7fa894f88f5bed0367
 tags: [encantado, rio-grande-do-sul, brigada-militar, maconha]

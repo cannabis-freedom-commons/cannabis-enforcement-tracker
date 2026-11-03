@@ -14,7 +14,7 @@ figures:
   arrested: 3
   charged: 3
   prison: 1 year
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76cfb6d0efe4ef1ac11d60a8d647744b
 tags: [moanda, haut-ogooue, tramadol, ocad]

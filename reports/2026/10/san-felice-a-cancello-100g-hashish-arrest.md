@@ -19,7 +19,7 @@ media:
     media_url: https://statics.cedscdn.it/photos/PANORAMA_HIGH/2026/11/01/9862831_01215341_3c2c38aa113f726650d117f9a898c595_1_.jpg
     publisher: Il Mattino
     caption: Seized drugs from the car boot in San Felice a Cancello during the Carabinieri operation
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ab5e8dd4e53208af6377a233541a6367
 tags: [caserta, hashish, traffic-stop]

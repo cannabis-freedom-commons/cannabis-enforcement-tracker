@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 474a0ec872c53792af7edd1d06f8f5dd
 tags: [bemowo, warsaw, marijuana]

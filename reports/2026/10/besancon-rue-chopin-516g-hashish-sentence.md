@@ -15,7 +15,7 @@ figures:
   charged: 1
   kg_seized: 0.523
   prison: 5 months
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9ec1e5ec0caffb35cdd8ba7890f9fbaa
 tags: [besancon, hashish, street-dealing, nourrice]

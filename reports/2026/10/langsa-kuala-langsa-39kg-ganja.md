@@ -19,7 +19,7 @@ media:
     media_url: https://habanusantara.net/wp-content/uploads/2026/10/20261030-img-20261029-wa0021.jpg
     publisher: Habanusantara
     caption: 'Police officers examine packages of seized cannabis laid out on a table in Langsa. Photo: Habanusantara'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d1d5e977e15b16b4b7c954ffaaa6dc98
 tags: [aceh, langsa, ganja, seizure, operasi-sarang-narkoba]

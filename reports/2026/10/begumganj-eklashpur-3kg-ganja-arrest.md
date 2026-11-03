@@ -19,7 +19,7 @@ media:
     media_url: https://durnititalashnewstv.com/wp-content/uploads/2026/10/IMG-20261031-WA0015.jpg
     publisher: Durniti Talash News TV
     caption: 'The arrested man standing between two police officers, with the three sacks of cannabis recovered in the raid shown below, in a photo published with the report. Photo: Durniti Talash News TV'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b06a97a501672342f5e9ed10ad88d5eb
 tags: [noakhali, begumganj, ganja, bangladesh, arrest]

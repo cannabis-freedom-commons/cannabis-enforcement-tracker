@@ -19,7 +19,7 @@ media:
     media_url: https://northluzonmonitor.com/wp-content/uploads/2026/11/1-5.jpg
     publisher: North Luzon Monitor
     caption: 'A police officer uproots marijuana plants during the 25 October to 1 November operation. Photo: PRO-CAR'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 300df2376e14fd78e71779d27a71452c
 tags: [cordillera, kalinga, benguet, marijuana]

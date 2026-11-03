@@ -27,7 +27,7 @@ media:
     media_url: https://lalluram.com/wp-content/uploads/2026/10/image-2026-10-30T160040.023.jpg
     publisher: Lalluram
     caption: A second photo of the couple with police officers and the seized packets of ganja.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1e068b55807602ff5d3043540cc5671a
 tags: [ganja, bastar, chhattisgarh, ndps-act, interstate-smuggling]

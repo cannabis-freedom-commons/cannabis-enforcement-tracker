@@ -18,7 +18,7 @@ media:
     media_url: https://cdn-images-site-arauto.portalarauto.com.br/2026/10/WhatsApp-Image-2026-10-30-at-22.37.57-1200x801.jpeg
     publisher: Portal Arauto
     caption: 'The 9mm pistol, magazine, ammunition, cocaine and marijuana portions, scale, phone and bag seized by the Brigada Militar, displayed after the arrest. Photo: BM (Brigada Militar)'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fb25e5956d98d5c45f50fac0232ff0f0
 tags: [brazil, rio-grande-do-sul, encruzilhada-do-sul, brigada-militar]

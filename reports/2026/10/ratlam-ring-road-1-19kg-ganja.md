@@ -22,7 +22,7 @@ media:
     media_url: https://www.vandematramnews.com/wp-content/uploads/2026/11/20261101_000422.jpg
     publisher: Vande Matram News
     caption: Photo published with the report and captioned 'Smuggler arrested with cannabis in Ratlam'; the page credits no photographer or agency.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fd1dc2f9661340e17fc3a3250b163380
 tags: [ratlam, madhya-pradesh, ganja, ndps-act]

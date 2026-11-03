@@ -12,7 +12,7 @@ summary: >-
   Carabineros detained two men and a woman in central Río Bueno for alleged street microtrafficking of marijuana portioned in paper wraps. Officers seized the drug plus a knife, cash, phones and the car, sending two suspects to detention hearings while the third was released pending summons.
 figures:
   arrested: 3
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 23582b37eca74324b853efd2b3f72ab1
 tags: [rio-bueno, los-rios, microtrafficking, marijuana]

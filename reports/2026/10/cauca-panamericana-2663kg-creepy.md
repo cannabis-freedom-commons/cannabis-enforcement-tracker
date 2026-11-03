@@ -32,7 +32,7 @@ media:
     media_url: https://www.elpais.com.co/resizer/v2/YKNNA5FUZVGIHI6VLBX57F745Q.jpeg?auth=cb6a48529ec893435f1c5ba2269efb2c43cc279dea7ca9111ce3c7b63d026d76&smart=true&quality=75&width=768&height=432&fitfill=false
     publisher: El País
     caption: 'Sijín and antinarcotics officers searching the vehicle on the Pan-American Highway in Cauca. Photo: Suministradas'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: eddffee97c5995a64b0c98b39df9b9aa
 tags: [cauca, creepy, sijin, panamericana]

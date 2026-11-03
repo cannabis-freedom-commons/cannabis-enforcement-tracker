@@ -12,7 +12,7 @@ summary: >-
   Troops of Operation Enduring Peace arrested 25-year-old Samana Ayuba at Angware in Plateau State on 1 November 2026 and recovered suspected cannabis. The suspect and the recovered items were handed to Keystone Division in Angware for investigation.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dc97b78ff022ce558d0b569a4b79e66b
 tags: [plateau, jos-east, angware]

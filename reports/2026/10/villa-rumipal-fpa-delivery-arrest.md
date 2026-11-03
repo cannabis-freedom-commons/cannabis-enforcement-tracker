@@ -28,7 +28,7 @@ media:
     media_url: https://canalc.com.ar/wp-content/uploads/2026/10/261113.jpg
     publisher: Canal C
     caption: 'Man detained over drug sales. Photo: Ministerio Público Fiscal'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 351d69d8383da7fa7a04ee329f45610b
 tags: [villa-rumipal, cordoba, fpa, delivery, marijuana]

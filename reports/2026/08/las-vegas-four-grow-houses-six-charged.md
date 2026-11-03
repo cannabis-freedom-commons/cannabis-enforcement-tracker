@@ -11,7 +11,7 @@ summary: >-
   A federal grand jury in Las Vegas indicted six residents on 10 counts over four alleged illegal marijuana grow houses maintained from January 2025 to February 2026. Each faces manufacturing and conspiracy charges near a protected area, with arraignment set for 1 September 2026 and a possible life sentence.
 figures:
   charged: 6
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69b32e8d7f07cf73192e262aed73f46d
 tags: [las-vegas, grow-house, indictment]

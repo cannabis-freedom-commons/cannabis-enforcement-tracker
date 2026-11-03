@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 10
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 275a8b3cb6531f896103f6f01a49a6f3
 tags: [tiruppur, tamil-nadu, ganja, prohibition-wing, gutkha]

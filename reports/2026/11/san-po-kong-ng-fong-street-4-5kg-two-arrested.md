@@ -22,7 +22,7 @@ media:
     media_url: https://hk.on.cc/hk/bkn/cnt/news/20261103/photo/bkn-20261103191303839-1103_00822_001_01p.jpg?20261103191901
     publisher: on.cc東網
     caption: The two arrested men being taken to the police station for investigation
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 43e49dab726ad3c4f34a63caf35d8ac9
 tags: [san-po-kong, wong-tai-sin, cannabis]

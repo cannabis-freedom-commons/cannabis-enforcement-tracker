@@ -14,7 +14,7 @@ figures:
   arrested: 2374
   plants_destroyed: 3016747
   kg_seized: 37293.994
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a91838e8c921c675859fa34b7d669bb2
 tags: [diyarbakir, turkey, esrar, roundup, eradication]

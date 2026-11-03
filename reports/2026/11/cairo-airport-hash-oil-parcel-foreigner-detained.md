@@ -21,7 +21,7 @@ media:
     media_url: https://mediaaws-live.almasryalyoum.com/almasryalyoum/uploads/images/2026/10/10/2047366.webp
     publisher: Al-Masry Al-Youm
     caption: 'Customs photo of the seized postal parcel suspected to contain cannabis oil. Photo: Other photographer via Al-Masry Al-Youm'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c3dd629c572361af641f29bd4ecb102e
 tags: [cairo-airport, hash-oil, postal-parcel, pretrial-detention, customs]

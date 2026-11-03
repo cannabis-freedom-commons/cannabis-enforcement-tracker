@@ -12,7 +12,7 @@ summary: >-
   Royal Gendarmerie officers raided a secret hideout at Taslba near Boukraa and arrested the leader of a network accused of promoting hashish. Officers also seized a vehicle, drugs, weapons and a secret rubber-boat workshop for irregular migration.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aa7d66e81654e1710e8f56882061d508
 tags: [laayoune, boukraa, hashish, gendarmerie]

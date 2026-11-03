@@ -9,7 +9,7 @@ type: seizure
 title: Woman has surgery to remove 8 cannabis packages bound for Londrina prison
 summary: >-
   A woman was hospitalised in Arapongas on 30 October 2026 after swallowing eight packages of cannabis to take to her partner at the Penitenciária Estadual de Londrina. Doctors removed the packages in surgery and police seized the cannabis; no arrest or charge has been reported.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 041b2f186f1d67c30df55c9b28d9af17
 tags: [arapongas, londrina, parana, prison-smuggling, swallowed-packages]

@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 888.59
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f2c11290724ac2373b595de2c39278b
 tags: [rankin-county, mississippi, interstate-20]

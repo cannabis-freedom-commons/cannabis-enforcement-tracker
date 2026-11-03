@@ -29,7 +29,7 @@ media:
     media_url: https://walbrzych.policja.gov.pl/dokumenty/zalaczniki/415/415-387665.jpg
     publisher: Komenda Miejska Policji w Wałbrzychu
     caption: Police photo showing seized marijuana
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea73a991914f5504280ef4edc782d4c3
 tags: [walbrzych, lower-silesia, marijuana]

@@ -56,6 +56,9 @@ them on report pages; reject unsupported/untrustworthy events rather than every 
 Local failed submissions can be restarted through loopback-only development controls.
 OpenCode is the actual research harness: a sandboxed local CLI for macOS development, or a
 read-only container for deployment. Give it only research-provider credentials, never Nostr
-keys, GitHub credentials or the operational database. Keep automated report status `reported`.
+keys, GitHub credentials or the operational database. Automated report status is assigned by the
+service: `verified` when every retained fact passes a quotation check against opened/captured
+sources, otherwise `reported` for retained unchecked claims. Open questions alone do not prevent
+verification. Preserve `disputed`; checked additions do not verify unchecked older prose.
 Only deliberate public assistant/tool activity belongs in the live AI transcript; never expose
 raw sources, private reasoning, tool arguments/output, credentials or host filesystem paths.

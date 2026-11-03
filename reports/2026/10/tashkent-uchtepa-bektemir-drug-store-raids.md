@@ -24,7 +24,7 @@ media:
     media_url: https://t.me/yestvideo/3640
     publisher: Repost.uz
     caption: Video report on the raids embedded in the Repost.uz article, published by the yestvideo Telegram channel.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 05d5532c878ad54fd871319f7264f84a
 tags: [tashkent, online-store, mephedrone, zakladki, yukori-chirchiq]

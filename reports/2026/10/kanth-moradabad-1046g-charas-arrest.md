@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.046
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e48abfd7c60fcb2cb039e2304962c61f
 tags: [moradabad, uttar-pradesh, charas, ndps, kanth]

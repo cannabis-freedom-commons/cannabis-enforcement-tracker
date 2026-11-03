@@ -19,7 +19,7 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/27/9ded620a-c709-4d88-9d55-e85f34361164_1793100038590.jpg
     publisher: Dainik Bhaskar
     caption: A woman in a yellow sari and a young man in a blue shirt standing with two police officers, in the lead photograph on the Dainik Bhaskar report of the arrest. The page gives no caption or photographer credit.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eb9e84584a3c778a1ec7a0b58e954d99
 tags: [shikohabad, firozabad, uttar-pradesh, ganja, ndps-act]

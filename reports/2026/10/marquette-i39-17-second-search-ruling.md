@@ -12,7 +12,7 @@ summary: >-
   A federal judge held that a Marquette County deputy unlawfully extended a 2023 traffic stop by 17 seconds for a drug-dog sniff that found marijuana and a gun. The court denied qualified immunity and left damages for trial after the state charges had already been dismissed.
 figures:
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f9a54463d55a93a82c52107bcf745185
 tags: [wisconsin, marquette, traffic-stop, fourth-amendment]

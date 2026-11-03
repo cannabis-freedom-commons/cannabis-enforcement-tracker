@@ -24,7 +24,7 @@ media:
     media_url: https://alwasat.ly/media/c6d8dd8d-d03a-4500-8c4a-701e7a4e1574
     publisher: بوابة الوسط
     caption: 'The seized hashish with the suspect, in a photograph dated Saturday 31 October 2026. Photo: General Department for Combating Drugs and Psychotropic Substances.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b551d92965b8b128bb2d8b0a3a0b6c81
 tags: [libya, benghazi, hashish, arrest]

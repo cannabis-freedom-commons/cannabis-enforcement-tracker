@@ -12,7 +12,7 @@ summary: >-
   National security units in Carthage dismantled two drug-trafficking networks in two targeted raids and arrested eight people, including a woman from a Maghreb country. Police seized one and a half slabs of cannabis resin, 25 more pieces of the same resin, five grams of cocaine and cash, and detained all eight.
 figures:
   arrested: 8
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c6e0500217efc9752121ad25d39a88e0
 tags: [carthage, zatla, tunis, cannabis-resin]

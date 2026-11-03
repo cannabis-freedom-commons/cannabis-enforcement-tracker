@@ -39,7 +39,7 @@ media:
     media_url: https://live-production.wcms.abc-cdn.net.au/342450fe78898dd955131af71e6048d0?impolicy=wcms_crop_resize&cropH=1080&cropW=1620&xPos=37&yPos=0&width=862&height=575
     publisher: ABC News
     caption: 'Ten greenhouses stand in a row on the Milnes Bridge property. Photo: Victoria Police, via ABC News'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 0bf016388c107f153df2285b35381f75
 tags: [victoria, milnes-bridge, greenhouses, victoria-police]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 10
   kg_seized: 47.6
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 49de9aae201e45aa15ae1c97fe1ca43b
 tags: [hashish, anf, punjab, islamabad, peshawar]

@@ -23,7 +23,7 @@ media:
     media_url: https://www.balipost.com/wp-content/uploads/2026/11/balipostcom_didominasi-narkotika-kejari-jembrana-musnahkan-barang-bukti-39-perkara_01-696x464.jpg
     publisher: Balipost
     caption: Officers burning case evidence in a drum during the destruction of evidence from 39 final cases at Kejari Jembrana.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3c2d8cf2bc75a839c81bae2a229829cd
 tags: [jembrana, bali, ganja, evidence-destruction]

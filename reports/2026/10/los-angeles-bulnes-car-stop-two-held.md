@@ -23,7 +23,7 @@ media:
     media_url: https://img.latribuna.cl/upload/2026/10/17161D524C42446D16170F55514944761F161A18524242761413.jpeg
     publisher: La Tribuna
     caption: 'The drugs and cash seized in the stop, in a photo published with the report. Photo: Carabineros de Chile'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 953a207824eec9f7c469f8d71ce442f1
 tags: [los-angeles, biobio, carabineros, ketamine, traffic-stop]

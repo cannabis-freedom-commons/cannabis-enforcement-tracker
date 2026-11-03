@@ -17,7 +17,7 @@ figures:
   value:
     amount: 300000
     currency: EUR
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 270ee973c75e6b6c94f59415ba6169cf
 tags: [dublin, trim, meath, circuit-court, warehouse]

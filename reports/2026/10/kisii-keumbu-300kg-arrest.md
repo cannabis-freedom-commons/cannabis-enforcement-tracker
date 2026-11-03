@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 300
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 085701ab07c0cc2a98609479f0ad61fa
 tags: [kisii, keumbu, bhang, dci, house-raid]

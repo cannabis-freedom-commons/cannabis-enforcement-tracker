@@ -25,7 +25,7 @@ media:
     media_url: https://gray-whns-prod.gtv-cdn.com/resizer/v2/GUMY3FLWSVBDNBMHU3W5A52HTA.png?auth=d70e1b3445ee64cd937df030e6bab7da31cb374090cab77ae187103f42031f2d&width=980&height=521&smart=true
     publisher: FOX Carolina
     caption: 'Seized marijuana displayed by Laurens County investigators. Photo: Laurens County Sheriff''s Office'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4b9a8652972764f9fc53a36b0fc35e08
 tags: [laurens, south-carolina, trafficking]

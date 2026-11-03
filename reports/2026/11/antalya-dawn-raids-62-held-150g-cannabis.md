@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 62
   kg_seized: 0.15
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b73b99ffe37a31505346b4297e96160e
 tags: [antalya, esrar]

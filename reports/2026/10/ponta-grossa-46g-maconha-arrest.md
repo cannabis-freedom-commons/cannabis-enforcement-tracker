@@ -19,7 +19,7 @@ media:
     media_url: https://cdn.arede.info/img/cover/680000/1000x500/-resolucao-fotos-site---2026-11-01t093433386006805070202611010936-1.webp?fallback=https%3A%2F%2Fcdn.arede.info%2Fimg%2Fcover%2F680000%2F-resolucao-fotos-site---2026-11-01t093433386006805070202611010936.jpg%3Fxid%3D2462837%26resize%3D1000%252C500%26t%3D1793536588&xid=2462837
     publisher: aRede
     caption: 'Lead photo on the source page for this seizure report. Photo: PM'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9e607f1acbfde25202fef905018b574
 tags: [ponta-grossa, parana, maconha]

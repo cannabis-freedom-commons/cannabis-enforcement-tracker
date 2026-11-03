@@ -24,7 +24,7 @@ media:
     media_url: https://www.eluniversal.com.mx/resizer/v2/7U3BOHJJMNEIVPXNLRQNRVN6GE.jpg?auth=6d5de79b323db3c99c8f0b6d53243e28b5eab8099da90ef9af6c3ead2683899c&smart=true&height=620
     publisher: El Universal
     caption: 'Photo published with the report describing the attack on Calzada Benito Juárez in Colonia Mártires de Uruapan. Photo: Especial.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f80de5836910cdd9a3ffba5284104b3a
 tags: [uruapan, michoacan, marijuana, guardia-civil]

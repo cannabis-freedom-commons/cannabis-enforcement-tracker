@@ -18,7 +18,7 @@ media:
     url: https://uttarbangasambad.com/40-kg-of-marijuana-recovered-from-tenzing-norgay-bus-terminus-in-siliguri-4-arrested/
     publisher: Uttarbanga Sambad
     caption: 'A composite image at the top of the article shows officers standing with the four arrested youths at the terminus, and the recovered bags of ganja laid out on tables. Photo: Uttarbanga Sambad.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 tags: [ganja, siliguri, west-bengal, cooch-behar, trafficking]
 sources:

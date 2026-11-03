@@ -19,7 +19,7 @@ media:
     media_url: https://english.hindusthansamachar.in/Encyc/2026/11/2/2894a65e4392dba42572f44f7417d3ea_612312393_H@@IGHT_0_W@@IDTH_600.jpeg
     publisher: Hindusthan Samachar
     caption: Lead photo published with the Dankuni NDPS arrest report, captioned NDPS Arrest.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b0609d27fcc13828b96943d95a55ee6
 tags: [dankuni, ganja, ndps, west-bengal, railway]

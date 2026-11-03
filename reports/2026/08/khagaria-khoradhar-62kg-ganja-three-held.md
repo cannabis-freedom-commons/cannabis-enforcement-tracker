@@ -22,7 +22,7 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/08/18/1787054301285/sizes/18cpr_2_18082026_88-facdce-hero.webp
     publisher: Prabhat Khabar
     caption: 'Packets of ganja recovered by police in Maheshkhunt, Khagaria. Photo: Prabhat Khabar Network'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b5f64d06991983e97fb37dc0856bcdff
 tags: [bihar, khagaria, ganja, ndps-act, stf]

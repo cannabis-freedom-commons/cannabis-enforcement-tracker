@@ -20,7 +20,7 @@ media:
     url: https://northluzon.politiko.com.ph/2026/04/22/p24-7m-worth-of-illegal-drugs-seized-15-arrested-in-cordillera-anti-drug-operations/daily-feed/
     publisher: POLITIKO North Luzon
     caption: Two camouflaged soldiers wearing face masks hold a banner in a field of cannabis plants during the Cordillera operation.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cordillera, benguet, kalinga, marijuana, eradication]
 sources:

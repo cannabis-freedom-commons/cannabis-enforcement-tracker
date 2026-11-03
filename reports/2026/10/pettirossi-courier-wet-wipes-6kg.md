@@ -27,7 +27,7 @@ media:
     media_url: https://www.dnit.gov.py/documents/d/global/whatsapp-image-2026-10-30-at-10-02-36
     publisher: Dirección Nacional de Ingresos Tributarios (DNIT)
     caption: 'Third photograph published with the DNIT statement on the interceptions, showing the parcels from the shipments; the agency gave no separate caption. Photo: DNIT.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f991ad55d84b917104371680230e0bca
 tags: [asuncion, senad, courier, airport, marijuana]

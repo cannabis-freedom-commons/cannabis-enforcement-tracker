@@ -19,7 +19,7 @@ media:
     media_url: https://ifronteira.com/_upload/foto/noticia/31-10-202604-38-54-PrTZhLpcvasEGV3.webp
     publisher: Ifronteira
     caption: 'Seized marijuana and dry displayed after the Martinópolis arrest. Photo: Polícia Militar.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df757f94f7d85aca8c74dad700a36832
 tags: [martinopolis, sao-paulo, maconha, dry, traffic-stop]

@@ -18,7 +18,7 @@ media:
     media_url: https://images.milenio.com/XFxaNRiemPA21FG_XGQF6Q1zNu4=/345x194/uploads/media/2026/10/31/comisaria-guadalajara-sorprendieron-sospechosos-forzando.jpg
     publisher: Milenio
     caption: 'Police photo of the costumed pair detained in colonia Moderna after allegedly forcing a business entry with shears and carrying drugs. Photo: Cortesía'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 55437267fb06039a97d4d8e8b7fafe6c
 tags: [guadalajara, halloween, marijuana]

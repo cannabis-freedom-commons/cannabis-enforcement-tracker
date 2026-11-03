@@ -27,7 +27,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/29/f17fe61e-4cba-430c-83b6-f0a96ac2415d_1793278397511/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video report on the platform seizure, showing railway police officers with the four packets. Video: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9c3c8922f15eec3cad3aae4231120f66
 tags: [jamalpur, munger, bihar, ganja, railway-police]

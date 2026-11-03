@@ -23,7 +23,7 @@ media:
     media_url: https://bantentv.com/wp-content/uploads/2026/10/Barang-bukti-ganja-yang-diamankan-Satresnarkoba-Polres-Serang.jpg
     publisher: Banten TV
     caption: The cannabis package wrapped in duct tape that police seized from DS, shown as evidence by Banten TV
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 48e197248559c9e3a087ac0044f32818
 tags: [serang, banten, ganja, street-dealing]

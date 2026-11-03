@@ -19,7 +19,7 @@ media:
     media_url: https://img.lasillarota.com/cmOUZwzpmab66dZ6gyhv0obxvcMYnNl19I7xZDkLGNM/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzkzMzk3OTEwOTU3LTE1NzUwaC5qcGc
     publisher: La Silla Rota
     caption: 'SSC photo published with the report of the Lomas Estrella search. Photo: SSC_CDMX'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dfa97b4e2b34ee92c69106ba3f616593
 tags: [iztapalapa, mexico-city, marijuana, lomas-estrella, cateo]

@@ -15,7 +15,7 @@ figures:
   value:
     amount: 375000
     currency: MUR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cff6c9f94757162bc047001b449d251
 tags: [saint-julien, cid, abandoned-land]

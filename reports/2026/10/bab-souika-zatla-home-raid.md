@@ -12,7 +12,7 @@ summary: >-
   Judicial police in Bab Souika, Tunis, raided a home and arrested one man already sentenced to seven years. Officers seized an unstated quantity of cannabis, known locally as zatla, said to be ready for sale.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 943a75ecf550fa9ed6810baa905bc9d5
 tags: [bab-souika, zatla, tunis]

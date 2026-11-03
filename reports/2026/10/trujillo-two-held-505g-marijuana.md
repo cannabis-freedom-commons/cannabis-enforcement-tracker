@@ -19,7 +19,7 @@ media:
     media_url: https://noticiastrujillo.pe/wp-content/uploads/2026/10/1793408750868-394546706.webp
     publisher: Noticias Trujillo
     caption: The two detained men behind a table with bags of marijuana, a digital scale and cash, with a Grupo Terna officer in a 'TERNA-DDCL' jacket standing behind them.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4a7268a720731f3d866709648b6ccfeb
 tags: [trujillo, la-libertad, terna, street-dealing]

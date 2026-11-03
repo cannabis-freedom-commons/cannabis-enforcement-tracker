@@ -16,7 +16,7 @@ figures:
   value:
     amount: 2220750
     currency: INR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e0af90a869a0ee76004d22c071f16244
 tags: [ahilyanagar, imampur, ganja, ndps]

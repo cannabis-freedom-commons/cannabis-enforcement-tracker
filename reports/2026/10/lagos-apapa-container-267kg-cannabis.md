@@ -11,7 +11,7 @@ summary: >-
   Police and other security agencies examining a 40-foot container at Apapa in Lagos on 6 October 2026 found 275 sachets of suspected Canadian Cannabis Indica hidden in four chest freezers; the force put the weight at 267 kg. The case was handed to the State Criminal Investigation Department in Panti.
 figures:
   kg_seized: 267
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [apapa, lagos, port, container, indica]
 sources:

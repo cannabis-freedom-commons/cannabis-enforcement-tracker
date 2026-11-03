@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 2.958
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8a5ca32245cf4f2cfb5e02fff11afcc6
 tags: [dera-ismail-khan, hashish, paharpur]

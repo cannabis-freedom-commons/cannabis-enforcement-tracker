@@ -17,7 +17,7 @@ figures:
   value:
     amount: 1600000
     currency: EUR
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 21b3ae66e23314866d7c677985c0a75b
 tags: [cork, little-island, controlled-delivery]

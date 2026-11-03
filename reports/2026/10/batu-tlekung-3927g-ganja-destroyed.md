@@ -23,7 +23,7 @@ media:
     media_url: https://bacamalang.com/wp-content/uploads/2026/10/IMG-20261030-WA0066.jpg
     publisher: BACAMALANG.COM
     caption: 'Batu police chief AKBP Panji Gedhe Prabawa leads the destruction of 3,927.13 grams of cannabis at the Tlekung landfill. Photo: Yan / Bacamalang.com'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7b5b148ced2e6e3d89e1ace3dd261196
 tags: [batu, east-java, ganja, courier, destruction]

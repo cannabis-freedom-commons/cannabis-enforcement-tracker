@@ -28,7 +28,7 @@ media:
     media_url: https://img.pressunion.net/wp-content/uploads/2026/10/%E6%9D%BF%E8%AD%A6%E5%B1%8B%E5%9B%9B.jpg
     publisher: 民眾新聞網
     caption: 'Police officers arrive at the raid site. Photo: Banqiao Precinct.'
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 8db3bbd96262b082443379cf2c083b06
 tags: [taiwan, new-taipei, sanchong, cannabis, drug-raid]

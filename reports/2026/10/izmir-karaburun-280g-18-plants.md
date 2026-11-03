@@ -20,7 +20,7 @@ media:
     media_url: https://foto.sondakika.com/crop/740x0/webp/haber/2026/10/31/izmir-karaburun-da-operasyonda-2-supheli-goza-20382840_sd.jpg
     publisher: Son Dakika
     caption: Lead photo on the source page for this seizure report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dc7e6cc487ddf2d3af7c37c69ecd40b4
 tags: [karaburun, izmir, jandarma, kubar-esrar]

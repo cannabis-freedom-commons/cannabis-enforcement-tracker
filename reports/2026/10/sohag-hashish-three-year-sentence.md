@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 05ea4082a5823c893a10ad32b93328d6
 tags: [sohag, hashish, sentencing, trafficking]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.05023
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 0510e87a767773bf453fd684412849d3
 tags: [rostov-oblast, cannabis-possession]

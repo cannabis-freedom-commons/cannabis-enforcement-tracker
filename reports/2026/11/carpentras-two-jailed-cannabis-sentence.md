@@ -17,7 +17,7 @@ figures:
   value:
     amount: 13470
     currency: EUR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a7d64a48ae71bfbc90fe7763af0897f
 tags: [carpentras, vaucluse, cannabis]

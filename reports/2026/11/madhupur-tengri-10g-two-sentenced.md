@@ -14,7 +14,7 @@ figures:
   arrested: 2
   kg_seized: 0.01
   prison: 6 months
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 667581348a5fab8095f2b8bc781ff0bb
 tags: [tangail, madhupur, ganja, mobile-court]

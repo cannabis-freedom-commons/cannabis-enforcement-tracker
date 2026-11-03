@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 60
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5dd238e9474590909d5b0945da150cbf
 tags: [osmaniye, kadirli, minibus]

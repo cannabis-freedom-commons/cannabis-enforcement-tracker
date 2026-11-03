@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 49.4
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 6af309d61fec9ec89dc35798e68ac552
 tags: [latvia, kurzeme, spain, smuggling, omega]

@@ -14,7 +14,7 @@ figures:
   arrested: 4
   plants_destroyed: 1622
   kg_seized: 2.04
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d82205548280b9dae8995eb4a70fde2e
 tags: [mersin, anamur, mut, kubar-esrar, jandarma]

@@ -12,7 +12,7 @@ summary: >-
   Antwerp police arrested members of an Albanian gang operating from Jezusstraat, seizing over 600 g of marijuana alongside cocaine, cash, phones and cars. Suspect Fitim B. had posed on Facebook with a stack of banknotes, including 100-euro notes.
 figures:
   kg_seized: 0.6
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e54c7af57afcfdfe518cceb587bb9d48
 tags: [antwerp, marijuana, cocaine]

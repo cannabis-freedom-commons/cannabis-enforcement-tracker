@@ -23,7 +23,7 @@ media:
     media_url: https://dainikyashonnati.com/storage/media/2026/10/img-20261031-wa0000-6ae4f472d29f6.webp
     publisher: Dainik Yashonnati
     caption: Photo published with the Ghansaur arrest report, captioned as the man held with 1.2 kg of ganja he sold in small packets.
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: a2e254cdbaa76098879ba2c77832d359
 tags: [seoni, ghansaur, ganja, ndps, madhya-pradesh]

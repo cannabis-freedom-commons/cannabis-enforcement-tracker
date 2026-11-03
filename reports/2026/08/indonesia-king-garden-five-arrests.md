@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 9.4
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [instagram, indah-cargo, bareskrim, medan, pasuruan]
 sources:

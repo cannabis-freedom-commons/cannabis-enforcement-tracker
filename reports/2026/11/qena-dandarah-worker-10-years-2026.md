@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 100000
     currency: EGP
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8cfbbefe0a2ecfdd3819b9225dd7834a
 tags: [qena, hashish, sentence]

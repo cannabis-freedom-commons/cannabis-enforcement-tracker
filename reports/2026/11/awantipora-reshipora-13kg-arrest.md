@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.31493
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b5072bfcd27e6692831dde32e5a6d33
 tags: [awantipora, pulwama, cannabis, ndps-act]

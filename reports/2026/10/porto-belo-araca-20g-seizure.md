@@ -17,7 +17,7 @@ media:
     media_url: https://admin.vipsocial.com.br/admin/image/noticia/60524/79021lg.jpeg
     publisher: VipSocial
     caption: 'Items seized in the vehicle search, including the cannabis. Photo: Polícia Militar via VipSocial'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3289cfb10f06169b07f535282b598200
 tags: [porto-belo, santa-catarina, roadblock]

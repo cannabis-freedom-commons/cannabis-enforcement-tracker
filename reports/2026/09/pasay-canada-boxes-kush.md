@@ -14,7 +14,7 @@ figures:
   value:
     amount: 7119000
     currency: PHP
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kush, pasay, boc, pdea, canada]
 sources:

@@ -13,7 +13,7 @@ summary: >-
 figures:
   plants_destroyed: 4000
   kg_seized: 48
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sughd, mastchoh, wild-cannabis, poppy-2026, eradication]
 sources:

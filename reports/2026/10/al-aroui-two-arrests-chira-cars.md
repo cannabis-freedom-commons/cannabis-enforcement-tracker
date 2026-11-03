@@ -12,7 +12,7 @@ summary: >-
   Police in Al Aroui, in Morocco's Nador province, arrested two young men in two separate operations and seized chira, kif and cocaine along with cash, weapons and cars. One suspect had been wanted nationwide and was brought before the competent court; the weight of the drugs and the charges were not given.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a6b7c5f123e29d41c34111a8f79abbc4
 tags: [chira, kif, nador, al-aroui]

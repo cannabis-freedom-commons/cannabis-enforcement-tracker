@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.8
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84cf12e75b52e0bc66d5af19f43214ba
 tags: [sargodha, tarkhanwala, hashish, punjab, police]

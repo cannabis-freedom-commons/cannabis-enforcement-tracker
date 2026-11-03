@@ -22,7 +22,7 @@ media:
     media_url: https://goemkarponn.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-7.24.47-AM.jpeg
     publisher: Goemkarponn
     caption: A man in custody flanked by Saligao police officers after the arrest at Marra, Pilerne; the faces are blurred in the published photo and no credit is given.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ab9546f0c12e85c5aa769b458743f45d
 tags: [pilerne, goa, saligao, ganja, ndps-act]

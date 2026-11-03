@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 300000
     currency: JPY
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 213e2a770a5e7f2b122224b19788ed2d
 tags: [okayama, possession, appeal]

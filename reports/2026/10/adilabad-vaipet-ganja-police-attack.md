@@ -26,7 +26,7 @@ media:
     url: https://www.deccanchronicle.com/southern-states/telangana/maharaj-arrested-for-raising-ganja-plants-villagers-attack-police-3-cops-injured-1994827
     publisher: Deccan Chronicle
     caption: 'Photograph published with the report of the raid on Ramu''s house, where police seized 18 ganja plants from the backyard. Photo: DC Image'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [telangana, adilabad, ganja, mob-attack, godman]
 sources:

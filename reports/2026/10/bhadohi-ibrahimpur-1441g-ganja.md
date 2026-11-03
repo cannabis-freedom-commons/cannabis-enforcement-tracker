@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.441
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 799fb769f9c9d7a871b6a147d8143b87
 tags: [bhadohi, uttar-pradesh, ganja, ndps-act]

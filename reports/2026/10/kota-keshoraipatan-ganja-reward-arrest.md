@@ -11,7 +11,7 @@ summary: >-
   Kota's Railway Colony police station arrested Hariram Meena, 50, a ganja smuggler who had been on the run for a year, at Tirath village in Keshoraipatan. Police had announced a reward of 15,000 rupees for him, and he was wanted in a cannabis smuggling case registered in August 2025.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: dbafa3c950753ed102cede15fee93941
 tags: [kota, rajasthan, ganja, reward, absconding]

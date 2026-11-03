@@ -18,7 +18,7 @@ media:
     media_url: https://i0.wp.com/www.alouberlandia.com/wp-content/uploads/2026/10/62070084-ab00-4c1a-81b7-0c7f3006a428.jpg?w=900&ssl=1
     publisher: Alô Uberlândia
     caption: 'Photo published with the report on the seizure. Photo: Polícia Militar | MG.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 46c93c6e77cddc3dceecf14a927928f6
 tags: [uberlandia, tocantins, maconha]

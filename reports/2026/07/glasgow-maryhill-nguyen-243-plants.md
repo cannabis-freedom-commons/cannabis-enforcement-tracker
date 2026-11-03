@@ -17,7 +17,7 @@ figures:
   value:
     amount: 145800
     currency: GBP
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4d11ed6787b773972267527520f298c9
 tags: [glasgow, maryhill, scotland, cannabis-farm, sheriff-court]

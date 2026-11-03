@@ -11,7 +11,7 @@ summary: >-
   Railway police seized 5 kg of ganja from an unclaimed bag on the Dhanbad–Alappuzha Express between Karuppur and Salem on 2 November 2026. The same drive found 6 kg of tobacco products on another express, and the seizures were handed to Salem Railway Police with no arrests reported.
 figures:
   kg_seized: 5
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 871b352bab49148b8e436ddfab40c7ae
 tags: [salem, tamil-nadu, railway-police, ganja]

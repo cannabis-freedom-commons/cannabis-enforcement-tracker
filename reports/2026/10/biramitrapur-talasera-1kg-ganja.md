@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0a9932a8da5f451912fed81e5a05b330
 tags: [odisha, sundargarh, biramitrapur, ganja, arrest]

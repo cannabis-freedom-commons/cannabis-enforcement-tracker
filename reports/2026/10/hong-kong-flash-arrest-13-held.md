@@ -45,7 +45,7 @@ media:
     media_url: https://dw-media.wenweipo.com/dams/wwpproduct/image/202610/30/6ae48912e4b036a1b38e39591.jpg
     publisher: 香港文匯報
     caption: 'The suspected drugs seized in the operation. Photo: Hong Kong Police.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 476ba762b8e89d3f0ec0402c486a24b4
 tags: [hong-kong, kowloon, triad, flash-arrest, drug-canteen]

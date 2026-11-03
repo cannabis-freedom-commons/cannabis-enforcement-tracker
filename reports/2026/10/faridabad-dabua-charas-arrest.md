@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.1108
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 65ee2cc9c6cf896c5dd31490c948ac6b
 tags: [faridabad, charas, ndps-act, haryana, rajasthan]

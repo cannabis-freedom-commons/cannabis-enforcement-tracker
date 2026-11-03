@@ -19,7 +19,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/29/61300239-323d-4d93-a584-4cb0cd8393e1_1793286427301/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'The 27-second video published with the report, showing men held in the case and packets of seized ganja laid out on a table. Video: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0922c8d0a73290ed4906b98cf63a3446
 tags: [anuppur, madhya-pradesh, ganja, ndps-act, jaithari]

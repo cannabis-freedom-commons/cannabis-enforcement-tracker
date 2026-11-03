@@ -22,7 +22,7 @@ media:
     media_url: https://images.midilibre.fr/api/v1/images/view/6ae44df1d73d7e7cd00bbe8a/large/image.jpg?v=1
     publisher: Midi Libre
     caption: 'The hangar in Redessan where gendarmes found 36 cannabis plants. Photo: Gendarmerie de Nîmes, published by Midi Libre.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 78f464fe3c82fe795640e9230967fe36
 tags: [redessan, gard, indoor-grow, gendarmerie]

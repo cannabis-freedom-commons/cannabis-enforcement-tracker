@@ -20,7 +20,7 @@ media:
     media_url: https://www.waka.com/content/uploads/2026/10/q/t/easterling-truck-contraband.jpeg
     publisher: WAKA
     caption: 'Contraband found in a supply truck at Easterling Correctional Facility in Clio. Photo: Alabama Department of Corrections, via WAKA.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6094dc04d08ba2c758a3bd7abd29c805
 tags: [alabama, prison-contraband, smuggling]

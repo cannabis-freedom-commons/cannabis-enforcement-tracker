@@ -16,7 +16,7 @@ figures:
   value:
     amount: 160650
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [karnataka, hubballi, ganja, ccb, dharwad]
 sources:

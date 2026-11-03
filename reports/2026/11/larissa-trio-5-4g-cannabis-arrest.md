@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.0054
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 41c20580ebe19a8b130f99a7c8e07e77
 tags: [larissa, possession, opke]

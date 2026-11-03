@@ -27,7 +27,7 @@ media:
     media_url: https://img.hkcd.com/userfiles/20261102/1793552295518215.jpg
     publisher: 香港商報網
     caption: Police photo, labelled 警方圖片, showing the suspected cannabis seized at the airport.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e5fe2ddfc526059cc1ca02d44a35af30
 tags: [hong-kong, airport, cannabis-buds]

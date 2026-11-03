@@ -16,7 +16,7 @@ figures:
   value:
     amount: 4000000
     currency: DZD
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 933de44bbd4d7156b2025c6663136d6a
 tags: [algiers, hussein-dey, kif, psychotropics, network]

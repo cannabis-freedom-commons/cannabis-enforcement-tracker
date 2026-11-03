@@ -15,7 +15,7 @@ media:
     media_url: https://bombaysamachar.com/uploads/fileUploads/article_kutch-news-drugs_1793601496_ffuv7.jpg
     publisher: Mumbai Samachar
     caption: Lead photo published with the Mumbai Samachar report on the 10 charas packets found at Ibrahim Bet
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7108145933cbe0f0af4799d82d98bb27
 tags: [kutch, charas, bsf, lakhpat]

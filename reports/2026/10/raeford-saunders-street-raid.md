@@ -20,7 +20,7 @@ media:
     media_url: https://qpwebsite.s3.amazonaws.com/uploads/2026/11/Incautacion-Hoke-1024x835.jpeg
     publisher: Qué Pasa
     caption: 'Part of what was seized in the raid, including drugs and guns, laid out for display. Photo: Hoke County Sheriff''s Office.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a8fe587d41baa225d3f6b3694a76e6b0
 tags: [north-carolina, raeford, hoke-county, raid, marijuana]

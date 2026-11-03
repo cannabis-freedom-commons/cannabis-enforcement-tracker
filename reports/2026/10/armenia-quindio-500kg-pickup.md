@@ -22,7 +22,7 @@ media:
     media_url: https://caracol.com.co/resizer/v2/IFLXCTLDQZCKBCCIZHJIJ3O2NU.jpeg?auth=0b5af4a4b0b0e41ff094576b0555c5e8ca4b553e0f4ff7a08987c123f290c284&quality=70&width=650&height=307&focal=775,505
     publisher: Caracol Radio
     caption: 'A still from police video of the marijuana load seized in Armenia. Photo: Policía Nacional, via Caracol Radio'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c927e64927c58f3e80f9f7f219530230
 tags: [armenia-quindio, quindio, colombia, policia-nacional]

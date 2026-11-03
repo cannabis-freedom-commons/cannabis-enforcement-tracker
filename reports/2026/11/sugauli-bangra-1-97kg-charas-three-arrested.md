@@ -22,7 +22,7 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/03/template/image/motihari-news-1793704150906_v.webp
     publisher: Dainik Jagran
     caption: The accused smugglers in police custody in East Champaran
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5210cadb02a25782ac18fd8ac6ed1cbe
 tags: [bihar, east-champaran, charas, sugauli, stf]

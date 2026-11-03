@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 0.23
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0164c6186edf55f2d6b343d558f750d3
 tags: [saharanpur, uttar-pradesh, charas, ndps-act, single-day-roundup]

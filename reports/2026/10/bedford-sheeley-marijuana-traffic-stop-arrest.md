@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 029065c4b96f4d83b88262e179c9f23b
 tags: [indiana, bedford, springville, possession, lawrence-county]

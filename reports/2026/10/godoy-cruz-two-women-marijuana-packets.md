@@ -12,7 +12,7 @@ summary: >-
   Mendoza police apprehended two women in Godoy Cruz after they tried to flee an identification check on a motorcycle. Packets of marijuana were found on one of them, and both were left with the local fiscal office.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 503835efa6de57178f76bee39987bade
 tags: [godoy-cruz, mendoza, marijuana, uap]

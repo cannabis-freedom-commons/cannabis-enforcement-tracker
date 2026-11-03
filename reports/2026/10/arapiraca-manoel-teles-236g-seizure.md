@@ -17,7 +17,7 @@ media:
     media_url: https://www.alagoas24horas.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-09.44.08-730x630.jpeg
     publisher: Alagoas 24 Horas
     caption: Sniffer dog K9 Beretta behind a table with the seized cannabis portions, banknotes, mobile phones, scale and packaging material from the two houses.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 701707f8db014eeb890611ac63d42fa4
 tags: [arapiraca, manoel-teles, maconha, k9-beretta]

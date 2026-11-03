@@ -19,7 +19,7 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/25/f160725e-3fdb-4d0f-b935-de4b1a99aba9_1792930001420.jpg
     publisher: Dainik Bhaskar
     caption: A uniformed officer stands beside a person whose face is blurred, the photograph published with the Gonda ganja arrest. Credit not stated.
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3fd97ad71f9ddc36e51b86fc869e6563
 tags: [uttar-pradesh, gonda, ganja, kotwali]

@@ -20,7 +20,7 @@ media:
     media_url: https://img.punjabkesari.in/multimedia/914/0/0X0/0/static.punjabkesari.in/2026_10image_14_48_445428631arrest.jpg
     publisher: Punjab Kesari
     caption: 'A man held with charas, in the photograph Punjab Kesari published with its report on the Sarkaghat seizure, captioned ''smuggler arrested with hashish''. Photo: Punjab Kesari'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f32bad273f44942b15ce1e9098e5ae88
 tags: [charas, himachal-pradesh, sarkaghat, ndps-act, mandi]

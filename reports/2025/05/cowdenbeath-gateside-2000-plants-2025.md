@@ -17,7 +17,7 @@ figures:
   value:
     amount: 3200000
     currency: GBP
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3a708afcd9ac86bf30a5bc28c729f1e5
 tags: [cowdenbeath, fife, cannabis-farm]

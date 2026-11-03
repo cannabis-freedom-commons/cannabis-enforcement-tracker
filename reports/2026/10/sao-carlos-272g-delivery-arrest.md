@@ -19,7 +19,7 @@ media:
     media_url: https://jornalpp.com.br/wp-content/uploads/2026/11/maconha.jpg
     publisher: Jornal Primeira Página
     caption: Lead photo on the source page for this seizure report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c0c4888529a96c1d4c74a33e2159675
 tags: [sao-carlos, maconha, delivery, operacao-feriado]

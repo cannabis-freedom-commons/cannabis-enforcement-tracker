@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8b95033a6407a16dbf265ff7953c9151
 tags: [mutubas, kafr-el-sheikh, hashish]

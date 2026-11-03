@@ -26,7 +26,7 @@ media:
     url: https://www.e-mostecko.cz/zpravy/most/156903-obrazem-policie-zabavila-v-dome-na-mostecku-marihuanu-za-pul-milionu-pestitele-obvinila-ze-zlocinu
     publisher: e-Mostecko.cz
     caption: Photographs of the seized marijuana published with the report.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [czechia, ustecky-kraj, most, indoor-grow, cannabis]
 sources:

@@ -20,7 +20,7 @@ media:
     media_url: https://champawatkhabar.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-12.25.31-737x445.jpeg
     publisher: Champawat Khabar
     caption: Men with their faces obscured, photographed in connection with the Chalthi checkpoint arrest; the page gives no caption or credit.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2bffe8e459974f0c9c764e2e2c2f706f
 tags: [champawat, charas, ndps, operation-prahar, uttarakhand]

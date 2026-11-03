@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.872
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3daa7e17f9f7a19e7880233c40ea2dae
 tags: [kozhikode, kerala, ganja-toffees, edibles, hapur]

@@ -20,7 +20,7 @@ media:
     media_url: https://eldoce.tv/resizer/v2/condenados-fpa-AQP2IV6XWNCHFA2UWUTSNTBVXE.jpg?auth=cfbf062a4ca5c4a6f6be91785bd0a3ccdfcf065455bb29e62f2908d371dba8dc&width=1440
     publisher: ElDoce.tv
     caption: Lead photo published with the Agua de Oro convictions report, captioned “condenados fpa”
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 84105c805c4cbc767f26dca936348cd9
 tags: [agua-de-oro, cordoba, narcomenudeo, delivery]

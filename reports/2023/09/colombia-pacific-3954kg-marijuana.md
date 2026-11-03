@@ -27,7 +27,7 @@ media:
     media_url: https://noscogiolanoche.com/wp-content/uploads/2023/10/42_DROGA-WWW-IMAGEN-JUAN-MEJIA.jpg.webp
     publisher: Nos Cogió La Noche
     caption: 'A Colombian Navy photograph of the seized drug haul, published with the report on the Pacific operations. Photo: Armada de Colombia.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0dd9434f3616981ff0cb831590a9b169
 tags: [colombia, armada, pacific, buenaventura, maritime]

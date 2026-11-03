@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.136
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 74ac087caa74026cfdb75ea2e0d23c98
 tags: [selikhino, khabarovsk-krai, article-228, wild-cannabis]

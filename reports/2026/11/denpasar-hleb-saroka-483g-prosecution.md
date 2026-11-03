@@ -25,7 +25,7 @@ media:
     media_url: https://www.nusabali.com/article_images/235376/simpan-ganja-dan-kokain-wna-belarus-dituntut-9-ta-800-2026-11-03-174149_0.jpg
     publisher: NusaBali
     caption: 'Defendant Hleb Saroka, 30, attending the demand hearing at Denpasar District Court on 3 November 2026. Photo: Patrix via NusaBali'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d0bf756a5ad074cee89940a5e3a34cab
 tags: [denpasar, badung, ganja, belarus, prosecution]

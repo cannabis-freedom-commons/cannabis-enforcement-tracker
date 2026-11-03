@@ -17,7 +17,7 @@ figures:
   value:
     amount: 7000
     currency: BSD
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9502b607f3aa5575b255ed6b04bfc27b
 tags: [new-providence, hydroponic, magistrates-court]

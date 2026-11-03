@@ -17,7 +17,7 @@ figures:
   value:
     amount: 94800
     currency: GBP
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dfe57dc985f5e45d5318bd995c67d283
 tags: [glasgow, townhead, scotland, cannabis-farm, sheriff-court]

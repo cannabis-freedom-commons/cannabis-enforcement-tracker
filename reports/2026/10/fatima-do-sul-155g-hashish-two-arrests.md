@@ -19,7 +19,7 @@ media:
     media_url: https://fatimaemdia.com.br/images/noticias/44253/30102955_DROGA.jpeg
     publisher: Fátima em Dia
     caption: 'Drugs photograph published with the Fátima do Sul arrest report (file name DROGA). Credit: Fátima em Dia'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8321a28f9573208dd3cbf82c53bb3a71
 tags: [fatima-do-sul, hashish, skunk, forca-tatica, mato-grosso-do-sul]

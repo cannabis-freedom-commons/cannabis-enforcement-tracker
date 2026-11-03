@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.38
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce7a351af40135432ef435616eac238b
 tags: [dera-ismail-khan, hashish, opium]

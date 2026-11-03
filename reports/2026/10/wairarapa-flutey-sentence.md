@@ -25,7 +25,7 @@ media:
     media_url: https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/vehicles-and-jet-skis-were-sized-as-part-of-the-investigatio-DRBJRPLGOVAQNG3HYNE4Z2DASU.png?auth=537aa2da40fe79ee877600c08b4cd7963026a25a71447b2335ad8b73c8662881&quality=70&width=767&height=431&focal=329%2C219
     publisher: 1News
     caption: 'Vehicles and jet skis seized by police as part of the investigation. Photo: Supplied'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 8fec6133e33d4bde2ff0131d5004373b
 tags: [wairarapa, wellington, organised-crime, methamphetamine, cannabis]

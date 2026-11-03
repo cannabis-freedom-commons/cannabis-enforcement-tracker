@@ -21,7 +21,7 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/2e57/live/42b5ccd0-577b-11f0-aa1a-0b1aedda12b7.png.webp
     publisher: BBC News
     caption: 'PSNI photo of a large room full of suspected cannabis plants seized in the Strabane search. Photo: PSNI'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7201eecf195ee3dd400b29057a064349
 tags: [strabane, psni, inla, cannabis-factory]

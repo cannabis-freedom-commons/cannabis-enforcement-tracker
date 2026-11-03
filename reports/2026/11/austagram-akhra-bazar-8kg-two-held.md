@@ -19,7 +19,7 @@ media:
     media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/Untitled-1-20261102091510.jpg
     publisher: Ekushey Sangbad
     caption: Photo accompanying the report of the man and woman detained with cannabis in Austagram police's special operation
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0133db89aa060ee2e95d6b31b93b15b2
 tags: [austagram, kishoreganj, ganja]

@@ -19,7 +19,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/07/ff40c70dd5bb63d7988e8079efb3dfd0_a.jpg
     publisher: Haber7
     caption: Lead photo on the Haber7 page for this seizure report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41c2c8165a8708f5e1ed38aac842cd8f
 tags: [diyarbakir, cinar, kubar-esrar]

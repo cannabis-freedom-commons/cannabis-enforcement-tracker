@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca952ae3022533a62846afb958e03711
 tags: [turkey, kocaeli, karamursel, esrar, street-dealers]

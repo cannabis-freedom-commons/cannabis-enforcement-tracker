@@ -34,7 +34,7 @@ media:
     media_url: https://files.agoramt.com.br/2026/10/viatura-forca-tatica.jpeg
     publisher: Agora MT
     caption: 'A Força Tática vehicle during the police action in the Tancredo Neves neighbourhood. Photo: Gustavo Sabino – TV Cidade Record'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d141e6ab5018b8906af873c87d10d4a5
 tags: [rondonopolis, mato-grosso, forca-tatica, trafico-de-drogas, maconha]

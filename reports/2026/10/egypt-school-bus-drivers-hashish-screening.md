@@ -11,7 +11,7 @@ summary: >-
   Egypt's Fund for Combating and Treatment of Addiction tested 3,660 school-bus drivers in several governorates during the first six weeks of the 2026/2027 school year and 22 tested positive, 21 of them for hashish. All 22 were referred to the public prosecution for driving under the influence, and the education ministry was to dismiss any found working in schools.
 figures:
   charged: 22
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e7f3df937e3ca8b4fbc07277be1dee47
 tags: [egypt, school-buses, drug-driving, hashish, driver-testing]

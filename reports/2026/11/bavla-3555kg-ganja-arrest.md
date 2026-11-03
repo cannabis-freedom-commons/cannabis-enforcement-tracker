@@ -22,7 +22,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/02/a96bee80-69d9-4a6d-b73e-4b2e2bdd8cc0_1793626457281/mp4/v360.mp4
     publisher: Divya Bhaskar
     caption: Video report on the SOG ganja seizure and arrest in Bavla
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 42c6d4c2ae7bde0271a550341cde64e5
 tags: [bavla, gujarat, ganja, sog, ndps]

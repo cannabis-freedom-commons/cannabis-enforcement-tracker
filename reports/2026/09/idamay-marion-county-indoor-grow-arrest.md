@@ -19,7 +19,7 @@ media:
     media_url: https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20260924/6ab58f907575f479cdf0cda2/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4
     publisher: WDTV
     caption: WDTV's 44-second video segment for this home-confinement marijuana-grow report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d07599c78d81359195c8fd253a8e3729
 tags: [idamay, marion-county, indoor-grow, home-confinement]

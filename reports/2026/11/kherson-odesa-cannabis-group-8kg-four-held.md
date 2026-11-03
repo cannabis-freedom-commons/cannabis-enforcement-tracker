@@ -33,7 +33,7 @@ media:
     media_url: https://cdn4.suspilne.media/images/resize/1040x1.78/9fc1a278dd6a1321.jpg
     publisher: Suspilne Kherson
     caption: Investigative actions during searches for cannabis in Kherson region
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 09f10ef32deba9264ce84c0d428ad4f8
 tags: [kherson, odesa, cultivation]

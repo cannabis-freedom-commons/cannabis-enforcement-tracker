@@ -19,7 +19,7 @@ media:
     media_url: https://informugra.ru/upload/iblock/881/zhlv4cpno15mxkrl1e7sda2jb6ztqmw7/3cd49c86-df19-41e6-80da-d17a2e70b4ef.jpg
     publisher: Региональный информационный центр «Югра»
     caption: 'Police photo of the grow tent in the flat, showing four fabric pots of cannabis seedlings under a lamp, with a «Полиция Югры» watermark. Photo: Yugra police'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f431491cba5875f37386197789ca5eac
 tags: [kogalym, yugra, indoor-grow, article-228, russia]

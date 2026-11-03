@@ -19,7 +19,7 @@ media:
     media_url: https://gfx.nrk.no/gpPKQZj0YyvGFUzTFKx3xgb8VW5G5WmTY68YPp7lcvcg.jpg
     publisher: NRK
     caption: 'A cannabis plantation found during the Wednesday raid in Gauldalen. Photo: Politiet / Politiet'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 96a2f2e3f15facaea5cf49fe06da911b
 tags: [trondelag, plantation, lithuania]

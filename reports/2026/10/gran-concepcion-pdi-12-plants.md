@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 4
   plants_destroyed: 12
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 907cf2967c86f9504d13b3c9bdbef1b2
 tags: [gran-concepcion, biobio, pdi, indoor, ley-20000]

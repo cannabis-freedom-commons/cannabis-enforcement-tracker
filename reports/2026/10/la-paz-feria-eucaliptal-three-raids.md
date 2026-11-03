@@ -16,7 +16,7 @@ media:
     media_url: https://admin.lagacetaonline.com.ar/assets/d5888e91-5525-4055-b6db-68b219f10e48?width=780&format=webp&quality=78&fit=cover
     publisher: LaGACETA online
     caption: Raids in La Paz over firearms abuse and drugs.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 74593e92c2b784fe2c03f0e2d917b642
 tags: [la-paz, entre-rios, raid]

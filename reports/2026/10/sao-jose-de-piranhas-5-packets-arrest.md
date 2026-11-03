@@ -12,7 +12,7 @@ summary: >-
   Military Police arrested a man in São José de Piranhas, Paraíba, on the afternoon of 29 October 2026 after he dropped five paper packets of cannabis and five rocks of crack while running from a patrol in the São Sebastião neighbourhood. Officers found 40 reais in cash on him; he said the drugs were for personal use and was taken to the regional Civil Police station.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6cbee5691e7d18cd8010abbb3fae3a71
 tags: [paraiba, sao-jose-de-piranhas, maconha, crack, trafico-de-drogas]

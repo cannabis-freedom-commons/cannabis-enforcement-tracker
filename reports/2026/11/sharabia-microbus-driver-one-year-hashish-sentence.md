@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 10000
     currency: EGP
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b21cf4c74ffe9b29c9c333abcfc8fba6
 tags: [cairo, sharabia, hashish, sentencing]

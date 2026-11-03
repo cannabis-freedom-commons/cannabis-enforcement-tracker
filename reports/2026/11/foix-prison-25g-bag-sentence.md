@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.025
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8e422c17f9fd19e9842f7b7c9a3a0dc6
 tags: [foix, ariege, prison, community-service]

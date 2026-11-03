@@ -20,7 +20,7 @@ media:
     media_url: https://jocoreport.com/wp-content/uploads/2026/10/JCSO-I-40-Traffic-Stop-10-30-26.jpg
     publisher: JoCo Report
     caption: 'A Johnston County Sheriff''s Office badge, a handgun, bags of suspected drugs, cash and packaging displayed after the I-40 traffic stop. Photo: JoCo Report'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4176060d8c00e61b84cc15db0d187e4b
 tags: [north-carolina, benson, traffic-stop, possession, firearm]

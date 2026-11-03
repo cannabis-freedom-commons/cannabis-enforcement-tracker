@@ -19,7 +19,7 @@ media:
     media_url: https://vocaltv.in/static/c1e/client/111914/migrated/deee5ed80ed75fbd1fc0a53e0a8ed8bf.jpg
     publisher: Vocal TV
     caption: Sanjeev Rai seated on the floor beside three wrapped packets of ganja and a backpack, in the photo published with the report of his arrest at Kharagpur station. No credit given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 40056e0134687275b34bdcc3a07b5fce
 tags: [ganja, west-bengal, kharagpur, railway-police, ndps]

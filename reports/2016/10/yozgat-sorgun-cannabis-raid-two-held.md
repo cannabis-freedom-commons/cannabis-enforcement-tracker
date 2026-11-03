@@ -19,7 +19,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2016/43/4907dca95a7cffc60e56be78de63190a_a.jpg
     publisher: Haber7
     caption: Four hunting rifles, packages and other seized items displayed on a table with two sniffer dogs, in front of a provincial gendarmerie command banner, in the photo published with the Haber7 report.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e13c3e1ae77ee6e6d63191ed35a12aac
 tags: [turkey, yozgat, sorgun, esrar, jandarma]

@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.00295
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 57585b6aa7c21366f1e234cd72569f44
 tags: [florida, delray-beach, marijuana, traffic-stop]

@@ -22,7 +22,7 @@ media:
     media_url: https://i2-prod.leicestermercury.co.uk/news/leicester-news/article11185503.ece/ALTERNATES/s1200f/3_Leicester-Mags.jpg
     publisher: Leicestershire Live
     caption: 'Leicester Magistrates'' Court in Pocklingtons Walk, where Manjinder Sadhra was sentenced. Photo: Local Democracy Reporting Service'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7b260f32a22e7f43e92b53b4c835111c
 tags: [leicester, drug-driving, possession, magistrates-court]

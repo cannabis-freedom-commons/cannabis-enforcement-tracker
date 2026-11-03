@@ -19,7 +19,7 @@ media:
     media_url: https://images.lac.atexcloud.io/view/acePublic/alias/contentid/1uv9dcyzzuol28z9bz3/0/sinopolisequestrosostanzastupefacente3nov2026-jpeg.jpeg?f=3%3A2
     publisher: Il Reggino
     caption: Seized marijuana spread on a sheet to dry, with a police evidence marker visible.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1e8089bf0f09d5311261e277794ae2f0
 tags: [sinopoli, reggio-calabria, marijuana]

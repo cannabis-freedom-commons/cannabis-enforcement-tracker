@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 6
   plants_destroyed: 31
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [leiyang, hunan, indoor-grow, cannabis]
 sources:

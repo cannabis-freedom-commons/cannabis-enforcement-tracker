@@ -19,7 +19,7 @@ media:
     media_url: https://i0.wp.com/s3.socialnews.xyz/wp-content/uploads/2026/10/29/202610293995509.jpeg?ssl=1
     publisher: SocialNews.XYZ
     caption: 'Suspects and Crime Branch officers photographed outside the Northern Range-II Crime Branch office in Sector 18, Rohini, New Delhi, after the Dwarka arrests. Photo: IANS via SocialNews.XYZ.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9d52c5239ea562727dfe22538659d569
 tags: [delhi, charas, crime-branch, dwarka, ndps-act]

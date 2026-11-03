@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.5
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f24df953ee4a38d06196dfec2d11a52
 tags: [seoul, incheon, international-mail, controlled-delivery]

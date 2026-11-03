@@ -12,7 +12,7 @@ summary: >-
   Roseville police arrested two people after an Oct. 11 probation search on Herbert Street uncovered a significant indoor marijuana cultivation operation, several pounds of processed marijuana, other drugs and 18 firearms. Both were booked into South Placer County Jail on weapons- and narcotics-related charges.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8845a72ee79e4af51c3c080feb2914c4
 tags: [roseville, placer-county, indoor-grow]

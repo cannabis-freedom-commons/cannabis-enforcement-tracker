@@ -12,7 +12,7 @@ summary: >-
   Mount Pleasant Township police arrested parolee Dante Sunseri on 12 August 2026 at a Southview Road property in McDonald after finding a four-storey barn fitted with multiple marijuana grow rooms. Officers hauled away three truckloads of growing equipment and marijuana and seized nine firearms Sunseri was barred from possessing.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6fe42fe40034bfbd0e079df194059705
 tags: [washington-county, mcdonald, barn-grow, parole]

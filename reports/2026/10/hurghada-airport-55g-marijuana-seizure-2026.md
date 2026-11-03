@@ -11,7 +11,7 @@ summary: >-
   Customs officers at Hurghada International Airport found a black bag holding 55.5 grams of a green herb suspected to be marijuana in the luggage of a passenger arriving from Turkey. They filed customs seizure report No. 9 of 2026 and held the material; no arrest or charge has been reported.
 figures:
   kg_seized: 0.0555
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 813e1b3125853f57caf8cd765433a41e
 tags: [hurghada, customs, airport, marijuana]

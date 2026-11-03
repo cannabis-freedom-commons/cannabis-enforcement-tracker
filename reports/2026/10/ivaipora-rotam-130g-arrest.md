@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.13
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4ea6c99b0582f0826f2d2f800362e091
 tags: [ivaipora, parana, brazil, rotam, maconha]

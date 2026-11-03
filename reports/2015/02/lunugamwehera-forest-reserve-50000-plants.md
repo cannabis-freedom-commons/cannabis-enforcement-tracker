@@ -14,7 +14,7 @@ figures:
   arrested: 3
   plants_destroyed: 50000
   kg_seized: 590
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [lunugamwehera, forest-reserve, ganja, special-task-force, sri-lanka]
 sources:

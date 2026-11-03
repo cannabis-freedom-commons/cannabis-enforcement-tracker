@@ -14,7 +14,7 @@ figures:
   arrested: 175
   charged: 8
   kg_seized: 0.875
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e5113de0ab92e33a24796da78c3298ea
 tags: [mugla, skunk, esrar, jandarma]

@@ -24,7 +24,7 @@ media:
     media_url: https://images.radio-canada.ca/q_auto,w_700/v1/ici-info/16x9/perquisition-vent-clim-chicoutimi-police.jpeg
     publisher: Radio-Canada
     caption: 'A police dog handler enters one of the buildings searched in Saguenay. Photo: Radio-Canada / Gabrielle Morissette'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6102a58905acb629103bb08caae50d08
 tags: [saguenay, quebec, north-savage-gang, cocaine, cannabis]

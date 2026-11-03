@@ -25,7 +25,7 @@ media:
     media_url: https://barrie360.com/cobPub/uploads/2026/10/holy-768x1023.jpg
     publisher: Barrie 360
     caption: 'Items seized in the Midland search laid out in front of a Southern Georgian Bay OPP bag. Photo: Southern Georgian Bay OPP via Barrie 360'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c72dc1de33851a0d18222b470837a7fd
 tags: [midland, ontario, shatter, firearm, opp]

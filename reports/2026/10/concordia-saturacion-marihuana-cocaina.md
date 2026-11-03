@@ -36,7 +36,7 @@ media:
     media_url: https://concordia24.com.ar/wp-content/uploads/2026/10/IMG-20261030-WA0005-scaled.jpg
     publisher: Concordia 24
     caption: White packets laid out on the ground, among the items photographed after the operation. Published by Concordia 24; no credit given.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7430acb15a352b5c3ce1ef995ba16e4a
 tags: [concordia, entre-rios, marijuana, narcomenudeo, saturation-operation]

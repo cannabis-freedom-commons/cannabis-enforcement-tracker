@@ -14,7 +14,7 @@ figures:
   arrested: 7
   charged: 7
   kg_seized: 4.577
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e59e38946f834c9bd6b8bde2767ac733
 tags: [satna, madhya-pradesh, ganja, ndps, retail-drug-sales]

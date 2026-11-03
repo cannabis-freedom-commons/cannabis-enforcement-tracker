@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.002
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [pennsylvania, taylor, possession, warrant, small-amount]
 sources:

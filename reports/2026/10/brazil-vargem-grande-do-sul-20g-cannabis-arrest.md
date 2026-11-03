@@ -19,7 +19,7 @@ media:
     media_url: https://www.gazetavg.com.br/wp-content/uploads/2026/10/Trafico-Dolores-696x722.jpg
     publisher: Gazeta de Vargem Grande
     caption: 'Police photograph of the drugs and brass knuckles recovered with the arrested man. Photo: Polícia Militar'
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 790eecabf62b209f9cc7e11c38e5d6a6
 tags: [brazil, sao-paulo, vargem-grande-do-sul, cannabis, arrest]

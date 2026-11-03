@@ -14,7 +14,7 @@ figures:
   arrested: 3
   charged: 3
   kg_seized: 0.45
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 32fe0840ae70cc6558b08fcc84b2ccfb
 tags: [mississippi, monroe-county, marijuana-possession, narcotics-investigation, cash-seizure]

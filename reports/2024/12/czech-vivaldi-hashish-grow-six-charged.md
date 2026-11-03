@@ -14,7 +14,7 @@ figures:
   charged: 6
   plants_destroyed: 100
   kg_seized: 25
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, cannabis-grow, czechia, slovakia, vivaldi]
 sources:

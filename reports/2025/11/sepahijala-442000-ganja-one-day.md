@@ -11,7 +11,7 @@ summary: >-
   Police, BSF, TSR and forest teams destroyed more than 442,000 mature ganja plants in forest areas of Sepahijala district, Tripura, in a single day on 30 November 2025. The plots lay at Amarendranagar, Kamalnagar, Ghatigarh, Dulunga, Kartailya and Konaban; police called it one of the district's largest one-day drives.
 figures:
   plants_destroyed: 442000
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, ganja, forest-land]
 sources:

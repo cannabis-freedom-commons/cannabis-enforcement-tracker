@@ -12,7 +12,7 @@ summary: >-
   Special Response Battalion 9 recovered 11 kilograms of cannabis from an abandoned school bag beside a pond in Ashera, Habiganj Sadar, on 30 October 2026. No one was detained, and the cannabis was handed to Habiganj Sadar Model Police Station.
 figures:
   kg_seized: 11
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8e06c7e6adf478230d950617124dc4f4
 tags: [habiganj, ganja, srb, sylhet]

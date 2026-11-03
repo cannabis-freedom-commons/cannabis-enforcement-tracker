@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 2.65
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 643820af9e72148432e021adc6317530
 tags: [ujjain, ganja, operation-prahar, madhya-pradesh]

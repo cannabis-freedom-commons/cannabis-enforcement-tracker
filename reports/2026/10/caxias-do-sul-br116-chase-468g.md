@@ -29,7 +29,7 @@ media:
     media_url: https://uploads.leouve.com.br/2026/10/WhatsApp-Image-2026-10-30-at-07.31.13.jpeg
     publisher: Leouve
     caption: 'Marijuana, hashish, cash, phones and trafficking material laid out in front of Brigada Militar plaques. Photo: Comunicação Social 12º BPM'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: cbc70590c13f834315e18ac67870dd71
 tags: [caxias-do-sul, rio-grande-do-sul, br-116, hashish, police-chase]

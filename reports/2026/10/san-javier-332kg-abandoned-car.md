@@ -30,7 +30,7 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/whatsapp_image_2026-10-29_at_17.41.13.jpeg
     publisher: Argentine Naval Prefecture
     caption: 'Prefectura vehicles with blue lights on a dirt track at dusk, an officer and a sniffer dog beside an abandoned dark car. Photo: Argentine Naval Prefecture / argentina.gob.ar'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b579ad61f43b43b9dc30f5959e5d0ecf
 tags: [misiones, san-javier, prefectura-naval, uruguay-river, brazil-border]

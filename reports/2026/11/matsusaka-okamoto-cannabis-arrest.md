@@ -11,7 +11,7 @@ summary: >-
   Matsusaka police arrested a 22-year-old Filipino beautician on 1 November 2026 after cannabis was found in his car during a late-night patrol in Okamoto-cho. He admitted possession and police say they are tracing how he obtained the drug.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: afb00967a28b550fdfce46f2e24cc78b
 tags: [matsusaka, mie, car-check]

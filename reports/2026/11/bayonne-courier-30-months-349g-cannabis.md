@@ -21,7 +21,7 @@ media:
     media_url: https://www.ici.fr/pikapi/images/10066421-2518-425b-9796-d841c375be43/1200x680
     publisher: ICI
     caption: 'Police arrest at night in the streets of Bayonne. Photo: Maxppp - XAVIER LEOTY'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5a4074c6fa0af95cb6122b4fe95511dc
 tags: [bayonne, pyrenees-atlantiques, cannabis-resin]

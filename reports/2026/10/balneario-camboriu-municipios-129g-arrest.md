@@ -19,7 +19,7 @@ media:
     media_url: https://i0.wp.com/camboriu.news/wp-content/uploads/2026/10/drofa.jpg?resize=1068%2C712&ssl=1
     publisher: Camboriú News
     caption: 'Drugs, cash, a mobile phone, a precision scale and packaging from the operations displayed in front of a 12th Military Police Battalion sign. Photo: 12º BPM / Military Police of Santa Catarina.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f6f93b955e4984adeeab1e212638007a
 tags: [balneario-camboriu, santa-catarina, maconha, hashish, military-police]

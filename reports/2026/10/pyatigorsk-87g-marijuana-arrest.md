@@ -20,7 +20,7 @@ media:
     media_url: https://media.1777.ru/images/images_processing/021/0212749927102631.webp
     publisher: 1777.ru
     caption: 'Police handout photo of a plastic jar of marijuana published with the report of the Pyatigorsk detention. Photo: Main Directorate of the Interior Ministry for Stavropol Krai (ГУ МВД России по Ставропольскому краю)'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2f253c56f9099d83736e0726d0af17ca
 tags: [pyatigorsk, stavropol-krai, kavminvody, zakladka, russia]

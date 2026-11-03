@@ -18,7 +18,7 @@ media:
     media_url: https://www.newsbangladesh.com/media/imgAll/2026October/d-2610300817.png
     publisher: News Bangladesh
     caption: 'Photo published with the report of Indian mobile displays, liquor and cannabis seized on the Lalmonirhat border. Photo: News Bangladesh'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: f23ca7ab1b4c352541b8ee93cbf1ce7b
 tags: [lalmonirhat, bgb, hatibandha, border, ganja]

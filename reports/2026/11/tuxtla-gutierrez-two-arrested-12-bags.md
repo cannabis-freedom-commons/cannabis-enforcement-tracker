@@ -18,7 +18,7 @@ media:
     media_url: https://nau.mx/_next/image?url=https%3A%2F%2Fs3.us-east-1.wasabisys.com%2Fnaumedia%2Fnotas%2F2026%2F11%2Fb148cf52-6d2b-442e-9351-b5597a304942.webp&w=1080&q=75
     publisher: NAU
     caption: Detained man standing in front of a Fiscalía General del Estado backdrop.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef1005b69b44db1feecaae0762142df3
 tags: [tuxtla-gutierrez, chiapas, possession]

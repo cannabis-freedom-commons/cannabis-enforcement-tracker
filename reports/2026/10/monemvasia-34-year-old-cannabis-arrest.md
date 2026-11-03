@@ -12,7 +12,7 @@ summary: >-
   Laconia O.P.K.E. officers arrested a 34-year-old foreign man in Monemvasia municipality at midday on 31 October 2026 and seized a small amount of cannabis from him. The Voion Police Department is conducting the preliminary investigation.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3463a0bace1211578fa4e111975165d3
 tags: [monemvasia, laconia, possession]

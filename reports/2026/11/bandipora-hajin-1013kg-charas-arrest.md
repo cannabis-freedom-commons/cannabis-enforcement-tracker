@@ -19,7 +19,7 @@ media:
     media_url: https://www.knskashmir.com/userfiles/image/639292254445999244_WhatsApp_Image_2026-11-02_at_19.18.14.jpeg
     publisher: KNS
     caption: Lead photo on the KNS page for this seizure report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 094ba077cdaf22ff46814a7051e2e663
 tags: [bandipora, hajin, charas, ndps]

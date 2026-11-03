@@ -17,7 +17,7 @@ figures:
   value:
     amount: 1000000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kondagaon, chhattisgarh, ganja, maize, ndps]
 sources:

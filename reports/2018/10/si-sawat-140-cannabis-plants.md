@@ -12,7 +12,7 @@ summary: >-
   Si Sawat district chief Narit Songnipitkun led police, soldiers and volunteers up Khao Bo Luk Rang in Kanchanaburi on 1 October 2018 and cut down 140 cannabis plants grown in forest behind a hut. No one was found at the site; police were to investigate to identify the growers.
 figures:
   plants_destroyed: 140
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kanchanaburi, si-sawat, hilltop, forest]
 sources:

@@ -12,7 +12,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 15ef00d6da69d221a8d312ae792df658
 tags: [alabama, cherokee-county, cedar-bluff, marijuana-possession, arrest]

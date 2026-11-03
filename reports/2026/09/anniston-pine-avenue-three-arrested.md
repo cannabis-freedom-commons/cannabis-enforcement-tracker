@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.14175
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d3bf0c41394297d8ddee1263249ff977
 tags: [anniston, calhoun-county, marijuana]

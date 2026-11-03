@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9c034793656f16715bb7a02c2be5fb3c
 tags: [melbourne, preston, northland, possession]

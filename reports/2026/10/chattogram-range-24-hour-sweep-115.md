@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 7610
     currency: BDT
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 409aabad9a9e61d9b268e2c1e7d42abb
 tags: [chattogram, bangladesh, ganja, drug-sweep, mobile-court]

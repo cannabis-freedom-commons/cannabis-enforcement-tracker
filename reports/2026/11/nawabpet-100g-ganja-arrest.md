@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6addaf4756c1317a7edc0c8f99c44c24
 tags: [nawabpet, rangareddy, ganja, telangana]

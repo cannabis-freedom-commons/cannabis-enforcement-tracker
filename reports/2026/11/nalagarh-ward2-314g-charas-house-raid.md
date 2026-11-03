@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.314
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 901bd737be7d0e9b0fa280a3ccdc3465
 tags: [nalagarh, solan, charas, ndps]

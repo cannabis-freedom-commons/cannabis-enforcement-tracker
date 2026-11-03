@@ -15,7 +15,7 @@ figures:
   charged: 3
   kg_seized: 9.504
   prison: 6 years
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 098204bbc0d8f289e1f47255ca5979de
 tags: [badr, cairo, hashish, sentencing, trafficking]

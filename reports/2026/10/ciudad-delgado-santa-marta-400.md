@@ -26,7 +26,7 @@ media:
     media_url: https://i0.wp.com/croniosv.com/wp-content/uploads/2026/10/HV2Sv0YWgAA1v6u.jpeg?w=680&ssl=1
     publisher: Diario Digital Cronio de El Salvador
     caption: 'Photograph of the seized cannabis portions laid out after the Ciudad Delgado arrest. Photo: Diario Digital Cronio de El Salvador'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 051f6012e95396d934a398b09d2e1150
 tags: [ciudad-delgado, san-salvador, pnc, marihuana, possession]

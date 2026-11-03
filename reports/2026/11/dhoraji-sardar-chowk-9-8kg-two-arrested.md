@@ -22,7 +22,7 @@ media:
     media_url: https://media.abtakmedia.com/wp-content/uploads/2026/11/1793624880/ધોરાજીના-સરદાર-860x645.jpg.webp
     publisher: Abtak Media
     caption: Lead photo on the source page for the Sardar Chowk ganja seizure report
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a339b3004fe7091814b4b31436a47c10
 tags: [dhoraji, rajkot, ganja, ndps]

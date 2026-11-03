@@ -27,7 +27,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/27/9ce87f85-0174-4fd4-8175-a19718d4fb01_1793098731923/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Dainik Bhaskar video report on the seizure of ganja worth 30.25 lakh rupees and the driver's arrest in Sonbhadra (27 seconds).
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 32d61a88bc37d03ee44a4105a6e95db2
 tags: [sonbhadra, uttar-pradesh, ganja, odisha, ndps-act]

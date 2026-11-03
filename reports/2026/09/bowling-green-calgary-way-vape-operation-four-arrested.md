@@ -25,7 +25,7 @@ media:
     media_url: https://gray-wbko-prod.gtv-cdn.com/resizer/v2/5VIBQVOQ4NC6BGFNOPG4HFJCEE.jpg?auth=5fad0e28b792fe3fa84dd61ec60f3712eb02321ad4d4dc9fcb4a6be45e46529c&width=1300&height=1277&smart=true
     publisher: WBKO
     caption: 'Seized marijuana vape products and related items. Photo: WBKO'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4d1851206185c6298d6320bb751aec73
 tags: [bowling-green, warren-county, vape, thc, kentucky]

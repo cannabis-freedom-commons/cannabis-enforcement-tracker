@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.3
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e9fd15b6eb58a5d690e9361cd287348
 tags: [nonantola, modena, hashish]

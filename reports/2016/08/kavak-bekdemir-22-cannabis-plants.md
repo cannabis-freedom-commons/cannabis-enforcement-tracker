@@ -18,7 +18,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2016/34/d97b4da1f6eeaadf90a38cec0711fcd6_a.jpg
     publisher: Haber7
     caption: Photo published with the Haber7 report on the seizure of 22 cannabis plants in Kavak.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 20a7fb5ded8f39975f0fa3743005b4c0
 tags: [kavak, samsun, hint-keneviri]

@@ -19,7 +19,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/02/5d8f1719-35af-48c4-bf86-40675f50bdfb_1793610123325/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video report on the Maranchi police raid, seizure and arrests.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8faa473db0b039e8b6ed1a4ab1d14db0
 tags: [maranchi, patna, bihar, ganja]

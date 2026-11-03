@@ -19,7 +19,7 @@ media:
     media_url: https://static.actu.fr/uploads/2026/11/cannabis-loiret-nov-2026-960x640.jpg
     publisher: actu.fr
     caption: 'Police photo of the clandestine cannabis plantation in the Amilly woods, with plants reaching more than 2.50 m. Photo: Police nationale du Loiret'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 310b38679824ad14a0e0fa696169cc2f
 tags: [amilly, loiret, outdoor-grow]

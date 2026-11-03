@@ -12,7 +12,7 @@ summary: >-
   Police in Xanthi arrested a Greek man on 30 October 2026 after finding a knife and a cannabis cigarette on him during a check. Both items were seized and the Xanthi crime prosecution department is conducting the preliminary investigation.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e0365e3e59365ae462c4de343f9c365a
 tags: [xanthi, possession]

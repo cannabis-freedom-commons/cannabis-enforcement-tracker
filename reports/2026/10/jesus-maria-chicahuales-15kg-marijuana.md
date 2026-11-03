@@ -19,7 +19,7 @@ media:
     media_url: https://www.binoticias.com/_next/image?url=https%3A%2F%2Fadmin.binoticias.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Frecorte_1200x800%2Fpublic%2Ffield-image%2F2026-10%2FCATEO.jpg%3Fitok%3D4UGb2-uB&w=1920&q=75
     publisher: BI Noticias
     caption: 'State police and investigative officers at a house in Chicahuales I where marijuana, crystal and cocaine were found. Photo: BI Noticias'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 1f7ac309e9f23686e72af9fdaeb0d055
 tags: [aguascalientes, jesus-maria, marihuana, cateo]

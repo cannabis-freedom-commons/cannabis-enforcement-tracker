@@ -20,7 +20,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/31/d19f74b8-f3f8-4781-850a-a554d9ef9f05_1793447133119/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar''s 26-second video report on the seizure of 28 cannabis plants from Devi Singh Yadav''s courtyard in Haider village. Credit: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 45f2ceb6a44ef6c91355c1e0cdcd19ca
 tags: [ashoknagar, madhya-pradesh, ganja, ndps-act, home-grow]

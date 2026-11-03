@@ -25,7 +25,7 @@ media:
     url: https://sumut.antaranews.com/berita/574815/polres-simalungun-sita-24-pohon-ganja-dari-ladang-warga
     publisher: ANTARA News Sumatera Utara
     caption: 'Simalungun police personnel display the seized cannabis plants at Juma Lepar, Dolok Silau. Photo: ANTARA/HO-Polres Simalungun.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [simalungun, coffee, north-sumatra]
 sources:

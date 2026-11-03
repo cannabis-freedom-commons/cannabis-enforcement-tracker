@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 71
   kg_seized: 164
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d29888ab55f19e3434f90b46a0d68c7d
 tags: [saudi-arabia, hashish, jazan, border-guards]

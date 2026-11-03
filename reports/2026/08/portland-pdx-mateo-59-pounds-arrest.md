@@ -20,7 +20,7 @@ media:
     media_url: https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20260930/6abc9b8995b09c37ca158727/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4
     publisher: KPTV (FOX 12 Oregon)
     caption: KPTV video report on the PDX marijuana arrest and luggage seizure (about 2 min 19 s)
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 37c829c9227693a6427e61cce2512cff
 tags: [portland, pdx, checked-luggage, interstate]

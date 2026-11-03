@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 43d98d0b25dd3a14518c777d710f53f1
 tags: [sonora, cajeme, narcomenudeo, crystal]

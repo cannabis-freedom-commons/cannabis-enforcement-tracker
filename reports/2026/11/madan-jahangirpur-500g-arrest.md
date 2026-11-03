@@ -23,7 +23,7 @@ media:
     media_url: https://cdn.ajkerdarpon.com/images/010448f013230bfde2f2ac1f3acadd30.jpeg
     publisher: Ajker Darpan
     caption: Photo published with the report of the 500-gram ganja seizure in Madan
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fec3ab6592d957a406934ea32db240f2
 tags: [madan, netrokona, ganja]

@@ -28,7 +28,7 @@ media:
     media_url: https://smartcdn.gprod.postmedia.digital/saltwire/wp-content/uploads/2026/10/tch-tk091426hrp1_305213189-2-e1793213483948.jpg
     publisher: SaltWire
     caption: 'Halifax Regional Police announced the seizure of 6.2 kg and 1,400 pills of fentanyl, the largest fentanyl seizure in Halifax police history. Photo: Tim Krochak / The Chronicle Herald'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b48ee7760df681a050cf494658d510b9
 tags: [nova-scotia, dartmouth, edibles, cannabis-gummies, organized-crime]

@@ -27,7 +27,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/01/whatsapp_video_2026_11_01_at_6_46_54_pm_1793540977067/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video report on the Kotwali ganja seizure and arrests
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8810b58a62f86da78a72d85cdf424ad9
 tags: [raipur, ganja, kotwali, nagpur, ndps]

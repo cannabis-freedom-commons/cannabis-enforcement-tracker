@@ -12,7 +12,7 @@ summary: >-
   Security units in Carthage arrested eight people, including a foreign woman from a Maghreb country, after breaking up two drug-dealing networks. They seized one and a half plates of cannabis, called zatla, 25 pieces of the same drug, 5 grams of cocaine and cash they suspected was proceeds.
 figures:
   arrested: 8
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 60483570fb9b71fd0704755c5862e1f8
 tags: [carthage, zatla, tunis, cannabis-resin]

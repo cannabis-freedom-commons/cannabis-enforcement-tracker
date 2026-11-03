@@ -19,7 +19,7 @@ media:
     media_url: https://foto.haberler.com/haber/2018/11/19/odunlarin-altinda-24-kilo-esrar-cikti-11450777_amp.jpg
     publisher: Haberler.com
     caption: Cannabis recovered beneath firewood in the pickup; no photo credit is listed.
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 347853f7f1e074d6e6e100ed85758163
 tags: [van, gurpinar, kirkgecit, cannabis, gendarmerie]

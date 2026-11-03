@@ -19,7 +19,7 @@ media:
     media_url: https://pioneeredge.in/wp-content/uploads/2026/10/arrest-with-1.1-kg-of-charas-near-Asharodi-checkpost-780x470.jpg
     publisher: Pioneer Edge
     caption: Police photo published with the STF's account of the Asharodi check post arrest; another outlet captions the same handout as the smuggler held with 1.108 kg of charas. No photographer credit is given.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b89ee45423f5420a457fba7ec8a5e54b
 tags: [dehradun, uttarakhand, charas, stf, ndps-act]

@@ -22,7 +22,7 @@ media:
     media_url: https://i0.wp.com/s3.socialnews.xyz/wp-content/uploads/2026/10/29/202610293995942.jpg?w=777&crop=0,10,777px,437px
     publisher: Social News XYZ (IANS)
     caption: Police officers and officials at a meeting in Surat, seated beneath the Surat City Police emblem, in the lead image of the IANS report on the N-Cord figures.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1567cb29ab6bb43f64f622e04f996180
 tags: [surat, gujarat, ganja, ndps-act, city-police]

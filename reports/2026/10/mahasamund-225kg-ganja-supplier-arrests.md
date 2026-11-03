@@ -16,7 +16,7 @@ figures:
   value:
     amount: 11250000
     currency: INR
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: eb7318cfbacc6dfd9a70d70ebd496543
 tags: [mahasamund, chhattisgarh, odisha, ganja, operation-nishchay]

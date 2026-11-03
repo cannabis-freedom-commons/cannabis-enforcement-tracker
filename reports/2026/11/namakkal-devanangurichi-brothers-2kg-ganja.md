@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 62cc05ff17291eace4feb2977bda6635
 tags: [namakkal, tiruchengode, ganja]

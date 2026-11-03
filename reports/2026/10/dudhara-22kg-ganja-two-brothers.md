@@ -20,7 +20,7 @@ media:
     media_url: https://videocdn.amarujala.com/embed-vod/1XmN2xg
     publisher: Amar Ujala
     caption: 'Video report on the arrest of two brothers with 22.3 kg of ganja in Dudhara. Video: Amar Ujala.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7298c0eec791998c91aff79b34e6ebce
 tags: [sant-kabir-nagar, uttar-pradesh, ganja, ndps, dudhara]

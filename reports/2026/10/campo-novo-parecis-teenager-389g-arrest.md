@@ -19,7 +19,7 @@ media:
     media_url: https://cdn.hnt.com.br/storage/webdisco/2026/11/01/560x420/f381d076137d243e66346feca1839992-hnt-com-br.jpg
     publisher: HiperNotícias
     caption: Photo accompanying the report on the seized half-bar of marijuana, R$510 and faction stickers in Campo Novo do Parecis
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2001cc78144f7f27c45ebed64633cea6
 tags: [mato-grosso, campo-novo-do-parecis, teenager, cavalry]

@@ -22,7 +22,7 @@ media:
     media_url: https://marathi.hindusthansamachar.in/Encyc/2026/10/30/c74d97b01eae257e44aa9d5bade97baf_1682650934_H@@IGHT_0_W@@IDTH_600.jpg
     publisher: Hindusthan Samachar Marathi
     caption: Police officers pose with a seated man, a scooter and recovered items; photo credit not stated.
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: d6ed187cab9f0ccba347da0027ad4a7b
 tags: [amravati, maharashtra, ganja, mephedrone]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.736
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0bc5f1d6b69860216cc6904b4fecb681
 tags: [charkhi-dadri, haryana, ganja, ndps]

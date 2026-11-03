@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   deaths: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [riverside, california, murder, robbery, marijuana]
 sources:

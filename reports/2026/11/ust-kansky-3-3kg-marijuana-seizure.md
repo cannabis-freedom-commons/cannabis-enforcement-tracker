@@ -17,7 +17,7 @@ media:
     media_url: https://www.gorno-altaisk.info/wp-content/uploads/2026/11/02-11-2026-124702.jpg
     publisher: Новости Горного Алтая
     caption: 'Photo accompanying the report on the Ust-Kansky District marijuana seizure. Photo: Interior Ministry for the Altai Republic.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c82ba5e5d1dff56baeb88fa63ca05b80
 tags: [ust-kan, altai-republic, wild-cannabis, article-228, russia]

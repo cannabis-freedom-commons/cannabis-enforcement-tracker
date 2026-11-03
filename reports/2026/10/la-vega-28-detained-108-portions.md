@@ -18,7 +18,7 @@ media:
     media_url: https://www.paginaextra.com/wp-content/uploads/2026/10/Operativo-de-autoridades-militares-y-policiales-en-La-Vega..jpg
     publisher: Página Extra
     caption: 'Photo published with the report of the operation, captioned as the deployment of military and police authorities in La Vega. Photo: Página Extra'
-status: reported
+status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 84fae79ac51bdc00cb73545b380e2b39
 tags: [dncd, la-vega, marihuana, policia-nacional, preventive-operation]

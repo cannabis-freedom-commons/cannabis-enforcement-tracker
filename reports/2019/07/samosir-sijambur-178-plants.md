@@ -35,7 +35,7 @@ media:
     media_url: https://metrorakyat.com/wp-content/uploads/2019/07/IMG-20190727-WA0060.jpg
     publisher: Metro Rakyat
     caption: 'Third WhatsApp photo dated 27 July 2019 published with Metro Rakyat''s report of the Sijambur seizure. Photo: Metro Rakyat'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 77d209d666217de02f8faf2b66b0a795
 tags: [samosir, ganja, north-sumatra, ronggur-nihuta]

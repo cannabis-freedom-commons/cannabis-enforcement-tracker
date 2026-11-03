@@ -20,7 +20,7 @@ media:
     media_url: https://img.youm7.com/ArticleImgs/2026/10/28/116468-WhatsApp-Image-2026-10-28-at-8.51.40-PM.jpeg
     publisher: Youm7
     caption: 'Youm7 photo of the seized material, published with the caption ''the seized items''. Photo: Youm7'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c87d87dbcec3b12ec2bbd458dda031ee
 tags: [hurghada, customs, airport, marijuana]

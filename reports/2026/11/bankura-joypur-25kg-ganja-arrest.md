@@ -19,7 +19,7 @@ media:
     media_url: https://media.assettype.com/sanmarg%2F2026-11-02%2Flw2hm9p4%2F1000241586.jpg?w=640
     publisher: Sanmarg Hindi daily
     caption: 'Police escorting the accused to court in this case. Photo: Sanmarg Hindi daily'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa8f0c8ca00e95bf5cb206b8a8d1b517
 tags: [bankura, joypur, ganja, ndps]

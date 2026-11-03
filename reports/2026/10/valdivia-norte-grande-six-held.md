@@ -22,7 +22,7 @@ media:
     media_url: https://pautalosrios.cl/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.05.56-AM-1-780x470.jpeg
     publisher: Pauta Los Ríos
     caption: 'Bags of seized drugs and other items laid out with a PDI EVIDENCIA card after the operation in Valdivia. Photo: Pauta Los Ríos.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a6a61c8cc7adaf66bdc670b56f9c938e
 tags: [valdivia, los-rios, pdi, mafil, norte-grande]

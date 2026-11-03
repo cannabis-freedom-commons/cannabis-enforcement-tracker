@@ -14,7 +14,7 @@ figures:
   arrested: 4
   plants_destroyed: 1500
   kg_seized: 0.00886
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d4a37593959f17ffe3ac17091bc114fe
 tags: [aydin, efeler, cine, esrar]

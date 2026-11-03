@@ -13,7 +13,7 @@ summary: >-
 figures:
   deaths: 2
   kg_seized: 3.5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 539c41fbacefd24996af4d765ef7652c
 tags: [hashish, sharqia, shootout, hydro, bilbeis]

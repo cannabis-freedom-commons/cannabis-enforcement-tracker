@@ -19,7 +19,7 @@ media:
     media_url: https://api.adnmichoacan.com/storage/notas/detienen-a-sujeto-por-alt-49832.jpg
     publisher: ADN Michoacán
     caption: Photo published with the report on the Morelia detention and methamphetamine and marijuana seizure.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: adfe384e58844b9ec8e87a1374c0282a
 tags: [morelia, michoacan, narcomenudeo]

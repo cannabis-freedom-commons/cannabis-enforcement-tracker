@@ -20,7 +20,7 @@ media:
     media_url: https://gray-kwqc-prod.gtv-cdn.com/resizer/v2/T4742VQZP5ERRAGSFIQWM6F37U.png?auth=80bbe3630e256dde1171b3efd41723e2b2a8a382a09f3a69447a0f778ac9a107&width=1300&height=730&smart=true
     publisher: KWQC
     caption: 'Mugshot composite of the six charged women reported as accused of buying and shipping marijuana from California to the Quad Cities. Photo: Scott County Jail via KWQC'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6647ad1ad124442b3e780bf7e8c067c6
 tags: [scott-county, quad-cities, iowa, california, cannabis-enterprise]

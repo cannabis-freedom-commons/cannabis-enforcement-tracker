@@ -20,7 +20,7 @@ media:
     media_url: https://wjla.com/resources/media2/16x9/1728/1174/0x100/80/90ebaf7a-22e4-419d-b5b0-4502e0a01622-IADMJ2L041626.jpg
     publisher: WJLA
     caption: 'Photo of the marijuana seized at Dulles. Photo: CBP'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b11df0369d537ee86b2db4505209144e
 tags: [dulles, virginia, airport, london, marijuana]

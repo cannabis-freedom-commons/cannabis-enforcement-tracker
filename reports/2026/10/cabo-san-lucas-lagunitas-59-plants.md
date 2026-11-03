@@ -26,7 +26,7 @@ media:
     media_url: https://peninsulardigital.com/wp-content/uploads/2026/10/121026_erik.webp
     publisher: Peninsular Digital
     caption: 'Photograph labeled Erik Esaú “N” and Shawna Marie “N”. Photo: Peninsular Digital'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: f50d7debf6b9f90bd57d7bcea959b18a
 tags: [cabo-san-lucas, baja-california-sur, fgr, marijuana]

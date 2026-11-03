@@ -16,7 +16,7 @@ figures:
   value:
     amount: 17000
     currency: INR
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: fda9fd04a3701200ea7c283395f0f4e4
 tags: [anuppur, madhya-pradesh, ganja, ndps-act, arrest]

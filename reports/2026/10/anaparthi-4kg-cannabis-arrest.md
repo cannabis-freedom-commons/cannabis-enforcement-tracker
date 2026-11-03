@@ -22,7 +22,7 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-10-29/1793288447_1003274103.jpg
     publisher: Suryaa News
     caption: 'Police officers and several men standing beside a motorcycle at night, in the photograph published with the Suryaa report on the arrest and cannabis seizure in Anaparthi. Photo: Suryaa News'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2c46a0483fc2049930125e68a2657c3c
 tags: [andhra-pradesh, anaparthi, ganja, transport, theft]

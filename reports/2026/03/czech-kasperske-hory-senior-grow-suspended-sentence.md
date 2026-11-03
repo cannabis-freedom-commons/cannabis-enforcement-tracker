@@ -16,7 +16,7 @@ figures:
   value:
     amount: 2300000
     currency: CZK
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [indoor-grow, suspended-sentence, home-growing, sumava]
 sources:

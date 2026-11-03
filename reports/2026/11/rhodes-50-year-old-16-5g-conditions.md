@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.0165
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a6cc61f0468bbc322dcaaea0bc33e5a3
 tags: [rhodes, dodecanese, trafficking-charge, restrictive-conditions]

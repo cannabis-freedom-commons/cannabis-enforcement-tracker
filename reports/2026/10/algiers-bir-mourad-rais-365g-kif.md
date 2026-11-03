@@ -16,7 +16,7 @@ figures:
   value:
     amount: 44000
     currency: DZD
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a4ed28f201f1e0e683c11935f46422e2
 tags: [algiers, kif, network, boufarik, psychotropics]

@@ -19,7 +19,7 @@ media:
     media_url: https://www.gov.br/prf/pt-br/noticias/nacionais/2026/outubro/prf-realiza-a-terceira-maior-apreensao-de-cocaina-de-2026/@@images/image-1280-fa865517c63da6fe4036eb1d64828d95.jpeg
     publisher: Polícia Rodoviária Federal
     caption: 'Federal Highway Police photo of the Corumbá truck seizure, captioned as more than 700 kilograms of cocaine. Photo: Polícia Rodoviária Federal'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 115420e601938e2066f245a827ef8a7f
 tags: [corumba, skunk, hashish, br-262, prf]

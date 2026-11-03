@@ -27,7 +27,7 @@ media:
     media_url: https://open.kg/uploads/posts/2026-11/1793599879-31793598357982-7831109d-d6eb-4b6b-afcf-a4603234cd55-884621840164409535720595467673714064242108njpg-optimized.webp
     publisher: open.kg
     caption: 'Interior Ministry photo published with the report on the extradited suspect’s alleged parcels. Photo: Ministry of Internal Affairs'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41e7c840aa490cda6be826668774bece
 tags: [bishkek, chui, extradition, postal-trafficking, dea]

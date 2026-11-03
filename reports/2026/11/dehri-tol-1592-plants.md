@@ -28,7 +28,7 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/01/e7ef2d85-e251-49fb-9bcd-e7da5476eabf_1793521009870.jpg
     publisher: Dainik Bhaskar
     caption: Lead photograph on the Dainik Bhaskar news page for this seizure report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ad68367ae4393e6957aafe7208e61f5f
 tags: [dhar, madhya-pradesh, ganja, operation-prahar, intercropping]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 640470bc003706e25fa1e55aee3d5bbd
 tags: [salsk, rostov-oblast, mak-2026, article-228, cannabis]

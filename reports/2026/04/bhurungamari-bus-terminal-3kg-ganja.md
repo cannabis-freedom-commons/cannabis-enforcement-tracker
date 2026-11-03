@@ -19,7 +19,7 @@ media:
     media_url: https://banglaralonews.com/public/postimages/69e872bf73b17.PNG
     publisher: Banglar Alo News
     caption: A plastic-wrapped bundle of the seized cannabis on a weighing scale, with betel nuts behind it, after the seizure at Bhurungamari bus terminal. Image published by Banglar Alo News.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8a351e71a2308efdd0328274631169b6
 tags: [kurigram, bhurungamari, ganja, bus-terminal, betel-nut]

@@ -18,7 +18,7 @@ media:
     media_url: https://i1.cronica.com.ar/files/image/1727/1727915/6ae5cab732fc4_1011_568!.webp?s=c6cd1245868e6159c6866dddd160e9a5&d=1793415600&oe=jpg
     publisher: Crónica
     caption: Photo of the 46-year-old man detained after the seven raids, published by Crónica with its report.
-status: reported
+status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 95df9a580f8265d2123e1fbd97158833
 tags: [buenos-aires, conurbano, marijuana, house-arrest, dealer-network]

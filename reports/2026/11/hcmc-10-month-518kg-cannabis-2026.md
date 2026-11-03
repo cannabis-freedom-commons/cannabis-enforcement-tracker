@@ -11,7 +11,7 @@ summary: >-
   Ho Chi Minh City police handled 6,401 drug cases involving 17,756 people in the first 10 months of 2026, seizing 518 kg of cannabis alongside synthetic drugs and heroin. Police said large interprovincial and transnational rings were dismantled as part of a drive toward a drug-free city by 2030.
 figures:
   kg_seized: 518
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 89cf4192076479c28534e6b20d9b2ba8
 tags: [ho-chi-minh, can-sa, campaign-total]

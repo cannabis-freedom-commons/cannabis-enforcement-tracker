@@ -19,7 +19,7 @@ media:
     media_url: https://cdn.tapchikinhtetaichinh.vn/stores/news_dataimages/2026/102026/30/12/in_article/can-sa20261030121111.webp?rt=202610310441
     publisher: Thuế & Hải quan Online - Tạp chí Kinh tế - Tài chính
     caption: 'The cannabis seized at Noi Bai International Airport, displayed by customs officers. Photo: Chi cục Hải quan khu vực I (Regional Customs Branch I).'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6267c34d6c9e9c88d1eebd15cce7b5ce
 tags: [noi-bai, airport, customs, transit, hanoi]

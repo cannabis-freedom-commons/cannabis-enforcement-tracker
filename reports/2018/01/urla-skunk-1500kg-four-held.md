@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 1500
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e05fbd92432b23a1b7af2551dbd51981
 tags: [skunk, urla, izmir, yacht, greek-islands]

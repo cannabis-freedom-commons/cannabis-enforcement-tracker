@@ -19,7 +19,7 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261029111353_1920.jpg
     publisher: Europa Press
     caption: 'Photo accompanying the report on the Calasparra seizure. Photo: Guardia Civil via Europa Press'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6ce7c25f7fe36a43ad23694a56945b27
 tags: [calasparra, murcia, guardia-civil]

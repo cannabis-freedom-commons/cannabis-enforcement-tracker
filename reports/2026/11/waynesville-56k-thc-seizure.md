@@ -26,7 +26,7 @@ media:
     media_url: https://www.wspa.com/wp-content/uploads/sites/53/2026/11/887093235_2881871498850195_6752066640197454321_n.jpg?resize=640,593
     publisher: WSPA 7NEWS
     caption: 'Seized THC products displayed after the Waynesville seizure. Photo: Waynesville Police Department)'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b5beb7d5a44f64b846384ac2dd3640a8
 tags: [waynesville, thc, youth]

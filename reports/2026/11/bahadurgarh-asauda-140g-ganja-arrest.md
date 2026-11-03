@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.14
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3c59f3f2b501d4aad4546e7e1cea5672
 tags: [bahadurgarh, haryana, ganja, ndps-act, jhajjar]

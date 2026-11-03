@@ -23,7 +23,7 @@ media:
     media_url: https://www.oisehebdo.fr/wp-content/uploads/2026/10/hazebrouck-gendarmes-trafic-stupefiants-1024x575.jpg.webp
     publisher: Oise Hebdo
     caption: 'Gendarmes at a building in Hondeghem during the operation. Photo: Gendarmerie / SIRPA / F. Bourdeau'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 42052f0bd6e0a4cc65f9fb9ff57cd15c
 tags: [hazebrouck, hondeghem, nord, sentence, trafficking]

@@ -19,7 +19,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2016/22/16249adeef4c85404870d2167eae3116_a.jpg
     publisher: Haber7
     caption: Bags of seized cannabis displayed in front of a Didim anti-smuggling unit banner in the photo published with the report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7fe918fd803061c357daff5b3b379139
 tags: [didim, aydin, esrar]

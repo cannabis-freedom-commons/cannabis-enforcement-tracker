@@ -28,7 +28,7 @@ media:
     media_url: https://www.gov.ca.gov/wp-content/uploads/2026/10/CDFW-led-operation-in-Oakland-in-August-2026_1.jpg
     publisher: Office of the Governor of California
     caption: 'Another photo from the CDFW-led cannabis enforcement operation in Oakland in August 2026, part of the Alameda County results. Photo: Office of the Governor of California'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b49ca59fb958d79be06f4a2e1417d4f8
 tags: [california, ucetf, task-force, quarterly, eradication]

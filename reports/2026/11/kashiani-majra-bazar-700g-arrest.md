@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.7
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c628735709f9f07a5a2da9d8944c4f42
 tags: [gopalganj, kashiani, ganja, srb-6]

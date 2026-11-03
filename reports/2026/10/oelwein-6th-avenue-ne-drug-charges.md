@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e5c729f8aede91abe43fef9a9d99f580
 tags: [iowa, oelwein, cannabis-possession, search-warrant, fayette-county]

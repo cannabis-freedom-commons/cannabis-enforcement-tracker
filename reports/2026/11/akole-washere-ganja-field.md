@@ -22,7 +22,7 @@ media:
     media_url: https://cf-images.assettype.com/pudharinews%2F2026-11-01%2Fujpqwke6%2FAkole-Ganja-Cultivation.jpg?w=640
     publisher: Pudhari News
     caption: Pudhari's lead photograph, captioned 'Akole Ganja Cultivation', of the cannabis crop in the field at Washere, Akole.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7a0504b646abbd648d65ad97200d950e
 tags: [maharashtra, akole, ganja, cultivation, intercropping]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.08
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ee9704a8dbf296b8a0c9d801749c68fd
 tags: [mazzarrone, hashish, sicily]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.038
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 7e3a1ff6133d72764086cbb38226246c
 tags: [hadramout, hashish, shabu]

@@ -19,7 +19,7 @@ media:
     media_url: https://portalcantagalo.com.br/uploads/1c004509e39741c1731d84f87372beec.webp
     publisher: Portal Cantagalo
     caption: 'Police handout published with the Morro Alto seizure report. Credit: Divulgação/PMPR'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: f2fc4eced35bc97c221e1c214dde67f5
 tags: [guarapuava, morro-alto, maconha, parana, pmpr]

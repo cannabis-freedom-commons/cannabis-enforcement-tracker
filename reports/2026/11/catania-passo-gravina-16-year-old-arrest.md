@@ -19,7 +19,7 @@ media:
     media_url: https://citynews-cataniatoday.stgy.ovh/~media/horizontal-hi/30182047271600/la-polizia-di-stato-arresta-pusher-sedicenne-trovato-in-possesso-di-dosi-di-marijuana.jpeg
     publisher: CataniaToday
     caption: Photo published with the report on the police arrest of the 16-year-old found with marijuana doses
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 367f54431a8fd63a5ac7c9b5427ec78a
 tags: [catania, sicily, marijuana]

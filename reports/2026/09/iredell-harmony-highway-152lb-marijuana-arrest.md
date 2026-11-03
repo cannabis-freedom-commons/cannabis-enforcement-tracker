@@ -17,7 +17,7 @@ figures:
   value:
     amount: 225000
     currency: USD
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f187530224b5d3ea4d692e419ec2b5a6
 tags: [iredell, north-carolina, traffic-stop]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 0.1191
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4ce6f5ab9c1f1fd8c870a935642128f3
 tags: [valdivia, los-rios, carabineros]

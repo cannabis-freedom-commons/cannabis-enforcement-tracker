@@ -16,7 +16,7 @@ figures:
   value:
     amount: 2420000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sealdah, kolkata, railway-police, ganja]
 sources:

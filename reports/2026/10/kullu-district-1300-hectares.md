@@ -17,7 +17,7 @@ media:
     media_url: https://www.hindustantimes.com/ht-img/img/2026/10/29/960x540/Officials-destroying-the-illegal-cannabis-cultivat_1793300679185_EWbp.jpg
     publisher: Hindustan Times
     caption: 'Officials destroying illegal cannabis cultivation in Kullu. Photo: Hindustan Times (HT Photo)'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 29c78d23c7b5ef571d2de8cad448c364
 tags: [kullu, himachal-pradesh, parvati-valley, charas, ncb]

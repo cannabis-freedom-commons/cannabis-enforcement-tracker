@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 160
     currency: GBP
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6f83017277e58d9bd88e97ae2d6d40c1
 tags: [warrington, cheshire, magistrates-court, suspended-sentence, possession-with-intent]

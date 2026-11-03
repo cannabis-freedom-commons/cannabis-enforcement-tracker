@@ -27,7 +27,7 @@ media:
     media_url: https://www.tv47.digital/wp-content/uploads/2026/10/fb-18-1536x867.jpg
     publisher: TV47 Digital
     caption: Photograph placed in the report beside the Murang'a seizure and the combined haul; no caption or photo credit was given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6a992ac8cc2befcd4525044e00ddb3ae
 tags: [bhang, bungoma, muranga, dci, nanib]

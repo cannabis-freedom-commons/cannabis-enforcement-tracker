@@ -19,7 +19,7 @@ media:
     media_url: https://torinocronaca.cdn.m33cloud.com/resizer/1240/-1/true/2026_11_02/WhatsApp_Image_2026-11-02_at_12.25.13-1793624048658.jpeg--droga_in_val_di_susa__tre_giovani_arrestati__sequestrati_oltre_430_grammi.webp?1793624048862
     publisher: Torino Cronaca
     caption: Seized drugs displayed after the Val di Susa operation
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b0ef2976e15c2ca2e2144e4d361bd36
 tags: [val-di-susa, piedmont, hashish, carabinieri]

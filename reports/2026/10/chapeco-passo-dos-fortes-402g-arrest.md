@@ -19,7 +19,7 @@ media:
     media_url: https://oestemais.dev.br/static/images/conteudo/policia-dois-homens-sao-presos-por-trafico-de-drogas-com-mais-de-400-gramas-de-maconha-em-chapeco-1-619.jpeg
     publisher: Oeste Mais
     caption: 'Police photo of the cannabis, cash, phones and packaging material seized after the vehicle stop in Chapecó. Photo: Polícia Militar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4b2bbb6783082e6d60ed39203232e078
 tags: [chapeco, santa-catarina, passo-dos-fortes, cannabis]

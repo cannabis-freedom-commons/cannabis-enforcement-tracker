@@ -24,7 +24,7 @@ media:
     media_url: https://www.youtube.com/watch?v=STVIujkOaVg
     publisher: Polisia.kz
     caption: 'The Aktobe region police department''s video about the case, titled "Ақтөбеде есірткіні заңсыз сақтау дерегі тіркелді" (A drug storage case was registered in Aktobe). Video: Aktobe region police department via Polisia.kz'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 206b2983d3ad08310b8a9ca65055e7d2
 tags: [kazakhstan, aktobe, marijuana, seizure, safe-home]

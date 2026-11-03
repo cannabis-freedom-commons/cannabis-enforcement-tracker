@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.0029
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db9d91897dc99268254d964586d88966
 tags: [goto, nagasaki, possession, cocaine]

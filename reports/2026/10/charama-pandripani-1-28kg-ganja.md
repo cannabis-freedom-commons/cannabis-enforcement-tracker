@@ -22,7 +22,7 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/30/0c968f4e-b202-4c4b-96a5-1cd226ef07f5_1793369953749.jpg
     publisher: Dainik Bhaskar
     caption: Lead photograph on the report of the Pandripani ganja seizure, captioned 'Information was received about ganja kept for sale in Pandripani'; no separate credit was given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 033027af98495871b3a4af246ae67c58
 tags: [chhattisgarh, kanker, charama, ganja, arrest]

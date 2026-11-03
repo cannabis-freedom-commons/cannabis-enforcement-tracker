@@ -19,7 +19,7 @@ media:
     url: https://www.antaranews.com/berita/5782378/polda-banten-gagalkan-peredaran-11-kg-ganja-dan-sabu-modus-ekspedisi
     publisher: ANTARA
     caption: 'The 10 cannabis packages, weighing 11.088 kg, seized in the case. Photo: ANTARA/HO-Polda Banten'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [banten, ganja, courier, gunung-sindur, kosambi]
 sources:

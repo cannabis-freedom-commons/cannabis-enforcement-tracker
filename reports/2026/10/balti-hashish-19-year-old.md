@@ -15,7 +15,7 @@ media:
     media_url: https://esp.md/sites/default/files/865483906_1899600148084735_5939972705438769800_n.jpg
     publisher: СП
     caption: 'Carabinieri photo published with the Bălți and Edineț drug stops, including a plant substance described as looking like hashish. Photo: carabinieri, via СП.'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 7220967a02d59c03f3d3ddb9978c1bef
 tags: [balti, hashish, carabinieri, marijuana]

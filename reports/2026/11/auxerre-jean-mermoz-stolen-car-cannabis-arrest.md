@@ -11,7 +11,7 @@ summary: >-
   National police in Auxerre arrested an 18-year-old driving a reported stolen car without a licence on 2 November 2026. He tested positive for cannabis, was found in possession of cannabis and was placed in police custody.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9682061f916f220a818a9f308380c8ae
 tags: [auxerre, yonne, driving, possession]

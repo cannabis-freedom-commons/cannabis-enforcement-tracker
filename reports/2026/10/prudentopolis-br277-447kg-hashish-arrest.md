@@ -19,7 +19,7 @@ media:
     media_url: https://terramtdigital.com.br/wp-content/uploads/2026/10/7df85030b22c7fd73dfc956aa913ecb7.jpg
     publisher: TERRA MT DIGITAL
     caption: 'Federal Revenue photo showing the drug packages taped to the passenger''s legs. Photo: Receita Federal'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f3be7c48d756e965f835d451433fb017
 tags: [prudentopolis, parana, hashish]

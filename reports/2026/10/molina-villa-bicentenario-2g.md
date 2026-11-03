@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.00223
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: cd47b527f5d224a99e4b3a542ce52cb1
 tags: [molina, maule, microtrafico, pdi, mt-0]

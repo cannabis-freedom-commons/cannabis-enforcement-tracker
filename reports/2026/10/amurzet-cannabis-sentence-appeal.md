@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years 6 months
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 6ebcf275afb0c25769ebde2d85ab6d3a
 tags: [russia, amurzet, cannabis, appeal, recidivism]

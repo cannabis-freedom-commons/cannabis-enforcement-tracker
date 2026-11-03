@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 33
   kg_seized: 0.566
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 59fba937ac3c6129f766c1cd1412f25a
 tags: [san-luis-potosi, guardia-civil, marijuana]

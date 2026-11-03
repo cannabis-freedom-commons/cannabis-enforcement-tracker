@@ -22,7 +22,7 @@ media:
     media_url: https://video.twimg.com/amplify_video/2115834282417729536/vid/avc1/720x1280/4pWuLdblKfO0wxgz.mp4?tag=29
     publisher: Sitamarhi Police
     caption: 'Sitamarhi Police video posted with its 29 October statement on the ganja and charas destruction. Credit: Sitamarhi Police'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8e88732fcac3765fafa14334631775a9
 tags: [sitamarhi, bihar, ganja, charas, nashamukt-bihar]

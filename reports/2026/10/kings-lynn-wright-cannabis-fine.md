@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 720
     currency: GBP
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: f184e2bae47aaddbf3a4aa942079b7a1
 tags: [kings-lynn, norfolk, cannabis-possession]

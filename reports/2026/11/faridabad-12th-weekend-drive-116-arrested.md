@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 116
   kg_seized: 22.72
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 06dcef065ed1bf238a5c666fa23525d8
 tags: [faridabad, haryana, ganja, weekend-drive]

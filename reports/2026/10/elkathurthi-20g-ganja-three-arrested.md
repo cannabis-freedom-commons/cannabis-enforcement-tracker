@@ -19,7 +19,7 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/10/30/611004-hh.webp
     publisher: Disha Daily
     caption: Police officers with a group of men after the ganja seizure in Elkathurthi, in the article's lead photograph
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f45db97943f6d7c59db8dc2f8da87652
 tags: [telangana, warangal, ganja, vehicle-check]

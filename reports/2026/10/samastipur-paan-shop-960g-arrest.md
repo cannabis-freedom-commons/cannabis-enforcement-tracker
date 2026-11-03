@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.96
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c536e4ebf70f94a363f6c7b63eed7356
 tags: [bihar, samastipur, ganja, ndps, paan-shop]

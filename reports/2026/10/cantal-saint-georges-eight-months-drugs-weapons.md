@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   prison: 8 months (firm)
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 20065042277c49b43d7e341a50882a60
 tags: [cantal, saint-flour, roadside-test]

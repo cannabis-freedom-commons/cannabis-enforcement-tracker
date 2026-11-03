@@ -47,6 +47,9 @@ func TestUpdateReportAddsSourceAndKeepsTheRest(t *testing.T) {
 		{Text: "The Khust District Court sentenced a man to five years in prison.", Source: 1, Quote: "sentenced to five years in prison"},
 		{Text: "He had grown about 240 plants in a greenhouse.", NewDetail: true, Source: 1, Quote: "about 240 plants in a greenhouse"},
 	}, Uncertainties: []string{"UA.News does not name the court's judge."}}
+	for i := range u.Facts {
+		u.Facts[i].confirmed = true
+	}
 	d, err := UpdateReport(dir, u, sources, nil)
 	if err != nil {
 		t.Fatal(err)

@@ -17,7 +17,7 @@ media:
     url: https://northeastlivetv.com/around-ne/tripura/tripuras-war-on-drugs-marijuana-cultivation-in-forest-lands-destroyed/
     publisher: Northeast Live
     caption: 'Sepahijala District Police video posted on 16 December 2023 of the destruction drive, embedded in the report. Video: Sepahijala District Police'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, ganja, eradication, war-on-drugs]
 sources:

@@ -19,7 +19,7 @@ media:
     media_url: https://www.canal26.com/resizer/v2/NCEZ2CSB3RFMNKILSTXXOGR62A.jpg?auth=dddec36ebbb888071bec268b29ac3213dae77f6a0568f754ca76daa1a1c7182d&smart=true&width=1200&height=675&quality=70
     publisher: Canal 26
     caption: 'Photo of the dismantled motorcycle chop-shop in Lanús. Photo: Canal 26.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb7e063bddca98ba868e7b70c189db7e
 tags: [lanus, buenos-aires, cannabis-plants, raid]

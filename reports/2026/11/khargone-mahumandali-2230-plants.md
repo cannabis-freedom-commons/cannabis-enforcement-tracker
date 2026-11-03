@@ -21,7 +21,7 @@ media:
     media_url: https://img.naidunia.com/naidunia/ndnimg/03112026/03_11_2026-khargone_ganje_ki_kheti.webp
     publisher: Nai Dunia
     caption: 'Bistan police with cannabis plants seized from the field. Photo: Nai Dunia'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 467c0681a6c39c64149e492024a9aa69
 tags: [khargone, madhya-pradesh, ganja, ndps]

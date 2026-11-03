@@ -16,7 +16,7 @@ figures:
   value:
     amount: 4969926
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4ff6baeb0f204ad829bdc3e68e3758d3
 tags: [nashik, ganja, maharashtra, ndps]

@@ -41,6 +41,7 @@ type Source struct {
 	Language  string `json:"language,omitempty"` // two letters, if not English
 }
 type Fact struct {
+	confirmed    bool   // service-only quotation check; never accepted from JSON or persisted across retries
 	Text         string `json:"text"`
 	Source       int    `json:"source"`
 	Quote        string `json:"quote"`
@@ -342,6 +343,12 @@ type SourceCheck struct {
 //
 // It returns the answer to publish, the evidence that was opened and how it went.
 func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch func(context.Context, string) (safeurl.Evidence, error), cached ...safeurl.Evidence) (Result, []safeurl.Evidence, Validation, error) {
+	// Recompute trust from evidence on every call, including checkpoint recovery.
+	r.Facts = uncheckedFacts(r.Facts)
+	r.Updates = append([]ReportUpdate(nil), r.Updates...)
+	for i := range r.Updates {
+		r.Updates[i].Facts = uncheckedFacts(r.Updates[i].Facts)
+	}
 	v := Validation{Facts: len(r.Facts), Sources: make([]SourceCheck, len(r.Sources))}
 	fail := func(err error) (Result, []safeurl.Evidence, Validation, error) {
 		v.Reason = err.Error()
@@ -393,6 +400,7 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 		}
 		v.Checked++
 		if e.Supports(f.Quote) {
+			f.confirmed = true
 			v.Confirmed++
 			v.Sources[f.Source-1].Confirmed++
 			kept = append(kept, f)
@@ -407,11 +415,13 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 	for _, u := range r.Updates {
 		facts := []Fact{}
 		for _, f := range u.Facts {
-			if e := opened[f.Source-1]; e != nil && !e.Supports(f.Quote) {
+			e := opened[f.Source-1]
+			if e != nil && !e.Supports(f.Quote) {
 				v.LeftOut = append(v.LeftOut, f.Text)
 				r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Not added to %s, as its quotation was not found in %s: %s", u.Report, r.Sources[f.Source-1].Publisher, f.Text))
 				continue
 			}
+			f.confirmed = e != nil
 			facts = append(facts, f)
 		}
 		if len(facts) > 0 {
@@ -591,7 +601,11 @@ func (r Result) Markdown() string {
 		}
 		add("media", media)
 	}
-	add("status", str("reported"))
+	status := "reported"
+	if factsVerified(r.Facts) {
+		status = "verified"
+	}
+	add("status", str(status))
 	if r.CreatedByModel != "" {
 		add("created_by_model", str(r.CreatedByModel))
 	}

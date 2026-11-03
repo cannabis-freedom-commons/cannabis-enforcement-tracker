@@ -149,8 +149,15 @@ copied** to this site.
 ## 8. Status
 
 - `verified`: every fact was read in a source that was opened. The default for a finished report.
-- `reported`: drafted from a source not yet checked in full (automated collection will use this).
+- `reported`: one or more retained claims have not been checked against an opened source.
 - `disputed`: sources contradict each other, or the official account is contested.
+
+Automated reports use the same definitions: the service assigns `verified` after every retained
+fact passes its quotation check against opened/captured sources. It keeps `reported` when a
+retained claim could not be checked, such as a source that could not be reopened or recovered
+from a capture. A missing second source or an unanswered question does not by itself prevent
+verification. Existing disputed reports stay disputed; a checked addition does not certify
+older unchecked prose. Corrected titles or summaries remain `reported` pending a full check.
 
 ## 9. Open questions
 

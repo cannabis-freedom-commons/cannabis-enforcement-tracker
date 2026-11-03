@@ -45,7 +45,7 @@ media:
     media_url: https://web.guardiacivil.es/export/sites/guardiaCivil/.galleries/Noticias/18-10-2026_Narcotrafico_Hachis_Huelva_06.jpg
     publisher: Guardia Civil
     caption: 'Sixth Guardia Civil photograph of the interception off Mazagón: the narcolancha carrying 76 hashish bales, with its eight crew detained. Photo: Guardia Civil'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ae3fa9d85d59d7a2b7298ff7e42a2571
 tags: [huelva, mazagon, narcolancha, hashish, guardia-civil]

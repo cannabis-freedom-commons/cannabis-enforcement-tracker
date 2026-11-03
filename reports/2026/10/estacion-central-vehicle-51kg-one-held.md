@@ -19,7 +19,7 @@ media:
     media_url: https://media.cnnchile.com/2026/10/WhatsApp-Image-2026-10-27-at-11.56.12-1-e1793123115173-768x433.jpeg
     publisher: CNN Chile
     caption: 'Seized brick packages from the Estación Central vehicle check. Photo: Agencia Uno'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8f04d38cdd40a5eb92603a48e8be6949
 tags: [estacion-central, santiago, vehicle-check]

@@ -23,7 +23,7 @@ media:
     url: https://www.hariansib.com/Medan-Sekitarnya/449664/polsek-pancurbatu-bersama-koramil-03-sibolangit-gerebek-lokasi-diduga-tanaman-ganja/all/
     publisher: Harian SIB
     caption: 'Police and soldiers during the joint sweep of the cannabis plot in Dusun II. Photo: Polsek Pancurbatu via Harian SIB'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sibolangit, deli-serdang, ganja, forest]
 sources:

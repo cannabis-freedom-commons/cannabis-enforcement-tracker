@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 0.138
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43ee2671788cd280bbb4fe095f786ce3
 tags: [villa-alemana, marga-marga, pdi]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.9
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6bf466206644b34dd96c8983cecd9143
 tags: [thessaloniki, parcel-post, skunk, northern-greece]

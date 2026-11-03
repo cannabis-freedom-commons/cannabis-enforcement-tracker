@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 10000
     currency: EGP
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 11caeaf4dd78f9ada8fe7a0887f9c6f6
 tags: [giza, waraq, hashish, sentence]

@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 17000
     currency: UAH
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 666a0db88bfb4b61b823424e4ead0008
 tags: [cherkasy, shpola, article-309, personal-use]

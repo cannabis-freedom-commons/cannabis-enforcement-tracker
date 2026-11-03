@@ -18,7 +18,7 @@ media:
     media_url: https://arquivos.jornaldaregiaoonline.com.br/uploads/images/202611/image_870x_6ae918d036e71.jpg
     publisher: Jornal da Região On-line
     caption: 'The seized materials reported in the operation. Photo: PMMG'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cc52c082b528025598786fb7d5059bde
 tags: [guaxupe, minas-gerais, cultivation]

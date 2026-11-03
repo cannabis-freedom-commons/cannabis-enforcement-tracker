@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1757bd0c0ebd509dee406831416e616f
 tags: [uzhhorod, zakarpattia, methamphetamine]

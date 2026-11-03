@@ -19,7 +19,7 @@ media:
     media_url: https://tkx.mp.lura.live/rest/v2/mcp/video/12191641.m3u8?anvack=bK9Zk4OEXnpL9iLMZlcLWfePZXKQ02eV&eud=3dP5QJ0p28dT9gV2EROfuLg%2FLJ8jg4PEgQ6ZvtAA2Heh8YBDlDRWHBQBKOnBrZ9FTyO8KsbFw40vgX8hrw%2Bxqw%3D%3D
     publisher: mypanhandle.com
     caption: News video titled Two arrested in large Carrabelle marijuana raid about the Highway 67 drug bust
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1e9f925b8d567656e8617287249dad47
 tags: [florida, carrabelle, franklin-county]

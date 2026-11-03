@@ -11,7 +11,7 @@ summary: >-
   Railway police in Salem seized 3 kg of ganja from bags on two express trains passing through the city on 1 November 2026. The same checks found 44 kg of gutka, a chewing-tobacco product that is not cannabis, and the seizures were handed to the Salem Railway Police.
 figures:
   kg_seized: 3
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd8f0b847bc63b12a705e66ba9668783
 tags: [salem, tamil-nadu, railway-police, ganja, seizure]

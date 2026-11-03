@@ -12,7 +12,7 @@ summary: >-
   Prague police stopped a car in Xaveriova Street in Prague 5 on 15 May 2026 and found an estimated five buckets of dried plant material, some of it marijuana. They detained the driver for questioning and began criminal proceedings on suspicion of unauthorised handling of cannabis; experts were to establish the exact amount.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [prague, praha-5, cannabis, traffic-stop]
 sources:

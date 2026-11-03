@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.672
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 09f262f6f28b03f5570483606deaa79a
 tags: [shahjahanpur, tilhar, charas, bdc-member, ndps]

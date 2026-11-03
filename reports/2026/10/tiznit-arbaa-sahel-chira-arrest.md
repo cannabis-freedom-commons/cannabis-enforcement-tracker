@@ -12,7 +12,7 @@ summary: >-
   Judicial police in Tiznit arrested a man in his thirties on 31 October 2026 with a significant quantity of cannabis resin allegedly bound for Arbaa Sahel. Wanted under several national warrants, he was placed in custody while prosecutors investigate his suspected coastal distribution network.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9ad0c709483048f9fee99097ae67b6d
 tags: [tiznit, arbaa-sahel, chira, hashish]

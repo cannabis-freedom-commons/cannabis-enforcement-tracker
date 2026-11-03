@@ -18,7 +18,7 @@ media:
     media_url: https://img.mvsnoticias.com/7ULFlDiHxjBcREUg9QIMt9S6IYr4rut8fgzQ2CJIFpo/rs:fit:1280:0:0/q:65/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzMzA4NTYwMzM1LTk0Z2ZpeC5wbmc
     publisher: MVS Noticias
     caption: 'The 19-year-old detainee, her face covered, stands in front of a Policía de Juárez backdrop after her arrest. Photo: Policía de Juárez'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 09cf6b2f4fceebb5b84793e0f40ca428
 tags: [nuevo-leon, juarez, possession, marijuana, calles-en-orden]

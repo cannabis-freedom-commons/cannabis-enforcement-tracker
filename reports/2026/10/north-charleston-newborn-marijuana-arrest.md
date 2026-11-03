@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ab4a0b41648cf90cbd20d96000d2ac0a
 tags: [north-charleston, south-carolina, child-endangerment]

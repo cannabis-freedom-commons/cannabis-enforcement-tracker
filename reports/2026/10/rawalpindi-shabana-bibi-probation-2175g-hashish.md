@@ -16,7 +16,7 @@ figures:
   fine:
     amount: 400000
     currency: PKR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 72738b369b6cea05295d093e6e68aa16
 tags: [rawalpindi, hashish, probation]

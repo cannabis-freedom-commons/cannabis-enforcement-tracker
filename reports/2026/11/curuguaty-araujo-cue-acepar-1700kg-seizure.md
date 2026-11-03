@@ -25,7 +25,7 @@ media:
     media_url: https://grupovierci.brightspotcdn.com/dims4/default/5b9b89d/2147483647/strip/true/crop/1600x901+0+150/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F65%2F2590b96349d780f6c6cf969f660e%2Fincautacion-en-canindeyu.jpg
     publisher: Última Hora
     caption: 'The pickup loaded with drugs abandoned beside a rural road. Photo: Carlos Aquino.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f15208d1b0bb5fe87a02bcf26ac044a8
 tags: [curuguaty, canindeyu, pressed-marijuana, skunk, plan-sumar]

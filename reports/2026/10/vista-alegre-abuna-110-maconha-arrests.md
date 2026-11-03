@@ -18,7 +18,7 @@ media:
     media_url: https://www.rondoniadinamica.com/uploads/pujdjoszb8kbmxt.jpg
     publisher: Rondônia Dinâmica
     caption: Lead photo on the source page for this seizure report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ec40104e9bfa6cdc747465b9874017e1
 tags: [vista-alegre-do-abuna, rondonia, porto-velho, maconha]

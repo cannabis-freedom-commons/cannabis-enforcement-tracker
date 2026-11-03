@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 500000
     currency: NGN
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: c9e88f3a4ee8fd60189937de9a1549f3
 tags: [lagos, ndlea, export, ikeja]

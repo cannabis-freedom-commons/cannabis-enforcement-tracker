@@ -38,7 +38,7 @@ media:
     media_url: https://immagini.unionesarda.it/version/c:OGVlZDJkNTgtZDAzNi00:NGIzOGRhMjItZGE1ZS00/image.webp?f=Freeform&q=0.75&w=640
     publisher: L'Unione Sarda
     caption: 'A fourth photograph published with the Olbia seizure report. The page gives no caption. Photo: L''Unione Sarda'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: edd84ed783ee6c4e7476327c7a4c3519
 tags: [olbia, hashish, gallura, guardia-di-finanza, postal-seizure]

@@ -22,7 +22,7 @@ media:
     media_url: https://cdn.siasat.com/wp-content/uploads/2026/10/ganja-25.jpg
     publisher: The Siasat Daily
     caption: Young man standing with arms crossed in front of a table with two wrapped packages, the lead image on the Siasat report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea91823aaa7f3f2a08d319bb7678cf89
 tags: [hyderabad, bandlaguda, ganja, task-force]

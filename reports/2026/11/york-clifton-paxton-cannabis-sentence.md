@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   prison: 12 months, suspended for 12 months
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93c579c11edc8dc970005f60e3e52d00
 tags: [york, clifton, suspended-sentence]

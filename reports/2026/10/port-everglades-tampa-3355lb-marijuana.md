@@ -17,7 +17,7 @@ media:
     media_url: https://tkx.mp.lura.live/rest/v2/mcp/video/12268244.m3u8?anvack=GNLYj4WPEPgKWUvG6mTVNFejokMyVq3x&eud=4e7FIJ1T74AS09yh3mLRUDJiIZ1skCd0aAHz9BWa%2Fh9QWdoGGpnZS4SeS6xecFHrTyO8KsbFw40vgX8hrw%2Bxqw%3D%3D
     publisher: NewsNation
     caption: NewsNation Live segment on the Coast Guard cocaine and marijuana offload at Port Everglades
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 85e5354008c9b88116fcbd9290017c45
 tags: [florida, port-everglades, coast-guard, eastern-pacific]

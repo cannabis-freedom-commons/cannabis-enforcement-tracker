@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 52
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cfa5c0652a56dc6f85842b022ac7f414
 tags: [madhabpur, habiganj, ganja, rab-9, tea-garden]

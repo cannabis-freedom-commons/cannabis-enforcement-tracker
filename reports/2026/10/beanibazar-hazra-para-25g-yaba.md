@@ -12,7 +12,7 @@ summary: >-
   On 29 October 2026 a Border Guard Bangladesh patrol recovered 25 grams of cannabis and 28 yaba tablets at Hazra Para, about 300 yards inside the Beanibazar border in Sylhet. The force said surveillance would continue and that the legal process over the drugs was under way.
 figures:
   kg_seized: 0.025
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8908419c096ae0ded1865eb49673c45a
 tags: [beanibazar, sylhet, bgb, yaba, ganja]

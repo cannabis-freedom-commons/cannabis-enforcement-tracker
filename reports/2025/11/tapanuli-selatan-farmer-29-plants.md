@@ -27,7 +27,7 @@ media:
     url: https://transparann.id/petani-tanam-ganja-di-kebun-sawit/
     publisher: transparann.id
     caption: 'AN in custody after police seized 29 cannabis plants from his oil palm plot. Photo: transparann.id'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sumatera-utara, palm-oil, ganja, smallholder]
 sources:

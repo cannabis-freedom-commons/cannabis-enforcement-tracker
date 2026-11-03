@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.188
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 06572fdb6e0836587085d5759de7c7d6
 tags: [ufa, hashish, bashkortostan]

@@ -24,7 +24,7 @@ media:
     media_url: https://www.lublin112.pl/wp-content/uploads/2026/11/357-301204.jpg
     publisher: Lublin112.pl
     caption: 'Second police handout photo published with the report on the Pulawy-county drug seizure. Photo: Policja Ryki'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef3feb1b0e81da2a245c7cf77e35c9d0
 tags: [pulawy, ryki, marijuana, remand]

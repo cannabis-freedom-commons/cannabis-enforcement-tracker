@@ -19,7 +19,7 @@ media:
     media_url: https://diarionline.com.br/static/arquivo/2026-10/droga_mato_grosso_usar-9c1c.jpg
     publisher: Diário Corumbaense
     caption: 'Police handout photo of the cannabis seized from the man in Corumbá, captioned by the newspaper as ''the drug weighed almost four kilos''. Photo: Divulgação/Polícia Militar (Military Police handout)'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 201d2131ac9558c988d0dc5bf9320135
 tags: [corumba, mato-grosso-do-sul, forca-total, ankle-monitor, bus-station]

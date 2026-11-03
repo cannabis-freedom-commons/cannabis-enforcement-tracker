@@ -12,7 +12,7 @@ summary: >-
   Carabineros' OS7 section in El Loa province, Antofagasta region, detained 29 people during October 2026 and seized 2,200 kg of illegal drugs. The haul was mainly marijuana, along with coca paste, cocaine hydrochloride and ketamine, and the unit valued the whole load at more than 4,500 million pesos.
 figures:
   arrested: 29
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4162463e44e007d8bd9d7a57ffaf7aaa
 tags: [os7, carabineros, el-loa, antofagasta, marihuana]

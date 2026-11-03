@@ -19,7 +19,7 @@ media:
     media_url: https://lenterakepri.com/wp-content/uploads/2026/11/a_6ae19b59b9dfd.jpeg
     publisher: LenteraKepri.com
     caption: Riau police destroying seized narcotics evidence on 28 October 2026.
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b8adadebac254ef1cf5286bf341e3888
 tags: [riau, pekanbaru, ganja, evidence-destruction]

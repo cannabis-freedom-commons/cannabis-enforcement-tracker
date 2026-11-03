@@ -19,7 +19,7 @@ media:
     media_url: https://www.diaadiaarapongas.com.br/userfiles/noticias/homem-e-preso-com-30-porcoes-de-maconha-prontas-para-venda-em-arapongas-6ae0a9a6a3cb0.jpeg
     publisher: Dia a Dia Arapongas
     caption: Police evidence display accompanying the report on the cannabis seizure; no photo credit was stated.
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 202eebabdff5a48f9c4b91d4f3ca1f6f
 tags: [arapongas, san-rafael, parana, cannabis, drug-trafficking]

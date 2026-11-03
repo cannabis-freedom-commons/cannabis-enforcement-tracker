@@ -11,7 +11,7 @@ summary: >-
   Sydney A. Smith, 37, of Yorkville was charged on Oct. 7, 2026, with giving cannabis-infused gummies to Hinckley-Big Rock High School students before their Sept. 26 Homecoming dance. Three of four students offered the edibles ate them, and Smith was released after processing with a Nov. 3 preliminary hearing pending.
 figures:
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c94e6dd08970ae1e120de90dd30b8806
 tags: [illinois, hinckley, edibles, minors]

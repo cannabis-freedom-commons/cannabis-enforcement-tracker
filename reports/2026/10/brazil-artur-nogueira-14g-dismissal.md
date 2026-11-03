@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.0144
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: cba06c88d94bbed2dc5d95a29f66b697
 tags: [stf, personal-use, artur-nogueira, operation-tonsor, moraes]

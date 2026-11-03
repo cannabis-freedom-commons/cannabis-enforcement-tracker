@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.2
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ab9e7a087037c0c8d2655f2feaf8dee0
 tags: [krasnodar-krai, uspenskoye, wild-cannabis, personal-use, prosecution]

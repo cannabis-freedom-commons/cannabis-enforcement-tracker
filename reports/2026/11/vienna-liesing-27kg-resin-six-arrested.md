@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 27.8932
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0723294b5596906d8c3d0675d3cd0049
 tags: [vienna, liesing, cannabis-resin]

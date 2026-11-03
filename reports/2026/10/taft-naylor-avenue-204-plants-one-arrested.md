@@ -24,7 +24,7 @@ media:
     media_url: https://www.kget.com/wp-content/uploads/sites/2/2026/10/NAYLOR-AVE-WEED-BUST-2.png?resize=876,657
     publisher: KGET 17 News
     caption: Additional photo of the Naylor Avenue weed bust in Taft, as published with the report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cd8d4fcffadea8ec2e34856dc7ec3eb
 tags: [taft, kern-county, cultivation, search-warrant]

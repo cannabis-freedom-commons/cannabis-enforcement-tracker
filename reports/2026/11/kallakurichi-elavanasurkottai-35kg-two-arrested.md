@@ -19,7 +19,7 @@ media:
     media_url: https://media.assettype.com/dailythanthi%2F2026-11-01%2Fn0v3c1hh%2F%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AE%BF-%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-35-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-2-%E0%AE%B5%E0%AE%BE%E0%AE%B2%E0%AE%BF%E0%AE%AA%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AE%BE%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%BC%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%AA%E0%AE%B1%E0%AE%BF%E0%AE%AE%E0%AE%B2%E0%AF%8D.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Daily Thanthi
     caption: Seized ganja packets from the mini-lorry case on display after police seized 35 kg of ganja.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 56445c14fc3c9c1a537eddffe7f340c0
 tags: [kallakurichi, ulundurpet, ganja, mini-lorry]

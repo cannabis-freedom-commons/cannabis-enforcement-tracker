@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.14
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e4bf1bb6c4141adc212d5f6c75f92f0c
 tags: [powys, wales, couriers, guilty-plea, crown-court]

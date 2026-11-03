@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 6.80389
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3268fe58fc3926ec08aee5b86c0dd51a
 tags: [bradenton, florida, swat-raid, marijuana-trafficking, manatee-county]

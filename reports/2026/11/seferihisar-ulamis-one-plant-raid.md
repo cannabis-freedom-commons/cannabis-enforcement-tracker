@@ -18,7 +18,7 @@ media:
     media_url: https://www.olusumhaber.com/images/haberler/2026/11/seferihisar-da-bir-adreste-ruhsatsiz-silah-ve-hint-keneviri-ele-gecirildi-2947.webp
     publisher: Oluşum Haber Gazetesi
     caption: Lead photo on the source page for this Seferihisar seizure report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 927666842958e7979e642f0a4b27a5c9
 tags: [seferihisar, izmir, hint-keneviri, house-search]

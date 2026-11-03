@@ -19,7 +19,7 @@ media:
     media_url: https://cdn1.jd1noticias.com/Folder/2026/11/1972abd2-d9ad-45fb-a6e7-48378101e876/conversions/whatsapp-image-2026-11-02-at-095350-medium.webp
     publisher: JD1 Notícias
     caption: 'Seized packages of the substance described as marijuana. Photo: Divulgação/PMMS'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f94d3382ed8fe026ade855bd03b65e2
 tags: [nova-alvorada-do-sul, bus, maconha]

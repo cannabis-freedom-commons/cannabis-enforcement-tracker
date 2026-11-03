@@ -19,7 +19,7 @@ media:
     media_url: https://tvatv.ru/upload/resize_cache/iblock/f0c/1000_10000_1/mglwpyaebf680xvam8zt9mafgizs1j3z.webp
     publisher: АТВ
     caption: 'Lead photo on the source page for this seizure report. Photo: МВД по Бурятии'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 48407b54b0c7d5ce65166f0e40f87478
 tags: [buryatia, zakamen, marijuana]

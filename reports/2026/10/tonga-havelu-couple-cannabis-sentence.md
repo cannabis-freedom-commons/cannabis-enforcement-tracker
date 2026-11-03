@@ -14,7 +14,7 @@ figures:
   charged: 2
   kg_seized: 0.04396
   prison: 21 months (final 6 suspended); 15 months (fully suspended)
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0e127524c8e9ffd97306f27b77ddc8db
 tags: [tonga, havelu, cannabis, sentencing, suspended-sentence]

@@ -19,7 +19,7 @@ media:
     media_url: https://cf-images.assettype.com/maalai-malar%2F2026-10-31%2Fkhmaw2zf%2Fganja.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Maalai Malar
     caption: 'A cannabis plant in a flower pot, in the lead image published with the Maalai Malar report on the case. Photo: Maalai Malar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1006c7d9a32bd63c5479bd33659b3e7d
 tags: [puducherry, home-grow, flower-pot, juvenile, ganja]

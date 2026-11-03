@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.03
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 38da2d832332f39933cebf9065a5021d
 tags: [shahrasti, chandpur, ganja]

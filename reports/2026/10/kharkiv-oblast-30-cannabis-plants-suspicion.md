@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 30
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e774b80a1af8ab014d39f56fe95dbd0b
 tags: [kharkiv-oblast, cannabis-plants, home-grow, notice-of-suspicion]

@@ -17,7 +17,7 @@ figures:
   value:
     amount: 70000
     currency: INR
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3bbf94dd29d6b525c94a82b60bfd530f
 tags: [jabalpur, madhya-pradesh, ndps, cultivation, intercropping]

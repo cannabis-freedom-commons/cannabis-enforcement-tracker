@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 27
   kg_seized: 0.06079
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 10726b83ca992086abd61f4061e79f40
 tags: [bingol, esrar, skunk]

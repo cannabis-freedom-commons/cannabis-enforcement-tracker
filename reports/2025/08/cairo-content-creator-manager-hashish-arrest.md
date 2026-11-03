@@ -12,7 +12,7 @@ summary: >-
   Cairo security forces arrested a content creator and his business manager over videos accused of violating family values, seizing hashish, ice and an unlicensed firearm. Both men admitted possessing the drugs for personal use and posting the videos to gain views and profit.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b8ee8653dc79f45e6ccf435409c4314
 tags: [cairo, hashish, social-media]

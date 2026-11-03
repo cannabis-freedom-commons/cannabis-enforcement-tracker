@@ -19,7 +19,7 @@ media:
     media_url: https://cdn2.tribunaonline.com.br/img/inline/330000/500x0/jovem-e-preso-com-submetralhadora-e-drogas-em-vito0033396900202610311639-7.webp?fallback=https%3A%2F%2Fcdn2.tribunaonline.com.br%2Fimg%2Finline%2F330000%2Fjovem-e-preso-com-submetralhadora-e-drogas-em-vito0033396900202610311639.jpg%3Fxid%3D1551532&xid=1551532
     publisher: Tribuna Online
     caption: 'Police handout photo of the material seized in Caratoíra: the semi-industrial submachine gun, magazines and the drugs laid out after the arrest. Photo: Divulgação/PMES.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f91150c81b117168ac71d150d8c61e3a
 tags: [vitoria, espirito-santo, caratoira, maconha, submachine-gun]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 7
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c2c3c854048a3f5481e75e182a7562d
 tags: [petite-riviere, adsu, seeds]

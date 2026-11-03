@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 3
   kg_seized: 27.67
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8096cd7ee23b9f2fbc1ca9f2f9031a4e
 tags: [carteret-county, emerald-isle, vape-shops]

@@ -12,7 +12,7 @@ summary: >-
   Police in North Macedonia detained five people in separate drug checks on 31 October and 1 November 2026, including two German nationals stopped at the Tabanovce border crossing with marijuana. The Interior Ministry said marijuana, cocaine and brown powder were found at locations including Skopje, Bogovinje, Ohrid and Idrizovo prison.
 figures:
   arrested: 5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2d4ae23e6ed1ff5ef34d504e6b64a6b4
 tags: [skopje, tabanovce, roundup, marijuana, police]

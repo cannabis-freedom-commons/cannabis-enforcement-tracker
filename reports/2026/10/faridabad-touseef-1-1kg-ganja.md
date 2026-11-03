@@ -19,7 +19,7 @@ media:
     media_url: https://alivenews.co.in/wp-content/uploads/2026/10/faridabad-crime-branch-arrests-ganja-smuggler-touseef.jpg
     publisher: Alive News
     caption: The arrested suspect, Touseef, with the ganja and other items recovered from him.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6b4a4c358f28295040829cc5645148b2
 tags: [faridabad, haryana, ganja, ndps-act, crime-branch]

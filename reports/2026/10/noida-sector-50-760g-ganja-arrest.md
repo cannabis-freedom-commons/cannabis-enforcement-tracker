@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.76
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 86d75ea52b6fcec22d6dbf3274bfceb0
 tags: [noida, uttar-pradesh, ganja, sector-50]

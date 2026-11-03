@@ -20,7 +20,7 @@ media:
     media_url: https://www.freightwaves.com/wp-content/uploads/2026/09/15/drug-pallets-side-by-side-1200x628-thin-line.jpg
     publisher: FreightWaves
     caption: 'Pallets from the 27-pallet shipment found inside the semi-trailer. Photo: Nebraska State Patrol via FreightWaves'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2641354afcb1de4d1d0112f86e0bc674
 tags: [nebraska, cozad, semi, interstate-80]

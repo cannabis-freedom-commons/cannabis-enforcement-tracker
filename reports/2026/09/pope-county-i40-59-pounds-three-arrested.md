@@ -19,7 +19,7 @@ media:
     media_url: https://media.ark.org/dps/I-40-Pope-County-Marijuana-Seizure1-Sept-23-2026_cropped.jpg
     publisher: Arkansas Department of Public Safety
     caption: 'Seized packages of marijuana from the Interstate 40 stops in Pope County. Photo: Arkansas State Police'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e46ce32cbf1c5be0586d8dab113a2885
 tags: [arkansas, pope-county, interstate-40, thc-vapes]

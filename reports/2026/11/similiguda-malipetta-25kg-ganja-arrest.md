@@ -19,7 +19,7 @@ media:
     media_url: https://assets.eenadu.net/article_img/01112026similiguda650a.webp
     publisher: Eenadu
     caption: Photo displayed with the 25-kg ganja seizure item on the source page
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 63f2f45ba67fe747e19b698d5af3905a
 tags: [koraput, similiguda, ganja, excise]

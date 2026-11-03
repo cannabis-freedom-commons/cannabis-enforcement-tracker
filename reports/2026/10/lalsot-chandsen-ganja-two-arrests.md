@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.27
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 27833b61f9737b2cc5ac3ad1c8cf01cc
 tags: [rajasthan, dausa, lalsot, ganja, ndps]

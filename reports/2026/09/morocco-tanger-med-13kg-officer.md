@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 13
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: ae103c1970326656c7d00216423feb2b
 tags: [tanger-med, chira, hashish, dgsn]

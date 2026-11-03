@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.02
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 285fe70825ea3371e916d46ca696e682
 tags: [san-juan, capital, ley-23737]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.45
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 2745de85ce0d98052133b6424df06aea
 tags: [moinabad, telangana, ganja, jbiet]

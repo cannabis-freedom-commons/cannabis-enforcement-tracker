@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 50000
     currency: EGP
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a83e8f0281593d7f451ef9ab422017d3
 tags: [cairo-airport, hashish, in-absentia, retrial]

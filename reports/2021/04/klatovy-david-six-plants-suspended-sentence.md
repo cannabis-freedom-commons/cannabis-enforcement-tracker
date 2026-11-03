@@ -20,7 +20,7 @@ media:
     media_url: https://d15-a.sdn.cz/d_15/c_img_gR_Y/fY8CPY.jpeg?fl=cro,0,0,799,449%7Cres,1200,,1%7Cwebp,75
     publisher: Novinky
     caption: 'Václav David at the Klatovy court hearing. Photo: Patrik Biskup, Právo'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 63ae07a1e18103b1700c63e6172fe428
 tags: [klatovy, suspended-sentence, personal-use, ointment]

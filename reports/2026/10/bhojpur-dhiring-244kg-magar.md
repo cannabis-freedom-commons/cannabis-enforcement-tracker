@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 244.77
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 6405acc5e9394fb34497c5959f78a9a6
 tags: [bhojpur, hatuwagadhi, ganja, koshi]

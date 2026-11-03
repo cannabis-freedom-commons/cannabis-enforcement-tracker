@@ -39,7 +39,7 @@ media:
     media_url: https://www.vijesti.me/data/images/2026/10/30/17/5770784_img20261030wa0006_ff.jpg
     publisher: Vijesti
     caption: 'Police Directorate photo from the Ulcinj seizure gallery. Photo: UP'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: c65ed63618a26a0f8b310f8e1d73c116
 tags: [ulcinj, marijuana, shkodra, police-directorate]

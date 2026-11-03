@@ -14,7 +14,7 @@ figures:
   arrested: 3
   charged: 3
   prison: 5 years 3 months to 5 years 6 months
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c3a49165d0adccc6a3156cbe87354209
 tags: [bukhara, gijduvan, hashish]

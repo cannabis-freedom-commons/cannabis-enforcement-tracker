@@ -20,7 +20,7 @@ media:
     media_url: https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2026/10/764/432/four_deuce_crips1.png?ve=1&tl=1
     publisher: FOX 4 News Dallas-Fort Worth
     caption: 'Weapons, ammunition and drugs seized from Hewitt''s residence and the Exotic Pop South Dallas storefront. Photo: U.S. Department of Justice'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 98b2fc2a61a915f1f06cdceb7f8fedfc
 tags: [dallas, texas, storefront, crips, sentence]

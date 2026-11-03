@@ -16,7 +16,7 @@ figures:
   value:
     amount: 50000
     currency: INR
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 9244558916e456b0c0a07f0d6ae3c66a
 tags: [madhya-pradesh, narmadapuram, bankhedi, ganja, ndps]

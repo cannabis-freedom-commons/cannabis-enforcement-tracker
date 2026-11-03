@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 33869059710ba7e23782cd647462b5da
 tags: [peru, lima, callao, marijuana, extortion]

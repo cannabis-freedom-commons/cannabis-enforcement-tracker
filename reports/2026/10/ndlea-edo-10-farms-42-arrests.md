@@ -14,7 +14,7 @@ figures:
   arrested: 42
   kg_seized: 9248.2575
   hectares: 3.69
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [edo, ndlea, cannabis-farms, eradication, nigeria]
 sources:

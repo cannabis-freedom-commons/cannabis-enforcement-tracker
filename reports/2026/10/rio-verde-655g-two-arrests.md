@@ -19,7 +19,7 @@ media:
     media_url: https://cdn.idest.com.br/noticia/2026/11/2c9e6fc6-f809-49b8-bf03-90ac7c58a486.webp
     publisher: Idest
     caption: 'Police handout photo accompanying the report on the 655 g seizure in Jardim dos Estados. Credit: Policia Militar disclosure via Idest'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8ebef53627b46a41320d4d7fa734aa4c
 tags: [rio-verde, mato-grosso-do-sul, maconha]

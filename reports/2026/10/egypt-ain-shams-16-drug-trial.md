@@ -11,7 +11,7 @@ summary: >-
   A North Cairo criminal court held a hearing in the trial of 16 defendants accused of running a gang that made and sold hashish and indazole carboxamide. Lawyers for the ninth defendant argued that the referral order, his arrest and search, the investigation and the phone report were invalid, and asked the court to acquit him.
 figures:
   charged: 16
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 70e7bb4b6853d12ea215c87022c95e85
 tags: [ain-shams, hashish, indazole-carboxamide, cairo, trial]

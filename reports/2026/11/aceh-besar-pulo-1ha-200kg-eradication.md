@@ -12,7 +12,7 @@ summary: >-
 figures:
   kg_seized: 200
   hectares: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e425914c1b2204aedfffa2cccb730cfd
 tags: [aceh-besar, seulimeum, ganja]

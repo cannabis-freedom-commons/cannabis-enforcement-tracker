@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.25
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a13736e59357991a5874983bde13dece
 tags: [tiruvallur, ganja, tamil-nadu]

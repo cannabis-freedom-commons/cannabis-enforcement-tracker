@@ -18,7 +18,7 @@ media:
     media_url: https://www.jornalcorreiodacidade.com.br/imagens/destaques/6ae6524c437ff.jpg
     publisher: Jornal Correio da Cidade
     caption: 'Police photo of the drugs and materials seized in the JK house search. Photo: Divulgação/PM'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4572e457385d2a362d745c9f0616a004
 tags: [minas-gerais, conselheiro-lafaiete]

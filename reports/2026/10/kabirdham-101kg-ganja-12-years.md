@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 100000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9938a71b7bf60ac3281afa12bac8a9ca
 tags: [kabirdham, chhattisgarh, ganja, ndps, sentence]

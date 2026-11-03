@@ -23,7 +23,7 @@ media:
     media_url: https://cdn.jwplayer.com/videos/rYTYHuAF-o549A0fu.mp4
     publisher: Infobae
     caption: 'Video of the first night of the Halloween operation, showing seized weapons, drugs, cash and vehicles. Video: Ministerio de Defensa Pública, via Infobae.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0a4ea9b0d7764b090a3fc477808e16c1
 tags: [grecia, palmares, alajuela, halloween, fuerza-publica]

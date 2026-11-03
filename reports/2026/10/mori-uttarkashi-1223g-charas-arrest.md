@@ -16,7 +16,7 @@ figures:
   value:
     amount: 240000
     currency: INR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3fe40b95e75cc082fd869d9d27787951
 tags: [uttarkashi, mori, charas, ndps]

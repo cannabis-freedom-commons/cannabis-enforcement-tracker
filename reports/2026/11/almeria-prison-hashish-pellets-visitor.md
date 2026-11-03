@@ -18,7 +18,7 @@ media:
     media_url: https://static.grupojoly.com/clip/2a59ce22-affc-47e2-a634-14facaf40dc1_16-9-aspect-ratio_1600w_0.webp
     publisher: Diario de Almería
     caption: 'The hashish pellets found on the woman''s body. Photo: D.A.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f80af5cb5daf7495db9484472d582b60
 tags: [almeria, hashish, prison]

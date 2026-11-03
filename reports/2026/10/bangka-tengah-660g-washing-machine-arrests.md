@@ -25,7 +25,7 @@ media:
     media_url: https://www.youtube.com/embed/GArlEfO9id0
     publisher: Kompas TV
     caption: 'Kompas TV''s Kompas Malam segment on the two arrests and the cannabis found in a washing machine and chicken coop. Video: Kompas TV.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 04a5c9b66d24ec75f3c9ce02abae73a5
 tags: [bangka-belitung, ganja, washing-machine, chicken-coop]

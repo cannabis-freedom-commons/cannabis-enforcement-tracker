@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 7
   kg_seized: 2.12039
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a1f5189818f2346a90723a7fc3cb78c5
 tags: [badrashin, giza, hashish, prosecution, tramadol]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 145.812
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d580f095e90bbef96be192528640cf17
 tags: [kayseri, cannabis, highway]

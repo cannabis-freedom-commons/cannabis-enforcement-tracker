@@ -19,7 +19,7 @@ media:
     media_url: https://notizieplus.it/nuovonotizie/wp-content/uploads/2026/11/Droga-e-denaro-sequestrati-dalla-Polizia-di-Stato-durante-la-perquisizione-antidroga-a-Conegliano-696x455.jpg
     publisher: Notizie Plus
     caption: Drugs and cash seized by State Police during the anti-drug search in Conegliano
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1db3b694f80150196fadba912e9b501a
 tags: [conegliano, hashish, marijuana, halloween]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08e188afe21fcd22f5fe0db204229ac1
 tags: [highett, victoria, hydroponic, caulfield]

@@ -18,7 +18,7 @@ figures:
   fine:
     amount: 25000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a5f8026bd49a723b87f39de86c3cef20
 tags: [manjeri, malappuram, kerala, excise, ndps]

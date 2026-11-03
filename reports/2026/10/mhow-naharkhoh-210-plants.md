@@ -24,7 +24,7 @@ media:
     media_url: https://img.naidunia.com/naidunia/ndnimg/30102026/30_10_2026-mhow_me_ganje_ki_kheti.webp
     publisher: Nai Dunia
     caption: 'Badgonda police officers pulling up cannabis plants growing among an arhar crop on the hillside field at Naharkhoh. Photo: Nai Dunia'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: cb871b4866eaecc5813c5cb8f5238cfa
 tags: [mhow, madhya-pradesh, ganja, intercropping, ndps]

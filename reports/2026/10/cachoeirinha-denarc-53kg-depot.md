@@ -18,7 +18,7 @@ media:
     media_url: https://www.correiodopovo.com.br/image/contentid/policy:1.1760033:1793274040/cachoei.jpeg?f=4x3&q=0.9&w=900&$p$f$q$w=4a18e9a
     publisher: Correio do Povo
     caption: 'The 75 marijuana bricks seized in Vila Cachoeirinha, 53 kg in total. Photo: Polícia Civil / CP (Correio do Povo)'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: db7a255335e0598f7e3dca2a81d764fd
 tags: [rio-grande-do-sul, cachoeirinha, denarc, drug-depot]

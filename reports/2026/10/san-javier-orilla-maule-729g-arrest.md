@@ -19,7 +19,7 @@ media:
     media_url: https://www.diarioelcentro.cl/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-1.52.12-PM-696x522.jpeg
     publisher: Diario El Centro
     caption: Lead photo on the source page for this San Javier cannabis seizure report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9113a4c77a6de7ca4872531de71545b0
 tags: [san-javier, maule, denuncia-seguro]

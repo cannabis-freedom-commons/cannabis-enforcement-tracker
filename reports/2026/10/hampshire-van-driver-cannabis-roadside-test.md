@@ -17,7 +17,7 @@ media:
     media_url: https://www.dailyecho.co.uk/resources/images/21650602.jpg?type=mds-article-962
     publisher: Daily Echo
     caption: 'The white van stopped by Hampshire police at the roadside. Photo: Hampshire Constabulary via Daily Echo'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e1ce8f785a5c96d53c9c9b6a3d1eb487
 tags: [drug-driving, hampshire, roadside-test, seatbelt]

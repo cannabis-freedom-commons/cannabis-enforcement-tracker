@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.05
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 56aabd0435f2c5d710051595b241ed3d
 tags: [tejgaon, dhaka, ganja]

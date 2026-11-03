@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.25
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ec15461e10e20cc55778aa2ee619f639
 tags: [sicily, catania, hashish, marijuana, house-arrest]

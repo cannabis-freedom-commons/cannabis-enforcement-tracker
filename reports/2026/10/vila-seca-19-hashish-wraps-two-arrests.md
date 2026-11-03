@@ -18,7 +18,7 @@ media:
     media_url: https://imagenes.diaridetarragona.com/files/image_media_main_desktop/uploads/2026/10/29/6ae3aafe37bc5.jpeg
     publisher: Diari de Tarragona
     caption: 'A Policia Local de Vila-seca patrol car and an officer at a night-time static checkpoint in Vila-seca, the control at which the two men were arrested. Photo: Policia Local de Vila-seca'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: fcbd39184f96a966ee3f5d922a8a6da6
 tags: [vila-seca, tarragona, hashish, catalonia, spain]

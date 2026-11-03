@@ -19,7 +19,7 @@ media:
     media_url: https://media.8mediatech.com/gambar/37735268987-img-20261030-wa0040.jpg
     publisher: Catatan Riau
     caption: 'Police photograph of the suspect with the two methamphetamine packets and 3.86 grams of cannabis found in the Beringin Indah raid. Photo: Pelalawan police handout via Catatan Riau'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 247139bac67d05037d3c7cb83de43285
 tags: [riau, pelalawan, ganja, house-raid, farmers]

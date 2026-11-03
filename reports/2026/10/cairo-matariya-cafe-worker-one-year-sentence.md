@@ -18,7 +18,7 @@ figures:
   fine:
     amount: 10000
     currency: EGP
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1124217caa7ab7f8b85258cd61134b8c
 tags: [cairo, matariya, hashish, sentencing]

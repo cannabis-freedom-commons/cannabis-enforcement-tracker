@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.08
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4330dda9fa16e1aa7ffe51fb556872f2
 tags: [wayanad, sultan-bathery, ganja]

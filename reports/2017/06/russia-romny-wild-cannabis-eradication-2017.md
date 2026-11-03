@@ -12,7 +12,7 @@ summary: >-
 figures:
   plants_destroyed: 10500
   hectares: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [primorye, manchurian-cannabis, wild-cannabis, maks-2017, russia]
 sources:

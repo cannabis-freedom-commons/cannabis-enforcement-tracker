@@ -17,7 +17,7 @@ figures:
   value:
     amount: 136160
     currency: INR
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9fd6fa57d155dd2dcb1f6332bc2638f5
 tags: [nagpur, maharashtra, ganja, ndps-act]

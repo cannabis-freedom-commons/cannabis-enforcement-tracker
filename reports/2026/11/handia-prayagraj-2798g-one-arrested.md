@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.798
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3b4866ee960538368cd1213baec8931
 tags: [prayagraj, handia, ganja, ndps]

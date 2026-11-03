@@ -36,7 +36,7 @@ export const PRECISION_INFO = {
 // contradict each other or the authorities' account is contested.
 export const STATUS = {
   verified: "Checked against the sources",
-  reported: "As reported, not yet checked",
+  reported: "Not fully checked against the sources",
   disputed: "Sources disagree",
 };
 

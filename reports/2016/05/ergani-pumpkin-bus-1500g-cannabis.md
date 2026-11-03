@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1cc15341295da63c6bf15f5395c10887
 tags: [turkey, diyarbakir, ergani, bus, pumpkin]

@@ -17,7 +17,7 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-10-31/1793436357_1004972028.jpg
     publisher: Suryaa News
     caption: 'Chandurthi police staff and men detained in the urine-test checks at the circle office, in the lead photograph. Photo: Suryaa News'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 884e73dc463c88854973f25140511056
 tags: [telangana, rajanna-sircilla, ganja, urine-test-kits, chandurthi]

@@ -37,7 +37,7 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/29/fcbf6fbd-fa69-44e5-a4d0-15442c17e3f1_1793256203207.jpg
     publisher: Dainik Bhaskar
     caption: 'The two accused in police custody. Photo: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: d1318ca17eaf61b9d307bda98b7f53de
 tags: [fatuha, ganja, patna, vaishali, ndps]

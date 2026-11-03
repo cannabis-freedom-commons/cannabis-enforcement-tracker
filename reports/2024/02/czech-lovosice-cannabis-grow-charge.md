@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [lovosice, litomerice, indoor-grow, toxi-team]
 sources:

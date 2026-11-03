@@ -19,7 +19,7 @@ media:
     media_url: https://www.sbsheriff.org/wp-content/uploads/2026/02/26-15-Seized-Weapons--scaled.jpg
     publisher: Santa Barbara County Sheriff's Office
     caption: Seized firearms and cash displayed after the arrest and Hawthorne search.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8658deea2809355bf458fbb9255587c9
 tags: [carpinteria, santa-barbara, burglary]

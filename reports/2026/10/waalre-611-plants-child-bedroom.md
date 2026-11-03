@@ -12,7 +12,7 @@ summary: >-
   Police found 611 cannabis plants in a house in Waalre on 20 October, with one grow room directly beside a child's bedroom. The Veldhoven-Waalre police called the setup incomprehensible and warned of fire and electrical dangers.
 figures:
   plants_destroyed: 611
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fcde833be6cb486e8499c17e18b529a6
 tags: [waalre, north-brabant, indoor-grow]

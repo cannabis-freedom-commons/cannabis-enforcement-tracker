@@ -19,7 +19,7 @@ media:
     media_url: https://dbcnews.tv/_next/image?url=https%3A%2F%2Fassets.dbcnews.tv%2F171730%2Funnamed.webp&w=640&q=75
     publisher: DBC News
     caption: Cannabis plant reportedly found in a pot on a rooftop in Lakshmipur.
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: f7c7f4686e6d2ae34f30ea550ff3a659
 tags: [lakshmipur, ramganj, bangladesh, cannabis, rooftop-cultivation]

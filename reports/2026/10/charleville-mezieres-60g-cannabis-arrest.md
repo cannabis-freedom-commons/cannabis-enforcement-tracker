@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.06
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 411eb62ce2ce41f333625333e4187bfa
 tags: [charleville-mezieres, cannabis, arrest, police-municipale]

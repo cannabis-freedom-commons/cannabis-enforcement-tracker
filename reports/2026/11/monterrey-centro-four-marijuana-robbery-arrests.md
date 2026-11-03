@@ -18,7 +18,7 @@ media:
     media_url: https://img.mvsnoticias.com/6wdOL_6dqbVy_CymL1FmSAEznENLDx_ffAc8bcMyUZk/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzNjI5OTk2OTczLWxlNXpoei5wbmc
     publisher: MVS Noticias
     caption: 'Four detained people standing in front of a black vehicle with their faces covered. Photo: Policía de Monterrey'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f24c942b7abd4d85cd8002177c62123
 tags: [monterrey, nuevo-leon, mariguana]

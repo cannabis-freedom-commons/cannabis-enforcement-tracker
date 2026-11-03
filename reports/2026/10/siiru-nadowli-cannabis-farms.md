@@ -16,7 +16,7 @@ media:
     media_url: https://cdn.modernghana.com/images/content/1031202623620-qulxocb543-2.jpg
     publisher: Modern Ghana
     caption: A pile of cannabis plants burns during the NACOC and Ghana Immigration Service operation in the Nadowli District.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7cae2b14b7b449d1218b0869155dbf1b
 tags: [ghana, upper-west, nadowli, nacoc, cannabis-farms]

@@ -12,7 +12,7 @@ summary: >-
   Sûreté du Québec officers searched a home on rang Sainte-Rose in Notre-Dame-de-Lourdes, in the MRC de Joliette, on 28 October 2026, seizing more than 975 grams of cannabis, more than 450 grams of hashish, two boats, two watercraft, several vehicles and more than C$18,800 in cash. No arrest was reported and the investigation continues.
 figures:
   kg_seized: 1.425
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: be864b47189820657206a773940e580f
 tags: [quebec, lanaudiere, surete-du-quebec, hashish, illicit-cannabis]

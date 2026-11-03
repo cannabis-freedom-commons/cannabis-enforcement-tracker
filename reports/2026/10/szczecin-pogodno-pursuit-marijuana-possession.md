@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d7db8e26c7db694d05d5ac612a47b54f
 tags: [szczecin, drug-driving, possession, pursuit]

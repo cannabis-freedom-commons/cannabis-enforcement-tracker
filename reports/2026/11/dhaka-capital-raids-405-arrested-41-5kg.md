@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 405
   kg_seized: 41.5
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce840ade96af3a3321c34e9f8e6a7082
 tags: [dhaka, dmp, cannabis]

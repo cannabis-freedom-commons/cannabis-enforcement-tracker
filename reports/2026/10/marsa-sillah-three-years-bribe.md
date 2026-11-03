@@ -15,7 +15,7 @@ figures:
   charged: 1
   kg_seized: 0.004
   prison: 3 years
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3e9eaf6698120851b19bc48b3429b5ee
 tags: [marsa, bribery, police, synthetic-cannabis]

@@ -18,7 +18,7 @@ media:
     media_url: https://cdn.anews.mx/2026/10/WhatsApp-Image-2026-10-29-at-7.31.34-PM.jpeg.webp
     publisher: anews
     caption: Police, military and National Guard officers at a display of seized bags and doses beneath a Guerrero inter-institutional coordination banner, in a photo published with the state police account.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 293a9a032b3a4f56605347e616965962
 tags: [acapulco, guerrero, marihuana, narcomenudeo, street-seizure]

@@ -20,7 +20,7 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/29/72ae87d2-fef2-484a-95a8-891f9096a4b4_1793237439021.jpg
     publisher: Dainik Bhaskar
     caption: Four railway police officers stand behind a wrapped package on a table after the recovery at Ghazipur City railway station.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d9db7a486a022938158585ac74a531f6
 tags: [uttar-pradesh, ghazipur, rpf, ganja, operation-narcos]

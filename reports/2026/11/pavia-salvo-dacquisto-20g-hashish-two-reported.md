@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 2
   kg_seized: 0.02
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4686da4a7ec673319090db5ab3b4df11
 tags: [pavia, hashish, polizia]

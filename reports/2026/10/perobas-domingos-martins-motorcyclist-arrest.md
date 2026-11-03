@@ -18,7 +18,7 @@ media:
     media_url: https://uploads.folhavitoria.com.br/imagens/2026/10/pmes-policia-militar-perobas-domingos-martins-1000x582.jpg
     publisher: Folha Vitória
     caption: 'Police photos published with the report on the Perobas operation. Photo: Polícia Militar'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 72baacbc32921c26d982a5e4502cd0d8
 tags: [domingos-martins, espirito-santo, maconha, k9]

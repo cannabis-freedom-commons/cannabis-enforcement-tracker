@@ -23,7 +23,7 @@ media:
     media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/14974bb4-f729-4c14-a3ff-388f269547b6.webp
     publisher: Raj Express
     caption: Police personnel with the seized sacks of ganja in front of Shahpur police station in Mauganj.
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f9aa6b5da74dbae40a14c47f045b0e54
 tags: [mauganj, shahpur, ganja, ndps, madhya-pradesh]

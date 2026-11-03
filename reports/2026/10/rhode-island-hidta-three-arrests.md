@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   charged: 3
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9f4149a9e0abf4bb4927a540db7231a4
 tags: [rhode-island, providence, cranston, hidta, street-gang]

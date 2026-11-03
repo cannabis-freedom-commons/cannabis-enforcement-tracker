@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.585
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4d932ce9cefa10e8ca2cd6bb981ec378
 tags: [montgomery, illinois, cannabis, raid, firearms]

@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.03608
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c3f58ec0c34005690eb7516c5434dc95
 tags: [ellerbe, richmond-county, traffic-stop, marijuana]

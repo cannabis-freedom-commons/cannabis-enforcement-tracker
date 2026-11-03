@@ -25,7 +25,7 @@ media:
     media_url: https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/627UGN5XBBHKBNNKPGUOR3E2UM.png?auth=a503aeb8764c87e0620f04bf5d29dfbe7976ee7e90f41171915d5ea4f0b9cb4e&width=1300&height=730&smart=true
     publisher: Live 5 News
     caption: 'Seized marijuana, methamphetamine pills, psilocybin mushrooms and THC products laid out after the search. Photo: Berkeley County Sheriff''s Office'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7f72e6ea08e13cd86a09c472ae83081
 tags: [berkeley-county, college-park, marijuana, trafficking, task-force]

@@ -43,7 +43,7 @@ media:
     media_url: https://info-rm.com/upload/iblock/35b/rbsreyq8nsoc9oyf3tun03w0bmyll6t2/10_24_800x600.jpg
     publisher: РИА «Инфо РМ»
     caption: 'Dried cannabis plant material seized in the search. Photo: Ministry of Internal Affairs of Mordovia'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 8fc8cd060a228c111a6072cb4ddd64e4
 tags: [mordovia, kemlya, article-228, russia, personal-use]

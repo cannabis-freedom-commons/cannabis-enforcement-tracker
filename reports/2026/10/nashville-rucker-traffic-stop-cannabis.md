@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f0b7793841268043776d64e6a61e5186
 tags: [tennessee, nashville, traffic-stop, possession, firearm]

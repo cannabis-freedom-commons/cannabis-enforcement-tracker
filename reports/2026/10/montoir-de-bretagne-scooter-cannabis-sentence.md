@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   prison: 3 months
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 20911f66401823b1ab25465829432d39
 tags: [driving, recidivism, loire-atlantique, saint-nazaire]

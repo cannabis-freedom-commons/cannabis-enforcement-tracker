@@ -12,7 +12,7 @@ summary: >-
   Mexico City police arrested three men aged 19, 27 and 32 with 100 bags of suspected marijuana in Zona Centro, Venustiano Carranza. The men were handed to the Public Prosecutor's Office and are also being investigated over a street robbery in Cuauhtémoc.
 figures:
   arrested: 3
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 18c6af690287b9cab04693ee185f2199
 tags: [venustiano-carranza, mexico-city, ssc, narcomenudeo]

@@ -18,7 +18,7 @@ media:
     media_url: https://quintanaroohoy.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-11.52.27.jpeg
     publisher: Quintana Roo Hoy
     caption: State police officers behind a table of seized bags, in the photo published with the report's Cancún section; no caption or credit was given.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a3540c0401adb595fdc07b34f6d640f6
 tags: [cancun, quintana-roo, narcomenudeo, supermanzana-101, marijuana]

@@ -15,7 +15,7 @@ figures:
   value:
     amount: 900000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: cd0ef2bc75ac4f3254add5807b1bc8fd
 tags: [rajasthan, sikar, ganja, millet, intercropping]

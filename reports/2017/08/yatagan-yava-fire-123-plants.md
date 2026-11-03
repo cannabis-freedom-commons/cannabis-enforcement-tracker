@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   plants_destroyed: 123
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: bd1360b1d57ebfd84877b37f1114601e
 tags: [turkey, mugla, kenevir, gendarmerie, forest-fire]

@@ -18,7 +18,7 @@ media:
     media_url: https://ifronteira.com/_upload/foto/noticia/02-11-202611-11-52-ckYWOgpZqMJNn29.webp
     publisher: Ifronteira
     caption: 'Seized car, mobile phones and cash displayed after the Martinópolis roadside arrest. Photo: Polícia Militar.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d1687cb0b13e93014e4733ea6b37bdfa
 tags: [martinopolis, sao-paulo, maconha, traffic-stop]

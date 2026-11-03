@@ -12,7 +12,7 @@ summary: >-
   State civil-guard officers detained four men in San Luis Potosí's metropolitan zone and in Ciudad Valles over suspected small-scale drug sales. They seized marijuana and crystal doses; the men were handed to the state prosecutor.
 figures:
   arrested: 4
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3fa936420cdb6b57d957ff1a91791b1e
 tags: [san-luis-potosi, ciudad-valles, narcomenudeo, guardia-civil, marijuana]

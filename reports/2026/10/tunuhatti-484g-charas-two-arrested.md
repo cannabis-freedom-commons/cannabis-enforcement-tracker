@@ -14,7 +14,7 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.484
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3349d20a4655d2836d667c0b0b5f63ac
 tags: [chamba, himachal-pradesh, charas, tunuhatti, scooter]

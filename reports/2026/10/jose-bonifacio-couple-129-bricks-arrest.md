@@ -18,7 +18,7 @@ media:
     media_url: https://img.band.com.br/image/2026/11/WhatsApp-Image-2026-10-30-at-4.34.15-PM.jpeg
     publisher: Band
     caption: Police photo of the seizure credited to the Military Police.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 047c58276ef446f3d4dbad9e1ea44ef6
 tags: [jose-bonifacio, sao-paulo, cannabis]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.04
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aac368e782595b652e264fc5cb7b96d3
 tags: [campo-grande, maconha, personal-possession]

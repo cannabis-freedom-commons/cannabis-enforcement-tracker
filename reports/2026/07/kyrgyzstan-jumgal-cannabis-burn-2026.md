@@ -11,7 +11,7 @@ summary: >-
   Police in Jumgal district, Naryn Region, burned about 2 tonnes of wild-growing cannabis in a destruction campaign reported on 16 July 2026. The regional police department said the plants were found on the district's territory; no arrests were reported.
 figures:
   kg_seized: 2000
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [jumgal, naryn, wild-cannabis, kara-kurai]
 sources:

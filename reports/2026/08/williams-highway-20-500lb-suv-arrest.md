@@ -19,7 +19,7 @@ media:
     media_url: https://fox40.com/wp-content/uploads/sites/13/2026/08/drug-bust-CHP.jpg?resize=640,480
     publisher: FOX40 News
     caption: 'CHP officers with the Toyota SUV and large bags holding the nearly 500 pounds of marijuana found in the rear passenger area. Photo: Williams CHP'
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 250af9ebd524c56b1bf23b0dcf6f4675
 tags: [williams, colusa, highway-20, suv, chp]

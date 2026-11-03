@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1090
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e90d1c93909b53096867b08f130d303b
 tags: [adana, seyhan, cannabis, helicopter, cornfield]

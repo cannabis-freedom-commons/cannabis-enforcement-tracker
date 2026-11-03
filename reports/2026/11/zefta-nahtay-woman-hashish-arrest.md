@@ -12,7 +12,7 @@ summary: >-
   Zefta police arrested a 38-year-old woman from Nahtay village on suspicion of trafficking hashish to local clients, seizing hashish, suspected proceeds and a phone. She admitted possession for trafficking and was referred to the Public Prosecution for investigation.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fafe9363b187f7e170c6c353f15ca5df
 tags: [zefta, gharbia, hashish]

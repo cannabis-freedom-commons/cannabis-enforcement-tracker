@@ -18,7 +18,7 @@ figures:
   fine:
     amount: 100000
     currency: INR
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 19c5505bc67af39d4c6434160747ec87
 tags: [tamil-nadu, dindigul, ganja, ndps, sentencing]

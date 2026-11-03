@@ -19,7 +19,7 @@ media:
     media_url: https://fonte83.com.br/wp-content/uploads/2026/10/IMG-20261031-WA0517-e1793478202954.jpg
     publisher: Fonte 83
     caption: 'Federal Police handout photo of the cannabis seized from the passenger at João Pessoa airport. Photo: Assessoria PF, via Fonte 83'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 642bea55bbe845a821d6495b478cd20f
 tags: [paraiba, joao-pessoa, airport, federal-police, maconha]

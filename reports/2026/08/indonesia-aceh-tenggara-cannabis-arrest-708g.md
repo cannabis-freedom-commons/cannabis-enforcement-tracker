@@ -22,7 +22,7 @@ media:
     url: https://www.waspada.id/berita/polres-agara-amankan-3-pelaku-dan-ganja-708-82-gram
     publisher: Waspada.id
     caption: 'The three suspects. Photo: Waspada/Seh Muhammad Amin'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [aceh, aceh-tenggara, ganja, arrest, seizure]
 sources:

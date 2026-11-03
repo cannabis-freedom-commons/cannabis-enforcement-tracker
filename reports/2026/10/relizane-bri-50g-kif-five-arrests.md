@@ -14,7 +14,7 @@ figures:
   arrested: 5
   charged: 5
   kg_seized: 0.05
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08399a0d3378c1c8e76a945ea335e820
 tags: [relizane, kif, bri]

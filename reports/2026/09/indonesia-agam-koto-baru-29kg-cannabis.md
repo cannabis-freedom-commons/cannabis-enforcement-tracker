@@ -18,7 +18,7 @@ media:
     url: https://rri.co.id/padang/hukum/kriminalitas/2738323/bnnp-sumbar-gagalkan-pengiriman-hampir-30-kilogram-ganja
     publisher: RRI.co.id
     caption: 'BNNP Sumatera Barat officers behind packages of dried cannabis laid out on a table at a press conference after the Koto Baru stop. Photo: BNNP Sumbar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [west-sumatra, ganja, bnnp, courier, mandailing-natal]
 sources:

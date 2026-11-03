@@ -12,7 +12,7 @@ summary: >-
   Hyderabad police arrested two men in separate raids at Fateh Chowk and near St Mary School, saying marijuana was recovered from each man. Cases were registered against both suspects under Pakistan's narcotics-control law.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e104f546415e51871621a90127acf9be
 tags: [hyderabad, marijuana, sindh]

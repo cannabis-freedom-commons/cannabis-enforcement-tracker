@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.01
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c6a3fddd0f8dc457eeb1462ade627427
 tags: [adsu, mauritius, queen-victoria, home-search, small-quantity]

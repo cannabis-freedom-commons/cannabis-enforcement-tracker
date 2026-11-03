@@ -15,7 +15,7 @@ figures:
   fine:
     amount: 8000
     currency: RUB
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a0b2f8fd5045c95ee0fbb5187f9bfd2b
 tags: [tskhinvali, south-ossetia, home-search, possession, administrative-fine]

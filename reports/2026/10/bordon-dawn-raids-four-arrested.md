@@ -18,7 +18,7 @@ media:
     media_url: https://www.bordonherald.com/tindle-static/image/2026/10/30/15/02/BH-Bordon-Gun-Drugs-Raid.jpg?trim=0,0,3,0&width=752&height=552&crop=752:552
     publisher: Bordon Herald
     caption: 'A still from a Hampshire Police body camera showing the air weapon and drugs paraphernalia seized in the Bordon raids. Photo: Hampshire Police'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3501889d3e8eaf030e6cc66d380f5121
 tags: [bordon, hampshire, dawn-raids, cannabis-vapes, criminal-property]

@@ -15,7 +15,7 @@ figures:
   charged: 6
   kg_seized: 195
   prison: 15 years
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 15b85389c4bbaa654510cc9146e86aab
 tags: [oran, naama, kif, sentences, border]

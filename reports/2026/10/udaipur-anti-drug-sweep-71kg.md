@@ -19,7 +19,7 @@ media:
     media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/10/29/whatsapp_image_2026-10-29_at_10_40_35_am_1793250657621.jpeg
     publisher: Dainik Bhaskar
     caption: 'A composite photo of Raja Hussain alias Shanu, arrested in Ambamata, and Jagdish Chandra, arrested in Sukher, published with the report. Photo: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4b02d81b6a93a716aa5daaa9cb4b7ad3
 tags: [udaipur, rajasthan, ganja, charas, nasha-mukt-bharat]

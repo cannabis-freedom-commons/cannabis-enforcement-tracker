@@ -16,7 +16,7 @@ media:
     media_url: https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/02/675x450/1_whatsapp-image-2026-11-02-at-16-46-47-68124506.jpeg
     publisher: Correio Braziliense
     caption: 'PMDF handout photo of the Paranoá house search during which no resident was found. Photo: Divulgação/PMDF'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 88725b7d939b7bd6c1aaeef8b179d421
 tags: [paranoa, distrito-federal, skunk]

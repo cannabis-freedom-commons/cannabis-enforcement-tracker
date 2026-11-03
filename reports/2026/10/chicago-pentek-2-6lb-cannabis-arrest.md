@@ -20,7 +20,7 @@ media:
     media_url: https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/31/c4767b5a-b7b5-4380-8d1f-702512e3f007/thumbnail/620x349/5e7122f570d699287a5b8837db907bda/untitled-design-2026-10-31t122312-400.png
     publisher: CBS Chicago
     caption: 'Items recovered in the search of the Chicago home, as published with the seizure report. Photo: Evanston Police Department'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7f1a59112c81ada5f4c4464120d3aaaa
 tags: [chicago, rogers-park, illinois]

@@ -16,7 +16,7 @@ figures:
   value:
     amount: 240
     currency: EUR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3a4cf3001e267398dadad0e585a13ee2
 tags: [macroom, cork, personal-use, district-court, cultivation]

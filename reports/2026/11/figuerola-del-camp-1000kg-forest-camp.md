@@ -18,7 +18,7 @@ media:
     media_url: https://www.modernetdigital.cat/asset/thumbnail,1920,1080,center,center/media/modernetdigital/images/2026/11/02/2026110215591386002.jpg
     publisher: Modernet Digital
     caption: 'Part of the seized marijuana at Figuerola del Camp. Photo: Cedida por los Mossos d''Esquadra / Agencia Catalana de Noticias'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f819b07395828cc1447629bba447b5b0
 tags: [tarragona, alt-camp, mossos, marijuana]

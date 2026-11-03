@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 143.6
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: a199134a2291b0cd9033410784e13514
 tags: [sanliurfa, hilvan, cannabis, seizure]

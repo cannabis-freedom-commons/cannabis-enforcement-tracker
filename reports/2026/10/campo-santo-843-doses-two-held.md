@@ -18,7 +18,7 @@ media:
     media_url: https://holasalta.com/wp-content/uploads/2026/10/4cb77158b3db9992b15b376e6b6e8ce0cdda3763178be8d1_og.jpg
     publisher: HolaSalta Noticias
     caption: Packets of the drugs seized in Campo Santo, laid out with cash, a scale, mobile phones and a motorcycle helmet. Published by HolaSalta Noticias; no credit given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 56757d5936386af7cf79c8c4b550e410
 tags: [salta, campo-santo, cocaine, marijuana, ruta-11]

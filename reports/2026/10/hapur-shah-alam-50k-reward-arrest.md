@@ -19,7 +19,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/29/18445d31-a6e9-4871-92d6-8fc47752504c_1793270682275/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video published with the report; its thumbnail shows police officers in uniform. Video: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1809280bd63c5ed70b3e988e53b72759
 tags: [hapur, uttar-pradesh, ganja, reward, interstate-gang]

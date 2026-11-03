@@ -12,7 +12,7 @@ summary: >-
   Police in Jesús María, Córdoba, arrested two young people aged 19 and 21 on 29 October 2026 after a preventive check found plant material compatible with cannabis. The provincial anti-narcotics force seized 42 branches with dried leaves and referred both to the courts under Argentina's narcotics law 23.737.
 figures:
   arrested: 2
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9e465c75d6f94ffad49845c1a16ef1ec
 tags: [cordoba, jesus-maria, fpa, police-check]

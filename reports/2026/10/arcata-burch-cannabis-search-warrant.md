@@ -23,7 +23,7 @@ media:
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRuSIpmIs_mC19GMl5epXt0hPe6wcyXpAF1z_wfJVpuIZjDM0ycAzieOYtaDMq4Pwof3dqhYAP3m0muE3DLM1xoN7mmTFFytcgo2EWJ39JbrVHQeurkK9vQcEGQSOxeHCJwSUWgGrWMzEWfNd6izsaU462DaKi5LIer1NXixbDNDHsniO960eXSmF35ts2/s2048/IMG_20261030_173320.jpg
     publisher: John Chiv
     caption: 'Second reader-submitted photo of the scene at Burch''s Arcata residence during the search warrant. Photo: reader, via John Chiv.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3dc7e7b065bd409cbfd3c93ff9267d62
 tags: [arcata, humboldt-county, search-warrant, cannabis-sale, california]

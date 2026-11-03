@@ -18,7 +18,7 @@ media:
     url: https://fijisun.com.fj/news/nation/farmer-23-arrested-over-discovery-of-4000-suspected-marijuana-plants
     publisher: Fiji Sun
     caption: 'The suspected marijuana plants discovered by police on the farm at Qaranivai, Dogotuki. Photo: Fiji Police Force'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [dogotuki, macuata, vanua-levu, marijuana, labasa-taskforce]
 sources:

@@ -12,7 +12,7 @@ summary: >-
   An employee of the prosecutor's office was detained in Yakutsk after hashish was found on him on 30 October 2026. It is not yet known whether the hashish was for personal use or for sale.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 30c7e6b82f92858137f57d033a8b4afd
 tags: [yakutsk, hashish, prosecutor]

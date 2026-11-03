@@ -24,7 +24,7 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/b58c5b996978519a6b5b7cd31380d72b1d406d07250e50c3779480916132c352/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwales_online_892%2F3fc790f1d09b3f8ae72c8ca3ddd03e55.jpg
     publisher: Yahoo News UK
     caption: 'Police custody photograph of Louis Moates, 28, released with the sentencing coverage. Photo: Gwent Police'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 009aa80286208516a0fa06f50e1040e3
 tags: [cardiff, whitchurch, sentence, proceeds-of-crime, cannabis-supply]

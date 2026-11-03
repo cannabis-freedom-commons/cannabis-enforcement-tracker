@@ -18,7 +18,7 @@ media:
     media_url: https://gray-wbbj-prod.gtv-cdn.com/resizer/v2/GLF44OLD5FAALCZIR3TFJFT6GA.png?auth=f8619fb76d70fcf4240905c25582ee4dd42cce200def1d78b23a101c58dd1452&width=1300&height=975&smart=true
     publisher: WBBJ
     caption: 'Photo accompanying the report on the Brownsville smoke shop and home raids. Photo: WBBJ'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 921a0df81c362a210c7af2860d58cc2b
 tags: [tennessee, brownsville, thc, smoke-shop]

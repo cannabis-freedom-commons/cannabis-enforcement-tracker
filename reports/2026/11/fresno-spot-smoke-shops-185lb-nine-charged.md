@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 9
   kg_seized: 83.91
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4657945a0c4117949489ce9f7e73f468
 tags: [fresno, smoke-shops, unlicensed-cannabis]

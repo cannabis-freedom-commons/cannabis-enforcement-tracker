@@ -14,7 +14,7 @@ figures:
   arrested: 13
   plants_destroyed: 782
   kg_seized: 0.83
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ec1c7f981cb4f606e3b34a6082d13973
 tags: [sakarya, pamukova, cannabis, jandarma]

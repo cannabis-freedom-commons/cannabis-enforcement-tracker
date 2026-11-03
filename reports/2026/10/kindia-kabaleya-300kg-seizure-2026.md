@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 300
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 248c983b19463bd288631d96232f9d82
 tags: [kindia, chanvre-indien, police, motorcycle]

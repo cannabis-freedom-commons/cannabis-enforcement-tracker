@@ -19,7 +19,7 @@ media:
     media_url: https://www.agrajatrapratidin.com/media/imgAll/2026November/yffydf-72-2611021418.jpg
     publisher: Agrajatra Pratidin
     caption: Photo accompanying the report on the couple arrested with ganja in Tangail
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 59f9775f4f56b4f1dd0b848024cbe85e
 tags: [tangail, ganja, srb, bus-checkpoint]

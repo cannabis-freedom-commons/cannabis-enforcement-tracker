@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 13
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 67c5f85937bdd01f8645004c74283ba9
 tags: [kentucky, nelson-county, home-grow, marijuana, stringtown-road]

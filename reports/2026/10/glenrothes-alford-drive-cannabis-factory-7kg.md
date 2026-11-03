@@ -13,7 +13,7 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 7
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 59708ae7d33a9e349ad79deb59a61fdb
 tags: [fife, glenrothes, cannabis-oil, edibles]

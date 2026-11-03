@@ -15,7 +15,7 @@ figures:
   value:
     amount: 2000
     currency: USD
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f9043340fb16034cdf3c18211185112
 tags: [gaza, hashish]

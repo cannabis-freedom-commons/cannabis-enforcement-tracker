@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9ed87f93593d912e6aac3221a9d9f2a1
 tags: [indiana, traffic-stop, marijuana, columbus, i-65]

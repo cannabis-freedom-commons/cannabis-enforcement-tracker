@@ -12,7 +12,7 @@ summary: >-
   Ukhiya police seized 3 kg of ganja during a 90-day operation from 1 August to 31 October 2026 that detained 604 people. The same drive also recovered 331,868 yaba tablets and 118.5 litres of cholai liquor alongside weapons and smuggled goods.
 figures:
   kg_seized: 3
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5e5858f3126e8314377f9b3cde08777c
 tags: [ukhiya, coxs-bazar, ganja, drug-sweep]

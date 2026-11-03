@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0111
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e9fde7188836b7d4d606a90049448c04
 tags: [ruston, lincoln-parish, traffic-stop]

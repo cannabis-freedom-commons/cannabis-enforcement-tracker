@@ -15,7 +15,7 @@ figures:
   charged: 1
   kg_seized: 9.037
   prison: 6 years 6 months
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9d5ecfd868ddb7424dbaee70e719bd7d
 tags: [kaohsiung, airport-smuggling, appeal]

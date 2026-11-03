@@ -15,7 +15,7 @@ figures:
   charged: 8
   plants_destroyed: 2100
   kg_seized: 31.75
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5ae322659a29cc9aec0a76022f84b465
 tags: [maine, lincoln-county, grow-house, dismissal]

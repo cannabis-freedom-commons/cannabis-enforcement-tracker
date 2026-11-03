@@ -19,7 +19,7 @@ media:
     media_url: https://sozcuo01.sozcucdn.com/wp-content/uploads/2018/07/1-36.jpg
     publisher: DHA, via Sözcü
     caption: 'Cannabis plants sown in 29 pots inside the private room of the apart hotel, photographed during the police search. Photo: DHA'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6bf4be8b16d9b6bb22a6a442fe76c5b0
 tags: [rize, camlihemsin, hotel, indoor-grow, kenevir]

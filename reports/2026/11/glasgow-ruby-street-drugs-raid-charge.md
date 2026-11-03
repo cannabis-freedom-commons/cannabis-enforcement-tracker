@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 77ddb7e74d39348cfcb74e38ce8eafb9
 tags: [glasgow, ruby-street, police-scotland]

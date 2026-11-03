@@ -109,9 +109,6 @@ func mergeCaseFields(front []string, header *yaml.Node, r Result) ([]string, err
 	if r.Date != date.Value[:10] || oldType == nil || r.Type != oldType.Value {
 		changes = entry([][2]string{{"date", r.Date}, {"title", r.Title}, {"summary", r.Summary}, {"type", r.Type}})
 	}
-	if status := mapping(header, "status"); status == nil || status.Value != "disputed" {
-		setMapping(changes, "status", scalar("reported"))
-	}
 	if creator := mapping(header, "created_by_model"); creator == nil || strings.TrimSpace(creator.Value) == "" {
 		setMapping(changes, "created_by_model", scalar("unknown"))
 	}

@@ -18,7 +18,7 @@ media:
     media_url: https://img.mvsnoticias.com/39CzIdptEDWsx-709XBLYtp3fwbXd-rKhJdxWUpJsVg/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzNTc0MzIwMTU1LXpzdzl5YS5qcGVn
     publisher: MVS Noticias
     caption: 'Police image of the four detentions during the Halloween operations in San Pedro. Photo: Policía de San Pedro'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b7c372dd126acd691ebe4ae570d358f7
 tags: [san-pedro, nuevo-leon, halloween, del-valle]

@@ -19,7 +19,7 @@ media:
     media_url: https://www.palcoquintanarroense.com.mx/wp-content/uploads/2026/10/fge-vinculacion-narcomenudeo-cancun-cinco-imputados.jpg
     publisher: Palco Noticias
     caption: 'The five accused on the sheet issued by the Quintana Roo prosecutor''s office (FGE): Alberto “N”, Miguel “N”, Francisco Javier “N”, Luis Gerardo “N” and Luis Alberto “N”. Photo: FGE Quintana Roo'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 434b630cf401c6d4c2b2f60ea814a63b
 tags: [cancun, quintana-roo, narcomenudeo, marijuana, vinculacion-a-proceso]

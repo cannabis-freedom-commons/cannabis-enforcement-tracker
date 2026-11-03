@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0e4ccf919ff606f283eb87eb8c485067
 tags: [horizon-city, texas, traffic-stop]

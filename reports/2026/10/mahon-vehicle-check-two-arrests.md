@@ -19,7 +19,7 @@ media:
     media_url: https://image.ondacero.es/clipping/cmsimages02/2026/10/30/65E0F797-AE81-414E-B9B3-449DFC4A713D/detenidos-dos-hombres-mahon-cocaina-extasis-tusi-metanfetamina-marihuana-lsd_69.jpg?crop=2048,1152,x0,y384&width=1280&height=720&optimize=low&format=webply
     publisher: Onda Cero
     caption: 'Police photograph of the seized cocaine, MDMA, tusi, methamphetamine, marijuana and LSD doses, more than €100 in cash and a precision scale laid out on a table. Photo: Policía Nacional (CPN)'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b46620f307993f3b664e1e9948e19a5f
 tags: [menorca, balearic-islands, policia-nacional, traffic-stop, marijuana]

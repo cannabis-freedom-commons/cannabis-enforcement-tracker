@@ -16,7 +16,7 @@ media:
     media_url: https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/OWQFWDECFJEZLPUISVRXBH6AJM.jpg?auth=0fdc995fd1318d89c1fef26e5b43c45864a34fcbc46712749cc23e5cc29f9b6d&width=1300&height=630&smart=true
     publisher: WSMV
     caption: 'Seized marijuana products laid out after the raid. Photo: Van Buren County Sheriff''s Office (VBSO)'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 44c06a4e1b9f6c64afadb320ac7ee69b
 tags: [spencer, van-buren, tennessee, thc, pre-rolls]

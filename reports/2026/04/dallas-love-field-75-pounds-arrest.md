@@ -20,7 +20,7 @@ media:
     media_url: https://media.nbcdfw.com/2026/05/pot-found-dal.jpg?quality=85&strip=all&resize=850%2C478
     publisher: NBC 5 Dallas-Fort Worth
     caption: 'Three suitcases of seized marijuana at Love Field Airport. Photo: Dallas Police via NBC 5 Dallas-Fort Worth'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9a62e656887d1cd40fa08347ce2e1c2
 tags: [dallas, love-field, airport, trafficking]

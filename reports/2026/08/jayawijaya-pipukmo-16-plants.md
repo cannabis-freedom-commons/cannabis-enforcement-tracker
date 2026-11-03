@@ -21,7 +21,7 @@ media:
     url: https://papuainside.id/polres-jayawijaya-ungkap-ladang-ganja-di-kampung-pipukmo/
     publisher: Papua Inside
     caption: 'Police officers at the cannabis plot in Kampung Pipukmo. Photo: Humas Polres Jayawijaya'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [papua, jayawijaya, ganja, drone]
 sources:

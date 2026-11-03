@@ -21,7 +21,7 @@ media:
     url: https://www.blesk.cz/clanek/regiony-brno-brno-krimi/615761/na-balkone-si-pul-roku-hyckal-konopi-sklizen-obstaral-policejni-toxi-tym.html
     publisher: Blesk.cz
     caption: 'Police photographs of the cannabis plants on the balcony of a panel-block flat in Blansko. Photo: Police of the Czech Republic, Blansko.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [blansko, balcony-grow, home-search, misdemeanour]
 sources:

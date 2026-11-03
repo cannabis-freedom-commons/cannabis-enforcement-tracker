@@ -13,7 +13,7 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years 6 months
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 8994551a666a982730b372d042e9dc09
 tags: [ivanovo, home-grow, article-228, strict-regime]

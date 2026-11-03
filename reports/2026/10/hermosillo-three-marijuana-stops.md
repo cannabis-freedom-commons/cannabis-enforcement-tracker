@@ -12,7 +12,7 @@ summary: >-
   Police in Hermosillo arrested three men, two of them described as priority targets, in separate stops between midnight on Wednesday and Thursday afternoon, seizing apparent marijuana in each. All three were handed to the ministerial agent along with the drugs, a knife and a car.
 figures:
   arrested: 3
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fc2efa972e477a3da04aee8ddb07e20e
 tags: [hermosillo, sonora, municipal-police, marihuana, priority-targets]

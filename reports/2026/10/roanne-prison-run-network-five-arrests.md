@@ -19,7 +19,7 @@ media:
     media_url: https://cdn-s-www.leprogres.fr/images/9874cb7b-379c-4521-9378-70a86eae114c/NW_detail/les-stupefiants-ont-ete-saisis-lors-de-la-perquisition-menee-par-les-policiers-dans-un-appartement-nourrice-a-roanne-photo-fournie-par-la-police-nationale-1793226799.jpg
     publisher: Le Progrès
     caption: 'The cocaine and cannabis seized in the search of an "appartement nourrice" in Roanne, photographed by police. Photo: Police Nationale, via Le Progrès.'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3b4d5fc31eb57334709ecda552f5f90e
 tags: [roanne, loire, prison, drug-trafficking]

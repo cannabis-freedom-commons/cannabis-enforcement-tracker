@@ -17,7 +17,7 @@ media:
     media_url: https://img.eldiario.ec/upload/2026/10/17161D524C42446D16160F55574946731F171F18524343751412-1200x800.webp
     publisher: El Diario
     caption: 'Police photo published with the report of the marijuana parcel found at Manta''s bus terminal. Credit: Policía, via El Diario.'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: d72bd8ea9201bff52452928ee019a947
 tags: [manta, manabi, microtrafficking, canine]

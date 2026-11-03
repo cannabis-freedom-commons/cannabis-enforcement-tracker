@@ -18,7 +18,7 @@ media:
     media_url: https://admin.vechorka.ru/wp-content/uploads/2026/10/i-2026-10-29t123256.478.webp
     publisher: Вечерний Ставрополь
     caption: 'Police photo published with the report of the Kochubeyevsky seizure. Photo: ГУ МВД России по СК'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: e61714f4489916eaf4fd789b656101af
 tags: [stavropol, kochubeevsky, marijuana, article-228]

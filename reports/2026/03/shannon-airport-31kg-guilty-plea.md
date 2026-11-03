@@ -17,7 +17,7 @@ figures:
   value:
     amount: 620000
     currency: EUR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 525bdbdfb5590421922d709dd86f18c8
 tags: [shannon, airport-smuggling, section-15a]

@@ -24,7 +24,7 @@ media:
     media_url: https://noticias22.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-5.18.32-PM.jpeg
     publisher: Noticias 22
     caption: Lead image published with the report of the DNCD operations in Greater Santo Domingo.
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 090ab8b4cdaa9cf0ad341d026c4dc637
 tags: [dncd, gran-santo-domingo, marihuana, microtrafico]

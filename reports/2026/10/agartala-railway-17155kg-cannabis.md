@@ -22,7 +22,7 @@ media:
     media_url: https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-1.42.58-PM-1024x798.jpeg
     publisher: Tripura Star News
     caption: 'The seizure at Agartala Railway Station, in a photo published with the report; no caption or credit was given. Photo: Tripura Star News.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ecc74b9851cad2665c96653dd3d4a866
 tags: [agartala, railway, ganja, ndps, tripura]

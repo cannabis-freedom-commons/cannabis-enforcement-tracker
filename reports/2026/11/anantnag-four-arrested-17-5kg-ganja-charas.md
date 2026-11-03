@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 17.606
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c9a49d70bbdccb35d5a1f714ff82e1a
 tags: [anantnag, ganja, charas, ndps]

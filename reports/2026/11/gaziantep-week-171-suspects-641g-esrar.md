@@ -19,7 +19,7 @@ media:
     media_url: https://malatyasozcom.teimg.com/crop/1280x720/malatyasoz-com/uploads/2026/11/a-w823650-02.jpg
     publisher: Malatya Söz
     caption: Police display of seized drugs under a 'NARKO GAZIANTEP' sign shown in the lead image
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2d2a02863105bc1b177f9928ca01c44d
 tags: [gaziantep, esrar, roundup]

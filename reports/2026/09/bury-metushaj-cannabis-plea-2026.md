@@ -11,7 +11,7 @@ summary: >-
   Enver Metushaj, 25, pleaded guilty at Manchester Magistrates' Court to possessing cannabis with intent to supply, possessing cash as criminal property and motoring offences arising in Bury on September 18. He was remanded in custody and is due before Manchester Crown Court for sentencing on November 18.
 figures:
   charged: 1
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e491913d58e0db2e7cfc846411b31012
 tags: [bury, greater-manchester, cannabis, criminal-cash]

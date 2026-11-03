@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 14
   plants_destroyed: 237
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ffff73690e0d0e6344ccde7c67672546
 tags: [los-rios, cannabis-plants, carabineros]

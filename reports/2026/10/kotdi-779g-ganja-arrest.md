@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.779
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eb6dcf64d0eb606b6eba92aca6968032
 tags: [rajasthan, operation-trinetra, ganja, ndps-act]

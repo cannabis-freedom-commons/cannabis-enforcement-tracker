@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 39d54bc9f0b14762390c7c137ccaf846
 tags: [indiana, bedford, possession, owi, lawrence-county]

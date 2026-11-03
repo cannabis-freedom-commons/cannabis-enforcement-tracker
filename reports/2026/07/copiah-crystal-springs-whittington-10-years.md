@@ -25,7 +25,7 @@ media:
     media_url: https://static.wixstatic.com/media/c0b055_6710777f08e41c89ee6cbbd00bc9454~mv2.jpg/v1/fill/w_95,h_126,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/c0b055_6710777f08e41c89ee6cbbd00bc9454~mv2.jpg
     publisher: Wesson News
     caption: Seized marijuana grow shown in a photo courtesy of the Copiah County Sheriff's Office Facebook page.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9368d564d0d271f5aa1083b2d6b65283
 tags: [mississippi, crystal-springs, drug-court, manufacturing]

@@ -14,7 +14,7 @@ figures:
   arrested: 6
   charged: 6
   kg_seized: 90.72
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d4f310a13754cfe8bd7eddeed364f7df
 tags: [warren, michigan, robbery, marijuana-facility]

@@ -20,7 +20,7 @@ media:
     media_url: https://www.theboltonnews.co.uk/resources/images/21651137.jpg?type=mds-article-962
     publisher: The Bolton News
     caption: 'Street view of Southport Road in Leyland, where Heyes was driving when found with cannabis in his system. Photo: Google'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a14e27f0aed18005eea7156d624554db
 tags: [preston, leyland, drug-driving, possession, magistrates-court]

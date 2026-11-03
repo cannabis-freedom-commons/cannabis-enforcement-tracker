@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.00216
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d0e9966d161163f9306e9ff1724be04d
 tags: [arkansas, jonesboro, traffic-stop, possession, marijuana]

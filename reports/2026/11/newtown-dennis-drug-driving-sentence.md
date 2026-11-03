@@ -20,7 +20,7 @@ media:
     media_url: https://www.countytimes.co.uk/resources/images/17696848/?type=mds-article-620
     publisher: County Times
     caption: 'Street view of Falcon Court, Maesyrhandir, Newtown, where police stopped the Ford Fiesta and found the driver over the limits for cocaine and cannabis. Photo: Google Street View'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ec7808cf550aa706932d2d0e34771b55
 tags: [newtown, powys, drug-driving, magistrates-court]

@@ -18,7 +18,7 @@ media:
     media_url: https://news.ssbcrack.com/wp-content/uploads/2026/10/Saisie-de-drogues-et-arrestation-lors-dune-perquisition-a-Mashteuiatsh.jpg
     publisher: SSBCrack News
     caption: Lead photo on the source page for this Mashteuiatsh seizure report.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8f8b98d4e63fab9992c4692dd5480db0
 tags: [mashteuiatsh, quebec, raid, edibles]

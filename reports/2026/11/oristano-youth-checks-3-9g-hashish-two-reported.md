@@ -12,7 +12,7 @@ summary: >-
   Oristano police identified 129 people, including 88 minors, during youth-focused checks and reported two people for drug possession. Officers seized 3.9 grams of hashish, including 3 grams found outside the Don Deodato Meloni school with a dog unit.
 figures:
   kg_seized: 0.0039
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 780f241ac6f4e8ece7a0ecf57b2d8780
 tags: [oristano, sardinia, hashish, youth-checks]

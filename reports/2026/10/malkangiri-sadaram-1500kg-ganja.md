@@ -21,7 +21,7 @@ media:
     url: https://ommcomnews.com/odisha-news/ganja-worth-rs-1-5-cr-seized-from-forest-in-malkangiri/
     publisher: Ommcom News
     caption: 'Police personnel standing behind rows of white sacks of seized ganja in the forest, with an iron chest in front. Photo: Ommcom News'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, malkangiri, odisha, jodamba, forest]
 sources:

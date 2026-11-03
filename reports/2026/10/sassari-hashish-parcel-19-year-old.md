@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 2
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b854978dc0264f464c3d50bcce0e6051
 tags: [sassari, hashish, sardinia, guardia-di-finanza, postal-seizure]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 40
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e299769322d56763cd8ae9d4e43005e0
 tags: [kilis, syrian-refugees, gendarmerie, container, cannabis]

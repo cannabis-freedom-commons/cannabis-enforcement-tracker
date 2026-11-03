@@ -19,7 +19,7 @@ media:
     media_url: https://cdn.aksiyon.com.tr/uploads/1280x720/images/202610/balikesir-merkezinde-iki-operasyon-farkli-turlerde-uyusturucu-ve-aparatlarla-iki-gozalti-1200-797847.jpg
     publisher: Aksiyon
     caption: Lead photo on the source page for this operations report; its caption repeats the headline and carries no credit.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aaf4a5db6c3b669a6d3702ca91d9a5ae
 tags: [balikesir, esrar, skunk, narkotik]

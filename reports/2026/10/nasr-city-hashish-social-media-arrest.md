@@ -18,7 +18,7 @@ media:
     media_url: https://media.elbalad.news/2026/10/large/728752937161202610211242194219.jpg
     publisher: صدى البلد
     caption: 'Photo labelled "the accused" with the Nasr City hashish arrest. Photo: Sada El Balad'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: b69653c6be9e39f042605ba59df941ab
 tags: [nasr-city, cairo, hashish, interior-ministry]

@@ -16,7 +16,7 @@ figures:
   value:
     amount: 250000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 27d1d81f7e8ecaf66fe2632c39c14f51
 tags: [tehri, muni-ki-reti, charas, ndps, operation-prahar]

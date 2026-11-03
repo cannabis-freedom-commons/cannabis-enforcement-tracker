@@ -24,7 +24,7 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/30/ad222a6d-f65e-422d-b307-cd1c592ad151_1793362364617.jpg
     publisher: Dainik Bhaskar
     caption: 'The arrested man in police custody in Hasayan. Photo: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 92deafb2aedf09d03d86dd3933e30e6b
 tags: [hathras, hasayan, uttar-pradesh, ganja, ndps-act]

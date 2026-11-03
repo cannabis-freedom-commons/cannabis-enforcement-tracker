@@ -16,7 +16,7 @@ figures:
   value:
     amount: 62000
     currency: INR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 57285df67b398f6d8a59d1ade4586849
 tags: [guntur, andhra-pradesh, ganja, mangalagiri, ndps-act]

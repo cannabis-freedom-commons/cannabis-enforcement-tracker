@@ -14,7 +14,7 @@ figures:
   arrested: 1
   plants_destroyed: 560
   kg_seized: 0.02
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8d2ce90d52be9f0f05ff0bbaed708b1b
 tags: [usak, banaz, cannabis]

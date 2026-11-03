@@ -31,7 +31,7 @@ media:
     media_url: https://cache.pressmailing.net/thumbnail/story_hires/1579257e-99a4-49c1-b849-ea9b4503c091/Haschisch.jpg.jpg
     publisher: Hauptzollamt Dresden
     caption: Hashish pictured with the customs press release on the Leipzig joint operation
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c4c31a6dca122bf309030df0ff0ee95e
 tags: [leipzig, eisenbahnstrasse, clan, shisha-bars]

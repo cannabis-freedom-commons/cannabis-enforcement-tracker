@@ -19,7 +19,7 @@ media:
     media_url: https://iasbh.tmgrup.com.tr/3a38a9/752/395/0/32/1600/871?u=https://isbh.tmgrup.com.tr/sbh/2026/11/02/zehir-sevkiyatinda-sucustu-yakaladilar-336-kilo-skunk-maddesi-ele-gecirildi-1793611674980.jpg
     publisher: Sabah
     caption: Lead image published with the Sabah report on the seizure of 336 kg of skunk in Pendik.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 783690c6205b659a3ed128890bfb2d93
 tags: [pendik, istanbul, skunk]

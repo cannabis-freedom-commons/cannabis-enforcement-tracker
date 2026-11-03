@@ -18,7 +18,7 @@ media:
     media_url: https://img.mvsnoticias.com/myFMqj6VjhXDk6j1QdMlzymRNdnbkYSdeBTTI3ItL9M/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzNDA3OTk3MTg0LTBneWdqZi5wbmc
     publisher: MVS Noticias
     caption: 'A man in a grey shirt stands with his hands behind him in front of a Monterrey police patrol after officers said they found 10 packets of herb similar to marijuana and a hammer in Colonia Industrial. Photo: Policía de Monterrey'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: fdf799fe21f1ae46b5303bdf5503ef7d
 tags: [monterrey, nuevo-leon, marijuana, street-stop]

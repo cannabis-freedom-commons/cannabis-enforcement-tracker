@@ -18,7 +18,7 @@ figures:
   value:
     amount: 357200
     currency: EUR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c4af4bf6441aff1b65e2f0d6ca3b1cd0
 tags: [dublin, importation, thailand]

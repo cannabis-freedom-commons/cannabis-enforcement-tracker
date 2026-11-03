@@ -11,7 +11,7 @@ summary: >-
   Hiroshima-Chuo police arrested a 41-year-old self-described Nagoya landscaper in Nagarekawa, Hiroshima, on suspicion of cannabis possession. The red-handed arrest was made on 3 November 2026 under the Narcotics Control Law; no quantity or further details were in the accessible text.
 figures:
   arrested: 1
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ae874677aec3f9dcf554419dc028fbba
 tags: [hiroshima, nagarekawa, possession]

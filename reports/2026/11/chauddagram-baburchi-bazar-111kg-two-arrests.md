@@ -16,7 +16,7 @@ figures:
   value:
     amount: 1110000
     currency: BDT
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a3ecb651c020e67c30fa2a3c75a5552
 tags: [chauddagram, cumilla, srb-7]

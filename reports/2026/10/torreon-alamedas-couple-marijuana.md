@@ -18,7 +18,7 @@ media:
     media_url: https://tecolotito.elsiglodetorreon.com.mx/i/2026/10/2058666.jpeg
     publisher: El Siglo de Torreón
     caption: 'Photo published with the report of the couple detained with marijuana after pulling a bench in a plaza in colonia Alamedas. Photo: El Siglo de Torreón'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: d6ce6bb6088ea5149d9092a1dd13d808
 tags: [torreon, coahuila, marihuana, grt]

@@ -19,7 +19,7 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/26/34f98ba0-1530-4b34-9090-0fc74fca5789_1792984705307.jpg
     publisher: Dainik Bhaskar
     caption: 'An arrested suspect in police custody after the charas seizure near Tandi. Photo: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b7341d12c3c2016f0920a1cb38b7aaee
 tags: [lahaul-spiti, tandi, charas, ndps, checkpoint]

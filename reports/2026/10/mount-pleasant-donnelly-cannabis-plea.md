@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 6.39
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 21a9de8cb8233f9a87c171ffea341712
 tags: [ballarat, victoria, mount-pleasant, guilty-plea, summary-jurisdiction]

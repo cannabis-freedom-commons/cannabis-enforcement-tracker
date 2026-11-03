@@ -17,7 +17,7 @@ media:
     media_url: https://www.youtube.com/watch?v=kjgAbrpVKkQ
     publisher: Гродно Плюс
     caption: 'Grodno Plus television report for this article, titled «В Гродно мужчину осудили за найденную банку с марихуаной», embedded in the story. Video: Телеканал Гродно Плюс'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 5ab672f068e76d3cd82dcdd809817246
 tags: [grodno, belarus, possession, article-328]

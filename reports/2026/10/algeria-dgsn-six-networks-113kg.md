@@ -19,7 +19,7 @@ media:
     media_url: https://www.expressdz.dz/wp-content/uploads/2026/10/saisie-kif-traite-provenance-maroc.webp
     publisher: L'Express DZ
     caption: Treated kif of Moroccan origin seized in the operation, in the lead photograph published with the report; no credit given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b7814dacfb9284d6de7c931fc08ac880
 tags: [dgsn, kif, morocco-route, network, weekly-bilan]

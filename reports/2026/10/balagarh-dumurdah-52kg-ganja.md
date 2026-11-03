@@ -19,7 +19,7 @@ media:
     media_url: https://bengali.hindusthansamachar.in/Encyc/2026/10/31/adac1cc34ecfa93525b5d44cb0e427b2_198145823_H@@IGHT_0_W@@IDTH_600.jpg
     publisher: Hindusthan Samachar
     caption: Police officers and civilians standing behind rows of packaged cannabis at Balagarh police station, with the Hooghly Rural Police and Balagarh police station banners visible behind them.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f274679af946dfe70a1be26f347fbd98
 tags: [ganja, west-bengal, hooghly, balagarh, ndps]

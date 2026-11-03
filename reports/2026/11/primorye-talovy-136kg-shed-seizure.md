@@ -19,7 +19,7 @@ media:
     media_url: https://primpress.ru/img/articles/1103261153001dp.jpg
     publisher: PRIMPRESS
     caption: 'Screenshot of Primorsky Krai police material on the reported 136 kg marijuana seizure in the shed. Photo: screenshot, Police of Primorsky Krai'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 99bc0557e0b6f4523c5b94ba655f575c
 tags: [primorye, pogranichny, talovy, marijuana]

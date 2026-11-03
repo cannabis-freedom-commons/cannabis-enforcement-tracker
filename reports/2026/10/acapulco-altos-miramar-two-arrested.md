@@ -18,7 +18,7 @@ media:
     media_url: https://cdn.anews.mx/2026/11/WhatsApp-Image-2026-10-31-at-19.51.24.jpeg.webp
     publisher: anews
     caption: 'Two handcuffed men face a wall, surrounded by state police, prosecutors'' office and army personnel, with a table of seized bags, a pistol and a coordination banner in front of them. Photo: anews'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8f4963c08a0e010282bd8a65a0e84661
 tags: [acapulco, guerrero, marihuana, narcomenudeo, street-seizure]

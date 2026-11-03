@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.00137
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: e266f7c12adfef52b0ee16343e822425
 tags: [igdir, esrar, sogutlu]

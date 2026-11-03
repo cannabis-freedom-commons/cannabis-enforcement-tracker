@@ -12,7 +12,7 @@ summary: >-
 figures:
   plants_destroyed: 6
   kg_seized: 1.266
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [nelahozeves, melnik, central-bohemia, railway, personal-grow]
 sources:

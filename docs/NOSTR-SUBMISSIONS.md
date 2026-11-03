@@ -212,7 +212,24 @@ record the shared article and related public submission/report, rather than impl
 rejected the event. Older results fall back to the status label and their saved explanation;
 no longer model explanation is fabricated for historical attempts.
 
-Automated report status remains `reported`, never automatically `verified`.
+Automated report status follows the evidence checks. A new report is `verified` when every
+retained fact has a supporting quotation found in an opened/captured source. Facts dropped for
+missing quotations do not block verification of the retained text. If claims from a source
+that could not be reopened or recovered from a capture are retained, the report stays `reported`
+and records that limitation in `open_questions`. Missing details, only one source, or other
+open questions alone do not block `verified`. Status is service-owned and cannot be supplied
+by the model; checkpoint recovery reruns the checks rather than trusting a saved status.
+Updates preserve `disputed` and retain `verified` only when the older report was verified and
+the added facts all pass. A checked addition cannot certify unchecked older prose; corrected
+titles/summaries remain `reported` pending a full check.
+
+Existing backend reports can be reclassified from saved service checks without another model
+run or network request: `node scripts/recheck-report-status.mjs backend/data/tracker.sqlite`
+previews eligible reports; add `--write` to apply. It opens SQLite read-only and changes only
+the report status. It requires complete retained-fact/source checks, a new-event result, and
+a current report matching the saved draft and checked facts. Later edits and update-only
+evidence cannot certify older prose; those reports keep their current status. Codes and
+creator attribution are preserved.
 Each newly collected photo or video requires its own media entry with `url` (the cited source page),
 `media_url` (the direct absolute HTTP(S) photo/video address), publisher and caption/credit. OpenCode
 copies the address from captured `source_images[].src` or the opened page, never guesses it.

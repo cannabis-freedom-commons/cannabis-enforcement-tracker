@@ -19,7 +19,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/46/22ef56b6edd93a53b7108e7ac9cd0bff_a.jpg
     publisher: Haber7
     caption: Haber7 lead photo for the report on cannabis seized in the ambulance returning from Syria
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 824e4820d4f1a62da8ee562e04e58dd4
 tags: [kilis, elbeyli, ambulance, border, cobanbey]

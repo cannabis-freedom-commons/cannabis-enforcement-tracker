@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5.7496
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 20ec2bdceed92baadddd6b402022db20
 tags: [imbituba, ibiraquera, maconha, haxixe]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.052
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9d88c36ef0e97cb63dc0e5e4138c9617
 tags: [parauapebas, para, cannabis]

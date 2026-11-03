@@ -14,7 +14,7 @@ figures:
   arrested: 241
   plants_destroyed: 24
   kg_seized: 1.70916
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fd0c0082380a32f91cf834c7d8904580
 tags: [eskisehir, turkey, esrar, roundup]

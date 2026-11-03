@@ -19,7 +19,7 @@ media:
     media_url: https://s3.ppllstatics.com/elcorreo/www/multimedia/local/2026/10/31/operacion-bilbao-kDxF-U302379980420QOE-1200x840@El%20Correo-RLoiBdKkYyeif9GkKCtN8bJ-1200x840@El%20Correo.jpg
     publisher: El Correo
     caption: 'The drugs and cash seized in operation Banatzailea, laid out on a table in front of an Ertzaintza banner. Photo: El Correo'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 91d4b4a91ac0b3344c11ae764740e7f9
 tags: [bizkaia, ertzaintza, hashish, basque-country]

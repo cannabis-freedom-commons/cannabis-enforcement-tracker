@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.15
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 52dbccd87975a4bcf7a7ffe2fed1673a
 tags: [rezzato, hashish, brescia]

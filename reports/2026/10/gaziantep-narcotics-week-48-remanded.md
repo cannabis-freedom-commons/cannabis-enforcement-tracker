@@ -19,7 +19,7 @@ media:
     media_url: https://yozgatmedyacomtr.teimg.com/crop/1280x720/yozgatmedya-com-tr/uploads/2026/10/agency/iha/gaziantepte-narkotik-operasyonlarinda-48-sahis-tutuklandi.jpg
     publisher: Yozgat Medya
     caption: 'Methamphetamine, esrar and a cannabis plant displayed under a ''Narko Gaziantep'' sign, in the lead image of the İHA report. Photo: İHA'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c6581497768c5a646f841495e5169802
 tags: [gaziantep, turkey, esrar, roundup, methamphetamine]

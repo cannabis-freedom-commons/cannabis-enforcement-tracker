@@ -19,7 +19,7 @@ media:
     media_url: https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/26/A1BC7EA6-6D84-4DB4-8813-C4C8C855BA4C/165.jpg?crop%3D1157%2C651%2Cx0%2Cy0%26width%3D1440%26height%3D810%26optimize%3Dlow%26format%3Dwebply
     publisher: La Razón
     caption: 'Still from a Policía Nacional video at the moment of the drug seizure at the Ayamonte farm. Photo: La Razón / Policía Nacional'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b9c03f03f813ce5805ffffea51042c7
 tags: [ayamonte, huelva, hashish, guarderia]

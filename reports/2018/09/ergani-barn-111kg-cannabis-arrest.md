@@ -19,7 +19,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/39/97d017cf9930194d764aaf7d03caefab_a.jpg
     publisher: Haber7
     caption: Lead photo published with the report on the 111 kg seizure in the Ergani barn.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 249eac6e47ee7457835561deecabed8f
 tags: [ergani, diyarbakir, kubar-esrar]

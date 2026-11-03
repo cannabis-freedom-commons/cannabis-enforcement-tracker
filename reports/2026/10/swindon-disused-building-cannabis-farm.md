@@ -15,7 +15,7 @@ media:
     media_url: https://www.swindonadvertiser.co.uk/resources/images/21648689/?type=responsive-gallery-fullscreen
     publisher: Swindon Advertiser
     caption: 'A cannabis farm uncovered by police in an abandoned Oxfordshire building. Photo: Thames Valley Police'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e34421452b6d6f503ca3329e769db0ed
 tags: [thames-valley, oxfordshire, cannabis-farm, swindon]

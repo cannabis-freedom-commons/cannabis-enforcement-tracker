@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 365
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c9724e1e93053600fa42e83ad1dec5f
 tags: [barstow, indoor-grow, electricity-theft]

@@ -29,7 +29,7 @@ media:
     media_url: https://i2-prod.dailyrecord.co.uk/article37823949.ece/ALTERNATES/s1200e/2_JS422791345.jpg
     publisher: Daily Record
     caption: Plants left in the garden of the raided house in Wishaw.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 24ebbe56c97284ae5235f072e487e46a
 tags: [wishaw, lanarkshire, police-scotland, cannabis-farm, residential]

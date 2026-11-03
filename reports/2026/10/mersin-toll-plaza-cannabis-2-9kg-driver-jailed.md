@@ -20,7 +20,7 @@ media:
     media_url: https://www.beyazbelgehaber.com/yuklemeler/haberler/ham-haber-20261030-093153-bbbffd222473.jpg
     publisher: Beyaz Belge Haber
     caption: Bags of the kubar esrar seized in the Mersin operation, displayed in front of a Mersin provincial gendarmerie command sign.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6dd3169e1da88cc9d7f0e46755f1faff
 tags: [turkey, mersin, esrar, kubar-esrar]

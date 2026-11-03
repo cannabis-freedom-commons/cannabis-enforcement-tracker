@@ -28,7 +28,7 @@ media:
     url: https://news.detik.com/berita/d-7980582/bareskrim-musnahkan-25-hektare-ladang-ganja-di-nagan-raya-aceh
     publisher: detikNews
     caption: 'Police and joint-team members at a cannabis field in Nagan Raya, Aceh. Photo: Agus Setyadi/detikSumut'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [aceh, nagan-raya, cannabis-plantation, eradication]
 sources:

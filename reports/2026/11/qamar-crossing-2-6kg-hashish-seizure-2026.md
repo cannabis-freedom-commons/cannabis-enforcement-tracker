@@ -17,7 +17,7 @@ media:
     media_url: https://dailybeirut.com/api/v1/public/img/wp-content/uploads/2026/11/5671129_1793555837-1793556225185-jqiq12.jpg?w=1200&fmt=avif
     publisher: Daily Beirut
     caption: Lead photo on the Daily Beirut page for the Qamar crossing drug-smuggling report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3c11f1fd2d3765f589d738a47b39c59d
 tags: [akkar, wadi-khaled, hashish, border-crossing]

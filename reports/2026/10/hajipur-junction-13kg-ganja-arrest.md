@@ -27,7 +27,7 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/30/1b6aecb2-19ea-4b37-8b1f-dd4ac6d20a6c_1793292572792/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video published with its report on the seizure; its still shows a blue bag of ganja on the ground. Video: Dainik Bhaskar'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 283d72b652db513b612ce2a69ea3be82
 tags: [hajipur, vaishali, bihar, ganja, operation-neelkanth]

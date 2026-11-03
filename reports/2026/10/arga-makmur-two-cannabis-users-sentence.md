@@ -15,7 +15,7 @@ figures:
   charged: 2
   kg_seized: 0.00237
   prison: 10 months
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0de5fb4fc8323f1470466cc09accc5d6
 tags: [bengkulu, ganja, restorative-justice, rehabilitation, personal-use]

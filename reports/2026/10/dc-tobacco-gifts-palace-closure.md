@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 4.03
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 718201b664569a8b2e1da4c98d906f18
 tags: [abca, unlicensed-retail, civil-enforcement, washington-dc]

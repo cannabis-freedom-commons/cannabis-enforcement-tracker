@@ -22,7 +22,7 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-11-01/1793537361_2143230.jpg
     publisher: Suryaa News
     caption: Lead photograph on the Suryaa report of the Dammapeta case, published under the headline about the six detained at the cremation ground and the two held with ganja; no photographer credit given.
-status: reported
+status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7ad619622aa656f18c6a38d502d4a84a
 tags: [telangana, bhadradri-kothagudem, ganja, dammapeta, de-addiction-centre]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5.057
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 332e96f943e9f2b6bd4b0ecfa1bd7e20
 tags: [telangana, gadwal, ganja, cannabis, arrest]

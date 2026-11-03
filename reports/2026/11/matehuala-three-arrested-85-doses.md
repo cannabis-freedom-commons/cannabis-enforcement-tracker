@@ -12,7 +12,7 @@ summary: >-
   Guardia Civil Estatal officers detained three suspected drug distributors in Matehuala, San Luis Potosí, seizing 85 doses of marijuana and two motorcycles. The detainees were described as possibly linked to a distribution network and placed at the disposal of the authorities for investigation.
 figures:
   arrested: 3
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3cb17074a71c6bdd4e0b2f868300a507
 tags: [san-luis-potosi, matehuala, guardia-civil, narcomenudeo]

@@ -16,7 +16,7 @@ figures:
   value:
     amount: 119250
     currency: INR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 68f83e6e6631c18cfe542679ea1904f7
 tags: [wardha, selu, ganja, ndps]

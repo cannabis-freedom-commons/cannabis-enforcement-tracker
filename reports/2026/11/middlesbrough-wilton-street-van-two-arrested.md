@@ -18,7 +18,7 @@ media:
     media_url: https://www.thenorthernecho.co.uk/resources/images/21656328.jpg?type=mds-article-962
     publisher: The Northern Echo
     caption: 'The drug paraphernalia discovered by police in the van stop. Photo: Cleveland Police'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 542bec18344ba670b24be3db2e351efb
 tags: [middlesbrough, cleveland-police, van-stop]

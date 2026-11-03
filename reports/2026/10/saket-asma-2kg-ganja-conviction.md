@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 2.015
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a4bb08147678befe64a1a98e959ba5e6
 tags: [delhi, saket-court, ndps-act, ganja, conviction]

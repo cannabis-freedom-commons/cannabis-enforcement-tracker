@@ -17,7 +17,7 @@ figures:
   fine:
     amount: 10000
     currency: EGP
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 08925c506acdf0af8e6cbd2a84910b3b
 tags: [cairo, nozha, hashish, sentencing]

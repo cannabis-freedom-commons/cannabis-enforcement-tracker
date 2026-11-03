@@ -12,7 +12,7 @@ summary: >-
   Military Police arrested two men and apprehended an adolescent in Barbacena's Santa Cecília neighbourhood on 31 October 2026 after an anonymous tip about drug dealing from a Fiat Uno. Officers found two marijuana tablets and a crumbled portion of the drug, plus R$20 in cash; no weight, charges or court outcome has been reported.
 figures:
   arrested: 3
-status: reported
+status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9d21aedf3d21ecb45e8494a5a336f2c4
 tags: [barbacena, minas-gerais, maconha, military-police]

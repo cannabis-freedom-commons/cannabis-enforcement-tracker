@@ -30,7 +30,7 @@ media:
     media_url: https://cf.cdn.uplynk.com/ause1/slices/cda/b9cd621bb5cc43d8b6bdc641d1acdca8/cda759625b68447688951c0d1d4b9d1b/cda759625b68447688951c0d1d4b9d1b_e.9370.mp4
     publisher: KTNV
     caption: 'KTNV video on the two Chicago brothers suspected of planning and carrying out the deadly robbery at Elevated Life. Video: KTNV'
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7198f91459f33e7a048cd34b868825f7
 tags: [las-vegas, nevada, robbery, marijuana-shop, homicide]

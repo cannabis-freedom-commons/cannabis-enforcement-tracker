@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 482
   kg_seized: 4000
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7436433d23499d86322dfc97067789da
 tags: [assam, ganja, stf]

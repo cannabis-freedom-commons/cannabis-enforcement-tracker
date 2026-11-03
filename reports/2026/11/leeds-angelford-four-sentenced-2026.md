@@ -32,7 +32,7 @@ media:
     media_url: https://www.westyorkshire.police.uk/sites/default/files/styles/medium/public/2026-11/puzzle_box_with_cocaine_inside.jpg?itok=HBRgqczL
     publisher: West Yorkshire Police
     caption: Puzzle box with cocaine inside found at Skelwith Walk address
-status: reported
+status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 02252bc973b75b2e20acef182df76570
 tags: [leeds, seacroft, west-yorkshire, operation-angelford]

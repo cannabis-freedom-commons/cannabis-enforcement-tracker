@@ -28,7 +28,7 @@ media:
     media_url: https://www.cbc.bb/wp-content/uploads/2026/11/Natalie-Jacinta-Boyce-Barbados-Police-Service-.jpg
     publisher: Caribbean Broadcasting Corporation
     caption: Police photo published with the report on the charges against Natalie Jacinta Boyce
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 867d0b03ff04d9a9fcb97b8f62ee366d
 tags: [st-michael, haggatt-hall, cannabis]

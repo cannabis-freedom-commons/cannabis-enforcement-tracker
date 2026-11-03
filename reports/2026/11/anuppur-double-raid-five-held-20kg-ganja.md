@@ -19,7 +19,7 @@ media:
     media_url: https://www.bhaskarhindi.com/h-upload/2026/11/02/1557016-182.webp
     publisher: Bhaskar Hindi
     caption: Lead photo on the source page for this Anuppur seizure report
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9bd94d7f796a9caf56a9197e340c3e02
 tags: [anuppur, ganja, ndps, madhya-pradesh]

@@ -15,7 +15,7 @@ figures:
   charged: 3
   plants_destroyed: 50
   kg_seized: 1.13
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9fa4bb62d6ba2c957c664875e22514c
 tags: [burnett, siren, thc, grow-operation]

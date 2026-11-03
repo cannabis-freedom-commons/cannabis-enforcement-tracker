@@ -16,7 +16,7 @@ figures:
   value:
     amount: 10000000
     currency: PKR
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, anf, karachi, rawalpindi, students]
 sources:

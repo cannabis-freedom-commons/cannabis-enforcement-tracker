@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 100
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: c59a6d5661531269a993ba9dc68cb258
 tags: [gaza, banjo, seedlings]

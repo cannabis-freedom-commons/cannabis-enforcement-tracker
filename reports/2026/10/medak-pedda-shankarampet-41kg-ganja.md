@@ -16,7 +16,7 @@ figures:
   value:
     amount: 250000
     currency: INR
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 460d22f12ae10d1de15f3df38288b9ba
 tags: [medak, ganja, excise, narayankhed]

@@ -21,7 +21,7 @@ media:
     media_url: https://i0.wp.com/dayakdaily.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-163014.png?fit=800%2C620&ssl=1
     publisher: DayakDaily
     caption: Some of the drugs seized by police during the Jalan Wan Alwi operation on Oct 20, 2026
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5fd1a1f7b0fb726e2bfa88b37dd60d5e
 tags: [kuching, sarawak, cartridges]

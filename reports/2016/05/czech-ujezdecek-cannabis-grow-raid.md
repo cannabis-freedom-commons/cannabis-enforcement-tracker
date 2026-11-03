@@ -27,7 +27,7 @@ media:
     url: https://www.zitteplice.cz/polciie-nahodou-objevila-pestirnu-konopi/
     publisher: Žít Teplice
     caption: A photograph of the cannabis grow found in the abandoned Újezdeček complex.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cannabis-grow, teplice, ujezdecek, indoor-growing, theft]
 sources:

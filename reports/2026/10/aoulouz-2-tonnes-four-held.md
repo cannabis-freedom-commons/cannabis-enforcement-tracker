@@ -19,7 +19,7 @@ media:
     media_url: https://agadir24.info/wp-content/uploads/2026/10/Screenshot_20261029_212408_com_facebook_katana_ImmersiveActivity_edit_95190517496290-1024x548.jpg
     publisher: Agadir24
     caption: Royal Gendarmerie officers beside a white van, in the photograph published with Agadir24's report on the Aoulouz seizure; the page credits no photographer.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f921203542a1c61a71b52655c3d0ac93
 tags: [taroudant, kif, taba, gendarmerie]

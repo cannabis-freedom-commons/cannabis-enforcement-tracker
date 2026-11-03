@@ -14,7 +14,7 @@ figures:
   plants_destroyed: 400
   kg_seized: 7.5
   prison: 3 years, suspended for 5 years
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cannabis, sentencing, brno, vicov, home-grow]
 sources:

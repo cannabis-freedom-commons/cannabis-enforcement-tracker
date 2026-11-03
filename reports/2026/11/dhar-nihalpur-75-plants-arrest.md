@@ -16,7 +16,7 @@ figures:
   value:
     amount: 400000
     currency: INR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d9abb87b33e62fedadbcee961a74c30
 tags: [dhar, nihalpur, ganja, ndps, operation-prahar]

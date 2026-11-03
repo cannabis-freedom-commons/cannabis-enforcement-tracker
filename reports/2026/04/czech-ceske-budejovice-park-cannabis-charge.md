@@ -22,7 +22,7 @@ media:
     url: https://ceskobudejovicky.denik.cz/krimi/doutnik-skoncil-marihuanu-prodaval-primo-z-lavicky-hlavne-mladistvym/
     publisher: Českobudějovický deník
     caption: 'Police photographs of items found during the house search, published with the police''s consent. Photo: Police of the Czech Republic, via Českobudějovický deník'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ceske-budejovice, cannabis, park, juvenile-sales, doutnik]
 sources:

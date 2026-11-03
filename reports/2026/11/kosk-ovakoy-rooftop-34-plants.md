@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 34
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 027f2da8e55e8f8a95f196ed242504ee
 tags: [aydin, kosk, jandarma, rooftop-grow]

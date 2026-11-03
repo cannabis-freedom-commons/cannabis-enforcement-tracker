@@ -19,7 +19,7 @@ media:
     media_url: https://img.prameyanews7.com/FilesUpload/News7/Posts/2026/10/29/1793276535_WhatsApp_Image_2026-10-29_at_5_49_54_PM.webp
     publisher: Prameya News7
     caption: Photograph published with Prameya News7's report and captioned '100 Kg Ganja Seized'; no photo credit given.
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ce3af579a42c77d6c282ce80e1da3df1
 tags: [kalahandi, kesinga, ganja, excise, odisha]

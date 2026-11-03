@@ -18,7 +18,7 @@ media:
     media_url: https://i0.wp.com/infonogales.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-15.21.12.jpeg?fit=600%2C749&quality=89&ssl=1
     publisher: Infonogales
     caption: 'Photo of one person detained, with a Municipal Police of Nogales backdrop and a presumption-of-innocence notice. Photo: Infonogales'
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 846faed10fb6e30fb13931b1abcc5b54
 tags: [nogales, sonora, municipal-police]

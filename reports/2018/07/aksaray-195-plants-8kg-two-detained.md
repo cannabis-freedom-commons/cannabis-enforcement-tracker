@@ -20,7 +20,7 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/29/e747f8c49abf66b0edb4b4a694ff9923_a.jpg
     publisher: Haber7
     caption: Photo accompanying the report on the Aksaray cannabis operation.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a92c77116a47f54158e1bd45e078cdb5
 tags: [aksaray, turkey, esrar]

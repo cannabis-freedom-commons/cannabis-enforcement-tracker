@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 35.5
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cooch-behar, sitalkuchi, ganja, west-bengal]
 sources:

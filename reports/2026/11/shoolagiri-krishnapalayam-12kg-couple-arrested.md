@@ -16,7 +16,7 @@ figures:
   value:
     amount: 600000
     currency: INR
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4ff3b5ab71f3bbd6b0ab277103e36d45
 tags: [krishnagiri, shoolagiri, ganja]

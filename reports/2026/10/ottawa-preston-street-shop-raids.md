@@ -14,7 +14,7 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 7.262
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b16b0b9b50b5d8a921e7cc5e8e4a00c9
 tags: [ottawa, unlicensed-shop, little-italy, preston-street]

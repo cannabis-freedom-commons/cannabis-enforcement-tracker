@@ -23,7 +23,7 @@ media:
     media_url: https://jornalforcadovale.com.br/wp-content/uploads/2026/10/1793407815050-87e89f-3371f189-78ff-4de8-b8d6-a2c2188a4cac.jpg
     publisher: Força do Vale
     caption: A Brigada Militar photograph of the drugs, phones and money seized in Encantado, published with the Força do Vale report; no credit given.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7adfa59810eab60ce9c197c7b56952fb
 tags: [encantado, rio-grande-do-sul, brigada-militar, maconha, drug-trafficking]

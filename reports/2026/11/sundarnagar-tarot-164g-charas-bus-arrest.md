@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.164
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0bdd040f85c697fff74c28a76892e800
 tags: [mandi, sundarnagar, charas, bus]

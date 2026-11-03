@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 115
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e9dccc41262ebf9f3d8153e563ff1cb7
 tags: [izmir, karabaglar, esrar]

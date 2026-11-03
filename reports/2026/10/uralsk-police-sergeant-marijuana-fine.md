@@ -14,7 +14,7 @@ figures:
   fine:
     amount: 173000
     currency: KZT
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: f617fd2733906c2dd354c05fa36b4856
 tags: [uralsk, oral, west-kazakhstan, police, marijuana]

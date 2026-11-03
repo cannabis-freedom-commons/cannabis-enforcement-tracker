@@ -14,7 +14,7 @@ figures:
   arrested: 1
   kg_seized: 0.4967
   prison: 5 years
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 04c03c07e9492287562b965c157ad9ef
 tags: [mexico-city, roma-norte, sentence, union-tepito, marijuana]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.048
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d0358e3d22e7798934b963ab957f4ed7
 tags: [muzaffarpur, patahi, ganja]

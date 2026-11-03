@@ -20,7 +20,7 @@ media:
     media_url: https://pub-3249ea3c1ca6419182855bc83415a680.r2.dev/news/images/2026/11/1793510178294-3efa9e94-1ff6-4da9-a587-cac6ce9dc0c1.jpg
     publisher: प्रदेश प्रकाश
     caption: Men stand with police officers in front of Ashta police station, with a white package on a table in the foreground.
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d0dfb362bcc064cb86e076e471bb15c6
 tags: [ashta, sehore, madhya-pradesh, ganja, ndps-act]

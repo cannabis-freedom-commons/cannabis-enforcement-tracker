@@ -15,7 +15,7 @@ figures:
   charged: 2
   kg_seized: 1.88
   prison: 10 years and 9 years
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9ba7bffdd9149ff5070736ea753f74c
 tags: [champawat, uttarakhand, charas, ndps, sentencing]

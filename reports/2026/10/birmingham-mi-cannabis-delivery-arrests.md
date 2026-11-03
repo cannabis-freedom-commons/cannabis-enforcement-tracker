@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
-status: reported
+status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 74a9ae5025a3c6d0691d994f7bad48cf
 tags: [michigan, birmingham, traffic-stop, cannabis-delivery]

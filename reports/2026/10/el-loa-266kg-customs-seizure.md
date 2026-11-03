@@ -29,7 +29,7 @@ media:
     media_url: https://www.aduana.cl/aduana/site/artic/20261006/imag/foto_0000000620261006162818/3.jpeg
     publisher: Servicio Nacional de Aduanas
     caption: 'More of the seized marijuana packages displayed at the El Loa customs post. Photo: Servicio Nacional de Aduanas.'
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [iquique, tarapaca, customs, cannabis, el-loa]
 sources:

@@ -29,7 +29,7 @@ media:
     media_url: https://okcfox.com/resources/media2/16x9/447/400/0x215/80/5b0d1d8c-cdef-431b-bf96-ad08a391e1e4-MarijuanaseizedfrompropertyOBN.jpg
     publisher: KOKH
     caption: 'Narrow hallway filled with numerous potted plants arranged along the floor. Photo: Oklahoma Bureau of Narcotics via KOKH.'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a6e8b22d9357b79a950f9914a8f253af
 tags: [oklahoma-city, unlicensed-grow, cultivation]

@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.104
-status: reported
+status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: b8dde35dfc01efbe6836a4724712ee24
 tags: [kabrai, mahoba, ganja, uttar-pradesh, viral-video]

@@ -27,7 +27,7 @@ media:
     media_url: https://domazlicky.denik.cz/images/api/image/640x480/2d6/2d62f95e-462d-4d9c-87b1-c92453ef68e2.webp
     publisher: Domažlický deník
     caption: Miroslav H. with his defence counsel at the District Court in Domažlice.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 12888300ca27fb2bf91e9401844c3156
 tags: [domazlice, pervitin, marijuana, appeal]

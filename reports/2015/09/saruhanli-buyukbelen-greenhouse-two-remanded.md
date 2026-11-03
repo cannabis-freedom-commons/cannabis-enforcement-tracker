@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.04
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cd3006fca68ceb6b58cc2f26e9341195
 tags: [saruhanli, manisa, greenhouse]

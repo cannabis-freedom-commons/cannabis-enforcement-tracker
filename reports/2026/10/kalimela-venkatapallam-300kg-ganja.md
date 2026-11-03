@@ -12,7 +12,7 @@ summary: >-
   Kalimela police seized 300 kg of ganja hidden in a forest near Venkatapallam village in Malkangiri district, Odisha. No one was arrested: the people who stored it fled before officers arrived, and police registered a case under the NDPS Act.
 figures:
   kg_seized: 300
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [odisha, malkangiri, kalimela, ganja, forest]
 sources:

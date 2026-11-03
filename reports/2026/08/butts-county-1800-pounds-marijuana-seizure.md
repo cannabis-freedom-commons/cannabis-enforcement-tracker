@@ -27,7 +27,7 @@ media:
     media_url: https://www.freightwaves.com/wp-content/uploads/2026/08/26/butts-county-evidence-display-body-1200w.jpg
     publisher: FreightWaves
     caption: 'Three men kneel beside bags and boxes containing approximately 1,800 pounds of marijuana intercepted from a Sacramento shipment. Photo: Butts County Sheriff''s Office'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 258811fc282a37105ad5af1dcd4a0622
 tags: [butts-county, georgia, interstate, trucking]

@@ -302,14 +302,11 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 			sets = append(sets, kv)
 		}
 	}
-	if len(sets) > 0 {
+	corrected := len(sets) > 0
+	if corrected {
 		changed = true
 		if u.Title != "" {
 			d.Title = u.Title
-		}
-		// an automated correction is no longer a verified text
-		if status := mapping(header, "status"); status == nil || status.Value != "disputed" {
-			sets = append(sets, [2]string{"status", "reported"})
 		}
 	}
 	var newQuestions []*yaml.Node
@@ -331,6 +328,16 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	}
 	if !changed {
 		return d, ErrUnchanged
+	}
+	// Preserve the verification of earlier prose only when the new facts are checked.
+	// A checked addition cannot certify unchecked older prose or a corrected summary.
+	previousStatus := ""
+	if status := mapping(header, "status"); status != nil {
+		previousStatus = status.Value
+	}
+	nextStatus := updateStatus(previousStatus, factsVerified(u.Facts) && !corrected)
+	if nextStatus != previousStatus {
+		sets = append(sets, [2]string{"status", nextStatus})
 	}
 	for _, add := range []struct {
 		key   string

@@ -21,7 +21,7 @@ media:
     media_url: https://ktla.com/wp-content/uploads/sites/4/2026/10/weed1.jpg?resize=640,853
     publisher: KTLA
     caption: 'Sheriff''s photo of the indoor grow raided at the Covina-area home. Photo: LASD'
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a50a5a438054e43714183f79f1495f69
 tags: [covina, indoor-grow, search-warrant]

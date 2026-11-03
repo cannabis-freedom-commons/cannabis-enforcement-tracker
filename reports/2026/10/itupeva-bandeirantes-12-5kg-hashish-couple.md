@@ -27,7 +27,7 @@ media:
     media_url: https://sampi.net.br/dir-arquivo-imagem/2026/10/b4ba8a5cec48cf2406b3576134711c44.jpeg
     publisher: Sampi / Jornal de Jundiai
     caption: Photo of the seized drug, captioned as valued at about R$125,000.
-status: reported
+status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3a68707b7346fae720e58c82619e3f59
 tags: [itupeva, sao-paulo, hashish]

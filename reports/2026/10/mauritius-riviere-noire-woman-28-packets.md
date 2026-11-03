@@ -13,7 +13,7 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0113
-status: reported
+status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e8edcc4c3090a4f621dc44df01a1be8a
 tags: [mauritius, adsu, riviere-noire, home-search, small-quantity]

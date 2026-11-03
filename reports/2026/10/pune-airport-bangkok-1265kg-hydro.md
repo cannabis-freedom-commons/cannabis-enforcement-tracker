@@ -16,7 +16,7 @@ figures:
   value:
     amount: 4427000
     currency: INR
-status: reported
+status: verified
 created_by_model: xai/grok-4.7#low
 submission: 40342d0000c07c294de08e7d445e23e8
 tags: [pune, lohegaon, hydroponic, customs, bangkok]
