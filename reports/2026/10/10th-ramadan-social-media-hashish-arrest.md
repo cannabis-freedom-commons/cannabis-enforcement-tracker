@@ -79,6 +79,11 @@ sources:
     publisher: بالبلدي | BELBALADY
     date: 2026-10-31
     language: ar
+  - title: سقوط عاطل يدير صفحة لبيع الحشيش إلكترونيًا في الشرقية - بوابة الأهرام
+    url: https://gate.ahram.org.eg/News/5975634.aspx
+    publisher: بوابة الأهرام
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The article gives no separate date for the arrest; it reports the Interior Ministry's statement on 31 October 2026, the day of publication.
   - No weight or value was given for the hashish seized.
@@ -93,6 +98,7 @@ open_questions:
   - The Belbalady page states it works automatically without human intervention and names Al-Ousboa as its source, so it is a reprint of an already-cited account, not an independent account.
   - No weight or value for the hashish was given, so no cannabis quantity can be recorded.
   - The page's image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
+  - The Al-Ahram page image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://www.egypttelegraph.com/article/291883/%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84-%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%A3%D9%86%D8%B4%D8%A3-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC
@@ -102,16 +108,16 @@ media:
 ---
 
 Egypt's Interior Ministry said its security services arrested a man who ran a
-social-media page promoting drugs for sale. [@1,4,5,7,12] The ministry said in a
+social-media page promoting drugs for sale. [@1,4,5,7,12,13] The ministry said in a
 statement on 31 October 2026 that the man was unemployed, had a criminal record
 and lived in the Third 10th of Ramadan police district of Sharqia Governorate.
-[@1,4,6,7,9,12] A quantity of hashish, a private car and a mobile phone were found in his
+[@1,4,6,7,9,12,13] A quantity of hashish, a private car and a mobile phone were found in his
 possession, and the ministry said the phone held evidence of his criminal
-activity. [@1,4,5,7,8,9,10,12]
+activity. [@1,4,5,7,8,9,10,12,13]
 
 The ministry said the man confessed to creating and running the page to promote
 drug sales and to holding the seized drugs for trafficking, and that the
-security services had taken the necessary legal measures. [@1,4,5,7,9,10,12] The security
+security services had taken the necessary legal measures. [@1,4,5,7,9,10,12,13] The security
 services detected a man running a social-media page that was used to advertise
 drugs for money. [@2,7,8,9] The man was seized with the hashish, the car and the phone
 after investigations identified him as the page's administrator. [@3,11]
