@@ -94,6 +94,10 @@ sources:
     url: https://thewhistler.ng/two-nigerians-swallowed-200-cocaine-wraps-in-failed-smuggling-bid/
     publisher: The Whistler Newspaper
     date: 2026-11-02
+  - title: NDLEA intercepts two Europe-based Nigerians with cocaine-filled stomachs
+    url: https://thesun.ng/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-filled-stomachs/
+    publisher: The Sun Nigeria
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -106,11 +110,12 @@ open_questions:
   - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same article are separate non-cannabis events excluded from this cannabis account.
   - No verified photo of the Igboora truck seizure was identified; the page images carry empty captions and cannot be confirmed to show this event, so no media entry is added.
   - The Volvo truck detail and Thursday weekday in the existing report rest on earlier sources; the submitted account confirms truck, place, names, ages, date and weight but does not state the Volvo model.
+  - The page's single image carries only the file-name caption ndlea001_1793531545 with no credit and cannot be confirmed to show the Igboora truck seizure, so no media entry is added.
 ---
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
