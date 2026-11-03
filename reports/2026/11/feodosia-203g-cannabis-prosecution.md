@@ -36,31 +36,36 @@ sources:
     publisher: Obyektiv
     date: 2026-11-02
     language: ru
+  - title: В Феодосии изъяли более 200 граммов наркотиков
+    url: https://kafanews.com/novosti/232375/v-feodosii-izyali-bolee-200grammov-narkotikov_2026-11-03
+    publisher: Kafa
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The articles give only their publication date of 2 November 2026 and no separate date for the seizure or investigative steps, so that date is used as the incident date.
   - The exact address of the non-residential premises within Feodosia was not reported.
   - No court outcome beyond referral of the case materials for further consideration has been reported.
   - The Obyektiv page carries a photo credited to the Crimea Interior Ministry, but no direct image address was recovered, so it is not listed as media.
+  - The KafaNews page is dated 3 November 2026 while the existing report and its two sources are dated 2 November 2026, with no separate date given for the seizure or investigative steps.
 ---
 
 In Feodosia, investigators completed a criminal case against a 49-year-old local
 resident accused of unlawfully acquiring and storing drugs on a large scale.
-[@1] The republic Interior Ministry account says the man was charged with
+[@1,3] The republic Interior Ministry account says the man was charged with
 unlawful storage of narcotics on a large scale. [@2] The case was handled under
 Part 2 of Article 228 of the Russian Criminal Code, punishable by up to ten
-years' imprisonment. [@1] The accused was placed under a signed pledge not to
+years' imprisonment. [@1,3] The accused was placed under a signed pledge not to
 leave and to behave properly, and the case materials were sent on for further
-consideration. [@1]
+consideration. [@1,3]
 
 Acting on received operational information, criminal-investigation officers
 examined premises used by the man and found two cardboard boxes with plant
-material standing in plain view. [@1] The drugs were found in the
+material standing in plain view. [@1,3] The drugs were found in the
 non-residential premises he used, with 203.79 grams of cannabis lying in the two
-cardboard boxes. [@2] Expert examination established that the seized material
-was marijuana and that the quantity constituted a large amount. [@1]
+cardboard boxes. [@2,3] Expert examination established that the seized material
+was marijuana and that the quantity constituted a large amount. [@1,3]
 
 Investigators found that he had discovered a narcotic-containing plant bush on
-his own plot, then dried it and packed it for storage. [@1] He explained that he
+his own plot, then dried it and packed it for storage. [@1,3] He explained that he
 had grown and dried the plant for his own consumption and faced up to ten years
 in a penal colony. [@2]
-
