@@ -33,25 +33,32 @@ sources:
     publisher: GiornaleSM
     date: 2026-11-02
     language: it
+  - title: 'Mercato Saraceno, i Carabinieri gli trovano hashish e un revolver in cantina: arrestato 42enne'
+    url: https://www.corriereromagna.it/cesena/mercato-saraceno-i-carabinieri-gli-trovano-hashish-e-un-revolver-in-cantina-arrestato-42enne-IA2310219
+    publisher: Corriere Romagna
+    date: 2026-11-02
+    language: it
 open_questions:
   - The sources say the arrest happened in recent days without giving a separate incident date, so 2 November 2026 is the publication date used as the incident date.
   - The sources give only more than 70 grams of hashish, with no exact weighed total.
   - The man's name was not published.
   - Results of the RIS laboratory examination of the revolver were not yet reported.
+  - The submitted source says the arrest occurred in recent days without giving a separate incident date, so 2 November 2026 remains the publication date used as the incident date.
+  - The submitted page carries a lead photo captioned with the headline, but the caption and text do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Carabinieri from the Mercato Saraceno and Sarsina stations arrested a
 42-year-old Italian man at his home, where he was under house arrest for drug
-offences. [@1] He is accused of receiving stolen goods, possession of a
-clandestine weapon and possession of drugs for dealing. [@1] The deputy
+offences. [@1,3] He is accused of receiving stolen goods, possession of a
+clandestine weapon and possession of drugs for dealing. [@1,3] The deputy
 prosecutor in Forli ordered his immediate transfer to Forli prison, and the next
 day a Forli court judge validated the arrest and confirmed detention in prison.
-[@1]
+[@1,3]
 
 During a routine check inside the home, officers found more than 70 grams of
-hashish and a precision scale used for weighing doses. [@1] Extending the search
+hashish and a precision scale used for weighing doses. [@1,3] Extending the search
 to the whole house and its outbuildings, officers found a .38-calibre revolver
-with an erased serial number hidden under bricks in the cellar. [@1] Officers
+with an erased serial number hidden under bricks in the cellar. [@1,3] Officers
 classify the gun as a clandestine weapon because the serial number was removed
 to prevent tracing its origin. [@2] Officers seized both the drug and the
 weapon. [@1]
@@ -59,4 +66,3 @@ weapon. [@1]
 The weapon will be sent to the RIS laboratory in Parma for technical
 examinations to establish its origin and check whether it was used in other
 crimes. [@1]
-
