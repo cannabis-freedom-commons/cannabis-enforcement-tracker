@@ -129,6 +129,11 @@ sources:
     publisher: CTWANT
     date: 2026-11-03
     language: zh
+  - title: 香港籍網紅劉偉健涉販賣大麻菸彈服刑假釋 移民署強制遣送出境
+    url: https://life.tw/article/%E9%A6%99%E6%B8%AF%E7%B1%8D%E7%B6%B2%E7%B4%85%E5%8A%89%E5%81%89%E5%81%A5%E6%B6%89%E8%B2%A9%E8%B3%A3%E5%A4%A7%E9%BA%BB%E8%8F%B8%E5%BD%88%E6%9C%8D%E5%88%91%E5%81%87%E9%87%8B-%E7%A7%BB%E6%B0%91%E7%BD%B2%E5%BC%B7%E5%88%B6%E9%81%A3%E9%80%81%E5%87%BA%E5%A2%83-3203519
+    publisher: LIFE 生活網
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -157,16 +162,18 @@ open_questions:
   - The page's single image carries no caption or credit, so whether it shows this deportation could not be established and no media entry is added.
   - The article gives the deportation day only as 今（3）日; 3 November 2026 comes from its publication date.
   - No new photo entry is added because the page's single image is captioned as an immigration-agency handout of the same parole escort and appears to duplicate the Changhua task-force handout already listed in the existing report.
+  - The submitted page's task-force handout photo captioned as the parole escort appears to duplicate the Changhua task-force handout already listed in the existing report, so no new media entry is added.
+  - The deportation day is given only as (3)日; 3 November 2026 comes from the page's publication date.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
