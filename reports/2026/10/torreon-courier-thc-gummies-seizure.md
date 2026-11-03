@@ -28,6 +28,11 @@ sources:
     publisher: Super Channel 12
     date: 2026-10-31
     language: es
+  - title: Refuerzan cateos en empresas de paquetería; decomisan principalmente marihuana y cristal
+    url: https://www.zocalo.com.mx/refuerzan-cateos-en-empresas-de-paqueteria-decomisan-principalmente-marihuana-y-cristal/
+    publisher: Periódico Zócalo
+    date: 2026-10-30
+    language: es
 open_questions:
   - The article gives no separate date for the Torreón seizure; 31 October 2026 is its publication date.
   - No weight was published for the seven gummies with THC extract, so no cannabis kilogram figure can be recorded.
@@ -35,22 +40,23 @@ open_questions:
   - No arrests, charges or suspects were reported for the Torreón seizure.
   - Only the overall total of four recent courier seizures was given, without a breakdown of the other three cases.
   - Only one source for this event could be opened.
+  - The Zócalo account was published 30 October 2026, one day before the existing report's 31 October 2026 source, so the exact date of the latest Torreón seizure remains unsettled.
+  - The Zócalo account gives no total number of recent seizures and does not mention the approximately 33 grams of crystal or seven THC gummies named in the later account.
 ---
 
 Authorities in Saltillo, Coahuila, have reinforced search operations at courier
 and parcel firms in recent weeks to detect possible shipments of various drugs.
-[@1] The Fiscalía General de la República, Mexico's Federal Attorney General's
+[@1,2] The Fiscalía General de la República, Mexico's Federal Attorney General's
 Office, reported four drug seizures at such firms in recent weeks through
 operations coordinated among security bodies of the three levels of government.
 [@1] Officials said most of what was seized was marijuana or crystal, a
 methamphetamine derivative, in packages arriving from central states such as
-Mexico City and the State of Mexico. [@1] Seized drugs are placed at the
+Mexico City and the State of Mexico. [@1,2] Seized drugs are placed at the
 disposal of the Federal Public Ministry, which investigates their intended
-destination. [@1]
+destination. [@1,2]
 
 The latest seizure occurred in Torreón, where K-9 units secured about 33 grams
 of crystal and seven gummies containing THC extract at a courier company in the
 industrial zone. [@1] A K-9 dog detected the drug package during the inspection
 of the Torreón courier firm. [@1] The drugs from the Torreón seizure were placed
 at the disposal of the Strategic Operations Center. [@1]
-
