@@ -51,31 +51,37 @@ sources:
     publisher: Misiones Online
     date: 2026-10-30
     language: es
+  - title: Motorista foge e abandona carro na fronteira com o Brasil; cão da força de segurança argentina ajuda a localizar 332 kg de maconha
+    url: https://www.sociedademilitar.com.br/2026/11/cao-farejador-apreensao-332-kg-maconha-fronteira-brasil-argentina-thz.html
+    publisher: RSM - Revista Sociedade Militar
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No article gives a separate date for the operation; 29 October 2026 is the publication date of the earliest account.
   - No arrests were reported, and the driver who fled had not been identified when the reports were published.
   - The value is the authorities' own estimate, given in the Spanish reports as more than 1,297 million pesos.
   - The two photographs hosted on argentina.gob.ar were published without captions or a named photographer.
+  - The only image on the submitted page is described as an AI-generated illustrative image, so no event photo can be linked from this source.
+  - The article also describes a separate 3 August seizure of more than 236 kg in San Javier, which is a different event left out of this report.
 ---
 
 A driver abandoned his car with one door open and fled on a dirt road in San
 Javier, Misiones, when Argentine Naval Prefecture officers began a controlled
-pursuit. [@1] Investigators were still trying to identify and find him. [@2] In
+pursuit. [@1,4] Investigators were still trying to identify and find him. [@2] In
 the car and in the vegetation around it, officers found 17 packages holding 424
-bricks of marijuana weighing more than 332 kilograms. [@3] The authorities
-valued the load at more than 1.297 billion pesos. [@1]
+bricks of marijuana weighing more than 332 kilograms. [@3,4] The authorities
+valued the load at more than 1.297 billion pesos. [@1,4]
 
 Prefectura Naval Argentina, the country's coast guard, said the operation began
 with intelligence from its criminal investigation staff about a possible drug
 transfer in the area. [@2] A patrol watching the Uruguay River at kilometre
 993.6, by the Puerto Natural Once Vueltas, spotted a car on a dirt road and
-followed it. [@1] A sniffer dog named Andy and his handler found one more
+followed it. [@1,4] A sniffer dog named Andy and his handler found one more
 package hidden among the vegetation, and forensic staff from the Misiones police
-examined the load. [@1]
+examined the load. [@1,4]
 
 The case is with the federal prosecutor's office and federal court in Oberá.
 [@3] The site is close to Argentina's border with Brazil. [@2] The authorities
 had not said whether the load had recently entered from Brazil or was being
 moved elsewhere in the country. [@2] No arrests were reported in connection with
 the seizure. [@2]
-
