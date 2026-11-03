@@ -26,6 +26,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-03
     language: ar
+  - title: المشدد 10 سنوات وغرامة 100 ألف جنيه بتهمة حيازة حشيش وسلاح ناري بقنا
+    url: https://www.masrtimes.com/772402
+    publisher: مصر تايمز
+    date: 2026-11-02
+    language: ar
 open_questions:
   - No weight or volume was published for the hashish, so no cannabis weight is recorded.
   - No quantity was published for the methamphetamine, which is excluded from cannabis figures as a non-cannabis substance.
@@ -34,24 +39,26 @@ open_questions:
   - The page carries a lead image captioned with the headline, but the caption and credit do not establish that it shows this defendant, seizure or court, so no media entry is added.
   - The report does not give the defendant's name or age.
   - It is not stated what part of the sentence, if any, relates to the alleged attempted assault on the officer versus the drug-and-weapon possession.
+  - 2 November 2026 is the MasrTimes publication date; no separate sentencing date is given, while the existing report uses 3 November 2026 from Youm7.
+  - No weight was published for the hashish, so no cannabis weight can be recorded.
+  - The page carries an image captioned جنايات قنا, but the caption and credit do not establish that it shows this defendant, seizure or court, so no media entry is added.
 ---
 
 The Qena Criminal Court punished a trader with 10 years of rigorous imprisonment
-and a fine of 100,000 pounds. [@1] The conviction was for possessing hashish, a
-foreign-made automatic weapon and a bullet. [@1] The panel was headed by
+and a fine of 100,000 pounds. [@1,2] The conviction was for possessing hashish, a
+foreign-made automatic weapon and a bullet. [@1,2] The panel was headed by
 Counsellor Islam Mohamed Hamza, with Counsellors Tamer al-Amir al-Taher and
 Ahmed Abu al-Qassem al-Sharif as members. [@1] Prosecution representative
 Mostafa Abdel Samad attended, with secretaries Salah Farrag, Ahmed Abdel Sattar
 Abdel Hamid and Alaa Selouk. [@1]
 
 The events date to January 2026, when security forces arrested the accused. [@1]
-The accused worked as a trader in Dandara village in Qena Governorate. [@1] The
+The accused worked as a trader in Dandara village in Qena Governorate. [@1,2] The
 public prosecution charged him with possessing hashish and methamphetamine, plus
 a foreign-made automatic weapon and a bullet. [@1]
 
 He was also accused of attempting to assault a mabahith investigation officer
 during his arrest, mabahith being Egypt's criminal-investigation police. [@1]
 The case, registered as No. 747 Kolli Qena, was referred to the criminal court.
-[@1] The court then imposed the 10-year rigorous term and 100,000-pound fine for
+[@1,2] The court then imposed the 10-year rigorous term and 100,000-pound fine for
 drug-and-weapon possession. [@1]
-
