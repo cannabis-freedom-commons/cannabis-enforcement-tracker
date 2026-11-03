@@ -59,6 +59,11 @@ sources:
     publisher: 點新聞
     date: 2026-11-03
     language: zh
+  - title: 警搜新蒲崗工廈檢4.5公斤大麻約值95萬元 兩男子涉販毒被捕
+    url: https://www.bastillepost.com/hongkong/article/17109562-%E8%AD%A6%E6%90%9C%E6%96%B0%E8%92%B2%E5%B4%97%E5%B7%A5%E5%BB%88%E6%AA%A24-5%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB%E7%B4%84%E5%80%BC95%E8%90%AC%E5%85%83-%E5%85%A9%E7%94%B7%E5%AD%90%E6%B6%89%E8%B2%A9
+    publisher: 巴士的報
+    date: 2026-11-03
+    language: zh
 open_questions:
   - Only one source could be opened for this event, so no independent corroboration was available.
   - No charge beyond arrest and detention, and no court outcome, was reported.
@@ -68,18 +73,18 @@ open_questions:
 
 After an in-depth investigation, officers from Yau Tsim District carried out an
 anti-drug operation in Wong Tai Sin District on the night of 2 November 2026.
-[@1,2,3,4,5] During the operation inside an industrial building on Ng Fong Street in San
-Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3,4,5]
+[@1,2,3,4,5,6] During the operation inside an industrial building on Ng Fong Street in San
+Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3,4,5,6]
 Officers searched a unit in the same industrial building that was rented by one
-of the two men. [@1,2,4,5] The two local men, aged 22 and 24, were arrested on
+of the two men. [@1,2,4,5,6] The two local men, aged 22 and 24, were arrested on
 suspicion of trafficking in dangerous drugs and remained in detention pending
 investigation. [@1,2,3,4]
 
 The search recovered about 4,500 grams of suspected cannabis, together with a
-batch of suspected drug-packaging tools. [@1,2,3,4,5] The packaging tools included
-electronic scales and a sealing machine, according to the police account. [@1]
+batch of suspected drug-packaging tools. [@1,2,3,4,5,6] The packaging tools included
+electronic scales and a sealing machine, according to the police account. [@1,6]
 Police estimated the total market value of the seized drugs at about HK$950,000.
-[@1,2,3,4,5]
+[@1,2,3,4,5,6]
 
 Under Chapter 134 of Hong Kong's laws, the Dangerous Drugs Ordinance,
 trafficking means selling or supplying a dangerous drug to another person. [@1]
