@@ -49,6 +49,11 @@ sources:
     publisher: Aajkaal
     date: 2026-10-31
     language: bn
+  - title: হিন্দমোটর কারখানায় গাঁজা, গ্রেফতার চার
+    url: https://www.aaroananda.com/story/latest-news/breaking-news/massive-cannabis-seized-from-closed-hindmotor-factory-four-arrested/11026328
+    publisher: Aaro Ananda
+    date: 2026-10-29
+    language: bn
 open_questions:
   - The articles date the raid only as Thursday night; 29 October 2026 is the calendar date before the Friday 30 October publications.
   - TheWall says the four had already been sent to court on Friday, while Onkar Bangla, published the same day, said they would be produced and that police would seek custody. No later court outcome is reported.
@@ -56,11 +61,19 @@ open_questions:
   - TheWall's photo caption repeats the headline and does not say what the picture shows, so it was not included.
   - This account says the 30 kg was found in a total of 10 school bags and shoulder bags, while the report, following Onkar Bangla, says a school bag and ten shoulder bags.
   - This account, like Onkar Bangla, says the four were to be produced in court on Friday and that police would seek custody; it does not confirm TheWall's report that they had already been sent to court.
+  - This account says five bags full of ganja were recovered and that the exact quantity was still being examined, so it does not confirm the reported 30 kg figure or the eleven-bag packing detail.
+  - This account gives no names, origins or court outcome for the four arrested people and says where they came from and interrogation were still being examined.
+media:
+  - kind: photo
+    url: https://www.aaroananda.com/story/latest-news/breaking-news/massive-cannabis-seized-from-closed-hindmotor-factory-four-arrested/11026328
+    media_url: https://www.aaroananda.com/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=face,quality=70,format=auto/https://restapis.aaroananda.com/getImageStream/73849/1793294741983.jpg
+    publisher: Aaro Ananda
+    caption: 'Bags of seized ganja recovered from the factory. Photo: Aaro Ananda own image.'
 ---
 
 Police arrested four young men late on Thursday night inside an abandoned
 factory at Hindmotor, a neighbourhood of Uttarpara in Hooghly district, West
-Bengal. [@1] Officers said they found the men standing in near-total darkness
+Bengal. [@1,6] Officers said they found the men standing in near-total darkness
 with several bags and detained them at once. [@1] The four are Pintu Basak,
 Laltu Hazra, Rajkumar Mistri and Shubham Mukherjee, who police said live in
 Chandannagar and Bhadreswar. [@1,4,5]
@@ -83,3 +96,5 @@ They put the market value of the seized ganja at about 2.5 lakh rupees, roughly
 involved in the trade and whether the arrested men had earlier criminal records.
 [@1] Chandannagar police called the seizure a major success ahead of Kali Puja
 and Jagaddhatri Puja. [@1,4]
+
+Senior police officers were present at the scene. [@6]
