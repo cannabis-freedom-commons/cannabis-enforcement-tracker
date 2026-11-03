@@ -30,6 +30,11 @@ sources:
     publisher: GZH
     date: 2026-11-03
     language: pt
+  - title: Homem de 61 anos é preso com mais de uma tonelada de maconha em Pelotas
+    url: https://rd3.net.br/noticia/22834/homem-de-61-anos-e-preso-com-mais-uma-tonelada-maconha-em-pelotas/amp
+    publisher: Rádio Difusora
+    date: 2026-11-03
+    language: pt
 open_questions:
   - The arrest is dated to the night of Monday 2 November, while 3 November 2026 is the article publication date used for the source.
   - The 5.3 kilos of crack are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
@@ -42,16 +47,15 @@ open_questions:
 
 Military police officers arrested a 61-year-old man for drug trafficking on the
 night of Monday 2 November in the Jardim Europa area, in the Areal neighbourhood
-of Pelotas. [@1] The Brigada Militar reported the seizure figures for the
+of Pelotas. [@1,2] The Brigada Militar reported the seizure figures for the
 operation. [@1] The man, whose identity was not published, was taken with the
-seized material to the Civil Police. [@1] Areal is the bairro, the Portuguese
+seized material to the Civil Police. [@1,2] Areal is the bairro, the Portuguese
 word for neighbourhood, named as the location within Pelotas. [@1]
 
 According to the Brigada Militar, officers seized 1,006 kilos of marijuana,
-known in Brazil as maconha. [@1] In the same action officers also seized 5.3
+known in Brazil as maconha. [@1,2] In the same action officers also seized 5.3
 kilos of crack, which is mentioned here only to explain the mixed seizure and is
 not counted as cannabis. [@1] Officers also seized more than 107,000 reais in
 cash, three precision scales, a mobile phone and a pickup truck in the same
-action. [@1] Police described the overall haul as more than one tonne of drugs,
+action. [@1,2] Police described the overall haul as more than one tonne of drugs,
 plus money and other materials. [@1]
-
