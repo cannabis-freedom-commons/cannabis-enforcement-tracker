@@ -21,6 +21,7 @@ status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [warehouse, heroin, joint-operation, hawks, trafficking]
 open_questions:
+  - The BBC's London-side account reports more than 6,500kg of herbal cannabis and resin for the joint operation while the Hawks reported 8,000kg of cannabis in Durban; the report uses the Hawks' figure.
   - A later US diplomatic cable dates the Durban seizure to 14 September but gives six tonnes of hashish and 116 kilograms of cocaine instead of 8,000kg of cannabis and 115kg of heroin.
   - The government account says two South Africans and two British citizens were arrested, while the BBC names three Britons and two South Africans charged.
   - The live BBC page now redirects; its 16 September 2009 text was read through a NewsSniffer revision capture.
@@ -37,6 +38,10 @@ sources:
     publisher: US Embassy Pretoria cable 09PRETORIA2277
     url: https://wikileaks.jcvignoli.com/cable_09PRETORIA2277
     date: 2009-11-09
+  - title: Drugs haul 'worth £25m' is seized
+    url: https://drugs-forum.com/ams/drugs-haul-worth-25m-is-seized.8759/
+    publisher: BBC News (via Drugs-Forum)
+    date: 2009-09-17
 ---
 
 South Africa's Hawks seized cannabis and heroin worth $70 million (about £42 million)
@@ -56,7 +61,10 @@ intercepted at London's Heathrow Airport, and the Serious Organised Crime Agency
 another 80kg at an address in Dartford, Kent, leading to one arrest in the UK. [@1]
 That trail led back to a Durban warehouse holding 8,000kg of cannabis and 115kg of
 heroin, which the Hawks said belonged to the same syndicate as the London
-consignments. [@1,2]
+consignments. [@1,2] The BBC's London-side reporting put the joint haul at about £25 million: 165kg
+of heroin found at Heathrow, 80kg at a Kent address, and 115kg of heroin with
+more than 6,500kg of herbal cannabis and cannabis resin uncovered in South
+Africa. [@4]
 
 South African Broadcasting Corporation reporting cited by the BBC said the run began
 in Afghanistan, with consignments shipped to Mozambique for repackaging, then moved
