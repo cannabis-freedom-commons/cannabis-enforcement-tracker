@@ -35,6 +35,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-03
     language: es
+  - title: La Guardia Civil sorprende a un traficante en Santanyí con un kilo de marihuana en el coche
+    url: https://www.diariodemallorca.es/sucesos/sucesos-mallorca/2026/11/03/guardia-civil-sorprende-traficante-santanyi-136045095.html
+    publisher: Diario de Mallorca
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article says the stop occurred at 19.00 on Monday and was published on 3 November 2026, so 2 November 2026 is used as the incident date.
   - No name, exact age or residence beyond young Spanish national was published.
@@ -46,15 +51,17 @@ The Guardia Civil detained a young Spanish national in Santanyí, on the island
 of Mallorca, for alleged drug trafficking after intercepting him with a kilo of
 marijuana inside his car. [@1,2] The driver was detained for drug trafficking and
 placed at the disposal of the competent judicial authority following the
-seizure. [@1,2]
+seizure. [@1,2,3]
 
 According to the Guardia Civil statement issued as the Instituto Armado, the
 events occurred at 19.00 on Monday when officers were conducting a control as
-part of their citizen-security functions. [@1,2] When officers signalled a vehicle
+part of their citizen-security functions. [@1,2,3] When officers signalled a vehicle
 to stop during that control, they noticed a strong smell of marijuana coming
-from inside the car. [@1,2] Officers then inspected the interior of the car and
-found a large-sized bag in the rear that contained a kilo of cannabis. [@1,2]
+from inside the car. [@1,2,3] Officers then inspected the interior of the car and
+found a large-sized bag in the rear that contained a kilo of cannabis. [@1,2,3]
 
 Following the discovery in the rear of the car, officers seized the substance
 containing the kilo of cannabis. [@1] The stop and arrest took place in
 Santanyí, a town on the island of Mallorca. [@1]
+
+The driver was 22 years old. [@3] The control was carried out by officers of the Guardia Civil Puesto Principal in Santanyí. [@3]
