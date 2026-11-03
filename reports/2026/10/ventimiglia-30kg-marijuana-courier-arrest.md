@@ -61,6 +61,11 @@ sources:
     publisher: Riviera24
     date: 2026-11-03
     language: it
+  - title: 'Traffico internazionale di droga, sequestrati 30 kg di marijuana a Ventimiglia: arrestato un uomo'
+    url: https://www.mondoreale.it/2026/11/traffico-internazionale-di-droga-sequestrati-30-kg-di-marijuana-a-ventimiglia-arrestato-un-uomo/
+    publisher: Mondoreale
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
@@ -73,15 +78,15 @@ open_questions:
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
 stopped a car driven by an Italian man at the motorway border crossing entering
-Italy. [@1,3,4,6,7] The officers arrested the Italian driver for international
-trafficking in narcotic substances. [@2,3,6,7] The Imperia prosecutor's office assumed
+Italy. [@1,3,4,6,7,8] The officers arrested the Italian driver for international
+trafficking in narcotic substances. [@2,3,6,7,8] The Imperia prosecutor's office assumed
 direction of the investigation. [@1,3,6] The man remains presumed innocent until any
 final sentence. [@2]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
-bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7] Officers also seized 2,700 euros
+bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1,3,5,6,7]
+and the car used for transport. [@1,3,5,6,7,8]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
 and gave contradictory, evasive accounts of a trip to Spain. [@1,3,7] The Guardia di
