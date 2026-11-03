@@ -84,6 +84,11 @@ sources:
     publisher: Öz Diyarbakır Gazetesi
     date: 2026-11-02
     language: tr
+  - title: Diyarbakır’da jandarmadan üç ayrı operasyon
+    url: https://www.diyarbakirolay.com.tr/haber/diyarbakir-da-jandarmadan-uc-ayri-operasyon-196590.html
+    publisher: Diyarbakır Olay Gazetesi
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the operations themselves.
   - The reports say only that legal action was taken against 28 suspects and do not say whether they were detained, released, charged or remanded.
@@ -100,17 +105,19 @@ open_questions:
   - The page's lead image caption repeats only the headline and does not establish that it shows this seizure, so no media entry is added.
   - The page headline says 28 suspects were detained while its body says only that legal action was taken against 28 suspects, so detention is not established.
   - The page lead photo caption repeats only the headline and does not establish that it shows this seizure, so no media entry is added.
+  - The submitted page gives only its publication date of 2 November 2026 and no separate date for the operations themselves.
+  - The page's totals of 42 incidents, 57 suspects with legal action and 87 wanted persons caught combine three separate sweeps; only the 16-incident drug component belongs to this cannabis report.
 ---
 
 Those operations produced 16 recorded incidents and legal action against 28
-suspects. [@2,6,8,10,11,12] The reports give only that legal action and do not name any
+suspects. [@2,6,8,10,11,12,13] The reports give only that legal action and do not name any
 suspect or report any detention, remand or court outcome. [@1,7]
 
-Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7,8,10,11,12] They
+Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7,8,10,11,12,13] They
 also seized 525 cannabis and skunk roots, with kenevir the Turkish word for the
-cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7,9,10,11,12] The same
+cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7,9,10,11,12,13] The same
 operations also seized 523 pills, which are left out of the cannabis figures
-because the reports do not identify them as cannabis. [@3,4,5,7,10,11,12]
+because the reports do not identify them as cannabis. [@3,4,5,7,10,11,12,13]
 
 A governorship account says the provincial gendarmerie's anti-narcotics branch
 coordinated the work across the province. [@3,4,5] The reports are dated 2 November
