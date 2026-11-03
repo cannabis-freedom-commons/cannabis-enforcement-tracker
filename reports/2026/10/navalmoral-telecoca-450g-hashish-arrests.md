@@ -25,6 +25,11 @@ media:
     media_url: https://puntodeencuentronavalmoral.es/wp-content/uploads/2026/11/operacion-telecoca26-droga-dinero-navalmoral.jpg
     publisher: Punto de Encuentro Navalmoral
     caption: 'Cash and drugs seized by the Guardia Civil in Operation TELECOCA26 in Navalmoral. Photo: OPC Cáceres'
+  - kind: photo
+    url: https://www.radiointerior.es/texto-diario/mostrar/6075804/cuatro-detenidos-trafico-drogas-navalmoral-cocaina-hachis-13000-euros-incautados
+    media_url: https://www.radiointerior.es/images/showid2/8208437?w=900&h=595
+    publisher: Radio Interior
+    caption: 'Money and drugs seized in the Navalmoral operation. Photo: Radio Interior'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ff89585667668b1d0c388e49b56125fd
@@ -55,6 +60,11 @@ sources:
     publisher: Punto de Encuentro Navalmoral
     date: 2026-11-03
     language: es
+  - title: 'Cuatro detenidos por tráfico de drogas en Navalmoral: cocaína, hachís y 13.000 euros incautados'
+    url: https://www.radiointerior.es/texto-diario/mostrar/6075804/cuatro-detenidos-trafico-drogas-navalmoral-cocaina-hachis-13000-euros-incautados
+    publisher: Radio Interior
+    date: 2026-11-03
+    language: es
 open_questions:
   - The 450-gram hashish figure is reported without a separate laboratory weight.
   - Cocaine was reported only as 60 doses with no weight, so it is excluded from cannabis figures.
@@ -65,20 +75,20 @@ open_questions:
 
 Guardia Civil officers arrested four people, two men and two women, in
 Navalmoral de la Mata as alleged members of a drug-trafficking criminal group.
-[@1,4,5] The detainees were placed at the disposal of Court of Instance No. 1 in
-Navalmoral de la Mata, which will continue the judicial proceedings. [@2,5]
+[@1,4,5,6] The detainees were placed at the disposal of Court of Instance No. 1 in
+Navalmoral de la Mata, which will continue the judicial proceedings. [@2,5,6]
 
 Officers called the case Operation Telecoca 2026. [@3,5] Three entries and
 searches of linked properties recovered 450 grams of hashish, the cannabis
-component recorded here. [@1,4,5] The same searches also yielded 60 doses of
+component recorded here. [@1,4,5,6] The same searches also yielded 60 doses of
 cocaine, about 13,000 euros in cash and jewellery, mentioned only to explain the
-mixed case and excluded from cannabis figures. [@1,5]
+mixed case and excluded from cannabis figures. [@1,5,6]
 
 The investigation lasted about a year after agents learned of a possible drug
-sales point in the town, mainly for cocaine. [@1] Investigators said the four
+sales point in the town, mainly for cocaine. [@1,6] Investigators said the four
 had distinct, coordinated roles to facilitate distribution and sale of the
 drugs. [@2] The drugs were allegedly sold from one investigated home used as a
 distribution point and through direct handovers to users. [@1] One suspect
 allegedly used an electric scooter to move around the town to make the
 deliveries. [@2] The exploitation phase took place on Friday 30 October with
-officers from different Guardia Civil units and specialities. [@1,4,5]
+officers from different Guardia Civil units and specialities. [@1,4,5,6]
