@@ -423,6 +423,11 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
   // The map's bar: the Custom period's popover, the legend's types, and on a phone the Filters button.
   function initMapFilters() {
+    // the map's Layers panel sits just above the timeline box (global.css), whose height it follows
+    const timeline = document.querySelector<HTMLElement>(".map-timeline"), home = timeline?.closest<HTMLElement>(".home-map");
+    if (timeline && home && "ResizeObserver" in window) new ResizeObserver(([entry]) => {
+      home.style.setProperty("--timeline-h", `${Math.round(entry.borderBoxSize?.[0]?.blockSize ?? timeline.offsetHeight)}px`);
+    }).observe(timeline);
     const popover = $("custom-period"), toggle = $("custom-toggle");
     const open = (show: boolean) => {
       popover.hidden = !show;
