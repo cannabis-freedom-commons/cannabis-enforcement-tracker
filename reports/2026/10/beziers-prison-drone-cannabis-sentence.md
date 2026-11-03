@@ -34,27 +34,34 @@ sources:
     publisher: InfOccitanie
     date: 2026-10-30
     language: fr
+  - title: 'Un couple s''apprêtait à livrer de la drogue avec un drone à la prison de Béziers : prison ferme et avec sursis'
+    url: https://actu.fr/occitanie/beziers_34032/un-couple-s-appretait-a-livrer-de-la-drogue-avec-un-drone-a-la-prison-de-beziers-prison-ferme-et-avec-sursis_65006719.html
+    publisher: actu.fr
+    date: 2026-11-03
+    language: fr
 open_questions:
   - 'The reports disagree on who was driving: France 3 says the 21-year-old woman was at the wheel, while InfOccitanie calls the 18-year-old man the driver.'
   - No photograph of the drone, the package or the arrests was published; the images with the reports are labelled illustrations of the prison or of police.
   - No estimate of the value of the drugs was published.
   - The reports do not say which prisoner the package was intended for.
   - 'Left out, as its quotation was not found in InfOccitanie: The 18-year-old was tried in immediate appearance, a fast-track procedure, on 29 October and given 15 months in prison with immediate incarceration.'
+  - The submitted article dates the court decisions to Friday 30 October 2026, while the existing report uses 29 October 2026.
+  - The submitted article describes the arrest as the night of 27 to 28 October 2026, while the existing report phrases it as the night of 28 October 2026.
+  - The page's only image is captioned as an Adobe Stock illustration and does not show this event, so no media entry is added.
 ---
 
 An 18-year-old man and a 21-year-old woman were arrested near the Béziers prison
-on the night of 28 October 2026. [@1] A police patrol stopped their car on a
+on the night of 28 October 2026. [@1,4] A police patrol stopped their car on a
 track beside the prison, where officers found a drone and a package prepared for
 an illegal delivery into the detention centre. [@1] Police seized 97.25 g of
-cannabis and 29.10 g of cocaine from the package. [@1] Investigators said the
+cannabis and 29.10 g of cocaine from the package. [@1,4] Investigators said the
 21-year-old's role was to get the 18-year-old to the spot, where he was to take
-the drone and fly the package into the prison. [@3]
+the drone and fly the package into the prison. [@3,4]
 
 He had already been convicted over similar facts in Aix-en-Provence on 8 April
-2026 and given 15 months, six of them suspended with probation. [@2] The
+2026 and given 15 months, six of them suspended with probation. [@2,4] The
 21-year-old also appeared on 29 October under the guilty-plea procedure for
 complicity in an attempted illicit handover to a prisoner. [@1] She was
 sentenced to six months suspended and banned from the area around the Béziers
-prison for three years. [@1] She had no criminal record and admitted the facts.
+prison for three years. [@1,4] She had no criminal record and admitted the facts.
 [@2]
-
