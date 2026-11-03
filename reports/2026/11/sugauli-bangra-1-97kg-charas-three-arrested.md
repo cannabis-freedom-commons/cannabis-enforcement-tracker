@@ -24,6 +24,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/03/template/image/motihari-news-1793704150906_v.webp
     publisher: Dainik Jagran
     caption: The accused smugglers in police custody in East Champaran
+  - kind: photo
+    url: https://lalluram.com/three-smugglers-arrested-in-sugauli-with-charas-worth-40-lakh/
+    media_url: https://lalluram.com/wp-content/uploads/2026/11/Charas-worth-40-lakhs-seized.jpg
+    publisher: Lalluram
+    caption: Photo published with the report on the Sugauli charas seizure and arrests.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5210cadb02a25782ac18fd8ac6ed1cbe
@@ -44,6 +49,11 @@ sources:
     publisher: Deshvani
     date: 2026-11-03
     language: hi
+  - title: मोतिहारी में STF और पुलिस की बड़ी कार्रवाई, 40 लाख की चरस के साथ तीन तस्कर गिरफ्तार
+    url: https://lalluram.com/three-smugglers-arrested-in-sugauli-with-charas-worth-40-lakh/
+    publisher: Lalluram
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Neither article gives a separate calendar date for the checks and arrests; 3 November 2026 is the publication date used as the incident date.
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
@@ -56,7 +66,7 @@ open_questions:
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged
-charas traffickers in East Champaran. [@2,3] The first man held was identified as
+charas traffickers in East Champaran. [@2,3,4] The first man held was identified as
 35-year-old Guddu Sah of Nayka Tola in the Rajepur station area, whose
 questioning named Ramabalak Baitha, linked to Lakshmipur in Sikta and Gandak
 Chowk in Birgunj, Nepal, and Dhoda Rai of Mahuai in Ghorasahan. [@1] Police
@@ -64,9 +74,9 @@ arrested Baitha and Rai in follow-up raids. [@1] Police sent all three to jail
 after completing legal formalities. [@1]
 
 Officers found 1.970 kg of a charas-like substance in four packets inside a bag
-carried by the first suspect. [@1] Police put the international-market value of
-the seized charas, a cannabis resin, at about Rs 40 lakh. [@2] Police also
-seized two mobile phones and three Nepali SIM cards from the three accused. [@1]
+carried by the first suspect. [@1,4] Police put the international-market value of
+the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4] Police also
+seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4]
 
 The STF narcotics cell in Patna had tipped police that a man carrying narcotics
 had left Raxaul and would travel via the Sugauli overbridge toward the station.
