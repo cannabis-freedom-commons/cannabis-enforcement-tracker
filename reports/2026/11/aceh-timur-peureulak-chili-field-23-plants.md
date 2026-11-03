@@ -28,12 +28,24 @@ sources:
     publisher: PUJATV ACEH
     date: 2026-11-03
     language: id
+  - title: Petani Tanam Ganja di Tengah Kebun Cabai Aceh Timur, Polisi Bongkar Penyamaran
+    url: https://sumut.suara.com/read/2026/11/03/113749/petani-tanam-ganja-di-tengah-kebun-cabai-aceh-timur-polisi-bongkar-penyamaran
+    publisher: Suarasumut.id
+    date: 2026-11-03
+    language: id
+  - title: Polres Aceh Timur tangkap petani tanam ganja di kebun cabai
+    url: https://aceh.antaranews.com/berita/413799/polres-aceh-timur-tangkap-petani-tanam-ganja-di-kebun-cabai
+    publisher: ANTARA News Aceh
+    date: 2026-11-02
+    language: id
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate day for the arrest; 3 November is used as the incident date.
   - The tip was received on Thursday (29/10), so the search and arrest occurred between 29 October and 3 November, but the exact day was not published.
   - No cannabis weight, field area, value, charge or court outcome was published.
   - Only one opened source was available for this event; no second account was opened.
   - The same cannabis image appears on the page in two sizes with different caption credits, so one photo entry is listed.
+  - The submitted page is dated 3 November 2026 while citing ANTARA on Tuesday 3/11, but the opened ANTARA page is dated Monday 2 November 2026; the exact arrest day between the 29/10 tip and 2-3 November remains unpublished.
+  - The submitted page's images are a 2022 stock cannabis illustration and an unrelated police photo, so it provides no event photo of this seizure.
 ---
 
 East Aceh drug investigators arrested a 45-year-old farmer identified as AA for
@@ -46,11 +58,11 @@ then taken to the East Aceh police headquarters for further legal proceedings.
 [@1]
 
 East Aceh police chief AKBP Aris Cai Dwi Susanto said officers seized 23
-cannabis plants estimated to be about two months old. [@1] Police said the
+cannabis plants estimated to be about two months old. [@1,2,3] Police said the
 plants were allegedly deliberately concealed among the chili crop to avoid easy
 detection. [@1] Police said the case began with a public tip received on
 Thursday (29/10), after which narcotics investigators searched the plantation
-area and found the cannabis. [@1]
+area and found the cannabis. [@1,2,3]
 
 The police chief said his force is committed to eradicating narcotics abuse and
 trafficking, including illicit cultivation that could supply local circulation.
@@ -58,4 +70,3 @@ trafficking, including illicit cultivation that could supply local circulation.
 suspected narcotics offences under applicable law. [@1] He also urged residents
 not to take part in planting, storing or distributing narcotics and to report
 suspicious narcotics-related activity to the authorities. [@1]
-
