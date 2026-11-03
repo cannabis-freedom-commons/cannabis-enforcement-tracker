@@ -50,6 +50,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-03
     language: hi
+  - title: सुनसरी के धरान में 210 किलो गांजा जब्त , एक भारतीय सहित पांच गिरफ्तार
+    url: https://www.livehindustan.com/international/story-nepal-police-arrest-five-in-210-kg-cannabis-smuggling-case-in-dharan-201793648958117.html
+    publisher: Hindustan
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -66,12 +71,15 @@ open_questions:
   - This source writes 8 packets while the existing report writes 8 sacks, a packaging translation difference for the same 210 kg figure.
   - Name spellings differ by transliteration, including Ramsagar versus Ram Sagar, Rajendraprasad versus Rajendra Prasad, Rajkumar Shah versus Rajkumar Sah, and Bishunkhe versus Bishungkhe.
   - The submitted page was published on 3 November 2026 but describes a Monday early-morning operation, consistent with the existing report's 2 November 2026 incident date.
+  - This account writes Rajkumar Sah while the existing report writes Rajkumar Shah, with other minor transliteration and spacing differences in Nepali names, for the same five arrested people.
+  - The page is dated 3 November 2026 but describes a Monday early-morning operation, consistent with the existing report's 2 November 2026 incident date.
+  - The page's captured image is only the outlet logo, so whether any photo shows this seizure could not be established and no media entry is added.
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3,4,5] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4,5,6] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
@@ -85,5 +93,5 @@ Cha 5038 and Ko.1 Cha 8182 at approximately 3:00 AM that day, a police team
 reached the location. [@1,4,5]
 
 Police found approximately 210 kg of marijuana kept in 8 sacks being loaded into
-the two vehicles. [@1,2,3,4,5] Police said further investigation into the incident was
+the two vehicles. [@1,2,3,4,5,6] Police said further investigation into the incident was
 under way. [@1,4]
