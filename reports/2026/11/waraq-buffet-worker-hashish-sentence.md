@@ -39,28 +39,40 @@ sources:
     publisher: Masrawy
     date: 2026-11-03
     language: ar
+  - title: الحبس 6 أشهر مع الشغل والغرامة لمتهم بحيازة المخدرات في الوراق
+    url: https://www.shorouknews.com/news/view.aspx?cdate=03112026&id=94a498ed-e4dc-4847-8283-68bd30de48f9
+    publisher: بوابة الشروق
+    date: 2026-11-03
+    language: ar
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the ruling; 3 November 2026 is used as the incident date.
   - Masrawy's opened text describes the allegation as trafficking inside a cafe in the Warraq district, while Al Nahar reports bringing hashish to a client or detainee inside Warraq station detention; the report uses the shared Warraq possession allegation and attributes both wordings.
   - Masrawy gives the weight as 7.090 grams while Al Nahar prints 7090 grams without the decimal; the report uses 7.090 grams and treats the latter as a missing-decimal typo.
   - The submitted page's only listed image is captioned as the presiding judge, a portrait of an official that does not show this event, so no media entry is listed.
   - The reports do not state when the defendant was arrested or how the knife charge was resolved beyond the single sentence and fine.
+  - Shorouk gives no weight, piece count or laboratory result, so no cannabis quantity can be added from this source.
+  - The article gives only its publication date of 3 November 2026 and no separate date for the ruling.
+  - Shorouk describes the defendant only as a worker and does not mention the buffet work at Warraq station, student status, 2432 of 2026 North Giza registration or 7.090-gram laboratory weight in the existing report.
+  - The cited prior wanted case 3173 of 2029 bears a future year and appears to be a typo, so it was not used as a fact.
+  - The page image has empty alt text and caption and does not establish that it shows this event, so no media entry is included.
 ---
 
 Giza Criminal Court's Circuit 31 sentenced Karim K., a buffet worker at the
 Warraq police station described as a student, to six months' imprisonment with
-labor and a 10,000-pound fine for hashish possession. [@1,3] The same ruling is
+labor and a 10,000-pound fine for hashish possession. [@1,3,4] The same ruling is
 reported as punishment for bringing hashish to a detainee inside the Warraq
 station. [@2] The court said it used leniency because he is a student who works
 to pay for his studies. [@1] The six-month term came after a retrial, replacing
-a three-year prison term previously imposed in his absence. [@2]
+a three-year prison term previously imposed in his absence. [@2,4]
 
 The prosecution charged him in case 5898 of 2026 for Warraq felonies, registered
 as 2432 of 2026 for North Giza, with possessing hashish and a knife without
-legal justification. [@1,3] Criminal investigations said he brought the hashish to
+legal justification. [@1,3,4] Criminal investigations said he brought the hashish to
 one of his clients inside the Warraq station detention area. [@2] The chemical
 laboratory reported that the seized items were nine brown pieces of hashish,
 listed in the first schedule of narcotics, weighing 7.090 grams. [@1,3]
 
 The panel was headed by Judge Hani Louis Abdel Malek with three other judges,
-with Ashraf Salah and Raafat Abdel Tawab as secretaries. [@1]
+with Ashraf Salah and Raafat Abdel Tawab as secretaries. [@1,4]
+
+The alleged hashish possession occurred on 27 May 2026. [@4]
