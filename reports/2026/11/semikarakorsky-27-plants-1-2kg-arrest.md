@@ -53,6 +53,11 @@ sources:
     publisher: Перекресток
     date: 2026-11-02
     language: ru
+  - title: Полиция задержала «наркоагронома» с необычным урожаем
+    url: https://news.ru/amp/regions/policiya-zaderzhala-narkoagronoma-s-neobychnym-urozhaem
+    publisher: NEWS.ru
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the search and detention.
   - The suspect is identified only as a 51-year-old man; no name or street address was published.
@@ -63,11 +68,12 @@ open_questions:
   - The submitted page describes the possible further offence as part 4 of article 228 of the Criminal Code, matching one source already cited in the existing report but differing from two existing sources that cite part 4 of article 228.1.
   - The VK post gives only a relative time and no absolute publication date.
   - The VK page image has no caption or credit, so whether it shows this seizure is not established and it is not listed as media.
+  - The submitted page carries a photo with no caption or credit, so whether it shows this seizure is not established and no media entry is added.
 ---
 
 Police in Semikarakorsky district, Rostov Oblast, detained a 51-year-old man on
 suspicion of illegally cultivating cannabis and storing drugs at his homestead.
-[@2,4,5,6] A court remanded him in custody, and the investigation is continuing. [@2,6]
+[@2,4,5,6,7] A court remanded him in custody, and the investigation is continuing. [@2,6,7]
 
 During a search of his property, officers found greenhouses in the yard where he
 had planted cannabis and seized 27 cannabis bushes. [@1,4,5,6] Officers also found a
