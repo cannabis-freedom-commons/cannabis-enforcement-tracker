@@ -20,6 +20,11 @@ sources:
     publisher: Radio Siena Tv
     date: 2026-11-02
     language: it
+  - title: 'Halloween, controlli a tappeto sulle strade senesi: otto segnalati per droga e dodici multe'
+    url: https://sienanews.it/toscana/siena/halloween-controlli-a-tappeto-sulle-strade-senesi-otto-segnalati-per-droga-e-dodici-multe/
+    publisher: Siena News
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 21-gram total covers marijuana and hashish combined, with no separate weight given for each cannabis product.
   - The operation spanned the night of 31 October to 1 November 2026; 1 November is used as the incident date.
@@ -31,7 +36,7 @@ open_questions:
 Between 31 October and 1 November, Carabinieri of the Siena Provincial Command
 carried out an extraordinary vigilance operation that led to eight reports to
 the Prefecture for drug possession. [@1] The eight people were reported as drug
-users after being found with marijuana and hashish totalling 21 grams. [@1] The
+users after being found with marijuana and hashish totalling 21 grams. [@1,2] The
 operation covered the main road junctions of Siena, Monteroni d'Arbia,
 Poggibonsi and Monteriggioni, with attention to dangerous driving linked to
 alcohol and drugs. [@1] More than 50 Carabinieri took part and carried out
@@ -46,4 +51,3 @@ The stated aim was stronger prevention and safety on evenings with heavy
 presence on roads and in gathering places. [@1] The extraordinary services were
 to continue over coming weekends ahead of increased travel and nightlife use
 toward the Christmas holidays. [@1]
-
