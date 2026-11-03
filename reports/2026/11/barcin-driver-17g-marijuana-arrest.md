@@ -32,6 +32,11 @@ sources:
     publisher: Ino.online
     date: 2026-11-03
     language: pl
+  - title: Kierowca miał przekrwione i załzawione oczy. Policjanci rozpoznali, że jest po narkotykach
+    url: https://www.kryminalki.pl/artykul/36606,kierowca-mial-przekrwione-i-zalzawione-oczy-policjanci-rozpoznali-ze-jest-po-narkotykach
+    publisher: kryminalki.pl
+    date: 2026-11-03
+    language: pl
 open_questions:
   - Only one source could be opened for this event; no police statement or second outlet account was found.
   - The article names no specific street in Barcin and gives the stop time only as a few minutes after 11 a.m.
@@ -40,20 +45,19 @@ open_questions:
 ---
 
 A 34-year-old Barcin resident is to answer before a court for driving under the
-influence of intoxicants and possessing them. [@1] Police stopped his Ford
+influence of intoxicants and possessing them. [@1,2] Police stopped his Ford
 passenger car on a street in Barcin on Monday, 2 November, a few minutes after
 11 a.m. [@1] Officers said the driver was restless and had bloodshot, watery
-eyes. [@1] A saliva test indicated psychoactive substances in his body, and
-officers seized his driving licence. [@1] The 34-year-old was detained and
-charged with driving under the influence and possession. [@1]
+eyes. [@1,2] A saliva test indicated psychoactive substances in his body, and
+officers seized his driving licence. [@1,2] The 34-year-old was detained and
+charged with driving under the influence and possession. [@1,2]
 
 Barcin detectives then checked his home and his summer allotment with a service
-dog from Bydgoszcz city police trained to detect drugs. [@1] In the allotment's
-altana, a garden gazebo, officers found a bag of dried plant material. [@1]
-Preliminary tests identified the material as marijuana. [@1] Police secured
-nearly 17 grams of the substance. [@1]
+dog from Bydgoszcz city police trained to detect drugs. [@1,2] In the allotment's
+altana, a garden gazebo, officers found a bag of dried plant material. [@1,2]
+Preliminary tests identified the material as marijuana. [@1,2] Police secured
+nearly 17 grams of the substance. [@1,2]
 
 The summer plot where the drugs were found belonged to the driver. [@1] Officers
 had become suspicious about his condition during the roadside check. [@1] He
 faces up to three years in prison, with a court to decide his fate. [@1]
-
