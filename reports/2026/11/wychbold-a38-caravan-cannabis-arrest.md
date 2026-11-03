@@ -31,6 +31,10 @@ sources:
     url: https://www.worcesternews.co.uk/news/26692611.wychbold-drug-driving-arrest-man-55-caravan-stop/
     publisher: Worcester News
     date: 2026-11-02
+  - title: Wychbold drug driving arrest of man, 55, over caravan stop
+    url: https://www.eveshamjournal.co.uk/news/26692611.wychbold-drug-driving-arrest-man-55-caravan-stop/
+    publisher: Evesham Journal
+    date: 2026-11-02
 open_questions:
   - No weight, packaging count or estimated value for the seized cannabis was published.
   - The account says the car was stopped and cannabis was found inside, without clarifying whether the cannabis was in the car or the towed caravan.
@@ -41,10 +45,10 @@ open_questions:
 On the morning of Sunday 1 November 2026, officers from the Droitwich Safer
 Neighbourhood team of West Mercia Police spotted a caravan being towed without a
 number plate or towing mirrors on the A38 towards Wychbold in Worcestershire.
-[@1] Officers stopped the car towing the caravan on the A38 after spotting the
-missing plate. [@1] A search of the stopped vehicle found cannabis inside. [@1]
+[@1,2] Officers stopped the car towing the caravan on the A38 after spotting the
+missing plate. [@1,2] A search of the stopped vehicle found cannabis inside. [@1,2]
 At the scene, police arrested a 55-year-old man on suspicion of drug driving.
-[@1]
+[@1,2]
 
 The case began as a traffic stop because the towed caravan had no number plate,
 with officers later saying the missing plate was not their only concern. [@1]
@@ -54,4 +58,3 @@ the A38 at Wychbold. [@1]
 West Mercia Police described drug driving as one of the Fatal Four offences.
 [@1] The force said driving while under the influence can have serious
 consequences for the person driving and for other innocent road users. [@1]
-
