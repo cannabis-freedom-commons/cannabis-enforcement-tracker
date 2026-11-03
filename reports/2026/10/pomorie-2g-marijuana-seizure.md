@@ -33,6 +33,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-02
     language: ru
+  - title: Водитель с 2,96 промилле разбился в бургасском квартале «Долно Езерово»
+    url: https://burgasmedia.com/amp/news/shofor-s-2-96-promila-katastrofira-v-burgaskiya-kvartal-dolno-ezerovo?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-02
+    language: ru
 open_questions:
   - Only one opened source could be found for this event.
   - The incident date of 30 October 2026 is the date of the 2-gram marijuana seizure; the source was published on 2 November 2026.
@@ -40,6 +45,9 @@ open_questions:
   - Methamphetamine amounts of 8 grams, an unstated amount and 4 grams were reported in the same checks and are excluded from the cannabis figure; no combined drug total is attributed to cannabis.
   - The only page image is a map credited to BurgasMedia and OpenStreetMap contributors, so no event photo is listed as media.
   - Detentions over cash thefts from coffee machines in Kableshkovo and the Slaveykov district reported in the same article are separate events left out here.
+  - The submitted page gives no separate date for the Pomorie house searches, saying only that the accidents happened in recent days; the 30 October date relies on the existing report.
+  - The page bundles drink-driving crashes, drug-driving detentions and other Pomorie methamphetamine finds that are separate events left out here.
+  - The page image caption is only © BurgasMedia.com and does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Police in Pomorie seized methamphetamine and marijuana from four men during
@@ -50,10 +58,10 @@ by police. [@1,4]
 
 On the same day, officers also found methamphetamine on a 21-year-old man, with
 no amount published for that find. [@1,4] On the next day, 30 October, police in
-Pomorie seized 4 grams of methamphetamine from a 41-year-old man. [@1,4] On that
+Pomorie seized 4 grams of methamphetamine from a 41-year-old man. [@1,4,5] On that
 same 30 October check in Pomorie, police seized 2 grams of marijuana from a
 44-year-old man, the only separately stated cannabis amount in these checks.
-[@1,2,3,4]
+[@1,2,3,4,5]
 
 The methamphetamine amounts were found during the same two-day Pomorie checks
 but are a different substance from marijuana and are excluded from the cannabis
