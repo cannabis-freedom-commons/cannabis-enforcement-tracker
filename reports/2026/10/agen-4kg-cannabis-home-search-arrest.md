@@ -24,6 +24,11 @@ sources:
     publisher: La Dépêche du Midi
     date: 2026-11-03
     language: fr
+  - title: 'Trafic de stupéfiants à Agen : quatre kilos de cannabis découverts chez un individu initialement interpellé pour conduite sans permis'
+    url: https://www.petitbleu.fr/2026/11/03/trafic-de-stupefiants-a-agen-quatre-kilos-de-cannabis-decouverts-chez-un-individu-initialement-interpelle-pour-conduite-sans-permis-13634328.php
+    publisher: petitbleu.fr
+    date: 2026-11-03
+    language: fr
 open_questions:
   - No breakdown of the four kilograms between herb and resin was published.
   - The very small quantity found on the man during the roadside stop was not quantified.
@@ -34,19 +39,18 @@ open_questions:
 ---
 
 A 26-year-old man has been held in police custody at the Agen police station
-since 31 October 2026 on suspicion of drug trafficking. [@1] Officers had first
-stopped him on that same day because he was driving without a licence. [@1]
+since 31 October 2026 on suspicion of drug trafficking. [@1,2] Officers had first
+stopped him on that same day because he was driving without a licence. [@1,2]
 During that initial roadside stop, officers found only a very small quantity of
-drugs on him. [@1] The case then changed scale when officers carried out a
+drugs on him. [@1,2] The case then changed scale when officers carried out a
 search of his home in Agen. [@1]
 
 That home search recovered four kilograms of drugs, far more than the minimal
 amount found during the roadside stop. [@1] The seized drugs were a mix of
-cannabis herb and cannabis resin. [@1]
+cannabis herb and cannabis resin. [@1,2]
 
 The man admitted the facts found by the investigators. [@1] He was due to be
-brought before the prosecutor on the morning of Wednesday 4 November. [@1]
+brought before the prosecutor on the morning of Wednesday 4 November. [@1,2]
 Prosecutors could then send him for immediate trial before the Agen judicial
-court on that same day. [@1] The arrest, custody and home search all took place
+court on that same day. [@1,2] The arrest, custody and home search all took place
 in Agen, in the Lot-et-Garonne department. [@1]
-
