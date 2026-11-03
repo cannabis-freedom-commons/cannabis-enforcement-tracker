@@ -12,6 +12,7 @@ import re
 import shlex
 import shutil
 import signal
+import tempfile
 import subprocess
 import sys
 import threading
@@ -193,6 +194,66 @@ def quiet_build(cmd, log_path, output_log=None):
                 say("    " + line, output_log)
         fcntl.flock(lock_file, fcntl.LOCK_UN)
         return code
+
+
+def isolated_build(owned, out, run_dir, name):
+    """Validate HEAD + owned files in a throwaway worktree, ignoring live dirt.
+
+    A full-tree `astro build` loads every reports/*.md in the working tree, so a
+    concurrent worker's half-written report (e.g. `code` not yet assigned) fails
+    validation for this run's finished files. This instead builds an isolated
+    snapshot — HEAD plus exactly this run's owned paths overlaid — without
+    touching the live tree or any other worker's files. Returns the exit code.
+    """
+    base = Path(tempfile.mkdtemp(prefix="research-validate-"))
+    wt = base / "worktree"
+    log_path = run_dir / f"{name}.log"
+    log_path.parent.mkdir(parents=True, exist_ok=True)
+    say(f"→ Isolated validation of {len(owned)} owned file(s) (details: {log_path})", out)
+    started = time.monotonic()
+    code = 127
+    try:
+        git("worktree", "prune", check=False)
+        git("worktree", "add", "--detach", str(wt), "HEAD")
+        for relative in owned:
+            # Owned paths passed safe_report_path at manifest parse time; recheck
+            # the live file before copying it into the snapshot.
+            src = safe_report_path(relative)
+            dest = wt / relative
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src, dest)
+        node_modules = wt / "node_modules"
+        if not node_modules.exists() and (repo / "node_modules").is_dir():
+            node_modules.symlink_to(repo / "node_modules", target_is_directory=True)
+        with log_path.open("w", encoding="utf-8", errors="replace") as build_log:
+            try:
+                proc = subprocess.Popen(shlex.split(validate_cmd), cwd=wt,
+                                        stdin=subprocess.DEVNULL,
+                                        stdout=build_log, stderr=subprocess.STDOUT,
+                                        start_new_session=True)
+                code = proc.wait()
+            except OSError as e:
+                build_log.write(f"Could not launch validation: {e}\n")
+                code = 127
+    finally:
+        git("worktree", "remove", "--force", str(wt), check=False)
+        shutil.rmtree(base, ignore_errors=True)
+    elapsed = time.monotonic() - started
+    if code == 0:
+        say(f"✓ Isolated build passed ({elapsed:.0f}s)", out)
+    else:
+        say(f"✗ Isolated build failed (exit {code}, {elapsed:.0f}s). Log: {log_path}", out)
+        diagnostic = deque(maxlen=14)
+        tail = deque(maxlen=12)
+        with log_path.open(encoding="utf-8", errors="replace") as src:
+            for ln in src:
+                line = ln.rstrip("\n")
+                tail.append(line)
+                if re.search(r"\[ERROR\]|(?:\bError:|\bERROR:|ERR_MODULE_NOT_FOUND|Cannot find|failed|EPERM|EACCES)", line, re.I):
+                    diagnostic.append(line[:350])
+        for line in (diagnostic if diagnostic else tail):
+            say("    " + line, out)
+    return code
 
 
 if build_only:
@@ -395,11 +456,11 @@ def failing_report_paths(build_log):
     return sorted(set(matches))
 
 
-def recover_failed_build(owned, tracked_before, out, run_dir, first_code):
+def recover_failed_build(owned, tracked_before, out, run_dir, first_code, first_log, isolated=False):
     """Targeted repair once or twice, then revalidate. No broad repo edits."""
     code = first_code
+    log_path = first_log
     for attempt in (1, 2):
-        log_path = run_dir / ("build.log" if attempt == 1 else f"build-retry-{attempt-1}.log")
         invalid = failing_report_paths(log_path)
         # A failure elsewhere in the project must NOT be delegated to Muse.
         to_fix = [p for p in invalid if p in owned]
@@ -436,8 +497,14 @@ BUILD FAILURE LOG (tail):
         set_new_report_provenance(to_fix, tracked_before, out)
         fix_unquoted_question_colons(to_fix, out)
         say("→ Retrying validation after targeted repair", out)
-        next_log = run_dir / f"build-retry-{attempt}.log"
-        code = quiet_build(shlex.split(validate_cmd), next_log, out)
+        if isolated or sorted(set(changed_report_paths()) - set(owned)):
+            isolated = True
+            name = f"build-isolated-retry-{attempt}"
+            log_path = run_dir / f"{name}.log"
+            code = isolated_build(owned, out, run_dir, name)
+        else:
+            log_path = run_dir / f"build-retry-{attempt}.log"
+            code = quiet_build(shlex.split(validate_cmd), log_path, out)
         if code == 0:
             return 0
     return code
@@ -562,10 +629,20 @@ This file is ignored by Git. Do not commit it yourself.
             set_new_report_provenance(owned, tracked_before, out)
             fix_unquoted_question_colons(owned, out)
             if validate_cmd:
-                say("\nValidating (quiet, build locked): " + validate_cmd, out)
-                validation_code = quiet_build(shlex.split(validate_cmd), run_dir / "build.log", out)
+                foreign = sorted(set(changed_report_paths()) - set(owned))
+                if foreign:
+                    say(f"\nValidating in isolation: {len(foreign)} unowned uncommitted file(s) "
+                        "present, so the live tree cannot validate this run", out)
+                    first_log = run_dir / "build-isolated.log"
+                    validation_code = isolated_build(owned, out, run_dir, "build-isolated")
+                else:
+                    say("\nValidating (quiet, build locked): " + validate_cmd, out)
+                    first_log = run_dir / "build.log"
+                    validation_code = quiet_build(shlex.split(validate_cmd), first_log, out)
                 if validation_code:
-                    validation_code = recover_failed_build(owned, tracked_before, out, run_dir, validation_code)
+                    validation_code = recover_failed_build(owned, tracked_before, out, run_dir,
+                                                           validation_code, first_log,
+                                                           isolated=bool(foreign))
                 if validation_code:
                     say(f"ERROR: Validation exited {validation_code}; files left uncommitted. Stopping.", out)
                     had_error = True
