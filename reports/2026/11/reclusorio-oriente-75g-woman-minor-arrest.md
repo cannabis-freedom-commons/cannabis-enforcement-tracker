@@ -38,12 +38,19 @@ sources:
     publisher: Reporte Indigo
     date: 2026-11-02
     language: es
+  - title: Madre e hijo son detenidos tras intentar ingresar droga al Reclusorio Oriente en CdMx
+    url: https://www.telediario.mx/comunidad/reclusorio-oriente-madre-e-hijo-detenidos-intentaron-ingresar-droga
+    publisher: Telediario
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives no separate date for the detention, so 2 November 2026 is the article's publication date used as the incident date.
   - The substance is described only as herb with characteristics similar to marijuana, with no laboratory confirmation reported.
   - The detained woman and minor are not named; only the woman's age of 31 is given.
   - No court outcome is reported; the Ministerio Público agent will determine their legal situation.
   - Only one source could be opened; searches for a second account of the same detention found no accessible report.
+  - The submitted page headlines the pair as mother and son, while the existing report identifies them only as a 31-year-old woman and an adolescent or minor.
+  - The submitted page carries an SSC CdMx photo of the detention that may repeat the agency handout already cited, so no new media entry is added.
 ---
 
 Officers of the Subsecretaría del Sistema Penitenciario of Mexico City's
@@ -53,14 +60,14 @@ arrived as visitors to people deprived of liberty at the prison in Colonia San
 Lorenzo Tezonco. [@1,2] Custodians carrying out the visitor screening noticed the
 woman and the adolescent showing unusual behaviour. [@1] The pair allegedly
 tried to bring the suspected drug into the prison hidden among their clothes.
-[@1]
+[@1,3]
 
 Acting under police protocols and with strict respect for human rights,
 custodians carried out a preventive search of both visitors. [@1] The search
 found two wrappers hidden in their clothing. [@1] The wrappers contained about
-75 grams of green, dry herb with characteristics similar to marijuana. [@1,2]
+75 grams of green, dry herb with characteristics similar to marijuana. [@1,2,3]
 
 Officers read the 31-year-old woman and the minor their constitutional rights.
 [@1] Officers then transferred both people with the seized herb to the
-corresponding Ministerio Público agent. [@1,2] That prosecutor will determine
+corresponding Ministerio Público agent. [@1,2,3] That prosecutor will determine
 their legal situation. [@1]
