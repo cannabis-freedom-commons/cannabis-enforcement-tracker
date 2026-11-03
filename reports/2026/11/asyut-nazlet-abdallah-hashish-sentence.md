@@ -27,6 +27,11 @@ sources:
     publisher: يوليو
     date: 2026-11-03
     language: ar
+  - title: المشدد 15 عاما لـ3 متهمين بحيازة مخدرات وأسلحة في أسيوط - تليجراف مصر
+    url: https://www.egypttelegraph.com/article/292719/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-15-%D8%B9%D8%A7%D9%85%D8%A7-%D9%84%D9%803-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: تليجراف مصر
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No weight was published for the hashish; only a quantity, two large slabs and 17 large pieces were described, so no cannabis weight is recorded.
   - The article gives no separate date for the roadside arrest; 3 November 2026 is the publication date and, with the verdict described as issued on Tuesday, is used as the sentence date.
@@ -40,13 +45,13 @@ open_questions:
 The Tenth Circuit of the Asyut Criminal Court sentenced three men to 15 years of
 aggravated imprisonment each and fined each of them 50,000 Egyptian pounds for
 possessing drugs, firearms and ammunition after a security checkpoint in Nazlet
-Abdallah in the Second Asyut district. [@1] The report was published on 3
+Abdallah in the Second Asyut district. [@1,2] The report was published on 3
 November 2026. [@1] The panel was headed by Judge Ahmed Abdel-Tawab Saleh with
 Judge Romil Shehata Amin as member, with prosecutor Ahmed Fathi present and Adel
 Abu El-Reesh and Zakaria Hafez as court secretaries. [@1] The case was filed as
 No. 2332 of 2026, Second Asyut felonies, after a patrol in Nazlet Abdallah
 stopped a private car driven by 20-year-old Khaled M. with Mohamed A. and Ayman
-S. aboard for a criminal check. [@1]
+S. aboard for a criminal check. [@1,2]
 
 When officers tried to stop the car, the driver reversed at high speed, one of
 the men threw a shotgun from the car, the driver rammed a plainclothes policeman
@@ -56,10 +61,9 @@ three men. [@1] Searching the first man found a pistol, a quantity of hashish
 essence hidden in his clothes and 1,400 pounds, while the second man carried a
 large slab of hashish and a mobile phone and the third carried a large slab of
 the same drug. [@1] Searching the car found 17 large pieces of hashish, a
-cannabis resin. [@1]
+cannabis resin. [@1,2]
 
 Confronted with the seizures, the men admitted possessing the drugs for
 trafficking and the firearms and ammunition for self-defence. [@1] The court
 treated the hashish, the cannabis product in this case, together with the
 weapons as the basis for the trafficking convictions. [@1]
-
