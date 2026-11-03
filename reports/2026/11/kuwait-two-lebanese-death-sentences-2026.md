@@ -39,6 +39,11 @@ sources:
     publisher: Sarmad
     date: 2026-11-01
     language: ar
+  - title: 'షూ బాక్సుల్లో డ్రగ్స్ స్మగ్లింగ్: కువైట్‌లో భారతీయుడికి మరణశిక్ష | Indian Gets Death Penalty in Kuwait for Trafficking Drugs Hidden in Shoe Cartons'
+    url: https://telugu.newsmeter.in/international/indian-gets-death-penalty-in-kuwait-for-trafficking-drugs-hidden-in-shoe-cartons-778599
+    publisher: NewsMeter Telugu
+    date: 2026-11-02
+    language: te
 open_questions:
   - The articles give only publication dates of 1 and 2 November 2026; 1 November 2026 is used as the ruling date, with Al-Anba describing the ruling as issued “yesterday”.
   - No arrest location or separate dates for the arrests and seizure were published.
@@ -47,10 +52,12 @@ open_questions:
   - The Al-Anba article also reports a separate life sentence and fine for a woman over psychotropic substances, a different event left out here.
   - Whether the death sentences are final or subject to appeal was not reported.
   - The page carries a lead image with no caption identifying its content, so whether it shows this event could not be established and no media entry is added.
+  - The Telugu page does not identify the narcotic solution on the 100 paper sheets in the Indian shoe-carton case as cannabis, so that case is left out of cannabis figures.
+  - The page's lead image caption only repeats the headline and does not establish that it shows this seizure, so no media entry is listed.
 ---
 
 Kuwait’s Criminal Court sentenced two Lebanese nationals to death for
-trafficking in and using hashish and psychoactive substances. [@1,3,4] The General
+trafficking in and using hashish and psychoactive substances. [@1,3,4,5] The General
 Department for Drug Control arrested the two Lebanese men after information and
 investigations indicated they possessed narcotics and psychoactive substances
 for trafficking and use. [@1] Prosecutors charged the pair with possession for
@@ -58,9 +65,9 @@ trafficking and use and referred them to the Criminal Court, which imposed the
 death sentences. [@2]
 
 Officers seizing the drugs found two kilogrammes of marijuana and 400 grammes of
-hashish. [@1,3] The same search also found half a kilogramme of “chemical”, 6,000
+hashish. [@1,3,5] The same search also found half a kilogramme of “chemical”, 6,000
 Lyrica capsules, three sensitive scales and nylon bags used to prepare and pack
-drugs. [@1] Only the marijuana and hashish, together 2.4 kg, are treated as
+drugs. [@1,5] Only the marijuana and hashish, together 2.4 kg, are treated as
 cannabis in this report, while the chemical and Lyrica are excluded as
 non-cannabis substances. [@2]
 
@@ -68,4 +75,4 @@ The verdicts were published on 1 November 2026, with a second newspaper dating
 the ruling to the day before its 2 November edition. [@2] The Lebanese case was
 one of two separate drug cases decided together, the other a death sentence for
 an Indian defendant over psychoactive substances concealed in 100 soaked A4
-sheets in a shoe-carton parcel from abroad. [@1,3,4]
+sheets in a shoe-carton parcel from abroad. [@1,3,4,5]
