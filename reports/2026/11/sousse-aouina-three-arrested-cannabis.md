@@ -24,6 +24,11 @@ sources:
     publisher: Hakaekonline | حقائق اون لاين
     date: 2026-11-03
     language: ar
+  - title: 'Sousse : Saisie de 500gr cannabis'
+    url: https://www.mosaiquefm.net/fr/national-tunisie/1535541/sousse-saisie-de-500gr-cannabis
+    publisher: Mosaique FM
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The article gives no separate date for the raid; 3 November 2026 is the publication date and is used as the incident date.
   - The cannabis weight is reported as approximate, about half a kilogram, not an exact laboratory weight.
@@ -32,20 +37,21 @@ open_questions:
   - No court outcome beyond detention pending investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic and French.
   - The page carries a photo captioned only IMG_6193, which cannot be established to show this seizure, so no media entry is included.
+  - The new outlet spells the neighbourhood El Ouaïna while the existing report uses El Aouina, treated as the same place.
+  - The Mosaique FM page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is added.
 ---
 
 Sousse's regional anti-drug brigade detained three people, including a foreign
-national, in a security operation. [@1] The operation consisted of a raid on a
+national, in a security operation. [@1,2] The operation consisted of a raid on a
 house located in the El Aouina neighbourhood. [@1] After consulting the Public
 Prosecution, the prosecution ordered the three suspects to be held pending
 investigation to continue inquiries and complete the necessary legal procedures.
-[@1]
+[@1,2]
 
 The search seized about half a kilogram of cannabis, described as cannabis herb.
-[@1] Officers also seized a quantity of narcotic pills alongside the cannabis.
-[@1] They also seized a weighing scale suspected of being used in dealing
-activity and a sum of money suspected of being linked to that activity. [@1]
+[@1,2] Officers also seized a quantity of narcotic pills alongside the cannabis.
+[@1,2] They also seized a weighing scale suspected of being used in dealing
+activity and a sum of money suspected of being linked to that activity. [@1,2]
 
 The report presents the operation as part of continuing security efforts against
 drug dealing and trafficking in narcotic substances. [@1]
-
