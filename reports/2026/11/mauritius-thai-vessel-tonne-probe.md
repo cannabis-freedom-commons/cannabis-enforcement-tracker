@@ -59,6 +59,11 @@ sources:
     publisher: Le Défi Media Group
     date: 2026-11-01
     language: fr
+  - title: 'Cannabis acheminé par le Dreamer : l’Angleterre et la Thaïlande sollicitées pour retracer l’expéditeur mauricien'
+    url: https://defimedia.info/cannabis-achemine-par-le-dreamer-langleterre-et-la-thailande-sollicitees-pour-retracer-lexpediteur
+    publisher: Defimedia
+    date: 2026-11-03
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -80,6 +85,11 @@ media:
     media_url: https://files.defimedia.info/sites/default/files/2026-11/Le%20Dreamer-021126.jpg
     publisher: Le Défi Media Group
     caption: Suspects including Bryan Fu Kin Lew Tin Wah and Nishal, suspected of sending the Dreamer cargo.
+  - kind: photo
+    url: https://defimedia.info/cannabis-achemine-par-le-dreamer-langleterre-et-la-thailande-sollicitees-pour-retracer-lexpediteur
+    media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/031126_dreamer.jpg.avif?itok=fV83Spog
+    publisher: Defimedia
+    caption: The yacht Dreamer under National Coast Guard surveillance at the Port-Louis Waterfront.
 open_questions:
   - Police put the number arrested at 14 in their 29 October statement, while Le Défi reported a second coast guard arrest that brought the total to 15; L'Express and Le Mauricien, published the same day, still said 14.
   - Le Mauricien reported that no drugs were found aboard the yacht and that the cargo had already been landed; the 1.5-tonne figure is the amount investigators believe was imported, not a consignment recovered from the vessel.
@@ -93,6 +103,9 @@ open_questions:
   - No arrest or charge of Nishal himself was reported; he remains only a suspect sought under an Arrest on Arrival order.
   - The submitted page reports 792 grams seized at the Trou-d'Eau-Douce villa and says a link to the Dreamer cargo is only suspected, while the existing report records 719 grams for that villa seizure.
   - The total number provisionally charged after the rise to 18 arrests was not stated.
+  - The submitted page reports 792 grams of cannabis seized on 23 October in a villa, valued at Rs 1,425,600, while the existing report records a different weight for that villa seizure and treats its link to the Dreamer cargo as only suspected.
+  - The submitted page says Rs 2.1 million in foreign currencies was seized aboard the Dreamer with no drugs found, while earlier accounts in the existing report give different totals and a detailed breakdown of baht, Singapore dollars and euros.
+  - The possible request to Interpol and British and Thai counterparts through the Central Barracks and the Attorney General's office is described as under consideration, not as a completed request, and Nishal himself had not been arrested or charged.
 ---
 
 The Anti Drug and Smuggling Unit, with the National Coast Guard's Maritime
@@ -124,4 +137,6 @@ The captain's phone contained images and videos of cannabis cargo, and investiga
 
 L'Express reported that investigators were checking information that a Mauritian who grew up in England and returned to the island in 2021 had built a cannabis and hashish traffic, first through couriers by air. [@6] The newspaper said his move to Thailand in 2023 was a central element of the lead, and that information being checked pointed to three yacht arrivals in Mauritius in 2026 carrying cannabis, cocaine and hashish, each of several hundred kilos. [@6]
 
-The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7]
+The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
+
+Mauritian authorities could ask Interpol and their British and Thai counterparts through the Central Barracks and the Attorney General's office to trace Nishal. [@9] Nishal had been arrested by ADSU in 2012 after a seizure of 20.48 grams of cannabis and later settled in Great Britain. [@9] Established abroad, Nishal is said to lead a particularly luxurious lifestyle in Thailand, where he also runs a nightclub. [@9]
