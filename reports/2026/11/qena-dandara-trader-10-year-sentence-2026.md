@@ -36,6 +36,11 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-03
     language: ar
+  - title: السجن المشدد 10 سنوات وغرامة مائة ألف جنيه بتهمة حيازة كمية من مخدر الحشيش وسلاح آلي بقنا
+    url: https://www.newsroom.info/480264
+    publisher: نيوز رووم
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No weight or volume was published for the hashish, so no cannabis weight is recorded.
   - No quantity was published for the methamphetamine, which is excluded from cannabis figures as a non-cannabis substance.
@@ -50,20 +55,20 @@ open_questions:
 ---
 
 The Qena Criminal Court punished a trader with 10 years of rigorous imprisonment
-and a fine of 100,000 pounds. [@1,2,3] The conviction was for possessing hashish, a
-foreign-made automatic weapon and a bullet. [@1,2,3] The panel was headed by
+and a fine of 100,000 pounds. [@1,2,3,4] The conviction was for possessing hashish, a
+foreign-made automatic weapon and a bullet. [@1,2,3,4] The panel was headed by
 Counsellor Islam Mohamed Hamza, with Counsellors Tamer al-Amir al-Taher and
 Ahmed Abu al-Qassem al-Sharif as members. [@1] Prosecution representative
 Mostafa Abdel Samad attended, with secretaries Salah Farrag, Ahmed Abdel Sattar
 Abdel Hamid and Alaa Selouk. [@1]
 
 The events date to January 2026, when security forces arrested the accused. [@1,3]
-The accused worked as a trader in Dandara village in Qena Governorate. [@1,2,3] The
+The accused worked as a trader in Dandara village in Qena Governorate. [@1,2,3,4] The
 public prosecution charged him with possessing hashish and methamphetamine, plus
 a foreign-made automatic weapon and a bullet. [@1,3]
 
 He was also accused of attempting to assault a mabahith investigation officer
 during his arrest, mabahith being Egypt's criminal-investigation police. [@1]
 The case, registered as No. 747 Kolli Qena, was referred to the criminal court.
-[@1,2,3] The court then imposed the 10-year rigorous term and 100,000-pound fine for
+[@1,2,3,4] The court then imposed the 10-year rigorous term and 100,000-pound fine for
 drug-and-weapon possession. [@1]
