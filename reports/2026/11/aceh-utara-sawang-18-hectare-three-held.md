@@ -48,6 +48,11 @@ sources:
     publisher: Koran Jakarta
     date: 2026-11-03
     language: id
+  - title: 'Foto: Tim Gabungan Polri dan BNN Musnahkan 18 Hektare Ladang Ganja di Aceh - Koran Jakarta ®'
+    url: https://koran-jakarta.com/2026-11-03/tim-gabungan-polri-dan-bnn-musnahkan-18-hektare-ladang-ganja-di-aceh/amp
+    publisher: Koran Jakarta
+    date: 2026-11-03
+    language: id
 open_questions:
   - No plant count, seized weight, estimated value, or charges and case outcome for the three detainees were published.
   - The same hamlet and village hosted a 27-28 October 2026 operation covering the same reported 18 hectares with four different detainees (MW, HM, SF, WD); whether the 2 November burning revisited the same fields or separate fields is unresolved.
@@ -58,13 +63,13 @@ open_questions:
 
 A joint enforcement team arrested three men described as suspected owners of
 cannabis fields in North Aceh, identified only by the initials L (35), T (42)
-and W (32). [@1,4] The operation took place on Monday 2 November 2026 on
+and W (32). [@1,4,5] The operation took place on Monday 2 November 2026 on
 plantation slopes at Alue Garut hamlet in Teupin Ruseb village, Sawang district.
-[@1,4] The agencies involved were the National Police Criminal Investigation
+[@1,4,5] The agencies involved were the National Police Criminal Investigation
 Agency's drug-crime directorate (Direktorat Tindak Pidana Narkoba Bareskrim
-Polri), the National Narcotics Agency (BNN) and Lhokseumawe police. [@1,4]
+Polri), the National Narcotics Agency (BNN) and Lhokseumawe police. [@1,4,5]
 
-Officers found about 18 hectares of cannabis with harvest-ready plants. [@2,4]
+Officers found about 18 hectares of cannabis with harvest-ready plants. [@2,4,5]
 They collected the uprooted plants and burned them on site. [@2,4] Personnel were
 photographed carrying bundles of plants for burning and setting the piles
 alight. [@3]
