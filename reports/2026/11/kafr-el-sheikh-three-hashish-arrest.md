@@ -23,6 +23,11 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-03
     language: ar
+  - title: ضبط تشكيل عصابي لتجارة المخدرات والأسلحة النارية في كفر الشيخ
+    url: https://www.iqraa.news/188781/%D8%B6%D8%A8%D8%B7-%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%B9%D8%B5%D8%A7%D8%A8%D9%8A-%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%B3/
+    publisher: إقرأ نيوز
+    date: 2026-11-03
+    language: ar
 open_questions:
   - The article gives no separate date for the raid; 3 November 2026 is its publication date and is used as the incident date.
   - No cannabis weight was published, only 25 torba and 32 pieces of hashish, so no cannabis quantity in kilograms is recorded.
@@ -31,19 +36,20 @@ open_questions:
   - No court outcome was reported; the Public Prosecution investigation was still under way.
   - Only one accessible source for this event was found after searching in Arabic.
   - The page photo is captioned as an archive image and is not established to show this seizure, so no media entry is included.
+  - The page carries a photo captioned only with the headline and no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Kafr El Sheikh centre detectives arrested three unemployed men accused of
 trafficking various drugs and possessing unlicensed firearms and ammunition.
-[@1] The suspects were aged 40, 28 and 30 and were identified only by their
-initials. [@1] The 40-year-old had previously been accused in four theft cases.
+[@1,2] The suspects were aged 40, 28 and 30 and were identified only by their
+initials. [@1,2] The 40-year-old had previously been accused in four theft cases.
 [@1] The 28-year-old had previously been accused in five cases involving drugs
 and show of force. [@1] Officers detained the men at their residences after
 completing legal procedures and obtaining Public Prosecution permission. [@1]
 
 Police said they seized one shotgun, two individual shotguns and five shotgun
 cartridges from the men. [@1] The cannabis component recorded here was 25 slabs,
-called torba, and 32 pieces of hashish. [@1] The same search also found 500
+called torba, and 32 pieces of hashish. [@1,2] The same search also found 500
 grams of shabu and 250 grams of heroin, plus a motorcycle without number plates,
 which are mentioned only to explain the mixed seizure. [@1]
 
@@ -51,5 +57,4 @@ Detectives had received detailed information that the men were trading drugs
 wholesale and retail and holding firearms and live ammunition. [@1] The
 operation was carried out under senior Kafr El Sheikh security supervision. [@1]
 Police completed the legal procedures and notified the Public Prosecution, which
-took over the investigation. [@1]
-
+took over the investigation. [@1,2]
