@@ -48,6 +48,11 @@ sources:
     publisher: Amar Sangbad
     date: 2026-11-02
     language: bn
+  - title: রাজশাহীতে বোয়ালিয়া থানা পুলিশের মাদকবিরোধী অভিযানে ৪৮ কেজি গাঁজাসহ গ্রেফতার ২
+    url: https://sokalersomoy.online/news/168878
+    publisher: Daily Sokaler Somoy
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only the Amader Shomoy account of this event could be opened; no second outlet or agency statement was found.
   - The detentions are reported as detention and questioning, and whether formal arrests, charges or a court outcome followed is not reported.
@@ -65,19 +70,22 @@ open_questions:
   - This account reports two arrests plus absconders while the existing report records three detentions including a site engineer, whose fate is not mentioned here.
   - The Bagdhani man is 27-year-old Sajib son of Abdur Razzaq here against 24-year-old Sohir Islam in the earlier account, and whether this is variant reporting of one person is unresolved.
   - The page carries a lead photograph whose caption only repeats the headline, so whether it shows this seizure could not be established and no media entry is added.
+  - This account reports two arrests while the existing report records three detentions including a Sarkar Builders site engineer, whose fate is not mentioned here.
+  - This account places the raid in a plot's chapra tin-shed house, differing from the Sarkar Builders under-construction building description in the existing report.
+  - The page carries a lead photo with an empty caption, so whether it shows this seizure could not be established and no media entry is added.
 ---
 
 Boalia Model Police detained three people in Rajshahi, including the
 construction firm's site engineer, after recovering 48 kg of ganja from a
 workers' room. [@1] The raid took place at about 3:30 pm on Sunday, 1 November,
 in a workers' tin-shed room in a Sarkar Builders under-construction building in
-Upashahar Sector 2. [@1,2] Police named the detained men as 24-year-old Sohir
+Upashahar Sector 2. [@1,2,5] Police named the detained men as 24-year-old Sohir
 Islam of Bagdhani, 20-year-old Rayhan of Palpur Dharampur, and another Rayhan of
 Chanduria who worked as Sarkar Builders' site engineer. [@1]
 
 Officers said they acted on secret information and broke the lock after those
 inside first refused to open the door for a search. [@1] Inside, officers found
-12 packets holding a total of 48 kg of ganja in two sacks. [@1] Police said the
+12 packets holding a total of 48 kg of ganja in two sacks. [@1,5] Police said the
 consignment had arrived by truck in three sacks, with one sack already sold and
 the remaining two intended to be moved elsewhere. [@1]
 
@@ -89,6 +97,6 @@ station, but police gave no detailed explanation of his suspected link to the
 consignment. [@1] Attempts to reach Rajshahi Metropolitan Police Additional
 Commissioner Gaziur Rahman by phone for comment were unsuccessful. [@1]
 
-Police filed a case under the Narcotics Control Act at Boalia police station against the two arrested men and the absconders. [@2,4] The two arrested men were sent to jail through the court on Monday morning, while operations to arrest the absconders continue. [@2,4] Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police. [@2,4] The second account names the two arrested men as 27-year-old Sajib of Bagdhani and 20-year-old Rayhan of Palpur Dharampur and places the raid at Holding No. 49 in Sector-2. [@3,4]
+Police filed a case under the Narcotics Control Act at Boalia police station against the two arrested men and the absconders. [@2,4,5] The two arrested men were sent to jail through the court on Monday morning, while operations to arrest the absconders continue. [@2,4] Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police. [@2,4,5] The second account names the two arrested men as 27-year-old Sajib of Bagdhani and 20-year-old Rayhan of Palpur Dharampur and places the raid at Holding No. 49 in Sector-2. [@3,4]
 
-Police said the arrested men are professional drug dealers who had long operated across Rajshahi city in collusion, and that Sajib already faces a Narcotics Control Act case at Natore Sadar police station. [@4] The arrested men are Md. Sajib (27), son of Md. Abdur Razzaq of Bagdhani village in Paba, and Md. Raihan (20), son of Md. Habibur Rahman of Palpur Dharampur village in Godagari, while the named absconder is 39-year-old Md. Biplab Ali, son of Md. Saidur Rahman of Lakshmipur Dingadoba in Rajpara. [@4]
+Police said the arrested men are professional drug dealers who had long operated across Rajshahi city in collusion, and that Sajib already faces a Narcotics Control Act case at Natore Sadar police station. [@4] The arrested men are Md. Sajib (27), son of Md. Abdur Razzaq of Bagdhani village in Paba, and Md. Raihan (20), son of Md. Habibur Rahman of Palpur Dharampur village in Godagari, while the named absconder is 39-year-old Md. Biplab Ali, son of Md. Saidur Rahman of Lakshmipur Dingadoba in Rajpara. [@4,5]
