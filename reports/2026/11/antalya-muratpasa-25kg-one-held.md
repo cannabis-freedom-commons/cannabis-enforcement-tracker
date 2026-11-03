@@ -111,6 +111,11 @@ sources:
     publisher: Serik Postası Gazetesi
     date: 2026-11-03
     language: tr
+  - title: Antalya'da uyuşturucu operasyonunda 25 kilogram esrar ele geçirildi
+    url: https://www.burduryenigun.com/antalyada-uyusturucu-operasyonunda-25-kilogram-esrar-ele-gecirildi
+    publisher: Burdur Yenigün
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The reports give only the publication date of 3 November 2026 and no separate day for the raid.
   - No independent weighing of the cannabis is reported beyond the police figure of 25 kilograms.
@@ -124,17 +129,18 @@ open_questions:
   - The Karaman Habercisi page carries photos captioned only with the article headline, so no media entry is established to show this seizure.
   - The Haber Antalya page image is captioned only with the article headline and is not established to show this seizure, so no media entry is included.
   - The Serik Postası page images are captioned only with the article headline and are not established to show this seizure, so no media entry is added.
+  - The Burdur Yenigün page image is captioned only with the article headline and is not established to show this seizure, so no media entry is added.
 ---
 
 Antalya anti-narcotics police detained a suspect identified only as Y.K. during
-an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16] Police said Y.K. had brought narcotic
+an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17] Police said Y.K. had brought narcotic
 and stimulant substances into Antalya in order to sell and distribute them. [@1,6,15,16]
 He was referred to the judicial authorities on suspicion of trading and
-supplying drugs. [@2,15,16] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16]
+supplying drugs. [@2,15,16] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 
 Officers searching his residence seized 25 kilograms of cannabis, called esrar
-in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16] The cannabis was divided into 50 separate plastic
-bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16] Police said the bags were hidden inside a suitcase and under a bed
+in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17] The cannabis was divided into 50 separate plastic
+bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17] Police said the bags were hidden inside a suitcase and under a bed
 base. [@3,9,14,15] No other suspect was reported as detained in the operation. [@1]
 
 The operation was carried out by the Anti-Narcotics Crime Branch of the Antalya
