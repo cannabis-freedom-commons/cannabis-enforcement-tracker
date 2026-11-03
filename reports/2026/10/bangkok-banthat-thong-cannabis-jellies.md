@@ -152,6 +152,11 @@ sources:
     publisher: タイランドハイパーリンクス
     date: 2026-11-02
     language: ja
+  - title: อย.ผนึก CIB-กรมแพทย์แผนไทย บุกแหล่งกระจายเยลลี่กัญชาเถื่อน ยึด 90 ชิ้น เตือนเด็กกินเสี่ยงอันตราย
+    url: https://www.matichon.co.th/local/quality-life/news_5956649
+    publisher: มติชนออนไลน์
+    date: 2026-11-01
+    language: th
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -183,27 +188,29 @@ open_questions:
   - The page image carries only the generic caption May be an image of text with no event-specific caption or credit, so no media entry is added.
   - The submitted page says police searched the Bangkok shop on 1 November 2026, while the existing report uses 29 October 2026 from the FDA statement.
   - The page carries a Thai-FDA-credited image with no event-specific caption, so no media entry is added rather than repeating raid photos already linked in the existing report.
+  - The Matichon article dates the operation to 1 November 2026, while the existing report uses 29 October 2026 from the FDA statement, so the incident date remains unresolved.
+  - The page carries four images with the generic caption 111 or no caption and no credit, so no media entry is added rather than repeating raid photos already linked in the existing report.
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13,18,22] The
 shop occupied the second floor. [@1,4,5,7,14,15,16,17,19,20] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22] The FDA put the value of the jellies at 50,000 baht.
-[@2,5,18,22]
+Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23] The FDA put the value of the jellies at 50,000 baht.
+[@2,5,18,22,23]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22] A 26-year-old woman
+Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9,16] Officers told her
 she faced a charge of selling a controlled herb without permission. [@3,7,14] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
 planned to send samples to the Department of Medical Sciences to check whether
 THC and CBD levels exceeded the legal limit, which could bring further charges.
-[@3,4,5,8,11,14,19]
+[@3,4,5,8,11,14,19,23]
 
 The search followed a case in Khlung district, Chanthaburi province, where a
 family fell severely ill after eating cannabis sweets, with convulsions and loss
-of consciousness that required ventilators. [@1,7,8,9,11,13,15,17,18,20,21,22] The FDA warned parents to watch
+of consciousness that required ventilators. [@1,7,8,9,11,13,15,17,18,20,21,22,23] The FDA warned parents to watch
 for unlabelled sweets marked with cannabis leaves or the words Cannabis, CA or
 THC. [@1]
 
@@ -213,7 +220,7 @@ The 26-year-old woman was identified only as Saowalak, with her surname withheld
 
 The shop was in a row building at 188/25 Soi Rong Mueang 5, Wang Mai subdistrict, Pathum Wan district, Bangkok. [@7] Police said they were expanding the investigation to find the shop's owner and others involved. [@7]
 
-The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8,15,19,21] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8]
+The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8,15,19,21,23] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8]
 
 Police arrested a 26-year-old woman, identified only as Saowalak. [@10]
 
