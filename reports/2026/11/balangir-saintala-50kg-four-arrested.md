@@ -22,6 +22,11 @@ sources:
     publisher: Jagran
     date: 2026-11-03
     language: hi
+  - title: 'ओडिशा में गांजा खेती: पटना के तस्कर समेत 4 गिरफ्तार'
+    url: https://www.prabhatkhabar.com/state/bihar/patna/bihar-smugglers-caught-in-odisha-ganja-cultivation-rs-1-crore-seized
+    publisher: Prabhat Khabar
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article dates the raid only as Monday; 2 November 2026 is inferred from its 3 November 2026 publication date.
   - No charges, case number, remand or court outcome was reported beyond handing the four men to Saintala police.
@@ -29,13 +34,17 @@ open_questions:
   - The page's only picture is labelled as AI-generated, so no photo of the event is listed as media.
   - No second report of this Saintala raid could be opened, so the account rests on this single Jagran report.
   - The same article also describes separate Bihar drone surveillance, about 100 acres of opium destroyed by August, and cumulative seizures reported by July, which are different events left out of this report.
+  - The new source spells the place as सेनतल्ला and does not name Balangir district, while the existing report uses Saintala, Balangir.
+  - The new source gives only its 3 November 2026 publication date and no separate raid date.
+  - The new source names only Satish Rai of Jethuli and describes the others only as two from Vaishali and one from Kandhamal, without the other names and details in the existing report.
+  - The new source values the 50 kg at about Rs 1 crore at the government rate, a figure not in the existing report.
 ---
 
 Bihar's Special Task Force narcotics cell, working with Odisha police, raided
 the Saintala police-station area of Balangir on Monday and said it had exposed
-an interstate drug racket. [@1] The team arrested four alleged drug traffickers
+an interstate drug racket. [@1,2] The team arrested four alleged drug traffickers
 with 50 kilograms of ganja, the local term for cannabis, and also seized one car
-and four mobile phones from them. [@1] Those held were named as Satish Rai, 30,
+and four mobile phones from them. [@1,2] Those held were named as Satish Rai, 30,
 of Jethuli in Patna, Dhananjay Kumar, 27, of Raghopur in Vaishali, Rajiv Kumar,
 24, of Judaunpur in Vaishali, and Ramakant Bagh, 22, of Khamanakhol village in
 Kandhamal, Odisha. [@1] The STF said Satish Rai and Rajiv Kumar had long been
@@ -50,6 +59,5 @@ Odisha's forests, while the seizure in this raid was reported only as ganja.
 against intoxicants in Bihar had pushed cultivation work into areas adjoining
 Jharkhand and into Odisha. [@1] Police alleged that many smugglers from Raghopur
 and Patna rent land in the forests of Kandhamal, Odisha, to have ganja grown.
-[@1] The ganja grown there was then sent to Kolkata, Bihar, Uttar Pradesh, Delhi
-and other places. [@1]
-
+[@1,2] The ganja grown there was then sent to Kolkata, Bihar, Uttar Pradesh, Delhi
+and other places. [@1,2]
