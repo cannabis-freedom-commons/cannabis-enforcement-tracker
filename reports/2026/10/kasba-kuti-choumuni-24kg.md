@@ -51,6 +51,11 @@ sources:
     publisher: Voice Of Brahmanbaria 24
     date: 2026-11-02
     language: bn
+  - title: ব্রাহ্মণবাড়িয়া কসবায় পুলিশের অভিযানে ২৪ কেজি গাঁজাসহ দুই কারবারি গ্রেপ্তার
+    url: https://sorejominbarta.com/country/article/65870
+    publisher: Sorejomin Barta
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The reports do not say where the cannabis came from or where it was being taken.
   - No estimate of the cannabis's value was published.
@@ -60,10 +65,11 @@ open_questions:
   - The new source does not give the two men's ages, the Sub-Inspector's name, or the Madina Engineering Workshop and fire-station roadside detail named in the existing report.
   - The submitted page carries a photo whose content cannot be verified from its caption alone, so no media entry is listed.
   - The submitted page carries one photo captioned only with the headline, so its content cannot be verified as this seizure and no media entry is listed.
+  - The submitted page carries one photo with no caption or credit, so its content cannot be verified as this seizure and no media entry is added.
 ---
 
 Police in Kasba, Brahmanbaria, arrested two men with 24 kg of cannabis and
-seized the pickup they were using to carry it. [@1,3,4,5] The arrests took place at
+seized the pickup they were using to carry it. [@1,3,4,5,6] The arrests took place at
 about 4:50 pm on 30 October 2026 on a paved road in front of Madina Engineering
 Workshop beside the Kuti Choumuni fire station in Kuti Union, Kasba upazila, and
 police announced them in a press release the next day. [@1,3,4,5] Police named the two
@@ -78,4 +84,4 @@ against the two was under way. [@1,3] He said police would not spare anyone
 involved in drug trafficking and would strengthen operations to wipe out drugs.
 [@2]
 
-Shakil Mia is the son of Malai Mia and Babu is the son of Md. Shishu Mia. [@5]
+Shakil Mia is the son of Malai Mia and Babu is the son of Md. Shishu Mia. [@5,6]
