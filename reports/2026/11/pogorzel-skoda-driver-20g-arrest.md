@@ -43,6 +43,11 @@ sources:
     publisher: WP Info
     date: 2026-11-02
     language: pl
+  - title: Narkotyki w aucie i w domu. Policjanci z otwockiej drogówki zatrzymali 42-letniego kierowcę Skody w Pogorzeli
+    url: https://otwock.policja.gov.pl/po/aktualnosci/153968,Narkotyki-w-aucie-i-w-domu-Policjanci-z-otwockiej-drogowki-zatrzymali-42-letnieg.html
+    publisher: KPP w Otwocku
+    date: 2026-11-02
+    language: pl
 open_questions:
   - The police page gives only its publication date of 2 November 2026 and no separate day for the roadside stop or home search, so that date is used as the incident date.
   - The small amount found on the driver was not weighed and the home amount is given only as over 20 grams, so figures record 0.02 kg as the stated minimum and exclude the unweighed roadside amount.
@@ -59,18 +64,18 @@ media:
 ---
 
 Otwock traffic police stopped a 42-year-old Skoda driver in Pogorzel after
-suspecting he could be under the influence of alcohol or drugs. [@1,3,4,5] A
+suspecting he could be under the influence of alcohol or drugs. [@1,3,4,5,6] A
 preliminary test found marijuana in the 42-year-old's body. [@2,3,4] Officers
 immediately detained the man and electronically retained his driving licence.
 [@1] The man was detained and placed in a police cell. [@2]
 
 Officers found a small amount of marijuana on the driver during the roadside
 check. [@1,3,4,5] Officers then searched his residence and found more than 20 grams of
-marijuana there. [@2,3,4,5] Detectives searching his flat found further drugs beyond
+marijuana there. [@2,3,4,5,6] Detectives searching his flat found further drugs beyond
 what he carried in the car. [@1]
 
 The 42-year-old was charged with driving a motor vehicle under the influence of
-an intoxicant and with possessing intoxicating substances. [@1,3,4] Police say these
+an intoxicant and with possessing intoxicating substances. [@1,3,4,6] Police say these
 offences carry up to three years of imprisonment. [@1] Police described him as
 another driver removed from the roads of Otwock county and warned that driving
 after alcohol or drugs endangers other people's lives and health. [@1]
