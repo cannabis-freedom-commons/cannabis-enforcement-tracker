@@ -25,6 +25,10 @@ sources:
     url: https://preciouskashmir.com/2026/11/03/5-drug-peddlers-arrested-7/
     publisher: Precious Kashmir
     date: 2026-11-03
+  - title: J&K Police arrests 5 drug peddlers
+    url: https://brighterkashmir.com/jk-police-arrests-5-drug-peddlers
+    publisher: Brighter Kashmir
+    date: 2026-11-03
 open_questions:
   - The articles give a Srinagar Nov 2 dateline and Nov 3 publication dates but no separate time for the Kupwara checks; 2 November 2026 is used as the incident date.
   - Police described the contraband as charas-like substance; no forensic confirmation is reported.
@@ -35,16 +39,16 @@ open_questions:
 ---
 
 Kupwara police arrested Irshad Ahmad Wani of Awoora during naka checking at
-Check-Kali in Lone Mohalla, Alachizab. [@1] Police recovered approximately 47
-grams of a charas-like substance from his possession. [@1] During questioning,
+Check-Kali in Lone Mohalla, Alachizab. [@1,3] Police recovered approximately 47
+grams of a charas-like substance from his possession. [@1,3] During questioning,
 Wani allegedly disclosed that he had obtained the contraband from Zahid Ahmad
 Lone of Gulgam, Kupwara, who had concealed more contraband in his Alto K-10 car
 bearing registration number JK09E-3618, the spokesperson said. [@1] A search of
 the vehicle led to the recovery of another 27 grams of a charas-like substance,
-the vehicle was seized, while Lone is absconding. [@1]
+the vehicle was seized, while Lone is absconding. [@1,3]
 
 In another operation, a police team from Police Post Kalaroos arrested two
-persons during naka checking at Thayan Gujran near a bridge. [@1] They were
+persons during naka checking at Thayan Gujran near a bridge. [@1,3] They were
 identified as Ghulam Hassan Payer, son of Mohd. Mukhtar Payer, and Javid Ahmad
 Payer, son of Ab. Rehman Payer, both residents of Manigah. [@2] During their
 search, approximately 108.8 grams and 104.4 grams of charas-like substance were
@@ -54,4 +58,3 @@ Together the Kupwara seizures amounted to about 287.2 grams of charas-like
 substance. [@1] Police registered cases under relevant provisions of the NDPS
 Act and said further investigations are underway to establish the forward and
 backward linkages of the accused. [@1]
-
