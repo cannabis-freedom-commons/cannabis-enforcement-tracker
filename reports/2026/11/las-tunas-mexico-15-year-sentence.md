@@ -45,6 +45,11 @@ sources:
     publisher: KUBAKUNDE
     date: 2026-11-02
     language: de
+  - title: Tribunal cubano condena a quince años de prisión a un ciudadano por tráfico de drogas
+    url: https://www.elnuevoherald.com/noticias/america-latina/cuba-es/article317882214.html
+    publisher: El Nuevo Herald
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives no separate date for the trial or sentence, so 2026-11-01 is the source publication date.
   - No weight or quantity was published for the marijuana, cocaine or synthetic cannabinoids, so no cannabis weight is recorded.
@@ -54,18 +59,21 @@ open_questions:
   - The 15-year term covers mixed trafficking of marijuana with cocaine and synthetic cannabinoids; no combined total is counted as cannabis.
   - The page gives only its publication date of 2 November 2026 and no separate day for the trial or sentence.
   - The page's only image is explicitly captioned as a symbolic city view of Las Tunas, not the trial, seizure or defendant, so no media entry is added.
+  - The article gives only its publication date of 2 November 2026 and no separate date for the trial or sentence.
+  - The page's only listed image shows the main hall of Cuba's Justice Ministry in Havana, not this trial or seizure, so no media entry is added.
+  - Other trials mentioned in Matanzas, Cienfuegos and Holguin and the 2025 national seizure total are separate events left out here.
 ---
 
 The First Criminal Chamber of the Provincial People's Court in Las Tunas
 sentenced a man to 15 years in prison for trafficking marijuana, cocaine and
-synthetic cannabinoids in the Mexico neighborhood. [@1,2,3,4,5] The court tried the
+synthetic cannabinoids in the Mexico neighborhood. [@1,2,3,4,5,6] The court tried the
 matter as Case 115 of 2026, which state media described as a deterrent example.
 [@1,2,3,4,5] Authorities said electronic surveillance, a specialized investigative
 technique, verified that the defendant was systematically selling those
-substances in that part of the city. [@1,2,3,4,5] Alongside imprisonment, the court
+substances in that part of the city. [@1,2,3,4,5,6] Alongside imprisonment, the court
 imposed loss of public rights, confiscation of seized assets and a ban on
 acquiring a passport or leaving the national territory for the duration of the
-sentence under Law 151 of 2022, the Penal Code. [@1,2,3,4,5]
+sentence under Law 151 of 2022, the Penal Code. [@1,2,3,4,5,6]
 
 State media said the ruling was made in a public hearing that adhered to
 constitutional procedural guarantees and due process. [@1] The case was reported
