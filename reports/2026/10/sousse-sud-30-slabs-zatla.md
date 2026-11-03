@@ -46,6 +46,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-01
     language: fr
+  - title: 'Sousse : un trafiquant interpellé, 30 plaques de cannabis saisies'
+    url: https://realites.com.tn/fr/sousse-un-trafiquant-interpelle-30-plaques-de-cannabis-saisies/
+    publisher: Réalités Magazine
+    date: 2026-11-01
+    language: fr
 open_questions:
   - No weight was given for the 30 slabs, so the seizure is recorded by slab count only.
   - The suspect is not named, and no charge or court outcome has been reported.
@@ -54,6 +59,11 @@ open_questions:
   - The only image on the submitted page is a stock arrest graphic, and no captioned photograph of the seizure was found.
   - Hakaekonline gives no separate date for the operation; 1 November 2026 is the publication date of its account.
   - The police photograph carries no credit line beyond the Sousse Sud placard visible in it.
+  - No weight was given for the 30 slabs, so the seizure remains recorded by slab count only.
+  - The submitted page gives only its publication date of 1 November 2026; the evening of 31 October 2026 comes from the existing report.
+  - The submitted page says Cité Erriadh while the existing report says Hay Riad for the same Msaken movement corridor.
+  - The submitted page says Sousse generally while the existing report places the operation in Sousse Sud.
+  - The page's lead image file Sans-titre-1.jpg has only the generic alt Sans titre-1 and no caption establishing that it shows this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://hakaekonline.com/%D8%B3%D9%88%D8%B3%D8%A9-%D8%AD%D8%AC%D8%B2-30-%D8%B5%D9%81%D9%8A%D8%AD%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D8%A8-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D9%88%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D8%B9%D8%AF%D9%91%D8%A9-%D9%84%D9%84%D9%83%D8%B1%D8%A7%D8%A1/
@@ -63,22 +73,22 @@ media:
 ---
 
 Tuniscope reported that security units in Sousse Sud seized 30 slabs of cannabis
-on the evening of 31 October 2026. [@2,5,6] The substance was cannabis resin, known
+on the evening of 31 October 2026. [@2,5,6,7] The substance was cannabis resin, known
 in Tunisia as zatla, and the slabs were prepared for sale, Radio Marina said.
-[@3] A suspect was arrested, Radio Marina reported. [@3,6] The public prosecutor
-authorised his detention and legal measures against him. [@3] The operation
+[@3] A suspect was arrested, Radio Marina reported. [@3,6,7] The public prosecutor
+authorised his detention and legal measures against him. [@3,7] The operation
 began after information that a man was moving suspiciously between Msaken and
-Hay Riad. [@3] The Sousse Sud judicial police brigade, working with the head of
+Hay Riad. [@3,7] The Sousse Sud judicial police brigade, working with the head of
 the judicial duty centre and the emergency squad, identified and stopped him.
 [@3]
 
 Officers also seized several mobile phones and a luxury car that Radio Marina
-said he used to move the drugs. [@3] Jawhara FM described the car as prepared
+said he used to move the drugs. [@3,7] Jawhara FM described the car as prepared
 for rental. [@1,6]
 
 The Sousse Sud judicial police brigade was still trying to identify and bring in
 the other suspected members of the network, Jawhara FM reported. [@1,4] Radio
 Marina said the investigation was continuing to uncover other possible parties,
-with judicial authorisation. [@3]
+with judicial authorisation. [@3,7]
 
 Police described the network as suspected of supplying, smuggling and promoting drugs inside the country. [@4]
