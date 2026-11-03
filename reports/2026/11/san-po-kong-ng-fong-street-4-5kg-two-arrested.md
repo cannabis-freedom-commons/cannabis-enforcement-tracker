@@ -24,6 +24,11 @@ media:
     media_url: https://hk.on.cc/hk/bkn/cnt/news/20261103/photo/bkn-20261103191303839-1103_00822_001_01p.jpg?20261103191901
     publisher: on.cc東網
     caption: The two arrested men being taken to the police station for investigation
+  - kind: photo
+    url: https://global.hk01.com/%E7%AA%81%E5%8F%91/60406779/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B2%97%E6%89%AB%E6%AF%92%E6%90%9C%E5%B7%A5%E5%8E%A6%E5%8D%95%E4%BD%8D-%E6%A3%80-95%E4%B8%87%E5%A4%A7%E9%BA%BB%E6%8B%98%E4%B8%A4%E7%94%B7
+    media_url: https://cdn.hk01.com/di/media/images/dw/20261103/1194365583617953792572906.jpeg/_HB7Y2lficrnHSsm_UwgyhCU1K0d2eTtfWydpn1snaY?v=w640
+    publisher: 香港01
+    caption: 'Police search of the Ng Fong Street industrial unit showing the seized suspected cannabis. Photo: police handout via 香港01'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 43e49dab726ad3c4f34a63caf35d8ac9
@@ -39,6 +44,11 @@ sources:
     publisher: 星島頭條
     date: 2026-11-03
     language: zh
+  - title: 警新蒲岗扫毒搜工厦单位 检$95万大麻拘两男
+    url: https://global.hk01.com/%E7%AA%81%E5%8F%91/60406779/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B2%97%E6%89%AB%E6%AF%92%E6%90%9C%E5%B7%A5%E5%8E%A6%E5%8D%95%E4%BD%8D-%E6%A3%80-95%E4%B8%87%E5%A4%A7%E9%BA%BB%E6%8B%98%E4%B8%A4%E7%94%B7
+    publisher: 香港01
+    date: 2026-11-03
+    language: zh
 open_questions:
   - Only one source could be opened for this event, so no independent corroboration was available.
   - No charge beyond arrest and detention, and no court outcome, was reported.
@@ -48,18 +58,18 @@ open_questions:
 
 After an in-depth investigation, officers from Yau Tsim District carried out an
 anti-drug operation in Wong Tai Sin District on the night of 2 November 2026.
-[@1,2] During the operation inside an industrial building on Ng Fong Street in San
-Po Kong, officers intercepted two local men who appeared suspicious. [@1,2]
+[@1,2,3] During the operation inside an industrial building on Ng Fong Street in San
+Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3]
 Officers searched a unit in the same industrial building that was rented by one
 of the two men. [@1,2] The two local men, aged 22 and 24, were arrested on
 suspicion of trafficking in dangerous drugs and remained in detention pending
-investigation. [@1,2]
+investigation. [@1,2,3]
 
 The search recovered about 4,500 grams of suspected cannabis, together with a
-batch of suspected drug-packaging tools. [@1,2] The packaging tools included
+batch of suspected drug-packaging tools. [@1,2,3] The packaging tools included
 electronic scales and a sealing machine, according to the police account. [@1]
 Police estimated the total market value of the seized drugs at about HK$950,000.
-[@1,2]
+[@1,2,3]
 
 Under Chapter 134 of Hong Kong's laws, the Dangerous Drugs Ordinance,
 trafficking means selling or supplying a dangerous drug to another person. [@1]
