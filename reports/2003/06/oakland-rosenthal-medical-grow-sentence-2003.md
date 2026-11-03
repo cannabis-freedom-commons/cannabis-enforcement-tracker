@@ -27,14 +27,16 @@ sources:
   - title: Grow guru on world's most progressive TV show
     publisher: Cannabis Culture
     url: https://www.cannabisculture.com/content/2005/06/08/4381/
+    archived: https://web.archive.org/web/20181026000212/https://www.cannabisculture.com/content/2005/06/08/4381/
     date: 2005-06-08
   - title: Ninth Circuit Overturns Rosenthal Conviction
     publisher: NORML
     url: https://norml.org/news/2006/04/27/ninth-circuit-overturns-rosenthal-conviction/
+    archived: https://web.archive.org/web/20260531063928/https://norml.org/news/2006/04/27/ninth-circuit-overturns-rosenthal-conviction/
     date: 2006-04-27
 open_questions:
   - The opened sources give no plant count for Rosenthal's own Oakland grow room, and the 3,163-plant figure covers several sites raided across the San Francisco area the same day.
-  - Later appeals and any retrial after the 2006 reversal are separate events not covered here.
+  - The 2007 federal retrial is covered in its own report.
 ---
 
 Federal judge Charles R. Breyer sentenced Oakland marijuana grower Ed Rosenthal to one day in
