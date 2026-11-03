@@ -28,21 +28,27 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-03
     language: hi
+  - title: 'ऊना में आधी रात को पुलिस ने रोकी बाइक: तलाशी में मिला 3.462 किलो चरस का जखीरा, तीसरा युवक अंधेरे में फरार'
+    url: https://jeevanutsahnews.in/hi/news/una-charas-seized-two-arrested/?language_id=2
+    publisher: Jeevan Utsah Media
+    date: 2026-11-03
+    language: hi
 open_questions:
   - No second report of the same event was found; the account rests on a single opened source.
   - The year 2026 for the 31 October night is inferred from the 3 November 2026 publication date.
   - No outcome beyond the five-day police remand was reported.
   - The identity and outcome of the third rider who escaped were not reported.
   - The page image file path dates to 2021, so whether the displayed photo shows this 2026 seizure is not established.
+  - The page carries a lead photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 SIU Una arrested two youths riding a motorcycle at Bharwain and seized 3 kg 462
-g of charas from them. [@1] Police identified the two as 35-year-old
+g of charas from them. [@1,2] Police identified the two as 35-year-old
 Chandramohan Sharma of Marwadi and 23-year-old Rahul Bhatol of Babehad, both in
-Ghanari tehsil of Una district. [@1] A third man who was also on the motorcycle
+Ghanari tehsil of Una district. [@1,2] A third man who was also on the motorcycle
 jumped toward a slope and escaped in the darkness when police signalled the
-vehicle to stop. [@1] After production in court on Sunday, both arrested men
-were sent to five days of police remand. [@1]
+vehicle to stop. [@1,2] After production in court on Sunday, both arrested men
+were sent to five days of police remand. [@1,2]
 
 Police said they also recovered a digital electronic scale from the accused
 along with the charas. [@1] Charas is cannabis resin. [@1]
@@ -50,9 +56,8 @@ along with the charas. [@1] Charas is cannabis resin. [@1]
 On the night of 31 October, an SIU Una team led by Inspector Rinku was
 patrolling the area when it received a tip that a red Bajaj Discover motorcycle
 coming from Mubarikpur toward Bharwain was carrying a large quantity of charas.
-[@1] The tip said three men were on the motorcycle and had a heavy quantity of
+[@1,2] The tip said three men were on the motorcycle and had a heavy quantity of
 charas with them. [@1] Acting on the tip, the team set up a blockade near Shiv
-temple at Bharwain and intercepted the motorcycle at about 11:10 pm. [@1] The
+temple at Bharwain and intercepted the motorcycle at about 11:10 pm. [@1,2] The
 action took place within the jurisdiction of Chintpurni police station at
 Bharwain in Una. [@1]
-
