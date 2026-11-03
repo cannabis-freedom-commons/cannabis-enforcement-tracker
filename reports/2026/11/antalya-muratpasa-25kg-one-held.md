@@ -76,6 +76,11 @@ sources:
     publisher: MYGAZETE
     date: 2026-11-03
     language: tr
+  - title: Antalya’da zehir tacirlerine darbe! 25 Kilo esrar ele geçirildi
+    url: https://www.nnchaber.com/amp/antalya-da-zehir-tacirlerine-darbe-25-kilo-esrar-ele-gecirildi
+    publisher: NNCHaber.com
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The reports give only the publication date of 3 November 2026 and no separate day for the raid.
   - No independent weighing of the cannabis is reported beyond the police figure of 25 kilograms.
@@ -83,17 +88,18 @@ open_questions:
   - The Haberler and Son Dakika accounts reprint the İhlas Haber Ajansı report and add no independent reporting.
   - The page image is captioned only with the article headline and is not established to show this seizure, so no media entry is included.
   - The MYGAZETE seizure photos reuse the IHA agency handout already listed in the existing report's media, so no new media entry is added.
+  - The NNC Haber page image is captioned only with the article headline and is not established to show this seizure, so no new media entry is added.
 ---
 
 Antalya anti-narcotics police detained a suspect identified only as Y.K. during
-an operation in Muratpaşa district. [@1,4,5,6,7,8] Police said Y.K. had brought narcotic
+an operation in Muratpaşa district. [@1,4,5,6,7,8,10] Police said Y.K. had brought narcotic
 and stimulant substances into Antalya in order to sell and distribute them. [@1,6]
 He was referred to the judicial authorities on suspicion of trading and
-supplying drugs. [@2] He was then remanded in custody. [@3,4,5,6,7,8,9]
+supplying drugs. [@2] He was then remanded in custody. [@3,4,5,6,7,8,9,10]
 
 Officers searching his residence seized 25 kilograms of cannabis, called esrar
-in the Turkish reports. [@1,4,5,6,7,8,9] The cannabis was divided into 50 separate plastic
-bags. [@1,4,5,6,7,8,9] Police said the bags were hidden inside a suitcase and under a bed
+in the Turkish reports. [@1,4,5,6,7,8,9,10] The cannabis was divided into 50 separate plastic
+bags. [@1,4,5,6,7,8,9,10] Police said the bags were hidden inside a suitcase and under a bed
 base. [@3,9] No other suspect was reported as detained in the operation. [@1]
 
 The operation was carried out by the Anti-Narcotics Crime Branch of the Antalya
