@@ -75,6 +75,11 @@ sources:
     publisher: Niaga.Asia
     date: 2026-11-02
     language: id
+  - title: Bareskrim Temukan Ladang Ganja 25 Hektare di Aceh Utara, Tanaman Dimusnahkan
+    url: https://www.westjavatoday.com/bareskrim-temukan-ladang-ganja-25-hektare-di-aceh-utara-tanaman-dimusnahkan
+    publisher: WestJavaToday
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -95,13 +100,15 @@ open_questions:
   - The listed phase areas and plant counts add to more than the official 122.86-hectare total; the report keeps the official total.
   - The page image has no caption or credit establishing that it shows this event, so no media entry is added.
   - 'Left out, as its quotation was not found in Kalimantan Kita: On 31 October 2026, officers destroyed about 77 hectares of cannabis at Desa Blang Meurande and Beutong Ateuh–Benggala.'
+  - The submitted page names no arrests, plant counts or weights for the 25-hectare phase.
+  - The submitted page attributes the 25-hectare find to the joint Bareskrim, BNN RI and Polda Aceh team, while the existing report lists the 2 November 25-hectare phase under Lhokseumawe police within the wider campaign.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
 [@1,2] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3] In North Aceh on
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
 HM. [@1,4,6] Investigators designated three of the four as suspects and released HM
@@ -118,7 +125,7 @@ public tip on 29 October about suspected planting at Tor Sihite. [@1] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
 in Nagan Raya on 31 October. [@1] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
-2 November. [@1,2,3] Police added about 0.04 hectares uprooted in Bener Meriah and
+2 November. [@1,2,3,8] Police added about 0.04 hectares uprooted in Bener Meriah and
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6]
 
 Police said the eradication was intended to break the narcotics distribution
