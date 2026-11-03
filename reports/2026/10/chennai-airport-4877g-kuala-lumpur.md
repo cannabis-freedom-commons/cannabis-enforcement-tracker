@@ -65,6 +65,11 @@ sources:
     publisher: Dinakaran
     date: 2026-11-02
     language: ta
+  - title: மலேசியாவிலிருந்து கடத்தி வரப்பட்ட ரூ.4.80 கோடி கஞ்சா பறிமுதல்!
+    url: https://www.dinamani.com/amp/story/all-editions/edition-chennai/chennai/2026/Nov/01/cannabis-worth-rs-480-crore-smuggled-from-malaysia-seized
+    publisher: Dinamani
+    date: 2026-11-02
+    language: ta
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -92,6 +97,7 @@ open_questions:
   - No verifiable event photo could be recovered from the opened Dinamalar text capture, so no media entry is made.
   - This page gives 4.80 kg and Rs 4.80 crore while the existing report uses 4.877 kg and Rs 1.71 crore from other outlets.
   - This page gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
+  - 'Left out, as its quotation was not found in Dinamani: She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling.'
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
@@ -101,7 +107,7 @@ media:
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1,3,4,5,6,7,8,9] She had flown in from the capital, Kuala Lumpur, and
+arrived from Malaysia. [@1,3,4,5,6,7,8,9,10] She had flown in from the capital, Kuala Lumpur, and
 was 28 years old. [@1,5,8] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
@@ -115,4 +121,4 @@ An official said further investigation was under way. [@2,3] Customs' intelligen
 wing had put the airport under watch after a tip-off that narcotics were being
 brought into Chennai from abroad. [@1]
 
-The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6,7,8,9] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4,7] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6,7,8,9]
+The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6,7,8,9,10] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4,7] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6,7,8,9]
