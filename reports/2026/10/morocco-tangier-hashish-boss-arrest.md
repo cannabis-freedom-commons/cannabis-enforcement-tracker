@@ -56,6 +56,11 @@ sources:
     publisher: مجلة طنجة نيوز
     date: 2026-11-01
     language: ar
+  - title: Detenido “El Moreno”, el presunto narco que vivía en El Soto de La Moraleja
+    url: https://www.tribunadelamoraleja.com/detenido-el-moreno-el-presunto-narco-que-vivia-en-el-soto-de-la-moraleja
+    publisher: Tribuna de la Moraleja
+    date: 2026-11-02
+    language: es
 open_questions:
   - Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost 20'. The report uses 18.
   - El Diario de Málaga describes all 86 detainees as accused of the three offences, while Barlamane says the 18 jailed were charged with them; the figures count 18 as charged.
@@ -65,22 +70,24 @@ open_questions:
   - The new account rounds the seizure to about 11 tonnes of hashish, while the existing report uses the police figure of 10.8 tonnes of cannabis resin plus 20 kg of marijuana buds.
   - The new account gives only its publication date of 1 November 2026 and does not give a separate arrest date; the report keeps 8 October from the earlier police announcement.
   - The page's lead image has no caption or alt text confirming it shows this event, so it is not listed as media.
+  - The submitted article reports 86 detainees across seven Spanish provinces while separately reporting the leader's arrest in Tangier, leaving unclear whether the leader is counted in the 86; the matched report uses 86 total while a parallel report uses 87.
+  - The page carries a lead image captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
 ---
 
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 'Moreno', one of Spain's main cannabis resin traffickers, had been arrested in
 Tangier. [@1] He had left his luxury residence in Madrid in March to avoid
-justice and was out of sight for more than six months. [@1] Moroccan authorities
+justice and was out of sight for more than six months. [@1,8] Moroccan authorities
 detained him in Tangier on 8 October through international police cooperation.
-[@3] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7] Rabat has
+[@3,8] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7,8] Rabat has
 accepted the extradition request. [@3]
 
-The police operation concluded with 86 arrests. [@2,4,5,7] Eighteen of them were
+The police operation concluded with 86 arrests. [@2,4,5,7,8] Eighteen of them were
 placed in pre-trial detention, accused of criminal organisation, drug
 trafficking and money laundering. [@1] UDYCO, Spain's central unit for drugs and
 organised crime, opened the case in early 2025. [@1] It uncovered seven drug
 caches in Madrid, Guadalajara and Valencia. [@1] Officers seized 10.8 tonnes of
-cannabis resin and 20 kg of marijuana buds. [@1] Most of the arrests were in
+cannabis resin and 20 kg of marijuana buds. [@1,8] Most of the arrests were in
 Madrid (65), followed by Guadalajara (10), Valencia (5) and Málaga (3), with one
 each in Burgos, Almería and Girona. [@1]
 
@@ -95,3 +102,5 @@ major crime. [@1] Investigating judge Francisco de Jorge has led the case with
 the Special Anti-Drug Prosecutor's Office. [@3]
 
 Javier Ramos, head of the National Police's central drugs and organised crime brigade (UDYCO), said El Moreno had survived a kidnapping attempt and an attempt on his life. [@5] In Madrid, the network hid hashish in houses on residential estates and brought the drugs in through their garages. [@5] He already had a drug-trafficking record and was arrested over similar offences in 2009. [@6]
+
+The network stored hashish in private homes on residential estates in Sanchinarro, Las Tablas and El Cañaveral. [@8] Officers found nearly two tonnes of drugs in one of the houses in Las Tablas. [@8]
