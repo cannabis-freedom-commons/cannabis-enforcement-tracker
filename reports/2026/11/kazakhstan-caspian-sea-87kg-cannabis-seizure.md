@@ -20,6 +20,11 @@ media:
     media_url: https://www.gov.kz/uploads/2026/11/3/544e94f2b207579d0564c71124d7ed41b2769109ba096241fda5ba4786349c0b_1280x720.jpg
     publisher: Committee for National Security of Kazakhstan
     caption: 'Officers with detained persons at night beside seized bags and packages from the Caspian operation. Photo: Press service of the National Security Committee'
+  - kind: video
+    url: https://almaty.tv/ru/news/zakon-i-poryadok/pocti-110-kg-narkotikov-iz-ali-v-akvatorii-kaspijskogo-mora
+    media_url: https://www.youtube.com/embed/alEr9iDdb2I
+    publisher: Almaty.tv
+    caption: Embedded operational video of the Caspian Sea drug-channel interception.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 10caa99e5c62b4b1b0d4ff9cecbfa3f1
@@ -65,28 +70,37 @@ sources:
     publisher: АЗЕРТАДЖ
     date: 2026-11-03
     language: ru
+  - title: Почти 110 кг наркотиков изъяли в акватории Каспийского моря
+    url: https://almaty.tv/ru/news/zakon-i-poryadok/pocti-110-kg-narkotikov-iz-ali-v-akvatorii-kaspijskogo-mora
+    publisher: Almaty.tv
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The 87 kg cannabis total is the sum of the separately stated 27 kg of hashish and 60 kg of marijuana; the 22 kg of opium from the same operation is excluded from cannabis figures.
   - The names, ages, detailed nationalities and procedural status of the five detained people were not published.
   - No court outcome was reported; the pre-trial investigation was still under way when announced.
   - Both accessible reports relay the same KNB statement and are not independent of each other.
   - The exact location on the Caspian Sea and coastal area was not specified beyond Mangistau Region, so regional coordinates are used.
+  - The article gives only its publication date of 3 November 2026 and no separate operation date; the existing report dates the detentions to 1 November 2026 from the KNB announcement.
+  - Almaty.tv describes the operation as the National Security Committee with Mangistau police, while the existing report describes the Border Service with the Committee's Mangistau department, treated here as the same joint operation.
+  - Almaty.tv does not state the nationalities of the two people detained in the coastal area; their identification as Kazakh citizens in the existing report comes from its other sources.
+  - The headline figure of almost 110 kg is the combined total of 22 kg of opium plus 27 kg of hashish plus 60 kg of marijuana; only the 87 kg hashish-plus-marijuana part counts as cannabis.
 ---
 
 Kazakhstan's National Security Committee said an international drug channel
-operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8] On 1 November, the
+operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9] On 1 November, the
 Border Service together with the committee's Mangistau Region department
-detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8] Two
-Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8]
+detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9] Two
+Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9]
 The committee presented the detentions on the water and on the coast as parts of
 the same operation. [@1]
 
-Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8]
+Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9]
 The two cannabis seizures together amount to 87 kg of cannabis covered by this
 report. [@2] Officers also seized 22 kg of opium and a small fast boat alongside
-the cannabis. [@1,3,4,7,8]
+the cannabis. [@1,3,4,7,8,9]
 
-A pre-trial investigation was opened into the case. [@2,3,4,5,6,8] The committee said
+A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9] The committee said
 further information cannot be disclosed under part 1 of article 201 of the
 Criminal Procedure Code. [@2] The committee published the announcement on 3
 November 2026. [@2] The announcement was issued by the committee's press
