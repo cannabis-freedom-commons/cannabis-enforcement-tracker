@@ -33,16 +33,28 @@ sources:
     publisher: ANTARA
     date: 2026-11-03
     language: id
+  - title: 'Polda Metro: Penyitaan 44,1 Kg Ganja Selamatkan 132 Ribu Jiwa'
+    url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
+    publisher: MetroTVNews
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
   - The pages carry press-conference photos but their captions do not establish that they show the seized cannabis, so no media entry is added.
   - The alleged controller is known only by the initial K and remains wanted, with no court outcome reported yet.
+  - The submitted page gives only the 3 November 2026 press-conference and publication date and does not state the 31 October 2026 seizure date or Jagorawi rest-area location, so the event date and place continue to rely on earlier sources.
+media:
+  - kind: photo
+    url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
+    media_url: https://cdn25.metrotvnews.com/dynamic/content/2026/11/03/N0BCgxWl/a_6ae9aaaa0a964.jpeg?w=720
+    publisher: MetroTVNews
+    caption: 'Seized cannabis evidence held by Ditresnarkoba Polda Metro Jaya. Photo: Metro TV/Damar.'
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
 rest area on 31 October 2026. [@3] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3] Police said they had followed him overland all the
+of cannabis at the time. [@3,4] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1]
 
@@ -55,6 +67,7 @@ kilogram he carried. [@1]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
-years in prison. [@3] Police said they had identified the alleged controller,
+years in prison. [@3,4] Police said they had identified the alleged controller,
 initialled K, who is on the wanted list and is being pursued. [@1]
 
+At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
