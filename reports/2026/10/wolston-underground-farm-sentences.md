@@ -27,6 +27,7 @@ open_questions:
   - The three bailed Coventry men aged 42, 43 and 63 were not further described in the sentencing coverage opened.
   - The Warwickshire World account is an SWNS wire report, so it is not independent of other outlets that carried the same copy.
   - The page mentions police bodycam footage of the search but carries no video, so no footage is linked.
+  - The submitted page gives its publication date of 2 November 2026 and no separate day for the sentencing; the 26 October 2026 sentencing date rests on the existing report's earlier sources.
 sources:
   - title: "Men jailed over underground cannabis production in Warwickshire"
     url: https://www.bbc.com/news/articles/crkg710lg0q9o
@@ -40,6 +41,10 @@ sources:
     url: https://www.warwickshireworld.com/news/crime/two-men-jailed-after-police-uncover-ps500000-cannabis-farm-hidden-in-underground-bunkers-near-rugby-9320294
     publisher: WarwickshireWorld
     date: 2026-10-30
+  - title: Two jailed after £500,000 secret cannabis farm found beneath shipping container
+    url: https://www.birmingham-now.co.uk/news/26692750.two-men-jailed-500-000-secret-underground-cannabis-farm/
+    publisher: Birmingham Now
+    date: 2026-11-02
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/crkg710lg0q9o
@@ -55,13 +60,13 @@ media:
 
 On 19 August 2026 Warwickshire Police searched a shipping container in countryside near Wolston and
 found a hatch leading to an underground cannabis farm. [@2,3] Five people on the site were arrested;
-two were later charged and three bailed. [@2,3]
+two were later charged and three bailed. [@2,3,4]
 
 Gjergivatal Pjeter, 33, of New Market Street, Birmingham, and Eldoh Sylaj, 31, of Upper Stone
-Street, Maidstone, admitted being concerned in producing Class B cannabis. [@1,3] At Warwick Crown Court
-on Monday 26 October 2026 they were each sentenced to 22 months in prison. [@1,3]
+Street, Maidstone, admitted being concerned in producing Class B cannabis. [@1,3,4] At Warwick Crown Court
+on Monday 26 October 2026 they were each sentenced to 22 months in prison. [@1,3,4]
 
-Police estimated the crop at about £500,000. [@1,2,3] The court ordered the cannabis destroyed and each
+Police estimated the crop at about £500,000. [@1,2,3,4] The court ordered the cannabis destroyed and each
 man to pay a £187 victim surcharge. [@1,3]
 
 ---
