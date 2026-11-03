@@ -208,7 +208,24 @@ configuration. For historical reports without recorded attribution, or when the 
 not disclose its identity, write `created_by_model: unknown` and explain the limitation.
 Preserve the original creator when updating a report. Do not add update-model metadata. The report page shows recorded attribution or "not recorded".
 
-## 11. Permanent report code
+## 11. Addition and update times
+
+Keep the incident `date` separate from `added_at`, the UTC timestamp when a report first enters
+the tracker. `npm run codes -- <new/updated report paths>` assigns addition metadata automatically;
+the submission service assigns it to new accepted drafts itself. Do not use an article publication
+date or submission receipt time as the tracker addition time. Preserve the original `added_at` and
+`added_at_source` on edits, renames and date-folder moves.
+
+Existing reports have their Git addition times written directly into their front matter.
+Git times are the relevant tracker times; `added_at_source: git` records their origin.
+Bulk additions share a timestamp. Missing or shallow history leaves unknown times unset.
+
+Last-update times are derived from committed Git content changes, ignoring addition-timestamp
+metadata migrations. Do not store `updated_at` in report files. A report without a later content
+change has no update label. `npm run times` persists recoverable addition times. Report details show
+relative addition/update times, with exact UTC timestamps on hover; lists show only incident dates.
+
+## 12. Permanent report code
 
 Every report must store `code` as a six-character Crockford base32 string, without the `CET-`
 display prefix. Assign it with `npm run codes -- <new/updated report paths>` before the build

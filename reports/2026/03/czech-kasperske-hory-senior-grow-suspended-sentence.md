@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T13:19:24.000Z"
 code: HSGJWT
 date: 2026-03-04
 country: cz

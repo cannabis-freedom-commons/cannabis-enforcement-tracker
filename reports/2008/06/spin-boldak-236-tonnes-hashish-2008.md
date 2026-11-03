@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T13:04:21.000Z"
 code: NH92WE
 date: 2008-06-09
 country: af

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T19:18:40.000Z"
 code: QS6BAN
 date: 2026-10-23
 country: mw

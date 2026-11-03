@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T00:03:02.000Z"
 code: KP47S4
 date: 2026-05-08
 country: ke

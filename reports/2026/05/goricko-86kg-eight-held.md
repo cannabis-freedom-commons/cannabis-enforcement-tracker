@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T11:54:35.000Z"
 code: GV19N7
 date: 2026-05-04
 country: si

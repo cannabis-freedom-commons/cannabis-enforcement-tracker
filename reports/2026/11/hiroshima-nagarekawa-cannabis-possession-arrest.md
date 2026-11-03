@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T11:25:15.000Z"
 code: GQSHVE
 date: 2026-11-03
 country: jp

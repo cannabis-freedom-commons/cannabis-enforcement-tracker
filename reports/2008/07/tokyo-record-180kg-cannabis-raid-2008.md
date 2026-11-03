@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:03:18.000Z"
 code: STQ3Q5
 date: 2008-07-17
 country: jp

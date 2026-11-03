@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T15:35:07.000Z"
 code: KRH1N6
 date: 2026-10-29
 country: sv

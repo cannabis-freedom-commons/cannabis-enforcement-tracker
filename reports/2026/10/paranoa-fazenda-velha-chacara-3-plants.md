@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T10:52:46.000Z"
 code: SFEVWC
 date: 2026-10-31
 country: br

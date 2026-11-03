@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T23:25:57.000Z"
 code: GEDYAR
 date: 2025-10-18
 country: cn

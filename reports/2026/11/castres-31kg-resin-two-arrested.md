@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T13:28:24.000Z"
 code: FW1G6D
 date: 2026-11-02
 country: fr

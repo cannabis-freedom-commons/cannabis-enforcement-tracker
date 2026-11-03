@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T22:08:34.000Z"
 code: CK35VH
 date: 2026-10-06
 country: th

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T22:35:43.000Z"
 code: XHREG1
 date: 2018-11-08
 country: tr

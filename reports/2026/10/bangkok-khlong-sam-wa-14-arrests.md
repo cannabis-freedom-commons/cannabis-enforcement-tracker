@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T09:08:45.000Z"
 code: 3E7WCX
 date: 2026-10-31
 country: th

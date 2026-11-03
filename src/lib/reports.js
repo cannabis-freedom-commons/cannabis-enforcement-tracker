@@ -5,16 +5,25 @@ import { TYPES } from "./types.js";
 import { countryName, countryOf } from "./countries.js";
 import { centreOf } from "./map.js";
 import { figureRows } from "./figures.js";
+import { relative } from "node:path";
+import { readReportHistory } from "./report-history.js";
+import { compareReports } from "./report-time.js";
+
+export const reportHistory = readReportHistory();
 
 export const formatDate = (d) => d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" });
 export const isoDate = (d) => d.toISOString().slice(0, 10);
 export { figureRows };
 
 const entries = await getCollection("reports");
-export const reports = entries.map(({ id, data, body }) => {
+export const reports = entries.map(({ id, data, body, filePath }) => {
+  const history = filePath ? reportHistory.get(relative(process.cwd(), filePath).replaceAll("\\", "/")) : null;
   const coordinates = data.coordinates ?? centreOf(data.country);
   return {
     id, ...data, body,
+    added_at: data.added_at ?? history?.addedAt ?? null,
+    updated_at: history?.updatedAt ?? null,
+    added_at_source: data.added_at ? data.added_at_source ?? "recorded" : history?.addedAt ? "git" : null,
     url: `report/${id}/`,
     countryName: countryName(data.country),
     parent: countryOf(data.country)?.parent ?? null,
@@ -29,7 +38,7 @@ export const reports = entries.map(({ id, data, body }) => {
     // publisher, never copied); a report's own cover image comes first where there is one
     photo: data.media?.find((m) => m.kind === "photo" && /^https?:\/\//.test(m.media_url ?? ""))?.media_url ?? null,
   };
-}).sort((a, b) => b.date - a.date || a.title.localeCompare(b.title));
+}).sort(compareReports);
 
 // Indexes, so pages stay quick with thousands of reports: by country (a country's list includes
 // its states': "us" also lists "us/ca"), by type, and by month ("2026-08"), each newest first.
@@ -82,21 +91,21 @@ export const countriesWithReports = () => {
   return [...m].map(([id, n]) => ({ id, name: countryName(id), count: n })).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
 };
 
-// reports like this one: same country and type first, then same country, then same type; nearest
-// in time first. Looks only at the report's country and type, not at every report.
+// reports like this one: same country and type first, then same country, then same type; newest
+// first by incident date and then addition time within each day. Looks only at the report's country and type.
 export function related(r, n = 4) {
   const sameCountry = reportsOf(r.parent ?? r.country);
   const pool = new Set([...sameCountry, ...(byType.get(r.type) ?? []).slice(0, 200)]);
   pool.delete(r);
   const score = (o) => (sameCountry.includes(o) ? 2 : 0) + (o.type === r.type ? 1 : 0);
-  return [...pool].sort((a, b) => score(b) - score(a) || Math.abs(a.date - r.date) - Math.abs(b.date - r.date)).slice(0, n);
+  return [...pool].sort((a, b) => score(b) - score(a) || compareReports(a, b)).slice(0, n).sort(compareReports);
 }
 
 // One report as a row of the shared index (/api/index.json) that the map and the home page's
 // filters load: short keys, only what a list item and a map dot need.
 export function indexRow(r) {
   return {
-    i: r.id, d: isoDate(r.date), c: r.country, t: r.type, a: r.also ?? [],
+    i: r.id, d: isoDate(r.date), ...(r.added_at ? { at: r.added_at } : {}), c: r.country, t: r.type, a: r.also ?? [],
     ti: r.title, s: r.summary, p: r.place ?? null,
     ll: r.coordinates ? [r.coordinates[1], r.coordinates[0]] : null, // [lon, lat], as GeoJSON
     pr: r.precision ?? null, // how precise ll is (types.js PRECISION)
@@ -115,6 +124,9 @@ export function compact(r, site) {
     url: new URL(r.url, site).href,
     short_url: new URL(`r/${r.code}/`, site).href,
     date: isoDate(r.date),
+    added_at: r.added_at,
+    added_at_source: r.added_at_source,
+    updated_at: r.updated_at,
     country: r.country,
     country_name: r.countryName,
     place: r.place ?? null,

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T03:20:50.000Z"
 code: SCQ2HC
 date: 2026-11-01
 country: br

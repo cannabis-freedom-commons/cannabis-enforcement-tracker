@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:22:15.000Z"
 code: T19ZNT
 date: 2026-03-27
 country: gt

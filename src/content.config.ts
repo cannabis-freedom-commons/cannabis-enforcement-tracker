@@ -52,6 +52,8 @@ const reports = defineCollection({
     return report;
   }, z.object({
     code: z.string().regex(/^[0-9A-HJKMNP-TV-Z]{6}$/, { message: "six characters of Crockford base32; npm run codes writes it" }), // required permanent short id, CET-XXXXXX (scripts/codes.mjs)
+    added_at_source: z.enum(["recorded", "git"]).optional(), // timestamp origin
+    added_at: z.string().datetime().optional(), // UTC timestamp when first accepted into the tracker; immutable
     date: day, // when it happened (or, for a campaign, when it ended or was announced)
     country: z.enum(COUNTRY_IDS), // a country file of the Cannabis Freedom Index: "de", "us/ca"
     place: z.string().min(1).optional(),
@@ -88,6 +90,7 @@ const reports = defineCollection({
     open_questions: z.array(z.string().trim().min(1).max(4000)).max(30).optional(),
     sources: z.array(source).min(1, { message: "a report needs at least one source" }),
   }).strict()
+    .refine((r) => !r.added_at_source || r.added_at, { message: "added_at_source needs added_at" })
     .refine((r) => !r.coordinates || r.precision, { message: "coordinates need a precision" })
     .refine((r) => !r.also?.includes(r.type), { message: "`also` repeats the main type" })),
 });

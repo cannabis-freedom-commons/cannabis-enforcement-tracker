@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T13:20:18.000Z"
 code: YNK66Y
 date: 2026-10-29
 country: mx

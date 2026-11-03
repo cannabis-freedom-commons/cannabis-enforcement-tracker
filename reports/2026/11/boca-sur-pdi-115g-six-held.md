@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T02:15:49.000Z"
 code: ESKE5H
 date: 2026-11-01
 country: cl

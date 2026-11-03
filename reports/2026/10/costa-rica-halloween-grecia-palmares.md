@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T14:57:56.000Z"
 code: EFGT2C
 date: 2026-10-30
 country: cr

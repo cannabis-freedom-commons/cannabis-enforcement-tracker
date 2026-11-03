@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T09:46:03.000Z"
 code: PD6NAX
 date: 2026-10-26
 country: br

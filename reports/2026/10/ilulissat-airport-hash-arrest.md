@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T14:02:52.000Z"
 code: GKRN8X
 date: 2026-10-29
 country: gl

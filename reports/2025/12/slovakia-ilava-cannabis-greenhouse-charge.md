@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T15:23:29.000Z"
 code: NGT9S9
 date: 2025-12-12
 country: sk

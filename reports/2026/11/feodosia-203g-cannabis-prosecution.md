@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T06:03:37.000Z"
 code: AE8EBG
 date: 2026-11-02
 country: ru

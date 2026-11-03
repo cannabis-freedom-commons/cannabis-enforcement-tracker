@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T18:07:54.000Z"
 code: 6SVQWN
 date: 2026-11-02
 country: kg

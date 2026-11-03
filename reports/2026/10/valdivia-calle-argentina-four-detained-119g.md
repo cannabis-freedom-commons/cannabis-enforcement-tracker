@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T06:58:03.000Z"
 code: B4SZBD
 date: 2026-10-05
 country: cl

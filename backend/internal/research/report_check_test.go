@@ -65,3 +65,19 @@ func TestCheckReportNamesWhatIsWrong(t *testing.T) {
 		}
 	}
 }
+
+// Keep the service consistent with source metadata already accepted by the Astro schema.
+func TestSourceMonthAndThreeLetterLanguage(t *testing.T) {
+	r := valid()
+	r.Facts = []Fact{{Text: strings.Repeat("Police raided the farm and arrested two men. ", 6), Source: 1, Quote: "q", Paragraph: 1}}
+	r.Sources[0].Date = "2026-01-03"
+	r.Sources[0].Language = "ilo"
+	md := strings.Replace(r.Markdown(), "    date: 2026-01-03", "    date: 2026-01", 1)
+	if err := CheckReport(repo, "reports/2026/01/example-raid.md", md); err != nil {
+		t.Fatal(err)
+	}
+	md = strings.Replace(md, "\ndate: 2026-01-02", "\ndate: 2026-01", 1)
+	if err := CheckReport(repo, "reports/2026/01/example-raid.md", md); err == nil {
+		t.Fatal("incident without a day accepted")
+	}
+}

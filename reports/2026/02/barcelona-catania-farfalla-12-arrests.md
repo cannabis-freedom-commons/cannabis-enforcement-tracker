@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T17:21:05.000Z"
 code: YD7PYD
 date: 2026-02-10
 country: es

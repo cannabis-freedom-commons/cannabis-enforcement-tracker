@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T18:07:03.000Z"
 code: GK1WCK
 date: 2026-10-22
 country: fr

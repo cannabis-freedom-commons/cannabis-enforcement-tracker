@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T06:07:50.000Z"
 code: H2SZ03
 date: 2026-10-29
 country: br

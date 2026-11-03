@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T14:22:15.000Z"
 code: GF1TFR
 date: 2016-08-24
 country: tr

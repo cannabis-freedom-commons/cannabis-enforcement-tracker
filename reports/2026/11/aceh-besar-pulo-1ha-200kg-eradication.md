@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T15:15:22.000Z"
 code: 2PFNY6
 date: 2026-11-01
 country: id

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T18:01:25.000Z"
 code: JA8KYG
 date: 2026-07-29
 country: pw

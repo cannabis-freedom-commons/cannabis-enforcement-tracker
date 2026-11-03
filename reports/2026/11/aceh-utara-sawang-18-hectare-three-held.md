@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T00:26:53.000Z"
 code: SHS2TB
 date: 2026-11-02
 country: id

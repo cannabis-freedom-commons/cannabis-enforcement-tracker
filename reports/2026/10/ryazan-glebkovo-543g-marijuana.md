@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T23:05:19.000Z"
 code: EBDH25
 date: 2026-10-21
 country: ru

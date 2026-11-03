@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T20:44:09.000Z"
 code: 6S7THM
 date: 2026-11-02
 country: ua

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T11:29:58.000Z"
 code: P5SNVT
 date: 2026-10-19
 country: th

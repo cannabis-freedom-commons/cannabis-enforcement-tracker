@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:05:40.000Z"
 code: 80SCFF
 date: 2026-01-21
 country: de

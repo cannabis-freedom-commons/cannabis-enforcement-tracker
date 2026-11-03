@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:52:19.000Z"
 code: HNYM1Q
 date: 2026-10-24
 country: fr

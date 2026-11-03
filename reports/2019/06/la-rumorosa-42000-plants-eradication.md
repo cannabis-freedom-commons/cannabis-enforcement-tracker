@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:03:18.000Z"
 code: EN70QG
 date: 2019-06-11
 country: mx

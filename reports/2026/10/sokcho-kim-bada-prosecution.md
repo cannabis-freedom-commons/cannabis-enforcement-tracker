@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T11:40:54.000Z"
 code: HE2JH6
 date: 2026-10-28
 country: kr

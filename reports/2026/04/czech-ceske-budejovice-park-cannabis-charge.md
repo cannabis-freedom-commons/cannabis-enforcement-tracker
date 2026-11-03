@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T13:45:41.000Z"
 code: KQ39QS
 date: 2026-04-01
 country: cz

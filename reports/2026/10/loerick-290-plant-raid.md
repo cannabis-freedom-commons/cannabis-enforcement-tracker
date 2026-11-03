@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T14:36:11.000Z"
 code: KMVZ43
 date: 2026-10-04
 country: de

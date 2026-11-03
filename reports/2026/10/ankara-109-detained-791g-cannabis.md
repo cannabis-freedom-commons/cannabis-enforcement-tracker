@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T05:48:01.000Z"
 code: JQ8NCF
 date: 2026-10-31
 country: tr

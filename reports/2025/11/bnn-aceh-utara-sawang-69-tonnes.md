@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-28T23:19:32.000Z"
 code: MGY67B
 date: 2025-11-06
 country: id

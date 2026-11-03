@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T06:51:08.000Z"
 code: FHEQNR
 date: 2026-10-29
 country: fr

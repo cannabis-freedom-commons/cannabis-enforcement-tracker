@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T10:24:57.000Z"
 code: SVFYE1
 date: 2026-11-02
 country: pl

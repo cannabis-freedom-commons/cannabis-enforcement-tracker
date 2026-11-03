@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T03:03:45.000Z"
 code: SK880S
 date: 2026-10-29
 country: in

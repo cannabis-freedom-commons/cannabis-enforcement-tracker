@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T10:45:54.000Z"
 code: QN2X98
 date: 2026-10-24
 country: bo

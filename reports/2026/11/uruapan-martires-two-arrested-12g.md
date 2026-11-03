@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T06:04:14.000Z"
 code: 79CD00
 date: 2026-11-02
 country: mx

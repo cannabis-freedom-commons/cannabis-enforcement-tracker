@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:45:37.000Z"
 code: GNPAF2
 date: 2026-11-03
 country: eg

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T17:50:27.000Z"
 code: KMEZEK
 date: 2026-11-02
 country: bd

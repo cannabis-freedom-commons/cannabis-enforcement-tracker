@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T17:09:56.000Z"
 code: KTMNBS
 date: 2026-10-29
 country: fr

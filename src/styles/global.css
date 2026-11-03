@@ -199,6 +199,8 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .tag-panel > .tag-toggle { margin-top: 8px; }
 .tag-panel p { margin: 6px 0; font-size: 12px; }
 @media (max-width: 800px) { .filters { grid-template-columns: 1fr 1fr; } .filters input { grid-column: 1 / -1; } }
+.report-times { display: block; margin: 0 0 6px; color: var(--text-2); font: 11px/1.5 var(--mono); }
+.report-times time { white-space: nowrap; }
 .time-filter { grid-column: 1 / -1; display: grid; grid-template-columns: auto minmax(160px, 240px) minmax(0, 1fr); align-items: center; gap: 8px 12px; }
 .time-filter > label { color: var(--text-2); font: 12px var(--mono); }
 .calendar-filters { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }

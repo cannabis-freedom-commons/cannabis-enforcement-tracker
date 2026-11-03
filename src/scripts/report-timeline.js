@@ -1,6 +1,6 @@
 // Count each report once by its primary category, within the map's date window.
-export function reportTimeline(rows, { start = "", end = "", year = "", month = "", daily = false, yearly = false } = {}) {
-  const dates = rows.map(r => r.d).sort();
+export function reportTimeline(rows, { start = "", end = "", year = "", month = "", daily = false, yearly = false, dateOf = (r) => r.d } = {}) {
+  const dates = rows.map(dateOf).filter(Boolean).sort();
   let first = start || (year ? `${year}-01-01` : dates[0]);
   let last = end || (year ? `${year}-12-31` : dates.at(-1));
   if (year) {
@@ -18,8 +18,9 @@ export function reportTimeline(rows, { start = "", end = "", year = "", month = 
     else date.setUTCMonth(date.getUTCMonth() + 1);
   }
   for (const row of rows) {
-    if (row.d < first || row.d > last || (month && row.d.slice(5, 7) !== month)) continue;
-    const bucket = buckets.get(row.d.slice(0, yearly ? 4 : daily ? 10 : 7));
+    const day = dateOf(row);
+    if (!day || day < first || day > last || (month && day.slice(5, 7) !== month)) continue;
+    const bucket = buckets.get(day.slice(0, yearly ? 4 : daily ? 10 : 7));
     if (!bucket) continue;
     bucket.total++;
     bucket.categories[row.t] = (bucket.categories[row.t] || 0) + 1;

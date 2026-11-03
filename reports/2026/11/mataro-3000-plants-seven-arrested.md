@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T15:17:19.000Z"
 code: FRY9TZ
 date: 2026-11-02
 country: es

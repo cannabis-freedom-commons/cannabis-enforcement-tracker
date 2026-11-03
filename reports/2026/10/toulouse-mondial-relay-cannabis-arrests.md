@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T21:58:18.000Z"
 code: V5EQEQ
 date: 2026-10-26
 country: fr

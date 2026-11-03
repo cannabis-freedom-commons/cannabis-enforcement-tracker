@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T03:36:24.000Z"
 code: KH9JCM
 date: 2005-08-04
 country: us/co

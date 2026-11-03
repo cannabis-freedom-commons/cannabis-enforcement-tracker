@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:51:08.000Z"
 code: GAXFXS
 date: 2026-04-23
 country: se

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T01:18:44.000Z"
 code: XMC9Z5
 date: "2019-03-01"
 country: vu

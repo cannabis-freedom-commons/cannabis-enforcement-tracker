@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T15:42:21.000Z"
 code: 6AKZH5
 date: 2026-09-01
 country: es

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T19:11:30.000Z"
 code: D197FH
 date: 2026-09-05
 country: jp

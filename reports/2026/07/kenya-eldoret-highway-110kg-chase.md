@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T23:37:23.000Z"
 code: VT236S
 date: 2026-07-27
 country: ke

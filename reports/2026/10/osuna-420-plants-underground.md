@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T16:33:26.000Z"
 code: RNYZX1
 date: 2026-10-16
 country: es

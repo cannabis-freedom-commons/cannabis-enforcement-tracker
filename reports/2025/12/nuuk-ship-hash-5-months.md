@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T14:02:52.000Z"
 code: QK09XS
 date: 2025-12-06
 country: gl

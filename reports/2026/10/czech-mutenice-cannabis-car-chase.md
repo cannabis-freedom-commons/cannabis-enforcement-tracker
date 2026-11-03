@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T13:27:45.000Z"
 code: NAX19V
 date: 2026-10-24
 country: cz

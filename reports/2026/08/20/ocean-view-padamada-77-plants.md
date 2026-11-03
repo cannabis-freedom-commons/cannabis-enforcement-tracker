@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:38:50.000Z"
 code: N86F3E
 date: 2026-08-20
 country: us/hi

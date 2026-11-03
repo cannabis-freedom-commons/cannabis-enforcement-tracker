@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T04:58:04.000Z"
 code: PDDAYT
 date: 2026-10-21
 country: ke

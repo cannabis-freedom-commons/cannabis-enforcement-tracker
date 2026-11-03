@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T06:10:08.000Z"
 code: 3J2K30
 date: 2026-10-30
 country: ru

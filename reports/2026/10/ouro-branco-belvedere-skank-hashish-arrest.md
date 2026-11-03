@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T05:17:04.000Z"
 code: KNHA15
 date: 2026-10-31
 country: br

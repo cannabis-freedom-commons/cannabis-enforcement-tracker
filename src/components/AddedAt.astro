@@ -1,0 +1,18 @@
+---
+import { addedAtLabel, addedAtTitle } from "../lib/report-time.js";
+const { value, updated } = Astro.props;
+const changed = updated && (!value || Date.parse(updated) > Date.parse(value));
+---
+{(value || changed) && <div class="report-times">
+  {value && <time class="report-added" datetime={value} title={`Added ${addedAtTitle(value)}`} data-report-time="Added">{addedAtLabel(value)}</time>}
+  {value && changed && <span aria-hidden="true"> · </span>}
+  {changed && <time class="report-updated-at" datetime={updated} title={`Updated ${addedAtTitle(updated)}`} data-report-time="Updated">{addedAtLabel(updated, Date.now(), "Updated")}</time>}
+</div>}
+<script>
+  import { addedAtLabel } from "../lib/report-time.js";
+  const refresh = () => document.querySelectorAll<HTMLTimeElement>("[data-report-time]").forEach((time) => {
+    time.textContent = addedAtLabel(time.dateTime, Date.now(), time.dataset.reportTime);
+  });
+  refresh();
+  setInterval(refresh, 60000);
+</script>

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T17:34:45.000Z"
 code: EK4865
 date: 2026-01-05
 country: us/hi

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T07:34:30.000Z"
 code: HA8D5X
 date: 2026-10-30
 country: br

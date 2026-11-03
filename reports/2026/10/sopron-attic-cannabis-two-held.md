@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:55:41.000Z"
 code: PW8TRB
 date: 2026-10-22
 country: hu

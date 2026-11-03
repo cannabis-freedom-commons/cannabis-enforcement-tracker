@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T19:13:39.000Z"
 code: GFQ4C9
 date: 2026-10-13
 country: cl

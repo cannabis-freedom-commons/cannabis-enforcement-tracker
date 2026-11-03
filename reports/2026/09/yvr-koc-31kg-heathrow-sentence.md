@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:32:02.000Z"
 code: GXFKD2
 date: 2026-09-21
 country: ca/bc

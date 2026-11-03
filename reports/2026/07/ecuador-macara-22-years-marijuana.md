@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T02:26:37.000Z"
 code: 2S2AFH
 date: 2026-07-20
 country: ec

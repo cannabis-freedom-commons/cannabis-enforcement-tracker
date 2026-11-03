@@ -5,6 +5,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import * as yaml from "js-yaml";
+import { assignReportTimes } from "./report-times.mjs";
 import { codeOf } from "../src/lib/code.js";
 
 const pattern = /^[0-9A-HJKMNP-TV-Z]{6}$/;
@@ -56,4 +57,5 @@ if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.me
   const changed = assignCodes("reports", process.argv.length > 2 ? process.argv.slice(2) : undefined);
   for (const { file, code } of changed) console.log(`${path.relative(process.cwd(), file)}: CET-${code}`);
   if (!changed.length) console.log("all selected reports have a code");
+  for (const item of assignReportTimes("reports", process.argv.length > 2 ? process.argv.slice(2) : undefined)) console.log(`${path.relative(process.cwd(), item.file)}: recorded timestamps`);
 }

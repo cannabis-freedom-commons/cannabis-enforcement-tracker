@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T19:54:47.000Z"
 code: GFAQAB
 date: 2026-11-01
 country: ru

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T21:52:09.000Z"
 code: 2D3GKM
 date: 2026-11-02
 country: it

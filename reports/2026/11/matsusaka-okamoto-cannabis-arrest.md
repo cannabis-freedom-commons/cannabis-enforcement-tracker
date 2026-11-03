@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T17:26:15.000Z"
 code: KEYAPT
 date: 2026-11-01
 country: jp

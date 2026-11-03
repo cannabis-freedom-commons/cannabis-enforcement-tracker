@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:17:10.000Z"
 code: C2W4HQ
 date: 2025-08-13
 country: jp

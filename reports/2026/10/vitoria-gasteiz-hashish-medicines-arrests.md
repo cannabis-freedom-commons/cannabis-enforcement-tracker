@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T18:04:32.000Z"
 code: 0X27W4
 date: 2026-10-29
 country: es

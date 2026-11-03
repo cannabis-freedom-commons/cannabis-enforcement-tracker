@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T11:46:50.000Z"
 code: AWNGJT
 date: 2026-11-02
 country: fr

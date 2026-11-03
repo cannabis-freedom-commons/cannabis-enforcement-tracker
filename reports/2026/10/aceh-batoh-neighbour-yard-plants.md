@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T05:52:29.000Z"
 code: Y2SK0M
 date: 2026-10-26
 country: id

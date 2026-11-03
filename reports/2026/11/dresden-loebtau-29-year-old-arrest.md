@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T23:00:34.000Z"
 code: SKTNY5
 date: 2026-11-01
 country: de

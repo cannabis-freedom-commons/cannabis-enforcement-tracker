@@ -38,7 +38,7 @@ try {
   assert.deepEqual(await items.evaluateAll(nodes => nodes.map(node => node.dataset.id)), rows.map(row => row.i));
   assert.equal(await page.locator("#report-scroll-sentinel").isVisible(), false);
   assert.ok((await page.locator("#scroll-status").innerText()).startsWith("All "));
-  assert.ok(await page.locator("#list .ry-month").evaluateAll(months => months.every(month => [...month.querySelectorAll("time")].every(time => time.dateTime.startsWith(month.id.slice(1))))));
+  assert.ok(await page.locator("#list .ry-month").evaluateAll(months => months.every(month => [...month.querySelectorAll(".meta time")].every(time => time.dateTime.startsWith(month.id.slice(1))))));
 
   console.log("Checking filter reset");
   await page.locator("#country").selectOption("to");

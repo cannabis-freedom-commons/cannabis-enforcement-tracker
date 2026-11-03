@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T00:55:46.000Z"
 code: B4AJX8
 date: 2026-10-10
 country: es

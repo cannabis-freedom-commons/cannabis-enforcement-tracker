@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T16:53:41.000Z"
 code: XNWXH6
 date: 2026-10-30
 country: br

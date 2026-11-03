@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T10:00:07.000Z"
 code: HNAQPN
 date: 2026-10-26
 country: es

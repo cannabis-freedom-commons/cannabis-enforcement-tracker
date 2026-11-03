@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T10:29:09.000Z"
 code: WC393K
 date: 2026-10-29
 country: zw

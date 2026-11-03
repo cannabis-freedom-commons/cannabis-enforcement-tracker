@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:41:12.000Z"
 code: S87D3A
 date: 2025-08-12
 country: ru

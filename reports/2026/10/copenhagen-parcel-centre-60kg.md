@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T17:58:25.000Z"
 code: TC6N39
 date: 2026-10-02
 country: dk

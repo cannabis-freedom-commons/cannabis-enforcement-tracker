@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T19:53:20.000Z"
 code: HN420Q
 date: 2026-01-21
 country: th

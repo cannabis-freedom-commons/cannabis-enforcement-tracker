@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T08:05:24.000Z"
 code: CW8NGV
 date: 2026-10-28
 country: es

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T18:25:36.000Z"
 code: THQCKB
 date: 2026-10-24
 country: id

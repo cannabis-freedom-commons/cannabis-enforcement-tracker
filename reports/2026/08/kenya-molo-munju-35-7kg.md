@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T11:13:19.000Z"
 code: EH1FKD
 date: 2026-08-02
 country: ke

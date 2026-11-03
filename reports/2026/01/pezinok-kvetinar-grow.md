@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T12:44:46.000Z"
 code: CQBKKQ
 date: 2026-01-23
 country: sk

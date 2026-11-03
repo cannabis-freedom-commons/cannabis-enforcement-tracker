@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:17:08.000Z"
 code: QTS85S
 date: 2026-05-06
 country: us/ok

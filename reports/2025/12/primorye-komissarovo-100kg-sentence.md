@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:43:57.000Z"
 code: SERRAZ
 date: 2025-12-12
 country: ru

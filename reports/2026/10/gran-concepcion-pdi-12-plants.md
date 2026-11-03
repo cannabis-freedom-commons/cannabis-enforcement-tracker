@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T14:25:32.000Z"
 code: HTN2B0
 date: 2026-10-16
 country: cl

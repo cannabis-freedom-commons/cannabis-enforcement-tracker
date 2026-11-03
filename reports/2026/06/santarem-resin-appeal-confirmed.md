@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T11:19:36.000Z"
 code: W6MYCW
 date: 2026-06-30
 country: pt

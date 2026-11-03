@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T13:15:16.000Z"
 code: YGTD4Q
 date: 2026-10-28
 country: br

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T10:04:02.000Z"
 code: SNW9W0
 date: 2026-06-27
 country: ug

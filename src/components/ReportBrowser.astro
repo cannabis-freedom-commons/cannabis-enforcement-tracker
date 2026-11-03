@@ -41,7 +41,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
           {places.map((c) => <option value={c.id}>{c.name} ({c.count})</option>)}
         </select>}
     <div class="time-filter">
-      <label for="period">Time</label>
+      <label for="period" id="period-label">Incident date</label>
       <select id="period" aria-label="Time period" aria-controls="calendar-filters">
         {compact && <>
           <option value="7d">Last 7 days</option>
@@ -112,6 +112,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   import { reportTimeline, timelineSelection, axisTicks } from "../scripts/report-timeline.js";
   import { readPeriod, changePeriod } from "../scripts/report-period.js";
   import { timelineTooltip } from "../scripts/report-timeline-tooltip.js";
+  import { reportDay, compareReports } from "../lib/report-time.js";
   import { imageProxy } from "../lib/media.js";
   import { hasTag } from "../lib/report-tags.js";
   import { initTagPicker } from "../scripts/report-tag-picker.js";
@@ -124,6 +125,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   const fixedCountry = $("country").dataset.fixed != null ? $("country").value : "";
   const fields = ["q", "type", ...(fixedCountry ? [] : ["country"]), "year", "month", "tag"];
   const params = new URLSearchParams(location.search);
+  const dateOf = (r: Row) => reportDay(r);
   let day = "";
   const hideTimelineTooltip = timelineTooltip($("months"), types);
   for (const f of fields) if (params.get(f)) $(f).value = params.get(f)!;
@@ -174,19 +176,21 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     <div class="meta"><span class="type" style="--c:${types[r.t].color}">${esc(types[r.t].label)}</span>
       <time datetime="${r.d}">${fmtDate(r.d)}</time>
       <a href="${base}country/${r.c}/">${flag(r.c)} ${esc(countries[r.c])}</a></div>
+
     <h3><a href="${base}report/${r.i}/">${esc(r.ti)}</a>${zoomable && r.ll ? `<button type="button" class="zoom-to" data-zoom="${r.i}" aria-label="Show on the map" title="Show on the map"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg></button>` : ""}</h3>
     ${thumb(r)}<p>${esc(r.s)}</p>
     ${r.f.length ? `<div class="figs-inline">${r.f.map(([l, v]) => `<span>${esc(l)} <b>${esc(v)}</b></span>`).join("")}</div>` : ""}
   </li>`;
 
   function matches(r: Row, skipDay = false, skipTag = false) {
+    const date = dateOf(r);
     const q = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const type = $("type").value, country = $("country").value, year = $("year").value, month = $("month").value;
     return (!type || r.t === type || r.a.includes(type))
       && (!country || inCountry(r, country))
-      && (!year || r.d.startsWith(year)) && (!month || r.d.slice(5, 7) === month)
-      && (!since() || (r.d >= since() && r.d <= new Date().toISOString().slice(0, 10)))
-      && (skipDay || !day || r.d === day)
+      && (!year || date.startsWith(year)) && (!month || date.slice(5, 7) === month)
+      && (!since() || (date >= since() && date <= new Date().toISOString().slice(0, 10)))
+      && (skipDay || !day || date === day)
       && (skipTag || hasTag(r, $("tag").value))
       && q.every((w) => haystack.get(r)!.includes(w));
   }
@@ -217,26 +221,25 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       : `${renderedCount.toLocaleString("en-GB")} of ${shown.length.toLocaleString("en-GB")} reports shown · scroll for more`;
     $("empty").hidden = shown.length > 0;
     $("day-filter").hidden = !day;
-    $("day-filter-label").textContent = day ? `Day: ${fmtDate(day)}` : "";
+    $("day-filter-label").textContent = day ? `Incident day: ${fmtDate(day)}` : "";
     const active = fields.some((f) => $(f).value) || !!day || range !== "all";
     $("clear-filters").hidden = !active && period.mode !== "calendar";
     const n = shown.length.toLocaleString("en-GB"), all = rows.length.toLocaleString("en-GB");
     const when = ({ "7d": "in the last 7 days", "30d": "in the last 30 days", "1y": "in the last 12 months" } as Record<string, string>)[range];
-    const other = fields.some((f) => $(f).value) || !!day;
-    $("count").textContent = !active ? `${all} reports · newest first`
-      : when && !other ? `${n} ${shown.length === 1 ? "report" : "reports"} ${when} · ${all} in all`
-      : `${n} of ${all} reports${day ? ` · ${fmtDate(day)}` : when ? ` ${when}` : ""}`;
+    $("count").textContent = !active ? `${all} reports · latest incidents first`
+      : `${n} of ${all} reports by incident date${day ? ` · ${fmtDate(day)}` : when ? ` ${when}` : ""}`;
   }
 
   // The chart shares the map's filters, including its selected time window.
   function months() {
     const daily = range === "7d" || range === "30d" || !!$("month").value || !!day;
     // all time over five years or more: a bar per year; a shorter history: a bar per month
-    const matching = rows.filter((r) => matches(r, true)), dates = matching.map((r) => r.d).sort();
+    const matching = rows.filter((r) => matches(r, true)), dates = matching.map(dateOf).filter(Boolean).sort();
     const longHistory = dates.length > 0 && Number(dates.at(-1)!.slice(0, 4)) - Number(dates[0].slice(0, 4)) >= 5;
     const yearly = range === "all" && !$("year").value && !daily && longHistory;
     const dayCalendar = day && range !== "7d" && range !== "30d";
     const series = reportTimeline(matching, {
+      dateOf,
       start: since(), end: new Date().toISOString().slice(0, 10),
       year: $("year").value || (dayCalendar ? day.slice(0, 4) : ""),
       month: $("month").value || (dayCalendar ? day.slice(5, 7) : ""), daily, yearly,
@@ -246,8 +249,8 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     lastSeries = series; lastScale = yearly ? "year" : daily ? "day" : "month";
     if (!series.length) { box.innerHTML = ""; return; }
     const max = Math.max(1, ...series.map(b => b.total));
-    box.dataset.caption = `Reports per ${yearly ? "year" : daily ? "day" : "month"}`;
-    box.setAttribute("aria-label", `Reports per ${yearly ? "year" : daily ? "day" : "month"}, stacked by primary category; choose a bar to filter by ${yearly ? "year" : daily ? "day" : "month"}`);
+    box.dataset.caption = `Incidents per ${yearly ? "year" : daily ? "day" : "month"}`;
+    box.setAttribute("aria-label", `Incidents per ${yearly ? "year" : daily ? "day" : "month"}, stacked by primary category; choose a bar to filter by ${yearly ? "year" : daily ? "day" : "month"}`);
     box.innerHTML = series.map(({ key, total, categories }) => {
       const label = new Date(`${yearly ? `${key}-01-01` : daily ? key : `${key}-01`}T00:00:00Z`).toLocaleDateString("en-GB", {
         ...(daily ? { day: "numeric" as const } : {}), ...(!yearly ? { month: "short" as const } : {}), year: "numeric", timeZone: "UTC",
@@ -283,7 +286,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     hideTimelineTooltip();
     if (resetLimit) limit = PAGE;
     showCustomSearch();
-    shown = rows.filter((r) => matches(r));
+    shown = rows.filter((r) => matches(r)).sort(compareReports);
     updateTags?.(rows.filter(r => matches(r, false, true)));
     render();
     months();
@@ -321,6 +324,14 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
   loadIndex(base).then((idx) => {
     rows = fixedCountry ? idx.reports.filter((r) => inCountry(r, fixedCountry)) : idx.reports; countries = idx.countries;
+    const updateYears = () => {
+      const selected = period.year;
+      const values = [...new Set(rows.map(dateOf).filter(Boolean).map((d) => d.slice(0, 4)))];
+      if (selected) values.push(selected);
+      $("year").innerHTML = `<option value="">All years</option>` + [...new Set(values)].sort().reverse().map((y) => `<option value="${y}">${y}</option>`).join("");
+      $("year").value = selected;
+    };
+    updateYears();
     updateTags = initTagPicker($("tag-filter"), { selected: () => $("tag").value, onSelect: (tag: string) => { $("tag").value = tag; apply(); } });
     haystack = new Map(rows.map((r) => [r, [r.ti, r.s, r.p, countries[r.c], types[r.t].label, r.k].join(" ").toLowerCase()]));
     for (const f of fields) $(f).addEventListener("input", () => {
@@ -372,7 +383,6 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     };
     $("clear-filters").addEventListener("click", clearFilters);
     document.getElementById("clear-map-search")?.addEventListener("click", clearFilters);
-    if (fields.some((f) => $(f).value) || day || period.mode === "calendar" || params.has("range") || range !== "all") apply();
-    else { shown = rows; updateTags(rows); if (byYear) render(); months(); } // by year: the counts and months of all reports
+    apply(); // by year: the counts and months of all reports
   });
 </script>

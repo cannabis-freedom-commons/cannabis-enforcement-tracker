@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T21:32:30.000Z"
 code: VB3QMD
 date: 2026-10-06
 country: si

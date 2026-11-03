@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T14:02:43.000Z"
 code: ENX51Q
 date: 2011-07-12
 country: mx

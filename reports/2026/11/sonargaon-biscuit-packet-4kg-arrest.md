@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T13:10:00.000Z"
 code: 9EMN64
 date: 2026-11-01
 country: bd

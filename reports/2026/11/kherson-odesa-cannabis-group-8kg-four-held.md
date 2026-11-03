@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T02:11:39.000Z"
 code: S2RJYH
 date: 2026-11-02
 country: ua

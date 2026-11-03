@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T19:37:27.000Z"
 code: Y3D08B
 date: 2026-10-28
 country: jp

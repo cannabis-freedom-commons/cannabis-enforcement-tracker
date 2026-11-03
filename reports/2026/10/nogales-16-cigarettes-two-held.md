@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T00:25:11.000Z"
 code: 12SNYH
 date: 2026-10-29
 country: mx

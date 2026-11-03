@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T09:35:49.000Z"
 code: QRK12V
 date: 2026-10-31
 country: br

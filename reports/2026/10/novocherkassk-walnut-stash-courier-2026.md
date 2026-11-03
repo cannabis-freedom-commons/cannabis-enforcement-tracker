@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:17:40.000Z"
 code: XCWRSQ
 date: 2026-10-30
 country: ru

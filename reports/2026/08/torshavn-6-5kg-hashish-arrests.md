@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T17:58:01.000Z"
 code: SNSYHF
 date: 2026-08-14
 country: fo

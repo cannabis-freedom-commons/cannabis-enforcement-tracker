@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T10:10:09.000Z"
 code: X60SDA
 date: 2010-11-11
 country: es

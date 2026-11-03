@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:42:56.000Z"
 code: 2B63CA
 date: 2026-11-03
 country: eg

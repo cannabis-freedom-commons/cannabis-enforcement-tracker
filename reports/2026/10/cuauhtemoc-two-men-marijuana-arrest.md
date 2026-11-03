@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T05:06:39.000Z"
 code: 5A9AG7
 date: 2026-10-29
 country: mx

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T08:29:24.000Z"
 code: WA7V8N
 date: 2026-05-30
 country: it

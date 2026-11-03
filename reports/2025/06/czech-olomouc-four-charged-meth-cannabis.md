@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T13:21:19.000Z"
 code: GJF5QY
 date: 2025-06-06
 country: cz

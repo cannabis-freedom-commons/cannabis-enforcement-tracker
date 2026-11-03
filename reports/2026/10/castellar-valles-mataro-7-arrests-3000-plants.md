@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T15:18:55.000Z"
 code: FGN43P
 date: 2026-10-20
 country: es

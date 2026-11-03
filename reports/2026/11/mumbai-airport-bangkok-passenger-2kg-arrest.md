@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T21:46:16.000Z"
 code: KD3MPZ
 date: 2026-11-01
 country: in

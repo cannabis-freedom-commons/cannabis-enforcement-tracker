@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T00:53:12.000Z"
 code: TMDDAY
 date: 2026-11-02
 country: pl

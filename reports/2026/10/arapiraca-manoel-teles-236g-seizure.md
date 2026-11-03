@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T20:13:06.000Z"
 code: QZEAGK
 date: 2026-10-31
 country: br

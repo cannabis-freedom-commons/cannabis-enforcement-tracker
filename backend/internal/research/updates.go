@@ -329,6 +329,11 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	if !changed {
 		return d, ErrUnchanged
 	}
+	if mapping(header, "added_at") == nil {
+		if at := firstReportAddition(dir, filepath.ToSlash(rel)); at != "" {
+			sets = append(sets, [2]string{"added_at", at}, [2]string{"added_at_source", "git"})
+		}
+	}
 	// Preserve the verification of earlier prose only when the new facts are checked.
 	// A checked addition cannot certify unchecked older prose or a corrected summary.
 	previousStatus := ""

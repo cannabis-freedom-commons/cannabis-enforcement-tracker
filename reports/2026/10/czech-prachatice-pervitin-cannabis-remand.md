@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T15:15:36.000Z"
 code: 01QR15
 date: 2026-10-20
 country: cz

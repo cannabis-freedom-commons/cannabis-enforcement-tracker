@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T06:28:57.000Z"
 code: 8GTVNH
 date: 2026-11-03
 country: uz

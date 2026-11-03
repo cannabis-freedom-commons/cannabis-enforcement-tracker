@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T09:04:54.000Z"
 code: X18D1N
 date: 2020-09-28
 country: es

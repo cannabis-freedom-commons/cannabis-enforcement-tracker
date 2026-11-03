@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T10:35:25.000Z"
 code: YZYNSF
 date: 2026-11-03
 country: ua

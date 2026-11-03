@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T13:17:04.000Z"
 code: HM6TAH
 date: 2026-04-14
 country: cz

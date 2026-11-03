@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T15:56:50.000Z"
 code: QTDCPY
 date: 2017-06-09
 country: ru

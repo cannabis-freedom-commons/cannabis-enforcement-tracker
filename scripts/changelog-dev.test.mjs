@@ -25,7 +25,7 @@ test("dev commits refresh changelog, report indexes and cached report routes", {
   try {
     mkdirSync(join(root, "src/pages/changelog"), { recursive: true });
     for (const dir of ["src/lib", "src/data", "src/pages/api/country", "src/pages/report", "src/pages/r", "reports"]) mkdirSync(join(root, dir), { recursive: true });
-    for (const name of ["reports", "types", "countries", "map", "code", "figures", "atlas-countries"]) copyFileSync(resolve(`src/lib/${name}.js`), join(root, `src/lib/${name}.js`));
+    for (const name of ["reports", "types", "countries", "map", "code", "figures", "atlas-countries", "report-time", "report-history", "changelog"]) copyFileSync(resolve(`src/lib/${name}.js`), join(root, `src/lib/${name}.js`));
     copyFileSync(resolve("src/data/countries.json"), join(root, "src/data/countries.json"));
     copyFileSync(resolve("src/pages/api/index.json.js"), join(root, "src/pages/api/index.json.js"));
     copyFileSync(resolve("src/pages/api/country/[...id].json.js"), join(root, "src/pages/api/country/[...id].json.js"));
@@ -88,6 +88,9 @@ export function getStaticPaths() {
     assert.ok(older.text.includes("<h1>Initial history</h1>"));
     writeFileSync(join(root, "reports/new-report.md"), report("Newly committed report", "new-report"));
     writeFileSync(join(root, "reports/initial.md"), report("Updated report"));
+    // Let Astro persist the content-loader update before testing Git-only cache invalidation.
+    // The store debounces disk writes; an immediate commit can otherwise reload its old snapshot.
+    await until(async () => (await read("/api/index.json")).text.includes("Newly committed report"));
     git("add", "reports"); git("commit", "-m", "Add and update reports");
     await until(async () => (await read("/changelog/")).text.includes("Add and update reports"));
     await until(async () => (await read("/api/index.json")).text.includes("Newly committed report"));

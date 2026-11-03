@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T06:54:34.000Z"
 code: NMAXKG
 date: 2026-10-27
 country: ru

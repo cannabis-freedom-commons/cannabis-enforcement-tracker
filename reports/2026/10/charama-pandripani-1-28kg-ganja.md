@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T23:56:53.000Z"
 code: 2M0CVR
 date: 2026-10-30
 country: in

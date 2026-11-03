@@ -6,19 +6,19 @@ import "../../styles/report.css";
 import WorldMap from "../../components/WorldMap.astro";
 import CfiWidget from "../../components/CfiWidget.astro";
 import ReportItem from "../../components/ReportItem.astro";
-import { reports, related, formatDate, isoDate } from "../../lib/reports.js";
+import { reports, related, formatDate, isoDate, reportHistory } from "../../lib/reports.js";
 import { TYPES, STATUS, PRECISION_INFO } from "../../lib/types.js";
 import { flagOf } from "../../lib/countries.js";
 import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
-import { readReportHistory } from "../../lib/report-history.js";
+import AddedAt from "../../components/AddedAt.astro";
 import { submissionsAPI } from "../../lib/submissions-config.js";
 import { shortSubmission } from "../../lib/report-submission.js";
 import { mediaView } from "../../lib/media.js";
 
 export async function getStaticPaths() {
   const entries = await getCollection("reports");
-  const history = readReportHistory();
+  const history = reportHistory;
   return entries.map((entry) => ({ params: { slug: entry.id }, props: {
     entry, source: entry.filePath ? history.get(relative(process.cwd(), entry.filePath).replaceAll("\\", "/")) ?? null : null,
   } }));
@@ -49,9 +49,6 @@ const mapLinks = r.coordinates ? [
 ] : [];
 // the place and its country, the country left out when the place already ends with it
 const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryName].filter(Boolean).join(" · ");
-const updatedLabel = source && new Intl.DateTimeFormat("en-GB", {
-  day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC",
-}).format(new Date(source.date));
 ---
 <Base title={r.title} description={r.summary} ogType="article" wide>
   <script slot="head" type="application/ld+json" is:inline set:html={JSON.stringify({
@@ -79,6 +76,7 @@ const updatedLabel = source && new Intl.DateTimeFormat("en-GB", {
       <h1 class="p-name" itemprop="headline">{r.title}</h1>
       <p class="lead p-summary" itemprop="description">{r.summary}</p>
       <p class="muted">{flagOf(r.country)} {where}</p>
+      <AddedAt value={r.added_at} updated={r.updated_at} />
     </header>
 
     {r.cover && (
@@ -144,7 +142,7 @@ const updatedLabel = source && new Intl.DateTimeFormat("en-GB", {
         {r.created_by_model !== "unknown" ? <p class="report-model"><span>Created with</span> <code>{r.created_by_model}</code></p> : <p class="report-model">Creator model: not recorded</p>}
         {r.submission && <p class="report-model" data-report-submission={r.submission} data-api={submissionsAPI}><span>From submission <a href={`${base}submission/?id=${r.submission}`}><code>{shortSubmission(r.submission)}</code></a><span data-facts></span></span></p>}
       </div>
-      {source && <a class="report-updated" href={source.url} target="_blank" rel="noopener noreferrer" title="View this report’s source at its latest Git update on GitHub">Last updated <time datetime={source.date}>{updatedLabel} UTC</time> ↗</a>}
+      {source && <a class="report-updated" href={source.url} target="_blank" rel="noopener noreferrer" title="View this report’s source file on the main branch on GitHub">View report source ↗</a>}
     </footer>
   </article>
 

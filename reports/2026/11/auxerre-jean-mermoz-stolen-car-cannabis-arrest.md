@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T11:08:04.000Z"
 code: H1BH6W
 date: 2026-11-02
 country: fr

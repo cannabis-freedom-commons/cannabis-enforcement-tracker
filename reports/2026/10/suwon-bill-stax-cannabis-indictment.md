@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T06:34:17.000Z"
 code: 0JHH4T
 date: 2026-10-16
 country: kr

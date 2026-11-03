@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T09:36:01.000Z"
 code: EQTMY2
 date: 2009-07-25
 country: us/ca

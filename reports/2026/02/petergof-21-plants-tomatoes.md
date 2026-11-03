@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:50:23.000Z"
 code: YK4KGQ
 date: 2026-02-06
 country: ru

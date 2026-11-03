@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:59:23.000Z"
 code: NG7Z19
 date: 2026-10-24
 country: cl

@@ -81,6 +81,7 @@ type Figures struct {
 type Result struct {
 	// Set by the service after execution, never accepted from model-generated JSON.
 	Code           string    `json:"-"` // permanent CET id, allocated by the service
+	AddedAt        string    `json:"-"` // first accepted draft timestamp, assigned by the service
 	CreatedByModel string    `json:"-"`
 	Submission     string    `json:"-"` // the submission that created the report, set by the service
 	Outcome        string    `json:"outcome"`
@@ -567,6 +568,9 @@ func (r Result) Markdown() string {
 		code = reportcode.Of(r.Slug)
 	}
 	add("code", str(code))
+	if r.AddedAt != "" {
+		add("added_at", str(r.AddedAt))
+	}
 	add("date", &yaml.Node{Kind: yaml.ScalarNode, Tag: "!!timestamp", Value: r.Date})
 	add("country", str(r.Country))
 	if r.Place != "" {
@@ -1201,6 +1205,7 @@ func prepareReport(dir string, r Result) (Draft, error) {
 		return d, err
 	}
 	r.Code = reportcode.Available(r.Slug, used)
+	r.AddedAt = time.Now().UTC().Format(time.RFC3339Nano)
 	d.Content = r.Markdown()
 	return d, nil
 }

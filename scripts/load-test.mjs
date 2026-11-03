@@ -26,6 +26,7 @@ for (let i = 0; i < N; i++) {
   fs.writeFileSync(path.join(d, `test-${i}.md`), `---
 code: "${codeOf(`test-${i}`)}"
 date: ${date}
+added_at: "${new Date(Date.UTC(2026, 9, 1) + i * 1000).toISOString()}"
 country: ${c.id}
 place: Test place ${i}
 ${coords}type: ${type}

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T17:08:04.000Z"
 code: 3ECG4E
 date: 2026-04-27
 country: fr

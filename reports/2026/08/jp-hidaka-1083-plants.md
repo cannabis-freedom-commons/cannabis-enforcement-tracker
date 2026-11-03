@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:58:59.000Z"
 code: CVN44T
 date: 2026-08-11
 country: jp

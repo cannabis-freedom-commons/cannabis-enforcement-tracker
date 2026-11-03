@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T19:08:33.000Z"
 code: KX5YWD
 date: 2026-10-31
 country: us/ia

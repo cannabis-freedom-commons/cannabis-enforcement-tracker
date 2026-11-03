@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T10:46:53.000Z"
 code: 7XBHTK
 date: 2026-11-02
 country: fr

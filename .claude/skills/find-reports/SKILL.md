@@ -96,6 +96,9 @@ for different events in their respective reports, and archive and validate every
   (`ndlea-edo-igbanke-farms`).
 - **Required `code`:** the permanent six-character CET identifier, stored without `CET-`.
   Run `npm run codes -- <new/updated report paths>` before the build; never invent or copy a code.
+  The command also assigns immutable UTC `added_at` metadata; preserve it and `added_at_source`
+  on updates and moves. It persists relevant Git addition times for older reports. Last-update
+  times come from Git content history; do not store `updated_at` in report front matter.
   Preserve an existing code on updates, renames and moves. The submission service assigns codes
   itself for JSON results; do not add `code` to that contract or run commands in its read-only harness.
 - Country: the CFI id from `src/data/countries.json` (`ng`, `us/ca`).

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:22:04.000Z"
 code: "HKNA91"
 date: 2005-05-01
 country: pk

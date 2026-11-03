@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T20:59:17.000Z"
 code: K5YPS0
 date: 2026-11-01
 country: ru

@@ -189,6 +189,17 @@ hosts need the repository dependencies and matching Chromium installed (plus Chr
 system dependencies). Keep capture directories under the same private retention/disk quotas as
 research evidence. `SOURCE_BROWSER=false` explicitly opts out of browser capture.
 
+## Report addition timestamps
+
+New accepted report drafts receive an immutable UTC `added_at` from the service, with seconds;
+models cannot supply this field in their JSON. It is preserved in the prepared publication file
+through publication retries. Existing-case updates and added sources preserve the report
+metadata, persisting a recoverable first-Git-addition time before a legacy report is
+moved or rewritten. Update times are derived from committed content in Git rather than stored
+in report front matter. The addition timestamp describes entry into the tracker, not URL intake or remote deployment.
+Existing Git addition times are persisted in report files as relevant tracker times;
+`added_at_source: git` records that origin. Timestamp-only backfills do not count as content edits.
+
 ## Processing and publication
 
 Progress is:

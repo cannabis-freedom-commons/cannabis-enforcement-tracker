@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T01:08:18.000Z"
 code: X24E2D
 date: 2026-10-27
 country: es

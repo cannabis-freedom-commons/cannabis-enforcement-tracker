@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T11:54:36.000Z"
 code: XSMAQY
 date: 2004-07-16
 country: sg

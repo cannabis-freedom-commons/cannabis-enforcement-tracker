@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T22:59:45.000Z"
 code: 2WND1V
 date: 2026-11-02
 country: pl

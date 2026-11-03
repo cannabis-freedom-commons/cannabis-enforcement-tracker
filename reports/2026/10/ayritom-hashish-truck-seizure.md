@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T18:57:20.000Z"
 code: 41CHG2
 date: 2026-10-01
 country: uz

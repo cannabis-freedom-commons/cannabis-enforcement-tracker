@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T12:08:30.000Z"
 code: "QSXPAY"
 date: 2012-01-31
 country: es

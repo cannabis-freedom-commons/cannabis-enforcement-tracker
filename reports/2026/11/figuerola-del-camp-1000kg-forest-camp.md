@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T01:12:01.000Z"
 code: MN7TF2
 date: 2026-11-02
 country: es

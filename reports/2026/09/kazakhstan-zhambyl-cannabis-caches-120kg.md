@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:06:09.000Z"
 code: KVH8AX
 date: 2026-09-16
 country: kz

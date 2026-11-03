@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T12:29:02.000Z"
 code: XMK9CK
 date: 2026-08-22
 country: cl

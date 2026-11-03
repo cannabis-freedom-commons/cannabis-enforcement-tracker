@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:46:11.000Z"
 code: NKMNAG
 date: 2025-08-08
 country: lt

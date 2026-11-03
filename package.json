@@ -13,6 +13,7 @@
     "preview": "astro preview",
     "countries:sync": "node scripts/sync-countries.mjs",
     "codes": "node scripts/codes.mjs",
+    "times": "node scripts/report-times.mjs",
     "browser-install": "playwright install chromium --no-shell",
     "coordinates:check": "node scripts/check-coordinates.mjs",
     "coordinates:duplicates": "node scripts/check-duplicate-coordinates.mjs"

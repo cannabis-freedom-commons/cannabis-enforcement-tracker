@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T17:09:41.000Z"
 code: 87NSKH
 date: 2026-11-01
 country: fr

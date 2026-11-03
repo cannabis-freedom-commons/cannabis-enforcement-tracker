@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:21:50.000Z"
 code: SG2KNN
 date: 2017-08-02
 country: tr

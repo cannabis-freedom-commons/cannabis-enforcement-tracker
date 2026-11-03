@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:51:08.000Z"
 code: 47HD68
 date: 2026-10-16
 country: fi

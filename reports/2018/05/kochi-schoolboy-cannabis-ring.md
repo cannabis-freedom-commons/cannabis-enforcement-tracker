@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T11:16:17.000Z"
 code: V4R711
 date: 2018-05-11
 country: jp

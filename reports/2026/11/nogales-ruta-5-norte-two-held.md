@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T10:31:24.000Z"
 code: 80G8NP
 date: 2026-11-01
 country: cl

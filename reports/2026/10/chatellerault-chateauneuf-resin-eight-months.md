@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T09:57:40.000Z"
 code: EZETQ4
 date: 2026-10-27
 country: fr

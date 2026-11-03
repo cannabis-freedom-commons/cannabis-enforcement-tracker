@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:05:40.000Z"
 code: G2KBF7
 date: 2026-01-28
 country: fr

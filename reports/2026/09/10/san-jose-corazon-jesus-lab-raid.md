@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T20:36:29.000Z"
 code: NX2HBZ
 date: 2026-09-10
 country: cr

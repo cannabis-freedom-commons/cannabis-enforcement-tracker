@@ -19,6 +19,11 @@ Index (country ids are the CFI's).
   stored as a YAML string without the `CET-` display prefix. For skill-written reports run
   `npm run codes -- <report paths>` before building/committing; the backend assigns it itself.
   Preserve the original code on updates, renames and date-folder moves.
+- New reports record an immutable UTC `added_at` timestamp, separate from the incident `date`.
+  `npm run codes -- <report paths>` assigns it for manual reports; the backend assigns it itself.
+  Preserve it and any `added_at_source` on updates, renames and date-folder moves. Existing Git
+  addition times are persisted as relevant tracker times. Last-update times are derived from Git
+  content history, ignoring timestamp-only migrations; do not store `updated_at` in report files.
 - Every report file **must** include `created_by_model`: the exact model identifier used by the
   writing agent, including provider and reasoning effort when known, as `provider/model#effort`
   (for example `alibaba-token-plan/qwen3.8-flash#xhigh`, where `xhigh` is the effort setting).

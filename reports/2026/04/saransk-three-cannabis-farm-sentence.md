@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:46:14.000Z"
 code: A66MX4
 date: 2026-04-10
 country: ru

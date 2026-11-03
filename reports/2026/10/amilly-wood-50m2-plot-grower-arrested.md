@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-03T05:36:53.000Z"
 code: XQ62EQ
 date: 2026-10-22
 country: fr

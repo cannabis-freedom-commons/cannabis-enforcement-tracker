@@ -42,6 +42,16 @@ IntersectionObserver keep the **Show more** button. After building the site and 
 browser, run `node scripts/check-report-scroll.mjs` for the scrolling regression checks.
 
 The map's quick period buttons and the panel's **Time** selector share one time filter.
+All report listings show the latest incidents first. Within each incident day, the most recently
+added reports come first. Time filters, calendar days, chart bars and map markers use incident
+dates. A historical case added today stays under its historical incident date.
+
+Report detail pages show relative times such as **Added 3 hours ago · Updated 1 minute ago**,
+with exact UTC timestamps on hover. Updated appears only after a later committed content edit.
+Git addition times have been written into existing reports and are treated as relevant tracker
+times. Update times are derived from Git history and are not stored in report files. Report
+lists show the incident date without addition/update lines.
+
 Choose Last 7 days, Last 30 days, Last year or All time for a preset, or **Calendar dates…**
 for a year, month or day. Calendar selections switch off rolling-window restrictions; choosing
 a preset clears calendar selections. The map highlights **Calendar** while calendar dates are
@@ -99,6 +109,7 @@ agency valued them at …"). No law-number lists, no adjectives the source does 
 ```yaml
 ---
 code: "7KQ2MX"                  # REQUIRED permanent CET id; npm run codes -- <report paths> assigns it
+added_at: "2026-08-17T14:23:05Z" # assigned automatically; preserve on edits and moves
 date: 2026-08-17                 # when it happened (a campaign: when it ended or was announced)
 country: ng                      # a CFI country file: "de", "th"; a state: "us/ca", "au/act"
 place: Igbanke forest, Orhionmwon, Edo State     # optional
@@ -257,6 +268,9 @@ reports (`us.json` lists `us/ca`'s).
   "id": "ndlea-edo-igbanke-farms",
   "url": "https://tracker.cannabisfreedom.fyi/report/ndlea-edo-igbanke-farms/",
   "date": "2026-08-17",
+  "added_at": "2026-08-17T14:23:05Z",
+  "added_at_source": "recorded",
+  "updated_at": null,
   "country": "ng",
   "country_name": "Nigeria",
   "place": "Igbanke forest, Orhionmwon, Edo State",
@@ -300,6 +314,15 @@ because most of the pictures belong to their publishers; back it up privately.
 writes the newest snapshot into the report as `archived:`. With `--save` it also asks the Wayback
 Machine to save pages it has no copy of yet; with slugs it does only those reports; `--dry` writes
 nothing.
+
+Report `added_at` is a UTC ISO timestamp with seconds. `added_at_source` is `recorded` or `git`,
+identifying its origin. New manual reports receive timestamps through `npm run codes -- <paths>`;
+automated reports receive them from the service. Existing Git addition dates are persisted with
+`npm run times`, following recognized renames and preserving the original time across edits.
+The API also exposes `updated_at`, computed from committed content changes in Git, with
+timestamp-only migrations ignored. Do not store `updated_at` in report files. Unknown API times
+are null. Full Git history is needed to recover old times; shallow checkouts leave unknown
+addition times unset. Build time, file modification time and receipt time are never substitutes.
 
 ## Built for thousands of reports
 

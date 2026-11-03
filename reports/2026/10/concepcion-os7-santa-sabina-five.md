@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T12:47:25.000Z"
 code: 8G3C01
 date: 2026-10-30
 country: cl

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:37:00.000Z"
 code: QVB1DA
 date: 2026-10-19
 country: es

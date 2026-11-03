@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T14:27:13.000Z"
 code: KP9PTT
 date: 2026-10-30
 country: br

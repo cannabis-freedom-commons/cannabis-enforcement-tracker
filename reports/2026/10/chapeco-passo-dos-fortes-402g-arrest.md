@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T00:48:20.000Z"
 code: QESGGP
 date: 2026-10-28
 country: br

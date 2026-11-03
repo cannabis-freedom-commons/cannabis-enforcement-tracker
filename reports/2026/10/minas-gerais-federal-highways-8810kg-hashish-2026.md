@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T07:10:54.000Z"
 code: S6R74K
 date: 2026-10-23
 country: br

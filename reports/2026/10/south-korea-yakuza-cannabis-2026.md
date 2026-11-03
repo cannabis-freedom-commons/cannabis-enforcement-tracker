@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:51:48.000Z"
 code: F6AETX
 date: 2026-10-08
 country: kr

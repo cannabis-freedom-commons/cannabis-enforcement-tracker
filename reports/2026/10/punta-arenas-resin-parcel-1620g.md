@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-01T13:34:59.000Z"
 code: E27BZ3
 date: 2026-10-08
 country: cl

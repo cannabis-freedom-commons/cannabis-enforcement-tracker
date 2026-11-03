@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T23:05:19.000Z"
 code: MDCX3Y
 date: 2026-10-16
 country: ru

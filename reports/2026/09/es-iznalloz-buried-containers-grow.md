@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T13:58:59.000Z"
 code: E50HKN
 date: 2026-09-26
 country: es

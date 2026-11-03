@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-31T18:03:31.000Z"
 code: G6ZT1F
 date: 2026-10-22
 country: fr

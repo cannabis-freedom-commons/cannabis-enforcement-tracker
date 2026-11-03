@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-29T00:38:30.000Z"
 code: 5EV4NF
 date: 2026-08-06
 country: kr

@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-11-02T11:29:44.000Z"
 code: WGKJMQ
 date: 2026-11-01
 country: sy

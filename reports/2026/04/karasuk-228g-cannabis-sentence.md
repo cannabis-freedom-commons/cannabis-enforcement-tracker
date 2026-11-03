@@ -1,4 +1,6 @@
 ---
+added_at_source: git
+added_at: "2026-10-30T22:43:57.000Z"
 code: AMDGMP
 date: 2026-04-14
 country: ru

@@ -39,8 +39,23 @@ func CheckReport(dir, rel, content string) error {
 		return err
 	}
 	c := checker{}
-	c.only(data, "", "code", "date", "country", "place", "coordinates", "precision", "type", "also", "title", "summary", "figures", "cover", "media", "status", "cfi_id", "tags", "created_by_model", "submission", "open_questions", "sources")
+	c.only(data, "", "code", "added_at", "added_at_source", "date", "country", "place", "coordinates", "precision", "type", "also", "title", "summary", "figures", "cover", "media", "status", "cfi_id", "tags", "created_by_model", "submission", "open_questions", "sources")
 	c.match("code", data["code"], `^[0-9A-HJKMNP-TV-Z]{6}$`)
+	for _, field := range []string{"added_at"} {
+		if v, ok := data[field]; ok {
+			value, isString := v.(string)
+			_, err := time.Parse(time.RFC3339Nano, value)
+			if !isString || err != nil || !regexp.MustCompile(`^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?Z$`).MatchString(value) {
+				c.fail("%s: must be a quoted UTC timestamp with seconds", field)
+			}
+		}
+	}
+	if v, ok := data["added_at_source"]; ok {
+		c.oneOf("added_at_source", v, "recorded", "git")
+		if _, exists := data["added_at"]; !exists {
+			c.fail("added_at_source needs added_at")
+		}
+	}
 	date := c.date("date", data["date"], true)
 	if id, _ := data["country"].(string); !countries[id] {
 		c.fail("country: %q is not a country id of the Cannabis Freedom Index", data["country"])
@@ -168,7 +183,7 @@ func CheckReport(dir, rel, content string) error {
 			c.date(name+".date", s["date"], false)
 		}
 		if _, ok := s["language"]; ok {
-			c.match(name+".language", s["language"], `^[a-z]{2}$`)
+			c.match(name+".language", s["language"], `^[a-z]{2,3}$`)
 		}
 	}
 	// the text: where the file sits, its slug, its citations
@@ -313,12 +328,18 @@ func (c *checker) url(name string, v any, required bool) {
 	}
 }
 
-// date: YYYY-MM-DD (YAML may already have read it as a time)
+// Incident dates need a day; source dates can retain month precision, as Astro allows.
+// YAML may already have read a complete date as a time.
 func (c *checker) date(name string, v any, required bool) time.Time {
 	switch d := v.(type) {
 	case time.Time:
 		return d
 	case string:
+		if !required {
+			if t, err := time.Parse("2006-01", d); err == nil {
+				return t
+			}
+		}
 		if t, err := time.Parse("2006-01-02", d); err == nil {
 			return t
 		}
