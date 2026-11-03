@@ -40,6 +40,11 @@ sources:
     publisher: Castilla-La Mancha Media
     date: 2026-11-03
     language: es
+  - title: Cuatro detenidos por tráfico de drogas en Puertollano
+    url: https://www.latribunadeciudadreal.es/noticia/z71e40fdf-c382-4423-bdc96dde141c758f/202611/cuatro-detenidos-por-trafico-de-drogas-en-puertollano
+    publisher: La Tribuna de Ciudad Real
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give no separate date for the raids; 3 November 2026 is the publication date and is used as the incident date.
   - The two itemised marijuana seizures total 5,667.87 grams while police report more than 6.5 kilograms overall; the report uses the official total.
@@ -47,15 +52,16 @@ open_questions:
   - The 895 euros is seized cash, not a fine or drug valuation, and is not recorded in figures.
   - The two prison entries are pretrial remand, not a court sentence, so no prison figure is recorded and no further court outcome was reported.
   - 'Left out, as its quotation was not found in La Voz de Tomelloso: The first two searches yielded 3,995 grams of buds and marijuana plants left to dry, plus a scoped long gun and a short gun ready to fire with ammunition.'
+  - The page carries two photos sharing the same generic caption about the investigation, which does not describe what each photo shows, so no new media entry is added.
 ---
 
 National Police detained four people, two men and two women including a minor,
-for alleged drug trafficking in Puertollano. [@2] The main suspect is a
+for alleged drug trafficking in Puertollano. [@2,3] The main suspect is a
 29-year-old man wanted under four court orders, two for detention and
-imprisonment and two for detention and appearance. [@1] His mother-in-law was
+imprisonment and two for detention and appearance. [@1,3] His mother-in-law was
 also detained after allegedly opening the street sales point and distributing
 drugs to buyers. [@1] All four were placed at judicial disposal and two were
-remanded in custody. [@1]
+remanded in custody. [@1,3]
 
 Operations Escondite and Lupi dismantled three drug distribution points spread
 across Puertollano's urban centre, where officers had observed a large daily
@@ -77,3 +83,4 @@ living-room cabinet. [@1] Police said all four detainees had prior records
 including drug trafficking, criminal organisation, violent robbery, injury, home
 invasion and domestic abuse. [@1]
 
+The search deployment included officers from Puertollano's judicial police brigade, the Prevention and Reaction Unit, the police air unit and the canine guides unit. [@3]
