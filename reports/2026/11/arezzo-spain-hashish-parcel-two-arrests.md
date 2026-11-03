@@ -32,6 +32,11 @@ media:
     media_url: https://www.lanazione.it/image-service/view/acePublic/alias/contentid/MTQwNzgzMjEtZWE4Yi00/0/image.webp?f=16%3A9&q=0.75&w=580
     publisher: La Nazione
     caption: Objects seized in Arezzo from the two men arrested for drug dealing
+  - kind: photo
+    url: https://www.lortica.it/2026/11/03/arezzo-ordinano-4-chili-di-hashish-online-la-finanza-consegna-gli-arresti-domiciliari/
+    media_url: https://www.lortica.it/wp-content/uploads/2026/11/guardia-finanza-arezzo-sequestro-hashish.jpg
+    publisher: L'Ortica
+    caption: Hashish seized in the Guardia di Finanza operation in Arezzo
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa
@@ -82,6 +87,11 @@ sources:
     publisher: Zazoom Social News
     date: 2026-11-03
     language: it
+  - title: 'Arezzo, ordinano 4 chili di hashish online: la Finanza consegna gli arresti domiciliari'
+    url: https://www.lortica.it/2026/11/03/arezzo-ordinano-4-chili-di-hashish-online-la-finanza-consegna-gli-arresti-domiciliari/
+    publisher: L'Ortica
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -96,14 +106,14 @@ open_questions:
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7,8,9] The two people stopped were one
-Italian national and one Albanian national. [@2,3,4,5,7,8] Officers had flagged two
+4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10] The two people stopped were one
+Italian national and one Albanian national. [@2,3,4,5,7,8,10] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1,3,5,6,7,8,9] The two were stopped as they collected the
+of residents in Arezzo province. [@1,3,5,6,7,8,9,10] The two were stopped as they collected the
 parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1,3,4,5,6,7]
+under house arrest. [@1,3,4,5,6,7,10]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1]
