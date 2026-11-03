@@ -38,6 +38,11 @@ sources:
     publisher: TuStolica.pl
     date: 2026-11-02
     language: pl
+  - title: 'Otwock: Zaczęło się od kontroli drogowej. Finał okazał się zaskakujący'
+    url: https://informacje.wp.pl/wiadomosci/zaczelo-sie-od-kontroli-drogowej-final-okazal-sie-zaskakujacy-7346612089141696a
+    publisher: WP Info
+    date: 2026-11-02
+    language: pl
 open_questions:
   - The police page gives only its publication date of 2 November 2026 and no separate day for the roadside stop or home search, so that date is used as the incident date.
   - The small amount found on the driver was not weighed and the home amount is given only as over 20 grams, so figures record 0.02 kg as the stated minimum and exclude the unweighed roadside amount.
@@ -54,14 +59,14 @@ media:
 ---
 
 Otwock traffic police stopped a 42-year-old Skoda driver in Pogorzel after
-suspecting he could be under the influence of alcohol or drugs. [@1,3,4] A
+suspecting he could be under the influence of alcohol or drugs. [@1,3,4,5] A
 preliminary test found marijuana in the 42-year-old's body. [@2,3,4] Officers
 immediately detained the man and electronically retained his driving licence.
 [@1] The man was detained and placed in a police cell. [@2]
 
 Officers found a small amount of marijuana on the driver during the roadside
-check. [@1,3,4] Officers then searched his residence and found more than 20 grams of
-marijuana there. [@2,3,4] Detectives searching his flat found further drugs beyond
+check. [@1,3,4,5] Officers then searched his residence and found more than 20 grams of
+marijuana there. [@2,3,4,5] Detectives searching his flat found further drugs beyond
 what he carried in the car. [@1]
 
 The 42-year-old was charged with driving a motor vehicle under the influence of
