@@ -23,6 +23,11 @@ sources:
     publisher: Quadratín Bajío
     date: 2026-11-03
     language: es
+  - title: Detienen a joven con dos armas de fuego y más de mil 400 dosis de presunta marihuana en Yuriria
+    url: https://noticiasnpi.com/detienen-a-joven-con-dos-armas-de-fuego-y-mas-de-mil-400-dosis-de-presunta-marihuana-en-yuriria/
+    publisher: Noticias Por Internet
+    date: 2026-11-03
+    language: es
 open_questions:
   - No weight for the suspected marijuana was published, only more than 1,400 doses, so no kilograms can be recorded.
   - No charges, custody ruling or court outcome were reported; the Ministerio Público investigation was still under way.
@@ -36,16 +41,15 @@ open_questions:
 ---
 
 State police detained 22-year-old Juan Roberto “N” during preventive patrols in
-Cerano, Yuriria, on 3 November 2026. [@1] Officers of Guanajuato’s Fuerzas de
+Cerano, Yuriria, on 3 November 2026. [@1,2] Officers of Guanajuato’s Fuerzas de
 Seguridad Pública del Estado (FSPE), the state public-security force, handed the
-detainee and all the seized items to the Ministerio Público. [@1]
+detainee and all the seized items to the Ministerio Público. [@1,2]
 
 Officers seized more than 1,400 doses of suspected marijuana and two firearms in
-the operation. [@1] They also seized two magazines, eight usable cartridges and
-a mobile phone. [@1] Officers also found a motorcycle whose identification marks
-had been altered and added it to the case evidence. [@1]
+the operation. [@1,2] They also seized two magazines, eight usable cartridges and
+a mobile phone. [@1,2] Officers also found a motorcycle whose identification marks
+had been altered and added it to the case evidence. [@1,2]
 
 State authorities said these actions form part of the surveillance and
 crime-prevention operations they maintain in municipalities across Guanajuato.
 [@1]
-
