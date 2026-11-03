@@ -81,6 +81,11 @@ sources:
     publisher: KOMPAS.com
     date: 2026-11-02
     language: id
+  - title: Polisi dan BNN Musnahkan Lebih dari 20 Hektare Ladang Ganja di Pegunungan Nagan Raya
+    url: https://pujatvaceh.com/polisi-dan-bnn-musnahkan-lebih-dari-20-hektare-ladang-ganja-di-pegunungan-nagan-raya/
+    publisher: PUJATV ACEH
+    date: 2026-11-03
+    language: id
 open_questions:
   - The 20 hectares are a police estimate; no count of plants and no weight of material was published.
   - Purnamanews and Baranews Aceh date the operation to Saturday 31 October 2026, but ANTARA's photo caption gives Sunday 1 November, and the operation ended at 02:00 WIB on 1 November.
@@ -103,23 +108,27 @@ open_questions:
   - Kompas.com published the article on 2 November 2026 and attributes the police statement to Sunday 1 November 2026, while the existing report dates the operation to 31 October 2026 ending at 02:00 WIB on 1 November.
   - Kompas.com spells the police chief Muhammad Taufik, while the existing report uses Muhamad Taufiq.
   - The Kompas.com lead image is captioned Ilustrasi ladang ganja di Aceh and the second thumbnail shows an unrelated Kampung Bahari drug operation, so neither shows this eradication event.
+  - The submitted page says more than 20 hectares while the existing report uses the police estimate of 20 hectares.
+  - The submitted page places the fields in Beutong Ateuh district while the existing report says Beutong district.
+  - The submitted page was published on 3 November 2026 while the existing report dates the operation to 31 October 2026.
+  - The page carries photographs credited to Orian Saputra with only a generic source caption, so whether they show this eradication could not be established and no media entry is added.
 ---
 
 A joint team of Nagan Raya district police and Indonesia's National Narcotics
 Agency (BNN) destroyed a cannabis plantation estimated at 20 hectares in the
-mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5,9,10] The fields lay
-in Beutong district, in the mountains of the regency. [@2,6,7,8,9,10] The operation was led
+mountains of Nagan Raya Regency, Aceh, on 31 October 2026. [@3,4,5,9,10,11] The fields lay
+in Beutong district, in the mountains of the regency. [@2,6,7,8,9,10,11] The operation was led
 by Nagan Raya police chief AKBP Muhamad Taufiq with joint police and BNN
-personnel. [@2,4,5] Officers found no owner and no suspect at the sites. [@1,5,6,7,8,10]
+personnel. [@2,4,5,11] Officers found no owner and no suspect at the sites. [@1,5,6,7,8,10,11]
 
 Police estimated the plantation at 20 hectares across three separate plots, the
-first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5,6,8,10] Plants
+first of them about 10 hectares with plants up to 1.5 metres tall. [@2,5,6,8,10,11] Plants
 at the second plot were about 1 metre high and at the third about 30
-centimetres. [@1,5,7,8,10] The team uprooted and burned the plants where they stood and
-carried some of the material to Nagan Raya police headquarters as evidence. [@1,5,7]
+centimetres. [@1,5,7,8,10,11] The team uprooted and burned the plants where they stood and
+carried some of the material to Nagan Raya police headquarters as evidence. [@1,5,7,11]
 
 Reaching the site took about four hours on trail motorcycles and another four
-hours on foot through mountain terrain. [@1,5,6,7] The operation ended at 02:00 WIB,
+hours on foot through mountain terrain. [@1,5,6,7,11] The operation ended at 02:00 WIB,
 western Indonesian time, early on Sunday 1 November. [@1,4,5,9] Nagan Raya police
 public relations officer Ipda Ari Arfandi, speaking for the police chief, said
 the operation showed that the police and BNN were serious about wiping out
@@ -129,3 +138,5 @@ fight against drugs needed the support and cooperation of the whole community.
 [@1]
 
 Nagan Raya police chief AKBP M. Taufiq was joined by operations head Kompol Fajar Rahmat, BNN Langsa head Kompol Ir. Khairinnas and BNN Lhokseumawe head Henry Pahala Marbun. [@9]
+
+The operation involved 68 joint personnel. [@11]
