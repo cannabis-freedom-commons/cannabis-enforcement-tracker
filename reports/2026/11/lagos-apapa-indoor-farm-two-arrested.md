@@ -112,6 +112,10 @@ sources:
     url: https://thenationonlineng.net/police-uncover-high-tech-cannabis-farm-in-apapa-arrest-two-suspects/
     publisher: The Nation Newspaper
     date: 2026-11-03
+  - title: “High-Tech Indoor Cannabis Farm Uncovered In Lagos” — Police Arrest Polish, Nigerian Suspects In Apapa
+    url: https://thenigerialawyer.com/high-tech-indoor-cannabis-farm-uncovered-in-lagos-police-arrest-polish-nigerian-suspects-in-apapa/
+    publisher: TheNigeriaLawyer
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -137,19 +141,20 @@ open_questions:
   - The page carries two additional images without captions establishing what they depict, so only the captioned indoor-farm photo is listed as media.
   - The article also recounts an October 2025 Colorado laboratory case and a May 2020 Victoria Island indoor-grow case as background; those separate events are left out here.
   - The page's only image is captioned Police and does not establish that it shows this farm, the suspects or the raid, so no media entry is added.
+  - The submitted page carries a photo captioned with the two suspects' names, but whether it is distinct from the police handout images already listed on the existing report cannot be established from the capture alone, so no media entry is added.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
 credible intelligence. [@1,7,9,10,11,14,17,18] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
 Police said the facility was equipped for the cultivation, harvesting and
-processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18] Police had not disclosed
+processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19] Police had not disclosed
 the quantity of suspected cannabis recovered, the estimated value of the
 facility or how long it had operated. [@1,16] The suspects are in police custody,
 have made confessional statements and are providing information to aid the
@@ -157,7 +162,7 @@ investigation. [@2,5,6,7,8,9,10,11,12,15,17,18] The Command had not announced fo
 suspects. [@1]
 
 Commissioner of Police Tijani Fatai visited the scene to inspect the indoor
-farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18]
+farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18,19]
 Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
@@ -167,3 +172,5 @@ The plants, which would take three months to mature, were allegedly cultivated f
 The suspects are expected to be handed over to the National Drug Law Enforcement Agency (NDLEA) for further investigation and prosecution. [@14]
 
 Command spokesperson Abimbola Adebisi said in a statement posted on X that the two men lived in the building and were being held by the police. [@16]
+
+Police said efforts were continuing to determine the scale of the operation, the source of materials used at the facility and whether other persons were involved. [@19] Commissioner Fatai urged residents to keep providing useful information and assured the public the command would remain proactive against criminal activities. [@19]
