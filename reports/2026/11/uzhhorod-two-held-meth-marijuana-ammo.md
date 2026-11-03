@@ -25,6 +25,11 @@ sources:
     publisher: Mukachevo.net
     date: 2026-11-03
     language: uk
+  - title: 'Метамфетамін, екстазі та марихуана: в Ужгороді затримали двох наркоторговців (ФОТО, ВІДЕО)'
+    url: https://mukachevo.net/news/metamfetamin-ekstazi-ta-marykhuana-v-uzhorodi-zatrymaly-dvokh-narkotorhovtsiv-foto-video_6284278.html
+    publisher: Mukachevo.net
+    date: 2026-11-03
+    language: uk
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the searches or detentions, so that date is used as the incident date.
   - No weight, plant count or value was published for the seized marijuana, so no cannabis quantity is recorded and combined seizure totals are not counted as cannabis.
@@ -35,9 +40,9 @@ open_questions:
 ---
 
 Police exposed two men who had allegedly organised the sale of methamphetamine
-in Uzhhorod. [@1] Investigators say a 53-year-old Uzhhorod resident supplied
+in Uzhhorod. [@1,2] Investigators say a 53-year-old Uzhhorod resident supplied
 methamphetamine while his 46-year-old accomplice from Uzhhorod district
-distributed the psychotropic substance across the district. [@1] Both men had
+distributed the psychotropic substance across the district. [@1,2] Both men had
 previously come to the attention of law enforcement. [@1] At the time of
 detention one of them was on bail in a case over leaving a military unit without
 authorisation, while a court was already hearing drug-trafficking proceedings
@@ -45,9 +50,9 @@ against the other. [@1] Both men were detained and placed in a temporary
 detention facility. [@1]
 
 Police carried out court-authorised searches at the homes of the suspects and
-their alleged accomplices and in their cars. [@1] The searches seized
+their alleged accomplices and in their cars. [@1,2] The searches seized
 methamphetamine, marijuana, tablets resembling ecstasy, packaging materials,
-about one thousand rounds of ammunition and other physical evidence. [@1]
+about one thousand rounds of ammunition and other physical evidence. [@1,2]
 Investigators notified both suspects of suspicion under Part 2 of Article 307 of
 Ukraine's Criminal Code covering illegal production, acquisition, storage or
 sale of narcotics and psychotropic substances. [@1] A court ordered both
@@ -57,4 +62,3 @@ Police additionally accuse the 46-year-old district resident of organising or
 maintaining places for illegal drug use under Parts 1 and 2 of Article 317. [@1]
 Officers also opened a separate criminal case over illegal handling of weapons
 and ammunition. [@1]
-
