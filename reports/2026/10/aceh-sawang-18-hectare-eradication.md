@@ -39,6 +39,11 @@ sources:
     publisher: Lensa Hukum
     date: 2026-11-02
     language: id
+  - title: BNN Ungkap Ganja dari Ladang Aceh Disebar ke Kampung Narkoba Se-RI
+    url: https://news.detik.com/berita/d-8735289/bnn-ungkap-ganja-dari-ladang-aceh-disebar-ke-kampung-narkoba-se-ri/amp
+    publisher: detikNews
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8727523/bnn-aceh-musnahkan-ladang-ganja-18-hektare-di-aceh-utara-4-orang-ditangkap
@@ -61,13 +66,15 @@ open_questions:
   - This rewrite gives no plant count, dry weight, or number or names of arrested growers for the 18-hectare operation.
   - The page discloses it was automatically rewritten by AI based on news.detik.com without altering facts, and its original is already cited in the existing report.
   - Its lead photo credited to Taufiq/detikcom appears to duplicate the Taufiq/detikcom eradication photo already listed from detikNews, so it is not listed again as media.
+  - This account gives no plant count, dry weight, or number or names of arrested growers for the 18-hectare operation.
+  - The page also embeds a video about 5 hectares of cannabis in Bukit Barisan, North Sumatra, a separate event left out here.
 ---
 
 On Tuesday 27 October 2026, about ninety officers from the Aceh provincial National
 Narcotics Agency (BNNP Aceh), Aceh police, Brimob and Lhokseumawe district police raided
 cannabis plots at Alue Garut and Cot Mancang hamlets in Teupin Reusep village, Sawang district,
-North Aceh. [@2] The fields covered roughly eighteen hectares at about 207 metres above sea
-level. [@1,2,3,4]
+North Aceh. [@2,5] The fields covered roughly eighteen hectares at about 207 metres above sea
+level. [@1,2,3,4,5]
 
 Plants were about one to two metres high, spaced roughly half a metre apart and estimated to be
 two to four months old. [@1,2] Staff pulled them up and burned them on site. [@1] Four suspected
