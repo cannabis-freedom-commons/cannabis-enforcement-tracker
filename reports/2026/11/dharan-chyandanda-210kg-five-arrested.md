@@ -70,6 +70,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: 'Siddharthnagar News: नेपाल में 2.10 क्विंटल गांजा के साथ पांच तस्कर गिरफ्तार, स्कॉर्पियो जब्त'
+    url: https://www.amarujala.com/amp/uttar-pradesh/siddharthnagar/siddharthnagar-news-five-smugglers-arrested-in-nepal-with-210-quintals-of-cannabis-scorpio-vehicle-seized-siddharthnagar-news-c-227-1-sgkp1033-167517-2026-11-02
+    publisher: Amar Ujala
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -96,9 +101,9 @@ open_questions:
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7,8,9] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5,6,7,8,9,10] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3,4,5,6,7,8,9] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4,5,6,7,8,9,10] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
@@ -112,5 +117,5 @@ Cha 5038 and Ko.1 Cha 8182 at approximately 3:00 AM that day, a police team
 reached the location. [@1,4,5]
 
 Police found approximately 210 kg of marijuana kept in 8 sacks being loaded into
-the two vehicles. [@1,2,3,4,5,6,7] Police said further investigation into the incident was
+the two vehicles. [@1,2,3,4,5,6,7,10] Police said further investigation into the incident was
 under way. [@1,4]
