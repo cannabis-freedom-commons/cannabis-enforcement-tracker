@@ -151,6 +151,11 @@ sources:
     publisher: Hindusthan Post
     date: 2026-11-01
     language: hi
+  - title: कानपुर में गांजा तस्करों पर पुलिस का शिकंजा, महिला समेत तीन गिरफ्तार
+    url: https://4pm.co.in/police-crack-down-on-cannabis-smugglers-in-kanpur-three-arrested-including-a-woman/195670
+    publisher: 4PM News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -187,22 +192,24 @@ open_questions:
   - This account gives no separate raid time beyond a Sunday operation; the existing report's about 5 am timing is retained from its other accounts.
   - No charges, court outcome, ages, values or exact weights beyond about 11 kg were given in this account.
   - The page's image is captioned only Kanpur Police with no credit confirming it shows this raid, so no media entry is added.
+  - This account identifies the third arrested person only as a woman, while the existing report names her Anjali from its other accounts.
+  - The page's lead image has no caption or credit confirming it shows this operation, so no media entry is added.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17] The three were
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19,20] The
+operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17,20] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6,7,11,12,13,16,18,19]
+[@1,4,6,7,11,12,13,16,18,19,20]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17,19]
+five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17,19,20]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12,13,14,18,19]
+stations. [@2,4,6,7,9,10,12,13,14,18,19,20]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16,18,19] Other teams kept
+in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16,18,19,20] Other teams kept
 searching during the operation, and police said they were trying to identify
 others involved in the trade. [@3,6,13,19]
 
@@ -210,7 +217,7 @@ Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
 were being questioned and that the drive against the drug trade would continue.
 [@2,7,8,9,10,19]
 
-Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13,19] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
+Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13,19,20] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
 
 About 150 police personnel took part, including about 50 sub-inspectors, 80 male constables and 24 female constables. [@15] Officers searched about 60 to 70 houses while monitoring the area with drone cameras. [@15]
 
