@@ -43,6 +43,10 @@ sources:
     url: https://www.bbc.com/news/articles/cwly3jx2lx1eo
     publisher: BBC News
     date: 2026-11-02
+  - title: Two charged over cannabis farm in old tannery
+    url: https://www.aol.com/articles/two-charged-over-cannabis-farm-155151000.html
+    publisher: AOL
+    date: 2026-11-02
 open_questions:
   - The sources give the raid day only as Sunday; 1 November 2026 is inferred from the 2 November 2026 publication dates.
   - The exact time of the Sunday raid and the date of the December Leeds Crown Court hearing were not published.
@@ -54,14 +58,14 @@ West Yorkshire Police attended the Park Road Tannery on Clyde Street in Bingley
 on Sunday after receiving community intelligence about activity at the site.
 [@1] Two men found inside the property were arrested at the scene. [@1] The two
 men, described by police as Albanian nationals, have since been charged with
-production of a controlled Class B drug. [@2,3,4] They appeared at Leeds
+production of a controlled Class B drug. [@2,3,4,5] They appeared at Leeds
 Magistrates' Court and were remanded in custody ahead of a hearing at Leeds
-Crown Court in December. [@2,3,4]
+Crown Court in December. [@2,3,4,5]
 
 Officers forced entry to the disused tannery near Bradford and discovered a
 large-scale cannabis cultivation spread across two floors of the building. [@1]
-A total of 650 cannabis plants were seized during the operation. [@1,3,4] Police put
-the estimated street value of the 650 plants at £500,000. [@2,3,4]
+A total of 650 cannabis plants were seized during the operation. [@1,3,4,5] Police put
+the estimated street value of the 650 plants at £500,000. [@2,3,4,5]
 
 The raid followed tip-offs from members of the public who reported suspicious
 activity, and police thanked the public for information that led to the
