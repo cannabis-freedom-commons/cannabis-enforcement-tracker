@@ -34,6 +34,11 @@ sources:
     publisher: StoNisi.gr
     date: 2026-11-02
     language: el
+  - title: 'Μυτιλήνη: Συνελήφθη 17χρονος διακινητής ναρκωτικών - Κάνναβη και κοκαΐνη στην κατοχή του'
+    url: https://www.ioannina24.gr/%CE%B5%CE%B9%CE%B4%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%83%CE%BC%CE%BF%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7-%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82/1651182-%CE%BC%CF%85%CF%84%CE%B9%CE%BB%CE%AE%CE%BD%CE%B7-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-17%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82-%CE%B4%CE%B9%CE%B1%CE%BA%CE%B9%CE%BD%CE%B7%CF%84%CE%AE%CF%82-%CE%BD%CE%B1%CF%81%CE%BA%CF%89%CF%84%CE%B9%CE%BA%CF%8E%CE%BD-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%BF%CE%BA%CE%B1%CE%90%CE%BD%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CE%B1%CF%84%CE%BF%CF%87%CE%AE-%CF%84%CE%BF%CF%85
+    publisher: ioannina24.gr
+    date: 2026-11-03
+    language: el
 open_questions:
   - No weight was published for the seized cannabis, described only as a small amount of hashish or unprocessed cannabis.
   - The 36.72 grams in 54 packages is cocaine and is excluded from cannabis figures, so no cannabis weight is recorded.
@@ -44,7 +49,7 @@ open_questions:
 
 Mytilene drug-squad officers arrested a 17-year-old accused of possessing and
 trafficking drugs on Saturday 31 October 2026 in the wider Mytilene area of
-Lesbos. [@3] The boy's parents were also arrested for alleged neglect of
+Lesbos. [@3,4] The boy's parents were also arrested for alleged neglect of
 supervision of a minor. [@2] The preliminary investigation was carried out by
 the Drug Prosecution Department of the Mytilene Subdivision for Prosecution and
 Clearance of Crimes. [@1]
@@ -59,6 +64,5 @@ and published no weight for it, while the 36.72-gram figure is the police count
 for the cocaine. [@1]
 
 Police allege the teenager held the substances to supply them to third parties
-for payment. [@1] A case file was opened against his parents for neglect of
+for payment. [@1,4] A case file was opened against his parents for neglect of
 supervision of a minor. [@3]
-
