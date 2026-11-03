@@ -32,6 +32,11 @@ sources:
     publisher: lca.pl
     date: 2026-11-02
     language: pl
+  - title: Legniccy policjanci przechwycili niemal 800 porcji narkotyków!
+    url: https://pulslegnicy.pl/legniccy-policjanci-przechwycili-niemal-800-porcji-narkotykow/60216/
+    publisher: Puls Legnicy
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the search, seizure and arrest.
   - No weight in grams or kilograms was published for the marijuana or the other substances, so portion counts cannot be converted to a cannabis weight and no kg figure is given.
@@ -40,26 +45,28 @@ open_questions:
   - Only one opened source supports this event; no second independent account was found.
   - The page carries a gallery photo captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The page carries a photo with the generic caption 414-387641_m credited Fot. KMP w Legnicy, which does not establish that it shows this seizure, so no media entry is added.
+  - The submitted page is dated 3 November 2026 while the existing report is dated 2 November 2026, and neither page gives a separate day for the search, seizure and arrest.
+  - 'The page carries a photo with no caption, described only in the page text as Zdjęcia: KMP Legnica, which does not establish that it shows this seizure, so no media entry is added.'
 ---
 
 Officers from the property-crime department of the Legnica municipal police
 detained a 35-year-old Legnica man whose flat was suspected of holding
-significant quantities of drugs. [@1,2] Officers went to the identified address
+significant quantities of drugs. [@1,2,4] Officers went to the identified address
 and searched the 35-year-old's flat, checking every room and hiding place for
 hidden drugs. [@1,2,3] They checked every room and nook without skipping any place
 where illegal substances could have been hidden. [@1] The 35-year-old was
 charged with possessing a significant quantity of narcotics and putting them
-into circulation. [@1,2] As a preventive measure, he was placed under dozór
+into circulation. [@1,2,4] As a preventive measure, he was placed under dozór
 Policji, a Polish police-supervision measure under which he reports to the
 police rather than remaining in custody. [@1]
 
 Officers seized almost 800 dealer portions of intoxicants and psychotropic
-substances in total, according to the police count. [@1,2,3] That total comprised
+substances in total, according to the police count. [@1,2,3,4] That total comprised
 nearly 650 portions of marijuana, more than 100 portions of methamphetamine and
-over a dozen portions of cocaine. [@1,2,3] The marijuana is the separately stated
+over a dozen portions of cocaine. [@1,2,3,4] The marijuana is the separately stated
 cannabis component of this mixed seizure, and the methamphetamine and cocaine
 are not counted as cannabis. [@1]
 
 Police said each seized batch of drugs limits their availability and described
 the operation as part of continuing action against the local drug trade. [@1]
-The charged offences carry up to 12 years' imprisonment. [@1,2,3]
+The charged offences carry up to 12 years' imprisonment. [@1,2,3,4]
