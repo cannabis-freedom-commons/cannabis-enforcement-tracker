@@ -72,6 +72,11 @@ sources:
     publisher: Versiliatoday.it
     date: 2026-11-03
     language: it
+  - title: 'Arezzo, sequestrati oltre 4 kg di hashish: due arresti'
+    url: https://www.tgregione.it/arezzo-sequestrati-oltre-4-kg-di-hashish-due-arresti/
+    publisher: TGRegione.it
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -79,14 +84,16 @@ open_questions:
   - The page photographs carry no captions or credits, so identification of what each shows relies on page context.
   - The submitted source rounds the seizure to more than 4 kilograms while the existing report uses 4,140 grams from the other accounts.
   - The page includes an image and an embedded video, but with empty captions, alt text and image metadata that do not establish they show this seizure, so no media entry is added.
+  - The article gives only its publication date of 3 November 2026 and no separate date for the seizure and arrests.
+  - The page image is captioned only Guardia di finanza and is not established to show this seizure, so no media entry is added.
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7] The two people stopped were one
-Italian national and one Albanian national. [@2,3,4,5,7] Officers had flagged two
+4 kg of hashish and arrested two people. [@1,5,6,7,8] The two people stopped were one
+Italian national and one Albanian national. [@2,3,4,5,7,8] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1,3,5,6,7] The two were stopped as they collected the
-parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7] After
+of residents in Arezzo province. [@1,3,5,6,7,8] The two were stopped as they collected the
+parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
 under house arrest. [@1,3,4,5,6,7]
