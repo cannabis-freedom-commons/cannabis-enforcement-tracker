@@ -104,6 +104,10 @@ sources:
     url: https://www.premiumtimesng.com/news/922365-police-uncover-indoor-cannabis-farm-in-lagos-arrest-polish-nigerian-nationals.html
     publisher: Premium Times Nigeria
     date: 2026-11-03
+  - title: Lagos Police Uncover High-Tech Indoor Cannabis Farm in Apapa, Arrest Two Suspects
+    url: https://www.nigeriainfo.fm/news/homepageabuja/lagos-police-uncover-high-tech-indoor-cannabis-farm-in-apapa-arrest-two-suspects/
+    publisher: Nigeria Info FM
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -131,24 +135,24 @@ open_questions:
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
-credible intelligence. [@1,7,9,10,11,14] The Lagos State Police Command announced the
+credible intelligence. [@1,7,9,10,11,14,17] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
 Police said the facility was equipped for the cultivation, harvesting and
-processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16] Police had not disclosed
+processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17] Police had not disclosed
 the quantity of suspected cannabis recovered, the estimated value of the
 facility or how long it had operated. [@1,16] The suspects are in police custody,
 have made confessional statements and are providing information to aid the
-investigation. [@2,5,6,7,8,9,10,11,12,15] The Command had not announced formal charges against the
+investigation. [@2,5,6,7,8,9,10,11,12,15,17] The Command had not announced formal charges against the
 suspects. [@1]
 
 Commissioner of Police Tijani Fatai visited the scene to inspect the indoor
-farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16]
+farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17]
 Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
