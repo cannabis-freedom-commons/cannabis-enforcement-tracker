@@ -40,6 +40,16 @@ sources:
     publisher: L'Unione Sarda German
     date: 2026-11-02
     language: de
+  - title: 'Oltre sei chili di Hashish nascosti in un frigorifero: arrestato dalla Polizia di Stato un 25enne gia fermato dopo una fuga con 28.000 euro in contanti.'
+    url: https://www.cronacaonline.it/index.php/2026/11/02/oltre-sei-chili-di-hashish-nascosti-in-un-frigorifero-arrestato-dalla-polizia-di-stato-un-25enne-gia-fermato-dopo-una-fuga-con-28-000-euro-in-contanti/
+    publisher: CronacaOnline
+    date: 2026-11-02
+    language: it
+  - title: Cagliari. Sei chili di hashish in frigorifero. Arrestato un 25enne gia fermato dopo una fuga con 28.000 euro in contanti
+    url: https://www.cagliaripost.com/cagliari-sei-chili-di-hashish-in-frigorifero-arrestato-un-25enne-gia-fermato-dopo-una-fuga-con-28-000-euro-in-contanti/
+    publisher: Cagliari Post
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -53,6 +63,7 @@ open_questions:
   - RaiNews gives no separate operation dates, so the October dates continue to rely on earlier sources.
   - RaiNews gives only the combined 16-kg total for hashish, marijuana and cocaine, so the separated cannabis total is unchanged.
   - The RaiNews page carries a police-credited photo titled with the headline, but its caption and alt text do not establish that it shows this seizure, so no media entry is added.
+  - The two new pages give no separate date for the Stampace seizure beyond their 2 November 2026 publication dates.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October
@@ -60,7 +71,7 @@ operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
 Quartucciu. [@1,2,3,4] On 9 October investigators arrested a 19-year-old from Elmas
 carrying about 70 grams of cannabis. [@1,2,4] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
-6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3] On 16
+6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3,5,6] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
 [@1,2,3,4] One package bore the mark La Famille Frero Sardegna, also found on a small
