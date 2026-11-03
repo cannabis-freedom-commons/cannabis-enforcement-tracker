@@ -108,6 +108,11 @@ sources:
     publisher: 0512.com.ua - Сайт міста Миколаєва
     date: 2026-11-02
     language: uk
+  - title: В Николаеве задержали мужчину по подозрению в продаже каннабиса
+    url: https://nikvesti.com/ru/amp/news/incidents/325827-muzhchina-prodaval-kannabis-sredi-znakomykh-nikolaeve-izyali-8-kg
+    publisher: НикВести
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The article gives only its 2 November publication/announcement date and no separate date for the detention or search, so the report uses 2 November 2026.
   - The weight is stated only as almost and about 8 kilograms and is recorded as 8 kg.
@@ -126,6 +131,7 @@ open_questions:
   - The submitted AMP URL is the same article as the non-AMP NikVesti URL already cited in the existing report.
   - The submitted English page says the man is 42 years old while the existing report records 44 years old from other accounts.
   - The submitted page gives only its 2 November 2026 publication date and no separate date for the detention or searches.
+  - The submitted Russian version says the man is 42 years old while the existing report records 44 years old from other accounts.
 ---
 
 Police in Mykolaiv detained a 44-year-old man suspected of illegally selling
@@ -135,14 +141,14 @@ arranging meeting times and places with buyers. [@1] Officers documented two
 sales for which he received 1,800 and 3,000 hryvnias. [@1,2,5,7,8,10,11]
 
 During a search of his place of residence, officers seized almost 8 kilograms of
-cannabis kept at the home. [@1,2,3,4,6,7,8,9,10,11] Officers also seized electronic scales,
+cannabis kept at the home. [@1,2,3,4,6,7,8,9,10,11,12] Officers also seized electronic scales,
 packaging material, mobile phones and money found with the cannabis during the
 same home search. [@1,4,5]
 
 Police notified him of suspicion of illegal production, manufacture or storage
 for sale on an especially large scale or repeated sale of narcotics. [@1] A
 court ordered that he be held in custody with the possibility of posting 499,200
-hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5,6,7,8,9,10,11] The offence
+hryvnias bail while the pre-trial investigation continues. [@1,2,3,4,5,6,7,8,9,10,11,12] The offence
 carries up to 12 years' imprisonment with confiscation of property. [@1,2,4,6,7]
 
-He was detained immediately after another cannabis sale. [@2,4,5,6,9,10] Authorised searches were carried out both at his registered address and at his actual residence. [@2,4,5,10] The money seized included money in national and foreign currency. [@2]
+He was detained immediately after another cannabis sale. [@2,4,5,6,9,10,12] Authorised searches were carried out both at his registered address and at his actual residence. [@2,4,5,10] The money seized included money in national and foreign currency. [@2]
