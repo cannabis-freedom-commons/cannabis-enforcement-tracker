@@ -64,6 +64,11 @@ sources:
     publisher: Головне управління Національної поліції в Миколаївській області
     date: 2026-11-03
     language: uk
+  - title: У Миколаєві чоловік отримав дев'ять років в'язниці за вирощування конопель та зберігання канабісу
+    url: https://novosti-n.org/ua/news/U-Mykolayevi-cholovik-otrymav-dev-yat-rokiv-v-yaznyczi-za-vyroshhuvannya-konopel-ta-zberigannya-kanabisu-348341
+    publisher: Novosti-N
+    date: 2026-11-03
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so the report uses the publication date.
   - The search is dated only as 25 July with no year stated in the article text.
@@ -83,7 +88,7 @@ prison for growing cannabis on his household plot and storing dried, ground
 cannabis in the attic of his house. [@1,3,4,5] He was charged under part 3 of Article
 307 of Ukraine's Criminal Code for illegally making and storing drugs for sale
 on an especially large scale and part 1 of Article 310 for illegally sowing or
-growing cannabis. [@1,5,6] The court remanded him in custody with the option of
+growing cannabis. [@1,5,6,8] The court remanded him in custody with the option of
 posting bail. [@1,6] At trial he partly admitted guilt, conceding that he grew
 cannabis and made the drug but insisting it was only for personal use and not
 for sale. [@1] Mykolaivska Pravda gives the same account, reporting that the
@@ -106,4 +111,6 @@ from the convict. [@1] The 133,120-hryvnia bail posted for him is to be returned
 to his brother after the verdict enters into force, and the verdict can be
 appealed to the Mykolaiv Appeal Court within 30 days. [@1]
 
-The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7] The verdict has not entered into force. [@7]
+The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6,8] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7] The verdict has not entered into force. [@7,8]
+
+Officers of police department No. 2 of the Mykolaiv district police uncovered the man's activity in July. [@8] He tended the plants, fertilised the soil, removed weeds and watered them regularly. [@8]
