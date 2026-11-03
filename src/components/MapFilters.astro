@@ -1,0 +1,85 @@
+---
+// The map's filters, floating over it: a bar at the top (search with #tags, country, the time
+// switch with a Custom period) and, at the bottom, the type key, whose types switch on and off, over
+// the timeline, across which a period can be dragged. Under the bar, a row says what the map is
+// narrowed to, each filter with its own ×. Markup only: ReportBrowser's script (with
+// `mapFilters`) finds these by id, filters the list and the map, and keeps them in the address.
+import { reports, reportsOf, years, isoDate } from "../lib/reports.js";
+import { countries } from "../lib/countries.js";
+import { TYPES, typeIcon } from "../lib/types.js";
+
+const places = countries.filter((c) => !c.parent).sort((a, b) => a.name.localeCompare(b.name))
+  .flatMap((c) => [{ id: c.id, name: c.name, count: reportsOf(c.id).length },
+    ...countries.filter((s) => s.parent === c.id).map((s) => ({ id: s.id, name: ` ${s.name}`, count: reportsOf(s.id).length }))]);
+const usedTypes = Object.entries(TYPES).filter(([t]) => reports.some((r) => r.type === t || r.also?.includes(t)));
+const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const first = reports.map((r) => isoDate(r.date)).sort()[0] ?? "";
+---
+<form class="map-bar" id="map-bar" role="search" aria-label="Filter reports" onsubmit="return false">
+  <div class="map-bar-main">
+  <div class="map-bar-row">
+    <div class="range-switch" role="group" aria-label="Report time period">
+      <button type="button" data-range="24h" aria-pressed="false" aria-label="Last 24 hours: reports dated yesterday or today" title="Reports dated yesterday or today">24<span class="rs-long">&nbsp;hours</span><span class="rs-short">h</span></button>
+      <button type="button" data-range="7d" aria-pressed="false" aria-label="Last 7 days">7<span class="rs-long">&nbsp;days</span><span class="rs-short">d</span></button>
+      <button type="button" data-range="30d" aria-pressed="true" aria-label="Last 30 days">30<span class="rs-long">&nbsp;days</span><span class="rs-short">d</span></button>
+      <button type="button" data-range="1y" aria-pressed="false" aria-label="Last 12 months">Year</button>
+      <button type="button" data-range="all" aria-pressed="false" aria-label="All time">All</button>
+      <button type="button" class="custom-toggle" id="custom-toggle" aria-pressed="false" aria-expanded="false" aria-controls="custom-period" aria-haspopup="dialog">
+        <span id="custom-label">Custom</span>
+        <svg viewBox="0 0 10 6" aria-hidden="true"><path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.4" /></svg>
+      </button>
+    </div>
+    <button type="button" class="map-bar-toggle" id="map-bar-toggle" aria-expanded="false" aria-controls="map-bar-fields" aria-label="Filters: search and country">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4" /></svg>
+      <span class="map-bar-toggle-label">Filters</span><span class="filter-count" id="filter-count" hidden></span>
+    </button>
+  </div>
+  <div class="map-bar-fields" id="map-bar-fields">
+    <div class="map-search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="10" cy="10" r="6" /><path d="m15 15 6 6" /></svg>
+      <button type="button" class="tag-chip" id="tag-chip" hidden>#<span></span><b aria-hidden="true">×</b></button>
+      <input type="search" id="q" placeholder="Search reports, places, #tags…" aria-label="Search reports; type # for tags"
+        role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="tag-suggest" autocomplete="off" spellcheck="false" />
+      <ul class="tag-suggest" id="tag-suggest" role="listbox" aria-label="Tags" hidden></ul>
+    </div>
+    <select id="country" aria-label="Country">
+      <option value="">All countries</option>
+      {places.map((c) => <option value={c.id}>{c.name} ({c.count})</option>)}
+    </select>
+  </div>
+  <div class="custom-period" id="custom-period" role="dialog" aria-label="Custom period" hidden>
+    <fieldset class="custom-range">
+      <legend>From – to</legend>
+      <label>From <input type="date" id="range-from" min={first} /></label>
+      <label>To <input type="date" id="range-to" min={first} /></label>
+      <button type="button" id="range-apply">Apply</button>
+    </fieldset>
+    <fieldset class="calendar-filters" id="calendar-filters">
+      <legend>Or a calendar year and month</legend>
+      <select id="year" aria-label="Year">
+        <option value="">All years</option>
+        {years.map((y) => <option value={y}>{y}</option>)}
+      </select>
+      <select id="month" aria-label="Month">
+        <option value="">All months</option>
+        {MONTHS.map((m, i) => <option value={String(i + 1).padStart(2, "0")}>{m}</option>)}
+      </select>
+    </fieldset>
+    <p class="custom-tip">Or drag across the timeline at the bottom of the map.</p>
+  </div>
+  </div>
+  <div class="map-active" id="map-active" role="status" hidden>
+    <span class="map-active-count" id="map-active-count"></span>
+    <span class="map-active-chips" id="map-active-chips"></span>
+    <button class="clear-filters" id="clear-filters" type="button" hidden>Clear all</button>
+  </div>
+  <input type="hidden" id="type" value="" />
+  <input type="hidden" id="tag" value="" />
+</form>
+<div class="map-timeline">
+  <div class="map-legend" role="group" aria-label="Show only these types">
+    {usedTypes.map(([id, v]) => <button type="button" class="type" data-type-toggle={id} aria-pressed="false" title={v.help}><Fragment set:html={typeIcon(id, 16)} />{v.label}</button>)}
+  </div>
+  {/* drawn by the script; its height is kept from the start so the map does not jump when it loads */}
+  <div class="months" id="months" aria-label="Reports over time, stacked by primary category" aria-busy="true"></div>
+</div>

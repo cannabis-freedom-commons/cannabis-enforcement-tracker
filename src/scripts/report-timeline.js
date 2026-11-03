@@ -74,3 +74,21 @@ export function axisTicks(keys, scale, width, gap = 56) {
   }
   return ticks;
 }
+
+// The first and last day a bar covers: a day, a month ("2026-03") or a year ("2026").
+export function bucketRange(key) {
+  if (isReportDay(key)) return { from: key, to: key };
+  if (/^\d{4}-(0[1-9]|1[0-2])$/.test(key)) {
+    const [y, m] = key.split("-").map(Number);
+    return { from: `${key}-01`, to: new Date(Date.UTC(y, m, 0)).toISOString().slice(0, 10) };
+  }
+  if (/^\d{4}$/.test(key)) return { from: `${key}-01-01`, to: `${key}-12-31` };
+  return null;
+}
+
+// Dragging across bars from one key to another (either way round) selects the days they cover.
+export function brushRange(a, b) {
+  const x = bucketRange(a), y = bucketRange(b);
+  if (!x || !y) return null;
+  return { from: x.from < y.from ? x.from : y.from, to: x.to > y.to ? x.to : y.to };
+}

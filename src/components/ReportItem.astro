@@ -5,7 +5,7 @@ import { Image } from "astro:assets";
 import { flagOf } from "../lib/countries.js";
 import { imageProxy } from "../lib/media.js";
 const { r, search = true, zoom = false } = Astro.props;
-// zoom: a button beside the title that shows the report on the page's map (the map's side pane)
+// zoom: a button at the end of the first line that shows the report on the page's map (the map's side pane)
 const base = import.meta.env.BASE_URL;
 const ZOOM_ICON = '<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg>';
 const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r.tags ?? [])].join(" ").toLowerCase();
@@ -16,8 +16,9 @@ const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r
     <span class="type" style={`--c:${r.color}`}>{r.typeLabel}</span>
     <time datetime={isoDate(r.date)}>{formatDate(r.date)}</time>
     <a href={`${base}country/${r.country}/`}>{flagOf(r.country)} {r.countryName}</a>
+    {zoom && r.coordinates && <button type="button" class="zoom-to" data-zoom={r.id} aria-label="Show on the map" title="Show on the map"><Fragment set:html={ZOOM_ICON} /></button>}
   </div>
-  <h3><a href={`${base}${r.url}`}>{r.title}</a>{zoom && r.coordinates && <button type="button" class="zoom-to" data-zoom={r.id} aria-label="Show on the map" title="Show on the map"><Fragment set:html={ZOOM_ICON} /></button>}</h3>
+  <h3><a href={`${base}${r.url}`}>{r.title}</a></h3>
   {/* the photo floats right after the title; the summary wraps around it */}
   {r.cover
     ? <Image class="thumb" src={r.cover.image} alt="" width={264} height={184} fit="cover" loading="lazy" />

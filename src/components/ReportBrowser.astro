@@ -5,7 +5,8 @@
 // (/api/index.json). Used by the map's side pane (compact) and by the Reports page. The filters also
 // narrow the map's markers ("reports:filter") and pointing at a report rings its marker
 // ("reports:hover") where a map is on the page. With country, it lists only that country's reports
-// (a country page): the country is fixed, not a filter.
+// (a country page): the country is fixed, not a filter. With mapFilters (the map), the filters and the
+// timeline are MapFilters, floating over the map, and this is only the count and the list.
 import ReportItem from "./ReportItem.astro";
 import ReportYears from "./ReportYears.astro";
 import { reports, reportsOf, years } from "../lib/reports.js";
@@ -13,7 +14,7 @@ import { countries } from "../lib/countries.js";
 import { TYPES } from "../lib/types.js";
 import { rankedTags } from "../lib/report-tags.js";
 
-const { page: PAGE = 30, compact = false, country = null } = Astro.props;
+const { page: PAGE = 30, compact = false, country = null, mapFilters = false } = Astro.props;
 const all = country ? reportsOf(country) : reports;
 const popularTags = rankedTags(all).slice(0, 6);
 const allYears = country ? [...new Set(all.map((r) => r.year))].sort((a, b) => b - a) : years;
@@ -28,6 +29,7 @@ const base = import.meta.env.BASE_URL;
 const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { label: v.label, color: v.color }]));
 ---
 <div class:list={["browser", { compact }]}>
+  {!mapFilters && <>
   <form class="filters" role="search" onsubmit="return false">
     <input type="search" id="q" placeholder="Search reports, places, tags…" aria-label="Search" />
     <select id="type" aria-label="Type">
@@ -84,6 +86,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     <span id="day-filter-label"></span>
     <button type="button" id="clear-day" aria-label="Clear the selected day">Clear day ×</button>
   </p>
+  </>}
   <p class="count" id="count" aria-live="polite">{fmt(all.length)} reports · newest first</p>
   {/* the map's side pane: one plain list; the Reports page: by year, with a sticky month index */}
   {compact
@@ -109,15 +112,18 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   // are kept in the address (?type=raid&country=ng&year=2026), so a filtered view can be shared.
   import { loadIndex, inCountry, type Row } from "../scripts/report-index";
   import { yearsHTML, appendYears } from "../scripts/report-years.js";
-  import { reportTimeline, timelineSelection, axisTicks } from "../scripts/report-timeline.js";
-  import { readPeriod, changePeriod } from "../scripts/report-period.js";
+  import { reportTimeline, timelineSelection, axisTicks, brushRange } from "../scripts/report-timeline.js";
+  import { readPeriod, changePeriod, rangePeriod, periodLabel } from "../scripts/report-period.js";
   import { timelineTooltip } from "../scripts/report-timeline-tooltip.js";
   import { reportDay, compareReports } from "../lib/report-time.js";
   import { imageProxy } from "../lib/media.js";
   import { hasTag } from "../lib/report-tags.js";
   import { initTagPicker } from "../scripts/report-tag-picker.js";
+  import { initTagSuggest } from "../scripts/report-tag-suggest.js";
 
   const $ = <T extends HTMLElement = HTMLInputElement>(id: string) => document.getElementById(id) as T;
+  const maybe = (id: string) => document.getElementById(id); // a part only one of the layouts has
+  const onMap = maybe("map-bar") != null; // the filters float over the map (MapFilters)
   const list = $<HTMLElement>("list");
   const byYear = list.dataset.years != null; // the Reports page: grouped by year and month
   const base = list.dataset.base!, PAGE = Number(list.dataset.page), types = JSON.parse(list.dataset.types!);
@@ -132,34 +138,63 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   $("tag").value = $("tag").value.trim().toLowerCase();
   let updateTags: ((rows: Row[]) => void) | undefined;
   // One Time control owns both rolling periods and calendar selections.
-  const RANGES: Record<string, number> = { "7d": 7, "30d": 30, "1y": 365, all: 0 };
+  // incident dates are days, so the last 24 hours are the reports dated yesterday or today (UTC)
+  const RANGES: Record<string, number> = { "24h": 1, "7d": 7, "30d": 30, "1y": 365, all: 0 };
   const DEFAULT_RANGE = list.closest(".compact") ? "30d" : "all";
-  let period = readPeriod(params, DEFAULT_RANGE, { allowRelative: !byYear });
+  let period = readPeriod(params, DEFAULT_RANGE, { allowRelative: !byYear, allowRange: onMap });
   let range = period.range;
   const setPeriod = (next: ReturnType<typeof readPeriod>) => {
-    period = next; range = next.range; day = next.date;
+    period = { from: "", to: "", ...next }; range = next.range; day = next.date;
     $("year").value = next.year; $("month").value = next.month;
-    $("period").value = next.mode;
-    $("calendar-filters").hidden = next.mode !== "calendar";
+    const select = maybe("period") as HTMLSelectElement | null;
+    if (select) {
+      select.value = next.mode;
+      $("calendar-filters").hidden = next.mode !== "calendar";
+    }
     document.querySelectorAll<HTMLButtonElement>("[data-range]").forEach((button) => {
       button.setAttribute("aria-pressed", String(button.dataset.range === next.mode));
     });
+    if (onMap) {
+      const custom = next.mode === "calendar";
+      $("custom-toggle").setAttribute("aria-pressed", String(custom));
+      $("custom-label").textContent = custom ? periodLabel(period) : "Custom";
+      $("range-from").value = period.from; $("range-to").value = period.to;
+    }
   };
   setPeriod(period);
   const since = () => (RANGES[range] ? new Date(Date.now() - RANGES[range] * 864e5).toISOString().slice(0, 10) : "");
 
-  function showCustomSearch() {
-    const banner = document.getElementById("map-search");
-    if (!banner) return;
-    const active = fields.filter((f) => $(f).value.trim());
-    banner.hidden = active.length === 0 && !day;
-    const labels = active.map((f) => {
-      const field = $(f);
-      if (f === "tag") return `#${field.value}`;
-      return field instanceof HTMLSelectElement ? field.selectedOptions[0].textContent!.trim() : `“${field.value.trim()}”`;
-    });
-    if (day) labels.push(fmtDate(day));
-    $("map-search-summary").textContent = labels.join(" · ");
+  // the map's legend shows which types are on; on a phone, the Filters button counts what is set;
+  // under the bar, a row names every filter in force (each with a × that drops it) and the count
+  const PRESETS: Record<string, string> = { "24h": "Last 24 hours", "7d": "Last 7 days", "30d": "Last 30 days", "1y": "Last 12 months", all: "All time" };
+  function showMapFilters() {
+    if (!onMap) return;
+    const on = $("type").value.split(",").filter(Boolean);
+    document.querySelectorAll<HTMLButtonElement>("[data-type-toggle]").forEach((b) => b.setAttribute("aria-pressed", String(on.includes(b.dataset.typeToggle!))));
+    $("map-bar").classList.toggle("types-on", on.length > 0);
+    const n = ["q", "country", "tag"].filter((f) => $(f).value.trim()).length + (on.length ? 1 : 0);
+    $("filter-count").hidden = !n;
+    $("filter-count").textContent = String(n);
+    const chips: [string, string, string?][] = []; // [what × clears, label, colour]
+    const q = $("q").value.trim().split(/\s+/).filter((w) => w && !w.startsWith("#")).join(" ");
+    if (q) chips.push(["q", `“${q}”`]);
+    if ($("tag").value) chips.push(["tag", `#${$("tag").value}`]);
+    if ($("country").value) chips.push(["country", ($("country") as unknown as HTMLSelectElement).selectedOptions[0].textContent!.trim().replace(/\s*\(\d[\d,]*\)$/, "")]);
+    for (const t of on) if (types[t]) chips.push([`type:${t}`, types[t].label, types[t].color]);
+    if (period.mode !== DEFAULT_RANGE) chips.push(["period", period.mode === "calendar" ? periodLabel(period) : PRESETS[period.mode] ?? period.mode]);
+    const row = $("map-active");
+    row.hidden = chips.length === 0;
+    $("map-active-chips").replaceChildren(...chips.map(([key, label, color]) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "active-chip"; b.dataset.clear = key;
+      b.setAttribute("aria-label", `Remove the filter ${label}`);
+      if (color) { const dot = document.createElement("i"); dot.style.background = color; b.append(dot); }
+      const text = document.createElement("span"); text.textContent = label;
+      const x = document.createElement("b"); x.setAttribute("aria-hidden", "true"); x.textContent = "×";
+      b.append(text, x);
+      return b;
+    }));
+    $("map-active-count").textContent = `${shown.length.toLocaleString("en-GB")} ${shown.length === 1 ? "report" : "reports"}`;
   }
 
   const esc = (s = "") => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
@@ -175,20 +210,22 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}">
     <div class="meta"><span class="type" style="--c:${types[r.t].color}">${esc(types[r.t].label)}</span>
       <time datetime="${r.d}">${fmtDate(r.d)}</time>
-      <a href="${base}country/${r.c}/">${flag(r.c)} ${esc(countries[r.c])}</a></div>
+      <a href="${base}country/${r.c}/">${flag(r.c)} ${esc(countries[r.c])}</a>${zoomable && r.ll ? `<button type="button" class="zoom-to" data-zoom="${r.i}" aria-label="Show on the map" title="Show on the map"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg></button>` : ""}</div>
 
-    <h3><a href="${base}report/${r.i}/">${esc(r.ti)}</a>${zoomable && r.ll ? `<button type="button" class="zoom-to" data-zoom="${r.i}" aria-label="Show on the map" title="Show on the map"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg></button>` : ""}</h3>
+    <h3><a href="${base}report/${r.i}/">${esc(r.ti)}</a></h3>
     ${thumb(r)}<p>${esc(r.s)}</p>
     ${r.f.length ? `<div class="figs-inline">${r.f.map(([l, v]) => `<span>${esc(l)} <b>${esc(v)}</b></span>`).join("")}</div>` : ""}
   </li>`;
 
   function matches(r: Row, skipDay = false, skipTag = false) {
     const date = dateOf(r);
-    const q = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    const type = $("type").value, country = $("country").value, year = $("year").value, month = $("month").value;
-    return (!type || r.t === type || r.a.includes(type))
+    // a word still being typed as "#tag" waits for the tag to be chosen
+    const q = $("q").value.trim().toLowerCase().split(/\s+/).filter((w) => w && !w.startsWith("#"));
+    const type = $("type").value.split(",").filter(Boolean), country = $("country").value, year = $("year").value, month = $("month").value;
+    return (!type.length || type.some((t) => r.t === t || r.a.includes(t)))
       && (!country || inCountry(r, country))
       && (!year || date.startsWith(year)) && (!month || date.slice(5, 7) === month)
+      && (!period.from || date >= period.from) && (!period.to || date <= period.to)
       && (!since() || (date >= since() && date <= new Date().toISOString().slice(0, 10)))
       && (skipDay || !day || date === day)
       && (skipTag || hasTag(r, $("tag").value))
@@ -220,27 +257,37 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       ? `All ${shown.length.toLocaleString("en-GB")} ${shown.length === 1 ? "report" : "reports"} shown`
       : `${renderedCount.toLocaleString("en-GB")} of ${shown.length.toLocaleString("en-GB")} reports shown · scroll for more`;
     $("empty").hidden = shown.length > 0;
-    $("day-filter").hidden = !day;
-    $("day-filter-label").textContent = day ? `Incident day: ${fmtDate(day)}` : "";
-    const active = fields.some((f) => $(f).value) || !!day || range !== "all";
-    $("clear-filters").hidden = !active && period.mode !== "calendar";
+    const dayFilter = maybe("day-filter");
+    if (dayFilter) {
+      dayFilter.hidden = !day;
+      $("day-filter-label").textContent = day ? `Incident day: ${fmtDate(day)}` : "";
+    }
+    const narrowed = fields.some((f) => $(f).value) || !!day || range !== "all" || period.mode === "calendar";
+    // the map's own default period (the last 30 days) is not something to clear
+    const active = fields.some((f) => $(f).value) || !!day || period.mode !== DEFAULT_RANGE;
+    $("clear-filters").hidden = onMap ? $("map-active-chips").children.length < 2 : !active && period.mode !== "calendar";
     const n = shown.length.toLocaleString("en-GB"), all = rows.length.toLocaleString("en-GB");
-    const when = ({ "7d": "in the last 7 days", "30d": "in the last 30 days", "1y": "in the last 12 months" } as Record<string, string>)[range];
-    $("count").textContent = !active ? `${all} reports · latest incidents first`
-      : `${n} of ${all} reports by incident date${day ? ` · ${fmtDate(day)}` : when ? ` ${when}` : ""}`;
+    const when = ({ "24h": "dated yesterday or today", "7d": "in the last 7 days", "30d": "in the last 30 days", "1y": "in the last 12 months" } as Record<string, string>)[range];
+    $("count").textContent = !narrowed ? `${all} reports · latest incidents first`
+      : `${n} of ${all} reports by incident date${day ? ` · ${fmtDate(day)}` : when ? ` ${when}` : onMap && period.mode === "calendar" ? ` · ${periodLabel(period)}` : ""}`;
   }
 
   // The chart shares the map's filters, including its selected time window.
   function months() {
-    const daily = range === "7d" || range === "30d" || !!$("month").value || !!day;
+    const today = new Date().toISOString().slice(0, 10);
     // all time over five years or more: a bar per year; a shorter history: a bar per month
     const matching = rows.filter((r) => matches(r, true)), dates = matching.map(dateOf).filter(Boolean).sort();
+    // a From–To period: a bar per day up to six months, per year beyond six years, else per month
+    const custom = !!(period.from || period.to);
+    const first = custom ? period.from || dates[0] || today : "", last = custom ? period.to || today : "";
+    const span = custom ? (Date.parse(last) - Date.parse(first)) / 864e5 : 0;
+    const daily = custom ? span <= 186 : range === "24h" || range === "7d" || range === "30d" || !!$("month").value || !!day;
     const longHistory = dates.length > 0 && Number(dates.at(-1)!.slice(0, 4)) - Number(dates[0].slice(0, 4)) >= 5;
-    const yearly = range === "all" && !$("year").value && !daily && longHistory;
-    const dayCalendar = day && range !== "7d" && range !== "30d";
+    const yearly = custom ? span > 6 * 366 : range === "all" && !$("year").value && !daily && longHistory;
+    const dayCalendar = !custom && day && range !== "24h" && range !== "7d" && range !== "30d";
     const series = reportTimeline(matching, {
       dateOf,
-      start: since(), end: new Date().toISOString().slice(0, 10),
+      start: custom ? first : since(), end: custom ? last : today,
       year: $("year").value || (dayCalendar ? day.slice(0, 4) : ""),
       month: $("month").value || (dayCalendar ? day.slice(5, 7) : ""), daily, yearly,
     });
@@ -285,8 +332,8 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   function apply(resetLimit = true) {
     hideTimelineTooltip();
     if (resetLimit) limit = PAGE;
-    showCustomSearch();
     shown = rows.filter((r) => matches(r)).sort(compareReports);
+    showMapFilters();
     updateTags?.(rows.filter(r => matches(r, false, true)));
     render();
     months();
@@ -295,6 +342,8 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     const p = new URLSearchParams();
     for (const f of fields) if ($(f).value) p.set(f, $(f).value);
     if (day) p.set("date", day);
+    if (period.from) p.set("from", period.from);
+    if (period.to) p.set("to", period.to);
     if (period.mode !== DEFAULT_RANGE) p.set("range", period.mode);
     history.replaceState(null, "", (p.size ? `?${p}` : location.pathname) + location.hash); // the hash is the map's view
   }
@@ -321,6 +370,107 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   const hover = (id: string | null) => document.dispatchEvent(new CustomEvent("reports:hover", { detail: id }));
   list.addEventListener("mouseover", (e) => hover((e.target as HTMLElement).closest<HTMLElement>(".report-item")?.dataset.id ?? null));
   list.addEventListener("mouseleave", () => hover(null));
+  // and pointing at a marker on the map marks its report in the list, where it is drawn
+  document.addEventListener("map:hover", ((e: CustomEvent<string | null>) => {
+    list.querySelector(".report-item.map-hovered")?.classList.remove("map-hovered");
+    if (e.detail) list.querySelector(`.report-item[data-id="${CSS.escape(e.detail)}"]`)?.classList.add("map-hovered");
+  }) as EventListener);
+
+  // Dragging across two or more of the map's timeline bars picks the days they cover (a plain click
+  // still picks one bar). The pointer is captured only once the drag reaches a second bar, so a click
+  // stays a click on its bar.
+  let dragged = false;
+  if (onMap) {
+    const box = $("months");
+    let drag: { start: number; end: number; pointer: number } | null = null;
+    const bars = () => [...box.querySelectorAll<HTMLButtonElement>("button[data-m]")];
+    const barAt = (x: number) => {
+      const r = box.getBoundingClientRect(), n = bars().length;
+      return Math.max(0, Math.min(n - 1, Math.floor(((x - r.left) / r.width) * n)));
+    };
+    const paint = () => bars().forEach((b, i) => b.classList.toggle("in-drag", !!drag && drag.start !== drag.end
+      && i >= Math.min(drag.start, drag.end) && i <= Math.max(drag.start, drag.end)));
+    box.addEventListener("pointerdown", (e) => {
+      if (e.button !== 0 || !bars().length) return;
+      dragged = false;
+      drag = { start: barAt(e.clientX), end: barAt(e.clientX), pointer: e.pointerId };
+    });
+    box.addEventListener("pointermove", (e) => {
+      if (!drag || e.pointerId !== drag.pointer) return;
+      const at = barAt(e.clientX);
+      if (at === drag.end) return;
+      if (!box.hasPointerCapture(e.pointerId)) box.setPointerCapture(e.pointerId);
+      drag.end = at;
+      hideTimelineTooltip();
+      paint();
+    });
+    const end = (e: PointerEvent) => {
+      if (!drag || e.pointerId !== drag.pointer) return;
+      const { start, end: stop } = drag, list = bars();
+      drag = null;
+      paint();
+      if (e.type !== "pointerup" || start === stop) return;
+      const picked = brushRange(list[start].dataset.m!, list[stop].dataset.m!);
+      if (!picked) return;
+      dragged = true; // the click that follows the drag is not a pick of one bar
+      setTimeout(() => { dragged = false; });
+      setPeriod(rangePeriod(picked.from, picked.to));
+      apply();
+    };
+    box.addEventListener("pointerup", end);
+    box.addEventListener("pointercancel", end);
+  }
+
+  // The map's bar: the Custom period's popover, the legend's types, and on a phone the Filters button.
+  function initMapFilters() {
+    const popover = $("custom-period"), toggle = $("custom-toggle");
+    const open = (show: boolean) => {
+      popover.hidden = !show;
+      toggle.setAttribute("aria-expanded", String(show));
+      if (show) {
+        $("range-to").max = $("range-from").max = new Date().toISOString().slice(0, 10);
+        $("range-from").focus({ preventScroll: true });
+      }
+    };
+    toggle.addEventListener("click", () => open(popover.hidden));
+    document.addEventListener("pointerdown", (e) => {
+      if (!popover.hidden && !popover.contains(e.target as Node) && !toggle.contains(e.target as Node)) open(false);
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !popover.hidden) { open(false); toggle.focus(); }
+    });
+    const applyRange = () => {
+      setPeriod(rangePeriod($("range-from").value, $("range-to").value));
+      apply();
+      open(false);
+      toggle.focus({ preventScroll: true });
+    };
+    $("range-apply").addEventListener("click", applyRange);
+    for (const id of ["range-from", "range-to"]) $(id).addEventListener("keydown", (e) => { if (e.key === "Enter") { e.preventDefault(); applyRange(); } });
+    document.querySelectorAll<HTMLButtonElement>("[data-type-toggle]").forEach((b) => b.addEventListener("click", () => {
+      const on = new Set($("type").value.split(",").filter(Boolean)), id = b.dataset.typeToggle!;
+      if (on.has(id)) on.delete(id); else on.add(id);
+      $("type").value = [...on].join(",");
+      apply();
+    }));
+    $("map-active-chips").addEventListener("click", (e) => {
+      const key = (e.target as HTMLElement).closest<HTMLElement>("[data-clear]")?.dataset.clear;
+      if (!key) return;
+      if (key === "period") setPeriod(changePeriod(DEFAULT_RANGE, {}));
+      else if (key === "q") $("q").value = "";
+      else if (key.startsWith("type:")) $("type").value = $("type").value.split(",").filter((t) => t && t !== key.slice(5)).join(",");
+      else $(key).value = "";
+      apply();
+      ($("map-active-chips").querySelector<HTMLElement>("[data-clear]") ?? $("q")).focus({ preventScroll: true });
+    });
+    const bar = $("map-bar"), more = $("map-bar-toggle");
+    more.addEventListener("click", () => {
+      const show = !bar.classList.contains("fields-open");
+      bar.classList.toggle("fields-open", show);
+      more.setAttribute("aria-expanded", String(show));
+      if (show) $("q").focus({ preventScroll: true });
+    });
+  }
 
   loadIndex(base).then((idx) => {
     rows = fixedCountry ? idx.reports.filter((r) => inCountry(r, fixedCountry)) : idx.reports; countries = idx.countries;
@@ -332,17 +482,23 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       $("year").value = selected;
     };
     updateYears();
-    updateTags = initTagPicker($("tag-filter"), { selected: () => $("tag").value, onSelect: (tag: string) => { $("tag").value = tag; apply(); } });
+    const onTag = (tag: string) => { $("tag").value = tag; apply(); };
+    updateTags = onMap
+      ? initTagSuggest($("q"), $("tag-suggest"), $("tag-chip"), { selected: () => $("tag").value, onSelect: onTag })
+      : initTagPicker($("tag-filter"), { selected: () => $("tag").value, onSelect: onTag });
     haystack = new Map(rows.map((r) => [r, [r.ti, r.s, r.p, countries[r.c], types[r.t].label, r.k].join(" ").toLowerCase()]));
     for (const f of fields) $(f).addEventListener("input", () => {
-      if (f === "year" || f === "month") setPeriod({ mode: "calendar", range: "all", year: $("year").value, month: $("month").value, date: "" });
+      if (f === "year" || f === "month") {
+        const calendar = { mode: "calendar", range: "all", year: $("year").value, month: $("month").value, date: "" };
+        setPeriod(onMap && !calendar.year && !calendar.month ? changePeriod("all", {}) : calendar);
+      }
       apply();
     });
-    $("period").addEventListener("change", () => {
+    maybe("period")?.addEventListener("change", () => {
       setPeriod(changePeriod($("period").value, { year: $("year").value, month: $("month").value, date: day }, $("year").querySelectorAll("option")[1]?.value || ""));
       apply();
     });
-    $("clear-day").addEventListener("click", () => { day = ""; period.date = ""; apply(); $("q").focus({ preventScroll: true }); });
+    maybe("clear-day")?.addEventListener("click", () => { day = ""; period.date = ""; apply(); $("q").focus({ preventScroll: true }); });
     const loadMore = () => {
       if (renderedCount >= shown.length) return;
       limit = Math.min(shown.length, limit + PAGE);
@@ -360,12 +516,16 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     }
     $("months").addEventListener("click", (e) => {
       const b = (e.target as HTMLElement).closest("button");
-      if (!b) return;
+      if (!b || dragged) return;
       const key = b.dataset.m!;
       const selection = timelineSelection(key, { year: $("year").value, month: $("month").value, date: day });
       if (!selection) return;
-      if (selection.date) { selection.year = selection.date.slice(0, 4); selection.month = selection.date.slice(5, 7); }
-      setPeriod({ mode: "calendar", range: "all", ...selection });
+      const inRange = (period.from || period.to) && /^\d{4}-\d{2}-\d{2}$/.test(key);
+      if (inRange) setPeriod({ ...period, date: selection.date }); // a day inside a From–To period keeps the period
+      else {
+        if (selection.date) { selection.year = selection.date.slice(0, 4); selection.month = selection.date.slice(5, 7); }
+        setPeriod({ mode: "calendar", range: "all", ...selection });
+      }
       apply();
       ($("months").querySelector<HTMLButtonElement>(`button[data-m="${key}"]`) || $("months").querySelector<HTMLButtonElement>("button"))?.focus({ preventScroll: true });
       hideTimelineTooltip();
@@ -377,12 +537,12 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     }));
     const clearFilters = () => {
       for (const field of fields) $(field).value = "";
-      setPeriod(changePeriod("all", {}));
+      setPeriod(changePeriod(DEFAULT_RANGE, {}));
       apply();
       $("q").focus({ preventScroll: true });
     };
     $("clear-filters").addEventListener("click", clearFilters);
-    document.getElementById("clear-map-search")?.addEventListener("click", clearFilters);
+    if (onMap) initMapFilters();
     apply(); // by year: the counts and months of all reports
   });
 </script>

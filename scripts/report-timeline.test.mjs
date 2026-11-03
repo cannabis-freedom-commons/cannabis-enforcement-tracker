@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { reportTimeline, isReportDay, timelineSelection } from '../src/scripts/report-timeline.js';
+import { reportTimeline, isReportDay, timelineSelection, bucketRange, brushRange } from '../src/scripts/report-timeline.js';
 
 const rows = [
   { d: '2023-01-01', t: 'raid' },
@@ -64,4 +64,14 @@ test('calendar selection clears a narrower day and rejects invalid dates', () =>
     assert.equal(isReportDay(invalid), false);
     if (invalid && invalid !== "2026-10") assert.equal(timelineSelection(invalid), null);
   }
+});
+
+test('dragging across bars selects every day they cover, in either direction', () => {
+  assert.deepEqual(bucketRange('2024-02'), { from: '2024-02-01', to: '2024-02-29' });
+  assert.deepEqual(bucketRange('2023'), { from: '2023-01-01', to: '2023-12-31' });
+  assert.deepEqual(bucketRange('2026-10-27'), { from: '2026-10-27', to: '2026-10-27' });
+  assert.equal(bucketRange('2026-13'), null);
+  assert.deepEqual(brushRange('2026-04', '2026-02'), { from: '2026-02-01', to: '2026-04-30' });
+  assert.deepEqual(brushRange('2026-10-29', '2026-10-27'), { from: '2026-10-27', to: '2026-10-29' });
+  assert.equal(brushRange('x', '2026'), null);
 });

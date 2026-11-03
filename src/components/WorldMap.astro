@@ -121,7 +121,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     let index: Awaited<ReturnType<typeof loadIndex>>;
     let rows: Row[] = [];        // this map's reports
     let shown: Row[] = [];       // those the filters let through
-    let hovered = "";
+    let hovered = "";            // the report pointed at, in a list or on the map: spotlit
     const KEY = "map-layers-v2";    // which Landrace layers are on, remembered in this browser
     let chosen: Record<string, boolean> = { cluster: false, globe: false, area: true, region: true, accession: true };
     // the Landrace files each layer needs, and the map layers it draws
@@ -259,7 +259,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
     // the report markers, grouped into clusters only when the reader chose it; a "clusters" layer is
     // always there (empty without grouping), as the Landrace layers are placed under it
-    const REPORT_LAYERS = ["reports", "focus", "hover", "cluster-count", "clusters"];
+    const REPORT_LAYERS = ["reports", "focus", "cluster-count", "clusters"];
     function addReports() {
       const c = INK[theme()];
       map.addSource("reports", { type: "geojson", data: geojson(shown), cluster: chosen.cluster, clusterRadius: 26, clusterMaxZoom: 5 });
@@ -274,9 +274,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         paint: { "text-color": c.bg },
       });
       const ring = (r: number, w: number) => ({ "circle-radius": r * markerScale, "circle-color": theme() === "dark" ? "rgba(242,240,233,.16)" : "rgba(17,17,15,.10)", "circle-stroke-color": c.ink, "circle-stroke-width": w * markerScale });
-      // a ring under the report the reader points at in a list, and under the one this page is about
-      map.addLayer({ id: "hover", type: "circle", source: "reports", filter: ["==", ["get", "id"], hovered], paint: ring(18, 2) });
-      // (a report page's own map shows its accuracy circle instead)
+      // a ring under the one this page is about (a report page's own map shows its accuracy circle instead)
       map.addLayer({ id: "focus", type: "circle", source: "reports", filter: single ? ["==", ["get", "id"], ""] : ["all", ["!", ["has", "point_count"]], ["get", "focus"]], paint: ring(17, 1.5) });
       map.addLayer({
         id: "reports", type: "symbol", source: "reports", filter: ["!", ["has", "point_count"]],
@@ -288,6 +286,57 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         },
         paint: { "icon-opacity": single ? ["case", ["get", "focus"], 1, FADE] : 1 },
       });
+      addSpot();
+    }
+
+    // The spotlit report, pointed at in a list or on the map: an HTML marker over the map, larger, on
+    // a pulsing ring, so it stands out among crowded markers without changing them. It moves at once:
+    // nothing in MapLibre is re-cut or repainted (a GeoJSON source or a filter would go through its
+    // worker first). The Landrace areas and regions it lies in are outlined from a tiny source.
+    const SPOT_LAYERS = ["spot-region-fill", "spot-region-line", "spot-area-fill", "spot-area-line", "spot-area-dot"];
+    const spotEl = document.createElement("div");
+    spotEl.className = "map-spot";
+    spotEl.setAttribute("aria-hidden", "true");
+    const spotMarker = new maplibregl.Marker({ element: spotEl, anchor: "center" });
+    let spotData: any = { type: "FeatureCollection", features: [] };
+    function addSpot() {
+      if (single) return;
+      const c = INK[theme()];
+      for (const id of SPOT_LAYERS) if (map.getLayer(id)) map.removeLayer(id);
+      if (!map.getSource("spot")) map.addSource("spot", { type: "geojson", data: spotData });
+      const kind = (k: string): any => ["==", ["get", "kind"], k];
+      map.addLayer({ id: "spot-region-fill", type: "fill", source: "spot", filter: kind("region"), paint: { "fill-color": c.greenFill, "fill-opacity": 0.12 } });
+      map.addLayer({ id: "spot-region-line", type: "line", source: "spot", filter: kind("region"), paint: { "line-color": c.green, "line-width": 1.2, "line-dasharray": [3, 2] } });
+      map.addLayer({ id: "spot-area-fill", type: "fill", source: "spot", filter: kind("area"), paint: { "fill-color": c.greenFill, "fill-opacity": 0.3 } });
+      map.addLayer({ id: "spot-area-line", type: "line", source: "spot", filter: kind("area"), paint: { "line-color": c.green, "line-width": ["interpolate", ["linear"], ["zoom"], 2, 0.8, 8, 1.6] } });
+      map.addLayer({ id: "spot-area-dot", type: "circle", source: "spot", filter: kind("dot"), paint: { "circle-radius": ["interpolate", ["linear"], ["zoom"], 1, 5 * markerScale, 6, 14 * markerScale, 10, 34 * markerScale], "circle-color": c.greenFill, "circle-opacity": 0.3, "circle-stroke-color": c.green, "circle-stroke-width": 1 } });
+    }
+    function spotlight(id: string) {
+      if (id === hovered) return;
+      hovered = id;
+      if (!map.getSource("spot")) return;
+      const r = id ? rows.find((x) => x.i === id) : null, features: any[] = [];
+      if (r?.ll) {
+        // the Landrace areas and regions drawn under the report's marker, whole (a rendered feature
+        // is cut at its tile's edge, so the outline is taken from the loaded file by its name)
+        const LR: Record<string, [string, any]> = { "landrace-region-fill": ["region", loaded.regions], "landrace-area-fill": ["area", loaded.areas], "landrace-area-dot": ["dot", null] };
+        const layers = Object.keys(LR).filter((l) => map.getLayer(l) && map.getLayoutProperty(l, "visibility") !== "none");
+        const seen = new Set<string>();
+        for (const f of layers.length ? map.queryRenderedFeatures(map.project(r.ll), { layers }) : []) {
+          const [k, file] = LR[f.layer.id], name = (f.properties as any).name;
+          if (seen.has(`${k}:${name}`)) continue;
+          seen.add(`${k}:${name}`);
+          const whole = file?.features?.find((g: any) => g.properties?.name === name);
+          features.push({ type: "Feature", geometry: whole?.geometry ?? f.geometry, properties: { kind: k } });
+        }
+        spotEl.innerHTML = types[r.t].icon; // the type's own SVG, built with the site
+        spotMarker.setLngLat(r.ll).addTo(map);
+      } else spotMarker.remove();
+      // the worker is asked only when the Landrace outlines change
+      if (features.length || spotData.features.length) {
+        spotData = { type: "FeatureCollection", features };
+        (map.getSource("spot") as maplibregl.GeoJSONSource).setData(spotData);
+      }
     }
     // switching grouping on or off: a GeoJSON source cannot change that, so the markers are redrawn
     function regroup() {
@@ -393,12 +442,21 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         }
         return null;
       };
-      let current = "";
+      let current = "", mapHover = false;
+      // pointing at a report marker spotlights it here and marks it in the list beside the map; leaving
+      // it puts everything back on the next frame
+      const pointAt = (id: string) => {
+        if (single || (!id && !mapHover)) return;
+        mapHover = !!id;
+        spotlight(id);
+        document.dispatchEvent(new CustomEvent("map:hover", { detail: id || null }));
+      };
       // no hover boxes on a report page's small map: it shows one place, not a map to explore
       if (!single) map.on("mousemove", (e) => {
         const hit = hitAt(e.point);
-        if (!hit) { if (current) { popup.remove(); current = ""; map.getCanvas().style.cursor = ""; } return; }
+        if (!hit) { pointAt(""); if (current) { popup.remove(); current = ""; map.getCanvas().style.cursor = ""; } return; }
         const { layer, f } = hit, p = f.properties as any;
+        pointAt(layer === "reports" ? p.id : "");
         map.getCanvas().style.cursor = layer === "clusters" ? "zoom-in" : "pointer";
         if (layer === "clusters") { popup.remove(); current = "cluster"; return; }
         const key = `${layer}:${p.id ?? p.url ?? p.name}`;
@@ -410,7 +468,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
           : landraceBox(p);
         popup.setLngLat(point).setHTML(html).addTo(map);
       });
-      map.getCanvas().addEventListener("mouseleave", () => { popup.remove(); current = ""; });
+      map.getCanvas().addEventListener("mouseleave", () => { popup.remove(); current = ""; pointAt(""); });
       map.on("click", async (e) => {
         const hit = hitAt(e.point);
         if (!hit) return;
@@ -431,8 +489,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       document.addEventListener("reports:zoom", ((e: CustomEvent<string>) => {
         const r = rows.find((x) => x.i === e.detail);
         if (!r?.ll) return;
-        hovered = r.i;
-        if (map.getLayer("hover")) map.setFilter("hover", ["==", ["get", "id"], hovered]);
+        spotlight(r.i);
         // close in as far as the place is known: a spot, a town, a district, a region or only the country
         const zoom = ({ exact: 11, locality: 9, district: 8, region: 6, country: 4 } as Record<string, number>)[r.pr ?? "country"] ?? 6;
         map.stop();
@@ -445,8 +502,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         if (matchMedia("(max-width: 860px)").matches) box.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth", block: "start" });
       }) as EventListener);
       document.addEventListener("reports:hover", ((e: CustomEvent<string | null>) => {
-        hovered = e.detail ?? "";
-        if (map.getLayer("hover")) map.setFilter("hover", ["==", ["get", "id"], hovered]);
+        spotlight(e.detail ?? "");
       }) as EventListener);
       // the home page opened from a report's "big map" link: fly there, ring it, show its hover box
       if (focus && !single) document.dispatchEvent(new CustomEvent("reports:zoom", { detail: focus }));

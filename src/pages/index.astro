@@ -1,47 +1,28 @@
 ---
-// The map: all reports on a full-screen map, with the filterable list in a pane on the right.
+// The map: all reports on a full-screen map with its filters floating over it (MapFilters), and the
+// list of the reports they match in a pane on the right.
 import Base from "../layouts/Base.astro";
 import WorldMap from "../components/WorldMap.astro";
+import MapFilters from "../components/MapFilters.astro";
 import ReportBrowser from "../components/ReportBrowser.astro";
 import { reports, countriesWithReports, totals } from "../lib/reports.js";
-import { TYPES, typeIcon } from "../lib/types.js";
 
-const usedTypes = Object.entries(TYPES).filter(([t]) => reports.some((r) => r.type === t || r.also?.includes(t)));
 const t = totals(reports);
 const fmt = (n) => n.toLocaleString("en-GB");
 const base = import.meta.env.BASE_URL;
 ---
 <Base app>
   <div class="home">
+    <h1 class="sr-only">Cannabis Enforcement Tracker: the map of reports</h1>
     <div class="home-map">
       <WorldMap hash label="World map of enforcement reports" />
-      <div class="range-switch" role="group" aria-label="Report time period">
-        <button type="button" data-range="7d" aria-pressed="false">Last 7 days</button>
-        <button type="button" data-range="30d" aria-pressed="true">Last 30 days</button>
-        <button type="button" data-range="1y" aria-pressed="false">Last year</button>
-        <button type="button" data-range="all" aria-pressed="false">All</button>
-        <button type="button" data-range="calendar" aria-pressed="false">Calendar</button>
-      </div>
-      <div class="map-search" id="map-search" hidden>
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/></svg>
-        <div class="map-search-copy" role="status">
-          <strong>Custom search</strong>
-          <span id="map-search-summary"></span>
-        </div>
-        <button type="button" id="clear-map-search" aria-label="Cancel custom search and clear all filters">✕ Cancel</button>
-      </div>
+      <MapFilters />
     </div>
     <aside class="home-pane" aria-label="Reports">
-      <header class="pane-head">
-        <h1>Cannabis Enforcement Tracker</h1>
+      <ReportBrowser compact mapFilters />
+      <footer class="pane-foot">
         <p>Fields burned, homes raided, people arrested, jailed and executed: a sourced record of what
           cannabis prohibition does to people. {fmt(t.reports)} reports, {countriesWithReports().length} countries and states.</p>
-        <ul class="legend">
-          {usedTypes.map(([id, v]) => <li class="type" title={v.help}><Fragment set:html={typeIcon(id, 16)} />{v.label}</li>)}
-        </ul>
-      </header>
-      <ReportBrowser compact />
-      <footer class="pane-foot">
         A companion to the <a href="https://cannabisfreedom.fyi/" target="_blank" rel="noopener">Cannabis Freedom Index</a>.
         Every report cites its sources. Data: <a href={`${base}api/reports.json`}>JSON</a> · <a href={`${base}feed.xml`}>RSS</a> · <a href={`${base}changelog/`}>Changelog</a> · <a href={`${base}submissions/`}>Submit</a>.
       </footer>
