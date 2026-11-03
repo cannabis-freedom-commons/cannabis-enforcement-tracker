@@ -28,6 +28,11 @@ sources:
     publisher: Riau Pos
     date: 2026-11-03
     language: id
+  - title: Tiga Terduga Pengedar Tak Berkutik! Tim Elang Kuantan Sita 96 Pil Ekstasi hingga Sabu dan Ganja
+    url: https://www.bualbual.com/2026/11/03/tiga-terduga-pengedar-tak-berkutik-tim-elang-kuantan-sita-96-pil-ekstasi-hingga-sabu-dan-ganja
+    publisher: bualbual.com
+    date: 2026-11-03
+    language: id
 open_questions:
   - No second independent account of this Wisma O arrest was found; the report rests on the single opened Riau Pos capture.
   - The 30.47 gram cannabis figure is stated as gross weight (berat kotor); no net weight or independent weighing was published.
@@ -41,12 +46,17 @@ open_questions:
   - 'Left out, as its quotation was not found in Riau Pos: LA said more narcotics were stored at his rented house in Koto Taluk village, Kuantan Tengah.'
   - 'Left out, as its quotation was not found in Riau Pos: Officers searched that house at about 04.30 with village officials present and found three meth packages and three pyrex pipes with suspected meth totalling 1.86 grams gross, plus eight packages of dried cannabis leaves weighing 30.47 grams gross.'
   - 'Left out, as its quotation was not found in Riau Pos: The narcotics chief said Kuansing police remain committed to eradicating trafficking and asked residents to report suspected dealing.'
+  - This account says officers detained LA with RK at about 02.30 and found 16 ecstasy pills in their room, while the existing report has A caught at about 01.30 and 28 ecstasy pills in a brown wallet; the report's version is retained and the difference is noted here.
+  - The 30.47 gram cannabis figure and the 5.92 gram ecstasy and 1.86 gram suspected meth figures are stated as gross weight; no net weights were published.
+  - The weight of the single rolled cigarette suspected to contain dried cannabis is not given and is excluded from any cannabis total.
+  - The page's only image is a red-and-white breaking-news graphic, not a photo of the field, seizure, raid or court, so no media entry is added.
+  - 'Left out, as its quotation was not found in bualbual.com: A told interrogators he kept more ecstasy at his rented house in Pulau Godang Kari, where officers later found 80 more pills in a small bag in the kitchen.'
 ---
 
 The Tim Elang Kuantan narcotics team arrested three suspected dealers in the
-early hours of 1 November 2026. [@1] The three men, identified only as A, LA and
+early hours of 1 November 2026. [@1,2] The three men, identified only as A, LA and
 RK, were all held at the same lodging, Wisma O in Sungai Jering, Kuantan Tengah.
-[@1] Officers caught A, aged 40, at about 01.30 in one room at Wisma O. [@1]
+[@1,2] Officers caught A, aged 40, at about 01.30 in one room at Wisma O. [@1]
 
 Police said the case began with community information about alleged trafficking
 in Pulau Godang Kari village, Kuantan Tengah. [@1] Officers investigated that
@@ -56,3 +66,4 @@ witnessed by neighbourhood officials found three packages of methamphetamine and
 ecstasy at his rented house in Pulau Godang Kari, where officers later found 80
 more pills in a small bag in the kitchen. [@1]
 
+Officers raided the Wisma Oshin room at about 02.30 and detained LA together with RK. [@2] In that room officers found 16 ecstasy pills weighing 5.92 grams gross and one rolled cigarette suspected to contain dried cannabis from RK. [@2] Following LA's statement, officers extended the operation to his rented house in Koto Taluk village, Kuantan Tengah. [@2] At about 04.30, witnessed by village officials, that search found three meth packages and three pyrex pipes with suspected meth totalling 1.86 grams gross, plus eight packages of dried cannabis weighing 30.47 grams gross. [@2]
