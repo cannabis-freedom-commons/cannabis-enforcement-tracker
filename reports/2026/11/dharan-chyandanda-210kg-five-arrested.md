@@ -18,6 +18,11 @@ media:
     media_url: https://npcdn.ratopati.com/media/news/886771199_3697114640457463_5419912053642424394_n_pzKx1ujVt5.webp
     publisher: Ratopati
     caption: Photo accompanying the report on the 210 kg marijuana seizure in Dharan.
+  - kind: photo
+    url: https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-five-smugglers-arrested-in-nepal-with-210-quintals-of-cannabis-scorpio-vehicle-seized-siddharthnagar-news-c-227-1-sgkp1033-167517-2026-11-02
+    media_url: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/03/napal-ka-thharana-ma-palsa-ka-garafata-ma-abhayakata-va-gaugdha-sahata-bramatha-gaja-sarata-sashal-madaya_267a73cea02af87744b2dd3652a430ea.jpeg?w=674&dpr=2.0&q=80
+    publisher: Amar Ujala
+    caption: 'Accused in police custody with vehicle and seized cannabis in Dharan. Source: social media via Amar Ujala.'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0a191d0237c3299da9d36aa0518d04be
@@ -40,6 +45,11 @@ sources:
     publisher: Ratopati Hindi
     date: 2026-11-02
     language: hi
+  - title: 'Siddharthnagar News: नेपाल में 2.10 क्विंटल गांजा के साथ पांच तस्कर गिरफ्तार, स्कॉर्पियो जब्त'
+    url: https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-five-smugglers-arrested-in-nepal-with-210-quintals-of-cannabis-scorpio-vehicle-seized-siddharthnagar-news-c-227-1-sgkp1033-167517-2026-11-02
+    publisher: Amar Ujala
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The incident date is taken as 2 November 2026 because the article says the 3:00 AM operation happened 'today' on its publication date; no separate incident date is given.
   - Only one outlet account of this event was opened, so names, vehicle numbers and the 210 kg figure could not be corroborated.
@@ -55,12 +65,13 @@ open_questions:
   - The page lead image caption is empty, so whether it depicts this seizure could not be established and no media entry is added.
   - This source writes 8 packets while the existing report writes 8 sacks, a packaging translation difference for the same 210 kg figure.
   - Name spellings differ by transliteration, including Ramsagar versus Ram Sagar, Rajendraprasad versus Rajendra Prasad, Rajkumar Shah versus Rajkumar Sah, and Bishunkhe versus Bishungkhe.
+  - The submitted page was published on 3 November 2026 but describes a Monday early-morning operation, consistent with the existing report's 2 November 2026 incident date.
 ---
 
 Police arrested five people in Chyandanda, Dharan Sub-Metropolis-20, Sunsari,
-while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4] Officers fired
+while marijuana was being loaded into two Scorpio vehicles. [@1,2,3,4,5] Officers fired
 two rounds in the air and took the group under control as they tried to flee
-with the marijuana. [@1,2,3,4] Ram Sagar Kumar Yadav, 24, of Dakneshwori
+with the marijuana. [@1,2,3,4,5] Ram Sagar Kumar Yadav, 24, of Dakneshwori
 Municipality-10, Saptari, was identified as the driver of the vehicle numbered
 Ba.1 Cha 5038. [@1,4] Rajendra Prasad Mandal, 45, of Rajgadh Rural Municipality-1,
 Saptari, and Santosh Thakur, 38, of Madhubani district in Bihar province, India,
@@ -71,8 +82,8 @@ as the driver of the vehicle numbered Ko.1 Cha 8182, and Amrit Bishunkhe, 21, of
 Dharan Sub-Metropolis-11, Sunsari, was also arrested. [@1,4] Acting on secret
 information that marijuana was being loaded into Scorpio vehicles numbered Ba.1
 Cha 5038 and Ko.1 Cha 8182 at approximately 3:00 AM that day, a police team
-reached the location. [@1,4]
+reached the location. [@1,4,5]
 
 Police found approximately 210 kg of marijuana kept in 8 sacks being loaded into
-the two vehicles. [@1,2,3,4] Police said further investigation into the incident was
+the two vehicles. [@1,2,3,4,5] Police said further investigation into the incident was
 under way. [@1,4]
