@@ -56,6 +56,17 @@ Read existing-reports/<slug>.md before proposing any update to that slug. These 
 reports, including their prose, citations, figures and open questions. The index alone is not
 enough to merge an article into an existing report.
 
+When request.json has coverage_review=true, another submission published or changed reports
+after your earlier research snapshot. Read previous-result.json, the opened-source text files
+listed in saved-sources.json and the current reports index. Recheck the event against the current
+original reports before deciding whether it is new. Preserve the earlier supported research;
+do not fetch saved sources again just to reread them. If a current report covers the event,
+return additional_source or existing_case as appropriate, mapping corroborating facts to its
+existing sentences and marking genuinely new details. Prefer additional_source whenever a new
+opened account corroborates existing sentences. Return duplicate with existing_report and the
+opened source only when nothing useful can be added. Never create a second report merely
+because the previous result proposed a new event.
+
 If initial_source_unavailable is true, search for accessible reporting of the same event and open
 it. Never use snippets or URL date hints as evidence; if no full source can be opened, return
 insufficient_evidence.
@@ -157,7 +168,7 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   (two letters) if not English.
 
 Return a single JSON object, no Markdown fences or commentary, with exactly these fields:
-{"outcome":"new_event|existing_case|additional_source|not_relevant|insufficient_evidence|routed_to_cfi|needs_review",
+{"outcome":"new_event|existing_case|additional_source|duplicate|not_relevant|insufficient_evidence|routed_to_cfi|needs_review",
 "country":"CFI id or empty", "incident_date":"YYYY-MM-DD or empty", "type":"type or empty",
 "also":["other types"], "place":"place as named", "coordinates":[lat, lon],
 "precision":"exact|locality|district|region|country",
@@ -192,6 +203,11 @@ Do not paraphrase existing facts and mark them as new details. Merge the article
 version of the report. Existing sentences may wrap over lines; ignore line wrapping when matching.
 The report's other text, title and figures stay. Put discrepancies with the report
 in uncertainties. Report fields (title, summary, figures…) may be empty.
+
+Use duplicate only when the existing report already covers the event and no useful source or
+detail can be added. Set existing_report to the exact current slug and include at least one
+opened source supporting the match. Leave the draft fields empty; the service records the
+relationship without creating a report.
 
 report_updates changes other existing reports in the same run (at most five; include whenever
 supported useful updates are found, omit when none), with sources this answer cites: an article

@@ -296,6 +296,20 @@ its old dated path when moving an existing report. It refuses local edits on tho
 concurrent changes to an existing report. Git `commit --only` excludes unrelated staged files.
 A case trailer and a persisted SHA recover publication retries without a second commit.
 
+Research remains parallel, but a new report's event-identity decision is checked for freshness
+under the same repository lock as its commit. The service retains the country report inventory
+seen by the model, including through checkpoint recovery. If another submission added or changed
+a report for that country while research ran, the stale draft is not committed. Its publication
+job is atomically replaced by a fresh OpenCode coverage review using the saved proposal, opened
+source captures and current reports. That review can add sources/details to an existing report,
+record a duplicate linked to it, or confirm a separate event; quotations and report checks still
+apply. A changed target of a concurrent update takes the same path. Reviews use the normal model
+configuration and research budget. Changes in other countries do not invalidate the decision.
+Source ownership also checks normalized requested and final redirect URLs, so aliases cannot
+claim the same article separately. Dates, quantities and place labels alone are not duplicate
+proof. Restart the backend to apply this publication guard; existing duplicate reports are not
+automatically deleted or merged.
+
 On localhost, **Restart submission** appears for `budget_wait`, `failed`, `insufficient_evidence`,
 `source_unavailable` and legacy `needs_review` receipts on their request detail page only.
 `backend-dev` sets `DEV_CONTROLS=true`; the backend must also bind to a loopback address and

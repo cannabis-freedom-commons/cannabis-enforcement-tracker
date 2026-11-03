@@ -105,6 +105,11 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		}
 		return "", errors.New("the previously committed report has changed")
 	}
+	if d.PreviousRel == "" {
+		if err := checkPublicationCoverage(repo, d, content); err != nil {
+			return "", err
+		}
+	}
 	paths := []string{d.Rel}
 	if d.PreviousRel != "" && d.PreviousRel != d.Rel {
 		paths = append(paths, d.PreviousRel)
@@ -144,7 +149,7 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		base, e := baseCmd.Output()
 		current, e2 := git("show", "HEAD:"+basePath)
 		if e != nil || e2 != nil || !bytes.Equal(base, current) {
-			return "", errors.New("existing report changed since research; restart this submission")
+			return "", &coverageChanged{country: "an existing report"}
 		}
 	}
 	// Recheck under the publication lock: another job may have claimed a code

@@ -168,7 +168,7 @@ func CleanTags(tags []string) []string {
 
 func (r Result) Validate(countries map[string]bool) error {
 	switch r.Outcome {
-	case "new_event", "existing_case", "additional_source", "not_relevant", "insufficient_evidence", "routed_to_cfi", "needs_review":
+	case "new_event", "existing_case", "additional_source", "duplicate", "not_relevant", "insufficient_evidence", "routed_to_cfi", "needs_review":
 	default:
 		return errors.New("invalid outcome")
 	}
@@ -208,6 +208,9 @@ func (r Result) Validate(countries map[string]bool) error {
 	if !r.Drafts() {
 		if len(r.Updates) > 0 {
 			return errors.New("report updates need a drafted outcome")
+		}
+		if r.Outcome == "duplicate" && (!slug.MatchString(r.ExistingReport) || len(r.Sources) == 0) {
+			return errors.New("duplicate requires an existing report and an opened source")
 		}
 		return nil
 	}
@@ -750,6 +753,9 @@ func (f *Figures) node() *yaml.Node {
 type Runner struct {
 	Config config.Config
 	Store  *store.Store
+	// A publication race needs a new event-identity decision, not a new source crawl.
+	PreviousResult   *Result
+	PreviousEvidence []safeurl.Evidence
 }
 
 // Snapshot clones history and overlays trusted current site inputs for local validation.
@@ -857,6 +863,23 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 		request["archive_timestamp"] = e.ArchivedAt
 	}
 	files := map[string][]byte{"reports-index.jsonl": []byte(index.String())}
+	if r.PreviousResult != nil {
+		request["coverage_review"] = true
+		request["previous_result"] = "previous-result.json"
+		request["saved_sources"] = "saved-sources.json"
+		files["previous-result.json"], _ = json.MarshalIndent(r.PreviousResult, "", "  ")
+		var sources []map[string]string
+		for i, source := range r.PreviousEvidence {
+			text := source.ReadableText()
+			if len(text) > 100000 {
+				text = text[:100000]
+			}
+			name := fmt.Sprintf("saved-sources/%d.txt", i+1)
+			files[name] = []byte(safeurl.Wrap(text, 1000) + "\n")
+			sources = append(sources, map[string]string{"url": source.URL, "final_url": source.FinalURL, "text_file": name})
+		}
+		files["saved-sources.json"], _ = json.MarshalIndent(sources, "", "  ")
+	}
 	// The model needs the actual prose to merge another outlet's account without
 	// paraphrasing the same facts into a second copy of the report.
 	reportFiles, err := existingReportFiles(dir)
@@ -1204,8 +1227,12 @@ func prepareReport(dir string, r Result) (Draft, error) {
 	if err != nil {
 		return d, err
 	}
-	r.Code = reportcode.Available(r.Slug, used)
-	r.AddedAt = time.Now().UTC().Format(time.RFC3339Nano)
+	if r.Code == "" || used[r.Code] != "" {
+		r.Code = reportcode.Available(r.Slug, used)
+	}
+	if r.AddedAt == "" {
+		r.AddedAt = time.Now().UTC().Format(time.RFC3339Nano)
+	}
 	d.Content = r.Markdown()
 	return d, nil
 }

@@ -94,6 +94,10 @@ func (w *Worker) jobs(ctx context.Context, kind string) {
 			err = w.process(jobCtx, j)
 			close(stop)
 			cancel()
+			if errors.Is(err, errCoverageRequeued) {
+				// The fenced publication was atomically replaced by a research job.
+				continue
+			}
 			if ctx.Err() != nil {
 				err = store.ErrInterrupted
 			}
@@ -171,6 +175,7 @@ type report struct {
 	Country string `json:"country"`
 	Date    string `json:"date"`
 	Title   string `json:"title"`
+	Digest  string `json:"-" yaml:"-"`
 	Sources []struct {
 		URL string `yaml:"url" json:"url"`
 	} `json:"sources"`
@@ -198,6 +203,8 @@ func Coverage(repo string) ([]report, error) {
 			return fmt.Errorf("%s: invalid report front matter: %w", path, err)
 		}
 		r.Slug = strings.TrimSuffix(d.Name(), ".md")
+		sum := sha256.Sum256(b)
+		r.Digest = hex.EncodeToString(sum[:])
 		out = append(out, r)
 		return nil
 	})
@@ -243,11 +250,38 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if err = json.Unmarshal([]byte(saved), &checkpoint); err != nil {
 			return fmt.Errorf("invalid research checkpoint: %w", err)
 		}
+		if len(checkpoint.Evidence) == 0 {
+			checkpoint.Evidence = research.ReadToolEvidence(checkpoint.Dir)
+		}
+		if checkpoint.Result.Outcome == "new_event" {
+			if checkpoint.Coverage == nil {
+				// Recover legacy inventories from the original checkout, never
+				// from the fresh recovery snapshot.
+				original, e := Coverage(checkpoint.Dir)
+				if e != nil {
+					checkpoint.ReviewCoverage = true
+				} else {
+					checkpoint.Coverage = countryCoverage(original, checkpoint.Result.Country)
+				}
+			}
+			current, e := Coverage(w.Config.RepoPath)
+			if e != nil {
+				return e
+			}
+			if coverageDiffers(current, checkpoint.Result.Country, checkpoint.Coverage, nil) {
+				checkpoint.ReviewCoverage = true
+			}
+		}
+	}
+	if saved != "" && !checkpoint.ReviewCoverage {
 		result, initial, dir = checkpoint.Result, checkpoint.Initial, checkpoint.Dir
 		if len(checkpoint.Evidence) == 0 {
 			checkpoint.Evidence = research.ReadToolEvidence(dir)
 		}
 		result.CreatedByModel = checkpoint.Model
+		if result.Outcome == "new_event" {
+			result.AddedAt, result.Code = checkpoint.AddedAt, checkpoint.Code
+		}
 		initial.ArtifactDir = checkpoint.ArtifactDir
 		// Build in a fresh trusted snapshot: the previous checkout may have been
 		// interrupted after writing/moving the draft, or the site may have changed.
@@ -262,49 +296,54 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if !w.Config.Demo && (!w.Config.ResearchEnabled() || (w.Health != nil && !w.Health.Ready())) {
 			return store.ErrConfiguration
 		}
-		reports, err := Coverage(w.Config.RepoPath)
-		if err != nil {
-			slog.Error("report coverage could not be loaded", "error", err)
-			return err
-		}
-		for _, r := range reports {
-			for _, source := range r.Sources {
-				known, err := safeurl.Normalize(source.URL)
-				if err == nil && known == u {
-					return w.Store.Transition(ctx, j.Ref, "duplicate", "This source is already cited in an existing report.", r.Slug, "")
+		if checkpoint.ReviewCoverage {
+			initial = checkpoint.Initial
+			initial.ArtifactDir = checkpoint.ArtifactDir
+		} else {
+			reports, err := Coverage(w.Config.RepoPath)
+			if err != nil {
+				slog.Error("report coverage could not be loaded", "error", err)
+				return err
+			}
+			for _, r := range reports {
+				for _, source := range r.Sources {
+					known, err := safeurl.Normalize(source.URL)
+					if err == nil && known == u {
+						return w.Store.Transition(ctx, j.Ref, "duplicate", "This source is already cited in an existing report.", r.Slug, "")
+					}
 				}
 			}
-		}
-		if err = w.Store.Transition(ctx, j.Ref, "fetching", "Opening the submitted source.", "", ""); err != nil {
-			return err
-		}
-		initial, err = w.loadSource(ctx, j.Ref, u)
-		if ctx.Err() != nil {
-			return ctx.Err()
-		}
-		sourceCheck, _ := safeurl.Check(initial)
-		if b, e := json.Marshal(sourceCheck); e == nil && (initial.Content != "" || initial.Rendered || initial.BrowserWarning != "") {
-			_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
-		}
-		if errors.Is(err, safeurl.ErrUnsafeDestination) {
-			return w.Store.Transition(ctx, j.Ref, "insufficient_evidence", "The source destination is not permitted for public research.", "", "")
-		}
-		// The source check: the submitted page itself must load, be readable and be about cannabis before
-		// any AI research. A report rests on the source that was sent, not on whatever else can be found.
-		if err != nil {
-			return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page could not be loaded: "+err.Error()+". Send a link that opens without a login or paywall, or another report of the same event.", "", "")
-		}
-		check, err := safeurl.Check(initial)
-		if b, jerr := json.Marshal(check); jerr == nil {
-			_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
-		}
-		if err != nil {
-			return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page loaded, but "+err.Error()+". Send a link to a page with the article text.", "", "")
-		}
-		// Vocabulary is an advisory hint, not a complete classifier of every language.
-		// OpenCode determines relevance from the opened article even when no term matched.
-		if err = w.Store.Transition(ctx, j.Ref, "classifying", check.Describe(), "", ""); err != nil {
-			return err
+			if err = w.Store.Transition(ctx, j.Ref, "fetching", "Opening the submitted source.", "", ""); err != nil {
+				return err
+			}
+			initial, err = w.loadSource(ctx, j.Ref, u)
+			if ctx.Err() != nil {
+				return ctx.Err()
+			}
+			sourceCheck, _ := safeurl.Check(initial)
+			if b, e := json.Marshal(sourceCheck); e == nil && (initial.Content != "" || initial.Rendered || initial.BrowserWarning != "") {
+				_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
+			}
+			if errors.Is(err, safeurl.ErrUnsafeDestination) {
+				return w.Store.Transition(ctx, j.Ref, "insufficient_evidence", "The source destination is not permitted for public research.", "", "")
+			}
+			// The source check: the submitted page itself must load, be readable and be about cannabis before
+			// any AI research. A report rests on the source that was sent, not on whatever else can be found.
+			if err != nil {
+				return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page could not be loaded: "+err.Error()+". Send a link that opens without a login or paywall, or another report of the same event.", "", "")
+			}
+			check, err := safeurl.Check(initial)
+			if b, jerr := json.Marshal(check); jerr == nil {
+				_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
+			}
+			if err != nil {
+				return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page loaded, but "+err.Error()+". Send a link to a page with the article text.", "", "")
+			}
+			// Vocabulary is an advisory hint, not a complete classifier of every language.
+			// OpenCode determines relevance from the opened article even when no term matched.
+			if err = w.Store.Transition(ctx, j.Ref, "classifying", check.Describe(), "", ""); err != nil {
+				return err
+			}
 		}
 		run, err := w.Store.Reserve(ctx, j.Ref, "", w.Config.RunCents, w.Config.DailyCents)
 		if err != nil {
@@ -323,14 +362,24 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			}
 		}()
 		runner := research.Runner{Config: w.Config, Store: w.Store}
+		if checkpoint.ReviewCoverage {
+			runner.PreviousResult = &checkpoint.Result
+			runner.PreviousEvidence = checkpoint.Evidence
+		}
 		dir, err = runner.Snapshot(ctx, j.Ref)
 		if err != nil {
 			return err
 		}
-		if err = research.SaveEvidence(dir, []safeurl.Evidence{initial}); err != nil {
+		if err = research.SaveEvidence(dir, append([]safeurl.Evidence{initial}, checkpoint.Evidence...)); err != nil {
 			return err
 		}
 		if err = w.Store.Transition(ctx, j.Ref, "researching", "OpenCode is researching this event and preparing a cited report automatically.", "", ""); err != nil {
+			return err
+		}
+		// The index and original Markdown must describe the same snapshot. Fetching
+		// the submitted page may have taken long enough for other reports to land.
+		reports, err := Coverage(dir)
+		if err != nil {
 			return err
 		}
 		invoked = true
@@ -339,8 +388,14 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			return err
 		}
 		result.CreatedByModel = w.Config.ResearchModel
+		if result.Outcome == "new_event" {
+			result.AddedAt = checkpoint.AddedAt
+			result.Code = checkpoint.Code
+		} else {
+			checkpoint.AddedAt, checkpoint.Code = "", ""
+		}
 
-		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: research.ReadToolEvidence(dir), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir}
+		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AddedAt: checkpoint.AddedAt, Code: checkpoint.Code}
 		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
 			return err
 		}
@@ -377,7 +432,31 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if outcome == "needs_review" {
 			outcome = "insufficient_evidence"
 		}
-		return w.Store.Transition(ctx, j.Ref, outcome, result.Explanation, "", "")
+		matched := ""
+		if outcome == "duplicate" && result.ExistingReport != "" {
+			reports, err := Coverage(w.Config.RepoPath)
+			if err != nil {
+				return err
+			}
+			for _, report := range reports {
+				if report.Slug == result.ExistingReport {
+					matched = report.Slug
+				}
+			}
+			if matched == "" {
+				return w.Store.Transition(ctx, j.Ref, "failed", "The proposed duplicate names a report that is no longer available. Restart to check the current coverage.", "", "")
+			}
+		}
+		return w.Store.Transition(ctx, j.Ref, outcome, result.Explanation, matched, "")
+	}
+	if result.Outcome == "new_event" {
+		current, err := Coverage(w.Config.RepoPath)
+		if err != nil {
+			return err
+		}
+		if coverageDiffers(current, result.Country, checkpoint.Coverage, nil) {
+			return w.requeueCoverageReview(ctx, j, nil)
+		}
 	}
 
 	// a blocked extra source or a missing quotation is noted and worked around; only a really bad
@@ -492,7 +571,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	result.Updates = kept
 	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
 	digest := sha256.Sum256([]byte(draft.Content))
-	payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates}
+	payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage}
 	tx, err := w.Store.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return err
@@ -510,12 +589,17 @@ type researchCheckpoint struct {
 	Initial                 safeurl.Evidence
 	Evidence                []safeurl.Evidence `json:",omitempty"`
 	Dir, Model, ArtifactDir string
+	ReviewCoverage          bool `json:",omitempty"`
+	Coverage                map[string]string
+	AddedAt                 string `json:",omitempty"`
+	Code                    string `json:",omitempty"`
 }
 
 type draftJob struct {
 	Dir, Rel, PreviousRel, Slug, Title, Digest string
-	SourceOnly                                 bool      `json:",omitempty"` // sources added to an existing report
-	Updates                                    []fileJob `json:",omitempty"` // other existing reports changed
+	SourceOnly                                 bool              `json:",omitempty"` // sources added to an existing report
+	Updates                                    []fileJob         `json:",omitempty"` // other existing reports changed
+	Coverage                                   map[string]string // reports seen by the model, retained through recovery
 }
 
 // fileJob is another existing report a run changes, checked like the main draft.
@@ -563,6 +647,10 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	}
 	sha, err := commitReport(ctx, w.Config.RepoPath, j.Ref, d)
 	if err != nil {
+		var changed *coverageChanged
+		if errors.As(err, &changed) {
+			return w.requeueCoverageReview(ctx, j, b)
+		}
 		return err
 	}
 	_, err = w.Store.DB.ExecContext(ctx, "INSERT INTO local_publications(case_id,commit_sha,report_path,created_at) VALUES(?,?,?,?) ON CONFLICT(case_id) DO UPDATE SET commit_sha=excluded.commit_sha,report_path=excluded.report_path", j.Ref, sha, d.Rel, time.Now().Unix())
@@ -604,11 +692,34 @@ var holdsSources = map[string]bool{"verifying": true, "drafted": true, "publishi
 // another case that holds it (holdsSources). A source recorded by a case that does not hold it
 // (queued, failed, rejected) passes to this case rather than blocking it.
 func (w *Worker) claimSource(ctx context.Context, cid, url, finalURL, digest string) (string, error) {
+	var err error
+	if url, err = safeurl.Normalize(url); err != nil {
+		return "", err
+	}
+	if finalURL == "" {
+		finalURL = url
+	}
+	if finalURL, err = safeurl.Normalize(finalURL); err != nil {
+		return "", err
+	}
 	tx, err := w.Store.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return "", err
 	}
 	defer tx.Rollback()
+	// Distinct submitted URLs can redirect to the same article. Check both sides
+	// before recording a new claim so an active/published owner cannot be bypassed.
+	var aliasOwner string
+	err = tx.QueryRowContext(ctx, `SELECT s.case_id FROM source_urls s JOIN cases c ON c.id=s.case_id
+ WHERE (s.url IN (?,?) OR s.final_url IN (?,?)) AND s.case_id<>?
+ AND c.status IN ('verifying','drafted','publishing','committed','published')
+ ORDER BY s.fetched_at,s.case_id LIMIT 1`, url, finalURL, url, finalURL, cid).Scan(&aliasOwner)
+	if err == nil {
+		return aliasOwner, tx.Commit()
+	}
+	if !errors.Is(err, sql.ErrNoRows) {
+		return "", err
+	}
 	if _, err = tx.ExecContext(ctx, "INSERT INTO source_urls(url,case_id,final_url,digest,fetched_at) VALUES(?,?,?,?,?) ON CONFLICT(url) DO UPDATE SET final_url=excluded.final_url,digest=excluded.digest,fetched_at=excluded.fetched_at", url, cid, finalURL, digest, time.Now().Unix()); err != nil {
 		return "", err
 	}
