@@ -27,6 +27,11 @@ sources:
     publisher: ANSA
     date: 2026-11-02
     language: it
+  - title: 'Blitz dei Carabinieri: arrestato giovane con 2,6 chili di marijuana. Sequestrate anche 2 armi clandestine'
+    url: https://quicosenza.it/news/blitz-carabinieri-arrestato-giovane-marijuana/
+    publisher: quicosenza
+    date: 2026-11-02
+    language: it
 open_questions:
   - The articles give no separate date for the dawn operation; 2 November 2026 is their publication date.
   - The sources do not give the arrested young man's name or age.
@@ -41,14 +46,13 @@ helicopter-borne hunter squadron, the Vibo Valentia dog unit and intervention
 squads of the 12th Regiment Sicilia. [@1] The operation was aimed at illegally
 held weapons and covered several homes in the area. [@2] During the searches,
 officers arrested a young local man found with about 2.6 kg of marijuana that
-was being dried. [@1] The search also turned up a precision scale and material
+was being dried. [@1,3] The search also turned up a precision scale and material
 for packaging the drug, which led to the arrest. [@1] After the operation, the
 young man was taken to the Palmi prison at the disposal of the judicial
-authority. [@1]
+authority. [@1,3]
 
 In further checks, officers found and seized a carbine and a hunting rifle, both
-with abraded serial numbers, along with various ammunition. [@1] A 60-year-old
+with abraded serial numbers, along with various ammunition. [@1,3] A 60-year-old
 local man was reported at liberty in connection with possessing material for
 making ammunition. [@1] The case was in the preliminary-investigation phase,
 with the presumption of innocence applying until a final sentence. [@1]
-
