@@ -49,6 +49,11 @@ sources:
     publisher: الشرق الأوسط
     date: 2026-11-01
     language: ar
+  - title: مكافحة المخدرات في سوريا تعلن ضبط 4.3 ملايين خلال تشرين الأول
+    url: https://npasyria.com/248376/
+    publisher: North press agency | وكالة نورث برس
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the incident date for the monthly period.
   - No number of people arrested or detained was published for the October tally as a whole.
@@ -64,9 +69,9 @@ open_questions:
 ---
 
 Syria's Anti-Narcotics Department said it carried out 157 security operations
-across the country during October 2026. [@1,3,4,5,6,7] The department said those
-operations dismantled 30 domestic drug-trafficking networks. [@1,3,4,5,6,7] The department
-reported seizing 582 kilograms of hashish in those October operations. [@2,3,4,6]
+across the country during October 2026. [@1,3,4,5,6,7,8] The department said those
+operations dismantled 30 domestic drug-trafficking networks. [@1,3,4,5,6,7,8] The department
+reported seizing 582 kilograms of hashish in those October operations. [@2,3,4,6,8]
 
 The same monthly tally separately listed about 4.3 million Captagon pills, more
 than 28,000 narcotic pills and 7 kilograms of crystal meth, which are not
