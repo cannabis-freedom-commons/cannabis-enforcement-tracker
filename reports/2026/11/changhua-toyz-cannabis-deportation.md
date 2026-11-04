@@ -272,6 +272,11 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-03
     language: zh
+  - title: 香港網紅Toyz假釋出監 彰化專勤隊執行驅逐出境
+    url: https://news.cts.com.tw/cna/society/202611/202611033096871.html
+    publisher: 華視新聞網
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -348,16 +353,18 @@ open_questions:
   - The page's account of another influencer's reaction to the deportation adds no enforcement detail.
   - The page's two embedded images have no captions or credits, so whether they show this deportation escort could not be established and no media entry is added.
   - The page's single image is captioned only as provided by the task force and appears to duplicate the Changhua task-force handout already listed, so no new media entry is added.
+  - The page's single image repeats the parole-escort headline without credit and appears to duplicate the Changhua task-force handout already listed in the existing report, so no new media entry is added.
+  - No cannabis weight was published for the 500 cartridges described in this page, so no kilograms are counted.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46,47]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
@@ -369,7 +376,7 @@ term. [@1,6,33,36]
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
 Hong Kong. [@2,4,8,14,25,27,37] Immigration said any future application by Liu to reside in
 Taiwan through a Taiwan-registered spouse would face strict review, and it said
-visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34,38,46]
+visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34,38,46,47]
 
 Liu had previously come to Taiwan for business purposes. [@27,38,45,46]
 
@@ -382,3 +389,5 @@ On 1 November, influencer Gino Jingyou (Zhuang Kaibo) posted a video confirming 
 Liu Weijian left prison alone, with his wife not accompanying him and no friends waiting outside the prison. [@36] He remained taciturn and calm on the way to the airport. [@36]
 
 The 2021 cannabis-vape-cartridge sale was in Taichung. [@38]
+
+In 2020 Liu formed a trafficking group with friends and bought 500 cannabis vape cartridges containing tetrahydrocannabinol for NT$600,000 for resale through subordinates. [@47]
