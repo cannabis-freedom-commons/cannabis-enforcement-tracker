@@ -1,4 +1,4 @@
-import { runCost, planCost, MODEL_PRICES, baseModel } from './model-cost.js';
+import { runCost, planCost, modelPlan, MODEL_PRICES, baseModel } from './model-cost.js';
 
 export function summarizeAIUsage(buckets, plan) {
   const models = new Map();
@@ -41,7 +41,8 @@ export function modelParts(id) {
 
 // per model: for each outcome, the runs, cost (as summarizeAIUsage works it out), the average cost
 // and time per run, and the median and p90 times; `perNew` is the cost of everything the model ran
-// (failures and rejections included) for each new report it wrote
+// (failures and rejections included) for each new report it wrote. Costs are API prices; the
+// `plan…` twins are the plan share where a plan covers the model (`onPlan`), else the same price.
 export function summarizeEfficiency(buckets, durations = [], plan = null) {
   const models = new Map();
   const blank = () => ({ runs: 0, cost: 0, priced: 0, timed: 0, seconds: 0, median: null, p90: null });
@@ -62,10 +63,11 @@ export function summarizeEfficiency(buckets, durations = [], plan = null) {
     for (const o of Object.values(m.outcomes)) {
       o.avgCost = o.priced ? o.cost / o.priced : null;
       o.avgSeconds = o.timed ? o.seconds / o.timed : null;
-      o.planAvgCost = o.avgCost == null ? null : planCost(o.avgCost, plan, m.model) || null;
+      // what the run takes of a subscription where one covers the model, else its API price
+      o.planAvgCost = o.avgCost == null ? null : planCost(o.avgCost, plan, m.model) || o.avgCost;
     }
-    const made = m.outcomes.new?.runs || 0;
-    return { ...m, ...modelParts(m.model), perNew: made && m.cost ? m.cost / made : null };
+    const made = m.outcomes.new?.runs || 0, perNew = made && m.cost ? m.cost / made : null;
+    return { ...m, ...modelParts(m.model), perNew, planPerNew: perNew == null ? null : planCost(perNew, plan, m.model) || perNew, onPlan: Boolean(modelPlan(m.model, plan)) };
   }).sort((a, b) => b.runs - a.runs || a.model.localeCompare(b.model));
 }
 

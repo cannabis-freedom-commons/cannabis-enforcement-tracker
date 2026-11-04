@@ -263,8 +263,14 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       </table></div>
       <p class="muted" id="ai-stats-note"></p>
       <div id="ai-efficiency" class="ai-efficiency" data-chart hidden>
-        <h3>What each kind of work costs</h3>
-        <p class="muted">The average cost of one research run by what it ended with, per provider and model (with its reasoning setting). Models with fewer than 3 runs of a kind, or without a known price, are left out of that chart.</p>
+        <div class="eff-head">
+          <h3>What each kind of work costs</h3>
+          <div class="eff-switch" role="group" aria-label="Costs as" id="ai-eff-mode" hidden>
+            <button type="button" data-mode="api" aria-pressed="true" title="What the tokens cost at the provider's API prices (or the cost OpenCode reports)">API price</button>
+            <button type="button" data-mode="plan" aria-pressed="false" title="What the runs take of a subscription plan, where a plan covers the model; other models at API price">Plan share</button>
+          </div>
+        </div>
+        <p class="muted"><span id="ai-eff-mode-note">At API prices.</span> The average cost of one research run by what it ended with, per provider and model (with its reasoning setting). Models with fewer than 3 runs of a kind, or without a known price, are left out of that chart.</p>
         <div class="eff-panels" id="ai-eff-cost"></div>
         <h3>How long it takes</h3>
         <p class="muted">The median run from start to finish; the tick marks the slowest tenth (90th percentile).</p>
@@ -448,6 +454,13 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
   /* the AI efficiency charts, drawn by scripts/ai-stats.js (so not scoped to this page's markup) */
   .ai-efficiency h3 { margin: 30px 0 4px; font: 600 14px/1.4 Inter, system-ui, sans-serif; }
   .ai-efficiency > p.muted { margin: 0 0 12px; font-size: 13px; }
+  .eff-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 16px; }
+  .eff-switch { display: inline-flex; padding: 2px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+  .eff-switch[hidden] { display: none; }
+  .eff-switch button { padding: 4px 10px; border: 0; border-radius: 6px; background: none; color: var(--text-2); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; }
+  .eff-switch button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+  .eff-switch button:focus-visible { outline: 2px solid var(--text); outline-offset: 1px; }
+  .eff-plan { color: var(--muted); font: 10px var(--mono); margin-left: 4px; }
   .eff-panels { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
   @media (max-width: 860px) { .eff-panels { grid-template-columns: minmax(0, 1fr); } }
   .eff-panel { padding: 14px 16px 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; min-width: 0; }

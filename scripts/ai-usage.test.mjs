@@ -50,3 +50,15 @@ test('efficiency per model splits cost and time by outcome', async () => {
   assert.deepEqual(modelParts('m'), { provider: '', name: 'm', effort: '' });
   assert.deepEqual([formatDuration(45), formatDuration(200), formatDuration(3900)], ['45 s', '3 min 20 s', '1 h 5 min']);
 });
+
+test('efficiency gives plan shares where a plan covers the model, else API prices', async () => {
+  const { summarizeEfficiency } = await import('../src/lib/ai-usage.js');
+  const b = { model: 'xai/grok-4.7#low', category: 'new', runs: 2, running: 0, input_tokens: 0, output_tokens: 0, reasoning_tokens: 0, cache_read_tokens: 0, cache_write_tokens: 0, cost_usd: 0.4, timed: 2, duration_seconds: 100, started_at: 1 };
+  const [planned] = summarizeEfficiency([b], [], { multiplier: 4 });
+  assert.equal(planned.onPlan, true);
+  assert.equal(planned.outcomes.new.planAvgCost, 0.05);
+  assert.equal(planned.planPerNew, 0.05);
+  const [paid] = summarizeEfficiency([b], [], null);
+  assert.equal(paid.onPlan, false);
+  assert.equal(paid.outcomes.new.planAvgCost, 0.2);
+});
