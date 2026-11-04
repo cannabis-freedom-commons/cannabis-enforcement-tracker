@@ -35,28 +35,36 @@ sources:
     publisher: Varginha Online
     date: 2026-11-03
     language: pt
+  - title: Polícia apreende pés de maconha e porção da droga durante operação em Guaxupé
+    url: https://magaiver.tv.br/noticias/policia-apreende-pes-de-maconha-e-porcao-da-droga-durante-operacao-em-guaxupe/
+    publisher: Magaiver TV - On Line
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the glass container portion, so no cannabis weight is recorded.
   - The plants are described only as similar to marijuana, with no laboratory confirmation reported.
   - No arrest, charge or court outcome was reported; the case was still to be investigated.
   - Only one source for this event could be opened; no second account was found.
+  - The new account does not give the suspect's age; the 24-year-old detail in the existing report comes from its earlier sources.
+  - The new account says the suspect had been the subject of a similar occurrence in 2024, without stating an arrest, while the existing report says arrested based on its earlier sources.
+  - The page displays an image with no caption or credit; its alt text names the Guaxupé seizure but the image content cannot be verified from text alone and it may duplicate the earlier police handout, so no media entry is added.
 ---
 
 Military police searched for a 24-year-old man named in anonymous tips as the
-possible grower and seller, but did not find him. [@1,2] Police said the same
+possible grower and seller, but did not find him. [@1,2,3] Police said the same
 suspect had already been arrested in 2024 in a similar situation. [@1] In that
 earlier case, officers had found cannabis-like plants, a pressed tablet of the
 drug broken into small portions and seeds at his home. [@1]
 
 The operation took place on the afternoon of Friday, 30 October 2026 in the Polo
 Industrial neighbourhood of Guaxupé, Minas Gerais, after anonymous reports of
-possible cultivation and sale of drugs. [@1,2] A team from the Rapid Ostensive
+possible cultivation and sale of drugs. [@1,2,3] A team from the Rapid Ostensive
 Motorised Patrol Specialised Group (GPMOR) went to the address to check the
-information. [@1] From the road, officers saw two plants with cannabis-like
+information. [@1,3] From the road, officers saw two plants with cannabis-like
 characteristics growing amid vegetation in front of the reported property. [@1,2]
 During the check of the outside area, they also found a glass container holding
-a portion of the same substance divided into several pieces. [@1,2] Officers
-seized the plants and the container and forwarded them for legal measures. [@1]
+a portion of the same substance divided into several pieces. [@1,2,3] Officers
+seized the plants and the container and forwarded them for legal measures. [@1,3]
 
 The case was registered and will be investigated by the competent authorities as
 part of military police anti-trafficking operations in Guaxupé. [@1]
