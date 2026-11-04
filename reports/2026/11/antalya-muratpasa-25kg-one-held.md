@@ -131,6 +131,11 @@ sources:
     publisher: Kemer Gözcü
     date: 2026-11-04
     language: tr
+  - title: Antalya Muratpaşa'da Gerçekleşen Operasyonda 25 Kilogram Esrar Ele Geçirildi
+    url: https://www.mersinhaber.com/amp/haber/834794
+    publisher: Mersin Haber
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The reports give only the publication date of 3 November 2026 and no separate day for the raid.
   - No independent weighing of the cannabis is reported beyond the police figure of 25 kilograms.
@@ -147,21 +152,22 @@ open_questions:
   - The Burdur Yenigün page image is captioned only with the article headline and is not established to show this seizure, so no media entry is added.
   - The Kemer Gözcü page was published on 4 November 2026, one day after the existing report's sources, and gives no separate day for the raid.
   - The Kemer Gözcü page image is captioned only with the article headline, so it is not established to show this seizure and no media entry is added.
+  - The submitted page image is captioned only with the article headline and is not established to show this seizure, so no new media entry is added.
 ---
 
 Antalya anti-narcotics police detained a suspect identified only as Y.K. during
-an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20] Police said Y.K. had brought narcotic
-and stimulant substances into Antalya in order to sell and distribute them. [@1,6,15,16]
+an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21] Police said Y.K. had brought narcotic
+and stimulant substances into Antalya in order to sell and distribute them. [@1,6,15,16,21]
 He was referred to the judicial authorities on suspicion of trading and
-supplying drugs. [@2,15,16] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+supplying drugs. [@2,15,16,21] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
 
 Officers searching his residence seized 25 kilograms of cannabis, called esrar
-in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20] The cannabis was divided into 50 separate plastic
-bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20] Police said the bags were hidden inside a suitcase and under a bed
-base. [@3,9,14,15,18,20] No other suspect was reported as detained in the operation. [@1]
+in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] The cannabis was divided into 50 separate plastic
+bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21] Police said the bags were hidden inside a suitcase and under a bed
+base. [@3,9,14,15,18,20,21] No other suspect was reported as detained in the operation. [@1]
 
 The operation was carried out by the Anti-Narcotics Crime Branch of the Antalya
-Police Department. [@1,6,7,11,15,16] Police described it as part of efforts to dry up the
+Police Department. [@1,6,7,11,15,16,21] Police described it as part of efforts to dry up the
 source of drugs and to prevent their trade and use. [@1] The suspect was caught
 after police identified him through information about drugs being brought into
 the city. [@2] Police identified the suspect only by the initials Y.K. [@1]
