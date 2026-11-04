@@ -43,17 +43,28 @@ sources:
     url: https://www.freepressjournal.in/indore/mps-khargone-and-dhar-police-seize-380-cannabis-plants-worth-over-65-lakh-hidden-in-cotton-fields-one-arrested
     publisher: Free Press Journal
     date: 2026-11-03
+  - title: महेश्वर में खेतों से गांजे के 321 पौधे जब्त:बड़वेल में कपास-तुवर की फसल के बीच उगाया गांजा; कीमत 44.37 लाख रुपए
+    url: https://www.bhaskar.com/local/mp/khargone/maheshwar/news/badwel-maheshwar-police-seize-cannabis-plants-farms-139571596.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-02
+    language: hi
+  - title: कपास-तुअर की फसल के बीच उगा रहे थे गांजा, 44 लाख की खेती पकड़ी
+    url: https://www.deshdhwani.com/2026/11/maheshwar-ganja-farming-321-plants-seized.html
+    publisher: Desh Dhwani News
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No separate date is given for the Maheshwar seizures; 2 November 2026 is the stated date of the Dhar operation and the article update date used as the incident date.
   - Only one source for this event could be opened and no second report confirming the Badvel and Temaria seizures was found.
   - No court outcome is reported; whether the two Maheshwar suspects were later arrested and what happened to the arrested suspect are not known.
   - The page carries two event photos filed as Maheshwar and Dhar ganja, but their captions do not describe the visible content beyond the headline.
+  - The Deshdhwani and Bhaskar pages carry field photos without captions or credits establishing what they show, so no media entry is included.
 ---
 
 Dahi police arrested 40-year-old Jhagalia Alava of Temaria village in Dhar
 district and were questioning him. [@1] Police registered separate cases against
 Mayaram Dawar and Jagan alias Dayaram under the Narcotic Drugs and Psychotropic
-Substances Act and were conducting raids to arrest them. [@1] A case in the Dhar
+Substances Act and were conducting raids to arrest them. [@1,4] A case in the Dhar
 seizure was registered at Dahi police station under Section 8/20 of the Act,
 with investigation continuing. [@1]
 
@@ -61,7 +72,7 @@ Police seized 380 cannabis plants valued at approximately Rs 65.07 lakh in
 separate operations in Khargone and Dhar districts. [@1] In Badvel village under
 Maheshwar police station limits in Khargone, officers seized 321 illegally
 cultivated plants weighing 444.6 kg and valued at Rs 44.37 lakh from two fields.
-[@1,2] Those comprised 189 plants weighing 389.7 kg and valued at about Rs 38.97
+[@1,2,3] Those comprised 189 plants weighing 389.7 kg and valued at about Rs 38.97
 lakh from Mayaram Dawar's field and 132 plants weighing 54.9 kg from Jagan alias
 Dayaram's field, concealed among cotton and pigeon pea crops. [@1,2] In Temaria
 village in Dhar, officers seized 59 plants weighing 138.49 kg and valued at Rs
@@ -70,8 +81,10 @@ been grown among cotton. [@1,2]
 
 The Maheshwar raids followed an informer's input during a state-level
 anti-narcotics campaign on the directions of Superintendent of Police Ravindra
-Verma and Maheshwar station in-charge Jagdish Goyal. [@1] The Dhar raid was
+Verma and Maheshwar station in-charge Jagdish Goyal. [@1,3] The Dhar raid was
 conducted under Operation Prahar, the statewide campaign against cultivation,
 production, sale and smuggling of illegal drugs, after a tip-off by a team led
 by Dahi station in-charge Sharad Barde. [@1] Dhar Superintendent of Police
 Sachin Sharma announced a reward for the police team. [@1]
+
+Police valued the 132 plants from Jagan alias Dayaram's field, weighing 54.9 kg, at about Rs 5.40 lakh. [@3]
