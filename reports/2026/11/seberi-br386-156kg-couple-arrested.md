@@ -40,6 +40,16 @@ sources:
     publisher: Rádio Progresso de Ijuí
     date: 2026-11-02
     language: pt
+  - title: PRF PRENDE CASAL COM 156 QUILOS DE MACONHA ESCONDIDOS EM VEÍCULO NA BR-386, EM SEBERI
+    url: https://portalpelotasnoticias.com.br/prf-prende-casal-com-156-quilos-de-maconha-escondidos-em-veiculo-na-br-386-em-seberi/
+    publisher: Portal Pelotas Notícias
+    date: 2026-11-03
+    language: pt
+  - title: Maconha apreendida na BR-386
+    url: https://g1.globo.com/rs/rio-grande-do-sul/videos-bom-dia-rio-grande/video/maconha-apreendida-na-br-386-15154708.ghtml
+    publisher: G1
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No charges, custody decision or other court outcome were reported.
   - Both pages carry photos of the seizure, but their captions and credits do not establish what each image shows, so no media entry is listed.
@@ -48,7 +58,7 @@ open_questions:
 
 On the morning of Monday 2 November 2026, officers of the Federal Highway Police
 (PRF) arrested a 31-year-old man and a 26-year-old woman on highway BR-386 in
-Seberi, in northern Rio Grande do Sul. [@1,3,4] Both people live in Santa Maria, and
+Seberi, in northern Rio Grande do Sul. [@1,3,4,5] Both people live in Santa Maria, and
 the highway police said the male driver already had a previous record for drug
 trafficking. [@1,3,4] Officers arrested the pair and took them, together with the
 seized cannabis and the car, to the Civil Police in Frederico Westphalen. [@2,3,4]
@@ -57,8 +67,8 @@ The stop took place during an operation against criminality on the highway, when
 federal highway officers ordered the driver of a Hyundai HB20 with Santa Maria
 licence plates to pull over. [@2] During the vehicle inspection, agents found
 dozens of tablets containing cannabis concealed in different parts of the car,
-including the rear floor area, the seats and the boot. [@2] After weighing,
-officers put the total seizure at 156 kilograms of cannabis. [@2,3,4]
+including the rear floor area, the seats and the boot. [@2,5] After weighing,
+officers put the total seizure at 156 kilograms of cannabis. [@2,3,4,6]
 
 The couple told officers that they were going to deliver the cannabis in the
 Santa Maria region. [@2,4]
