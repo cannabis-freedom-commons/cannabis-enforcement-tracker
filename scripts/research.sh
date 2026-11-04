@@ -212,32 +212,50 @@ def isolated_build(owned, out, run_dir, name):
     say(f"→ Isolated validation of {len(owned)} owned file(s) (details: {log_path})", out)
     started = time.monotonic()
     code = 127
-    try:
-        git("worktree", "prune", check=False)
-        git("worktree", "add", "--detach", str(wt), "HEAD")
-        for relative in owned:
-            # Owned paths passed safe_report_path at manifest parse time; recheck
-            # the live file before copying it into the snapshot.
-            src = safe_report_path(relative)
-            dest = wt / relative
-            dest.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(src, dest)
-        node_modules = wt / "node_modules"
-        if not node_modules.exists() and (repo / "node_modules").is_dir():
-            node_modules.symlink_to(repo / "node_modules", target_is_directory=True)
-        with log_path.open("w", encoding="utf-8", errors="replace") as build_log:
-            try:
-                proc = subprocess.Popen(shlex.split(validate_cmd), cwd=wt,
-                                        stdin=subprocess.DEVNULL,
-                                        stdout=build_log, stderr=subprocess.STDOUT,
-                                        start_new_session=True)
-                code = proc.wait()
-            except OSError as e:
-                build_log.write(f"Could not launch validation: {e}\n")
-                code = 127
-    finally:
-        git("worktree", "remove", "--force", str(wt), check=False)
-        shutil.rmtree(base, ignore_errors=True)
+    lock_path = repo / ".cache" / "astro-build.lock"
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    with lock_path.open("a+") as lock_file:
+        try:
+            fcntl.flock(lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except BlockingIOError:
+            say("⏳ Waiting for another research build to finish…", out)
+            fcntl.flock(lock_file, fcntl.LOCK_EX)
+        try:
+            git("worktree", "prune", check=False)
+            git("worktree", "add", "--detach", str(wt), "HEAD")
+            for relative in owned:
+                # Owned paths passed safe_report_path at manifest parse time; recheck
+                # the live file before copying it into the snapshot.
+                src = safe_report_path(relative)
+                dest = wt / relative
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(src, dest)
+            # Share installs read-only but keep Astro's cache private. A whole-dir
+            # symlink would point wt/node_modules/.astro at the live tree, so two
+            # concurrent builds race on data-store.json.tmp renames (ENOENT).
+            node_modules = wt / "node_modules"
+            repo_nm = repo / "node_modules"
+            if not os.path.lexists(node_modules) and repo_nm.is_dir():
+                node_modules.mkdir(parents=True)
+                for entry in repo_nm.iterdir():
+                    if entry.name == ".astro":
+                        continue
+                    (node_modules / entry.name).symlink_to(entry, target_is_directory=entry.is_dir())
+                (node_modules / ".astro").mkdir(exist_ok=True)
+            with log_path.open("w", encoding="utf-8", errors="replace") as build_log:
+                try:
+                    proc = subprocess.Popen(shlex.split(validate_cmd), cwd=wt,
+                                            stdin=subprocess.DEVNULL,
+                                            stdout=build_log, stderr=subprocess.STDOUT,
+                                            start_new_session=True)
+                    code = proc.wait()
+                except OSError as e:
+                    build_log.write(f"Could not launch validation: {e}\n")
+                    code = 127
+        finally:
+            git("worktree", "remove", "--force", str(wt), check=False)
+            shutil.rmtree(base, ignore_errors=True)
+        fcntl.flock(lock_file, fcntl.LOCK_UN)
     elapsed = time.monotonic() - started
     if code == 0:
         say(f"✓ Isolated build passed ({elapsed:.0f}s)", out)
