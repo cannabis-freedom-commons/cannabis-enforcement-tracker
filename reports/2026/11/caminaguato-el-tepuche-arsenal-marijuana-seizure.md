@@ -31,26 +31,32 @@ sources:
     publisher: N+
     date: 2026-11-04
     language: es
+  - title: Aseguran Semar y SSPC vehículos con armamento y droga en Sinaloa
+    url: https://tabasco.quadratin.com.mx/justicia/aseguran-semar-y-sspc-vehiculos-con-armamento-y-droga-en-sinaloa/
+    publisher: Noticias en Tabasco
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the bag of marijuana, so no kilograms can be recorded.
   - The 6,182,000-peso figure covers all seized weapons, vehicles and drugs together, not marijuana alone, so no cannabis-only value is recorded.
   - No separate operation date was published; 4 November 2026 is the publication date and is used as the incident date.
   - No detentions, charges or court outcomes were reported; both vehicles were described as apparently abandoned.
   - The reports do not give a separate cannabis-only count for magazines, cartridges, vehicles or tactical equipment, which belonged to the wider arsenal seizure.
+  - The Quadratín Tabasco page carries an image credited only to the SSPC with no descriptive caption establishing that it shows these seized vehicles, so no media entry is included.
 ---
 
 Federal authorities seized arsenal, vehicles and drugs in Sinaloa in two
-operations. [@1] The operations took place near Caminaguato and El Tepuche,
+operations. [@1,3] The operations took place near Caminaguato and El Tepuche,
 Sinaloa, according to the federal Security Cabinet. [@2] Marina personnel,
 through the Mexican Navy, acted in coordination with the federal public-security
-ministry and the Attorney General's Office. [@2]
+ministry and the Attorney General's Office. [@2,3]
 
 In Caminaguato, officers found four pickups apparently abandoned and, on close
 inspection, found inside 17 magazines, 326 cartridges of various calibres,
-tactical and communications equipment and a bag of marijuana. [@2] In El
+tactical and communications equipment and a bag of marijuana. [@2,3] In El
 Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long
 guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and
-communications equipment. [@2] Together the two operations totalled five
+communications equipment. [@2,3] Together the two operations totalled five
 vehicles, 15 long guns, 30 magazines and 1,681 cartridges of various calibres,
 plus marijuana and tactical and communications equipment. [@2]
 
@@ -58,4 +64,3 @@ Everything seized was placed at the disposal of the competent authorities to
 open the corresponding investigation files. [@1] The federal Security Cabinet
 said the seizure represented an economic impact of 6,182,000 pesos on criminal
 groups. [@1]
-
