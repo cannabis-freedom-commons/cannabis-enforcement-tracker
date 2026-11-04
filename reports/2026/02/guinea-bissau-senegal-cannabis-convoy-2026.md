@@ -45,14 +45,20 @@ sources:
     publisher: Sud Quotidien
     date: 2026-02-21
     language: fr
+  - title: 'Sédhiou : saisie de 56 kg de chanvre indien à Koussy'
+    url: https://www.seneweb.com/fr/news/Societe/sedhiou-56-kg-of-indian-hemp-seized-in-koussy_n_484365.html
+    publisher: Seneweb
+    date: 2026-02-23
+    language: fr
 open_questions:
   - The Lactuacho page image is a generic file illustration uploaded in November 2025 captioned Saisie Chanvre indien Police, not established to show this February 2026 seizure, so no media entry is included.
   - The suspect's name was not published and no charge or court outcome was reported; the reports say he was held in custody while the investigation continues.
   - The Ndarinfo page shows a photo captioned only with the article title and no credit, so it cannot be established to show this seizure and no media entry is included.
+  - The Seneweb page image is captioned only with the article title and carries no credit, so it cannot be established to show this seizure and no media entry is included.
 ---
 
-Police arrested a courier near Sédhiou on 21 February 2026 with part of a 56 kg cannabis convoy bound for Guinea-Bissau; his accomplice fled, leaving a loaded bicycle.[@1,2,4] Senegal's Ziguinchor customs seized more than 10 tonnes of cannabis between January and June 2026, already above the 5.168 tonnes taken by all southern units in the whole of 2025, with cannabis moving opposite to the cashew flow across the border.[@1] [@1]
+Police arrested a courier near Sédhiou on 21 February 2026 with part of a 56 kg cannabis convoy bound for Guinea-Bissau; his accomplice fled, leaving a loaded bicycle.[@1,2,4,6] Senegal's Ziguinchor customs seized more than 10 tonnes of cannabis between January and June 2026, already above the 5.168 tonnes taken by all southern units in the whole of 2025, with cannabis moving opposite to the cashew flow across the border.[@1] [@1]
 
-The Sédhiou narcotics brigade, part of the OCRTIS, made the arrest and seizure around 4 a.m. on Saturday 21 February 2026. [@3,5] Police acted on a tip about a drug convoy moving by bicycle toward Guinea-Bissau and set up surveillance in the Koussi sector, intercepting one suspect while his accomplice escaped abandoning his load. [@2,5] Officers found three bags holding 32 blocks, 32 kg, while the arrested suspect carried additional bags and a backpack with 24 kg, 56 kg in total of the so-called green variety. [@2,5] The detainee said he was acting as a courier for a sponsor and was to receive 60,000 CFA francs for the cross-border transport. [@2,4] The suspect was placed in custody while an investigation continues to identify the sponsor and the accomplice who fled. [@2,4]
+The Sédhiou narcotics brigade, part of the OCRTIS, made the arrest and seizure around 4 a.m. on Saturday 21 February 2026. [@3,5,6] Police acted on a tip about a drug convoy moving by bicycle toward Guinea-Bissau and set up surveillance in the Koussi sector, intercepting one suspect while his accomplice escaped abandoning his load. [@2,5] Officers found three bags holding 32 blocks, 32 kg, while the arrested suspect carried additional bags and a backpack with 24 kg, 56 kg in total of the so-called green variety. [@2,5,6] The detainee said he was acting as a courier for a sponsor and was to receive 60,000 CFA francs for the cross-border transport. [@2,4,6] The suspect was placed in custody while an investigation continues to identify the sponsor and the accomplice who fled. [@2,4,6]
 
 The interrogated courier said the cannabis came from the local sector. [@5]
