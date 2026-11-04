@@ -35,6 +35,11 @@ sources:
     publisher: iNewsBatam.id
     date: 2026-11-03
     language: id
+  - title: Polresta Barelang Ungkap 9 Kasus Narkotika, Sita Sabu, Ganja, Ekstasi hingga Vape Diduga Mengandung Etomidate
+    url: https://mediahub.polri.go.id/in/image/detail/599247-polresta-barelang-ungkap-9-kasus-narkotika-sita-sabu-ganja-ekstasi-hingga-vape-diduga-mengandung-etomidate
+    publisher: Mediahub Polri
+    date: 2026-11-04
+    language: id
 open_questions:
   - The operation covered October 2026 and was presented on 3 November 2026; 3 November 2026 is used as the incident date.
   - The value estimate of about Rp500 million and the 4,100-people-saved estimate cover all seized drugs together, so no cannabis-only value is recorded.
@@ -42,27 +47,31 @@ open_questions:
   - The reports do not break down which of the 12 suspects held the ganja; the arrested total is for the whole nine-case roundup.
   - The same page also describes a separate evidence-destruction exercise from six September-October 2026 reports involving 10 suspects, left out here as a different event.
   - The page photo is established only as officers displaying evidence at the press conference from the screenshot and article context, with no published credit.
+  - The agency account gives the combined value as about Rp502 million, slightly more precise than the rounded figure in the existing report.
+  - The agency account gives only weights for ganja and sabu and a pill count for ecstasy, without the packet counts in the existing report.
+  - The agency page image carries only the caption Main, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Polresta Barelang's narcotics unit uncovered nine narcotics cases during October
-2026 in Batam. [@1] Polresta Barelang's narcotics unit uncovered nine narcotics
+2026 in Batam. [@1,3] Polresta Barelang's narcotics unit uncovered nine narcotics
 cases during October 2026 in Batam. [@2] Police named 12 men as suspects in
-those nine cases. [@1] Barelang police chief Kombes Pol Anggoro Wicaksono
+those nine cases. [@1,3] Barelang police chief Kombes Pol Anggoro Wicaksono
 displayed the seized narcotics from the October cases. [@2] Police presented the
-seizures on 3 November 2026. [@2]
+seizures on 3 November 2026. [@2,3]
 
 Officers listed six packets of ganja with a net weight of 9.18 grams among the
-seized evidence. [@1] Officers listed six packets of ganja with a net weight of
+seized evidence. [@1,3] Officers listed six packets of ganja with a net weight of
 9.18 grams among the seized evidence. [@2] The same haul included 51 packets of
-sabu weighing 154.24 grams and 163 ecstasy pills weighing 66.61 grams. [@1]
+sabu weighing 154.24 grams and 163 ecstasy pills weighing 66.61 grams. [@1,3]
 Officers also seized nine packs of narcotic liquid weighing 255 grams in total.
 [@1] The second account describes the liquid seizure as 90 pieces of liquid vape
 weighing 255 grams in total. [@2] Police put the combined economic value of all
 seized narcotics at about Rp500 million. [@1] Police said the haul could save
-about 4,100 people from drug abuse. [@1]
+about 4,100 people from drug abuse. [@1,3]
 
 Police said the nine-case roundup was part of efforts to suppress drug
 trafficking in Polresta Barelang's jurisdiction. [@1] The suspects were charged
 under criminal-code and narcotics provisions carrying a maximum 20-year prison
 term. [@2]
 
+The 90 liquid vapes comprised 20 packs branded Thugs and 70 packs branded Wang Lai. [@3] Police put the combined economic value of all seized narcotics at about Rp502 million. [@3]
