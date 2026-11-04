@@ -302,6 +302,11 @@ sources:
     publisher: CTWANT
     date: 2026-11-03
     language: zh
+  - title: Toyz出獄又有新動作！遣返香港「2字報數」21萬人朝聖　再撤除1貼文置頂
+    url: https://www.setn.com/ampnews/1933183
+    publisher: 三立新聞網
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -386,11 +391,12 @@ open_questions:
   - The more than 210,000 likes for the post-release Threads post and the unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail or figures are added.
   - No media entry is added because the page's single image is captioned as an Instagram screenshot about serving time and is not established as showing the deportation operation.
   - No new media entry is added because the page's single immigration-agency handout photo of the parole escort appears to duplicate the Changhua task-force handout already listed in the existing report.
+  - The Threads post, like counts and unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail is added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52] Prosecutors ordered deportation in place of protective supervision after
