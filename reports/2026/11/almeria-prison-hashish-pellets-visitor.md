@@ -30,6 +30,11 @@ sources:
     publisher: Diario de Almería
     date: 2026-11-02
     language: es
+  - title: Frustan el intento de una visitante de introducir hachís en un vis a vis en la prisión de Almería
+    url: https://www.lavozdealmeria.com/almeria/sucesos/692983/frustan-intento-visitante-introducir-hachis-vis-vis-prision-almeria.html
+    publisher: La Voz de Almería
+    date: 2026-11-02
+    language: es
 open_questions:
   - No weight or exact number of pellets was published; the amount is described only as several bellotas.
   - The substance is described as presumed hashish, with no laboratory confirmation reported.
@@ -40,16 +45,16 @@ open_questions:
 Prison officers at the Centro Penitenciario de Almería stopped a woman on the
 morning of 2 November 2026 before a vis a vis, an intimate visit with an inmate.
 [@1] During the search of the woman, they found several bellotas, small wrapped
-pellets, of a substance described as presumed hashish. [@1] The discovery kept
+pellets, of a substance described as presumed hashish. [@1,2] The discovery kept
 the seized material from reaching the prison modules. [@1] Officers handed both
-the visitor and the suspected drug over to the Guardia Civil. [@1]
+the visitor and the suspected drug over to the Guardia Civil. [@1,2]
 
 The officers who made the find work in the prison's Communications area and were
-carrying out routine checks before the intimate meeting. [@1] The account comes
+carrying out routine checks before the intimate meeting. [@1,2] The account comes
 from TAMPM, the prison-staff union section of Tu Abandono Me Puede Matar, which
 publicly praised the officers' professionalism and attention. [@1] The union
 said keeping narcotics out matters because drugs inside prisons can cause
-conflicts and disciplinary incidents. [@1]
+conflicts and disciplinary incidents. [@1,2]
 
 TAMPM used the interception to denounce what it calls a structural staffing
 deficit of more than 60 officers at the Almería prison, partly blaming the
@@ -58,4 +63,3 @@ Communications area alone is short by more than 25 officers even though it
 controls meetings between inmates and visitors. [@1] The union demanded urgent
 action from the General Secretariat of Penitentiary Institutions and the
 Interior Ministry to reinforce the prison's workforce. [@1]
-
