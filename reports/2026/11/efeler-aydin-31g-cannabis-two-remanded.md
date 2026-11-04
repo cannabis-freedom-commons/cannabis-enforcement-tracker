@@ -34,6 +34,11 @@ sources:
     publisher: Aydın Denge Haber
     date: 2026-11-03
     language: tr
+  - title: Aydın Efeler'de Gerçekleştirilen Operasyonda 1401 Uyuşturucu Hap Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-aydin-efelerde-gerceklestirilen-operasyonda-1401-uyusturucu-hap-ele-gecirildi/835327
+    publisher: Mersin Haber
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The articles give no separate date for the operation; 3 November 2026 is their publication date and is used as the incident date.
   - Only the initials E.T. and B.B. were published; full names, ages and genders were not given.
@@ -46,20 +51,20 @@ open_questions:
 ---
 
 In Efeler, a district of Aydın, police conducted an operation aimed at
-preventing and monitoring drug trafficking and tracking suspects. [@1,3] During
+preventing and monitoring drug trafficking and tracking suspects. [@1,3,4] During
 the operation officers detained two suspects, identified only by the initials
-E.T. and B.B., and took them into custody for investigation. [@1,3] Both detainees
+E.T. and B.B., and took them into custody for investigation. [@1,3,4] Both detainees
 were processed for drug trafficking and, after completion of judicial
-procedures, were remanded and transferred to prison. [@1,3]
+procedures, were remanded and transferred to prison. [@1,3,4]
 
 Searches conducted as part of the same Efeler operation recovered 1,401
 synthetic ecza tablets together with 0.50 grams of bonzai and 3.10 grams of
-esrar, the cannabis recorded here. [@1,3] Officers also seized 11,800 Turkish lira
+esrar, the cannabis recorded here. [@1,3,4] Officers also seized 11,800 Turkish lira
 in cash that police described as money suspected to be proceeds of the offence.
-[@2,3]
+[@2,3,4]
 
 The operation was carried out by teams of the Narcotics Crimes Combat Branch
-Directorate, the specialist anti-narcotics police in Aydın. [@2,3] The two
+Directorate, the specialist anti-narcotics police in Aydın. [@2,3,4] The two
 suspects were both transferred to prison to serve the court-ordered remand known
 as tutuklama. [@2]
 
