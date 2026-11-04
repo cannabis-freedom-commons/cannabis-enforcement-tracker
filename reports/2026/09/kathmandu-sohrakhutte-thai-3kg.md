@@ -35,6 +35,10 @@ sources:
     url: https://english.ratopati.com/story/84101/myanmar-porters-to-transport-thai-marijuana-to-nepal
     publisher: Ratopati
     date: 2026-10-18
+  - title: Three arrested with marijuana smuggled from Thailand
+    url: https://www.hamropatro.com/en/news/detail/1651064072252673-three-arrested-with-marijuana-smuggled-from-thailand
+    publisher: Hamro Patro
+    date: 2026-09-15
 open_questions:
   - Both accounts are the English and Nepali editions of the same outlet, not two independent outlets.
   - 13 September is the Gregorian equivalent of Bhadra 28, the arrest date given in the Nepali calendar.
@@ -48,13 +52,13 @@ open_questions:
 ---
 
 The Narcotics Control Bureau arrested three people at Sohrakhutte in
-Kathmandu with 3 kg of marijuana brought from Thailand. [@1,2]
+Kathmandu with 3 kg of marijuana brought from Thailand. [@1,2,4]
 
-The courier was Jin Jin Phyo, 29, a Myanmar national. [@1,2,3] She carried the
+The courier was Jin Jin Phyo, 29, a Myanmar national. [@1,2,3,4] She carried the
 marijuana on a Cathay Pacific flight routed through Vietnam and Hong Kong.
-[@1,2] Bureau officers followed her from the airport and arrested her at
-Sohrakhutte on Bhadra 28. [@1,2] Police recovered the 3 kg of marijuana she
-had brought. [@1,2,3]
+[@1,2,4] Bureau officers followed her from the airport and arrested her at
+Sohrakhutte on Bhadra 28. [@1,2,4] Police recovered the 3 kg of marijuana she
+had brought. [@1,2,3,4]
 
 Two other people who had come from India to receive the marijuana were also
 arrested: Barkatullah, 30, from Gorakhpur, and Yusuf Khan, 25, from Uttar
