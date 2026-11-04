@@ -70,6 +70,11 @@ sources:
     publisher: ClickPB
     date: 2026-11-01
     language: pt
+  - title: Polícia Civil realiza apreensão de maconha em van no bairro Cuiá
+    url: https://www.sertaodaparaiba.com.br/noticia/policia-civil-realiza-apreensao-de-maconha-em-van-no-bairro-cuia
+    publisher: PORTAL SERTÃO DA PARAÍBA
+    date: 2026-11-01
+    language: pt
 open_questions:
   - No weight was published for the 174 tablets, so no kilogram figure is recorded.
   - The reports describe the seized material as maconha or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -85,15 +90,16 @@ open_questions:
   - The submitted page carries an image with no caption, so whether it shows this seizure is not established and no media entry is added.
   - The submitted ClickPB account does not name which police force carried out the seizure, so it does not resolve the existing Civil Police versus Military Police attribution difference.
   - The page's only image is a generic Civil Police patrol car credited to PCPB, not established by caption or text to show this van or seizure, so no media entry is added.
+  - The submitted page's van image is captioned only as archive material, so it is not established to show this seizure and no media entry is added for this source.
 ---
 
 The workshop owner outside whose premises the van was parked was taken to give a
-statement and was then booked for drug trafficking. [@2,4,7] The driver said to have
+statement and was then booked for drug trafficking. [@2,4,7,8] The driver said to have
 delivered the van to the workshop had not been found when the reports were last
 updated. [@1]
 
 The van was parked in front of a mechanical workshop with one of its windows
-broken. [@1,3,4] The shop owner said the van had been left at the site on Thursday
+broken. [@1,3,4,8] The shop owner said the van had been left at the site on Thursday
 29 October by a service provider for repairs. [@1] Brandão said in a note that
 the vehicle had been left at the workshop on that Thursday by a service provider
 and that he had not known about the drugs found inside. [@2,5,6,7] Brandão said he had
@@ -105,6 +111,6 @@ Flagrantes. [@2] He said he trusted a rigorous investigation of the facts and
 was in absolute tranquillity. [@1] The Paraíba Civil Police are investigating
 the seizure in the Cuiá case. [@1]
 
-On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7]
+On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8]
 
 The seizure and all the seized drugs were presented at the Cidade da Polícia Civil in the Geisel neighbourhood, where the case will be investigated to establish the origin of the drugs and identify those responsible for their transport. [@5]
