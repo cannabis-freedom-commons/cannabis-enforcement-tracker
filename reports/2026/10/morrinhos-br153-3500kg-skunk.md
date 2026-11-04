@@ -115,6 +115,11 @@ sources:
     publisher: Metrópoles
     date: 2026-10-29
     language: pt
+  - title: Polícia apreende 3,5 toneladas de skunk escondidas em caminhão em Goiás
+    url: https://ncnews.com.br/2026/10/30/policia-apreende-35-toneladas-de-skunk-escondidas-em-caminhao-em-goias/
+    publisher: NC News
+    date: 2026-10-30
+    language: pt
 open_questions:
   - The reports give the weight as about 3.5 tonnes and publish no exact figure.
   - Neither report says who valued the load at R$3.5 million.
@@ -140,21 +145,22 @@ open_questions:
   - The submitted article gives only its publication date of 3 November 2026 and no separate event date, while Metropoles dates the same operation to Thursday 29/10/2026.
   - The new sources say about four tonnes of maconha/entorpecentes, while the existing report records about 3.5 tonnes of skunk; the existing figure should be kept unless an official exact weight resolves it.
   - The new sources variously call the load maconha, drogas or entorpecentes, while the existing report specifies skunk, so the precise cannabis subtype wording differs between accounts.
+  - The page publishes one photo of the seizure with only a generic caption and a Reprodução credit, so it could not be confirmed as a distinct frame from the PRF handout photos already linked, and no media entry was added.
 ---
 
 The Federal Highway Police and the Civil Police of the Federal District seized
 about 3.5 tonnes of skunk from a truck on the BR-153 at Morrinhos, in southern
-Goiás, on the afternoon of Thursday 29 October 2026. [@2,3,4,6,7,9,10,12] The bales of skunk
-were hidden behind wooden pallets and were found by sniffer dogs. [@1] The
-driver was arrested. [@2,3,4,6,8,9,10,12,14]
+Goiás, on the afternoon of Thursday 29 October 2026. [@2,3,4,6,7,9,10,12,15] The bales of skunk
+were hidden behind wooden pallets and were found by sniffer dogs. [@1,15] The
+driver was arrested. [@2,3,4,6,8,9,10,12,14,15]
 
 The stop followed an exchange of information between the highway police and
 Civil Police officers in the Federal District. [@1,3,4,7,9,10,12,13] When approached, the driver
 could not explain where he had come from or where he was going, and stayed
-silent. [@1,5] After the pallets were unloaded, officers found the skunk in the
+silent. [@1,5,15] After the pallets were unloaded, officers found the skunk in the
 cargo compartment. [@2,3,4,6,7,9,10,12]
 
-He was taken to the Civil Police with the seized drug. [@2,3,4,6,7,9,10,12,13] At the Civil Police
+He was taken to the Civil Police with the seized drug. [@2,3,4,6,7,9,10,12,13,15] At the Civil Police
 station in Brasília, he was booked on a charge of interstate drug trafficking.
 [@1] The PRF did not name him and released only his age, 40. [@1,3]
 
