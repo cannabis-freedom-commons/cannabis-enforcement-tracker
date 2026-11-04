@@ -20,29 +20,36 @@ sources:
     publisher: NordNews
     date: 2026-11-04
     language: ru
+  - title: Percheziție la domiciliul unui tânăr din Fălești. Polițiștii au ridicat hașiș
+    url: https://stiri.md/article/social/perchezitie-la-domiciliul-unui-tanar-din-falesti-politistii-au-ridicat-hasis
+    publisher: Stiri.md
+    date: 2026-11-04
+    language: ro
 open_questions:
   - No total weight was published, only 23 packets, so no cannabis quantity in kilograms can be recorded.
   - Laboratory confirmation was still pending; police described the substance only as resembling hashish.
   - The account names no arrest, detention, charge or court outcome; the investigation was described as continuing.
   - Only one accessible source for this event was found after searching in Russian and Romanian.
   - The page illustration is a May 2026 police image reused with a generic caption and the embedded video is not established to show this seizure, so no media entry is included.
+  - The Știri.md page image is presented as a Știri.md collage and is not established to show this seizure, so no media entry is included.
 ---
 
 On 3 November 2026, police officers in Fălești carried out a search at the home
 of a 20-year-old young man, who is described in the account as the suspect in
-the case. [@1] During that home search, officers discovered and seized 23
+the case. [@1,2] During that home search, officers discovered and seized 23
 separate packets that contained a substance which police described as presumably
-narcotic in character. [@1]
+narcotic in character. [@1,2]
 
 According to the preliminary information reported after the seizure, the
-substance contained in those packets looked like hashish. [@1] Police said the
+substance contained in those packets looked like hashish. [@1,2] Police said the
 contents of the 23 packets would be sent for forensic examination to establish
-their exact composition in the laboratory. [@1] That examination, police said,
+their exact composition in the laboratory. [@1,2] That examination, police said,
 is expected to confirm or refute the initial police assumption that the material
 was hashish. [@1]
 
 Officers said they are continuing the investigation into the Fălești seizure and
-are working to clarify all of the circumstances surrounding the case. [@1] They
+are working to clarify all of the circumstances surrounding the case. [@1,2] They
 cautioned that, until the forensic results are received, it would be premature
 to state definitively that the seized substance is a drug. [@1]
 
+The 3 November search was based on operative information and authorisation from the Bălți Court, Fălești seat. [@2]
