@@ -62,29 +62,34 @@ sources:
     url: https://www.kget.com/news/crime-watch/mexican-national-arrested-on-suspicion-of-growing-marijuana-for-sale-near-taft/
     publisher: KGET 17 News
     date: 2026-10-14
+  - title: Man arrested after deputies allegedly find 660 marijuana plants & dangerous pesticides
+    url: https://bakersfieldnow.com/news/local/man-arrested-after-deputies-allegedly-find-660-marijuana-plants-dangerous-pesticides-kern-coutny-taft-california
+    publisher: BakersfieldNow
+    date: 2026-10-14
 open_questions:
   - No bail amount, prosecutor's charging decision or court outcome was reported.
   - The sources do not identify the pesticides or give their quantities, the cultivation area or a cannabis weight.
   - The written announcement does not explain the revolver pictured in Crime Voice's investigation gallery or report a firearms charge.
   - All three outlets rely on the sheriff's account, and the linked original Facebook announcement could not be opened.
+  - This account describes the location as the 27000 block of Taft Highway while the existing report records Highway 119, and the opened text does not explain the road naming.
 ---
 
 Rogelio Lorenzo Francisca, 32, was arrested after officers searched a
 marijuana growing site near Taft in Kern County, California, on 8 October
-2026. [@1,2,3,4] The Kern County Sheriff's Office said 660 plants were
-eradicated during the search. [@1,2,3,4] Deputies also found what the
-department described as dangerous pesticides within the grow site. [@1,2,3,4]
+2026. [@1,2,3,4,5] The Kern County Sheriff's Office said 660 plants were
+eradicated during the search. [@1,2,3,4,5] Deputies also found what the
+department described as dangerous pesticides within the grow site. [@1,2,3,4,5]
 
 The search warrant covered a property in the 27000 block of Highway 119.
 [@1,2,3,4] Deputies from the sheriff's Taft substation carried it out with
 help from the department's High Intensity Drug Trafficking Areas Task Force
-and the Taft Police Department. [@1,2,3]
+and the Taft Police Department. [@1,2,3,5]
 
 Francisca, identified as being from Guerrero, Mexico, was booked into the
-Taft jail facility. [@1,2,3,4] Authorities arrested him on suspicion of
+Taft jail facility. [@1,2,3,4,5] Authorities arrested him on suspicion of
 growing marijuana, possessing it for sale, conspiracy, and resisting,
-delaying or obstructing arrest. [@2] The sheriff's announcement described
-the investigation as active and ongoing. [@1,3] Crime Voice reproduced the
+delaying or obstructing arrest. [@2,5] The sheriff's announcement described
+the investigation as active and ongoing. [@1,3,5] Crime Voice reproduced the
 department's statement and published investigation photographs credited
 to the sheriff's office. [@3] Sierra Sun Times also credited its account
 and photographs to the department. [@1]
