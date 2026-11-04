@@ -71,6 +71,10 @@ sources:
     url: https://indtoday.com/patancheru-ganja-seizure-1-15-kg-seized-at-dairy-farm/
     publisher: INDToday News
     date: 2026-11-01
+  - title: Hyderabad dairy farm turns ganja hub; 60 customers allegedly visit every Sunday
+    url: https://newsmeter.in/crime/hyderabad-dairy-farm-turns-ganja-hub-60-customers-allegedly-visit-every-sunday-778508
+    publisher: NewsMeter
+    date: 2026-11-01
 open_questions:
   - The News18 Telugu page is dated 2 November 2026; the 31 October incident date comes from The Hindu and Telangana Today accounts of the Saturday raid.
   - Sources describe two men as arrested and four consumers as apprehended; the report groups all six detained people in the arrested figure.
@@ -87,22 +91,26 @@ open_questions:
   - The submitted page gives only its publication date of 1 November 2026 and no separate raid date; 31 October 2026 is the incident date established by the existing report.
   - The submitted page transliterates the locality as Kardatur while the existing report uses Kardanoor for the same Govind Rao Dairy Farm in Patancheru.
   - The submitted page does not name the accused, the four apprehended consumers, the alleged Dhoolpet supplier, or the NDPS case details given in the existing report.
+  - The NewsMeter page places Kardanoor/Patancheru in Rangareddy district while the existing report places it in Sangareddy district.
+  - The NewsMeter lead photo uses the article headline as its caption and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor
 village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
-[@3,4,5,6,7,8] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
-at the parking yard opposite, both natives of Bihar. [@2,8]
+[@3,4,5,6,7,8,9] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
+at the parking yard opposite, both natives of Bihar. [@2,8,9]
 
-Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5,6,7,8] Police said the pair
+Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5,6,7,8,9] Police said the pair
 bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
-for Rs 300. [@2,8] Investigators said they procured one to two kg two or three
+for Rs 300. [@2,8,9] Investigators said they procured one to two kg two or three
 times a week. [@2,8] Police said 20 to 30 consumers approached daily, rising to 50
-to 60 on Sundays. [@2,8]
+to 60 on Sundays. [@2,8,9]
 
 Roy had worked at the dairy farm for the past three years. [@3,8] Kumar had
 allegedly assisted Roy in selling marijuana for the past year. [@3,8] The alleged
-supplier Kishan Singh of Dhoolpet was absconding. [@3,5,8] A case was registered and
+supplier Kishan Singh of Dhoolpet was absconding. [@3,5,8,9] A case was registered and
 investigation continued. [@2,4,8]
 
-Police valued the seized ganja at about Rs 57,000. [@6,7,8]
+Police valued the seized ganja at about Rs 57,000. [@6,7,8,9]
+
+A case was registered at Patancheru Police Station as Crime No. 1439/2026 under Sections 8(c) read with 20(b)(ii)(B) and 27(b) of the NDPS Act. [@9] Police also identified around 10 other consumers allegedly linked to the operation. [@9] The dairy farm owner visited the premises for a few hours in the early morning. [@9]
