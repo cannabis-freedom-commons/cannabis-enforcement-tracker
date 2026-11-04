@@ -33,21 +33,27 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-03
     language: mr
+  - title: Yavatmal Ganja Cultivation | यवतमाळमध्ये कापूस-तुरीच्या पिकाआड गांजाची लागवड; २ कोटींचा मुद्देमाल जप्त
+    url: https://www.loksatta.com/nagpur/yavatmal-illegal-ganja-cultivation-cotton-tur-crop-police-action-rnb-99-6229006/
+    publisher: Loksatta
+    date: 2026-11-03
+    language: mr
 open_questions:
   - 3 November 2026 is the publication date; no separate dates for the 22 actions are given, only that they occurred in the prior six months.
   - No arrests, charges or court outcomes were reported.
   - The 848 plants are described as found; seizure, uprooting or disposal is not detailed, and whether their weight is included in the 978 kg total is unclear.
   - The three-acre figure describes the intercropped plot at Kumbhari, not a separately stated destroyed area, so no hectares are recorded.
   - Only one accessible source for this event was opened.
+  - The Loksatta page's only listed image is explicitly labelled as AI-generated, so no media entry is added from this source.
 ---
 
 Police in Yavatmal district carried out 22 cannabis actions in the six months
-before the 3 November 2026 report. [@1] The operations seized 978 kg of ganja.
-[@1] Police valued the seized ganja at 2.05 crore rupees. [@1] In parts of the
+before the 3 November 2026 report. [@1,2] The operations seized 978 kg of ganja.
+[@1,2] Police valued the seized ganja at 2.05 crore rupees. [@1,2] In parts of the
 district, growers hid cannabis behind cotton and tur, a pigeon-pea crop. [@1] In
 Kumbhari in Ghatanji taluka, officers found 848 cannabis plants in a three-acre
-plot among tur and cotton. [@1] Officers also uncovered cannabis grown concealed
-in tur in Pandharkawda taluka. [@1]
+plot among tur and cotton. [@1,2] Officers also uncovered cannabis grown concealed
+in tur in Pandharkawda taluka. [@1,2]
 
 Police described cultivation in the district as still limited but said a future
 rise could not be ruled out. [@1] The report notes the Centre fixed 2025-26
@@ -59,4 +65,3 @@ Progressive farmer Mahendra Mankar said growers get no expected price whether
 output is high or low. [@1] The report calls for strict police action alongside
 awareness and policies giving lawful farming stable income rather than treating
 the issue as crime alone. [@1]
-
