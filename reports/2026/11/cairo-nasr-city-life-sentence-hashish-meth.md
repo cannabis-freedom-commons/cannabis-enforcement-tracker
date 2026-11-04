@@ -25,6 +25,11 @@ sources:
     publisher: يوليو
     date: 2026-11-03
     language: ar
+  - title: 5 كيلو شابو وحشيش تقود موظف بترول ومندوبي شحن إلى المؤبد في مدينة نصر |تفاصيل - يوليو
+    url: https://www.youlyou.com/86508
+    publisher: يوليو
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No weights were published for the hashish or the methamphetamine, so no cannabis quantity is recorded and the methamphetamine is excluded from cannabis figures.
   - The article gives no separate sentencing date; 3 November 2026 is its publication date and is used as the incident date.
@@ -36,10 +41,10 @@ open_questions:
 
 The First Circuit of the Cairo Criminal Court, sitting at the Fifth Settlement,
 sentenced three defendants to life imprisonment after convicting them of drug
-trafficking. [@1] The court found the three men guilty of possessing and holding
-both methamphetamine and hashish with intent to traffic. [@1] The case was filed
+trafficking. [@1,2] The court found the three men guilty of possessing and holding
+both methamphetamine and hashish with intent to traffic. [@1,2] The case was filed
 as No. 1373 of 2024, First Nasr City felonies, registered as No. 2885 of 2024,
-New Cairo general registry. [@1]
+New Cairo general registry. [@1,2]
 
 The referral named the defendants as 26-year-old Mohamed K.S., an employee of
 the Egyptian petroleum-refining company, 24-year-old Salama M.S., a shipping
@@ -60,5 +65,6 @@ charges, while they remained in pretrial detention, with counsel appointed,
 criminal records attached and formal notification of the referral. [@1] The
 panel was headed by Counsellor Khaled Mohamed Radwan, with Counsellors Mahmoud
 Abdo El-Qarmouti, Samir Salah El-Din and Tamer Ahmed Reda as members and Moataz
-Medhat as secretary. [@1]
+Medhat as secretary. [@1,2]
 
+A police major and a First Nasr City detective testified that they arrested the defendants and the car they were in after prosecution permission. [@2] Searching the defendants, the residence and the car found plastic containers holding methamphetamine, pieces of hashish, money and two mobile phones. [@2] The chemical laboratory found the three seized containers held 3,635 grams of white crystalline material containing methamphetamine. [@2] The laboratory found the 20 seized brown pieces weighing 1 kilogram, 674 grams and 20 centigrams were hashish. [@2] Prosecution examination of the seized phones found conversations indicating trafficking. [@2]
