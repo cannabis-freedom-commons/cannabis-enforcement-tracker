@@ -27,31 +27,36 @@ sources:
     publisher: Kazinform
     date: 2026-10-16
     language: ru
+  - title: Спецслужбы Казахстана, России и Узбекистана изъяли 30 кг афганского гашиша
+    url: https://liter.kz/spetssluzhby-kazakhstana-rossii-i-uzbekistana-iziali-30-kg-afganskogo-gashisha-1792160215/
+    publisher: Liter.kz
+    date: 2026-10-16
+    language: ru
 open_questions:
   - The article gives no separate date for the detention and seizure; 16 October 2026 is the publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Russian and English, so no second account could be opened.
   - The two detained people were not named, and no charges, custody ruling or court outcome beyond the pretrial investigation were reported.
   - The page carries two photographs credited to the KNB press service, but their captions do not describe what they show, so no media entry is included.
   - Other KNB results mentioned on the same page, including 44 drug-supply channels since the start of 2026 and three channels with 622 kg of drugs, are separate statistics and are left out of this report.
+  - The Liter.kz page displays photographs credited to the KNB press service whose captions repeat only the headline, so no media entry from this source is included.
 ---
 
 Kazakhstan's Committee for National Security (KNB), the country's
 national-security agency, acted jointly with the special services of Russia and
 Uzbekistan to shut down an international narcotics-smuggling channel originating
-in Afghanistan. [@1] The channel used the so-called Northern route out of
-Afghanistan. [@1] Two people described as members of an international drug group
-were detained in Tyumen, Russia, as a result of the operation. [@1] Russian
+in Afghanistan. [@1,2] The channel used the so-called Northern route out of
+Afghanistan. [@1,2] Two people described as members of an international drug group
+were detained in Tyumen, Russia, as a result of the operation. [@1,2] Russian
 authorities opened a pretrial investigation into the case following the
-detentions and seizure. [@1]
+detentions and seizure. [@1,2]
 
 Officers searching the two detainees seized 30 kilograms of hashish described as
-Afghan hashish. [@1] The 30-kilogram weight refers only to the Afghan hashish
-taken from the detainees in Tyumen. [@1] The KNB estimated that the seized
+Afghan hashish. [@1,2] The 30-kilogram weight refers only to the Afghan hashish
+taken from the detainees in Tyumen. [@1,2] The KNB estimated that the seized
 consignment could be worth about 300,000 United States dollars on the black
-market. [@1]
+market. [@1,2]
 
 The KNB said measures to counter international illicit drug trafficking are
-continuing. [@1] The operation is presented as joint work by the Kazakh, Russian
-and Uzbek services against the Afghan channel. [@1] The arrests and seizure took
-place in Tyumen. [@1]
-
+continuing. [@1,2] The operation is presented as joint work by the Kazakh, Russian
+and Uzbek services against the Afghan channel. [@1,2] The arrests and seizure took
+place in Tyumen. [@1,2]
