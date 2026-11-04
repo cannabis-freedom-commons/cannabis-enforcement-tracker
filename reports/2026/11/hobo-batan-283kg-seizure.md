@@ -1,0 +1,66 @@
+---
+code: J53HAC
+added_at: "2026-11-04T03:53:25.741404Z"
+date: 2026-11-03
+country: co
+place: Vereda Batán, Hobo, Huila
+coordinates: [2.5825, -75.4511]
+precision: district
+type: seizure
+title: 283 kg of marijuana seized from pickup in Hobo, Huila
+summary: >-
+  Colombian Army troops seized 283 kg of marijuana hidden in a pickup in vereda Batán, Hobo, Huila, estimated at about 566,000 doses. The driver fled and no arrests were reported; the drug and vehicle were handed to judicial authorities.
+figures:
+  kg_seized: 283
+  value:
+    amount: 504296000
+    currency: COP
+media:
+  - kind: photo
+    url: https://www.diariodelsur.com.co/noticias/ejercito-incauta-mas-de-500-000-dosis-de-marihuana-en-hobo-huila
+    media_url: https://www.diariodelsur.com.co/uploads/articles/989f4402-6e2b-44d8-98bd-2f1b638d5a52.webp
+    publisher: Diario del Sur
+    caption: Photo of the operation against drug trafficking in Hobo, Huila.
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 7ba298f358bdd328d6afa95975e06301
+tags: [huila, hobo, novena-brigada]
+sources:
+  - title: Ejército incauta más de 500.000 dosis de marihuana en Hobo, Huila
+    url: https://www.diariodelsur.com.co/noticias/ejercito-incauta-mas-de-500-000-dosis-de-marihuana-en-hobo-huila
+    publisher: Diario del Sur
+    date: 2026-11-03
+    language: es
+  - title: Ejército Nacional incauta más de 500.000 dosis de marihuana en Hobo, Huila
+    url: https://www.cgfm.mil.co/es/multimedia/noticias/ejercito-nacional-incauta-mas-de-500000-dosis-de-marihuana-en-hobo-huila
+    publisher: Comando General de las Fuerzas Militares de Colombia
+    date: 2026-11-03
+    language: es
+open_questions:
+  - The sources give no separate date for the seizure, so 3 November 2026, the publication date of both sources, is used as the incident date.
+  - No arrests were reported; the driver abandoned the vehicle and fled, and no charges or court outcome were given.
+  - The figures record the 504,296,000-peso impact estimate; the separate near-1,698-million-peso potential sale estimate at 3,000 pesos per dose is reported in the text but not added to figures to avoid double-counting the same load.
+  - The page's cover image credited only as a central-editorial-group file photo does not establish that it shows this seizure, so only the Hobo-operation photo is listed as media.
+---
+
+Troops of Mountain Battalion No. 9 of the Army's Ninth Brigade, with judicial
+support from the National Police, seized 283 kilograms of marijuana in vereda
+Batán, in the municipality of Hobo, Huila. [@2] The driver abandoned the pickup
+truck and fled as troops closed in, and no arrests were reported. [@1] Troops
+placed the vehicle and the seized substance at the disposal of the competent
+authorities for judicial proceedings. [@2]
+
+Soldiers found several packages holding a total of 283 kilograms hidden in
+compartments in the seats and trunk of the pickup. [@1] The Army estimated the
+load at about 566,000 doses, preventing a significant quantity from continuing
+into illegal distribution circuits. [@1] It put the estimated impact on
+drug-trafficking economies at 504,296,000 pesos. [@1] At an average of 3,000
+pesos per dose, it gave a potential street-sale value near 1,698 million pesos.
+[@1]
+
+Military intelligence had identified suspicious movements of a vehicle in that
+part of Huila. [@2] Troops then deployed to verify and control the area. [@1]
+The Army said such Ninth Brigade operations keep drugs from reaching
+commercialization circuits with their social and public-health consequences.
+[@1]
+
