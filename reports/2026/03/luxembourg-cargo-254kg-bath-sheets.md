@@ -39,25 +39,32 @@ sources:
     publisher: RTL Infos
     date: 2026-04-03
     language: fr
+  - title: 'Du cannabis au lieu de draps de bain: nouvelle saisie importante de stupéfiants au Cargo Center'
+    url: https://www.virgule.lu/luxembourg/du-cannabis-au-lieu-de-draps-de-bain-nouvelle-saisie-importante-de-stupefiants-au-cargo-center/145135621.html
+    publisher: Virgule
+    date: 2026-04-03
+    language: fr
 open_questions:
   - The prosecutor said publicity was delayed until 3 April 2026 for operational reasons but gave no arrests or destination address in France.
   - RTL Today reported the shipment, like an earlier March seizure at the same hub, was US–France transit freight; no airline or consignee was named.
   - One Luxembourg outlet said the cannabis was destroyed after seizure; the prosecutor’s release only records seizure and a report to the prosecutor’s office.
   - The page's main image is credited to AFP with no caption linking it to this shipment, so no media entry is included.
   - 'Left out, as its quotation was not found in RTL Infos: The office announced the case on 3 April 2026, saying it could not comment earlier because of operational needs, and that it was still deciding how the inquiry would proceed.'
+  - The page's main image is credited as Chris Karaba/Archives/Illustration and does not show this shipment, so no media entry is included.
+  - The article also mentions separate recent seizures at the same airport that belong to other reports and are left out here.
 ---
 
 On 6 March 2026 customs officers at Luxembourg-Findel’s Cargo Center inspected
-air freight that had arrived from the United States and was bound for France. [@1,2,3]
+air freight that had arrived from the United States and was bound for France. [@1,2,3,4]
 The cargo was declared as bath sheets, but checks raised doubts about the
-contents. [@1,2]
+contents. [@1,2,4]
 
-Opening the shipment, agents seized 253.77 kilograms of cannabis. [@1,2,3] The
+Opening the shipment, agents seized 253.77 kilograms of cannabis. [@1,2,3,4] The
 Luxembourg prosecutor’s office said that, using an average illicit-market price
-per kilo, the drugs were worth about €1.5 million. [@1,2,3] A seizure record was
+per kilo, the drugs were worth about €1.5 million. [@1,2,3,4] A seizure record was
 sent to the prosecutor, which described the false textile declaration and
-packaging as deliberate evasion of customs controls. [@1,2]
+packaging as deliberate evasion of customs controls. [@1,2,4]
 
 The office announced the case on 3 April 2026, saying it could not comment earlier
 because of operational needs, and that it was still deciding how the inquiry
-would proceed. [@1,2] No arrests were reported. [@1,2]
+would proceed. [@1,2,4] No arrests were reported. [@1,2]
