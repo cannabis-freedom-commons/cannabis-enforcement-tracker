@@ -29,6 +29,11 @@ sources:
     publisher: Polizeipräsidium Reutlingen
     date: 2026-11-04
     language: de
+  - title: 'Drogen bei Fahrzeugkontrolle in Reutlingen entdeckt: Rauschgifthändler verhaftet'
+    url: https://www.swp.de/lokales/reutlingen/drogen-bei-fahrzeugkontrolle-in-reutlingen-entdeckt-rauschgifthaendler-verhaftet-79663178.html
+    publisher: Südwest Presse
+    date: 2026-11-04
+    language: de
 open_questions:
   - The marijuana weight was reported only as more than ten kilograms and the hashish as just under 100 grams, so 10.1 kilograms is recorded as the stated combined cannabis amount and should be read as approximate.
   - The tiny amounts of amphetamine and cocaine were not quantified and are excluded from the cannabis figure; no combined drug total is counted as cannabis.
@@ -37,23 +42,23 @@ open_questions:
   - The blank-firing gun was reported without details on whether it was loaded or how it relates to the armed-trafficking suspicion beyond the seizure.
   - The only accessible page photo is explicitly captioned as a symbol image and is not shown to depict this seizure, so no media entry is included.
   - Both accounts repeat the police and prosecutor's version; no independent account or statement from the suspect was published.
+  - The SWP page image is credited to Marcus Brandt/dpa and captioned only about pre-trial detention, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 The Tübingen public prosecutor's office and Reutlingen criminal police are
 investigating a 21-year-old man on suspicion of armed unauthorised trafficking
 of cannabis in a not-small quantity and driving under the influence of drugs.
-[@1] Police provisionally arrested him on Monday 2 November 2026 at a checkpoint
-in Reutlingen, and he is now in pre-trial detention. [@1] He had driven into the
+[@1,3] Police provisionally arrested him on Monday 2 November 2026 at a checkpoint
+in Reutlingen, and he is now in pre-trial detention. [@1,3] He had driven into the
 police checkpoint on Rommelsbacher Strasse in Reutlingen at about 15:10 on
-Monday afternoon. [@1]
+Monday afternoon. [@1,3]
 
 During the check officers suspected he was under the influence of drugs, and an
-on-site test was positive. [@1] A search of his vehicle found more than ten
+on-site test was positive. [@1,3] A search of his vehicle found more than ten
 kilograms of marijuana and just under 100 grams of hashish, as well as tiny
-amounts of amphetamine and cocaine and a blank-firing gun. [@2]
+amounts of amphetamine and cocaine and a blank-firing gun. [@2,3]
 
 The German national was brought before the detention judge at the Tübingen local
-court the following day. [@1] The judge issued the arrest warrant requested by
+court the following day. [@1,3] The judge issued the arrest warrant requested by
 the Tübingen prosecutor's office and ordered it executed, after which the man
-was taken to a prison. [@1]
-
+was taken to a prison. [@1,3]
