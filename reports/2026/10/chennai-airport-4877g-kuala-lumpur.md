@@ -70,6 +70,11 @@ sources:
     publisher: Dinamani
     date: 2026-11-02
     language: ta
+  - title: மலேசியாவிலிருந்து சென்னைக்கு கடத்தி வரப்பட்ட ரூ. 1.71 கோடி மதிப்பிலான கஞ்சா - கடத்தல் குருவி சிறையில் அடைப்பு
+    url: https://www.etvbharat.com/ta/state/more-than-a-crore-worth-smuggled-narcotics-seized-in-chennai-airport-from-malaysia-tns26110201342
+    publisher: ETV Bharat Tamil Nadu
+    date: 2026-11-02
+    language: ta
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -98,12 +103,20 @@ open_questions:
   - This page gives 4.80 kg and Rs 4.80 crore while the existing report uses 4.877 kg and Rs 1.71 crore from other outlets.
   - This page gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
   - 'Left out, as its quotation was not found in Dinamani: She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling.'
+  - ETV Bharat gives 4.80 kg while the existing report uses 4.877 kg from Daily Thanthi and Hindustan Times.
+  - ETV Bharat gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
+  - ETV Bharat was published 2 November 2026 and describes the Kuala Lumpur flight arriving the night of 1 November, while the existing report dates the event 31 October 2026.
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
     media_url: https://media.assettype.com/dt-next%2F2026-11-02%2Fuwku5o1c%2F1-2.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: DT Next
     caption: Parcels of hydroponic ganja concealed among dry fruit parcels seized at Chennai International Airport.
+  - kind: photo
+    url: https://www.etvbharat.com/ta/state/more-than-a-crore-worth-smuggled-narcotics-seized-in-chennai-airport-from-malaysia-tns26110201342
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/02-11-2026/1200-675-28015869-thumbnail-16x9-kanja.jpg
+    publisher: ETV Bharat Tamil Nadu
+    caption: 'Seized ganja displayed after the Chennai airport interception. Photo: ETV Bharat Tamil Nadu'
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
@@ -114,11 +127,13 @@ officers stopped her and searched her suitcase and handbag. [@1]
 
 The search found 4.877 kg of high-grade hydroponic cannabis in 23 packets
 disguised as food. [@1,5,8] Daily Thanthi put its international value at ₹1.71
-crore. [@1,5] Hindustan Times reported that the drug was in 15 transparent packets
+crore. [@1,5,11] Hindustan Times reported that the drug was in 15 transparent packets
 concealed inside eight food packets in her checked-in trolley bag. [@2,3]
 
 An official said further investigation was under way. [@2,3] Customs' intelligence
 wing had put the airport under watch after a tip-off that narcotics were being
 brought into Chennai from abroad. [@1]
 
-The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6,7,8,9,10] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4,7] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6,7,8,9]
+The woman, a Chennai resident, had gone to Malaysia as a tourist and returned the next day on the same flight. [@4,6,7,8,9,10,11] The investigation found that a gang paid for her trip, lured her with money and a free foreign trip, and used her as a drug mule. [@4,7,11] She was produced before a magistrate and lodged in Puzhal prison, and Customs officers are investigating the gang behind the smuggling. [@4,6,7,8,9,11]
+
+The woman came from a poor economic background and had never travelled by air before the gang sent her as a courier. [@11]
