@@ -39,6 +39,11 @@ sources:
     publisher: bualbual.com
     date: 2026-11-04
     language: id
+  - title: Polsek Mandau Ungkap Peredaran Ganja, Tiga Tersangka Diamankan
+    url: https://rri.co.id/bengkalis/hukum/hukum/2869576/polsek-mandau-ungkap-peredaran-ganja-tiga-tersangka-diamankan
+    publisher: RRI
+    date: 2026-11-04
+    language: id
 open_questions:
   - No weight was published for the 27 cannabis packets, so no cannabis weight is recorded.
   - No second independent report of the same event was found, so this report relies on one outlet account.
@@ -54,6 +59,10 @@ open_questions:
   - The Bualbual account spells the first alley as Gang Gian Nam while the existing report records Gang Giam, a minor spelling variation that does not change the match.
   - The Bualbual lead image is a generic red-and-white breaking-news graphic, not a photo of this seizure, so no media entry is added.
   - The Jagariau account reports two mobile phones while the existing report records three mobile phones, so the phone count remains as previously reported.
+  - The submitted RRI account gives the full names Yudha Saputra Pratama, Bambang Kurnia Azlansyah and Hardhi Putra, while the existing report records the third suspect as AP aged 31 rather than HP, so the full identification of the third suspect remains unresolved.
+  - The submitted account names Jalan Giam 6 and Jalan Abdurrahman in Pematang Pudu, while the existing report records Jalan Asrama Tribrata, Gang Giam and Gang Abdul Rahman, a minor street-naming variation.
+  - The page carries a press-conference photo captioned as the Bengkalis police chief explaining the disclosure, which does not show the seized cannabis itself, so no media entry is listed.
+  - The submitted account does not mention the three mobile phones and three motorcycles recorded in the existing report, so those counts remain supported only by the earlier sources.
 ---
 
 Mandau police in Bengkalis detained three men with the initials YS aged 25, BKA
@@ -66,10 +75,10 @@ Police said they seized 27 packets of cannabis from the three men, plus three
 mobile phones and three motorcycles. [@1,2] The case began with public information
 about suspected cannabis misuse on Jalan Asrama Tribrata, Gang Giam, in Pematang
 Pudu. [@1] At about 8:10 p.m. on 2 November 2026, the operational team went to
-that location and detained YS. [@1,2] A search found six packets of cannabis
+that location and detained YS. [@1,2,5] A search found six packets of cannabis
 stored in the right dashboard of a white Honda Vario motorcycle. [@1,2,3] YS
 initially said the cannabis came from BKA, prompting officers to follow up on
-BKA’s whereabouts. [@1,2,4] At about 8:30 p.m., officers went to a house on Jalan
+BKA’s whereabouts. [@1,2,4,5] At about 8:30 p.m., officers went to a house on Jalan
 Asrama Tribrata, Gang Abdul Rahman, where they detained BKA together with AP.
 [@1,2] Officers found 19 packets attributed to BKA in a cupboard, comprising one
 large packet, one medium packet and 17 small packets. [@1,2,4] Officers found two
@@ -78,4 +87,6 @@ packets of cannabis on AP stored in a Torch sling bag. [@1,2,3]
 Police said the suspects allegedly violated Article 111 of Indonesia’s Narcotics
 Law No. 35 of 2009 in conjunction with Article 609 on adjusted penalties. [@1]
 
-Police put the combined net weight of the 27 cannabis packets at 129.07 grams. [@2] The case was presented at a press conference led by Bengkalis police chief AKBP Eko Rubiyanto at the Bengkalis police hall on 4 November 2026. [@2] Police said a man with the initials AM is on the wanted list in connection with the case. [@2] The three suspects were charged under Article 114 paragraph 1 and Article 111 paragraph 1 of Narcotics Law Number 35 of 2009, carrying a maximum 12-year penalty. [@2]
+Police put the combined net weight of the 27 cannabis packets at 129.07 grams. [@2,5] The case was presented at a press conference led by Bengkalis police chief AKBP Eko Rubiyanto at the Bengkalis police hall on 4 November 2026. [@2,5] Police said a man with the initials AM is on the wanted list in connection with the case. [@2,5] The three suspects were charged under Article 114 paragraph 1 and Article 111 paragraph 1 of Narcotics Law Number 35 of 2009, carrying a maximum 12-year penalty. [@2,5]
+
+The six packets seized from the first suspect weighed 17.89 grams. [@5] Nineteen packets attributed to the second suspect weighed 95.44 grams and two packets from the third suspect weighed 15.74 grams. [@5] Yudha had ordered the cannabis through WhatsApp with an upfront payment and settlement after the drugs were received. [@5]
