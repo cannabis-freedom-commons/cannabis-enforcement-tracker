@@ -34,6 +34,16 @@ sources:
     publisher: Marigliano
     date: 2026-11-04
     language: it
+  - title: Napoli Est controlli ad alto impatto | scoperti allacci abusivi sequestrati 4 chili di hashish e chiusa un’attività funebre
+    url: https://www.zazoom.it/2026-11-04/napoli-est-controlli-ad-alto-impatto-scoperti-allacci-abusivi-sequestrati-4-chili-di-hashish-e-chiusa-unattivita-funebre/19884006/
+    publisher: Zazoom Social News
+    date: 2026-11-04
+    language: it
+  - title: 'Napoli Est, controlli ad alto impatto: scoperti allacci abusivi, sequestrati 4 chili di hashish e chiusa un’attività funebre'
+    url: https://puntomagazine.it/2026/11/04/napoli-est-controlli-carabinieri-hashish-furto-energia-impresa-funebre/
+    publisher: Puntomagazine.it
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the checks; 4 November 2026 is its publication date and is used as the incident date.
   - The hashish weight is reported as approximate, about four kilos, and no separate weight is given for the 20 packaged doses, so the recorded cannabis figure is 4 kg.
@@ -44,16 +54,17 @@ open_questions:
   - This account reports eight people denounced around the electricity-theft checks, five in San Giovanni a Teduccio and three in Barra, while the existing report records five people reported for electricity theft, an unresolved discrepancy.
   - The page labels its only photo as an archive photo, so no new event-specific media can be added from this source.
   - Adding the stated 4 kilograms and 50 grams would imply 4.05 kg of hashish, but both weights are reported as stated without laboratory precision.
+  - The Zazoom and Puntomagazine.it image uses the same Poggioreale-droga-04.11.2026 file already recorded from Il Meridiano News, so no new distinct event photo is added.
 ---
 
 The Poggioreale Carabinieri company carried out high-impact checks in the Naples
-districts of Poggioreale, San Giovanni a Teduccio and Barra. [@1,2] The operation
+districts of Poggioreale, San Giovanni a Teduccio and Barra. [@1,2,3] The operation
 uncovered electricity theft, drugs and businesses operating without the required
-authorisations. [@1] Officers found a drug store inside cellar rooms in the
-Taverna del Ferro housing complex at San Giovanni a Teduccio. [@1,2]
+authorisations. [@1,3] Officers found a drug store inside cellar rooms in the
+Taverna del Ferro housing complex at San Giovanni a Teduccio. [@1,2,4]
 
 Officers seized 40 blocks of hashish with a total weight of about four kilos.
-[@1,2] Officers also seized 20 doses already packaged for sale. [@1,2]
+[@1,2,4] Officers also seized 20 doses already packaged for sale. [@1,2,4]
 
 With technicians from E-Distribuzione, officers found ten illegal connections
 used to draw power without regular metering, and five people were reported for
