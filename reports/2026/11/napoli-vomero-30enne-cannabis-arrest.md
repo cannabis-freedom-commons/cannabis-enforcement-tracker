@@ -39,6 +39,11 @@ sources:
     publisher: Il Gazzettino vesuviano | IGV
     date: 2026-11-03
     language: it
+  - title: 'NAPOLI: i carabinieri devono installare il braccialetto e lui li accoglie in casa con due barattoli di cannabis sul tavolo. Arrestato'
+    url: https://www.vitawebtv.it/napoli-i-carabinieri-devono-installare-il-braccialetto-e-lui-li-accoglie-in-casa-con-due-barattoli-di-cannabis-sul-tavolo-arrestato/
+    publisher: Vita Web TV
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give no separate date for the home check, so 3 November 2026, the publication date, is used as the incident date.
   - No weight was given for the cannabis flowers in the two jars, so the recorded 0.444 kg covers only the weighed 150-gram and 200-gram marijuana packets and the 94-gram hashish block.
@@ -50,18 +55,18 @@ open_questions:
 ---
 
 Carabinieri from the Naples Vomero station went to a 30-year-old man's home to
-install an electronic bracelet. [@1,4] The man was already under an order to
+install an electronic bracelet. [@1,4,5] The man was already under an order to
 report to the judicial police and not to approach his former partner while
-awaiting bracelet monitoring. [@1] Officers arrested the 30-year-old for alleged
+awaiting bracelet monitoring. [@1,5] Officers arrested the 30-year-old for alleged
 possession of drugs for dealing, and he was taken to jail to await a court
-decision. [@1,3,4]
+decision. [@1,3,4,5]
 
 On the kitchen table in plain view, officers saw two jars containing cannabis
-flowers. [@1,3,4] A further search found two packets of marijuana weighing 150 grams
-and 200 grams and a 94-gram block of hashish. [@2,3,4] Officers also found a
+flowers. [@1,3,4,5] A further search found two packets of marijuana weighing 150 grams
+and 200 grams and a 94-gram block of hashish. [@2,3,4,5] Officers also found a
 notebook recording accounts of the alleged dealing activity and material for
 packaging doses. [@1] In the home officers also found four bullets and 320 euros
-in cash treated as alleged proceeds of the activity. [@2]
+in cash treated as alleged proceeds of the activity. [@2,5]
 
 The home visit had been arranged to fit the bracelet that would monitor
 compliance with the stay-away measure. [@2] The 30-year-old remained in custody
