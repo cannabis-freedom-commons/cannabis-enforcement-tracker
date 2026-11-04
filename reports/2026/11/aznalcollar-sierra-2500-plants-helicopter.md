@@ -21,6 +21,11 @@ media:
     media_url: https://d2mqpxndxh0mbq.cloudfront.net/articulos/articulos-195308.jpg
     publisher: lavozdelsur.es
     caption: Marijuana plantation on the mountainside in the Sierra de Sevilla.
+  - kind: photo
+    url: https://www.elpespunte.es/provincia/aznalcollar/desmantelan-aznalcollar-complejo-marihuana-plena-montana-2500-plantas-acceso-pie/20261104092513160194.html
+    media_url: https://www.elpespunte.es/asset/thumbnail,1920,1080,center,center/media/elpespunte/images/2026/11/04/2026110409270619123.jpg
+    publisher: El Pespunte
+    caption: Investigation by the Guardia Civil in the mountains at Aznalcóllar.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6c89bea035bef3e1745750e9034e3fa
@@ -36,6 +41,11 @@ sources:
     publisher: La Noción
     date: 2026-11-04
     language: es
+  - title: Desmantelan en Aznalcóllar un complejo de marihuana en plena montaña con 2.500 plantas y acceso únicamente a pie
+    url: https://www.elpespunte.es/provincia/aznalcollar/desmantelan-aznalcollar-complejo-marihuana-plena-montana-2500-plantas-acceso-pie/20261104092513160194.html
+    publisher: El Pespunte
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -44,23 +54,24 @@ open_questions:
   - No figure for the cultivated area or any drug valuation was published.
   - The event photo carries no credit identifying whether it is a Guardia Civil handout.
   - The La Noción page displays a photograph filed as 311026_complejo_marihuana_5.jpg with only the generic alt text Foto de la noticia and no credit, so it was not added as a confirmed distinct event photo.
+  - The El Pespunte page carries four additional images without captions or credits, so they could not be confirmed as distinct event photos.
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1] Officers detained four people at the site. [@1,2] The four suspects tried to
-escape across the mountain when agents reached the site but were caught. [@1,2]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2]
+[@1,3] Officers detained four people at the site. [@1,2,3] The four suspects tried to
+escape across the mountain when agents reached the site but were caught. [@1,2,3]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3]
 The detainees were brought before those courts as alleged perpetrators of
-public-health offences and membership in a criminal organisation. [@1,2] The
+public-health offences and membership in a criminal organisation. [@1,2,3] The
 investigation remains open. [@1,2]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2] Some of the plants stood
-more than two metres tall. [@1,2] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1] From there, a
+installations practically inaccessible by road. [@1,2,3] Some of the plants stood
+more than two metres tall. [@1,2,3] Because vehicles could not be used, agents cut
+the plants and carried them to a point near a dry riverbed. [@1,3] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
-[@1,2] Each growing area had its own irrigation system despite the steep slope and
+[@1,2,3] Each growing area had its own irrigation system despite the steep slope and
 lack of conventional connections. [@1] Those running the site had installed
 motors, pipes and large water stores including pools across the sierra. [@1] The
 site also had electric generators, tools and drying rooms. [@1] Officers found
@@ -79,4 +90,6 @@ nearby towns. [@1] Keepers could carry on daily work without travelling
 regularly to nearby towns. [@1] A nearby watercourse helped supply the crops.
 [@1]
 
-The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2]
+The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3]
+
+Police said further linked plantations and other people involved have not been ruled out. [@3]
