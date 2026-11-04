@@ -31,28 +31,32 @@ sources:
     publisher: SiracusaNext24
     date: 2026-11-02
     language: it
+  - title: 'Floridia: Carabinieri raid on drug dealing to young people, 18-year-old reported - WLTV'
+    url: https://www.wltv.it/en/floridia-carabinieri-raid-on-drug-dealing-to-young-people-18-year-old-reported/
+    publisher: WLTV
+    date: 2026-11-02
 open_questions:
   - No separate raid date is given; 2 November 2026 is the publication date used as the incident date.
   - No weight is given for the additional already-packaged doses, so 0.08 kg covers only the approximately 80-gram block.
   - The youth was reported while remaining at liberty; no arrest detention or court outcome is reported.
   - The page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is listed.
+  - The WLTV page image has no caption, alt text or credit establishing that it shows this seizure, so no media entry is listed for this source.
 ---
 
 Carabinieri from the Floridia station reported an 18-year-old at liberty for
-alleged possession of drugs with intent to deal. [@1] The operation was part of
+alleged possession of drugs with intent to deal. [@1,3] The operation was part of
 territorial checks aimed at countering drug dealing and use, particularly among
-younger people. [@1] The searches followed an observation activity that led
+younger people. [@1,3] The searches followed an observation activity that led
 officers to carry out personal searches and then searches inside the youth's
-home. [@1]
+home. [@1,3]
 
 In the suspect's bedroom, hidden inside a cabinet, officers found and seized a
 hashish block weighing about 80 grams, together with other already-packaged
 doses of the same substance described as apparently ready for the local market.
-[@1] Officers then extended the inspection to the building's external areas and
+[@1,3] Officers then extended the inspection to the building's external areas and
 found one Indian hemp plant in an advanced vegetative state growing in the house
-courtyard. [@2]
+courtyard. [@2,3]
 
-All of the seized drugs were held for subsequent laboratory analysis. [@1] The
+All of the seized drugs were held for subsequent laboratory analysis. [@1,3] The
 youth was referred to the judicial authority while remaining free, with no
-arrest reported. [@2]
-
+arrest reported. [@2,3]
