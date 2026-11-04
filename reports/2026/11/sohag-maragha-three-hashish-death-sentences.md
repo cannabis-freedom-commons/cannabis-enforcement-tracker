@@ -1,0 +1,56 @@
+---
+code: 9X990T
+added_at: "2026-11-04T18:53:01.140956Z"
+date: 2026-11-04
+country: eg
+place: Maragha district, Sohag Governorate
+coordinates: [26.697, 31.591]
+precision: district
+type: sentence
+also: [prosecution]
+title: Three sentenced to death by hanging in Sohag hashish case
+summary: >-
+  Sohag Criminal Court sentenced three defendants to death by hanging after convicting them of possessing hashish for trafficking and holding a scalpel without lawful excuse in Maragha district. The case dated to November 2025 charges and was decided on 4 November 2026, with case expenses and confiscation of the seized items ordered.
+figures:
+  charged: 3
+  prison: death by hanging
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: fcb6cd3f91e9a2a4f5ed98e7b5fc4508
+tags: [sohag, hashish, death-sentence, maragha]
+sources:
+  - title: الإعدام شنقا لـ3 متهمين بالاتجار في الحشيش بسوهاج
+    url: https://www.youm7.com/story/2026/11/4/%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%B4%D9%86%D9%82%D8%A7-%D9%84%D9%803-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%B3%D9%88%D9%87%D8%A7%D8%AC/7606366
+    publisher: اليوم السابع
+    date: 2026-11-04
+    language: ar
+open_questions:
+  - No weight, quantity or valuation of the hashish was published, so no cannabis weight is recorded.
+  - The article gives no separate sentencing date beyond its 4 November 2026 publication timestamp, so that date is used as the incident date.
+  - The defendants were identified only by initials with ages and occupations, not full names.
+  - No arrest date, seizure inventory or detention details were published.
+  - Whether the death sentences are final or subject to appeal was not reported.
+  - Only one accessible source for this ruling was found after searching in Arabic and English.
+  - The page image is captioned only as the Sohag Criminal Court and repeats the headline, which does not establish that it shows this hearing, so no media entry is included.
+---
+
+Sohag Criminal Court sentenced three defendants to death by hanging for hashish
+trafficking in Maragha district. [@1] The court convicted them of possessing
+hashish with intent to traffic and of holding a scalpel without lawful
+justification. [@1] It also ordered the three to pay the case expenses and
+confiscated the seized items. [@1]
+
+The defendants were identified only by their initials as M.A., 35, a holder of
+an industrial diploma, M.M., 25, also a holder of an industrial diploma, and
+A.A., 41, who is unemployed. [@1] Prosecutors said the case dated to November
+2025, when the three were charged with possessing hashish for trafficking and
+holding the cutting tool. [@1] The case papers said they held the drugs to
+promote and trade them and kept a cutting implement without lawful excuse in
+Maragha district of Sohag Governorate. [@1] The bench was headed by Hamdi Abdel
+Aziz with Mohy Abu Kreisha and Amr Makki, with clerks Taha Hussein and Maged
+Amin. [@1]
+
+After investigations ended, the Public Prosecution referred the case to the
+Sohag Criminal Court, which heard it and imposed the three death sentences. [@1]
+The court issued this ruling on 4 November 2026. [@1]
+
