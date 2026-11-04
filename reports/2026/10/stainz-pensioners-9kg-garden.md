@@ -43,17 +43,22 @@ sources:
     publisher: Heute
     date: 2026-10-30
     language: de
+  - title: 'Cannabisplantage im Garten: Zwei Pensionisten sitzen in U-Haft'
+    url: https://www.5min.at/steiermark/5202610301343/cannabisplantage-im-garten-zwei-pensionisten-sitzen-in-u-haft/
+    publisher: 5 Minuten
+    date: 2026-10-30
+    language: de
 ---
 
 On 15 October 2026 the narcotics group of the Deutschlandsberg district police command, backed by
 Styria's rapid intervention unit and other district officers, searched a single-family house in
 Stainz shared by a 61-year-old woman and a 68-year-old man, on an order from the Graz prosecutor's
-office. [@1,2,3]
+office. [@1,2,3,4]
 
-The grounds were fitted with several tripwires that set off an acoustic alarm when triggered. [@1,2,3]
+The grounds were fitted with several tripwires that set off an acoustic alarm when triggered. [@1,2,3,4]
 Inside the garden police found a cannabis plantation and already processed cannabis; altogether they
-seized more than nine kilograms. [@1,2,3]
+seized more than nine kilograms. [@1,2,3,4]
 
 Both suspects were arrested and remanded to Graz-Jakomini prison on suspicion of commercial drug
-trafficking. [@1,2,3] They have not confessed. [@1,2,3] Kronen Zeitung said they were Austrian citizens
+trafficking. [@1,2,3,4] They have not confessed. [@1,2,3,4] Kronen Zeitung said they were Austrian citizens
 and had no prior drug record known to police. [@2]
