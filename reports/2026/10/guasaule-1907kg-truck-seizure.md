@@ -32,6 +32,11 @@ sources:
     publisher: Radio 580
     date: 2026-10-28
     language: es
+  - title: Incautan 1.9 toneladas de marihuana en frontera de Nicaragua
+    url: https://hch.tv/incautacion-marihuana-frontera-nicaragua/
+    publisher: HCH
+    date: 2026-10-28
+    language: es
 media:
   - kind: photo
     url: https://www.infobae.com/nicaragua/2026/10/28/incautan-19-toneladas-de-marihuana-y-arresta-a-un-guatemalteco-en-frontera-de-nicaragua/
@@ -43,17 +48,20 @@ open_questions:
   - The declared load was ceramic goods, lead sulphate and vehicle parts from Hidalgo, Mexico, bound for Costa Rica.
   - Police presented Recinos Vargas on 28 October; no court outcome was reported.
   - On 29 October police said they had incinerated the cannabis; this report follows the seizure on 27 October.
+  - The HCH page displays an image captioned as the Nicaragua border marijuana seizure, but it could not be established whether it is distinct from the Nicaragua Police handout already archived from Infobae, so no new media entry is included.
 ---
 
 On 27 October 2026, Nicaragua's National Police said officers at the El Guasaule
 border post in Chinandega found 608 rectangular packages with about 1,907 kg
-(4,204 lb) of cannabis in a freight truck. [@1,2] The drugs were hidden among
+(4,204 lb) of cannabis in a freight truck. [@1,2,3] The drugs were hidden among
 heat-insulation sheets and plastic strapping on a red Freightliner tractor with a
 white Great Dane trailer. [@1,2]
 
-Field tests and forensic tests confirmed marijuana, the police said. [@1,2] They
+Field tests and forensic tests confirmed marijuana, the police said. [@1,2,3] They
 arrested the driver, Fredy Bladimiro Recinos Vargas, 52, from Guatemala, and
-seized the tractor and trailer. [@1,2] Police said he had entered Mexico on 23
+seized the tractor and trailer. [@1,2,3] Police said he had entered Mexico on 23
 October, loaded at a logistics warehouse in Hidalgo, left Mexico on 24 October
 and was taking the cargo toward Costa Rica. [@1,2] They presented him for
 organised crime and drug trafficking offences. [@2]
+
+Police also used the Scintrex Trace particle-detection technique on areas of the truck and the driver and found marijuana traces in the cab, gear lever, steering wheel and the detainee's clothing. [@3]
