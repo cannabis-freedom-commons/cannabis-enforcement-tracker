@@ -42,29 +42,34 @@ sources:
     publisher: KPP Chodzież
     date: 2026-11-03
     language: pl
+  - title: Marihuana w domu i szklarni. Zatrzymano mieszkańca powiatu wągrowieckiego
+    url: https://www.portalwrc.pl/wagrowiec/aktualnosci-z-powiatu/22502-marihuana-w-domu-i-szklarni-zatrzymano-mieszkanca-powiatu-wagrowieckiego
+    publisher: Portal WRC
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The village or town of the residence was not named, only Wagrowiec County, so district-centre coordinates are used.
   - The marijuana weight was reported as nearly 623 grams, not confirmed as an exact laboratory weight.
   - The suspect was identified only as a 42-year-old man; no full name was published.
   - No trial outcome was reported; only charges and a three-month pretrial detention order are known.
+  - The page embeds three event-area photos without captions or credits, so they cannot be established as distinct from the police handout already cited and no new media entry is added.
 ---
 
 Chodziez criminal police acted early in the morning on 28 October and reached
-the home of a 42-year-old Wagrowiec County resident. [@1] Officers detained the
-42-year-old man at the residence during the search. [@1] He was charged with
+the home of a 42-year-old Wagrowiec County resident. [@1,3] Officers detained the
+42-year-old man at the residence during the search. [@1,3] He was charged with
 possessing a significant quantity of narcotics and illegally cultivating
-cannabis. [@1] A court ordered three months of pretrial detention for the
-suspect, who faces up to 10 years in prison. [@1]
+cannabis. [@1,3] A court ordered three months of pretrial detention for the
+suspect, who faces up to 10 years in prison. [@1,3]
 
 Officers found non-fibre cannabis, the Polish legal term for cannabis other than
 fibre hemp, growing both in the garden greenhouse and in the rooms of the
-residential building. [@2] Officers seized 26 cannabis bushes at the property.
-[@1] Officers established that the man had dried previously harvested bushes and
-processed them into marijuana portions. [@2] Officers also seized nearly 623
-grams of marijuana. [@2]
+residential building. [@2,3] Officers seized 26 cannabis bushes at the property.
+[@1,3] Officers established that the man had dried previously harvested bushes and
+processed them into marijuana portions. [@2,3] Officers also seized nearly 623
+grams of marijuana. [@2,3]
 
 Police photographs document the cannabis bushes found inside the greenhouse.
 [@2] Police photographs also show the harvested marijuana stored in jars at the
 property. [@2] The Chodziez criminal division said both the plants and the dried
 marijuana were secured through operational work. [@2]
-
