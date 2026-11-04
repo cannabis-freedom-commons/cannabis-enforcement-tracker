@@ -292,6 +292,11 @@ sources:
     publisher: FTNN 新聞網
     date: 2026-11-04
     language: zh
+  - title: Toyz出獄首發聲！「超短2個字」吸21萬人朝聖　悄刪置頂文回歸倒數 | ETtoday星光雲 | ETtoday新聞雲
+    url: https://star.ettoday.net/news/3266157
+    publisher: ETtoday星光雲
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -373,11 +378,13 @@ open_questions:
   - The page does not name the pickup prison or departure airport, so it does not resolve the Changhua Prison versus Erlin Prison and airport discrepancy already noted in the existing report.
   - The page repeats the unconfirmed claim of an in-prison marriage to 篠崎泫 and lawyer commentary on future依親 residence, which is not added as a verified fact.
   - No media entry is added because the page's captioned image is credited to Toyz's YT channel and is not established as showing the deportation escort itself.
+  - The more than 210,000 likes for the post-release Threads post and the unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail or figures are added.
+  - No media entry is added because the page's single image is captioned as an Instagram screenshot about serving time and is not established as showing the deportation operation.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49] Prosecutors ordered deportation in place of protective supervision after
@@ -386,7 +393,7 @@ supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50,51] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6,33,36]
