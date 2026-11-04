@@ -46,6 +46,10 @@ sources:
     url: https://www.indiatvnews.com/news/india/telangana-three-arrested-as-excise-officials-seize-3-323-kg-of-ganja-near-pub-in-medchal-malkajgiri-2026-11-04-1058699
     publisher: India TV News
     date: 2026-11-04
+  - title: Three held with ganja in Telangana; Rs 70 lac assets traced in drug probe
+    url: https://www.daijiworld.com/news/newsDisplay?newsID=1334413
+    publisher: Daijiworld
+    date: 2026-11-04
 open_questions:
   - No charges, custody status or court outcome beyond handover to Medchal Excise Station were reported; investigation was continuing.
   - No value estimate for the seized ganja was published.
@@ -62,16 +66,16 @@ open_questions:
 
 On 4 November 2026, the State Task Force of the Prohibition and Excise
 Department arrested three men near Malib Cockfire Pub at Gundlapochampally in
-Medchal district. [@1,2,3,4,5] The arrested men were identified as Sheikh Mukhtar, aged
-21, Mohammed Ghouseuddin, aged 24, and Buyya Shubham, aged 21. [@1,2,3,4,5] The State
+Medchal district. [@1,2,3,4,5,6] The arrested men were identified as Sheikh Mukhtar, aged
+21, Mohammed Ghouseuddin, aged 24, and Buyya Shubham, aged 21. [@1,2,3,4,5,6] The State
 Task Force, generally shortened to STF, is a unit of the Prohibition and Excise
 Department. [@1] An STF team led by CI Ramesh carried out the raid after
 receiving credible information about the sale of ganja near the pub. [@1,2,3,4,5]
 
 Officers seized three packets containing ganja weighing a total of 3.323 kg.
-[@1,2,4,5] The seizure took place at Gundlapochampally during the targeted raid near
+[@1,2,4,5,6] The seizure took place at Gundlapochampally during the targeted raid near
 the pub. [@1] The team subsequently handed the accused men and the seized ganja
-to Medchal Excise Station for further action, as stated by CI Ramesh. [@1,2,3,4,5]
+to Medchal Excise Station for further action, as stated by CI Ramesh. [@1,2,3,4,5,6]
 
 The Excise Department is investigating the case to establish the source of the
 ganja. [@1] Investigators are also examining whether the arrested men were
