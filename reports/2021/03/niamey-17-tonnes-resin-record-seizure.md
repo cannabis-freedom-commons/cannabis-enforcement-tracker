@@ -36,16 +36,25 @@ sources:
     url: https://globalinitiative.net/analysis/hashish-trafficking-niger/
     archived: https://web.archive.org/web/20260929172803/https://globalinitiative.net/analysis/hashish-trafficking-niger/
     date: 2021-05-11
+  - title: 'Niger: saisie record de 17 tonnes de résine de cannabis à Niamey'
+    url: https://www.rfi.fr/fr/afrique/20210307-niger-saisie-record-de-17-tonnes-de-r%C3%A9sine-de-cannabis-%C3%A0-niamey
+    publisher: RFI
+    date: 2021-03-07
+    language: fr
 open_questions:
   - The identities of the thirteen people arrested and any court outcomes were not reported in the opened sources.
   - A later analysis reported contacts saying part of the haul leaked back to traffickers, which the anti-drug office denied, saying the resin was incinerated on 24 April 2021; the opened sources do not resolve this dispute.
   - No photo confirmed to show this seizure was available on the opened pages, so no media entry was added.
+  - RFI values the haul at 20 billion CFA francs while the existing report records about $37 million; the existing dollar figure is retained and the currency difference is noted.
+  - The only image on the RFI page is captioned as an illustration photo from northern Niger, so no media entry is included.
 ---
 
-Nigerien police seized a record 17 metric tons of cannabis resin from warehouses in the capital Niamey on 2 March 2021. [@1,2] The national anti-drug trafficking agency valued the haul at about $37 million and called it the largest cannabis seizure in Niger's history. [@1,2]
+Nigerien police seized a record 17 metric tons of cannabis resin from warehouses in the capital Niamey on 2 March 2021. [@1,2,4] The national anti-drug trafficking agency valued the haul at about $37 million and called it the largest cannabis seizure in Niger's history. [@1,2]
 
-The resin had originated in Lebanon, the first drug shipment known to have come from there, according to agency spokesman Adili Toro. [@2] It had passed through the Togolese port of Lomé before being trucked north more than 1,000 kilometres and across two border crossings to Niamey. [@2] The traffickers had planned to move it onward in trucks to Libya via the desert town of Agadez, a hub for smuggling goods and migrants across the Sahara. [@2]
+The resin had originated in Lebanon, the first drug shipment known to have come from there, according to agency spokesman Adili Toro. [@2,4] It had passed through the Togolese port of Lomé before being trucked north more than 1,000 kilometres and across two border crossings to Niamey. [@2,4] The traffickers had planned to move it onward in trucks to Libya via the desert town of Agadez, a hub for smuggling goods and migrants across the Sahara. [@2,4]
 
-Police arrested eleven Nigeriens and two Algerians in Niamey and Agadez. [@2] Interpol, which confirmed the bust in May, said the seizure came out of March and April enforcement operations run with customs and police from 41 countries, during which traffickers were moving larger loads to work around COVID-19 travel restrictions. [@1]
+Police arrested eleven Nigeriens and two Algerians in Niamey and Agadez. [@2,4] Interpol, which confirmed the bust in May, said the seizure came out of March and April enforcement operations run with customs and police from 41 countries, during which traffickers were moving larger loads to work around COVID-19 travel restrictions. [@1]
 
 A later analysis reported claims from its contacts that part of the shipment was reacquired by trafficking networks after the seizure, which the anti-drug office denied, saying the resin was incinerated on 24 April 2021 in the presence of the interior and justice ministers. [@3]
+
+The drugs left Beirut in a container carried by an Indian company to the port of Lomé, where they were loaded onto a Beninese-registered truck bound for Niamey. [@4] The drugs were packed in fruit cartons and were to be repackaged in a purpose-built and equipped warehouse in Niamey’s Plateau quarter. [@4]
