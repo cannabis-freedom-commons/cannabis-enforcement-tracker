@@ -72,6 +72,11 @@ sources:
     publisher: 點新聞
     date: 2026-10-30
     language: zh
+  - title: 警方「閃逮」行動瓦解一黑幫販毒集團 拘11男2女檢值3,400萬元毒品
+    url: https://www.bastillepost.com/hongkong/article/17080430-%e8%ad%a6%e6%96%b9%e3%80%8c%e9%96%83%e9%80%ae%e3%80%8d%e8%a1%8c%e5%8b%95%e7%93%a6%e8%a7%a3%e4%b8%80%e9%bb%91%e5%b9%ab%e8%b2%a9%e6%af%92%e9%9b%86%e5%9c%98-%e6%8b%9811%e7%94%b72%e5%a5%b3%e6%aa%a2
+    publisher: 巴士的報
+    date: 2026-10-30
+    language: zh
 open_questions:
   - The 32 kg and HK$34 million figures cover the whole mixed haul of cocaine, methamphetamine, etomidate and cannabis; no separate total weight or value for the cannabis was published.
   - Wen Wei Po dates the operation to 13–26 October, while myTV Super and HK01 report the final raids on 29 October; the report uses 29 October.
@@ -83,9 +88,9 @@ open_questions:
 ---
 
 Hong Kong police ran an anti-drug operation codenamed Flash Arrest (閃逮) from 13
-to 29 October 2026. [@1] They arrested 11 men and two women aged 22 to 73 on
+to 29 October 2026. [@1,5] They arrested 11 men and two women aged 22 to 73 on
 suspicion of trafficking and manufacturing dangerous drugs, operating a drug den
-and taking drugs. [@3,4] Some of the 13 had triad backgrounds, police said. [@3]
+and taking drugs. [@3,4,5] Some of the 13 had triad backgrounds, police said. [@3]
 Two 29-year-old men have each been charged with one count of trafficking in a
 dangerous drug, appearing at Kowloon City Magistrates' Courts on 14 October and
 West Kowloon Magistrates' Courts on 24 October; the other 11 remained in
@@ -93,12 +98,12 @@ custody. [@3]
 
 Officers seized more than 32 kg of suspected drugs, including cocaine, cannabis,
 methamphetamine and etomidate, which police valued at more than HK$34 million.
-[@1,4] The 40 g of cannabis was found on 29 October when officers raided a 'drug
+[@1,4,5] The 40 g of cannabis was found on 29 October when officers raided a 'drug
 canteen' (毒品飯堂), a venue where drugs are sold and used, in Sau Mau Ping and a
 small drug warehouse in Sham Shui Po, along with 100 g of methamphetamine, a
-small amount of heroin and etomidate. [@3,4]
+small amount of heroin and etomidate. [@3,4,5]
 
-Police identified a private flat in Hung Hom as a suspected drug warehouse. [@2]
+Police identified a private flat in Hung Hom as a suspected drug warehouse. [@2,5]
 On 13 October, officers lying in wait there stopped a man entering with a key
 and found more than 400 packets holding 406 g of cocaine, 320 g of Happy powder
 and 50 etomidate vape cartridges. [@2] On 26 October detectives stopped a car in
