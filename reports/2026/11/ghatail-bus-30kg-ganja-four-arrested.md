@@ -30,29 +30,34 @@ sources:
     publisher: Ekhon TV
     date: 2026-11-04
     language: bn
+  - title: টাঙ্গাইলে ৩০ কেজি গাঁজাসহ ৪ মাদক কারবারী গ্রেপ্তার
+    url: https://www.newsg24.com/bangladesh-news/244713/
+    publisher: NewsG24
+    date: 2026-11-04
+    language: bn
 open_questions:
   - The checkpoint took place on Tuesday night and was announced on 4 November 2026; 3 November 2026 is used as the incident date.
   - No value, weight beyond the 30 kg of ganja, or court outcome beyond the case filed at Ghatail Police Station was reported.
   - Only one accessible source for this event was found after searches in Bengali and English.
   - Whether the accompanying seized-drugs photo shows this specific 30 kg seizure could not be established beyond its matching caption.
+  - The submitted page's lead photo is captioned only with the headline and does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Officers of Special Response Battalion-14 arrested four suspected drug traders
-after searching a long-distance passenger bus in Ghatail, Tangail. [@1] The
+after searching a long-distance passenger bus in Ghatail, Tangail. [@1,2] The
 detainees were named as 25-year-old Sakibul Hasan Roni and 30-year-old Md Raihan
 Uddin of Habiganj, 38-year-old Sonia of Narayanganj and 28-year-old Bonna Akter
-of Pirojpur. [@1] An SRB member filed a case against them at Ghatail Police
+of Pirojpur. [@1,2] An SRB member filed a case against them at Ghatail Police
 Station, and officers handed the four over to Ghatail police. [@1]
 
 Officers said they recovered 30 kg of ganja, wrapped in polythene and hidden
-inside three travel bags kept in the bus luggage box. [@1] The bus, the
+inside three travel bags kept in the bus luggage box. [@1,2] The bus, the
 Mymensingh-to-Panchagarh Akanda Express, was stopped at a special checkpoint set
 up in front of the Kadamtali LPG filling station on Tuesday night, when
-suspicious passengers were taken off and searched closely. [@1] Officers also
-seized four mobile phones said to have been used to buy and sell drugs. [@1]
+suspicious passengers were taken off and searched closely. [@1,2] Officers also
+seized four mobile phones said to have been used to buy and sell drugs. [@1,2]
 
 SRB-14 Company 3 commander Md Shamsur Rahman announced the arrests in a press
 release at noon on Wednesday, 4 November. [@1] He said the group had long
 collected illegal ganja from border areas and other parts of the country while
 posing as passengers and supplied it to different regions. [@1]
-
