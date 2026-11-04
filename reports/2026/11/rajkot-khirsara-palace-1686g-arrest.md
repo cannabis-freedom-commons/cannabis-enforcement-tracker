@@ -38,6 +38,11 @@ sources:
     publisher: Sanj Samachar
     date: 2026-11-04
     language: gu
+  - title: મેટોડા GIDCમાં 1.686 કિલો ગાંજા સાથે એક ઝડપાયો:ગાંજો અને મોબાઇલ સહિત ₹89,300નો મુદ્દામાલ જપ્ત; NDPS એક્ટ હેઠળ ગુનો નોંધાયો
+    url: https://www.divyabhaskar.co.in/amp/local/gujarat/rajkot/kotda-sangani/news/rajkot-metoda-gidc-ganja-seizure-anti-narcotics-arrest-139589665.html
+    publisher: Divya Bhaskar
+    date: 2026-11-04
+    language: gu
 open_questions:
   - The articles give no separate date for the patrol; 4 November 2026 is their publication date and is used as the incident date.
   - Police value the ganja at Rs 84,300 within total property of Rs 89,300 including a mobile phone; only the ganja value is recorded as value.
@@ -45,6 +50,8 @@ open_questions:
   - Police were still tracing the intended receiver and the unidentified Surat supplier at publication time.
   - Sanj Samachar rounds the total seizure to Rs 90,000 while the detailed accounts give Rs 89,300; the report uses the detailed figure.
   - 'Left out, as its quotation was not found in Akila News: Police registered a case under the Narcotic Drugs and Psychotropic Substances Act, India''s drug law, at the Metoda GIDC police station.'
+  - The Divya Bhaskar page carries two photos and an embedded video, but their captions and alt text are empty or only say Divya Bhaskar and do not establish that they show this seizure, so no media entry is included.
+  - The full article beyond the first three paragraphs is paywalled, so further case details in the existing report cannot be corroborated from this opened source.
 ---
 
 Rural Anti-Narcotics Wing officers detained Sarfaraz Hussain Pir Muhammad, a
@@ -58,7 +65,7 @@ the railway track in Surat, and they were still investigating where it was to be
 supplied. [@1]
 
 Officers seized 1.686 kg of ganja valued by police at Rs 84,300, plus a mobile
-phone, for total seized property worth Rs 89,300. [@1]
+phone, for total seized property worth Rs 89,300. [@1,3]
 
 Rajkot rural superintendent Vijay Singh Gurjar had ordered action against drug
 sellers and buyers under the Say No To Drugs campaign, and the patrol was led by
@@ -66,3 +73,4 @@ Anti-Narcotics Wing in-charge J. A. Khachar with G. J. Jhala and other
 personnel. [@1] The team was patrolling the Metoda GIDC area in a private Swift
 car when it spotted the suspect. [@2]
 
+The detained Sarfaraz Hussain is 26 years old, works as a labourer, is originally from Ballia district in Uttar Pradesh, and lived in a factory room inside Gate No. 3 of Metoda GIDC. [@3] The Anti-Narcotics Wing and SOG team acted together after human intelligence and technical analysis indicated that Sarfaraz Hussain Peer Mohammed was keeping ganja for sale. [@3]
