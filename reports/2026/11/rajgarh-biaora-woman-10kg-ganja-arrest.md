@@ -32,11 +32,22 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-03
     language: hi
+  - title: महिला गांजा तस्कर को फिर 10 किलो गांजे के साथ पुलिस ने किया गिरफ्तार - biaora News
+    url: https://www.bhaskar.com/local/mp/rajgarh/biaora/news/police-arrested-a-female-marijuana-smuggler-with-10-kg-of-marijuana-dbp-139585804.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - Only one accessible source for this event was found after searching; no second report could be opened.
   - No court outcome was reported; questioning about the ganja source, intended supply and possible accomplices was still under way.
   - The page photo shows the Biaora (Dehat) police-station signboard, not the seizure, so no media entry is included.
   - The Hindusthan Samachar page image is captioned only with the seizure headline and carries no credit establishing that it shows this 10-kg seizure, so no media entry is included.
+  - The headline says the woman was caught 'again' and the visible text breaks off at 'खास बात ये है कि पुलिस', but the paywalled remainder explaining any prior offence could not be opened.
+  - The seized value is given only as approximate, about one-and-a-half lakh rupees.
+  - No direct image address for this seizure was recoverable; the capture lists only the article URL as source_images[].src, so no media entry is included.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The woman is Mamta, wife of Mohan Kushwah, a resident of Indra Colony.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said an informer had tipped them that a woman in Indiranagar Colony was holding ganja.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers went to the spot and caught her outside her house.'
 ---
 
 Dehat Biaora police in Madhya Pradesh's Rajgarh district arrested a woman on
@@ -46,9 +57,9 @@ a resident of Indiranagar Colony. [@1,2] Police said an informer had tipped them
 that a woman in Indiranagar Colony was holding ganja. [@1,2] Officers went to the
 spot and caught her outside her house. [@1]
 
-A search recovered 10 kg of ganja, cannabis, from her possession. [@1,2] Police
-put the estimated value of the seized ganja at 150,000 rupees. [@1,2] Police
-registered a case against her under Section 8/20 of the NDPS Act. [@1,2]
+A search recovered 10 kg of ganja, cannabis, from her possession. [@1,2,3] Police
+put the estimated value of the seized ganja at 150,000 rupees. [@1,2,3] Police
+registered a case against her under Section 8/20 of the NDPS Act. [@1,2,3]
 
 She is being questioned about where she brought the ganja from and to whom it
 was to be supplied, while police are also examining the involvement of others.
