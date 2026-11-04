@@ -30,21 +30,27 @@ sources:
     publisher: La Dépêche du Midi
     date: 2026-11-02
     language: fr
+  - title: 'Trafic de stupéfiants : la soirée d’Halloween se termine en garde à vue'
+    url: https://www.nrpyrenees.fr/2026/11/02/trafic-de-stupefiants-la-soiree-dhalloween-se-termine-en-garde-a-vue-13632738.php
+    publisher: nrpyrenees.fr
+    date: 2026-11-02
+    language: fr
 open_questions:
   - The full article is paywalled, so details beyond the published summary and opening paragraph could not be read.
   - Two young people were seen at the scene, but the accessible text details only the 19-year-old's arrest, leaving the other person's situation unclear.
   - No outcome of the Monday CRPC guilty-plea hearing was given in the accessible text.
   - The 4 grams of cocaine and 170 euros are mentioned only to describe the mixed seizure and are excluded from cannabis figures; no cannabis-only value was published.
   - Only one independent account could be opened; no second independent source for this stop was found.
+  - The nrpyrenees.fr page shares the same article identifier 13632738 as the La Dépêche version already cited, indicating a same-group reprint rather than a fully independent second account.
 ---
 
 Police in Tarbes intercepted a suspected drug transaction on rue Henri-Duparc on
-Saturday 31 October and arrested a 19-year-old young man. [@1] Officers found 4
+Saturday 31 October and arrested a 19-year-old young man. [@1,2] Officers found 4
 grams of cocaine, 17 grams of cannabis and 170 euros on the young man, who
-admitted the facts. [@1] He was placed in garde à vue, the French police-custody
+admitted the facts. [@1,2] He was placed in garde à vue, the French police-custody
 detention, as the Halloween evening ended in custody. [@1] He was to be brought
 on Monday before the prosecutor for a comparution sur reconnaissance préalable
-de culpabilité (CRPC), France's guilty-plea hearing procedure. [@1]
+de culpabilité (CRPC), France's guilty-plea hearing procedure. [@1,2]
 
 The street check happened at about 3:30 p.m., when officers on patrol noticed a
 strange exchange between two young people. [@1] Police observed that the two
@@ -55,4 +61,3 @@ Officers found 17 grams of cannabis, the cannabis component recorded here, along
 with 4 grams of cocaine and 170 euros in cash. [@1] The named place for the
 event is rue Henri-Duparc in Tarbes, where the Saturday Halloween stop took
 place. [@1]
-
