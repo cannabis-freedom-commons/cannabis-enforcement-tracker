@@ -123,6 +123,11 @@ sources:
     publisher: Mediawala
     date: 2026-10-31
     language: hi
+  - title: 'धार में गांजे की अवैध खेती का भंडाफोड़: 8 से 10 खेतों में उगाए जा रहे थे पौधे; 45 क्विंटल गांजा जब्त, 4 आरोपी गिरफ्तार'
+    url: https://www.pradeshprakash.com/article/dhar-men-ganje-ki-avaidh-kheti-ka-bhandaphor
+    publisher: प्रदेश प्रकाश
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -143,10 +148,17 @@ open_questions:
   - The Mediawala page carries a photo whose caption only repeats the headline, so whether it shows this seizure is not established and no media entry is added.
   - The page also mentions a Dehri outpost under Bagh police station action with about Rs 4 crore of ganja seized, without a weight, village or accused to confirm whether it matches the indexed 1,592-plant Dehri Tol seizure valued at Rs 60.90 lakh.
   - The page gives only its 31 October 2026 publication date; the 48-hour operation matches the existing report's dating to the 30-31 October 2026 operation.
+  - This account reports about 45 quintals seized and valued at Rs 15-20 crore, while the existing report uses about 67 quintals and about Rs 25 crore from multiple other accounts.
+  - This account says 8 to 10 fields, while the existing report uses eight farms.
+  - The page gives no calendar publication date, only 3 days ago beside a 4 November 2026 header, so 1 November 2026 is inferred as the source date.
+  - No plant count, field area, accused names, NDPS charges or court outcome are given in this account.
+  - The page carries two images, one captioned only with the headline and one without a caption, so neither is established as a distinct photo of this seizure and no media entry is added.
+  - 'Left out, as its quotation was not found in प्रदेश प्रकाश: The cannabis plants had been hidden among cotton and maize crops so they were not easily visible from outside.'
+  - 'Left out, as its quotation was not found in प्रदेश प्रकाश: Police monitored the fields with drone surveillance and conducted intensive checks after a tip.'
 ---
 
 Four men were arrested after police raided eight cannabis farms in Umarban, in
-the Manawar area of Dhar district, Madhya Pradesh. [@4,11] The accused were Anil
+the Manawar area of Dhar district, Madhya Pradesh. [@4,11,13] The accused were Anil
 Mandloi, Malsingh alias Haresingh Mory, Sakharam Mory and Gulsingh Mandloi, all
 residents of Badiya Patelpura. [@3,6,10,11] Manawar station house officer Rajesh Yadav
 said the four were taken into police custody on the night of Saturday 31
