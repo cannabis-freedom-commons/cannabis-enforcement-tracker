@@ -43,6 +43,11 @@ sources:
     publisher: The Hindi Pioneer
     date: 2026-11-03
     language: hi
+  - title: 'Rishikesh breaking news: ऋषिकेश तपोवन बैरियर पर 1 किलो चरस के साथ युवक गिरफ्तार'
+    url: https://devbhoomidarshan17.com/rishikesh-breaking-news-today-himachal-youth-abhishek-arrested-at-tapovan-barrier-with-1-kg-of-charas-cannabis-resin/
+    publisher: Devbhoomi Darshan
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The video-page text gives only its publication date of 3 November 2026 and no separate day for the checking and arrest, so 3 November 2026 is used as the incident date.
   - The arrested youth was not named and no age, address beyond Himachal Pradesh, FIR number, NDPS sections, or court outcome was published.
@@ -60,9 +65,9 @@ enforcement action carried out on the directions of Senior Superintendent of
 Police Shweta Choube. [@1,4]
 
 Officers seized 1.020 kilograms of illegal charas from the youth during the Muni
-Ki Reti operation. [@1,2,3] Police gave the estimated value of the recovered charas
-as about Rs 2.5 lakh. [@1,2,4] Police also seized the scooty allegedly used to carry
-and smuggle the charas consignment. [@1,2,3] The 1.020-kilogram figure is the police
+Ki Reti operation. [@1,2,3,5] Police gave the estimated value of the recovered charas
+as about Rs 2.5 lakh. [@1,2,4,5] Police also seized the scooty allegedly used to carry
+and smuggle the charas consignment. [@1,2,3,5] The 1.020-kilogram figure is the police
 count for this single Muni Ki Reti seizure involving one arrested youth. [@1]
 
 Police described the operation as part of Tehri police's continuing campaign to
@@ -70,6 +75,6 @@ curb the illegal trade in intoxicants in the district. [@1] The Muni Ki Reti
 locality is the precise place named for the seizure within Tehri police's
 jurisdiction in Uttarakhand. [@1]
 
-The arrest took place at Tapovan barrier. [@2] Munikireti police carried out the operation jointly with an ANTF team. [@2] The arrested youth was identified as Abhishek from Himachal Pradesh. [@2]
+The arrest took place at Tapovan barrier. [@2,5] Munikireti police carried out the operation jointly with an ANTF team. [@2,5] The arrested youth was identified as Abhishek from Himachal Pradesh. [@2]
 
-The arrested youth was identified as 23-year-old Abhishek, son of Purushottam Lal, of village Buddhi in Kullu district, Himachal Pradesh. [@3] Officers stopped scooty number UK14TB0588 at the Tapovan barrier during a joint vehicle check by Muni Ki Reti police and the Anti-Narcotics Task Force. [@4] Police registered a case under sections 8/20/60 of the NDPS Act at Muni Ki Reti police station and said the accused was being produced before the court. [@3] During questioning the accused said he had bought the charas from a Shimla resident named Gulshan. [@3] The joint checking team included Sub-Inspectors Praveen Rawat and Ashish Sharma with head constable Vijay Pratap and constables Pankaj Tomar, Ravindra and Nazakat. [@4]
+The arrested youth was identified as 23-year-old Abhishek, son of Purushottam Lal, of village Buddhi in Kullu district, Himachal Pradesh. [@3,5] Officers stopped scooty number UK14TB0588 at the Tapovan barrier during a joint vehicle check by Muni Ki Reti police and the Anti-Narcotics Task Force. [@4] Police registered a case under sections 8/20/60 of the NDPS Act at Muni Ki Reti police station and said the accused was being produced before the court. [@3] During questioning the accused said he had bought the charas from a Shimla resident named Gulshan. [@3,5] The joint checking team included Sub-Inspectors Praveen Rawat and Ashish Sharma with head constable Vijay Pratap and constables Pankaj Tomar, Ravindra and Nazakat. [@4]
