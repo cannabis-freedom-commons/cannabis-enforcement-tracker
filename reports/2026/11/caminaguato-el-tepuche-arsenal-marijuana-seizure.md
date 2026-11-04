@@ -66,6 +66,11 @@ sources:
     publisher: El Heraldo de San Luis Potosí.
     date: 2026-11-04
     language: es
+  - title: ¿Qué encontraron Marina y SSPC en Sinaloa? Aseguran vehículos, armamento y droga
+    url: https://www.reporteindigo.com/nacional/que-encontraron-marina-y-sspc-en-sinaloa-aseguran-vehiculos-armamento-y-droga-20261104-0032.html
+    publisher: Reporte Indigo
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the bag of marijuana, so no kilograms can be recorded.
   - The 6,182,000-peso figure covers all seized weapons, vehicles and drugs together, not marijuana alone, so no cannabis-only value is recorded.
@@ -75,24 +80,25 @@ open_questions:
   - The Quadratín Tabasco page carries an image credited only to the SSPC with no descriptive caption establishing that it shows these seized vehicles, so no media entry is included.
   - 'Left out, as its quotation was not found in Quadratín México: In El Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and communications equipment.'
   - The submitted page's introductory line gives 339 cartridges while its operation-by-operation breakdown lists 326 plus 1,355 cartridges, matching the existing report's 1,681 total.
+  - The embedded Security Cabinet post rounds the loss to more than 6.1 million pesos while the article text gives the precise 6,182,000-peso figure retained in the existing report.
 ---
 
 Federal authorities seized arsenal, vehicles and drugs in Sinaloa in two
 operations. [@1,3,4,7,8] The operations took place near Caminaguato and El Tepuche,
 Sinaloa, according to the federal Security Cabinet. [@2] Marina personnel,
 through the Mexican Navy, acted in coordination with the federal public-security
-ministry and the Attorney General's Office. [@2,3,5]
+ministry and the Attorney General's Office. [@2,3,5,9]
 
 In Caminaguato, officers found four pickups apparently abandoned and, on close
 inspection, found inside 17 magazines, 326 cartridges of various calibres,
 tactical and communications equipment and a bag of marijuana. [@2,3,5,7,8] In El
 Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long
 guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and
-communications equipment. [@2,3,7] Together the two operations totalled five
+communications equipment. [@2,3,7,9] Together the two operations totalled five
 vehicles, 15 long guns, 30 magazines and 1,681 cartridges of various calibres,
-plus marijuana and tactical and communications equipment. [@2,6]
+plus marijuana and tactical and communications equipment. [@2,6,9]
 
 Everything seized was placed at the disposal of the competent authorities to
-open the corresponding investigation files. [@1,5,7,8] The federal Security Cabinet
+open the corresponding investigation files. [@1,5,7,8,9] The federal Security Cabinet
 said the seizure represented an economic impact of 6,182,000 pesos on criminal
-groups. [@1,6,7,8]
+groups. [@1,6,7,8,9]
