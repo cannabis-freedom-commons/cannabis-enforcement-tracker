@@ -50,12 +50,20 @@ sources:
     publisher: Araguaia 104,5 FM
     date: 2026-11-04
     language: pt
+  - title: Perseguição por estrada rural termina em tiroteio e 29 quilos de maconha apreendidos
+    url: https://www.vipsocial.com.br/noticia/perseguicao-por-estrada-rural-termina-em-tiroteio-e-29-quilos-de-maconha-apreendidos/60571
+    publisher: VipSocial
+    date: 2026-11-04
+    language: pt
 open_questions:
   - TopElegance places the pursuit on Wednesday 4 November while Jornal Razão dates the confrontation to the night of Tuesday 3 November; the report uses 3 November from the more detailed account.
   - The combined figure of about 74 kg mentioned by TopElegance includes the separate 31 October seizure of about 45 kg, which is not counted in this report's cannabis figure.
   - The suspect's name, age, origin and alleged trafficking role come only from Jornal Razão; TopElegance names no suspect.
   - No arrests, charges or court outcome were reported because the suspect died; the forensic examination and station handling had no published result.
   - 'Left out, as its quotation was not found in Jornal Razão: A Military Police operation targeted Raniele Volski de Oliveira, aged 37 and from Campo Mourão, described as the alleged drug-trafficking chief in Major Gercino.'
+  - VipSocial dates the pursuit and seizure to the early hours of Wednesday 4 November, while the existing report uses the night of Tuesday 3 November from a more detailed account.
+  - VipSocial does not name the dead suspect, so his name, age and origin continue to rest only on the earlier Jornal Razão account.
+  - The VipSocial page credits its photographs only to the Military Police without a descriptive caption, so they cannot be established as distinct event photographs beyond the police handout already listed.
 ---
 
 Tactical officers of the 31st Battalion and the Tijucas intelligence agency went
@@ -63,23 +71,25 @@ to Major Gercino after a report that he would receive a new drug shipment. [@2]
 When officers moved in, the driver sped away at high speed through the town
 centre toward Angelina. [@2,3] The confrontation was recorded on the night of
 Tuesday 3 November on Rua Geral Coqueiros in the Garcia neighbourhood of
-Angelina. [@2] He got out of the car carrying a black pistol and ran toward
-woodland, then shot at the officers. [@2,3] Officers returned fire and he fell
-into a ditch beside the rural road. [@2] Rescue was called but he died at the
+Angelina. [@2,4] He got out of the car carrying a black pistol and ran toward
+woodland, then shot at the officers. [@2,3,4] Officers returned fire and he fell
+into a ditch beside the rural road. [@2,4] Rescue was called but he died at the
 scene, after medical teams could not reach the difficult-access spot in time.
-[@2,3] No police officer was injured. [@2]
+[@2,3,4] No police officer was injured. [@2]
 
-Beside him officers recovered a loaded Taurus G2C pistol in 9 mm calibre. [@2]
+Beside him officers recovered a loaded Taurus G2C pistol in 9 mm calibre. [@2,4]
 In the black Ford EcoSport he was driving, police found about 29 kg of cannabis.
-[@2,3] The cannabis was in two styrofoam boxes packed the same way as those in a
-seizure made on 31 October. [@2,3] His shot struck the front bumper of the patrol
-car and punctured its front tyre. [@2,3]
+[@2,3,4] The cannabis was in two styrofoam boxes packed the same way as those in a
+seizure made on 31 October. [@2,3,4] His shot struck the front bumper of the patrol
+car and punctured its front tyre. [@2,3,4]
 
 The operation followed intelligence about a new drug consignment sent in
-styrofoam boxes through merchandise delivery services. [@1,3] Police linked the
+styrofoam boxes through merchandise delivery services. [@1,3,4] Police linked the
 load to the 31 October case, when about 45 kg of cannabis with a strong smell
 was found in styrofoam boxes in a parcel load allegedly sold and sent through
-Shopee orders. [@2] He was known locally for trafficking and had prior records
+Shopee orders. [@2,4] He was known locally for trafficking and had prior records
 for drug trafficking, illegal weapon possession and carrying, gunfire and
-robbery. [@2] Forensic officers attended the road and the vehicle was taken to
-the police station. [@2]
+robbery. [@2,4] Forensic officers attended the road and the vehicle was taken to
+the police station. [@2,4]
+
+The pursuit that began in Major Gercino and ended in Angelina took place on the SC-108. [@4] Military police completed administrative records, including on the shots fired. [@4]
