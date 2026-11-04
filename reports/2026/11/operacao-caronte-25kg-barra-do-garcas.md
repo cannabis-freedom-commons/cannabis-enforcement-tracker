@@ -29,6 +29,11 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-04
     language: pt
+  - title: PF deflagra operação contra quadrilha flagrada com maconha em Barra do Garças
+    url: https://www.reportermt.com/policia/pf-deflagra-operacao-contra-quadrilha-flagrada-com-maconha-em-barra-do-garcas/246109
+    publisher: RepórterMT
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The sources describe three preventive arrest warrants as being executed but give no names and no confirmed completions, so three is recorded as the targeted arrest figure.
   - The exact cities or addresses in Amazonas and Ceará where warrants are being executed were not named.
@@ -38,26 +43,28 @@ open_questions:
   - 'The submitted page carries a photo captioned only as Foto: PF from an April 2026 upload, which does not establish that it shows Operation Caronte, and the Federal Police page image has no caption establishing what it shows, so no media entry is included.'
   - No charges, custody decisions or court outcomes beyond the court-ordered warrants were reported, and the investigation was described as continuing.
   - 'Left out, as its quotation was not found in Polícia Federal: The Federal Police presents the case from Barra do Garças in Mato Grosso, where the underlying investigation began.'
+  - The RepórterMT account places Barra do Garças 520 km from Cuiabá, while the existing report describes it as 516 km from Cuiabá.
 ---
 
 Brazil's Federal Police, the Polícia Federal, launched Operation Caronte on 4
 November 2026 to investigate a group suspected of transporting drugs between
-states. [@1] Acting on court orders, officers are executing three preventive
+states. [@1,3] Acting on court orders, officers are executing three preventive
 arrest warrants, which order detention before trial, and five search-and-seizure
-warrants in the states of Amazonas and Ceará. [@1]
+warrants in the states of Amazonas and Ceará. [@1,3]
 
 That investigation started in July 2023 after officers seized about 25 kg of
 maconha, the Portuguese word for cannabis or marijuana, in Barra do Garças, a
-town described as 516 km from Cuiabá. [@1] Investigators say the evidence points
+town described as 516 km from Cuiabá. [@1,3] Investigators say the evidence points
 to an organised structure for coordinating, financing, handling logistics for
-and carrying out drug transport between different Brazilian states. [@2]
+and carrying out drug transport between different Brazilian states. [@2,3]
 According to the Federal Police account, the group coordinated and financed drug
 movements while organising logistics and executing the transport trips. [@1]
 
 Investigators also identified financial movements deemed suspicious among people
-linked to the facts under investigation. [@2] They are examining whether that
+linked to the facts under investigation. [@2,3] They are examining whether that
 money came from drug trafficking and the interstate transport activity. [@1] The
 stated aim of Operation Caronte is to dismantle the suspected criminal
 organisation investigated for interstate drug transport and for handling funds
 supposedly from that illicit activity. [@2]
 
+The operation seeks to gather new evidence, identify the involvement of those under investigation and deepen the inquiry into the organisation's financial structure. [@3]
