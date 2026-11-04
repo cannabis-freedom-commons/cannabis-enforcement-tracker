@@ -27,6 +27,9 @@ open_questions:
   - A September report of the prosecution's request described a 646 kg operation; the judgment reports, opened here, give 636 kg seized.
   - The 95.4 billion won figure is Newsis's retail estimate, based on a 0.5 gram dose that Yonhap also uses to reach about 1.27 million doses.
   - Yonhap's page image is a 2024 photograph of the court building, not the cannabis, and is not listed as media.
+  - The Chosun account says some cannabis was distributed domestically, while the existing report notes the cannabis was seized before it was sold and no profit was made.
+  - The Chosun account names the defendant as Kim and calls him a Kudokai member, while the existing report identifies him only as A, a Korean resident of Japan and former yakuza member.
+  - The Chosun account describes the co-conspirators only as Vietnamese drug-selling organization members and does not place them in Ho Chi Minh City as the existing report does.
 sources:
   - title: "'127만명 분' 대마 밀수한 야쿠자 징역 10년…역대 최대 규모"
     url: https://www.yna.co.kr/view/AKR20261008136700061?section=society%2Fall
@@ -45,6 +48,10 @@ sources:
     url: https://www.yna.co.kr/view/AKR20260929174000061
     date: 2026-09-29
     language: ko
+  - title: Yakuza Member Sentenced to 10 Years for 636kg Marijuana Smuggling
+    url: https://www.chosun.com/english/national-en/2026/10/08/H7Z477QAZNBHNFCN275HPONLKI/
+    publisher: The Chosun Daily
+    date: 2026-10-08
 media:
   - kind: photo
     url: https://www.newsis.com/view/NISX20261008_0003819304
@@ -56,23 +63,25 @@ media:
 
 The 13th criminal division of the Suwon District Court, Judge Jang Seok-jun presiding, sentenced a
 man in his fifties to 10 years on 8 October 2026 for breaking the narcotics law, and ordered the
-seized drugs forfeited. [@1] Newsis names him as A, 53, a Korean resident of Japan and a former
-yakuza member. [@2] Prosecutors had asked for 20 years at the hearing on 29 September, which Yonhap reported at the time as a request rather than a verdict. [@1,3]
+seized drugs forfeited. [@1,4] Newsis names him as A, 53, a Korean resident of Japan and a former
+yakuza member. [@2] Prosecutors had asked for 20 years at the hearing on 29 September, which Yonhap reported at the time as a request rather than a verdict. [@1,3,4]
 
 He was convicted of shipping 636 kilograms of cannabis in a container from Laem Chabang port in
-Thailand in early March and bringing it into Incheon port on 23 March. [@1] He had conspired with
+Thailand in early March and bringing it into Incheon port on 23 March. [@1,4] He had conspired with
 a drug-selling group based in Ho Chi Minh City. [@1] Part of the load was meant for sale in South
-Korea and the rest for a yakuza group in Japan. [@1] Yonhap said that, at a usual dose of 0.5
+Korea and the rest for a yakuza group in Japan. [@1,4] Yonhap said that, at a usual dose of 0.5
 grams, the seizure would supply about 1.27 million people, and called it the largest narcotics
-import intended for the domestic market. [@1] Newsis put the retail value at about 95.4 billion
-won. [@2]
+import intended for the domestic market. [@1,4] Newsis put the retail value at about 95.4 billion
+won. [@2,4]
 
 The defence asked the court to dismiss the case, saying the National Intelligence Service and
 prosecutors had used a convicted drug offender as an informant to induce the crime. [@1] The court
-rejected that. [@1] It said there was no evidence the agencies had steered him into smuggling, and
-that he had dealt directly with the Vietnamese group. [@2] It treated as aggravating a previous
+rejected that. [@1,4] It said there was no evidence the agencies had steered him into smuggling, and
+that he had dealt directly with the Vietnamese group. [@2,4] It treated as aggravating a previous
 six-year sentence for methamphetamine smuggling, and a larger repeat offence after his release.
 [@1] Newsis says that earlier case was 956 grams of methamphetamine, valued at 3.1 billion won,
-imported from China in 2016 for re-export to Japan. [@2] The court gave him credit for admitting
+imported from China in 2016 for re-export to Japan. [@2,4] The court gave him credit for admitting
 the facts, helping the investigation, and not having led the whole import, and noted the cannabis
 was seized before it was sold and that no profit was made. [@1]
+
+The cannabis was packaged in 610 bags. [@4] The Chosun account names the defendant as Kim, 53, and identifies his group as the Kudokai. [@4] The earlier 2016 case also involved a pistol and 19 live rounds imported from Japan. [@4]
