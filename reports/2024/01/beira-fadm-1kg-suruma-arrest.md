@@ -40,6 +40,16 @@ sources:
     publisher: Rádio Pax
     date: 2024-01-26
     language: pt
+  - title: 'Arquivo de #Detidos membros das FADM por consumo de suruma# - Rádio Moçambique'
+    url: https://www.rm.co.mz/tag/detidos-membros-das-fadm-por-consumo-de-suruma/
+    publisher: Rádio Moçambique
+    language: pt
+    archived: https://web.archive.org/web/20251017135527id_/https://www.rm.co.mz/tag/detidos-membros-das-fadm-por-consumo-de-suruma/
+  - title: Detidos dois oficiais das FDS indiciados de venda e consumo de soruma
+    url: https://opais.co.mz/detidos-dois-oficiais-das-fds-indiciados-de-venda-e-consumo-de-soruma/
+    publisher: O País
+    date: 2024-01-25
+    language: pt
 open_questions:
   - The incident date of 17 January 2024 is the detention date reported by Rádio Pax and Zumbo FM; 25 January 2024 is the presentation and publication date in Rádio Moçambique.
   - Zumbo FM opens by placing the detention in Dondo district while its own detail and the other sources place the seizure and detention in Beira and Manga; the report uses Beira.
@@ -47,22 +57,23 @@ open_questions:
   - No charges, custody ruling or court outcome were reported beyond awaiting legal steps toward trial.
   - The 5,000 meticais is reported as the amount spent to acquire the drug, not an official street valuation, so no value is recorded.
   - The Rádio Moçambique page includes an image file named Membros-da-FADM.jpg with empty alt text and no caption, plus advertising banners, which does not establish what it shows, so no media entry is included.
+  - O País reports five kilograms of cannabis sativa allegedly bought for 5,000 meticais, while the existing report records one kilogram from Rádio Moçambique and other outlets, so no weight change is proposed.
 ---
 
 SERNIC officers in Sofala detained two members of Mozambique's Armed Defence
 Forces (FADM) accused of selling and consuming suruma, the local name for
-cannabis sativa. [@1] Jornal Notícias identified them as 32-year-old A. António
+cannabis sativa. [@1,5] Jornal Notícias identified them as 32-year-old A. António
 and 29-year-old B. Belém. [@2] SERNIC said the two are soldiers assigned to the
-Dondo barracks. [@1] They had been detained on 17 January in the city of Beira.
+Dondo barracks. [@1,6] They had been detained on 17 January in the city of Beira.
 [@4] They were in SERNIC custody awaiting legal steps toward their trial. [@1]
 They refused to speak to the press and have neither confirmed nor denied the
 allegations. [@1]
 
 Officers caught them with one kilogram of cannabis sativa, known as suruma, in
-Beira after it had been prepared, with Dondo as its intended destination. [@1]
+Beira after it had been prepared, with Dondo as its intended destination. [@1,5]
 Jornal Notícias placed the seizure in the Manga zone of Beira. [@2] SERNIC said
 they intended to carry the drug to Dondo and police had no doubt it was meant
-for sale. [@2] SERNIC described it as Swazi-origin cannabis already prepared for
+for sale. [@2,6] SERNIC described it as Swazi-origin cannabis already prepared for
 sale, bought for 5,000 meticais. [@2] The two told officers they had just bought
 it from an unknown person in Manga. [@2] They had travelled from Dondo to Beira
 in a black Toyota Fielder with registration ABM-635 MP to acquire the cannabis.
@@ -70,5 +81,4 @@ in a black Toyota Fielder with registration ABM-635 MP to acquire the cannabis.
 
 SERNIC spokesman in Sofala Alfeu Sitoe announced the case and called involvement
 by security-force members in drugs condemnable. [@2] SERNIC said work was under
-way to locate the alleged supplier, who was not detained with them. [@4]
-
+way to locate the alleged supplier, who was not detained with them. [@4,6]
