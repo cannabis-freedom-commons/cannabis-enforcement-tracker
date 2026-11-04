@@ -24,6 +24,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: सब्जी दुकान से गांजा, किराना स्टोर से स्मैक का कारोबार! सारण पुलिस ने तीन तस्करों को दबोचा
+    url: https://sanjeevanisamachar.com/saran-police-arrested-three-accused-ganja-smack-seized-mufassil-chhapra/
+    publisher: Sanjeevani Samachar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The cannabis is described as ganja-like substance, with no laboratory confirmation reported.
   - The 13.82 grams of smack-like substance is mentioned only to explain the mixed seizure and is excluded from cannabis figures.
@@ -34,25 +39,24 @@ open_questions:
 
 Saran police arrested three accused in the Mufassil police station area of
 Chhapra as part of the Nasha Mukt Saran campaign. [@1] The operation involved
-raids at two separate shops in the Mufassil area. [@1] Those arrested were one
+raids at two separate shops in the Mufassil area. [@1,2] Those arrested were one
 vegetable seller and two grocery sellers. [@1] Police identified the vegetable
 seller as Abhishek Kumar Singh, son of Ajab Narayan Singh of Sadha Nevaji Tola
 in the Mufassil area. [@1]
 
 On 2 November police received a tip that ganja was being bought and sold at a
-vegetable shop in front of the Bazaar Samiti gate and raided the shop. [@1]
-Abhishek Kumar Singh was arrested in that raid. [@1] A search in the presence of
+vegetable shop in front of the Bazaar Samiti gate and raided the shop. [@1,2]
+Abhishek Kumar Singh was arrested in that raid. [@1,2] A search in the presence of
 the Sadar revenue officer recovered 84.02 grams of ganja-like substance, ganja
-being the local name for cannabis, from him. [@1] The same day police received a
+being the local name for cannabis, from him. [@1,2] The same day police received a
 second tip that smack was being bought and sold at Dada Kirana General Store
 near the Dudhiya bridge and raided that shop. [@1] Yuvraj Sharma and Raushan
-Sharma, sons of late Krishna Sharma of Sadha, were arrested there. [@1]
+Sharma, sons of late Krishna Sharma of Sadha, were arrested there. [@1,2]
 
 The search of that grocery shop recovered 13.82 grams of smack-like substance
-and one weighing scale. [@1] Mufassil police station case number 804/26 dated 2
+and one weighing scale. [@1,2] Mufassil police station case number 804/26 dated 2
 November 2026 was registered under NDPS Act sections 8/20(b)(ii)(A), 8(C) and
-21(B) and lawful action against the three was under way. [@1] The drive was
+21(B) and lawful action against the three was under way. [@1,2] The drive was
 carried out on the directions of Senior Superintendent of Police Roshan Kumar
 against illegal narcotics and dry intoxicants, and police said the campaign
 against traders would continue. [@1]
-
