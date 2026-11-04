@@ -96,6 +96,11 @@ sources:
     publisher: detikNews
     date: 2026-11-03
     language: id
+  - title: 'Detik-Detik Penangkapan Pengedar Ganja 44,1 Kg di Tol Jagorawi: Sempat Lolos Dua Kali, Akhirnya Ditangkap Juga - galeri foto'
+    url: https://www.tvonenews.com/gallery-foto/berita/nasional/476423-detik-detik-penangkapan-pengedar-ganja-441-kg-di-tol-jagorawi-sempat-lolos-dua-kali-akhirnya-ditangkap-juga
+    publisher: tvOneNews.com
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -124,6 +129,8 @@ open_questions:
   - The page's featured image is captioned only with the article subject and is not established to show the seized cannabis, so no media entry is added
   - The Kompas.tv featured image is credited to ANTARA/HO-Ditresnarkoba Polda Metro Jaya but captioned only with the article title, so it is not established to show the seized 44.1 kg cannabis and no media entry is added.
   - This page rounds avoided rehabilitation spending to Rp2.64 trillion while the existing report keeps Rp2.648 trillion from another outlet, so the saving figure continues to rely on earlier sources for its precise value.
+  - The gallery page gives only its title and a one-sentence caption and states no seizure date, rest-area detail, suspect identity, or court outcome, so the event date and place continue to rely on earlier sources.
+  - The gallery image is captioned only with the article title and is not established to show the seized 44.1 kg cannabis, so no media entry is added.
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -144,7 +151,7 @@ media:
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
 rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15] Police said they had followed him overland all the
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5]
 
