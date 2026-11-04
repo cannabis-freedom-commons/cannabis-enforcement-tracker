@@ -33,6 +33,11 @@ sources:
     publisher: اوان مصر
     date: 2026-11-04
     language: ar
+  - title: المشدد 6 سنوات لـ 4 متهمين بالاتجار في الشابو والحشيش بسوهاج
+    url: https://www.iqraa.news/193539/%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-6-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D9%80-4-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84/
+    publisher: إقرأ نيوز
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight was published for the hashish portion, so no cannabis quantity is recorded and the shabu and methamphetamine are excluded from cannabis figures.
   - The article gives no separate date for the sentence hearing; 4 November 2026 is its publication date and is used as the incident date.
@@ -45,17 +50,17 @@ open_questions:
 ---
 
 The Sohag Criminal Court sentenced four defendants to six years of rigorous
-imprisonment for drug trafficking in Al-Balina markaz in Sohag Governorate. [@1,2]
-The court fined each of the four defendants 100,000 Egyptian pounds. [@1,2] The
+imprisonment for drug trafficking in Al-Balina markaz in Sohag Governorate. [@1,2,3]
+The court fined each of the four defendants 100,000 Egyptian pounds. [@1,2,3] The
 trafficking conviction covered shabu, methamphetamine essence and hashish, with
-hashish as the cannabis component recorded here. [@1,2]
+hashish as the cannabis component recorded here. [@1,2,3]
 
 The case dates to 2026, when investigations by detectives at the Balina station
 indicated that the four men were trading and promoting drugs in the district.
 [@1,2] The men were identified only by the initials M. F., described as a worker,
 A. A., M. A. and A. M. [@1] After legal procedures were completed and further
 checks confirmed information received from a secret source, security forces
-arrested the defendants with a quantity of drugs prepared for sale. [@1,2]
+arrested the defendants with a quantity of drugs prepared for sale. [@1,2,3]
 
 When confronted, the defendants admitted that they possessed the drugs for the
 purpose of trafficking. [@1,2] Authorities then completed the required legal
