@@ -34,6 +34,11 @@ sources:
     publisher: Zoom 24
     date: 2026-11-02
     language: it
+  - title: 'Blitz antidroga della Polizia a Lamezia Terme: sequestrati oltre 1,3 chili tra hashish, cocaina e marijuana'
+    url: https://calabria7.news/giudiziaria/blitz-antidroga-della-polizia-a-lamezia-terme-sequestrati-oltre-13-chili-tra-hashish-cocaina-e-marijuana/
+    publisher: Calabria 7
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 1.3 kg total mixes hashish, cocaine and marijuana with no per-substance breakdown, so no cannabis weight is recorded and the combined total is not counted as cannabis.
   - The reports do not name the three arrested people or state their ages, charges or custody status.
@@ -46,15 +51,15 @@ open_questions:
 
 Officers of the Flying Squad of the Lamezia Terme police station arrested three
 people in via Isonzo, Lamezia Terme, on the afternoon of 31 October 2026 after a
-chase and follow-up home searches. [@1,3] Police held the three responsible on
+chase and follow-up home searches. [@1,3,4] Police held the three responsible on
 various grounds. [@1] A police-union account described those arrested as several
 non-EU citizens and the site as a street dealing spot dismantled by the
 operation. [@1]
 
 Officers seized more than 1.3 kilograms of drugs made up of hashish, cocaine and
-marijuana, together with a precision scale and 5,625 euros in cash. [@1,3] The
+marijuana, together with a precision scale and 5,625 euros in cash. [@1,3,4] The
 published accounts give only the combined weight for all three substances and no
-separate weight for the hashish and marijuana. [@2]
+separate weight for the hashish and marijuana. [@2,4]
 
 The FSP Polizia, COISP and SAP police unions publicly praised the Flying Squad
 officers, crediting territorial control, patrol presence and investigative work.
