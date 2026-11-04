@@ -26,6 +26,11 @@ sources:
     publisher: Polizei Duisburg
     date: 2026-11-03
     language: de
+  - title: Dealer (28) handelte in der Innenstadt mit Schmerzmitteln und Haschisch
+    url: https://www.waz.de/lokales/duisburg/article413574323/dealer-28-handelte-in-der-innenstadt-mit-schmerzmitteln-und-haschisch.html
+    publisher: Westdeutsche Allgemeine Zeitung
+    date: 2026-11-03
+    language: de
 open_questions:
   - No weight was published for the hashish, the medications or the painkillers, and no cash amount was given, so no cannabis quantity or value can be recorded.
   - Police described the street cash only as a larger amount and the flat painkillers only as a not-insignificant amount.
@@ -35,19 +40,22 @@ open_questions:
   - The submitted page carries only a stock placeholder image credited to Adobe Stock, so no event photo can be listed.
   - 31 October 2026 at about 00:30 is the street-check time; no separate date was given for the flat search, which was published on 3 November 2026.
   - 'Left out, as its quotation was not found in Polizei Duisburg: Duisburg police published this account on 3 November 2026, describing the Königstraße check and the Alleestraße search as one operation.'
+  - Only the WAZ teaser could be read because the article body is paywalled, so this account adds no hashish weight, medication amount or cash total.
+  - WAZ writes that police 'hochgenommen' the dealer, while the existing report records only a check with no reported arrest or detention.
+  - The WAZ image shows the night-time Königstraße street scene, not the seizure itself, so no media entry is included.
+  - The WAZ excerpt gives no independent check time; 31 October 2026 at about 00:30 comes from the earlier police account.
 ---
 
 In the night to Saturday 31 October 2026 at about 00:30, Duisburg officers
-checked a 28-year-old man on Königstraße in the Altstadt. [@1] During the check
+checked a 28-year-old man on Königstraße in the Altstadt. [@1,3] During the check
 they seized a larger amount of cash, two mobile phones and a pharmacy bag
-holding assorted medications and hashish. [@2] The hashish is the cannabis
+holding assorted medications and hashish. [@2,3] The hashish is the cannabis
 component recorded in this report, while police gave no weight for it or for the
 medications. [@1] At the request of the Duisburg public prosecutor's office,
 officers then searched the man's apartment on Alleestraße. [@2]
 
 In the apartment they found a not-insignificant amount of painkillers and
-additional cash, which they also seized. [@1] Officers reported no cannabis find
+additional cash, which they also seized. [@1,3] Officers reported no cannabis find
 in the apartment and published no cash total, phone details or cannabis-only
 street value. [@2] The 28-year-old now faces criminal proceedings on suspicion
 of dealing in narcotics in a not-insignificant amount. [@1]
-
