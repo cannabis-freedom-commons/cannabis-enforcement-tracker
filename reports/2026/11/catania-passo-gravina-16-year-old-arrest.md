@@ -66,23 +66,31 @@ sources:
     publisher: NewSicilia
     date: 2026-11-03
     language: it
+  - title: Catania, la Polizia di Stato arresta 16enne trovato con della marijuana
+    url: https://etnanews24.it/catania-la-polizia-di-stato-arresta-16enne-trovato-con-della-marijuana/
+    publisher: Etna News 24
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the evening stop and arrest, so 3 November 2026 is used as the incident date.
   - The reports do not say whether the woman driving the car was identified or investigated.
+  - This account gives no time of day for the stop, so the evening timing in the existing report remains supported only by the earlier sources.
+  - This account describes the evasion attempt as timid rather than brief, so the report's wording on that detail remains based on the earlier accounts.
+  - The page's featured drug photo carries no caption or credit establishing that it shows this seizure, and a police-handout photo is already recorded, so no additional media entry is included.
 ---
 
 State Police arrested a 16-year-old boy found with marijuana in Via Passo
-Gravina in Catania. [@1,3,4,5,8] An off-duty officer from the Librino commissariat
-noticed the boy in the evening while passing through the area. [@1,3,6,7,8] The boy,
+Gravina in Catania. [@1,3,4,5,8,9] An off-duty officer from the Librino commissariat
+noticed the boy in the evening while passing through the area. [@1,3,6,7,8,9] The boy,
 dressed in black, was standing beside a small car with its engine running and
-driven by a woman, which made the officer suspicious. [@1,6,7,8] The boy then climbed
-over the gate of a house while the car drove away. [@1,6,7,8]
+driven by a woman, which made the officer suspicious. [@1,6,7,8,9] The boy then climbed
+over the gate of a house while the car drove away. [@1,6,7,8,9]
 
 The officer identified himself and called for help from a Flying Squad patrol.
-[@1,3,7,8] Despite a brief attempt to evade the check, the boy was stopped and found
-with five small bags of marijuana weighing 40 grams in total. [@1,3,4,5,6,7,8] He was
-arrested for possession of narcotics for the purpose of dealing. [@1,6,7,8]
+[@1,3,7,8,9] Despite a brief attempt to evade the check, the boy was stopped and found
+with five small bags of marijuana weighing 40 grams in total. [@1,3,4,5,6,7,8,9] He was
+arrested for possession of narcotics for the purpose of dealing. [@1,6,7,8,9]
 
 On the order of the public prosecutor at the Catania Juvenile Court, he was
-taken to the First Reception Centre. [@2,3,4,5,6,7,8] The second account states that the
+taken to the First Reception Centre. [@2,3,4,5,6,7,8,9] The second account states that the
 presumption of innocence applies until a final conviction. [@2]
