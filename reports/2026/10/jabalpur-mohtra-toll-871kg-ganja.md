@@ -301,6 +301,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-01
     language: hi
+  - title: जबलपुर में कंटेनर से 4.35 करोड़ का 871 किलो गांजा जब्त, यूपी और बंगाल के दो आरोपी गिरफ्तार
+    url: https://www.lokmatnews.in/india/jabalpur-police-seize-over-871-kg-of-cannabis-worth-rs-435-crore-from-container-two-arrested-a001-w03/
+    publisher: Lokmat News Hindi
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -385,6 +390,8 @@ open_questions:
   - This account dates the interception to after midnight on Friday and was published on 1 November 2026, while the existing report records around 2 am on 31 October 2026.
   - This account attributes the Jhansi-Lalitpur-Mathura-Aligarh-Maihar supply route to Dharamveer's questioning rather than directly to police.
   - The submitted page lists two images captioned only with the headline and with Vikram, smuggler and no credit, which could not be confirmed to show this seizure, so no media entry was added.
+  - This account gives the weight as 871.95 kg while the existing report records 871 kg 95 g (871.095 kg).
+  - This account spells the toll as मोहतरा टोल and the second accused's surname as करमाकर while the existing report uses Mohtra toll plaza and Karmakar.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -396,7 +403,7 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38,41,42,43]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31,39,40] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40,41] The container had a
 Nagaland registration number, police said. [@2]
@@ -404,14 +411,14 @@ Nagaland registration number, police said. [@2]
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1,32,38,41,42] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40,41,42] The driver and the other man tried to flee but were caught, police
-said. [@2,10,12,19,27,31,33,39,40,41,42] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
+plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40,41,42,45] The driver and the other man tried to flee but were caught, police
+said. [@2,10,12,19,27,31,33,39,40,41,42,45] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39,40,42] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39,40,42,45] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
-resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28,35,36,38,41] The consignment was to be unloaded near a
+resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28,35,36,38,41,45] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30,36,41] The 28 sacks were loaded
 into the container at Sahu's location on 27 October. [@1,9,11,25,27,35,38,41] Singh said he was
 promised ₹1 lakh for the trip. [@1,10,27,41] The accused told police they had earlier
