@@ -39,6 +39,11 @@ sources:
     publisher: Free Press Online
     date: 2026-11-04
     language: it
+  - title: 'Caltagirone, maxi sequestro di droga: oltre 4,8 chili tra marijuana, hashish e cocaina'
+    url: https://www.vrsicilia.it/caltagirone-maxi-sequestro-di-droga-oltre-48-chili-tra-marijuana-hashish-e-cocaina/
+    publisher: Video Regione
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the search and arrest; 4 November 2026 is the publication date and is used as the incident date.
   - 'Cannabis weights are reported as approximate: about 200 grams of hashish, more than 4.6 kilograms of marijuana, and about 134 grams of marijuana.'
@@ -53,18 +58,18 @@ open_questions:
 
 Caltagirone State Police officers arrested a previously convicted man and
 reported a second person on suspicion of possessing large quantities of drugs
-for dealing. [@1,3,4] The arrested man was already subject to a residence obligation
+for dealing. [@1,3,4,5] The arrested man was already subject to a residence obligation
 and a requirement to report to the judicial police when officers watching the
 street noticed him showing signs of intolerance toward the check. [@1,3] After
 validation, the preliminary investigations judge at the Caltagirone court
-confirmed the arrest and ordered pretrial custody in prison. [@1,3,4] In the same
+confirmed the arrest and ordered pretrial custody in prison. [@1,3,4,5] In the same
 operation officers reported a second person found holding about 134 grams of
-marijuana. [@1,3,4]
+marijuana. [@1,3,4,5]
 
 With the support of the drug-dog unit, officers searched the home and garages
-available to the arrested man. [@1,3,4] In his garage they found two blocks of
+available to the arrested man. [@1,3,4,5] In his garage they found two blocks of
 hashish weighing about 200 grams, six transparent bags holding more than 4.6
-kilograms of marijuana, and several precision scales. [@1,3,4] Officers also seized
+kilograms of marijuana, and several precision scales. [@1,3,4,5] Officers also seized
 about 50 grams of cocaine alongside the cannabis in the same garage. [@2,3,4]
 
 The arrest was made as directed by the Caltagirone Public Prosecutor's Office,
