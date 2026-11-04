@@ -30,6 +30,11 @@ sources:
     publisher: Ivanovonews
     date: 2026-10-30
     language: ru
+  - title: Жителя Ивановского района осудили на 3,5 года за выращивание конопли
+    url: https://news1ivanovo.ru/obschestvo/zhitelya-ivanovskogo-raiona-osudili-na-35-goda-za-viraschivanie-konopli
+    publisher: News1Ivanovo
+    date: 2026-10-30
+    language: ru
 open_questions:
   - Neither report gives the weight of the marijuana, the number of plants or the size of the growing room.
   - The reports do not give the date of the sentencing hearing; 30 October 2026 is the publication date of both articles.
@@ -37,22 +42,22 @@ open_questions:
   - One report describes the earlier conviction as attempted sale of prohibited substances, the other as attempted sale in a large amount; the report says only that it was attempted drug dealing.
   - Both reports describe him growing the plants at home, but neither says whether he was charged with cultivation; only the Part 2 Article 228 conviction is named.
   - Neither page published a photograph of the defendant, the plants or the grow room; one used a stock courtroom image and the other an AI-generated illustration.
+  - The News1Ivanovo page carries an image captioned only with the article title and credited to max.ru/id3728015463_gos/, which does not establish that it shows this grow, seizure or court, so no media entry is included.
 ---
 
 The Ivanovsky District Court in Ivanovo Oblast sentenced a local man to three
-years and six months in a strict-regime colony. [@1] He was convicted of
-illegally acquiring and storing drugs in a large amount. [@1] The man, a
+years and six months in a strict-regime colony. [@1,3] He was convicted of
+illegally acquiring and storing drugs in a large amount. [@1,3] The man, a
 resident of Ivanovsky District, had bought cannabis seeds and fitted out a room
-in his own house to grow the plants. [@2] He grew them, made marijuana and kept
-the drug and parts of the plants for personal use, without intent to sell. [@2]
-He was taken into custody in the courtroom. [@2]
+in his own house to grow the plants. [@2,3] He grew them, made marijuana and kept
+the drug and parts of the plants for personal use, without intent to sell. [@2,3]
+He was taken into custody in the courtroom. [@2,3]
 
-He had previously been convicted of attempted drug dealing. [@1] Despite his
+He had previously been convicted of attempted drug dealing. [@1,3] Despite his
 guilty plea, remorse and cooperation with the investigation, the court treated
 his dangerous recidivism, a repeat-offender category, as an aggravating
-circumstance. [@2] The verdict has not yet entered into force. [@1]
+circumstance. [@2,3] The verdict has not yet entered into force. [@1,3]
 
-He was convicted under Part 2 of Article 228 of the Russian Criminal Code. [@1]
+He was convicted under Part 2 of Article 228 of the Russian Criminal Code. [@1,3]
 The joint press service of Ivanovo Oblast's courts of general jurisdiction
 reported the sentence. [@1]
-
