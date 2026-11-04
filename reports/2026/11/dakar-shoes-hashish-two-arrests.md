@@ -39,6 +39,11 @@ sources:
     publisher: Dakaractu
     date: 2026-11-04
     language: fr
+  - title: 'Casablanca-Dakar : Une forte odeur de haschisch dans des chaussures alerte une GP sénégalaise et déclenche une enquête'
+    url: https://senego.com/casablanca-dakar-une-forte-odeur-de-haschisch-dans-des-chaussures-alerte-une-gp-senegalaise-et-declenche-une-enquete_2020373.html
+    publisher: Senego
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No weight for the hashish was published, only counts of eight pellets, 32 balls and one additional ball, so no kilogram figure can be recorded.
   - The two packs of Alprazolam are a non-cannabis substance and are excluded from cannabis figures.
@@ -50,23 +55,23 @@ open_questions:
 
 Two people were arrested in Dakar in an operation by Ocrtis, the anti-drug
 office, against a suspected hashish-trafficking network between Casablanca and
-Dakar. [@1] The first person arrested was M. M. Mbacké, aged 25, who described
-himself as a livestock breeder living at HLM 5. [@1] A second outlet fully names
+Dakar. [@1,4] The first person arrested was M. M. Mbacké, aged 25, who described
+himself as a livestock breeder living at HLM 5. [@1,4] A second outlet fully names
 him as Mouhamadou Mourtalla Mbacké and dates his interception to 1 November.
 [@2] The second person arrested was R. Kane, aged 28, who described herself as a
-sales agent and was detained at Soprim Extension. [@1] A second outlet fully
+sales agent and was detained at Soprim Extension. [@1,4] A second outlet fully
 names her as Rokhaya Kane and says she was intercepted the same day. [@2]
 Questioned about the seized goods, Kane acknowledged acting as an intermediary
 and gave investigators the identity of the consignment's final recipient, who
-was still being actively sought. [@1,3]
+was still being actively sought. [@1,3,4]
 
 Officers found eight pellets of hashish, made up of 32 balls, carefully hidden
-in the soles of shoes carried in a parcel. [@1] A search of Mbacké's home
+in the soles of shoes carried in a parcel. [@1,4] A search of Mbacké's home
 recovered one more ball of hashish along with two started packs of Alprazolam,
-which is not counted as cannabis. [@1]
+which is not counted as cannabis. [@1,4]
 
 On 31 October a Senegalese GP, a parcel courier shuttling between the two
 cities, alerted police after noticing a strong suspect smell coming from shoes
-inside a parcel. [@1] The drugs were first handed to the Moroccan police. [@1,3]
+inside a parcel. [@1,4] The drugs were first handed to the Moroccan police. [@1,3,4]
 Ocrtis then set up a controlled delivery with the goods substituted in order to
-identify the people involved in the circuit. [@1,3]
+identify the people involved in the circuit. [@1,3,4]
