@@ -85,6 +85,11 @@ sources:
     publisher: Real.gr
     date: 2026-11-04
     language: el
+  - title: Συνέλαβαν 16χρονό την ώρα που παραλάμβανε δέμα με 2 κιλά κάνναβης στη Θεσσαλονίκη, βρέθηκε και δεύτερο πακέτο με 5 κιλά ναρκωτικών
+    url: https://lamianow.gr/synelavan-16chrono-tin-ora-pou-paralamvane-dema-me-2-kila-kannavis-sti-thessaloniki-vrethike-kai-deftero-paketo-me-5-kila-narkotikon/
+    publisher: LamiaNow
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -104,24 +109,26 @@ open_questions:
   - The page top image is labelled as an archive photo of parcel distribution credited to Claudio Schwarz/Unsplash, so it does not depict this seizure and no media entry is added.
   - A second embedded image file named narkotika-16xronos.jpeg carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - The page lists one image captioned only with the headline and with no credit, so it is not established to show this seizure and no media entry is added.
+  - This account rounds the seizures to 2 kilograms and 5.4 kilograms, while the existing report retains the precise police weights of 2,080 grams, 5,410 grams and 7,490 grams.
+  - The page carries a photo captioned as the Thessaloniki seizure, but its distinctness from the police handout already cited was not established, so no media entry is added.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
 mailed parcel containing cannabis. [@1,3,5,6,9,12] He is accused of violating drugs and
 foreigners legislation. [@1,3,8] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6,7,8,9,12]
+[@2,4,5,6,7,8,9,12,13] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5,6,7,8,9,12,13]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12] In total officers seized 7 kilograms and 490 grams of
+addressed to the boy. [@1,3,6,7,8,9,11,12,13] In total officers seized 7 kilograms and 490 grams of
 hydroponic cannabis. [@1,3,5,8,9,10,11,12] They also seized two mobile phones. [@1,5,9,10,11,12]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1] Police in Thessaloniki made the arrest on Tuesday, 3
-November 2026. [@2,3,6,7,10]
+November 2026. [@2,3,6,7,10,13]
 
 The controlled-delivery parcel came from the United States. [@11] The arrested boy is Albanian. [@11] The boy's father is also in prison for drug trafficking. [@11]
