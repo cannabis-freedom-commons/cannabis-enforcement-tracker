@@ -179,6 +179,11 @@ sources:
     publisher: Harian SIB
     date: 2026-11-02
     language: id
+  - title: 'POLRESTA DELI SERDANG GEMPUR SARANG NARKOBA: 57 TERSANGKA DICIDUK, 47 KILOGRAM SABU DAN GANJA DISITA!'
+    url: https://pewarta.co/news/sumut/polresta-deli-serdang-gempur-sarang-narkoba-57-tersangka-diciduk-47-kilogram-sabu-dan-ganja-disita
+    publisher: Pewarta.co
+    date: 2026-11-03
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -225,6 +230,8 @@ open_questions:
   - The new account does not state the 30-case total recorded in the existing report, only the 57-suspect total.
   - The new account's 2 November 2026 date is the DPRD meeting and publication date, not a new enforcement date; the existing report keeps 30 October 2026.
   - The page's only image shows the police chief and council leaders posing together, not the drugs or arrests, so no media entry is included.
+  - This account does not mention the 30-case total, the 42 ecstasy pills or the cannabis value recorded in the existing report.
+  - 3 November 2026 is this account's publication date; the existing report dates the results presentation to 30 October 2026, and this article gives no separate operation date.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
@@ -236,13 +243,13 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4,18]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17,18,19,20] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17,18,19,20,22] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3,18]
 
 The results were presented at Deli Serdang police headquarters on Friday 30
 October 2026 by police chief Kombes Pol Muhammad, with the head of the Deli
-Serdang narcotics agency (BNNK) beside him. [@1,4,7,15,18] Representatives of the Deli
+Serdang narcotics agency (BNNK) beside him. [@1,4,7,15,18,22] Representatives of the Deli
 Serdang regent, the Lubuk Pakam district court and prosecutor's office, and
 airport security attended. [@1,4] The police chief said the operation was part of
 the national police chief's programme to suppress drug trafficking and restore
