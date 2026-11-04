@@ -57,6 +57,11 @@ sources:
     publisher: Observer Iraq
     date: 2026-11-02
     language: ar
+  - title: العراق يضبط 9 أطنان من المخدرات خارج حدوده بالتعاون مع 7 دول
+    url: https://www.lebanon24.com/news/world-news/1590251/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B6%D8%A8%D8%B7-9-%D8%A3%D8%B7%D9%86%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D8%A8%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-7-%D8%AF%D9%88%D9%84
+    publisher: Lebanon24
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The country where the 20 kg of marijuana was seized was not named, and no separate date for that seizure was given; 2 November 2026 is the publication date of both reports.
   - The period over which the seven-country operations and the about-nine-ton total were accumulated was not given.
@@ -76,21 +81,21 @@ open_questions:
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
 general, Lt. Gen. Ahmed Salih al-Zarkani, told the Iraqi News Agency that Iraqi
 intelligence supported joint anti-drug operations with agencies in seven Arab
-and regional states. [@1,3,8] He named those states as Kuwait, Iran, Syria, Lebanon,
+and regional states. [@1,3,8,9] He named those states as Kuwait, Iran, Syria, Lebanon,
 Saudi Arabia, Egypt and Libya, saying precise Iraqi intelligence helped track
-international smuggling networks and seize large quantities of drugs. [@1,3,4,5,6,7,8] An
+international smuggling networks and seize large quantities of drugs. [@1,3,4,5,6,7,8,9] An
 English account describes the same announcement as Iraqi intelligence leading to
 the seizure of about 9 metric tons of drugs in joint operations in seven
 countries, from Kuwait and Iran to Libya. [@2]
 
 Zarkani put the total seized outside Iraqi territory at about nine tons,
 comprising Captagon, crystal meth and hashish, without giving the period over
-which the operations occurred. [@1,3,4,6] He said the latest operation was carried out
+which the operations occurred. [@1,3,4,6,9] He said the latest operation was carried out
 in Libya on entirely Iraqi intelligence surveillance and seized 1,200,000 pills
-belonging to a criminal network operating from Chad. [@1,3,5,7,8] Separately, he said
+belonging to a criminal network operating from Chad. [@1,3,5,7,8,9] Separately, he said
 recent operations included 20 kilograms of marijuana seized in one neighbouring
 country after the directorate sent specialist teams to coordinate with the local
-authorities and carry out the necessary security measures. [@1,3,4,6,7,8] The English
+authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9] The English
 account confirms the 20 kilograms of marijuana seized in a neighboring country
 after specialized teams were sent, noting that Zarkani did not name the country.
 [@2]
