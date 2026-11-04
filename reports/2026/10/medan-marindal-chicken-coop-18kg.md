@@ -156,6 +156,11 @@ sources:
     publisher: Medan Pos Online
     date: 2026-10-30
     language: id
+  - title: Gerebek Kandang Ayam, Polrestabes Medan Sita 18 Kg Ganja Asal Aceh
+    url: https://www.radarmedan.com/gerebek-kandang-ayam-polrestabes-medan-sita-18-kg-ganja-asal-aceh
+    publisher: Radar Medan
+    date: 2026-10-30
+    language: id
 open_questions:
   - No court date or formal charge was reported; the two arrested men are described as suspects.
   - No estimate of the cannabis's street value was published.
@@ -172,23 +177,24 @@ open_questions:
   - Viral24's photo caption places both arrests in the fast-food restaurant car park, while its article text and the existing report say DS was arrested on Jalan Brigjen Katamso.
   - Like the existing sources, this account reports 2 ons plus 1 kg plus 17 kg while headlining the total as 18 kg, repeating the roughly 18.2 kg arithmetic discrepancy already recorded in the existing report.
   - The page displays a photo of the police cannabis display with the two detainees, but it cannot be established to be distinct from the police-handout photos already listed in the existing report, so no media entry is added.
+  - The page displays a seizure photo captioned with the case, but it cannot be established to be distinct from the police-handout photos already listed in the existing report, so no media entry is added.
 ---
 
 Narcotics detectives at Medan city police raided a warehouse disguised as a
-chicken coop in Deli Serdang on the night of Wednesday 28 October 2026. [@1,10,13,20,21,22] The
-coop stood in Desa Marindal I, Patumbak, Deli Serdang. [@3,5,6,8,10,11,12,15,16,17,18,19,20,21,22] Police arrested two
-close friends and seized 18 kg of dried cannabis. [@1,5,6,7,8,10,13,15,18,20,21,22] Police identified the two
+chicken coop in Deli Serdang on the night of Wednesday 28 October 2026. [@1,10,13,20,21,22,23] The
+coop stood in Desa Marindal I, Patumbak, Deli Serdang. [@3,5,6,8,10,11,12,15,16,17,18,19,20,21,22,23] Police arrested two
+close friends and seized 18 kg of dried cannabis. [@1,5,6,7,8,10,13,15,18,20,21,22,23] Police identified the two
 as MF, 28, of Jalan Cinta Karya in Medan Polonia, and DS, 19, of Jalan Bajak V
 in Medan. [@3,12,15,22] MF was caught in the parking area of a fast-food restaurant on
-Jalan AH Nasution in Medan with 2 ons, or 200 grams, of dried cannabis. [@1,9,10,12,13,15,18,19,20,21,22] DS
-was caught on Jalan Brigjen Katamso with 1 kg of cannabis. [@1,5,9,10,11,13,16,17,18,19,20,21,22] Officers found
-another 17 kg of dried cannabis in a safety box inside the coop. [@3,5,6,8,9,10,11,12,13,15,16,17,18,19,20,21,22]
+Jalan AH Nasution in Medan with 2 ons, or 200 grams, of dried cannabis. [@1,9,10,12,13,15,18,19,20,21,22,23] DS
+was caught on Jalan Brigjen Katamso with 1 kg of cannabis. [@1,5,9,10,11,13,16,17,18,19,20,21,22,23] Officers found
+another 17 kg of dried cannabis in a safety box inside the coop. [@3,5,6,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23]
 
 The coop was remote and far from houses. [@2,7,8,9,11,13,15,17] Police said the building did not
-look suspicious from outside because it resembled an ordinary house. [@2,5,6,8,11,12,14,15,17,21] Police
+look suspicious from outside because it resembled an ordinary house. [@2,5,6,8,11,12,14,15,17,21,23] Police
 said the cannabis came from Aceh and the operation had run for about three
 months, supplying Medan and the surrounding area. [@2,6,7,8,9,10,11,21,22] Police named a third man,
-FS, as the suspected controller of MF and DS. [@1,5,6,7,8,9,10,11,12,13,15,17,18,21,22] FS was placed on a wanted
+FS, as the suspected controller of MF and DS. [@1,5,6,7,8,9,10,11,12,13,15,17,18,21,22,23] FS was placed on a wanted
 list and was being hunted, police said. [@1,15,18] The two detained men face more than
 five years in prison over the trafficking allegation, Metro TV reported. [@4,7]
 
@@ -196,7 +202,7 @@ Police put the total cannabis seized in the case at about 18.2 kg. [@5,16] Polic
 
 After MF's arrest, officers developed the case and then arrested DS, the narcotics chief said. [@9,10,11,16] Rafli said the 200 grams found on MF was about to be distributed when officers stopped him. [@9,11] After questioning, DS directed officers to the chicken coop in Desa Marindal, Patumbak. [@9]
 
-Police said MF and DS had been friends since childhood. [@11,14,17,21,22]
+Police said MF and DS had been friends since childhood. [@11,14,17,21,22,23]
 
 AKBP Rafli Yusuf Nugraha, head of the Medan city police narcotics investigation unit, briefed reporters on Friday 30 October 2026. [@16]
 
