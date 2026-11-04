@@ -78,6 +78,11 @@ sources:
     publisher: Sardiniapost.it
     date: 2026-11-02
     language: it
+  - title: 'Droga nel Cagliaritano, raffica di arresti della Polizia: sequestrati oltre 15 chili di stupefacenti'
+    url: https://www.ajonoas.it/droga-nel-cagliaritano-raffica-di-arresti-della-polizia-sequestrati-oltre-15-chili-di-stupefacenti/
+    publisher: Ajònoas
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 16-kg total covers hashish, marijuana and cocaine together, so the report uses only the separately stated cannabis items totalling about 15.49 kg and excludes 55 grams and 9 grams of cocaine.
   - All weights and the 35,000-euro proceeds figure are police estimates described as about, more than or over, so the cannabis total is approximate.
@@ -101,26 +106,32 @@ open_questions:
   - The page's only listed image is a January 2026 polizia-roma photo captioned with the headline and does not show this event, so no media entry is listed.
   - The Sardiniapost page image has empty alt text, caption and credit, so whether it shows this seizure could not be established and no media entry is added.
   - The submitted page describes the Quartucciu seizure only as over one and a half kilos of mixed hashish, marijuana and cocaine, so the precise split continues to rely on earlier sources already cited in the existing report.
+  - The submitted page gives only a combined figure of more than one and a half kilos of mixed hashish, marijuana and cocaine for Quartucciu, so the precise split in the existing report continues to rely on earlier sources.
+  - The submitted page names no ages for the two Monserrato suspects, so their ages continue to rely on earlier sources.
+  - The submitted page gives no separate date for the Elmas stop, so the 9 October date continues to rely on earlier sources.
+  - The submitted page describes the Stampace stash as hidden in a fridge in a cellar, while the existing report says garage, and says 450 euros while the report says more than 450 euros.
+  - The headline total of more than 15 kilos covers hashish, marijuana and cocaine together, so only separately stated cannabis items can be counted as cannabis.
+  - No photo of this event could be established from the page; its listed image is a 2022 file and related-post images show other events, so no media entry is listed.
 ---
 
 Cagliari mobile police arrested seven people for drug dealing in October
 operations spanning Elmas, Cagliari, Monserrato, Quartu Sant'Elena and
-Quartucciu. [@1,2,3,4,8,9,10,11] On 9 October investigators arrested a 19-year-old from Elmas
-carrying about 70 grams of cannabis. [@1,2,4,9] On 15 October officers stopped a
+Quartucciu. [@1,2,3,4,8,9,10,11,12] On 9 October investigators arrested a 19-year-old from Elmas
+carrying about 70 grams of cannabis. [@1,2,4,9,12] On 15 October officers stopped a
 25-year-old in a Stampace garage, seizing 88 cannabis blocks weighing more than
-6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3,5,6,7,11] On 16
+6.2 kg and more than 450 euros in cash, and the man is now in prison. [@1,2,3,5,6,7,11,12] On 16
 October in Monserrato officers arrested an 18-year-old and a 25-year-old and
 seized about 7.1 kg of hashish and 300 grams of marijuana in multiple packages.
-[@1,2,3,4,8,10,11] One package bore the mark La Famille Frero Sardegna, also found on a small
+[@1,2,3,4,8,10,11,12] One package bore the mark La Famille Frero Sardegna, also found on a small
 knife, which investigators see as a possible distinctive illicit-market brand
-for retail and supply to other dealers. [@1,8,9]
+for retail and supply to other dealers. [@1,8,9,12]
 
 On 27 October police arrested a young man in Quartu Sant'Elena after finding
 more than 320 grams of hashish and marijuana under his bed together with 6,000
 euros in cash. [@1,11] On 8 October police stopped a 44-year-old from Villaputzu
 with 55 grams of cocaine hidden in his car, and on 22 October arrested a
 50-year-old in Quartucciu where about 1.4 kg of hashish, 100 grams of marijuana
-and 9 grams of cocaine were stored in a refrigerator, freezer and wardrobe. [@1]
+and 9 grams of cocaine were stored in a refrigerator, freezer and wardrobe. [@1,12]
 
 The Cagliari sweep was the local part of an Interior Ministry operation against
 youth crime, focused by police on drug trafficking, identifying foreigners who
