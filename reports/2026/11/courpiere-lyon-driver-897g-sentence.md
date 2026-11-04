@@ -43,6 +43,11 @@ sources:
     publisher: Lyon Capitale
     date: 2026-11-01
     language: fr
+  - title: Près d’un kilo de cannabis et 156 grammes de cocaïne saisis lors d'un contrôle routier à Courpière
+    url: https://www.lamontagne.fr/courpiere-63120/faits-divers/pres-dun-kilo-de-cannabis-et-156-grammes-de-cocaine-saisis-apres-un-controle-routier-a-courpiere_15072708/
+    publisher: La Montagne
+    date: 2026-11-01
+    language: fr
 open_questions:
   - Only one source for this event was opened and read.
   - The 0.897 kg cannabis figure adds the separately stated 102 g of herb and 795 g of resin; the 156 g of cocaine was excluded from cannabis figures.
@@ -53,23 +58,26 @@ open_questions:
   - The new account reports only the presence of stupéfiants in the driver's organism without naming the substances detected by the roadside test.
   - The new account states the five-year ban as interdit de se rendre dans le département without naming the department in that sentence.
   - The new page's lead image uses a December 2023 police-car file labelled police Lyon and is not established to show this Courpière seizure, so no media entry is added.
+  - The page's only credited picture is labelled as an illustration photo and does not show this seizure, so no media entry is included.
 ---
 
 On Friday evening around 9 p.m., gendarmes from the Lezoux-Courpière brigade
-stopped a motorist travelling alone in his vehicle at Courpière. [@1,3] The
-37-year-old driver tested positive for cannabis and cocaine. [@1] Held in
+stopped a motorist travelling alone in his vehicle at Courpière. [@1,3,4] The
+37-year-old driver tested positive for cannabis and cocaine. [@1,4] Held in
 custody, he admitted the facts and said he had left Lyon to supply drugs to the
-Puy-de-Dôme and Allier departments. [@1,2,3] He was already known to justice for
-similar cases. [@1,2,3] On the morning of Sunday 1 November he was brought before
+Puy-de-Dôme and Allier departments. [@1,2,3,4] He was already known to justice for
+similar cases. [@1,2,3,4] On the morning of Sunday 1 November he was brought before
 the Clermont-Ferrand prosecutor's office and sentenced to one year of
-convertible imprisonment. [@1] The court also banned him from appearing in
-Puy-de-Dôme for five years. [@1,2,3]
+convertible imprisonment. [@1,4] The court also banned him from appearing in
+Puy-de-Dôme for five years. [@1,2,3,4]
 
 Officers searched the car after noticing a strong smell of cannabis coming from
-it. [@1,3] The search found 102 grams of cannabis herb, 795 grams of resin and 156
-grams of cocaine. [@1,2,3] In total more than one kilo of drugs was seized, of which
+it. [@1,3,4] The search found 102 grams of cannabis herb, 795 grams of resin and 156
+grams of cocaine. [@1,2,3,4] In total more than one kilo of drugs was seized, of which
 about 897 grams was cannabis. [@1]
 
 The seizure began as a routine road check at Courpière in Puy-de-Dôme on Friday
 30 October. [@1] The driver said he had come from Lyon to deliver drugs in
 Auvergne. [@1,3]
+
+His mobile phone was confiscated. [@4]
