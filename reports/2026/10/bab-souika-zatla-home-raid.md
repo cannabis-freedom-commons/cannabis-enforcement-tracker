@@ -24,28 +24,33 @@ sources:
     publisher: Hakaekonline
     date: 2026-10-29
     language: ar
+  - title: 'عملية أمنية نوعية: فرقة الشرطة العدلية بباب سويقة تطيح بعنصر خطير وتحجز كميات من المخدرات'
+    url: https://www.babnet.net/rttdetail-338675.asp
+    publisher: Babnet
+    date: 2026-10-29
+    language: ar
 open_questions:
   - No weight, package count or value for the cannabis was published.
   - The page gives no separate date for the raid; 29 October 2026 is the publication date.
   - The seven-year prison term is a prior judgment, not a sentence imposed for this seizure, and no new court outcome is reported.
   - Only one source could be opened; searches did not turn up another account of this home raid.
   - The page image is a generic stock photo of handcuffed hands, not a picture of this raid, so it was left out.
+  - The Babnet page image carries no caption or credit establishing it shows this raid, so no media entry is included.
 ---
 
 National security units of the judicial police brigade in Bab Souika raided a
 home on a street called Nahj al-Lagha al-Hafsiya in the Tunisian capital after
-intelligence work tracking people wanted in public-law cases. [@1] The raid
+intelligence work tracking people wanted in public-law cases. [@1,2] The raid
 ended with the arrest of one man whom police called a dangerous figure of high
-security interest. [@1]
+security interest. [@1,2]
 
 A court had already sentenced him to seven years in prison with immediate
 effect, and police said he was also wanted in other cases under several search
-notices issued for different security units and judicial bodies. [@1]
+notices issued for different security units and judicial bodies. [@1,2]
 
 With the public prosecutor, officers searched the home and seized quantities of
 cannabis, called Indian hemp and known locally as zatla, which they said had
-been prepared for sale. [@1] After consulting the public prosecutor at the Court
+been prepared for sale. [@1,2] After consulting the public prosecutor at the Court
 of First Instance in Tunis, the prosecutor ordered the suspect held in custody
 while the investigation continued, to identify the other people and networks
-linked to the activity. [@1]
-
+linked to the activity. [@1,2]
