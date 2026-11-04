@@ -42,6 +42,11 @@ sources:
     publisher: France-Antilles
     date: 2026-10-05
     language: fr
+  - title: '69 kilos de cannabis saisis sur une yole : deux hommes condamnés'
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/69-kilos-de-cannabis-saisis-sur-une-yole-deux-hommes-condamnes-1095272.php
+    publisher: France-Antilles Martinique
+    date: 2026-10-06
+    language: fr
 open_questions:
   - The court accounts report 65 kilos of cannabis herb aboard the yole while the gendarmerie operational account reports 69 kilos plus the yole and 500 litres of fuel; the report records 65 kilos as the court figure.
   - The interception is dated to the night of 29 September in the court accounts and to the night of 28 to 29 September in the gendarmerie account.
@@ -51,6 +56,8 @@ open_questions:
   - The tribunal building photo and the RCI illustration image do not show this seizure and are not listed as media.
   - 'Left out, as its quotation was not found in RCI: Both men were sentenced to 24 months of firm imprisonment with a committal warrant.'
   - 'Left out, as its quotation was not found in RCI: They were prosecuted for transport, possession, acquisition and importation of narcotics.'
+  - The accessible capture ends mid-sentence after "dans le cadre de la mission...", so sentencing details, exact interception point and the defendants' identities in this 6 October account are not visible.
+  - The accessible portion does not name Sainte-Luce, so the place match rests on the distinctive combination of date, Marin brigade, Yemaya crew caption, 69 kg herb load, yole and 500 litres of fuel.
 ---
 
 Two Saint Lucian nationals aged 36 and 55 were judged on 2 October in immediate
@@ -63,7 +70,7 @@ ban. [@1]
 The men had been intercepted at night on 29 September less than two kilometres
 off Sainte-Luce aboard a yole carrying 65 kilos of cannabis herb. [@1] Around 1
 a.m. the Marin naval brigade was patrolling at sea under the Scotopelia coastal
-defence mission. [@3] The Yemaya crew, reinforced by Annecy mobile gendarmes,
+defence mission. [@3,4] The Yemaya crew, reinforced by Annecy mobile gendarmes,
 detected the suspect boat and started searching with a projector. [@3] During
 the pursuit the yole's occupants threw part of the load overboard. [@3] Refusing
 control, the pilot repeatedly steered toward the gendarmerie launch, causing
@@ -72,7 +79,6 @@ recovered several bales floating at the surface that proved to be cannabis herb.
 [@3]
 
 The gendarmerie put the operation's haul at 69 kilos of cannabis herb plus the
-yole and 500 litres of fuel. [@3] The Fort-de-France prosecutor assigned the
+yole and 500 litres of fuel. [@3,4] The Fort-de-France prosecutor assigned the
 investigation to the Marin research brigade. [@3] The seized property and
 equipment were confiscated. [@3]
-
