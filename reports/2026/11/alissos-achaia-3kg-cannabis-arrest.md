@@ -70,6 +70,11 @@ sources:
     publisher: agrinio24.gr
     date: 2026-11-03
     language: el
+  - title: Mε τέσσερα όπλα και κιλά κάνναβης συνελήφθη άνδρας στην Αχαΐα
+    url: https://www.ioannina24.gr/%CE%B5%CE%B9%CE%B4%CE%B7%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%B1%CE%B4%CE%B1-%CE%BA%CE%BF%CF%83%CE%BC%CE%BF%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7-%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82/1651294-m%CE%B5-%CF%84%CE%AD%CF%83%CF%83%CE%B5%CF%81%CE%B1-%CF%8C%CF%80%CE%BB%CE%B1-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B9%CE%BB%CE%AC-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7%CF%82-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CE%AC%CE%BD%CE%B4%CF%81%CE%B1%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%B1%CF%87%CE%B1%CE%90%CE%B1
+    publisher: ioannina24.gr
+    date: 2026-11-03
+    language: el
 open_questions:
   - The cannabis total differs between the police announcement's 3 kilos and 117 grams and Aigiovoice's approximate three kilos plus 311 grams; the report records the police figure.
   - The suspect was identified only as a Greek man born in 1983, with no full name published.
@@ -89,15 +94,18 @@ open_questions:
   - The CNN page's listed seizure image carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - This account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
   - The page's listed image is captioned only as Screenshot_23 with no credit establishing it shows this seizure, so no media entry is included.
+  - The ioannina24 account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
+  - The ioannina24 account gives no exact cannabis weight, only kilos in its headline; the 3.117 kg figure is retained from the police announcement in earlier sources.
+  - The ioannina24 page's listed image carries no caption or credit establishing it shows this seizure, so no media entry is added.
 ---
 
 On the morning of 3 November 2026, officers of the Western Achaia Department for
 the Prosecution and Investigation of Crimes acted on tip information in Alissos
-in Western Achaia. [@1] Officers carried out a house search at a home in the
+in Western Achaia. [@1,10] Officers carried out a house search at a home in the
 area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9] Officers
 arrested a Greek man born in 1983 in connection with the case. [@1] Police filed
 a case against him for drug trafficking and possession and for breach of weapons
-law. [@2,3,4,5,6,7,8,9] He was to be taken to the Achaia first-instance prosecutor, while the
+law. [@2,3,4,5,6,7,8,9,10] He was to be taken to the Achaia first-instance prosecutor, while the
 same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9]
 
 According to the police announcement, officers seized 3 kilos and 117 grams of
