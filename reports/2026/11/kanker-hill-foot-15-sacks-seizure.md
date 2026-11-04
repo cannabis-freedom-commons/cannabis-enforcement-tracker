@@ -16,6 +16,21 @@ media:
     media_url: https://media.assettype.com/navbharatlive%2F2026-11-04%2Fv7nv8lmi%2Fkanker-police-seized.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Navbharat Live
     caption: Seized ganja sacks recovered by Kanker police at the foot of the hill.
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/kanker-police-action-on-drugs-smugglers-cannabis-seized-in-sigarbhat-garhiya-hill-cts26110407347
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-11-2026/1200-675-28038980-thumbnail-16x9-kanker-ganja-smugglers.jpg
+    publisher: ETV Bharat
+    caption: 'Cannabis trafficking in Kanker. Photo: ETV Bharat'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/kanker-police-action-on-drugs-smugglers-cannabis-seized-in-sigarbhat-garhiya-hill-cts26110407347
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-11-2026/cg-knr-03-ganja-av-cg10054_04112026190025_0411f_1793799025_12.jpg
+    publisher: ETV Bharat
+    caption: 'Kanker police seizing the ganja. Photo: ETV Bharat'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/kanker-police-action-on-drugs-smugglers-cannabis-seized-in-sigarbhat-garhiya-hill-cts26110407347
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-11-2026/cg-knr-03-ganja-av-cg10054_04112026190025_0411f_1793799025_24.jpg
+    publisher: ETV Bharat
+    caption: 'Large consignment of ganja recovered in Kanker. Photo: ETV Bharat'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f4a28e11aa3f0760df62099da8fbb838
@@ -41,6 +56,11 @@ sources:
     publisher: CGKhabar
     date: 2026-11-04
     language: hi
+  - title: नशे के खिलाफ कांकेर पुलिस की बड़ी कार्रवाई, 70 पैकेट गांजा बरामद
+    url: https://www.etvbharat.com/hi/state/kanker-police-action-on-drugs-smugglers-cannabis-seized-in-sigarbhat-garhiya-hill-cts26110407347
+    publisher: ETV Bharat
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -53,6 +73,8 @@ open_questions:
   - The page's combined figure of about Rs 4.88 crore spans the Kanker and Keshkal recoveries and is not recorded as this event's value.
   - The page image is captioned only as police line and does not establish that it shows this seizure, so no media entry is included.
   - The source values the haul only vaguely in crores of rupees in the international market and gives no exact figure.
+  - The ETV account says police recovered the packets on an informer's tip, while the existing account records local people alerting police; it is unclear whether these refer to the same tip.
+  - The ETV account says two suspect vehicles and a car driver have been identified but publishes no registration numbers or names, so they remain unnamed.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -61,7 +83,7 @@ November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
-avoid action or arrest. [@1,2,3,4]
+avoid action or arrest. [@1,2,3,4,5]
 
 The case falls under the Kotwali police station area. [@1,3,4] Police put the value
 of the seized ganja in lakhs of rupees. [@1] Senior officers and a Kotwali
@@ -73,6 +95,8 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5]
 
-The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4]
+The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5]
+
+Keshkal police were chasing the smugglers when Kanker police set up its cordon. [@5]
