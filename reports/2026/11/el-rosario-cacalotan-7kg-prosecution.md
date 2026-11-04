@@ -25,6 +25,11 @@ sources:
     publisher: Noroeste
     date: 2026-11-03
     language: es
+  - title: De la brecha de Cacalotán, Rosario al penal de Mazatlán, Sinaloa; vinculan a proceso a hombre detenido con fusil y marihuana
+    url: https://losnoticieristas.com/policiaca/2026/11/de-la-brecha-de-cacalotan-rosario-al-penal-de-mazatlan-sinaloa-vinculan-a-proceso-a-hombre-detenido-con-fusil-y-marihuana-1160545/
+    publisher: Los Noticieristas
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article gives no separate date for the detention or prosecution ruling, so 3 November 2026, the publication date, is used as the incident date.
   - Only the initials José “N” were published, with no age or further identity given.
@@ -34,20 +39,19 @@ open_questions:
 ---
 
 A control judge ordered José “N” to face prosecution and imposed automatic
-pretrial detention. [@1] He remains in the El Castillo prison in Mazatlán while
-the criminal case continues. [@1] Officers of the federal Secretariat of
+pretrial detention. [@1,2] He remains in the El Castillo prison in Mazatlán while
+the criminal case continues. [@1,2] Officers of the federal Secretariat of
 Security and Citizen Protection detained him while he was travelling on a dirt
-road at the edge of Cacalotán, in El Rosario. [@1] Officers said they saw him
+road at the edge of Cacalotán, in El Rosario. [@1,2] Officers said they saw him
 carrying a firearm and detained him after he tried to escape when he noticed
-them. [@1]
+them. [@1,2]
 
 He was charged with firearm possession and possession of cartridges and
-magazines reserved for the exclusive use of the armed forces. [@1] He was also
+magazines reserved for the exclusive use of the armed forces. [@1,2] He was also
 charged with a health offence of marijuana possession for commerce in the form
-of sale. [@1] Officers seized a rifle, 130 cartridges, five magazines and seven
-kilos 708 grams of marijuana during the stop. [@1] They also seized a
-communication radio, a holster and a tactical vest with ballistic plates. [@1]
+of sale. [@1,2] Officers seized a rifle, 130 cartridges, five magazines and seven
+kilos 708 grams of marijuana during the stop. [@1,2] They also seized a
+communication radio, a holster and a tactical vest with ballistic plates. [@1,2]
 
 The Federal Attorney General's Office reported the prosecution decision from
 Culiacán. [@1]
-
