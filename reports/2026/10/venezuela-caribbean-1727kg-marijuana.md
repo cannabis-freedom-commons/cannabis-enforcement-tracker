@@ -42,21 +42,27 @@ sources:
     url: https://swedenherald.com/article/french-navy-seizes-86-tonnes-of-drugs-in-caribbean-and-atlantic-operations
     publisher: Sweden Herald
     date: 2026-10-17
+  - title: Venezuela y Francia incautan 2,9 toneladas de droga en el Caribe
+    url: https://correodelcaroni.com/region/sucesos/venezuela-y-francia-incautan-29-toneladas-de-droga-en-el-caribe/
+    publisher: Correo del Caroní
+    date: 2026-10-17
+    language: es
 open_questions:
   - The four people arrested are not named, and no exact position at sea is given.
   - El Nacional’s picture is labelled an archive image, so no photo of this seizure is listed here.
   - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
+  - The Correo del Caroní page carries a photo credited only via social media with no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Venezuela’s Ministry of Interior, Justice and Peace said four people were arrested in a maritime
-interdiction in the Caribbean. [@1,2] The Bolivarian National Guard’s special anti-drug unit UEA-45
-La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2] Radio
+interdiction in the Caribbean. [@1,2,5] The Bolivarian National Guard’s special anti-drug unit UEA-45
+La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5] Radio
 Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1]
 
 Officers seized 166 bales holding 4,152 cakes of drugs: 1,173.50 kilograms of cocaine and 1,727.40
-kilograms of marijuana, 2,900.90 kilograms in all. [@1,2] The people arrested and the drugs were
-placed at the disposal of the public prosecutor. [@1,2] The government thanked France for the naval
-help. [@2] The reports do not name the four people or say where in the Caribbean the boat was
+kilograms of marijuana, 2,900.90 kilograms in all. [@1,2,5] The people arrested and the drugs were
+placed at the disposal of the public prosecutor. [@1,2,5] The government thanked France for the naval
+help. [@2,5] The reports do not name the four people or say where in the Caribbean the boat was
 stopped. [@1,2]
 
 French accounts of the same interdiction say French forces stopped the Venezuelan fishing vessel
@@ -64,3 +70,5 @@ on 13 October and handed the vessel, its crew and the seized cargo to the Venezu
 for legal proceedings. [@3,4] They describe three October operations in which French vessels seized
 6.9 tonnes of cocaine and 1.7 tonnes of marijuana in total, with the Venezuelan boat's 166 bales
 holding both drugs. [@3,4]
+
+Deputy Minister Oliver Blanco confirmed the seized drugs were cocaine and marijuana and said the operation complied with international law. [@5]
