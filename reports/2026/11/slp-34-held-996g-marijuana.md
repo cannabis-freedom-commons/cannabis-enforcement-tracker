@@ -25,6 +25,11 @@ sources:
     publisher: Emsavalles
     date: 2026-11-01
     language: es
+  - title: Operativos de vigilancia dejan 34 detenidos en San Luis Potosí
+    url: https://www.elexpres.com/nota.php?story_id=374346
+    publisher: El Expres
+    date: 2026-11-01
+    language: es
 open_questions:
   - The article gives only its publication date of 1 November 2026; the operations are described only as taking place in recent hours.
   - The force did not say which of the 34 detentions, if any, concerned the marijuana.
@@ -37,20 +42,19 @@ open_questions:
 
 San Luis Potosí’s Guardia Civil Estatal (GCE), the state civil guard, detained
 34 people in recent hours for their alleged involvement in various criminal
-acts. [@1] The detentions were linked to alleged offences including possession
+acts. [@1,2] The detentions were linked to alleged offences including possession
 of drugs, robbery, carrying a prohibited weapon, offences against traffic
 safety, family violence, driving a vehicle with a theft report and dangerous
-assault. [@1] Those detained were placed at the disposal of the competent
-authorities for the corresponding investigations. [@1]
+assault. [@1,2] Those detained were placed at the disposal of the competent
+authorities for the corresponding investigations. [@1,2]
 
 During the same interventions, the force recovered a vehicle with a theft report
-and seized 996.3 grams of marijuana. [@1] The same operation also secured 436
+and seized 996.3 grams of marijuana. [@1,2] The same operation also secured 436
 doses of methamphetamine, 110 doses of cocaine and 41 doses of crack, along with
 10 metal artefacts known as “ponchallantas”; only the separately stated
-marijuana weight is counted as cannabis here. [@1]
+marijuana weight is counted as cannabis here. [@1,2]
 
 The state Secretariat of Security and Citizen Protection said it would maintain
 operational presence and prevention work in the state’s four regions through
 permanent actions to protect the safety and property of families in San Luis
-Potosí. [@1]
-
+Potosí. [@1,2]
