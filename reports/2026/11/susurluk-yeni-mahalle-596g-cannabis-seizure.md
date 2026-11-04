@@ -29,6 +29,11 @@ sources:
     publisher: Haberler
     date: 2026-11-04
     language: tr
+  - title: Susurluk'ta bir adrese baskın yapan polis 596 gram esrar ele geçirdi - Son Dakika
+    url: https://www.sondakika.com/guncel/haber-susurluk-ta-bir-adrese-baskin-yapan-polis-596-gram-20394520/
+    publisher: Son Dakika
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate date for the raid; 4 November 2026 is their publication timestamp and is used as the incident date.
   - No charge, court date or later outcome was reported.
@@ -36,17 +41,17 @@ open_questions:
   - The two guns and 16 cartridges are noted only to explain the same search and are excluded from cannabis figures.
   - Both accessible accounts carry the same agency-wire text, so no independent police statement was opened.
   - Each page carries a lead photograph captioned only with the operation headline and without a credit confirming it shows this seizure, so no media entry is included.
+  - The page carries a lead photograph captioned only with the operation headline and without a credit confirming it shows this seizure, so no media entry is included.
 ---
 
 Crime Prevention and Investigation Bureau teams of the Susurluk District Police
 Directorate carried out an operation at an address identified in Yeni Mahalle.
-[@1] The operation detained Y.E.K., whose procedures were described as still
-continuing. [@1]
+[@1,3] The operation detained Y.E.K., whose procedures were described as still
+continuing. [@1,3]
 
-The search found 596 grams of esrar, 2 yivsiz av tüfeği and 16 cartridges. [@1]
+The search found 596 grams of esrar, 2 yivsiz av tüfeği and 16 cartridges. [@1,3]
 The seizure was described as about 600 grams of esrar in Susurluk district of
-Balıkesir. [@1] In Yeni Mahalle in Susurluk, an operation seized 596 grams of
+Balıkesir. [@1,3] In Yeni Mahalle in Susurluk, an operation seized 596 grams of
 esrar, 2 yivsiz av tüfeği and 16 cartridges, and Y.E.K. was detained. [@2]
 
 The item is timestamped 4 November 2026 at 12:47. [@1]
-
