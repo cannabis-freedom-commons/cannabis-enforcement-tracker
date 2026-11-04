@@ -1,0 +1,53 @@
+---
+code: BVHR49
+added_at: "2026-11-04T17:24:30.278616Z"
+date: 2026-11-04
+country: in
+place: Beyond Teen Puliya, near Nagpur-Mumbai railway track, Itarsi, Narmadapuram district
+coordinates: [22.6142, 77.7588]
+precision: locality
+type: arrest
+also: [seizure]
+title: Man held with 8.4 kg ganja near Itarsi railway track
+summary: >-
+  Itarsi police and the RPF arrested 35-year-old Ramkumar Thakur near the Nagpur-Mumbai railway track on 4 November 2026, seizing 8.4 kg of ganja from a black backpack. Police valued the seizure at about 150,000 rupees and registered an offence against him.
+figures:
+  arrested: 1
+  kg_seized: 8.4
+  value:
+    amount: 150000
+    currency: INR
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: a667eaa5ef9247f506cd29d121831798
+tags: [itarsi, narmadapuram, ganja]
+sources:
+  - title: 'इटारसी पुलिस की बड़ी कार्रवाई: 8 किलो 400 ग्राम अवैध गांजे के साथ एक आरोपी गिरफ्तार'
+    url: https://narmadanchal.com/major-action-by-itarsi-police-one-accused-arrested-with-8-kg-400-grams-of-illegal-cannabis/
+    publisher: Narmadanchal
+    date: 2026-11-04
+    language: hi
+open_questions:
+  - Only one accessible source for this event was found after searching in English and Hindi.
+  - No court outcome was reported; the case stood at the stage of an offence being registered and legal proceedings started.
+  - The page carries a photo captioned only as GANJA, which does not establish that it shows this seizure, so no media entry is included.
+---
+
+A joint team of Itarsi police in Narmadapuram district and the RPF, the railway
+police force, arrested one accused during an action against the trafficking of
+illegal drugs. [@1] Officers caught the accused on 4 November on the basis of
+information received from an informer. [@1] The accused was identified as
+35-year-old Ramkumar Thakur, son of Sannu Thakur, a resident of Padrai village
+under Bankhedi police station in Narmadapuram district. [@1] He was caught
+beyond Teen Puliya, near the Nagpur-Mumbai railway track. [@1]
+
+Police recovered 8 kg 400 grams of illegal ganja, the local name for cannabis,
+from his possession during the same operation. [@1] The ganja was kept in a
+black backpack carried by the accused. [@1] Police said he had been looking for
+an opportunity to sell it. [@1] Police estimated its value on the international
+market at about 150,000 rupees. [@1]
+
+Police registered an offence against the accused and started the formal legal
+process. [@1] Officers and staff of Itarsi police station and the RPF played an
+important role in the whole operation. [@1]
+
