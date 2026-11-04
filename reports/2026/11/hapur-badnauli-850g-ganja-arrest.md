@@ -45,6 +45,11 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-02
     language: hi
+  - title: घर चलाने के लिए हिस्ट्रीशीटर गांजा बेचने लगा, पुलिस ने दबोचा
+    url: https://ehapurnews.com/history-sheeter-began-selling-cannabis-to-support-his-household-nabbed-by-police/
+    publisher: EHAPUR NEWS
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article gives no calendar date for the arrest; 1 November 2026 is inferred as the Sunday night before its 2 November 2026 publication.
   - No second report of this 850-gram arrest was found; it rests on a single source.
@@ -59,13 +64,13 @@ open_questions:
   - No cannabis value, laboratory weight beyond the stated 850 grams, or court outcome beyond registration of a case and further legal action was reported.
 ---
 
-Hapur city police arrested a man selling ganja on Badnauli road. [@1,2,3,4] He had
+Hapur city police arrested a man selling ganja on Badnauli road. [@1,2,3,4,6] He had
 been standing behind bushes near the railway crossing looking for customers.
 [@1,2] During questioning he gave his name as Shakeel, a resident of Mohalla Nabi
-Karim. [@1,3,4,5] He tried to flee when he saw the police team approaching, but
+Karim. [@1,3,4,5,6] He tried to flee when he saw the police team approaching, but
 officers surrounded and caught him. [@1,3,4]
 
-Police searched his bag and recovered 850 grams of ganja. [@1,2,3,4,5] Police said he
+Police searched his bag and recovered 850 grams of ganja. [@1,2,3,4,5,6] Police said he
 brought ganja in a bag and sold it to passers-by and addicts for profit. [@1]
 Sub-Inspector Ravindra Kumar's team was patrolling the area on Sunday night when
 an informant told them near Nizampar underpass that a man was selling ganja from
@@ -81,3 +86,5 @@ to the trade. [@1]
 Police described the arrested man as a history-sheeter facing nine cases at Kotwali Hapur Nagar. [@3,4] Police said they acted after a video of ganja sales in the area circulated on social media. [@3,5]
 
 Police gave his history-sheet number as HS-205A. [@5] Police records list nine cases against Shakeel in Hapur, Meerut and Muzaffarnagar districts, including murder, robbery, Arms Act and NDPS Act cases. [@5] The police team comprised Sub-Inspector Ravindra Kumar, Head Constable Pawan Kumar (882) and Constable Veer Pratap (452). [@5]
+
+Shakeel told police he is unemployed and was selling ganja to meet household expenses. [@6] Police have previously jailed many drug dealers from the Nabi Karim area. [@6] Police did not disclose where Shakeel bought the ganja. [@6]
