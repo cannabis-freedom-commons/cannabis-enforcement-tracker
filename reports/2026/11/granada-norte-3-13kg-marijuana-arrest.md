@@ -29,6 +29,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-03
     language: es
+  - title: Detenido tras intentar esconder bajo un coche una bolsa con más de tres kilos de marihuana
+    url: https://www.granadaesnoticia.com/sucesos/detenido-tras-intentar-esconder-bajo-un-coche-una-bolsa-con-mas-de-tres-kilos-de-marihuana
+    publisher: Granada es Noticia
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give no separate date for the early-morning arrest; 3 November 2026 is the publication date and is used as the incident date.
   - No court outcome beyond referral to the competent judicial authority was reported.
@@ -40,20 +45,19 @@ open_questions:
 National Police officers detained a 36-year-old man in the Norte district of
 Granada as the alleged perpetrator of a drug-trafficking offence after catching
 him on the street with a bag holding more than three kilos of dried marijuana
-buds ready for consumption or sale. [@1] After noticing the officers, he tried
+buds ready for consumption or sale. [@1,3] After noticing the officers, he tried
 to get rid of the substance but was quickly intercepted and detained for later
-referral to the judicial authority. [@1]
+referral to the judicial authority. [@1,3]
 
-According to police, the events took place in the early morning. [@1] A patrol
+According to police, the events took place in the early morning. [@1,3] A patrol
 working in a crime-prevention and public-safety operation noticed his suspicious
-behaviour. [@1] When officers approached, he acted evasively and tried to hide
-the bag he was carrying under a vehicle parked on the street. [@1] After
+behaviour. [@1,3] When officers approached, he acted evasively and tried to hide
+the bag he was carrying under a vehicle parked on the street. [@1,3] After
 abandoning the bundle, he walked on trying to appear unconcerned, but officers
-stopped him a few metres away. [@1] During the identification check, officers
+stopped him a few metres away. [@1,3] During the identification check, officers
 noticed a strong smell of marijuana coming from the bag and inspected it
-closely. [@1] Weighing gave a total of 3 kilos and 130 grams, and officers
-seized the drug for later destruction. [@2]
+closely. [@1,3] Weighing gave a total of 3 kilos and 130 grams, and officers
+seized the drug for later destruction. [@2,3]
 
 Police say he has four previous detentions and an active alert in force after a
-relative reported having had no news of him. [@1]
-
+relative reported having had no news of him. [@1,3]
