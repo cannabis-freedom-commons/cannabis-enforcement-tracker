@@ -30,6 +30,11 @@ sources:
     publisher: Europa Press
     date: 2026-10-23
     language: es
+  - title: Algarve News vom 01. November 2026 • Algarve für Entdecker
+    url: https://www.algarve-entdecker.com/2026/11/algarve-news-vom-01-november-2026/
+    publisher: Algarve für Entdecker
+    date: 2026-11-01
+    language: de
 media:
   - kind: photo
     url: https://www.europapress.es/andalucia/huelva-00354/noticia-intervenidas-mas-cinco-toneladas-hachis-rio-guadiana-operacion-conjunta-espana-portugal-20261023135621.html
@@ -44,8 +49,8 @@ the Guadiana at Ayamonte, in Huelva. [@1] The Guardia Civil set a search by sea,
 with the provincial maritime service, public-safety officers, the Pegaso team, the rapid-action
 group and the air service, and with Portugal's maritime GNR and Maritime Police. [@1]
 
-As the crew fled they were seen throwing bales into the sea. [@1] Officers recovered 127 bales of
-hashish. [@1] Europa Press's headline puts the load at more than five tonnes, and the note it
+As the crew fled they were seen throwing bales into the sea. [@1,2] Officers recovered 127 bales of
+hashish. [@1,2] Europa Press's headline puts the load at more than five tonnes, and the note it
 quotes puts the weight at about five tonnes. [@1] The people on the boat abandoned it and ran
-inland. [@1] The boat was seized, taken to police premises and held for the court. [@1] The
+inland. [@1,2] The boat was seized, taken to police premises and held for the court. [@1] The
 inquiry continues to find those who fled. [@1]
