@@ -44,6 +44,11 @@ sources:
     publisher: WP Info
     date: 2026-11-04
     language: pl
+  - title: Narkotyki w Lublinie i regionie. Policja zabezpieczyła blisko 100 kg narkotyków
+    url: https://www.eska.pl/news/narkotyki-w-lublinie-i-regionie-policja-zabezpieczyla-blisko-100-kg-narkotykow-aa-ErW7-KLkX-iBby.html
+    publisher: Radio ESKA
+    date: 2026-11-04
+    language: pl
 open_questions:
   - No separate cannabis-only weight was published; the nearly 100 kg figure covers clephedrone, marijuana, amphetamine and NEP together and is therefore excluded from cannabis figures.
   - No separate cannabis-only valuation was published; the figure of about 5 million zloty covers all seized drugs together and is therefore excluded from figures.
@@ -51,6 +56,7 @@ open_questions:
   - The charge description refers to trafficking of no less than 300 kg while the reported seized total is nearly 100 kg, and the sources do not explain the difference.
   - The submitted page image repeats the headline as its caption and does not establish what it depicts, and no direct address for the police video could be recovered, so no media entry is included.
   - The text gives a weight ("100 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The Eska page's only image shows a generic silver police patrol car and does not depict this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://informacje.wp.pl/wiadomosci/potezne-uderzenie-w-narkobiznes-na-lubelszczyznie-100-kg-narkotykow-warte-5-mln-zl-pseudokibice-motoru-zatrzymani-7347328174315968a
@@ -60,26 +66,26 @@ media:
 ---
 
 Lublin anti-drug officers detained eight men from Lublin and neighbouring
-counties. [@2,5] The men were aged 27 to 42, with three aged 27 and the others
+counties. [@2,5,6] The men were aged 27 to 42, with three aged 27 and the others
 aged 31, 37, 39, 40 and 42. [@3,5] Police said most were linked to the pseudo-fan
 milieu of a local football team, using the Polish term pseudokibice for
 hooligan-adjacent supporter groups. [@2] The District Prosecutor in Lublin
 charged all eight with trafficking a significant quantity of drugs, described as
-no less than 300 kg. [@2] A court placed all eight in temporary detention
-pending trial. [@3,5] They face up to 12 years in prison under Poland's anti-drug
-law. [@2,5]
+no less than 300 kg. [@2,6] A court placed all eight in temporary detention
+pending trial. [@3,5,6] They face up to 12 years in prison under Poland's anti-drug
+law. [@2,5,6]
 
 Searches of the suspects' homes and vehicles recovered significant quantities of
-various drugs. [@1,4] The seized substances included clephedrone, marijuana,
-amphetamine and the potent psychoactive substance NEP. [@1,4,5] Police put the
-combined haul at nearly 100 kg. [@2,4,5] Police estimated its black-market value at
-about 5 million zloty. [@1,4,5] Investigators said the drugs were intended for the
-local market. [@2]
+various drugs. [@1,4,6] The seized substances included clephedrone, marijuana,
+amphetamine and the potent psychoactive substance NEP. [@1,4,5,6] Police put the
+combined haul at nearly 100 kg. [@2,4,5,6] Police estimated its black-market value at
+about 5 million zloty. [@1,4,5,6] Investigators said the drugs were intended for the
+local market. [@2,6]
 
 The operation was led by the drug-crime department of the Lublin provincial
-police under the supervision of the District Prosecutor in Lublin. [@3] Officers
+police under the supervision of the District Prosecutor in Lublin. [@3,6] Officers
 made the arrests successively over recent months in Lublin and other towns in
-Lublin Voivodeship. [@1,4] Officers from other criminal divisions of the
-provincial force assisted the drug unit in the detentions and seizures. [@3]
+Lublin Voivodeship. [@1,4,6] Officers from other criminal divisions of the
+provincial force assisted the drug unit in the detentions and seizures. [@3,6]
 
 The supporter milieu was specifically that of Motor Lublin football club. [@5] Investigators said the case remains developing and they do not rule out further arrests. [@5]
