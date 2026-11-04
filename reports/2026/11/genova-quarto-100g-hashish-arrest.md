@@ -29,6 +29,11 @@ sources:
     publisher: GenovaQuotidiana
     date: 2026-11-03
     language: it
+  - title: 'Viavai sospetto in un palazzo: durante il blitz spuntano cocaina e hashish, un arresto per spaccio'
+    url: https://www.genovatoday.it/cronaca/arresto-spaccio-droga-palazzo-quarto.html
+    publisher: GenovaToday
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give no separate calendar date for the arrest beyond the evening of the day before publication; 2 November 2026 is inferred from the 3 November 2026 publication date.
   - The 15 grams of cocaine and 1,800 euros in cash are mentioned only to explain the mixed case; the cash is described as suspected proceeds, not a valuation, and both are excluded from cannabis figures.
@@ -40,20 +45,19 @@ open_questions:
 
 Carabinieri of the Genova Quarto station arrested a 56-year-old Italian man on
 the evening before the 3 November publication in Quarto on suspicion of
-possessing drugs for dealing. [@1] Officers on territorial control duty had
+possessing drugs for dealing. [@1,3] Officers on territorial control duty had
 noticed an anomalous continuous flow of entries into a building in the area and
-traced it to the man's home. [@1] A second outlet confirms the checks led to the
+traced it to the man's home. [@1,3] A second outlet confirms the checks led to the
 arrest in flagrante of the 56-year-old for possession of drugs for dealing. [@2]
 
 Inside the flat officers found about 15 grams of cocaine divided into 15 doses
-and about 100 grams of hashish divided into nine packets. [@1] The second report
+and about 100 grams of hashish divided into nine packets. [@1,3] The second report
 likewise lists about 15 grams of cocaine in 15 doses and about 100 grams of
 hashish in nine packets. [@2] Officers also seized 1,800 euros in cash believed
 to be possible proceeds of dealing, together with two precision scales and other
-material used for packaging doses. [@1]
+material used for packaging doses. [@1,3]
 
 After the formalities the 56-year-old was held in the security cells at Forte
-San Giuliano awaiting a fast-track trial. [@1] The second outlet says the
+San Giuliano awaiting a fast-track trial. [@1,3] The second outlet says the
 Italian man was held in the Forte San Giuliano barracks cells awaiting the
 fast-track hearing. [@2]
-
