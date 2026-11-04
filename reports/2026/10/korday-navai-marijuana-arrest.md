@@ -47,6 +47,11 @@ sources:
     publisher: Zakon.kz
     date: 2026-10-15
     language: ru
+  - title: 'Рэпера Navai задержали в Казахстане: в машине нашли марихуану'
+    url: https://kirov-portal.ru/news/poslednie-novosti/rehpera-navai-zaderzhali-v-kazahstane-v-mashine-nashli-marihuanu-3/
+    publisher: Свойкировский.рф
+    date: 2026-10-15
+    language: ru
 open_questions:
   - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
   - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
@@ -60,23 +65,27 @@ open_questions:
   - The new accounts describe the companion charge differently as unlawful transportation versus unlawful storage, so the exact second article remains unclear.
   - Whether the defence filed an appeal or sought bail and the date of the next hearing were not reported in the opened update passages.
   - The exact custody end date was not stated in the opened passages, only the two-month duration.
+  - This account says police did not name the exact article, while the existing report records Article 286 from another outlet, so the exact charge remains unclear.
+  - This account says police reported no other suspects, while the existing report records three people detained, so whether the two companions were detained remains unclear.
+  - This account mentions only a service dog without a name, so the dog named Atlas in the existing report cannot be confirmed from this source alone.
+  - 'The page image is captioned only as Фото: Свойкировский with no event caption, so no media entry is included.'
 ---
 
 Police and border guards detained Russian rapper Navai, real name Navai Bakirov,
-at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5] He
+at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5,7] He
 was travelling by car from Kyrgyzstan, and officers found and seized a narcotic
-substance during the inspection of the vehicle. [@1,3,6] All three people travelling
+substance during the inspection of the vehicle. [@1,3,6,7] All three people travelling
 in the car were detained and handed to police, who placed them in a temporary
 detention facility. [@2]
 
 Officers also found a bag with roll-up paper and a shredder in the car, in which
 two other people were travelling with Navai. [@2,4] Police said a criminal case
 was opened on suspected attempted smuggling of narcotic drugs, the suspect was
-placed in temporary detention and a pre-trial investigation was under way. [@1]
+placed in temporary detention and a pre-trial investigation was under way. [@1,7]
 
 Navai had been due to perform on 14 October at the Zhaksylyk Ushkempirov Martial
 Arts Palace in Astana, but the concert was cancelled for reported technical
-reasons. [@1,3,4,5] His mother told Izvestia she did not believe in his involvement in
+reasons. [@1,3,4,5,7] His mother told Izvestia she did not believe in his involvement in
 drug trafficking and suggested the discovered substance could have been planted.
 [@2]
 
@@ -85,3 +94,5 @@ Baza, citing checkpoint staff, claimed that 10 grams of marijuana were found in 
 A service dog named Atlas discovered the banned substances. [@4] The marijuana was found in the pocket of the driver's seat of the car in which the rapper was travelling. [@4] A case was opened under Article 286 of Kazakhstan's Criminal Code, which provides for a fine, corrective labour, restriction or imprisonment for up to five years, with or without confiscation of property. [@4] The day before, the rapper had been in Tashkent before travelling to a concert in Astana. [@4]
 
 The Korday district court ordered Navai held in custody for two months. [@5] Telegram channels reported that the Korday district court sanctioned holding Navai in custody for two months. [@6] A criminal case was opened against him on charges of smuggling and unlawful transportation of narcotics without intent to sell. [@5]
+
+Journalist Mikhail Kozachkov wrote on Telegram that 2.5 g of marijuana was found in the car after a service dog reacted to it. [@7] Two other people were travelling with the rapper, and investigators were establishing who owned the substances. [@7] The organiser said spectators would receive refunds for the cancelled Astana concert. [@7] His tour ran from 9 July to 16 October across Russia, Uzbekistan, Kyrgyzstan, Kazakhstan and Moldova, with the last concert on 12 October in Bishkek before the planned Astana and Chisinau shows. [@7]
