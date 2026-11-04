@@ -28,6 +28,11 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-04
     language: gu
+  - title: 'Ahmedabad News: રાજસ્થાનથી 7 મહિનાથી ચાલતું હાઇબ્રીડ ગાંજાનું નેટવર્ક પકડાયું, 3 નશાખોર મિત્રો ઝડપાયા!'
+    url: https://sandesh.com/gujarat/news/crime/ahmedabad/krishnanagar-hybrid-ganjha-drug-raid
+    publisher: Sandesh
+    date: 2026-11-04
+    language: gu
 open_questions:
   - The article gives no separate date for the raids; 4 November 2026 is its publication date and is used as the incident date.
   - The reported Rs 2.19 lakh value covers the drugs, phones and weighing scale together, so no cannabis-only value is recorded.
@@ -39,12 +44,16 @@ open_questions:
   - The new account also gives no separate raid date; 4 November 2026 remains the publication date used as the incident date.
   - The page image and video carry no caption or credit establishing that they show this seizure, so no media entry is included.
   - The new account uses short forms Sandeep, Pradeep and Bunty; the existing full names with patronymics are retained.
+  - The Sandesh account values the 54.180 grams alone at approximately Rs 1,90,000, while the existing report records Rs 2.19 lakh for all seized items together, so no separate cannabis value is added.
+  - The Sandesh account says the stock was brought from Rajasthan ten days earlier, while the existing report specifies Udaipur around ten to fifteen days earlier.
+  - The Sandesh account gives only a general Krishnanagar location and does not mention the phones, scale or specific Prabuddh Ashram and Krishna Elegance raid addresses in the existing report.
+  - The Sandesh page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Ahmedabad's Krishnanagar police arrested three men after raids near the Prabuddh
 Ashram canal crossroads and at the Krishna Elegance residential complex in the
-Nava Naroda area. [@1] The men were identified as Sandeepkumar Verma, Pradeep
-Anandsinh Rajput and Bunty Rameshchandra Mirchandani. [@1,2] Officers had kept
+Nava Naroda area. [@1,3] The men were identified as Sandeepkumar Verma, Pradeep
+Anandsinh Rajput and Bunty Rameshchandra Mirchandani. [@1,2,3] Officers had kept
 watch near the Prabuddh Ashram canal crossroads and apprehended Sandeepkumar
 Dayarambhai Verma after receiving information that hybrid ganja was allegedly
 being sold in Nava Naroda. [@1,2] During questioning, Verma allegedly said he had
@@ -55,19 +64,19 @@ Bunty Rameshchandra Mirchandani was then identified as another person linked to
 the supply chain. [@1]
 
 Police seized 54.180 grams of hybrid ganja, three mobile phones and a digital
-pocket weighing scale. [@1,2] Police put the total value of all the seized items
+pocket weighing scale. [@1,2,3] Police put the total value of all the seized items
 at an estimated ₹2.19 lakh. [@1] The first search reportedly led to the recovery
 of small packets containing hybrid ganja. [@1,2]
 
 Preliminary investigation indicates Bunty had brought the ganja from Udaipur
-around 10 to 15 days earlier. [@1,2] Police said Bunty had been consuming the
+around 10 to 15 days earlier. [@1,2,3] Police said Bunty had been consuming the
 substance for approximately seven months and, although he had initially brought
 the stock for personal use, he allegedly packaged surplus ganja into small
-sachets and arranged to sell them through friends. [@1] Preliminary
+sachets and arranged to sell them through friends. [@1,3] Preliminary
 investigation indicates none of the three arrested men has a prior criminal
 record. [@1] Police are continuing work to identify the Udaipur supplier and are
 examining the accused's call detail records to establish whether earlier
 consignments were brought to Ahmedabad and to identify local contacts who may
 have received the sachets. [@1,2]
 
-ACP R. D. Oza said the Krishnanagar D-staff team acted on a tip-off about a man coming with ganja near the canal. [@2]
+ACP R. D. Oza said the Krishnanagar D-staff team acted on a tip-off about a man coming with ganja near the canal. [@2,3]
