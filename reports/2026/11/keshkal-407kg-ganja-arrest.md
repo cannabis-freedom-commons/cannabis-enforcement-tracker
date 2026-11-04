@@ -48,6 +48,11 @@ sources:
     publisher: Khabarchalisa News
     date: 2026-11-04
     language: hi
+  - title: 407.910 किलो अवैध गांजा के साथ अंन्तराज्यीय गांजा तस्करी का एक आरोपित गिरफ्तार
+    url: https://vocaltv.in/crime/illegal-ganja-interstate-ganja-smuggling-accused-aphp/cid19491299.htm
+    publisher: Vocal TV
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -55,21 +60,23 @@ open_questions:
   - No independent outlet account of the Keshkal arrest was found; the video and text pages are two versions of the same Dainik Bhaskar story.
   - The story's combined figure of about Rs 4.88 crore spans the Keshkal and Kanker recoveries and is not recorded as this event's value; the report uses the Keshkal ganja-only valuation.
   - The Haribhoomi account says the extra RJ-23-UB-8472 plate was found in the dickey, while the existing report records it as hidden in the car's dashboard.
+  - The VocalTV republication does not state the car's registration, the ganja valuation, or the NDPS section, so those details continue to rest on the report's earlier sources.
+  - The VocalTV page shows a main image under the same seizure headline, but without a caption or credit establishing a distinct view of this seizure, so no new media entry is added.
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
 registration OD-10-V-7053 on a tip and searched it. [@2,3] The Keshkal case
-involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2] The driver
+involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2,5] The driver
 identified himself during questioning as 31-year-old Deepak Kumar Mali of
 Nathukhedi in Pratapgarh district, Rajasthan. [@2] Police registered a case
 against him under Section 20(b) of the NDPS Act and arrested him. [@2,3] He was
-produced in court and sent to judicial remand. [@2,3]
+produced in court and sent to judicial remand. [@2,3,5]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
-the dickey. [@2,3] Officers recovered 407 kg 910 g of ganja from the car, which
+the dickey. [@2,3,5] Officers recovered 407 kg 910 g of ganja from the car, which
 police valued at Rs 2,03,95,500. [@2,4] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
-and Rs 1,100 in cash were also recovered from the accused. [@2] Police seized
+and Rs 1,100 in cash were also recovered from the accused. [@2,5] Police seized
 the ganja, car, mobile phone and other items together worth Rs 2,18,96,600 in
 total. [@2,3]
 
