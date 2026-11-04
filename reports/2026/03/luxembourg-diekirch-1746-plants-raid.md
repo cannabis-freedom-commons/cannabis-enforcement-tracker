@@ -54,6 +54,11 @@ sources:
     publisher: RTL Infos
     date: 2026-04-14
     language: fr
+  - title: 1.746 plants de cannabis saisis dans le nord du Luxembourg
+    url: https://www.virgule.lu/luxembourg/1.746-plants-de-cannabis-saisis-dans-le-nord-du-luxembourg/145752968.html
+    publisher: Virgule
+    date: 2026-04-14
+    language: fr
 media:
   - kind: photo
     url: https://today.rtl.lu/news/luxembourg/over-1-700-cannabis-plants-found-in-house-near-belgian-border-1186297272
@@ -64,21 +69,23 @@ open_questions:
   - The Diekirch prosecutor did not name the municipality; RTL said only that the house was in the north near the Belgian border.
   - The suspects’ nationalities and names were not published; both were described as foreign nationals in an irregular immigration situation.
   - Narcotics investigators said the men acted as an association; the prosecutor said analysis of seized data and further checks were continuing to identify possible accomplices.
+  - The Virgule article says the men were presented to the Diekirch examining magistrate the next day without naming 23 March explicitly, so that calendar date continues to rest on the prosecutor statement already cited.
+  - The Virgule page shows a cultivation photo credited to the prosecutor office that appears to republish the same agency handout already listed from RTL Today, so no additional media entry is added.
 ---
 
 On 22 March 2026 the Diekirch public prosecutor’s office said the Grand Ducal
 Police opened an inquiry after the owner of a rented single-family house reported
-a foreign tenant. [@1,2,3,4,5] Officers searched the property in northern Luxembourg,
+a foreign tenant. [@1,2,3,4,5,7] Officers searched the property in northern Luxembourg,
 near the Belgian border, and seized 1,746 cannabis plants grown indoors along
-with large quantities of cultivation material. [@1,2,3,4,5,6]
+with large quantities of cultivation material. [@1,2,3,4,5,6,7]
 
 Two suspects who were in Luxembourg illegally and lived in the house to tend the
-plants were arrested. [@1,2,3,4,5,6] They appeared before an examining magistrate in
+plants were arrested. [@1,2,3,4,5,6,7] They appeared before an examining magistrate in
 Diekirch on 23 March and were charged under Luxembourg’s 1973 drug law with
 cultivating cannabis, putting the drugs into circulation and laundering the
-proceeds. [@1,2,3,4,6] The magistrate issued arrest warrants and both men were held in
-pretrial detention. [@1,2,4,5,6]
+proceeds. [@1,2,3,4,6,7] The magistrate issued arrest warrants and both men were held in
+pretrial detention. [@1,2,4,5,6,7]
 
 The prosecutor said early work by the judicial police narcotics section indicated
-they had acted as an association; the investigation was continuing. [@1,2,3] The
+they had acted as an association; the investigation was continuing. [@1,2,3,7] The
 statement was made public on 14 April 2026. [@1,2]
