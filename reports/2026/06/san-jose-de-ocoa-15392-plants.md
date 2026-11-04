@@ -36,12 +36,23 @@ sources:
     url: https://dr1.com/news/2026/06/23/record-breaking-bust-dncd-uproots-15392-marijuana-plants-in-san-jose-de-ocoa-mountain/
     publisher: DR1.com
     date: 2026-06-23
+  - title: Autoridades incautan más de 15,000 plantas de marihuana en República Dominicana
+    url: https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/autoridades-incautan-mas-de-15-000-plantas-de-marihuana-en-republica-dominicana-tmvo13196126
+    publisher: Telemundo
+    date: 2026-06-22
+    language: es
+media:
+  - kind: video
+    url: https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/autoridades-incautan-mas-de-15-000-plantas-de-marihuana-en-republica-dominicana-tmvo13196126
+    media_url: https://link.theplatform.com/s/0L7ZPC/media/KjXsd8RpFcfH?format=redirect
+    publisher: Telemundo
+    caption: Telemundo video report on the seizure of more than 15,000 marijuana plants in the Dominican Republic
 ---
 
-The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2] The DNCD called it the largest cultivation bust in the country's history. [@1,2]
+The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3]
 
-More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2] The plantation had a drip-irrigation system. [@1,2]
+More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3] The plantation had a drip-irrigation system. [@1,2]
 
-Officers also raided a house used as a collection centre. [@1] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
+Officers also raided a house used as a collection centre. [@1,3] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
 
 The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2] Security forces kept a presence in the area to gather further evidence. [@1]
