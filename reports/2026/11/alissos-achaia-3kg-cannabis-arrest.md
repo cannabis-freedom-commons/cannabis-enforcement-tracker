@@ -75,6 +75,11 @@ sources:
     publisher: ioannina24.gr
     date: 2026-11-03
     language: el
+  - title: 'Δυτική Αχαΐα: Πάνω από 3 κιλά κάνναβης και τέσσερα όπλα εντοπίστηκαν σε σπίτι – Μία σύλληψη'
+    url: https://www.thebest.gr/amp/article/851186-dutiki-achaia-pano-apo-3-kila-kannabis-kai-tessera-opla-entopistikan-se-spiti-mia-sullipsi
+    publisher: thebest.gr
+    date: 2026-11-03
+    language: el
 open_questions:
   - The cannabis total differs between the police announcement's 3 kilos and 117 grams and Aigiovoice's approximate three kilos plus 311 grams; the report records the police figure.
   - The suspect was identified only as a Greek man born in 1983, with no full name published.
@@ -97,6 +102,8 @@ open_questions:
   - The ioannina24 account names only an area of Western Achaia and does not name Alissos; the Alissos locality is retained from the report's earlier sources.
   - The ioannina24 account gives no exact cannabis weight, only kilos in its headline; the 3.117 kg figure is retained from the police announcement in earlier sources.
   - The ioannina24 page's listed image carries no caption or credit establishing it shows this seizure, so no media entry is added.
+  - This account names only Western Achaia and does not name Alissos, so the Alissos locality is retained from the report's earlier sources.
+  - No new media entry is added because the page's listed image caption repeats the headline with no credit establishing it shows this seizure, and it appears to be the same police handout already cited via Tempo24.
 ---
 
 On the morning of 3 November 2026, officers of the Western Achaia Department for
@@ -105,16 +112,16 @@ in Western Achaia. [@1,10] Officers carried out a house search at a home in the
 area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9] Officers
 arrested a Greek man born in 1983 in connection with the case. [@1] Police filed
 a case against him for drug trafficking and possession and for breach of weapons
-law. [@2,3,4,5,6,7,8,9,10] He was to be taken to the Achaia first-instance prosecutor, while the
-same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9]
+law. [@2,3,4,5,6,7,8,9,10,11] He was to be taken to the Achaia first-instance prosecutor, while the
+same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9,11]
 
 According to the police announcement, officers seized 3 kilos and 117 grams of
-raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9]
+raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9,11]
 Aigiovoice described the cannabis as about three kilos of raw cannabis in branch
 form plus 311 grams of cannabis plant extracts. [@1] Officers also seized an
-electronic precision scale and garden shears. [@2,4,5,6,7,9]
+electronic precision scale and garden shears. [@2,4,5,6,7,9,11]
 
 Officers seized three hunting guns, comprising two single-barrel shotguns and a
-carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9] They also seized a blank-gas pistol
-with an empty magazine. [@2,3,4,5,6,7,9] The firearms were held without the required
+carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9,11] They also seized a blank-gas pistol
+with an empty magazine. [@2,3,4,5,6,7,9,11] The firearms were held without the required
 possession licence. [@1]
