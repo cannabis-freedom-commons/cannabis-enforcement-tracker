@@ -37,6 +37,11 @@ sources:
     url: https://today.rtl.lu/news/luxembourg/46kg-of-cannabis-seized-by-findel-customs-419760561
     publisher: RTL Today
     date: 2026-05-07
+  - title: 'Nouveau coup de filet au Findel: près de 46 kilos de cannabis découverts dans des matelas'
+    url: https://www.virgule.lu/luxembourg/nouveau-coup-de-filet-au-findel-pres-de-46-kilos-de-cannabis-decouverts-dans-des-matelas/151219183.html
+    publisher: Virgule
+    date: 2026-05-07
+    language: fr
 open_questions:
   - The prosecutor's release gives both 45.89 kilograms in its opening line and 45.86 kilograms as the final total; this report uses the final detailed total of 45.86 kilograms, also used by RTL Today.
   - Actu.fr writes that six mattresses contained vacuum-sealed packs, while the prosecutor and RTL Today say two of the six did; this report follows the prosecutor.
@@ -51,13 +56,12 @@ shipment under reinforced control after an in-depth inspection of its documents.
 [@2]
 
 The shipment was six spring mattresses sent from Los Angeles toward Germany.
-[@2] Officers found vacuum-sealed packets containing cannabis hidden inside two
-of the six mattresses. [@2] Officers seized a total of 45.86 kilograms of
-cannabis on the Luxembourg prosecutor's order. [@2] The seizure occurred on 8
-April 2026. [@3]
+[@2,4] Officers found vacuum-sealed packets containing cannabis hidden inside two
+of the six mattresses. [@2,4] Officers seized a total of 45.86 kilograms of
+cannabis on the Luxembourg prosecutor's order. [@2,4] The seizure occurred on 8
+April 2026. [@3,4]
 
 The prosecutor presented the find as a new seizure following recent drug
 discoveries at the same freight center. [@2] German authorities were notified of
-the discovery. [@1] The investigation was still continuing after the seizure.
+the discovery. [@1,4] The investigation was still continuing after the seizure.
 [@1]
-
