@@ -40,6 +40,11 @@ sources:
     publisher: ICI
     date: 2026-11-02
     language: fr
+  - title: 'Cocaïne, cannabis, faux revolver et argent liquide : près de Deauville, un trafic de stupéfiants démantelé'
+    url: https://www.ouest-france.fr/societe/faits-divers/cocaine-cannabis-faux-revolver-et-argent-liquide-pres-de-deauville-un-trafic-de-stupefiants-demantele-70c2d322-d6a3-11f1-84f3-5611f158a658
+    publisher: Ouest-France
+    date: 2026-11-02
+    language: fr
 open_questions:
   - The 22 grams of cocaine and its reported 1,520-euro resale value are excluded from cannabis figures; the value figure uses only the separately stated 8,130 euros for cannabis.
   - The 2,005 euros in cash is seized cash, not a drug valuation, and is not counted in the value figure.
@@ -48,6 +53,9 @@ open_questions:
   - No independent weighing beyond the gendarmerie seizure count is reported.
   - The lead image on the ICI page is explicitly captioned as a photo d'illustration and is not shown to depict this search or seizure, so no media entry is made.
   - This account does not state the 26 October search date or the separate cannabis and cocaine resale values used in the existing report; those details continue to rely on the earlier sources.
+  - The full Ouest-France article is paywalled, so only its opening lines and summary description could be read; quantities, court details and other specifics continue to rely on the earlier sources.
+  - The Ouest-France summary places the dismantled traffic at Villers-sur-Mer while its body places the 26 October operation at Benerville-sur-Mer; the existing report's Benerville-sur-Mer location is retained.
+  - The page's lead image is captioned as archives material, not as this search or seizure, so no media entry is included.
 ---
 
 Gendarmes from Deauville and Villers-sur-Mer arrested two 20-year-olds living as
@@ -59,14 +67,14 @@ Benerville, Blonville, Deauville and Villers-sur-Mer. [@1] The court
 definitively confiscated the seized money and objects belonging to them. [@1]
 
 A search of the couple’s home was carried out on 26 October under the authority
-of the Lisieux prosecutor. [@1] The search found and seized 813 grams of
+of the Lisieux prosecutor. [@1,4] The search found and seized 813 grams of
 cannabis resin, 22 grams of cocaine, 2,005 euros in cash, a replica revolver,
 three telephones and a precision scale. [@1,3] The gendarmerie put the resale
 value at 8,130 euros for the cannabis and 1,520 euros for the cocaine. [@2]
 
 The case began on 22 October 2026 when Villers-sur-Mer gendarmes received
 information about a recent drug delivery at a young man’s home in
-Benerville-sur-Mer. [@2] The subsequent inquiry confirmed resale of cannabis
+Benerville-sur-Mer. [@2,4] The subsequent inquiry confirmed resale of cannabis
 resin and cocaine on the public road near the 20-year-old couple’s home. [@2]
 Confronted with evidence including statements from several client neighbours,
 they admitted trafficking since January 2025 whose proceeds supported their
