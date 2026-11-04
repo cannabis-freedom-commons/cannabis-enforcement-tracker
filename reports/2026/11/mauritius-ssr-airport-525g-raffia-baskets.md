@@ -33,21 +33,29 @@ sources:
     publisher: L'Express
     date: 2026-11-03
     language: fr
+  - title: 'Aéroport de Plaisance : trois arrestations après la saisie de 525 grammes de cannabis'
+    url: https://defimedia.info/aeroport-de-plaisance-trois-arrestations-apres-la-saisie-de-525-grammes-de-cannabis
+    publisher: Defimedia
+    date: 2026-11-04
+    language: fr
 open_questions:
   - Only one accessible source for this event was found; a Top FM Facebook post appearing to describe the same seizure could not be opened.
   - The report uses 2 November 2026, the date of the last arrest, as the incident date; the article itself was published on 3 November 2026.
   - No charge or court outcome was reported; the three suspects were described only as detained while the investigation continued.
   - The article does not name who provided the Rs 1.575 million market-value estimate.
   - The role of the questioned company director from Port-Louis and the identity of the cargo's true recipient were not established in this report.
+  - Defimedia gives the estimated value as Rs 1.5 million while the existing report records Rs 1.575 million; the report's figure should stand and the difference appears to be rounding.
+  - Defimedia describes the two further arrests as a 23-year-old Malagasy and a 54-year-old Mauritian company director, while the existing report names a 23-year-old Malagasy, a questioned Port-Louis company director who was allowed to leave, and a 45-year-old mason arrested 2 November at Bonne-Veine; the exact role of the director and the identity of the third detained man remain unresolved.
+  - The Defimedia page carries a photo captioned only "Cannabis 4.11.26" with no credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 A joint operation by the Anti-Drug and Smuggling Unit and customs at SSR airport
 foiled an attempt to import cannabis concealed in two handmade raffia baskets.
 [@1] Officers seized 525.59 grams of cannabis, which the authorities estimated
-to have a market value of Rs 1.575 million. [@1] Investigators set up a
-controlled delivery that led to the arrest of two further suspects. [@1] The
+to have a market value of Rs 1.575 million. [@1,2] Investigators set up a
+controlled delivery that led to the arrest of two further suspects. [@1,2] The
 case began on Sunday 1 November on the arrival of flight MK 289 from
-Antananarivo. [@1] During a check, officers intercepted a 25-year-old Malagasy
+Antananarivo. [@1,2] During a check, officers intercepted a 25-year-old Malagasy
 national identified as Kasaina Todisoa Fanomezantsoa, who was carrying two
 hand-woven raffia bags. [@1] A thorough search found compressed vacuum-packed
 cannabis sachets hidden in the lining of each basket. [@1] The investigators
@@ -68,4 +76,3 @@ ADSU cells, Jean Marie Achille held at the airport police station and Sedera
 Ralaimarimana held at the Chaland detention centre. [@1] The inquiry was
 continuing to establish the possible ramifications of the network between
 Madagascar and Mauritius. [@1]
-
