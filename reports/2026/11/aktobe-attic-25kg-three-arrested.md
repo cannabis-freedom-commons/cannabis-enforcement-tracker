@@ -1,0 +1,60 @@
+---
+code: PAX6WB
+added_at: "2026-11-04T12:10:36.253579Z"
+date: 2026-11-04
+country: kz
+place: Aktobe, Aktobe Region
+coordinates: [50.2839, 57.1668]
+precision: locality
+type: arrest
+also: [seizure]
+title: Three detained after 25 kg marijuana found in Aktobe attic
+summary: >-
+  Police in Aktobe detained three residents after finding more than 25 kilograms of marijuana in barrels stored in the attic of a house. A forensic test confirmed the substance was marijuana, and a pre-trial investigation is establishing the circumstances and possible supply channels.
+figures:
+  arrested: 3
+  kg_seized: 25
+media:
+  - kind: photo
+    url: https://www.nur.kz/incident/crime/2452107-troih-zaderzhali-v-aktobe-posle-obyska-na-cherdake-video/
+    media_url: https://cdn.nur.kz/images/720x405/46e16a02228c1de3637e5f65fefee339.webp?version=1
+    publisher: NUR.KZ
+    caption: 'Detention still from the Aktobe regional police video showing the operation. Photo: Police Department of the Aktobe Region via NUR.KZ'
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: d74db6eae54b00aae6532f1aef478e2c
+tags: [aktobe, marijuana, police-raid]
+sources:
+  - title: Троих задержали в Актобе после обыска на чердаке (видео)
+    url: https://www.nur.kz/incident/crime/2452107-troih-zaderzhali-v-aktobe-posle-obyska-na-cherdake-video/
+    publisher: NUR.KZ
+    date: 2026-11-04
+    language: ru
+open_questions:
+  - The article gives no separate date for the search and detentions; 4 November 2026 is the publication date and is used as the incident date.
+  - The names and ages of the three detained men were not published.
+  - No weight was given for the packet found at the second residence, so it is not counted in kilograms seized.
+  - No charges, custody decision or court outcome were reported; the pre-trial investigation was still under way.
+  - The 25 kg figure records the reported minimum for more than 25 kilograms of marijuana.
+  - Only one accessible source for this event was found after searching in Russian; no second account or agency statement could be opened to confirm details.
+---
+
+Police in Aktobe detained three city residents suspected of illegal trafficking
+of narcotic drugs. [@1] Officers said operational-search measures had disrupted
+the activity of people suspected of illegal circulation of narcotic drugs. [@1]
+Police said that, according to preliminary information, all three men were under
+the influence of drugs when they were detained. [@1]
+
+During a search of a house property in Aktobe with the use of a service dog,
+officers found two barrels holding 50 and 25 litres in the attic containing
+plant material. [@1] Officers seized the two barrels and their contents from the
+attic. [@1] A forensic examination concluded that the seized plant material was
+marijuana. [@1] Police reported that the total weight of the marijuana was more
+than 25 kilograms. [@1] At the home of another detained man, police found and
+seized a packet of suspected narcotic material and devices for using prohibited
+substances. [@1]
+
+A pre-trial investigation is under way into the case. [@1] Investigators are
+establishing all the circumstances of what happened and the possible channels
+for the drugs’ arrival and distribution. [@1]
+
