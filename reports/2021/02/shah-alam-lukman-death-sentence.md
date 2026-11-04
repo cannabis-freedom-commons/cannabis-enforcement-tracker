@@ -1,7 +1,7 @@
 ---
 added_at_source: git
 added_at: "2026-11-02T12:27:27.000Z"
-code: 10MM4T
+code: "10MM4T"
 date: 2021-02-17
 country: my
 place: Shah Alam, Selangor
@@ -19,7 +19,7 @@ figures:
   charged: 1
   kg_seized: 0.279
   prison: 5 years (concurrent terms)
-created_by_model: muse-code/muse-spark-1.3#xhigh
+created_by_model: meta/muse-spark
 status: verified
 tags: [death-sentence, medical-cannabis, shah-alam, appeal]
 open_questions:
