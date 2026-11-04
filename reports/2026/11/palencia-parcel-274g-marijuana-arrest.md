@@ -45,6 +45,11 @@ sources:
     publisher: OndaCero
     date: 2026-11-04
     language: es
+  - title: Detenido en Palencia el destinatario de un paquete con más de 300 gramos de marihuana y cocaína
+    url: https://www.europapress.es/castilla-y-leon/noticia-detenido-palencia-destinatario-paquete-mas-300-gramos-marihuana-cocaina-20261104103713.html
+    publisher: Europa Press
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the inspection; 4 November 2026 is the publication and police-report date and is used as the incident date.
   - The reported value of almost 5,000 euros covers cocaine and marijuana together, so no cannabis-only value is recorded.
@@ -56,15 +61,15 @@ open_questions:
 
 The Guardia Civil detained the recipient of a parcel containing cocaine and
 marijuana in Palencia after finding it during an inspection at a parcel company.
-[@1,4] The arrested person is under investigation as the alleged perpetrator of a
+[@1,4,5] The arrested person is under investigation as the alleged perpetrator of a
 drug-trafficking offence against public health. [@1] After the discovery,
 officers identified the recipient, detained that person, and placed the detainee
-and the proceedings at judicial disposal. [@1,4]
+and the proceedings at judicial disposal. [@1,4,5]
 
 Officers had flagged the shipment during the inspection because it aroused
-suspicion that it could contain illicit substances. [@1] Removing the outer
+suspicion that it could contain illicit substances. [@1,5] Removing the outer
 wrapping, they found 50.55 grams of cocaine and 274 grams of marijuana, the
-latter being the cannabis amount recorded here. [@1,4] Palencia en la Red
+latter being the cannabis amount recorded here. [@1,4,5] Palencia en la Red
 independently reports the same finding of 50.55 grams of cocaine and 274 grams
 of marijuana after the outer wrapping was removed. [@2] Radio Palencia likewise
 reports 50.55 grams of cocaine and 274 grams of marijuana, with the whole haul
@@ -72,6 +77,6 @@ given a combined illicit-market value of almost 5,000 euros. [@3]
 
 The Guardia Civil estimated that the combined seized substances would be worth
 almost 5,000 euros on the illicit market, so no cannabis-only value is recorded.
-[@1,4] The published accounts give no origin for the parcel and no details about
+[@1,4,5] The published accounts give no origin for the parcel and no details about
 its sender, nor the detainee's situation after being placed at judicial
 disposal. [@1]
