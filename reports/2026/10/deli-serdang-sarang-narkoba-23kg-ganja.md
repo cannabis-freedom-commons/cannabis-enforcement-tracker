@@ -194,6 +194,11 @@ sources:
     publisher: Surya Indonesia
     date: 2026-11-04
     language: id
+  - title: 'Polresta Deli Serdang Gempur Sarang Narkoba: 57 Tersangka Diciduk, 47 Kilogram Sabu Dan Ganja Disita!'
+    url: https://www.cyber88.co.id/berita/47895/polresta-deli-serdang-gempur-sarang-narkoba-57-tersangka-diciduk-47-kilogram-sabu-dan-ganja-disita.html
+    publisher: CYBER88
+    date: 2026-11-03
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -249,10 +254,13 @@ open_questions:
   - This account rounds the cannabis seizure to 24 kilograms and the methamphetamine to 23 kilograms, while the existing report uses the police detailed totals of 23,517.86 grams of ganja and 23,010.24 grams of methamphetamine.
   - 4 November 2026 is this account's publication date; the article gives no separate date for the operation, which the existing report dates to 9-29 October with results presented on 30 October 2026.
   - The page's only apparent event photograph has no caption or credit identifying the event, so no media entry is added from this page.
+  - 3 November 2026 is this article's publication date; the existing report dates the operation results presentation to 30 October 2026 and this article gives no separate operation date.
+  - This account rounds the ganja seizure to 24 kg and the sabu to 23 kg, while the existing report uses the police detailed totals of 23,517.86 grams of ganja and 23,010.24 grams of methamphetamine.
+  - The page's only image carries the article headline as caption with no credit identifying the event, so no media entry is added from this page.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17,18,19,20,21,23,24] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17,18,19,20,21,23,24,25] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4,18] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -260,7 +268,7 @@ cannabis seizure had saved 94,071 lives and valued the ganja at Rp35,276,000.
 [@1,4,18]
 
 Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or
-dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17,18,19,20,22,23,24] The operation covered districts including Lubuk
+dealers, and 36 as users. [@1,2,4,6,7,8,10,13,14,16,17,18,19,20,22,23,24,25] The operation covered districts including Lubuk
 Pakam, Tanjung Morawa, Pantai Labu, Batang Kuis and Galang. [@3] The largest
 methamphetamine find was 21,351.86 grams taken from suspect Alfa Reza. [@3,18]
 
