@@ -27,6 +27,10 @@ sources:
     url: https://cumbriacrack.com/2026/11/04/barrow-men-jailed-after-police-raid-finds-6755-worth-of-cocaine-and-cannabis/
     publisher: Cumbria Crack
     date: 2026-11-04
+  - title: Father and son jailed for cocaine and cannabis supply
+    url: https://www.newsandstar.co.uk/news/26700452.barrow-father-son-jailed-cocaine-cannabis-supply/
+    publisher: News and Star
+    date: 2026-11-04
 open_questions:
   - No separate sentencing date was published; 4 November 2026 is the article publication date and is used as the incident date.
   - No separate cannabis weight or cannabis-only value was published; the approximately £6,755 valuation covers all seized substances together and is excluded from cannabis figures.
@@ -37,19 +41,20 @@ open_questions:
   - The page image shows Jaydon Morgan and Simon Morgan credited to Cumbria Police and does not show the drugs, search or seizure, so no media entry is included.
   - The new account dates the sentencing to Tuesday, 3 November, while the existing report uses the 4 November publication date as the incident date.
   - The only image in the new account shows Jaydon Morgan and Simon Morgan and does not show the search, drugs or seizure, so no media entry is added.
+  - The News and Star page canonical URL points to The Mail article already cited, so it appears to be a republication of the same Newsquest text rather than an independent account.
 ---
 
 Preston Crown Court sentenced 20-year-old Jaydon Morgan and 43-year-old Simon
-Morgan, both of Greengate Street in Barrow. [@1,2] The case followed an
+Morgan, both of Greengate Street in Barrow. [@1,2,3] The case followed an
 investigation by Cumbria Police's Westmorland and Furness Community Serious and
 Organised Crime team. [@1,2] Jaydon Morgan was jailed for three years and four
 months after admitting being concerned in the supply of Class A and Class B
-drugs and possession of a Class B drug. [@1,2] Simon Morgan was jailed for four
+drugs and possession of a Class B drug. [@1,2,3] Simon Morgan was jailed for four
 years and six months for possession with intent to supply Class A drugs. [@1,2]
 
-Officers executed a warrant at their home address on February 11 2026. [@1,2]
+Officers executed a warrant at their home address on February 11 2026. [@1,2,3]
 During the searches officers recovered Class A and Class B drugs later confirmed
-as cocaine and cannabis, along with about £3,280 in cash. [@1,2] A drugs expert
+as cocaine and cannabis, along with about £3,280 in cash. [@1,2,3] A drugs expert
 estimated that the seized substances had a street value of approximately £6,755.
 [@1,2] Officers also seized two mobile phones belonging to the men. [@1,2]
 
