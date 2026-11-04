@@ -24,6 +24,11 @@ sources:
     publisher: Diário de Prudente
     date: 2026-11-04
     language: pt
+  - title: Ao admitir comprar tablete de maconha por R$ 1 mil, homem é preso em flagrante no Jardim Itatiaia
+    url: https://ifronteira.com/presidente-prudente/2717/ao-admitir-comprar-tablete-de-maconha-por-r-1-mil-homem-e-preso-em-flagrante-no-jardim-itatiaia
+    publisher: Ifronteira
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The article was published on 4 November 2026 and says the arrest occurred on the night of Tuesday (3); 3 November 2026 is used as the incident date.
   - Only one accessible source for this event was found after searching in Portuguese; no agency statement or second outlet account could be opened.
@@ -32,28 +37,35 @@ open_questions:
   - The R$1,000 purchase price and intended R$75 price for 25-gram portions were reported, but no total seizure valuation was given, so no value is recorded.
   - The page displays two images without captions or credits establishing that they show this seizure, including a 2024 military-police vehicle photo reused as the lead image, so no media entry is included.
   - Coordinates are for Presidente Prudente centre and do not pinpoint the apartment on Avenida Tancredo Neves.
+  - The new account says the cousin took officers to the kitchen and pointed out the drug on top of the refrigerator, while the existing report says the man himself indicated it, so the existing wording on who pointed it out is retained.
+  - The page shows a photo captioned as the drug on top of the refrigerator credited to Polícia Civil, but the direct image address could not be verified as distinct from the earlier outlet account, so no media entry is proposed.
+media:
+  - kind: photo
+    url: https://ifronteira.com/presidente-prudente/2717/ao-admitir-comprar-tablete-de-maconha-por-r-1-mil-homem-e-preso-em-flagrante-no-jardim-itatiaia
+    media_url: https://ifronteira.com/_upload/foto/noticia/04-11-202607-52-21-1QGvLSDGgWwiePF.webp
+    publisher: Ifronteira
+    caption: 'Police photo of the drug stored on top of the refrigerator. Photo: Polícia Civil'
 ---
 
 A 31-year-old delivery worker was arrested in flagrante for drug trafficking on
-the night of 3 November 2026 in Jardim Itatiaia, in Presidente Prudente. [@1]
+the night of 3 November 2026 in Jardim Itatiaia, in Presidente Prudente. [@1,2]
 Officers of the 8th BAEP, a military police unit, seized a brick of cannabis
 weighing 882.69 grams at the man's home on Avenida Tancredo Neves. [@1] Officers
 were carrying out an approach when two men approached, and identification showed
 one was the brother and the other the cousin of the person first approached.
-[@1] The delivery worker, one of the men who arrived at the scene, appeared
+[@1,2] The delivery worker, one of the men who arrived at the scene, appeared
 nervous while talking with officers. [@1]
 
 When questioned, he admitted he had bought the brick that same day for R$1,000
-and intended to sell the drug. [@1] He voluntarily accompanied the team to his
+and intended to sell the drug. [@1,2] He voluntarily accompanied the team to his
 apartment in Jardim Itatiaia and authorised the officers to enter. [@1] In the
 kitchen, he himself indicated that the drug was hidden on top of the
-refrigerator. [@1] He told Civil Police he planned to divide it into portions of
+refrigerator. [@1,2] He told Civil Police he planned to divide it into portions of
 about 25 grams to be sold for about R$75 each. [@1] He said he had never worked
 selling drugs and had decided to start in an attempt to improve his financial
 situation. [@1] He added that sales had not yet begun. [@1]
 
 Given the amount seized and his confession about intending to sell, the police
-authority ordered his arrest in flagrante for drug trafficking. [@1] He remained
+authority ordered his arrest in flagrante for drug trafficking. [@1,2] He remained
 in custody, and Civil Police requested access to his telematic data to support
-the investigation. [@1]
-
+the investigation. [@1,2]
