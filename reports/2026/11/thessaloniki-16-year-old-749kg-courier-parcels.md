@@ -125,6 +125,11 @@ sources:
     publisher: Googlareis.gr
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: Συνελήφθη 16χρονος ενώ παραλάμβανε δέμα με 2 κιλά κάνναβης – Βρέθηκε δεύτερο με 5 κιλά'
+    url: https://www.dedomeno.gr/ellada/858312/thessaloniki-synelifthi-16chronos-eno-paralamvane-dema-me-2-kila-kannavis-vrethike-deytero-me-5-kila/
+    publisher: ΔΕΔΟΜΕΝΟ
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -165,21 +170,21 @@ open_questions:
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20,21] He is accused of violating drugs and
 foreigners legislation. [@1,3,8,14] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
 [@2,4,5,6,7,8,9,12,13,14,15,16,18,19,20] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19,20]
+to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19,20,21]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18,19,20] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18,19,20] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18,19,20] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18,19,20]
+addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18,19,20,21] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18,19,20,21] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18,19,20,21]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1,14,17,20] Police in Thessaloniki made the arrest on Tuesday, 3
-November 2026. [@2,3,6,7,10,13,14,16,20]
+November 2026. [@2,3,6,7,10,13,14,16,20,21]
 
 The controlled-delivery parcel came from the United States. [@11] The arrested boy is Albanian. [@11] The boy's father is also in prison for drug trafficking. [@11]
