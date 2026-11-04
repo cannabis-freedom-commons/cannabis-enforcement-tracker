@@ -29,6 +29,11 @@ sources:
     publisher: Mi Diario
     date: 2026-11-03
     language: es
+  - title: Decomisan 914 paquetes de presunta marihuana en Darién; dos personas aprehendidas
+    url: https://www.tvn-2.com/nacionales/decomisan-914-paquetes-presunta-marihuana-dos-personas-aprehendidas-darien_1_2269358.html
+    publisher: TVN Panamá
+    date: 2026-11-03
+    language: es
 open_questions:
   - No weight for the 914 packages was published, only the package count, so no kilograms can be recorded.
   - The article gives no separate date for the operation; 3 November 2026 is its publication date and is used as the incident date.
@@ -38,21 +43,20 @@ open_questions:
 ---
 
 Panama’s border service detained two people in an anti-narcotics operation in
-Playa Muerto, in Darién province. [@1] The operation was carried out by
+Playa Muerto, in Darién province. [@1,2] The operation was carried out by
 antinarcotics units of the First Eastern Brigade of the National Border Service
 (Senafront), with support from the National Aeronaval Service and in
-coordination with the Public Ministry. [@1] The two people detained and all the
+coordination with the Public Ministry. [@1,2] The two people detained and all the
 evidence collected were placed at the disposal of the competent authorities for
-investigation and judicial proceedings. [@1]
+investigation and judicial proceedings. [@1,2]
 
 During the intervention officers located 914 rectangular packages wrapped in
-adhesive tape, which are presumed to contain marijuana. [@1] Officers also
+adhesive tape, which are presumed to contain marijuana. [@1,2] Officers also
 seized mobile telephones, global positioning system (GPS) devices and a boat
-fitted with two outboard motors. [@1]
+fitted with two outboard motors. [@1,2]
 
 The operation was conducted within Plan Firmeza and the Fiestas Patrias and
-Escudo de Acero operations. [@1] Senafront maintains surveillance and
+Escudo de Acero operations. [@1,2] Senafront maintains surveillance and
 interdiction operations along Darién’s coasts to combat drug trafficking and to
 prevent transnational criminal organisations from using Panamanian territory for
-their activities. [@1]
-
+their activities. [@1,2]
