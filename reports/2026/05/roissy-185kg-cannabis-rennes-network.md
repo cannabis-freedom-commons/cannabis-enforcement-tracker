@@ -34,11 +34,18 @@ sources:
     publisher: actu Rennes
     date: 2026-06-08
     language: fr
+  - title: '185 kg de cannabis dans leurs valises : quatre mules interpellées à l’aéroport de Roissy, un Rennais à la tête du réseau'
+    url: https://www.ouest-france.fr/societe/faits-divers/185-kg-de-cannabis-dans-leurs-valises-quatre-mules-interpellees-a-laeroport-de-roissy-un-rennais-a-la-tete-du-reseau-513afb5c-4e35-11f1-88ee-769cab556f2f
+    publisher: Ouest-France
+    date: 2026-06-05
+    language: fr
 open_questions:
   - RCI describes the 185 kilograms as cannabis resin while actu Rennes describes pressed resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
   - The reports say the five men were placed in pretrial detention under a judicial investigation but do not state formal charge wording or any court outcome.
   - No cannabis-only monetary valuation was published; the three-times-price comparison is a resale-price description, not a seizure valuation.
   - The submitted page's lead image uses a 2023 resin-illustration file and is not established to show this seizure, so no media entry is included.
+  - Only the opening of the Ouest-France article could be read; the remainder is paywalled, so later custody, charge or court details are not established from this source.
+  - The page image is credited to AFP with a caption describing the interception and is not established to show this seizure, so no media entry is included.
 ---
 
 Border police detained four men at Paris-Charles-de-Gaulle airport on 2 May 2026
@@ -50,9 +57,9 @@ and assigned the investigation to OFAST, France's anti-drug office. [@3] The
 four airport suspects were brought back to Rennes and held in police custody
 there. [@3]
 
-A routine customs check of the couriers' suitcases uncovered the cannabis. [@1]
-Officers seized 185 kilograms of cannabis from those suitcases. [@2] The load
-included pressed resin loaves and bags of cannabis herb. [@3] The four are
+A routine customs check of the couriers' suitcases uncovered the cannabis. [@1,4]
+Officers seized 185 kilograms of cannabis from those suitcases. [@2,4] The load
+included pressed resin loaves and bags of cannabis herb. [@3,4] The four are
 described as suspected drug transporters. [@2] Investigators say they moved
 cannabis between Brittany and Martinique, where cannabis resin sells for more.
 [@2]
@@ -67,4 +74,3 @@ there for three times the mainland price. [@3] The suspected method was to
 exchange cannabis for cocaine with no money changing hands. [@3] Rennes
 prosecutor Frédéric Teillet said that account remains to be established by the
 judicial investigation. [@3]
-
