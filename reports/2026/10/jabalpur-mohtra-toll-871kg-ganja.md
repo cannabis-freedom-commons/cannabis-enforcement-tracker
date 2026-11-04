@@ -296,6 +296,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'Jhansi News: जबलपुर में ट्रक से 871 किलो गांजा बरामद, दो तस्कर गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/jhansi/871-kg-of-cannabis-seized-from-a-truck-in-jabalpur-two-smugglers-arrested-jhansi-news-c-11-1-jhs1019-908448-2026-11-01
+    publisher: Amar Ujala
+    date: 2026-11-01
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -374,6 +379,12 @@ open_questions:
   - This account spells the second accused's surname as Karamakar, while the existing report uses Karmakar.
   - The article gives no separate clock time for the interception beyond after midnight on Friday, while the existing report records around 2 am on 31 October 2026.
   - The submitted page carries one image captioned only with the headline and with no credit, so it could not be confirmed to show this seizure and no media entry is added from it.
+  - This Amar Ujala account reports 29 sacks in a truck valued at about Rs 1.30 crore, while the existing report records 28 sacks hidden among 412 paint cans in a container valued at Rs 4,35,55,000.
+  - This account spells the second accused Vikram Karamakar while the existing report uses Vikram Karmakar, though both describe a resident of South Dinajpur, West Bengal.
+  - This account places the interception near Muskura Mor on NH-30 in the Gosalpur area while the existing report records a blockade at the Mohtra toll plaza.
+  - This account dates the interception to after midnight on Friday and was published on 1 November 2026, while the existing report records around 2 am on 31 October 2026.
+  - This account attributes the Jhansi-Lalitpur-Mathura-Aligarh-Maihar supply route to Dharamveer's questioning rather than directly to police.
+  - The submitted page lists two images captioned only with the headline and with Vikram, smuggler and no credit, which could not be confirmed to show this seizure, so no media entry was added.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -409,7 +420,7 @@ were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28,31,3
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12,19,34]
 
-The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15,29,43] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15,43]
+The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the operation under its in-charge, Chandan Pandey. [@3,5,8,14,15,29,43,44] Questioning indicated the ganja was supplied in Uttar Pradesh as well as Madhya Pradesh. [@3,14,15,43]
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5,18] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
@@ -417,7 +428,7 @@ The container's registration number was NL-01-AC-7191, police said. [@9,24,26,27
 
 Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10,34]
 
-Dharamveer Singh had been caught in Odisha before, police said. [@14,43] The search for Prabhat Sahu, who had fled, was continuing. [@14] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14]
+Dharamveer Singh had been caught in Odisha before, police said. [@14,43,44] The search for Prabhat Sahu, who had fled, was continuing. [@14,44] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14,44] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14,44]
 
 Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16,27] Police also seized the container and the 412 paint tins. [@16,25,37,41]
 
