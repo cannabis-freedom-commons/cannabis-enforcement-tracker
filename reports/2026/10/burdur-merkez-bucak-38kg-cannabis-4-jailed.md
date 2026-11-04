@@ -61,6 +61,11 @@ sources:
     publisher: Saray Medya
     date: 2026-11-03
     language: tr
+  - title: Burdur ve Bucak’ta Jandarmadan Uyuşturucuya Darbe! 4 Şüpheli Cezaevine Gönderildi
+    url: https://www.nnchaber.com/amp/burdur-ve-bucak-ta-jandarmadan-uyusturucuya-darbe-4-supheli-cezaevine-gonderildi
+    publisher: NNCHaber.com
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The sources give only the 21-28 October 2026 operation window, not separate dates for individual raids, so the report uses 28 October 2026 as the incident date.
   - The 122 grams of cannabis seeds are described but are not counted in the cannabis weight or plant figures.
@@ -72,16 +77,16 @@ open_questions:
 Burdur provincial gendarmerie narcotics teams carried out anti-narcotics work in
 the Merkez and Bucak districts between 21 and 28 October 2026 under the
 coordination of the Burdur and Bucak chief public prosecutors, according to a
-Burdur Governorship statement. [@1,3,4,5] The gendarmerie started judicial proceedings
+Burdur Governorship statement. [@1,3,4,5,7] The gendarmerie started judicial proceedings
 against 10 suspects for illegal cannabis cultivation, drug manufacture and
 trade, and purchasing, accepting, possessing and using drugs for personal use.
-[@1,3,4,5,6] Four of the suspects were remanded in custody, known in Turkey as
+[@1,3,4,5,6,7] Four of the suspects were remanded in custody, known in Turkey as
 tutuklama, and sent to Isparta E Type Closed Prison, while two were released
-under judicial control and four were released after giving statements. [@1,3,4,6]
+under judicial control and four were released after giving statements. [@1,3,4,6,7]
 
 Officers seized 3 kg 820 g of kubar esrar, a cannabis preparation also called
-hashish. [@1,3,4,5,6] They also seized 7 grams of esrar, 6.62 grams of esrar rolled in
-cigarettes, five cannabis plant roots and 122 grams of cannabis seeds. [@2,3,5,6] The
+hashish. [@1,3,4,5,6,7] They also seized 7 grams of esrar, 6.62 grams of esrar rolled in
+cigarettes, five cannabis plant roots and 122 grams of cannabis seeds. [@2,3,5,6,7] The
 same searches also found 11 grams of methamphetamine, 4.5 grams of heroin, six
 doses of synthetic cannabinoid, three drug-use implements and 15 litres of
 illicit homemade whisky, none of which is counted in the cannabis figures. [@2,6]
