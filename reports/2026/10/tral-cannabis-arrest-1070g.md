@@ -34,6 +34,10 @@ sources:
     url: https://www.dailyexcelsior.com/police-arrest-9-drug-peddlers/
     publisher: Daily Excelsior
     date: 2026-11-01
+  - title: 9 drug peddlers arrested
+    url: https://thekashmirimages.com/2026/10/31/9-drug-peddlers-arrested/
+    publisher: Kashmir Images
+    date: 2026-10-31
 open_questions:
   - The account gives no separate arrest date; 31 October 2026 is the page's publication date, and “on Saturday” refers to when officials spoke.
   - The identity of the approximately 30 grams described as a cannabis-like substance is unconfirmed; the figure records only the 1.070 kg explicitly identified as cannabis.
@@ -44,7 +48,7 @@ open_questions:
 Awantipora police arrested one alleged drug peddler in Tral during a naka
 checking operation, a roadside checkpoint check, and said they recovered more
 than one kilogram of cannabis from him. [@1] Police identified the accused as
-Owais Ahmed Khan, a resident of Yanganwani Aripal. [@1,2] A team from Police
+Owais Ahmed Khan, a resident of Yanganwani Aripal. [@1,2,3] A team from Police
 Station Tral, headed by station house officer Inspector Tajamul Islam,
 apprehended him during checks on the Tral-Awantipora road near Fiza Point. [@1]
 

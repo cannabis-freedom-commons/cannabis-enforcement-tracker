@@ -1,6 +1,9 @@
 // Retired duplicate URLs and codes keep pointing to their canonical report.
 export default {
   "slugs": {
+    "obioha-singapore-cannabis-death-sentence-2008": "chijioke-obioha-hanged",
+    "tobruk-400kg-hashish": "libya-tobruk-hashish-2026",
+    "chauddagram-111kg-cannabis-four-arrests": "chauddagram-baburchi-bazar-111kg-two-arrests",
     "santantimo-21-year-old-cannabis-arrest": "sant-antimo-via-svizzera-cannabis-arrest",
     "doncaster-balby-180-plants-arrest": "doncaster-balby-180-plant-raid-arrest",
     "aceh-sawang-18-hectare-eradication": "indonesia-north-aceh-cannabis-18-hectares-2026",
@@ -98,6 +101,9 @@ export default {
     "kullu-koot-299kg-charas-arrest": "kullu-ani-koot-2990g-charas-arrest"
   },
   "codes": {
+    "02WRPN": "chijioke-obioha-hanged",
+    "8JVT39": "libya-tobruk-hashish-2026",
+    "TY1RDR": "chauddagram-baburchi-bazar-111kg-two-arrests",
     "MCDAXC": "sant-antimo-via-svizzera-cannabis-arrest",
     "9D61RH": "doncaster-balby-180-plant-raid-arrest",
     "GNGP4M": "indonesia-north-aceh-cannabis-18-hectares-2026",

@@ -50,6 +50,10 @@ sources:
     url: https://risingkashmir.com/jammu-and-kashmir-news/kashmir/bandipora-police-intensify-crackdown-on-drugs-crime-in-october-six-arrested-in-uapa-case-12777422
     publisher: Rising Kashmir
     date: 2026-11-02
+  - title: 9 drug peddlers arrested
+    url: https://thekashmirimages.com/2026/10/31/9-drug-peddlers-arrested/
+    publisher: Kashmir Images
+    date: 2026-10-31
 open_questions:
   - Police described the seizure both as 1.03 kg of charas and as approximately 1.030 kg of a charas-like substance; no laboratory result was published.
   - No court appearance or outcome beyond registration of FIR 31/2026 was reported.
@@ -66,7 +70,7 @@ Police arrested two alleged drug peddlers during naka checking, a police
 checkpoint stop, in the Pethkoot area of north Kashmir's Bandipora district on
 Saturday 31 October 2026. [@1,4,6] The men were identified as Gh. Mohd Bhat and
 Manzoor Ahmad Bhat, both residents of Wewan village, and were stopped at Lal
-Qila Morh by a party from Police Station Pethkoot. [@1,3,4,6]
+Qila Morh by a party from Police Station Pethkoot. [@1,3,4,6,7]
 
 During the search, police recovered a bag containing approximately 1.030 kg of a
 charas-like substance. [@1,5,6] Police described the seizure as 1.03 kg of charas.
