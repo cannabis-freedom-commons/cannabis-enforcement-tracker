@@ -34,25 +34,31 @@ sources:
     url: https://ua.news/en/ukraine/u-shepetivtsi-suditimut-cholovika-u-iakogo-viluchili-ponad-400-kushchiv-konopel
     publisher: UA.NEWS
     date: 2026-11-04
+  - title: У Шепетівці судитимуть чоловіка, у якого вилучили понад 400 кущів конопель
+    url: https://ua.news/ua/ukraine/u-shepetivtsi-suditimut-cholovika-u-iakogo-viluchili-ponad-400-kushchiv-konopel
+    publisher: UA.NEWS
+    date: 2026-11-04
+    language: uk
 open_questions:
   - The article gives no separate date for the search or cultivation; 4 November 2026 is its publication date and is used as the incident date.
   - No weight for the dried plants in the attic was published, so no kilograms can be recorded.
   - No arrest, detention or custody details were reported beyond the coming trial.
   - No court outcome was reported; the case was only sent to court.
   - Only one accessible source for this event was found after searching in Ukrainian and English.
+  - The submitted page's image caption only repeats the headline and does not establish that it shows this seizure, so no new media entry is added.
 ---
 
 A 33-year-old man in Shepetivka will stand trial on suspicion of illegally
-growing narcotic plants on a large scale. [@1,2] Police investigators said he had
+growing narcotic plants on a large scale. [@1,2,3] Police investigators said he had
 sown a sizable plot with cannabis at his home and yard. [@1]
 
 During an authorised search, officers found more than 400 bushes growing in the
-open and dried narcotic-containing plants in the attic of the house. [@1,2] Police
+open and dried narcotic-containing plants in the attic of the house. [@1,2,3] Police
 seized the more than 400 cannabis bushes and the dried plants from him. [@1,2]
-Forensic examination confirmed that the seized material is cannabis. [@1,2]
+Forensic examination confirmed that the seized material is cannabis. [@1,2,3]
 
 Investigators completed the pre-trial investigation and sent an indictment to
-court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2] The man faces
+court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2,3] The man faces
 serious punishment if convicted, with no verdict yet reported. [@1]
 
 The man was caught in September. [@2] Investigators from the Shepetivka District Police Department, under the procedural guidance of the prosecutor’s office, completed the pretrial investigation and submitted the indictment to the court. [@2]
