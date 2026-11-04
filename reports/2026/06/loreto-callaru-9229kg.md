@@ -23,6 +23,9 @@ open_questions:
   - The ministry calls the load suspected cannabis sativa, pending forensic tests of what it is and where it came from.
   - No arrests were reported.
   - La República, citing the Amazon operational command, links the load to the armed group Comandos de Frontera and describes a stash point with surveillance equipment. The ministry statement does not say either of those things.
+  - Infobae published on 1 July 2026, a day after the defence ministry's 30 June announcement; the seizure's own day is still given only as the announcement date.
+  - Infobae follows the ministry account and does not mention the Comandos de Frontera link or surveillance-equipped stash point, which remain supported only by La República.
+  - 'No new distinct media is claimed: the lead image is labelled as an Infobae composition and the other usable images are credited only as Difusión, appearing to repeat the agency handout already cited.'
 sources:
   - title: Fuerzas Armadas de Perú y Colombia golpean al tráfico ilícito de drogas en Loreto e incautan más de 9 toneladas de cannabis sativa
     url: https://www.gob.pe/institucion/mindef/noticias/1412932-fuerzas-armadas-de-peru-y-colombia-golpean-al-trafico-ilicito-de-drogas-en-loreto-e-incautan-mas-de-9-toneladas-de-cannabis-sativa
@@ -33,6 +36,11 @@ sources:
     url: https://larepublica.pe/politica/2026/06/30/loreto-incautan-casi-10-toneladas-de-marihuana-en-operativo-conjunto-de-peru-y-colombia-narcotrafico-hnews-555390
     publisher: La República
     date: 2026-06-30
+    language: es
+  - title: Incautan más de nueve toneladas de presunto cannabis durante operación conjunta en la frontera entre Perú y Colombia
+    url: https://www.infobae.com/peru/2026/07/01/incautan-mas-de-nueve-toneladas-de-presunto-cannabis-durante-operacion-conjunta-en-la-frontera-entre-peru-y-colombia/
+    publisher: Infobae
+    date: 2026-07-01
     language: es
 media:
   - kind: photo
@@ -47,17 +55,17 @@ media:
 
 Peru's defence ministry said on 30 June 2026 that the armed forces of Peru and
 Colombia had seized 9,229.1 kilograms of suspected cannabis sativa at
-Bellavista de Callarú, in the district of Ramón Castilla, Loreto. [@1]
+Bellavista de Callarú, in the district of Ramón Castilla, Loreto. [@1,3]
 
 The Amazon Operational Command ran the operation through the joint PUMA
-command. [@1] It brought in the Colombian navy, the Peruvian army, navy and
+command. [@1,3] It brought in the Colombian navy, the Peruvian army, navy and
 air force, Dirandro, the national police anti-drug directorate, and the
-police frontier directorate. [@1] The ministry described a river deployment in
+police frontier directorate. [@1,3] The ministry described a river deployment in
 Mariscal Ramón Castilla province and said the load was handed at once to the
 competent authorities for the legal record, the chain of custody, and forensic
 tests of what the material was and where it came from. [@1] In the same
 statement it said coca crops in that province now cover about 19,000 hectares.
-[@1]
+[@1,3]
 
 La República, citing the Amazon command, reported that officers had found the
 load at a stash point fitted with surveillance equipment, that it was linked
