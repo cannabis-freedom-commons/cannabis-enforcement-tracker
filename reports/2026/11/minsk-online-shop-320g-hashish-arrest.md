@@ -29,6 +29,11 @@ sources:
     publisher: Минск-Новости
     date: 2026-11-03
     language: ru
+  - title: Создателя интернет-магазина по продаже наркотиков задержали в Минске
+    url: https://belta.by/special/regions/view/sozdatelja-internet-magazina-po-prodazhe-narkotikov-zaderzhali-v-minske-809082-2026/
+    publisher: БЕЛТА
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The articles give no separate date for the detention and searches; 3 November 2026 is their publication date and is used as the incident date.
   - The detained man was not named, only described as a 27-year-old Minsk resident.
@@ -39,18 +44,17 @@ open_questions:
 ---
 
 Drug-control officers in Minsk detained a 27-year-old Minsk resident who had
-organised an online shop for selling prohibited substances. [@2] He was
+organised an online shop for selling prohibited substances. [@2,3] He was
 registered as self-employed and worked drilling wells, while first working as a
 zakladchik, a courier who places drugs in hidden caches, for another drug shop
-and equipping caches during work trips. [@1] Police said his main income came
+and equipping caches during work trips. [@1,3] Police said his main income came
 from the drug scheme rather than the drilling work. [@2] He later bought large
 batches of prohibited substances, divided them into small doses and sold them
-through the online shop he had created. [@1] Deputy Zavodsky district police
+through the online shop he had created. [@1,3] Deputy Zavodsky district police
 chief Dmitry Belik, the criminal-police chief, gave these details. [@1]
 Investigators opened a criminal case for illegal drug trafficking with intent to
 sell, and the detained man faces up to 15 years in prison. [@1]
 
 Officers searching his flat and caches he had equipped in Minsk found and seized
-more than 320 grams of hashish, police said. [@1] Police said the online shop
-has been liquidated. [@2]
-
+more than 320 grams of hashish, police said. [@1,3] Police said the online shop
+has been liquidated. [@2,3]
