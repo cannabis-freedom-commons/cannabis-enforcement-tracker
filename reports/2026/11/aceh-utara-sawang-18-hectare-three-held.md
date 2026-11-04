@@ -26,6 +26,16 @@ media:
     media_url: https://img.antaranews.com/cache/1200x800/2026/11/02/Operasi-pemusnahan-ladang-ganja-Aceh-021126-Rmd-1-1.jpg
     publisher: ANTARA
     caption: 'Joint personnel burning cannabis plants during the 2 November eradication operation. Photo: Rahmad/ANTARA FOTO'
+  - kind: photo
+    url: https://rri.co.id/lhokseumawe/hukum/hukum/2865623/bnn-dan-polri-temukan-25-hektar-ladang-ganja-siap-panen-di-aceh-utara
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/lhokseumawe/thumbs/full_1793625308930842_8aa9ce20bb_berita_lhokseumawe.webp
+    publisher: RRI.co.id
+    caption: 'BNN and Polri officers burning harvest-ready cannabis plants during the destruction. Photo: RRI/Saiful'
+  - kind: photo
+    url: https://rri.co.id/lhokseumawe/hukum/hukum/2865623/bnn-dan-polri-temukan-25-hektar-ladang-ganja-siap-panen-di-aceh-utara
+    media_url: https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/misc/image/1793625553685280_d22036a4da_ganja.webp
+    publisher: RRI.co.id
+    caption: 'The 25-hectare cannabis field found in Aceh Utara. Photo: RRI/Saiful'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: de642c1b164fc2303ea6cab702bef1dd
@@ -61,6 +71,11 @@ sources:
     publisher: ANTARA Foto
     date: 2026-11-02
     language: es
+  - title: BNN dan Polri Temukan 25 Hektar Ladang Ganja Siap Panen di Aceh Utara
+    url: https://rri.co.id/lhokseumawe/hukum/hukum/2865623/bnn-dan-polri-temukan-25-hektar-ladang-ganja-siap-panen-di-aceh-utara
+    publisher: RRI.co.id
+    date: 2026-11-02
+    language: id
 open_questions:
   - No plant count, seized weight, estimated value, or charges and case outcome for the three detainees were published.
   - The same hamlet and village hosted a 27-28 October 2026 operation covering the same reported 18 hectares with four different detainees (MW, HM, SF, WD); whether the 2 November burning revisited the same fields or separate fields is unresolved.
@@ -68,18 +83,25 @@ open_questions:
   - Republika and detik republish the same ANTARA FOTO/Rahmad photographs and captions rather than providing an independent agency account of the three arrests.
   - The page's single event photo credited Doc. ANTARA FOTO/Rahmad appears to republish the same ANTARA handout already listed in the report, so no new media entry is added.
   - The page's main photo uses the same ANTARA FOTO/Rahmad handout of the 2 November burning already represented in the existing report, so no new media entry is added.
+  - The RRI account reports about 25 hectares for the 2 November Teupin Rusep operation while the existing report records about 18 hectares for the same date, place and three suspects.
+  - The RRI account gives an estimate of 37.500 for the 25-hectare follow-up without stating the unit, so no plant figure can be recorded.
+  - The RRI account describes the three suspects as seeders, planters and site seekers while the existing report describes them as suspected field owners, and the RRI account gives no ages.
+  - The RRI account does not name charges, Narcotics Law articles, plant weights, values or any court outcome beyond detention at Polres.
+  - The RRI recap of a 122.86-hectare total and earlier phases belongs to the wider 27 October to 2 November campaign already recorded separately.
+  - 'Left out, as its quotation was not found in RRI.co.id: Officers detained three suspects identified only by the initials L, T and W.'
+  - 'Left out, as its quotation was not found in RRI.co.id: The three suspects acted as seeders, planters and locators who sought plantation sites to evade officers.'
 ---
 
 A joint enforcement team arrested three men described as suspected owners of
 cannabis fields in North Aceh, identified only by the initials L (35), T (42)
 and W (32). [@1,4,5,6] The operation took place on Monday 2 November 2026 on
 plantation slopes at Alue Garut hamlet in Teupin Ruseb village, Sawang district.
-[@1,4,5,6] The agencies involved were the National Police Criminal Investigation
+[@1,4,5,6,7] The agencies involved were the National Police Criminal Investigation
 Agency's drug-crime directorate (Direktorat Tindak Pidana Narkoba Bareskrim
-Polri), the National Narcotics Agency (BNN) and Lhokseumawe police. [@1,4,5,6]
+Polri), the National Narcotics Agency (BNN) and Lhokseumawe police. [@1,4,5,6,7]
 
 Officers found about 18 hectares of cannabis with harvest-ready plants. [@2,4,5,6]
-They collected the uprooted plants and burned them on site. [@2,4,6] Personnel were
+They collected the uprooted plants and burned them on site. [@2,4,6,7] Personnel were
 photographed carrying bundles of plants for burning and setting the piles
 alight. [@3]
 
@@ -87,3 +109,5 @@ The eradication was described as part of efforts to eradicate cannabis
 cultivation and cut off the drug supply at its source. [@2] It was also aimed at
 preventing the ready harvest from being gathered and entering illicit drug
 trafficking. [@2]
+
+The operation was led by BNN acting eradication deputy Brigjen Adri Irniadi and Bareskrim drug director Brigjen Kristian Siagian, accompanied by Lhokseumawe police chief AKBP Ahzan. [@7] The find followed mapping and community information, in extreme terrain about 5 to 7 kilometres from the nearest settlement. [@7] The three suspects were held at Polres for examination to trace those who ordered and funded the fields. [@7]
