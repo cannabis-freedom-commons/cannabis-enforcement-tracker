@@ -39,11 +39,17 @@ sources:
     url: https://13wham.com/news/nation-world/tailgating-and-faulty-tail-lamps-traffic-stop-uncovers-nearly-500-pounds-of-cannabis-kevin-wilbur-quinton-carle-saratoga-county-sheriff-jail-sheriff-jeffrey-r-brown-criminal-possession-drug-trafficking-streets-cbs6-wrgb
     publisher: WHAM / WRGB
     date: 2026-09-14
+  - title: Over 400 pounds of marijuana seized in Clifton Park traffic stop
+    url: https://www.news10.com/video/over-400-pounds-of-marijuana-seized-in-clifton-park-traffic-stop/12167505/
+    publisher: NEWS10 ABC
+    date: 2026-09-14
 open_questions:
   - The stop date of 8 September 2026 comes from the Daily Voice account of Tuesday, Sept. 8; WNYT gives only Tuesday at 2:28 p.m., while Saratoga TODAY says Sept. 15, so 8 September is used as the shared incident date.
   - No cannabis value, packaging description, vehicle details, or independent weighing beyond the sheriff's 489-pound count was published.
   - No court outcome beyond arraignment, remand for Wilbur and release for Carle was reported.
   - The WNYT page image has an empty caption and alt text, so whether it shows this seizure could not be established and no media entry is added for it.
+  - The NEWS10 page provides only a 27-second video title, publication stamp and thumbnail with no article body or transcript, so arrests, charges and the exact 489-pound count are not repeated in the opened text.
+  - The NEWS10 headline rounds the seizure to over 400 pounds while the existing report uses the sheriff's 489-pound count; 489 pounds is used as the shared figure.
 ---
 
 Saratoga County sheriff's deputies arrested Kevin C. Wilbur, 46, of Brushton and
@@ -57,11 +63,10 @@ recognizance pending further proceedings in that court. [@1]
 Deputies had stopped the vehicle on Tuesday, September 8 at about 2:28 p.m. for
 following another vehicle too closely and having insufficient tail lamps. [@2]
 The investigation during the stop led deputies to find 489 pounds (about 221.8
-kilograms) of cannabis in the men's possession. [@1] Wilbur was also cited for
+kilograms) of cannabis in the men's possession. [@1,4] Wilbur was also cited for
 following too closely and having insufficient tail lamps. [@1]
 
 Saratoga County Sheriff Jeffrey R. Brown said deputies had single-handedly
 prevented nearly one-quarter ton of illicit cannabis from reaching the streets.
 [@3] The case was pending further proceedings in Clifton Park Town Court after
 the arraignment. [@3]
-
