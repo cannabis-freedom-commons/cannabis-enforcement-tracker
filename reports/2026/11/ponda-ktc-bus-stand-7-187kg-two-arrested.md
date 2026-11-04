@@ -49,6 +49,11 @@ sources:
     publisher: Navbharat Times
     date: 2026-11-03
     language: hi
+  - title: गोवा में कार्रवाई, 7.18 लाख रुपए का गांजा बरामद, बिहार के दो युवक गिरफ्तार
+    url: https://www.deshbandhu.co.in/goa/operation-in-goa-ganja-worth-rs-718-lakh-seized-two-youths-from-bihar-arrested-329772
+    publisher: Deshbandhu
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The seized material is described as suspected ganja, with no forensic confirmation or court outcome reported beyond arrest and case registration.
   - The Herald Goa page carries an image file named Screenshot-2026-10-30-111336.png dated before the raid whose caption does not establish that it shows this seizure, so no media entry is added.
@@ -61,22 +66,24 @@ open_questions:
   - The exact 1.22 am to 4.59 am time window, Crime No. 21/2026, village-level addresses, two panch witnesses and PSI Sanket Naik's role are from the earlier sources and are not repeated in this source.
   - This source describes Ashish Shirodkar as in-charge DSP, while the existing report records SP Ashish Shirodkar.
   - The page thumbnail is captioned only with the headline about ganja smuggling in Goa and does not establish that it shows this seizure, so no media entry is added.
+  - The Deshbandhu page's lead image is captioned only with the headline and does not establish that it shows this seizure, so no media entry is included.
+  - This source describes Ashish Shirodkar as in-charge DSP and gives only Muzaffarpur and Siwan districts for the accused, while the existing report records SP Ashish Shirodkar and village-level addresses from earlier sources.
 ---
 
 Goa Police's Anti-Narcotic Cell arrested two men from Bihar during a raid at the
-KTC Bus Stand in Ponda. [@1,3,4,5,6] The men were identified as Rahul Kumar, 28, of
+KTC Bus Stand in Ponda. [@1,3,4,5,6,7] The men were identified as Rahul Kumar, 28, of
 Ehiapur, Ahiyapur in Muzaffarpur, and Amit Kumar, 31, of Saghar Sultanpur,
 Bhagwanpur Hat in Siwan. [@2,4,5,6] The operation took place in the early hours of 3
 November 2026, between 1.22 am and 4.59 am, near the Sulabh Sauchalaya at the
 bus stand on specific prior information. [@1,3,4,5,6]
 
 Officers found Rahul Kumar carrying a black polythene bag containing 7.187 kg of
-suspected ganja concealed inside his blue backpack. [@2,4,5,6] The search and seizure
+suspected ganja concealed inside his blue backpack. [@2,4,5,6,7] The search and seizure
 was carried out in the presence of two panch witnesses. [@1] Police valued the
-seized suspected ganja at approximately Rs 7.18 lakh. [@2,5,6]
+seized suspected ganja at approximately Rs 7.18 lakh. [@2,5,6,7]
 
 ANC Police Station registered Crime No. 21/2026 under Sections 20(b)(ii)(B) read
 with Section 29 of the NDPS Act, 1985, against both accused. [@1,4,5,6] The raid was
 led by PSI Sanket Naik with ANC personnel under the supervision of SP
 Harishchandra Madkaikar, SP Ashish Shirodkar and Police Inspector Sagun Sawant.
-[@2] Both men remained arrested while further investigation was under way. [@1,5,6]
+[@2] Both men remained arrested while further investigation was under way. [@1,5,6,7]
