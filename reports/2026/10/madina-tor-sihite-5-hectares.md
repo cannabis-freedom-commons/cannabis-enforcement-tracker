@@ -82,6 +82,12 @@ open_questions:
   - This account gives plant height as 1 to 1.5 metres, while the existing report says about one to two metres.
   - The page shows a field photo captioned as the five-hectare find on Bukit Sihite credited only as dok. Istimewa, which appears to republish the same agency handout already covered, so no media entry is added.
   - The video page gives no separate date, hectare split, plant count or arrest status for the Tor Sihite site; the existing 31 October 2026 date and figures are retained.
+  - This account dates the enforcement to last week without giving a calendar date; 31 October 2026 from other outlets is retained as the incident date.
+  - This account says officers walked nine hours to the site, while the report's main account says about seven hours one way and 14 hours round trip; another account already in the report also says about nine hours.
+  - This account gives the site elevation as about 1,170 metres, while the report also cites 1,117 metres from another outlet.
+  - This account repeats the official rough 30-tonne estimate for ready-to-harvest plants as a gross conversion rather than a weighed total, so no kilograms are added to the retained figures.
+  - This account names no growers, arrests, suspects or charges for the Tor Sihite plots.
+  - The page's preview thumbnail has no caption or credit establishing that it shows the Tor Sihite field, so no media entry is added for this source.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -233,6 +239,11 @@ sources:
     publisher: CNN Indonesia
     date: 2026-11-02
     language: id
+  - title: BNN dan TNI-Polri Musnahkan 30 Ton Ganja Siap Panen di Sumut | SAPA MALAM
+    url: https://www.kompas.tv/regional/699371/bnn-dan-tni-polri-musnahkan-30-ton-ganja-siap-panen-di-sumut-sapa-malam
+    publisher: Kompas.tv
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -283,7 +294,7 @@ media:
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31] No growers were
 named or arrested in either account. [@1,2,24,27,29]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -293,7 +304,7 @@ volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team fo
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
 about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
-about three tonnes of potential production. [@1,28]
+about three tonnes of potential production. [@1,28,31]
 
 The regency police chief, AKBP Bagus Priyandi, took part alongside provincial drug directors,
 according to AnalisaDaily. [@1] Mistar.id said the team walked about 14 hours in slippery rain
@@ -313,7 +324,7 @@ The five-hectare fields sat at 1,117 metres above sea level. [@19] The plants we
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
 
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29] The joint team walked about nine hours to reach the fields. [@24,28,29] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29]
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29] The joint team walked about nine hours to reach the fields. [@24,28,29,31] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29]
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26]
 
