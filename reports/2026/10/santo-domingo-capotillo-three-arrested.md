@@ -45,6 +45,11 @@ sources:
     publisher: El Nuevo Diario
     date: 2026-10-29
     language: es
+  - title: La Policía arresta a tres personas e incauta presunta marihuana durante un operativo en República Dominicana
+    url: https://flipr.com.ar/nacionales/ultimo-momento/infobae/la-policia-arresta-a-tres-personas-e-incauta-presunta-marihuana-durante-un-operativo-en-republica-dominicana/
+    publisher: Flipr.news
+    date: 2026-10-30
+    language: es
 open_questions:
   - Neither report dates the operation; 29 October 2026 is the publication time of El Nuevo Diario's account, and Infobae published on 30 October.
   - No weight or street value was published for the suspected marijuana, only counts of packages, containers and bags.
@@ -54,7 +59,7 @@ open_questions:
 
 National Police officers in the Dominican Republic arrested two men and a woman
 during an operation in the Capotillo sector of the Distrito Nacional, Santo
-Domingo. [@1] Police spokesman Diego Pesqueira said the search took place on
+Domingo. [@1,3] Police spokesman Diego Pesqueira said the search took place on
 Calle Duarte, in the alley known as callejón Sibanito. [@1] It formed part of
 the hunt for Vladimir Bisamal Yanki, alias “Boca 30”, an 18-year-old wanted by
 the authorities. [@1] The detainees were identified as Marcos Augusto Rivera
@@ -74,4 +79,3 @@ sub-directorate of Santo Domingo Norte. [@1]
 The police said their operations against the sale and distribution of controlled
 substances in the country remained active. [@1] The search for Bisamal Yanki
 continued. [@2]
-
