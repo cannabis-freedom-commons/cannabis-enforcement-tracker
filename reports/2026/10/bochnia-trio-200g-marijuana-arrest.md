@@ -44,6 +44,11 @@ sources:
     publisher: wrzuc.info
     date: 2026-11-04
     language: pl
+  - title: Policjanci ujawnili i zabezpieczyli znaczną ilość narkotyków
+    url: https://malopolska.policja.gov.pl/krk/aktualnosci/aktualnosci/77336,Policjanci-ujawnili-i-zabezpieczyli-znaczna-ilosc-narkotykow.html
+    publisher: Policja Małopolska
+    date: 2026-11-03
+    language: pl
 open_questions:
   - No exact laboratory weight beyond over 200 grams of marijuana was published.
   - No names of the three detained people were published, only their ages.
@@ -53,24 +58,25 @@ open_questions:
   - The operation date of Friday 30 October is given in the text; the year 2026 is inferred from the 3 November 2026 publication date.
   - The page's only image is a generic May 2019 police photo with an empty caption and does not show this seizure, so no media entry is listed.
   - The wrzuc.info page shows an image with empty alternative text and no caption establishing it depicts this seizure, so no media entry is listed.
+  - The page's only recoverable image is an Open Graph image with no caption establishing it shows this seizure, so no media entry is listed.
 ---
 
-Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3,5] All three
+Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3,5,6] All three
 detained people, aged 31, 34 and 36, are residents of the town of Bochnia. [@1,4]
 The detentions were made during an operation carried out in the evening hours.
 [@1] Further proceedings in the case are conducted under the supervision of the
-District Prosecutor's Office in Bochnia. [@1,2,3,4,5]
+District Prosecutor's Office in Bochnia. [@1,2,3,4,5,6]
 
-Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3,4,5]
+Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3,4,5,6]
 In total, officers seized more than 200 grams of marijuana during the
-verification operation. [@1,2,3,4,5] Bochnia officers said they detained three Bochnia
+verification operation. [@1,2,3,4,5,6] Bochnia officers said they detained three Bochnia
 residents and secured more than 200 grams of marijuana. [@1]
 
 On Friday 30 October, officers of the criminal division took action to verify
-findings about possible distribution of drugs in Bochnia. [@1,2,3,4,5] Officers placed
+findings about possible distribution of drugs in Bochnia. [@1,2,3,4,5,6] Officers placed
 the indicated building in Bochnia under observation, and that observation
 confirmed their suspicions about drug distribution. [@1] Criminal officers of
 the Bochnia County Police watched the indicated address and confirmed their
 findings. [@1]
 
-The three detained residents were a 36-year-old woman and two men aged 34 and 31. [@2,3,4,5]
+The three detained residents were a 36-year-old woman and two men aged 34 and 31. [@2,3,4,5,6]
