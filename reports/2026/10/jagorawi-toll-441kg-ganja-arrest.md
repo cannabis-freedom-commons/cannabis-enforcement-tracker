@@ -101,6 +101,11 @@ sources:
     publisher: tvOneNews.com
     date: 2026-11-03
     language: id
+  - title: Polda Metro Jaya Sita 44,1 Kg Ganja Lintas Provinsi
+    url: https://centralbatam.co.id/polda-sita-ganja-lintas-provinsi
+    publisher: CentralBatam
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -131,6 +136,10 @@ open_questions:
   - This page rounds avoided rehabilitation spending to Rp2.64 trillion while the existing report keeps Rp2.648 trillion from another outlet, so the saving figure continues to rely on earlier sources for its precise value.
   - The gallery page gives only its title and a one-sentence caption and states no seizure date, rest-area detail, suspect identity, or court outcome, so the event date and place continue to rely on earlier sources.
   - The gallery image is captioned only with the article title and is not established to show the seized 44.1 kg cannabis, so no media entry is added.
+  - 'The page''s only image is captioned Ilustrasi peredaran ganja (Foto: Istimewa) and does not show this seizure, so no media entry is added.'
+  - The submitted page names the ferry crossing as Merak-Bakauheni while the existing report writes Bakauheni-Merak; both describe the same land route to Tol Jagorawi.
+  - 'Left out, as its quotation was not found in CentralBatam: Police said they had followed him overland all the way from Mandailing Natal in North Sumatra before stopping him on the toll road.'
+  - 'Left out, as its quotation was not found in CentralBatam: Police said they received information from the public about the cannabis distribution before arresting the courier on the Jagorawi toll road.'
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -150,22 +159,22 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5]
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
-across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14] They said the load was intended
-for distribution in Depok and Tangerang. [@1,6,10,13,15] Police said YT had already
+across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14,17] They said the load was intended
+for distribution in Depok and Tangerang. [@1,6,10,13,15,17] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
-the October load his third. [@1,5,7,8,9,11,12,13,14] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1,6,10,11,13,15]
+the October load his third. [@1,5,7,8,9,11,12,13,14,17] They said he was promised Rp 1 juta for each
+kilogram he carried. [@1,6,10,11,13,15,17]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
 years in prison. [@3,4,6,8,9,12,14,15] Police said they had identified the alleged controller,
-initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15]
+initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15,17]
 
 At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
 
