@@ -40,6 +40,11 @@ sources:
     publisher: Zazoom Social News
     date: 2026-11-04
     language: it
+  - title: 'Catania, aveva una busta di marijuana nascosta sotto la felpa: arrestato 23enne'
+    url: https://newsicilia.it/catania/cronaca/catania-aveva-una-busta-di-marijuana-nascosta-sotto-la-felpa-arrestato-23enne/1122473/
+    publisher: NewSicilia
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the stop and arrest; 4 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian.
@@ -51,20 +56,20 @@ open_questions:
 ---
 
 State police arrested a 23-year-old man from Catania for possession of narcotics
-with intent to deal. [@1,2,3] The operation was carried out in Via Antico Corso by
+with intent to deal. [@1,2,3,4] The operation was carried out in Via Antico Corso by
 officers of the Mobile Squad's fourth section dealing with widespread crime.
-[@1,2,3] Officers on patrol noticed the young man walking with a shoulder bag and
-acting suspiciously, then stopped him for a check. [@1,2] During the check
+[@1,2,3,4] Officers on patrol noticed the young man walking with a shoulder bag and
+acting suspiciously, then stopped him for a check. [@1,2,4] During the check
 officers noticed a visible bulge at the front of his sweatshirt and asked him to
-lift it. [@1,2]
+lift it. [@1,2,4]
 
 Under the sweatshirt he was hiding a large vacuum-sealed heat-sealed plastic bag
-containing 58 grams of marijuana. [@1,2] A personal search of his shoulder bag
+containing 58 grams of marijuana. [@1,2,4] A personal search of his shoulder bag
 found another small bag with 5.70 grams of marijuana and 30 euros in cash
-considered proceeds of the offence. [@1,2]
+considered proceeds of the offence. [@1,2,4]
 
 Database checks showed he had prior drug and resisting-a-public-official
 offences and had already received an oral warning from the Catania police
-commissioner. [@1,2] After being informed, the duty public prosecutor ordered
+commissioner. [@1,2,4] After being informed, the duty public prosecutor ordered
 house arrest at his home pending a validation hearing before the
-preliminary-investigations judge. [@1,2]
+preliminary-investigations judge. [@1,2,4]
