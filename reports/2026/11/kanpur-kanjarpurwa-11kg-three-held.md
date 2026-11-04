@@ -166,6 +166,11 @@ sources:
     publisher: Khas Khabar
     date: 2026-11-01
     language: hi
+  - title: नशे के कारोबार पर पुलिस का बड़ा एक्शन, चार थानों की फोर्स ने की छापेमारी
+    url: https://www.youthindiatoday.com/articles/news-0507b809
+    publisher: Youth India 24 News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - No value was given for the 11 kg of ganja.
   - No charges, court date or legal outcome were reported; police said questioning was still under way.
@@ -210,18 +215,19 @@ open_questions:
   - The page's only image carries the combined Bareilly-Kanpur headline with no caption or credit confirming it shows the Kanpur raid, so no media entry is included.
   - The same Khaskhabar page also reports a separate Bareilly cattle-smuggler encounter after a police exchange of fire; only the Kanpur cannabis component is used here as it is a different non-cannabis event.
   - The page's sole image uses the combined Bareilly-Kanpur headline as its caption with no credit confirming it shows the Kanpur search, so no media entry is added.
+  - The page's only image carries only the headline as its caption with no credit confirming it shows this raid, so no media entry is added.
 ---
 
 Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19,20,21,22] The
+search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19,20,21,22,23] The
 operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17,20,21,22] The three were
 caught as they tried to flee, and about 11 kg of ganja was recovered from them.
-[@1,4,6,7,11,12,13,16,18,19,20,21]
+[@1,4,6,7,11,12,13,16,18,19,20,21,23]
 
 The search was ordered by Kanpur's police commissioner, with 135 officers in
 five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17,19,20]
 The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12,13,14,18,19,20,21,22]
+stations. [@2,4,6,7,9,10,12,13,14,18,19,20,21,22,23]
 
 Some residents ran from their homes when police arrived and were caught in the
 cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
