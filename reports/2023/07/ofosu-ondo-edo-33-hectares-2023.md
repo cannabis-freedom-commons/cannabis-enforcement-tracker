@@ -11,11 +11,11 @@ also: [arrest, seizure]
 title: NDLEA destroys 33 hectares of cannabis farms in Ondo and Edo
 summary: >-
   Nigeria's NDLEA destroyed 33 hectares of cannabis farms in Ondo and Edo
-  states in July 2023, arresting five people and recovering over 1.3 tonnes of
+  states in July 2023, arresting six people and recovering almost 2 tonnes of
   processed cannabis, including 29 hectares cleared at Ofosu forest.
 figures:
-  arrested: 5
-  kg_seized: 1319
+  arrested: 6
+  kg_seized: 1959
   hectares: 33
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
@@ -49,7 +49,9 @@ Officers recovered 118.5 kg of processed cannabis from the farm. [@1,2]
 
 In a separate raid on 17 July at Elegbeka in Ose Local Government Area,
 operatives recovered 107 jumbo bags of cannabis weighing 1,132.5 kg from a
-suspect's warehouse. [@1] In Edo State, two cannabis farms measuring
+suspect's warehouse. [@1] The same day at Utese forest in Ovia North East
+Local Government Area in Edo, operatives arrested Victor Asukwo with 59 bags
+of processed cannabis weighing 640 kg. [@1] In Edo State, two cannabis farms measuring
 1.489895 hectares and 2.445295 hectares were destroyed, and 50-year-old
 Endurance Chukwuma was arrested with seven bags of processed cannabis weighing
 68 kg, while his own farm of 0.254324 hectares was also destroyed. [@1]
