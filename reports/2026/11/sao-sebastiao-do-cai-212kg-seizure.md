@@ -24,30 +24,35 @@ sources:
     publisher: Polícia Civil RS
     date: 2026-11-03
     language: pt
+  - title: Polícia apreende 212 quilos de maconha em sítio na área rural de São Sebastião do Caí
+    url: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADcia/policia-apreende-212-quilos-de-maconha-em-sitio-na-area-rural-de-sao-sebastiao-do-cai-1.1761719
+    publisher: Correio do Povo
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The names and ages of the two arrested individuals were not published.
   - No charge, custody decision or court outcome beyond the flagrante arrest for trafficking and association was reported.
   - The weight is reported as approximate, 258 bricks weighing about 212 kilos.
   - Only the agency statement could be opened directly after other apparent accounts of the same seizure could not be accessed for verification.
   - The agency page carries an image whose caption is only '.', which does not establish that it shows this seizure, so no media entry is included.
+  - The Correio do Povo page carries a photo credited only as Polícia Civil / CP without a descriptive caption establishing what it shows, so no media entry is added.
 ---
 
 On 3 November 2026, officers of the Civil Police's 3rd Drug-Trafficking
 Investigation Division, coordinated by delegate Fernando Siqueira, seized 212
-kilos of marijuana in the rural area of São Sebastião do Caí. [@1] Two
+kilos of marijuana in the rural area of São Sebastião do Caí. [@1,2] Two
 individuals were arrested in flagrante for drug trafficking and association for
-trafficking. [@1] The anti-drug action took place within Operation Narke. [@1]
-Officers also seized a scale and a vehicle during the operation. [@1]
+trafficking. [@1,2] The anti-drug action took place within Operation Narke. [@1,2]
+Officers also seized a scale and a vehicle during the operation. [@1,2]
 
 Police acted after information indicated that a smallholding was being used to
 store a large quantity of drugs, then monitored the site and saw a vehicle enter
-the property. [@1] Officers approached when the resident and another individual
-were loading the vehicle with the drugs. [@1] Part of the drugs was found inside
+the property. [@1,2] Officers approached when the resident and another individual
+were loading the vehicle with the drugs. [@1,2] Part of the drugs was found inside
 the vehicle, with the remainder found in the shed and the house, totalling 258
-marijuana bricks weighing about 212 kilos. [@1]
+marijuana bricks weighing about 212 kilos. [@1,2]
 
 Delegate Fernando Siqueira said the action forms part of the Civil Police's
 standing strategy to intensify action against drug trafficking and criminal
 organisations in the state through qualified investigations and operations aimed
 at draining criminal structures. [@1]
-
