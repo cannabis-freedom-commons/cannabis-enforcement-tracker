@@ -29,6 +29,11 @@ sources:
     publisher: Banouto
     date: 2025-07-14
     language: fr
+  - title: 'Bénin : plus d''une tonne de chanvre indien saisie dans l''ouest du pays'
+    url: https://chretiens.com/societe/benin-plus-dune-tonne-de-chanvre-indien-saisie-dans-louest-du-pays/2025/07/14/17/35/
+    publisher: Journal Chrétien
+    date: 2025-07-14
+    language: fr
 open_questions:
   - The driver was not named and no age or nationality was published.
   - The neighbouring country the minibus came from was not named.
@@ -43,15 +48,14 @@ on Sunday 13 July 2025. [@2] Officers intercepted the minibus driver during the
 operation. [@2] The driver said the vehicle's owner had asked him to unload the
 parcels in a shop at Kassoua in Ouaké, near the market. [@2] During the stop he
 allegedly tried to bribe the officers with 200,000 CFA francs, which police
-seized and held for the investigation. [@1]
+seized and held for the investigation. [@1,3]
 
 The minibus was carrying a load of chanvre indien, the French term for cannabis,
-from a neighbouring country. [@1] Weighed with the help of Bénin Control, the
-customs partner, the load totalled 1,240.05 kg. [@1] The seizure took place in
-the commune of Ouaké in western Benin. [@1]
+from a neighbouring country. [@1,3] Weighed with the help of Bénin Control, the
+customs partner, the load totalled 1,240.05 kg. [@1,3] The seizure took place in
+the commune of Ouaké in western Benin. [@1,3]
 
 Benin's Republican Police announced the seizure on Monday 14 July 2025. [@2] The
 officers did not give in to the driver's offer. [@2] They seized the envelope
 and held it for the needs of the investigation. [@2] Police described the action
 as part of their continued effort against drug trafficking. [@2]
-
