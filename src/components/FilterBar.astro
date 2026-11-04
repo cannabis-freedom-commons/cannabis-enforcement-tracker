@@ -62,8 +62,8 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
   <div class="custom-period fig-popover" id="fig-popover" role="dialog" aria-label="Filter by a figure" hidden>
     <div class="fig-choose"><span>Filter by</span>
       <Select id="fig-key" label="Filter by" value={FIGURE_FILTERS[0].key} groups={[
-        { label: "Figures the report states", options: FIGURE_FILTERS.map((f) => ({ value: f.key, label: f.label })) },
-        { label: "The report", options: [{ value: "status", label: "Check status" }, { value: "photo", label: "Has a photo" }] },
+        { label: "Figures the report states", options: FIGURE_FILTERS.filter((f) => !f.report).map((f) => ({ value: f.key, label: f.label })) },
+        { label: "The report", options: [...FIGURE_FILTERS.filter((f) => f.report).map((f) => ({ value: f.key, label: f.label })), { value: "status", label: "Check status" }, { value: "photo", label: "Has a photo" }] },
       ]} />
     </div>
     <fieldset class="custom-range" id="fig-range">

@@ -16,10 +16,13 @@ export const FIGURE_FILTERS = [
   { key: "prison", field: "py", label: "Prison term (years)", short: "Prison", unit: " years", note: "Life and death sentences count as longer than any term." },
   { key: "fine", field: "fu", label: "Fine (in US dollars)", short: "Fine", prefix: "US$", note: `Converted at the exchange rates of ${rates.date}.` },
   { key: "value", field: "vu", label: "Value of the seizure (in US dollars)", short: "Value", prefix: "US$", note: `Converted at the exchange rates of ${rates.date}.` },
+  // about the report rather than the event: every report has it
+  { key: "sources", field: "so", label: "Number of sources", short: "Sources", report: true, note: "How many sources the report cites." },
 ];
 export const STATUSES = [["verified", "Verified"], ["reported", "Reported"], ["disputed", "Disputed"]];
 
-// A report's figures as plain numbers for its index row: short keys, only those it states.
+// A report's figures as plain numbers for its index row: short keys, only those it states, and
+// how many sources it cites.
 export function figureNumbers(r) {
   const f = r.figures ?? {}, n = {};
   const usd = (m) => (m && rates.rates[m.currency] ? Math.round(m.amount / rates.rates[m.currency]) : undefined);
@@ -29,6 +32,7 @@ export function figureNumbers(r) {
     de: f.deaths ?? (r.type === "execution" ? 1 : undefined),
     py: prison === "life" ? "L" : prison === "death" ? "D" : typeof prison === "number" ? Math.round(prison * 100) / 100 : undefined,
     fu: usd(f.fine), vu: usd(f.value),
+    so: r.sources?.length || undefined,
   };
   for (const [k, v] of Object.entries(values)) if (v != null) n[k] = v;
   return n;

@@ -11,6 +11,8 @@ test('a report\'s figures become plain numbers for the index, only those it stat
   assert.deepEqual(figureNumbers({ type: 'execution', figures: {} }), { de: 1 });
   assert.equal(figureNumbers({ type: 'seizure', figures: { value: { amount: 100, currency: 'USD' } } }).vu, 100);
   assert.deepEqual(figureNumbers({ type: 'raid' }), {});
+  assert.deepEqual(figureNumbers({ type: 'raid', sources: [{}, {}, {}] }), { so: 3 });
+  assert.equal(inRange({ n: { so: 3 } }, filter('sources'), [2, null]), true);
 });
 
 test('ranges are read from and written to the address, with open ends', () => {

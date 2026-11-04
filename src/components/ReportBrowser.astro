@@ -409,7 +409,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       $("fig-min").value = range?.[0] != null ? String(range[0]) : "";
       $("fig-max").value = range?.[1] != null ? String(range[1]) : "";
       if (figKey.value === "status") $("fig-status").value = status || "verified";
-      $("fig-note").textContent = f ? `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}` : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
+      $("fig-note").textContent = f ? (f.report ? f.note : `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}`) : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
       $("fig-apply").textContent = (f ? figs[f.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
     };
     const openFig = popover($("fig-popover"), addButton, () => { showFigure(); figKey.focus({ preventScroll: true }); });
