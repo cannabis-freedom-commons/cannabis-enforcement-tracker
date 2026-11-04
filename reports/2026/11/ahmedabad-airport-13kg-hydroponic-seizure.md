@@ -134,6 +134,10 @@ sources:
     publisher: GSTV
     date: 2026-11-02
     language: gu
+  - title: ₹13 Crore Hydroponic Marijuana Seized at Ahmedabad Airport, Two Arrested
+    url: https://www.lokmattimes.com/national/rs13-crore-hydroponic-marijuana-seized-at-ahmedabad-airport-two-arrested-a001-w02/
+    publisher: Lokmat Times
+    date: 2026-11-01
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -179,23 +183,26 @@ open_questions:
   - GSTV does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
   - The same headline also bundles unrelated items about Surendranagar water supply and a killing in Morbi, different events left out here.
   - 'The page thumbnail is captioned only as Source: gstv with no event detail, so whether it shows this seizure cannot be established and no media entry is listed.'
+  - The Lokmat Times article gives only its publication date of 1 November 2026 and says the seizure occurred on Sunday, with no separate interception time.
+  - The Lokmat Times article does not name the two arrested passengers or give their ages reported in other sources for the same event.
+  - The page image repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23] The two had arrived from Bangkok
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24] The two had arrived from Bangkok
 on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
-detailed manual examination. [@1,2,9,18,19,20] Inside the bags officers found 14
+detailed manual examination. [@1,2,9,18,19,20,24] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19,20,22]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22,24] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
