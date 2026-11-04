@@ -36,10 +36,19 @@ sources:
     publisher: Polícia Militar do Paraná
     date: 2026-11-03
     language: pt
+  - title: PF e PM apreendem 367 quilos de maconha e 2.500 maços de cigarros
+    url: https://www.guiasmi.com.br/noticia/89765
+    publisher: Guia SMI
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No suspects were located, so no arrests, charges or court outcome were reported.
   - The final destination of the drug was not disclosed.
   - The Military Police rounds the estimated loss as R$764.4 mil while O Paraná gives R$764,480; the report uses the precise figure.
+  - This source rounds the cannabis weight to 367 kilos while the existing report uses 367.04 kg, so the precise figure is retained.
+  - This source places the cannabis interception in the Porto Meira region while the existing report places it at Profilurb II, and the opened text does not clarify the relationship between those names.
+  - The same article also reports a separate Vila Portes seizure of approximately 2,500 packs of Paraguayan cigarettes in a VW Gol, a non-cannabis event left out of the cannabis record.
+  - The page image is filed under a cigarettes filename without a caption confirming it shows the cannabis seizure, so no media entry was added.
 ---
 
 A joint Border Police Battalion (BPFron) and Federal Police team intercepted
@@ -54,8 +63,8 @@ transferred to a car. [@2]
 
 Officers searching the car found bundles containing material with the
 characteristics of cannabis. [@1] After weighing, the load totalled 367.04 kg.
-[@1] Police seized the drug and the car and took them to the Federal Police
-station in Foz do Iguaçu for legal procedures and investigation. [@1] BPFron put
+[@1,3] Police seized the drug and the car and took them to the Federal Police
+station in Foz do Iguaçu for legal procedures and investigation. [@1,3] BPFron put
 the estimated loss to traffickers at R$764,480. [@1]
 
 The action was carried out by BPFron teams with the Federal Police's Special
@@ -63,3 +72,4 @@ Maritime Police Nucleus (Nepom), which patrols drug trafficking and other
 frontier crime. [@1] The identities of those involved and the final destination
 of the drug were not disclosed. [@1]
 
+The Federal Police and the Military Police carried out two operations in Foz do Iguaçu on the night of Monday the 2nd, resulting in the seizure of 367 kilos of pressed cannabis. [@3] The occurrences were recorded in the Porto Meira and Vila Portes regions after police spotted boats crossing the Paraná River from Paraguay. [@3] The first cannabis action took place at about 20h30 in the Porto Meira region, where officers monitoring a boat crossing the river intercepted a Fiat Fiorino leaving a track giving access to the bank. [@3] Officers found 18 bundles of cannabis inside the car. [@3]
