@@ -61,6 +61,10 @@ sources:
     url: https://brighterkashmir.com/jk-police-arrests-5-drug-peddlers
     publisher: Brighter Kashmir
     date: 2026-11-03
+  - title: 'Five Drug Peddlers Arrested With Contrabands: Police'
+    url: https://thekashmirhorizon.com/2026/11/03/five-drug-peddlers-arrested-with-contrabands-police/
+    publisher: The Kashmir Horizon
+    date: 2026-11-03
 open_questions:
   - The reports carry 2 November 2026 datelines and publication dates but give no separate day for the two operations.
   - The sources name no lawyer, court date or custody outcome for either man.
@@ -70,19 +74,23 @@ open_questions:
   - The page's lead image is a 2021 file image captioned only with the generic headline, so it cannot be confirmed as a photograph of these seizures and no media entry is added.
   - The article carries a Srinagar Nov 02 dateline and a 03 November 2026 publication date but gives no separate day for the operations; the existing report's 02 November 2026 date is retained.
   - The page's lead image has no caption or credit establishing that it shows these seizures, so no media entry is added.
+  - The submitted page reports the Anantnag and Kupwara operations together as five arrests, while the tracker records them as two district-focused reports; this source is added to both accounts.
+  - The submitted page calls the contraband charas, while the Kupwara report retains charas-like substance pending forensic confirmation.
+  - The submitted page gives no checkpoint names or NDPS sections; those details remain sourced to earlier reports.
+  - No media entry is added because the page image is captioned only with the generic headline and cannot be confirmed to show these seizures.
 ---
 
 Anantnag police arrested two alleged drug peddlers in separate operations run by
 its Mattan and Srigufwara stations. [@1,2,3,4,5,6]
 
 A Mattan police team searched Aamir Ayoub Khan, a resident of Khurd Gopalpora,
-and recovered about 17.8 grams of charas from him. [@1,2,3,4,5,6,8,9] Police registered
+and recovered about 17.8 grams of charas from him. [@1,2,3,4,5,6,8,9,10] Police registered
 FIR No. 126/2026 under Sections 8/20 of the NDPS Act at Mattan station.
-[@1,2,3,4,9]
+[@1,2,3,4,9,10]
 
 Separately, a Srigufwara team stopped Sahil Ahmad Bhat, a resident of Hanji
 Danter, during naka checking at Pethnoo Crossing and recovered about 30 grams
-of cannabis from him. [@1,2,3,4,5,6,7,8,9] Police registered FIR No. 111/2026 under
-Sections 8/20 of the NDPS Act at Srigufwara station. [@1,2,3,4,9] Police said
+of cannabis from him. [@1,2,3,4,5,6,7,8,9,10] Police registered FIR No. 111/2026 under
+Sections 8/20 of the NDPS Act at Srigufwara station. [@1,2,3,4,9,10] Police said
 investigation in both cases was underway to trace the sources of the drugs and
 the accused men's forward and backward links. [@1,2,3]
