@@ -26,6 +26,10 @@ sources:
     url: https://sot.com.al/english/shiste-droge-prane-shkollave-ne-lezhe-arrestohet-18-vjecari-sekuestrohen-dhjetera-doza-kanabis-i5192098
     publisher: Sot.com.al
     date: 2026-11-04
+  - title: Selling drugs near schools in Lezha, 18-year-old arrested, 83 doses of cannabis seized
+    url: https://www.balkanweb.com/en/Drug-dealer-near-schools-in-Lezha--18-year-old-arrested--83-doses-of-cannabis-seized/
+    publisher: BalkanWeb
+    date: 2026-11-04
 open_questions:
   - No weight for the suspected cannabis was published, only 83 doses, so no kilograms can be recorded.
   - The article gives no separate date for the arrest; 4 November 2026 is the publication date and is used as the incident date.
@@ -35,21 +39,20 @@ open_questions:
 ---
 
 Lezha police arrested 18-year-old citizen KP, a resident of Lezha Island, on
-suspicion of selling Cannabis Sativa in doses mainly near schools. [@1] Officers
+suspicion of selling Cannabis Sativa in doses mainly near schools. [@1,3] Officers
 caught him red-handed, finding doses packaged and ready for sale on him during a
 physical search and additional ready-for-sale doses during a later search of his
-apartment. [@1] A second outlet identifies the arrested youth as Klevis
+apartment. [@1,3] A second outlet identifies the arrested youth as Klevis
 Paplekaj. [@2] Police referred the procedural materials to the Prosecutor's
-Office at the Lezha Court of General Jurisdiction for further action. [@1]
+Office at the Lezha Court of General Jurisdiction for further action. [@1,3]
 
 As material evidence, police seized a total of 83 doses of suspected Cannabis
-Sativa. [@1] Officers also seized one mobile phone belonging to the arrested
+Sativa. [@1,3] Officers also seized one mobile phone belonging to the arrested
 person. [@2]
 
 The arrest came from Operation Impulse, organized by Narcotics Investigation
 specialists with Operational Support for Investigation officers on information
 obtained through operational channels. [@1] Police said Impulse was carried out
 under the Clean Schools operational plan to prevent and crack down on drug sales
-near educational institutions. [@1] Investigators suspect the youth was selling
+near educational institutions. [@1,3] Investigators suspect the youth was selling
 cannabis doses in the city of Lezha, mainly in areas near schools. [@1]
-
