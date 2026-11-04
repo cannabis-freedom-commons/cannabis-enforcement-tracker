@@ -30,27 +30,33 @@ sources:
     url: https://independentnews.co.sz/49801/news/crime-and-courts/597kg-dagga-worth-e3m-seized-in-sa-busts-involving-emaswati/
     publisher: Independent News Eswatini
     date: 2026-10-27
+  - title: Six Eswatini nationals arrested in Mpumalanga dagga busts worth R1.95m
+    url: https://iol.co.za/news/crime-and-courts/2026-10-25-six-eswatini-nationals-arrested-in-mpumalanga-dagga-busts-worth-r195m/
+    publisher: IOL
+    date: 2026-10-25
 media:
   - kind: photo
     url: https://independentnews.co.sz/49801/news/crime-and-courts/597kg-dagga-worth-e3m-seized-in-sa-busts-involving-emaswati/
     publisher: Independent News Eswatini
     caption: Wrapped rolls of seized dagga pictured with the report
+open_questions:
+  - The IOL page carries a photo credited as Supplied showing the seizure, whose distinctness from the existing report's photo could not be established, so no media entry is included.
 ---
 
 On the evening of Friday 23 October, officers doing stop-and-searches on the
 N2 near the Commondale turn-off at Mahamba stopped a white Isuzu double-cab
 bakkie at about 9.40 p.m. and found 33 rolls of dagga weighing about 125.2 kg
-and valued at R750,000. [@1,2] Five Eswatini nationals aged 22 to 30 were
-arrested for dealing in dagga; the bakkie and the drug were seized. [@1,2]
+and valued at R750,000. [@1,2,3] Five Eswatini nationals aged 22 to 30 were
+arrested for dealing in dagga; the bakkie and the drug were seized. [@1,2,3]
 
 A day earlier, at about 5.20 a.m. on Thursday 22 October, police patrolling
 Voortrekker Street in Carolina spotted a grey Volkswagen Golf TSI with tinted
-windows and gave chase when it fled toward Wonderfontein Road. [@1,2] Officers
+windows and gave chase when it fled toward Wonderfontein Road. [@1,2,3] Officers
 intercepted it near the Belfast turn-off and found about 200 kg of dagga worth
-R1.2 million hidden inside. [@1,2] The Eswatini driver was arrested and
-charged with dealing in dagga, and the car and drugs were confiscated. [@1,2]
+R1.2 million hidden inside. [@1,2,3] The Eswatini driver was arrested and
+charged with dealing in dagga, and the car and drugs were confiscated. [@1,2,3]
 
 The six suspects were due in the Piet Retief and Carolina magistrates' courts.
-[@1] Mpumalanga commissioner Lieutenant General Apaphia Modise praised the
+[@1,3] Mpumalanga commissioner Lieutenant General Apaphia Modise praised the
 officers and said intelligence-driven patrols would continue under the Safer
-Festive Season operations. [@1]
+Festive Season operations. [@1,3]
