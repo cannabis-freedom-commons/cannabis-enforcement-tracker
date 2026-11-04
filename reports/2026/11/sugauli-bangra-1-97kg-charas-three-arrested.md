@@ -84,6 +84,11 @@ sources:
     publisher: Deshaj Times
     date: 2026-11-04
     language: hi
+  - title: पूर्वी चंपारण में 40 लाख की चरस के साथ 3 गिरफ्तार, पुलिस-STF की संयुक्त कार्रवाई
+    url: https://khabargaon.com/state/in-east-champaran-3-arrested-with-charas-of-40-lakh-joint-stf-police-operation/38062
+    publisher: KhabarGaon
+    date: 2026-11-04
+    language: hi
 open_questions:
   - Neither article gives a separate calendar date for the checks and arrests; 3 November 2026 is the publication date used as the incident date.
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
@@ -105,10 +110,11 @@ open_questions:
   - Residence details differ slightly from earlier accounts, with this account naming Guddu Sah of Nayak Tola in Harpur, Rambalak Baitha of Lakshmipur in Raxaul and Dora Rai of Sikta with a current address at Gandak Chowk in Birgunj, Nepal.
   - The page carries a second image with no caption establishing that it shows this seizure or these arrests, so no media entry is included for it.
   - The Deshaj Times page carries an image captioned with the headline, but the caption and credit do not establish that it shows this seizure or these arrests, so no media entry is included.
+  - The Khabargaon page carries an arrest photo credited to Bihar Police social media, but its caption does not by itself establish that it shows this Sugauli seizure, so no new media entry is added.
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged
-charas traffickers in East Champaran. [@2,3,4,5,6,7,8,9] The first man held was identified as
+charas traffickers in East Champaran. [@2,3,4,5,6,7,8,9,10] The first man held was identified as
 35-year-old Guddu Sah of Nayka Tola in the Rajepur station area, whose
 questioning named Ramabalak Baitha, linked to Lakshmipur in Sikta and Gandak
 Chowk in Birgunj, Nepal, and Dhoda Rai of Mahuai in Ghorasahan. [@1] Police
@@ -116,9 +122,9 @@ arrested Baitha and Rai in follow-up raids. [@1] Police sent all three to jail
 after completing legal formalities. [@1]
 
 Officers found 1.970 kg of a charas-like substance in four packets inside a bag
-carried by the first suspect. [@1,4,5,6,7,8,9] Police put the international-market value of
-the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4,6,7,8,9] Police also
-seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4,6,7,8,9]
+carried by the first suspect. [@1,4,5,6,7,8,9,10] Police put the international-market value of
+the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4,6,7,8,9,10] Police also
+seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4,6,7,8,9,10]
 
 The STF narcotics cell in Patna had tipped police that a man carrying narcotics
 had left Raxaul and would travel via the Sugauli overbridge toward the station.
@@ -130,6 +136,6 @@ continuing. [@1]
 
 The checking team was formed under Sub-Divisional Police Officer Sadar-01 with circle inspector Munna Kumar, station chief Anish Kumar Singh and assistant sub-inspector Krishna Murari. [@5] The search was witnessed by magistrate-cum-BDO Antima Kumari after the suspect tried to flee on seeing the police team. [@5] Police said they had identified the supply chain from Nepal to buyers in Uttar Pradesh and that further action was under way. [@5]
 
-The tip said the consignment was being brought by train from Raxaul on Monday night. [@7]
+The tip said the consignment was being brought by train from Raxaul on Monday night. [@7,10]
 
 The STF narcotics cell received the tip at about 8:40 pm on 2 November that a man carrying Nepal-smuggled charas would arrive by train from Raxaul at Sugauli railway station. [@8,9]
