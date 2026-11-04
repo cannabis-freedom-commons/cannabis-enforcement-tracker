@@ -38,6 +38,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-04
     language: ar
+  - title: ضبط عاطل لإدارة صفحة تروج لبيع مخدر الحشيش عبر مواقع التواصل بالقليوبية | اوان مصر
+    url: https://www.awanmasr.com/%D8%B6%D8%A8%D8%B7-%D8%B9%D8%A7%D8%B7%D9%84-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B5%D9%81%D8%AD%D8%A9-%D8%AA%D8%B1%D9%88%D8%AC-%D9%84%D8%A8%D9%8A%D8%B9-%D9%85%D8%AE%D8%AF%D8%B1-%D8%A7%D9%84%D8%AD/
+    publisher: اوان مصر
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight, packaging detail or valuation for the seized hashish was published, so no cannabis quantity or value can be recorded.
   - The article gives no separate date for the monitoring or arrest; 4 November 2026 is its publication date and is used as the incident date.
@@ -50,21 +55,21 @@ open_questions:
 ---
 
 Egypt's cybercrime investigators detected a person running a social-media page
-that offered narcotic substances for sale for money. [@1,2,3,4] The monitoring was
+that offered narcotic substances for sale for money. [@1,2,3,4,5] The monitoring was
 conducted by the General Directorate for Combating Information Technology Crimes
 in the communications and information-technology sector, in coordination with
-the Public Security sector. [@1,2,3,4] After checks, officers identified the page's
+the Public Security sector. [@1,2,3,4,5] After checks, officers identified the page's
 administrator as an unemployed man who lives in the Khanka police district in
-Qalyubia Governorate and arrested him. [@1,2,3,4]
+Qalyubia Governorate and arrested him. [@1,2,3,4,5]
 
 Officers seized a quantity of hashish found in his possession during the arrest.
-[@1,2,3,4] They also seized a mobile phone, and examination of the phone showed
-material confirming his criminal activity. [@1,3,4] The seized hashish is the
+[@1,2,3,4,5] They also seized a mobile phone, and examination of the phone showed
+material confirming his criminal activity. [@1,3,4,5] The seized hashish is the
 cannabis product recorded in this report, while the phone was kept as evidence
 of the online promotion. [@1]
 
 When confronted, the man confessed that he ran the page to promote narcotic
-substances. [@1,2,3,4] In Egyptian press usage, the word عاطل describes an unemployed
+substances. [@1,2,3,4,5] In Egyptian press usage, the word عاطل describes an unemployed
 person, the term used here for the Khanka suspect. [@1] The enforcement action
 therefore linked online promotion of drugs for payment with physical possession
 of hashish in Khanka. [@1]
