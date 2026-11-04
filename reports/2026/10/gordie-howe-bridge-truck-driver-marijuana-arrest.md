@@ -28,24 +28,30 @@ sources:
     url: https://www.ctvnews.ca/windsor/article/us-customs-officers-seize-gun-marijuana-from-canada-bound-truck-driver/
     publisher: CTV News
     date: 2026-11-04
+  - title: U.S. truck driver arrested at Detroit border crossing with gun and marijuana, CBP says
+    url: https://cdllife.com/2026/u-s-truck-driver-arrested-at-detroit-border-crossing-with-gun-and-marijuana-cbp-says/
+    publisher: CDLLife
+    date: 2026-11-04
 open_questions:
   - No weight or quantity for the marijuana was published, so no kilograms can be recorded.
   - No description of the firearm beyond a gun was published, and it is excluded from cannabis figures.
   - No name, age, or other identity for the driver beyond U.S. citizen was published.
   - No charges or court outcome were reported after the driver was turned over to the Detroit Police Department.
   - Only one accessible source for this event was found after searching; no agency statement or second account could be opened.
+  - The CDLLife page carries an image captioned only as CBP, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Officers with U.S. Customs and Border Protection say they seized a gun and
 marijuana from a commercial truck driver attempting to enter Canada at the
-Gordie Howe International Bridge last week. [@1] According to the agency, the
+Gordie Howe International Bridge last week. [@1,2] According to the agency, the
 seizure took place Oct. 27 and involved a Canada-bound commercial truck driver.
-[@1]
+[@1,2]
 
 Officials said the driver, a U.S. citizen, was arrested after officers
 discovered the firearm and marijuana. [@1] The man was later turned over to the
-Detroit Police Department. [@1]
+Detroit Police Department. [@1,2]
 
 The seized items were photographed at the Gordie Howe International Bridge on
 Oct. 27, 2026. [@1] No other details were released. [@1]
 
+CBP Director of Field Operations Marty C. Raybon said that a U.S. citizen operating a commercial truck approached the facility seeking entry into Canada. [@2]
