@@ -29,6 +29,11 @@ sources:
     publisher: Aruba.nu
     date: 2026-11-02
     language: nl
+  - title: Preventieve controle San Nicolas levert vier aanhoudingen op
+    url: https://amigoearuba.com/preventieve-controle-san-nicolas-levert-vier-aanhoudingen-op/
+    publisher: Amigoe Aruba
+    date: 2026-11-01
+    language: nl
 open_questions:
   - No weight was published for the marijuana or the cocaine, so no cannabis quantity is figured.
   - The marijuana and cocaine were reported only as part of a combined seizure that cannot be separated into a cannabis-only amount.
@@ -40,15 +45,14 @@ open_questions:
 ---
 
 Aruba police arrested four people in San Nicolaas during a preventive
-stop-and-search operation on the night from Saturday to Sunday. [@1] The four
+stop-and-search operation on the night from Saturday to Sunday. [@1,3] The four
 arrests were linked to possession of a stabbing weapon, cocaine, marijuana and a
-large sum of cash. [@1]
+large sum of cash. [@1,3]
 
-Officers searched 90 people and checked 31 cars during the operation. [@1]
+Officers searched 90 people and checked 31 cars during the operation. [@1,3]
 Besides the arrests, officers seized the weapon, the cocaine, the marijuana and
 the cash, but the reports give no weights for the drugs. [@2]
 
 Police did not disclose the amount of money seized. [@1] Police said they would
 keep focusing on safety in the district with further checks and asked witnesses
 to report through tip line 11141, with anonymity guaranteed. [@2]
-
