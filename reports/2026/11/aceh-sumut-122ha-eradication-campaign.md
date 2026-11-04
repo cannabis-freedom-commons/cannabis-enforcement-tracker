@@ -183,6 +183,11 @@ sources:
     publisher: Dialeksis
     date: 2026-11-03
     language: id
+  - title: Polri Musnahkan 127 Hektare Ladang Ganja di Aceh dan Sumut
+    url: https://beritanasional.com/detail/157239/polri-musnahkan-127-hektare-ladang-ganja-di-aceh-dan-sumut
+    publisher: BeritaNasional
+    date: 2026-11-03
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -266,12 +271,15 @@ open_questions:
   - The Dialeksis spellings Gampong Teupin Ruseb and Desa Blang Padang differ from Teupin Rusep and Blang Pandak in the existing reports, and its Beutong Ateuh-Benggala rendering carries an encoding fault.
   - The weight is written as 93,225 ton, read here as 93.225 tonnes wet weight in Indonesian decimal notation.
   - The page lead image captioned as cannabis-field destruction in Aceh and credited as a Dialeksis collage does not establish that it shows this operation, so no media entry is added.
+  - The new account reports 127 hectares while the existing report uses the official 122.86-hectare total; the report keeps the official total.
+  - The new account gives no breakdown by district and no plant counts, weights, arrests, charges or court outcomes.
+  - The page's single image credited to Humas Polri appears to republish the agency handout already listed, so no new media entry is added.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
-[@1,2,13,20,22] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
+[@1,2,13,20,22,28] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
 with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20,21,22,23] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
@@ -307,6 +315,8 @@ The joint team arrived at the location at about 11.00 WIB. [@15,17,18,23]
 
 The 2 November follow-up covered about 25 hectares with an estimated 37,500 cannabis plants. [@21,26,27] One of the 25-hectare locations was at Gampong Teupin Rusep in Sawang, Aceh Utara. [@21] The suspects were charged under Article 111 paragraph (2) of Law 35 of 2009 on Narcotics in conjunction with Law 1 of 2023 on the Criminal Code and Law 1 of 2026 on sentencing adjustments. [@21] The charges carry a possible life sentence or five to 20 years imprisonment plus a fine under the legislation. [@21]
 
-Bareskrim said the mapping of vulnerable cannabis-planting and distribution locations in Aceh followed an instruction from President Prabowo Subianto to the National Police chief, in coordination with the head of BNN. [@25]
+Bareskrim said the mapping of vulnerable cannabis-planting and distribution locations in Aceh followed an instruction from President Prabowo Subianto to the National Police chief, in coordination with the head of BNN. [@25,28]
 
 Police said they were still hunting the alleged owner of the Sawang fields after naming three field managers as suspects. [@27] Officers burned about 115,500 cannabis plants at Blang Meurande and Beutong Ateuh-Benggala in Nagan Raya. [@27] One suspect also grew cannabis at home to monitor the growth of the plants in the field. [@27] BNN is developing coffee cultivation in Gayo Lues as alternative income, with programme gardens reaching 3,086 hectares involving 2,961 farmers from 126 farmer groups and a fostered cooperative to buy their harvest. [@27]
+
+Growers also planted cannabis at home to monitor growth, estimating the forest-field plants' height when the home plants reached 1-2 metres so they did not need to visit the fields until harvest. [@28] The cannabis field owners were still being pursued as fugitives. [@28] Police said they would link one site to another to determine whether the same group managed the fields and planted in different places before abandoning them. [@28]
