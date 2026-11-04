@@ -84,6 +84,10 @@ sources:
     url: https://thewhistler.ng/two-nigerians-swallowed-200-cocaine-wraps-in-failed-smuggling-bid/
     publisher: The Whistler Newspaper
     date: 2026-11-02
+  - title: NDLEA intercepts large consignments of illicit drugs in seven states
+    url: https://gazettengr.com/ndlea-intercepts-large-consignments-of-illicit-drugs-in-seven-states/
+    publisher: Peoples Gazette
+    date: 2026-11-01
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -107,7 +111,7 @@ the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
 and the Abuja airport, for the arrests and seizures. [@1]
 
 Officers at Tashan Banke recovered 178.85 kilogrammes of cannabis, which is the
-separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14,15] Officers also recovered
+separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14,15,17] Officers also recovered
 quantities of diazepam, tramadol, Exol-5 and pregabalin at the same Tashan Banke
 location. [@3,4]
 

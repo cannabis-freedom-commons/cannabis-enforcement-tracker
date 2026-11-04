@@ -98,6 +98,10 @@ sources:
     url: https://thesun.ng/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-filled-stomachs/
     publisher: The Sun Nigeria
     date: 2026-11-01
+  - title: NDLEA intercepts large consignments of illicit drugs in seven states
+    url: https://gazettengr.com/ndlea-intercepts-large-consignments-of-illicit-drugs-in-seven-states/
+    publisher: Peoples Gazette
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -119,4 +123,4 @@ On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on I
 
 ## The target who escaped
 
-The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8,13,17] No further detail about Omo Oba has been published. [@1,2]
+The agency said the operation targeted a notorious dealer known as Omo Oba, who escaped arrest on 25 October when officers seized 309.5 kilograms of the same drug linked to him. [@1,2,4,5,6,8,13,17,20] No further detail about Omo Oba has been published. [@1,2]
