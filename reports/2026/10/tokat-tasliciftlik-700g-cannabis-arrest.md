@@ -55,6 +55,11 @@ sources:
     publisher: Sivas 360
     date: 2026-11-04
     language: tr
+  - title: Tokat'ta araç ve evde 700 gram esrar bulundu, 1 kişi tutuklandı
+    url: https://www.saraymedya.com/haber/tokat-ta-arac-ve-evde-700-gram-esrar-bulundu-1-kisi-tutuklandi_320894/
+    publisher: Saray Medya
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The suspect is identified only by the initials O.B. with age 24; no full name was published.
   - No specific charge or trial outcome beyond remand in custody was reported.
@@ -68,13 +73,13 @@ open_questions:
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00
-on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3,4,5,6] Officers
+on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3,4,5,6,7] Officers
 detained one suspect in connection with the vehicle and home searches. [@1,2]
 
 A judicial search of the vehicle found 380 grams of vacuum-packed kubar esrar,
-herbal cannabis, together with one banknote-counting machine. [@1,2,3,4,5,6] A search of
+herbal cannabis, together with one banknote-counting machine. [@1,2,3,4,5,6,7] A search of
 the driver's home in central Turhal found another 320 grams of vacuum-packed
-kubar esrar. [@2,3,4,5,6] Officers also recovered one vacuum machine, 5 kilograms of
+kubar esrar. [@2,3,4,5,6,7] Officers also recovered one vacuum machine, 5 kilograms of
 odour remover, a digital scale and a knuckle duster from the home. [@1,2,4] The
 vehicle and home searches together yielded a total of 700 grams of kubar esrar.
 [@2,4,6]
@@ -84,3 +89,5 @@ then remanded in custody by the court. [@1,2,3,4,5,6] No other suspect was named
 connection with the seizure. [@2]
 
 The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command. [@2,6]
+
+The court remanded O.B. in custody for drug trafficking and sent him to prison. [@7]
