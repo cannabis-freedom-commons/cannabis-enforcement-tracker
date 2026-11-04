@@ -40,6 +40,11 @@ sources:
     url: https://shironam.com/news/two-traffickers-arrested-with-14-kg-cannabis-in-munshiganj-pickup-seized
     publisher: Shironam
     language: bn
+  - title: পিকআপে করে গাঁজা পরিবহন, দুই যুবক গ্রেপ্তার - NewsNow24
+    url: https://newsnow24.com/dhaka/npqQt6CBNW
+    publisher: NewsNow24
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only one accessible source for this event was found, so no second account confirms the figures.
   - No court outcome was reported; police said legal proceedings were under way at the time of publication.
@@ -48,21 +53,22 @@ open_questions:
   - The Shironam summary does not repeat the ages, addresses, Asia Mill location detail, three-packet packing, pickup colour and registration, or officer names, which continue to rely on the existing source.
   - The Shironam lead photo caption repeats the headline and does not establish that it shows this seizure, and it may duplicate the Dhaka Mail handout already cited, so no media entry is added.
   - 'Left out, as its quotation was not found in Shironam: Detective Branch police in Munshiganj arrested two alleged drug traders in a late-night operation at Muktarpur and seized the pickup van used to carry drugs.'
+  - The NewsNow24 page carries a photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Detective Branch police in Munshiganj arrested two alleged drug traders in a
 late-night operation at Muktarpur and seized the pickup van used to carry drugs.
-[@1] The arrested men were identified as 23-year-old Enamul Haque and
+[@1,3] The arrested men were identified as 23-year-old Enamul Haque and
 22-year-old Md Shahin Hasan, both from the Purba Para area of Brahmanpara in
-Cumilla. [@1] Officers detained them at about 2 a.m. on Monday, 2 November, in
-front of Asia Mill on Muktarpur road in Munshiganj Sadar. [@1]
+Cumilla. [@1,3] Officers detained them at about 2 a.m. on Monday, 2 November, in
+front of Asia Mill on Muktarpur road in Munshiganj Sadar. [@1,3]
 
 The team recovered a total of 14 kg of ganja from the two detainees, packed in
-three packets wrapped in khaki-coloured scotch tape. [@1] Police also seized a
+three packets wrapped in khaki-coloured scotch tape. [@1,3] Police also seized a
 navy-blue pickup van with registration Cumilla-Na-11-0774, allegedly used to
-transport the drugs. [@1]
+transport the drugs. [@1,3]
 
 The raid was carried out by a Munshiganj district Detective Branch team led by
 OC Ishtiaq Ashfaq, with SI Kamrul Hasan and ASI Dipak Kumar, on secret
-information, according to district police superintendent Menhazul Alam. [@1]
-Police said legal proceedings against the two arrested men were under way. [@1,2]
+information, according to district police superintendent Menhazul Alam. [@1,3]
+Police said legal proceedings against the two arrested men were under way. [@1,2,3]
