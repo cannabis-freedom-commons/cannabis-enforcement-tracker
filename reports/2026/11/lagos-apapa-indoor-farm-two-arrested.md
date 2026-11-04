@@ -128,6 +128,10 @@ sources:
     url: https://ng.headtopics.com/news/lagos-police-uncover-suspected-high-tech-indoor-cannabis-89498931
     publisher: Head Topics
     date: 2026-11-03
+  - title: 'ILLEGAL DRUG FARM: LAGOS POLICE UNCOVER SECRET CANNABIS FARM INSIDE RESIDENTIAL BUILDING - OGM News NG'
+    url: https://opitanglobalmedia.com/illegal-drug-farm-lagos-police-uncover-sec/
+    publisher: OGM News NG
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -158,10 +162,13 @@ open_questions:
   - The page's only image caption repeats the headline and does not establish that it shows this farm, the suspects or the raid, so no media entry is included.
   - The page's only image carries no caption or alt text establishing that it shows this farm, the suspects or the raid, so no media entry is listed.
   - The page's only image is captioned "Cannabis Farm · Lagos Police · Apapa" and does not establish that it shows this farm, the suspects or the raid, so no media entry is added.
+  - The OGM account names only Lagos with no district or property identifier, so the Apapa location in the existing report relies on earlier sources.
+  - The OGM account confirms no arrests, names no suspects and gives no raid date or time beyond its 3 November publication date, so the two arrests and 8:15 a.m. 2 November timing rely on earlier sources.
+  - The OGM page's only image caption repeats the headline and does not establish that it shows this farm, the suspects or the raid, so no media entry is added.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
 and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
@@ -170,7 +177,7 @@ discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
 Police said the facility was equipped for the cultivation, harvesting and
-processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22] Police had not disclosed
+processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23] Police had not disclosed
 the quantity of suspected cannabis recovered, the estimated value of the
 facility or how long it had operated. [@1,16] The suspects are in police custody,
 have made confessional statements and are providing information to aid the
