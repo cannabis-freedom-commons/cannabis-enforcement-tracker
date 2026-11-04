@@ -24,6 +24,7 @@ open_questions:
   - CNNBS presents the 21,000 kg as a single catch or example ("de vangst"), while the existing report records 21 tonnes as the full-year 2025 total across operations.
   - CNNBS does not mention the accompanying nearly 55 tonnes of cocaine in the cited existing sentence.
   - Two Belgian-customs photos of February containers via fireplace briquettes and gutted jukeboxes lack a year and weights, so they cannot be tied to the 2025 annual total, and no media entry is added.
+  - The RTL page carries a BELGA-credited photo without a descriptive caption, so it cannot be confirmed to show this seizure event and no media entry is added.
 sources:
   - title: Nearly 20 tonnes of marijuana seized at Port of Antwerp in 2025
     url: https://eumorningpost.com/news/4969-nearly-20-tonnes-of-marijuana-seized-at-port-of-antwerp-in-2025
@@ -39,13 +40,18 @@ sources:
     publisher: CNNBS.nl
     date: 2026-11-04
     language: nl
+  - title: Près de vingt tonnes de cannabis saisies dans le port d’Anvers en 2025 contre... 336 kilos en 2024
+    url: https://www.rtl.be/actu/belgique/societe/pres-de-vingt-tonnes-de-cannabis-saisies-dans-le-port-danvers-en-2025-contre-336/2025-11-03/article/769085
+    publisher: RTL Info
+    date: 2025-11-03
+    language: fr
 ---
 
 Belgian customs intercepted 19,339 kg of cannabis at the Port of Antwerp
 between January and early November 2025, a record that dwarfed the 336 kg
-seized in all of 2024. [@1] Officers made the seizures across 13 operations,
+seized in all of 2024. [@1,4] Officers made the seizures across 13 operations,
 four of them involving hauls of more than three tonnes each; twelve of the
-shipments came from Canada and one from Thailand. [@1] Customs figures later
+shipments came from Canada and one from Thailand. [@1,4] Customs figures later
 put the full-year 2025 marijuana total at 21 tonnes, alongside nearly 55
 tonnes of cocaine. [@2,3]
 
@@ -55,4 +61,4 @@ services and in passengers' luggage. [@1] National drug coordinator Charlotte
 Colman linked the flow to overproduction in countries that legalised cannabis
 for their domestic markets, with surplus diverted into international
 trafficking. [@1] Canada, the United States and Thailand have legalised
-cannabis to varying degrees, but only for domestic markets. [@1]
+cannabis to varying degrees, but only for domestic markets. [@1,4]
