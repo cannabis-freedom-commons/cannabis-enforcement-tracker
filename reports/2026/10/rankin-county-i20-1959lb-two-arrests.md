@@ -49,6 +49,10 @@ sources:
     url: https://www.redhillsmsnews.com/joint-dps-operation-results-large-seizure-cocaine-and-marijuana
     publisher: RedHillsMSNews.com
     date: 2026-11-02
+  - title: Co-drivers arrested after I-20 traffic stop on 18 wheeler ends with seizure of 2,100 pounds of drugs
+    url: https://cdllife.com/2026/co-drivers-arrested-after-i-20-traffic-stop-on-18-wheeler-ends-with-seizure-of-2100-pounds-of-drugs/
+    publisher: CDLLife
+    date: 2026-11-03
 open_questions:
   - The approximately 204 pounds of cocaine reported alongside the marijuana is excluded from the cannabis figures under the mixed-event substance scope.
   - The combined more-than-2,100-pound total includes cocaine and is not used as a cannabis figure; only the separately stated 1,959 pounds of marijuana is counted.
@@ -62,21 +66,23 @@ open_questions:
   - Only the article lede could be opened; the remainder is behind a paywall, so no arrests, charges or vehicle details can be confirmed from this page.
   - The accessible agency list ends at “Madison…” and does not spell out the full Madison agency, so the Madison Police Department detail rests on the existing report's sources.
   - No image on the opened page could be verified as showing this seizure from the text, so no media entry is added.
+  - The CDLLife account spells the MSDPS commissioner's surname as Bo Lucky while the existing report uses Bo Luckey.
+  - The page's two images are captioned only MSDPS and do not establish what they depict, so no media entry is added.
 ---
 
 Officers arrested driver Yohannes Haile and co-driver Befikadu Belayneh after
-stopping their tractor-trailer on Interstate 20 in Rankin County. [@1,3,5,6] Both men
+stopping their tractor-trailer on Interstate 20 in Rankin County. [@1,3,5,6,8] Both men
 were charged with aggravated trafficking of cocaine and trafficking of
-marijuana. [@1,3,4,6] Both were taken to the Rankin County Detention Center, and both
+marijuana. [@1,3,4,6,8] Both were taken to the Rankin County Detention Center, and both
 suspects are presumed innocent unless proven guilty in court. [@1]
 
 Officers found approximately 204 pounds of cocaine and 1,959 pounds of
-marijuana, about 888.6 kg, in the 18-wheeler. [@1,3,4,5,6,7] The seizure occurred
+marijuana, about 888.6 kg, in the 18-wheeler. [@1,3,4,5,6,7,8] The seizure occurred
 Thursday, Oct. 29, during a joint operation involving the Mississippi Bureau of
 Narcotics, the Department of Public Safety Interdiction Team, the Rankin County
-Sheriff’s Department and the Madison Police Department. [@1,3,4,5,6,7] The second account
+Sheriff’s Department and the Madison Police Department. [@1,3,4,5,6,7,8] The second account
 identifies the men as Yohannes Teane Haile, 36, of Lawrenceville, Georgia, and
-Belayneh Kassa Befikadu, 42, of Clarkston, Georgia. [@2]
+Belayneh Kassa Befikadu, 42, of Clarkston, Georgia. [@2,8]
 
 Mississippi Department of Public Safety Commissioner Bo Luckey said the seizure
 demonstrated the impact of strong partnerships between local and state law
