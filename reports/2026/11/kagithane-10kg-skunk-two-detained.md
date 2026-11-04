@@ -65,6 +65,11 @@ sources:
     publisher: herkesduysun.com
     date: 2026-11-04
     language: tr
+  - title: İstanbul'da 10 kilogram skunk ele geçirildi - manisahaberler.com.tr
+    url: https://manisahaberler.com.tr/istanbulda-10-kilogram-skunk-ele-gecirildi-10262498
+    publisher: manisahaberler.com.tr
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate raid date, so 4 November 2026 is the publication date used as the incident date.
   - No charges, custody ruling or court outcome for the two detained suspects were reported.
@@ -81,12 +86,12 @@ Istanbul Provincial Gendarmerie Command teams started work to catch suspects
 accused of manufacturing narcotic substances and preparing to release them onto
 the market. [@1,3,6] After technical and physical surveillance, the teams raided a
 workplace in Kağıthane, Istanbul. [@2,3,7] Officers detained two suspects during the
-raid on the Kağıthane workplace. [@1,3,4,5,6,7,8]
+raid on the Kağıthane workplace. [@1,3,4,5,6,7,8,9]
 
-Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5,6,7,8] The same
-search also seized three mobile phones alongside the drugs. [@2,3,4,5,6,7,8]
+Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5,6,7,8,9] The same
+search also seized three mobile phones alongside the drugs. [@2,3,4,5,6,7,8,9]
 
-The Kağıthane workplace raid took place on 3 November 2026. [@4]
+The Kağıthane workplace raid took place on 3 November 2026. [@4,9]
 
 A trained narcotics dog took part in the search. [@5,6,8]
 
