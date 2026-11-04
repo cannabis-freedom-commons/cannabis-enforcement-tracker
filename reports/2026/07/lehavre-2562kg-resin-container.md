@@ -62,22 +62,27 @@ sources:
     publisher: Le Soir
     date: 2026-07-10
     language: fr
+  - title: Plus de 2,5 tonnes de résine de cannabis trouvés dans des caissons, « une saisie exceptionnelle » dans le port du Havre
+    url: https://www.ouest-france.fr/societe/faits-divers/plus-de-2-5-tonnes-de-resine-de-cannabis-trouves-dans-des-caissons-une-saisie-exceptionnelle-dans-le-port-du-havre-d18a1598-7c59-11f1-a3cc-61ee167b6bba
+    publisher: Ouest-France
+    date: 2026-07-10
+    language: fr
 ---
 
 Customs officers at the port of Le Havre found 2,562 kg of cannabis resin at the end of June 2026,
 sealed in specially built metal compartments under machine tools weighing nearly two tonnes each,
-inside a container that had left Senegal for Libya and was transiting the port. [@1,2,3,4]
+inside a container that had left Senegal for Libya and was transiting the port. [@1,2,3,4,6]
 
 Risk analysts had flagged the container — an unusual routing for machine tools — and a scanner check
 showed anomalies matching hidden compartments; officers then spent several hours cutting into the
 boxes with angle grinders during the heatwave of the week of 22 June. [@1,2,3,5] Customs valued the
 resin at nearly 20.5 million euros on the illicit market, and said the seizure is more than six
 times the cannabis taken by sea in the whole of 2025, a route that accounts for just 0.6% of French
-cannabis seizures against 74.8% by land and 15% by post. [@1,2,3,4,5]
+cannabis seizures against 74.8% by land and 15% by post. [@1,2,3,4,5,6]
 
 Budget minister David Amiel congratulated the Havre officers, pointing to the "Douane 2030" plan:
 25 additional scanners and more staff by 2030, with a fixed mobile scanner deployed at Le Havre in
-2027 and a high-energy fixed scanner in 2030. [@1,2] Neither the customs announcement nor the press
+2027 and a high-energy fixed scanner in 2030. [@1,2,6] Neither the customs announcement nor the press
 reports name any arrests. [@1,2]
 
 In early July the public accounts minister announced a 419-million-euro customs plan including 25 additional scanners nationwide by 2030. [@5]
