@@ -28,6 +28,11 @@ sources:
     publisher: Cartagena Diario
     date: 2026-11-04
     language: es
+  - title: Detenidos 9 miembros de un clan familiar que dirigía tres puntos de venta de cocaína en Jumilla
+    url: https://www.la7tv.es/articulo/sucesos/detenidos-9-miembros-clan-familiar-que-dirigia-tres-puntos-venta-cocaina-jumilla/20261104122010075352.html
+    publisher: La 7
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight for the 86 hashish doses was published, so no kilograms can be recorded.
   - Cocaine doses, cash, phones, jewellery, vehicle, simulated firearms and scales are mentioned only to explain the mixed case and are excluded from cannabis figures.
@@ -39,17 +44,17 @@ open_questions:
 
 The Guardia Civil, working with Jumilla's Local Police, dismantled a suspected
 family clan accused of controlling three drug sale points in Jumilla's old town.
-[@1,2] The operation, called Swart, led to the detention of nine people, five men
-and four women. [@1,2] Those detained are under investigation for alleged drug
+[@1,2,3] The operation, called Swart, led to the detention of nine people, five men
+and four women. [@1,2,3] Those detained are under investigation for alleged drug
 trafficking, money laundering and membership of a criminal organisation. [@1,2]
 Officers carried out simultaneous searches in four homes and two industrial
-warehouses in the municipality. [@1,2]
+warehouses in the municipality. [@1,2,3]
 
-Officers seized 86 doses of hashish, the cannabis component recorded here. [@1,2]
+Officers seized 86 doses of hashish, the cannabis component recorded here. [@1,2,3]
 The same searches recovered more than 700 doses of cocaine prepared for
-distribution. [@1,2] Officers also seized nearly 51,000 euros in cash, along with
+distribution. [@1,2,3] Officers also seized nearly 51,000 euros in cash, along with
 mobile phones, jewellery and documents, a high-end vehicle, simulated firearms
-and precision scales and preparation materials. [@1]
+and precision scales and preparation materials. [@1,3]
 
 The investigation began about two years ago after officers detected suspicious
 drug movements in streets in Jumilla's old town in 2024. [@1] Investigators said
