@@ -143,6 +143,11 @@ sources:
     publisher: Dialeksis
     date: 2026-11-03
     language: id
+  - title: Dukung Asta Cita Presiden Prabowo, Waketum GP Al Washliyah Apresiasi Ketegasan Brigjen Kristian Siagian Musnahkan 122,86 Hektare Ladang Ganja di Aceh
+    url: https://www.metroindo.id/2026/11/dukung-asta-cita-presiden-prabowo.html
+    publisher: Metroindo.id
+    date: 2026-11-03
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -197,13 +202,17 @@ open_questions:
   - The opinion gives only approximate totals with no breakdown by district, no destruction-method details, and no suspect names, charges or court outcomes beyond four people secured.
   - The page images carry no caption or credit establishing that they show this eradication, so no media entry is added.
   - The opinion's 2025 yearly figures and linked headlines about other operations are separate contexts left out here.
+  - The new account presents the 122.86 hectares as destroyed in mountainous areas of Aceh by Bareskrim and Polda Aceh, while the existing report records the campaign across Aceh and North Sumatra with BNN, military, local government and community participation.
+  - The new account names only Brigjen Kristian Siagian and does not mention BNN eradication deputy Brigjen Adri Irniadi named in the existing report.
+  - The page's sole image is captioned as a portrait of Muhammad Asril Siregar, not the fields, plants, seizure or operation, so no media entry is added.
+  - The new account gives no plant counts, weights, arrests, charges or court outcomes for the operation.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
-[@1,2,13] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18] In North Aceh on
+[@1,2,13,20] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
 HM. [@1,4,6,9,11,13,19] Investigators designated three of the four as suspects and released HM
@@ -212,7 +221,7 @@ Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
 [@1,13]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3,4,6,7,9,10,11,12,13,16,19] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3,4,6,7,9,10,11,12,13,16,19,20] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
 about 150,000 cannabis plants aged about five to six months. [@1,13] Officers
 burned those plants on the spot. [@1,13] The Mandailing Natal find began with a
