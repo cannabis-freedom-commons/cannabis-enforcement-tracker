@@ -63,6 +63,11 @@ sources:
     publisher: Kalisz Nasze Miasto
     date: 2026-11-03
     language: pl
+  - title: Przegląd prasy z Ostrowa Wielkopolskiego. Sprawdź najważniejsze informacje z wczoraj. Prasówka 4.11.2026
+    url: https://ostrow.naszemiasto.pl/przeglad-prasy-z-ostrowa-wielkopolskiego-sprawdz-najwazniejsze-informacje-z-wczoraj-prasowka-4-11-2026/ar/c1p1-19739089
+    publisher: Ostrów Wielkopolski Nasze Miasto
+    date: 2026-11-04
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search and arrest, so the publication date is used as the incident date.
   - The exact village or address of the property was not named beyond the Koźminek police area, so Koźminek is used as the place.
@@ -77,15 +82,18 @@ open_questions:
   - The submitted page gives no separate date for the search and arrest; 3 November 2026 is its publication date, while the existing report uses 2 November 2026 from earlier coverage.
   - The roundup gives only its publication date of 3 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
   - This page states the man was detained and faces up to three years without explicitly stating that a charge has already been filed as the existing report records.
+  - This roundup gives only its publication date of 4 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
+  - This roundup says the man was detained and faces up to three years in prison without explicitly stating that a charge has already been filed, as the existing report records.
+  - The page lead image is credited to Oscar Wong/Getty Images and described as illustrating reader habits in Ostrów Wielkopolski, indicating stock imagery rather than this seizure, so no media entry is added.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the
 property where he lived in connection with growing cannabis and dealing drugs.
-[@1,2,3,4,5,6] He has already been charged and faces up to three years in prison. [@1,2,5,6]
+[@1,2,3,4,5,6,7] He has already been charged and faces up to three years in prison. [@1,2,5,6,7]
 
 During a search of the premises, they found a foil tunnel prepared for cannabis
 cultivation, holding seedlings at various growth stages as well as seed trays.
-[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5,6] They also seized more than 540 grams
+[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5,6,7] They also seized more than 540 grams
 of ready-made cannabis dried material, alongside more than 40 grams of a
 psychotropic substance described as an amphetamine derivative. [@1,2,3,4,5] Police put
 the estimated black-market value of the seized ready-made drugs at nearly 25,000
