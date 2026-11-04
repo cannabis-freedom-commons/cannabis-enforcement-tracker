@@ -39,17 +39,25 @@ sources:
     archived: https://web.archive.org/web/20261007234600/https://www.shawlocal.com/illinois-valley/2026/09/09/suspects-in-record-peru-drug-seizure-ordered-held/
     publisher: Shaw Local
     date: 2026-09-09
+  - title: 'ISP: 2 men charged after thousands of pounds of cannabis seized in LaSalle County bust'
+    url: https://www.25newsnow.com/video/2026/09/07/isp-2-men-charged-after-thousands-pounds-cannabis-seized-lasalle-county-bust/
+    publisher: 25News Now (WEEK)
+    date: 2026-09-06
+  - title: Illinois State Police Seize Over 5,800 Pounds of Cannabis During I-80 Traffic Stop
+    url: https://aroundptown.com/illinois-state-police-seize-over-5800-pounds-of-cannabis-during-i-80-traffic-stop
+    publisher: AroundPtown
+    date: 2026-09-08
 ---
 
 Just after 11:30 on Thursday 4 September 2026, a trooper with the Illinois State Police
 Commercial Vehicle Enforcement Bureau stopped a truck tractor semi-trailer on eastbound
-Interstate 80 just outside LaSalle. [@1,2] A search found multiple pallets of suspected cannabis
-and cannabis products weighing about 5,858.4 pounds (roughly 2.66 tonnes). [@1,2]
+Interstate 80 just outside LaSalle. [@1,2,5] A search found multiple pallets of suspected cannabis
+and cannabis products weighing about 5,858.4 pounds (roughly 2.66 tonnes). [@1,2,5]
 
 The driver, 41-year-old Mahmoud B. Bazrouk of Norridge, and co-driver Haed O. Samham, 45, of
-Harwood Heights, were taken into custody without incident. [@1,2] The LaSalle County State's
+Harwood Heights, were taken into custody without incident. [@1,2,5] The LaSalle County State's
 Attorney charged both with cannabis trafficking, a Class X felony, and they were held at the
-LaSalle County Jail. [@1,2,3]
+LaSalle County Jail. [@1,2,3,4,5]
 
 At detention hearings on 9 September, Circuit Judge Michelle A. Vescogni ordered both men held
 without pretrial release, finding the quantity too large for supervised release to prevent further
