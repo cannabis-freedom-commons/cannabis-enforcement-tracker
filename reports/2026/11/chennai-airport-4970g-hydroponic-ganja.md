@@ -35,6 +35,11 @@ sources:
     url: https://urbanacres.in/chennai-airport-seizes-hydroponic-ganja-worth-rs-5-crore/
     publisher: Urban Acres
     date: 2026-11-04
+  - title: சென்னை விமான நிலையத்தில் ரூ.5 கோடி மதிப்புள்ள கஞ்சா பறிமுதல்! தாய்லாந்தில் இருந்து கடத்திக் கொண்டு வந்த வாலிபர் கைது!
+    url: https://www.malaimurasu.com/politics/tamilnadu/ganja-worth-rs-5-crore-seized-at-chennai-airport-young-man-arrested-for-smuggling-it-from-thailand
+    publisher: Malaimurasu Seithikal
+    date: 2026-11-04
+    language: ta
 open_questions:
   - Puthiyathalaimurai rounds the haul to 5 kg; this report uses The Times of India's precise 4,970 grams.
   - Puthiyathalaimurai describes the flight as arriving yesterday early morning, which would be 3 November 2026, while The Times of India says the interception happened on Monday, 2 November 2026; 3 November is used as the incident date.
@@ -44,6 +49,9 @@ open_questions:
   - The page photo is labelled as a file photo and is not established to show this seizure, so no media entry is included.
   - The article says the interception took place on Monday but gives only its publication date of 4 November 2026, implying 2 November, while the existing report uses 3 November 2026.
   - Urban Acres describes the passenger only as an Indian arriving from Bangkok and does not give the age, Kerala origin, graduate status, Puzhal imprisonment or Kuala Lumpur transit recorded in the existing report.
+  - This account says the interception was on Monday 2 November, while the existing report uses 3 November 2026 as the incident date.
+  - This account does not give the youth's age, Kerala origin, graduate status, Puzhal imprisonment or Kuala Lumpur transit recorded in the existing report.
+  - The page image is captioned only as chennai airport and is not established to show this seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://urbanacres.in/chennai-airport-seizes-hydroponic-ganja-worth-rs-5-crore/
@@ -65,16 +73,16 @@ His baggage held processed-food packets, among which officers found packets
 hiding high-grade hydroponic ganja. [@1] The Air Intelligence Unit intercepted
 him on spot profiling. [@2] A detailed examination of his checked-in baggage
 found 10 transparent packets containing green-coloured flowering and fruiting
-tops suspected to be hydroponically cultivated cannabis. [@2,3] The packets
+tops suspected to be hydroponically cultivated cannabis. [@2,3,4] The packets
 weighed 4,970 grams and had been hidden inside food packets in his trolley
-suitcase. [@2,3] Customs valued the haul at around Rs 5 crore in the illicit
-market. [@2,3] A field drug-testing kit confirmed the substance was cannabis. [@2,3]
+suitcase. [@2,3,4] Customs valued the haul at around Rs 5 crore in the illicit
+market. [@2,3,4] A field drug-testing kit confirmed the substance was cannabis. [@2,3,4]
 Officers seized the cannabis under Section 43 of the Narcotic Drugs and
 Psychotropic Substances Act, 1985. [@2,3] The passenger was arrested and remanded
-to judicial custody. [@2,3]
+to judicial custody. [@2,3,4]
 
 Officials said smuggling syndicates fund young people's travel and accommodation
-and use them to carry contraband into India. [@2,3] The case was described as the
-third such seizure at Chennai airport within a week. [@2] Customs were
+and use them to carry contraband into India. [@2,3,4] The case was described as the
+third such seizure at Chennai airport within a week. [@2,4] Customs were
 continuing to investigate the gang that allegedly lured him with promises and
 used him as a courier. [@1]

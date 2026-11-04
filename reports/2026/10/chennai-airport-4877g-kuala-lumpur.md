@@ -79,6 +79,11 @@ sources:
     url: https://urbanacres.in/chennai-airport-seizes-hydroponic-ganja-worth-rs-5-crore/
     publisher: Urban Acres
     date: 2026-11-04
+  - title: சென்னை விமான நிலையத்தில் ரூ.5 கோடி மதிப்புள்ள கஞ்சா பறிமுதல்! தாய்லாந்தில் இருந்து கடத்திக் கொண்டு வந்த வாலிபர் கைது!
+    url: https://www.malaimurasu.com/politics/tamilnadu/ganja-worth-rs-5-crore-seized-at-chennai-airport-young-man-arrested-for-smuggling-it-from-thailand
+    publisher: Malaimurasu Seithikal
+    date: 2026-11-04
+    language: ta
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -111,6 +116,7 @@ open_questions:
   - ETV Bharat gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
   - ETV Bharat was published 2 November 2026 and describes the Kuala Lumpur flight arriving the night of 1 November, while the existing report dates the event 31 October 2026.
   - Urban Acres dates this earlier seizure to 30 October while the existing report uses 31 October 2026.
+  - This account says the 30 October Kuala Lumpur haul was in 15 small packets, while the existing report uses 23 packets disguised as food from Daily Thanthi.
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
@@ -125,7 +131,7 @@ media:
 ---
 
 Customs officers at Chennai International Airport arrested a young woman who had
-arrived from Malaysia. [@1,3,4,5,6,7,8,9,10] She had flown in from the capital, Kuala Lumpur, and
+arrived from Malaysia. [@1,3,4,5,6,7,8,9,10,13] She had flown in from the capital, Kuala Lumpur, and
 was 28 years old. [@1,5,8] Hindustan Times described her as an Indian woman. [@2,3]
 She tried to leave the airport without passing through customs inspection, and
 officers stopped her and searched her suitcase and handbag. [@1]
