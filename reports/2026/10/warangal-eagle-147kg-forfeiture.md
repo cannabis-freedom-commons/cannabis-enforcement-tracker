@@ -33,6 +33,11 @@ sources:
     url: https://thenewsmill.com/2026/11/excise-officials-seize-3-323-kg-ganja-in-medchal-three-detained/
     publisher: The News Mill
     date: 2026-11-04
+  - title: 'तेलंगाना: मेडचल में 3.323 किलो गांजा जब्त, तीन गिरफ्तार; वारंगल में ड्रग्स मामले में संपत्ति कुर्क'
+    url: https://www.lokmatnews.in/india/telangana-excise-officials-seize-3323-kg-ganja-in-medchal-three-arrested-assets-forfeited-in-warangal-drug-case-a001-w01/
+    publisher: Lokmat News Hindi
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The reports give no separate date for the seizure itself; 28 October is when the agency disclosed the case.
   - The GITAM University campus drug screening covered in one source is a separate event left out here.
@@ -41,7 +46,7 @@ open_questions:
 
 Telangana's Elite Action Group for Drug Law Enforcement (EAGLE Force) arrested four alleged
 ganja peddlers in Warangal district and seized 147.3 kg of dry ganja, two cars and three mobile
-phones, the agency's director Sandeep Shandilya said on 28 October 2026. [@1,2] The accused were
+phones, the agency's director Sandeep Shandilya said on 28 October 2026. [@1,2,4] The accused were
 identified as Nerella Sadaiah alias Sathish, Samala Sheshu, Kilo Somaraju and Munawar Ali, in a
 case registered at the Warangal EAGLE Force police station under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act. [@1,2]
@@ -50,7 +55,7 @@ Investigators then traced the network's finances, examining bank accounts, sale 
 receipts and registration documents of the accused and their relatives. [@1,3] They froze
 Rs 1,59,910 across three bank accounts, seized a tractor and a motorcycle worth about Rs 7.8
 lakh, and attached farmland and two open plots worth about Rs 61 lakh, Rs 70,39,910 in all,
-under Section 68F of the NDPS Act. [@1] The competent authority in Chennai confirmed the
+under Section 68F of the NDPS Act. [@1,4] The competent authority in Chennai confirmed the
 forfeiture on 27 October 2026. [@1]
 
 EAGLE Force said the action looks beyond contraband to stop trafficking proceeds being turned
