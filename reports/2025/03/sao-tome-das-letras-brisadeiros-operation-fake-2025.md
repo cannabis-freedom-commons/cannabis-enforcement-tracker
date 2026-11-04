@@ -28,6 +28,11 @@ sources:
     publisher: G1 Sul de Minas
     date: 2025-03-23
     language: pt
+  - title: Centenas de ‘brisadeiros’ e ‘doces mágicos’ são apreendidos em São Tomé das Letras
+    url: https://bhaz.com.br/noticias/minas-gerais/brisadeirossao-tome-das-letras/
+    publisher: BHAZ
+    date: 2025-03-24
+    language: pt
 open_questions:
   - No weight was published for the seized sweets, so no kilograms of cannabis can be recorded.
   - The almost-400 total mixes cannabis items with 70 magic mushrooms and other sweets only described as possibly containing marijuana among synthetic drugs and other substances, so no combined count is treated as cannabis.
@@ -37,11 +42,18 @@ open_questions:
   - The submitted page carries no usable event photo and the direct image address for the police seizure photo could not be recovered, so no media entry is included.
   - The incident date of 22 March 2025 comes from the operation report's night of Saturday 22 March; the follow-up gives only March.
   - 'Left out, as its quotation was not found in G1 Sul de Minas: Police listed the seizure as 200 brisadeiros, 70 magic brownies, 40 magic cookies, 70 magic mushrooms and 15 cannabis palhas italianas.'
+  - The BHAZ account does not give the operation's name or the number of officers involved, so those details remain supported only by the earlier G1 account.
+media:
+  - kind: photo
+    url: https://bhaz.com.br/noticias/minas-gerais/brisadeirossao-tome-das-letras/
+    media_url: https://bhaz.com.br/wp-content/uploads/2025/03/brisadeiros-1024x576.jpg
+    publisher: BHAZ
+    caption: 'Hundreds of seized sweets displayed after the operation. Photo: Divulgação/PMMG'
 ---
 
 Military police detained 10 people in São Tomé das Letras, Minas Gerais, on the
 night of Saturday 22 March 2025 in an operation against street sales of food
-adulterated with hallucinogenic substances. [@2] Those held were eight men aged
+adulterated with hallucinogenic substances. [@2,3] Those held were eight men aged
 24 to 42 and two women aged 27 and 29, who were taken to the station, heard and
 released. [@2] Those detained and the collected material were sent to the police
 station in Três Corações. [@2] Police opened an inquiry and the case remained
@@ -55,10 +67,9 @@ reporting hallucinations, vomiting and diarrhoea. [@1]
 
 The city had warned tourists about foods sold under names such as brisadeiros,
 brisamelos, magic brownies, brigaconha and magic sweets, which may contain
-hallucinogenic substances. [@1] The municipal alert said the products may
+hallucinogenic substances. [@1,3] The municipal alert said the products may
 contain illicit substances such as cannabis, as well as psychotropic medicines
-and hallucinogenic mushrooms. [@1] Health surveillance said warnings were its
+and hallucinogenic mushrooms. [@1,3] Health surveillance said warnings were its
 tool because artisanal free-trade food considered low risk cannot be banned or
 collected by inspectors. [@1] After the surveillance and police actions, sales
 of adulterated products fell. [@1]
-
