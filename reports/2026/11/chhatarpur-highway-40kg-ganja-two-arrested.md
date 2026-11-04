@@ -37,6 +37,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 'छतरपुर: कार के गुप्त चेंबर से 40 किलो गांजा बरामद, 2 तस्कर गिरफ्तार'
+    url: https://rajexpress.com/madhya-pradesh-news/chhatarpur-police-bust-ganja-smuggling-secret-chamber-car-two-arrested-mp-news-hindi
+    publisher: Raj Express
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article says the interception happened 'last night' relative to its 3 November 2026 publication, so 2 November 2026 is used as the incident date rather than a separately stated event date.
   - The seized weight is reported only as more than 40 kg, so figures record 40 kg as the stated minimum.
@@ -45,10 +50,20 @@ open_questions:
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The page carries a photo captioned only 'Chhatarpur News', which does not establish that it shows this seizure, so no media entry is listed.
   - The Bhaskar article dated 4 November 2026 also describes the interception as happening last night, which would point to 3 November, while the existing report dates the event to 2 November 2026 from the earlier account; the matching details show it is the same interception.
+  - The new account names the first accused as Hiren Nayak while the existing report names Dhirendra Nayak; Jaipal Singh matches in both and the remaining details match, but the correct full name of the first accused remains unclear.
+  - The new account states the total weight as 40 kg while the existing report records more than 40 kg; figures continue to use 40 kg as the stated minimum.
+  - The new account gives only its 3 November 2026 publication date with no separate event date; the existing report dates the interception to 2 November 2026 from the earlier last-night reference.
+  - The claim that the ganja was brought from the Odisha side for supply in Chhatarpur appears only in the new account.
+media:
+  - kind: photo
+    url: https://rajexpress.com/madhya-pradesh-news/chhatarpur-police-bust-ganja-smuggling-secret-chamber-car-two-arrested-mp-news-hindi
+    media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/dc1ec069-3a2f-456e-9c23-a43107cfe6c4.webp
+    publisher: Raj Express
+    caption: Photo showing the 40 kg of ganja recovered from the car's secret chamber in Chhatarpur.
 ---
 
 Kotwali police in Chhatarpur district uncovered an alleged ganja-smuggling
-operation. [@1] Officers arrested two accused men in the operation. [@1,2] Police
+operation. [@1] Officers arrested two accused men in the operation. [@1,2,4] Police
 identified the arrested men as Dhirendra Nayak and Jaipal Singh Parmar. [@1,3]
 Police registered a case against both men under the NDPS Act, India's narcotics
 law. [@1,3]
@@ -57,11 +72,13 @@ The Kotwali team was on night highway patrol when an informer tipped them that
 ganja would be smuggled along the Jhansi-Khajuraho four-lane highway. [@1,3]
 Police cordoned the highway near Bundelkhand Restaurant, stopped a suspicious
 Hyundai Verna car and searched it. [@1,3] The search of the car yielded 46 packets
-holding more than 40 kg of ganja. [@1,3] Police said the seized ganja was worth
-about 2 million rupees. [@1] Police also seized the Chhattisgarh-registered
+holding more than 40 kg of ganja. [@1,3,4] Police said the seized ganja was worth
+about 2 million rupees. [@1,4] Police also seized the Chhattisgarh-registered
 Hyundai Verna allegedly used for the smuggling. [@1,3]
 
 Police said their drive against narcotics trafficking in the district will
 continue. [@1]
 
-Police valued the seized car at about 800,000 rupees. [@3] Police produced both accused in court. [@3]
+Police valued the seized car at about 800,000 rupees. [@3,4] Police produced both accused in court. [@3,4]
+
+A joint Kotwali police and cyber-cell team cordoned the highway and caught the suspect car. [@4] The informer's tip said a white Verna car would bring ganja from the Odisha side for supply in Chhatarpur. [@4] Police said the accused had built a secret chamber in the car's interior to hide the ganja. [@4] Police identified the arrested men as Hiren Nayak and Jaipal Singh. [@4] Police said both arrested men live in the Matouma area of Chhatarpur. [@4] Police are now investigating the supply network behind the smuggling. [@4]
