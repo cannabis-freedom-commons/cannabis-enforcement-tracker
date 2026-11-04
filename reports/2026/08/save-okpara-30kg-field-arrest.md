@@ -25,29 +25,39 @@ sources:
     publisher: Bénin Web TV
     date: 2026-08-27
     language: fr
+  - title: 'Bénin : une plantation de chanvre indien découverte à Savè, plus de 30 kg saisis'
+    url: https://lanouvelletribune.info/2026/08/benin-une-plantation-de-chanvre-indien-decouverte-a-save-plus-de-30-kg-saisis/
+    publisher: La Nouvelle Tribune
+    date: 2026-08-29
+    language: fr
 open_questions:
   - Only one source for this event could be opened; no second account or agency statement was found.
   - The weight and field size are lower bounds only, reported as more than 30 kg and more than one hectare.
   - The article says the field was discovered but does not state that the plants were uprooted or destroyed.
   - The arrested worker and the fugitive owner are not named, and no charge or court outcome was reported.
   - The page's only image is a generic 2023 Police républicaine vehicle photo, not this operation, so no media entry is included.
+  - The cited 15 kg harvested plus about 200 kg of plants still standing are presented as preliminary local-media figures needing confirmation by the competent authorities, so they are not counted as settled kilograms and sit uneasily beside the confirmed more than 30 kg total.
+  - The page's only image is a generic 2018 Police républicaine photo captioned Des agents de la police républicaine, not this operation, so no media entry is included.
+  - The July operations at Ouidah, Djougou and Ouassa-Péhunco and the June arrests at Agla in Cotonou mentioned for context are separate events left out of this report.
+  - The transfer of the case file to the judicial authorities and the description of workers simulating ordinary farming appear in the existing report's earlier source but are not repeated in this account.
 ---
 
 Around 6 a.m. on 27 August 2026, officers of the Oké-Owo border police station
 raided a site in the village of Atta, in the Okpara arrondissement of the
-commune of Savè, under the command of Commissioner Joseph Chabi Wetti. [@1] The
+commune of Savè, under the command of Commissioner Joseph Chabi Wetti. [@1,2] The
 alleged main operator and presumed owner of the field fled when the officers
-arrived. [@1] Officers arrested one man on the spot, described as one of the
-farm workers and the nephew of the wanted owner. [@1] The suspect was placed in
+arrived. [@1,2] Officers arrested one man on the spot, described as one of the
+farm workers and the nephew of the wanted owner. [@1,2] The suspect was placed in
 custody at the Oké-Owo police station, an active search is under way for the
 plantation's promoter, and the case file was sent to the competent judicial
-authorities. [@1]
+authorities. [@1,2]
 
 The officers uncovered a cannabis field covering more than one hectare and
-seized more than 30 kilograms of cannabis at the site. [@1] The site was
+seized more than 30 kilograms of cannabis at the site. [@1,2] The site was
 described as an organised operation with workers assigned to tend the cannabis
-crops while simulating ordinary farming. [@1]
+crops while simulating ordinary farming. [@1,2]
 
 Benin's Police républicaine presented the raid as part of its fight against drug
 trafficking in the commune of Savè. [@1]
 
+The detained man denied being responsible for the plantation and attributed ownership of the field to his uncle. [@2] Local media accounts cited in the report described 15 kg already harvested, dried and packaged plus about 200 kg of plants still standing, figures the report said still needed confirmation by the competent authorities. [@2]
