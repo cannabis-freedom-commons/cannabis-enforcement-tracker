@@ -27,6 +27,11 @@ sources:
     publisher: Flagman.bg
     date: 2026-11-02
     language: bg
+  - title: В Бургасе задержали четырёх водителей с положительными тестами на наркотики
+    url: https://burgasmedia.com/amp/news/chetirima-shofori-s-polozhitelni-testove-za-narkotici-zadarzhani-v-burgas?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-03
+    language: ru
 open_questions:
   - No cannabis weight was reported, only alleged consumption before driving, so no kilogram figure can be recorded.
   - No outcome of the fast-track proceedings was reported.
@@ -38,14 +43,14 @@ open_questions:
 
 Police in Burgas reported weekend drug-driving checks on 31 October and 1
 November, with roadside tests showing cocaine, cannabis, amphetamine and
-methamphetamine. [@1] Second District officers stopped a Peugeot Partner with
+methamphetamine. [@1,3] Second District officers stopped a Peugeot Partner with
 Varna registration on Odrin Street in Burgas at about 13:20. [@2] The Odrin
 Street stop took place on 31 October within that weekend enforcement period.
-[@1] The car was driven by a 20-year-old man from Primorsko. [@1]
+[@1] The car was driven by a 20-year-old man from Primorsko. [@1,3]
 
-A roadside drug test indicated that the Primorsko driver had used cannabis. [@1]
+A roadside drug test indicated that the Primorsko driver had used cannabis. [@1,3]
 The driver refused to provide a blood sample for confirmatory chemical analysis.
-[@2] Officers detained the driver for 24 hours after the check. [@1] Police
+[@2] Officers detained the driver for 24 hours after the check. [@1,3] Police
 opened fast-track proceedings in connection with his case. [@2]
 
 Police described the Primorsko case as driving after cannabis use, distinct from
@@ -53,5 +58,4 @@ the other substances in the same roundup. [@2] The same weekend roundup also
 recorded positive results for cocaine, amphetamine and methamphetamine in other
 driver stops. [@2] Two of the drivers in the wider roundup refused to provide
 samples for laboratory testing. [@1] Fast-track proceedings were opened against
-all of the drivers in the weekend roundup. [@1]
-
+all of the drivers in the weekend roundup. [@1,3]
