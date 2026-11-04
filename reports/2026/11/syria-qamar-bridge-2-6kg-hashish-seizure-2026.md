@@ -43,20 +43,27 @@ sources:
     publisher: Annahar
     date: 2026-11-01
     language: ar
+  - title: إحباط محاولة تهريب مخدرات عبر منفذ جسر قمار الحدودي مع لبنان
+    url: https://horrya.net/archives/164323
+    publisher: حرية برس Horrya press
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The article gives only its publication date of 1 November 2026 and no separate day for the interception.
   - No suspects were named and no arrests, charges or court outcomes were reported.
   - The 17 grams of heroin seized with the hashish are excluded from the cannabis figure.
   - No independent second outlet was found; the English and Arabic pages are the same publisher's editions of this report.
   - Whether the lead photo on the source page shows this seizure could not be verified from its caption and surrounding text.
+  - The Horrya article also describes October anti-narcotics operations that seized 450,000 Captagon pills and detained two suspects in Homs, a separate event left out here.
+  - Whether the lead photo on the Horrya page shows this specific seizure could not be verified from its generic caption.
 ---
 
 Syria's General Authority for Borders and Customs said it foiled an attempt to
 smuggle a quantity of narcotics through the Qamar Bridge border crossing with
 Lebanon during routine inspections of luggage belonging to arriving travelers.
-[@1,4] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
+[@1,4,5] The inspection recovered 2,600 grams of hashish and 17 grams of heroin that
 had been tightly concealed together inside a loudspeaker to disguise them and
-bypass customs inspection. [@2,4]
+bypass customs inspection. [@2,4,5]
 
 The 2,600 grams of hashish equal 2.6 kilograms and form the separately supported
 cannabis component of this mixed seizure, while the 17 grams of heroin are a
