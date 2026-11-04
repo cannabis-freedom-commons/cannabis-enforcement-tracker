@@ -148,6 +148,11 @@ sources:
     publisher: Abtak Media
     date: 2026-11-02
     language: gu
+  - title: अहमदाबाद में 13 करोड़ का गांजा जब्त
+    url: https://jantaserishta.com/local/gujarat/cannabis-worth-13-crore-seized-in-ahmedabad-4913193
+    publisher: Janta Se Rishta
+    date: 2026-11-02
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -206,19 +211,20 @@ open_questions:
   - The Abtak Media account gives only its publication date of 2 November 2026 and dates the Customs action to 1 November 2026, consistent with the existing incident date of 1 November 2026.
   - The page uses hybrid cannabis in its headline and hydroponic ganja in its body for the same 13.012 kg seizure, while the existing hydroponic description is retained.
   - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
+  - 'Left out, as its quotation was not found in Janta Se Rishta: The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act, 1985, India''s main drug law, and both passengers were arrested.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25,26] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,26]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,26,27]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
-detailed manual examination. [@1,2,9,18,19,20,24,26] Inside the bags officers found 14
+detailed manual examination. [@1,2,9,18,19,20,24,26,27] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24,26] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24,26,27] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19,20,22,26]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
