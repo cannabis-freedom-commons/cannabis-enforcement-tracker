@@ -107,6 +107,11 @@ sources:
     publisher: Corriere di Arezzo
     date: 2026-11-03
     language: it
+  - title: 'Operazione della Guardia di Finanza ad Arezzo: sequestrati 4 kg di hashish e 2 arresti'
+    url: https://nelquotidiano.news/dalle-citta/arezzo/2026/11/03/operazione-della-guardia-di-finanza-ad-arezzo-sequestrati-4-kg-di-hashish-e-2-arresti
+    publisher: NelQuotidiano
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -123,21 +128,21 @@ open_questions:
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11,12] The two people stopped were one
-Italian national and one Albanian national. [@2,3,4,5,7,8,10,12] Officers had flagged two
+4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11,12,13] The two people stopped were one
+Italian national and one Albanian national. [@2,3,4,5,7,8,10,12,13] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1,3,5,6,7,8,9,10,12] The two were stopped as they collected the
-parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8] After
+of residents in Arezzo province. [@1,3,5,6,7,8,9,10,12,13] The two were stopped as they collected the
+parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8,13] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1,3,4,5,6,7,10,12]
+under house arrest. [@1,3,4,5,6,7,10,12,13]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1]
-Officers identified the real recipients through targeted stakeouts. [@1,9,12] The
+Officers identified the real recipients through targeted stakeouts. [@1,9,12,13] The
 Guardia di Finanza, Italy's financial police, said the operation showed its
 commitment to upholding legality as a force present in the area. [@1] The press
-release was authorised by the Arezzo public prosecutor. [@2] The suspects are
-presumed innocent pending a final judgment. [@2]
+release was authorised by the Arezzo public prosecutor. [@2,13] The suspects are
+presumed innocent pending a final judgment. [@2,13]
 
 The two suspects were an Italian born in 2006 and an Albanian born in 1998. [@12] The hashish was packed in boxes designed to look like football sticker packets showing Norway player Haaland wearing a Viking headdress and holding a ball. [@12] The provincial operation was led by Colonel Daniela Parisi. [@12]
