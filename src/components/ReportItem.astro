@@ -11,7 +11,7 @@ const ZOOM_ICON = '<svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy
 const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r.tags ?? [])].join(" ").toLowerCase();
 ---
 <li class:list={["report-item", { "has-thumb": r.cover || r.photo }]} data-id={r.id} data-type={r.type} data-also={(r.also ?? []).join(" ")}
-  data-country={r.country} data-parent={r.parent ?? undefined} data-year={r.year} data-text={search ? haystack : undefined}>
+  data-added={r.added_at ?? undefined} data-country={r.country} data-parent={r.parent ?? undefined} data-year={r.year} data-text={search ? haystack : undefined}>
   <div class="meta">
     <span class="type" style={`--c:${r.color}`}>{r.typeLabel}</span>
     <time datetime={isoDate(r.date)}>{formatDate(r.date)}</time>

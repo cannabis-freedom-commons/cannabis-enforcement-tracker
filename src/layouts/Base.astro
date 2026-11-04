@@ -2,11 +2,14 @@
 import "../styles/global.css";
 import { reports } from "../lib/reports.js";
 import { submissionsAPI as api } from "../lib/submissions-config.js";
+import { build } from "../lib/build-info.js";
 const { title, description = "An open record of cannabis eradication, seizures, raids, arrests, prosecutions and sentences around the world.", wide = false, app = false, ogType = "website" } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const fullTitle = title ? `${title} · Cannabis Enforcement Tracker` : "Cannabis Enforcement Tracker";
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const here = Astro.url.pathname.replace(base, "/");
+const REPO = "https://github.com/burningtree/cannabis-freedom-index-tracker";
+const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }).format(new Date(build.built_at));
 ---
 <!doctype html>
 <html lang="en">
@@ -22,6 +25,11 @@ const here = Astro.url.pathname.replace(base, "/");
     <meta property="og:url" content={canonical} />
     <slot name="head" />
     <meta name="theme-color" content="#0c0c0b" />
+    {/* this build, for the update check and the "new since your last visit" marks (scripts/site-updates.js) */}
+    <meta name="cet-build" content={build.id} />
+    <meta name="cet-reports" content={String(build.reports)} />
+    {build.latest_added && <meta name="cet-latest" content={build.latest_added} />}
+    <meta name="cet-base" content={base} />
     <script is:inline>
       // the theme before the page is drawn: the reader's choice, else the system's
       (() => {
@@ -57,6 +65,7 @@ const here = Astro.url.pathname.replace(base, "/");
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8zM14 3v5h5M8 14l2.5 2.5L16 11"/></svg>
         <span>{reports.length.toLocaleString("en-GB")}</span>
       </a>
+      <a class="new-reports" id="new-reports" href={`${base}reports/?new=1`} hidden><span class="new-dot" aria-hidden="true"></span><span class="new-count"></span> new</a>
       {/* the submissions service: a dot for whether it answers, and how many requests it is working on */}
       {api && <a class="svc-status" id="svc-status" href={`${base}submissions/`} data-api={api} data-state="checking" title="Checking the submissions service…" aria-label="Submissions service: checking"><svg class="svc-cog" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2.2"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg><span class="svc-count" hidden></span><span class="svc-queue" hidden><svg class="svc-queue-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12M6 21h12M7.5 3v3.5L12 12l-4.5 5.5V21M16.5 3v3.5L12 12l4.5 5.5V21"/></svg><span class="svc-queue-count"></span></span></a>}
       </span>
@@ -139,9 +148,15 @@ const here = Astro.url.pathname.replace(base, "/");
           A companion to the <a href="https://cannabisfreedom.fyi/" class="ext" target="_blank" rel="noopener">Cannabis Freedom Index</a>.
           Every report cites its sources. Data: <a href={`${base}api/reports.json`}>JSON</a> · <a href={`${base}feed.xml`}>RSS</a> · <a href={`${base}changelog/`}>Changelog</a> · <a href={`${base}submissions/`}>Submit</a>.
         </p>
+        {/* the build this page is from: its commit and when it was built */}
+        <p class="footer-build">
+          {build.commit && <><a href={`${REPO}/commit/${build.commit}`} target="_blank" rel="noopener" title={`Built from commit ${build.commit}`}><code>{build.commit.slice(0, 7)}</code></a> · </>}
+          <time datetime={build.built_at} title={`Built ${build.built_at}`}>built {builtLabel} UTC</time>
+        </p>
       </footer>
     )}
     <script>import "../scripts/glossary.js";</script>
+    <script>import "../scripts/site-updates.js";</script>
     <script>
       const refresh = document.querySelector<HTMLButtonElement>("#refresh-reports");
       refresh?.addEventListener("click", async () => {

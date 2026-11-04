@@ -128,7 +128,11 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 :root[data-theme="light"] { --landrace: #23703f; }
 .page { flex: 1; width: 100%; max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
 .page.wide { max-width: 1200px; }
-.footer { border-top: 1px solid var(--border); padding: 20px clamp(16px, 4vw, 40px); color: var(--muted); font-size: 13px; }
+.footer { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 24px; border-top: 1px solid var(--border); padding: 20px clamp(16px, 4vw, 40px); color: var(--muted); font-size: 13px; }
+.footer p { margin: 0; }
+.footer p:first-child { flex: 1 1 0; min-width: min(100%, 20rem); }
+.footer-build { margin-left: auto; font: 12px var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.footer-build code { font: inherit; }
 .footer a { color: var(--text-2); }
 
 /* ── Type labels ────────────────────────────────────── */
@@ -705,3 +709,25 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .rss-button { display: inline-flex; align-items: center; gap: 7px; flex: none; padding: 7px 10px; border: 1px solid var(--border); border-radius: var(--r); color: var(--text-2); font: 12px var(--mono); }
 .rss-button:hover { color: var(--text); background: var(--surface); text-decoration: none; }
 .rss-button:focus-visible { outline: 2px solid var(--text); outline-offset: 3px; }
+
+/* "New since your last visit" (scripts/site-updates.js): the header's count, a mark on new reports
+   in lists, and the note that a newer version of the site is out */
+:root { --new: #8fd18a; }
+[data-theme="light"] { --new: #2f7d32; }
+.new-reports { display: inline-flex; align-items: center; gap: 6px; height: 26px; padding: 0 8px; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--new) 45%, transparent); font: 500 12px var(--mono); font-variant-numeric: tabular-nums; color: var(--new); white-space: nowrap; }
+.new-reports[hidden] { display: none; }
+.new-reports:hover { background: color-mix(in srgb, var(--new) 12%, transparent); text-decoration: none; }
+.new-dot, .update-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--new); box-shadow: 0 0 0 3px color-mix(in srgb, var(--new) 22%, transparent); flex: none; }
+.report-item.is-unread { position: relative; }
+/* the item's own ::before and ::after are taken (hover, clearfix): the bar hangs off its title */
+.report-item.is-unread h3::before { content: ""; position: absolute; left: -12px; top: 18px; bottom: 18px; width: 3px; border-radius: 2px; background: var(--new); }
+.new-badge { padding: 1px 6px; border-radius: 999px; background: color-mix(in srgb, var(--new) 16%, transparent); color: var(--new); font: 600 10.5px var(--mono); letter-spacing: .06em; text-transform: uppercase; }
+.update-note { position: fixed; z-index: 1000; left: 50%; bottom: 24px; transform: translateX(-50%); display: flex; align-items: center; gap: 12px; max-width: calc(100vw - 32px); padding: 10px 10px 10px 16px; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 10px; box-shadow: var(--shadow); font-size: 14px; animation: update-in .25s ease-out; }
+.update-text { min-width: 0; }
+.update-text span { color: var(--text-2); }
+.update-reload { flex: none; padding: 6px 12px; border: 0; border-radius: 6px; background: var(--accent); color: var(--accent-ink); font: 600 13px Inter, system-ui, sans-serif; cursor: pointer; }
+.update-reload:hover { opacity: .9; }
+.update-close { flex: none; width: 28px; height: 28px; border: 0; border-radius: 6px; background: none; color: var(--muted); font-size: 18px; line-height: 1; cursor: pointer; }
+.update-close:hover { color: var(--text); background: var(--surface-2); }
+@keyframes update-in { from { opacity: 0; transform: translate(-50%, 8px); } }
+@media (prefers-reduced-motion: reduce) { .update-note { animation: none; } }

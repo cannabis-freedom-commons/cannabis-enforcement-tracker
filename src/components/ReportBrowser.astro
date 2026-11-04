@@ -60,6 +60,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   import { hasTag } from "../lib/report-tags.js";
   import { initTagSuggest } from "../scripts/report-tag-suggest.js";
   import { FIGURE_FILTERS, STATUSES, parseRange, formatRange, rangeLabel, inRange } from "../lib/figure-filters.js";
+  import { isNew, markAllAsRead, onUnreadChange } from "../scripts/unread-state.js";
 
   const $ = <T extends HTMLElement = HTMLInputElement>(id: string) => document.getElementById(id) as T;
   const maybe = (id: string) => document.getElementById(id); // a part only one of the layouts has
@@ -81,7 +82,9 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   for (const f of FIGURE_FILTERS) { const range = parseRange(params.get(f.key)); if (range) figs[f.key] = range; }
   let status = STATUSES.some(([v]) => v === params.get("status")) ? params.get("status")! : "";
   let photo = params.get("photo") === "1";
-  const extraCount = () => Object.keys(figs).length + (status ? 1 : 0) + (photo ? 1 : 0);
+  // only the reports added since the reader's last visit (the header's "new" count links here)
+  let newOnly = params.get("new") === "1";
+  const extraCount = () => Object.keys(figs).length + (status ? 1 : 0) + (photo ? 1 : 0) + (newOnly ? 1 : 0);
   let updateTags: ((rows: Row[]) => void) | undefined;
   // One Time control owns both rolling periods and calendar selections.
   // Relative windows include calendar dates already reached in any local timezone.
@@ -127,6 +130,8 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     for (const f of FIGURE_FILTERS) if (figs[f.key]) chips.push([`fig:${f.key}`, rangeLabel(f, figs[f.key])]);
     if (status) chips.push(["status", STATUSES.find(([v]) => v === status)![1]]);
     if (photo) chips.push(["photo", "With a photo"]);
+    if (newOnly) chips.push(["new", "New since your last visit"]);
+    maybe("mark-read")?.toggleAttribute("hidden", !newOnly || !shown.length);
     const row = $("map-active");
     row.hidden = chips.length === 0;
     $("map-active-chips").replaceChildren(...chips.map(([key, label, color]) => {
@@ -152,7 +157,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
   // a photo the publisher no longer serves is removed, and its row drawn without it
   const thumb = (r: Row) => r.im ? `<img class="thumb" src="${esc(imageProxy(r.im))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-thumb');this.remove()">` : "";
-  const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}" data-country="${esc(r.c)}">
+  const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}"${r.at ? ` data-added="${esc(r.at)}"` : ""} data-country="${esc(r.c)}">
     <div class="meta"><span class="type" style="--c:${types[r.t].color}">${esc(types[r.t].label)}</span>
       <time datetime="${r.d}">${fmtDate(r.d)}</time>
       <a href="${base}country/${r.c}/">${flag(r.c)} ${esc(countries[r.c])}</a>${zoomable && r.ll ? `<button type="button" class="zoom-to" data-zoom="${r.i}" aria-label="Show on the map" title="Show on the map"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="8" cy="8" r="1.6" fill="currentColor"/><path d="M8 0.5v3M8 12.5v3M0.5 8h3M12.5 8h3" stroke="currentColor" stroke-width="1.5"/></svg></button>` : ""}</div>
@@ -175,7 +180,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       && (skipDay || !day || date === day)
       && (skipTag || hasTag(r, $("tag").value))
       && FIGURE_FILTERS.every((f) => !figs[f.key] || inRange(r, f, figs[f.key]))
-      && (!status || (r.st ?? "verified") === status) && (!photo || !!r.im)
+      && (!status || (r.st ?? "verified") === status) && (!photo || !!r.im) && (!newOnly || isNew(r.i, r.at))
       && q.every((w) => haystack.get(r)!.includes(w));
   }
 
@@ -293,6 +298,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     for (const f of FIGURE_FILTERS) if (figs[f.key]) p.set(f.key, formatRange(figs[f.key]));
     if (status) p.set("status", status);
     if (photo) p.set("photo", "1");
+    if (newOnly) p.set("new", "1");
     history.replaceState(null, "", (p.size ? `?${p}` : location.pathname) + location.hash); // the hash is the map's view
   }
 
@@ -452,6 +458,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       else if (key.startsWith("fig:")) delete figs[key.slice(4)];
       else if (key === "status") status = "";
       else if (key === "photo") photo = false;
+      else if (key === "new") newOnly = false;
       else $(key).value = "";
       apply();
       ($("map-active-chips").querySelector<HTMLElement>("[data-clear]") ?? $("q")).focus({ preventScroll: true });
@@ -516,12 +523,15 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     const clearFilters = () => {
       for (const field of fields) $(field).value = "";
       for (const key of Object.keys(figs)) delete figs[key];
-      status = ""; photo = false;
+      status = ""; photo = false; newOnly = false;
       setPeriod(changePeriod(DEFAULT_RANGE, {}));
       apply();
       $("q").focus({ preventScroll: true });
     };
     $("clear-filters").addEventListener("click", clearFilters);
+    // everything listed is now read: the "new" filter has nothing left to show
+    maybe("mark-read")?.addEventListener("click", () => { markAllAsRead(); newOnly = false; apply(); });
+    onUnreadChange(() => { if (newOnly) apply(); });
     if (hasBar) initMapFilters();
     apply(); // by year: the counts and months of all reports
   });

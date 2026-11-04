@@ -99,6 +99,7 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
   <div class="map-active" id="map-active" role="status" hidden>
     <span class="map-active-count" id="map-active-count"></span>
     <span class="map-active-chips" id="map-active-chips"></span>
+    <button class="clear-filters" id="mark-read" type="button" hidden>Mark all as read</button>
     <button class="clear-filters" id="clear-filters" type="button" hidden>Clear all</button>
   </div>
   <input type="hidden" id="type" value="" />

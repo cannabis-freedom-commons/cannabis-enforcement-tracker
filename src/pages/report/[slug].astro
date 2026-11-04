@@ -51,6 +51,7 @@ const mapLinks = r.coordinates ? [
 const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryName].filter(Boolean).join(" · ");
 ---
 <Base title={r.title} description={r.summary} ogType="article" wide>
+  <meta slot="head" name="cet-report" content={r.id} />
   <script slot="head" type="application/ld+json" is:inline set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Article",
