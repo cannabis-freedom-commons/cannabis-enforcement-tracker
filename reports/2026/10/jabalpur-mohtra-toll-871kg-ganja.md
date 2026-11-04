@@ -277,6 +277,10 @@ sources:
     publisher: Breaking Tube
     date: 2026-10-31
     language: hi
+  - title: Over ₹4 Crore Worth of Ganja Seized in Jabalpur; Two Smugglers Apprehended from Container
+    url: https://www.thecliffnews.in/en/article/over-4-crore-worth-of-ganja-seized-in-jabalpur-two-smugglers-apprehended-from-container
+    publisher: The Cliff News
+    date: 2026-10-31
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -344,6 +348,8 @@ open_questions:
   - The page was published on 1 November 2026 while the existing report dates the interception to around 2 am on 31 October 2026; the account's Friday-Saturday intervening night is consistent with that date.
   - The page states its lead photo is sourced from Google and edited by NPG News, so it could not be confirmed to show this seizure and no media entry was added.
   - The submitted page carries a featured image file named POLICE_06.jpg without caption or credit, so it could not be confirmed to show this seizure and no media entry is added from it.
+  - The submitted page's image could not be confirmed to show this seizure because the capture provides no caption, alt text or credit, so no media entry was added from it.
+  - The article dates the tip to October 30th without giving a separate interception time, while its publication date is 31 October 2026.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
@@ -355,20 +361,20 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
-[@1,12,16,19,24,26,31,39] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39] The container had a
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,12,16,19,24,26,31,39,40] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1,32,38] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39] The driver and the other man tried to flee but were caught, police
-said. [@2,10,12,19,27,31,33,39] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
+plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40] The driver and the other man tried to flee but were caught, police
+said. [@2,10,12,19,27,31,33,39,40] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39,40] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28,35,36,38] The consignment was to be unloaded near a
 Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30,36] The 28 sacks were loaded
@@ -383,7 +389,7 @@ The Jhansi unit of Uttar Pradesh's Anti Narcotics Task Force took part in the op
 
 The smugglers' network also supplied cannabis in Rajasthan as well as Uttar Pradesh and Madhya Pradesh. [@5] Police identified Dharamveer Singh as a resident of Nagla Kalua in the Iglas police station area of Aligarh district, and Vikram Karmakar as a resident of Patiram village in the Balurghat police station area of South Dinajpur. [@5,18] Investigators identified an Aligarh-based smuggler as a leading member of the network. [@5]
 
-The container's registration number was NL-01-AC-7191, police said. [@9,24,26,27,39]
+The container's registration number was NL-01-AC-7191, police said. [@9,24,26,27,39,40]
 
 Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10,34]
 
