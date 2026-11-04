@@ -1,19 +1,23 @@
 ---
 added_at_source: git
-added_at: "2026-10-30T16:33:26.000Z"
+added_at: '2026-10-30T16:33:26.000Z'
 code: RVEEVN
-date: 2026-10-18
+date: '2026-10-18'
 country: in
 place: Dindawar village, Basavana Bagewadi taluk, Vijayapura, Karnataka
-coordinates: [16.5739, 75.9747]
+coordinates:
+  - 16.5739
+  - 75.9747
 precision: district
 type: eradication
-also: [arrest]
+also:
+  - arrest
+  - seizure
 title: Farmer held after more than 500 cannabis plants found in a red-gram field
 summary: >-
-  On 18 October 2026 Basavana Bagewadi police in Vijayapura district, Karnataka, raided a farm in
-  Dindawar village and arrested Sharanappa Jeer, 56, after finding more than 500 cannabis plants
-  grown amid red gram. They weighed the cannabis at 202.75 kg and valued it at ₹1,01,37,500.
+  On 18 October 2026 Basavana Bagewadi police in Vijayapura district, Karnataka, raided a farm in Dindawar
+  village and arrested Sharanappa Jeer, 56, after finding more than 500 cannabis plants grown amid red gram.
+  They weighed the cannabis at 202.75 kg and valued it at ₹1,01,37,500.
 figures:
   plants_destroyed: 500
   kg_seized: 202.75
@@ -23,21 +27,37 @@ figures:
     currency: INR
 created_by_model: cursor/composer-2.5
 status: verified
-tags: [karnataka, vijayapura, ndps]
+tags:
+  - karnataka
+  - vijayapura
+  - ndps
+  - farm
 open_questions:
   - The map uses Basavana Bagewadi town; Dindawar village itself was not found in the geographic lookup used.
   - The Hindu titled the piece under Belagavi while the body places the raid in Vijayapura district.
-  - Local coverage also names the accused Shivashankar Sharanappa Jeer; The Hindu shortened it to Sharanappa Jeer.
+  - >-
+    Local coverage also names the accused Shivashankar Sharanappa Jeer; The Hindu shortened it to Sharanappa
+    Jeer.
+  - No court outcome or custody status beyond the arrest was reported.
+  - The reports give no area for the cannabis plot, only the plant count and weight.
 sources:
   - title: Farmer hid ganja plants in middle of red gram crop
     url: https://www.thehindu.com/news/national/karnataka/police-raid-ganja-farm-in-belagavi-arrest-farmer/article71600693.ece
     publisher: The Hindu
-    date: 2026-10-19
-  - title: "ವಿಜಯಪುರ: ತೊಗರಿ ಮಧ್ಯೆ ಗಾಂಜಾ ಬೆಳೆದ ರೈತ ಅರೆಸ್ಟ್‌; ಕೋಟ್ಯಂತರ ಮೌಲ್ಯದ ಗಿಡಗಳು ಜಪ್ತಿ"
+    date: '2026-10-19'
+  - title: 'ವಿಜಯಪುರ: ತೊಗರಿ ಮಧ್ಯೆ ಗಾಂಜಾ ಬೆಳೆದ ರೈತ ಅರೆಸ್ಟ್‌; ಕೋಟ್ಯಂತರ ಮೌಲ್ಯದ ಗಿಡಗಳು ಜಪ್ತಿ'
     url: https://tv9kannada.com/karnataka/vijayapura/farmer-arrested-for-growing-ganja-worth-rs-1-crore-in-tur-dal-field-1252045.html
     publisher: TV9 Kannada
-    date: 2026-10-18
+    date: '2026-10-18'
     language: kn
+  - title: Farmer Arrested After Over 500 Cannabis Plants Found In Karnataka's Vijayapura
+    url: https://newsdarpan.in/en/article/farmer-arrested-after-over-500-cannabis-plants-found-in-karnatakas
+    publisher: News Darpan
+    date: '2026-10-19'
+  - title: Farmer hid ganja plants in middle of red gram crop
+    url: https://conven.org/india/news/farmer-hid-ganja-plants-in-middle-of-red-gram-crop/
+    publisher: Conven.org
+    date: '2026-10-18'
 media:
   - kind: photo
     url: https://tv9kannada.com/karnataka/vijayapura/farmer-arrested-for-growing-ganja-worth-rs-1-crore-in-tur-dal-field-1252045.html
@@ -47,7 +67,7 @@ media:
 ---
 
 On 18 October 2026 the special narcotics vigilance cell of Basavana Bagewadi police station raided a
-farm in Dindawar village in Basavana Bagewadi taluk of Vijayapura district, Karnataka. [@1,2]
+farm in Dindawar village in Basavana Bagewadi taluk of Vijayapura district, Karnataka. [@1,2,3,4]
 Officers said the farmer had grown red gram (toor) on the edges of the plot and more than 500
 cannabis plants in the middle. [@1,2]
 

@@ -1,60 +1,51 @@
 ---
 added_at_source: git
-added_at: "2026-10-29T23:47:39.000Z"
+added_at: '2026-10-29T23:47:39.000Z'
 code: 6DJ18B
-date: 2026-07-24
+date: '2026-07-24'
 country: uz
-place: Urganch district, Khorezm and Yangiqorgon district, Namangan
-coordinates: [41.55, 60.63]
+place: Urganch district, Khorezm
+coordinates:
+  - 41.55
+  - 60.63
 precision: region
 type: arrest
-also: [seizure]
-title: Chocolate-pack hashish courier and 423-plant farm busted
+also:
+  - seizure
+title: 967 g of hashish seized from chocolate parcel in Urganch
 summary: >-
-  State Security Service operations in Khorezm and Namangan regions caught an
-  ex-convict collecting a Russia-sent parcel with 967 g of hashish hidden in 10
-  chocolate packs in Urganch, and found a 1988-born man growing 423 cannabis
-  plants for sale on his Yangiqorgon plot. Both cases were seized as evidence.
+  Officers detained a previously convicted man in Urganch district while he collected a parcel sent from
+  Russia by taxi. They found 967 grams of hashish hidden in ten chocolate packs and recorded it as evidence.
 figures:
-  arrested: 2
+  arrested: 1
   kg_seized: 0.967
-  plants_destroyed: 423
 media:
   - kind: photo
     url: https://cdn.anhor.uz/migrated/wp/360648/original.webp
     publisher: Anhor
-    caption: 'Hashish packets removed from chocolate wrappers in Khorezm. Still from SSS video via Anhor'
+    caption: Hashish packets removed from chocolate wrappers in Khorezm. Still from SSS video via Anhor
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
-tags: [hashish, chocolate, russia-route, cultivation]
+tags:
+  - hashish
+  - chocolate
+  - russia-route
 open_questions:
-  - Only Anhor has published these operations in text form, citing the SSS Telegram channel; no second outlet account was found.
-  - The sender in Russia and the intended recipients are unidentified.
-  - Court outcomes for both suspects are unreported.
-  - The article gives no separate dates for the two operations; 24 July 2026 is its publication date and is used as the incident date.
-  - The page carries two images but their captions do not establish that they show these seizures, so no media entry is included.
-  - Kun.uz names only the Xavfsizlik channel and says the cultivation fact was documented procedurally, without stating separately whether the 423 plants were seized or destroyed.
+  - The sender in Russia and the court outcome are not reported.
+  - No separate operation date is given; 24 July 2026 is the publication date.
+  - The separate 423-plant Yangiqorgon case announced in the same bulletin is recorded in its own report.
 sources:
   - title: Urganchda shokoladga yashirilgan gashish, Yangiqo‘rg‘onda kannabis plantatsiyasi fosh etildi
     url: https://anhor.uz/uzl/news/urganchda-shokoladga-yashirilgan-gashish/
     publisher: Anhor
-    date: 2026-07-24
+    date: '2026-07-24'
   - title: 'В Узбекистане пресекли два наркопреступления: контрабанду гашиша и выращивание каннабиса'
     url: https://kun.uz/ru/news/2026/07/24/v-uzbekistane-presekli-dva-narkoprestupleniya-kontrabandu-gashisha-i-vyrashchivaniye-kannabisa
     publisher: Kun.uz
-    date: 2026-07-24
+    date: '2026-07-24'
     language: ru
 ---
 
-In joint operations by the State Security Service with internal affairs and
-customs officers, a man born in 2000 with prior convictions was caught in
-Urganch district receiving a parcel sent from Russia by taxi; inspection found
-967 grams of hashish hidden in 10 chocolate packs, seized as material evidence.
-[@1,2] SSS officers uncovered nearly a kilogram of hashish in total in the two
-regions' operations. [@1,2]
+Officers from the State Security Service, internal affairs and customs detained a previously convicted man born in 2000 in Urganch district, Khorezm, while he received a parcel sent from Russia by taxi. [@1,2]
 
-In Namangan region's Yangiqorgon district, SSS and internal affairs officers
-found a man born in 1988 growing 423 cannabis plants for sale on his own land.
-[@1,2]
-
-Criminal cases were opened on both facts and the investigation is continuing. [@2]
+The parcel contained 967 grams of hashish hidden in ten chocolate packs, which officers recorded as material evidence. [@1,2] A criminal case was opened and the investigation was continuing when the account was published on 24 July 2026. [@2]

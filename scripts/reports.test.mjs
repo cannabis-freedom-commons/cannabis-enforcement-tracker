@@ -5,6 +5,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import * as yaml from "js-yaml";
+import reportAliases from "../src/lib/report-aliases.js";
 
 const ROOT = "reports";
 const countries = new Set(JSON.parse(fs.readFileSync("src/data/countries.json", "utf8")).map((c) => c.id));
@@ -52,5 +53,18 @@ test("slugs are unique", () => {
     const slug = path.basename(file, ".md");
     assert.ok(!seen.has(slug), `${file} and ${seen.get(slug)} share the slug "${slug}"`);
     seen.set(slug, file);
+  }
+});
+
+test("retired duplicates stay retired and every old URL and code has a live target", () => {
+  const slugs = new Set(reports.map(({ file }) => path.basename(file, ".md")));
+  const codes = new Set(reports.map(({ data }) => data.code));
+  for (const [slug, target] of Object.entries(reportAliases.slugs)) {
+    assert.ok(!slugs.has(slug), `retired duplicate ${slug} was recreated`);
+    assert.ok(slugs.has(target), `retired URL ${slug} points to missing report ${target}`);
+  }
+  for (const [code, target] of Object.entries(reportAliases.codes)) {
+    assert.ok(!codes.has(code), `retired code ${code} was reused`);
+    assert.ok(slugs.has(target), `retired code ${code} points to missing report ${target}`);
   }
 });
