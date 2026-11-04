@@ -57,6 +57,11 @@ sources:
     publisher: Bolec.Info
     date: 2026-11-03
     language: de
+  - title: Nielegalna uprawa konopi w powiecie polkowickim. 44-latek aresztowany
+    url: https://zmiedzi.pl/wydarzenia/nielegalna-uprawa-konopi-w-powiecie-polkowickim-44-latek-aresztowany-239045/
+    publisher: ZMIEDZI.PL
+    date: 2026-11-04
+    language: pl
 open_questions:
   - The exact village holding the property is not named, only a village near Głogów.
   - No separate day is given for the raid and arrest; 31 October 2026 is the court remand date used as the incident date, while 2 November 2026 is the article publication date.
@@ -83,15 +88,19 @@ open_questions:
   - The page carries photos captioned only as licensor photos without describing what they show, so no media entry is added.
   - The page carries police-credited photos with only generic captions that appear to republish the police handout already cited, so no media entry is added.
   - The German account gives the threatened penalty only as up to 20 years' imprisonment and does not state the 3-year minimum recorded in the existing report.
+  - The new account identifies the suspect only as a 44-year-old resident of Polkowice county and does not confirm the Gmina Gaworzyce residence.
+  - The new account reports one bush about 170 cm tall plus almost 35 g and over 5 kg without stating the 10-plant total recorded from other outlet accounts.
+  - The new account confirms the Glogow court's three-month detention but gives no raid or remand date and states the threatened penalty only as up to 20 years.
+  - The page's police-credited images carry no descriptive caption establishing what they show and appear to republish the police handout already cited, so no media entry is added.
 ---
 
 Polkowice police traced a cannabis grow on a property in a village near Głogów
 and detained its 44-year-old keeper, a resident of Gmina Gaworzyce. [@1] The
-investigation in the case was run by police from Polkowice. [@1,2,3,7] Głogów district
+investigation in the case was run by police from Polkowice. [@1,2,3,7,8] Głogów district
 prosecutor Marek Wójcik charged him with manufacturing and processing
 significant quantities of intoxicants from March to October 2026. [@1] After the
 charges were presented, the prosecutor asked the court to detain the man pending
-trial. [@1,4,5] On 31 October the Głogów District Court placed him in pre-trial
+trial. [@1,4,5,8] On 31 October the Głogów District Court placed him in pre-trial
 detention for three months. [@1,2,3] The detainee confessed to the charges. [@1,2]
 
 At the property officers found what they described as cannabis other than
@@ -106,4 +115,4 @@ Police say they are still establishing what the man intended to do with the
 dried cannabis he produced. [@1] Officers found the grow and at least 5 kg of
 ready dried material on a property in a village near Głogów. [@1]
 
-Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3,5,6,7] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3,4,5,6,7]
+Officers went to the identified address on 29 October 2026 and smelled marijuana as soon as they entered the property. [@3,5,6,7] Officers found a cannabis bush about 170 centimetres tall and plant material prepared for drying in the attic, seizing almost 35 grams of ready dried cannabis herb alongside the larger cut bushes. [@3,4,5,6,7,8]
