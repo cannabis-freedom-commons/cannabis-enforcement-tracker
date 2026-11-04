@@ -29,6 +29,10 @@ sources:
     url: https://hyderabadmail.com/telangana-eagle-force-gitam-drug-screening-warangal-ganja-seizure/
     publisher: Hyderabad Mail
     date: 2026-10-29
+  - title: Excise officials seize 3.323 kg ganja in Medchal, three detained
+    url: https://thenewsmill.com/2026/11/excise-officials-seize-3-323-kg-ganja-in-medchal-three-detained/
+    publisher: The News Mill
+    date: 2026-11-04
 open_questions:
   - The reports give no separate date for the seizure itself; 28 October is when the agency disclosed the case.
   - The GITAM University campus drug screening covered in one source is a separate event left out here.
@@ -43,7 +47,7 @@ case registered at the Warangal EAGLE Force police station under the Narcotic Dr
 Psychotropic Substances (NDPS) Act. [@1,2]
 
 Investigators then traced the network's finances, examining bank accounts, sale deeds, tax
-receipts and registration documents of the accused and their relatives. [@1] They froze
+receipts and registration documents of the accused and their relatives. [@1,3] They froze
 Rs 1,59,910 across three bank accounts, seized a tractor and a motorcycle worth about Rs 7.8
 lakh, and attached farmland and two open plots worth about Rs 61 lakh, Rs 70,39,910 in all,
 under Section 68F of the NDPS Act. [@1] The competent authority in Chennai confirmed the
@@ -51,3 +55,5 @@ forfeiture on 27 October 2026. [@1]
 
 EAGLE Force said the action looks beyond contraband to stop trafficking proceeds being turned
 into apparently legitimate wealth, and that the wider network inquiry continues. [@1]
+
+Under Section 68F of the NDPS Act, 1985, Inspector of Police B Ravinder identified three bank accounts related to the accused and initiated action against properties associated with them and their family members. [@3]
