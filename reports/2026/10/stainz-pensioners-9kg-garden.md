@@ -25,6 +25,8 @@ open_questions:
   - No plant count for the garden plantation was published.
   - The suspects were not named.
   - Coverage used a stock cannabis image; no photograph of this garden or house search was found with a recoverable media address.
+  - The Heute account does not state the suspected offence of commercial drug trafficking, Austrian citizenship or prior drug record recorded in the existing report.
+  - The Heute page carries a photo captioned about the arrests, but the caption and credit alone do not establish that it shows this garden search, so no media entry is included.
 sources:
   - title: Neun Kilo Cannabis bei Pensionisten entdeckt
     url: https://steiermark.orf.at/stories/3377462/
@@ -36,17 +38,22 @@ sources:
     publisher: Kronen Zeitung
     date: 2026-10-30
     language: de
+  - title: Zwei Festnahmen – Stolperfallen! Pensionisten schützen Cannabis-Plantage | Heute.at
+    url: https://www.heute.at/s/stolperfallen-pensionisten-schuetzen-cannabis-plantage-120274554
+    publisher: Heute
+    date: 2026-10-30
+    language: de
 ---
 
 On 15 October 2026 the narcotics group of the Deutschlandsberg district police command, backed by
 Styria's rapid intervention unit and other district officers, searched a single-family house in
 Stainz shared by a 61-year-old woman and a 68-year-old man, on an order from the Graz prosecutor's
-office. [@1,2]
+office. [@1,2,3]
 
-The grounds were fitted with several tripwires that set off an acoustic alarm when triggered. [@1,2]
+The grounds were fitted with several tripwires that set off an acoustic alarm when triggered. [@1,2,3]
 Inside the garden police found a cannabis plantation and already processed cannabis; altogether they
-seized more than nine kilograms. [@1,2]
+seized more than nine kilograms. [@1,2,3]
 
 Both suspects were arrested and remanded to Graz-Jakomini prison on suspicion of commercial drug
-trafficking. [@1,2] They have not confessed. [@1,2] Kronen Zeitung said they were Austrian citizens
+trafficking. [@1,2,3] They have not confessed. [@1,2,3] Kronen Zeitung said they were Austrian citizens
 and had no prior drug record known to police. [@2]
