@@ -29,31 +29,36 @@ sources:
     url: https://www.tampafp.com/broken-taillight-bad-catch-florida-keys-traffic-stop-nets-cocaine-and-illegal-fish/
     publisher: Tampa Free Press
     date: 2026-11-02
+  - title: Man arrested for lobster violations; drug brick found on beach
+    url: https://www.keysnews.com/news/crime/man-arrested-for-lobster-violations-drug-brick-found-on-beach/article_58991197-d95e-4b0b-83f3-ed7011e69121.html
+    publisher: keysnews.com
+    date: 2026-11-02
 open_questions:
   - No court outcome beyond charges and jailing was reported.
   - The cocaine amount was described only as a small amount and is excluded from cannabis figures.
   - Whether the photos on the cited pages depict this seizure could not be established from their captions, so no media entry is listed.
   - The 3.2-gram marijuana weight is the Sheriff's Office figure with no independent weighing reported.
   - 'Left out, as its quotation was not found in Tampa Free Press: The Tampa Free Press account confirms the same stop near Mile Marker 101, the Ford pickup with headlight and license-plate light out, the denial, and the recovery of cocaine from Smith''s pocket and 3.2 grams of marijuana from the pickup.'
+  - The keysnews page also reports a separate 30 October lobster arrest near Sunshine Key and a separate suspected-drug package found near Mile Marker 76, both left out of this traffic-stop report.
+  - The page's only listed photo shows the separate suspected-drug brick found near Mile Marker 76, not this traffic stop, so no media entry is included.
 ---
 
 Monroe County Sheriff's Office deputies arrested 59-year-old Miami resident
 Bradford Jonathan Smith on 1 November 2026 after a traffic stop near Mile Marker
-101 in the Florida Keys. [@1] Smith was charged with six counts: possession of
+101 in the Florida Keys. [@1,3] Smith was charged with six counts: possession of
 cocaine, possession of marijuana, possession of drug paraphernalia, possession
 of undersized mangrove snapper, possession of over-the-limit mangrove snapper
-and possession of undersized mutton snapper. [@1] He was taken to jail and
+and possession of undersized mutton snapper. [@1,3] He was taken to jail and
 booked into the Monroe County Jail. [@1]
 
 Deputies stopped Smith driving a Ford pickup truck at approximately 9:30 p.m.
-for an inoperable headlight and inoperable tag light. [@1] Deputies reported a
+for an inoperable headlight and inoperable tag light. [@1,3] Deputies reported a
 strong odor of marijuana coming from the vehicle, while Smith denied that drugs
-were in the vehicle. [@1] A search found a baggie containing a small amount of
-cocaine in Smith's pocket and 3.2 grams of marijuana in the vehicle. [@1] A
+were in the vehicle. [@1,3] A search found a baggie containing a small amount of
+cocaine in Smith's pocket and 3.2 grams of marijuana in the vehicle. [@1,3] A
 cooler in the truck contained 13 undersized mangrove snapper and one undersized
-mutton snapper. [@1]
+mutton snapper. [@1,3]
 
 The cannabis component of this mixed drug-and-wildlife case is separately
 supported at 3.2 grams, while the cocaine and snapper quantities are not counted
 as cannabis. [@2]
-
