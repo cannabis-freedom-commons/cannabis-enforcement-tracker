@@ -27,6 +27,9 @@ open_questions:
   - The 2.5 metric tons of cannabis is described as an unseized additional amount prosecutors expect to charge based on decrypted communications, not a physically seized weight.
   - The OCCRP account reports 36 suspects arrested on the action day plus 11 detained earlier, totalling 47 detained, while the existing report records 34 arrested, reflecting Slovenia-only versus all-country counting.
   - No charges, remand outcomes or sentences beyond the expected prosecutions were reported in this account.
+  - Europol describes 36 arrests on the action day plus 11 earlier, totalling 47 as almost 50, while the existing report records 34 arrested reflecting the Slovenia-only count.
+  - The existing report describes two dismantled networks per Slovenian police coverage, while the Europol statement describes one Western Balkan network.
+  - No media entry is included because the captured source_images captions only say cover and do not establish that the images show this seizure or arrests.
 sources:
   - title: Slovenian Police Helps Dismantle Two International Drug-Smuggling Networks
     url: https://cordmagazine.com/news/slovenian-police-helps-dismantle-two-international-drug-smuggling-networks/
@@ -41,6 +44,10 @@ sources:
   - title: Nearly 50 Arrested as Police Target Western Balkan Drug Network
     url: https://www.occrp.org/en/news/nearly-50-arrested-as-police-target-western-balkan-drug-network
     publisher: OCCRP
+    date: 2026-10-08
+  - title: Almost 50 arrested as police target Western Balkan network linked to killings
+    url: https://www.europol.europa.eu/media-press/newsroom/news/almost-50-arrested-police-target-western-balkan-network-linked-to-killings
+    publisher: Europol
     date: 2026-10-08
 media:
   - kind: photo
@@ -65,4 +72,6 @@ encrypted chats; over three tonnes of cannabis, 700 kg of cocaine and
 action day and 404 kg intercepted during the probe. [@1] [@2] A Ljubljana
 court remanded 13 suspects and put two under house arrest. [@1]
 
-Prosecutors expect to charge the suspects in connection with an unseized additional 2.5 metric tons of cannabis uncovered by decrypting intercepted SKY ECC communications. [@3] On the October 6 action day officers seized 51 kilograms of cannabis within 66 kilograms of narcotics that also included 15 kilograms of amphetamine, along with cash, jewelry and firearms. [@3]
+Prosecutors expect to charge the suspects in connection with an unseized additional 2.5 metric tons of cannabis uncovered by decrypting intercepted SKY ECC communications. [@3,4] On the October 6 action day officers seized 51 kilograms of cannabis within 66 kilograms of narcotics that also included 15 kilograms of amphetamine, along with cash, jewelry and firearms. [@3,4]
+
+The network used CryptCom in addition to SKY ECC to coordinate drug transports. [@4] The network recruited drivers mainly from Slovenia, Bosnia and Herzegovina and Bulgaria to move drugs alongside legitimate goods in trucks, vans and cars. [@4]
