@@ -42,6 +42,11 @@ sources:
     publisher: Infobae
     date: 2026-02-01
     language: es
+  - title: Guatemala captura a presunto narco mexicano y destruye plantación de marihuana
+    url: https://crhoy.com/mundo/guatemala-captura-a-presunto-narco-mexicano-y-destruye-plantacion-de-marihuana/
+    publisher: CR Hoy
+    date: 2026-01-31
+    language: es
 open_questions:
   - The two opened accounts disagree on the number detained, four versus five, so no arrested figure is recorded.
   - No weight was published for the five bags and 11 packages of marijuana, so no kilograms can be recorded.
@@ -54,6 +59,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Diario de Centro América: Guatemalan authorities said the actions were carried out under Operation Relámpago as part of the government''s frontal fight against organized crime and drug trafficking.'
   - Infobae names the Mexican detainee as 35-year-old Dacelis “N”, while the existing report names 34-year-old Erick Neftalí Medina García wanted on United States cocaine-conspiracy charges, so it is unclear whether they are the same person or different detainees.
   - The same Infobae article also reports separate extortion arrests, a Santa Lucía Cotzumalguapa marijuana seizure from Marta “N” and a Barrio 18 intervention in Moyuta, which belong to other events and are left out here.
+  - The CR Hoy page carries an AFP photo captioned as military actions to repel crime in Guatemala, which does not establish that it shows this plantation or seizure, so no media entry is included.
 ---
 
 Guatemalan security forces captured alleged members of a drug-trafficking
@@ -66,10 +72,10 @@ purposes so far that month. [@1]
 
 The PNC said the intervention took place in the municipality of Las Cruces,
 Petén, a border zone with Mexico and Belize, with Guatemalan police and Army
-forces deployed. [@1,2] During the same operation, authorities seized two RPG-7
+forces deployed. [@1,2,3] During the same operation, authorities seized two RPG-7
 grenades, six anti-tank munitions, seven rifles, a pistol, a revolver and
-hundreds of live cartridges. [@1,2] Authorities located and eradicated more than
+hundreds of live cartridges. [@1,2,3] Authorities located and eradicated more than
 430,000 marijuana plants, whose value was estimated at 20.9 million dollars.
-[@1,2]
+[@1,2,3]
 
 The four detainees were three Guatemalans aged 28, 28 and 26 and a 35-year-old Mexican national. [@2]
