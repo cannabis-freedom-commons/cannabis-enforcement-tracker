@@ -67,6 +67,16 @@ sources:
     publisher: Defimedia
     date: 2026-11-03
     language: fr
+  - title: 'Trafic de drogue sur l’axe Maurice-Thaïlande : le Dreamer et les devises retrouvées à bord saisis par la FCC'
+    url: https://defimedia.info/trafic-de-drogue-sur-laxe-maurice-thailande-le-dreamer-et-les-devises-retrouvees-bord-saisis-par-la
+    publisher: Defimedia
+    date: 2026-11-04
+    language: fr
+  - title: 'Yacht « DREAMER » : la Cour suprême ordonne la saisie du bateau et des devises retrouvées à bord'
+    url: https://www.mbc.mu/reportage/yacht-dreamer-la-cour-supreme-ordonne-la-saisie-du-bateau-et-des-devises-retrouvees-bord
+    publisher: MBC
+    date: 2026-11-03
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -93,6 +103,11 @@ media:
     media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/031126_dreamer.jpg.avif?itok=fV83Spog
     publisher: Defimedia
     caption: The yacht Dreamer under National Coast Guard surveillance at the Port-Louis Waterfront.
+  - kind: photo
+    url: https://defimedia.info/trafic-de-drogue-sur-laxe-maurice-thailande-le-dreamer-et-les-devises-retrouvees-bord-saisis-par-la
+    media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/Le%20Dreamer-041126.jpg.avif?itok=VVueJpyI
+    publisher: Defimedia
+    caption: The yacht Dreamer suspected of cannabis transport between Thailand and Mauritius, to remain immobilised at Port-Louis.
 open_questions:
   - Police put the number arrested at 14 in their 29 October statement, while Le Défi reported a second coast guard arrest that brought the total to 15; L'Express and Le Mauricien, published the same day, still said 14.
   - Le Mauricien reported that no drugs were found aboard the yacht and that the cargo had already been landed; the 1.5-tonne figure is the amount investigators believe was imported, not a consignment recovered from the vessel.
@@ -109,6 +124,8 @@ open_questions:
   - The submitted page reports 792 grams of cannabis seized on 23 October in a villa, valued at Rs 1,425,600, while the existing report records a different weight for that villa seizure and treats its link to the Dreamer cargo as only suspected.
   - The submitted page says Rs 2.1 million in foreign currencies was seized aboard the Dreamer with no drugs found, while earlier accounts in the existing report give different totals and a detailed breakdown of baht, Singapore dollars and euros.
   - The possible request to Interpol and British and Thai counterparts through the Central Barracks and the Attorney General's office is described as under consideration, not as a completed request, and Nishal himself had not been arrested or charged.
+  - The new accounts report 38,000 euros plus 900 US dollars, while the existing report records 38,900 euros with the same 28,330 Thai baht and 1,865 Singapore dollar amounts, leaving the correct euro total unclear.
+  - The new accounts date the joint ADSU and Maritime Intelligence Cell boarding and search to 21 October, while the existing account describes a search on 23 October off Baie-du-Tombeau, which may reflect separate boardings.
 ---
 
 The Anti Drug and Smuggling Unit, with the National Coast Guard's Maritime
@@ -140,6 +157,8 @@ The captain's phone contained images and videos of cannabis cargo, and investiga
 
 L'Express reported that investigators were checking information that a Mauritian who grew up in England and returned to the island in 2021 had built a cannabis and hashish traffic, first through couriers by air. [@6] The newspaper said his move to Thailand in 2023 was a central element of the lead, and that information being checked pointed to three yacht arrivals in Mauritius in 2026 carrying cannabis, cocaine and hashish, each of several hundred kilos. [@6]
 
-The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
+The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9,10] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
 
 Mauritian authorities could ask Interpol and their British and Thai counterparts through the Central Barracks and the Attorney General's office to trace Nishal. [@9] Nishal had been arrested by ADSU in 2012 after a seizure of 20.48 grams of cannabis and later settled in Great Britain. [@9] Established abroad, Nishal is said to lead a particularly luxurious lifestyle in Thailand, where he also runs a nightclub. [@9]
+
+On 3 November the Supreme Court granted the Financial Crimes Commission a civil attachment order seizing the Thai yacht Dreamer and the foreign currency found aboard, with the vessel to stay immobilised at Port-Louis until further order. [@10] The 38,000 euros and 900 US dollars will go to the FCC seizure accounts at SBM Bank (Mauritius) Ltd, while the 28,330 Thai baht and 1,865 Singapore dollars will be kept in a safe at the same bank. [@10] The Dreamer will stay under the custody of the Commissioner of Police, be maintained in good condition in port and may not leave Port-Louis without fresh judicial authorisation. [@10] The order followed an ex parte application filed by the FCC on 30 October under the Financial Crimes Commission Act 2023 for a Civil Attachment Order over the yacht and funds found during a joint Anti-Drug and Smuggling Unit and Maritime Intelligence Cell search on 21 October. [@10] The Supreme Court on 3 November 2026 ordered civil seizure of the Thai-flagged yacht DREAMER and money found aboard during the 21 October police operation. [@11] Officers found 38,000 euros, 900 US dollars, 28,330 Thai baht and 1,865 Singapore dollars aboard the yacht. [@11] The yacht, now moored at Port-Louis Harbour, will stay under the Commissioner of Police, with euro and dollar sums deposited in FCC civil and criminal seizure accounts and other currencies kept in a safe at the same bank. [@11]
