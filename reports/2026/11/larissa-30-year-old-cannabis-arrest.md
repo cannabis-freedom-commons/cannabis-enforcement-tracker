@@ -35,6 +35,11 @@ sources:
     publisher: kosmoslarissa.gr
     date: 2026-11-02
     language: el
+  - title: 'Θεσσαλία: Απάτες με δώρο Χριστουγέννων και συλλήψεις'
+    url: https://www.trikalanews.gr/thessalia-apates-doro-xristougennon-syllipseis/
+    publisher: TrikalaNews
+    date: 2026-11-02
+    language: el
 open_questions:
   - Only one source for this event could be opened, as searches in Greek and English found no second account of the same check and arrest.
   - No charge, prosecutor referral, or court outcome was reported for the arrested man.
@@ -42,18 +47,20 @@ open_questions:
   - The page carries images with empty captions and credits, including an older 2020 image, so whether any image shows this seizure could not be established and no media entry is added.
   - The submitted page describes the man only as a 30-year-old man and does not state a nationality, while the existing report describes him as a Greek national from its earlier source.
   - Whether the lead image on the submitted page shows this seizure could not be established from its empty caption and credit, so no media entry is added.
+  - The TrikalaNews roundup also describes two computer-fraud cases and arrests for an environmental offence, pending court decisions and breach of the peace, which are separate events left out here.
+  - No charge, prosecutor referral or court outcome for the cannabis arrest is given in this account, and no established photo of this seizure is available from its generic roundup image.
 ---
 
 Officers of the Larissa Crime Prevention and Suppression Unit, known by the
 Greek initials O.P.K.E., arrested a 30-year-old Greek national in Larissa on the
-evening of 1 November 2026. [@1,3] The man was detained after officers of the
-Larissa O.P.K.E. carried out a check on him in the city. [@1,2,3] During that check,
+evening of 1 November 2026. [@1,3,4] The man was detained after officers of the
+Larissa O.P.K.E. carried out a check on him in the city. [@1,2,3,4] During that check,
 he was found holding two separate packages containing cannabis. [@1,2,3]
 
 One package was a nylon wrapping holding 2.5 grams of unprocessed cannabis,
-called akatergasti kannavi in Greek. [@1,2,3] The other package was a paper wrapping
+called akatergasti kannavi in Greek. [@1,2,3,4] The other package was a paper wrapping
 holding 1.3 grams of processed cannabis, called katergasmeni kannavi in Greek.
-[@1,2,3] Together, the two packages amounted to 3.8 grams, or 0.0038 kilograms, of
+[@1,2,3,4] Together, the two packages amounted to 3.8 grams, or 0.0038 kilograms, of
 cannabis. [@1]
 
 Officers seized both the nylon package and the paper package at the time of the
