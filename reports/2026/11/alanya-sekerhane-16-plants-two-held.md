@@ -25,6 +25,11 @@ sources:
     publisher: Alanya Türk
     date: 2026-11-04
     language: tr
+  - title: 'Antalya''da iki mahallede uyuşturucu operasyonu: 1 şüpheli tutuklandı'
+    url: https://www.antalyahakkinda.com/antalyada-iki-mahallede-uyusturucu-operasyonu-1-supheli-tutuklandi
+    publisher: Antalya Hakkında
+    date: 2026-11-04
+    language: tr
 open_questions:
   - No separate date for the raids was published; 4 November 2026 is the article publication date and is used as the incident date.
   - The 158 grams of methamphetamine and related scales and cash are mentioned only to explain the mixed operation and are excluded from cannabis figures.
@@ -33,23 +38,24 @@ open_questions:
   - No charges, trial date or further court outcome beyond the initial remand and release decision were reported.
   - Only one accessible source for this event was found, so the account rests on a single outlet report.
   - The page image is captioned only with the headline and does not establish that it shows this raid or seizure, so no media entry is included.
+  - The new source names the first search address as Sugözü Mahallesi while the existing report records Saray Mahallesi, although methamphetamine weight, cash amounts and suspect initials are otherwise identical.
 ---
 
 Alanya anti-narcotics police carried out simultaneous early-morning operations
-in two separate neighbourhoods as part of an anti-drug effort. [@1] Officers
+in two separate neighbourhoods as part of an anti-drug effort. [@1,2] Officers
 detained two suspects, 60-year-old İsmail K. and 54-year-old Hakan K. [@1] After
 processing at the police station, both suspects were referred to the courthouse,
 where the court sent one to prison and released the other under judicial
-control. [@1]
+control. [@1,2]
 
 The first search targeted a residence in Saray Mahallesi, where officers
 detained İsmail K. in a morning raid. [@1] That search recovered 158 grams of
 methamphetamine in five pieces, along with one precision scale, 103,285 Turkish
-lira, 1,325 euros and 488 US dollars. [@1] The second simultaneous search
+lira, 1,325 euros and 488 US dollars. [@1,2] The second simultaneous search
 targeted a residence in Şekerhane Mahallesi, where narcotics officers detained
 Hakan K. [@1] That search recovered 16 cannabis plants found grown with a
 specially installed setup, along with 60 grams of esrar, one precision scale and
-many materials used to grow cannabis. [@1] Officers also seized 16,800 Turkish
+many materials used to grow cannabis. [@1,2] Officers also seized 16,800 Turkish
 lira, 220 euros and 10 British pounds at that residence. [@1] Drugs, growing
 equipment and cash from both addresses were seized as part of the investigation.
 [@1]
@@ -58,3 +64,4 @@ The operations also yielded precision scales, a cannabis-growing setup and cash
 in different currencies. [@1] Police noted as striking that cannabis had been
 grown with a special setup in one home. [@1]
 
+İ.K. was the suspect remanded in custody and H.K. was the suspect released under judicial control. [@2] İ.K. was sent to Alanya L Type Closed Prison after being remanded. [@2]
