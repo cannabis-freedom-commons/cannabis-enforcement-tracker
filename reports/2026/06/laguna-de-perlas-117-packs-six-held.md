@@ -75,6 +75,11 @@ sources:
     publisher: Noticias Bluefields
     date: 2026-06-25
     language: es
+  - title: Incautación de droga al narcotráfico
+    url: https://www.el19digital.com/articulos/ver/178638-incautacion-de-droga-al-narcotrafico
+    publisher: El 19 Digital
+    date: 2026-06-24
+    language: es
 open_questions:
   - Detainee name spellings differ between outlets, including Prudo versus Puedo, Jimmy Dalton García versus Jim Dalton Carlos García, and Jonfriz versus Jonfris.
   - The panga is called Infiniti with registration 5808 by one outlet and Infinity with registration 5408 by another.
@@ -82,19 +87,22 @@ open_questions:
   - No charges, custody ruling or court outcome were reported; the case was still at the investigation stage before referral to the courts.
   - No street or official value for the seized marijuana was published.
   - TN8 displays photos of the seizure, but no direct image addresses could be recovered from that page, so only El 19 Digital photos are listed as media.
+  - This account lists two barrels while the report's other accounts describe four barrels.
+  - The explicit coordinates in this account differ from the report's mapped coordinates, leaving the precise site uncertain.
+  - The three INCAUTACION images in this account carry only generic labels without descriptive captions identifying what each frame shows, so no media entry is added.
 ---
 
 Nicaragua's Distrito Naval Caribe intercepted six men on 21 June 2026 at about 6
 p.m. about five kilometres south of Tasbapaunie in Laguna de Perlas
 municipality. [@1] The detained men were Cornelio Francis Jackson, 70, Jimmy
 Dalton García, 60, Debron Antonio Jonfriz López, 46, Pedro Martínez Agustín, 45,
-Ajonny Carlos Prudo, 32, and Sheyron Julias Hamilton, 22. [@1] The detainees and
+Ajonny Carlos Prudo, 32, and Sheyron Julias Hamilton, 22. [@1,4] The detainees and
 the seized evidence were handed to the competent authorities for investigation
 and legal proceedings. [@1] Bluefields National Police officers attended the
 naval district to weigh the drug and carry out investigative steps, with the
 Public Ministry also taking part before the case moves to the courts. [@2]
 
-The operation seized 18 sacks containing a total of 117 packs of marijuana. [@1]
+The operation seized 18 sacks containing a total of 117 packs of marijuana. [@1,4]
 The seized marijuana weighed 271 kilograms and 204 grams, equivalent to 597.9
 pounds. [@3] Officers also seized a panga-type boat, a 40-horsepower outboard
 motor and a motorcycle allegedly used to move the drug. [@1] TN8 identified the
@@ -111,3 +119,4 @@ containment wall against drug trafficking and organized crime. [@2] The naval
 district chief said the detainees, the drug and the evidence would be referred
 to the competent authorities. [@2]
 
+The army account gives the interception site as coordinates 12°38'38" N, 083°32'44" W, 5 kilometres south of Tasbapounie in Laguna de Perlas. [@4] The army account lists one motorcycle, one Nicaraguan-flagged boat hull named Infinity, one outboard motor, two barrels, four plastic buckets and one suitcase with personal means among the items taken. [@4] The army said the action was carried out under the State Strategy Muro de contención and within Operation Dignidad Nacional. [@4]
