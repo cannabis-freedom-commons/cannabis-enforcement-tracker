@@ -60,6 +60,11 @@ sources:
     publisher: ABC
     date: 2026-11-04
     language: es
+  - title: Tres detenidos en Orihuela por presuntamente intercambiar drogas por objetos robados
+    url: https://valencianoticias.com/tres-detenidos-en-orihuela-por-presuntamente-intercambiar-drogas-por-objetos-robados/
+    publisher: Valencia Noticias
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the arrests and searches; 4 November 2026 is its publication date and is used as the incident date.
   - The exact streets or locations of the two searched homes were not published.
@@ -68,30 +73,31 @@ open_questions:
   - No cannabis-only valuation or laboratory analysis was published.
   - The new account gives the detainees' ages as 46, 50 and 44, while the existing report describes them as aged 43 to 50.
   - The ABC page carries an image captioned only '(ABC)' which does not establish that it shows this operation, so no media entry is included.
+  - The submitted page carries two images without captions or credits establishing that they show this operation, so no media entry is added.
 ---
 
 National Police detained three people in Orihuela, a woman and two men aged 43
-to 50, for alleged drug trafficking and receiving stolen goods. [@1,2,3,5] The
-operation dismantled two drug sale points. [@1,2,3,4,5] After identifying the three
+to 50, for alleged drug trafficking and receiving stolen goods. [@1,2,3,5,6] The
+operation dismantled two drug sale points. [@1,2,3,4,5,6] After identifying the three
 occupants and obtaining judicial authorisation, officers searched both homes.
-[@1] The three detainees were placed at the disposal of the duty investigating
-court in Orihuela. [@1,2,3,4,5]
+[@1,6] The three detainees were placed at the disposal of the duty investigating
+court in Orihuela. [@1,2,3,4,5,6]
 
 Searches in both homes seized 44 grams of hashish and 45 grams of marijuana.
-[@1,2,3,4,5] Officers also seized tools for handling, measuring and distributing the
-substances. [@1,3,4] Officers also found nine mobile phones, 14 watches, 12 drills,
+[@1,2,3,4,5,6] Officers also seized tools for handling, measuring and distributing the
+substances. [@1,3,4,6] Officers also found nine mobile phones, 14 watches, 12 drills,
 machinery including sanders, radial saws, blowers and cement mixers, plus a
 bicycle and three scooters. [@1,2,3,4]
 
 Judicial Police in Orihuela opened the inquiry after learning of two homes
-suspected of distributing mainly hashish and marijuana. [@1,2,5] During surveillance
+suspected of distributing mainly hashish and marijuana. [@1,2,5,6] During surveillance
 officers saw heavy visitor traffic at both homes and found some people leaving
-carrying substances they had apparently just bought. [@1,4] Investigators found
+carrying substances they had apparently just bought. [@1,4,6] Investigators found
 the suspects allegedly accepted valuable stolen objects in exchange for drugs.
-[@1,3,4] Police linked the seized objects so far to six burglaries with force
-committed in Orihuela. [@1,2,3,4,5] Victims were notified and were able to recover their
-belongings according to police information. [@1] The investigation continues to
+[@1,3,4,6] Police linked the seized objects so far to six burglaries with force
+committed in Orihuela. [@1,2,3,4,5,6] Victims were notified and were able to recover their
+belongings according to police information. [@1,6] The investigation continues to
 establish the origin of the remaining items and clarify any other possible
-offences. [@1,4]
+offences. [@1,4,6]
 
 The two searched homes are in the San Antón neighbourhood in Orihuela, in the south of Alicante province. [@4] Those detained were a 46-year-old woman and two men aged 50 and 44, all born in Orihuela. [@4]
