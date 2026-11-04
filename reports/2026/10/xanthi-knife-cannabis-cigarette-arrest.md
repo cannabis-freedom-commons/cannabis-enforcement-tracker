@@ -24,6 +24,10 @@ sources:
     publisher: ΕΜΠΡΟΣ
     date: 2026-11-02
     language: el
+  - title: Χειροπέδες σε ημεδαπό με μαχαίρι και τσιγάρο κάνναβης
+    url: https://xronos.gr/astynomika/heiropedes-se-imedapo-me-mahairi-kai-tsigaro-kannabis
+    publisher: xronos.gr
+    language: el
 open_questions:
   - No weight was published for the cannabis, described only as one cigarette.
   - The exact street or neighbourhood within Xanthi was not named.
@@ -31,15 +35,16 @@ open_questions:
   - No charge, custody outcome or court result was reported.
   - Only one source could be opened; a second outlet page for the same arrest could not be opened.
   - Whether the page image shows this seizure could not be established, so no media entry is added.
+  - The publication date of the xronos.gr page was not found in the opened capture, so no source date is recorded.
+  - Whether the page image shows this seizure could not be established from its caption and credit, so no media entry is added.
 ---
 
 Officers of the Prevention and Mediation Group of the Xanthi Department for the
 Prosecution and Solving of Crimes arrested a man in an area of Xanthi on the
-evening of 30 October 2026. [@1] The detained person is a Greek man. [@1] The
+evening of 30 October 2026. [@1,2] The detained person is a Greek man. [@1,2] The
 officers had stopped him for a check and found a knife and a cannabis cigarette
-in his possession. [@1]
+in his possession. [@1,2]
 
-Police seized the knife and the cannabis cigarette. [@1] The preliminary
+Police seized the knife and the cannabis cigarette. [@1,2] The preliminary
 investigation is being conducted by the Xanthi Department for the Prosecution
-and Solving of Crimes. [@1]
-
+and Solving of Crimes. [@1,2]
