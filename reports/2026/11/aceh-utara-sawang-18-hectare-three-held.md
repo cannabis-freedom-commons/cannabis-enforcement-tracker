@@ -76,6 +76,11 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-02
     language: id
+  - title: Bareskrim dan BNN Musnahkan 25 Hektare Ladang Ganja di Aceh Utara, Tiga Orang Ditangkap
+    url: https://acehsatu.com/bareskrim-dan-bnn-musnahkan-25-hektare-ladang-ganja-di-aceh-utara-tiga-orang-ditangkap/
+    publisher: Acehsatu.com
+    date: 2026-11-02
+    language: id
 open_questions:
   - No plant count, seized weight, estimated value, or charges and case outcome for the three detainees were published.
   - The same hamlet and village hosted a 27-28 October 2026 operation covering the same reported 18 hectares with four different detainees (MW, HM, SF, WD); whether the 2 November burning revisited the same fields or separate fields is unresolved.
@@ -90,18 +95,21 @@ open_questions:
   - The RRI recap of a 122.86-hectare total and earlier phases belongs to the wider 27 October to 2 November campaign already recorded separately.
   - 'Left out, as its quotation was not found in RRI.co.id: Officers detained three suspects identified only by the initials L, T and W.'
   - 'Left out, as its quotation was not found in RRI.co.id: The three suspects acted as seeders, planters and locators who sought plantation sites to evade officers.'
+  - The Acehsatu account reports 25 hectares while the existing report records about 18 hectares for the same date, place and three detainees.
+  - The Acehsatu account gives no initials, ages, plant count, weight, value, charges or court outcome for the three detainees.
+  - The page's featured image has no caption or alt text establishing it shows this eradication, so no media entry is included.
 ---
 
 A joint enforcement team arrested three men described as suspected owners of
 cannabis fields in North Aceh, identified only by the initials L (35), T (42)
 and W (32). [@1,4,5,6] The operation took place on Monday 2 November 2026 on
 plantation slopes at Alue Garut hamlet in Teupin Ruseb village, Sawang district.
-[@1,4,5,6,7] The agencies involved were the National Police Criminal Investigation
+[@1,4,5,6,7,8] The agencies involved were the National Police Criminal Investigation
 Agency's drug-crime directorate (Direktorat Tindak Pidana Narkoba Bareskrim
 Polri), the National Narcotics Agency (BNN) and Lhokseumawe police. [@1,4,5,6,7]
 
 Officers found about 18 hectares of cannabis with harvest-ready plants. [@2,4,5,6]
-They collected the uprooted plants and burned them on site. [@2,4,6,7] Personnel were
+They collected the uprooted plants and burned them on site. [@2,4,6,7,8] Personnel were
 photographed carrying bundles of plants for burning and setting the piles
 alight. [@3]
 
@@ -110,4 +118,6 @@ cultivation and cut off the drug supply at its source. [@2] It was also aimed at
 preventing the ready harvest from being gathered and entering illicit drug
 trafficking. [@2]
 
-The operation was led by BNN acting eradication deputy Brigjen Adri Irniadi and Bareskrim drug director Brigjen Kristian Siagian, accompanied by Lhokseumawe police chief AKBP Ahzan. [@7] The find followed mapping and community information, in extreme terrain about 5 to 7 kilometres from the nearest settlement. [@7] The three suspects were held at Polres for examination to trace those who ordered and funded the fields. [@7]
+The operation was led by BNN acting eradication deputy Brigjen Adri Irniadi and Bareskrim drug director Brigjen Kristian Siagian, accompanied by Lhokseumawe police chief AKBP Ahzan. [@7] The find followed mapping and community information, in extreme terrain about 5 to 7 kilometres from the nearest settlement. [@7] The three suspects were held at Polres for examination to trace those who ordered and funded the fields. [@7,8]
+
+The eradication covered three areas — Dusun Alue Garut, Alue Kubu and Alue Mudek in Desa Teupin Reusep. [@8] Police and BNN said they would increase patrols to detect planting activity and had instructed provincial police chiefs to order district and sector police to map vulnerable areas. [@8]
