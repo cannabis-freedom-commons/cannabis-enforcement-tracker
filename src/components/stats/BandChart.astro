@@ -1,0 +1,20 @@
+---
+// A column chart of counts in bands (sentence lengths, seizure sizes, days of the week…) for the
+// Statistics page: the count over each column, its tooltip, and the short band names under it.
+//   bands: [{ label, short, count }]; apart: labels of bands kept off the scale (striped)
+import { fmt } from "../../lib/stats.js";
+const { title, sub, bands, apart = [], note = "" } = Astro.props;
+const max = Math.max(1, ...bands.map((b) => b.count));
+---
+<figure class="col-chart band-chart" data-chart>
+  <figcaption><b>{title}</b> <span>{sub}</span></figcaption>
+  <div class="cols" style={`--n:${bands.length}`}>
+    {bands.map((b) => (
+      <div class:list={["col", { apart: apart.includes(b.label) }]} style={`--h:${(b.count / max) * 100}%`} tabindex="0" data-tip={JSON.stringify({ t: b.label, s: `${fmt(b.count)} ${b.count === 1 ? "report" : "reports"}`, rows: [] })} aria-label={`${b.label}: ${b.count} reports`}>
+        <span class="col-val" aria-hidden="true">{fmt(b.count)}</span><i></i>
+      </div>
+    ))}
+  </div>
+  <div class="col-axis band-axis" style={`--n:${bands.length}`} aria-hidden="true">{bands.map((b) => <span>{b.short}</span>)}</div>
+  {note && <p class="chart-note">{note}</p>}
+</figure>

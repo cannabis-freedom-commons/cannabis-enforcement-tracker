@@ -77,3 +77,27 @@ test('seizures are banded by weight and the type mix sums to one per region', ()
   assert.equal(mix[0].region, 'A');
   assert.equal(mix[0].shares.raid + mix[0].shares.arrest, 1);
 });
+
+test('calendar charts count weekdays from Monday and spread each type over the months', async () => {
+  const { weekdayCounts, seasonality } = await import('../src/lib/stats.js');
+  const list = [{ type: 'eradication', date: new Date('2026-11-02') }, { type: 'eradication', date: new Date('2026-07-05') }, { type: 'seizure', date: new Date('2026-07-06') }];
+  const w = weekdayCounts(list);
+  assert.deepEqual([w[0].label, w[0].count, w[6].count], ['Monday', 2, 1]);
+  const s = seasonality(list);
+  assert.equal(s[0].type, 'eradication');
+  assert.deepEqual([s[0].counts[6], s[0].shares[10]], [1, 0.5]);
+});
+
+test('tag cloud keeps tags used more than once, sized on a log scale, in alphabetical order', async () => {
+  const { tagCloud } = await import('../src/lib/stats.js');
+  const list = [...Array(9)].map(() => ({ tags: ['hashish'] })).concat([{ tags: ['airport', 'once'] }, { tags: ['airport'] }]);
+  assert.deepEqual(tagCloud(list).map((t) => [t.tag, t.step]), [['airport', 1], ['hashish', 6]]);
+});
+
+test('sources per report and reports added per day', async () => {
+  const { sourceCountBands, addedPerDay } = await import('../src/lib/stats.js');
+  const b = sourceCountBands([{ sources: [1] }, { sources: [1, 2] }, { sources: Array(12) }]);
+  assert.deepEqual(b.bands.map((x) => x.count), [1, 1, 0, 0, 0, 0, 1]);
+  const days = addedPerDay([{ type: 'arrest', added_at: '2026-11-01T10:00:00Z' }, { type: 'arrest', added_at: '2026-11-03T01:00:00Z' }], new Date('2026-11-03T12:00:00Z'));
+  assert.deepEqual(days.map((d) => [d.key, d.total, d.cumulative]), [['2026-11-01', 1, 1], ['2026-11-02', 0, 1], ['2026-11-03', 1, 2]]);
+});

@@ -149,3 +149,66 @@ export function typeMixByRegion(list, regionOf) {
   return [...rows.values()].sort((a, b) => b.total - a.total)
     .map((row) => ({ ...row, shares: Object.fromEntries(Object.entries(row.counts).map(([t, n]) => [t, n / row.total])) }));
 }
+
+// how many reports cite one source, two, three…: [{ label, short, count }]
+export const SOURCE_COUNT_BANDS = [["1 source", "1", 1, 2], ["2 sources", "2", 2, 3], ["3 sources", "3", 3, 4], ["4 sources", "4", 4, 5], ["5 sources", "5", 5, 6], ["6–9 sources", "6–9", 6, 10], ["10 or more sources", "10+", 10, Infinity]];
+export function sourceCountBands(list) {
+  const n = list.map((r) => r.sources?.length ?? 0).filter((v) => v > 0).sort((a, b) => a - b);
+  return {
+    bands: SOURCE_COUNT_BANDS.map(([label, short, lo, hi]) => ({ label, short, count: n.filter((v) => v >= lo && v < hi).length })),
+    mean: n.length ? n.reduce((a, b) => a + b, 0) / n.length : null,
+  };
+}
+
+// reports by the day of the week of their date, Monday first
+export const WEEKDAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+export function weekdayCounts(list) {
+  const counts = WEEKDAYS.map((label) => ({ label, short: label.slice(0, 3), count: 0 }));
+  for (const r of list) counts[(r.date.getUTCDay() + 6) % 7].count++;
+  return counts;
+}
+
+// each type's reports by calendar month (January…December), as shares of that type's year, so a
+// type's season shows whatever its size: [{ type, total, counts: [12], shares: [12] }], most first
+export function seasonality(list) {
+  const rows = new Map();
+  for (const r of list) {
+    const row = rows.get(r.type) ?? rows.set(r.type, { type: r.type, total: 0, counts: Array(12).fill(0) }).get(r.type);
+    row.total++;
+    row.counts[r.date.getUTCMonth()]++;
+  }
+  return [...rows.values()].sort((a, b) => b.total - a.total).map((row) => ({ ...row, shares: row.counts.map((n) => n / row.total) }));
+}
+
+// the most used tags with a size step 1–6 by how often they are used (on a log scale), in
+// alphabetical order for a cloud: [{ tag, count, step }]
+export function tagCloud(list, n = 90) {
+  const counts = new Map();
+  for (const r of list) for (const t of new Set(r.tags ?? [])) counts.set(t, (counts.get(t) ?? 0) + 1);
+  const top = [...counts].filter(([, c]) => c > 1).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, n);
+  if (!top.length) return [];
+  const hi = Math.log(top[0][1]), lo = Math.log(top.at(-1)[1]);
+  return top.map(([tag, count]) => ({ tag, count, step: 1 + Math.round(hi === lo ? 5 : ((Math.log(count) - lo) / (hi - lo)) * 5) }))
+    .sort((a, b) => a.tag.localeCompare(b.tag, "en"));
+}
+
+// reports added to the tracker per day (UTC), every day from the first addition to `until`
+export function addedPerDay(list, until = new Date()) {
+  const byDay = new Map();
+  for (const r of list) {
+    if (!r.added_at) continue;
+    const k = String(r.added_at).slice(0, 10), day = byDay.get(k) ?? byDay.set(k, { total: 0, types: {} }).get(k);
+    day.total++;
+    day.types[r.type] = (day.types[r.type] ?? 0) + 1;
+  }
+  if (!byDay.size) return [];
+  const first = [...byDay.keys()].sort()[0], last = until.toISOString().slice(0, 10);
+  const out = [];
+  let cumulative = 0;
+  for (let d = new Date(`${first}T00:00:00Z`); d.toISOString().slice(0, 10) <= last; d.setUTCDate(d.getUTCDate() + 1)) {
+    const key = d.toISOString().slice(0, 10), day = byDay.get(key) ?? { total: 0, types: {} };
+    cumulative += day.total;
+    out.push({ key, ...day, cumulative });
+  }
+  return out;
+}
