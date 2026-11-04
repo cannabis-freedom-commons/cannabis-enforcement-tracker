@@ -35,17 +35,25 @@ sources:
     url: https://nepalall.com/three-arrested-with-30-kg-of-cannabis-in-parsa/
     publisher: The Nepal All
     date: 2026-09-21
+  - title: Three arrested with 30 kg of marijuana in Parsa
+    url: https://english.nepalnews.com/s/crime-news/three-arrested-with-30-kg-of-marijuana-in-parsa/
+    publisher: Nepal News
+    date: 2026-09-21
 open_questions:
   - The reports do not give charges or a court outcome for the three arrested people.
+  - The Nepal News account says the operation took place on Monday, while the existing report dates it to the night of Sunday 20 September 2026; both point to the same incident reported on 21 September.
+  - The existing report says officers fired two rounds from a pistol; this account says two warning shots into the air without naming the weapon.
+  - The spelling Nandalal in this account appears as Nanda Lal in the existing report; they are treated as the same person.
+  - The page lead image has empty alt text, no caption and a March 2026 upload path, and the same file illustrates an unrelated gambling story, so it is not treated as showing this seizure and no media entry is included.
 ---
 
 Acting on a tip-off, a team from the Area Police Office in Paterwasugauli
 reached Malahi Tole in ward 1 on Sunday night and found people allegedly
-transporting marijuana. [@1,2] Officers fired two rounds into the air from a
+transporting marijuana. [@1,2,3] Officers fired two rounds into the air from a
 pistol after the suspects tried to flee, and arrested three people with 30 kg
-of marijuana. [@1,2]
+of marijuana. [@1,2,3]
 
 Those arrested are 50-year-old Mahesh Sahani, 34-year-old Nanda Lal Sahani,
 and 75-year-old Bhuri Chaudhary, also called Bhuti, and District Police
-Office spokesperson Chakra Bahadur Malla confirmed the operation. [@1,2]
-Further investigation is underway. [@2]
+Office spokesperson Chakra Bahadur Malla confirmed the operation. [@1,2,3]
+Further investigation is underway. [@2,3]
