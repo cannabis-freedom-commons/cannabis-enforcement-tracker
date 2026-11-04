@@ -23,6 +23,11 @@ sources:
     publisher: Εφημερίδα Γνώμη Υπεύθυνη ενημέρωση
     date: 2026-11-04
     language: el
+  - title: 'Πάτρα: 12 συλλήψεις για την άγρια συμπλοκή, ανάμεσά τους και ανήλικος - Κατασχέθηκε πιστόλι - Newsbomb'
+    url: https://www.newsbomb.gr/ellada/story/1774196/patra-12-syllipseis-gia-tin-agria-symploki-anamesa-tous-kai-anilikos-katasxethike-pistoli
+    publisher: Newsbomb
+    date: 2026-11-04
+    language: el
 open_questions:
   - No weight was published for the cannabis, described only as a small quantity, so no kilograms can be recorded.
   - The exact street and time in Patras were not given; 3 November 2026 is inferred as the previous evening relative to the 4 November 2026 publication.
@@ -31,28 +36,29 @@ open_questions:
   - No court outcome was reported; only the four car occupants were said to be referred to the Achaia prosecutor while searches for others continued.
   - Only one accessible source for this event was found after searching in Greek.
   - The page lists a photo with no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The Newsbomb page carries an image of a DIAS team captioned only with the article title, which does not establish that it shows this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Newsbomb: Police made 12 arrests over the Patras brawl, including one minor.'
 ---
 
 Patras Immediate Action, DIAS and crime-investigation officers arrested 12 Greek
 nationals, including one minor, on the evening of 3 November 2026. [@1] Police
 filed a case against them, according to each person's alleged role, for brawl,
-dangerous bodily harm and breaches of drug and weapons law. [@1] Eight of those
+dangerous bodily harm and breaches of drug and weapons law. [@1,2] Eight of those
 arrested were people who had been taken to hospital after the fight and were
-arrested there for brawl and dangerous bodily harm. [@1] The four accused
+arrested there for brawl and dangerous bodily harm. [@1,2] The four accused
 occupants of the car police stopped were to be taken to the Achaia
-first-instance prosecutor. [@1]
+first-instance prosecutor. [@1,2]
 
 Officers located a car carrying four accused and searched them, finding and
 seizing several items. [@1] They seized one Tokarev pistol with a magazine
-containing five cartridges. [@1] They seized one plastic knuckleduster
+containing five cartridges. [@1,2] They seized one plastic knuckleduster
 imitation. [@1] They seized one full-face hood. [@1] They seized one helmet.
-[@1] They also found and seized a small quantity of cannabis. [@1]
+[@1] They also found and seized a small quantity of cannabis. [@1,2]
 
 The case began with a complaint by a schoolgirl that a group of about 15 people
-approached her home in Patras that evening. [@1] The group insulted and
+approached her home in Patras that evening. [@1,2] The group insulted and
 threatened her, after which relatives and friends of the girl went to the spot
 after she called for help. [@1] About 15 more people from the first group
 arrived and brawled with those already there, leaving eight people injured and
 taken to hospital. [@1] Patras crime-investigation officers said searches were
 continuing to identify the other people involved. [@1]
-
