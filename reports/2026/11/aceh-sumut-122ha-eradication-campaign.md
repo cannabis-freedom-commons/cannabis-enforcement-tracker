@@ -153,6 +153,11 @@ sources:
     publisher: PUJATV ACEH
     date: 2026-11-03
     language: id
+  - title: Polri-BNN Musnahkan 122 Hektare Ladang Ganja di Sumut dan Aceh
+    url: https://mediahub.polri.go.id/in/image/detail/598974-polribnn-musnahkan-122-hektare-ladang-ganja-di-sumut-dan-aceh
+    publisher: Mediahub Polri
+    date: 2026-11-03
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -215,31 +220,33 @@ open_questions:
   - It is unresolved whether the four people secured and three suspects described here restate the 27 October Sawang detentions or are additional detentions in the 2 November follow-up, since the BNN account attributes four suspects to the 27 October 18-hectare operation.
   - No seized weight, value, suspect ages or court outcome beyond suspect designation was published for the 25-hectare follow-up.
   - 'The three PujaTV page photos carry only Sumber: (Foto/Saiful Bahri) captions without describing what they show, so no media entry is included.'
+  - The recapitulation describes the 122.86-hectare total as found, handled, and scheduled for handling, leaving unclear how much had been destroyed when published.
+  - The page's single image is captioned only Main with no credit or description establishing that it shows this eradication, so no media entry is added.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
-[@1,2,13,20] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20,21] In North Aceh on
+[@1,2,13,20,22] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20,21,22] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
-HM. [@1,4,6,9,11,13,19] Investigators designated three of the four as suspects and released HM
-for lack of evidence. [@1,13] Police applied articles 114 and 111 of the Narcotics
+HM. [@1,4,6,9,11,13,19,22] Investigators designated three of the four as suspects and released HM
+for lack of evidence. [@1,13,22] Police applied articles 114 and 111 of the Narcotics
 Law to the suspects, which carry a maximum penalty of 20 years' imprisonment.
-[@1,13]
+[@1,13,22]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3,4,6,7,9,10,11,12,13,16,19,20] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
+[@1,3,4,6,7,9,10,11,12,13,16,19,20,22] In North Sumatra, officers found about five hectares at Tor (Bukit) Sihite
 in Rao Rao Dolok village, Tambangan, Mandailing Natal, on 31 October, holding
-about 150,000 cannabis plants aged about five to six months. [@1,13] Officers
+about 150,000 cannabis plants aged about five to six months. [@1,13,22] Officers
 burned those plants on the spot. [@1,13] The Mandailing Natal find began with a
 public tip on 29 October about suspected planting at Tor Sihite. [@1,13] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
-in Nagan Raya on 31 October. [@1,9,10,12,13] Police also listed about two hectares
+in Nagan Raya on 31 October. [@1,9,10,12,13,22] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
-2 November. [@1,2,3,5,8,13,14,15,17] Police added about 0.04 hectares uprooted in Bener Meriah and
-about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6,13]
+2 November. [@1,2,3,5,8,13,14,15,17,22] Police added about 0.04 hectares uprooted in Bener Meriah and
+about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6,13,22]
 
 Police said the eradication was intended to break the narcotics distribution
 chain at its production source. [@1,5,13,21]
@@ -248,7 +255,7 @@ Across the whole operation, officers estimated about 186,450 cannabis plants des
 
 In Bener Meriah, police destroyed 600 cannabis plants on 0.04 hectares on 1 November. [@10] In Aceh Besar, police destroyed an estimated 1,050 cannabis plants on 0.7 hectares. [@10]
 
-In the Aceh Timur jurisdiction, officers designated farmer AM as a suspect over cannabis from about 0.12 hectares under Article 111, which carries a maximum 20 years' imprisonment. [@13] In the Sawang case, S, 43, scouted and directed officers to the site, W, 35, sowed 1,800 cannabis seeds, and M, 39, supplied the seeds to S. [@13] In Mandailing Natal, officers set aside 20 cannabis stalks as evidence and burned the remainder on site. [@13]
+In the Aceh Timur jurisdiction, officers designated farmer AM as a suspect over cannabis from about 0.12 hectares under Article 111, which carries a maximum 20 years' imprisonment. [@13,22] In the Sawang case, S, 43, scouted and directed officers to the site, W, 35, sowed 1,800 cannabis seeds, and M, 39, supplied the seeds to S. [@13] In Mandailing Natal, officers set aside 20 cannabis stalks as evidence and burned the remainder on site. [@13]
 
 Officers uprooted the cannabis plants, gathered them at one point and prepared to burn them. [@14,17,18]
 
