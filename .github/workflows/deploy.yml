@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   schedule:
     # Every 30 minutes, away from the busy start of the hour.
-    - cron: '*/30 * * * *'
+    - cron: '13,43 * * * *'
   workflow_dispatch:
 
 # Let the workflow publish to Pages using GitHub's own token.
