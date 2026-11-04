@@ -116,6 +116,11 @@ sources:
     publisher: Sevilla Actualidad
     date: 2026-11-04
     language: es
+  - title: Desmantelado un complejo con 2500 plantas de marihuana en Sevilla en plena montaña, con acceso únicamente a pie y sin cobertura
+    url: https://web.guardiacivil.es/gl/destacados/noticias/Desmantelado-un-complejo-con-2500-plantas-de-marihuana-en-Sevilla-en-plena-montana-con-acceso-unicamente-a-pie-y-sin-cobertura/
+    publisher: Guardia Civil
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -135,19 +140,19 @@ open_questions:
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6,9,10,15] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] The four suspects tried to
-escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11,14,15]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14]
+[@1,3,4,5,6,9,10,15] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16] The four suspects tried to
+escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11,14,15,16]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16]
 The detainees were brought before those courts as alleged perpetrators of
 public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12,13,15] The
 investigation remains open. [@1,2,5,8,10,12,13,15]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] Some of the plants stood
-more than two metres tall. [@1,2,3,6,7,8,10,13,15] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13] From there, a
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16] Some of the plants stood
+more than two metres tall. [@1,2,3,6,7,8,10,13,15,16] Because vehicles could not be used, agents cut
+the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
-[@1,2,3,6,7,9,10,11,13,14,15] Each growing area had its own irrigation system despite the steep slope and
+[@1,2,3,6,7,9,10,11,13,14,15,16] Each growing area had its own irrigation system despite the steep slope and
 lack of conventional connections. [@1,8] Those running the site had installed
 motors, pipes and large water stores including pools across the sierra. [@1] The
 site also had electric generators, tools and drying rooms. [@1] Officers found
