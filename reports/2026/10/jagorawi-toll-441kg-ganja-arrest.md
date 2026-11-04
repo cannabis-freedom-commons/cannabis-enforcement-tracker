@@ -111,6 +111,11 @@ sources:
     publisher: Beritabuana.co
     date: 2026-11-03
     language: id
+  - title: Polda Metro Buru Bandar Ganja Inisial K, Pasok Depok-Tangerang
+    url: https://news.harianjogja.com/r-1277462/polda-metro-buru-bandar-ganja-inisial-k-pasok-depok-tangerang
+    publisher: Harianjogja.com
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -147,6 +152,7 @@ open_questions:
   - 'Left out, as its quotation was not found in CentralBatam: Police said they received information from the public about the cannabis distribution before arresting the courier on the Jagorawi toll road.'
   - The Beritabuana account names only the Tol Jagorawi area and the 3 November 2026 press-conference date, so the 31 October 2026 seizure date and exact rest-area point continue to rely on earlier sources.
   - The Beritabuana page's only listed image shows the narcotics director at a press conference and its caption does not establish that it shows the seized 44.1 kg cannabis, so no media entry is added.
+  - The page's featured image caption describes a 3 November 2026 press conference about the 44.1 kg Mandailing Natal ganja case and credits Antara-Ditresnarkoba Polda Metro Jaya, but does not establish that it shows the seized cannabis itself, so no media entry is added.
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -166,22 +172,22 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18,19] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5,18]
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
 across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14,17] They said the load was intended
-for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18] Police said YT had already
+for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18,19] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
-the October load his third. [@1,5,7,8,9,11,12,13,14,17,18] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1,6,10,11,13,15,17,18]
+the October load his third. [@1,5,7,8,9,11,12,13,14,17,18,19] They said he was promised Rp 1 juta for each
+kilogram he carried. [@1,6,10,11,13,15,17,18,19]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
 years in prison. [@3,4,6,8,9,12,14,15,18] Police said they had identified the alleged controller,
-initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15,17,18]
+initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15,17,18,19]
 
 At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4,18] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
 
@@ -189,4 +195,4 @@ Police said they received information from the public about the cannabis distrib
 
 The seized 44.1 kg was wrapped in packages sealed with brown tape. [@13] YT is now detained at the Polda Metro Jaya detention facility. [@13]
 
-Bismo said the disclosure was part of the National Police chief's priority programme on eradicating drug dealers. [@14]
+Bismo said the disclosure was part of the National Police chief's priority programme on eradicating drug dealers. [@14,19]
