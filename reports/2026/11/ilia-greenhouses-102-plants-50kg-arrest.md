@@ -2,20 +2,19 @@
 added_at_source: git
 added_at: "2026-11-02T07:50:36.000Z"
 code: ANHSGM
-date: 2026-10-31
+date: 2026-11-03
 country: gr
 place: Ilia, western Peloponnese
 coordinates: [37.6749, 21.4444]
 precision: district
-type: arrest
-also: [seizure]
-title: Man held in Ilia with 102 plants and 50 kg in greenhouses
-summary: >-
-  Police in Ilia arrested a man tending two greenhouses holding 102 cannabis plants up to 2.5 metres tall. A storeroom search seized 50.03 kg of dried cannabis and a precision scale; he faces cultivation and possession charges.
+type: prosecution
+also: [seizure, arrest]
+title: 40-year-old remanded over 102-plant cannabis farm in Andravida
+summary: A 40-year-old Greek man was ordered remanded in custody in Amaliada over a cannabis farm found in Andravida. Police had arrested him after finding 102 plants in two greenhouses and seizing 50.03 kg of dried cannabis and a precision scale.
 figures:
-  arrested: 1
-  plants_destroyed: 102
-  kg_seized: 50.03
+    arrested: 1
+    plants_destroyed: 102
+    kg_seized: 50.03
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1319963/man-held-for-growing-marijuana-in-greenhouses/
@@ -86,6 +85,11 @@ sources:
     publisher: Gargalianoionline
     date: 2026-11-02
     language: el
+  - title: Στη φυλακή ο 40χρονος για τη μεγάλη φυτεία κάνναβης στην Ανδραβίδα – Κατασχέθηκαν 50 κιλά ναρκωτικών
+    url: https://www.patrisnews.com/sti-fylaki-o-40chronos-gia-ti-megali-fyteia-kannavis-stin-andravida-kataschethikan-50-kila-narkotikon/
+    publisher: PatrisNews
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
@@ -102,6 +106,9 @@ open_questions:
   - The submitted page carries an image captioned only “αστυνομία-1”, which does not establish that it shows this seizure, so no media entry is added.
   - The submitted page was published 2 November 2026 and says the arrest was yesterday at midday, implying 1 November 2026, while the existing report dates the arrest to Saturday 31 October 2026.
   - The page carries one image whose caption and credit are empty, so whether it shows this seizure could not be established and no media entry is added.
+  - The apology and remand date is inferred as 3 November 2026 from 'yesterday' relative to the 4 November 2026 publication.
+  - No trial date or further court outcome was reported.
+  - The page's photo caption repeats the headline with no credit, so whether it shows this seizure could not be established and no media entry is included.
 ---
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
@@ -113,13 +120,15 @@ crime-investigation department continues its inquiries. [@2,3,4,8,9,11]
 Police say the suspect was growing 102 cannabis plants up to 2.5 meters high
 inside two greenhouses. [@1,7] Officers found 50 kilograms and 30 grams of raw
 dried cannabis and plant fragments, 102 cannabis plants and a precision scale.
-[@2,3,4,6,8,9,10] Police described the greenhouse growing as large-scale cultivation with a
+[@2,3,4,6,8,9,10,13] Police described the greenhouse growing as large-scale cultivation with a
 view to trafficking the drug. [@1] A search of an adjacent storeroom also
 revealed precision scales for measuring small quantities of the drug for retail
 sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10,12]
+scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10,12,13]
 
-Of the 102 cannabis plants, 21 had already been harvested. [@8,12]
+Of the 102 cannabis plants, 21 had already been harvested. [@8,12,13]
+
+The 40-year-old Greek suspect testified before the Amaliada investigating judge and was ordered provisionally detained with the agreement of the prosecution authority. [@13] The suspect is a 40-year-old Greek man arrested for cultivating a large cannabis plantation and holding significant drug quantities in the Andravida area. [@13]
