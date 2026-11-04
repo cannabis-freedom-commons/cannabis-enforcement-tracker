@@ -70,6 +70,11 @@ sources:
     publisher: العربي الجديد
     date: '2026-11-01'
     language: ar
+  - title: 'الأردن: إحباط تهريب مليوني حبّة مخدرة عبر مركز حدود جابر'
+    url: https://www.almashhad.com/article/773112298002792-News/134677601876374-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%AD%D8%A8%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B1%D9%83%D8%B2-%D8%AD%D8%AF%D9%88%D8%AF-%D8%AC%D8%A7%D8%A8%D8%B1/
+    publisher: المشهد
+    date: 2026-11-02
+    language: ar
 open_questions:
   - >-
     The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the
@@ -124,16 +129,16 @@ also:
   - raid
 ---
 
-Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9]
+Syria's anti-narcotics authorities reported seizing 582 kilograms of hashish during October 2026 operations. [@1,2,3,4,5,6,7,8,9,10]
 
 Syria's Interior Ministry anti-narcotics directorate announced that it carried
 out security operations and dismantled smuggling networks during October 2026 as
 part of efforts to limit drug trafficking and promotion. [@9] It said officers
 conducted 157 security operations and dismantled 30 domestic drug-trafficking
-networks in that month. [@9]
+networks in that month. [@9,10]
 
 It said those October operations seized 582 kilograms of hashish, the cannabis
-resin tracked here. [@9] It summarized that cannabis result as more than half a
+resin tracked here. [@9,10] It summarized that cannabis result as more than half a
 tonne of hashish. [@9] The same monthly tally also listed 4.3 million captagon
 pills, more than 28,000 narcotic medical pills and 7 kilograms of crystal meth,
 which are recorded only to explain the mixed seizure and are excluded from the
