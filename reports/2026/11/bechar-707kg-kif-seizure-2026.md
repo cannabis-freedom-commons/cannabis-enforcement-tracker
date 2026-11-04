@@ -53,6 +53,11 @@ sources:
     publisher: L'express DZ
     date: 2026-11-03
     language: fr
+  - title: 'LORS D’UNE OPÉRATION COMBINÉE ANP – DOUANES : Plus de 700 kg de kif traité saisis à Béchar'
+    url: https://lecourrier-dalgerie.com/lors-dune-operation-combinee-anp-douanes-plus-de-700-kg-de-kif-traite-saisis-a-bechar/
+    publisher: Le Courrier d'Algérie
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No arrests, suspects, or court outcome were reported in either account.
   - The reports do not specify the exact location within the Béchar military sector beyond the sector and the 3rd Military Region.
@@ -69,15 +74,15 @@ open_questions:
 ---
 
 A joint security formation of the army and customs carried it out, according to
-a Ministry of National Defence statement. [@2,3,4,5,6]
+a Ministry of National Defence statement. [@2,3,4,5,6,7]
 
 The coordinated action located and seized 707.45 kilograms of kif traité, the
-local term for processed cannabis resin. [@1,3,4,5,6] The shipment was described as
+local term for processed cannabis resin. [@1,3,4,5,6,7] The shipment was described as
 ready to be sold on the illicit market. [@1]
 
 The result was presented as part of permanent missions to secure and monitor the
 national border route. [@1] The defence statement framed the operation as
 continued border-protection work against organised crime, particularly drugs of
-all kinds. [@2,4,5,6] The account credited operational coordination and the vigilance
+all kinds. [@2,4,5,6,7] The account credited operational coordination and the vigilance
 of the security units with preserving territorial integrity and citizens'
 safety. [@1]
