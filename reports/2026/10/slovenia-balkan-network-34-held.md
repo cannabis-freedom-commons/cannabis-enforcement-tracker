@@ -24,6 +24,9 @@ tags: [slovenia, europol, balkan-network, first-report]
 open_questions:
   - The three-tonne cannabis figure covers the whole network, not Slovenia alone; Slovenia-specific seizures were 51 kg on the action day plus 404 kg intercepted earlier.
   - The Ljubljana remand outcomes and extraditions were still pending.
+  - The 2.5 metric tons of cannabis is described as an unseized additional amount prosecutors expect to charge based on decrypted communications, not a physically seized weight.
+  - The OCCRP account reports 36 suspects arrested on the action day plus 11 detained earlier, totalling 47 detained, while the existing report records 34 arrested, reflecting Slovenia-only versus all-country counting.
+  - No charges, remand outcomes or sentences beyond the expected prosecutions were reported in this account.
 sources:
   - title: Slovenian Police Helps Dismantle Two International Drug-Smuggling Networks
     url: https://cordmagazine.com/news/slovenian-police-helps-dismantle-two-international-drug-smuggling-networks/
@@ -35,6 +38,16 @@ sources:
     publisher: PressWay (via Europol)
     date: 2026-10-09
     language: en
+  - title: Nearly 50 Arrested as Police Target Western Balkan Drug Network
+    url: https://www.occrp.org/en/news/nearly-50-arrested-as-police-target-western-balkan-drug-network
+    publisher: OCCRP
+    date: 2026-10-08
+media:
+  - kind: photo
+    url: https://www.occrp.org/en/news/nearly-50-arrested-as-police-target-western-balkan-drug-network
+    media_url: https://www.occrp.org/processed/containers/assets/news/europol-wbalkan-operation.jpg/c7bc2f1498b4e0e3b5d5aeb044a55de4/europol-wbalkan-operation.jpg
+    publisher: OCCRP
+    caption: 'An indoor cannabis cultivation site uncovered during the international police crackdown on a Western Balkan drug trafficking network. Banner: Europol.'
 ---
 
 Slovenian police, with Europol and agencies across Europe, dismantled two
@@ -45,9 +58,11 @@ The four-year probe into an organisation spanning Slovenia, Croatia,
 Bosnia and Herzegovina, Spain and the Netherlands ended on 6 October 2026
 with 42 properties searched in Slovenia and Spain; 34 suspects were held
 in Slovenia plus one each in Spain and Croatia, on top of 11 detained
-earlier. [@1] [@2] Six criminal groups moved cocaine, cannabis,
+earlier. [@1,3] [@2] Six criminal groups moved cocaine, cannabis,
 amphetamine, MDMA and methamphetamine in commercial freight using
 encrypted chats; over three tonnes of cannabis, 700 kg of cocaine and
 100 kg of heroin were seized overall, with 51 kg of cannabis taken on the
 action day and 404 kg intercepted during the probe. [@1] [@2] A Ljubljana
 court remanded 13 suspects and put two under house arrest. [@1]
+
+Prosecutors expect to charge the suspects in connection with an unseized additional 2.5 metric tons of cannabis uncovered by decrypting intercepted SKY ECC communications. [@3] On the October 6 action day officers seized 51 kilograms of cannabis within 66 kilograms of narcotics that also included 15 kilograms of amphetamine, along with cash, jewelry and firearms. [@3]
