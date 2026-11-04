@@ -42,6 +42,10 @@ sources:
     url: https://pmnewsnigeria.com/2026/11/02/kano-man-arrested-while-attempting-to-smuggle-drug-into-prison/
     publisher: P.M. News
     date: 2026-11-02
+  - title: NCoS foils indian hemp smuggling attempt at Kano custodial centre
+    url: https://tribuneonlineng.com/ncos-foils-indian-hemp-smuggling-attempt-at-kano-custodial-centre/
+    publisher: Tribune Online
+    date: 2026-11-02
 open_questions:
   - The sources date the interception to Sunday around noon and the command's statement and publication to Monday, 2 November 2026, so the incident date is recorded as 1 November 2026.
   - No weight, packaging detail or value for the suspected cannabis was published.
@@ -54,22 +58,25 @@ open_questions:
   - The page's lead prison image carries an August 2025 file address and a general prison caption, so it does not show this interception and no media entry is listed.
   - The article's mention of an August 2026 drug-smuggling arrest at Ibara, Abeokuta is a separate event left out here.
   - The page's only supplied image uses a July 2025 file address with a general prison caption, so it does not show this interception and no media entry is listed.
+  - The new account gives no separate day for the noon interception beyond its 2 November 2026 publication date, so the Sunday dating rests on earlier accounts.
+  - The new account spells the spokesperson's name as CSC Musbahu Lawan Knassarawa, differing from the Kofarnassarawa spelling in earlier accounts.
+  - The only supplied image is captioned about an unrelated Rivers matter with a 2025 file address and does not show this interception, so no media entry is included.
 ---
 
 Officers of the Nigerian Correctional Service Kano State Command arrested a
 40-year-old man for allegedly attempting to smuggle suspected cannabis into a
-custodial facility in Kano State. [@1,5,6] He was intercepted while attempting to
+custodial facility in Kano State. [@1,5,6,7] He was intercepted while attempting to
 throw the prohibited substance into the Medium Security Custodial Centre at
-Kurmawa, Kano, around noon on Sunday. [@1,6] The suspect was described as a
-resident of Janguza Quarters in Kano. [@1,4,5,6] Officers of the Armed Squad Unit made
-the arrest under the supervision of the unit commander, CSC Usman M. Sale. [@1,5,6]
+Kurmawa, Kano, around noon on Sunday. [@1,6,7] The suspect was described as a
+resident of Janguza Quarters in Kano. [@1,4,5,6,7] Officers of the Armed Squad Unit made
+the arrest under the supervision of the unit commander, CSC Usman M. Sale. [@1,5,6,7]
 The command's public relations officer, CSC Musbahu Kofarnassarawa, announced
 the arrest in a statement issued on Monday, saying the officers foiled the
 attempt through vigilance and swift response. [@1,5]
 
 The man was caught while trying to throw the substance over the perimeter wall
 of the Kurmawa centre. [@3] The command handed the suspect over to the National
-Drug Law Enforcement Agency for further investigation and necessary action. [@2,4,5,6]
+Drug Law Enforcement Agency for further investigation and necessary action. [@2,4,5,6,7]
 
 The state Controller of Corrections, Ahmed Yusuf-Lakpene, commended the officers
 for vigilance and professionalism, saying their intervention prevented
@@ -78,3 +85,5 @@ zero-tolerance stance on introducing illicit drugs and other prohibited
 materials into correctional centres. [@2,5] He also reaffirmed the service's
 commitment to strengthening security across custodial facilities to ensure a
 safe environment for the reformation and rehabilitation of inmates. [@1]
+
+The suspect was identified as Nura Mohammed. [@7]
