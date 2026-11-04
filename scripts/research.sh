@@ -484,6 +484,18 @@ def recover_failed_build(owned, tracked_before, out, run_dir, first_code, first_
         to_fix = [p for p in invalid if p in owned]
         other_errors = [p for p in invalid if p not in owned]
         if other_errors:
+            if not isolated:
+                # Full-tree build raced with a concurrent worker's half-written
+                # report. Retry HEAD + owned files in isolation before giving up.
+                say("→ Full-tree validation hit unowned file(s) (concurrent worker dirt); "
+                    "retrying HEAD + owned files in isolation: " + ", ".join(other_errors), out)
+                isolated = True
+                name = f"build-isolated-fallback-{attempt}"
+                log_path = run_dir / f"{name}.log"
+                code = isolated_build(owned, out, run_dir, name)
+                if code == 0:
+                    return 0
+                continue
             say("ERROR: Build errors refer to files not owned by this run; refusing to modify them: " +
                 ", ".join(other_errors), out)
             return code
