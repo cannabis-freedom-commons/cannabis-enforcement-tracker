@@ -34,6 +34,11 @@ sources:
     publisher: السياسة
     date: 2026-10-29
     language: ar
+  - title: «مكافحة المخدرات» تضبط 5 متهمين بالاتجار بالمواد المخدرة والمؤثرات العقلية
+    url: https://sarmad.com/350779/
+    publisher: Sarmad
+    date: 2026-10-29
+    language: ar
 open_questions:
   - The ministry gave no date for the arrests themselves; 29 October 2026 is the day it announced them.
   - The ministry announced four separate cases together, so the drug figures are totals for all four rather than for one case.
@@ -41,6 +46,7 @@ open_questions:
   - The statement does not say where in Kuwait the arrests took place or which of the four cases the 5 grams of hashish belonged to.
   - The same ministry statement reported a security campaign in Jahra governorate and traffic campaigns against delivery riders, separate events left out of this report.
   - 'Neither page carried a photograph that could be confirmed to show the seized items: Al-Rai''s picture is of a government building, and Kuwait Times ran four uncaptioned images beside the drug item.'
+  - The Sarmad page displays a main image with an empty caption and alt text, so it cannot be confirmed to show this seizure and no media entry is included.
 media:
   - kind: photo
     url: https://alseyassah.com/article/474545/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-5-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-4-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7/
@@ -51,15 +57,15 @@ media:
 
 Kuwait's General Department for Drug Control arrested five suspects in four
 separate cases involving trafficking in narcotics and psychotropic substances
-and their use, the Interior Ministry said. [@1,3] It announced them in a press
+and their use, the Interior Ministry said. [@1,3,4] It announced them in a press
 statement on Thursday 29 October 2026. [@1] It said officers detained the five
 in continuing security efforts against drug activity and against those involved
 in it. [@1,3] The ministry referred the suspects and the seized items to the
 competent authorities for the necessary action. [@1,3]
 
 The only cannabis in the haul was 5 grams of hashish, listed among the seizures
-from the four cases. [@2,3] The other seizures were 4,000 capsules of Lyrica,
+from the four cases. [@2,3,4] The other seizures were 4,000 capsules of Lyrica,
 which the ministry described as psychotropic, 4 kilograms of Lyrica powder and
-170 grams of shabu (methamphetamine). [@1,3] Officers also seized 15 sheets of
+170 grams of shabu (methamphetamine). [@1,3,4] Officers also seized 15 sheets of
 paper soaked in a drug known locally as 'chemical' with 1 gram of the same
-substance, 1 gram of cocaine and four precision scales. [@1,3]
+substance, 1 gram of cocaine and four precision scales. [@1,3,4]
