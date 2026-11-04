@@ -23,6 +23,16 @@ media:
     media_url: https://www.tahiti-infos.com/photo/art/default/98588757-68798275.jpg?v=1793736484
     publisher: Tahiti Infos
     caption: Seized methamphetamine and cannabis plants from the Faa'a operation.
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/polynesie/302-de-pieds-de-paka-de-l-ice-du-cash-et-18-mois-de-prison-ferme-1754313.html
+    media_url: https://la1ere.franceinfo.fr/image/WxrS3Mksmna2CDV4TSwlMtrbR4E/0x14:824x477/900x506/filters:format(webp):quality(80)/outremer%2F2026%2F11%2F03%2F6aea474973098895956422.png
+    publisher: Polynésie La 1ère
+    caption: 'Pickup truck bed filled with seized paka plants in Faa''a. Photo: Gendarmerie.'
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/polynesie/302-de-pieds-de-paka-de-l-ice-du-cash-et-18-mois-de-prison-ferme-1754313.html
+    media_url: https://la1ere.franceinfo.fr/image/VqSdfbI8WTwtlv9uw86kTvRrB50/0x0:1152x2048/720x1280/filters:quality(80)/outremer%2F2026%2F11%2F03%2F6aea47aeecea2764612629.jpg
+    publisher: Polynésie La 1ère
+    caption: 'Seized drugs and cash laid out after the Faa''a raid. Photo: Gendarmerie.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2f7d02ee0cfcbfbf0f2a062574d253c7
@@ -38,6 +48,11 @@ sources:
     publisher: TNTV News - Tahiti Nui Télévision
     date: 2026-11-03
     language: fr
+  - title: 302 de pieds de paka, de l'ice, du cash et 18 mois de prison ferme
+    url: https://la1ere.franceinfo.fr/polynesie/302-de-pieds-de-paka-de-l-ice-du-cash-et-18-mois-de-prison-ferme-1754313.html
+    publisher: Polynésie La 1ère
+    date: 2026-11-03
+    language: fr
 open_questions:
   - The exact raid and sentencing dates are inferred from relative dates in the article published 3 November 2026, which says the raid happened mercredi dernier and the hearing jeudi dernier, so 28 and 29 October 2026 are understood with 29 October used as the latest step.
   - Only one accessible source for this event was found after searching in French.
@@ -46,6 +61,7 @@ open_questions:
   - The 1.4 kg of leaves is listed without stating that they are cannabis leaves, so no additional cannabis weight is recorded from it.
   - TNTV calls the 13 g seizure ice while the existing report calls it methamphetamine; the local meaning of ice is left as reported.
   - The page carries one image captioned only drogue saisie ok, which does not establish that it shows this seizure, so no media entry is included.
+  - The new account explicitly labels the 1.4 kg of leaves as cannabis leaves, while the existing report records only 0.382 kg of herb and leaves the leaves uncounted; whether the cannabis total should now include 1.4 kg needs review.
 ---
 
 Gendarmes assisted by the Faa’a municipal police arrested one person at his
@@ -53,16 +69,18 @@ private home in Faa’a during a joint operation linked to a judicial
 investigation into drug trafficking. [@1,2] Officers placed him in custody and
 then brought him before the tribunal in Papeete. [@1,2] The tribunal sentenced him
 to 18 months of firm imprisonment and ordered his committal to prison under a
-mandat de dépôt, a committal order. [@1,2]
+mandat de dépôt, a committal order. [@1,2,3]
 
-Officers seized 302 cannabis plants during the search of the home. [@1,2] They
+Officers seized 302 cannabis plants during the search of the home. [@1,2,3] They
 also seized 382 grams of cannabis herb found with the plants during that same
-home search. [@1,2] The same search also recovered 13 grams of methamphetamine and
-470,500 Fcfp, CFP francs, in cash alongside the cannabis. [@1,2]
+home search. [@1,2,3] The same search also recovered 13 grams of methamphetamine and
+470,500 Fcfp, CFP francs, in cash alongside the cannabis. [@1,2,3]
 
 The home intervention took place on the Wednesday of the previous week. [@1] It
 formed part of a judicial enquiry specifically concerning drug trafficking. [@1]
 The custody, court appearance and sentencing followed, with the hearing held on
 the Thursday of that same week. [@1]
 
-The intervention in Faa’a occurred on 28 October. [@2] The individual was brought before the Papeete judicial court on 29 October. [@2] Officers also listed 1.4 kg of leaves among the items seized alongside the cannabis plants and herb. [@2]
+The intervention in Faa’a occurred on 28 October. [@2] The individual was brought before the Papeete judicial court on 29 October. [@2,3] Officers also listed 1.4 kg of leaves among the items seized alongside the cannabis plants and herb. [@2]
+
+The Faa'a operation was carried out by COMGEND gendarmes supported by the PSIG of the Windward Islands company, the DSI and the Faa'a municipal police. [@3]
