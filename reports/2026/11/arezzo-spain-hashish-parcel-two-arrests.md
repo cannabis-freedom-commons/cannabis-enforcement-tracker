@@ -37,6 +37,11 @@ media:
     media_url: https://www.lortica.it/wp-content/uploads/2026/11/guardia-finanza-arezzo-sequestro-hashish.jpg
     publisher: L'Ortica
     caption: Hashish seized in the Guardia di Finanza operation in Arezzo
+  - kind: photo
+    url: https://www.corrierediarezzo.it/news/cronaca/468650/non-erano-pacchetti-di-figurine-dei-calciatori-c-era-hashish-stop-a-4-chili-dalla-spagna-arrestati-due-giovani-dalla-finanza.html
+    media_url: https://corrierediarezzo.cdn.m33cloud.com/resizer/1800/-1/true/2026_11_03/03112026_092658_Screenshot_2026-11-03_090257-1793696536623_1793696568.jpg--i_pacchetti_di_hashish.jpg?1793696568353
+    publisher: Corriere di Arezzo
+    caption: 'Packets of seized hashish disguised as football sticker packets. Caption: I pacchetti di hashish.'
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa
@@ -97,6 +102,11 @@ sources:
     publisher: Arezzo TV
     date: 2026-11-03
     language: it
+  - title: 'Non erano pacchetti di figurine dei calciatori, c''era hashish: stop a 4 chili dalla Spagna, arrestati due giovani dalla Finanza. Il sistema locker'
+    url: https://www.corrierediarezzo.it/news/cronaca/468650/non-erano-pacchetti-di-figurine-dei-calciatori-c-era-hashish-stop-a-4-chili-dalla-spagna-arrestati-due-giovani-dalla-finanza.html
+    publisher: Corriere di Arezzo
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -113,19 +123,21 @@ open_questions:
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11] The two people stopped were one
-Italian national and one Albanian national. [@2,3,4,5,7,8,10] Officers had flagged two
+4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11,12] The two people stopped were one
+Italian national and one Albanian national. [@2,3,4,5,7,8,10,12] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1,3,5,6,7,8,9,10] The two were stopped as they collected the
+of residents in Arezzo province. [@1,3,5,6,7,8,9,10,12] The two were stopped as they collected the
 parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1,3,4,5,6,7,10]
+under house arrest. [@1,3,4,5,6,7,10,12]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1]
-Officers identified the real recipients through targeted stakeouts. [@1,9] The
+Officers identified the real recipients through targeted stakeouts. [@1,9,12] The
 Guardia di Finanza, Italy's financial police, said the operation showed its
 commitment to upholding legality as a force present in the area. [@1] The press
 release was authorised by the Arezzo public prosecutor. [@2] The suspects are
 presumed innocent pending a final judgment. [@2]
+
+The two suspects were an Italian born in 2006 and an Albanian born in 1998. [@12] The hashish was packed in boxes designed to look like football sticker packets showing Norway player Haaland wearing a Viking headdress and holding a ball. [@12] The provincial operation was led by Colonel Daniela Parisi. [@12]
