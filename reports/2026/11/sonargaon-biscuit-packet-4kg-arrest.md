@@ -76,6 +76,11 @@ sources:
     publisher: Narayanganj Post
     date: 2026-11-02
     language: bn
+  - title: বিস্কুটের প্যাকেট খুলতেই বের হলো গাঁজা, নারী গ্রেপ্তার
+    url: https://www.pressnarayanganj24.net/city-outside/news/47365
+    publisher: Press Narayanganj
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The article reports the seizure as 4 kg 200 grams in its opening paragraph but as 4 kg 2 grams later; this report uses 4.2 kg and the discrepancy remains unresolved.
   - Only one outlet account of this checkpoint arrest could be opened; the underlying SRB-11 press release was not found separately.
@@ -96,21 +101,21 @@ open_questions:
 
 SRB-11 arrested 22-year-old Mosha. Aklima in Sonargaon, Narayanganj, for
 allegedly smuggling cannabis concealed inside biscuit packets using a novel
-technique. [@1,3,6,7,8] An SRB-11 Sadar Company operational team in Narayanganj set up a
+technique. [@1,3,6,7,8,9] An SRB-11 Sadar Company operational team in Narayanganj set up a
 highway checkpoint on secret information and detained Aklima as she travelled
-disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2,7,8] The
+disguised as a passenger on a Chattogram-to-Dhaka Tisha Paribahan bus. [@1,2,7,8,9] The
 arrested woman lives in Kashirampur under Kasba Police Station in Brahmanbaria
-and is the wife of Rajesh Sikder. [@1,2,3,4,5,7,8]
+and is the wife of Rajesh Sikder. [@1,2,3,4,5,7,8,9]
 
 Officers searched the Lexus biscuit packet she was carrying and recovered 4 kg
 200 grams of ganja, the local term for cannabis, according to the SRB-11
-account. [@1,2,3,4,7,8] The operation took place at about 7:30 pm on Sunday, 1 November,
+account. [@1,2,3,4,7,8,9] The operation took place at about 7:30 pm on Sunday, 1 November,
 in front of the Bismillah Filling Station under Sonargaon Police Station on the
-Dhaka-Chattogram highway. [@1,2,5,7,8]
+Dhaka-Chattogram highway. [@1,2,5,7,8,9]
 
 In its press account, SRB-11 described Aklima as an active member of an
 organised drug-trafficking ring who had long collected large consignments of
 banned drugs from border areas and carried, supplied and sold them in
-Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1,8] A
+Narayanganj, Dhaka and nearby districts while evading law enforcement. [@1,8,9] A
 regular case has been filed against her at Sonargaon Police Station under the
-Narcotics Control Act. [@1,2,3,4,5,6,7,8]
+Narcotics Control Act. [@1,2,3,4,5,6,7,8,9]
