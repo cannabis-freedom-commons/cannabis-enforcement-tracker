@@ -24,6 +24,11 @@ sources:
     publisher: Correio da Manhã
     date: 2026-06-30
     language: pt
+  - title: PJ detém no aeroporto de Lisboa mulher com 15 quilos de haxixe para a Guiné-Bissau
+    url: https://observador.pt/2026/06/30/pj-detem-no-aeroporto-de-lisboa-mulher-com-15-quilos-de-haxixe-para-a-guine-bissau/
+    publisher: Observador
+    date: 2026-06-30
+    language: pt
 open_questions:
   - The article gives the detention only as the previous Saturday relative to its 30 June 2026 publication, so 27 June 2026 is used as the incident date.
   - The woman's name was not published.
@@ -34,22 +39,21 @@ open_questions:
 ---
 
 The Polícia Judiciária, Portugal's national Judiciary Police force, detained a
-Guinean woman at Lisbon Airport after detecting hashish in her baggage. [@1] The
-woman is 28 years old. [@1] She was detained on the previous Saturday before the
+Guinean woman at Lisbon Airport after detecting hashish in her baggage. [@1,2] The
+woman is 28 years old. [@1,2] She was detained on the previous Saturday before the
 Tuesday announcement. [@1] A Judiciary Police source provided the details of the
 case to the Lusa news agency. [@1] She has since been heard in a first judicial
 interrogation before a judge. [@1] The judge imposed preventive detention, which
-the source described as the most severe coercion measure. [@1] The detention was
+the source described as the most severe coercion measure. [@1,2] The detention was
 publicly disclosed on Tuesday. [@1]
 
-Officers seized 15 kilograms of hashish found in her luggage. [@1] The hashish
-had Guinea-Bissau as its stated destination. [@1] The Judiciary Police said the
-seized drugs would yield about 31,000 individual doses. [@1]
+Officers seized 15 kilograms of hashish found in her luggage. [@1,2] The hashish
+had Guinea-Bissau as its stated destination. [@1,2] The Judiciary Police said the
+seized drugs would yield about 31,000 individual doses. [@1,2]
 
 The detention took place within an ongoing investigation directed by the 1st
-Section of Lisbon's Department of Investigation and Criminal Action. [@1] That
+Section of Lisbon's Department of Investigation and Criminal Action. [@1,2] That
 inquiry is aimed at preventing and repressing the introduction, transit and exit
 of narcotic products in and from national territory. [@1] Investigations were
 continuing to establish the full contours of the illegal drug-trafficking
 scheme. [@1]
-
