@@ -39,6 +39,11 @@ sources:
     publisher: Afyon Türkeli Gazetesi
     date: 2026-11-04
     language: tr
+  - title: Susurluk'ta konut baskınında 596,83 gram esrar ve iki tüfek ele geçirildi
+    url: https://www.aksiyon.com.tr/susurluk-ta-konut-baskininda-596-83-gram-esrar-ve-iki-tufek-ele-gecirildi-387889
+    publisher: Aksiyon
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate date for the raid; 4 November 2026 is their publication timestamp and is used as the incident date.
   - No charge, court date or later outcome was reported.
@@ -52,8 +57,8 @@ open_questions:
 
 Crime Prevention and Investigation Bureau teams of the Susurluk District Police
 Directorate carried out an operation at an address identified in Yeni Mahalle.
-[@1,3,4] The operation detained Y.E.K., whose procedures were described as still
-continuing. [@1,3,4]
+[@1,3,4,5] The operation detained Y.E.K., whose procedures were described as still
+continuing. [@1,3,4,5]
 
 The search found 596 grams of esrar, 2 yivsiz av tüfeği and 16 cartridges. [@1,3,4]
 The seizure was described as about 600 grams of esrar in Susurluk district of
@@ -62,4 +67,4 @@ esrar, 2 yivsiz av tüfeği and 16 cartridges, and Y.E.K. was detained. [@2]
 
 The item is timestamped 4 November 2026 at 12:47. [@1]
 
-Police raided the address at around 17.00 and carried out a detailed search of the house and loft. [@4] The precise seized weight was 596.83 grams of esrar. [@4]
+Police raided the address at around 17.00 and carried out a detailed search of the house and loft. [@4] The precise seized weight was 596.83 grams of esrar. [@4,5]
