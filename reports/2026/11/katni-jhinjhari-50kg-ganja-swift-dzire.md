@@ -37,30 +37,41 @@ sources:
     publisher: MP News Cast
     date: 2026-11-04
     language: hi
+  - title: Katni Police Seize Swift Dzire Car With Ganja | NDPS Case Registered
+    url: https://www.bhaskar.com/local/mp/katni/news/katni-police-seize-ganja-swift-dzire-ndps-act-case-update-139592610.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
+  - title: '50 किलो गांजे की कार छोड़कर अंधेरे में भागा चालक: बिना नंबर की स्विफ्ट डिजायर जब्त की, गांजे और कार की कीमत करीब 12 लाख रुपए - Katni News'
+    url: https://www.bhaskar.com/local/mp/katni/video/katni-police-seize-ganja-swift-dzire-ndps-act-case-update-139592610.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No arrest was reported because the driver fled, and the identity of the accused remains unknown.
   - The car had no number plate, so its registration and owner could not be confirmed from this report.
   - The valuation line reads 12,00,000 lakh rupees, apparently meaning about 1,200,000 rupees total; only the 500,000-rupee ganja value is recorded as the drug value.
   - Only one source for this event could be opened, and no agency statement or second outlet account was found.
   - No separate time of the chase beyond the 4 November 2026 date was published.
+  - The Bhaskar account gives only the combined value of about 12 lakh rupees for the ganja and car together and does not give the separate 500,000-rupee ganja and 700,000-rupee car split recorded in the existing report.
+  - The submitted video page capture contains only the headline and video in readable text; the fuller corroborating details come from the same Bhaskar article's news-text version with the same article ID.
 ---
 
 On 4 November 2026, Jhinjhari police chased an unnumbered white Swift Dzire
-after a tip that its driver was carrying ganja from Umaria toward Jabalpur. [@1]
+after a tip that its driver was carrying ganja from Umaria toward Jabalpur. [@1,2]
 The driver sped away from two police teams, turned off near the GST office onto
 Badagaon Road, stopped in front of Forest Smriti Van and fled under cover of
-darkness. [@1] Police searched for the driver at the spot but did not find him,
-so no arrest was made there. [@1] Police registered a case against unknown
-accused under sections 8 and 20 of the NDPS Act. [@1]
+darkness. [@1,2] Police searched for the driver at the spot but did not find him,
+so no arrest was made there. [@1,2] Police registered a case against unknown
+accused under sections 8 and 20 of the NDPS Act. [@1,2]
 
 Officers searched the abandoned unnumbered white Swift Dzire before independent
-witnesses and found 50 packets of ganja inside the car. [@1] Separate weighing
-showed each packet held 1 kg, making 50 kg of ganja in total. [@1] Police seized
+witnesses and found 50 packets of ganja inside the car. [@1,2] Separate weighing
+showed each packet held 1 kg, making 50 kg of ganja in total. [@1,2] Police seized
 the car and the ganja, valuing the ganja at about 500,000 rupees and the car at
-about 700,000 rupees for a combined seizure of about 1,200,000 rupees. [@1]
+about 700,000 rupees for a combined seizure of about 1,200,000 rupees. [@1,3]
 
 The raid was guided by Madhavnagar station house officer Shailendra Singh Yadav
 along with senior Katni officers. [@1] The team was led by outpost in-charge
 Rajesh Kumar Dube with seven other named personnel credited for their roles.
 [@1] Police said the absconding accused would be arrested soon. [@1]
-
