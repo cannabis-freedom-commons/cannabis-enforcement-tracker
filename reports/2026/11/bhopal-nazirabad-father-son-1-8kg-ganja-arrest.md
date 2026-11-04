@@ -38,28 +38,37 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: ग्राहक की राह देख रहे थे तस्कर, आ गई भोपाल पुलिस, 1.8 किलो गांजे के साथ पिता-पुत्र गिरफ्तार
+    url: https://www.naidunia.com/madhya-pradesh/bhopal-nazirabad-police-action-against-ganja-smuggling-father-son-arrested-ndps-act-case-8474636
+    publisher: Nai Dunia
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The informer tip is dated 3 November and the arrests are described as happening on Wednesday; 4 November 2026, the publication date, is used as the incident date.
   - The Rs 40,000 figure is the police estimate for the seized ganja.
   - No court outcome was reported; police questioning about the supply network was still under way.
   - Only Dainik Bhaskar's video and text pages for the same story could be opened; no independent second outlet for this event was found.
+  - The new source gives the son's name as Raju Yogi Nath, while the existing report names him as Raju Yogi.
+  - The new source spells the village as Gadhakala (गढ़ाकला), while the report uses Gadakala for the same village.
+  - The Nai Dunia page carries a photo captioned with the headline, but without a credit or description establishing that it shows this seizure, so no media entry is included.
 ---
 
 Nazirabad police in Bhopal arrested a father and son with 1.8 kg of ganja in a
-bag valued at about Rs 40,000. [@1] Both accused were waiting with the ganja in
-Gadakala village for a customer. [@2] Police said an informer told them on 3
+bag valued at about Rs 40,000. [@1,3] Both accused were waiting with the ganja in
+Gadakala village for a customer. [@2,3] Police said an informer told them on 3
 November that two persons were standing in Gadakala village with ganja, waiting
-to sell it to a customer. [@2] Police reached the spot on the tip, cordoned the
+to sell it to a customer. [@2,3] Police reached the spot on the tip, cordoned the
 area and caught both men on Wednesday. [@2] The Nazirabad station in-charge had
 sent a police team to the spot, which raided the stated location and caught both
 suspects. [@2]
 
-A search of the bag in their possession found 1 kg 800 g of ganja. [@2] Police
+A search of the bag in their possession found 1 kg 800 g of ganja. [@2,3] Police
 put the seized ganja's estimated value at about Rs 40,000. [@2]
 
 Police identified the accused as 60-year-old Mangilal Yogi and his son Raju
-Yogi, both residents of Gadakala in the Nazirabad police-station area. [@2]
+Yogi, both residents of Gadakala in the Nazirabad police-station area. [@2,3]
 Police registered a case under the NDPS Act, seized the ganja and arrested both
-accused. [@2] Police said they are questioning the accused about the ganja trade
-and smuggling network. [@2]
+accused. [@2,3] Police said they are questioning the accused about the ganja trade
+and smuggling network. [@2,3]
 
+Two police teams raided the spot immediately on the informer's tip. [@3] The accused tried to flee on seeing the police and were caught after officers cordoned the area. [@3] The operation was conducted under the guidance of Superintendent of Police (Rural) Pankaj Kumar Pandey, Additional Superintendent of Police (Rural) Pramod Kumar Sonkar and SDOP (Berasia) Vaishali Singh Karhaliya as part of a special anti-smuggler campaign. [@3]
