@@ -26,6 +26,11 @@ sources:
     publisher: Media One
     date: 2026-11-04
     language: ml
+  - title: കണ്ണൂർ സെൻട്രൽ ജയിലിൽ വീണ്ടും മൊബൈലും ലഹരിവസ്തുക്കളും പിടികൂടി
+    url: https://thaliparamba.truevisionnews.com/news/390147/kannur-central-prison-mobile-drugs-seized
+    publisher: TrueVision News
+    date: 2026-11-04
+    language: ml
 open_questions:
   - The substance was described only as suspected hashish oil and was sent for scientific examination, so its identity is unconfirmed and no cannabis weight can be recorded.
   - The article gives no separate dates for the two searches beyond the latest check and the previous day’s check; 4 November 2026 is the publication date and is used as the incident date.
@@ -36,15 +41,15 @@ open_questions:
 
 Staff at Kannur Central Jail in Kannur, Kerala, again found a mobile phone and
 intoxicant substances, including a substance suspected to be hashish oil
-recovered from a prisoner. [@1] The prisoner’s behaviour aroused suspicion, and
+recovered from a prisoner. [@1,2] The prisoner’s behaviour aroused suspicion, and
 a search found a bottle concealed in his underwear. [@1] The bottle’s contents
 were collected for scientific examination to confirm whether the substance is
 hashish oil. [@1]
 
 A search of the building in front of Block 6 recovered a SIM card, mobile phone,
-battery and charger. [@1] The latest search recovered a phone with SIM card,
+battery and charger. [@1,2] The latest search recovered a phone with SIM card,
 battery and charger, while the suspected hashish oil was seized from the
-prisoner during the previous day’s search. [@1] Phones have been seized from
+prisoner during the previous day’s search. [@1,2] Phones have been seized from
 different parts of the jail four times this month alone. [@1] Authorities have
 not yet established how the phones and intoxicants reach the jail or who brings
 them inside. [@1]
@@ -52,4 +57,3 @@ them inside. [@1]
 The repeated finds without identifying the route or source have raised concern
 and questions about whether an effective investigation is under way and what
 measures jail authorities are taking. [@1]
-
