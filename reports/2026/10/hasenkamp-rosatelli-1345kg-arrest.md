@@ -29,6 +29,11 @@ sources:
     publisher: Análisis Digital
     date: 2026-11-03
     language: es
+  - title: 'Causa Rosatelli: el prófugo detenido en Hasenkamp habría participado del traslado de la marihuana'
+    url: https://entreriosya.com.ar/causa-rosatelli-el-profugo-detenido-en-hasenkamp-habria-participado-del-traslado-de-la-marihuana/
+    publisher: EntreRíosYA
+    date: 2026-11-03
+    language: es
 open_questions:
   - The outlets brand the seized van differently as Renault Jumper and Citroën Jumper, so the report uses only Jumper van.
   - Rounded figures of more than 1,300 kilos refer to the same 1,345-kilo La Paz seizure, which is the precise figure recorded.
@@ -39,25 +44,27 @@ open_questions:
   - The full identities and procedural status of the five people arrested in August and the five people identified at Doña Inés were not established in the opened sources.
   - Cash was reported only as about two million Argentine pesos plus dollars, Guaraníes and a smaller sum in reais, without exact verified totals, so no value is recorded.
   - The pages carry event-related photos with generic or empty captions and a composite portrait, which do not establish that they show this arrest or seizure, so no media entry is included.
+  - The EntreRíosYA page credits Elonce as its source, so it is not fully independent of the existing Elonce report.
+  - The EntreRíosYA featured image is presented without a caption establishing that it shows the Hasenkamp arrest or seized items, so no media entry is added for this source.
 ---
 
 Police captured the fugitive on Saturday 31 October at a rural establishment in
-Hasenkamp and lodged him in Penal Unit No. 1 in Paraná. [@1] The detained man is
+Hasenkamp and lodged him in Penal Unit No. 1 in Paraná. [@1,3] The detained man is
 Juan Esteban Siebenlist Bustos, who had a standing capture order in the La Paz
 marijuana transport case. [@2] The operation took place at the Doña Inés field
-on National Route 127, where he tried to escape but was quickly subdued. [@2]
+on National Route 127, where he tried to escape but was quickly subdued. [@2,3]
 Investigators identify Siebenlist Bustos as one of the people who coordinated
-transport logistics and escorted the load. [@2] The case had already led to the
+transport logistics and escorted the load. [@2,3] The case had already led to the
 detention of Commissioner Daniel Alejandro Rosatelli in the 19 August raids and
-five more arrests the next week. [@1]
+five more arrests the next week. [@1,3]
 
 The investigation began on 13 February when police pursuing a Jumper van on
-rural roads in La Paz department seized 1,345 kilos of marijuana. [@2] Police
+rural roads in La Paz department seized 1,345 kilos of marijuana. [@2,3] Police
 say the load comprised 1,716 packages of marijuana abandoned in the van near La
 Paz city. [@2] During the Hasenkamp search officers seized about two million
 pesos, foreign currency, six mobile phones, a carbine, 19 calibre .22
 cartridges, vehicle documents and a Toyota Corolla with adulterated chassis and
-engine numbers. [@2] Five other people were identified at the property. [@2] The
+engine numbers. [@2,3] Five other people were identified at the property. [@2] The
 narcotics section of the Dangerous Drugs directorate located him after about 60
 days of investigative work. [@2] The case is before Federal Court No. 1 in
 Paraná under Judge Leandro Ríos. [@2]
@@ -73,4 +80,3 @@ seeks revocation of the processing, detention and embargo or alternative
 measures. [@1] Dangerous Drugs chief Claudio Passadore declined further detail
 because of secrecy, while the federal investigation into responsibilities and
 transport organization continues. [@1]
-
