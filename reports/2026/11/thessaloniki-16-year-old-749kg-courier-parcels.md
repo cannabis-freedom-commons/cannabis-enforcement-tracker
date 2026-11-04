@@ -115,6 +115,11 @@ sources:
     publisher: Lawandorder.gr
     date: 2026-11-04
     language: el
+  - title: Δύο ταχυδρομικά δέματα με 7,4 κιλά skunk (κάνναβη) είχαν παραλήπτη 16χρονο που συνελήφθη
+    url: https://www.thereport.gr/%CE%94%CF%8D%CE%BF-%CF%84%CE%B1%CF%87%CF%85%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC-%CE%B4%CE%AD%CE%BC%CE%B1%CF%84%CE%B1-%CE%BC%CE%B5-74-%CE%BA%CE%B9%CE%BB%CE%AC-skunk-%CE%BA%CE%AC%CE%BD%CE%BD/
+    publisher: TheReport.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -150,20 +155,21 @@ open_questions:
   - The headline rounds the total to 7.5 kg while the body gives 7 kg and 490 grams retained in the existing report.
   - The article gives no separate incident date; 4 November 2026 is its publication date, while the existing report dates the arrest to 3 November 2026 from other accounts.
   - The page image is captioned only as astynomia-4-11 with no credit establishing that it shows this seizure, so no media entry is included.
+  - The page image is a 2018 file named astynomia.jpg with an empty caption and no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19] He is accused of violating drugs and
 foreigners legislation. [@1,3,8,14] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12,13,14,15,16,18] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18]
+[@2,4,5,6,7,8,9,12,13,14,15,16,18,19] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18,19] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18]
+addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18,19] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18,19] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18,19]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
