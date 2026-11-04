@@ -82,6 +82,11 @@ sources:
     publisher: Metrotvnews.com
     date: 2026-11-02
     language: id
+  - title: Polresta Cirebon Sita 10 Kilogram Ganja, Dua Tersangka Ditangkap
+    url: https://fajarcirebon.com/polresta-cirebon-sita-10-kilogram-ganja-dua-tersangka-ditangkap/
+    publisher: Fajar Cirebon
+    date: 2026-11-02
+    language: id
 open_questions:
   - The articles give only the 2 November 2026 press-conference and publication date, with no separate date for the arrests and house search.
   - The reports say officers first secured a buyer, but do not say whether that buyer was arrested or charged, so only AR and AZ are counted as arrested.
@@ -96,20 +101,22 @@ open_questions:
   - The article gives only its 2 November 2026 publication and press-conference date, with no separate date for the buyer detention, house search and arrests.
   - This account reports the threatened penalty as up to 12 years in prison and a Rp2 billion fine under Article 114, supporting one side of the penalty disagreement already noted in the report.
   - The article also reports 16 cases with 22 suspects over 30 days across all drug types; those totals cover other cases and are left out of this event's figures.
+  - This account says one suspect had allegedly been involved in narcotics distribution several times before, while the existing report describes both suspects as suspected long-time players, so the number of repeat suspects is unclear.
+  - This account says other evidence was seized from AZ besides about 1 kilogram gross, but does not specify what that other evidence was.
 ---
 
 Satresnarkoba investigators of Polresta Cirebon seized 10 kilograms of dried
 cannabis and arrested two suspects identified only as AR and AZ in an East
-Cirebon distribution case. [@2,4,5,6,8,9] Officers first detained a buyer in Cirebon Timur
-and used that lead to identify the two suspects. [@1,4,5,8] Police then entered a
+Cirebon distribution case. [@2,4,5,6,8,9,10] Officers first detained a buyer in Cirebon Timur
+and used that lead to identify the two suspects. [@1,4,5,8,10] Police then entered a
 house allegedly used to store and repackage the cannabis and found the suspects
-dividing it into small packages for sale. [@3,4,5,7,9]
+dividing it into small packages for sale. [@3,4,5,7,9,10]
 
 From AR officers recovered nine large packages weighing about 9 kilograms gross
 hidden in traditional woven bamboo baskets, and from AZ another 1 kilogram
-package, making the 10 kilogram gross total. [@3,5,6] Police said the cannabis was
+package, making the 10 kilogram gross total. [@3,5,6,10] Police said the cannabis was
 supplied from a Jakarta network and was intended for sale in the Cirebon area,
-with investigation into the higher supply network continuing. [@1,4,5,6,8,9]
+with investigation into the higher supply network continuing. [@1,4,5,6,8,9,10]
 
 Police estimated that profit from reselling the cannabis could reach nearly
 double the capital spent. [@1] Polresta Cirebon announced the case at a press
@@ -117,6 +124,8 @@ conference on Monday, 2 November 2026. [@2]
 
 AR was charged under Article 114(2) of the Narcotics Law as adjusted by the 2026 Criminal Adjustment Law. [@5,6] AZ was charged under Article 114(1) of the Narcotics Law as adjusted by the 2026 Criminal Adjustment Law, carrying up to 12 years in prison. [@5]
 
-Both suspects worked as casual laborers and allegedly treated cannabis sales as a side job because of the large profit compared with the capital. [@6]
+Both suspects worked as casual laborers and allegedly treated cannabis sales as a side job because of the large profit compared with the capital. [@6,10]
 
 Both suspects were described as suspected long-time players who had only now been brought to justice. [@9]
+
+The case was presented at a press conference in the Aula Pesat Gatra at Polresta Cirebon, with the police account attributed to Imanudin. [@10]
