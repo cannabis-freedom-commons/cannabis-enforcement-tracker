@@ -51,6 +51,10 @@ sources:
     publisher: Daily Thanthi
     date: 2026-11-04
     language: ta
+  - title: Indian Police seize 19.8 kg hashish bound for Sri Lanka, key accused arrested
+    url: https://adaderana.lk/news/251090
+    publisher: Ada Derana
+    date: 2026-11-04
 open_questions:
   - The article says the arrest happened “on Tuesday” and was published on 3 November 2026; no separate incident date is given, so the publication date is used as the incident date.
   - Only one accessible source for this event was found after searching in English.
@@ -85,6 +89,8 @@ open_questions:
   - The article rounds the house recovery to about 18 kg while retaining the 19.8 kg total, differing from the existing 17.8 kg breakdown, so the existing figure is retained.
   - The page's sole image carries only the headline as caption with no credit or depiction details, so no media entry is added.
   - The six additional cases with five arrests and eight to nine kg mentioned in the same intensive-drive paragraph are separate events left out here.
+  - The Ada Derana account gives the house recovery as nearly 18 kg rather than the existing 17.8 kg while retaining the 19.8 kg total, so the existing breakdown is retained.
+  - The Ada Derana page labels its image as a file photo and carries only the headline as caption with no credit, so no media entry is added for this image.
 media:
   - kind: photo
     url: https://www.vikatan.com/crime/198-kg-of-cannabis-gum-seized-for-smuggling-to-sri-lanka
@@ -104,7 +110,7 @@ S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
 Acting on a tip-off, a special team led by Police Inspector David Raviraj went
 to the coastal area near Pasiyamman Temple at Pasipattinam where suspected
 illegal drug activity was taking place. [@1,3,4,5] The team intercepted Mano and
-recovered 2 kg of hashish from his possession. [@1,3,4,5,6,7] Questioning led police to
+recovered 2 kg of hashish from his possession. [@1,3,4,5,6,7,8] Questioning led police to
 his residence, where another 17.8 kg was found, bringing the total seizure to
 19.8 kg of hashish. [@1,3,4,5,6,7]
 
@@ -117,12 +123,12 @@ Pattinam police station following legal protocols. [@1,4]
 
 Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@2,4]
 
-Mano is the son of Anthony Xavier. [@3,6] Police said the hashish had been stocked for smuggling to Sri Lanka. [@3,5,6,7]
+Mano is the son of Anthony Xavier. [@3,6] Police said the hashish had been stocked for smuggling to Sri Lanka. [@3,5,6,7,8]
 
 Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@4] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@4]
 
-Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@5,7] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@5,7] Police said a wider network is involved and further arrests will follow. [@5,6,7] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@5,7] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@5,7]
+Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@5,7,8] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@5,7,8] Police said a wider network is involved and further arrests will follow. [@5,6,7] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@5,7,8] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@5,7,8]
 
 Police valued the 20 kg haul at about Rs 10 crore. [@6] Ramanathapuram district superintendent of police Sandeesh visited the scene to inspect it. [@6]
 
-The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@7]
+The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@7,8]
