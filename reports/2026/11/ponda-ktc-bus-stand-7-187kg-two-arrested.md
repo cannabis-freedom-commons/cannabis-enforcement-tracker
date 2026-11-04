@@ -59,6 +59,10 @@ sources:
     publisher: Punjab Kesari
     date: 2026-11-03
     language: hi
+  - title: Two Bihar natives arrested at Ponda; ganja worth ₹7.18 lakh seized
+    url: https://digitalgoa.com/two-bihar-natives-arrested-at-ponda-ganja-worth-%E2%82%B97-18-lakh-seized/
+    publisher: Digital Goa
+    date: 2026-11-03
 open_questions:
   - The seized material is described as suspected ganja, with no forensic confirmation or court outcome reported beyond arrest and case registration.
   - The Herald Goa page carries an image file named Screenshot-2026-10-30-111336.png dated before the raid whose caption does not establish that it shows this seizure, so no media entry is added.
@@ -75,19 +79,20 @@ open_questions:
   - This source describes Ashish Shirodkar as in-charge DSP and gives only Muzaffarpur and Siwan districts for the accused, while the existing report records SP Ashish Shirodkar and village-level addresses from earlier sources.
   - The village-level addresses, the exact 1.22 am to 4.59 am time window, Crime No. 21/2026, the two panch witnesses and PSI Sanket Naik's role are from earlier sources and are not repeated in this source.
   - The page image is captioned only as featuredImage and does not establish that it shows this seizure, so no media entry is added.
+  - The page image captioned Goa Police Ganja Seizure at Ponda does not establish that it shows this 7.187 kg seizure, so no media entry is added.
 ---
 
 Goa Police's Anti-Narcotic Cell arrested two men from Bihar during a raid at the
-KTC Bus Stand in Ponda. [@1,3,4,5,6,7,8] The men were identified as Rahul Kumar, 28, of
+KTC Bus Stand in Ponda. [@1,3,4,5,6,7,8,9] The men were identified as Rahul Kumar, 28, of
 Ehiapur, Ahiyapur in Muzaffarpur, and Amit Kumar, 31, of Saghar Sultanpur,
-Bhagwanpur Hat in Siwan. [@2,4,5,6,8] The operation took place in the early hours of 3
+Bhagwanpur Hat in Siwan. [@2,4,5,6,8,9] The operation took place in the early hours of 3
 November 2026, between 1.22 am and 4.59 am, near the Sulabh Sauchalaya at the
 bus stand on specific prior information. [@1,3,4,5,6,8]
 
 Officers found Rahul Kumar carrying a black polythene bag containing 7.187 kg of
-suspected ganja concealed inside his blue backpack. [@2,4,5,6,7,8] The search and seizure
+suspected ganja concealed inside his blue backpack. [@2,4,5,6,7,8,9] The search and seizure
 was carried out in the presence of two panch witnesses. [@1] Police valued the
-seized suspected ganja at approximately Rs 7.18 lakh. [@2,5,6,7,8]
+seized suspected ganja at approximately Rs 7.18 lakh. [@2,5,6,7,8,9]
 
 ANC Police Station registered Crime No. 21/2026 under Sections 20(b)(ii)(B) read
 with Section 29 of the NDPS Act, 1985, against both accused. [@1,4,5,6,8] The raid was
