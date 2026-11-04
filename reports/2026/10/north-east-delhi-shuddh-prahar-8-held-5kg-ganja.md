@@ -24,6 +24,11 @@ sources:
     url: https://www.rediff.com/news/report/northeast-delhi-569-arrested-in-festive-season-crackdown/20261031.htm
     publisher: Rediff
     date: 2026-10-31
+  - title: 'தில்லியில் 10 நாள் அதிரடி சோதனை: வடகிழக்கு தில்லியில் 569 போ் கைது'
+    url: https://www.dinamani.com/amp/story/all-editions/edition-new-delhi/newdelhi/2026/Oct/31/10-day-intensive-crackdown-in-delhi-569-people-arrested-in-north-east-delhi
+    publisher: Dinamani
+    date: 2026-10-31
+    language: ta
 open_questions:
   - The operation ran 20 to 29 October 2026; 29 October is used as the incident date while 31 October is the publication date.
   - Figures show only the cannabis-specific 8 arrests and 5.098 kg of ganja; the 569 total and other recoveries are wider-drive context kept out of cannabis figures.
@@ -33,13 +38,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Dinamani: Alongside the ganja, police reported recovering 161 remote radio units valued at around Rs 4 crore, 828.1 kilograms of firecrackers and 221.5 kilograms of adulterated ghee.'
 ---
 
-Officers seized 5.098 kilograms of ganja from those eight people. [@1] The
+Officers seized 5.098 kilograms of ganja from those eight people. [@1,2] The
 cannabis arrests were part of a wider operation named 'shuddh prahar' held from
 20 to 29 October, which police said targeted habitual offenders, bootleggers,
-drug peddlers, gamblers and other anti-social elements. [@1]
+drug peddlers, gamblers and other anti-social elements. [@1,2]
 
 Police said 569 people were arrested in various criminal cases across the 10-day
-drive. [@1] Police also reported 48 Arms Act arrests with one country-made
+drive. [@1,2] Police also reported 48 Arms Act arrests with one country-made
 pistol, one live cartridge and 46 knives recovered, plus 24 Excise Act arrests,
 75 gambling arrests and 46 cheating arrests. [@1]
 
@@ -48,3 +53,4 @@ one factory allegedly making adulterated ghee. [@1] Apart from arrests, police
 said they took preventive action against 6,103 people and seized 266 vehicles
 under the Delhi Police Act to deter crime and maintain public order. [@1]
 
+Eight people were arrested under the Narcotic Drugs and Psychotropic Substances Act. [@2] Police reported recovering 161 remote radio units valued at around Rs 4 crore. [@2] Police reported seizing 828.1 kilograms of firecrackers from those held in the firecracker cases. [@2] Police reported seizing 221.5 kilograms of adulterated ghee with its manufacturing equipment. [@2]
