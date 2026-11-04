@@ -49,6 +49,11 @@ sources:
     publisher: Policja Małopolska
     date: 2026-11-03
     language: pl
+  - title: Ponad 200 gramów marihuany i troje zatrzymanych. Akcja kryminalnych w Bochni
+    url: https://www.informatorbrzeski.pl/ponad-200-gramow-marihuany-i-troje-zatrzymanych-akcja-kryminalnych-w-bochni/
+    publisher: informatorbrzeski.pl
+    date: 2026-11-04
+    language: pl
 open_questions:
   - No exact laboratory weight beyond over 200 grams of marijuana was published.
   - No names of the three detained people were published, only their ages.
@@ -61,19 +66,19 @@ open_questions:
   - The page's only recoverable image is an Open Graph image with no caption establishing it shows this seizure, so no media entry is listed.
 ---
 
-Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3,5,6] All three
-detained people, aged 31, 34 and 36, are residents of the town of Bochnia. [@1,4]
+Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3,5,6,7] All three
+detained people, aged 31, 34 and 36, are residents of the town of Bochnia. [@1,4,7]
 The detentions were made during an operation carried out in the evening hours.
 [@1] Further proceedings in the case are conducted under the supervision of the
-District Prosecutor's Office in Bochnia. [@1,2,3,4,5,6]
+District Prosecutor's Office in Bochnia. [@1,2,3,4,5,6,7]
 
-Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3,4,5,6]
+Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3,4,5,6,7]
 In total, officers seized more than 200 grams of marijuana during the
-verification operation. [@1,2,3,4,5,6] Bochnia officers said they detained three Bochnia
+verification operation. [@1,2,3,4,5,6,7] Bochnia officers said they detained three Bochnia
 residents and secured more than 200 grams of marijuana. [@1]
 
 On Friday 30 October, officers of the criminal division took action to verify
-findings about possible distribution of drugs in Bochnia. [@1,2,3,4,5,6] Officers placed
+findings about possible distribution of drugs in Bochnia. [@1,2,3,4,5,6,7] Officers placed
 the indicated building in Bochnia under observation, and that observation
 confirmed their suspicions about drug distribution. [@1] Criminal officers of
 the Bochnia County Police watched the indicated address and confirmed their
