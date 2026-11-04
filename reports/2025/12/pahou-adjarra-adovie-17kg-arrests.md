@@ -24,6 +24,11 @@ sources:
     publisher: Bénin Web TV
     date: 2025-12-21
     language: fr
+  - title: 'Bénin : Chanvre indien et motos saisis à Pahou (3 arrestations)'
+    url: https://lanouvelletribune.info/2025/12/benin-chanvre-indien-et-motos-saisis-a-pahou-3-arrestations/
+    publisher: La Nouvelle Tribune
+    date: 2025-12-19
+    language: fr
 open_questions:
   - Only one accessible source for this event was found after searching in French and English.
   - The cannabis weight is given only as more than 17 kilograms, so 17 kg is recorded as the stated lower bound.
@@ -34,15 +39,15 @@ open_questions:
 ---
 
 Security forces detained three people during an operation at Adjarra Adovié, a
-locality in the Pahou arrondissement. [@1] The intervention took place on
-Thursday 18 December 2025. [@1] The three detainees were taken to the Pahou
+locality in the Pahou arrondissement. [@1,2] The intervention took place on
+Thursday 18 December 2025. [@1,2] The three detainees were taken to the Pahou
 police station and placed in custody. [@1] They were expected to be brought
 before the competent judicial authorities to answer for the alleged acts. [@1]
 
 Officers seized cannabis, called chanvre indien in the report, packed in several
 packages and pellets. [@1] Police estimated the total weight at more than 17
-kilograms. [@1] Officers also seized three motorcycles and miscellaneous
-equipment including solar panels. [@1] Police sources said the operation
+kilograms. [@1,2] Officers also seized three motorcycles and miscellaneous
+equipment including solar panels. [@1,2] Police sources said the operation
 targeted zones identified as storage and sale points for prohibited products.
 [@1]
 
@@ -50,3 +55,4 @@ The operation was described as part of an intensified campaign by the security
 forces against narcotics trafficking and consumption. [@1] Drug circulation was
 described as a continuing major security and public-health concern. [@1]
 
+Police seized thirty-one packages and one hundred twenty pellets of cannabis. [@2]
