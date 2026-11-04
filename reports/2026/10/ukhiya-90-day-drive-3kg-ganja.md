@@ -23,6 +23,11 @@ sources:
     url: https://www.voice7news.tv/crime/news/35646
     publisher: Voice7 News
     date: 2026-11-02
+  - title: উখিয়ায় তিন মাসের বিশেষ অভিযানে ৬০৪ জন গ্রেপ্তার, ৩ লাখ ৩১ হাজার ইয়াবা উদ্ধার
+    url: https://pkagoj.com/articles/637665
+    publisher: Protidiner Kagoj
+    date: 2026-11-03
+    language: bn
 open_questions:
   - The arrest totals of 604 held, including 61 drug traders, cover all offences and all drugs and cannot be attributed to cannabis, so no arrested figure is recorded.
   - The 331,868 yaba tablets and 118.5 litres of cholai liquor are not cannabis and are excluded from the cannabis figures.
@@ -34,24 +39,25 @@ open_questions:
 ---
 
 Police arrested 604 people in various criminal cases in Ukhiya, Cox's Bazar,
-over the past three months. [@1] Data from Ukhiya Police Station show the
-operations were conducted over 90 days from 1 August to 31 October 2026. [@1] Of
+over the past three months. [@1,2] Data from Ukhiya Police Station show the
+operations were conducted over 90 days from 1 August to 31 October 2026. [@1,2] Of
 the 604 held, 61 were identified as drug traders, 239 were wanted on arrest
-warrants and 189 were accused in regular criminal cases. [@1] A further 32
-people received sentences of varying terms through mobile courts. [@1] Among
-those arrested were 67 members of teenage gangs. [@1]
+warrants and 189 were accused in regular criminal cases. [@1,2] A further 32
+people received sentences of varying terms through mobile courts. [@1,2] Among
+those arrested were 67 members of teenage gangs. [@1,2]
 
 Only the 3 kg of ganja is counted as cannabis here, while the yaba tablets and
-liquor are excluded from the cannabis figures. [@1] Officers also seized four
+liquor are excluded from the cannabis figures. [@1,2] Officers also seized four
 battery-powered three-wheelers, one CNG-run auto-rickshaw and three mobile
 phones allegedly used in drug transportation. [@1] The recovered weapons
 included one pistol, one locally made one-shooter gun, one single-barrel
-firearm, one magazine, five rounds of ammunition and a dagger. [@1] In
+firearm, one magazine, five rounds of ammunition and a dagger. [@1,2] In
 anti-smuggling operations police seized 54 sacks of fertiliser and 2,000
 injections, alongside impounding 17 motorcycles during various operations. [@1]
 
 Ukhiya Police Station Officer-in-Charge Atikur Rahman provided the information
 about the operations. [@1] Police statistics also show that 263 General Register
 cases were filed at Ukhiya Police Station during the 90-day period, of which 257
-were disposed of. [@1]
+were disposed of. [@1,2]
 
+Police said 2 people were arrested under section 54 and 12 under section 151 of the Code of Criminal Procedure and 2 under section 290 of the Penal Code. [@2]
