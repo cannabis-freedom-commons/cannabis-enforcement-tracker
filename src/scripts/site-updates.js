@@ -1,10 +1,31 @@
 // On every page: marks the reports in its lists that are new to the reader (unread-state.js), counts
-// them in the header (a link to just those reports), and checks once a minute while the page is
-// visible whether a newer build of the site is deployed (/version.json), offering to reload it.
+// them in the header (a link to just those reports), and checks on load and then once a minute while
+// the page is visible whether a newer build of the site is deployed (/version.json), offering to
+// reload it. GitHub Pages lets browsers and its CDN keep pages for ten minutes, so once a newer build
+// is known every move to another page of the site (Refresh included) carries it as ?_v=, an address
+// no cache has; the page that opens drops it from the address again.
 import { isNew, since, onUnreadChange, stillHere } from "./unread-state.js";
+import { versioned } from "./build-id.js";
 
 const meta = (name) => document.querySelector(`meta[name="${name}"]`)?.getAttribute("content") ?? "";
 const base = meta("cet-base") || "/", BUILD = meta("cet-build"), REPORTS = Number(meta("cet-reports")) || 0;
+// the cache-passing query a previous page added: not part of the page's address
+const here = new URL(location.href);
+if (here.searchParams.has("_v")) { here.searchParams.delete("_v"); history.replaceState(history.state, "", here.pathname + here.search + here.hash); }
+let newer = ""; // a newer build's id, once one is deployed
+const fresh = (href) => { const u = new URL(href, location.href); u.searchParams.set("_v", newer); return u.href; };
+// links to the site's own pages: past the caches once a newer build is out
+const passCache = (e) => {
+  if (!newer) return;
+  const a = e.target.closest?.("a[href]");
+  if (!a || a.target === "_blank" || a.hasAttribute("download")) return;
+  const u = new URL(a.href, location.href);
+  if (u.origin !== location.origin || !u.pathname.startsWith(base) || /\.(json|xml|svg|png|jpe?g|webp|pdf)$/i.test(u.pathname)) return;
+  if (u.pathname === location.pathname && u.search === location.search && u.hash) return; // a jump within the page
+  a.href = fresh(a.href);
+};
+document.addEventListener("click", passCache, true);
+document.addEventListener("auxclick", passCache, true);
 const plural = (n, word) => `${n.toLocaleString("en-GB")} ${word}${n === 1 ? "" : "s"}`;
 
 // the reports in lists: a "New" mark on those the reader has not seen
@@ -25,9 +46,9 @@ mark();
 // the header's count of new reports, from the list of recent additions
 const badge = document.getElementById("new-reports");
 let recent = null;
-async function loadRecent(fresh = false) {
+async function loadRecent(fresh = false) { // fresh: the deployed build's, past any cache
   try {
-    const r = await fetch(`${base}api/recent.json${fresh ? `?t=${Date.now()}` : ""}`, fresh ? { cache: "no-store" } : {});
+    const r = await fetch(fresh ? `${base}api/recent.json?t=${Date.now()}` : versioned(`${base}api/recent.json`), fresh ? { cache: "no-store" } : {});
     if (r.ok) recent = await r.json();
   } catch { /* offline: no count */ }
   count();
@@ -50,7 +71,7 @@ const DISMISSED = "cet:update-dismissed";
 let note = null, offered = "";
 function offer(v) {
   if (v.id === offered) return;
-  offered = v.id;
+  offered = newer = v.id;
   try { if (sessionStorage.getItem(DISMISSED) === v.id) return; } catch { /* no storage */ }
   const added = Math.max(0, (v.reports ?? 0) - REPORTS);
   note?.remove();
@@ -59,7 +80,7 @@ function offer(v) {
   note.setAttribute("role", "status");
   note.innerHTML = `<span class="update-dot" aria-hidden="true"></span><span class="update-text"><b>The tracker has been updated</b><span></span></span><button type="button" class="update-reload">Refresh</button><button type="button" class="update-close" aria-label="Not now" title="Not now">×</button>`;
   note.querySelector(".update-text span").textContent = added ? ` · ${plural(added, "new report")}` : "";
-  note.querySelector(".update-reload").addEventListener("click", () => location.reload());
+  note.querySelector(".update-reload").addEventListener("click", () => location.replace(fresh(location.href)));
   note.querySelector(".update-close").addEventListener("click", () => {
     try { sessionStorage.setItem(DISMISSED, v.id); } catch { /* no storage */ }
     note.remove(); note = null;
@@ -83,7 +104,8 @@ async function check() {
   timer = window.setTimeout(check, EVERY);
 }
 if (BUILD && !import.meta.env.DEV) {
-  timer = window.setTimeout(check, EVERY);
+  // at once too: a page the browser kept from before a deploy finds out now, not in a minute
+  timer = window.setTimeout(check, 1500);
   document.addEventListener("visibilitychange", () => {
     if (document.hidden) clearTimeout(timer);
     else if (Date.now() - lastCheck > EVERY / 2) check();

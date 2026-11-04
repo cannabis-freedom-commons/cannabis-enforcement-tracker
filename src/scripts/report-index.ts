@@ -4,9 +4,11 @@ export type Row = { i: string; d: string; at?: string; c: string; t: string; a: 
   n?: Record<string, number | string>; st?: string };
 export type Index = { v: number; countries: Record<string, string>; reports: Row[] };
 
+import { versioned } from "./build-id.js";
+
 let pending: Promise<Index> | null = null;
 export function loadIndex(base: string): Promise<Index> {
-  pending ??= fetch(`${base}api/index.json`).then((r) => r.json());
+  pending ??= fetch(versioned(`${base}api/index.json`)).then((r) => r.json());
   return pending;
 }
 
