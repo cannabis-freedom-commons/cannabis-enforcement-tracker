@@ -42,37 +42,43 @@ sources:
     publisher: Cumhuriyet
     date: 2026-11-04
     language: tr
+  - title: Gümrüklerde dev uyuşturucu operasyonu! 459 kilo uyuşturucu ele geçirildi
+    url: https://turkinform.com.tr/gumruklerde-dev-uyusturucu-operasyonu-459-kilo-uyusturucu-ele-gecirildi
+    publisher: Türkinform
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement and publication date used as the incident date.
   - The combined 459 kg 599 g total and the cocaine and heroin weights are mentioned only to explain the mixed case and are excluded from cannabis figures; the cannabis-only figure is 325.941 kg.
   - No arrest, detention or court-outcome figure was published, including for the three Istanbul Airport passengers or any vehicle occupants; investigations were described as continuing.
   - Only one accessible source for this event was found, so no second account confirms the figures.
   - The page photos are captioned only with the article headline and the other images are site promotions, so no photo is established to show this seizure and no media entry is included.
+  - The Türkinform images are captioned only with the headline, so none is established to show this seizure and no media entry is included.
 ---
 
 Türkiye's Trade Ministry Customs Enforcement teams carried out four separate
 operations at the Kapıkule, Hamzabeyli and İpsala customs gates in Edirne and at
-Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2,3,4,5] The ministry's
+Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2,3,4,5,6] The ministry's
 4 November 2026 statement put the breakdown at 118 kg 658 g of cocaine, 325 kg
 941 g of esrar, the Turkish term for cannabis recorded here as cannabis, and 15
 kg of heroin. [@1,4] Judicial investigations into the four operations were being
 conducted by the Edirne, Gaziosmanpaşa and İpsala chief public prosecutor's
-offices. [@1,3,4]
+offices. [@1,3,4,6]
 
 At Kapıkule, officers judged a vehicle entering the customs area suspicious
 after risk analysis and sent it for X-ray screening, where they found suspicious
-density in its fuel tank. [@1,2,5] A detailed search there recovered 109 packages
+density in its fuel tank. [@1,2,5,6] A detailed search there recovered 109 packages
 holding 118 kg 658 g of cocaine and 32 packages holding 25 kg 744 g of esrar.
-[@1,2,3,4] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
-assessment. [@1,2] Officers searched its fuel tank with narcotics detector dogs
+[@1,2,3,4,6] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
+assessment. [@1,2,6] Officers searched its fuel tank with narcotics detector dogs
 YAPPA and ATLAS after suspicious density was found, and after the dogs reacted
-they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4] At İpsala,
+they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6] At İpsala,
 a truck entering Türkiye was sent for X-ray screening after risk-analysis work.
-[@1,2] After checks with narcotics detector dog İDA, a detailed examination of the
-suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4]
+[@1,2,6] After checks with narcotics detector dog İDA, a detailed examination of the
+suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6]
 
 At Istanbul Airport, officers checked the luggage of three incoming passengers
-identified through risk analysis. [@1,2,3,4] The examination there found a total of 15
-kg of heroin-type drugs. [@1,2,3,4] The statement stressed that Customs Enforcement
+identified through risk analysis. [@1,2,3,4,6] The examination there found a total of 15
+kg of heroin-type drugs. [@1,2,3,4,6] The statement stressed that Customs Enforcement
 teams continue the fight against smuggling using advanced systems, risk-analysis
 work and specialist staff. [@1]
