@@ -497,8 +497,9 @@ HARVEST_GOOGLE_NEWS_QUERIES=[IN:hi] (गांजा OR चरस) (जब्त
 LOG_LEVEL=debug
 ```
 
-The built-in set (`DefaultGoogleNewsQueries` in `backend/internal/harvest/google_news.go`) has
-50 queries. It searches India in English, Hindi, Bengali, Marathi, Tamil, Telugu, Malayalam,
+The built-in set (`DefaultGoogleNewsQueries` in `backend/internal/harvest/google_news_queries.go`) has
+243 queries: 63 language/edition searches and 180 searches naming individual countries or territories.
+It searches India in English, Hindi, Bengali, Marathi, Tamil, Telugu, Malayalam,
 Gujarati and Punjabi; Bangladesh in Bengali; Pakistan in English; Kenya, Nigeria and southern
 Africa in English, including regional terms such as bhang, dagga, mbanje and matekoane; Morocco
 and France in French; Arabic in the Lebanese, Egyptian and Saudi editions; and Israel in Hebrew.
@@ -506,28 +507,43 @@ Asian editions include Indonesia, the Philippines, Thailand, Singapore, Malaysia
 mainland China, Hong Kong, Taiwan, Japan and South Korea. European/American editions include
 Czech, German, Italian, Dutch, Polish, Romanian, Greek, Ukrainian, Swedish, Spanish, Russian,
 Turkish, Brazilian Portuguese and Latin American Spanish, alongside US English and the Pacific.
+Additional editions cover European Portuguese, Bulgarian, Slovak, Hungarian, Serbian, Slovenian,
+Norwegian, Finnish, Lithuanian and Latvian. Dedicated searches cover smaller African countries,
+Central Asia and the Caucasus, the Balkans and European microstates, Central America and the
+Caribbean, and Pacific island states and territories. Each place gets its own query rather than
+sharing a result window with a whole region. Regions and language searches are interleaved so
+coverage starts across regions on the first scan, including after a restart.
 
 Queries pair cannabis names, resin/oil forms, local synonyms and common inflections with seizure,
 arrest, raid, cultivation/eradication, prosecution, conviction and punishment terms where practical.
 Execution and death terms supplement seizure terms in English and relevant Asian/Arabic queries.
+Vocabulary includes ganja, hemp, chamba, bangi, liamba/diamba, suruma, rongony, zamal and анаша,
+plus hash oil, THC oils, edibles, gummies, vapes/cartridges, cannabis concentrates and CBD flower.
+An additional English slang query pairs weed, pot and sinsemilla/sensimilla with both an authority
+or court term and an enforcement action. Regional names are curated from the CFI language atlas
+and glossary; its broader recognition vocabulary is not copied wholesale into discovery queries.
 No synthetic-cannabinoid terms are added as cannabis synonyms. Mixed articles still require AI
 research to establish a separately supported cannabis enforcement component; whole-article negative
 keywords would also hide qualifying mixed events.
 
 Edition support is checked through live RSS responses, not inferred from a language code. Gujarati
-and Punjabi use Google's `gu-IN`/`pa-IN` UI locales. Kannada and Urdu probes redirected to Hindi and
-English respectively, so no native-language edition is assumed for them. Nepal, Sri Lanka, Bhutan
-and Pakistan have explicit English searches (plus best-effort Nepali terms in the Hindi edition).
+and Punjabi use Google's `gu-IN`/`pa-IN` UI locales; European Portuguese uses `pt-PT` with `PT:pt-150`.
+Kannada and Urdu probes redirected to Hindi and English respectively; Danish and Croatian probes
+redirected to Norwegian and US English. No native-language editions are assumed for these languages.
+Nepal, Sri Lanka, Bhutan and Pakistan have explicit English searches (plus best-effort Nepali
+terms in the Hindi edition).
 A further English query names Iran, Afghanistan, North Korea, Myanmar and Cambodia rather than
 assuming working Persian, Pashto, Burmese, Khmer or North Korean editions. Regional editions are
 search locales, not strict event-country filters, and do not guarantee coverage of every country.
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
-second apart. With 50 default queries and 12 per scan, five scans visit the whole set, roughly
-25 minutes plus scan time (under an hour at the default interval and five-minute scan deadline),
-inside the one-day lookback. The larger set does not increase the per-scan request or admission
-budgets. New candidates are taken round-robin across that scan's queries, so a busy edition cannot
-use up the per-scan budget of 1–100 new URLs (default 25). At most 50 configured queries, each at
+second apart. With 243 default queries and 12 per scan, 21 scans visit the whole set, roughly
+105 minutes plus scan time (at most 3.5 hours at the default interval and five-minute scan deadline).
+Language/edition searches retain the one-day lookback; country-targeted searches use seven days
+to accommodate sparse reporting and delayed indexing. Both exceed the default full-rotation time.
+The larger set does not increase the per-scan request or admission budgets. New candidates are
+taken round-robin across that scan's queries, so a busy edition cannot
+use up the per-scan budget of 1–100 new URLs (default 25). At most 250 configured queries, each at
 most 1000 characters. Custom queries replace the built-in set. This is candidate discovery, not
 exhaustive worldwide coverage or a relevance verdict: AI research decides from opened articles
 which ones become reports. Each queued candidate records its edition and query in its provenance.

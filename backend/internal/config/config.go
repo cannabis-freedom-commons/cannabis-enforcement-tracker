@@ -2,6 +2,7 @@ package config
 
 import (
 	"errors"
+	"fmt"
 	"net/netip"
 	"net/url"
 	"os"
@@ -81,8 +82,8 @@ func Load() (Config, error) {
 			c.GoogleNewsQueries = append(c.GoogleNewsQueries, query)
 		}
 	}
-	if len(c.GoogleNewsQueries) > 50 {
-		return c, errors.New("at most 50 Google News queries")
+	if len(c.GoogleNewsQueries) > harvest.MaxGoogleNewsQueries {
+		return c, fmt.Errorf("at most %d Google News queries", harvest.MaxGoogleNewsQueries)
 	}
 	c.BingNewsEnabled, discoveryErr = strconv.ParseBool(env("HARVEST_BING_NEWS_ENABLED", "true"))
 	if discoveryErr != nil {

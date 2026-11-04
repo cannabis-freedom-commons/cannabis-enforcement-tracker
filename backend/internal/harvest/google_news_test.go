@@ -154,6 +154,9 @@ func TestGoogleNewsQueryEditions(t *testing.T) {
 	if p := (GoogleNewsQuery{"KE:en", "bhang"}).params(); p.Get("hl") != "en-KE" {
 		t.Fatal(p)
 	}
+	if p := (GoogleNewsQuery{"PT:pt-150", "liamba"}).params(); p.Get("hl") != "pt-PT" || p.Get("ceid") != "PT:pt-150" {
+		t.Fatal(p)
+	}
 	if q, err = ParseGoogleNewsQuery("cannabis when:1d"); err != nil || q.Edition != "US:en" {
 		t.Fatal(q, err)
 	}
@@ -162,15 +165,60 @@ func TestGoogleNewsQueryEditions(t *testing.T) {
 			t.Fatal("invalid query accepted", bad)
 		}
 	}
-	if len(DefaultGoogleNewsQueries) > 50 {
+	if len(DefaultGoogleNewsQueries) > MaxGoogleNewsQueries {
 		t.Fatal("default set exceeds configured query limit")
 	}
 	editions := map[GoogleNewsQuery]bool{}
 	for _, q := range DefaultGoogleNewsQueries {
-		if !googleEdition.MatchString(q.Edition) || !strings.Contains(q.Query, "when:1d") || len(q.Query) > 1000 || editions[q] {
+		if !googleEdition.MatchString(q.Edition) || !(strings.HasSuffix(q.Query, "when:1d") || strings.HasSuffix(q.Query, "when:7d")) || len(q.Query) > 1000 || editions[q] {
 			t.Fatal("invalid default query", q)
 		}
 		editions[q] = true
+	}
+}
+
+func TestGoogleDefaultsReachSparseCountriesAndRegionalNames(t *testing.T) {
+	for _, want := range []struct{ edition, place, term string }{
+		{"ZA:en", "Malawi", "chamba"},
+		{"KE:en", "Tanzania", "bangi"},
+		{"FR:fr", "Madagascar", "rongony"},
+		{"FR:fr", "La Réunion", "zamal"},
+		{"PT:pt-150", "Angola", "liamba"},
+		{"SA:ar", "البحرين", "الحشيش"},
+		{"IN:en", "Maldives", "ganja"},
+		{"SG:en", "Laos", "marijuana"},
+		{"RU:ru", "Узбекистан", "анаша"},
+		{"GB:en", "Albania", "cannabis"},
+		{"MX:es-419", "Uruguay", "marihuana"},
+		{"US:en", "Belize", "ganja"},
+		{"AU:en", "Tuvalu", "marijuana"},
+	} {
+		t.Run(want.place, func(t *testing.T) {
+			for _, q := range DefaultGoogleNewsQueries {
+				if q.Edition == want.edition && strings.Contains(q.Query, want.place) && strings.Contains(q.Query, want.term) && strings.HasSuffix(q.Query, "when:7d") {
+					return
+				}
+			}
+			t.Fatal("missing country-targeted, seven-day query", want)
+		})
+	}
+	for _, term := range []string{"weed", "hemp", "THC gummies", "hash oil", "CBD flower"} {
+		found := false
+		for _, q := range DefaultGoogleNewsQueries {
+			found = found || strings.Contains(q.Query, term)
+		}
+		if !found {
+			t.Fatal("missing cannabis vocabulary", term)
+		}
+	}
+	// Geographic reach should start on the first scan, including after a restart.
+	first := (GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 12}).batch(0)
+	editions := map[string]bool{}
+	for _, q := range first {
+		editions[q.Edition] = true
+	}
+	if len(editions) < 8 {
+		t.Fatal("first scan is dominated by too few editions", editions)
 	}
 }
 func TestGoogleScanSharesBudgetAcrossEditions(t *testing.T) {
@@ -237,7 +285,7 @@ func TestGoogleNewsLiveFeeds(t *testing.T) {
 	if os.Getenv("GOOGLE_NEWS_LIVE") != "1" {
 		t.Skip("set GOOGLE_NEWS_LIVE=1 to check public RSS editions")
 	}
-	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Minute)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
 	defer cancel()
 	g := GoogleNews{}
 	paced := false
@@ -298,7 +346,8 @@ func TestGoogleDefaultRotationCoversAllQueries(t *testing.T) {
 	if len(seen) != len(g.Queries) {
 		t.Fatal("rotation omitted queries", len(seen), len(g.Queries))
 	}
-	if time.Duration(scans)*(15*time.Minute+5*time.Minute) >= 24*time.Hour {
+	if time.Duration(scans)*(5*time.Minute+5*time.Minute) >= 24*time.Hour {
 		t.Fatal("default rotation exceeds query lookback")
 	}
+	t.Logf("%d queries rotate in %d scans (at most %s at defaults)", len(g.Queries), scans, time.Duration(scans)*10*time.Minute)
 }

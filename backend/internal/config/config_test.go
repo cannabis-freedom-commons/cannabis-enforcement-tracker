@@ -95,6 +95,26 @@ func TestGoogleNewsConfiguration(t *testing.T) {
 	}
 }
 
+func TestGoogleNewsExpandedQueryLimit(t *testing.T) {
+	for _, count := range []int{50, harvest.MaxGoogleNewsQueries, harvest.MaxGoogleNewsQueries + 1} {
+		defaults(t)
+		t.Setenv("HARVEST_GOOGLE_NEWS_QUERIES", strings.Repeat("cannabis seized|", count))
+		c, err := Load()
+		if count <= harvest.MaxGoogleNewsQueries {
+			if err != nil || len(c.GoogleNewsQueries) != count {
+				t.Fatal("expanded rotation rejected", count, len(c.GoogleNewsQueries), err)
+			}
+		} else if err == nil {
+			t.Fatal("unbounded query rotation accepted", count)
+		}
+	}
+	defaults(t)
+	t.Setenv("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "51")
+	if _, err := Load(); err == nil {
+		t.Fatal("expanded rotation must retain the per-scan workload limit")
+	}
+}
+
 func TestJobLogRetention(t *testing.T) {
 	for _, value := range []struct {
 		raw   string
