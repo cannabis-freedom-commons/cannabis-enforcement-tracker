@@ -212,6 +212,11 @@ sources:
     publisher: 壹電視
     date: 2026-11-04
     language: zh
+  - title: Toyz假釋離監進度曝光！網紅證實已拿到公文　拍片揭監獄最後等待期：心情極度焦躁
+    url: https://www.mnews.tw/story/amp/mm-20261102edi006
+    publisher: 鏡新聞
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -258,6 +263,10 @@ open_questions:
   - The deportation day is given only as 3日; 3 November 2026 comes from the page's 4 November 2026 publication date.
   - No new media entry is added because the page's main image repeats the headline without credit or operation detail, so whether it shows this deportation escort could not be established.
   - The page's like and comment counts for the post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - The submitted page was published on 2 November 2026 and describes parole approval as awaiting administrative procedures, while the existing report dates the actual parole release and deportation to 3 November 2026.
+  - The submitted page describes pickup by the immigration task force and forced deportation to Hong Kong as highly likely rather than completed.
+  - The submitted page states Taiwan residence expiry only as possible.
+  - No media entry is added because the page's single image is an Instagram screenshot captioned about the waiting stage without credit establishing it shows the enforcement operation.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -265,13 +274,13 @@ and deported from Taiwan on 3 November 2026 after serving part of a
 cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
 supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6,33]
@@ -285,4 +294,6 @@ Liu had previously come to Taiwan for business purposes. [@27]
 
 Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33]
 
-Liu had held a work visa to reside in Taiwan, but that residence qualification had already lapsed. [@34]
+Liu had held a work visa to reside in Taiwan, but that residence qualification had already lapsed. [@34,35]
+
+On 1 November, influencer Gino Jingyou (Zhuang Kaibo) posted a video confirming Toyz had received the parole-approval document and was awaiting completion of administrative procedures before he could leave prison. [@35] Toyz still had to wait for the court to issue the release order and complete other statutory procedures before he could leave prison. [@35] The wait between learning of parole approval and actual release was described as agonizing because release could come that day, the next day or days later. [@35]
