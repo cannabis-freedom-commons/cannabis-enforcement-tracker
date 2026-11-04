@@ -38,6 +38,11 @@ sources:
     publisher: Gazeta.uz
     date: 2026-09-25
     language: ru
+  - title: В Ташкентской области изъяли около 95 кг гашиша
+    url: https://www.uzdaily.uz/ru/v-tashkentskoi-oblasti-iziali-okolo-95-kg-gashisha/
+    publisher: UzDaily.uz
+    date: 2026-09-25
+    language: ru
 media:
   - kind: photo
     url: https://www.gazeta.uz/oz/2026/09/25/drugs/
@@ -53,12 +58,15 @@ open_questions:
   - The English account reprints the Gazeta report rather than reporting independently.
   - The weight is given only as nearly 95 kg and the exact interception date within the eight-day watch is not stated; 25 September is the publication date.
   - The detained people were not named and no court outcome is reported.
+  - The UzDaily account attributes the Customs Committee statement to Gazeta rather than reporting it independently.
+  - UzDaily describes the stakeout as more than a week while the report uses eight days from Gazeta; no separate interception date is given.
+  - The UzDaily page carries a Customs Committee press-service photo of the seizure whose distinctness from the Gazeta handout already in the report is not established, so no new media entry is added.
 ---
 
-Officers of the Customs Committee's anti-smuggling department, working with State Security Service officers, found nearly 95 kg of hashish in Qibray district of Tashkent region, committee press secretary Husan Tangriyev told Gazeta. [@1,2,3]
+Officers of the Customs Committee's anti-smuggling department, working with State Security Service officers, found nearly 95 kg of hashish in Qibray district of Tashkent region, committee press secretary Husan Tangriyev told Gazeta. [@1,2,3,4]
 
-Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2,3] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1]
+Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2,3,4] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1,4]
 
-Eight days later, two people who arrived to collect the narcotics were identified and detained. [@1,2] During the investigation, the person who had ordered the drugs hidden there and later collected was also identified and detained; he had previously faced a criminal case opened by the Customs Committee over petrol smuggling. [@1]
+Eight days later, two people who arrived to collect the narcotics were identified and detained. [@1,2,4] During the investigation, the person who had ordered the drugs hidden there and later collected was also identified and detained; he had previously faced a criminal case opened by the Customs Committee over petrol smuggling. [@1,4]
 
-A criminal case was opened over the large consignment. [@1,2,3] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2,3]
+A criminal case was opened over the large consignment. [@1,2,3,4] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2,3,4]
