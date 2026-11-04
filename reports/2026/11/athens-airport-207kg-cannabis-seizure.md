@@ -59,6 +59,11 @@ sources:
     publisher: toManifesto.gr
     date: 2026-11-04
     language: el
+  - title: '«Ελευθέριος Βενιζέλος»: Εντοπίστηκαν 207 κιλά κάνναβης σε φορτίο με δηλωμένα ρούχα - Αξία σχεδόν 1 εκατ. ευρώ'
+    url: https://cretaone.gr/eleytherios-venizelos-entopistikan-207-kila-kannavis-se-fortio-me-dilomena-roycha-axia-schedon-1-ekat-eyro/
+    publisher: cretaone.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -75,6 +80,7 @@ open_questions:
   - The page image is captioned only ΕΛ.ΑΣ. with no description establishing that it shows this consignment, so no media entry is added.
   - The new account gives no separate date for the seizure; 4 November 2026 is its publication date, while the existing report dates the seizure to August 2026 on other sources.
   - The page image is captioned only with a file-name caption and no credit establishing that it shows this seizure, so no media entry is included.
+  - The page's listed images carry only generic captions and credits and are not established as showing this consignment, so no media entry is included.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -91,22 +97,22 @@ media:
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
 smuggling-prosecution department of the customs office at Athens International
 Airport 'Eleftherios Venizelos', located and seized a large quantity of raw
-cannabis at the airport. [@1,4,5,7,8] According to the Hellenic Police, abbreviated in
+cannabis at the airport. [@1,4,5,7,8,9] According to the Hellenic Police, abbreviated in
 the account as EL.AS, the officers acted after making use of information they
 had received. [@1,8] No arrested people, suspects or charges are named in the
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2,3,4,5,6,7] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3,4,5,6,7,9] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8]
+that cannabis. [@1,3,4,5,6,7,8,9]
 
 Investigators traced the route of the pallets, which had apparently started by
-air from Thailand. [@1,2,3,4,5,6,7,8] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2,3,4,5,6,7,8] Police estimated that the expected financial gain
+air from Thailand. [@1,2,3,4,5,6,7,8,9] The accompanying documents for the shipment had declared
+the cargo as clothing. [@1,2,3,4,5,6,7,8,9] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8] The investigation was continuing so that the case could be fully examined.
-[@1,4,5,6,7,8]
+[@1,2,3,4,5,6,7,8,9] The investigation was continuing so that the case could be fully examined.
+[@1,4,5,6,7,8,9]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
 
