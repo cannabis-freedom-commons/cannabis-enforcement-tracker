@@ -40,6 +40,10 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-03
     language: ml
+  - title: Police chase down three youths with hashish oil in Wayanad
+    url: https://www.onmanorama.com/news/kerala/2026/11/02/police-chase-down-three-youths-with-hashish-oil-in-wayanad.html
+    publisher: Onmanorama
+    date: 2026-11-02
 open_questions:
   - The article gives no separate date for the patrol; 2 November 2026 is its publication date and is used as the incident date.
   - Only one opened source supports this event; searches for a second report of the same Lakkidi seizure found none.
@@ -48,19 +52,19 @@ open_questions:
 ---
 
 Vythiri police arrested three youths from Kozhikode during a routine patrol at
-Lakkidi, within the limits of Vythiri police station. [@1,3] According to a police
+Lakkidi, within the limits of Vythiri police station. [@1,3,4] According to a police
 communique, the arrested men were identified as Abdul Hadi Riyas (25) of
 Chalamkott Malayil House, Kakkoor, K K Nihal (25) of Arayanna House, and Goutham
-Dinesh (24) of Madhavam House. [@1] Nihal and Dinesh are natives of Nanmanda in
-Kozhikode district. [@1] A police patrol team spotted the three youths standing
+Dinesh (24) of Madhavam House. [@1,4] Nihal and Dinesh are natives of Nanmanda in
+Kozhikode district. [@1,4] A police patrol team spotted the three youths standing
 near a vehicle at Lakkidi, and on noticing the officers approaching they
 allegedly attempted to flee in the vehicle. [@1] Police chased and intercepted
 the vehicle before taking the occupants into custody. [@1]
 
 The patrol and subsequent action were led by Vythiri Station House Officer K K
-Sobin. [@1,2] During a subsequent search, police recovered 2.95 grams of hashish
+Sobin. [@1,2,4] During a subsequent search, police recovered 2.95 grams of hashish
 oil allegedly stored in a small plastic bottle in Abdul Hadi Riyas's pocket.
-[@1,2,3]
+[@1,2,3,4]
 
 Speaking to Onmanorama, SHO Sobin said the three were later released on station
-bail as the quantity of the contraband seized was small. [@1]
+bail as the quantity of the contraband seized was small. [@1,4]
