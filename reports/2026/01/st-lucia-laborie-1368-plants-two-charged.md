@@ -33,16 +33,21 @@ sources:
     url: https://blacknews.uk/police-crackdown-sparks-fresh-calls-for-decriminalisation-of-cannabis
     publisher: Black News
     date: 2026-01-15
+  - title: Over 1,300 cannabis plants destroyed as two Laborie men charged
+    url: https://stluciatimes.com/177076/2026/01/over-1300-cannabis-plants-destroyed-as-two-laborie-men-charged/
+    publisher: St. Lucia Times
+    date: 2026-01-13
 open_questions:
   - No area in hectares for the six plantations was published.
   - The Black News page is a reprint of a St. Lucia Times article; the original page was not opened.
+  - The page's only article image is identified as a police stock image, with no photo showing this search or destruction, so no media entry is included.
 ---
 
-Officers of the Royal Saint Lucia Police Force searched a home in Black Bay, Laborie, on 10 January 2026 and seized 23.2 pounds (about 10.5 kg) of suspected cannabis. [@1] They also recovered EC$765 in cash, which police described as suspected proceeds of drug activity, and put the street value of the drugs at EC$10,440. [@1]
+Officers of the Royal Saint Lucia Police Force searched a home in Black Bay, Laborie, on 10 January 2026 and seized 23.2 pounds (about 10.5 kg) of suspected cannabis. [@1,3] They also recovered EC$765 in cash, which police described as suspected proceeds of drug activity, and put the street value of the drugs at EC$10,440. [@1,3]
 
-Officers then found six cannabis plantations in the surrounding area and seized and destroyed 1,368 plants. [@1] The searches were part of three targeted operations across Soufriere, Choiseul and Laborie by the Gangs, Narcotics and Firearms Unit together with the Tactical Response Unit and the Special Services Unit. [@1]
+Officers then found six cannabis plantations in the surrounding area and seized and destroyed 1,368 plants. [@1,3] The searches were part of three targeted operations across Soufriere, Choiseul and Laborie by the Gangs, Narcotics and Firearms Unit together with the Tactical Response Unit and the Special Services Unit. [@1,3]
 
-Leroy Willie was arrested and charged with possession of a controlled drug, possession with intent to supply and cultivation. [@1] Glenroy Willie, 44, of the same household was arrested on 11 January after further investigation and faces similar charges. [@1] Both men were due before a magistrate on 13 January. [@1]
+Leroy Willie was arrested and charged with possession of a controlled drug, possession with intent to supply and cultivation. [@1,3] Glenroy Willie, 44, of the same household was arrested on 11 January after further investigation and faces similar charges. [@1,3] Both men were due before a magistrate on 13 January. [@1,3]
 
 ## Reaction
 
