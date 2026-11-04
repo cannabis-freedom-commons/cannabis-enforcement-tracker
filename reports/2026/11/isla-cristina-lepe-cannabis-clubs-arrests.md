@@ -50,29 +50,35 @@ sources:
     publisher: Huelva Hoy
     date: 2026-11-03
     language: es
+  - title: La Guardia Civil detiene a 13 personas y desmantela cuatro puntos de venta de droga en Isla Cristina y Lepe - Canalcosta Televisión
+    url: https://canalcostatv.es/la-guardia-civil-detiene-a-13-personas-y-desmantela-cuatro-puntos-de-venta-de-droga-en-isla-cristina-y-lepe/
+    publisher: Canalcosta Televisión
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles place the eight searches at the end of November although they were published on 3 November 2026, so the publication date is used as the incident date.
   - The nearly 20,000 euros in cash, four vehicles and telephone and computer equipment are mentioned only to explain the seizure and are not recorded as a fine or value.
   - Only the separately stated cannabis weights are recorded (10.6 kg of hashish and 6 kg of marijuana); the reported home-delivery sales suggest other substances but no other drug quantity was published and none is counted.
   - The names of the 13 detained people and any court outcome were not reported.
   - The second photograph on the Huelva Hoy page carries no caption identifying its content, so only the captioned photograph from that page is listed as media.
+  - The Canalcosta page embeds a video and a lead image (DESARTICULACION-ASOACION-CANNABIS.jpg) without captions identifying their content, so no media entry is listed.
 ---
 
 The Guardia Civil arrested 13 people in Isla Cristina and Lepe accused of drug
 trafficking and membership of a criminal organisation tied to cannabis
-associations that acted as drug sales points. [@1,3,4] The investigation, known as
+associations that acted as drug sales points. [@1,3,4,5] The investigation, known as
 Operation Dehesa, began after anonymous complaints about a constant flow of
 people visiting these premises to buy drugs. [@2] Those arrested, together with
 the case files, the seized substances and the other seized material, were placed
-at the disposal of the court handling the case. [@1]
+at the disposal of the court handling the case. [@1,5]
 
 After judicial authorisation, officers carried out eight searches, four in the
 cannabis premises and four in homes used to store and prepare the substances for
-distribution. [@1,3,4] The searches yielded 10.6 kg of hashish and 6 kg of
-marijuana. [@1,3,4] Officers also seized almost 20,000 euros in cash, tools for
+distribution. [@1,3,4,5] The searches yielded 10.6 kg of hashish and 6 kg of
+marijuana. [@1,3,4,5] Officers also seized almost 20,000 euros in cash, tools for
 handling and weighing drugs, four vehicles including electric scooters, and
 mobile-phone and computer equipment. [@1] The operation dismantled a total of
-four drug sales points. [@1]
+four drug sales points. [@1,5]
 
 Police found that the monitored premises presented a legal appearance linked to
 cannabis consumption but were actually used to distribute and sell drugs. [@1]
