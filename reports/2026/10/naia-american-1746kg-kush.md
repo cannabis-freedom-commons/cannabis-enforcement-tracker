@@ -110,6 +110,10 @@ sources:
     url: https://www.manilatimes.net/2026/11/03/news/national/american-with-p1746m-marijuana-stash-nabbed/2458826/amp
     publisher: The Manila Times
     date: 2026-11-03
+  - title: BOC, PDEA, NAIA-IADITG nab foreigner with ₱17.46-M worth of marijuana kush at NAIA
+    url: https://journal.com.ph/boc-pdea-naia-iaditg-nab-foreigner-with-%E2%82%B117-46-m-worth-of-marijuana-kush-at-naia/
+    publisher: Journal Online
+    date: 2026-11-04
 open_questions:
   - Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or another outlet could be opened.
   - The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46 kg.
@@ -138,6 +142,9 @@ open_questions:
   - The submitted page does not state the suspect's age or alias, so those details continue to rest on the existing report's earlier sources.
   - The submitted page also describes the separate 26 October interception of 7,335 grams from abandoned luggage at NAIA Terminal 3, which belongs to the existing report manila-naia-7335g-kush-luggage and is left out here.
   - The page's social image address is available in metadata but no caption or credit in the opened text establishes that it shows this seizure, so no media entry is added.
+  - The Journal account describes the passenger only as a male American or foreigner and gives no age or alias, so the reported age of 62 and the alias Henry continue to rest on the report's earlier sources.
+  - The Journal account also describes the separate 26 October seizure of 7,335 grams from abandoned baggage at the same terminal and the combined four-day total of 24.8 kg, which belong to the existing report manila-naia-7335g-kush-luggage and are left out here.
+  - The page carries a photo captioned American with kush, but the opened text gives no credit or confirmation that it shows this seizure, so no media entry is included.
 ---
 
 A 62-year-old American citizen was arrested at Ninoy Aquino International
@@ -167,10 +174,10 @@ Dangerous Drugs Act of 2002. [@1,7]
 
 The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
 
-According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13,14,16] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13,15,16] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13,14,15,16] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5,14] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5]
+According to the Bureau of Customs, the passenger carried two checked-in bags containing food packages used to conceal the suspected drugs. [@5,8,9,13,14,16,17] X-ray screening showed suspicious images in the luggage and a drug-sniffing dog indicated possible illegal substances, prompting Customs personnel to conduct a physical examination. [@5,8,13,15,16,17] Five packages weighing 5,122 grams and valued at about P5.12 million were in the first bag, and 10 packages weighing 12,342 grams and worth P12.34 million were in the second. [@5,8,10,13,14,15,16,17] BOC-NAIA District Collector Yasmin Obillos-Mapa attributed the consecutive seizures to intensified airport inspections and close coordination among law enforcement agencies. [@5,14,17] Customs Commissioner Ariel Nepomuceno commended the personnel involved in the operations and stressed the importance of sustained vigilance against illegal drug trafficking. [@5,17]
 
 An X-ray scan flagged the luggage before personnel searched it by hand and checked it with K-9 units. [@6,7,9,11]
 
 PNP-Avsegroup Director Brig. Gen. Dionisio Bartolome Jr. said police would strengthen airport monitoring and enforcement to combat illegal drug trafficking. [@7,11]
 
-The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8,15,16]
+The Bureau of Customs said the confiscated substances were turned over to PDEA for disposition and legal proceedings. [@8,15,16,17]
