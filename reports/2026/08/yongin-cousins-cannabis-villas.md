@@ -27,6 +27,11 @@ sources:
     url: https://en.sedaily.com/society/2026/08/14/cousins-arrested-for-growing-cannabis-worth-millions-in
     publisher: Seoul Economic Daily
     date: 2026-08-14
+  - title: '[사건 인사이드] 시설·기술 없이 일확천금 ‘대마 재배의 유혹’'
+    url: https://www.kyeongin.com/article/1774029
+    publisher: 경인일보
+    date: 2026-11-03
+    language: ko
 ---
 
 Yongin Dongbu police said on 13 August that they had detained two cousins, including a man in his
@@ -45,3 +50,5 @@ arrested them on 6 August. [@1] Police seized 35 growing plants, 2.3 kilograms o
 million won in cash and about 17 million won in cryptocurrency; police put the marijuana's value at
 about 230 million won (about $165,000), or some 4,600 doses. [@1] Buyer investigations continue,
 with online drug crime named a focus of the second-half crackdown. [@1]
+
+The pair sold the cannabis jelly and liquid cannabis through Telegram. [@2] The two men told police they had acted because they wanted to make a lot of money and become rich. [@2]

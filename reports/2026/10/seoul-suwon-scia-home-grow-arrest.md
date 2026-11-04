@@ -89,6 +89,11 @@ sources:
     publisher: 콜뉴스24
     date: 2026-11-02
     language: ko
+  - title: '[사건 인사이드] 시설·기술 없이 일확천금 ‘대마 재배의 유혹’'
+    url: https://www.kyeongin.com/article/1774029
+    publisher: 경인일보
+    date: 2026-11-03
+    language: ko
 open_questions:
   - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
   - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
@@ -112,6 +117,8 @@ open_questions:
   - The page gives no seizure amount, cultivation location, plant count or separate incident date for the cannabis case.
   - The only image listed for the submitted page shows Suwon office staff at work, not the home, plants or seizure, so no media entry is included.
   - The page notes it was reconstructed from a Newsis dispatch, so it is not independent of the existing Newsis account.
+  - The only captioned event photo on the submitted page shows cannabis grown in pots in Yongin credited to Gyeonggi Nambu police, so no photo of the Seoul Seongbuk home grow is added.
+  - The page also describes a separate Pyeongtaek philopon-manufacturing case and a 2021 Cheongju sentence, different events left out here.
 ---
 
 A man in his twenties, identified only as Mr A, was arrested at his home in a
@@ -141,6 +148,6 @@ District Prosecutors' Office was dissolved. [@1,4] The division brings together 
 people from the investigation agency, the police, the Immigration and Foreign
 Policy Headquarters and customs. [@1,7]
 
-Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14]
+Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15]
 
 On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13,14]
