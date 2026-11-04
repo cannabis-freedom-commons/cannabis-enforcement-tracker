@@ -132,6 +132,10 @@ sources:
     url: https://opitanglobalmedia.com/illegal-drug-farm-lagos-police-uncover-sec/
     publisher: OGM News NG
     date: 2026-11-03
+  - title: Police uncover indoor cannabis farm in Lagos residential building
+    url: https://dailypost.ng/2026/11/03/police-uncover-indoor-cannabis-farm-in-lagos-residential-building/
+    publisher: Daily Post Nigeria
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -165,6 +169,8 @@ open_questions:
   - The OGM account names only Lagos with no district or property identifier, so the Apapa location in the existing report relies on earlier sources.
   - The OGM account confirms no arrests, names no suspects and gives no raid date or time beyond its 3 November publication date, so the two arrests and 8:15 a.m. 2 November timing rely on earlier sources.
   - The OGM page's only image caption repeats the headline and does not establish that it shows this farm, the suspects or the raid, so no media entry is added.
+  - The submitted Daily Post account gives only its 3 November 2026 publication date and no separate raid date or time, so the 2 November 8:15 a.m. timing relies on earlier sources.
+  - The submitted page's only image is a January 2025 file photo of a Nigerian police officer captioned with the headline, which does not show this farm, the suspects or the raid, so no media entry is added.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
@@ -190,10 +196,12 @@ Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
 
-The plants, which would take three months to mature, were allegedly cultivated for eventual sale in the illicit drug market. [@4] The young plants were grown in cups and, after germinating, were to be harvested and sold into society. [@4] The property manager reportedly told reporters that he only intended to help someone and had no plan to profit from the operation. [@3] Lagos State Commissioner of Police Tijani Fatai described the discovery as another breakthrough in the Command's fight against drug abuse and trafficking. [@4] The raid recovered cannabis plants growing in black bags, bags of harvested cannabis and cultivation equipment including grow lights. [@3]
+The plants, which would take three months to mature, were allegedly cultivated for eventual sale in the illicit drug market. [@4,24] The young plants were grown in cups and, after germinating, were to be harvested and sold into society. [@4,24] The property manager reportedly told reporters that he only intended to help someone and had no plan to profit from the operation. [@3,24] Lagos State Commissioner of Police Tijani Fatai described the discovery as another breakthrough in the Command's fight against drug abuse and trafficking. [@4] The raid recovered cannabis plants growing in black bags, bags of harvested cannabis and cultivation equipment including grow lights. [@3]
 
 The suspects are expected to be handed over to the National Drug Law Enforcement Agency (NDLEA) for further investigation and prosecution. [@14]
 
 Command spokesperson Abimbola Adebisi said in a statement posted on X that the two men lived in the building and were being held by the police. [@16]
 
 Police said efforts were continuing to determine the scale of the operation, the source of materials used at the facility and whether other persons were involved. [@19] Commissioner Fatai urged residents to keep providing useful information and assured the public the command would remain proactive against criminal activities. [@19]
+
+The property manager acknowledged knowing the activity was not approved by the government and said the operation came to light when an attempt was made to sell the cannabis. [@24]
