@@ -34,11 +34,13 @@ sources:
 media:
   - kind: photo
     url: https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
+    media_url: https://ndlea.gov.ng/uploads/images/2026/10/20261011103516-AKBkxW-1-grandma-cross.png
     archived: https://web.archive.org/web/20261011094434/https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
     publisher: National Drug Law Enforcement Agency
     caption: NDLEA photographs released with the statement, including the suspect and the parcels
   - kind: photo
     url: https://pmnewsnigeria.com/2026/10/11/ndlea-arrests-south-african-woman-with-32-74kg-of-cannabis-at-port-harcourt-airport/
+    media_url: https://cdn.pmnewsnigeria.com/wp-content/uploads/2026/10/South-Africa.jpg
     archived: https://web.archive.org/web/20261011152540/https://pmnewsnigeria.com/2026/10/11/ndlea-arrests-south-african-woman-with-32-74kg-of-cannabis-at-port-harcourt-airport/
     publisher: P.M. News
     caption: Gebashe Sithandiwe Jessie, the suspect arrested at Port Harcourt airport
