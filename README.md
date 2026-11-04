@@ -343,8 +343,12 @@ the build time and the size of the main pages and files. With 5,000 reports: abo
 
 ## Deployment
 
-`.github/workflows/deploy.yml` builds and publishes the site to GitHub Pages on every push to `main`
-(the tests run first; a failure stops the deploy). To set it up once:
+`.github/workflows/deploy.yml` checks `main` every 30 minutes, at minutes 7 and 37 of each hour (UTC).
+It runs the tests, builds and publishes to GitHub Pages only when the commit differs from the last
+successful deployment workflow run. Unchanged commits skip the tests, build and deployment; failed
+builds or deployments are retried at the next scheduled check. **Run workflow** on `main` forces an
+immediate test, build and deployment, even for an unchanged commit. A test failure stops deployment.
+GitHub schedules can be delayed during busy periods. To set it up once:
 
 1. Push the repository to GitHub.
 2. Settings → Pages → Source: **GitHub Actions**.
