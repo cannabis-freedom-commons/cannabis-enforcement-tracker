@@ -105,6 +105,11 @@ sources:
     url: https://deshgujarat.com/2026/11/02/13-kg-hydroponic-ganja-seized-at-ahmedabad-airport-surat-couple-held/
     publisher: DeshGujarat
     date: 2026-11-02
+  - title: अहमदाबाद में 13 करोड़ का गांजा जब्त
+    url: https://jantaserishta.com/amp/local/gujarat/cannabis-worth-13-crore-seized-in-ahmedabad-4913193
+    publisher: Janta Se Rishta
+    date: 2026-11-02
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -141,18 +146,18 @@ open_questions:
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
-detailed manual examination. [@1,2,9] Inside the bags officers found 14
+detailed manual examination. [@1,2,9,18] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10,11,14,15,17] Customs estimated the haul, a higher-potency
+term for cannabis. [@1,2,5,9,10,11,14,15,17,18] Customs estimated the haul, a higher-potency
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
