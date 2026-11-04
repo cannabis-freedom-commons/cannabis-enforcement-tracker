@@ -29,6 +29,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-04
     language: ar
+  - title: القبض على مواطن و3 إثيوبيين بالمنطقة الشرقية لترويجهم الحشيش المخدر
+    url: https://ajel.sa/local/k74qywts5
+    publisher: عاجل
+    date: 2026-11-04
+    language: ar
 open_questions:
   - The article gives no separate date for the operations; 4 November 2026 is its publication date and is used as the incident date.
   - The combined announcement reports six arrests in total, but only the four Eastern Province hashish arrests are counted; the two Riyadh methamphetamine arrests are excluded.
@@ -37,17 +42,19 @@ open_questions:
   - Only one accessible source for this event was found after searching in Arabic.
   - The page image is an outlet logo with a title-only caption and does not show this seizure, so no media entry is included.
   - The new page carries an image captioned only with the article title and no credit, which does not establish that it shows this seizure, so no media entry is added.
+  - The new page calls the three Ethiopians residents, while the existing report calls them border-security violators based on earlier sources.
+  - The page image is captioned only with the article title and carries no credit, so it does not establish that it shows this seizure and no media entry is added.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested four people in
-the Eastern Province for allegedly promoting hashish. [@1,2] Those held were three
+the Eastern Province for allegedly promoting hashish. [@1,2,3] Those held were three
 Ethiopian nationals described as border-security violators and one Saudi
-citizen. [@1,2] Officers stopped the suspects, completed initial procedures and
+citizen. [@1,2,3] Officers stopped the suspects, completed initial procedures and
 referred them to the Public Prosecution to complete investigations and apply
-statutory penalties. [@1,2]
+statutory penalties. [@1,2,3]
 
 The Directorate put the hashish seized in the Eastern Province case at 1.1
-kilograms. [@1,2] It described the Eastern Province and Riyadh actions as two
+kilograms. [@1,2,3] It described the Eastern Province and Riyadh actions as two
 separate security operations targeting hashish and methamphetamine promotion.
 [@1,2] In the Riyadh operation, officers arrested two residents for allegedly
 promoting methamphetamine (shabu), a non-cannabis drug excluded from this
