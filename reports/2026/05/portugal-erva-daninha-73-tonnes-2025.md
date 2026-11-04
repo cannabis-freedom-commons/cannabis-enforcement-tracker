@@ -39,6 +39,11 @@ sources:
     publisher: DNOTICIAS.PT
     date: 2026-06-15
     language: pt
+  - title: Cripto, químicos da Índia e falsificações de licenças. Como uma rede de falsa canábis medicinal enganou o Infarmed para traficar droga
+    url: https://observador.pt/especiais/cripto-quimicos-da-india-e-falsificacoes-de-licencas-como-uma-rede-de-falsa-canabis-medicinal-enganou-o-infarmed-para-traficar-droga/
+    publisher: Observador
+    date: 2026-06-28
+    language: pt
 open_questions:
   - The extradition date of 11 September 2025 is inferred because the 12 September 2025 report says the 48-year-old was extradited on Thursday; no separate detention date in the Netherlands was published.
   - The May raids are dated May 2025 from a 21 May 2025 report describing Tuesday's operation; no separate hour or town-by-town breakdown was published.
@@ -55,6 +60,10 @@ open_questions:
   - Only one opened source could be used after searches found no accessible second account of the accusation.
   - No company names, individual identities beyond custody status, or next court outcome were published.
   - The charged figure counts all 24 defendants, comprising 13 people and 11 companies.
+  - Synthetic quantities of about 500 kg of 3-CMC, 149 kg of 3-MMC and 30,000 Lorazepam pills are excluded from cannabis figures, and cannabis resin is mentioned without a weight.
+  - The new breakdown of about 1.78 tonnes at Sardoal plus more than 3 tonnes of biomass and flower does not by itself account for the recorded 7.3-tonne total.
+  - The submitted page's single listed image carries only the credit LUÍS FORRA/LUSA with no event description, so no media entry is included.
+  - The 28 June 2026 article is an account of the 22 May accusation already recorded, not a new enforcement date.
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha against a group accused of
@@ -73,11 +82,11 @@ Officers executed 64 search-and-seizure warrants across mainland Portugal and
 Madeira, with further searches by authorities in Spain, Bulgaria and Cyprus.
 [@2] The group allegedly bought pharmaceutical firms and then created licensed
 wholesale, import and export medical-cannabis companies to send thousands of
-kilos to illicit markets using false documentation and certificates. [@2] A
+kilos to illicit markets using false documentation and certificates. [@2,5] A
 laboratory dismantled in central Portugal yielded one tonne of amphetamines,
 described as the largest such quantity seized in Portugal to date. [@1] Infarmed
 approved tonnes of medical cannabis for export to Kenya, Congo and
-Guinea-Bissau, countries described as having no legislation on the matter. [@1]
+Guinea-Bissau, countries described as having no legislation on the matter. [@1,5]
 
 The network is described as a Costa del Sol organisation that moved its
 operating base to the Algarve years ago before spreading across Portugal to
@@ -86,4 +95,6 @@ cultivation and export have been authorised in Portugal since 2019. [@1]
 Authorities suspect trafficking profits may have funded terrorism through
 parallel money-transfer systems. [@1]
 
-Portugal's public prosecution charged 24 defendants, 13 people and 11 companies, in a case that dismantled an international drug-trafficking network that used the pharmaceutical and medical-cannabis sector as a front. [@4] The 24 defendants are accused of criminal association for trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4] The prosecution describes the network as an international criminal network with high logistical and financial power established in Portugal since 2021. [@4] The accusation was brought on 22 May. [@4] Of the 13 individual defendants, two are in pre-trial detention, including one who had been detained in the Netherlands and then extradited to Portugal. [@4] Two defendants are at large and subject to European and international arrest warrants. [@4] The remaining defendants await the proceedings in freedom. [@4] The network allegedly bought and set up several companies, many holding medical-cannabis cultivation, import and export licences, while repeatedly changing corporate officers to hide its true leaders. [@4] The group's alleged operations centred on diverting narcotics to the European black market and making fraudulent exports to the Democratic Republic of Congo, Kenya and Guinea-Bissau. [@4] Prosecutors say the network exploited weaknesses in medical-cannabis supervision and control capacity to preserve an appearance of legality. [@4] The network also allegedly imported amphetamines for processing in European laboratories, and investigators recall a one-tonne amphetamine seizure in Portugal as the country's largest to date. [@4] The network allegedly used international branches to obtain and fully forge licences, customs declarations and import certificates in the name of recipient entities in destination countries. [@4] Profits were allegedly shared among controlled firms through sham commission contracts and laundered through real-estate, tourism and commercial companies with Malaysian financiers and foreign legal advice. [@4] The laundering allegedly included converting currency into cryptoassets before returning funds to the conventional banking system through international transfers to erase the money trail. [@4]
+Portugal's public prosecution charged 24 defendants, 13 people and 11 companies, in a case that dismantled an international drug-trafficking network that used the pharmaceutical and medical-cannabis sector as a front. [@4,5] The 24 defendants are accused of criminal association for trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4] The prosecution describes the network as an international criminal network with high logistical and financial power established in Portugal since 2021. [@4] The accusation was brought on 22 May. [@4] Of the 13 individual defendants, two are in pre-trial detention, including one who had been detained in the Netherlands and then extradited to Portugal. [@4,5] Two defendants are at large and subject to European and international arrest warrants. [@4] The remaining defendants await the proceedings in freedom. [@4] The network allegedly bought and set up several companies, many holding medical-cannabis cultivation, import and export licences, while repeatedly changing corporate officers to hide its true leaders. [@4] The group's alleged operations centred on diverting narcotics to the European black market and making fraudulent exports to the Democratic Republic of Congo, Kenya and Guinea-Bissau. [@4] Prosecutors say the network exploited weaknesses in medical-cannabis supervision and control capacity to preserve an appearance of legality. [@4] The network also allegedly imported amphetamines for processing in European laboratories, and investigators recall a one-tonne amphetamine seizure in Portugal as the country's largest to date. [@4] The network allegedly used international branches to obtain and fully forge licences, customs declarations and import certificates in the name of recipient entities in destination countries. [@4] Profits were allegedly shared among controlled firms through sham commission contracts and laundered through real-estate, tourism and commercial companies with Malaysian financiers and foreign legal advice. [@4] The laundering allegedly included converting currency into cryptoassets before returning funds to the conventional banking system through international transfers to erase the money trail. [@4]
+
+Investigators seized about 1.78 tonnes of cannabis at Sardoal premises and more than 3 tonnes of cannabis biomass and flower in logistics warehouses. [@5] Geert Caers allegedly moved more than 30.4 million dollars in cryptoassets on Binance between 2019 and 2024. [@5] A forged import certificate supposedly from Guinea-Bissau's Arfame bore the expiry date 30 February 2024 and passed Infarmed without raising alarms. [@5] The indictment documents more than 11 million euros in transfers through 17 Malaysian front companies. [@5]
