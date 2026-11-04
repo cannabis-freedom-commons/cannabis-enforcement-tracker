@@ -45,14 +45,23 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-02
     language: hi
+  - title: मऊगंज में गांजे के कारोबार पर पुलिस की दबिश, पिता-पुत्र गिरफ्तार, दो बाइक और मोबाइल जब्त
+    url: https://www.starsamachar.com/mauganj-shahpur-police-arrest-father-son-ganja-seizure
+    publisher: Star Samachar
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Locality spellings differ by transliteration across sources, including Barav/Baraon and Chahala/Chahla Tola and Dagdhaua/Dagdhaoa Pulia; the report uses the Raj Express forms.
   - The report uses 1 November 2026, the day of the tip and arrests stated in the sources, as the incident date; 2 November is the court-production date and 2-3 November are publication dates.
   - The figures record the police valuation of the ganja alone at Rs 405,180; the higher Rs 490,180 total including the motorcycle and mobile phone is stated in the text.
+  - Star Samachar identifies Ashok Patel as a resident of Palia, while the existing report records both men as residents of Dubgawan village.
+  - Star Samachar reports two motorcycles and two mobile phones seized, while the existing report details one red Platina motorcycle and one Oppo smartphone.
+  - Star Samachar states the seized ganja is worth about Rs 405,000 immediately after describing the second 12.924 kg seizure, leaving ambiguous on its own whether that figure is the second lot or the combined total clarified in other sources.
+  - The Star Samachar page carries a lead image captioned with this raid headline, but the caption and article text do not describe what the image shows, so no media entry is included.
 ---
 
 Shahpur police in Mauganj district arrested 52-year-old Ashok Patel and his
-20-year-old son Suraj Patel for alleged ganja trafficking. [@1] Both men are
+20-year-old son Suraj Patel for alleged ganja trafficking. [@1,4] Both men are
 residents of Dubgawan village under Mauganj police station limits. [@1] Acting
 on a 1 November tip that a man on a motorcycle was waiting to sell ganja near
 Barav Chahala Tola, officers cordoned the spot and caught Ashok Patel. [@1] On
@@ -62,13 +71,14 @@ culvert and arrested Suraj Patel. [@1] Shahpur police registered Crime No.
 them in court on 2 November. [@2]
 
 A search of a sack with Ashok Patel yielded 27.594 kg of ganja, which police
-valued at Rs 275,940. [@2] A search of Suraj Patel's suitcase yielded 12.924 kg
-of ganja, which police valued at Rs 129,240. [@2] Together, police reported
+valued at Rs 275,940. [@2,4] A search of Suraj Patel's suitcase yielded 12.924 kg
+of ganja, which police valued at Rs 129,240. [@2,4] Together, police reported
 40.518 kg of ganja with an estimated value of Rs 405,180. [@1] Police also
 seized a red Platina motorcycle bearing CG17KB8633 and an Oppo smartphone,
 putting the combined seizure value at Rs 490,180. [@2]
 
 Police said they are also investigating the ganja supply chain and other
 possible associates. [@1] Dainik Bhaskar reported that after production in
-court, both accused were sent to judicial custody in jail. [@3]
+court, both accused were sent to judicial custody in jail. [@3,4]
 
+The accused told police they brought ganja by train from Odisha to Rewa, then took it by bike to Mauganj and supplied packets in the Mauganj area. [@4] Police seized two motorcycles and two mobiles and are getting the mobiles examined by the cyber cell to trace the whole network, with station in-charge Ramdin Singh saying names of several others involved have come to light. [@4]
