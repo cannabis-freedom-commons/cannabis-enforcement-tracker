@@ -11,10 +11,9 @@ also: [arrest, seizure]
 title: Cordillera police destroy 89,240 cannabis plants in 33 eradication operations
 summary: >-
   Joint Philippine National Police and Philippine Drug Enforcement Agency teams conducted 33
-  cannabis-eradication operations from 9 to 15 March 2026, uprooting 87,740 fully grown plants,
-  1,500 seedlings and 146.72 kilograms of dried cannabis leaves and fruiting tops. [@1] Parallel
-  buy-bust, response and warrant operations arrested 15 drug personalities; the report excludes the
-  separately reported 14 grams of shabu from the cannabis figures. [@1]
+  cannabis-eradication operations from 9 to 15 March 2026, uprooting 87,740 mature plants, 1,500
+  seedlings and 146.72 kilograms of dried cannabis. [@1] Parallel operations arrested 15 drug
+  personalities; 14 grams of shabu is excluded from the cannabis figures. [@1]
 figures:
   arrested: 15
   plants_destroyed: 89240

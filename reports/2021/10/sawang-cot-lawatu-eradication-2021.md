@@ -43,7 +43,7 @@ sources:
   - title: P4GN Facilitation in North Aceh District
     publisher: Proceedings of ICoSPOLHUM 2022, Universitas Malikussaleh
     url: https://proceedings.unimal.ac.id/icospolhum/article/download/60/37/58
-    date: 2022
+    year: 2022
 open_questions:
   - "Area: ANTARA Foto reports three sites covering 3 hectares, while the later academic account describes four hectares in Cot Lawatu; this report uses the contemporaneous 3-hectare figure."
   - No arrests, growers identified, or court outcomes were reported in the opened sources.

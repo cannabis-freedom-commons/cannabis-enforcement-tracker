@@ -37,7 +37,7 @@ sources:
     publisher: Amnesty International
     url: https://web.archive.org/web/20021113122632/http://web.amnesty.org/web/ar2002.nsf/mde/oman
     archived: https://web.archive.org/web/20211221215918/https://web.archive.org/web/20021113122632/http:/web.amnesty.org/web/ar2002.nsf/mde/oman
-    date: 2002
+    year: 2002
 ---
 
 A Magistrate's Court in Oman sentenced Pakistani nationals Hatem 'Ali Nour Baksh and 'Abdul Rahman Murad Mohammed to death on 30 April 2001. [@1,2] The two men had been arrested on 17 February 2001 in possession of a tonne of hashish, two guns and ammunition, and were convicted of drug smuggling, possessing firearms without a licence and violating the residence law for foreigners. [@1]
