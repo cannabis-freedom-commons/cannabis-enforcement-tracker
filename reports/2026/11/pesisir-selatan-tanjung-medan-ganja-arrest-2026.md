@@ -19,6 +19,11 @@ media:
     media_url: https://investigasi.news/wp-content/uploads/2026/11/Screenshot_20261103_220540-1068x1292.jpg
     publisher: Investigasi
     caption: 'The suspects and seized evidence at the time of arrest. Photo: Fandra'
+  - kind: photo
+    url: https://investigasi.news/04/11/2026/polres-pesisir-selatan-ringkus-dua-pengedar-narkoba-sabu-dan-ganja-berhasil-disita/hukum-dan-kriminal/
+    media_url: https://investigasi.news/wp-content/uploads/2026/11/IMG-20261104-WA0092.jpg
+    publisher: Investigasi
+    caption: Police photo of suspects FS and ODP with the seized drug packets and related items after the bridge arrest.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ebfb93be85ae42c1d05d16f9eae1ab5d
@@ -39,6 +44,11 @@ sources:
     publisher: BacalahNews.com
     date: 2026-11-03
     language: id
+  - title: Polres Pesisir Selatan Ringkus Dua Pengedar Narkoba, Sabu dan Ganja Berhasil Disita - Investigasi
+    url: https://investigasi.news/04/11/2026/polres-pesisir-selatan-ringkus-dua-pengedar-narkoba-sabu-dan-ganja-berhasil-disita/hukum-dan-kriminal/
+    publisher: Investigasi
+    date: 2026-11-04
+    language: id
 open_questions:
   - No weight was published for the single suspected ganja packet, so no cannabis weight is recorded.
   - The nine suspected sabu packets are excluded from cannabis figures and no combined drug weight is attributed to cannabis.
@@ -50,10 +60,10 @@ open_questions:
 A joint team of Pesisir Selatan narcotics police and Linggo Sari Baganti
 criminal investigators arrested two men on suspicion of distributing narcotics
 of the sabu and ganja types, ganja being cannabis and sabu being
-methamphetamine. [@1] The two men were identified only as FS, 25, and ODP, 27,
+methamphetamine. [@1,4] The two men were identified only as FS, 25, and ODP, 27,
 and were stopped on the bridge at Kampung Tanjung Medan in Nagari Air Haji
 Tengah, Linggo Sari Baganti, a nagari being a village-level community in West
-Sumatra. [@1] Police said the operation began after residents reported suspected
+Sumatra. [@1,4] Police said the operation began after residents reported suspected
 drug transactions that were troubling the Linggo Sari Baganti area. [@1] When
 officers reached the bridge they found FS and ODP there and detained them for
 checks on suspicion they were about to distribute narcotics. [@3]
@@ -61,7 +71,7 @@ checks on suspicion they were about to distribute narcotics. [@3]
 A search witnessed by local residents found nine packets of suspected sabu in
 the men's hands, which are excluded from cannabis figures in this report. [@1] A
 further body search of ODP found one packet of suspected ganja wrapped in clear
-clip plastic inside his trouser pocket. [@1] Police also seized a black Honda
+clip plastic inside his trouser pocket. [@1,4] Police also seized a black Honda
 Beat motorcycle, a hair-oil box, three sheets of papir rolling paper, a
 cigarette pack, a small-straw sabu spoon, a sabu needle, a pirex glass pipe and
 two Oppo Android phones as suspected related items. [@1]
@@ -71,7 +81,8 @@ for further investigation. [@2] They are then to be handed over to Pesisir
 Selatan district police for further legal proceedings. [@1] Police said both men
 were charged under Article 114 of Law Number 35 of 2009 on Narcotics in
 conjunction with Article 609 of the Criminal Code and face six to 20 years in
-prison. [@1] Investigators said the two men admitted the drugs and seized items
+prison. [@1,4] Investigators said the two men admitted the drugs and seized items
 were theirs, while police continue to trace the supply source and any wider
 network. [@1]
 
+Both men were described as residents of Kampung Rantau Batu Ambacang in Nagari Padang XI Punggasan, Linggo Sari Baganti. [@4] Officers said both men were seized and secured without resistance. [@4]
