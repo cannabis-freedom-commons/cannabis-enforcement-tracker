@@ -22,6 +22,11 @@ media:
     media_url: https://www.lavanguardia.com/files/content_image_intermediate_filter/uploads/2026/11/02/6ae86497ed34a.jpeg
     publisher: La Vanguardia
     caption: 'One of the detainees in the house where the marijuana plantation was located. Credit: CNP'
+  - kind: photo
+    url: https://capgros.elnacional.cat/es/sucesos/cae-red-criminal-con-arsenal-armas-3000-plantas-marihuana-en-operativo-en-mataro_819829_102.html
+    media_url: https://capgros.elnacional.cat/uploads/s1/16/05/50/7/detingut-policia-nacional-mataro_11_1280x644.jpeg
+    publisher: Capgròs
+    caption: One of the detainees in Dosrius. No credit given.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 305e166187fb6fbfc463a0b43d7699e6
@@ -52,6 +57,11 @@ sources:
     publisher: LaSexta
     date: 2026-11-02
     language: es
+  - title: Cae una red criminal con un arsenal de armas y 3.000 plantas de marihuana en el Maresme
+    url: https://capgros.elnacional.cat/es/sucesos/cae-red-criminal-con-arsenal-armas-3000-plantas-marihuana-en-operativo-en-mataro_819829_102.html
+    publisher: Capgròs
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the raid; the incident date uses the publication date.
   - The several localities in Barcelona province where the group allegedly operated are not named.
@@ -61,15 +71,17 @@ open_questions:
   - The ABC page embeds police-supplied video of the operation; no stable direct video file address was recovered, so no media entry is added.
   - LaSexta describes distribution to the European black market without specifying eastern Europe, while the existing report says eastern Europe.
   - The laSexta page carries a photo and video titled with the event, but without caption or credit confirming they show this operation, so no media entry is added.
+  - This Capgròs account names the Dosrius local police as the National Police collaborator, while the existing report names Mataró local police; whether one or both local forces took part is unresolved.
+  - The Capgròs page is dated 3 November 2026 and attributes the police account to Monday, giving no separate date for the raid itself.
 ---
 
 National Police officers with Mataró Local Police carried out an anti-drug
 operation in the province that ended with the detention of seven people and the
-seizure of 3,000 marijuana plants. [@1,2,3,4] The operation dismantled an alleged
+seizure of 3,000 marijuana plants. [@1,2,3,4,6] The operation dismantled an alleged
 criminal organisation dedicated to indoor cultivation and later distribution of
 the drug on the European black market. [@1,4] The seven detainees are under
 investigation for alleged offences against public health, unlawful possession of
-weapons, electricity fraud and membership of a criminal group. [@1,5] All seven
+weapons, electricity fraud and membership of a criminal group. [@1,5,6] All seven
 have been placed at the disposal of the courts. [@1]
 
 During the operation officers seized a large arsenal of weapons, cash and a
@@ -77,8 +89,8 @@ complete infrastructure for indoor marijuana cultivation. [@1] The seized
 material included 3,000 marijuana plants and one kilogram of buds, two 9 mm
 pistols with semi-jacketed ammunition, a replica pistol, an AK-47 rifle, five
 frequency jammers, two knuckle-dusters, several extendable batons and a baseball
-bat. [@1,2,3,4,5] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
-and abundant material used for indoor plantation cultivation. [@1,2,5]
+bat. [@1,2,3,4,5,6] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle
+and abundant material used for indoor plantation cultivation. [@1,2,5,6]
 
 Investigators say the organisation operated in several localities in Barcelona
-province and sent its production to the black market in eastern Europe. [@1]
+province and sent its production to the black market in eastern Europe. [@1,6]
