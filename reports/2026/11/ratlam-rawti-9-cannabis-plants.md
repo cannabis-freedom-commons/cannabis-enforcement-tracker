@@ -1,0 +1,63 @@
+---
+code: GPD0B1
+added_at: "2026-11-04T12:18:17.963421Z"
+date: 2026-11-04
+country: in
+place: Sangla ka Mal, Rawti, Ratlam, Madhya Pradesh
+coordinates: [23.3315, 75.0367]
+precision: district
+type: eradication
+also: [seizure, raid]
+title: 9 cannabis plants seized from cotton field in Ratlam
+summary: >-
+  Ratlam police uprooted and seized 9 cannabis plants grown among cotton on private land in Sangla ka Mal village, Rawti. Police put the 12.8 kg haul at about Rs 120,000 and said the linked landholder was absconding while action proceeded under the NDPS Act.
+figures:
+  plants_destroyed: 9
+  kg_seized: 12.8
+  value:
+    amount: 120000
+    currency: INR
+media:
+  - kind: photo
+    url: https://www.patrika.com/ratlam-news/rawti-police-cannabis-plants-seize-illegal-cultivation-21030417
+    media_url: https://cms.patrika.com/wp-content/uploads/2026/11/ratlam-ganja.webp
+    publisher: Patrika News
+    caption: 'Photo of cannabis plants grown among the cotton crop. Photo: Patrika'
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 069bcfc4317ac519e6cd716466de7bf3
+tags: [ratlam, madhya-pradesh, ganja, illegal-cultivation]
+sources:
+  - title: नशे के कारोबार पर रतलाम पुलिस का बड़ा एक्शन, कपास के खेत में लहलहा रही थी गांजे की फसल
+    url: https://www.patrika.com/ratlam-news/rawti-police-cannabis-plants-seize-illegal-cultivation-21030417
+    publisher: Patrika News
+    date: 2026-11-04
+    language: hi
+open_questions:
+  - No separate raid date was published, so 4 November 2026 is the article's publication date used as the incident date.
+  - No arrest, questioning outcome or court result was reported; the linked landholder was described as absconding and others were still being identified.
+  - Only Patrika's account could be opened in full; the Pradesh Prakash page for the same 9-plant seizure yielded no readable article text.
+  - No figure for the cultivated area was published, only the plant count and plant weight.
+---
+
+Ratlam police exposed illegal cannabis cultivation in the Rawti police-station
+area of Ratlam district in Madhya Pradesh. [@1] The plants were growing on
+private land in Sangla ka Mal village among a cotton crop. [@1] Police said
+preliminary information linked the field to Rangilibai, wife of Jai Singh
+Bhabhar. [@1] Police described the landholder as absconding. [@1] Police said
+those found responsible would be made accused on the basis of evidence. [@1]
+Police said they were gathering information on other people active behind the
+cultivation and its network. [@1]
+
+Officers raided the spot and seized nine green cannabis plants. [@1] Police had
+all nine plants uprooted and seized in accordance with procedure. [@1] Police
+put the total weight at 12.800 kg and the estimated value at about Rs 120,000.
+[@1] Police said legal action was being taken under Sections 8/20 of the NDPS
+Act. [@1]
+
+Police said the action followed an informer's tip about illegal cultivation in
+the Sangla ka Mal area. [@1] Rawti police teams then searched fields and
+surrounding areas beside the hills in the Kheriyarundi Kala area and found the
+plants in one private field. [@1] Ratlam police said action against drug
+smuggling and illegal cultivation was continuing in the district. [@1]
+
