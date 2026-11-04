@@ -50,6 +50,11 @@ sources:
     publisher: Sivas 360
     date: 2026-11-04
     language: tr
+  - title: İstanbul'da Narkotik Köpeği İş Yerindeki Uyuşturucuyu Buldu
+    url: https://sivas360.com/asayis/istanbulda-narkotik-kopegi-is-yerindeki-uyusturucuyu-buldu/26769183
+    publisher: Sivas 360
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate raid date, so 4 November 2026 is the publication date used as the incident date.
   - No charges, custody ruling or court outcome for the two detained suspects were reported.
@@ -61,13 +66,15 @@ open_questions:
 
 Istanbul Provincial Gendarmerie Command teams started work to catch suspects
 accused of manufacturing narcotic substances and preparing to release them onto
-the market. [@1,3] After technical and physical surveillance, the teams raided a
+the market. [@1,3,6] After technical and physical surveillance, the teams raided a
 workplace in Kağıthane, Istanbul. [@2,3] Officers detained two suspects during the
-raid on the Kağıthane workplace. [@1,3,4,5]
+raid on the Kağıthane workplace. [@1,3,4,5,6]
 
-Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5] The same
-search also seized three mobile phones alongside the drugs. [@2,3,4,5]
+Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5,6] The same
+search also seized three mobile phones alongside the drugs. [@2,3,4,5,6]
 
 The Kağıthane workplace raid took place on 3 November 2026. [@4]
 
-A trained narcotics dog took part in the search. [@5]
+A trained narcotics dog took part in the search. [@5,6]
+
+Officers found the drugs at the spot signalled by the narcotics dog. [@6]
