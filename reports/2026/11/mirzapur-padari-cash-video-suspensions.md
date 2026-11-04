@@ -32,6 +32,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-03
     language: hi
+  - title: मिर्जापुर में गांजा तस्करी के आरोपी को छोड़ने का आरोप, नोटों की गड्डियों वाला VIDEO वायरल...
+    url: https://www.prabhatkhabar.com/state/uttar-pradesh/mirzapur-ganja-smuggler-police-bribery-allegation-cash-video-viral-padri-investigation
+    publisher: Prabhat Khabar
+    date: 2026-11-02
+    language: hi
 open_questions:
   - No cannabis weight, plant count or field area was published, so no cannabis quantity can be recorded.
   - The about two lakh rupees in cash was found and returned, not a cannabis valuation, and is excluded from figures.
@@ -40,6 +45,9 @@ open_questions:
   - Hindustan dates the cash-counting video to 23 October 2026, while both reports were published on 3 November; 3 November is used as the incident date for the suspensions and latest reported step.
   - No arrest count, charge sheet or court outcome was reported.
   - Coordinates use Mirzapur centre with district precision because the village-level location of Devahi could not be verified.
+  - The account gives no separate date for the detention; 2 November 2026 is its publication date.
+  - The account says the video and bribery claim lack official confirmation and independent verification, so the later police account of the counting and suspensions remains the fuller record.
+  - No new media entry is added because the page hero image appears to reuse the same viral cash-counting still already recorded from Amar Ujala.
 ---
 
 Padari police went to Devahi village to examine Mithu Prasad after receiving a
@@ -52,7 +60,7 @@ counting on a mobile phone to avoid later claims that police had taken money.
 Prasad confirmed in a video statement. [@1]
 
 A clip of the counting later circulated on social media with claims that Padari
-officers had taken money from the alleged ganja smuggler. [@1] Superintendent of
+officers had taken money from the alleged ganja smuggler. [@1,3] Superintendent of
 Police Aparna Rajat Kaushik had the video examined and said it showed only the
 counting of cash found during the raid. [@1] She suspended Padari constables
 Himanku Mishra and Sudhir Kumar for making the video and sharing it
@@ -67,3 +75,4 @@ report, the police complaint that opens a criminal case, was then registered.
 [@1] Hindustan instead reported that he was released after questioning at the
 station. [@2] Hindustan dates the cash-counting video to 23 October. [@2]
 
+The video was said to show bundles of 500-rupee notes. [@3]
