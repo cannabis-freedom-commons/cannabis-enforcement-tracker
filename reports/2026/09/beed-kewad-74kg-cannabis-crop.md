@@ -16,12 +16,6 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 74.432
-media:
-  - kind: photo
-    url: https://www.daijiworld.com/news/newsDisplay?newsID=1325172
-    media_url: https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ceized_090926_1.jpg
-    publisher: Daijiworld
-    caption: Cannabis buds image published with the report; Daijiworld did not identify it as the crop uprooted at Kewad.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified
 tags: [beed, kewad, kaij, maharashtra, cultivation]
@@ -33,7 +27,7 @@ sources:
 open_questions:
   - The report does not name the arrested 22-year-old or give a later court or case outcome.
   - The police account gives the crop weight and value but no plant count or cultivated area.
-  - The published image is a generic cannabis-bud photograph and is not identified as the Kewad crop.
+  - No event-specific photo was retained; the published image was a generic cannabis-bud photograph, not the Kewad crop.
   - Only one accessible, event-specific account was found; no independent local report was located.
 ---
 

@@ -38,6 +38,7 @@ sources:
 media:
   - kind: photo
     url: https://bnn.go.id/jelang-hut-ke-81-ri-bnn-jaga-bangsa-dari-narkotika-dengan-memusnahkan-12-hektare-lahan-ganja/
+    media_url: https://bnn.go.id/konten/unggahan/2026/08/8b3cdc86-5077-4790-860c-5a97fb70562d.jpeg
     archived: https://web.archive.org/web/20261006180214/https://bnn.go.id/jelang-hut-ke-81-ri-bnn-jaga-bangsa-dari-narkotika-dengan-memusnahkan-12-hektare-lahan-ganja/
     publisher: BNN (Humas)
     caption: BNN Aceh personnel during the Nagan Raya eradication operation.
