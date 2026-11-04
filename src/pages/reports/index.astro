@@ -1,11 +1,8 @@
 ---
-// All reports as a list: search and filter by type, tag, country, year and month, newest first.
+// All reports as a list: search and filter by type, tag, country, period and figures, newest first.
 import Base from "../../layouts/Base.astro";
 import ReportBrowser from "../../components/ReportBrowser.astro";
 import { reports, countriesWithReports, years } from "../../lib/reports.js";
-import { TYPES, typeIcon } from "../../lib/types.js";
-
-const usedTypes = Object.entries(TYPES).filter(([t]) => reports.some((r) => r.type === t || r.also?.includes(t)));
 const fmt = (n) => n.toLocaleString("en-GB");
 const base = import.meta.env.BASE_URL;
 ---
@@ -19,11 +16,8 @@ const base = import.meta.env.BASE_URL;
   </div>
   <p class="lead">
     {fmt(reports.length)} reports from {countriesWithReports().length} countries and states, newest first. Search them, filter by
-    type, tag, country and date, or <a href={`${base}${years[0] ?? ""}/`}>browse by month</a>.
+    type, tag, country, date and figures such as plants destroyed or people arrested, or <a href={`${base}${years[0] ?? ""}/`}>browse by month</a>.
   </p>
-  <ul class="legend">
-    {usedTypes.map(([id, v]) => <li class="type" title={v.help}><Fragment set:html={typeIcon(id, 16)} />{v.label}</li>)}
-  </ul>
   <ReportBrowser />
 </Base>
 

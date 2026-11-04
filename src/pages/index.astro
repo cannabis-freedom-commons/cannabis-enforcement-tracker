@@ -1,9 +1,9 @@
 ---
-// The map: all reports on a full-screen map with its filters floating over it (MapFilters), and the
+// The map: all reports on a full-screen map with its filters floating over it (FilterBar), and the
 // list of the reports they match in a pane on the right.
 import Base from "../layouts/Base.astro";
 import WorldMap from "../components/WorldMap.astro";
-import MapFilters from "../components/MapFilters.astro";
+import FilterBar from "../components/FilterBar.astro";
 import ReportBrowser from "../components/ReportBrowser.astro";
 import { reports, countriesWithReports, totals } from "../lib/reports.js";
 
@@ -16,7 +16,7 @@ const base = import.meta.env.BASE_URL;
     <h1 class="sr-only">Cannabis Enforcement Tracker: the map of reports</h1>
     <div class="home-map">
       <WorldMap hash label="World map of enforcement reports" />
-      <MapFilters />
+      <FilterBar />
     </div>
     <aside class="home-pane" aria-label="Reports">
       <ReportBrowser compact mapFilters />

@@ -1,5 +1,6 @@
 // All reports, sorted newest first, with what the pages and the JSON files need worked out once:
 // the country's name, where the dot goes on the map, the year, and the figures as short labels.
+import { figureNumbers } from "./figure-filters.js";
 import { getCollection } from "astro:content";
 import { TYPES } from "./types.js";
 import { countryName, countryOf } from "./countries.js";
@@ -104,6 +105,7 @@ export function related(r, n = 4) {
 // One report as a row of the shared index (/api/index.json) that the map and the home page's
 // filters load: short keys, only what a list item and a map dot need.
 export function indexRow(r) {
+  const numbers = figureNumbers(r);
   return {
     i: r.id, d: isoDate(r.date), ...(r.added_at ? { at: r.added_at } : {}), c: r.country, t: r.type, a: r.also ?? [],
     ti: r.title, s: r.summary, p: r.place ?? null,
@@ -113,6 +115,8 @@ export function indexRow(r) {
     k: [`cet-${r.code}`, r.code, ...(r.tags ?? [])].join(" ").toLowerCase(),
     ...(r.tags?.length ? { g: r.tags } : {}), // exact tags for selection, separate from search text
     ...(r.cover || r.photo ? { im: r.cover?.image.src ?? r.photo } : {}), // the list thumbnail
+    ...(Object.keys(numbers).length ? { n: numbers } : {}), // figures as numbers, for the "+ Filter" menu
+    ...(r.status && r.status !== "verified" ? { st: r.status } : {}), // verified unless said
   };
 }
 

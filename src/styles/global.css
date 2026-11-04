@@ -511,6 +511,35 @@ sup.cite a { color: var(--cite); text-decoration: none; }
   .map-timeline .months { height: 34px; margin-top: 6px; }
 }
 @media (max-width: 420px) { .map-bar-toggle-label { display: none; } }
+/* "+ Filter": a figure's range, the check status or "has a photo" (FilterBar.astro) */
+.add-filter { display: inline-flex; align-items: center; gap: 6px; flex: none; padding: 0 11px; min-height: 34px; background: var(--surface); color: var(--text-2); border: 1px dashed var(--muted); border-radius: var(--r); font: 500 12px Inter, system-ui, sans-serif; cursor: pointer; white-space: nowrap; }
+.map-bar:not(.is-page) .add-filter { box-shadow: var(--shadow); }
+.add-filter svg { width: 11px; height: 11px; }
+.add-filter:hover, .add-filter[aria-expanded="true"] { color: var(--text); border-color: var(--text-2); }
+.add-filter:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+.fig-popover { width: 340px; }
+.fig-choose { display: grid; gap: 4px; color: var(--text-2); font-size: 12px; }
+.fig-choose[hidden], .custom-range[hidden] { display: none; }
+#fig-apply { padding: 7px 10px; background: var(--accent); color: var(--accent-ink); border: 1px solid var(--accent); border-radius: var(--r); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; }
+
+/* the filter bar on the Reports page and country pages: in the page's flow, above the year chart */
+.map-bar.is-page { position: relative; z-index: 4; top: auto; left: auto; right: auto; transform: none; width: auto; max-width: none; align-items: stretch; gap: 12px; margin: 28px 0 10px; }
+.map-bar.is-page .map-bar-main { display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px; }
+.map-bar.is-page .map-bar-fields { order: -1; display: flex; flex: 1 1 560px; flex-wrap: wrap; justify-content: flex-start; width: auto; }
+.map-bar.is-page .map-search-box { flex: 1 1 320px; min-height: 40px; }
+.map-bar.is-page select { flex: 0 1 220px; min-height: 40px; }
+.map-bar.is-page .add-filter, .map-bar.is-page .range-switch button { min-height: 40px; }
+.map-bar.is-page :is(.range-switch, .map-search-box, select) { box-shadow: none; }
+.map-bar.is-page .map-bar-toggle { display: none; }
+.map-bar.is-page .map-legend { gap: 4px 6px; }
+.map-bar.is-page .map-legend .type { padding: 5px 8px; border-color: var(--border); font-size: 11px; }
+.map-bar.is-page .map-legend .type:hover { border-color: var(--text-2); }
+.map-bar.is-page.types-on .map-legend .type[aria-pressed="false"] { opacity: .45; }
+.map-bar.is-page .map-legend .type[aria-pressed="true"] { border-color: var(--text); }
+.map-bar.is-page .map-active { justify-content: flex-start; box-shadow: none; background: var(--surface); -webkit-backdrop-filter: none; backdrop-filter: none; }
+.map-bar.is-page .custom-period { left: 0; right: auto; }
+.map-bar.is-page .fig-popover { left: auto; right: 0; }
+@media (max-width: 600px) { .map-bar.is-page .fig-popover { left: 0; right: auto; } .map-bar.is-page select { flex: 1 1 100%; } }
 
 /* the zoom-to-map button at the end of a report's first line in the map's side pane: shown on hover */
 .zoom-to { display: inline-grid; place-items: center; width: 20px; height: 20px; margin-left: auto; padding: 0; border: 1px solid var(--border); border-radius: var(--r); background: var(--surface); color: var(--text-2); cursor: pointer; opacity: 0; transition: opacity .12s; }
