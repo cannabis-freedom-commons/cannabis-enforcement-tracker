@@ -32,6 +32,11 @@ sources:
     publisher: Vikatan
     date: 2026-11-04
     language: ta
+  - title: 'பாசிப்பட்டினம் கடற்கரை பகுதியில் போலீசார் அதிரடி சோதனை: 19.8 கிலோ போதைப்பொருள் பறிமுதல்'
+    url: https://www.etvbharat.com/ta/state/around-20-kg-hashish-ganja-seized-and-one-person-arrested-in-ramanathapuram-tns26110401196
+    publisher: ETV Bharat Tamil Nadu
+    date: 2026-11-04
+    language: ta
 open_questions:
   - The article says the arrest happened “on Tuesday” and was published on 3 November 2026; no separate incident date is given, so the publication date is used as the incident date.
   - Only one accessible source for this event was found after searching in English.
@@ -43,6 +48,10 @@ open_questions:
   - The headline says 198 kg but the body twice states 2 kg plus 17.8 kg totalling 19.8 kg; the existing report's 19.8 kg figure is retained.
   - Vikatan was published on 4 November 2026 about a Tuesday interception; the existing report's 3 November 2026 incident date is retained.
   - The third page photo captioned as an SP investigation interview does not clearly show the seizure or arrest and is not added as media.
+  - The article was published on 4 November 2026 about a Tuesday 3 November interception; the existing report's 3 November 2026 incident date is retained.
+  - The new account spells the inspector as David Ravirajan while the existing report uses David Raviraj, and transliterates the native place as Thalir Marungur versus Thalir Marungoor for the same Tamil name.
+  - This account publishes no drug valuation, so no value figure is added or changed.
+  - The page carries two images captioned only as seized ganja and arrested Mano with no credit or depiction details, so no media entry is added.
 media:
   - kind: photo
     url: https://www.vikatan.com/crime/198-kg-of-cannabis-gum-seized-for-smuggling-to-sri-lanka
@@ -57,22 +66,24 @@ media:
 ---
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
-[@1] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@1]
+[@1,4] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@1,4]
 
 Acting on a tip-off, a special team led by Police Inspector David Raviraj went
 to the coastal area near Pasiyamman Temple at Pasipattinam where suspected
-illegal drug activity was taking place. [@1,3] The team intercepted Mano and
-recovered 2 kg of hashish from his possession. [@1,3] Questioning led police to
+illegal drug activity was taking place. [@1,3,4] The team intercepted Mano and
+recovered 2 kg of hashish from his possession. [@1,3,4] Questioning led police to
 his residence, where another 17.8 kg was found, bringing the total seizure to
-19.8 kg of hashish. [@1,3]
+19.8 kg of hashish. [@1,3,4]
 
 Investigators described Mano as a repeat offender with multiple pending cases
 under the Narcotic Drugs and Psychotropic Substances Act, including a Thondi
 police station case from 2025. [@1] Ramanathapuram Superintendent of Police G.
 Chandeesh said Mano had been evading arrest and living as a fugitive before the
 operation. [@1] The accused was taken into custody and brought to the S.P.
-Pattinam police station following legal protocols. [@1]
+Pattinam police station following legal protocols. [@1,4]
 
-Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@2]
+Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@2,4]
 
 Mano is the son of Anthony Xavier. [@3] Police said the hashish had been stocked for smuggling to Sri Lanka. [@3]
+
+Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@4] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@4]
