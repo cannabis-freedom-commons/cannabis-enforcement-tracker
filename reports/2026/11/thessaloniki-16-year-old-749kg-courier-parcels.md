@@ -46,6 +46,11 @@ sources:
     publisher: Thestival
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: Συνελήφθη 16χρονος έμπορος ναρκωτικών'
+    url: https://www.alphatv.gr/koinonia/thessaloniki-sinelifthi-16xronos-emporos-narkotikon/
+    publisher: AlphaTV
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -57,17 +62,17 @@ open_questions:
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5] He is accused of violating drugs and
 foreigners legislation. [@1,3] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3]
+[@2,4,5] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
 addressed to the boy. [@1,3] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3] They also seized two mobile phones. [@1]
+hydroponic cannabis. [@1,3,5] They also seized two mobile phones. [@1,5]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
