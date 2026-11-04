@@ -33,6 +33,11 @@ sources:
     publisher: Gapim.uz
     date: 2026-09-25
     language: en
+  - title: Около 95 кг гашиша обнаружили в поле в Кибрае. Стоимость партии могла превысить $10 млн
+    url: https://www.gazeta.uz/ru/2026/09/25/drugs/
+    publisher: Gazeta.uz
+    date: 2026-09-25
+    language: ru
 media:
   - kind: photo
     url: https://www.gazeta.uz/oz/2026/09/25/drugs/
@@ -50,10 +55,10 @@ open_questions:
   - The detained people were not named and no court outcome is reported.
 ---
 
-Officers of the Customs Committee's anti-smuggling department, working with State Security Service officers, found nearly 95 kg of hashish in Qibray district of Tashkent region, committee press secretary Husan Tangriyev told Gazeta. [@1,2]
+Officers of the Customs Committee's anti-smuggling department, working with State Security Service officers, found nearly 95 kg of hashish in Qibray district of Tashkent region, committee press secretary Husan Tangriyev told Gazeta. [@1,2,3]
 
-Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1]
+Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2,3] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1]
 
 Eight days later, two people who arrived to collect the narcotics were identified and detained. [@1,2] During the investigation, the person who had ordered the drugs hidden there and later collected was also identified and detained; he had previously faced a criminal case opened by the Customs Committee over petrol smuggling. [@1]
 
-A criminal case was opened over the large consignment. [@1,2] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2]
+A criminal case was opened over the large consignment. [@1,2,3] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2,3]
