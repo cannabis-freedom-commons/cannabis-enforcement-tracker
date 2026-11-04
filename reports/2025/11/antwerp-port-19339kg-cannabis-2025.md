@@ -25,6 +25,7 @@ open_questions:
   - CNNBS does not mention the accompanying nearly 55 tonnes of cocaine in the cited existing sentence.
   - Two Belgian-customs photos of February containers via fireplace briquettes and gutted jukeboxes lack a year and weights, so they cannot be tied to the 2025 annual total, and no media entry is added.
   - The RTL page carries a BELGA-credited photo without a descriptive caption, so it cannot be confirmed to show this seizure event and no media entry is added.
+  - The RTBF feature puts the 2025 all-borders cannabis total at more than 27 tonnes, a wider scope than the Antwerp-only 19,339 kg total in this report.
 sources:
   - title: Nearly 20 tonnes of marijuana seized at Port of Antwerp in 2025
     url: https://eumorningpost.com/news/4969-nearly-20-tonnes-of-marijuana-seized-at-port-of-antwerp-in-2025
@@ -45,13 +46,18 @@ sources:
     publisher: RTL Info
     date: 2025-11-03
     language: fr
+  - title: 'USA, Canada, Thaïlande : le cannabis venu de l’étranger inonde la Belgique'
+    url: https://www.rtbf.be/article/usa-canada-thailande-le-cannabis-venu-de-l-etranger-inonde-la-belgique-11638683
+    publisher: RTBF Actus
+    date: 2025-11-28
+    language: fr
 ---
 
 Belgian customs intercepted 19,339 kg of cannabis at the Port of Antwerp
 between January and early November 2025, a record that dwarfed the 336 kg
 seized in all of 2024. [@1,4] Officers made the seizures across 13 operations,
 four of them involving hauls of more than three tonnes each; twelve of the
-shipments came from Canada and one from Thailand. [@1,4] Customs figures later
+shipments came from Canada and one from Thailand. [@1,4,5] Customs figures later
 put the full-year 2025 marijuana total at 21 tonnes, alongside nearly 55
 tonnes of cocaine. [@2,3]
 
