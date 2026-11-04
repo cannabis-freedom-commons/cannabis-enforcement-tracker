@@ -22,6 +22,9 @@ open_questions:
   - Only the driver's assistant was present; he escaped on foot and no arrests were reported in the accounts opened.
   - Cameroon customs later burned the sacks on 7 August 2025; the seizure report covers the June interception only.
   - The intended destination of the load was not stated.
+  - The article was published on 30 June 2025 and dates the interception only to Saturday, implying 28 June 2025 with no separate time of day given.
+  - The same article mentions a 47 kg cannabis seizure at Ekok as context; that is a separate event already covered elsewhere and is left out here.
+  - The page image captioned only as chanvre indien is not shown to depict this Bandjoun seizure, so no media entry is included.
 sources:
   - title: Customs officers seize a significant amount of Cannabis in Bandjoun
     url: https://www.lebledparle.com/en/customs-officers-seize-a-significant-amount-of-cannabis-in-bandjoun/
@@ -32,6 +35,11 @@ sources:
     publisher: Douanes Camerounaises
     date: 2025-08-07
     language: fr
+  - title: 'Chanvre indien Cameroun : saisie choc 2,4 tonnes Bandjoun'
+    url: https://www.237online.com/chanvre-indien-cameroun-saisie-choc-24-tonnes-bandjoun/
+    publisher: 237online.com
+    date: 2025-06-30
+    language: fr
 media:
   - kind: photo
     url: https://www.lebledparle.com/en/customs-officers-seize-a-significant-amount-of-cannabis-in-bandjoun/
@@ -41,10 +49,10 @@ media:
 ---
 
 Cameroon customs intercepted 2,400 kg of cannabis during an early-morning patrol on 28 June 2025
-near the Bandjoun Museum of Arts on the Bafoussam–Bandjoun road. [@1] Twenty-four sacks of 100 kg
-each were hidden under planks and fresh produce in a Mercedes 814 truck. [@1]
+near the Bandjoun Museum of Arts on the Bafoussam–Bandjoun road. [@1,3] Twenty-four sacks of 100 kg
+each were hidden under planks and fresh produce in a Mercedes 814 truck. [@1,3]
 
-Only the driver's assistant was in the cab; he ran away when the patrol stopped the vehicle. [@1]
+Only the driver's assistant was in the cab; he ran away when the patrol stopped the vehicle. [@1,3]
 Officers secured the truck and its cargo while investigations continued to trace those behind the
 shipment. [@1]
 
@@ -52,3 +60,5 @@ Cameroon customs described the June seizure as a record for the year when the sa
 in a formal burning ceremony on 7 August 2025. [@2]
 
 ---
+
+The mixed patrol acted on intelligence, according to customs services. [@3]
