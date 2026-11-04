@@ -30,6 +30,11 @@ sources:
     publisher: Eisamay Online
     date: 2026-11-03
     language: bn
+  - title: लालगढ़ में गांजा तस्करी के आरोप में खड़गपुर की महिला गिरफ्तार
+    url: https://vocaltv.in/crime/woman-arrested-ganja-jhargramphp/cid19488408.htm
+    publisher: Vocal TV
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate calendar date for the arrest beyond Tuesday evening; 3 November 2026, the publication date and also a Tuesday, is used as the incident date.
   - The ganja weight is described as about 3 kg, recorded as 3 kg.
@@ -38,20 +43,25 @@ open_questions:
   - Only one accessible source for this event was found after searching in English and Bengali.
   - The same article reports a separate Sunday arrest of Satyajit Biswas with 12.6 kg of ganja near Jhargram town, a different event left out here.
   - 'Left out, as its quotation was not found in Eisamay Online: District police said she would be produced in Jhargram court on Wednesday.'
+  - VocalTV published on 4 November 2026 but describes the arrest as Tuesday late evening; 3 November 2026, also a Tuesday, is retained as the incident date.
+  - VocalTV spells the officers as Rishabh Rajdeep and Sanjeev Ghosh while the existing report uses Rishabhraj Deb and Sanjib Ghosh; they are treated as transliteration variants of the same officials.
+  - VocalTV calls the spot Chhota Baita in Lalgarh police-station area while the existing report shortens it to Baitha; they are treated as the same locality.
+  - The page image is captioned only with the headline and carries no credit establishing it shows this seizure, so no media entry is included.
 ---
 
-Lalgarh police arrested a woman on suspicion of ganja smuggling. [@1] The
-incident took place in Baitha in Jhargram. [@1] Police identified her as Tara
-Vishal, a resident of Kalaikunda in Kharagpur, Paschim Medinipur district. [@1]
+Lalgarh police arrested a woman on suspicion of ganja smuggling. [@1,2] The
+incident took place in Baitha in Jhargram. [@1,2] Police identified her as Tara
+Vishal, a resident of Kalaikunda in Kharagpur, Paschim Medinipur district. [@1,2]
 Officers noticed her walking along the road at Baitha on Tuesday evening after
-she got off a bus carrying a bag and found her movements suspicious. [@1]
+she got off a bus carrying a bag and found her movements suspicious. [@1,2]
 
-The search yielded about 3 kg of ganja and 30,000 rupees in cash. [@1] Police
+The search yielded about 3 kg of ganja and 30,000 rupees in cash. [@1,2] Police
 allege she travelled between places by bus with ganja in her bag and delivered
-it after reaching specific areas. [@1]
+it after reaching specific areas. [@1,2]
 
 Police registered a case against her under the relevant sections of the NDPS
 Act. [@1] Jhargram SDPO Rishabhraj Deb, Lalgarh inspector-in-charge Sanjib Ghosh
 and Binpur-1 joint BDO Sumanta Saha visited the scene after learning of the
-incident. [@1] Police planned to seek 14 days of custody for questioning. [@1]
+incident. [@1,2] Police planned to seek 14 days of custody for questioning. [@1,2]
 
+Police said the arrested woman would be produced in Jhargram court on Wednesday. [@2] Police said they are checking whether any other person or gang was involved with the woman in the ganja-smuggling case. [@2]
