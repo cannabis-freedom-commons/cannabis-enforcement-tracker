@@ -86,6 +86,11 @@ sources:
     publisher: FM91 Traffic Pro
     date: 2026-11-01
     language: th
+  - title: 曼谷仓库查获15名外籍劳工 泰方指涉无证加工大麻
+    url: https://news.qq.com/rain/a/20261101A08WT400
+    publisher: 泰国中文社
+    date: 2026-11-01
+    language: zh
 open_questions:
   - No cannabis weight or plant count was reported, and the amounts of ice and yaba seized were not quantified.
   - The detainees’ names and the outcomes of the criminal and immigration proceedings are not reported.
@@ -107,6 +112,11 @@ open_questions:
   - The FM91 copy dates the ONCB-led operation to 30 October 2026, while the existing report dates the warehouse search to 31 October 2026.
   - The FM91/ONCB account counts 15 foreign workers inside the factory, while the police account in the existing report records 14 foreign nationals arrested, with no explanation of the difference.
   - The FM91 page carries one image with only the article title as caption and no credit, so whether it shows this raid is not established.
+  - The Chinese account counts 15 foreign workers while earlier Thai police accounts reported 14 arrested, a difference already noted in the existing report and not explained.
+  - The Chinese account's own breakdown lists two Vietnamese drug suspects plus 12 other Vietnamese and Myanmar nationals, which totals 14 rather than the stated 15.
+  - The Chinese account describes the Category 1 drugs as methamphetamine (ice) and ecstasy-type drugs, while the existing report describes yaba and crystal meth with scales and packaging; no quantities were published for either.
+  - The Chinese page was published on 1 November 2026 while the existing report dates the raid to 31 October 2026, and the Chinese account gives no separate operation date.
+  - The page carries eight images captioned only as 图片 with no credit, so whether they show this raid cannot be established and no media entry is added.
 ---
 
 Police arrested 14 foreign nationals after searching a warehouse used to store
@@ -116,13 +126,13 @@ conducted the search with Thailand’s Office of the Narcotics Control Board and
 Nimit Mai Police Station. [@1]
 
 Two detainees were Vietnamese nationals, and one was wanted by Vietnamese
-authorities under an arrest warrant in a drug-related case. [@2]
+authorities under an arrest warrant in a drug-related case. [@2,9]
 
 Police sent all 14 detainees and the seized items to Nimit Mai investigators for
-legal proceedings. [@2] Officials said they were continuing to trace the
+legal proceedings. [@2,9] Officials said they were continuing to trace the
 warehouse’s financiers and other people involved, and to investigate whether
-Thai nationals had been used as nominee shareholders for foreign nationals. [@2]
+Thai nationals had been used as nominee shareholders for foreign nationals. [@2,9]
 
-The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3,5,7,8] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3,5,7,8] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3,5,6,7,8] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4,5,6,7,8] It said a Vietnamese financier and a Thai national owned the business. [@4,5,6]
+The operation ran through the Mekong six-country coordination centre (SMCC), with the board working alongside Vietnam's drug crime police. [@3,5,7,8,9] When they detained the two Vietnamese suspects at a hideout, officers seized yaba (methamphetamine pills), crystal meth, scales and packaging equipment. [@3,5,7,8] The company in Khlong Sam Wa was being used to produce cannabis flower buds without a licence. [@3,5,6,7,8,9] The board counted 15 foreign workers inside the factory, nine Vietnamese and six Myanmar nationals. [@4,5,6,7,8,9] It said a Vietnamese financier and a Thai national owned the business. [@4,5,6,9]
 
-The board said officers arrested the people running the factory on charges of selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act. [@5,6]
+The board said officers arrested the people running the factory on charges of selling or processing controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai Traditional Medicine Protection and Promotion Act. [@5,6,9]
