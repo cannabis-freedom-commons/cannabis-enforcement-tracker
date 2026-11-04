@@ -14,6 +14,12 @@ summary: >-
   Nigeria's NDLEA said it intercepted more than 2.3 tonnes of assorted illicit drugs, including synthetic cannabis known as Colorado, in a nationwide roundup, and destroyed 4,832.56 kg of skunk on farms in Edo State. It named 17 people arrested, among them a real estate agent who collected a UK-linked consignment at Lagos airport and a 70-year-old woman held with 110 bags of cannabis.
 figures:
   arrested: 17
+media:
+  - kind: photo
+    url: https://ndlea.gov.ng/blog/ndlea-intercepts-colos-shipments-from-uk-uncovers-opioids-in-loaves-of-bread-speakers
+    media_url: https://ndlea.gov.ng/uploads/images/2026/09/20260913105033-A4twmV-whatsapp-image-2026-09-13-at-002036.jpeg
+    publisher: National Drug Law Enforcement Agency
+    caption: NDLEA handout photograph identifying Paul Ogbuwala and showing the 186 kg skunk recovery in Akure on 9 September 2026.
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [colorado, skunk, edo, lagos, ndlea]
@@ -30,6 +36,10 @@ sources:
     url: https://www.thisdaylive.com/2026/09/13/ndlea-busts-uk-colos-pipeline-seizes-2-3-tonnes-of-drugs/
     publisher: THISDAYLIVE
     date: 2026-09-13
+  - title: NDLEA intercepts colos shipments from UK, uncovers opioids in loaves of bread, speakers
+    url: https://ndlea.gov.ng/blog/ndlea-intercepts-colos-shipments-from-uk-uncovers-opioids-in-loaves-of-bread-speakers
+    publisher: National Drug Law Enforcement Agency
+    date: 2026-09-13
 open_questions:
   - The statement was issued on Sunday 13 September 2026; the operations it describes took place on 9 and 11 September, so the incident date is the announcement date.
   - Vanguard reported operations in nine states; The Guardian listed eight (Lagos, Ondo, Edo, Delta, Kaduna, Plateau, Bayelsa and Kano).
@@ -38,7 +48,6 @@ open_questions:
   - 'No single arrest total was published: 17 is the number of people named as arrested in the statement, while The Guardian said at least seven were held over the seized consignments.'
   - No charges, court dates or outcomes were reported for any of the suspects.
   - NDLEA intercepts Colorado from UK, uncovers opioids in bread, speakers (The Guardian Nigeria) could not be opened again to check its quotations (The browser page answered HTTP 403); what it says is as the AI read it.
-  - The page carries no captioned event photograph that can be shown to depict this seizure, so no media entry is included.
 ---
 
 A real estate agent, Abideen Jide Salami, was arrested on 9 September 2026 after
@@ -65,8 +74,8 @@ skunk, on farms in Usen, Igwe-Oke and Ogboha forests. [@1,3] The operations
 covered Ovia South-West, Owan East and Owan West local government areas, and
 Sunday Segun, 39, was arrested on 11 September. [@1,3] In Akure, Ondo State,
 officers raided a house on Oke-Iya, Ijoka Road on 9 September and found 186 kg
-of skunk in the boot of a Toyota Avalon. [@1,3] Paul Ogbuwala, 58, was arrested in
-connection with the seizure. [@1,3] Hannah Michael was arrested at Gonin Gora in
+of skunk in the boot of a Toyota Avalon. [@1,3,4] Paul Ogbuwala, 58, was arrested in
+connection with the seizure. [@1,3,4] Hannah Michael was arrested at Gonin Gora in
 Kaduna State with 369.6 kg of cannabis. [@2,3] Four suspects, including
 70-year-old Godwoman Gboriye, were arrested at Ovom in Yenagoa, Bayelsa State,
 with 110 bags weighing 876 kg. [@1,3]
