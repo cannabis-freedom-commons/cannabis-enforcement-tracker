@@ -40,6 +40,11 @@ sources:
     publisher: Bangladesh Pratidin
     date: 2026-10-30
     language: bn
+  - title: পাটগ্রাম সীমান্তে মোবাইল ডিসপ্লে, গাঁজা ও মদ জব্দ
+    url: https://dailyadin.com/country/28416
+    publisher: The Daily Adin
+    date: 2026-10-30
+    language: bn
 open_questions:
   - The press release is dated Friday 30 October 2026, but neither outlet gives a separate time for the patrols themselves.
   - No one was detained at the mobile-display site, and the cannabis and liquor were described as ownerless, but neither report says whether anyone was later identified or charged.
@@ -56,22 +61,22 @@ open_questions:
 A special patrol from the Singimari border outpost of Teesta Battalion (61 BGB),
 part of Border Guard Bangladesh, seized 5 kilograms of Indian cannabis and 50
 bottles of Indian liquor at Kanipara, about 350 yards inside Bangladesh, and
-found the goods ownerless. [@1,3] Probashir Diganta, citing the same battalion
+found the goods ownerless. [@1,3,4] Probashir Diganta, citing the same battalion
 press release, reported the same ownerless seizure of 5 kilograms of Indian
 cannabis and 50 bottles of Indian liquor at Kanipara. [@2] In a separate sweep,
 members of the battalion's Payshattibari border outpost seized 467 Indian
 mobile-phone displays about 500 yards inside the country at Payshattibari in
-Sreerampur union, Patgram upazila, and detained no one. [@1,3]
+Sreerampur union, Patgram upazila, and detained no one. [@1,3,4]
 
 The two operations were in Hatibandha's Singimari area and Patgram's
 Payshattibari, both in Lalmonirhat district on the Indian border. [@1] Teesta
-Battalion announced the seizures in a press release on Friday 30 October. [@2,3]
+Battalion announced the seizures in a press release on Friday 30 October. [@2,3,4]
 BGB put the combined seizure value of the displays, cannabis and liquor at 28
-lakh 94 thousand 500 taka (2,894,500 taka). [@1,3]
+lakh 94 thousand 500 taka (2,894,500 taka). [@1,3,4]
 
 Lieutenant Colonel Muhammad Shahinul Islam, psc, Engineers, commanding officer
 of Teesta Battalion-61 BGB, said the force follows a zero-tolerance policy
-against smuggling, drug infiltration, illegal trade and other border crime. [@1,3]
+against smuggling, drug infiltration, illegal trade and other border crime. [@1,3,4]
 He said intelligence work, regular patrols and special operations had been
 stepped up to protect the border, stop smuggling and safeguard state interests,
 and that the battalion's operations would continue. [@2]
