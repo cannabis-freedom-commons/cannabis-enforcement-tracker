@@ -36,6 +36,11 @@ sources:
     publisher: Perspectiva Sur
     date: 2026-10-30
     language: es
+  - title: Seis personas quedaron detenidas tras 25 allanamientos en un barrio
+    url: https://impactocastex.com.ar/policiales/17601/seis-personas-quedaron-detenidas-tras-25-allanamientos-en-un-barrio
+    publisher: Impacto Castex
+    date: 2026-10-31
+    language: es
 open_questions:
   - The 21.5 grams of cocaine and 19.5 grams of pasta base are excluded from the cannabis figures because they are not cannabis.
   - Only one of the six detentions occurred at the house where the 39 cannabis plants were found, and only two detentions were recorded under the drug law.
@@ -43,18 +48,20 @@ open_questions:
   - The report uses 29 October 2026 as the incident date from the second account; the submitted article gives only its 2 November 2026 publication date.
   - Whether the Canal 26 lead photo shows the cannabis seizure or the motorcycle parts could not be established from its caption alone.
   - 'Left out, as its quotation was not found in Perspectiva Sur: Four of the six detentions were attributed to the aggravated-robbery investigation and two to offences under drug law 23.737.'
+  - The Impacto Castex article gives only its 31 October 2026 publication date and no separate date for the raids, so the existing report's 29 October 2026 incident date is unchanged.
+  - The page's only image is a February 2024 file photo of a police van reused from another outlet, so no media entry for this event is included.
 ---
 
 Police carried out 25 raids in Barrio Acuba in Villa Diamante and Villa de los
 Industriales in Lanús, detaining six people and seizing numerous motorcycle
-parts. [@1] The raids were carried out on 29 October under five cases involving
+parts. [@1,3] The raids were carried out on 29 October under five cases involving
 aggravated threats, aggravated armed robbery, attempted homicide and drug
 dealing. [@2] Officers detained a 43-year-old man at the house on Catamarca al
-2700 where the cannabis was found. [@2]
+2700 where the cannabis was found. [@2,3]
 
 At that Catamarca address officers seized 39 marijuana plants together with 21.5
-grams of cocaine. [@2] At a house on Olazábal al 5400 officers seized 19.5 grams
-of pasta base and detained a 32-year-old man. [@2] Across the operation police
+grams of cocaine. [@2,3] At a house on Olazábal al 5400 officers seized 19.5 grams
+of pasta base and detained a 32-year-old man. [@2,3] Across the operation police
 seized six motorcycles, five adulterated engines, 21 wheels and a large quantity
 of parts. [@1] The investigation was run by the Tactical Operations Groups of
 Lanús police stations 5 and 7 and deployed in Barrio Acuba and Villa de los
@@ -66,3 +73,4 @@ were to be transferred to the judicial offices on Friday 30 October. [@1] Canal
 26 reported that the identities of those detained and the specific charges had
 not been disclosed. [@1]
 
+Police said four of the six detentions were in a robbery investigation and two were in a drug investigation. [@3] The raids covered 24 homes in Acuba and one in Villa de los Industriales. [@3] In another house police seized a mobile phone and video-recording equipment, and the person identified there was not counted among the six detained. [@3]
