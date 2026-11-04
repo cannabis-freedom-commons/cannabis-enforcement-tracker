@@ -32,6 +32,9 @@ sources:
     url: https://bitwaves.com.au/news-article.php?slug=two-charged-after-major-drug-and-cash-seizure-at-highgate
     publisher: BitWaves
     date: 2026-09-26
+  - title: Couple’s win after cops uncover alleged drug ring in posh suburb raid
+    url: https://www.weeklytimesnow.com.au/news/south-australia/jonathon-ranieri-and-melissa-roylance-granted-home-detention-bail-after-alleged-highgate-drug-bust/news-story/a95c11821671ccaab165cf0ca8b90836
+    publisher: The Weekly Times
 open_questions:
   - The submitted Adelaide Now page showed only a paywall preview, so the names and home-detention bail outcome in its URL could not be verified from the opened text.
   - The 700 grams of cannabis and the other drug weights and cash are police allegations, with no independent weighing reported.
@@ -57,5 +60,4 @@ an investigation into alleged drug trafficking. [@3] Police seized the vehicles,
 jewellery and watches under South Australia's Criminal Assets Confiscations Act
 2005. [@2] An engaged Adelaide couple were separately reported to have had a
 court win after police allegedly seized cocaine, ketamine, MDMA, cannabis, cash
-and luxury assets from their home. [@1]
-
+and luxury assets from their home. [@1,4]
