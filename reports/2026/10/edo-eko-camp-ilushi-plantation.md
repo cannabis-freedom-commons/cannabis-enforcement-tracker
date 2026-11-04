@@ -94,6 +94,10 @@ sources:
     url: https://www.thecable.ng/ndlea-arrests-two-europe-bound-businessmen-who-excreted-200-wraps-of-cocaine-at-abuja-airport/
     publisher: TheCable
     date: 2026-11-01
+  - title: Two Europe-bound Nigerians Excrete 200 Cocaine Wraps At Abuja Airport, NDLEA Arrests Them
+    url: https://platformtimes.com.ng/two-europe-bound-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-ndlea-arrests-them/
+    publisher: Platform Times
+    date: 2026-11-01
 media:
   - kind: photo
     url: https://thisday.com.ng/two-europe-bound-businessmen-excrete-200-wraps-of-cocaine-at-abuja-airport/
@@ -102,8 +106,8 @@ media:
     caption: Lead photo on the source page for this NDLEA operation roundup
 ---
 
-NDLEA operatives supported by soldiers raided Eko Camp in Ilushi, in Esan South East Local Government Area of Edo State, on 28 October 2026. [@1,2,3,4,5,6,8,10,11,12,13,15,16] During the operation they destroyed a cannabis plantation measuring 1.646 hectares, which the agency said had an estimated yield of 4,115.53 kilograms. [@1,2,3,4,6,7,8,11,13,14,16]
+NDLEA operatives supported by soldiers raided Eko Camp in Ilushi, in Esan South East Local Government Area of Edo State, on 28 October 2026. [@1,2,3,4,5,6,8,10,11,12,13,15,16,17] During the operation they destroyed a cannabis plantation measuring 1.646 hectares, which the agency said had an estimated yield of 4,115.53 kilograms. [@1,2,3,4,6,7,8,11,13,14,16,17]
 
-A 50-year-old woman, Christiana Uboi, was arrested at the camp with 301 kilograms of processed cannabis, while another 176 kilograms was recovered during the raid. [@1,2,3,4,5,6,8,9,10,11,12,15,16] The two seizures together amount to 477 kilograms of processed cannabis. [@1,2]
+A 50-year-old woman, Christiana Uboi, was arrested at the camp with 301 kilograms of processed cannabis, while another 176 kilograms was recovered during the raid. [@1,2,3,4,5,6,8,9,10,11,12,15,16,17] The two seizures together amount to 477 kilograms of processed cannabis. [@1,2]
 
 The Edo raid was one of several operations across seven states announced by NDLEA's Director of Media and Advocacy, Femi Babafemi, in a statement on 1 November 2026. [@1,2] This report covers only the Eko Camp cannabis raid; the cocaine, ammunition and other-drug seizures in the same roundup are separate events left out here. [@1,2]

@@ -110,6 +110,10 @@ sources:
     url: https://www.thecable.ng/ndlea-arrests-two-europe-bound-businessmen-who-excreted-200-wraps-of-cocaine-at-abuja-airport/
     publisher: TheCable
     date: 2026-11-01
+  - title: Two Europe-bound Nigerians Excrete 200 Cocaine Wraps At Abuja Airport, NDLEA Arrests Them
+    url: https://platformtimes.com.ng/two-europe-bound-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-ndlea-arrests-them/
+    publisher: Platform Times
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -127,7 +131,7 @@ open_questions:
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 
