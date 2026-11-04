@@ -49,6 +49,11 @@ sources:
     publisher: TrikalaVoice
     date: 2026-11-03
     language: el
+  - title: 18χρονη συνελήφθη στα Τρίκαλα με κάνναβη από την ομάδα ΔΙ.ΑΣ.
+    url: https://www.energospolitis.gr/trikala-18xronh-sullhpsh-kannabh/
+    publisher: Energospolitis
+    date: 2026-11-02
+    language: el
 open_questions:
   - No weight was published for the seized cannabis beyond describing it as a small amount.
   - No charges, custody status or court outcome were reported for the cannabis arrest.
@@ -61,9 +66,9 @@ open_questions:
 
 On the evening of 1 November 2026, officers of the Trikala DIAS
 motorcycle-police unit arrested an 18-year-old Greek woman in Trikala. [@1,5,6] She
-was caught possessing a small amount of dried, unprocessed cannabis. [@1,4,5]
-Officers seized the cannabis at the scene. [@2,4,5] Police handled the 18-year-old's
-arrest as a violation of narcotics legislation. [@2,4]
+was caught possessing a small amount of dried, unprocessed cannabis. [@1,4,5,7]
+Officers seized the cannabis at the scene. [@2,4,5,7] Police handled the 18-year-old's
+arrest as a violation of narcotics legislation. [@2,4,7]
 
 On the morning of the same day in Trikala, police arrested a minor Greek girl,
 and the Trikala Subdirectorate for the Prosecution and Investigation of Crimes
@@ -73,5 +78,5 @@ earlier entered a shop and entertainment venue by showing a false identification
 document and had consumed alcohol there. [@1,6]
 
 The cannabis arrest occurred on the evening of Sunday, 1 November 2026, in
-Trikala. [@2,4] The person arrested in that cannabis case was 18 years old and the
+Trikala. [@2,4,7] The person arrested in that cannabis case was 18 years old and the
 substance seized was described as a small amount of dried raw cannabis. [@3]
