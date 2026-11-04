@@ -27,22 +27,35 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 18 किलो गांजा संग 2 गिरफ्तार, पुलिस ने किया जब्त
+    url: https://www.prabhatkhabar.com/state/bihar/supaul/bhimnagar-police-arrest-two-cannabis-smugglers
+    publisher: Prabhat Khabar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article says the interception happened on Wednesday and was published on Wednesday 4 November 2026, with no separate time given, so the publication date is used as the incident date.
   - No charges, custody ruling or court outcome beyond registration of a case and further legal action were reported.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The page carries photos and a video, but their captions and alt text do not identify what they show, so no media entry is included.
+  - The new account places the interception at Raghunathpur Ward No. 4, while the existing report places it near the Baratpur-Kataiya border; the existing place is retained.
+  - Nepal as the consignment's origin is reported only as the tip-off that prompted the operation; the actual source, destination and wider network remain under investigation.
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/supaul/bhimnagar-police-arrest-two-cannabis-smugglers
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/04/1793795128200/sizes/04sau_m_27_04112026_64-eca271-webp.webp
+    publisher: Prabhat Khabar
+    caption: 'Police photo of the seized ganja and Bhimnagar police station. Photo: Prabhat Khabar Network'
 ---
 
 Bhimnagar police in Supaul district arrested two alleged smugglers with 18
-kilograms of ganja on Wednesday. [@1] The two men were identified as Amarjit
-Kumar and Mithun Kumar, both residents of Khagaria district. [@1] Officers
+kilograms of ganja on Wednesday. [@1,2] The two men were identified as Amarjit
+Kumar and Mithun Kumar, both residents of Khagaria district. [@1,2] Officers
 chased the two motorcycle riders after a tip about ganja smuggling and
-surrounded them near the Baratpur-Kataiya border. [@1]
+surrounded them near the Baratpur-Kataiya border. [@1,2]
 
 Police said they had received a secret tip that ganja was being smuggled by
 motorcycle. [@1] A search of the pair recovered 18 kilograms of ganja, which
-police seized along with the Yamaha motorcycle used for smuggling. [@1] Police
+police seized along with the Yamaha motorcycle used for smuggling. [@1,2] Police
 estimated the seized ganja's value at about 720,000 rupees, at 40,000 rupees per
 kilogram. [@1]
 
@@ -53,5 +66,6 @@ were completed in the circle officer's presence before the accused, ganja and
 motorcycle were taken to the police station. [@1] Police said the two men are
 being questioned to establish where the ganja came from, to whom it was to be
 supplied and who else is linked to the trade, and that a case has been
-registered for further legal action. [@1]
+registered for further legal action. [@1,2]
 
+The arrested men were 29-year-old Mithun Kumar and 23-year-old Amarjeet Kumar of Ward No. 18 in the Mansi police station area. [@2] Police waited at Raghunathpur Ward No. 4 for the suspect motorcycle before attempting to stop it. [@2] Police said they acted on secret information that a ganja consignment would be smuggled from Nepal. [@2]
