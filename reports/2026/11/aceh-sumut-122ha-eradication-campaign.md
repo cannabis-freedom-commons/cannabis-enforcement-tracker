@@ -148,6 +148,11 @@ sources:
     publisher: Metroindo.id
     date: 2026-11-03
     language: id
+  - title: 25 Hektare Ladang Ganja Terungkap di Aceh Utara, 37.500 Batang Dimusnahkan
+    url: https://pujatvaceh.com/25-hektare-ladang-ganja-terungkap-di-aceh-utara-37-500-batang-dimusnahkan/
+    publisher: PUJATV ACEH
+    date: 2026-11-03
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -206,13 +211,17 @@ open_questions:
   - The new account names only Brigjen Kristian Siagian and does not mention BNN eradication deputy Brigjen Adri Irniadi named in the existing report.
   - The page's sole image is captioned as a portrait of Muhammad Asril Siregar, not the fields, plants, seizure or operation, so no media entry is added.
   - The new account gives no plant counts, weights, arrests, charges or court outcomes for the operation.
+  - The second of the two locations making up the 25 hectares is not named; only Gampong Teupin Rusep is identified.
+  - It is unresolved whether the four people secured and three suspects described here restate the 27 October Sawang detentions or are additional detentions in the 2 November follow-up, since the BNN account attributes four suspects to the 27 October 18-hectare operation.
+  - No seized weight, value, suspect ages or court outcome beyond suspect designation was published for the 25-hectare follow-up.
+  - 'The three PujaTV page photos carry only Sumber: (Foto/Saiful Bahri) captions without describing what they show, so no media entry is included.'
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
 [@1,2,13,20] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20] In North Aceh on
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15,16,17,18,20,21] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
 HM. [@1,4,6,9,11,13,19] Investigators designated three of the four as suspects and released HM
@@ -229,11 +238,11 @@ public tip on 29 October about suspected planting at Tor Sihite. [@1,13] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
 in Nagan Raya on 31 October. [@1,9,10,12,13] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
-2 November. [@1,2,3,8,13,14,15,17] Police added about 0.04 hectares uprooted in Bener Meriah and
+2 November. [@1,2,3,5,8,13,14,15,17] Police added about 0.04 hectares uprooted in Bener Meriah and
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6,13]
 
 Police said the eradication was intended to break the narcotics distribution
-chain at its production source. [@1,5,13]
+chain at its production source. [@1,5,13,21]
 
 Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6,9,10,11,12,19] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7,9,10,11,12,13,19] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7]
 
@@ -243,4 +252,6 @@ In the Aceh Timur jurisdiction, officers designated farmer AM as a suspect over 
 
 Officers uprooted the cannabis plants, gathered them at one point and prepared to burn them. [@14,17,18]
 
-The joint team arrived at the location at about 11.00 WIB. [@17,18]
+The joint team arrived at the location at about 11.00 WIB. [@15,17,18]
+
+The 2 November follow-up covered about 25 hectares with an estimated 37,500 cannabis plants. [@21] One of the 25-hectare locations was at Gampong Teupin Rusep in Sawang, Aceh Utara. [@21] The suspects were charged under Article 111 paragraph (2) of Law 35 of 2009 on Narcotics in conjunction with Law 1 of 2023 on the Criminal Code and Law 1 of 2026 on sentencing adjustments. [@21] The charges carry a possible life sentence or five to 20 years imprisonment plus a fine under the legislation. [@21]
