@@ -37,6 +37,10 @@ sources:
     url: https://timesofmalta.com/article/man-20-granted-bail-possession-cannabis-cocaine.1136618
     publisher: Times of Malta
     date: 2026-11-04
+  - title: Teenager among five arrested in St Paul's Bay drug bust
+    url: https://newsbook.com.mt/en/teenager-among-five-arrested-in-st-pauls-bay-drug-bust/
+    publisher: Newsbook
+    date: 2026-11-04
 open_questions:
   - The about 150 sachets held suspected heroin, cocaine and cannabis together, with no separate cannabis count or weight published, so no cannabis quantity is recorded.
   - Monday evening corresponds to 2 November, Tuesday to 3 November and the expected arraignment today to 4 November from the 4 November publication date; no separate calendar dates were given.
@@ -51,6 +55,7 @@ open_questions:
   - The MaltaToday page carries a photo credited only as Police Communications Office without showing it depicts this apartment search or seizure, so no media entry is included.
   - 'The page''s image is captioned only as File photo: Times of Malta and does not depict this raid or seizure, so no media entry is included.'
   - No separate cannabis weight or count for the bailed accused was published, only that the defence called the quantities very small, so no cannabis quantity is recorded.
+  - 'The Newsbook page carries a photo captioned only as Ritratt: Pulizija, which does not establish that it shows this apartment search or seizure, so no media entry is added.'
 media:
   - kind: photo
     url: https://timesofmalta.com/article/five-people-including-teenage-girl-arrested-drug-trafficking.1136595
@@ -60,23 +65,23 @@ media:
 ---
 
 Five people, including a 16-year-old girl, were arrested in St Paul’s Bay in
-connection with suspected drug trafficking. [@1,2,3,4,5] Police carried out the initial
+connection with suspected drug trafficking. [@1,2,3,4,5,6] Police carried out the initial
 operation on Monday evening, searching an apartment after receiving information
-about alleged drug-related activity. [@1,2,3,4] Four people were arrested during the
-raid, a 25-year-old man, two 20-year-old men and the 16-year-old girl. [@1,2,3,4] One
-suspect tried to flee but was immediately apprehended by officers. [@1,2,3,4] A
+about alleged drug-related activity. [@1,2,3,4,6] Four people were arrested during the
+raid, a 25-year-old man, two 20-year-old men and the 16-year-old girl. [@1,2,3,4,6] One
+suspect tried to flee but was immediately apprehended by officers. [@1,2,3,4,6] A
 27-year-old woman was arrested on Tuesday in connection with the same
-investigation, bringing the total detained to five. [@1,2,3,4] The Monday raid and the
+investigation, bringing the total detained to five. [@1,2,3,4,6] The Monday raid and the
 Tuesday arrest were treated as part of the same trafficking investigation. [@1]
 
 During the apartment search police found about 150 sachets containing substances
-suspected to be heroin, cocaine and cannabis. [@1,2,3,4] Officers also seized about
-€5,000 in cash and several mobile phones. [@1,2,3,4]
+suspected to be heroin, cocaine and cannabis. [@1,2,3,4,6] Officers also seized about
+€5,000 in cash and several mobile phones. [@1,2,3,4,6]
 
 Magistrate Renata Farrugia launched an inquiry and appointed experts to
 establish the circumstances of the case. [@1,2,3] Some of those arrested were
 expected to be arraigned at about midday on Wednesday before Magistrate Astrid
-May Grima. [@1,2] Police investigations were still ongoing. [@1]
+May Grima. [@1,2,6] Police investigations were still ongoing. [@1]
 
 The two 20-year-olds were taken to court before Magistrate Astrid May Grima. [@3] Both accused pleaded not guilty. [@3] One of the two accused was kept under arrest. [@3] The court ordered that the name of both accused not be shared. [@3,4]
 
