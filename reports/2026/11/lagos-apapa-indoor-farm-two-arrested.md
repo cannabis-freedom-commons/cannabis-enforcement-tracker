@@ -172,6 +172,10 @@ sources:
     url: https://guardian.ng/news/nigeria/metro/polish-national-nigerian-arrested-over-indoor-cannabis-farm-in-lagos/
     publisher: The Guardian Nigeria
     date: 2026-11-04
+  - title: Lagos Police Bust High-Tech Cannabis Farm In Apapa, Arrest Polish National, Nigerian | Sahara Reporters
+    url: https://saharareporters.com/2026/11/03/lagos-police-bust-high-tech-cannabis-farm-apapa-arrest-polish-national-nigerian
+    publisher: Sahara Reporters
+    date: 2026-11-03
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -220,27 +224,28 @@ open_questions:
   - The submitted page is an AI-compiled aggregation of Channel TV, MobilePunch and Guardian Nigeria accounts rather than original reporting, so its manager-interview wording relies on those underlying accounts.
   - The submitted account dates publication to 4 November 2026 and says the arrests were on Monday; the 2 November incident date relies on that Monday reference and earlier sources.
   - The Guardian Nigeria page carries one photo captioned Suspects, whose caption does not by itself establish that it shows this farm, the suspects or the raid, so no media entry is added.
+  - The page's only image caption repeats the headline and does not by itself establish that it shows this farm, the suspects or the raid, so no media entry is added.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31,32,33] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31,32,33,34] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
-credible intelligence. [@1,7,9,10,11,14,17,18,26,27,28,29,30,31,32] The Lagos State Police Command announced the
+credible intelligence. [@1,7,9,10,11,14,17,18,26,27,28,29,30,31,32,34] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
 Police said the facility was equipped for the cultivation, harvesting and
-processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32] Police had not disclosed
+processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,34] Police had not disclosed
 the quantity of suspected cannabis recovered, the estimated value of the
 facility or how long it had operated. [@1,16] The suspects are in police custody,
 have made confessional statements and are providing information to aid the
-investigation. [@2,5,6,7,8,9,10,11,12,15,17,18,20,21,22,25,26,27,28,29,30,31,32,33] The Command had not announced formal charges against the
+investigation. [@2,5,6,7,8,9,10,11,12,15,17,18,20,21,22,25,26,27,28,29,30,31,32,33,34] The Command had not announced formal charges against the
 suspects. [@1]
 
 Commissioner of Police Tijani Fatai visited the scene to inspect the indoor
-farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18,19,20,21,22,26,27,28,29,30,31,32,33]
+farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18,19,20,21,22,26,27,28,29,30,31,32,33,34]
 Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
