@@ -36,23 +36,29 @@ sources:
     publisher: Sardiniapost
     date: 2026-11-04
     language: it
+  - title: 'Carcere di Cagliari-Uta: sequestrati 3 telefoni, cavi Usb e piccole dosi di hashish'
+    url: https://www.cagliaripad.it/680508/carcere-di-cagliari-uta-sequestrati-3-telefoni-cavi-usb-e-piccole-dosi-di-hashish/
+    publisher: Cagliaripad.it
+    date: 2026-11-04
+    language: it
 open_questions:
   - No weight was published for the hashish, described only as small quantities, so no kilograms can be recorded.
   - No detainee was named and no arrest, charge or disciplinary outcome was reported.
   - The page's only image shows a generic penitentiary-police officer credited to L'Unione Sarda and does not show the seized phones or drugs, so no media entry is included.
   - A separate 8 October 2026 seizure at the same prison involving fentanyl patches is a different event left out here.
+  - The Cagliaripad page's only listed image was uploaded in June 2025 and captioned only as a Uta prison cell, so it is not shown to depict this November 2026 seizure and no media entry is included.
 ---
 
 On the morning of 3 November 2026, penitentiary police carried out a routine
-search of two cells at the Cagliari-Uta prison in Uta, Sardinia. [@1,3] During
-that search, officers found and seized three mobile phones. [@1,4] Officers also
-seized two power adapters and three USB cables used for charging. [@2,4] Officers
+search of two cells at the Cagliari-Uta prison in Uta, Sardinia. [@1,3,5] During
+that search, officers found and seized three mobile phones. [@1,4,5] Officers also
+seized two power adapters and three USB cables used for charging. [@2,4,5] Officers
 also seized small quantities of hashish, described as a small amount of
-cannabis. [@2]
+cannabis. [@2,5]
 
 The seizure was announced by Donato Capece, general secretary of Sappe, the
 autonomous penitentiary-police union, and Luca Fais, Sappe's national secretary
-for Sardinia. [@2,3] Capece and Fais praised the Cagliari institute's officers for
+for Sardinia. [@2,3,5] Capece and Fais praised the Cagliari institute's officers for
 the professionalism, investigative skill and high sense of duty shown in the
 operation. [@1]
 
