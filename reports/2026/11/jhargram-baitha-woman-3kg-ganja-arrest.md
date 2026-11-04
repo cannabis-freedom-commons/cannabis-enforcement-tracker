@@ -35,6 +35,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-04
     language: hi
+  - title: চোখে চশমা, হাতে ব্যাগ! সন্দেহ হতেই তল্লাশি, মহিলার কাছ থেকে উদ্ধার ৩ কেজি গাঁজা ও ৩০ হাজার টাকা
+    url: https://bengali.news18.com/news/west-bengal/jhargram-lalgarh-woman-arrested-ganja-smuggling-3kg-cannabis-cash-seized-sal-l18t-local18-2951080.html
+    publisher: News18 Bengali
+    date: 2026-11-04
+    language: bn
 open_questions:
   - The article gives no separate calendar date for the arrest beyond Tuesday evening; 3 November 2026, the publication date and also a Tuesday, is used as the incident date.
   - The ganja weight is described as about 3 kg, recorded as 3 kg.
@@ -47,6 +52,15 @@ open_questions:
   - VocalTV spells the officers as Rishabh Rajdeep and Sanjeev Ghosh while the existing report uses Rishabhraj Deb and Sanjib Ghosh; they are treated as transliteration variants of the same officials.
   - VocalTV calls the spot Chhota Baita in Lalgarh police-station area while the existing report shortens it to Baitha; they are treated as the same locality.
   - The page image is captioned only with the headline and carries no credit establishing it shows this seizure, so no media entry is included.
+  - The News18 account gives only the surname বিশাল without the given name Tara used in the existing report, so the full name Tara Vishal still rests on the earlier sources.
+  - Officer and locality names appear as transliteration variants in Bengali, including ঋষভরাজ দেব, সঞ্জীব ঘোষ, সুমন্ত সাহা and বৈতা.
+  - The News18 page was published on 4 November 2026 but describes Tuesday evening, consistent with the existing 3 November 2026 incident date.
+  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in News18 Bengali: Lalgarh police arrested a woman on suspicion of ganja smuggling.'
+  - 'Left out, as its quotation was not found in News18 Bengali: The incident took place in Baitha in Jhargram.'
+  - 'Left out, as its quotation was not found in News18 Bengali: Police identified her as Tara Vishal, a resident of Kalaikunda in Kharagpur, Paschim Medinipur district.'
+  - 'Left out, as its quotation was not found in News18 Bengali: Officers noticed her walking along the road at Baitha on Tuesday evening after she got off a bus carrying a bag and found her movements suspicious.'
+  - 'Left out, as its quotation was not found in News18 Bengali: Police allege she travelled between places by bus with ganja in her bag and delivered it after reaching specific areas.'
 ---
 
 Lalgarh police arrested a woman on suspicion of ganja smuggling. [@1,2] The
@@ -55,13 +69,13 @@ Vishal, a resident of Kalaikunda in Kharagpur, Paschim Medinipur district. [@1,2
 Officers noticed her walking along the road at Baitha on Tuesday evening after
 she got off a bus carrying a bag and found her movements suspicious. [@1,2]
 
-The search yielded about 3 kg of ganja and 30,000 rupees in cash. [@1,2] Police
+The search yielded about 3 kg of ganja and 30,000 rupees in cash. [@1,2,3] Police
 allege she travelled between places by bus with ganja in her bag and delivered
 it after reaching specific areas. [@1,2]
 
 Police registered a case against her under the relevant sections of the NDPS
-Act. [@1] Jhargram SDPO Rishabhraj Deb, Lalgarh inspector-in-charge Sanjib Ghosh
+Act. [@1,3] Jhargram SDPO Rishabhraj Deb, Lalgarh inspector-in-charge Sanjib Ghosh
 and Binpur-1 joint BDO Sumanta Saha visited the scene after learning of the
-incident. [@1,2] Police planned to seek 14 days of custody for questioning. [@1,2]
+incident. [@1,2,3] Police planned to seek 14 days of custody for questioning. [@1,2,3]
 
-Police said the arrested woman would be produced in Jhargram court on Wednesday. [@2] Police said they are checking whether any other person or gang was involved with the woman in the ganja-smuggling case. [@2]
+Police said the arrested woman would be produced in Jhargram court on Wednesday. [@2,3] Police said they are checking whether any other person or gang was involved with the woman in the ganja-smuggling case. [@2]
