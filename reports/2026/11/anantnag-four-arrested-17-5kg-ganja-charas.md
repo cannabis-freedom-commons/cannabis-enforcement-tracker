@@ -37,6 +37,10 @@ sources:
     url: https://kimskashmir.com/four-drug-peddlers-arrested-in-anantnag-over-17-kg-of-contraband-recovered/
     publisher: Kashmir Independent Media Service
     date: 2026-11-03
+  - title: Four drug peddlers arrested
+    url: https://www.dailyexcelsior.com/four-drug-peddlers-arrested-4/amp
+    publisher: Daily Excelsior
+    date: 2026-11-04
 open_questions:
   - The article gives no separate incident time beyond Tuesday; 3 November 2026 is its publication date used as the incident date.
   - The headline total of around 17.5 kilograms differs slightly from the sum of the stated recoveries (16 kg plus 1.5 kg plus 89 g plus 17 g equals 17.606 kg) through rounding.
@@ -48,6 +52,7 @@ open_questions:
   - The existing report dates the Tuesday operations to 3 November 2026 while this account was published on 4 November 2026; no separate incident date beyond Tuesday is given.
   - The submitted page image is a generic older Srinagar photo from 2021, not this seizure, so no media entry is added.
   - The new source phrases the overall total as over 17.6 kg while the report phrases it as around 17.5 kg; the itemised recoveries in both accounts sum to 17.606 kg through rounding.
+  - The same Daily Excelsior article also reports a dumper seized for alleged illegal mining in Wuyan, Khrew in Pulwama district, a separate non-cannabis event left out of this cannabis report.
 media:
   - kind: photo
     url: https://www.greaterkashmir.com/kashmir/police-apprehend-4-drug-peddlers-in-anantnag-contraband-substance-recovered-12780073
@@ -57,14 +62,14 @@ media:
 ---
 
 Anantnag police arrested four people in four separate operations across Anantnag
-district on Tuesday. [@1,2,3,4] Bijbehara police arrested Zahoor Ahmad Dar of
+district on Tuesday. [@1,2,3,4,5] Bijbehara police arrested Zahoor Ahmad Dar of
 Takiabal, Bijbehara after recovering approximately 16 kilograms of ganja from
-his residential house. [@1,2,3,4] Sangam police apprehended Feroz Ahmad Sheikh of
-Semthan and recovered 1.5 kilograms of ganja from his possession. [@1,2,3,4] A Sangam
+his residential house. [@1,2,3,4,5] Sangam police apprehended Feroz Ahmad Sheikh of
+Semthan and recovered 1.5 kilograms of ganja from his possession. [@1,2,3,4,5] A Sangam
 police team apprehended Showkat Ahmad Sheikh of Semthan at Kevipora, Marhama and
-recovered 89 grams of charas powder from him. [@1,2,3,4] Police Post DK Pora
+recovered 89 grams of charas powder from him. [@1,2,3,4,5] Police Post DK Pora
 apprehended Mohd Iqbal Sheikh of Peth Dialgam and recovered 17 grams of a
-charas-like substance from him. [@1,2,3,4]
+charas-like substance from him. [@1,2,3,4,5]
 
 Police said the Bijbehara house search followed authorisation under Section
 41(2) of the Narcotic Drugs and Psychotropic Substances (NDPS) Act and the
@@ -74,5 +79,5 @@ yielded ganja, charas powder and a charas-like substance. [@1,4] Police describe
 the overall haul as around 17.5 kilograms of suspected narcotic substances. [@1]
 
 Police said legal proceedings had been initiated in the cases and investigations
-were underway. [@1,4] Anantnag police appealed to the public to share information
+were underway. [@1,4,5] Anantnag police appealed to the public to share information
 about drug trafficking to help curb drug abuse. [@1]
