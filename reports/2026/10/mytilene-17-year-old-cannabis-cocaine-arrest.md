@@ -44,30 +44,36 @@ sources:
     publisher: στο Καρφί
     date: 2026-11-03
     language: el
+  - title: 'Συνελήφθη 17χρονος στη Μυτιλήνη: 54 συσκευασίες κοκαΐνης στο σπίτι του'
+    url: https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/synelifthi-17hronos-sti-mytilini-54-syskeyasies
+    publisher: Lesvosnews.net
+    date: 2026-11-02
+    language: el
 open_questions:
   - No weight was published for the seized cannabis, described only as a small amount of hashish or unprocessed cannabis.
   - The 36.72 grams in 54 packages is cocaine and is excluded from cannabis figures, so no cannabis weight is recorded.
   - The 31 October 2026 incident date relies on the StoNisi local account; the Athens outlets give only their 2-3 November publication dates.
   - No charge, prosecutor decision or court outcome was reported for the teenager or his parents.
   - The submitted page carries only a stock pixabay image and the second page an archive photo, so no event photo is listed as media.
+  - The page carries one image with an empty caption and a file name unrelated to the seizure, which does not establish that it shows this event, so no media entry is included.
 ---
 
 Mytilene drug-squad officers arrested a 17-year-old accused of possessing and
 trafficking drugs on Saturday 31 October 2026 in the wider Mytilene area of
-Lesbos. [@3,4] The boy's parents were also arrested for alleged neglect of
-supervision of a minor. [@2,5] The preliminary investigation was carried out by
+Lesbos. [@3,4,6] The boy's parents were also arrested for alleged neglect of
+supervision of a minor. [@2,5,6] The preliminary investigation was carried out by
 the Drug Prosecution Department of the Mytilene Subdivision for Prosecution and
 Clearance of Crimes. [@1,5]
 
 The case came to light during a police check when officers found a small amount
-of hashish, described as unprocessed cannabis, in the minor's possession. [@1] A
+of hashish, described as unprocessed cannabis, in the minor's possession. [@1,6] A
 follow-up search of his home found 54 nylon packages containing cocaine with a
-total weight of 36.72 grams, along with a precision electronic scale. [@1,5]
+total weight of 36.72 grams, along with a precision electronic scale. [@1,5,6]
 Officers seized the drugs, the precision scale and a mobile phone the teenager
 had in his possession. [@3] Police described the cannabis only as a small amount
 and published no weight for it, while the 36.72-gram figure is the police count
 for the cocaine. [@1,5]
 
 Police allege the teenager held the substances to supply them to third parties
-for payment. [@1,4,5] A case file was opened against his parents for neglect of
+for payment. [@1,4,5,6] A case file was opened against his parents for neglect of
 supervision of a minor. [@3]
