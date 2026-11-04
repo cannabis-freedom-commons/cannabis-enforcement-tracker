@@ -21,6 +21,25 @@ figures:
   value: { amount: 26832112, currency: GYD }
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
+media:
+  - kind: photo
+    url: https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    archived: https://web.archive.org/web/20261013055336/https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    media_url: https://i0.wp.com/inewsguyana.com/wp-content/uploads/2026/10/2-3.jpg?ssl=1
+    publisher: iNews Guyana
+    caption: The makeshift camp at the first Wiruni cultivation burning during the eradication exercise.
+  - kind: photo
+    url: https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    archived: https://web.archive.org/web/20261013055336/https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    media_url: https://i0.wp.com/inewsguyana.com/wp-content/uploads/2026/10/1-2.jpg?ssl=1
+    publisher: iNews Guyana
+    caption: A standing cannabis field at Wiruni before it was destroyed.
+  - kind: photo
+    url: https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    archived: https://web.archive.org/web/20261013055336/https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    media_url: https://i0.wp.com/inewsguyana.com/wp-content/uploads/2026/10/5-1.jpg?ssl=1
+    publisher: iNews Guyana
+    caption: Uprooted cannabis plants burning in a cleared field at Wiruni.
 tags: [wiruni, berbice, eradication]
 open_questions:
   - A second outlet (Guyana Chronicle) carried the same figures in its headline, but its page could not be opened; a third account (Guyana Inquirer, read in its archived copy) corroborates the field-by-field details.
@@ -28,6 +47,7 @@ open_questions:
 sources:
   - title: Police destroy ganja fields along Berbice River
     url: https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
+    archived: https://web.archive.org/web/20261013055336/https://inewsguyana.com/police-destroy-ganja-fields-along-berbice-river/
     publisher: iNews Guyana
     date: 2026-10-12
   - title: Police destroy 37,000 cannabis plants, 40 pounds of dried cannabis worth $26.8M at Wiruni

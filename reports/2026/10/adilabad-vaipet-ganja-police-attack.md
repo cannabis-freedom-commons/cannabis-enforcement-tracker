@@ -22,10 +22,14 @@ figures:
 media:
   - kind: photo
     url: https://telanganatoday.com/four-policemen-injured-in-mob-attack-during-ganja-cultivation-probe-in-adilabad
+    archived: https://web.archive.org/web/20261010182036/https://telanganatoday.com/four-policemen-injured-in-mob-attack-during-ganja-cultivation-probe-in-adilabad
+    media_url: https://media.telanganatoday.com/wp-content/uploads/2026/10/ADB-ganja.jpg
     publisher: Telangana Today
     caption: Policemen with uprooted cannabis plants laid out after the seizure in Adilabad.
   - kind: photo
     url: https://www.deccanchronicle.com/southern-states/telangana/maharaj-arrested-for-raising-ganja-plants-villagers-attack-police-3-cops-injured-1994827
+    archived: https://web.archive.org/web/20261015032358/https://www.deccanchronicle.com/southern-states/telangana/maharaj-arrested-for-raising-ganja-plants-villagers-attack-police-3-cops-injured-1994827
+    media_url: https://www.deccanchronicle.com/h-upload/2026/10/10/2099381-2090336-adilabad-police.webp
     publisher: Deccan Chronicle
     caption: 'Photograph published with the report of the raid on Ramu''s house, where police seized 18 ganja plants from the backyard. Photo: DC Image'
 status: verified
@@ -34,14 +38,17 @@ tags: [telangana, adilabad, ganja, mob-attack, godman]
 sources:
   - title: Four policemen injured in mob attack during ganja cultivation probe in Adilabad
     url: https://telanganatoday.com/four-policemen-injured-in-mob-attack-during-ganja-cultivation-probe-in-adilabad
+    archived: https://web.archive.org/web/20261010182036/https://telanganatoday.com/four-policemen-injured-in-mob-attack-during-ganja-cultivation-probe-in-adilabad
     publisher: Telangana Today
     date: 2026-10-10
   - title: Maharaj Arrested For Raising Ganja Plants, Villagers Attack Police; 3 Cops Injured
     url: https://www.deccanchronicle.com/southern-states/telangana/maharaj-arrested-for-raising-ganja-plants-villagers-attack-police-3-cops-injured-1994827
+    archived: https://web.archive.org/web/20261015032358/https://www.deccanchronicle.com/southern-states/telangana/maharaj-arrested-for-raising-ganja-plants-villagers-attack-police-3-cops-injured-1994827
     publisher: Deccan Chronicle
     date: 2026-10-11
   - title: 20 Villagers Arrested In Adilabad District For Attacking Police
     url: https://www.deccanchronicle.com/southern-states/telangana/20-villagers-arrested-in-adilabad-district-for-attacking-police-1995652
+    archived: https://web.archive.org/web/20261013223158/https://www.deccanchronicle.com/southern-states/telangana/20-villagers-arrested-in-adilabad-district-for-attacking-police-1995652
     publisher: Deccan Chronicle
     date: 2026-10-14
 open_questions:

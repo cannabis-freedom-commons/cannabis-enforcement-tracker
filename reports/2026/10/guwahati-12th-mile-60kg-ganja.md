@@ -21,12 +21,20 @@ figures:
   kg_seized: 60
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
+media:
+  - kind: photo
+    url: https://www.pratidintime.com/guwahati-news-breaking-latest/60-kg-of-cannabis-seized-in-police-raid-at-jorabat-one-arrested-12661432
+    archived: https://web.archive.org/web/20261010052316/https://www.pratidintime.com/guwahati-news-breaking-latest/60-kg-of-cannabis-seized-in-police-raid-at-jorabat-one-arrested-12661432
+    media_url: https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/pratidin/media/media_files/2026/10/09/web5-2026-10-09-22-49-49.jpeg
+    publisher: Pratidin Time
+    caption: Police with the accused and the seized cannabis packets inside the rented house at 12th Mile.
 tags: [guwahati, jorabat, basistha, trafficking]
 open_questions:
   - Whether the consignment's source and intended destination, and any wider network links, were established was not reported.
 sources:
   - title: 60 Kg of Cannabis Seized in Police Raid at Jorabat, One Arrested
     url: https://www.pratidintime.com/guwahati-news-breaking-latest/60-kg-of-cannabis-seized-in-police-raid-at-jorabat-one-arrested-12661432
+    archived: https://web.archive.org/web/20261010052316/https://www.pratidintime.com/guwahati-news-breaking-latest/60-kg-of-cannabis-seized-in-police-raid-at-jorabat-one-arrested-12661432
     publisher: Pratidin Time
     date: 2026-10-09
     language: en

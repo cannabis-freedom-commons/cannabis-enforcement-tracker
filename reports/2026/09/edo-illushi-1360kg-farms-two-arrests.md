@@ -23,6 +23,7 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [edo, esan-south-east, ndlea, army, farms]
 open_questions:
   - Whether the two men were charged or remanded was not reported.
+  - The Guardian page's only image is the NDLEA logo, which does not show this operation, so no media entry was added.
 sources:
   - title: NDLEA, military destroy 1,360kg cannabis farms, arrest two in Edo
     url: https://dailypost.ng/2026/09/28/ndlea-military-destroy-1360kg-cannabis-farms-arrest-two-in-edo/
@@ -34,18 +35,26 @@ sources:
     publisher: OneClickAfrica
     date: 2026-10-29
     language: en
+  - title: NDLEA, Army destroy cannabis farms, arrest two suspects in Edo
+    url: https://guardian.ng/news/nigeria/metro/ndlea-army-destroy-cannabis-farms-arrest-two-suspects-in-edo/
+    publisher: The Guardian Nigeria
+    date: 2026-09-29
+    language: en
 ---
 
 A joint operation of the NDLEA Edo State Command and military personnel
 destroyed two cannabis farms covering 0.544092 hectares in Esan South-East
-Local Government Area. [@1] [@2]
+Local Government Area. [@1] [@2] [@3]
 
 The plantations had a combined estimated yield of 1,360.23 kg of cannabis,
 while another 107 kg of processed cannabis, including seeds, was destroyed
-at Eko Camp in Illushi. [@1] Commander Mitchell Ofoyeju said the operation
+at Eko Camp in Illushi. [@1] [@3] Commander Mitchell Ofoyeju said the operation
 was conducted on 23 September 2026. [@1]
 
 Ajeh Egwuda, 43, was arrested on a 0.068011-hectare farm yielding an
 estimated 170.03 kg, and Nonso Ajodhe on a 0.476081-hectare plantation
 estimated at 1,190.20 kg; both are Esan South-East residents who blamed
-financial hardship and friends' influence. [@1]
+financial hardship and friends' influence. [@1] The Guardian's account of the
+commander's Benin statement confirms both arrests and describes the suspects
+as married fathers, warning that the command will not rest until cannabis
+cultivation is rooted out of the communities. [@3]
