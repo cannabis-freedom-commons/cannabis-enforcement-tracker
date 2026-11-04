@@ -326,6 +326,11 @@ sources:
     publisher: Yash Bharat
     date: 2026-11-02
     language: hi
+  - title: Jabalpur में करोड़ों का गांजा जब्त, कंटेनर में छिपा ले जा रहे थे 28 बोरियां । Breaking News
+    url: https://mpcg.ndtv.in/videos/jabalpur-police-seize-crores-worth-of-cannabis-hidden-in-28-bags-inside-container-1184228
+    publisher: NDTV MP Chhattisgarh
+    date: 2026-11-02
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -421,10 +426,12 @@ open_questions:
   - The submitted Yash Bharat page gives no separate incident date; 2 November 2026 is its publication date, while the existing report dates the interception to 31 October 2026.
   - The submitted page spells the toll point मोहतरा and the second accused's surname करमाकर, while the existing report uses Mohtra and Karmakar for the same place and person.
   - The submitted page carries one image whose caption is only the file name 20261102180841 4CdTBz6J with no credit, so it could not be confirmed to show this seizure and no media entry is added.
+  - The NDTV page gives no weight, precise value, arrest count or agency detail beyond its headline; 2 November 2026 is its publication date while the existing report dates the interception to 31 October 2026.
+  - The page thumbnail carries no caption or credit, so it could not be confirmed to show this seizure and no media entry is added.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48,50] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1,36,37,41,49] The two were identified as 45-year-old Dharamveer
@@ -432,7 +439,7 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38,41,42,43,46,49]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48,49] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48,49,50] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31,39,40,47,48] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40,41,46,47,48,49] The container had a
 Nagaland registration number, police said. [@2]
