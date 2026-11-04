@@ -45,6 +45,11 @@ sources:
     publisher: İşçi Haber
     date: 2026-11-04
     language: tr
+  - title: Aksaray'da 4 adrese düzenlenen uyuşturucu operasyonunda 8 şüpheliden 4'ü tutuklandı
+    url: https://www.sondakika.com/3-sayfa/haber-aksaray-da-4-adrese-duzenlenen-uyusturucu-operasyo-20394015/
+    publisher: Son Dakika
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate date for the raids or court appearance; 4 November 2026 is the publication date used as the incident date.
   - The 2,314 synthetic pharmaceutical pills are not cannabis and are excluded from the cannabis figure; no separate cannabis value was published.
@@ -62,13 +67,13 @@ M.E., 33, Z.C., 25, D.E.S., 21, S.K., 27, K.Y., 20, Y.C., 18, and I.O., 20, in
 operations targeting drug manufacture and trade. [@1,3] After processing at the
 gendarmerie, all eight suspects were referred to the judicial authorities. [@2,4]
 A court ordered M.E., Z.C., D.E.S. and K.Y. held in pre-trial detention, known
-in Turkey as tutuklama, and sent them to prison. [@1,3,4] The same court released
+in Turkey as tutuklama, and sent them to prison. [@1,3,4,5] The same court released
 B.I., S.K., Y.C. and I.O. under judicial control. [@1,3,4]
 
 Searches of the suspects' homes and the vehicles they used found 453 grams of
 kubar esrar, a cannabis preparation also called hashish, the cannabis component
-recorded here. [@1,3,4] The same searches also found 2,314 synthetic pharmaceutical
-pills, which are not cannabis and are not counted in the cannabis figure. [@2,3,4]
+recorded here. [@1,3,4,5] The same searches also found 2,314 synthetic pharmaceutical
+pills, which are not cannabis and are not counted in the cannabis figure. [@2,3,4,5]
 Officers confiscated all the seized drugs. [@1]
 
 The Aksaray Chief Public Prosecutor's Office coordinated the operation, which
@@ -79,4 +84,4 @@ The provincial gendarmerie said its fight against drug dealers threatening
 public peace, especially those targeting young people, would continue
 decisively. [@1]
 
-Searches were carried out at four different addresses. [@3] Investigators followed the suspects with technical and physical surveillance until they judged the evidence sufficient to move in. [@3] The investigation focused on eight people in Aksaray's central district. [@3]
+Searches were carried out at four different addresses. [@3,5] Investigators followed the suspects with technical and physical surveillance until they judged the evidence sufficient to move in. [@3] The investigation focused on eight people in Aksaray's central district. [@3]
