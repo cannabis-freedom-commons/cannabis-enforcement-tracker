@@ -34,6 +34,11 @@ sources:
     publisher: Lublin112.pl
     date: 2026-11-04
     language: pl
+  - title: В Польше арестовали восьмерых подозреваемых после изъятия почти 100 кг наркотиков — RMF24
+    url: https://ua.news/ru/world/u-polshchi-zaareshtuvali-vismokh-pidozriuvanikh-pislia-viluchennia-maizhe-100-kg-narkotikiv-rmf24
+    publisher: UA.NEWS
+    date: 2026-11-04
+    language: ru
 open_questions:
   - No separate cannabis-only weight was published; the nearly 100 kg figure covers clephedrone, marijuana, amphetamine and NEP together and is therefore excluded from cannabis figures.
   - No separate cannabis-only valuation was published; the figure of about 5 million zloty covers all seized drugs together and is therefore excluded from figures.
@@ -54,15 +59,14 @@ pending trial. [@3] They face up to 12 years in prison under Poland's anti-drug
 law. [@2]
 
 Searches of the suspects' homes and vehicles recovered significant quantities of
-various drugs. [@1] The seized substances included clephedrone, marijuana,
-amphetamine and the potent psychoactive substance NEP. [@1] Police put the
-combined haul at nearly 100 kg. [@2] Police estimated its black-market value at
-about 5 million zloty. [@1] Investigators said the drugs were intended for the
+various drugs. [@1,4] The seized substances included clephedrone, marijuana,
+amphetamine and the potent psychoactive substance NEP. [@1,4] Police put the
+combined haul at nearly 100 kg. [@2,4] Police estimated its black-market value at
+about 5 million zloty. [@1,4] Investigators said the drugs were intended for the
 local market. [@2]
 
 The operation was led by the drug-crime department of the Lublin provincial
 police under the supervision of the District Prosecutor in Lublin. [@3] Officers
 made the arrests successively over recent months in Lublin and other towns in
-Lublin Voivodeship. [@1] Officers from other criminal divisions of the
+Lublin Voivodeship. [@1,4] Officers from other criminal divisions of the
 provincial force assisted the drug unit in the detentions and seizures. [@3]
-
