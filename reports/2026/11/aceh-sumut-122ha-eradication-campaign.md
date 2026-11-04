@@ -113,6 +113,16 @@ sources:
     publisher: Tempo
     date: 2026-11-02
     language: id
+  - title: Bareskrim Bongkar Ladang Ganja 25 Hektare di Aceh Utara, Operasi Temukan Dua Lokasi Raksasa
+    url: https://aktual.com/bareskrim-bongkar-ladang-ganja-25-hektare-di-aceh-utara-operasi-temukan-dua-lokasi-raksasa/
+    publisher: Aktual.com
+    date: 2026-11-02
+    language: id
+  - title: Bareskrim Temukan Ladang Ganja 25 Hektare di Aceh Utara
+    url: https://news.detik.com/berita/d-8734506/bareskrim-temukan-ladang-ganja-25-hektare-di-aceh-utara
+    publisher: detikNews
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -150,13 +160,17 @@ open_questions:
   - The Bareskrim statement quoted was given on 3 November 2026 while the article was published on 2 November 2026; the incident date follows the latest reported destruction on 2 November 2026.
   - The four Sawang detainees are identified only by initials with ages and roles, and HM was released; no further court outcome is reported.
   - The supplied page images are a stock cannabis illustration and unrelated Tempo items, so no event photo can be listed as media.
+  - The two new accounts present the 25-hectare find plus an 18-hectare first site as a 43-hectare two-site total, while the existing report records the official 122.86-hectare campaign total across Aceh and North Sumatra.
+  - The new accounts attribute the 25-hectare phase to a joint Bareskrim, BNN RI and Polda Aceh team, while the existing report lists the 2 November 25-hectare phase under Lhokseumawe police within the wider campaign.
+  - No arrests, plant counts, weights, values or court outcomes for the 25-hectare phase are given in either new account.
+  - The Aktual page carries one photo captioned only with the headline and no credit establishing that it shows this eradication, so no media entry is added.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
 police, the National Narcotics Agency (BNN), the military, local governments and
 residents carried out cannabis-field operations across North Sumatra and Aceh.
 [@1,2,13] The operation was led by Bareskrim drug director Brigjen Kristian Siagian
-with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8] In North Aceh on
+with BNN acting eradication deputy Brigjen Adri Irniadi. [@1,2,3,8,14,15] In North Aceh on
 27 October 2026, Lhokseumawe police destroyed about 18 hectares at Gampong
 Teupin Rusep in Sawang and detained four people identified only as S, W, M and
 HM. [@1,4,6,9,11,13] Investigators designated three of the four as suspects and released HM
@@ -173,7 +187,7 @@ public tip on 29 October about suspected planting at Tor Sihite. [@1,13] Police
 listed about 77 hectares destroyed at Blang Meurande and Beutong Ateuh-Benggala
 in Nagan Raya on 31 October. [@1,9,10,12,13] Police also listed about two hectares
 destroyed in Pidie on 1 November and about 25 hectares by Lhokseumawe police on
-2 November. [@1,2,3,8,13] Police added about 0.04 hectares uprooted in Bener Meriah and
+2 November. [@1,2,3,8,13,14,15] Police added about 0.04 hectares uprooted in Bener Meriah and
 about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6,13]
 
 Police said the eradication was intended to break the narcotics distribution
@@ -184,3 +198,5 @@ Across the whole operation, officers estimated about 186,450 cannabis plants des
 In Bener Meriah, police destroyed 600 cannabis plants on 0.04 hectares on 1 November. [@10] In Aceh Besar, police destroyed an estimated 1,050 cannabis plants on 0.7 hectares. [@10]
 
 In the Aceh Timur jurisdiction, officers designated farmer AM as a suspect over cannabis from about 0.12 hectares under Article 111, which carries a maximum 20 years' imprisonment. [@13] In the Sawang case, S, 43, scouted and directed officers to the site, W, 35, sowed 1,800 cannabis seeds, and M, 39, supplied the seeds to S. [@13] In Mandailing Natal, officers set aside 20 cannabis stalks as evidence and burned the remainder on site. [@13]
+
+Officers uprooted the cannabis plants, gathered them at one point and prepared to burn them. [@14]
