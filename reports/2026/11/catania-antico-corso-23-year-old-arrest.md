@@ -35,6 +35,11 @@ sources:
     publisher: Dayitalianews
     date: 2026-11-04
     language: it
+  - title: Catania marijuana nascosta sotto la felpa mentre passeggia in strada | arrestato un 23enne
+    url: https://www.zazoom.it/2026-11-04/catania-marijuana-nascosta-sotto-la-felpa-mentre-passeggia-in-strada-arrestato-un-23enne/19884303/
+    publisher: Zazoom Social News
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the stop and arrest; 4 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian.
@@ -46,9 +51,9 @@ open_questions:
 ---
 
 State police arrested a 23-year-old man from Catania for possession of narcotics
-with intent to deal. [@1,2] The operation was carried out in Via Antico Corso by
+with intent to deal. [@1,2,3] The operation was carried out in Via Antico Corso by
 officers of the Mobile Squad's fourth section dealing with widespread crime.
-[@1,2] Officers on patrol noticed the young man walking with a shoulder bag and
+[@1,2,3] Officers on patrol noticed the young man walking with a shoulder bag and
 acting suspiciously, then stopped him for a check. [@1,2] During the check
 officers noticed a visible bulge at the front of his sweatshirt and asked him to
 lift it. [@1,2]
