@@ -319,3 +319,64 @@ func TestSubmissionFeedPagesEverySortWithTies(t *testing.T) {
 		}
 	}
 }
+
+func TestWorkingFeedUsesLatestReceiptAndLiveJobs(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	now := time.Now().Unix()
+	want := map[string]bool{}
+	for i, scenario := range []string{"running", "expired", "queued", "drafted", "publishing", "terminal", "both"} {
+		u := fmt.Sprintf("https://news.example/working-%d", i)
+		id, err := s.Accept(ctx, Intake{Origin: "rss", URL: u, CanonicalURL: u})
+		if err != nil {
+			t.Fatal(err)
+		}
+		v, err := s.Get(ctx, id)
+		if err != nil {
+			t.Fatal(err)
+		}
+		latest := legacyReceipt(t, s, id)
+		status, jobStatus, lease := "researching", "queued", now+3600
+		switch scenario {
+		case "running", "both":
+			jobStatus = "running"
+		case "expired":
+			jobStatus, lease = "running", now-3600
+		case "drafted", "publishing":
+			status = scenario
+		case "terminal":
+			status = "committed"
+		}
+		if _, err = s.DB.Exec("UPDATE cases SET status=?,updated_at=? WHERE id=?", status, now+int64(i), v.CaseID); err != nil {
+			t.Fatal(err)
+		}
+		if _, err = s.DB.Exec("UPDATE jobs SET status=?,lease_until=? WHERE ref=?", jobStatus, lease, v.CaseID); err != nil {
+			t.Fatal(err)
+		}
+		if scenario == "drafted" || scenario == "publishing" || scenario == "terminal" || scenario == "both" {
+			if _, err = s.DB.Exec("INSERT INTO jobs(id,kind,ref,status,available_at) VALUES(?,'publish',?,'queued',?)", ID(), v.CaseID, now); err != nil {
+				t.Fatal(err)
+			}
+		}
+		if scenario == "running" || scenario == "drafted" || scenario == "publishing" || scenario == "both" {
+			want[latest] = true
+		}
+	}
+	// Working jobs are global even when the main page's filters match nothing.
+	page, err := s.ListSubmissions(ctx, "", "failed", "api", "updated", "desc")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if page.Total != 0 || len(page.Working) != len(want) {
+		t.Fatalf("got %d working, want %d; total=%d", len(page.Working), len(want), page.Total)
+	}
+	for i, entry := range page.Working {
+		if !want[entry.ID] {
+			t.Fatalf("unexpected or duplicated working receipt: %s", entry.ID)
+		}
+		delete(want, entry.ID)
+		if i > 0 && entry.UpdatedAt > page.Working[i-1].UpdatedAt {
+			t.Fatal("working receipts out of update order")
+		}
+	}
+}

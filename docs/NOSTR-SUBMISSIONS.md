@@ -150,7 +150,10 @@ The submissions register coalesces live updates to at most one refresh every two
 filters and pagination still load immediately. Unchanged rows retain their DOM nodes and keyboard
 focus. The feed selects its 51-row page before loading histories and AI usage, and job lookups
 use a case-reference index. `go test ./internal/store -run '^$' -bench BenchmarkSubmissionFeed`
-measures the feed against 5,000 synthetic cases in an isolated in-memory database.
+measures the feed against 5,000 synthetic cases in an isolated in-memory database. The default update ordering walks the case index before
+looking up receipts; working rows start from live jobs rather than historical cases.
+Migration 020 adds indexes for case status, receipt time/origin, per-case run sequence and
+started-run time windows. Restart the backend to apply the migration and query changes.
 
 ## Browser source capture
 

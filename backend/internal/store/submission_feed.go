@@ -183,7 +183,13 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
 		where += " AND s.origin=?"
 		args = append(args, origin)
 	}
-	if err = tx.QueryRowContext(ctx, "SELECT count(*) FROM submissions s JOIN cases c ON c.id=s.case_id"+where, args...).Scan(&out.Total); err != nil {
+	// With no case-status filter, counting receipts needs no case rows. Case
+	// records contain large evidence/draft fields and should stay off this path.
+	countFrom := " FROM submissions s JOIN cases c ON c.id=s.case_id"
+	if status == "" {
+		countFrom = " FROM submissions s"
+	}
+	if err = tx.QueryRowContext(ctx, "SELECT count(*)"+countFrom+where, args...).Scan(&out.Total); err != nil {
 		return out, err
 	}
 	if cursor != "" {
@@ -208,7 +214,13 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
 	from := ` FROM submissions s JOIN cases c ON c.id=s.case_id`
 	// Select the bounded page before loading histories, usage totals and run JSON.
 	// Otherwise SQLite may hydrate every candidate while sorting the full register.
-	pageQuery := fmt.Sprintf("WITH page AS MATERIALIZED (SELECT s.rowid AS sequence, %s AS sort_key", spec.expr) + from + where + fmt.Sprintf(" ORDER BY %s %s, s.rowid %s LIMIT 51) ", spec.expr, dir, dir)
+	pageFrom := from
+	if sortBy == "updated" || sortBy == "status" {
+		// CROSS JOIN fixes the loop order: walk the case sort index and look
+		// up its receipts, stopping at 51, instead of sorting every receipt.
+		pageFrom = ` FROM cases c CROSS JOIN submissions s ON s.case_id=c.id`
+	}
+	pageQuery := fmt.Sprintf("WITH page AS MATERIALIZED (SELECT s.rowid AS sequence, %s AS sort_key", spec.expr) + pageFrom + where + fmt.Sprintf(" ORDER BY %s %s, s.rowid %s LIMIT 51) ", spec.expr, dir, dir)
 	rows, err := tx.QueryContext(ctx, pageQuery+columns+", CAST(page.sort_key AS TEXT) FROM page JOIN submissions s ON s.rowid=page.sequence JOIN cases c ON c.id=s.case_id"+fmt.Sprintf(" ORDER BY page.sort_key %s, s.rowid %s", dir, dir), args...)
 	if err != nil {
 		return out, err
@@ -238,7 +250,13 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
 	// A request left at an in-progress status with no job running (after a restart, or waiting to
 	// retry) is queued, not working: Running counts research jobs actually running, never more than
 	// the worker allows.
-	active, err := tx.QueryContext(ctx, columns+from+` WHERE
+	// Start with live jobs, rather than probing jobs for every historical case.
+	// UNION deduplicates cases with both research and publication jobs.
+	activeFrom := ` FROM (
+      SELECT ref FROM jobs WHERE status='running' AND lease_until>unixepoch()
+      UNION SELECT ref FROM jobs WHERE kind='publish' AND status='queued'
+      ) live JOIN cases c ON c.id=live.ref JOIN submissions s ON s.case_id=c.id`
+	active, err := tx.QueryContext(ctx, columns+activeFrom+` WHERE
       (EXISTS(SELECT 1 FROM jobs j WHERE j.ref=c.id AND j.status='running' AND j.lease_until>unixepoch())
        OR (c.status IN ('drafted','publishing') AND EXISTS(SELECT 1 FROM jobs j WHERE j.ref=c.id AND j.kind='publish' AND j.status='queued')))
       AND s.rowid=(SELECT max(latest.rowid) FROM submissions latest WHERE latest.case_id=c.id)
