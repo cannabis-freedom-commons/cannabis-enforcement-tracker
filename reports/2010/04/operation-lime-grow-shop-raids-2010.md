@@ -23,7 +23,6 @@ status: verified
 tags: [operation-lime, grow-shops, hydroponic, organised-crime]
 open_questions:
   - The opened district releases give partial seizure totals; no national plant or weight total was published in the opened sources.
-  - The police national release was read as reprinted by the World Federation Against Drugs, so no fully independent second newsroom account of the national totals was found.
   - No photograph of the raids with a recoverable direct image address was found in the opened sources.
 sources:
   - title: Police swoop on cornerstone of illicit cannabis cultivation industry
@@ -45,11 +44,15 @@ sources:
     archived: https://web.archive.org/web/20250712094009/https://www.police.govt.nz/news/release/23050
     publisher: New Zealand Police
     date: 2010-04-28
+  - title: Massive nationwide cannabis crackdown
+    publisher: The Dominion Post (via 420 Magazine repost)
+    url: https://www.420magazine.com/community/threads/massive-nationwide-cannabis-crackdown.118701/
+    date: 2010-04-28
 ---
 
 Police ended a two-year undercover operation, codenamed Operation Lime, with search warrants on 35 businesses and homes in every police district on 27 April 2010. [@1] The targets were businesses and people selling equipment for growing cannabis, including all 16 branches and the distribution centre of the Switched on Gardener chain. [@1] Undercover officers had bought equipment over the counter, been advised on growing cannabis, and even bought cannabis clones and other drugs from the sellers. [@1]
 
-Police said more than 250 people faced more than 700 charges, including cultivation and taking part in an organised criminal group, and that more than 100 commercial growing operations linked to the businesses were dismantled, with 19 more found that day. [@1] Search teams also seized methamphetamine, LSD, ecstasy and firearms at some premises. [@1]
+Police said more than 250 people faced more than 700 charges, including cultivation and taking part in an organised criminal group, and that more than 100 commercial growing operations linked to the businesses were dismantled, with 19 more found that day. [@1,5] Search teams also seized methamphetamine, LSD, ecstasy and firearms at some premises. [@1] Auction site TradeMe also banned the trading of equipment used to cultivate cannabis the same day. [@5]
 
 ## District results
 
