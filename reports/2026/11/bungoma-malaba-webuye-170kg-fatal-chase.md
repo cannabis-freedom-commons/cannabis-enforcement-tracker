@@ -30,6 +30,10 @@ sources:
     url: https://citizen.digital/article/suspect-on-the-run-as-detectiveset-170-kilos-of-bhang-in-bungoma-n393292
     publisher: Citizen Digital
     date: 2026-11-04
+  - title: Bhang Worth Over Ksh 5.1 Million Seized as Detectives Ambush a Mazda CX-5 Along a Busy Highway- Driver Flees After Killing Motorbike Rider(Photos)
+    url: https://citynews.co.ke/bhang-worth-over-ksh-5-1-million-seized-as-detectives-ambush-a-mazda-cx-5-along-a-busy-highway-driver-flees-after-killing-motorbike-riderphotos/
+    publisher: CityNews Kenya
+    date: 2026-11-04
 open_questions:
   - The articles give no separate date for the ambush, chase and seizure; 4 November 2026 is the publication date and is used as the incident date.
   - The fleeing driver was not named and no arrest, charge or court outcome was reported.
@@ -39,12 +43,12 @@ open_questions:
 
 The driver of a white Mazda CX-5 abandoned the vehicle and escaped after a
 pursuit along the Malaba-Webuye highway. [@1] The Mazda collided with a red TVS
-motorcycle, registration number KMFV 109F, during the chase. [@1] The
+motorcycle, registration number KMFV 109F, during the chase. [@1,2] The
 motorcyclist, identified as Muzungu Munialo, sustained fatal injuries in the
-collision. [@1] The pursuit that killed the rider is also described as a
+collision. [@1,3] The pursuit that killed the rider is also described as a
 high-speed police pursuit in which a motorcyclist was killed. [@2] Traffic
 officers processed the accident scene before detectives searched the abandoned
-vehicle. [@1] The Directorate of Criminal Investigations sent condolences to
+vehicle. [@1,3] The Directorate of Criminal Investigations sent condolences to
 Munialo's family, friends and relatives following his death. [@1] Detectives are
 pursuing the driver who fled and are working to establish the wider network
 behind the suspected trafficking operation. [@1]
@@ -53,18 +57,17 @@ A detailed search at the police station uncovered 162 bales of cannabis wrapped
 in yellow adhesive tape, weighing 170.8 kilogrammes with an estimated street
 value of Sh5,124,000. [@1] The 162 bales are separately described as cannabis
 wrapped in yellow cellotape with an estimated street value of 5,124,000
-shillings. [@2] Detectives also recovered an additional number plate,
+shillings. [@2,3] Detectives also recovered an additional number plate,
 registration number KF2 8588, from the back seat, which investigators suspect
-was intended to conceal the vehicle's identity. [@1] The vehicle and seized
+was intended to conceal the vehicle's identity. [@1,2] The vehicle and seized
 narcotics have since been handed over to NANIB Bungoma for further
-investigations. [@1]
+investigations. [@1,3]
 
 Detectives from the National Anti-Narcotics Investigations Bureau in Bungoma,
 alongside DCI Webuye West officers, intercepted the white Mazda CX-5 suspected
 of transporting narcotic drugs. [@1] Detectives had laid an ambush along the
 Malaba-Webuye road following credible intelligence about the vehicle,
-registration number KDY 338F. [@1] When the Mazda approached, the driver
-reportedly spotted the detectives and sped off, triggering the chase. [@1] The
+registration number KDY 338F. [@1,3] When the Mazda approached, the driver
+reportedly spotted the detectives and sped off, triggering the chase. [@1,2] The
 Mazda was towed to a police station for a comprehensive examination before the
 cannabis was found. [@1]
-
