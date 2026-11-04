@@ -29,6 +29,11 @@ sources:
     publisher: KPP w Otwocku
     date: 2026-11-03
     language: pl
+  - title: Kierowca miał na koncie kilka zakazów. Po kontroli trafił prosto do więzienia
+    url: https://informacje.wp.pl/wiadomosci/kierowca-mial-na-koncie-kilka-zakazow-po-kontroli-trafil-prosto-do-wiezienia-7347054477904352a
+    publisher: WP Info
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The sources give only publication dates of 3 November 2026 with no separate incident day, so 3 November 2026 is used as the incident date.
   - The marijuana finding is only a preliminary test result; confirmatory blood-test results were not reported.
@@ -37,20 +42,21 @@ open_questions:
   - No court outcome for the new charges of failing to stop and driving under the influence was reported beyond the transfer to prison.
   - The submitted page's only relevant image is captioned only with its police source and does not establish what it shows, so no media entry is included.
   - The TuStolica account repeats the Otwock police statement; no independent account beyond the police version was found.
+  - The WP Info page declares canonical to the TuStolica.pl URL and reproduces the same partner text, so it provides no independent account beyond the police version already cited.
 ---
 
 Otwock traffic police detained a 45-year-old Peugeot driver who tried to avoid a
-road check. [@1] The incident began in Józefów. [@1] Officers of the traffic
+road check. [@1,3] The incident began in Józefów. [@1] Officers of the traffic
 department noticed the Peugeot and decided to check the driver. [@1] The driver
 first slowed as if he would obey the officers. [@1] When an officer showed him
 where to stop safely, he accelerated sharply and fled. [@1] Officers immediately
 set off after the fleeing car. [@1] The pursuit ended in Otwock, where the
-traffic police stopped the Peugeot safely. [@2]
+traffic police stopped the Peugeot safely. [@2,3]
 
 The car was secured and towed to the police parking lot. [@2] The driver had
 ignored four lifetime bans on driving imposed by a court. [@1] A preliminary
 test indicated marijuana in his body, so officers took blood for further
-testing. [@2] A records check showed he was wanted to serve a prison term of one
+testing. [@2,3] A records check showed he was wanted to serve a prison term of one
 year and three months. [@2] He was charged with failing to stop for a road check
 and driving under the influence despite the court bans. [@2] After the
 procedures he was taken to a prison, where he is to spend the next 15 months.
@@ -62,4 +68,3 @@ after the pursuit with multiple violations found. [@1] Police said decisive
 traffic-unit actions remove dangerous drivers from the roads. [@1] They also
 announced continued daily sobriety checks and action against irresponsible road
 behaviour. [@1]
-
