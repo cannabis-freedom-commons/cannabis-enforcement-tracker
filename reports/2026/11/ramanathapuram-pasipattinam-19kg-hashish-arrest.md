@@ -27,6 +27,11 @@ sources:
     url: https://www.dtnext.in/news/tamilnadu/south-zone-cops-arrest-49-in-single-day-ndps-drive
     publisher: DT Next
     date: 2026-11-04
+  - title: இலங்கைக்குக் கடத்த இருந்த 198 கிலோ கஞ்சா பிசின் பறிமுதல்; சிக்கிய நபரிடம் போலீஸார் தீவிர விசாரணை
+    url: https://www.vikatan.com/crime/198-kg-of-cannabis-gum-seized-for-smuggling-to-sri-lanka
+    publisher: Vikatan
+    date: 2026-11-04
+    language: ta
 open_questions:
   - The article says the arrest happened “on Tuesday” and was published on 3 November 2026; no separate incident date is given, so the publication date is used as the incident date.
   - Only one accessible source for this event was found after searching in English.
@@ -35,6 +40,20 @@ open_questions:
   - The opened page carries only a generic site image and logo, with no event photo, so no media entry is included.
   - Coordinates are for Ramanathapuram town as the district centre; the precise coastal interception point near Pasipattinam was not separately verified.
   - The new account spells the native place as Thalir Marungur while the existing report uses Thalir Marungoor; the relationship between the newly clarified 15 kg ganja S.P. Pattinam case and the Thondi case noted in the existing report is not clarified.
+  - The headline says 198 kg but the body twice states 2 kg plus 17.8 kg totalling 19.8 kg; the existing report's 19.8 kg figure is retained.
+  - Vikatan was published on 4 November 2026 about a Tuesday interception; the existing report's 3 November 2026 incident date is retained.
+  - The third page photo captioned as an SP investigation interview does not clearly show the seizure or arrest and is not added as media.
+media:
+  - kind: photo
+    url: https://www.vikatan.com/crime/198-kg-of-cannabis-gum-seized-for-smuggling-to-sri-lanka
+    media_url: https://media.vikatan.com/vikatan%2F2026-11-04%2F7cu6yzdd%2F%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%BF%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%8D-2.jpg?rect=0%2C83%2C1600%2C900&q=75&auto=format%2Ccompress&w=770
+    publisher: Vikatan
+    caption: Photo of the seized cannabis resin reported in the Ramanathapuram case.
+  - kind: photo
+    url: https://www.vikatan.com/crime/198-kg-of-cannabis-gum-seized-for-smuggling-to-sri-lanka
+    media_url: https://media.vikatan.com/vikatan%2F2026-11-04%2Fmj6sl9i9%2F%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%BF%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%8D-1.jpg?q=75&auto=format%2Ccompress&w=770
+    publisher: Vikatan
+    caption: Photo identified as the arrested Mano in the Ramanathapuram case.
 ---
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
@@ -42,10 +61,10 @@ S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
 
 Acting on a tip-off, a special team led by Police Inspector David Raviraj went
 to the coastal area near Pasiyamman Temple at Pasipattinam where suspected
-illegal drug activity was taking place. [@1] The team intercepted Mano and
-recovered 2 kg of hashish from his possession. [@1] Questioning led police to
+illegal drug activity was taking place. [@1,3] The team intercepted Mano and
+recovered 2 kg of hashish from his possession. [@1,3] Questioning led police to
 his residence, where another 17.8 kg was found, bringing the total seizure to
-19.8 kg of hashish. [@1]
+19.8 kg of hashish. [@1,3]
 
 Investigators described Mano as a repeat offender with multiple pending cases
 under the Narcotic Drugs and Psychotropic Substances Act, including a Thondi
@@ -55,3 +74,5 @@ operation. [@1] The accused was taken into custody and brought to the S.P.
 Pattinam police station following legal protocols. [@1]
 
 Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@2]
+
+Mano is the son of Anthony Xavier. [@3] Police said the hashish had been stocked for smuggling to Sri Lanka. [@3]
