@@ -104,6 +104,11 @@ open_questions:
   - This account describes the same five hectares as 1,500 plants in one passage but quotes police as saying 150,000 plants for the same area; the existing report retains 150,000.
   - This account says officers walked eight to nine hours to reach the site, leaving at about 05:00 and arriving at about 14:00, while the existing report's main account says about seven hours one way.
   - The submitted page's main photo repeats the same joint-team eradication image already listed from the earlier Tribun Medan account, so no duplicate media entry is added.
+  - The article's main image is captioned only as a 2019 illustration of a cannabis field, so no media entry for this event can be listed from this source.
+  - The 30-tonne burned figure is presented as an official estimate derived from plant count at almost 2 ons per plant, not a weighed total, so no kilograms figure is recorded.
+  - The article gives thousands of plants plus about 150 stems kept as samples but no total plant count, so it does not change the report's retained 150,000-plant figure.
+  - The same article also describes a separate 17-kg dried-cannabis seizure in a chicken coop in Marindal 1, Patumbak, Deli Serdang on 28 October 2026 with two arrests, a different event left out here.
+  - No grower, suspect, arrest or charge is named for the Tor Sihite plots in this source.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -290,6 +295,11 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-02
     language: id
+  - title: 5 Hektare Ladang Ganja Ditemukan di Perbukitan Mandailing Natal, Langsung Dimusnahkan
+    url: https://medan.kompas.com/read/2026/11/02/121820878/5-hektare-ladang-ganja-ditemukan-di-perbukitan-mandailing-natal-langsung
+    publisher: KOMPAS.com
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -345,7 +355,7 @@ media:
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31,35,36] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31,35,36,38] No growers were
 named or arrested in either account. [@1,2,24,27,29,36]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -353,7 +363,7 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28,32,35] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28,32,35,38] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1,28,31,35]
 
@@ -363,7 +373,7 @@ on the round trip. [@2,35]
 
 The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4,23,28,35]
 
-Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23,25] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15,25]
+Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23,25,38] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15,25,38]
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
