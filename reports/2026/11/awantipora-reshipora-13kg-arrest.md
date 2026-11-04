@@ -28,6 +28,10 @@ sources:
     url: https://thekashmirimages.com/2026/11/01/drug-peddler-held-in-awantipora-7/
     publisher: Kashmir Images
     date: 2026-11-01
+  - title: Awantipora police seize 1.3 kg cannabis, arrest peddler
+    url: https://brighterkashmir.com/awantipora-police-seize-13-kg-cannabis-arrest-peddler
+    publisher: Brighter Kashmir
+    date: 2026-11-02
 open_questions:
   - The sources give no separate time of day for the arrest; 1 November 2026 is the dateline of the first report and the publication date of the second.
   - No court outcome, remand or sentence has been reported; further investigation was said to be underway.
@@ -36,21 +40,20 @@ open_questions:
 ---
 
 A police team from Police Post Reshipora apprehended Imtiyaz Ahmad Naikoo at
-Ghat Tokina in the Reshipora area of south Kashmir's Awantipora. [@1] He is the
+Ghat Tokina in the Reshipora area of south Kashmir's Awantipora. [@1,3] He is the
 son of Ghulam Mohd Naikoo and a resident of Reshi Mohalla near the Masjid at
-Tral Payeen. [@1] Police in Awantipora apprehended a drug peddler in Reshipora
-and recovered contraband substances from his possession. [@2]
+Tral Payeen. [@1,3] Police in Awantipora apprehended a drug peddler in Reshipora
+and recovered contraband substances from his possession. [@2,3]
 
 During the search of the black bag carried by him, police recovered 1.20
 kilograms of semi-dried cannabis-like substance, 109.97 grams of dark-brown
 compressed cannabis-like substance wrapped in maize husk and 4.96 grams of
-dark-brown round-shaped compressed cannabis. [@1] Police described the haul as
+dark-brown round-shaped compressed cannabis. [@1,3] Police described the haul as
 more than 1.3 kilograms of cannabis from his possession in the Reshipora area.
-[@1]
+[@1,3]
 
 A case under relevant sections of the Narcotic Drugs and Psychotropic Substances
 (NDPS) Act has been registered at Police Station Awantipora under FIR No.
-257/2026. [@1] A case under relevant sections of the NDPS Act has been
+257/2026. [@1,3] A case under relevant sections of the NDPS Act has been
 registered at Police Station Awantipora, and further investigation has been
-taken up, police said. [@2]
-
+taken up, police said. [@2,3]
