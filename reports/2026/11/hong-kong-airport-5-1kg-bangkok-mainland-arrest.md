@@ -59,6 +59,11 @@ sources:
     publisher: 信報
     date: 2026-11-02
     language: zh
+  - title: 行李藏大麻花私煙 機場內地男已提堂
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261104-1104_00176_245/%E8%A1%8C%E6%9D%8E%E8%97%8F%E5%A4%A7%E9%BA%BB%E8%8A%B1%E7%A7%81%E7%85%99--%E6%A9%9F%E5%A0%B4%E5%85%A7%E5%9C%B0%E7%94%B7%E5%B7%B2%E6%8F%90%E5%A0%82
+    publisher: 東方日報
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The HK$1.06 million estimated value covers the cannabis, Part I poison products and cigarettes together, not cannabis alone.
   - No quantity, weight or estimated value is given separately for the three suspected Part I poison products.
@@ -67,19 +72,21 @@ open_questions:
   - 'Left out, as its quotation was not found in Hong Kong Customs and Excise Department: Officers seized about 5.1 kilograms of suspected cannabis buds in the case.'
   - 'Left out, as its quotation was not found in Hong Kong Customs and Excise Department: They also seized three types of products containing suspected Part I poison and 261 sticks of duty-not-paid cigarettes.'
   - The HKEJ page carries a Government Information Service photo captioned as the seized suspected cannabis buds that appears to republish the same agency handout already listed in the report, so no separate media entry is added.
+  - The Oriental Daily page carries a captioned photo of the seized suspected cannabis buds that appears to republish the same Customs handout already listed in the report, so no separate media entry is added.
+  - The new account confirms the West Kowloon appearance had occurred by 4 November but reports no outcome of that hearing.
 ---
 
 A 42-year-old Mainland male passenger arrived in Hong Kong from Bangkok,
-Thailand, on 2 November 2026. [@1,2,3,5,6] During customs clearance at Hong Kong
+Thailand, on 2 November 2026. [@1,2,3,5,6,7] During customs clearance at Hong Kong
 International Airport, officers found the suspected drugs and cigarettes inside
-his carry-on baggage and arrested him. [@2,4,5,6] The arrested man has been charged
+his carry-on baggage and arrested him. [@2,4,5,6,7] The arrested man has been charged
 with trafficking in a dangerous drug, possession of dutiable goods, failing to
-declare dutiable goods, and possession of a Part I poison. [@1,3,5,6] The case was
+declare dutiable goods, and possession of a Part I poison. [@1,3,5,6,7] The case was
 scheduled to be brought up at the West Kowloon Magistrates' Courts on 3
-November. [@2,4,5,6]
+November. [@2,4,5,6,7]
 
 Customs put the total estimated market value of the cannabis, poison products
-and cigarettes at about $1.06 million. [@1,3,5,6]
+and cigarettes at about $1.06 million. [@1,3,5,6,7]
 
 Customs said it would continue to step up enforcement against drug trafficking
 through intelligence analysis and risk-based checks focused on passengers from
