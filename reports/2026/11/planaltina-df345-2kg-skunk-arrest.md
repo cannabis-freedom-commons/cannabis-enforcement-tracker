@@ -38,6 +38,11 @@ sources:
     publisher: Alô Brasília
     date: 2026-11-01
     language: pt
+  - title: Dois homens são presos com cerca de 2 kg de skunk na região da Chapada dos Veadeiros
+    url: https://g1.globo.com/go/goias/videos-ja-1-edicao/video/dois-homens-sao-presos-com-cerca-de-2-kg-de-skunk-na-regiao-da-chapada-dos-veadeiros-15155460.ghtml
+    publisher: G1
+    date: 2026-11-03
+    language: pt
 open_questions:
   - The suspects were not named in the opened reports.
   - No court outcome beyond formalization of the flagrante arrest was reported.
@@ -46,22 +51,21 @@ open_questions:
 ---
 
 Military police arrested two men in flagrante for drug trafficking on the DF-345
-highway in Planaltina late in the afternoon of Sunday 1 November 2026. [@1] The
+highway in Planaltina late in the afternoon of Sunday 1 November 2026. [@1,3] The
 arrest was carried out by a Road Tactical Operations team attached to the
 Highway Policing Battalion at a roadblock on the highway. [@1] Officers stopped
 a red car after smelling a strong characteristic marijuana odor coming from
-inside as it passed the checkpoint. [@1] The driver and passenger admitted
+inside as it passed the checkpoint. [@1,3] The driver and passenger admitted
 having consumed drugs, and their nervousness plus backpacks in the back seat and
 trunk led officers to search the luggage. [@1]
 
 Inside the bags officers found about 2 kg of skunk, along with R$324 in cash.
-[@1] The military police valued the skunk at approximately R$150,000, describing
+[@1,3] The military police valued the skunk at approximately R$150,000, describing
 it as an estimated loss to organized crime. [@2] The stop was recorded at about
 5:40 pm during the roadblock operation. [@2]
 
 The suspects told police they had left Valparaiso de Goias for Alto Paraiso de
 Goias and claimed they had obtained the drug in Goias territory without prior
-payment. [@1] The pair, the vehicle, the money and all the seized material were
+payment. [@1,3] The pair, the vehicle, the money and all the seized material were
 taken to the 16th Police Station in Planaltina, where the flagrante arrest was
 formalized. [@1]
-
