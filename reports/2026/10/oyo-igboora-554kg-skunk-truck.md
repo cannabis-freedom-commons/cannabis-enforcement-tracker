@@ -114,6 +114,10 @@ sources:
     url: https://platformtimes.com.ng/two-europe-bound-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-ndlea-arrests-them/
     publisher: Platform Times
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians who swallowed 200 wraps of cocaine for Paris trip
+    url: https://www.qed.ng/ndlea-arrests-two-europe-based-nigerians-who-swallowed-200-wraps-of-cocaine-for-paris-trip/
+    publisher: QED.NG
+    date: 2026-11-01
 open_questions:
   - No street value for the 554 kg was published.
   - The dealer known as Omo Oba escaped on 25 October and his identity and whereabouts are not reported.
@@ -127,11 +131,12 @@ open_questions:
   - No verified photo of the Igboora truck seizure was identified; the page images carry empty captions and cannot be confirmed to show this event, so no media entry is added.
   - The Volvo truck detail and Thursday weekday in the existing report rest on earlier sources; the submitted account confirms truck, place, names, ages, date and weight but does not state the Volvo model.
   - The page's single image carries only the file-name caption ndlea001_1793531545 with no credit and cannot be confirmed to show the Igboora truck seizure, so no media entry is added.
+  - The submitted page is a multi-event roundup; this update uses only its Oyo cannabis component.
 ---
 
 ## The arrests
 
-On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23] The agency describes skunk as a strong strain of cannabis. [@1]
+On Thursday 29 October 2026, NDLEA officers conducted a follow-up operation on Idere Road in Igboora, Oyo State, and arrested Oguntona Nasiru, 46, and Soji Balogun, 47, while they were loading 554 kilograms of skunk into a Volvo truck for onward movement into town. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24] The agency describes skunk as a strong strain of cannabis. [@1]
 
 ## The target who escaped
 

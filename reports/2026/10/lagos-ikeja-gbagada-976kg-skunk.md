@@ -113,6 +113,10 @@ sources:
     url: https://platformtimes.com.ng/two-europe-bound-nigerians-excrete-200-cocaine-wraps-at-abuja-airport-ndlea-arrests-them/
     publisher: Platform Times
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-based Nigerians who swallowed 200 wraps of cocaine for Paris trip
+    url: https://www.qed.ng/ndlea-arrests-two-europe-based-nigerians-who-swallowed-200-wraps-of-cocaine-for-paris-trip/
+    publisher: QED.NG
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -148,11 +152,12 @@ open_questions:
   - The page's two images are an NDLEA logo graphic and a banner, not photos of the seizures, so no media entry is added.
   - The page's relevant images carry empty captions and cannot be verified to show the Lagos bus interceptions, so no media entry is added.
   - The submitted page is a multi-event NDLEA roundup headlined on the Abuja cocaine arrests; this decision covers only its Lagos cannabis component.
+  - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same roundup are separate non-cannabis events excluded from this cannabis account.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12,16,18,20,21,22,23] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13,16,18,20,21,22,23] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15,17,19,22,23]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12,16,18,20,21,22,23,24] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13,16,18,20,21,22,23,24] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15,17,19,22,23,24]
 
 ## The announcement
 
