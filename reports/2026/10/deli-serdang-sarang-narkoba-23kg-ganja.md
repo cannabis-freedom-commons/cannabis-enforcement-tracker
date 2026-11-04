@@ -174,6 +174,11 @@ sources:
     publisher: Sambar.id
     date: 2026-10-30
     language: id
+  - title: Pimpinan DPRD Apresiasi Polresta Deliserdang Tangkap 57 Tersangka, Sita Sabu 23 Kg, Ganja 23 Kg dan 42 Butir Ekstasi
+    url: https://www.hariansib.com/Medan-Sekitarnya/452197/pimpinan-dprd-apresiasi-polresta-deliserdang-tangkap-57-tersangka-sita-sabu-23-kg-ganja-23-kg-dan-42-butir-ekstasi/
+    publisher: Harian SIB
+    date: 2026-11-02
+    language: id
 open_questions:
   - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
   - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
@@ -216,10 +221,14 @@ open_questions:
   - This account values the whole haul at Rp11.5 billion and the ganja at Rp35 million, rounded against the Rp11.54 billion total and Rp35,276,000 ganja value already recorded.
   - Its account of 9,046 grams held by FEJ and FAP plus an additional 620 grams in Titi Rantai, Medan Baru, is unclear against the recorded 23,517.86-gram ganja total if the 620 grams were added on top.
   - The page carries several images without captions or credits identifying the event, so no media entry is added from this page.
+  - The new account gives the methamphetamine seizure as 23,020.24 grams, 10 grams above the 23,010.24 grams used in the existing report.
+  - The new account does not state the 30-case total recorded in the existing report, only the 57-suspect total.
+  - The new account's 2 November 2026 date is the DPRD meeting and publication date, not a new enforcement date; the existing report keeps 30 October 2026.
+  - The page's only image shows the police chief and council leaders posing together, not the drugs or arrests, so no media entry is included.
 ---
 
 It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja,
-23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17,18,19,20] The ganja came in
+23,010.24 grams of methamphetamine and 42 ecstasy pills. [@1,4,7,13,14,15,16,17,18,19,20,21] The ganja came in
 two lots: 14,471.86 grams from suspects Risky Daulay, Abu Hafsy and Rudi Faisal
 Lubis, and 9,046 grams from Venansius Eka Junaidi and Forman Asian April Purba.
 [@1,4,18] Deli Serdang police chief Kombes Pol Muhammad said police estimated the
@@ -245,7 +254,7 @@ Muhammad said the operation was intended to narrow the space for drug offenders 
 
 The first case was at Jalan Rebab Pasar II in Medan Baru on the evening of 28 October 2026. [@12] Police suspect the first lot of ganja came from a man known as FH, who is now on the wanted list in the Simalingkar area. [@12] Police suspect the ganja was sent by a man known as SL from Padangsidimpuan for sale in Medan. [@12] The second case was an Aceh–Tangerang methamphetamine network, with the arrest on the Banda Aceh–Medan road at Besitang, Langkat, on 25 October 2026. [@12] According to the suspect's account, the drugs were being carried with a wanted man known as MR.X from Idi Rayeuk in East Aceh to Tangerang, on the orders of a network identified as HN and R, for Rp150 million. [@12]
 
-One of the 57 suspects was a Malaysian national, police said. [@13]
+One of the 57 suspects was a Malaysian national, police said. [@13,21]
 
 Police chief Kombes Pol Muhammad said the operation included extra surveillance at air-transport facilities. [@14] The cases remained under further investigation by the Deli Serdang narcotics unit (Satresnarkoba). [@14]
 
