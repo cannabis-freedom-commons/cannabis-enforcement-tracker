@@ -25,6 +25,11 @@ sources:
     publisher: HSB Noticias
     date: 2026-11-04
     language: es
+  - title: Incautan 180kg de droga en el Valle
+    url: http://diariodelcauca.com.co/noticias/incautan-180kg-de-droga-en-el-valle
+    publisher: Diario del Cauca
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the seizure, so its publication date of 4 November 2026 is used as the incident date.
   - No arrests, names, charges or court outcome were reported; the Fiscalía investigation was still pending.
@@ -34,23 +39,22 @@ open_questions:
 ---
 
 Colombia's National Police seized about 180 kilograms of marijuana in a rural
-area of La Victoria, in northern Valle del Cauca. [@1] Officers acted after a
-report that a vehicle had overturned on a secondary road. [@1] The marijuana was
+area of La Victoria, in northern Valle del Cauca. [@1,2] Officers acted after a
+report that a vehicle had overturned on a secondary road. [@1,2] The marijuana was
 being carried in a red stake-bed truck that had been abandoned after the crash.
-[@1] The account names no arrests and says prosecutors must still establish
+[@1,2] The account names no arrests and says prosecutors must still establish
 responsibility and identify those behind the shipment. [@1]
 
 During the search, officers found a fitted hidden compartment, described as a
-caleta, in the truck body and additional packages hidden in the cab. [@1] The
+caleta, in the truck body and additional packages hidden in the cab. [@1,2] The
 inspection recovered 85 rectangular packages wrapped in black plastic containing
-marijuana. [@1] Authorities put the approximate weight at 180 kilograms and
-estimated its commercial value at about 36 million pesos. [@1] The truck used to
+marijuana. [@1,2] Authorities put the approximate weight at 180 kilograms and
+estimated its commercial value at about 36 million pesos. [@1,2] The truck used to
 move the load was appraised at about 15 million pesos. [@1]
 
 Both the drugs and the vehicle were seized and immobilized and placed at the
 disposal of the Attorney General's Office for the corresponding judicial
-proceedings. [@1] The operation took place amid road control and prevention
+proceedings. [@1,2] The operation took place amid road control and prevention
 actions in the department, where Valle's mobility secretary has urged timely
 reports of suspicious situations affecting road safety or enabling illicit
 activity. [@1]
-
