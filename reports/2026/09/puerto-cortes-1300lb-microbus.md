@@ -28,6 +28,12 @@ open_questions:
   - Police said the load might be linked to MS-13 and northern distribution routes; that remained a preliminary investigative line.
   - The cannabis was still described as suspected pending laboratory confirmation.
   - kg_seized converts 1,300 lb to about 589.7 kg; sources gave only pounds.
+  - The Facebook post's own publication date could not be read behind the login wall, so 19 September 2026 follows the corroborating outlets.
+  - The Facebook readable-text capture omits the post body behind login, so the match uses its captured title and description together with accessible outlets.
+  - Tiempo and the police video describe the load as more than 500 kilograms pending inspection, while later counts give 1,300 pounds; the existing report keeps the final 1,300-pound figure.
+  - No media entry is included because the Facebook thumbnails sit behind login and direct image addresses for the Tiempo police-handout photos were not extracted.
+  - 'Left out, as its quotation was not found in Policía Nacional de Honduras: They found 28 rectangular bales containing 1,300 pounds of suspected high-grade marijuana.'
+  - 'Left out, as its quotation was not found in Policía Nacional de Honduras: Three men aged 29, 55 and 68 were detained on preliminary aggravated drug-trafficking charges and handed to the competent authorities.'
 sources:
   - title: >-
       POLICÍA NACIONAL ASESTA GOLPE AL NARCOTRÁFICO CON DECOMISO DE 1,300 LIBRAS DE SUPUESTA
@@ -43,6 +49,16 @@ sources:
     publisher: Hondudiario
     date: 2026-09-20
     language: es
+  - title: Decomisan 1,300 libras de supuesta marihuana y detienen a tres hombres en Honduras
+    url: https://www.infobae.com/honduras/2026/09/20/decomisan-1300-libras-de-supuesta-marihuana-y-detienen-a-tres-hombres-en-honduras/
+    publisher: Infobae
+    date: 2026-09-20
+    language: es
+  - title: Decomisan 28 fardos de supuesta marihuana en Puerto Cortés
+    url: https://tiempo.hn/honduras/2026/09/19/decomisan-28-fardos-supuesta-marihuana-puerto-cortes/
+    publisher: Tiempo
+    date: 2026-09-19
+    language: es
 media:
   - kind: photo
     url: https://prensalibrehn.com/policia-nacional-asesta-golpe-al-narcotrafico-con-decomiso-de-1300-libras-de-supuesta-marihuana-en-puerto-cortes/
@@ -53,13 +69,13 @@ media:
 
 On 19 September 2026, specialists from Honduras's National Anti-Drug Police (DNPA), with other
 national police units, inspected a minibus in Puerto Cortés, Cortés department, after surveillance
-work. [@1,2]
+work. [@1,2,3,4]
 
-They found 28 rectangular bales containing 1,300 pounds of suspected high-grade marijuana. [@1,2]
+They found 28 rectangular bales containing 1,300 pounds of suspected high-grade marijuana. [@1,2,3,4]
 Police put the preliminary value above 10 million lempiras. [@1,2]
 
 Three men aged 29, 55 and 68 were detained on preliminary aggravated drug-trafficking charges and
-handed to the competent authorities. [@1,2] Prosecutors from the Special Prosecutor's Office against
+handed to the competent authorities. [@1,2,3] Prosecutors from the Special Prosecutor's Office against
 Organized Crime in San Pedro Sula supported the operation. [@1]
 
 Police said early lines of inquiry pointed to Mara Salvatrucha (MS-13) and distribution in northern
