@@ -23,6 +23,10 @@ sources:
     url: https://www.nwemail.co.uk/news/26698111.barrow-father-son-jailed-cocaine-cannabis-supply/
     publisher: The Mail
     date: 2026-11-04
+  - title: Barrow men jailed after police raid finds £6,755-worth of cocaine and cannabis
+    url: https://cumbriacrack.com/2026/11/04/barrow-men-jailed-after-police-raid-finds-6755-worth-of-cocaine-and-cannabis/
+    publisher: Cumbria Crack
+    date: 2026-11-04
 open_questions:
   - No separate sentencing date was published; 4 November 2026 is the article publication date and is used as the incident date.
   - No separate cannabis weight or cannabis-only value was published; the approximately £6,755 valuation covers all seized substances together and is excluded from cannabis figures.
@@ -31,21 +35,23 @@ open_questions:
   - No separate arrest date or custody details were published beyond the 11 February 2026 warrant and the later Crown Court sentences.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
   - The page image shows Jaydon Morgan and Simon Morgan credited to Cumbria Police and does not show the drugs, search or seizure, so no media entry is included.
+  - The new account dates the sentencing to Tuesday, 3 November, while the existing report uses the 4 November publication date as the incident date.
+  - The only image in the new account shows Jaydon Morgan and Simon Morgan and does not show the search, drugs or seizure, so no media entry is added.
 ---
 
 Preston Crown Court sentenced 20-year-old Jaydon Morgan and 43-year-old Simon
-Morgan, both of Greengate Street in Barrow. [@1] The case followed an
+Morgan, both of Greengate Street in Barrow. [@1,2] The case followed an
 investigation by Cumbria Police's Westmorland and Furness Community Serious and
-Organised Crime team. [@1] Jaydon Morgan was jailed for three years and four
+Organised Crime team. [@1,2] Jaydon Morgan was jailed for three years and four
 months after admitting being concerned in the supply of Class A and Class B
-drugs and possession of a Class B drug. [@1] Simon Morgan was jailed for four
-years and six months for possession with intent to supply Class A drugs. [@1]
+drugs and possession of a Class B drug. [@1,2] Simon Morgan was jailed for four
+years and six months for possession with intent to supply Class A drugs. [@1,2]
 
-Officers executed a warrant at their home address on February 11 2026. [@1]
+Officers executed a warrant at their home address on February 11 2026. [@1,2]
 During the searches officers recovered Class A and Class B drugs later confirmed
-as cocaine and cannabis, along with about £3,280 in cash. [@1] A drugs expert
+as cocaine and cannabis, along with about £3,280 in cash. [@1,2] A drugs expert
 estimated that the seized substances had a street value of approximately £6,755.
-[@1] Officers also seized two mobile phones belonging to the men. [@1]
+[@1,2] Officers also seized two mobile phones belonging to the men. [@1,2]
 
 The Westmorland and Furness serious and organised crime unit said the sentences
 reflected the seriousness of the offences and that proactive police work had
@@ -54,3 +60,4 @@ case forms part of Operation Alliance, Cumbria Constabulary's ongoing response
 to serious and organised crime involving warrants and drug seizures across the
 county in recent months. [@1]
 
+The pair were sentenced on Tuesday, November 3. [@2]
