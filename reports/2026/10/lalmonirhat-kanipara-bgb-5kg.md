@@ -35,6 +35,11 @@ sources:
     publisher: Probashir Diganta
     date: 2026-10-30
     language: bn
+  - title: লালমনিরহাট সীমান্তে গাঁজা-মদ-মোবাইলের ডিসপ্লে জব্দ
+    url: https://www.bd-pratidin.com/country/2026/10/30/1319436
+    publisher: Bangladesh Pratidin
+    date: 2026-10-30
+    language: bn
 open_questions:
   - The press release is dated Friday 30 October 2026, but neither outlet gives a separate time for the patrols themselves.
   - No one was detained at the mobile-display site, and the cannabis and liquor were described as ownerless, but neither report says whether anyone was later identified or charged.
@@ -42,28 +47,31 @@ open_questions:
   - Kanipara itself has no separate map point; coordinates are the Singimari village centre in Hatibandha.
   - Both outlets appear to reproduce the same BGB press release, and the battalion's own statement was not opened.
   - The Payshattibari mobile-display seizure is a separate non-cannabis operation mentioned only as context.
+  - The new article's opening places both operations in Srirampur Union, Patgram, while the existing report places the Kanipara/Singimari seizure in Hatibandha, and the new Kanipara paragraph names only the Kanipara area without an upazila.
+  - The about-350-yards and about-500-yards distances in the existing report are not stated in this source, so corroboration uses a shared description without those distances.
+  - The psc, Engineers suffix in the existing report's commander title is not stated in this source.
+  - The page carries one photo captioned as the Lalmonirhat border ganja-liquor-mobile-display seizure, but its caption and lack of credit do not establish that it is distinct from the BGB handout already in the report, so no media entry is added.
 ---
 
 A special patrol from the Singimari border outpost of Teesta Battalion (61 BGB),
 part of Border Guard Bangladesh, seized 5 kilograms of Indian cannabis and 50
 bottles of Indian liquor at Kanipara, about 350 yards inside Bangladesh, and
-found the goods ownerless. [@1] Probashir Diganta, citing the same battalion
+found the goods ownerless. [@1,3] Probashir Diganta, citing the same battalion
 press release, reported the same ownerless seizure of 5 kilograms of Indian
 cannabis and 50 bottles of Indian liquor at Kanipara. [@2] In a separate sweep,
 members of the battalion's Payshattibari border outpost seized 467 Indian
 mobile-phone displays about 500 yards inside the country at Payshattibari in
-Sreerampur union, Patgram upazila, and detained no one. [@1]
+Sreerampur union, Patgram upazila, and detained no one. [@1,3]
 
 The two operations were in Hatibandha's Singimari area and Patgram's
 Payshattibari, both in Lalmonirhat district on the Indian border. [@1] Teesta
-Battalion announced the seizures in a press release on Friday 30 October. [@2]
+Battalion announced the seizures in a press release on Friday 30 October. [@2,3]
 BGB put the combined seizure value of the displays, cannabis and liquor at 28
-lakh 94 thousand 500 taka (2,894,500 taka). [@1]
+lakh 94 thousand 500 taka (2,894,500 taka). [@1,3]
 
 Lieutenant Colonel Muhammad Shahinul Islam, psc, Engineers, commanding officer
 of Teesta Battalion-61 BGB, said the force follows a zero-tolerance policy
-against smuggling, drug infiltration, illegal trade and other border crime. [@1]
+against smuggling, drug infiltration, illegal trade and other border crime. [@1,3]
 He said intelligence work, regular patrols and special operations had been
 stepped up to protect the border, stop smuggling and safeguard state interests,
 and that the battalion's operations would continue. [@2]
-
