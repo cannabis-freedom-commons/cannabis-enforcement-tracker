@@ -22,6 +22,11 @@ sources:
     publisher: Sabah
     date: 2026-11-04
     language: tr
+  - title: Gümrük kapılarında büyük operasyon
+    url: https://www.urfanatik.com/gumruk-kapilarinda-buyuk-operasyon
+    publisher: Urfanatik
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement and publication date used as the incident date.
   - The combined 459 kg 599 g total and the cocaine and heroin weights are mentioned only to explain the mixed case and are excluded from cannabis figures; the cannabis-only figure is 325.941 kg.
@@ -32,7 +37,7 @@ open_questions:
 
 Türkiye's Trade Ministry Customs Enforcement teams carried out four separate
 operations at the Kapıkule, Hamzabeyli and İpsala customs gates in Edirne and at
-Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1] The ministry's
+Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2] The ministry's
 4 November 2026 statement put the breakdown at 118 kg 658 g of cocaine, 325 kg
 941 g of esrar, the Turkish term for cannabis recorded here as cannabis, and 15
 kg of heroin. [@1] Judicial investigations into the four operations were being
@@ -41,19 +46,18 @@ offices. [@1]
 
 At Kapıkule, officers judged a vehicle entering the customs area suspicious
 after risk analysis and sent it for X-ray screening, where they found suspicious
-density in its fuel tank. [@1] A detailed search there recovered 109 packages
+density in its fuel tank. [@1,2] A detailed search there recovered 109 packages
 holding 118 kg 658 g of cocaine and 32 packages holding 25 kg 744 g of esrar.
-[@1] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
-assessment. [@1] Officers searched its fuel tank with narcotics detector dogs
+[@1,2] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
+assessment. [@1,2] Officers searched its fuel tank with narcotics detector dogs
 YAPPA and ATLAS after suspicious density was found, and after the dogs reacted
-they found 85 packages holding a total of 81 kg 134 g of esrar. [@1] At İpsala,
+they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2] At İpsala,
 a truck entering Türkiye was sent for X-ray screening after risk-analysis work.
-[@1] After checks with narcotics detector dog İDA, a detailed examination of the
-suspect section found 200 packages containing 219 kg 63 g of esrar. [@1]
+[@1,2] After checks with narcotics detector dog İDA, a detailed examination of the
+suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2]
 
 At Istanbul Airport, officers checked the luggage of three incoming passengers
-identified through risk analysis. [@1] The examination there found a total of 15
-kg of heroin-type drugs. [@1] The statement stressed that Customs Enforcement
+identified through risk analysis. [@1,2] The examination there found a total of 15
+kg of heroin-type drugs. [@1,2] The statement stressed that Customs Enforcement
 teams continue the fight against smuggling using advanced systems, risk-analysis
 work and specialist staff. [@1]
-
