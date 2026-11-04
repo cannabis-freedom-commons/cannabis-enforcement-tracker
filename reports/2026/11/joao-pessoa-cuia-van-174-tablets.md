@@ -30,6 +30,11 @@ media:
     media_url: https://www.reporterpb.com.br/storage/images/noticias/2026/11/02/7b89a11b11029985394dc665.png
     publisher: Repórter PB
     caption: 'Seized drugs from the PM operation in Cuiá. Photo: Divulgação/PM'
+  - kind: video
+    url: https://g1.globo.com/pb/paraiba/noticia/2026/11/03/van-apreendida-com-174-tabletes-de-maconha-e-alugada-pela-prefeitura-de-cidade-na-paraiba-com-contrato-de-r-261-mil.ghtml
+    media_url: https://vodstreaming01.video.globo.com/44/96/70/15151093_70b7e4a86e6586b19535da71597c29f9eb4ad554/15151093-360p_487k_h264-dd66b840-b8e6-013f-000b-000000000000.mp4
+    publisher: G1
+    caption: Police seizure of drugs in the van registered in the delegate's name.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54e427074287058df5b0a8adf8d267ce
@@ -80,6 +85,16 @@ sources:
     publisher: CBN Paraíba
     date: 2026-11-01
     language: pt
+  - title: Van apreendida com 174 tabletes de maconha é alugada por prefeitura de cidade na Paraíba com contrato de R$ 261 mil
+    url: https://g1.globo.com/pb/paraiba/noticia/2026/11/03/van-apreendida-com-174-tabletes-de-maconha-e-alugada-pela-prefeitura-de-cidade-na-paraiba-com-contrato-de-r-261-mil.ghtml
+    publisher: G1
+    date: 2026-11-03
+    language: pt
+  - title: Van de delegado apreendida com droga é alugada à prefeitura paraibana com contrato de R$ 261 mil
+    url: https://jornaldaparaiba.com.br/politica/pleno-poder/van-de-delegado-apreendida-com-droga-e-alugada-a-prefeitura-paraibana-com-contrato-de-r-261-mil
+    publisher: Jornal da Paraíba
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight was published for the 174 tablets, so no kilogram figure is recorded.
   - The reports describe the seized material as maconha or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -96,6 +111,8 @@ open_questions:
   - The submitted ClickPB account does not name which police force carried out the seizure, so it does not resolve the existing Civil Police versus Military Police attribution difference.
   - The page's only image is a generic Civil Police patrol car credited to PCPB, not established by caption or text to show this van or seizure, so no media entry is added.
   - The submitted page's van image is captioned only as archive material, so it is not established to show this seizure and no media entry is added for this source.
+  - The almost R$1.2 million total paid since 2020 is phrased as an estimate from audit records, with no audited breakdown published.
+  - The informal partnership between the delegate and the company owner rests on the two men's own police testimony, with no independent corroboration reported.
 ---
 
 The workshop owner outside whose premises the van was parked was taken to give a
@@ -107,15 +124,17 @@ The van was parked in front of a mechanical workshop with one of its windows
 broken. [@1,3,4,8,9] The shop owner said the van had been left at the site on Thursday
 29 October by a service provider for repairs. [@1] Brandão said in a note that
 the vehicle had been left at the workshop on that Thursday by a service provider
-and that he had not known about the drugs found inside. [@2,5,6,7] Brandão said he had
+and that he had not known about the drugs found inside. [@2,5,6,7,10] Brandão said he had
 been surprised that the vehicle was allegedly used for unlawful activity without
-his knowledge or consent. [@2,9]
+his knowledge or consent. [@2,9,10]
 
 Brandão gave a statement about the case on the same Sunday at the Central de
-Flagrantes. [@2] He said he trusted a rigorous investigation of the facts and
-was in absolute tranquillity. [@1] The Paraíba Civil Police are investigating
-the seizure in the Cuiá case. [@1]
+Flagrantes. [@2,10] He said he trusted a rigorous investigation of the facts and
+was in absolute tranquillity. [@1,10] The Paraíba Civil Police are investigating
+the seizure in the Cuiá case. [@1,10]
 
 On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8,9]
 
 The seizure and all the seized drugs were presented at the Cidade da Polícia Civil in the Geisel neighbourhood, where the case will be investigated to establish the origin of the drugs and identify those responsible for their transport. [@5]
+
+The seized van was rented to the Mataraca municipality for R$261,000 for 12 months. [@10] The van is linked by the rental to the Municipal Health Fund through the company J P dos Prazeres Lucena. [@11] The company is owned by João Paulo dos Prazeres Lucena, described as delegate Walter Brandão's informal partner, a partnership both men acknowledged in testimony to the Civil Police. [@10] Brandão and João Paulo Prazeres gave statements to police as witnesses, saying they did not know about the drugs and were victims of the situation. [@11] The workshop owner was identified as Geovani Rodrigues Fernandes, who was arrested in flagrante with the van's keys and remained silent when questioned. [@10] The current rental contract was signed in March 2026 for R$261,000 over 12 months to carry health workers from João Pessoa to Mataraca during the week. [@11] State audit records show the company has held Mataraca contracts since at least 2020 worth R$173,000 to R$225,000 a year for health-worker transport. [@10] The company has received almost R$1.2 million from the municipality since 2020. [@10] Mataraca city government said the van's contracted use was exclusively to carry health workers from João Pessoa to Mataraca for municipal health care. [@10]
