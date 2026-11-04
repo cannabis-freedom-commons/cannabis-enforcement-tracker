@@ -24,6 +24,16 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-04
     language: ru
+  - title: Мужчину обвиняют в хранении наркотиков на сумму свыше 45 000 евро в софийском районе «Хиподрума»
+    url: https://burgasmedia.com/news/mazh-e-obvinen-che-e-darzhal-narkotici-za-nad-45-000-evro-v-stolichniya-hipodruma?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-04
+    language: ru
+  - title: Внесоха обвинителен акт срещу мъж, кътал в дома си дрога за над 45 000 евро
+    url: https://www.24chasa.bg/bulgaria/article/23864697
+    publisher: 24 Chasa
+    date: 2026-11-04
+    language: bg
 open_questions:
   - No separate indictment filing date was published, so the 4 November 2026 publication date is used as the incident date for this latest procedural step, while 14 June 2024 is the alleged offence date.
   - The 45,825.04 euro valuation covers marijuana, hashish and cocaine together, so no cannabis-only value is recorded.
@@ -32,22 +42,24 @@ open_questions:
   - Only one accessible source for this event was found after searching in Bulgarian, Russian and English.
   - The page image captioned Pexels is a stock photo and is not established to show this seizure, so no media entry is included.
   - The same article mentions a separate indictment concerning drugs worth more than 254,000 euros, a different event left out here.
+  - The 24 Chasa illustration captioned Themis does not show this seizure, so no media entry is added.
 ---
 
 The Sofia City Prosecutor's Office has sent an indictment to court against a man
 accused of holding drugs for distribution and selling part of them. [@1]
-Prosecutors say he sold part of the drugs to two people. [@1] The case has been
+Prosecutors say he sold part of the drugs to two people. [@1,2] The case has been
 transferred to the Sofia City Court, which has not yet set a date for a
-preliminary hearing. [@1]
+preliminary hearing. [@1,2,3]
 
 According to the prosecution, on 14 June 2024 the man held 3,145.67 grams of
 marijuana, 53.82 grams of hashish and 60.50 grams of cocaine in a flat in the
-capital's Hipodruma district. [@1] The reported weight is net weight. [@1] The
+capital's Hipodruma district. [@1,2,3] The reported weight is net weight. [@1] The
 indictment values all the substances together at 45,825.04 euros, the
-prosecution's figure for the mixed seizure. [@1]
+prosecution's figure for the mixed seizure. [@1,3]
 
 The cannabis component recorded here is about 3.2 kilograms of marijuana and
 hashish combined, while the cocaine is noted only to explain the same mixed
 case. [@1] No court outcome has been reported yet, with the preliminary hearing
 still unscheduled. [@1]
 
+The accused is identified by the initials Й. А. [@3] On the same date he sold nearly 5 grams of marijuana to one person and two quantities of cocaine totalling 1.32 grams to another person. [@3] The investigation was conducted by officers of 06 RU-SDVR under the supervision of the Sofia City Prosecutor's Office. [@3] The prosecution qualifies the conduct as a continuing offence with three separate acts under Article 354a(2) in connection with Article 354a(1) and Article 26(1) of the Criminal Code. [@3]
