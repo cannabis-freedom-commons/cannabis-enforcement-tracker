@@ -89,6 +89,7 @@ open_questions:
   - This account names no growers, arrests, suspects or charges for the Tor Sihite plots.
   - The page's preview thumbnail has no caption or credit establishing that it shows the Tor Sihite field, so no media entry is added for this source.
   - The page displays its main photo without a caption, credit or alt text identifying its content, so no media entry is listed for this source.
+  - 'The page''s only image is captioned as North Sumatra police drug director Kombes Pol. Andy Arisandi and credited Foto: Matius/Mistar, showing the official rather than the field, plants or destruction, so no media entry is included.'
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -250,6 +251,11 @@ sources:
     publisher: Suara Sumut Online
     date: 2026-11-02
     language: id
+  - title: Polisi Ungkap Modus Petani Ganja di Tor Sihite Madina Hitung Masa Panen
+    url: https://mistar.id/news/hukum-peristiwa/polisi-ungkap-modus-petani-ganja-di-tor-sihite-madina-hitung-masa-panen
+    publisher: HARIAN MISTAR
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -322,7 +328,7 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
@@ -334,6 +340,8 @@ Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spo
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26]
 
-The site had slopes of up to 40 degrees. [@27,32] There was no footpath to the site, so officers had to open a new route through dense forest with little light. [@27] Some personnel gave up and did not reach the field because the route was so difficult and long. [@27] The growers planted similar cannabis seedlings at their homes or huts as a timing reference and only climbed to harvest the hill fields when the home plants were ready. [@27]
+The site had slopes of up to 40 degrees. [@27,32] There was no footpath to the site, so officers had to open a new route through dense forest with little light. [@27,33] Some personnel gave up and did not reach the field because the route was so difficult and long. [@27] The growers planted similar cannabis seedlings at their homes or huts as a timing reference and only climbed to harvest the hill fields when the home plants were ready. [@27,33]
 
 The cannabis plants were about one to two metres tall. [@28]
+
+The growers carried thousands of cannabis seeds to the Tor Sihite site and planted them there, returning after an estimated five to six months to harvest. [@33] Police said the harvested cannabis was intended for Padang in West Sumatra and Medan, and that cannabis previously found in West Sumatra had come from Tor Sihite in Mandailing Natal. [@33] Police described the Tor Sihite growing area as pristine forest located far from residential areas. [@33]
