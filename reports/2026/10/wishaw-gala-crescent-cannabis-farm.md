@@ -44,6 +44,10 @@ sources:
     url: https://www.glasgowlive.co.uk/news/glasgow-news/cannabis-plants-dumped-lanarkshire-garden-34837484
     publisher: Glasgow Live
     date: 2026-10-30
+  - title: Cannabis plants 'dumped in garden' after police drugs raid as locals 'nabbed equipment'
+    url: https://uk.news.yahoo.com/cannabis-plants-dumped-garden-police-043000861.html
+    publisher: Yahoo News UK
+    date: 2026-10-30
 open_questions:
   - Police gave no count of the plants found inside the house, the weight of cannabis seized or the value of the items taken.
   - The police statement does not say what the two men were specifically charged with or when they are due in court.
@@ -54,20 +58,19 @@ open_questions:
 ---
 
 Police Scotland officers executed a warrant at a property on Gala Crescent in
-Wishaw, Lanarkshire, on Friday 16 October 2026. [@1] Inside they found a
-cannabis cultivation. [@1] Two men, aged 38 and 31, were arrested and charged in
-connection with drugs offences. [@1] A number of items were also seized. [@1]
+Wishaw, Lanarkshire, on Friday 16 October 2026. [@1,3] Inside they found a
+cannabis cultivation. [@1,3] Two men, aged 38 and 31, were arrested and charged in
+connection with drugs offences. [@1,3] A number of items were also seized. [@1]
 Both men were released on an undertaking to appear in court at a later date.
-[@1]
+[@1,3]
 
 Residents of a council housing scheme found scores of big cannabis plants dumped
-in a front garden after the police bust. [@1] A neighbour said a police
+in a front garden after the police bust. [@1,3] A neighbour said a police
 helicopter and vans had been on the street a few weeks earlier. [@1] The
 neighbour said workers later emptied the house and dumped everything on the
-street. [@2] The pile also held soil, plant pots and containers for chemicals,
+street. [@2,3] The pile also held soil, plant pots and containers for chemicals,
 the neighbour said. [@1] One resident said he moved handfuls of leaves from the
 pavement into bins and counted scores of large plants, some of which were still
 growing. [@1] A large ventilation duct suggested an industrial cultivation, he
 said. [@1] People walking past picked bits and pieces from the pile, he said.
 [@1] Children had to walk past the garden to get to school, he added. [@1]
-
