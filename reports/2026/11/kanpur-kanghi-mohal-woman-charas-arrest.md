@@ -32,6 +32,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/04/gifmagic_site_-_2026-11-04t122053_777_1793775146945.gif
     publisher: Dainik Bhaskar
     caption: Photo of police and Crime Branch team surrounding the tea shop during the raid.
+  - kind: photo
+    url: https://hindi.news18.com/news/uttar-pradesh/kanpur-lady-drug-smuggler-shabnam-arrested-3kg-charas-worth-1-5-crore-local18-10962452.html
+    media_url: https://images.news18.com/ibnkhabar/uploads/2026/11/up-news-2026-11-04T122237.975-2026-11-c12785846790594d12bdec253cd2cc53-1200x675.jpg?impolicy=website&width=640&height=360
+    publisher: News18 Hindi
+    caption: Photo of the arrested accused in the Kanpur charas case.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6aea84dd41624fb3c7ad9b8807c8dab
@@ -52,6 +57,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: प्रेमी गया जेल तो संभाली चरस तस्करी की कमान, कानपुर में डेढ़ करोड़ की चरस के साथ लेडी डॉन गिरफ्तार
+    url: https://hindi.news18.com/news/uttar-pradesh/kanpur-lady-drug-smuggler-shabnam-arrested-3kg-charas-worth-1-5-crore-local18-10962452.html
+    publisher: News18 Hindi
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -66,15 +76,19 @@ open_questions:
   - The article gives Tuesday late night at about 11 pm and was published on 4 November 2026; 3 November 2026 is retained from the existing report as the incident date.
   - The article says both charas and ganja were sold through the shop but gives no separate ganja weight, so no additional cannabis weight can be recorded.
   - The lead image without a caption and the portrait captioned only as the accused woman are omitted as media; only the captioned bag-seizure and raid-cordon photos are listed.
+  - The new account says the charas was found in envelopes hidden in different parts of the house, while the existing report places about 3 kg in a bag in the tea shop, so the exact recovery container and location remain unresolved.
+  - The new account lists the aliases Nasreen, Bano and Guddi, while the existing report says she was also called Chacha, so the alias accounts differ.
+  - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
+  - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
 Kanghi Mohal late on Tuesday night. [@1,3] She is a resident of Kanghi Mohal in
-Kanpur. [@1,3] Women police helped surround her near her house after a precise
+Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
 late-night tip. [@1,2]
 
 Police put the international-market value of the seized charas at about Rs 1.5
-crore. [@1,2,3] Officers said they had been receiving information for several days
+crore. [@1,2,3,4] Officers said they had been receiving information for several days
 that charas was being sold in Kanghi Mohal. [@1,3] The roadside detention and
 search caused alarm among people nearby. [@1]
 
@@ -82,8 +96,10 @@ Police Commissioner Raghuveer Lal said Shabnam's husband Raees Ahmed had died
 some time earlier. [@1,3] After his death, she lived with her partner Riyaz
 Khatola. [@1,3] Riyaz had earlier been sent to jail for allegedly selling charas
 while carrying an illegal pistol and had not been released. [@1,2] Police said
-Shabnam took over his charas-selling business after he went to jail. [@1,2,3]
+Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4]
 Besides selling, she also smuggled charas, police said. [@1] Women police were
 questioning her to trace her associates. [@1,3]
 
 The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3] The shop allegedly operated as a front for selling both charas and ganja. [@3] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3]
+
+Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
