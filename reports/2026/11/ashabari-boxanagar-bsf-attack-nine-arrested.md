@@ -36,6 +36,11 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-03
     language: hi
+  - title: त्रिपुरात BSF जवानांवर हल्ला; 9 आरोपी फरार, बांगलादेशात पळून जाण्याची शक्यता | Navarashtra
+    url: https://www.navarashtra.com/india/tripura-bsf-jawans-attack-nine-accused-bangladesh-border-alert-rk-1374177.html
+    publisher: Navarashtra
+    date: 2026-11-04
+    language: mr
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -48,13 +53,17 @@ open_questions:
   - The page's only image is captioned only "bsf" with no credit or event detail, so it is not established to show this attack and no media entry is included.
   - The new account says the personnel's weapons were snatched, while the existing report says the mob allegedly attempted to snatch firearms, so whether weapons were taken or only an attempt occurred remains unclear.
   - The Bhaskar Hindi page's only image caption repeats the headline with no event-specific detail or credit, so it is not established to show this attack and no media entry is included.
+  - The new account reports ten arrests out of 19 named accused, while the report records nine, so whether a tenth arrest occurred after the earlier publications remains unclear.
+  - The new account describes the injured as three jawans including the company commander and is summarised as the commander plus three jawans, so the exact number of injured personnel remains unclear.
+  - The new account says a pump-action gun was snatched, while the report says firearms were allegedly attempted to be snatched, so whether a weapon was taken or only an attempt occurred remains unclear.
+  - The page's only image carries only the headline as its caption with no credit or event-specific detail, so it is not established to show this attack and no media entry is included.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
-attacking Border Security Force troopers in Sepahijala district. [@1,3,4] Three
+attacking Border Security Force troopers in Sepahijala district. [@1,3,4,5] Three
 personnel, including an assistant commandant who is the local company commander,
 were injured when a mob of men and women attacked them with sticks. [@1] The mob
-allegedly attempted to snatch their firearms and damaged a force vehicle. [@1]
+allegedly attempted to snatch their firearms and damaged a force vehicle. [@1,5]
 Police said nine individuals arrested in an overnight operation would be
 produced in court on Tuesday. [@2,4]
 
@@ -62,11 +71,11 @@ The incident occurred on Monday at Ashabari village near the India-Bangladesh
 border during a road blockade villagers enforced to protest the alleged assault
 of a local resident by the BSF. [@1] Sepahijala superintendent of police Bijoy
 Debbarma said BSF personnel on duty had noticed smuggling activities on the
-border. [@1] When the BSF personnel challenged the smugglers, the smugglers
+border. [@1,5] When the BSF personnel challenged the smugglers, the smugglers
 pelted stones and scuffled with them, after which the personnel recovered
 packets of ganja from the spot. [@1,3,4] Those who fled mobilised villagers and
 enforced a road blockade, and the BSF company commander travelling with a
-constable and driver came under attack at the blockade. [@1,3]
+constable and driver came under attack at the blockade. [@1,3,5]
 
 Police later brought the situation under control. [@1] The superintendent said
 the chief minister and Home Department had directed stringent action and the
@@ -74,4 +83,6 @@ director general of police was monitoring the investigation. [@2] He said
 efforts were under way to arrest those still absconding and produce them before
 the court. [@2]
 
-The attack occurred at about 9 a.m. on 2 November while BSF personnel were on duty patrolling the border. [@4] The nine detained comprised six men and three women. [@4] Two constables and an assistant commandant were seriously injured in the attack and taken to hospital. [@4] After initially fleeing, the group returned with others, tried to block the road, and snatched the personnel's weapons during the assault. [@4]
+The attack occurred at about 9 a.m. on 2 November while BSF personnel were on duty patrolling the border. [@4] The nine detained comprised six men and three women. [@4] Two constables and an assistant commandant were seriously injured in the attack and taken to hospital. [@4,5] After initially fleeing, the group returned with others, tried to block the road, and snatched the personnel's weapons during the assault. [@4]
+
+The BSF complaint names 19 attackers, of whom ten had been arrested and nine remained fugitive with search operations and raids continuing. [@5] Police said the nine fugitives might cross the India-Bangladesh international border into Bangladesh, so Tripura police directed the BSF to maintain special vigilance on the border. [@5] BSF Tripura Frontier inspector general Princi Rani and Sepahijala superintendent Bijoy Debbarma visited the Ashabari border area on Tuesday with other officers and briefed chief minister Manik Saha. [@5] BSF, Tripura State Rifles and police held a joint flag march on Wednesday while tension continued in the area. [@5] BSF said its personnel showed restraint and did not use lethal weapons despite the attack. [@5]
