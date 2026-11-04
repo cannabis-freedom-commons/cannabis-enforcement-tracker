@@ -95,6 +95,11 @@ sources:
     publisher: Jornal da Paraíba
     date: 2026-11-03
     language: pt
+  - title: Quase 200 kg de maconha são achados em van que pertence a delegado; dono de oficina é preso
+    url: https://seligapb.com.br/quase-200-kg-de-maconha-sao-achados-em-van-que-pertence-a-delegado-dono-de-oficina-e-preso/
+    publisher: Se Liga PB
+    date: 2026-11-02
+    language: pt
 open_questions:
   - No weight was published for the 174 tablets, so no kilogram figure is recorded.
   - The reports describe the seized material as maconha or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -113,10 +118,14 @@ open_questions:
   - The submitted page's van image is captioned only as archive material, so it is not established to show this seizure and no media entry is added for this source.
   - The almost R$1.2 million total paid since 2020 is phrased as an estimate from audit records, with no audited breakdown published.
   - The informal partnership between the delegate and the company owner rests on the two men's own police testimony, with no independent corroboration reported.
+  - This account headlines almost 200 kg and says almost 200 kilos were found, but gives only 174 tablets with no laboratory weight, so no kilogram figure can be recorded.
+  - This account says the van was inside a workshop, while the existing report says it was parked in front of a mechanical workshop.
+  - This account says only A polícia and os policiais without naming the force, so it does not resolve the existing Civil Police versus Military Police attribution difference.
+  - 'The page carries an image marked only as FOTO: REPRODUÇÃO with no caption establishing that it shows this van or seizure, so no media entry is added for this source.'
 ---
 
 The workshop owner outside whose premises the van was parked was taken to give a
-statement and was then booked for drug trafficking. [@2,4,7,8,9] The driver said to have
+statement and was then booked for drug trafficking. [@2,4,7,8,9,12] The driver said to have
 delivered the van to the workshop had not been found when the reports were last
 updated. [@1]
 
@@ -124,7 +133,7 @@ The van was parked in front of a mechanical workshop with one of its windows
 broken. [@1,3,4,8,9] The shop owner said the van had been left at the site on Thursday
 29 October by a service provider for repairs. [@1] Brandão said in a note that
 the vehicle had been left at the workshop on that Thursday by a service provider
-and that he had not known about the drugs found inside. [@2,5,6,7,10] Brandão said he had
+and that he had not known about the drugs found inside. [@2,5,6,7,10,12] Brandão said he had
 been surprised that the vehicle was allegedly used for unlawful activity without
 his knowledge or consent. [@2,9,10]
 
@@ -133,8 +142,10 @@ Flagrantes. [@2,10] He said he trusted a rigorous investigation of the facts and
 was in absolute tranquillity. [@1,10] The Paraíba Civil Police are investigating
 the seizure in the Cuiá case. [@1,10]
 
-On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8,9]
+On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8,9,12]
 
 The seizure and all the seized drugs were presented at the Cidade da Polícia Civil in the Geisel neighbourhood, where the case will be investigated to establish the origin of the drugs and identify those responsible for their transport. [@5]
 
 The seized van was rented to the Mataraca municipality for R$261,000 for 12 months. [@10] The van is linked by the rental to the Municipal Health Fund through the company J P dos Prazeres Lucena. [@11] The company is owned by João Paulo dos Prazeres Lucena, described as delegate Walter Brandão's informal partner, a partnership both men acknowledged in testimony to the Civil Police. [@10] Brandão and João Paulo Prazeres gave statements to police as witnesses, saying they did not know about the drugs and were victims of the situation. [@11] The workshop owner was identified as Geovani Rodrigues Fernandes, who was arrested in flagrante with the van's keys and remained silent when questioned. [@10] The current rental contract was signed in March 2026 for R$261,000 over 12 months to carry health workers from João Pessoa to Mataraca during the week. [@11] State audit records show the company has held Mataraca contracts since at least 2020 worth R$173,000 to R$225,000 a year for health-worker transport. [@10] The company has received almost R$1.2 million from the municipality since 2020. [@10] Mataraca city government said the van's contracted use was exclusively to carry health workers from João Pessoa to Mataraca for municipal health care. [@10]
+
+Police said they went to the workshop after receiving an anonymous tip about the vehicle and the drugs. [@12] The workshop owner remained in custody pending a custody hearing. [@12]
