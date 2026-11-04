@@ -49,6 +49,11 @@ sources:
     publisher: Leccenews24
     date: 2026-11-04
     language: it
+  - title: 'Hashish, cocaina e oltre 10mila euro in casa: arrestato un 24enne'
+    url: https://www.ilgallo.it/cronaca/hashish-cocaina-e-oltre-10mila-euro-in-casa-arrestato-un-24enne/
+    publisher: Il Gallo
+    date: 2026-11-04
+    language: it
 open_questions:
   - The 5.35 grams of cocaine are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The seized cash of 1,760 euros plus 8,285 euros is suspected proceeds, not a drug valuation, and is therefore not recorded in figures.
@@ -71,23 +76,25 @@ open_questions:
   - The new page reports two precision scales while the existing report records one electronic scale, so the scale count remains unresolved.
   - The new page does not mention the 167 district, the girl present, the refrigerator, sweatshirt, table, pouch, wardrobe metal box, car check, prosecutor order, lawyers or validation hearing, which remain supported only by earlier sources.
   - The page's only image file is named foto-stupefacenti-logo.jpg with the caption Il materiale sequestrato., which does not establish that it shows this seizure, so no media entry is included.
+  - This Il Gallo account calls the suspect 24 and reports about 180 grams of hashish in two blocks with two precision scales, differing from the report's 25-year-old J.D.B., 76 plus 100 grams totalling 176 grams, and one electronic scale.
+  - The page's image has empty alternative text and no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Anti-drug police raided a building in Lecce's 167 district on the afternoon of
-Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1,2,3,4,5,6] The
+Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1,2,3,4,5,6,7] The
 25-year-old was at home with a girl when officers arrived. [@1]
 
-Officers found a 76-gram block of hashish hidden in the refrigerator. [@1,2] They
+Officers found a 76-gram block of hashish hidden in the refrigerator. [@1,2,7] They
 found 1,760 euros in mixed-denomination banknotes in a side pocket of a
 sweatshirt. [@1] On a table officers found packaging material left in disorder
 and, in a pouch, 5.35 grams of cocaine and three knives impregnated with
-narcotic substance. [@1,2,3,4,5,6] In the young man's bedroom officers found another block
+narcotic substance. [@1,2,3,4,5,6,7] In the young man's bedroom officers found another block
 containing 100 grams of hashish and one electronic scale. [@1,2,5,6] In a wardrobe in
 the same bedroom, under some clothing, officers found a metal box hiding 8,285
 euros. [@1,2] A subsequent check of the young man's car proved negative. [@1]
 
 On the duty prosecutor's order J.D.B. was placed under house arrest, with a
 validation hearing expected in the presence of lawyers Matteo De Vergori and
-Salvatore Rollo. [@1,2,6]
+Salvatore Rollo. [@1,2,6,7]
 
-Officers acted after observing the suspect, who was suspected of hiding drugs ready for sale in his home. [@2,5,6]
+Officers acted after observing the suspect, who was suspected of hiding drugs ready for sale in his home. [@2,5,6,7]
