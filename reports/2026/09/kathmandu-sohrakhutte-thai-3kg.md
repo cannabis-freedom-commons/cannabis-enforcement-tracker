@@ -31,32 +31,42 @@ sources:
     publisher: Ratopati
     date: 2026-09-15
     language: ne
+  - title: Thai Ganja Smuggled via Myanmar Nationals to India
+    url: https://english.ratopati.com/story/84101/myanmar-porters-to-transport-thai-marijuana-to-nepal
+    publisher: Ratopati
+    date: 2026-10-18
 open_questions:
   - Both accounts are the English and Nepali editions of the same outlet, not two independent outlets.
   - 13 September is the Gregorian equivalent of Bhadra 28, the arrest date given in the Nepali calendar.
   - The source says the marijuana would be worth 12 million rupees if it reached India but does not specify the currency, so no structured value is recorded.
   - The photo on the source pages could no longer be retrieved from the publisher's image server, so no media entry was added.
   - No court outcome for the three accused was reported.
+  - The new account says Phyo landed on 14 September, while the existing report dates the arrest to Bhadra 28 (13 September); the one-day difference is unresolved.
+  - The same article also describes other seizures — 8 kg on 22 August, a 3 kg 200 gram DHL parcel on 10 August, a 910 gram postal parcel on 25 September, and totals of eight Myanmar carriers since August 2026 and more than 483 kg since August 2024 — which are separate events left out of this report.
+  - Both the existing English and Nepali sources and this new English account come from Ratopati, so they are not independent outlets.
+  - The page's featured image is captioned only with the article title and carries no credit or description establishing that it shows the Sohrakhutte seizure, so no media entry is added.
 ---
 
 The Narcotics Control Bureau arrested three people at Sohrakhutte in
 Kathmandu with 3 kg of marijuana brought from Thailand. [@1,2]
 
-The courier was Jin Jin Phyo, 29, a Myanmar national. [@1,2] She carried the
+The courier was Jin Jin Phyo, 29, a Myanmar national. [@1,2,3] She carried the
 marijuana on a Cathay Pacific flight routed through Vietnam and Hong Kong.
 [@1,2] Bureau officers followed her from the airport and arrested her at
 Sohrakhutte on Bhadra 28. [@1,2] Police recovered the 3 kg of marijuana she
-had brought. [@1,2]
+had brought. [@1,2,3]
 
 Two other people who had come from India to receive the marijuana were also
 arrested: Barkatullah, 30, from Gorakhpur, and Yusuf Khan, 25, from Uttar
-Pradesh. [@1,2] Police watched the hotel where the Myanmar woman was staying
+Pradesh. [@1,2,3] Police watched the hotel where the Myanmar woman was staying
 and arrested the two Indians when they arrived to collect the drug. [@1,2]
 
-The woman had been living in Singapore and working as a carpenter. [@1,2]
+The woman had been living in Singapore and working as a carpenter. [@1,2,3]
 Her travel history showed she went to Vietnam, received a suitcase with
 concealed marijuana from another Myanmar national there, and came to
 Kathmandu via Hong Kong. [@1,2] Officers involved in the investigation said
 the recovered marijuana would be worth about Rs12 million if it reached
-India. [@1,2] The Bureau is investigating the accused under the Narcotics
+India. [@1,2,3] The Bureau is investigating the accused under the Narcotics
 Act. [@1,2]
+
+The two Indian men came to Hotel Green Orchid in Thamel to collect the marijuana. [@3] The reported 12 million rupee valuation for the 3 kg load was denominated in Indian Rupees. [@3] Phyo accepted an offer covering her round-trip tickets and hotel expenses and was told in Singapore to carry a suitcase from Vietnam to Kathmandu. [@3]
