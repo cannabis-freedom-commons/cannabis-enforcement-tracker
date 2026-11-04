@@ -36,6 +36,11 @@ sources:
     publisher: Emedia
     date: 2026-11-02
     language: fr
+  - title: 'Vaste opération antidrogue à Bignona : Plusieurs champs détruits, 37 sacs de chanvre indien saisis'
+    url: https://www.seneweb.com/fr/news/Societe/vaste-operation-antidrogue-a-bignona-plusieurs-champs-detruits-37-sacs-de-chanvre-indien-saisis_n_999002414.html
+    publisher: Seneweb
+    date: 2026-11-02
+    language: fr
 open_questions:
   - No weight was published for the 37 bags of cannabis, so no kilograms can be recorded.
   - No count of the cannabis plants or of the area of the destroyed fields was published.
@@ -45,19 +50,18 @@ open_questions:
 
 On 30 October 2026, sailors and commandos from the Elinkine naval base raided
 cannabis-growing sites at Boune and Bocko in the Karone Islands of Bignona
-department. [@2] The troops moved into the two isolated island villages in
+department. [@2,4] The troops moved into the two isolated island villages in
 Kafountine commune, Kataba 1 arrondissement, as part of a large security sweep.
-[@1] No arrests were made in the operation. [@2] The growers had left the area
-before the forces arrived. [@2] The operation ended without incident. [@2]
+[@1,4] No arrests were made in the operation. [@2,4] The growers had left the area
+before the forces arrived. [@2,4] The operation ended without incident. [@2]
 
 The sweep uncovered several fields of chanvre indien, the French term for Indian
 hemp or cannabis, hidden in dense vegetation. [@2] Troops destroyed the fields
 on site by fire. [@1] They seized 37 bags of Indian hemp packed for transport.
-[@2] They also seized four 20-litre containers filled with cannabis seeds. [@3]
+[@2,4] They also seized four 20-litre containers filled with cannabis seeds. [@3,4]
 
 The island zone is amphibious and difficult to access, requiring a methodical
 search by the deployed sailors and commandos. [@1] The Elinkine base presented
 the action as reasserting state authority in the enclaved coastal sectors. [@1]
 The operation forms part of continuing defence and security operations against
 drug production and trafficking in the Casamance islands. [@2]
-
