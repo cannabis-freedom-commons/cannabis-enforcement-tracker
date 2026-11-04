@@ -167,6 +167,11 @@ sources:
     publisher: Vision Thai 看見泰國
     date: 2026-11-02
     language: zh
+  - title: バンコク繁華街で大麻入りゼリー販売 2歳児と両親の体調不良受け発覚
+    url: https://newsclip.be/thai-news/thai-local/43750
+    publisher: newsclip.be
+    date: 2026-11-01
+    language: ja
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -204,17 +209,20 @@ open_questions:
   - The page's image carries only the generic article title as caption with no credit, so no media entry is added rather than repeating raid photos already linked in the existing report.
   - This Vision Thai page dates the search to 1 November 2026, while the existing report uses 29 October 2026 from the FDA statement.
   - The page carries four images captioned only with the article title and police as source, with no event-specific description, so no media entry is added rather than repeating raid photos already linked.
+  - The newsclip.be page carries six images with file names indicating police handout photos and a generic Police TV credit but no image-specific captions, so no media entry is added rather than repeating raid photos already linked in the existing report.
+  - 'Left out, as its quotation was not found in newsclip.be: Police and food and drug officials searched a cannabis shop in a building on Banthat Thong Road in Bangkok''s Pathum Wan district on 29 October 2026.'
+  - 'Left out, as its quotation was not found in newsclip.be: The search followed a case in Khlung district, Chanthaburi province, where a family fell severely ill after eating cannabis sweets, with convulsions and loss of consciousness that required ventilators.'
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
 Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13,18,22] The
-shop occupied the second floor. [@1,4,5,7,14,15,16,17,19,20] Officers seized 90 cannabis-mixed jelly
+shop occupied the second floor. [@1,4,5,7,14,15,16,17,19,20,26] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25] The FDA put the value of the jellies at 50,000 baht.
-[@2,5,18,22,23,24]
+Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26] The FDA put the value of the jellies at 50,000 baht.
+[@2,5,18,22,23,24,26]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24] A 26-year-old woman
+Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24,26] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9,16] Officers told her
 she faced a charge of selling a controlled herb without permission. [@3,7,14,25] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
@@ -241,3 +249,5 @@ Police arrested a 26-year-old woman, identified only as Saowalak. [@10]
 The Central Investigation Bureau commissioner, Pol Lt Gen Nattasak Chaowanasai, said cannabis had increasingly been used for purposes unrelated to medical treatment, with some operators mixing it into gummies, cookies, sweets and other food products to produce intoxicating effects. [@11]
 
 The raid followed a complaint to Bangkok police from a couple living in Chanthaburi province, who said they passed out after eating the sweets. [@10]
+
+Banthat Thong Road is known as a restaurant area next to Chulalongkorn University and is popular with local Thais as well as foreign tourists and expatriates. [@26]
