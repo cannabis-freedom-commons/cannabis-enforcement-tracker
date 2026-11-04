@@ -31,6 +31,7 @@ open_questions:
   - The Warwickshire World account is an SWNS wire report, so it is not independent of other outlets that carried the same copy.
   - The page mentions police bodycam footage of the search but carries no video, so no footage is linked.
   - The submitted page gives its publication date of 2 November 2026 and no separate day for the sentencing; the 26 October 2026 sentencing date rests on the existing report's earlier sources.
+  - The Daily Mail gives the raid date as August 19 without a year; the year 2026 rests on its 29 October 2026 publication date and the existing report's earlier sources.
 sources:
   - title: "Men jailed over underground cannabis production in Warwickshire"
     url: https://www.bbc.com/news/articles/crkg710lg0q9o
@@ -48,6 +49,10 @@ sources:
     url: https://www.birmingham-now.co.uk/news/26692750.two-men-jailed-500-000-secret-underground-cannabis-farm/
     publisher: Birmingham Now
     date: 2026-11-02
+  - title: Two Albanians jailed after £500,000 cannabis farm hidden in underground bunkers straight out of Guy Ritchie's The Gentlemen are unearthed
+    url: https://www.dailymail.com/news/article-16249159/Two-Albanians-jailed-500-000-cannabis-farm-hidden-underground-bunkers-straight-Guy-Ritchies-Gentlemen-unearthed.html
+    publisher: Daily Mail
+    date: 2026-10-29
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/crkg710lg0q9o
@@ -62,16 +67,18 @@ media:
 ---
 
 On 19 August 2026 Warwickshire Police searched a shipping container in countryside near Wolston and
-found a hatch leading to an underground cannabis farm. [@2,3] Five people on the site were arrested;
-two were later charged and three bailed. [@2,3,4]
+found a hatch leading to an underground cannabis farm. [@2,3,5] Five people on the site were arrested;
+two were later charged and three bailed. [@2,3,4,5]
 
 Gjergivatal Pjeter, 33, of New Market Street, Birmingham, and Eldoh Sylaj, 31, of Upper Stone
-Street, Maidstone, admitted being concerned in producing Class B cannabis. [@1,3,4] At Warwick Crown Court
-on Monday 26 October 2026 they were each sentenced to 22 months in prison. [@1,3,4]
+Street, Maidstone, admitted being concerned in producing Class B cannabis. [@1,3,4,5] At Warwick Crown Court
+on Monday 26 October 2026 they were each sentenced to 22 months in prison. [@1,3,4,5]
 
-Police estimated the crop at about £500,000. [@1,2,3,4] The court ordered the cannabis destroyed and each
-man to pay a £187 victim surcharge. [@1,3]
+Police estimated the crop at about £500,000. [@1,2,3,4,5] The court ordered the cannabis destroyed and each
+man to pay a £187 victim surcharge. [@1,3,5]
 
 ---
 
 A Rugby police spokesman said the warrant had uncovered "an underground grow not dissimilar to something from Guy Ritchie's The Gentlemen". [@3]
+
+Both men are Albanian nationals. [@5]
