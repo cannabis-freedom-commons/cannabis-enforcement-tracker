@@ -31,20 +31,30 @@ open_questions:
   - Only Anhor has published these operations in text form, citing the SSS Telegram channel; no second outlet account was found.
   - The sender in Russia and the intended recipients are unidentified.
   - Court outcomes for both suspects are unreported.
+  - The article gives no separate dates for the two operations; 24 July 2026 is its publication date and is used as the incident date.
+  - The page carries two images but their captions do not establish that they show these seizures, so no media entry is included.
+  - Kun.uz names only the Xavfsizlik channel and says the cultivation fact was documented procedurally, without stating separately whether the 423 plants were seized or destroyed.
 sources:
   - title: Urganchda shokoladga yashirilgan gashish, Yangiqo‘rg‘onda kannabis plantatsiyasi fosh etildi
     url: https://anhor.uz/uzl/news/urganchda-shokoladga-yashirilgan-gashish/
     publisher: Anhor
     date: 2026-07-24
+  - title: 'В Узбекистане пресекли два наркопреступления: контрабанду гашиша и выращивание каннабиса'
+    url: https://kun.uz/ru/news/2026/07/24/v-uzbekistane-presekli-dva-narkoprestupleniya-kontrabandu-gashisha-i-vyrashchivaniye-kannabisa
+    publisher: Kun.uz
+    date: 2026-07-24
+    language: ru
 ---
 
 In joint operations by the State Security Service with internal affairs and
 customs officers, a man born in 2000 with prior convictions was caught in
 Urganch district receiving a parcel sent from Russia by taxi; inspection found
 967 grams of hashish hidden in 10 chocolate packs, seized as material evidence.
-[@1] SSS officers uncovered nearly a kilogram of hashish in total in the two
-regions' operations. [@1]
+[@1,2] SSS officers uncovered nearly a kilogram of hashish in total in the two
+regions' operations. [@1,2]
 
 In Namangan region's Yangiqorgon district, SSS and internal affairs officers
 found a man born in 1988 growing 423 cannabis plants for sale on his own land.
-[@1]
+[@1,2]
+
+Criminal cases were opened on both facts and the investigation is continuing. [@2]
