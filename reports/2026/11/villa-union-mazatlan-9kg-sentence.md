@@ -25,6 +25,11 @@ sources:
     publisher: Los Noticieristas
     date: 2026-11-03
     language: es
+  - title: Sentencian a hombre en Mazatlán y procesan a otro en El Rosario por armas y drogas
+    url: https://www.noroeste.com.mx/amp/seguridad/sentencian-a-hombre-en-mazatlan-y-procesan-a-otro-en-el-rosario-por-armas-y-drogas-LA27056827
+    publisher: Noroeste
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article gives no separate date for the bus inspection and arrest; 3 November 2026, the date of the FGR announcement and the article's publication, is used as the sentence date.
   - The fine of 83 UMA was published without a peso amount, so no fine figure is recorded.
@@ -34,7 +39,7 @@ open_questions:
 ---
 
 A district judge sentenced Jesús “N” to eight years and four months in prison
-for transporting more than nine kilos of marijuana. [@1] The Federal Public
+for transporting more than nine kilos of marijuana. [@1,2] The Federal Public
 Ministry proved his criminal responsibility before the judge for a health crime
 in the form of marijuana transport. [@1] The judge also imposed a fine
 equivalent to 83 Unidades de Medida y Actualización (UMA). [@1]
@@ -46,10 +51,9 @@ travelling on a bus with narcotics on the Mazatlán-Tepic stretch near Villa
 Unión. [@1] Agents located the bus matching the reported characteristics,
 stopped it and carried out an inspection. [@1] During the inspection they seized
 nine kilos, 349 grams and 600 milligrams of marijuana and handed the drugs and
-the detainee to the federal prosecutor in Sinaloa for investigation. [@1]
+the detainee to the federal prosecutor in Sinaloa for investigation. [@1,2]
 
 The Attorney General’s Office (FGR) said it keeps channels for citizen
 denunciations open 24 hours a day, 365 days a year. [@1] It said denunciations
 can be made by email, by telephone and in person at its offices in Culiacán.
 [@1]
-
