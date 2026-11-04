@@ -27,6 +27,11 @@ sources:
     url: https://www.interpressnews.ge/en/article/148579-law-enforcement-officers-arrest-121-people-on-drug-charges/
     publisher: InterpressNews
     date: 2026-07-15
+  - title: Более 120 человек задержали в Грузии по делу о наркотиках
+    url: https://www.inform.kz/ru/bolee-120-chelovek-zaderzhali-vgruzii-podelu-onarkotikah-2d856c40
+    publisher: Kazinform
+    date: 2026-07-15
+    language: ru
 open_questions:
   - No separate weight or plant count for the marijuana and cannabis plants was published, so no cannabis quantity can be recorded.
   - No breakdown shows how many of the 121 detainees were held for cannabis as opposed to the other listed drugs.
@@ -35,27 +40,27 @@ open_questions:
   - No names, individual charges or court outcomes were reported; the investigation was still under way.
   - The wider six-month figures of about 5,000 people prosecuted describe a separate statistical picture and are left out of this report.
   - The SOVA page photo is captioned only around the detention and Interior Ministry briefing and is not established to show the seizure, so no media entry is included.
+  - 'The Kazinform page carries an image captioned only “Фото: Новости Грузии”, which does not establish that it shows this seizure, so no media entry is included.'
 ---
 
 Police across Georgia detained 121 people on drug charges, including 59 people
-described as involved in drug distribution schemes in various forms. [@1] Those
-detained included Georgian citizens and foreign nationals. [@2] The detentions
+described as involved in drug distribution schemes in various forms. [@1,3] Those
+detained included Georgian citizens and foreign nationals. [@2,3] The detentions
 followed operational and investigative measures carried out throughout the
 country, announced by Central Criminal Police Department director Davit Kiknadze
 at a briefing. [@2]
 
 On the basis of court orders, police repeatedly carried out controlled purchases
-of drugs and covertly recorded the operations with audio and video. [@1]
+of drugs and covertly recorded the operations with audio and video. [@1,3]
 Officers also detained people identified after undercover substitution of
 parcels addressed to them, seizing especially large quantities of drugs as
 physical evidence. [@1] Searches of the suspects' belongings, homes and
 vehicles, along with investigative reconstructions, uncovered batches prepared
 for sale described as especially large, including methadone, alpha-PVP, cocaine,
-ketamine, buprenorphine, marijuana and cannabis plants. [@1] Police also seized
+ketamine, buprenorphine, marijuana and cannabis plants. [@1,3] Police also seized
 packaging materials, electronic scales and cash believed to come from drug
-sales. [@2]
+sales. [@2,3]
 
 The investigation is proceeding under articles 260, 261 and 265 of Georgia's
 Criminal Code. [@1] Those charges carry up to 20 years in prison or life
-imprisonment. [@1]
-
+imprisonment. [@1,3]
