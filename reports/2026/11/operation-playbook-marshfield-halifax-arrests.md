@@ -34,6 +34,10 @@ sources:
     url: https://fallriverreporter.com/local-police-fbi-atf-dea-arrest-two-concerning-massachusetts-drug-distribution-operation-hundreds-of-pounds-of-product-seized/
     publisher: Fall River Reporter
     date: 2026-11-03
+  - title: Two arrested in drug trafficking operation in Plympton
+    url: https://www.newportdispatch.com/2026/11/03/two-arrested-in-drug-trafficking-operation-in-plympton/
+    publisher: Newport Dispatch
+    date: 2026-11-03
 open_questions:
   - The article gives no separate date for the searches or arraignments; 3 November 2026 is its publication date and is used as the incident date.
   - No net cannabis weight was published, only a combined gross weight of hundreds of pounds including packaging for marijuana flower plus THC products, so no kilograms are recorded.
@@ -43,11 +47,13 @@ open_questions:
   - Only one accessible source for this event was found after searching for the operation and both names.
   - The page's third image is an advertisement and is not included as event media.
   - Bail terms, future court dates and any court outcome were not reported.
+  - The Newport Dispatch gives December, June and Oct. 5 without years, while the earlier account gives December 2025 and June 2026, so the year 2026 for the Oct. 5 searches is inferred from publication on 3 November 2026.
+  - The submitted page image at Row9-2026-11-03-2121-1536x864.jpg has no caption, alt text or credit establishing that it shows this seizure, so no media entry is included for it.
 ---
 
 Malcolm Waaser Maccoy Jr. of Marshfield and Josef Troy Hebb of Halifax were
 arrested in the Plympton police-led narcotics investigation called Operation
-Playbook. [@1] Maccoy faces charges including trafficking in marijuana of 50
+Playbook. [@1,2] Maccoy faces charges including trafficking in marijuana of 50
 pounds or more, possession with intent to distribute Class C, D and E
 substances, unlawful possession of a large-capacity feeding device, ammunition
 possession without a firearm identification card, and felony conspiracy. [@1]
@@ -55,12 +61,12 @@ The marijuana-trafficking count against Maccoy alleges 50 pounds or more. [@1]
 Hebb faces charges including trafficking in cocaine of 200 grams or more,
 possession with intent to distribute Class C and D substances, and felony
 conspiracy. [@1] Both men were arraigned on the same day as the searches and
-were later released on bail. [@1]
+were later released on bail. [@1,2]
 
 Investigators executed search warrants at residences in Marshfield and Halifax
-and at a storage unit in Middleborough. [@1] Officers reported seizing marijuana
+and at a storage unit in Middleborough. [@1,2] Officers reported seizing marijuana
 flower and THC products including vaping products, concentrates and edibles with
-a combined gross weight of hundreds of pounds, including packaging. [@1] The
+a combined gross weight of hundreds of pounds, including packaging. [@1,2] The
 searches also yielded about 624 grams of cocaine and $66,836.15 in cash. [@1]
 Officers also reported about 36 grams of tablets believed to contain alprazolam,
 about 106 grams of capsules believed to contain psilocybin plus 24 mushroom
@@ -76,3 +82,4 @@ several county and local departments assisted, and police said the investigation
 remains ongoing with additional charges possible. [@1] All defendants are
 presumed innocent unless and until proven guilty in court. [@1]
 
+The Marshfield, Halifax and Middleborough search warrants were executed on Oct. 5. [@2]
