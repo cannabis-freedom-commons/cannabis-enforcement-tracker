@@ -99,6 +99,11 @@ sources:
     publisher: Plataforma Media
     date: 2026-11-04
     language: zh
+  - title: 香港男子涉嫌販賣大麻油電子煙被羈押
+    url: http://www.macaucee.com.mo/content.asp?id=121978
+    publisher: 澳門會展經濟報
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -115,6 +120,8 @@ open_questions:
   - The article gives no separate date for the first interrogation and detention order; 4 November 2026 is its publication date and is used as the incident date.
   - The submitted page image is captioned only as photo without a credit and is not established to show this seizure, so no media entry is included.
   - The article also summarises Macau's amended tobacco-control e-cigarette possession and import rules taking effect in 2027 and 2028, a law change left out of this enforcement record.
+  - The article gives no separate date for the interception or detention order; 4 November 2026 is its publication date.
+  - The page's only recoverable image is the newspaper's front-page thumbnail, not a photo of this seizure, so no media entry is added.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
@@ -141,6 +148,6 @@ against cross-border drug trafficking. [@2]
 
 The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8,14] He held a blue card, the identity document Macau issues to non-resident workers. [@3,10] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5,14]
 
-After his first judicial interrogation, the criminal prosecution court found strong signs that he had committed drug-trafficking, drug-use and improper possession of equipment offences. [@13] Adopting the prosecution's recommendation, the court ordered pretrial detention, citing the seriousness of the offences, his status as a non-Macau resident and risks of flight, disturbing public order and further offending. [@13,14]
+After his first judicial interrogation, the criminal prosecution court found strong signs that he had committed drug-trafficking, drug-use and improper possession of equipment offences. [@13,15] Adopting the prosecution's recommendation, the court ordered pretrial detention, citing the seriousness of the offences, his status as a non-Macau resident and risks of flight, disturbing public order and further offending. [@13,14,15]
 
 The suspect is a 35-year-old Hong Kong man surnamed Fung. [@14]
