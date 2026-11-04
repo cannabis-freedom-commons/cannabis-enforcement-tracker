@@ -32,6 +32,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-04
     language: hi
+  - title: रायपुर में यूपी का गांजा तस्कर गिरफ्तार, 3.710 किलो गांजा जब्त
+    url: https://www.tarunmitra.in/state/chhattisgarh/ups-ganja-smuggler-arrested-in-raipur-3710-kg-ganja-seized/article-170802
+    publisher: Tarun Mitra
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives 3 November as the date the tip was received and 4 November as its publication date, with no separate arrest date stated, so 3 November is used as the incident date.
   - No court outcome beyond sending the accused for judicial remand was reported.
@@ -43,9 +48,9 @@ open_questions:
 ---
 
 Ganj police in Raipur arrested 26-year-old Shivam Mishra, son of Chhail Bihari
-Mishra. [@1,2] Mishra is a resident of Umaria village in Itwa police-station area
-of Siddharthnagar district in Uttar Pradesh. [@1,2] Police said he had brought
-ganja from Odisha to Raipur and was preparing to sell it. [@1,2] On 3 November, an
+Mishra. [@1,2,3] Mishra is a resident of Umaria village in Itwa police-station area
+of Siddharthnagar district in Uttar Pradesh. [@1,2,3] Police said he had brought
+ganja from Odisha to Raipur and was preparing to sell it. [@1,2,3] On 3 November, an
 informant told police that a youth in a red full shirt and black trousers was
 standing on Naharpara Road near Anandam School with a leather bag containing
 ganja brought from Odisha. [@1] The informant said he was looking for customers
@@ -58,7 +63,7 @@ four white wrappers, which weighed a total of 3 kg 710 g on an electronic scale.
 [@1] Police valued the seized 3.71 kg of ganja at about Rs 185,000. [@1,2]
 
 Ganj station in-charge Deepak Paswan said a case was registered at Ganj police
-station as crime number 323/2026 under Section 20(B) of the NDPS Act. [@1] The
+station as crime number 323/2026 under Section 20(B) of the NDPS Act. [@1,3] The
 accused was arrested and sent to court for judicial remand. [@1]
 
-A joint team of the Anti Crime and Cyber Unit, the Anti Narcotic Task Force and Ganj police reached the spot and identified the suspect. [@2] The accused tried to flee on seeing the police team but was surrounded and caught. [@2] Police are questioning the accused about the availability, transport and sale network and tracing the sources and potential buyers. [@2]
+A joint team of the Anti Crime and Cyber Unit, the Anti Narcotic Task Force and Ganj police reached the spot and identified the suspect. [@2,3] The accused tried to flee on seeing the police team but was surrounded and caught. [@2,3] Police are questioning the accused about the availability, transport and sale network and tracing the sources and potential buyers. [@2,3]
