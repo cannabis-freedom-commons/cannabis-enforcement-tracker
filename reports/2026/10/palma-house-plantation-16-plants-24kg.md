@@ -22,6 +22,11 @@ media:
     media_url: https://uh.gsstatic.es/sfAttachPlugin/getCachedContent/id/4831417/width/730/height/500/crop/1
     publisher: Ultima Hora
     caption: Photo of the dismantled marijuana plantation in the Palma house published with the report.
+  - kind: photo
+    url: https://www.mallorcadiario.com/detenido-en-palma-con-16-plantas-de-marihuana-de-hasta-cuatro-metros-y-mas-de-tres-kilos-de-cogollos/amp
+    media_url: https://www.mallorcadiario.com/wp-content/uploads/2026/11/plantas-cannabis-junto-pared-e1793532572323-1200x674.jpeg
+    publisher: Mallorcadiario.com
+    caption: Cannabis plants against a wall with a National Police logo overlay, published with the Palma house raid report.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aaf8843227a53960d0861cc84e172559
@@ -52,6 +57,11 @@ sources:
     publisher: La Razón
     date: 2026-11-01
     language: es
+  - title: Detenido en Palma con 16 plantas de marihuana de hasta cuatro metros y más de tres kilos de cogollos
+    url: https://www.mallorcadiario.com/detenido-en-palma-con-16-plantas-de-marihuana-de-hasta-cuatro-metros-y-mas-de-tres-kilos-de-cogollos/amp
+    publisher: Mallorcadiario.com
+    date: 2026-11-01
+    language: es
 open_questions:
   - The article was published on 1 November 2026 and says the arrest occurred on the previous Wednesday, so 28 October 2026 is used as the incident date by inference.
   - Only one source for this event could be opened; no second outlet or agency statement was found.
@@ -61,21 +71,23 @@ open_questions:
   - The new account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
   - The Europa Press page carries a photo whose content cannot be confirmed from its caption alone, so no media entry is added.
   - This account says 'más de tres kilos de cogollos' while the existing report records three kilograms; the shared supported description remains three kilograms.
+  - This account says more than three kilos of buds while the existing report records three kilograms; the shared supported description remains three kilograms.
+  - The article was published on 1 November 2026 and says the operation ended the previous Wednesday, so 28 October 2026 is used as the incident date by inference.
 ---
 
 Spain's National Police dismantled a marijuana plantation inside a house in
 Palma and arrested the man described as responsible for the drugs for an offence
-against public health. [@1,2,3,4,5] The arrest was carried out by Grupo II de
-Estupefacientes, the National Police narcotics unit. [@1,2,5] Investigators said
+against public health. [@1,2,3,4,5,6] The arrest was carried out by Grupo II de
+Estupefacientes, the National Police narcotics unit. [@1,2,5,6] Investigators said
 they had learned that marijuana was being cultivated in a Palma home for later
-sale and distribution. [@1,2] After further inquiries, they confirmed that the
+sale and distribution. [@1,2,6] After further inquiries, they confirmed that the
 occupant kept a plantation and cultivation materials in his dwelling. [@1] The
 arrest took place on the previous Wednesday. [@1,2]
 
 Officers who entered the property found 16 marijuana plants measuring between
-three and four metres tall. [@1,2,3,4,5] They seized 21 kilograms of bud-covered
-branches at the property. [@1,2,3,4,5] Investigators also seized three kilograms of buds
-described as ready to distribute or consume. [@1,2,3,4,5]
+three and four metres tall. [@1,2,3,4,5,6] They seized 21 kilograms of bud-covered
+branches at the property. [@1,2,3,4,5,6] Investigators also seized three kilograms of buds
+described as ready to distribute or consume. [@1,2,3,4,5,6]
 
 After the operation, police invited the public to report drug trafficking
 anonymously by email to antidroga@policia.es or through a dedicated section of
