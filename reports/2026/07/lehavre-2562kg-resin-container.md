@@ -41,18 +41,28 @@ sources:
     publisher: 76actu (actu.fr)
     date: 2026-07-10
     language: fr
+  - title: Plus de 2,5 tonnes de résine de cannabis au port du Havre
+    url: https://www.franceinfo.fr/societe/drogue/plus-de-2-5-tonnes-de-resine-de-cannabis-au-port-du-havre_8102639.html
+    publisher: franceinfo
+    date: 2026-07-10
+    language: fr
+  - title: Plus de 2,5 tonnes de cannabis, soit 20 millions d'euros de marchandise, saisies dans le port du Havre
+    url: https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/plus-de-2-5-tonnes-de-cannabis-soit-20-millions-d-euros-de-marchandise-saisies-dans-le-port-du-havre-3384784.html
+    publisher: France 3 Normandie
+    date: 2026-07-10
+    language: fr
 ---
 
 Customs officers at the port of Le Havre found 2,562 kg of cannabis resin at the end of June 2026,
 sealed in specially built metal compartments under machine tools weighing nearly two tonnes each,
-inside a container that had left Senegal for Libya and was transiting the port. [@1,2]
+inside a container that had left Senegal for Libya and was transiting the port. [@1,2,3,4]
 
 Risk analysts had flagged the container — an unusual routing for machine tools — and a scanner check
 showed anomalies matching hidden compartments; officers then spent several hours cutting into the
-boxes with angle grinders during the heatwave of the week of 22 June. [@1,2] Customs valued the
+boxes with angle grinders during the heatwave of the week of 22 June. [@1,2,3] Customs valued the
 resin at nearly 20.5 million euros on the illicit market, and said the seizure is more than six
 times the cannabis taken by sea in the whole of 2025, a route that accounts for just 0.6% of French
-cannabis seizures against 74.8% by land and 15% by post. [@1,2]
+cannabis seizures against 74.8% by land and 15% by post. [@1,2,3,4]
 
 Budget minister David Amiel congratulated the Havre officers, pointing to the "Douane 2030" plan:
 25 additional scanners and more staff by 2030, with a fixed mobile scanner deployed at Le Havre in
