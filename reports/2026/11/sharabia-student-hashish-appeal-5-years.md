@@ -33,6 +33,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-10-22
     language: ar
+  - title: «موتوسيكل بدون لوحات كشف الحشيش والخرطوش»..اليوم استئناف طالب متهم بالاتجار في المخدرات | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4400891
+    publisher: المصري اليوم
+    date: 2026-11-04
+    language: ar
 open_questions:
   - The articles give no separate dates for the street arrest or the first-instance verdict, so 3 November 2026, the submitted page's publication date, is used as the incident date.
   - No weight was published for the seven hashish pieces, so no cannabis weight can be recorded.
@@ -43,25 +48,24 @@ open_questions:
 ---
 
 Cairo's appellate felony court was to continue the next day, Wednesday, hearing
-a student's appeal against his first-instance conviction. [@1] The
+a student's appeal against his first-instance conviction. [@1,3] The
 first-instance verdict had punished him with five years in prison and a fine of
-50,000 pounds. [@1] He is accused of joining his fugitive brother in trafficking
-narcotics in the Sharabia area. [@1] On 22 October the same court had postponed
+50,000 pounds. [@1,3] He is accused of joining his fugitive brother in trafficking
+narcotics in the Sharabia area. [@1,3] On 22 October the same court had postponed
 that appeal to the 4 November session for pleading. [@2]
 
 A Sharabia police officer on patrol to check security saw the defendant riding a
-motorcycle without metal plates and driving against traffic. [@1] The officer
+motorcycle without metal plates and driving against traffic. [@1,3] The officer
 stopped him, asked about the motorcycle licences, and detained him after he
 answered that he had none. [@1] Inside his white plastic bag officers found a
 shotgun described as a fard khartoush with a live round inside it, a bag holding
-seven pieces of hashish, and a cutter blade. [@1] A body search then found two
+seven pieces of hashish, and a cutter blade. [@1,3] A body search then found two
 plastic bags containing methamphetamine on him. [@1]
 
 When confronted, he admitted possessing the narcotics for trafficking together
-with his fugitive brother. [@1] The Public Prosecution had referred the accused
+with his fugitive brother. [@1,3] The Public Prosecution had referred the accused
 Mostafa.A., a student, and his brother Ahmed.A., who is fugitive, to criminal
 trial. [@1] They were charged with the student's possession and his brother's
 possession of hashish and methamphetamine for trafficking, plus an unlicensed
 fard khartoush with usable ammunition and a cutter blade without legal
 justification or professional necessity. [@1]
-
