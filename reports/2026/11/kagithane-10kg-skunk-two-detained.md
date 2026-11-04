@@ -45,21 +45,29 @@ sources:
     publisher: Hibya Haber Ajansı
     date: 2026-11-04
     language: tr
+  - title: Kağıthane'de Uyuşturucu Operasyonu! 2 Şüpheli Yakalandı
+    url: https://sivas360.com/asayis/kagithanede-uyusturucu-operasyonu-2-supheli-yakalandi/26769188
+    publisher: Sivas 360
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate raid date, so 4 November 2026 is the publication date used as the incident date.
   - No charges, custody ruling or court outcome for the two detained suspects were reported.
   - Both opened accounts repeat the gendarmerie version; no separate official statement with additional detail was opened.
   - This account dates the raid to 3 November 2026, while the existing report uses the 4 November 2026 publication date as the incident date.
   - The page lead image has no caption linking it to this seizure, so no media entry is included.
+  - The Sivas 360 lead image is captioned only with the article title and cannot be established to show this seizure, so no new media entry is added.
 ---
 
 Istanbul Provincial Gendarmerie Command teams started work to catch suspects
 accused of manufacturing narcotic substances and preparing to release them onto
 the market. [@1,3] After technical and physical surveillance, the teams raided a
 workplace in Kağıthane, Istanbul. [@2,3] Officers detained two suspects during the
-raid on the Kağıthane workplace. [@1,3,4]
+raid on the Kağıthane workplace. [@1,3,4,5]
 
-Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4] The same
-search also seized three mobile phones alongside the drugs. [@2,3,4]
+Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5] The same
+search also seized three mobile phones alongside the drugs. [@2,3,4,5]
 
 The Kağıthane workplace raid took place on 3 November 2026. [@4]
+
+A trained narcotics dog took part in the search. [@5]
