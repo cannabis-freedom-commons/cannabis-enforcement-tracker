@@ -57,6 +57,11 @@ sources:
     publisher: El Periódico
     date: 2026-11-02
     language: es
+  - title: Cae una red narco con 3.000 plantas de marihuana y un fusil AK-47
+    url: https://www.libertaddigital.com/sucesos/2026-11-02/cae-una-red-narco-con-3-000-plantas-de-marihuana-y-un-fusil-ak-47-7485459/
+    publisher: Libertad Digital
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the operation.
   - Only one opened source was found; no agency statement or second outlet was available to corroborate.
@@ -69,22 +74,24 @@ open_questions:
   - The video page gives only its publication date of 2 November 2026 and no separate date for the operation.
   - The opened video page names no locality; the Mataró and Barcelona locations come from the existing report.
   - The page gives no detainee identities, court outcome, drug weight beyond plant count, or other seizure details.
+  - The page's only listed image is explicitly captioned as an archive photo of National Police cars, so it does not show this operation and no media entry is included.
+  - The submitted account says distribution was to the European black market without specifying east, while one sentence of the existing report says eastern Europe.
 ---
 
 Agents of the National Police together with the Mataró Local Police carried out
 an anti-drug operation in the province of Barcelona in which seven people were
-detained and 3,000 marijuana plants were seized. [@1,2,3,4,5] The operation dismantled
+detained and 3,000 marijuana plants were seized. [@1,2,3,4,5,6] The operation dismantled
 an alleged criminal organisation dedicated to distributing marijuana for the
-European black market. [@1] The seven detainees were placed at judicial
+European black market. [@1,6] The seven detainees were placed at judicial
 disposition accused of alleged crimes against public health, illegal possession
-of weapons, electricity fraud and membership of a criminal group. [@1,2]
+of weapons, electricity fraud and membership of a criminal group. [@1,2,6]
 
-In total police seized 3,000 marijuana plants and one kilogram of buds. [@1,2,3]
+In total police seized 3,000 marijuana plants and one kilogram of buds. [@1,2,3,6]
 Police listed the seized weapons as two 9 mm pistols with semi-jacketed
 ammunition, a simulated pistol and an AK-47 rifle, plus five frequency
 inhibitors, two knuckle-dusters, several extendable batons and a baseball bat.
-[@1] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle and
-abundant tools used for the plantations. [@1,3]
+[@1,6] Officers also seized 5,000 euros in cash, three vehicles, a motorcycle and
+abundant tools used for the plantations. [@1,3,6]
 
 Investigators say the group grew cannabis in covered facilities for later
 distribution on the eastern European black market. [@1]
