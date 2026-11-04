@@ -40,6 +40,11 @@ sources:
     publisher: ÈliveBrescia TV
     date: 2026-11-04
     language: it
+  - title: 'Rezzato, arrestato con 150 grammi di hashish: sospetto spaccio'
+    url: https://www.quibrescia.it/cronaca/2026/11/04/rezzato-arrestato-con-150-grammi-di-hashish-sospetto-spaccio/848493/amp/
+    publisher: QuiBrescia
+    date: 2026-11-04
+    language: it
 open_questions:
   - Only one source for this event was opened; no second report or agency statement was found.
   - The man's identity, residence and any formal charge beyond the arrest were not published.
@@ -52,16 +57,21 @@ open_questions:
   - The ÈliveBrescia account does not mention the suspect's age, the knife or the post-arrest measure reported in the earlier accounts.
   - The Io24 account describes the measure as obbligo di firma, while the report records obbligo di dimora from Bresciaoggi.
   - The ÈliveBrescia page photo captioned 'foto sito - 2026-11-04T110707.009' is not established to show this seizure, so no media entry is added.
+  - The QuiBrescia 4 November account dates the operation only as in recent days during Halloween checks and gives no separate arrest date; the 31 October 2026 incident date is retained from the earlier Bresciaoggi account.
+  - The QuiBrescia 4 November account does not mention the suspect's age, the knife or the post-arrest measure reported in the earlier accounts.
+  - The page photo captioned 'sequestro droga' is not established to show this seizure, so no media entry is included.
 ---
 
 During a control operation on Saturday 31 October, the Local Police of Rezzato
 arrested a 51-year-old man. [@1,3] Officers stopped the man in the centre of the
 town before searching him. [@1,2]
 
-The search found the man in possession of 150 grams of hashish. [@1,2,4] Officers
+The search found the man in possession of 150 grams of hashish. [@1,2,4,5] Officers
 also found a knife in his possession during the same search. [@1,3]
 
 After the arrest, a judge ordered the man to observe an obbligo di dimora,
 requiring him to remain in his municipality of residence. [@1]
 
-The arrest came during territorial checks organised for the Halloween festivities. [@2,4] Officers said the man's presence in the area had already been noticed for several weeks. [@2,4]
+The arrest came during territorial checks organised for the Halloween festivities. [@2,4,5] Officers said the man's presence in the area had already been noticed for several weeks. [@2,4,5]
+
+Police said the hashish was held for dealing purposes. [@5]
