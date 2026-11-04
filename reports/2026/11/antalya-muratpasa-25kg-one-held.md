@@ -151,6 +151,11 @@ sources:
     publisher: Haberimiz Var
     date: 2026-11-03
     language: tr
+  - title: Antalya'da baza altında 25 kilogram esrar ele geçirildi, şüpheli tutuklandı
+    url: https://www.sondakika.com/video/4bbf7347f0/
+    publisher: Son Dakika
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The reports give only the publication date of 3 November 2026 and no separate day for the raid.
   - No independent weighing of the cannabis is reported beyond the police figure of 25 kilograms.
@@ -170,21 +175,23 @@ open_questions:
   - The submitted page image is captioned only with the article headline and is not established to show this seizure, so no new media entry is added.
   - The Saray Medya page credits İHA as its source, so it adds corroboration but no independent reporting.
   - The page photo is captioned only with the article headline and is not established to show this seizure, so no media entry is added.
+  - The submitted video page mentions only a baza as the hiding place, while the existing report relies on other sources for a suitcase and bed base, so the suitcase detail is not corroborated by this page.
+  - The video and poster image on the submitted page are presented only with the article headline and are not established to show this seizure, so no new media entry is added.
 ---
 
 Antalya anti-narcotics police detained a suspect identified only as Y.K. during
 an operation in Muratpaşa district. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,23,24] Police said Y.K. had brought narcotic
 and stimulant substances into Antalya in order to sell and distribute them. [@1,6,15,16,21,23]
 He was referred to the judicial authorities on suspicion of trading and
-supplying drugs. [@2,15,16,21,23] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+supplying drugs. [@2,15,16,21,23,25] He was then remanded in custody. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]
 
 Officers searching his residence seized 25 kilograms of cannabis, called esrar
 in the Turkish reports. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] The cannabis was divided into 50 separate plastic
-bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,23,24] Police said the bags were hidden inside a suitcase and under a bed
+bags. [@1,4,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,23,24,25] Police said the bags were hidden inside a suitcase and under a bed
 base. [@3,9,14,15,18,20,21,22,23] No other suspect was reported as detained in the operation. [@1]
 
 The operation was carried out by the Anti-Narcotics Crime Branch of the Antalya
-Police Department. [@1,6,7,11,15,16,21,23,24] Police described it as part of efforts to dry up the
+Police Department. [@1,6,7,11,15,16,21,23,24,25] Police described it as part of efforts to dry up the
 source of drugs and to prevent their trade and use. [@1] The suspect was caught
 after police identified him through information about drugs being brought into
 the city. [@2] Police identified the suspect only by the initials Y.K. [@1]
