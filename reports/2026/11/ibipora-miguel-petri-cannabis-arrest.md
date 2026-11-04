@@ -24,6 +24,11 @@ sources:
     publisher: Portal Tudo Ibiporã
     date: 2026-11-03
     language: pt
+  - title: Homem é preso com maconha e cocaína em casa em Ibiporã
+    url: https://taroba.com.br/noticias/cidade/homem-e-preso-com-maconha-e-cocaina-em-casa-em-ibipora/amp
+    publisher: Portal Tarobá
+    date: 2026-11-03
+    language: pt
 open_questions:
   - The suspect was identified only as a man, with no name or age published.
   - The cannabis figure is reported as more than 3.7 kg, recorded here as 3.7 kg without rounding up.
@@ -31,24 +36,24 @@ open_questions:
   - No court outcome beyond the flagrante booking for drug trafficking was reported.
   - Only one accessible source for this event was found after searching in Portuguese.
   - The page carries an image file named drogas.webp with no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The Tarobá page carries a photo with empty alt text and no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Civil Police arrested a man in flagrante at a house in the Miguel Petri
-neighbourhood in Ibiporã on the afternoon of Tuesday 3 November 2026. [@1]
+neighbourhood in Ibiporã on the afternoon of Tuesday 3 November 2026. [@1,2]
 Officers reached the address after receiving information that the premises were
-being used to store drugs. [@1] The man was taken to the Ibiporã police station
-and booked in flagrante for drug trafficking. [@1] Police said the suspect had
+being used to store drugs. [@1,2] The man was taken to the Ibiporã police station
+and booked in flagrante for drug trafficking. [@1,2] Police said the suspect had
 previous records linked to drug trafficking and admitted that the drugs were
-his. [@1] Police also said an open arrest warrant existed against the man. [@1]
+his. [@1,2] Police also said an open arrest warrant existed against the man. [@1,2]
 
 At the house officers seized more than 3.7 kg of marijuana and about 200 grams
-of cocaine, almost four kilos of drugs in total. [@1] Part of the marijuana had
-already been divided into small portions ready for sale. [@1] Officers also
-seized two scales, materials used to pack the substances and R$220 in cash. [@1]
+of cocaine, almost four kilos of drugs in total. [@1,2] Part of the marijuana had
+already been divided into small portions ready for sale. [@1,2] Officers also
+seized two scales, materials used to pack the substances and R$220 in cash. [@1,2]
 
-According to the investigation, the house was used to store and sell drugs. [@1]
+According to the investigation, the house was used to store and sell drugs. [@1,2]
 Delegate Vitor Dutra said the strong smell of marijuana also drew the officers'
-attention during the operation. [@1] Investigators said the drugs were sometimes
+attention during the operation. [@1,2] Investigators said the drugs were sometimes
 hidden in a wooded area but had been brought into the house because of the rain.
-[@1]
-
+[@1,2]
