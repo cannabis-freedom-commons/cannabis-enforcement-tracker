@@ -30,12 +30,20 @@ sources:
     publisher: Landespolizeidirektion Wien
     date: 2026-11-02
     language: de
+  - title: 'Größte Kokainmenge seit 10 Jahren sichergestellt: Drogenring in Wien zerschlagen'
+    url: https://www.5min.at/wien/5202611021247/groesste-kokainmenge-seit-10-jahren-sichergestellt-drogenring-in-wien-zerschlagen/
+    publisher: 5min.at
+    date: 2026-11-02
+    language: de
 open_questions:
   - The submitted austria.com page showed only a loading error in the captured text, so no quotation from it could be used; the report uses the ORF and police accounts instead.
   - The report date 2 November 2026 is the press-release and publication date; the enforcement ran from November 2025 to March 2026 and the March 2026 supplier arrest has no exact day.
   - The police mention packaging material for about 37 kilograms of cannabis resin already opened and presumed circulated; this estimate is not counted as seized cannabis.
   - The reported 17 years and two months of unconditional prison sentences for the group and the three to 3.5 million euro cocaine street value are not counted as cannabis figures.
   - No direct photo or video address could be recovered from the opened pages, so no media entry is listed.
+  - The 5min totals are rounded as 30.1 kg of cocaine, 27.4 kg of resin and about 435 g of marijuana while the existing report keeps the exact police laboratory totals, so the exact figures are unchanged.
+  - The 5min list counts one converted smuggling vehicle while the existing ORF account summarises three vehicles, so the vehicle count is left as previously reported.
+  - The only image with a recoverable direct address on the 5min page shows the seized pistol credited to LPD Wien rather than cannabis, so no media entry is added.
 ---
 
 Vienna drug investigators ended an inquiry that ran from autumn 2025 into 2026
@@ -50,7 +58,7 @@ Spielfeld, a 38-year-old Austrian held primarily over threats to his ex-wife,
 and a 31-year-old Austrian alleged cannabis-resin supplier. [@2]
 
 The follow-up house search of the 43-year-old recovered the remaining cocaine
-from the delivery plus about 27 kilograms of cannabis resin. [@2] Police list
+from the delivery plus about 27 kilograms of cannabis resin. [@2,3] Police list
 total seizures as 30,156.3 grams of cocaine, 27,457.6 grams of cannabis resin,
 435.6 grams of marijuana, 16,850 euros in cash and a vehicle with a smuggling
 hide. [@2] The ORF account summarises the result as over 30 kilograms of cocaine
@@ -60,8 +68,9 @@ cannabis resin, a five-figure sum of cash and three vehicles. [@1]
 Police say the investigation ran since November 2025 in coordination with the
 Vienna prosecution and the drugs had been moved from Valencia in a
 professionally converted car with a hidden compartment behind the rear seat.
-[@2] In March 2026 investigators arrested the alleged cannabis-resin supplier
+[@2,3] In March 2026 investigators arrested the alleged cannabis-resin supplier
 linked to the 43-year-old, finding cannabis resin, cannabis herb and packaging
 material for about 37 kilograms of cannabis resin that had already been opened
-and had presumably been circulated. [@2]
+and had presumably been circulated. [@2,3]
 
+The main suspect took over a 20-kilogram cocaine delivery that had been brought directly from Valencia in Spain to Vienna in a prepared smuggling car. [@3] Officers stopped the suspected 31-year-old Croatian courier from leaving the country at Spielfeld and found another ten kilograms of cocaine in a professional hidden compartment in his vehicle. [@3] Officers found a loaded handgun alongside drugs and cash when arresting the 38-year-old suspect. [@3]
