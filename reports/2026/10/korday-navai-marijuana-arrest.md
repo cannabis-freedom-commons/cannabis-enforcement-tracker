@@ -33,6 +33,11 @@ sources:
     publisher: Meduza
     date: 2026-10-14
     language: ru
+  - title: Navai грозит до пяти лет колонии за наркотики
+    url: https://ura.news/news/1053136171
+    publisher: URA.RU
+    date: 2026-10-14
+    language: ru
 open_questions:
   - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
   - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
@@ -41,24 +46,27 @@ open_questions:
   - The submitted page image is an archive press portrait of the singer, not the checkpoint, car, seizure or detention, so no media entry is included.
   - 'Left out, as its quotation was not found in Izvestia: Officers had found a green substance in the driver''s seat pocket, which examination identified as 2.5 grams of marijuana.'
   - The Meduza account attributes 10 grams of marijuana to Baza citing checkpoint staff, while the existing report records 2.5 g from other secondary reporting, so the correct cannabis weight remains unresolved.
+  - The URA.RU account says four people in the car were detained and handed to police, while the existing report records three, so the number detained remains unresolved.
 ---
 
 Police and border guards detained Russian rapper Navai, real name Navai Bakirov,
-at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3] He
+at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4] He
 was travelling by car from Kyrgyzstan, and officers found and seized a narcotic
 substance during the inspection of the vehicle. [@1,3] All three people travelling
 in the car were detained and handed to police, who placed them in a temporary
 detention facility. [@2]
 
 Officers also found a bag with roll-up paper and a shredder in the car, in which
-two other people were travelling with Navai. [@2] Police said a criminal case
+two other people were travelling with Navai. [@2,4] Police said a criminal case
 was opened on suspected attempted smuggling of narcotic drugs, the suspect was
 placed in temporary detention and a pre-trial investigation was under way. [@1]
 
 Navai had been due to perform on 14 October at the Zhaksylyk Ushkempirov Martial
 Arts Palace in Astana, but the concert was cancelled for reported technical
-reasons. [@1,3] His mother told Izvestia she did not believe in his involvement in
+reasons. [@1,3,4] His mother told Izvestia she did not believe in his involvement in
 drug trafficking and suggested the discovered substance could have been planted.
 [@2]
 
 Baza, citing checkpoint staff, claimed that 10 grams of marijuana were found in Navai's car, in which his manager and driver were travelling with him. [@3]
+
+A service dog named Atlas discovered the banned substances. [@4] The marijuana was found in the pocket of the driver's seat of the car in which the rapper was travelling. [@4] A case was opened under Article 286 of Kazakhstan's Criminal Code, which provides for a fine, corrective labour, restriction or imprisonment for up to five years, with or without confiscation of property. [@4] The day before, the rapper had been in Tashkent before travelling to a concert in Astana. [@4]
