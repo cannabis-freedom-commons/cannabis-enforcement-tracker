@@ -121,6 +121,10 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway/amp/
     publisher: The Nation Newspaper
     date: 2026-11-01
+  - title: Two Europe-bound Nigerians excrete 200 Cocaine wraps after arrest at Abuja Airport
+    url: https://pmnewsnigeria.com/2026/11/01/two-europe-bound-nigerians-excrete-200-cocaine-wraps-after-arrest-at-abuja-airport/
+    publisher: P.M. News
+    date: 2026-11-01
 open_questions:
   - Neither account names anyone arrested in the two Lagos bus stops.
   - No street value for the 976 kg was published.
@@ -157,11 +161,14 @@ open_questions:
   - The page's relevant images carry empty captions and cannot be verified to show the Lagos bus interceptions, so no media entry is added.
   - The submitted page is a multi-event NDLEA roundup headlined on the Abuja cocaine arrests; this decision covers only its Lagos cannabis component.
   - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same roundup are separate non-cannabis events excluded from this cannabis account.
+  - The submitted page is a multi-event NDLEA weekly roundup headlined on the Abuja cocaine arrests; this decision covers only its Lagos cannabis component.
+  - The cocaine, AK-47 ammunition, diazepam, tramadol, Exol-5, pregabalin and pentazocine seizures in the same roundup are separate non-cannabis events excluded from this cannabis account.
+  - The page's single image shows the Abuja cocaine suspects, not the Lagos bus interceptions, so no media entry is added.
 ---
 
 ## The interceptions
 
-On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12,16,18,20,21,22,23,24,25] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13,16,18,20,21,22,23,24] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15,17,19,22,23,24]
+On Sunday 25 October 2026, NDLEA officers acting on intelligence about skunk moving from Lagos Island to the Mainland stopped a white Volkswagen LT 28 bus on Kudirat Abiola Way in Ikeja and recovered 537 kg of the drug. [@1,2,3,4,5,6,8,9,11,12,16,18,20,21,22,23,24,25,26] The same day, a second team intercepted a brown J5 bus on the Gbagada-Oshodi Expressway and seized a further 439 kg. [@1,2,3,4,5,6,8,9,10,11,13,16,18,20,21,22,23,24,26] Together the two stops yielded 976 kg of skunk, which the agency describes as a strong strain of cannabis. [@1,2,3,7,9,11,14,15,17,19,22,23,24,26]
 
 ## The announcement
 
