@@ -29,28 +29,33 @@ sources:
     publisher: 7Segundos
     date: 2026-11-04
     language: pt
+  - title: Homem é preso com 3,5 kg de maconha dentro de casa em Maceió
+    url: https://francesnews.com.br/post/2026/11/26/44814-homem-e-preso-com-35-kg-de-maconha-dentro-de-casa-em-maceio
+    publisher: Francês News
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The suspect was not named in the reports.
   - No court outcome beyond the flagrante booking for drug trafficking was reported.
   - The submitted page's photo is captioned as an illustration of a Military Police vehicle, not this seizure, so no media entry is included.
   - The second source displays a reproduction photo of seized material, but its direct image address was not recovered in this read-only harness, so no media entry is included.
+  - The page image is captioned Central de Flagrantes with an Ascom PCAL credit and is not established to show this seizure, so no media entry is included.
 ---
 
 Military Police arrested a man in the Santos Dumont neighbourhood in upper
 Maceió on the night of Tuesday 3 November 2026 on suspicion of drug trafficking.
-[@1] ROTAM officers of the Alagoas Military Police went to Santos Dumont after
+[@1,3] ROTAM officers of the Alagoas Military Police went to Santos Dumont after
 the corporation's intelligence sector warned that drug trafficking was occurring
 there and found the suspect in a car. [@2] The reports do not give the man's
 name. [@2]
 
 Officers found nothing irregular in the vehicle, and the man told them he kept
-marijuana at his residence. [@1] With the resident's authorisation, officers
+marijuana at his residence. [@1,3] With the resident's authorisation, officers
 searched the home and seized about 3.5 kg of marijuana together with a precision
-scale. [@2] Police described the scale as material that can be used to weigh and
-divide drugs. [@1]
+scale. [@2,3] Police described the scale as material that can be used to weigh and
+divide drugs. [@1,3]
 
 The man was taken for a medical evaluation and then to the Central de Flagrantes
-in the Tabuleiro do Martins neighbourhood. [@2] He remained in custody after
+in the Tabuleiro do Martins neighbourhood. [@2,3] He remained in custody after
 being booked for drug trafficking, with the Civil Police completing the legal
 measures and holding him at the judiciary's disposal. [@1]
-
