@@ -35,6 +35,11 @@ sources:
     url: https://www.thecliffnews.in/en/article/bareilly-izzatnagar-police-apprehend-drug-trafficker-with-2-3-kg-of-ganja
     publisher: The Cliff News
     date: 2026-11-01
+  - title: 'बरेली: इज्जतनगर पुलिस ने 2.3 किलो गांजे संग तस्कर को दबोचा'
+    url: https://www.thecliffnews.in/hi/article/bareli-ijjatanagar-pulis-ne-2-3-kilo-ganje-sang-taskar-ko-dabocha
+    publisher: The Cliff News
+    date: 2026-11-01
+    language: hi
 open_questions:
   - The article says the arrest happened on Saturday night and was published on 2 November 2026, so 31 October 2026 is used as the inferred incident date.
   - Only one opened source could be found for this event despite search in Hindi and English.
@@ -45,6 +50,9 @@ open_questions:
   - This source describes Kumar as a native of Devarania living in Rudrapur, while the existing report says originally from Salar Nagla and living in Udham Singh Nagar; Rudrapur is in Udham Singh Nagar.
   - Whether the lead photo on this source page depicts this seizure is not established from its caption and credit information.
   - 'Left out, as its quotation was not found in The Cliff News: The search recovered 2.328 kilograms of ganja, Rs 750 in cash and one mobile phone.'
+  - The submitted account places the vehicle check on the service road from Vilaydham bridge to Abhaypur, while the existing report uses Ahladpur.
+  - The submitted account describes Kumar as originally from Devarnia and now living in Rudrapur, while the existing report says Salar Nagla and Udham Singh Nagar; Rudrapur is in Udham Singh Nagar, so the residence descriptions may be compatible.
+  - Whether the page image depicts this seizure is not established from captions or article text, so no media entry is included.
 ---
 
 Izzatnagar police in Bareilly arrested Harish Kumar on Saturday night during a
@@ -52,13 +60,13 @@ drive against narcotics trafficking. [@1] ASP Shivam Ashutosh said a police team
 was checking vehicles on the service road leading from Vilaydham bridge toward
 Ahladpur when it signalled an approaching motorcycle rider to stop. [@1] The
 rider turned and tried to flee, and the team chased him down and stopped him a
-short distance away. [@1] Questioning established that Kumar is originally from
+short distance away. [@1,3] Questioning established that Kumar is originally from
 Salar Nagla in Bareilly and currently lives in Udham Singh Nagar in Uttarakhand.
 [@1] Police registered a case against him at Izzatnagar police station. [@1,2]
 
 The search recovered 2.328 kilograms of ganja, Rs 750 in cash and one mobile
-phone. [@1] Police said Kumar told them he had bought the ganja from an
+phone. [@1,3] Police said Kumar told them he had bought the ganja from an
 unidentified person. [@1] He allegedly sold it onward to vehicle drivers and
 other customers, and police said they are now tracing the supply source. [@1]
 
-The case was registered as FIR No. 1062/2026 under sections 8/20/29 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@2] The accused was remanded to judicial custody. [@2] Harish Kumar was described as 43 years old. [@2]
+The case was registered as FIR No. 1062/2026 under sections 8/20/29 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@2,3] The accused was remanded to judicial custody. [@2,3] Harish Kumar was described as 43 years old. [@2,3]
