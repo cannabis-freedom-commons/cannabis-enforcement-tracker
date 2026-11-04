@@ -267,6 +267,11 @@ sources:
     publisher: 星岛环球网
     date: 2026-11-03
     language: zh
+  - title: 香港籍網紅劉偉健涉販賣大麻菸彈服刑假釋 移民署強制遣送出境
+    url: https://n.yam.com/Article/20261103483714
+    publisher: 蕃新聞
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -342,16 +347,17 @@ open_questions:
   - No new media entry is added because the page's captioned image appears to duplicate the immigration handout already listed in the existing report.
   - The page's account of another influencer's reaction to the deportation adds no enforcement detail.
   - The page's two embedded images have no captions or credits, so whether they show this deportation escort could not be established and no media entry is added.
+  - The page's single image is captioned only as provided by the task force and appears to duplicate the Changhua task-force handout already listed, so no new media entry is added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
@@ -363,11 +369,11 @@ term. [@1,6,33,36]
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
 Hong Kong. [@2,4,8,14,25,27,37] Immigration said any future application by Liu to reside in
 Taiwan through a Taiwan-registered spouse would face strict review, and it said
-visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34,38]
+visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34,38,46]
 
-Liu had previously come to Taiwan for business purposes. [@27,38,45]
+Liu had previously come to Taiwan for business purposes. [@27,38,45,46]
 
-Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33,36] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33]
+Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33,36] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33,46]
 
 Liu had held a work visa to reside in Taiwan, but that residence qualification had already lapsed. [@34,35]
 
