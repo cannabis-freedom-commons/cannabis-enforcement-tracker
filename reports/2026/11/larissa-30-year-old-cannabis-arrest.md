@@ -30,6 +30,11 @@ sources:
     publisher: ONLARISSA.GR
     date: 2026-11-02
     language: el
+  - title: 'Λάρισα: Σύλληψη 30χρονου με κάνναβη σε αστυνομικό έλεγχο'
+    url: https://kosmoslarissa.gr/topika/larisa-syllipsi-30chronou-me-kannavi-se-astynomiko-elegcho/
+    publisher: kosmoslarissa.gr
+    date: 2026-11-02
+    language: el
 open_questions:
   - Only one source for this event could be opened, as searches in Greek and English found no second account of the same check and arrest.
   - No charge, prosecutor referral, or court outcome was reported for the arrested man.
@@ -41,17 +46,17 @@ open_questions:
 
 Officers of the Larissa Crime Prevention and Suppression Unit, known by the
 Greek initials O.P.K.E., arrested a 30-year-old Greek national in Larissa on the
-evening of 1 November 2026. [@1] The man was detained after officers of the
-Larissa O.P.K.E. carried out a check on him in the city. [@1,2] During that check,
-he was found holding two separate packages containing cannabis. [@1,2]
+evening of 1 November 2026. [@1,3] The man was detained after officers of the
+Larissa O.P.K.E. carried out a check on him in the city. [@1,2,3] During that check,
+he was found holding two separate packages containing cannabis. [@1,2,3]
 
 One package was a nylon wrapping holding 2.5 grams of unprocessed cannabis,
-called akatergasti kannavi in Greek. [@1,2] The other package was a paper wrapping
+called akatergasti kannavi in Greek. [@1,2,3] The other package was a paper wrapping
 holding 1.3 grams of processed cannabis, called katergasmeni kannavi in Greek.
-[@1,2] Together, the two packages amounted to 3.8 grams, or 0.0038 kilograms, of
+[@1,2,3] Together, the two packages amounted to 3.8 grams, or 0.0038 kilograms, of
 cannabis. [@1]
 
 Officers seized both the nylon package and the paper package at the time of the
-check. [@1,2] The seizure was carried out as part of the same street check in
+check. [@1,2,3] The seizure was carried out as part of the same street check in
 Larissa that led to the arrest. [@1] The recorded weights for the seizure were
 2.5 grams for the nylon package and 1.3 grams for the paper package. [@1]
