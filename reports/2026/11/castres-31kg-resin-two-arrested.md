@@ -65,6 +65,11 @@ sources:
     publisher: La Semaine des Pyrénées
     date: 2026-11-03
     language: fr
+  - title: 'Trois kilos de cannabis, des armes retrouvées dans une cave et 3 500 euros en petites coupures : à 19 ans, il se présente comme un simple "stockeur"'
+    url: https://www.ladepeche.fr/2026/11/04/trois-kilos-de-cannabis-des-armes-retrouvees-dans-une-cave-et-3-500-euros-en-petites-coupures-a-19-ans-il-se-presente-comme-un-simple-stockeur-13633240.php
+    publisher: La Dépêche du Midi
+    date: 2026-11-04
+    language: fr
 open_questions:
   - The lead image on the submitted page credited to Actu Tarn archives is an archive photo and is not listed as media because it is not shown to depict this seizure.
   - No outcome is reported for the 21-year-old arrestee, and the 19-year-old's immediate-appearance hearing was scheduled for 2 November 2026 after publication, so no verdict is reported.
@@ -75,6 +80,10 @@ open_questions:
   - The excerpt says 'plusieurs kilos' in the text with '3,1 kg' only in the headline, while the existing report records 3.1 kg of cannabis resin from fuller sourcing.
   - The excerpt says one of the two arrestees was placed in provisional detention, while the existing report records both placed in custody from fuller sourcing.
   - The excerpt does not report the flat and cellar on rue Jean-Saulière, the cash and weapons details, or the 2 November 2026 sentence recorded in the existing report.
+  - This account rounds the seizure to three kilos while the existing report records 3.1 kg; the existing figure is retained.
+  - This account reports 3,500 euros while the existing report records 3,530 euros in cash; the existing figure is retained.
+  - The remainder of the trial account is behind a paywall, so additional hearing detail beyond the accessible opening paragraphs could not be checked.
+  - 'No usable event photo could be listed: the page''s video placeholder image is not shown to depict the seizure and the other listed image shows an unrelated monkey story.'
 ---
 
 Two men aged 19 and 21 were arrested and placed in custody after gendarmes
@@ -87,7 +96,7 @@ acquisition, offer, transfer and use charges plus possession of category B and C
 weapons. [@1]
 
 In the flat and cellar officers found 3.1 kg of cannabis resin which police
-valued at nearly 11,000 euros. [@1,4] They also seized 3,530 euros in cash,
+valued at nearly 11,000 euros. [@1,4,6] They also seized 3,530 euros in cash,
 several nitrous oxide canisters, a 22 Long Rifle revolver classed as a category
 B handgun, and a category C shoulder weapon with its ammunition. [@2]
 
@@ -97,4 +106,6 @@ offences in the Petit Train-Laden district. [@1] Castres prosecutor Élodie
 Buguel said the discovery confirmed the commitment of the investigative services
 under the prosecutor’s authority to fighting drug trafficking. [@2]
 
-On 2 November 2026 the 19-year-old was brought before the Castres judicial court in an immediate-appearance hearing for drug detention, transport, acquisition, offer, transfer and use and possession of category B and C weapons. [@3] The court sentenced him to two years of firm imprisonment and kept him in detention. [@3]
+On 2 November 2026 the 19-year-old was brought before the Castres judicial court in an immediate-appearance hearing for drug detention, transport, acquisition, offer, transfer and use and possession of category B and C weapons. [@3] The court sentenced him to two years of firm imprisonment and kept him in detention. [@3,6]
+
+The court also banned the 19-year-old from possessing a weapon for ten years. [@6] Officers found three blocks of cannabis stamped with different logos in the 19-year-old's bedroom. [@6] Officers also found packaging material and about twenty cartridges with a 22 Long Rifle revolver and a carbine in the cellar. [@6]
