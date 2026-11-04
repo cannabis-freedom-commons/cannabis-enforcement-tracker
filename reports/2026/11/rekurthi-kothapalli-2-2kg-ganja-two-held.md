@@ -34,6 +34,11 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-03
     language: te
+  - title: 'Karimnagar: కరీంనగర్‌లో భారీగా గంజాయి విక్రయిస్తున్న ఇద్దరి అరెస్ట్! | Karimnagar Two Arrested For Selling Ganja In Kothapally'
+    url: https://www.hmtvlive.com/telugu-news/karimnagar/karimnagar-two-arrested-for-selling-ganja-in-kothapally-208780
+    publisher: HMTV
+    date: 2026-11-04
+    language: te
 open_questions:
   - The article gives no separate date for the patrol and arrest; 3 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in English and Telugu.
@@ -42,24 +47,27 @@ open_questions:
   - The page carries a photo without a caption or credit establishing what it depicts, so no media entry is included.
   - The new source describes the accused only as residents of Rekurthi, while the existing report specifies Shekhabi Colony in Rekurthi from its earlier sources.
   - The new page's image has no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The HMTV article gives no separate date for the patrol and arrest; 4 November 2026 is its publication date, one day after the 3 November 2026 date used in the existing report.
+  - The HMTV account identifies the accused only as residents of Rekurthi, without the Shekhabi Colony detail in the existing report.
+  - The HMTV page image is captioned only as Karimnagar with no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Kothapalli police arrested two men who were selling ganja and sent them to
-remand. [@1,2,3] Police identified them as Mohammed Munna and Mohammed Sharuk of
-Shekhabi Colony in Rekurthi. [@1,3] Police said the pair had for some time been
+remand. [@1,2,3,4] Police identified them as Mohammed Munna and Mohammed Sharuk of
+Shekhabi Colony in Rekurthi. [@1,3,4] Police said the pair had for some time been
 buying ganja cheaply in Maharashtra and other states and bringing it to
-Karimnagar. [@1,2,3]
+Karimnagar. [@1,2,3,4]
 
 Police said they repacked the ganja into small packets and sold it at high
 prices to students and others for illegal profit. [@1] About 15 days earlier the
 men went to Nagpur in Maharashtra and bought 2.2 kg of ganja at Rs 20,000 per kg
-from unidentified persons. [@1,2] They brought it to Rekurthi and prepared to sell
-it at Rs 50,000 per kg. [@1,3] Kothapalli Sub-Inspector Sambamurthy and his staff
+from unidentified persons. [@1,2,4] They brought it to Rekurthi and prepared to sell
+it at Rs 50,000 per kg. [@1,3,4] Kothapalli Sub-Inspector Sambamurthy and his staff
 spotted them carrying ganja along the canal near Sammakka Gaddela while on
-patrol. [@1,2]
+patrol. [@1,2,4]
 
 The men tried to flee on seeing police but were caught and searched, and
-officers found 2.2 kg of ganja in their bag. [@1,3] Officers conducted a
-panchanama before witnesses and seized the ganja along with cell phones. [@1,2,3] A
+officers found 2.2 kg of ganja in their bag. [@1,3,4] Officers conducted a
+panchanama before witnesses and seized the ganja along with cell phones. [@1,2,3,4] A
 case was registered at Kothapalli police station and the accused were remanded
-after arrest, according to SHO Billa Koteshwar. [@1,2,3]
+after arrest, according to SHO Billa Koteshwar. [@1,2,3,4]
