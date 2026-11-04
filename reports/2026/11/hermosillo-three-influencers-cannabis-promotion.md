@@ -43,6 +43,11 @@ sources:
     publisher: RÉCORD
     date: 2026-11-04
     language: es
+  - title: "Ellos son los influencers detenidos por promover el uso de marihuana\U0001F3A6"
+    url: https://puentelibre.mx/nacional/influencers-detenidos-promover-uso-marihuana/
+    publisher: Puente Libre
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight or count for the displayed cannabis products was published, so no kilograms can be recorded.
   - The amounts of the individual financial guarantees were not published.
@@ -52,16 +57,18 @@ open_questions:
   - The same article also describes a September Marina operation in San Carlos, Guaymas with 357 bags, 2,385 tubes and about 30.16 kilograms of marijuana, a separate enforcement event left out of this prosecution update.
   - Both page images are credited to @pixabay and are not established as photos of this prosecution or seizure, so no media entry is added.
   - The article links the Olympos brand to Los Salazar and a named individual as an investigative allegation while noting that no judicial sentence has established responsibility, so that link is not added as a fact.
+  - The Puente Libre page carries a photo with no caption or credit establishing that it shows this prosecution, so no media entry is added.
+  - The page also embeds a video file with no caption establishing that it shows this event, so no video entry is added.
 ---
 
 A control judge bound three Hermosillo influencers over for trial for apología
 of a crime and of a vice after they shared an August Facebook video exhibiting
-and promoting Olympos marijuana products. [@1,3] The accused are 20-year-old Azlán
+and promoting Olympos marijuana products. [@1,3,4] The accused are 20-year-old Azlán
 N, 29-year-old Julián N known as El Pelón Bajavión, and 22-year-old Eduardo
-Antonio N known as El Doble Carne. [@2,3] The judge ordered weekly appearances
+Antonio N known as El Doble Carne. [@2,3,4] The judge ordered weekly appearances
 before the court, an individual financial guarantee, a ban on leaving Sonora
 without permission, and a temporary halt to promoting the brand under
-investigation. [@2,3] Azlán remains in justified preventive detention for two
+investigation. [@2,3,4] Azlán remains in justified preventive detention for two
 other criminal cases while all three face precautionary measures in this
 prosecution. [@1]
 
