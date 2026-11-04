@@ -33,6 +33,10 @@ sources:
     url: https://www.maltatoday.com.mt/news/court_and_police/145472/five_suspects_detained_after_police_seize_drugs_and_5000_in_cash_1
     publisher: MaltaToday
     date: 2026-11-04
+  - title: Man, 20, granted bail over possession of cannabis and cocaine
+    url: https://timesofmalta.com/article/man-20-granted-bail-possession-cannabis-cocaine.1136618
+    publisher: Times of Malta
+    date: 2026-11-04
 open_questions:
   - The about 150 sachets held suspected heroin, cocaine and cannabis together, with no separate cannabis count or weight published, so no cannabis quantity is recorded.
   - Monday evening corresponds to 2 November, Tuesday to 3 November and the expected arraignment today to 4 November from the 4 November publication date; no separate calendar dates were given.
@@ -45,6 +49,8 @@ open_questions:
   - The prior June bail conditions the 20-year-old was accused of breaching were not described.
   - No weights for the cannabis and cocaine attributed to the bailed accused were published, only that the defence called the quantities very small.
   - The MaltaToday page carries a photo credited only as Police Communications Office without showing it depicts this apartment search or seizure, so no media entry is included.
+  - 'The page''s image is captioned only as File photo: Times of Malta and does not depict this raid or seizure, so no media entry is included.'
+  - No separate cannabis weight or count for the bailed accused was published, only that the defence called the quantities very small, so no cannabis quantity is recorded.
 media:
   - kind: photo
     url: https://timesofmalta.com/article/five-people-including-teenage-girl-arrested-drug-trafficking.1136595
@@ -54,7 +60,7 @@ media:
 ---
 
 Five people, including a 16-year-old girl, were arrested in St Paul’s Bay in
-connection with suspected drug trafficking. [@1,2,3,4] Police carried out the initial
+connection with suspected drug trafficking. [@1,2,3,4,5] Police carried out the initial
 operation on Monday evening, searching an apartment after receiving information
 about alleged drug-related activity. [@1,2,3,4] Four people were arrested during the
 raid, a 25-year-old man, two 20-year-old men and the 16-year-old girl. [@1,2,3,4] One
@@ -74,4 +80,4 @@ May Grima. [@1,2] Police investigations were still ongoing. [@1]
 
 The two 20-year-olds were taken to court before Magistrate Astrid May Grima. [@3] Both accused pleaded not guilty. [@3] One of the two accused was kept under arrest. [@3] The court ordered that the name of both accused not be shared. [@3,4]
 
-A 20-year-old man pleaded not guilty to possessing cannabis and cocaine allegedly for purposes other than personal use and to breaching bail conditions imposed last June. [@4] The court granted him bail on a €1,000 deposit and a €10,000 personal guarantee. [@4] He was ordered to sign the bail book every Monday, Thursday and Sunday between 7am and 7pm and to observe a curfew between 9pm and 7am. [@4] The prosecution did not object to bail, saying release would not prejudice proceedings and there was no fear of evidence being tampered with. [@4] The defence argued the drug quantities were very small and asked the court not to impose a substantial deposit. [@4] Duty Magistrate Astrid May Grima presided over the arraignment. [@4] Inspector Francesco Mizzi led the prosecution, while lawyer Jacob Magri appeared for the accused. [@4]
+A 20-year-old man pleaded not guilty to possessing cannabis and cocaine allegedly for purposes other than personal use and to breaching bail conditions imposed last June. [@4] The court granted him bail on a €1,000 deposit and a €10,000 personal guarantee. [@4,5] He was ordered to sign the bail book every Monday, Thursday and Sunday between 7am and 7pm and to observe a curfew between 9pm and 7am. [@4] The prosecution did not object to bail, saying release would not prejudice proceedings and there was no fear of evidence being tampered with. [@4,5] The defence argued the drug quantities were very small and asked the court not to impose a substantial deposit. [@4,5] Duty Magistrate Astrid May Grima presided over the arraignment. [@4] Inspector Francesco Mizzi led the prosecution, while lawyer Jacob Magri appeared for the accused. [@4,5]
