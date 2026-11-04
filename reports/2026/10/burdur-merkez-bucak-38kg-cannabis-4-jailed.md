@@ -71,12 +71,18 @@ sources:
     publisher: Mersin Haber
     date: 2026-11-03
     language: tr
+  - title: Burdur ve Bucak’ta Jandarmadan Uyuşturucuya Darbe! 4 Şüpheli Cezaevine Gönderildi
+    url: https://www.haberburdur.com/burdur-ve-bucak-ta-jandarmadan-uyusturucuya-darbe-4-supheli-cezaevine-gonderildi
+    publisher: HaberBurdur.com
+    date: 2026-11-03
+    language: tr
 open_questions:
   - The sources give only the 21-28 October 2026 operation window, not separate dates for individual raids, so the report uses 28 October 2026 as the incident date.
   - The 122 grams of cannabis seeds are described but are not counted in the cannabis weight or plant figures.
   - Methamphetamine, heroin, synthetic cannabinoid doses, drug-use implements and illicit whisky were reported alongside cannabis and are noted only to explain the mixed seizure; their quantities are excluded from cannabis figures.
   - No names, ages or individual charge breakdowns for the 10 suspects were published, and no court outcome beyond remand and releases was reported.
   - The opened Medya Gazete page gives only its 3 November 2026 publication date and no separate dates for the raids, so the 21-28 October 2026 operation window continues to rely on the earlier sources cited by the existing report.
+  - The HaberBurdur page image is captioned only with the article headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Burdur provincial gendarmerie narcotics teams carried out anti-narcotics work in
@@ -85,13 +91,13 @@ coordination of the Burdur and Bucak chief public prosecutors, according to a
 Burdur Governorship statement. [@1,3,4,5,7,8] The gendarmerie started judicial proceedings
 against 10 suspects for illegal cannabis cultivation, drug manufacture and
 trade, and purchasing, accepting, possessing and using drugs for personal use.
-[@1,3,4,5,6,7,8] Four of the suspects were remanded in custody, known in Turkey as
+[@1,3,4,5,6,7,8,9] Four of the suspects were remanded in custody, known in Turkey as
 tutuklama, and sent to Isparta E Type Closed Prison, while two were released
-under judicial control and four were released after giving statements. [@1,3,4,6,7,8]
+under judicial control and four were released after giving statements. [@1,3,4,6,7,8,9]
 
 Officers seized 3 kg 820 g of kubar esrar, a cannabis preparation also called
-hashish. [@1,3,4,5,6,7,8] They also seized 7 grams of esrar, 6.62 grams of esrar rolled in
-cigarettes, five cannabis plant roots and 122 grams of cannabis seeds. [@2,3,5,6,7,8] The
+hashish. [@1,3,4,5,6,7,8,9] They also seized 7 grams of esrar, 6.62 grams of esrar rolled in
+cigarettes, five cannabis plant roots and 122 grams of cannabis seeds. [@2,3,5,6,7,8,9] The
 same searches also found 11 grams of methamphetamine, 4.5 grams of heroin, six
 doses of synthetic cannabinoid, three drug-use implements and 15 litres of
 illicit homemade whisky, none of which is counted in the cannabis figures. [@2,6]
