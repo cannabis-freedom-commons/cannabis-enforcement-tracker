@@ -27,6 +27,11 @@ media:
     media_url: https://asset.kompas.com/crops/_dS8SN5SKzifgZTzjjJfED9IHoE=/0x0:0x0/1200x800/data/photo/2026/11/04/6aeb04a24aff1.jpg
     publisher: KOMPAS.com
     caption: 'Sragen police chief shows a seized about-170-cm cannabis plant from suspect BW''s house at a press conference at Sragen police headquarters. Photo: KOMPAS.com/Agus Iswadi'
+  - kind: photo
+    url: https://solopos.espos.id/polisi-bongkar-kebun-ganja-di-sidoharjo-sragen-29-batang-tanaman-disita-2264089
+    media_url: https://imgcdn.espos.id/@espos/images/2026/11/20261104180204-04tanaman-ganja.jpg?quality=60
+    publisher: Espos.id
+    caption: 'Sragen police chief AKBP Heru Antariksa Cahya looks at cannabis plants grown in used mineral-water gallons seized as evidence at Sragen police headquarters. Photo: Espos.id'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d555c0fd58d0dab6c0d3a00d7c61352a
@@ -42,6 +47,11 @@ sources:
     publisher: KOMPAS.com
     date: 2026-11-04
     language: id
+  - title: Polisi Bongkar “Kebun” Ganja di Sidoharjo Sragen, 29 Batang Tanaman Disita
+    url: https://solopos.espos.id/polisi-bongkar-kebun-ganja-di-sidoharjo-sragen-29-batang-tanaman-disita-2264089
+    publisher: Espos.id
+    date: 2026-11-04
+    language: id
 open_questions:
   - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
   - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
@@ -52,19 +62,21 @@ open_questions:
   - The new 5 kg figure is the police-calculated weight of the 25 live plants, distinct from the 15.8 grams of dried cannabis, and is not added to kg_seized without a dried-weight conversion.
   - The article also reports a separate October 2026 Sragen total of 9 cases with 12 suspects involving methamphetamine, psychotropics and list-G drugs, a different enforcement total left out of this cannabis report.
   - The page's second thumbnail about a Jakarta drug raid does not show this event and is omitted from media.
+  - The new account estimates about 2.5 kg with a value of tens of millions of rupiah under Rp100 million, differing from the 5 kg and Rp250 million figure already recorded from another outlet; the report keeps the earlier figures.
+  - The new account gives no separate raid date beyond an October 2026 operation and a 4 November 2026 police display, so the incident date remains the recorded display date.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25
-cannabis stalks growing around his house. [@1,2] The man, identified only by the
-initials BW, is now in police custody. [@1] Sragen police chief AKBP Heru
+cannabis stalks growing around his house. [@1,2,3] The man, identified only by the
+initials BW, is now in police custody. [@1,3] Sragen police chief AKBP Heru
 Antariksa Cahya said BW lives in Sidoharjo district in Sragen. [@1]
 Investigators charged BW under Article 114 paragraph (2) of the 2009 Narcotics
 Law in conjunction with the 2023 Criminal Code and the 2026 sentence-adjustment
-law. [@1] Under that charge, police said he faces the most severe penalty of
-death. [@1]
+law. [@1,3] Under that charge, police said he faces the most severe penalty of
+death. [@1,3]
 
 Police said they seized from BW at least 25 cannabis stalks and four cannabis
-seedlings plus 15.8 grams of dried cannabis. [@1,2] Police displayed the seized 25
+seedlings plus 15.8 grams of dried cannabis. [@1,2,3] Police displayed the seized 25
 plants at Sragen police headquarters on 4 November 2026 together with the
 seedlings and dried cannabis. [@1]
 
@@ -77,3 +89,5 @@ around his house. [@1] The plants were four to five months old and were intended
 for New Year celebrations. [@1]
 
 Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
+
+Police described the Sragen cannabis-plant case as the first such case uncovered in Sragen. [@3] Police said BW consumed cannabis leaves every day in the morning and evening. [@3]
