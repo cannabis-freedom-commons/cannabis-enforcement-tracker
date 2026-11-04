@@ -5,9 +5,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"strings"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/frontmatter"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"gopkg.in/yaml.v3"
 )
@@ -27,7 +29,10 @@ func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 	if len(parts) != 3 {
 		return errors.New("invalid draft front matter")
 	}
-	var draft struct{ Country string }
+	var draft struct {
+		research.ReportIndex `yaml:",inline"`
+		Code                 string
+	}
 	if err := yaml.Unmarshal([]byte(parts[1]), &draft); err != nil {
 		return err
 	}
@@ -56,13 +61,48 @@ func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 	if coverageDiffers(current, draft.Country, seen, updates) {
 		return &coverageChanged{country: draft.Country}
 	}
+	_, aliasDigest, err := research.ReadReportAliases(repo)
+	if err != nil {
+		return err
+	}
+	if aliasDigest != d.AliasDigest {
+		return &coverageChanged{country: draft.Country}
+	}
+	if err := research.CheckRetiredIdentity(repo, d.Slug, draft.Code); err != nil {
+		return &coverageChanged{country: draft.Country}
+	}
+	// Old queued publications also pass the new comparison gate. Never accept a
+	// missing attestation merely because the draft predates this service version.
+	proposal := research.Result{Outcome: "new_event", Country: draft.Country, Date: draft.Date, Title: draft.Title, Summary: draft.Summary, Place: draft.Place, Slug: d.Slug, Facts: []research.Fact{{Text: parts[2]}}}
+	figures, err := json.Marshal(draft.Figures)
+	if err != nil {
+		return err
+	}
+	if err = json.Unmarshal(figures, &proposal.Figures); err != nil {
+		return err
+	}
+	for _, source := range draft.Sources {
+		proposal.Sources = append(proposal.Sources, research.Source{URL: source.URL})
+	}
+	if d.IdentityResult != nil {
+		proposal.EventComparisons = d.IdentityResult.EventComparisons
+		proposal.Facts = d.IdentityResult.Facts
+	}
+	for _, comparison := range proposal.EventComparisons {
+		if !strings.Contains(strings.Join(strings.Fields(parts[2]), " "), strings.Join(strings.Fields(comparison.FactText), " ")) {
+			return &coverageChanged{country: draft.Country}
+		}
+	}
+	if err := research.CheckEventComparisons(proposal, current, false); err != nil {
+		return &coverageChanged{country: draft.Country}
+	}
 	return nil
 }
 
 func countryCoverage(reports []report, country string) map[string]string {
 	out := map[string]string{}
 	for _, r := range reports {
-		if r.Country == country {
+		if research.RelatedCountries(r.Country, country) {
 			out[r.Slug] = r.Digest
 		}
 	}
@@ -70,9 +110,17 @@ func countryCoverage(reports []report, country string) map[string]string {
 }
 
 func coverageDiffers(reports []report, country string, before map[string]string, updates map[string]bool) bool {
-	for _, r := range reports {
-		if r.Country == country && !updates[r.Slug] && before[r.Slug] != r.Digest {
+	current := countryCoverage(reports, country)
+	for slug, digest := range current {
+		if !updates[slug] && before[slug] != digest {
 			return true
+		}
+	}
+	for slug := range before {
+		if !updates[slug] {
+			if _, exists := current[slug]; !exists {
+				return true
+			}
 		}
 	}
 	return false

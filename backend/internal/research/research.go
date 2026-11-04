@@ -106,7 +106,8 @@ type Result struct {
 	DecisionTitle  string    `json:"decision_title,omitempty"`
 	Uncertainties  []string  `json:"uncertainties"`
 	// Other existing reports this run changes (additional sources, open questions, corrections).
-	Updates []ReportUpdate `json:"report_updates,omitempty"`
+	Updates          []ReportUpdate    `json:"report_updates,omitempty"`
+	EventComparisons []EventComparison `json:"event_comparisons,omitempty"`
 }
 
 var slug = regexp.MustCompile(`^[a-z0-9]+(?:-[a-z0-9]+)*$`)
@@ -883,6 +884,25 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 		request["archive_timestamp"] = e.ArchivedAt
 	}
 	files := map[string][]byte{"reports-index.jsonl": []byte(index.String())}
+	var identityReports []ReportIndex
+	if err = json.Unmarshal(coverage, &identityReports); err != nil {
+		return Result{}, err
+	}
+	proposal := Result{Facts: []Fact{{Text: text}}, Sources: []Source{{URL: e.URL}, {URL: e.FinalURL}}}
+	if e.Metadata != nil {
+		proposal.Title = e.Metadata.Title
+	}
+	if r.PreviousResult != nil {
+		proposal = *r.PreviousResult
+	}
+	files["event-candidates.json"], _ = json.MarshalIndent(EventCandidates(proposal, identityReports), "", "  ")
+	request["event_candidates"] = "event-candidates.json"
+	aliases, _, aliasErr := ReadReportAliases(dir)
+	if aliasErr != nil {
+		return Result{}, aliasErr
+	}
+	files["retired-report-aliases.json"], _ = json.MarshalIndent(aliases, "", "  ")
+	request["retired_report_aliases"] = "retired-report-aliases.json"
 	if r.PreviousResult != nil {
 		request["coverage_review"] = true
 		if r.ReviewProblem != "" {
@@ -1249,6 +1269,16 @@ func prepareReport(dir string, r Result) (Draft, error) {
 	used, err := reportcode.Index(dir)
 	if err != nil {
 		return d, err
+	}
+	aliases, _, err := ReadReportAliases(dir)
+	if err != nil {
+		return d, err
+	}
+	if err := CheckRetiredIdentity(dir, r.Slug, ""); err != nil {
+		return d, err
+	}
+	for code, target := range aliases.Codes {
+		used[code] = target
 	}
 	if r.Code == "" || used[r.Code] != "" {
 		r.Code = reportcode.Available(r.Slug, used)

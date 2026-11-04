@@ -316,17 +316,33 @@ A case trailer and a persisted SHA recover publication retries without a second 
 
 Research remains parallel, but a new report's event-identity decision is checked for freshness
 under the same repository lock as its commit. The service retains the country report inventory
-seen by the model, including through checkpoint recovery. If another submission added or changed
-a report for that country while research ran, the stale draft is not committed. Its publication
+seen by the model, including through checkpoint recovery. Country and state records share a
+country scope. If another submission added, changed or removed a report in that scope while
+research ran, or the retired slug/code alias inventory changed, the stale draft is not committed. Its publication
 job is atomically replaced by a fresh OpenCode coverage review using the saved proposal, opened
 source captures and current reports. That review can add sources/details to an existing report,
 record a duplicate linked to it, or confirm a separate event; quotations and report checks still
 apply. A changed target of a concurrent update takes the same path. Reviews use the normal model
-configuration and research budget. Changes in other countries do not invalidate the decision.
+configuration and research budget. Changes in unrelated countries do not invalidate the inventory check.
 Source ownership also checks normalized requested and final redirect URLs, so aliases cannot
 claim the same article separately. Dates, quantities and place labels alone are not duplicate
 proof. Restart the backend to apply this publication guard; existing duplicate reports are not
 automatically deleted or merged.
+
+Before accepting `new_event`, the service nominates likely matches from the richer report index:
+titles, summaries, places, quantities, names from original prose, explicit case identifiers and
+normalized source URLs. Name and case searches span all years, so later court stages can find
+the original case. Similarity is only a search aid; shared roundups, campaign totals and separate
+components are not automatically merged. The researcher receives `event-candidates.json`, all
+original reports and the retired-identity map. Every candidate requires an `event_comparisons`
+entry with an actual passage from the existing body, a retained quotation-checked proposed fact,
+and a concrete factual distinction. A supported same-event/case match must instead use the
+existing update/add-source/duplicate paths. Missing or unsupported comparisons get one automatic
+correction using saved evidence; an unresolved result cannot publish a new report. The commit
+lock repeats candidate checks for recovered older jobs and binds comparison facts to the actual
+draft. Retired slugs and codes cannot be reused, and new code allocation reserves retired codes.
+These checks reduce missed matches; they do not prove semantic uniqueness for differently
+worded accounts with no shared retrievable identifiers. Restart the backend to apply the new gate.
 
 On localhost, **Restart submission** appears for `budget_wait`, `failed`, `insufficient_evidence`,
 `source_unavailable` and legacy `needs_review` receipts on their request detail page only.

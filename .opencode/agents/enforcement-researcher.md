@@ -170,6 +170,24 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
 - sources: the title and publisher as published, the source's publication date, and its language
   (two letters) if not English.
 
+Before choosing new_event, read request.json's event_candidates file and the original body of
+every nominated report in existing-reports/. The list is a retrieval aid, not duplicate proof;
+also search the richer index (summary, place, figures and names) for matches it missed. Compare
+the incident and the entire case across years, countries/states, translations and court stages.
+Changing a title, date, outlet or slug does not make an event new. Read retired_report_aliases
+and follow retired slugs/codes to their live canonical report; never recreate a retired identity.
+For every nominated match, a new_event must include event_comparisons: report (exact live slug),
+relation (distinct_event or campaign_component), existing_text (an exact body passage of at least
+20 characters, preserving citation markers if inside the passage), fact_text (the exact text of
+one of your sourced facts), and difference (20–600 characters stating the concrete factual
+distinction). These are public factual comparisons, never private deliberation or raw sources.
+The service recomputes candidates using your final proposed facts and independently checks the
+existing passages and source quotations. Missing or unsupported comparisons trigger automatic
+review and block new publication. Dates, quantities, police agencies or place names alone do not
+prove identity or distinction. A campaign total and a supported component can remain separate;
+give campaign_component and identify which component the new report covers. A matching event
+or later stage of the same case must use additional_source, existing_case or duplicate instead.
+
 Return a single JSON object, no Markdown fences or commentary, with exactly these fields:
 {"outcome":"new_event|existing_case|additional_source|duplicate|not_relevant|insufficient_evidence|routed_to_cfi|needs_review",
 "country":"CFI id or empty", "incident_date":"YYYY-MM-DD or empty", "type":"type or empty",
@@ -184,6 +202,7 @@ Return a single JSON object, no Markdown fences or commentary, with exactly thes
 "existing_report":"existing slug or empty","decision_title":"Short public outcome title, up to 120 characters",
 "explanation":"Detailed public explanation of the outcome, up to 1500 characters",
 "uncertainties":[],
+"event_comparisons":[{"report":"existing slug","relation":"distinct_event|campaign_component","existing_text":"Exact passage from its body","fact_text":"Exact text of a sourced fact in this result","difference":"Short factual distinction between these events"}],
 "report_updates":[{"report":"existing slug","facts":[{"text":"the existing report's sentence this supports, or a new sentence","source":1,"quote":"Exact supporting passage"}],"uncertainties":[],"title":"corrected title, only to correct it","summary":"corrected summary, only to correct it"}]}
 In figures, include only the keys a source gives a number for; omit the rest. Omit also, tags, media or
 a source's date and language when there are none. For outcomes other than new_event and

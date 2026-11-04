@@ -174,16 +174,7 @@ func (w *Worker) outbox(ctx context.Context) {
 	}
 }
 
-type report struct {
-	Slug    string `json:"slug"`
-	Country string `json:"country"`
-	Date    string `json:"date"`
-	Title   string `json:"title"`
-	Digest  string `json:"-" yaml:"-"`
-	Sources []struct {
-		URL string `yaml:"url" json:"url"`
-	} `json:"sources"`
-}
+type report = research.ReportIndex
 
 func Coverage(repo string) ([]report, error) {
 	out := []report{}
@@ -207,6 +198,9 @@ func Coverage(repo string) ([]report, error) {
 			return fmt.Errorf("%s: invalid report front matter: %w", path, err)
 		}
 		r.Slug = strings.TrimSuffix(d.Name(), ".md")
+		r.Body = parts[2]
+		r.Names = research.IndexNames(r.Title + " " + r.Summary + " " + r.Body)
+		r.CaseIDs = research.IndexCaseIDs(r.Title + " " + r.Summary + " " + r.Body)
 		sum := sha256.Sum256(b)
 		r.Digest = hex.EncodeToString(sum[:])
 		out = append(out, r)
@@ -273,6 +267,13 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				return e
 			}
 			if coverageDiffers(current, checkpoint.Result.Country, checkpoint.Coverage, nil) {
+				checkpoint.ReviewCoverage = true
+			}
+			_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
+			if aliasErr != nil {
+				return aliasErr
+			}
+			if aliases != checkpoint.AliasDigest {
 				checkpoint.ReviewCoverage = true
 			}
 		}
@@ -403,7 +404,11 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			checkpoint.AddedAt, checkpoint.Code = "", ""
 		}
 
-		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
+		_, aliasDigest, aliasErr := research.ReadReportAliases(dir)
+		if aliasErr != nil {
+			return aliasErr
+		}
+		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
 		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
 			return err
 		}
@@ -469,6 +474,13 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if coverageDiffers(current, result.Country, checkpoint.Coverage, nil) {
 			return w.requeueCoverageReview(ctx, j, nil)
 		}
+		_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
+		if aliasErr != nil {
+			return aliasErr
+		}
+		if aliases != checkpoint.AliasDigest {
+			return w.requeueCoverageReview(ctx, j, nil)
+		}
 	}
 
 	// a blocked extra source or a missing quotation is noted and worked around; only a really bad
@@ -485,6 +497,22 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		return w.Store.Transition(ctx, j.Ref, w.uncertainOutcome(), "The facts could not be confirmed in the sources ("+err.Error()+").", "", "")
 	}
 	result = confirmed
+	if result.Outcome == "new_event" {
+		reports, identityErr := Coverage(dir)
+		if identityErr != nil {
+			return identityErr
+		}
+		identityErr = research.CheckEventComparisons(result, reports, true)
+		if identityErr == nil {
+			identityErr = research.CheckRetiredIdentity(dir, result.Slug, result.Code)
+		}
+		if identityErr != nil {
+			if checkpoint.RepairAttempts < 1 {
+				return w.requeueResearchReview(ctx, j, nil, "The new-event identity check failed: "+identityErr.Error()+". Read event-candidates.json and each original report. Supply event_comparisons for every nominated match, with a body excerpt and a quotation-supported fact demonstrating the distinction. A matching event or later case stage must update the existing report instead of creating another. Keep genuinely distinct events and campaign components separate.")
+			}
+			return w.Store.Transition(ctx, j.Ref, "failed", "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.", "", "")
+		}
+	}
 	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result)})
 	if err = research.SaveEvidence(dir, evidence); err != nil {
 		return err
@@ -586,7 +614,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	result.Updates = kept
 	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
 	digest := sha256.Sum256([]byte(draft.Content))
-	payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage}
+	payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage, AliasDigest: checkpoint.AliasDigest, IdentityResult: &result}
 	tx, err := w.Store.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return err
@@ -608,6 +636,7 @@ type researchCheckpoint struct {
 	ReviewProblem           string `json:",omitempty"`
 	RepairAttempts          int    `json:",omitempty"`
 	Coverage                map[string]string
+	AliasDigest             string `json:",omitempty"`
 	AddedAt                 string `json:",omitempty"`
 	Code                    string `json:",omitempty"`
 }
@@ -617,6 +646,8 @@ type draftJob struct {
 	SourceOnly                                 bool              `json:",omitempty"` // sources added to an existing report
 	Updates                                    []fileJob         `json:",omitempty"` // other existing reports changed
 	Coverage                                   map[string]string // reports seen by the model, retained through recovery
+	AliasDigest                                string            `json:",omitempty"`
+	IdentityResult                             *research.Result  `json:",omitempty"`
 }
 
 // fileJob is another existing report a run changes, checked like the main draft.

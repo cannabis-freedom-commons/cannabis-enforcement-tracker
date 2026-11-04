@@ -17,7 +17,7 @@ import (
 )
 
 func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
-	for _, failure := range []string{"schema", "merge"} {
+	for _, failure := range []string{"schema", "merge", "identity", "identity repeated"} {
 		t.Run(failure, func(t *testing.T) {
 			repo, _ := commitFixture(t)
 			for _, name := range []string{"docs/CFI.md", "docs/WRITING.md", ".claude/skills/add-report/SKILL.md", ".claude/skills/find-reports/SKILL.md", ".opencode/agents/enforcement-researcher.md", "src/data/countries.json"} {
@@ -37,6 +37,9 @@ func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
 				}
 			}
 			original := "---\ncode: ABC123\ncountry: it\ndate: 2026-11-03\ntitle: Police arrest two men\ncreated_by_model: original/model\nstatus: reported\nsources:\n  - url: https://first.example/article\n    title: First account\n    publisher: First\n---\n\nPolice arrested two men at the farm. [@1]\n"
+			if strings.HasPrefix(failure, "identity") {
+				original = strings.Replace(original, "Police arrest two men", "Pozzuoli village farm raid", 1)
+			}
 			path := filepath.Join(repo, "reports/2026/11/existing-case.md")
 			if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
 				t.Fatal(err)
@@ -62,8 +65,21 @@ func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
 			if failure == "schema" {
 				result.Facts[0].Source = 2
 			}
+			if strings.HasPrefix(failure, "identity") {
+				result.Outcome, result.Country, result.Date, result.Type = "new_event", "it", "2026-11-03", "raid"
+				result.Slug, result.Title, result.Summary = "second-pozzuoli-account", "Pozzuoli village farm raid", "Police detained two men at a farm."
+				result.Place, result.Precision, result.Coordinates = "Pozzuoli", "locality", []float64{40.8, 14.1}
+				result.ExistingReport = ""
+			}
 			initial := safeurl.Evidence{URL: url, FinalURL: url, Content: result.Facts[0].Quote}
 			saved := researchCheckpoint{Result: result, Initial: initial, Evidence: []safeurl.Evidence{initial}, Model: "original/model", Dir: "missing-old-checkout"}
+			if strings.HasPrefix(failure, "identity") {
+				reports, err := Coverage(repo)
+				if err != nil {
+					t.Fatal(err)
+				}
+				saved.Coverage = countryCoverage(reports, result.Country)
+			}
 			if _, err := s.DB.Exec("INSERT INTO research_checkpoints VALUES(?,?,?)", v.CaseID, store.JSON(saved), time.Now().Unix()); err != nil {
 				t.Fatal(err)
 			}
@@ -93,7 +109,7 @@ func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
 			// error proves that the correction cannot keep requeuing itself.
 			answer := result
 			want := "failed"
-			if failure == "merge" {
+			if failure == "merge" || failure == "identity" {
 				answer = research.Result{Outcome: "duplicate", ExistingReport: "existing-case", Explanation: "The original report already covers the farm arrests and the supported facts.", Sources: result.Sources}
 				want = "duplicate"
 			}
@@ -124,6 +140,19 @@ func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
 			request, err := os.ReadFile(filepath.Join(workspace, ".research-input/request.json"))
 			if err != nil || !strings.Contains(string(request), `"validation_feedback":`) {
 				t.Fatal("model did not receive the correction", err, string(request))
+			}
+			if strings.HasPrefix(failure, "identity") {
+				candidates, err := os.ReadFile(filepath.Join(workspace, ".research-input/event-candidates.json"))
+				if err != nil || !strings.Contains(string(candidates), "existing-case") {
+					t.Fatal("review did not receive likely matches", string(candidates), err)
+				}
+				if _, err := os.Stat(filepath.Join(workspace, ".research-input/existing-reports/existing-case.md")); err != nil {
+					t.Fatal("original report missing", err)
+				}
+				var n int
+				if err := s.DB.QueryRow("SELECT count(*) FROM jobs WHERE kind='publish' AND ref=?", v.CaseID).Scan(&n); err != nil || n != 0 {
+					t.Fatal("duplicate reached publication", n, err)
+				}
 			}
 			if err := s.DB.QueryRow("SELECT payload FROM research_checkpoints WHERE case_id=?", v.CaseID).Scan(&payload); err != nil {
 				t.Fatal(err)
