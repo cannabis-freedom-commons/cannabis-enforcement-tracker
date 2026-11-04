@@ -47,6 +47,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-04
     language: hi
+  - title: कंटेनर में चावल की बोरियों के बीच छिपाकर रखा थे पैकेट, पुलिस ने पकड़ा गांजा, 1 करोड़ का सामान जब्त
+    url: https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/cannabis-being-transported-hidden-amidst-sacks-of-rice-seized-two-smugglers-arrested/articleshow/135532672.cms
+    publisher: Navbharat Times
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate date for the interception; 3 November 2026 is its dateline and publication timestamp and is used as the incident date.
   - Only one accessible source for this event was opened after searching; no second account could be added.
@@ -57,6 +62,8 @@ open_questions:
   - The Navbharat Live article was published on 4 November 2026 and gives no separate interception date, so the existing incident date of 3 November 2026 is retained.
   - The page image is captioned only Chhattisgarh Ganja Smuggling with no credit establishing that it shows this seizure, so no media entry is included.
   - This account does not give the accuseds ages, the NDPS section, the Khamharpali barrier location, the tip-off, Operation Nishchay or the container registration number, which remain sourced only from the earlier accounts.
+  - This account was published on 4 November 2026 and gives no separate interception date, so the existing incident date of 3 November 2026 is retained.
+  - The page image is captioned only that police arrested the accused, with no credit establishing that it shows this seizure, so no media entry is listed.
 media:
   - kind: photo
     url: https://www.haribhoomi.com/state-local/chhattishgarh/news/mahasamund-ganja-smuggling-operation-nishchay-drug-trafficking-ndps-act-120580
@@ -66,25 +73,25 @@ media:
 ---
 
 Mahasamund police arrested two alleged smugglers from Uttar Pradesh with ganja
-hidden in a container truck. [@1,2,3,4] The men identified themselves as Amandeep, 27,
+hidden in a container truck. [@1,2,3,4,6] The men identified themselves as Amandeep, 27,
 and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2,3,4,5] The Anti-Narcotic
 Task Force and Saraipali police stopped the suspect container at the Khamharpali
 RTO barrier after a tip that a large ganja consignment was being taken from
-Odisha through Chhattisgarh toward Raipur. [@1,2,3,5] Police registered a case at
+Odisha through Chhattisgarh toward Raipur. [@1,2,3,5,6] Police registered a case at
 Saraipali police station under Section 20(b) of the NDPS Act and sent both
-accused to judicial remand. [@1,2,3,4,5]
+accused to judicial remand. [@1,2,3,4,5,6]
 
 Officers searching the container found 117 packets concealed in four bags among
-about 300 rice bags. [@1,2,3,4,5] The search recovered 120.960 kilograms of ganja, which
-police estimated to be worth Rs 6,048,000. [@1,3,4,5] Police put the ganja's value at
+about 300 rice bags. [@1,2,3,4,5,6] The search recovered 120.960 kilograms of ganja, which
+police estimated to be worth Rs 6,048,000. [@1,3,4,5,6] Police put the ganja's value at
 about Rs 60.48 lakh and said the total seizure together with the container and
 other goods exceeded Rs 1 crore. [@1,3,5] Besides the drug, officers seized the
 container vehicle valued at about Rs 30 lakh and two mobile phones from the
-accused. [@1,3,5]
+accused. [@1,3,5,6]
 
 Police said the seizure was made in Mahasamund district under Operation
 Nishchay. [@1,3,4] Police said investigation into forward and backward links was
 continuing to trace the supply chain, source, destination and financial network.
-[@1,3,5]
+[@1,3,5,6]
 
 The container allegedly used for the smuggling bore registration number WB 19 L 3059. [@4]
