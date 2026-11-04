@@ -321,6 +321,11 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-10-31
     language: hi
+  - title: 'ट्रक में था 8 क्विंटल से ज्यादा नशा: एंटी नारकोटिक्स का ऑपरेशन, अंतरराज्यीय रैकेट बेनकाब: 4.35 करोड़ का गांजा जब्त, दो तस्कर गिरफ्तार'
+    url: https://yashbharat.co.in/truck-had-more-than-8-quintals-of-narcotics-in-it-anti-narcotics-operation-interstate-racket-exposed-ganja-worth-rs-4-35-crore-seized-two-smugglers-arrested/
+    publisher: Yash Bharat
+    date: 2026-11-02
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -413,38 +418,41 @@ open_questions:
   - The page writes the second accused as विक्रम करमाकर while the existing report uses Vikram Karmakar.
   - The page credits its text to Hindustan Samachar / Mukesh Tomar and is therefore a reprint of the agency version, not independent reporting.
   - The page carries one photograph captioned as police giving information about the seizure action, without a credit, so it could not be confirmed to show the seized consignment itself and no media entry is added from it.
+  - The submitted Yash Bharat page gives no separate incident date; 2 November 2026 is its publication date, while the existing report dates the interception to 31 October 2026.
+  - The submitted page spells the toll point मोहतरा and the second accused's surname करमाकर, while the existing report uses Mohtra and Karmakar for the same place and person.
+  - The submitted page carries one image whose caption is only the file name 20261102180841 4CdTBz6J with no credit, so it could not be confirmed to show this seizure and no media entry is added.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
 driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
-Jhansi, Uttar Pradesh. [@1,36,37,41] The two were identified as 45-year-old Dharamveer
+Jhansi, Uttar Pradesh. [@1,36,37,41,49] The two were identified as 45-year-old Dharamveer
 Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
-Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38,41,42,43,46]
+Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38,41,42,43,46,49]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48,49] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31,39,40,47,48] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
-crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40,41,46,47,48] The container had a
+crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40,41,46,47,48,49] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
 noticed the container speeding near the Muskhara turn. [@1,32,38,41,42] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
-plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40,41,42,45,46,47] The driver and the other man tried to flee but were caught, police
+plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40,41,42,45,46,47,49] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19,27,31,33,39,40,41,42,45] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
 the container and reached the spot around the same time, he said. [@2,27]
 
 Police registered a case against the accused under the Narcotic Drugs and
-Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39,40,42,45,46,47,48] Singh allegedly told police that he had
+Psychotropic Substances Act. [@1,3,4,5,9,12,13,15,19,28,29,31,32,33,39,40,42,45,46,47,48,49] Singh allegedly told police that he had
 brought the consignment to Madhya Pradesh at the direction of Prabhat Sahu, a
 resident of Balangir in Odisha. [@1,9,11,12,19,25,26,27,28,35,36,38,41,45,46] The consignment was to be unloaded near a
-Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30,36,41] The 28 sacks were loaded
+Jio petrol pump before reaching Maihar, he said. [@1,16,25,27,30,36,41,49] The 28 sacks were loaded
 into the container at Sahu's location on 27 October. [@1,9,11,25,27,35,38,41] Singh said he was
 promised ₹1 lakh for the trip. [@1,10,27,41] The accused told police they had earlier
 transported cannabis consignments to Madhya Pradesh at Sahu's behest. [@2] They
-were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28,31,33,42] Investigators
+were paid ₹1 lakh for each consignment, according to police. [@2,12,19,28,31,33,42,49] Investigators
 were working to identify other people connected with arranging, transporting and
 delivering the consignment. [@1,3,8,9,12,19,34]
 
@@ -456,7 +464,7 @@ The container's registration number was NL-01-AC-7191, police said. [@9,24,26,27
 
 Police took both arrested men on five-day remand and were questioning them about where the consignment came from, its supply network and its likely buyers. [@10,34]
 
-Dharamveer Singh had been caught in Odisha before, police said. [@14,43,44] The search for Prabhat Sahu, who had fled, was continuing. [@14,44] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14,44] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14,44]
+Dharamveer Singh had been caught in Odisha before, police said. [@14,43,44] The search for Prabhat Sahu, who had fled, was continuing. [@14,44,49] Police said the gang supplied ganja through Jhansi, Lalitpur, Mathura and Aligarh as far as Maihar. [@14,44] Dharamveer also supplied ganja from Odisha to smugglers arrested in Jhansi last month, police said. [@14,44]
 
 Superintendent of Police Sampat Upadhyay said at the police control room that the team had been patrolling on a tip-off from an informer. [@16] Singh described Karmakar as his relative's son. [@16,27] Police also seized the container and the 412 paint tins. [@16,25,37,41]
 
