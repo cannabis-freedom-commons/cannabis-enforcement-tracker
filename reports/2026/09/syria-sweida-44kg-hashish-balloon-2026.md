@@ -64,6 +64,11 @@ sources:
     publisher: صحيفة سبق (Sabq)
     date: 2026-09-07
     language: ar
+  - title: غارات وتهريب وتوترات.. ماذا نعرف عن الشريط الحدودي بين الأردن وسوريا؟
+    url: https://arabi21.com/story/1800102/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%88%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B9%D8%B1%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B7-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7
+    publisher: عربي21
+    date: 2026-11-01
+    language: ar
 open_questions:
   - No arrests, charges or court outcome were reported, and the directorate named no suspects.
   - The announcements gave no value for the 44 kg of hashish or the 218,000 captagon pills, and did not say where in the Sweida countryside the consignment was intercepted or whether the balloons had been launched.
@@ -74,14 +79,14 @@ open_questions:
 ---
 
 Syria's anti-narcotics directorate said it foiled an attempt to smuggle a large
-consignment of drugs from the countryside of Sweida governorate to Jordan. [@2]
-The shipment was to cross the border on guided balloons. [@3] Sabq described the
+consignment of drugs from the countryside of Sweida governorate to Jordan. [@2,4]
+The shipment was to cross the border on guided balloons. [@3,4] Sabq described the
 method as unusual. [@3] The attempt was foiled on 7 September 2026, according to
 data from the Syrian Interior Ministry. [@1]
 
-Officers seized 44 kg of hashish and 218,000 captagon pills. [@3] SANA, the
+Officers seized 44 kg of hashish and 218,000 captagon pills. [@3,4] SANA, the
 state news agency, reported the 44 kg hashish seizure. [@2] It said GPS devices
-were seized with the drugs. [@2] Sabq reported that the devices were used to
+were seized with the drugs. [@2,4] Sabq reported that the devices were used to
 steer and track the shipment during the smuggling attempt. [@3]
 
 The directorate blamed groups it described as outside the law in the
@@ -91,4 +96,3 @@ Sweida governorate lies on Syria's border with Jordan. [@1] The Interior
 Ministry's data record several separate anti-smuggling operations in the
 governorate. [@1] Smugglers there have used aerial methods to move drugs across
 the border alongside traditional land routes. [@1]
-
