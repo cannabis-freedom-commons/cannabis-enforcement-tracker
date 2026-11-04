@@ -35,6 +35,11 @@ sources:
     publisher: Agora Floripa
     date: 2026-11-04
     language: pt
+  - title: Homem é preso com 472 quilos de maconha na Grande Florianópolis
+    url: https://ocp.news/seguranca/homem-e-preso-com-472-quilos-de-maconha-na-grande-florianopolis
+    publisher: OCP News
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The incident date of 3 November 2026 is inferred from terça-feira (3) with publication on 4 November 2026.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet could be opened.
@@ -45,13 +50,13 @@ open_questions:
 
 Santa Catarina Civil Police arrested an 18-year-old in flagrante at a property
 in the Potecas neighbourhood of São José on the afternoon of Tuesday 3 November
-2026. [@1] The young man told police in his statement that he had agreed to keep
-the drug hidden in the property for a few days in exchange for money. [@1,2] After
+2026. [@1,3] The young man told police in his statement that he had agreed to keep
+the drug hidden in the property for a few days in exchange for money. [@1,2,3] After
 processing at the Civil Police station he was sent to the prison system, where
-he remains at the disposal of the courts. [@1,2]
+he remains at the disposal of the courts. [@1,2,3]
 
-Officers seized 472 kilograms of marijuana at the property. [@1,2] The marijuana
-was divided into 568 tablets. [@1,2] During the check of the property officers
+Officers seized 472 kilograms of marijuana at the property. [@1,2,3] The marijuana
+was divided into 568 tablets. [@1,2,3] During the check of the property officers
 noticed the resident's nervousness, contradictory accounts and a strong
 characteristic smell of drugs, and the subsequent search uncovered the marijuana
 load. [@1]
@@ -59,4 +64,4 @@ load. [@1]
 The seizure happened during inquiries by the São José Homicide Division of the
 Division of Criminal Investigation, known as the DIC, which was trying to locate
 a man with outstanding arrest warrants linked to homicide investigations in the
-region. [@1,2] The homicide investigations are continuing. [@1]
+region. [@1,2,3] The homicide investigations are continuing. [@1]
