@@ -33,6 +33,11 @@ sources:
     publisher: Araraquara Agora
     date: 2026-11-03
     language: pt
+  - title: Polícia Federal incinera meia tonelada de maconha apreendida na região de Araraquara
+    url: https://saocarlosnotoque.com/policia-federal-incinera-meia-tonelada-de-maconha-apreendida-na-regiao-de-araraquara/
+    publisher: São Carlos no Toque
+    date: 2026-11-03
+    language: pt
 open_questions:
   - All weights are approximate, reported as about 500 kg and about one tonne.
   - The incident date of 3 November 2026 follows the article's reference to Tuesday (3) and its publication on 03/11/2026.
@@ -40,22 +45,22 @@ open_questions:
   - Only one source reporting this event could be opened; a search for a second report found no accessible result.
   - The article's reference to a June 2025 incineration of more than one tonne of marijuana, cocaine and other drugs is a separate event left out of this report.
   - Unrelated police items listed on the page, including cocaine and crack seizures, are separate events left out of this report.
+  - The page carries an image captioned only as PF, which does not establish that it shows this incineration, so no media entry is included.
 ---
 
 Brazil's Federal Police incinerated about 500 kilograms of marijuana in the
-Araraquara region on Tuesday 3 November 2026. [@1] The marijuana had been seized
+Araraquara region on Tuesday 3 November 2026. [@1,2] The marijuana had been seized
 in recent flagrantes, arrests made while offences were under way, in the
 Araraquara region. [@1] The operation was carried out by the Federal Police
-station in Araraquara. [@1] It was the station's second drug incineration in
+station in Araraquara. [@1,2] It was the station's second drug incineration in
 2026, and the two destructions together bring the amount destroyed this year to
-about one tonne. [@1]
+about one tonne. [@1,2]
 
 Officers carried the drugs in sacks to the incineration site. [@1] The Federal
 Police said the destruction forms part of its measures to combat drug
-trafficking. [@1]
+trafficking. [@1,2]
 
 Under Brazil's Drug Law, destruction depends on court authorisation, with a
 sample of the drugs kept as evidence for the proceedings. [@1] The burning is
 carried out by the responsible police chief in the presence of the Public
 Prosecutor's Office and the health authority. [@1]
-
