@@ -81,6 +81,11 @@ sources:
     publisher: Agenzia giornalistica Opinione
     date: 2026-11-03
     language: it
+  - title: 'Ventimiglia, maxi sequestro di droga al confine: intercettati 30 chili di marijuana'
+    url: https://www.italiareportusa.com/ultimissime/ventimiglia-maxi-sequestro-di-droga-al-confine-intercettati-30-chili-di-marijuana/
+    publisher: Italia Report USA
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
@@ -96,21 +101,22 @@ open_questions:
   - The page carries a lead photo captioned Fermato a Ventimiglia mentre rientra dalla Spagna con 30 kg di marijuana, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The page carries an image from a June 2024 upload with no caption or credit establishing that it shows this 27 October 2026 seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Agenzia giornalistica Opinione: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
+  - The page carries a photo captioned only finanza with no credit or detail establishing that it shows this seizure, so no media entry is added.
 ---
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
 stopped a car driven by an Italian man at the motorway border crossing entering
-Italy. [@1,3,4,6,7,8,10,11] The officers arrested the Italian driver for international
-trafficking in narcotic substances. [@2,3,6,7,8,11] The Imperia prosecutor's office assumed
-direction of the investigation. [@1,3,6,11] The man remains presumed innocent until any
-final sentence. [@2]
+Italy. [@1,3,4,6,7,8,10,11,12] The officers arrested the Italian driver for international
+trafficking in narcotic substances. [@2,3,6,7,8,11,12] The Imperia prosecutor's office assumed
+direction of the investigation. [@1,3,6,11,12] The man remains presumed innocent until any
+final sentence. [@2,12]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
-bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8,9] Officers also seized 2,700 euros
+bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8,9,12] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1,3,5,6,7,8,9,10,11]
+and the car used for transport. [@1,3,5,6,7,8,9,10,11,12]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
-and gave contradictory, evasive accounts of a trip to Spain. [@1,3,7,10] The Guardia di
+and gave contradictory, evasive accounts of a trip to Spain. [@1,3,7,10,12] The Guardia di
 Finanza of Imperia conducted the operation as part of border controls against
-cross-border illicit trafficking. [@2]
+cross-border illicit trafficking. [@2,12]
