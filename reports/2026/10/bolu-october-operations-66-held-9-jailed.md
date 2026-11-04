@@ -25,6 +25,16 @@ sources:
     publisher: TV Bolu
     date: 2026-11-02
     language: tr
+  - title: Bolu'da dev operasyon! 1052 şüpheliden 82'si tutuklandı
+    url: https://www.safakgazete.com/boluda-dev-operasyon-1052-supheliden-82si-tutuklandi
+    publisher: Şafak Gazetesi
+    date: 2026-11-02
+    language: tr
+  - title: 'Bolu’da ekim ayında bin 52 şüpheli gözaltına alındı: 82 tutuklama'
+    url: https://www.iha.com.tr/bolu-haberleri/boluda-ekim-ayinda-bin-52-supheli-gozaltina-alindi-82-tutuklama-509911059
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The report covers 1-31 October 2026 as a published monthly total; 31 October 2026 is used as the incident date and 2 November 2026 is only the publication date.
   - The 4 grams of cannabis seeds are reported but excluded from the 0.07 kg cannabis figure, which counts only the 64 grams of esrar and 6 grams of skunk.
@@ -33,25 +43,26 @@ open_questions:
   - No names, charges or later court outcomes beyond the nine remands were reported.
   - Only one accessible source for this event was found; no second outlet or agency statement could be opened.
   - The page carries two images, but their captions do not establish that they show this seizure, so no media entry is included.
+  - The Safak Gazetesi page credits IHA as its source, so the two corroborating accounts are not fully independent of each other.
+  - The new accounts also report province-wide October totals of 1,052 suspects and 82 remands across narcotics, public-order, wanted-person, smuggling and migration work, which remain outside this narcotics-component report.
 ---
 
 Provincial police and gendarmerie teams carried out 34 separate operations
-across Bolu from 1 to 31 October 2026. [@1] Officers took judicial action
-against a total of 66 suspects during the month-long effort. [@1] Nine suspects
+across Bolu from 1 to 31 October 2026. [@1,2] Officers took judicial action
+against a total of 66 suspects during the month-long effort. [@1,2] Nine suspects
 transferred to the judicial authorities were remanded and sent to prison, a
-measure known in Turkey as tutuklama. [@1]
+measure known in Turkey as tutuklama. [@1,3]
 
 Searches seized 299 cannabis plants, described as kök kenevir bitkisi, and 4
-grams of cannabis seeds. [@1] The searches also seized 64 grams of esrar and 6
-grams of skunk, both cannabis products recorded here as 70 grams in total. [@1]
+grams of cannabis seeds. [@1,3] The searches also seized 64 grams of esrar and 6
+grams of skunk, both cannabis products recorded here as 70 grams in total. [@1,2]
 The same searches seized 944 grams of heroin, 50 grams of methamphetamine and 32
-grams of cocaine, which are not counted as cannabis here. [@1] Officers also
+grams of cocaine, which are not counted as cannabis here. [@1,2] Officers also
 found 172 grams of bonzai, 13 bonzai-soaked materials, 5 millilitres of bonzai
 raw material, 82 captagon tablets, 56 synthetic pharmacy items and 4 drug-use
-implements, which are not counted as cannabis here. [@1]
+implements, which are not counted as cannabis here. [@1,3]
 
 The Bolu Governorship published the monthly balance, saying provincial police
 and gendarmerie worked through October to reduce and prevent drug offences and
 catch offenders. [@1] The governorship said anti-drug efforts by police and
 gendarmerie units would continue with determination. [@1]
-
