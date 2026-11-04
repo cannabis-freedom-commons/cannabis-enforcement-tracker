@@ -34,6 +34,11 @@ sources:
     publisher: SeneNews
     date: 2026-11-04
     language: fr
+  - title: Une forte odeur trahit un colis de haschisch caché dans des chaussures sur la liaison Casablanca-Dakar, deux personnes arrêtées
+    url: https://www.dakaractu.com/Une-forte-odeur-trahit-un-colis-de-haschisch-cache-dans-des-chaussures-sur-la-liaison-Casablanca-Dakar-deux-personnes_a277799.html
+    publisher: Dakaractu
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No weight for the hashish was published, only counts of eight pellets, 32 balls and one additional ball, so no kilogram figure can be recorded.
   - The two packs of Alprazolam are a non-cannabis substance and are excluded from cannabis figures.
@@ -53,7 +58,7 @@ sales agent and was detained at Soprim Extension. [@1] A second outlet fully
 names her as Rokhaya Kane and says she was intercepted the same day. [@2]
 Questioned about the seized goods, Kane acknowledged acting as an intermediary
 and gave investigators the identity of the consignment's final recipient, who
-was still being actively sought. [@1]
+was still being actively sought. [@1,3]
 
 Officers found eight pellets of hashish, made up of 32 balls, carefully hidden
 in the soles of shoes carried in a parcel. [@1] A search of Mbacké's home
@@ -62,7 +67,6 @@ which is not counted as cannabis. [@1]
 
 On 31 October a Senegalese GP, a parcel courier shuttling between the two
 cities, alerted police after noticing a strong suspect smell coming from shoes
-inside a parcel. [@1] The drugs were first handed to the Moroccan police. [@1]
+inside a parcel. [@1] The drugs were first handed to the Moroccan police. [@1,3]
 Ocrtis then set up a controlled delivery with the goods substituted in order to
-identify the people involved in the circuit. [@1]
-
+identify the people involved in the circuit. [@1,3]
