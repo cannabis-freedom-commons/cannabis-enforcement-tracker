@@ -35,32 +35,38 @@ sources:
     publisher: Policja Mazowiecka
     date: 2026-11-04
     language: pl
+  - title: 'Pilawa: Zatrzymany do kontroli. To, co znaleźli policjanci, było początkiem'
+    url: https://informacje.wp.pl/wiadomosci/kierowca-zatrzymany-do-kontroli-to-co-znalezli-policjanci-bylo-dopiero-poczatkiem-7347371522005472a
+    publisher: TuStolica.pl
+    date: 2026-11-04
+    language: pl
 open_questions:
   - No separate cannabis-only weight or portion count was published; the nearly 100-portion total mixes marijuana, amphetamine and mephedrone, so no kilograms are recorded.
   - No separate cannabis-only valuation was published.
   - The exact street or address of the roadside stop and of the searched residence was not given beyond Pilawa municipality and Garwolin county.
   - No custody ruling, trial date or court outcome beyond the possession charges was reported.
   - Amphetamine and mephedrone amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
+  - The submitted account gives 4 November 2026 as its publication date; the event date of Friday 30 October at around 17:00 is taken from the existing report and the police account it republishes.
+  - The submitted page reuses a police-credited image already represented in the existing report's media, and its second image has no caption establishing this event, so no new media entry is added.
 ---
 
 On Friday 30 October 2026 at around 17:00, officers from the Pilawa police post
 stopped an Opel in Pilawa municipality after seeing it travel after dark without
-its lights on. [@2] The driver was a 44-year-old resident of Garwolin county.
+its lights on. [@2,3] The driver was a 44-year-old resident of Garwolin county.
 [@1] A breath or other test showed he was in a state after alcohol use and
 checks showed he had no driving licence. [@1]
 
-During a personal check of the driver, officers found marijuana. [@1] A search
+During a personal check of the driver, officers found marijuana. [@1,3] A search
 of the car found drugs hidden in specially prepared concealment compartments,
 including further portions of marijuana and the psychotropic substance
-amphetamine. [@1] The 41-year-old passenger also had marijuana on him. [@1]
+amphetamine. [@1] The 41-year-old passenger also had marijuana on him. [@1,3]
 During a later search of the 44-year-old driver's residence, officers found
 further hidden narcotic drugs and psychotropic substances, including dozens of
 portions of mephedrone kept in the flat. [@1] In total police seized nearly 100
 portions of various drugs, described as including marijuana, amphetamine and
 mephedrone, without giving a separate cannabis-only weight. [@1]
 
-Both men were placed in a police cell. [@1] After evidence was gathered, both
+Both men were placed in a police cell. [@1,3] After evidence was gathered, both
 the driver and the passenger heard charges of drug possession, while the
 44-year-old will additionally answer for driving in a state after alcohol use
-and for driving without the required licence. [@1]
-
+and for driving without the required licence. [@1,3]
