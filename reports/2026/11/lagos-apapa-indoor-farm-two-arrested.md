@@ -164,6 +164,10 @@ sources:
     url: https://ng.headtopics.com/news/lagos-police-raid-apapa-cannabis-farm-linked-to-trafficked-89492058
     publisher: Head Topics
     date: 2026-11-03
+  - title: Police uncover high-tech cannabis farm in Apapa, arrest two suspects
+    url: https://thenationonlineng.net/police-uncover-high-tech-cannabis-farm-in-apapa-arrest-two-suspects-2/
+    publisher: The Nation Newspaper
+    date: 2026-11-04
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -210,27 +214,28 @@ open_questions:
   - The page's image carries no caption or alt text establishing that it shows this farm, the suspects or the raid, and its file path dates to July 2026, so no media entry is included.
   - The submitted page carries three images captioned around Lagos police, Tijani Fatai, Apapa and the two arrests, whose captions do not establish that they show this farm, the suspects or the raid, so no media entry is added.
   - The submitted page is an AI-compiled aggregation of Channel TV, MobilePunch and Guardian Nigeria accounts rather than original reporting, so its manager-interview wording relies on those underlying accounts.
+  - The submitted account dates publication to 4 November 2026 and says the arrests were on Monday; the 2 November incident date relies on that Monday reference and earlier sources.
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31,32] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
-credible intelligence. [@1,7,9,10,11,14,17,18,26,27,28,29,30,31] The Lagos State Police Command announced the
+credible intelligence. [@1,7,9,10,11,14,17,18,26,27,28,29,30,31,32] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
 intelligence-led operation the previous morning. [@1,12]
 
 Police said the facility was equipped for the cultivation, harvesting and
-processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31] Police had not disclosed
+processing of substances suspected to be cannabis. [@1,5,6,7,8,9,10,11,12,13,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32] Police had not disclosed
 the quantity of suspected cannabis recovered, the estimated value of the
 facility or how long it had operated. [@1,16] The suspects are in police custody,
 have made confessional statements and are providing information to aid the
-investigation. [@2,5,6,7,8,9,10,11,12,15,17,18,20,21,22,25,26,27,28,29,30,31] The Command had not announced formal charges against the
+investigation. [@2,5,6,7,8,9,10,11,12,15,17,18,20,21,22,25,26,27,28,29,30,31,32] The Command had not announced formal charges against the
 suspects. [@1]
 
 Commissioner of Police Tijani Fatai visited the scene to inspect the indoor
-farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18,19,20,21,22,26,27,28,29,30,31]
+farm, assess the operation and receive a briefing on the investigation. [@2,5,6,7,8,12,13,16,17,18,19,20,21,22,26,27,28,29,30,31,32]
 Investigators were expected to examine the facility’s establishment and
 operation, including any possible links to wider drug production or distribution
 networks. [@1]
@@ -245,6 +250,6 @@ Police said efforts were continuing to determine the scale of the operation, the
 
 The property manager acknowledged knowing the activity was not approved by the government and said the operation came to light when an attempt was made to sell the cannabis. [@24]
 
-Tijani Fatai commended the operatives for vigilance and intelligence-led policing and restated the Command's commitment to combating drug-related offences and dismantling criminal networks. [@27,29]
+Tijani Fatai commended the operatives for vigilance and intelligence-led policing and restated the Command's commitment to combating drug-related offences and dismantling criminal networks. [@27,29,32]
 
 Chisome said he acted to help a stranded foreigner whose sponsoring company had abandoned him in Nigeria. [@31] Chisome said he offered help with any need, and the foreigner then proposed the cannabis-cultivation idea. [@31]
