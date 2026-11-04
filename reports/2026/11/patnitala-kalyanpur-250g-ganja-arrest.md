@@ -46,6 +46,11 @@ sources:
     publisher: Daily Sokaler Somoy
     date: 2026-11-03
     language: bn
+  - title: পত্নীতলায় ২৫০ গ্রাম গাঁজাসহ নারী মাদক কারবারি গ্রেপ্তার
+    url: https://www.dailysokalersomoy.com/news/169008
+    publisher: Daily Sokaler Somoy
+    date: 2026-11-03
+    language: bn
 open_questions:
   - The specific section of the Narcotics Control Act was not stated.
   - No court outcome beyond the police case filing was reported.
@@ -54,21 +59,21 @@ open_questions:
 ---
 
 Patnitala police arrested 48-year-old Rimu after finding 250 grams of dried
-cannabis in her possession in Naogaon's Patnitala area. [@1,4] The arrest took
+cannabis in her possession in Naogaon's Patnitala area. [@1,4,5] The arrest took
 place on the evening of Monday 2 November in front of her house in Kalyanpur
-village in Patnitala Union. [@1,4] The arrested woman was identified as the
+village in Patnitala Union. [@1,4,5] The arrested woman was identified as the
 daughter of Ejabul and the wife of Azedul, both linked to Kalyanpur village.
 [@1]
 
 Officers searched a pink shopping bag in her right hand and recovered and seized
-the 250 grams of dried cannabis. [@1,4] Female sub-inspector Lipi Rani assisted in
-the search and seizure operation. [@1,4] Police said the operation was part of
+the 250 grams of dried cannabis. [@1,4,5] Female sub-inspector Lipi Rani assisted in
+the search and seizure operation. [@1,4,5] Police said the operation was part of
 Patnitala thana police's anti-drug drive under the superintendent of police's
 direction. [@1] One account describes her as Mosammat Rimu and says she was
 detained while selling cannabis in front of her house. [@2]
 
 Police filed a case against her at Patnitala Police Station under the Narcotics
-Control Act. [@1] Patnitala station chief Niamul Haque confirmed that a
+Control Act. [@1,5] Patnitala station chief Niamul Haque confirmed that a
 narcotics case had been filed against the arrested woman. [@3,4]
 
-She was detained while trying to flee after noticing the police presence. [@4]
+She was detained while trying to flee after noticing the police presence. [@4,5]
