@@ -33,24 +33,31 @@ sources:
     publisher: Virgule
     date: 2026-05-27
     language: fr
+  - title: 'During check: 58 kilograms of cannabis seized at Findel Cargo Center'
+    url: https://today.rtl.lu/news/luxembourg/58-kilograms-of-cannabis-seized-at-findel-cargo-center-1796319473
+    publisher: RTL Today
+    date: 2026-05-27
 open_questions:
   - The article gives no separate date for the seizure itself; 27 May 2026 is the disclosure and publication date used as the incident date.
   - No arrest, suspect, charge, value or court outcome was reported.
   - The 235 kg figure is the total weight of the inspected benches, not cannabis; figures record only the 58 kg of marijuana.
   - Only one accessible source for this event was found after searching for a second report or prosecutor statement.
+  - The RTL article says the seizure was announced on Tuesday, while the existing report records the disclosure on Wednesday 27 May 2026, the RTL publication date.
+  - The RTL article says nearly 58 kilograms of cannabis, while the existing report records 58 kg of marijuana; the quantity matches as an approximate figure under different substance terms.
+  - The RTL photo credits the Customs and Excise Agency and appears to republish the same vehicle-seat handout already listed from Virgule, so no new media entry is added.
 ---
 
 Customs officers at Luxembourg Airport's Findel Cargo Center intercepted a
-shipment of marijuana. [@1] The Luxembourg prosecutor disclosed the seizure on
+shipment of marijuana. [@1,2] The Luxembourg prosecutor disclosed the seizure on
 Wednesday 27 May, saying the Cargo Center had been the scene of a new drug
 seizure. [@1] Officers had flagged a suspicious cargo arriving from Singapore
-and bound for onward transport to Milan. [@1]
+and bound for onward transport to Milan. [@1,2]
 
 Officers carried out an in-depth check of the transported vehicles and inspected
-several rear benches. [@1] The inspected rear benches weighed 235 kg in total.
-[@1] Technical analyses and the opening of the checked parts revealed narcotics
-carefully hidden inside the benches. [@1] The total seizure amounted to 58 kg of
-marijuana. [@1]
+several rear benches. [@1,2] The inspected rear benches weighed 235 kg in total.
+[@1,2] Technical analyses and the opening of the checked parts revealed narcotics
+carefully hidden inside the benches. [@1,2] The total seizure amounted to 58 kg of
+marijuana. [@1,2]
 
 The prosecutor said the criminal networks involved use increasingly
 sophisticated concealment to evade checks and feed particularly lucrative
@@ -61,3 +68,4 @@ drug trafficking feeds parallel networks of illicit profit, money laundering and
 other organised crime that can seriously harm public safety and the economic
 order, and that investigations are continuing after the Findel seizure. [@1]
 
+Customs officers identified the suspicious shipment through risk analysis and inspection duties. [@2] The Public Prosecutor's Office is continuing investigations to identify the individuals and criminal networks involved. [@2]
