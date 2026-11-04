@@ -100,6 +100,11 @@ sources:
     publisher: Today Press
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: 16χρονος παρέλαβε με κούριερ 7,4 κιλά κάνναβης – Τα ξετρύπωσε ο αστυνομικός σκύλος «VEKTOR»'
+    url: https://www.typosthes.gr/thessaloniki/447545_thessaloniki-16hronos-parelabe-me-koyrier-74-kila-kannabis-ta-xetrypose-o
+    publisher: TyposThes
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -126,24 +131,26 @@ open_questions:
   - This account does not mention the anti-drug coordination body's role in assigning the case, so that part of the existing account is not corroborated here.
   - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
   - The Todaypress page images show an unrelated arson-arrest illustration, a newspaper front page and an advertisement, so none is established to show this cannabis seizure and no media entry is included.
+  - The headline rounds the total to 7.4 kg while the body and police detail give 7 kg and 490 grams retained in the existing report.
+  - The page lists one image captioned only as Demata kannabi with no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16] He is accused of violating drugs and
 foreigners legislation. [@1,3,8,14] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12,13,14,15] Police said the boy had previously faced similar offences and will be taken
+[@2,4,5,6,7,8,9,12,13,14,15,16] Police said the boy had previously faced similar offences and will be taken
 to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15] They also seized two mobile phones. [@1,5,9,10,11,12,14,15]
+addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1,14] Police in Thessaloniki made the arrest on Tuesday, 3
-November 2026. [@2,3,6,7,10,13,14]
+November 2026. [@2,3,6,7,10,13,14,16]
 
 The controlled-delivery parcel came from the United States. [@11] The arrested boy is Albanian. [@11] The boy's father is also in prison for drug trafficking. [@11]
