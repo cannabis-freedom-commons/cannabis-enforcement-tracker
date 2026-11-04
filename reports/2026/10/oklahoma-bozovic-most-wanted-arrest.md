@@ -53,6 +53,10 @@ sources:
     url: https://kfor.com/video/marijuana-trafficking-suspect-on-oklahoma%E2%80%99s-10-most-wanted-list-arrested-in-illinois/12319252/
     publisher: KFOR.com Oklahoma City
     date: 2026-10-29
+  - title: Man arrested after 2 days on AG Drummond's Most Wanted List
+    url: https://fox23.com/news/local/man-arrested-after-2-days-on-ag-drummonds-most-wanted-list
+    publisher: FOX23
+    date: 2026-10-29
 open_questions:
   - No cannabis was reported seized when Bozovic was arrested; the 25 pounds is the quantity alleged in the 2024 charges and is not counted as a seizure.
   - The reports give no court date in Ottawa County and do not say whether Bozovic will contest being returned to Oklahoma.
@@ -66,22 +70,22 @@ open_questions:
 ---
 
 Mihailo Bozovic, 45, was arrested on Tuesday 27 October 2026 in Countryside,
-Illinois, a suburb of Chicago. [@2,4,6] He had been added to Attorney General
-Gentner Drummond's 10 Most Wanted list two days before. [@3] An agent with the
+Illinois, a suburb of Chicago. [@2,4,6,7] He had been added to Attorney General
+Gentner Drummond's 10 Most Wanted list two days before. [@3,7] An agent with the
 Oklahoma Attorney General's Office found that Bozovic was likely living in
-Countryside. [@1] The agent worked with the Countryside Police Department, which
-arrested him at a traffic stop. [@1] Drummond said Bozovic would be returned to
-Oklahoma to answer the charges. [@1,5]
+Countryside. [@1,7] The agent worked with the Countryside Police Department, which
+arrested him at a traffic stop. [@1,7] Drummond said Bozovic would be returned to
+Oklahoma to answer the charges. [@1,5,7]
 
 He faces charges in Ottawa County, Oklahoma, of manufacture of a controlled
 dangerous substance, possession of material with intent to manufacture, unlawful
 possession of a controlled drug with intent to distribute, and trafficking in
-illegal drugs. [@3] He is accused of manufacturing, possessing and trafficking
-25 pounds or more of marijuana, about 11.3 kg, in June and July 2024. [@1]
+illegal drugs. [@3,7] He is accused of manufacturing, possessing and trafficking
+25 pounds or more of marijuana, about 11.3 kg, in June and July 2024. [@1,7]
 Drummond said trafficking drugs in these quantities “fuels addiction and crime
 in Oklahoma communities”. [@1] He said Bozovic had evaded the law for more than
 two years. [@1]
 
 The 10 Most Wanted list offers rewards of up to $3,000 for information leading
 to a fugitive's arrest. [@2] The attorney general's office said 18 fugitives
-have been caught through the list since it launched in 2024. [@3,5]
+have been caught through the list since it launched in 2024. [@3,5,7]
