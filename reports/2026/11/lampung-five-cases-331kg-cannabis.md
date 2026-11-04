@@ -29,6 +29,11 @@ sources:
     publisher: Bongkar Post
     date: 2026-11-04
     language: id
+  - title: Polda Lampung Ungkap 5 Kasus Narkoba Selama Sebulan, Sita Sabu 61,9 Kg hingga Ganja 33 Kg Senilai Rp125 Miliar
+    url: https://kupastuntas.co/2026/11/04/polda-lampung-ungkap-5-kasus-narkoba-selama-sebulan-sita-sabu-619-kg-hingga-ganja-33-kg-senilai-rp125-miliar
+    publisher: Kupastuntas.co
+    date: 2026-11-04
+    language: id
 open_questions:
   - The articles give only October 2026 for the five seizures; 2026-11-04 is the 4 November press-conference and publication date used as the incident date.
   - No breakdown is given of suspects, cannabis weight or locations for each of the five cases, and no suspect names are published.
@@ -36,22 +41,28 @@ open_questions:
   - Methamphetamine, ecstasy and etomidate quantities are left out of figures under the cannabis-only scope.
   - The submitted page carries an image without a caption or credit establishing that it shows this seizure, so no media entry is included.
   - No case-by-case seizure places are published beyond the joint Polda Lampung and South Lampung operation and the Medan-Bandung route via Bakauheni.
+media:
+  - kind: photo
+    url: https://kupastuntas.co/2026/11/04/polda-lampung-ungkap-5-kasus-narkoba-selama-sebulan-sita-sabu-619-kg-hingga-ganja-33-kg-senilai-rp125-miliar
+    media_url: https://kupastuntas.co/uploads/posts/polda-lampung-ungkap-5-kasus-narkoba-selama-sebula_20261104195742.jpg
+    publisher: Kupastuntas.co
+    caption: 'Kapolda Lampung Brig. Gen. Yustan Alpiani leading the drug-case press conference at Mapolda Lampung on 4 November 2026. Photo: Erik/Kupastuntas.co'
 ---
 
 Lampung police broke up five highlighted narcotics cases during October 2026.
-[@1] Officers detained 10 suspects in those cases. [@1] A second outlet confirms
+[@1,3] Officers detained 10 suspects in those cases. [@1,3] A second outlet confirms
 the same October operation involved 10 suspects and the same drug totals. [@2]
 Provincial police chief Brig. Gen. Yustan Alpiani announced the results at a
-press conference at Lampung police headquarters on 4 November 2026. [@1] The
+press conference at Lampung police headquarters on 4 November 2026. [@1,3] The
 suspects were charged under heavy narcotics provisions, including Article 114
 paragraph (2) of Law No. 35 of 2009 on Narcotics in conjunction with the new
 Criminal Code and penalty-adjustment laws. [@1]
 
 The cannabis component of the seizure was 33.1 kilograms of ganja, reported
 alongside 61.9 kilograms of methamphetamine, 19,696 ecstasy pills and 2,143
-etomidate pills. [@1] Police put the total economic value of all seized evidence
-at Rp125,123,200,000, or more than Rp125 billion. [@1] Yustan claimed the seized
-narcotics could save about 429,683 people from potential drug abuse. [@1]
+etomidate pills. [@1,3] Police put the total economic value of all seized evidence
+at Rp125,123,200,000, or more than Rp125 billion. [@1,3] Yustan claimed the seized
+narcotics could save about 429,683 people from potential drug abuse. [@1,3]
 
 Investigators said the network moved narcotics from Medan, North Sumatra, to
 Bandung, West Java, through Bakauheni Port in South Lampung. [@1] Police
@@ -60,4 +71,3 @@ making surveillance of the crossing crucial to narrowing the inter-island
 syndicate's room to move. [@1] Yustan said police would act firmly without
 discrimination against perpetrators from local or international networks and
 would give no space for Lampung to be used as a distribution route. [@1]
-
