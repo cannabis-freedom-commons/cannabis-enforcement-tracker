@@ -24,6 +24,11 @@ sources:
     publisher: Viterbo News 24
     date: 2026-11-03
     language: it
+  - title: 'Smantellato bivacco della droga: due arresti e sequestro di cocaina, eroina e hashish'
+    url: https://www.lafune.eu/smantellato-bivacco-della-droga-due-arresti-e-sequestro-di-cocaina-eroina-e-hashish/
+    publisher: La Fune | news da Viterbo
+    date: 2026-11-03
+    language: it
 open_questions:
   - The names and ages of the two arrested men were not published.
   - The amount of cash seized was described only as proceeds without a figure, so no value is recorded.
@@ -31,6 +36,7 @@ open_questions:
   - No court outcome beyond transfer to Viterbo prison was reported.
   - Only one accessible source for this event was found after searching in Italian.
   - The page carries a photo without a caption establishing what it depicts, so no media entry is included.
+  - The page's images carry only generic captions such as carabinieri 2 and a photo filename, without establishing that they show this seizure, so no media entry is included.
 ---
 
 Carabinieri of the Tuscania Company concluded an anti-drug operation in the
@@ -38,17 +44,16 @@ woods of Upper Tuscia, uncovering an illegal activity operating in the territory
 of Valentano. [@1] The intervention was carried out on the morning of 30 October
 by officers of the Valentano station with support from the Operations and Mobile
 Radio Unit of the Tuscania Company. [@1] Officers arrested in the act two North
-African citizens surprised at an improvised bivouac hidden in the scrub. [@1]
+African citizens surprised at an improvised bivouac hidden in the scrub. [@1,2]
 After the required formalities the two arrested men were taken to Viterbo prison
-at the disposal of the judicial authority. [@1] They will answer on various
+at the disposal of the judicial authority. [@1,2] They will answer on various
 counts for detention and dealing of drugs, abusive occupation of land and
-abusive carrying of weapons. [@1]
+abusive carrying of weapons. [@1,2]
 
 The immediate search found and seized 81 grams of hashish, the cannabis
 component recorded here, together with 44 grams of cocaine and 22 grams of
-heroin. [@1] Officers also seized material for weighing and packaging doses,
-cash believed to be dealing proceeds and three fixed-blade knives. [@1] The
-bivouac was dismantled and the illegally occupied area was cleared. [@1] The
+heroin. [@1,2] Officers also seized material for weighing and packaging doses,
+cash believed to be dealing proceeds and three fixed-blade knives. [@1,2] The
+bivouac was dismantled and the illegally occupied area was cleared. [@1,2] The
 operation was part of an ongoing Carabinieri effort against dealing in wooded
 areas across the provincial territory. [@1]
-
