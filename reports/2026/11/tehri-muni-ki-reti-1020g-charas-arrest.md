@@ -33,6 +33,16 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-03
     language: hi
+  - title: 'टिहरी पुलिस की बड़ी कार्रवाई: भारी मात्रा में चरस के साथ हिमाचल प्रदेश का युवक गिरफ्तार, स्कूटी भी जब्त'
+    url: https://www.amarujala.com/uttarakhand/tehri/tehri-police-arrested-youth-from-himachal-pradesh-with-large-quantity-of-charas-2026-11-03
+    publisher: Amar Ujala
+    date: 2026-11-03
+    language: hi
+  - title: टिहरी पुलिस की बड़ी कार्रवाई, 1.020 किलो चरस के साथ हिमाचल निवासी युवक गिरफ्तार
+    url: https://www.thehindipioneer.com/major-action-by-tehri-police-man-from-himachal-pradesh-arrested-with-1-020-kg-of-charas-cannabis.html
+    publisher: The Hindi Pioneer
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The video-page text gives only its publication date of 3 November 2026 and no separate day for the checking and arrest, so 3 November 2026 is used as the incident date.
   - The arrested youth was not named and no age, address beyond Himachal Pradesh, FIR number, NDPS sections, or court outcome was published.
@@ -40,18 +50,19 @@ open_questions:
   - The Rs 2.5 lakh figure is the police estimate for the seized charas, with no independent valuation or weighing account published.
   - The page carries a video poster captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
   - The Bhaskar page image carries no caption or credit establishing that it shows this seizure, so no media entry is added.
+  - The submitted page carries a photo captioned only as the arrested youth, which does not by itself establish that it shows the seized charas, so no media entry is added.
 ---
 
 In the Muni Ki Reti area of Tehri in Uttarakhand, Tehri police arrested a young
 resident of Himachal Pradesh after allegedly recovering illegal charas, a
-cannabis resin, from his possession. [@1,2] The arrest was made during a major
+cannabis resin, from his possession. [@1,2,3] The arrest was made during a major
 enforcement action carried out on the directions of Senior Superintendent of
-Police Shweta Choube. [@1]
+Police Shweta Choube. [@1,4]
 
 Officers seized 1.020 kilograms of illegal charas from the youth during the Muni
-Ki Reti operation. [@1,2] Police gave the estimated value of the recovered charas
-as about Rs 2.5 lakh. [@1,2] Police also seized the scooty allegedly used to carry
-and smuggle the charas consignment. [@1,2] The 1.020-kilogram figure is the police
+Ki Reti operation. [@1,2,3] Police gave the estimated value of the recovered charas
+as about Rs 2.5 lakh. [@1,2,4] Police also seized the scooty allegedly used to carry
+and smuggle the charas consignment. [@1,2,3] The 1.020-kilogram figure is the police
 count for this single Muni Ki Reti seizure involving one arrested youth. [@1]
 
 Police described the operation as part of Tehri police's continuing campaign to
@@ -60,3 +71,5 @@ locality is the precise place named for the seizure within Tehri police's
 jurisdiction in Uttarakhand. [@1]
 
 The arrest took place at Tapovan barrier. [@2] Munikireti police carried out the operation jointly with an ANTF team. [@2] The arrested youth was identified as Abhishek from Himachal Pradesh. [@2]
+
+The arrested youth was identified as 23-year-old Abhishek, son of Purushottam Lal, of village Buddhi in Kullu district, Himachal Pradesh. [@3] Officers stopped scooty number UK14TB0588 at the Tapovan barrier during a joint vehicle check by Muni Ki Reti police and the Anti-Narcotics Task Force. [@4] Police registered a case under sections 8/20/60 of the NDPS Act at Muni Ki Reti police station and said the accused was being produced before the court. [@3] During questioning the accused said he had bought the charas from a Shimla resident named Gulshan. [@3] The joint checking team included Sub-Inspectors Praveen Rawat and Ashish Sharma with head constable Vijay Pratap and constables Pankaj Tomar, Ravindra and Nazakat. [@4]
