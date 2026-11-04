@@ -57,6 +57,11 @@ sources:
     publisher: Navabharat News
     date: 2026-11-04
     language: hi
+  - title: ऑपरेशन निश्चय के तहत सरायपाली पुलिस की बड़ी सफलता, 2 गांजा तस्कर गिरफ्तार
+    url: https://jantaserishta.com/amp/local/chhattisgarh/major-success-for-saraipali-police-under-operation-nishchay-2-cannabis-smugglers-arrested-4916332
+    publisher: Janta Se Rishta
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate date for the interception; 3 November 2026 is its dateline and publication timestamp and is used as the incident date.
   - Only one accessible source for this event was opened after searching; no second account could be added.
@@ -71,6 +76,8 @@ open_questions:
   - The page image is captioned only that police arrested the accused, with no credit establishing that it shows this seizure, so no media entry is listed.
   - This account was published on 4 November 2026 and gives 2 November as the date of the tip with no separate interception date, so the existing incident date of 3 November 2026 is retained.
   - The page image is captioned only with the headline text and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - This account says the consignment was being taken toward north India, while the existing report says toward Raipur, so the destination wording differs.
+  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
 media:
   - kind: photo
     url: https://www.haribhoomi.com/state-local/chhattishgarh/news/mahasamund-ganja-smuggling-operation-nishchay-drug-trafficking-ndps-act-120580
@@ -80,27 +87,27 @@ media:
 ---
 
 Mahasamund police arrested two alleged smugglers from Uttar Pradesh with ganja
-hidden in a container truck. [@1,2,3,4,6,7] The men identified themselves as Amandeep, 27,
-and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2,3,4,5,7] The Anti-Narcotic
+hidden in a container truck. [@1,2,3,4,6,7,8] The men identified themselves as Amandeep, 27,
+and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2,3,4,5,7,8] The Anti-Narcotic
 Task Force and Saraipali police stopped the suspect container at the Khamharpali
 RTO barrier after a tip that a large ganja consignment was being taken from
-Odisha through Chhattisgarh toward Raipur. [@1,2,3,5,6,7] Police registered a case at
+Odisha through Chhattisgarh toward Raipur. [@1,2,3,5,6,7,8] Police registered a case at
 Saraipali police station under Section 20(b) of the NDPS Act and sent both
-accused to judicial remand. [@1,2,3,4,5,6]
+accused to judicial remand. [@1,2,3,4,5,6,8]
 
 Officers searching the container found 117 packets concealed in four bags among
-about 300 rice bags. [@1,2,3,4,5,6] The search recovered 120.960 kilograms of ganja, which
-police estimated to be worth Rs 6,048,000. [@1,3,4,5,6,7] Police put the ganja's value at
+about 300 rice bags. [@1,2,3,4,5,6,8] The search recovered 120.960 kilograms of ganja, which
+police estimated to be worth Rs 6,048,000. [@1,3,4,5,6,7,8] Police put the ganja's value at
 about Rs 60.48 lakh and said the total seizure together with the container and
-other goods exceeded Rs 1 crore. [@1,3,5] Besides the drug, officers seized the
+other goods exceeded Rs 1 crore. [@1,3,5,8] Besides the drug, officers seized the
 container vehicle valued at about Rs 30 lakh and two mobile phones from the
-accused. [@1,3,5,6]
+accused. [@1,3,5,6,8]
 
 Police said the seizure was made in Mahasamund district under Operation
-Nishchay. [@1,3,4] Police said investigation into forward and backward links was
+Nishchay. [@1,3,4,8] Police said investigation into forward and backward links was
 continuing to trace the supply chain, source, destination and financial network.
 [@1,3,5,6]
 
-The container allegedly used for the smuggling bore registration number WB 19 L 3059. [@4,7]
+The container allegedly used for the smuggling bore registration number WB 19 L 3059. [@4,7,8]
 
 Amandeep gave his address as Lohanda in Sujanganj, Jaunpur, and Lallu Yadav gave his as Hatia Ramnath in Sujanganj, Jaunpur. [@7]
