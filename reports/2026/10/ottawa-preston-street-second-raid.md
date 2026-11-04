@@ -37,6 +37,10 @@ sources:
     url: https://stratcann.com/enforcement/ottawa-police-raid-dispensary-twice-in-one-week/
     publisher: StratCann
     date: 2026-11-02
+  - title: Ottawa police raid illegal cannabis store for the second time in a week
+    url: https://arabcanadanews.ca/en/article/ottawa-police-raid-illegal-cannabis-store-for-the-second-time-in-a-week
+    publisher: Arab Canada News
+    date: 2026-11-03
 open_questions:
   - The page's only photo is captioned on Rideau Street downtown, not the Preston Street shop searched, so it is not shown as media.
   - The sources also report a separate 23 October search at the same shop yielding approximately 4.79 kilograms of cannabis products, 40 vape devices, 14,285 contraband cigarettes and 95 cigars; those earlier amounts are not included in this report's figures, which cover only the 29 October search.
@@ -49,29 +53,31 @@ open_questions:
   - The submitted page also briefly describes separate Ottawa actions on 19 October 2026 on Catherine Street, on 9 October 2026 at Castle Heights Cannabis and on 14 April 2026 on Montreal Road, which are different events left out here.
   - The submitted page's only image is described as a featured image via Google Maps with no caption establishing it shows the Preston Street search, so no media entry is listed.
   - The 268 Preston and Preston Cannabis identifier comes only from the page's Google Maps lookup, not from the quoted police statement.
+  - The new page lists the flower seizure as both approximately 2.7 kilograms and about 5 pounds in the same bullet, which are not equivalent weights, while the existing report uses the 5-pound figure for its cannabis total.
+  - The page's main event image carries only the article title as its caption and alt text with no credit establishing that it shows the Preston Street search, so no media entry is listed for it.
 ---
 
 Ottawa police arrested a 25-year-old Ottawa man during the 29 October 2026
-search of a retail business on the 200 block of Preston Street. [@1,4] He faces
+search of a retail business on the 200 block of Preston Street. [@1,4,5] He faces
 charges of possession of illicit cannabis, unlawful sale of cannabis, sale of
 unpackaged, unstamped tobacco, possession of property obtained by crime and
 possession of a Schedule III substance for the purpose of trafficking under the
-Cannabis Act, Criminal Code and Controlled Drugs and Substances Act. [@2] Police
-released him on an undertaking to appear in court at a later date. [@2,4]
+Cannabis Act, Criminal Code and Controlled Drugs and Substances Act. [@2,5] Police
+released him on an undertaking to appear in court at a later date. [@2,4,5]
 
 Officers seized approximately 5 pounds of cannabis flower, 407 grams of
-pre-rolled cannabis, 38 grams of hash and 27,800 mg of THC products. [@1,3,4] Police
+pre-rolled cannabis, 38 grams of hash and 27,800 mg of THC products. [@1,3,4,5] Police
 also seized 24 grams of psilocybin products, 24 nicotine vape devices, 12,120
 contraband cigarettes, 70 cigars, two televisions and approximately $335 in
-Canadian currency, which are not counted as cannabis. [@2,4] Centretown
+Canadian currency, which are not counted as cannabis. [@2,4,5] Centretown
 Neighbourhood Resource Team members with Tactical Section assistance executed
 the search under a Criminal Code warrant tied to the unlawful sale of cannabis
-and nicotine products. [@2]
+and nicotine products. [@2,5]
 
 Police said it was the second search warrant executed at the same Preston Street
-location within the previous seven days for similar offences. [@2,3,4] Police said
+location within the previous seven days for similar offences. [@2,3,4,5] Police said
 the earlier search on 23 October 2026 followed community complaints about
-illegal cannabis and nicotine sales at the same location. [@2,4] Police said they
+illegal cannabis and nicotine sales at the same location. [@2,4,5] Police said they
 remain focused on illegal storefront operations that undermine public safety,
 evade regulatory requirements and contribute to the illicit cannabis and tobacco
 market. [@2]
