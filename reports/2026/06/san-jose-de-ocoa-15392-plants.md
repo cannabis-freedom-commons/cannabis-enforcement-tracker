@@ -26,6 +26,8 @@ open_questions:
   - The DNCD release links the plantation to an earlier June raid in the same area, a separate event left out here.
   - The DNCD page carries several photographs of the operation, but the image files could not be opened for inspection, so no media are listed.
   - DR1's account is based on the DNCD release and is not independent.
+  - EFE names only San José de Ocoa province while the DNCD republication specifies El Pinar municipal district; the report keeps the more precise district location.
+  - EFE also cites 2026 national drug totals and the US Operation Lanza del Sur context, which are separate statistics left out here.
 sources:
   - title: DNCD INTERVIENE EN SAN JOSÉ DE OCOA OTRA GRAN SIEMBRA DE MARIHUANA QUE SUPERA LAS 15,000 PLANTAS
     url: https://dncd.gob.do/noticias/dncd-interviene-en-san-jose-de-ocoa-otra-gran-siembra-de-marihuana-que-supera-las-15000-plantas/
@@ -41,18 +43,43 @@ sources:
     publisher: Telemundo
     date: 2026-06-22
     language: es
+  - title: DNCD interviene un cultivo de más de 15.000 plantas de marihuana en una finca de San José de Ocoa
+    url: https://centralnoticias.gob.do/dncd-interviene-un-cultivo-de-mas-de-15-000-plantas-de-marihuana-en-una-finca-de-san-jose-de-ocoa/
+    publisher: Central de Noticias
+    date: 2026-06-21
+    language: es
+  - title: República Dominicana interviene un cultivo de más de 15.000 plantas de marihuana
+    url: https://efe.com/mundo/2026-06-21/republica-dominicana-incautacion-marihuana/
+    publisher: EFE Noticias
+    date: 2026-06-21
+    language: es
 media:
   - kind: video
     url: https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/autoridades-incautan-mas-de-15-000-plantas-de-marihuana-en-republica-dominicana-tmvo13196126
     media_url: https://link.theplatform.com/s/0L7ZPC/media/KjXsd8RpFcfH?format=redirect
     publisher: Telemundo
     caption: Telemundo video report on the seizure of more than 15,000 marijuana plants in the Dominican Republic
+  - kind: photo
+    url: https://efe.com/mundo/2026-06-21/republica-dominicana-incautacion-marihuana/
+    media_url: https://i0.wp.com/efe.com/wp-content/uploads/2026/06/incautacion_marihuana_republica_dominicana-1.webp?w=900&ssl=1
+    publisher: EFE
+    caption: 'A DNCD officer guarding seized marijuana plants. Photo: EFE/ Orlando Barría'
+  - kind: photo
+    url: https://efe.com/mundo/2026-06-21/republica-dominicana-incautacion-marihuana/
+    media_url: https://i0.wp.com/efe.com/wp-content/uploads/2026/06/incautacion_marihuana_republica_dominicana__.webp?w=900&ssl=1
+    publisher: EFE
+    caption: 'Seized marijuana plants laid out after the operation. Photo: EFE/ Orlando Barría'
+  - kind: photo
+    url: https://efe.com/mundo/2026-06-21/republica-dominicana-incautacion-marihuana/
+    media_url: https://i0.wp.com/efe.com/wp-content/uploads/2026/06/incautacion_marihuana_republica_dominicana_.webp?resize=900%2C600&ssl=1
+    publisher: EFE
+    caption: 'DNCD officers guarding seized marijuana plants. Photo: EFE/ Orlando Barría'
 ---
 
-The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3]
+The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3,4] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3,5]
 
-More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3] The plantation had a drip-irrigation system. [@1,2]
+More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3] The plantation had a drip-irrigation system. [@1,2,4]
 
-Officers also raided a house used as a collection centre. [@1,3] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
+Officers also raided a house used as a collection centre. [@1,3,5] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
 
-The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2] Security forces kept a presence in the area to gather further evidence. [@1]
+The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1,5] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2,5] Security forces kept a presence in the area to gather further evidence. [@1,5]
