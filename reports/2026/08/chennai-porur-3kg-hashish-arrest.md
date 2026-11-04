@@ -32,12 +32,18 @@ sources:
     url: https://www.newindianexpress.com/cities/chennai/2026/Aug/25/ncb-seizes-three-kg-hashish-bound-for-sri-lanka-woman-linked-to-angoda-lokka-held
     publisher: The New Indian Express
     date: 2026-08-25
+  - title: NCB Chennai zonal unit seizes 3 Kg Hashish bound for Sri Lanka; Woman linked to Sri Lankan Gangster arrested
+    url: https://www.dtnext.in/news/chennai/ncb-chennai-zonal-unit-seizes-3-kg-hashish-bound-for-sri-lanka-woman-linked-to-sri-lankan-gangster-arrested
+    publisher: DT Next
+    date: 2026-08-24
 open_questions:
   - The article says the arrest happened on Monday and was published on 25 August 2026, so 24 August 2026 is used as the incident date.
   - No charges, custody ruling or court outcome were reported; the NCB investigation into the source, recipients and network was still under way.
   - Only one accessible source for this event could be opened; searches for a second account returned no openable report.
   - The same page reports a separate seizure of about 14.4 kg of suspected ganja from a Bangkok arrival at Chennai airport, a different event left out here.
   - The same page lists NCB Chennai year-to-date seizure and arrest totals, which are enforcement statistics left out of this single-event report.
+  - This source spells the woman's name Sivagamisundari while the existing report spells it Sivagamasundari, a transliteration difference for the same person identified with her husband Gurumurthy.
+  - The page image is captioned Representative image, so it is not established to show this seizure and no media entry is included.
 ---
 
 The NCB Chennai Zonal Unit intercepted Sivagamasundari and her husband
@@ -45,17 +51,16 @@ Gurumurthy, residents of Madurai, as they were about to board a bus near the
 Porur toll plaza. [@1] The Narcotics Control Bureau arrested the Madurai-based
 couple on Monday near the Porur toll plaza. [@1] Inquiry found that
 Sivagamasundari had close links with Angoda Lokka, the deceased Sri Lankan
-gangster and drug trafficker. [@1] Sivagamasundari had earlier been arrested by
+gangster and drug trafficker. [@1,2] Sivagamasundari had earlier been arrested by
 the CB-CID in a 2020 case over the alleged fabrication of identity and other
-supporting documents for Lokka and facilitating his illegal stay in India. [@1]
+supporting documents for Lokka and facilitating his illegal stay in India. [@1,2]
 
 A subsequent search recovered 3 kg of hashish that was allegedly intended to be
-trafficked to Sri Lanka. [@1] The seized hashish was valued at around Rs 75
-lakh. [@1] Hashish is a concentrated form of cannabis resin containing the
+trafficked to Sri Lanka. [@1,2] The seized hashish was valued at around Rs 75
+lakh. [@1,2] Hashish is a concentrated form of cannabis resin containing the
 psychoactive compound THC. [@1]
 
 Officers alleged the couple were attempting to smuggle the contraband to Sri
 Lanka. [@1] The NCB is now probing the source of the contraband, its intended
 recipients and the network allegedly involved in its transnational trafficking.
-[@1]
-
+[@1,2]
