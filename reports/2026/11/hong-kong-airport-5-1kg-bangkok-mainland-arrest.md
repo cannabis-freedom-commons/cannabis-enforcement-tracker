@@ -49,6 +49,11 @@ sources:
     publisher: 星島頭條
     date: 2026-11-03
     language: zh
+  - title: 香港海關於機場偵破一宗入境旅客販毒案件（附圖）
+    url: https://www.info.gov.hk/gia/general/202611/02/P2026110200531.htm
+    publisher: Hong Kong Customs and Excise Department
+    date: 2026-11-02
+    language: zh
 open_questions:
   - The HK$1.06 million estimated value covers the cannabis, Part I poison products and cigarettes together, not cannabis alone.
   - No quantity, weight or estimated value is given separately for the three suspected Part I poison products.
@@ -59,16 +64,16 @@ open_questions:
 ---
 
 A 42-year-old Mainland male passenger arrived in Hong Kong from Bangkok,
-Thailand, on 2 November 2026. [@1,3] During customs clearance at Hong Kong
+Thailand, on 2 November 2026. [@1,2,3,5] During customs clearance at Hong Kong
 International Airport, officers found the suspected drugs and cigarettes inside
-his carry-on baggage and arrested him. [@2,4] The arrested man has been charged
+his carry-on baggage and arrested him. [@2,4,5] The arrested man has been charged
 with trafficking in a dangerous drug, possession of dutiable goods, failing to
-declare dutiable goods, and possession of a Part I poison. [@1,3] The case was
+declare dutiable goods, and possession of a Part I poison. [@1,3,5] The case was
 scheduled to be brought up at the West Kowloon Magistrates' Courts on 3
-November. [@2,4]
+November. [@2,4,5]
 
 Customs put the total estimated market value of the cannabis, poison products
-and cigarettes at about $1.06 million. [@1,3]
+and cigarettes at about $1.06 million. [@1,3,5]
 
 Customs said it would continue to step up enforcement against drug trafficking
 through intelligence analysis and risk-based checks focused on passengers from
