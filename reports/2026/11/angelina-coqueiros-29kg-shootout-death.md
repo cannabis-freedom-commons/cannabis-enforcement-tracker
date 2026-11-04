@@ -45,6 +45,11 @@ sources:
     publisher: Jornal Razão
     date: 2026-11-04
     language: pt
+  - title: Homem morre após confronto com a PM e 29 kg de maconha são apreendidos em SC
+    url: https://araguaiabrusque.com.br/homem-morre-apos-confronto-com-a-pm-e-29-kg-de-maconha-sao-apreendidos-em-sc/
+    publisher: Araguaia 104,5 FM
+    date: 2026-11-04
+    language: pt
 open_questions:
   - TopElegance places the pursuit on Wednesday 4 November while Jornal Razão dates the confrontation to the night of Tuesday 3 November; the report uses 3 November from the more detailed account.
   - The combined figure of about 74 kg mentioned by TopElegance includes the separate 31 October seizure of about 45 kg, which is not counted in this report's cannabis figure.
@@ -56,26 +61,25 @@ open_questions:
 Tactical officers of the 31st Battalion and the Tijucas intelligence agency went
 to Major Gercino after a report that he would receive a new drug shipment. [@2]
 When officers moved in, the driver sped away at high speed through the town
-centre toward Angelina. [@2] The confrontation was recorded on the night of
+centre toward Angelina. [@2,3] The confrontation was recorded on the night of
 Tuesday 3 November on Rua Geral Coqueiros in the Garcia neighbourhood of
 Angelina. [@2] He got out of the car carrying a black pistol and ran toward
-woodland, then shot at the officers. [@2] Officers returned fire and he fell
+woodland, then shot at the officers. [@2,3] Officers returned fire and he fell
 into a ditch beside the rural road. [@2] Rescue was called but he died at the
 scene, after medical teams could not reach the difficult-access spot in time.
-[@2] No police officer was injured. [@2]
+[@2,3] No police officer was injured. [@2]
 
 Beside him officers recovered a loaded Taurus G2C pistol in 9 mm calibre. [@2]
 In the black Ford EcoSport he was driving, police found about 29 kg of cannabis.
-[@2] The cannabis was in two styrofoam boxes packed the same way as those in a
-seizure made on 31 October. [@2] His shot struck the front bumper of the patrol
-car and punctured its front tyre. [@2]
+[@2,3] The cannabis was in two styrofoam boxes packed the same way as those in a
+seizure made on 31 October. [@2,3] His shot struck the front bumper of the patrol
+car and punctured its front tyre. [@2,3]
 
 The operation followed intelligence about a new drug consignment sent in
-styrofoam boxes through merchandise delivery services. [@1] Police linked the
+styrofoam boxes through merchandise delivery services. [@1,3] Police linked the
 load to the 31 October case, when about 45 kg of cannabis with a strong smell
 was found in styrofoam boxes in a parcel load allegedly sold and sent through
 Shopee orders. [@2] He was known locally for trafficking and had prior records
 for drug trafficking, illegal weapon possession and carrying, gunfire and
 robbery. [@2] Forensic officers attended the road and the vehicle was taken to
 the police station. [@2]
-
