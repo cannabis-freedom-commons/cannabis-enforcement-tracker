@@ -64,6 +64,10 @@ open_questions:
   - The page presents the 600,000-lives estimate through remarks by Kombes Pol Josua Tampubolon as aired on NTV Morning, while the existing report attributes it to BNN North Sumatra head Brigjen Pol Tatar Nugroho.
   - The page says officers are still developing the case and hunting suspected network members, leaving whether owners have been identified unresolved against the existing account that owners had been identified and were being pursued.
   - The page displays a main image captioned as the joint team dismantling the five-hectare field, but the file name indicates a television broadcast screenshot, so no media entry is included.
+  - This account says the approach took about nine hours, while the existing report describes about seven hours one way and 14 hours round trip.
+  - The page displays a photo without caption, credit or alt text identifying its content, so no media entry is listed for this source.
+  - No owner, suspect, arrest or charge is named; police say investigation to identify those responsible is continuing.
+  - The article was published on 2 November 2026; 31 October 2026 is the operation date given in the text.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -180,6 +184,11 @@ sources:
     publisher: NusantaraTV
     date: 2026-11-02
     language: id
+  - title: 150 Ribu Batang Ganja Ditemukan di Bukit Sihite Mandailing Natal, 149.980 Dimusnahkan
+    url: https://beritatkp.com/150-ribu-batang-ganja-ditemukan-di-bukit-sihite-mandailing-natal-149-980-dimusnahkan/
+    publisher: BeritaTKP.com
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -221,7 +230,7 @@ media:
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
 to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23] No growers were
-named or arrested in either account. [@1,2]
+named or arrested in either account. [@1,2,24]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
 investigation before BNN North Sumatra ordered a joint destruction involving about 90 personnel
@@ -242,10 +251,12 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
-The five-hectare fields sat at 1,117 metres above sea level. [@19] The plants were five to six months old and ready to harvest. [@19]
+The five-hectare fields sat at 1,117 metres above sea level. [@19] The plants were five to six months old and ready to harvest. [@19,24]
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
+
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24] The joint team walked about nine hours to reach the fields. [@24] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24]
