@@ -55,6 +55,11 @@ sources:
     url: https://www.ekathimerini.com/news/1320221/boy-16-held-over-marijuana-mail-orders/
     publisher: eKathimerini.com
     date: 2026-11-04
+  - title: 'Θεσσαλονίκη: Συνελήφθη 16χρονος που παραλάμβανε 7,4 κιλά skunk μέσω εταιρειών κούριερ'
+    url: https://www.koolnews.gr/thessaloniki-synelifthi-16chronos-pou-paralamvane-74-kila-skunk-meso-etaireion-kourier/
+    publisher: Koolnews
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -66,22 +71,25 @@ open_questions:
   - The new account rounds the seizures to more than 2 kilograms, more than 5 kilos and more than 7 kilograms, while the existing report retains the precise police weights of 2,080 grams, 5,410 grams and 7,490 grams.
   - The new account says both parcels were intercepted before delivery while also saying the boy was taken into custody after taking delivery, while the existing account describes a controlled delivery followed by arrest.
   - The page image is captioned only with the headline and its file name suggests a generic arrest illustration, so it is not established to show this seizure and no media entry is added.
+  - Koolnews reports rounded 2 kg, 5.4 kg and 7.4 kg in total, while the existing report records precise 2,080 g, 5,410 g and 7,490 g; the corroboration uses the shared rounded description.
+  - Koolnews does not state foreign nationality, foreigners-legislation charges, controlled-delivery approval, or seized phones, so those existing details are not corroborated here.
+  - The page lists one image with an empty caption and no credit, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
 mailed parcel containing cannabis. [@1,3,5,6] He is accused of violating drugs and
 foreigners legislation. [@1,3] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6]
+[@2,4,5,6,7] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5,6,7]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6] In total officers seized 7 kilograms and 490 grams of
+addressed to the boy. [@1,3,6,7] In total officers seized 7 kilograms and 490 grams of
 hydroponic cannabis. [@1,3,5] They also seized two mobile phones. [@1,5]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1] Police in Thessaloniki made the arrest on Tuesday, 3
-November 2026. [@2,3,6]
+November 2026. [@2,3,6,7]
