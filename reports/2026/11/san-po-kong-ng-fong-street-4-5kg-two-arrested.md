@@ -79,28 +79,34 @@ sources:
     publisher: 點新聞
     date: 2026-11-03
     language: zh
+  - title: 警新蒲崗掃毒搜工廈單位 檢$95萬大麻拘兩男
+    url: https://www.hk01.com/%E7%AA%81%E7%99%BC/60406779/%E8%AD%A6%E6%96%B0%E8%92%B2%E5%B4%97%E6%8E%83%E6%AF%92%E6%90%9C%E5%B7%A5%E5%BB%88%E5%96%AE%E4%BD%8D-%E6%AA%A2-95%E8%90%AC%E5%A4%A7%E9%BA%BB%E6%8B%98%E5%85%A9%E7%94%B7
+    publisher: 香港01
+    date: 2026-11-03
+    language: zh
 open_questions:
   - Only one source could be opened for this event, so no independent corroboration was available.
   - No charge beyond arrest and detention, and no court outcome, was reported.
   - No separate count was published for the packaging tools beyond the scales and sealing machine.
   - The report gives the operation date as the night of 2 November and was published on 3 November 2026.
   - The Sing Tao Canada page carries a photo without a caption or alt text establishing what it depicts, so no media entry is listed.
+  - The submitted HK01 page carries an additional thumbnail image captioned only with the headline, which does not establish that it shows this seizure, so no new media entry is added.
 ---
 
 After an in-depth investigation, officers from Yau Tsim District carried out an
 anti-drug operation in Wong Tai Sin District on the night of 2 November 2026.
-[@1,2,3,4,5,6,8,9] During the operation inside an industrial building on Ng Fong Street in San
+[@1,2,3,4,5,6,8,9,10] During the operation inside an industrial building on Ng Fong Street in San
 Po Kong, officers intercepted two local men who appeared suspicious. [@1,2,3,4,5,6,8]
 Officers searched a unit in the same industrial building that was rented by one
-of the two men. [@1,2,4,5,6,7,8,9] The two local men, aged 22 and 24, were arrested on
+of the two men. [@1,2,4,5,6,7,8,9,10] The two local men, aged 22 and 24, were arrested on
 suspicion of trafficking in dangerous drugs and remained in detention pending
-investigation. [@1,2,3,4,7,8]
+investigation. [@1,2,3,4,7,8,10]
 
 The search recovered about 4,500 grams of suspected cannabis, together with a
-batch of suspected drug-packaging tools. [@1,2,3,4,5,6,7,8,9] The packaging tools included
+batch of suspected drug-packaging tools. [@1,2,3,4,5,6,7,8,9,10] The packaging tools included
 electronic scales and a sealing machine, according to the police account. [@1,6]
 Police estimated the total market value of the seized drugs at about HK$950,000.
-[@1,2,3,4,5,6,7,9]
+[@1,2,3,4,5,6,7,9,10]
 
 Under Chapter 134 of Hong Kong's laws, the Dangerous Drugs Ordinance,
 trafficking means selling or supplying a dangerous drug to another person. [@1]
