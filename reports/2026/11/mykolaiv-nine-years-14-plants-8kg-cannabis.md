@@ -88,6 +88,11 @@ sources:
     url: https://korabelov.info/en/2026/11/632808/more-than-10-kg-of-drug-precursors-intended-for-sale-mykolaiv-resident-sentenced-to-9-years-in-prison/
     publisher: Корабелов.ИНФО
     date: 2026-11-03
+  - title: 'Более 10 кг наркосырья для сбыта: жителю Николаева назначили 9 лет лишения свободы'
+    url: https://korabelov.info/ru/2026/11/632801/bolee-10-kh-narkosyria-dlia-sbyta-zhyteliu-nykolaeva-naznachyly-9-let-lyshenyia-svobody/
+    publisher: Корабелов.ИНФО
+    date: 2026-11-03
+    language: ru
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate sentencing date, so the report uses the publication date.
   - The search is dated only as 25 July with no year stated in the article text.
@@ -107,6 +112,8 @@ open_questions:
   - The English account reports more than 10 kilograms of dried material, while the existing report records more than 8 kilograms for the same 14-plant seizure.
   - The English account gives no separate sentencing date; 3 November 2026 is its publication date.
   - The page's lead image is described as cannabis and dried material seized during a Mykolaiv search, but without a credit linking it to this seizure no media entry is added.
+  - The Russian version reports more than 10 kilograms of dried material, while the existing report records 8 kg from earlier sources for the same 14-plant seizure.
+  - The page's photo is captioned as cannabis and dried material seized during a Mykolaiv search but carries no credit linking it to this seizure, so no media entry is added.
 ---
 
 Ingulsky District Court in Mykolaiv sentenced a local resident to nine years in
@@ -137,6 +144,6 @@ from the convict. [@1] The 133,120-hryvnia bail posted for him is to be returned
 to his brother after the verdict enters into force, and the verdict can be
 appealed to the Mykolaiv Appeal Court within 30 days. [@1]
 
-The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6,8,9,12] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6,12] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7,12] The verdict has not entered into force. [@7,8,9,10,11,12]
+The man was a 51-year-old Mykolaiv resident sentenced to nine years' imprisonment. [@6,8,9,12,13] The July 2026 search of his home found more than 10 kilograms of dried material and 14 cannabis plants. [@6,12,13] Police said officers acting on operative information searched the man's home in July and seized more than 10 kilograms of dried material and 14 cannabis plants. [@7,12,13] The verdict has not entered into force. [@7,8,9,10,11,12,13]
 
-Officers of police department No. 2 of the Mykolaiv district police uncovered the man's activity in July. [@8,9,12] He tended the plants, fertilised the soil, removed weeds and watered them regularly. [@8,9,12]
+Officers of police department No. 2 of the Mykolaiv district police uncovered the man's activity in July. [@8,9,12,13] He tended the plants, fertilised the soil, removed weeds and watered them regularly. [@8,9,12,13]
