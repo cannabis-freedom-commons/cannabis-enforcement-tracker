@@ -33,6 +33,11 @@ sources:
     publisher: Sunlight News
     date: 2026-10-31
     language: hi
+  - title: दीघा में 20 किलो गांजा बरामद, हावड़ा के दो युवक गिरफ्तार; ओडिशा से तस्करी की थी तैयारी
+    url: https://www.ind24.tv/west-bengal/digha-20-kg-ganja-seized-two-youths-arrested
+    publisher: IND24
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The submitted Zee 24 Ghanta item is a 33-second Facebook video with no transcript or article text; only its headline question, 'Is Digha a corridor for drug smuggling?', could be read, so it is not cited for any fact.
   - Only one detailed report of the arrest was found; Taaza TV is the sole source for the names, quantity and suspected route.
@@ -43,26 +48,27 @@ open_questions:
   - The Zee 24 Ghanta video is cited only for the corridor question in its headline; its 33-second report could not be watched or transcribed.
   - Whether the reel reports the 30 October 2026 Digha arrest or Digha drug trafficking more broadly could not be confirmed, because the page offers no text, transcript or viewable frames.
   - The Sunlight News page displays a lead photograph with no caption tying it to this seizure, so no media entry is included.
+  - The IND24 page offers no captioned photograph tying an image to this seizure, so no media entry is added.
 ---
 
 Two suspected drug smugglers, Krishna Rajbhar and Sheikh Razzak, were arrested
-by Digha police along with 20 kg of ganja. [@1,3] Police sources said the
+by Digha police along with 20 kg of ganja. [@1,3,4] Police sources said the
 operation followed a tip-off and the alertness of local residents. [@1,3]
 According to police sources, the incident took place around 2:30 pm on Friday
-near Yuva Awas More in Digha. [@1,3]
+near Yuva Awas More in Digha. [@1,3,4]
 
 The two men were reportedly carrying two trolley bags and attempting to board a
 bus when the bus staff became suspicious. [@1,3] When the staff asked to check the
 bags, the men allegedly tried to flee. [@1,3] Local residents acted swiftly and
-caught the two suspects before informing Digha police. [@1,3] Officers soon
+caught the two suspects before informing Digha police. [@1,3,4] Officers soon
 reached the spot, took both men into custody and seized the suspected cannabis.
 [@1]
 
 Preliminary investigations suggest the duo had brought the cannabis from Odisha.
-[@1,3] Investigators believe they were planning to transport it to Howrah. [@1,3]
+[@1,3,4] Investigators believe they were planning to transport it to Howrah. [@1,3]
 Further investigation is under way to establish the details of the alleged
 smuggling operation. [@1]
 
 The case raised the question of whether Digha is a new corridor for drug trafficking. [@2]
 
-The trolley bags were examined in the presence of a magistrate, and about 20 kilograms of ganja was recovered from them. [@3] DSP (DNT) Dr Mohit Molla said two accused have been arrested and intensive investigation is under way to trace others involved in the trafficking network. [@3]
+The trolley bags were examined in the presence of a magistrate, and about 20 kilograms of ganja was recovered from them. [@3,4] DSP (DNT) Dr Mohit Molla said two accused have been arrested and intensive investigation is under way to trace others involved in the trafficking network. [@3,4]
