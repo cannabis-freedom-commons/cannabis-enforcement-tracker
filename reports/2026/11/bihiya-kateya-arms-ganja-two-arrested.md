@@ -23,6 +23,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-04
     language: hi
+  - title: 'Ara News: बिहिया के कटेया गांव में छापेमारी, हथियार, कारतूस व गांजा के साथ दो गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/ara/story-bihiya-police-arrest-two-with-arms-cartridges-and-cannabis-201793803994329.html
+    publisher: Hindustan
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No weight or quantity for the seized ganja was published, so no cannabis kilograms can be recorded.
   - No type, count or calibre for the seized arms and cartridges was published.
@@ -36,16 +41,15 @@ open_questions:
 ---
 
 During the Wednesday raid near the temple, officers caught both youths with
-illegal arms, cartridges and ganja. [@1] Police had received a tip that
-offenders had gathered in the area planning a major criminal act. [@1]
+illegal arms, cartridges and ganja. [@1,2] Police had received a tip that
+offenders had gathered in the area planning a major criminal act. [@1,2]
 
 Police suspect the arrested youths were preparing to carry out a major criminal
 incident. [@1] Police took both youths into custody and brought them to the
-station after the raid. [@1]
+station after the raid. [@1,2]
 
 Police are now questioning both accused closely to find where the arms came from
-and who is linked to the ganja trade. [@1] Officers are also trying to identify
-other people involved in the same arms and ganja network. [@1] Police said they
+and who is linked to the ganja trade. [@1,2] Officers are also trying to identify
+other people involved in the same arms and ganja network. [@1,2] Police said they
 will register a case under the relevant sections and send both accused to
 judicial custody after questioning is complete. [@1]
-
