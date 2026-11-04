@@ -202,6 +202,11 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-03
     language: zh
+  - title: 賣大麻假釋 香港網紅Toyz驅逐出境 - 社會 - 自由時報電子報
+    url: https://news.ltn.com.tw/news/society/paper/1777134
+    publisher: 自由時報電子報
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -240,23 +245,26 @@ open_questions:
   - The page's view, like and comment counts for the post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
   - The page's sole captioned image is described as taken from Facebook and shows the post-return two-character post, not the deportation escort, so no media entry is added.
   - The submitted page lists two images with only numeric captions and no credit, so whether they show this deportation escort could not be established and no media entry is added.
+  - The deportation day is given only as yesterday relative to the 4 November 2026 publication date, supporting 3 November 2026.
+  - The paper gives the Hong Kong flight only as around 1 p.m., while the existing report gives 1:10 p.m. from another account.
+  - No new media entry is added because the paper's immigration-agency handout photo appears to duplicate the Changhua task-force handout already listed in the existing report.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
-term. [@1,6]
+term. [@1,6,33]
 
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
 Hong Kong. [@2,4,8,14,25,27] Immigration said any future application by Liu to reside in
@@ -264,3 +272,5 @@ Taiwan through a Taiwan-registered spouse would face strict review, and it said
 visitors must obey Taiwan's laws. [@1,8,25,27,29,31]
 
 Liu had previously come to Taiwan for business purposes. [@27]
+
+Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33]
