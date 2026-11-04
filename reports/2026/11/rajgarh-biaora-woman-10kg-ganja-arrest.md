@@ -27,28 +27,35 @@ sources:
     publisher: Vocal TV
     date: 2026-11-03
     language: hi
+  - title: राजगढ़ः महिला के कब्जे से डेढ़ लाख का गांजा जब्त, पूछताछ जारी
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/3/SEEIZED-THE-TEN-KILOGRAMME-GAA.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-03
+    language: hi
 open_questions:
   - Only one accessible source for this event was found after searching; no second report could be opened.
   - No court outcome was reported; questioning about the ganja source, intended supply and possible accomplices was still under way.
   - The page photo shows the Biaora (Dehat) police-station signboard, not the seizure, so no media entry is included.
+  - The Hindusthan Samachar page image is captioned only with the seizure headline and carries no credit establishing that it shows this 10-kg seizure, so no media entry is included.
 ---
 
 Dehat Biaora police in Madhya Pradesh's Rajgarh district arrested a woman on
 Tuesday, 3 November 2026, as part of Operation Shuddhi against drug trafficking.
-[@1] The accused was identified as 45-year-old Mamta, wife of Mohan Kushwah and
-a resident of Indiranagar Colony. [@1] Police said an informer had tipped them
-that a woman in Indiranagar Colony was holding ganja. [@1] Officers went to the
+[@1,2] The accused was identified as 45-year-old Mamta, wife of Mohan Kushwah and
+a resident of Indiranagar Colony. [@1,2] Police said an informer had tipped them
+that a woman in Indiranagar Colony was holding ganja. [@1,2] Officers went to the
 spot and caught her outside her house. [@1]
 
-A search recovered 10 kg of ganja, cannabis, from her possession. [@1] Police
-put the estimated value of the seized ganja at 150,000 rupees. [@1] Police
-registered a case against her under Section 8/20 of the NDPS Act. [@1]
+A search recovered 10 kg of ganja, cannabis, from her possession. [@1,2] Police
+put the estimated value of the seized ganja at 150,000 rupees. [@1,2] Police
+registered a case against her under Section 8/20 of the NDPS Act. [@1,2]
 
 She is being questioned about where she brought the ganja from and to whom it
 was to be supplied, while police are also examining the involvement of others.
-[@1] Rajgarh Superintendent of Police Amit Tolani had ordered Operation Shuddhi
+[@1,2] Rajgarh Superintendent of Police Amit Tolani had ordered Operation Shuddhi
 to curb the trade in smack, ganja and illicit liquor in the district. [@1] The
 Biaora action was guided by the additional superintendent of police and the
 Biaora sub-divisional officer and carried out by a team led by station chief
 Praveen Jat. [@1]
 
+The operation team included station chief Praveen Jat, Sub-Inspector B.L. Mawase, Head Constable Pradeep Rajput, Constables Praveen and Rajesh Yadav, and woman Constable Ayesha Bano. [@2]
