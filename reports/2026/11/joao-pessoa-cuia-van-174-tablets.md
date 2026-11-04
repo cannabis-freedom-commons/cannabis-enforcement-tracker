@@ -35,6 +35,11 @@ media:
     media_url: https://vodstreaming01.video.globo.com/44/96/70/15151093_70b7e4a86e6586b19535da71597c29f9eb4ad554/15151093-360p_487k_h264-dd66b840-b8e6-013f-000b-000000000000.mp4
     publisher: G1
     caption: Police seizure of drugs in the van registered in the delegate's name.
+  - kind: video
+    url: https://portalcorreio.com.br/quase-200-kg-de-maconha-sao-achados-em-van-que-pertence-a-delegado-dono-de-oficina-e-preso/
+    media_url: https://www.youtube.com/embed/va55_iBaDzU?feature=oembed
+    publisher: Portal Correio
+    caption: Embedded video titled Polícia Militar encontra quase 200 quilos de droga escondida dentro de van que pertence a delegado, showing the police finding the drugs in the van.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54e427074287058df5b0a8adf8d267ce
@@ -100,6 +105,11 @@ sources:
     publisher: Se Liga PB
     date: 2026-11-02
     language: pt
+  - title: Quase 200 kg de maconha são achados em van que pertence a delegado; dono de oficina é preso
+    url: https://portalcorreio.com.br/quase-200-kg-de-maconha-sao-achados-em-van-que-pertence-a-delegado-dono-de-oficina-e-preso/
+    publisher: Portal Correio
+    date: 2026-11-02
+    language: pt
 open_questions:
   - No weight was published for the 174 tablets, so no kilogram figure is recorded.
   - The reports describe the seized material as maconha or a substance similar to marijuana, with no laboratory confirmation reported.
@@ -122,6 +132,8 @@ open_questions:
   - This account says the van was inside a workshop, while the existing report says it was parked in front of a mechanical workshop.
   - This account says only A polícia and os policiais without naming the force, so it does not resolve the existing Civil Police versus Military Police attribution difference.
   - 'The page carries an image marked only as FOTO: REPRODUÇÃO with no caption establishing that it shows this van or seizure, so no media entry is added for this source.'
+  - This Portal Correio account headlines almost 200 kg but reports only 174 tablets with no laboratory weight, so no kilogram figure can be recorded.
+  - This account refers only to A polícia and os policiais without naming the force, so it does not resolve the existing Civil Police versus Military Police attribution difference.
 ---
 
 The workshop owner outside whose premises the van was parked was taken to give a
@@ -142,10 +154,10 @@ Flagrantes. [@2,10] He said he trusted a rigorous investigation of the facts and
 was in absolute tranquillity. [@1,10] The Paraíba Civil Police are investigating
 the seizure in the Cuiá case. [@1,10]
 
-On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8,9,12]
+On the morning of 1 November 2026, Civil Police seized a van holding 174 tablets of a substance described as similar to marijuana in the Cuiá neighbourhood of João Pessoa. [@3,4,6,7,8,9,12,13]
 
 The seizure and all the seized drugs were presented at the Cidade da Polícia Civil in the Geisel neighbourhood, where the case will be investigated to establish the origin of the drugs and identify those responsible for their transport. [@5]
 
 The seized van was rented to the Mataraca municipality for R$261,000 for 12 months. [@10] The van is linked by the rental to the Municipal Health Fund through the company J P dos Prazeres Lucena. [@11] The company is owned by João Paulo dos Prazeres Lucena, described as delegate Walter Brandão's informal partner, a partnership both men acknowledged in testimony to the Civil Police. [@10] Brandão and João Paulo Prazeres gave statements to police as witnesses, saying they did not know about the drugs and were victims of the situation. [@11] The workshop owner was identified as Geovani Rodrigues Fernandes, who was arrested in flagrante with the van's keys and remained silent when questioned. [@10] The current rental contract was signed in March 2026 for R$261,000 over 12 months to carry health workers from João Pessoa to Mataraca during the week. [@11] State audit records show the company has held Mataraca contracts since at least 2020 worth R$173,000 to R$225,000 a year for health-worker transport. [@10] The company has received almost R$1.2 million from the municipality since 2020. [@10] Mataraca city government said the van's contracted use was exclusively to carry health workers from João Pessoa to Mataraca for municipal health care. [@10]
 
-Police said they went to the workshop after receiving an anonymous tip about the vehicle and the drugs. [@12] The workshop owner remained in custody pending a custody hearing. [@12]
+Police said they went to the workshop after receiving an anonymous tip about the vehicle and the drugs. [@12,13] The workshop owner remained in custody pending a custody hearing. [@12,13]
