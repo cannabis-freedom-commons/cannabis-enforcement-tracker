@@ -55,6 +55,11 @@ sources:
     publisher: Canalcosta Televisión
     date: 2026-11-03
     language: es
+  - title: 'Narcotráfico en Huelva: Cierran una asociación de consumo de cannabis que vendía droga a los alumnos de un instituto próximo'
+    url: https://www.huelva24.com/sucesos/narcotrafico-huelva-cierran-asociacion-consumo-cannabis-vendia-20261103123147-nth.html
+    publisher: Huelva24
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles place the eight searches at the end of November although they were published on 3 November 2026, so the publication date is used as the incident date.
   - The nearly 20,000 euros in cash, four vehicles and telephone and computer equipment are mentioned only to explain the seizure and are not recorded as a fine or value.
@@ -66,27 +71,27 @@ open_questions:
 
 The Guardia Civil arrested 13 people in Isla Cristina and Lepe accused of drug
 trafficking and membership of a criminal organisation tied to cannabis
-associations that acted as drug sales points. [@1,3,4,5] The investigation, known as
+associations that acted as drug sales points. [@1,3,4,5,6] The investigation, known as
 Operation Dehesa, began after anonymous complaints about a constant flow of
-people visiting these premises to buy drugs. [@2] Those arrested, together with
+people visiting these premises to buy drugs. [@2,6] Those arrested, together with
 the case files, the seized substances and the other seized material, were placed
 at the disposal of the court handling the case. [@1,5]
 
 After judicial authorisation, officers carried out eight searches, four in the
 cannabis premises and four in homes used to store and prepare the substances for
-distribution. [@1,3,4,5] The searches yielded 10.6 kg of hashish and 6 kg of
-marijuana. [@1,3,4,5] Officers also seized almost 20,000 euros in cash, tools for
+distribution. [@1,3,4,5,6] The searches yielded 10.6 kg of hashish and 6 kg of
+marijuana. [@1,3,4,5,6] Officers also seized almost 20,000 euros in cash, tools for
 handling and weighing drugs, four vehicles including electric scooters, and
-mobile-phone and computer equipment. [@1] The operation dismantled a total of
-four drug sales points. [@1,5]
+mobile-phone and computer equipment. [@1,6] The operation dismantled a total of
+four drug sales points. [@1,5,6]
 
 Police found that the monitored premises presented a legal appearance linked to
-cannabis consumption but were actually used to distribute and sell drugs. [@1]
+cannabis consumption but were actually used to distribute and sell drugs. [@1,6]
 One association stood near a secondary school whose pupils, including minors,
 went there during break to buy or consume substances, while another was located
-at a children's playground regularly frequented by young people. [@1] Beyond
+at a children's playground regularly frequented by young people. [@1,6] Beyond
 selling on the premises, the groups delivered substances to a pre-arranged
-location or to buyers' homes, a practice officers called telecoca. [@1] The
+location or to buyers' homes, a practice officers called telecoca. [@1,6] The
 operation was coordinated by the Ayamonte Guardia Civil judicial-police team
 with participation from USECIC, canine guides, citizen-security patrols and the
-local police of the affected towns. [@2]
+local police of the affected towns. [@2,6]
