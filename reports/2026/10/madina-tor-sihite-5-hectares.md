@@ -73,6 +73,12 @@ open_questions:
   - The Metro24 page displays its main photo without a caption, credit or alt text identifying its content, so no media entry is listed for this source.
   - This account says officers walked 8 to 9 hours to reach the site, while the existing report describes about seven hours one way and 14 hours round trip.
   - The image caption dates the find to Monday (2/11/2026), while the article text dates the joint operation to Saturday (31/10/2026), the date the existing report follows.
+  - The submitted page dates the destruction to Sunday 1 November 2026, while the existing report dates it to 31 October 2026.
+  - The submitted page says the approach took about nine hours, while the existing report's main account says about seven hours one way and 14 hours round trip; another account already in the report also says about nine hours.
+  - The submitted page gives a rough gross estimate of 30 tons for about 150,000 plants at 75 cm spacing, not a weighed total, while the existing report retains 3,000 kg from another outlet.
+  - The submitted page attributes the estimate that 600,000 young people were saved to Kombes Pol Josua Tampubolon at the site, while the existing report attributes the same estimate to BNN North Sumatra head Brigjen Pol Tatar Nugroho.
+  - The submitted page gives the site elevation as 1,170 metres, while the existing report also cites 1,117 metres from another outlet.
+  - The submitted page names no growers, arrests, suspects or charges for the Tor Sihite plots.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -209,6 +215,11 @@ sources:
     publisher: Radar Medan
     date: 2026-11-02
     language: id
+  - title: BNNP Sumut Musnahkan 5 Hektare Ladang Ganja
+    url: https://voiceindonesia.co/daerah/bnnp-sumut-musnahkan-5-hektare-ladang-ganja
+    publisher: VOICE Indonesia
+    date: 2026-11-02
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -250,11 +261,16 @@ media:
     media_url: https://radarmedan.com/asset/foto_berita/Ganja_madina.jpg
     publisher: Radar Medan
     caption: Officers at the five-hectare cannabis field found on Tor Sihite in Mandailing Natal
+  - kind: photo
+    url: https://voiceindonesia.co/daerah/bnnp-sumut-musnahkan-5-hektare-ladang-ganja
+    media_url: https://voiceindonesia.co/api/proxy-image?url=https%3A%2F%2Fcdn.voiceindonesia.co%2Fuploads%2F2026%2F11%2F6f2b8c62d4-1001875650-featured.jpg&w=900&q=75
+    publisher: VOICE Indonesia
+    caption: 'Joint BNNP Sumut, Polda Sumut and TNI personnel during the destruction of the five-hectare cannabis field on Tor Sihite. Photo: Voiceindonesia.co'
 ---
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28] No growers were
 named or arrested in either account. [@1,2,24,27]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -262,15 +278,15 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
-about three tonnes of potential production. [@1]
+about three tonnes of potential production. [@1,28]
 
 The regency police chief, AKBP Bagus Priyandi, took part alongside provincial drug directors,
 according to AnalisaDaily. [@1] Mistar.id said the team walked about 14 hours in slippery rain
 on the round trip. [@2]
 
-The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4,23]
+The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4,23,28]
 
 Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23,25] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15,25]
 
@@ -284,8 +300,10 @@ The five-hectare fields sat at 1,117 metres above sea level. [@19] The plants we
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
 
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27] The joint team walked about nine hours to reach the fields. [@24] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24]
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28] The joint team walked about nine hours to reach the fields. [@24,28] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24]
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26]
 
 The site had slopes of up to 40 degrees. [@27] There was no footpath to the site, so officers had to open a new route through dense forest with little light. [@27] Some personnel gave up and did not reach the field because the route was so difficult and long. [@27] The growers planted similar cannabis seedlings at their homes or huts as a timing reference and only climbed to harvest the hill fields when the home plants were ready. [@27]
+
+The cannabis plants were about one to two metres tall. [@28]
