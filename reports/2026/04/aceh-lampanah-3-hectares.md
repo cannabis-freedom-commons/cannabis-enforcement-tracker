@@ -32,6 +32,10 @@ sources:
     publisher: Tribrata News Polda Aceh
     date: 2026-04-29
     language: id
+  - title: Police Find and Destroy a Total of 20 Hectares of Marijuana Field in Aceh Besar
+    url: https://inp.polri.go.id/artikel/police-find-and-destroy-a-total-of-20-hectares-of-marijuana-field-in-aceh-besar
+    publisher: Indonesian National Police
+    date: 2026-04-30
 media:
   - kind: photo
     url: https://aceh.antaranews.com/berita/405237/polda-aceh-musnahkan-20-hektare-ladang-ganja
@@ -60,5 +64,8 @@ young farmers taking part. [@1,2]
 
 Both outlets said plants were pulled and burned on site as part of Aceh police
 efforts to discourage cultivation. [@1,2] No arrests were reported. [@1,2]
+
+The Indonesian National Police's English account likewise said about 20 hectares
+were found and three hectares were destroyed at Lampanah on 29 April. [@3]
 
 ANTARA published a police handout photograph of the burning. [@1]
