@@ -153,6 +153,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-02
     language: hi
+  - title: અમદાવાદ એરપોર્ટ પર ડ્રગ્સના મોટા જથ્થા સાથે બે લોકોની ધરપકડ
+    url: https://rakhewaldaily.com/news/two-people-arrested-at-ahmedabad-airport-with-a-large-quantity-of-drugs
+    publisher: રખેવાળ
+    date: 2026-11-02
+    language: gu
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -212,13 +217,15 @@ open_questions:
   - The page uses hybrid cannabis in its headline and hydroponic ganja in its body for the same 13.012 kg seizure, while the existing hydroponic description is retained.
   - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
   - 'Left out, as its quotation was not found in Janta Se Rishta: The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act, 1985, India''s main drug law, and both passengers were arrested.'
+  - The submitted page gives only its publication date of 2 November 2026 and no separate interception time; the existing incident date of 1 November 2026 is retained.
+  - The Gujarati spellings મોહમ્મદ અકીલ શેખ and કનીઝ ઝહેરા મોમિન are transliteration variants of the Mohammed Akeel Sheikh and Kaniz Zahera Momin names in the existing report.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
 Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25,26,27] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,26,27]
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,26,27,28]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
@@ -228,10 +235,10 @@ term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24,26,27] Customs estimated
 soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19,20,22,26]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22,24,26] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22,24,26,28] Customs
 said further investigation into the wider supply chain was under way, with the
-two held in custody while investigators probe links to organised networks. [@1,26]
+two held in custody while investigators probe links to organised networks. [@1,26,28]
 
-The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13,17,19]
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13,17,19,28]
 
 The packets were hidden inside transparent polythene packets in the trolley bags. [@26]
