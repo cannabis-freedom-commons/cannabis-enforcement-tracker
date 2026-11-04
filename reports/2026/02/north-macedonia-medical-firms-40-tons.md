@@ -35,6 +35,10 @@ sources:
     url: https://www.occrp.org/en/news/record-40-tonne-cannabis-haul-found-in-north-macedonia
     publisher: OCCRP
     date: 2026-02-09
+  - title: How cannabis legalization reshaped illicit markets in the Western Balkans
+    url: https://globalinitiative.net/analysis/cannabis-legalization-illicit-markets-western-balkans/
+    publisher: Global Initiative
+    date: 2026-04-30
 open_questions:
   - The published total is "more than 40 tons" of flowers and biomass; the 1,300 bottles of cannabis oil seized near Skopje are counted separately from that weight.
   - The Interior Ministry disclosed no arrests or named suspects and said the nationwide operation was continuing, so the total may have grown after 7 February.
@@ -43,13 +47,19 @@ open_questions:
   - This account says around 40 tons while the existing report records more than 40 tons; the existing total is retained.
   - The OCCRP banner photograph shows Serbian officials commenting on the Serbian seizure, not the North Macedonian sites, so no media entry for this event is listed.
   - OCCRP reports a record 40 tonnes while the existing report records more than 40 tons; the existing total is retained.
+  - The analysis presents a combined 45-tonne regional total, while the tracker keeps the North Macedonia 40-ton raids and the Serbia 5-ton Konjuh seizure as separate country reports.
+  - The analysis says 40 tonnes in North Macedonia, while the existing report records more than 40 tons; the existing total is retained.
+  - The analysis gives only a week range from late January to early February, not a precise raid date; 7 February 2026 remains the incident date from the existing report's account that the operation began on 5 February.
+  - The analysis mentions pistols, automatic rifles and handheld rocket launchers without attributing them to a specific country, so no new weapons figure is added to the North Macedonia report.
+  - Much of the analysis covers legalization history, national seizure totals, licensing numbers and other countries' laws, which belongs to the CFI history rather than this seizure report.
+  - The page image is a generic screenshot illustration with no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 ## Record raids on licensed growers
 
-Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3]
+Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4,5] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3]
 
-The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4] The firms and the people involved were not officially named. [@1]
+The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4,5] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4] The firms and the people involved were not officially named. [@1]
 
 ## Reactions
 
