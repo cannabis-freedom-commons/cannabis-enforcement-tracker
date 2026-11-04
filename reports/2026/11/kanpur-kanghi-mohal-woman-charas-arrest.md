@@ -66,6 +66,11 @@ sources:
     url: https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-woman-arrested-drug-smuggling-tea-stall-charas-seized-139588925.html
     publisher: Bhaskar English
     date: 2026-11-04
+  - title: कानपुर में डेढ़ करोड़ की चरस के साथ महिला गिरफ्तार, प्रेमी के जेल जाने के बाद संभाल रही थी नशे का कारोबार
+    url: https://royalbulletin.in/uttar-pradesh/kanpur/woman-arrested-with-hashish-worth-rs-15-crore-in-kanpur/article-251774
+    publisher: Royal Bulletin
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -84,25 +89,26 @@ open_questions:
   - The new account lists the aliases Nasreen, Bano and Guddi, while the existing report says she was also called Chacha, so the alias accounts differ.
   - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
   - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
+  - The page image is labelled only with the article headline and its file name indicates a screenshot, so it is not established to show this seizure and no media entry is included.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
-Kanghi Mohal late on Tuesday night. [@1,3] She is a resident of Kanghi Mohal in
+Kanghi Mohal late on Tuesday night. [@1,3,6] She is a resident of Kanghi Mohal in
 Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
-late-night tip. [@1,2]
+late-night tip. [@1,2,6]
 
 Police put the international-market value of the seized charas at about Rs 1.5
-crore. [@1,2,3,4,5] Officers said they had been receiving information for several days
-that charas was being sold in Kanghi Mohal. [@1,3] The roadside detention and
-search caused alarm among people nearby. [@1]
+crore. [@1,2,3,4,5,6] Officers said they had been receiving information for several days
+that charas was being sold in Kanghi Mohal. [@1,3,6] The roadside detention and
+search caused alarm among people nearby. [@1,6]
 
 Police Commissioner Raghuveer Lal said Shabnam's husband Raees Ahmed had died
-some time earlier. [@1,3] After his death, she lived with her partner Riyaz
-Khatola. [@1,3] Riyaz had earlier been sent to jail for allegedly selling charas
-while carrying an illegal pistol and had not been released. [@1,2] Police said
-Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4]
-Besides selling, she also smuggled charas, police said. [@1] Women police were
-questioning her to trace her associates. [@1,3]
+some time earlier. [@1,3,6] After his death, she lived with her partner Riyaz
+Khatola. [@1,3,6] Riyaz had earlier been sent to jail for allegedly selling charas
+while carrying an illegal pistol and had not been released. [@1,2,6] Police said
+Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6]
+Besides selling, she also smuggled charas, police said. [@1,6] Women police were
+questioning her to trace her associates. [@1,3,6]
 
 The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
 
