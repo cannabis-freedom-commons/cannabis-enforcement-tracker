@@ -29,6 +29,11 @@ sources:
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
     publisher: eKathimerini
     date: 2026-11-04
+  - title: 'Από την Ταϊλάνδη μέσω Κατάρ στην Αθήνα: Τα 207 κιλά κάνναβης που ταξίδεψαν ως «ενδύματα»'
+    url: https://www.iefimerida.gr/ellada/207-kila-kannabis-taxidepsan-tailandi-athina
+    publisher: iefimerida.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -37,12 +42,19 @@ open_questions:
   - The 1,000,000-euro figure is the authorities' estimate of expected gain from further trafficking, not a confirmed sale value.
   - The new account rounds the amount to 207 kilograms while the existing report records 207.466 kg; the existing precise figure is retained.
   - No reason was given for announcing the August seizure on 4 November 2026, more than two months later.
+  - The names of the declared sender and recipient companies were not published, only their general locations.
+  - The outcome of the forensic examination of the packages and any later identification of suspects was not reported.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
     media_url: https://www.ekathimerini.com/wp-content/uploads/2026/11/marijuana_airport-960x600.jpg?v=1793795560
     publisher: eKathimerini
     caption: 'Photo of the marijuana consignment found in storage at Athens airport. Photo: Hellenic Police handout.'
+  - kind: photo
+    url: https://www.iefimerida.gr/ellada/207-kila-kannabis-taxidepsan-tailandi-athina
+    media_url: https://www.iefimerida.gr/sites/default/files/styles/big_article_image/public/2026-11/kannavi-aerodromio-67.jpg.webp?itok=ELQbWs8b
+    publisher: iefimerida.gr
+    caption: Seized packages described as the 207 kg of raw cannabis.
 ---
 
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
@@ -54,15 +66,17 @@ had received. [@1] No arrested people, suspects or charges are named in the
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1]
+that cannabis. [@1,3]
 
 Investigators traced the route of the pallets, which had apparently started by
-air from Thailand. [@1,2] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2] Police estimated that the expected financial gain
+air from Thailand. [@1,2,3] The accompanying documents for the shipment had declared
+the cargo as clothing. [@1,2,3] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2] The investigation was continuing so that the case could be fully examined.
+[@1,2,3] The investigation was continuing so that the case could be fully examined.
 [@1]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
+
+The pallets travelled by air from Thailand to Athens via Qatar. [@3] The cannabis was found on 19 August 2026 in the Goldair company's temporary goods-storage warehouse at Eleftherios Venizelos airport. [@3] The sender was listed as a Thailand-based company and the recipient as a company with an address on Evangelistrias street in central Athens. [@3] After the seizure officers removed the drugs from the pallets and replaced them with other packages empty of drugs as part of a controlled delivery. [@3] No one came forward to collect the load, so the controlled delivery ended without result. [@3] A forensic-investigations crew was called to examine the packages and collect evidence that could lead to identification of those involved. [@3]
