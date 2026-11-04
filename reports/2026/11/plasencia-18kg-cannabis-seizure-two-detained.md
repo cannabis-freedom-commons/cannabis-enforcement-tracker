@@ -56,6 +56,11 @@ sources:
     publisher: Hespress
     date: 2026-11-03
     language: ar
+  - title: مقتل شاب مغربي طعناً بإسبانيا.. والشرطة توقف المشتبه فيه الرئيسي
+    url: https://www.elhadat24.com/international/295245/
+    publisher: الحدث 24
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The 5 grams of cocaine and the vehicle reported alongside the drugs are not cannabis and are excluded from the cannabis figure.
   - No street value for the seized cannabis was published.
@@ -66,6 +71,8 @@ open_questions:
   - Hespress identifies the victim as 22-year-old Moroccan Imad, a name and nationality not recorded in the existing report.
   - Hespress does not mention that the hashish was in tablets, a detail in the existing report from Spanish outlets.
   - The Hespress lead photo is credited only to the Spanish police page with a 2025 upload path, so it is not established to show this seizure and no media entry is added.
+  - The Elhadat 24 lead image is presented only with the article title and no caption or credit establishing it shows this seizure, so no media entry is included.
+  - Elhadat 24 reports the cannabis weights without mentioning the two suitcases or hashish tablets described by Spanish outlets, so those details continue to rest on the earlier sources.
 ---
 
 The Civil and Instruction Section of the Plasencia court ordered prison on
@@ -74,21 +81,23 @@ early hours of Friday. [@1,4] The main detainee is a 19-year-old Plasencia nativ
 arrested at his home shortly after the events, while a 26-year-old second man
 was released provisionally with charges after both appeared before the court.
 [@1] The court imposed pretrial detention without bail on the main suspect and
-release with charges for the second man. [@3]
+release with charges for the second man. [@3,6]
 
 During the operation officers seized two suitcases containing 16 kilograms of
-hashish in tablets and 2 kilograms of marijuana. [@1,4,5] Police say the 26-year-old
+hashish in tablets and 2 kilograms of marijuana. [@1,4,5,6] Police say the 26-year-old
 had allegedly tried to help the suspect evade justice and to hide an important
 quantity of drugs from the flat where the suspect lived in order to leave the
 city. [@2] Officers also seized two simulated firearms and 17 bladed weapons of
-different types during the home intervention. [@1,5] Officers also reported 5
+different types during the home intervention. [@1,5,6] Officers also reported 5
 grams of cocaine and a vehicle, which are excluded from the cannabis total
-above. [@3] Police later recovered a machete that the examined evidence suggests
-could have been the weapon used in the killing. [@3]
+above. [@3,6] Police later recovered a machete that the examined evidence suggests
+could have been the weapon used in the killing. [@3,6]
 
 The stabbing happened at about 02:00 on Friday at the junction of Talavera and
-Encarnación streets in Plasencia. [@1,4,5] Police and then medical services assisted
+Encarnación streets in Plasencia. [@1,4,5,6] Police and then medical services assisted
 the victim and took him to Virgen del Puerto hospital, where his death was
-confirmed at about 06:00. [@1] After witness statements, police went to a
+confirmed at about 06:00. [@1,6] After witness statements, police went to a
 dwelling near the scene and intercepted the two men, aged 19 and 26, as they
-tried to flee. [@3,5]
+tried to flee. [@3,5,6]
+
+The victim was a 22-year-old Moroccan youth. [@6] The victim was named as Imad. [@6]
