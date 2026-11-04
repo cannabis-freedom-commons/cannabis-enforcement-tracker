@@ -1,0 +1,63 @@
+---
+code: 0DE2TR
+added_at: "2026-11-04T16:51:24.492691Z"
+date: 2026-11-04
+country: ar
+place: Laboulaye, Córdoba
+coordinates: [-34.125, -63.39]
+precision: locality
+type: arrest
+also: [raid, seizure]
+title: Four held as Laboulaye raids seize 93 marijuana doses, 2 plants
+summary: >-
+  Córdoba's anti-drug police detained four men, two brothers and two cousins, in four raids in Laboulaye and Río Cuarto, dismantling an alleged family drug-selling network. Officers seized 93 marijuana doses, two cannabis plants and 1,987 seeds alongside cocaine, firearms, cash and indoor-cultivation equipment.
+figures:
+  arrested: 4
+  plants_destroyed: 2
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 2a409168fa942d8921adcae486a87543
+tags: [cordoba, laboulaye, fpa, marijuana, narcomenudeo]
+sources:
+  - title: Laboulaye. Cuantiosas dosis de droga, armas y detenidos tras allanamientos de la FPA
+    url: https://www.nexosdelsur.com/nota/231491
+    publisher: Nexos del Sur
+    date: 2026-11-04
+    language: es
+  - title: Cuatro detenidos en un operativo antidrogas entre Laboulaye y Río Cuarto
+    url: https://www.fmlibre937.com/website/cuatro-detenidos-en-un-operativo-antidrogas-entre-laboulaye-y-rio-cuarto/
+    publisher: FM Libre 93.7Mhz
+    date: 2026-11-04
+    language: es
+open_questions:
+  - No weight was published for the 93 marijuana doses, only doses, so no kilograms can be recorded.
+  - The 1,987 cannabis seeds have no figure field and are not counted as plants or weight.
+  - The 138 cocaine doses, firearms, scales, cash, car and dollars are mentioned only to explain the mixed event and are excluded from cannabis figures.
+  - The amount of US dollars seized and the type of car were not specified, and no cannabis-only valuation was published.
+  - The reports give no separate date for the raids; 4 November 2026 is the publication date and is used as the incident date.
+  - The detainees were not named and no charges, custody ruling or court outcome beyond transfer to the judiciary were reported.
+  - The pages carry seizure photos without captions establishing that they show this seizure, so no media entry is included.
+---
+
+Córdoba's Fuerza Policial Antinarcotráfico (FPA), the province's anti-drug
+police, detained four adult men in an operation against alleged drug selling in
+southern Córdoba. [@1] The detainees, two brothers and two cousins, were accused
+of forming a family organisation moving drugs for sale. [@1] Three men were
+detained in Laboulaye and the fourth was arrested in Río Cuarto with Córdoba
+police help on the prosecutor's orders. [@2] The four men and all seized items
+were placed at the disposal of the judiciary under National Drug Law 23.737,
+Argentina's national drug law. [@1]
+
+The case began with anonymous calls to the drug-complaint line 0800-888-8080 and
+led to four house searches, three in Laboulaye and one in Río Cuarto. [@2] In
+the searches officers seized 93 doses of marijuana, two cannabis plants and
+1,987 cannabis seeds as the cannabis component, alongside 138 doses of cocaine.
+[@1] Officers also seized four firearms, two precision scales, 1,721,800 pesos,
+an unspecified amount of US dollars, a car and equipment for indoor cannabis
+cultivation. [@1]
+
+Investigators said the alleged sales ran from a central kiosco, a small shop
+used as a street-level drug sale point, and two houses opposite it half a block
+from a school in Laboulaye. [@1] Investigators alleged the group brought drugs
+from Río Cuarto to Laboulaye and General Levalle for distribution and sale. [@2]
+
