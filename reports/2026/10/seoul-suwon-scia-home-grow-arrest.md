@@ -84,6 +84,11 @@ sources:
     publisher: 경찰연합신문
     date: 2026-11-03
     language: ko
+  - title: 주택가 건물서 대마 재배 혐의 20대 두 번째 구속…수원중수청 1호 마약사건
+    url: https://www.callnews.co.kr/news/articleView.html?idxno=59786
+    publisher: 콜뉴스24
+    date: 2026-11-02
+    language: ko
 open_questions:
   - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
   - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
@@ -105,6 +110,8 @@ open_questions:
   - The only image on the submitted page shows the Suwon office signboard-unveiling ceremony on 7 October, not the home, plants or seizure, so no media entry is listed.
   - The submitted page refers to a 20s suspect in the singular while the existing report records two men in their 20s.
   - The page gives no seizure amount, cultivation location, plant count or separate incident date for the cannabis case.
+  - The only image listed for the submitted page shows Suwon office staff at work, not the home, plants or seizure, so no media entry is included.
+  - The page notes it was reconstructed from a Newsis dispatch, so it is not independent of the existing Newsis account.
 ---
 
 A man in his twenties, identified only as Mr A, was arrested at his home in a
@@ -126,7 +133,7 @@ the scale of the cultivation and other details of the allegation could not be
 disclosed because the investigation was still under way. [@2] He was understood
 to claim that he had not distributed the cannabis he grew. [@3]
 
-The arrest is the Suwon office's first drug case since it opened. [@1,4,5,6,9,11] Its
+The arrest is the Suwon office's first drug case since it opened. [@1,4,5,6,9,11,14] Its
 narcotics joint investigation division is the only dedicated unit of its kind
 among regional Serious Crime Investigation Agency offices, formed after the
 Government Joint Investigation Headquarters for Drug Crimes under the Suwon
@@ -134,6 +141,6 @@ District Prosecutors' Office was dissolved. [@1,4] The division brings together 
 people from the investigation agency, the police, the Immigration and Foreign
 Policy Headquarters and customs. [@1,7]
 
-Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12]
+Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14]
 
-On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13]
+On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13,14]
