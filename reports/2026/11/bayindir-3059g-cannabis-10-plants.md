@@ -136,6 +136,11 @@ sources:
     publisher: Yeni Birlik Gazetesi
     date: 2026-11-01
     language: tr
+  - title: 'İZMİR’DE UYUŞTURUCU OPERASYONU: 3 KİLO ESRAR, 10 KÖK HİNT KENEVİRİ ELE GEÇİRİLDİ'
+    url: https://www.yozgatgazetesi.com/iha-haberleri/izmir-de-uyusturucu-operasyonu-3-kilo-esrar-10-koek-hint-keneviri-ele-gecirildi-297728.html
+    publisher: Yozgat Gazetesi
+    date: 2026-11-01
+    language: tr
 open_questions:
   - The accounts give no separate date for the search; 1 November 2026 is the publication date of the earliest report.
   - No charge, court date or outcome was reported; the suspect was still being processed at the police station.
@@ -162,17 +167,17 @@ media:
 ---
 
 Police in Bayındır, a district of İzmir province in western Turkey, raided a
-house. [@3,4,5,6,7,9,10,11,12,15,16,17,18,19,21,22,23] The owner of the house was detained. [@3,4,5,7,11,12,13,14,15,16,17,18,19,20,21,23]
+house. [@3,4,5,6,7,9,10,11,12,15,16,17,18,19,21,22,23,24] The owner of the house was detained. [@3,4,5,7,11,12,13,14,15,16,17,18,19,20,21,23,24]
 
 Officers found 3 kilo 59 gram of esrar, 2 kilo 744 gram of cannabis seeds and 10
-cannabis plants, all seized, at the property. [@1,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23] The search covered the house
-and its outbuilding, which belong to the suspect. [@1,5,6,8,9,15,20] Esrar is the Turkish term
+cannabis plants, all seized, at the property. [@1,4,5,6,7,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] The search covered the house
+and its outbuilding, which belong to the suspect. [@1,5,6,8,9,15,20,24] Esrar is the Turkish term
 for cannabis, and Hint keneviri is the Turkish name for the cannabis plant. [@1]
 The search was carried out by teams from the Ödemiş narcotics crimes bureau and
-the Bayındır district police department. [@1,5,6,8,9,10,12,13,15,20,21,22] The teams acted on an address in
+the Bayındır district police department. [@1,5,6,8,9,10,12,13,15,20,21,22,24] The teams acted on an address in
 Bayındır identified in advance. [@2,6,8]
 
 The operation was part of work against the trade in and use of drugs in the
 district. [@2,6,8] The suspect was held in gözaltı, Turkish police custody, and was
 to be sent in person to the judicial authorities after processing at the police
-station. [@1,5,6,10,12,15,21,22]
+station. [@1,5,6,10,12,15,21,22,24]
