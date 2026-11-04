@@ -49,6 +49,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-04
     language: zh
+  - title: W Szepetowce odbędzie się proces mężczyzny, u którego skonfiskowano ponad 400 krzewów konopi
+    url: https://ua.news/pl/ukraine/u-shepetivtsi-suditimut-cholovika-u-iakogo-viluchili-ponad-400-kushchiv-konopel
+    publisher: UA.NEWS
+    date: 2026-11-04
+    language: pl
 open_questions:
   - The article gives no separate date for the search or cultivation; 4 November 2026 is its publication date and is used as the incident date.
   - No weight for the dried plants in the attic was published, so no kilograms can be recorded.
@@ -61,16 +66,16 @@ open_questions:
 ---
 
 A 33-year-old man in Shepetivka will stand trial on suspicion of illegally
-growing narcotic plants on a large scale. [@1,2,3,4,5] Police investigators said he had
+growing narcotic plants on a large scale. [@1,2,3,4,5,6] Police investigators said he had
 sown a sizable plot with cannabis at his home and yard. [@1]
 
 During an authorised search, officers found more than 400 bushes growing in the
-open and dried narcotic-containing plants in the attic of the house. [@1,2,3,4,5] Police
-seized the more than 400 cannabis bushes and the dried plants from him. [@1,2]
-Forensic examination confirmed that the seized material is cannabis. [@1,2,3,4,5]
+open and dried narcotic-containing plants in the attic of the house. [@1,2,3,4,5,6] Police
+seized the more than 400 cannabis bushes and the dried plants from him. [@1,2,6]
+Forensic examination confirmed that the seized material is cannabis. [@1,2,3,4,5,6]
 
 Investigators completed the pre-trial investigation and sent an indictment to
-court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2,3,5] The man faces
+court under Part 2 of Article 310 of Ukraine's Criminal Code. [@1,2,3,5,6] The man faces
 serious punishment if convicted, with no verdict yet reported. [@1]
 
-The man was caught in September. [@2,4,5] Investigators from the Shepetivka District Police Department, under the procedural guidance of the prosecutor’s office, completed the pretrial investigation and submitted the indictment to the court. [@2,4,5]
+The man was caught in September. [@2,4,5,6] Investigators from the Shepetivka District Police Department, under the procedural guidance of the prosecutor’s office, completed the pretrial investigation and submitted the indictment to the court. [@2,4,5,6]
