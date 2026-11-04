@@ -20,6 +20,11 @@ media:
     media_url: https://www.palenciaenlared.es/wp-content/uploads/2026/11/bolsas-transparentes-cogollos-cannabis.jpeg
     publisher: Palencia en la Red
     caption: Two transparent bags with cannabis buds from the intercepted Palencia parcel.
+  - kind: photo
+    url: https://www.elnortedecastilla.es/palencia/detenido-palencia-comprar-droga-correo-20261104135618-nt.html
+    media_url: https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/local/2026/11/04/DROGA-RtDA566SjWbrXzZeyuSBk9I-1200x840@El%20Norte.jpg
+    publisher: El Norte de Castilla
+    caption: 'Photo of the cocaine and cannabis from the intercepted Palencia parcel. Photo: El Norte de Castilla'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2cd701f89a7c9e534911cf896f4b1fae
@@ -50,6 +55,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-04
     language: es
+  - title: Detenido en Palencia por comprar droga por correo | El Norte de Castilla
+    url: https://www.elnortedecastilla.es/palencia/detenido-palencia-comprar-droga-correo-20261104135618-nt.html
+    publisher: El Norte de Castilla
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the inspection; 4 November 2026 is the publication and police-report date and is used as the incident date.
   - The reported value of almost 5,000 euros covers cocaine and marijuana together, so no cannabis-only value is recorded.
@@ -57,19 +67,20 @@ open_questions:
   - No origin for the parcel, sender details, or later court outcome were published.
   - The La Noción page image is captioned only as Foto de la noticia and is not established to show this seizure, so no media entry from that page is included.
   - The OndaCero page publishes images but the captured text provides no caption establishing that they show this seizure, so no media entry from this source is included.
+  - The new page captions its photo as showing cocaine and hashish while its body reports 274 grams of marijuana, so the caption terminology differs from the recorded cannabis description.
 ---
 
 The Guardia Civil detained the recipient of a parcel containing cocaine and
 marijuana in Palencia after finding it during an inspection at a parcel company.
-[@1,4,5] The arrested person is under investigation as the alleged perpetrator of a
-drug-trafficking offence against public health. [@1] After the discovery,
+[@1,4,5,6] The arrested person is under investigation as the alleged perpetrator of a
+drug-trafficking offence against public health. [@1,6] After the discovery,
 officers identified the recipient, detained that person, and placed the detainee
-and the proceedings at judicial disposal. [@1,4,5]
+and the proceedings at judicial disposal. [@1,4,5,6]
 
 Officers had flagged the shipment during the inspection because it aroused
-suspicion that it could contain illicit substances. [@1,5] Removing the outer
+suspicion that it could contain illicit substances. [@1,5,6] Removing the outer
 wrapping, they found 50.55 grams of cocaine and 274 grams of marijuana, the
-latter being the cannabis amount recorded here. [@1,4,5] Palencia en la Red
+latter being the cannabis amount recorded here. [@1,4,5,6] Palencia en la Red
 independently reports the same finding of 50.55 grams of cocaine and 274 grams
 of marijuana after the outer wrapping was removed. [@2] Radio Palencia likewise
 reports 50.55 grams of cocaine and 274 grams of marijuana, with the whole haul
@@ -77,6 +88,6 @@ given a combined illicit-market value of almost 5,000 euros. [@3]
 
 The Guardia Civil estimated that the combined seized substances would be worth
 almost 5,000 euros on the illicit market, so no cannabis-only value is recorded.
-[@1,4,5] The published accounts give no origin for the parcel and no details about
+[@1,4,5,6] The published accounts give no origin for the parcel and no details about
 its sender, nor the detainee's situation after being placed at judicial
 disposal. [@1]
