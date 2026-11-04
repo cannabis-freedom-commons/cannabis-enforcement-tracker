@@ -35,6 +35,11 @@ sources:
     publisher: صدى البلد
     date: 2026-10-29
     language: ar
+  - title: ضبط عنصر إجرامي بالأقصر بحوزته 1.5 كيلو حشيش و250 جرام شابو وسلاح ناري
+    url: https://gate.ahram.org.eg/News/5974447.aspx
+    publisher: بوابة الأهرام
+    date: 2026-10-29
+    language: ar
 open_questions:
   - Neither report gives a separate date for the arrest; 29 October 2026 is their publication date.
   - No amount was given for the cash seized, and police did not put a value on the drugs.
@@ -42,6 +47,7 @@ open_questions:
   - Both accounts relay the same police statement and give the same figures.
   - The submitted page's only picture is a generic handcuffs image captioned as showing the arrest, with no credit, so it was not confirmed as a photograph of this arrest and was not listed as media.
   - El Balad reports that the man said he kept the weapon to protect his criminal activity, while the existing account, citing Masrawy, says he cited self-defence.
+  - The Al-Ahram page captions its main picture as an archival jail image (حبس - أرشيفية) served from a July 2026 file for this October 2026 arrest, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Luxor's Al-Bayadiya district arrested a man in the Al-Habil area,
@@ -49,21 +55,21 @@ describing him as a highly dangerous criminal suspect. [@2] The man, identified
 in the reports only by the initials M. A., was a 35-year-old unemployed resident
 of the police station's district with prior criminal records, police said. [@1,3]
 He was a fugitive from a five-year prison sentence in a firearms and drugs case
-and was also wanted in a separate theft case. [@2,3] Officers from the Al-Bayadiya
+and was also wanted in a separate theft case. [@2,3,4] Officers from the Al-Bayadiya
 police station's investigations unit, led by Major Ayman Mahrous, arrested him
-after the public prosecution authorised the search. [@1,3] Luxor's security
+after the public prosecution authorised the search. [@1,3,4] Luxor's security
 director, Major General Jameel Hassan, and the head of criminal investigations,
-Major General Mohamed Adel, were notified of the arrest. [@1,3]
+Major General Mohamed Adel, were notified of the arrest. [@1,3,4]
 
 The search found about 1.5 kg of hashish, the resin of the cannabis plant, and
-about 250 g of a crystalline drug known in Egypt as shabu. [@1,3] Officers also
+about 250 g of a crystalline drug known in Egypt as shabu. [@1,3,4] Officers also
 seized a sum of money, a mobile phone, a single-barrel shotgun and one cartridge
-of the same gauge. [@1,3]
+of the same gauge. [@1,3,4]
 
 Police said he admitted holding the drugs for sale and keeping the weapon and
 ammunition for self-defence, and that he used the phone to contact customers and
-the money came from his drug sales. [@1] Prosecutors in Luxor ordered him held
+the money came from his drug sales. [@1,4] Prosecutors in Luxor ordered him held
 for four days pending investigation, with the detention renewable at the legal
-deadline. [@2,3]
+deadline. [@2,3,4]
 
-The investigation was supervised by the general prosecutor of Luxor's prosecution offices. [@3]
+The investigation was supervised by the general prosecutor of Luxor's prosecution offices. [@3,4]
