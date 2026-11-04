@@ -27,18 +27,25 @@ sources:
     url: https://www.starnewskorea.com/en/music/2026/10/28/2026102814122778817
     publisher: StarNews Korea
     date: 2026-10-28
+  - title: 【快讯】金巴达，大麻嫌疑被求刑3年有期徒刑……“痛彻心扉地反省，绝不再碰”
+    url: https://www.starnewskorea.com/zh/music/2026/10/28/2026102814122778817
+    publisher: StarNews Korea
+    date: 2026-10-28
+    language: zh
 open_questions:
   - Sentencing is scheduled for 25 November 2026 at 2 p.m.; no outcome has been reported in the opened sources.
   - Neither opened English account states a weight for the cannabis Kim possessed or smoked.
   - The opened accounts do not give the Sokcho court case number.
+  - This Chinese machine-translated version renders the arrest timing as “上月3月”, ambiguous on its own, so the March 2026 dating continues to rest on the existing English accounts.
+  - The page image is captioned as a portrait of singer Kim Bada and is not established to show the hearing or seizure, so no media entry is included.
 ---
 
-Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2] The court set sentencing for 2 p.m. on 25 November. [@1,2]
+Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3] The court set sentencing for 2 p.m. on 25 November. [@1,2]
 
-Police arrested the 54-year-old singer, whose legal name is Kim Jung-nam, in March 2026 on suspicion of possessing and smoking cannabis in downtown Sokcho on 8 March. [@1,2] The court rejected a detention warrant at the time, finding insufficient risk of flight or destruction of evidence. [@2] Kim admitted all the charges during police questioning. [@1]
+Police arrested the 54-year-old singer, whose legal name is Kim Jung-nam, in March 2026 on suspicion of possessing and smoking cannabis in downtown Sokcho on 8 March. [@1,2] The court rejected a detention warrant at the time, finding insufficient risk of flight or destruction of evidence. [@2,3] Kim admitted all the charges during police questioning. [@1]
 
 ## A repeat case
 
-Kim told the court he smoked cannabis through a momentary lapse in judgment and deeply regretted his careless attitude toward the drug. [@1,2] He said attending a drug-addiction support group taught him again how drugs damage his body and the people who love him, and that he had vowed never to touch illegal cannabis again. [@1,2] His lawyer said Kim smokes only a small amount, never distributed it to others, attends a substance-addiction support group voluntarily and receives hospital treatment for loneliness, self-reproach and depressive symptoms after losing contact with family. [@1]
+Kim told the court he smoked cannabis through a momentary lapse in judgment and deeply regretted his careless attitude toward the drug. [@1,2,3] He said attending a drug-addiction support group taught him again how drugs damage his body and the people who love him, and that he had vowed never to touch illegal cannabis again. [@1,2] His lawyer said Kim smokes only a small amount, never distributed it to others, attends a substance-addiction support group voluntarily and receives hospital treatment for loneliness, self-reproach and depressive symptoms after losing contact with family. [@1]
 
 Both accounts describe Kim as a repeat offender who was sentenced in 2010 to one year in prison, suspended for two years, for buying cannabis through an acquaintance and smoking it with them. [@1,2] He released a handwritten apology in September 2026 saying he had reflected with deep remorse and would show change through future actions and music rather than words. [@1,2]
