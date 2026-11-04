@@ -55,6 +55,11 @@ sources:
     publisher: Sivas 360
     date: 2026-11-04
     language: tr
+  - title: 'Kağıthane''de iş yerine operasyon: 10 kilo skunk ele geçirildi'
+    url: https://www.haberkenti.com/kagithanede-is-yerine-operasyon-10-kilo-skunk-ele-gecirildi
+    publisher: Haber Kenti
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate raid date, so 4 November 2026 is the publication date used as the incident date.
   - No charges, custody ruling or court outcome for the two detained suspects were reported.
@@ -62,16 +67,18 @@ open_questions:
   - This account dates the raid to 3 November 2026, while the existing report uses the 4 November 2026 publication date as the incident date.
   - The page lead image has no caption linking it to this seizure, so no media entry is included.
   - The Sivas 360 lead image is captioned only with the article title and cannot be established to show this seizure, so no new media entry is added.
+  - This account notes that the Istanbul Governorship statement it summarises does not mention a narcotics dog, so the dog's reported role rests on the news-agency account alone.
+  - The page's lead image is captioned only with the article title and is not established to show this seizure, so no media entry is included.
 ---
 
 Istanbul Provincial Gendarmerie Command teams started work to catch suspects
 accused of manufacturing narcotic substances and preparing to release them onto
 the market. [@1,3,6] After technical and physical surveillance, the teams raided a
-workplace in Kağıthane, Istanbul. [@2,3] Officers detained two suspects during the
-raid on the Kağıthane workplace. [@1,3,4,5,6]
+workplace in Kağıthane, Istanbul. [@2,3,7] Officers detained two suspects during the
+raid on the Kağıthane workplace. [@1,3,4,5,6,7]
 
-Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5,6] The same
-search also seized three mobile phones alongside the drugs. [@2,3,4,5,6]
+Officers searching the workplace seized 10 kilograms of skunk. [@1,3,4,5,6,7] The same
+search also seized three mobile phones alongside the drugs. [@2,3,4,5,6,7]
 
 The Kağıthane workplace raid took place on 3 November 2026. [@4]
 
