@@ -116,6 +116,11 @@ sources:
     publisher: Harianjogja.com
     date: 2026-11-03
     language: id
+  - title: 'Foto : Kurir Ditangkap Bawa 44 Kg Ganja dari Sumut ke Depok dan Tangerang, Polisi Buru Bandar Halaman 1'
+    url: https://megapolitan.kompas.com/image/2026/11/04/05451661/kurir-ditangkap-bawa-44-kg-ganja-dari-sumut-ke-depok-dan-tangerang-polisi?page=1
+    publisher: KOMPAS.com
+    date: 2026-11-04
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -179,7 +184,7 @@ way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
 across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14,17] They said the load was intended
-for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18,19] Police said YT had already
+for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18,19,20] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
 the October load his third. [@1,5,7,8,9,11,12,13,14,17,18,19] They said he was promised Rp 1 juta for each
 kilogram he carried. [@1,6,10,11,13,15,17,18,19]
