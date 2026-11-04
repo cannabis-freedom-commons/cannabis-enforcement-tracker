@@ -29,6 +29,11 @@ media:
     media_url: https://lalluram.com/wp-content/uploads/2026/11/Charas-worth-40-lakhs-seized.jpg
     publisher: Lalluram
     caption: Photo published with the report on the Sugauli charas seizure and arrests.
+  - kind: photo
+    url: https://insiderlive.in/sugauli-charas-smugglers-arrested/
+    media_url: https://insiderlive.in/wp-content/uploads/2026/11/sugauli-750x375.jpg
+    publisher: Insider Live
+    caption: Photo published with the report on the Sugauli STF action, captioned as the 1.970 kg charas seizure with three smugglers arrested.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5210cadb02a25782ac18fd8ac6ed1cbe
@@ -69,6 +74,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: सुगौली में 40 लाख की चरस बरामद… STF ने तीन तस्करों को दबोचा
+    url: https://insiderlive.in/sugauli-charas-smugglers-arrested/
+    publisher: Insider Live
+    date: 2026-11-04
+    language: hi
 open_questions:
   - Neither article gives a separate calendar date for the checks and arrests; 3 November 2026 is the publication date used as the incident date.
   - The Rs 40 lakh valuation appears only in the Prabhat Khabar account as an international-market estimate.
@@ -86,10 +96,13 @@ open_questions:
   - The page carries a photo captioned with the headline, but the caption does not establish that it shows this seizure or these arrests, so no media entry is included.
   - This account words the valuation as more than Rs 40 lakh, while the existing report records about Rs 40 lakh.
   - This account was published on 4 November 2026 and refers to a Monday-night tip, giving no separate calendar date for the checks and arrests.
+  - This account dates the checks and arrests to the night of 2 November with a tip at about 8:40 pm, while the existing report uses the 3 November publication date as the incident date.
+  - Residence details differ slightly from earlier accounts, with this account naming Guddu Sah of Nayak Tola in Harpur, Rambalak Baitha of Lakshmipur in Raxaul and Dora Rai of Sikta with a current address at Gandak Chowk in Birgunj, Nepal.
+  - The page carries a second image with no caption establishing that it shows this seizure or these arrests, so no media entry is included for it.
 ---
 
 A joint team of the STF narcotics cell and Sugauli police arrested three alleged
-charas traffickers in East Champaran. [@2,3,4,5,6,7] The first man held was identified as
+charas traffickers in East Champaran. [@2,3,4,5,6,7,8] The first man held was identified as
 35-year-old Guddu Sah of Nayka Tola in the Rajepur station area, whose
 questioning named Ramabalak Baitha, linked to Lakshmipur in Sikta and Gandak
 Chowk in Birgunj, Nepal, and Dhoda Rai of Mahuai in Ghorasahan. [@1] Police
@@ -97,9 +110,9 @@ arrested Baitha and Rai in follow-up raids. [@1] Police sent all three to jail
 after completing legal formalities. [@1]
 
 Officers found 1.970 kg of a charas-like substance in four packets inside a bag
-carried by the first suspect. [@1,4,5,6,7] Police put the international-market value of
-the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4,6,7] Police also
-seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4,6,7]
+carried by the first suspect. [@1,4,5,6,7,8] Police put the international-market value of
+the seized charas, a cannabis resin, at about Rs 40 lakh. [@2,4,6,7,8] Police also
+seized two mobile phones and three Nepali SIM cards from the three accused. [@1,4,6,7,8]
 
 The STF narcotics cell in Patna had tipped police that a man carrying narcotics
 had left Raxaul and would travel via the Sugauli overbridge toward the station.
@@ -112,3 +125,5 @@ continuing. [@1]
 The checking team was formed under Sub-Divisional Police Officer Sadar-01 with circle inspector Munna Kumar, station chief Anish Kumar Singh and assistant sub-inspector Krishna Murari. [@5] The search was witnessed by magistrate-cum-BDO Antima Kumari after the suspect tried to flee on seeing the police team. [@5] Police said they had identified the supply chain from Nepal to buyers in Uttar Pradesh and that further action was under way. [@5]
 
 The tip said the consignment was being brought by train from Raxaul on Monday night. [@7]
+
+The STF narcotics cell received the tip at about 8:40 pm on 2 November that a man carrying Nepal-smuggled charas would arrive by train from Raxaul at Sugauli railway station. [@8]
