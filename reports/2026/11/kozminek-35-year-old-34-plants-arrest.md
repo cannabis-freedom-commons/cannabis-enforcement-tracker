@@ -68,6 +68,11 @@ sources:
     publisher: Ostrów Wielkopolski Nasze Miasto
     date: 2026-11-04
     language: pl
+  - title: Diler z Koźminka. Narkotykowy arsenał na prywatnej posesji
+    url: https://www.faktykaliskie.info/artykul/63746,diler-z-kozminka-narkotykowy-arsenal-na-prywatnej-posesji
+    publisher: Fakty Kaliskie
+    date: 2026-11-04
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search and arrest, so the publication date is used as the incident date.
   - The exact village or address of the property was not named beyond the Koźminek police area, so Koźminek is used as the place.
@@ -85,19 +90,21 @@ open_questions:
   - This roundup gives only its publication date of 4 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
   - This roundup says the man was detained and faces up to three years in prison without explicitly stating that a charge has already been filed, as the existing report records.
   - The page lead image is credited to Oscar Wong/Getty Images and described as illustrating reader habits in Ostrów Wielkopolski, indicating stock imagery rather than this seizure, so no media entry is added.
+  - The Fakty Kaliskie page gives only its publication date of 4 November 2026 and no separate date for the search and arrest.
+  - The Fakty Kaliskie page shows a picture captioned with the article title without a police credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the
 property where he lived in connection with growing cannabis and dealing drugs.
-[@1,2,3,4,5,6,7] He has already been charged and faces up to three years in prison. [@1,2,5,6,7]
+[@1,2,3,4,5,6,7,8] He has already been charged and faces up to three years in prison. [@1,2,5,6,7,8]
 
 During a search of the premises, they found a foil tunnel prepared for cannabis
 cultivation, holding seedlings at various growth stages as well as seed trays.
-[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5,6,7] They also seized more than 540 grams
+[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5,6,7,8] They also seized more than 540 grams
 of ready-made cannabis dried material, alongside more than 40 grams of a
-psychotropic substance described as an amphetamine derivative. [@1,2,3,4,5] Police put
+psychotropic substance described as an amphetamine derivative. [@1,2,3,4,5,8] Police put
 the estimated black-market value of the seized ready-made drugs at nearly 25,000
-zlotys. [@1,4,5]
+zlotys. [@1,4,5,8]
 
 Police said they continue work to identify the unlawful production and sale of
 intoxicants, and that successive batches of seized drugs will not reach the
