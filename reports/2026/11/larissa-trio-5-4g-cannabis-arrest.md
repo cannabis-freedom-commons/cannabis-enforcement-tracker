@@ -35,6 +35,11 @@ sources:
     publisher: kosmoslarissa.gr
     date: 2026-11-03
     language: el
+  - title: 'Λάρισα: Τρεις συλλήψεις για ναρκωτικά'
+    url: https://tinealarissa.gr/2026/11/03/%CE%BB%CE%AC%CF%81%CE%B9%CF%83%CE%B1-%CF%84%CF%81%CE%B5%CE%B9%CF%82-%CF%83%CF%85%CE%BB%CE%BB%CE%AE%CF%88%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CE%BD%CE%B1%CF%81%CE%BA%CF%89%CF%84%CE%B9%CE%BA%CE%AC-2/
+    publisher: Τι νέα Λάρισα
+    date: 2026-11-03
+    language: el
 open_questions:
   - Only one source for this event could be opened; searches in Greek and English found no second account of the same check and arrests.
   - No charge, prosecutor referral, or court outcome was reported for the three arrested people.
@@ -45,16 +50,16 @@ open_questions:
 ---
 
 Three people were arrested in Larissa at midday on Monday, 2 November 2026, for
-violating narcotics legislation after a police check. [@1,2,3] The Larissa Police
+violating narcotics legislation after a police check. [@1,2,3,4] The Larissa Police
 Directorate said the three people arrested were Greek nationals, described in
-Greek as imedapoi. [@1,2] The check that led to the arrests was carried out by
+Greek as imedapoi. [@1,2,4] The check that led to the arrests was carried out by
 officers of the Larissa Crime Prevention and Suppression Unit, the police unit
-known in Greece by the initials O.P.K.E. [@1,2,3]
+known in Greece by the initials O.P.K.E. [@1,2,3,4]
 
 During that check officers found a single nylon package containing unprocessed
 cannabis, termed akatergasti kannavi in Greek, with a police-stated weight of
-5.4 grams, or 0.0054 kilograms. [@1,2,3] Alongside the package officers also found a
-metal grinder carrying residual traces of cannabis. [@1,2,3]
+5.4 grams, or 0.0054 kilograms. [@1,2,3,4] Alongside the package officers also found a
+metal grinder carrying residual traces of cannabis. [@1,2,3,4]
 
 Police seized both the packaged cannabis and the grinder, and those seizures
-were followed by the arrests of the three people. [@1,2]
+were followed by the arrests of the three people. [@1,2,4]
