@@ -56,6 +56,11 @@ sources:
     publisher: Línea Directa
     date: 2026-11-04
     language: es
+  - title: Marina y SSPC aseguran 15 armas largas, droga y cinco vehículos en Sinaloa; golpean a grupos criminales
+    url: https://www.ejecentral.com.mx/nuestro-eje/marina-y-sspc-aseguran-15-armas-largas-droga-y-cinco-vehiculos-en-sinaloa-golpean-a-grupos-criminales
+    publisher: Eje Central
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the bag of marijuana, so no kilograms can be recorded.
   - The 6,182,000-peso figure covers all seized weapons, vehicles and drugs together, not marijuana alone, so no cannabis-only value is recorded.
@@ -67,21 +72,21 @@ open_questions:
 ---
 
 Federal authorities seized arsenal, vehicles and drugs in Sinaloa in two
-operations. [@1,3,4] The operations took place near Caminaguato and El Tepuche,
+operations. [@1,3,4,7] The operations took place near Caminaguato and El Tepuche,
 Sinaloa, according to the federal Security Cabinet. [@2] Marina personnel,
 through the Mexican Navy, acted in coordination with the federal public-security
 ministry and the Attorney General's Office. [@2,3,5]
 
 In Caminaguato, officers found four pickups apparently abandoned and, on close
 inspection, found inside 17 magazines, 326 cartridges of various calibres,
-tactical and communications equipment and a bag of marijuana. [@2,3,5] In El
+tactical and communications equipment and a bag of marijuana. [@2,3,5,7] In El
 Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long
 guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and
-communications equipment. [@2,3] Together the two operations totalled five
+communications equipment. [@2,3,7] Together the two operations totalled five
 vehicles, 15 long guns, 30 magazines and 1,681 cartridges of various calibres,
 plus marijuana and tactical and communications equipment. [@2,6]
 
 Everything seized was placed at the disposal of the competent authorities to
-open the corresponding investigation files. [@1,5] The federal Security Cabinet
+open the corresponding investigation files. [@1,5,7] The federal Security Cabinet
 said the seizure represented an economic impact of 6,182,000 pesos on criminal
-groups. [@1,6]
+groups. [@1,6,7]
