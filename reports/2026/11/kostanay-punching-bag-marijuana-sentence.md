@@ -25,20 +25,28 @@ sources:
     publisher: Информационное агентство "ТоболИнфо"
     date: 2026-11-03
     language: ru
+  - title: Житель Костаная получил семь лет колонии за наркотики в боксерской груше
+    url: https://liter.kz/zhitel-kostanaia-poluchil-sem-let-kolonii-za-narkotiki-v-bokserskoi-grushe-1793767719/
+    publisher: Liter.kz
+    date: 2026-11-04
+    language: ru
 open_questions:
   - No weight was published for the three packets of marijuana, so no kilograms figure is recorded.
   - The report uses the sentencing date of 3 November 2026; no separate detention or arrest date was published.
   - Only one source reporting this case could be opened and no second account was found.
   - The page's image is credited as an archive photo, so no media entry is listed because it is not shown to depict this seizure.
   - The verdict had not entered into force, so an appeal or later change remains possible.
+  - The new account states one kilogram of marijuana, while the existing report records no weight; whether to add 1 kg to figures needs review.
+  - The new account does not give a separate sentencing date; 4 November 2026 is only its publication date, while the existing report uses 3 November 2026.
+  - The page image is labelled as a Liter.kz photo collage and is not established to show this seizure, so no media entry is included.
 ---
 
 Court No. 2 on 3 November 2026 sentenced 29-year-old Aleksandr Nerush for
-unlawful transport and storage of drugs with intent to sell. [@1] Officers
+unlawful transport and storage of drugs with intent to sell. [@1,2] Officers
 detained Nerush together with the punching bag containing the banned substances
-before he could complete the plan. [@1] Nerush partly admitted guilt, saying he
+before he could complete the plan. [@1,2] Nerush partly admitted guilt, saying he
 had meant to keep the drugs for personal use and had no intent to distribute
-them. [@1]
+them. [@1,2]
 
 The court found that in August 2026 Nerush contacted an unidentified person
 online and offered his services as a courier who leaves stashes. [@1] After
@@ -52,7 +60,8 @@ and continued to store the drug there. [@1]
 The prosecutor asked for eight years' imprisonment. [@1] The court convicted him
 under part 3 of Article 297 of Kazakhstan's Criminal Code, which carries seven
 to 12 years with confiscation of property. [@1] It treated his young child as
-mitigation and found no aggravating circumstances. [@1] It imposed seven years
-in a medium-security penal institution. [@1] The verdict had not entered into
-force. [@1]
+mitigation and found no aggravating circumstances. [@1,2] It imposed seven years
+in a medium-security penal institution. [@1,2] The verdict had not entered into
+force. [@1,2]
 
+The charge described one kilogram of marijuana for sale in an especially large amount by a group acting in prior conspiracy. [@2]
