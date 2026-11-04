@@ -75,6 +75,11 @@ sources:
     publisher: The Opinion
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: 16χρονος συνελήφθη για 7,5 κιλά κάνναβης σε δέματα από τις ΗΠΑ'
+    url: https://www.news247.gr/ellada/thessaloniki-16xronos-sinelifthi-gia-75-kila-kannavis-se-demata-apo-tis-ipa/
+    publisher: News 24/7
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -103,12 +108,14 @@ neglecting his supervision, then released her on a prosecutor's verbal order.
 to the competent prosecutor. [@1,3,5,6,7,8,9]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10] They also seized two mobile phones. [@1,5,9,10]
+addressed to the boy. [@1,3,6,7,8,9,11] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11] They also seized two mobile phones. [@1,5,9,10,11]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1] Police in Thessaloniki made the arrest on Tuesday, 3
 November 2026. [@2,3,6,7,10]
+
+The controlled-delivery parcel came from the United States. [@11] The arrested boy is Albanian. [@11] The boy's father is also in prison for drug trafficking. [@11]
