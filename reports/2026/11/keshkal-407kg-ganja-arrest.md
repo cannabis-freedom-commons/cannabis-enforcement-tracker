@@ -38,34 +38,39 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 'केशकाल पुलिस की बड़ी कार्रवाई : राजस्थान का अंतरराज्यीय गांजा तस्कर गिरफ्तार, करोड़ों का गांजा जब्त'
+    url: https://www.haribhoomi.com/state-local/chhattishgarh/news/keshkal-ganja-seized-smuggler-arrested-police-ndps-act-property-120689
+    publisher: Haribhoomi
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
   - It is unclear whether the extra RJ-23-UB-8472 plate belonged to the seized XUV or another vehicle.
   - No independent outlet account of the Keshkal arrest was found; the video and text pages are two versions of the same Dainik Bhaskar story.
   - The story's combined figure of about Rs 4.88 crore spans the Keshkal and Kanker recoveries and is not recorded as this event's value; the report uses the Keshkal ganja-only valuation.
+  - The Haribhoomi account says the extra RJ-23-UB-8472 plate was found in the dickey, while the existing report records it as hidden in the car's dashboard.
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
-registration OD-10-V-7053 on a tip and searched it. [@2] The Keshkal case
-involved a Rajasthan youth arrested with 407 kg of ganja. [@1] The driver
+registration OD-10-V-7053 on a tip and searched it. [@2,3] The Keshkal case
+involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2] The driver
 identified himself during questioning as 31-year-old Deepak Kumar Mali of
 Nathukhedi in Pratapgarh district, Rajasthan. [@2] Police registered a case
-against him under Section 20(b) of the NDPS Act and arrested him. [@2] He was
-produced in court and sent to judicial remand. [@2]
+against him under Section 20(b) of the NDPS Act and arrested him. [@2,3] He was
+produced in court and sent to judicial remand. [@2,3]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
-the dickey. [@2] Officers recovered 407 kg 910 g of ganja from the car, which
+the dickey. [@2,3] Officers recovered 407 kg 910 g of ganja from the car, which
 police valued at Rs 2,03,95,500. [@2] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
 and Rs 1,100 in cash were also recovered from the accused. [@2] Police seized
 the ganja, car, mobile phone and other items together worth Rs 2,18,96,600 in
-total. [@2]
+total. [@2,3]
 
 The action was part of a district drive against ganja and liquor smuggling on
-the orders of superintendent of police Pankaj Chandra. [@2] Keshkal station
+the orders of superintendent of police Pankaj Chandra. [@2,3] Keshkal station
 in-charge Ritesh Mishra, sub-inspector Kanwal Singh Shori, assistant
 sub-inspectors Bhagat Singh Netam and Suresh Markam, head constables Ishwar
 Netam and Sanjay Bisen and other personnel took part. [@2] Police said the
 smuggling network is under investigation. [@2]
-
