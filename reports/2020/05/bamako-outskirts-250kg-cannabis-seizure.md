@@ -29,28 +29,33 @@ sources:
     publisher: AFRIKINFOS MALI
     date: 2020-05-27
     language: fr
+  - title: Au Mali, 250kg de cannabis saisis à l’extérieur de Bamako
+    url: https://maliactu.net/au-mali-250kg-de-cannabis-saisis-a-lexterieur-de-bamako/
+    publisher: Mali Actu
+    date: 2020-05-27
+    language: fr
 open_questions:
   - The seizure is said to have happened during the weekend, with no exact day given, so 27 May 2020, the publication date, is used as the incident date.
   - The weight is reported as nearly 250 kg, not an exact laboratory weight.
   - The names, nationalities, charges and custody status of the three arrested people were not reported, and no court outcome was reported.
   - The Afrikinfos Mali page reprints the RFI account and credits RFI, so no independent second account was available.
   - The RFI page image is captioned as generic cannabis plants from Wikimedia Commons, not this seizure, so no media entry is included.
+  - The only image on the Mali Actu page is captioned Image d’illustration and dates from 2016, so it does not show this seizure and no media entry is included.
 ---
 
 Officers of Mali's Office central des Stupéfiants, the country's central
 anti-drug office, seized nearly 250 kg of cannabis hidden on the outskirts of
-Bamako during the weekend before 27 May 2020. [@1] Three members of the
-suspected trafficking network were arrested in the operation. [@1] The office
-described the haul as its largest seizure since the start of the year. [@1]
+Bamako during the weekend before 27 May 2020. [@1,3] Three members of the
+suspected trafficking network were arrested in the operation. [@1,3] The office
+described the haul as its largest seizure since the start of the year. [@1,3]
 
 Investigators said they could now trace the cannabis precisely to Ghana,
 transiting through Burkina Faso with part delivered en route before networks
-supplied the Malian capital by a now-known strategy. [@1] Director General
+supplied the Malian capital by a now-known strategy. [@1,3] Director General
 Colonel Adama Tounkara said imported drugs are stored outside Bamako in farms or
-new houses in areas with more building sites than residents. [@2] From there,
+new houses in areas with more building sites than residents. [@2,3] From there,
 traffickers move them into Bamako in small quantities by tricycle, motorcycle or
-private vehicle, hidden in rice bags and other containers. [@1]
+private vehicle, hidden in rice bags and other containers. [@1,3]
 
 Investigators said they were counting on subregional anti-drug cooperation to
-arrest other suspects in at least four other countries. [@1]
-
+arrest other suspects in at least four other countries. [@1,3]
