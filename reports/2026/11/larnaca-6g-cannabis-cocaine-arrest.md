@@ -67,6 +67,11 @@ sources:
     publisher: Reporter
     date: 2026-11-03
     language: el
+  - title: 'Αλλάζει το «παζάρι» των ναρκωτικών: Η κοκαΐνη παίρνει τα πρωτεία'
+    url: https://www.politis.com.cy/astynomiko/1062854/allazei-to-pazari-ton-narkotikwn-h-kokaini-pairnei-ta-protia
+    publisher: Politis
+    date: 2026-11-04
+    language: el
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -88,10 +93,12 @@ open_questions:
   - The new page's still image carries only the caption ςςς and its embedded video thumbnail carries no caption establishing that either depicts this seizure, so no media entry is added.
   - The page carries six images with empty or file-name-only captions, so none is established to show this seizure and no media entry is added.
   - 'Left out, as its quotation was not found in Reporter: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
+  - The article also reports national seizure totals and drug-use trends, which belong to the CFI history and are left out of this enforcement report.
+  - The page header image carries only the caption Header Image, with nothing establishing that it shows this Larnaca seizure, so no media entry is added.
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
-of his car, home and two open areas. [@1,3,6,7,8,9,10] Officers from the Directorate for
+of his car, home and two open areas. [@1,3,6,7,8,9,10,11] Officers from the Directorate for
 Combating Organised Crime (DAOE), the Anti-Drugs Unit (YKAN) and YPEE stopped
 the car he was driving in a rural part of the district at about 5pm. [@1,5,7,10] The
 man was taken into custody and was expected to appear before Larnaca District
@@ -100,20 +107,22 @@ part of efforts to track down people systematically involved in drug
 trafficking, and Larnaca DAOE-YKAN is continuing investigations. [@1]
 
 Officers found two cylindrical packages of cocaine on him, with a combined gross
-weight of 100 grams, and 16 firecrackers in the car. [@1,4,5,10] In an open area near
+weight of 100 grams, and 16 firecrackers in the car. [@1,4,5,10,11] In an open area near
 his home, where he had also been seen earlier, a plastic container carefully
 hidden in the ground held 11 bags of cocaine with a combined gross weight of 826
-grams. [@1,4,5,9,10] In a second open area, where officers had seen the man before the
+grams. [@1,4,5,9,10,11] In a second open area, where officers had seen the man before the
 stop, they found another plastic container holding two bags of cocaine with a
-combined gross weight of 100 grams. [@1,9] A search of his home turned up a glass
+combined gross weight of 100 grams. [@1,9,11] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9,10] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9,10,11] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
 be proceeds of illegal activities. [@2]
 
-The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9]
+The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11]
 
-Police also seized four mobile phones. [@9]
+Police also seized four mobile phones. [@9,11]
+
+Police said the 32-year-old Greek Cypriot was arrested after surveillance and is believed to be a member of a drug-trafficking criminal network. [@11] Police said they will also investigate his financial records. [@11]
