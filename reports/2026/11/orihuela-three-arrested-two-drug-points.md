@@ -20,6 +20,11 @@ media:
     media_url: https://cbnoticias.com/upload/images/11_2026/8524_operativo-de-la-policia-nacional-en-orihuela.jpg
     publisher: CBNoticias
     caption: Police operation in Orihuela
+  - kind: photo
+    url: https://www.todoalicante.es/sucesos/droga-cambio-objetos-robados-tres-detenidos-dos-20261104112433-nt.html
+    media_url: https://s2.ppllstatics.com/todoalicante/www/multimedia/sucesos/2026/11/04/pn-k5XD-U40169980381AkH-1200x840@TodoAlicante.jpg
+    publisher: TodoAlicante
+    caption: 'Photo of the police operation in Orihuela. Photo: PN via TodoAlicante'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86293d0ace2812402dff42d403981b13
@@ -28,6 +33,11 @@ sources:
   - title: Tres detenidos en Orihuela por vender droga y aceptar presuntamente objetos robados como pago
     url: https://cbnoticias.com/art/25449/tres-detenidos-en-orihuela-por-vender-droga-y-aceptar-presuntamente-objetos-robados-como-pago/
     publisher: CBNoticias
+    date: 2026-11-04
+    language: es
+  - title: 'Droga a cambio de objetos robados: tres detenidos y dos puntos de venta desmantelados en Orihuela'
+    url: https://www.todoalicante.es/sucesos/droga-cambio-objetos-robados-tres-detenidos-dos-20261104112433-nt.html
+    publisher: TodoAlicante
     date: 2026-11-04
     language: es
 open_questions:
@@ -39,26 +49,25 @@ open_questions:
 ---
 
 National Police detained three people in Orihuela, a woman and two men aged 43
-to 50, for alleged drug trafficking and receiving stolen goods. [@1] The
-operation dismantled two drug sale points. [@1] After identifying the three
+to 50, for alleged drug trafficking and receiving stolen goods. [@1,2] The
+operation dismantled two drug sale points. [@1,2] After identifying the three
 occupants and obtaining judicial authorisation, officers searched both homes.
 [@1] The three detainees were placed at the disposal of the duty investigating
-court in Orihuela. [@1]
+court in Orihuela. [@1,2]
 
 Searches in both homes seized 44 grams of hashish and 45 grams of marijuana.
-[@1] Officers also seized tools for handling, measuring and distributing the
+[@1,2] Officers also seized tools for handling, measuring and distributing the
 substances. [@1] Officers also found nine mobile phones, 14 watches, 12 drills,
 machinery including sanders, radial saws, blowers and cement mixers, plus a
-bicycle and three scooters. [@1]
+bicycle and three scooters. [@1,2]
 
 Judicial Police in Orihuela opened the inquiry after learning of two homes
-suspected of distributing mainly hashish and marijuana. [@1] During surveillance
+suspected of distributing mainly hashish and marijuana. [@1,2] During surveillance
 officers saw heavy visitor traffic at both homes and found some people leaving
 carrying substances they had apparently just bought. [@1] Investigators found
 the suspects allegedly accepted valuable stolen objects in exchange for drugs.
 [@1] Police linked the seized objects so far to six burglaries with force
-committed in Orihuela. [@1] Victims were notified and were able to recover their
+committed in Orihuela. [@1,2] Victims were notified and were able to recover their
 belongings according to police information. [@1] The investigation continues to
 establish the origin of the remaining items and clarify any other possible
 offences. [@1]
-
