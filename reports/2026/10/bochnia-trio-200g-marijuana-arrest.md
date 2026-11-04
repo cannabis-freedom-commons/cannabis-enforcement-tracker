@@ -34,6 +34,11 @@ sources:
     publisher: Bochnia i Brzesko z bliska
     date: 2026-11-04
     language: pl
+  - title: Bochnia. Policjanci zabezpieczyli ponad 200 gramów marihuany. Trzy osoby zatrzymane
+    url: https://bochnianin.pl/163724/bochnia-policjanci-zabezpieczyli-ponad-200-gramow-marihuany-trzy-osoby-zatrzymane/
+    publisher: Bochnianin.pl
+    date: 2026-11-04
+    language: pl
 open_questions:
   - No exact laboratory weight beyond over 200 grams of marijuana was published.
   - No names of the three detained people were published, only their ages.
@@ -41,24 +46,25 @@ open_questions:
   - Only one accessible source for this event was found after searching in Polish and English.
   - The page carries a photo whose caption repeats the headline and does not establish what it depicts, so no media entry is listed.
   - The operation date of Friday 30 October is given in the text; the year 2026 is inferred from the 3 November 2026 publication date.
+  - The page's only image is a generic May 2019 police photo with an empty caption and does not show this seizure, so no media entry is listed.
 ---
 
 Police detained three residents of Bochnia aged 31, 34 and 36. [@1,2,3] All three
-detained people, aged 31, 34 and 36, are residents of the town of Bochnia. [@1]
+detained people, aged 31, 34 and 36, are residents of the town of Bochnia. [@1,4]
 The detentions were made during an operation carried out in the evening hours.
 [@1] Further proceedings in the case are conducted under the supervision of the
-District Prosecutor's Office in Bochnia. [@1,2,3]
+District Prosecutor's Office in Bochnia. [@1,2,3,4]
 
-Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3]
+Officers found marijuana both inside a flat and on one of the detained men. [@1,2,3,4]
 In total, officers seized more than 200 grams of marijuana during the
-verification operation. [@1,2,3] Bochnia officers said they detained three Bochnia
+verification operation. [@1,2,3,4] Bochnia officers said they detained three Bochnia
 residents and secured more than 200 grams of marijuana. [@1]
 
 On Friday 30 October, officers of the criminal division took action to verify
-findings about possible distribution of drugs in Bochnia. [@1,2,3] Officers placed
+findings about possible distribution of drugs in Bochnia. [@1,2,3,4] Officers placed
 the indicated building in Bochnia under observation, and that observation
 confirmed their suspicions about drug distribution. [@1] Criminal officers of
 the Bochnia County Police watched the indicated address and confirmed their
 findings. [@1]
 
-The three detained residents were a 36-year-old woman and two men aged 34 and 31. [@2,3]
+The three detained residents were a 36-year-old woman and two men aged 34 and 31. [@2,3,4]
