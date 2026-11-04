@@ -41,6 +41,11 @@ sources:
     publisher: El Tiempo
     date: 2026-11-03
     language: es
+  - title: Incautan 283 kilos de marihuana en Hobo, Huila; serían más de 566.000 dosis
+    url: https://diariodelhuila.com/incautan-283-kilos-de-marihuana-en-hobo-huila-serian-mas-de-566-000-dosis/
+    publisher: Diario del Huila
+    date: 2026-11-03
+    language: es
 open_questions:
   - The sources give no separate date for the seizure, so 3 November 2026, the publication date of both sources, is used as the incident date.
   - No arrests were reported; the driver abandoned the vehicle and fled, and no charges or court outcome were given.
@@ -48,6 +53,7 @@ open_questions:
   - The page's cover image credited only as a central-editorial-group file photo does not establish that it shows this seizure, so only the Hobo-operation photo is listed as media.
   - El Tiempo rounds the economic impact to 504 million pesos, while the existing report records the precise 504,296,000-peso figure from the earlier sources.
   - El Tiempo gives no separate date for the seizure; 3 November 2026 is its publication date, already used as the incident date.
+  - The Diario del Huila page embeds two photographs without captions or alt text identifying their content, so no media entry is added from this source.
 ---
 
 Troops of Mountain Battalion No. 9 of the Army's Ninth Brigade, with judicial
@@ -55,18 +61,18 @@ support from the National Police, seized 283 kilograms of marijuana in vereda
 Batán, in the municipality of Hobo, Huila. [@2,3] The driver abandoned the pickup
 truck and fled as troops closed in, and no arrests were reported. [@1,3] Troops
 placed the vehicle and the seized substance at the disposal of the competent
-authorities for judicial proceedings. [@2]
+authorities for judicial proceedings. [@2,4]
 
 Soldiers found several packages holding a total of 283 kilograms hidden in
-compartments in the seats and trunk of the pickup. [@1,3] The Army estimated the
+compartments in the seats and trunk of the pickup. [@1,3,4] The Army estimated the
 load at about 566,000 doses, preventing a significant quantity from continuing
-into illegal distribution circuits. [@1,3] It put the estimated impact on
-drug-trafficking economies at 504,296,000 pesos. [@1,3] At an average of 3,000
+into illegal distribution circuits. [@1,3,4] It put the estimated impact on
+drug-trafficking economies at 504,296,000 pesos. [@1,3,4] At an average of 3,000
 pesos per dose, it gave a potential street-sale value near 1,698 million pesos.
-[@1,3]
+[@1,3,4]
 
 Military intelligence had identified suspicious movements of a vehicle in that
-part of Huila. [@2,3] Troops then deployed to verify and control the area. [@1,3]
+part of Huila. [@2,3,4] Troops then deployed to verify and control the area. [@1,3]
 The Army said such Ninth Brigade operations keep drugs from reaching
 commercialization circuits with their social and public-health consequences.
 [@1]
