@@ -40,6 +40,11 @@ sources:
     publisher: Tokat Haber - Tokat Son Dakika Haberleri
     date: 2026-11-04
     language: tr
+  - title: Tokat'ta jandarma aramasında 700 gram kubar esrar bulundu, 1 şüpheli tutuklandı
+    url: https://www.sondakika.com/amp/haber-tokat-ta-jandarma-aramasinda-700-gram-kubar-esrar--20394641/
+    publisher: Son Dakika
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The suspect is identified only by the initials O.B. with age 24; no full name was published.
   - No specific charge or trial outcome beyond remand in custody was reported.
@@ -51,19 +56,19 @@ open_questions:
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00
-on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3] Officers
+on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3,4] Officers
 detained one suspect in connection with the vehicle and home searches. [@1,2]
 
 A judicial search of the vehicle found 380 grams of vacuum-packed kubar esrar,
-herbal cannabis, together with one banknote-counting machine. [@1,2,3] A search of
+herbal cannabis, together with one banknote-counting machine. [@1,2,3,4] A search of
 the driver's home in central Turhal found another 320 grams of vacuum-packed
-kubar esrar. [@2,3] Officers also recovered one vacuum machine, 5 kilograms of
-odour remover, a digital scale and a knuckle duster from the home. [@1,2] The
+kubar esrar. [@2,3,4] Officers also recovered one vacuum machine, 5 kilograms of
+odour remover, a digital scale and a knuckle duster from the home. [@1,2,4] The
 vehicle and home searches together yielded a total of 700 grams of kubar esrar.
-[@2]
+[@2,4]
 
 O.B. was taken into custody on the instructions of the public prosecutor and was
-then remanded in custody by the court. [@1,2,3] No other suspect was named in
+then remanded in custody by the court. [@1,2,3,4] No other suspect was named in
 connection with the seizure. [@2]
 
 The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command. [@2]
