@@ -92,6 +92,10 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway/
     publisher: The Nation Newspaper
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-bound businessmen who ‘excreted 200 wraps of cocaine’ at Abuja airport
+    url: https://www.thecable.ng/ndlea-arrests-two-europe-bound-businessmen-who-excreted-200-wraps-of-cocaine-at-abuja-airport/
+    publisher: TheCable
+    date: 2026-11-01
 open_questions:
   - No separate date for the Tashan Banke raid was published; 1 November 2026 is the NDLEA statement and publication date.
   - The six suspects held with Faisal Adamu were not named.
@@ -108,7 +112,7 @@ open_questions:
 
 National Drug Law Enforcement Agency operatives raided a location in the Tashan
 Banke area of Kano State and arrested seven suspects, with Faisal Adamu named
-among those held. [@1,4,5,6,7,8,9,10,12,14,16,18] The agency published its account of the raid on 1
+among those held. [@1,4,5,6,7,8,9,10,12,14,16,18,19] The agency published its account of the raid on 1
 November 2026 as part of a nationwide operations roundup. [@2] NDLEA Chairman
 and Chief Executive Officer Brig. Gen. Mohamed Buba Marwa commended officers of
 the Kano command, alongside officers in Lagos, Kaduna, Sokoto, Ondo, Oyo, Edo
@@ -117,7 +121,7 @@ and the Abuja airport, for the arrests and seizures. [@1]
 Officers at Tashan Banke recovered 178.85 kilogrammes of cannabis, which is the
 separately stated cannabis weight for this raid. [@1,4,6,8,10,11,13,14,15,17,18] Officers also recovered
 quantities of diazepam, tramadol, Exol-5 and pregabalin at the same Tashan Banke
-location. [@3,4]
+location. [@3,4,19]
 
 This report covers only the Tashan Banke cannabis seizure and arrests, not the
 cocaine smuggling case at Abuja airport or the ammunition and other-drug

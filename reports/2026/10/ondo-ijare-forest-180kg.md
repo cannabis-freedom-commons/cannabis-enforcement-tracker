@@ -84,6 +84,10 @@ sources:
     url: https://thenationonlineng.net/ndlea-arrests-woman-with-266-ak-47-ammunition-rounds-on-abuja-kaduna-highway/
     publisher: The Nation Newspaper
     date: 2026-11-01
+  - title: NDLEA arrests two Europe-bound businessmen who ‘excreted 200 wraps of cocaine’ at Abuja airport
+    url: https://www.thecable.ng/ndlea-arrests-two-europe-bound-businessmen-who-excreted-200-wraps-of-cocaine-at-abuja-airport/
+    publisher: TheCable
+    date: 2026-11-01
 open_questions:
   - No count of the plants growing on the farms, no area for the farms and no value for the 180 kg were published.
   - No charge against the four arrested men was reported.
@@ -99,10 +103,10 @@ open_questions:
 ---
 
 NDLEA operatives raided cannabis farms in Ijare forest, Ondo State, on Sunday 25
-October 2026. [@1,4,5,7,12,13,14,15,16] Four suspects were arrested during the raid, among them
+October 2026. [@1,4,5,7,12,13,14,15,16,17] Four suspects were arrested during the raid, among them
 Bassey Okon, 24, Abraham Edet, 20, and Oto Udo, 24. [@1,7,9,16] A fourth suspect was
 held but not named. [@2] Officers recovered 16 bags of processed cannabis
-weighing 180 kg from the farms, the agency said. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16] The agency reported no
+weighing 180 kg from the farms, the agency said. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17] The agency reported no
 plant count, no farm area and no value for the 180 kg. [@1]
 
 NDLEA said the raid followed credible intelligence. [@2] The agency announced
