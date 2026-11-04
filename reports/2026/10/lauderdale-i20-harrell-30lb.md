@@ -39,6 +39,10 @@ sources:
     url: https://www.wtok.com/2026/10/31/birmingham-man-arrested-after-30-pounds-marijuana-seized-i-20-lauderdale-county/
     publisher: WTOK
     date: 2026-10-31
+  - title: Deputies seize 30 lbs of marijuana, make arrest following traffic stop
+    url: https://meridianstar.com/2026/11/03/deputies-seize-30-lbs-of-marijuana-make-arrest-following-traffic-stop/
+    publisher: Meridian Star
+    date: 2026-11-03
 open_questions:
   - The exact stopping point is given only as mile marker 159 on Interstate 20; the coordinates are for Meridian.
   - No estimate of the marijuana's street value was published.
@@ -48,22 +52,24 @@ open_questions:
   - WTOK says Deputy Kelby Cole and K9 Mark uncovered about 30 pounds during a vehicle search, while the recorded account says Mark found the marijuana.
   - WTOK does not repeat the recorded detail that the stop was east of Meridian between the U.S. 45 and Russell exits, or the 13-kilogram conversion and Mississippi’s 1-kilogram trafficking threshold.
   - The WTOK photo is credited to the Lauderdale County Sheriff’s Office and may be the same handout already linked from Queen City Newsfeed, so it was not added again.
+  - The Meridian Star writes the charge as “trafficking in controlled substances” in the plural, while the recorded report uses “trafficking in a controlled substance.”
+  - The Meridian Star page carries a submitted photo of Deputy Cole and K9 Mark said to show the vehicle search, which appears to be the same sheriff’s handout already linked and is not added again.
 ---
 
 Co’Vaunte Harrell, 22, of Birmingham, Alabama, was arrested and charged with
-trafficking in a controlled substance. [@1,3] The charge followed a traffic stop
+trafficking in a controlled substance. [@1,3,4] The charge followed a traffic stop
 on Interstate 20 early on Friday 30 October 2026. [@2] His bond was set at
-$250,000. [@2,3]
+$250,000. [@2,3,4]
 
 Deputies were called at about 3 a.m. about an erratic driver heading east on
-Interstate 20. [@1,3] Deputies pulled the car over near mile marker 159, east of
+Interstate 20. [@1,3,4] Deputies pulled the car over near mile marker 159, east of
 Meridian between the U.S. 45 and Russell exits. [@1] Deputy Kelby Cole and his
 K9 partner Mark searched the car, and Mark found about 30 pounds of marijuana,
-the Lauderdale County Sheriff’s Department said. [@1] Sheriff’s narcotics agents
-helped with the case. [@1,3]
+the Lauderdale County Sheriff’s Department said. [@1,4] Sheriff’s narcotics agents
+helped with the case. [@1,3,4]
 
 The marijuana weighed about 13 kilograms. [@1] In Mississippi, marijuana
 trafficking applies from 1 kilogram, or about 2.2 pounds. [@1] The sheriff’s
 department said the investigation was active and ongoing and that additional
-charges could be filed later. [@2,3] Harrell has only been charged and has not
+charges could be filed later. [@2,3,4] Harrell has only been charged and has not
 been convicted of a crime. [@1]
