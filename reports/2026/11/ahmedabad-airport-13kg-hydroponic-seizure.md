@@ -138,6 +138,11 @@ sources:
     url: https://www.lokmattimes.com/national/rs13-crore-hydroponic-marijuana-seized-at-ahmedabad-airport-two-arrested-a001-w02/
     publisher: Lokmat Times
     date: 2026-11-01
+  - title: 'Video: HEADLINE_08_AM/ વડોદરાવાસીઓને મોંઘવારીનો ઝટકો! CNG-PNGના ભાવ વધ્યા, અમદાવાદ એરપોર્ટ પર 13 કિલો હાઈડ્રોપોનિક્સ ગાંજો ઝડપાયો'
+    url: https://www.gstv.in/news/headline/vadodara-residents-get-a-jolt-of-inflation-cng-png-prices-rise-13-kg-of-hydroponics-cannabis
+    publisher: GSTV
+    date: 2026-11-02
+    language: gu
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -186,12 +191,18 @@ open_questions:
   - The Lokmat Times article gives only its publication date of 1 November 2026 and says the seizure occurred on Sunday, with no separate interception time.
   - The Lokmat Times article does not name the two arrested passengers or give their ages reported in other sources for the same event.
   - The page image repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
+  - The submitted 08_AM GSTV page is a video headline roundup with no article body, so only the 13 kg seizure at Ahmedabad airport in its headline can be corroborated.
+  - The submitted 08_AM page gives a rounded 13 kg while the existing report records 13.012 kg, and the existing precise figure is retained.
+  - The submitted 08_AM page gives only its publication date of 2 November 2026 and no separate interception time, while the existing incident date of 1 November 2026 is retained as consistent.
+  - The submitted 08_AM page does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
+  - The same 08_AM headline also bundles unrelated items about Vadodara CNG-PNG prices, different events left out here.
+  - 'The submitted 08_AM page thumbnail is captioned only as Source: gstv with no event detail, so whether it shows this seizure cannot be established and no media entry is listed.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24] The two had arrived from Bangkok
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25] The two had arrived from Bangkok
 on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22]
 
 The pair were flagged through passenger profiling before their trolley bags went
