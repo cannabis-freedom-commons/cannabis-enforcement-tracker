@@ -30,27 +30,36 @@ sources:
     publisher: Tarun Mitra
     date: 2026-11-03
     language: hi
+  - title: 'Sant Kabir Nagar News: ओडिशा से गांजा मंगवाकर यूपी में आपूर्ति करता है मनोज'
+    url: https://www.amarujala.com/uttar-pradesh/sant-kabir-nagar/manoj-supplies-marijuana-from-odisha-to-uttar-pradesh-khalilabad-news-c-209-1-skn1001-160025-2026-11-04
+    publisher: Amar Ujala
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No street value for the 22.400 kg of ganja was published.
   - The report gives no case number, NDPS sections, or charge or court outcome for the two accused.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The exact roadside spot near Belwania is not mapped, so coordinates are for Khalilabad town.
+  - The Amar Ujala weight of 22.400 kg is stated to include plastic, so the net cannabis weight is unclear.
+  - The page image uses a 2021 file photo caption and is not established to show this seizure, so no media entry is included.
+  - The exact roadside spot near Belwania is not mapped; coordinates remain for Khalilabad town.
 ---
 
 Kotwali Khalilabad police arrested two accused near Belwania on the road from
-Dhaurhara to Sarhi on 2 November 2026. [@1] The two were Saeed Khan alias Bablu
+Dhaurhara to Sarhi on 2 November 2026. [@1,2] The two were Saeed Khan alias Bablu
 of Pardeshwa in Khalilabad, Sant Kabir Nagar, and Ramavtar of Chakaura in
-Jalalpur, Ambedkar Nagar. [@1] The operation was led by Kotwali Khalilabad
+Jalalpur, Ambedkar Nagar. [@1,2] The operation was led by Kotwali Khalilabad
 inspector Jaiprakash Dubey as part of the district campaign against narcotics
 trafficking and sales. [@1] Police said the drive was conducted under the
 direction of Sant Kabir Nagar Superintendent of Police Sandeep Kumar Meena. [@1]
 
 Officers recovered 22.400 kg of illegal ganja from their possession, along with
-one motorcycle used in the offence and two Android mobile phones. [@1]
+one motorcycle used in the offence and two Android mobile phones. [@1,2]
 
 During questioning the accused said the ganja had been supplied to them by a man
-who gets ganja from Odisha. [@1] They said they were taking the ganja to PPganj
+who gets ganja from Odisha. [@1,2] They said they were taking the ganja to PPganj
 for sale on his instructions, where they were to sell it to a named person and
-take money. [@1] They said they are friends and support themselves and their
-families from the profit of ganja sales. [@1]
+take money. [@1,2] They said they are friends and support themselves and their
+families from the profit of ganja sales. [@1,2]
 
+The accused named the alleged wholesale supplier as Manoj Yadav of Chakaura, Jalalpur, who sources ganja from Odisha. [@2] Police said Manoj Yadav had previously been jailed from Basti district in a ganja-smuggling case and is now being sought with other network members. [@2] The seized motorcycle is registered in the name of Saeed Khan's wife and was seized under the Motor Vehicles Act because no papers were produced at the spot. [@2] Both accused were produced before the court on Tuesday and sent to jail in judicial custody. [@2]
