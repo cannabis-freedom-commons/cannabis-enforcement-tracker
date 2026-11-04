@@ -34,31 +34,38 @@ sources:
     url: https://www.incidentbd.com/incidents/youth-arrested-with-3-maunds-of-cannabis
     publisher: IncidentBD
     date: 2026-10-29
+  - title: ব্রাহ্মণবাড়িয়ায় ৩মণ গাঁজাসহ গ্রেপ্তার যুবক
+    url: https://channels.com.bd/news/district-news/3b78-20261029
+    publisher: চ্যানেল এস | Channel S
+    date: 2026-10-29
+    language: bn
 open_questions:
   - The map uses the Bijoynagar Upazila centre as a reference point; Bamutia village was not precisely geolocated.
   - The IncidentBD account states it was automatically published from media reporting and was not verified, citing the Daily Observer as its source, so it provides corroboration but not independent verification.
   - No street value, weighing details, or specific charge sections beyond a Narcotics Control Act case were published.
   - No court outcome was reported; further legal action was described as pending.
   - The main report gives no age for Ripon Mia and writes '(নাম)' after his name; the age of 28 comes only from the aggregator account.
+  - The Channel S page photo caption only repeats the headline and does not describe the seized bundles, so no media entry is added for this source.
 ---
 
 Police arrested one person in Bijaynagar after recovering 122 kg of ganja from a
-dwelling house. [@1] The arrested man was identified as Md Ripon Mia. [@1] The
+dwelling house. [@1,3] The arrested man was identified as Md Ripon Mia. [@1] The
 operation took place early on Thursday 29 October in the Bamutia area of
-Paharpur Union No. 10. [@1] A Bijaynagar Thana police team launched the Bamutia
+Paharpur Union No. 10. [@1,3] A Bijaynagar Thana police team launched the Bamutia
 raid at about 4:50 am on secret information. [@1] Officers searched a dwelling
-house in Bamutia and recovered 122 kg of ganja. [@1] The recovered ganja was
+house in Bamutia and recovered 122 kg of ganja. [@1,3] The recovered ganja was
 formally seized through a seizure list under the rules and Ripon Mia was
-arrested at the scene. [@1] Ripon Mia is the son of the late Asmat Ali of
+arrested at the scene. [@1,3] Ripon Mia is the son of the late Asmat Ali of
 Bamutia village. [@1] He lives in Paharpur Union No. 10 in Bijaynagar. [@1] A
 second account describes the detainee as 28-year-old Ripon Miah held with 3
-maunds (122 kg) of cannabis in Bijoynagar. [@2] It places the report at
+maunds (122 kg) of cannabis in Bijoynagar. [@2,3] It places the report at
 Paharpur, Bijoynagar, Brahamanbaria in Chittagong. [@2] It timestamps the
 incident on 29 October 2026. [@2]
 
 The large haul sparked discussion in the area. [@1] Local observers called for
 sustained enforcement against illegal drug trading and trafficking. [@1] Police
 filed a case over the incident at Bijaynagar Police Station under the Narcotics
-Control Act. [@1] Further legal action against the arrested man was still
+Control Act. [@1,3] Further legal action against the arrested man was still
 pending when the seizure was reported. [@1]
 
+The house search was led by Bijaynagar Sub-Inspector Md Nazmul Hasan acting on secret information. [@3] Bijaynagar officer-in-charge Mohammad Ahsan Ullah said anti-drug operations based on secret information and intelligence surveillance were continuing and would continue to eliminate drugs. [@3]
