@@ -146,6 +146,11 @@ sources:
     publisher: Guardia Civil
     date: 2026-11-04
     language: es
+  - title: La Guardia Civil desmantela un complejo de marihuana en Sevilla con más de 2.500 plantas
+    url: https://www.20minutos.es/andalucia/sevilla/guardia-civil-desmantela-complejo-marihuana-sevilla-2-500-plantas_7057030_0.html
+    publisher: 20minutos
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -162,43 +167,44 @@ open_questions:
   - The OKDIARIO page displays one image captioned as the Aznalcóllar complex without a credit, which could not be confirmed as distinct from the agency handout images already archived, so no media entry was added.
   - The Sevilla Actualidad image file named marihuana.jpg carries no caption or credit confirming it shows this Aznalcóllar operation, so no media entry is added.
   - This account headlines the plants as up to two metres tall, while the existing report describes some as more than two metres tall.
+  - The three 20minutos images are credited in captions to the Guardia Civil and appear to repeat the agency handout already archived, so no distinct media entry is added.
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6,9,10,15,17,18] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] The four suspects tried to
+[@1,3,4,5,6,9,10,15,17,18,21] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21] The four suspects tried to
 escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11,14,15,16,17,20]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16,17,20]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16,17,20,21]
 The detainees were brought before those courts as alleged perpetrators of
-public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12,13,15,17] The
-investigation remains open. [@1,2,5,8,10,12,13,15,17]
+public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12,13,15,17,21] The
+investigation remains open. [@1,2,5,8,10,12,13,15,17,21]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] Some of the plants stood
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21] Some of the plants stood
 more than two metres tall. [@1,2,3,6,7,8,10,13,15,16,19] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16,17] From there, a
+the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16,17,21] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
-[@1,2,3,6,7,9,10,11,13,14,15,16,17,18] Each growing area had its own irrigation system despite the steep slope and
+[@1,2,3,6,7,9,10,11,13,14,15,16,17,18,21] Each growing area had its own irrigation system despite the steep slope and
 lack of conventional connections. [@1,8] Those running the site had installed
-motors, pipes and large water stores including pools across the sierra. [@1] The
-site also had electric generators, tools and drying rooms. [@1] Officers found
-the 50 kilograms of dried buds in one drying dependency after processing. [@1]
+motors, pipes and large water stores including pools across the sierra. [@1,21] The
+site also had electric generators, tools and drying rooms. [@1,21] Officers found
+the 50 kilograms of dried buds in one drying dependency after processing. [@1,21]
 
 The crops were spread in several production areas over different slopes and
-linked by a network of paths built by those running the site. [@1,4,12] The plots lay
+linked by a network of paths built by those running the site. [@1,4,12,21] The plots lay
 far from towns on steep slopes where vehicles could not enter. [@1,5,12] The
 investigation began after aerial observation spotted possible hidden
 plantations. [@1,2,4,12] Officers reached the site on foot over difficult paths while
-drones watched from the air. [@1,2,10,14] The terrain made the site hard to locate and
+drones watched from the air. [@1,2,10,14,21] The terrain made the site hard to locate and
 reach. [@1] Officers therefore set up a special operation to watch possible
 escape routes from the air. [@1] The complex included sleeping areas, rest areas
 and a kitchen that let keepers stay for long periods without travelling to
-nearby towns. [@1,10] Keepers could carry on daily work without travelling
+nearby towns. [@1,10,21] Keepers could carry on daily work without travelling
 regularly to nearby towns. [@1] A nearby watercourse helped supply the crops.
 [@1]
 
-The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8,10,13,17]
+The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8,10,13,17,21]
 
-Police said further linked plantations and other people involved have not been ruled out. [@3]
+Police said further linked plantations and other people involved have not been ruled out. [@3,21]
 
-The mountain site had no telephone coverage. [@11,13]
+The mountain site had no telephone coverage. [@11,13,21]
