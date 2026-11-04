@@ -33,6 +33,11 @@ sources:
     publisher: Caracol Radio
     date: 2026-09-26
     language: es
+  - title: Incautan más de cuatro toneladas de marihuana en el centro-sur de Colombia
+    url: https://es-us.noticias.yahoo.com/incautan-cuatro-toneladas-marihuana-centro-164044172.html
+    publisher: Yahoo Noticias
+    date: 2026-09-27
+    language: es
 media:
   - kind: photo
     url: https://www.elheraldo.co/colombia/2026/09/27/policia-nacional-incauto-42-toneladas-de-marihuana-en-el-huila/
@@ -44,13 +49,18 @@ media:
     archived: https://web.archive.org/web/20261007024058/https://caracol.com.co/2026/09/27/incautan-42-toneladas-de-marihuana-camufladas-en-un-cargamento-de-cal-en-el-huila/
     publisher: Caracol Radio
     caption: The truck stopped at the Patá toll booth
+open_questions:
+  - The Yahoo/EFE page gives only its 27 September publication date and says the presidency reported on Sunday, giving no separate operation hour, so the existing 26 September incident date gains no independent confirmation from this source.
+  - This source does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca trafficking organisation or any peso valuation, so those existing details gain no corroboration here.
+  - The closing paragraph reports a separate 24-hour tally of 19 arrests, 907 kilos of drugs and destroyed dredges and motors, a different event left out of this match.
+  - No event photo could be verified from the opened text, which shows a region-blocked video without a caption establishing that any thumbnail shows this seizure, so no media entry is included.
 ---
 
 Police found 4.2 tonnes of marijuana hidden among sacks of lime in a truck at the Patá toll booth
-near Neiva, Huila, on 26 September 2026. [@1,2] The truck was on the Neiva–Castilla corridor;
-Caracol Radio reported it was covering the Inzá–Bogotá route. [@1,2]
+near Neiva, Huila, on 26 September 2026. [@1,2,3] The truck was on the Neiva–Castilla corridor;
+Caracol Radio reported it was covering the Inzá–Bogotá route. [@1,2,3]
 
-One man was arrested and will face drug-trafficking charges. [@1,2] The police said the load
+One man was arrested and will face drug-trafficking charges. [@1,2,3] The police said the load
 belonged to a trafficking organisation from Cauca. [@1,2]
 
 President Abelardo De la Espriella said the load was worth 2.225 billion pesos, while the police put
