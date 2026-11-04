@@ -30,29 +30,36 @@ sources:
     publisher: Disha Daily
     date: 2026-11-03
     language: te
+  - title: గంజాయి కేసులో పరారీలో ఉన్న నిందితుడి అరెస్ట్‌
+    url: https://prabhanews.com/kesamudram-ganja-smuggling-absconding-accused-arrested/
+    publisher: Andhra Prabha
+    date: 2026-11-03
+    language: te
 open_questions:
   - The article gives no separate date for the arrest; 3 November 2026 is its publication date and is used as the incident date.
   - The 2.400 kg figure is described as dry ganja the accused and associates purchased to sell in Hyderabad, not explicitly as cannabis newly seized during this arrest; it is recorded as the case quantity.
   - No court outcome was reported; police said further investigation is continuing.
   - Only one accessible source for this event was found after searching in Telugu and English.
+  - The new account writes the accused's alias as F Age and gives no age or case number, differing from the existing report's 29-year-old Kapugeri Raju alias Vayasu in Cr.No.116/2026.
+  - The new account names Kesamudram CI Satyanarayana without the initial Y. and does not specify the SI's Nellikudur posting.
+  - The submitted page carries a photo without a caption or credit establishing that it shows this arrest, so no media entry is included.
 ---
 
 Nellikudur police arrested the accused who had fled during police checks in a
-ganja smuggling case and had been absconding. [@1] The detained man was
+ganja smuggling case and had been absconding. [@1,2] The detained man was
 identified as 29-year-old Kapugeri Raju alias Vayasu. [@1] The case is
 registered at Nellikudur police station as Cr.No.116/2026 under sections 8(C)
 read with 20(b)(ii)(B) of the NDPS Act, 1985. [@1] Police said he belongs to
-Hanumanpur in Mahabubnagar town. [@1]
+Hanumanpur in Mahabubnagar town. [@1,2]
 
 The arrest was made amid special surveillance by Mahabubabad district police
 against smuggling, sale and consumption of intoxicants. [@1] Police said inquiry
 revealed that Raju and his associates had purchased about 2.400 kg of dry ganja
 from the Bhadrachalam area and were taking it to Hyderabad to sell at a higher
-price. [@1] Police said they seized an Apple mobile phone from him in the
-presence of panchas, independent witnesses. [@1]
+price. [@1,2] Police said they seized an Apple mobile phone from him in the
+presence of panchas, independent witnesses. [@1,2]
 
 The details were disclosed by Kesamudram Circle Inspector Y. Satyanarayana and
-Nellikudur Sub-Inspector Karunakar. [@1] Police said further investigation in
-the case is continuing. [@1] Officials appealed to the public to immediately
-inform police about ganja or other intoxicant trafficking, sale or use. [@1]
-
+Nellikudur Sub-Inspector Karunakar. [@1,2] Police said further investigation in
+the case is continuing. [@1,2] Officials appealed to the public to immediately
+inform police about ganja or other intoxicant trafficking, sale or use. [@1,2]
