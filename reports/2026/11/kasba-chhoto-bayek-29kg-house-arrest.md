@@ -29,6 +29,11 @@ sources:
     publisher: Gono Manusher Awaj
     date: 2026-11-04
     language: bn
+  - title: কসবায় ২৯ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://www.jaijaidin.news/news/365097
+    publisher: Daily Jaijaidin
+    date: 2026-11-04
+    language: bn
 open_questions:
   - No estimated value for the 29 kg of ganja was published.
   - No court outcome beyond the filing of the Narcotics Control Act case was reported.
@@ -36,20 +41,19 @@ open_questions:
 ---
 
 Kasba police arrested one man, Md. Jamal Mia, after recovering 29 kg of ganja in
-an anti-drug operation. [@1] Mia is from Chhoto Bayek Madhyapara village and is
-the son of the late Tajul Islam. [@1] A second account gives his age as 48 and
+an anti-drug operation. [@1,3] Mia is from Chhoto Bayek Madhyapara village and is
+the son of the late Tajul Islam. [@1,3] A second account gives his age as 48 and
 names his late parents. [@2]
 
 The operation took place at around 4:30am on Wednesday, 4 November, in the
-Chhoto Bayek Madhyapara area of Bayek Union. [@1] Acting on secret information,
+Chhoto Bayek Madhyapara area of Bayek Union. [@1,3] Acting on secret information,
 officers searched Jamal Mia's dwelling house and found 29 kg of ganja in his
 possession. [@2] Police prepared a seizure list before witnesses present and
 seized the drug through legal process. [@2] The police team was led by
-Sub-Inspector Md. Abdur Rahim of Kasba Police Station. [@2]
+Sub-Inspector Md. Abdur Rahim of Kasba Police Station. [@2,3]
 
 Police filed a case against the arrested man at Kasba Police Station under the
 Narcotics Control Act. [@1] Sub-Inspector Rahim, who led the raid, is the
 complainant in that case. [@2] Kasba Police Station Officer-in-Charge Ali
-Mohammad Rashed confirmed the arrest and the recovery. [@2] Brahmanbaria
+Mohammad Rashed confirmed the arrest and the recovery. [@2,3] Brahmanbaria
 district police media wing conveyed the details in a press release. [@1]
-
