@@ -28,6 +28,10 @@ sources:
     url: https://www.newsbreak.com/wnct-1589991/4948158904749-police-three-charged-after-over-60-pounds-of-marijuana-seized-during-investigation-in-emerald-isle-and-atlantic-beach
     publisher: WNCT
     date: 2026-10-15
+  - title: 'Police: three charged after over 60 pounds of marijuana seized during investigation in Emerald Isle and Atlantic Beach'
+    url: https://www.wnct.com/news/police-three-charged-after-over-60-pounds-of-marijuana-seized-during-investigation-in-emerald-isle-and-atlantic-beach/
+    publisher: WNCT
+    date: 2026-10-15
 open_questions:
   - The 45 grams of khat is not cannabis and is excluded from the cannabis figures.
   - The one seized firearm is not a cannabis figure and is excluded.
@@ -36,28 +40,30 @@ open_questions:
   - The page carries images whose captions do not establish that they show this seizure, so no media entry is added.
   - The incident date used is 9 October 2026, the day the warrants were executed; the charges were reported on 15 October 2026.
   - The reports say three people were charged and list secured bonds, but do not state the date or place of any arrest separately from the charges.
+  - The WNCT page writes the first surname as Nasser in the introductory line and Nassar in the charge heading, while the existing report uses Faisal Ali Nasser.
 ---
 
 Three people are facing charges following an investigation into alleged illegal
 sale and distribution of marijuana and THC products at vape shops in Carteret
-County. [@1] Faisal Ali Nasser was charged and received a $101,000 secured bond.
-[@1] Jon Mitchell Foss was charged and received a $50,000 secured bond. [@1]
+County. [@1,3] Faisal Ali Nasser was charged and received a $101,000 secured bond.
+[@1,3] Jon Mitchell Foss was charged and received a $50,000 secured bond. [@1,3]
 Bryce Samuel Robles was charged and received a $7,500 secured bond. [@1]
 
 Officers simultaneously executed three search warrants on Friday, Oct. 9, at
 businesses in Emerald Isle and Atlantic Beach. [@1] The warrants covered two
-businesses in Emerald Isle and one in Atlantic Beach. [@2] Preliminary seizures
+businesses in Emerald Isle and one in Atlantic Beach. [@2,3] Preliminary seizures
 were 61 pounds of marijuana (about 27.67 kg), 45 grams of khat and one firearm.
-[@1] A second account likewise reports 61 pounds of marijuana, 45 grams of khat
+[@1,3] A second account likewise reports 61 pounds of marijuana, 45 grams of khat
 and one firearm seized, with totals subject to change as evidence is processed.
 [@2] Police said the seizure totals could change as evidence is processed and
 follow-up work continues. [@1]
 
 The investigation began after citizen complaints about suspected illegal
 marijuana and THC sales, including allegations that products were being sold to
-minors. [@1] Assisting agencies included the Atlantic Beach Police Department,
+minors. [@1,3] Assisting agencies included the Atlantic Beach Police Department,
 Carteret and Onslow county sheriff’s offices, Swansboro Police Department, North
 Carolina Alcohol Law Enforcement and the Internal Revenue Service. [@1] Police
 said additional information about arrests, final seizure totals and possible
 asset forfeitures will be released as the investigation progresses. [@1]
 
+The warrants listed 145 Bogue Inlet Drive, Unit A in Emerald Isle, 3305 Emerald Drive in Emerald Isle and 2610 West Fort Macon Road, Unit D in Atlantic Beach. [@3]
