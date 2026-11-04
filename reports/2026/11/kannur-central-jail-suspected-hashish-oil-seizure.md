@@ -31,28 +31,39 @@ sources:
     publisher: TrueVision News
     date: 2026-11-04
     language: ml
+  - title: ജയിലിൽ വീണ്ടും ലഹരിവേട്ട; തടവുകാരനിൽ നിന്ന് ഹാഷിഷ് ഓയിൽ പിടികൂടി
+    url: https://janamtv.com/81066996/
+    publisher: Janam TV
+    date: 2026-11-04
+    language: ml
 open_questions:
   - The substance was described only as suspected hashish oil and was sent for scientific examination, so its identity is unconfirmed and no cannabis weight can be recorded.
   - The article gives no separate dates for the two searches beyond the latest check and the previous day’s check; 4 November 2026 is the publication date and is used as the incident date.
   - No weight, bottle volume, new arrest, charge or court outcome was reported; the prisoner was already in custody.
   - How the phones and intoxicants entered the jail and who supplied them remain unknown.
   - Only one accessible source for this event was found after searching in English and Malayalam.
+  - Janam TV describes the substance as hashish oil while the existing report records it as suspected hashish oil sent for scientific examination, so its identity remains unconfirmed.
+  - Janam TV does not name Block 6 and reports mobile phones, SIM cards, batteries and chargers in the plural, so the exact number and location of the phones is unresolved.
+  - Janam TV places the suspicious prisoners near the jail tower and gives no bottle concealed in underwear or testing detail, leaving the exact recovery circumstances unclear.
+  - No weight, bottle volume, new arrest, charge or court outcome was reported, so no cannabis quantity can be recorded.
+  - The Janam TV page image has no caption or credit establishing it shows this seizure, so no media entry is included.
+  - The article gives no separate date for the searches; 4 November 2026 is its publication date and is used as the incident date.
 ---
 
 Staff at Kannur Central Jail in Kannur, Kerala, again found a mobile phone and
 intoxicant substances, including a substance suspected to be hashish oil
-recovered from a prisoner. [@1,2] The prisoner’s behaviour aroused suspicion, and
+recovered from a prisoner. [@1,2,3] The prisoner’s behaviour aroused suspicion, and
 a search found a bottle concealed in his underwear. [@1] The bottle’s contents
 were collected for scientific examination to confirm whether the substance is
 hashish oil. [@1]
 
 A search of the building in front of Block 6 recovered a SIM card, mobile phone,
-battery and charger. [@1,2] The latest search recovered a phone with SIM card,
+battery and charger. [@1,2,3] The latest search recovered a phone with SIM card,
 battery and charger, while the suspected hashish oil was seized from the
 prisoner during the previous day’s search. [@1,2] Phones have been seized from
 different parts of the jail four times this month alone. [@1] Authorities have
 not yet established how the phones and intoxicants reach the jail or who brings
-them inside. [@1]
+them inside. [@1,3]
 
 The repeated finds without identifying the route or source have raised concern
 and questions about whether an effective investigation is under way and what
