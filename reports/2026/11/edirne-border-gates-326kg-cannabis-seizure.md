@@ -171,6 +171,16 @@ sources:
     publisher: N Haber İzmir
     date: 2026-11-04
     language: tr
+  - title: Gümrükler Muhafaza ekipleri 4 ayrı operasyonda 459 kilogramı aşkın uyuşturucuya el koydu
+    url: https://www.aa.com.tr/tr/gundem/gumrukler-muhafaza-ekipleri-4-ayri-operasyonda-459-kilogrami-askin-uyusturucuya-el-koydu/4110974
+    publisher: Anadolu Ajansı
+    date: 2026-11-04
+    language: tr
+  - title: Gümrük kapıları ve İstanbul Havalimanı'nda 459 kilo uyuşturucu ele geçirildi
+    url: https://www.malatyaguncel.com/amp/gumruk-kapilari-ve-istanbul-havalimani-nda-459-kil-3120105h.htm
+    publisher: Malatya Haber
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement and publication date used as the incident date.
   - The combined 459 kg 599 g total and the cocaine and heroin weights are mentioned only to explain the mixed case and are excluded from cannabis figures; the cannabis-only figure is 325.941 kg.
@@ -198,27 +208,27 @@ open_questions:
 
 Türkiye's Trade Ministry Customs Enforcement teams carried out four separate
 operations at the Kapıkule, Hamzabeyli and İpsala customs gates in Edirne and at
-Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2,3,4,5,6,7,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,29,30,31] The ministry's
+Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2,3,4,5,6,7,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,29,30,31,32] The ministry's
 4 November 2026 statement put the breakdown at 118 kg 658 g of cocaine, 325 kg
 941 g of esrar, the Turkish term for cannabis recorded here as cannabis, and 15
-kg of heroin. [@1,4,7,10,15,16,19,20,27,30] Judicial investigations into the four operations were being
+kg of heroin. [@1,4,7,10,15,16,19,20,27,30,33] Judicial investigations into the four operations were being
 conducted by the Edirne, Gaziosmanpaşa and İpsala chief public prosecutor's
-offices. [@1,3,4,6,8,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,30,31]
+offices. [@1,3,4,6,8,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,30,31,32]
 
 At Kapıkule, officers judged a vehicle entering the customs area suspicious
 after risk analysis and sent it for X-ray screening, where they found suspicious
 density in its fuel tank. [@1,2,5,6,9,14,28,31] A detailed search there recovered 109 packages
 holding 118 kg 658 g of cocaine and 32 packages holding 25 kg 744 g of esrar.
-[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
+[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
 assessment. [@1,2,6,28] Officers searched its fuel tank with narcotics detector dogs
 YAPPA and ATLAS after suspicious density was found, and after the dogs reacted
-they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31] At İpsala,
+they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33] At İpsala,
 a truck entering Türkiye was sent for X-ray screening after risk-analysis work.
 [@1,2,6,28] After checks with narcotics detector dog İDA, a detailed examination of the
-suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27,28,29,31]
+suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27,28,29,31,33]
 
 At Istanbul Airport, officers checked the luggage of three incoming passengers
-identified through risk analysis. [@1,2,3,4,6,9,10,11,13,14,15,17,19,21,23,24,25,26,29] The examination there found a total of 15
+identified through risk analysis. [@1,2,3,4,6,9,10,11,13,14,15,17,19,21,23,24,25,26,29,33] The examination there found a total of 15
 kg of heroin-type drugs. [@1,2,3,4,6,9,10,13,15,16,23,24,25,29,30,31] The statement stressed that Customs Enforcement
 teams continue the fight against smuggling using advanced systems, risk-analysis
 work and specialist staff. [@1]
