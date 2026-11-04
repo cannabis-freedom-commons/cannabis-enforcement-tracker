@@ -45,6 +45,11 @@ sources:
     publisher: Infobae
     date: 2026-10-16
     language: es
+  - title: Capturados en el Pacífico sujetos que pretendían hacer llegar hasta Costa Rica cocaína y marihuana
+    url: https://www.noticiasrcn.com/colombia/capturados-en-el-pacifico-sujetos-que-pretendian-hacer-llegar-hasta-costa-rica-cocaina-y-marihuana-1072261
+    publisher: Noticias RCN
+    date: 2026-10-16
+    language: es
 open_questions:
   - No separate date for the interception was published; 16 October 2026 is the article publication date used as the incident date.
   - The nearly 15 million dollar valuation covers cocaine and marijuana together and is therefore excluded from cannabis figures.
@@ -54,22 +59,25 @@ open_questions:
   - No charges filed, custody decision or court outcome was reported beyond placement at the disposal of the authorities for alleged drug trafficking.
   - Only one accessible source for this interception was found after searching in Spanish; no separate navy statement was opened.
   - The same article describes a separate recent Pacific South seizure of 1,620 kg of cocaine and 51 kg of marijuana, left out here as a different event.
+  - RCN states that the exact quantities were not specified in the initial report, so the 407 g marijuana figure and the cocaine split remain supported only by the Infobae account.
+  - RCN describes the craft only as a clandestine boat or launch in Colombian Pacific waters and does not name Bahía Málaga jurisdiction or a Go Fast type, which remain from the earlier account.
+  - The RCN page carries an Armada-credited photo and an embedded video that may republish the same Navy handout already listed from Infobae, so no new media entry is added to avoid duplicating the same agency material.
 ---
 
 Pacific naval units intercepted a Go Fast boat, a fast smuggling launch, in
 waters under Bahía Málaga jurisdiction in Valle del Cauca and captured the three
-Colombian men aboard. [@1] The three crew members and the seized cargo were
-transferred to the Buenaventura Coast Guard station. [@1] The detainees were
+Colombian men aboard. [@1,2] The three crew members and the seized cargo were
+transferred to the Buenaventura Coast Guard station. [@1,2] The detainees were
 told their rights, placed at the disposal of the competent authorities, and must
-answer for alleged trafficking, manufacture or possession of narcotics. [@1]
+answer for alleged trafficking, manufacture or possession of narcotics. [@1,2]
 
 The operation used intelligence coordinated among Colombia's Navy, the National
 Police Anti-Narcotics Directorate and JIATFS, the United States Southern
 Command's Joint Interagency Task Force. [@1] The launch was heading toward Costa
-Rica and on toward Central America. [@1] The launch carried 47 bundles intended
+Rica and on toward Central America. [@1,2] The launch carried 47 bundles intended
 for international drug-trafficking routes. [@1] Specialized police at
 Buenaventura applied the PIPH, the homologated preliminary identification test,
-which confirmed cocaine and marijuana. [@1] Police laboratory analysis set the
+which confirmed cocaine and marijuana. [@1,2] Police laboratory analysis set the
 load at 1,460 kilograms of cocaine hydrochloride and 407 grams of marijuana,
 more than 1.4 tonnes altogether. [@1]
 
@@ -79,5 +87,4 @@ circulation of 3.6 million doses of alkaloids. [@1] The Pacific Naval Force said
 the offensive seeks to limit use of the sea as a corridor, noting traffickers
 use fast boats from Colombia's coast toward Central America for onward movement.
 [@1] The Navy said it will maintain surveillance and interdiction in that area
-with national and international support. [@1]
-
+with national and international support. [@1,2]
