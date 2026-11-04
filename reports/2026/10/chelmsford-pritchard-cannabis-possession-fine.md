@@ -24,6 +24,10 @@ sources:
     url: https://www.echo-news.co.uk/news/26697593.stanford-le-hope-resident-sentenced-possessing-drugs/
     publisher: Echo
     date: 2026-11-04
+  - title: Stanford-le-Hope resident sentenced for possessing cannabis
+    url: https://uk.news.yahoo.com/stanford-le-hope-resident-sentenced-120000582.html
+    publisher: Yahoo News UK
+    date: 2026-11-04
 open_questions:
   - The article gives May 20 and October 26 without years; 2026 is inferred from its 4 November 2026 publication date.
   - No weight or quantity was given for the cannabis possessed, so no kilograms can be recorded.
@@ -34,19 +38,18 @@ open_questions:
 
 Terry Pritchard, aged 24, is a Stanford-le-Hope resident whose address is given
 as Rectory Road. [@1] He was sentenced for possessing cannabis following the
-Chelmsford possession matter. [@1] Pritchard had a quantity of the drug,
-described as a Class B drug, in Chelmsford on May 20. [@1] His case was dealt
+Chelmsford possession matter. [@1,2] Pritchard had a quantity of the drug,
+described as a Class B drug, in Chelmsford on May 20. [@1,2] His case was dealt
 with at Chelmsford Magistrates' Court and Family Court, the court named for the
-sentence. [@1] That court sentenced him on October 26, bringing the possession
+sentence. [@1,2] That court sentenced him on October 26, bringing the possession
 case to its reported outcome. [@1]
 
-For the offence the court imposed a fine of £133 on Pritchard. [@1] It also
-ordered him to pay £85 in costs to the Crown Prosecution Service. [@1] Beyond
+For the offence the court imposed a fine of £133 on Pritchard. [@1,2] It also
+ordered him to pay £85 in costs to the Crown Prosecution Service. [@1,2] Beyond
 the financial penalty, the court ordered that the cannabis involved be
 forfeited. [@1] It further ordered that the forfeited cannabis be destroyed
-under the Misuse of Drugs Act 1971. [@1]
+under the Misuse of Drugs Act 1971. [@1,2]
 
 Pritchard is recorded as a Stanford-le-Hope resident in the possession case.
 [@1] The £85 costs order names the Crown Prosecution Service as the recipient of
 that payment. [@1]
-
