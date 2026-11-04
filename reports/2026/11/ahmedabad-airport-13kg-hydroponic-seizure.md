@@ -129,6 +129,11 @@ sources:
     publisher: News18 Punjab
     date: 2026-11-02
     language: pa
+  - title: 'Video: HEADLINE_10_AM/ સુરેન્દ્રનગરના ખેડૂતોને નર્મદાનું પાણી ન મળતાં રોષ, મોરબીમાં વૃદ્ધની હત્યા, અમદાવાદ એરપોર્ટ પર 13 કિલો ગાંજો ઝડપાયો'
+    url: https://www.gstv.in/news/headline/farmers-resent-not-getting-narmada-water-elderly-man-killed-in-morbi
+    publisher: GSTV
+    date: 2026-11-02
+    language: gu
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -168,12 +173,18 @@ open_questions:
   - The Tarun Bharat page image is captioned only as ahemdabad with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is listed.
   - 'Left out, as its quotation was not found in Ahmedabad Mirror: The pair were flagged through passenger profiling before their trolley bags went through X-ray screening, where officers noticed suspicious images and ordered a detailed manual examination.'
   - The page's only listed image is captioned only as News18 with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
+  - The submitted GSTV page is a video headline roundup with no article body, so only the 13 kg seizure at Ahmedabad airport in its headline can be corroborated.
+  - GSTV gives a rounded 13 kg while the existing report records 13.012 kg, and the existing precise figure is retained.
+  - GSTV gives only its publication date of 2 November 2026 and no separate interception time, while the existing incident date of 1 November 2026 is retained as consistent.
+  - GSTV does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
+  - The same headline also bundles unrelated items about Surendranagar water supply and a killing in Morbi, different events left out here.
+  - 'The page thumbnail is captioned only as Source: gstv with no event detail, so whether it shows this seizure cannot be established and no media entry is listed.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22] The two had arrived from Bangkok
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23] The two had arrived from Bangkok
 on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22]
 
 The pair were flagged through passenger profiling before their trolley bags went
