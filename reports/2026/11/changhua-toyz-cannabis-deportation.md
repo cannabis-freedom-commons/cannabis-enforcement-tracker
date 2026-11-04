@@ -217,6 +217,11 @@ sources:
     publisher: 鏡新聞
     date: 2026-11-02
     language: zh
+  - title: 賣大麻假釋 香港網紅Toyz驅逐出境 - 社會 - 自由時報電子報
+    url: https://news.ltn.com.tw/amp/news/society/paper/1777134
+    publisher: 自由時報電子報
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -274,16 +279,16 @@ and deported from Taiwan on 3 November 2026 after serving part of a
 cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
 second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
-term. [@1,6,33]
+term. [@1,6,33,36]
 
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
 Hong Kong. [@2,4,8,14,25,27] Immigration said any future application by Liu to reside in
@@ -292,8 +297,10 @@ visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34]
 
 Liu had previously come to Taiwan for business purposes. [@27]
 
-Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33]
+Six officers from the Changhua task force went to Changhua Prison to collect Liu for deportation. [@33,36] Any future application by Liu to reside in Taiwan through his spouse would be reviewed under the rules for Hong Kong and Macao residents entering Taiwan and applying for residence and settlement. [@33]
 
 Liu had held a work visa to reside in Taiwan, but that residence qualification had already lapsed. [@34,35]
 
 On 1 November, influencer Gino Jingyou (Zhuang Kaibo) posted a video confirming Toyz had received the parole-approval document and was awaiting completion of administrative procedures before he could leave prison. [@35] Toyz still had to wait for the court to issue the release order and complete other statutory procedures before he could leave prison. [@35] The wait between learning of parole approval and actual release was described as agonizing because release could come that day, the next day or days later. [@35]
+
+Liu Weijian left prison alone, with his wife not accompanying him and no friends waiting outside the prison. [@36] He remained taciturn and calm on the way to the airport. [@36]
