@@ -30,16 +30,22 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-04
     language: hi
+  - title: 'फतुहा में टोटो रिक्शा से 1.426 किलो गांजा बरामद: मालसलामी का युवक गिरफ्तार, नदी थाना पुलिस की कार्रवाई'
+    url: https://www.bhaskar.com/local/bihar/patna/fatwah/news/malsalami-fatuha-ganja-seized-nadi-police-arrest-139592555.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate date for the check and seizure; 4 November 2026 is its publication and update date and is used as the incident date.
   - No court appearance, charge details or outcome beyond starting the FIR process were reported.
   - Whether the seized toto belongs to the accused or another person and who else is involved remains under investigation.
   - No value estimate for the 1.426 kg was published.
   - Only one accessible source for this event was found after searching in Hindi and English, so no second account could be opened.
+  - This account does not repeat the secret-tip detail recorded in the existing report from its earlier source.
 ---
 
 Nadi police in Fatuha detained one youth after seizing 1.426 kilograms of ganja
-from a toto rickshaw near Tedhi bridge on a secret tip. [@1] The detained man
+from a toto rickshaw near Tedhi bridge on a secret tip. [@1,2] The detained man
 was identified as 34-year-old Ranjit Kumar. [@1] Police said he was from the
 Malsalami police-station area and gave his permanent address as Triloki Bigha,
 Hilsa police station, Nalanda district. [@1] Police started the process of
@@ -47,7 +53,7 @@ registering a first information report against him and took the seized ganja and
 the vehicle into legal custody. [@1]
 
 Officers found 1.426 kilograms of ganja concealed in the toto during the search.
-[@1] Police seized the toto rickshaw used to carry the ganja and gave its
+[@1,2] Police seized the toto rickshaw used to carry the ganja and gave its
 registration number as BR01PT6981. [@1] In a press note issued by Fatuha police
 sub-divisional officer-1 Awadhesh Kumar, police said the tip was that a
 ganja-like intoxicant was being carried loaded on a toto rickshaw from the
@@ -61,4 +67,3 @@ and said investigation into its network and other smugglers continues. [@1]
 Police are checking the accused's criminal history and possible drug-trafficking
 network. [@1] Police are also trying to establish whether the vehicle belongs to
 the accused or someone else and who else is involved. [@1]
-
