@@ -39,6 +39,11 @@ sources:
     publisher: Ouest-France
     date: 2026-06-05
     language: fr
+  - title: '185 kg de cannabis saisis à Roissy : un Rennais soupçonné d’être à la tête d’un trafic vers la Martinique'
+    url: https://unidivers.fr/185-kg-cannabis-roissy-rennes-martinique-ofast/
+    publisher: Unidivers
+    date: 2026-06-09
+    language: fr
 open_questions:
   - RCI describes the 185 kilograms as cannabis resin while actu Rennes describes pressed resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
   - The reports say the five men were placed in pretrial detention under a judicial investigation but do not state formal charge wording or any court outcome.
@@ -46,28 +51,29 @@ open_questions:
   - The submitted page's lead image uses a 2023 resin-illustration file and is not established to show this seizure, so no media entry is included.
   - Only the opening of the Ouest-France article could be read; the remainder is paywalled, so later custody, charge or court details are not established from this source.
   - The page image is credited to AFP with a caption describing the interception and is not established to show this seizure, so no media entry is included.
+  - The Unidivers account dates the Roissy arrests to Tuesday 2 June 2026, differing from the existing report's 2 May 2026 date; the identical quantity, airport, destination and five-suspect sequence show the same event.
 ---
 
 Border police detained four men at Paris-Charles-de-Gaulle airport on 2 May 2026
 as they were about to board a flight to Fort-de-France in Martinique. [@1]
 Investigators then arrested a 29-year-old Guadeloupean man in Rennes on
-suspicion of heading the network. [@1] The five suspects were placed in pretrial
-detention. [@1] The Rennes prosecution service took over the case from Bobigny
+suspicion of heading the network. [@1,5] The five suspects were placed in pretrial
+detention. [@1,5] The Rennes prosecution service took over the case from Bobigny
 and assigned the investigation to OFAST, France's anti-drug office. [@3] The
 four airport suspects were brought back to Rennes and held in police custody
 there. [@3]
 
 A routine customs check of the couriers' suitcases uncovered the cannabis. [@1,4]
-Officers seized 185 kilograms of cannabis from those suitcases. [@2,4] The load
+Officers seized 185 kilograms of cannabis from those suitcases. [@2,4,5] The load
 included pressed resin loaves and bags of cannabis herb. [@3,4] The four are
-described as suspected drug transporters. [@2] Investigators say they moved
+described as suspected drug transporters. [@2,5] Investigators say they moved
 cannabis between Brittany and Martinique, where cannabis resin sells for more.
 [@2]
 
 OFAST investigators are working to reconstruct how the network operated and to
 identify other possible accomplices. [@1] Investigators suspect a
 cross-trafficking scheme sending cannabis toward the islands and bringing
-cocaine back toward Europe. [@1] The suspected Rennes organizer allegedly ran an
+cocaine back toward Europe. [@1,5] The suspected Rennes organizer allegedly ran an
 import-export operation between mainland France and the overseas territories.
 [@3] Reports present the Antilles route as lucrative because cannabis resells
 there for three times the mainland price. [@3] The suspected method was to
