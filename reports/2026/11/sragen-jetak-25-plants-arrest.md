@@ -22,6 +22,11 @@ media:
     media_url: https://asset-2.tribunnews.com/solo/foto/bank/images/GANJA-Penampakan-25-pohon-ganja-yang-ditanam-BW-warga-Desa-Jetak.jpg
     publisher: Tribunsolo.com
     caption: 'Police display of the 25 cannabis plants seized from BW at Sragen police headquarters, with seedlings and dried cannabis. Photo: Tribun Solo/Mardon Widiyanto'
+  - kind: photo
+    url: https://regional.kompas.com/read/2026/11/04/173352778/warga-sragen-tanam-25-pohon-ganja-di-bekas-galon-air-mineral-mau-digunakan?source=terkini_artikel
+    media_url: https://asset.kompas.com/crops/_dS8SN5SKzifgZTzjjJfED9IHoE=/0x0:0x0/1200x800/data/photo/2026/11/04/6aeb04a24aff1.jpg
+    publisher: KOMPAS.com
+    caption: 'Sragen police chief shows a seized about-170-cm cannabis plant from suspect BW''s house at a press conference at Sragen police headquarters. Photo: KOMPAS.com/Agus Iswadi'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d555c0fd58d0dab6c0d3a00d7c61352a
@@ -32,16 +37,25 @@ sources:
     publisher: Tribunsolo.com
     date: 2026-11-04
     language: id
+  - title: Warga Sragen Tanam 25 Pohon Ganja di Bekas Galon Air Mineral, Mau Digunakan Saat Momen Pergantian Tahun
+    url: https://regional.kompas.com/read/2026/11/04/173352778/warga-sragen-tanam-25-pohon-ganja-di-bekas-galon-air-mineral-mau-digunakan?source=terkini_artikel
+    publisher: KOMPAS.com
+    date: 2026-11-04
+    language: id
 open_questions:
   - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
   - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
   - No court outcome beyond the charge and the possible death penalty was reported.
   - The page carries two near-identical photos of the same seized plants; only one is listed as media.
   - The page also embeds an unrelated video thumbnail that does not show this event and is omitted.
+  - Kompas says the plants were 4 to 6 months old, while the existing report says 4 to 5 months; the report uses the earlier account and the difference is noted here.
+  - The new 5 kg figure is the police-calculated weight of the 25 live plants, distinct from the 15.8 grams of dried cannabis, and is not added to kg_seized without a dried-weight conversion.
+  - The article also reports a separate October 2026 Sragen total of 9 cases with 12 suspects involving methamphetamine, psychotropics and list-G drugs, a different enforcement total left out of this cannabis report.
+  - The page's second thumbnail about a Jakarta drug raid does not show this event and is omitted from media.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25
-cannabis stalks growing around his house. [@1] The man, identified only by the
+cannabis stalks growing around his house. [@1,2] The man, identified only by the
 initials BW, is now in police custody. [@1] Sragen police chief AKBP Heru
 Antariksa Cahya said BW lives in Sidoharjo district in Sragen. [@1]
 Investigators charged BW under Article 114 paragraph (2) of the 2009 Narcotics
@@ -50,7 +64,7 @@ law. [@1] Under that charge, police said he faces the most severe penalty of
 death. [@1]
 
 Police said they seized from BW at least 25 cannabis stalks and four cannabis
-seedlings plus 15.8 grams of dried cannabis. [@1] Police displayed the seized 25
+seedlings plus 15.8 grams of dried cannabis. [@1,2] Police displayed the seized 25
 plants at Sragen police headquarters on 4 November 2026 together with the
 seedlings and dried cannabis. [@1]
 
@@ -58,7 +72,8 @@ The Sragen district police narcotics chief AKP Sudarmiyanto said BW received
 cannabis seeds from a man from Aceh named Juan in Solo in April 2026. [@1] BW
 met Juan in Mangkunegaran in Keprabon village, Banjarsari district, Solo. [@1]
 Juan gave BW the cannabis seeds during a holiday outing. [@1] BW first sowed the
-cannabis seeds in a small basin. [@1] After receiving the seeds, he planted them
+cannabis seeds in a small basin. [@1,2] After receiving the seeds, he planted them
 around his house. [@1] The plants were four to five months old and were intended
 for New Year celebrations. [@1]
 
+Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
