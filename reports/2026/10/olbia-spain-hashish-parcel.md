@@ -55,31 +55,37 @@ sources:
     publisher: Sardinia Post
     date: 2026-10-23
     language: it
+  - title: 'Olbia, due chili di hashish in un pacco dalla Spagna: arrestato un 27enne'
+    url: https://lamaddalena.tv/2026/11/04/olbia-due-chili-di-hashish-in-un-pacco-dalla-spagna-arrestato-un-27enne/
+    publisher: La Maddalena TV
+    date: 2026-11-04
+    language: it
 open_questions:
   - No separate date for the arrest was published; 23 October 2026 is the date of both reports.
   - The man is not named, and no court outcome beyond being placed at the prosecutor's disposal in Tempio Pausania is reported.
   - An automatic Chinese translation of the same L'Unione Sarda article calls the parcel cannabis; the Italian text and Sardinia Post call it hashish, with 5.5 grams of marijuana found separately at the home.
   - The published photographs have no captions, so what each picture shows is not stated.
   - The 25,000-euro figure is the Guardia di Finanza estimate for the seized drugs as a whole, including the cocaine, not for the hashish alone.
+  - The new account gives the about 25,000-euro estimate but does not mention the more than 2,000 doses figure in the existing report.
+  - The page's only image for this event is the Guardia di Finanza logo, with the other thumbnails showing unrelated cases, so no new event photo can be added.
 ---
 
 A 27-year-old man from Olbia was arrested by officers of the Guardia di Finanza,
-Italy's finance police, after he collected a parcel sent from Spain. [@1] The
-Olbia group had been watching postal shipments and waited for the delivery. [@1]
+Italy's finance police, after he collected a parcel sent from Spain. [@1,3] The
+Olbia group had been watching postal shipments and waited for the delivery. [@1,3]
 At a pickup point in the centre of Olbia the man, the real recipient, appeared
 agitated when the officers questioned him. [@1] He is accused of holding drugs
-for the purpose of dealing. [@1]
+for the purpose of dealing. [@1,3]
 
 The parcel that drew their attention was addressed to a name that turned out to
-be invented. [@1] Officers opened it and found 20 vacuum-packed blocks of
-hashish, cannabis resin, of 100 grams each, two kilograms in all. [@2] The
+be invented. [@1,3] Officers opened it and found 20 vacuum-packed blocks of
+hashish, cannabis resin, of 100 grams each, two kilograms in all. [@2,3] The
 operation also seized a modest quantity of cocaine. [@1]
 
 A later search of the man's home found about 5.5 grams of marijuana and 12 grams
 of cocaine already divided into doses for sale, plus packaging materials, two
-precision scales and a cutting agent. [@1] The Guardia di Finanza estimated that
+precision scales and a cutting agent. [@1,3] The Guardia di Finanza estimated that
 the seized drugs, if put on the market, would have brought in about 25,000 euros
-and made more than 2,000 doses. [@2] He was placed at the disposal of the public
+and made more than 2,000 doses. [@2,3] He was placed at the disposal of the public
 prosecutor's office in Tempio Pausania, and the drugs and the material from the
-search were seized. [@2]
-
+search were seized. [@2,3]
