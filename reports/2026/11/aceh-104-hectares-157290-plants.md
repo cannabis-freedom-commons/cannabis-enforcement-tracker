@@ -26,6 +26,11 @@ media:
     media_url: https://www.pantau.com/_next/image?url=https%3A%2F%2Fpantau.sgp1.cdn.digitaloceanspaces.com%2Fimages%2F20261102-4126-screenshot-2026-11-02-213853.jpg&w=1200&q=75
     publisher: Pantau.com
     caption: 'Joint personnel destroying a cannabis field in Aceh Besar, Aceh, on 1 November 2026. Photo: Bidhumas Polda Aceh via Pantau.'
+  - kind: photo
+    url: https://posaceh.com/polda-aceh-musnahkan-10486-hektare-ladang-ganja-di-enam-kabupaten/amp/
+    media_url: https://posaceh.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-02-at-00.15.16-e1793589199832.jpeg
+    publisher: Pos Aceh
+    caption: 'Personnel pulling up cannabis stalks during the Aceh eradication operation. Photo: Humas Polda Aceh via Pos Aceh'
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 1cad32236829d6e2598339175ac8ced8
@@ -106,6 +111,11 @@ sources:
     publisher: MASAKINI.CO
     date: 2026-11-02
     language: id
+  - title: Polda Aceh Musnahkan 104,86 Hektare Ladang Ganja di Enam Kabupaten
+    url: https://posaceh.com/polda-aceh-musnahkan-10486-hektare-ladang-ganja-di-enam-kabupaten/amp/
+    publisher: Pos Aceh
+    date: 2026-11-02
+    language: id
 open_questions:
   - No arrests, suspects or charges were reported from the two-day operation.
   - The accounts give no breakdown of area or plant numbers by district, and no separate figure for dried cannabis; 78.645 tonnes is the police estimate of the total weight of the plants destroyed.
@@ -122,19 +132,19 @@ open_questions:
 
 Aceh provincial police and the Aceh provincial narcotics agency (BNNP Aceh)
 destroyed cannabis fields across six district police jurisdictions in Aceh over
-two days, from 31 October to 1 November 2026. [@1,4,5,6,7,8,9,10,12,13,14,15] The fields were in the areas
+two days, from 31 October to 1 November 2026. [@1,4,5,6,7,8,9,10,12,13,14,15,16] The fields were in the areas
 policed by the Aceh Besar, Pidie, Lhokseumawe, Aceh Timur, Bener Meriah and
-Nagan Raya district police. [@1,4,5,6,7,8,9,10,11,13,14,15]
+Nagan Raya district police. [@1,4,5,6,7,8,9,10,11,13,14,15,16]
 
-Officers cleared and destroyed about 104.86 hectares in the sweep. [@2,4,5,6,7,8,9,10,11,12,13,14,15] The
+Officers cleared and destroyed about 104.86 hectares in the sweep. [@2,4,5,6,7,8,9,10,11,12,13,14,15,16] The
 joint teams destroyed about 157,290 cannabis plants, an estimated 78.645 tonnes
-in total. [@2,4,5,6,7,8,9,10,11,13,14,15] The provincial police's drug directorate chief, Kombes Pol.
-Gazali Ahmad, gave the figures through the spokesman. [@1,4]
+in total. [@2,4,5,6,7,8,9,10,11,13,14,15,16] The provincial police's drug directorate chief, Kombes Pol.
+Gazali Ahmad, gave the figures through the spokesman. [@1,4,16]
 
 Aceh police spokesman Kombes Pol. Joko Krisdiyanto said the operation aimed to
-cut the narcotics supply chain at its production source. [@3,15] Joko said the
+cut the narcotics supply chain at its production source. [@3,15,16] Joko said the
 drive was not only about law enforcement but also about restoring former
 cannabis land so it could be converted to productive use for local communities.
-[@1,15] He said it formed part of the national police chief's priority programme,
+[@1,15,16] He said it formed part of the national police chief's priority programme,
 Polisi Bersama Masyarakat (Police with the Community), through its Quick Wins 2
-land-recovery component. [@1,15]
+land-recovery component. [@1,15,16]
