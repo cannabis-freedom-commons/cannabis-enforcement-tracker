@@ -1,0 +1,60 @@
+---
+code: YW8KHZ
+added_at: "2026-11-04T14:40:39.570501Z"
+date: 2026-11-03
+country: in
+place: Tamil Nadu
+coordinates: [11.1271, 78.6569]
+precision: region
+type: arrest
+also: [seizure, raid]
+title: 344 arrested in Tamil Nadu drug sweep seizing 262 kg cannabis
+summary: >-
+  Tamil Nadu police arrested 344 people in a one-day coordinated statewide anti-drug operation on 3 November 2026, registering 283 cases across 38 districts and nine cities. Officers seized 242.2 kg of ganja and 19.8 kg of hashish and burned 6,958 kg of previously seized ganja as part of the drive.
+figures:
+  arrested: 344
+  kg_seized: 7220
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 1c5bf02f6606f8d51bb30ed289f84528
+tags: [tamil-nadu, ganja, hashish]
+sources:
+  - title: 'தமிழகம் முழுவதும் ஒரே நாளில் தீவிர போதைப்பொருள் ஒழிப்புச் சோதனை: 344 பேர் அதிரடிக் கைது'
+    url: https://www.tamilmurasu.com.sg/tamilnadu/intensive-anti-drug-eradication-drive-across-tamil-nadu-single-day-344-dramatically-arrested
+    publisher: Tamil Murasu
+    date: 2026-11-04
+    language: ta
+  - title: 'தமிழகம் முழுவதும் ஒரே நாளில் அதிரடி சோதனை: 344 போதைப்பொருள் குற்றவாளிகள் கைது'
+    url: https://www.dailythanthi.com/news/tamilnadu/action-raids-across-tamil-nadu-in-a-single-day-344-drug-offenders-arrested
+    publisher: Daily Thanthi
+    date: 2026-11-04
+    language: ta
+open_questions:
+  - The incident date is 3 November 2026 from the explicit 03.11.2026 date and yesterday relative to the 4 November publications.
+  - The kg figure combines newly seized 242.2 kg ganja and 19.8 kg hashish with separately quantified 6,958 kg destroyed ganja; 0.250 kg methamphetamine, 12.298 kg other drugs, 2,143 tablets, gutka and IMFL were excluded as non-cannabis.
+  - Train-search 104.36 kg versus 104.361 kg and checkpoint 23,000-plus versus 23,744 vehicles differ by rounding between sources and are parts of the operation total, not added separately.
+  - No charges, custody or court outcomes were reported beyond arrests and warrant executions.
+  - The submitted page image caption describes 451 kg from 232 cases in nine districts, not this 38-district operation, so no media entry is included.
+---
+
+Tamil Nadu police carried out a one-day coordinated special operation against
+narcotic and banned substances on 3 November 2026. [@2] The drive covered 38
+districts and nine cities on the orders of Director General of Police Mahesh
+Kumar Agarwal under Crime Branch CID supervision. [@1] Officers registered 283
+cases and arrested 344 offenders in the operation. [@2] The total included 64
+absconding accused who were caught and 44 non-bailable warrants that were
+executed. [@2]
+
+Officers seized 242.2 kg of ganja and 19.8 kg of hashish alongside other drugs
+that are not counted as cannabis. [@1] Police seized nearly 19.8 kg of hashish
+on the Ramanathapuram coast and arrested 34-year-old Mano of Thiruvadanai. [@1]
+Searches of 357 trains with sniffer dogs yielded 104.36 kg of ganja as part of
+the operation. [@1] As part of the drive, police burned 6,958 kg of ganja and
+0.25 kg of methamphetamine held from earlier cases. [@2]
+
+Teams identified 3,242 drug hotspots, including 1,367 sites near educational
+institutions. [@2] Officers searched 890 student hostels simultaneously across
+the state. [@2] Officers checked 23,744 vehicles at state and district border
+checkpoints and registered 62 cases. [@2] Police held 3,972 awareness programmes
+and inspected 175 rehabilitation centres. [@1]
+
