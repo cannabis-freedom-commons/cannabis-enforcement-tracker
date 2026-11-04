@@ -20,6 +20,11 @@ media:
     media_url: https://www.thehawk.in/_next/image?url=https%3A%2F%2Fmedia.thehawk.in%2F1867a077-4cae-49d8-aaf0-a17f7681f945%2F202611044002716-8849821b-cd1c-4cb2-b281-7d81a23781ff.avif&w=1080&q=75
     publisher: The Hawk
     caption: Photo published with the report on the 7.85 kg hashish seizure in Mumbai.
+  - kind: photo
+    url: https://www.mid-day.com/mumbai/mumbai-crime-news/article/mumbai-drug-bust-dri-seizes-7-85-kg-hashish-concealed-in-bathroom-mirror-frame-in-mumbai-one-arrested-23658480
+    media_url: https://images.mid-day.com/images/images/2026/nov/Hash-caught-DRI-lead_1793797641893_d.jpg
+    publisher: Mid-Day
+    caption: The seized substance confiscated by the DRI under the NDPS Act. (Pic via special arrangement)
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdbf702e7a9da205d6627eccf8ff9361
@@ -28,6 +33,10 @@ sources:
   - title: DRI busts hashish smuggling racket in Mumbai, seizes 7.85 kg consignment, one arrested
     url: https://www.thehawk.in/news/india/dri-busts-hashish-smuggling-racket-in-mumbai-seizes-785-kg-consignment-one-arrested
     publisher: The Hawk
+    date: 2026-11-04
+  - title: 'Mumbai drug bust: DRI seizes 7.85 kg hashish concealed in bathroom mirror frame in Mumbai, one arrested'
+    url: https://www.mid-day.com/mumbai/mumbai-crime-news/article/mumbai-drug-bust-dri-seizes-7-85-kg-hashish-concealed-in-bathroom-mirror-frame-in-mumbai-one-arrested-23658480
+    publisher: Mid-Day
     date: 2026-11-04
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
@@ -39,7 +48,7 @@ open_questions:
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
 international racket that concealed hashish in a courier shipment sent from New
-York in the United States to Mumbai. [@1] After sustained investigation,
+York in the United States to Mumbai. [@1,2] After sustained investigation,
 officers identified and traced the intended recipient of the consignment. [@1]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
 [@1] Officials said further investigation is under way to uncover the larger
@@ -47,12 +56,12 @@ network, identify other people involved and establish domestic and international
 linkages. [@1]
 
 Acting on specific intelligence, officers uncovered the operation and seized
-7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1]
+7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2]
 Officers intercepted and examined the suspicious courier consignment at the
-International Courier Terminal in Mumbai. [@1] The package had been declared as
-a framed bathroom wall mirror. [@1] During detailed inspection, officers
+International Courier Terminal in Mumbai. [@1,2] The package had been declared as
+a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
 dismantled the wooden cuboidal frame and found eight concealed packets hidden
-inside the structure. [@1] Those packets contained 169 smaller packets filled
+inside the structure. [@1,2] Those packets contained 169 smaller packets filled
 with a blackish resinous substance of varying weights. [@1] The material tested
 positive for hashish in preliminary testing with an NDPS field testing kit. [@1]
 Officers put the total gross weight of the seized contraband at 7,850 grams.
@@ -64,4 +73,3 @@ it remains committed to combating drug trafficking and dismantling organized
 narcotics networks. [@1] The agency said such operations support the Government
 of India's Nasha Mukt Bharat Abhiyaan and its broader objective of creating a
 drug-free India. [@1]
-
