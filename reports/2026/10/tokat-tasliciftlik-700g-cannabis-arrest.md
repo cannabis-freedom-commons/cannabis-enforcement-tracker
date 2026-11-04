@@ -44,18 +44,19 @@ open_questions:
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00
-on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1] Officers
-detained one suspect in connection with the vehicle and home searches. [@1]
+on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2] Officers
+detained one suspect in connection with the vehicle and home searches. [@1,2]
 
 A judicial search of the vehicle found 380 grams of vacuum-packed kubar esrar,
-herbal cannabis, together with one banknote-counting machine. [@1] A search of
+herbal cannabis, together with one banknote-counting machine. [@1,2] A search of
 the driver's home in central Turhal found another 320 grams of vacuum-packed
 kubar esrar. [@2] Officers also recovered one vacuum machine, 5 kilograms of
-odour remover, a digital scale and a knuckle duster from the home. [@1] The
+odour remover, a digital scale and a knuckle duster from the home. [@1,2] The
 vehicle and home searches together yielded a total of 700 grams of kubar esrar.
 [@2]
 
 O.B. was taken into custody on the instructions of the public prosecutor and was
-then remanded in custody by the court. [@1] No other suspect was named in
+then remanded in custody by the court. [@1,2] No other suspect was named in
 connection with the seizure. [@2]
 
+The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command. [@2]
