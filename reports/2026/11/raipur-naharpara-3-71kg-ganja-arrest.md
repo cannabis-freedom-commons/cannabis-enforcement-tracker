@@ -27,17 +27,25 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: ओडिशा से गांजा लाकर रायपुर में बेचने की फिराक में घूम रहा यूपी का युवक गिरफ्तार, 3.710 किलो गांजा जब्त
+    url: https://vocaltv.in/crime/odisha-to-raipur-ganja-smuggling-bustedphp/cid19491809.htm
+    publisher: Vocal TV
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives 3 November as the date the tip was received and 4 November as its publication date, with no separate arrest date stated, so 3 November is used as the incident date.
   - No court outcome beyond sending the accused for judicial remand was reported.
   - Only one accessible source for this event was found after searching in English and Hindi.
   - The page cover image has no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The new account values the seizure at Rs 185,500 while the existing report records about Rs 185,000; the report's figure is retained.
+  - The new account spells the school as Atmanand while the existing report uses Anandam; the Naharpara Road, Ganj, Raipur match is otherwise exact.
+  - The page carries a photo captioned with the same headline but with no credit or description establishing that it shows this seizure, so no media entry is included.
 ---
 
 Ganj police in Raipur arrested 26-year-old Shivam Mishra, son of Chhail Bihari
-Mishra. [@1] Mishra is a resident of Umaria village in Itwa police-station area
-of Siddharthnagar district in Uttar Pradesh. [@1] Police said he had brought
-ganja from Odisha to Raipur and was preparing to sell it. [@1] On 3 November, an
+Mishra. [@1,2] Mishra is a resident of Umaria village in Itwa police-station area
+of Siddharthnagar district in Uttar Pradesh. [@1,2] Police said he had brought
+ganja from Odisha to Raipur and was preparing to sell it. [@1,2] On 3 November, an
 informant told police that a youth in a red full shirt and black trousers was
 standing on Naharpara Road near Anandam School with a leather bag containing
 ganja brought from Odisha. [@1] The informant said he was looking for customers
@@ -47,9 +55,10 @@ cordoned the area and caught the suspect. [@1]
 Police said he was carrying the ganja in four separate packets in the bag while
 looking for a customer. [@1] The search of the leather bag recovered ganja in
 four white wrappers, which weighed a total of 3 kg 710 g on an electronic scale.
-[@1] Police valued the seized 3.71 kg of ganja at about Rs 185,000. [@1]
+[@1] Police valued the seized 3.71 kg of ganja at about Rs 185,000. [@1,2]
 
 Ganj station in-charge Deepak Paswan said a case was registered at Ganj police
 station as crime number 323/2026 under Section 20(B) of the NDPS Act. [@1] The
 accused was arrested and sent to court for judicial remand. [@1]
 
+A joint team of the Anti Crime and Cyber Unit, the Anti Narcotic Task Force and Ganj police reached the spot and identified the suspect. [@2] The accused tried to flee on seeing the police team but was surrounded and caught. [@2] Police are questioning the accused about the availability, transport and sale network and tracing the sources and potential buyers. [@2]
