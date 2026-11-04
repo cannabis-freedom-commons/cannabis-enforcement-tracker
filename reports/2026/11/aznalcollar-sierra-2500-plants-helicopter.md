@@ -71,6 +71,11 @@ sources:
     publisher: Ministerio del Interior
     date: 2026-11-04
     language: es
+  - title: Intervenidas 2.500 plantas de marihuana en una zona montañosa con acceso solo a pie
+    url: https://www.infobae.com/espana/agencias/2026/11/04/intervenidas-2500-plantas-de-marihuana-en-una-zona-montanosa-con-acceso-solo-a-pie/
+    publisher: Infobae
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -81,24 +86,27 @@ open_questions:
   - The La Noción page displays a photograph filed as 311026_complejo_marihuana_5.jpg with only the generic alt text Foto de la noticia and no credit, so it was not added as a confirmed distinct event photo.
   - The El Pespunte page carries four additional images without captions or credits, so they could not be confirmed as distinct event photos.
   - The five images on the 21Noticias page carry empty captions and attributions, so none could be confirmed as showing this event and no media entry was added.
+  - This EFE version names only Sevilla province, not Aznalcóllar, so the Aznalcóllar locality rests on the existing sources.
+  - This version confirms prison without bail but does not name the Sanlúcar la Mayor courts, so that court detail rests on the existing sources.
+  - The submitted page shows only unrelated sidebar images and no confirmed event photo, so no media entry is added.
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6] Officers detained four people at the site. [@1,2,3,4,5,6,7] The four suspects tried to
+[@1,3,4,5,6] Officers detained four people at the site. [@1,2,3,4,5,6,7,8] The four suspects tried to
 escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7]
 Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7]
 The detainees were brought before those courts as alleged perpetrators of
 public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7] The
-investigation remains open. [@1,2,5]
+investigation remains open. [@1,2,5,8]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7] Some of the plants stood
-more than two metres tall. [@1,2,3,6,7] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1,3,7] From there, a
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8] Some of the plants stood
+more than two metres tall. [@1,2,3,6,7,8] Because vehicles could not be used, agents cut
+the plants and carried them to a point near a dry riverbed. [@1,3,7,8] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
 [@1,2,3,6,7] Each growing area had its own irrigation system despite the steep slope and
-lack of conventional connections. [@1] Those running the site had installed
+lack of conventional connections. [@1,8] Those running the site had installed
 motors, pipes and large water stores including pools across the sierra. [@1] The
 site also had electric generators, tools and drying rooms. [@1] Officers found
 the 50 kilograms of dried buds in one drying dependency after processing. [@1]
@@ -116,6 +124,6 @@ nearby towns. [@1] Keepers could carry on daily work without travelling
 regularly to nearby towns. [@1] A nearby watercourse helped supply the crops.
 [@1]
 
-The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3]
+The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8]
 
 Police said further linked plantations and other people involved have not been ruled out. [@3]
