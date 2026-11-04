@@ -511,6 +511,39 @@ sup.cite a { color: var(--cite); text-decoration: none; }
   .map-timeline .months { height: 34px; margin-top: 6px; }
 }
 @media (max-width: 420px) { .map-bar-toggle-label { display: none; } }
+/* dropdowns: Select.astro and the searchable CountryPicker.astro, on data-slot (ui-controls.js) */
+.ui-picker { position: relative; min-width: 0; }
+.ui-trigger { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; min-height: 34px; padding: 0 10px; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); font: 13px Inter, system-ui, sans-serif; text-align: left; cursor: pointer; }
+.ui-trigger:hover { border-color: var(--text-2); }
+.ui-trigger:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+.ui-trigger svg { width: 9px; height: 6px; flex: none; color: var(--text-2); transition: transform .12s; }
+.ui-trigger[data-state="open"] svg, [data-state="open"] > .ui-trigger svg { transform: rotate(180deg); }
+.ui-value { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ui-trigger[data-placeholder] .ui-value { color: var(--text-2); }
+.ui-content { z-index: 30; display: flex; flex-direction: column; min-width: max(var(--anchor-width, 0px), 200px); max-width: min(360px, calc(100vw - 16px)); max-height: min(380px, var(--available-height, 380px)); background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); overflow: hidden; font: 13px Inter, system-ui, sans-serif; }
+.ui-content[hidden] { display: none; }
+.ui-search { flex: none; margin: 6px 6px 2px; padding: 7px 9px; background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); font: inherit; outline: none; }
+.ui-search:focus { border-color: var(--text-2); }
+.ui-list { flex: 1; min-height: 0; overflow-y: auto; overscroll-behavior: contain; padding: 4px; }
+.ui-item { display: flex; align-items: center; gap: 8px; padding: 6px 8px; border-radius: var(--r); color: var(--text-2); cursor: pointer; scroll-margin: 4px; }
+.ui-item[hidden] { display: none; }
+.ui-item[data-highlighted] { background: var(--surface-2); color: var(--text); }
+.ui-item[data-selected], .ui-item[aria-selected="true"] { color: var(--text); font-weight: 500; }
+.ui-item[data-selected]::after, .ui-item[aria-selected="true"]::after { content: "✓"; margin-left: 4px; color: var(--text); font-weight: 400; }
+.ui-sub { padding-left: 24px; }
+.ui-flag { flex: none; width: 1.4em; text-align: center; }
+.ui-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ui-name small { color: var(--muted); font-weight: 400; }
+.ui-count { flex: none; margin-left: auto; color: var(--muted); font: 11px var(--mono); }
+.ui-empty { padding: 10px 8px; color: var(--muted); font-size: 12.5px; }
+.ui-label { padding: 8px 8px 4px; color: var(--muted); font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; }
+.map-bar .country-picker { flex: 0 1 200px; min-width: 130px; }
+.map-bar:not(.is-page) .country-picker .ui-trigger { box-shadow: var(--shadow); }
+.map-bar.is-page .country-picker { flex: 0 1 240px; }
+.map-bar.is-page .ui-trigger { min-height: 40px; }
+.custom-period .ui-trigger { min-height: 32px; background: var(--bg); }
+@media (max-width: 860px) { .map-bar .country-picker { flex: 1 1 100%; } .map-bar .country-picker .ui-trigger { min-height: 38px; } }
+
 /* "+ Filter": a figure's range, the check status or "has a photo" (FilterBar.astro) */
 .add-filter { display: inline-flex; align-items: center; gap: 6px; flex: none; padding: 0 11px; min-height: 34px; background: var(--surface); color: var(--text-2); border: 1px dashed var(--muted); border-radius: var(--r); font: 500 12px Inter, system-ui, sans-serif; cursor: pointer; white-space: nowrap; }
 .map-bar:not(.is-page) .add-filter { box-shadow: var(--shadow); }
@@ -519,6 +552,7 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .add-filter:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
 .fig-popover { width: 340px; }
 .fig-choose { display: grid; gap: 4px; color: var(--text-2); font-size: 12px; }
+.fig-choose .ui-picker { color: var(--text); }
 .fig-choose[hidden], .custom-range[hidden] { display: none; }
 #fig-apply { padding: 7px 10px; background: var(--accent); color: var(--accent-ink); border: 1px solid var(--accent); border-radius: var(--r); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; }
 

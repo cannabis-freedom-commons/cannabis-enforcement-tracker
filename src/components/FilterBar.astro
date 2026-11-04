@@ -10,17 +10,15 @@
 //     only All time and Custom (a list by year, not a window on recent events)
 //   country: a country page's own country, fixed (no country choice)
 import { reports, reportsOf, years as allYears, isoDate } from "../lib/reports.js";
-import { countries } from "../lib/countries.js";
 import { TYPES, typeIcon } from "../lib/types.js";
 import { FIGURE_FILTERS, STATUSES } from "../lib/figure-filters.js";
+import CountryPicker from "./CountryPicker.astro";
+import Select from "./Select.astro";
 const { layout = "map", country = null } = Astro.props;
 const page = layout === "page";
 const list = country ? reportsOf(country) : reports;
 const years = country ? [...new Set(list.map((r) => r.year))].sort((a, b) => b - a) : allYears;
 
-const places = countries.filter((c) => !c.parent).sort((a, b) => a.name.localeCompare(b.name))
-  .flatMap((c) => [{ id: c.id, name: c.name, count: reportsOf(c.id).length },
-    ...countries.filter((s) => s.parent === c.id).map((s) => ({ id: s.id, name: ` ${s.name}`, count: reportsOf(s.id).length }))]);
 const usedTypes = Object.entries(TYPES).filter(([t]) => list.some((r) => r.type === t || r.also?.includes(t)));
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
@@ -56,34 +54,26 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
     </div>
     {country
       ? <input type="hidden" id="country" value={country} data-fixed />
-      : <select id="country" aria-label="Country">
-          <option value="">All countries</option>
-          {places.map((c) => <option value={c.id}>{c.name} ({c.count})</option>)}
-        </select>}
+      : <CountryPicker id="country" />}
     <button type="button" class="add-filter" id="add-filter" aria-expanded="false" aria-controls="fig-popover" aria-haspopup="dialog">
       <svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1v10M1 6h10" fill="none" stroke="currentColor" stroke-width="1.5" /></svg> Filter
     </button>
   </div>
   <div class="custom-period fig-popover" id="fig-popover" role="dialog" aria-label="Filter by a figure" hidden>
-    <label class="fig-choose">Filter by
-      <select id="fig-key">
-        <optgroup label="Figures the report states">
-          {FIGURE_FILTERS.map((f) => <option value={f.key}>{f.label}</option>)}
-        </optgroup>
-        <optgroup label="The report">
-          <option value="status">Check status</option>
-          <option value="photo">Has a photo</option>
-        </optgroup>
-      </select>
-    </label>
+    <div class="fig-choose"><span>Filter by</span>
+      <Select id="fig-key" label="Filter by" value={FIGURE_FILTERS[0].key} groups={[
+        { label: "Figures the report states", options: FIGURE_FILTERS.map((f) => ({ value: f.key, label: f.label })) },
+        { label: "The report", options: [{ value: "status", label: "Check status" }, { value: "photo", label: "Has a photo" }] },
+      ]} />
+    </div>
     <fieldset class="custom-range" id="fig-range">
       <legend>Range (either end may be left empty)</legend>
       <label>At least <input type="number" id="fig-min" min="0" step="any" inputmode="decimal" /></label>
       <label>At most <input type="number" id="fig-max" min="0" step="any" inputmode="decimal" /></label>
     </fieldset>
-    <label class="fig-choose" id="fig-status-row" hidden>Status
-      <select id="fig-status">{STATUSES.map(([v, l]) => <option value={v}>{l}</option>)}</select>
-    </label>
+    <div class="fig-choose" id="fig-status-row" hidden><span>Status</span>
+      <Select id="fig-status" label="Status" value="verified" options={STATUSES.map(([value, label]) => ({ value, label }))} />
+    </div>
     <button type="button" id="fig-apply">Add filter</button>
     <p class="custom-tip" id="fig-note">Only reports that state the figure are kept.</p>
   </div>
@@ -96,14 +86,8 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
     </fieldset>
     <fieldset class="calendar-filters" id="calendar-filters">
       <legend>Or a calendar year and month</legend>
-      <select id="year" aria-label="Year">
-        <option value="">All years</option>
-        {years.map((y) => <option value={y}>{y}</option>)}
-      </select>
-      <select id="month" aria-label="Month">
-        <option value="">All months</option>
-        {MONTHS.map((m, i) => <option value={String(i + 1).padStart(2, "0")}>{m}</option>)}
-      </select>
+      <Select id="year" label="Year" all="All years" options={years.map((y) => ({ value: String(y), label: String(y) }))} />
+      <Select id="month" label="Month" all="All months" options={MONTHS.map((m, i) => ({ value: String(i + 1).padStart(2, "0"), label: m }))} />
     </fieldset>
     <p class="custom-tip">{page ? "Or drag across the chart below." : "Or drag across the timeline at the bottom of the map."}</p>
   </div>

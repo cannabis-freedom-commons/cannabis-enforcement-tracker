@@ -1,0 +1,27 @@
+---
+// A dropdown (data-slot select, src/scripts/ui-controls.js) in the site's style, standing in for a
+// native <select>: its value is in a hidden input with `id`, so code reads and sets it the same way.
+//   options: [{ value, label }], or groups: [{ label, options }]; a value of "" is shown as `all`
+//   (when given) and stored as ""; `value` is the starting choice; `label` names it for readers.
+const { id, label, options = [], groups = null, value = "", all = null } = Astro.props;
+const list = groups ?? [{ label: null, options }];
+---
+<div class="ui-picker ui-select" data-slot="select" data-ui data-position="popper">
+  <button type="button" class="ui-trigger" data-slot="select-trigger" aria-label={label}>
+    <span class="ui-value" data-slot="select-value"></span>
+    <svg viewBox="0 0 10 6" aria-hidden="true"><path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.4" /></svg>
+  </button>
+  <div class="ui-content" data-slot="select-content" hidden>
+    <div class="ui-list" data-slot="select-viewport">
+      {all && <div class="ui-item" data-slot="select-item" data-value="*"><span data-slot="select-item-text">{all}</span></div>}
+      {list.map((g) => (
+        <div data-slot="select-group">
+          {g.label && <div class="ui-label" data-slot="select-label">{g.label}</div>}
+          {g.options.map((o) => <div class="ui-item" data-slot="select-item" data-value={o.value}><span data-slot="select-item-text">{o.label}</span></div>)}
+        </div>
+      ))}
+    </div>
+  </div>
+  <input type="hidden" id={id} value={value} data-ui-value />
+</div>
+<script>import "../scripts/ui-controls.js";</script>

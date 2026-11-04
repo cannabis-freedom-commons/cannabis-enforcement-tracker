@@ -121,7 +121,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     const q = $("q").value.trim().split(/\s+/).filter((w) => w && !w.startsWith("#")).join(" ");
     if (q) chips.push(["q", `“${q}”`]);
     if ($("tag").value) chips.push(["tag", `#${$("tag").value}`]);
-    if (!fixedCountry && $("country").value) chips.push(["country", ($("country") as unknown as HTMLSelectElement).selectedOptions[0].textContent!.trim().replace(/\s*\(\d[\d,]*\)$/, "")]);
+    if (!fixedCountry && $("country").value) chips.push(["country", countries[$("country").value] ?? $("country").value]);
     for (const t of on) if (types[t]) chips.push([`type:${t}`, types[t].label, types[t].color]);
     if (period.mode !== DEFAULT_RANGE) chips.push(["period", period.mode === "calendar" ? periodLabel(period) : PRESETS[period.mode] ?? period.mode]);
     for (const f of FIGURE_FILTERS) if (figs[f.key]) chips.push([`fig:${f.key}`, rangeLabel(f, figs[f.key])]);
@@ -385,10 +385,13 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       };
       button.addEventListener("click", () => open(panel.hidden));
       document.addEventListener("pointerdown", (e) => {
-        if (!panel.hidden && !panel.contains(e.target as Node) && !button.contains(e.target as Node)) open(false);
+        // a dropdown opened from the panel puts its list at the end of the page: still inside
+        const inDropdown = (e.target as Element).closest?.('[data-slot^="select-"], [data-slot^="combobox-"]');
+        if (!panel.hidden && !panel.contains(e.target as Node) && !button.contains(e.target as Node) && !inDropdown) open(false);
       });
       document.addEventListener("keydown", (e) => {
-        if (e.key === "Escape" && !panel.hidden) { open(false); button.focus(); }
+        // Escape in an open dropdown closes only the dropdown
+        if (e.key === "Escape" && !panel.hidden && !document.querySelector('[data-slot$="-content"]:not([hidden])[data-state="open"]')) { open(false); button.focus(); }
       });
       return open;
     };
@@ -398,14 +401,14 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       $("range-from").focus({ preventScroll: true });
     });
     // "+ Filter": choose a figure and its range (or the check status, or "has a photo"), then add it
-    const addButton = $("add-filter"), figKey = $("fig-key") as unknown as HTMLSelectElement;
+    const addButton = $("add-filter"), figKey = $("fig-key");
     const showFigure = () => {
       const f = FIGURE_FILTERS.find((x) => x.key === figKey.value), range = f && figs[f.key];
       $("fig-range").hidden = !f;
       $("fig-status-row").hidden = figKey.value !== "status";
       $("fig-min").value = range?.[0] != null ? String(range[0]) : "";
       $("fig-max").value = range?.[1] != null ? String(range[1]) : "";
-      if (figKey.value === "status") ($("fig-status") as unknown as HTMLSelectElement).value = status || "verified";
+      if (figKey.value === "status") $("fig-status").value = status || "verified";
       $("fig-note").textContent = f ? `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}` : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
       $("fig-apply").textContent = (f ? figs[f.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
     };
@@ -418,7 +421,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         if (range.some((v) => v != null && !(v >= 0))) return;
         if (range[0] == null && range[1] == null) delete figs[f.key];
         else figs[f.key] = range[0] != null && range[1] != null && range[0] > range[1] ? [range[1], range[0]] : range;
-      } else if (figKey.value === "status") status = ($("fig-status") as unknown as HTMLSelectElement).value;
+      } else if (figKey.value === "status") status = $("fig-status").value;
       else photo = true;
       apply();
       openFig(false);
@@ -464,14 +467,6 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
 
   loadIndex(base).then((idx) => {
     rows = fixedCountry ? idx.reports.filter((r) => inCountry(r, fixedCountry)) : idx.reports; countries = idx.countries;
-    const updateYears = () => {
-      const selected = period.year;
-      const values = [...new Set(rows.map(dateOf).filter(Boolean).map((d) => d.slice(0, 4)))];
-      if (selected) values.push(selected);
-      $("year").innerHTML = `<option value="">All years</option>` + [...new Set(values)].sort().reverse().map((y) => `<option value="${y}">${y}</option>`).join("");
-      $("year").value = selected;
-    };
-    updateYears();
     const onTag = (tag: string) => { $("tag").value = tag; apply(); };
     updateTags = initTagSuggest($("q"), $("tag-suggest"), $("tag-chip"), { selected: () => $("tag").value, onSelect: onTag });
     haystack = new Map(rows.map((r) => [r, [r.ti, r.s, r.p, countries[r.c], types[r.t].label, r.k].join(" ").toLowerCase()]));
@@ -514,7 +509,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       hideTimelineTooltip();
     });
     document.querySelectorAll<HTMLButtonElement>("[data-range]").forEach((button) => button.addEventListener("click", () => {
-      setPeriod(changePeriod(button.dataset.range!, { year: $("year").value, month: $("month").value, date: day }, $("year").querySelectorAll("option")[1]?.value || ""));
+      setPeriod(changePeriod(button.dataset.range!, { year: $("year").value, month: $("month").value, date: day }, ""));
       apply();
       if (period.mode === "calendar") $("year").focus();
     }));

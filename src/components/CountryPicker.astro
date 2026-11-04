@@ -1,0 +1,36 @@
+---
+// A searchable country picker (data-slot combobox, src/scripts/ui-controls.js): a button with the
+// chosen country's flag and name that opens a search box over every CFI country and territory,
+// with its states underneath, flags and report counts. The value is in a hidden input with `id`
+// ("" for all countries), so code reads and sets it like a <select>'s.
+import { countries, flagOf } from "../lib/countries.js";
+import { reportsOf } from "../lib/reports.js";
+const { id = "country", label = "Country", all = "All countries" } = Astro.props;
+const fmt = (n) => n.toLocaleString("en-GB");
+const places = countries.filter((c) => !c.parent).sort((a, b) => a.name.localeCompare(b.name))
+  .flatMap((c) => [{ ...c, count: reportsOf(c.id).length },
+    ...countries.filter((s) => s.parent === c.id).sort((a, b) => a.name.localeCompare(b.name)).map((s) => ({ ...s, count: reportsOf(s.id).length, parentName: c.name }))]);
+---
+<div class="ui-picker country-picker" data-slot="combobox" data-ui data-open-on-focus="false" data-auto-highlight>
+  <button type="button" class="ui-trigger" data-slot="combobox-trigger" tabindex="0" aria-label={label}>
+    <span class="ui-value" data-slot="combobox-value">{all}</span>
+    <svg viewBox="0 0 10 6" aria-hidden="true"><path d="m1 1 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.4" /></svg>
+  </button>
+  <div class="ui-content" data-slot="combobox-content" hidden>
+    <input class="ui-search" data-slot="combobox-input" placeholder="Search countries and states…" aria-label={`Search: ${label}`} autocomplete="off" spellcheck="false" />
+    <div class="ui-list" data-slot="combobox-list">
+      <div class="ui-empty" data-slot="combobox-empty">No country or state matches.</div>
+      <div class="ui-item" data-slot="combobox-item" data-value="*" data-label={all}><span class="ui-flag" aria-hidden="true">🌐</span><span class="ui-name">{all}</span></div>
+      {places.map((c) => (
+        <div class:list={["ui-item", { "ui-sub": c.parent }]} data-slot="combobox-item" data-value={c.id}
+          data-label={c.parentName ? `${c.name}, ${c.parentName}` : c.name} data-display={`${flagOf(c.id)} ${c.name}`}>
+          <span class="ui-flag" aria-hidden="true">{flagOf(c.id)}</span>
+          <span class="ui-name">{c.name}{c.parentName && <small> · {c.parentName}</small>}</span>
+          <small class="ui-count">{c.count ? fmt(c.count) : "–"}</small>
+        </div>
+      ))}
+    </div>
+  </div>
+  <input type="hidden" id={id} value="" data-ui-value />
+</div>
+<script>import "../scripts/ui-controls.js";</script>
