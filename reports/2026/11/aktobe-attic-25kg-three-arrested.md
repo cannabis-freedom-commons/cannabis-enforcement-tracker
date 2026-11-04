@@ -45,6 +45,11 @@ sources:
     publisher: Kazlenta.kz
     date: 2026-11-04
     language: ru
+  - title: 'С чердака дома изъяли более 25 кг марихуаны: в Актобе задержали троих подозреваемых'
+    url: https://www.caravan.kz/news/s-cherdaka-doma-izjali-bolee-25-kg-marihuany-v-aktobe-zaderzhali-troih-podozrevaemyh/
+    publisher: Караван
+    date: 2026-11-04
+    language: ru
 open_questions:
   - The article gives no separate date for the search and detentions; 4 November 2026 is the publication date and is used as the incident date.
   - The names and ages of the three detained men were not published.
@@ -55,25 +60,26 @@ open_questions:
   - The Astana Today page shows only a short excerpt headed Сегодня, 16:44 and redirects to NUR.KZ for the full text; 4 November 2026 is used as its publication date from the page header and capture context.
   - The Astana Today image reuses the NUR.KZ police image already recorded for the report, so no new media entry is added.
   - The Kazlenta page shows a photo credited to polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
+  - The Caravan page displays a photo credited to Polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
 ---
 
 Police in Aktobe detained three city residents suspected of illegal trafficking
 of narcotic drugs. [@1,2,4] Officers said operational-search measures had disrupted
 the activity of people suspected of illegal circulation of narcotic drugs. [@1]
 Police said that, according to preliminary information, all three men were under
-the influence of drugs when they were detained. [@1,4]
+the influence of drugs when they were detained. [@1,4,5]
 
 During a search of a house property in Aktobe with the use of a service dog,
 officers found two barrels holding 50 and 25 litres in the attic containing
-plant material. [@1,3,4] Officers seized the two barrels and their contents from the
+plant material. [@1,3,4,5] Officers seized the two barrels and their contents from the
 attic. [@1] A forensic examination concluded that the seized plant material was
-marijuana. [@1,3,4] Police reported that the total weight of the marijuana was more
-than 25 kilograms. [@1,2,4] At the home of another detained man, police found and
+marijuana. [@1,3,4,5] Police reported that the total weight of the marijuana was more
+than 25 kilograms. [@1,2,4,5] At the home of another detained man, police found and
 seized a packet of suspected narcotic material and devices for using prohibited
-substances. [@1,3,4]
+substances. [@1,3,4,5]
 
-A pre-trial investigation is under way into the case. [@1,3,4] Investigators are
+A pre-trial investigation is under way into the case. [@1,3,4,5] Investigators are
 establishing all the circumstances of what happened and the possible channels
-for the drugs’ arrival and distribution. [@1,4]
+for the drugs’ arrival and distribution. [@1,4,5]
 
 Police said the operation was carried out during the “Қарасора-2026” preventive operation. [@3,4]
