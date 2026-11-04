@@ -33,31 +33,38 @@ sources:
     publisher: Patrika News
     date: 2026-11-04
     language: hi
+  - title: कपास की फसल के बीच निजी भूमि पर अवैध गांजे की खेती का भंडाफोड़!
+    url: https://mediawala.in/illegal-cannabis-cultivation-uncovered-on/
+    publisher: Mediawala
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No separate raid date was published, so 4 November 2026 is the article's publication date used as the incident date.
   - No arrest, questioning outcome or court result was reported; the linked landholder was described as absconding and others were still being identified.
   - Only Patrika's account could be opened in full; the Pradesh Prakash page for the same 9-plant seizure yielded no readable article text.
   - No figure for the cultivated area was published, only the plant count and plant weight.
+  - The Mediawala page carries two images with generic captions that do not establish they show this seizure, so no new media entry is added.
+  - 'Left out, as its quotation was not found in Mediawala: Police said preliminary information linked the field to Rangilibai, wife of Jai Singh Bhabhar.'
+  - 'Left out, as its quotation was not found in Mediawala: Police had all nine plants uprooted and seized in accordance with procedure.'
 ---
 
 Ratlam police exposed illegal cannabis cultivation in the Rawti police-station
-area of Ratlam district in Madhya Pradesh. [@1] The plants were growing on
-private land in Sangla ka Mal village among a cotton crop. [@1] Police said
+area of Ratlam district in Madhya Pradesh. [@1,2] The plants were growing on
+private land in Sangla ka Mal village among a cotton crop. [@1,2] Police said
 preliminary information linked the field to Rangilibai, wife of Jai Singh
 Bhabhar. [@1] Police described the landholder as absconding. [@1] Police said
 those found responsible would be made accused on the basis of evidence. [@1]
 Police said they were gathering information on other people active behind the
 cultivation and its network. [@1]
 
-Officers raided the spot and seized nine green cannabis plants. [@1] Police had
+Officers raided the spot and seized nine green cannabis plants. [@1,2] Police had
 all nine plants uprooted and seized in accordance with procedure. [@1] Police
 put the total weight at 12.800 kg and the estimated value at about Rs 120,000.
-[@1] Police said legal action was being taken under Sections 8/20 of the NDPS
-Act. [@1]
+[@1,2] Police said legal action was being taken under Sections 8/20 of the NDPS
+Act. [@1,2]
 
 Police said the action followed an informer's tip about illegal cultivation in
-the Sangla ka Mal area. [@1] Rawti police teams then searched fields and
+the Sangla ka Mal area. [@1,2] Rawti police teams then searched fields and
 surrounding areas beside the hills in the Kheriyarundi Kala area and found the
 plants in one private field. [@1] Ratlam police said action against drug
 smuggling and illegal cultivation was continuing in the district. [@1]
-
