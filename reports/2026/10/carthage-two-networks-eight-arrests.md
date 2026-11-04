@@ -59,6 +59,11 @@ sources:
     publisher: Directinfo
     date: '2026-10-30'
     language: fr
+  - title: 'قرطاج: الإطاحة بشبكتين لترويج المخدرات وإيقاف 8 أشخاص'
+    url: https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1535179/%D9%82%D8%B1%D8%B7%D8%A7%D8%AC-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%A5%D9%8A%D9%82%D8%A7%D9%81-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5
+    publisher: Mosaique FM
+    date: 2026-10-30
+    language: ar
 open_questions:
   - No separate date for the operation is stated; 30 October 2026 is the publication date of both accounts.
   - >-
@@ -85,19 +90,19 @@ open_questions:
     so none is linked.
 ---
 
-Carthage security units arrested eight people after dismantling two drug-trafficking networks. [@1,2,3,4,5,6]
+Carthage security units arrested eight people after dismantling two drug-trafficking networks. [@1,2,3,4,5,6,7]
 
 Units of the Carthage national security district dismantled two networks
 specialising in drug trafficking and arrested eight people in two separate
 targeted raids. [@4] One of those arrested was a woman who is a national of a
-Maghreb country. [@5] Routine police checks showed that four of the eight were
+Maghreb country. [@5,7] Routine police checks showed that four of the eight were
 already wanted under several warrants for their involvement in theft and armed
-robbery cases. [@4]
+robbery cases. [@4,7]
 
 The operation yielded one and a half slabs of cannabis resin, known in Tunisia
-as zatla, and 25 further pieces of the same resin. [@6] Officers also seized
+as zatla, and 25 further pieces of the same resin. [@6,7] Officers also seized
 five grams of cocaine and sums of money that were said to come from the sale of
-drugs. [@5] The eight suspects were all placed in detention, and the
+drugs. [@5,7] The eight suspects were all placed in detention, and the
 investigation into the two networks was continuing. [@4]
 
 The two police operations were described as targeting crime as well as drug
