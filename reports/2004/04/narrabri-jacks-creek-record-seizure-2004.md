@@ -23,7 +23,7 @@ status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [drug-squad, record-seizure]
 open_questions:
-  - The opened sources do not record the final sentences of all sixteen people arrested.
+  - The final sentences of the other people arrested at the property are still not recorded here.
 sources:
   - title: Police seize record $35m marijuana haul
     publisher: The Sydney Morning Herald (via Bluelight forum mirror)
@@ -33,6 +33,10 @@ sources:
     publisher: NSW Court of Criminal Appeal (via NSW Caselaw)
     url: https://www.caselaw.nsw.gov.au/decision/549fcb3f3004262463bcb48c/export.pdf
     date: 2006-03-14
+  - title: DELFINO, Raymond Joseph v R [2008] NSWCCA 18
+    publisher: NSW Court of Criminal Appeal (via NSW Caselaw)
+    url: https://www.caselaw.nsw.gov.au/decision/549fdbc53004262463c08144/export.pdf
+    date: 2008-02-25
 ---
 
 Drug squad detectives with Narrabri police raided the rural property known as Valala at
@@ -50,3 +54,14 @@ the ground. [@2] About 30 plastic sheets each holding more than 50 kg of leaf la
 the sites, and a camouflaged generator-powered shed held drying beds filled to capacity.
 [@2] Those arrested included workers cleaning leaves and men who admitted knowing the
 drying process. [@2]
+
+## The manager's sentence
+
+A later judgment names Demitrios Hantzis as a participant in the 2004 cultivation and records
+that Judge Finnane sentenced him on 10 June 2005 for knowingly taking part in cultivating
+not less than a commercial quantity of cannabis plants, taking into account a further
+deemed-supply offence based on more than 10 kg of cannabis found at his Sydney home.[@3]
+The judge found Hantzis had a major, high-level management role, running the operation from
+late February 2004 until his arrest, and imposed nine years with a five-year non-parole
+period.[@3] On appeal the Court of Criminal Appeal re-sentenced him to six years with a
+non-parole period of three years and four months.[@3]
