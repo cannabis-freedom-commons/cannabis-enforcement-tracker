@@ -110,6 +110,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-02
     language: hi
+  - title: अहमदाबाद हवाई अड्डे पर 13 किलो ‘हाइड्रोपोनिक गांजे’ के साथ गुजरात के दो लोग गिरफ्तार
+    url: https://hindi.theprint.in/india/two-men-from-gujarat-arrested-with-13-kg-of-hydroponic-marijuana-at-ahmedabad-airport/1052950/
+    publisher: ThePrint Hindi
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -141,24 +146,26 @@ open_questions:
   - 'Left out, as its quotation was not found in Rozana Spokesman: X-ray screening of the baggage showed a suspicious image, and detailed examination found 14 packets in the trolley bags.'
   - 'Left out, as its quotation was not found in Rozana Spokesman: The seized substance weighed 13.012 kg and was reported to be worth about Rs 13 crore in the illicit market.'
   - Whether the two Twitter-hosted images listed in the page metadata show this seizure cannot be established from their empty captions and lack of credit, so no media entry is listed.
+  - The page's only listed image is captioned about an ISRO scientist and does not show this seizure, so no media entry is listed.
+  - The page states it uses auto-feed content from the Bhasha news agency and that ThePrint is not responsible for its content.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
-detailed manual examination. [@1,2,9,18] Inside the bags officers found 14
+detailed manual examination. [@1,2,9,18,19] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
 term for cannabis. [@1,2,5,9,10,11,14,15,17,18] Customs estimated the haul, a higher-potency
-soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15]
+soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19] Customs
 said further investigation into the wider supply chain was under way, with the
 two held in custody while investigators probe links to organised networks. [@1]
 
-The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13,17]
+The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13,17,19]
