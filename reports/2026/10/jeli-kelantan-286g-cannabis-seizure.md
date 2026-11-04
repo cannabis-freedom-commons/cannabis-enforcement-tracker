@@ -31,6 +31,11 @@ sources:
     publisher: 光明日报
     date: 2026-11-04
     language: zh
+  - title: Dadah RM2.24 juta dirampas di Sepang, Jeli
+    url: https://www.kosmo.com.my/2026/11/04/dadah-rm2-24-juta-dirampas-di-sepang-jeli/
+    publisher: Kosmo Online
+    date: 2026-11-04
+    language: ms
 open_questions:
   - The operation date is given only as 10 October 13 as “this year”; 2026 is inferred from the 4 November 2026 publication date.
   - No suspect was arrested or named; the rider escaped and remains unidentified.
@@ -38,24 +43,25 @@ open_questions:
   - The article’s combined total of 44.787 kg and RM2,247,930 and the ketamine-only figures of 44.501 kg and RM2,225,050 are excluded from cannabis figures because they cover a separate non-cannabis seizure.
   - The same article reports a separate 13 August ketamine seizure at a Sepang courier mail centre, left out here as a different event.
   - Only one accessible source for this Jeli seizure was found after searching in Chinese, Malay and English.
+  - This Kosmo Online account gives the cannabis weight as 0.28 kg, while the existing report records 286 g from its earlier source; the existing figure is retained.
+  - The Kosmo Online page image is captioned Gambar Hiasan, meaning illustrative image, so it adds no new photo of this seizure.
 ---
 
 Selangor Customs enforcement officers spotted an unregistered motorcycle with a
 suspicious rider in Jeli district, Kelantan, on 13 October 2026 and began
-tracking him. [@1] The rider accelerated and fled when he realised officers were
+tracking him. [@1,2] The rider accelerated and fled when he realised officers were
 following, leading to a chase in which officers kept up but the suspect escaped
-through narrow roads. [@1] While fleeing, the rider threw a green plastic
-package onto the roadside. [@1]
+through narrow roads. [@1,2] While fleeing, the rider threw a green plastic
+package onto the roadside. [@1,2]
 
 Officers recovered the package and found 286 grams of suspected cannabis flower
-inside. [@1] Customs estimated the 286 grams of suspected cannabis flower at
-RM22,880. [@1] Officers seized the exhibit and sent it to the North Port customs
-office for investigation. [@1]
+inside. [@1,2] Customs estimated the 286 grams of suspected cannabis flower at
+RM22,880. [@1,2] Officers seized the exhibit and sent it to the North Port customs
+office for investigation. [@1,2]
 
 Customs said the suspect appeared to have used the unregistered motorcycle
 deliberately to avoid detection and to make escape easier. [@1] The case is
 being investigated under Section 39B of the Dangerous Drugs Act 1952, which
 allows death or life imprisonment on conviction and at least 12 strokes of the
-cane if death is not imposed. [@1] No arrest was reported at the scene and the
+cane if death is not imposed. [@1,2] No arrest was reported at the scene and the
 investigation was still under way with no court outcome announced. [@1]
-
