@@ -130,6 +130,11 @@ sources:
     publisher: TrueUA.info
     date: 2026-11-04
     language: uk
+  - title: 'Збували канабіс у коробках з-під собачих ласощів: у Києві затримали двох 25-річних наркоділків'
+    url: https://weukraine.tv/novyny/zbuvali-kanabis-u-korobkakh-z-pid-sobachikh-lasoshchiv-u-kijevi-zatrimali-dvokh-25-richnikh-narkodilkiv/
+    publisher: Ми Україна
+    date: 2026-11-02
+    language: uk
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the searches and detentions.
   - The total is published only as over 7 kg, from about 4 kg and over 3.6 kg, so the figures use the stated 7 kg minimum.
@@ -165,20 +170,20 @@ open_questions:
 Prosecutors under the Podilskyi district prosecutor's office in Kyiv notified
 two 25-year-old Kyiv men of suspicion of illegal acquisition and storage of
 drugs for sale on an especially large scale under Part 3 of Article 307. [@1,11,13,16,19]
-Both suspects are in custody. [@1,5,6,11,14] Investigators say the men packed the drug
+Both suspects are in custody. [@1,5,6,11,14,20] Investigators say the men packed the drug
 together for later sale to customers across Ukraine. [@1,12,14]
 
 Officers found nine packages holding about 4 kg of cannabis on one suspect
 during a personal search. [@1,4,14,16] Officers then identified his accomplice and a
-flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,6,9,14] They seized
-nine more vacuum packages weighing over 3.6 kg there. [@1,4,12,13,14,15,16,19] Prosecutors put the
+flat in Kyiv's Darnytskyi district where they stored cannabis. [@1,6,9,14,20] They seized
+nine more vacuum packages weighing over 3.6 kg there. [@1,4,12,13,14,15,16,19,20] Prosecutors put the
 total haul at over 7 kg with an estimated value of about 3 million hryvnias.
-[@2,5,10,13,14,16,18] If proved, the charge carries up to 12 years in prison with confiscation of
-property. [@1,4,5,6,7,15,17,19]
+[@2,5,10,13,14,16,18,20] If proved, the charge carries up to 12 years in prison with confiscation of
+property. [@1,4,5,6,7,15,17,19,20]
 
 The pretrial investigation is being run by investigators of the Podilskyi police
 department in Kyiv with SBU operational support. [@1,4,6,8,11,17] Police say the men sold
 cannabis to buyers in different Ukrainian regions using postal services and
-disguising parcels as household goods. [@3,4,7,10,11,12,13,15,17,18,19] One suspect was detained on a street
+disguising parcels as household goods. [@3,4,7,10,11,12,13,15,17,18,19,20] One suspect was detained on a street
 in Kyiv's Pecherskyi district, where officers found cannabis inside cereal and
-dog-treat boxes. [@3,4,5,6,7,8,11,15,17,19]
+dog-treat boxes. [@3,4,5,6,7,8,11,15,17,19,20]
