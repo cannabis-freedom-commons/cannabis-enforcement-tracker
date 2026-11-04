@@ -22,28 +22,33 @@ sources:
     publisher: Teranga News
     date: 2026-09-14
     language: fr
+  - title: 'Sénégal : saisie de 375 kg de chanvre indien à Mbodiène'
+    url: https://fr.apanews.net/society/senegal-saisie-de-375-kg-de-chanvre-indien-a-mbodiene/
+    publisher: APAnews - Agence de Presse Africaine
+    date: 2026-09-14
+    language: fr
 open_questions:
   - No arrests, charges or court outcome were reported beyond the opened investigation; the six escorts were still at large.
   - Only one accessible source for this event was found after searching in French; no second account or gendarmerie statement for the 375 kg seizure could be opened.
   - The page carries a featured photo titled with the seizure headline but with no caption, description or credit establishing that it shows this seizure, so no media entry is included.
   - This is distinct from the already recorded 29 August 2026 Mbodiène seizure of 427 kg, which involved a different weight, parcel count and arrest outcome.
+  - The APA page image is titled only with the seizure headline and carries no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Gendarmes seized a large quantity of cannabis near the Mbodiène lagoon in Mbour
 department during the night of 11 September 2026. [@1] The convoy moving the
-load was accompanied by six individuals carrying machetes. [@1] Chased by the
+load was accompanied by six individuals carrying machetes. [@1,2] Chased by the
 gendarmes, the escorts first resisted and then fled, abandoning both their cart
 and the cargo, so no arrests were made at the scene. [@1] An investigation was
 opened to find those involved in the trafficking, who were still at large. [@1]
 
 Security forces reported recovering twelve parcels of cannabis, called chanvre
-indien in Senegal, weighing 375 kilograms in total. [@1] Officers had spotted
+indien in Senegal, weighing 375 kilograms in total. [@1,2] Officers had spotted
 the cart transporting the merchandise at about 2 a.m. [@1] The seized cannabis
-was taken to the Joal brigade. [@1] The 375-kilogram total is the weight
+was taken to the Joal brigade. [@1,2] The 375-kilogram total is the weight
 reported by the security forces. [@1]
 
 The operation followed a tip reporting a drug landing in that zone. [@1]
 Elements of the Joal-Fadiouth and Nianing brigades, reinforced by the Mbour
 Research Brigade, had set up a surveillance operation between Joal and Olstom
-beach to intercept the shipment. [@1]
-
+beach to intercept the shipment. [@1,2]
