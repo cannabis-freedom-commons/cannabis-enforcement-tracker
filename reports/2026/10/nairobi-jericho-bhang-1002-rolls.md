@@ -71,14 +71,19 @@ sources:
     url: https://mpasho.co.ke/entertainment/2026-10-31-nacada-arrests-three-in-jericho-raid-seizes-1002-rolls-of-suspected-bhang
     publisher: Mpasho
     date: 2026-10-31
+  - title: Police conduct a raid in Jericho estate and seize narcotics (PHOTOs)
+    url: https://www.kenyan-post.com/2026/11/police-conduct-raid-in-jericho-estate.html
+    publisher: Kenyan Post
+    date: 2026-11-01
 open_questions:
   - The weight of the 1,002 rolls was not reported.
   - Whether the three people appeared in court or were formally charged is not established in these accounts.
   - TUKO describes the raid as taking place on 'Thursday, October 30'; 30 October 2026 was a Friday, and KBC and The Star report a Friday operation.
+  - The page embeds four photographs without captions, credits or descriptive alt text, so no image can be verified as showing this raid and no media entry is added.
 ---
 
 Three people were arrested after anti-narcotics officers raided a residential
-house in Nairobi’s Jericho Estate. [@2,3,4,6,7,8,9] The National Authority for the Campaign
+house in Nairobi’s Jericho Estate. [@2,3,4,6,7,8,9,10] The National Authority for the Campaign
 Against Alcohol and Drug Abuse (NACADA) raided a two-bedroom house in Buruburu
 Sub-County on Friday afternoon after an intelligence tip-off. [@1,7]
 
@@ -86,7 +91,7 @@ Officers seized 936 brown rolls of suspected cannabis, described as bhang, and
 found another 66 red rolls hidden in a black polythene bag, bringing the total
 to 1,002. [@1,3,4,5,6,7,8,9] Officers also recovered a bunch of keys from a store within the
 house as part of the investigation. [@1,3,4,6,7] The three occupants were taken to Jogoo
-Road Police Station. [@1,3,4,6,8,9] They were expected to be arraigned in court on Monday,
+Road Police Station. [@1,3,4,6,8,9,10] They were expected to be arraigned in court on Monday,
 2 November 2026. [@1,2,3,6,7,8,9]
 
 NACADA chief executive Anthony Omerikwa said the operation was part of efforts
@@ -98,3 +103,5 @@ chain. [@1,4,6,7] NACADA urged members of the public with information on drug
 trafficking to report it at the nearest police station. [@1,2]
 
 The arrest was recorded at Jogoo Road Police Station under OB No. 39/30/10/2026. [@2] NACADA also gave its toll-free helpline, 1192, for reports of drug trafficking. [@7]
+
+The operation brought together officers from NACADA, Jogo Road Police Station, the Rapid Deployment Unit and the K-9 Unit. [@10]
