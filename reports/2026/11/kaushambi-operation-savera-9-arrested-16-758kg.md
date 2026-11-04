@@ -30,6 +30,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-04
     language: hi
+  - title: 'Kaushambi News: 16 किलो गांजा के साथ नौ आरोपी गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/kaushambi/nine-accused-arrested-with-16-kg-of-ganja-kaushambi-news-c-261-1-pr11004-151188-2026-11-05
+    publisher: Amar Ujala
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The incident date is given only as Tuesday in reports published on 4 November 2026, so 3 November 2026 is used as the incident date.
   - The outlets differ on some names and station assignments, including the alias of Sunil Pal and the placement of Anupam Kumar Mishra, Anurag Tripathi, Devesh Tripathi and Shivam Kesarwani, so only the shared totals are treated as firm.
@@ -38,23 +43,24 @@ open_questions:
   - No separate value for the seized ganja was published.
   - No police agency statement for this Kaushambi drive could be opened directly; the account rests on two news outlets.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: A second account confirms the same nine arrests and 16 kilos 758 grams total and records 2.020 kilos from two accused in Pipri and 7.077 kilos from two accused in Kokhraj.'
+  - The Amar Ujala account published on 5 November 2026 gives no separate date for the checking drive.
+  - The page image uses a file path dated 2021 and is captioned only with the seizure total, so it is not established to show this drive and no media entry is added.
 ---
 
 Kaushambi police arrested nine people in a district-wide checking drive under
-Operation Savera against illegal drugs. [@1] The arrests took place on Tuesday
+Operation Savera against illegal drugs. [@1,2] The arrests took place on Tuesday
 at separate locations under six police-station areas. [@1] Police registered six
 cases under the NDPS Act, India's narcotics law, and said legal proceedings
 against the accused were completed. [@1]
 
 Officers seized a total of 16 kilos 758 grams of ganja from the nine accused.
-[@1] Manjhanpur police arrested Suraj Maurya with 1.296 kilos, Sarai Akil police
+[@1,2] Manjhanpur police arrested Suraj Maurya with 1.296 kilos, Sarai Akil police
 caught two accused with a total of four kilos, and Charwa police arrested one
-accused with 1.300 kilos. [@1] Sandipan Ghat police arrested one accused with
+accused with 1.300 kilos. [@1,2] Sandipan Ghat police arrested one accused with
 1.065 kilos, while Kokhraj police caught two accused with the largest amount,
-7.077 kilos. [@1]
+7.077 kilos. [@1,2]
 
 The drive was carried out on the directions of the police headquarters in
 Lucknow under the guidance of Superintendent of Police Satyanarayan Prajapat.
 [@1] Teams from the Manjhanpur, Sarai Akil, Charwa, Pipri, Sandipan Ghat and
 Kokhraj police stations took part in the checking at different places. [@1]
-
