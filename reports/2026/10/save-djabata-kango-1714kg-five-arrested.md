@@ -30,6 +30,8 @@ open_questions:
   - The plantation area is given only as more than three hectares, with about one hectare still to be destroyed.
   - The village of Djabata Kango could not be located on a map; the pin marks the town of Savè.
   - Both outlets describe the same police operation, and Bénin Web TV attributes its account to L'Investigateur and Le Potentiel.
+  - The page's only image is captioned as an illustration of a cannabis plantation at Montserrat credited to Royal Navy / Wikimedia Commons, not this seizure at Djabata Kango, so no media entry is included.
+  - The new account presents all five arrested people as workers present on the site, while the existing report says four were described as labourers; the suspected owners being absent and sought is consistent.
 sources:
   - title: À Savè, 1,7 tonne de cannabis saisie et cinq personnes interpellées
     url: https://beninwebtv.com/a-save-17-tonne-de-cannabis-saisie-et-cinq-personnes-interpellees/
@@ -41,19 +43,24 @@ sources:
     publisher: Le Leader Info Bénin
     date: 2026-10-12
     language: fr
+  - title: 'Bénin: 1,7 tonne de chanvre indien saisie à Savè, cinq interpellations'
+    url: https://beninwebtv.bj/benin-17-tonne-chanvre-indien-save-cinq-interpellations/
+    publisher: Bénin Web TV
+    date: 2026-10-12
+    language: fr
 ---
 
 Police in the Bessé district of Savè, in Benin's Collines department, seized
-1,714.56 kg of cannabis and arrested five people on Sunday 11 October 2026. [@1,2]
+1,714.56 kg of cannabis and arrested five people on Sunday 11 October 2026. [@1,2,3]
 Officers reached the village of Djabata Kango at about 6am after several weeks of
-intelligence work and found people harvesting the crop. [@1,2]
+intelligence work and found people harvesting the crop. [@1,2,3]
 
 Four of those arrested were described as labourers; the suspected owners of the
-plots were not there and are being sought. [@1] The harvest filled 60 jute sacks.
-[@2] Police also seized a Bajaj motorcycle and three firearms, two hunting rifles
-and a 12-gauge gun. [@1]
+plots were not there and are being sought. [@1,3] The harvest filled 60 jute sacks.
+[@2,3] Police also seized a Bajaj motorcycle and three firearms, two hunting rifles
+and a 12-gauge gun. [@1,3]
 
 The plantations covered more than three hectares, and about one hectare of
-cannabis was still standing after the raid. [@1] The five people and the seized
+cannabis was still standing after the raid. [@1,3] The five people and the seized
 material were handed to the Central Office for the Suppression of Illicit Drug
-Trafficking and Precursors, known as OCERTID. [@1]
+Trafficking and Precursors, known as OCERTID. [@1,3]
