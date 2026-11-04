@@ -1,37 +1,62 @@
 ---
-added_at: "2026-11-03T17:38:05.597Z"
-code: "S8CX7D"
-date: 2010-09-03
+added_at: '2026-11-03T17:38:05.597Z'
+code: S8CX7D
+date: '2010-09-03'
 country: za
 place: Kameeldrift farm, near Rustenburg, North West
 type: prosecution
-also: [arrest]
+also:
+  - arrest
+  - raid
 title: Court rejects Kameeldrift cannabis farmer's damages claim over 2004 arrest
 summary: >-
-  The Supreme Court of Appeal dismissed Russel de Beer's appeal on 3 September 2010,
-  upholding the dismissal of his malicious-prosecution damages claim; the court found
-  police reasonably suspected an offence when they arrested him at his Kameeldrift
-  cannabis farm in February 2004 after he could not produce a research permit.
+  The Supreme Court of Appeal dismissed Russel de Beer's appeal on 3 September 2010, upholding the dismissal
+  of his malicious-prosecution damages claim; the court found police reasonably suspected an offence when they
+  arrested him at his Kameeldrift cannabis farm in February 2004 after he could not produce a research permit.
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified
-tags: [dagga, appeal, research-permit]
+tags:
+  - dagga
+  - appeal
+  - research-permit
+  - rustenburg
 open_questions:
-  - Press reports put the High Court dismissal in December 2008, but the opened court record gives no date for that ruling.
-  - The opened sources do not say whether de Beer pursued the second R2-million damages claim his counsel mooted.
-  - The appeal court left open whether de Beer was complying with the terms of the research permit found after his arrest.
+  - >-
+    Press reports put the High Court dismissal in December 2008, but the opened court record gives no date for
+    that ruling.
+  - >-
+    The opened sources do not say whether de Beer pursued the second R2-million damages claim his counsel
+    mooted.
+  - >-
+    The appeal court left open whether de Beer was complying with the terms of the research permit found after
+    his arrest.
   - No photograph verified as showing the farm or the arrest was found in the opened sources.
+  - >-
+    The opened sources give no verified weight for the cannabis on the farm, since the 1.2-ton figure was de
+    Beer's own disputed permit claim for seeds.
+  - The later civil damages rulings are court outcomes, not new enforcement events, and are left out here.
+  - >-
+    No photograph of the farm or the raid with a recoverable direct image address was found in the opened
+    sources.
 sources:
   - title: De Beer v Minister of Safety and Security (356/09) [2010] ZASCA 97 (3 September 2010)
     publisher: Supreme Court of Appeal of South Africa
     url: https://sheriahub.com/cases/za/caselaw/de-beer-v-minister-of-safety-and-security-356-of-2009-2010-zasca-97-03-september-2010-1-1-Ukcus
-    date: 2010-09-03
-  - title: "South Africa: Hemp farmer to sue cops for R2,6m"
+    date: '2010-09-03'
+  - title: 'South Africa: Hemp farmer to sue cops for R2,6m'
     publisher: Independent Online
     url: https://ccguide.org/news/shownewsarticle.php?articleid=14917
-    date: 2008-11-21
+    date: '2008-11-21'
+    archived: https://web.archive.org/web/20241208214036/https://ccguide.org/news/shownewsarticle.php?articleid=14917
+coordinates:
+  - -25.6679
+  - 27.2421
+precision: district
 ---
+
+Russel de Beer's damages case arose from his arrest at a cannabis farm in Kameeldrift in February 2004. [@1,2]
 
 Russel Brent de Beer farmed cannabis, known generally as dagga, at the Kameeldrift farm near Rustenburg, claiming to grow it for research purposes under a permit acquired by the Agricultural Research Centre.[@1] After an informant claimed to have bought dagga from him, Inspector Westmaas, the branch commander of the Assen police station, tried to verify whether such a permit existed and found nothing.[@1]
 

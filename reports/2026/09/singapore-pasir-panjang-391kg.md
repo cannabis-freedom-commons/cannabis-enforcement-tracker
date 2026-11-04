@@ -1,35 +1,51 @@
 ---
 added_at_source: git
-added_at: "2026-10-29T00:32:04.000Z"
+added_at: '2026-10-29T00:32:04.000Z'
 code: MWTR6K
-date: 2026-09-24
+date: '2026-09-24'
 country: sg
 place: Pasir Panjang Scanning Station, Singapore
-# Geographic reference: https://nominatim.openstreetmap.org/search?q=Pasir+Panjang+Scanning+Station%2C+Singapore&format=jsonv2&limit=3
-coordinates: [1.281998, 103.77893]
+coordinates:
+  - 1.281998
+  - 103.77893
 precision: locality
 type: seizure
 title: 391 kg of cannabis found in glove boxes at Pasir Panjang port
 summary: >-
-  ICA image analysts flagged anomalies in a container's scan on 24 September and found 1,290
-  cannabis blocks hidden in boxes of gloves. The agencies say the 391 kg load was transiting
-  through Singapore; no origin or destination was disclosed and investigations continue.
+  ICA image analysts flagged anomalies in a container's scan on 24 September and found 1,290 cannabis blocks
+  hidden in boxes of gloves. The agencies say the 391 kg load was transiting through Singapore; no origin or
+  destination was disclosed and investigations continue.
 figures:
   kg_seized: 391
 created_by_model: unknown
 status: verified
-tags: [transit, container, port]
+tags:
+  - transit
+  - container
+  - port
+  - trafficking
+  - trade
 sources:
-  - title: "Joint news release: More than 391kg of cannabis detected at Pasir Panjang Scanning Station"
+  - title: 'Joint news release: More than 391kg of cannabis detected at Pasir Panjang Scanning Station'
     url: https://www.cnb.gov.sg/mediaroom/news/joint-news-release--more-than-391kg-of-cannabis-detected-at-pasir-panjang-scanning-station/
     archived: https://web.archive.org/web/20261002210320/https://www.cnb.gov.sg/mediaroom/news/joint-news-release--more-than-391kg-of-cannabis-detected-at-pasir-panjang-scanning-station/
     publisher: Central Narcotics Bureau
-    date: 2026-10-02
+    date: '2026-10-02'
   - title: More Than 391kg of Cannabis Found Hidden in Glove Boxes at Pasir Panjang Scanning Station
     url: https://goodyfeed.com/more-than-391kg-of-cannabis-found-hidden-in-glove-boxes-at-pasir-panjang-scanning-station/
     publisher: Goody Feed
-    date: 2026-10-03
+    date: '2026-10-03'
+  - title: More than 391 kg of cannabis detected at Pasir Panjang Scanning Station (2 October 2026)
+    publisher: Singapore ICA and CNB
+    url: https://www.ica.gov.sg/news-and-publications/newsroom/media-release/more-than-391kg-of-cannabis-detected-at-pasir-panjang-scanning-station
+    locator: Paragraphs 1–3; seizure 24 September, publication 2 October
+open_questions:
+  - >-
+    The original report was imported without a recorded creator model; its original unknown attribution is
+    preserved.
 ---
+
+Singapore authorities found 1,290 cannabis blocks weighing about 391 kilograms in glove boxes at Pasir Panjang. [@1,2,3]
 
 On 24 September 2026, more than 391 kg of cannabis was detected in an inbound container at
 Singapore's Pasir Panjang Scanning Station; the joint ICA-CNB statement followed on 2

@@ -1,17 +1,22 @@
 ---
 added_at_source: git
-added_at: "2026-11-02T17:23:22.000Z"
+added_at: '2026-11-02T17:23:22.000Z'
 code: 076KGT
-date: 2026-11-01
+date: '2026-11-01'
 country: hk
 place: Hong Kong International Airport, Chek Lap Kok
-coordinates: [22.3126, 113.9173]
+coordinates:
+  - 22.3126
+  - 113.9173
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: 22-year-old mainlander held at Hong Kong airport with 9 kg of cannabis buds
 summary: >-
-  Police stopped a 22-year-old mainland Chinese man in the arrivals hall of Hong Kong International Airport on 1 November 2026 and seized 30 packets of suspected cannabis buds weighing about 9 kg. The man was arrested on suspicion of drug trafficking and detained, with police valuing the seizure at about HK$1.3 million.
+  Police stopped a 22-year-old mainland Chinese man in the arrivals hall of Hong Kong International Airport on
+  1 November 2026 and seized 30 packets of suspected cannabis buds weighing about 9 kg. The man was arrested
+  on suspicion of drug trafficking and detained, with police valuing the seizure at about HK$1.3 million.
 figures:
   arrested: 1
   kg_seized: 9
@@ -32,38 +37,73 @@ media:
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e5fe2ddfc526059cc1ca02d44a35af30
-tags: [hong-kong, airport, cannabis-buds]
+tags:
+  - hong-kong
+  - airport
+  - cannabis-buds
 sources:
   - title: 警方機場檢值130萬元大麻花 拘捕22歲內地男
     url: https://www.hkcd.com.hk/hkcdweb/content/2026/11/02/content_8783003.html
     publisher: 香港商報網
-    date: 2026-11-02
+    date: '2026-11-02'
+    language: zh
+  - title: 警方機場檢值130萬元大麻花 拘捕22歲內地男
+    url: https://hkcd.com/hkcdweb/content/2026/11/02/content_8783003.html
+    publisher: 香港商報網
+    date: '2026-11-02'
+    language: zh
+  - title: 22歲內地男機場入境涉藏9公斤大麻花被捕 市值約130萬元
+    url: https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20261101/s00001/1793522182996/22%E6%AD%B2%E5%85%A7%E5%9C%B0%E7%94%B7%E6%A9%9F%E5%A0%B4%E5%85%A5%E5%A2%83%E6%B6%89%E8%97%8F9%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB%E8%8A%B1%E8%A2%AB%E6%8D%95-%E5%B8%82%E5%80%BC%E7%B4%84130%E8%90%AC%E5%85%83
+    publisher: 明報
+    date: '2026-11-01'
+    language: zh
+  - title: 警機場截查22歲內地漢 揭偷運9公斤大麻花入境 檢130萬元毒品
+    url: https://www.hk01.com/article/60405848
+    publisher: 香港01
+    date: '2026-11-01'
     language: zh
 open_questions:
   - Only one opened source was found for this event, so no second account confirms the figures.
-  - The report gives the operation date as 1 November 2026 through 昨日 alongside its 2 November 2026 publication timestamp; no separate time of day is given.
+  - >-
+    The report gives the operation date as 1 November 2026 through 昨日 alongside its 2 November 2026
+    publication timestamp; no separate time of day is given.
   - The report does not state the man's flight, origin, destination, or where the cannabis came from.
   - No charge or court date beyond arrest and detention for investigation is reported.
-  - The weight is stated as approximate and the HK$1.3 million value is the police market estimate, with no independent weighing reported.
-  - Whether each of the two page photos shows this specific seizure beyond the police-image label could not be independently established from the captions alone.
+  - >-
+    The weight is stated as approximate and the HK$1.3 million value is the police market estimate, with no
+    independent weighing reported.
+  - >-
+    Whether each of the two page photos shows this specific seizure beyond the police-image label could not be
+    independently established from the captions alone.
+  - >-
+    The reports do not state the flight's origin, the suspect's travel route, or where the cannabis was
+    allegedly obtained or destined.
+  - No charge sheet, court date or sentence beyond detention for investigation is reported.
+  - >-
+    A second image on the submitted page carries only the caption 2.jpg, so whether it shows this seizure
+    could not be established and it is not listed as media.
+  - >-
+    The HK01 page states its pictures were provided by police, but their direct image addresses were not
+    recovered from the opened text, so they are not listed as media.
 ---
 
-Officers from the Kowloon West Regional Anti-Triad Squad, acting on intelligence
-analysis and follow-up investigation, joined relevant departments in an
-anti-drug operation at Hong Kong International Airport on 1 November 2026. [@1]
-In the airport arrivals hall, officers intercepted one man and, after
-investigation, arrested the 22-year-old mainland man on suspicion of trafficking
-in a dangerous drug, and he was detained for investigation. [@1]
+Hong Kong police arrested a 22-year-old mainland man after finding about nine kilograms of cannabis buds in his airport luggage. [@1,2,3,4]
 
-Officers searched the man's suitcase and backpack and found 30 packets
-containing a total of about 9 kilograms of suspected cannabis buds. [@1] Police
-estimated the market value of the seized suspected cannabis buds at about HK$1.3
-million. [@1]
+Officers from the Kowloon West Regional Anti-Triad Unit, working with related
+departments, mounted an anti-drug operation at Hong Kong International Airport
+on the morning of 1 November 2026 after intelligence analysis and investigation.
+[@2] In the airport arrivals hall, officers stopped a man and searched the
+suitcase and backpack he was carrying. [@3]
 
-Police restated that drug trafficking is a serious offence, noting that
-conviction under Hong Kong's Dangerous Drugs Ordinance, Chapter 134, carries a
-maximum penalty of a HK$5 million fine and life imprisonment. [@1] They urged
-the public not to carry drugs for trafficking syndicates for small rewards,
-warning that offenders risk their futures and face prison terms measured in
-decades. [@1]
+Inside they found 30 packets of suspected cannabis buds weighing about 9
+kilograms. [@2] Police put the estimated market value of the suspected buds at
+about HK$1.3 million. [@4] The carrier, a 22-year-old mainland man, was arrested
+on suspicion of trafficking in a dangerous drug. [@4]
 
+He is being detained for investigation, with these accounts reporting no court
+appearance or further charge yet. [@2] Police reiterated that trafficking is a
+serious offence, noting that conviction under Hong Kong's Dangerous Drugs
+Ordinance, Chapter 134, carries a maximum penalty of a HK$5 million fine and
+life imprisonment. [@2] Police appealed to the public not to carry drugs for
+trafficking syndicates for small rewards and warned that offenders face prison
+terms measured in decades. [@2]

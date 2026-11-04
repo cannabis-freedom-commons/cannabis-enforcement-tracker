@@ -1,45 +1,72 @@
 ---
 added_at_source: git
-added_at: "2026-10-29T08:27:48.000Z"
+added_at: '2026-10-29T08:27:48.000Z'
 code: 1778RK
-date: 2026-10-12
+date: '2026-10-12'
 country: in
 place: Kambipura, Bengaluru, Karnataka
-coordinates: [12.882, 77.461]
+coordinates:
+  - 12.882
+  - 77.461
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: Two Kerala men held with 317 kg Odisha weed in rental car
 summary: >-
-  Kumbalagodu police intercepted a self-drive rental Innova near Eidgah Ground
-  at Kambipura on 12 October 2026 on a tip received the day before. Two Kerala
-  men running ganja from Odisha to Kumaramanagalam were held with about 317 kg
-  worth Rs 1.78 crore (Rs 3.17 crore market).
+  Kumbalagodu police intercepted a self-drive rental Innova near Eidgah Ground at Kambipura on 12 October 2026
+  on a tip received the day before. Two Kerala men running ganja from Odisha to Kumaramanagalam were held with
+  about 317 kg worth Rs 1.78 crore (Rs 3.17 crore market).
 figures:
   arrested: 2
   kg_seized: 317
-  value: { amount: 17800000, currency: INR }
+  value:
+    amount: 17800000
+    currency: INR
 created_by_model: unknown
 status: verified
-tags: [rental-car, odisha-route, kerala-route]
+tags:
+  - rental-car
+  - odisha-route
+  - kerala-route
+  - bengaluru
+  - kerala
+  - interstate
+  - trafficking
 sources:
   - title: Bengaluru, Two inter-state drug peddlers arrested with 317 kg ganja worth Rs 1.78 crore
     url: https://desitalkchicago.com/bengaluru-two-inter-state-drug-peddlers-arrested-with-317-kg-ganja-worth-rs-1-78-crore/
     archived: https://web.archive.org/web/20261014081624/https://desitalkchicago.com/bengaluru-two-inter-state-drug-peddlers-arrested-with-317-kg-ganja-worth-rs-1-78-crore/
     publisher: Desi Talk Chicago / ANI
-    date: 2026-10-26
+    date: '2026-10-26'
   - title: Two arrested with 317 kg of ganja worth Rs 3.17 crore in Bengaluru
     url: https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     archived: https://web.archive.org/web/20261013195118/https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     publisher: hi INDiA / IANS
-    date: 2026-10-13
+    date: '2026-10-13'
+  - title: Bengaluru Police Seize 317 kg Cannabis in Major Bust
+    url: https://theworldopinion.com/india/bengaluru-police-seize-317kg-cannabis-bust
+    publisher: The World Opinion
+    date: '2026-10-13'
+  - title: 317 kg ganja worth ₹3.17 crore seized in Bengaluru; two Kerala men arrested
+    url: https://www.nationpress.com/national/317-kg-ganja-busted-in-bengaluru-drug-sting
+    archived: https://web.archive.org/web/20261013221833/https://www.nationpress.com/national/317-kg-ganja-busted-in-bengaluru-drug-sting
+    publisher: NationPress
+    date: '2026-10-13'
 media:
   - kind: photo
     url: https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     archived: https://web.archive.org/web/20261013195118/https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     publisher: hi INDiA / Bengaluru police
     caption: Officers with the seized sacks at the Kumbalagodu press briefing
+open_questions:
+  - The reports do not name the two arrested men or say what happened to them after the arrest.
+  - >-
+    The original report was imported without a recorded creator model; its original unknown attribution is
+    preserved.
 ---
+
+Kumbalagodu police arrested two men and seized 317 kilograms of ganja from a rented car near Kambipura. [@1,2,3,4]
 
 On 11 October 2026 Kumbalagodu police received an informant's tip, recorded
 in a Commissioner of Police press note, that a large quantity of ganja was

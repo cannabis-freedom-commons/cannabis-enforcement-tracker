@@ -1,17 +1,23 @@
 ---
 added_at_source: git
-added_at: "2026-10-29T14:36:12.000Z"
+added_at: '2026-10-29T14:36:12.000Z'
 code: RNVRYV
-date: 2026-10-08
+date: '2026-10-08'
 country: ma
 place: Tangier, Morocco
-coordinates: [35.7595, -5.834]
+coordinates:
+  - 35.7595
+  - -5.834
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: Spanish hashish boss arrested in Tangier; 10.8 tonnes, 86 arrests
 summary: >-
-  Spain's National Police announced that Juan Carlos T. B., alias 'Moreno', was arrested in Tangier on 8 October after more than six months on the run; Morocco has agreed to extradite him. The arrest capped a nearly two-year UDYCO investigation that produced 86 arrests in Spain and the seizure of 10.8 tonnes of hashish and 20 kg of marijuana buds.
+  Spain's National Police announced that Juan Carlos T. B., alias 'Moreno', was arrested in Tangier on 8
+  October after more than six months on the run; Morocco has agreed to extradite him. The arrest capped a
+  nearly two-year UDYCO investigation that produced 86 arrests in Spain and the seizure of 10.8 tonnes of
+  hashish and 20 kg of marijuana buds.
 figures:
   arrested: 86
   charged: 18
@@ -20,62 +26,132 @@ media:
   - kind: photo
     url: https://www.lavanguardia.com/sucesos/20261028/11669609/caida-narco-moreno-refugio-tanger-mover-toneladas-hachis-toda-espana.html
     publisher: La Vanguardia
-    caption: 'Police photo of the organisation''s suspected leader, Juan Carlos T. B., alias ''Moreno'', who had been on the run since March 2026. Photo: Policía Nacional'
+    caption: >-
+      Police photo of the organisation's suspected leader, Juan Carlos T. B., alias 'Moreno', who had been on
+      the run since March 2026. Photo: Policía Nacional
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
-tags: [hashish, tangier, udyco, extradition, spain]
+tags:
+  - hashish
+  - tangier
+  - udyco
+  - extradition
+  - spain
+  - morocco-route
+  - trafficking
 sources:
   - title: Un baron espagnol de la résine de cannabis, en fuite depuis mars, tombe à Tanger
     url: https://barlamane.com/fr/un-baron-espagnol-de-la-resine-de-cannabis-en-fuite-depuis-mars-tombe-a-tanger/
     publisher: Barlamane
-    date: 2026-10-27
+    date: '2026-10-27'
     language: fr
   - title: Detenido en Tánger el narcotraficante 'Moreno' tras intervenir 10,8 toneladas de hachís
     url: https://eldiariodemalaga.es/espana/detenido-en-tanger-el-narcotraficante-moreno-tras-intervenir-10-8-toneladas-de-h/
     publisher: El Diario de Málaga
-    date: 2026-10-27
+    date: '2026-10-27'
     language: es
   - title: La caída del narco 'El Moreno' en su refugio de Tánger tras mover toneladas de hachís por toda España
     url: https://www.lavanguardia.com/sucesos/20261028/11669609/caida-narco-moreno-refugio-tanger-mover-toneladas-hachis-toda-espana.html
     publisher: La Vanguardia
-    date: 2026-10-28
+    date: '2026-10-28'
     language: es
   - title: راتب يتجاوز 5000 يورو دون عمل فعلي.. تفاصيل شبكة حشيش امتدت بين إسبانيا والمغرب
     url: https://espanaenarabe.com/%D8%B1%D8%A7%D8%AA%D8%A8-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-5000-%D9%8A%D9%88%D8%B1%D9%88-%D8%AF%D9%88%D9%86-%D8%B9%D9%85%D9%84-%D9%81%D8%B9%D9%84%D9%8A-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B4/
     publisher: إسبانيا بالعربي
-    date: 2026-10-30
+    date: '2026-10-30'
     language: ar
-  - title: 'Tiger of hashish’ caught in Tangier: alleged drug kingpin who lived in luxury in Madrid arrested after fleeing to Morocco'
+  - title: >-
+      Tiger of hashish’ caught in Tangier: alleged drug kingpin who lived in luxury in Madrid arrested after
+      fleeing to Morocco
     url: https://www.theolivepress.es/spain-news/2026/11/01/tiger-of-hashish-el-moreno-caught/
     publisher: The Olive Press
-    date: 2026-11-01
+    date: '2026-11-01'
   - title: Cae uno de los principales narcos españoles, 'el tigre del hachís', fugado en Marruecos
     url: https://www.heraldo.es/noticias/nacional/2026/10/27/cae-uno-los-principales-narcos-espanoles-tigre-hachis-fugado-marruecos-2063326.html
     publisher: Heraldo de Aragón
-    date: 2026-10-27
+    date: '2026-10-27'
     language: es
   - title: إسبانيا تنتظر تسليم «نمر الحشيش» الموقوف بطنجة
     url: https://tanjanews.com/192484.html
     publisher: مجلة طنجة نيوز
-    date: 2026-11-01
+    date: '2026-11-01'
     language: ar
   - title: Detenido “El Moreno”, el presunto narco que vivía en El Soto de La Moraleja
     url: https://www.tribunadelamoraleja.com/detenido-el-moreno-el-presunto-narco-que-vivia-en-el-soto-de-la-moraleja
     publisher: Tribuna de la Moraleja
-    date: 2026-11-02
+    date: '2026-11-02'
     language: es
+  - title: 87 detained over Moroccan hashish network in Spain and Tangier
+    url: https://russpain.com/news/87-detained-over-moroccan-hashish-network-in-spain-and-tangier-112607/
+    publisher: RUSSPAIN
+    date: '2026-10-27'
+  - title: La Policía Nacional confirma la caída en Marruecos del mayor capo del hachís, adelantada por ABC
+    url: https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html
+    publisher: ABC
+    date: '2026-10-27'
+    language: es
+  - title: La UDYCO interviene 10,8 toneladas de hachís a la 'banda de Moreno'
+    url: https://www.elespanol.com/reportajes/20261007/udyco-interviene-toneladas-hachis-banda-moreno-copaban-mercado-espana-resto-europa/1003744412511_0.html
+    publisher: El Español
+    date: '2026-10-07'
+    language: es
+    locator: Second-wave arrests and network structure; total given as 10,881 kilos
 open_questions:
-  - Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost 20'. The report uses 18.
-  - El Diario de Málaga describes all 86 detainees as accused of the three offences, while Barlamane says the 18 jailed were charged with them; the figures count 18 as charged.
-  - 'The sources differ in emphasis on who made the arrest: Barlamane attributes the announcement to Spain''s National Police and says ''the authorities'' located him, while La Vanguardia says Moroccan authorities detained him through international cooperation. No source says Spanish officers were present.'
-  - No extradition date is fixed; La Vanguardia says he could appear before the Audiencia Nacional in about two months.
-  - The Olive Press describes the arrest as happening 'this week' in a report published on 1 November, while the National Police announcement and Spanish coverage date it to 8 October in Tangier; the report keeps 8 October.
-  - The new account rounds the seizure to about 11 tonnes of hashish, while the existing report uses the police figure of 10.8 tonnes of cannabis resin plus 20 kg of marijuana buds.
-  - The new account gives only its publication date of 1 November 2026 and does not give a separate arrest date; the report keeps 8 October from the earlier police announcement.
-  - The page's lead image has no caption or alt text confirming it shows this event, so it is not listed as media.
-  - The submitted article reports 86 detainees across seven Spanish provinces while separately reporting the leader's arrest in Tangier, leaving unclear whether the leader is counted in the 86; the matched report uses 86 total while a parallel report uses 87.
-  - The page carries a lead image captioned with the headline, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
+  - >-
+    Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost
+    20'. The report uses 18.
+  - >-
+    El Diario de Málaga describes all 86 detainees as accused of the three offences, while Barlamane says the
+    18 jailed were charged with them; the figures count 18 as charged.
+  - >-
+    The sources differ in emphasis on who made the arrest: Barlamane attributes the announcement to Spain's
+    National Police and says 'the authorities' located him, while La Vanguardia says Moroccan authorities
+    detained him through international cooperation. No source says Spanish officers were present.
+  - >-
+    No extradition date is fixed; La Vanguardia says he could appear before the Audiencia Nacional in about
+    two months.
+  - >-
+    The Olive Press describes the arrest as happening 'this week' in a report published on 1 November, while
+    the National Police announcement and Spanish coverage date it to 8 October in Tangier; the report keeps 8
+    October.
+  - >-
+    The new account rounds the seizure to about 11 tonnes of hashish, while the existing report uses the
+    police figure of 10.8 tonnes of cannabis resin plus 20 kg of marijuana buds.
+  - >-
+    The new account gives only its publication date of 1 November 2026 and does not give a separate arrest
+    date; the report keeps 8 October from the earlier police announcement.
+  - >-
+    The page's lead image has no caption or alt text confirming it shows this event, so it is not listed as
+    media.
+  - >-
+    The submitted article reports 86 detainees across seven Spanish provinces while separately reporting the
+    leader's arrest in Tangier, leaving unclear whether the leader is counted in the 86; the matched report
+    uses 86 total while a parallel report uses 87.
+  - >-
+    The page carries a lead image captioned with the headline, but the caption and credit do not establish
+    that it shows this seizure, so no media entry is added.
+  - >-
+    The Arabic account puts the marijuana seizure at more than 21.8 kg, while ABC reported 20 kg of buds; the
+    report keeps the 20 kg figure.
+  - >-
+    The Arabic account dates the first wave of arrests to March 2026, while the existing report describes two
+    waves beginning in September 2025.
+  - >-
+    The operation's name, Sauron, the 33 searches and the €466,000 cash seizure appear only in the Arabic
+    account; no Spanish source opened here reports them.
+  - >-
+    No photograph of the raids is linked: the Arabic page's only image is a library picture of a dismantled
+    laboratory, and ABC's seized-bale visual is a Brightcove video whose stream address could not be
+    recovered.
+  - >-
+    Left out, as its quotation was not found in ABC: Police dismantled seven drug storage sites and seized
+    10.8 tonnes of hashish along with 20 kilos of marijuana buds.
+  - >-
+    Accounts give 86 or 87 arrests, with one describing 86 arrests in Spain plus the leader in Morocco; the
+    totals may differ in whether the leader is included.
 ---
+
+Authorities arrested an alleged Spanish hashish-network leader known as Moreno in Tangier. [@1,2,3,4,5,6,7,8,9,10,11]
 
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 'Moreno', one of Spain's main cannabis resin traffickers, had been arrested in
@@ -107,3 +183,13 @@ the Special Anti-Drug Prosecutor's Office. [@3]
 Javier Ramos, head of the National Police's central drugs and organised crime brigade (UDYCO), said El Moreno had survived a kidnapping attempt and an attempt on his life. [@5] In Madrid, the network hid hashish in houses on residential estates and brought the drugs in through their garages. [@5] He already had a drug-trafficking record and was arrested over similar offences in 2009. [@6]
 
 The network stored hashish in private homes on residential estates in Sanchinarro, Las Tablas and El Cañaveral. [@8] Officers found nearly two tonnes of drugs in one of the houses in Las Tablas. [@8]
+
+In total 86 people were detained in Spain on charges of criminal organisation, drug trafficking [@9,10,4] and money laundering, 65 of them in Madrid, ten in Guadalajara and five in Valencia, with further [@9,10,4] arrests in Malaga, Burgos, Almeria and Girona; 18 were remanded in custody by the Audiencia [@9,10,4] Nacional judge directing the case. [@9,10,4]
+
+The detentions came in two waves between September 2025 and October 2026: 22 in the first [@11] wave, including Moreno and businessman Juan Andrés, alias Flako, followed by at least 13 [@11] more arrests of alleged leadership members in the week the secrecy order was lifted — [@11] partial counts reported mid-operation, before the final tally of 86 detentions in Spain. [@11]
+
+El Español [@11] put the total haul at 10,881 kilos of hashish plus 12.30 kilos of marijuana, slightly above [@11] the 10.8 tonnes in the police account. [@11]
+
+The final phase of the operation involved 33 searches across several Spanish regions. [@4]
+
+Police also seized about €466,000 in cash. [@4]

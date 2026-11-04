@@ -1,47 +1,79 @@
 ---
 added_at_source: git
-added_at: "2026-11-03T01:40:51.000Z"
+added_at: '2026-11-03T01:40:51.000Z'
 code: 4W7JCA
-date: 2026-10-21
+date: '2026-10-21'
 country: us/tx
 place: Horizon City, Texas
-coordinates: [31.6787, -106.1972]
+coordinates:
+  - 31.6787
+  - -106.1972
 precision: locality
 type: arrest
-also: [seizure]
+also:
+  - seizure
 title: 39-year-old arrested with marijuana, meth in Horizon City stop
 summary: >-
-  Horizon City police arrested 39-year-old Miguel Angel Valdez on Oct. 21 after a traffic stop yielded suspected marijuana and methamphetamine in his center console. He was jailed in El Paso County on possession charges; no drug weight was published.
+  Horizon City police arrested 39-year-old Miguel Angel Valdez on Oct. 21 after a traffic stop yielded
+  suspected marijuana and methamphetamine in his center console. He was jailed in El Paso County on possession
+  charges; no drug weight was published.
 figures:
   arrested: 1
   charged: 1
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0e4ccf919ff606f283eb87eb8c485067
-tags: [horizon-city, texas, traffic-stop]
+tags:
+  - horizon-city
+  - texas
+  - traffic-stop
+  - possession
 sources:
   - title: Man arrested for drug possession in Horizon City
     url: https://www.ktsm.com/news/man-arrested-for-drug-possession-in-horizon-city/
     publisher: KTSM 9 News
-    date: 2026-11-02
+    date: '2026-11-02'
   - title: Cae con metanfetamina y mariguana en Horizon City
     url: https://diario.mx/el-paso/2026/nov/02/cae-con-metanfetamina-y-mariguana-en-horizon-city-1146610.html
     publisher: El Diario de El Paso
-    date: 2026-11-02
+    date: '2026-11-02'
     language: es
   - title: Man arrested for drug possession in Horizon City
     url: https://www.aol.com/articles/man-arrested-drug-possession-horizon-192957000.html
     publisher: AOL
-    date: 2026-11-02
+    date: '2026-11-02'
 open_questions:
   - No quantity or weight was published for the suspected marijuana or methamphetamine.
-  - The incident date is recorded as 21 October 2026 based on the 2 November 2026 publication date and the Wednesday, Oct. 21 reference.
+  - >-
+    The incident date is recorded as 21 October 2026 based on the 2 November 2026 publication date and the
+    Wednesday, Oct. 21 reference.
   - No court outcome beyond the reported possession charges was published.
-  - The KTSM page displays a booking-style photo of Valdez, but its caption does not establish that it shows the stop or seizure, so no media entry is added.
-  - No weight was published for the suspected marijuana or the suspected crystal-like substance, so no cannabis quantity can be recorded.
-  - The AOL page is a republication of the KTSM article already cited in the existing report, not an independent second account.
-  - The page portrait captioned Miguel Angel Valdez, 39 (Horizon City Police Department) does not show the stop, search or seizure, so no media entry is added.
+  - >-
+    The KTSM page displays a booking-style photo of Valdez, but its caption does not establish that it shows
+    the stop or seizure, so no media entry is added.
+  - >-
+    No weight was published for the suspected marijuana or the suspected crystal-like substance, so no
+    cannabis quantity can be recorded.
+  - >-
+    The AOL page is a republication of the KTSM article already cited in the existing report, not an
+    independent second account.
+  - >-
+    The page portrait captioned Miguel Angel Valdez, 39 (Horizon City Police Department) does not show the
+    stop, search or seizure, so no media entry is added.
+  - >-
+    No weight was published for the suspected marijuana or the suspected crystal-like substance, so no
+    cannabis quantity is recorded.
+  - >-
+    The article gives Wednesday, Oct. 21 without a year; 21 October 2026 is used because it was the Wednesday
+    before the 2 November 2026 publication.
+  - Only one source for this event was found after searching for a second account.
+  - >-
+    The page image is a booking-style portrait and site graphic that does not show the stop, search or
+    seizure, so no media entry is added.
+  - The methamphetamine component is part of the same event but is not counted as cannabis.
 ---
+
+Horizon City police arrested Miguel Angel Valdez after a traffic stop uncovered marijuana and methamphetamine. [@1,2,3]
 
 Horizon City police arrested 39-year-old Miguel Angel Valdez during a traffic
 stop on Wednesday, October 21, in Horizon City, Texas, on charges including

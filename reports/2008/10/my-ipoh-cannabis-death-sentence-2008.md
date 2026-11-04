@@ -1,38 +1,61 @@
 ---
 added_at_source: git
-added_at: "2026-11-02T11:54:36.000Z"
+added_at: '2026-11-02T11:54:36.000Z'
 code: Z19SKT
-date: 2008-10-08
+date: '2008-10-08'
 country: my
 place: Ipoh, Perak
-coordinates: [4.5975, 101.0901]
+coordinates:
+  - 4.5975
+  - 101.0901
 precision: locality
 type: sentence
 title: Ipoh court sentences two men to death over 971 g of cannabis
 summary: >-
-  The Ipoh High Court on 8 October 2008 sentenced Khairil Anuar Abdul Rahman and Afendi Adam to
-  death by hanging for trafficking 971 grams of cannabis in 2002. Their lawyers were expected to
-  appeal against the conviction and sentence.
+  The Ipoh High Court on 8 October 2008 sentenced Khairil Anuar Abdul Rahman and Afendi Adam to death by
+  hanging for trafficking 971 grams of cannabis in 2002. Their lawyers were expected to appeal against the
+  conviction and sentence.
 figures:
   charged: 2
+  kg_seized: 0.971
 created_by_model: unknown
 status: verified
-tags: [ipoh, mandatory-death-penalty]
+tags:
+  - ipoh
+  - mandatory-death-penalty
+  - perak
 open_questions:
-  - The available accounts are the original New Straits Times report and a Hands Off Cain reprint of a Bernama dispatch with the same facts; no separate second newsroom account was found.
+  - >-
+    The available accounts are the original New Straits Times report and a Hands Off Cain reprint of a Bernama
+    dispatch with the same facts; no separate second newsroom account was found.
   - The reports give no grounds for the judgment and do not say what became of the expected appeals.
   - A third person allegedly involved was still at large at the time and is not named.
   - No photograph of the event with a recoverable direct image address was found in the opened sources.
+  - >-
+    Both opened pages reprint the same agency dispatch, so no independent second newsroom account of the trial
+    was found.
+  - >-
+    The reports give the offence as Jalan Rokam, Taman Razaki (Ipoh) but do not name the High Court's city
+    outright.
+  - The reports say an appeal was expected but record no outcome.
+  - >-
+    No photograph of the accused or the proceedings with a recoverable direct image address was found in the
+    opened sources.
+  - >-
+    The original report was imported without a recorded creator model; its original unknown attribution is
+    preserved.
 sources:
-  - title: "Malaysia: Two men to be hanged for trafficking in cannabis"
+  - title: 'Malaysia: Two men to be hanged for trafficking in cannabis'
     url: http://ccguide.org/news/shownewsarticle.php?articleid=14827
     publisher: New Straits Times
-    date: 2008-10-08
+    date: '2008-10-08'
   - title: MALAYSIA. TWO MEN GET DEATH SENTENCE FOR TRAFFICKING IN CANNABIS
     url: https://handsoffcain.info/news/malaysia-two-men-get-death-sentence-for-trafficking-in-cannabis-10318533
     publisher: Hands Off Cain
-    date: 2008-10-08
+    date: '2008-10-08'
 ---
+
+The Ipoh High Court sentenced Khairil Anuar Abdul Rahman and Afendi Adam to death for trafficking 971 grams of cannabis. [@1,2]
 
 Judicial Commissioner Ridwan Ibrahim of the Ipoh High Court sentenced Khairil Anuar Abdul Rahman, 34, and Afendi Adam, 28, to death by hanging on 8 October 2008.[@1,2] The court found both men guilty of trafficking nearly a kilogram of cannabis six years earlier, and the judge said the court had no choice but to impose the death sentence once the prosecution proved its case beyond reasonable doubt.[@1,2] He gave no grounds for the judgment.[@1]
 

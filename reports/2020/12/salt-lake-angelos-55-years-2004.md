@@ -1,50 +1,77 @@
 ---
-added_at: "2026-11-03T19:20:31.368Z"
-code: "7FRNQK"
-date: 2020-12-22
+added_at: '2026-11-03T19:20:31.368Z'
+code: 7FRNQK
+date: '2020-12-22'
 country: us/ut
 place: U.S. District Court, Salt Lake City, Utah
-coordinates: [40.7608, -111.891]
+coordinates:
+  - 40.7608
+  - -111.891
 precision: locality
 type: sentence
 title: Utah producer freed in 2016 and pardoned in 2020 after 55-year marijuana sentence
 summary: >-
-  Weldon Angelos served about 12 years of a 55-year federal sentence for three $350 marijuana
-  sales before a court cut it short in 2016 at the urging of the prosecutor who had charged him.
-  President Trump granted him a full pardon on 22 December 2020.
+  Weldon Angelos served about 12 years of a 55-year federal sentence for three $350 marijuana sales before a
+  court cut it short in 2016 at the urging of the prosecutor who had charged him. President Trump granted him
+  a full pardon on 22 December 2020.
 figures:
   prison: 55 years (released after about 12 years; pardoned in 2020)
+  charged: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified
-tags: [mandatory-minimum, firearms, music]
+tags:
+  - mandatory-minimum
+  - firearms
+  - music
+  - salt-lake-city
 sources:
   - title: United States v. Angelos, 345 F. Supp. 2d 1227
     url: https://reason.com/wp-content/uploads/assets/db/15424203334628.pdf
     publisher: U.S. District Court for the District of Utah (PDF via Reason)
-    date: 2004-11-16
+    date: '2004-11-16'
   - title: A Major Step Toward Less Unjust Sentences
     url: https://reason.com/2015/10/12/a-major-step-toward-less-unjust-sentence/
     publisher: Reason
-    date: 2015-10-12
+    date: '2015-10-12'
+    archived: https://web.archive.org/web/20260412034941/https://reason.com/2015/10/12/a-major-step-toward-less-unjust-sentence/
   - title: Judge Urges President to Commute Harsh Sentence He Imposed
     url: https://hightimes.com/news/judge-urges-president-to-commute-harsh-sentence-he-imposed/
     publisher: Associated Press (via High Times)
-    date: 2016-02-10
+    date: '2016-02-10'
   - title: Music Producer Whose Long Sentence Drew Outcry Is Free Early
     url: https://news.pollstar.com/2016/06/06/music-producer-whose-long-sentence-drew-outcry-is-free-early/
     publisher: Associated Press (via Pollstar)
-    date: 2016-06-06
+    date: '2016-06-06'
   - title: Weldon Angelos Is Free, Thanks to a Prosecutor, Not a President
     url: https://reason.com/2016/06/06/weldon-angelos-is-free-thanks-to-a-prose/
     publisher: Reason
-    date: 2016-06-06
+    date: '2016-06-06'
   - title: Trump Fully Pardons Snoop Dogg Producer Weldon Angelos
     url: https://www.digitalmusicnews.com/2020/12/28/trump-pardon-snoop-dogg-weldon-angelos/
     publisher: Digital Music News
-    date: 2020-12-28
+    date: '2020-12-28'
+  - title: 55 Years for a Few Bags of Pot
+    publisher: Reason
+    url: https://reason.com/2004/11/17/55-years-for-a-few-bags-of-pot/
+    archived: https://web.archive.org/web/20260713190606/https://reason.com/2004/11/17/55-years-for-a-few-bags-of-pot/
+    date: '2004-11-17'
+  - title: Small fish in a big sentence
+    publisher: Jewish World Review
+    url: http://jewishworldreview.com/1104/saunders112304.asp
+    archived: https://web.archive.org/web/20160412063555/http://jewishworldreview.com/1104/saunders112304.asp
+    date: '2004-11-23'
 open_questions:
-  - The records behind the 2016 sentence reduction were sealed, so its exact legal mechanism is reported here only through the lawyers and the judge involved.
+  - >-
+    The records behind the 2016 sentence reduction were sealed, so its exact legal mechanism is reported here
+    only through the lawyers and the judge involved.
+  - The opened sources state no seized cannabis weight, so none is recorded.
+  - Appeals, the commutation campaign and the later release are separate events left out here.
+  - >-
+    No photograph of the 2004 sales or the sentencing with a recoverable direct image address was found in the
+    opened sources.
 ---
+
+Weldon Angelos received a 55-year federal prison sentence after three small marijuana sales in Utah. [@1,2,3,4,5,6,7,8]
 
 Weldon Angelos, 24, a successful music executive and father of two young children with no criminal
 record, stood for sentencing in Salt Lake City after a jury convicted him of dealing marijuana and
@@ -71,3 +98,5 @@ prosecutor who had charged him, not from President Obama, whose round of commuta
 not include him. [@4,5] Cassell, by then a law professor still advocating for Angelos, said
 prosecutors had arranged the release; the records behind it were sealed. [@5] On 22 December 2020
 President Trump granted Angelos a full pardon. [@6]
+
+Prosecutors defended the term, saying officers found 26 empty duffel bags with marijuana residue and describing Angelos as a significant dealer who had turned down a 16-year plea offer. [@8]
