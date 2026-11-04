@@ -29,6 +29,10 @@ sources:
     publisher: Dhaka Times
     date: 2026-11-04
     language: bn
+  - title: DMP arrests 547, files 68 cases in 24-hour drive
+    url: https://en.banglanews24.com/national/news/bd/197524.details
+    publisher: Banglanews24
+    date: 2026-11-04
 open_questions:
   - The 547 arrests and 68 cases cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
   - Yaba, Winserex, phensedyl and country-liquor figures are mentioned only to explain the mixed sweep and are excluded from cannabis figures; no combined weight is counted as cannabis.
@@ -36,24 +40,25 @@ open_questions:
   - The incident date of 3 November 2026 is the operation date stated in both reports published on 4 November 2026.
   - Both accounts appear to follow the same DMP briefing and largely repeat its wording, so they are not fully independent.
   - The News 24 lead image is labelled as a collected photo with no credit establishing that it shows this seizure, so no media entry is listed.
+  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - The opened account spells the cough-syrup brand as Wincerex while the existing report spells it Winserex; the count of 224 bottles matches.
 ---
 
 Dhaka Metropolitan Police, the police force for the capital, arrested 547 people
-during 24 hours of raids across Dhaka. [@1] Ramna accounted for 26 arrests,
+during 24 hours of raids across Dhaka. [@1,3] Ramna accounted for 26 arrests,
 Lalbagh for 49, Wari for 70, Motijheel for 56, Tejgaon for 74, Mirpur for 169,
 Gulshan for 36 and Uttara for 42, with 24 more by the Detective Branch and one
-by the SRU special unit. [@1] Police filed 68 cases for various alleged offences
-during the same 24-hour sweep. [@2] Police said further legal action against
+by the SRU special unit. [@1,3] Police filed 68 cases for various alleged offences
+during the same 24-hour sweep. [@2,3] Police said further legal action against
 those arrested was under way. [@2]
 
 During the same operations, police seized 62 kilograms and 690 grams (62.69
-kilograms) of ganja, the local term for cannabis. [@1] The sweep also yielded
+kilograms) of ganja, the local term for cannabis. [@1,3] The sweep also yielded
 35,810 yaba tablets, 224 bottles of Winserex, 126 bottles of phensedyl and 6,960
 litres of country liquor. [@2]
 
 Officers carried out the raids on Tuesday 3 November in different police-station
-areas of Dhaka. [@1] DMP announced the results on Wednesday 4 November in a
+areas of Dhaka. [@1,3] DMP announced the results on Wednesday 4 November in a
 press release signed by Deputy Commissioner Md Akhtar Hossain of its media and
 public relations division. [@1] The sweep was part of DMP's regular operations
 in the capital. [@1]
-
