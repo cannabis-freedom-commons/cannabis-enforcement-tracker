@@ -31,22 +31,30 @@ sources:
     url: http://europeanwesternbalkans.com/2026/02/09/another-40-tons-of-marijuana-seized-in-north-macedonia/
     publisher: European Western Balkans
     date: 2026-02-09
+  - title: Record 40-Tonne Cannabis Haul Found in North Macedonia
+    url: https://www.occrp.org/en/news/record-40-tonne-cannabis-haul-found-in-north-macedonia
+    publisher: OCCRP
+    date: 2026-02-09
 open_questions:
   - The published total is "more than 40 tons" of flowers and biomass; the 1,300 bottles of cannabis oil seized near Skopje are counted separately from that weight.
   - The Interior Ministry disclosed no arrests or named suspects and said the nationwide operation was continuing, so the total may have grown after 7 February.
   - A 5-ton seizure in Serbia in late January that prompted the operation is a separate event left out here.
   - The CannaReporter page carries a Ministry of Interior photograph that could not be verified as showing this seizure, so no media entry is listed.
   - This account says around 40 tons while the existing report records more than 40 tons; the existing total is retained.
+  - The OCCRP banner photograph shows Serbian officials commenting on the Serbian seizure, not the North Macedonian sites, so no media entry for this event is listed.
+  - OCCRP reports a record 40 tonnes while the existing report records more than 40 tons; the existing total is retained.
 ---
 
 ## Record raids on licensed growers
 
-Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3]
+Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3]
 
-The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1] The firms and the people involved were not officially named. [@1]
+The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4] The firms and the people involved were not officially named. [@1]
 
 ## Reactions
 
 The record seizures set off accusations between the ruling VMRO-DPMNE party and the opposition Social Democrats over who enabled the illicit trade. [@1,3]
 
 The Skopje search targeted the ALAFARM GROUP factory. [@3] Telma reported that the total had grown from an initial 27 tons as new quantities ready for trafficking were found. [@3]
+
+One of the suspects detained in Serbia less than two weeks before the 9 February 2026 report was linked to the Skopje company's ownership. [@4] Customs officials and the Health Ministry's supervisory commission joined police and organised-crime prosecutors in the joint investigation team. [@4] Prime Minister Hristijan Mickoski called the uncovered irregularities catastrophic and said authorities were continuing the investigation. [@4] Prime Minister Mickoski said the Serbia seizure was part of the same network and that the drugs seized in Serbia probably originated from North Macedonia. [@4]

@@ -17,6 +17,12 @@ sources:
   - title: Record seizure near Kruševac, 29 January 2026
     publisher: Serbia Government / Interior Ministry
     url: https://www.srbija.gov.rs/vest/en/268430/record-seizure-
+  - title: Record 40-Tonne Cannabis Haul Found in North Macedonia
+    url: https://www.occrp.org/en/news/record-40-tonne-cannabis-haul-found-in-north-macedonia
+    publisher: OCCRP
+    date: 2026-02-09
 ---
 
 The Interior Ministry announced about five tonnes of marijuana seized near Kruševac, calling it a record national drug seizure. It reported two arrests and a search for another suspect, alongside seized firearms. Authorities suspected unlawful production and distribution. [@1]
+
+Serbian police also seized automatic rifles and a rocket launcher alongside the marijuana near Kruševac. [@2] Interior Minister Ivica Dačić put the haul's value at 7 to 10 million euros ($8.3–11.9 million) and said two suspects were arrested for illegal drug production and weapons violations. [@2]
