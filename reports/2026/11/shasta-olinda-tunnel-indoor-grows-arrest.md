@@ -40,6 +40,10 @@ sources:
     url: https://kymkemp.com/2026/11/03/foot-chase-ends-in-arrest-as-shasta-deputies-bust-two-indoor-marijuana-grows/
     publisher: Redheaded Blackbelt
     date: 2026-11-03
+  - title: Marijuana farms found in Mountain Gate, Happy Valley lead to arrest
+    url: https://www.redding.com/story/news/local/anderson/2026/11/03/man-arrested-after-2-marijuana-farms-found-near-redding/92589863007/
+    publisher: Redding Record Searchlight
+    date: 2026-11-03
 open_questions:
   - No second independent source for this event could be opened; the account republishes a Shasta County Sheriff's Office press release.
   - The booking offenses are stated but formal charging and any court outcome were not reported; additional charges for the second grow were still to be requested.
@@ -54,21 +58,20 @@ County Interagency Narcotics Task Force. [@1] Marijuana Eradication Team
 detectives followed up and obtained a search warrant for the suspected unlawful
 indoor cultivation. [@1] On the morning of November 2, 2026, detectives serving
 the Olinda Road warrant chased a man who fled into a wooded area and arrested
-him after a short foot chase. [@1] The arrested man was identified as
-62-year-old Zhao Lianwei of Redding. [@1]
+him after a short foot chase. [@1,2] The arrested man was identified as
+62-year-old Zhao Lianwei of Redding. [@1,2]
 
 Inside a detached shop on the Olinda Road property, detectives found a
 sophisticated indoor marijuana grow with 449 growing plants and 325 pounds
-(about 147.4 kg) of processed marijuana. [@1] Lianwei was booked into Shasta
+(about 147.4 kg) of processed marijuana. [@1,2] Lianwei was booked into Shasta
 County Jail for unlawful cultivation of marijuana, possession of marijuana for
-sale, and resisting or obstructing a peace officer. [@1]
+sale, and resisting or obstructing a peace officer. [@1,2]
 
 While processing the scene, detectives linked Lianwei to a second address on the
 19000 block of Tunnel Road in the Mountain Gate area and obtained a second
-search warrant for a suspected unlawful indoor grow there. [@1] On the afternoon
+search warrant for a suspected unlawful indoor grow there. [@1,2] On the afternoon
 of November 2, detectives executed the second warrant and found another indoor
-grow with 339 growing plants. [@1] Detectives said additional charges will be
+grow with 339 growing plants. [@1,2] Detectives said additional charges will be
 requested against Lianwei for the second grow. [@1] The sheriff's office said it
 remains committed to eradicating unlawful, unpermitted marijuana grow
 operations. [@1]
-
