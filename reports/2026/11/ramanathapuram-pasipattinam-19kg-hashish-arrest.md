@@ -23,6 +23,10 @@ sources:
     url: https://www.thehindu.com/news/cities/Madurai/police-seize-198-kg-of-hashish-in-ramanathapuram/article71661597.ece/amp/
     publisher: The Hindu
     date: 2026-11-03
+  - title: South Zone cops arrest 49 in single-day NDPS drive
+    url: https://www.dtnext.in/news/tamilnadu/south-zone-cops-arrest-49-in-single-day-ndps-drive
+    publisher: DT Next
+    date: 2026-11-04
 open_questions:
   - The article says the arrest happened “on Tuesday” and was published on 3 November 2026; no separate incident date is given, so the publication date is used as the incident date.
   - Only one accessible source for this event was found after searching in English.
@@ -30,6 +34,7 @@ open_questions:
   - No court outcome beyond custody at S.P. Pattinam police station was reported.
   - The opened page carries only a generic site image and logo, with no event photo, so no media entry is included.
   - Coordinates are for Ramanathapuram town as the district centre; the precise coastal interception point near Pasipattinam was not separately verified.
+  - The new account spells the native place as Thalir Marungur while the existing report uses Thalir Marungoor; the relationship between the newly clarified 15 kg ganja S.P. Pattinam case and the Thondi case noted in the existing report is not clarified.
 ---
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
@@ -49,3 +54,4 @@ Chandeesh said Mano had been evading arrest and living as a fugitive before the
 operation. [@1] The accused was taken into custody and brought to the S.P.
 Pattinam police station following legal protocols. [@1]
 
+Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@2]
