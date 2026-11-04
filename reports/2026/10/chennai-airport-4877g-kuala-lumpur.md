@@ -75,6 +75,10 @@ sources:
     publisher: ETV Bharat Tamil Nadu
     date: 2026-11-02
     language: ta
+  - title: Chennai Airport Seizes Hydroponic Ganja Worth Rs 5 Crore
+    url: https://urbanacres.in/chennai-airport-seizes-hydroponic-ganja-worth-rs-5-crore/
+    publisher: Urban Acres
+    date: 2026-11-04
 open_questions:
   - Hindustan Times gives 4,000 grams in its opening sentence but 4,877 grams later; the report uses 4,877 grams, which Daily Thanthi also gives.
   - 'The reports describe the concealment differently: Daily Thanthi says 23 packets disguised as food, while Hindustan Times says 15 transparent packets inside eight food packets.'
@@ -106,6 +110,7 @@ open_questions:
   - ETV Bharat gives 4.80 kg while the existing report uses 4.877 kg from Daily Thanthi and Hindustan Times.
   - ETV Bharat gives the woman's age as 32 while the existing report keeps 28 from Daily Thanthi.
   - ETV Bharat was published 2 November 2026 and describes the Kuala Lumpur flight arriving the night of 1 November, while the existing report dates the event 31 October 2026.
+  - Urban Acres dates this earlier seizure to 30 October while the existing report uses 31 October 2026.
 media:
   - kind: photo
     url: https://www.dtnext.in/news/chennai/woman-caught-at-chennai-airport-with-48-kg-of-hydroponic-ganja-smuggled-from-malaysia
@@ -128,7 +133,7 @@ officers stopped her and searched her suitcase and handbag. [@1]
 The search found 4.877 kg of high-grade hydroponic cannabis in 23 packets
 disguised as food. [@1,5,8] Daily Thanthi put its international value at ₹1.71
 crore. [@1,5,11] Hindustan Times reported that the drug was in 15 transparent packets
-concealed inside eight food packets in her checked-in trolley bag. [@2,3]
+concealed inside eight food packets in her checked-in trolley bag. [@2,3,12]
 
 An official said further investigation was under way. [@2,3] Customs' intelligence
 wing had put the airport under watch after a tip-off that narcotics were being
