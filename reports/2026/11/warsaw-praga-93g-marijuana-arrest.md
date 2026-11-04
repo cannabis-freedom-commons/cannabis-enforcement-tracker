@@ -25,6 +25,11 @@ sources:
     publisher: kryminalki.pl
     date: 2026-11-04
     language: pl
+  - title: Przyszedł kupić narkotyki w trakcie policyjnej akcji. „Przyszedłem do Szybkiego po szybkiego”
+    url: https://warszawa.tvp.pl/96295818/marihuana-i-mefedron-w-mieszkaniu-mlodych-ludzi-w-trakcie-interwencji-przyszedl-staly-klient
+    publisher: TVP Warszawa
+    date: 2026-11-04
+    language: pl
 open_questions:
   - The article gives no separate date for the search and arrests; 4 November 2026 is the publication date used as the incident date.
   - The flat's exact address or district in Warsaw was not reported; only the Warszawa-Praga Południe prosecutor's jurisdiction is named.
@@ -33,24 +38,31 @@ open_questions:
   - More than 120 grams of mephedrone were reported alongside the marijuana and are mentioned only to explain the mixed seizure, with no mephedrone weight counted as cannabis.
   - Only one accessible source for this event was found after searching in Polish.
   - The page carries two photographs, one credited to the Warsaw Metropolitan Police Headquarters, but neither caption establishes that it shows this seizure, so no media entry is included.
+media:
+  - kind: photo
+    url: https://warszawa.tvp.pl/96295818/marihuana-i-mefedron-w-mieszkaniu-mlodych-ludzi-w-trakcie-interwencji-przyszedl-staly-klient
+    media_url: https://s2.tvp.pl/images2/2/2/7/uid_2277e46a1c4a4d4496078c04c4deb494_width_900_play_0_pos_0_gs_0_height_506.jpg
+    publisher: TVP Warszawa
+    caption: 'Police photo of the seized drugs reported as almost 93 grams of marijuana and over 120 grams of mephedrone. Photo: KRP Warszawa VII.'
 ---
 
 Warsaw criminal detectives went to a flat after receiving information that the
 couple living there might possess and sell drugs. [@1] The 25-year-old man and
-18-year-old woman who occupied the flat were taken into custody. [@1] While the
+18-year-old woman who occupied the flat were taken into custody. [@1,2] While the
 search was still under way, another man knocked at the door with a banknote in
 his hand and was met by a detective he did not recognise. [@1] The 21-year-old
-was holding 50 zloty when he said he had come to see “Szybki” for drugs. [@1] He
+was holding 50 zloty when he said he had come to see “Szybki” for drugs. [@1,2] He
 admitted that he wanted to buy marijuana and had previously obtained it at the
 same address, and he was detained and later questioned as a witness. [@1]
 
 During the search, officers found jars containing marijuana and a bag containing
-mephedrone. [@1] In total, officers secured almost 93 grams of marijuana and
-more than 120 grams of mephedrone. [@1] Police described the haul as more than
+mephedrone. [@1,2] In total, officers secured almost 93 grams of marijuana and
+more than 120 grams of mephedrone. [@1,2] Police described the haul as more than
 200 grams of drugs in total. [@1]
 
 The 25-year-old and the 18-year-old were charged at the Warszawa-Praga Południe
 district prosecutor’s office with possessing a significant quantity of drugs and
-supplying them. [@1] At the prosecutor’s request, a court temporarily arrested
-both suspects. [@1]
+supplying them. [@1,2] At the prosecutor’s request, a court temporarily arrested
+both suspects. [@1,2]
 
+The TVP account names the Warsaw VII district police command and its spokeswoman Joanna Węgrzyniak as the source of the account. [@2]
