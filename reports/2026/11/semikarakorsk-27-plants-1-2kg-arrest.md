@@ -31,6 +31,11 @@ sources:
     publisher: Волгодонская правда
     date: 2026-11-02
     language: ru
+  - title: Полиция задержала «наркоагронома» с необычным урожаем
+    url: https://news.ru/regions/policiya-zaderzhala-narkoagronoma-s-neobychnym-urozhaem
+    publisher: NEWS.ru
+    date: 2026-11-02
+    language: ru
 open_questions:
   - The article gives no separate raid date; 2 November 2026 is the publication date and is used as the incident date.
   - The exact village, street and homestead were not named, only Semikarakorsky District.
@@ -39,20 +44,20 @@ open_questions:
   - The marijuana weight was reported as more than 1.2 kilograms, so 1.2 is recorded as the stated minimum.
   - The article mentions two cannabis bushes recently seized from a Volgodonsk resident as a separate event left out of this report.
   - Only one accessible source for this event was found; the Interior Ministry statement itself was not opened separately.
+  - The NEWS.ru page carries a photo credited in the text to Sergei Petrov/NEWS.ru with no caption establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers of the 2nd department of the drug-control directorate of the Rostov
 Oblast Interior Ministry found a cannabis garden at the home of a 51-year-old
 Semikarakorsky District resident. [@1] The detained man was placed in custody
-until the investigation ends and the court issues a verdict. [@1]
+until the investigation ends and the court issues a verdict. [@1,2]
 
-Police counted 27 large cannabis bushes growing in greenhouses in his yard. [@1]
+Police counted 27 large cannabis bushes growing in greenhouses in his yard. [@1,2]
 Officers found a ready batch of marijuana weighing more than 1.2 kilograms in
-the attic of an outbuilding. [@1] The search also seized scales and packaging
-materials. [@1] All of the bushes and their derivatives were seized. [@1]
+the attic of an outbuilding. [@1,2] The search also seized scales and packaging
+materials. [@1,2] All of the bushes and their derivatives were seized. [@1]
 
 Investigators found that he had bought cannabis seeds online, planted them in
 greenhouses in his yard and tended the seedlings until they grew taller than the
-shed roof. [@1] He then collected parts of the plants, dried and stored them,
+shed roof. [@1,2] He then collected parts of the plants, dried and stored them,
 insisting they were exclusively for himself. [@1]
-
