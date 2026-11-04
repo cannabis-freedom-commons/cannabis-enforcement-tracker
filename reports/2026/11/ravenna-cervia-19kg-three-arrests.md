@@ -24,6 +24,11 @@ sources:
     publisher: Risveglio Duemila
     date: 2026-11-04
     language: it
+  - title: 'Quasi 20 chili di hashish e marijuana sequestrati tra Ravenna e Cervia: arrestati tre giovani sotto i 25 anni'
+    url: https://www.ravennaedintorni.it/cronaca/2026/11/04/20-kg-marijuana-hashish-sequestrati-tra-cervia-e-ravenna/
+    publisher: Ravenna&Dintorni
+    date: 2026-11-04
+    language: it
 open_questions:
   - Only one accessible account of this event was opened; searches found no second outlet or agency statement to corroborate it.
   - The 19 kg total is reported as approximate, split as about nine kilograms in Ravenna and about ten kilograms in Cervia, with no exact laboratory weight published.
@@ -37,24 +42,23 @@ open_questions:
 State police carried out two operations on the afternoon of 2 November 2026
 between Ravenna and Cervia, arresting two 21- and 22-year-old men from Ravenna
 and a 24-year-old from Cervia. [@1] Officers first stopped the two Ravenna men,
-both with clean records, while they were travelling in a car. [@1] On the
+both with clean records, while they were travelling in a car. [@1,2] On the
 morning of 4 November the preliminary-investigations judge in Ravenna validated
 all three arrests, keeping the 24-year-old from Cervia in jail and placing the
-two from Ravenna under house arrest with electronic bracelets. [@1]
+two from Ravenna under house arrest with electronic bracelets. [@1,2]
 
 In the car officers found a bag containing almost seven kilograms of hashish and
-marijuana. [@1] Later searches in the two young men's homes brought the Ravenna
-total to about nine kilograms. [@1] In Cervia officers found about ten kilograms
-of hashish and marijuana in the 24-year-old's home. [@1] The two operations
-together yielded about 19 kilograms of hashish and marijuana. [@1] Officers also
+marijuana. [@1,2] Later searches in the two young men's homes brought the Ravenna
+total to about nine kilograms. [@1,2] In Cervia officers found about ten kilograms
+of hashish and marijuana in the 24-year-old's home. [@1,2] The two operations
+together yielded about 19 kilograms of hashish and marijuana. [@1,2] Officers also
 seized packaging material, mobile phones, precision electronic scales and 3,015
-euros in cash believed to come from dealing. [@1] The Cervia search also turned
+euros in cash believed to come from dealing. [@1,2] The Cervia search also turned
 up 29 vials of codeine-based syrup and about 1.6 kilograms of THC-containing
 edible biscuits that tested positive in a presumptive narcotest. [@1] Officers
 also seized a concealed Beretta model 1934 semi-automatic pistol in 9mm Short
-with six rounds already loaded plus 25 more rounds. [@1]
+with six rounds already loaded plus 25 more rounds. [@1,2]
 
 The operations were run jointly by the specialist anti-drug units of the two
-Romagna Mobile Squads. [@1] Investigators said checks into the pistol's origin
-were still under way. [@1]
-
+Romagna Mobile Squads. [@1,2] Investigators said checks into the pistol's origin
+were still under way. [@1,2]
