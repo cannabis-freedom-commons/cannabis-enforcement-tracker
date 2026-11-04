@@ -23,6 +23,11 @@ sources:
     publisher: Diario Panorama
     date: 2026-11-03
     language: es
+  - title: Dos detenidos y más de 80 envoltorios de droga secuestrados en un operativo en barrio Tradición
+    url: https://nuevodiarioweb.com.ar/notas/dos-detenidos-y-mas-de-80-envoltorios-de-droga-secuestrados-en-un-operativo-en-barrio-tradicion.htm
+    publisher: Nuevo Diario Web
+    date: 2026-11-03
+    language: es
 open_questions:
   - No weight was published for the 20 marijuana packets or the 60 cocaine packets, only packet counts, so no kilograms can be recorded and combined totals are not attributed to cannabis.
   - No amount was published for the cash seized, so no value can be recorded.
@@ -33,18 +38,17 @@ open_questions:
 ---
 
 Federal police detained two men in an afternoon operation against retail drug
-dealing in the Tradición neighbourhood of Santiago del Estero city. [@1]
+dealing in the Tradición neighbourhood of Santiago del Estero city. [@1,2]
 Officers from the Federal Operational Unit of Santiago del Estero carried out
-the operation in that part of the city during the afternoon. [@1] The two
+the operation in that part of the city during the afternoon. [@1,2] The two
 detainees and everything seized were placed at the disposal of the judicial
-authorities. [@1]
+authorities. [@1,2]
 
 Officers seized 60 packets of cocaine and 20 packets of marijuana, which
-investigators said appeared ready for sale. [@1] Officers also seized cash that
-police described as the suspected proceeds of prohibited-substance sales. [@1]
+investigators said appeared ready for sale. [@1,2] Officers also seized cash that
+police described as the suspected proceeds of prohibited-substance sales. [@1,2]
 
 The case is led by prosecutor Natalia Saavedra, with court measures under the
 control-and-guarantees judge Dr. Amestegui. [@1] The Federal Police said the
 operation followed the guidelines of the national Security Ministry as part of
 its actions against drug retailing, known locally as narcomenudeo. [@1]
-
