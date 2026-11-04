@@ -24,6 +24,12 @@ open_questions:
   - The reports give 27 October for the seizure; neither states a separate date for the arrests, and both articles were published on 28 October.
   - The articles do not say whether the two men have been charged or appeared in court.
   - The bureau did not say who sent the parcel or where in the United States it came from.
+  - The new article spells the names Bhanwar Singh and Vandit Patel, while the existing report uses Bhawar Singh and Bandit Patel.
+  - The new article places the arrests at Tribhuvan International Airport in Kathmandu, while the existing report places the Narcotics Control Bureau action in Koteshwor, Kathmandu.
+  - The new article says only that both men are from Gujarat, while the existing report names Ahmedabad in Gujarat.
+  - The new article was published on 29 October 2026 and gives no separate arrest date, while the existing report uses 27 October for the seizure.
+  - The same article also reports a separate Sri Lanka cocaine and ecstasy seizure, a non-cannabis event left out of the cannabis report.
+  - No event photo is established on the submitted page, so no media entry is included.
 sources:
   - title: Two Indian nationals arrested with marijuana
     url: https://english.khabarhub.com/2026/28/573539/
@@ -33,6 +39,10 @@ sources:
     url: https://english.onlinekhabar.com/marijuana-sent-from-the-us.html
     publisher: OnlineKhabar English
     date: 2026-10-28
+  - title: Indian nationals arrested in Sri Lanka, Nepal in separate drug trafficking cases
+    url: https://www.indianaviationnews.net/home/2026/10/indian-nationals-arrested-in-sri-lanka-nepal-in-separate-drug-trafficking-cases.html
+    publisher: Aviation India
+    date: 2026-10-29
 media:
   - kind: photo
     url: https://english.onlinekhabar.com/marijuana-sent-from-the-us.html
@@ -42,14 +52,14 @@ media:
 ---
 
 Officers of Nepal's Narcotics Control Bureau in Koteshwor, Kathmandu, arrested two Indian
-nationals after marijuana sent from the United States by courier reached the city. [@1,2]
-The two were Bhawar Singh, 23, and Bandit Patel, 33, both from Ahmedabad in Gujarat. [@1,2]
+nationals after marijuana sent from the United States by courier reached the city. [@1,2,3]
+The two were Bhawar Singh, 23, and Bandit Patel, 33, both from Ahmedabad in Gujarat. [@1,2,3]
 
 The parcel weighed 1 kilogram and 338 grams and had been sent disguised as documents, and
 police seized it in a controlled delivery, Deputy Superintendent of Police Jeevan Niraula,
-the bureau's joint spokesperson, said. [@1,2] The operation followed intelligence that
+the bureau's joint spokesperson, said. [@1,2,3] The operation followed intelligence that
 narcotics were being brought into Nepal through courier services. [@1]
 
 The bureau said it was investigating the purpose of the shipment, its intended destination
-and whether other people were involved. [@1] No charges were announced in either report.
+and whether other people were involved. [@1,3] No charges were announced in either report.
 [@1,2]
