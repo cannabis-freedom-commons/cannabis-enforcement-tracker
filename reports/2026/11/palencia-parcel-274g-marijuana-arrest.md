@@ -40,25 +40,31 @@ sources:
     publisher: Cadena SER
     date: 2026-11-04
     language: es
+  - title: Detenido en Palencia por comprar cocaína y marihuana por correo
+    url: https://www.ondacero.es/emisoras/castilla-y-leon/palencia/noticias/detenido-palencia-comprar-cocaina-marihuana-correo_202611046aeaf2c6d3bddc0868a48e43.html
+    publisher: OndaCero
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the inspection; 4 November 2026 is the publication and police-report date and is used as the incident date.
   - The reported value of almost 5,000 euros covers cocaine and marijuana together, so no cannabis-only value is recorded.
   - The 50.55 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - No origin for the parcel, sender details, or later court outcome were published.
   - The La Noción page image is captioned only as Foto de la noticia and is not established to show this seizure, so no media entry from that page is included.
+  - The OndaCero page publishes images but the captured text provides no caption establishing that they show this seizure, so no media entry from this source is included.
 ---
 
 The Guardia Civil detained the recipient of a parcel containing cocaine and
 marijuana in Palencia after finding it during an inspection at a parcel company.
-[@1] The arrested person is under investigation as the alleged perpetrator of a
+[@1,4] The arrested person is under investigation as the alleged perpetrator of a
 drug-trafficking offence against public health. [@1] After the discovery,
 officers identified the recipient, detained that person, and placed the detainee
-and the proceedings at judicial disposal. [@1]
+and the proceedings at judicial disposal. [@1,4]
 
 Officers had flagged the shipment during the inspection because it aroused
 suspicion that it could contain illicit substances. [@1] Removing the outer
 wrapping, they found 50.55 grams of cocaine and 274 grams of marijuana, the
-latter being the cannabis amount recorded here. [@1] Palencia en la Red
+latter being the cannabis amount recorded here. [@1,4] Palencia en la Red
 independently reports the same finding of 50.55 grams of cocaine and 274 grams
 of marijuana after the outer wrapping was removed. [@2] Radio Palencia likewise
 reports 50.55 grams of cocaine and 274 grams of marijuana, with the whole haul
@@ -66,7 +72,6 @@ given a combined illicit-market value of almost 5,000 euros. [@3]
 
 The Guardia Civil estimated that the combined seized substances would be worth
 almost 5,000 euros on the illicit market, so no cannabis-only value is recorded.
-[@1] The published accounts give no origin for the parcel and no details about
+[@1,4] The published accounts give no origin for the parcel and no details about
 its sender, nor the detainee's situation after being placed at judicial
 disposal. [@1]
-
