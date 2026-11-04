@@ -43,6 +43,11 @@ sources:
     publisher: Semana
     date: 2026-11-04
     language: es
+  - title: 'Incautan 917 kilos de marihuana en la vía Bogotá–Villavicencio: un hombre fue capturado'
+    url: https://diariodelnorte.net/nacion/incautan-917-kilos-de-marihuana-en-la-via-bogota-villavicencio-un-hombre-fue-capturado/
+    publisher: Diario del Norte
+    date: 2026-11-04
+    language: es
 open_questions:
   - The articles give no separate date for the roadside procedure; 4 November 2026 is the publication date of both outlets and is used as the incident date.
   - The suspect was described only as a man; no name, age or nationality was published.
@@ -51,22 +56,23 @@ open_questions:
   - Both accounts repeat the police version and the Transit director's statement; no separate police bulletin was opened.
   - '''Kamikaze'' is named as the transport modality but neither article explains what the term means beyond moving the load by road.'
   - Coordinates are for the Guayabetal town centre; the precise Limoncitos checkpoint was not mapped.
+  - The Diario del Norte page image carries no caption or credit linking it to this seizure, so no media entry is added.
 ---
 
 Traffic police arrested a man in flagrante at Limoncitos, Guayabetal, on the
 Bogotá–Villavicencio road while he was transporting 917 kilograms of creepe-type
-marijuana. [@1,3] The arrest occurred during a Transit and Transport Police
+marijuana. [@1,3,4] The arrest occurred during a Transit and Transport Police
 inspection in the sector of Limoncitos, jurisdiction of Guayabetal municipality,
-Cundinamarca. [@2,3] The detainee, the pickup and the seized drug were placed at
-the disposal of the competent authorities for the judicial process. [@1,3]
+Cundinamarca. [@2,3,4] The detainee, the pickup and the seized drug were placed at
+the disposal of the competent authorities for the judicial process. [@1,3,4]
 
 Officers inspecting the pickup during registration and control activities found
-500 packages containing the drug. [@1,3] Police identified the contents as
+500 packages containing the drug. [@1,3,4] Police identified the contents as
 creepe-type marijuana being transported by road. [@2,3] Authorities said the load
 was moved under the modality known as kamikaze. [@2,3] Police put the value of the
 load at more than 2,178 million pesos, describing it as an impact on criminal
-income. [@2,3] Police calculated that the seizure kept more than 917,000 doses of
-marijuana out of the illegal market. [@1,3]
+income. [@2,3,4] Police calculated that the seizure kept more than 917,000 doses of
+marijuana out of the illegal market. [@1,3,4]
 
 Transit and Transport director Colonel Edwin Orlando Correa Correa said road
 controls are closing the way to drug-trafficking organisations and preventing
