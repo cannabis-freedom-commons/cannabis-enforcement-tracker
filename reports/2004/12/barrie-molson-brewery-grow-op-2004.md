@@ -1,7 +1,7 @@
 ---
 added_at_source: git
 added_at: "2026-11-02T13:47:32.000Z"
-code: V56PWD
+code: "V56PWD"
 date: 2004-12-03
 country: ca/on
 place: Former Molson brewery, Barrie, Ontario
@@ -22,7 +22,7 @@ figures:
   charged: 7
   value: { amount: 30000000, currency: CAD }
 status: verified
-created_by_model: muse-code/muse-spark-1.3#xhigh
+created_by_model: meta/muse-spark
 tags: [molson, barrie, opp, grow-op, organised-crime]
 open_questions:
   - The raid fell on the Saturday before the 12-13 January publications, i.e. 10 January; no opened source states the calendar date outright.
