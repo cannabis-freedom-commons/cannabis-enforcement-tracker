@@ -67,6 +67,10 @@ sources:
     publisher: GSTV
     date: 2026-11-01
     language: gu
+  - title: 'Patancheru Ganja Seizure: 1.15 Kg Seized At Dairy Farm'
+    url: https://indtoday.com/patancheru-ganja-seizure-1-15-kg-seized-at-dairy-farm/
+    publisher: INDToday News
+    date: 2026-11-01
 open_questions:
   - The News18 Telugu page is dated 2 November 2026; the 31 October incident date comes from The Hindu and Telangana Today accounts of the Saturday raid.
   - Sources describe two men as arrested and four consumers as apprehended; the report groups all six detained people in the arrested figure.
@@ -87,18 +91,18 @@ open_questions:
 
 EAGLE Force and Patancheru police raided Govind Rao Dairy Farm in Kardanoor
 village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
-[@3,4,5,6,7] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
-at the parking yard opposite, both natives of Bihar. [@2]
+[@3,4,5,6,7,8] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
+at the parking yard opposite, both natives of Bihar. [@2,8]
 
-Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5,6,7] Police said the pair
+Officers seized 1.150 kg of ganja at the dairy farm. [@1,4,5,6,7,8] Police said the pair
 bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
-for Rs 300. [@2] Investigators said they procured one to two kg two or three
-times a week. [@2] Police said 20 to 30 consumers approached daily, rising to 50
-to 60 on Sundays. [@2]
+for Rs 300. [@2,8] Investigators said they procured one to two kg two or three
+times a week. [@2,8] Police said 20 to 30 consumers approached daily, rising to 50
+to 60 on Sundays. [@2,8]
 
-Roy had worked at the dairy farm for the past three years. [@3] Kumar had
-allegedly assisted Roy in selling marijuana for the past year. [@3] The alleged
-supplier Kishan Singh of Dhoolpet was absconding. [@3,5] A case was registered and
-investigation continued. [@2,4]
+Roy had worked at the dairy farm for the past three years. [@3,8] Kumar had
+allegedly assisted Roy in selling marijuana for the past year. [@3,8] The alleged
+supplier Kishan Singh of Dhoolpet was absconding. [@3,5,8] A case was registered and
+investigation continued. [@2,4,8]
 
-Police valued the seized ganja at about Rs 57,000. [@6,7]
+Police valued the seized ganja at about Rs 57,000. [@6,7,8]
