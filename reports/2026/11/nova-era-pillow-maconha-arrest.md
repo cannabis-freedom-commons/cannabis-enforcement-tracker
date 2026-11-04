@@ -40,6 +40,11 @@ sources:
     publisher: As Notícias Online
     date: 2026-11-02
     language: pt
+  - title: Homem é preso após divulgar preços e ofertas de drogas por aplicativo em MG
+    url: https://pordentrodetudo.com.br/homem-e-preso-apos-divulgar-precos-e-ofertas-de-drogas-por-aplicativo-em-mg/
+    publisher: Por Dentro de Tudo
+    date: 2026-11-03
+    language: pt
 open_questions:
   - No weight, value, or包装 count beyond one large package plus two smaller portions was published, so no cannabis weight is recorded.
   - The messaging application used for the alleged offers was not named.
@@ -52,18 +57,18 @@ open_questions:
 
 Military Police officers arrested a 27-year-old man in Nova Era, in the Central
 region of Minas Gerais, on Sunday, 1 November 2026, during an operation against
-suspected home-based drug sales. [@1,2] Officers said the suspect was allegedly
+suspected home-based drug sales. [@1,2,4] Officers said the suspect was allegedly
 commercialising drugs from his own house. [@1] He allegedly used a messaging
-application to publicise offers and prices for the drugs. [@1] The operation was
+application to publicise offers and prices for the drugs. [@1,4] The operation was
 carried out by the Military Police of Minas Gerais, identified as the PMMG. [@1]
 The police record states that the suspect was detained in flagrante during the
 operation. [@1]
 
 Officers then took him to the Civil Police station in João Monlevade together
-with the drugs seized in the action. [@1,3] According to the Military Police,
+with the drugs seized in the action. [@1,3,4] According to the Military Police,
 officers found a package containing a large quantity of marijuana hidden inside
-a pillow. [@1,2] They also seized two smaller portions of the same drug during the
-same operation. [@1,2]
+a pillow. [@1,2,4] They also seized two smaller portions of the same drug during the
+same operation. [@1,2,4]
 
 A Military Police handout photo credited as PMMG/Divulgação shows the package of
 marijuana seized in the operation. [@1] The published photo credit identifies
