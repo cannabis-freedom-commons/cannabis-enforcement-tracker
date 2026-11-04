@@ -94,6 +94,11 @@ sources:
     publisher: TDM
     date: 2026-11-04
     language: zh
+  - title: 港男赴澳販賣大麻電子煙 今已遭羈押候審
+    url: https://www.plataformamedia.com/zh-hant/2026/11/04/%E6%B8%AF%E7%94%B7%E8%B5%B4%E6%BE%B3%E8%B2%A9%E8%B3%A3%E5%A4%A7%E9%BA%BB%E9%9B%BB%E5%AD%90%E7%85%99-%E4%BB%8A%E5%B7%B2%E9%81%AD%E7%BE%88%E6%8A%BC%E5%80%99%E5%AF%A9/
+    publisher: Plataforma Media
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -109,6 +114,7 @@ open_questions:
   - The Yahoo (am730) page carries one image captioned as the arrest of the 35-year-old Hong Kong man, without a credit, which does not by itself establish that it shows this arrest distinctly from the escort photos already in the report, so no media entry is added.
   - The article gives no separate date for the first interrogation and detention order; 4 November 2026 is its publication date and is used as the incident date.
   - The submitted page image is captioned only as photo without a credit and is not established to show this seizure, so no media entry is included.
+  - The article also summarises Macau's amended tobacco-control e-cigarette possession and import rules taking effect in 2027 and 2028, a law change left out of this enforcement record.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
@@ -116,12 +122,12 @@ electrician in the city, suspecting him of smuggling THC e-cigarettes in from
 Hong Kong to sell. [@2,6,9,12] Acting on intelligence, officers stopped him in the
 central district (中區) and found six e-cigarettes filled with drug oil on him,
 which police put at about MOP8,000. [@2,12] A search of his home found four more
-e-cigarette devices that had already been used. [@2,3,6,12]
+e-cigarette devices that had already been used. [@2,3,6,12,14]
 
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
-and his urine test for drugs was positive. [@2,3,7,8,11,12] Police believe he used the vapes
+and his urine test for drugs was positive. [@2,3,7,8,11,12,14] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
-three people at MOP1,400 each. [@2,3,12,13] He was taken to the Public Prosecutions
+three people at MOP1,400 each. [@2,3,12,13,14] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
 consumption, possession and trafficking of narcotic and psychotropic substances.
 [@1]
@@ -133,6 +139,8 @@ liability. [@2] Police said they were still tracing other people involved and
 would share intelligence and enforcement cooperation with neighbouring forces
 against cross-border drug trafficking. [@2]
 
-The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8] He held a blue card, the identity document Macau issues to non-resident workers. [@3,10] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
+The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8,14] He held a blue card, the identity document Macau issues to non-resident workers. [@3,10] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5,14]
 
-After his first judicial interrogation, the criminal prosecution court found strong signs that he had committed drug-trafficking, drug-use and improper possession of equipment offences. [@13] Adopting the prosecution's recommendation, the court ordered pretrial detention, citing the seriousness of the offences, his status as a non-Macau resident and risks of flight, disturbing public order and further offending. [@13]
+After his first judicial interrogation, the criminal prosecution court found strong signs that he had committed drug-trafficking, drug-use and improper possession of equipment offences. [@13] Adopting the prosecution's recommendation, the court ordered pretrial detention, citing the seriousness of the offences, his status as a non-Macau resident and risks of flight, disturbing public order and further offending. [@13,14]
+
+The suspect is a 35-year-old Hong Kong man surnamed Fung. [@14]
