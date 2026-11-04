@@ -48,6 +48,11 @@ sources:
     publisher: Puente Libre
     date: 2026-11-04
     language: es
+  - title: Vinculan a proceso a 3 influencers por grabarse fumando cannabis en Sonora
+    url: https://abcnoticias.mx/nacional/2026/11/4/vinculan-a-proceso-a-3-influencers-por-grabarse-fumando-cannabis-en-sonora-294445.html
+    publisher: ABC Noticias
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight or count for the displayed cannabis products was published, so no kilograms can be recorded.
   - The amounts of the individual financial guarantees were not published.
@@ -59,32 +64,34 @@ open_questions:
   - The article links the Olympos brand to Los Salazar and a named individual as an investigative allegation while noting that no judicial sentence has established responsibility, so that link is not added as a fact.
   - The Puente Libre page carries a photo with no caption or credit establishing that it shows this prosecution, so no media entry is added.
   - The page also embeds a video file with no caption establishing that it shows this event, so no video entry is added.
+  - The ABC article was published on 4 November 2026 and gives no separate hearing date, consistent with the existing report's use of 3 November 2026 as the incident date.
+  - The ABC page carries a photo captioned as the detained influencers and attributed to the Sonora prosecution, but it cannot be established as distinct from the agency handout already listed, so no media entry is added.
 ---
 
 A control judge bound three Hermosillo influencers over for trial for apología
 of a crime and of a vice after they shared an August Facebook video exhibiting
 and promoting Olympos marijuana products. [@1,3,4] The accused are 20-year-old Azlán
 N, 29-year-old Julián N known as El Pelón Bajavión, and 22-year-old Eduardo
-Antonio N known as El Doble Carne. [@2,3,4] The judge ordered weekly appearances
+Antonio N known as El Doble Carne. [@2,3,4,5] The judge ordered weekly appearances
 before the court, an individual financial guarantee, a ban on leaving Sonora
 without permission, and a temporary halt to promoting the brand under
-investigation. [@2,3,4] Azlán remains in justified preventive detention for two
+investigation. [@2,3,4,5] Azlán remains in justified preventive detention for two
 other criminal cases while all three face precautionary measures in this
 prosecution. [@1]
 
 At the initial hearing prosecutors presented more than 15 items of evidence to
-support the charge. [@2] The case concerns a recording shared publicly on
+support the charge. [@2,5] The case concerns a recording shared publicly on
 Facebook on 29 August in which the three allegedly expressed approval of
 cannabis-derived substances. [@2] In the footage they allegedly showed and
 shared branded products including electronic cigarettes, concentrates, extracts
-and pre-rolled marijuana cigarettes. [@2,3] Prosecutors said the on-camera
+and pre-rolled marijuana cigarettes. [@2,3,5] Prosecutors said the on-camera
 display, promotion and handing over of the products amounted to public
 exaltation of narcotics-related conduct that could reach an indeterminate online
-audience. [@1]
+audience. [@1,5]
 
 Sonora prosecutors said they will continue investigating public promotion of
 allegedly criminal conduct online to protect development and dignity, especially
-of children and adolescents. [@1] In a separate case Azlán was bound over for
+of children and adolescents. [@1,5] In a separate case Azlán was bound over for
 aggravated equiparated rape and corruption of minors involving a 13-year-old in
 Hermosillo, with justified preventive detention. [@1] In a third distinct case
 he was bound over for a health offence in the form of drug dealing through
