@@ -51,6 +51,11 @@ sources:
     publisher: Fiscales.gob.ar
     date: 2026-11-03
     language: es
+  - title: Condenados por traficar marihuana con la modalidad de “coche puntero”
+    url: https://zonasursalta.com.ar/amp/12801/condenados-por-traficar-marihuana-con-la-modalidad-de-coche-puntero
+    publisher: zonasursalta.com.ar
+    date: 2026-11-03
+    language: es
 open_questions:
   - The sentence was disclosed on 9 October before the 3 November 2026 publication, so the report dates it 9 October 2026 by inference.
   - The trial is said to have run from July to late September without a stated year.
@@ -61,17 +66,17 @@ open_questions:
 
 Salta Federal Oral Court No. 1 convicted five members of a drug-trafficking
 organisation for moving 23 kg of marijuana discovered in September 2024 during a
-National Gendarmerie checkpoint in Cafayate, bound for Tucumán. [@1] The court
+National Gendarmerie checkpoint in Cafayate, bound for Tucumán. [@1,2] The court
 imposed 7 years on Alejo Ricardo Silva, 6 years and 6 months on Emilio Alejandro
 Tapia, and 6 years each on Luciano Cancino and Mara Antonella Di Bez, the latter
-under house arrest. [@1] It treated those four as co-authors of drug transport
+under house arrest. [@1,2] It treated those four as co-authors of drug transport
 and gave Luis Benjamín Vicente a 3-year suspended sentence as a secondary
-participant. [@1] With Enzo Javier Gutiérrez, who received 4 years under house
+participant. [@1,2] With Enzo Javier Gutiérrez, who received 4 years under house
 arrest on 30 April 2025 through a plea agreement, six people have now been
-convicted in the case. [@1]
+convicted in the case. [@1,2]
 
 The seizure occurred on 14 September 2024 at about 5:30 a.m., when gendarmes
-stopped a Renault Logan on National Route 68 about 8 km from Cafayate. [@1]
+stopped a Renault Logan on National Route 68 about 8 km from Cafayate. [@1,2]
 Silva drove that car with Tapia, Cancino and Vicente aboard, serving as the
 “coche puntero”, a scout car travelling ahead to guide the drug load behind it.
 [@1] The second car arrived minutes later carrying Gutiérrez driving with his
@@ -82,7 +87,7 @@ and the operation seized 24 marijuana packages and two handheld radios. [@1]
 
 Silva fled into scrubland during the checkpoint and stayed fugitive until 6
 August 2025, when he was detained after returning from Brazil, where prosecutors
-said he had hidden for about eleven months. [@1] Prosecutors said Silva led the
+said he had hidden for about eleven months. [@1,2] Prosecutors said Silva led the
 group and pawned his own car to fund the marijuana purchase for Tucumán, while
 Gutiérrez rented the load car and Tapia supplied his mother’s car as the scout
 car, which the court ordered confiscated. [@1] Prosecutors said Di Bez and
@@ -91,4 +96,3 @@ valued the haul as enough for about 55,000 doses in arguing harm to public
 health. [@1] The court unanimously rejected a cooperating-defendant sentence
 reduction, finding the information vague and already known and the collaboration
 ineffective under article 41 ter of the Penal Code. [@1]
-
