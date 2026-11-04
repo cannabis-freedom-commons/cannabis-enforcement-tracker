@@ -21,6 +21,9 @@ open_questions:
   - No arrests or charges from the 13 operations were reported.
   - No breakdown of the individual operations was published beyond four hauls exceeding three tonnes each.
   - Customs later put the full-year 2025 marijuana total at 21 tonnes, leaving the December addition unexplained.
+  - CNNBS presents the 21,000 kg as a single catch or example ("de vangst"), while the existing report records 21 tonnes as the full-year 2025 total across operations.
+  - CNNBS does not mention the accompanying nearly 55 tonnes of cocaine in the cited existing sentence.
+  - Two Belgian-customs photos of February containers via fireplace briquettes and gutted jukeboxes lack a year and weights, so they cannot be tied to the 2025 annual total, and no media entry is added.
 sources:
   - title: Nearly 20 tonnes of marijuana seized at Port of Antwerp in 2025
     url: https://eumorningpost.com/news/4969-nearly-20-tonnes-of-marijuana-seized-at-port-of-antwerp-in-2025
@@ -31,6 +34,11 @@ sources:
     url: https://www.portseurope.com/antwerp-port-intercepts-record-cocaine-and-marijuana-shipments-in-2025/
     publisher: Ports Europe
     date: 2026-01-21
+  - title: In Canada worden ze stapelgek van hun eigen smokkelwiet naar Europa
+    url: https://www.cnnbs.nl/in-canada-worden-ze-stapelgek-van-hun-eigen-smokkelwiet-naar-europa/
+    publisher: CNNBS.nl
+    date: 2026-11-04
+    language: nl
 ---
 
 Belgian customs intercepted 19,339 kg of cannabis at the Port of Antwerp
@@ -39,7 +47,7 @@ seized in all of 2024. [@1] Officers made the seizures across 13 operations,
 four of them involving hauls of more than three tonnes each; twelve of the
 shipments came from Canada and one from Thailand. [@1] Customs figures later
 put the full-year 2025 marijuana total at 21 tonnes, alongside nearly 55
-tonnes of cocaine. [@2]
+tonnes of cocaine. [@2,3]
 
 Finance spokesman Francis Adyns said most shipments arrive by sea through
 Antwerp, largely from Canada, but also by air cargo, courier and postal
