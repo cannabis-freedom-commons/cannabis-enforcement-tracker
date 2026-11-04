@@ -34,6 +34,10 @@ sources:
     publisher: Kapitalis
     date: 2026-11-03
     language: fr
+  - title: 'Jendouba: Foreign student arrested with 2 kg of dried marijuana'
+    url: https://www.nessma.tv/en/tunisia/actu/jendouba-foreign-student-arrested-with-2-kg-of-dried-marijuana/596902
+    publisher: Nessma
+    date: 2026-11-03
 open_questions:
   - The article gives no separate date for the ambush and arrest; 3 November 2026 is the publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in French.
@@ -43,6 +47,9 @@ open_questions:
   - The article gives no separate date for the arrest; 3 November 2026 is its publication date and is used as the incident date.
   - The Kapitalis account attributes the detention and investigation details to Mosaïque FM, the existing report's source, so it is not fully independent corroboration.
   - The page image uses a September 2025 file-photo path and is not established to show this seizure, so no media entry is included.
+  - The Nessma account estimates the seizure at slightly over 2 kg, while the existing report records two kilogrammes.
+  - Nessma cites Mosaique FM as its source, so it is not fully independent corroboration of the existing Mosaique FM-based account.
+  - The Nessma page image is captioned only with the case headline and carries no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers of the Research and Investigation Brigade of the National Guard in
@@ -50,16 +57,18 @@ Jendouba arrested a student described as being of sub-Saharan nationality. [@1,2
 The arrested student was 19 years old and was stopped when officers sprang a
 prepared ambush to intercept him before any sale. [@1] The ambush had been
 organised in advance in coordination with the Tribunal de première instance de
-Jendouba, the local court of first instance. [@1] Officers intervened at the
+Jendouba, the local court of first instance. [@1,4] Officers intervened at the
 moment when the student was allegedly about to sell the drugs in a school
-environment. [@1,3]
+environment. [@1,3,4]
 
 During the operation officers found the student in possession of two kilogrammes
-of cannabis and seized the drugs. [@1,2,3] After the arrest the case passed to an
+of cannabis and seized the drugs. [@1,2,3,4] After the arrest the case passed to an
 investigating judge attached to the Jendouba Court of First Instance for further
 inquiry. [@1] The investigating judge issued a detention warrant against the
 19-year-old student and ordered his detention while the investigation continues.
-[@1,2,3] The detention keeps the student in custody under the authority of the
+[@1,2,3,4] The detention keeps the student in custody under the authority of the
 investigating judge. [@1]
 
 The investigation is continuing in particular to identify possible accomplices involved in the case. [@3]
+
+The arrest took place in the city of Jendouba Nord. [@4] The student was born in 2007. [@4] The judge sent him to Bulla Regia civil prison for possession and trafficking of narcotic substances. [@4]
