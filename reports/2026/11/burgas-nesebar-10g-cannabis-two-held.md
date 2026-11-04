@@ -24,6 +24,21 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-04
     language: ru
+  - title: Двоих задержали с наркотиками при проверках в Несебре и Бургасе
+    url: https://burgasmedia.com/amp/news/dvama-zadarzhani-s-narkotici-pri-proverki-v-nesebar-i-burgas?lang=ru
+    publisher: BurgasMedia
+    date: 2026-11-04
+    language: ru
+  - title: Двама криминално проявени спипани с дрога в Несебър и Бургас
+    url: https://www.flagman.bg/article/393444
+    publisher: Flagman.bg
+    date: 2026-11-04
+    language: bg
+  - title: Две полицейски проверки в Бургаско завършиха с арести заради наркотици
+    url: https://www.burgas24.bg/novini/regionalni/Dve-policeiski-proverki-v-Burgasko-zavurshiha-s-aresti-zaradi-narkotici-3051032
+    publisher: Burgas24.bg
+    date: 2026-11-04
+    language: bg
 open_questions:
   - The article was published on 4 November 2026 and says the checks took place yesterday, so 3 November 2026 is used as the incident date with no separate calendar date given.
   - The 5 grams of methamphetamine and 1 gram of ecstasy are non-cannabis substances mentioned only for context and are excluded from cannabis figures.
@@ -35,19 +50,20 @@ open_questions:
 
 Police in Burgas Province detained two men with drugs in checks that took place
 in different places on the previous day, as reported by the regional Interior
-Ministry directorate in Burgas. [@1] In Nesebar's Fregata quarter at about
+Ministry directorate in Burgas. [@1,2] In Nesebar's Fregata quarter at about
 17:10, district officers checked a man from Mladovo village in Sliven region.
-[@1] That man was already known to police. [@1] About three hours later at about
+[@1,3] That man was already known to police. [@1] About three hours later at about
 20:10, officers of Burgas's Second District department stopped a 33-year-old
-Burgas resident in the Slaveykov housing complex near block 67. [@1] The Burgas
+Burgas resident in the Slaveykov housing complex near block 67. [@1,3] The Burgas
 man was also already known to police. [@1]
 
 In the Nesebar check officers found about 5 grams of methamphetamine described
-as white crystals. [@1] From the Burgas man officers seized a total of 10 grams
-of cannabis described as dry green herbal mass. [@1] From the same Burgas man
-they also seized 1 gram of ecstasy described as orange crystals. [@1]
+as white crystals. [@1,4] From the Burgas man officers seized a total of 10 grams
+of cannabis described as dry green herbal mass. [@1,3] From the same Burgas man
+they also seized 1 gram of ecstasy described as orange crystals. [@1,4]
 
 BurgasMedia summarized the roundup as methamphetamine in Nesebar's Fregata
 quarter and cannabis plus ecstasy from the 33-year-old in Burgas's Slaveykov
 complex. [@1]
 
+The man checked in Nesebar was detained for up to 24 hours and a fast-track proceeding was opened. [@3] The 33-year-old man checked in Burgas was also detained for up to 24 hours and a fast-track proceeding was opened against him. [@3] The investigations are proceeding as two separate fast-track proceedings. [@3]
