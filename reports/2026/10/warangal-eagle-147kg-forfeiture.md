@@ -38,6 +38,10 @@ sources:
     publisher: Lokmat News Hindi
     date: 2026-11-04
     language: hi
+  - title: Telangana Excise Officials Seize Ganja Near Hyderabad Pub, 3 Arrested
+    url: https://newsable.asianetnews.com/india/telangana-excise-officials-seize-ganja-near-hyderabad-pub-3-arrested-articleshow-32zmr0m
+    publisher: Asianet Newsable
+    date: 2026-11-04
 open_questions:
   - The reports give no separate date for the seizure itself; 28 October is when the agency disclosed the case.
   - The GITAM University campus drug screening covered in one source is a separate event left out here.
@@ -52,7 +56,7 @@ case registered at the Warangal EAGLE Force police station under the Narcotic Dr
 Psychotropic Substances (NDPS) Act. [@1,2]
 
 Investigators then traced the network's finances, examining bank accounts, sale deeds, tax
-receipts and registration documents of the accused and their relatives. [@1,3] They froze
+receipts and registration documents of the accused and their relatives. [@1,3,5] They froze
 Rs 1,59,910 across three bank accounts, seized a tractor and a motorcycle worth about Rs 7.8
 lakh, and attached farmland and two open plots worth about Rs 61 lakh, Rs 70,39,910 in all,
 under Section 68F of the NDPS Act. [@1,4] The competent authority in Chennai confirmed the
@@ -61,4 +65,4 @@ forfeiture on 27 October 2026. [@1]
 EAGLE Force said the action looks beyond contraband to stop trafficking proceeds being turned
 into apparently legitimate wealth, and that the wider network inquiry continues. [@1]
 
-Under Section 68F of the NDPS Act, 1985, Inspector of Police B Ravinder identified three bank accounts related to the accused and initiated action against properties associated with them and their family members. [@3]
+Under Section 68F of the NDPS Act, 1985, Inspector of Police B Ravinder identified three bank accounts related to the accused and initiated action against properties associated with them and their family members. [@3,5]
