@@ -24,6 +24,11 @@ sources:
     url: https://atlaspress.news/en/2026/11/02/khost-security-seizes-3200-narcotic-pills-hashish-speri-district/
     publisher: AtlasPress News Agency
     date: 2026-11-02
+  - title: اكتشاف أكثر من ثلاثة آلاف قرص مخدر وكيلوغرامات من الحشيش في منطقة سبري خوست
+    url: https://atlaspress.news/ar/drug-discovery-3200-pills-cannabis-sabari-khost/
+    publisher: وكالة أطلس للأنباء
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate day for the special operation, so the incident date uses the publication date.
   - The article mentions another 1.4 kilograms alongside the hashish without naming its substance in the same sentence, so it is excluded from the cannabis total.
@@ -35,17 +40,16 @@ open_questions:
 The enforcement operation took place in Speri district of Khost province, where
 the Anti-Narcotics Unit of the Khost Provincial Security Directorate was active.
 [@1] During a special operation, that unit uncovered more than 3,215 narcotic
-pills. [@1] One individual was arrested in connection with the case. [@1]
+pills. [@1,2] One individual was arrested in connection with the case. [@1,2]
 
 According to official sources, officers also discovered approximately three
-kilograms and 200 grams of hashish in Speri district. [@1] The same official
+kilograms and 200 grams of hashish in Speri district. [@1,2] The same official
 account reported another 1.4 kilograms discovered alongside that hashish. [@1]
 Security forces seized the narcotics found in the operation, including both the
-pills and the hashish. [@1]
+pills and the hashish. [@1,2]
 
 The seizure was presented against ongoing drug-trafficking and abuse challenges
 described as serious security and social issues in various parts of Afghanistan,
-including Khost province. [@1] The Taliban administration had not issued any
+including Khost province. [@1,2] The Taliban administration had not issued any
 official response regarding the matter. [@1] The hashish forms the separately
 stated cannabis component of this mixed pills-and-hashish seizure. [@1]
-
