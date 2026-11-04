@@ -26,6 +26,16 @@ sources:
     publisher: Casteddu Online
     date: 2026-11-04
     language: it
+  - title: Drei Handys und Drogen im Uta-Gefängnis beschlagnahmt
+    url: https://www.unionesarda.it/de/sardinien/drei-handys-und-drogen-im-uta-gefangnis-beschlagnahmt-f6mmbbrc
+    publisher: L'Unione Sarda German
+    date: 2026-11-04
+    language: de
+  - title: 'Carcere di Uta, telefoni e droga sequestrati in due celle: la denuncia della polizia penitenziaria'
+    url: https://www.sardiniapost.it/cronaca/carcere-di-uta-telefoni-e-droga-sequestrati-in-due-celle-la-denuncia-della-polizia-penitenziaria/
+    publisher: Sardiniapost
+    date: 2026-11-04
+    language: it
 open_questions:
   - No weight was published for the hashish, described only as small quantities, so no kilograms can be recorded.
   - No detainee was named and no arrest, charge or disciplinary outcome was reported.
@@ -34,21 +44,20 @@ open_questions:
 ---
 
 On the morning of 3 November 2026, penitentiary police carried out a routine
-search of two cells at the Cagliari-Uta prison in Uta, Sardinia. [@1] During
-that search, officers found and seized three mobile phones. [@1] Officers also
-seized two power adapters and three USB cables used for charging. [@2] Officers
+search of two cells at the Cagliari-Uta prison in Uta, Sardinia. [@1,3] During
+that search, officers found and seized three mobile phones. [@1,4] Officers also
+seized two power adapters and three USB cables used for charging. [@2,4] Officers
 also seized small quantities of hashish, described as a small amount of
 cannabis. [@2]
 
 The seizure was announced by Donato Capece, general secretary of Sappe, the
 autonomous penitentiary-police union, and Luca Fais, Sappe's national secretary
-for Sardinia. [@2] Capece and Fais praised the Cagliari institute's officers for
+for Sardinia. [@2,3] Capece and Fais praised the Cagliari institute's officers for
 the professionalism, investigative skill and high sense of duty shown in the
 operation. [@1]
 
 They said the discovery of phones, chargers and drugs confirms the importance of
 maintaining high vigilance inside prisons to block the introduction and
-circulation of phones and drugs. [@2] The union also pointed to the operational
+circulation of phones and drugs. [@2,4] The union also pointed to the operational
 complexity and daily challenges of the Cagliari prison and to the prison
 police's central role in protecting security and managing the facility. [@1]
-
