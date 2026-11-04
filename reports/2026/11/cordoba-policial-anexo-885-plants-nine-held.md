@@ -41,6 +41,11 @@ sources:
     publisher: El Diario de Carlos Paz
     date: 2026-11-02
     language: es
+  - title: 'Córdoba: nueve detenidos, armas, cocaína y casi 900 plantas de marihuana incautadas'
+    url: https://www.cba24n.com.ar/cordoba/cordoba--nueve-detenidos--armas--cocaina-y-casi-900-plantas-de-marihuana-incautadas_a6ae87d6e43770ad9920cbb50
+    publisher: Cba24n
+    date: 2026-11-02
+    language: es
 open_questions:
   - No separate date for the raids was published; 2 November 2026 is the publication date of both sources.
   - No number or weight was published for the cocaine and marijuana doses, so no cannabis weight in kilograms could be recorded.
@@ -50,18 +55,19 @@ open_questions:
   - The MPF Córdoba page carries five uncaptioned photographs that could not be confidently matched to the seizure, so only the captioned ElDoce photo of the seized plants is listed as media.
   - 'Left out, as its quotation was not found in ElDoce: Officers of the Fuerza Policial Antinarcotráfico (FPA) carried out seven raids at seven properties in Policial Anexo, a barrio neighbourhood of Córdoba, in a case described as narcomenudeo, retail drug dealing.'
   - 'Left out, as its quotation was not found in ElDoce: They also seized doses of cocaine and marijuana alongside the plants.'
+  - The Cba24n body says more than 900 cannabis plants and its headline says almost 900, while the existing report records the precise 885 plants given in the official and other accounts.
 ---
 
 Nine adults, six men and three women, were detained in the city of Córdoba after
-an investigation lasting about four months. [@1,2,3]
+an investigation lasting about four months. [@1,2,3,4]
 
 Investigators seized 885 cannabis sativa plants. [@1,2,3] Officers also seized 13
 shotgun cartridges, $697,500 in cash and other items of interest to the case.
-[@1,2]
+[@1,2,4]
 
 The dismantled drug sale points operated independently, with no links between
-those responsible for them. [@1,2,3] Some of the raided homes were near the
-Polideportivo Social Policial Anexo, a community sports facility. [@1,2,3] The
+those responsible for them. [@1,2,3,4] Some of the raided homes were near the
+Polideportivo Social Policial Anexo, a community sports facility. [@1,2,3,4] The
 Fiscalía de Lucha contra el Narcotráfico del Primer Turno supervised the
 procedures and ordered the detainees and seized items sent to judicial
 headquarters under National Narcotics Law No. 23.737. [@1,2]
