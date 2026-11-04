@@ -24,6 +24,9 @@ open_questions:
   - Neither source gives the weight of the 2,852 packages or the nationalities of the three men.
   - The sources do not name the three convicted men.
   - No information on where they will serve the sentence was published.
+  - The early Infobae seizure report does not identify the drug type or total weight, stating forensic examinations were still pending, while the later judicial sources identify the 2,852 packages as cannabis.
+  - The new source places the interception at dawn on Sunday 4 October, while the existing report dates the start of the case to 3 October.
+  - The page's lead image is labelled as an illustrative image (Imagen Ilustrativa Infobae), so no event photo is listed as media.
 sources:
   - title: Condenan a tres ciudadanos extranjeros a 11 años de prisión por tráfico internacional de drogas en Punta Burica
     url: https://www.organojudicial.gob.pa/noticias/condenan-a-tres-ciudadanos-extranjeros-a-11-anos-de-prision-por-trafico-internacional-de-drogas-en-punta-burica
@@ -36,6 +39,11 @@ sources:
     publisher: Infobae
     date: 2026-10-06
     language: es
+  - title: Panamá incauta 2,852 paquetes de droga en una embarcación cerca de Costa Rica y captura a dos colombianos
+    url: https://www.infobae.com/panama/2026/10/05/panama-incauta-2852-paquetes-de-droga-en-una-embarcacion-cerca-de-costa-rica-y-captura-a-dos-colombianos/
+    publisher: Infobae
+    date: 2026-10-05
+    language: es
 ---
 
 A judge in Chiriquí approved a plea agreement and sentenced three foreign nationals aged 27, 29 and
@@ -43,7 +51,7 @@ A judge in Chiriquí approved a plea agreement and sentenced three foreign natio
 Serrano also barred them from public office for 12 months after the prison term. [@1,2]
 
 The case began on 3 October, when agents of the National Aeronaval Service intercepted a boat south
-of Punta Burica, in the Barú district of Chiriquí. [@1,2] Officers found 92 bundles and three loose
+of Punta Burica, in the Barú district of Chiriquí. [@1,2,3] Officers found 92 bundles and three loose
 packages containing 2,852 packages of cannabis. [@1] During the interception the boat collided with
 an institutional vessel and began to take on water; the agents rescued the three occupants and
 preserved the cargo. [@2]
@@ -55,3 +63,5 @@ public defenders Julio Cruz, Lilibeth Castillo and Carlos Rodríguez represented
 Infobae reported that the interception took place on one of the Pacific maritime routes used to move
 drug shipments toward other parts of Central America. [@2] Neither source gave the weight of the
 cannabis or the nationalities of the three men. [@1,2]
+
+The three detainees were two Colombian citizens and one Costa Rican. [@3]
