@@ -34,6 +34,7 @@ status: verified
 open_questions:
   - The sources do not identify who owned the shipment or where it was bound.
   - The gendarmerie page is dated September 3, while Le Soleil dates the communiqué to September 2.
+  - The APA page carries a photo captioned with the seizure title, but the caption and article text do not describe what it shows, so no media entry is included.
 sources:
   - title: "Lutte contre le trafic de stupéfiants: quatre cent vingt-sept (427) kilogrammes de chanvre indien saisis à Mbodiène par la compagnie de Gendarmerie de Mbour."
     url: https://www.gendarmerie.sn/post.php?page=7&slug=lutte-contre-le-trafic-de-stup-fiants-quatre-cent-vingt-sept-427-kilogrammes-de-chanvre-indien-saisis-mbodi-ne-par-la-compagnie-de-gendarmerie-de-mbour
@@ -52,14 +53,19 @@ sources:
     publisher: Malijet
     date: 2026-09-03
     language: fr
+  - title: 'Sénégal : 427 kg de chanvre indien saisis à Mbodiène'
+    url: https://fr.apanews.net/society/senegal-427-kg-de-chanvre-indien-saisis-a-mbodiene/
+    publisher: APAnews - Agence de Presse Africaine
+    date: 2026-09-02
+    language: fr
 ---
 
-A cart driver was arrested and a second man escaped after gendarmes seized 427 kg of cannabis on the coast at Mbodiène on August 29, 2026. [@1,2] The operation followed intelligence about a planned landing, and units from Joal, Nianing and Mbour joined the effort to intercept the shipment. [@1,2]
+A cart driver was arrested and a second man escaped after gendarmes seized 427 kg of cannabis on the coast at Mbodiène on August 29, 2026. [@1,2,4] The operation followed intelligence about a planned landing, and units from Joal, Nianing and Mbour joined the effort to intercept the shipment. [@1,2,4]
 
 ## The interception
 
-The gendarmerie said a pirogue reached shore at about 10 p.m., then a cart arrived to move the cargo. [@1,3] Officers spotted it about 500 metres from the crossroads between Mbodiène and Ndianda, carrying fifteen sacks and two people armed with machetes. [@1,2,3] One man fled after officers called on them to stop; the cart driver resisted before gendarmes subdued and arrested him. [@1,2,3] The gendarmerie reported that the cannabis weighed 427 kg. [@1,2,3]
+The gendarmerie said a pirogue reached shore at about 10 p.m., then a cart arrived to move the cargo. [@1,3,4] Officers spotted it about 500 metres from the crossroads between Mbodiène and Ndianda, carrying fifteen sacks and two people armed with machetes. [@1,2,3,4] One man fled after officers called on them to stop; the cart driver resisted before gendarmes subdued and arrested him. [@1,2,3,4] The gendarmerie reported that the cannabis weighed 427 kg. [@1,2,3,4]
 
 ## Investigation
 
-The gendarmerie said the investigation was continuing. [@1,2,3] Neither report identifies the shipment's owner or destination, and no later charge or court outcome is given. [@1,2]
+The gendarmerie said the investigation was continuing. [@1,2,3,4] Neither report identifies the shipment's owner or destination, and no later charge or court outcome is given. [@1,2]
