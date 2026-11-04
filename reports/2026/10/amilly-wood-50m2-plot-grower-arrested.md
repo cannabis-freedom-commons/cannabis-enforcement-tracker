@@ -36,30 +36,36 @@ sources:
     publisher: France 3 Centre-Val de Loire
     date: 2026-11-02
     language: fr
+  - title: Il suit un individu dans des bois du Loiret et découvre une plantation clandestine de cannabis de 50 m²
+    url: https://www.ouest-france.fr/societe/cannabis/il-suit-un-individu-dans-des-bois-du-loiret-et-decouvre-une-plantation-clandestine-de-cannabis-de-50-m2-ae16c8c2-d852-11f1-9911-9179baff22e2
+    publisher: Ouest-France
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No count of the cannabis plants was published, only the planted area and plant height.
   - No cannabis weight, street value, or account of what happened to the plants was reported.
   - Apart from the finding of criminal irresponsibility, no identity, charge, or further court outcome for the grower was reported.
   - The body text says plants could reach 2.50 metres while the photo caption says more than 2.50 metres; the report keeps both wordings as published.
+  - The Ouest-France page gives no separate date for the police operation itself, only the 2 November 2026 social-media account and its own 4 November 2026 publication date.
+  - The page's only picture is captioned as an archive illustration photo, so it does not show this plantation and no media entry is included.
 ---
 
 On 22 October 2026, Loiret police launched an operation at Amilly. [@1] Police
 say they were alerted by a man who had just discovered a cannabis plantation in
-a wood. [@1] The man said he had been intrigued by an individual's regular
-comings and goings in the area, which led him to go and see for himself. [@1]
+a wood. [@1,3] The man said he had been intrigued by an individual's regular
+comings and goings in the area, which led him to go and see for himself. [@1,3]
 Once there, he found several cannabis plants and decided to call the police.
 [@1] Officers from Montargis then went to the scene guided by his directions.
 [@1]
 
 There they found a plantation of about 50 square metres with plants reaching up
-to 2.5 metres in height. [@1] A second account likewise put the plot at 50
+to 2.5 metres in height. [@1,3] A second account likewise put the plot at 50
 square metres in a wood near Amilly in the Loiret. [@2] A police photo caption
 called it a clandestine plantation in the Amilly woods with plants reaching more
 than 2.5 metres. [@1] Officers searched the surrounding area for anyone at the
-site but found no one there. [@1] One account contrasted the open-air grow with
+site but found no one there. [@1,3] One account contrasted the open-air grow with
 cultivation usually carried out under sodium lamps. [@2]
 
 The Loiret police disclosed the operation in a social-media post. [@1] After
 further investigation, police arrested the grower, who was declared criminally
-irresponsible. [@1]
-
+irresponsible. [@1,3]
