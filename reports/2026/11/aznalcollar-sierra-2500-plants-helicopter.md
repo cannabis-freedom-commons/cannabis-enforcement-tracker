@@ -191,6 +191,11 @@ sources:
     publisher: Atlas
     date: 2026-11-04
     language: es
+  - title: Cuatro detenidos con 2.500 plantas de marihuana en una ladera en Sevilla que requirió un helicóptero para su extracción
+    url: https://www.notimerica.com/politica/noticia-cuatro-detenidos-2500-plantas-marihuana-ladera-sevilla-requirio-helicoptero-extraccion-20261104100524.html
+    publisher: Notimérica
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -213,30 +218,31 @@ open_questions:
   - This account confirms prison without bail but does not name the Sanlúcar la Mayor courts, so that court detail rests on the existing sources.
   - The page's Guardia Civil-credited photo and embedded video appear to repeat the agency handout already archived, so no distinct media entry is added.
   - The page's Guardia Civil-credited plantation photo appears to repeat the agency handout already archived, so no distinct media entry is added.
+  - The Notimérica image of an agent beside the hillside crop appears to repeat the Guardia Civil handout already archived via Europa Press, so no distinct media entry is added.
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6,9,10,15,17,18,21,22,23,26] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,24,25,26,27] The four suspects tried to
-escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11,14,15,16,17,20,22,25]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16,17,20,21,22,24,25,26]
+[@1,3,4,5,6,9,10,15,17,18,21,22,23,26] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,24,25,26,27,28] The four suspects tried to
+escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11,14,15,16,17,20,22,25,28]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16,17,20,21,22,24,25,26,28]
 The detainees were brought before those courts as alleged perpetrators of
 public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12,13,15,17,21,22,23,24] The
-investigation remains open. [@1,2,5,8,10,12,13,15,17,21,22,24,26]
+investigation remains open. [@1,2,5,8,10,12,13,15,17,21,22,24,26,28]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27] Some of the plants stood
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28] Some of the plants stood
 more than two metres tall. [@1,2,3,6,7,8,10,13,15,16,19,24] Because vehicles could not be used, agents cut
 the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16,17,21,24] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
 [@1,2,3,6,7,9,10,11,13,14,15,16,17,18,21,22,26] Each growing area had its own irrigation system despite the steep slope and
-lack of conventional connections. [@1,8,24] Those running the site had installed
+lack of conventional connections. [@1,8,24,28] Those running the site had installed
 motors, pipes and large water stores including pools across the sierra. [@1,21,24] The
 site also had electric generators, tools and drying rooms. [@1,21,24] Officers found
 the 50 kilograms of dried buds in one drying dependency after processing. [@1,21]
 
 The crops were spread in several production areas over different slopes and
-linked by a network of paths built by those running the site. [@1,4,12,21,22,24] The plots lay
+linked by a network of paths built by those running the site. [@1,4,12,21,22,24,28] The plots lay
 far from towns on steep slopes where vehicles could not enter. [@1,5,12] The
 investigation began after aerial observation spotted possible hidden
 plantations. [@1,2,4,12] Officers reached the site on foot over difficult paths while
