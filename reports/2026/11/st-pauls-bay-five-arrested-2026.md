@@ -1,0 +1,52 @@
+---
+code: QGE0MN
+added_at: "2026-11-04T11:07:24.959571Z"
+date: 2026-11-03
+country: mt
+place: St Paul's Bay
+coordinates: [35.9483, 14.4031]
+precision: locality
+type: arrest
+also: [raid, seizure]
+title: Five arrested in St Paul's Bay raid with cannabis among 150 sachets
+summary: >-
+  Five people including a 16-year-old girl were arrested in St Paul's Bay after police found about 150 sachets of suspected heroin, cocaine and cannabis during an apartment raid. Officers also seized about €5,000 and phones, an inquiry was opened, and some suspects were due in court as investigations continued.
+figures:
+  arrested: 5
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 1e83dbaeefc7a41ed5f32450e00eb7ba
+tags: [st-pauls-bay, cannabis, trafficking]
+sources:
+  - title: Five Arrested In St Paul's Bay Drug Raid As Police Seize 150 Drug Sachets
+    url: https://lovinmalta.com/news/local/five-arrested-in-st-pauls-bay-drug-raid-as-police-seize-150-drug-sachets/
+    publisher: Lovin Malta
+    date: 2026-11-04
+open_questions:
+  - The about 150 sachets held suspected heroin, cocaine and cannabis together, with no separate cannabis count or weight published, so no cannabis quantity is recorded.
+  - Monday evening corresponds to 2 November, Tuesday to 3 November and the expected arraignment today to 4 November from the 4 November publication date; no separate calendar dates were given.
+  - About €5,000 in cash and mobile phones were seized, but no cannabis-only valuation was published.
+  - No names were published and no charges or court outcome were yet reported.
+  - Only one accessible source for this event was found after searching in English; no police statement or second outlet account could be opened.
+  - The page's featured image is captioned only as Article Featured Image and is not shown to depict this raid or seizure, so no media entry is included.
+---
+
+Five people, including a 16-year-old girl, were arrested in St Paul’s Bay in
+connection with suspected drug trafficking. [@1] Police carried out the initial
+operation on Monday evening, searching an apartment after receiving information
+about alleged drug-related activity. [@1] Four people were arrested during the
+raid, a 25-year-old man, two 20-year-old men and the 16-year-old girl. [@1] One
+suspect tried to flee but was immediately apprehended by officers. [@1] A
+27-year-old woman was arrested on Tuesday in connection with the same
+investigation, bringing the total detained to five. [@1] The Monday raid and the
+Tuesday arrest were treated as part of the same trafficking investigation. [@1]
+
+During the apartment search police found about 150 sachets containing substances
+suspected to be heroin, cocaine and cannabis. [@1] Officers also seized about
+€5,000 in cash and several mobile phones. [@1]
+
+Magistrate Renata Farrugia launched an inquiry and appointed experts to
+establish the circumstances of the case. [@1] Some of those arrested were
+expected to be arraigned at about midday on Wednesday before Magistrate Astrid
+May Grima. [@1] Police investigations were still ongoing. [@1]
+
