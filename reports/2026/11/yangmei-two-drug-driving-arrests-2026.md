@@ -48,6 +48,11 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-04
     language: zh
+  - title: 交通違規露餡 楊梅警接連查獲2毒駕
+    url: https://www.taiwanhot.net/news/1152931/%E4%BA%A4%E9%80%9A%E9%81%95%E8%A6%8F%E9%9C%B2%E9%A4%A1+%E6%A5%8A%E6%A2%85%E8%AD%A6%E6%8E%A5%E9%80%A3%E6%9F%A5%E7%8D%B22%E6%AF%92%E9%A7%95
+    publisher: 台灣好新聞
+    date: 2026-11-04
+    language: zh
 open_questions:
   - No cannabis weight or other drug quantity was published because the cannabis allegation rests on a roadside saliva screening, so no kilograms can be recorded.
   - The heroin reportedly found on the 62-year-old driver was not quantified and is excluded from cannabis figures.
@@ -60,23 +65,23 @@ open_questions:
 Yangmei Precinct officers on patrol in Yangmei District on 3 November stopped
 two drivers for traffic violations and arrested both after drug saliva
 screenings came back positive, sending both cases to the Taoyuan prosecutors on
-drug and public-danger allegations. [@1] Around 8am in front of No. 10 Huandong
+drug and public-danger allegations. [@1,4] Around 8am in front of No. 10 Huandong
 Road, officers stopped 62-year-old Ou riding an ordinary heavy motorcycle for
-failing to use his indicator and ignoring lane markings. [@1,3] Ou answered
+failing to use his indicator and ignoring lane markings. [@1,3,4] Ou answered
 repetitively, agreed to a saliva test that was positive for heroin and
-methamphetamine, was found carrying heroin, and was arrested on the spot. [@1,3]
+methamphetamine, was found carrying heroin, and was arrested on the spot. [@1,3,4]
 Around 5pm in Lane 161 Zhongshan Road, officers stopped 63-year-old Peng driving
 a car for failing to signal, found he was unlicensed and nervous, and arrested
 him after his consented saliva test was positive for cannabis and
-methamphetamine. [@1,3]
+methamphetamine. [@1,3,4]
 
 Police handled both cases as suspected violations of the Drug Hazard Prevention
 Act and public-danger drug-driving offences for investigation by the Taoyuan
-District Prosecutors Office. [@2,3] The cannabis component in this mixed two-case
+District Prosecutors Office. [@2,3,4] The cannabis component in this mixed two-case
 operation is Peng’s cannabis-positive screening alongside methamphetamine, while
 the other driver’s screening was for heroin and methamphetamine. [@2]
 
 Yangmei Branch said 9 drug-driving cases had been logged since tougher penalties
-took effect on 31 October, with 160 recorded this year. [@1] Branch chief Wu
+took effect on 31 October, with 160 recorded this year. [@1,4] Branch chief Wu
 Chuan-ming said police would keep strictly enforcing against drug-driving to
 protect other road users. [@2]
