@@ -162,6 +162,11 @@ sources:
     publisher: CTWANT
     date: 2026-11-03
     language: zh
+  - title: Toyz刘伟健在台贩毒假释出狱 今遭驱逐出境 搭机返香港画面曝光
+    url: https://global.hk01.com/%E5%8F%B0%E6%B9%BE%E6%96%B0%E9%97%BB/60406653/toyz%E5%88%98%E4%BC%9F%E5%81%A5%E5%9C%A8%E5%8F%B0%E8%B4%A9%E6%AF%92%E5%81%87%E9%87%8A%E5%87%BA%E7%8B%B1-%E4%BB%8A%E9%81%AD%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83-%E6%90%AD%E6%9C%BA%E8%BF%94%E9%A6%99%E6%B8%AF%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89
+    publisher: 香港01
+    date: 2026-11-03
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -200,18 +205,18 @@ and deported from Taiwan on 3 November 2026 after serving part of a
 cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6]
 
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
-Hong Kong. [@2,4,8,14] Immigration said any future application by Liu to reside in
+Hong Kong. [@2,4,8,14,25] Immigration said any future application by Liu to reside in
 Taiwan through a Taiwan-registered spouse would face strict review, and it said
-visitors must obey Taiwan's laws. [@1,8]
+visitors must obey Taiwan's laws. [@1,8,25]
