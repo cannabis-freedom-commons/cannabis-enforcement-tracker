@@ -1,0 +1,56 @@
+---
+code: NRS627
+added_at: "2026-11-04T08:15:10.170618Z"
+date: 2026-11-04
+country: pl
+place: Warsaw
+coordinates: [52.2297, 21.0122]
+precision: locality
+type: arrest
+also: [prosecution, raid, seizure]
+title: Two charged after 93 g marijuana seizure in Warsaw flat
+summary: >-
+  Warsaw detectives searching a flat for drugs detained the 25-year-old man and 18-year-old woman living there and a 21-year-old buyer who arrived during the search. Officers seized almost 93 grams of marijuana alongside mephedrone; the two occupants were charged with possessing a significant quantity of drugs and supplying them and were remanded in custody.
+figures:
+  arrested: 3
+  charged: 2
+  kg_seized: 0.093
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: e195d2b010ea12a32d02cd71daa57c83
+tags: [warsaw, marijuana, praga-poludnie]
+sources:
+  - title: 'Wpadł do dilera po marihuanę, drzwi otworzył policjant: „Przyszedłem do Szybkiego po szybkiego”'
+    url: https://www.kryminalki.pl/artykul/36633,wpadl-do-dilera-po-marihuane-drzwi-otworzyl-policjant-przyszedlem-do-szybkiego-po-szybkiego
+    publisher: kryminalki.pl
+    date: 2026-11-04
+    language: pl
+open_questions:
+  - The article gives no separate date for the search and arrests; 4 November 2026 is the publication date used as the incident date.
+  - The flat's exact address or district in Warsaw was not reported; only the Warszawa-Praga Południe prosecutor's jurisdiction is named.
+  - The 21-year-old visitor was detained and then questioned as a witness, and no further action against him was reported.
+  - The length of the temporary arrest ordered for the two suspects was not reported, and it is pretrial detention rather than a sentence.
+  - More than 120 grams of mephedrone were reported alongside the marijuana and are mentioned only to explain the mixed seizure, with no mephedrone weight counted as cannabis.
+  - Only one accessible source for this event was found after searching in Polish.
+  - The page carries two photographs, one credited to the Warsaw Metropolitan Police Headquarters, but neither caption establishes that it shows this seizure, so no media entry is included.
+---
+
+Warsaw criminal detectives went to a flat after receiving information that the
+couple living there might possess and sell drugs. [@1] The 25-year-old man and
+18-year-old woman who occupied the flat were taken into custody. [@1] While the
+search was still under way, another man knocked at the door with a banknote in
+his hand and was met by a detective he did not recognise. [@1] The 21-year-old
+was holding 50 zloty when he said he had come to see “Szybki” for drugs. [@1] He
+admitted that he wanted to buy marijuana and had previously obtained it at the
+same address, and he was detained and later questioned as a witness. [@1]
+
+During the search, officers found jars containing marijuana and a bag containing
+mephedrone. [@1] In total, officers secured almost 93 grams of marijuana and
+more than 120 grams of mephedrone. [@1] Police described the haul as more than
+200 grams of drugs in total. [@1]
+
+The 25-year-old and the 18-year-old were charged at the Warszawa-Praga Południe
+district prosecutor’s office with possessing a significant quantity of drugs and
+supplying them. [@1] At the prosecutor’s request, a court temporarily arrested
+both suspects. [@1]
+
