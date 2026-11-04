@@ -40,6 +40,11 @@ sources:
     publisher: La Provincia Di Varese
     date: 2026-11-02
     language: it
+  - title: 'Fontaneto, spaccia hashish a due minorenni mentre è ai domiciliari: arrestato 47enne'
+    url: https://corrieredinovara.it/cronaca/fontaneto-spaccia-hashish-a-due-minorenni-mentre-e-ai-domiciliari-arrestato-47enne/
+    publisher: Corriere di Novara
+    date: 2026-11-02
+    language: it
 open_questions:
   - The 0.074 kg total is the sum of about 2 grams found on the minors and 72 grams found at home; no single total weight is published.
   - No amount is given for the seized cash and no value estimate is published.
@@ -52,19 +57,21 @@ open_questions:
 ---
 
 Borgomanero Carabinieri arrested a 47-year-old Italian man who was already under
-house arrest on accusations of drug possession and dealing. [@1] On the
+house arrest on accusations of drug possession and dealing. [@1,5] On the
 afternoon of 21 October, the man left his flat in Fontaneto d'Agogna and sold
-hashish in his condominium courtyard to two boys aged only 16 and 17. [@1,3,4] The
+hashish in his condominium courtyard to two boys aged only 16 and 17. [@1,3,4,5] The
 arrest was validated and the investigating judge ordered pretrial custody in
 prison. [@1,3,4] The judicial authority revoked the house arrest and sent the man to
 Novara prison. [@2]
 
 Officers stopped the two minors immediately after the handover and found them
-with about 2 grams of the drug. [@1,3,4] A search of the 47-year-old's home seized a
+with about 2 grams of the drug. [@1,3,4,5] A search of the 47-year-old's home seized a
 further 72 grams of hashish, partly already divided into doses ready for sale,
-plus a precision scale, a drug-soaked knife, packaging material and cash. [@1,3,4]
+plus a precision scale, a drug-soaked knife, packaging material and cash. [@1,3,4,5]
 The intervention began as part of a territorial prevention and suppression
 patrol. [@1]
 
 The operation is part of wider Carabinieri and police checks across the province
 against dealing to minors. [@1]
+
+On 22 October the arrest was validated and the man was ordered to be held in prison. [@5]
