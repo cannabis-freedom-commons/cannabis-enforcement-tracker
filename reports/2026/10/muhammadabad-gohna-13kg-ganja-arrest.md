@@ -44,6 +44,11 @@ sources:
     publisher: Do Took Media
     date: 2026-10-30
     language: hi
+  - title: 'Mau News: 1.40 लाख कीमती अवैध गांजा के साथ तश्कर गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/mau/story-police-arrest-cannabis-smuggler-seize-13-37-kg-of-ganja-in-suv-201793384197266.html
+    publisher: Live Hindustan
+    date: 2026-10-30
+    language: hi
 open_questions:
   - No court date, plea or outcome was reported; the accounts end with Tiwari sent to court after a charge sheet was filed.
   - The reports describe a night patrol and checking on 30 October 2026 but give no time of day for the arrest.
@@ -52,6 +57,8 @@ open_questions:
   - All three accounts rest on police statements; no independent account of the arrest was found.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Officers stopped and searched his car near the Ramghat Bandha turn.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said Tiwari was involved in drug trafficking.'
+  - The page lists one image whose caption repeats the headline and whose file appears to be a generic frame/logo, so it is not established to show this seizure and no media entry is included.
+  - The new account calls the seized vehicle an SUV while the existing report identifies it as an Alto K-10 car with registration UP 50 AP 3330.
 ---
 
 Police at Muhammadabad station in Mau district, Uttar Pradesh, arrested
@@ -59,10 +66,10 @@ Karthikeya Tiwari during a night patrol and vehicle check on 30 October 2026.
 [@1] Tiwari, 20, is the son of Prabhakar Tiwari and lives in Bhaduli, in the
 Sidhari police station area of Azamgarh district. [@3] Police found 13 kg 370 g
 of ganja (cannabis), a mobile phone and ₹400 in the car, Dainik Bhaskar
-reported. [@2] The phone was an Oppo touchscreen, and police seized the Alto
+reported. [@2,4] The phone was an Oppo touchscreen, and police seized the Alto
 K-10 used to carry the drug, registered UP 50 AP 3330. [@3]
 
-Police put the ganja's estimated value at about ₹1.40 lakh. [@3] A case, crime
+Police put the ganja's estimated value at about ₹1.40 lakh. [@3,4] A case, crime
 no. 370/2026, was registered at Muhammadabad Gohna police station under section
 8/20 of the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@3] Police
 filed a charge sheet and sent Tiwari to court. [@3] Police said the operation
@@ -71,3 +78,4 @@ general of police for the Varanasi zone, supervised by the Azamgarh range deputy
 inspector general and directed by Mau superintendent of police Sarvesh Kumar
 Mishra. [@3]
 
+Police stopped an SUV near the Ramghat Bandha turn during checking. [@4] Deputy superintendent Jitendra Singh led the checking drive directed by superintendent Sarvesh Kumar Mishra. [@4]
