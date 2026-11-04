@@ -30,6 +30,10 @@ sources:
     url: https://tripurachronicle.in/local-news/sepahijala-police-destroys-19-lakh-cannabis-plants-across-650-acres/
     publisher: Tripura Chronicle
     date: 2026-01-03
+  - title: 'Tripura: Over 19 lakh ganja plants worth Rs 100 crore destroyed in Sepahijala'
+    url: https://nenow.in/north-east-news/tripura/tripura-over-19-lakh-ganja-plants-worth-rs-100-crore-destroyed-in-sepahijala.html
+    publisher: NorthEast Now
+    date: 2026-01-05
 media:
   - kind: photo
     url: https://www.tripurastarnews.com/destroyed-eliminating-nearly-19-lakh-ganja-plants-massive-anti-drug-drive-by-sepahijala-district-police/
@@ -43,6 +47,11 @@ media:
     media_url: https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202601/695b25bc62315-19-lakh-ganja-plants-worth-rs-100-crore-destroyed-in-tripura-054506706-16x9.png
     publisher: India Today North East
     caption: Illustration with India Today North East reporting on the Sepahijala eradication.
+  - kind: photo
+    url: https://nenow.in/north-east-news/tripura/tripura-over-19-lakh-ganja-plants-worth-rs-100-crore-destroyed-in-sepahijala.html
+    media_url: https://i0.wp.com/nenow.in/wp-content/uploads/2026/01/Untitled-design-2-4.jpg?fit=800%2C480&ssl=1
+    publisher: NorthEast Now
+    caption: Security personnel stand among the cleared cannabis plots during the Sepahijala operation.
 open_questions:
   - India Today described the plants as premature and Tripura Star News as matured; both give the same 1.9 million count.
   - The ₹100 crore valuation is a police estimate; the sources do not explain how it was calculated.
@@ -52,7 +61,7 @@ open_questions:
 
 On Saturday 3 January 2026 a joint force of Tripura Police, the Border Security Force
 (BSF) and Tripura State Rifles (TSR) destroyed about 1.9 million cannabis plants spread
-across roughly 650 acres of forest in Sepahijala district. [@1,2]
+across roughly 650 acres of forest in Sepahijala district. [@1,2,3]
 
 Acting on intelligence, the teams worked in North Kalamchoura, South Kalamchoura,
 Anandapur and Ghatigarh, areas named by police as plantation sites in dense forest. [@1]
@@ -63,5 +72,5 @@ areas, led by Sutradhar with Sonamura sub-divisional police officers. [@2]
 
 India Today reported nearly 600 personnel on the drive and quoted Sonamura station
 officer-in-charge Tapan Das saying no arrests had been made and that processed ganja from
-such plots is often smuggled to Bihar and Uttar Pradesh. [@1] Police described the action
+such plots is often smuggled to Bihar and Uttar Pradesh. [@1,3] Police described the action
 as the largest single-day cannabis eradication in Tripura to date. [@1,2]
