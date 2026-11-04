@@ -30,6 +30,11 @@ sources:
     publisher: El Periódico de España
     date: 2026-11-03
     language: es
+  - title: Desmantelan un punto de venta de droga oculto tras una 'soci' de cannabis en Chamberí
+    url: https://www.epe.es/es/videos/madrid/desmantelan-punto-venta-droga-oculto-asociacion-chamberi/136026703.shtml
+    publisher: El Periódico de España
+    date: 2026-11-03
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 3 November 2026 is its publication date and is used as the incident date
   - No separate weights for marijuana and hashish within the 2.7 kilos were published
@@ -40,14 +45,14 @@ open_questions:
 
 Madrid municipal police dismantled an alleged drug sales point that operated
 behind the appearance of a cannabis association, known locally as a 'soci', in
-the Chamberí district. [@1] One person was arrested as the alleged perpetrator
+the Chamberí district. [@1,2] One person was arrested as the alleged perpetrator
 of an offence against public health, while two other people are under
-investigation for possible links to the case. [@1] Officers entered and searched
+investigation for possible links to the case. [@1,2] Officers entered and searched
 the premises after gathering evidence and obtaining the required judicial
 authorisation. [@1]
 
 During the search they found different quantities of drugs and tools allegedly
-used to prepare, store and distribute them. [@1] Police seized 2.7 kilos of
+used to prepare, store and distribute them. [@1,2] Police seized 2.7 kilos of
 marijuana and hashish, 174 cigarettes already prepared for consumption and 505
 euros in cash. [@1] They also seized more than 1,300 items linked to drug use,
 possession and transport, along with two precision scales. [@1]
@@ -57,4 +62,3 @@ cannabis association and had allegedly become a drug distribution point using
 its associative appearance as cover. [@1] Police consider the alleged Chamberí
 sales point deactivated, saying investigators believe the seized drugs were
 intended for distribution and consumption. [@1]
-
