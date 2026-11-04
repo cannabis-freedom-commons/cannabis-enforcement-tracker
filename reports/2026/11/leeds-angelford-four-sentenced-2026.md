@@ -51,6 +51,10 @@ sources:
     url: https://dazzlingdawn.com/public/2026/11/03/who-are-the-four-men-sentenced-in-the-east-leeds-drug-ring
     publisher: The Daily Dazzling Dawn
     date: 2026-11-03
+  - title: Who Are the Four Men Sentenced in the East Leeds Drug Ring?
+    url: https://dazzlingdawn.com/2026/11/03/who-are-the-four-men-sentenced-in-the-east-leeds-drug-ring
+    publisher: The Daily Dazzling Dawn
+    date: 2026-11-03
 open_questions:
   - No cannabis weight was published, only a police valuation of over £17,000, so no kg_seized figure is given.
   - 'The exact sentencing day is uncertain: police date the outcome 3 November 2026 and say sentences were handed down today, while the Yorkshire Evening Post reported the same sentences on 29 October 2026.'
@@ -62,13 +66,13 @@ open_questions:
 ---
 
 Four people were sentenced after an investigation into drug supply in east Leeds
-examined as Operation Angelford. [@1,3] Christopher Laking, 35, of Ramshead Drive,
-Seacroft, was jailed for 14 years. [@1,3] Laking was convicted of being concerned
+examined as Operation Angelford. [@1,3,4] Christopher Laking, 35, of Ramshead Drive,
+Seacroft, was jailed for 14 years. [@1,3,4] Laking was convicted of being concerned
 in cannabis supply from May 2023 to December 2025. [@1] Chris Wilson, 35, of
-Bradford, was jailed for six years and three months. [@1,3] Luke Cockerill, 36, of
-no fixed abode, was jailed for four years and six months. [@1] Jordan Parker,
+Bradford, was jailed for six years and three months. [@1,3,4] Luke Cockerill, 36, of
+no fixed abode, was jailed for four years and six months. [@1,4] Jordan Parker,
 33, of Inglewood Drive, was given a two-year community order for being concerned
-in cannabis supply. [@1,3]
+in cannabis supply. [@1,3,4]
 
 Operation Angelford began in May 2023 with a warrant at Laking’s home on
 Ramshead Drive in Seacroft. [@1] Officers found over £14,000 in cash at that
