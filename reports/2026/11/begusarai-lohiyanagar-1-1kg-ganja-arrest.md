@@ -29,6 +29,11 @@ sources:
     publisher: News4Nation
     date: 2026-11-04
     language: hi
+  - title: बेगूसराय में गांजा तस्करी पर पुलिस का शिकंजा, 1.1 किलो गांजा के साथ तस्करी का आरोपित गिरफ्तार
+    url: https://www.prabhatkhabar.com/state/bihar/begusarai/police-seize-11kg-ganja-arrest-smuggler-in-city-crackdown
+    publisher: Prabhat Khabar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate calendar date for the raid; 3 November 2026 is inferred because the report published on 4 November 2026 says the raid happened late Tuesday night.
   - No charges, custody order or court outcome were reported; police said further strict legal action was under way and questioning continued.
@@ -36,18 +41,27 @@ open_questions:
   - Only one accessible source for this event was found after web search, so no corroborating outlet could be cited.
   - The page carries two embedded photos without captions, alt text or credits, so it cannot be established that they show this seizure; no media entry is included.
   - The page's cover photo is captioned only as a ganja-smuggling bust with a generic reporter credit, so it cannot be established to show this 1.1 kg Lohiyanagar seizure; no media entry is included.
+  - The new account does not mention Ward No. 28, the reported criminal history, the alleged flight attempt or repacking into small packets; those details rest on the earlier sources alone.
+  - The new account links the accused to ganja and other narcotics or banned substances, but only 1 kg 100 g of ganja was reported seized, so no additional cannabis quantity is recorded.
+  - The article gives no separate calendar date for the raid; Tuesday night before its 4 November 2026 publication aligns with the existing 3 November 2026 date.
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/begusarai/police-seize-11kg-ganja-arrest-smuggler-in-city-crackdown
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/04/1793784675340/sizes/04beg_m_15_04112026_16-5279d9-hero.webp
+    publisher: Prabhat Khabar
+    caption: 'Seized ganja kept at Lohiyanagar police station in Begusarai. Photo: Prabhat Khabar Network'
 ---
 
 Lohiyanagar police in Begusarai arrested Ravindra Mahto, son of Ganesh Mahto,
 with 1 kg 100 g of illegal ganja during a late-night raid. [@1,2] Mahto is
 originally from Pokharia and was living in Ward No. 28 under Lohiyanagar police
-station. [@1,2] Police said Mahto has a long criminal history, with about four
+station. [@1,2,3] Police said Mahto has a long criminal history, with about four
 earlier criminal cases in different stations including a serious offence of
 murder. [@1,2] He made an unsuccessful attempt to flee when police reached the
 suspect house, but officers caught him immediately. [@1,2]
 
 Police had received a tip late on Tuesday night that ganja was being bought and
-sold illegally from a residential house in Ward No. 28. [@1,2] Station house
+sold illegally from a residential house in Ward No. 28. [@1,2,3] Station house
 officer Vikas Kumar formed a special team including additional station house
 officer Vishwajit Kumar, and the force raided the named hideout with a deputed
 magistrate. [@1,2] A detailed search of the house in the magistrate's presence
@@ -57,4 +71,4 @@ prices. [@1]
 
 Lohiyanagar police are holding the arrested accused in custody and questioning
 him to trace where the consignment came from and who else is involved in the
-network, while pursuing further legal action. [@1]
+network, while pursuing further legal action. [@1,3]
