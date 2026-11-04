@@ -27,29 +27,38 @@ sources:
     publisher: Le Matinal
     date: 2026-08-31
     language: fr
+  - title: 'Bénin : 265 kg de chanvre indien saisis lors d’une opération à Sèmè-Okoun'
+    url: https://lanouvelletribune.info/2026/08/benin-265-kg-de-chanvre-indien-saisis-lors-dune-operation-a-seme-okoun/
+    publisher: La Nouvelle Tribune
+    date: 2026-08-30
+    language: fr
 open_questions:
   - No arrests were reported; the driver and loaders fled and were still being sought.
   - The origin and final destination of the shipment were not established; investigations were continuing.
   - The reports do not specify the exact spot in Tohouè beyond the sea-trafficking loading point, so coordinates are for the Sèmè-Podji locality.
   - The submitted page shows a generic 2023 Republican Police vehicle photo that is not established to show this seizure, so no media entry is included.
+  - The new account weighs the haul at 265 kilograms and 25 grams while the existing report records 265.24 kilograms, a 10-gram difference; the report figure is retained.
+  - The page image is a 2018 file photo captioned Des agents de la police républicaine (Photo AmB.) and is not established to show this seizure, so no media entry is included.
+  - The article also describes a separate 23 July 2026 seizure of about 973 kilograms at Kraké-Plage and 16-18 July operations at Ouidah, Djougou and Ouassa-Péhunco, which are different events left out of this report.
 ---
 
 Officers from the Tohouè arrondissement police station in Sèmè-Podji commune
 carried out an operation overnight from Friday 28 to Saturday 29 August 2026.
-[@1] The intervention followed intelligence reporting narcotics trafficking by
+[@1,3] The intervention followed intelligence reporting narcotics trafficking by
 sea in the locality. [@1] Police watching the area spotted a Toyota Highlander
-being used to load psychotropic products. [@2] As officers approached, the
-driver and the people loading the parcels fled and were still being sought. [@1]
+being used to load psychotropic products. [@2,3] As officers approached, the
+driver and the people loading the parcels fled and were still being sought. [@1,3]
 A second account says the driver and those involved in the loading slipped away
 when police arrived. [@2]
 
 A thorough search and weighing of the load counted 265.24 kilograms of chanvre
-indien, or Indian hemp. [@1] The second paper gives the same haul as 265
+indien, or Indian hemp. [@1,3] The second paper gives the same haul as 265
 kilograms and 24 grams of Indian hemp. [@2] The Republican Police seized both
 the vehicle and the entire drug consignment. [@1] The second account likewise
 says the vehicle and the drugs were taken by police. [@2]
 
 Investigations were continuing to determine the exact origin and final
-destination of the illicit shipment. [@1] No arrested person was named and no
+destination of the illicit shipment. [@1,3] No arrested person was named and no
 charges or court outcome were reported. [@1]
 
+Suspects could be presented to the special prosecutor at the Court for the Repression of Economic Offences and Terrorism (CRIET) after the investigations. [@3] The operation took place at Sèmè-Okoun in the commune of Sèmè-Podji. [@3]
