@@ -54,6 +54,10 @@ sources:
     url: https://globalnews.ca/news/12136437/project-north-star-york-police/
     publisher: Global News
     date: 2026-11-04
+  - title: 23 charged in alleged illicit cannabis trafficking and exportation ring
+    url: https://www.newmarkettoday.ca/police-beat/23-charged-in-alleged-illicit-cannabis-trafficking-and-exportation-ring-12978262
+    publisher: NewmarketToday.ca
+    date: 2026-11-04
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -69,32 +73,34 @@ open_questions:
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5]
+[@1,3,4,5,6]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5] Police also seized two firearms
+small quantities of ketamine and cocaine. [@1,3,4,5,6] Police also seized two firearms
 with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,4,5] York police put the
+operation alone was worth approximately $4.8 million. [@2,4,5,6] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
 
 The investigation was dubbed Project North Star and was launched in February
 2026. [@1,3,5] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
-Service. [@2] Investigators allege the group sourced cannabis from several
+Service. [@2,6] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
 London, before distributing it through the underground market. [@1,3,4,5] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
 delivery services. [@1,3] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5] The investigation shut down the illicit
+the rural community of Ailsa Craig. [@1,3,4,5,6] The investigation shut down the illicit
 cannabis dispensary and dismantled the illicit grow operation in London. [@2,4]
 
 The 23 people face a total of 90 charges. [@5]
+
+Funding from Ontario's Ministry of the Solicitor General supported the investigation through the Criminal Intelligence Service Ontario. [@6]
