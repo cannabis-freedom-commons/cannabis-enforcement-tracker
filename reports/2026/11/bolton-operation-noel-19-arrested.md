@@ -54,6 +54,10 @@ sources:
     url: https://www.hellorayo.co.uk/hits-radio/manchester/news/bolton-drug-line-19-arrested-warrants
     publisher: Hits Radio (Manchester)
     date: 2026-11-03
+  - title: Nineteen people arrested in early morning drug raids across Greater Manchester
+    url: https://aboutmanchester.co.uk/nineteen-people-arrested-in-early-morning-drug-raids-across-greater-manchester/
+    publisher: About Manchester
+    date: 2026-11-03
 open_questions:
   - No separate weight for the cannabis found at Egerton Street was published, so no cannabis quantity can be recorded.
   - The reported quantities of at least a kilo recovered, 30 wraps of cocaine and at least 4.2kg moved cover Class A drugs and are excluded from cannabis figures.
@@ -64,13 +68,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Leigh Journal: Investigators believe at least 4.2kg of Class A drugs had been moved through the drug line.'
   - The new account describes the non-Bolton warrants only as Wigan, Lancashire, Salford and Manchester, without the Chorley, Lower Darwen, Worsley and Leigh-borough breakdown in the existing report.
   - The page photo is captioned only as Arrest without establishing it shows this specific raid, so no new media entry is added.
+  - The new account lists 16 warrants in Bolton, two in Wigan, two in Lancashire, one in Salford and one in Manchester, which totals 22 rather than the stated 21 and differs from the existing breakdown naming Chorley, Lower Darwen, Worsley and Leigh borough.
+  - The page image is captioned only as IMG_8441 with no description linking it to the raids, so no media entry can be verified from this source.
 ---
 
 Nineteen people were arrested in raids targeting a suspected organised crime
-group operating in Bolton. [@1,3,5] Those arrested were detained on suspicion of
-conspiracy to supply Class A and Class B drugs. [@1,3,4,5] The arrested group
-comprised fourteen men and five women. [@2,5] They remain in custody for
-questioning. [@2,5] Officers said they arrested everyone they set out to on
+group operating in Bolton. [@1,3,5,6] Those arrested were detained on suspicion of
+conspiracy to supply Class A and Class B drugs. [@1,3,4,5,6] The arrested group
+comprised fourteen men and five women. [@2,5,6] They remain in custody for
+questioning. [@2,5,6] Officers said they arrested everyone they set out to on
 Tuesday morning, with two further arrests planned for Wednesday. [@1]
 
 Police carried out 21 simultaneous raids across Greater Manchester and
@@ -78,8 +84,8 @@ Lancashire on the morning of 3 November, including 16 in Bolton. [@1,3,4,5] Othe
 raids were in Chorley, Lower Darwen, Wigan and Worsley. [@1] Two warrants were
 in Leigh borough, with one in Salford and one in Manchester. [@2] At an address
 on Egerton Street in Farnworth, officers found crack cocaine, heroin and
-cannabis along with weighing scales, a cannabis grinder and plastic bags. [@2,5]
-Thirty wraps of cocaine were also found in a car searched by police. [@1,3,4,5] Police
+cannabis along with weighing scales, a cannabis grinder and plastic bags. [@2,5,6]
+Thirty wraps of cocaine were also found in a car searched by police. [@1,3,4,5,6] Police
 said officers recovered at least a kilo of Class A drugs. [@1,3]
 
 The investigation developed from a separate large-scale drug importation case,
@@ -93,4 +99,4 @@ at 6am. [@2] The operation, called Operation Noel, had been planned for six to
 eight weeks. [@1,4] Officers forced entry to a property on Torbay Close after
 gathering from 5.30am and made an arrest there. [@1]
 
-Police believe the suspected drug line had been operating since October 2020. [@5] Police suspect the vehicle holding the wraps was linked to one of the drug line's couriers. [@5]
+Police believe the suspected drug line had been operating since October 2020. [@5,6] Police suspect the vehicle holding the wraps was linked to one of the drug line's couriers. [@5,6]
