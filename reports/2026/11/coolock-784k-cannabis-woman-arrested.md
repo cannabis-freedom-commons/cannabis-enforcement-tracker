@@ -2,21 +2,21 @@
 added_at_source: git
 added_at: "2026-11-03T10:36:57.000Z"
 code: 8NT63D
-date: 2026-11-02
+date: 2026-11-04
 country: ie
 place: Coolock, Dublin
 coordinates: [53.387, -6.184]
 precision: locality
-type: seizure
-also: [arrest]
-title: Woman in 20s held as €784,000 cannabis seized in Coolock
-summary: >-
-  Gardai seized cannabis with an estimated street value of €784,000 from a vehicle stopped in Clonsaugh and a house searched in Coolock, Dublin, on 2 November 2026. A woman in her 20s was arrested in the GNDOCB operation under Operation Tara and is detained at a Dublin Garda station.
+type: prosecution
+also: [arrest, seizure]
+title: Woman charged over €784,000 cannabis seized in Coolock
+summary: Gardai charged a woman in her 20s after seizing cannabis valued at €784,000 from a vehicle stopped in Clonsaugh and a house searched in Coolock on 2 November 2026. She was due to appear before Court 4 of the Criminal Courts of Justice in Dublin on the morning of 4 November 2026 as investigations continued.
 figures:
-  arrested: 1
-  value:
-    amount: 784000
-    currency: EUR
+    arrested: 1
+    value:
+        amount: 784000
+        currency: EUR
+    charged: 1
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c90fc75d76054817653c73b0d9fdd6e
@@ -34,27 +34,36 @@ sources:
     url: https://www.crimeworld.com/ireland/young-woman-arrested-as-drugs-worth-784000-seized-in-coolock-raid/a/164003352.html
     publisher: Crime World
     date: 2026-11-03
+  - title: Woman to appear in court following €784,000 cannabis seizure in north Dublin
+    url: https://www.irishmirror.ie/news/irish-news/woman-appear-court-following-784000-37840890
+    publisher: Irish Mirror
+    date: 2026-11-04
 open_questions:
   - No weight was published for the cannabis; only the Gardai estimated street value of €784,000 was reported.
   - The woman was not named and no charge or court outcome was reported; she was detained while investigations continue.
   - The submitted page carries a photo with an empty caption and no credit establishing that it shows this seizure, so no media entry is listed.
   - The submitted page carries a lead photo with an empty caption and no credit, so whether it shows this seizure could not be established and no media entry is added.
+  - The outcome of the 4 November court appearance had not been reported in the opened source.
+  - The lead photograph is a file image of the Criminal Courts of Justice with an empty caption, so it is not established to show this seizure or hearing and no media entry is listed.
+  - No second account of the charging and court-appearance step could be opened; the update rests on the single Irish Mirror report.
 ---
 
 Officers of the Garda National Drugs and Organised Crime Bureau arrested a woman
 in her 20s in Dublin on 2 November 2026 during an organised-crime cannabis
 operation. [@1] She was arrested under Section 15 of the Misuse of Drugs Act
-1977/84 in connection with the sale and supply of controlled drugs. [@1,3] She is
+1977/84 in connection with the sale and supply of controlled drugs. [@1,3,4] She is
 detained at a Dublin Garda station under Section 2 of the Criminal Justice (Drug
 Trafficking) Act 1996, as amended. [@1,3]
 
 Officers stopped a vehicle in the Clonsaugh area and then searched a residential
-property in Coolock. [@1,3] Gardai estimated the street value of the cannabis
-recovered during the searches at €784,000. [@1,3] Gardai said the seizure was made
+property in Coolock. [@1,3,4] Gardai estimated the street value of the cannabis
+recovered during the searches at €784,000. [@1,3,4] Gardai said the seizure was made
 as part of Operation Tara, the force's ongoing operation targeting organised
-crime activity. [@2,3]
+crime activity. [@2,3,4]
 
 The Garda National Drugs and Organised Crime Bureau, known as the GNDOCB,
 conducted the operation as part of those ongoing investigations. [@2] Garda
 investigations are ongoing and no charge or court outcome has been reported.
 [@1]
+
+She was subsequently charged and is due before the courts this morning. [@4] She is due to appear before Court 4 of the Criminal Courts of Justice in Dublin on the morning of 4 November 2026. [@4]
