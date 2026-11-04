@@ -44,6 +44,11 @@ sources:
     publisher: LeccePrima
     date: 2026-11-04
     language: it
+  - title: 'Operazione antidroga della Polizia: 24enne arrestato con hashish, cocaina e 10mila euro in contanti'
+    url: https://www.leccenews24.it/cronaca/lecce-arresto-spaccio-droga-hashish-cocaina-squadra-mobile.htm
+    publisher: Leccenews24
+    date: 2026-11-04
+    language: it
 open_questions:
   - The 5.35 grams of cocaine are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The seized cash of 1,760 euros plus 8,285 euros is suspected proceeds, not a drug valuation, and is therefore not recorded in figures.
@@ -69,20 +74,20 @@ open_questions:
 ---
 
 Anti-drug police raided a building in Lecce's 167 district on the afternoon of
-Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1,2,3,4,5] The
+Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1,2,3,4,5,6] The
 25-year-old was at home with a girl when officers arrived. [@1]
 
 Officers found a 76-gram block of hashish hidden in the refrigerator. [@1,2] They
 found 1,760 euros in mixed-denomination banknotes in a side pocket of a
 sweatshirt. [@1] On a table officers found packaging material left in disorder
 and, in a pouch, 5.35 grams of cocaine and three knives impregnated with
-narcotic substance. [@1,2,3,4,5] In the young man's bedroom officers found another block
-containing 100 grams of hashish and one electronic scale. [@1,2,5] In a wardrobe in
+narcotic substance. [@1,2,3,4,5,6] In the young man's bedroom officers found another block
+containing 100 grams of hashish and one electronic scale. [@1,2,5,6] In a wardrobe in
 the same bedroom, under some clothing, officers found a metal box hiding 8,285
 euros. [@1,2] A subsequent check of the young man's car proved negative. [@1]
 
 On the duty prosecutor's order J.D.B. was placed under house arrest, with a
 validation hearing expected in the presence of lawyers Matteo De Vergori and
-Salvatore Rollo. [@1,2]
+Salvatore Rollo. [@1,2,6]
 
-Officers acted after observing the suspect, who was suspected of hiding drugs ready for sale in his home. [@2,5]
+Officers acted after observing the suspect, who was suspected of hiding drugs ready for sale in his home. [@2,5,6]
