@@ -40,6 +40,11 @@ sources:
     publisher: Infobae
     date: 2026-07-09
     language: es
+  - title: Costa Rica incauta 5,4 toneladas de droga y captura a seis presuntos narcotraficantes
+    url: https://cronicadelquindio.com/actualidad/mundo/costa-rica-incauta-54-toneladas-de-droga-y-captura-a-seis-presuntos-narcotraficantes/
+    publisher: Crónica del Quindio
+    date: 2026-07-10
+    language: es
 open_questions:
   - The calendar date 8 July 2026 is inferred because the 9 July reports describe both interceptions as happening on the previous Wednesday, within 24 hours.
   - The reports give the combined total as both 5.4 tonnes and 5.5 tonnes; this report uses the ministry balance of 5,426 kilos, about 5.4 tonnes.
@@ -47,33 +52,38 @@ open_questions:
   - Cocaine weights of 150 kilos and 2,526 kilos are mentioned only to explain the mixed seizure and are excluded from cannabis figures, as is the combined drug total.
   - No court outcome was reported; police said the six face international drug-trafficking proceedings and investigations continue.
   - No separate cannabis-only valuation was published.
+  - The new account published 10 July 2026 gives no separate dates for the two interceptions; the existing 8 July date remains inferred from the 9 July reports.
+  - The new account reports the second seizure as 2.526 kilos of cocaine, while the existing report counts 2,526 packages of cocaine from its earlier source.
+  - The new account does not name the first boat as Angel del Pacifico and does not describe the second boat's type or motors, so those existing details still rest on the earlier sources.
+  - The new account does not identify a captain for the second boat, while the existing report names Chila as captain from Diario Libre.
+  - The page main image is captioned only with the overall 5.4-tonne seizure summary and is not established to show this interception, so no media entry is added.
+  - Background figures on 2025 ICD cocaine totals and Escudo de las Américas cooperation in the same article are left out as national context, not part of this event.
 ---
 
 Authorities detained six men after intercepting two drug boats in Costa Rica's
-southern Pacific in less than 24 hours. [@1] Aboard the boat named Angel del
+southern Pacific in less than 24 hours. [@1,3] Aboard the boat named Angel del
 Pacifico were three Colombians, Hidalgo, aged 23 and the captain, Galvez, aged
-50, and Pertuz, aged 31. [@1] Aboard the second boat were two Ecuadorians,
+50, and Pertuz, aged 31. [@1,3] Aboard the second boat were two Ecuadorians,
 Chila, aged 28 and the captain, and Gonzalez, aged 34, and Colombian Quinones,
-aged 38. [@1] The six comprised four Colombians and two Ecuadorians. [@2] Police
+aged 38. [@1,3] The six comprised four Colombians and two Ecuadorians. [@2] Police
 said the six face international drug-trafficking charges while investigations
 into possible transnational links continue. [@2]
 
 The Drug Control Police said the Angel del Pacifico carried 150 kilos of cocaine
-and about 2,750 kilos of marijuana, together 2,900 kilos. [@1] Officers counted
-2,526 packages of cocaine, about 2.5 tonnes, on the second boat. [@2] The
+and about 2,750 kilos of marijuana, together 2,900 kilos. [@1,3] Officers counted
+2,526 packages of cocaine, about 2.5 tonnes, on the second boat. [@2,3] The
 ministry put both boats together at 5,426 kilos, about 5.4 tonnes, of both
 drugs. [@2] The Angel del Pacifico was a 38-foot boat with no registration or
-flag and three 200-horsepower outboard motors. [@2] The second was a 38-foot
+flag and three 200-horsepower outboard motors. [@2,3] The second was a 38-foot
 nauta-type boat with three 250-horsepower motors whose crew tried to escape
 before officers boarded and detained them. [@1]
 
 Special Operations Group officers of the National Coast Guard Service
 intercepted the Angel del Pacifico 145 nautical miles, 270 kilometres, southwest
-of Golfito in Puntarenas province. [@1] The other interception followed a
-pursuit of a suspicious boat in Bahia Ballena de Osa in the southern zone. [@1]
+of Golfito in Puntarenas province. [@1,3] The other interception followed a
+pursuit of a suspicious boat in Bahia Ballena de Osa in the southern zone. [@1,3]
 Costa Rica said intelligence shared by the Colombian Navy and Panamanian
 authorities, plus air support from the United States Joint Interagency Task
-Force South, located the boats. [@1] The Angel del Pacifico was taken to
+Force South, located the boats. [@1,3] The Angel del Pacifico was taken to
 Golfito, where officers counted its load. [@2] The packages remain under
 judicial custody for analysis as part of the legal proceedings. [@2]
-
