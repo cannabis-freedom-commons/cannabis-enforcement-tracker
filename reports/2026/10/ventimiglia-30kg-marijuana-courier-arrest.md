@@ -76,6 +76,11 @@ sources:
     publisher: Prima la Riviera
     date: 2026-11-03
     language: it
+  - title: GDF - GUARDIA DI FINANZA * «SEQUESTRATI 30 KG DI MARIJUANA AL VALICO AUTOSTRADALE DI VENTIMIGLIA. ARRESTATO UN CORRIERE ITALIANO»
+    url: https://www.agenziagiornalisticaopinione.it/opinionmix/gdf-guardia-di-finanza-sequestrati-30-kg-di-marijuana-al-valico-autostradale-di-ventimiglia-arrestato-un-corriere-italiano/
+    publisher: Agenzia giornalistica Opinione
+    date: 2026-11-03
+    language: it
 open_questions:
   - The reports do not name or age the arrested driver.
   - No street value for the marijuana was published.
@@ -89,19 +94,21 @@ open_questions:
   - The page photo captioned as a GdF check at the border crossing is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Liguria Notizie: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
   - The page carries a lead photo captioned Fermato a Ventimiglia mentre rientra dalla Spagna con 30 kg di marijuana, but the caption and credit do not establish that it shows this seizure, so no media entry is added.
+  - The page carries an image from a June 2024 upload with no caption or credit establishing that it shows this 27 October 2026 seizure, so no media entry is added.
+  - 'Left out, as its quotation was not found in Agenzia giornalistica Opinione: The driver had tried to evade the check by steering toward the outer exit lanes and gave contradictory, evasive accounts of a trip to Spain.'
 ---
 
 On 27 October, Guardia di Finanza dog-unit officers of the Ventimiglia company
 stopped a car driven by an Italian man at the motorway border crossing entering
-Italy. [@1,3,4,6,7,8,10] The officers arrested the Italian driver for international
-trafficking in narcotic substances. [@2,3,6,7,8] The Imperia prosecutor's office assumed
-direction of the investigation. [@1,3,6] The man remains presumed innocent until any
+Italy. [@1,3,4,6,7,8,10,11] The officers arrested the Italian driver for international
+trafficking in narcotic substances. [@2,3,6,7,8,11] The Imperia prosecutor's office assumed
+direction of the investigation. [@1,3,6,11] The man remains presumed innocent until any
 final sentence. [@2]
 
 With drug dogs Kirk and Rando, officers found two bags concealing 25 heat-sealed
 bags containing 30 kilograms of marijuana. [@1,3,4,5,6,7,8,9] Officers also seized 2,700 euros
 in cash, deemed proceeds of the offence, along with two mobile phones, a tablet
-and the car used for transport. [@1,3,5,6,7,8,9,10]
+and the car used for transport. [@1,3,5,6,7,8,9,10,11]
 
 The driver had tried to evade the check by steering toward the outer exit lanes
 and gave contradictory, evasive accounts of a trip to Spain. [@1,3,7,10] The Guardia di
