@@ -24,6 +24,16 @@ sources:
     publisher: Corriere Salentino
     date: 2026-11-03
     language: it
+  - title: Droga e oltre 10mila euro in casa, arrestato un 24enne per spaccio di hashish e cocaina
+    url: https://www.corrieresalentino.it/2026/11/droga-e-oltre-10mila-euro-in-casa-arrestato-un-24enne-per-spaccio-di-hashish-e-cocaina/
+    publisher: Corriere Salentino
+    date: 2026-11-04
+    language: it
+  - title: 'Lecce, sequestrati hashish, cocaina e 10mila euro: arrestato un 24enne per spaccio'
+    url: https://www.trmtv.it/cronaca/2026_11_04/584181.html
+    publisher: TRM TV
+    date: 2026-11-04
+    language: it
 open_questions:
   - The 5.35 grams of cocaine are mentioned only to explain the mixed case and are excluded from cannabis figures.
   - The seized cash of 1,760 euros plus 8,285 euros is suspected proceeds, not a drug valuation, and is therefore not recorded in figures.
@@ -31,22 +41,29 @@ open_questions:
   - The suspect is identified only by the initials J.D.B., and the girl present is not identified.
   - Only one accessible source for this event was found after searching in Italian.
   - No court outcome beyond the expected validation hearing was reported.
+  - The two new accounts call the suspect 24 while the existing report records 25-year-old J.D.B., so the age and identification remain as previously recorded.
+  - The new accounts give about 180 grams of hashish in two blocks while the existing report details 76 grams plus 100 grams totalling 176 grams, so the detailed breakdown is retained and the rounded total is not added to figures.
+  - The new accounts report two precision scales while the existing report records one electronic scale, so the scale count is left as previously recorded.
+  - The new accounts do not mention the 167 district, the girl present, the refrigerator, sweatshirt, table, pouch, knives, wardrobe metal box, car check, lawyers or validation hearing, which remain supported only by the earlier source.
+  - The cash of more than 10,000 euros is described as suspected dealing proceeds, not a drug valuation, and is therefore not recorded in figures.
+  - The submitted page's only relevant image is captioned Foto stupefacenti logo and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Anti-drug police raided a building in Lecce's 167 district on the afternoon of
-Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1] The
+Monday 2 November and placed 25-year-old J.D.B. under house arrest. [@1,2,3] The
 25-year-old was at home with a girl when officers arrived. [@1]
 
-Officers found a 76-gram block of hashish hidden in the refrigerator. [@1] They
+Officers found a 76-gram block of hashish hidden in the refrigerator. [@1,2] They
 found 1,760 euros in mixed-denomination banknotes in a side pocket of a
 sweatshirt. [@1] On a table officers found packaging material left in disorder
 and, in a pouch, 5.35 grams of cocaine and three knives impregnated with
-narcotic substance. [@1] In the young man's bedroom officers found another block
-containing 100 grams of hashish and one electronic scale. [@1] In a wardrobe in
+narcotic substance. [@1,2,3] In the young man's bedroom officers found another block
+containing 100 grams of hashish and one electronic scale. [@1,2] In a wardrobe in
 the same bedroom, under some clothing, officers found a metal box hiding 8,285
-euros. [@1] A subsequent check of the young man's car proved negative. [@1]
+euros. [@1,2] A subsequent check of the young man's car proved negative. [@1]
 
 On the duty prosecutor's order J.D.B. was placed under house arrest, with a
 validation hearing expected in the presence of lawyers Matteo De Vergori and
-Salvatore Rollo. [@1]
+Salvatore Rollo. [@1,2]
 
+Officers acted after observing the suspect, who was suspected of hiding drugs ready for sale in his home. [@2]
