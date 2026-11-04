@@ -110,6 +110,11 @@ sources:
     publisher: Ελευθερία
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: «Λαβράκι» για την ΕΛ.ΑΣ. – Συνελήφθη ανήλικος για διακίνηση 7,5 κιλών κάνναβης - Lawandorder.gr'
+    url: https://lawandorder.gr/thessaloniki-lavraki-gia-tin-el-as-synelifthi-anilikos-gia-diakinisi-75-kilon-kannavis/
+    publisher: Lawandorder.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -142,20 +147,23 @@ open_questions:
   - The Eleftheria page lists two images, one captioned as goods from the drug seizure, but their distinctness from the police handout already cited was not established, so no new media entry is added.
   - 'Left out, as its quotation was not found in Ελευθερία: Officers also arrested the boy''s mother for neglecting his supervision, then released her on a prosecutor''s verbal order.'
   - 'Left out, as its quotation was not found in Ελευθερία: With police dog VEKTOR, officers found a second parcel from a different courier firm holding 5,410 grams of the same cannabis also addressed to the boy.'
+  - The headline rounds the total to 7.5 kg while the body gives 7 kg and 490 grams retained in the existing report.
+  - The article gives no separate incident date; 4 November 2026 is its publication date, while the existing report dates the arrest to 3 November 2026 from other accounts.
+  - The page image is captioned only as astynomia-4-11 with no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18] He is accused of violating drugs and
 foreigners legislation. [@1,3,8,14] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12,13,14,15,16] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17]
+[@2,4,5,6,7,8,9,12,13,14,15,16,18] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17]
+addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
