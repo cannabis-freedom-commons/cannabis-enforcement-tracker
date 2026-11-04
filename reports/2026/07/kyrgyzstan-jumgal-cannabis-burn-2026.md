@@ -31,7 +31,6 @@ open_questions:
   - Both reports were published on 16 July 2026 and give no exact date for the destruction; the incident date is the publication date.
   - Neither report names a precise site within Jumgal district, states how much ground the plants covered, or mentions arrests, suspects or charges.
   - Time.kg gives 'about 2 tonnes' and Kabar 'nearly 2 tonnes'; both attribute the figure to the Naryn regional police.
-  - A 24.kg report on 11 August 2026 describes about 2.5 tonnes burned at Marinka and Kindik in the same district; whether that is a later, separate burn or a second account of this campaign is unclear.
   - 'Left out, as its quotation was not found in Кабар: The state news agency Kabar, citing the same regional police, reported that the wild cannabis found in the district weighed nearly 2 tonnes and was burned in the prescribed manner.'
 ---
 
