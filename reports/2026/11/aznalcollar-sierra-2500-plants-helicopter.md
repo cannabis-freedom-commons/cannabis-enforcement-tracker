@@ -81,6 +81,11 @@ sources:
     publisher: El Correo de Andalucía
     date: 2026-11-04
     language: es
+  - title: 'Piscinas, dormitorios y 2.500 plantas de marihuana: así era el complejo clandestino oculto en un valle de Sevilla'
+    url: https://www.101tv.es/sevilla-provincia/piscinas-dormitorios-y-2-500-plantas-de-marihuana-asi-era-el-complejo-clandestino-oculto-en-un-valle-de-sevilla/
+    publisher: 101TV
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -98,19 +103,19 @@ open_questions:
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6,9] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9] The four suspects tried to
-escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7]
+[@1,3,4,5,6,9,10] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10] The four suspects tried to
+escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10]
 The detainees were brought before those courts as alleged perpetrators of
-public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7] The
-investigation remains open. [@1,2,5,8]
+public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10] The
+investigation remains open. [@1,2,5,8,10]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9] Some of the plants stood
-more than two metres tall. [@1,2,3,6,7,8] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1,3,7,8] From there, a
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10] Some of the plants stood
+more than two metres tall. [@1,2,3,6,7,8,10] Because vehicles could not be used, agents cut
+the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
-[@1,2,3,6,7,9] Each growing area had its own irrigation system despite the steep slope and
+[@1,2,3,6,7,9,10] Each growing area had its own irrigation system despite the steep slope and
 lack of conventional connections. [@1,8] Those running the site had installed
 motors, pipes and large water stores including pools across the sierra. [@1] The
 site also had electric generators, tools and drying rooms. [@1] Officers found
@@ -121,14 +126,14 @@ linked by a network of paths built by those running the site. [@1,4] The plots l
 far from towns on steep slopes where vehicles could not enter. [@1,5] The
 investigation began after aerial observation spotted possible hidden
 plantations. [@1,2,4] Officers reached the site on foot over difficult paths while
-drones watched from the air. [@1,2] The terrain made the site hard to locate and
+drones watched from the air. [@1,2,10] The terrain made the site hard to locate and
 reach. [@1] Officers therefore set up a special operation to watch possible
 escape routes from the air. [@1] The complex included sleeping areas, rest areas
 and a kitchen that let keepers stay for long periods without travelling to
-nearby towns. [@1] Keepers could carry on daily work without travelling
+nearby towns. [@1,10] Keepers could carry on daily work without travelling
 regularly to nearby towns. [@1] A nearby watercourse helped supply the crops.
 [@1]
 
-The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8]
+The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8,10]
 
 Police said further linked plantations and other people involved have not been ruled out. [@3]
