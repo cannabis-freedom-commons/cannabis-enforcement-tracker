@@ -50,6 +50,10 @@ sources:
     url: https://www.daijiworld.com/news/newsDisplay?newsID=1334413
     publisher: Daijiworld
     date: 2026-11-04
+  - title: 'Telangana: Excise officials seize 3.323 kg ganja in Medchal, three arrested'
+    url: https://www.bignewsnetwork.com/news/279411502/telangana-excise-officials-seize-3323-kg-ganja-in-medchal-three-arrested
+    publisher: Big News Network
+    date: 2026-11-04
 open_questions:
   - The reports give no separate date for the seizure itself; 28 October is when the agency disclosed the case.
   - The GITAM University campus drug screening covered in one source is a separate event left out here.
@@ -73,6 +77,6 @@ forfeiture on 27 October 2026. [@1]
 EAGLE Force said the action looks beyond contraband to stop trafficking proceeds being turned
 into apparently legitimate wealth, and that the wider network inquiry continues. [@1]
 
-Under Section 68F of the NDPS Act, 1985, Inspector of Police B Ravinder identified three bank accounts related to the accused and initiated action against properties associated with them and their family members. [@3,5,6,7]
+Under Section 68F of the NDPS Act, 1985, Inspector of Police B Ravinder identified three bank accounts related to the accused and initiated action against properties associated with them and their family members. [@3,5,6,7,8]
 
-A case was registered against four people at the Warangal Narcotics Police Station of EAGLE Force under Sections 8(c), read with Sections 20(b)(ii)(C) and 29 of the NDPS Act. [@6,7] According to EAGLE Force, a total of Rs 1,59,910 was seized or frozen in three bank accounts belonging to Munawar Ali and his family members. [@6,7]
+A case was registered against four people at the Warangal Narcotics Police Station of EAGLE Force under Sections 8(c), read with Sections 20(b)(ii)(C) and 29 of the NDPS Act. [@6,7,8] According to EAGLE Force, a total of Rs 1,59,910 was seized or frozen in three bank accounts belonging to Munawar Ali and his family members. [@6,7,8]

@@ -50,6 +50,10 @@ sources:
     url: https://www.daijiworld.com/news/newsDisplay?newsID=1334413
     publisher: Daijiworld
     date: 2026-11-04
+  - title: 'Telangana: Excise officials seize 3.323 kg ganja in Medchal, three arrested'
+    url: https://www.bignewsnetwork.com/news/279411502/telangana-excise-officials-seize-3323-kg-ganja-in-medchal-three-arrested
+    publisher: Big News Network
+    date: 2026-11-04
 open_questions:
   - No charges, custody status or court outcome beyond handover to Medchal Excise Station were reported; investigation was continuing.
   - No value estimate for the seized ganja was published.
@@ -62,20 +66,21 @@ open_questions:
   - The same article also describes the earlier Warangal EAGLE Force forfeiture, a separate event recorded in warangal-eagle-147kg-forfeiture.
   - No photo entry is included because the page image caption does not establish that it shows this seizure.
   - The new account spells the second accused as Mohammed Ghousuddin and shortens the third accused to Shubham, while the existing report uses Mohammed Ghouseuddin and Buyya Shubham.
+  - This account spells the venue as Malibu - Cocktail Bar & Kitchen and the accused as Mohammed Ghousuddin and Shubham, variants of names already recorded in the existing report.
 ---
 
 On 4 November 2026, the State Task Force of the Prohibition and Excise
 Department arrested three men near Malib Cockfire Pub at Gundlapochampally in
-Medchal district. [@1,2,3,4,5,6] The arrested men were identified as Sheikh Mukhtar, aged
-21, Mohammed Ghouseuddin, aged 24, and Buyya Shubham, aged 21. [@1,2,3,4,5,6] The State
+Medchal district. [@1,2,3,4,5,6,7] The arrested men were identified as Sheikh Mukhtar, aged
+21, Mohammed Ghouseuddin, aged 24, and Buyya Shubham, aged 21. [@1,2,3,4,5,6,7] The State
 Task Force, generally shortened to STF, is a unit of the Prohibition and Excise
 Department. [@1] An STF team led by CI Ramesh carried out the raid after
-receiving credible information about the sale of ganja near the pub. [@1,2,3,4,5]
+receiving credible information about the sale of ganja near the pub. [@1,2,3,4,5,7]
 
 Officers seized three packets containing ganja weighing a total of 3.323 kg.
-[@1,2,4,5,6] The seizure took place at Gundlapochampally during the targeted raid near
+[@1,2,4,5,6,7] The seizure took place at Gundlapochampally during the targeted raid near
 the pub. [@1] The team subsequently handed the accused men and the seized ganja
-to Medchal Excise Station for further action, as stated by CI Ramesh. [@1,2,3,4,5,6]
+to Medchal Excise Station for further action, as stated by CI Ramesh. [@1,2,3,4,5,6,7]
 
 The Excise Department is investigating the case to establish the source of the
 ganja. [@1] Investigators are also examining whether the arrested men were
