@@ -44,6 +44,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-02
     language: ar
+  - title: القبض على عاطل بحوزته 50 فرش حشيش قبل ترويجها بأوسيم
+    url: https://mwlana.com/details/206155/
+    publisher: بوابة مولانا
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The report gives the amount only as 50 slabs of hashish, called farsh, with no weight, value, or conversion to kilograms, so no kg_seized figure is given.
   - The article gives no separate date for the arrest; 2 November 2026 is its publication date and is used as the incident date.
@@ -57,10 +62,10 @@ open_questions:
 ---
 
 Egypt’s Interior Ministry security forces arrested an unemployed man in Awsim on
-suspicion of trafficking narcotic drugs. [@1,2,3,4,5] The operation took place within
+suspicion of trafficking narcotic drugs. [@1,2,3,4,5,6] The operation took place within
 the jurisdiction of the Awsim police station in Giza Governorate. [@1,2,3,4,5] At the
 time of the arrest, officers found 50 slabs of hashish, called “farsh” in the
-report, in his possession. [@1,2,3,4,5] Police said the 50 slabs had not yet been sold
+report, in his possession. [@1,2,3,4,5,6] Police said the 50 slabs had not yet been sold
 and were intended for distribution to his customers. [@1,4]
 
 According to the account, prior information and investigations had indicated
@@ -72,6 +77,6 @@ the 50 slabs of hashish. [@1] The seized slabs were then held in custody as
 seized material. [@1]
 
 When confronted with the seizure, the man admitted that he was carrying out the
-criminal activity. [@1,2,3,4,5] The authorities said the required legal measures were
+criminal activity. [@1,2,3,4,5,6] The authorities said the required legal measures were
 taken against him. [@1] The competent investigative authorities then took over
-the case for further investigation. [@1,4,5]
+the case for further investigation. [@1,4,5,6]
