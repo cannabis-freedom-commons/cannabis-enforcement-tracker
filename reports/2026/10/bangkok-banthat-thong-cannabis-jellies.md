@@ -182,6 +182,11 @@ sources:
     publisher: Wochenblitz
     date: 2026-11-02
     language: de
+  - title: தாய்லந்தில் கஞ்சா கலந்த இனிப்பைச் சாப்பிட்டு மயங்கிய தம்பதி
+    url: https://seithi.mediacorp.sg/world/taayalanataila-kanacaa-kalanata-inaipapaaica-caapapaitatau-mayanakaiya-tamapatai-896301
+    publisher: Seithi Mediacorp
+    date: 2026-11-02
+    language: ta
 open_questions:
   - Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and Hfocus give 29 October; this report uses the FDA's date.
   - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
@@ -228,20 +233,20 @@ open_questions:
 ---
 
 Police and food and drug officials searched a cannabis shop in a building on
-Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13,18,22,27] The
+Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026. [@1,5,13,18,22,27,29] The
 shop occupied the second floor. [@1,4,5,7,14,15,16,17,19,20,26,27] Officers seized 90 cannabis-mixed jelly
 items that had no Thai label and no food serial number from the Food and Drug
-Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28] The FDA put the value of the jellies at 50,000 baht.
+Administration (FDA). [@1,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29] The FDA put the value of the jellies at 50,000 baht.
 [@2,5,18,22,23,24,26,27,28]
 
 A shop employee told officers the shop had sold the jellies at 80 baht each to
-Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24,26,27] A 26-year-old woman
+Thai customers and foreign tourists for about a year. [@1,4,7,8,11,12,16,17,18,19,20,21,22,23,24,26,27,29] A 26-year-old woman
 at the shop told investigators she was only an employee. [@3,9,16,28] Officers told her
 she faced a charge of selling a controlled herb without permission. [@3,7,14,25] That
 charge carries up to a year in prison or a 20,000-baht fine. [@2,4,5] Investigators
 planned to send samples to the Department of Medical Sciences to check whether
 THC and CBD levels exceeded the legal limit, which could bring further charges.
-[@3,4,5,8,11,14,19,23,24,27,28]
+[@3,4,5,8,11,14,19,23,24,27,28,29]
 
 The search followed a case in Khlung district, Chanthaburi province, where a
 family fell severely ill after eating cannabis sweets, with convulsions and loss
@@ -255,12 +260,12 @@ The 26-year-old woman was identified only as Saowalak, with her surname withheld
 
 The shop was in a row building at 188/25 Soi Rong Mueang 5, Wang Mai subdistrict, Pathum Wan district, Bangkok. [@7] Police said they were expanding the investigation to find the shop's owner and others involved. [@7,25]
 
-The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8,15,19,21,23,24,25,28] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8,24,25] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8]
+The jellies were packaged to look like ordinary children's snacks to attract customers and were advertised for sale online. [@8,15,19,21,23,24,25,28,29] Officers also charged her with selling food that carried an incorrect label. [@8] The family was a father, mother and their two-year-old son, and the boy was drowsy and was thought to have eaten only a little. [@8,24,25,29] The FDA secretary-general, Supatra Boonserm, said cannabis food it approves may contain no more than 1.6 mg of THC per package and must carry clear warnings. [@8]
 
-Police arrested a 26-year-old woman, identified only as Saowalak. [@10]
+Police arrested a 26-year-old woman, identified only as Saowalak. [@10,29]
 
 The Central Investigation Bureau commissioner, Pol Lt Gen Nattasak Chaowanasai, said cannabis had increasingly been used for purposes unrelated to medical treatment, with some operators mixing it into gummies, cookies, sweets and other food products to produce intoxicating effects. [@11]
 
-The raid followed a complaint to Bangkok police from a couple living in Chanthaburi province, who said they passed out after eating the sweets. [@10]
+The raid followed a complaint to Bangkok police from a couple living in Chanthaburi province, who said they passed out after eating the sweets. [@10,29]
 
 Banthat Thong Road is known as a restaurant area next to Chulalongkorn University and is popular with local Thais as well as foreign tourists and expatriates. [@26]
