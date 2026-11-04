@@ -30,6 +30,11 @@ sources:
     publisher: AJ Notícias
     date: 2026-11-04
     language: pt
+  - title: Homem de 19 anos é preso com 103 gramas de maconha no bairro Vila Nova. - Blog do Jaime
+    url: https://blogdojaime.com.br/homem-de-19-anos-e-preso-com-103-gramas-de-maconha-no-bairro-vila-nova/
+    publisher: Blog do Jaime
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Only one source could be opened for this event, so no second account confirms the details.
   - The report does not name the street or the convenience store where the approach took place.
@@ -40,16 +45,15 @@ open_questions:
 
 Military Police arrested a 19-year-old man for drug trafficking on the afternoon
 of Tuesday 3 November 2026 in Vila Nova, a neighbourhood of Blumenau in the Vale
-do Itajaí. [@1] Officers were on routine patrol near a commercial establishment
+do Itajaí. [@1,2] Officers were on routine patrol near a commercial establishment
 when the incident was handled at about 4:42pm. [@1] The suspect ran into a
-convenience store when he noticed the approaching patrol car. [@1] He threw his
-mobile phone behind a counter in an apparent attempt to hide it. [@1]
+convenience store when he noticed the approaching patrol car. [@1,2] He threw his
+mobile phone behind a counter in an apparent attempt to hide it. [@1,2]
 
 Police said the suspect already had previous records and appeared very nervous
-when approached. [@1] A personal search found a lump of marijuana weighing about
-103 grams in his pocket. [@1] Officers arrested him in flagrante and took him to
-the police station with the seized drug for the legal procedures. [@1]
+when approached. [@1,2] A personal search found a lump of marijuana weighing about
+103 grams in his pocket. [@1,2] Officers arrested him in flagrante and took him to
+the police station with the seized drug for the legal procedures. [@1,2]
 
 The account was published on 4 November 2026, reporting the previous afternoon's
 arrest. [@1]
-
