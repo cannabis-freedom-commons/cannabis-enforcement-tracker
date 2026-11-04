@@ -38,22 +38,30 @@ sources:
     publisher: Tribuna
     date: 2026-11-03
     language: es
+  - title: ¿Una marca de marihuana detrás de los corridos? "Olympos", el negocio que puso bajo la lupa a influencers en Sonora
+    url: https://www.record.com.mx/historia/una-marca-de-marihuana-detras-de-los-corridos-olympos-el-negocio-que-puso-bajo-la-lupa-a-influencers-en-sonora-2026110414505304105
+    publisher: RÉCORD
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight or count for the displayed cannabis products was published, so no kilograms can be recorded.
   - The amounts of the individual financial guarantees were not published.
   - The articles give no separate hearing date; 3 November 2026 is the publication date and is used as the incident date.
   - Azlán's justified preventive detention belongs to two separate cases for sexual violence and for marijuana dealing, not to this prosecution, and is therefore excluded from figures.
   - The same articles describe a 28 August armed attack on the Noche Suprema venue and a 3 September detention, separate events left out here.
+  - The same article also describes a September Marina operation in San Carlos, Guaymas with 357 bags, 2,385 tubes and about 30.16 kilograms of marijuana, a separate enforcement event left out of this prosecution update.
+  - Both page images are credited to @pixabay and are not established as photos of this prosecution or seizure, so no media entry is added.
+  - The article links the Olympos brand to Los Salazar and a named individual as an investigative allegation while noting that no judicial sentence has established responsibility, so that link is not added as a fact.
 ---
 
 A control judge bound three Hermosillo influencers over for trial for apología
 of a crime and of a vice after they shared an August Facebook video exhibiting
-and promoting Olympos marijuana products. [@1] The accused are 20-year-old Azlán
+and promoting Olympos marijuana products. [@1,3] The accused are 20-year-old Azlán
 N, 29-year-old Julián N known as El Pelón Bajavión, and 22-year-old Eduardo
-Antonio N known as El Doble Carne. [@2] The judge ordered weekly appearances
+Antonio N known as El Doble Carne. [@2,3] The judge ordered weekly appearances
 before the court, an individual financial guarantee, a ban on leaving Sonora
 without permission, and a temporary halt to promoting the brand under
-investigation. [@2] Azlán remains in justified preventive detention for two
+investigation. [@2,3] Azlán remains in justified preventive detention for two
 other criminal cases while all three face precautionary measures in this
 prosecution. [@1]
 
@@ -62,7 +70,7 @@ support the charge. [@2] The case concerns a recording shared publicly on
 Facebook on 29 August in which the three allegedly expressed approval of
 cannabis-derived substances. [@2] In the footage they allegedly showed and
 shared branded products including electronic cigarettes, concentrates, extracts
-and pre-rolled marijuana cigarettes. [@2] Prosecutors said the on-camera
+and pre-rolled marijuana cigarettes. [@2,3] Prosecutors said the on-camera
 display, promotion and handing over of the products amounted to public
 exaltation of narcotics-related conduct that could reach an indeterminate online
 audience. [@1]
@@ -74,4 +82,3 @@ aggravated equiparated rape and corruption of minors involving a 13-year-old in
 Hermosillo, with justified preventive detention. [@1] In a third distinct case
 he was bound over for a health offence in the form of drug dealing through
 marijuana possession, also with justified preventive detention. [@1]
-
