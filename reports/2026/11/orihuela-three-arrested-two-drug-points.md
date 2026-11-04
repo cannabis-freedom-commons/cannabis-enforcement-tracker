@@ -40,6 +40,11 @@ sources:
     publisher: TodoAlicante
     date: 2026-11-04
     language: es
+  - title: Desmantelados dos puntos negros de venta de drogas y tres detenidos en Orihuela
+    url: https://www.informacion.es/vega-baja/2026/11/04/desmantelados-puntos-negros-venta-drogas-orihuela-136066408.html
+    publisher: Información
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the arrests and searches; 4 November 2026 is its publication date and is used as the incident date.
   - The exact streets or locations of the two searched homes were not published.
@@ -49,25 +54,25 @@ open_questions:
 ---
 
 National Police detained three people in Orihuela, a woman and two men aged 43
-to 50, for alleged drug trafficking and receiving stolen goods. [@1,2] The
-operation dismantled two drug sale points. [@1,2] After identifying the three
+to 50, for alleged drug trafficking and receiving stolen goods. [@1,2,3] The
+operation dismantled two drug sale points. [@1,2,3] After identifying the three
 occupants and obtaining judicial authorisation, officers searched both homes.
 [@1] The three detainees were placed at the disposal of the duty investigating
-court in Orihuela. [@1,2]
+court in Orihuela. [@1,2,3]
 
 Searches in both homes seized 44 grams of hashish and 45 grams of marijuana.
-[@1,2] Officers also seized tools for handling, measuring and distributing the
-substances. [@1] Officers also found nine mobile phones, 14 watches, 12 drills,
+[@1,2,3] Officers also seized tools for handling, measuring and distributing the
+substances. [@1,3] Officers also found nine mobile phones, 14 watches, 12 drills,
 machinery including sanders, radial saws, blowers and cement mixers, plus a
-bicycle and three scooters. [@1,2]
+bicycle and three scooters. [@1,2,3]
 
 Judicial Police in Orihuela opened the inquiry after learning of two homes
 suspected of distributing mainly hashish and marijuana. [@1,2] During surveillance
 officers saw heavy visitor traffic at both homes and found some people leaving
 carrying substances they had apparently just bought. [@1] Investigators found
 the suspects allegedly accepted valuable stolen objects in exchange for drugs.
-[@1] Police linked the seized objects so far to six burglaries with force
-committed in Orihuela. [@1,2] Victims were notified and were able to recover their
+[@1,3] Police linked the seized objects so far to six burglaries with force
+committed in Orihuela. [@1,2,3] Victims were notified and were able to recover their
 belongings according to police information. [@1] The investigation continues to
 establish the origin of the remaining items and clarify any other possible
 offences. [@1]
