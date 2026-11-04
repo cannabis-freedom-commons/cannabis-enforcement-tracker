@@ -24,21 +24,34 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-04
     language: hi
+  - title: दतिया में गांजे की खरीद-फरोख्त करने पहुंचे दो युवक गिरफ्तार:12.5 किलो गांजा और दो कारें जब्त, कीमत करीब 25 हजार रुपए
+    url: https://www.bhaskar.com/local/mp/datia/news/datia-police-arrest-youths-ganja-seizure-crime-news-139586619.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
+  - title: 'दतिया में गांजे की खरीद-फरोख्त करने पहुंचे दो युवक गिरफ्तार: 12.5 किलो गांजा और दो कारें जब्त, कीमत करीब 25 हजार रुपए - datia News'
+    url: https://www.bhaskar.com/local/mp/datia/video/datia-police-arrest-youths-ganja-seizure-crime-news-139586619.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No court outcome beyond registration of an NDPS Act case was reported.
   - No value estimate for the seized ganja was published.
   - Only one full-text source for this event could be opened; no second independent account was available.
   - The page carries an image filed under a 2021 Jhansi image address with a generic caption, so it cannot be established to show this seizure and no media entry is included.
+  - The Bhaskar headline rounds the seizure to 12.5 kg while its body and the existing report give 12 kg 542 g; the report retains the exact figure.
+  - The Bhaskar text attributes the 12:25 am check to Sub-Inspector Rachna Mahour's team and cites Kotwali SHO Sudhir Hinaria as briefing, differing from the existing report's attribution of leadership to Hinaria.
 ---
 
 Kotwali police in Datia arrested two accused men after finding 12 kg 542 g of
-ganja in their possession. [@1] The arrested men were identified as Dilip Sharma
-alias Pintu and Deepak Sharma, residents of Lahar in Bhind district. [@1]
+ganja in their possession. [@1,2] The arrested men were identified as Dilip Sharma
+alias Pintu and Deepak Sharma, residents of Lahar in Bhind district. [@1,2]
 
 Police also seized two cars allegedly used for smuggling and three mobile
-phones. [@1] The action took place on the night of 3 November. [@1] A Kotwali
+phones. [@1,2] The action took place on the night of 3 November. [@1,2] A Kotwali
 police team led by station in-charge Sudhir Hinaria was conducting checks when
 it recovered ganja from two suspect cars. [@1]
 
-Police registered a case against the two men under the NDPS Act. [@1]
+Police registered a case against the two men under the NDPS Act. [@1,2]
 
+Police valued the ganja seized in Datia at about 25,000 rupees. [@3]
