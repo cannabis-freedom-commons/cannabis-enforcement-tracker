@@ -35,3 +35,18 @@ test('mixed providers keep separate plan ratios when aggregating multiple bucket
  assert(Math.abs(totals.planCost-(runCost(old)/18+0.6/15+0.24/15))<1e-12);
  assert.equal(summarizeAIUsage([muse],null).totals.planCost,0.02);
 });
+
+test('efficiency per model splits cost and time by outcome', async () => {
+  const { summarizeEfficiency, formatDuration, modelParts } = await import('../src/lib/ai-usage.js');
+  const b = (category, runs, cost, timed, seconds) => ({ model: 'xai/grok-4.7#low', category, runs, running: 0, input_tokens: 0, output_tokens: 0, reasoning_tokens: 0, cache_read_tokens: 0, cache_write_tokens: 0, cost_usd: cost, timed, duration_seconds: seconds, started_at: 1 });
+  const [m] = summarizeEfficiency([b('new', 4, 0.8, 4, 400), b('update', 2, 0.2, 2, 100), b('out_of_scope', 1, 0.05, 1, 20), b('unfinished', 1, 0.15, 0, 0)],
+    [{ model: 'xai/grok-4.7#low', category: 'new', runs: 4, median_seconds: 90, p90_seconds: 160 }]);
+  assert.equal(m.outcomes.new.avgCost, 0.2);
+  assert.equal(m.outcomes.new.avgSeconds, 100);
+  assert.equal(m.outcomes.new.median, 90);
+  assert.equal(m.outcomes.update.avgCost, 0.1);
+  assert.equal(m.perNew, (0.8 + 0.2 + 0.05 + 0.15) / 4);
+  assert.deepEqual([m.provider, m.name, m.effort], ['xai', 'grok-4.7', 'low']);
+  assert.deepEqual(modelParts('m'), { provider: '', name: 'm', effort: '' });
+  assert.deepEqual([formatDuration(45), formatDuration(200), formatDuration(3900)], ['45 s', '3 min 20 s', '1 h 5 min']);
+});

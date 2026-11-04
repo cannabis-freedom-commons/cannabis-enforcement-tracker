@@ -1,5 +1,5 @@
 // The Statistics page's hover and focus tooltip: any element with data-tip inside a [data-chart]
-// shows its title, total and rows ([colour, label, value]) in the timeline tooltip's style.
+// shows its title, total and rows ([colour, label, value: a number, or text shown as it is]) in the timeline tooltip's style.
 const tip = document.createElement("div");
 tip.className = "report-timeline-tooltip";
 tip.setAttribute("role", "tooltip");
@@ -18,7 +18,7 @@ function show(target) {
   for (const [color, label, value] of data.rows || []) {
     const row = el("div", "", "timeline-tooltip-row"), dot = el("i");
     if (color) dot.style.background = color;
-    row.append(dot, el("span", label), el("b", Number(value).toLocaleString("en-GB")));
+    row.append(dot, el("span", label), el("b", typeof value === "number" ? value.toLocaleString("en-GB") : String(value)));
     tip.append(row);
   }
   tip.hidden = false;

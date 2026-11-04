@@ -1,4 +1,4 @@
-import { summarizeAIUsage } from '../lib/ai-usage.js';
+import { summarizeAIUsage, summarizeEfficiency, OUTCOMES, formatDuration } from '../lib/ai-usage.js';
 import { formatUSD, modelPlan } from '../lib/model-cost.js';
 import { watchSubmissionUpdates } from '../lib/ai-activity.js';
 
@@ -43,6 +43,7 @@ function initialize(root) {
       root.querySelector('[data-plan-cost]').hidden = !hasPlan;
       $('ai-stats-status').textContent = `${rows.length ? 'Updated' : 'No research runs recorded for this period. Updated'} ${new Date(data.updated_at * 1000).toLocaleTimeString()}.`;
       $('ai-stats-note').textContent = `${fmt(totals.cached)} cached input tokens · ${fmt(totals.reasoning)} reasoning output tokens. Costs use OpenCode telemetry where available, otherwise the configured model pricing, including peak/off-peak start time where applicable. These are usage estimates, separate from budget reservations.${hasPlan ? ' Plan share uses the model’s plan multiplier, or the configured subscription price and allowance; it is not an additional bill.' : ''}${totals.unpriced ? ` Cost unavailable for ${fmt(totals.unpriced)} ${totals.unpriced === 1 ? "run" : "runs"}; those runs are excluded from cost totals.` : ''} Startup connectivity probes are excluded. Running and interrupted runs may have incomplete telemetry.`;
+      drawEfficiency(summarizeEfficiency(data.usage, data.durations ?? [], data.plan));
       $('ai-stats-content').hidden = false;
     } catch {
       if (selected === period.value) $('ai-stats-status').textContent = 'AI usage is unavailable. Start or update the backend; this page retries automatically.';
@@ -50,6 +51,57 @@ function initialize(root) {
       busy = false;
       if (pending) { pending = false; refresh(); }
     }
+  }
+  // per model, what a new report, an update and an out-of-scope submission cost and take
+  const COLORS = { new: '#6cb0f5', update: '#8fd18a', out_of_scope: '#c9a35a' };
+  const MIN_RUNS = 3;
+  const label = (m) => { const el = node('span', '', 'eff-label'); el.append(node('span', m.name), node('small', [m.provider, m.effort].filter(Boolean).join(' · ') || ' ')); el.title = m.model; return el; };
+  const tip = (title, total, rows) => JSON.stringify({ t: title, s: total, rows });
+  function panel(key, title, help, rows, value, text, extra) {
+    const box = node('div', '', 'eff-panel');
+    const h = node('h4', ''); const dot = node('i', ''); dot.style.setProperty('--c', COLORS[key]); h.append(dot, title);
+    box.append(h, node('p', help));
+    const list = rows.filter((m) => (m.outcomes[key]?.runs ?? 0) >= MIN_RUNS && value(m) != null).sort((a, b) => value(a) - value(b));
+    if (!list.length) { box.append(node('p', 'Not enough runs yet.', 'eff-empty')); return box; }
+    const max = Math.max(...list.map((m) => extra?.(m) ?? value(m))) || 1;
+    const ol = node('ol', '', 'eff-bars');
+    list.forEach((m, i) => {
+      const o = m.outcomes[key], li = node('li', '');
+      if (i === 0 && list.length > 1) li.className = 'eff-best';
+      li.tabIndex = 0;
+      li.style.setProperty('--c', COLORS[key]);
+      li.dataset.tip = tip(`${m.name} · ${title}`, `${fmt(o.runs)} runs${m.provider ? ` via ${m.provider}` : ''}${m.effort ? `, ${m.effort}` : ''}`, [
+        ['', 'Average cost', o.avgCost == null ? '—' : money(o.avgCost)], ['', 'Average time', formatDuration(o.avgSeconds)],
+        ['', 'Median time', formatDuration(o.median)], ['', 'Slowest tenth from', formatDuration(o.p90)]]);
+      const track = node('span', '', 'eff-track'), bar = node('i', '');
+      bar.style.width = `${(value(m) / max) * 100}%`;
+      track.append(bar);
+      if (extra?.(m) != null) { const tick = node('b', ''); tick.style.left = `${(extra(m) / max) * 100}%`; track.append(tick); }
+      li.append(label(m), node('span', text(m), 'eff-num'), track);
+      ol.append(li);
+    });
+    box.append(ol);
+    return box;
+  }
+  function drawEfficiency(models) {
+    const box = $('ai-efficiency');
+    box.hidden = !models.some((m) => OUTCOMES.some(([k]) => (m.outcomes[k]?.runs ?? 0) >= MIN_RUNS));
+    if (box.hidden) return;
+    $('ai-eff-cost').replaceChildren(...OUTCOMES.map(([key, title, help]) => panel(key, title, help, models, (m) => m.outcomes[key]?.avgCost, (m) => money(m.outcomes[key].avgCost))));
+    $('ai-eff-time').replaceChildren(...OUTCOMES.map(([key, title, help]) => panel(key, title, help, models, (m) => m.outcomes[key]?.median, (m) => formatDuration(m.outcomes[key].median), (m) => m.outcomes[key]?.p90)));
+    const cell = (o) => {
+      const td = node('td', o?.runs ? (o.avgCost == null ? '—' : money(o.avgCost)) : '–', 'num');
+      if (o?.runs) td.append(node('small', `${fmt(o.runs)} · ${formatDuration(o.median ?? o.avgSeconds)}`));
+      return td;
+    };
+    $('ai-eff-rows').replaceChildren(...models.map((m) => {
+      const tr = document.createElement('tr'), name = node('td', m.name);
+      name.append(node('small', [m.provider, m.effort].filter(Boolean).join(' · ')));
+      tr.append(name, node('td', fmt(m.runs), 'num'), node('td', m.perNew == null ? '—' : money(m.perNew), 'num'),
+        cell(m.outcomes.new), cell(m.outcomes.update), cell(m.outcomes.out_of_scope), cell(m.outcomes.unfinished));
+      return tr;
+    }));
+    $('ai-eff-note').textContent = 'Each cell: average cost per run, then runs · median time. "All in" divides everything the model ran, failed and rejected runs included, by the new reports it wrote. Duplicates, too little evidence and reviews are counted in the runs but not shown apart. Costs are API prices or estimates from tokens, as above.';
   }
   period.addEventListener('change', () => { $('ai-stats-content').hidden = true; $('ai-stats-status').textContent = 'Loading AI usage…'; refresh(); });
   watchSubmissionUpdates(api, refresh);

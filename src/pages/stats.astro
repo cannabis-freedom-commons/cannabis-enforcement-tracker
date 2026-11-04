@@ -262,6 +262,20 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
         <tbody id="ai-stats-models"></tbody>
       </table></div>
       <p class="muted" id="ai-stats-note"></p>
+      <div id="ai-efficiency" class="ai-efficiency" data-chart hidden>
+        <h3>What each kind of work costs</h3>
+        <p class="muted">The average cost of one research run by what it ended with, per provider and model (with its reasoning setting). Models with fewer than 3 runs of a kind, or without a known price, are left out of that chart.</p>
+        <div class="eff-panels" id="ai-eff-cost"></div>
+        <h3>How long it takes</h3>
+        <p class="muted">The median run from start to finish; the tick marks the slowest tenth (90th percentile).</p>
+        <div class="eff-panels" id="ai-eff-time"></div>
+        <h3>Side by side</h3>
+        <div class="table-wrap"><table class="table eff-table">
+          <thead><tr><th scope="col">Model</th><th scope="col" class="num">Runs</th><th scope="col" class="num" title="Every run's cost, failures and rejections included, for each new report">Cost per new report, all in</th><th scope="col" class="num">New report</th><th scope="col" class="num">Update</th><th scope="col" class="num">Outside scope</th><th scope="col" class="num">Failed or unfinished</th></tr></thead>
+          <tbody id="ai-eff-rows"></tbody>
+        </table></div>
+        <p class="muted" id="ai-eff-note"></p>
+      </div>
     </div>
     <noscript><p>Enable JavaScript to load recorded AI usage.</p></noscript>
   </section>
@@ -431,6 +445,31 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
   .source-domain-link span { overflow-wrap: anywhere; }
 </style>
 <style is:global>
+  /* the AI efficiency charts, drawn by scripts/ai-stats.js (so not scoped to this page's markup) */
+  .ai-efficiency h3 { margin: 30px 0 4px; font: 600 14px/1.4 Inter, system-ui, sans-serif; }
+  .ai-efficiency > p.muted { margin: 0 0 12px; font-size: 13px; }
+  .eff-panels { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+  @media (max-width: 860px) { .eff-panels { grid-template-columns: minmax(0, 1fr); } }
+  .eff-panel { padding: 14px 16px 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; min-width: 0; }
+  .eff-panel h4 { display: flex; align-items: center; gap: 8px; margin: 0 0 2px; font: 600 13.5px Inter, system-ui, sans-serif; }
+  .eff-panel h4 i { width: 9px; height: 9px; border-radius: 2px; background: var(--c); }
+  .eff-panel > p { margin: 0 0 8px; font-size: 12px; color: var(--muted); }
+  .eff-bars { list-style: none; margin: 0; padding: 0; }
+  .eff-bars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "label num" "bar bar"; gap: 3px 10px; padding: 5px 0; font-size: 13px; cursor: default; }
+  .eff-bars li:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+  .eff-label { grid-area: label; display: flex; flex-direction: column; min-width: 0; }
+  .eff-label span, .eff-label small { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .eff-label small { color: var(--muted); font: 11px var(--mono); }
+  .eff-num { align-self: start; }
+  .eff-num { grid-area: num; font: 12.5px var(--mono); font-variant-numeric: tabular-nums; color: var(--text-2); white-space: nowrap; }
+  .eff-track { grid-area: bar; position: relative; height: 8px; background: var(--surface-2); border-radius: 3px; }
+  .eff-track i { display: block; height: 100%; min-width: 2px; border-radius: 3px; background: var(--c); }
+  .eff-track b { position: absolute; top: -3px; bottom: -3px; width: 2px; margin-left: -1px; border-radius: 1px; background: var(--text-2); }
+  .eff-best .eff-num { color: var(--text); font-weight: 600; }
+  .eff-empty { margin: 6px 0; font-size: 12.5px; color: var(--muted); }
+  .eff-table td small { display: block; color: var(--muted); font: 11px var(--mono); }
+  .eff-table td.num small { font-size: 10.5px; white-space: nowrap; }
+  .eff-table td.num { white-space: nowrap; }
   /* column charts, shared with components/stats/BandChart.astro */
   .chart-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
   @media (max-width: 760px) { .chart-pair { grid-template-columns: 1fr; } }
