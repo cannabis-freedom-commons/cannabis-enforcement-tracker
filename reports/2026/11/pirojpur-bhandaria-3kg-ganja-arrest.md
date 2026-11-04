@@ -30,28 +30,33 @@ sources:
     publisher: Agrajatra Pratidin
     date: 2026-11-04
     language: bn
+  - title: পিরোজপুরে ৩ কেজি গাঁজাসহ মাদক কারবারি গ্রেফতার
+    url: https://dhakamail.com/country/340957
+    publisher: Dhaka Mail
+    date: 2026-11-04
+    language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - No court outcome was reported; proceedings under the Narcotics Control Act were described only as under way, with no charge, custody or sentence stated.
   - No street value, laboratory weight or additional suspects were reported for this seizure.
+  - The new source transliterates the surname as Howlader where the existing report uses Hawlader; both spellings refer to the same 35-year-old detained man.
 ---
 
 Pirojpur district Detective Branch (DB) police arrested 35-year-old Md Sohel
-Hawlader in a special operation in Bhandaria. [@1] Officers seized 3 kg of ganja
+Hawlader in a special operation in Bhandaria. [@1,2] Officers seized 3 kg of ganja
 from Hawlader during the operation and took him into custody at the scene. [@1]
 The arrest took place at about 5 pm on Wednesday, 4 November, on the paved road
 in front of Babul Subedar's building gate in Dakshin Bhandaria Muslimpara, Ward
-7 of Bhandaria Municipality. [@1] Hawlader, described by police as a drug
+7 of Bhandaria Municipality. [@1,2] Hawlader, described by police as a drug
 dealer, is a resident of Ward 8 of Bhandaria Municipality. [@1]
 
 A DB team led by Sub-Inspector Palash Biswas conducted the operation on the
-basis of secret information. [@1] The team acted under the overall direction of
+basis of secret information. [@1,2] The team acted under the overall direction of
 Superintendent of Police Muhammad Talebur Rahman. [@1] Officers caught Hawlader
 red-handed with the 3 kg of ganja while he was positioned at the spot with the
-intent to sell drugs. [@1]
+intent to sell drugs. [@1,2]
 
 Police said legal proceedings against the arrested man under the Narcotics
-Control Act were under way at the time of the report. [@1] District police said
+Control Act were under way at the time of the report. [@1,2] District police said
 such operations would continue in implementation of its zero-tolerance policy
 against drugs. [@1]
-
