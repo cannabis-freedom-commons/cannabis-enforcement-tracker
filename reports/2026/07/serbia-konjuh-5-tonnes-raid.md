@@ -25,6 +25,11 @@ media:
     media_url: https://balkaninsight.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-151830-1536x862.png
     publisher: Balkan Insight
     caption: 'A box with marijuana seized by police in the village of Konjuh on January 29, 2026. Photo: Instagram/mupsrbije.'
+  - kind: photo
+    url: https://balkaninsight.com/2026/08/26/plea-deals-reveal-logistics-of-smuggling-macedonian-marijuana-into-serbia/bi/
+    media_url: https://balkaninsight.com/wp-content/uploads/2026/08/Konjuh-marijuana-Photo-by-Interior-Ministry-of-Serbia.jpg
+    publisher: Balkan Insight
+    caption: 'Police photos of the five tonnes of marijuana seized in Konjuh. Photo: Serbian Interior Ministry.'
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [krusevac, record]
@@ -35,6 +40,9 @@ open_questions:
   - The indictment was reported as filed on Tuesday and announced on Wednesday, July 22, 2026, so whether the filing date was July 21 or July 22 is unclear.
   - No trial date, plea or verdict for the six indicted suspects was reported, and Serbia's extradition request for the suspect arrested in Austria was still pending.
   - Proceedings in North Macedonia were reported as ongoing, with no outcome given.
+  - The plea-deal total of eight tons and 40 kilograms across five transports exceeds the nearly five tonnes seized in Konjuh, leaving the disposition of the remainder unexplained.
+  - The January shipment is dated as crossing shortly after midnight and catching fire near Novi Sad, while the second account dates the last transport to January 13, leaving the exact January chronology unclear.
+  - Whether the reported 100 kgs sent to Belgrade is included in the more than 4.9 tonnes found in Konjuh was not specified.
 sources:
   - title: Serbian police seizes five tons of cannabis, assault rifles
     url: https://srnnews.com/serbian-police-seizes-five-tons-of-cannabis-assault-rifles/
@@ -56,11 +64,19 @@ sources:
     url: https://vreme.com/en/drustvo/konjuh-pet-tona-marihuane-tok-optuznica/
     publisher: Vreme
     date: 2026-07-22
+  - title: Plea Deals Reveal Logistics of Smuggling Macedonian Marijuana into Serbia
+    url: https://balkaninsight.com/2026/08/26/plea-deals-reveal-logistics-of-smuggling-macedonian-marijuana-into-serbia/bi/
+    publisher: Balkan Insight
+    date: 2026-08-26
+  - title: 'Telma TV: More than eight tons of marijuana transported from North Macedonia to Serbia'
+    url: https://en.vijesti.me/world-a/balkan/822734/Telma-TV-More-than-eight-tons-of-marijuana-transported-from-North-Macedonia-to-Serbia
+    publisher: Vijesti
+    date: 2026-08-19
 ---
 
 Serbian police seized five tons of marijuana, the biggest such catch in the
 country so far, after raiding a small agricultural and trade company in the
-village of Konjuh in central Serbia on Thursday, January 29, 2026. [@1,3][@2]
+village of Konjuh in central Serbia on Thursday, January 29, 2026. [@1,3,5][@2]
 
 Interior Minister Ivica Dacic said late Thursday that two people had been
 arrested while one suspect remained at large. [@1] Police also seized four
@@ -69,4 +85,6 @@ assault rifles and an anti-tank rocket launcher in the raid. [@1,3][@2]
 Dacic called it a record catch and said the investigation would ascertain
 the origin of the cannabis. [@1]
 
-Serbia's Public Prosecutor's Office for Organised Crime filed an indictment against six alleged members of an organised crime group for producing and trafficking drugs in Serbia and North Macedonia during 2025 until January 29, 2026. [@3] The indictment names Aleksandar Mijajlovic as organiser, Ivan Dragnic as co-organiser, and Nebojsa Spasojevic, Rade Spasojevic, Uros Mladenovski and Robert Zivkovic as members of the group. [@3] The group is suspected of transporting nearly five tonnes of marijuana from North Macedonia to Serbia and storing it in residential and commercial premises used by Nebojsa and Rade Spasojevic in Konjuh, near Krusevac, where it was repackaged for distribution to end-buyers. [@3] The suspects allegedly misused the Skopje-based Alfapharm Group, which held North Macedonian permits to cultivate cannabis and produce cannabis extracts for medical purposes, to conceal procurement, storage, repackaging and transportation of large quantities of marijuana. [@3] In November 2025 the group allegedly organised procurement of 8,832 kilograms of dried cannabis flower from the supplier CBD Med Plant from Strumica, North Macedonia. [@3] The drugs were stored at Alfapharm Group premises, weighed, repackaged and prepared for transportation, using documentation relating to textile-goods export to conceal the cargo in international transport. [@3] Robert Zivkovic allegedly managed drug storage, supervised packaging, organised transport and oversaw unloading and storage in Serbia, while Nebojsa and Rade Spasojevic received, stored, repackaged and arranged onward transport. [@3] On January 24, 2026, Uroš Mladenovski took about 100 kilograms of marijuana from Spasojević's warehouse and transported it to the territory of New Belgrade, where he was arrested. [@4] Dragnic, Nebojsa and Rade Spasojevic and Mladenovski are in detention, while Zivkovic is a fugitive subject to a detention order and domestic and international arrest warrants. [@3] Aleksandar Mihailovic was arrested in Austria on July 1 and a Serbian extradition request is pending. [@3] Proceedings are also being conducted before North Macedonia's authorities, with Serbia and North Macedonia continuing to cooperate and exchange information through international legal assistance. [@3]
+Serbia's Public Prosecutor's Office for Organised Crime filed an indictment against six alleged members of an organised crime group for producing and trafficking drugs in Serbia and North Macedonia during 2025 until January 29, 2026. [@3] The indictment names Aleksandar Mijajlovic as organiser, Ivan Dragnic as co-organiser, and Nebojsa Spasojevic, Rade Spasojevic, Uros Mladenovski and Robert Zivkovic as members of the group. [@3] The group is suspected of transporting nearly five tonnes of marijuana from North Macedonia to Serbia and storing it in residential and commercial premises used by Nebojsa and Rade Spasojevic in Konjuh, near Krusevac, where it was repackaged for distribution to end-buyers. [@3] The suspects allegedly misused the Skopje-based Alfapharm Group, which held North Macedonian permits to cultivate cannabis and produce cannabis extracts for medical purposes, to conceal procurement, storage, repackaging and transportation of large quantities of marijuana. [@3] In November 2025 the group allegedly organised procurement of 8,832 kilograms of dried cannabis flower from the supplier CBD Med Plant from Strumica, North Macedonia. [@3,5] The drugs were stored at Alfapharm Group premises, weighed, repackaged and prepared for transportation, using documentation relating to textile-goods export to conceal the cargo in international transport. [@3] Robert Zivkovic allegedly managed drug storage, supervised packaging, organised transport and oversaw unloading and storage in Serbia, while Nebojsa and Rade Spasojevic received, stored, repackaged and arranged onward transport. [@3] On January 24, 2026, Uroš Mladenovski took about 100 kilograms of marijuana from Spasojević's warehouse and transported it to the territory of New Belgrade, where he was arrested. [@4] Dragnic, Nebojsa and Rade Spasojevic and Mladenovski are in detention, while Zivkovic is a fugitive subject to a detention order and domestic and international arrest warrants. [@3] Aleksandar Mihailovic was arrested in Austria on July 1 and a Serbian extradition request is pending. [@3] Proceedings are also being conducted before North Macedonia's authorities, with Serbia and North Macedonia continuing to cooperate and exchange information through international legal assistance. [@3]
+
+On August 10, the Basic Criminal Court in Skopje sentenced Dragan Stojanov to three and a half years and Aleksandar Ivanovski to three years and eight months imprisonment. [@5] Ivanovski admitted when he signed his plea deal that he set the truck on fire. [@5] The two plea agreements describe five marijuana transports totalling eight tons and 40 kilograms. [@6] Upon pleading guilty, the two men were ordered to pay court costs but their criminal proceeds were not confiscated. [@6]
