@@ -55,6 +55,11 @@ sources:
     publisher: OKDIARIO
     date: 2026-11-04
     language: es
+  - title: Tres detenidos por traficar con marihuana y hachís a cambio del botín de seis robos
+    url: https://www.abc.es/espana/comunidad-valenciana/alicante/tres-detenidos-traficar-marihuana-hachis-cambio-botin-20261104134709-nt.html
+    publisher: ABC
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the arrests and searches; 4 November 2026 is its publication date and is used as the incident date.
   - The exact streets or locations of the two searched homes were not published.
@@ -62,28 +67,29 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish.
   - No cannabis-only valuation or laboratory analysis was published.
   - The new account gives the detainees' ages as 46, 50 and 44, while the existing report describes them as aged 43 to 50.
+  - The ABC page carries an image captioned only '(ABC)' which does not establish that it shows this operation, so no media entry is included.
 ---
 
 National Police detained three people in Orihuela, a woman and two men aged 43
-to 50, for alleged drug trafficking and receiving stolen goods. [@1,2,3] The
-operation dismantled two drug sale points. [@1,2,3,4] After identifying the three
+to 50, for alleged drug trafficking and receiving stolen goods. [@1,2,3,5] The
+operation dismantled two drug sale points. [@1,2,3,4,5] After identifying the three
 occupants and obtaining judicial authorisation, officers searched both homes.
 [@1] The three detainees were placed at the disposal of the duty investigating
-court in Orihuela. [@1,2,3,4]
+court in Orihuela. [@1,2,3,4,5]
 
 Searches in both homes seized 44 grams of hashish and 45 grams of marijuana.
-[@1,2,3,4] Officers also seized tools for handling, measuring and distributing the
+[@1,2,3,4,5] Officers also seized tools for handling, measuring and distributing the
 substances. [@1,3,4] Officers also found nine mobile phones, 14 watches, 12 drills,
 machinery including sanders, radial saws, blowers and cement mixers, plus a
 bicycle and three scooters. [@1,2,3,4]
 
 Judicial Police in Orihuela opened the inquiry after learning of two homes
-suspected of distributing mainly hashish and marijuana. [@1,2] During surveillance
+suspected of distributing mainly hashish and marijuana. [@1,2,5] During surveillance
 officers saw heavy visitor traffic at both homes and found some people leaving
 carrying substances they had apparently just bought. [@1,4] Investigators found
 the suspects allegedly accepted valuable stolen objects in exchange for drugs.
 [@1,3,4] Police linked the seized objects so far to six burglaries with force
-committed in Orihuela. [@1,2,3,4] Victims were notified and were able to recover their
+committed in Orihuela. [@1,2,3,4,5] Victims were notified and were able to recover their
 belongings according to police information. [@1] The investigation continues to
 establish the origin of the remaining items and clarify any other possible
 offences. [@1,4]
