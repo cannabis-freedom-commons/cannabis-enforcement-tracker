@@ -47,6 +47,11 @@ sources:
     publisher: Portal WRC
     date: 2026-11-03
     language: pl
+  - title: Konopie w szklarni i w domu, wcześniejsze zbiory już suszył. 42-latek trafił do aresztu
+    url: https://www.kryminalki.pl/artykul/36619,konopie-w-szklarni-i-w-domu-wczesniejsze-zbiory-juz-suszyl-42-latek-trafil-do-aresztu
+    publisher: kryminalki.pl
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The village or town of the residence was not named, only Wagrowiec County, so district-centre coordinates are used.
   - The marijuana weight was reported as nearly 623 grams, not confirmed as an exact laboratory weight.
@@ -56,18 +61,18 @@ open_questions:
 ---
 
 Chodziez criminal police acted early in the morning on 28 October and reached
-the home of a 42-year-old Wagrowiec County resident. [@1,3] Officers detained the
-42-year-old man at the residence during the search. [@1,3] He was charged with
+the home of a 42-year-old Wagrowiec County resident. [@1,3,4] Officers detained the
+42-year-old man at the residence during the search. [@1,3,4] He was charged with
 possessing a significant quantity of narcotics and illegally cultivating
-cannabis. [@1,3] A court ordered three months of pretrial detention for the
-suspect, who faces up to 10 years in prison. [@1,3]
+cannabis. [@1,3,4] A court ordered three months of pretrial detention for the
+suspect, who faces up to 10 years in prison. [@1,3,4]
 
 Officers found non-fibre cannabis, the Polish legal term for cannabis other than
 fibre hemp, growing both in the garden greenhouse and in the rooms of the
-residential building. [@2,3] Officers seized 26 cannabis bushes at the property.
-[@1,3] Officers established that the man had dried previously harvested bushes and
-processed them into marijuana portions. [@2,3] Officers also seized nearly 623
-grams of marijuana. [@2,3]
+residential building. [@2,3,4] Officers seized 26 cannabis bushes at the property.
+[@1,3,4] Officers established that the man had dried previously harvested bushes and
+processed them into marijuana portions. [@2,3,4] Officers also seized nearly 623
+grams of marijuana. [@2,3,4]
 
 Police photographs document the cannabis bushes found inside the greenhouse.
 [@2] Police photographs also show the harvested marijuana stored in jars at the
