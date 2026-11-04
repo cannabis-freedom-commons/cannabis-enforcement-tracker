@@ -38,11 +38,21 @@ sources:
     url: https://www.cannabisculture.com/content/2002/07/31/2564/
     archived: https://web.archive.org/web/20181026140647/https://www.cannabisculture.com/content/2002/07/31/2564/
     date: 2002-07-31
+  - title: Cannabis cafe man in court
+    publisher: Manchester Evening News (via 420 Magazine)
+    url: https://www.420magazine.com/community/threads/cannabis-cafe-man-in-court.5129/
+    date: 2001-11-22
+  - title: Owner 'dealt in cannabis at his cafe'
+    publisher: Manchester Evening News (via 420 Magazine)
+    url: https://www.420magazine.com/community/threads/owner-dealt-in-cannabis-at-his-cafe.5138/
+    date: 2001-11-23
 ---
 
 Colin Davies, 44, opened the Dutch Experience cafe in Stockport in September 2001 as Britain's first Amsterdam-style cannabis cafe, saying it served seriously ill people who used cannabis for conditions such as multiple sclerosis and arthritis. [@1,2] Police raided it within minutes of opening and arrested Davies after he smoked a joint, and officers kept raiding the premises in the months that followed. [@1,2,3]
 
-Customs officers seized cannabis worth £18,000 at Dover and 430 ready-made joints sent to addresses linked to Davies, and prosecutors said £3,000 in cash found at his flat came from drug sales. [@1] A Manchester jury found him guilty on eight charges covering possession with intent to supply, supply and importation of cannabis, and perjury. [@1,2]
+Customs officers seized cannabis worth £18,000 at Dover and 430 ready-made joints sent to addresses linked to Davies, and prosecutors said £3,000 in cash found at his flat came from drug sales. [@1]
+
+On 20 November 2001 police raided the cafe again; Davies was arrested while being interviewed by a BBC television crew, nine other people in the cafe were cautioned, and Phillip Rainford and Stephen Caveney were charged over permitting the premises to be used and offering to supply. [@4] At a remand hearing on 23 November, prosecutors said a kilo of cannabis had been seized being weighed for resale with scales and £10 bags worth up to £3,000, and that Davies faced importation charges including a kilo of resin hidden in a video-cassette box seized by customs officers. [@5] Davies was remanded in custody until 29 November while three co-accused were released on conditional bail. [@5] A Manchester jury found him guilty on eight charges covering possession with intent to supply, supply and importation of cannabis, and perjury. [@1,2]
 
 ## Sentence and same-day raid
 

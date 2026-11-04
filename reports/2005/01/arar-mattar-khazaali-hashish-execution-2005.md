@@ -23,7 +23,7 @@ tags: [beheading, hashish, drug-trafficking]
 open_questions:
   - The quantity of hashish smuggled was not stated in the opened source.
   - No detail of the trial or court that convicted him was reported in the opened source.
-  - The same announcement reports Qaied bin Kamal al-Zayadi, an Iraqi beheaded in Arar on 22 December 2004 for hashish, a separate event left out here.
+  - Qaied bin Kamal al-Zayadi, an Iraqi beheaded in Arar on 22 December 2004 for hashish, now has his own report (arar-qaied-zayadi-hashish-execution-2004).
   - The Pakistani executed the same day in Jeddah was convicted of heroin smuggling, not cannabis, and is mentioned only to explain the announcement.
   - Only one accessible newsroom account of the Interior Ministry statement was found; reprints of the same wire were restricted or unavailable.
   - No photograph of the event with a recoverable direct image address was found in the opened source.
