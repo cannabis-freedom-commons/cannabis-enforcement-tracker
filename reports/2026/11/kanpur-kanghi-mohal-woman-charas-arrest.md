@@ -62,6 +62,10 @@ sources:
     publisher: News18 Hindi
     date: 2026-11-04
     language: hi
+  - title: 'Drug smuggler''s girlfriend arrested with ₹1.50 crore ''charas'': Ran illegal trade from tea stall in Kanpur while boyfriend was in jail - Uttar Pradesh News'
+    url: https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-woman-arrested-drug-smuggling-tea-stall-charas-seized-139588925.html
+    publisher: Bhaskar English
+    date: 2026-11-04
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -88,7 +92,7 @@ Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
 late-night tip. [@1,2]
 
 Police put the international-market value of the seized charas at about Rs 1.5
-crore. [@1,2,3,4] Officers said they had been receiving information for several days
+crore. [@1,2,3,4,5] Officers said they had been receiving information for several days
 that charas was being sold in Kanghi Mohal. [@1,3] The roadside detention and
 search caused alarm among people nearby. [@1]
 
@@ -100,6 +104,6 @@ Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4]
 Besides selling, she also smuggled charas, police said. [@1] Women police were
 questioning her to trace her associates. [@1,3]
 
-The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3] The shop allegedly operated as a front for selling both charas and ganja. [@3] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3]
+The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
 
 Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
