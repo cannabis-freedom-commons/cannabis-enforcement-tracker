@@ -39,6 +39,11 @@ sources:
     publisher: El Observador
     date: 2026-11-03
     language: es
+  - title: Carabineros incautó 151 kilos de marihuana en operativo antidrogas en sector de Longotoma
+    url: https://www.tuopinas.cl/2026/11/03/carabineros-incauto-151-kilos-de-marihuana-en-operativo-antidrogas-en-sector-de-longotoma/
+    publisher: TUOPINAS.CL
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give only their publication date of 3 November 2026 and no separate date for the operation, so the report uses the publication date as the incident date
   - No charges, court hearing or other judicial outcome were reported
@@ -51,6 +56,8 @@ open_questions:
   - The nearly 1 million pesos in cash and the prior police records mentioned in the existing report are not mentioned in this source.
   - The page displays three images captioned with the seizure but without credit establishing they show this seizure or are not duplicates of the existing agency handout, so no media entry is added.
   - No charges, detention-control result or other court outcome beyond pending control and formalization were reported.
+  - The TuOpinas page image carries no caption or credit establishing that it shows this seizure, so no photo entry is added.
+  - The TuOpinas page embeds a video file without a caption or description establishing that it shows this operation, so no video entry is added.
 media:
   - kind: photo
     url: https://www.panoramanoticioso.cl/incautan-151-kilos-de-marihuana-en-longotoma-de-la-ligua/
@@ -61,16 +68,16 @@ media:
 
 Carabineros detained five adults, all with police records, in an anti-drug
 operation at kilometre 163 of Route 5 Norte at Longotoma in the commune of La
-Ligua. [@1,2,3,4] Officers seized 151 kilos of processed marijuana in the operation.
-[@1,3,4] Officers acting on intelligence work intercepted a pickup truck carrying
-the drugs and driven by one of the detainees. [@1,2,3] In follow-up steps, officers
+Ligua. [@1,2,3,4,5] Officers seized 151 kilos of processed marijuana in the operation.
+[@1,3,4,5] Officers acting on intelligence work intercepted a pickup truck carrying
+the drugs and driven by one of the detainees. [@1,2,3,5] In follow-up steps, officers
 detained four other people travelling in two vehicles who allegedly provided
 surveillance to facilitate the drug transfer, and seized nearly 1 million pesos
-in cash. [@1,2,3,4]
+in cash. [@1,2,3,4,5]
 
 The operation was led by the OS7 section, in coordination with the Los Andes
 Prosecutor's Office and with support from the Centauro Squadron of the Aconcagua
-Prefecture. [@1,2,3,4] Petorca provincial presidential delegate Andrés Soza said drug
+Prefecture. [@1,2,3,4,5] Petorca provincial presidential delegate Andrés Soza said drug
 seizures on the province's routes had increased during 2026 thanks to
 intelligence work and police work, and said the government backed the work to
 break up gangs affecting residents' quality of life. [@1,3]
