@@ -32,6 +32,11 @@ sources:
     publisher: memorandum.co.id
     date: 2026-11-03
     language: id
+  - title: Melibatkan WNA Asal Cina, Empat Tersangka Kasus 3,37 Ton Kuncup Ganja Cerme Bersiap Jalani Sidang
+    url: https://radargresik.jawapos.com/amp/hukum-dan-kriminal/2611030010/melibatkan-wna-asal-cina-empat-tersangka-kasus-337-ton-kuncup-ganja-cerme-bersiap-jalani-sidang
+    publisher: Radar Gresik
+    date: 2026-11-03
+    language: id
 open_questions:
   - The identities of the 12 arrested people were not published.
   - The two foreign nationals said to control the network were not named in the opened sources.
@@ -40,6 +45,9 @@ open_questions:
   - Only one source for the transfer and trial-scheduling step could be opened.
   - The page carries two images whose captions repeat the headline and do not establish what they depict, so no media entry is listed.
   - A similar seizure in Purwakarta is mentioned without figures or dates and is left out here as a separate event.
+  - It is unclear whether the four suspects transferred for trial are a subset of the 12 people reported arrested in July 2026, since the article does not account for the remaining eight.
+  - The article calls the consignment both kuncup bunga ganja and kuncup bunga sintesis cannabinoid while its laboratory account describes natural buds for THC-oil extraction, leaving the synthetic wording unresolved.
+  - No new media entry is listed because the page's single captioned photo appears to republish the BNN seizure handout already recorded for the July seizure.
 ---
 
 ## The seizure
@@ -55,7 +63,7 @@ shipment from Tanjung Priok port bound for a Gresik warehouse. [@1,2]
 
 Officers secured four containers holding drugs hidden two ways: inside 500 suitcases
 and among cargo labelled as latex products, amounting to 3,371,400 grams gross.
-[@1,2,3] Agency head Suyudi Ariyo Seto said it was Indonesia's first seizure of cannabis
+[@1,2,3,4] Agency head Suyudi Ariyo Seto said it was Indonesia's first seizure of cannabis
 buds smuggled through official international trade channels using containers, and that
 investigation had run through customs document analysis, network mapping and
 surveillance. [@1,2] Twelve people suspected of involvement in the importation were
@@ -64,7 +72,9 @@ arrested. [@1,2]
 ## The plan
 
 The buds were to be processed into tetrahydrocannabinol extract as raw material for
-e-cigarette refill liquids. [@1,2,3] Suyudi presented the operation as part of the
+e-cigarette refill liquids. [@1,2,3,4] Suyudi presented the operation as part of the
 president's drug-eradication programme through inter-agency cooperation. [@1]
 
-The case files have been transferred to the Gresik District Court, which is now scheduling the first trial. [@3] Prosecutors said the transfer went directly to the Gresik court through the e-Berpadu integrated electronic case-file system on 3 November 2026. [@3] Those detained allegedly held different roles from drivers to other field actors, including a foreign national accused of controlling the smuggling network. [@3] The buds were allegedly smuggled by an international network disguised as imported goods through official customs, sent from Thailand via Malaysia into Indonesia. [@3]
+The case files have been transferred to the Gresik District Court, which is now scheduling the first trial. [@3,4] Prosecutors said the transfer went directly to the Gresik court through the e-Berpadu integrated electronic case-file system on 3 November 2026. [@3,4] Those detained allegedly held different roles from drivers to other field actors, including a foreign national accused of controlling the smuggling network. [@3,4] The buds were allegedly smuggled by an international network disguised as imported goods through official customs, sent from Thailand via Malaysia into Indonesia. [@3,4]
+
+Four suspects were transferred for trial, identified by initials as Chinese national WJ and Indonesians AR, BT and M. [@4] The confirming prosecutor was Kasi Pidum Kejari Gresik Uwais Deffa I Qorni. [@4]
