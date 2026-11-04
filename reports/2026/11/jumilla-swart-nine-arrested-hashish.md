@@ -1,0 +1,57 @@
+---
+code: B7X63M
+added_at: "2026-11-04T11:16:44.451249Z"
+date: 2026-11-04
+country: es
+place: Casco antiguo, Jumilla, Murcia
+coordinates: [38.4786, -1.3253]
+precision: locality
+type: arrest
+also: [raid, seizure]
+title: Nine arrested in Jumilla clan raid with 86 hashish doses seized
+summary: >-
+  Guardia Civil and Jumilla local police arrested nine members of a suspected family clan and dismantled three alleged drug sale points in Jumilla's old town. Officers seized 86 doses of hashish alongside more than 700 cocaine doses, cash and other items in Operation Swart.
+figures:
+  arrested: 9
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 336fe7de904d81e46fde3d545da3690a
+tags: [jumilla, murcia, hashish]
+sources:
+  - title: Desarticulan un clan familiar en Jumilla con nueve detenidos y más de 700 dosis de cocaína intervenidas
+    url: https://www.cartagenaactualidad.com/sucesos/desarticulan-clan-familiar-jumilla-nueve-detenidos-mas-700-dosis-cocaina-intervenidas/20261104115944230520.html
+    publisher: Cartagena Actualidad
+    date: 2026-11-04
+    language: es
+open_questions:
+  - No weight for the 86 hashish doses was published, so no kilograms can be recorded.
+  - Cocaine doses, cash, phones, jewellery, vehicle, simulated firearms and scales are mentioned only to explain the mixed case and are excluded from cannabis figures.
+  - No separate date for the searches was published; 4 November 2026 is the article publication date and is used as the incident date.
+  - No charges or court outcome were reported; the investigation remains open and the detainees are presumed innocent.
+  - Only one accessible account of this event was found after searching for a second report.
+  - The page image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
+---
+
+The Guardia Civil, working with Jumilla's Local Police, dismantled a suspected
+family clan accused of controlling three drug sale points in Jumilla's old town.
+[@1] The operation, called Swart, led to the detention of nine people, five men
+and four women. [@1] Those detained are under investigation for alleged drug
+trafficking, money laundering and membership of a criminal organisation. [@1]
+Officers carried out simultaneous searches in four homes and two industrial
+warehouses in the municipality. [@1]
+
+Officers seized 86 doses of hashish, the cannabis component recorded here. [@1]
+The same searches recovered more than 700 doses of cocaine prepared for
+distribution. [@1] Officers also seized nearly 51,000 euros in cash, along with
+mobile phones, jewellery and documents, a high-end vehicle, simulated firearms
+and precision scales and preparation materials. [@1]
+
+The investigation began about two years ago after officers detected suspicious
+drug movements in streets in Jumilla's old town in 2024. [@1] Investigators said
+sellers used a self-service system that left doses at points on building facades
+for buyers to collect while throwing payment inside. [@1] Officers also found
+the group offered a home-delivery drug service. [@1] The investigation remains
+open to establish the full scope of the group's activity. [@1] The nine
+detainees retain the presumption of innocence absent a final judicial ruling.
+[@1]
+
