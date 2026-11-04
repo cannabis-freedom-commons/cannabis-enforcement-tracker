@@ -91,6 +91,11 @@ sources:
     publisher: OKDIARIO
     date: 2026-11-04
     language: es
+  - title: Un helicóptero destapa una plantación de marihuana oculta en la ladera de una montaña en Aznalcóllar
+    url: https://www.abc.es/sevilla/provincia/helicoptero-extrae-2500-plantas-marihuana-plantacion-aznalcollar-20261104105242-nts.html
+    publisher: Diario ABC
+    date: 2026-11-04
+    language: es
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -109,15 +114,15 @@ open_questions:
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
 cannabis-growing complex in the mountains at Aznalcóllar, in Sevilla province.
-[@1,3,4,5,6,9,10] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11] The four suspects tried to
+[@1,3,4,5,6,9,10] Officers detained four people at the site. [@1,2,3,4,5,6,7,8,9,10,11,12] The four suspects tried to
 escape across the mountain when agents reached the site but were caught. [@1,2,3,4,5,6,7,10,11]
-Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11]
+Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12]
 The detainees were brought before those courts as alleged perpetrators of
-public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11] The
-investigation remains open. [@1,2,5,8,10]
+public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12] The
+investigation remains open. [@1,2,5,8,10,12]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11] Some of the plants stood
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12] Some of the plants stood
 more than two metres tall. [@1,2,3,6,7,8,10] Because vehicles could not be used, agents cut
 the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
@@ -128,10 +133,10 @@ site also had electric generators, tools and drying rooms. [@1] Officers found
 the 50 kilograms of dried buds in one drying dependency after processing. [@1]
 
 The crops were spread in several production areas over different slopes and
-linked by a network of paths built by those running the site. [@1,4] The plots lay
-far from towns on steep slopes where vehicles could not enter. [@1,5] The
+linked by a network of paths built by those running the site. [@1,4,12] The plots lay
+far from towns on steep slopes where vehicles could not enter. [@1,5,12] The
 investigation began after aerial observation spotted possible hidden
-plantations. [@1,2,4] Officers reached the site on foot over difficult paths while
+plantations. [@1,2,4,12] Officers reached the site on foot over difficult paths while
 drones watched from the air. [@1,2,10] The terrain made the site hard to locate and
 reach. [@1] Officers therefore set up a special operation to watch possible
 escape routes from the air. [@1] The complex included sleeping areas, rest areas
