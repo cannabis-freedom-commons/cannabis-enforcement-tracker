@@ -22,6 +22,11 @@ sources:
     publisher: SALZBURG24
     date: 2026-11-04
     language: de
+  - title: Polizei stellt rund 300 Gramm Cannabiskraut in Bad Hofgastein sicher
+    url: https://nachrichten.jetzt/2026/11/polizei-stellt-rund-300-gramm-cannabiskraut-in-bad-hofgastein-sicher/
+    publisher: Nachrichten.jetzt
+    date: 2026-11-04
+    language: de
 open_questions:
   - No separate calendar date for the stop is given; 3 November 2026 is inferred from Tuesday evening and yesterday evening relative to the 4 November publication.
   - The 300-gram amount is reported as approximate, not an exact laboratory weight.
@@ -33,20 +38,19 @@ open_questions:
 ---
 
 On Tuesday evening, police stopped a 39-year-old Turkish car driver in the
-municipal area of Bad Hofgastein in Pongau during a routine vehicle check. [@1]
-Officers said an intensive cannabis smell met them during the check. [@1] Police
+municipal area of Bad Hofgastein in Pongau during a routine vehicle check. [@1,2]
+Officers said an intensive cannabis smell met them during the check. [@1,2] Police
 described the case in a statement issued on Wednesday. [@1] The man remains free
-for now and was reported rather than taken into custody. [@1]
+for now and was reported rather than taken into custody. [@1,2]
 
 In the follow-up inspection after the smell was noticed, officers seized about
-300 grams of cannabis herb. [@1] Police put the seized amount at about 300
+300 grams of cannabis herb. [@1,2] Police put the seized amount at about 300
 grams, the figure recorded here as 0.3 kilograms. [@1] The driver told officers
-the drug was intended purely for his own use. [@1] After that account, the
+the drug was intended purely for his own use. [@1,2] After that account, the
 Salzburg public prosecutor's office ordered further steps in the case. [@1] On
 that order, officers seized both the cash the 39-year-old was carrying and his
-mobile telephone. [@1]
+mobile telephone. [@1,2]
 
 The control is described as a routine vehicle check in Bad Hofgastein, not a
 targeted drug operation. [@1] Bad Hofgastein lies in Pongau, the Salzburg
 district named as the location of the stop. [@1]
-
