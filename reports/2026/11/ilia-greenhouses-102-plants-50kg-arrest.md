@@ -90,6 +90,11 @@ sources:
     publisher: PatrisNews
     date: 2026-11-04
     language: el
+  - title: Προφυλακίστηκε 40χρονος για μεγάλη φυτεία κάνναβης στην Ανδραβίδα - Ilia.news
+    url: https://ilia.news/%CF%80%CF%81%CE%BF%CF%86%CF%85%CE%BB%CE%B1%CE%BA%CE%AF%CF%83%CF%84%CE%B7%CE%BA%CE%B5-40%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82-%CE%B3%CE%B9%CE%B1-%CE%BC%CE%B5%CE%B3%CE%AC%CE%BB%CE%B7-%CF%86%CF%85%CF%84/
+    publisher: Ilia.news
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1 November 2026.
   - No village or plot location was named, so coordinates are for the Ilia district centre.
@@ -109,10 +114,11 @@ open_questions:
   - The apology and remand date is inferred as 3 November 2026 from 'yesterday' relative to the 4 November 2026 publication.
   - No trial date or further court outcome was reported.
   - The page's photo caption repeats the headline with no credit, so whether it shows this seizure could not be established and no media entry is included.
+  - The page's two listed images have empty captions and one uses a 2020 file path, so whether either shows this seizure could not be established and no media entry is included.
 ---
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
-Peloponnese on Saturday while he was tending the plantation. [@1,8] The man was
+Peloponnese on Saturday while he was tending the plantation. [@1,8,14] The man was
 detained on cultivation and drug-possession charges. [@2,3,4,5,7,9,12] The arrested man is to
 be brought before the Ilia Court of First Instance prosecutor while the Ilida
 crime-investigation department continues its inquiries. [@2,3,4,8,9,11]
@@ -120,15 +126,15 @@ crime-investigation department continues its inquiries. [@2,3,4,8,9,11]
 Police say the suspect was growing 102 cannabis plants up to 2.5 meters high
 inside two greenhouses. [@1,7] Officers found 50 kilograms and 30 grams of raw
 dried cannabis and plant fragments, 102 cannabis plants and a precision scale.
-[@2,3,4,6,8,9,10,13] Police described the greenhouse growing as large-scale cultivation with a
+[@2,3,4,6,8,9,10,13,14] Police described the greenhouse growing as large-scale cultivation with a
 view to trafficking the drug. [@1] A search of an adjacent storeroom also
 revealed precision scales for measuring small quantities of the drug for retail
 sale. [@1]
 
 Officers found the accused on an agricultural plot where he cultivated
 Indian-cannabis plants in the two greenhouses and hid drug quantities and a
-scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10,12,13]
+scale in a neighbouring storeroom. [@2,3,4,5,6,7,8,9,10,12,13,14]
 
-Of the 102 cannabis plants, 21 had already been harvested. [@8,12,13]
+Of the 102 cannabis plants, 21 had already been harvested. [@8,12,13,14]
 
-The 40-year-old Greek suspect testified before the Amaliada investigating judge and was ordered provisionally detained with the agreement of the prosecution authority. [@13] The suspect is a 40-year-old Greek man arrested for cultivating a large cannabis plantation and holding significant drug quantities in the Andravida area. [@13]
+The 40-year-old Greek suspect testified before the Amaliada investigating judge and was ordered provisionally detained with the agreement of the prosecution authority. [@13,14] The suspect is a 40-year-old Greek man arrested for cultivating a large cannabis plantation and holding significant drug quantities in the Andravida area. [@13,14]
