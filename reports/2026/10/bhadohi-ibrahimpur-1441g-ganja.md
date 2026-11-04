@@ -25,6 +25,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-10-31
     language: hi
+  - title: 'भदोही: गांजा तस्करी के आरोप में दो युवक गिरफ्तार, 1.901 किलो गांजा बरामद'
+    url: https://bharatkrantinews.com/archives/12148
+    publisher: Bharat Kranti News
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article dates the arrest only to Friday; 30 October 2026 is taken from its publication in the early hours of 31 October.
   - No court date, charge sheet or plea was reported, and the account ends with the accused being sent to jail.
@@ -32,16 +37,19 @@ open_questions:
   - The article also reports a separate arrest at Gopiganj, where Chandrashekhar Saroj was held with 460 g of ganja on Thursday night; that is a different event and is left out of this report.
   - The page's only photograph shows the Bhadohi district court building under a district banner, not the seizure, so no media is listed.
   - Only one source could be found for this arrest.
+  - The submitted page gives a combined total of 1.901 kg and an estimated value of 95,000 rupees for the Gyanpur and Gopiganj seizures together, so no separate value for the 1.441 kg Ibrahimpur seizure can be recorded.
+  - The same pages report a separate Gopiganj arrest of Chandrashekhar Saroj with 460 g of ganja, which is a different event left out of this report.
+  - The Bhaskar page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said officers also recovered 220 rupees in cash and a mobile phone from Yadav.'
 ---
 
 Kotwali police in Bhadohi district, Uttar Pradesh, arrested a man named as
-Amarjeet Yadav near Ibrahimpur village on Friday 30 October 2026. [@1] The bag
-he was carrying held 1 kg 441 g of ganja, the Hindi term for cannabis. [@1]
+Amarjeet Yadav near Ibrahimpur village on Friday 30 October 2026. [@1,2] The bag
+he was carrying held 1 kg 441 g of ganja, the Hindi term for cannabis. [@1,2]
 Inspector in charge Ram Sarikh Gautam said police acted on a tip-off from an
-informer. [@1]
+informer. [@1,2]
 
 A first information report, the written complaint that opens a police case in
 India, was registered against Yadav under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act, the country's main drug law, on the complaint of
-sub-inspector Vijay Bahadur Singh. [@1] Yadav was sent to jail. [@1]
-
+sub-inspector Vijay Bahadur Singh. [@1,2] Yadav was sent to jail. [@1,2]
