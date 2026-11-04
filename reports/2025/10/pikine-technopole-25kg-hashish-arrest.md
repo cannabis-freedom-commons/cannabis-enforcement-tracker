@@ -35,11 +35,23 @@ sources:
     publisher: Le Soleil
     date: 2025-10-14
     language: fr
+  - title: 'Haschich Connection : quand le Maroc, le Sénégal et la Guinée-Bissau s’emmêlent dans un trafic tentaculaire !'
+    url: https://www.dakaractu.com/Haschich-Connection-quand-le-Maroc-le-Senegal-et-la-Guinee-Bissau-s-emmelent-dans-un-trafic-tentaculaire-_a265876.html
+    publisher: Dakaractu
+    date: 2025-10-14
+    language: fr
 open_questions:
   - Figures record the 25 kilograms seized in the 13 October Pikine-Technopole raid; the initial 6-kilogram lot found in water heaters and used for the controlled delivery is described separately and not added to the total.
   - No charges, trial dates or court outcomes were reported; the three suspects were reported in custody with the investigation continuing.
   - The full identities of the three arrested people were not published in the cited sources; only the initials B.D. for the main suspect and B.L.T. for the alleged mastermind were given.
   - No street value for the hashish was published.
+  - This account reports 85 kilograms of hashish found in water heaters in Marrakech, while the existing report records a 6-kilogram lot in water heaters from its sources; the 25-kilogram Pikine-Technopole seizure figure is unchanged.
+  - The agency acronym appears as OCRTIS in this account versus OCTRIS in the existing report; they are treated as the same agency.
+  - This account gives only the count of 250 slabs for the Pikine-Technopole seizure without a weight, so the 25-kilogram weight continues to rest on the existing sources.
+  - The milk pots are said to potentially contain other unidentified illicit substances, so no additional cannabis weight is recorded for them.
+  - The article photo caption repeats only the headline and does not establish that it shows this seizure, so no media entry is included.
+  - 'Left out, as its quotation was not found in Dakaractu: Three people were arrested in Pikine Technopole on 13 October in possession of 250 slabs of the same drug.'
+  - 'Left out, as its quotation was not found in Dakaractu: The three people arrested were identified as B. Djaby, M. Baldé and N. Preira.'
 ---
 
 Officers of Senegal's OCTRIS arrested three people in Pikine-Technopole, Dakar,
@@ -64,7 +76,8 @@ Scenic, and seized eight carefully wrapped milk pots suspected of concealing
 illicit products. [@2]
 
 The operation targeted an international hashish network running from Morocco to
-Guinea-Bissau via Senegal. [@1] It was carried out through close intelligence
+Guinea-Bissau via Senegal. [@1,3] It was carried out through close intelligence
 coordination with Moroccan authorities, who helped trace the route and identify
-members. [@1]
+members. [@1,3]
 
+The seized passports and identity cards included documents belonging to Spanish nationals. [@3] The consignment was to travel onward to Guinea-Bissau hidden in milk pots to evade customs controls. [@3] Investigators pointed to B. L. Tavarez, based in Guinea-Bissau, as the alleged mastermind of the network. [@3]
