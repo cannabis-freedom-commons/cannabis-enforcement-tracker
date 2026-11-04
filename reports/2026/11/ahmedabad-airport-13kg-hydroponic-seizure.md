@@ -143,6 +143,11 @@ sources:
     publisher: GSTV
     date: 2026-11-02
     language: gu
+  - title: બેંગકોકથી આવેલી યુવતી સહિત 2 પ્રવાસી 13 કરોડના હાઈબ્રીડ ગાંજા સાથે ઝડપાયા
+    url: https://www.abtakmedia.com/two-travelers-including-a-young-woman-arriving-from-bangkok-caught-with-hybrid-cannabis-worth-%E2%82%B913-crore/
+    publisher: Abtak Media
+    date: 2026-11-02
+    language: gu
 open_questions:
   - Neither account names the two arrested passengers or gives their ages.
   - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
@@ -197,24 +202,30 @@ open_questions:
   - The submitted 08_AM page does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
   - The same 08_AM headline also bundles unrelated items about Vadodara CNG-PNG prices, different events left out here.
   - 'The submitted 08_AM page thumbnail is captioned only as Source: gstv with no event detail, so whether it shows this seizure cannot be established and no media entry is listed.'
+  - The Abtak Media account does not name the two passengers or give their ages or Surat residence reported in other sources for the same event.
+  - The Abtak Media account gives only its publication date of 2 November 2026 and dates the Customs action to 1 November 2026, consistent with the existing incident date of 1 November 2026.
+  - The page uses hybrid cannabis in its headline and hydroponic ganja in its body for the same 13.012 kg seizure, while the existing hydroponic description is retained.
+  - The page's only listed image caption repeats the headline with no credit or event detail, so whether it shows this seizure cannot be established and no media entry is included.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
 woman, both residents of Surat district, on 1 November 2026 after recovering
 13.012 kg of hydroponic marijuana from their checked-in luggage at the Sardar
-Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25] The two had arrived from Bangkok
-on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22]
+Vallabhbhai Patel International Airport. [@1,2,3,4,5,9,10,12,13,14,15,16,17,18,19,20,22,23,24,25,26] The two had arrived from Bangkok
+on Thai Airways flight TG-343. [@1,2,3,4,5,7,9,10,12,13,14,15,16,17,18,19,20,21,22,26]
 
 The pair were flagged through passenger profiling before their trolley bags went
 through X-ray screening, where officers noticed suspicious images and ordered a
-detailed manual examination. [@1,2,9,18,19,20,24] Inside the bags officers found 14
+detailed manual examination. [@1,2,9,18,19,20,24,26] Inside the bags officers found 14
 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi
-term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24] Customs estimated the haul, a higher-potency
-soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19,20,22]
+term for cannabis. [@1,2,5,9,10,11,14,15,17,18,20,22,24,26] Customs estimated the haul, a higher-potency
+soil-free grown variant of cannabis, at approximately Rs 13 crore. [@1,2,4,5,6,9,15,19,20,22,26]
 
 The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act,
-1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22,24] Customs
+1985, India's main drug law, and both passengers were arrested. [@1,2,5,6,9,11,12,13,14,15,16,17,18,19,20,22,24,26] Customs
 said further investigation into the wider supply chain was under way, with the
-two held in custody while investigators probe links to organised networks. [@1]
+two held in custody while investigators probe links to organised networks. [@1,26]
 
 The arrested passengers were identified as Mohammed Akeel Sheikh (31) and Kaniz Zahera Momin (29). [@3,8,10,13,17,19]
+
+The packets were hidden inside transparent polythene packets in the trolley bags. [@26]
