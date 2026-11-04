@@ -30,17 +30,25 @@ sources:
     publisher: La Clé Publique
     date: 2026-10-30
     language: fr
+  - title: Interpellé pour les violences du 17 octobre, il risque de perdre son logement à cause de la drogue retrouvée chez lui
+    url: https://www.ouest-france.fr/societe/manifestation/interpelle-pour-les-violences-du-17-octobre-il-risque-de-perdre-son-logement-a-cause-de-la-drogue-retrouvee-chez-lui-a7c8b42e-d44e-11f1-bce4-49c6ba196371
+    publisher: Ouest-France
+    date: 2026-10-30
+    language: fr
 open_questions:
   - The eight-month prison sentence was reported for receiving stolen goods from the 17 October looting, not as a cannabis sentence, so it is not recorded as a cannabis prison term.
   - Neither source states whether a cannabis charge was brought, or the date of the court hearing.
   - Eviction has not been ordered; the prefect has only said he wants the social landlord to ask a judge to end the lease.
   - La Clé Publique reports 370 euros in cash found at the flat; actu.fr does not mention the cash.
   - No photograph of the seizure was published; the image on the Actu page is a portrait of the prefect.
+  - Ouest-France reports 600 g of cannabis while the existing report records 630 grammes of resin, so the precise seized weight differs between accounts.
+  - Ouest-France does not mention the scooters, cash or other items described in the existing report, so those details remain supported only by the earlier sources.
+  - The only image on the Ouest-France page is captioned as an archive illustration photo, so no media of this seizure can be listed.
 ---
 
 Sidy C., 25, was stopped at Asnières station on Sunday 18 October 2026, the day
 after looting during unrest in Paris, and placed in police custody for receiving
-a stolen object. [@1] He is suspected of taking a bag from a luxury
+a stolen object. [@1,3] He is suspected of taking a bag from a luxury
 leather-goods shop on rue Saint-Honoré. [@1] A court later gave him eight months
 in prison, which Actu, citing M6, reported as a firm sentence and which La Clé
 Publique described as a sentence for receiving goods stolen in the 17 October
@@ -48,7 +56,7 @@ looting. [@2]
 
 Officers then searched the social-housing flat in Asnières-sur-Seine where he
 lived and found two stolen electric scooters and 630 grammes of cannabis resin.
-[@1] La Clé Publique, citing an M6 report relayed by the prefect, also reported
+[@1,3] La Clé Publique, citing an M6 report relayed by the prefect, also reported
 that investigators found the stolen luxury bag at the home, two scooters
 suspected of being stolen, the same 630 grammes of resin and 370 euros in cash.
 [@2]
@@ -56,9 +64,10 @@ suspected of being stolen, the same 630 grammes of resin and 370 euros in cash.
 Alexandre Brugère, prefect of Hauts-de-Seine, has said he wants to use a 2025
 anti-drug-trafficking law that lets a prefect tell a social landlord to ask a
 judge to end a lease when an occupant’s drug-related conduct seriously or
-repeatedly disturbs public order. [@1] He told M6 that theft, looting and
+repeatedly disturbs public order. [@1,3] He told M6 that theft, looting and
 vandalism should have consequences for social housing, which he called an
 expression of national solidarity, and he announced the step on 28 October. [@2]
 Sidy C.’s relatives, who live in the same flat, would also be affected if a
 judge ended the lease, and no eviction has been carried out. [@1]
 
+This was not the first time the man had been arrested for drug trafficking or possession, which was given as the justification for starting the eviction procedure. [@3] The social landlord has one month to refer the matter to the courts, and the eviction procedure takes on average a year and a half. [@3]
