@@ -52,6 +52,11 @@ sources:
     publisher: Radiza
     date: 2026-11-02
     language: es
+  - title: Catean vivienda y aseguran droga
+    url: https://www.radiza.com.mx/radiza2025/noticia.individual.juarez.php?id=238644
+    publisher: Radiza
+    date: 2026-11-02
+    language: es
 open_questions:
   - No total weight was given for the seized substances and no expert result confirms their nature, so no cannabis weight is recorded and cocaine and marijuana amounts cannot be separated.
   - The article gives only its publication date of 2 November 2026 and no separate date for the search, so that date is used as the incident date.
@@ -68,7 +73,7 @@ open_questions:
 
 Ministerial investigators searched a property in the municipality of Janos,
 Chihuahua, seizing cash, bags with substances resembling cocaine and marijuana,
-nine mobile telephones and a video-recording device. [@1,2,4] No arrests were
+nine mobile telephones and a video-recording device. [@1,2,4,8] No arrests were
 reported in connection with the operation. [@1] All of the objects found were
 registered as evidence and held under ministerial custody, with the national and
 foreign cash also incorporated into the proceedings. [@1] The telephones, cards,
@@ -77,20 +82,20 @@ Zone Public Prosecutor, which will continue the investigation and determine
 further legal steps. [@1]
 
 During the inspection investigators found 14,856 pesos and 50 centavos in
-national currency and 100 United States dollars in cash. [@1,2,3,4,6,7] The seized
+national currency and 100 United States dollars in cash. [@1,2,3,4,6,7,8] The seized
 evidence also included several bags containing substances appearing to be
 cocaine and marijuana. [@1,2,3] Agents also collected nine mobile telephones and
 several prepaid telephone cards, plus a video-recording device known as a DVR
 used to store images captured by cameras. [@1,3,4]
 
 The search was carried out under an order issued by a judge of the Galeana
-Judicial District in criminal case 131/2026. [@1,2,3,4,6,7] The measure forms part of
+Judicial District in criminal case 131/2026. [@1,2,3,4,6,7,8] The measure forms part of
 investigations assembled by the Diverse Crimes Unit. [@1] Forensic authorities
 are to analyse the substances and review the devices under applicable legal
 procedures. [@1] Any legal situation of anyone possibly linked to the case will
 be defined from evidence gathered in the investigation file and determinations
 adopted by the judicial authority. [@1]
 
-The searched home is in ejido Pancho Villa in the municipality of Janos. [@2,3,4,6,7]
+The searched home is in ejido Pancho Villa in the municipality of Janos. [@2,3,4,6,7,8]
 
 The Pancho Villa search was carried out on Saturday 31 October. [@5] Investigators reported 447.14 grams of marijuana-like herb and 95.64 grams of suspected cocaine in individual bags. [@5]
