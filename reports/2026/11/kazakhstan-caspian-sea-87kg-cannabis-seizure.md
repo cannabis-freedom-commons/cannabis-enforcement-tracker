@@ -135,6 +135,10 @@ sources:
     publisher: Liter.kz
     date: 2026-11-03
     language: ru
+  - title: 'В Каспийском море пресекли международный наркоканал: задержаны пять человек'
+    url: https://newshub.kz/post/v-kaspiiskom-more-presekli-mezdunarodnyi-narkokanal-zaderzany-piat-celovek-1793732067
+    publisher: NewsHub.kz
+    language: ru
 open_questions:
   - The 87 kg cannabis total is the sum of the separately stated 27 kg of hashish and 60 kg of marijuana; the 22 kg of opium from the same operation is excluded from cannabis figures.
   - The names, ages, detailed nationalities and procedural status of the five detained people were not published.
@@ -155,22 +159,24 @@ open_questions:
   - The page's only image is captioned only as unsplash.com and uses a 2023 file, so it is not established to show this operation and no media entry is included.
   - The same page also reports a separate 30 October 2026 detention of 10 people in Atyrau on extremism suspicion, a different event left out here.
   - The Media.az page carries photos captioned only with the article headline and no credit distinguishing their content, so it is not established that they show distinct content from the KNB handout already linked, and no media entry is added.
+  - The NewsHub.kz page gives only a relative publication time of 2 hours ago and no separate operation date, so the 1 November 2026 incident date continues to rest on the KNB announcement cited in the existing report.
+  - The page's single photo is credited to the KNB and appears to republish the same agency handout already linked from the KNB page, so no separate media entry is added.
 ---
 
 Kazakhstan's National Security Committee said an international drug channel
-operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10,11,12,13,14,15,17,18,19,20,21] On 1 November, the
+operating in the Caspian Sea waters had been eliminated. [@2,3,4,5,8,9,10,11,12,13,14,15,17,18,19,20,21,22] On 1 November, the
 Border Service together with the committee's Mangistau Region department
-detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21] Two
-Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+detained three foreigners who tried to flee pursuit on a watercraft. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22] Two
+Kazakh citizens were detained in the coastal area in the same operation. [@1,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22]
 The committee presented the detentions on the water and on the coast as parts of
 the same operation. [@1]
 
-Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+Officers seized 27 kg of hashish and 60 kg of marijuana in the operation. [@2,3,4,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22]
 The two cannabis seizures together amount to 87 kg of cannabis covered by this
 report. [@2] Officers also seized 22 kg of opium and a small fast boat alongside
-the cannabis. [@1,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21]
+the cannabis. [@1,3,4,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22]
 
-A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21] The committee said
+A pre-trial investigation was opened into the case. [@2,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22] The committee said
 further information cannot be disclosed under part 1 of article 201 of the
 Criminal Procedure Code. [@2,15] The committee published the announcement on 3
 November 2026. [@2] The announcement was issued by the committee's press
