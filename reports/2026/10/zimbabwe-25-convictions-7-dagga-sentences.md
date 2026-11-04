@@ -23,6 +23,10 @@ sources:
     url: https://www.heraldonline.co.zw/police-name-and-shame-25-convicted-drug-peddlers-in-nationwide-illicit-substance-crackdown/
     publisher: The Herald
     date: 2026-10-29
+  - title: Police name  25 convicted  drug offenders
+    url: https://www.heraldonline.co.zw/police-name-25-convicted-drug-offenders/
+    publisher: The Herald
+    date: 2026-10-30
 open_questions:
   - The reported total of 25 covers dangerous drugs, dagga and unregistered medicines, plus one immigration case, so the combined total is not recorded as a cannabis figure; only the seven separately identified dagga cases are counted.
   - No separate arrest or sentencing dates for the individual dagga cases were given, so 29 October 2026, the publication date of the disclosure, is used as the incident date.
@@ -31,10 +35,14 @@ open_questions:
   - Only one accessible source for this disclosure was found after searching in English.
   - The page image is a generic ZRP photo reused from July 2026 and is not established to show this enforcement action, so no media entry is included.
   - A similarly spelled Cecilia Nduna, 21, of Chivi, sentenced for dangerous drugs, is a different listed person from Cecelia Nduna, 20, of Masvingo, sentenced for dagga.
+  - This account was published on 30 October 2026, one day after the 29 October disclosure used as the incident date, so the existing incident date is retained.
+  - This account describes the cannabis component as mbanje while the report uses dagga; both are local terms for cannabis and no new cannabis weight is given.
+  - This account details other dangerous-drugs and unregistered-medicines sentences without specifying which dangerous-drugs cases involved cannabis, so no additional cannabis figures are added.
+  - The page image is a generic Say-no-to-drugs illustration captioned with the police statement and is not shown to depict this enforcement action, so no media entry is included.
 ---
 
 Police named 25 drug offenders convicted and sentenced in separate cases as a
-nationwide crackdown on illicit substances gathered momentum. [@1] Somandla
+nationwide crackdown on illicit substances gathered momentum. [@1,2] Somandla
 Liberty, 19, of Bindura, was jailed for 24 months for unlawful possession of
 dagga. [@1] Lilian Mupandenyama, 26, also from Bindura, received a 36-month
 prison sentence for unlawful possession of dagga. [@1] Shelter Tshuma, 25,
@@ -46,12 +54,11 @@ offence. [@1]
 
 The offenders had been arrested in different parts of the country and appeared
 before courts that imposed varying prison terms for offences involving dangerous
-drugs, dagga and unregistered medicines. [@1] Criminal Investigation Department
+drugs, dagga and unregistered medicines. [@1,2] Criminal Investigation Department
 deputy spokesperson Merylin Muriro said police were naming the convicted
-offenders to expose those involved in drug-related crimes. [@1] The longest
+offenders to expose those involved in drug-related crimes. [@1,2] The longest
 terms went to two dangerous-drugs cases, with Easter Beans of Hatcliffe jailed
 for five years and Tinozivaishe Zimbeva of Chiredzi sentenced to five years.
-[@1] Police linked the disclosure to intensified efforts against supply networks
+[@1,2] Police linked the disclosure to intensified efforts against supply networks
 involving crystal methamphetamine, commonly known as mutoriro, mbanje and other
 dangerous drugs. [@1]
-
