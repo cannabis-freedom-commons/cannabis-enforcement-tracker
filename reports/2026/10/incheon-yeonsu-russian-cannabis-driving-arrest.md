@@ -52,6 +52,11 @@ sources:
     publisher: 아주경제
     date: 2026-11-03
     language: ko
+  - title: 인천서 대마 투약 40대 러시아인 검거…불법체류도 들통
+    url: https://www.news1.kr/local/incheon/6341374
+    publisher: 뉴스1
+    date: 2026-11-03
+    language: ko
 open_questions:
   - No quantity or weight of cannabis was reported, so no cannabis seizure figure is given.
   - The precise road or spot in Yeonsu District where the driving and arrest occurred was not specified.
@@ -70,24 +75,26 @@ open_questions:
   - This account says A was booked without detention, while the existing report wording says detained.
   - The page's only image is captioned as a Utoimage stock cannabis photo and does not depict this arrest, so no media entry is added.
   - The page's only image is captioned [사진=연합뉴스] and does not depict this arrest, so no media entry is added.
+  - This account says officers located the vehicle he was driving when arresting him but does not state the impaired-driving allegation recorded in the existing report.
+  - The News1 page's only listed image is a designer graphic credited to Kim Jiyoung and does not depict this arrest, so no media entry is added.
 ---
 
 Incheon’s Yeonsu Police Station detained a Russian man in his 40s, identified as
 A, on cannabis and immigration-violation charges and handed him over to
-immigration authorities. [@1,3,7] He is accused of driving on a road in Yeonsu
+immigration authorities. [@1,3,7,8] He is accused of driving on a road in Yeonsu
 District, Incheon, on 28 October after using cannabis. [@1,3,5,7] Police began
 tracking the vehicle after receiving a drug-use report at about 2:40 p.m. that
-day and detained him about three hours later. [@1,3,5,7]
+day and detained him about three hours later. [@1,3,5,7,8]
 
 A preliminary urine drug test collected by police returned a positive reaction
-for cannabis. [@1,3,4,6,7] While checking his identity through his driver’s licence,
+for cannabis. [@1,3,4,6,7,8] While checking his identity through his driver’s licence,
 officers found that his permitted period of stay had expired and that he was
 staying illegally. [@1,3] Police applied for a detention warrant, but the
 prosecution office did not seek the warrant and asked for further investigation
-of the allegations. [@1,3,5,7] Police said they had requested analysis by the National
+of the allegations. [@1,3,5,7,8] Police said they had requested analysis by the National
 Forensic Service to confirm the suspected drug use accurately. [@1,3,4,5,6]
 
 Police announced the detention on 3 November. [@1,4] After the arrest, he was
-handed over to immigration authorities. [@2,4,6]
+handed over to immigration authorities. [@2,4,6,8]
 
 Police detained A at about 5:30 p.m. on 28 October in Okryeon-dong, Yeonsu-gu, after receiving a drug-use report that day. [@4,6]
