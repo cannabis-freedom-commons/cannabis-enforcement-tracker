@@ -33,17 +33,30 @@ sources:
     url: https://www.ghanaweb.com/blogs/attractivenews/Ibrahim-Saani-Arrested-with-37-Parcels-of-Suspected-Indian-Hemp-in-Tema-20905
     publisher: GhanaWeb
     date: 2026-10-31
+  - title: 52-year-old man arrested with 37 parcels of suspected Indian hemp
+    url: https://mobile.ghanaweb.com/GhanaHomePage/crime/52-year-old-man-arrested-with-37-parcels-of-suspected-Indian-hemp-2058806?gallery=1
+    publisher: GhanaWeb
 open_questions:
   - The page displays a photo without a caption or credit, so it could not be verified as depicting this seizure and is not listed as media.
+  - The gallery capture preserves only the title and photo caption; the full article body was not captured, so no further details from this page could be verified.
+  - No publication date was preserved in this capture, so the incident date continues to rest on the existing report's earlier sources.
+  - This capture does not name the suspect, place, police unit, or time of arrest; those details come from the existing report's earlier sources.
+  - The image itself could not be viewed in this harness; its depiction is judged from its caption and the page title alone.
+media:
+  - kind: photo
+    url: https://mobile.ghanaweb.com/GhanaHomePage/crime/52-year-old-man-arrested-with-37-parcels-of-suspected-Indian-hemp-2058806?gallery=1
+    media_url: https://cdn.ghanaweb.com/imagelib/pics/468/46819234.295.jpg
+    publisher: GhanaWeb
+    caption: Photo of the suspect, captioned as acting as if mad to hide his activities.
 ---
 
 The Tema Regional Police Command arrested 52-year-old Ibrahim Saani for possessing 37 parcels of
 substances suspected to be Indian hemp at New York, near Airport Junction, at about 7 pm on
-Sunday 25 October 2026. [@1,2] Officers acting on intelligence retrieved a bag holding the 37
+Sunday 25 October 2026. [@1,2,4] Officers acting on intelligence retrieved a bag holding the 37
 compressed parcels together with a crusher. [@1,2,3]
 
 Saani was taken to the police station with the exhibits for investigation. [@1,2] Preliminary
 findings suggest he may have been distributing the suspected narcotics in New York and nearby
 communities, and intelligence indicates he allegedly pretended to be mentally unwell to conceal
-his activities. [@1,2,3] The substances will go for forensic examination, and police say Saani and
+his activities. [@1,2,3,4] The substances will go for forensic examination, and police say Saani and
 any accomplices will be arraigned once investigations are complete. [@1,2]
