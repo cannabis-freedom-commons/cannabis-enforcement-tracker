@@ -28,6 +28,16 @@ sources:
     publisher: 中国新聞
     date: 2026-11-03
     language: ja
+  - title: 【事件】広島市中区流川で大麻所持疑い　41歳男逮捕
+    url: https://article.auone.jp/81985a0a-d913-4959-865e-1ce009baf9c7
+    publisher: 中国新聞
+    date: 2026-11-04
+    language: ja
+  - title: 【事件】広島市中区流川で大麻所持疑い　41歳男逮捕
+    url: https://news.jp/i/1490504596366312365
+    publisher: 中国新聞
+    date: 2026-11-04
+    language: ja
 open_questions:
   - No weight, form, packaging or value of the suspected cannabis was published in the accessible text.
   - The remaining 36 characters of the 109-character paywalled article were not accessible, so the exact possession location, circumstances and any statement on admission or denial are unknown.
@@ -38,17 +48,18 @@ open_questions:
 
 Hiroshima-Chuo police arrested a 41-year-old man in Nagarekawa, Naka Ward,
 Hiroshima City, on suspicion of possessing cannabis. [@1] The suspect describes
-himself as a resident of Nagoya City and as a landscaper by occupation. [@2]
+himself as a resident of Nagoya City and as a landscaper by occupation. [@2,4]
 Police recorded both the Nagoya address and the landscaper occupation as
 self-claimed rather than as verified personal details. [@2]
 
 Officers of the Hiroshima-Chuo station of the Hiroshima Prefectural Police made
-the arrest at about 4:55 p.m. on 3 November. [@2] The detention was a red-handed
+the arrest at about 4:55 p.m. on 3 November. [@2,3] The detention was a red-handed
 arrest on suspicion of a possession offence under the Narcotics Control Law.
 [@2] The headline identifies the suspected substance as cannabis and the
-district as Nagarekawa in Naka Ward. [@1] The 41-year-old gave a self-described
+district as Nagarekawa in Naka Ward. [@1,3] The 41-year-old gave a self-described
 home in Nagoya City, a different city from the Hiroshima police jurisdiction.
 [@2] Hiroshima-Chuo is the police station name for the Hiroshima jurisdiction
 where the Nagarekawa case was placed. [@2] The police action took place on 3
 November in Hiroshima City in the late afternoon. [@2]
 
+The alleged possession took place inside a mixed-use building in Nagarekawa-cho, Naka-ku, Hiroshima City. [@4] The amount was described only as a small amount of cannabis, with no weight published. [@4]
