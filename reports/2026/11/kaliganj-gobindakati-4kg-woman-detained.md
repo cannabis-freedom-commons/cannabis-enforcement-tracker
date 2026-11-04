@@ -46,6 +46,11 @@ sources:
     publisher: ঢাকা ডায়েরি
     date: 2026-11-02
     language: bn
+  - title: সাতক্ষীরায় ৪ কেজি গাঁজাসহ নারী মাদক কারবারি আটক
+    url: https://www.rupalibangladesh.com/all-bd-news/satkhira/177362/amp
+    publisher: Rupali Bangladesh
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Whether the fled suspect Jahangir Alam was later arrested or charged is not reported.
   - Whether a drug case was filed against the detained woman and what charges apply is not reported.
@@ -64,25 +69,28 @@ open_questions:
   - The submitted page carries a photo captioned with the headline, but caption, credit and article text do not establish that it shows this seizure, so no media entry is added.
   - This account locates the recovery at her dwelling house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
   - The page carries a photo captioned with the headline, but caption, credit and article text do not establish that it shows this seizure, so no media entry is included.
+  - This account locates the recovery in an old room in Rashida Begum's dwelling house in Gobindapur village while the existing report places it in front of an old house south of Jahangir's residence in Gobindakati village.
 ---
 
 Police in Kaliganj detained 28-year-old Rashida Begum after recovering 4 kg of
 ganja during a midday anti-drug raid in Gobindakati village on 2 November 2026.
-[@1,3] A second suspect, Jahangir Alam (Moni), fled the scene after sensing the
-police presence. [@1,4] Police identified Rashida Begum as the wife of the late
-Johar Ali of Gobindapur village. [@1,2]
+[@1,3,5] A second suspect, Jahangir Alam (Moni), fled the scene after sensing the
+police presence. [@1,4,5] Police identified Rashida Begum as the wife of the late
+Johar Ali of Gobindapur village. [@1,2,5]
 
 Acting on a secret tip-off, a Kaliganj police team led by Sub-Inspector Sabbir
 Ahmed raided the area in front of an old house on the south side of Jahangir's
 residence. [@1,2] The raid took place at about 12 noon in Gobindakati village of
-Dhalbaria union in Kaliganj upazila, Satkhira. [@1] Officers seized the 4 kg of
-ganja at that spot before taking the woman into custody. [@1,3,4]
+Dhalbaria union in Kaliganj upazila, Satkhira. [@1,5] Officers seized the 4 kg of
+ganja at that spot before taking the woman into custody. [@1,3,4,5]
 
 Kaliganj police station chief Md. Sheikh Shahinur Rahman said police were
 working to build a drug- and militancy-free environment across the upazila's 12
 unions. [@1] He said operations against drug traders, terrorist activity and
 other unlawful activity would continue. [@1]
 
-A sub-inspector filed a case under the Narcotics Control Act as complainant over the seizure. [@3,4]
+A sub-inspector filed a case under the Narcotics Control Act as complainant over the seizure. [@3,4,5]
 
-Police were preparing to send the detained woman to jail through the court. [@4]
+Police were preparing to send the detained woman to jail through the court. [@4,5]
+
+Locals said the absconding trader Jahangir Alam had long dealt in ganja, phensidyl and yaba and sent drugs to different parts of the country while staying beyond police reach. [@5] The Kaliganj police chief said the anti-drug drive would continue and sought cooperation from local journalists and conscious citizens. [@5]
