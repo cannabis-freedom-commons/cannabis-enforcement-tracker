@@ -23,6 +23,7 @@ tags: [cannabis-farms, peki, arrests]
 sources:
   - title: Police arrests two suspected wee farmers at Peki
     url: https://ignewss.com/police-arrests-two-suspected-wee-farmers-at-peki/
+    archived: https://web.archive.org/web/20260606132406/https://ignewss.com/police-arrests-two-suspected-wee-farmers-at-peki/
     publisher: IGNews
     date: 2020-06-12
   - title: Illegal Cannabis Cultivation, Boso chief demands clarification from police for misinforming
@@ -32,7 +33,7 @@ open_questions:
   - The report is dated at the 12 June publications; Radio 1 says the raid happened last week, so the exact day is uncertain.
   - IGNews reports 17 farms of about 30 acres destroyed, while Radio 1 says the team cleared only about a fifth of a hundreds-of-acres enclave, with further destruction planned.
   - The Boso chief disputes that any farm lies on Boso land; the report follows the outlets in placing the enclave between Peki and Boso.
-  - A later Ghanaian Times report of 67 acres destroyed at Boso in August 2020, a possible follow-up, is left out here.
+  - The destruction of about 67 acres at Boso later in August 2020 is recorded in a separate report.
   - The Ghanaian Times page shows a destruction photo but no recoverable image address, so no media entry was added.
 ---
 
