@@ -69,6 +69,11 @@ sources:
     publisher: الرئيس نيوز
     date: 2026-11-01
     language: ar
+  - title: مباحث طهطا تضبط تاجر حشيش بالجبيرات
+    url: https://www.elbalad.news/7163412
+    publisher: صدى البلد
+    date: 2026-11-01
+    language: ar
 open_questions:
   - None of the four accounts gives the weight of the hashish or the amount of cash seized.
   - No separate date is given for the arrest; 1 November 2026 is the publication date of all four accounts.
@@ -85,17 +90,17 @@ open_questions:
 Police in Tahta, a district in northern Sohag governorate, arrested a
 34-year-old man with a quantity of hashish, saying he was caught before he could
 sell the drug to customers. [@1,7,10] The man, identified in police accounts as N. A.
-S., lives in Al-Jubayrat village in the district. [@2,6,8,9,10] Detectives had received a
+S., lives in Al-Jubayrat village in the district. [@2,6,8,9,10,11] Detectives had received a
 tip that he was dealing in drugs and using one of the district's villages as his
-base. [@1,7]
+base. [@1,7,11]
 
 The operation followed authorisation from the Public Prosecution and was led by
 Ahmed al-Bariri, head of the Tahta police investigations unit, with Captain Alaa
-Omran assisting. [@3,7,9,10] Police said he was caught in the act with the seized
+Omran assisting. [@3,7,9,10,11] Police said he was caught in the act with the seized
 items. [@1] Besides the hashish, officers found cash that police suspect came
-from drug sales. [@2,5,8,10] Questioned by police, he admitted holding the drugs for
+from drug sales. [@2,5,8,10,11] Questioned by police, he admitted holding the drugs for
 sale and said he wanted quick financial profit. [@1,7] He was referred to the
-Public Prosecution for investigation. [@4,6,8,9,10]
+Public Prosecution for investigation. [@4,6,8,9,10,11]
 
 Dealing in hashish carries death or life imprisonment and a fine of between
 100,000 and 500,000 Egyptian pounds under article 34 of Egypt's 1960 narcotics
