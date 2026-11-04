@@ -25,6 +25,8 @@ tags: [date, unlicensed, townsend]
 open_questions:
   - The release did not say how many plants were mature versus immature beyond the total of 32 seized.
   - Court dates or a plea after arraignment on $10,100 bail were not reported in the source opened.
+  - WDEL describes the amount as nearly 60 pounds while the existing report records 60 pounds from the Division of Alcohol and Tobacco Enforcement release; the report retains the official 60-pound figure.
+  - WDEL dates the search only as last week relative to its 19 May 2026 publication rather than stating 13 May 2026 directly, consistent with but less precise than the existing date.
 sources:
   - title: DATE Arrests Townsend Woman on Drug Charges
     url: https://news.delaware.gov/2026/05/15/townsend-woman-arrest-drug-charges/
@@ -32,6 +34,11 @@ sources:
     publisher: State of Delaware News
     date: 2026-05-15
     language: en
+  - title: Townsend woman charged with illegal sales of marijuana
+    url: https://www.wdel.com/news/townsend-woman-charged-with-illegal-sales-of-marijuana/article_4745f005-7d57-46f2-bcb9-cdd80cbedb9e.html
+    publisher: WDEL
+    date: 2026-05-19
+    archived: https://web.archive.org/web/20260627013942id_/https://www.wdel.com/news/townsend-woman-charged-with-illegal-sales-of-marijuana/article_4745f005-7d57-46f2-bcb9-cdd80cbedb9e.html
 media:
   - kind: photo
     url: https://news.delaware.gov/2026/05/15/townsend-woman-arrest-drug-charges/
@@ -52,11 +59,13 @@ of Townsend after serving a search warrant at Blackbird Creek Farm on Union Chur
 [@1]
 
 DATE’s Marijuana Enforcement Unit said the farm was unlicensed by the Office of the
-Marijuana Commissioner and was allegedly selling and growing marijuana illegally. [@1]
+Marijuana Commissioner and was allegedly selling and growing marijuana illegally. [@1,2]
 Officers seized 60 pounds of marijuana and 32 marijuana plants during the search on 13 May
-2026. [@1]
+2026. [@1,2]
 
 Fischer-Solimeo was arraigned on felony possession with intent to deliver a controlled
 substance and a misdemeanor charge of possessing more than the personal-use amount of
-marijuana, and released on $10,100 bail. [@1] DATE said it would keep enforcing against
+marijuana, and released on $10,100 bail. [@1,2] DATE said it would keep enforcing against
 operators outside Delaware’s licensed market. [@1]
+
+Sale of recreational amounts of marijuana to adults became legal in Delaware in August 2025. [@2]
