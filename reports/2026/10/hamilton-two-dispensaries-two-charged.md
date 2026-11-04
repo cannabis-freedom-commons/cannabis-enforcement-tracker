@@ -38,6 +38,10 @@ sources:
     publisher: RED FM Toronto
     date: 2026-10-30
     language: en
+  - title: Hamilton police shut down two illegal cannabis dispensaries - CKTB News
+    url: https://cktbnews.com/hamilton-police-shut-down-two-illegal-cannabis-dispensaries/
+    publisher: CKTB News
+    date: 2026-10-30
 open_questions:
   - No quantity or value was published for the cannabis found at either dispensary.
   - The two men's names were not released, and no court dates or outcomes were reported.
@@ -46,31 +50,35 @@ open_questions:
   - 'Left out, as its quotation was not found in StratCann: The Wellington Street store, trading as Mississauga of the Credit Medicine Wheel, had been searched two weeks earlier and reopened the following day, and the building owner was notified.'
   - RED FM says the 27-year-old faces five charges, while the Toronto Sun account already cited lists four offences for him; the charge count is left as previously reported.
   - RED FM’s only image is a station headline template, not a photo of the raids, so it was not added as media.
+  - The article gives no separate date for the warrants, describing them only as recent; 29 October 2026 is retained from the earlier sources.
+  - The page's news photo shows the outside of a Hamilton police substation at Jackson Square, not the dispensaries, seizures or arrests, so no media entry is included.
 ---
 
 A 27-year-old Hamilton man, whose name was not released, was charged with
 selling cannabis other than as an authorized retailer, possession of illicit
 cannabis, possession of cannabis for the purpose of selling and proceeds of
-crime. [@1] On 29 October 2026, officers executed another search warrant at 45
+crime. [@1,4] On 29 October 2026, officers executed another search warrant at 45
 Wellington St. N., shut down the operation and barred entry to the premises,
-including to the building owner. [@2,3] Hamilton Police said they had shut down
+including to the building owner. [@2,3,4] Hamilton Police said they had shut down
 two illegal cannabis dispensaries, one of which had reopened almost immediately
-following a previous search warrant. [@1]
+following a previous search warrant. [@1,4]
 
 A second warrant was executed at another illegal dispensary at 1142 Barton St.
 E., with assistance from other services including City of Hamilton by-law
-officers and the OPP Contraband Tobacco Enforcement Team. [@2] A 24-year-old
+officers and the OPP Contraband Tobacco Enforcement Team. [@2,4] A 24-year-old
 man, whose name was not released, was charged with possession of property
 obtained by crime under $5,000, trafficking in controlled tobacco, possession of
 illicit cannabis, possession of cannabis for the purpose of selling and selling
-cannabis without authorization. [@1]
+cannabis without authorization. [@1,4]
 
 Chief Frank Bergen said illegal cannabis operators should expect further action
 if they reopen, and that building owners who knowingly allow the businesses to
 operate should expect scrutiny and enforcement. [@1,3] Police said approximately
-30 illegal cannabis dispensaries are operating in Hamilton. [@2,3] Police said
+30 illegal cannabis dispensaries are operating in Hamilton. [@2,3,4] Police said
 search warrants and charges alone had not stopped some operators from reopening
 almost immediately, and that they were taking further steps to disrupt repeat
 illegal activity. [@2]
 
 The dispensary at 45 Wellington Street North reopened one day after officers executed a search warrant there two weeks earlier. [@3] Police said enforcement was continuing as part of a broader strategy to address illegal drug activity and organized crime. [@3]
+
+Police continue to hear concerns from residents and licensed cannabis businesses that follow the rules. [@4]
