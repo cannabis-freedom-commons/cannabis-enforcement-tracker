@@ -35,31 +35,42 @@ sources:
     publisher: Rieti Life
     date: 2026-10-31
     language: it
+  - title: RIETILIFE TV - Maxi piantagione di marijuana a Fara in Sabina - RietiLife
+    url: https://www.rietilife.com/video/rietilife-tv-maxi-piantagione-di-marijuana-a-fara-in-sabina/
+    publisher: RietiLife
+    date: 2026-11-02
+    language: it
+  - title: Fermo di indiziato di delitto per due giovani dopo la scoperta di una maxi piantagione di canapa
+    url: https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/fermo-di-indiziato-di-delitto-per-due-giovani-dopo-la-scoperta-di-una-maxi-piantagione-di-canapa
+    publisher: Arma dei Carabinieri
+    date: 2026-10-31
+    language: it
 open_questions:
   - The plantation was found on 14 October and the suspects surrendered on 30 October; the report uses 30 October, the latest step, as the incident date.
   - The published weight of about 600 kilograms is an estimate, and the reports do not say whether it is fresh or dried weight.
   - The two suspects were identified only as Albanians in their thirties; no names were published.
   - No court outcome was reported; the case was still in preliminary investigations.
   - The submitted page uses a Pexels stock photo and the other pages carry plantation images without captions establishing that they show this seizure, so no media entry is listed.
+  - The submitted video page gives only a vague figure of hundreds of plants ready for harvest, so the report retains the official precise figure of 550 plants weighing about 600 kg.
+  - No viewable event footage could be verified from the video thumbnail alone, so no new media entry is added.
 ---
 
 Two men in their thirties, both described as of Albanian origin, were placed
 under suspect detention by the Carabinieri of the Fara in Sabina station on
 suspicion of jointly cultivating and illegally holding large quantities of
-drugs. [@2] The two men presented themselves spontaneously at the barracks on 30
-October accompanied by their trusted lawyer. [@2] After the procedures they were
+drugs. [@2,5] The two men presented themselves spontaneously at the barracks on 30
+October accompanied by their trusted lawyer. [@2,5] After the procedures they were
 taken to prison at the disposal of the Public Prosecutor of Rieti. [@3] The case
 was still in the preliminary-investigation phase, with any criminal
 responsibility to be established in later stages. [@2]
 
 Carabinieri from Fara in Sabina, together with colleagues from the Passo Corese
 station, had located the unauthorised plantation on 14 October on uncultivated
-and difficult terrain in the municipality. [@2] Officers uprooted and seized 550
+and difficult terrain in the municipality. [@2,5] Officers uprooted and seized 550
 flowering cannabis plants, which the Carabinieri estimated at a total weight of
-about 600 kilograms. [@2] The Carabinieri said the large plantation was hidden
+about 600 kilograms. [@2,5] The Carabinieri said the large plantation was hidden
 among the mountainous reliefs of Fara Sabina. [@1] Officers also found an
-elaborate irrigation system in the area used to tend and grow the crop. [@2]
+elaborate irrigation system in the area used to tend and grow the crop. [@2,4]
 
 The operation was part of extraordinary territorial checks aimed at countering
 the production and trafficking of drugs in the Sabina area. [@1]
-
