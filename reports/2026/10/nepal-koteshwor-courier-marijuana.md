@@ -30,6 +30,8 @@ open_questions:
   - The new article was published on 29 October 2026 and gives no separate arrest date, while the existing report uses 27 October for the seizure.
   - The same article also reports a separate Sri Lanka cocaine and ecstasy seizure, a non-cannabis event left out of the cannabis report.
   - No event photo is established on the submitted page, so no media entry is included.
+  - The new article says police seized 338 grams of marijuana while the existing report records 1 kilogram and 338 grams; the report figure is retained.
+  - The new article spells the first name Bhavar Singh while the existing report uses Bhawar Singh.
 sources:
   - title: Two Indian nationals arrested with marijuana
     url: https://english.khabarhub.com/2026/28/573539/
@@ -43,6 +45,10 @@ sources:
     url: https://www.indianaviationnews.net/home/2026/10/indian-nationals-arrested-in-sri-lanka-nepal-in-separate-drug-trafficking-cases.html
     publisher: Aviation India
     date: 2026-10-29
+  - title: 5 Indians arrested in drug trafficking cases in Nepal
+    url: https://www.deccanherald.com/india/5-indians-arrested-in-drug-trafficking-cases-in-nepal-4198947
+    publisher: Deccan Herald
+    date: 2026-10-28
 media:
   - kind: photo
     url: https://english.onlinekhabar.com/marijuana-sent-from-the-us.html
@@ -52,8 +58,8 @@ media:
 ---
 
 Officers of Nepal's Narcotics Control Bureau in Koteshwor, Kathmandu, arrested two Indian
-nationals after marijuana sent from the United States by courier reached the city. [@1,2,3]
-The two were Bhawar Singh, 23, and Bandit Patel, 33, both from Ahmedabad in Gujarat. [@1,2,3]
+nationals after marijuana sent from the United States by courier reached the city. [@1,2,3,4]
+The two were Bhawar Singh, 23, and Bandit Patel, 33, both from Ahmedabad in Gujarat. [@1,2,3,4]
 
 The parcel weighed 1 kilogram and 338 grams and had been sent disguised as documents, and
 police seized it in a controlled delivery, Deputy Superintendent of Police Jeevan Niraula,

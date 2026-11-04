@@ -29,18 +29,28 @@ sources:
     url: https://english.corporatesamachar.com/2026/10/16497/
     publisher: Corporate Samachar
     date: 2026-10-28
+  - title: 5 Indians arrested in drug trafficking cases in Nepal
+    url: https://www.deccanherald.com/india/5-indians-arrested-in-drug-trafficking-cases-in-nepal-4198947
+    publisher: Deccan Herald
+    date: 2026-10-28
 media:
   - kind: photo
     url: https://english.ratopati.com/story/84754/two-indian-women-arrested-with-14-kg-of-thai-marijuana-at-airport
     publisher: Ratopati
     caption: The two arrested women photographed after their arrest
+open_questions:
+  - The new article says the airport arrests happened on Monday while the existing report uses the morning of 27 October 2026.
+  - The new article spells the names Shabana Banu M Sheikh and Sarifa Abbas Ansari while the existing report uses Shabana Banu Yar Mohammad Sheikh and Sharif Abbas Ansari.
+  - The new article does not give Batik Air flight number OD-182 or say the women are from Gujarat; those details rest on the existing sources.
+  - The page image is captioned as a representation image credited to iStock and does not show this event, so no media entry is included.
+  - The same article also reports the Koteshwor courier marijuana case, covered in a separate update, and a 322-gram brown-sugar arrest in Pharping, a non-cannabis event left out here.
 ---
 
 A Narcotics Control Bureau team arrested two Indian women at Tribhuvan
 International Airport on the morning of 27 October 2026 and recovered 14 kg of
-Thai ganja from them. [@1] The women, 46-year-old Shabana Banu Yar Mohammad
+Thai ganja from them. [@1,3] The women, 46-year-old Shabana Banu Yar Mohammad
 Sheikh and 35-year-old Sharif Abbas Ansari, both from Gujarat, had arrived in
-Kathmandu from Thailand via Malaysia on Batik Air flight OD-182. [@1,2]
+Kathmandu from Thailand via Malaysia on Batik Air flight OD-182. [@1,2,3]
 
 Bureau officers grew suspicious when they checked the pair after the flight's
 arrival, and Senior Superintendent Subash Bohora said an investigation was
