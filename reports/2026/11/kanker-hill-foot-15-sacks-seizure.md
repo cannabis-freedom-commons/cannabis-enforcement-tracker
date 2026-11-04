@@ -31,6 +31,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 'CHHATTISGARH : छत्तीसगढ़ में गांजे की बड़ी खेप पकड़ी, दो जगह कार्रवाई! - Khabarchalisa News'
+    url: https://khabarchalisa.com/chhattisgarh-kanker-keshkal-ganja-seizure-488-crore/
+    publisher: Khabarchalisa News
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -39,6 +44,8 @@ open_questions:
   - Only one accessible source for this Kanker recovery was found after searching.
   - The same article also describes a separate Saraipali container seizure of 120.960 kg with two arrests, already recorded as mahasamund-saraipali-120kg-ganja-rice-bags and left out here.
   - The new account reports 70 packets while the existing report records 15 sacks; it is unclear whether the packets were packed inside the sacks.
+  - The submitted page carries only advertisement images and no usable photograph of the seizure, so no media entry is included.
+  - The page's combined figure of about Rs 4.88 crore spans the Kanker and Keshkal recoveries and is not recorded as this event's value.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -47,9 +54,9 @@ November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
-avoid action or arrest. [@1,2]
+avoid action or arrest. [@1,2,3]
 
-The case falls under the Kotwali police station area. [@1] Police put the value
+The case falls under the Kotwali police station area. [@1,3] Police put the value
 of the seized ganja in lakhs of rupees. [@1] Senior officers and a Kotwali
 police team seized the ganja and started an investigation. [@1]
 
@@ -59,4 +66,4 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2]
