@@ -34,6 +34,11 @@ sources:
     publisher: PatrisNews
     date: 2026-11-04
     language: el
+  - title: 'Γαστούνη: Συνελήφθη άνδρας για κατοχή κάνναβης'
+    url: https://iliakanea.gr/gastouni-synelifthi-andras-gia-katochi-kannavis/
+    publisher: Ηλειακά Νέα
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article was published on 4 November 2026 and says the arrest happened yesterday at midday, so 3 November 2026 is used as the incident date.
   - No weight was published for the handmade tobacco-cannabis cigarette, so the kilogram figure covers only the two packages.
@@ -44,18 +49,20 @@ open_questions:
   - The same pelop.gr article also reports a separate traffic arrest on the Patras–Pyrgos national road for driving after licence withdrawal, with no cannabis component, left out here as unrelated to this report.
   - The pelop.gr lead image uses a June 2025 file with a headline caption and is not established to show this seizure, so no media entry is included from this source.
   - The PatrisNews page image is captioned only with the article headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - The iliakanea.gr account does not state the detained person's nationality, so the existing description of him as a Greek man still rests on the earlier dete.gr account.
+  - The iliakanea.gr page image is a generic police patrol car (astynomia peripoliko) and is not established to show this seizure, so no media entry is included.
 ---
 
 Officers of the OPDI unit of the Pineios Police Department arrested a Greek man
-in Gastouni at midday on 3 November 2026. [@1,2,3] Officers detained the man during
+in Gastouni at midday on 3 November 2026. [@1,2,3,4] Officers detained the man during
 a police check in Gastouni. [@1] Police described the detained person only as a
 Greek man. [@1]
 
 During the check officers found two packages in his possession containing a
-total of 62.9 grams of cannabis. [@1,2,3] Officers seized the two cannabis packages.
+total of 62.9 grams of cannabis. [@1,2,3,4] Officers seized the two cannabis packages.
 [@1] The 62.9-gram total was the combined weight of those two packages. [@1]
 Officers also seized a handmade cigarette containing a mixture of tobacco and
-cannabis. [@1,2,3] The handmade cigarette was separate from the two weighed
+cannabis. [@1,2,3,4] The handmade cigarette was separate from the two weighed
 packages. [@1]
 
-The arrested man faces charges for violating drugs legislation. [@3]
+The arrested man faces charges for violating drugs legislation. [@3,4]
