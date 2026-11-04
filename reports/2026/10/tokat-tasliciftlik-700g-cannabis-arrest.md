@@ -35,28 +35,35 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-04
     language: tr
+  - title: Tokat'ta Araç ve Evde Ele Geçirildi, Tutuklama Getirdi
+    url: https://www.tokathaber.com.tr/tokatta-arac-ve-evde-ele-gecirildi-tutuklama-getirdi
+    publisher: Tokat Haber - Tokat Son Dakika Haberleri
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The suspect is identified only by the initials O.B. with age 24; no full name was published.
   - No specific charge or trial outcome beyond remand in custody was reported.
   - No valuation of the seized cannabis was published.
   - Both opened pages carry the same İHA agency text, so no independent second account was available.
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command.'
+  - This page carries the same İHA agency text as the report's existing sources, so it provides corroboration but no independent second account.
+  - The page displays an evidence-collage photo, but it was not added as media because it appears to repeat the same agency handout already linked from the İHA report and its distinctness could not be established from captions alone.
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00
-on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2] Officers
+on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3] Officers
 detained one suspect in connection with the vehicle and home searches. [@1,2]
 
 A judicial search of the vehicle found 380 grams of vacuum-packed kubar esrar,
-herbal cannabis, together with one banknote-counting machine. [@1,2] A search of
+herbal cannabis, together with one banknote-counting machine. [@1,2,3] A search of
 the driver's home in central Turhal found another 320 grams of vacuum-packed
-kubar esrar. [@2] Officers also recovered one vacuum machine, 5 kilograms of
+kubar esrar. [@2,3] Officers also recovered one vacuum machine, 5 kilograms of
 odour remover, a digital scale and a knuckle duster from the home. [@1,2] The
 vehicle and home searches together yielded a total of 700 grams of kubar esrar.
 [@2]
 
 O.B. was taken into custody on the instructions of the public prosecutor and was
-then remanded in custody by the court. [@1,2] No other suspect was named in
+then remanded in custody by the court. [@1,2,3] No other suspect was named in
 connection with the seizure. [@2]
 
 The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command. [@2]
