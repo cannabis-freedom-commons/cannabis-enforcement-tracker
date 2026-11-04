@@ -40,6 +40,10 @@ sources:
     url: https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html
     publisher: CNBC
     date: 2026-10-22
+  - title: Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy
+    url: https://wtop.com/virginia/2026/10/virginia-state-sen-l-louise-lucas-is-charged-with-drug-trafficking-and-money-laundering-doj-says/
+    publisher: WTOP News
+    date: 2026-10-22
 open_questions:
   - The PBS page gives only its publication date of 22 October 2026, describing the charges, announcement and surrender as "today," "this morning" and "this afternoon."
   - The PBS account does not state the eight-count total, the five counts against Lucas, her age, the business names, or the co-defendants' names given in the existing report.
@@ -51,25 +55,32 @@ open_questions:
   - The CNBC article calls the scheme a five-year scheme while the existing report describes an operation from around 2019 through 2026.
   - The CNBC article says the charges came five months after the May search of Lucas's Portsmouth office while the existing report says six months earlier.
   - The only image listed for the submitted page shows Lucas at a June 2026 legislative budget session, not this enforcement event, so no media entry is made.
+  - This account places Lucas's Norfolk court appearance on Thursday afternoon, while the existing report says Thursday morning.
+  - This account dates the FBI search to May, about five months before the 22 October charges, while the existing report says six months earlier.
+  - This account schedules an arraignment for next month but gives no exact date.
+  - This account gives no cannabis weight, plant count, field area or value, so no new figures can be recorded.
+  - The page's main image is a general-election voting photo and its other images show unrelated stories, so no photo of this enforcement event can be linked.
 ---
 
 Federal prosecutors unsealed an eight-count indictment on 22 October 2026 charging Virginia state
 Senator L. Louise Lucas, 82, and six other people with a marijuana distribution and money-laundering
-enterprise. [@1,2,3,4] Lucas, the Senate president pro tempore, faces five counts: racketeering
+enterprise. [@1,2,3,4,6] Lucas, the Senate president pro tempore, faces five counts: racketeering
 conspiracy, conspiracy to distribute marijuana, money-laundering conspiracy, honest-services fraud
-conspiracy and maintaining a drug-involved premises. [@1,2,5]
+conspiracy and maintaining a drug-involved premises. [@1,2,5,6]
 
 Prosecutors say Lucas and her associates ran an illegal marijuana operation from around 2019
 through 2026, using her office to pursue licences and routing payments through businesses including
 Lucas Lodge, Lucas Hospitality and The Cannabis Outlet in Portsmouth. [@1,2] Two daughters, Lisa
 Lucas Burke and Theresa Lucas-Lamb, and grandson Ryan Eichelberger are among the co-defendants,
-accused of obtaining, managing or selling marijuana through the family businesses. [@1,2,4,5]
+accused of obtaining, managing or selling marijuana through the family businesses. [@1,2,4,5,6]
 
-The charges follow an FBI search of Lucas's legislative office six months earlier. [@1] Attorney
+The charges follow an FBI search of Lucas's legislative office six months earlier. [@1,6] Attorney
 General Todd Blanche, FBI Director Kash Patel and First Assistant US Attorney Theophani Stamos
-announced the case together; Blanche said the years-long investigation was not political. [@1,2,3]
+announced the case together; Blanche said the years-long investigation was not political. [@1,2,3,6]
 Lucas surrendered on Thursday morning and made her first appearance in Norfolk federal court that
 day; she said the case came from standing up to "people in power" and vowed not to back
-down. [@2,3]
+down. [@2,3,6]
 
-The indictment describes a five-year scheme worth an estimated $4.5 million that obtained and illegally distributed large quantities of marijuana. [@5] On May 6, the FBI executed federal search warrants at The Cannabis Outlet and The CBD Shoppe and recovered marijuana and firearms at both locations. [@5]
+The indictment describes a five-year scheme worth an estimated $4.5 million that obtained and illegally distributed large quantities of marijuana. [@5] On May 6, the FBI executed federal search warrants at The Cannabis Outlet and The CBD Shoppe and recovered marijuana and firearms at both locations. [@5,6]
+
+Law enforcement made multiple controlled purchases of marijuana from Lucas's shop, which purported to sell hemp products, in 2024 and 2025. [@6] The indictment alleges Lucas worked this year with another defendant to use her political position to obtain a recreational marijuana license for him, with the understanding that proceeds would be shared to support the enterprise. [@6] An arraignment is scheduled for next month. [@6] Lucas partnered in opening The Cannabis Outlet in 2021. [@6] She had publicly spoken about her ownership stake as recently as June, though her most recent financial disclosure forms do not list the business by name. [@6]
