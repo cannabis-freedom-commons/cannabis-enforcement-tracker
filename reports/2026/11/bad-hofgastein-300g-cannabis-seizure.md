@@ -27,6 +27,11 @@ sources:
     publisher: Nachrichten.jetzt
     date: 2026-11-04
     language: de
+  - title: Suchtmittelsicherstellung
+    url: https://www.polizei.gv.at/sbg/presse/aussendungen/presseea85.html?prid=3551464f6c313059756f673d&pro=0
+    publisher: Polizei Salzburg
+    date: 2026-11-04
+    language: de
 open_questions:
   - No separate calendar date for the stop is given; 3 November 2026 is inferred from Tuesday evening and yesterday evening relative to the 4 November publication.
   - The 300-gram amount is reported as approximate, not an exact laboratory weight.
@@ -39,17 +44,17 @@ open_questions:
 
 On Tuesday evening, police stopped a 39-year-old Turkish car driver in the
 municipal area of Bad Hofgastein in Pongau during a routine vehicle check. [@1,2]
-Officers said an intensive cannabis smell met them during the check. [@1,2] Police
+Officers said an intensive cannabis smell met them during the check. [@1,2,3] Police
 described the case in a statement issued on Wednesday. [@1] The man remains free
-for now and was reported rather than taken into custody. [@1,2]
+for now and was reported rather than taken into custody. [@1,2,3]
 
 In the follow-up inspection after the smell was noticed, officers seized about
-300 grams of cannabis herb. [@1,2] Police put the seized amount at about 300
+300 grams of cannabis herb. [@1,2,3] Police put the seized amount at about 300
 grams, the figure recorded here as 0.3 kilograms. [@1] The driver told officers
-the drug was intended purely for his own use. [@1,2] After that account, the
-Salzburg public prosecutor's office ordered further steps in the case. [@1] On
+the drug was intended purely for his own use. [@1,2,3] After that account, the
+Salzburg public prosecutor's office ordered further steps in the case. [@1,3] On
 that order, officers seized both the cash the 39-year-old was carrying and his
-mobile telephone. [@1,2]
+mobile telephone. [@1,2,3]
 
 The control is described as a routine vehicle check in Bad Hofgastein, not a
 targeted drug operation. [@1] Bad Hofgastein lies in Pongau, the Salzburg
