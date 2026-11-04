@@ -40,6 +40,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-03
     language: hi
+  - title: हापुड़ में सोशल मीडिया पर वायरल वीडियो के बाद पुलिस की कार्रवाई, 850 ग्राम गांजे के साथ हिस्ट्रीशीटर शकील गिरफ्तार
+    url: https://royalbulletin.in/uttar-pradesh/%E0%A4%B9%E0%A4%BE%E0%A4%AA%E0%A5%81%E0%A5%9C/police-action-after-viral-video-on-social-media-in-hapur/article-250664
+    publisher: Royal Bulletin
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The article gives no calendar date for the arrest; 1 November 2026 is inferred as the Sunday night before its 2 November 2026 publication.
   - No second report of this 850-gram arrest was found; it rests on a single source.
@@ -48,15 +53,19 @@ open_questions:
   - The page carries an image captioned only with the headline, so whether it shows this seizure could not be established and no media entry is added.
   - The submitted Live Hindustan URL ends in 201793647372220 while the existing report cites 201793647375424 with the same headline; the article text describes the same 850-gram Badnauli arrest.
   - The page image caption repeats only the headline and the image file appears to be a site logo frame, so whether it shows this seizure could not be established and no media entry is added.
+  - The article gives no separate date for the arrest; 2 November 2026 is its publication date, while the existing report dates the Sunday-night arrest to 1 November 2026.
+  - The new account spells the locality as Badauli (बदौली) and the neighbourhood as Navikareem (नवीकरीम), against Badnauli and Nabi Karim in the existing report; they are treated as the same place and person.
+  - The page carries a photo captioned only with the headline and without a credit stating what it shows, so whether it depicts this seizure could not be established and no media entry is included.
+  - No cannabis value, laboratory weight beyond the stated 850 grams, or court outcome beyond registration of a case and further legal action was reported.
 ---
 
 Hapur city police arrested a man selling ganja on Badnauli road. [@1,2,3,4] He had
 been standing behind bushes near the railway crossing looking for customers.
 [@1,2] During questioning he gave his name as Shakeel, a resident of Mohalla Nabi
-Karim. [@1,3,4] He tried to flee when he saw the police team approaching, but
+Karim. [@1,3,4,5] He tried to flee when he saw the police team approaching, but
 officers surrounded and caught him. [@1,3,4]
 
-Police searched his bag and recovered 850 grams of ganja. [@1,2,3,4] Police said he
+Police searched his bag and recovered 850 grams of ganja. [@1,2,3,4,5] Police said he
 brought ganja in a bag and sold it to passers-by and addicts for profit. [@1]
 Sub-Inspector Ravindra Kumar's team was patrolling the area on Sunday night when
 an informant told them near Nizampar underpass that a man was selling ganja from
@@ -69,4 +78,6 @@ Act, with further legal action under way. [@1] Police said they are now tracing
 where he sourced the ganja and to whom he supplied it, including others linked
 to the trade. [@1]
 
-Police described the arrested man as a history-sheeter facing nine cases at Kotwali Hapur Nagar. [@3,4] Police said they acted after a video of ganja sales in the area circulated on social media. [@3]
+Police described the arrested man as a history-sheeter facing nine cases at Kotwali Hapur Nagar. [@3,4] Police said they acted after a video of ganja sales in the area circulated on social media. [@3,5]
+
+Police gave his history-sheet number as HS-205A. [@5] Police records list nine cases against Shakeel in Hapur, Meerut and Muzaffarnagar districts, including murder, robbery, Arms Act and NDPS Act cases. [@5] The police team comprised Sub-Inspector Ravindra Kumar, Head Constable Pawan Kumar (882) and Constable Veer Pratap (452). [@5]
