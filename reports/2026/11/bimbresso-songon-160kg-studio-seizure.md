@@ -20,6 +20,11 @@ media:
     media_url: https://www.koaci.com/assets/news/thumbnails/1500/2026/11/photo_1793780233.jpg
     publisher: KOACI
     caption: 'Seized cannabis from the Bimbresso studio raid. Photo: KOACI'
+  - kind: photo
+    url: https://www.linfodrome.com/societe/127219-bimbresso-la-police-decouvre-160-kg-de-cannabis-et-300-comprimes-de-tapentadol-dans-un-studio
+    media_url: https://www.linfodrome.com/media/article/images/src/127219-capture-decran-2026-11-04-114010-1.webp
+    publisher: Linfodrome
+    caption: 'Photo of the 160 kg of cannabis and 300 Tapentadol tablets seized in the Bimbresso studio. Photo: DR'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1bdf69cf66f7cb9c3f42500862449568
@@ -44,6 +49,11 @@ sources:
     publisher: Linfodrome
     date: 2026-11-04
     language: fr
+  - title: 'Bimbresso : La police découvre 160 kg de cannabis et 300 comprimés de Tapentadol dans un studio'
+    url: https://www.linfodrome.com/societe/127219-bimbresso-la-police-decouvre-160-kg-de-cannabis-et-300-comprimes-de-tapentadol-dans-un-studio
+    publisher: Linfodrome
+    date: 2026-11-04
+    language: fr
 open_questions:
   - The 65 grams of Tapentadol and 300 tablets are not counted in cannabis figures; only the separately stated 160.5 kg of cannabis is recorded.
   - No charges, identities or court outcome were reported; the suspects and products were handed to the DPSD with the procedure continuing.
@@ -59,18 +69,18 @@ open_questions:
 ---
 
 On 3 November 2026, officers of the Groupe de Répression Anti-Drogues du Tri
-Postal intervened at a studio in Bimbresso, in the commune of Songon. [@1,2,3,4] The
+Postal intervened at a studio in Bimbresso, in the commune of Songon. [@1,2,3,4,5] The
 officers arrested two men, one seated outside the dwelling and a second found
-inside after the first was made to knock to gain entry. [@1,2,3,4] The team went to
+inside after the first was made to knock to gain entry. [@1,2,3,4,5] The team went to
 the scene around 11:30 on the instruction of the public prosecutor at the Dabou
-court. [@1,2,3,4]
+court. [@1,2,3,4,5]
 
 The search found two large bags each containing 80 blocks of cannabis, 160
-blocks in total weighing 160.5 kilograms. [@1,2,3,4] In a black sachet officers also
+blocks in total weighing 160.5 kilograms. [@1,2,3,4,5] In a black sachet officers also
 found several strips of Tapentadol 250 mg, 300 tablets with a stated weight of
-65 grams. [@1,4] The operation took place without incident or injury, and the two
+65 grams. [@1,4,5] The operation took place without incident or injury, and the two
 suspects with all the seized products were handed to the Direction de la Police
-des Stupéfiants et des Drogues, which is continuing the procedure. [@1,2,3,4]
+des Stupéfiants et des Drogues, which is continuing the procedure. [@1,2,3,4,5]
 
 The case began with repeated complaints from neighbourhood residents alarmed at
 young people selling and consuming drugs near their homes, which drew the
