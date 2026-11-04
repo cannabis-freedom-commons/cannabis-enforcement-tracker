@@ -39,28 +39,34 @@ sources:
     url: https://www.newson6.com/crime/marijuana-plants-seized-raid-mcalester
     publisher: NewsOn6.com
     date: 2026-11-04
+  - title: OBN agents seize 1,000 marijuana plants from illegal grow
+    url: https://okcfox.com/news/local/obn-agents-seize-1000-marijuana-plants-from-illegal-grow
+    publisher: KOKH
+    date: 2026-11-04
 open_questions:
   - The article gives no separate date for the search, so 4 November 2026, its publication date, is used as the incident date.
   - The arrested person was not named, and no custody status, formal charges or court outcome were reported.
   - No cannabis weight, cultivation area or monetary value was published.
   - Only one opened source supports this event; no second account or agency statement could be opened.
+  - The new account says the search occurred on Tuesday before its Wednesday 4 November 2026 publication, while the existing report uses 4 November, the publication date, as the incident date.
 ---
 
 Oklahoma Bureau of Narcotics agents arrested one person during a search at a
-property in McAlester, Oklahoma. [@1] Agents served a search warrant at the
+property in McAlester, Oklahoma. [@1,2] Agents served a search warrant at the
 property as part of an ongoing investigation into the illegal cultivation of
-marijuana. [@1] The property stands just west of Lake McAlester. [@1] The
+marijuana. [@1,2] The property stands just west of Lake McAlester. [@1] The
 arrested person was held on a complaint of aggravated manufacturing of a
-controlled substance. [@1]
+controlled substance. [@1,2]
 
-Investigators seized 1,006 marijuana plants at the property. [@1] The Bureau
+Investigators seized 1,006 marijuana plants at the property. [@1,2] The Bureau
 described the result as more than 1,000 marijuana plants seized during the
-McAlester search. [@1]
+McAlester search. [@1,2]
 
 The Bureau said agents determined the marijuana was being grown without a
 license from the Oklahoma Medical Marijuana Authority, or OMMA, or registration
-with the Bureau of Narcotics. [@1] Unlicensed cultivation was therefore the
+with the Bureau of Narcotics. [@1,2] Unlicensed cultivation was therefore the
 stated basis for the enforcement action. [@1] The investigation was continuing
 at the time of publication, and the Bureau said additional arrests were
-possible. [@1]
+possible. [@1,2]
 
+The search occurred in the 600 block of W. Pasture Rd. in McAlester. [@2]
