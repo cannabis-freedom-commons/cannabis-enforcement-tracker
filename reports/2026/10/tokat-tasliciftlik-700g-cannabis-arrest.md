@@ -60,6 +60,11 @@ sources:
     publisher: Saray Medya
     date: 2026-11-04
     language: tr
+  - title: Tokat’ta düzenlenen operasyonda 700 gram esrar ele geçirildi
+    url: https://gazetepano.com/asayis/tokatta-uyusturucu-operasyonu-700-gram-esrar-ele-gecirildi/62241/
+    publisher: Gazete Pano
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The suspect is identified only by the initials O.B. with age 24; no full name was published.
   - No specific charge or trial outcome beyond remand in custody was reported.
@@ -70,22 +75,23 @@ open_questions:
   - The page displays an evidence-collage photo, but it was not added as media because it appears to repeat the same agency handout already linked from the İHA report and its distinctness could not be established from captions alone.
   - The KaradenizGazete page credits İHA and repeats the same agency text already cited, so it provides corroboration but no independent second account.
   - The page image is not added as media because its caption does not establish that it shows this seizure distinctly from the agency handout already linked in the report.
+  - The Gazete Pano page image is captioned only as featured and is not established to show this seizure, so no media entry is included.
 ---
 
 Gendarmerie teams stopped the vehicle driven by 24-year-old O.B. at about 15:00
-on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3,4,5,6,7] Officers
-detained one suspect in connection with the vehicle and home searches. [@1,2]
+on 31 October near Taşlıçiftlik village on the Turhal-Tokat road. [@1,2,3,4,5,6,7,8] Officers
+detained one suspect in connection with the vehicle and home searches. [@1,2,8]
 
 A judicial search of the vehicle found 380 grams of vacuum-packed kubar esrar,
-herbal cannabis, together with one banknote-counting machine. [@1,2,3,4,5,6,7] A search of
+herbal cannabis, together with one banknote-counting machine. [@1,2,3,4,5,6,7,8] A search of
 the driver's home in central Turhal found another 320 grams of vacuum-packed
-kubar esrar. [@2,3,4,5,6,7] Officers also recovered one vacuum machine, 5 kilograms of
+kubar esrar. [@2,3,4,5,6,7,8] Officers also recovered one vacuum machine, 5 kilograms of
 odour remover, a digital scale and a knuckle duster from the home. [@1,2,4] The
 vehicle and home searches together yielded a total of 700 grams of kubar esrar.
-[@2,4,6]
+[@2,4,6,8]
 
 O.B. was taken into custody on the instructions of the public prosecutor and was
-then remanded in custody by the court. [@1,2,3,4,5,6] No other suspect was named in
+then remanded in custody by the court. [@1,2,3,4,5,6,8] No other suspect was named in
 connection with the seizure. [@2]
 
 The stop was carried out by teams from the Merkez District Gendarmerie Command and the Turhal District Gendarmerie Command. [@2,6]
