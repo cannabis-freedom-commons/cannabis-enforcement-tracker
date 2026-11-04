@@ -34,6 +34,11 @@ sources:
     publisher: Segundo a Segundo
     date: 2026-11-04
     language: pt
+  - title: “Menino Ney” é preso por tráfico de drogas na zona Norte de Manaus
+    url: https://www.acritica.com/policia/menino-ney-e-preso-por-trafico-de-drogas-na-zona-norte-de-manaus/
+    publisher: A Crítica
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No separate count or weight was published for the skunk marijuana portions versus the oxi stones, so no cannabis quantity can be recorded.
   - The amount of cash found was not published, so no value can be recorded.
@@ -45,13 +50,14 @@ open_questions:
   - The new account lists R$950 and a card machine, while the existing report lists cash without an amount and a precision scale.
   - The new account says another man fled by jumping the property wall while the detained youth tried separately to escape, while the existing report says Menino Ney himself tried to flee by jumping the wall.
   - The new account describes the cannabis only as portions of maconha and does not specify skunk.
+  - The A Crítica page image uses a business-card template file name with only a generic Divulgação credit and caption, which does not establish that it shows this arrest or seizure, so no media entry is included.
 ---
 
 Military police arrested 19-year-old Edney da Silva Lima, known as Menino Ney,
 in flagrante delicto at about 22:30 on Tuesday 3 November 2026 on Rua Treze in
-Comunidade Mundo Novo, Cidade Nova, in the North Zone of Manaus. [@1,2] The arrest
+Comunidade Mundo Novo, Cidade Nova, in the North Zone of Manaus. [@1,2,3] The arrest
 for drug trafficking was made by a tactical ostensive patrol team of the Rondas
-Ostensivas Cândido Mariano, known as Rocam. [@1,2]
+Ostensivas Cândido Mariano, known as Rocam. [@1,2,3]
 
 When officers arrived, Menino Ney tried to flee by jumping over the property
 wall, but the area was already surrounded and officers arrested him in
@@ -66,4 +72,6 @@ was not disclosed, had also recently been arrested in the same community for
 drug trafficking. [@1,2] He was then presented at the 6th DIP, the district police
 station, for the applicable legal procedures. [@1]
 
-Officers seized R$950 in cash and a card machine in the house search. [@2] Officers were patrolling Rua Treze when they noticed suspicious movement and a queue of people in front of a residence. [@2]
+Officers seized R$950 in cash and a card machine in the house search. [@2,3] Officers were patrolling Rua Treze when they noticed suspicious movement and a queue of people in front of a residence. [@2,3]
+
+After a custody hearing he was to remain at the disposal of justice. [@3]
