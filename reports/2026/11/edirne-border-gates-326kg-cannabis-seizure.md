@@ -151,6 +151,11 @@ sources:
     publisher: Mardin Life
     date: 2026-11-04
     language: tr
+  - title: Yarım tona yakın uyuşturucu ele geçirildi
+    url: https://edirnesonhaber.com/yarim-tona-yakin-uyusturucu-ele-gecirildi/195590
+    publisher: Edirne Son Haber
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement and publication date used as the incident date.
   - The combined 459 kg 599 g total and the cocaine and heroin weights are mentioned only to explain the mixed case and are excluded from cannabis figures; the cannabis-only figure is 325.941 kg.
@@ -165,6 +170,10 @@ open_questions:
   - The submitted page writes the detector dogs as Yappa, Atlas and İda, while the existing report capitalises them as YAPPA, ATLAS and İDA; the spelling difference does not affect the match.
   - The submitted page images are captioned only with the article headline, so no photo is established to show this seizure and no media entry is included.
   - The Haber24 page carries a single image captioned only with the article headline, which does not establish that it shows this seizure, so no media entry is included.
+  - The submitted page totals 444 kilo 599 gram for three border-gate operations, while the existing report totals 459 kg 599 g for four operations including Istanbul Airport; only the separately stated cannabis breakdowns are recorded as cannabis.
+  - The submitted page says investigations are continuing before the Edirne and İpsala chief public prosecutor's offices and does not mention the Gaziosmanpaşa office named in the existing report for the Istanbul Airport operation.
+  - The submitted page writes the detector dogs as Yappa, Atlas and İda, while the existing report capitalises them as YAPPA, ATLAS and İDA.
+  - No arrests, detentions or court outcomes are named in the submitted page.
 ---
 
 Türkiye's Trade Ministry Customs Enforcement teams carried out four separate
@@ -178,15 +187,15 @@ offices. [@1,3,4,6,8,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27]
 
 At Kapıkule, officers judged a vehicle entering the customs area suspicious
 after risk analysis and sent it for X-ray screening, where they found suspicious
-density in its fuel tank. [@1,2,5,6,9,14] A detailed search there recovered 109 packages
+density in its fuel tank. [@1,2,5,6,9,14,28] A detailed search there recovered 109 packages
 holding 118 kg 658 g of cocaine and 32 packages holding 25 kg 744 g of esrar.
-[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
-assessment. [@1,2,6] Officers searched its fuel tank with narcotics detector dogs
+[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27,28] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
+assessment. [@1,2,6,28] Officers searched its fuel tank with narcotics detector dogs
 YAPPA and ATLAS after suspicious density was found, and after the dogs reacted
-they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27] At İpsala,
+they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27,28] At İpsala,
 a truck entering Türkiye was sent for X-ray screening after risk-analysis work.
-[@1,2,6] After checks with narcotics detector dog İDA, a detailed examination of the
-suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27]
+[@1,2,6,28] After checks with narcotics detector dog İDA, a detailed examination of the
+suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27,28]
 
 At Istanbul Airport, officers checked the luggage of three incoming passengers
 identified through risk analysis. [@1,2,3,4,6,9,10,11,13,14,15,17,19,21,23,24,25,26] The examination there found a total of 15
