@@ -80,6 +80,11 @@ sources:
     publisher: thebest.gr
     date: 2026-11-03
     language: el
+  - title: 'Δυτική Αχαΐα: Χειροπέδες σε ημεδαπό με πάνω από 3 κιλά κάνναβης και βαρύ οπλισμό'
+    url: https://protionline.gr/2026/11/%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%AE-%CE%B1%CF%87%CE%B1%CE%90%CE%B1-%CF%87%CE%B5%CE%B9%CF%81%CE%BF%CF%80%CE%AD%CE%B4%CE%B5%CF%82-%CF%83%CE%B5-%CE%B7%CE%BC%CE%B5%CE%B4%CE%B1%CF%80%CF%8C-%CE%BC%CE%B5/
+    publisher: Proti Online
+    date: 2026-11-03
+    language: el
 open_questions:
   - The cannabis total differs between the police announcement's 3 kilos and 117 grams and Aigiovoice's approximate three kilos plus 311 grams; the report records the police figure.
   - The suspect was identified only as a Greek man born in 1983, with no full name published.
@@ -104,24 +109,26 @@ open_questions:
   - The ioannina24 page's listed image carries no caption or credit establishing it shows this seizure, so no media entry is added.
   - This account names only Western Achaia and does not name Alissos, so the Alissos locality is retained from the report's earlier sources.
   - No new media entry is added because the page's listed image caption repeats the headline with no credit establishing it shows this seizure, and it appears to be the same police handout already cited via Tempo24.
+  - This account names only an area of Western Achaia and does not name Alissos, so the Alissos locality is retained from the report's earlier sources.
+  - The page's listed seizure image has empty alt text with no caption or credit establishing it shows this seizure, so no new media entry is added.
 ---
 
 On the morning of 3 November 2026, officers of the Western Achaia Department for
 the Prosecution and Investigation of Crimes acted on tip information in Alissos
 in Western Achaia. [@1,10] Officers carried out a house search at a home in the
-area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9] Officers
+area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9,12] Officers
 arrested a Greek man born in 1983 in connection with the case. [@1] Police filed
 a case against him for drug trafficking and possession and for breach of weapons
-law. [@2,3,4,5,6,7,8,9,10,11] He was to be taken to the Achaia first-instance prosecutor, while the
-same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9,11]
+law. [@2,3,4,5,6,7,8,9,10,11,12] He was to be taken to the Achaia first-instance prosecutor, while the
+same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9,11,12]
 
 According to the police announcement, officers seized 3 kilos and 117 grams of
-raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9,11]
+raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9,11,12]
 Aigiovoice described the cannabis as about three kilos of raw cannabis in branch
 form plus 311 grams of cannabis plant extracts. [@1] Officers also seized an
-electronic precision scale and garden shears. [@2,4,5,6,7,9,11]
+electronic precision scale and garden shears. [@2,4,5,6,7,9,11,12]
 
 Officers seized three hunting guns, comprising two single-barrel shotguns and a
-carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9,11] They also seized a blank-gas pistol
-with an empty magazine. [@2,3,4,5,6,7,9,11] The firearms were held without the required
+carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9,11,12] They also seized a blank-gas pistol
+with an empty magazine. [@2,3,4,5,6,7,9,11,12] The firearms were held without the required
 possession licence. [@1]
