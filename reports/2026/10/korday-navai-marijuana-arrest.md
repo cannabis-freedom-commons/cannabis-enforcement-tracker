@@ -57,6 +57,11 @@ sources:
     publisher: Meduza
     date: 2026-10-15
     language: ru
+  - title: Рэпера Navai задержали в Казахстане из-за наркотиков в машине
+    url: https://uz.kursiv.media/2026-10-14/repera-navai-zaderzhali-v-kazahstane-iz-za-narkotikov-v-mashine/
+    publisher: Kursiv Media Uzbekistan
+    date: 2026-10-14
+    language: ru
 open_questions:
   - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
   - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
@@ -76,12 +81,14 @@ open_questions:
   - 'The page image is captioned only as Фото: Свойкировский with no event caption, so no media entry is included.'
   - The outcome of the Kyrgyz border service's internal inquiry was not reported in the opened article.
   - Whether the drugs the rapper admitted buying in Bishkek were the same cannabis found in the car was not specified in the opened article.
+  - This account describes the approximately 10 grams in the manager's pouch as an unspecified narcotic substance rather than marijuana, so only the 2.5 g of marijuana is countable as cannabis.
+  - The page image is credited to Mikhail Sinitsyn/TASS and captioned about the travellers, indicating an archive portrait rather than the checkpoint, car, seizure or detention, so no media entry is included.
 ---
 
 Police and border guards detained Russian rapper Navai, real name Navai Bakirov,
-at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5,7] He
+at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5,7,9] He
 was travelling by car from Kyrgyzstan, and officers found and seized a narcotic
-substance during the inspection of the vehicle. [@1,3,6,7] All three people travelling
+substance during the inspection of the vehicle. [@1,3,6,7,9] All three people travelling
 in the car were detained and handed to police, who placed them in a temporary
 detention facility. [@2]
 
@@ -98,10 +105,10 @@ drug trafficking and suggested the discovered substance could have been planted.
 
 Baza, citing checkpoint staff, claimed that 10 grams of marijuana were found in Navai's car, in which his manager and driver were travelling with him. [@3,8]
 
-A service dog named Atlas discovered the banned substances. [@4] The marijuana was found in the pocket of the driver's seat of the car in which the rapper was travelling. [@4] A case was opened under Article 286 of Kazakhstan's Criminal Code, which provides for a fine, corrective labour, restriction or imprisonment for up to five years, with or without confiscation of property. [@4] The day before, the rapper had been in Tashkent before travelling to a concert in Astana. [@4]
+A service dog named Atlas discovered the banned substances. [@4] The marijuana was found in the pocket of the driver's seat of the car in which the rapper was travelling. [@4,9] A case was opened under Article 286 of Kazakhstan's Criminal Code, which provides for a fine, corrective labour, restriction or imprisonment for up to five years, with or without confiscation of property. [@4] The day before, the rapper had been in Tashkent before travelling to a concert in Astana. [@4]
 
 The Korday district court ordered Navai held in custody for two months. [@5,8] Telegram channels reported that the Korday district court sanctioned holding Navai in custody for two months. [@6] A criminal case was opened against him on charges of smuggling and unlawful transportation of narcotics without intent to sell. [@5]
 
 Journalist Mikhail Kozachkov wrote on Telegram that 2.5 g of marijuana was found in the car after a service dog reacted to it. [@7] Two other people were travelling with the rapper, and investigators were establishing who owned the substances. [@7] The organiser said spectators would receive refunds for the cancelled Astana concert. [@7] His tour ran from 9 July to 16 October across Russia, Uzbekistan, Kyrgyzstan, Kazakhstan and Moldova, with the last concert on 12 October in Bishkek before the planned Astana and Chisinau shows. [@7]
 
-On questioning, the rapper admitted that he had bought the drugs in Bishkek. [@8] Kyrgyzstan's border service started an internal inquiry into the circumstances of the border-control passage after Navai's detention with drugs after crossing the border. [@8]
+On questioning, the rapper admitted that he had bought the drugs in Bishkek. [@8,9] Kyrgyzstan's border service started an internal inquiry into the circumstances of the border-control passage after Navai's detention with drugs after crossing the border. [@8]
