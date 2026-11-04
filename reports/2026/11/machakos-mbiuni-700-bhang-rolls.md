@@ -20,6 +20,11 @@ media:
     media_url: https://capitalfm.africa/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-5.48.16-AM-800x420.jpeg
     publisher: Capital FM
     caption: Photo accompanying the report on the bhang rolls seized in the Mbiuni raid
+  - kind: photo
+    url: https://www.radio47.fm/news/nacada-operation-nets-major-cannabis-haul-in-machakos-43286/
+    media_url: https://www.radio47.fm/wp-content/uploads/2026/11/21e3402f-3474-417d-a53f-5136258a32c5-e1793679278914-768x435.jpg
+    publisher: Radio47
+    caption: Brooms and rolls of suspected bhang netted during the operation.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c0b115f2f1fe10206794a3eb5eb133d3
@@ -49,6 +54,10 @@ sources:
     url: https://citizen.digital/article/suspected-drug-trafficker-arrested-as-nacada-seizes-700-bhang-rolls-in-machakos-n393083
     publisher: Citizen Digital
     date: 2026-11-03
+  - title: NACADA operation nets major cannabis haul in Machakos
+    url: https://www.radio47.fm/news/nacada-operation-nets-major-cannabis-haul-in-machakos-43286/
+    publisher: Radio47
+    date: 2026-11-03
 open_questions:
   - No weight or street value was published for the 85 brooms or 700 rolls, so no cannabis weight is recorded.
   - The suspect is identified only as a 31-year-old man; no name, charge or court outcome was reported.
@@ -69,26 +78,27 @@ open_questions:
   - The new account writes 73 white Rizla papers while the existing report says 73 white-top Rizla papers from an earlier account.
   - The new account describes a pair of scissors without a colour while the existing report says blue-handled scissors from an earlier account.
   - The submitted page carries a lead photo whose caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
+  - The Radio47 account writes 'wristler papers' where the existing report uses 'Rizla papers' for the same 73 white-top and 44 brown papers.
 ---
 
 Kenya's National Authority for the Campaign Against Alcohol and Drug Abuse
 arrested a suspected drug trafficker during an intelligence-led operation in
-Mwala Sub-County, Machakos County. [@1,2,3,5,6] The operation targeted a homestead in
+Mwala Sub-County, Machakos County. [@1,2,3,5,6,7] The operation targeted a homestead in
 Mbiuni at approximately 3:01am on Tuesday, where officers arrested a 31-year-old
-man suspected of trafficking narcotic substances. [@1,4,5,6] Bhang is the term used in
+man suspected of trafficking narcotic substances. [@1,4,5,6,7] Bhang is the term used in
 the report for the suspected cannabis seized in the raid. [@1]
 
 A search of the premises uncovered 85 brooms of dry plant material suspected to
 be bhang alongside 700 small brownish rolls containing suspected narcotic
-substances. [@1,2,3,4,5,6] The 700 rolls comprised 300 small brownish rolls and an
+substances. [@1,2,3,4,5,6,7] The 700 rolls comprised 300 small brownish rolls and an
 additional 400 similar rolls recovered alongside materials believed to have been
-used in packaging the drugs. [@1,4,5] Officers also recovered 16 nylon papers
+used in packaging the drugs. [@1,4,5,7] Officers also recovered 16 nylon papers
 containing dry plant material, 73 white-top Rizla papers, 44 brown Rizla papers
-and a pair of blue-handled scissors. [@1,2,3,5,6]
+and a pair of blue-handled scissors. [@1,2,3,5,6,7]
 
 All recovered exhibits were labelled and secured before the suspect was escorted
 to Jomo Kenyatta International Airport Police Station for further police
-processing. [@1,2,3,4,5,6] NACADA chief executive Dr Anthony Omerikwa commended the
+processing. [@1,2,3,4,5,6,7] NACADA chief executive Dr Anthony Omerikwa commended the
 officers and said the operation showed the importance of intelligence-sharing
 and collaboration among security agencies in tackling drug trafficking. [@1] The
 case remains under investigation as NACADA officers pursue further inquiries
