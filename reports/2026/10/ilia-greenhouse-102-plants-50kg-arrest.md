@@ -41,26 +41,32 @@ sources:
     publisher: Pelop.gr
     date: 2026-11-01
     language: el
+  - title: 'Ηλεία: Εντοπίστηκαν δύο θερμοκήπια με 102 δενδρύλλια κάνναβης'
+    url: https://www.alphatv.gr/koinonia/ileia-entopistikan-dio-thermokipia-me-102-dendrillia-kannavis/
+    publisher: AlphaTV
+    date: 2026-11-02
+    language: el
 open_questions:
   - The exact agricultural plot within Ilia was not identified beyond an area of Ilia, so coordinates mark Pyrgos as the district centre.
   - The suspect was described only as a Greek man and was not named.
   - No court outcome beyond referral to the Ilia prosecutor was reported.
+  - The article dates the arrest only to Saturday at midday; 31 October 2026 is inferred from its 2 November 2026 publication date, matching the existing report's date.
+  - The AlphaTV page carries two Hellenic Police photos of the warehouse and the finds that appear to republish the same police handout already covered in the existing report, so no new media entry is added.
 ---
 
 Officers of the Ilida Crime Investigation and Clearance Department arrested a
 Greek man in Ilia at midday on 31 October 2026. [@1] Police opened a case file
-against him for cultivation and possession of narcotics. [@1] Officers found the
+against him for cultivation and possession of narcotics. [@1,3] Officers found the
 accused on an agricultural plot in an area of Ilia, where he was growing
-cannabis seedlings inside two greenhouses. [@1]
+cannabis seedlings inside two greenhouses. [@1,3]
 
 He had hidden the drug quantities and a scale in an adjacent warehouse next to
 the plot. [@1] Officers seized 50 kilograms and 30 grams of raw dried cannabis
-and plant fragments of the narcotic substance. [@1] They seized 102 cannabis
-plants up to 2.5 metres tall, of which 21 had already been harvested. [@1] They
-also seized one working precision electronic scale from the site. [@1]
+and plant fragments of the narcotic substance. [@1,3] They seized 102 cannabis
+plants up to 2.5 metres tall, of which 21 had already been harvested. [@1,3] They
+also seized one working precision electronic scale from the site. [@1,3]
 
 The arrested man was to be brought before the prosecutor of the Ilia Court of
-First Instance at its parallel seat in Amaliada. [@1] The Ilida Crime
+First Instance at its parallel seat in Amaliada. [@1,3] The Ilida Crime
 Investigation and Clearance Department is conducting the preliminary
 investigation into the case. [@2]
-
