@@ -40,6 +40,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-04
     language: hi
+  - title: 'Jamui News: द्वारपहड़ी पुलिस की कार्रवाई में कट्टा, शराब एवं गांजा बरामद'
+    url: https://www.livehindustan.com/bihar/jamui/story-jhajha-police-seize-country-made-pistol-cannabis-and-liquor-in-three-operations-201793815671580.html
+    publisher: Hindustan
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article describes the seized cannabis only as more than one kilogram, so no precise seized weight is recorded.
   - The article gives only its publication date of 2 November 2026 and no separate day for the raids, so that date is used as the incident date.
@@ -51,14 +56,18 @@ open_questions:
   - The new source does not repeat the 11-bottle liquor count or the bag-search detail, so that detail remains supported by the earlier Prabhat Khabar account alone.
   - The new source does not explicitly state Kartik Sav's arrest or transfer to judicial custody, so custody remains supported by the earlier account alone.
   - The page image uses a Bhagalpur section logo address and caption, so it is not established to show this seizure and no media entry is included.
+  - The new page gives only its publication date of 4 November 2026 and no separate day for the raids, so the existing incident date is retained.
+  - The new page spells the Bhelvinda resident as कार्तिक साव, transliterated here as Kartik Saw, while the existing report uses Kartik Sah/Sav; they are treated as the same person.
+  - The new page does not state the liquor-bottle count, case registration or transfer to judicial custody, so those details remain supported by the earlier accounts alone.
+  - The page image uses a generic Frame_294 logo address and caption, so it is not established to show this seizure and no media entry is included.
 ---
 
 Dwarpahari police in Jhajha arrested three people in separate actions against
-illegal weapons, ganja and liquor. [@1,2,3] In Yogiatilha village, officers
+illegal weapons, ganja and liquor. [@1,2,3,4] In Yogiatilha village, officers
 recovered one desi katta, a country-made pistol, from a house and arrested
-Abhishek Kumar in that case. [@1,3] In the same village, officers searched a bag
+Abhishek Kumar in that case. [@1,3,4] In the same village, officers searched a bag
 held by resident Prince Kumar and found 11 bottles of foreign liquor inside.
-[@1] Police seized that liquor and arrested Prince Kumar. [@1,3] In Bhelvinda
+[@1] Police seized that liquor and arrested Prince Kumar. [@1,3,4] In Bhelvinda
 village, police searched the house of village resident Kartik Sah after
 information that a heavy quantity of ganja was stored there. [@1,2] Officers found
 more than one kilogram of ganja, or cannabis, kept at one spot in the house and
@@ -75,4 +84,4 @@ somewhere for delivery. [@1] Police said they are investigating the keeping of
 the ganja and possible illegal-trade links. [@1] Police said they are also
 investigating why the pistol was kept in the house. [@1]
 
-Police recovered 1.149 kg of ganja from the house of Kartik Sav in Bhelvinda village. [@3]
+Police recovered 1.149 kg of ganja from the house of Kartik Sav in Bhelvinda village. [@3,4]
