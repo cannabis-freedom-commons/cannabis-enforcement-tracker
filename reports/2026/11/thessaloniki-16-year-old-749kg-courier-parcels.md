@@ -130,6 +130,11 @@ sources:
     publisher: ΔΕΔΟΜΕΝΟ
     date: 2026-11-04
     language: el
+  - title: 'Θεσσαλονίκη: Τσάκωσαν 16χρονο μόλις παρέλαβε δέμα κάνναβης'
+    url: https://logospellas.gr/%CE%95%CE%B9%CE%B4%CE%AE%CF%83%CE%B5%CE%B9%CF%82/%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7-%CF%84%CF%83%CE%AC%CE%BA%CF%89%CF%83%CE%B1%CE%BD-16%CF%87%CF%81%CE%BF%CE%BD%CE%BF-%CE%BC%CF%8C%CE%BB%CE%B9%CF%82-%CF%80%CE%B1%CF%81/
+    publisher: Λόγος της Πέλλας
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -170,21 +175,21 @@ open_questions:
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20,21] He is accused of violating drugs and
-foreigners legislation. [@1,3,8,14] Officers also arrested the boy's mother for
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20,21,22] He is accused of violating drugs and
+foreigners legislation. [@1,3,8,14,22] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12,13,14,15,16,18,19,20] Police said the boy had previously faced similar offences and will be taken
-to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19,20,21]
+[@2,4,5,6,7,8,9,12,13,14,15,16,18,19,20,22] Police said the boy had previously faced similar offences and will be taken
+to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19,20,21,22]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
-addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18,19,20,21] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18,19,20,21] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18,19,20,21]
+addressed to the boy. [@1,3,6,7,8,9,11,12,13,14,15,16,18,19,20,21,22] In total officers seized 7 kilograms and 490 grams of
+hydroponic cannabis. [@1,3,5,8,9,10,11,12,14,15,16,17,18,19,20,21,22] They also seized two mobile phones. [@1,5,9,10,11,12,14,15,16,17,18,19,20,21,22]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
-organised-crime unit. [@1,14,17,20] Police in Thessaloniki made the arrest on Tuesday, 3
+organised-crime unit. [@1,14,17,20,22] Police in Thessaloniki made the arrest on Tuesday, 3
 November 2026. [@2,3,6,7,10,13,14,16,20,21]
 
 The controlled-delivery parcel came from the United States. [@11] The arrested boy is Albanian. [@11] The boy's father is also in prison for drug trafficking. [@11]
