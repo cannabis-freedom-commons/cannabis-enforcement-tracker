@@ -85,6 +85,11 @@ sources:
     publisher: Proti Online
     date: 2026-11-03
     language: el
+  - title: 'Δυτική Αχαΐα: Χειροπέδες σε άνδρα κατηγορούμενο για διακίνηση και κατοχή ναρκωτικών και παράβαση της νομοθεσίας περί όπλων– Κατασχέθηκαν πάνω από 3 κιλά κάνναβης και όπλα'
+    url: https://iliaweb.gr/dytiki-achaia-cheiropedes-se-andra-katigoroymenoy-gia-narkotika-kataschethikan-pano-apo-3-kila-kannavis-kai-opla/
+    publisher: Iliaweb
+    date: 2026-11-03
+    language: el
 open_questions:
   - The cannabis total differs between the police announcement's 3 kilos and 117 grams and Aigiovoice's approximate three kilos plus 311 grams; the report records the police figure.
   - The suspect was identified only as a Greek man born in 1983, with no full name published.
@@ -116,19 +121,19 @@ open_questions:
 On the morning of 3 November 2026, officers of the Western Achaia Department for
 the Prosecution and Investigation of Crimes acted on tip information in Alissos
 in Western Achaia. [@1,10] Officers carried out a house search at a home in the
-area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9,12] Officers
+area and found and seized cannabis and weapons held by the owner. [@1,4,5,6,7,9,12,13] Officers
 arrested a Greek man born in 1983 in connection with the case. [@1] Police filed
 a case against him for drug trafficking and possession and for breach of weapons
-law. [@2,3,4,5,6,7,8,9,10,11,12] He was to be taken to the Achaia first-instance prosecutor, while the
-same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9,11,12]
+law. [@2,3,4,5,6,7,8,9,10,11,12,13] He was to be taken to the Achaia first-instance prosecutor, while the
+same department is conducting the preliminary investigation. [@2,3,4,5,6,7,8,9,11,12,13]
 
 According to the police announcement, officers seized 3 kilos and 117 grams of
-raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9,11,12]
+raw cannabis and plant fragments divided among packages and containers. [@2,3,4,5,6,7,8,9,11,12,13]
 Aigiovoice described the cannabis as about three kilos of raw cannabis in branch
 form plus 311 grams of cannabis plant extracts. [@1] Officers also seized an
-electronic precision scale and garden shears. [@2,4,5,6,7,9,11,12]
+electronic precision scale and garden shears. [@2,4,5,6,7,9,11,12,13]
 
 Officers seized three hunting guns, comprising two single-barrel shotguns and a
-carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9,11,12] They also seized a blank-gas pistol
-with an empty magazine. [@2,3,4,5,6,7,9,11,12] The firearms were held without the required
+carbine loaded with three cartridges. [@2,3,4,5,6,7,8,9,11,12,13] They also seized a blank-gas pistol
+with an empty magazine. [@2,3,4,5,6,7,9,11,12,13] The firearms were held without the required
 possession licence. [@1]
