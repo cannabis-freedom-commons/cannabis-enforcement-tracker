@@ -128,6 +128,10 @@ sources:
     publisher: प्रदेश प्रकाश
     date: 2026-11-01
     language: hi
+  - title: MP Police seize over 11,600 kg cannabis plants worth Rs 30 crore in four districts
+    url: https://www.socialnews.xyz/2026/11/04/mp-police-seize-over-11600-kg-cannabis-plants-worth-rs-30-crore-in-four-districts/
+    publisher: Social News XYZ
+    date: 2026-11-04
 open_questions:
   - Lalluram reported 67.29 quintals (6,729 kg) and Rs 24 crore, while the Bhasha wire report, Bhaskar and Zee give about 67 quintals (6,700 kg) and Rs 25 crore; the report uses 6,700 kg and Rs 25 crore.
   - Lalluram said police raided seven to eight farms and Zee said eight; the report uses eight.
@@ -167,8 +171,8 @@ and Psychotropic Substances Act. [@3,6,9,12]
 
 Police said cannabis, known locally as ganja, was growing among maize, pigeon
 pea and cotton on the farms. [@1,9,10,11] Police put the weight of the seized plants at
-about 67 quintals (6,700 kg). [@3,6,7,8,9,10,11,12] Police estimated the market value at about Rs
-25 crore. [@2,6,7,8,9,10,11,12] Lalluram put the value at Rs 24 crore. [@1] It took police teams
+about 67 quintals (6,700 kg). [@3,6,7,8,9,10,11,12,14] Police estimated the market value at about Rs
+25 crore. [@2,6,7,8,9,10,11,12,14] Lalluram put the value at Rs 24 crore. [@1] It took police teams
 about 24 hours to uproot the plants from the irrigated fields. [@3,6] Forty
 constables, four assistant sub-inspectors and three station in-charges took
 part. [@3,6] The crop was loaded onto five tractor-trolleys and taken to Manawar.

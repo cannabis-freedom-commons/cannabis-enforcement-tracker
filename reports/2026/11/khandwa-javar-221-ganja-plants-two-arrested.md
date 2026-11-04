@@ -37,6 +37,10 @@ sources:
     publisher: Patrika News
     date: 2026-11-04
     language: hi
+  - title: MP Police seize over 11,600 kg cannabis plants worth Rs 30 crore in four districts
+    url: https://www.socialnews.xyz/2026/11/04/mp-police-seize-over-11600-kg-cannabis-plants-worth-rs-30-crore-in-four-districts/
+    publisher: Social News XYZ
+    date: 2026-11-04
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
@@ -67,7 +71,7 @@ and started an investigation. [@1,2,3]
 
 Officers uprooted and seized a total of 221 green ganja plants with a combined
 weight of 295.700 kilograms. [@1,2] Police put the estimated value of the seized
-plants at 29 lakh 57 thousand rupees. [@1,3] The plants were growing among cotton
+plants at 29 lakh 57 thousand rupees. [@1,3,4] The plants were growing among cotton
 and tuar crops in both fields. [@1,2,3] The first field yielded about 110 plants
 weighing 195.361 kilograms. [@1,2] The second field yielded 111 plants weighing
 about 100.339 kilograms. [@1]
