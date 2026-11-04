@@ -37,6 +37,15 @@ sources:
     url: https://www.siasat.com/auto-driver-caught-with-1-94-kg-ganja-in-hyderabad-3567649/
     publisher: The Siasat Daily
     date: 2026-10-31
+  - title: గంజాయి ముఠాలపై ఈగల్‌ ఫోర్స్‌ ఉక్కుపాదం
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-ganja-drug-raids-eagle-force-arrests-1572391.html
+    publisher: Andhrajyothy
+    date: 2026-11-01
+    language: te
+  - title: Crackdown on Drugs Intensifies Across Telangana
+    url: https://english.teatimetelugu.com/general/crackdown-on-drugs-intensifies-across-telangana-mvx3604s
+    publisher: TeaTime Telugu
+    date: 2026-11-01
 open_questions:
   - The Telangana Today page labels its image 'Representational image', so it is omitted as non-event media.
   - Whether the lead photo on the Siasat page shows this seizure is not established.
@@ -44,16 +53,20 @@ open_questions:
   - The reports name no charge or court outcome; further investigation was said to be continuing.
   - 'The reports differ slightly on the arresting unit: Telangana Today names the Task Force (Charminar) and local police, while Siasat names the Commissioner’s Task Force, Charminar Zone team; the report uses the shared description.'
   - 'Left out, as its quotation was not found in The Siasat Daily: Police valued the seized drug at around Rs 1 lakh.'
+  - The new Telugu account spells the name as Sheikh Asif while the existing report uses Shaik Asif; identity is treated as the same person from matching age, weight, agencies and Nagpur link.
+  - The new accounts give no charge or court outcome for the Bandlaguda arrest.
+  - The roundup aggregates distinct raids in Kodad, Jadcherla, Hyderabad and Shapur Nagar with a combined total of eight arrests; only the Bandlaguda part corroborates this report.
+  - The Andhrajyothy lead image is captioned only with the headline and carries no credit, so whether it shows this seizure is not established and no media entry is made.
 ---
 
 Hyderabad's Task Force (Charminar) and local police arrested auto driver Shaik
-Asif in Bandlaguda for allegedly selling marijuana. [@1] He is a 38-year-old
+Asif in Bandlaguda for allegedly selling marijuana. [@1,3,4] He is a 38-year-old
 resident of New Indira Nagar, Bandlaguda. [@2] Acting on a tip-off, officers
 caught him near Bandlaguda X Roads while he was allegedly waiting for customers.
 [@1]
 
-Officers seized approximately 1.94 kg of ganja from him. [@1] Officers also
-seized one mobile phone from him. [@1] Police said Asif had procured around 2 kg
+Officers seized approximately 1.94 kg of ganja from him. [@1,3,4] Officers also
+seized one mobile phone from him. [@1,3,4] Police said Asif had procured around 2 kg
 of marijuana from an unidentified person in Nagpur at Rs 5,000 per kg and
 planned to sell it at higher prices to customers in Ghouse Nagar and Crystal
 Town Colony. [@1] He had gone to Nagpur on October 28, purchased two kilograms
@@ -62,4 +75,3 @@ of ganja for Rs 10,000, and returned to Hyderabad. [@2]
 Police said Asif is addicted to ganja and turned to peddling because his
 auto-driver income was insufficient to meet his expenses. [@2] Police said
 further investigation is continuing. [@1]
-
