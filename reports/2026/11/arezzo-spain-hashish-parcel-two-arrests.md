@@ -92,6 +92,11 @@ sources:
     publisher: L'Ortica
     date: 2026-11-03
     language: it
+  - title: Droga dalla Spagna nei locker, due arresti. Sequestrati 4 chili di hashish
+    url: https://www.arezzotv.it/cronaca/plvideo/youplay/droga-dalla-spagna-nei-locker-due-arresti-sequestrati-4-chili-di-hashish.html
+    publisher: Arezzo TV
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -103,10 +108,12 @@ open_questions:
   - The page image is captioned only Guardia di finanza and is not established to show this seizure, so no media entry is added.
   - The submitted page rounds the seizure to more than four kilograms while the existing report records 4,140 grams from the other accounts.
   - The page's content image uses a 2016 file path and is not established to show this seizure, so no media entry is added.
+  - The page gives only its publication date of 3 November 2026 and no separate date for the seizure and arrests.
+  - The page offers an embedded video and thumbnail image, but without captions or metadata establishing they show this seizure, so no media entry is added.
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10] The two people stopped were one
+4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11] The two people stopped were one
 Italian national and one Albanian national. [@2,3,4,5,7,8,10] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
 of residents in Arezzo province. [@1,3,5,6,7,8,9,10] The two were stopped as they collected the
