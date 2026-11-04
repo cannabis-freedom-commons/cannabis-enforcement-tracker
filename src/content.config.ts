@@ -1,7 +1,7 @@
 // What a valid report looks like. The build fails with a clear message if a file in /reports breaks
 // these rules: above all, a report without sources is refused.
 import { defineCollection } from "astro:content";
-import { glob } from "astro/loaders";
+import { reportLoader } from "../scripts/lib/report-loader.mjs";
 import { z } from "astro/zod";
 import countries from "./data/countries.json";
 import { TYPE_IDS, PRECISION, STATUS } from "./lib/types.js";
@@ -44,7 +44,7 @@ const figures = z.object({
 const reports = defineCollection({
   // reports/<year>/<month>/<slug>.md; the slug alone is the report's id and address. REPORTS_DIR
   // builds from another folder (scripts/load-test.mjs)
-  loader: glob({ pattern: "**/*.md", base: process.env.REPORTS_DIR || "./reports", generateId: ({ entry }) => entry.split("/").pop()!.replace(/\.md$/, "") }),
+  loader: reportLoader({ pattern: "**/*.md", base: process.env.REPORTS_DIR || "./reports", generateId: ({ entry }) => entry.split("/").pop()!.replace(/\.md$/, "") }),
   schema: ({ image }) => z.preprocess((value) => {
     // Older writers may still send this retired field; never expose it in report data.
     if (!value || typeof value !== "object" || Array.isArray(value)) return value;

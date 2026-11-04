@@ -60,6 +60,7 @@ const here = Astro.url.pathname.replace(base, "/");
       {/* the submissions service: a dot for whether it answers, and how many requests it is working on */}
       {api && <a class="svc-status" id="svc-status" href={`${base}submissions/`} data-api={api} data-state="checking" title="Checking the submissions service…" aria-label="Submissions service: checking"><svg class="svc-cog" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2.2"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg><span class="svc-count" hidden></span><span class="svc-queue" hidden><svg class="svc-queue-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12M6 21h12M7.5 3v3.5L12 12l-4.5 5.5V21M16.5 3v3.5L12 12l4.5 5.5V21"/></svg><span class="svc-queue-count"></span></span></a>}
       </span>
+      {import.meta.env.DEV && <button type="button" class="refresh-reports" id="refresh-reports" data-url={`${base}__dev/refresh-reports`} title="Load current reports and Git history">Refresh reports</button>}
       <nav class="nav">
         <a href={base} aria-current={here === "/" ? "page" : undefined}>Map</a>
         <a href={`${base}reports/`} aria-current={here.startsWith("/report") || /^\/\d{4}\//.test(here) ? "page" : undefined}>Reports</a>
@@ -141,6 +142,22 @@ const here = Astro.url.pathname.replace(base, "/");
       </footer>
     )}
     <script>import "../scripts/glossary.js";</script>
+    <script>
+      const refresh = document.querySelector<HTMLButtonElement>("#refresh-reports");
+      refresh?.addEventListener("click", async () => {
+        refresh.disabled = true;
+        refresh.textContent = "Refreshing…";
+        try {
+          const response = await fetch(refresh.dataset.url!, { method: "POST" });
+          if (!response.ok) throw new Error("Refresh failed");
+          window.location.reload();
+        } catch {
+          refresh.disabled = false;
+          refresh.textContent = "Retry refresh";
+          refresh.title = "Could not refresh reports. Check the dev server output and retry.";
+        }
+      });
+    </script>
     <script>
       // the theme switch; the map listens for "theme:change" to swap its basemap
       const root = document.documentElement;

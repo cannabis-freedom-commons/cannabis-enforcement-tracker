@@ -1,8 +1,9 @@
 import reportAliases from "./src/lib/report-aliases.js";
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
 import { defineConfig } from "astro/config";
-import { changelogDev } from "./scripts/lib/changelog-dev.mjs";
+import { reportsDev } from "./scripts/lib/reports-dev.mjs";
 import { markdownGlossary } from "./src/lib/glossary.js";
 import { unified } from "@astrojs/markdown-remark";
 
@@ -16,6 +17,7 @@ const glossaryRevision = createHash("sha256")
   .digest("hex");
 
 const base = (process.env.BASE_PATH || "").replace(/\/+$/, "") + "/";
+const reportsDirectory = resolve(process.env.REPORTS_DIR || "./reports").replaceAll("\\", "/");
 
 // Links in a report's text: one that leaves the site opens in a new tab and is marked `ext`;
 // one that starts with "/" is a page of this site and gets the base path in front.
@@ -116,12 +118,13 @@ export default defineConfig({
   ]),
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,
+  integrations: [reportsDev()],
   vite: {
-    plugins: [changelogDev()],
     server: {
       // the Go backend's code and its job storage (thousands of files changing while research runs:
-      // repository copies, builds, logs) are nothing the site needs to reload for
-      watch: { ignored: ["**/backend/**", "**/.cache/**"] },
+      // repository copies, builds, logs) are nothing the site needs to reload for.
+      // Reports (including cover assets) refresh only from the dev header button.
+      watch: { ignored: ["**/backend/**", "**/.cache/**", "**/src/assets/reports/**", "**/.git/**", `${reportsDirectory}/**`] },
       proxy: {
         "/__submissions": {
           target: "http://127.0.0.1:8080",
