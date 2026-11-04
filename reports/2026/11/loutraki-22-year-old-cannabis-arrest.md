@@ -28,6 +28,11 @@ sources:
     publisher: Ημερησία Κορίνθου
     date: 2026-11-04
     language: el
+  - title: Συλλήψεις για κλοπή και κατοχή ναρκωτικών σε Μεσσηνία και Κορινθία | Πελοποννησιακό Πρακτορείο Ειδήσεων
+    url: https://www.pna.gr/koinonia/291506-%CF%83%CF%85%CE%BB%CE%BB%CE%AE%CF%88%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%BB%CE%BF%CF%80%CE%AE-%CE%BA%CE%B1%CE%B9-%CE%BA%CE%B1%CF%84%CE%BF%CF%87%CE%AE-%CE%BD%CE%B1%CF%81%CE%BA%CF%89%CF%84
+    publisher: Πελοποννησιακό Πρακτορείο Ειδήσεων
+    date: 2026-11-04
+    language: el
 open_questions:
   - No weight was published for the seized cannabis, described only as a small amount, so no kilograms can be recorded.
   - The exact location within Loutraki was not named.
@@ -37,13 +42,13 @@ open_questions:
 ---
 
 Officers of the E1 Crime Prevention and Mediation Group of Corinthia arrested a
-22-year-old Greek man in Loutraki. [@1] The arrest happened in the afternoon of
-3 November 2026. [@1,2]
+22-year-old Greek man in Loutraki. [@1,3] The arrest happened in the afternoon of
+3 November 2026. [@1,2,3]
 
 Police said the man possessed a small amount of cannabis and a cannabis grinder.
-[@1,2] Officers seized both the cannabis and the grinder. [@1,2] No weight was
+[@1,2,3] Officers seized both the cannabis and the grinder. [@1,2,3] No weight was
 published for the cannabis, which was described only as a small amount. [@1]
 
 The preliminary investigation is being handled by the Loutraki Police
-Department. [@1,2] The account names no other suspects and reports no charges or
+Department. [@1,2,3] The account names no other suspects and reports no charges or
 court outcome. [@1]
