@@ -45,6 +45,10 @@ sources:
     url: https://www.tv47.digital/one-suspect-arrested-as-nacada-operation-nets-over-400-rolls-of-bhang-and-other-narcotics-in-mwala-167794/
     publisher: TV47 Digital
     date: 2026-11-03
+  - title: Suspected drug trafficker arrested as NACADA seizes 700 bhang rolls in Machakos
+    url: https://citizen.digital/article/suspected-drug-trafficker-arrested-as-nacada-seizes-700-bhang-rolls-in-machakos-n393083
+    publisher: Citizen Digital
+    date: 2026-11-03
 open_questions:
   - No weight or street value was published for the 85 brooms or 700 rolls, so no cannabis weight is recorded.
   - The suspect is identified only as a 31-year-old man; no name, charge or court outcome was reported.
@@ -62,27 +66,30 @@ open_questions:
   - The TV47 account writes wristler papers where the existing report uses Rizla papers for the same 73 white-top and 44 brown papers.
   - No weight or street value was published for the brooms or rolls, so no cannabis weight can be recorded.
   - The lead photo caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
+  - The new account writes 73 white Rizla papers while the existing report says 73 white-top Rizla papers from an earlier account.
+  - The new account describes a pair of scissors without a colour while the existing report says blue-handled scissors from an earlier account.
+  - The submitted page carries a lead photo whose caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Kenya's National Authority for the Campaign Against Alcohol and Drug Abuse
 arrested a suspected drug trafficker during an intelligence-led operation in
-Mwala Sub-County, Machakos County. [@1,2,3,5] The operation targeted a homestead in
+Mwala Sub-County, Machakos County. [@1,2,3,5,6] The operation targeted a homestead in
 Mbiuni at approximately 3:01am on Tuesday, where officers arrested a 31-year-old
-man suspected of trafficking narcotic substances. [@1,4,5] Bhang is the term used in
+man suspected of trafficking narcotic substances. [@1,4,5,6] Bhang is the term used in
 the report for the suspected cannabis seized in the raid. [@1]
 
 A search of the premises uncovered 85 brooms of dry plant material suspected to
 be bhang alongside 700 small brownish rolls containing suspected narcotic
-substances. [@1,2,3,4,5] The 700 rolls comprised 300 small brownish rolls and an
+substances. [@1,2,3,4,5,6] The 700 rolls comprised 300 small brownish rolls and an
 additional 400 similar rolls recovered alongside materials believed to have been
 used in packaging the drugs. [@1,4,5] Officers also recovered 16 nylon papers
 containing dry plant material, 73 white-top Rizla papers, 44 brown Rizla papers
-and a pair of blue-handled scissors. [@1,2,3,5]
+and a pair of blue-handled scissors. [@1,2,3,5,6]
 
 All recovered exhibits were labelled and secured before the suspect was escorted
 to Jomo Kenyatta International Airport Police Station for further police
-processing. [@1,2,3,4,5] NACADA chief executive Dr Anthony Omerikwa commended the
+processing. [@1,2,3,4,5,6] NACADA chief executive Dr Anthony Omerikwa commended the
 officers and said the operation showed the importance of intelligence-sharing
 and collaboration among security agencies in tackling drug trafficking. [@1] The
 case remains under investigation as NACADA officers pursue further inquiries
-into the suspected drug trafficking operation. [@1,2,5]
+into the suspected drug trafficking operation. [@1,2,5,6]
