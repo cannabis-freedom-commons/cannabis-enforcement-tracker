@@ -24,6 +24,11 @@ media:
     media_url: https://www.sinaloahoy.com.mx/portal/wp-content/uploads/2026/11/5216691374527_c_us_resized-14.webp
     publisher: Sinaloahoy
     caption: Dried herb in a bag and naval personnel with the seizure
+  - kind: photo
+    url: https://www.debate.com.mx/sinaloa/policiaca/marina-asegura-7-kilos-de-presunta-marihuana-en-pueblo-nuevo-mazatlan-20261101-0103.html
+    media_url: https://assets.debate.com.mx/__export/1793587942863/sites/debate/img/2026/11/01/Marina_asegura_7_kilos_de_presunta_marihuana_en_Pueblo_Nuevox_Mazatlxn.jpg_868175433.jpg
+    publisher: El Debate Sinaloa
+    caption: 'Photo published as the 7 kilos of suspected marijuana secured in Pueblo Nuevo. Photo: Cortesía'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8abe9747cb6345cb54c3f5144815320a
@@ -59,6 +64,11 @@ sources:
     publisher: Sinaloahoy Noticias
     date: 2026-11-01
     language: es
+  - title: Marina asegura 7 kilos de presunta marihuana en Pueblo Nuevo, Mazatlán
+    url: https://www.debate.com.mx/sinaloa/policiaca/marina-asegura-7-kilos-de-presunta-marihuana-en-pueblo-nuevo-mazatlan-20261101-0103.html
+    publisher: El Debate Sinaloa
+    date: 2026-11-01
+    language: es
 open_questions:
   - The sources say only 'more than seven kilograms'; the exact weight above seven kilograms was not published.
   - The reports give no separate day for the patrols, so 1 November 2026 is the publication date; the second account says the seizure occurred 'in recent days'.
@@ -70,19 +80,21 @@ open_questions:
   - This account was published on 2 November 2026 while the existing report is dated 1 November 2026, and it describes the patrols only as occurring in recent days with no separate incident date.
   - This account names Pueblo Nuevo, Sinaloa, without naming Elota municipality; the Elota attribution rests on the earlier sources cited in the existing report.
   - This Sinaloahoy account locates Pueblo Nuevo in the municipality of Mazatlán and says the seizure occurred during the morning of 1 November, while the existing report places the same seizure in Pueblo Nuevo, Elota, so the correct municipality attribution remains unresolved.
+  - This account reports approximately 7 kilograms, while the existing report records more than seven kilograms, so the exact weight remains unresolved.
+  - This account locates Pueblo Nuevo in the municipality of Mazatlán, while the existing report places the seizure in Pueblo Nuevo, Elota, so the correct municipality attribution remains unresolved.
 ---
 
 Mexico's Navy found a bag of suspected marijuana while patrolling the community
-of Pueblo Nuevo in Sinaloa as part of Operation Sable. [@1,3,4,5] The find was made by
+of Pueblo Nuevo in Sinaloa as part of Operation Sable. [@1,3,4,5,7] The find was made by
 Mexican Navy personnel during reconnaissance and crime-prevention patrols
 reported through the Fourth Naval Region. [@1,3,5] No one was detained in connection
-with the seizure. [@1]
+with the seizure. [@1,7]
 
 Naval personnel seized the bag of suspected drugs in accordance with official
 protocols. [@1] The bag held dry herb with characteristics similar to marijuana
 and weighed more than seven kilograms. [@2,4,6] The Navy placed the seized material
 at the disposal of the competent authorities to open an investigation file and
-carry out further steps. [@1,3,4,6]
+carry out further steps. [@1,3,4,6,7]
 
 The Navy said the patrols are part of operations across Sinaloa aimed at
 combating distribution of illicit substances and reinforcing security in
@@ -90,3 +102,5 @@ communities. [@1] The patrols in Pueblo Nuevo were surveillance and
 reconnaissance rounds intended to prevent criminal activity. [@2] The Navy
 presents such actions as weakening rural drug-distribution structures and
 keeping suspected narcotics from reaching the public. [@2]
+
+The ministerial authority will carry out the official weighing, chemical analyses and integration of the investigation file to determine the characteristics of the seized substance. [@7] Naval personnel found the suspicious package abandoned during land surveillance patrols in Pueblo Nuevo. [@7]
