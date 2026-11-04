@@ -29,6 +29,11 @@ sources:
     publisher: Portal do Zacarias
     date: 2026-11-04
     language: pt
+  - title: '''Menino Ney'' é preso com maconha e oxi pela Rocam'
+    url: https://segundoasegundo.com.br/2026/11/menino-ney-e-preso-com-maconha/
+    publisher: Segundo a Segundo
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No separate count or weight was published for the skunk marijuana portions versus the oxi stones, so no cannabis quantity can be recorded.
   - The amount of cash found was not published, so no value can be recorded.
@@ -36,24 +41,29 @@ open_questions:
   - No charge, custody decision or court outcome beyond presentation at the 6th DIP was reported.
   - Only one accessible outlet account of this event was found after searching in Portuguese, with no agency statement opened.
   - The page still photos are credited only as Divulgação without descriptive captions establishing that they show this arrest or seizure, and one thumbnail advertises an unrelated missing-persons story, so no photo entry is included.
+  - The new account says the suspect was taken to the 1º Distrito Integrado de Polícia, while the existing report says the 6th DIP.
+  - The new account lists R$950 and a card machine, while the existing report lists cash without an amount and a precision scale.
+  - The new account says another man fled by jumping the property wall while the detained youth tried separately to escape, while the existing report says Menino Ney himself tried to flee by jumping the wall.
+  - The new account describes the cannabis only as portions of maconha and does not specify skunk.
 ---
 
 Military police arrested 19-year-old Edney da Silva Lima, known as Menino Ney,
 in flagrante delicto at about 22:30 on Tuesday 3 November 2026 on Rua Treze in
-Comunidade Mundo Novo, Cidade Nova, in the North Zone of Manaus. [@1] The arrest
+Comunidade Mundo Novo, Cidade Nova, in the North Zone of Manaus. [@1,2] The arrest
 for drug trafficking was made by a tactical ostensive patrol team of the Rondas
-Ostensivas Cândido Mariano, known as Rocam. [@1]
+Ostensivas Cândido Mariano, known as Rocam. [@1,2]
 
 When officers arrived, Menino Ney tried to flee by jumping over the property
 wall, but the area was already surrounded and officers arrested him in
 flagrante. [@1] Inside the house where he allegedly kept a drug-selling point,
 officers found several portions of drugs including skunk marijuana and oxi
-stones, along with cash and a precision scale. [@1]
+stones, along with cash and a precision scale. [@1,2]
 
 Rocam officers said they had received complaints in previous days that a boca de
 fumo, a street-level drug-selling point, was operating almost every night on
 that street. [@1] The detained young man told police that his father, whose name
 was not disclosed, had also recently been arrested in the same community for
-drug trafficking. [@1] He was then presented at the 6th DIP, the district police
+drug trafficking. [@1,2] He was then presented at the 6th DIP, the district police
 station, for the applicable legal procedures. [@1]
 
+Officers seized R$950 in cash and a card machine in the house search. [@2] Officers were patrolling Rua Treze when they noticed suspicious movement and a queue of people in front of a residence. [@2]
