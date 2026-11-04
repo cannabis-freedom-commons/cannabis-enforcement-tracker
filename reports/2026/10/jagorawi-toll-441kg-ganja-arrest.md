@@ -91,6 +91,11 @@ sources:
     publisher: Kompas.tv
     date: 2026-11-03
     language: id
+  - title: Polda Metro Jaya Gagalkan Penyelundupan 44,1 Kg Ganja di Tol Jagorawi
+    url: https://news.detik.com/foto-news/d-8737077/polda-metro-jaya-gagalkan-penyelundupan-44-1-kg-ganja-di-tol-jagorawi
+    publisher: detikNews
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -138,22 +143,22 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9,11,12,13,14] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5]
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
 across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14] They said the load was intended
-for distribution in Depok and Tangerang. [@1,6,10,13] Police said YT had already
+for distribution in Depok and Tangerang. [@1,6,10,13,15] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
 the October load his third. [@1,5,7,8,9,11,12,13,14] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1,6,10,11,13]
+kilogram he carried. [@1,6,10,11,13,15]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
-years in prison. [@3,4,6,8,9,12,14] Police said they had identified the alleged controller,
-initialled K, who is on the wanted list and is being pursued. [@1,6,10,13]
+years in prison. [@3,4,6,8,9,12,14,15] Police said they had identified the alleged controller,
+initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15]
 
 At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
 
