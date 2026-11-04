@@ -107,6 +107,11 @@ sources:
     publisher: Bismil Haber
     date: 2026-11-02
     language: tr
+  - title: '525 kök kenevir, 523 hap, 123 kilo esrar: Diyarbakır''da operasyon'
+    url: https://www.amedhaber.net/525-kok-kenevir-523-hap-123-kilo-esrar-diyarbakirda-operasyon
+    publisher: Amed Haber
+    date: 2026-11-02
+    language: tr
 open_questions:
   - The reports give only the publication date of 2 November 2026 and no separate date for the operations themselves.
   - The reports say only that legal action was taken against 28 suspects and do not say whether they were detained, released, charged or remanded.
@@ -133,17 +138,17 @@ open_questions:
 ---
 
 Those operations produced 16 recorded incidents and legal action against 28
-suspects. [@2,6,8,10,11,12,13,14,16] The reports give only that legal action and do not name any
+suspects. [@2,6,8,10,11,12,13,14,16,17] The reports give only that legal action and do not name any
 suspect or report any detention, remand or court outcome. [@1,7,15]
 
-Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7,8,10,11,12,13,14,15,16] They
+Officers seized 123 kilograms of esrar, the Turkish word for cannabis. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17] They
 also seized 525 cannabis and skunk roots, with kenevir the Turkish word for the
-cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7,9,10,11,12,13,14,15,16] The same
+cannabis plant and skunk the local term for high-potency cannabis. [@1,4,5,6,7,9,10,11,12,13,14,15,16,17] The same
 operations also seized 523 pills, which are left out of the cannabis figures
-because the reports do not identify them as cannabis. [@3,4,5,7,10,11,12,13,14,15,16]
+because the reports do not identify them as cannabis. [@3,4,5,7,10,11,12,13,14,15,16,17]
 
 A governorship account says the provincial gendarmerie's anti-narcotics branch
-coordinated the work across the province. [@3,4,5] The reports are dated 2 November
+coordinated the work across the province. [@3,4,5,17] The reports are dated 2 November
 2026 and give no separate date for when the operations themselves took place.
 [@1]
 
