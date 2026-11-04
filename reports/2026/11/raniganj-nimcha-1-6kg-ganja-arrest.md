@@ -29,6 +29,11 @@ sources:
     publisher: Bengal Mirror
     date: 2026-11-04
     language: hi
+  - title: जामुड़िया के बाद अब रानीगंज में गांजा तस्करी का भंडाफोड़, 1.60 किलो गांजा बरामद; एक गिरफ्तार
+    url: https://www.indiatv.in/west-bengal/raniganj-cannabis-smuggling-racket-busted-1-kilo-60-gram-ganja-seized-one-arrested-after-jamuria-incident-2026-11-04-1252711
+    publisher: India TV Hindi
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article names Tuesday night for the raid without a calendar date; 3 November 2026 is inferred because the report was published on Wednesday, 4 November 2026.
   - The seizure is described only as worth about or over one lakh rupees, so no precise value is recorded.
@@ -37,28 +42,30 @@ open_questions:
   - The exact address of the abandoned house was not given beyond being near the accused's home in Nimcha.
   - No separate official police statement was found; both accounts are the Bengali original and Hindi version from Bengal Mirror.
   - Photos on the pages carry no captions establishing that they show this seizure, so no media entry is included.
+  - The new account transliterates the accused's name as Yoginder Bhagat while the existing report uses Joginder Bhagat; they are treated as the same 48-year-old detainee on the basis of matching age, place, quantity and history.
 ---
 
 Police raided Nimcha in Raniganj on Tuesday night on a tip-off and recovered
-ganja said to be worth about one lakh rupees. [@1] Police arrested 48-year-old
-Joginder Bhagat on a ganja-trafficking allegation. [@1] The raiding team
+ganja said to be worth about one lakh rupees. [@1,3] Police arrested 48-year-old
+Joginder Bhagat on a ganja-trafficking allegation. [@1,3] The raiding team
 belonged to the Nimcha outpost under Raniganj police station of the
 Asansol-Durgapur Police Commissionerate. [@2] The team was led by Nimcha outpost
 in-charge LSI Nasrin Sultana, who first caught Bhagat and then questioned him.
-[@1]
+[@1,3]
 
 Police said he had brought ganja from outside and was preparing to move it
-elsewhere for trafficking. [@1] During questioning he admitted storing the ganja
-in an abandoned house near his home. [@1] Police cordoned off that house,
+elsewhere for trafficking. [@1,3] During questioning he admitted storing the ganja
+in an abandoned house near his home. [@1,3] Police cordoned off that house,
 searched it with him present and recovered the stock kept in several plastic
-buckets. [@1] On weighing, the haul was about 1 kg 600 g, which police said he
+buckets. [@1,3] On weighing, the haul was about 1 kg 600 g, which police said he
 had stored for trafficking outside the area. [@2]
 
 He was to be produced before the CJM court at Asansol district court on
 Wednesday, with police seeking seven days of police remand for further
-questioning. [@1] Police said he had previously been arrested in a
-ganja-trafficking case in the commissionerate's Jamuria area. [@1] Police said
+questioning. [@1,3] Police said he had previously been arrested in a
+ganja-trafficking case in the commissionerate's Jamuria area. [@1,3] Police said
 the action was part of a continuing drive against drug trafficking across the
 commissionerate. [@1] Police said they were working to trace where the ganja
 came from and where it was to be sent. [@1]
 
+Asansol-Durgapur Police Commissionerate DC Central Dhruv Das said sustained naka checking and raids had produced recoveries in Jamuria and Raniganj. [@3]
