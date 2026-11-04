@@ -39,6 +39,11 @@ sources:
     publisher: Царьград.Юг
     date: 2026-11-01
     language: ru
+  - title: Более 200 гр конопли изъято у жителя соседнего с Армавиром района
+    url: https://gorodarmavir.ru/news/proisshestviya/bolee-200-gr-konopli-izyato-u-zhitelya-sosednego-s-armavirom-rayona-/
+    publisher: GorodArmavir.ru
+    date: 2026-11-01
+    language: ru
 open_questions:
   - The reports give no separate date for the search or the court referral; 1 November 2026 is the publication date used as the incident date.
   - The amount is given only as more than 200 grams, with no exact weight.
@@ -51,16 +56,15 @@ open_questions:
 
 Police in Uspensky District, Krasnodar Krai, seized more than 200 grams of wild
 cannabis from the household of a 34-year-old local man, the regional police
-said. [@1] The man found the cannabis bushes on the edge of Uspenskoye village
-and picked the drug-containing parts before drying them. [@1] He then packaged
-the material and stored it in an outbuilding for personal use. [@1] Officers
+said. [@1,5] The man found the cannabis bushes on the edge of Uspenskoye village
+and picked the drug-containing parts before drying them. [@1,5] He then packaged
+the material and stored it in an outbuilding for personal use. [@1,5] Officers
 seized the drug from the household. [@1] The seized material was a prohibited
 substance, the police said. [@1]
 
 The police said the man had previously been convicted under Part 2 of Article
 228 of the Russian Criminal Code, a drug offence. [@2] His case has been sent to
-court with an approved indictment. [@4] He is accused of illegal storage of
+court with an approved indictment. [@4,5] He is accused of illegal storage of
 narcotic drugs. [@3] The case concerns possession of wild cannabis, not
 cultivation. [@3] A court will hear the case. [@1] The offence carries a maximum
-sentence of 10 years in prison. [@1]
-
+sentence of 10 years in prison. [@1,5]
