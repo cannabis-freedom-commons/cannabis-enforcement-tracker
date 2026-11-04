@@ -68,6 +68,8 @@ open_questions:
   - The page displays a photo without caption, credit or alt text identifying its content, so no media entry is listed for this source.
   - No owner, suspect, arrest or charge is named; police say investigation to identify those responsible is continuing.
   - The article was published on 2 November 2026; 31 October 2026 is the operation date given in the text.
+  - This account says about 150 plants were secured and describes thousands of plants in the same five hectares, while the existing report retains about 150,000 plants.
+  - This account repeats the official rough 30-tonne burned estimate at almost 2 ons per plant, not a weighed total, while the existing report retains 3,000 kg.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -189,6 +191,11 @@ sources:
     publisher: BeritaTKP.com
     date: 2026-11-02
     language: id
+  - title: 5 Hektare Ladang Ganja Ditemukan Tumbuh Subur di Madina, BNN Sumut dan Poldasu Cabuti dan Bakar
+    url: https://medan.tribunnews.com/news/1817808/5-hektare-ladang-ganja-ditemukan-tumbuh-subur-di-madina-bnn-sumut-dan-poldasu-cabuti-dan-bakar
+    publisher: Tribun-medan.com
+    date: 2026-11-01
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -229,7 +236,7 @@ media:
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
-to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23] No growers were
+to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25] No growers were
 named or arrested in either account. [@1,2,24]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
@@ -237,7 +244,7 @@ investigation before BNN North Sumatra ordered a joint destruction involving abo
 from provincial police, the regency BNN office, the army, local government and community
 volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
-about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23] AnalisaDaily put the fields at roughly
+about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
 about three tonnes of potential production. [@1]
 
@@ -247,7 +254,7 @@ on the round trip. [@2]
 
 The further investigation into the plots' owners and managers was handed to Mandailing Natal police. [@3] Brigjen Pol Tatar Nugroho, head of BNN North Sumatra, said the destruction was estimated to have saved about 600,000 people from potential drug abuse. [@4,23]
 
-Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15]
+Tampubolon said each cannabis plant found at the site weighed almost 2 ons, about 200 grams. [@5,6,12,15,21,22,23,25] Tampubolon said cannabis trafficking cases in the Madina area were among the leads that took the team to the fields. [@5,12,15,25]
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
