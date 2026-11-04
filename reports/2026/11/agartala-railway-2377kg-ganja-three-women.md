@@ -32,27 +32,33 @@ sources:
     url: https://boroktimes.com/tripura-23-77-kg-of-suspected-ganja-seized-at-agartala-railway-station-three-women-arrested/
     publisher: Borok Times
     date: 2026-11-03
+  - title: Tripura Railway Police Seizes 23.770 Kg Of Cannabis Worth ₹8,00,000 With 3 Women Drug Peddler In Agartala Railway Station. - TRIPURA STAR NEWS
+    url: https://www.tripurastarnews.com/tripura-railway-police-seizes-23-770-kg-of-cannabis-worth-%E2%82%B9800000-with-3-women-drug-peddler-in-agartala-railway-station/
+    publisher: TRIPURA STAR NEWS
+    date: 2026-11-04
 open_questions:
   - The article gives Tuesday for the operation and was published on 3 November 2026, which is used as the incident date.
   - The substance is described only as suspected ganja, with no laboratory confirmation reported.
   - The names and ages of the three women were not published, only reported origins in Bihar and Nagaland.
   - No charge, court production or court outcome was reported; the investigation was still under way.
   - Only one accessible source for this event was found after searching in English.
+  - The page title values the seizure at Rs 8,00,000 while the article body values it at about Rs 11,00,000, which the existing report uses; the body figure is retained.
+  - The page includes a photo but its caption and credit do not confirm that it shows this seizure, so no media entry is added.
 ---
 
 Government Railway Police arrested three women at Agartala Railway Station in
-connection with a suspected ganja seizure. [@1] Police took all three women into
+connection with a suspected ganja seizure. [@1,2] Police took all three women into
 custody for further questioning after recovering the suspected contraband. [@1]
-The women were reported to hail from Bihar and Nagaland. [@1] Raju Bhowmik,
+The women were reported to hail from Bihar and Nagaland. [@1,2] Raju Bhowmik,
 Officer-in-Charge of Agartala GRPS, confirmed the seizure and shared details of
-the operation. [@1]
+the operation. [@1,2]
 
 Officers recovered the suspected cannabis from backpacks carried by the women
-during a search. [@1] The seizure totalled 23.770 kg of suspected ganja. [@1]
+during a search. [@1] The seizure totalled 23.770 kg of suspected ganja. [@1,2]
 Police estimated the black-market value of the seized contraband at around Rs 11
-lakh. [@1] The operation took place at approximately 11 am on platform number 1,
+lakh. [@1,2] The operation took place at approximately 11 am on platform number 1,
 near the parking area between the Railway Protection Force post and the station
-restrooms. [@1]
+restrooms. [@1,2]
 
 The GRP is investigating the case to trace the source and intended destination
 of the suspected ganja. [@1] Investigators are also examining the circumstances
@@ -60,3 +66,4 @@ surrounding its transportation. [@1] Police had not yet established where the
 suspected contraband originated or where the accused intended to transport it.
 [@1]
 
+The three women were identified as 25-year-old Mamta Devi and 19-year-old Sampi Kumari, both of Chakla Tola in Sharsha district, Bihar, and 34-year-old Meera Rai of Thaikhu in Dimapur district, Nagaland. [@2] Police registered the case as Agartala GRPS Case No. 2026GRP078 under Sections 20(b)(ii)(C) and 29 of the NDPS Act, 1985. [@2] Sub-Inspector Pankaj Biswas and other Agartala GRPS staff apprehended the three women. [@2]
