@@ -70,6 +70,11 @@ sources:
     publisher: Karfitsa
     date: 2026-11-04
     language: el
+  - title: 'Κάνναβη μέσω courier: Χειροπέδες σε 16χρονο στη Θεσσαλονίκη (ΦΩΤΟ)'
+    url: https://www.theopinion.gr/thessaloniki-makedonia/kannavi-meso-courier-cheiropedes-se-16chrono-sti-thessaloniki-foto/
+    publisher: The Opinion
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -86,6 +91,8 @@ open_questions:
   - The page lists one image with an empty caption and no credit, so it is not established to show this seizure and no media entry is included.
   - The Kathimerini page image is captioned only with a file-name slug and carries no credit, so it is not established to show this seizure and no media entry is added.
   - The Karfitsa page lists one image captioned about arrests in Orestiada and Kavala for migrant smuggling, so it is not shown to depict this cannabis seizure and no media entry is added.
+  - The page top image is labelled as an archive photo of parcel distribution credited to Claudio Schwarz/Unsplash, so it does not depict this seizure and no media entry is added.
+  - A second embedded image file named narkotika-16xronos.jpeg carries no caption or credit establishing it shows this seizure, so no media entry is added.
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
@@ -96,12 +103,12 @@ neglecting his supervision, then released her on a prosecutor's verbal order.
 to the competent prosecutor. [@1,3,5,6,7,8,9]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
-2,080 grams gross. [@1,3,5,7,8,9] With police dog VEKTOR, officers found a second parcel
+2,080 grams gross. [@1,3,5,7,8,9,10] With police dog VEKTOR, officers found a second parcel
 from a different courier firm holding 5,410 grams of the same cannabis also
 addressed to the boy. [@1,3,6,7,8,9] In total officers seized 7 kilograms and 490 grams of
-hydroponic cannabis. [@1,3,5,8,9] They also seized two mobile phones. [@1,5,9]
+hydroponic cannabis. [@1,3,5,8,9,10] They also seized two mobile phones. [@1,5,9,10]
 
 The controlled delivery was ordered after approval by the appeals prosecutor,
 with the anti-drug coordination body assigning it to the North Greece
 organised-crime unit. [@1] Police in Thessaloniki made the arrest on Tuesday, 3
-November 2026. [@2,3,6,7]
+November 2026. [@2,3,6,7,10]
