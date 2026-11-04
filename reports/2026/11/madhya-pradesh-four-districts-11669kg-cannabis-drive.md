@@ -27,6 +27,10 @@ sources:
     url: https://www.socialnews.xyz/2026/11/04/mp-police-seize-over-11600-kg-cannabis-plants-worth-rs-30-crore-in-four-districts/
     publisher: Social News XYZ
     date: 2026-11-04
+  - title: MP Police seize over 11,600 kg cannabis plants worth Rs 30 crore in four districts
+    url: https://tennews.in/mp-police-seize-over-11600-kg-cannabis-plants-worth-rs-30-crore-in-four-districts/
+    publisher: TenNews
+    date: 2026-11-04
 open_questions:
   - The article dates the drive only as over the past four days before its 4 November 2026 publication, so the publication date is used as the incident date.
   - Beyond the four arrested in Manawar and the two arrested in Khandwa, further suspects are reported arrested at other Dhar stations without a number, so only six confirmed arrests are recorded.
@@ -35,35 +39,35 @@ open_questions:
   - No names of suspects, charges beyond the NDPS Act, or court outcomes were reported.
   - No second account of this four-district aggregate could be opened; its district components overlap separately tracked seizures.
   - The page's only image caption repeats the headline without describing its content, so no media entry is included.
+  - The TenNews page image has no caption or alt text establishing that it shows this four-district seizure, so no media entry is added.
 ---
 
 Four persons were arrested in the Manawar police station area of Dhar district,
 where nearly 6,700 kg of cannabis plants valued at Rs 25 crore was detected.
-[@1] Two persons were arrested in Khandwa district after police seized 295.70 kg
+[@1,2] Two persons were arrested in Khandwa district after police seized 295.70 kg
 of cannabis plants worth Rs 29.57 lakh from two locations under Jawar police
-station. [@1] Police also reported smaller seizures from Bag, Dharampuri,
+station. [@1,2] Police also reported smaller seizures from Bag, Dharampuri,
 Gandhwani, Mandav, Badnawar, Dahi and Kukshi police stations, with several
-suspects arrested under the NDPS Act. [@1] Overall, Madhya Pradesh Police seized
+suspects arrested under the NDPS Act. [@1,2] Overall, Madhya Pradesh Police seized
 and identified 11,669 kilograms of cannabis plants valued at more than Rs 30.10
-crore across the four districts over the past four days. [@1]
+crore across the four districts over the past four days. [@1,2]
 
 Under Operation Prahar led by SP Sachin Sharma, police in Dhar seized or
-identified 8,577.01 kg of cannabis plants worth over Rs 27.47 crore. [@1] In
+identified 8,577.01 kg of cannabis plants worth over Rs 27.47 crore. [@1,2] In
 Khargone, teams working under SP Ravindra Verma seized 2,367.85 kg of cannabis
-plants worth Rs 1.91 crore across five police station jurisdictions. [@1] The
+plants worth Rs 1.91 crore across five police station jurisdictions. [@1,2] The
 Khargone seizures included remote villages under Helapadava outpost and areas of
-Maheshwar, Gogawan, Balakwada and Bistan. [@1] In Barwani, police recovered
+Maheshwar, Gogawan, Balakwada and Bistan. [@1,2] In Barwani, police recovered
 428.84 kg of cannabis plants, or 1,753 plants, valued at nearly Rs 42 lakh from
-Borpadwa and Kajalmata villages under Operation Green Strike. [@1] Dhar district
-accounted for the largest haul. [@1]
+Borpadwa and Kajalmata villages under Operation Green Strike. [@1,2] Dhar district
+accounted for the largest haul. [@1,2]
 
 The drive forms part of the state’s sustained campaign for a drug-free Madhya
-Pradesh. [@1] Police teams used drone surveillance, informant networks and
+Pradesh. [@1,2] Police teams used drone surveillance, informant networks and
 intensive searches to reach remote riverbanks, hills, forests and areas without
-mobile coverage. [@1] In several places, the plants were found hidden among
-cotton and pigeon pea (tur) crops. [@1] Officials said the campaign goes beyond
+mobile coverage. [@1,2] In several places, the plants were found hidden among
+cotton and pigeon pea (tur) crops. [@1,2] Officials said the campaign goes beyond
 seizures and aims to dismantle networks involved in illegal cultivation,
 production and trafficking. [@1] Police urged citizens to report information
 about narcotic cultivation or trade in their areas and said operations will be
 further intensified to curb the drug menace. [@1]
-
