@@ -39,6 +39,11 @@ sources:
     publisher: El Reporte Diario
     date: 2026-11-01
     language: es
+  - title: Dos detenidos y más de 1,2 kilos de cannabis incautados en operativo antidrogas en Pequeña Caracas
+    url: https://www.latercera.com/nacional/noticia/dos-detenidos-y-mas-de-12-kilos-de-cannabis-incautados-en-operativo-antidrogas-en-pequena-caracas/
+    publisher: La Tercera
+    date: 2026-11-01
+    language: es
 open_questions:
   - Only one accessible source for this event was found; no second outlet or agency statement could be opened.
   - The article gives the operation date as the night of Thursday 29 October; 1 November 2026 is its publication date.
@@ -53,28 +58,31 @@ open_questions:
   - The submitted article gives only its publication date of 1 November 2026 and no separate operation date; the 29 October operation date comes from the existing report's earlier source.
   - The submitted article names no court, charges or pretrial-detention outcome.
   - The page image labelled portada-15 could not be verified as showing this operation, so no media entry is listed.
+  - The La Tercera page labels its lead image as referential, so it does not establish that the photo shows this operation and no media entry is listed.
 ---
 
 Two adult men were arrested in an anti-drug operation in the Pequeña Caracas
-sector of Estación Central in Santiago's Metropolitan Region. [@1,2,3] One detainee
+sector of Estación Central in Santiago's Metropolitan Region. [@1,2,3,4] One detainee
 is Chilean and the other is a foreigner who was in a regular migration
-situation. [@1,2,3] The PDI said both men had prior police records for offences
-linked to illicit drug trafficking. [@1,2,3] Both men were placed at the disposal of
+situation. [@1,2,3,4] The PDI said both men had prior police records for offences
+linked to illicit drug trafficking. [@1,2,3,4] Both men were placed at the disposal of
 Santiago's Sixth Guarantee Court, where the Centro Norte prosecutor's office
-charged them with drug trafficking. [@1] The court granted the prosecution's
-request for pretrial detention for only one of the two accused. [@1] The
+charged them with drug trafficking. [@1,4] The court granted the prosecution's
+request for pretrial detention for only one of the two accused. [@1,4] The
 prosecution verbally appealed the decision on the second detainee, whose custody
-will now be reviewed by the Santiago Court of Appeals. [@1]
+will now be reviewed by the Santiago Court of Appeals. [@1,4]
 
 Detectives seized 1,204.16 grams of cannabis, described as equivalent to 1,204
-doses, along with three mobile phones and a digital scale. [@1,2] Police valued
-the seized cannabis at 5,120,000 Chilean pesos. [@1] Investigators had
+doses, along with three mobile phones and a digital scale. [@1,2,4] Police valued
+the seized cannabis at 5,120,000 Chilean pesos. [@1,4] Investigators had
 identified two homes allegedly used to store and sell illicit substances and
-obtained judicial orders to enter and search them. [@1,2] The suspects allegedly
+obtained judicial orders to enter and search them. [@1,2,4] The suspects allegedly
 sold drugs in the sector and also supplied other small-scale dealers across
-Estación Central from the two homes. [@1]
+Estación Central from the two homes. [@1,4]
 
 The operation took place on the night of Thursday 29 October in the Toro Mazote
-sector of Pequeña Caracas. [@1] It was carried out as a scheduled inspection
+sector of Pequeña Caracas. [@1,4] It was carried out as a scheduled inspection
 involving detectives from Bicrim Cerrillos, the PDI criminal-investigation
-brigade, alongside Carabineros officers and municipal staff. [@1]
+brigade, alongside Carabineros officers and municipal staff. [@1,4]
+
+Bicrim Cerrillos subprefecta Ángela Araya Mendoza said the investigation targets sold illicit substances and supplied other sellers in the sector. [@4] Centro Norte chief prosecutor Marcela Adasme said the prosecution immediately challenged the decision affecting the second detainee. [@4]
