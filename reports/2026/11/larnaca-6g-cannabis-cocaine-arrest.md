@@ -62,6 +62,11 @@ sources:
     publisher: Ant1 Live
     date: 2026-11-03
     language: el
+  - title: Εντοπίστηκε ένα κιλό κοκαΐνη στη Λάρνακα, συνελήφθη 32χρονος-Είχε θαμμένο σε χωράφι κουτί με πάνω από 800 γραμμάρια (pics)
+    url: https://www.reporter.com.cy/article/1480327/entopistike-ena-kilo-kokaini-sti-larnaka-synelifthi-32chronos-eiche-thammeno-se-chorafi-koyti-me-pano-apo-800-gammaria-pics
+    publisher: Reporter
+    date: 2026-11-03
+    language: el
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -81,27 +86,29 @@ open_questions:
   - The submitted page states only a quantity of cannabis without a weight, so the six-gram cannabis figure continues to rely on the existing sources.
   - The submitted page describes cash as exceeding 21,000 euros without the exact 21,100 euro figure used in the existing report.
   - The new page's still image carries only the caption ςςς and its embedded video thumbnail carries no caption establishing that either depicts this seizure, so no media entry is added.
+  - The page carries six images with empty or file-name-only captions, so none is established to show this seizure and no media entry is added.
+  - 'Left out, as its quotation was not found in Reporter: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
-of his car, home and two open areas. [@1,3,6,7,8,9] Officers from the Directorate for
+of his car, home and two open areas. [@1,3,6,7,8,9,10] Officers from the Directorate for
 Combating Organised Crime (DAOE), the Anti-Drugs Unit (YKAN) and YPEE stopped
-the car he was driving in a rural part of the district at about 5pm. [@1,5,7] The
+the car he was driving in a rural part of the district at about 5pm. [@1,5,7,10] The
 man was taken into custody and was expected to appear before Larnaca District
 Court on Tuesday morning for a remand hearing. [@1,3,5,6] Police said the arrest was
 part of efforts to track down people systematically involved in drug
 trafficking, and Larnaca DAOE-YKAN is continuing investigations. [@1]
 
 Officers found two cylindrical packages of cocaine on him, with a combined gross
-weight of 100 grams, and 16 firecrackers in the car. [@1,4,5] In an open area near
+weight of 100 grams, and 16 firecrackers in the car. [@1,4,5,10] In an open area near
 his home, where he had also been seen earlier, a plastic container carefully
 hidden in the ground held 11 bags of cocaine with a combined gross weight of 826
-grams. [@1,4,5,9] In a second open area, where officers had seen the man before the
+grams. [@1,4,5,9,10] In a second open area, where officers had seen the man before the
 stop, they found another plastic container holding two bags of cocaine with a
 combined gross weight of 100 grams. [@1,9] A search of his home turned up a glass
 jar containing about eight grams of cocaine, four packages holding about six
 grams of cannabis, a small amount of cannabis resin, precision scales, a grinder
-with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9] The home search account is
+with traces of cannabis and the 21,100 euros. [@1,3,4,5,6,7,8,9,10] The home search account is
 corroborated by a second report that lists approximately eight grammes of
 cocaine, six grammes of cannabis in four packages, a small quantity of cannabis
 resin, a precision scale, a grinder with traces of cannabis and cash believed to
