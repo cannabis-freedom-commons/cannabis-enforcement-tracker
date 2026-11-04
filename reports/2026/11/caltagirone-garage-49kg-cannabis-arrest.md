@@ -29,6 +29,11 @@ sources:
     publisher: GrandangoloAgrigento
     date: 2026-11-04
     language: it
+  - title: 'Tra casa e garage nascondeva 4,6 chili di marijuana: arrestato'
+    url: https://www.ciaktelesud.com/tra-casa-e-garage-nascondeva-46-chili-di-marijuana-arrestato/
+    publisher: Ciak Telesud
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the search and arrest; 4 November 2026 is the publication date and is used as the incident date.
   - 'Cannabis weights are reported as approximate: about 200 grams of hashish, more than 4.6 kilograms of marijuana, and about 134 grams of marijuana.'
@@ -37,26 +42,26 @@ open_questions:
   - No court outcome beyond validation and pretrial custody in prison was reported.
   - The page includes a photo whose file name refers to this operation, but its caption and alt text do not establish what it shows, so no media entry is included.
   - The second source repeats the same police account and adds no independent detail.
+  - The page displays a photo captioned only with the article title, whose caption and credit do not establish what it shows, so no media entry is included.
 ---
 
 Caltagirone State Police officers arrested a previously convicted man and
 reported a second person on suspicion of possessing large quantities of drugs
-for dealing. [@1] The arrested man was already subject to a residence obligation
+for dealing. [@1,3] The arrested man was already subject to a residence obligation
 and a requirement to report to the judicial police when officers watching the
-street noticed him showing signs of intolerance toward the check. [@1] After
+street noticed him showing signs of intolerance toward the check. [@1,3] After
 validation, the preliminary investigations judge at the Caltagirone court
-confirmed the arrest and ordered pretrial custody in prison. [@1] In the same
+confirmed the arrest and ordered pretrial custody in prison. [@1,3] In the same
 operation officers reported a second person found holding about 134 grams of
-marijuana. [@1]
+marijuana. [@1,3]
 
 With the support of the drug-dog unit, officers searched the home and garages
-available to the arrested man. [@1] In his garage they found two blocks of
+available to the arrested man. [@1,3] In his garage they found two blocks of
 hashish weighing about 200 grams, six transparent bags holding more than 4.6
-kilograms of marijuana, and several precision scales. [@1] Officers also seized
-about 50 grams of cocaine alongside the cannabis in the same garage. [@2]
+kilograms of marijuana, and several precision scales. [@1,3] Officers also seized
+about 50 grams of cocaine alongside the cannabis in the same garage. [@2,3]
 
 The arrest was made as directed by the Caltagirone Public Prosecutor's Office,
-which coordinated the investigation. [@1] Police said the result reflects
+which coordinated the investigation. [@1,3] Police said the result reflects
 continued anti-dealing work in the Calatino area, with the presumption of
 innocence applying until a final conviction. [@2]
-
