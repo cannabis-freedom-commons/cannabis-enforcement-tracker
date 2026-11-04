@@ -55,6 +55,11 @@ sources:
     publisher: CLM24
     date: 2026-11-03
     language: es
+  - title: Detenidas cuatro personas, una de ellas menor de edad, acusadas de tráfico de drogas en Puertollano
+    url: https://www.larazon.es/castilla-la-mancha/detenidas-cuatro-personas-ellas-menor-edad-acusadas-trafico-drogas-puertollano_202611036ae9dae10250123215725548.html
+    publisher: La Razón
+    date: 2026-11-03
+    language: es
 open_questions:
   - The articles give no separate date for the raids; 3 November 2026 is the publication date and is used as the incident date.
   - The two itemised marijuana seizures total 5,667.87 grams while police report more than 6.5 kilograms overall; the report uses the official total.
@@ -69,7 +74,7 @@ open_questions:
 ---
 
 National Police detained four people, two men and two women including a minor,
-for alleged drug trafficking in Puertollano. [@2,3,5] The main suspect is a
+for alleged drug trafficking in Puertollano. [@2,3,5,6] The main suspect is a
 29-year-old man wanted under four court orders, two for detention and
 imprisonment and two for detention and appearance. [@1,3] His mother-in-law was
 also detained after allegedly opening the street sales point and distributing
@@ -78,11 +83,11 @@ remanded in custody. [@1,3]
 
 Operations Escondite and Lupi dismantled three drug distribution points spread
 across Puertollano's urban centre, where officers had observed a large daily
-flow of buyers. [@1] Officers seized more than 6.5 kilograms of marijuana along
+flow of buyers. [@1,6] Officers seized more than 6.5 kilograms of marijuana along
 with 895 euros in cash, precision scales, machetes, ammunition and firearms.
 [@1] A third search in the Las Mercedes neighbourhood found 1,672.87 grams of
 processed marijuana packaged for sale, with scales, machetes, 16 shotgun
-cartridges and prescription medicines. [@1,4,5] The medicines, mainly morphine and
+cartridges and prescription medicines. [@1,4,5,6] The medicines, mainly morphine and
 fentanyl, had been seized after officers found they were being sold from one of
 the homes. [@1]
 
@@ -96,6 +101,8 @@ living-room cabinet. [@1,4] Police said all four detainees had prior records
 including drug trafficking, criminal organisation, violent robbery, injury, home
 invasion and domestic abuse. [@1,4]
 
-The search deployment included officers from Puertollano's judicial police brigade, the Prevention and Reaction Unit, the police air unit and the canine guides unit. [@3,4]
+The search deployment included officers from Puertollano's judicial police brigade, the Prevention and Reaction Unit, the police air unit and the canine guides unit. [@3,4,6]
 
-The first two searches yielded 3,995 grams of cannabis buds and drying plants, plus a scoped long gun and a short gun described as ready to fire with ammunition. [@4]
+The first two searches yielded 3,995 grams of cannabis buds and drying plants, plus a scoped long gun and a short gun described as ready to fire with ammunition. [@4,6]
+
+To avoid being located, the main suspect changed addresses and moved only through places where access with a police vehicle was difficult. [@6]
