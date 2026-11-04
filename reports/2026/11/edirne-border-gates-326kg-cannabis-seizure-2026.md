@@ -32,6 +32,11 @@ sources:
     publisher: Odak Gazetesi
     date: 2026-11-04
     language: tr
+  - title: Gümrük kapıları ve havalimanında 459 kilo uyuşturucu ele geçirildi
+    url: https://www.yorumla.net/gundem/gumruk-kapilari-ve-havalimaninda-459-kilo-uyusturucu-ele-gecirildi/128525
+    publisher: Yorumla
+    date: 2026-11-04
+    language: tr
 open_questions:
   - The articles give no separate date for the searches; 4 November 2026 is their publication date and is used as the incident date.
   - No detained suspects, arrest counts or charges were reported; investigations were described as continuing and their outcome is not known.
@@ -39,23 +44,24 @@ open_questions:
   - The Turktime page carries an image captioned with the headline, but the caption and text do not establish what it shows, so no media entry is included.
   - Both accounts repeat the Trade Ministry's version; no independent account beyond the ministry statement was opened.
   - The page's lead image is captioned only with the headline and its content is not established to show this seizure, so no media entry is included.
+  - The Yorumla page image is explicitly captioned as a representative illustration credited to Tekha, so it does not show this seizure and no media entry is added.
 ---
 
 Trade Ministry Customs Enforcement teams carried out four separate operations at
-the Kapıkule, Hamzabeyli and İpsala border gates and Istanbul Airport. [@1,3] The
+the Kapıkule, Hamzabeyli and İpsala border gates and Istanbul Airport. [@1,3,4] The
 accounts say only that investigations are continuing before the Edirne,
 Gaziosmanpaşa and İpsala chief public prosecutor's offices, without naming any
-suspects. [@1,3] The reports call the cannabis seized in the three border
+suspects. [@1,3,4] The reports call the cannabis seized in the three border
 operations 'esrar'. [@1]
 
 At Kapıkule, a detailed search of a vehicle's fuel tank after an X-ray found
 118.658 kg of cocaine in 109 packages and 25.744 kg of esrar in 32 packages.
-[@1,3] At Hamzabeyli, detector dogs Yappa and Atlas reacted to a truck's fuel
-tank, where officers found 81.134 kg of esrar in 85 packages. [@2,3] At İpsala,
+[@1,3,4] At Hamzabeyli, detector dogs Yappa and Atlas reacted to a truck's fuel
+tank, where officers found 81.134 kg of esrar in 85 packages. [@2,3,4] At İpsala,
 controls with detector dog İda after suspicious density on the X-ray led to a
-detailed search that found 219.063 kg of esrar in 200 packages. [@1,3] At Istanbul
+detailed search that found 219.063 kg of esrar in 200 packages. [@1,3,4] At Istanbul
 Airport, controls of the luggage of three incoming passengers found a total of
-15 kg of heroin. [@2,3] The ministry put all drugs seized in the four operations
+15 kg of heroin. [@2,3,4] The ministry put all drugs seized in the four operations
 at 459.599 kg, with the cannabis component stated as 325.941 kg of esrar. [@2,3]
 
 Officers selected the vehicles through risk-analysis and targeting work and
