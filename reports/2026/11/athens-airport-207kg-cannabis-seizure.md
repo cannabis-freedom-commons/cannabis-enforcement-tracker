@@ -69,6 +69,16 @@ sources:
     publisher: Protagon.gr
     date: 2026-11-04
     language: el
+  - title: '«Ελευθέριος Βενιζέλος»: Κατασχέθηκαν πάνω από 207 κιλά κάνναβης από την Ταϊλάνδη – Θα απέφεραν σχεδόν 1 εκατ. ευρώ'
+    url: https://www.skai.gr/news/greece/eleytherios-venizelos-katasxethikan-pano-apo-207-kila-kannavis
+    publisher: skai.gr
+    date: 2026-11-04
+    language: el
+  - title: Πάνω από 207 κιλά ακατέργαστης κάνναβης εντοπίστηκαν και κατασχέθηκαν στο Τελωνείο του «Ελευθέριος Βενιζέλος»
+    url: https://www.focusfm.gr/pano-apo-207-kila-akatergastis-kannavis-entopistikan-kai-kataschethikan-sto-teloneio-toy-eleytherios-venizelos/
+    publisher: Focus FM 103.6
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -103,22 +113,22 @@ media:
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
 smuggling-prosecution department of the customs office at Athens International
 Airport 'Eleftherios Venizelos', located and seized a large quantity of raw
-cannabis at the airport. [@1,4,5,7,8,9,10] According to the Hellenic Police, abbreviated in
+cannabis at the airport. [@1,4,5,7,8,9,10,11] According to the Hellenic Police, abbreviated in
 the account as EL.AS, the officers acted after making use of information they
 had received. [@1,8] No arrested people, suspects or charges are named in the
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2,3,4,5,6,7,9,10] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3,4,5,6,7,9,10,12] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8,9,10]
+that cannabis. [@1,3,4,5,6,7,8,9,10,11]
 
 Investigators traced the route of the pallets, which had apparently started by
-air from Thailand. [@1,2,3,4,5,6,7,8,9,10] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10] Police estimated that the expected financial gain
+air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12] The accompanying documents for the shipment had declared
+the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8,9,10] The investigation was continuing so that the case could be fully examined.
-[@1,4,5,6,7,8,9,10]
+[@1,2,3,4,5,6,7,8,9,10,12] The investigation was continuing so that the case could be fully examined.
+[@1,4,5,6,7,8,9,10,12]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
 
