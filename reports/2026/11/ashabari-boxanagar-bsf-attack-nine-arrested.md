@@ -31,6 +31,11 @@ sources:
     publisher: Dainik Ekmat
     date: 2026-11-03
     language: mr
+  - title: 'त्रिपुरा न्यूज: BSF जवानों पर हमला करने वालों पर पुलिस का सख्त एक्शन, गांजा जब्त करने की कार्रवाई के दौरान किया था अटैक | Police take strict action against those who attacked BSF personnel; the attack occurred during an operation to seize cannabis.'
+    url: https://www.bhaskarhindi.com/national/police-take-strict-action-against-those-attacked-bsf-personnel-attack-occurred-during-operation-cannabis-1386644
+    publisher: Bhaskar Hindi
+    date: 2026-11-03
+    language: hi
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -41,15 +46,17 @@ open_questions:
   - 'Left out, as its quotation was not found in ANI: The assault took place on Monday morning in the Ashabari area under Boxanagar.'
   - This source gives no weight, packet count or value for the recovered ganja, so no cannabis quantity can be recorded from it.
   - The page's only image is captioned only "bsf" with no credit or event detail, so it is not established to show this attack and no media entry is included.
+  - The new account says the personnel's weapons were snatched, while the existing report says the mob allegedly attempted to snatch firearms, so whether weapons were taken or only an attempt occurred remains unclear.
+  - The Bhaskar Hindi page's only image caption repeats the headline with no event-specific detail or credit, so it is not established to show this attack and no media entry is included.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
-attacking Border Security Force troopers in Sepahijala district. [@1,3] Three
+attacking Border Security Force troopers in Sepahijala district. [@1,3,4] Three
 personnel, including an assistant commandant who is the local company commander,
 were injured when a mob of men and women attacked them with sticks. [@1] The mob
 allegedly attempted to snatch their firearms and damaged a force vehicle. [@1]
 Police said nine individuals arrested in an overnight operation would be
-produced in court on Tuesday. [@2]
+produced in court on Tuesday. [@2,4]
 
 The incident occurred on Monday at Ashabari village near the India-Bangladesh
 border during a road blockade villagers enforced to protest the alleged assault
@@ -57,7 +64,7 @@ of a local resident by the BSF. [@1] Sepahijala superintendent of police Bijoy
 Debbarma said BSF personnel on duty had noticed smuggling activities on the
 border. [@1] When the BSF personnel challenged the smugglers, the smugglers
 pelted stones and scuffled with them, after which the personnel recovered
-packets of ganja from the spot. [@1,3] Those who fled mobilised villagers and
+packets of ganja from the spot. [@1,3,4] Those who fled mobilised villagers and
 enforced a road blockade, and the BSF company commander travelling with a
 constable and driver came under attack at the blockade. [@1,3]
 
@@ -66,3 +73,5 @@ the chief minister and Home Department had directed stringent action and the
 director general of police was monitoring the investigation. [@2] He said
 efforts were under way to arrest those still absconding and produce them before
 the court. [@2]
+
+The attack occurred at about 9 a.m. on 2 November while BSF personnel were on duty patrolling the border. [@4] The nine detained comprised six men and three women. [@4] Two constables and an assistant commandant were seriously injured in the attack and taken to hospital. [@4] After initially fleeing, the group returned with others, tried to block the road, and snatched the personnel's weapons during the assault. [@4]
