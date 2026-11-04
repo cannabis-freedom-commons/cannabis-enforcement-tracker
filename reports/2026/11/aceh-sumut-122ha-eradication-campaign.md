@@ -168,6 +168,11 @@ sources:
     publisher: Lensa Hukum
     date: 2026-11-02
     language: id
+  - title: Bareskrim Petakan 122 Hektare Ladang Ganja di Aceh
+    url: https://lensahukum.co.id/bareskrim-petakan-ladang-ganja-aceh
+    publisher: Lensa Hukum
+    date: 2026-11-02
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -240,6 +245,11 @@ open_questions:
   - The submitted page renders the third suspect as M 3(9), read as M, 39 following the original detik account already cited in the existing report.
   - The page discloses it was automatically rewritten by AI from the detikNews article already cited in the existing report, so it adds no independent verification beyond that original.
   - The page photo captioned as a 25-hectare Bareskrim find in Aceh Utara matches the agency handout already listed for the 25-hectare phase, so no new media entry is added.
+  - The submitted page spells the Pidie site as Desa Blang Padang and the Sawang site as Gampong Teupin Reusep, while the existing report uses Desa Blang Pandak and Gampong Teupin Rusep.
+  - The page states it was automatically rewritten by AI based on news.detik.com without altering facts, so it adds no independent verification beyond the detik account already cited.
+  - The page names no arrests, charges or court outcomes for this operation.
+  - The page carries one photo captioned as Bareskrim mapping vulnerable planting and distribution points with credit Istimewa, which does not establish that it shows the fields, plants or destruction, so no media entry is added.
+  - 'Left out, as its quotation was not found in Lensa Hukum: Police put the total area destroyed across both provinces at 122.86 hectares.'
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
@@ -269,9 +279,9 @@ about 0.7 hectares handled in Aceh Besar, both on 1 November. [@1,6,13,22]
 Police said the eradication was intended to break the narcotics distribution
 chain at its production source. [@1,5,13,21]
 
-Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6,9,10,11,12,19] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7,9,10,11,12,13,19] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7]
+Across the whole operation, officers estimated about 186,450 cannabis plants destroyed. [@5,6,9,10,11,12,19,25] Across the whole operation, the cannabis found was estimated to have a wet weight of 93.225 tonnes. [@6,7,9,10,11,12,13,19,25] In Desa Blang Pandak, Tangse, officers destroyed about 3,000 cannabis plants on two hectares. [@6,7,25] In the Aceh Timur police jurisdiction, officers secured evidence from 0.12 hectares estimated at 1,800 cannabis plants. [@6,7,25]
 
-In Bener Meriah, police destroyed 600 cannabis plants on 0.04 hectares on 1 November. [@10] In Aceh Besar, police destroyed an estimated 1,050 cannabis plants on 0.7 hectares. [@10]
+In Bener Meriah, police destroyed 600 cannabis plants on 0.04 hectares on 1 November. [@10,25] In Aceh Besar, police destroyed an estimated 1,050 cannabis plants on 0.7 hectares. [@10,25]
 
 In the Aceh Timur jurisdiction, officers designated farmer AM as a suspect over cannabis from about 0.12 hectares under Article 111, which carries a maximum 20 years' imprisonment. [@13,22] In the Sawang case, S, 43, scouted and directed officers to the site, W, 35, sowed 1,800 cannabis seeds, and M, 39, supplied the seeds to S. [@13,24] In Mandailing Natal, officers set aside 20 cannabis stalks as evidence and burned the remainder on site. [@13]
 
@@ -280,3 +290,5 @@ Officers uprooted the cannabis plants, gathered them at one point and prepared t
 The joint team arrived at the location at about 11.00 WIB. [@15,17,18,23]
 
 The 2 November follow-up covered about 25 hectares with an estimated 37,500 cannabis plants. [@21] One of the 25-hectare locations was at Gampong Teupin Rusep in Sawang, Aceh Utara. [@21] The suspects were charged under Article 111 paragraph (2) of Law 35 of 2009 on Narcotics in conjunction with Law 1 of 2023 on the Criminal Code and Law 1 of 2026 on sentencing adjustments. [@21] The charges carry a possible life sentence or five to 20 years imprisonment plus a fine under the legislation. [@21]
+
+Bareskrim said the mapping of vulnerable cannabis-planting and distribution locations in Aceh followed an instruction from President Prabowo Subianto to the National Police chief, in coordination with the head of BNN. [@25]
