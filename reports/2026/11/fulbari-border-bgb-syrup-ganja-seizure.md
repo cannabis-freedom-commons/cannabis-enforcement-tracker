@@ -22,6 +22,11 @@ sources:
     publisher: Somoyer Konthosor
     date: 2026-11-02
     language: bn
+  - title: লালমনিরহাট ফুলবাড়ী সীমান্তে পৃথক অভিযানে মাদকসহ মোটরসাইকেল জব্দ
+    url: https://www.dailykaratoa.com/article/189626
+    publisher: Daily Karatoa
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The opened capture confirms ganja was recovered but publishes no weight or sack count for the cannabis, so no kg_seized is recorded.
   - The Tk 158,800 market value covers Iscap syrup and cannabis together and cannot be separated, so it is not recorded as a cannabis-only value.
@@ -30,21 +35,24 @@ open_questions:
   - Only one source could be opened; the BSS district-news page for the same 98-bottle seizure returned 403 and was not used, and search-result wording suggesting 5.6 kg of ganja cannot be cited.
   - The supplied page image is filed as Fulbari MAP with no caption or credit confirming it shows this seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Somoyer Konthosor: BGB said the surveillance was based on intelligence information as part of its ongoing special campaign called ‘Operation Narcotics Strike’ against drugs and smuggling in the border area.'
+  - The new source writes the Anantpur checkpoint area as Balatari, while the existing report names Hajitari for the 98-bottle seizure, leaving the exact locality spelling unresolved.
+  - The Daily Karatoa page image caption only repeats the headline with no credit or description confirming it shows this seizure, so no media entry is listed for this source.
 ---
 
 Border Guard Bangladesh's Lalmonirhat Battalion (15 BGB) carried out special
 anti-drug and anti-smuggling operations on the Fulbari border in Kurigram,
-recovering Indian Iscap syrup and cannabis. [@1] The battalion conducted the two
+recovering Indian Iscap syrup and cannabis. [@1,2] The battalion conducted the two
 separate operations on the night of Sunday, 1 November, at separate places on
-the Anantpur and Balarhat border in Fulbari upazila. [@1] Members also seized a
+the Anantpur and Balarhat border in Fulbari upazila. [@1,2] Members also seized a
 motorcycle allegedly used to transport the drugs alongside the recovered
-substances. [@1]
+substances. [@1,2]
 
 In a follow-up action at around 7:30 pm on Sunday, its Anantpur border-outpost
 team searched the Hajitari area and seized 98 bottles of Indian Iscap syrup.
 [@1] BGB estimated the market value of the drugs recovered in the two operations
-at Tk 158,800, a combined amount covering both the syrup and the cannabis. [@1]
+at Tk 158,800, a combined amount covering both the syrup and the cannabis. [@1,2]
 
 The authority said such operations to protect the border and eliminate drugs
 would continue. [@1]
 
+The Balarhat outpost team seized 5 kg 600 g of ganja together with one motorcycle. [@2] The carriers of the 98 syrup bottles fled when chased by BGB. [@2] BGB said work to identify the smugglers and take legal action against them was under way. [@2]
