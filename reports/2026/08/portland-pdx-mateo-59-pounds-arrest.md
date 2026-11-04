@@ -35,6 +35,10 @@ sources:
     url: https://hoodline.com/2026/09/baltimore-woman-busted-at-pdx-with-60-pounds-of-weed-tied-to-second-traveler
     publisher: Hoodline
     date: 2026-09-30
+  - title: Woman arrested at PDX with nearly 60 pounds of marijuana, planned to resell, court docs allege
+    url: https://www.kptv.com/video/2026/09/30/woman-arrested-pdx-with-nearly-60-pounds-marijuana-planned-resell-court-docs-allege/
+    publisher: KPTV (FOX 12 Oregon)
+    date: 2026-09-30
 open_questions:
   - The roughly 65 pounds of suspected marijuana reported with the companion's luggage in Pennsylvania is a separate seizure at a different airport and is not counted in the figures above.
   - The $62,195 receipt relates to the companion's luggage in Pennsylvania, not to Mateo's seizure, and is excluded from the figures.
@@ -60,9 +64,9 @@ arraignment scheduled for September 30. [@1]
 Police said Mateo admitted the second suitcase also contained marijuana and
 consented to its search, and detectives reported 50 vacuum-sealed packages
 across both bags totaling roughly 59.5 pounds (about 27 kilograms), with labels
-bearing names associated with marijuana strains. [@1] Mateo told detectives she
+bearing names associated with marijuana strains. [@1,3] Mateo told detectives she
 planned to take the marijuana to Maryland to resell it, though she said she uses
-marijuana daily and intended to keep most of it for personal use. [@1]
+marijuana daily and intended to keep most of it for personal use. [@1,3]
 
 Security footage showed Mateo had traveled with a companion who checked three
 suitcases, and Portland investigators alerted Pennsylvania law enforcement, who
@@ -71,4 +75,3 @@ about 65 pounds of suspected marijuana and a $62,195 receipt detailing strains
 and pricing in the companion's luggage, identifying him as Glenn Sanders through
 a Delaware driver's license. [@1] It was the sixth marijuana bust at PDX that
 FOX 12 had covered in 2026. [@1]
-
