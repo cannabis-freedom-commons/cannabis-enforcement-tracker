@@ -46,6 +46,11 @@ sources:
     publisher: Telediario
     date: 2026-11-02
     language: es
+  - title: Mujer y menor de edad son detenidos por intentar meter droga al reclusorio Oriente, en CdMx
+    url: https://amp.milenio.com/policia/mujer-y-menor-meten-droga-reclusorio-oriente-detenidos
+    publisher: Grupo Milenio
+    date: 2026-11-02
+    language: es
 open_questions:
   - The article gives no separate date for the detention, so 2 November 2026 is the article's publication date used as the incident date.
   - The substance is described only as herb with characteristics similar to marijuana, with no laboratory confirmation reported.
@@ -58,17 +63,17 @@ open_questions:
 
 Officers of the Subsecretaría del Sistema Penitenciario of Mexico City's
 Secretaría de Seguridad Ciudadana detained a 31-year-old woman and an adolescent
-at the Reclusorio Preventivo Varonil Oriente in Iztapalapa. [@1,2] The two had
+at the Reclusorio Preventivo Varonil Oriente in Iztapalapa. [@1,2,4] The two had
 arrived as visitors to people deprived of liberty at the prison in Colonia San
-Lorenzo Tezonco. [@1,2] Custodians carrying out the visitor screening noticed the
-woman and the adolescent showing unusual behaviour. [@1] The pair allegedly
+Lorenzo Tezonco. [@1,2,4] Custodians carrying out the visitor screening noticed the
+woman and the adolescent showing unusual behaviour. [@1,4] The pair allegedly
 tried to bring the suspected drug into the prison hidden among their clothes.
-[@1,3]
+[@1,3,4]
 
 Acting under police protocols and with strict respect for human rights,
 custodians carried out a preventive search of both visitors. [@1] The search
-found two wrappers hidden in their clothing. [@1] The wrappers contained about
-75 grams of green, dry herb with characteristics similar to marijuana. [@1,2,3]
+found two wrappers hidden in their clothing. [@1,4] The wrappers contained about
+75 grams of green, dry herb with characteristics similar to marijuana. [@1,2,3,4]
 
 Officers read the 31-year-old woman and the minor their constitutional rights.
 [@1] Officers then transferred both people with the seized herb to the
