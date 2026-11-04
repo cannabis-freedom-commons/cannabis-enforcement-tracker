@@ -25,6 +25,16 @@ sources:
     publisher: Ouest-France
     date: 2026-10-29
     language: fr
+  - title: Caen. Interpellé alors qu'il venait d'acheter de la drogue, il plaide un énième "contrôle au faciès"
+    url: https://www.lamanchelibre.fr/actualite-1246319-caen-interpelle-alors-qu-il-venait-d-acheter-de-la-drogue-il-plaide-un-enieme-controle-au-facies
+    publisher: La Manche Libre
+    date: 2026-11-04
+    language: fr
+  - title: 'Caen. "Ils me tripotent les parties" : il accuse les policiers qui l''ont interpellé d''avoir les mains baladeuses'
+    url: https://www.lamanchelibre.fr/actualite-1239496-caen-ils-me-tripotent-les-parties-il-accuse-les-policiers-qui-l-ont-interpelle-d-avoir-les-mains-baladeuses
+    publisher: La Manche Libre
+    date: 2026-09-11
+    language: fr
 open_questions:
   - The accessible text ends mid-sentence after the knife with et..., so any additional items found on the man are unknown.
   - The penalty imposed on conviction was behind the paywall, so no prison term, fine or other sentence is recorded.
@@ -33,22 +43,26 @@ open_questions:
   - The trial date is given as Wednesday 28 October without a year; 2026 is used from the August 2026 incident and 29 October 2026 publication.
   - Only one accessible full source was found after searching; an aggregator repeats the same account without adding facts.
   - The page image is an archive view of the Caen court, not shown to depict this arrest or seizure, so no media entry is included.
+  - The 4 November account gives the man's age as 23 while the existing report and the 11 September account give 24.
+  - The new accounts describe the cannabis as a piece of cannabis, drugs or cannabis resin without repeating the 1.4 g laboratory weight, so the weight still rests on the earlier Ouest-France account.
+  - The only image on the submitted page is a Fotolia stock illustration captioned with the penalties, not a photo of this arrest or seizure, so no media entry is included.
 ---
 
 Police in Caen arrested a 24-year-old man after he fled a check in late August
-2026 and caused an officer who tried to stop him to fall to the ground. [@1] He
+2026 and caused an officer who tried to stop him to fall to the ground. [@1,2] He
 was later tried at the Caen judicial court in Calvados on Wednesday 28 October.
-[@1] The Caen court convicted the 24-year-old man and did not follow the
+[@1,2] The Caen court convicted the 24-year-old man and did not follow the
 requests made by his defence lawyer. [@1]
 
 Officers arrested the fugitive after the fall and carried out a search of his
 person. [@1] The search found 1.4 grams of cannabis resin and a knife with an
-8-centimetre blade in his possession. [@1]
+8-centimetre blade in his possession. [@1,2]
 
 On 25 August 2026 at about 6 p.m., officers in the Calvaire-Saint-Pierre
 neighbourhood of Caen in Calvados surprised two men who appeared to be carrying
 out a suspicious exchange. [@1] Officers tried to check both men, but one of
-them fled from the check. [@1] An officer stepped into the fugitive's path to
+them fled from the check. [@1,3] An officer stepped into the fugitive's path to
 block him, was violently struck by the running man, and fell together with him.
 [@1]
 
+In Caen on 25 August he had just bought a piece of cannabis when he saw an officer who wanted to check him. [@2] The Caen court convicted Marwan Alla and kept him in detention for eight months. [@2] The prosecutor had requested eight months in prison plus revocation of four months of a prior suspended sentence. [@2] His defence said his attitude came from weariness at repeated checks he viewed as racial profiling. [@2] He first appeared on 28 August and asked for time to prepare his defence. [@3] On 7 September he appeared before the Caen correctional court for a release request pending the 28 October judgment. [@3]
