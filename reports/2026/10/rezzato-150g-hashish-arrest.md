@@ -25,21 +25,29 @@ sources:
     publisher: Bresciaoggi
     date: 2026-11-02
     language: it
+  - title: 'In centro a Rezzato con 150 grammi di hashish: arrestato uno spacciatore'
+    url: https://primabrescia.it/cronaca/in-centro-a-rezzato-con-150-grammi-di-hashish-arrestato-uno-spacciatore/
+    publisher: Prima Brescia
+    date: 2026-11-04
+    language: it
 open_questions:
   - Only one source for this event was opened; no second report or agency statement was found.
   - The man's identity, residence and any formal charge beyond the arrest were not published.
   - Whether the page photo captioned 'Controlli a Rezzato' shows this seizure is not established, so no media entry is added.
   - No information was published on proceedings beyond the obbligo di dimora order.
   - The 150-gram figure is the police search count; no independent weighing is reported.
+  - The new account dates the arrest only as in recent days during Halloween checks; the 31 October incident date is retained from the earlier Bresciaoggi account.
+  - 'The page photo captioned ''In centro a Rezzato con 150 grammi di hashish: arrestato uno spacciatore'' is not established to show this seizure, so no media entry is added.'
 ---
 
 During a control operation on Saturday 31 October, the Local Police of Rezzato
 arrested a 51-year-old man. [@1] Officers stopped the man in the centre of the
-town before searching him. [@1]
+town before searching him. [@1,2]
 
-The search found the man in possession of 150 grams of hashish. [@1] Officers
+The search found the man in possession of 150 grams of hashish. [@1,2] Officers
 also found a knife in his possession during the same search. [@1]
 
 After the arrest, a judge ordered the man to observe an obbligo di dimora,
 requiring him to remain in his municipality of residence. [@1]
 
+The arrest came during territorial checks organised for the Halloween festivities. [@2] Officers said the man's presence in the area had already been noticed for several weeks. [@2]
