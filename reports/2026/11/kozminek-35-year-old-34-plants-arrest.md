@@ -58,6 +58,11 @@ sources:
     publisher: wKaliszu
     date: 2026-11-03
     language: pl
+  - title: Przegląd prasy Kalisz 3.11.2026. Sprawdź zestawienie najważniejszych informacji z wczoraj w Kaliszu
+    url: https://kalisz.naszemiasto.pl/przeglad-prasy-kalisz-3-11-2026-sprawdz-zestawienie-najwazniejszych-informacji-z-wczoraj-w-kaliszu/ar/c1p1-19738635
+    publisher: Kalisz Nasze Miasto
+    date: 2026-11-03
+    language: pl
 open_questions:
   - The article gives only its publication date of 2 November 2026 and no separate date for the search and arrest, so the publication date is used as the incident date.
   - The exact village or address of the property was not named beyond the Koźminek police area, so Koźminek is used as the place.
@@ -70,15 +75,17 @@ open_questions:
   - The submitted page credits its lead photo to pixabay, indicating stock imagery, so no media entry is added.
   - The submitted page says the man was detained and faces 3 years, without explicitly stating a charge already filed as in the existing report.
   - The submitted page gives no separate date for the search and arrest; 3 November 2026 is its publication date, while the existing report uses 2 November 2026 from earlier coverage.
+  - The roundup gives only its publication date of 3 November 2026 and no separate date for the search and arrest, while the existing report uses 2 November 2026 from earlier coverage.
+  - This page states the man was detained and faces up to three years without explicitly stating that a charge has already been filed as the existing report records.
 ---
 
 Officers from the Koźminek police station detained a 35-year-old man at the
 property where he lived in connection with growing cannabis and dealing drugs.
-[@1,2,3,4,5] He has already been charged and faces up to three years in prison. [@1,2,5]
+[@1,2,3,4,5,6] He has already been charged and faces up to three years in prison. [@1,2,5,6]
 
 During a search of the premises, they found a foil tunnel prepared for cannabis
 cultivation, holding seedlings at various growth stages as well as seed trays.
-[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5] They also seized more than 540 grams
+[@1,4,5] They seized 34 cannabis bushes. [@1,2,3,4,5,6] They also seized more than 540 grams
 of ready-made cannabis dried material, alongside more than 40 grams of a
 psychotropic substance described as an amphetamine derivative. [@1,2,3,4,5] Police put
 the estimated black-market value of the seized ready-made drugs at nearly 25,000
