@@ -42,26 +42,32 @@ sources:
     publisher: Virgule
     date: 2026-05-07
     language: fr
+  - title: 'Luxembourg: Près de 46 kilos de cannabis saisis au centre de fret du Findel'
+    url: https://infos.rtl.lu/news/luxembourg/pres-de-46-kilos-de-cannabis-saisis-au-centre-de-fret-du-findel-272146114
+    publisher: RTL Infos
+    date: 2026-05-07
+    language: fr
 open_questions:
   - The prosecutor's release gives both 45.89 kilograms in its opening line and 45.86 kilograms as the final total; this report uses the final detailed total of 45.86 kilograms, also used by RTL Today.
   - Actu.fr writes that six mattresses contained vacuum-sealed packs, while the prosecutor and RTL Today say two of the six did; this report follows the prosecutor.
   - RTL Today describes the mattresses as feather mattresses while the prosecutor calls them spring mattresses.
   - No arrest, suspect, charge, value or court outcome was reported.
   - No cannabis-only valuation was published.
+  - The page displays a customs-credited photo with no caption identifying its content, apparently the same Administration des douanes et accises handout already recorded from actu.fr, so no new media entry is added.
 ---
 
 Customs officers at Luxembourg Airport's Cargo Center in Findel stopped a
-suspicious shipment after checking its documents. [@3] Officers placed the
+suspicious shipment after checking its documents. [@3,5] Officers placed the
 shipment under reinforced control after an in-depth inspection of its documents.
 [@2]
 
 The shipment was six spring mattresses sent from Los Angeles toward Germany.
-[@2,4] Officers found vacuum-sealed packets containing cannabis hidden inside two
-of the six mattresses. [@2,4] Officers seized a total of 45.86 kilograms of
-cannabis on the Luxembourg prosecutor's order. [@2,4] The seizure occurred on 8
-April 2026. [@3,4]
+[@2,4,5] Officers found vacuum-sealed packets containing cannabis hidden inside two
+of the six mattresses. [@2,4,5] Officers seized a total of 45.86 kilograms of
+cannabis on the Luxembourg prosecutor's order. [@2,4,5] The seizure occurred on 8
+April 2026. [@3,4,5]
 
 The prosecutor presented the find as a new seizure following recent drug
-discoveries at the same freight center. [@2] German authorities were notified of
-the discovery. [@1,4] The investigation was still continuing after the seizure.
-[@1]
+discoveries at the same freight center. [@2,5] German authorities were notified of
+the discovery. [@1,4,5] The investigation was still continuing after the seizure.
+[@1,5]
