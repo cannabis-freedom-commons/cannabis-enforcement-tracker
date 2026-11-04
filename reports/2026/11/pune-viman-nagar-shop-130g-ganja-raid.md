@@ -34,6 +34,11 @@ sources:
     publisher: Lokmat
     date: 2026-11-04
     language: mr
+  - title: 'Pune News : विमाननगरमध्ये ई-सिगारेट, गांजा विक्रीचा पर्दाफाश; २२ वर्षीय तरुणी अटकेत; २ लाख १३ हजारांचा प्रतिबंधित मुद्देमाल जप्त'
+    url: https://maharashtramirror.com/pune-viman-nagar-e-cigarette-ganja-sale-wom/
+    publisher: Maharashtra Mirror
+    date: 2026-11-04
+    language: mr
 open_questions:
   - Only one accessible source was found for this event after searching in English; no second outlet or agency statement could be opened.
   - The incident date of 3 November 2026 is the raid night stated in the report; 4 November 2026 is the publication date.
@@ -44,11 +49,17 @@ open_questions:
   - Lokmat says the woman was arrested while the existing report records that Pune Mirror said she was served a notice to appear, so custodial detention remains unclear.
   - The Rs 2,17,100 total covers e-cigarettes, hookah flavours, a motorcycle, a phone and other goods together, so no cannabis-only value is recorded.
   - The Lokmat page shows a photo captioned with the headline, but the caption and credit do not establish that it shows this seizure and it may duplicate the existing handout, so no new media entry is added.
+  - This account dates the shop raid to 31 October 2026 while the existing report records the raid night as 3 November.
+  - This account gives a combined prohibited-goods total of Rs 2,13,100 while the existing report records Rs 2,17,100, and neither total is a cannabis-only value.
+  - This account locates the shop in the Dream Jazzy building while the existing report records Shop No. 9, Lunkad Dreamland.
+  - This account says the woman was arrested while the existing report notes that Pune Mirror said she was served a notice to appear, so custodial detention remains unclear.
+  - This account states ganja was found with e-cigarettes and hookah flavours but gives no ganja weight, so the 130-gram figure still rests on the earlier sources.
+  - The page photo caption repeats the headline and does not establish that it shows this seizure, so no new media entry is added.
 ---
 
 Airport police booked a 22-year-old woman for allegedly selling banned
 e-cigarettes, hookah flavours and ganja from a cosmetic jewellery shop in Viman
-Nagar. [@1] The raid was conducted on Tuesday night, 3 November, and police
+Nagar. [@1,3] The raid was conducted on Tuesday night, 3 November, and police
 seized contraband and other materials worth Rs 2.17 lakh from the shop and a
 motorcycle parked outside it. [@1] The accused was identified as Abhilasha
 Pankaj Ahirrao, a Viman Nagar resident operating Cloud Cartel at Shop No. 9,
@@ -70,13 +81,13 @@ other equipment allegedly used in the business. [@1] The total value of the
 seized material including the electric motorcycle and mobile phone was estimated
 at Rs 2,17,100. [@1] Airport police registered a case against Ahirrao under
 Sections 8(a) and 20(b)(ii)(A) of the NDPS Act, 1985 and provisions of vaping
-and tobacco laws. [@1,2]
+and tobacco laws. [@1,2,3]
 
 Ahirrao had earlier operated a shop in Deccan which she shut last month before
-starting Cloud Cartel in Viman Nagar. [@1,2] Investigators suspect she took orders
+starting Cloud Cartel in Viman Nagar. [@1,2,3] Investigators suspect she took orders
 over the phone and sold prohibited products targeting customers in the
-surrounding area with several IT companies and educational institutions. [@1,2]
+surrounding area with several IT companies and educational institutions. [@1,2,3]
 Police said further investigation is under way to ascertain the source of the
 banned products and identify whether others were involved. [@1]
 
-The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2]
+The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2,3] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2]
