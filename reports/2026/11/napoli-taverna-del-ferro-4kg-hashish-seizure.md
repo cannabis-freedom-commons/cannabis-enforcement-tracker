@@ -44,6 +44,11 @@ sources:
     publisher: Puntomagazine.it
     date: 2026-11-04
     language: it
+  - title: 'Napoli Est, controlli dei carabinieri: sequestrati 4 chili di hashish, denunce per furto di energia e sanzioni a un''impresa funebre'
+    url: https://www.ilgazzettinovesuviano.com/2026/11/04/napoli-est-controlli-dei-carabinieri-sequestrati-4-chili-di-hashish-denunce-per-furto-di-energia-e-sanzioni-a-unimpresa-funebre/
+    publisher: Il Gazzettino Vesuviano
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the checks; 4 November 2026 is its publication date and is used as the incident date.
   - The hashish weight is reported as approximate, about four kilos, and no separate weight is given for the 20 packaged doses, so the recorded cannabis figure is 4 kg.
@@ -55,25 +60,30 @@ open_questions:
   - The page labels its only photo as an archive photo, so no new event-specific media can be added from this source.
   - Adding the stated 4 kilograms and 50 grams would imply 4.05 kg of hashish, but both weights are reported as stated without laboratory precision.
   - The Zazoom and Puntomagazine.it image uses the same Poggioreale-droga-04.11.2026 file already recorded from Il Meridiano News, so no new distinct event photo is added.
+  - The new account reports eight people denounced for electricity theft, five in corso San Giovanni and three in via Suor Maria della Passione Beata, while the existing report records five people reported for electricity theft, an unresolved discrepancy.
+  - The page's only photo uses the same Poggioreale-droga-04.11.2026 file already recorded as media from Il Meridiano News, so no new distinct event photo is added.
+  - The new account also reports non-cannabis denunciations for a false identity document, a breach of home detention and unlicensed driving, which are left out here as separate non-cannabis context.
 ---
 
 The Poggioreale Carabinieri company carried out high-impact checks in the Naples
-districts of Poggioreale, San Giovanni a Teduccio and Barra. [@1,2,3] The operation
+districts of Poggioreale, San Giovanni a Teduccio and Barra. [@1,2,3,5] The operation
 uncovered electricity theft, drugs and businesses operating without the required
 authorisations. [@1,3] Officers found a drug store inside cellar rooms in the
-Taverna del Ferro housing complex at San Giovanni a Teduccio. [@1,2,4]
+Taverna del Ferro housing complex at San Giovanni a Teduccio. [@1,2,4,5]
 
 Officers seized 40 blocks of hashish with a total weight of about four kilos.
-[@1,2,4] Officers also seized 20 doses already packaged for sale. [@1,2,4]
+[@1,2,4,5] Officers also seized 20 doses already packaged for sale. [@1,2,4,5]
 
 With technicians from E-Distribuzione, officers found ten illegal connections
 used to draw power without regular metering, and five people were reported for
 electricity theft. [@1] In Barra, officers inspected a funeral business on corso
 Bruno Buozzi that was providing funeral services while licensed only to sell
 flowers and plants, fining the holder 11,200 euros and ordering the unauthorised
-activity to stop. [@1] Overall, officers identified 132 people and checked 80
-vehicles. [@1,2] They issued 22 road-traffic penalties, seized eight vehicles and
+activity to stop. [@1,5] Overall, officers identified 132 people and checked 80
+vehicles. [@1,2,5] They issued 22 road-traffic penalties, seized eight vehicles and
 referred seven people to the Prefecture for substance use without specifying the
-substance. [@1]
+substance. [@1,5]
 
-The 20 already-packaged doses weighed a further 50 grams. [@2] Of the 132 people identified, 57 had prior police records. [@2]
+The 20 already-packaged doses weighed a further 50 grams. [@2,5] Of the 132 people identified, 57 had prior police records. [@2,5]
+
+The checks that found ten illegal power connections were carried out with E-Distribuzione technicians. [@5] Five people were reported for power theft in corso San Giovanni in San Giovanni a Teduccio and three more in via Suor Maria della Passione Beata in Barra, eight in total. [@5] The funeral-business holder fined 11,200 euros was a 41-year-old Neapolitan. [@5]
