@@ -2,21 +2,20 @@
 added_at_source: git
 added_at: "2026-11-01T16:33:15.000Z"
 code: XF4RFH
-date: 2026-11-01
+date: 2026-11-04
 country: mo
 place: Central District (中區), Macau
 coordinates: [22.1936, 113.5394]
 precision: district
-type: arrest
-also: [seizure]
-title: Macau arrests Hong Kong electrician with six THC vapes worth MOP8,000
-summary: >-
-  Macau's Judiciary Police arrested a 35-year-old Hong Kong electrician in the central district and seized six THC e-cigarettes worth about MOP8,000, plus four used devices at his home. Police said he brought them from Hong Kong and sold to at least three people at MOP1,400 each; he was referred to prosecutors over three drug offences.
+type: prosecution
+also: [seizure, arrest]
+title: Hong Kong electrician remanded in Macau over 6 THC vapes
+summary: Macau's criminal court ordered pretrial detention for the 35-year-old Hong Kong electrician arrested with six THC e-cigarettes, finding strong signs of trafficking, drug use and unlawful possession of equipment. Police said he smuggled the THC vapes from Hong Kong for personal use and sale, and prosecutors cited his non-resident status and flight and reoffending risks.
 figures:
-  arrested: 1
-  value:
-    amount: 8000
-    currency: MOP
+    arrested: 1
+    value:
+        amount: 8000
+        currency: MOP
 media:
   - kind: photo
     url: https://news.rthk.hk/rthk/ch/component/k2/1876124-20261101.htm
@@ -90,6 +89,11 @@ sources:
     publisher: am730 (via Yahoo News Hong Kong)
     date: 2026-11-01
     language: zh
+  - title: 涉販賣含大麻油電子煙港男被羈押
+    url: https://www.tdm.com.mo/zh-hant/news-detail/1257271?isvideo=false&lang=zh&shortvideo=0&category=all
+    publisher: TDM
+    date: 2026-11-04
+    language: zh
 open_questions:
   - The reports give no date for the arrest, saying only that officers stopped him in the central district a few days earlier; 1 November is the date he was taken to the Public Prosecutions Office and of publication.
   - No weight was given for the THC oil in the six e-cigarettes, so only the device count and the police valuation are recorded.
@@ -103,6 +107,8 @@ open_questions:
   - The 881903 report carries essentially the same text as the Hong Kong Commercial Daily account and credits the Macau Government Information Bureau's Facebook page, so the two new accounts are not independent.
   - The submitted account values the six THC e-cigarettes at about MOP8,400, while the existing report keeps about MOP8,000 from the Hong Kong accounts.
   - The Yahoo (am730) page carries one image captioned as the arrest of the 35-year-old Hong Kong man, without a credit, which does not by itself establish that it shows this arrest distinctly from the escort photos already in the report, so no media entry is added.
+  - The article gives no separate date for the first interrogation and detention order; 4 November 2026 is its publication date and is used as the incident date.
+  - The submitted page image is captioned only as photo without a credit and is not established to show this seizure, so no media entry is included.
 ---
 
 Macau's Judiciary Police arrested a 35-year-old Hong Kong man who works as an
@@ -115,7 +121,7 @@ e-cigarette devices that had already been used. [@2,3,6,12]
 Laboratory tests found the oil contained controlled tetrahydrocannabinol (THC),
 and his urine test for drugs was positive. [@2,3,7,8,11,12] Police believe he used the vapes
 himself and had recently begun bringing them from Hong Kong, selling to at least
-three people at MOP1,400 each. [@2,3,12] He was taken to the Public Prosecutions
+three people at MOP1,400 each. [@2,3,12,13] He was taken to the Public Prosecutions
 Office (檢察院) for questioning on the morning of 1 November, suspected of illegal
 consumption, possession and trafficking of narcotic and psychotropic substances.
 [@1]
@@ -128,3 +134,5 @@ would share intelligence and enforcement cooperation with neighbouring forces
 against cross-border drug trafficking. [@2]
 
 The interception took place at about 1 pm on 30 October 2026. [@3,8] The six e-cigarettes he was carrying weighed about 155.2 grams. [@3,8] He held a blue card, the identity document Macau issues to non-resident workers. [@3,10] Police said the four used devices found at his home were still being tested. [@4] Police said he found buyers through drug users introducing one another, and that how many vapes he had sold, and to whom, was still under investigation. [@5]
+
+After his first judicial interrogation, the criminal prosecution court found strong signs that he had committed drug-trafficking, drug-use and improper possession of equipment offences. [@13] Adopting the prosecution's recommendation, the court ordered pretrial detention, citing the seriousness of the offences, his status as a non-Macau resident and risks of flight, disturbing public order and further offending. [@13]
