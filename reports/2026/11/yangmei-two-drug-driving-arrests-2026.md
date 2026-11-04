@@ -63,6 +63,11 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-04
     language: zh
+  - title: 沒打方向燈露餡！楊梅警毒品唾液快篩連抓2男涉毒駕
+    url: https://life.tw/article/%E6%B2%92%E6%89%93%E6%96%B9%E5%90%91%E7%87%88%E9%9C%B2%E9%A4%A1-%E6%A5%8A%E6%A2%85%E8%AD%A6%E6%AF%92%E5%93%81%E5%94%BE%E6%B6%B2%E5%BF%AB%E7%AF%A9%E9%80%A3%E6%8A%932%E7%94%B7%E6%B6%89%E6%AF%92%E9%A7%95-3204066
+    publisher: LIFE.tw
+    date: 2026-11-04
+    language: zh
 open_questions:
   - No cannabis weight or other drug quantity was published because the cannabis allegation rests on a roadside saliva screening, so no kilograms can be recorded.
   - The heroin reportedly found on the 62-year-old driver was not quantified and is excluded from cannabis figures.
@@ -70,6 +75,8 @@ open_questions:
   - The 9-case and 160-case totals refer to wider Yangmei drug-driving enforcement since 31 October and this year, not to this two-stop event.
   - Both opened accounts repeat the Yangmei police account; no separate agency statement was opened.
   - 'Left out, as its quotation was not found in 蕃新聞: Yangmei Branch said 9 drug-driving cases had been logged since tougher penalties took effect on 31 October, with 160 recorded this year.'
+  - This account writes the second positive as 安非他命, literally amphetamine, while the existing report renders it as methamphetamine; the distinction needs a laboratory result to resolve.
+  - This account names only Huandong Road and does not repeat the house number No. 10 given in the existing report, so that detail rests on the earlier sources alone.
 ---
 
 Yangmei Precinct officers on patrol in Yangmei District on 3 November stopped
@@ -79,19 +86,19 @@ drug and public-danger allegations. [@1,4,6] Around 8am in front of No. 10 Huand
 Road, officers stopped 62-year-old Ou riding an ordinary heavy motorcycle for
 failing to use his indicator and ignoring lane markings. [@1,3,4] Ou answered
 repetitively, agreed to a saliva test that was positive for heroin and
-methamphetamine, was found carrying heroin, and was arrested on the spot. [@1,3,4,5,6]
+methamphetamine, was found carrying heroin, and was arrested on the spot. [@1,3,4,5,6,7]
 Around 5pm in Lane 161 Zhongshan Road, officers stopped 63-year-old Peng driving
 a car for failing to signal, found he was unlicensed and nervous, and arrested
 him after his consented saliva test was positive for cannabis and
-methamphetamine. [@1,3,4,5,6]
+methamphetamine. [@1,3,4,5,6,7]
 
 Police handled both cases as suspected violations of the Drug Hazard Prevention
 Act and public-danger drug-driving offences for investigation by the Taoyuan
-District Prosecutors Office. [@2,3,4,5,6] The cannabis component in this mixed two-case
+District Prosecutors Office. [@2,3,4,5,6,7] The cannabis component in this mixed two-case
 operation is Peng’s cannabis-positive screening alongside methamphetamine, while
 the other driver’s screening was for heroin and methamphetamine. [@2,5]
 
 Yangmei Branch said 9 drug-driving cases had been logged since tougher penalties
-took effect on 31 October, with 160 recorded this year. [@1,4] Branch chief Wu
+took effect on 31 October, with 160 recorded this year. [@1,4,7] Branch chief Wu
 Chuan-ming said police would keep strictly enforcing against drug-driving to
-protect other road users. [@2]
+protect other road users. [@2,7]
