@@ -27,6 +27,10 @@ sources:
     publisher: NewsNow24
     date: 2026-11-04
     language: bn
+  - title: Police Arrest 1,179 in 24-Hour Crackdown Across Chattogram Division
+    url: https://www.businesstimes-bd.com/bangladesh/12307
+    publisher: Business Times
+    date: 2026-11-04
 open_questions:
   - The report counts only the 140 drug-linked detentions because the sweep total of 1,179 detained covers all offences including juvenile gangs.
   - The reports do not say how many of the 140 drug-linked detentions involved ganja rather than yaba.
@@ -36,22 +40,23 @@ open_questions:
   - Only one accessible source for this 3-4 November operation could be opened; matching reports were found in search but their pages returned access errors and are not cited.
   - The page photo is captioned only with the operation headline and is not established to show this seizure, so no media entry is included.
   - No detained person was named and no later court outcome beyond the mobile-court sentences was reported.
+  - The English account rounds the cannabis seizure to nearly 54 kilograms while the existing report records the precise 53 kg 960 grams figure, so the precise figure is retained.
+  - The English account lists 40 arrests under narcotics laws without the detailed 78-plus-62 breakdown behind the 140 drug-linked detentions, so the report keeps the detailed count.
 ---
 
 Police in Chattogram Range detained 140 people for drugs and various other
 offences in a 24-hour operation. [@1] The operation ran from Tuesday 3 November
-to Wednesday 4 November across 11 districts of the range. [@1] Of the 140,
+to Wednesday 4 November across 11 districts of the range. [@1,2] Of the 140,
 police counted 78 people held in drug cases and 62 more held as drug traders in
 regular and other cases. [@1] Range DIG Abdul Kudduc Chowdhury announced the
 results of the operation. [@1]
 
 Officers recovered 53 kg 960 grams of ganja, the cannabis component recorded
-here. [@1] The same recovery also included 23,995 yaba tablets alongside the
-cannabis. [@1] Mobile courts jailed 40 people and collected Tk 7,650 in fines in
-the anti-drug drive. [@1] Authorities filed 40 cases under the drug-control law
+here. [@1,2] The same recovery also included 23,995 yaba tablets alongside the
+cannabis. [@1,2] Mobile courts jailed 40 people and collected Tk 7,650 in fines in
+the anti-drug drive. [@1,2] Authorities filed 40 cases under the drug-control law
 during the operation. [@1]
 
 The drug operation was part of a wider special operation targeting juvenile
-gangs, mugging, extortion, terrorist activities and drug offences. [@1] Police
+gangs, mugging, extortion, terrorist activities and drug offences. [@1,2] Police
 said the special operation would continue in the public interest. [@1]
-
