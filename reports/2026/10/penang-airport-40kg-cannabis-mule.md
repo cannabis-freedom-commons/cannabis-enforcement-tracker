@@ -90,6 +90,11 @@ sources:
     publisher: Astro Awani
     date: 2026-11-02
     language: ms
+  - title: Belum sempat ke London, pemuda Miri ditahan bawa bunga ganja
+    url: https://www.kosmo.com.my/2026/11/02/belum-sempat-ke-london-pemuda-miri-ditahan-bawa-bunga-ganja/
+    publisher: Kosmo Online
+    date: 2026-11-02
+    language: ms
 open_questions:
   - No court outcome beyond the 19-31 October remand was reported.
   - The same articles describe a separate Jelutong drug operation involving MDMA, Erimin 5, ketamine and syabu liquid; it is a different event left out here and its drugs are not counted in cannabis figures.
@@ -110,24 +115,27 @@ open_questions:
   - Whether the lead Bernama photo on this page shows this cannabis seizure could not be established from its empty caption, so no media entry is added.
   - The submitted video page gives only the headline about 40kg of dadah with no article body identifying the substance, place or date; cannabis identification and event details come from the corroborating Astro Awani report.
   - Whether the video thumbnail or footage shows this seizure could not be established from its caption, so no media entry is added.
+  - The Kosmo account dates the arrest only as about two weeks before its 2 November 2026 publication; the 18 October 2026 date comes from the report's earlier sources.
+  - Kosmo reports the urine screening only as positive for an unspecified drug, while the existing report names amphetamine and methamphetamine from its earlier sources.
+  - Kosmo's only captioned image shows the Penang police chief at a press conference rather than the seizure, so no media entry is added.
 ---
 
 Police detained a 28-year-old unemployed man from Miri, Sarawak, at about 5 pm
 on 18 October 2026 while he waited for a flight at Gate B1 of Penang
-International Airport in Bayan Lepas. [@1,3,4,5,6,10] Officers from police together with
+International Airport in Bayan Lepas. [@1,3,4,5,6,10,13] Officers from police together with
 the Royal Malaysian Customs Department found the drugs inside two pieces of
 luggage he was carrying. [@1]
 
-The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10,11,12] Police
+The luggage held about 40 kilograms of suspected cannabis buds. [@1,3,4,5,6,8,9,10,11,12,13] Police
 valued the cannabis at RM3.2 million and said the man was acting as a drug mule
-tasked with carrying it to London. [@2,3,4,5,7,9,10,11] The man had arrived in Penang only two
+tasked with carrying it to London. [@2,3,4,5,7,9,10,11,13] The man had arrived in Penang only two
 days earlier, said he was acting on another person's instructions, and was
 promised RM9,000 for the trip in what police believed was his first cross-border
-air-trafficking attempt. [@2,4,5]
+air-trafficking attempt. [@2,4,5,13]
 
 A urine screening found him positive for amphetamine and methamphetamine, and a
-records check found two prior crime-related records. [@1,8,10,11] He was remanded for 13
+records check found two prior crime-related records. [@1,8,10,11,13] He was remanded for 13
 days from 19 to 31 October for investigation under Section 39B of the Dangerous
-Drugs Act 1952. [@1]
+Drugs Act 1952. [@1,13]
 
 The suspect was charged in court on 30 October and pleaded not guilty. [@7]
