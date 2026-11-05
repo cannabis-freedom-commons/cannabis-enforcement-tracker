@@ -29,6 +29,11 @@ sources:
     publisher: Yash Bharat
     date: 2026-11-05
     language: hi
+  - title: भोपाल में गांजा तस्करी का खुलासा, पुराने कपड़ों की आड़ में 3 गिरफ्तार
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-ganja-smuggling-old-clothes-business-three-arrested-mp-news-in-hindi-20261105034858
+    publisher: Raj Express
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives no separate date for the two actions; 4 November 2026 is the publication date and is used as the incident date.
   - No second accessible source for this Gautam Nagar event was found after searching in Hindi and English.
@@ -37,26 +42,32 @@ open_questions:
   - No court outcome beyond production before the court was reported; questioning about the supply network was still under way.
   - The page includes an image whose caption is only a file name, which does not establish that it shows this seizure, so no media entry is included.
   - No separate date for the two police actions is given; the report uses 4 November 2026, while this account was published on 5 November 2026.
+media:
+  - kind: photo
+    url: https://rajexpress.com/madhya-pradesh-news/bhopal-ganja-smuggling-old-clothes-business-three-arrested-mp-news-in-hindi-20261105034858
+    media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/7eb3e7b4-cf94-49c4-800c-7bcdae48fee6.webp
+    publisher: Raj Express
+    caption: Police photo showing the seized ganja, scooter and cash linked to the three arrests in Bhopal.
 ---
 
 Gautam Nagar police in Bhopal arrested three men accused of trafficking ganja, a
-name for cannabis in India. [@1,2] The men were identified as 55-year-old Manoj
+name for cannabis in India. [@1,2,3] The men were identified as 55-year-old Manoj
 Sankat, Shiva alias Shivanshu Sankat and Shivam Maheshkar. [@1,2] Police said the
 men brought ganja to Bhopal via Raipur and sold it in the city in pudiyas, small
-paper packets, for profit. [@1,2]
+paper packets, for profit. [@1,2,3]
 
 In the first action, officers caught Manoj Sankat selling pudiyas outside his
-house in Nagar Nigam Colony in Nariyalkheda. [@1,2] Police said a search of his
-room found 1 kg 800 g of ganja and four pudiyas. [@1,2] In the second action,
+house in Nagar Nigam Colony in Nariyalkheda. [@1,2,3] Police said a search of his
+room found 1 kg 800 g of ganja and four pudiyas. [@1,2,3] In the second action,
 officers stopped two young men carrying ganja on a scooter near the New Arif
-Nagar bus stand. [@1,2] The two men were identified as Shiva alias Shivanshu
+Nagar bus stand. [@1,2,3] The two men were identified as Shiva alias Shivanshu
 Sankat and Shivam Maheshkar. [@1,2] Police said a search of the two men found 1 kg
-903 g of ganja, the scooter and Rs 41,000 in cash. [@1,2] Together the detailed
+903 g of ganja, the scooter and Rs 41,000 in cash. [@1,2,3] Together the detailed
 recoveries total about 3.7 kg, described by police as about 4 kg, alongside one
 scooter and Rs 41,000 in cash. [@1,2]
 
 Police said questioning indicated the accused brought ganja along the Raipur
 route and sold it at different places in Bhopal. [@1,2] Police registered two
 separate cases against the three men under Sections 8/20 and 29 of the NDPS Act,
-India's narcotics law, and produced them before a court. [@1,2] Police said they
+India's narcotics law, and produced them before a court. [@1,2,3] Police said they
 are now tracing other people in the network and the supply chain. [@1,2]
