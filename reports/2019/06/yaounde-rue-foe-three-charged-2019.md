@@ -45,18 +45,19 @@ open_questions:
 
 On 1 September 2017, on the Tabaski feast day, first-grade peace officer Belibi
 Leonel came across a group of boys consuming narcotics at the place known as Rue
-Foe in Yaounde's 5th arrondissement. [@1] Three young men found with 95 cannabis
-portions intended for sale and personal use were held in Kondengui prison. [@2]
+Foe in Yaounde's 5th arrondissement. [@1,3] Three young men found with 95 cannabis
+portions intended for sale and personal use were held in Kondengui prison. [@2,3]
 The three detainees were identified as Bertrand Zalabaye, Donaldson Bache and
-Blaise Egoueyi. [@3]
+Blaise Egoueyi. [@1,3]
 
 The accused were charged with cannabis trafficking and consumption and sent for
-trial before the Mfoundi High Court, the Tribunal de Grande Instance. [@1] Their
-trial opened on 7 June 2019. [@1] Zalabaye pleaded guilty to assault and
+trial before the Mfoundi High Court, the Tribunal de Grande Instance. [@1,3] Their
+trial opened on 7 June 2019. [@1,3] Zalabaye pleaded guilty to assault and
 cannabis consumption but denied trafficking, saying he obtained his cannabis
-from his co-accused Egoueyi, an account confirmed by Bache. [@1]
+from his co-accused Egoueyi, an account confirmed by Bache. [@1,3]
 
-All three admitted that they regularly met to consume drugs together. [@1]
+All three admitted that they regularly met to consume drugs together. [@1,3]
 Egoueyi admitted that he kept a stall at Rue Foe where he sold cannabis to
-friends and potential customers. [@1]
+friends and potential customers. [@1,3]
 
+The Kalara account also lists assault, coups et blessures, among the offences with which the three were charged. [@3]
