@@ -45,6 +45,11 @@ sources:
     publisher: Deshpatra
     date: 2026-11-05
     language: hi
+  - title: 'Patna News: हथियार और गांजा के साथ धंधेबाज गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/patna/story-patna-police-arrest-ganja-dealer-seize-country-made-pistol-and-cartridges-201793888669203.html
+    publisher: Live Hindustan
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither article gives a separate date for the raid; 5 November 2026 is the publication date of both accounts and is used as the incident date.
   - The ganja weight is given only as about one kilogram, so the figure is approximate.
@@ -53,13 +58,17 @@ open_questions:
   - No case number, charge, court appearance or remand decision was reported.
   - The articles do not say where the ganja came from or whether anyone else was arrested.
   - Both outlets carry photos captioned only as the recovered items and the arrested youth; no credit or agency statement was published with them.
+  - The article gives no separate date for the raid; 5 November 2026 is its publication date and is used as the incident date, matching the existing report.
+  - The ganja weight is given only as about one kilogram, so the figure remains approximate.
+  - No value for the seized ganja, pistol make, case number, charge or court outcome was published.
+  - The page's only listed image uses a July 2025 Patna image address with a generic headline caption and no credit showing this seizure, so no media entry is included.
 ---
 
 Patna police arrested a young man they named as Shivam Kumar near Rajapur Gumti,
 in the Shri Krishnapuri police station area, on a tip-off that ganja was being
-sold from a roadside kiosk there. [@1] The tip-off also said the seller kept a
+sold from a roadside kiosk there. [@1,3] The tip-off also said the seller kept a
 firearm at the kiosk, a ghumti in local Hindi. [@1] Officers searched him and
-recovered about one kilogram of ganja and a pistol. [@1] Deshpatra's account of
+recovered about one kilogram of ganja and a pistol. [@1,3] Deshpatra's account of
 the same raid reported two live cartridges seized as well as the pistol and the
 kilogram of ganja. [@2]
 
@@ -72,3 +81,4 @@ at a press conference. [@1] Police said they were questioning him about where
 the ganja came from and whether others were part of the trade. [@1] Deshpatra
 reported that police would also act against anyone else found involved. [@2]
 
+Live Hindustan reports that one country-made pistol, two cartridges and about one kilogram of ganja were recovered from Shivam Kumar. [@3] Shivam Kumar is 23 years old, originally from Khudanagar in Nalanda, and lived on rent near the Pranami temple at Rajapur. [@3] Three NDPS Act cases were already registered against Shivam Kumar at Shri Krishnapuri police station. [@3] He had been absconding since his name surfaced in narcotics recoveries in September and February. [@3] Police said ganja had been sold at the spot for a long time. [@3] Police were questioning him to trace other members of his gang. [@3]
