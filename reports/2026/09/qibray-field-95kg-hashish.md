@@ -43,6 +43,11 @@ sources:
     publisher: UzDaily.uz
     date: 2026-09-25
     language: ru
+  - title: В Ташкентской области изъяли почти 95 кг гашиша – его стоимость могла превысить $10 млн
+    url: https://daryo.uz/ru/2026/09/25/tashoblast-gashish-narkotiki-sledstvie-10-millionov-dol/
+    publisher: Daryo
+    date: 2026-09-25
+    language: ru
 media:
   - kind: photo
     url: https://www.gazeta.uz/oz/2026/09/25/drugs/
@@ -61,12 +66,15 @@ open_questions:
   - The UzDaily account attributes the Customs Committee statement to Gazeta rather than reporting it independently.
   - UzDaily describes the stakeout as more than a week while the report uses eight days from Gazeta; no separate interception date is given.
   - The UzDaily page carries a Customs Committee press-service photo of the seizure whose distinctness from the Gazeta handout already in the report is not established, so no new media entry is added.
+  - It is not established whether the Daryo photographs credited to the Customs Committee of Uzbekistan show different views from the Gazeta handout already in the report.
 ---
 
 Officers of the Customs Committee's anti-smuggling department, working with State Security Service officers, found nearly 95 kg of hashish in Qibray district of Tashkent region, committee press secretary Husan Tangriyev told Gazeta. [@1,2,3,4]
 
-Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2,3,4] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1,4]
+Four farm sacks hidden among trees in a field held 109 packages of hashish. [@1,2,3,4,5] Officers kept the area under surveillance for several days to identify anyone coming to collect the drugs. [@1,4]
 
-Eight days later, two people who arrived to collect the narcotics were identified and detained. [@1,2,4] During the investigation, the person who had ordered the drugs hidden there and later collected was also identified and detained; he had previously faced a criminal case opened by the Customs Committee over petrol smuggling. [@1,4]
+Eight days later, two people who arrived to collect the narcotics were identified and detained. [@1,2,4,5] During the investigation, the person who had ordered the drugs hidden there and later collected was also identified and detained; he had previously faced a criminal case opened by the Customs Committee over petrol smuggling. [@1,4,5]
 
-A criminal case was opened over the large consignment. [@1,2,3,4] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2,3,4]
+A criminal case was opened over the large consignment. [@1,2,3,4,5] Experts estimated the hashish at 700,000 single doses, and said its black-market value could have exceeded $10 million had it reached end consumers. [@1,2,3,4,5]
+
+The Central Customs Laboratory examination found the sacks held about 95 kg of hashish. [@5] The criminal case was passed to an investigative body. [@5]
