@@ -121,6 +121,11 @@ sources:
     publisher: KOMPAS.com
     date: 2026-11-04
     language: id
+  - title: Membawa 44,1 Kilogram Ganja Kurir Narkoba Ditangkap
+    url: https://tv.sinpo.id/detail/membawa-44-1-kilogram-ganja-kurir-narkoba-ditangkap
+    publisher: SinPo.tv
+    date: 2026-11-05
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -158,6 +163,9 @@ open_questions:
   - The Beritabuana account names only the Tol Jagorawi area and the 3 November 2026 press-conference date, so the 31 October 2026 seizure date and exact rest-area point continue to rely on earlier sources.
   - The Beritabuana page's only listed image shows the narcotics director at a press conference and its caption does not establish that it shows the seized 44.1 kg cannabis, so no media entry is added.
   - The page's featured image caption describes a 3 November 2026 press conference about the 44.1 kg Mandailing Natal ganja case and credits Antara-Ditresnarkoba Polda Metro Jaya, but does not establish that it shows the seized cannabis itself, so no media entry is added.
+  - The page gives only its 5 November 2026 publication display and does not state the 31 October 2026 seizure date, so the event date continues to rely on earlier sources.
+  - The page names only the Tol Jagorawi area and does not give the rest-area detail, so the precise location continues to rely on earlier sources.
+  - The page's featured image is captioned only with the article title and the listed source image shows an unrelated forest-fire item, so neither is established to show the seized cannabis and no media entry is added.
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -177,8 +185,8 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18,19] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18,19,21] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5,18]
 
