@@ -36,6 +36,11 @@ sources:
     publisher: Kosmo Online
     date: 2026-11-04
     language: ms
+  - title: Kastam Selangor rampas dadah RM2.24 juta dalam dua operasi di Sepang, Jeli
+    url: https://malaysiatribune.news/kastam-selangor-rampas-dadah-rm2-24-juta-dalam-dua-operasi-di-sepang-jeli/
+    publisher: Malaysia Tribune
+    date: 2026-11-05
+    language: ms
 open_questions:
   - The operation date is given only as 10 October 13 as “this year”; 2026 is inferred from the 4 November 2026 publication date.
   - No suspect was arrested or named; the rider escaped and remains unidentified.
@@ -45,23 +50,29 @@ open_questions:
   - Only one accessible source for this Jeli seizure was found after searching in Chinese, Malay and English.
   - This Kosmo Online account gives the cannabis weight as 0.28 kg, while the existing report records 286 g from its earlier source; the existing figure is retained.
   - The Kosmo Online page image is captioned Gambar Hiasan, meaning illustrative image, so it adds no new photo of this seizure.
+  - The Malaysia Tribune page gives the Jeli cannabis as 0.28 kg and RM22,880, as do the earlier Kosmo and Guangming accounts; the report's existing 286 g figure is retained and the two are the same weight written differently.
+  - The article is written in Malay although the page's language metadata says en-US; its publication date is 5 November 2026, while the Jeli operation date is given only as 13 October.
+  - The article repeats that the rider escaped and no arrest or charge followed the Jeli seizure; it gives no information on the suspect's identity or on the investigation's outcome.
+  - The page's only picture is a portrait of Selangor Customs director Noraidah Ishak, not a photo of the seizure, so no media entry is added.
 ---
 
 Selangor Customs enforcement officers spotted an unregistered motorcycle with a
 suspicious rider in Jeli district, Kelantan, on 13 October 2026 and began
-tracking him. [@1,2] The rider accelerated and fled when he realised officers were
+tracking him. [@1,2,3] The rider accelerated and fled when he realised officers were
 following, leading to a chase in which officers kept up but the suspect escaped
 through narrow roads. [@1,2] While fleeing, the rider threw a green plastic
 package onto the roadside. [@1,2]
 
 Officers recovered the package and found 286 grams of suspected cannabis flower
 inside. [@1,2] Customs estimated the 286 grams of suspected cannabis flower at
-RM22,880. [@1,2] Officers seized the exhibit and sent it to the North Port customs
+RM22,880. [@1,2,3] Officers seized the exhibit and sent it to the North Port customs
 office for investigation. [@1,2]
 
 Customs said the suspect appeared to have used the unregistered motorcycle
-deliberately to avoid detection and to make escape easier. [@1] The case is
+deliberately to avoid detection and to make escape easier. [@1,3] The case is
 being investigated under Section 39B of the Dangerous Drugs Act 1952, which
 allows death or life imprisonment on conviction and at least 12 strokes of the
 cane if death is not imposed. [@1,2] No arrest was reported at the scene and the
 investigation was still under way with no court outcome announced. [@1]
+
+Selangor Customs ran the Jeli motorcycle hunt under the operation name Shieldgate, separate from its courier-parcel operation in Sepang. [@3] Customs said the Jeli cannabis and the ketamine seized in the separate Sepang operation were taken together to the North Port customs office for further investigation under Section 39B of the Dangerous Drugs Act 1952. [@3]
