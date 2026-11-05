@@ -27,6 +27,11 @@ media:
     media_url: https://www.mpnewscast.com/wp-content/uploads/2026/11/VID-20261104-WA0081.mp4
     publisher: MP News Cast
     caption: Video embedded with the report on the Jhinjhari police seizure operation.
+  - kind: photo
+    url: https://yashbharat.co.in/%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A5%87-12-%E0%A4%B2%E0%A4%BE%E0%A4%96-%E0%A4%95%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A4%BE-%E0%A4%9C%E0%A4%AC%E0%A5%8D%E0%A4%A4-%E0%A4%AE%E0%A5%81/
+    media_url: https://yashbharat.co.in/wp-content/uploads/2026/11/IMG_20261105_125141-780x470.jpg
+    publisher: Yash Bharat
+    caption: 'Police personnel lined up at a police outpost, used as the illustration on the report of the Jhinjhari police seizure in Katni. Photo: Yash Bharat'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f1521ee9b73a6d523fdfeba257b30442
@@ -47,6 +52,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: कार से 12 लाख का गांजा जब्त, मुखबिरों की सूचना पर पुलिस ने की घेराबंदी, कार छोडक़र भागा चालक, मामला दर्ज
+    url: https://yashbharat.co.in/%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A5%87-12-%E0%A4%B2%E0%A4%BE%E0%A4%96-%E0%A4%95%E0%A4%BE-%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%9C%E0%A4%BE-%E0%A4%9C%E0%A4%AC%E0%A5%8D%E0%A4%A4-%E0%A4%AE%E0%A5%81/
+    publisher: Yash Bharat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No arrest was reported because the driver fled, and the identity of the accused remains unknown.
   - The car had no number plate, so its registration and owner could not be confirmed from this report.
@@ -55,23 +65,27 @@ open_questions:
   - No separate time of the chase beyond the 4 November 2026 date was published.
   - The Bhaskar account gives only the combined value of about 12 lakh rupees for the ganja and car together and does not give the separate 500,000-rupee ganja and 700,000-rupee car split recorded in the existing report.
   - The submitted video page capture contains only the headline and video in readable text; the fuller corroborating details come from the same Bhaskar article's news-text version with the same article ID.
+  - Only the combined value of about 1,200,000 rupees for the ganja and car was reported by Dainik Bhaskar; the separate 500,000-rupee ganja and 700,000-rupee car split comes from Yash Bharat and the earlier account.
+  - The image on the Yash Bharat page shows police personnel at an outpost and is not established to show the seized car, packets or the roadside where the driver fled, so it is listed only as an illustration.
+  - No separate time of the chase or search beyond the 4 November 2026 date was published.
+  - No arrest, charge or court step beyond the registration of the case against unknown accused was reported; the driver remained unidentified.
 ---
 
 On 4 November 2026, Jhinjhari police chased an unnumbered white Swift Dzire
-after a tip that its driver was carrying ganja from Umaria toward Jabalpur. [@1,2]
+after a tip that its driver was carrying ganja from Umaria toward Jabalpur. [@1,2,4]
 The driver sped away from two police teams, turned off near the GST office onto
 Badagaon Road, stopped in front of Forest Smriti Van and fled under cover of
-darkness. [@1,2] Police searched for the driver at the spot but did not find him,
-so no arrest was made there. [@1,2] Police registered a case against unknown
-accused under sections 8 and 20 of the NDPS Act. [@1,2]
+darkness. [@1,2,4] Police searched for the driver at the spot but did not find him,
+so no arrest was made there. [@1,2,4] Police registered a case against unknown
+accused under sections 8 and 20 of the NDPS Act. [@1,2,4]
 
 Officers searched the abandoned unnumbered white Swift Dzire before independent
-witnesses and found 50 packets of ganja inside the car. [@1,2] Separate weighing
-showed each packet held 1 kg, making 50 kg of ganja in total. [@1,2] Police seized
+witnesses and found 50 packets of ganja inside the car. [@1,2,4] Separate weighing
+showed each packet held 1 kg, making 50 kg of ganja in total. [@1,2,4] Police seized
 the car and the ganja, valuing the ganja at about 500,000 rupees and the car at
-about 700,000 rupees for a combined seizure of about 1,200,000 rupees. [@1,3]
+about 700,000 rupees for a combined seizure of about 1,200,000 rupees. [@1,3,4]
 
 The raid was guided by Madhavnagar station house officer Shailendra Singh Yadav
 along with senior Katni officers. [@1] The team was led by outpost in-charge
 Rajesh Kumar Dube with seven other named personnel credited for their roles.
-[@1] Police said the absconding accused would be arrested soon. [@1]
+[@1] Police said the absconding accused would be arrested soon. [@1,4]
