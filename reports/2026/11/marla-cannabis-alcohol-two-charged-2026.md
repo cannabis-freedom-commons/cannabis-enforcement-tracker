@@ -33,6 +33,10 @@ sources:
     url: https://www.police.sa.gov.au/sa-police-news-assets/traffic/police-intercept-booze-and-cannabis-north-of-marla
     publisher: South Australia Police
     date: 2026-11-05
+  - title: Police Intercept Booze And Cannabis North Of Marla
+    url: https://www.nationaltribune.com.au/police-intercept-booze-and-cannabis-north-of-marla/
+    publisher: The National Tribune
+    date: 2026-11-05
 open_questions:
   - No cannabis weight was published, only a trafficable quantity, so no kilograms are recorded.
   - The alcohol amounts are excluded from cannabis figures because this is a mixed seizure whose combined total cannot be counted as cannabis.
@@ -43,9 +47,9 @@ open_questions:
 Far North police intercepted a carload of alcohol and cannabis allegedly
 destined for the Anangu Pitjantjatjara Yankunytjatjara (APY) Lands. [@2] Police
 attempted to pull over a Holden sedan on the Stuart Highway near Marla just
-before 6am on Thursday 5 November, but the vehicle failed to stop. [@1] Patrols
+before 6am on Thursday 5 November, but the vehicle failed to stop. [@1,3] Patrols
 spiked three of the car's four tyres about 30 kilometres north of Marla and
-apprehended the two occupants. [@1] A 21-year-old man and a 22-year-old man,
+apprehended the two occupants. [@1,3] A 21-year-old man and a 22-year-old man,
 both from Port Augusta, were arrested and charged with trafficking in a
 commercial quantity of a controlled drug and supplying liquor to a prescribed
 area. [@2] The younger man, who was the alleged driver, was also charged with
@@ -53,10 +57,9 @@ failing to stop for police, speeding and breaching the conditions of his
 learner's permit. [@2]
 
 Officers searching the vehicle allegedly found 33 four-litre casks, one litre of
-whisky and a trafficable quantity of cannabis. [@1] Police impounded the vehicle
+whisky and a trafficable quantity of cannabis. [@1,3] Police impounded the vehicle
 for 28 days. [@2]
 
 Far North police handled the interception on the Stuart Highway near Marla in
 South Australia. [@2] Police described the cannabis only as a trafficable
 quantity, giving no cannabis weight, alongside the stated alcohol seizure. [@1]
-
