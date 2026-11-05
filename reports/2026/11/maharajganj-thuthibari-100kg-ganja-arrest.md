@@ -50,6 +50,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'महराजगंज: ठूठीबारी पुलिस ने एक क्विंटल गांजा पकड़ा, महिला तस्कर गिरफ्तार'
+    url: https://www.amarujala.com/video/uttar-pradesh/maharajganj/video-thuthibari-police-seize-one-quintal-of-cannabis-woman-smuggler-arrested-2026-11-05
+    publisher: Amar Ujala
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -76,7 +81,7 @@ Indo-Nepal border, stopped a Scorpio near Lohrauli village and arrested a
 smuggler at the scene. [@1,2,4] Officers found about one quintal, or 100 kg, of
 ganja — cannabis in dried form — inside the vehicle during the search. [@1,2]
 
-One woman smuggler was reported arrested at the scene. [@2,5] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2,4] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2,4] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2,4]
+One woman smuggler was reported arrested at the scene. [@2,5,6] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2,4] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2,4] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2,4,6]
 
 Amar Ujala reported that a police team acting on a tip-off from an informer threw a cordon around the area near Lohrauli and stopped a suspicious Scorpio. [@3] The newspaper said the interception came during a campaign against drug trafficking along the India-Nepal border. [@3]
 
