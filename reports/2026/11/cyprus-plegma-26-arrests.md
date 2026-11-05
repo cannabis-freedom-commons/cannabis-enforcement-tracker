@@ -58,6 +58,10 @@ sources:
     publisher: Cyprus Inform
     date: 2026-11-05
     language: en
+  - title: 26 arrested in major Cyprus police operation targeting organised crime networks
+    url: https://cyprus-mail.com/2026/11/05/26-arrested-in-major-cyprus-police-operation-targeting-organised-crime-networks
+    publisher: Cyprus Mail
+    date: 2026-11-05
 open_questions:
   - The 171.5 kg total is the sum of 167 kg of cannabis and 4.5 kg of cannabis resin reported from the February phase of the same case; the small cannabis quantities seized on 5 November were not quantified and are not included.
   - The 62 kg of cocaine reported alongside the cannabis is mentioned only for context and is excluded from cannabis figures, as is any combined drug total.
@@ -72,16 +76,18 @@ open_questions:
   - The submitted short account says police seized more than 25,000 euros in cash and simply firearms, while the existing report records 25,025 euros with a pistol and a hunting rifle from the detailed account; the report keeps the detailed figures.
   - The submitted page describes the investigation as starting after measures that began in February without naming the 19 February vehicle stop, so the existing report's account of that stop remains based on the detailed coverage.
   - 'Left out, as its quotation was not found in Cyprus Inform: Working with Mokas, the anti-money-laundering unit, police obtained court orders freezing assets tied to the investigation.'
+  - The Cyprus Mail account does not clarify whether the five inmates it mentions were included among the 26 people arrested during Operation Plegma.
+  - Pilenews describes the second firearm as a shotgun, while KNEWS calls it a hunting rifle; the conflicting descriptions are unresolved.
 ---
 
 Police arrested 26 people on Thursday in the operation codenamed Plegma to crack
-down on organised crime. [@1,3,4,7,9] Officers carried out 27 court-authorised searches
+down on organised crime. [@1,3,4,7,9,10] Officers carried out 27 court-authorised searches
 across the Nicosia, Limassol, Larnaca and Famagusta districts and at the Central
 Prisons, covering homes, other premises, vehicles and prison cells. [@2,3,4,5,8,9] Police
 said the arrests were part of an investigation into suspected drug trafficking,
 participation in a criminal organisation, money laundering and illegal
 possession of explosives. [@2] Police said five defendants from the February
-case were already in custody. [@2,3,4,7,9]
+case were already in custody. [@2,3,4,5,7,9]
 
 The investigation began on 19 February when anti-narcotics officers stopped a
 vehicle in the Nicosia district and found 11,480 firecrackers along with
@@ -102,3 +108,5 @@ resources that allow trafficking networks to keep operating. [@2]
 One of the two people in the car stopped in Nicosia on 19 February was found carrying cannabis and cocaine. [@4] The searches linked to that stop also reportedly turned up firearms, explosive devices, cash and e-cigarettes that police said may contain drugs. [@4]
 
 Two cannabis grinders and two partially smoked cannabis cigarettes were among the items seized. [@6]
+
+Police sources said four of those arrested have been re-arrested and five others are inmates. [@10] Police executed court arrest warrants for all 26 people in the operation. [@5] Officers seized 13 cartridges of various calibres and 534 shotgun cartridges. [@5]
