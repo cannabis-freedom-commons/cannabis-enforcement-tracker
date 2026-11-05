@@ -33,6 +33,11 @@ media:
     media_url: https://media.says.com/2025/09/b402fb4c6ecaaad72e71e840a6b11de2-1024x768.jpg
     publisher: SAYS
     caption: 'Judiciary Police officers escort the arrested man through Macau airport. Photo: TDM News, via SAYS.'
+  - kind: photo
+    url: https://www.macaupostdaily.com/news/26132
+    media_url: https://macaupostdaily.com/attachment/images/2025/09/26/image_1758827891_Ieq0SJEQ.jpg
+    publisher: The Macau Post Daily
+    caption: 'Five Judiciary Police officers show journalists the cannabis buds seized from the suspect, with his suitcase, at a press briefing at Macau airport. Photo: TDM'
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c123e8b12db3abbfc12438c5c408b36c
@@ -53,15 +58,21 @@ sources:
     url: https://macaubusiness.com/man-caught-smuggling-8-9-kg-of-cannabis-into-macau/
     publisher: Macau Business
     date: 2025-09-26
+  - title: Malaysian busted at Macau airport smuggling cannabis buds worth 9 million patacas
+    url: https://www.macaupostdaily.com/news/26132
+    publisher: The Macau Post Daily
+    date: 2025-09-26
 open_questions:
   - The Judiciary Police's 8,986.5 g total includes packaging; no net cannabis weight was reported, while news accounts round the haul to 8.9 kg.
   - The sources do not say whether the 25 September courier was linked to the separate 28 September Macau airport case involving two Malaysian men and a Hong Kong man.
   - No later court appearance or outcome is reported after his transfer to the Public Prosecutions Office.
   - The suspect's full name was not published in these sources.
+  - The Macau Post Daily's press-briefing photo is credited to TDM and appears to be the same picture already listed in the report from other outlets.
+  - The article does not say when the airport briefing took place beyond calling it the previous night, and gives no further court step.
 ---
 
 A 19-year-old Malaysian man was arrested in Macau on Thursday, 25 September
-2025. [@1] During flight screening, Judiciary Police identified a suspicious
+2025. [@1,5] During flight screening, Judiciary Police identified a suspicious
 passenger travelling from Thailand to Macau via South Korea. [@2] Officers
 suspected a passenger on the South Korea-to-Macau flight after assessing
 intelligence and intercepted him as he collected his luggage after the flight
@@ -69,12 +80,12 @@ landed at 2 p.m. [@3] They found 16 foil-wrapped packages of cannabis in his
 suitcase at Macau International Airport. [@1] Forensic examination confirmed the
 packages contained cannabis flowers and weighed approximately 8,986.5 grams
 including packaging. [@2] Judiciary Police valued the seizure at around MOP 9
-million. [@2]
+million. [@2,5]
 
 Police said a Malaysian drug-trafficking syndicate recruited him and that he
-received the suitcase in Bangkok before flying via South Korea to Macau. [@2] He
+received the suitcase in Bangkok before flying via South Korea to Macau. [@2,5] He
 planned to carry the cannabis onward to Hong Kong and was promised RM5,000 if he
-succeeded. [@2] He told police he worked as a maintenance worker and admitted he
+succeeded. [@2,5] He told police he worked as a maintenance worker and admitted he
 had been hired to carry out the task. [@4]
 
 Police were investigating the cannabis's origin and trying to identify others
@@ -83,3 +94,4 @@ Office for illegal trafficking of narcotics and psychotropic substances. [@2]
 SAYS said he was handed to the Public Prosecutions Office for further
 questioning on a drug-trafficking charge. [@1]
 
+Judiciary Police spokesman Ho Wai Lok briefed reporters about the case at the airport the night before the story appeared. [@5]
