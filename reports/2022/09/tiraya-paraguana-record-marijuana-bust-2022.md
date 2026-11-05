@@ -23,6 +23,11 @@ media:
     media_url: https://www.specialforcesnews.com/wp-content/uploads/2022/09/Venezuela-Armed-forces-make-largest-pot-bust-in-a-decade.jpg
     publisher: "Special Forces News (photo: Associated Press)"
     caption: Armed forces guard seized marijuana bales and fuel barrels on the beach at Tiraya
+  - kind: photo
+    url: https://www.telemundo51.com/noticias/venezuela/incautan-venezuela-cargamento-marihuana-mas-grande-10-anos/2342904/
+    media_url: https://media.telemundo51.com/2022/09/tlmd-venezuela-drogas.jpg?quality=85&strip=all&resize=850%2C478
+    publisher: Telemundo 51
+    caption: 'Sacks of illegal drugs and plastic barrels of fuel seized by Venezuela''s armed forces on display at a beachside camp in the village of Tiraya on 5 September 2022. Photo: Getty Images'
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified
 tags: [paraguana, maritime, cartel-de-la-guajira]
@@ -35,10 +40,17 @@ sources:
     url: https://www.pakistanpoint.com/amp/en/story/1558374/record-28-tonnes-of-drugs-seized-on-paraguana-peninsul.html
     publisher: Pakistan Point (Sputnik)
     date: 2022-09-06
+  - title: Autoridades venezolanas incautan cargamento de marihuana más grande en 10 años
+    url: https://www.telemundo51.com/noticias/venezuela/incautan-venezuela-cargamento-marihuana-mas-grande-10-anos/2342904/
+    publisher: Telemundo 51
+    date: 2022-09-07
+    language: es
 open_questions:
   - The 8 kg of cocaine found on the same boat is a non-cannabis amount excluded from the cannabis figures.
   - The interception happened on 3 September and was announced on 5 September; 3 September is used as the incident date.
   - No names, charges or court outcome for the twelve arrested men were reported.
+  - The Telemundo report repeats the Associated Press account and General Hernández's figures and reports no charges, names or court outcome for the twelve arrested men.
+  - The photo published with the Telemundo article is credited to Getty Images rather than to a Venezuelan military handout, so it cannot be assumed to be an official photograph of the seized load.
 ---
 
 On 3 September 2022 Venezuela's armed forces intercepted an unmarked vessel off
@@ -48,9 +60,11 @@ outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The
 boat had sailed from Colombia and was bound for the island of Martinique.
 [@1]
 
-Twelve Venezuelans travelling on the boat were arrested. [@1,2] General
+Twelve Venezuelans travelling on the boat were arrested. [@1,2,3] General
 Domingo Hernández Lárez, head of the Operational Strategic Command of the
 armed forces, said they worked for the Colombia-based Cartel of the Guajira.
 [@1,2] The 2,857 kg of marijuana was displayed at a beachside camp in the
 village of Tiraya on the Paraguaná Peninsula, which the military called the
-most important marijuana stash found in the country since 2012. [@1,2]
+most important marijuana stash found in the country since 2012. [@1,2,3]
+
+The arrests and the seizure were part of special armed forces operations along Venezuela's border. [@3] Hernández said the military had disabled 305 aircraft since 2012, 27 of them in the current year. [@3] Hernández also said 40.2 tonnes of illegal drugs had been seized in Venezuela so far that year, 29.2% more than in the same period of the previous year. [@3]
