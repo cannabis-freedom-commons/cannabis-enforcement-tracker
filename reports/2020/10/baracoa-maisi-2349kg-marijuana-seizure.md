@@ -20,7 +20,12 @@ media:
     media_url: https://diariodecuba.com/sites/default/files/images/2020-11/marihuana%20cuba%2003112020.jpg
     publisher: DIARIO DE CUBA
     caption: 'The speedboat captured on 16 October and the seized marijuana packages. Photo: DTGF'
-status: verified
+  - kind: photo
+    url: http://www.cubadebate.cu/noticias/2020/11/03/incautan-mas-de-dos-toneladas-de-marihuana-durante-dos-operativos-en-el-oriente-de-cuba/
+    media_url: http://media.cubadebate.cu/wp-content/uploads/2020/11/marihuana-cuba-captura-580x272.jpg
+    publisher: Cubadebate
+    caption: 'The speedboat captured on 16 October with its three crew and the marijuana cargo. Photo: DTGF'
+status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe34dba03c779df573378b7a41431094
 tags: [guantanamo, baracoa, maritime-smuggling]
@@ -40,6 +45,16 @@ sources:
     publisher: CiberCuba
     date: 2020-11-03
     language: es
+  - title: Incautan más de dos toneladas de marihuana durante operativos en el oriente de Cuba
+    url: http://www.cubadebate.cu/noticias/2020/11/03/incautan-mas-de-dos-toneladas-de-marihuana-durante-dos-operativos-en-el-oriente-de-cuba/
+    publisher: Cubadebate
+    date: 2020-11-03
+    language: es
+  - title: Frustra Cuba operaciones de narcotráfico
+    url: https://www.granma.cu/cuba/2020-11-02/frustra-cuba-operaciones-de-narcotrafico-02-11-2020-23-11-19
+    publisher: Granma
+    date: 2020-11-02
+    language: es
 open_questions:
   - Only one accessible account of this event could be opened, a Diario de Cuba report relaying the state newspaper Granma; no second independent account was found.
   - The exact interception point of the 16 October boat was not given beyond Cuba's eastern coast.
@@ -51,10 +66,14 @@ open_questions:
   - The 14ymedio page carries an image captioned about official press coverage of the two operations and credited DTGF/Cubadebate, which does not establish that it shows this seizure, so no media entry is included.
   - 14ymedio says notifying the Miami and Bahamas coastguards facilitated the traffickers' detention, while the report records that the 9 October crew escaped; no arrests from that first operation are reported.
   - The photograph on the CiberCuba page appears to be the same Granma/DTGF handout already linked from DIARIO DE CUBA, so no second media entry was added.
+  - 'The published total of 2,349 kilograms is rounded: the two components, 1,618.75 and 730.41 kilograms, sum to 2,349.16 kilograms.'
+  - The Cubadebate, Granma and OnCuba accounts give the same official state account; no independent non-official account of the interceptions was found.
+  - Frustra Cuba operaciones de narcotráfico (Granma) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+  - 'Left out, as its quotation was not found in OnCuba News: Cuba''s Tropas Guardafronteras, the Border Guard Troops, seized more than two tonnes of marijuana in two October operations against international drug trafficking on the island''s eastern coast, as reported by the state newspaper Granma.'
 ---
 
 On the morning of 16 October 2020, Cuban border guards detained two Bahamians
-and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3] On the night
+and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3,4] On the night
 of 9 October 2020, guards detected a speedboat with two outboard motors carrying
 three or four people aboard off southeastern Cuba. [@1,2] The guards pursued that
 boat for an hour but could not catch those aboard. [@1] After the pursuit, the
@@ -66,9 +85,9 @@ tonnes of marijuana in two October operations against international drug
 trafficking on the island's eastern coast, as reported by the state newspaper
 Granma. [@1,2,3] In the days after the 9 October chase, authorities recovered 70
 containers and eight isolated packages containing 1,618.75 kilograms of
-marijuana near Baracoa and Maisí. [@1,2,3] In the 16 October interception, the
-guards seized 730.41 kilograms of Jamaican marijuana. [@1,2,3] Granma reported a
-total of 2,349 kilograms seized in the two operations. [@1,2] Granma said the
+marijuana near Baracoa and Maisí. [@1,2,3,4] In the 16 October interception, the
+guards seized 730.41 kilograms of Jamaican marijuana. [@1,2,3,5] Granma reported a
+total of 2,349 kilograms seized in the two operations. [@1,2,5] Granma said the
 entire volume would be incinerated. [@1,3]
 
 Interior Ministry sources described the first operation as one of the most
