@@ -20,6 +20,11 @@ media:
     media_url: https://mazowiecka.policja.gov.pl/dokumenty/zalaczniki/280/oryginal/280-264318.jpg
     publisher: KPP w Garwolinie
     caption: 'Police photo of the secured substances on a car seat. Photo: KPP w Garwolinie.'
+  - kind: photo
+    url: https://garwolin.podlasie24.pl/region/marihuana-i-amfetamina-ukryte-w-samochodzie-mefedron-w-domu-a-kierowca-po-alkoholu-i-bez-uprawnien-20261105064947
+    media_url: https://garwolin.podlasie24.pl/media/2026/11/05/01_b.jpg
+    publisher: Garwolin - Regionalny Portal Informacyjny - Podlasie24.pl
+    caption: Uncaptioned lead photo on the Podlasie24 Garwolin page about the Pilawa traffic stop, car and home drugs seizure; the page gives no photographer or agency credit for it.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ae72f3e57f33c17d5d11aae8bd3aa09e
@@ -40,6 +45,11 @@ sources:
     publisher: TuStolica.pl
     date: 2026-11-04
     language: pl
+  - title: Marihuana i amfetamina ukryte w samochodzie, mefedron w domu, a kierowca po alkoholu i bez uprawnień
+    url: https://garwolin.podlasie24.pl/region/marihuana-i-amfetamina-ukryte-w-samochodzie-mefedron-w-domu-a-kierowca-po-alkoholu-i-bez-uprawnien-20261105064947
+    publisher: Garwolin - Regionalny Portal Informacyjny - Podlasie24.pl
+    date: 2026-11-05
+    language: pl
 open_questions:
   - No separate cannabis-only weight or portion count was published; the nearly 100-portion total mixes marijuana, amphetamine and mephedrone, so no kilograms are recorded.
   - No separate cannabis-only valuation was published.
@@ -48,25 +58,27 @@ open_questions:
   - Amphetamine and mephedrone amounts are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
   - The submitted account gives 4 November 2026 as its publication date; the event date of Friday 30 October at around 17:00 is taken from the existing report and the police account it republishes.
   - The submitted page reuses a police-credited image already represented in the existing report's media, and its second image has no caption establishing this event, so no new media entry is added.
+  - The Podlasie24 and police accounts give only a combined nearly 100-portion total across marijuana, amphetamine and mephedrone, with no separate cannabis weight or portion count.
+  - The Podlasie24 Garwolin page credits commissioner Małgorzata Pychner of Garwolin district police as the press source but publishes no separate cannabis valuation.
 ---
 
 On Friday 30 October 2026 at around 17:00, officers from the Pilawa police post
 stopped an Opel in Pilawa municipality after seeing it travel after dark without
-its lights on. [@2,3] The driver was a 44-year-old resident of Garwolin county.
-[@1] A breath or other test showed he was in a state after alcohol use and
-checks showed he had no driving licence. [@1]
+its lights on. [@2,3,4] The driver was a 44-year-old resident of Garwolin county.
+[@1,4] A breath or other test showed he was in a state after alcohol use and
+checks showed he had no driving licence. [@1,4]
 
-During a personal check of the driver, officers found marijuana. [@1,3] A search
+During a personal check of the driver, officers found marijuana. [@1,3,4] A search
 of the car found drugs hidden in specially prepared concealment compartments,
 including further portions of marijuana and the psychotropic substance
-amphetamine. [@1] The 41-year-old passenger also had marijuana on him. [@1,3]
+amphetamine. [@1,4] The 41-year-old passenger also had marijuana on him. [@1,3,4]
 During a later search of the 44-year-old driver's residence, officers found
 further hidden narcotic drugs and psychotropic substances, including dozens of
-portions of mephedrone kept in the flat. [@1] In total police seized nearly 100
+portions of mephedrone kept in the flat. [@1,4] In total police seized nearly 100
 portions of various drugs, described as including marijuana, amphetamine and
-mephedrone, without giving a separate cannabis-only weight. [@1]
+mephedrone, without giving a separate cannabis-only weight. [@1,4]
 
-Both men were placed in a police cell. [@1,3] After evidence was gathered, both
+Both men were placed in a police cell. [@1,3,4] After evidence was gathered, both
 the driver and the passenger heard charges of drug possession, while the
 44-year-old will additionally answer for driving in a state after alcohol use
-and for driving without the required licence. [@1,3]
+and for driving without the required licence. [@1,3,4]
