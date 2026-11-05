@@ -35,16 +35,24 @@ sources:
     publisher: L-FRII
     date: 2020-12-25
     language: fr
+  - title: 'Togo : plus de 650 kg de cannabis saisis à bord d’un taxi ce jeudi 24 décembre'
+    url: https://tdn.tg/togo-plus-de-650-kg-de-cannabis-saisis-a-bord-dun-taxi-ce-jeudi-24-decembre/
+    publisher: Togo Daily News
+    date: 2020-12-24
+    language: fr
 open_questions:
   - The courier Edem’s full identity and whether he was later caught were not reported.
   - The intended recipient or recipients were not identified, and no charges or court outcome for the arrested driver were reported.
   - No valuation of the seized cannabis was published.
   - The exact stopping point beyond the Danyi-Elavagnon patrol area was not specified.
+  - The Togo Daily News account does not name the taxi driver, the courier or anyone arrested, and reports no charge or court outcome.
+  - The page gives no valuation for the more than 650 kg of cannabis.
+  - The page image carries no caption or credit identifying it as the seized load, so it is not listed as media for this event.
 ---
 
 A National Gendarmerie patrol from the Danyi-Elavagnon territorial brigade
 stopped a taxi carrying cannabis at about 2:30 a.m. on Thursday 24 December
-2020. [@1] Officers arrested the driver, identified as Y. Kokou. [@1] The
+2020. [@1,3] Officers arrested the driver, identified as Y. Kokou. [@1] The
 courier travelling with the load, identified only as Edem, fled when he saw the
 brigade officers. [@1]
 
@@ -56,5 +64,4 @@ brigade. [@2]
 
 The Gendarmerie said the driver admitted that he knowingly transported the load.
 [@1] Investigators were continuing work to find the escaped courier and the
-intended recipient or recipients of the cannabis. [@1]
-
+intended recipient or recipients of the cannabis. [@1,3]
