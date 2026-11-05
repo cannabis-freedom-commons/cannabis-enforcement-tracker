@@ -34,6 +34,11 @@ sources:
     publisher: TyC Sports
     date: 2026-08-11
     language: es
+  - title: Bus de Sao Paulo en Sudamericana fue detenido con 86 kilos de marihuana
+    url: https://www.elcomercio.com/deportes/bus-sao-paulo-incautado-marihuana-bolivia-sudamericana/
+    publisher: El Comercio
+    date: 2026-08-13
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -44,6 +49,9 @@ open_questions:
   - 'The report''s photograph is captioned only as the São Paulo vehicle stopped with marijuana and credited to X: GabrielSA; it shows officers and wrapped packages beside a bus marked Cosmos, but the caption does not state where it was taken.'
   - TyC Sports gives 86.5 kilograms while the existing report records about 86 kilos; this result uses the more precise new figure without treating it as a separate seizure.
   - TyC Sports says Buses Cosmos supplied another vehicle for the delegation but does not say what happened to the seized bus after the inspection.
+  - El Comercio, citing UOL, dates the interception of the coach to 9 August 2026, while the existing report's Mediotiempo source places the inspection on 11 August; the two accounts are not treated as separate events.
+  - The submitted article is a sports-page account that relies on UOL and names no Bolivian agency, prosecutor or court step in the case.
+  - The page's only photograph is a file photo of São Paulo and Bolívar players in an earlier match, not the seizure, so no photo of this event was added from it.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
@@ -64,4 +72,6 @@ lessen the effect of the altitude before facing Bolívar. [@1,2]
 Authorities were still investigating where the marijuana came from and who was
 responsible for transporting it, Mediotiempo reported. [@1]
 
-The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2] Officers found four bags containing the drug inside the vehicle. [@2] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2]
+The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3] Officers found four bags containing the drug inside the vehicle. [@2,3] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2]
+
+El Comercio, citing the Brazilian outlet Universo Online, reported that the coach was stopped near Cochabamba on 9 August 2026. [@3] The coach was still carrying the São Paulo team's insignia when officers stopped it. [@3] The stop came two days before the Copa Sudamericana match against Bolívar, which was scheduled for 11 August, and the delegation was not on the bus. [@3]
