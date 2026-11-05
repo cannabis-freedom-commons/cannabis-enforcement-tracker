@@ -35,17 +35,24 @@ sources:
     publisher: Blog do Jaime
     date: 2026-11-04
     language: pt
+  - title: 'Tráfico de drogas: jovem de 19 anos é preso com maconha no bairro Vila Nova'
+    url: https://ndmais.com.br/video/trafico-de-drogas-jovem-de-19-anos-e-preso-com-maconha-no-bairro-vila-nova/
+    publisher: ND Mais
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Only one source could be opened for this event, so no second account confirms the details.
   - The report does not name the street or the convenience store where the approach took place.
   - The 103-gram figure is given as approximate, so the stored weight of 0.103 kg is approximate.
   - The report does not say whether the mobile phone thrown behind the counter was seized as evidence.
   - No charge, custody decision or court outcome beyond the transfer to the police station was reported.
+  - The video page gives no cannabis amount, so the approximate 103-gram figure continues to rest on the earlier AJ Notícias and Blog do Jaime reports.
+  - The page names no police agency, street, store or custody outcome, and its main thumbnail is the TV programme video still, so no confirmed event photo or video is listed as media.
 ---
 
 Military Police arrested a 19-year-old man for drug trafficking on the afternoon
 of Tuesday 3 November 2026 in Vila Nova, a neighbourhood of Blumenau in the Vale
-do Itajaí. [@1,2] Officers were on routine patrol near a commercial establishment
+do Itajaí. [@1,2,3] Officers were on routine patrol near a commercial establishment
 when the incident was handled at about 4:42pm. [@1] The suspect ran into a
 convenience store when he noticed the approaching patrol car. [@1,2] He threw his
 mobile phone behind a counter in an apparent attempt to hide it. [@1,2]
