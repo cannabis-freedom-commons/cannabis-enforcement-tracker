@@ -39,6 +39,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-11-04
     language: ar
+  - title: الإعدام شنقًا لـ3 متهمين بتهمة الاتجار في الحشيش وحيازة مشرط بسوهاج
+    url: https://www.iqraa.news/194917/%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%B4%D9%86%D9%82%D9%8B%D8%A7-%D9%84%D9%803-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1/
+    publisher: إقرأ نيوز
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight, quantity or valuation of the hashish was published, so no cannabis weight is recorded.
   - The article gives no separate sentencing date beyond its 4 November 2026 publication timestamp, so that date is used as the incident date.
@@ -48,17 +53,18 @@ open_questions:
   - Only one accessible source for this ruling was found after searching in Arabic and English.
   - The page image is captioned only as the Sohag Criminal Court and repeats the headline, which does not establish that it shows this hearing, so no media entry is included.
   - The El Balad page image is labeled only as an archival image and no event photo establishing this hearing was recovered, so no media entry is included.
+  - The page image repeats the headline and is not established to show this hearing, so no media entry is included.
 ---
 
 Sohag Criminal Court sentenced three defendants to death by hanging for hashish
-trafficking in Maragha district. [@1,2,4] The court convicted them of possessing
+trafficking in Maragha district. [@1,2,4,5] The court convicted them of possessing
 hashish with intent to traffic and of holding a scalpel without lawful
-justification. [@1,2,4] It also ordered the three to pay the case expenses and
-confiscated the seized items. [@1,2,4]
+justification. [@1,2,4,5] It also ordered the three to pay the case expenses and
+confiscated the seized items. [@1,2,4,5]
 
 The defendants were identified only by their initials as M.A., 35, a holder of
 an industrial diploma, M.M., 25, also a holder of an industrial diploma, and
-A.A., 41, who is unemployed. [@1,2,4] Prosecutors said the case dated to November
+A.A., 41, who is unemployed. [@1,2,4,5] Prosecutors said the case dated to November
 2025, when the three were charged with possessing hashish for trafficking and
 holding the cutting tool. [@1,3,4] The case papers said they held the drugs to
 promote and trade them and kept a cutting implement without lawful excuse in
