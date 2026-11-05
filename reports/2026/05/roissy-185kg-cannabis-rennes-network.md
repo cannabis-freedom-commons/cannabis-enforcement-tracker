@@ -49,6 +49,11 @@ sources:
     publisher: France-Antilles Martinique
     date: 2026-06-08
     language: fr
+  - title: Cinq personnes arrêté dans le cadre de ce trafic croisé, depuis l'Hexagone vers la Martinique
+    url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/cinq-personnes-arrete-dans-le-cadre-de-ce-trafic-croise-depuis-lhexagone-vers-la-martinique-1081724.php
+    publisher: France-Antilles Guadeloupe
+    date: 2026-06-08
+    language: fr
 open_questions:
   - RCI describes the 185 kilograms as cannabis resin while actu Rennes describes pressed resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
   - The reports say the five men were placed in pretrial detention under a judicial investigation but do not state formal charge wording or any court outcome.
@@ -63,28 +68,31 @@ open_questions:
   - Neither new account gives formal charge wording, a cannabis valuation, any cocaine amount, or a later court step; Unidivers reported no hearing had been announced by early June 2026.
   - 'Left out, as its quotation was not found in Unidivers: The four men arrested at the airport were aged about 19 to 32.'
   - 'Left out, as its quotation was not found in Unidivers: A judicial investigation was opened to determine the scale, organization, possible relays and financial or logistical channels behind the transport.'
+  - The France-Antilles Guadeloupe page dates the customs discovery to 2 May but dates the arrests and transfer to Rennes to Tuesday 2 June, while the report dates the event to 2 May.
+  - The France-Antilles Guadeloupe page describes 185 kilos of cannabis resin while other accounts describe resin loaves plus herb sachets; the report records 185 kilograms as the total cannabis seizure.
+  - The France-Antilles Guadeloupe lead image is captioned as a Shutterstock illustration and is not shown to depict this seizure, so no media entry is included.
 ---
 
 Border police detained four men at Paris-Charles-de-Gaulle airport on 2 May 2026
 as they were about to board a flight to Fort-de-France in Martinique. [@1,6]
 Investigators then arrested a 29-year-old Guadeloupean man in Rennes on
-suspicion of heading the network. [@1,5,6] The five suspects were placed in pretrial
-detention. [@1,5,6] The Rennes prosecution service took over the case from Bobigny
+suspicion of heading the network. [@1,5,6,7] The five suspects were placed in pretrial
+detention. [@1,5,6,7] The Rennes prosecution service took over the case from Bobigny
 and assigned the investigation to OFAST, France's anti-drug office. [@3] The
 four airport suspects were brought back to Rennes and held in police custody
 there. [@3]
 
-A routine customs check of the couriers' suitcases uncovered the cannabis. [@1,4,6]
-Officers seized 185 kilograms of cannabis from those suitcases. [@2,4,5,6] The load
+A routine customs check of the couriers' suitcases uncovered the cannabis. [@1,4,6,7]
+Officers seized 185 kilograms of cannabis from those suitcases. [@2,4,5,6,7] The load
 included pressed resin loaves and bags of cannabis herb. [@3,4] The four are
 described as suspected drug transporters. [@2,5] Investigators say they moved
 cannabis between Brittany and Martinique, where cannabis resin sells for more.
 [@2]
 
 OFAST investigators are working to reconstruct how the network operated and to
-identify other possible accomplices. [@1,6] Investigators suspect a
+identify other possible accomplices. [@1,6,7] Investigators suspect a
 cross-trafficking scheme sending cannabis toward the islands and bringing
-cocaine back toward Europe. [@1,5,6] The suspected Rennes organizer allegedly ran an
+cocaine back toward Europe. [@1,5,6,7] The suspected Rennes organizer allegedly ran an
 import-export operation between mainland France and the overseas territories.
 [@3] Reports present the Antilles route as lucrative because cannabis resells
 there for three times the mainland price. [@3] The suspected method was to
