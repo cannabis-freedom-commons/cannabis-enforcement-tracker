@@ -30,6 +30,11 @@ media:
     media_url: https://cdn.anhor.uz/gallery/b18024ab-58b7-44a7-a6e2-3a840c6ebcc4/v0/lg.webp
     publisher: Anhor.uz
     caption: 'Confiscated drugs and items on the floor from the Tashkent hashish-sweets laboratory bust. Photo: MVD'
+  - kind: photo
+    url: https://www.uzdaily.uz/ru/v-tashkente-iziali-35-kg-gashishnogo-masla-iz-narkolaboratorii/
+    media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/5f/28/5f28c909-f554-47fe-be2f-d7cf9233e4b7/narkolabaratoria0411_20261104123925.webp__760x507_crop_subsampling-2.webp
+    publisher: UzDaily.uz
+    caption: 'Lead picture captioned as made from State Security Service video footage of the Tashkent laboratory case. Photo: Image made from State Security Service video.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64c2d440e764c8dc20efdd705f426a31
@@ -59,6 +64,11 @@ sources:
     url: https://www.uzdaily.uz/en/drug-lab-and-large-hash-oil-seizure-uncovered-in-tashkent/
     publisher: UzDaily.uz
     date: 2026-11-04
+  - title: В Ташкенте изъяли 3,5 кг гашишного масла из нарколаборатории
+    url: https://www.uzdaily.uz/ru/v-tashkente-iziali-35-kg-gashishnogo-masla-iz-narkolaboratorii/
+    publisher: UzDaily.uz
+    date: 2026-11-04
+    language: ru
 open_questions:
   - The article gives no separate raid date; 4 November 2026 is its publication date and is used as the incident date.
   - The 6 kg flat total is stated as approximate; detailed weights appear to be components of that total, with the 74 grams from Yashnabad counted additionally for 6.074 kg.
@@ -76,6 +86,10 @@ open_questions:
   - Adding the listed 3.5 kg, 600 g, 200 g, 350 g and 1.5 kg of cookies exceeds the stated 6 kg total, so how the total was calculated and whether edible weights are net cannabis remains unclear.
   - The Gazeta page image is credited to the State Security Service and captioned with the article title, but it cannot be established whether it is distinct from agency handouts already recorded, so no new media entry is added.
   - The UzDaily account attributes the case only to the Interior Ministry press service and does not mention a State Security Service role or the Safe and Healthy Country campaign reported in the Russian-language accounts.
+  - UzDaily gives no separate date for the laboratory raid; 4 November 2026 is its publication date and is used as the incident date.
+  - UzDaily names only Article 276-1 and does not repeat the Article 273 manufacture-and-sale qualification recorded from other accounts, so the full set of charges remains unclear.
+  - The eight drug-containing cookies are recorded as pieces only, without a net cannabis weight, so they are not added to the cannabis total.
+  - No court outcome was reported; investigative actions were continuing.
 ---
 
 Police in Tashkent shut down an underground laboratory that produced
@@ -92,7 +106,7 @@ in Chilanzar district. [@1,2,3,5]
 In the flat officers found and seized about 6 kilograms of hashish and its oils,
 described as more than 19,200 drug doses. [@1,3,4] The detailed inventory lists 3.5
 kg of hashish oil, 350 grams prepared for sale in 361 separate wraps, mixtures
-of hashish and hashish oil, and 600 grams of pure hashish. [@1,2,3,4,5] The laboratory
+of hashish and hashish oil, and 600 grams of pure hashish. [@1,2,3,4,5,6] The laboratory
 also held cookies baked using 1.5 kg of hashish oil and four packs of hashish
 marmalade. [@1,3,4,5] As physical evidence officers seized medical syringes,
 electronic scales, zip bags, tape and 500 empty vials used for dosing and
@@ -104,10 +118,12 @@ purpose of sale. [@1,3,5] Conviction under that provision carries up to 20 years
 imprisonment, and investigators continue work to identify other network members.
 [@1]
 
-The operation was reported as part of the third stage of the nationwide preventive measure called Safe and healthy country. [@2] The operation was conducted by officers of the Interior Ministry's Operative-Search Department, its territorial units and the State Security Service. [@2,3] The alleged zakladchik, a courier who places dead drops for an online drug store, is identified as born in 2002. [@2,3] The 74 grams found on the Yashnabad detainee were packed in 58 wraps intended for distribution. [@2,3,4] The agency valued the seized drugs at 19,250 dollars. [@2] Officers also seized gloves with the syringes, scales, zip bags, tape and 500 empty vials. [@2] The new account reports the criminal case under part 5 of Article 273 of the Criminal Code. [@2]
+The operation was reported as part of the third stage of the nationwide preventive measure called Safe and healthy country. [@2] The operation was conducted by officers of the Interior Ministry's Operative-Search Department, its territorial units and the State Security Service. [@2,3,6] The alleged zakladchik, a courier who places dead drops for an online drug store, is identified as born in 2002. [@2,3,6] The 74 grams found on the Yashnabad detainee were packed in 58 wraps intended for distribution. [@2,3,4] The agency valued the seized drugs at 19,250 dollars. [@2] Officers also seized gloves with the syringes, scales, zip bags, tape and 500 empty vials. [@2] The new account reports the criminal case under part 5 of Article 273 of the Criminal Code. [@2]
 
 Two suspects were detained in the operation. [@3,4,5] The criminal case under point (a) of part 6 of Article 273 was opened against two suspects. [@3]
 
-Officers also seized 200 g of marijuana in the flat. [@4] Officers found a mixer and a hair dryer in the flat. [@4] Officers found about 1,000 empty transparent packets and about 1,000 empty vials in the flat. [@4] The criminal case was also opened under Article 276-1 for organising an illegal drug laboratory. [@4]
+Officers also seized 200 g of marijuana in the flat. [@4] Officers found a mixer and a hair dryer in the flat. [@4] Officers found about 1,000 empty transparent packets and about 1,000 empty vials in the flat. [@4,6] The criminal case was also opened under Article 276-1 for organising an illegal drug laboratory. [@4]
 
 Investigators established that the Yashnabad courier had regularly received drugs from the other detainee, described as involved in wholesale supplies. [@5]
+
+В отношении задержанного возбуждено уголовное дело по статье 276¹ Уголовного кодекса. [@6]
