@@ -41,6 +41,11 @@ sources:
     publisher: Malaysia Tribune
     date: 2026-11-05
     language: ms
+  - title: Kastam patahkan cubaan seludup ketamin, bunga ganja bernilai RM2.24 juta
+    url: https://www.sinarharian.com.my/ampArticle/803328
+    publisher: Sinar Harian
+    date: 2026-11-05
+    language: ms
 open_questions:
   - The operation date is given only as 10 October 13 as “this year”; 2026 is inferred from the 4 November 2026 publication date.
   - No suspect was arrested or named; the rider escaped and remains unidentified.
@@ -54,6 +59,8 @@ open_questions:
   - The article is written in Malay although the page's language metadata says en-US; its publication date is 5 November 2026, while the Jeli operation date is given only as 13 October.
   - The article repeats that the rider escaped and no arrest or charge followed the Jeli seizure; it gives no information on the suspect's identity or on the investigation's outcome.
   - The page's only picture is a portrait of Selangor Customs director Noraidah Ishak, not a photo of the seizure, so no media entry is added.
+  - Operation Mekong Dragon VII, named in this account for the 13 August Sepang ketamine seizure, has not previously been reported as the operation name for that case.
+  - 'Left out, as its quotation was not found in Sinar Harian: Both cases were taken to the North Port customs office and investigated under Section 39B of the Dangerous Drugs Act 1952.'
 ---
 
 Selangor Customs enforcement officers spotted an unregistered motorcycle with a
@@ -64,15 +71,17 @@ through narrow roads. [@1,2] While fleeing, the rider threw a green plastic
 package onto the roadside. [@1,2]
 
 Officers recovered the package and found 286 grams of suspected cannabis flower
-inside. [@1,2] Customs estimated the 286 grams of suspected cannabis flower at
-RM22,880. [@1,2,3] Officers seized the exhibit and sent it to the North Port customs
+inside. [@1,2,4] Customs estimated the 286 grams of suspected cannabis flower at
+RM22,880. [@1,2,3,4] Officers seized the exhibit and sent it to the North Port customs
 office for investigation. [@1,2]
 
 Customs said the suspect appeared to have used the unregistered motorcycle
-deliberately to avoid detection and to make escape easier. [@1,3] The case is
+deliberately to avoid detection and to make escape easier. [@1,3,4] The case is
 being investigated under Section 39B of the Dangerous Drugs Act 1952, which
 allows death or life imprisonment on conviction and at least 12 strokes of the
 cane if death is not imposed. [@1,2] No arrest was reported at the scene and the
 investigation was still under way with no court outcome announced. [@1]
 
 Selangor Customs ran the Jeli motorcycle hunt under the operation name Shieldgate, separate from its courier-parcel operation in Sepang. [@3] Customs said the Jeli cannabis and the ketamine seized in the separate Sepang operation were taken together to the North Port customs office for further investigation under Section 39B of the Dangerous Drugs Act 1952. [@3]
+
+Selangor Customs announced the Jeli seizure on 13 October 2026 together with a separate 44.501 kg ketamine seizure worth some RM2.22 million at a courier company's mail centre near Sepang on 13 August, under Operation Mekong Dragon VII. [@4]
