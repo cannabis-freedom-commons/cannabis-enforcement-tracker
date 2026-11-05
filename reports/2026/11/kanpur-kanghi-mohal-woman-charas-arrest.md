@@ -71,6 +71,11 @@ sources:
     publisher: Royal Bulletin
     date: 2026-11-04
     language: hi
+  - title: प्रेमी जेल गया तो प्रेमिका बेचने लगी चरस, कानपुर में चाय की दुकान की आड़ में चला रही थी धंधा
+    url: https://www.jagran.com/uttar-pradesh/kanpur-city-kanpur-woman-takes-over-lovers-charas-trafficking-business-40428176.html
+    publisher: Dainik Jagran
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -106,10 +111,12 @@ Police Commissioner Raghuveer Lal said Shabnam's husband Raees Ahmed had died
 some time earlier. [@1,3,6] After his death, she lived with her partner Riyaz
 Khatola. [@1,3,6] Riyaz had earlier been sent to jail for allegedly selling charas
 while carrying an illegal pistol and had not been released. [@1,2,6] Police said
-Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6]
+Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6,7]
 Besides selling, she also smuggled charas, police said. [@1,6] Women police were
 questioning her to trace her associates. [@1,3,6]
 
 The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
 
 Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
+
+Dainik Jagran reported that the charas weighed 3.131 kg and was recovered in four black-polythene packets hidden behind an empty cylinder inside Shabnam's home. [@7]
