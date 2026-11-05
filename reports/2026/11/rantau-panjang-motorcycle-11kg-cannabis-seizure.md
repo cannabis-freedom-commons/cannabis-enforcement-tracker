@@ -46,6 +46,11 @@ sources:
     publisher: Kosmo!
     date: 2026-11-05
     language: ms
+  - title: Pecut lari elak polis, tinggalkan 11kg ganja dan motosikal dalam lumpur
+    url: https://newswav.com/article/pecut-lari-elak-polis-tinggalkan-11kg-ganja-dan-motosikal-dalam-lumpur-A2611_aLVywz
+    publisher: Newswav (Sinar Harian)
+    date: 2026-11-05
+    language: ms
 open_questions:
   - The article gives Wednesday evening at about 8.30pm but no calendar date; 4 November 2026 is inferred from its 5 November 2026 publication date.
   - The rider's identity is unknown and no arrest, charge or court outcome was reported; he remained at large after fleeing into bushes.
@@ -58,11 +63,12 @@ open_questions:
   - Utusan Malaysia's page photo is a PGA handout of the compressed blocks shown at a police location, not of the roadside where the motorcycle skidded.
   - Neither Utusan nor Kosmo! reports an arrest, charge or court outcome; the rider remained at large.
   - Motosikal terbabas dalam lumpur, pengedar dadah lari tinggalkan 11kg ganja (Kosmo!) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - Utusan Malaysia describes the abandoned motorcycle as a supersport model while the Sinar Harian account, and the text of this report, name it as a Honda Wave; the discrepancy is unresolved.
 ---
 
 The chase ended on Jalan Kasban in Jeram Perdah, Rantau Panjang, on a Wednesday
 evening after a motorcycle skidded on a muddy road and the rider fled into
-bushes. [@1] A man riding a Honda Wave motorcycle had acted suspiciously before
+bushes. [@1,4] A man riding a Honda Wave motorcycle had acted suspiciously before
 entering Lorong Sapi in the area. [@1] General Operations Force officers
 following him identified themselves as senior police officers and ordered him to
 stop for inspection. [@1] The rider instead sped off to escape before the
@@ -71,19 +77,21 @@ nearby bushes and could not be found despite officers searching the surrounding
 location. [@1]
 
 He left behind a motorcycle and two bags containing 100 compressed blocks of
-suspected cannabis weighing about 11 kilograms and valued at RM34,100. [@1,2] A
+suspected cannabis weighing about 11 kilograms and valued at RM34,100. [@1,2,4] A
 pink-and-grey backpack held 40 greenish compressed blocks of suspected cannabis
 weighing 4.4kg, while a green-and-white luggage bag held 60 blocks weighing
-6.6kg. [@1,2] Police put the drugs seized at an estimated 11kg worth RM34,100,
-besides a Honda Wave motorcycle worth RM1,000 and one vehicle key. [@1] Police
-put the overall seizure value at an estimated RM35,100. [@1]
+6.6kg. [@1,2,4] Police put the drugs seized at an estimated 11kg worth RM34,100,
+besides a Honda Wave motorcycle worth RM1,000 and one vehicle key. [@1,4] Police
+put the overall seizure value at an estimated RM35,100. [@1,4]
 
 The incident happened at about 8.30pm while a Strike Force team from Company A
 of Battalion 7 of the General Operations Force was conducting a motorcycle
-patrol. [@1] A check of the motorcycle's engine and chassis numbers found no
-record, so the vehicle is believed to have come from Thailand. [@1] The case is
-being investigated under Section 39B of the Dangerous Drugs Act 1952. [@1,2] The
+patrol. [@1,4] A check of the motorcycle's engine and chassis numbers found no
+record, so the vehicle is believed to have come from Thailand. [@1,4] The case is
+being investigated under Section 39B of the Dangerous Drugs Act 1952. [@1,2,4] The
 seizure was handed to the Pasir Mas District police narcotics investigation
-division for further action. [@1,2]
+division for further action. [@1,2,4]
 
 The rider was on an unregistered Honda Wave motorcycle believed to have been brought from Thailand. [@3] Kosmo! put the value of the 40 blocks at RM13,640 and the 60 blocks at RM20,460, which sum to the RM34,100 total. [@3]
+
+Utusan Malaysia describes the motorcycle he rode as a supersport model, not the Honda Wave named in the Sinar Harian account. [@2]
