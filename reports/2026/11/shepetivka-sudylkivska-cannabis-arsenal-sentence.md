@@ -66,6 +66,11 @@ sources:
     publisher: Сайт міста Шепетівка
     date: 2026-11-04
     language: uk
+  - title: 'Під час обшуку у наркоаграрія з Шепетівщини знайшли боєприпаси: який вирок'
+    url: https://www.xm-inside.com/news/%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-%D0%BE%D0%B1%D1%88%D1%83%D0%BA%D1%83-%D1%83-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D0%B0%D0%B3%D1%80%D0%B0%D1%80%D1%96%D1%8F-%D0%B7-%D1%88%D0%B5%D0%BF%D0%B5%D1%82%D1%96/
+    publisher: XМ-ІНСАЙД
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate sentencing date was published; 2 November 2026 is the court announcement and first detailed report date, with the submitted article following on 4 November 2026, so the earlier date is used as the incident date.
   - The cannabis weight was reported as more than 1.5 kg by one source and about 1.5 kg by the other, and is recorded as 1.5 kg.
@@ -77,21 +82,21 @@ open_questions:
 
 The Shepetivka city-district court sentenced a 44-year-old resident of the
 Sudylkivska community to six years in prison with confiscation of property for
-illegally making cannabis for sale and storing ammunition and explosives. [@1,3]
+illegally making cannabis for sale and storing ammunition and explosives. [@1,3,5]
 The court found him guilty of illegally making and storing narcotics for sale on
-a large scale and of unlawfully storing ammunition without a legal permit. [@1,3]
+a large scale and of unlawfully storing ammunition without a legal permit. [@1,3,5]
 During the hearing the man fully admitted his guilt and sincerely repented. [@2]
 The court left him in custody until the verdict takes legal effect. [@2] The
 decision can still be appealed on appeal. [@2]
 
 Operatives and investigators of the Shepetivka district police department
 exposed the man in July. [@1,3] According to law enforcement, he grew hemp in his
-own yard and fitted out a special room for it on the roof of the house. [@1,3]
-After drying the plants, he ground them and prepared the drug for sale. [@1,3]
+own yard and fitted out a special room for it on the roof of the house. [@1,3,5]
+After drying the plants, he ground them and prepared the drug for sale. [@1,3,5]
 During an authorised search, police seized more than 1.5 kg of cannabis along
-with packaging materials and a grinding device. [@1,3] Officers also found 316
+with packaging materials and a grinding device. [@1,3,5] Officers also found 316
 cartridges of various calibres, five hand grenades and more than 1.5 kg of
-explosive substance in the house. [@1,3] A second account says he bought hemp
+explosive substance in the house. [@1,3,5] A second account says he bought hemp
 seeds and made about 1.5 kg of cannabis that he kept at home for later sale.
 [@2]
 
