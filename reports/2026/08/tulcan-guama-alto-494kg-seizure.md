@@ -32,6 +32,11 @@ media:
     media_url: https://imagenes2.eltiempo.com/files/image_1200_535/uploads/2026/08/27/6a90bc296279c.png
     publisher: El Tiempo
     caption: 'Police photo published with the Tulcán seizure report, captioned as the marijuana seized by Ecuador''s National Police. Photo: x: @PoliciaEcuador'
+  - kind: photo
+    url: https://www.elcomercio.com/actualidad/seguridad/decomisan-400-kilos-marihuana-tulcan-captura-cinco-personas/
+    media_url: https://media.elcomercio.com/wp-content/uploads/2026/08/Diseno-sin-titulo-14-2-1024x683.jpg
+    publisher: El Comercio
+    caption: 'A pickup carrying the seized marijuana after the Tulcán operation. Photo: X/John Reimberg.'
 sources:
   - title: Policía incauta cerca de media tonelada de marihuana en operativo en Tulcán
     url: https://www.eluniverso.com/noticias/seguridad/policia-incauta-cerca-de-media-tonelada-de-marihuana-en-operativo-en-tulcan-nota/
@@ -55,6 +60,11 @@ sources:
     publisher: El Tiempo
     date: 2026-08-27
     language: es
+  - title: Decomisan 400 kilos de marihuana en Tulcán y captura a cinco personas
+    url: https://www.elcomercio.com/actualidad/seguridad/decomisan-400-kilos-marihuana-tulcan-captura-cinco-personas/
+    publisher: El Comercio
+    date: 2026-08-27
+    language: es
 open_questions:
   - El Universo placed the raid in Guamá Alto and weighed 494.416 g; Teleamazonas and Interior Ministry statements cited 400 kg for the same operation.
   - Fiscalía said the seizure was in La Ovejería during a chase after motorcycles failed to stop; news reports did not all name the same sector.
@@ -67,6 +77,6 @@ open_questions:
 
 National Police seized marijuana during operation Cero Impunidad in Tulcán, Carchi province, on 27 August 2026. [@1,2,4] El Universo said officers found 494.416 kg of cannabis in packages at Guamá Alto and arrested five people, also retaining a pickup, two motorcycles and five mobile phones. [@1]
 
-Teleamazonas reported 400 kilograms seized in Tulcán with the same five arrests and the same vehicles and phones taken as evidence. [@2,4] Interior Minister John Reimberg publicised the 400 kg figure and an estimate of 800,000 doses removed from the market. [@2,4]
+Teleamazonas reported 400 kilograms seized in Tulcán with the same five arrests and the same vehicles and phones taken as evidence. [@2,4,5] Interior Minister John Reimberg publicised the 400 kg figure and an estimate of 800,000 doses removed from the market. [@2,4]
 
 The Attorney General's Office said that in the early hours of 27 August police intercepted motorcycles and chased a pickup into rough ground at La Ovejería, recovering 262 rectangular packages and eight plastic bags totalling 494.416 kg of marijuana. [@3] Four adults were charged with large-scale trafficking and later received preventive detention; a teenager found on one motorcycle was placed in preventive internment in a separate hearing. [@3]
