@@ -28,6 +28,8 @@ open_questions:
   - No one was arrested; the people carrying the sacks dropped them and fled, and the reports give no description of them.
   - Online Khabar gives the weight with the black plastic wrapping included; the weight of the cannabis alone was not published.
   - Neither report says where the ganja was grown or who was to receive it in India.
+  - The English edition gives the place as "Jhanjhpatti" and "Nawarajpur Rural Municipality-5", while the Nepali coverage spells it Jhajpatti and Nawrajpur; they appear to be the same border locality in Siraha, but the romanisation differs.
+  - The English page carries the same photograph of the sacks as the Nepali original (Gaja-baramad-3.jpg), so it is the same picture rather than an additional one and is not listed again as new media.
 sources:
   - title: सिरहाको झाझपट्टीबाट १५२ किलो गाँजा बरामद
     url: https://www.onlinekhabar.com/2026/10/2046262/152-kg-of-marijuana-seized-from-jhajpatti-siraha
@@ -39,14 +41,18 @@ sources:
     publisher: Nepal Samaj
     date: 2026-10-29
     language: ne
+  - title: 152 kg of marijuana seized from Jhanjhpatti in Siraha
+    url: https://english.onlinekhabar.com/152-kg-of-marijuana-seized-from-jhanjhpatti-in-siraha.html
+    publisher: OnlineKhabar English News
+    date: 2026-10-29
 ---
 
 Armed Police Force officers from the Navrajpur border post and the force's No. 7 battalion
 headquarters in Siraha found nine sacks of ganja at Jhajpatti in Nawrajpur rural municipality-5, on
-the border with India, at about midnight on 29 October 2026. [@1,2] A seven-member motorcycle patrol
+the border with India, at about midnight on 29 October 2026. [@1,2,3] A seven-member motorcycle patrol
 led by an armed police sub-inspector saw people carrying the sacks on their heads towards India; the
-carriers dropped them and fled when they saw the patrol. [@1]
+carriers dropped them and fled when they saw the patrol. [@1,3]
 
 The cannabis was packed in black plastic inside the sacks and weighed 152 kg 160 g including the
-plastic, the force said. [@1] Superintendent Suman Jung Thapa said the seizure was being processed
-for handover to the relevant agency for legal action. [@1,2]
+plastic, the force said. [@1,3] Superintendent Suman Jung Thapa said the seizure was being processed
+for handover to the relevant agency for legal action. [@1,2,3]
