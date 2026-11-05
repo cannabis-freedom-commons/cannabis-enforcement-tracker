@@ -23,12 +23,17 @@ sources:
     url: https://www.breakingbelizenews.com/2026/11/05/ten-detained-after-guns-cocaine-and-cannabis-found-in-san-pedro-raid/
     publisher: Breaking Belize News
     date: 2026-11-05
+  - title: Police find 402 grams of suspected cannabis hidden under leaves in San Pedro
+    url: https://www.breakingbelizenews.com/2026/11/05/police-find-402-grams-of-suspected-cannabis-hidden-under-leaves-in-san-pedro/
+    publisher: Breaking Belize News
+    date: 2026-11-05
 open_questions:
   - Two bags of suspected cannabis found behind the shelf had no published weight, so only the weighed 332 grams plus 402 grams are recorded as 0.734 kg.
   - The 259 grams of suspected cocaine are excluded from cannabis figures as a non-cannabis substance.
   - No charges, custody ruling or court outcome were reported.
   - Only one accessible outlet account was found after searching, so no second source corroborates the raid.
   - The page image has no caption, credit or alt text confirming it shows this seizure, so no media entry is included.
+  - This page's image has no caption, credit or alt text confirming it shows the seizure, so no media entry is added.
 ---
 
 Police detained ten people after searching a two-storey blue wooden house in the
@@ -51,7 +56,8 @@ one loaded with five rounds and the other with four. [@1]
 
 Earlier that morning in a separate operation police searched an abandoned lot on
 Barracuda Street and found 402 grams of suspected cannabis under dry leaves
-beneath coconut trees. [@1] No one was in the area at the Barracuda Street lot
+beneath coconut trees. [@1,2] No one was in the area at the Barracuda Street lot
 and the cannabis was recorded as found property. [@1] Investigations continue.
 [@1]
 
+The Anti Narcotics Unit and the K9 Unit began the joint operation around 5:50am on 4 November, and an officer spotted the wrapped package around 7:23am. [@2]
