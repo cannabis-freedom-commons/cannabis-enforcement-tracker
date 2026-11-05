@@ -1,0 +1,82 @@
+---
+code: RYSS5N
+added_at: "2026-11-05T18:55:20.240195Z"
+date: 2026-11-05
+country: re
+place: Saint-Benoît, Réunion
+coordinates: [-21.0333, 55.7167]
+precision: locality
+type: raid
+also: [seizure, arrest]
+title: 193 cannabis plants found in Saint-Benoît search, man held
+summary: >-
+  Gendarmes searching a home in Saint-Benoît, Réunion, in an armed-violence inquiry found 193 cannabis plants spread over three fitted-out growing spaces, plus dried cannabis and ventilation equipment. The resident was placed in police custody on suspicion of drug offences.
+figures:
+  arrested: 1
+  plants_destroyed: 193
+media:
+  - kind: photo
+    url: https://freedom.fr/saint-benoit-193-pieds-de-cannabis-decouverts-lors-dune-perquisition/
+    media_url: https://freedom.fr/wp-content/uploads/2026/11/paste_b3f12b34-b35a-4c7f-969f-677d74c789f5.webp
+    publisher: Free Dom
+    caption: 'Gendarmes'' photograph of the presumptive cannabis plants seized in Saint-Benoît, laid out on a sheet with drying racks and equipment behind. Photo: Gendarmerie de La Réunion, via Free Dom'
+  - kind: photo
+    url: https://www.linfo.re/la-reunion/faits-divers/saint-benoit-193-pieds-de-cannabis-saisis-trois-espaces-de-culture-amenages-decouverts
+    media_url: https://www.linfo.re/public/images/2026/11/5/pieds-de-zamal-saisis-e218__198860_w-1200.webp
+    publisher: LINFO.re
+    caption: 'Photograph of cannabis plants seized in Saint-Benoît, captioned pieds de zamal saisis. Photo: Facebook Gendarmerie de La Réunion, via LINFO.re'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 013492c5e8973d449b761fce2960a24e
+tags: [saint-benoit, reunion, zamal, perquisition, indoor-grow]
+sources:
+  - title: 'Saint-Benoît : 193 pieds de cannabis découverts lors d’une perquisition'
+    url: https://freedom.fr/saint-benoit-193-pieds-de-cannabis-decouverts-lors-dune-perquisition/
+    publisher: Free Dom
+    date: 2026-11-05
+    language: fr
+  - title: 'Saint-Benoît : 193 pieds de cannabis et trois espaces de culture aménagés découverts'
+    url: https://www.linfo.re/la-reunion/faits-divers/saint-benoit-193-pieds-de-cannabis-saisis-trois-espaces-de-culture-amenages-decouverts
+    publisher: LINFO.re
+    date: 2026-11-05
+    language: fr
+open_questions:
+  - Neither outlet gives a weight for the dried cannabis, so no kilogram figure is recorded.
+  - Neither account gives a separate date for the search; both articles are dated 5 November 2026, which is used as the incident date.
+  - The person's name, age and sex were not published beyond the gendarmerie's French masculine "l'intéressé", and the location within Saint-Benoît was not given.
+  - No charge, prosecution or court outcome was reported; the account ends with the garde à vue.
+  - No street or wholesale value for the plants or dried cannabis was published.
+  - Both outlets rely on the Gendarmerie de La Réunion's Facebook post, which was not opened separately; LINFO.re quotes it directly.
+  - The direct addresses of the two photos were recovered from the outlets' image markup and metadata, not from a separately opened gendarmerie post.
+  - Photo attribution comes from the outlets' captions and credits and was not visually confirmed against the seized material.
+---
+
+Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,
+acting in an inquiry into violence with a weapon. [@1] The search uncovered an
+installation set up to produce narcotics. [@1] Officers found 193 cannabis
+plants spread over three spaces specially fitted out for growing them. [@1] The
+find also included dried cannabis and various pieces of equipment, notably
+ventilation equipment. [@1] The discovery gave a new dimension to the inquiry,
+which had initially been opened over the armed violence. [@1] After the search,
+the person concerned was placed in garde à vue, French police custody, on
+suspicion of several offences under the drug law. [@1] Réunion outlets call the
+plant zamal, the local term for cannabis. [@2]
+
+The gendarmerie said the man had been placed in custody for several suspected
+offences under the drug legislation. [@2] Beyond the three fitted-out growing
+spaces, officers found dried cannabis and growing and ventilation equipment.
+[@2]
+
+The gendarmerie recalled that growing cannabis is forbidden even at home and for
+personal use. [@2] For unlawful use it said a person can face up to one year in
+prison and a 3,750-euro fine. [@2] It said unlawful possession, offer or
+transfer carries up to ten years in prison and a 7.5-million-euro fine. [@2] The
+gendarmerie said growing cannabis is forbidden in France even when intended for
+personal consumption, and said sanctions depend on the offences retained. [@1]
+It said unlawful possession, offer or transfer of narcotics carries up to ten
+years in prison and a 7.5-million-euro fine. [@1]
+
+The operation is one of the gendarmerie's actions on Réunion against
+drug-related offences, and investigators are to establish where the production
+was destined. [@1]
+
