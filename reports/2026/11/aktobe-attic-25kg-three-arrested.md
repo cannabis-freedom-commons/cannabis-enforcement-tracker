@@ -20,6 +20,11 @@ media:
     media_url: https://cdn.nur.kz/images/720x405/46e16a02228c1de3637e5f65fefee339.webp?version=1
     publisher: NUR.KZ
     caption: 'Detention still from the Aktobe regional police video showing the operation. Photo: Police Department of the Aktobe Region via NUR.KZ'
+  - kind: photo
+    url: https://centralasia.media/art:45322/
+    media_url: https://cdn-1.aki.kg/cdn-st-0/qiG/6/K/3091aed6de1e09f7d59f5cf05ab3bd7a.jpg
+    publisher: CentralAsia.media
+    caption: 'Generic illustration photo of a Kazakh police officer''s uniform, with a POLISIA badge, the interior ministry emblem and a body camera; it does not show the Aktobe search or the seized barrels. Photo: CentralAsia.media'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d74db6eae54b00aae6532f1aef478e2c
@@ -50,6 +55,11 @@ sources:
     publisher: Караван
     date: 2026-11-04
     language: ru
+  - title: В Актобе задержали трех подозреваемых и изъяли более 25 кг марихуаны
+    url: https://centralasia.media/art:45322/
+    publisher: CentralAsia.media
+    date: 2026-11-04
+    language: ru
 open_questions:
   - The article gives no separate date for the search and detentions; 4 November 2026 is the publication date and is used as the incident date.
   - The names and ages of the three detained men were not published.
@@ -61,25 +71,31 @@ open_questions:
   - The Astana Today image reuses the NUR.KZ police image already recorded for the report, so no new media entry is added.
   - The Kazlenta page shows a photo credited to polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
   - The Caravan page displays a photo credited to Polisia.kz that appears to republish the police handout already recorded for this event, so no new media entry is added.
+  - CentralAsia.media gives no separate date for the search and detentions; 4 November 2026 is its publication date, matching the police statement published the same afternoon.
+  - CentralAsia.media does not name the “Қарасора-2026” campaign itself; that detail rests on Polisia.kz and the ministry statement.
+  - The CentralAsia.media header photo shows only a police uniform with a POLISIA badge and body camera, so it is an illustration rather than a photo of this search.
+  - No charges, custody decision or court outcome have been reported; the pre-trial investigation was still under way.
 ---
 
 Police in Aktobe detained three city residents suspected of illegal trafficking
-of narcotic drugs. [@1,2,4] Officers said operational-search measures had disrupted
+of narcotic drugs. [@1,2,4,6] Officers said operational-search measures had disrupted
 the activity of people suspected of illegal circulation of narcotic drugs. [@1]
 Police said that, according to preliminary information, all three men were under
-the influence of drugs when they were detained. [@1,4,5]
+the influence of drugs when they were detained. [@1,4,5,6]
 
 During a search of a house property in Aktobe with the use of a service dog,
 officers found two barrels holding 50 and 25 litres in the attic containing
-plant material. [@1,3,4,5] Officers seized the two barrels and their contents from the
+plant material. [@1,3,4,5,6] Officers seized the two barrels and their contents from the
 attic. [@1] A forensic examination concluded that the seized plant material was
-marijuana. [@1,3,4,5] Police reported that the total weight of the marijuana was more
-than 25 kilograms. [@1,2,4,5] At the home of another detained man, police found and
+marijuana. [@1,3,4,5,6] Police reported that the total weight of the marijuana was more
+than 25 kilograms. [@1,2,4,5,6] At the home of another detained man, police found and
 seized a packet of suspected narcotic material and devices for using prohibited
-substances. [@1,3,4,5]
+substances. [@1,3,4,5,6]
 
-A pre-trial investigation is under way into the case. [@1,3,4,5] Investigators are
+A pre-trial investigation is under way into the case. [@1,3,4,5,6] Investigators are
 establishing all the circumstances of what happened and the possible channels
-for the drugs’ arrival and distribution. [@1,4,5]
+for the drugs’ arrival and distribution. [@1,4,5,6]
 
 Police said the operation was carried out during the “Қарасора-2026” preventive operation. [@3,4]
+
+The ministry statement said police had suppressed the activity of people suspected of illegal circulation of narcotic drugs, as Polisia.kz reported the same day. [@3] The Aktobe regional police video supplied by the ministry was posted on 4 November 2026 under a reporter's byline, while the CentralAsia.media version carries an Interior Ministry attribution and no named author. [@6]
