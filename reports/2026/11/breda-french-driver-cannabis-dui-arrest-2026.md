@@ -38,6 +38,15 @@ sources:
     publisher: PZC
     date: 2026-11-04
     language: nl
+  - title: Franse bestuurder (29) aangehouden in Breda met vervalst kentekenbewijs en onder invloed
+    url: https://www.gelderlander.nl/brabant/franse-bestuurder-29-aangehouden-in-breda-met-vervalst-kentekenbewijs-en-onder-invloed~a21fcee2/
+    publisher: De Gelderlander
+    date: 2026-11-04
+    language: nl
+  - title: Franse bestuurder (29) aangehouden in Breda met vervalst kentekenbewijs en onder invloed
+    url: https://www.nieuwskoerier.nl/artikel/4dd4ce744648-franse-bestuurder-29-aangehouden-in-breda-met-vervalst-kentekenbewijs-/
+    publisher: Nieuwskoerier.nl
+    language: nl
 open_questions:
   - No cannabis was seized and no cannabis weight was reported; the cannabis finding rests only on a saliva test.
   - The driver was identified only as a 29-year-old man from France; no name was published.
@@ -48,17 +57,17 @@ open_questions:
 
 Police in Breda arrested a 29-year-old man from France on Wednesday afternoon
 after stopping a car whose number plate turned out not to belong to that
-vehicle. [@1,2] Officers checked the vehicle at about 15:30 because they had
-noticed the deviating number plate. [@1,2] A saliva test taken during the check
-showed that the driver was driving under the influence of cannabis. [@1,2] The
+vehicle. [@1,2,3,4] Officers checked the vehicle at about 15:30 because they had
+noticed the deviating number plate. [@1,2,3] A saliva test taken during the check
+showed that the driver was driving under the influence of cannabis. [@1,2,3] The
 driver was arrested on suspicion of several criminal offences and will have to
-account for them before a court at a later date. [@1,2]
+account for them before a court at a later date. [@1,2,3]
 
 During the check, officers discovered that the registration certificate
-presented for the car had been forged. [@1,2] The driver had the forged
+presented for the car had been forged. [@1,2,3] The driver had the forged
 registration certificate with him at the time of the check. [@1] He could not
 demonstrate that the car he was driving was his. [@1,2] Police seized the car
-together with its number plates and the forged registration certificate. [@1,2]
+together with its number plates and the forged registration certificate. [@1,2,3]
 
 Police noted that the car came from Switzerland. [@1] Police are therefore
 investigating whether the vehicle was stolen. [@1,2]
