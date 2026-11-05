@@ -35,6 +35,11 @@ sources:
     publisher: Dynamite News Hindi
     date: 2026-11-05
     language: hi
+  - title: 'महराजगंज: स्कॉर्पियो से एक क्विंटल गांजा बरामद, महिला तस्कर गिरफ्तार; दो अन्य की तालाश में जुटी पुलिस'
+    url: https://www.amarujala.com/gorakhpur/one-quintal-of-cannabis-seized-from-scorpio-woman-smuggler-arrested-2026-11-05
+    publisher: Amar Ujala
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -48,6 +53,10 @@ open_questions:
   - No name, age, home area, charge, estimated value or court outcome for the arrested person was published in the opened text.
   - The page carries one image captioned only as Thoothibari police success with no caption or credit establishing that it shows this seizure, so no media entry is included.
   - No police or agency statement for this interception could be opened; a search for a further report of the same event found no additional accessible source.
+  - Amar Ujala reports only that the stop came on a Thursday morning, without a calendar date; 5 November 2026 remains the article publication date used as the incident date, and a second, later Amar Ujala item on the same seizure carries only the same publication date.
+  - Amar Ujala says only one of the three people in the Scorpio was arrested and that the search for the other two was under way, so the number and identity of those arrested remain unresolved.
+  - Amar Ujala attributes the case to Maharajganj Superintendent of Police Shakti Mohan Awasthi, but its report of his statement breaks off after the opening words, so no findings from him can be recorded.
+  - Amar Ujala's photograph is captioned only as the arrested woman smuggler and credited to Samvad News Agency, and nothing establishes that it shows this seizure, so no media entry is added besides the existing gallery link.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
@@ -56,3 +65,5 @@ smuggler at the scene. [@1,2] Officers found about one quintal, or 100 kg, of
 ganja — cannabis in dried form — inside the vehicle during the search. [@1,2]
 
 One woman smuggler was reported arrested at the scene. [@2] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2]
+
+Amar Ujala reported that a police team acting on a tip-off from an informer threw a cordon around the area near Lohrauli and stopped a suspicious Scorpio. [@3] The newspaper said the interception came during a campaign against drug trafficking along the India-Nepal border. [@3]
