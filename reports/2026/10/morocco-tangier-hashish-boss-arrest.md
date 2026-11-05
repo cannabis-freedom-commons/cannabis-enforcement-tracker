@@ -96,6 +96,10 @@ sources:
     date: '2026-10-07'
     language: es
     locator: Second-wave arrests and network structure; total given as 10,881 kilos
+  - title: Malaga spy-phone supplier and lorry driver arrested as police dismantle 'Eye of Sauron' hashish network
+    url: https://www.surinenglish.com/malaga/mobile-phone-provider-20261028000500-nt.html
+    publisher: Sur in English
+    date: 2026-10-29
 open_questions:
   - >-
     Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost
@@ -149,6 +153,10 @@ open_questions:
   - >-
     Accounts give 86 or 87 arrests, with one describing 86 arrests in Spain plus the leader in Morocco; the
     totals may differ in whether the leader is included.
+  - Whether the Malaga business owner, lorry driver and the driver's son reported here are among the 86 arrests already recorded, or are additional detentions, is not stated.
+  - Sur in English calls the company that paid the leader a salary a printing company, while the report describes a graphics company; the report keeps its own wording.
+  - The article's 'more than ten tonnes a month' is a stated trafficking capacity, not a seizure tally, so it is left out of the report's figures.
+  - 'No media entry is added: the page''s only image carries just the credit ''(Policía Nacional)'' and no caption saying what it shows.'
 ---
 
 Authorities arrested an alleged Spanish hashish-network leader known as Moreno in Tangier. [@1,2,3,4,5,6,7,8,9,10,11]
@@ -156,9 +164,9 @@ Authorities arrested an alleged Spanish hashish-network leader known as Moreno i
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 'Moreno', one of Spain's main cannabis resin traffickers, had been arrested in
 Tangier. [@1] He had left his luxury residence in Madrid in March to avoid
-justice and was out of sight for more than six months. [@1,8] Moroccan authorities
+justice and was out of sight for more than six months. [@1,8,12] Moroccan authorities
 detained him in Tangier on 8 October through international police cooperation.
-[@3,8] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7,8] Rabat has
+[@3,8] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7,8,12] Rabat has
 accepted the extradition request. [@3]
 
 The police operation concluded with 86 arrests. [@2,4,5,7,8] Eighteen of them were
@@ -173,14 +181,14 @@ each in Burgos, Almería and Girona. [@1]
 The resin came from Morocco through Spanish coastal routes to Madrid, the
 network's hub for storage and redistribution in Spain and Europe, police said.
 [@1] The leader had been on a graphics company's payroll at more than €5,000 net
-a month without doing any real work. [@1,4] The network put its profits back into
+a month without doing any real work. [@1,4,12] The network put its profits back into
 the legal economy through fraudulent loans, fake payslips and invoices from
 shell companies. [@1] Half of those arrested were Spanish and the rest Moroccan.
 [@3] The case is before the Audiencia Nacional, the Madrid court competent for
 major crime. [@1] Investigating judge Francisco de Jorge has led the case with
 the Special Anti-Drug Prosecutor's Office. [@3]
 
-Javier Ramos, head of the National Police's central drugs and organised crime brigade (UDYCO), said El Moreno had survived a kidnapping attempt and an attempt on his life. [@5] In Madrid, the network hid hashish in houses on residential estates and brought the drugs in through their garages. [@5] He already had a drug-trafficking record and was arrested over similar offences in 2009. [@6]
+Javier Ramos, head of the National Police's central drugs and organised crime brigade (UDYCO), said El Moreno had survived a kidnapping attempt and an attempt on his life. [@5] In Madrid, the network hid hashish in houses on residential estates and brought the drugs in through their garages. [@5] He already had a drug-trafficking record and was arrested over similar offences in 2009. [@6,12]
 
 The network stored hashish in private homes on residential estates in Sanchinarro, Las Tablas and El Cañaveral. [@8] Officers found nearly two tonnes of drugs in one of the houses in Las Tablas. [@8]
 
@@ -193,3 +201,5 @@ El Español [@11] put the total haul at 10,881 kilos of hashish plus 12.30 kilos
 The final phase of the operation involved 33 searches across several Spanish regions. [@4]
 
 Police also seized about €466,000 in cash. [@4]
+
+In Malaga province, a business owner who ran several spy equipment shops supplied the network's leaders with smartphones carrying specialist encryption software. [@12] The encrypted devices let the leaders coordinate individual drug shipments while trying to stay beyond investigators' reach. [@12] Officers also searched an industrial warehouse owned by the businessman in Malaga and found no illegal substances there, the police commander said. [@12] Another suspect arrested in Malaga province was a lorry driver who received hashish shipments when they came ashore along the Andalusian coast. [@12] He moved the drugs to the network's central stash houses in Madrid in articulated lorries and large vans fitted with concealed compartments. [@12] Police also arrested the driver's son after finding drugs during a search of their home. [@12] Fishing boats working from ports such as Garrucha in Almeria collected hashish bales from high-speed smuggling boats and brought them discreetly into port. [@12] Police described a network capable of moving more than ten tonnes of hashish a month while staying under their radar. [@12] The ringleader was a veteran Madrid drug trafficker born in Alcobendas in 1961 and already known to police. [@12] He kept direct lines to suppliers in Morocco, financed sea transport and rented stash houses in other people's names, and paid lawyers' fees when members of the organisation were arrested. [@12] Inspectors said he spent as much as 8,000 euros on suits, ate in luxury restaurants three times a day and employed personal trainers. [@12] To bring home the profits from drug sales in Germany, he allegedly used the hawala informal money-transfer system through a Syrian intermediary in Madrid. [@12] He owned luxury villas in La Moraleja, near Madrid, and in Ibiza through companies registered in his name. [@12] The National Police expect to make further arrests. [@12]
