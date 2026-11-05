@@ -45,21 +45,28 @@ sources:
     publisher: Nessma
     date: 2026-11-05
     language: ar
+  - title: 捣毁两个跨国犯罪网络，缴获超过100万粒精神类药物
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mw3dwx1y-%E6%8D%A3%E6%AF%81%E4%B8%A4%E4%B8%AA%E8%B7%A8%E5%9B%BD%E7%8A%AF%E7%BD%AA%E7%BD%91%E7%BB%9C-%E7%BC%B4%E8%8E%B7%E8%B6%85%E8%BF%87100%E4%B8%87%E7%B2%92%E7%B2%BE%E7%A5%9E%E7%B1%BB%E8%8D%AF%E7%89%A9
+    publisher: 阿尔及利亚新闻社 (Algérie Presse Service)
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
   - The Arabic page contains additional uncaptioned images that cannot be confirmed as pictures of this operation, so none is listed from that page.
   - The Arabic page states that 200 million centimes, about 14,700 dollars, was seized, but does not say what the money was, so no value is recorded in the existing report.
+  - The ministry's statement values the seized cash at 200 million centimes (2 million dinars), but does not say where the money came from or whether it is linked to the networks.
+  - The Chinese page names Algiers as the unit's base and gives no more precise site for the operation.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
-November 2026, Algeria's defence ministry said. [@1,4] The ministry reported that
+November 2026, Algeria's defence ministry said. [@1,4,5] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
-[@1,4]
+[@1,4,5]
 
 The operation seized 176 kilograms of kif traité, a processed cannabis product.
-[@3,4] The cannabis formed one component of a wider haul that also included
+[@3,4,5] The cannabis formed one component of a wider haul that also included
 cocaine and psychotropic tablets. [@1] The operation also included seizure of 21
 utility vehicles. [@2]
 
@@ -71,3 +78,5 @@ with firmness and perseverance. [@1] It said authorities would intensify their
 work to dismantle and thwart criminal networks. [@1] The ministry said those
 efforts would help reinforce citizens' security and the country's stability.
 [@1]
+
+The ministry said the seizures also included 21 utility vehicles and cash estimated at 200 million centimes. [@5]
