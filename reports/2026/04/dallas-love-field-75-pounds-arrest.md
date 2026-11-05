@@ -22,6 +22,11 @@ media:
     media_url: https://media.nbcdfw.com/2026/05/pot-found-dal.jpg?quality=85&strip=all&resize=850%2C478
     publisher: NBC 5 Dallas-Fort Worth
     caption: 'Three suitcases of seized marijuana at Love Field Airport. Photo: Dallas Police via NBC 5 Dallas-Fort Worth'
+  - kind: photo
+    url: https://www.ctvnews.ca/world/article/suitcase-stuffed-with-marijuana-bursts-open-on-flight-leading-to-arrest-at-dallas-love-field-police-say/
+    media_url: https://www.ctvnews.ca/resizer/v2/CH4S4KCAZVDI7KXXAC32HDO2PA.JPG?smart=true&auth=4b72ef9b0938c9361576100fc717ce4679b6bb612e308d42798f25dbdc42c239&width=1600&height=899
+    publisher: CTV News
+    caption: 'A suitcase that broke open on the Las Vegas-to-Dallas flight, with marijuana visible inside. Photo: Dallas Police Department/KTVT via CNN Newsource'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9a62e656887d1cd40fa08347ce2e1c2
@@ -35,10 +40,19 @@ sources:
     url: https://www.fox4news.com/news/woman-arrested-dallas-love-field-after-75-pounds-marijuana-spills-from-broken-suitcase
     publisher: FOX 4 Dallas-Fort Worth
     date: 2026-05-03
+  - title: Suitcase stuffed with marijuana bursts open on flight, leading to arrest at Dallas Love Field, police say
+    url: https://www.ctvnews.ca/world/article/suitcase-stuffed-with-marijuana-bursts-open-on-flight-leading-to-arrest-at-dallas-love-field-police-say/
+    publisher: CTV News
+    date: 2026-05-02
 open_questions:
   - Both sources say the arrest happened on a Thursday; 30 April 2026 is used as the incident date from the 2 May and 3 May publication dates, with no separate incident date stated.
   - Whether counsel had been obtained and any court outcome after the felony possession charge was reported are not given.
   - No independent weighing is reported; the 75-pound figure is the police count.
+  - CTV News carries the CNN/KTVT wire report, so it repeats the Dallas police account rather than adding an independent one.
+  - The report says the arrest happened on a Thursday; this account also says only Thursday, and gives no separate incident date.
+  - The Narcotics Unit statement describes the airport unit's routine role and names no additional units, arrests or prior cases.
+  - The page text gives 2 May 2026 as its publication date and 3 May 2026 as its last update; the earlier date is used here.
+  - 'Left out, as its quotation was not found in CTV News: Police said the department''s Narcotics Unit maintains a presence at Love Field to prevent drug trafficking through the airport.'
 ---
 
 Dallas police arrested 25-year-old Jennifer Manzanares-Herrera at Dallas Love
@@ -48,12 +62,11 @@ her into custody before she left the airport. [@2] Manzanares-Herrera was
 traveling from Las Vegas back to North Texas when she was detained. [@1]
 
 Police were alerted by an airline after a bag broke open and a large amount of
-marijuana was visible inside. [@1] Narcotics detectives then found two
-additional suitcases with the drug packed inside in vacuum-sealed pouches. [@1]
+marijuana was visible inside. [@1,3] Narcotics detectives then found two
+additional suitcases with the drug packed inside in vacuum-sealed pouches. [@1,3]
 In total, police say investigators recovered about 75 pounds of marijuana from
-the three suitcases. [@2]
+the three suitcases. [@2,3]
 
 Manzanares-Herrera is being held in the Dallas County Jail on a $25,000 bond.
 [@1] She faces a charge of possession of marijuana between 50 and 2,000 pounds,
-which is a second-degree felony. [@2]
-
+which is a second-degree felony. [@2,3]
