@@ -23,6 +23,11 @@ media:
     media_url: https://static.actu.fr/uploads/2025/12/cannabis-drogue-luxembourg-2-960x640.jpg
     publisher: actu.fr
     caption: 'Cannabis seized by Luxembourg customs in November 2025. Photo: Administration des douanes et accises'
+  - kind: photo
+    url: https://paperjam.lu/article/findel-800-kg-de-cannabis-caches-dans-du-mobilier
+    media_url: https://assets.paperjam.lu/images/articles/findel-800-kg-de-cannabis-caches-dans-du-mobilier/0.5/0.5/640/426/762588.jpg
+    publisher: Paperjam
+    caption: 'Packets of cannabis in cardboard boxes at the Findel cargo centre after the seizure. Photo: Parquet du Luxembourg'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9a0289f1d995806b0312e50f2f54cfe9
@@ -46,6 +51,11 @@ sources:
     url: https://today.rtl.lu/news/luxembourg/nearly-800kg-of-cannabis-found-hidden-in-furniture-shipment-1952063949
     publisher: RTL Today
     date: 2025-12-10
+  - title: 'Findel: près de 800kg de cannabis cachés dans du mobilier'
+    url: https://paperjam.lu/article/findel-800-kg-de-cannabis-caches-dans-du-mobilier
+    publisher: Paperjam
+    date: 2025-12-10
+    language: fr
 open_questions:
   - No arrests, suspects, charges or court outcomes were reported; Luxembourg asked foreign authorities to take over prosecution.
   - The other European country to which the delivery was redirected was not named, to avoid compromising investigations.
@@ -57,20 +67,22 @@ open_questions:
   - No media entry is added because the two Administration des douanes et accises handout photos on the page appear to republish the same customs handout already recorded from actu.fr.
   - The RTL account describes the load as 12 cardboard boxes stacked on pallets, while the existing report describes twelve pallets each holding about twelve boxes from the earlier accounts; the existing wording is retained.
   - No media entry is added because the two customs handout photos on the RTL page appear to republish the same Administration des douanes et accises handout already recorded from actu.fr.
+  - Paperjam names the freight site the Cargolux cargo centre, while the prosecutor's communiqué calls it the CARGO centre of Luxembourg-Findel Airport; this report treats them as the same facility.
+  - Paperjam gives no separate figure for the value of the 798.84 kg, no arrest, and no court outcome; it repeats the prosecutor's statement that no further details would be released to protect the investigations.
 ---
 
 On 13 November 2025 customs officers at Luxembourg-Findel Airport's cargo centre
 checked an air-freight shipment from the United States that had been flagged as
-suspicious. [@1,3,4] Shipping documents declared it as 3,063 kg of “Furniture, Deck
+suspicious. [@1,3,4,5] Shipping documents declared it as 3,063 kg of “Furniture, Deck
 chair, Sofa Stool” for a Belgian company, made up of twelve pallets each holding
 about twelve cardboard boxes wrapped in black plastic film. [@1,3,4] A scan showed
 the insides of the benches were filled with packets, and officers opening the
-crates found 170 vacuum-sealed packs. [@1,3,4]
+crates found 170 vacuum-sealed packs. [@1,3,4,5]
 
 A rapid test identified the contents as cannabis, with the 170 packs holding
-798.84 kg described as good quality, and the goods were seized. [@1,4] The
+798.84 kg described as good quality, and the goods were seized. [@1,4,5] The
 operation was run by the customs administration with the judicial police
-narcotics section and the Luxembourg prosecutor, which ordered the seizure. [@2]
+narcotics section and the Luxembourg prosecutor, which ordered the seizure. [@2,5]
 
 As the shipment was not for the domestic market, the authorities organised a
 joint operation with Belgium and delivered the pallets under surveillance to the
