@@ -31,27 +31,32 @@ sources:
     publisher: AIP - Agence Ivoirienne de Presse
     date: 2026-06-22
     language: fr
+  - title: 'Côte d’Ivoire : Vingt kilogrammes de cannabis saisis par la DPSD'
+    url: https://kessiya.com/cote-divoire-vingt-kilogrammes-de-cannabis-saisis-par-la-dpsd/
+    publisher: Kessiya
+    date: 2026-06-22
+    language: fr
 open_questions:
   - Only one accessible account of this seizure was found after searches in French, so no second source corroborates it.
   - The operation spanned the night of Saturday 20 to Sunday 21 June 2026; 21 June is used as the incident date.
   - The suspect's identity is unknown and no arrest, charge or court outcome was reported; an investigation to find the cargo's owner was still under way.
+  - Kessiya's page image is uncaptioned and carries no credit, so it is recorded only as a media link and is not established to be a distinct photo from the AIP handout.
 ---
 
 Officers of the Aboisso branch of the DPSD, the Ivorian drug-squad police,
 mounted a night operation at Bongo in Grand-Bassam department on 20-21 June
-2026. [@1] At about 22:00 they spotted a motorcyclist matching the tip and he
-fled through a rubber field along a muddy track. [@1] After a short chase he
+2026. [@1,2] At about 22:00 they spotted a motorcyclist matching the tip and he
+fled through a rubber field along a muddy track. [@1,2] After a short chase he
 abandoned his motorcycle and a green bag, then disappeared into the plantation.
-[@1] Searches around the site failed to catch him, so no arrest was made. [@1]
+[@1,2] Searches around the site failed to catch him, so no arrest was made. [@1,2]
 
 Inside the bag officers found 20 blocks of cannabis weighing 20 kg in total.
-[@1] Police put the haul’s market value at 1.2 million CFA francs, or 60,000
-francs per block. [@1] They also seized the unregistered black motorcycle and
-took it with the drugs to the Aboisso police station. [@1]
+[@1,2] Police put the haul’s market value at 1.2 million CFA francs, or 60,000
+francs per block. [@1,2] They also seized the unregistered black motorcycle and
+took it with the drugs to the Aboisso police station. [@1,2]
 
 The Aboisso duty team had deployed after an anonymous tip about a man carrying a
-large quantity of drugs on a black motorcycle. [@1] The informant said he would
-cross a rubber company’s hevea field at Bongo to reach Bonoua. [@1] The
+large quantity of drugs on a black motorcycle. [@1,2] The informant said he would
+cross a rubber company’s hevea field at Bongo to reach Bonoua. [@1,2] The
 prosecutor at the Grand-Bassam court of first instance was informed and an
-investigation was opened to find the cargo’s owner. [@1]
-
+investigation was opened to find the cargo’s owner. [@1,2]
