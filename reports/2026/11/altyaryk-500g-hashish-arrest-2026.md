@@ -32,6 +32,11 @@ sources:
     url: https://www.uzdaily.uz/en/500-grams-of-hashish-seized-in-uzbekistans-ferghana-region/
     publisher: UzDaily.uz
     date: 2026-11-05
+  - title: В Ферганской области изъяли 500 граммов гашиша
+    url: https://www.uzdaily.uz/ru/v-ferganskoi-oblasti-iziali-500-grammov-gashisha/
+    publisher: UzDaily.uz
+    date: 2026-11-05
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 5 November 2026 is its publication date and is used as the incident date.
   - The suspect was not named, only described as born in 1984 and residing in Altyaryk District.
@@ -44,19 +49,18 @@ open_questions:
 Officers of the Namangan Regional Department of Internal Affairs jointly with
 the regional department of the State Security Service detained a man in Altyaryk
 District, Ferghana Region, on suspicion of attempting to sell 500 grams of
-hashish for US$4,000. [@1] The authorities said the detention took place during
+hashish for US$4,000. [@1,2] The authorities said the detention took place during
 an operation aimed at preventing the spread of narcotic drugs and psychotropic
-substances among young people. [@1] The suspect was born in 1984 and resides in
-Altyaryk District. [@1] He was detained while selling a substance in blue
-plastic packaging to an undercover buyer. [@1]
+substances among young people. [@1,2] The suspect was born in 1984 and resides in
+Altyaryk District. [@1,2] He was detained while selling a substance in blue
+plastic packaging to an undercover buyer. [@1,2]
 
 The Expert and Forensic Centre confirmed the seized substance contained
-tetrahydrocannabinol, the active component of cannabis, and was hashish. [@1]
-Its net weight was 500 grams. [@1] Experts estimated the quantity was equivalent
-to approximately 5,000 doses. [@1]
+tetrahydrocannabinol, the active component of cannabis, and was hashish. [@1,2]
+Its net weight was 500 grams. [@1,2] Experts estimated the quantity was equivalent
+to approximately 5,000 doses. [@1,2]
 
 The investigative unit of the Turaqurgan District Department of Internal Affairs
 opened a criminal case under Article 273, Part 6, Clause “a” of Uzbekistan’s
-Criminal Code. [@1] Initial investigative proceedings are currently underway.
-[@1]
-
+Criminal Code. [@1,2] Initial investigative proceedings are currently underway.
+[@1,2]
