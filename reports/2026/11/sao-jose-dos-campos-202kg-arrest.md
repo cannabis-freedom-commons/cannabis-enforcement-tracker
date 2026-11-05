@@ -30,6 +30,11 @@ sources:
     publisher: AgoraVale
     date: 2026-11-04
     language: pt
+  - title: Homem é preso com mais de 2 kg de maconha em estacionamento de supermercado em São José
+    url: https://www.meon.com.br/noticias/vale-do-paraiba-regiao/sao-jose-dos-campos/homem-e-preso-com-mais-de-2-kg-de-maconha-em-estacionamento-de-supermercado-em-sao-jose
+    publisher: MEON
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The man's name, age and other identifying details were not published.
   - No court outcome beyond remaining in custody at the CPJ was reported; whether he was later charged, heard or released is not known.
@@ -40,19 +45,18 @@ open_questions:
 
 Military police officers arrested a man in flagrante for drug trafficking on the
 night of 3 November 2026 in a supermarket parking lot in Cidade Morumbi, in the
-south zone of São José dos Campos. [@1] The arrest was carried out by Força
+south zone of São José dos Campos. [@1,2] The arrest was carried out by Força
 Tática teams of the 46th Battalion, the 46º BPM/I tactical force of the Military
-Police, who were patrolling the Cidade Morumbi area at around 8 p.m. [@1] The
+Police, who were patrolling the Cidade Morumbi area at around 8 p.m. [@1,2] The
 officers noticed a motorcyclist carrying a backpack who was watching vehicles in
-the parking lot and stopped him for a search. [@1]
+the parking lot and stopped him for a search. [@1,2]
 
-A search of the backpack found three pressed blocks of marijuana. [@1]
+A search of the backpack found three pressed blocks of marijuana. [@1,2]
 Questioned at the scene, the man said he would receive R$600 to deliver the
-drugs to another person. [@1] Police put the total weight of the three blocks of
-seized marijuana at 2.020 kilograms. [@1] Officers also collected the motorcycle
-the suspect had been using and a mobile telephone. [@1]
+drugs to another person. [@1,2] Police put the total weight of the three blocks of
+seized marijuana at 2.020 kilograms. [@1,2] Officers also collected the motorcycle
+the suspect had been using and a mobile telephone. [@1,2]
 
 Officers took the man to the Central de Polícia Judiciária (CPJ), the central
-judicial police station. [@1] He remained in custody there for drug trafficking.
-[@1]
-
+judicial police station. [@1,2] He remained in custody there for drug trafficking.
+[@1,2]
