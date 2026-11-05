@@ -26,6 +26,16 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-04
     language: ar
+  - title: 'Jabri: 190 millions de dinars de marchandises saisies en neuf mois'
+    url: https://africanmanager.com/jabri-190-millions-de-dinars-de-marchandises-saisies-en-neuf-mois/
+    publisher: African Manager
+    date: 2026-11-05
+    language: fr
+  - title: 'الديوانة: محجوزات بأكثر من 190 مليون دينار خلال الأشهر التسعة الأولى من 2026'
+    url: https://diwanfm.net/news/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/190-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%8A%D9%86%D8%A7%D8%B1-%D9%82%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%AC%D9%88%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%AA%D8%B3%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86-2026
+    publisher: Diwan FM
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No individual seizure, date, border crossing or suspect is identified, so the report covers only the nine-month total announced on 4 November 2026; 31 October 2026 is used as the end of the reported period.
   - No number of people arrested or cases charged against individuals was published; the 11,000 customs cases are administrative and judicial case files, not a count of people.
@@ -38,10 +48,10 @@ open_questions:
 
 Tunisia's customs administration reported seizing more than 153 kg of cannabis
 (al-qinnab al-hindi) at border crossings and by customs guard units during the
-first nine months of 2026. [@1] Customs opened more than 11,000 customs cases in
-the period, covering goods whose total value exceeded 190 million dinars. [@1]
+first nine months of 2026. [@1,2] Customs opened more than 11,000 customs cases in
+the period, covering goods whose total value exceeded 190 million dinars. [@1,3]
 The seized goods included gold, electronics, food, dried fruit and medicines
-alongside the drugs. [@1]
+alongside the drugs. [@1,2]
 
 The same nine-month period produced seizures of more than 101 kg of cocaine.
 [@1] It also produced more than 18,638,000 narcotic tablets, listed separately
@@ -49,4 +59,3 @@ from the cannabis. [@1] Customs spokesman Colonel Chokri Jabri gave the figures
 to Mosaique FM on Thursday 4 November 2026, at a ceremony granting the
 authorised economic operator status to 10 companies, which brought the total
 number of certified Tunisian companies to 231. [@1]
-
