@@ -119,6 +119,10 @@ sources:
     publisher: ertnews.gr
     date: 2026-11-05
     language: el
+  - title: Greece Seizes 207 Kilos of Cannabis at Athens Airport
+    url: https://www.tovima.com/society/greece-seizes-207-kilos-of-cannabis-at-athens-airport/
+    publisher: tovima.com
+    date: 2026-11-05
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -151,6 +155,8 @@ open_questions:
   - The ERT video embedded in the page carries no caption or credit establishing what it shows, so no media entry is added from this source.
   - The ERT image is a still frame captioned only with the article title and no credit, so it is not established as showing this consignment.
   - ERT is the first source to name a reporter for this event, Kostas Stamou, which does not change any fact about the seizure.
+  - The Tovima account gives no separate date for the seizure, saying only that the drugs were flown from Asia in August; 4 November 2026, the date used by the existing report, remains the incident date.
+  - The page image is a September 2019 stock photograph of Athens airport departure terminals credited to PalSand/Shutterstock, so it does not show this consignment and no media link is added from this source.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -175,11 +181,11 @@ account. [@1,2]
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
 raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18,20] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20]
+that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21]
 
 Investigators traced the route of the pallets, which had apparently started by
 air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20] Police estimated that the expected financial gain
+the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,21] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
 [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] The investigation was continuing so that the case could be fully examined.
 [@1,4,5,6,7,8,9,10,12,13,14,15,16,17,20]
@@ -191,3 +197,5 @@ The pallets travelled by air from Thailand to Athens via Qatar. [@3] The cannabi
 The operation was carried out by the Narcotics Prosecution Subdirectorate together with the smuggling-prosecution department of the airport customs office. [@18]
 
 The ERT report was filed by reporter Kostas Stamou. [@20]
+
+Investigators acted on information indicating that the drugs had been transported by air from Asia in August. [@21] A search of the two pallets revealed 207 kilograms and 466 grams of raw cannabis, which were seized by authorities. [@21]
