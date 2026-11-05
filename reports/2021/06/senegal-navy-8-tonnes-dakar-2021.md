@@ -28,10 +28,21 @@ sources:
     url: https://theowp.org/senegalese-navy-seizes-8-tonnes-of-cannabis-resin/
     publisher: The Organization for World Peace
     date: 2021-06-27
+  - title: 'Saisie record de 8 tonnes de haschich au Sénégal : révélations sur le périple du navire transporteur.'
+    url: https://www.dakaractu.com/Saisie-record-de-8-tonnes-de-haschich-au-Senegal-revelations-sur-le-periple-du-navire-transporteur_a204560.html
+    publisher: DAKARACTU.COM
+    date: 2021-06-07
+    language: fr
 open_questions:
   - The exact interception point beyond 140 kilometres from Dakar was not specified, so the pin is the Dakar coast with regional precision.
   - The ministry gave no street value for the drugs and the reports name no arrests, charges or nationalities of the seven crew.
   - The Organization for World Peace account notes a separate 17-tonne cannabis resin seizure in Niger earlier in 2021, a different event left out here.
+  - Dakaractu gives the haul as 8.3 tonnes of cannabis resin, while the sources already cited give 8.37 tonnes in 279 bags; the report keeps the earlier figure.
+  - The article describes the interception only as "au large de Dakar" and does not confirm the 140-kilometre distance already recorded.
+  - The page's one photo carries only the article headline as its caption, so it is not established to show this seizure and no media entry was added.
+  - The article also mentions 17 tonnes and 5 tonnes of hashish intercepted in Niger and Mali between March and May 2021, separate events left out of this report.
+  - 'Left out, as its quotation was not found in DAKARACTU.COM: Officers assessed the haul at 8.3 tonnes of cannabis resin 24 hours after the interception.'
+  - 'Left out, as its quotation was not found in DAKARACTU.COM: Its seven crew members were four Indians, a Mauritanian, a Syrian and a Libyan, and the navy took them into custody.'
 ---
 
 The Senegalese navy intercepted a boat carrying cannabis resin off the
@@ -41,5 +52,7 @@ on board. [@1,2]
 
 Officers escorted the boat to a naval base in Dakar, where they found 8.37
 tonnes of hashish divided between 279 bags. [@1,2] The boat was also carrying
-sacks of plaster. [@1,2] The armed forces ministry announced the seizure in a
+sacks of plaster. [@1,2,3] The armed forces ministry announced the seizure in a
 statement on the Monday and gave no street value for the drugs. [@1]
+
+The vessel was the cargo ship ASSO 6, IMO 7946875, 66 metres long and 8 metres wide, sailing under the Togolese flag. [@3] Maritime tracking put ASSO 6 at the Moroccan port of Safi on 29 May 2021, after it reached Nouadhibou in Mauritania on 22 April, and it was expected at Abidjan on 13 June. [@3]
