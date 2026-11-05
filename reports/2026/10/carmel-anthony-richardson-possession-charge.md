@@ -51,6 +51,10 @@ sources:
     url: https://www.wishtv.com/sports/indianapolis-colts/anthony-richardson-drug-arrest-colts
     publisher: WISH-TV
     date: 2026-10-23
+  - title: Colts QB Anthony Richardson Sr. charged with possession of marijuana
+    url: https://www.espn.co.uk/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession
+    publisher: ESPN
+    date: 2026-10-23
 open_questions:
   - No weight was published for the mason jar contents or the THC-infused gummies, so no cannabis quantity is recorded.
   - The filing date of 19 October 2026 is inferred from the charge being filed on the Monday a week after the Oct. 12 stop.
@@ -84,18 +88,18 @@ a citation for the expired registration and a summons for marijuana possession.
 
 Police said the car pulled to the side of the road and officers noticed the odor
 of marijuana as they approached. [@1] Richardson reportedly admitted that he had
-smoked marijuana in the car so as not to do so in front of his children. [@1,3,4,5,6] He
+smoked marijuana in the car so as not to do so in front of his children. [@1,3,4,5,6,9] He
 also told police that he possessed a small amount of marijuana in the car. [@1]
 Officers searching the car reportedly found a small mason jar containing a
 substance believed to be marijuana and an opened bag of THC-infused gummies.
 [@1,2,3,5,6,8] The substance reportedly tested positive for THC. [@1]
 
 The Colts said they were aware of the situation, were gathering additional
-information and would have no further comment. [@1,3,4,6] Richardson's agent said
+information and would have no further comment. [@1,3,4,6,9] Richardson's agent said
 Richardson takes the matter seriously, respects the legal process and remains
 focused on his responsibilities, family and future. [@1] A hearing scheduled for
 Dec. 9 has been waived, and a bench trial will be held in Jan. 2027. [@1,6]
 
 The Hamilton County prosecutor’s office filed the possession charge as a Class B misdemeanor. [@2]
 
-A car search produced 500-milligram THC-infused gummies in the glove compartment. [@7] Colts coach Shane Steichen said the team would keep the matter in-house and that Richardson remained their backup quarterback. [@7] A Carmel Police Department officer patrolling the area of Springmill Boulevard and Silver Stream Drive spotted the Dodge Charger. [@8]
+A car search produced 500-milligram THC-infused gummies in the glove compartment. [@7,9] Colts coach Shane Steichen said the team would keep the matter in-house and that Richardson remained their backup quarterback. [@7,9] A Carmel Police Department officer patrolling the area of Springmill Boulevard and Silver Stream Drive spotted the Dodge Charger. [@8]
