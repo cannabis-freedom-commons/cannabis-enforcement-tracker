@@ -38,6 +38,16 @@ sources:
     publisher: Infobae
     date: 2025-09-13
     language: es
+  - title: Trinidad y Tobago incautó alijo de droga presuntamente proveniente de Venezuela
+    url: https://www.ntn24.com/noticias-actualidad/trinidad-y-tobago-incauto-alijo-de-droga-presuntamente-proveniente-de-venezuela-580161
+    publisher: NTN24
+    date: 2025-09-15
+    language: es
+  - title: Over $29 Million In High-Grade Cannabis Seized At Sea
+    url: https://www.ttt.live/over-29-million-in-high-grade-cannabis-seized-at-sea
+    publisher: TTT News
+    date: 2025-09-12
+    language: en
 open_questions:
   - The article gives no date of its own for the seizure beyond "el jueves" (Thursday); 11 September 2025 is inferred from the 13 September 2025 publication date.
   - The weight is "estimada" (estimated) at 268 kilograms, and the same figure as the number of packages, which may be a reporting simplification.
@@ -46,6 +56,14 @@ open_questions:
   - The article does not say what happened to the three people who jumped into the sea, whether they were rescued or detained, or what charges any of those held face.
   - Only one account of the event could be opened; no TTPS statement or independent Trinidadian outlet report was found.
   - The article also reports unrelated news about US military deployment, Venezuela, Guyana and Delcy Rodriguez, which is left out of the report.
+  - NTN24 reports the interception as happening on "el pasado sábado" (last Saturday), 13 September 2025, two days before its publication, while the police statement, TTT News and El Diario place it at about 3 a.m. on Friday 12 September 2025; the report uses 12 September.
+  - NTN24 gives the value as "al menos 29 millones de dólares" without a currency code, while the police statement gives 29,412,196 and the Trinidad Guardian describes it elsewhere in TT dollars; the report keeps TT$29,412,196 pending a confirmed currency.
+  - The Colombian origin and "Creepy" variety of the marijuana are the police service's description, repeated by TTT News; NTN24 only says the boat was believed to come from Venezuela.
+  - 'Left out, as its quotation was not found in El Diario: Trinidad and Tobago authorities said on Saturday 13 September 2025 that they had seized 268 kilos of marijuana, valued at 29 million dollars, two days earlier.'
+  - 'Left out, as its quotation was not found in El Diario: Commissioner of Police Allister Guevarro said the operation showed the strength of the Trinidad and Tobago Police Service''s intelligence apparatus and of precision policing backed by regional and international partners.'
+  - 'Left out, as its quotation was not found in TTT News: Mitra Balchan, 42, of La Brea and Caesar Geraldo Rodriguez Calzadilla, 33, of San Juan, were charged when they appeared before Master Ambrose Persadsingh in the South Criminal Court on 6 October 2025.'
+  - 'Left out, as its quotation was not found in TTT News: The court account said 268 packages holding cannabis with a total weight of 292.68 kilogrammes were found on the boat, against the 268 kilogrammes announced after the interception.'
+  - 'Left out, as its quotation was not found in Trinidad Guardian: The Trinidad Guardian independently reported the two men''s names, ages, addresses, the charge and their appearance before Master Ambrose Persadsingh.'
 ---
 
 Trinidad and Tobago authorities said on Saturday 13 September 2025 that they had
@@ -67,3 +85,4 @@ security across the Caribbean and that no single man or island can fight it
 alone. [@1] Trinidad and Tobago backs the United States deployment of ships and
 marines in the Caribbean to combat drug trafficking. [@1]
 
+NTN24 reported that the Trinidad and Tobago Coast Guard seized 268 kilogrammes of marijuana from a fishing boat believed to have come from Venezuela. [@2] NTN24, citing journalist Gabriel Bastidas, said two people were detained while three other crew members jumped into the sea and escaped. [@2] NTN24 put the value of the seized drug at least at 29 million dollars. [@2] NTN24 placed the interception in the middle of a United States military build-up in the Caribbean against drug trafficking. [@2] The Trinidad and Tobago Police Service said Coast Guard patrols intercepted the pirogue off the Point Fortin coastline at about 3 a.m. on 12 September 2025. [@3] A specialised unit under the Ministry of Homeland Security learned on 11 September 2025 that a consignment of Colombian "Creepy" marijuana was being brought from Venezuela aboard a fishing vessel. [@3] Officers recovered nine crocus bags holding 268 brown-wrapped packets of cannabis from the sea around the vessel. [@3] The two detained men, the vessel and the exhibits were taken to Staubles Bay and handed to police, and officers kept searching for the three who fled. [@3]
