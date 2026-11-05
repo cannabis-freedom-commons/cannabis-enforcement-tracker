@@ -43,6 +43,10 @@ sources:
     url: https://www.news10.com/video/over-400-pounds-of-marijuana-seized-in-clifton-park-traffic-stop/12167505/
     publisher: NEWS10 ABC
     date: 2026-09-14
+  - title: Two Franklin County men charged after deputies seize 489 pounds of cannabis in Saratoga County
+    url: https://www.nny360.com/news/malone/two-franklin-county-men-charged-after-deputies-seize-489-pounds-of-cannabis-in-saratoga-county/article_ab623f77-85b3-571d-832f-16f115d000ad.html
+    publisher: NNY360
+    date: 2026-09-14
 open_questions:
   - The stop date of 8 September 2026 comes from the Daily Voice account of Tuesday, Sept. 8; WNYT gives only Tuesday at 2:28 p.m., while Saratoga TODAY says Sept. 15, so 8 September is used as the shared incident date.
   - No cannabis value, packaging description, vehicle details, or independent weighing beyond the sheriff's 489-pound count was published.
@@ -54,8 +58,8 @@ open_questions:
 
 Saratoga County sheriff's deputies arrested Kevin C. Wilbur, 46, of Brushton and
 Quinton L. Carle, 23, of Bombay after a traffic stop on Interstate 87, the
-Northway, in Clifton Park. [@1] Both men were charged with criminal possession
-of cannabis in the first degree, described as a felony. [@3] Both men were
+Northway, in Clifton Park. [@1,5] Both men were charged with criminal possession
+of cannabis in the first degree, described as a felony. [@3,5] Both men were
 arraigned before Judge Jennifer Jeram in Clifton Park Town Court. [@1] Wilbur
 was remanded to the Saratoga County Jail, while Carle was released on his own
 recognizance pending further proceedings in that court. [@1]
@@ -63,7 +67,7 @@ recognizance pending further proceedings in that court. [@1]
 Deputies had stopped the vehicle on Tuesday, September 8 at about 2:28 p.m. for
 following another vehicle too closely and having insufficient tail lamps. [@2]
 The investigation during the stop led deputies to find 489 pounds (about 221.8
-kilograms) of cannabis in the men's possession. [@1,4] Wilbur was also cited for
+kilograms) of cannabis in the men's possession. [@1,4,5] Wilbur was also cited for
 following too closely and having insufficient tail lamps. [@1]
 
 Saratoga County Sheriff Jeffrey R. Brown said deputies had single-handedly
