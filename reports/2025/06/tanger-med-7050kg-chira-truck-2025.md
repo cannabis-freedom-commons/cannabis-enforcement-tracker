@@ -28,11 +28,16 @@ sources:
     url: https://en.walaw.press/articles/moroccan_authorities_seize_over_7_tonnes_of_cannabis_at_tangier_med_port/GMSRQFFQGSRQ
     publisher: Walaw
     date: 2025-06-18
+  - title: 'Trafic de drogue : 79 kg saisis à Bab Sebta et plus de 7 tonnes interceptées à Tanger Med'
+    url: https://www.lesinfos.ma/article/149638861-Chtouka%20:%20un%20minibus%20se%20renverse,%2019%20ouvriers%20bless%C3%A9s
+    publisher: Lesinfos.ma
+    date: 2025-06-17
+    language: fr
 ---
 
 Moroccan police and customs seized 7,050 kilograms of cannabis resin, known
 locally as chira, from a Morocco-registered freight truck at Tanger Med port
-late on Monday night. [@1] Officers found the resin concealed in the truck's
+late on Monday night. [@1,2] Officers found the resin concealed in the truck's
 trailer during a joint border inspection as it prepared to carry the drugs to
-a European port. [@1] The 42-year-old Moroccan driver was arrested and placed
-in custody while the investigation into the trafficking attempt continues. [@1]
+a European port. [@1,2] The 42-year-old Moroccan driver was arrested and placed
+in custody while the investigation into the trafficking attempt continues. [@1,2]
