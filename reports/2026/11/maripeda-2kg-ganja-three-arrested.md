@@ -24,31 +24,41 @@ sources:
     publisher: Disha Daily
     date: 2026-11-04
     language: te
+  - title: 'Maripeda: మరిపెడలో 2 కిలోల గంజాయి స్వాధీనం!'
+    url: https://www.hmtvlive.com/telugu-news/warangal/police-arrest-3-for-smuggling-ganja-worth-1-lakh-209173
+    publisher: HMTV
+    date: 2026-11-05
+    language: te
 open_questions:
   - The seized quantity is reported only as about two kilos, so 2 kg is recorded as an approximate police figure.
   - The article gives no separate date for the patrol beyond Wednesday; 4 November 2026, its publication date, is used as the incident date.
   - Only one accessible source for this event was found after searching in Telugu and English.
   - The page photo caption only repeats the headline and does not establish what it depicts, so no media entry is included.
   - No NDPS sections, values or court outcome beyond registration of the case and remand were reported.
+  - The value of about Rs 1 lakh is a police estimate given for the 2 kg of ganja, not a price confirmed by any other source.
+  - HMTV published on 5 November 2026 and gives no separate date for the patrol beyond the existing account's Wednesday, 4 November 2026.
+  - The HMTV page photo is captioned only Maripeda and is not established to show this seizure, so no media entry is included.
+  - No accessible second outlet for this event could be opened in this run, so the detail rests on HMTV alone.
 ---
 
 Maripeda police on patrol spotted three youths acting suspiciously near the
 double-bedroom housing on Thorur Road on the outskirts of Maripeda. [@1] The
 three tried to flee when officers moved in to check them. [@1] Officers caught
-them and searched the bag they were carrying. [@1] Police identified them as
+them and searched the bag they were carrying. [@1,2] Police identified them as
 Kandi Abhiram of Damarachapalli village in Bhupalpally district, Power Vijay of
 Maripeda municipality and Banothu Manideepak of Suryapet town, and took them
 into custody. [@1] Police registered a case against all three and sent them to
-remand. [@1]
+remand. [@1,2]
 
 The bag held about two kilos of dried ganja, cannabis, already made ready in
-packets for sale. [@1] Questioning showed they had made the ganja into packets
-to sell in the town areas of Maripeda, Mahabubabad, Suryapet and Khammam. [@1]
+packets for sale. [@1,2] Questioning showed they had made the ganja into packets
+to sell in the town areas of Maripeda, Mahabubabad, Suryapet and Khammam. [@1,2]
 Officers also seized three cell phones and a small digital weighing machine from
-them. [@1]
+them. [@1,2]
 
 The seizure took place in Maripeda municipality in Mahabubabad district on
 Wednesday. [@1] Maripeda Circle Inspector L Pavan Kumar gave the details, saying
 Sub-Inspector Gandrati Satish was on patrol with head constables Srinivas and
-Raju and constables Ravinder, Ramesh and Venkanna. [@1]
+Raju and constables Ravinder, Ramesh and Venkanna. [@1,2]
 
+HMTV reported the 2 kg seizure as worth about Rs 1 lakh, a police estimate. [@2] Circle Inspector L Pavan Kumar warned of strict action against anyone transporting or selling ganja, and said informants whose information leads to a case would get Rs 5,000 in cash with their identity kept confidential. [@2]
