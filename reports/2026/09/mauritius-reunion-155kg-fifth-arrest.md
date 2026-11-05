@@ -24,6 +24,9 @@ open_questions:
   - Later court hearings reported by Mauritian outlets in September are not included here, and no trial outcome was reported.
   - Mauritius police did not name the fifth suspect or say exactly where in the south-west he was arrested.
   - The three people arrested in Réunion were not named in the reports opened.
+  - The new article rounds the Réunion seizure to 100 kilos and more than 100 kilos at Bras-Panon, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
+  - The article does not state where in Mauritius the 31 July arrest took place.
+  - The article's only image is labelled as an AFP illustration photo about a clinical trial, not a photo of this event, so no media entry is added.
 sources:
   - title: 'Trafic de 155,7 kg de cannabis sur l’axe La Réunion-Maurice : un cinquième suspect arrêté par l’ADSU'
     url: https://defimedia.info/trafic-de-1557-kg-de-cannabis-sur-laxe-la-reunion-maurice-un-cinquieme-suspect-arrete-par-ladsu
@@ -50,6 +53,11 @@ sources:
     publisher: Defimedia.info
     date: 2026-08-08
     language: fr
+  - title: 'Trafic de cannabis entre La Réunion et Maurice : le mari d''une ministre mauricienne interpellé'
+    url: https://imazpress.com/faits-divers/trafic-de-cannabis-entre-la-reunion-et-maurice-le-mari-d-une-ministre-mauricienne-interpelle
+    publisher: Imaz Press Réunion
+    date: 2026-08-01
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
@@ -60,14 +68,14 @@ cannabis, valued at Rs 234 million, from Réunion by sea over the weekend of 25 
 
 The drug was seized on the Réunion side. Gendarmes found 157 kg of cannabis in a
 van at Bras-Panon, at the mouth of the Rivière du Mât, on Sunday 26 July, and
-arrested three people who were later placed in pre-trial detention. [@3,4] A fast
+arrested three people who were later placed in pre-trial detention. [@3,4,6] A fast
 boat that the gendarmerie had seen offshore was found the next day near Le Morne
 in Mauritius. [@4]
 
 In Mauritius, the ADSU arrested Yogajee Govind, known as Gulshan, at Chamarel on
 31 July, where police said he had four cannabis plants and a bottle of methadone.
-[@4] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
-delegate for arts and culture. [@4,5] Ravindra Chimajee, 37, the suspected skipper,
+[@4,6] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
+delegate for arts and culture. [@4,5,6] Ravindra Chimajee, 37, the suspected skipper,
 was arrested at a clinic in Baie-du-Tombeau. [@4,5]
 
 Govind was charged at the Bambous court on 3 August with conspiracy to import
@@ -80,3 +88,5 @@ Daniel José Auguste and Shaan Kumar Choolun, are also in detention in the case.
 The opposition called for the minister's resignation, and Prime Minister Navin
 Ramgoolam said she would stay, citing the presumption of innocence and saying
 there was no evidence she was involved. [@4]
+
+The political party of minister Véronique Leu-Govind said it was following the investigation and any resulting proceedings with the greatest attention. [@6]
