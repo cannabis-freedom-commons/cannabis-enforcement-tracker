@@ -35,6 +35,11 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-04
     language: bn
+  - title: ভান্ডারিয়ায় ৩ কেজি গাঁজাসহ গ্রেপ্তার ১
+    url: https://ajkalerkontho.com/archives/183416
+    publisher: Daily AjKaler Kontho
+    date: 2026-11-05
+    language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - No court outcome was reported; proceedings under the Narcotics Control Act were described only as under way, with no charge, custody or sentence stated.
@@ -43,7 +48,7 @@ open_questions:
 ---
 
 Pirojpur district Detective Branch (DB) police arrested 35-year-old Md Sohel
-Hawlader in a special operation in Bhandaria. [@1,2] Officers seized 3 kg of ganja
+Hawlader in a special operation in Bhandaria. [@1,2,3] Officers seized 3 kg of ganja
 from Hawlader during the operation and took him into custody at the scene. [@1]
 The arrest took place at about 5 pm on Wednesday, 4 November, on the paved road
 in front of Babul Subedar's building gate in Dakshin Bhandaria Muslimpara, Ward
