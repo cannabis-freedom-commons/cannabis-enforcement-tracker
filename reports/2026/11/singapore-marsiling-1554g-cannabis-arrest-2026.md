@@ -23,6 +23,11 @@ media:
     media_url: https://isomer-user-content.by.gov.sg/266/5ec86dd8-c7fd-4339-a67a-0a1295e3d79e/Picture1.png
     publisher: Central Narcotics Bureau
     caption: 'The drugs seized from the residential unit near Marsiling Road on 3 November 2026, including the cannabis, Ice and Ecstasy tablets, laid out for the bureau''s photograph. Photo: Central Narcotics Bureau'
+  - kind: photo
+    url: https://berita.mediacorp.sg/singapura/lelaki-64-tahun-gigit-paha-pegawai-cnb-ketika-diberkas-di-marsiling-dadah-bernilai-lebih-s55000-dirampas-1084441
+    media_url: https://dam.mediacorp.sg/image/upload/s--oRTGXTqs--/c_fill,g_auto,h_468,w_830/f_auto,q_auto/v1/mediacorp/berita/images/2026/11/05/drugs_seized_on_nov_3.jpg?itok=z63GtYNx
+    publisher: BERITA Mediacorp
+    caption: 'The drugs seized from the residential unit near Marsiling Road on 3 November 2026, including the cannabis, Ice and Ecstasy tablets. Photo: Central Narcotics Bureau'
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 79dc984a435579b4fe89c4e21dba4c6c
@@ -59,6 +64,11 @@ sources:
     publisher: 联合早报
     date: 2026-11-05
     language: zh
+  - title: Lelaki 64 tahun gigit paha pegawai CNB ketika diberkas di Marsiling, dadah bernilai lebih S$55,000 dirampas
+    url: https://berita.mediacorp.sg/singapura/lelaki-64-tahun-gigit-paha-pegawai-cnb-ketika-diberkas-di-marsiling-dadah-bernilai-lebih-s55000-dirampas-1084441
+    publisher: BERITA Mediacorp
+    date: 2026-11-05
+    language: ms
 open_questions:
   - No charges or court outcome were reported; the bureau said its investigation into the man's drug activities was ongoing and he had been referred to police for separate offences.
   - The S$55,000 estimate covers the cannabis, Ice and Ecstasy together and was not broken down by substance, so it cannot be attributed to the cannabis alone.
@@ -71,26 +81,31 @@ open_questions:
   - Neither Straits Times version names the suspect or gives the exact address of the residential unit, beyond the vicinity of Marsiling Road.
   - No charges or court outcome appeared in the Straits Times accounts; the bureau said only that its drug investigation was ongoing.
   - 'Left out, as its quotation was not found in 联合早报: A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of Ecstasy and S$356 in cash, along with drug paraphernalia.'
+  - BERITA Mediacorp's report is a Malay translation of the same CNB statement carried by CNA and adds no independent account of the arrest.
+  - The report again gives no charge or court outcome for the 64-year-old, only that drug investigations were ongoing and he was referred to police over the assault.
+  - The S$55,000 estimate still covers cannabis and Ice together and cannot be attributed to the cannabis alone.
 ---
 
 Central Narcotics Bureau officers arrested a 64-year-old Singaporean man on
 suspicion of drug trafficking in a residential unit in the vicinity of Marsiling
-Road on the morning of 3 November 2026. [@1,3,5,7] During the arrest the man struggled
+Road on the morning of 3 November 2026. [@1,3,5,7,8] During the arrest the man struggled
 violently and bit an officer's thigh through his jeans, and he spat on two other
-officers. [@1,3,6,7] All three officers received prompt medical attention, including
-assessment for potential infectious diseases. [@1,5,7]
+officers. [@1,3,6,7,8] All three officers received prompt medical attention, including
+assessment for potential infectious diseases. [@1,5,7,8]
 
 A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of
-Ecstasy and S$356 in cash, along with drug paraphernalia. [@1,5] Assistant
+Ecstasy and S$356 in cash, along with drug paraphernalia. [@1,5,8] Assistant
 Commissioner Ng Khai Song, director of the bureau's intelligence division, said
-CNB would not tolerate any acts of violence against its officers. [@1,3]
+CNB would not tolerate any acts of violence against its officers. [@1,3,8]
 
 Trafficking more than 500 g of cannabis may carry the mandatory death penalty
-under the Misuse of Drugs Act 1973. [@1,3,6] The man was also referred to the police
+under the Misuse of Drugs Act 1973. [@1,3,6,8] The man was also referred to the police
 for further investigation of voluntarily causing hurt and of using criminal
-force to deter public servants from their duties. [@1,5,7] The bureau said its
-investigation into the man's drug activities was still under way. [@2,3,6,7]
+force to deter public servants from their duties. [@1,5,7,8] The bureau said its
+investigation into the man's drug activities was still under way. [@2,3,6,7,8]
 
-The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3,7] All three officers were taken down. [@4]
+The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3,7,8] All three officers were taken down. [@4]
 
 The three affected officers were reported to be well after treatment including infectious-disease checks. [@7] The bureau said it would give its full support to officers injured in the line of duty. [@7]
+
+The drugs shown were seized from a residential unit near Marsiling Road on Tuesday, 3 November 2026. [@8]
