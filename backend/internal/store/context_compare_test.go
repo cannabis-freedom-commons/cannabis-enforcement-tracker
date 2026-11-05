@@ -48,6 +48,14 @@ func TestCompareContextGroupsCasesByFirstRunMode(t *testing.T) {
 	add("https://a.example/2", "failed", "inline", 2, 12, true)
 	add("https://a.example/3", "committed", "files", 1, 14, false)
 	add("https://a.example/4", "duplicate", "", 1, 3, false) // before the switch: left out
+	// an older attempt from before the switch is not counted with the case's moded runs
+	var old string
+	if err := s.DB.QueryRow("SELECT case_id FROM research_runs WHERE context_mode='inline' ORDER BY created_at LIMIT 1").Scan(&old); err != nil {
+		t.Fatal(err)
+	}
+	if _, err := s.DB.Exec("INSERT INTO research_runs(id,case_id,workspace,reserved_cents,created_at,status,cost_usd) VALUES('pre-switch',?,'',1,1,'failed',5)", old); err != nil {
+		t.Fatal(err)
+	}
 	stats, err := s.CompareContext(ctx)
 	if err != nil {
 		t.Fatal(err)

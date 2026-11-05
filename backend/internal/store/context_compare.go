@@ -6,7 +6,8 @@ import (
 )
 
 // ContextStats compares research by starting-context mode (RESEARCH_CONTEXT). A case belongs to
-// the mode of its first run that recorded one; "first run" figures are that run alone.
+// the mode of its first run that recorded one; "first run" figures are that run alone, and runs
+// and cost count only runs since the case got a mode (not attempts from before the switch).
 type ContextStats struct {
 	Mode                           string
 	Cases, Runs                    int
@@ -23,8 +24,8 @@ func (s *Store) CompareContext(ctx context.Context) ([]ContextStats, error) {
     ROW_NUMBER() OVER (PARTITION BY r.case_id ORDER BY r.created_at, r.id) AS n, r.id
   FROM research_runs r WHERE r.context_mode<>'')
 SELECT f.context_mode, c.id, c.status,
-  (SELECT count(*) FROM research_runs WHERE case_id=c.id),
-  (SELECT coalesce(sum(cost_usd),0) FROM research_runs WHERE case_id=c.id),
+  (SELECT count(*) FROM research_runs WHERE case_id=c.id AND context_mode<>''),
+  (SELECT coalesce(sum(cost_usd),0) FROM research_runs WHERE case_id=c.id AND context_mode<>''),
   (SELECT count(*) FROM ai_events WHERE run_id=f.id AND kind='step'),
   coalesce(r.finished_at-r.started_at,0), r.input_tokens+r.cache_read_tokens, r.output_tokens+r.reasoning_tokens, r.status,
   EXISTS(SELECT 1 FROM ai_events WHERE case_id=c.id AND role='user' AND kind='request' AND text LIKE 'The answer did not pass%')
