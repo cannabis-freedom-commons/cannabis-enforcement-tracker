@@ -40,6 +40,11 @@ sources:
     publisher: LeFaso.net
     date: 2026-09-29
     language: fr
+  - title: 'Burkina: saisie de plus de 500 kg de chanvre indien à Kaya et Ouagadougou'
+    url: https://www.wakatsera.com/burkina-saisie-de-plus-de-500-kg-de-chanvre-indien-a-kaya-et-ouagadougou/
+    publisher: Wakat Séra
+    date: 2025-09-25
+    language: fr
 ---
 
 The National Police announced on Tuesday 29 September 2026 the
@@ -54,3 +59,5 @@ neighbouring country, moved them to the capital by public transport or
 private vehicle, stored them and sold to customers — with part of the
 cannabis destined for dealers at gold-mining sites including Boromo and
 Poura, Zantene, Sabce, Mogre and Bittou. [@1] [@2]
+
+Burkina Faso's regional judicial police for the Koulsé region carried out a seizure operation that took 575.15 kg of chanvre indien, the French term used for cannabis, off the market in Kaya and Ouagadougou. [@4]
