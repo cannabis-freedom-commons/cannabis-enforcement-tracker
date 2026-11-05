@@ -20,6 +20,11 @@ media:
     media_url: https://citynews-cataniatoday.stgy.ovh/~media/horizontal-hi/11580992801453/a-passeggio-con-la-marijuana-sotto-la-felpa-23enne-arrestato-dalla-polizia-di-stato-in-via-antico-corso.jpg
     publisher: CataniaToday
     caption: 'Photo sent by the police headquarters published with the report on the arrest in Via Antico Corso. Photo: Questura'
+  - kind: photo
+    url: https://questure.poliziadistato.it/Catania/articolo/36036aeb334193617973202193
+    media_url: https://questure.poliziadistato.it/statics/45/a-passeggio-con-la-marijuana-sotto-la-felpa-23enne-arrestato-dalla-polizia-di-stato-in-via-antico-corso.jpg?art=1&lang=it
+    publisher: Questura di Catania, Polizia di Stato
+    caption: 'Police headquarters photo published with the statement on the 23-year-old''s arrest in Via Antico Corso. Photo: Polizia di Stato'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 806eab78903b18f01467b0170e55e4b9
@@ -50,6 +55,11 @@ sources:
     publisher: Free Press Online
     date: 2026-11-04
     language: it
+  - title: 'A PASSEGGIO CON LA MARIJUANA SOTTO LA FELPA: 23ENNE ARRESTATO DALLA POLIZIA DI STATO IN VIA ANTICO CORSO'
+    url: https://questure.poliziadistato.it/Catania/articolo/36036aeb334193617973202193
+    publisher: Questura di Catania, Polizia di Stato
+    date: 2026-11-04
+    language: it
 open_questions:
   - The article gives no separate date for the stop and arrest; 4 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian.
@@ -61,20 +71,20 @@ open_questions:
 ---
 
 State police arrested a 23-year-old man from Catania for possession of narcotics
-with intent to deal. [@1,2,3,4,5] The operation was carried out in Via Antico Corso by
+with intent to deal. [@1,2,3,4,5,6] The operation was carried out in Via Antico Corso by
 officers of the Mobile Squad's fourth section dealing with widespread crime.
-[@1,2,3,4,5] Officers on patrol noticed the young man walking with a shoulder bag and
-acting suspiciously, then stopped him for a check. [@1,2,4,5] During the check
+[@1,2,3,4,5,6] Officers on patrol noticed the young man walking with a shoulder bag and
+acting suspiciously, then stopped him for a check. [@1,2,4,5,6] During the check
 officers noticed a visible bulge at the front of his sweatshirt and asked him to
-lift it. [@1,2,4,5]
+lift it. [@1,2,4,5,6]
 
 Under the sweatshirt he was hiding a large vacuum-sealed heat-sealed plastic bag
-containing 58 grams of marijuana. [@1,2,4,5] A personal search of his shoulder bag
+containing 58 grams of marijuana. [@1,2,4,5,6] A personal search of his shoulder bag
 found another small bag with 5.70 grams of marijuana and 30 euros in cash
-considered proceeds of the offence. [@1,2,4,5]
+considered proceeds of the offence. [@1,2,4,5,6]
 
 Database checks showed he had prior drug and resisting-a-public-official
 offences and had already received an oral warning from the Catania police
-commissioner. [@1,2,4,5] After being informed, the duty public prosecutor ordered
+commissioner. [@1,2,4,5,6] After being informed, the duty public prosecutor ordered
 house arrest at his home pending a validation hearing before the
-preliminary-investigations judge. [@1,2,4,5]
+preliminary-investigations judge. [@1,2,4,5,6]
