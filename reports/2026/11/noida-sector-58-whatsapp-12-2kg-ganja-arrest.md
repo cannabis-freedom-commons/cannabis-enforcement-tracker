@@ -44,6 +44,11 @@ sources:
     publisher: Janbhawna Times
     date: 2026-11-05
     language: hi
+  - title: नोएडा में व्हाट्सऐप के जरिये गांजे की ऑनलाइन सप्लाई करने वाले दो तस्कर गिरफ्तार, 12.2 किलो गांजा बरामद
+    url: https://royalbulletin.in/delhi-ncr/noida/noida-police-arrest-two-smugglers-supplying-ganja-via-whatsapp-recover-122-kg-drugs/article-252162
+    publisher: Royal Bulletin
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -57,6 +62,8 @@ open_questions:
   - This account specifies Amazon packets while the existing report records packets bearing an online delivery company's name and 42 printed packing packets.
   - The page carries one image captioned only as top-news with no caption establishing it shows this seizure, so no media entry is added.
   - The page's lead image carries only the article headline as its caption with no credit establishing that it shows this seizure, so no media entry is added.
+  - The Royal Bulletin article gives no separate date for the arrests; 5 November 2026 is its publication date while the existing report dates the enforcement to 4 November 2026.
+  - The page's image carries only the article headline as caption with no credit establishing that it shows this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -71,10 +78,10 @@ media:
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1,2,3,4,5] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2,3,4,5,6] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1,5] Following questioning of Sumit, police arrested his associate
-Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1,5] The men were
+Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1,5,6] The men were
 identified as 36-year-old Sumit Raghav, originally of Bhojpur village in Sambhal
 and living in Khoda Colony, Ghaziabad, and 33-year-old Manish Kumar Jha,
 originally of Kalyanpur in Samastipur, Bihar, and also living in Khoda Colony.
@@ -83,10 +90,10 @@ supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
 online to Manish. [@1,4]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5,6] A
 search of Sumit's bag found small packets bearing an online delivery company's
-name containing 1 kg 900 g of ganja. [@1,3] Police recovered 10 kg 300 g of ganja
-from Manish. [@1,3] Police also seized a Splendor motorcycle, two mobile phones
+name containing 1 kg 900 g of ganja. [@1,3,6] Police recovered 10 kg 300 g of ganja
+from Manish. [@1,3,6] Police also seized a Splendor motorcycle, two mobile phones
 and 42 printed packets used for packing the ganja. [@1,3]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
