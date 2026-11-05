@@ -78,6 +78,11 @@ sources:
     publisher: Dnes.bg
     date: 2026-11-04
     language: bg
+  - title: Трима задържани и над 5 кг марихуана при акции в София
+    url: https://burgasmedia.com/amp/news/trima-zadarzhani-i-nad-5-kg-marihuana-pri-akcii-v-sofiya
+    publisher: BurgasMedia
+    date: 2026-11-04
+    language: bg
 open_questions:
   - The article gives no separate date for the Botunets stop, describing it as about 10.30pm last night relative to its 4 November 2026 publication; 3 November 2026 is used as the incident date for the whole operation.
   - No net or laboratory weight was published; the cannabis total is reported only as more than 5 kg and about 5 kg, so 5 kg is recorded as the stated figure.
@@ -104,22 +109,22 @@ open_questions:
 ---
 
 Police detained three men in raids on alleged drug dealers in Sofia's Mladost
-and Botunets districts. [@1,2] On 3 November, officers from SDVR's Specialised
-Police Forces unit checked a 26-year-old man in Mladost 2. [@1,3] The 26-year-old
+and Botunets districts. [@1,2,7] On 3 November, officers from SDVR's Specialised
+Police Forces unit checked a 26-year-old man in Mladost 2. [@1,3,7] The 26-year-old
 has a criminal record and a conviction for drug dealing and is serving a
 suspended sentence. [@1] A second raid in Mladost was carried out by the same
 unit together with SDVR's Narcotics section, which detained a 33-year-old man
 who rents a home in the district. [@1] In Botunets at about 10.30pm, patrol
 officers from the Fifth District Police Department stopped a man on an electric
-scooter. [@1,4] Officers found plastic bags of green plant matter on the man and
-in a hollow in the scooter's handlebar, which he said was marijuana. [@1,5] Both
+scooter. [@1,4,7] Officers found plastic bags of green plant matter on the man and
+in a hollow in the scooter's handlebar, which he said was marijuana. [@1,5,7] Both
 Mladost men were first held for up to 24 hours and then ordered held in custody
 for up to 72 hours after police reported to the Sofia City Prosecutor's Office.
-[@1,5]
+[@1,5,7]
 
-Police seized more than 5 kg of marijuana in the raids. [@1,2,5] Searches at two
+Police seized more than 5 kg of marijuana in the raids. [@1,2,5,7] Searches at two
 addresses in Mladost turned up about 5 kg of marijuana and 0.5 grams of cocaine.
-[@1,5] A search at one Mladost address turned up electronic scales and a jar of
+[@1,5,7] A search at one Mladost address turned up electronic scales and a jar of
 plant matter, with the marijuana there weighing about 60 grams. [@1,5] At the
 second Mladost home, officers found about €1,700, two working electronic scales
 and a vacuum machine. [@1,5] They also found many bags of plant matter, a slab of
