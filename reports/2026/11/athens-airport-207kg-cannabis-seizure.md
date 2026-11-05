@@ -114,6 +114,11 @@ sources:
     publisher: NEWS.am
     date: 2026-11-04
     language: ru
+  - title: Πάνω από 200 κιλά κάνναβης κατασχέθηκαν στο τελωνείο του «Ελευθέριος Βενιζέλος»
+    url: https://www.ertnews.gr/eidiseis/pano-apo-200-kila-kannavis-katasxethikan-sto-teloneio-tou-eleytherios-venizelos/
+    publisher: ertnews.gr
+    date: 2026-11-05
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -141,6 +146,11 @@ open_questions:
   - The NEWS.am account gives the seizure only as in August 2026 without a day and gives no separate date for itself beyond its 4 November 2026 publication date, while the existing report dates the seizure to August 2026 on other sources.
   - NEWS.am names no arrests, suspects, organiser or intended recipient and says police did not disclose them, as the existing open questions already record.
   - The article gives the weight only as 207 kilograms and does not say why the seizure was announced more than two months later.
+  - The ERT article says only that the cannabis was flown from Asia in August 2026, while its lead names Thailand as the origin; other accounts place the find on 19 August 2026.
+  - ERT names no arrests, suspects, sender or recipient and says only that the investigation is continuing.
+  - The ERT video embedded in the page carries no caption or credit establishing what it shows, so no media entry is added from this source.
+  - The ERT image is a still frame captioned only with the article title and no credit, so it is not established as showing this consignment.
+  - ERT is the first source to name a reporter for this event, Kostas Stamou, which does not change any fact about the seizure.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -157,25 +167,27 @@ media:
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
 smuggling-prosecution department of the customs office at Athens International
 Airport 'Eleftherios Venizelos', located and seized a large quantity of raw
-cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19] According to the Hellenic Police, abbreviated in
+cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19,20] According to the Hellenic Police, abbreviated in
 the account as EL.AS, the officers acted after making use of information they
 had received. [@1,8,13,14,17] No arrested people, suspects or charges are named in the
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18,20] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19]
+that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20]
 
 Investigators traced the route of the pallets, which had apparently started by
 air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17] Police estimated that the expected financial gain
+the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19] The investigation was continuing so that the case could be fully examined.
-[@1,4,5,6,7,8,9,10,12,13,14,15,16,17]
+[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] The investigation was continuing so that the case could be fully examined.
+[@1,4,5,6,7,8,9,10,12,13,14,15,16,17,20]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
 
 The pallets travelled by air from Thailand to Athens via Qatar. [@3] The cannabis was found on 19 August 2026 in the Goldair company's temporary goods-storage warehouse at Eleftherios Venizelos airport. [@3] The sender was listed as a Thailand-based company and the recipient as a company with an address on Evangelistrias street in central Athens. [@3] After the seizure officers removed the drugs from the pallets and replaced them with other packages empty of drugs as part of a controlled delivery. [@3] No one came forward to collect the load, so the controlled delivery ended without result. [@3] A forensic-investigations crew was called to examine the packages and collect evidence that could lead to identification of those involved. [@3]
 
 The operation was carried out by the Narcotics Prosecution Subdirectorate together with the smuggling-prosecution department of the airport customs office. [@18]
+
+The ERT report was filed by reporter Kostas Stamou. [@20]
