@@ -23,6 +23,11 @@ sources:
     publisher: ปชส. จังหวัดภูเก็ต
     date: 2026-11-04
     language: th
+  - title: จับกุมร้านกัญชาไม่มีใบอนุญาตกลางเมือง ยึดกัญชา 36 รายการ เงินสดแสนกว่า
+    url: https://www.khaophuket.com/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2-36-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-15366.php
+    publisher: ข่าวภูเก็ต (Khaophuket)
+    date: 2026-11-05
+    language: th
 open_questions:
   - No weight for the 36 cannabis items was published, so no kilograms can be recorded.
   - The 123,290 baht is seized cash held as evidence, not an official valuation of the drugs, so no value is recorded.
@@ -31,6 +36,8 @@ open_questions:
   - Only the official Phuket public-relations account could be opened for this event; no independent second source was found.
   - The page timestamp shows 12:37 PM on 4 November while the text says the inspection was at 15:15 that day; 4 November is used as the incident date.
   - The Facebook post carries photos without accessible captions or alt text establishing they show this raid, so no media entry is included.
+  - The Khaophuket account also describes Siwat Rawangkun as acting in place of the provincial clerk, while the existing report records him as Mueang Phuket district chief.
+  - The article's only photo is captioned as a Phuket province public-relations picture without stating what it shows, so no media entry is added.
 ---
 
 Phuket province is strictly enforcing the law against selling cannabis without a
@@ -40,16 +47,15 @@ Rawangkun to have Mueang Phuket administrative and public-health officers
 inspect and suppress unlicensed cannabis sales in Mueang Phuket district. [@1]
 District security chief Apichat Chantrawong led administrative and public-health
 officers to inspect a cannabis shop on Ratsada Road in Talat Nuea, Mueang
-Phuket, Phuket. [@1] Officers found the shop had no licence related to selling
-cannabis. [@1] Officers arrested the 41-year-old woman who owns the shop. [@1]
+Phuket, Phuket. [@1,2] Officers found the shop had no licence related to selling
+cannabis. [@1,2] Officers arrested the 41-year-old woman who owns the shop. [@1,2]
 
-Officers seized 36 cannabis items. [@1] Officers seized seven other items. [@1]
-Officers seized 123,290 baht in cash. [@1] Officers recorded the arrest and
+Officers seized 36 cannabis items. [@1,2] Officers seized seven other items. [@1,2]
+Officers seized 123,290 baht in cash. [@1,2] Officers recorded the arrest and
 handed the detainee and seized items to investigators at Mueang Phuket Police
-Station for legal proceedings. [@1]
+Station for legal proceedings. [@1,2]
 
 The Phuket governor instructed administrative officials to work with relevant
 agencies to inspect offending businesses and enforce the law seriously and
 continuously. [@1] Officials said the aim is to keep business operation lawful,
 maintain order and protect public safety in Phuket. [@1]
-
