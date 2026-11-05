@@ -59,6 +59,11 @@ sources:
     publisher: DSPORTS
     date: 2026-08-11
     language: es
+  - title: Incautan autobús destinado al Sao Paulo con 86.5 kilos de marihuana en Bolivia
+    url: https://abcnoticias.mx/deportes/2026/8/11/incautan-autobus-destinado-al-sao-paulo-con-865-kilos-de-marihuana-en-bolivia-285913.html
+    publisher: ABC Noticias
+    date: 2026-08-11
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -77,25 +82,26 @@ open_questions:
   - DSPORTS reports 86.5 kilos while the existing report records about 86 kilos, so the exact weighed figure remains unclear.
   - DSPORTS does not name the bus company, the agency that carried out the inspection, or any court step, so those details still rest on the existing sources.
   - The page carries two images captioned Micro de Sao Paulo and bolivar sao pablo, but neither caption establishes that it shows the seized packages or the inspection, so no media entry is added.
+  - The ABC Noticias page's only image is credited to São Paulo FC / Canva and its caption does not establish it as a photograph of the intercepted bus, so no media entry is added from it.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
 found about 86 kilos of marijuana hidden inside it, according to Mediotiempo.
-[@1,2,6] The bus belonged to the company Buses Cosmos and had been hired to carry
+[@1,2,6,7] The bus belonged to the company Buses Cosmos and had been hired to carry
 the São Paulo FC squad during its visit to Bolivia for a Copa Sudamericana match
-against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5] The discovery
+against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5,7] The discovery
 came before the bus reached the team members, and the authorities seized the
-drug after finding it concealed in the vehicle, Mediotiempo reported. [@1]
+drug after finding it concealed in the vehicle, Mediotiempo reported. [@1,7]
 
 The outlet stated that it had no information linking the Brazilian club to the
-seized load. [@1,6] After the operation the transport company had to resolve the
+seized load. [@1,6,7] After the operation the transport company had to resolve the
 disruption so the Brazilian delegation could travel, and the team continued to
-La Paz to prepare for its international fixture. [@1,4] São Paulo had arrived
+La Paz to prepare for its international fixture. [@1,4,7] São Paulo had arrived
 first in Santa Cruz de la Sierra and had planned to travel on to La Paz to
 lessen the effect of the altitude before facing Bolívar. [@1,2]
 
 Authorities were still investigating where the marijuana came from and who was
-responsible for transporting it, Mediotiempo reported. [@1]
+responsible for transporting it, Mediotiempo reported. [@1,7]
 
 The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5,6] Officers found four bags containing the drug inside the vehicle. [@2,3,5,6] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5]
 
