@@ -50,6 +50,11 @@ sources:
     publisher: 阿尔及利亚新闻社 (Algérie Presse Service)
     date: 2026-11-05
     language: zh
+  - title: تفكيك شبكتين للاتجار بالمخدرات في الجزائر وتوقيف 33 شخصًا | إرم نيوز
+    url: https://www.eremnews.com/entertainment/ckc4f11
+    publisher: إرم نيوز
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
@@ -57,16 +62,17 @@ open_questions:
   - The Arabic page states that 200 million centimes, about 14,700 dollars, was seized, but does not say what the money was, so no value is recorded in the existing report.
   - The ministry's statement values the seized cash at 200 million centimes (2 million dinars), but does not say where the money came from or whether it is linked to the networks.
   - The Chinese page names Algiers as the unit's base and gives no more precise site for the operation.
+  - The page's single image carries only the operation headline as its caption with no credit or visual details confirming it shows this seizure, so no media entry is included.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
 November 2026, Algeria's defence ministry said. [@1,4,5] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
-[@1,4,5]
+[@1,4,5,6]
 
 The operation seized 176 kilograms of kif traité, a processed cannabis product.
-[@3,4,5] The cannabis formed one component of a wider haul that also included
+[@3,4,5,6] The cannabis formed one component of a wider haul that also included
 cocaine and psychotropic tablets. [@1] The operation also included seizure of 21
 utility vehicles. [@2]
 
@@ -79,4 +85,4 @@ work to dismantle and thwart criminal networks. [@1] The ministry said those
 efforts would help reinforce citizens' security and the country's stability.
 [@1]
 
-The ministry said the seizures also included 21 utility vehicles and cash estimated at 200 million centimes. [@5]
+The ministry said the seizures also included 21 utility vehicles and cash estimated at 200 million centimes. [@5,6]
