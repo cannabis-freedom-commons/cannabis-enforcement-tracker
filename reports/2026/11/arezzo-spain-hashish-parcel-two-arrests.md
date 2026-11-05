@@ -42,6 +42,16 @@ media:
     media_url: https://corrierediarezzo.cdn.m33cloud.com/resizer/1800/-1/true/2026_11_03/03112026_092658_Screenshot_2026-11-03_090257-1793696536623_1793696568.jpg--i_pacchetti_di_hashish.jpg?1793696568353
     publisher: Corriere di Arezzo
     caption: 'Packets of seized hashish disguised as football sticker packets. Caption: I pacchetti di hashish.'
+  - kind: photo
+    url: https://www.arezzo24.net/notizie/cronaca/arezzo-sequestrato-hashish-spedito-per-posta/
+    media_url: https://www.arezzo24.net/wp-content/uploads/2026/11/stupefacenti_gdf_2.png
+    publisher: Arezzo24
+    caption: Rows of dark hashish blocks shown in an Arezzo seizure photo.
+  - kind: photo
+    url: https://www.arezzo24.net/notizie/cronaca/arezzo-sequestrato-hashish-spedito-per-posta/
+    media_url: https://www.arezzo24.net/wp-content/uploads/2026/11/stupefacenti_gdf_3.png
+    publisher: Arezzo24
+    caption: Loose hashish pieces and a wrapped package shown in an Arezzo seizure photo.
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa
@@ -117,6 +127,11 @@ sources:
     publisher: Italia 7
     date: 2026-11-03
     language: it
+  - title: Arezzo, sequestrato hashish spedito per posta
+    url: https://www.arezzo24.net/notizie/cronaca/arezzo-sequestrato-hashish-spedito-per-posta/
+    publisher: Arezzo24
+    date: 2026-11-03
+    language: it
 open_questions:
   - The articles give only the publication date of 3 November 2026 and no separate date for the seizure and arrests.
   - No names, ages or further identifying details of the two suspects were published beyond one Italian and one Albanian nationality.
@@ -134,14 +149,14 @@ open_questions:
 ---
 
 Officers of the provincial Guardia di Finanza command in Arezzo seized more than
-4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11,12,13,14] The two people stopped were one
+4 kg of hashish and arrested two people. [@1,5,6,7,8,9,10,11,12,13,14,15] The two people stopped were one
 Italian national and one Albanian national. [@2,3,4,5,7,8,10,12,13,14] Officers had flagged two
 anomalous postal parcels from Spain addressed to a city locker under false names
-of residents in Arezzo province. [@1,3,5,6,7,8,9,10,12,13,14] The two were stopped as they collected the
-parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8,13,14] After
+of residents in Arezzo province. [@1,3,5,6,7,8,9,10,12,13,14,15] The two were stopped as they collected the
+parcels, which concealed 4,140 grams of hashish that officers seized. [@1,4,5,6,7,8,13,14,15] After
 personal and home searches, officers arrested and reported both people for
 unlawful production, trafficking and possession of drugs, and both were placed
-under house arrest. [@1,3,4,5,6,7,10,12,13,14]
+under house arrest. [@1,3,4,5,6,7,10,12,13,14,15]
 
 The Arezzo group found the parcels by analysing the large daily volume of goods
 moved by private couriers, which can lend itself to fraudulent use. [@1,14]
