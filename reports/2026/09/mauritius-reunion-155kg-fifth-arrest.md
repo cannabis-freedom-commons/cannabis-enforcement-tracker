@@ -27,6 +27,9 @@ open_questions:
   - The new article rounds the Réunion seizure to 100 kilos and more than 100 kilos at Bras-Panon, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
   - The article does not state where in Mauritius the 31 July arrest took place.
   - The article's only image is labelled as an AFP illustration photo about a clinical trial, not a photo of this event, so no media entry is added.
+  - This account rounds the Réunion seizure to 100 kilos while charging conspiracy for about 156 kilos, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
+  - This article does not state where in Mauritius the 31 July arrest took place.
+  - The page's only relevant image is captioned generically about drug trafficking between Réunion and Mauritius and is not established to show this seizure or arrest, so no media entry is added.
 sources:
   - title: 'Trafic de 155,7 kg de cannabis sur l’axe La Réunion-Maurice : un cinquième suspect arrêté par l’ADSU'
     url: https://defimedia.info/trafic-de-1557-kg-de-cannabis-sur-laxe-la-reunion-maurice-un-cinquieme-suspect-arrete-par-ladsu
@@ -58,23 +61,28 @@ sources:
     publisher: Imaz Press Réunion
     date: 2026-08-01
     language: fr
+  - title: 'Trafic de cannabis entre La Réunion et Maurice : l''époux d''une ministre mauricienne arrêté'
+    url: https://www.linfo.re/ocean-indien/ile-maurice-rodrigues/trafic-de-cannabis-entre-la-reunion-et-maurice-l-epoux-d-une-ministre-mauricienne-arrete
+    publisher: LINFO.re
+    date: 2026-08-01
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
 of the island on Friday 4 September 2026 and placed him in detention. [@1]
 Investigators suspect he was an important link in an attempt to import 155.7 kg of
 cannabis, valued at Rs 234 million, from Réunion by sea over the weekend of 25 and
-26 July. [@1,2]
+26 July. [@1,2,7]
 
 The drug was seized on the Réunion side. Gendarmes found 157 kg of cannabis in a
 van at Bras-Panon, at the mouth of the Rivière du Mât, on Sunday 26 July, and
-arrested three people who were later placed in pre-trial detention. [@3,4,6] A fast
+arrested three people who were later placed in pre-trial detention. [@3,4,6,7] A fast
 boat that the gendarmerie had seen offshore was found the next day near Le Morne
 in Mauritius. [@4]
 
 In Mauritius, the ADSU arrested Yogajee Govind, known as Gulshan, at Chamarel on
 31 July, where police said he had four cannabis plants and a bottle of methadone.
-[@4,6] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
+[@4,6,7] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
 delegate for arts and culture. [@4,5,6] Ravindra Chimajee, 37, the suspected skipper,
 was arrested at a clinic in Baie-du-Tombeau. [@4,5]
 
@@ -90,3 +98,5 @@ Ramgoolam said she would stay, citing the presumption of innocence and saying
 there was no evidence she was involved. [@4]
 
 The political party of minister Véronique Leu-Govind said it was following the investigation and any resulting proceedings with the greatest attention. [@6]
+
+Presented on Saturday before the Port-Louis court, he was not released on bail after police cited a risk of reoffending, pressure on witnesses and tampering with evidence. [@7] In a statement published on Saturday, the Les Nouveaux Démocrates party, to which Véronique Leu-Govind belongs, acknowledged the arrest and recalled its fundamental attachment to the principle of presumption of innocence. [@7]
