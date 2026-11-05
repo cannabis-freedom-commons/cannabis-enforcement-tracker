@@ -41,27 +41,34 @@ sources:
     publisher: Aksiyon.com.tr
     date: 2026-11-05
     language: tr
+  - title: 'Manisa''da jandarmadan uyuşturucu operasyonu: 13 kilo esrar ele geçirildi'
+    url: https://www.iha.com.tr/manisa-haberleri/manisada-jandarmadan-uyusturucu-operasyonu-13-kilo-esrar-ele-gecirildi-511386045
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give the raid only as having happened the day before their 5 November 2026 publication, so 4 November 2026 is an inferred date.
   - No charges, custody ruling or court outcome were reported beyond the stated referral to the judicial authorities.
   - No separate breakdown of how much of the 13.2 kg was seized as prepared esrar and how much came from the 450 plants was published.
   - All three opened accounts carry the same İhlas Haber Ajansı text, so no independent account or official gendarmerie statement was found.
   - The page photo is captioned only with the headline and carries no photographer or agency credit, so it cannot be confirmed to show this seizure itself.
+  - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Gendarmerie teams raided a home in Selendi district in Manisa province and detained a 44-year-old man identified only as K.Y. on suspicion of producing and trading drugs.'
+  - 'Left out, as its quotation was not found in İhlas Haber Ajansı: The suspect was detained on the instruction of the public prosecutor and was due to be taken to the judicial authorities the day after the raid.'
+  - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Officers seized the drugs found at the address.'
 ---
 
 Gendarmerie teams raided a home in Selendi district in Manisa province and
 detained a 44-year-old man identified only as K.Y. on suspicion of producing and
 trading drugs. [@1] The search of the address turned up 13 kilos 200 grams of
 kubar esrar, a resin-rich grade of herbal cannabis, and 450 cannabis plants,
-described as kök kenevir. [@2]
+described as kök kenevir. [@2,4]
 
 The suspect was detained on the instruction of the public prosecutor and was due
 to be taken to the judicial authorities the day after the raid. [@1] The
 operation was carried out by teams of the Manisa provincial gendarmerie command
-and the Selendi district gendarmerie command after intelligence work. [@2] The
-gendarmerie acted on information that K.Y. was producing and trading drugs. [@3]
+and the Selendi district gendarmerie command after intelligence work. [@2,4] The
+gendarmerie acted on information that K.Y. was producing and trading drugs. [@3,4]
 Officers seized the drugs found at the address. [@3]
 
 The raid took place the day before the 5 November 2026 reports, which put the
-haul at 13.2 kilos of kubar esrar and the same 450 plants. [@3]
-
+haul at 13.2 kilos of kubar esrar and the same 450 plants. [@3,4]
