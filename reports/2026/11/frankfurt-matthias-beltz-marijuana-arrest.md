@@ -23,29 +23,39 @@ sources:
     publisher: tixio
     date: 2026-11-05
     language: de
+  - title: 'Polizei-News Frankfurt, 05.11.26: 1383 Frankfurt- Innenstadt - Dealer nach Handel mit Marihuana festgenommen'
+    url: https://www.news.de/lokales/860163076/blaulicht-news-polizei-einsatz-frankfurt-05-11-26-verstoss-gegen-das-betaeubungsmittelgesetz-heute/1/
+    publisher: news.de
+    date: 2026-11-05
+    language: de
+  - title: 'POL-F: 261105 - 1383 Frankfurt- Innenstadt: Dealer nach Handel mit Marihuana festgenommen'
+    url: https://www.presseportal.de/blaulicht/pm/4970/6384935
+    publisher: Polizeipräsidium Frankfurt am Main / Presseportal
+    date: 2026-11-05
+    language: de
 open_questions:
   - No weight was published for the seized marijuana and no exact cash sum was given, so no cannabis quantity or value can be recorded.
   - The report gives the arrest as Wednesday midday and the police announcement as Thursday, with publication on 5 November 2026, so 4 November 2026 is used as the incident date.
   - No second accessible report of this event was found after searching in German and English.
   - The page image is labelled as an archive handcuff-arrest photo, not this event, so no media entry is included.
   - No court outcome was reported; the investigation for suspected dealing was still pending.
+  - The Presseportal statement and the news.de reprint are the same Frankfurt police release, not an independent account.
 ---
 
 Frankfurt police arrested a suspected marijuana dealer at Matthias-Beltz-Platz
-in Frankfurt am Main, an arrest the Frankfurt police announced on Thursday. [@1]
+in Frankfurt am Main, an arrest the Frankfurt police announced on Thursday. [@1,2]
 The 35-year-old suspect had come to the officers' attention at midday on
-Wednesday when he was seen distributing his goods. [@1] The officers kept the
+Wednesday when he was seen distributing his goods. [@1,2] The officers kept the
 man under observation and then arrested him immediately. [@1] During the
 operation, investigators also discovered a hiding place in which the suspect was
-alleged to have stored his drugs. [@1]
+alleged to have stored his drugs. [@1,3]
 
 A subsequent search of the suspect's home found further small quantities of
 marijuana together with packaging material and cash in the low three-figure
-range. [@1] Police seized all of the marijuana, packaging material and cash
+range. [@1,3] Police seized all of the marijuana, packaging material and cash
 found during those searches. [@1]
 
 The 35-year-old was released again after the police measures had been completed.
-[@1] He must now answer on suspicion of dealing in a not insignificant quantity.
-[@1] The Frankfurt police are named as the authority that carried out the
-arrest, found the stash and conducted the home search. [@1]
-
+[@1,3] He must now answer on suspicion of dealing in a not insignificant quantity.
+[@1,2] The Frankfurt police are named as the authority that carried out the
+arrest, found the stash and conducted the home search. [@1,2]
