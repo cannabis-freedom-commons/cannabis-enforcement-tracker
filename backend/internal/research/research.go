@@ -780,6 +780,10 @@ type Runner struct {
 	// Check, when set, is offered to the agent as its check_result tool (local runner), so it
 	// can fix a rejected answer before it ends the run.
 	ResultCheck CheckFunc
+	// ContextMode is "inline" to give the agent its starting context directly (see inlineContext);
+	// anything else lets it read the workspace files itself.
+	ContextMode string
+	prompt      string
 	tool        *checkServer
 	resumeHome  string
 }
@@ -979,6 +983,9 @@ func (s *Session) Correct(ctx context.Context, run, problem string) (result Resu
 	if err := r.Store.StartRun(ctx, run, r.Config.ResearchModel, r.Config.ResearchRunner); err != nil {
 		return Result{}, err
 	}
+	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET context_mode=? WHERE id=?", r.contextMode(), run); err != nil {
+		return Result{}, err
+	}
 	if err := r.Store.AddAIEvent(ctx, s.cid, run, "user", "request", "The answer did not pass the service checks. Correct it in the same session using the sources already read: "+problem); err != nil {
 		return Result{}, err
 	}
@@ -1008,7 +1015,7 @@ func (r Runner) Resume(ctx context.Context, cid, dir, run string) (result Result
 		r.abandon(cid, run)
 		return Result{}, nil, err
 	}
-	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=? WHERE id=?", dir, run); err != nil {
+	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=?,context_mode=? WHERE id=?", dir, r.contextMode(), run); err != nil {
 		r.abandon(cid, run)
 		return Result{}, nil, err
 	}
@@ -1159,7 +1166,13 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	for name, b := range examples {
 		files["examples/"+name] = b
 	}
+	inline := r.ContextMode == "inline"
+	editorial := map[string][]byte{}
 	for _, path := range []string{"docs/CFI.md", "docs/WRITING.md", ".claude/skills/add-report/SKILL.md", ".claude/skills/find-reports/SKILL.md", ".opencode/agents/enforcement-researcher.md", "src/data/countries.json"} {
+		// The skills describe the interactive Markdown workflow; inline mode leaves them out.
+		if inline && strings.HasPrefix(path, ".claude/skills/") {
+			continue
+		}
 		b, err := os.ReadFile(filepath.Join(r.Config.RepoPath, path))
 		if err != nil {
 			return Result{}, nil, err
@@ -1178,6 +1191,18 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 			b = regexp.MustCompile(`(?m)^steps: \d+$`).ReplaceAll(b, []byte(fmt.Sprintf("steps: %d", r.Config.ResearchMaxSteps)))
 		}
 		files[path] = b
+		editorial[path] = b
+	}
+	if inline {
+		agent, err := inlineInstructions(editorial[".opencode/agents/enforcement-researcher.md"], editorial["docs/CFI.md"], editorial["docs/WRITING.md"])
+		if err != nil {
+			return Result{}, nil, err
+		}
+		files[".opencode/agents/enforcement-researcher.md"] = agent
+		r.prompt = inlineContext(request, files, e, text)
+	}
+	if _, err = r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET context_mode=? WHERE id=?", r.contextMode(), run); err != nil {
+		return Result{}, nil, err
 	}
 	files["opencode.json"] = r.modelConfig()
 	for path, b := range files {

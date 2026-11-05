@@ -13,6 +13,7 @@ import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/worker"
+	"io"
 	"log/slog"
 	"net"
 	"net/http"
@@ -39,6 +40,7 @@ func run() error {
 	reportSlug := flag.String("report-slug", "", "Existing report slug for a duplicate resolution")
 	backup := flag.String("backup", "", "Write an online SQLite backup to a new file, then exit")
 	retry := flag.String("retry", "", "Retry dead jobs/outbox for a submission ID, then exit")
+	compareContext := flag.Bool("compare-context", false, "Compare research by starting-context mode (RESEARCH_CONTEXT), then exit")
 	pruneJobs := flag.Bool("prune-jobs", false, "Clean disposable job workspaces and expired job logs, preserving sources and active jobs, then exit")
 	flag.Parse()
 	if *keygen != "" {
@@ -73,6 +75,20 @@ func run() error {
 		if snapshot.Status != "ready" {
 			return errors.New(snapshot.Message)
 		}
+		return nil
+	}
+
+	if *compareContext {
+		s, err := store.Open(c.Database)
+		if err != nil {
+			return err
+		}
+		defer s.DB.Close()
+		stats, err := s.CompareContext(context.Background())
+		if err != nil {
+			return err
+		}
+		printContextComparison(os.Stdout, stats)
 		return nil
 	}
 
@@ -276,4 +292,21 @@ func checkAgents(ctx context.Context, c config.Config, s *store.Store, health *r
 		}()
 	}
 	wg.Wait()
+}
+
+func printContextComparison(w io.Writer, stats []store.ContextStats) {
+	if len(stats) == 0 {
+		fmt.Fprintln(w, "No research runs with a recorded context mode yet.")
+		return
+	}
+	fmt.Fprintf(w, "%-7s %6s %9s %11s %11s %13s %10s %9s %10s %10s %8s\n", "mode", "cases", "runs/case", "1st steps", "1st secs", "1st ctx tok", "1st out", "$/case", "corrected", "committed", "failed")
+	for _, s := range stats {
+		pct := func(n int) string { return fmt.Sprintf("%.0f%%", 100*float64(n)/float64(s.Cases)) }
+		fmt.Fprintf(w, "%-7s %6d %9.2f %11.0f %11.0f %13.0f %10.0f %9.3f %10s %10s %8s\n", s.Mode, s.Cases, float64(s.Runs)/float64(s.Cases), s.FirstSteps, s.FirstSeconds, s.FirstContextTokens, s.FirstOut, s.CostPerCase, pct(s.Corrected), pct(s.Committed), pct(s.Rejected))
+	}
+	fmt.Fprintln(w, "\n1st = the case's first run, when it completed (steps and seconds are medians, tokens means).")
+	fmt.Fprintln(w, "corrected = the case needed a correction after the service rejected an answer.")
+	for _, s := range stats {
+		fmt.Fprintf(w, "%s outcomes: %v\n", s.Mode, s.Statuses)
+	}
 }

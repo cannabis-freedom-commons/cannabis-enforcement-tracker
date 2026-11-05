@@ -392,7 +392,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				_ = w.Store.AddAIEvent(end, j.Ref, run, "system", "error", "The research workspace could not be prepared. The worker will retry automatically.")
 			}
 		}()
-		runner := research.Runner{Config: w.Config, Store: w.Store}
+		runner := research.Runner{Config: w.Config, Store: w.Store, ContextMode: research.ContextModeFor(w.Config.ResearchContext, j.Ref)}
 		if checkpoint.ReviewCoverage {
 			runner.PreviousResult = &checkpoint.Result
 			runner.PreviousEvidence = checkpoint.Evidence

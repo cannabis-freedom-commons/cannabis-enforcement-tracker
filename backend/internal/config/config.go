@@ -47,6 +47,7 @@ type Config struct {
 	JobLogRetention                                                             time.Duration
 	ResearchMaxSteps                                                            int     // model steps a research run may take before it must answer
 	ResearchWebSearch                                                           string  // the search service OpenCode 2 uses: exa, parallel, firecrawl, tavily, tinyfish or random
+	ResearchContext                                                             string  // how the agent gets its starting context: files, inline, or ab (half each, by case)
 	PlanUSD, PlanAllowanceUSD                                                   float64 // a subscription: its monthly price and the model usage it includes, at API prices
 	RunCents, DailyCents                                                        int
 	GitHubAppID, GitHubInstallationID, GitHubKeyFile, GitHubRepo, WebhookSecret string
@@ -220,6 +221,10 @@ func Load() (Config, error) {
 	c.ResearchWebSearch = env("RESEARCH_WEBSEARCH", "exa")
 	if !strings.Contains("|exa|parallel|firecrawl|tavily|tinyfish|random|", "|"+c.ResearchWebSearch+"|") {
 		return c, errors.New("invalid web search provider (exa, parallel, firecrawl, tavily, tinyfish or random)")
+	}
+	c.ResearchContext = env("RESEARCH_CONTEXT", "ab")
+	if c.ResearchContext != "files" && c.ResearchContext != "inline" && c.ResearchContext != "ab" {
+		return c, errors.New("RESEARCH_CONTEXT must be files, inline or ab")
 	}
 	c.RunCents, err = strconv.Atoi(env("RESEARCH_RUN_CENTS", "100"))
 	if err != nil || c.RunCents < 1 {
