@@ -24,6 +24,16 @@ sources:
     publisher: Cridem (from Elhourriya)
     date: 2015-10-22
     language: fr
+  - title: Saisie de chanvre indien à la frontière mauritano-malienne
+    url: https://cridem.org/imprimable.php?article=676733
+    publisher: Cridem (from Agence de Presse Africaine)
+    date: 2015-10-23
+    language: fr
+  - title: 'Mauritanie : Saisie de cannabis en provenance du Mali'
+    url: https://www.tumblr.com/maliweb-malijet/131736870134/mauritanie-saisie-de-cannabis-en-provenance-du
+    publisher: Maliweb / Malijet (Tumblr archive)
+    date: 2015-10-23
+    language: fr
 open_questions:
   - No arrest figure was published; the parcel's sender was unidentified and the report does not say whether the driver Zeini or anyone else was detained.
   - The report gives no details of where the Kouki Zemal crossing point lies or which border it serves, and no map could be opened to confirm the exact location.
@@ -31,6 +41,7 @@ open_questions:
   - Only one openable account was found, a Cridem translation of Elhourriya; Elhourriya's original Arabic page returned an error when opened.
   - The 21 October date is derived from the report's wording that the seizure was on Wednesday, with the article published 22 October 2015.
   - The photo on the page is captioned with only the weight of the seized load, so it is listed as a media link but cannot be confirmed to show this parcel specifically.
+  - The APA account gives about 20 kg at an unnamed Mali-border post, while the existing Elhourriya-derived account gives 18 kg at Kouki Zemal; the reports do not clarify whether the difference is rounding or a different nearby seizure.
 ---
 
 Mauritanian police seized 18 kg of Indian hemp, the local name for cannabis, on
@@ -44,8 +55,9 @@ officials to the crossing to negotiate letting the bus continue its route, and
 the mission included a security officer, according to sources. [@1]
 
 The sender of the parcel had not yet been identified, and the report names no
-one charged in the case. [@1]
+one charged in the case. [@1,3]
 
 The account was translated from Arabic by the Mauritanian news portal Cridem,
 which credits the Mauritanian outlet Elhourriya for the original report. [@1]
 
+The African Press Agency described a Wednesday-evening seizure of about 20 kg of chanvre indien at a frontier post with Mali. [@2] The African Press Agency said the drug was hidden in luggage aboard a private company's Nouakchott–Bamako bus. [@2] The bus driver told police he knew nothing about the parcel. [@2]
