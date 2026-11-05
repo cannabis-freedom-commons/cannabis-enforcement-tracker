@@ -41,6 +41,11 @@ sources:
     url: https://www.socialnews.xyz/2026/11/04/mp-police-seize-over-11600-kg-cannabis-plants-worth-rs-30-crore-in-four-districts/
     publisher: Social News XYZ
     date: 2026-11-04
+  - title: मप्र पुलिस की बड़ी कार्रवाई, 3 दिन में 30 करोड़ से अधिक के 11,669 किलो गांजे के पौधे जब्त
+    url: https://vocaltv.in/national/mp-police-seize-11669-kg-of-cannabis-plants-worth-php/cid19492344.htm
+    publisher: Vocal TV
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
@@ -70,8 +75,8 @@ field owner Bhuru alias Rajesh. [@1] Police registered cases against both men
 and started an investigation. [@1,2,3]
 
 Officers uprooted and seized a total of 221 green ganja plants with a combined
-weight of 295.700 kilograms. [@1,2] Police put the estimated value of the seized
-plants at 29 lakh 57 thousand rupees. [@1,3,4] The plants were growing among cotton
+weight of 295.700 kilograms. [@1,2,5] Police put the estimated value of the seized
+plants at 29 lakh 57 thousand rupees. [@1,3,4,5] The plants were growing among cotton
 and tuar crops in both fields. [@1,2,3] The first field yielded about 110 plants
 weighing 195.361 kilograms. [@1,2] The second field yielded 111 plants weighing
 about 100.339 kilograms. [@1]
