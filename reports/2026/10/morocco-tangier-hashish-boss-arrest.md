@@ -100,6 +100,11 @@ sources:
     url: https://www.surinenglish.com/malaga/mobile-phone-provider-20261028000500-nt.html
     publisher: Sur in English
     date: 2026-10-29
+  - title: مورينو.. زعيم عصابة إسبانية أسقطته 10 أطنان حشيش بالمغرب
+    url: https://www.okaz.com.sa/variety/na/2273029
+    publisher: عكاظ
+    date: 2026-10-29
+    language: ar
 open_questions:
   - >-
     Barlamane and El Diario de Málaga report 18 detainees in pre-trial detention; La Vanguardia says 'almost
@@ -157,9 +162,10 @@ open_questions:
   - Sur in English calls the company that paid the leader a salary a printing company, while the report describes a graphics company; the report keeps its own wording.
   - The article's 'more than ten tonnes a month' is a stated trafficking capacity, not a seizure tally, so it is left out of the report's figures.
   - 'No media entry is added: the page''s only image carries just the credit ''(Policía Nacional)'' and no caption saying what it shows.'
+  - Okaz places Moreno's fictitious monthly salary at no more than €5,000 at a printing company, while the existing report records more than €5,000 net from a graphics company; the amounts and company descriptions differ.
 ---
 
-Authorities arrested an alleged Spanish hashish-network leader known as Moreno in Tangier. [@1,2,3,4,5,6,7,8,9,10,11]
+Authorities arrested an alleged Spanish hashish-network leader known as Moreno in Tangier. [@1,2,3,4,5,6,7,8,9,10,11,13]
 
 Spain's National Police announced on 27 October that Juan Carlos T. B., alias
 'Moreno', one of Spain's main cannabis resin traffickers, had been arrested in
@@ -169,7 +175,7 @@ detained him in Tangier on 8 October through international police cooperation.
 [@3,8] He is held in Morocco awaiting extradition to Spain. [@1,4,5,7,8,12] Rabat has
 accepted the extradition request. [@3]
 
-The police operation concluded with 86 arrests. [@2,4,5,7,8] Eighteen of them were
+The police operation concluded with 86 arrests. [@2,4,5,7,8,13] Eighteen of them were
 placed in pre-trial detention, accused of criminal organisation, drug
 trafficking and money laundering. [@1] UDYCO, Spain's central unit for drugs and
 organised crime, opened the case in early 2025. [@1] It uncovered seven drug
@@ -203,3 +209,5 @@ The final phase of the operation involved 33 searches across several Spanish reg
 Police also seized about €466,000 in cash. [@4]
 
 In Malaga province, a business owner who ran several spy equipment shops supplied the network's leaders with smartphones carrying specialist encryption software. [@12] The encrypted devices let the leaders coordinate individual drug shipments while trying to stay beyond investigators' reach. [@12] Officers also searched an industrial warehouse owned by the businessman in Malaga and found no illegal substances there, the police commander said. [@12] Another suspect arrested in Malaga province was a lorry driver who received hashish shipments when they came ashore along the Andalusian coast. [@12] He moved the drugs to the network's central stash houses in Madrid in articulated lorries and large vans fitted with concealed compartments. [@12] Police also arrested the driver's son after finding drugs during a search of their home. [@12] Fishing boats working from ports such as Garrucha in Almeria collected hashish bales from high-speed smuggling boats and brought them discreetly into port. [@12] Police described a network capable of moving more than ten tonnes of hashish a month while staying under their radar. [@12] The ringleader was a veteran Madrid drug trafficker born in Alcobendas in 1961 and already known to police. [@12] He kept direct lines to suppliers in Morocco, financed sea transport and rented stash houses in other people's names, and paid lawyers' fees when members of the organisation were arrested. [@12] Inspectors said he spent as much as 8,000 euros on suits, ate in luxury restaurants three times a day and employed personal trainers. [@12] To bring home the profits from drug sales in Germany, he allegedly used the hawala informal money-transfer system through a Syrian intermediary in Madrid. [@12] He owned luxury villas in La Moraleja, near Madrid, and in Ibiza through companies registered in his name. [@12] The National Police expect to make further arrests. [@12]
+
+The network began to unravel in 2025 after security agencies monitored Moreno's encrypted communications. [@13] Okaz reported that Moreno received a fictitious monthly salary of no more than €5,000 from a printing company he never visited. [@13]
