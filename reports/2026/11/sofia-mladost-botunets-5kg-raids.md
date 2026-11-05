@@ -20,6 +20,31 @@ media:
     media_url: https://burgasmedia.com/uploads/images/img_6aeb4980b94403.19718591.webp
     publisher: BurgasMedia
     caption: 'Police photo of the Sofia raids published with the report. Photo: МВР България'
+  - kind: photo
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    media_url: https://www.mvr.bg/upload/346175/3.jpg?w=1300
+    publisher: Министерство на вътрешните работи (MVR)
+    caption: 'Interior Ministry photo published with its statement on the Sofia raids. Photo: МВР България'
+  - kind: photo
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    media_url: https://www.mvr.bg/upload/346176/4.jpg?w=320
+    publisher: Министерство на вътрешните работи (MVR)
+    caption: 'Interior Ministry photo published with its statement on the Sofia raids. Photo: МВР България'
+  - kind: photo
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    media_url: https://www.mvr.bg/upload/346177/6.jpg?w=320
+    publisher: Министерство на вътрешните работи (MVR)
+    caption: 'Interior Ministry photo published with its statement on the Sofia raids. Photo: МВР България'
+  - kind: photo
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    media_url: https://www.mvr.bg/upload/346179/8.jpg?w=320
+    publisher: Министерство на вътрешните работи (MVR)
+    caption: 'Interior Ministry photo published with its statement on the Sofia raids. Photo: МВР България'
+  - kind: photo
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    media_url: https://www.mvr.bg/upload/346180/qw.jpg?w=320
+    publisher: Министерство на вътрешните работи (MVR)
+    caption: 'Interior Ministry photo published with its statement on the Sofia raids. Photo: МВР България'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 12c69b4a6e8cab18829195205b8963d1
@@ -43,6 +68,16 @@ sources:
     publisher: NOVA
     date: 2026-11-04
     language: bg
+  - title: СДВР задържа трима мъже в акции срещу наркоразпространението
+    url: https://www.mvr.bg/press/актуална-информация/актуална-информация/новини/94221
+    publisher: Министерство на вътрешните работи
+    date: 2026-11-04
+    language: bg
+  - title: СДВР е задържала трима души за разпространение наркотици
+    url: https://www.dnes.bg/a/6-krimi/741212-sdvr-e-zadarzhala-trima-dushi-za-razprostranenie-narkotitsi
+    publisher: Dnes.bg
+    date: 2026-11-04
+    language: bg
 open_questions:
   - The article gives no separate date for the Botunets stop, describing it as about 10.30pm last night relative to its 4 November 2026 publication; 3 November 2026 is used as the incident date for the whole operation.
   - No net or laboratory weight was published; the cannabis total is reported only as more than 5 kg and about 5 kg, so 5 kg is recorded as the stated figure.
@@ -57,6 +92,15 @@ open_questions:
   - NOVA reports a total of 130 grams from the first Mladost address while the submitted source reports about 60 grams there, so the exact amount for that address remains unresolved.
   - NOVA reports 4.3 kg of marijuana plus 150 grams of hashish oil in the second Mladost flat while the submitted source reports about 5 kg overall and an unweighed resinous slab, so the exact split remains unresolved.
   - The monthly aggregate of 37 persons sent to court and drugs worth over 1.1 million euro mentioned in the same briefings is a separate statistic left out of this event.
+  - The court's decision on permanent custody for the two charged Mladost men was due the next day but its outcome is not reported in these sources.
+  - No hearing or court outcome has been reported from the pre-trial proceedings opened over the Botunets seizure.
+  - 'Left out, as its quotation was not found in BurgasMedia: Police detained three men in raids on alleged drug dealers in Sofia''s Mladost and Botunets districts.'
+  - 'Left out, as its quotation was not found in BurgasMedia: On 3 November, officers from SDVR''s Specialised Police Forces unit checked a 26-year-old man in Mladost 2.'
+  - 'Left out, as its quotation was not found in BurgasMedia: The 26-year-old has a criminal record and a conviction for drug dealing and is serving a suspended sentence.'
+  - 'Left out, as its quotation was not found in BurgasMedia: A second raid in Mladost was carried out by the same unit together with SDVR''s Narcotics section, which detained a 33-year-old man who rents a home in the district.'
+  - 'Left out, as its quotation was not found in Министерство на вътрешните работи: In Botunets at about 10.30pm, patrol officers from the Fifth District Police Department stopped a man on an electric scooter.'
+  - 'Left out, as its quotation was not found in Dnes.bg: Police said they found the second dealer through the 26-year-old and that the 33-year-old told them he was spending his proceeds on renovating another Sofia flat.'
+  - 'Left out, as its quotation was not found in Dnes.bg: Police said the 26-year-old is known for thefts, has served an effective sentence for drug possession and was now breaching a suspended sentence for drug offences.'
 ---
 
 Police detained three men in raids on alleged drug dealers in Sofia's Mladost
@@ -68,23 +112,25 @@ unit together with SDVR's Narcotics section, which detained a 33-year-old man
 who rents a home in the district. [@1] In Botunets at about 10.30pm, patrol
 officers from the Fifth District Police Department stopped a man on an electric
 scooter. [@1,4] Officers found plastic bags of green plant matter on the man and
-in a hollow in the scooter's handlebar, which he said was marijuana. [@1] Both
+in a hollow in the scooter's handlebar, which he said was marijuana. [@1,5] Both
 Mladost men were first held for up to 24 hours and then ordered held in custody
 for up to 72 hours after police reported to the Sofia City Prosecutor's Office.
-[@1]
+[@1,5]
 
-Police seized more than 5 kg of marijuana in the raids. [@1,2] Searches at two
+Police seized more than 5 kg of marijuana in the raids. [@1,2,5] Searches at two
 addresses in Mladost turned up about 5 kg of marijuana and 0.5 grams of cocaine.
-[@1] A search at one Mladost address turned up electronic scales and a jar of
-plant matter, with the marijuana there weighing about 60 grams. [@1] At the
+[@1,5] A search at one Mladost address turned up electronic scales and a jar of
+plant matter, with the marijuana there weighing about 60 grams. [@1,5] At the
 second Mladost home, officers found about €1,700, two working electronic scales
-and a vacuum machine. [@1] They also found many bags of plant matter, a slab of
+and a vacuum machine. [@1,5] They also found many bags of plant matter, a slab of
 resinous substance and a zip bag of white lumpy substance, plus three mobile
 phones and a fake ID document. [@1] At the Botunets man's home, police seized 35
-plastic bags of green plant matter and electronic scales. [@1]
+plastic bags of green plant matter and electronic scales. [@1,5]
 
 Investigators say the 33-year-old sold large amounts of drugs in Sofia, has a
 conviction for possessing drugs for sale and is known to the Interior Ministry
-for offences under Articles 216, 195 and 354a. [@1]
+for offences under Articles 216, 195 and 354a. [@1,5]
 
-The first two detained men have been formally charged with possession for distribution, the second also with a document offence. [@3] Police found 4.3 kg of marijuana plus 150 grams of hashish prepared as oil with a marijuana smell in the second Mladost flat. [@4]
+The first two detained men have been formally charged with possession for distribution, the second also with a document offence. [@3,6] Police found 4.3 kg of marijuana plus 150 grams of hashish prepared as oil with a marijuana smell in the second Mladost flat. [@4]
+
+The 33-year-old rented the flat using the fake ID document. [@6] Sofia City Prosecutor's Office spokesman Nikolay Nikolaev said the two charged men face one to six years in prison and a fine of 5,000 to 20,000 Bulgarian leva. [@6] The two Mladost men were held for 72 hours and a Sofia court was due to decide the next day on a permanent custody order. [@6] The third man, from Botunets, was known to police for drug offences but had not served a prison sentence. [@6] The Sofia City Prosecutor's Office had sent 37 people to court for drug dealing in the past month, with the drugs in those cases valued at over €1,113,000. [@6]
