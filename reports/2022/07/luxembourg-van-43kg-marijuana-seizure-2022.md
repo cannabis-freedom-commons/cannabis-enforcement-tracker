@@ -1,0 +1,57 @@
+---
+code: S0QMQ6
+added_at: "2026-11-05T06:19:53.730143Z"
+date: 2022-07-22
+country: lu
+place: Luxembourg
+coordinates: [49.6117, 6.13]
+precision: country
+type: seizure
+also: [arrest]
+title: 43 kg marijuana seized in Luxembourg in Spain-Germany ring
+summary: >-
+  Luxembourg police stopped a van in mid-May 2022 and seized 43 kg of marijuana in a Wuppertal-led probe of Spain-to-Germany smuggling via five countries. One suspect with a false German ID is in custody in Luxembourg while two others arrested under a European warrant face transfer to Germany.
+figures:
+  arrested: 3
+  kg_seized: 43
+media:
+  - kind: photo
+    url: https://www.luxtimes.lu/luxembourg/police-seize-marijuana-smuggled-by-criminal-network/1339839.html
+    media_url: https://img.luxtimes.lu/public/luxembourg/g6s0y1-around-43kg-of-marijuana-was-found-in-a-van-in-luxembourg/alternates/SIXTEEN_NINE_960/Around%2043kg%20of%20marijuana%20was%20found%20in%20a%20van%20in%20Luxembourg
+    publisher: Luxembourg Times
+    caption: 'Photo of the 43 kg of marijuana found in a van in Luxembourg. Photo: Polizei Wuppertal'
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 5c19f582a55be3910835014326cf698f
+tags: [luxembourg, marijuana, wuppertal]
+sources:
+  - title: Police seize marijuana smuggled by criminal network
+    url: https://www.luxtimes.lu/luxembourg/police-seize-marijuana-smuggled-by-criminal-network/1339839.html
+    publisher: Luxembourg Times
+    date: 2022-07-22
+open_questions:
+  - The van was stopped in mid-May 2022 but no exact day was given; 22 July 2022 is the article's publication date used here.
+  - The names, ages and nationalities of the three suspects were not published, beyond that one showed a false German ID card.
+  - No charge, hearing date or court outcome was reported; one suspect was in custody awaiting court and two awaited transfer to Germany.
+  - Only one opened source supports this report; the cited Wuppertal police statement and prosecutor comments were not opened separately.
+  - National 2021 seizure totals and proposed cannabis home-grow rules in the same article are a separate context and are left out here.
+---
+
+Luxembourg police, working with officers in France and Germany, stopped a van in
+Luxembourg in mid-May 2022. [@1] One suspect who showed officers a false German
+ID card is in custody in Luxembourg and waiting to appear before the courts.
+[@1] Two other suspects were arrested after a European arrest warrant was issued
+and are due to be transferred to Germany. [@1]
+
+The van was carrying 43kg of marijuana. [@1] German police said Luxembourg
+police seized more than 40kg of marijuana after a year-long investigation into a
+cross-border drug smuggling ring. [@1] Wuppertal police said the van was
+carrying the 43kg load and issued a first statement on the case on Thursday.
+[@1] A spokesperson for Luxembourg's public prosecutor said on Thursday that the
+van had been stopped in mid-May. [@1]
+
+The investigation was led by police in the Wuppertal area of Germany, near
+Dusseldorf. [@1] The investigation targeted people suspected of smuggling
+marijuana from Spain to Germany via Luxembourg, France, Belgium and the
+Netherlands. [@1]
+
