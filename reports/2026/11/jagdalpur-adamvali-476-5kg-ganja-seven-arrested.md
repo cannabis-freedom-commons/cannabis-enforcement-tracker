@@ -38,12 +38,19 @@ sources:
     publisher: Haribhoomi
     date: 2026-11-05
     language: hi
+  - title: नशे के खिलाफ पुलिस की बड़ी कार्रवाई, दो करोड़ से ज्यादा का गांजा, पिकअप और बाइक जब्त, 7 तस्कर गिरफ्तार
+    url: https://lalluram.com/major-police-crackdown-on-drugs-over-20-million-rupees-worth-of-cannabis-seized-7-traffickers-arrested/
+    publisher: Lalluram
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
   - Amar Ujala gives the consignment as 476 kg and Haribhoomi as 476 kg 500 g; the report uses Haribhoomi's more precise weight.
   - The articles do not give the time of day of the interception or the case number.
   - The Amar Ujala photo is captioned as a symbolic picture, so no media entry is included from it.
+  - Lalluram reports 476 kg, while the existing report retains Haribhoomi's more precise figure of 476.5 kg.
+  - Lalluram's image has no caption or descriptive alt text establishing that it shows this seizure, so it is not added as event media.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
@@ -69,16 +76,15 @@ and Psychotropic Substances Act, and the accused were being produced before a
 court. [@2]
 
 Police said Bastar police acted against drug trafficking and arrested seven
-traffickers there. [@1]
+traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
 rupees, in line with the more precise figure. [@1] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1] Officers seized a Tata pickup and a
-motorcycle used in the smuggling at the scene. [@1] Jagdalpur police sealed off
+from Odisha toward Uttar Pradesh. [@1,3] Officers seized a Tata pickup and a
+motorcycle used in the smuggling at the scene. [@1,3] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1]
 
 Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
 Uttar Pradesh. [@1]
-
