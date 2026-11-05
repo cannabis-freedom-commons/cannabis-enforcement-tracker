@@ -62,6 +62,11 @@ sources:
     publisher: Kupastuntas.co
     date: '2026-11-04'
     language: id
+  - title: Polisi Ungkap 5 Kasus Narkoba, Sita Ganja hingga Ekstasi Senilai Rp125,12 Miliar
+    url: https://www.metrotvnews.com/read/bD2C8AJ9-polisi-ungkap-5-kasus-narkoba-sita-ganja-hingga-ekstasi-senilai-rp125-12-miliar
+    publisher: Metrotvnews.com
+    date: 2026-11-05
+    language: id
 open_questions:
   - >-
     The seizures occurred during October 2026 and were announced on 4 November 2026; 4 November 2026 is used
@@ -95,12 +100,14 @@ open_questions:
   - >-
     No case-by-case seizure places are published beyond the joint Polda Lampung and South Lampung operation
     and the Medan-Bandung route via Bakauheni.
+  - The submitted article dates the police statement to Thursday, 5 November 2026, while the existing report uses a 4 November 2026 press conference as the incident date; whether these are successive announcements of the same October operation is not resolved.
+  - The submitted page's images are captioned only with the police chief's name and a generic October-case headline credited as Istimewa, so no photo can be confirmed to show this seizure and no media entry is listed.
 ---
 
 Lampung police reported ten suspects detained in five October cases and 33.1 kilograms of cannabis seized. [@1,2,3,4]
 
 Lampung police broke up five highlighted narcotics cases during October 2026.
-[@2,4] Officers detained 10 suspects in those cases. [@2,4] A second outlet confirms
+[@2,4,5] Officers detained 10 suspects in those cases. [@2,4,5] A second outlet confirms
 the same October operation involved 10 suspects and the same drug totals. [@3]
 Provincial police chief Brig. Gen. Yustan Alpiani announced the results at a
 press conference at Lampung police headquarters on 4 November 2026. [@2,4] The
@@ -110,9 +117,9 @@ Criminal Code and penalty-adjustment laws. [@2]
 
 The cannabis component of the seizure was 33.1 kilograms of ganja, reported
 alongside 61.9 kilograms of methamphetamine, 19,696 ecstasy pills and 2,143
-etomidate pills. [@2,4] Police put the total economic value of all seized evidence
-at Rp125,123,200,000, or more than Rp125 billion. [@2,4] Yustan claimed the seized
-narcotics could save about 429,683 people from potential drug abuse. [@2,4]
+etomidate pills. [@2,4,5] Police put the total economic value of all seized evidence
+at Rp125,123,200,000, or more than Rp125 billion. [@2,4,5] Yustan claimed the seized
+narcotics could save about 429,683 people from potential drug abuse. [@2,4,5]
 
 Investigators said the network moved narcotics from Medan, North Sumatra, to
 Bandung, West Java, through Bakauheni Port in South Lampung. [@2] Police
