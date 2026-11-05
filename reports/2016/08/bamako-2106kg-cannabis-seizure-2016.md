@@ -36,6 +36,16 @@ sources:
     publisher: BBC News Afrique
     date: 2016-08-17
     language: fr
+  - title: 'Mali : la douane saisit deux tonnes de cannabis en provenance du Burkina Faso'
+    url: https://www.jeuneafrique.com/349830/politique/mali-saisie-de-deux-tonnes-de-cannabis-provenance-burkina-faso/
+    publisher: Jeune Afrique
+    date: 2016-08-17
+    language: fr
+  - title: 'Des cannabis d’une valeur de 3,5 milliards: Un joli coup de filet de la BMI de Douanes à Zantiguila'
+    url: https://bamada.net/des-cannabis-dune-valeur-de-35-milliards-un-joli-coup-de-filet-de-la-bmi-de-douanes-zantiguila
+    publisher: Bamada.net
+    date: 2016-08-24
+    language: fr
 open_questions:
   - The number and names of the traffickers arrested were not published.
   - No charges, custody status or court outcome were reported.
@@ -52,6 +62,16 @@ open_questions:
   - The BBC account gives no number of traffickers, names, charges or court outcome.
   - The BBC image is captioned only Traitement cannabis and is not established to show this seizure, so no media entry is included.
   - The BBC mention of a separate large cannabis seizure at Bamako airport the previous week is a different event left out here.
+  - Bamada.net reports that the truck driver was arrested in handcuffs and taken before the prosecutor, while the VOA account behind the existing report gives no procedural step after the arrest; the reports do not say what charge or court followed.
+  - Bamada.net mistakenly dates the operation to Tuesday 16 August, which is the second night of the 15-16 August interception named by the other accounts.
+  - Bamada.net says the BMI chief is named Abdrahamane Diakité, while the other accounts name him Ibrahim or Ibrahima Diakité.
+  - Bamada.net states a single figure of about 1,554 kg appearing to describe the stock held at Sébénicoro, separate from the 2,106 kg truck load, so it is not counted as cannabis seized in this seizure.
+  - Bamada.net also mentions a separate drug network dismantled by officers of Bamako's 9th arrondissement, a different event left out here.
+  - Le360 says the traffickers moved such loads two to three times a month, while the customs chief quoted elsewhere said once or twice a month; the existing report's figure is kept.
+  - The Jeune Afrique photograph shows cannabis plants in a generic File photo credited to a Flickr user and is not established to depict this seizure, so no media entry is added.
+  - The Bamada.net page carries a photo captioned as an Algerian gendarmerie cannabis seizure and does not show this event, so no media entry is added.
+  - The Le360 page image is credited only DR and is not established to show this seizure, so no media entry is added.
+  - 'Left out, as its quotation was not found in Bamada.net: One of the arrested men was the truck''s driver, who had been placed in handcuffs.'
 ---
 
 Mali's customs Mobile Intervention Brigade (BMI), the customs' mobile
@@ -63,15 +83,17 @@ from Bamako, when BMI agents found the carefully hidden load. [@1]
 
 Officers at the Zantiguila post detected an approximately one-metre-deep cache
 built into the floor of the vehicle because its exterior and interior lengths
-did not match. [@1,2,3] The seizure comprised 1,254 bricks of cannabis weighing
-2,106.88 kg as weighed by BMI agents. [@1,2] Customs put the market value of the
-load at 3.5 billion FCFA. [@1,2] Customs chief Ibrahima Diakité called it the
-largest drug seizure yet by the Malian customs administration. [@1,2,3]
+did not match. [@1,2,3,4] The seizure comprised 1,254 bricks of cannabis weighing
+2,106.88 kg as weighed by BMI agents. [@1,2,4] Customs put the market value of the
+load at 3.5 billion FCFA. [@1,2,4] Customs chief Ibrahima Diakité called it the
+largest drug seizure yet by the Malian customs administration. [@1,2,3,4]
 
-The cannabis had been loaded in the Bobo Dioulasso sector in Burkina Faso. [@1,2,3]
-The load was destined notably for Senegal and Guinea. [@1,2,3] A stock was deposited
+The cannabis had been loaded in the Bobo Dioulasso sector in Burkina Faso. [@1,2,3,4]
+The load was destined notably for Senegal and Guinea. [@1,2,3,4] A stock was deposited
 at Sebénicoro to supply Guinea-Conakry and Senegal. [@1,2] People familiar with
 the practice said such quantities were transported once or twice a month from
-Burkina Faso. [@1]
+Burkina Faso. [@1,4]
 
-Four suspected traffickers were arrested. [@2]
+Four suspected traffickers were arrested. [@2,4]
+
+The driver was taken before the prosecutor. [@5]
