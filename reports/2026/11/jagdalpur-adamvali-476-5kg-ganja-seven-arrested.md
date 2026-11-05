@@ -58,6 +58,11 @@ sources:
     publisher: CGKhabar
     date: 2026-11-05
     language: hi
+  - title: इंटरस्टेट गांजा तस्करी का भंडाफोड़, 2 करोड़ 38 लाख का गांजा जब्त, बोधघाट पुलिस की बड़ी कार्रवाई
+    url: https://www.etvbharat.com/hi/state/ganja-worth-crores-seized-in-bastar-hemp-smuggling-under-supervision-of-bike-in-bodhghat-cts26110505590
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -71,12 +76,19 @@ open_questions:
   - CGKhabar does not give the Adamvali crossing location, sack and packet count, phones, cash, NDPS section or court-production detail, which continue to rest on earlier sources.
   - The article gives no separate interception time and 5 November 2026 is its publication date, which the existing report uses as the incident date.
   - The page image is captioned POlice Van- Symbolic Photo and is not shown to depict this seizure, so no media entry is included.
+  - Bhaskar cites NDPS section 20(b)(ii)(C) while ETV Bharat and the existing report cite 20(b)(iii)(C); the existing section is retained.
+  - Bhaskar names the ASP as Sukhnandan Singh while ETV Bharat and the existing report name Sukhnandan Rathore.
+  - Bhaskar's 884 kg 410 g and 5.92-crore total and its Kanker 70-sack and Keshkal 407.910-kg accounts describe separate actions in other districts and are left out of this Jagdalpur report.
+  - The page images do not clearly depict this interception, with captions describing the combined total, a police briefing and the separate Keshkal seizure, so no media entry is added.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The cannabis was being taken from Odisha toward Uttar Pradesh.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The intercepted white pickup bore registration number CG 17 KL 0411.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The seized escort motorcycle bore registration number OD 30 B 6256.'
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
-Chitrasen Gallauri, 22. [@2] All seven come from Kantamadi village in the
+Chitrasen Gallauri, 22. [@2,7] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2] Haribhoomi
 called the seizure the largest action Bastar police have taken this year. [@2]
 
@@ -86,7 +98,7 @@ set up a blockade near Adamvali railway crossing. [@2,5] Officers saw two young
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2] The pickup held
 450 packets of ganja hidden in 15 sacks. [@2,5] Police valued the cannabis at 2
-crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2] Besides the
+crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5]
 
