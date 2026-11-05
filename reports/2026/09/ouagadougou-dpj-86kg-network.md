@@ -24,6 +24,7 @@ tags: [ouagadougou, dpj, network, gold-mines]
 open_questions:
   - The number of arrested members and any charges were not reported.
   - 'Left out, as its quotation was not found in Alwihda Info: The network bought its goods in a neighbouring country, moved them to the capital by public transport or private vehicle, stored them and sold to customers — with part of the cannabis destined for dealers at gold-mining sites including Boromo and Poura, Zantene, Sabce, Mogre and Bittou.'
+  - 'Left out, as its quotation was not found in Koaci: The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86 kg of cannabis along with adulterated beverages, contraband cigarettes and psychotropic packets; motorcycles, cash and other goods were also recovered in the arrests.'
 sources:
   - title: "86 kg of cannabis seized: Police crack down on a trafficking network in Ouagadougou"
     url: https://nouvellesafrique.com/en/86-kg-of-cannabis-seized%3B-police-crack-down-on-a-trafficking-network-in-Ouagadougou/
@@ -45,11 +46,16 @@ sources:
     publisher: Wakat Séra
     date: 2025-09-25
     language: fr
+  - title: 'Burkina Faso : près de 86 kg de cannabis saisis, un réseau bien structuré démantelé à Ouagadougou'
+    url: https://www.koaci.com/article/2026/09/29/burkina-faso/societe/burkina-faso-pres-de-86-kg-de-cannabis-saisis-un-reseau-bien-structure-demantele-a-ouagadougou_201078.html
+    publisher: Koaci
+    date: 2026-09-29
+    language: fr
 ---
 
 The National Police announced on Tuesday 29 September 2026 the
 dismantling of a suspected network trafficking and selling drugs in
-Ouagadougou. [@1,3] [@2]
+Ouagadougou. [@1,3,5] [@2]
 
 The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86
 kg of cannabis along with adulterated beverages, contraband cigarettes
