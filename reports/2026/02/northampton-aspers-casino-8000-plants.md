@@ -33,6 +33,21 @@ media:
     media_url: https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/7274/live/c1bdf720-b5ac-11f0-b2a1-6f537f66f9aa.jpg
     publisher: BBC News
     caption: 'Officers cutting through a reinforced door to enter the building. Photo: Northamptonshire Police'
+  - kind: photo
+    url: https://discover.swns.com/2026/11/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/
+    media_url: https://discover.swns.com/wp-content/uploads/2026/11/SWNS_CANNABIS_FACTORY_04_106861-1024x682.jpg
+    publisher: SWNS
+    caption: 'Inside the cannabis factory hidden inside Aspers casino in Northampton. Photo: SWNS'
+  - kind: photo
+    url: https://discover.swns.com/2026/11/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/
+    media_url: https://discover.swns.com/wp-content/uploads/2026/11/SWNS_CANNABIS_FACTORY_18_106875-1024x556.jpg
+    publisher: SWNS
+    caption: 'Police breaking into the cannabis factory hidden inside Aspers casino in Northampton. Photo: SWNS'
+  - kind: photo
+    url: https://discover.swns.com/2026/11/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/
+    media_url: https://discover.swns.com/wp-content/uploads/2026/11/SWNS_CANNABIS_FACTORY_03_106860-1024x683.jpg
+    publisher: SWNS
+    caption: 'Police breaking into the cannabis factory hidden inside Aspers casino in Northampton. Photo: SWNS'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 10f61a232f0fd496a4c8a84a2cb26bfb
@@ -50,6 +65,10 @@ sources:
     url: https://www.northamptonchron.co.uk/news/crime/man-jailed-after-more-than-7000-cannabis-plants-found-in-former-northampton-town-centre-casino-5610202
     publisher: Northampton Chronicle and Echo
     date: 2026-02-24
+  - title: Former casino housing £3.2m cannabis farm now up for sale
+    url: https://discover.swns.com/2026/11/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/
+    publisher: SWNS
+    date: 2026-11-05
 open_questions:
   - 'Plant numbers and floors differ: later reports say just under or almost 8,000 plants across three floors, while the sentencing report says more than 7,000 and the BBC raid-day report says thousands across four floors; 8,000 is used as the final count.'
   - The surname is spelled Piparas in two reports and Pipiras in the sentencing report and a related charging report.
@@ -58,6 +77,7 @@ open_questions:
   - No other members of the reported organised crime group were named, arrested or charged.
   - The November 2026 article's main image shows the former casino building offered for sale and is not listed as raid evidence; listed photos show the plants and forced entry from the BBC raid coverage.
   - 'Left out, as its quotation was not found in BBC News: On the day of the raid police described finding thousands of plants across four floors.'
+  - The page is labelled as video, but its opened markup exposes no event video or playable video address, so no video is linked.
 ---
 
 Mantas Piparas, 36, gave himself up as police forced their way into the former
@@ -79,6 +99,5 @@ with steel. [@1] Officers used chainsaws and specialist equipment to gain entry.
 
 Police said a production on this scale involved a lot of organisation and there
 would be an organised crime group behind it. [@2] No further arrests or charges
-have been made. [@1] In October 2026 police said the investigation had been
-closed, although it could be reopened if new evidence came to light. [@1]
-
+have been made. [@1,2] In October 2026 police said the investigation had been
+closed, although it could be reopened if new evidence came to light. [@1,4]
