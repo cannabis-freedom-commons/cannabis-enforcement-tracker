@@ -1,0 +1,67 @@
+---
+code: NGP3R2
+added_at: "2026-11-05T17:24:36.710932Z"
+date: 2026-11-05
+country: tr
+place: Kumluca, Antalya
+coordinates: [36.367, 30.283]
+precision: district
+type: seizure
+also: [raid, arrest]
+title: 2.45 kg of kubar esrar and 2 cannabis plants seized in a Kumluca house
+summary: >-
+  Antalya gendarmerie searched the home of a suspect identified as E.B. in Kumluca district and seized 2 kilos 450 grams of kubar esrar, two cannabis plants and a phone. The same search found 62 handgun rounds and two unlicensed hunting rifles, and judicial proceedings were started against him.
+figures:
+  arrested: 1
+  plants_destroyed: 2
+  kg_seized: 2.45
+media:
+  - kind: photo
+    url: https://www.gunhaber.com.tr/haber/kumluca-da-2-kilo-450-gram-esrar-ele-gecirildi/577583/
+    media_url: https://www.gunhaber.com.tr/haber_resim/2026%2F11%2FKumluca%2Dda%2D2%2Dkilo%2D450%2Dgram%2Desrar%2Dele%2Dgecirildi%2D577583%2Ejpg
+    publisher: Gün Haber
+    caption: Photo published with the report of the Kumluca house search, captioned "Kumluca’da 2 kilo 450 gram esrar ele geçirildi"; the page text names no photographer.
+  - kind: photo
+    url: https://www.dha.com.tr/yerel-haberler/antalya/kumlucada-2-kilo-450-gram-esrar-ele-gecirildi-2975586
+    media_url: https://image.dha.com.tr/i/dha/75/0x0/6aec3be6b11c89a9d8bc0e19.jpg
+    publisher: DHA (Demirören Haber Ajansı)
+    caption: DHA photo published with its report of the Kumluca seizure; the agency marks the story "FOTOĞRAFLI" (with photo).
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 8ff4eef31df852bf9abf18d40486aebf
+tags: [antalya, kumluca, kubar-esrar, jandarma]
+sources:
+  - title: Kumluca’da 2 kilo 450 gram esrar ele geçirildi
+    url: https://www.gunhaber.com.tr/haber/kumluca-da-2-kilo-450-gram-esrar-ele-gecirildi/577583/
+    publisher: Gün Haber
+    date: 2026-11-05
+    language: tr
+  - title: 'Kumluca''da uyuşturucu operasyonu: 2 kilo 450 gram esrar ele geçirildi'
+    url: https://yerel-haberler.haberturk.com/antalya-haberleri/kumlucada-uyusturucu-operasyonu-2-kilo-450-gram-esrar-ele-gecirildi-119512713
+    publisher: Habertürk
+    date: 2026-11-05
+    language: tr
+open_questions:
+  - The reports give only the publication date of 5 November 2026 and no separate date for the house search, so that date is used as the incident date.
+  - No neighbourhood or village inside Kumluca district is named in the opened accounts, so the place is recorded at district level.
+  - The weight is given as a field figure of 2 kilos 450 grams, not an exact laboratory weight, and kubar esrar is a street-grade description of the harvested cannabis.
+  - The suspect is identified only by the initials E.B.; no age, charges or court outcome were published beyond the start of judicial proceedings.
+  - The page photographs are captioned only with the headline and do not establish that they show this search rather than an archive image from the source agency.
+  - 'Left out, as its quotation was not found in DHA | Demirören Haber Ajansı: Judicial proceedings were started against the suspect over the raid.'
+  - 'Left out, as its quotation was not found in Haberler.com: In Turkish gendarmerie reports, kubar esrar designates harvested herbal cannabis.'
+---
+
+Antalya provincial gendarmerie teams carried out the operation in Kumluca
+district on the instructions of the Kumluca Chief Public Prosecutor's Office.
+[@1] Officers searched the home of a suspect identified only by the initials
+E.B. [@1]
+
+The search found 2 kilos 450 grams of kubar esrar, the term the sources use for
+harvested cannabis. [@1] Officers also seized two Hint keneviri cannabis plants
+and one mobile phone. [@1] The same search turned up 62 rounds of 9.65 mm
+handgun ammunition and two unlicensed hunting rifles, which are not counted in
+the cannabis figures. [@1]
+
+The İhlas News Agency (İHA) account matches the DHA report, with the same
+suspect initials, address search and quantities. [@2]
+
