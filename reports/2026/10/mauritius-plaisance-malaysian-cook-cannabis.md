@@ -69,6 +69,10 @@ sources:
     publisher: Free Malaysia Today
     date: 2026-10-29
     language: ms
+  - title: Malaysian chef nabbed in Mauritius over RM2.3mil cannabis smuggling attempt
+    url: https://www.nst.com.my/news/nation/2026/10/1566447/malaysian-chef-nabbed-mauritius-over-rm23mil-cannabis-smuggling-attempt
+    publisher: New Straits Times
+    date: 2026-10-29
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -134,10 +138,12 @@ bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1,4]
 
 Kueh was arrested and questioned by ADSU investigators, who ran a controlled
 delivery with dummy parcels to identify the consignment's recipient; the
-recipient never came to collect it and was not caught. [@1,2,3,7] His mobile phone
+recipient never came to collect it and was not caught. [@1,2,3,7,9] His mobile phone
 was seized for examination, along with Rs 8,150 and Malaysian and Thai currency
 found on him. [@1,2,3,7] He was placed in police detention under a provisional charge
 of drug dealing by importing dangerous drugs with an averment of trafficking.
 [@1,2,3]
 
 A 55-year-old Malaysian chef was arrested in Mauritius on 23 October 2026 after [@5] authorities allegedly found 17.88 kg of suspected cannabis, worth RM2.3 million [@5] (26.88 million Mauritian rupees), hidden in his luggage. [@5]
+
+The Malaysian chef was 55 years old. [@9]
