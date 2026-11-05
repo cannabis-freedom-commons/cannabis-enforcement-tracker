@@ -201,6 +201,11 @@ sources:
     publisher: Guardia Civil
     date: 2026-11-04
     language: es
+  - title: 'ДО ЗАСАДА МОГЛО ДА СЕ ДОЂЕ САМО ПЕШКЕ: У шпанској покрајини Севиља откривено неколико плантажа марихуане'
+    url: https://www.novosti.rs/c/planeta/svet/1667750/zasada-moglo-dodje-samo-peske-spanskoj-pokrajini-sevilja-otkriveno-nekoliko-plantaza-marihuane
+    publisher: Novosti.rs
+    date: 2026-11-04
+    language: sr
 open_questions:
   - The article gives no separate date for the raid; 4 November 2026 is its publication and Guardia Civil announcement date, used as the incident date.
   - Only one account of this event could be opened; no second outlet or agency statement was found.
@@ -224,6 +229,11 @@ open_questions:
   - The page's Guardia Civil-credited photo and embedded video appear to repeat the agency handout already archived, so no distinct media entry is added.
   - The page's Guardia Civil-credited plantation photo appears to repeat the agency handout already archived, so no distinct media entry is added.
   - The Notimérica image of an agent beside the hillside crop appears to repeat the Guardia Civil handout already archived via Europa Press, so no distinct media entry is added.
+  - This Serbian account repeats a Guardia Civil communiqué and does not give a separate date for the raid, so it offers no independent confirmation of the operation date.
+  - The Serbian text describes the water source simply as a nearby river, while the existing report relies on a nearby watercourse, so the two wordings are not distinguished here.
+  - The two event photographs on this page (an aerial view of the hillside plots and an agent walking beside the crop) match the Guardia Civil handout already linked in the report and were not added as distinct media.
+  - 'Left out, as its quotation was not found in Novosti.rs: Each growing area had its own irrigation system despite the steep slope and lack of conventional connections'
+  - 'Left out, as its quotation was not found in Novosti.rs: The crops were spread in several production areas over different slopes and linked by a network of paths built by those running the site'
 ---
 
 After a months-long investigation, the Guardia Civil dismantled a hidden
@@ -233,34 +243,34 @@ escape across the mountain when agents reached the site but were caught. [@1,2,3
 Courts in Sanlúcar la Mayor ordered all four held in prison without bail. [@1,2,3,4,5,6,7,10,11,12,13,14,16,17,20,21,22,24,25,26,28,29]
 The detainees were brought before those courts as alleged perpetrators of
 public-health offences and membership in a criminal organisation. [@1,2,3,4,5,6,7,10,11,12,13,15,17,21,22,23,24] The
-investigation remains open. [@1,2,5,8,10,12,13,15,17,21,22,24,26,28]
+investigation remains open. [@1,2,5,8,10,12,13,15,17,21,22,24,26,28,30]
 
 The operation seized 2,500 plants and 50 kilograms of dried marijuana buds at
-installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28] Some of the plants stood
+installations practically inaccessible by road. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,26,27,28,30] Some of the plants stood
 more than two metres tall. [@1,2,3,6,7,8,10,13,15,16,19,24] Because vehicles could not be used, agents cut
-the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16,17,21,24] From there, a
+the plants and carried them to a point near a dry riverbed. [@1,3,7,8,10,11,13,16,17,21,24,30] From there, a
 Guardia Civil helicopter from Granada lifted them out for later destruction.
-[@1,2,3,6,7,9,10,11,13,14,15,16,17,18,21,22,26,29] Each growing area had its own irrigation system despite the steep slope and
+[@1,2,3,6,7,9,10,11,13,14,15,16,17,18,21,22,26,29,30] Each growing area had its own irrigation system despite the steep slope and
 lack of conventional connections. [@1,8,24,28,29] Those running the site had installed
-motors, pipes and large water stores including pools across the sierra. [@1,21,24] The
-site also had electric generators, tools and drying rooms. [@1,21,24] Officers found
+motors, pipes and large water stores including pools across the sierra. [@1,21,24,30] The
+site also had electric generators, tools and drying rooms. [@1,21,24,30] Officers found
 the 50 kilograms of dried buds in one drying dependency after processing. [@1,21]
 
 The crops were spread in several production areas over different slopes and
 linked by a network of paths built by those running the site. [@1,4,12,21,22,24,28] The plots lay
-far from towns on steep slopes where vehicles could not enter. [@1,5,12] The
+far from towns on steep slopes where vehicles could not enter. [@1,5,12,30] The
 investigation began after aerial observation spotted possible hidden
-plantations. [@1,2,4,12] Officers reached the site on foot over difficult paths while
-drones watched from the air. [@1,2,10,14,21] The terrain made the site hard to locate and
+plantations. [@1,2,4,12,30] Officers reached the site on foot over difficult paths while
+drones watched from the air. [@1,2,10,14,21,30] The terrain made the site hard to locate and
 reach. [@1] Officers therefore set up a special operation to watch possible
 escape routes from the air. [@1] The complex included sleeping areas, rest areas
 and a kitchen that let keepers stay for long periods without travelling to
-nearby towns. [@1,10,21,23,24,27] Keepers could carry on daily work without travelling
+nearby towns. [@1,10,21,23,24,27,30] Keepers could carry on daily work without travelling
 regularly to nearby towns. [@1] A nearby watercourse helped supply the crops.
 [@1]
 
 The operation involved officers from the La Rinconada Company, the Organic Judicial Police Unit of the Sevilla Command and the Granada Air Service. [@2,3,8,10,13,17,21,24]
 
-Police said further linked plantations and other people involved have not been ruled out. [@3,21,22]
+Police said further linked plantations and other people involved have not been ruled out. [@3,21,22,30]
 
-The mountain site had no telephone coverage. [@11,13,21,24]
+The mountain site had no telephone coverage. [@11,13,21,24,30]
