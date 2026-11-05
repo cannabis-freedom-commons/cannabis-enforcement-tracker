@@ -122,6 +122,9 @@ open_questions:
   - Grand News dates the recovery to Wednesday afternoon at about 12 pm without giving a calendar date.
   - The Grand News page carries only an uncaptioned image and two advertisement images, so no media entry can be supported.
   - 'Left out, as its quotation was not found in Lalluram: Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing.'
+  - This Navbharat Live account says police acted on an informer's precise tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
+  - The headline and highlights put the load at more than Rs 1 crore but the article publishes no exact figure or weight of individual bags, so no value is added.
+  - The page gives only "last night" and no calendar date for the recovery; 4 November 2026 is retained from the earlier accounts.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -157,3 +160,5 @@ The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad i
 Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
 
 The haul came a day after Keshkal police seized 407 kg of ganja. [@10] Grand News reporter Dheeraj Sharma filed the account of the Kanker recovery and chase. [@10]
+
+This account says police reached the spot after an informer gave them precise information, and then found several bags of ganja there. [@7] The smugglers tried to hide the load from the police cordon and changed their route, dumping it on the way before fleeing under cover of darkness. [@7] Police said the consignment was brought from neighbouring Odisha by road to be sold in Chhattisgarh, while officers kept running checks along the route. [@7] Police officers said the fleeing accused would soon be identified and sent to jail and the smuggling network would be exposed. [@7]
