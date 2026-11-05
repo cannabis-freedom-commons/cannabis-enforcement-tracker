@@ -24,6 +24,11 @@ sources:
     publisher: Omroep Brabant
     date: 2026-11-02
     language: nl
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - The article names no arrests, charges or court outcome for this find.
   - Only one source could be opened, so no second account confirms the find.
@@ -31,12 +36,14 @@ open_questions:
   - Whether the 611 plants were removed or destroyed on site is not stated; they are recorded as plants_destroyed under the tracker convention for seized plants.
   - The page's only image is a generic ANP stock photo of a hemp plant, so no media entry is added.
   - The page also links a separate Waalre grow of 120 plants, a different event left out here.
+  - The CNNBS account names no arrests, charges or court outcome for the Waalre find.
+  - No direct video file for the embedded Veldhoven-Waalre Instagram reel could be recovered, so no media entry is included.
 ---
 
 Veldhoven-Waalre police found 611 cannabis plants in a house in Waalre on 20
-October. [@1] Officers had suspected an illegal nursery in the house, and the
-suspicion proved correct. [@1] One grow room directly adjoined a children's
-bedroom. [@1] The Veldhoven-Waalre police wrote on Instagram on Monday that a
+October. [@1,2] Officers had suspected an illegal nursery in the house, and the
+suspicion proved correct. [@1,2] One grow room directly adjoined a children's
+bedroom. [@1,2] The Veldhoven-Waalre police wrote on Instagram on Monday that a
 child's safety must never be put at stake. [@1] The police called the find
 incomprehensible and warned of the dangers. [@1]
 
@@ -49,3 +56,4 @@ should sleep and play. [@1]
 Police urged people to report a regularly strong hemp smell, buzzing sounds or
 other suspicious signs around a house, anonymously if preferred. [@1]
 
+Police also seized a vehicle under conservatory attachment in the Waalre case. [@2]

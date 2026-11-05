@@ -33,6 +33,11 @@ sources:
     publisher: 1Almere
     date: 2026-11-04
     language: nl
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - The article says the nursery was found on a Monday and was published on Wednesday 4 November 2026, so Monday is taken as 2 November 2026.
   - No arrests, named suspects or charges were reported; the specialist hemp team's investigation was still under way.
@@ -49,8 +54,8 @@ the police unit for cannabis cultivation, started an investigation into the
 people behind that nursery. [@1,2]
 
 That house was specifically identified as a dwelling on the Hofmark in Almere
-Haven. [@1,2] Inside that dwelling, the officers counted a total of 187 young
-cannabis plants growing there as part of the nursery operation. [@1,2] The
+Haven. [@1,2,3] Inside that dwelling, the officers counted a total of 187 young
+cannabis plants growing there as part of the nursery operation. [@1,2,3] The
 officers also observed that the electricity for the nursery was being tapped
 illegally at the property. [@1,2] Following the discovery, the entire nursery
 installation was dismantled and all of the plants were destroyed. [@1]

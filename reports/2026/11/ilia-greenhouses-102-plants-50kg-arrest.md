@@ -140,6 +140,11 @@ sources:
     publisher: limenikanea.gr
     date: '2026-11-01'
     language: el
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - >-
     The reports date the arrest only to Saturday; 31 October 2026 is inferred from publication on Sunday 1
@@ -207,7 +212,7 @@ open_questions:
     report, so no new media entry is added.
 ---
 
-Police arrested a man in Ilia after finding 102 cannabis plants in two greenhouses and seizing 50.03 kilograms of dried cannabis. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+Police arrested a man in Ilia after finding 102 cannabis plants in two greenhouses and seizing 50.03 kilograms of dried cannabis. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 
 Officers arrested a Greek suspect in the Ilia farming region of the western
 Peloponnese on Saturday while he was tending the plantation. [@1,8,14] The man was

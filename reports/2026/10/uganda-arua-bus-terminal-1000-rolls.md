@@ -36,6 +36,11 @@ sources:
     url: https://kamwokyatimes.com/arua-police-arrest-bus-passenger-with-1000-rolls-of-marijuana-aboard-bus/
     publisher: Kamwokya Times
     date: '2026-10-24'
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 media:
   - kind: photo
     url: https://www.monitor.co.ug/uganda/news/national/police-arrest-man-in-arua-city-with-over-1-000-blunts-of-suspected-marijuana-5643876
@@ -62,11 +67,11 @@ open_questions:
     preserved.
 ---
 
-Arua police arrested Godfrey Eguma at Link Bus Terminal with more than 1,000 rolls of suspected marijuana. [@1,2,3]
+Arua police arrested Godfrey Eguma at Link Bus Terminal with more than 1,000 rolls of suspected marijuana. [@1,2,3,4]
 
 Police in Arua City's central business division arrested Godfrey Eguma at the Link Bus Terminal
 on Thursday 22 October 2026 at about 8:30 am during routine checks as he prepared to board a bus
-to Masindi District. [@1,3]
+to Masindi District. [@1,3,4]
 
 West Nile regional police spokesperson Josephine Angucia said a search of his luggage recovered
 more than 1,000 rolled sticks of suspected marijuana. [@1,3] Under questioning, Eguma allegedly

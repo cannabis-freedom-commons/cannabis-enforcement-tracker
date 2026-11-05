@@ -31,6 +31,11 @@ sources:
     url: https://newsinfo.inquirer.net/2334413/3-marijuana-plantations-destroyed-in-benguet
     publisher: INQUIRER.net
     date: 2026-11-01
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - Only one source for this event could be opened; searches for a second account of the 30 October Kapangan-Kibungan eradication found no accessible report.
   - The report names no arrests or suspects; authorities said follow-up work was continuing to identify those responsible.
@@ -39,14 +44,14 @@ open_questions:
 ---
 
 Police found three marijuana plantations in the towns of Kapangan and Kibungan,
-Benguet, during eradication operations on Friday, 30 October 2026. [@1] The
+Benguet, during eradication operations on Friday, 30 October 2026. [@1,2] The
 Police Regional Office-Cordillera said the sites were in Barangay Sagubo in
 Kapangan and Barangay Poblacion in Kibungan, found during joint police and
 anti-drug operations. [@1]
 
 Officers recovered 1,000 marijuana seedlings worth P40,000 from the Kapangan
 plantation and 1,150 fully grown marijuana plants valued at P230,000 from two
-plantations in Kibungan, calculated at the standard drug price. [@1] Police put
+plantations in Kibungan, calculated at the standard drug price. [@1,2] Police put
 the combined street value at P270,000. [@1] All of the recovered plants and
 seedlings were uprooted and burned at the sites after documentation. [@1]
 
@@ -57,4 +62,3 @@ and special operations units, Regional Intelligence Unit 14 and the Philippine
 Drug Enforcement Agency-Cordillera. [@1] Authorities said investigation and
 follow-up operations in nearby areas are continuing to find other plantations
 and identify those responsible for the cultivation. [@1]
-

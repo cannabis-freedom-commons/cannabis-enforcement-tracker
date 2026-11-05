@@ -36,6 +36,11 @@ sources:
     publisher: El Heraldo
     date: 2026-10-29
     language: es
+  - title: Cannabis foto’s • 6 beelden uit de oorlog tegen wiet (#115) - CNNBS.nl
+    url: https://www.cnnbs.nl/cannabis-fotos-6-beelden-uit-de-oorlog-tegen-wiet-115/
+    publisher: CNNBS.nl
+    date: 2026-11-05
+    language: nl
 media:
   - kind: photo
     url: https://www.ejercito.mil.co/en-arauca-el-ejercito-nacional-y-la-policia-incautan-mas-de-tres-toneladas-de-marihuana-que-pertenecerian-al-gao-eln
@@ -46,15 +51,15 @@ media:
 
 Colombian army troops and police found 3,102 kilograms of pressed marijuana in an
 abandoned pickup truck in the rural district of Arrecifes, in Arauca municipality,
-the army said on 28 October 2026. [@1,2]
+the army said on 28 October 2026. [@1,2,3]
 
 The truck's occupants left the vehicle and fled when they saw a checkpoint,
 according to the army and El Heraldo. [@1,2] Inside the rear of the Ford 350,
 soldiers found 6,204 blocks of pressed marijuana with a gross weight of 3,102
-kilograms. [@1,2]
+kilograms. [@1,2,3]
 
 The army attributed the load to the ELN's Domingo Laín Sáenz front and estimated
-that losing it cost the group about 1.8 billion pesos. [@1,2] It did not report any
+that losing it cost the group about 1.8 billion pesos. [@1,2,3] It did not report any
 arrests. [@1]
 
 The operation was carried out by the 18th Brigade with the police's SIJIN
