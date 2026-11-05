@@ -66,6 +66,11 @@ sources:
     publisher: Lalluram
     date: 2026-11-05
     language: hi
+  - title: 1 करोड़ रुपये का गांजा छोड़कर भागे तस्कर, कांकेर की पहाड़ियों में मिला 280 किलो गांजा
+    url: https://navbharatlive.com/chhattisgarh/kanker/kanker-ganja-smuggling-case-seized-aid23
+    publisher: Navbharat Live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -90,6 +95,8 @@ open_questions:
   - Lalluram's account of the interception gives no date beyond "late on Tuesday night", and its publication date of 5 November 2026 is not the recovery date.
   - Names of the smugglers and vehicle registration numbers remain unpublished; no arrests, charges or court step are reported in this account.
   - Lalluram carries two uncaptioned, uncredited images, one of which is filed under an August 2026 upload folder; neither is shown to depict this seizure, so no media entries are added.
+  - Navbharat Live's headline and standfirst put the load at more than Rs 1 crore, while its article text says only that police estimated the value in crore-level figures in the international market; no exact rupee amount is stated.
+  - This account reports 70 packets holding 280 kg, the same weight as the earlier Kanker recovery, while the existing report's first source described 15 sacks and the figure of 15 sacks therefore remains unexplained.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -98,7 +105,7 @@ November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
-avoid action or arrest. [@1,2,3,4,5]
+avoid action or arrest. [@1,2,3,4,5,7]
 
 The case falls under the Kotwali police station area. [@1,3,4] Police put the value
 of the seized ganja in lakhs of rupees. [@1] Senior officers and a Kotwali
@@ -110,10 +117,12 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7]
 
 The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5]
 
 Keshkal police were chasing the smugglers when Kanker police set up its cordon. [@5]
 
 Smugglers fleeing a police interception late on Tuesday night drove a car at Ritesh Mishra, the station house officer of Keshkal police station, and the car brushed his foot as it passed, injuring his thumb. [@6] Police chased the vehicles for about 30 kilometres from Keshkal towards Kanker. [@6] Police tried to stop a Toyota Fortuner bringing ganja from Odisha and a pilot Tata Winger accompanying it, and the driver of a Nexon then drove at the station house officer. [@6] Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing. [@6] Kanker superintendent of police Nikhil Rakhecha said police had found leads on the vehicles and suspects used in the smuggling and had sent separate teams to arrest them. [@6]
+
+Police packed the seized ganja into three vehicles and took it to their police station. [@7] Police are also trying to identify the consignment's main buyer and the wider network. [@7] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
