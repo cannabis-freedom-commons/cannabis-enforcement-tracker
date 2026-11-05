@@ -27,10 +27,17 @@ sources:
     publisher: Narmadanchal
     date: 2026-11-04
     language: hi
+  - title: 'इटारसी में 8.4 किलो गांजे के साथ आरोपी गिरफ्तार: रेलवे ट्रैक के पास बेचने की तैयारी में था; गांजे की कीमत 1.5 लाख रुपए बताई - Itarsi News'
+    url: https://www.bhaskar.com/amp/local/mp/narmadapuram/itarsi/news/itarsi-police-arrest-man-ganja-drug-seizure-139592883.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - Only one accessible source for this event was found after searching in English and Hindi.
   - No court outcome was reported; the case stood at the stage of an offence being registered and legal proceedings started.
   - The page carries a photo captioned only as GANJA, which does not establish that it shows this seizure, so no media entry is included.
+  - This Bhaskar account describes the action by Itarsi police led by the station in-charge and does not mention RPF participation recorded in the existing report.
+  - The Bhaskar page's image has no caption or alt text establishing that it shows this seizure, so no media entry is included.
 ---
 
 A joint team of Itarsi police in Narmadapuram district and the RPF, the railway
@@ -38,16 +45,17 @@ police force, arrested one accused during an action against the trafficking of
 illegal drugs. [@1] Officers caught the accused on 4 November on the basis of
 information received from an informer. [@1] The accused was identified as
 35-year-old Ramkumar Thakur, son of Sannu Thakur, a resident of Padrai village
-under Bankhedi police station in Narmadapuram district. [@1] He was caught
-beyond Teen Puliya, near the Nagpur-Mumbai railway track. [@1]
+under Bankhedi police station in Narmadapuram district. [@1,2] He was caught
+beyond Teen Puliya, near the Nagpur-Mumbai railway track. [@1,2]
 
 Police recovered 8 kg 400 grams of illegal ganja, the local name for cannabis,
-from his possession during the same operation. [@1] The ganja was kept in a
-black backpack carried by the accused. [@1] Police said he had been looking for
-an opportunity to sell it. [@1] Police estimated its value on the international
+from his possession during the same operation. [@1,2] The ganja was kept in a
+black backpack carried by the accused. [@1,2] Police said he had been looking for
+an opportunity to sell it. [@1,2] Police estimated its value on the international
 market at about 150,000 rupees. [@1]
 
 Police registered an offence against the accused and started the formal legal
-process. [@1] Officers and staff of Itarsi police station and the RPF played an
+process. [@1,2] Officers and staff of Itarsi police station and the RPF played an
 important role in the whole operation. [@1]
 
+Police registered crime number 1085/2026 against the accused under sections 8/20 of the NDPS Act. [@2] The police team that reached the spot was led by station in-charge Inspector Saurabh Pandey. [@2]
