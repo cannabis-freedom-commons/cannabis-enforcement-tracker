@@ -398,14 +398,25 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			runner.PreviousEvidence = checkpoint.Evidence
 			runner.ReviewProblem = checkpoint.ReviewProblem
 		}
-		dir, err = runner.Snapshot(ctx, j.Ref)
-		if err != nil {
-			return err
+		// An interrupted session continues where it stopped, in its own workspace snapshot;
+		// anything that changed meanwhile is caught by the coverage checks below.
+		resumed := w.resumableWorkspace(j.Ref)
+		if resumed != "" {
+			dir = resumed
+		} else {
+			dir, err = runner.Snapshot(ctx, j.Ref)
+			if err != nil {
+				return err
+			}
+			if err = research.SaveEvidence(dir, append([]safeurl.Evidence{initial}, checkpoint.Evidence...)); err != nil {
+				return err
+			}
 		}
-		if err = research.SaveEvidence(dir, append([]safeurl.Evidence{initial}, checkpoint.Evidence...)); err != nil {
-			return err
+		explanation := "OpenCode is researching this event and preparing a cited report automatically."
+		if resumed != "" {
+			explanation = "The research was interrupted. OpenCode is continuing the same research session from where it stopped."
 		}
-		if err = w.Store.Transition(ctx, j.Ref, "researching", "OpenCode is researching this event and preparing a cited report automatically.", "", ""); err != nil {
+		if err = w.Store.Transition(ctx, j.Ref, "researching", explanation, "", ""); err != nil {
 			return err
 		}
 		// The index and original Markdown must describe the same snapshot. Fetching
@@ -414,8 +425,13 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if err != nil {
 			return err
 		}
+		runner.ResultCheck = w.resultCheck(dir, initial, checkpoint.Evidence, checkpoint.AddedAt, checkpoint.Code)
 		invoked = true
-		result, session, err = runner.Start(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
+		if resumed != "" {
+			result, session, err = runner.Resume(ctx, j.Ref, dir, run)
+		} else {
+			result, session, err = runner.Start(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
+		}
 		if w.observeResearch != nil && ctx.Err() == nil {
 			w.observeResearch(err)
 		}

@@ -261,10 +261,17 @@ generated result/update is limited to 30 facts and 30 new questions. A report ca
 more open questions across updates: earlier discrepancies are preserved, with whitespace-only
 duplicates ignored, rather than failing after its thirtieth lifetime question.
 
-A schema-invalid result or unmatched corroborating sentence gets one automatic correction
-review using its saved research, captured sources and current reports. This is a normal budgeted
-OpenCode run, with the validation feedback in its private input. It never guesses a merge target,
-changes a quotation or bypasses validation. A second invalid answer remains failed. Technical job
+With the local runner the research agent has a `tracker_check_result` tool: a loopback MCP
+endpoint, alive for one OpenCode invocation and guarded by a random token, that runs the service's
+schema, event-identity, merge-target, report-format and captured-quotation checks on a proposed
+answer and returns the problems. It never publishes; the final answer still passes every check.
+A schema-invalid result, unsupported new-event identity or unmatched corroborating sentence that
+still reaches the service gets one automatic correction. With the local runner it continues the
+same OpenCode session (`opencode run --continue`) in the same job, so the agent keeps everything
+it read; the case stays `researching`. Otherwise (Docker, or after a restart) it is a review run
+from saved research, captured sources and current reports, with the validation feedback in its
+private input. Each correction is a normal budgeted run. It never guesses a merge target, changes
+a quotation or bypasses validation. A second invalid answer remains failed. Technical job
 errors are logged privately with the job, kind, case and attempt; local disk-full capture errors
 retry as infrastructure failures instead of being recorded as inaccessible publisher pages.
 Restart the backend to apply the Go changes; the source-capture script is read on each capture.
@@ -428,7 +435,12 @@ After a successful model response, a private SQLite checkpoint saves the result,
 and initial evidence. Recovery creates a fresh trusted checkout, rechecks sources and rebuilds
 without calling the model or reserving another AI run. If the server stopped before this checkpoint,
 research restarts within the existing daily budget; an interrupted model call may already have
-incurred provider cost. Manual Restart deliberately discards the checkpoint for a new attempt.
+incurred provider cost. With the local runner an interrupted or failed OpenCode invocation (a stop,
+timeout, step limit or unusable final answer, not a harness that never started) keeps its private
+session home and workspace, marked by `research-session.json`. The next attempt with the same
+model continues that conversation with `--continue` instead of researching from the start, at
+most twice per session; otherwise the kept session is discarded and research starts fresh.
+Workspace cleanup leaves a kept session alone until its case is terminal. Manual Restart deliberately discards the checkpoint for a new attempt.
 A queued publication always resumes its validated draft. Git case trailers detect a commit made
 just before a crash, so recovery records its SHA/status without committing again.
 

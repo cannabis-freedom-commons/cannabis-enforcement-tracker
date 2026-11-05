@@ -777,6 +777,11 @@ type Runner struct {
 	PreviousResult   *Result
 	PreviousEvidence []safeurl.Evidence
 	ReviewProblem    string
+	// Check, when set, is offered to the agent as its check_result tool (local runner), so it
+	// can fix a rejected answer before it ends the run.
+	ResultCheck CheckFunc
+	tool        *checkServer
+	resumeHome  string
 }
 
 // Snapshot clones history and overlays trusted current site inputs for local validation.
@@ -839,19 +844,121 @@ type Session struct {
 	cid, dir string
 	cmd      *exec.Cmd
 	cleanup  func()
+	tool     *checkServer
+	keep     bool // an interrupted correction stays on disk to be resumed
 }
 
-// Close removes the session's private OpenCode home. A nil session is a no-op.
+// Close stops the session's check tool and removes its private OpenCode home, unless an
+// interrupted correction left it to be resumed. A nil session is a no-op.
 func (s *Session) Close() {
-	if s != nil && s.cleanup != nil {
-		s.cleanup()
-		s.cleanup = nil
+	if s == nil {
+		return
 	}
+	s.tool.Close()
+	s.tool = nil
+	if s.cleanup != nil && !s.keep {
+		s.cleanup()
+		_ = os.Remove(filepath.Join(s.dir, sessionMarkerName))
+	}
+	s.cleanup = nil
 }
+
+// sessionMarker records a local OpenCode session in its workspace, so an interrupted run can
+// continue the same conversation instead of researching from the start.
+type sessionMarker struct {
+	Home, Model string
+	Resumes     int
+}
+
+const sessionMarkerName = "research-session.json"
+
+// MaxResumes bounds how often one session is continued after interruptions.
+const MaxResumes = 2
+
+func readMarker(dir string) (sessionMarker, bool) {
+	var m sessionMarker
+	b, err := os.ReadFile(filepath.Join(dir, sessionMarkerName))
+	if err != nil || json.Unmarshal(b, &m) != nil || m.Home == "" {
+		return m, false
+	}
+	// The home must be this workspace's own session folder, never a path from elsewhere.
+	parent, err1 := filepath.EvalSymlinks(filepath.Dir(m.Home))
+	own, err2 := filepath.EvalSymlinks(dir)
+	if err1 != nil || err2 != nil || parent != own || !strings.HasPrefix(filepath.Base(m.Home), ".opencode-session-") {
+		return m, false
+	}
+	return m, true
+}
+
+func writeMarker(dir string, m sessionMarker) error {
+	return os.WriteFile(filepath.Join(dir, sessionMarkerName), []byte(store.JSON(m)), 0600)
+}
+
+// HasSession says whether the workspace holds a kept OpenCode session.
+func HasSession(dir string) bool {
+	_, err := os.Stat(filepath.Join(dir, sessionMarkerName))
+	return err == nil
+}
+
+// CanResume says whether the workspace's interrupted session can be continued by this model.
+func CanResume(dir, model string) bool {
+	m, ok := readMarker(dir)
+	if !ok || m.Model != model || m.Resumes >= MaxResumes {
+		return false
+	}
+	for _, path := range []string{m.Home, filepath.Join(dir, ".research-input")} {
+		if info, err := os.Stat(path); err != nil || !info.IsDir() {
+			return false
+		}
+	}
+	return true
+}
+
+// DiscardSession removes a kept session from its workspace; the logs and evidence stay.
+func DiscardSession(dir string) {
+	if m, ok := readMarker(dir); ok {
+		_ = os.RemoveAll(m.Home)
+	}
+	_ = os.Remove(filepath.Join(dir, sessionMarkerName))
+}
+
+// abandon ends a run that failed before OpenCode started.
+func (r Runner) abandon(cid, run string) {
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+	_ = r.Store.AddAIEvent(ctx, cid, run, "system", "error", "The OpenCode run could not complete: the research workspace could not be prepared. Processing will retry automatically within its limits.")
+	_ = r.Store.EndRun(ctx, run, "failed", "")
+}
+
+func envValue(cmd *exec.Cmd, name string) string {
+	for _, entry := range cmd.Env {
+		if strings.HasPrefix(entry, name+"=") {
+			return strings.TrimPrefix(entry, name+"=")
+		}
+	}
+	return ""
+}
+
+// resumableRunError says whether a failed invocation is worth continuing in its session: an
+// interruption, a timeout, a step limit or an unusable final answer. A harness that could not
+// start (no model steps) is not.
+func resumableRunError(err error) bool {
+	return err != nil && !errors.Is(err, store.ErrResearchAgent)
+}
+
+const resumeMessage = "Your previous run in this session was interrupted before you gave your final answer. " +
+	"Continue from where you stopped, using the sources and reports you already read; do not start over. " +
+	"Check your result with the check_result tool if it is available, then return exactly one complete JSON result matching the contract in the agent instructions."
 
 // correctionArgs continues the run's only session with the feedback as the next message.
 func correctionArgs(args []string, feedback string) []string {
 	out := append([]string(nil), args...)
+	for _, arg := range out {
+		if arg == "--continue" {
+			out[len(out)-1] = feedback
+			return out
+		}
+	}
 	for i, arg := range out {
 		if arg == "run" {
 			out = append(out[:i+1], append([]string{"--continue"}, out[i+1:]...)...)
@@ -878,7 +985,39 @@ func (s *Session) Correct(ctx context.Context, run, problem string) (result Resu
 	feedback := "The service rejected your JSON result: " + problem + "\nCorrect the result using the sources and reports you already read; open more only if needed. Do not invent missing evidence. Return exactly one complete JSON result matching the contract in the agent instructions."
 	cmd := exec.CommandContext(ctx, s.cmd.Path, correctionArgs(s.cmd.Args[1:], feedback)...)
 	cmd.Env, cmd.Dir = s.cmd.Env, s.cmd.Dir
-	return r.execute(ctx, s.cid, s.dir, run, cmd, true)
+	result, runErr = r.execute(ctx, s.cid, s.dir, run, cmd, true)
+	s.keep = resumableRunError(runErr) && r.Config.ResearchRunner == "local"
+	return result, runErr
+}
+
+// Resume continues the workspace's interrupted session (see CanResume) with a fresh check tool.
+// Its answer, like any other, goes through every service check.
+func (r Runner) Resume(ctx context.Context, cid, dir, run string) (result Result, session *Session, runErr error) {
+	m, ok := readMarker(dir)
+	if !ok {
+		return Result{}, nil, errors.New("no research session to resume")
+	}
+	if err := r.Store.StartRun(ctx, run, r.Config.ResearchModel, r.Config.ResearchRunner); err != nil {
+		return Result{}, nil, err
+	}
+	if err := r.Store.AddAIEvent(ctx, cid, run, "user", "request", "The earlier run was interrupted. Continuing the same research session from where it stopped."); err != nil {
+		return Result{}, nil, err
+	}
+	m.Resumes++
+	if err := writeMarker(dir, m); err != nil {
+		r.abandon(cid, run)
+		return Result{}, nil, err
+	}
+	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=? WHERE id=?", dir, run); err != nil {
+		r.abandon(cid, run)
+		return Result{}, nil, err
+	}
+	r.resumeHome = m.Home
+	return r.invoke(ctx, cid, dir, run, func(cmd *exec.Cmd) *exec.Cmd {
+		next := exec.CommandContext(ctx, cmd.Path, correctionArgs(cmd.Args[1:], resumeMessage)...)
+		next.Env, next.Dir = cmd.Env, cmd.Dir
+		return next
+	}, true)
 }
 
 // Start runs the research agent. The returned session is non-nil only when the runner can
@@ -893,10 +1032,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	executed := false
 	defer func() {
 		if runErr != nil && !executed {
-			endCtx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
-			defer cancel()
-			_ = r.Store.AddAIEvent(endCtx, cid, run, "system", "error", "The OpenCode run could not complete: the research workspace could not be prepared. Processing will retry automatically within its limits.")
-			_ = r.Store.EndRun(endCtx, run, "failed", "")
+			r.abandon(cid, run)
 		}
 	}()
 
@@ -1053,20 +1189,55 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 			return Result{}, nil, err
 		}
 	}
-	cmd, cleanup, err := r.command(ctx, input, run)
+	executed = true
+	return r.invoke(ctx, cid, dir, run, nil, false)
+}
+
+// invoke prepares the OpenCode command (with the check tool on the local runner), runs it and
+// keeps the session: open for a correction after an answer, on disk for a resume after an
+// interruption, and removed otherwise. The Docker runner's session ends with its container.
+func (r Runner) invoke(ctx context.Context, cid, dir, run string, adapt func(*exec.Cmd) *exec.Cmd, resumed bool) (Result, *Session, error) {
+	local := r.Config.ResearchRunner == "local"
+	if local && r.ResultCheck != nil {
+		tool, err := startCheckServer(r.ResultCheck)
+		if err != nil {
+			r.abandon(cid, run)
+			return Result{}, nil, err
+		}
+		r.tool = tool
+	}
+	cmd, cleanup, err := r.command(ctx, filepath.Join(dir, ".research-input"), run)
 	if err != nil {
+		r.tool.Close()
+		r.abandon(cid, run)
+		if resumed { // the kept session cannot be used; the next attempt starts fresh
+			DiscardSession(dir)
+		}
 		return Result{}, nil, err
 	}
-	// The Docker runner's container and its session are gone when it exits.
-	continuable := r.Config.ResearchRunner == "local"
+	if local && !resumed {
+		if err = writeMarker(dir, sessionMarker{Home: envValue(cmd, "HOME"), Model: r.Config.ResearchModel}); err != nil {
+			cleanup()
+			r.tool.Close()
+			r.abandon(cid, run)
+			return Result{}, nil, err
+		}
+	}
+	if adapt != nil {
+		cmd = adapt(cmd)
+	}
 	template := &exec.Cmd{Path: cmd.Path, Args: append([]string(nil), cmd.Args...), Env: cmd.Env, Dir: cmd.Dir}
-	executed = true
-	result, err = r.execute(ctx, cid, dir, run, cmd, false)
-	if err != nil || !continuable {
+	result, err := r.execute(ctx, cid, dir, run, cmd, resumed)
+	if err != nil || !local {
+		r.tool.Close()
+		if local && resumableRunError(err) {
+			return result, nil, err // kept on disk; the retry continues this session
+		}
 		cleanup()
+		_ = os.Remove(filepath.Join(dir, sessionMarkerName))
 		return result, nil, err
 	}
-	return result, &Session{runner: r, cid: cid, dir: dir, cmd: template, cleanup: cleanup}, nil
+	return result, &Session{runner: r, cid: cid, dir: dir, cmd: template, cleanup: cleanup, tool: r.tool}, nil
 }
 
 // execute runs one OpenCode invocation and parses its final JSON answer. A correction appends

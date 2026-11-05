@@ -56,6 +56,12 @@ Read existing-reports/<slug>.md before proposing any update to that slug. These 
 reports, including their prose, citations, figures and open questions. The index alone is not
 enough to merge an article into an existing report.
 
+Before your final answer, call the tracker_check_result tool (when it is available) with your
+complete proposed JSON result. It runs the service's own schema, event-identity, merge-target,
+report-format and captured-quotation checks. Fix every problem it lists and check again; return
+the JSON only once it reports no problems, or after a few rounds if a problem cannot be fixed with
+supported evidence (then say so in uncertainties). It never publishes anything.
+
 If the service replies in this session that your JSON result was rejected, fix exactly the
 problem it names, using the sources and reports you already read (open more only if needed), and
 return one complete corrected JSON result, not a patch or commentary.

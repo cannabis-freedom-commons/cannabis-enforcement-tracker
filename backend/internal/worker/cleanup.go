@@ -88,6 +88,10 @@ func (w *Worker) cleanWorkspaces(ctx context.Context, completedCase string) erro
 		if running {
 			continue
 		}
+		// An interrupted OpenCode session waits here to be continued by the next attempt.
+		if !store.Terminal(status) && research.HasSession(dir) {
+			continue
+		}
 		// A validated draft is the only checkout a later stage reuses. Research retries
 		// rebuild from durable checkpoints in a fresh snapshot, not an old checkout.
 		var payload string

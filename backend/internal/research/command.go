@@ -78,13 +78,18 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 	if isV2 {
 		args = v2Args(args)
 	}
-	home, err := os.MkdirTemp(filepath.Dir(input), ".opencode-session-")
-	if err != nil {
-		return nil, nil, err
+	// A resumed session reuses its private home: its conversation, imported auth and the
+	// workspace configuration written when it started.
+	resuming := r.resumeHome != ""
+	home := r.resumeHome
+	if !resuming {
+		if home, err = os.MkdirTemp(filepath.Dir(input), ".opencode-session-"); err != nil {
+			return nil, nil, err
+		}
 	}
 	prepared := false
 	defer func() {
-		if !prepared {
+		if !prepared && !resuming {
 			_ = os.RemoveAll(home)
 		}
 	}()
@@ -98,17 +103,24 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 		return nil, nil, err
 	}
 	toolOutput := filepath.Join(home, "data", "opencode", "tool-output")
-	if isV2 {
-		if err = configureOpenCode2(input, r.Config.ResearchMaxSteps, toolOutput); err != nil {
-			return nil, nil, err
+	if !resuming {
+		if isV2 {
+			if err = configureOpenCode2(input, r.Config.ResearchMaxSteps, toolOutput); err != nil {
+				return nil, nil, err
+			}
+		} else {
+			if err = configureLegacyToolOutput(input, toolOutput); err != nil {
+				return nil, nil, err
+			}
 		}
-	} else {
-		if err = configureLegacyToolOutput(input, toolOutput); err != nil {
-			return nil, nil, err
+		if !isV2 {
+			if err = r.copySavedAuth(home); err != nil {
+				return nil, nil, err
+			}
 		}
 	}
-	if !isV2 {
-		if err = r.copySavedAuth(home); err != nil {
+	if r.tool != nil {
+		if err = addCheckTool(input, r.tool, isV2); err != nil {
 			return nil, nil, err
 		}
 	}
@@ -130,7 +142,7 @@ func (r Runner) commandArgs(ctx context.Context, input, run string, args []strin
 	if providerKey != "" {
 		cmd.Env = append(cmd.Env, providerKeyEnv+"="+providerKey)
 	}
-	if isV2 {
+	if isV2 && !resuming {
 		if err = r.importOpenCode2Auth(ctx, binary, cmd); err != nil {
 			return nil, nil, err
 		}
