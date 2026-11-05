@@ -34,6 +34,10 @@ sources:
     url: https://sandbach.nub.news/news/local-news/police-shut-down-cannabis-farm-in-middlewich-313809
     publisher: Sandbach Nub News
     date: 2026-11-05
+  - title: Cheshire Police shut down cannabis farm in Middlewich
+    url: https://www.northwichguardian.co.uk/news/26702728.cheshire-police-shut-cannabis-farm-middlewich/
+    publisher: Northwich Guardian
+    date: 2026-11-05
 open_questions:
   - No number of plants seized was published, so no plant count can be recorded.
   - The 70kg and 800,000-pound figures are police estimates of the site's potential yearly output, not weighed drugs or cash seized.
@@ -47,18 +51,17 @@ Congleton Local Policing Unit shut down a cannabis farm at an empty business
 premises in Middlewich. [@2] On 4 November officers executed a warrant at the
 address in Newton Bank after receiving information that drugs were being grown
 there. [@2] Officers were seen at an abandoned building on Newton Bank during
-the day on Wednesday, November 4. [@1] As a result of the raid police seized a
-large number of cannabis plants at the commercial premises. [@1]
+the day on Wednesday, November 4. [@1,3] As a result of the raid police seized a
+large number of cannabis plants at the commercial premises. [@1,3]
 
 Once inside, officers found a substantial cannabis grow and began removing it
 with the cultivation equipment. [@2] PC Adam Archer said the premises was
-capable of producing about 70kg of cannabis per year. [@1] Police put the
-potential street value of that yearly output at over 800,000 pounds. [@2] Archer
+capable of producing about 70kg of cannabis per year. [@1,3] Police put the
+potential street value of that yearly output at over 800,000 pounds. [@2,3] Archer
 said the operation was one of many intended to stop illegal drugs reaching the
 community through warrants, targeting dealers and closing houses used to deal
 drugs. [@2]
 
-Police also appealed for information about other cannabis farms. [@1] Police
+Police also appealed for information about other cannabis farms. [@1,3] Police
 asked people to report a suspected cannabis farm or other drug offence by
 calling 101 or giving details online. [@2]
-
