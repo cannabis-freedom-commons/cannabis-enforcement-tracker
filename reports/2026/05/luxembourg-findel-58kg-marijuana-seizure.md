@@ -37,6 +37,10 @@ sources:
     url: https://today.rtl.lu/news/luxembourg/58-kilograms-of-cannabis-seized-at-findel-cargo-center-1796319473
     publisher: RTL Today
     date: 2026-05-27
+  - title: Customs seize 58kg of marijuana at Luxembourg Airport cargo centre
+    url: https://www.luxtimes.lu/luxembourg/customs-seize-58kg-of-marijuana-at-luxembourg-airport-cargo-centre/153509265.html
+    publisher: Luxembourg Times
+    date: 2026-05-27
 open_questions:
   - The article gives no separate date for the seizure itself; 27 May 2026 is the disclosure and publication date used as the incident date.
   - No arrest, suspect, charge, value or court outcome was reported.
@@ -48,16 +52,16 @@ open_questions:
 ---
 
 Customs officers at Luxembourg Airport's Findel Cargo Center intercepted a
-shipment of marijuana. [@1,2] The Luxembourg prosecutor disclosed the seizure on
+shipment of marijuana. [@1,2,3] The Luxembourg prosecutor disclosed the seizure on
 Wednesday 27 May, saying the Cargo Center had been the scene of a new drug
 seizure. [@1] Officers had flagged a suspicious cargo arriving from Singapore
-and bound for onward transport to Milan. [@1,2]
+and bound for onward transport to Milan. [@1,2,3]
 
 Officers carried out an in-depth check of the transported vehicles and inspected
 several rear benches. [@1,2] The inspected rear benches weighed 235 kg in total.
 [@1,2] Technical analyses and the opening of the checked parts revealed narcotics
-carefully hidden inside the benches. [@1,2] The total seizure amounted to 58 kg of
-marijuana. [@1,2]
+carefully hidden inside the benches. [@1,2,3] The total seizure amounted to 58 kg of
+marijuana. [@1,2,3]
 
 The prosecutor said the criminal networks involved use increasingly
 sophisticated concealment to evade checks and feed particularly lucrative
@@ -68,4 +72,4 @@ drug trafficking feeds parallel networks of illicit profit, money laundering and
 other organised crime that can seriously harm public safety and the economic
 order, and that investigations are continuing after the Findel seizure. [@1]
 
-Customs officers identified the suspicious shipment through risk analysis and inspection duties. [@2] The Public Prosecutor's Office is continuing investigations to identify the individuals and criminal networks involved. [@2]
+Customs officers identified the suspicious shipment through risk analysis and inspection duties. [@2] The Public Prosecutor's Office is continuing investigations to identify the individuals and criminal networks involved. [@2,3]
