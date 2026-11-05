@@ -19,6 +19,16 @@ media:
     media_url: https://i.jauns.lv/t/2026/11/05/3591230/660x471.webp?v=1793872304
     publisher: Otkrito.lv
     caption: 'Forest area near Riga where police say large drug consignments were hidden in buried barrels. Photo: State Police'
+  - kind: photo
+    url: https://lasi.lv/par-svarigo/latvija/policija-rigas-regiona-mezos-atrod-lidz-sim-nepieredzeti-lielu-narkotiku-daudzumu.50550
+    media_url: https://media.lasi.lv/media/cache/lasi_gallery__webp/uploads/media/image/202611051009276aec39b7f2a77.png.webp
+    publisher: LASI.LV
+    caption: 'A barrel police say held marijuana, unearthed in the forests of the Riga region. Photo: video still from the State Police YouTube account @Valstspolicija, via LASI.LV'
+  - kind: video
+    url: https://lasi.lv/par-svarigo/latvija/policija-rigas-regiona-mezos-atrod-lidz-sim-nepieredzeti-lielu-narkotiku-daudzumu.50550
+    media_url: https://www.youtube.com/watch?v=zKHu-t3xDCQ
+    publisher: Valsts policija (State Police), YouTube
+    caption: State Police video of the operation, titled on YouTube 'Narkodīleru grupējums mežos Rīgā un Pierīgā slēpis desmitiem kilogramu narkotiku', embedded in the article.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 967d7cff14a911dcaf46a76c4e812ad0
@@ -29,6 +39,16 @@ sources:
     publisher: Otkrito.lv
     date: 2026-11-05
     language: ru
+  - title: Policija Rīgas reģiona mežos atrod līdz šim nepieredzēti lielu narkotiku daudzumu
+    url: https://lasi.lv/par-svarigo/latvija/policija-rigas-regiona-mezos-atrod-lidz-sim-nepieredzeti-lielu-narkotiku-daudzumu.50550
+    publisher: LASI.LV
+    date: 2026-11-05
+    language: lv
+  - title: Narkodīleru grupējums mežos Rīgā un Pierīgā slēpis desmitiem kilogramu narkotiku
+    url: https://www.vp.gov.lv/lv/jaunums/narkodileru-grupejums-mezos-riga-un-pieriga-slepis-desmitiem-kilogramu-narkotiku
+    publisher: Valsts policija
+    date: 2026-11-05
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -38,18 +58,20 @@ open_questions:
   - Only one accessible source for this event was found after searching in Russian, Latvian and English.
   - The page embeds an operation video whose exact content and credit could not be established from captions, so no video entry is included.
   - The text gives a weight ("36 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The State Police release and the newspaper accounts give exactly 15.7485 kg of marijuana and 630 grams of hashish but no weight for the 34 THC devices, so 16.3785 kg counts dried marijuana and hashish only.
+  - No cannabis-only street value was published; the earlier 36 kg figure and any total value cover amphetamine, cocaine and other substances as well.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
 criminal group of Latvian and Lithuanian citizens who hid tens of kilograms of
 drugs in barrels buried in the forest. [@1] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
-to escape. [@1] Two other Latvian members were already imprisoned for other
+to escape. [@1,2] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
-Latvia. [@1] Two detained Lithuanians were wanted in Lithuania at the time, one
-of them internationally wanted for drug trafficking. [@1] One detained Latvian
+Latvia. [@1,2] Two detained Lithuanians were wanted in Lithuania at the time, one
+of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
 had been wanted since 28 August for a sexual act against a person under 16 and
 for theft, and was handed over to serve his sentence. [@1] The other detained
 Latvian had been released from prison only in spring after serving a sentence
@@ -58,18 +80,19 @@ pretrial custody, the strictest restraint, on five suspects, four Lithuanians
 and one Latvian. [@1]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1]
 State Police said this was the first discovery in the Riga region of such a
-large drug consignment hidden in a forest. [@1] During the searches officers
+large drug consignment hidden in a forest. [@1,2] During the searches officers
 also seized 17 mobile phones, a tablet and false identity documents, plus 5,490
-euros in cash suspected to be criminal proceeds. [@1]
+euros in cash suspected to be criminal proceeds. [@1,3]
 
 Police had started the organised-group drug-trafficking investigation on 14
-October and identified eight people linked to the crime. [@1] Police said the
+October and identified eight people linked to the crime. [@1,2] Police said the
 investigation continues to establish all circumstances and to check possible
 involvement of other people. [@1]
 
+Police said the crime was uncovered in close cooperation with the Prison Administration. [@3] The investigation began on 14 October 2026 in the 1st section of the 4th Bureau of the State Police Riga regional board's criminal police. [@2] The operation was run with the State Police cybercrime, investigation support, technical support and OMEGA counter-terrorism units. [@2] The criminal case cites organised-group trafficking, bringing communication devices into prison and driving under the influence of drugs. [@3]
