@@ -33,6 +33,11 @@ sources:
     publisher: Sandesh
     date: 2026-11-04
     language: gu
+  - title: 'અમદાવાદ પૂર્વમાં હાઇબ્રીડ ગાંજાના રેકેટનો પર્દાફાશ: ઉદયપુરથી ડ્રગ્સ મંગાવી વેચતા 3 આરોપીઓ ઝડપાયા!'
+    url: https://humdekhenge.in/gujarat-krishnanagar-police-busted-hybrid-ganja-racket-ahmedabad-arrests/
+    publisher: Hum-Dekhenge
+    date: 2026-11-04
+    language: gu
 open_questions:
   - The article gives no separate date for the raids; 4 November 2026 is its publication date and is used as the incident date.
   - The reported Rs 2.19 lakh value covers the drugs, phones and weighing scale together, so no cannabis-only value is recorded.
@@ -48,16 +53,17 @@ open_questions:
   - The Sandesh account says the stock was brought from Rajasthan ten days earlier, while the existing report specifies Udaipur around ten to fifteen days earlier.
   - The Sandesh account gives only a general Krishnanagar location and does not mention the phones, scale or specific Prabuddh Ashram and Krishna Elegance raid addresses in the existing report.
   - The Sandesh page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - The Hum-Dekhenge image is captioned only as Krishnanagar Police Busts Hybrid Ganja Racket with no credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Ahmedabad's Krishnanagar police arrested three men after raids near the Prabuddh
 Ashram canal crossroads and at the Krishna Elegance residential complex in the
 Nava Naroda area. [@1,3] The men were identified as Sandeepkumar Verma, Pradeep
-Anandsinh Rajput and Bunty Rameshchandra Mirchandani. [@1,2,3] Officers had kept
+Anandsinh Rajput and Bunty Rameshchandra Mirchandani. [@1,2,3,4] Officers had kept
 watch near the Prabuddh Ashram canal crossroads and apprehended Sandeepkumar
 Dayarambhai Verma after receiving information that hybrid ganja was allegedly
 being sold in Nava Naroda. [@1,2] During questioning, Verma allegedly said he had
-obtained the substance from his friend Pradeep Anandsinh Rajput. [@1,2] Following
+obtained the substance from his friend Pradeep Anandsinh Rajput. [@1,2,4] Following
 that disclosure, police raided Rajput's B-101 residence at Krishna Elegance and
 allegedly recovered another quantity of hybrid ganja. [@1] Rajput's associate
 Bunty Rameshchandra Mirchandani was then identified as another person linked to
@@ -77,6 +83,6 @@ investigation indicates none of the three arrested men has a prior criminal
 record. [@1] Police are continuing work to identify the Udaipur supplier and are
 examining the accused's call detail records to establish whether earlier
 consignments were brought to Ahmedabad and to identify local contacts who may
-have received the sachets. [@1,2]
+have received the sachets. [@1,2,4]
 
 ACP R. D. Oza said the Krishnanagar D-staff team acted on a tip-off about a man coming with ganja near the canal. [@2,3]
