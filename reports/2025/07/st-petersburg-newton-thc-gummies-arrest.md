@@ -21,6 +21,10 @@ sources:
     url: https://www.fox13news.com/news/st-pete-woman-arrested-after-5-year-old-eats-thc-gummies-police
     publisher: FOX 13 Tampa Bay
     date: 2025-07-15
+  - title: 5-year-old hospitalized after eating THC gummies, caretaker arrested
+    url: https://cbs12.com/news/local/5-year-old-hospitalized-after-eating-thc-gummies-caretaker-arrested-florida-woman-crime-marijuana-thc-edibles-child-ingesting-st-petersburg-july-16-2025
+    publisher: CBS12
+    date: 2025-07-16
 open_questions:
   - The report was published 15 July 2025 and places the hospital trip at 10:30 p.m. on Sunday; 13 July 2025 is used as the incident date.
   - No number, weight or THC content was published for the gummies, so no cannabis-weight figure can be recorded.
@@ -32,14 +36,15 @@ open_questions:
 
 In St. Petersburg, Florida, a woman was arrested and a five-year-old child was
 taken to a hospital after police said the child ate THC gummies while in the
-woman's care. [@1] Danielle Newton, 22, was arrested for child neglect. [@1]
+woman's care. [@1] Danielle Newton, 22, was arrested for child neglect. [@1,2]
 Officers who responded to the hospital learned that the child ingested THC
-gummies. [@1]
+gummies. [@1,2]
 
 According to the St. Petersburg Police Department, the child was taken to a
-hospital around 10:30 p.m. on Sunday because they were acting lethargic. [@1]
-The child was still in the hospital in stable condition. [@1] Police did not say
+hospital around 10:30 p.m. on Sunday because they were acting lethargic. [@1,2]
+The child was still in the hospital in stable condition. [@1,2] Police did not say
 if Newton is related to the child. [@1]
 
 The incident is under investigation. [@1]
 
+Newton was accused of child neglect causing bodily harm to the five-year-old girl in her care. [@2]
