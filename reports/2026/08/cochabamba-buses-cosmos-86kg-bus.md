@@ -29,6 +29,11 @@ sources:
     publisher: Mediotiempo
     date: 2026-08-11
     language: es
+  - title: 'Insólito: incautaron 86 kilos de marihuana en el micro del São Paulo - TyC Sports'
+    url: https://www.tycsports.com/futbol-internacional/insolito-incautaron-86-kilos-de-marihuana-en-el-micro-del-san-pablo-id754588.html
+    publisher: TyC Sports
+    date: 2026-08-11
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -37,13 +42,15 @@ open_questions:
   - The article gives no time of day or exact address for the inspection beyond Cochabamba.
   - The article reports São Paulo arrived first in Santa Cruz de la Sierra, while the seizure is placed in Cochabamba; the sequence of the bus's movements across the two cities is not explained.
   - 'The report''s photograph is captioned only as the São Paulo vehicle stopped with marijuana and credited to X: GabrielSA; it shows officers and wrapped packages beside a bus marked Cosmos, but the caption does not state where it was taken.'
+  - TyC Sports gives 86.5 kilograms while the existing report records about 86 kilos; this result uses the more precise new figure without treating it as a separate seizure.
+  - TyC Sports says Buses Cosmos supplied another vehicle for the delegation but does not say what happened to the seized bus after the inspection.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
 found about 86 kilos of marijuana hidden inside it, according to Mediotiempo.
-[@1] The bus belonged to the company Buses Cosmos and had been hired to carry
+[@1,2] The bus belonged to the company Buses Cosmos and had been hired to carry
 the São Paulo FC squad during its visit to Bolivia for a Copa Sudamericana match
-against Bolívar, the outlet reported, citing Brazilian media. [@1] The discovery
+against Bolívar, the outlet reported, citing Brazilian media. [@1,2] The discovery
 came before the bus reached the team members, and the authorities seized the
 drug after finding it concealed in the vehicle, Mediotiempo reported. [@1]
 
@@ -52,8 +59,9 @@ seized load. [@1] After the operation the transport company had to resolve the
 disruption so the Brazilian delegation could travel, and the team continued to
 La Paz to prepare for its international fixture. [@1] São Paulo had arrived
 first in Santa Cruz de la Sierra and had planned to travel on to La Paz to
-lessen the effect of the altitude before facing Bolívar. [@1]
+lessen the effect of the altitude before facing Bolívar. [@1,2]
 
 Authorities were still investigating where the marijuana came from and who was
 responsible for transporting it, Mediotiempo reported. [@1]
 
+The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2] Officers found four bags containing the drug inside the vehicle. [@2] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2]
