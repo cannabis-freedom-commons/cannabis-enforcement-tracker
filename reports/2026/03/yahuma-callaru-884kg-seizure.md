@@ -48,6 +48,11 @@ sources:
     publisher: Comando Conjunto de las Fuerzas Armadas
     date: 2026-03-14
     language: es
+  - title: Incautan más de 11.6 toneladas de marihuana en Colombia; droga tenía como destino final Brasil
+    url: https://www.eluniversal.com.mx/mundo/incautan-mas-de-116-toneladas-de-marihuana-en-colombia-droga-tenia-como-destino-final-brasil/
+    publisher: El Universal
+    date: 2026-05-16
+    language: es
 open_questions:
   - No arrests, named suspects, charges or court outcome were reported; the crew fled into the jungle.
   - Colombia's account describes a Yamaha 200 motor while Peru's joint-command account describes a 150 HP Brazilian motor on the seized craft.
@@ -78,3 +83,4 @@ Caballococha for the official weighing and verification. [@3] Authorities
 presented the seizure as part of Plan Ayacucho Plus to weaken the logistics and
 finances of transnational drug trafficking in the Amazon. [@2]
 
+The Army also linked the Comandos de Frontera to the control of drug-trafficking routes in the border region with Ecuador. [@4]
