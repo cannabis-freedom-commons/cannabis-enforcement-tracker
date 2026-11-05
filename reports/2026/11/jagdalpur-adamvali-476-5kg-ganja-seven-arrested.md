@@ -63,6 +63,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-05
     language: hi
+  - title: बस्तर में गांजे की 2.38 करोड़ की खेप पकड़ाई, 3 नाबालिग भी तस्करी में शामिल! ओडिशा से UP जा रहा था नशे का जखीरा
+    url: https://navbharatlive.com/chhattisgarh/bastar/bastar-police-seized-238-crore-cannabis-three-accused-arrested-cgn91
+    publisher: Navbharat Live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -83,12 +88,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The cannabis was being taken from Odisha toward Uttar Pradesh.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The intercepted white pickup bore registration number CG 17 KL 0411.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The seized escort motorcycle bore registration number OD 30 B 6256.'
+  - This Navbharat Live report cites NDPS Act section 20(b)(ii)(C), while the existing report cites section 20(b)(iii)(C) from earlier sources; the existing section is retained.
+  - Spellings differ only by transliteration across outlets, such as Adawal for Adamvali, Bodhghat for Boghaghat and Kontamadi for Kantamadi, and do not indicate different places.
+  - The page image is captioned only Chhattisgarh Jagdalpur news and is not shown to depict this interception, so no media entry is added.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7,8] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
-Chitrasen Gallauri, 22. [@2,7] All seven come from Kantamadi village in the
+Chitrasen Gallauri, 22. [@2,7,8] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2] Haribhoomi
 called the seizure the largest action Bastar police have taken this year. [@2]
 
@@ -98,7 +106,7 @@ set up a blockade near Adamvali railway crossing. [@2,5] Officers saw two young
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2] The pickup held
 450 packets of ganja hidden in 15 sacks. [@2,5] Police valued the cannabis at 2
-crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7] Besides the
+crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5]
 
@@ -112,7 +120,7 @@ traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
 rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6] Officers seized a Tata pickup and a
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8] Officers seized a Tata pickup and a
 motorcycle used in the smuggling at the scene. [@1,3,4,6] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1,6]
@@ -120,3 +128,5 @@ ganja from Odisha to Uttar Pradesh. [@1,6]
 Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
 Uttar Pradesh. [@1,4]
+
+The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8]
