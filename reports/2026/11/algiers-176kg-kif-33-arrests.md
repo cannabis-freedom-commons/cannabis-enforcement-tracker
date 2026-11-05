@@ -55,6 +55,11 @@ sources:
     publisher: إرم نيوز
     date: 2026-11-05
     language: ar
+  - title: 'الجزائر: حجز أكثر من مليون قرص مخدر'
+    url: https://hakaekonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AD%D8%AC%D8%B2-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1/
+    publisher: Hakaekonline | حقائق اون لاين
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
@@ -63,18 +68,20 @@ open_questions:
   - The ministry's statement values the seized cash at 200 million centimes (2 million dinars), but does not say where the money came from or whether it is linked to the networks.
   - The Chinese page names Algiers as the unit's base and gives no more precise site for the operation.
   - The page's single image carries only the operation headline as its caption with no credit or visual details confirming it shows this seizure, so no media entry is included.
+  - The submitted page names only Algeria and does not give a more precise operation site; Algiers comes from the existing report's earlier sources.
+  - The page image carries only the caption IMG_6630 with no credit or visual details confirming it shows this seizure, so no media entry is included.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
 November 2026, Algeria's defence ministry said. [@1,4,5] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
-[@1,4,5,6]
+[@1,4,5,6,7]
 
 The operation seized 176 kilograms of kif traité, a processed cannabis product.
-[@3,4,5,6] The cannabis formed one component of a wider haul that also included
-cocaine and psychotropic tablets. [@1] The operation also included seizure of 21
-utility vehicles. [@2]
+[@3,4,5,6,7] The cannabis formed one component of a wider haul that also included
+cocaine and psychotropic tablets. [@1,7] The operation also included seizure of 21
+utility vehicles. [@2,7]
 
 The ministry placed the action within Algeria's national strategy for preventing
 drugs and narcotics. [@1] It said the operation continued the armed forces'
