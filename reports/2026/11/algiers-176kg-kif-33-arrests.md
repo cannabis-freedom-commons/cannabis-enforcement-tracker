@@ -65,6 +65,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-05
     language: en
+  - title: تفكيك شبكتين للاتجار بالمخدرات في الجزائر... وتوقيف 33 شخصاً بينهم قاصر
+    url: https://www.lebanon24.com/news/world-news/1591521/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%AA%D9%8A%D9%86-%D9%84%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-33-%D8%B4%D8%AE%D8%B5%D8%A7%D9%8B-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D9%82%D8%A7%D8%B5%D8%B1
+    publisher: Lebanon24
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
@@ -76,18 +81,21 @@ open_questions:
   - The submitted page names only Algeria and does not give a more precise operation site; Algiers comes from the existing report's earlier sources.
   - The page image carries only the caption IMG_6630 with no credit or visual details confirming it shows this seizure, so no media entry is included.
   - The English page is subscriber-only after its first paragraph, so it confirms the two networks, the agency and the 4 November timing but not the 176 kg cannabis weight, the 33 arrests or the other seizures recorded in the French and Arabic editions.
+  - Lebanon24 credits Reuters while the Erem News original names its own reporter, and neither says whether the 176 kg figure comes from the ministry's statement or was added in reporting.
+  - The cash is given as 200 million centimes, about 2 million dinars, but the sources do not say whether it is counted as trafficking proceeds.
+  - The sources do not name the 33 detainees, give the minor's age, record charges, or report any court outcome.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
-November 2026, Algeria's defence ministry said. [@1,4,5,8] The ministry reported that
+November 2026, Algeria's defence ministry said. [@1,4,5,8,9] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
-[@1,4,5,6,7]
+[@1,4,5,6,7,9]
 
 The operation seized 176 kilograms of kif traité, a processed cannabis product.
 [@3,4,5,6,7] The cannabis formed one component of a wider haul that also included
-cocaine and psychotropic tablets. [@1,7] The operation also included seizure of 21
-utility vehicles. [@2,7]
+cocaine and psychotropic tablets. [@1,7,9] The operation also included seizure of 21
+utility vehicles. [@2,7,9]
 
 The ministry placed the action within Algeria's national strategy for preventing
 drugs and narcotics. [@1] It said the operation continued the armed forces'
@@ -99,3 +107,5 @@ efforts would help reinforce citizens' security and the country's stability.
 [@1]
 
 The ministry said the seizures also included 21 utility vehicles and cash estimated at 200 million centimes. [@5,6]
+
+The defence ministry said the 21 cars included vehicles fitted with water tanks. [@6] The operation was carried out by the National Gendarmerie's anti-narcotics service in Algiers and targeted two networks trafficking illicit narcotics and psychotropic substances. [@6]
