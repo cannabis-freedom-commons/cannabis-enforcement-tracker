@@ -39,6 +39,16 @@ sources:
     publisher: Verelq News
     date: 2026-10-02
     language: ru
+  - title: Հայտնաբերվել է մաքսանենգ ճանապարհով ներկրված 14 կգ-ից ավելի մարիխուանա, 1 անձ ձերբակալվել է. ՆԳՆ
+    url: https://hetq.am/hy/article/184404
+    publisher: Hetq
+    date: 2026-10-02
+    language: hy
+  - title: 'Полиция Армении обнаружила свыше 14 кг. марихуаны: задержан иностранец'
+    url: https://news.am/ru/news/1065351
+    publisher: NEWS.am
+    date: 2026-10-02
+    language: ru
 open_questions:
   - The exact factory and parking location was not named beyond a factory site near the Yerevan-Sevan highway.
   - The suspect was identified only as a 45-year-old foreign national; name and citizenship were not published.
@@ -46,22 +56,23 @@ open_questions:
   - No charge, custody ruling beyond detention, or court outcome was reported; the investigation was still under way.
   - Verelq headlines the amount as 14 kg while its body gives the precise 14.2 kg used in the report.
   - Verelq calls the fourth participant the patrol service without a Kotayk-regional qualifier, while the report says Kotayk regional patrol police; the joint-operation match is otherwise exact.
+  - 'Left out, as its quotation was not found in Hetq: Authorities classified the 14.2 kg as an especially large quantity.'
 ---
 
 Armenian officers detained one person for attempting to illegally bring drugs
-into the country in an especially large amount of 14.2 kg. [@1] The detainee is
+into the country in an especially large amount of 14.2 kg. [@1,4] The detainee is
 a 45-year-old foreign national suspected of smuggling drugs into Armenia for
-distribution. [@2,3] Police found the man at about 2:30 a.m. on 29 September in a
-truck parked at a factory site near the Yerevan-Sevan highway. [@2,3] Officers
-took the suspect to a detention facility. [@2,3]
+distribution. [@2,3,5] Police found the man at about 2:30 a.m. on 29 September in a
+truck parked at a factory site near the Yerevan-Sevan highway. [@2,3,4] Officers
+took the suspect to a detention facility. [@2,3,4]
 
 A subsequent search of the truck uncovered 30 packages containing a total of
-14.2 kg of marijuana. [@2,3] The marijuana was found inside the cabin of the
-truck. [@1,3] Authorities classified the 14.2 kg as an especially large quantity.
+14.2 kg of marijuana. [@2,3,5] The marijuana was found inside the cabin of the
+truck. [@1,3,4] Authorities classified the 14.2 kg as an especially large quantity.
 [@1] The search followed joint operational-investigative measures carried out
 with National Security Service and Interior Ministry officers. [@1]
 
 The detention followed a joint operation involving the Kotayk regional
 criminal-police department, the National Security Service, the Investigative
-Committee and the Kotayk regional patrol police. [@2,3] The preliminary
-investigation in the criminal case is continuing. [@1,3]
+Committee and the Kotayk regional patrol police. [@2,3,5] The preliminary
+investigation in the criminal case is continuing. [@1,3,4]
