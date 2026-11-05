@@ -69,6 +69,19 @@ sources:
     publisher: BERITA Mediacorp
     date: 2026-11-05
     language: ms
+  - title: 新加坡一名涉嫌贩毒男子咬伤官员——Channel NewsAsia
+    url: https://ua.news/cn/dovkolo-svitu/pidozriuvanii-u-narkotorgivli-vkusiv-ofitsera-v-singapuri-channel-newsasia
+    publisher: UA.NEWS
+    date: 2026-11-05
+    language: zh
+  - title: Drug trafficking suspect bites CNB officer’s thigh during arrest
+    url: https://www.channelnewsasia.com/singapore/man-bite-cnb-officer-spit-drugs-arrest-6526036
+    publisher: CNA
+    date: 2026-11-05
+  - title: Suspected drug trafficker arrested; suspect struggled violently and assaulted officers
+    url: https://www.cnb.gov.sg/mediaroom/news/suspected-drug-trafficker-arrested--suspect-struggled-violently-and-assaulted-officers
+    publisher: Central Narcotics Bureau
+    date: 2026-11-05
 open_questions:
   - No charges or court outcome were reported; the bureau said its investigation into the man's drug activities was ongoing and he had been referred to police for separate offences.
   - The S$55,000 estimate covers the cannabis, Ice and Ecstasy together and was not broken down by substance, so it cannot be attributed to the cannabis alone.
@@ -90,11 +103,11 @@ Central Narcotics Bureau officers arrested a 64-year-old Singaporean man on
 suspicion of drug trafficking in a residential unit in the vicinity of Marsiling
 Road on the morning of 3 November 2026. [@1,3,5,7,8] During the arrest the man struggled
 violently and bit an officer's thigh through his jeans, and he spat on two other
-officers. [@1,3,6,7,8] All three officers received prompt medical attention, including
-assessment for potential infectious diseases. [@1,5,7,8]
+officers. [@1,3,6,7,8,10] All three officers received prompt medical attention, including
+assessment for potential infectious diseases. [@1,5,7,8,9]
 
 A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of
-Ecstasy and S$356 in cash, along with drug paraphernalia. [@1,5,8] Assistant
+Ecstasy and S$356 in cash, along with drug paraphernalia. [@1,5,8,11] Assistant
 Commissioner Ng Khai Song, director of the bureau's intelligence division, said
 CNB would not tolerate any acts of violence against its officers. [@1,3,8]
 
