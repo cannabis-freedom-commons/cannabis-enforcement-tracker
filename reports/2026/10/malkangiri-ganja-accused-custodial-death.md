@@ -25,6 +25,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-05
     language: hi
+  - title: उड़ीसा में गांजा तस्कर की कस्टडी में मौत मामला, हांसी SP ने 5 पुलिसकर्मियों को किया सस्पेंड, विभागीय जांच शुरू
+    url: https://www.etvbharat.com/hi/state/hansi-ganja-smuggling-case-five-cia-1-police-personnel-suspended-after-accused-dies-in-odisha-custody-hrs26110503217
+    publisher: ETV Bharat News
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The source gives 27 March, 25 October and 26 October without a year; 2026 is inferred from the 5 November 2026 publication date, and 26 October 2026 is used as the incident date.
   - The death account is the escorting police team's version only; no post-mortem findings, magistrate inquiry findings or independent account were published.
@@ -33,27 +38,30 @@ open_questions:
   - The exact village or town of the death within Malkangiri district was not named, so district-centre coordinates are used.
   - Only one accessible source for this event was found after searching in English and Hindi.
   - The page image is a 2021 Hisar file photo with a generic caption and is not established to show this event, so no media entry is included.
+  - The ETV Bharat page image is captioned only 'HANSI GANJA SMUGGLING CASE' and is not established to show this seizure, custody or suspension, so no media entry is included.
+  - The ETV Bharat account says Dey died by suicide after going to the washroom but does not state the hanging method recorded in the existing report.
 ---
 
 Haryana police suspended five CIA Hansi personnel after ganja-smuggling accused
 Tanup Dey, also called Rahul and Bapun, died in police custody in Odisha. [@1]
 Hansi Superintendent of Police Vinod Kumar ordered the suspensions and a
-departmental inquiry into the death. [@1] The inquiry will examine the
+departmental inquiry into the death. [@1,2] The inquiry will examine the
 circumstances and all related aspects of the incident. [@1]
 
 The case began on 27 March, when a CIA Hansi team arrested four men near the
 canal bridge on the Garhi to Bhatol road and seized 63 kg 700 grams of ganja
-from them. [@1] Police identified the four as Rakesh and Manveer of Igrah in
-Jind district and Vinod and Ravindra of Puthhi. [@1] Investigators said
+from them. [@1,2] Police identified the four as Rakesh and Manveer of Igrah in
+Jind district and Vinod and Ravindra of Puthhi. [@1,2] Investigators said
 disclosure statements by Manveer and Vinod named Odisha resident Tanup Dey as
-the ganja supplier. [@1] A CIA special team arrested Dey on 25 October with
+the ganja supplier. [@1,2] A CIA special team arrested Dey on 25 October with
 local police assistance and, after a court granted five days of transit remand,
-stayed with him in Odisha's Malkangiri district. [@1]
+stayed with him in Odisha's Malkangiri district. [@1,2]
 
 Police said Dey went to the washroom on the morning of 26 October and hanged
-himself there with a gamcha, a cotton cloth. [@1] The escort team informed local
+himself there with a gamcha, a cotton cloth. [@1,2] The escort team informed local
 police, who completed the required legal process under National Human Rights
 Commission guidelines. [@1] The suspended men are Assistant Sub-Inspector
 Sammat, PSI Kapil, EHC Joginder, EHC Arjun and Constable Mukesh, who must report
-at the Hansi police lines during suspension. [@1]
+at the Hansi police lines during suspension. [@1,2]
 
+Police gave the four accused's parentage as Rakesh son of Krishna, Manveer son of Jora, Vinod son of Lahna and Ravindra son of Kuldeep. [@2]
