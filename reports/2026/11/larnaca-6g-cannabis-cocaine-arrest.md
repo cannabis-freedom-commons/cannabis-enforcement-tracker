@@ -76,6 +76,14 @@ sources:
     url: https://en.politis.com.cy/news/cy-news/1062913/synthetic-drugs-overtake-cannabis-in-cyprus
     publisher: Politis
     date: 2026-11-04
+  - title: Larnaca man, 32, arrested after police find over 1kg of cocaine and €21,100 in cash
+    url: https://www.kiprinform.com/en/news/larnaca-man-32-arrested-after-police-find-over-1kg-of-cocaine-and-e21100-in-cash/
+    publisher: Cyprus Inform
+    date: 2026-11-03
+  - title: Mazotos cocaine suspect believed part of trafficking network, police say
+    url: https://en.philenews.com/local/mazotos-cocaine-suspect-network-remanded-eight-days
+    publisher: Philenews
+    date: 2026-11-03
 open_questions:
   - The articles give only the publication date of 3 November 2026 and say the arrest was on Monday; 2 November 2026 is used as the incident date by inference.
   - No weight was published for the small amount of cannabis resin, so it is excluded from the cannabis weight figure.
@@ -99,6 +107,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Reporter: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
   - The article also reports national seizure totals and drug-use trends, which belong to the CFI history and are left out of this enforcement report.
   - The page header image carries only the caption Header Image, with nothing establishing that it shows this Larnaca seizure, so no media entry is added.
+  - 'Left out, as its quotation was not found in Philenews: The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court.'
 ---
 
 Police arrested a 32-year-old man in Larnaca district on Monday after searches
@@ -127,8 +136,10 @@ be proceeds of illegal activities. [@2]
 
 The 32-year-old man was remanded for eight days on Tuesday by Larnaca district court. [@4,7,8,9,11,12]
 
-Police also seized four mobile phones. [@9,11,12]
+Police also seized four mobile phones. [@9,11,12,13]
 
 Police said the 32-year-old Greek Cypriot was arrested after surveillance and is believed to be a member of a drug-trafficking criminal network. [@11,12] Police said they will also investigate his financial records. [@11,12]
 
 The suspect was previously unknown to YKAN despite intelligence concerning him. [@12]
+
+The car stop took place in a rural part of Mazotos. [@14]
