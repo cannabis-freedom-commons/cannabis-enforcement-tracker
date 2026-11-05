@@ -76,6 +76,11 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-05
     language: hi
+  - title: 'कानपुर की कल की 10 बड़ी खबरें, VIDEO में: जमीन विवाद में चलीं गोलियां; 1.50 करोड़ की चरस के साथ महिला गिरफ्तार; फ्लाइट का किराया महंगा - Kanpur News'
+    url: https://www.bhaskar.com/g/local/uttar-pradesh/kanpur/news/kanpur-top-10-news-update-4-october-2026-drug-bust-land-dispute-flight-fare-hike-video-139591549.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -95,6 +100,8 @@ open_questions:
   - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
   - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
   - The page image is labelled only with the article headline and its file name indicates a screenshot, so it is not established to show this seizure and no media entry is included.
+  - The roundup gives only the Rs 1.5 crore valuation and no weight for the charas, so it does not settle the recorded difference between 3 kg and 1.5 kg.
+  - The roundup repeats the account in a few lines and names no police officer, so it adds no detail beyond the value and the tea-stall cover story.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
@@ -103,7 +110,7 @@ Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
 late-night tip. [@1,2,6]
 
 Police put the international-market value of the seized charas at about Rs 1.5
-crore. [@1,2,3,4,5,6] Officers said they had been receiving information for several days
+crore. [@1,2,3,4,5,6,8] Officers said they had been receiving information for several days
 that charas was being sold in Kanghi Mohal. [@1,3,6] The roadside detention and
 search caused alarm among people nearby. [@1,6]
 
@@ -111,11 +118,11 @@ Police Commissioner Raghuveer Lal said Shabnam's husband Raees Ahmed had died
 some time earlier. [@1,3,6] After his death, she lived with her partner Riyaz
 Khatola. [@1,3,6] Riyaz had earlier been sent to jail for allegedly selling charas
 while carrying an illegal pistol and had not been released. [@1,2,6] Police said
-Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6,7]
+Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6,7,8]
 Besides selling, she also smuggled charas, police said. [@1,6] Women police were
 questioning her to trace her associates. [@1,3,6]
 
-The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
+The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5,8] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
 
 Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
 
