@@ -133,6 +133,11 @@ sources:
     url: https://hiphopwired.com/3068862/wiz-khalifa-prison-sentence-overturned-romania/
     publisher: Hip-Hop Wired
     date: 2026-11-04
+  - title: Wiz Khalifa scapă de închisoare după ce a fumat canabis pe scena de la Beach, Please!. Curtea de apel București a anulat condamnarea rapperului
+    url: https://www.romaniatv.net/wiz-khalifa-scapa-de-inchisoare-dupa-ce-a-fumat-canabis-pe-scena-de-la-beach-please-curtea-de-apel-bucuresti-a-anulat-condamnarea-rapperului_9897670.html
+    publisher: Romania TV
+    date: 2026-11-04
+    language: ro
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -162,9 +167,9 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16] State-advanced court costs remain on him. [@3]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17] State-advanced court costs remain on him. [@3]
 
-On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15]
+On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15]
 
 The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11]
 
