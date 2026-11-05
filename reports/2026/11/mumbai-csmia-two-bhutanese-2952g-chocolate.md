@@ -23,6 +23,11 @@ sources:
     url: https://www.freepressjournal.in/mumbai/mumbai-airport-customs-arrests-2-bhutanese-nationals-with-nearly-3-kg-cannabis-smuggled-from-bangkok-at-csmia
     publisher: Free Press Journal
     date: 2026-11-05
+  - title: चॉकलेटच्या वेष्टनातून गांजाची तस्करी; मुंबई विमानतळावर भूतानमधील दोन नागरिकांना अटक, बँकॉकहून आलेल्या प्रवाशांकडून तीन किलो गांजा जप्त
+    url: https://www.loksatta.com/mumbai/mumbai-airport-drug-smuggling-bhutanese-citizens-arrested-ganja-seized-bangkok-mumbai-print-news-sap-05-6232220/
+    publisher: Loksatta
+    date: 2026-11-05
+    language: mr
 open_questions:
   - The article gives no calendar date for either interception and says only they happened "recently"; 4 November 2026 is the dateline of its text and is used as the incident date.
   - The two interceptions are not dated separately, so it is not known how far apart they occurred.
@@ -35,12 +40,12 @@ open_questions:
 
 Air Intelligence Unit officers at Chhatrapati Shivaji Maharaj International
 Airport in Mumbai arrested two Bhutanese nationals who had arrived from Bangkok
-on separate flights, and seized cannabis. [@1]
+on separate flights, and seized cannabis. [@1,2]
 
 In the first interception, officers acting on specific profiling stopped a
 Bhutanese passenger identified as Tshegay as he arrived from Thailand. [@1]
 Officers found seven vacuum-sealed packets concealed inside commercial chocolate
-wrappers, holding 1,452 grams of cannabis. [@1] Tshegay admitted the offence
+wrappers, holding 1,452 grams of cannabis. [@1,2] Tshegay admitted the offence
 during questioning and said he had been lured by the promise of “quick and easy
 money”. [@1] He was summoned, his statement recorded under the Narcotic Drugs
 and Psychotropic Substances (NDPS) Act, and he was arrested. [@1]
@@ -48,9 +53,9 @@ and Psychotropic Substances (NDPS) Act, and he was arrested. [@1]
 Closely following the first interception, officers stopped a second Bhutanese
 national, Tashi Tenzin, who had also flown into Mumbai from Bangkok. [@1] A
 search of Tenzin's baggage found seven chocolate carton boxes holding another
-consignment of approximately 1,500 grams of cannabis. [@1] Tenzin was arrested
+consignment of approximately 1,500 grams of cannabis. [@1,2] Tenzin was arrested
 immediately after failing to give a legitimate explanation for the contraband.
-[@1]
+[@1,2]
 
 Together the two interceptions produced almost three kilograms of high-grade
 cannabis, and Customs officials said the syndicates recruit nationals of
@@ -58,4 +63,3 @@ neighbouring countries such as Bhutan as mules by offering financial incentives.
 [@1] A senior Customs officer said preliminary investigations and the accused
 men's statements show other foreign and local handlers are involved and have yet
 to be traced. [@1]
-
