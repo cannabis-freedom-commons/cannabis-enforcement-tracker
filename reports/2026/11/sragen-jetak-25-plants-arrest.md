@@ -67,6 +67,11 @@ sources:
     publisher: detikJateng
     date: 2026-11-04
     language: id
+  - title: Tim Satnarkoba Polres Sragen Bongkar Kebun Ganja Tersembunyi di Rumah Warga, 25 Batang Disita
+    url: https://jogja.viva.co.id/solo-raya/12670-tim-satnarkoba-polres-sragen-bongkar-kebun-ganja-tersembunyi-di-rumah-warga-25-batang-disita
+    publisher: VIVA Jogja
+    date: 2026-11-05
+    language: id
 open_questions:
   - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
   - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
@@ -85,32 +90,35 @@ open_questions:
   - This account estimates about 2-2.5 kilograms with a potential value of about Rp250 million, differing from the 5 kilograms with a Rp250 million value already recorded, so the earlier figures are retained.
   - This account gives only the 4 November 2026 police display date and no separate search date, so the recorded 24 October 2026 search and 4 November 2026 display dates are unchanged.
   - This account says the seeds came from an Aceh man met in Mangkunegaran, Solo during an entertainment event without naming him, while the existing report names the giver as Juan, and that naming difference is unresolved.
+  - The single photo on the VIVA Jogja page appears to show the same Sragen police display of the seized plants already listed from other outlets, so no new media entry was added.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25
 cannabis stalks growing around his house. [@1,2,3,4,5] The man, identified only by the
-initials BW, is now in police custody. [@1,3,5] Sragen police chief AKBP Heru
+initials BW, is now in police custody. [@1,3,5,6] Sragen police chief AKBP Heru
 Antariksa Cahya said BW lives in Sidoharjo district in Sragen. [@1]
 Investigators charged BW under Article 114 paragraph (2) of the 2009 Narcotics
 Law in conjunction with the 2023 Criminal Code and the 2026 sentence-adjustment
-law. [@1,3,5] Under that charge, police said he faces the most severe penalty of
-death. [@1,3,5]
+law. [@1,3,5,6] Under that charge, police said he faces the most severe penalty of
+death. [@1,3,5,6]
 
 Police said they seized from BW at least 25 cannabis stalks and four cannabis
-seedlings plus 15.8 grams of dried cannabis. [@1,2,3,4] Police displayed the seized 25
+seedlings plus 15.8 grams of dried cannabis. [@1,2,3,4,6] Police displayed the seized 25
 plants at Sragen police headquarters on 4 November 2026 together with the
 seedlings and dried cannabis. [@1]
 
 The Sragen district police narcotics chief AKP Sudarmiyanto said BW received
-cannabis seeds from a man from Aceh named Juan in Solo in April 2026. [@1,4] BW
+cannabis seeds from a man from Aceh named Juan in Solo in April 2026. [@1,4,6] BW
 met Juan in Mangkunegaran in Keprabon village, Banjarsari district, Solo. [@1]
 Juan gave BW the cannabis seeds during a holiday outing. [@1] BW first sowed the
 cannabis seeds in a small basin. [@1,2,5] After receiving the seeds, he planted them
 around his house. [@1,4] The plants were four to five months old and were intended
-for New Year celebrations. [@1,5]
+for New Year celebrations. [@1,5,6]
 
 Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2,5] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
 
 Police described the Sragen cannabis-plant case as the first such case uncovered in Sragen. [@3,5] Police said BW consumed cannabis leaves every day in the morning and evening. [@3,5]
 
 The seized plants stood about 170 centimetres tall in the narrow gap between the houses. [@5] One of the 26 plants had already been harvested, and that harvest had been given or sold to someone around Ngrampal, Sragen. [@5]
+
+BW sowed the seeds in a small basin and they grew to about 6 to 7 centimetres there before being moved on. [@6]
