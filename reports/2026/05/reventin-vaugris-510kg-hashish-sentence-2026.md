@@ -42,19 +42,25 @@ sources:
     publisher: Le Dauphiné Libéré
     date: 2026-05-28
     language: fr
+  - title: 'Ain. Il convoyait une demi-tonne de cannabis à destination d’Oyonnax : comment ce Belge endetté a plongé'
+    url: https://www.leprogres.fr/faits-divers-justice/2026/05/28/il-convoyait-une-demi-tonne-de-cannabis-a-destination-d-oyonnax-comment-ce-belge-endette-a-plonge
+    publisher: Le Progrès
+    date: 2026-05-29
+    language: fr
 open_questions:
   - No separate sentencing date is stated; the reports place the hearing in the week before the 28-30 May 2026 publications, and 28 May 2026 is used here as the sentence-date proxy.
   - The 2 grams of cocaine found in the cab are excluded from cannabis figures as a separate substance in a mixed event.
   - The 38 percent THC figure and the 30 percent average are press-reported estimates attributed to Le Progrès, not published laboratory results.
   - Le Dauphiné Libéré gives the driver's full surname as Hermans while other outlets identify him only as Stéphane H.
   - 'No event photograph could be linked: the submitted page''s thumbnail has no caption or credit tying it to this seizure, the Actu.fr image is labelled as an illustration, and the Le Dauphiné Libéré image is an archive photo.'
+  - The submitted page is paywalled after its opening paragraphs, so only the visible excerpt could be checked against the existing report.
 ---
 
 A 55-year-old Belgian truck driver was stopped on the A7 south of Lyon on 21 May
 with more than half a tonne of cannabis aboard his refrigerated truck. [@1]
 Stéphane H. was arrested at dawn at the Reventin-Vaugris toll plaza. [@1] He was
 driving toward Oyonnax in the Ain department. [@2] He drove a Dutch-registered
-refrigerated truck carrying the drugs loose in bags. [@2] He said he took the
+refrigerated truck carrying the drugs loose in bags. [@2,4] He said he took the
 smuggling jobs to pay off more than 50,000 euros in debts, taken on partly for
 his wife's medical care. [@1] An acquaintance had repeatedly proposed the work
 before he accepted 10,000 euros per trip. [@2] He appeared before the criminal
@@ -65,8 +71,8 @@ fine. [@2] The truck was confiscated and impounded. [@2]
 
 When customs officers opened the trailer they found no refrigerated goods but
 dozens of stacked bags holding 510 kilos of hashish. [@1] The resin tested at 38
-percent THC, well above the 30 percent average. [@3] The load's resale value was
-estimated at nearly 4 million euros. [@1] Officers also found 2 grams of cocaine
+percent THC, well above the 30 percent average. [@3,4] The load's resale value was
+estimated at nearly 4 million euros. [@1,4] Officers also found 2 grams of cocaine
 in a pouch in the cab. [@3] The driver said the cocaine had been given to him so
 he would not fall asleep. [@3] He spent 96 hours in custody with the Lyon branch
 of the anti-drugs office Ofast, where he admitted carrying the drugs to pay his
@@ -74,5 +80,4 @@ debts. [@2]
 
 His routine was to fly to Barcelona and drive each load back into France by
 road. [@2] Three trips had gone without trouble before the fourth ended in his
-arrest. [@1]
-
+arrest. [@1,4]
