@@ -37,6 +37,14 @@ sources:
     publisher: 8world
     date: 2026-11-05
     language: zh
+  - title: S'porean man, 64, arrested near Marsiling for suspected drug trafficking, bit officer's thigh & spat on 2 others
+    url: https://mothership.sg/2026/11/sporean-man-arrested-suspected-drug-trafficking-bit-spat/
+    publisher: Mothership
+    date: 2026-11-05
+  - title: Suspected drug trafficker bites CNB officer, spits at 2 others during Marsiling arrest
+    url: https://www.asiaone.com/singapore/suspected-drug-trafficker-bites-cnb-officer-spits-officers
+    publisher: AsiaOne
+    date: 2026-11-05
 open_questions:
   - No charges or court outcome were reported; the bureau said its investigation into the man's drug activities was ongoing and he had been referred to police for separate offences.
   - The S$55,000 estimate covers the cannabis, Ice and Ecstasy together and was not broken down by substance, so it cannot be attributed to the cannabis alone.
@@ -44,23 +52,26 @@ open_questions:
   - The exact address of the residential unit was not published, only that it was in the vicinity of Marsiling Road.
   - Only the CNB release and one Chinese-language outlet report were found for this event.
   - 'Left out, as its quotation was not found in Central Narcotics Bureau: The bureau estimated the drugs seized were worth more than S$55,000 and said the cannabis and Ice could feed the addiction of 320 abusers for a week.'
+  - Mothership is a further English-language account of the same bureau release rather than independent reporting, and its figure of 320 abusers and the S$55,000 estimate cover cannabis and Ice together.
+  - No charge or court outcome appears in the new account; the bureau said only that investigations continued.
 ---
 
 Central Narcotics Bureau officers arrested a 64-year-old Singaporean man on
 suspicion of drug trafficking in a residential unit in the vicinity of Marsiling
-Road on the morning of 3 November 2026. [@1] During the arrest the man struggled
+Road on the morning of 3 November 2026. [@1,3] During the arrest the man struggled
 violently and bit an officer's thigh through his jeans, and he spat on two other
-officers. [@1] All three officers received prompt medical attention, including
+officers. [@1,3] All three officers received prompt medical attention, including
 assessment for potential infectious diseases. [@1]
 
 A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of
 Ecstasy and S$356 in cash, along with drug paraphernalia. [@1] Assistant
 Commissioner Ng Khai Song, director of the bureau's intelligence division, said
-CNB would not tolerate any acts of violence against its officers. [@1]
+CNB would not tolerate any acts of violence against its officers. [@1,3]
 
 Trafficking more than 500 g of cannabis may carry the mandatory death penalty
-under the Misuse of Drugs Act 1973. [@1] The man was also referred to the police
+under the Misuse of Drugs Act 1973. [@1,3] The man was also referred to the police
 for further investigation of voluntarily causing hurt and of using criminal
 force to deter public servants from their duties. [@1] The bureau said its
-investigation into the man's drug activities was still under way. [@2]
+investigation into the man's drug activities was still under way. [@2,3]
 
+The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3] All three officers were taken down. [@4]
