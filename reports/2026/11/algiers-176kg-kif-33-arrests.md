@@ -60,6 +60,11 @@ sources:
     publisher: Hakaekonline | حقائق اون لاين
     date: 2026-11-05
     language: ar
+  - title: Two cross-border criminal rings dismantled, drugs seized in Algiers
+    url: https://www.aps.dz/en/algeria/national-news/mw3q88pe-two-cross-border-criminal-rings-dismantled-drugs-seized-in-algiers
+    publisher: Algérie Presse Service
+    date: 2026-11-05
+    language: en
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
@@ -70,11 +75,12 @@ open_questions:
   - The page's single image carries only the operation headline as its caption with no credit or visual details confirming it shows this seizure, so no media entry is included.
   - The submitted page names only Algeria and does not give a more precise operation site; Algiers comes from the existing report's earlier sources.
   - The page image carries only the caption IMG_6630 with no credit or visual details confirming it shows this seizure, so no media entry is included.
+  - The English page is subscriber-only after its first paragraph, so it confirms the two networks, the agency and the 4 November timing but not the 176 kg cannabis weight, the 33 arrests or the other seizures recorded in the French and Arabic editions.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
-November 2026, Algeria's defence ministry said. [@1,4,5] The ministry reported that
+November 2026, Algeria's defence ministry said. [@1,4,5,8] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
 [@1,4,5,6,7]
 
