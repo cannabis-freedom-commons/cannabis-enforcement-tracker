@@ -30,6 +30,11 @@ media:
     media_url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-pessoas-no-piaui/whatsapp-image-2026-11-04-at-15-14-52.jpeg/@@images/66368218-b36a-498e-8505-fe606c63e973.jpeg
     publisher: Polícia Federal
     caption: 'Police photo of a second burned cannabis plot in the Paes Landim area. Photo: Polícia Federal.'
+  - kind: photo
+    url: https://g1.globo.com/pi/piaui/noticia/2026/11/04/destruidos-pi-operacao.ghtml
+    media_url: https://s2-g1.glbimg.com/qMHGOIEjsOiC78L6fldxbh0mYRU=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/p/P2nWEfR4GIjN2DSHSBjA/edicao-imagens-g1-1-.jpg
+    publisher: g1
+    caption: 'Federal Police handout photo published with the g1 report on the eradication, captioned ''20 mil pés de maconha são erradicados no PI; três pessoas são presas''. Photo: PF-PI.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7e789da53b424c595c697e5aed18d315
@@ -45,12 +50,18 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-04
     language: pt
+  - title: Cerca de 20 mil pés de maconha são destruídos no PI; três pessoas são presas
+    url: https://g1.globo.com/pi/piaui/noticia/2026/11/04/destruidos-pi-operacao.ghtml
+    publisher: g1
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
   - The Federal Police give no weight of cannabis or seedlings seized; the four tonnes is an estimate of the potential production of the destroyed plants.
   - The three detainees were not named and no charges, custody ruling or court outcome were reported.
   - Only the Federal Police's statement and its Agência Gov reprint could be opened; no independent news report of the operation was found.
+  - g1's correction states the operation took place in Simplício Mendes, while the report's date and headline still name Paes Landim; which municipality is correct remains unresolved in the published record.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
@@ -58,11 +69,12 @@ people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
 southern Piauí. [@1] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
-During the operation the teams found four plots used to grow the drug. [@1] The
+During the operation the teams found four plots used to grow the drug. [@1,3] The
 Federal Police estimated the potential production of the plots at about four
-tonnes of cannabis. [@1] Officers also found irrigation machinery, fertilisers,
-cultivation tools and a structure for raising seedlings at the sites. [@1]
+tonnes of cannabis. [@1,3] Officers also found irrigation machinery, fertilisers,
+cultivation tools and a structure for raising seedlings at the sites. [@1,3]
 
 The Federal Police's own statement gives the location as the rural zone of
 Simplício Mendes rather than Paes Landim. [@2]
 
+On 4 November 2026 g1 corrected its own report to say the cannabis plots were found and the arrests made in the municipality of Simplício Mendes, not Paes Landim, as the Federal Police subsequently clarified. [@3] The suspects were arrested in the course of the operation. [@3] The Federal Police did not release the identities of the three detainees or say what procedures followed their arrests. [@3]
