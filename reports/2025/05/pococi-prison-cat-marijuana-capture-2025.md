@@ -44,6 +44,11 @@ sources:
     publisher: El Mundo
     date: 2025-05-20
     language: es
+  - title: Narco-Michi, el insólito caso del gato que ha sido detenido por transportar droga en una cárcel de Costa Rica
+    url: https://www.ondacero.es/noticias/sociedad/capturan-gato-que-estaba-siendo-utilizado-transportar-droga-carcel-costa-rica_20250520682c266a278816063b750167.html
+    publisher: OndaCero
+    date: 2025-05-20
+    language: es
 open_questions:
   - El País says only that the incident happened in early May; other reports give the night of 6 May 2025, the date used here.
   - El País describes the second substance as crack paste and AFP as crack; one Ecuadorian report called it heroin, so only the 235.65 g of marijuana is recorded as cannabis.
@@ -56,6 +61,7 @@ open_questions:
   - El Mundo gives 235.56 grams of marijuana while the existing report records 235.65 grams, a 0.09-gram difference left unresolved.
   - The 67.76 grams of crack are excluded from cannabis figures because crack is not cannabis.
   - The only image captured from the El Mundo page is an unrelated thumbnail about another story, so no event photo from this outlet can be listed.
+  - OndaCero names the 67.76 grams taped to the cat as cocaine, while the report records the same amount as crack paste; the two accounts describe one second packet and neither figure is counted as cannabis.
 ---
 
 Costa Rican prison officers at the Penitenciaría de Pococí caught a domestic cat
@@ -65,7 +71,7 @@ prison and raised the alert. [@3] Guards found the animal with two packets taped
 to its body. [@2,4]
 
 One packet held 235.65 grams of what the authorities described as marijuana.
-[@1,4] The other held 67.76 grams of what the Justice and Peace Ministry called
+[@1,4,5] The other held 67.76 grams of what the Justice and Peace Ministry called
 crack paste, a cocaine product, which is not counted as cannabis here. [@3]
 Officers also found two sheets of rolling paper. [@3,4] The Prisión Policía seized
 the drugs and began investigating where they came from and where they were
@@ -77,3 +83,5 @@ Rica. [@2]
 
 El País reports the incident took place in early May. [@1] According to other
 reports, the capture happened on the night of 6 May 2025. [@3,4]
+
+The officers removed the packets, seized the drugs and handed the cat to the National Animal Health Service (Senasa). [@5] Police attributed the attempt to the prison's difficult perimeter monitoring and to the false belief that using animals would not raise suspicion. [@5]
