@@ -34,6 +34,11 @@ sources:
     publisher: القاهرة 24
     date: 2026-11-04
     language: ar
+  - title: الإعدام شنقًا لـ3 متهمين في قضية حشيش بسوهاج
+    url: https://mwlana.com/details/225670/
+    publisher: بوابة مولانا
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight, quantity or valuation of the hashish was published, so no cannabis weight is recorded.
   - The article gives no separate sentencing date beyond its 4 November 2026 publication timestamp, so that date is used as the incident date.
@@ -46,21 +51,21 @@ open_questions:
 ---
 
 Sohag Criminal Court sentenced three defendants to death by hanging for hashish
-trafficking in Maragha district. [@1,2] The court convicted them of possessing
+trafficking in Maragha district. [@1,2,4] The court convicted them of possessing
 hashish with intent to traffic and of holding a scalpel without lawful
-justification. [@1,2] It also ordered the three to pay the case expenses and
-confiscated the seized items. [@1,2]
+justification. [@1,2,4] It also ordered the three to pay the case expenses and
+confiscated the seized items. [@1,2,4]
 
 The defendants were identified only by their initials as M.A., 35, a holder of
 an industrial diploma, M.M., 25, also a holder of an industrial diploma, and
-A.A., 41, who is unemployed. [@1,2] Prosecutors said the case dated to November
+A.A., 41, who is unemployed. [@1,2,4] Prosecutors said the case dated to November
 2025, when the three were charged with possessing hashish for trafficking and
-holding the cutting tool. [@1,3] The case papers said they held the drugs to
+holding the cutting tool. [@1,3,4] The case papers said they held the drugs to
 promote and trade them and kept a cutting implement without lawful excuse in
 Maragha district of Sohag Governorate. [@1] The bench was headed by Hamdi Abdel
 Aziz with Mohy Abu Kreisha and Amr Makki, with clerks Taha Hussein and Maged
 Amin. [@1,3]
 
 After investigations ended, the Public Prosecution referred the case to the
-Sohag Criminal Court, which heard it and imposed the three death sentences. [@1,2]
+Sohag Criminal Court, which heard it and imposed the three death sentences. [@1,2,4]
 The court issued this ruling on 4 November 2026. [@1]
