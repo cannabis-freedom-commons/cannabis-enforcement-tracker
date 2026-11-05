@@ -37,6 +37,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/04/tanaman-ganja-di-celah-antar-rumah-warga-sragen-rabu-4112026-1793801709394_169.jpeg?w=700&q=90
     publisher: detikJateng
     caption: 'Cannabis plants growing in the narrow gap between houses in Sragen. Photo: Polres Sragen via detikJateng'
+  - kind: photo
+    url: https://joglosemarnews.com/2026/11/polres-sragen-bongkar-budidaya-pohon-ganja-pertama-di-sidoharjo-puluhan-batang-disita/
+    media_url: https://joglosemarnews.com/images/2026/11/penanaman-pohon-ganja.jpeg
+    publisher: Joglosemar News
+    caption: 'Cannabis plants found growing in the narrow gap between the suspect''s house and a neighbour''s house in Jetak Tani, Sidoharjo, Sragen. Photo: Istimewa (special submission)'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d555c0fd58d0dab6c0d3a00d7c61352a
@@ -72,6 +77,11 @@ sources:
     publisher: VIVA Jogja
     date: 2026-11-05
     language: id
+  - title: Polres Sragen Bongkar Budidaya Pohon Ganja Pertama di Sidoharjo, Puluhan Batang Disita
+    url: https://joglosemarnews.com/2026/11/polres-sragen-bongkar-budidaya-pohon-ganja-pertama-di-sidoharjo-puluhan-batang-disita/
+    publisher: JOGLOSEMAR NEWS
+    date: 2026-11-05
+    language: id
 open_questions:
   - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
   - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
@@ -91,10 +101,15 @@ open_questions:
   - This account gives only the 4 November 2026 police display date and no separate search date, so the recorded 24 October 2026 search and 4 November 2026 display dates are unchanged.
   - This account says the seeds came from an Aceh man met in Mangkunegaran, Solo during an entertainment event without naming him, while the existing report names the giver as Juan, and that naming difference is unresolved.
   - The single photo on the VIVA Jogja page appears to show the same Sragen police display of the seized plants already listed from other outlets, so no new media entry was added.
+  - This account counts 25 cannabis plants and gives no dried-cannabis weight, while the existing figures record 29 plants and 15.8 grams from other outlets.
+  - This account gives no separate search or arrest date; it quotes the police chief speaking on Wednesday 4 November 2026 and was published on 5 November 2026, when the police press conference took place.
+  - Police gave the plants' value only as a range of tens to hundreds of millions of rupiah, so no single value can be recorded.
+  - Police said the plants were sowed in April or May 2026 rather than April alone, and gave no arrest time.
+  - No court outcome was reported; police said the case would be updated as it develops.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25
-cannabis stalks growing around his house. [@1,2,3,4,5] The man, identified only by the
+cannabis stalks growing around his house. [@1,2,3,4,5,7] The man, identified only by the
 initials BW, is now in police custody. [@1,3,5,6] Sragen police chief AKBP Heru
 Antariksa Cahya said BW lives in Sidoharjo district in Sragen. [@1]
 Investigators charged BW under Article 114 paragraph (2) of the 2009 Narcotics
@@ -108,17 +123,19 @@ plants at Sragen police headquarters on 4 November 2026 together with the
 seedlings and dried cannabis. [@1]
 
 The Sragen district police narcotics chief AKP Sudarmiyanto said BW received
-cannabis seeds from a man from Aceh named Juan in Solo in April 2026. [@1,4,6] BW
-met Juan in Mangkunegaran in Keprabon village, Banjarsari district, Solo. [@1]
+cannabis seeds from a man from Aceh named Juan in Solo in April 2026. [@1,4,6,7] BW
+met Juan in Mangkunegaran in Keprabon village, Banjarsari district, Solo. [@1,7]
 Juan gave BW the cannabis seeds during a holiday outing. [@1] BW first sowed the
-cannabis seeds in a small basin. [@1,2,5] After receiving the seeds, he planted them
+cannabis seeds in a small basin. [@1,2,5,7] After receiving the seeds, he planted them
 around his house. [@1,4] The plants were four to five months old and were intended
 for New Year celebrations. [@1,5,6]
 
-Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2,5] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
+Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2,5,7] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
 
-Police described the Sragen cannabis-plant case as the first such case uncovered in Sragen. [@3,5] Police said BW consumed cannabis leaves every day in the morning and evening. [@3,5]
+Police described the Sragen cannabis-plant case as the first such case uncovered in Sragen. [@3,5,7] Police said BW consumed cannabis leaves every day in the morning and evening. [@3,5]
 
 The seized plants stood about 170 centimetres tall in the narrow gap between the houses. [@5] One of the 26 plants had already been harvested, and that harvest had been given or sold to someone around Ngrampal, Sragen. [@5]
 
-BW sowed the seeds in a small basin and they grew to about 6 to 7 centimetres there before being moved on. [@6]
+BW sowed the seeds in a small basin and they grew to about 6 to 7 centimetres there before being moved on. [@6,7]
+
+Sragen police chief AKBP Heru Antariksa Cahya presented the case at a press conference on narcotics cases for October and November 2026. [@7] Police said the plants were estimated to be four to five months old, with an ideal harvest time at around six to seven months, and the seeds were sowed in April or May 2026. [@7] Heru said he plans to sell part of the harvest to prepare for New Year celebrations. [@7] Police said their estimate put the plants' total cash value somewhere between tens and hundreds of millions of rupiah, and police are still searching for the Aceh seed supplier. [@7] The Sragen police chief said the case would be updated as it develops. [@7]
