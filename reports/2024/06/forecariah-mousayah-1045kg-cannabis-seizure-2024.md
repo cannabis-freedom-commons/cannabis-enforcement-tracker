@@ -40,35 +40,42 @@ sources:
     publisher: Guinéenews
     date: 2024-06-12
     language: fr
+  - title: 'Forécariah : plus d’une tonne de cannabis saisie par les services spéciaux'
+    url: https://mosaiqueguinee.com/2024/06/forecariah-plus-dune-tonne-de-cannabis-saisie-par-les-services-speciaux/
+    publisher: Mosaiqueguinee.com
+    date: 2024-06-11
+    language: fr
 open_questions:
   - Outlets spell the sub-prefecture Mousayah and Moussayah; the report uses the submitted article's spelling.
   - No court outcome beyond the announced transfer to the competent court was reported.
   - Whether the seized cannabis was later stored, destroyed or otherwise disposed of was not reported.
   - The status of the alleged accomplice described as Commander Soumah, reported to be at large, is not known.
+  - Mosaiqueguinee spells the sub-prefecture Moussayah, while most outlets use Mousayah; the existing report's spelling is unchanged.
 ---
 
 Guinea's special services arrested the driver of a 4x4 after cannabis was found
 in his vehicle and said he would be transferred to court for further
-proceedings. [@1] Guinéenews identified the detained driver as Naby Soumah and
+proceedings. [@1,4] Guinéenews identified the detained driver as Naby Soumah and
 reported that he admitted the allegations while saying it was his first time.
 [@3] The special-services chief said the load was seized with Soumah and an
 alleged accomplice described as a so-called Commander Soumah, who was at large
 and would be covered by an additional report to the competent prosecutor. [@3]
 
 The seizure totalled 1,045 kilograms, described as 1 tonne 45 kg, of cannabis,
-commonly called chanvre indien. [@1] Agents seized the cannabis on 5 June at
+commonly called chanvre indien. [@1,4] Agents seized the cannabis on 5 June at
 Mousayah, a sub-prefecture in Forécariah prefecture. [@1] The cannabis was found
 in a 4x4 vehicle during a patrol by special-services agents. [@1] The operation
-also netted the car that had transported the large drug quantity. [@2] The
-results of the seizure were presented to the press on Tuesday 11 June 2024. [@3]
+also netted the car that had transported the large drug quantity. [@2,4] The
+results of the seizure were presented to the press on Tuesday 11 June 2024. [@3,4]
 The briefing was led by Divisional Commissioner Abdoul Malick Koné, the
 presidency official in charge of the special-services unit against serious crime
 and organised crime. [@2]
 
 Koné said cannabis is the main component in the manufacture of the drug Kush,
-which has bereaved many families in Guinea. [@1] He described cannabis and
+which has bereaved many families in Guinea. [@1,4] He described cannabis and
 synthetic Kush as disastrous drugs causing widespread harm to people and
 society, including lost working capacity and economic harm when users fall ill
-or die. [@1] He appealed to the public to provide useful information to help
-unmask traffickers and seize drug quantities harmful to the population. [@1]
+or die. [@1,4] He appealed to the public to provide useful information to help
+unmask traffickers and seize drug quantities harmful to the population. [@1,4]
 
+The special services said the seizure came from cooperation between their unit and other similar services. [@4] The services said their officers carry out missions across the country as part of the fight against organised crime. [@4] The service chief said the fight also includes prevention work through awareness campaigns in the field. [@4]
