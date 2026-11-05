@@ -24,6 +24,16 @@ sources:
     publisher: El Khabar
     date: 2026-10-28
     language: ar
+  - title: وسط استمرار تدفق المخدرات المغربية نحو أوروبا.. إسبانيا تحجز 1154 كلغ من الحشيش
+    url: https://www.aljazairalyoum.dz/%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AF%D9%81%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%86%D8%AD/
+    publisher: الجزائر اليوم
+    date: 2026-10-29
+    language: ar
+  - title: Detienen a un hombre con un alijo de 354 kilos de hachís en Antigua (Fuerteventura)
+    url: https://www.europapress.es/islas-canarias/noticia-detienen-hombre-alijo-354-kilos-hachis-antigua-fuerteventura-20261026115845.html
+    publisher: Europa Press
+    date: 2026-10-26
+    language: es
 open_questions:
   - The article gives no separate date for the Fuerteventura operation; 28 October 2026 is its publication date.
   - Only one source could be opened for the Fuerteventura seizure; no second account confirming the 354 kg figure could be accessed.
@@ -31,23 +41,27 @@ open_questions:
   - The same article also reports a separate 800 kg hashish seizure in Huelva province, a different event left out here and already recorded as chucena-a49-800kg-hashish.
   - The driver was not named, and the exact beach, SUV details and court identity were not given.
   - The headline calls the hashish Moroccan, but the operation paragraphs describe it only as hashish without a stated basis for the origin.
+  - Europa Press dates the Fuerteventura operation to the early hours of 8 October 2026 with announcement on 26 October, while the existing report uses 28 October 2026 from the earlier Algerian publication date.
+  - The submitted article gives no separate operation dates and cites the Algerian press agency rather than the Guardia Civil statement.
+  - The submitted article describes the hashish as Moroccan without giving a basis in the operation paragraphs, while the Guardia Civil statement gives no origin.
+  - The submitted article combines the Fuerteventura seizure with a separate 800 kg Huelva seizure as a 1,154 kg total, which is recorded separately as chucena-a49-800kg-hashish.
+  - No photo showing this seizure could be linked with a direct media address; the submitted page images are generic or unrelated and the Europa Press image address was not recovered.
 ---
 
 Spain's Guardia Civil, the country's civil guard force, detained a man found
-with a 354 kg hashish shipment in Antigua on the island of Fuerteventura. [@1]
+with a 354 kg hashish shipment in Antigua on the island of Fuerteventura. [@1,3]
 Before the arrest, officers had watched a rubber boat reach one of the beaches
-in the municipality of Antigua. [@1] As the load moved inland, officers
-intercepted an SUV at the exits of the coastal area. [@1] Officers arrested the
-SUV driver at the interception point and took him into custody. [@1] After the
+in the municipality of Antigua. [@1,3] As the load moved inland, officers
+intercepted an SUV at the exits of the coastal area. [@1,3] Officers arrested the
+SUV driver at the interception point and took him into custody. [@1,3] After the
 arrest, the driver was referred to the judiciary for further legal proceedings.
-[@1] The court then ordered that he be held in pretrial detention without bail
-pending the case. [@1]
+[@1,3] The court then ordered that he be held in pretrial detention without bail
+pending the case. [@1,3]
 
-The coastal operation seized a total of 354 kg of hashish. [@1] That hashish was
+The coastal operation seized a total of 354 kg of hashish. [@1,2] That hashish was
 distributed across six large bales together with additional smaller parcels.
-[@1] Antigua is the municipality on Fuerteventura where the beach landing and
-road interception took place. [@1]
+[@1,3] Antigua is the municipality on Fuerteventura where the beach landing and
+road interception took place. [@1,3]
 
 The seizure came amid continued movement of hashish toward Europe through
 multiple trafficking routes confronting European states. [@1]
-

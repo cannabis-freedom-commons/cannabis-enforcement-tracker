@@ -51,6 +51,11 @@ sources:
     publisher: El Khabar
     date: 2026-10-28
     language: ar
+  - title: وسط استمرار تدفق المخدرات المغربية نحو أوروبا.. إسبانيا تحجز 1154 كلغ من الحشيش
+    url: https://www.aljazairalyoum.dz/%D9%88%D8%B3%D8%B7-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AF%D9%81%D9%82-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%86%D8%AD/
+    publisher: الجزائر اليوم
+    date: 2026-10-29
+    language: ar
 open_questions:
   - The Algerian article gives no date for the Huelva stop; 21 October 2026 is the date in the Guardia Civil statement reported by Europa Press and Huelva24.
   - The driver was not named, and no charge sheet, court date or outcome was reported beyond the referral to the competent court.
@@ -59,11 +64,12 @@ open_questions:
   - 'Left out, as its quotation was not found in Huelva24: The interception took place at Chucena on 21 October 2026.'
   - 'Left out, as its quotation was not found in Huelva24: It happened in the afternoon, when officers of the Grupo de Reserva y Seguridad (GRS) No. 2, based in Seville, were supporting the Huelva command on an operation on a public road.'
   - El Khabar describes the Huelva vehicle generically as a car on the highway and does not name the A-49 or say it was high-end.
+  - The submitted article names only Huelva province for the 800 kg seizure and does not confirm the A-49, high-end car or checkpoint details, which remain sourced to the Spanish accounts.
 ---
 
 The Guardia Civil arrested the driver of a high-end car that was carrying 800 kg
 of hashish on the A-49 in Huelva province after he tried to flee a police check.
-[@2,4] The driver ignored their signals and drove through several levels of the
+[@2,4,5] The driver ignored their signals and drove through several levels of the
 checkpoint before officers stopped the car. [@2] Inside, officers found the
 hashish packed in 20 large bales. [@1]
 
