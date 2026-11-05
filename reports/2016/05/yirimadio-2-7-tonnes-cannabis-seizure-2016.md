@@ -43,12 +43,19 @@ sources:
     publisher: Maliweb
     date: 2016-05-17
     language: fr
+  - title: 'Mali: saisie record de près de trois tonnes de cannabis, deux Maliens arrêtés'
+    url: https://lexpress.mu/s/article/281959/mali-saisie-record-pres-trois-tonnes-cannabis-deux-maliens-arretes
+    publisher: lexpress.mu
+    date: 2016-05-19
+    language: fr
 open_questions:
   - The exact total number of people arrested in Mali was not given beyond at least two, and the number arrested in Accra was not given.
   - No charges, custody status or court outcome were reported beyond referral to the specialised judicial prosecutor and planned further hearings.
   - The 100 million CFA francs market value is reported by RFI without a named valuing authority, so it is recorded as a reported value.
   - The Le360 page carries an image captioned only as DR, which does not establish that it shows this seizure, so no media entry is included for it.
   - The Maliweb page image is not established to show this seizure, so only the RFI photograph credited to the Central Narcotics Office is listed.
+  - This account says the 2.7 tonnes were seized on a Monday near Bamako, while the existing report dates the Yirimadio Kadobougou operation to Friday 13 May 2016.
+  - This account reports further arrests in Ghana without naming a city, while the existing report specifies Accra on its earlier sources.
 ---
 
 The operation took place around 1 a.m. on Friday 13 May 2016. [@3] Officers
@@ -57,22 +64,23 @@ were unloading bags of drugs in an unfinished house. [@1] The intervention unit
 led by Captain Moussa Touré put the traffickers out of action at the scene. [@3]
 Ongoing inquiries led officers to arrest suspects believed to be involved in the
 international drug-trafficking network. [@1] At least two people were arrested
-in the operation. [@2] The suspects were to be taken before the prosecutor of
+in the operation. [@2,4] The suspects were to be taken before the prosecutor of
 the specialised judicial unit. [@3] Further hearings of the suspects arrested in
 Mali were expected that Thursday. [@2]
 
 Officers seized 1,505 bricks of cannabis, known in French as chanvre indien,
-weighing 2.7 tonnes in total. [@1] The cannabis was carried on a trailer truck
-from Ghana bound for Bamako. [@1] The truck had transited through Burkina Faso
+weighing 2.7 tonnes in total. [@1,4] The cannabis was carried on a trailer truck
+from Ghana bound for Bamako. [@1,4] The truck had transited through Burkina Faso
 and entered Mali in the south through Sikasso. [@2] The load was disguised as
 bales of second-hand clothes and hidden in a compartment fitted between the cab
-and the trailer. [@1] RFI reported the market value at about 100 million CFA
-francs (over 152,000 euros). [@2]
+and the trailer. [@1,4] RFI reported the market value at about 100 million CFA
+francs (over 152,000 euros). [@2,4]
 
 The narcotics office described the haul as a record seizure for the office in
-Mali. [@1] RFI described it as the largest drug seizure around the capital in
+Mali. [@1,4] RFI described it as the largest drug seizure around the capital in
 twenty years. [@2] An investigator said the operation had dismantled a
 Ghana-Burkina-Mali trafficking network, with arrests also reported in Accra.
-[@2] The seized drugs were to be transferred to the Directorate of Pharmacy and
+[@2,4] The seized drugs were to be transferred to the Directorate of Pharmacy and
 Medicine, the body responsible for storing and destroying seized drugs. [@1]
 
+Part of the cannabis had been delivered before the truck reached Bamako, suggesting Bamako was not its only destination. [@4]
