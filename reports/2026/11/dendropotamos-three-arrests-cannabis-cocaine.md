@@ -46,6 +46,16 @@ sources:
     publisher: TyposThes
     date: 2026-11-05
     language: el
+  - title: Τρεις συλλήψεις για ναρκωτικά στη Θεσσαλονίκη, ανάμεσά τους και μία ανήλικη
+    url: https://www.dikastiko.gr/eidhsh/treis-syllipseis-gia-narkotika-sti-thessaloniki-anamesa-toys-kai-mia-aniliki/
+    publisher: Dikastiko.gr
+    date: 2026-11-05
+    language: el
+  - title: 'Θεσσαλονίκη: Τρεις συλλήψεις στον Δενδροπόταμο για ναρκωτικά - Κατασχέθηκαν κοκαΐνη και χασίς'
+    url: https://www.thestival.gr/eidiseis/astynomika/thessaloniki-treis-syllipseis-ston-den/
+    publisher: Thestival
+    date: 2026-11-05
+    language: el
 open_questions:
   - No cannabis weight was published; the sources describe only small quantities in two packages found on the 50-year-old.
   - The €390 in cash was seized as alleged proceeds of a drug sale, not as a drug-value estimate.
@@ -56,15 +66,15 @@ open_questions:
 ---
 
 Police in Thessaloniki arrested three people in the Dendropotamos neighbourhood
-around midday on 4 November 2026 in a drug-trafficking operation. [@2,5] Those
+around midday on 4 November 2026 in a drug-trafficking operation. [@2,5,6] Those
 arrested were two men aged 50 and 19 and a 15-year-old girl, all Greek
-nationals. [@3,5] Officers from the Narcotics Immediate Response Department
+nationals. [@3,5,6] Officers from the Narcotics Immediate Response Department
 stopped the 50-year-old man as he left a home where the other two were. [@4] He
 was carrying two improvised packages holding small quantities of cocaine and
-unprocessed cannabis. [@1,5]
+unprocessed cannabis. [@1,5,7]
 
-Police then searched the home in the presence of a judicial official. [@1,5] The
+Police then searched the home in the presence of a judicial official. [@1,5,7] The
 search seized €390 in cash, which Thita News describes as coming from a drug
 sale, and two mobile phones. [@4] A case file was opened against all three for
-violating the law on addictive substances. [@1] They were taken before the
+violating the law on addictive substances. [@1,6] They were taken before the
 public prosecutor, reports said. [@4]
