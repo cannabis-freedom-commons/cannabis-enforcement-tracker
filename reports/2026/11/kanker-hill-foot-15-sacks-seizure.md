@@ -81,6 +81,11 @@ sources:
     publisher: NDTV MP Chhattisgarh
     date: 2026-11-05
     language: hi
+  - title: 'CG NEWS : गांजा तस्करों का आतंक! 30 KM तक पुलिस से फिल्मी पीछा, थाना प्रभारी पर चढ़ाई कार, 2 करोड़ का गांजा छोड़कर फरार'
+    url: https://grandnews.in/2026/11/05/cg-news-terror-unleashed-by-cannabis/
+    publisher: Grand News
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -111,6 +116,12 @@ open_questions:
   - The article also describes a separate 407 kg Keshkal seizure from the previous day, already recorded as keshkal-407kg-ganja-arrest and left out here.
   - The NDTV video values the haul only vaguely as worth crores of rupees and gives no weight, packet count or exact rupee figure, so the discrepancy with the 280 kg and Rs 1.5 crore reported by other outlets remains unresolved.
   - No transcript of the video was available, so its spoken report could not be checked beyond the headline and page text.
+  - Grand News gives no sack or packet count and does not reconcile its figure of more than 400 kg with the 70 packets and 280 kg recorded from other outlets.
+  - Grand News and Lalluram carry near-identical Hindi text from the same day, so they are not independent accounts of the chase.
+  - Grand News says the station house officer's foot was crushed and his big toe badly injured, while the report records an injury to his thumb from a car brushing his foot; the exact injury is unresolved.
+  - Grand News dates the recovery to Wednesday afternoon at about 12 pm without giving a calendar date.
+  - The Grand News page carries only an uncaptioned image and two advertisement images, so no media entry can be supported.
+  - 'Left out, as its quotation was not found in Lalluram: Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing.'
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -141,6 +152,8 @@ Smugglers fleeing a police interception late on Tuesday night drove a car at Rit
 
 Police packed the seized ganja into three vehicles and took it to their police station. [@7] Police are also trying to identify the consignment's main buyer and the wider network. [@7] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
 
-The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@8]
+The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@6,8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@6,8]
 
 Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
+
+The haul came a day after Keshkal police seized 407 kg of ganja. [@10] Grand News reporter Dheeraj Sharma filed the account of the Kanker recovery and chase. [@10]
