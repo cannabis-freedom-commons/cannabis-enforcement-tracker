@@ -55,6 +55,25 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-05
     language: hi
+  - title: ठूठीबारी में दो गांजा तस्कर गिरफ्तार:स्कॉर्पियो से 1 क्विंटल 22 किलो 975 ग्राम गांजा मिला, कीमत करीब 60 लाख रुपए
+    url: https://www.bhaskar.com/local/uttar-pradesh/maharajganj/thuthibari/news/maharajganj-thuthibari-ganja-smuggling-arrest-seized-scorpio-139601736.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
+  - title: यूपी में नशे के कारोबार पर पुलिस और आबकारी विभाग का शिकंजा, 70 लाख का गांजा और 30 लाख की शराब बरामद
+    url: https://www.etvbharat.com/amp/hi/state/crime-news-drugs-and-illegal-liquor-seized-in-maharajganj-agra-and-auraiya-ups26110506735
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: hi
+  - title: Police Seize Ganja, Heroin In Two Separate Operations Near India-Nepal Border
+    url: https://www.rediff.com/news/report/india-nepal-border-ganja-and-heroin-seized-three-arrested/20261105.htm
+    publisher: Rediff.com
+    date: 2026-11-05
+  - title: Maharajganj में पुलिस और ATS का बड़ा एक्शन, 122 किलो गांजे के साथ दो तस्कर दबोचे
+    url: https://www.prabhasakshi.com/national/up-police-ats-seize-122-kg-ganja-worth-rs-60-lakh-in-maharajganj
+    publisher: Prabhasakshi
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -74,6 +93,11 @@ open_questions:
   - Amar Ujala's photograph is captioned only as the arrested woman smuggler and credited to Samvad News Agency, and nothing establishes that it shows this seizure, so no media entry is added besides the existing gallery link.
   - The new Dainik Bhaskar account reports about 1.25 quintals, weighed as about a savaa quintal on an electronic scale, while the existing report records about 100 kg, so the final weighed quantity remains unresolved.
   - Both opened pages are Dainik Bhaskar video and text versions of the same story ID, so no independent outlet or agency statement is added by this submission.
+  - The new accounts place the stop near Naubari or Nauwabari village while the existing report records Lohrauli village, so the precise spot remains unresolved.
+  - ETV Bharat values the ganja at about Rs 70 lakh while the submitted page and PTI accounts value it at about Rs 60 lakh, so the claimed value remains disputed.
+  - The submitted page's photographs carry no caption or credit establishing that they show this seizure, so no media entry is added.
+  - The Rediff PTI account also reports a separate 4 November heroin seizure of 57.24 grams from Rohit Maurya near Sonauli, a different event left out of this cannabis report.
+  - The ETV Bharat roundup also reports separate liquor seizures in Agra and Auraiya, different events left out here.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
@@ -81,8 +105,10 @@ Indo-Nepal border, stopped a Scorpio near Lohrauli village and arrested a
 smuggler at the scene. [@1,2,4] Officers found about one quintal, or 100 kg, of
 ganja — cannabis in dried form — inside the vehicle during the search. [@1,2]
 
-One woman smuggler was reported arrested at the scene. [@2,5,6] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2,4] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2,4] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2,4,6]
+One woman smuggler was reported arrested at the scene. [@2,5,6,7] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2,4] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2,4] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2,4,6,8]
 
 Amar Ujala reported that a police team acting on a tip-off from an informer threw a cordon around the area near Lohrauli and stopped a suspicious Scorpio. [@3] The newspaper said the interception came during a campaign against drug trafficking along the India-Nepal border. [@3]
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
+
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
