@@ -24,16 +24,33 @@ sources:
     publisher: Do Took Media
     date: 2026-11-05
     language: hi
+  - title: नोएडा में ई-कॉमर्स कंपनी के पार्सल की आड़ में चल रहे ड्रग्स सिंडिकेट का भंडाफोड़, एयरपोर्ट इंजीनियर समेत दो गिरफ्तार
+    url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
   - The page carries three photographs without captions or credits, so no media entry can establish that they show this seizure.
   - No court outcome beyond registration of the NDPS case was reported.
   - The source of the seized ganja and the wider network remain under investigation and were not reported.
+  - ETV Bharat places both arrests near Radisson Cut in Sector 57 in one passage, but later places Manish Kumar Jha's arrest near Sector 56.
+media:
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/05-11-2026/1200-675-28043772-thumbnail-16x9-drugs-aspera.jpg
+    publisher: ETV Bharat
+    caption: 'Noida police pose with the two arrested men in the cannabis case. Photo: ETV Bharat'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/05-11-2026/del-gbn-01-dcp-vis-dl10007_05112026134209_0511f_1793866329_57.jpg
+    publisher: ETV Bharat
+    caption: 'Ganja seized in the Noida case. Photo: ETV Bharat'
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1] Following questioning of Sumit, police arrested his associate
 Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1] The men were
@@ -45,7 +62,7 @@ supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
 online to Manish. [@1]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2] A
 search of Sumit's bag found small packets bearing an online delivery company's
 name containing 1 kg 900 g of ganja. [@1] Police recovered 10 kg 300 g of ganja
 from Manish. [@1] Police also seized a Splendor motorcycle, two mobile phones
@@ -59,3 +76,4 @@ ganja-trafficking case. [@1] Police registered case number 385/26 under sections
 8/20 of the NDPS Act at Sector-58 police station and are investigating the
 supply source and others linked to the network. [@1]
 
+DCP Noida Preeti Yadav said Manish Kumar Jha worked as a technical engineer at Delhi airport. [@2]
