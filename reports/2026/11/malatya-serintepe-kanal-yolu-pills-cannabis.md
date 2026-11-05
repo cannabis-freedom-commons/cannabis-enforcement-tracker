@@ -1,0 +1,64 @@
+---
+code: DXFPBX
+added_at: "2026-11-05T21:26:29.873791Z"
+date: 2026-11-04
+country: tr
+place: Kanal Yolu, Serintepe Mahallesi, Battalgazi, Malatya
+coordinates: [38.42278, 38.36556]
+precision: locality
+type: seizure
+also: [arrest]
+title: Three suspects as Malatya checks find 6,050 pills and 12 g esrar
+summary: >-
+  Security forces checking Kanal Yolu in Malatya's Serintepe neighbourhood on 4 November 2026 found 6,050 narcotic pills in 121 boxes and 12 grams of esrar, the Turkish name for cannabis. Governor Seddar Yavuz announced the seizure, and a judicial investigation was opened against three suspects.
+figures:
+  arrested: 3
+  kg_seized: 0.012
+media:
+  - kind: photo
+    url: https://www.malatyatime.com/haber/malatyada-kanal-yolu-uzerinde-binlerce-uyusturucu-hap-ve-esrar-ele-gecirildi-119541
+    media_url: https://www.malatyatime.com/images/haberler/2026/11/malatyada-kanal-yolu-uzerinde-binlerce-uyusturucu-hap-ve-esrar-ele-gecirildi-1793876990.jpg
+    publisher: Malatya Time
+    caption: Police handout showing the plastic trays of pills and the cartons laid out after the Malatya seizure, under the emblem of the Battalgazi district police directorate's crime-prevention and investigation office. No photo credit given.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: e113a8be95d1cf968c2a3dfcbd35bf19
+tags: [malatya, battalgazi, esrar, drug-pills, checkpoint]
+sources:
+  - title: Malatya'da Kanal Yolu Üzerinde Binlerce Uyuşturucu Hap ve Esrar Ele Geçirildi
+    url: https://www.malatyatime.com/haber/malatyada-kanal-yolu-uzerinde-binlerce-uyusturucu-hap-ve-esrar-ele-gecirildi-119541
+    publisher: Malatya Time
+    date: 2026-11-05
+    language: tr
+  - title: Malatya'da Uyuşturucu Operasyonunda Binlerce Hap Yakalandı
+    url: https://www.kahtahaberpostasi.com/haber/malatya-da-uyusturucu-operasyonunda-binlerce-hap-yakalandi
+    publisher: Kahta Haber Postası
+    date: 2026-11-05
+    language: tr
+open_questions:
+  - Neither account says which unit carried out the checks or where exactly on the road the suspects were stopped.
+  - The suspects are described only as three people; no names, ages, or the charges they face were published.
+  - No weight or substance of the narcotic pills was reported, and they are excluded from the cannabis figures.
+  - No court outcome was reported; the judicial investigation was described as just beginning.
+  - No street value for the esrar was published.
+  - Both outlets carry the governor's statement almost verbatim, so the three-suspect count and quantities are not independently corroborated.
+  - The reports do not say whether the 12 grams were found on the suspects or nearby along the road.
+---
+
+Three people were named as suspects after security forces searched along Kanal
+Yolu in the Serintepe neighbourhood of Malatya on 4 November 2026. [@1] A
+judicial investigation was opened against the three suspects in connection with
+the seizure. [@1]
+
+Officers seized 6,050 narcotic pills packed in 121 boxes together with 12 grams
+of esrar, the Turkish name for cannabis. [@1] Malatya governor Seddar Yavuz
+announced the seizure, not a police directorate statement. [@1]
+
+Yavuz said the checks on 4 November 2026 found 6,050 narcotic pills in 121 boxes
+and 12 grams of esrar, and that the investigation into the three suspects had
+begun. [@2] The governor said the fight against drugs would continue without
+pause. [@1] The second account says the security forces were carrying out field
+checks as part of continuing controls on drug production and trade across
+Malatya. [@2] Kahta Haber Postası reported that the seized material was taken
+into custody. [@2]
+
