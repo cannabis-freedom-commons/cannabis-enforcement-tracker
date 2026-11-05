@@ -32,6 +32,11 @@ sources:
     publisher: Alba Ciudad 96.3 FM
     date: 2026-01-13
     language: es
+  - title: Venezuela decomisa 7.148 kg de drogas en lo que va de 2026
+    url: https://www.telesurtv.net/venezuela-decomisa-drogas/
+    publisher: teleSUR
+    date: 2026-01-13
+    language: es
 open_questions:
   - The main operation date of 5 January 2026 comes from the second sources; the submitted page is dated 13 January 2026 and gives no separate operation date.
   - The precise river interception point was not published, so Ciudad Bolivar centre coordinates are used for the Orinoco near Ciudad Bolivar.
@@ -49,13 +54,12 @@ located in Ciudad Bolivar. [@2]
 
 Officers found 238 bales containing a total of 14,280 wraps in the main load.
 [@1] Of those wraps, 14,199 held marijuana weighing 6,758.66 kg and 81 held
-cocaine weighing 91.75 kg, together 6,850.41 kg of mixed drugs. [@1] Cabello put
+cocaine weighing 91.75 kg, together 6,850.41 kg of mixed drugs. [@1,4] Cabello put
 the national total for the first 13 days of January at 7,148 kg of all drugs, a
-combined figure not recorded as cannabis here. [@1]
+combined figure not recorded as cannabis here. [@1,4]
 
 Cabello said blocking maritime and air routes forces traffickers onto land
 routes where they are more vulnerable to surveillance. [@1] He described the
 seizure as a blow to claims that Venezuela facilitates trafficking and to the
 traffickers' logistics. [@1] He said monitoring continues in hard river areas
 such as Delta Amacuro because of its network of navigable channels. [@1]
-
