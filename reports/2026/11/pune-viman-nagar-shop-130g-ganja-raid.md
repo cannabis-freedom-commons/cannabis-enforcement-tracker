@@ -44,6 +44,10 @@ sources:
     publisher: Pudhari
     date: 2026-11-05
     language: mr
+  - title: Pune Police Seize Ganja, E-Cigarettes From Viman Nagar Shop
+    url: https://urbanacres.in/pune-police-seize-ganja-e-cigarettes-from-viman-nagar-shop/
+    publisher: Urban Acres
+    date: 2026-11-05
 open_questions:
   - Only one accessible source was found for this event after searching in English; no second outlet or agency statement could be opened.
   - The incident date of 3 November 2026 is the raid night stated in the report; 4 November 2026 is the publication date.
@@ -64,13 +68,17 @@ open_questions:
   - Pudhari's page carries only an e-cigarette product photo and a video thumbnail, neither of which shows the ganja seizure, so no media entry was added.
   - 'Left out, as its quotation was not found in Pudhari: Airport police booked a 22-year-old woman for allegedly selling banned e-cigarettes, hookah flavours and ganja from a cosmetic jewellery shop in Viman Nagar.'
   - 'Left out, as its quotation was not found in Pudhari: The raid was conducted on Tuesday night, 3 November, and police seized contraband and other materials worth Rs 2.17 lakh from the shop and a motorcycle parked outside it.'
+  - Urban Acres describes the woman as arrested, while the existing report records that one outlet said she was served a notice to appear, so custodial detention remains unclear.
+  - Urban Acres gives no new detail on the number of customers, how long the sales ran or where the seized products came from, stating the Pudhari report did not provide them.
+  - The page's main photo shows police at a shop counter but its caption and watermark do not establish that it depicts this seizure, so no media entry was added.
+  - The Rs 2.17 lakh figure covers e-cigarettes, hookah goods, ganja and other items together, so no cannabis-only value is recorded.
 ---
 
 Airport police booked a 22-year-old woman for allegedly selling banned
 e-cigarettes, hookah flavours and ganja from a cosmetic jewellery shop in Viman
-Nagar. [@1,3] The raid was conducted on Tuesday night, 3 November, and police
+Nagar. [@1,3,5] The raid was conducted on Tuesday night, 3 November, and police
 seized contraband and other materials worth Rs 2.17 lakh from the shop and a
-motorcycle parked outside it. [@1] The accused was identified as Abhilasha
+motorcycle parked outside it. [@1,5] The accused was identified as Abhilasha
 Pankaj Ahirrao, a Viman Nagar resident operating Cloud Cartel at Shop No. 9,
 Lunkad Dreamland. [@1,2] PSI Nitin Rathod of Airport police station told Pune
 Times Mirror that police received information about the illegal sale of
@@ -79,7 +87,7 @@ Ahirrao was facing financial difficulties and had started selling the products,
 and that police seized the goods and served her a notice to appear for further
 investigation. [@1]
 
-Police recovered 130 grams of ganja during the operation. [@1,2,4] During the search
+Police recovered 130 grams of ganja during the operation. [@1,2,4,5] During the search
 police recovered Elf Bar, iJet Pop and Yuto Beyonder e-cigarettes, hookah
 flavours, two hookah pots and a small weighing scale. [@1] The seizure also
 included 130 grams of ganja, a mobile phone, an electric motorcycle and Rs
@@ -93,12 +101,12 @@ Sections 8(a) and 20(b)(ii)(A) of the NDPS Act, 1985 and provisions of vaping
 and tobacco laws. [@1,2,3]
 
 Ahirrao had earlier operated a shop in Deccan which she shut last month before
-starting Cloud Cartel in Viman Nagar. [@1,2,3] Investigators suspect she took orders
+starting Cloud Cartel in Viman Nagar. [@1,2,3,5] Investigators suspect she took orders
 over the phone and sold prohibited products targeting customers in the
 surrounding area with several IT companies and educational institutions. [@1,2,3,4]
 Police said further investigation is under way to ascertain the source of the
 banned products and identify whether others were involved. [@1]
 
-The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2,3] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2,4]
+The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2,3,5] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2,4,5]
 
 The case was registered under the NDPS Act, the Electronic Cigarettes (Prohibition) Act, 2019 and sections of the Cigarettes and Other Tobacco Products Act, 2003. [@4]
