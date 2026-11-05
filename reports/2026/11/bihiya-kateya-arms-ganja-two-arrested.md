@@ -12,7 +12,8 @@ title: 2 youths held with arms, cartridges and ganja in Bihiya raid
 summary: >-
   Bihiya police in Bhojpur raided a spot near the Kateya village temple and arrested two youths with illegal arms, cartridges and ganja. Police are questioning the pair to trace the arms source and ganja network and plan to file a case before seeking judicial custody.
 figures:
-  arrested: 2
+    arrested: 2
+    kg_seized: 0.17575
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f63507c9ab449a04ed728873e46272ff
@@ -28,6 +29,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-04
     language: hi
+  - title: भोजपुर में कुख्यात करिया यादव गिरफ्तार, पिस्टल, चार कारतूस और गांजा बरामद; साथी भी पकड़ा गया
+    url: https://www.prabhatkhabar.com/state/bihar/arrah/notorious-criminal-sanjeet-yadav-arrested/amp
+    publisher: Prabhat Khabar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight or quantity for the seized ganja was published, so no cannabis kilograms can be recorded.
   - No type, count or calibre for the seized arms and cartridges was published.
@@ -38,18 +44,24 @@ open_questions:
   - Both accounts repeat the police version of the raid; no agency statement was opened directly.
   - 'Left out, as its quotation was not found in Live Hindustan: Bhojpur''s Bihiya police, acting on secret information, raided a flagged spot near the temple in Kateya village on Wednesday and arrested the two people found there with arms, cartridges and ganja.'
   - 'Left out, as its quotation was not found in Live Hindustan: The search of the raided spot recovered arms, cartridges and ganja together.'
+  - The article gives no separate calendar date for the raid; 4 November 2026, the date used in the existing report, is taken from the earlier Hindustan account.
+  - Police reported 5.75 grams recovered from the paddy field and a combined total of 175.75 grams; the article does not explain how the two figures relate, so the total is recorded as police stated it.
+  - No charge sections, court date or judicial custody decision appear in this account.
+  - The single page image repeats the headline and its file path dates to February 2025, so it is not established to show this seizure and no media entry is included.
 ---
 
 During the Wednesday raid near the temple, officers caught both youths with
-illegal arms, cartridges and ganja. [@1,2] Police had received a tip that
+illegal arms, cartridges and ganja. [@1,2,3] Police had received a tip that
 offenders had gathered in the area planning a major criminal act. [@1,2]
 
 Police suspect the arrested youths were preparing to carry out a major criminal
 incident. [@1] Police took both youths into custody and brought them to the
-station after the raid. [@1,2]
+station after the raid. [@1,2,3]
 
 Police are now questioning both accused closely to find where the arms came from
 and who is linked to the ganja trade. [@1,2] Officers are also trying to identify
 other people involved in the same arms and ganja network. [@1,2] Police said they
 will register a case under the relevant sections and send both accused to
-judicial custody after questioning is complete. [@1]
+judicial custody after questioning is complete. [@1,3]
+
+Police recovered a country-made pistol, four cartridges and a total of 175.75 grams of ganja, according to a press note from superintendent of police Awadhesh Dixit. [@3] The other arrested suspect was identified as Awadh Bihari Prasad of Kateya village. [@3] Yadav told police he had bought the ganja from Prasad, and a raid on Prasad's shop recovered 170 grams of ganja; Prasad admitted his involvement. [@3]
