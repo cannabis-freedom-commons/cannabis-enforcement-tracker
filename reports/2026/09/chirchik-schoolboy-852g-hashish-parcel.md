@@ -48,6 +48,11 @@ sources:
     publisher: UzDaily.uz
     date: 2026-09-20
     language: ru
+  - title: Почти килограмм гашиша нашли в посылке из России у 17-летнего школьника в Чирчике
+    url: https://podrobno.uz/cat/obchestvo/pochti-kilogramm-gashisha-nashli-v-posylke-iz-rossii-u-17-letnego-shkolnika-v-chirchike/
+    publisher: Podrobno.uz
+    date: 2026-09-21
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 19 September 2026 is its publication date and is used as the incident date.
   - The black-market value of almost 600,000 dollars is an official estimate, not a verified sale price.
@@ -56,22 +61,24 @@ open_questions:
   - Only Gazeta.uz coverage was accessible, in Russian and Uzbek editions from the same outlet; the linked Customs Committee Telegram post could not be read as evidence.
   - UzDaily.uz gives no separate detention date; 20 September 2026 is its publication date while the report keeps 19 September 2026 from earlier coverage.
   - The UzDaily.uz page image filename points to a generic criminal-code illustration rather than the seizure itself, so no media entry is included.
+  - Podrobno.uz gives no date for the detention either; 19 September 2026 remains the date taken from the earlier coverage, while this report was published on 21 September 2026.
+  - The article reports a previous 24 kg hashish case in Namangan and Fergana regions, a separate event left out of this report.
 ---
 
 In Chirchiq, Tashkent region, officers detained a 17-year-old schoolboy as he
-received a parcel from Russia containing hashish. [@1,3] The detained teenager was
+received a parcel from Russia containing hashish. [@1,3,4] The detained teenager was
 a minor born in 2009. [@1] The operation was conducted by the Customs
 Committee's anti-smuggling department together with State Security Service and
-Interior Ministry units as an internationally controlled delivery. [@1] The
-Customs Committee opened a criminal case over the incident. [@1,3]
+Interior Ministry units as an internationally controlled delivery. [@1,4] The
+Customs Committee opened a criminal case over the incident. [@1,3,4]
 
 The parcel was opened in the presence of witnesses, revealing the drug hidden in
-four tin cans. [@1,3] The total mass of the hashish was 852.2 grams. [@1,3] A later
+four tin cans. [@1,3,4] The total mass of the hashish was 852.2 grams. [@1,3,4] A later
 search of the teenager's home found electronic scales, small zip-bags and
 adhesive tape that the committee said could have been used to portion and
-distribute drugs. [@1,3] Officers seized those items as physical evidence. [@1]
+distribute drugs. [@1,3,4] Officers seized those items as physical evidence. [@1]
 The committee said the seized hashish amounted to more than 60,000 doses and
-valued it at almost 600,000 dollars on the black market. [@1,3]
+valued it at almost 600,000 dollars on the black market. [@1,3,4]
 
 The outlet's Uzbek edition confirms a 17-year-old pupil was caught in Chirchiq
 city, Tashkent region, while receiving a parcel from Russia with 852.2 grams of
