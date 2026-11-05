@@ -76,6 +76,11 @@ sources:
     publisher: Rgh News
     date: 2026-11-05
     language: hi
+  - title: 'Kanker Ganja Seized: कांकेर में मिला करोड़ों का गांजा! तस्कर हुए फरार | Breaking | Chhattisgarh News'
+    url: https://mpcg.ndtv.in/videos/kanker-police-seize-crores-worth-of-ganja-smugglers-escape-in-chhattisgarh-1186137
+    publisher: NDTV MP Chhattisgarh
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -104,10 +109,12 @@ open_questions:
   - This account reports 70 packets holding 280 kg, the same weight as the earlier Kanker recovery, while the existing report's first source described 15 sacks and the figure of 15 sacks therefore remains unexplained.
   - The page's single image carries no caption tying it to this seizure, so no media entry is included.
   - The article also describes a separate 407 kg Keshkal seizure from the previous day, already recorded as keshkal-407kg-ganja-arrest and left out here.
+  - The NDTV video values the haul only vaguely as worth crores of rupees and gives no weight, packet count or exact rupee figure, so the discrepancy with the 280 kg and Rs 1.5 crore reported by other outlets remains unresolved.
+  - No transcript of the video was available, so its spoken report could not be checked beyond the headline and page text.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
-condition near National Highway-30 in Kanker. [@1,8] The seizure occurred on 4
+condition near National Highway-30 in Kanker. [@1,8,9] The seizure occurred on 4
 November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
@@ -135,3 +142,5 @@ Smugglers fleeing a police interception late on Tuesday night drove a car at Rit
 Police packed the seized ganja into three vehicles and took it to their police station. [@7] Police are also trying to identify the consignment's main buyer and the wider network. [@7] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
 
 The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@8]
+
+Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
