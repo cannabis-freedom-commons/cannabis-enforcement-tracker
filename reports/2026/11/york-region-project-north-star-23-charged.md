@@ -92,6 +92,11 @@ sources:
     publisher: Correio da Manhã Canadá
     date: 2026-11-04
     language: pt
+  - title: York Regional Police charge 23, seize $7.5 million in illicit cannabis bust
+    url: https://www.newmarkettoday.ca/police-beat/york-regional-police-charge-23-seize-75-million-in-illicit-cannabis-bust-12978951
+    publisher: NewmarketToday.ca
+    date: 2026-11-04
+    language: en
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -125,22 +130,26 @@ open_questions:
   - Sing Tao repeats the York Regional Police account without independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
   - The Portuguese article repeats the York police account without independent reporting and does not say whether the wanted man is counted among the 23 charged.
   - The article's only illustration is an Envato stock image, not a photo of the operation, so no media entry was added.
+  - The submitted page lists warrant locations as Markham, Vaughan, Milton, London, Scarborough and Ailsa Craig, omitting Burlington, which the existing report and York Regional Police include.
+  - The page gives no weights for the hashish beyond 8.5 pounds, none for the edibles, and no figure for plants, area or the number of searches.
+  - The page is a reprint of the York Regional Police release with no independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
+  - The page's only image is a supplied portrait of the wanted man, which does not show the event itself, so no media entry is added.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5,6,7,12,13,14]
+[@1,3,4,5,6,7,12,13,14,15]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
 small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14]
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4,8,11,13] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14] York police put the
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
 
 The investigation was dubbed Project North Star and was launched in February
@@ -165,4 +174,4 @@ The 23 individuals charged range in age from 22 to 74 and are from Toronto, Mark
 
 Two London-area residents are among the 23 people charged in Project North Star. [@9]
 
-York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12]
+York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12,15]
