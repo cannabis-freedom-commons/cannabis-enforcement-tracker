@@ -43,31 +43,37 @@ sources:
     publisher: Gazeta.uz
     date: 2026-09-19
     language: uz
+  - title: В Чирчике задержали школьника с 852 г гашиша
+    url: https://www.uzdaily.uz/ru/v-chirchike-zaderzhali-shkolnika-s-852-g-gashisha/
+    publisher: UzDaily.uz
+    date: 2026-09-20
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 19 September 2026 is its publication date and is used as the incident date.
   - The black-market value of almost 600,000 dollars is an official estimate, not a verified sale price.
   - The teenager's full name was not published, only his age, schoolboy status and 2009 birth year.
   - No court outcome was reported beyond the opened criminal case.
   - Only Gazeta.uz coverage was accessible, in Russian and Uzbek editions from the same outlet; the linked Customs Committee Telegram post could not be read as evidence.
+  - UzDaily.uz gives no separate detention date; 20 September 2026 is its publication date while the report keeps 19 September 2026 from earlier coverage.
+  - The UzDaily.uz page image filename points to a generic criminal-code illustration rather than the seizure itself, so no media entry is included.
 ---
 
 In Chirchiq, Tashkent region, officers detained a 17-year-old schoolboy as he
-received a parcel from Russia containing hashish. [@1] The detained teenager was
+received a parcel from Russia containing hashish. [@1,3] The detained teenager was
 a minor born in 2009. [@1] The operation was conducted by the Customs
 Committee's anti-smuggling department together with State Security Service and
 Interior Ministry units as an internationally controlled delivery. [@1] The
-Customs Committee opened a criminal case over the incident. [@1]
+Customs Committee opened a criminal case over the incident. [@1,3]
 
 The parcel was opened in the presence of witnesses, revealing the drug hidden in
-four tin cans. [@1] The total mass of the hashish was 852.2 grams. [@1] A later
+four tin cans. [@1,3] The total mass of the hashish was 852.2 grams. [@1,3] A later
 search of the teenager's home found electronic scales, small zip-bags and
 adhesive tape that the committee said could have been used to portion and
-distribute drugs. [@1] Officers seized those items as physical evidence. [@1]
+distribute drugs. [@1,3] Officers seized those items as physical evidence. [@1]
 The committee said the seized hashish amounted to more than 60,000 doses and
-valued it at almost 600,000 dollars on the black market. [@1]
+valued it at almost 600,000 dollars on the black market. [@1,3]
 
 The outlet's Uzbek edition confirms a 17-year-old pupil was caught in Chirchiq
 city, Tashkent region, while receiving a parcel from Russia with 852.2 grams of
 hashish. [@2] The committee urged parents to pay closer attention to whom minors
 talk to on social networks and how they spend their free time. [@1]
-
