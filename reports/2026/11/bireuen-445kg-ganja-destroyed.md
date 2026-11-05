@@ -38,6 +38,11 @@ sources:
     publisher: Rakyatterkini.com
     date: 2026-11-04
     language: id
+  - title: 28 Perkara Inkrah, Kejari Bieruen Musnahkan Barang Bukti 4,45 Kg Ganja dan 280 Gram Sabu - Tribun Video
+    url: https://video.tribunnews.com/view/973044/28-perkara-inkrah-kejari-bieruen-musnahkan-barang-bukti-445-kg-ganja-dan-280-gram-sabu
+    publisher: Tribun Video
+    date: 2026-11-05
+    language: id
 open_questions:
   - The 280 grams of sabu is crystal methamphetamine and is excluded from cannabis figures; no combined drug total is recorded as cannabis.
   - No defendants are named and no individual verdicts, sentences or original seizure dates and places for the seven cannabis cases were published.
@@ -45,16 +50,16 @@ open_questions:
 ---
 
 The Bireuen District Attorney's Office destroyed evidence from general criminal
-cases with final and binding court judgments on Wednesday, 4 November 2026. [@1]
+cases with final and binding court judgments on Wednesday, 4 November 2026. [@1,4]
 The destruction took place in the central courtyard of the Kejari Bireuen
-Adhyaksa building and covered cases handled from August to October 2026. [@1,3]
+Adhyaksa building and covered cases handled from August to October 2026. [@1,3,4]
 Evidence chief Cut Mailina Ariani said the exercise implemented court decisions
 on evidence that had obtained final legal force. [@1,3]
 
 From narcotics cases, the office destroyed 4,450 grams or 4.45 kilograms of
 ganja, the Indonesian term for cannabis, from seven cases. [@1,3] A second account
 confirms prosecutors destroyed 4.45 kilograms of ganja and 280 grams of sabu in
-the same exercise. [@2] The same narcotics batch also included 280 grams of
+the same exercise. [@2,4] The same narcotics batch also included 280 grams of
 sabu, crystal methamphetamine, from 14 cases, which is not counted in the
 cannabis total. [@1,3] Officers crushed the sabu and ganja with a blender, while
 other burnable evidence was destroyed by burning. [@1,3]
