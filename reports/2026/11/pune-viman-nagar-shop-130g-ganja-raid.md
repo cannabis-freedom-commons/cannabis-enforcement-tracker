@@ -39,6 +39,11 @@ sources:
     publisher: Maharashtra Mirror
     date: 2026-11-04
     language: mr
+  - title: 'Pune E Cigarette Ganja Seizure: कॉस्मेटिक ज्वेलरी दुकानाच्या आडून ई-सिगारेट, गांजाची विक्री; तरुणीला अटक'
+    url: https://pudhari.news/amp/story/maharashtra/pune/pune-viman-nagar-illegal-e-cigarette-ganja-sale-sk04
+    publisher: Pudhari
+    date: 2026-11-05
+    language: mr
 open_questions:
   - Only one accessible source was found for this event after searching in English; no second outlet or agency statement could be opened.
   - The incident date of 3 November 2026 is the raid night stated in the report; 4 November 2026 is the publication date.
@@ -55,6 +60,10 @@ open_questions:
   - This account says the woman was arrested while the existing report notes that Pune Mirror said she was served a notice to appear, so custodial detention remains unclear.
   - This account states ganja was found with e-cigarettes and hookah flavours but gives no ganja weight, so the 130-gram figure still rests on the earlier sources.
   - The page photo caption repeats the headline and does not establish that it shows this seizure, so no new media entry is added.
+  - Pudhari describes the woman as arrested, while the report records that Pune Mirror said she was served a notice to appear.
+  - Pudhari's page carries only an e-cigarette product photo and a video thumbnail, neither of which shows the ganja seizure, so no media entry was added.
+  - 'Left out, as its quotation was not found in Pudhari: Airport police booked a 22-year-old woman for allegedly selling banned e-cigarettes, hookah flavours and ganja from a cosmetic jewellery shop in Viman Nagar.'
+  - 'Left out, as its quotation was not found in Pudhari: The raid was conducted on Tuesday night, 3 November, and police seized contraband and other materials worth Rs 2.17 lakh from the shop and a motorcycle parked outside it.'
 ---
 
 Airport police booked a 22-year-old woman for allegedly selling banned
@@ -70,7 +79,7 @@ Ahirrao was facing financial difficulties and had started selling the products,
 and that police seized the goods and served her a notice to appear for further
 investigation. [@1]
 
-Police recovered 130 grams of ganja during the operation. [@1,2] During the search
+Police recovered 130 grams of ganja during the operation. [@1,2,4] During the search
 police recovered Elf Bar, iJet Pop and Yuto Beyonder e-cigarettes, hookah
 flavours, two hookah pots and a small weighing scale. [@1] The seizure also
 included 130 grams of ganja, a mobile phone, an electric motorcycle and Rs
@@ -86,8 +95,10 @@ and tobacco laws. [@1,2,3]
 Ahirrao had earlier operated a shop in Deccan which she shut last month before
 starting Cloud Cartel in Viman Nagar. [@1,2,3] Investigators suspect she took orders
 over the phone and sold prohibited products targeting customers in the
-surrounding area with several IT companies and educational institutions. [@1,2,3]
+surrounding area with several IT companies and educational institutions. [@1,2,3,4]
 Police said further investigation is under way to ascertain the source of the
 banned products and identify whether others were involved. [@1]
 
-The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2,3] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2]
+The tip about illegal e-cigarette and hookah-flavour sales came from police personnel Hariprasad Punde and Lalu Karhe. [@2,3] The action was carried out under the guidance of Additional Police Commissioner Manoj Patil. [@2,4]
+
+The case was registered under the NDPS Act, the Electronic Cigarettes (Prohibition) Act, 2019 and sections of the Cigarettes and Other Tobacco Products Act, 2003. [@4]
