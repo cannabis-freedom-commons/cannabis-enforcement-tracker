@@ -23,6 +23,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/04/dbgifmagic__88_1793795692031.gif
     publisher: Dainik Bhaskar
     caption: 'Seized packets and the detained smuggler in Keshkal, captioned ''केशकाल में 4.07 क्विंटल गंजे के साथ तस्कर गिरफ्तार''. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.lokswar.in/major-police-action-inter-state-marijuana-smuggler-from-rajasthan-arrested-407-kg-marijuana-seized/
+    media_url: https://bunny-wp-pullzone-qey9lnnsyf.b-cdn.net/wp-content/uploads/2026/11/Screenshot_20261105_165844_Facebook-780x470.jpg
+    publisher: Lokswar
+    caption: Police officers, a detained man and sacks beside a vehicle, shown with the Keshkal seizure; no photo credit is displayed.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f56251795a77a496a25407bcda75eba
@@ -53,6 +58,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-04
     language: hi
+  - title: पुलिस की बड़ी कार्रवाई, राजस्थान का अंतरराज्यीय गांजा तस्कर गिरफ्तार, 407 किलो गांजा जब्त
+    url: https://www.lokswar.in/major-police-action-inter-state-marijuana-smuggler-from-rajasthan-arrested-407-kg-marijuana-seized/
+    publisher: Lokswar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -62,6 +72,9 @@ open_questions:
   - The Haribhoomi account says the extra RJ-23-UB-8472 plate was found in the dickey, while the existing report records it as hidden in the car's dashboard.
   - The VocalTV republication does not state the car's registration, the ganja valuation, or the NDPS section, so those details continue to rest on the report's earlier sources.
   - The VocalTV page shows a main image under the same seizure headline, but without a caption or credit establishing a distinct view of this seizure, so no new media entry is added.
+  - Lokswar gives an approximate cannabis valuation of Rs 2,03,95,000, compared with Dainik Bhaskar’s exact Rs 2,03,95,500; the accounts do not explain the difference.
+  - 'Left out, as its quotation was not found in Lokswar: The Keshkal case involved a Rajasthan youth arrested with 407 kg of ganja.'
+  - 'Left out, as its quotation was not found in Lokswar: He was produced in court and sent to judicial remand.'
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
@@ -73,7 +86,7 @@ against him under Section 20(b) of the NDPS Act and arrested him. [@2,3] He was
 produced in court and sent to judicial remand. [@2,3,5]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
-the dickey. [@2,3,5] Officers recovered 407 kg 910 g of ganja from the car, which
+the dickey. [@2,3,5,6] Officers recovered 407 kg 910 g of ganja from the car, which
 police valued at Rs 2,03,95,500. [@2,4] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
 and Rs 1,100 in cash were also recovered from the accused. [@2,5] Police seized
