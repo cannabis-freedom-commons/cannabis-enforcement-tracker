@@ -69,6 +69,16 @@ sources:
     publisher: "18000"
     date: 2026-11-05
     language: uk
+  - title: 'В Україні ліквідували міжнародну мережу наркотргівлі: вилучили наркотиків на понад 90 млн грн'
+    url: https://dancor.sumy.ua/news/mosaic/598374
+    publisher: Данкор онлайн
+    date: 2026-11-05
+    language: uk
+  - title: 'Міжнародна спецоперація «Еспаньйол»: Нацполіція перекрила канали наркотрафіку з Іспанії, США та Португалії до України'
+    url: https://npu.gov.ua/news/mizhnarodna-spetsoperatsiia-espaniol-natspolitsiia-perekryla-kanaly-narkotrafiku-z-ispanii-ssha-ta-portuhalii-do-ukrainy
+    publisher: Національна поліція України
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -90,34 +100,42 @@ open_questions:
   - The National Police statement calls the operation two-stage; the Cherkasy page describes it only as lasting across eleven regions.
   - LB.ua adds that the pre-trial investigation continues and that decisions on notifying further suspects will follow the expert findings.
   - 'Left out, as its quotation was not found in 18000: The Cherkasy page also carries the National Police video of the operation, titled “Operation Espanyol: the National Police cut the drug traffic from Spain, the USA and Portugal to Ukraine”.'
+  - The Sumy page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
+  - The Sumy page reproduces the National Police statement without independent reporting, like the other accounts already cited.
+  - The Sumy page's lead photo carries no caption or credit and is not confirmed to show this operation's seizure, so it adds nothing to the identification of the operation's photographs.
+  - The Sumy page names no cannabis-only weight or valuation; the 67 kg and 90 million hryvnias stay unallocated to cannabis.
+  - The Sumy page names only the National Police as the source, while the police statement itself lists the Security Service of Ukraine and the Prosecutor General's Office as coordinators.
+  - The Sumy page does not mention the two-stage structure; the police statement and other outlets do.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3] The 39 suspects were notified over drug trafficking and smuggling, and the
-most serious charge carries up to 12 years in prison with confiscation. [@2]
+[@1,3,7] The 39 suspects were notified over drug trafficking and smuggling, and the
+most serious charge carries up to 12 years in prison with confiscation. [@2,6]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5,6] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
-parcels. [@1] In Ukraine the drugs were sold through Telegram channels and a
-network of distributors. [@1,3] Officers carried out 141 searches and seized more
+parcels. [@1,6] In Ukraine the drugs were sold through Telegram channels and a
+network of distributors. [@1,3,6] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
-than 3 million hryvnias. [@1] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5]
+than 3 million hryvnias. [@1,6] Authorities put the total value of the seized
+drugs and property at more than 90 million hryvnias. [@2,4,5,6]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
-exposed international supply channels and a sales network. [@1] Everyone is
-presumed innocent until a court verdict proves guilt. [@1] The pre-trial
+exposed international supply channels and a sales network. [@1,6] Everyone is
+presumed innocent until a court verdict proves guilt. [@1,7] The pre-trial
 investigation is continuing to identify other people involved in organising the
-smuggling and sales. [@2]
+smuggling and sales. [@2,7]
 
 The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3]
 
 The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
+
+The National Police statement was coordinated by its drug-crime department, main investigation directorate, the Security Service of Ukraine and the Prosecutor General's Office. [@7] The second stage of the operation targeted and detained other figures who handled the sale of cocaine and cannabis in Ukraine. [@7] The 141 searches were backed by tactical response and special-purpose police units, with canine teams from regional police and Kyiv. [@7]
