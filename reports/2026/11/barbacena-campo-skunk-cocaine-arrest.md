@@ -28,6 +28,11 @@ sources:
     publisher: Correio de Minas
     date: 2026-11-04
     language: pt
+  - title: Após fumar maconha dentro de carro, homem é preso por tráfico de drogas no bairro do Campo
+    url: https://barbacenaonline.com.br/noticia/2026/11/04/apos-fumar-maconha-dentro-de-carro-homem-e-preso-por-trafico-de-drogas-no-bairro-do-campo/
+    publisher: Barbacena Online
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No weight was published for the one bar and nine portions of skunk, so no kilograms can be recorded.
   - The seized R$598 and R$5,000 cheque are cash and a payment instrument, not a published drug valuation, and the cocaine counts are excluded from cannabis figures.
@@ -38,20 +43,19 @@ open_questions:
 
 Military Police officers went to bairro Campo in Barbacena in the early hours of
 Wednesday 4 November after a denunciation about a suspicious man inside a Ford
-Fiesta Sedan that smelled strongly of marijuana. [@1] Officers found the man
+Fiesta Sedan that smelled strongly of marijuana. [@1,3] Officers found the man
 handling a backpack on the back seat, ordered him to place his hands on his
 head, then intercepted and handcuffed him after he grabbed an object at his
-waist and tried to flee. [@1] A personal search seized two mobile telephones
+waist and tried to flee. [@1,3] A personal search seized two mobile telephones
 carried by the suspect at the time of the stop. [@2]
 
 A vehicle search of the backpack found one bar and nine portions of marijuana
-described as skunk, plus a digital precision scale. [@1] The same backpack also
+described as skunk, plus a digital precision scale. [@1,3] The same backpack also
 contained two bars and three portions of cocaine, recorded here only as context
 for the mixed seizure and not counted as cannabis. [@2] Officers also collected
 R$598 in cash, a cheque for R$5,000 and another mobile telephone from the
 vehicle search. [@1]
 
 The 29-year-old man was arrested for drug trafficking and taken with all the
-seized material to the Civil Police station. [@1] Police removed the Ford Fiesta
+seized material to the Civil Police station. [@1,3] Police removed the Ford Fiesta
 Sedan to an accredited impound lot after the arrest. [@2]
-
