@@ -34,6 +34,11 @@ sources:
     publisher: Infobae
     date: 2026-08-12
     language: es
+  - title: 'El Salvador: Capturan a motociclistas señalados por venta de drogas en Nejapa'
+    url: https://www.infobae.com/el-salvador/2026/08/12/el-salvador-capturan-a-motociclistas-senalados-por-venta-de-drogas-en-nejapa/
+    publisher: Infobae
+    date: 2026-08-12
+    language: es
 open_questions:
   - No weight or package weight was published, so no cannabis kilograms can be recorded, and the methamphetamine is excluded from cannabis figures.
   - The article gives no separate date for the operation, so 12 August 2026, its publication date, is used as the incident date.
@@ -41,24 +46,27 @@ open_questions:
   - Only one accessible source for this event was found after searching in Spanish; the separate official PNC statement was not opened.
   - Coordinates are for the centre of Nejapa, not a mapped point inside colonias El Cambio and Las Américas.
   - A close-up handcuffs photo on the page is generic and is not established to show this arrest, so it is not listed as media.
+  - Infobae identifies the detainees only as Jonathan P. and Bryan A., so their full names in the report continue to rely on its earlier source.
+  - This account gives no weight, quantity or street value for the marijuana, so no cannabis kilograms can be recorded and the methamphetamine remains excluded from cannabis figures.
+  - The account says the capture was reported on Tuesday, pointing to 11 August 2026 against its 12 August publication date, while the existing report uses 12 August 2026.
+  - No custody ruling, formal charge decision or other court outcome beyond referral for alleged illicit drug trafficking is reported in this account.
 ---
 
 El Salvador's National Civil Police and Armed Forces detained two men travelling
-by motorcycle in Nejapa, San Salvador Oeste. [@1] The detainees were identified
+by motorcycle in Nejapa, San Salvador Oeste. [@1,2] The detainees were identified
 as Jonathan Alexander Pasquier de León, 25, and Bryan Balmore Ascencio Juárez,
 25. [@1] Officers intercepted them in the colonias El Cambio and Las Américas,
-where police described them as recognized drug distributors. [@1] Police said
+where police described them as recognized drug distributors. [@1,2] Police said
 the evidence and their records supported an illicit drug trafficking charge.
-[@1] Both men will be sent to the courts formally accused of that offence. [@1]
+[@1] Both men will be sent to the courts formally accused of that offence. [@1,2]
 
 Officers seized nine large packages of marijuana, a bag containing
 methamphetamine and mobile phones said to be linked to the activity. [@1] A
 search of the motorcycle also found various marijuana portions, a bag with
-methamphetamine and two mobile phones. [@1] The police report gave no weight or
+methamphetamine and two mobile phones. [@1,2] The police report gave no weight or
 market value for the seized drugs. [@1]
 
 The police presented the action as part of operations to curb the sale and
 distribution of illegal substances in the San Salvador metropolitan area. [@1]
 Under El Salvador's drug law, those found guilty of this type of offence face 10
 to 15 years in prison. [@1]
-
