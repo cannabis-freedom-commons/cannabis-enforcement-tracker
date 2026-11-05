@@ -30,6 +30,7 @@ open_questions:
   - This account rounds the Réunion seizure to 100 kilos while charging conspiracy for about 156 kilos, differing from the 155.7 kg figure used in the existing report, so no cannabis weight is added from this source.
   - This article does not state where in Mauritius the 31 July arrest took place.
   - The page's only relevant image is captioned generically about drug trafficking between Réunion and Mauritius and is not established to show this seizure or arrest, so no media entry is added.
+  - The Zinfos974 page's images are captioned only 'Maurice, zamal' or carry no caption establishing they show this arrest or seizure, so no media entry is added.
 sources:
   - title: 'Trafic de 155,7 kg de cannabis sur l’axe La Réunion-Maurice : un cinquième suspect arrêté par l’ADSU'
     url: https://defimedia.info/trafic-de-1557-kg-de-cannabis-sur-laxe-la-reunion-maurice-un-cinquieme-suspect-arrete-par-ladsu
@@ -66,13 +67,18 @@ sources:
     publisher: LINFO.re
     date: 2026-08-01
     language: fr
+  - title: 'Trafic de cannabis entre La Réunion et Maurice : l''époux d''une secrétaire d''Etat mauricienne arrêté'
+    url: https://www.zinfos974.com/trafic-de-cannabis-entre-la-reunion-et-maurice-lepoux-dune-secretaire-detat-mauricienne-arrete/
+    publisher: Zinfos974
+    date: 2026-08-01
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
 of the island on Friday 4 September 2026 and placed him in detention. [@1]
 Investigators suspect he was an important link in an attempt to import 155.7 kg of
 cannabis, valued at Rs 234 million, from Réunion by sea over the weekend of 25 and
-26 July. [@1,2,7]
+26 July. [@1,2,7,8]
 
 The drug was seized on the Réunion side. Gendarmes found 157 kg of cannabis in a
 van at Bras-Panon, at the mouth of the Rivière du Mât, on Sunday 26 July, and
@@ -82,7 +88,7 @@ in Mauritius. [@4]
 
 In Mauritius, the ADSU arrested Yogajee Govind, known as Gulshan, at Chamarel on
 31 July, where police said he had four cannabis plants and a bottle of methadone.
-[@4,6,7] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
+[@4,6,7,8] The 42-year-old plumber is the husband of Véronique Leu-Govind, the minister
 delegate for arts and culture. [@4,5,6] Ravindra Chimajee, 37, the suspected skipper,
 was arrested at a clinic in Baie-du-Tombeau. [@4,5]
 
