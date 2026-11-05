@@ -66,7 +66,6 @@ seized the van-load of more than 200 kg bound for Kousséri town in the Far
 North. [@2]
 
 Prosecutor Bouba said that given its destination the seized cannabis could have
-supplied Boko Haram in the Far North. [@1] He said residents, security forces
+supplied Boko Haram in the Far North. [@1,2] He said residents, security forces
 and administrative, judicial and traditional authorities had a duty to break its
 supply chain if it passed through their area. [@1]
-
