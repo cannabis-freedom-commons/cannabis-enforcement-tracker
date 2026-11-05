@@ -40,11 +40,17 @@ sources:
     publisher: Vijesti
     date: 2026-11-05
     language: sr
+  - title: Turkish citizen arrested on suspicion of drug dealing, marijuana and cocaine found
+    url: https://en.vijesti.me/news-b/black-chronicle/834903/Turkish-citizen-arrested-on-suspicion-of-drug-dealing--marijuana-and-cocaine-found
+    publisher: Vijesti
+    date: 2026-11-05
 open_questions:
   - No separate date for the search was published; 5 November 2026 is the publication date of all three accounts and is used as the incident date.
   - About 50 grams of cocaine and 238 Lyrica tablets were also seized but are not counted in the cannabis figure; combined drug weights are not used.
   - A 30-year-old Turkish citizen was brought in with the suspect and tested positive for marijuana, but no arrest of that person was reported.
   - No court outcome beyond the 72-hour detention and forthcoming investigative-judge hearing was reported.
+  - The English text describes the search warrant as ordered by the State Prosecutor at the Higher State Prosecutor's Office and reports the arrest as made on that office's order, the same account as the Serbian version already cited.
+  - The page's six-photo Police Directorate gallery could not be added to media because the opened page exposes only thumbnail addresses for its images.
 ---
 
 Podgorica police arrested 42-year-old Turkish citizen E.T. after searching his
@@ -58,17 +64,16 @@ drugs. [@3] His lawyer said Tanjeri admitted keeping the drugs found in the flat
 for further sale and will be heard by an investigative judge. [@3]
 
 Officers searched the flat he used in the Zabjelo neighbourhood, where
-30-year-old Turkish citizen E.T. was present with him. [@2] Police seized
+30-year-old Turkish citizen E.T. was present with him. [@2,4] Police seized
 several packages, including PVC bags and glass jars, holding marijuana weighing
-about one kilogram and 830 grams. [@1] They also seized about 50 grams of
+about one kilogram and 830 grams. [@1,4] They also seized about 50 grams of
 cocaine, 238 Lyrica tablets, handmade cigarettes, packaging bags with adhesive
-stickers and three precision scales. [@1] Police described the seized drugs as
-intended for street sale in Podgorica. [@1] Officers said the 42-year-old had
+stickers and three precision scales. [@1,4] Police described the seized drugs as
+intended for street sale in Podgorica. [@1,4] Officers said the 42-year-old had
 enabled the 30-year-old to use marijuana in the flat, and testing confirmed she
-was positive for marijuana. [@1]
+was positive for marijuana. [@1,4]
 
 The operation was part of continued action against street-level drug dealing in
 the capital, in coordination with the Higher State Prosecutor's Office in
-Podgorica. [@2] The detention was ordered because of a flight risk since he is a
+Podgorica. [@2,4] The detention was ordered because of a flight risk since he is a
 foreign citizen. [@3]
-
