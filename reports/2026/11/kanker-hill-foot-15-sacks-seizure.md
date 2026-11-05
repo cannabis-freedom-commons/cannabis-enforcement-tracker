@@ -75,6 +75,10 @@ open_questions:
   - The source values the haul only vaguely in crores of rupees in the international market and gives no exact figure.
   - The ETV account says police recovered the packets on an informer's tip, while the existing account records local people alerting police; it is unclear whether these refer to the same tip.
   - The ETV account says two suspect vehicles and a car driver have been identified but publishes no registration numbers or names, so they remain unnamed.
+  - This Navbharat Live account was already cited by the report, so it adds no new corroboration or detail to the Kanker recovery.
+  - The server-rendered page opens with the caption कांकेर पुलिस ने बरामद किया गांजा (Kanker police recovered ganja) above an untitled police photograph; the caption does not say the picture shows this 15-sack recovery, so no media entry can be supported from it.
+  - A second, differently named image file on the same page carries no visible caption beyond the page's general police tags, so it cannot be tied to this seizure either.
+  - 'Left out, as its quotation was not found in Navbharat Live: Kanker police seized 15 sacks of ganja found abandoned at the foot of a hill near National Highway-30.'
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
