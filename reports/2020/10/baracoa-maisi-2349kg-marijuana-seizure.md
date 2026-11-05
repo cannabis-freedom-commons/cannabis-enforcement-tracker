@@ -30,6 +30,11 @@ sources:
     publisher: DIARIO DE CUBA
     date: 2020-11-03
     language: es
+  - title: Con el decomiso de dos toneladas de marihuana, Cuba quiere "salvar la juventud de EE UU"
+    url: https://www.14ymedio.com/cuba/dos-toneladas-de-marihuana-decomisadas-oriente-de-cuba_1_1047093.html
+    publisher: 14ymedio
+    date: 2020-11-03
+    language: es
 open_questions:
   - Only one accessible account of this event could be opened, a Diario de Cuba report relaying the state newspaper Granma; no second independent account was found.
   - The exact interception point of the 16 October boat was not given beyond Cuba's eastern coast.
@@ -38,28 +43,28 @@ open_questions:
   - The article also mentions 251 packages with 593 kilograms seized in May 2020, a separate event left out of this report.
   - The incident date uses the latest operation on 16 October 2020; the first operation occurred on 9 October 2020.
   - 'Left out, as its quotation was not found in DIARIO DE CUBA: Cuban authorities said investigations into that second case were continuing.'
+  - The 14ymedio page carries an image captioned about official press coverage of the two operations and credited DTGF/Cubadebate, which does not establish that it shows this seizure, so no media entry is included.
 ---
 
 On the morning of 16 October 2020, Cuban border guards detained two Bahamians
-and one Jamaican aboard a speedboat with two outboard motors. [@1] On the night
+and one Jamaican aboard a speedboat with two outboard motors. [@1,2] On the night
 of 9 October 2020, guards detected a speedboat with two outboard motors carrying
-three or four people aboard off southeastern Cuba. [@1] The guards pursued that
+three or four people aboard off southeastern Cuba. [@1,2] The guards pursued that
 boat for an hour but could not catch those aboard. [@1] After the pursuit, the
 Cuban military notified the Miami Coast Guard and the Royal Bahamas Defence
-Force. [@1]
+Force. [@1,2]
 
 Cuba's Tropas Guardafronteras, the Border Guard Troops, seized more than two
 tonnes of marijuana in two October operations against international drug
 trafficking on the island's eastern coast, as reported by the state newspaper
-Granma. [@1] In the days after the 9 October chase, authorities recovered 70
+Granma. [@1,2] In the days after the 9 October chase, authorities recovered 70
 containers and eight isolated packages containing 1,618.75 kilograms of
-marijuana near Baracoa and Maisí. [@1] In the 16 October interception, the
-guards seized 730.41 kilograms of Jamaican marijuana. [@1] Granma reported a
-total of 2,349 kilograms seized in the two operations. [@1] Granma said the
+marijuana near Baracoa and Maisí. [@1,2] In the 16 October interception, the
+guards seized 730.41 kilograms of Jamaican marijuana. [@1,2] Granma reported a
+total of 2,349 kilograms seized in the two operations. [@1,2] Granma said the
 entire volume would be incinerated. [@1]
 
 Interior Ministry sources described the first operation as one of the most
 complex recent confrontations with drug landings because of its characteristics
 and the volume captured in more than 20 different moments and places in the
 island's waters. [@1]
-
