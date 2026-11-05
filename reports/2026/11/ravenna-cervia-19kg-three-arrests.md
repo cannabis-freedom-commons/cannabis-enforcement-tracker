@@ -39,6 +39,11 @@ sources:
     publisher: Polizia di Stato
     date: 2026-11-04
     language: it
+  - title: Trovati con 19 chili di stupefacenti. Tre arresti a Ravenna e Cervia
+    url: https://www.ilrestodelcarlino.it/ravenna/cronaca/trovati-con-19-chili-di-1156e4b9
+    publisher: Il Resto del Carlino
+    date: 2026-11-05
+    language: it
 open_questions:
   - Only one accessible account of this event was opened; searches found no second outlet or agency statement to corroborate it.
   - The 19 kg total is reported as approximate, split as about nine kilograms in Ravenna and about ten kilograms in Cervia, with no exact laboratory weight published.
@@ -48,6 +53,8 @@ open_questions:
   - No charges, trial or sentence beyond the validation of arrests and precautionary measures were reported; the pistol-origin inquiry was still under way.
   - The page image captioned as a Squadra Mobile handout is not established by its caption to show this seizure, and the second page image is an advertisement banner, so no media entry is included.
   - 'Left out, as its quotation was not found in Polizia di Stato: The other Mobile Squad in the joint service was the Forlì-Cesena squad.'
+  - The new account reports the cash seized from the two Ravenna suspects as 3,000 euros, while the existing report records 3,015 euros from earlier sources.
+  - The new article dated 5 November 2026 gives no separate operation or validation dates, reporting only that the Cervia search occurred the same afternoon, so the existing operation and validation dates rest on earlier sources.
 ---
 
 State police carried out two operations on the afternoon of 2 November 2026
@@ -56,20 +63,22 @@ and a 24-year-old from Cervia. [@1,3] Officers first stopped the two Ravenna men
 both with clean records, while they were travelling in a car. [@1,2] On the
 morning of 4 November the preliminary-investigations judge in Ravenna validated
 all three arrests, keeping the 24-year-old from Cervia in jail and placing the
-two from Ravenna under house arrest with electronic bracelets. [@1,2,4]
+two from Ravenna under house arrest with electronic bracelets. [@1,2,4,5]
 
 In the car officers found a bag containing almost seven kilograms of hashish and
-marijuana. [@1,2,3] Later searches in the two young men's homes brought the Ravenna
-total to about nine kilograms. [@1,2,3] In Cervia officers found about ten kilograms
-of hashish and marijuana in the 24-year-old's home. [@1,2,3] The two operations
-together yielded about 19 kilograms of hashish and marijuana. [@1,2,3] Officers also
+marijuana. [@1,2,3,5] Later searches in the two young men's homes brought the Ravenna
+total to about nine kilograms. [@1,2,3,5] In Cervia officers found about ten kilograms
+of hashish and marijuana in the 24-year-old's home. [@1,2,3,5] The two operations
+together yielded about 19 kilograms of hashish and marijuana. [@1,2,3,5] Officers also
 seized packaging material, mobile phones, precision electronic scales and 3,015
 euros in cash believed to come from dealing. [@1,2] The Cervia search also turned
 up 29 vials of codeine-based syrup and about 1.6 kilograms of THC-containing
 edible biscuits that tested positive in a presumptive narcotest. [@1] Officers
 also seized a concealed Beretta model 1934 semi-automatic pistol in 9mm Short
-with six rounds already loaded plus 25 more rounds. [@1,2,4]
+with six rounds already loaded plus 25 more rounds. [@1,2,4,5]
 
 The operations were run jointly by the specialist anti-drug units of the two
 Romagna Mobile Squads. [@1,2,3] Investigators said checks into the pistol's origin
 were still under way. [@1,2]
+
+The two men from Ravenna are defended by lawyers Carlo Benini and Carlotta Benini. [@5]
