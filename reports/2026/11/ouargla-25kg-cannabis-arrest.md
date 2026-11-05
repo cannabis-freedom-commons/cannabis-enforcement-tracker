@@ -29,6 +29,16 @@ sources:
     publisher: CapDZ
     date: 2026-11-03
     language: fr
+  - title: شرطة ورقلة توقف شخصا وتحجز 25 كلغ من القنب الهندي
+    url: https://elmassar-elarabi.dz/157048
+    publisher: المسار العربي
+    date: 2026-11-03
+    language: ar
+  - title: '#المصلحة_الجهوية_لمكافحة_الإتجار_غير_المشروع_بالمخدرات_والمؤثرات_العقلية_SRLTISSP_ورقلة تتمكن من توقيف شخص وحجز (25) كيلوغرام من القنب الهندي.'
+    url: https://www.facebook.com/policedzourgla/posts/1118281634523080/
+    publisher: شرطة ورقلة (Ouargla police), Facebook
+    date: 2026-11-03
+    language: ar
 open_questions:
   - No separate raid date was published; 3 November 2026 is the publication date of both accounts and is used as the incident date, with the operation announced in a Tuesday communiqué.
   - The suspect was not named and no age or other identifying details were published.
@@ -37,22 +47,24 @@ open_questions:
   - Only an unnamed district or quarter of the city of Ouargla was given, not a precise address.
   - The Horizons page image is captioned only as cannabis and the CapDZ image only as Ouargla, so neither is established to show this 25 kg seizure and no media entry is included.
   - Both accounts repeat the same Ouargla Sûreté de wilaya communiqué rather than providing an independent non-police account.
+  - The El Raed and Al-Massar Al-Arabi accounts repeat the same police statement, so they are not an independent non-police account.
+  - The police accounts give no charge, custody ruling or court outcome beyond presentation before the Ouargla prosecutor.
 ---
 
 Officers of Ouargla's regional service against illicit drug trafficking arrested
-one person in a neighbourhood of the city of Ouargla. [@1] Investigators had
+one person in a neighbourhood of the city of Ouargla. [@1,3] Investigators had
 opened the case after information reported a suspicious movement linked to drug
 trafficking. [@1] The Sûreté de wilaya of Ouargla, the provincial police
 directorate for the wilaya or province, announced the operation in a Tuesday
 communiqué. [@2]
 
-Officers seized 25 kg of cannabis in the same operation. [@1] The operation was
+Officers seized 25 kg of cannabis in the same operation. [@1,3] The operation was
 triggered on the basis of the tip about the suspected drug-trafficking movement
 in the city. [@2] The same services' inquiries led to the arrest in a district
 of Ouargla and to the seizure of the reported cannabis quantity. [@2]
 
 After the legal procedures were completed, the suspect was presented before the
-territorially competent parquet, the prosecutor's office. [@1] The communiqué
+territorially competent parquet, the prosecutor's office. [@1,4] The communiqué
 presented the seizure as confirmation of intensified security-service efforts
 against drug trafficking across the wilaya. [@2] Investigations were continuing
 to identify possible accomplices and trace the supply chain in order to
@@ -60,3 +72,4 @@ dismantle the networks supplying the local and regional market. [@2] The
 authorities called on citizens to report any suspicious behaviour to the
 competent services. [@2]
 
+The provincial police issued their own account of the arrest and seizure on their Ouargla Facebook page, naming the same regional service and the same 25 kg. [@4]
