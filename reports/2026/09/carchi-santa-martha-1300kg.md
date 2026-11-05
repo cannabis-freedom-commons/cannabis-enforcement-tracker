@@ -43,6 +43,11 @@ sources:
     publisher: Prensa Libre
     date: 2026-09-30
     language: es
+  - title: Militares de Ecuador incautan 1,3 toneladas de marihuana en zona fronteriza con Colombia
+    url: https://www.infobae.com/america/agencias/2026/10/01/militares-de-ecuador-incautan-13-toneladas-de-marihuana-en-zona-fronteriza-con-colombia/
+    publisher: Infobae
+    date: 2026-09-30
+    language: es
 media:
   - kind: photo
     url: https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/10/01/6abe2417e96b4.r_d.952-917-9375.jpeg
@@ -50,8 +55,8 @@ media:
     caption: A wrapped rectangular package labelled Colombia Gold, lying on a sack. Primicias says it is one of the packages seized on 30 September 2026 at Santa Martha de Cuba and credits the army's account on X.
 ---
 
-On Wednesday 30 September 2026, Ecuadorian soldiers seized about 1.3 tonnes of marijuana from a pickup abandoned after a chase in Santa Martha de Cuba, in Carchi province, Defence Minister Gian Carlo Loffredo said. [@1] The people in the pickup skipped a military checkpoint. [@1,3] Soldiers followed them. [@1] Kilometres later the occupants left the vehicle and escaped. [@1] The army's own post, quoted by Primicias, said the soldiers had seized 1,300 kg in Carchi. [@1]
+On Wednesday 30 September 2026, Ecuadorian soldiers seized about 1.3 tonnes of marijuana from a pickup abandoned after a chase in Santa Martha de Cuba, in Carchi province, Defence Minister Gian Carlo Loffredo said. [@1,4] The people in the pickup skipped a military checkpoint. [@1,3,4] Soldiers followed them. [@1,4] Kilometres later the occupants left the vehicle and escaped. [@1,4] The army's own post, quoted by Primicias, said the soldiers had seized 1,300 kg in Carchi. [@1]
 
-When the army searched the pickup it found 24 bundles holding about 960 packages of suspected marijuana, Loffredo wrote. [@1,3] He valued the load at 6.5 million US dollars and called the seizure a blow to the logistics and illicit economies of trafficking groups on the northern border. [@1]
+When the army searched the pickup it found 24 bundles holding about 960 packages of suspected marijuana, Loffredo wrote. [@1,3,4] He valued the load at 6.5 million US dollars and called the seizure a blow to the logistics and illicit economies of trafficking groups on the northern border. [@1]
 
 El Universo, citing the same post, reported that the occupants were not arrested. [@2] It said the operation was carried out by the security bloc through the armed forces, using information from the National Intelligence Centre. [@2]
