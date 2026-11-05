@@ -29,7 +29,8 @@ type Worker struct {
 	Nostr  *nostr.Service
 	Health *research.Health
 	// FetchImage downloads a photo for the duplicate check; tests replace it
-	FetchImage func(context.Context, string) ([]byte, error)
+	FetchImage      func(context.Context, string) ([]byte, error)
+	observeResearch func(error)
 }
 
 func (w *Worker) Run(parent context.Context) {
@@ -55,6 +56,9 @@ func (w *Worker) Run(parent context.Context) {
 	loops := w.Config.MaxWorkers()
 	pool := newAgentPool(w.Config, w.Health)
 	var wg sync.WaitGroup
+	if !w.Config.Demo && len(pool.agents) > 0 {
+		wg.Go(func() { pool.recoverAgents(ctx, w.Config, w.Store) })
+	}
 	// job storage: build leftovers and finished requests' workspaces are cleaned up
 	wg.Add(1)
 	go func() { defer wg.Done(); w.janitor(ctx) }()
@@ -90,6 +94,7 @@ func (w *Worker) jobs(ctx context.Context, kind string, pool *agentPool) {
 				release = done
 				selected.Config.ResearchModel = model
 				selected.Health = w.Health.ForModel(model)
+				selected.observeResearch = func(err error) { pool.observe(model, err, time.Now()) }
 			}
 			j, err := w.Store.ClaimKind(ctx, "jobs", kind, 2*time.Minute)
 			if errors.Is(err, sql.ErrNoRows) {
@@ -119,7 +124,7 @@ func (w *Worker) jobs(ctx context.Context, kind string, pool *agentPool) {
 			if ctx.Err() != nil {
 				err = store.ErrInterrupted
 			}
-			if err != nil && j.Attempts >= 8 && !errors.Is(err, store.ErrInterrupted) && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) {
+			if err != nil && j.Attempts >= 8 && !errors.Is(err, store.ErrInterrupted) && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrResearchAgent) {
 				_ = w.Store.Transition(ctx, j.Ref, "failed", "Processing exhausted its retry budget. Restart this submission on localhost to try again.", "", "")
 			}
 			finishCtx, finishCancel := context.WithTimeout(context.Background(), 5*time.Second)
@@ -273,14 +278,14 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				if e != nil {
 					checkpoint.ReviewCoverage = true
 				} else {
-					checkpoint.Coverage = countryCoverage(original, checkpoint.Result.Country)
+					checkpoint.Coverage = eventCoverage(original, checkpoint.Result)
 				}
 			}
 			current, e := Coverage(w.Config.RepoPath)
 			if e != nil {
 				return e
 			}
-			if coverageDiffers(current, checkpoint.Result.Country, checkpoint.Coverage, nil) {
+			if coverageDiffers(current, checkpoint.Result, checkpoint.Coverage, nil) {
 				checkpoint.ReviewCoverage = true
 			}
 			_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
@@ -407,6 +412,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		}
 		invoked = true
 		result, err = runner.Run(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
+		if w.observeResearch != nil && ctx.Err() == nil {
+			w.observeResearch(err)
+		}
 		if err != nil {
 			return err
 		}
@@ -422,7 +430,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if aliasErr != nil {
 			return aliasErr
 		}
-		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: countryCoverage(reports, result.Country), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
+		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
 		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
 			return err
 		}
@@ -485,7 +493,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if err != nil {
 			return err
 		}
-		if coverageDiffers(current, result.Country, checkpoint.Coverage, nil) {
+		if coverageDiffers(current, result, checkpoint.Coverage, nil) {
 			return w.requeueCoverageReview(ctx, j, nil)
 		}
 		_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
@@ -814,6 +822,9 @@ func (w *Worker) waitingToRetry(ctx context.Context, j store.Job, cause error) {
 		return
 	}
 	why := "The last attempt did not finish; it will be retried automatically"
+	if errors.Is(cause, store.ErrResearchAgent) {
+		why = "The research agent stopped before its first model step. The request will be retried automatically without using a case retry"
+	}
 	if errors.Is(cause, store.ErrInterrupted) {
 		why = "Processing was interrupted (the service restarted); it will resume automatically"
 	}

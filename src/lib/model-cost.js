@@ -5,7 +5,7 @@ export const MODEL_PRICES = {
   // Swancloud rates and 15× subscription supplied by the operator (USD / million tokens).
   // Cached input uses the standard input price where no separate rate was supplied.
   "swancloud/muse-spark-1.3-contributor": { input: 0.100, output: 0.200, cached: 0.002, planMultiplier: 15 },
-  "swancloud/claude-haiku-5.5": { input: 0.015, output: 0.075, planMultiplier: 15 },
+  "swancloud/claude-haiku-5.5": { input: 0.100, output: 0.500, planMultiplier: 15 },
   "swancloud/deepseek-v4.1-flash": { input: 0.150, output: 0.6, planMultiplier: 15 },
   // Operator-supplied API rates and 6× plan; no time-of-day adjustment.
   "opencode-go/muse-spark-1.3-contributor": { input: 0.10, output: 0.20, cached: 0.002, planMultiplier: 6 },

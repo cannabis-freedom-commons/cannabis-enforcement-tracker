@@ -49,7 +49,8 @@ func FetchRendered(parent context.Context, raw, dir, script string) (Evidence, e
 	if err != nil {
 		return Evidence{}, err
 	}
-	ctx, cancel := context.WithTimeout(parent, 65*time.Second)
+	// Allow time for the browser plus the bounded image compression step.
+	ctx, cancel := context.WithTimeout(parent, 75*time.Second)
 	defer cancel()
 	proxy, token, closeProxy, err := browserProxy(ctx)
 	if err != nil {

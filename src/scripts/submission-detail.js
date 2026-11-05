@@ -220,7 +220,7 @@ function sourceCheck(box, v, { api, local }) {
         photos.append(el("h3", `Photos on the page · ${c.images.length}`));
         const grid = el("div", undefined, "sx-photo-grid");
         c.images.forEach((img, i) => {
-          const n = Number((img.file.match(/images\/(\d)\.png$/) || [])[1] || i + 1);
+          const n = Number((img.file.match(/^images\/([1-8])\.(?:png|avif|webp)$/) || [])[1] || i + 1);
           const href = `${api}/v1/submissions/${v.id}/source/image/${n}${c.capture_id ? `?capture=${encodeURIComponent(c.capture_id)}` : ""}`;
           const fig = el("figure"); const a = link("", href); a.target = "_blank"; a.rel = "noopener noreferrer";
           const im = el("img"); im.src = href; im.alt = img.caption || `Photo ${n} on the source page`; im.loading = "lazy"; im.decoding = "async";

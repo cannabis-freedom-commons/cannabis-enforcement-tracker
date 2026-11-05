@@ -8,6 +8,7 @@ import fs from "node:fs/promises";
 import { createRequire } from "node:module";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
+import { saveCaptureImage } from "./archive-screenshots.mjs";
 
 // Ads, trackers and cookie notices are kept out of the capture, so the screenshot and the text show
 // the article: Ghostery's filter lists (EasyList, EasyPrivacy and the annoyance lists, cookie notices
@@ -133,9 +134,11 @@ export function extractSourcePage() {
   return { text, content: "<!doctype html>\n" + clone.outerHTML, metadata, height: document.documentElement.scrollHeight };
 }
 
+const WEBP_MAX_DIMENSION = 16383;
+
 // The photos in the article: large enough to be photos, not in the page's header, menu, sidebar or
-// footer, each once, at most eight; each saved as images/<n>.png beside the screenshot.
-async function captureImages(page, dir) {
+// footer, each once, at most eight.
+async function captureImages(page, imageBuffers) {
   const found = await page.evaluate(() => {
     const clean = (v, max = 400) => String(v || "").replace(/\s+/g, " ").trim().slice(0, max);
     // the story: the article or main around the headline (a page may have small <article> boxes
@@ -159,14 +162,14 @@ async function captureImages(page, dir) {
     return out;
   });
   const images = [];
-  if (found.length) await fs.mkdir(path.join(dir, "images"), { recursive: true, mode: 0o700 });
   for (const image of found) {
-    const file = `images/${image.index}.png`;
+    const webp = Math.max(image.width, image.height) <= WEBP_MAX_DIMENSION;
+    const file = `images/${image.index}.${webp ? "webp" : "png"}`;
     try {
       const element = page.locator(`img[data-source-image="${image.index}"]`).first();
       await element.scrollIntoViewIfNeeded({ timeout: 3000 });
-      await element.screenshot({ path: path.join(dir, file), animations: "disabled", timeout: 5000 });
-      await fs.chmod(path.join(dir, file), 0o600);
+      const buffer = await element.screenshot({ ...(webp ? { type: "webp", quality: 85 } : { type: "png" }), animations: "disabled", timeout: 5000 });
+      imageBuffers.set(file, buffer);
       images.push({ file, src: image.src, caption: image.caption, credit: image.credit, width: image.width, height: image.height });
     } catch { /* an image that could not be shot is left out */ }
   }
@@ -175,6 +178,26 @@ async function captureImages(page, dir) {
 }
 
 export async function captureSource({ url, dir, proxy, token }) {
+  const imageBuffers = new Map();
+  const result = await capturePage({ url, dir, proxy, token, imageBuffers });
+  // Encode after closing Chromium and before handing the capture to consumers.
+  const { evidence } = result;
+  const images = evidence.metadata.images;
+  const signal = AbortSignal.timeout(8000);
+  const save = async file => {
+    const target = path.join(dir, file);
+    if (file.endsWith(".png")) return path.relative(dir, await saveCaptureImage(target, imageBuffers.get(file), signal));
+    await fs.writeFile(target, imageBuffers.get(file), { mode: 0o600 });
+    return file;
+  };
+  if (evidence.screenshot) evidence.screenshot = await save(evidence.screenshot);
+  if (images.length) await fs.mkdir(path.join(dir, "images"), { recursive: true, mode: 0o700 });
+  for (const image of images) image.file = await save(image.file);
+  await fs.writeFile(path.join(dir, "metadata.json"), JSON.stringify(evidence.metadata, null, 2), { mode: 0o600 });
+  return result;
+}
+
+async function capturePage({ url, dir, proxy, token, imageBuffers }) {
   if (!proxy || !token || !/^http:\/\/127\.0\.0\.1:\d+$/.test(proxy)) throw new Error("Source proxy is unavailable.");
   const blocker = await loadBlocker();
   let blocked = 0, page;
@@ -228,7 +251,7 @@ export async function captureSource({ url, dir, proxy, token }) {
     // is fetched again), with its caption and credit. They are kept in the private capture, shown on
     // the local request page and offered to the researcher, which may link them as the report's
     // media; the site itself never copies a newspaper's picture (docs/WRITING.md §7).
-    extracted.metadata.images = await captureImages(page, dir).catch(() => []);
+    extracted.metadata.images = await captureImages(page, imageBuffers).catch(() => []);
     // The whole page, top to bottom, so nothing on it is lost (images of text, tables, comments):
     // scroll through it first so lazy images load, then one full-page screenshot, capped only for
     // pages that never end
@@ -239,17 +262,24 @@ export async function captureSource({ url, dir, proxy, token }) {
       scrollTo(0, 0);
     }, MAX_HEIGHT).catch(() => {});
     await page.waitForLoadState("networkidle", { timeout: 3000 }).catch(() => {});
-    const fullHeight = await page.evaluate(() => document.documentElement.scrollHeight).catch(() => extracted.height);
+    const { fullHeight, fullWidth } = await page.evaluate(() => ({
+      fullHeight: document.documentElement.scrollHeight,
+      fullWidth: document.documentElement.scrollWidth,
+    })).catch(() => ({ fullHeight: extracted.height, fullWidth: 1440 }));
     const height = Math.max(900, Math.min(fullHeight, MAX_HEIGHT));
     let screenshot = "", screenshotError = "";
     try {
-      await page.screenshot({ path: path.join(dir, "page.png"), ...(fullHeight <= MAX_HEIGHT ? { fullPage: true } : { clip: { x: 0, y: 0, width: 1440, height } }), animations: "disabled", timeout: 30000 });
-      await fs.chmod(path.join(dir, "page.png"), 0o600); screenshot = "page.png";
+      // WebP cannot encode dimensions over 16,383 pixels. For larger pages,
+      // send a PNG buffer to the AVIF encoder so it can resize the whole page.
+      const fullPage = fullHeight <= MAX_HEIGHT;
+      const type = height <= WEBP_MAX_DIMENSION && (!fullPage || fullWidth <= WEBP_MAX_DIMENSION) ? "webp" : "png";
+      const image = await page.screenshot({ type, ...(fullPage ? { fullPage: true } : { clip: { x: 0, y: 0, width: 1440, height } }), animations: "disabled", timeout: 30000 });
+      screenshot = `page.${type}`;
+      imageBuffers.set(screenshot, image);
     } catch { screenshotError = "The page rendered, but its screenshot could not be captured."; }
     await Promise.all([
       fs.writeFile(path.join(dir, "page.html"), extracted.content, { mode: 0o600 }),
       fs.writeFile(path.join(dir, "page.txt"), extracted.text, { mode: 0o600 }),
-      fs.writeFile(path.join(dir, "metadata.json"), JSON.stringify(extracted.metadata, null, 2), { mode: 0o600 }),
     ]);
     const status = response?.status() || 0;
     const evidence = { access_blocked: (await response?.headerValue("cf-mitigated").catch(() => "")) === "challenge" ? "Cloudflare" : "", url, final_url: page.url(), content: extracted.content, text: extracted.text, metadata: extracted.metadata, rendered: true, screenshot, browser_warning: screenshotError,

@@ -44,7 +44,7 @@ test("Playwright captures JavaScript text, SEO metadata, redirects and screensho
     <meta name="csrf-token" content="must-not-export"><meta name="description" content="Description of the opened report"><meta property="og:site_name" content="Fixture News">
     <meta property="og:image" content="https://images.example/cover.jpg"><meta name="twitter:card" content="summary_large_image">
     <link rel="canonical" href="/canonical-story"><script type="application/ld+json">{"@graph":[{"@type":"NewsArticle","author":{"@type":"Person","name":"Fixture Author"},"datePublished":"2026-10-29T08:00:00Z"}]}</script>
-    <script src="/app.js" defer></script></head><body><main>Loading…</main></body></html>`;
+    <script src="/app.js" defer></script></head><body><main>Loading…</main><img src="/photo.svg" width="320" height="180"></body></html>`;
   // the loader's proxy, playing the publisher too: plain HTTP arrives in absolute form, and only
   // with the capture's credentials, which Chromium sends once asked (407)
   const auth = "Basic " + Buffer.from("capture:fixture-token").toString("base64");
@@ -58,6 +58,7 @@ test("Playwright captures JavaScript text, SEO metadata, redirects and screensho
     if (pathname === "/start") { status = 302; headers.location = "http://news.example/story"; body = ""; }
     if (pathname === "/app.js") { headers["content-type"] = "application/javascript"; body = app; }
     if (pathname === "/api/story") { headers["content-type"] = "application/json"; body = JSON.stringify({ text }); }
+    if (pathname === "/photo.svg") { headers["content-type"] = "image/svg+xml"; body = '<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180"><rect width="320" height="180" fill="blue"/></svg>'; }
     res.writeHead(status, headers); res.end(body);
   });
   await new Promise(resolve => bridge.listen(0, "127.0.0.1", resolve));
@@ -77,9 +78,16 @@ test("Playwright captures JavaScript text, SEO metadata, redirects and screensho
     assert.equal(result.evidence.metadata.twitter["twitter:card"], "summary_large_image");
     assert.equal(result.evidence.metadata.json_ld.length, 1);
     assert.ok(requests.some(url => url.endsWith("/app.js"))); assert.ok(requests.some(url => url.endsWith("/api/story")));
-    const screenshot = await fs.readFile(path.join(dir, "page.png"));
-    assert.deepEqual([...screenshot.subarray(0, 8)], [137,80,78,71,13,10,26,10]);
-    assert.equal((await fs.stat(path.join(dir, "page.png"))).mode & 0o777, 0o600);
-    assert.match(await fs.readFile(path.join(dir, "metadata.json"), "utf8"), /Fixture Author/);
+    assert.equal(result.evidence.screenshot, "page.webp");
+    assert.deepEqual(result.evidence.metadata.images.map(image => image.file), ["images/1.webp"]);
+    for (const name of [result.evidence.screenshot, result.evidence.metadata.images[0].file]) {
+      const file = path.join(dir, name);
+      const image = await fs.readFile(file);
+      assert.equal(image.toString("ascii", 0, 4), "RIFF");
+      assert.equal(image.toString("ascii", 8, 12), "WEBP");
+      await assert.rejects(fs.stat(file.replace(/\.webp$/, ".png")), { code: "ENOENT" });
+      assert.equal((await fs.stat(file)).mode & 0o777, 0o600);
+    }
+    assert.deepEqual(JSON.parse(await fs.readFile(path.join(dir, "metadata.json"), "utf8")), result.evidence.metadata);
   } finally { await new Promise(resolve => bridge.close(resolve)); await fs.rm(dir, { recursive: true, force: true }); }
 });

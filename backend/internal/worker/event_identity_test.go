@@ -11,11 +11,13 @@ import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 )
 
-func TestCoverageDetectsRemovalsAndCountryStateChanges(t *testing.T) {
-	beforeReports := []report{{Slug: "utah-case", Country: "us/ut", Digest: "one"}, {Slug: "country-case", Country: "us", Digest: "two"}, {Slug: "foreign-case", Country: "gb", Digest: "three"}}
-	before := countryCoverage(beforeReports, "us/ca")
-	if len(before) != 2 {
-		t.Fatal("state research did not see related country coverage", before)
+func TestCoverageDetectsChangesToPlausibleMatches(t *testing.T) {
+	title := "Pozzuoli village greenhouse raid"
+	proposal := research.Result{Country: "us/ca", Title: title, EventComparisons: []research.EventComparison{{Report: "utah-case"}}}
+	beforeReports := []report{{Slug: "utah-case", Country: "us/ut", Title: title, Digest: "one"}, {Slug: "country-case", Country: "us", Title: "Border arrest near Nevada", Digest: "two"}, {Slug: "foreign-case", Country: "gb", Title: title, Digest: "three"}}
+	before := eventCoverage(beforeReports, proposal)
+	if len(before) != 1 || before["utah-case"] != "one" {
+		t.Fatal("inventory included unrelated reports or missed a candidate", before)
 	}
 	for _, tc := range []struct {
 		name    string
@@ -24,14 +26,16 @@ func TestCoverageDetectsRemovalsAndCountryStateChanges(t *testing.T) {
 		want    bool
 	}{
 		{"unchanged", beforeReports, nil, false},
-		{"removed", beforeReports[1:], nil, true},
-		{"moved outside country", []report{{Slug: "utah-case", Country: "ca", Digest: "one"}, beforeReports[1]}, nil, true},
+		{"removed comparison target", beforeReports[1:], nil, true},
+		{"moved comparison target", []report{{Slug: "utah-case", Country: "ca", Digest: "changed"}, beforeReports[1]}, nil, true},
 		{"changed state report", []report{{Slug: "utah-case", Country: "us/ut", Digest: "changed"}, beforeReports[1]}, nil, true},
+		{"changed unrelated domestic report", []report{beforeReports[0], {Slug: "country-case", Country: "us", Title: "Court ruling on a border arrest", Digest: "changed"}}, nil, false},
+		{"new domestic candidate", append(append([]report(nil), beforeReports...), report{Slug: "new-match", Country: "us", Title: title, Digest: "new"}), nil, true},
 		{"unrelated country", append(append([]report(nil), beforeReports...), report{Slug: "foreign-new", Country: "de", Digest: "new"}), nil, false},
-		{"validated incidental update", beforeReports[1:], map[string]bool{"utah-case": true}, false},
+		{"validated incidental update", []report{{Slug: "utah-case", Country: "us/ut", Digest: "changed"}, beforeReports[1]}, map[string]bool{"utah-case": true}, false},
 	} {
 		t.Run(tc.name, func(t *testing.T) {
-			if got := coverageDiffers(tc.reports, "us/ca", before, tc.updates); got != tc.want {
+			if got := coverageDiffers(tc.reports, proposal, before, tc.updates); got != tc.want {
 				t.Fatal(got, tc.want)
 			}
 		})
@@ -76,7 +80,7 @@ func TestOldQueuedDraftNeedsEventComparisonBeforePublication(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	originalContent = []byte(strings.Replace(string(originalContent), "Police arrest a man with 71 grams", "Pozzuoli village farm raid", 1))
+	originalContent = []byte(strings.Replace(string(originalContent), "Pozzuoli greenhouse raid at Monte Nuovo", "Pozzuoli village farm raid", 1))
 	os.MkdirAll(filepath.Dir(filepath.Join(repo, original.Rel)), 0755)
 	os.WriteFile(filepath.Join(repo, original.Rel), originalContent, 0644)
 	draft := eventDraft(t, "another-outlet", "XYZ123", "it")
@@ -84,12 +88,12 @@ func TestOldQueuedDraftNeedsEventComparisonBeforePublication(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	content = []byte(strings.Replace(string(content), "Police arrest a man with 71 grams", "Pozzuoli village farm raid", 1))
+	content = []byte(strings.Replace(string(content), "Pozzuoli greenhouse raid at Monte Nuovo", "Pozzuoli village farm raid", 1))
 	reports, err := Coverage(repo)
 	if err != nil {
 		t.Fatal(err)
 	}
-	draft.Coverage = countryCoverage(reports, "it")
+	draft.Coverage = eventCoverage(reports, research.Result{Country: "it", Title: "Pozzuoli village farm raid"})
 	var changed *coverageChanged
 	if err := checkPublicationCoverage(repo, draft, content); !errors.As(err, &changed) {
 		t.Fatal("old unexamined draft could publish", err)

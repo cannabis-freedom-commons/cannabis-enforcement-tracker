@@ -844,7 +844,9 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 			}
 			// say why, in words: the data is public, only credentials are redacted
 			why := runErr.Error()
-			if events != nil {
+			if errors.Is(runErr, store.ErrResearchAgent) {
+				why = store.ErrResearchAgent.Error()
+			} else if events != nil {
 				why = events.safe(why)
 			}
 			_ = r.Store.AddAIEvent(endCtx, cid, run, "system", "error", "The OpenCode run could not complete: "+why+". Processing will retry automatically within its limits.")
@@ -953,7 +955,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 		metadata, _ := json.MarshalIndent(e.Metadata, "", "  ")
 		files["source-metadata.json"] = metadata
 	}
-	if (e.Screenshot == "page.png" || e.Screenshot == "page.avif") && e.ArtifactDir != "" {
+	if (e.Screenshot == "page.png" || e.Screenshot == "page.avif" || e.Screenshot == "page.webp") && e.ArtifactDir != "" {
 		name := e.Screenshot
 		screenshot, err := os.ReadFile(filepath.Join(e.ArtifactDir, name))
 		if os.IsNotExist(err) && name == "page.png" {
@@ -1031,7 +1033,12 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	cmd.Stderr = io.MultiWriter(stderr, diagnostics)
 	err = cmd.Run()
 	if err != nil {
-		return Result{}, runnerFailure(ctx, err, r.Config.ResearchTimeout, events.steps, stderr.String())
+		failure := runnerFailure(ctx, err, r.Config.ResearchTimeout, events.steps, stderr.String())
+		var exit *exec.ExitError
+		if ctx.Err() == nil && events.steps == 0 && errors.As(err, &exit) && exit.ExitCode() > 0 {
+			return Result{}, fmt.Errorf("%w: %v", store.ErrResearchAgent, failure)
+		}
+		return Result{}, failure
 	}
 	data, err := FinalText(out.Bytes())
 	if err != nil {

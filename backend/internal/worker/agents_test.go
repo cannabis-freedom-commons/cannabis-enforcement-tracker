@@ -3,9 +3,11 @@ package worker
 import (
 	"sync"
 	"testing"
+	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
 func TestAgentPoolCapacityAndReadiness(t *testing.T) {
@@ -57,6 +59,46 @@ func TestAgentPoolCapacityAndReadiness(t *testing.T) {
 	}
 	if len(seen) != 2 {
 		t.Fatal("random allocation never selected both agents")
+	}
+}
+
+func TestAgentPoolRequiresPassingRecoveryProbeAfterLaunchFailures(t *testing.T) {
+	c := config.Config{ResearchAgents: []config.ResearchAgent{{Model: "a/model", MaxWorkers: 1}}}
+	p := newAgentPool(c, nil)
+	now := time.Now()
+	model, release, ok := p.acquire()
+	if !ok {
+		t.Fatal("initial reservation failed")
+	}
+	for range agentFailureLimit {
+		p.observe(model, store.ErrResearchAgent, now)
+	}
+	later := now.Add(agentCooldown)
+	if due := p.dueProbes(later); len(due) != 0 {
+		t.Fatal("probe raced an active job")
+	}
+	release()
+	if _, _, ok := p.acquire(); ok {
+		t.Fatal("cooled agent took another job")
+	}
+	if due := p.dueProbes(later); len(due) != 1 {
+		t.Fatal("expected one recovery probe", due)
+	}
+	if due := p.dueProbes(later); len(due) != 0 {
+		t.Fatal("duplicate recovery probe", due)
+	}
+	p.finishProbe(0, false, later)
+	if _, _, ok := p.acquire(); ok {
+		t.Fatal("agent with failed probe took another job")
+	}
+	if due := p.dueProbes(later.Add(agentCooldown)); len(due) != 1 {
+		t.Fatal("failed probe was not rescheduled", due)
+	}
+	p.finishProbe(0, true, later.Add(agentCooldown))
+	if _, release, ok := p.acquire(); !ok {
+		t.Fatal("recovered agent stayed paused")
+	} else {
+		release()
 	}
 }
 

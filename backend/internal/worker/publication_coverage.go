@@ -20,10 +20,8 @@ func (e *coverageChanged) Error() string {
 	return fmt.Sprintf("report coverage changed for %s since research; a fresh event-identity check is required", e.country)
 }
 
-// Called under the Git publication lock. Comparing entire report contents also
-// catches corrected dates, added sources and renamed reports. Country is a
-// conservative scope, not an event fingerprint: matching dates/figures/places
-// alone never establish that two incidents are the same.
+// Called under the Git publication lock. Compare the full contents of plausible
+// matches and reports the agent explicitly compared.
 func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 	parts := frontmatter.Split(string(content))
 	if len(parts) != 3 {
@@ -39,27 +37,6 @@ func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 	// Incident metadata is enforced by CheckReport before publication.
 	if draft.Country == "" || d.SourceOnly {
 		return nil
-	}
-	seen := d.Coverage
-	if seen == nil {
-		before, err := Coverage(d.Dir)
-		if err != nil {
-			return err
-		}
-		seen = countryCoverage(before, draft.Country)
-	}
-	current, err := Coverage(repo)
-	if err != nil {
-		return err
-	}
-	// Incidental updates are already checked against their original Git blobs by
-	// commitReport; their workspace copies contain the proposed changes.
-	updates := map[string]bool{}
-	for _, u := range d.Updates {
-		updates[u.Slug] = true
-	}
-	if coverageDiffers(current, draft.Country, seen, updates) {
-		return &coverageChanged{country: draft.Country}
 	}
 	_, aliasDigest, err := research.ReadReportAliases(repo)
 	if err != nil {
@@ -88,6 +65,26 @@ func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 		proposal.EventComparisons = d.IdentityResult.EventComparisons
 		proposal.Facts = d.IdentityResult.Facts
 	}
+	seen := d.Coverage
+	if seen == nil {
+		before, err := Coverage(d.Dir)
+		if err != nil {
+			return err
+		}
+		seen = eventCoverage(before, proposal)
+	}
+	current, err := Coverage(repo)
+	if err != nil {
+		return err
+	}
+	// Incidental updates are also checked against their original Git blobs.
+	updates := map[string]bool{}
+	for _, u := range d.Updates {
+		updates[u.Slug] = true
+	}
+	if coverageDiffers(current, proposal, seen, updates) {
+		return &coverageChanged{country: draft.Country}
+	}
 	for _, comparison := range proposal.EventComparisons {
 		if !strings.Contains(strings.Join(strings.Fields(parts[2]), " "), strings.Join(strings.Fields(comparison.FactText), " ")) {
 			return &coverageChanged{country: draft.Country}
@@ -99,28 +96,33 @@ func checkPublicationCoverage(repo string, d draftJob, content []byte) error {
 	return nil
 }
 
-func countryCoverage(reports []report, country string) map[string]string {
+func eventCoverage(reports []report, proposal research.Result) map[string]string {
+	relevant := map[string]bool{}
+	for _, candidate := range research.EventCandidates(proposal, reports) {
+		relevant[candidate.Report] = true
+	}
+	for _, comparison := range proposal.EventComparisons {
+		relevant[comparison.Report] = true
+	}
 	out := map[string]string{}
 	for _, r := range reports {
-		if research.RelatedCountries(r.Country, country) {
+		if relevant[r.Slug] {
 			out[r.Slug] = r.Digest
 		}
 	}
 	return out
 }
 
-func coverageDiffers(reports []report, country string, before map[string]string, updates map[string]bool) bool {
-	current := countryCoverage(reports, country)
+func coverageDiffers(reports []report, proposal research.Result, before map[string]string, updates map[string]bool) bool {
+	current := eventCoverage(reports, proposal)
 	for slug, digest := range current {
 		if !updates[slug] && before[slug] != digest {
 			return true
 		}
 	}
-	for slug := range before {
-		if !updates[slug] {
-			if _, exists := current[slug]; !exists {
-				return true
-			}
+	for _, comparison := range proposal.EventComparisons {
+		if _, exists := current[comparison.Report]; !exists {
+			return true
 		}
 	}
 	return false

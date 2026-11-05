@@ -44,6 +44,10 @@ When set, it overrides `RESEARCH_MODEL` and `WORKER_CONCURRENCY`. The example pe
 concurrent research jobs, three per provider. Each job is assigned uniformly at random among
 agents that passed their startup check and have a free worker; saturated or unavailable agents
 are skipped. Retries may use another agent, while saved results retain their original creator.
+If OpenCode exits with an error before its first model step, the job returns to the queue
+without spending a case retry. Three consecutive exits of this kind pause the affected agent
+for at least one minute. After its active jobs finish, an automatic model probe must pass before
+the agent can take new jobs. A failed probe schedules another check after one minute.
 Publication uses a separate worker. All agents share timeout, step, search and daily budget settings;
 local credentials and provider definitions are selected separately for each model. Docker mode
 uses the shared `RESEARCH_API_KEY`, so its agents must accept that key.
@@ -180,8 +184,10 @@ by the filter lists; service workers, WebSockets, downloads and media streaming 
 Redirects re-enter the same destination checks. Captures have connection, byte and time limits.
 
 The archive under `WORKSPACE_PATH/sources/<case>/<capture>/` contains `page.html` (rendered markup),
-`page.txt` (visible text), `page.png` and `metadata.json`, mode 0600 inside private directories.
-Screenshots are at most 1440×12000 pixels; a warning records clipping or screenshot failure.
+`page.txt` (visible text), `page.webp` and `metadata.json`, mode 0600 inside private directories.
+The page uses lossless WebP, and the article photos use WebP at quality 85. Chromium captures up
+to 1440×40000 pixels. Captures above WebP's size limit are scaled to fit in `page.avif`, with
+`page.png` as a fallback if AVIF encoding fails. A warning records clipping or screenshot failure.
 Metadata includes title/description, canonical URL, language, keywords, author/date/publisher
 hints, all bounded meta tags, Open Graph, Twitter cards and parsed JSON-LD. These are provenance
 hints, never a substitute for opened article text. OpenCode receives visible text, rendered markup,
@@ -326,15 +332,15 @@ concurrent changes to an existing report. Git `commit --only` excludes unrelated
 A case trailer and a persisted SHA recover publication retries without a second commit.
 
 Research remains parallel, but a new report's event-identity decision is checked for freshness
-under the same repository lock as its commit. The service retains the country report inventory
-seen by the model, including through checkpoint recovery. Country and state records share a
-country scope. If another submission added, changed or removed a report in that scope while
-research ran, or the retired slug/code alias inventory changed, the stale draft is not committed. Its publication
-job is atomically replaced by a fresh OpenCode coverage review using the saved proposal, opened
+under the same repository lock as its commit. The service retains the digests of plausible
+matches and reports explicitly compared by the model, including through checkpoint recovery.
+A new or changed candidate, a changed or removed comparison target, or a change to the retired
+slug/code aliases triggers a fresh review. The publication job is atomically replaced by an
+OpenCode coverage review using the saved proposal, opened
 source captures and current reports. That review can add sources/details to an existing report,
 record a duplicate linked to it, or confirm a separate event; quotations and report checks still
 apply. A changed target of a concurrent update takes the same path. Reviews use the normal model
-configuration and research budget. Changes in unrelated countries do not invalidate the inventory check.
+configuration and research budget. An unrelated edit in the same country can proceed without a review.
 Source ownership also checks normalized requested and final redirect URLs, so aliases cannot
 claim the same article separately. Dates, quantities and place labels alone are not duplicate
 proof. Restart the backend to apply this publication guard; existing duplicate reports are not
@@ -769,8 +775,10 @@ Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estima
 
 ## Archived capture compression
 
-After a case reaches a terminal status and no job is running for it, its private captured PNGs
-(including `images/*.png`) are converted beside the originals to AVIF. The archive uses ImageMagick
+Playwright writes WebP for new captures that fit its size limit. Larger images are encoded
+as AVIF from an in-memory PNG buffer within an eight-second compression window. If encoding fails,
+the capture is saved as PNG and the completion hook retries after the case reaches a terminal
+status and no job is running for it. The archive uses ImageMagick
 with `-resize '16383x16383>' -quality 25`: preserve aspect ratio, never enlarge, and fit either
 dimension inside 16383 pixels. AVIF encoding uses `heic:speed=8` to keep the bulk conversion fast
 while retaining quality 25. This produces one image per capture, without tiling. ImageMagick's
@@ -779,7 +787,7 @@ while retaining quality 25. This produces one image per capture, without tiling.
 Conversion writes a temporary file in the same directory, verifies its format and dimensions,
 preserves permissions and timestamps, and renames it before removing the original PNG. A failed
 conversion retains the PNG. Per-file locks avoid concurrent converters. Local screenshot/photo
-endpoints transparently serve either PNG or AVIF; research retries also recognize archived pages.
+endpoints transparently serve WebP, PNG and AVIF. Research retries also recognize archived pages.
 
 Captured `page.html`, `research-events.jsonl` and `evidence-*.json` are losslessly compressed in
 place as `page.html.zst`, `research-events.jsonl.zst` and `evidence-*.json.zst`, using

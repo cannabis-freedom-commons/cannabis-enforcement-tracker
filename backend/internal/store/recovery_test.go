@@ -117,6 +117,27 @@ func TestExclusiveWorkerLock(t *testing.T) {
 	}
 	b.Close()
 }
+func TestAgentLaunchFailureDoesNotExhaustCaseRetries(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	accept(t, s, false)
+	if _, err := s.DB.Exec("UPDATE jobs SET attempts=7"); err != nil {
+		t.Fatal(err)
+	}
+	job, err := s.Claim(ctx, "jobs", time.Minute)
+	if err != nil || job.Attempts != 8 {
+		t.Fatal(job.Attempts, err)
+	}
+	if err := s.Finish(ctx, "jobs", job, ErrResearchAgent); err != nil {
+		t.Fatal(err)
+	}
+	var status string
+	var attempts int
+	if err := s.DB.QueryRow("SELECT status,attempts FROM jobs WHERE id=?", job.ID).Scan(&status, &attempts); err != nil || status != "queued" || attempts != 7 {
+		t.Fatal(status, attempts, err)
+	}
+}
+
 func TestGlobalSummaryIgnoresFiltersAndDeduplicatesCases(t *testing.T) {
 	s := openTest(t)
 	ctx := context.Background()

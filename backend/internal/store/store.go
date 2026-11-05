@@ -17,6 +17,7 @@ import (
 )
 
 var ErrConfiguration = errors.New("processing configuration is incomplete")
+var ErrResearchAgent = errors.New("research agent exited before its first model step")
 
 var ErrBudget = errors.New("daily research budget reached")
 
@@ -416,6 +417,9 @@ func (s *Store) Finish(ctx context.Context, table string, j Job, workErr error) 
 		code = "waiting_for_configuration"
 		delay = 30 * time.Second
 		refunded = 1
+	}
+	if errors.Is(workErr, ErrResearchAgent) {
+		status, code, delay, refunded = "queued", "research_agent_unavailable", 2*time.Second, 1
 	}
 	res, err := s.DB.ExecContext(ctx, "UPDATE "+table+" SET status=?,error_code=?,available_at=?,lease_until=0,attempts=attempts-? WHERE id=? AND lease_token=? AND status='running'", status, code, time.Now().Add(delay).Unix(), refunded, j.ID, j.Token)
 	if err != nil {

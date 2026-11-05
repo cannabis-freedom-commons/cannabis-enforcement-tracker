@@ -23,7 +23,7 @@ func eventDraft(t *testing.T, name, code, country string) draftJob {
 	t.Helper()
 	dir := t.TempDir()
 	rel := "reports/2026/11/" + name + ".md"
-	content := "---\ncode: \"" + code + "\"\ncountry: " + country + "\ndate: 2026-11-03\nadded_at: \"2026-11-03T16:00:00Z\"\ntitle: Police arrest a man with 71 grams\nsources:\n  - url: https://" + name + ".example/article\n---\nPolice arrested a man. [@1]\n"
+	content := "---\ncode: \"" + code + "\"\ncountry: " + country + "\ndate: 2026-11-03\nadded_at: \"2026-11-03T16:00:00Z\"\ntitle: Pozzuoli greenhouse raid at Monte Nuovo\nsources:\n  - url: https://" + name + ".example/article\n---\nPolice arrested a man. [@1]\n"
 	if err := os.MkdirAll(filepath.Dir(filepath.Join(dir, rel)), 0755); err != nil {
 		t.Fatal(err)
 	}
@@ -35,16 +35,33 @@ func eventDraft(t *testing.T, name, code, country string) draftJob {
 }
 
 func TestConcurrentNewReportsRecheckCoverageUnderCommitLock(t *testing.T) {
-	for _, sameCountry := range []bool{true, false} {
-		t.Run(map[bool]string{true: "same country", false: "unrelated country"}[sameCountry], func(t *testing.T) {
+	for _, tc := range []struct {
+		name, country string
+		distinctTitle bool
+		want          int
+	}{
+		{"possible match", "it", false, 1},
+		{"unrelated report in same country", "it", true, 2},
+		{"unrelated country", "gb", false, 2},
+	} {
+		t.Run(tc.name, func(t *testing.T) {
 			repo, _ := commitFixture(t)
 			os.MkdirAll(filepath.Join(repo, "reports"), 0755)
 			a := eventDraft(t, "first-outlet", "ABC123", "it")
-			country := "it"
-			if !sameCountry {
-				country = "gb"
+			b := eventDraft(t, "second-outlet", "XYZ123", tc.country)
+			if tc.distinctTitle {
+				path := filepath.Join(b.Dir, b.Rel)
+				original, err := os.ReadFile(path)
+				if err != nil {
+					t.Fatal(err)
+				}
+				content := []byte(strings.Replace(string(original), "Pozzuoli greenhouse raid at Monte Nuovo", "Court orders demolition of warehouse", 1))
+				if err := os.WriteFile(path, content, 0644); err != nil {
+					t.Fatal(err)
+				}
+				digest := sha256.Sum256(content)
+				b.Digest = hex.EncodeToString(digest[:])
 			}
-			b := eventDraft(t, "second-outlet", "XYZ123", country)
 			start := make(chan struct{})
 			results := make(chan error, 2)
 			var wg sync.WaitGroup
@@ -72,15 +89,11 @@ func TestConcurrentNewReportsRecheckCoverageUnderCommitLock(t *testing.T) {
 					t.Fatal(err)
 				}
 			}
-			want := 2
-			if sameCountry {
-				want = 1
-			}
-			if committed != want || stale != 2-want {
+			if committed != tc.want || stale != 2-tc.want {
 				t.Fatal("stale coverage was published", committed, stale)
 			}
 			reports, err := Coverage(repo)
-			if err != nil || len(reports) != want {
+			if err != nil || len(reports) != tc.want {
 				t.Fatal(reports, err)
 			}
 		})

@@ -13,10 +13,10 @@ import (
 )
 
 func (s *Server) sourceScreenshot(w http.ResponseWriter, r *http.Request) {
-	s.sourceFile(w, r, "page.png")
+	s.sourceFile(w, r, "page")
 }
 
-// sourceImage serves one of the article's photos the capture kept (images/<n>.png), local only
+// sourceImage serves one of the article's photos the capture kept, local only
 // like the screenshot.
 func (s *Server) sourceImage(w http.ResponseWriter, r *http.Request) {
 	n := r.PathValue("n")
@@ -24,7 +24,7 @@ func (s *Server) sourceImage(w http.ResponseWriter, r *http.Request) {
 		problem(w, 404, "Image not found.")
 		return
 	}
-	s.sourceFile(w, r, "images/"+n+".png")
+	s.sourceFile(w, r, "images/"+n)
 }
 
 func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string) {
@@ -86,10 +86,13 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 		return
 	}
 	defer root.Close()
-	file, err := root.Open(filepath.Join(relative, filepath.FromSlash(name)))
-	if os.IsNotExist(err) {
-		name = strings.TrimSuffix(name, ".png") + ".avif"
-		file, err = root.Open(filepath.Join(relative, filepath.FromSlash(name)))
+	var file *os.File
+	for _, ext := range []string{".webp", ".png", ".avif"} {
+		file, err = root.Open(filepath.Join(relative, filepath.FromSlash(name+ext)))
+		if !os.IsNotExist(err) {
+			name += ext
+			break
+		}
 	}
 	if err != nil {
 		problem(w, 404, "Screenshot unavailable.")
@@ -109,6 +112,9 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 	}
 	if n >= 12 && string(header[4:8]) == "ftyp" && (string(header[8:12]) == "avif" || string(header[8:12]) == "avis") {
 		contentType = "image/avif"
+	}
+	if n >= 12 && string(header[:4]) == "RIFF" && string(header[8:12]) == "WEBP" {
+		contentType = "image/webp"
 	}
 	if readErr != nil || contentType == "" {
 		problem(w, 503, "Invalid screenshot.")

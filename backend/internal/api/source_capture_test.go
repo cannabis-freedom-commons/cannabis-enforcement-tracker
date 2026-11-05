@@ -57,6 +57,13 @@ func TestSourceScreenshotIsLocalAndBoundToReceipt(t *testing.T) {
 	if r := send("127.0.0.1:1234"); r.Code != 200 || r.Header().Get("Content-Type") != "image/avif" || len(r.Body.Bytes()) != len(avif) {
 		t.Fatal(r.Code, r.Body.String())
 	}
+	webp := []byte("RIFF\x04\x00\x00\x00WEBP")
+	if err := os.WriteFile(filepath.Join(dir, "page.webp"), webp, 0600); err != nil {
+		t.Fatal(err)
+	}
+	if r := send("127.0.0.1:1234"); r.Code != 200 || r.Header().Get("Content-Type") != "image/webp" || len(r.Body.Bytes()) != len(webp) {
+		t.Fatal(r.Code, r.Body.String())
+	}
 	outside := t.TempDir()
 	os.WriteFile(filepath.Join(outside, "page.png"), png, 0600)
 	s.Store.DB.Exec("UPDATE source_captures SET artifact_dir=?", outside)

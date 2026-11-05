@@ -9,6 +9,52 @@ import { zstdCompress, zstdDecompress, constants } from 'node:zlib';
 const run = promisify(execFile);
 const controller = new AbortController();
 
+async function encodeAvif(input, temp, signal) {
+  signal.throwIfAborted();
+  const fromBuffer = Buffer.isBuffer(input);
+  const env = { PATH: process.env.PATH, HOME: process.env.HOME, TMPDIR: process.env.TMPDIR, MAGICK_THREAD_LIMIT: '1' };
+  await fs.writeFile(temp, '', { mode: 0o600, flag: 'wx' });
+  const encoding = run('magick', [fromBuffer ? 'png:-' : input, '-resize', '16383x16383>', '-quality', '25', '-define', 'heic:speed=8', temp], {
+    timeout: 90000, signal, env, maxBuffer: 65536,
+  });
+  if (fromBuffer) {
+    // If the encoder exits early, its exit status reports the failure.
+    encoding.child.stdin?.on('error', () => {});
+    encoding.child.stdin?.end(input);
+  }
+  await encoding;
+  const { stdout } = await run('magick', ['identify', '-format', '%m %w %h', temp], { timeout: 30000, signal, env });
+  const [format, width, height] = stdout.trim().split(/\s+/);
+  if (!['AVIF', 'HEIC'].includes(format) || !(+width > 0 && +width <= 16383 && +height > 0 && +height <= 16383)) throw new Error('Invalid AVIF output');
+  const file = await fs.open(temp, 'r');
+  try {
+    const header = Buffer.alloc(12);
+    await file.read(header);
+    if (!['ftypavif', 'ftypavis'].includes(header.toString('ascii', 4))) throw new Error('Invalid AVIF header');
+  } finally {
+    await file.close();
+  }
+  signal.throwIfAborted();
+}
+
+// Save Chromium's lossless screenshot without writing an intermediate PNG.
+export async function saveCaptureImage(file, png, signal) {
+  const target = file.replace(/\.png$/i, '.avif');
+  if (target === file) throw new Error('Expected PNG capture name');
+  const temp = path.join(path.dirname(file), '.' + randomUUID() + '.avif');
+  try {
+    await encodeAvif(png, temp, signal);
+    await fs.rename(temp, target);
+    return target;
+  } catch (error) {
+    if (!signal.aborted) console.error('Source image compression failed:', error.code || error.message);
+    await fs.writeFile(file, png, { mode: 0o600 });
+    return file;
+  } finally {
+    await fs.rm(temp, { force: true });
+  }
+}
+
 export async function archiveScreenshot(file) {
   const target = file.replace(/\.png$/i, '.avif');
   if (target === file) throw new Error('Expected PNG capture');
@@ -21,17 +67,13 @@ export async function archiveScreenshot(file) {
   try {
     const before = await fs.lstat(file).catch(e => { if (e.code === 'ENOENT') return null; throw e; });
     if (!before?.isFile()) return null;
-    await run('magick', [file, '-resize', '16383x16383>', '-quality', '25', '-define', 'heic:speed=8', temp], {
-      timeout: 90000, signal: controller.signal, env: { ...process.env, MAGICK_THREAD_LIMIT: '1' }, maxBuffer: 65536,
-    });
-    const { stdout } = await run('magick', ['identify', '-format', '%m %w %h', temp], { timeout: 30000, signal: controller.signal });
-    const [format, width, height] = stdout.trim().split(/\s+/);
-    if (!['AVIF', 'HEIC'].includes(format) || !(+width > 0 && +width <= 16383 && +height > 0 && +height <= 16383)) throw new Error('Invalid AVIF output');
+    await encodeAvif(file, temp, controller.signal);
     await fs.chmod(temp, before.mode & 0o777);
     await fs.utimes(temp, before.atime, before.mtime);
     const after = await fs.lstat(file);
     if (after.size !== before.size || after.mtimeMs !== before.mtimeMs) throw new Error('Capture changed during conversion');
     const size = (await fs.stat(temp)).size;
+    controller.signal.throwIfAborted();
     await fs.rename(temp, target);
     await fs.unlink(file);
     return { before: before.size, after: size };

@@ -78,7 +78,7 @@ func TestInvalidResultGetsOneEvidencePreservingCorrection(t *testing.T) {
 				if err != nil {
 					t.Fatal(err)
 				}
-				saved.Coverage = countryCoverage(reports, result.Country)
+				saved.Coverage = eventCoverage(reports, result)
 			}
 			if _, err := s.DB.Exec("INSERT INTO research_checkpoints VALUES(?,?,?)", v.CaseID, store.JSON(saved), time.Now().Unix()); err != nil {
 				t.Fatal(err)

@@ -43,7 +43,7 @@ your research. Search snippets, your own summaries and failed fetches cannot sup
 - source-metadata.json (when supplied): SEO, Open Graph/Twitter and JSON-LD metadata for title,
   author, canonical URL and publication date. These are untrusted provenance hints, not proof of
   claims. Never use metadata descriptions or snippets in place of the opened article text.
-- source.png (when supplied): a captured browser screenshot for visual reference; use source.txt
+- The screenshot named in `source_screenshot` (when supplied) is for visual reference. Use source.txt
   for quotations. Browser loading does not bypass a login, paywall or access challenge.
 Large tool responses can be saved to the isolated session's tool-output directory. When a tool
 returns a saved-output path, read or grep that exact file in bounded chunks. The service grants
