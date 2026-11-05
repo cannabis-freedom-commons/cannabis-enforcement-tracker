@@ -126,6 +126,11 @@ sources:
     publisher: SBS 뉴스
     date: 2026-11-05
     language: ko
+  - title: 서울 주택가서 3,700명분 대마 재배한 20대 2명 구속 송치
+    url: https://news.kbs.co.kr/news/view.do?ncd=8704923
+    publisher: KBS 뉴스
+    date: 2026-11-05
+    language: ko
 open_questions:
   - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
   - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
@@ -163,6 +168,7 @@ open_questions:
   - The Hankook Ilbo report gives no man's age beyond "in his 20s" and does not name the prosecution office that received the men.
   - The page's only photo shows the Suwon agency's signboard-unveiling ceremony, not the grow or the seizure, so no media entry is added.
   - Whether the cannabis was sold and what happened to the men after the referral remain unresolved.
+  - The KBS page's only listed image carries no caption or credit, so it cannot be established to show the grow, plants or seizure and no media entry is added.
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -203,10 +209,10 @@ District Prosecutors' Office was dissolved. [@1,4] The division brings together 
 people from the investigation agency, the police, the Immigration and Foreign
 Policy Headquarters and customs. [@1,7]
 
-Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6,20] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15,18,20,21] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15,18,19,20,21]
+Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6,20] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15,18,20,21,22] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15,18,19,20,21,22]
 
 On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13,14]
 
-Investigators seized 33 cannabis plants still being grown at the rented fourth-floor site, a figure not published in the earlier coverage of the case. [@16,17,18,19,20,21] The Suwon Serious Crime Investigation Agency announced on 5 November 2026 that it had sent both men to prosecutors in custody on suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21] The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up. [@16,19,20] An official of the division said the case showed that cannabis-growing facilities had spread to the middle of Seoul and that the unit would keep working with other agencies against drug crime. [@16,18,20,21] The division is the only dedicated joint narcotics investigation unit among the regional Serious Crime Investigation Agency offices, created to succeed the former Suwon District Prosecutors' Office drug investigation headquarters. [@16,20] It brings together 43 people from the investigation agency, the police, the Immigration and Foreign Policy Headquarters and the customs service. [@16,20]
+Investigators seized 33 cannabis plants still being grown at the rented fourth-floor site, a figure not published in the earlier coverage of the case. [@16,17,18,19,20,21,22] The Suwon Serious Crime Investigation Agency announced on 5 November 2026 that it had sent both men to prosecutors in custody on suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21,22] The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up. [@16,19,20,22] An official of the division said the case showed that cannabis-growing facilities had spread to the middle of Seoul and that the unit would keep working with other agencies against drug crime. [@16,18,20,21] The division is the only dedicated joint narcotics investigation unit among the regional Serious Crime Investigation Agency offices, created to succeed the former Suwon District Prosecutors' Office drug investigation headquarters. [@16,20] It brings together 43 people from the investigation agency, the police, the Immigration and Foreign Policy Headquarters and the customs service. [@16,20]
 
-Both men were 29 years old. [@17,19] The two were friends. [@17,19]
+Both men were 29 years old. [@17,19] The two were friends. [@17,19,22]
