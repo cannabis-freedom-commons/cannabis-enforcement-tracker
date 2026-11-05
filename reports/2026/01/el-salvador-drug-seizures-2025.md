@@ -17,6 +17,17 @@ sources:
   - title: report on the security cabinet's drug seizure figures for 2025 (6 January 2026)
     publisher: El Diario de Hoy
     url: https://www.eldiariodehoy.com/?p=55818
+  - title: ¿Cuánta droga incautó en El Salvador en 2025 y cuál fue la sustancia más decomisada?
+    url: https://www.laprensagrafica.com/elsalvador/cuanta-droga-incauto-en-el-salvador-en-2025-y-cual-fue-la-sustancia-mas-decomisada-20260105-0106.html
+    publisher: La Prensa Gráfica
+    date: 2026-01-05
+    language: es
+open_questions:
+  - The EFE account gives no separate weight for the marijuana seized in 2025; the 394.52 kg figure in the report comes from El Diario de Hoy's coverage of the same announcement.
+  - The government presented the figures on Monday 5 January 2026; the report's date of 6 January 2026 follows the wire copy's UTC publication time.
+  - The page's only photograph is a presidential social-media image of seized drugs credited to Nayib Bukele and not tied to a specific 2025 seizure, so no media link was added.
 ---
 
 Defence minister René Merino Monroy presented the security cabinet's figures for 2025: 25,011.05 kg of drugs seized, against 17,224.8 kg in 2024. Cocaine made up 24,612.59 kg of the total; marijuana accounted for 394.52 kg, valued at about 1.39 million dollars. [@1]
+
+The Salvadoran government said security forces seized a little more than 25 tonnes of drugs in 2025, most of it cocaine, valued at more than $618.7 million. [@2] Marijuana, crack and methamphetamine completed the drug haul of the past year, whose total value rises above $620 million, according to the Salvadoran presidency. [@2] Defence Minister René Francis Merino said the National Navy located most of the drug in Salvadoran Pacific waters. [@2] In 2024 the authorities seized more than 17.2 tonnes of drugs valued at $422.7 million. [@2]
