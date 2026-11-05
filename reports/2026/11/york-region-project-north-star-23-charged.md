@@ -87,6 +87,11 @@ sources:
     publisher: Sing Tao Canada 星島加拿大
     date: 2026-11-04
     language: zh
+  - title: Operação contra tráfico de canábis leva a 23 acusações e apreensão de 7,5 milhões de dólares
+    url: https://www.correiodamanhacanada.com/operacao-contra-trafico-de-canabis-leva-a-23-acusacoes-e-apreensao-de-75-milhoes-de-dolares/
+    publisher: Correio da Manhã Canadá
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -118,22 +123,24 @@ open_questions:
   - CTV uses the CTV News title on this page and a shorter SEO title, "23 charged in York Region cannabis trafficking probe", in its metadata; the report keeps the headline as published.
   - The Sing Tao page carries three York Regional Police handout images without captions or credits; they could not be confirmed as distinct from the grow-operation and firearm handout photos already linked in the report from CP24, so no media entry was added.
   - Sing Tao repeats the York Regional Police account without independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
+  - The Portuguese article repeats the York police account without independent reporting and does not say whether the wanted man is counted among the 23 charged.
+  - The article's only illustration is an Envato stock image, not a photo of the operation, so no media entry was added.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5,6,7,12,13]
+[@1,3,4,5,6,7,12,13,14]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13]
+small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14] Police also seized two firearms
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4,8,11,13] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13] York police put the
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
 
 The investigation was dubbed Project North Star and was launched in February
@@ -147,7 +154,7 @@ the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
 delivery services. [@1,3,8,13] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13] The investigation shut down the illicit
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14] The investigation shut down the illicit
 cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11]
 
 The 23 people face a total of 90 charges. [@5]
