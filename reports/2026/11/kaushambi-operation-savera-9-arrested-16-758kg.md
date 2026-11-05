@@ -45,6 +45,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: A second account confirms the same nine arrests and 16 kilos 758 grams total and records 2.020 kilos from two accused in Pipri and 7.077 kilos from two accused in Kokhraj.'
   - The Amar Ujala account published on 5 November 2026 gives no separate date for the checking drive.
   - The page image uses a file path dated 2021 and is captioned only with the seizure total, so it is not established to show this drive and no media entry is added.
+  - Amar Ujala names two of the arrested men, Anurag Tripathi and Shivam Kesarwani, as having a criminal history without saying what it involved.
 ---
 
 Kaushambi police arrested nine people in a district-wide checking drive under
@@ -64,3 +65,5 @@ The drive was carried out on the directions of the police headquarters in
 Lucknow under the guidance of Superintendent of Police Satyanarayan Prajapat.
 [@1] Teams from the Manjhanpur, Sarai Akil, Charwa, Pipri, Sandipan Ghat and
 Kokhraj police stations took part in the checking at different places. [@1]
+
+According to police, the arrested men Anurag Tripathi and Shivam Kesarwani were found to have a criminal history. [@2]
