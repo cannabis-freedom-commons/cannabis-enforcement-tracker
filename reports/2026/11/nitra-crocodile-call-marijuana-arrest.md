@@ -1,0 +1,60 @@
+---
+code: 8504WD
+added_at: "2026-11-05T16:28:34.266849Z"
+date: 2026-11-05
+country: sk
+place: Nitra housing estate, Nitra, Nitra Region
+coordinates: [48.3069, 18.0864]
+precision: locality
+type: arrest
+also: [seizure]
+title: Nitra police hunting crocodiles find marijuana, detain 24-year-old
+summary: >-
+  Police on a Nitra housing estate detained a 24-year-old man after responding to a report of exotic animals, probably crocodiles, being carried out of a 12th-floor apartment. Officers smelled marijuana, found dried plant material with a grinder and began criminal proceedings over its unauthorised possession; the man said it was for his own use.
+figures:
+  arrested: 1
+media:
+  - kind: photo
+    url: https://www.teraz.sk/nitriansky-kraj/policajti-isli-po-krokodiloch-v-byte/1005435-clanok.html
+    media_url: https://www1.teraz.sk/usercontent/photos/3/6/2/4-36279714d390de406113961f3174b051d39b2270.jpg
+    publisher: TERAZ.sk
+    caption: 'Police photograph published with the raid report; the paper describes its caption as a police photo without stating what it shows. Photo: Polícia SR – Nitriansky kraj'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 0df0ad38cdac19e25281bee90ab105b1
+tags: [nitra, marijuana, personal-use, housing-estate, police]
+sources:
+  - title: 'POLICAJTI IŠLI PO KROKODÍLOCH: V byte však narazili na marihuanu'
+    url: https://www.teraz.sk/nitriansky-kraj/policajti-isli-po-krokodiloch-v-byte/1005435-clanok.html
+    publisher: TERAZ.sk (TASR)
+    date: 2026-11-05
+    language: sk
+open_questions:
+  - No weight, plant count or value for the marijuana was published, so no cannabis quantity can be recorded.
+  - The article gives no separate date for the raid; 5 November 2026 is the article's publication date and is used as the incident date.
+  - The man was detained but the report does not say whether he was formally charged or released, so no charged figure is recorded.
+  - No court outcome or further procedural step was reported.
+  - The apartment's address and the housing estate's name are not given, so the pin is the centre of Nitra.
+  - Only one source, a TASR wire story quoting the Nitra regional police, could be opened; the police social-media post it cites could not be read.
+  - The report does not say what happened to the animals, including any crocodiles, found in the apartment.
+  - The photo's caption identifies it only as a police photo from the Nitra regional police; the article does not say what it shows.
+  - The user reported the source text as unavailable, but the full article was opened and used; no evidence came from a failed fetch.
+  - 'Left out, as its quotation was not found in TERAZ.sk (TASR): Inside the apartment, besides various animals, officers saw a plastic tray with a grinder holding an unidentified dried plant material.'
+---
+
+Police in Nitra detained a 24-year-old man after finding marijuana in an
+apartment on a housing estate in the city. [@1] Officers had gone to the address
+to check a report that unknown people were carrying exotic animals, probably
+crocodiles, out of the 12th-floor apartment. [@1] A designated officer opened
+criminal proceedings over the misdemeanour of unauthorised possession of a
+narcotic and psychotropic substance. [@1] The Nitra regional police directorate
+said the check concerning animal keeping was passed to the competent authority
+for further action. [@1]
+
+Officers from the rapid-response motorised unit went to verify the situation.
+[@1] The police said that on reaching the floor they immediately heard sounds of
+various animals and could clearly smell marijuana. [@1]
+
+The man said the material was his marijuana for personal use, and after being
+asked he voluntarily handed it to the officers. [@1]
+
