@@ -99,6 +99,10 @@ sources:
     publisher: ThePrint Hindi
     date: '2026-11-04'
     language: hi
+  - title: Hashish haul intended for SL seized in TN
+    url: https://island.lk/hashish-haul-intended-for-sl-seized-in-tn/
+    publisher: The Island
+    date: 2026-11-05
 open_questions:
   - >-
     The article gives no separate calendar date for the interception beyond Tuesday; 3 November 2026, the
@@ -242,9 +246,11 @@ open_questions:
   - >-
     The submitted page's only listed image is captioned as an ISRO scientist and does not show this event, so
     no media entry is added.
+  - The Island item reproduces the same account carried elsewhere and states no source of its own, so it corroborates the existing report's wording rather than adding an independent version.
+  - The Island page carries one image captioned only with the headline and with no credit or depiction details, so no media entry is added for it.
 ---
 
-Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12]
+Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13]
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
 [@4,7,8,9,12] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@4,7]
@@ -269,11 +275,11 @@ Mano is the son of Anthony Xavier. [@6,9] Police said the hashish had been stock
 
 Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@7] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@7]
 
-Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@8,10,11,12] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@8,10,11] Police said a wider network is involved and further arrests will follow. [@8,9,10] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@8,10,11] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@8,10,11]
+Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@8,10,11,12] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@8,10,11] Police said a wider network is involved and further arrests will follow. [@8,9,10] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@8,10,11] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@8,10,11,13]
 
 Police valued the 20 kg haul at about Rs 10 crore. [@9] Ramanathapuram district superintendent of police Sandeesh visited the scene to inspect it. [@9]
 
-The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@10,11]
+The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@10,11,13]
 
 Around 12.50pm, police intercepted Mano [@1,2,3] and recovered 2kg of hashish from his possession. [@1,2,3]
 
