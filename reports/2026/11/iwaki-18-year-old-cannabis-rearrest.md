@@ -28,6 +28,11 @@ sources:
     publisher: ぐるっと会津（福島中央テレビ（FCT））
     date: 2026-11-05
     language: ja
+  - title: 大麻所持で逮捕の18歳少年を再逮捕　別の日にも所持か　福島（福島中央テレビニュース）｜ｄメニューニュース（NTTドコモ）
+    url: https://topics.smt.docomo.ne.jp/article/fct/region/fct-2026110502164974
+    publisher: ｄメニューニュース（NTTドコモ）／福島中央テレビニュース
+    date: 2026-11-05
+    language: ja
 open_questions:
   - No weight or number of cannabis items was published for either possession date, so only the arrest is recorded as a figure.
   - The 16 October red-handed arrest was reported separately, on 16 October 2026, by the same broadcaster; only its headline, visible on the syndicated page, could be opened for this case, and it does not state the date of the earlier possession.
@@ -39,17 +44,16 @@ open_questions:
 ---
 
 Iwaki Higashi police said they re-arrested an 18-year-old office worker who
-lives in Iwaki City on suspicion of possessing cannabis. [@1] The re-arrest, on
+lives in Iwaki City on suspicion of possessing cannabis. [@1,3] The re-arrest, on
 the morning of 5 November 2026 in Iwaki, Fukushima Prefecture, was for
 possessing cannabis at a building in the city on 10 September. [@1] The youth
 had already been arrested red-handed on 16 October 2026 on suspicion of
-possessing cannabis on a different day. [@1]
+possessing cannabis on a different day. [@1,3]
 
 Police said further investigation flushed out the 10 September possession, and
-they re-arrested him on 5 November. [@1] The youth admits the allegation, police
-said. [@1]
+they re-arrested him on 5 November. [@1,3] The youth admits the allegation, police
+said. [@1,3]
 
 Iwaki Higashi police are investigating how he obtained the cannabis and the
-wider circumstances of the case. [@1] The two arrests are being handled by Iwaki
+wider circumstances of the case. [@1,3] The two arrests are being handled by Iwaki
 Higashi police station, the report says. [@2]
-
