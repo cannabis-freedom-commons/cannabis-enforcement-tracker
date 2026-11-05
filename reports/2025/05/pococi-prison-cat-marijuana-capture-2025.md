@@ -49,6 +49,11 @@ sources:
     publisher: OndaCero
     date: 2025-05-20
     language: es
+  - title: '“Narco Michi": un gato es capturado tras introducir droga en una cárcel de Costa Rica | CNN'
+    url: https://cnnespanol.cnn.com/2025/05/19/latinoamerica/video/gato-narco-drogas-carcel-costa-rica-trax
+    publisher: CNN en Español
+    date: 2025-05-19
+    language: es
 open_questions:
   - El País says only that the incident happened in early May; other reports give the night of 6 May 2025, the date used here.
   - El País describes the second substance as crack paste and AFP as crack; one Ecuadorian report called it heroin, so only the 235.65 g of marijuana is recorded as cannabis.
@@ -62,13 +67,14 @@ open_questions:
   - The 67.76 grams of crack are excluded from cannabis figures because crack is not cannabis.
   - The only image captured from the El Mundo page is an unrelated thumbnail about another story, so no event photo from this outlet can be listed.
   - OndaCero names the 67.76 grams taped to the cat as cocaine, while the report records the same amount as crack paste; the two accounts describe one second packet and neither figure is counted as cannabis.
+  - CNN describes the second packet as cocaine, while the existing report records the ministry’s description as crack paste.
 ---
 
 Costa Rican prison officers at the Penitenciaría de Pococí caught a domestic cat
 that was carrying a package of drugs towards the prison's interior. [@1] An
 officer in one of the watchtowers spotted the animal in a green area of the
 prison and raised the alert. [@3] Guards found the animal with two packets taped
-to its body. [@2,4]
+to its body. [@2,4,6]
 
 One packet held 235.65 grams of what the authorities described as marijuana.
 [@1,4,5] The other held 67.76 grams of what the Justice and Peace Ministry called
@@ -84,4 +90,4 @@ Rica. [@2]
 El País reports the incident took place in early May. [@1] According to other
 reports, the capture happened on the night of 6 May 2025. [@3,4]
 
-The officers removed the packets, seized the drugs and handed the cat to the National Animal Health Service (Senasa). [@5] Police attributed the attempt to the prison's difficult perimeter monitoring and to the false belief that using animals would not raise suspicion. [@5]
+The officers removed the packets, seized the drugs and handed the cat to the National Animal Health Service (Senasa). [@5,6] Police attributed the attempt to the prison's difficult perimeter monitoring and to the false belief that using animals would not raise suspicion. [@5]
