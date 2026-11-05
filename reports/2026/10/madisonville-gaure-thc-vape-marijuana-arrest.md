@@ -61,7 +61,7 @@ charged after a search found THC and marijuana products. [@1]
 
 Detectives executed a search warrant on an intercepted shipment and found about
 250 pounds of suspected THC vape cartridges and about 35 pounds of suspected
-marijuana leaf. [@2] Detectives then executed one search warrant in Madisonville
+marijuana leaf. [@2,3] Detectives then executed one search warrant in Madisonville
 and another in Earlington, Kentucky. [@2] Those searches recovered 10 firearms
 and more suspected THC wax and suspected marijuana leaf. [@2]
 
@@ -71,4 +71,3 @@ being delivered to Hopkins County. [@3] The unit was helped by the Madisonville
 Police Department, the Hopkins County Sheriff's Office, the Daviess County
 Sheriff's Office and the Commonwealth Attorney's Office. [@2] Police say the
 investigation remains ongoing. [@2]
-
