@@ -28,6 +28,10 @@ sources:
     url: https://www.wavy.com/news/local-news/ecpd-man-arrested-after-marijuana-and-firearm-found-during-traffic-stop/
     publisher: WAVY.com
     date: 2026-11-04
+  - title: 'ECPD: Man arrested after marijuana and firearm found during traffic stop'
+    url: https://www.yahoo.com/news/articles/ecpd-man-arrested-marijuana-firearm-135503629.html
+    publisher: Yahoo News
+    date: 2026-11-04
 open_questions:
   - Only one accessible source for this event was found after searching in English.
   - The marijuana weight was reported only as about 1.1 pounds, not an exact laboratory weight, and is converted here to about 0.499 kg.
@@ -35,24 +39,26 @@ open_questions:
   - The type, ownership history and permit status of the concealed firearm were not reported.
   - No court outcome beyond the scheduled Nov. 5 first appearance in Pasquotank County District Court was reported.
   - The page carries an image credited to the Elizabeth City Police Department with a generic caption, which does not establish that it shows this seizure, so no media entry is included.
+  - The Yahoo News page is a syndication of WAVY's story rather than an independent account, so it does not add a second independent source.
+  - Its police handout photo is captioned only with a courtesy credit and is not shown to depict this seizure, so no media entry is added.
 ---
 
 An officer stopped a vehicle around 4 p.m. Monday, Nov. 2, in the 700 block of
-Roanoke Avenue. [@1,2] Police identified the arrested man as Aram Krajekian of
+Roanoke Avenue. [@1,2,3] Police identified the arrested man as Aram Krajekian of
 Elizabeth City. [@1] He was 21 years old and faced drug and weapon charges after
 the traffic stop. [@1] A search of the vehicle turned up the firearm and
 marijuana. [@1]
 
 Police said officers found a concealed firearm and about 1.1 pounds (about 0.5
-kg) of marijuana during the traffic stop. [@1,2] Krajekian was arrested and
+kg) of marijuana during the traffic stop. [@1,2,3] Krajekian was arrested and
 charged with maintaining a vehicle for the use, storage or sale of a controlled
 substance. [@1,2] He was also charged with possession with intent to sell or
 deliver marijuana, possession of a Schedule VI controlled substance and
-marijuana paraphernalia possession. [@1] Further charges included carrying a
+marijuana paraphernalia possession. [@1,3] Further charges included carrying a
 concealed weapon, speeding and possession or manufacture of fraudulent IDs. [@1]
 
 Krajekian was taken to Albemarle District Jail and held on a $10,500 secured
-bond. [@1,2] Police said his first court appearance is scheduled for Nov. 5 in
-Pasquotank County District Court. [@1] Police said the investigation is ongoing.
-[@1,2] Police asked anyone with information to contact Elizabeth City police,
+bond. [@1,2,3] Police said his first court appearance is scheduled for Nov. 5 in
+Pasquotank County District Court. [@1,3] Police said the investigation is ongoing.
+[@1,2,3] Police asked anyone with information to contact Elizabeth City police,
 Crime Line or text tips and said tips may be anonymous. [@1]
