@@ -34,6 +34,11 @@ sources:
     publisher: K-News
     date: 2026-11-05
     language: ru
+  - title: НАРКОТИКИ НА 17 МЛН РУБ. В БАНКАХ ТУШЕНКИ И КОНФЕТАХ ИЗЪЯЛИ ПОЛИЦЕЙСКИЕ В МОСКВЕ
+    url: https://www.1tv.ru/news/2026-11-05/558053
+    publisher: Первый канал
+    date: 2026-11-05
+    language: ru
 open_questions:
   - No separate cannabis-only weight was published; the reported 3.9 kg covers hashish and alpha-PVP together, so no kg_seized is recorded as a cannabis figure.
   - The reported value of more than 17 million roubles covers all seized substances together, so no cannabis-only value is recorded.
@@ -60,9 +65,8 @@ detained the consignees in Bishkek, and investigative work was continuing. [@2]
 
 In Moscow and the surrounding region, customs officers found and seized 3.9 kg
 of drugs in passenger cars, hidden in sweet wrappers, stew cans, body scrubs and
-other items. [@1] Expert examinations found that the seized material contained
-hashish and alpha-PVP. [@1] A second account likewise says the drugs were in
+other items. [@1,3] Expert examinations found that the seized material contained
+hashish and alpha-PVP. [@1,2] A second account likewise says the drugs were in
 sweet packets, stew cans and body-scrub jars and that examinations established
 the presence of hashish and alpha-PVP. [@2] The authorities put the black-market
 value of the seized substances at more than 17 million roubles. [@1]
-
