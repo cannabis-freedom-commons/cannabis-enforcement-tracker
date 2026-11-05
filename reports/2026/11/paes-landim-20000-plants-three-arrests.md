@@ -35,6 +35,11 @@ media:
     media_url: https://s2-g1.glbimg.com/qMHGOIEjsOiC78L6fldxbh0mYRU=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/p/P2nWEfR4GIjN2DSHSBjA/edicao-imagens-g1-1-.jpg
     publisher: g1
     caption: 'Federal Police handout photo published with the g1 report on the eradication, captioned ''20 mil pés de maconha são erradicados no PI; três pessoas são presas''. Photo: PF-PI.'
+  - kind: photo
+    url: https://jornaldebrasilia.com.br/noticias/brasil/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-no-piaui/
+    media_url: https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/04170357/4639a7c1-e31e-490f-b1b6-169964455eb5-620x576.jpeg
+    publisher: Jornal de Brasília
+    caption: Federal Police handout photo published with the report on the Paes Landim eradication, captioned 'Divulgação Polícia Federal' (Federal Police handout).
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7e789da53b424c595c697e5aed18d315
@@ -60,6 +65,11 @@ sources:
     publisher: GP1
     date: 2026-11-04
     language: pt
+  - title: PF erradica 20 mil pés de maconha e prende três no Piauí
+    url: https://jornaldebrasilia.com.br/noticias/brasil/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-no-piaui/
+    publisher: Jornal de Brasília
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
@@ -68,17 +78,19 @@ open_questions:
   - Only the Federal Police's statement and its Agência Gov reprint could be opened; no independent news report of the operation was found.
   - g1's correction states the operation took place in Simplício Mendes, while the report's date and headline still name Paes Landim; which municipality is correct remains unresolved in the published record.
   - The GP1 page names Simplício Mendes in its article body but Paes Landim in its photo captions and topic tag, so it does not resolve which municipality is correct.
+  - The Jornal de Brasília names Paes Landim, while the Federal Police statement, g1's correction and GP1's article text name the rural zone of Simplício Mendes; which municipality is correct remains unresolved.
+  - The page names no identities or charges for the three detainees and gives no later court step.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
 people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
-southern Piauí. [@1,4] The operation was run from the Federal Police's Picos base
+southern Piauí. [@1,4,5] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
-During the operation the teams found four plots used to grow the drug. [@1,3,4] The
+During the operation the teams found four plots used to grow the drug. [@1,3,4,5] The
 Federal Police estimated the potential production of the plots at about four
-tonnes of cannabis. [@1,3,4] Officers also found irrigation machinery, fertilisers,
-cultivation tools and a structure for raising seedlings at the sites. [@1,3,4]
+tonnes of cannabis. [@1,3,4,5] Officers also found irrigation machinery, fertilisers,
+cultivation tools and a structure for raising seedlings at the sites. [@1,3,4,5]
 
 The Federal Police's own statement gives the location as the rural zone of
 Simplício Mendes rather than Paes Landim. [@2]
@@ -86,3 +98,5 @@ Simplício Mendes rather than Paes Landim. [@2]
 On 4 November 2026 g1 corrected its own report to say the cannabis plots were found and the arrests made in the municipality of Simplício Mendes, not Paes Landim, as the Federal Police subsequently clarified. [@3] The suspects were arrested in the course of the operation. [@3] The Federal Police did not release the identities of the three detainees or say what procedures followed their arrests. [@3]
 
 One of the page's photo captions describes the police as having eradicated about 20,000 cannabis plants in Paes Landim. [@4]
+
+The three people arrested in the operation were taken to the public jail in Picos. [@5]
