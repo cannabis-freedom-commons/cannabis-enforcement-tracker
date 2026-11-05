@@ -35,6 +35,9 @@ open_questions:
   - Train-search 104.36 kg versus 104.361 kg and checkpoint 23,000-plus versus 23,744 vehicles differ by rounding between sources and are parts of the operation total, not added separately.
   - No charges, custody or court outcomes were reported beyond arrests and warrant executions.
   - The submitted page image caption describes 451 kg from 232 cases in nine districts, not this 38-district operation, so no media entry is included.
+  - The new detail says the checkpoint checks recovered 4.4 kg of ganja; it is not clear whether this weight is already included in the operation's 242.2 kg ganja total, so it is not counted separately as a cannabis figure.
+  - Tamil Murasu gives 104.36 kg of ganja from train searches and Daily Thanthi gives 104.361 kg, a rounding difference within the same operation.
+  - Neither account gives charges, custody status or court outcomes for the 344 people arrested, beyond the arrest figures and executed warrants.
 ---
 
 Tamil Nadu police carried out a one-day coordinated special operation against
@@ -58,3 +61,4 @@ the state. [@2] Officers checked 23,744 vehicles at state and district border
 checkpoints and registered 62 cases. [@2] Police held 3,972 awareness programmes
 and inspected 175 rehabilitation centres. [@1]
 
+Police filed that hashish case at S.P. Pattinam police station near the Pasiamman temple shore under sections 8(c) read with 20(b)(ii)(C) of the NDPS Act. [@2] Those checkpoint checks also recovered 4.4 kg of ganja. [@2] The 175 centres inspected held 2,745 people in treatment. [@2] Police said investigations had been completed in 1,770 NDPS cases and moves to freeze offenders' assets and bank accounts were under way in 804 cases. [@2]
