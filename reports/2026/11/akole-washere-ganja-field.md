@@ -24,6 +24,11 @@ media:
     media_url: https://cf-images.assettype.com/pudharinews%2F2026-11-01%2Fujpqwke6%2FAkole-Ganja-Cultivation.jpg?w=640
     publisher: Pudhari News
     caption: Pudhari's lead photograph, captioned 'Akole Ganja Cultivation', of the cannabis crop in the field at Washere, Akole.
+  - kind: photo
+    url: https://deshdoot.com/ridge-gourd-crop-cannabis-cultivation-akole/
+    media_url: https://deshdoot.com/wp-content/uploads/2026/11/05-November-Cannabis-Raid-Akole-696x389.webp
+    publisher: Deshdoot
+    caption: Photo captioned “05 November Cannabis Raid Akole”, accompanying the account of cannabis plants found in Washere; no credit is listed.
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7a0504b646abbd648d65ad97200d950e
@@ -38,6 +43,11 @@ sources:
     url: https://ilovenagar.com/cannabis-plants/
     publisher: I Love Nagar
     date: 2026-11-01
+    language: mr
+  - title: 'Crime News : दोडक्याच्या पिकात गांजाची लागवड; 15 लाख 36 हजारांचा मुद्देमाल जप्त'
+    url: https://deshdoot.com/ridge-gourd-crop-cannabis-cultivation-akole/
+    publisher: Deshdoot
+    date: 2026-11-05
     language: mr
 open_questions:
   - Neither report dates the raid; 1 November 2026 is the publication date of both accounts.
@@ -55,7 +65,7 @@ crop, a gourd grown as a vegetable. [@2] A police party led by police inspector
 Sandeep Koli entered the field. [@1] There they found cannabis plants that had
 been planted and nurtured in the dodka field. [@1] Police seized the plants and
 green cannabis leaves, material that Akole police valued at Rs 15,36,000, or
-15.36 lakh rupees. [@2]
+15.36 lakh rupees. [@2,3]
 
 They took Vijay Raghunath Gaje, a vatakari, or tenant farmer, from Washere, into
 custody. [@1] A case was registered against Gaje at Akole police station. [@1]
@@ -65,3 +75,4 @@ before the Akole court, which sent him to four days' police custody. [@2]
 Akole police sub-inspector Sandeep Hazare is investigating the case under police
 inspector Sandeep Koli's supervision. [@1]
 
+Police registered the case against Gaje at Akole police station under sections 8(b), 20(a) and 20(b)(1) of India's NDPS Act. [@3]
