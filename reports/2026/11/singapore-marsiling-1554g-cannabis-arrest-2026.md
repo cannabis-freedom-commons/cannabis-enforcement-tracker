@@ -54,6 +54,11 @@ sources:
     url: https://www.straitstimes.com/singapore/64-year-old-man-arrested-for-suspected-drug-trafficking-biting-and-spitting-at-cnb-officers
     publisher: The Straits Times
     date: 2026-11-05
+  - title: 肃毒局起获逾5.5万元毒品 64岁涉毒男子拒捕咬伤执法人员
+    url: https://www.zaobao.com.sg/news/singapore/story20261105-9951743
+    publisher: 联合早报
+    date: 2026-11-05
+    language: zh
 open_questions:
   - No charges or court outcome were reported; the bureau said its investigation into the man's drug activities was ongoing and he had been referred to police for separate offences.
   - The S$55,000 estimate covers the cannabis, Ice and Ecstasy together and was not broken down by substance, so it cannot be attributed to the cannabis alone.
@@ -65,14 +70,15 @@ open_questions:
   - No charge or court outcome appears in the new account; the bureau said only that investigations continued.
   - Neither Straits Times version names the suspect or gives the exact address of the residential unit, beyond the vicinity of Marsiling Road.
   - No charges or court outcome appeared in the Straits Times accounts; the bureau said only that its drug investigation was ongoing.
+  - 'Left out, as its quotation was not found in 联合早报: A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of Ecstasy and S$356 in cash, along with drug paraphernalia.'
 ---
 
 Central Narcotics Bureau officers arrested a 64-year-old Singaporean man on
 suspicion of drug trafficking in a residential unit in the vicinity of Marsiling
-Road on the morning of 3 November 2026. [@1,3,5] During the arrest the man struggled
+Road on the morning of 3 November 2026. [@1,3,5,7] During the arrest the man struggled
 violently and bit an officer's thigh through his jeans, and he spat on two other
-officers. [@1,3,6] All three officers received prompt medical attention, including
-assessment for potential infectious diseases. [@1,5]
+officers. [@1,3,6,7] All three officers received prompt medical attention, including
+assessment for potential infectious diseases. [@1,5,7]
 
 A search of the flat found about 1,554 g of cannabis, 166 g of Ice, 25 g of
 Ecstasy and S$356 in cash, along with drug paraphernalia. [@1,5] Assistant
@@ -82,7 +88,9 @@ CNB would not tolerate any acts of violence against its officers. [@1,3]
 Trafficking more than 500 g of cannabis may carry the mandatory death penalty
 under the Misuse of Drugs Act 1973. [@1,3,6] The man was also referred to the police
 for further investigation of voluntarily causing hurt and of using criminal
-force to deter public servants from their duties. [@1,5] The bureau said its
-investigation into the man's drug activities was still under way. [@2,3,6]
+force to deter public servants from their duties. [@1,5,7] The bureau said its
+investigation into the man's drug activities was still under way. [@2,3,6,7]
 
-The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3] All three officers were taken down. [@4]
+The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3,7] All three officers were taken down. [@4]
+
+The three affected officers were reported to be well after treatment including infectious-disease checks. [@7] The bureau said it would give its full support to officers injured in the line of duty. [@7]
