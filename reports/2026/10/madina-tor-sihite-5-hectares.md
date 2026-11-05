@@ -119,6 +119,10 @@ open_questions:
   - The Nadaviral account gives the approach as about 7.5 hours on foot arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip.
   - The Nadaviral account gives plant height as about one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
   - The Nadaviral page displays a field photo without a caption or credit establishing that it shows this eradication, so no media entry is included.
+  - This account dates the initiating public tip to 29 October 2026, while the existing report follows a 26 October tip and 29 October follow-up check from other outlets.
+  - This account gives the approach as about 7.5 hours on foot, while the existing report's main account says about seven hours one way and 14 hours round trip.
+  - This account gives plant height as about one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
+  - The page's only field photo is captioned as a Polda Sumut handout of the joint team at the 5-hectare site and appears to republish the same agency handout already covered, so no media entry is added.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -325,6 +329,11 @@ sources:
     publisher: Nadaviral.com
     date: 2026-11-05
     language: id
+  - title: Polda Sumut Musnahkan 5 Hektare Ladang Ganja di Madina
+    url: https://sumutpos.jawapos.com/amp/hukum-kriminal/2611050028/polda-sumut-musnahkan-5-hektare-ladang-ganja-di-madina
+    publisher: Sumut Pos
+    date: 2026-11-05
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -386,7 +395,7 @@ media:
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
 to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31,35,36,38] No growers were
-named or arrested in either account. [@1,2,24,27,29,36,39]
+named or arrested in either account. [@1,2,24,27,29,36,39,42]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
 investigation before BNN North Sumatra ordered a joint destruction involving about 90 personnel
@@ -407,7 +416,7 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
@@ -427,4 +436,4 @@ The growers carried thousands of cannabis seeds to the Tor Sihite site and plant
 
 The team left the assembly point at about 05:00 WIB. [@36] Officers found several sown cannabis seeds at the site besides the field. [@36]
 
-Police said the 31 October destruction was part of Operasi Gakkum Narkoba 2026. [@40,41] North Sumatra police chief Insp. Gen. Sonny Irawan ordered the sweep, the provincial police public relations office said. [@40] The landowner fled before officers reached the field, the police statement said. [@40] Investigators were still questioning witnesses and sent plant samples to the North Sumatra police forensic laboratory for testing. [@40,41]
+Police said the 31 October destruction was part of Operasi Gakkum Narkoba 2026. [@40,41,42] North Sumatra police chief Insp. Gen. Sonny Irawan ordered the sweep, the provincial police public relations office said. [@40] The landowner fled before officers reached the field, the police statement said. [@40] Investigators were still questioning witnesses and sent plant samples to the North Sumatra police forensic laboratory for testing. [@40,41,42]
