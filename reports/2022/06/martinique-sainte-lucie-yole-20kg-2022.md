@@ -79,6 +79,11 @@ sources:
     publisher: France-Antilles Martinique
     date: 2022-06-08
     language: fr
+  - title: 20 kg de cannabis saisis par les forces armées entre la Martinique et Sainte Lucie
+    url: https://www.soualigapost.com/fr/actualite/42038/martinique/20-kg-de-cannabis-saisis-par-les-forces-arm%C3%A9es-entre-la-martinique-et
+    publisher: Soualiga Post
+    date: 2022-06-08
+    language: fr
 open_questions:
   - Neither the yole nor its occupants were intercepted, so no one was arrested, charged or named in the reporting.
   - No area was given for where in the Saint Lucia Channel the interception took place, so the coordinates mark the channel rather than a precise point.
@@ -88,20 +93,21 @@ open_questions:
   - The photograph captioned “Saisie de cannabis” on ZayActu carries no credit in the page markup, so its source is unclear.
   - The military statement's yearly totals for 2022 (about 700 kg of cocaine and one tonne of cannabis seized at sea) cover other operations and are excluded from this event's figures.
   - No separate date was given for when in the 3 June interception the five packages were recovered beyond the 4:22 a.m. detection, and no weight per package was published.
+  - 'Left out, as its quotation was not found in Ministère des Armées et des Anciens combattants: The French navy''s own statement of 10 June 2022 gives the same sequence as the local reports: the 4:22 a.m. detection, the five packages thrown overboard, the 20 kg total and the flight towards Sainte-Lucie.'
 ---
 
 In the night patrol of 3 June 2022, the French navy patrol boat La Combattante,
 home-ported at Fort-de-France, intercepted a suspicious yole, a fast open boat,
-in French territorial waters between Martinique and Sainte-Lucie. [@1,4] The yole
-was detected at 4:22 a.m. local time. [@2] As the patrol boat approached, the
+in French territorial waters between Martinique and Sainte-Lucie. [@1,4,6] The yole
+was detected at 4:22 a.m. local time. [@2,6] As the patrol boat approached, the
 people aboard the yole threw bales into the water and fled towards Sainte-Lucie.
-[@2]
+[@2,6]
 
 La Combattante recovered five packages that tested positive for cannabis, with a
-total weight of 20 kg. [@2,4] Neither the boat nor the people aboard could be
-intercepted, and no arrests were reported. [@2,4] The cannabis was handed over the
+total weight of 20 kg. [@2,4,6] Neither the boat nor the people aboard could be
+intercepted, and no arrests were reported. [@2,4,6] The cannabis was handed over the
 same day to the Caribbean branch of the OFAST, France's anti-narcotics office,
-in Fort-de-France. [@3,4]
+in Fort-de-France. [@3,4,6]
 
 The patrol was run by the Forces Armées aux Antilles, France's military command
 in the Antilles. [@3,5]
