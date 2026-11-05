@@ -23,6 +23,11 @@ media:
     media_url: https://www.guardian.co.tt/image-3.6179838.674719.20250412170925.a5f6565c17?size=1024
     publisher: Trinidad Guardian
     caption: 'Police handout photo of the destroyed Moruga cannabis plantation. Photo: courtesy the TTPS.'
+  - kind: photo
+    url: https://newsday.co.tt/2025/04/12/cops-destroy-2-3-m-ganja-field-in-moruga/
+    media_url: https://newsday.co.tt/wp-content/uploads/2025/04/23994357-1024x768.jpg
+    publisher: Trinidad and Tobago Newsday
+    caption: A section of the marijuana plantation destroyed by police in Moruga. Photo courtesy TTPS.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 73431a76e99161cb55b766f3654f48a4
@@ -36,25 +41,31 @@ sources:
     url: https://www.cnc3.co.tt/2-3m-cann-abis-plantation-destroyed-in-moruga/
     publisher: CNC3
     date: 2025-04-12
+  - title: Cops destroy $2.3m ganja field in Moruga
+    url: https://newsday.co.tt/2025/04/12/cops-destroy-2-3-m-ganja-field-in-moruga/
+    publisher: Trinidad and Tobago Newsday
+    date: 2025-04-12
+    archived: https://web.archive.org/web/20260615025925id_/https://newsday.co.tt/2025/04/12/cops-destroy-2-3-m-ganja-field-in-moruga/
 open_questions:
   - The incident date of 11 April 2025 is inferred because both 12 April 2025 accounts describe the operation as taking place on Friday.
   - No arrests, charges, named suspects or court outcomes were reported.
   - No area in hectares was published; the field was described only as spanning about two lots of land, which cannot be reliably converted.
   - The exact forest location is not established beyond Moruga, so the coordinates are a district-level centre, not the field site.
   - The Guardian and CNC3 accounts repeat the same TTPS wording, so the record rests on a single underlying police account and no separate TTPS statement could be opened.
+  - Newsday also reports a separate Belmont and Cascade search and arrest, a different event left out of this Moruga record.
 ---
 
 Officers of the Trinidad and Tobago Police Service seized and destroyed
 narcotics with an estimated street value of TT$2.3 million during a Friday
-eradication operation in Moruga. [@2] The Moruga operation ran from 5:30 a.m. to
+eradication operation in Moruga. [@2,3] The Moruga operation ran from 5:30 a.m. to
 12:00 p.m. on that Friday. [@2] The cannabis plantation destroyed was in Moruga.
 [@1] The officers hiked approximately five kilometres into dense forest, where
 they located and destroyed the plantation sites. [@1]
 
 Officers discovered a cannabis plantation of approximately 2,000 plants,
-including fully grown trees, along with 30 kilograms of cured cannabis. [@1]
+including fully grown trees, along with 30 kilograms of cured cannabis. [@1,3]
 Officers located and destroyed a drying house at the site containing
-approximately 30 kilogrammes of cured cannabis. [@2] Officers destroyed a
+approximately 30 kilogrammes of cured cannabis. [@2,3] Officers destroyed a
 cultivated field spanning about two lots of land holding an estimated 2,000
 fully grown cannabis plants. [@2] The haul therefore comprised both about 2,000
 growing cannabis plants and about 30 kilograms of cured cannabis, which police
@@ -63,3 +74,4 @@ valued altogether at TT$2.3 million. [@2]
 No arrests were reported in either account, and investigations remain ongoing.
 [@2]
 
+Police held the Moruga plantation operation on 11 April 2025. [@3] The Special Intelligence Unit's Jungle Operations Team led the operation under ACP Andy Teewarie. [@3] Officers of the Air Support Unit, the Southern Division Task Force and the Southern Division Gang Unit also took part. [@3]
