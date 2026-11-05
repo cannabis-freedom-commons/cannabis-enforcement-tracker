@@ -28,6 +28,10 @@ sources:
     url: https://www.dailymirror.lk/breaking-news/Week-long-Yukthiya-operation-nets-13-666-suspects-with-over-1-000-listed-criminals/108-273821
     publisher: Daily Mirror
     date: 2023-12-24
+  - title: 15,000 arrested in military backed drug crackdown in Sri Lanka
+    url: https://www.tamilguardian.com/content/15000-arrested-military-backed-drug-crackdown-sri-lanka
+    publisher: Tamil Guardian
+    date: 2023-12-29
 open_questions:
   - The hashish weight is contradicted because VOA reports 35 kilograms of hashish while the Daily Mirror reports 989 grams of hashish plus 35 kilograms listed separately as Ash, so no hashish weight is recorded.
   - Separately listed items called Mawa, Ash, Thule and Kush are not counted as cannabis because the sources list them apart from cannabis and hashish without establishing whether they are cannabis products or overlap with the 272-kilogram total.
@@ -41,22 +45,21 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Mirror: The same operation also seized heroin, ice and narcotic pills alongside other separately listed drugs.'
 ---
 
-Police arrested 13,666 suspects during that first week. [@1] Of those arrested,
+Police arrested 13,666 suspects during that first week. [@1,3] Of those arrested,
 1,107 were people listed as island reconvicted criminals. [@2] Police held 717
 suspects under detention orders for further investigation. [@2] Another 1,097
 drug users were sent to rehabilitation centres, while 174 suspects faced
-investigations into illegally acquired assets. [@2]
+investigations into illegally acquired assets. [@2,3]
 
 Police said the week produced 272 kilograms of cannabis within almost 440
-kilograms of narcotics. [@1] Authorities described Sri Lanka as a
-drug-trafficking transit point in the Indian Ocean. [@1]
+kilograms of narcotics. [@1,3] Authorities described Sri Lanka as a
+drug-trafficking transit point in the Indian Ocean. [@1,3]
 
 The week-long drive was backed by the military. [@1] Local media showed police
 and soldiers using sniffer dogs to search homes in the capital and elsewhere.
 [@1] Human rights lawyer Hejaaz Hizbullah said the raids were illegal because
-they were conducted without search warrants. [@1] Activist Ambika Satkunanathan
-said the searches were not based on evidence and targeted only poor areas. [@1]
+they were conducted without search warrants. [@1,3] Activist Ambika Satkunanathan
+said the searches were not based on evidence and targeted only poor areas. [@1,3]
 She added that police were arresting users and small-time dealers rather than
-focusing on large-scale traffickers. [@1] Police said raids would pause over
+focusing on large-scale traffickers. [@1,3] Police said raids would pause over
 Christmas for security duties and resume after Tuesday, a Buddhist holiday. [@1]
-
