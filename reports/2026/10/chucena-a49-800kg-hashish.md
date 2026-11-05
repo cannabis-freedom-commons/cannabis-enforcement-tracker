@@ -56,6 +56,11 @@ sources:
     publisher: الجزائر اليوم
     date: 2026-10-29
     language: ar
+  - title: ضبط 1150 كلغ من الحشيش المغربي المتدفق نحو أوروبا
+    url: https://www.el-massa.com/dz/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B6%D8%A8%D8%B7-1150-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%AF%D9%81%D9%82-%D9%86%D8%AD%D9%88-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7
+    publisher: المساء
+    date: 2026-10-29
+    language: ar
 open_questions:
   - The Algerian article gives no date for the Huelva stop; 21 October 2026 is the date in the Guardia Civil statement reported by Europa Press and Huelva24.
   - The driver was not named, and no charge sheet, court date or outcome was reported beyond the referral to the competent court.
@@ -65,13 +70,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Huelva24: It happened in the afternoon, when officers of the Grupo de Reserva y Seguridad (GRS) No. 2, based in Seville, were supporting the Huelva command on an operation on a public road.'
   - El Khabar describes the Huelva vehicle generically as a car on the highway and does not name the A-49 or say it was high-end.
   - The submitted article names only Huelva province for the 800 kg seizure and does not confirm the A-49, high-end car or checkpoint details, which remain sourced to the Spanish accounts.
+  - El Massa names only Huelva province and a highway and does not confirm Chucena, the A-49, or that the car was high-end.
+  - El Massa gives no date for the Huelva stop beyond its 29 October 2026 publication date.
 ---
 
 The Guardia Civil arrested the driver of a high-end car that was carrying 800 kg
 of hashish on the A-49 in Huelva province after he tried to flee a police check.
-[@2,4,5] The driver ignored their signals and drove through several levels of the
-checkpoint before officers stopped the car. [@2] Inside, officers found the
-hashish packed in 20 large bales. [@1]
+[@2,4,5,6] The driver ignored their signals and drove through several levels of the
+checkpoint before officers stopped the car. [@2,6] Inside, officers found the
+hashish packed in 20 large bales. [@1,6]
 
 He was accused of drug trafficking, document forgery over the car's number
 plates, and assaulting an agent of the authority. [@2] The case file, the car

@@ -34,6 +34,11 @@ sources:
     publisher: Europa Press
     date: 2026-10-26
     language: es
+  - title: ضبط 1150 كلغ من الحشيش المغربي المتدفق نحو أوروبا
+    url: https://www.el-massa.com/dz/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%B6%D8%A8%D8%B7-1150-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D8%AA%D8%AF%D9%81%D9%82-%D9%86%D8%AD%D9%88-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7
+    publisher: المساء
+    date: 2026-10-29
+    language: ar
 open_questions:
   - The article gives no separate date for the Fuerteventura operation; 28 October 2026 is its publication date.
   - Only one source could be opened for the Fuerteventura seizure; no second account confirming the 354 kg figure could be accessed.
@@ -46,21 +51,26 @@ open_questions:
   - The submitted article describes the hashish as Moroccan without giving a basis in the operation paragraphs, while the Guardia Civil statement gives no origin.
   - The submitted article combines the Fuerteventura seizure with a separate 800 kg Huelva seizure as a 1,154 kg total, which is recorded separately as chucena-a49-800kg-hashish.
   - No photo showing this seizure could be linked with a direct media address; the submitted page images are generic or unrelated and the Europa Press image address was not recovered.
+  - The headline gives 1150 kg while the body gives 1.154 kg; 1,154 kg is the sum of 800 kg plus 354 kg.
+  - The article calls the hashish Moroccan but the operation paragraphs give no basis for that origin.
+  - The article gives no separate dates for the two operations; 29 October 2026 is only its publication date.
+  - The page image is captioned with the same headline and no credit and is not established to show this seizure, so no media entry is included.
+  - The same article also reports the separate 800 kg Huelva seizure, which is recorded separately as chucena-a49-800kg-hashish.
 ---
 
 Spain's Guardia Civil, the country's civil guard force, detained a man found
-with a 354 kg hashish shipment in Antigua on the island of Fuerteventura. [@1,3]
+with a 354 kg hashish shipment in Antigua on the island of Fuerteventura. [@1,3,4]
 Before the arrest, officers had watched a rubber boat reach one of the beaches
-in the municipality of Antigua. [@1,3] As the load moved inland, officers
-intercepted an SUV at the exits of the coastal area. [@1,3] Officers arrested the
+in the municipality of Antigua. [@1,3,4] As the load moved inland, officers
+intercepted an SUV at the exits of the coastal area. [@1,3,4] Officers arrested the
 SUV driver at the interception point and took him into custody. [@1,3] After the
 arrest, the driver was referred to the judiciary for further legal proceedings.
 [@1,3] The court then ordered that he be held in pretrial detention without bail
-pending the case. [@1,3]
+pending the case. [@1,3,4]
 
-The coastal operation seized a total of 354 kg of hashish. [@1,2] That hashish was
+The coastal operation seized a total of 354 kg of hashish. [@1,2,4] That hashish was
 distributed across six large bales together with additional smaller parcels.
-[@1,3] Antigua is the municipality on Fuerteventura where the beach landing and
+[@1,3,4] Antigua is the municipality on Fuerteventura where the beach landing and
 road interception took place. [@1,3]
 
 The seizure came amid continued movement of hashish toward Europe through
