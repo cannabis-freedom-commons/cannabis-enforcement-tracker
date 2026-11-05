@@ -16,6 +16,11 @@ media:
     media_url: https://refletinfo.net/wp-content/uploads/2025/07/photo_2025-07-25_16-05-02.jpg
     publisher: Reflet Info
     caption: Seized cannabis balls attributed to the Malian customs interception of 104 balls on 25 July 2025.
+  - kind: photo
+    url: https://fr.apanews.net/news/mali-saisie-de-104-boules-de-cannabis/
+    media_url: https://fr.apanews.net/wp-content/uploads/sites/2/2025/07/FB_IMG_1753518362368-1083x1536.jpg
+    publisher: APAnews - Agence de Presse Africaine
+    caption: Photo captioned as the seizure of 104 cannabis balls from the 25 July 2025 interception.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2adbdf283b162fc5fd6a6ff3a825250c
@@ -36,6 +41,11 @@ sources:
     publisher: Sputnik Afrique
     date: 2025-07-25
     language: fr
+  - title: 'Mali : saisie de 104 boules de cannabis'
+    url: https://fr.apanews.net/news/mali-saisie-de-104-boules-de-cannabis/
+    publisher: APAnews - Agence de Presse Africaine
+    date: 2025-07-26
+    language: fr
 open_questions:
   - No official weight was published for the 104 balls, so no kilograms can be recorded; the 700 kg to 1,800 kg range is the outlet's own extrapolation and is excluded.
   - The 150,000 to 400,000 US dollar market value is the outlet's estimate from sub-regional prices, not an official valuation, and is excluded.
@@ -48,10 +58,10 @@ open_questions:
 
 Mali’s customs intelligence and anti-fraud directorate intercepted two freight
 trucks arriving from a neighbouring country on 25 July 2025, seizing 104 balls
-of cannabis concealed in fitted compartments inside the vehicles. [@1] Officers
+of cannabis concealed in fitted compartments inside the vehicles. [@1,4] Officers
 acted on targeted intelligence, identifying, locating and checking the suspect
 vehicles on a cross-border axis and extracting the cannabis from hides built
-into the trucks’ structure. [@1] Reflet Info independently records the same 25
+into the trucks’ structure. [@1,4] Reflet Info independently records the same 25
 July 2025 interception of 104 cannabis balls hidden in two trucks from a
 neighbouring country. [@2]
 
@@ -64,4 +74,3 @@ compartments were intended to supply criminal networks in Mali. [@3]
 Bamada.net states that no official communication gave the exact weight, offering
 only its own estimate of 700 kg to 1,800 kg and a market value of 150,000 to
 400,000 US dollars, which is not treated as an official figure. [@1]
-
