@@ -30,22 +30,31 @@ sources:
     publisher: Araraquara Agora
     date: 2026-11-04
     language: pt
+  - title: Homem é preso com 25 kg de maconha na SP-255 em Araraquara
+    url: https://g1.globo.com/google/amp/sp/sao-carlos-regiao/videos-jornal-da-eptv-1-edicao/video/homem-e-preso-com-25-kg-de-maconha-na-sp-255-em-araraquara-15158385.ghtml
+    publisher: G1
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Only one accessible source for this event could be opened; no second outlet or agency statement was available to corroborate it.
   - No custody-hearing result, formal charge details or later court outcome were reported.
   - The driver's full name was not published.
   - The reported R$3,000 was a promised transport payment, not a drug valuation, so no drug value is recorded.
+  - The new page rounds the seizure to 25 kg while the existing report records the precise published weight of 25.69 kg in 19 tablets; the precise figure remains the recorded one.
+  - The new page says the night of Tuesday the 3rd while the existing report dates the flagrante to the early hours of 4 November 2026, the same overnight interval.
+  - The new page text gives no driver age or occupation, vehicle, tablet count, Ribeirão Preto to Jaú route, trafficking booking or Santa Ernestina transfer; those details remain supported only by the existing source.
+  - Only the video page title and one-line description could be used as text evidence; the 39-second video audio was not transcribed and its poster frame is not established to show the event, so no media entry is added.
 ---
 
 Officers of the Tático Ostensivo Rodoviário (TOR), the Military Police highway
 patrol unit, arrested a 25-year-old app driver in flagrante in the early hours
 of 4 November 2026 at km 89 of the Rodovia Antônio Machado Sant'Anna (SP-255) in
-Araraquara. [@1] The patrol stopped his grey Fiat Mobi after seeing it speeding
+Araraquara. [@1,2] The patrol stopped his grey Fiat Mobi after seeing it speeding
 and driving against traffic on the highway. [@1] During the inspection officers
 found the drug tablets hidden in the luggage compartment. [@1]
 
 The seizure totalled 19 tablets weighing 25.69 kg of maconha, kept in the trunk
-of the grey Fiat Mobi. [@1] The precise published weight was 25.69 kg in the
+of the grey Fiat Mobi. [@1,2] The precise published weight was 25.69 kg in the
 trunk of a Fiat Mobi on the SP-255 in Araraquara. [@1] The driver told police he
 had loaded the maconha in Ribeirão Preto and was taking it to Jaú for delivery.
 [@1] He said he had been promised R$3,000 for carrying the load to its
@@ -59,4 +68,3 @@ transport and a mobile phone found with the driver to help reconstruct the route
 and identify other possible participants. [@1] The Delegacia de Investigações
 Sobre Entorpecentes (DISE), the drug-investigations unit, took over the case to
 investigate the origin of the drug and its intended destination in Jaú. [@1]
-
