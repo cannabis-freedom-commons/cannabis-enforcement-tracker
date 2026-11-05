@@ -26,6 +26,11 @@ sources:
     publisher: Rhein-Zeitung
     date: 2026-11-04
     language: de
+  - title: 'Bad Breisig: Illegaler Cannabisanbau in ehemaliger Glasfabrik'
+    url: https://www.blick-aktuell.de/Adenau/Bad-Breisig-Illegaler-Cannabisanbau-in-ehemaliger-Glasfabrik-680816.html
+    publisher: BLICK aktuell
+    date: 2026-11-05
+    language: de
 open_questions:
   - No figure for the number of plants, the cannabis weight, the area used, or any value was published.
   - No arrests, suspects, charges, or court outcome were reported in the accessible text.
@@ -33,13 +38,14 @@ open_questions:
   - The article gives the raid date as Wednesday, 28 October without a year; 2026 is used because 28 October 2026 was a Wednesday and the article was published on 4 November 2026.
   - The scale of the plantation and the background to its operation were still unclear.
   - Only one accessible source for this event was found after searching in German; no police statement or second outlet account was located.
+  - 'Left out, as its quotation was not found in Rhein-Zeitung: Officers of Kriminalinspektion Mayen, the criminal investigation branch, searched the former glass factory in the Goldene Meile commercial estate in Bad Breisig on Wednesday, 28 October.'
 ---
 
 Officers of Kriminalinspektion Mayen, the criminal investigation branch,
 searched the former glass factory in the Goldene Meile commercial estate in Bad
 Breisig on Wednesday, 28 October. [@1] A spokesman for Polizeipräsidium Koblenz,
 the regional police headquarters, confirmed the search. [@1] The operation
-followed a tip from the energy supplier. [@1]
+followed a tip from the energy supplier. [@1,2]
 
 Inside the hall of the glass factory, investigators found a professional
 cannabis plantation. [@1] The cultivation setup was described as a
@@ -54,3 +60,4 @@ of the plantation and the background to its operation were still unclear at the
 time. [@1] The named raid location is the town of Bad Breisig in the Goldene
 Meile area. [@1]
 
+Police were not disclosing information about possible suspects. [@2] Investigators said the Bad Breisig case was not connected to a separate 8 October raid that included Sinzig and concerned suspected weapons and drug dealers. [@2]
