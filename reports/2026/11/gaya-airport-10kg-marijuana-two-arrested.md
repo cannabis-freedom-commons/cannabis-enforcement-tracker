@@ -43,6 +43,14 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-05
     language: hi
+  - title: Two women arrested with 10 kilograms of marijuana from Gaya airport
+    url: https://www.hindustantimes.com/india-news/two-women-arrested-with-10-kilograms-of-marijuana-from-gaya-airport-101793866639455.html
+    publisher: Hindustan Times
+    date: 2026-11-05
+  - title: 'Gaya Airport Drug Bust: Two Punjab Women Arrested With 10 Kg Marijuana Worth Rs 10 Crore'
+    url: https://www.outlookindia.com/national/bihar-gaya-airport-drug-bust-two-punjab-women-arrested-10-kg-marijuana-smuggled-from-thailand-worth-rs-10-crore-customs-seizure
+    publisher: Outlook India
+    date: 2026-11-05
 open_questions:
   - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
   - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
@@ -51,27 +59,33 @@ open_questions:
   - Dainik Bhaskar alone reports the airport seizure count, and the same article gives it both as the fourth case this year and as four cases in the past two years.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The same report said four such consignments had been caught in the past two years and that investigators had still not mapped the networks behind them.'
   - The Amar Ujala page image is labelled as a file photo of Gaya airport and is not established to show this seizure, so no media entry is included.
+  - The Hindi-language sources render the women's names differently and the airport has had several cannabis seizures, so this is matched to the recorded event on the date, place, method and quantities rather than on the names alone.
+  - No charges, custody ruling or court outcome are reported in either account; the customs investigation was continuing.
+  - The Rs 10 crore international-market valuation is reported as approximate and, in Outlook India's account, not officially confirmed, so no value is recorded.
+  - The four other members of the six-person group had not reached Gaya airport when the accounts were written, and no arrests involving them were reported.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
-after they arrived from Thailand. [@1,2,5] The women were identified as Simranjit
-and Kulwinder, both reported as Punjab residents. [@1] They arrived on a Thai
+after they arrived from Thailand. [@1,2,5,6] The women were identified as Simranjit
+and Kulwinder, both reported as Punjab residents. [@1,7] They arrived on a Thai
 Airways flight from Thailand at around 11.45 am and were detained after security
 staff reportedly noticed suspicious contents during baggage screening. [@1,3] They
-were questioned for about eight hours before being formally arrested. [@1,4]
+were questioned for about eight hours before being formally arrested. [@1,4,7]
 
 Officers allegedly recovered about 10 kg of marijuana from four separate bags
-belonging to the pair. [@1,2,5] The bags were examined more closely after Central
+belonging to the pair. [@1,2,5,7] The bags were examined more closely after Central
 Industrial Security Force personnel and other security staff flagged something
-suspicious during routine screening. [@1,2,5] The consignment was reported to be
+suspicious during routine screening. [@1,2,5,6] The consignment was reported to be
 worth about Rs 10 crore on the international market, although that valuation was
 not officially confirmed. [@1,2]
 
 Airport sources said six people had travelled to Thailand about four days before
-the seizure. [@1] The two women arrived back at Gaya with the suspected
+the seizure. [@1,7] The two women arrived back at Gaya with the suspected
 narcotics, while the other four had reportedly not yet returned. [@1] Customs
 investigators are examining the group's possible connection to the consignment
 and whether others were involved, working to establish its origin and intended
 destination. [@1]
 
 Dainik Bhaskar reported that this was the fourth case of marijuana being caught at Gaya airport this year. [@4] Bhaskar reported that officials declined to answer questions about where the consignment was to be delivered and how many people were behind the smuggling. [@4]
+
+Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@7] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7]
