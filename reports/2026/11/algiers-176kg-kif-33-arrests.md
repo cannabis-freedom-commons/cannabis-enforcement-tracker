@@ -40,20 +40,26 @@ sources:
     publisher: Nessma TV
     date: 2026-11-05
     language: fr
+  - title: الجيش الجزائري يفكك شبكتين دوليتين ويحجز مليون قرص مخدر و30 كلغ كوكايين
+    url: https://www.nessma.tv/ar/amp/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/actu/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D9%81%D9%83%D9%83-%D8%B4%D8%A8%D9%83%D8%AA%D9%8A%D9%86-%D8%AF%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%86-%D9%88%D9%8A%D8%AD%D8%AC%D8%B2-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%82%D8%B1%D8%B5-%D9%85%D8%AE%D8%AF%D8%B1-%D9%8830-%D9%83%D9%84%D8%BA-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86/597458
+    publisher: Nessma
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The sources do not name the people arrested or report whether charges were filed or what happened in court.
   - The sources identify Algiers but do not give a more precise operation site.
   - The Arabic page contains additional uncaptioned images that cannot be confirmed as pictures of this operation, so none is listed from that page.
+  - The Arabic page states that 200 million centimes, about 14,700 dollars, was seized, but does not say what the money was, so no value is recorded in the existing report.
 ---
 
 The National Gendarmerie's Service for Combating Drugs and Psychotropic
 Substances in Algiers dismantled two cross-border criminal networks on 4
-November 2026, Algeria's defence ministry said. [@1] The ministry reported that
+November 2026, Algeria's defence ministry said. [@1,4] The ministry reported that
 the operation led to the arrest of 33 drug traffickers, including one minor.
-[@1]
+[@1,4]
 
 The operation seized 176 kilograms of kif traité, a processed cannabis product.
-[@3] The cannabis formed one component of a wider haul that also included
+[@3,4] The cannabis formed one component of a wider haul that also included
 cocaine and psychotropic tablets. [@1] The operation also included seizure of 21
 utility vehicles. [@2]
 
@@ -65,4 +71,3 @@ with firmness and perseverance. [@1] It said authorities would intensify their
 work to dismantle and thwart criminal networks. [@1] The ministry said those
 efforts would help reinforce citizens' security and the country's stability.
 [@1]
-
