@@ -56,6 +56,11 @@ sources:
     publisher: Paperjam
     date: 2025-12-10
     language: fr
+  - title: 'Nouvelle prise exceptionnelle des douanes: 800 kg de cannabis ont été interceptés au Findel'
+    url: https://www.virgule.lu/luxembourg/nouvelle-prise-exceptionnelle-des-douanes-800-kg-de-cannabis-ont-ete-interceptes-au-findel/111897886.html
+    publisher: Virgule
+    date: 2025-12-10
+    language: fr
 open_questions:
   - No arrests, suspects, charges or court outcomes were reported; Luxembourg asked foreign authorities to take over prosecution.
   - The other European country to which the delivery was redirected was not named, to avoid compromising investigations.
@@ -69,18 +74,20 @@ open_questions:
   - No media entry is added because the two customs handout photos on the RTL page appear to republish the same Administration des douanes et accises handout already recorded from actu.fr.
   - Paperjam names the freight site the Cargolux cargo centre, while the prosecutor's communiqué calls it the CARGO centre of Luxembourg-Findel Airport; this report treats them as the same facility.
   - Paperjam gives no separate figure for the value of the 798.84 kg, no arrest, and no court outcome; it repeats the prosecutor's statement that no further details would be released to protect the investigations.
+  - The Virgule article gives no street value for the 798.84 kg and names no arrests or court outcome.
+  - Its mention of about 600 kg of cannabis intercepted at the airport in August 2025 is a separate earlier event that would need its own report if sourced.
 ---
 
 On 13 November 2025 customs officers at Luxembourg-Findel Airport's cargo centre
 checked an air-freight shipment from the United States that had been flagged as
-suspicious. [@1,3,4,5] Shipping documents declared it as 3,063 kg of “Furniture, Deck
+suspicious. [@1,3,4,5,6] Shipping documents declared it as 3,063 kg of “Furniture, Deck
 chair, Sofa Stool” for a Belgian company, made up of twelve pallets each holding
-about twelve cardboard boxes wrapped in black plastic film. [@1,3,4] A scan showed
+about twelve cardboard boxes wrapped in black plastic film. [@1,3,4,6] A scan showed
 the insides of the benches were filled with packets, and officers opening the
-crates found 170 vacuum-sealed packs. [@1,3,4,5]
+crates found 170 vacuum-sealed packs. [@1,2,3,4,5]
 
 A rapid test identified the contents as cannabis, with the 170 packs holding
-798.84 kg described as good quality, and the goods were seized. [@1,4,5] The
+798.84 kg described as good quality, and the goods were seized. [@1,2,4,5] The
 operation was run by the customs administration with the judicial police
 narcotics section and the Luxembourg prosecutor, which ordered the seizure. [@2,5]
 
