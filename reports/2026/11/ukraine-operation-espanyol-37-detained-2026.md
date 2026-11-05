@@ -20,6 +20,11 @@ media:
     media_url: https://mezha.fsn1.your-objectstorage.com/ua/uploads/2026/11/05/narkotrafik-z-ispaniyi-ssha-5f4a2dce13fc.webp
     publisher: Межа
     caption: 'Photo of Operation Espanyol published with the report, credited to the Office of the Prosecutor General. Photo: Ofis Henprokurora'
+  - kind: photo
+    url: https://www.stopcor.org/section-uanews/news-narkotiki-z-ispanii-ssha-ta-portugalii-natspolitsiya-vikrila-masshtabnu-merezhu-ta-viluchila-tovaru-na-90-mln-grn-05-11-2026.html
+    media_url: https://i.stopcor.org/news/2026/11/5/5431808537999907550.jpg?size=2010x1130
+    publisher: StopCor
+    caption: 'Lead photo of the Operation Espanyol case, captioned on the page “Narkotyky khoronyly v bytovii tekhnitsi” (drugs hidden in household appliances), with the page crediting the National Police as the source. Photo: National Police of Ukraine'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54ac52ebae71dea94d749b723b6ece54
@@ -39,6 +44,11 @@ sources:
     url: https://censor.net/en/news/4032170/operation-espanyol-39-arrested-and-67-kg-of-drugs-seized
     publisher: Censor.NET
     date: 2026-11-05
+  - title: 'Наркотики из Испании, США и Португалии: Нацполиция разоблачила масштабную сеть и изъяла товар на 90 млн грн'
+    url: https://www.stopcor.org/section-uanews/news-narkotiki-z-ispanii-ssha-ta-portugalii-natspolitsiya-vikrila-masshtabnu-merezhu-ta-viluchila-tovaru-na-90-mln-grn-05-11-2026.html
+    publisher: StopCor
+    date: 2026-11-05
+    language: ru
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -49,26 +59,30 @@ open_questions:
   - Both accounts reproduce the police and prosecutor statements, with no independent account of the operation.
   - The text gives a weight ("67 kg") but the figures have no kg_seized; check whether it belongs there.
   - The page carries eight photographs under the same generic caption about Operation Espanyol, without descriptive captions identifying what each photograph shows, so no media entry is included.
+  - StopCor uses the Russian spelling "Эспаньол" for the operation; the National Police writes "Еспаньйол" (Espanyol).
+  - The StopCor item links only to the National Police Telegram post and gives no separate date for the searches and detentions.
+  - The page carries several further gallery photographs under one generic caption, so only the lead photograph could be identified; the others were left out.
+  - StopCor's own related item, the 10.5 million hryvnia Kyiv drug sale disguised as animal feed, is a separate event and is not part of this report.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
 [@1,3] The 39 suspects were notified over drug trafficking and smuggling, and the
 most serious charge carries up to 12 years in prison with confiscation. [@2]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
 parcels. [@1] In Ukraine the drugs were sold through Telegram channels and a
 network of distributors. [@1,3] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2]
+drugs and property at more than 90 million hryvnias. [@2,4]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
