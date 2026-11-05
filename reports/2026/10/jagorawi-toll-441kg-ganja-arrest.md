@@ -126,6 +126,16 @@ sources:
     publisher: SinPo.tv
     date: 2026-11-05
     language: id
+  - title: Pengendali Ganja dari Sumut Diburu Polda Metro Jaya
+    url: https://metrodaily.jawapos.com/hukum-dan-kriminal/2611040021/pengendali-ganja-dari-sumut-diburu-polda-metro-jaya
+    publisher: Metro Daily
+    date: 2026-11-04
+    language: id
+  - title: Tiga Kali Kirim Ganja ke Jakarta, Kurir Asal Sumut Raup Upah Rp1 Juta per Kg
+    url: https://www.suara.com/news/2026/11/03/174825/tiga-kali-kirim-ganja-ke-jakarta-kurir-asal-sumut-raup-upah-rp1-juta-per-kg
+    publisher: Suara.com
+    date: 2026-11-03
+    language: id
 open_questions:
   - The detik headline totals about 138 kg across three shipments while officers seized 44.1 kg on 31 October 2026; the report counts only the seized 44.1 kg.
   - The exact rest-area kilometre point and jurisdiction on Tol Jagorawi were not given.
@@ -166,6 +176,8 @@ open_questions:
   - The page gives only its 5 November 2026 publication display and does not state the 31 October 2026 seizure date, so the event date continues to rely on earlier sources.
   - The page names only the Tol Jagorawi area and does not give the rest-area detail, so the precise location continues to rely on earlier sources.
   - The page's featured image is captioned only with the article title and the listed source image shows an unrelated forest-fire item, so neither is established to show the seized cannabis and no media entry is added.
+  - The page repeats the 44.1 kg 31 October arrest and the hunt for controller K without reporting any later arrest, charge or court step, so the case status continues to rely on earlier sources.
+  - The page gives only the publication date of 4 November 2026 and the press conference on Tuesday, 3 November, so the arrest date continues to rely on earlier sources.
 media:
   - kind: photo
     url: https://www.metrotvnews.com/read/N0BCgxWl-polda-metro-penyitaan-44-1-kg-ganja-selamatkan-132-ribu-jiwa
@@ -185,27 +197,29 @@ media:
 ---
 
 Metro Jaya narcotics detectives arrested courier YT at the Jagorawi toll-road
-rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18,19,21] Officers caught him carrying 44.1 kilograms
-of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21] Police said they had followed him overland all the
+rest area on 31 October 2026. [@3,7,8,9,11,12,13,14,15,17,18,19,21,22] Officers caught him carrying 44.1 kilograms
+of cannabis at the time. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22] Police said they had followed him overland all the
 way from Mandailing Natal in North Sumatra before stopping him on the toll road.
 [@1,5,18]
 
 Police said the cannabis originated in Mandailing Natal and was moved by land
-across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14,17] They said the load was intended
-for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18,19,20] Police said YT had already
+across the Bakauheni-Merak ferry crossing. [@2,5,8,9,12,14,17,23] They said the load was intended
+for distribution in Depok and Tangerang. [@1,6,10,13,15,17,18,19,20,22] Police said YT had already
 delivered 50 kilograms and 44 kilograms in two shipments in July 2026, making
 the October load his third. [@1,5,7,8,9,11,12,13,14,17,18,19] They said he was promised Rp 1 juta for each
-kilogram he carried. [@1,6,10,11,13,15,17,18,19]
+kilogram he carried. [@1,6,10,11,13,15,17,18,19,22]
 
 Police charged YT under Article 114 paragraph (2) in conjunction with Article
 111 paragraph (2) of Narcotics Law No. 35 of 2009, which carries five to 20
 years in prison. [@3,4,6,8,9,12,14,15,18] Police said they had identified the alleged controller,
-initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15,17,18,19]
+initialled K, who is on the wanted list and is being pursued. [@1,6,10,13,15,17,18,19,22]
 
 At a press conference on 3 November 2026, drug director Bismo Teguh Prakoso said the 44.1 kg seizure equated to saving 132,440 lives at 0.3 grams per person. [@4,18] He estimated the seizure saved Rp2.648 trillion in rehabilitation costs at Rp20 million per person for six months of rehabilitation. [@4]
 
-Police said they received information from the public about the cannabis distribution before arresting the courier on the Jagorawi toll road. [@8,12,13]
+Police said they received information from the public about the cannabis distribution before arresting the courier on the Jagorawi toll road. [@8,12,13,22]
 
 The seized 44.1 kg was wrapped in packages sealed with brown tape. [@13] YT is now detained at the Polda Metro Jaya detention facility. [@13]
 
-Bismo said the disclosure was part of the National Police chief's priority programme on eradicating drug dealers. [@14,19]
+Bismo said the disclosure was part of the National Police chief's priority programme on eradicating drug dealers. [@14,19,22]
+
+Officers followed the courier after receiving the public report and the earlier-case information before he was stopped. [@23] According to his own account, YT left Mandailing Natal at night several days before the arrest. [@23]
