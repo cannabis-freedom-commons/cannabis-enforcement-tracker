@@ -45,6 +45,11 @@ sources:
     publisher: Seneweb
     date: 2020-02-02
     language: fr
+  - title: 'Mauritanie: Un ancien militaire sénégalais arrêté avec 2 Kg de chanvre indien'
+    url: https://www.seneweb.com/fr/news/Societe/mauritanie-un-ancien-militaire-senegalais-arrete-avec-2-kg-de-chanvre-indien_n_308029.html
+    publisher: Seneweb
+    date: 2020-02-02
+    language: fr
 open_questions:
   - The accounts give no exact date for the arrest; Cridem says it happened on the Saturday, and 1 February 2020 is used on that basis.
   - 'The traveller''s stated destination differs: RFM-sourced Senegalese accounts say Nouadhibou, while Cridem''s Mauritanian source Al-akhbar says Nouakchott.'
@@ -60,14 +65,13 @@ indien, cannabis, in the south of the country on the weekend of 1–2 February
 2020. [@2] The man, a former soldier in his thirties from the Kaolack region of
 Senegal, was detained 18 km from Rosso, the town on Mauritania's border with
 Senegal. [@2] According to the Senegalese station RFM, he had left the army
-between 2014 and 2015. [@1] RFM reported that he was on his way to Nouadhibou,
-Mauritania's second-largest city and a fishing port on the Atlantic coast. [@1]
+between 2014 and 2015. [@1,5] RFM reported that he was on his way to Nouadhibou,
+Mauritania's second-largest city and a fishing port on the Atlantic coast. [@1,5]
 
 Leral.net and its Senegalese counterparts attributed the arrest to the
 sniffer-dog brigade of Rosso, the Mauritanian police unit that works with dogs.
-[@1] The accounts differ on where the man was heading: Cridem's Mauritanian
+[@1,5] The accounts differ on where the man was heading: Cridem's Mauritanian
 source, Al-akhbar, said he was trying to reach the capital, Nouakchott. [@2]
 Dakarposte, which also credits RFM, put his detention in Nouadhibou's direction
 and said he left the army between 2015 and 2014. [@3] No charge, court
 appearance or sentence was reported in any of these accounts. [@4]
-
