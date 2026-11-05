@@ -34,6 +34,11 @@ sources:
     publisher: Jornal Oeste
     date: 2026-11-04
     language: pt
+  - title: Traficantes do CV são presos com cocaína e maconha
+    url: https://www.folhamax.com/amp/policia/traficantes-do-cv-sao-presos-com-cocaina-e-maconha/580354
+    publisher: Folhamax
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No weight in grams or kilograms was published for the cannabis portion, so no cannabis quantity is recorded.
   - The roughly 100 portions are a combined figure for cocaine and cannabis and cannot be split, so no cannabis portion count is assigned.
@@ -45,10 +50,10 @@ open_questions:
 ---
 
 Two women aged 24 and 31 and a 26-year-old man were arrested for drug
-trafficking in Sapezal on the night of 3 November 2026. [@1] Police identified
+trafficking in Sapezal on the night of 3 November 2026. [@1,3] Police identified
 the three as members of a criminal faction. [@1] The Military Police said they
 were held with about 100 portions of substances analogous to cocaine and
-cannabis. [@2] The case began during a patrol by the cavalry unit in the city
+cannabis. [@1,2] The case began during a patrol by the cavalry unit in the city
 centre, where soldiers received complaints of drug sales inside a nightclub.
 [@1]
 
@@ -71,3 +76,4 @@ steps. [@1]
 Jornal Oeste reported the case with information from the Mato Grosso Military
 Police and gave the same account of the arrests and the two addresses. [@2]
 
+Folhamax reported that the three were identified as members of Comando Vermelho (CV). [@3]
