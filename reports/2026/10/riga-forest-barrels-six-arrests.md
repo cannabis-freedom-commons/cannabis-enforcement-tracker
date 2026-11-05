@@ -64,6 +64,11 @@ sources:
     publisher: LSM.lv
     date: 2026-11-05
     language: lv
+  - title: 'VIDEO. Zemē ieraktas mucas ar kokaīnu, amfetamīnu un citām narkotikām: Pierīgā aiztur narkodileru bandu'
+    url: https://www.la.lv/video-zeme-ieraktas-mucas-ar-kokainu-amfetaminu-un-citam-narkotikam-pieriga-aiztur-narkodileru-bandu
+    publisher: LA.LV
+    date: 2026-11-05
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -82,11 +87,11 @@ open_questions:
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
 criminal group of Latvian and Lithuanian citizens who hid tens of kilograms of
-drugs in barrels buried in the forest. [@1] On 21 October police detained six
+drugs in barrels buried in the forest. [@1,6] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
-to escape. [@1,2] Two other Latvian members were already imprisoned for other
+to escape. [@1,2,6] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1,3,4] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3,4,6] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
 Latvia. [@1,2] Two detained Lithuanians were wanted in Lithuania at the time, one
 of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
@@ -95,12 +100,12 @@ for theft, and was handed over to serve his sentence. [@1] The other detained
 Latvian had been released from prison only in spring after serving a sentence
 for a similar drug-trafficking offence. [@1] On 23 October a court imposed
 pretrial custody, the strictest restraint, on five suspects, four Lithuanians
-and one Latvian. [@1,4]
+and one Latvian. [@1,4,6]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1,2,4] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2,4,6] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1]
 State Police said this was the first discovery in the Riga region of such a
