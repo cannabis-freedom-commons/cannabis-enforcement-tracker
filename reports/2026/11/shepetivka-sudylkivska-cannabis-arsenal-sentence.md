@@ -61,6 +61,11 @@ sources:
     publisher: День за днем
     date: 2026-11-04
     language: uk
+  - title: 'Вирощував коноплі на даху та тримав арсенал вибухівки: судили жителя Судилківської громади'
+    url: https://shepetivka.com.ua/novyny/kryminal/20743-vyroshchuvav-konopli-na-dakhu-ta-trymav-arsenal-vybukhivky-sudyly-zhytelia-sudylkivskoi-hromady.html
+    publisher: Сайт міста Шепетівка
+    date: 2026-11-04
+    language: uk
 open_questions:
   - No separate sentencing date was published; 2 November 2026 is the court announcement and first detailed report date, with the submitted article following on 4 November 2026, so the earlier date is used as the incident date.
   - The cannabis weight was reported as more than 1.5 kg by one source and about 1.5 kg by the other, and is recorded as 1.5 kg.
@@ -99,3 +104,5 @@ The court also ordered him to pay more than 65,000 hryvnias to the state for
 forensic examinations. [@2]
 
 The confiscation ordered by the court excluded housing. [@3]
+
+The court also convicted him of illegally handling weapons and explosives. [@4]
