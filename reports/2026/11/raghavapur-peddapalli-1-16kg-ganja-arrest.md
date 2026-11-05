@@ -33,27 +33,33 @@ sources:
     publisher: Suryaa News
     date: 2026-11-04
     language: te
+  - title: 'Peddapalli: రాఘవపూర్‌లో గంజాయి విక్రయిస్తున్న యువకుడి అరెస్ట్! | Hyderabad Youth Arrested With 1.16 Kg Ganja Near Raghavapur'
+    url: https://www.hmtvlive.com/telugu-news/karimnagar/hyderabad-youth-arrested-with-116-kg-ganja-near-raghavapur-209174
+    publisher: HMTV
+    date: 2026-11-05
+    language: te
 open_questions:
   - The article gives no separate date for the detention; 4 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Telugu and English.
   - No court outcome was reported; the police investigation was still under way.
   - The report gives the stop location only as LMN Bicks near Raghavapur, with no further address.
+  - The HMTV article was published on 5 November 2026, one day after the 4 November 2026 date used in the existing report.
+  - The HMTV page carries an image captioned only as Peddapalli with no credit or description establishing that it shows this seizure, so no media entry is added.
 ---
 
 Peddapalli rural police detained a man who had come to the outskirts of
-Raghavapur village in Peddapalli mandal to sell ganja. [@1] Officers had spotted
+Raghavapur village in Peddapalli mandal to sell ganja. [@1,2] Officers had spotted
 him moving suspiciously near LMN Bicks on the Raghavapur outskirts and took him
-into custody for questioning. [@1] That questioning found ganja in his
+into custody for questioning. [@1,2] That questioning found ganja in his
 possession. [@1] Police identified the detained man as Pakala Lokesh from
-Hyderabad. [@1] Police said he told them he had brought the cannabis to sell to
-migrant labourers who had come from other states. [@1] Police registered a case
-over the incident and said an investigation was under way. [@1]
+Hyderabad. [@1,2] Police said he told them he had brought the cannabis to sell to
+migrant labourers who had come from other states. [@1,2] Police registered a case
+over the incident and said an investigation was under way. [@1,2]
 
-Officers seized 1 kilo 161 grams (1.161 kg) of ganja from him. [@1] Peddapalli
+Officers seized 1 kilo 161 grams (1.161 kg) of ganja from him. [@1,2] Peddapalli
 Rural Sub-Inspector Madhukar put the value of the seized cannabis at about Rs
-58,050. [@1] Ganja is the local term for cannabis. [@1]
+58,050. [@1,2] Ganja is the local term for cannabis. [@1]
 
 The details of the detention, seizure and stated motive were given by Peddapalli
 Rural Sub-Inspector Madhukar. [@1] The stop took place at LMN Bicks on the
 Raghavapur outskirts. [@1] Raghavapur is a village in Peddapalli mandal. [@1]
-
