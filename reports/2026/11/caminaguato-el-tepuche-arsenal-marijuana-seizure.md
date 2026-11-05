@@ -26,6 +26,11 @@ media:
     media_url: https://static.ecodiario.mx/storage/77134/conversions/01M6KYSSF3CJC1MGA7EPZNEZWC-large.jpg
     publisher: ECOdiario
     caption: 'Federal personnel stand beside a pickup in a wooded area. Photo: Cortesía.'
+  - kind: photo
+    url: https://oncenoticias.digital/nacional/aseguran-vehiculos-con-droga-y-armamento-en-sinaloa/594344/
+    media_url: https://d22jn00zjrk7sl.cloudfront.net/wp-content/uploads/2026/11/3fc83c68-a994-4bfc-bc98-26e83af08b92.jpg
+    publisher: Once Noticias
+    caption: 'Photo captioned FOTO: SSPC, credited to the federal public-security ministry, published with the report on the two operations in Sinaloa. Photo: SSPC'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c92aeb985454f6fbaed90140151d03cd
@@ -96,6 +101,11 @@ sources:
     publisher: El Universal
     date: 2026-11-04
     language: es
+  - title: Aseguran vehículos con droga y armamento en Sinaloa
+    url: https://oncenoticias.digital/nacional/aseguran-vehiculos-con-droga-y-armamento-en-sinaloa/594344/
+    publisher: Once Noticias
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the bag of marijuana, so no kilograms can be recorded.
   - The 6,182,000-peso figure covers all seized weapons, vehicles and drugs together, not marijuana alone, so no cannabis-only value is recorded.
@@ -108,24 +118,28 @@ open_questions:
   - The embedded Security Cabinet post rounds the loss to more than 6.1 million pesos while the article text gives the precise 6,182,000-peso figure retained in the existing report.
   - The submitted ECOdiario page has seven additional gallery images with opaque identifier captions, so they are not individually listed as event photos.
   - 'Left out, as its quotation was not found in El Universal: The federal Security Cabinet said the seizure represented an economic impact of 6,182,000 pesos on criminal groups.'
+  - Once Noticias gives no separate date for the operations; 4 November 2026 is its publication date, matching the date used in the report.
+  - The 6,182,000-peso figure covers weapons, vehicles and drugs together, not the marijuana bag alone.
 ---
 
 Federal authorities seized arsenal, vehicles and drugs in Sinaloa in two
-operations. [@1,3,4,7,8,10,11] The operations took place near Caminaguato and El Tepuche,
+operations. [@1,3,4,7,8,10,11,14] The operations took place near Caminaguato and El Tepuche,
 Sinaloa, according to the federal Security Cabinet. [@2] Marina personnel,
 through the Mexican Navy, acted in coordination with the federal public-security
 ministry and the Attorney General's Office. [@2,3,5,9,10]
 
 In Caminaguato, officers found four pickups apparently abandoned and, on close
 inspection, found inside 17 magazines, 326 cartridges of various calibres,
-tactical and communications equipment and a bag of marijuana. [@2,3,5,7,8,10,12] In El
+tactical and communications equipment and a bag of marijuana. [@2,3,5,7,8,10,12,14] In El
 Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long
 guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and
-communications equipment. [@2,3,7,9,10,12] Together the two operations totalled five
+communications equipment. [@2,3,7,9,10,12,14] Together the two operations totalled five
 vehicles, 15 long guns, 30 magazines and 1,681 cartridges of various calibres,
 plus marijuana and tactical and communications equipment. [@2,6,9]
 
 Everything seized was placed at the disposal of the competent authorities to
-open the corresponding investigation files. [@1,5,7,8,9,10,13] The federal Security Cabinet
+open the corresponding investigation files. [@1,5,7,8,9,10,13,14] The federal Security Cabinet
 said the seizure represented an economic impact of 6,182,000 pesos on criminal
-groups. [@1,6,7,8,9]
+groups. [@1,6,7,8,9,14]
+
+The first intervention near Caminaguato was carried out through deterrence and surveillance patrols. [@14] The El Tepuche seizure was a second, separate operation, not part of the Caminaguato intervention. [@14]
