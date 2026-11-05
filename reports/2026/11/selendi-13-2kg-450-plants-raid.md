@@ -1,0 +1,67 @@
+---
+code: "246523"
+added_at: "2026-11-05T09:46:46.466371Z"
+date: 2026-11-04
+country: tr
+place: Selendi, Manisa
+coordinates: [38.7453, 28.8675]
+precision: locality
+type: raid
+also: [seizure, arrest]
+title: One detained as Selendi raid finds 13.2 kg cannabis and 450 plants
+summary: >-
+  Gendarmerie teams raided a home in Selendi, Manisa, and detained 44-year-old K.Y. on suspicion of producing and trading drugs. Officers seized 13 kilos 200 grams of kubar esrar and 450 cannabis plants, and the suspect was due to be brought before prosecutors the next day.
+figures:
+  arrested: 1
+  plants_destroyed: 450
+  kg_seized: 13.2
+media:
+  - kind: photo
+    url: https://www.medyagazete.com/haber/manisada-jandarmadan-uyusturucu-operasyonu-13-kilo-esrar-ele-gecirildi
+    media_url: https://www.medyagazete.com/images/contents/news/2026/11/manisada-jandarmadan-uyusturucu-operasyonu-13-kilo-esrar-ele-gecirildi-01m6nadafmdmvy0heaagy4syjj-detail.webp
+    publisher: Medya Gazete
+    caption: 'Photo published with the report on the Selendi operation, captioned Manisa''da jandarmadan uyuşturucu operasyonu: 13 kilo esrar ele geçirildi; the page gives no photographer or agency credit.'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: fba73a4507873dacd8593d39215e52c0
+tags: [manisa, selendi, jandarma, kubar-esrar]
+sources:
+  - title: 'Manisa’da jandarmadan uyuşturucu operasyonu: 13 kilo esrar ele geçirildi'
+    url: https://www.medyagazete.com/haber/manisada-jandarmadan-uyusturucu-operasyonu-13-kilo-esrar-ele-gecirildi
+    publisher: Medya Gazete
+    date: 2026-11-05
+    language: tr
+  - title: Manisa Selendi'de jandarma operasyonunda 13 kilo 200 gram esrar ele geçirildi
+    url: https://www.haberler.com/3-sayfa/manisa-selendi-de-jandarma-operasyonunda-13-kilo-20397361-haberi/
+    publisher: Haberler.com
+    date: 2026-11-05
+    language: tr
+  - title: 'Selendi’de jandarma baskını: evde 13 kilo esrar ve 450 kenevir kökü ele geçirildi'
+    url: https://www.aksiyon.com.tr/selendi-de-jandarma-baskini-evde-13-kilo-esrar-ve-450-kenevir-koku-ele-gecirildi-388412
+    publisher: Aksiyon.com.tr
+    date: 2026-11-05
+    language: tr
+open_questions:
+  - The reports give the raid only as having happened the day before their 5 November 2026 publication, so 4 November 2026 is an inferred date.
+  - No charges, custody ruling or court outcome were reported beyond the stated referral to the judicial authorities.
+  - No separate breakdown of how much of the 13.2 kg was seized as prepared esrar and how much came from the 450 plants was published.
+  - All three opened accounts carry the same İhlas Haber Ajansı text, so no independent account or official gendarmerie statement was found.
+  - The page photo is captioned only with the headline and carries no photographer or agency credit, so it cannot be confirmed to show this seizure itself.
+---
+
+Gendarmerie teams raided a home in Selendi district in Manisa province and
+detained a 44-year-old man identified only as K.Y. on suspicion of producing and
+trading drugs. [@1] The search of the address turned up 13 kilos 200 grams of
+kubar esrar, a resin-rich grade of herbal cannabis, and 450 cannabis plants,
+described as kök kenevir. [@2]
+
+The suspect was detained on the instruction of the public prosecutor and was due
+to be taken to the judicial authorities the day after the raid. [@1] The
+operation was carried out by teams of the Manisa provincial gendarmerie command
+and the Selendi district gendarmerie command after intelligence work. [@2] The
+gendarmerie acted on information that K.Y. was producing and trading drugs. [@3]
+Officers seized the drugs found at the address. [@3]
+
+The raid took place the day before the 5 November 2026 reports, which put the
+haul at 13.2 kilos of kubar esrar and the same 450 plants. [@3]
+
