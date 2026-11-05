@@ -19,6 +19,11 @@ media:
     media_url: https://lapagina.com.sv/wp-content/uploads/2026/11/IMG_6177-750x536.jpeg
     publisher: Diario La Página
     caption: Police presentation photograph of the detained 21-year-old flanked by two uniformed officers, with seized marijuana bags and a mobile phone on a table in front of a Policía Nacional Civil backdrop.
+  - kind: photo
+    url: https://diario.elmundo.sv/nacionales/detienen-a-un-joven-que-portaba-varias-bolsas-de-marihuana-en-mejicanos
+    media_url: https://cdn.elmundo.sv/wp-content/uploads/2026/11/Detenido-por-drogas.jpg?x-image-process=image/resize,w_890/quality,q_85/format,webp
+    publisher: Diario El Mundo
+    caption: 'Police photo of the detained young man with seized marijuana bags in Mejicanos. Photo: PNC.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d0dbd029cae054fc57b8dca63585bebc
@@ -29,20 +34,28 @@ sources:
     publisher: Diario La Página
     date: 2026-11-04
     language: es
+  - title: Detienen a un joven que portaba varias bolsas de marihuana en Mejicanos
+    url: https://diario.elmundo.sv/nacionales/detienen-a-un-joven-que-portaba-varias-bolsas-de-marihuana-en-mejicanos
+    publisher: Diario El Mundo
+    date: 2026-11-05
+    language: es
 open_questions:
   - No weight, number of bags or estimated value for the marijuana was published, so only the arrest is recorded as a figure.
   - Police announced a referral for possession and holding of drugs, but no charge filing, custody ruling or court outcome has been reported.
   - The report gives no separate date for the operation; 4 November 2026 is its publication date and is used as the incident date.
   - The police did not say at what point in Mejicanos the arrest was made, so the coordinates are for the district centre.
   - Only the submitted Diario La Página account could be opened in this read-only harness, so no second account corroborates the detention.
+  - The contents of the small bag seized with the mobile phone were not described.
+  - The same article also reports October arrests in San Miguel Centro and San Luis La Herradura, which are separate events not covered by this update.
 ---
 
 El Salvador's National Civil Police arrested 21-year-old Ederson Stanley Santos
-Bermúdez in the district of Mejicanos, San Salvador Centro. [@1] Officers seized
+Bermúdez in the district of Mejicanos, San Salvador Centro. [@1,2] Officers seized
 several bags containing marijuana that police said were apparently prepared for
-sale. [@1]
+sale. [@1,2]
 
-Officers also seized a mobile phone from him. [@1] Police said he would be
+Officers also seized a mobile phone from him. [@1,2] Police said he would be
 referred to the corresponding authorities for alleged possession and holding of
-drugs. [@1]
+drugs. [@1,2]
 
+The new account counts at least 13 bags visible in the police photographs. [@2] The new account says officers also seized a small bag in addition to the mobile phone. [@2]

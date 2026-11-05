@@ -29,6 +29,11 @@ sources:
     publisher: Diario El Mundo
     date: 2026-10-31
     language: es
+  - title: Detienen a un joven que portaba varias bolsas de marihuana en Mejicanos
+    url: https://diario.elmundo.sv/nacionales/detienen-a-un-joven-que-portaba-varias-bolsas-de-marihuana-en-mejicanos
+    publisher: Diario El Mundo
+    date: 2026-11-05
+    language: es
 open_questions:
   - The reports give only the publication date of 31 October 2026 and say the arrest occurred in the preceding hours; no separate day is stated, so the publication date is used as the incident date.
   - No weight, package count, or estimated value for the seized marijuana was published.
@@ -38,8 +43,8 @@ open_questions:
 
 El Salvador's National Civil Police arrested 26-year-old Jhon Brandon Giraldo
 Rivera in San Miguel after officers surprised him carrying a large bag of drugs
-in the street. [@1] When he noticed the police presence, he tried to escape on
-foot and threw the package onto a sidewalk. [@1] Officers verified the contents
+in the street. [@1,3] When he noticed the police presence, he tried to escape on
+foot and threw the package onto a sidewalk. [@1,3] Officers verified the contents
 of the discarded bag, confirmed it was a considerable portion of marijuana, and
 intercepted him after a pursuit. [@1]
 
@@ -51,4 +56,3 @@ seizure as a bag holding an abundant amount of drugs. [@2]
 Rivera will now be referred to the justice system to face proceedings for
 alleged unlawful drug trafficking. [@2] Police reported the arrest as having
 occurred in the preceding hours in the municipality of San Miguel Centro. [@2]
-
