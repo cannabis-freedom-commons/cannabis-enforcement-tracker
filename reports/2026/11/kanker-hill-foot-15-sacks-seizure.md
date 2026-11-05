@@ -61,6 +61,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-04
     language: hi
+  - title: 'CG में 2 करोड़ का गांजा लावारिस हालत में बरामद : तस्करों ने टीआई पर चढ़ाई कार, कचरे के ढेर में गांजे की बोरियां फेंककर हुए फरार'
+    url: https://lalluram.com/cannabis-worth-2-crore-seized-in-cg-smugglers-drove-their-car-towards-a-police-inspector-ti-then-dumped-sacks-of-cannabis-in-a-pile-of-trash-and-fled/
+    publisher: Lalluram
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -79,6 +84,12 @@ open_questions:
   - The server-rendered page opens with the caption कांकेर पुलिस ने बरामद किया गांजा (Kanker police recovered ganja) above an untitled police photograph; the caption does not say the picture shows this 15-sack recovery, so no media entry can be supported from it.
   - A second, differently named image file on the same page carries no visible caption beyond the page's general police tags, so it cannot be tied to this seizure either.
   - 'Left out, as its quotation was not found in Navbharat Live: Kanker police seized 15 sacks of ganja found abandoned at the foot of a hill near National Highway-30.'
+  - Lalluram puts the haul at more than 400 kg of ganja worth more than Rs 2 crore, while other accounts of this recovery put it at 2.80 quintals (280 kg) and about Rs 1.5 crore; the report keeps the earlier figures and the difference is unresolved.
+  - Lalluram describes a chase of about 30 km from Keshkal towards Kanker and a car driven at the Keshkal station house officer during the interception, which other accounts do not mention.
+  - Lalluram says smugglers used a Fortuner and a pilot Tata Winger vehicle, whereas other accounts describe two vehicles and a car without naming them.
+  - Lalluram's account of the interception gives no date beyond "late on Tuesday night", and its publication date of 5 November 2026 is not the recovery date.
+  - Names of the smugglers and vehicle registration numbers remain unpublished; no arrests, charges or court step are reported in this account.
+  - Lalluram carries two uncaptioned, uncredited images, one of which is filed under an August 2026 upload folder; neither is shown to depict this seizure, so no media entries are added.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -104,3 +115,5 @@ The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed conditi
 The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5]
 
 Keshkal police were chasing the smugglers when Kanker police set up its cordon. [@5]
+
+Smugglers fleeing a police interception late on Tuesday night drove a car at Ritesh Mishra, the station house officer of Keshkal police station, and the car brushed his foot as it passed, injuring his thumb. [@6] Police chased the vehicles for about 30 kilometres from Keshkal towards Kanker. [@6] Police tried to stop a Toyota Fortuner bringing ganja from Odisha and a pilot Tata Winger accompanying it, and the driver of a Nexon then drove at the station house officer. [@6] Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing. [@6] Kanker superintendent of police Nikhil Rakhecha said police had found leads on the vehicles and suspects used in the smuggling and had sent separate teams to arrest them. [@6]
