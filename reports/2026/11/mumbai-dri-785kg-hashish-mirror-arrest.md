@@ -25,6 +25,11 @@ media:
     media_url: https://images.mid-day.com/images/images/2026/nov/Hash-caught-DRI-lead_1793797641893_d.jpg
     publisher: Mid-Day
     caption: The seized substance confiscated by the DRI under the NDPS Act. (Pic via special arrangement)
+  - kind: photo
+    url: https://www.news18.com/cities/mumbai-news/smoke-mirrors-dri-uncovers-novel-new-york-mumbai-hashish-smuggling-scheme-one-arrested-ws-blrt-10413205.html
+    media_url: https://images.news18.com/ibnlive/uploads/2026/11/DRI-Uncovers-Novel-New-York-Mumbai-Hashish-Smuggling-Scheme-drug-2026-11-3b3dc8b9bdfc4b6bda5407ea3ba246f6-1200x675.jpg
+    publisher: News18
+    caption: Photo published with the report on the 7.85 kg hashish seizure in Mumbai, captioned as showing the eight packets found inside the mirror frame and the 169 sachets of blackish resinous substance. Image/News18
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdbf702e7a9da205d6627eccf8ff9361
@@ -42,6 +47,14 @@ sources:
     url: https://www.freepressjournal.in/mumbai/mumbai-crime-dri-seizes-785-kg-hashish-hidden-inside-bathroom-mirror-shipped-from-us-consignee-arrested
     publisher: Free Press Journal
     date: 2026-11-04
+  - title: 'Smoke & Mirrors: DRI Uncovers Novel New York-Mumbai Hashish Smuggling Scheme, One Arrested'
+    url: https://www.news18.com/cities/mumbai-news/smoke-mirrors-dri-uncovers-novel-new-york-mumbai-hashish-smuggling-scheme-one-arrested-ws-blrt-10413205.html
+    publisher: News18
+    date: 2026-11-05
+  - title: DRI seizes 7.85 kg of hashish smuggled from U.S. to Mumbai in mirror frame; one arrested
+    url: https://www.thehindu.com/news/cities/mumbai/dri-seizes-785-kg-of-hashish-smuggled-from-us-to-mumbai-in-mirror-frame-one-arrested/article71666672.ece
+    publisher: The Hindu
+    date: 2026-11-05
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
@@ -49,6 +62,9 @@ open_questions:
   - No monetary value for the seized hashish was published, so no value can be recorded.
   - Only one accessible source for this event was found after searching; no DRI statement or second outlet account could be opened.
   - The page carries an image described in the article text as a file photo, so it is not established to show this seizure and no media entry is included.
+  - The Hindu and News18 state that the DRI did not disclose the arrested person's identity, which leaves the recipient's name, age and gender unpublished.
+  - Neither opened page gives a separate date for the interception and seizure; 2 November 2026 remains the stated arrest date.
+  - No monetary value for the seized hashish was published in either account.
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
@@ -56,9 +72,9 @@ international racket that concealed hashish in a courier shipment sent from New
 York in the United States to Mumbai. [@1,2,3] After sustained investigation,
 officers identified and traced the intended recipient of the consignment. [@1]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
-[@1,3] Officials said further investigation is under way to uncover the larger
+[@1,3,4] Officials said further investigation is under way to uncover the larger
 network, identify other people involved and establish domestic and international
-linkages. [@1]
+linkages. [@1,5]
 
 Acting on specific intelligence, officers uncovered the operation and seized
 7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3]
@@ -66,15 +82,17 @@ Officers intercepted and examined the suspicious courier consignment at the
 International Courier Terminal in Mumbai. [@1,2,3] The package had been declared as
 a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
 dismantled the wooden cuboidal frame and found eight concealed packets hidden
-inside the structure. [@1,2,3] Those packets contained 169 smaller packets filled
+inside the structure. [@1,2,3,5] Those packets contained 169 smaller packets filled
 with a blackish resinous substance of varying weights. [@1,3] The material tested
 positive for hashish in preliminary testing with an NDPS field testing kit. [@1]
 Officers put the total gross weight of the seized contraband at 7,850 grams.
 [@1]
 
 The narcotic substance was confiscated under the relevant provisions of the
-Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985. [@1] The DRI said
+Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985. [@1,4] The DRI said
 it remains committed to combating drug trafficking and dismantling organized
 narcotics networks. [@1] The agency said such operations support the Government
 of India's Nasha Mukt Bharat Abhiyaan and its broader objective of creating a
 drug-free India. [@1]
+
+The DRI has not disclosed the identity of the person arrested over the mirror parcel. [@5]
