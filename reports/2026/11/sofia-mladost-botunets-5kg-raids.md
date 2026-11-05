@@ -83,6 +83,11 @@ sources:
     publisher: BurgasMedia
     date: 2026-11-04
     language: bg
+  - title: Столичната полиция е задържала трима души за държане на наркотици с цел тяхното разпространение
+    url: https://utroruse.com/amp/1335287/
+    publisher: Утро Русе
+    date: 2026-11-04
+    language: bg
 open_questions:
   - The article gives no separate date for the Botunets stop, describing it as about 10.30pm last night relative to its 4 November 2026 publication; 3 November 2026 is used as the incident date for the whole operation.
   - No net or laboratory weight was published; the cannabis total is reported only as more than 5 kg and about 5 kg, so 5 kg is recorded as the stated figure.
@@ -106,6 +111,9 @@ open_questions:
   - 'Left out, as its quotation was not found in Министерство на вътрешните работи: In Botunets at about 10.30pm, patrol officers from the Fifth District Police Department stopped a man on an electric scooter.'
   - 'Left out, as its quotation was not found in Dnes.bg: Police said they found the second dealer through the 26-year-old and that the 33-year-old told them he was spending his proceeds on renovating another Sofia flat.'
   - 'Left out, as its quotation was not found in Dnes.bg: Police said the 26-year-old is known for thefts, has served an effective sentence for drug possession and was now breaching a suspended sentence for drug offences.'
+  - The reprint renders the fine as "5 и 20 000 лева" without the thousand on the first figure, while the existing report records 5,000 to 20,000 Bulgarian leva from fuller accounts.
+  - The reprint does not name the Mladost and Botunets districts or give the reported 5 kg total, which are established by the fuller MVR, NOVA and BurgasMedia accounts already cited.
+  - The page photo caption only repeats the headline and is not established to show this seizure, so no media entry is included.
 ---
 
 Police detained three men in raids on alleged drug dealers in Sofia's Mladost
@@ -136,6 +144,6 @@ Investigators say the 33-year-old sold large amounts of drugs in Sofia, has a
 conviction for possessing drugs for sale and is known to the Interior Ministry
 for offences under Articles 216, 195 and 354a. [@1,5]
 
-The first two detained men have been formally charged with possession for distribution, the second also with a document offence. [@3,6] Police found 4.3 kg of marijuana plus 150 grams of hashish prepared as oil with a marijuana smell in the second Mladost flat. [@4]
+The first two detained men have been formally charged with possession for distribution, the second also with a document offence. [@3,6,8] Police found 4.3 kg of marijuana plus 150 grams of hashish prepared as oil with a marijuana smell in the second Mladost flat. [@4]
 
-The 33-year-old rented the flat using the fake ID document. [@6] Sofia City Prosecutor's Office spokesman Nikolay Nikolaev said the two charged men face one to six years in prison and a fine of 5,000 to 20,000 Bulgarian leva. [@6] The two Mladost men were held for 72 hours and a Sofia court was due to decide the next day on a permanent custody order. [@6] The third man, from Botunets, was known to police for drug offences but had not served a prison sentence. [@6] The Sofia City Prosecutor's Office had sent 37 people to court for drug dealing in the past month, with the drugs in those cases valued at over €1,113,000. [@6]
+The 33-year-old rented the flat using the fake ID document. [@6] Sofia City Prosecutor's Office spokesman Nikolay Nikolaev said the two charged men face one to six years in prison and a fine of 5,000 to 20,000 Bulgarian leva. [@6] The two Mladost men were held for 72 hours and a Sofia court was due to decide the next day on a permanent custody order. [@6,8] The third man, from Botunets, was known to police for drug offences but had not served a prison sentence. [@6] The Sofia City Prosecutor's Office had sent 37 people to court for drug dealing in the past month, with the drugs in those cases valued at over €1,113,000. [@6,8]
