@@ -21,6 +21,11 @@ media:
     media_url: https://bajio.quadratin.com.mx/www/wp-content/uploads/2026/11/Aseguran-Semar-y-SSPC-vehiculos-con-armamento-y-droga-en-Sinaloa-1160x700-1.jpg
     publisher: Quadratín Bajío
     caption: 'Seized arsenal secured in Sinaloa. Photo: SEMAR'
+  - kind: photo
+    url: https://ecodiario.mx/noticia/aseguran-marina-sspc-y-fgr-armamento-droga-y-cinco-vehiculos-en-sinaloa
+    media_url: https://static.ecodiario.mx/storage/77134/conversions/01M6KYSSF3CJC1MGA7EPZNEZWC-large.jpg
+    publisher: ECOdiario
+    caption: 'Federal personnel stand beside a pickup in a wooded area. Photo: Cortesía.'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c92aeb985454f6fbaed90140151d03cd
@@ -76,6 +81,21 @@ sources:
     publisher: Hoja de Ruta Digital
     date: 2026-11-04
     language: es
+  - title: ASEGURAN MARINA, SSPC Y FGR ARMAMENTO, DROGA Y CINCO VEHÍCULOS EN SINALOA
+    url: https://ecodiario.mx/noticia/aseguran-marina-sspc-y-fgr-armamento-droga-y-cinco-vehiculos-en-sinaloa
+    publisher: ECOdiario
+    date: 2026-11-04
+    language: es
+  - title: Aseguran cinco vehículos con armas y droga en la zona rural de Culiacán
+    url: https://www.noroeste.com.mx/amp/seguridad/aseguran-cinco-vehiculos-con-armas-y-droga-en-la-zona-rural-de-culiacan-MD27066965
+    publisher: Noroeste
+    date: 2026-11-04
+    language: es
+  - title: Marina realiza acciones de prevención en Sinaloa; asegura vehículos, armas y droga en Caminaguato y El Tepuche
+    url: https://www.eluniversal.com.mx/nacion/marina-realiza-acciones-de-prevencion-en-sinaloa-asegura-vehiculos-armas-y-droga-en-caminaguato-y-el-tepuche/
+    publisher: El Universal
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the bag of marijuana, so no kilograms can be recorded.
   - The 6,182,000-peso figure covers all seized weapons, vehicles and drugs together, not marijuana alone, so no cannabis-only value is recorded.
@@ -86,24 +106,26 @@ open_questions:
   - 'Left out, as its quotation was not found in Quadratín México: In El Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and communications equipment.'
   - The submitted page's introductory line gives 339 cartridges while its operation-by-operation breakdown lists 326 plus 1,355 cartridges, matching the existing report's 1,681 total.
   - The embedded Security Cabinet post rounds the loss to more than 6.1 million pesos while the article text gives the precise 6,182,000-peso figure retained in the existing report.
+  - The submitted ECOdiario page has seven additional gallery images with opaque identifier captions, so they are not individually listed as event photos.
+  - 'Left out, as its quotation was not found in El Universal: The federal Security Cabinet said the seizure represented an economic impact of 6,182,000 pesos on criminal groups.'
 ---
 
 Federal authorities seized arsenal, vehicles and drugs in Sinaloa in two
-operations. [@1,3,4,7,8,10] The operations took place near Caminaguato and El Tepuche,
+operations. [@1,3,4,7,8,10,11] The operations took place near Caminaguato and El Tepuche,
 Sinaloa, according to the federal Security Cabinet. [@2] Marina personnel,
 through the Mexican Navy, acted in coordination with the federal public-security
 ministry and the Attorney General's Office. [@2,3,5,9,10]
 
 In Caminaguato, officers found four pickups apparently abandoned and, on close
 inspection, found inside 17 magazines, 326 cartridges of various calibres,
-tactical and communications equipment and a bag of marijuana. [@2,3,5,7,8,10] In El
+tactical and communications equipment and a bag of marijuana. [@2,3,5,7,8,10,12] In El
 Tepuche, officers found a fifth vehicle apparently abandoned carrying 15 long
 guns, 13 magazines, 1,355 usable cartridges of various calibres and tactical and
-communications equipment. [@2,3,7,9,10] Together the two operations totalled five
+communications equipment. [@2,3,7,9,10,12] Together the two operations totalled five
 vehicles, 15 long guns, 30 magazines and 1,681 cartridges of various calibres,
 plus marijuana and tactical and communications equipment. [@2,6,9]
 
 Everything seized was placed at the disposal of the competent authorities to
-open the corresponding investigation files. [@1,5,7,8,9,10] The federal Security Cabinet
+open the corresponding investigation files. [@1,5,7,8,9,10,13] The federal Security Cabinet
 said the seizure represented an economic impact of 6,182,000 pesos on criminal
 groups. [@1,6,7,8,9]
