@@ -60,6 +60,16 @@ sources:
     publisher: La Maddalena TV
     date: 2026-11-04
     language: it
+  - title: Riceve 2 chili di hashish per posta dalla Spagna, arrestato a Olbia
+    url: https://www.ansa.it/sardegna/notizie/2026/10/23/riceve-2-chili-di-hashish-per-posta-dalla-spagna-arrestato-a-olbia_1a2bbc94-a5df-4cd4-89b9-120d9c090a0e.html
+    publisher: ANSA
+    date: 2026-10-23
+    language: it
+  - title: Ein 27-jähriger Mann wurde in Olbia festgenommen, nachdem ein Drogenpaket aus Spanien in der Post abgefangen worden war.
+    url: https://www.unionesarda.it/de/sardinien/ein-27-jahriger-mann-wurde-in-olbia-festgenommen-nachdem-ein-drogenpaket-aus-spanien-in-der-post-abgefangen-worden-war-aaj9hd9w
+    publisher: L'Unione Sarda
+    date: 2026-10-23
+    language: de
 open_questions:
   - No separate date for the arrest was published; 23 October 2026 is the date of both reports.
   - The man is not named, and no court outcome beyond being placed at the prosecutor's disposal in Tempio Pausania is reported.
@@ -68,24 +78,27 @@ open_questions:
   - The 25,000-euro figure is the Guardia di Finanza estimate for the seized drugs as a whole, including the cocaine, not for the hashish alone.
   - The new account gives the about 25,000-euro estimate but does not mention the more than 2,000 doses figure in the existing report.
   - The page's only image for this event is the Guardia di Finanza logo, with the other thumbnails showing unrelated cases, so no new event photo can be added.
+  - ANSA reports that the officers opened the parcel after hearing the young man give evasive answers, a detail not stated in the existing report or in the German translation.
+  - The German page carries the same L'Unione Sarda photo gallery, whose images are set as a shared multi-case slideshow credited only to the publisher and are not established to show this arrest, so no media entry is added.
+  - 'Left out, as its quotation was not found in ANSA: The Olbia group had been watching postal shipments and waited for the delivery.'
 ---
 
 A 27-year-old man from Olbia was arrested by officers of the Guardia di Finanza,
-Italy's finance police, after he collected a parcel sent from Spain. [@1,3] The
+Italy's finance police, after he collected a parcel sent from Spain. [@1,3,4] The
 Olbia group had been watching postal shipments and waited for the delivery. [@1,3]
 At a pickup point in the centre of Olbia the man, the real recipient, appeared
-agitated when the officers questioned him. [@1] He is accused of holding drugs
-for the purpose of dealing. [@1,3]
+agitated when the officers questioned him. [@1,5] He is accused of holding drugs
+for the purpose of dealing. [@1,3,5]
 
 The parcel that drew their attention was addressed to a name that turned out to
-be invented. [@1,3] Officers opened it and found 20 vacuum-packed blocks of
-hashish, cannabis resin, of 100 grams each, two kilograms in all. [@2,3] The
+be invented. [@1,3,5] Officers opened it and found 20 vacuum-packed blocks of
+hashish, cannabis resin, of 100 grams each, two kilograms in all. [@2,3,4] The
 operation also seized a modest quantity of cocaine. [@1]
 
 A later search of the man's home found about 5.5 grams of marijuana and 12 grams
 of cocaine already divided into doses for sale, plus packaging materials, two
-precision scales and a cutting agent. [@1,3] The Guardia di Finanza estimated that
+precision scales and a cutting agent. [@1,3,5] The Guardia di Finanza estimated that
 the seized drugs, if put on the market, would have brought in about 25,000 euros
-and made more than 2,000 doses. [@2,3] He was placed at the disposal of the public
+and made more than 2,000 doses. [@2,3,5] He was placed at the disposal of the public
 prosecutor's office in Tempio Pausania, and the drugs and the material from the
-search were seized. [@2,3]
+search were seized. [@2,3,4]
