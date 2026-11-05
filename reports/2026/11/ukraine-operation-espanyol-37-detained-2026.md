@@ -79,6 +79,21 @@ sources:
     publisher: Національна поліція України
     date: 2026-11-05
     language: uk
+  - title: 'В Україні викрили міжнародну наркомережу: 39 підозрюваних і вилучення на понад 90 млн грн'
+    url: https://zahidfront.com.ua/news/V-Ukrayini-vikrili-mizhnarodnu-narkomerezhu-39-pidozryuvanix-i-viluchennya-na-ponad-90-mln-grn.html
+    publisher: Західний фронт
+    date: 2026-11-05
+    language: uk
+  - title: 'Наркотрафік з Іспанії, США та Португалії: 39 підозрюваних і понад 90 млн грн вилученого'
+    url: https://gp.gov.ua/ua/posts/narkotrafik-z-ispaniyi-ssa-ta-portugaliyi-39-pidozryuvanix-i-ponad-90-mln-grn-vilucenogo-rezultati-specoperaciyi
+    publisher: Офіс Генерального прокурора
+    date: 2026-11-05
+    language: uk
+  - title: Поліція перекрила канали наркотрафіку з Іспанії, США та Португалії до України
+    url: https://www.ukrinform.ua/rubric-society/4181753-policia-perekrila-kanali-narkotrafiku-z-ispanii-ssa-ta-portugalii-do-ukraini.html
+    publisher: Укрінформ
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -106,26 +121,29 @@ open_questions:
   - The Sumy page names no cannabis-only weight or valuation; the 67 kg and 90 million hryvnias stay unallocated to cannabis.
   - The Sumy page names only the National Police as the source, while the police statement itself lists the Security Service of Ukraine and the Prosecutor General's Office as coordinators.
   - The Sumy page does not mention the two-stage structure; the police statement and other outlets do.
+  - The submitted Zahidnyi Front page carries no article photograph showing the operation; its only image is a generic video-production banner, so it adds no media.
+  - The National Police names 11 oblasts plus Kyiv city as areas of the first stage, which is 12 named units while the statements speak of 11 regions.
+  - Zahidnyi Front writes that cannabis came from the United States while the National Police and prosecutors list Spain, Portugal and the United States as the countries of origin without specifying cannabis to the United States alone.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3,7] The 39 suspects were notified over drug trafficking and smuggling, and the
-most serious charge carries up to 12 years in prison with confiscation. [@2,6]
+[@1,3,7,9] The 39 suspects were notified over drug trafficking and smuggling, and the
+most serious charge carries up to 12 years in prison with confiscation. [@2,6,10]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5,6] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5,6,8] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
-parcels. [@1,6] In Ukraine the drugs were sold through Telegram channels and a
+parcels. [@1,6,8] In Ukraine the drugs were sold through Telegram channels and a
 network of distributors. [@1,3,6] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1,6] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6]
+drugs and property at more than 90 million hryvnias. [@2,4,5,6,9]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
@@ -139,3 +157,5 @@ The seized drugs also included kratom, psilocybin mushrooms and confectionery co
 The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
 
 The National Police statement was coordinated by its drug-crime department, main investigation directorate, the Security Service of Ukraine and the Prosecutor General's Office. [@7] The second stage of the operation targeted and detained other figures who handled the sale of cocaine and cannabis in Ukraine. [@7] The 141 searches were backed by tactical response and special-purpose police units, with canine teams from regional police and Kyiv. [@7]
+
+Ukraine's National Police detained all 37 under the custody provisions of the Criminal Procedure Code. [@10] Ukrinform reported that the question of notifying further suspects will be decided on the results of expert examinations. [@10]
