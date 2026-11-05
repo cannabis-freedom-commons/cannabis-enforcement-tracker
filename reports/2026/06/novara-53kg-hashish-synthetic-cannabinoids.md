@@ -60,6 +60,11 @@ sources:
     publisher: Rai News TGR Piemonte
     date: 2026-11-05
     language: it
+  - title: Novara, l'hashish conteneva altre sostanze sintetiche pericolose
+    url: https://www.rainews.it/amp/tgr/piemonte/articoli/2026/11/novara-lhashish-conteneva-sostanze-sintetiche--a644f661-d32f-42fe-9602-a22a2bd796d6.html
+    publisher: RaiNews
+    date: 2026-11-05
+    language: it
 open_questions:
   - The sources give no exact date in June 2026 for the road check and arrest; 30 June 2026 is a placeholder inside the month stated and must be treated as approximate.
   - No court outcome or charge detail was reported for the arrested man; the November briefing covered laboratory findings, not the case's progress.
@@ -71,11 +76,14 @@ open_questions:
   - 'Left out, as its quotation was not found in Quotidiano Piemontese: The four synthetic compounds belong to the indazole-3-carboxamide class, and the fifth is H4-CBD, a semi-synthetic cannabinoid derived from cannabidiol.'
   - 'Left out, as its quotation was not found in Quotidiano Piemontese: The analyses were carried out by the interregional scientific police laboratory for Piedmont and Valle d''Aosta, with the drug investigation section of the national scientific police service.'
   - 'Left out, as its quotation was not found in Quotidiano Piemontese: Part of the material was in brown slabs that looked indistinguishable from ordinary hashish, while other samples were gummy or crystalline.'
+  - The RaiNews page displays a photograph credited to Guardia di Finanza Novara that is not added here because it could not be confirmed as distinct from the seizure photographs already listed in the report.
+  - 'Left out, as its quotation was not found in RaiNews: Forensic analysis later found five different cannabinoids inside the seized substance, four fully synthetic and one semi-synthetic.'
+  - 'Left out, as its quotation was not found in RaiNews: The hashish contained four substances in the structural-analogue class derived from indazole-3-carboxamide and a semi-synthetic cannabinoid identified as H4-CBD, derived from cannabidiol.'
 ---
 
 Financial police in Novara stopped a car during a road check in June 2026 and
 seized 53 kg of hashish, arresting one man. [@2] The same operation also seized
-cocaine and marijuana alongside the hashish. [@5] La Stampa reported that the
+cocaine and marijuana alongside the hashish. [@5,6] La Stampa reported that the
 operation, presented at the Novara prosecution office, began with that road
 check. [@4]
 
@@ -92,3 +100,4 @@ systems. [@3] Prosecutors said the synthetic cannabinoids act on the same
 receptors as THC but can produce stronger and less predictable effects than
 traditional cannabis. [@3]
 
+Part of the material was in brown slabs outwardly indistinguishable from traditional hashish, while other samples had a gummy or crystalline consistency. [@6]
