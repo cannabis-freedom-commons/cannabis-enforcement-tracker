@@ -35,6 +35,10 @@ sources:
     publisher: Інтерфакс-Україна
     date: 2026-11-05
     language: uk
+  - title: 'Operation ’Espanyol’: Drug trafficking from Spain, US and Portugal uncovered. 39 suspects and 90 million hryvnias seized. VIDEO+PHOTOS'
+    url: https://censor.net/en/news/4032170/operation-espanyol-39-arrested-and-67-kg-of-drugs-seized
+    publisher: Censor.NET
+    date: 2026-11-05
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -44,22 +48,23 @@ open_questions:
   - The heaviest charge carries up to 12 years with confiscation, but no sentence has been reported and everyone is presumed innocent until a court verdict.
   - Both accounts reproduce the police and prosecutor statements, with no independent account of the operation.
   - The text gives a weight ("67 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The page carries eight photographs under the same generic caption about Operation Espanyol, without descriptive captions identifying what each photograph shows, so no media entry is included.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1] The 39 suspects were notified over drug trafficking and smuggling, and the
+[@1,3] The 39 suspects were notified over drug trafficking and smuggling, and the
 most serious charge carries up to 12 years in prison with confiscation. [@2]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2] The drugs were hidden in household
+cannabis came from the United States. [@2,3] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
 parcels. [@1] In Ukraine the drugs were sold through Telegram channels and a
-network of distributors. [@1] Officers carried out 141 searches and seized more
+network of distributors. [@1,3] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1] Authorities put the total value of the seized
@@ -72,3 +77,4 @@ presumed innocent until a court verdict proves guilt. [@1] The pre-trial
 investigation is continuing to identify other people involved in organising the
 smuggling and sales. [@2]
 
+The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3]
