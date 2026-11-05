@@ -38,6 +38,16 @@ sources:
     publisher: Araçatuba em Foco
     date: 2026-11-05
     language: pt
+  - title: Colombiano é preso com quase 6 kg de haxixe em ônibus na Rondon
+    url: https://sampi.net.br/bauru/noticias/3016564/aracatuba/2026/11/colombiano-e-preso-com-quase-6-kg-de-haxixe-em-onibus-na-rondon
+    publisher: JCNET
+    date: 2026-11-05
+    language: pt
+  - title: Colombiano é preso com haxixe em tubo expositor de pulseira
+    url: https://nossaguia.com.br/2026/11/05/colombiano-preso-com-haxixe-tubo-expositor-pulseira/
+    publisher: Nossa Guia
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The suspect is identified only by his Colombian nationality; his name, age and travel details were not published.
   - No charges, custody hearing or court outcome were reported beyond his arrest in flagrante and detention at the Federal Police station in Araçatuba.
@@ -51,15 +61,15 @@ open_questions:
 
 Highway military police arrested a Colombian man on suspicion of drug
 trafficking in the early hours of Thursday 5 November 2026 during an inspection
-on the Marechal Rondon highway (SP-300) in Andradina, São Paulo state. [@1] The
+on the Marechal Rondon highway (SP-300) in Andradina, São Paulo state. [@1,3] The
 bus was stopped at about 00:34 at kilometre 631 during Operação Impacto, a
 highway policing operation run by officers of the 2nd Highway Police Battalion
 (2º BPRv). [@2] The bus was travelling the route between Campo Grande in Mato
 Grosso do Sul and São Paulo. [@1]
 
 During the search officers found four cardboard tubes in the bus's internal
-luggage rack. [@1] After weighing, the material was found to contain 5.6
-kilograms of hashish. [@1] Investigators established that the drug belonged to a
+luggage rack. [@1,3] After weighing, the material was found to contain 5.6
+kilograms of hashish. [@1,3] Investigators established that the drug belonged to a
 passenger sitting in seat 16. [@1] He was arrested in flagrante and the case was
 presented at the Federal Police station in Araçatuba, where he remained in
 custody at the disposal of the courts. [@2]
@@ -67,3 +77,4 @@ custody at the disposal of the courts. [@2]
 According to the Highway Police, officers could not check the suspect's criminal
 record because he is a foreign national. [@2]
 
+The tubes were cardboard displays of the kind used for braided bracelets. [@4]
