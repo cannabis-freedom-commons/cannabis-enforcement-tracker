@@ -20,6 +20,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/07/ca/07cae00c-1070-4262-872c-7df845bf9303/narkotic0601_20260613102652.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: Photo published with the report of the seizure, credited in the caption to the press service of Uzbekistan's Customs Committee.
+  - kind: photo
+    url: https://repost.uz/xlopnuli-mestnix-i-inostrancev
+    media_url: https://repost.uz/storage/uploads/thumbnails/0-1781672880-Oleg-post-material-large.webp
+    publisher: Repost.uz
+    caption: Photo of the seized drugs, credited to the State Security Service.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9216cddbcb3a8ee791005b98fbb4d059
@@ -44,18 +49,24 @@ sources:
     url: https://www.khaama.com/uzbekistan-seizes-nearly-38kg-of-drugs-smuggled-from-afghanistan/
     publisher: Khaama Press
     date: 2026-06-17
+  - title: В Узбекистане изъяли свыше 30 кг опия и гашиша
+    url: https://repost.uz/xlopnuli-mestnix-i-inostrancev
+    publisher: Repost.uz
+    date: 2026-06-17
+    language: ru
 open_questions:
   - The reports give no separate date for the operations; 17 June 2026 is the date the State Security Service announced them, so the detention itself may have come days earlier.
   - No value was published for the hashish or the whole haul by an authority, so no value is recorded; one outlet's rough retail estimate of $500,000 to $1 million covers the whole consignment and is not used.
   - The reports do not say how much of the hashish came in by the swallowing method or where exactly in Surkhandarya the shipment crossed the border.
   - The two members arrested at Termez are described only as Afghans aged 70 and 24 in one account and 1955 and 2001 births in others; no charges or court dates have been reported for any of the six.
   - UzDaily's caption credits the photo to the Customs Committee press service, although the report names the security service and police as leading the operation.
+  - The Repost account describes only the Samarkand receipt with four detainees and does not mention the separate Termez International Trade Center arrests that make up the reported six-person total.
 ---
 
 Uzbek officers intercepted a consignment of drugs smuggled from Afghanistan and
 took it under control to the city of Samarkand, where they arrested four people
 as they received it. [@2] The four were two Uzbek citizens and two foreign
-nationals. [@1] In a separate operation at the International Trade Center in
+nationals. [@1,5] In a separate operation at the International Trade Center in
 Termez, two Afghan nationals were arrested as they tried to sell 1 kg 76 g of
 opium to an undercover buyer for 5,000 US dollars. [@2] Six people were detained
 across the two operations. [@2]
@@ -63,7 +74,7 @@ across the two operations. [@2]
 The operation in Surkhandarya region, which borders Afghanistan, involved the
 regional State Security Service and the regional police. [@1] The smuggled
 shipment held 25.444 kg of opium and 11.086 kg of hashish, the cannabis
-component recorded here. [@1] Investigators said the couriers carried drugs
+component recorded here. [@1,5] Investigators said the couriers carried drugs
 across the border by swallowing sealed packets, a method the reports call a
 "live container". [@3] The arrests at Samarkand followed a controlled delivery
 of the drugs under police watch, rather than a stop at the border. [@3]
@@ -71,5 +82,4 @@ of the drugs under police watch, rather than a stop at the border. [@3]
 Criminal cases were opened under article 246 part 2 on smuggling and article 273
 part 5 on drug trafficking, and all the suspects were remanded in custody. [@1]
 All six suspects were placed in pre-trial detention and the investigation was
-continuing. [@4]
-
+continuing. [@4,5]
