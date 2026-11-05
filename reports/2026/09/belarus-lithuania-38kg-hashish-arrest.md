@@ -38,6 +38,11 @@ sources:
     publisher: СТВ
     date: 2026-09-30
     language: ru
+  - title: Гродненские таможенники пресекли ввоз в Беларусь около 38 кг гашиша
+    url: https://belta.by/society/view/grodnenskie-tamozhenniki-presekli-vvoz-v-belarus-okolo-38-kg-gashisha-803381-2026/
+    publisher: БЕЛТА
+    date: 2026-09-29
+    language: ru
 open_questions:
   - The article gives no separate date for the detention or the seizure; 30 September 2026 is its publication date and is used as the incident date.
   - No place more precise than Belarus is named for the detention, the cache or the seizure.
@@ -48,6 +53,9 @@ open_questions:
   - The customs committee's statement did not disclose what happened to the Moldovan driver of the truck.
   - Reform.news gives the crossing's name as Kamenny Loh; the report uses the form Kamenny Log.
   - 'Left out, as its quotation was not found in Reform.news: An inspection with a scanning system confirmed the officers'' suspicions and revealed a specially constructed compartment in the vehicle''s structure.'
+  - The Belta account describes the weight as about 38 kg and publishes no exact laboratory weight.
+  - The Belta account gives no separate date for the inspection and detention; 29 September 2026 is its publication date and is used as the incident date.
+  - The Belta page carries a State Customs Committee photo credited only as Фото ГТК without describing its content, so no media entry is included.
 media:
   - kind: photo
     url: https://mlyn.by/30092026/v-belarusi-izyato-38-kg-gashisha-zaderzhan-organizator-postavok-iz-litvy/
@@ -69,10 +77,12 @@ special-purpose unit provided force support for the operation. [@1,2]
 
 The load was moved in a hiding place fitted into the semi-trailer of a heavy
 goods vehicle. [@1,2] Officers found and seized 38 kg of hashish from that hiding
-place. [@1,2]
+place. [@1,2,5]
 
 Customs opened a criminal case over the unlawful movement of drugs across the
 Belarusian state border. [@1,2] The offence carries up to 10 years in prison, a
-possible penalty rather than a sentence already handed down. [@1,2]
+possible penalty rather than a sentence already handed down. [@1,2,5]
 
-Customs officers found the hashish at the Kamenny Log checkpoint on the border with Lithuania. [@3] A Moldovan citizen was driving the truck, which was empty and had come from Lithuania. [@3] Twenty-two packages containing a dark-coloured substance were removed, and an examination confirmed it was hashish. [@3] The Grodno Regional Customs Office opened the case against the organiser under Part 2 of Article 328-1 of the Criminal Code. [@3] The customs committee's statement did not disclose what happened to the driver. [@3] The Interior Ministry's official Telegram channel reported the operation. [@4]
+Customs officers found the hashish at the Kamenny Log checkpoint on the border with Lithuania. [@3] A Moldovan citizen was driving the truck, which was empty and had come from Lithuania. [@3,5] Twenty-two packages containing a dark-coloured substance were removed, and an examination confirmed it was hashish. [@3] The Grodno Regional Customs Office opened the case against the organiser under Part 2 of Article 328-1 of the Criminal Code. [@3] The customs committee's statement did not disclose what happened to the driver. [@3] The Interior Ministry's official Telegram channel reported the operation. [@4]
+
+An inspection scan of the vehicle revealed a purpose-built niche in its structure. [@5] The man was remanded in custody. [@5]
