@@ -38,31 +38,36 @@ sources:
     url: https://www.mid-day.com/mumbai/mumbai-crime-news/article/mumbai-drug-bust-dri-seizes-7-85-kg-hashish-concealed-in-bathroom-mirror-frame-in-mumbai-one-arrested-23658480
     publisher: Mid-Day
     date: 2026-11-04
+  - title: 'Mumbai Crime: DRI Seizes 7.85 Kg Hashish Hidden Inside Bathroom Mirror Shipped From US; Consignee Arrested'
+    url: https://www.freepressjournal.in/mumbai/mumbai-crime-dri-seizes-785-kg-hashish-hidden-inside-bathroom-mirror-shipped-from-us-consignee-arrested
+    publisher: Free Press Journal
+    date: 2026-11-04
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
   - No charge details, custody status or court outcome beyond arrest under the NDPS Act were reported; investigation was described as continuing.
   - No monetary value for the seized hashish was published, so no value can be recorded.
   - Only one accessible source for this event was found after searching; no DRI statement or second outlet account could be opened.
+  - The page carries an image described in the article text as a file photo, so it is not established to show this seizure and no media entry is included.
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
 international racket that concealed hashish in a courier shipment sent from New
-York in the United States to Mumbai. [@1,2] After sustained investigation,
+York in the United States to Mumbai. [@1,2,3] After sustained investigation,
 officers identified and traced the intended recipient of the consignment. [@1]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
-[@1] Officials said further investigation is under way to uncover the larger
+[@1,3] Officials said further investigation is under way to uncover the larger
 network, identify other people involved and establish domestic and international
 linkages. [@1]
 
 Acting on specific intelligence, officers uncovered the operation and seized
-7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2]
+7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3]
 Officers intercepted and examined the suspicious courier consignment at the
-International Courier Terminal in Mumbai. [@1,2] The package had been declared as
+International Courier Terminal in Mumbai. [@1,2,3] The package had been declared as
 a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
 dismantled the wooden cuboidal frame and found eight concealed packets hidden
-inside the structure. [@1,2] Those packets contained 169 smaller packets filled
-with a blackish resinous substance of varying weights. [@1] The material tested
+inside the structure. [@1,2,3] Those packets contained 169 smaller packets filled
+with a blackish resinous substance of varying weights. [@1,3] The material tested
 positive for hashish in preliminary testing with an NDPS field testing kit. [@1]
 Officers put the total gross weight of the seized contraband at 7,850 grams.
 [@1]
