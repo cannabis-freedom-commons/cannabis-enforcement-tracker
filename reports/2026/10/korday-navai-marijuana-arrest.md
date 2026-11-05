@@ -1,15 +1,15 @@
 ---
 code: 4PBAG3
 added_at: "2026-11-04T17:40:38.813009Z"
-date: 2026-10-15
+date: 2026-10-20
 country: kz
 place: Korday checkpoint, Zhambyl region
 coordinates: [43.033, 74.713]
 precision: locality
-type: arrest
-also: [seizure]
-title: Rapper Navai held 2 months after Korday detention with 2.5 g marijuana
-summary: Russian rapper Navai (Navai Bakirov) was detained at the Korday checkpoint entering Kazakhstan on 13 October 2026 after officers found 2.5 g of marijuana in his car. The Korday district court ordered him held in custody for two months while police investigate smuggling and unlawful storage without intent to sell, and his 14 October concert in Astana was cancelled.
+type: prosecution
+also: [seizure, arrest]
+title: Navai deported after Kazakhstan closes case over reported 2.5 g marijuana
+summary: Police detained Russian rapper Navai (Navai Bakirov) at the Korday checkpoint on 13 October 2026 after finding an unspecified narcotic in his car; secondary accounts identified marijuana and reported 2.5 g. Police said on 20 October that Bakirov had been expelled from Kazakhstan and the criminal case closed on non-rehabilitating grounds, citing his first offence and active remorse.
 figures:
     arrested: 3
     kg_seized: 0.0025
@@ -72,6 +72,21 @@ sources:
     publisher: Podrobno.uz
     date: 2026-10-15
     language: ru
+  - title: Певец Navai задержан в Казахстане. Подозревается в контрабанде наркотиков
+    url: https://24.kg/article/pevec-navai-zaderzhan-v-kazahstane-podozrevaetsya-v-kontrabande-narkotikov
+    publisher: 24.kg
+    date: 2026-10-14
+    language: ru
+  - title: Популярного певца Navai задержали с наркотиками при въезде в Казахстан
+    url: https://www.inform.kz/ru/rossiyskogo-pevtsa-navai-zaderzhali-na-granitse-v-zhambilskoy-oblasti-a497fd4d
+    publisher: Kazinform
+    date: 2026-10-14
+    language: ru
+  - title: 'Арест Navai в Казахстане: что известно'
+    url: https://ria.ru/20261015/zaderzhanie-navai-2124635450.html
+    publisher: РИА Новости
+    date: 2026-10-15
+    language: ru
 open_questions:
   - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
   - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
@@ -102,12 +117,16 @@ open_questions:
   - The mother's account that security staff promised release with a fine is an unattributed family claim with no official confirmation in this outlet.
   - The page image is a press portrait of the singer, not shown to depict the checkpoint, car, seizure or detention, so no media entry is included.
   - 'Left out, as its quotation was not found in Podrobno.uz: A bag with roll-up paper and a grinder was also in the car.'
+  - The precise date and place of the case termination and expulsion were not stated; 20 October is when police reported the outcome, and Korday remains the location of the original detention.
+  - RIA reports Baza's 2.5 g marijuana estimate for Navai's car and separately mentions about 10 g of an unspecified substance with his manager; this differs from the existing report's wording that places 10 g of marijuana in the car, and the manager's substance cannot be counted as cannabis.
+  - 'Left out, as its quotation was not found in Tengrinews.kz: Kyrgyzstan''s border service was checking the circumstances of Navai''s border crossing while he had drugs with him.'
+  - 'Left out, as its quotation was not found in РИА Новости: Baza''s account put the amount of marijuana reported in Navai''s car at 2.5 g.'
 ---
 
 Police and border guards detained Russian rapper Navai, real name Navai Bakirov,
-at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5,7,9,10,11] He
+at the Korday checkpoint when he entered Kazakhstan on 13 October 2026. [@1,3,4,5,7,9,10,11,12] He
 was travelling by car from Kyrgyzstan, and officers found and seized a narcotic
-substance during the inspection of the vehicle. [@1,3,6,7,9] All three people travelling
+substance during the inspection of the vehicle. [@1,3,6,7,9,13] All three people travelling
 in the car were detained and handed to police, who placed them in a temporary
 detention facility. [@2,10,11]
 
@@ -133,3 +152,5 @@ Journalist Mikhail Kozachkov wrote on Telegram that 2.5 g of marijuana was found
 On questioning, the rapper admitted that he had bought the drugs in Bishkek. [@8,9] Kyrgyzstan's border service started an internal inquiry into the circumstances of the border-control passage after Navai's detention with drugs after crossing the border. [@8]
 
 The two men who were accompanying the singer in the car were later released. [@11] Navai's mother, Ainur Bakirova, said she believed her son would soon be released and suggested he might have been set up. [@11] Bakirova said security staff told her the matter was settled, he would be released and would pay a fine. [@11] The artist's director Rauf Gusanov declined to comment, and his former partner Anastasia Mironova said she knew nothing about the case and had stopped communicating with him. [@11]
+
+On 20 October, police said Bakirov had been expelled from Kazakhstan and his criminal case had been closed on non-rehabilitating grounds, citing a first offence and active remorse. [@14]
