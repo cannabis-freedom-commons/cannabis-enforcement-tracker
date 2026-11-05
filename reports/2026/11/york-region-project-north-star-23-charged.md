@@ -108,6 +108,9 @@ open_questions:
   - MiltonToday calls Ailsa Craig a rural village while the existing report calls it a rural community; the seven-place warrant list is otherwise identical.
   - The MiltonToday page reproduces the York police release wording, including its typographical phrase about export to the throughout North America and parts of Europe.
   - The page carries a York police handout image and a wanted-subject portrait; the portrait does not show the event itself, and the handout could not be confirmed as distinct from the police photos already linked in the report, so no media entry is added.
+  - The submitted CTV article repeats the case figures without adding from where in Ontario the other cannabis was sourced, so the report's record of the places named is unchanged.
+  - The CTV page republishes the York Regional Police media release for 4 November 2026, so it is not an independent account of the investigation.
+  - CTV uses the CTV News title on this page and a shorter SEO title, "23 charged in York Region cannabis trafficking probe", in its metadata; the report keeps the headline as published.
 ---
 
 York Regional Police have charged 23 people and are searching for another
@@ -123,7 +126,7 @@ small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12] Police also sei
 with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4,8,11] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,4,5,6,7,8,10,11,12] York police put the
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
 
 The investigation was dubbed Project North Star and was launched in February
