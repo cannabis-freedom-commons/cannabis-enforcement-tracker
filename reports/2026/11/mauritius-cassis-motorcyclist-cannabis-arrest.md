@@ -23,6 +23,11 @@ sources:
     publisher: Le Mauricien
     date: 2026-11-04
     language: fr
+  - title: 'Opérations policières : 912 infractions routières relevées en cinq jours'
+    url: https://defimedia.info/operations-policieres-912-infractions-routieres-relevees-en-cinq-jours
+    publisher: Defimedia
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No weight or description of the suspected cannabis was published, so no kilograms can be recorded.
   - The rider was not named and no age or residence was published.
@@ -30,21 +35,22 @@ open_questions:
   - No charge, custody decision or court outcome was reported.
   - Only one accessible account of the event was found; a social-media snippet for the same Cassis interception could not be opened and is not used.
   - The page image is titled only traffic sec with no caption linking it to this interception, so no media entry is included.
+  - The Defimedia roundup gives no weight or description of the suspected cannabis, and neither account names the rider or reports a charge or court outcome.
+  - A news.mu and TOP FM Mauritius post describes the intercepted rider as a 26-year-old living at Pont-Saint-Louis, Pailles, given a piece of about 425 g earlier the same evening, but their pages did not open and that account is not used.
 ---
 
 Motorcycle police chased a motorcyclist at Les Salines on Monday 2 November
-after he allegedly refused to stop when ordered. [@1] Officers intercepted the
+after he allegedly refused to stop when ordered. [@1,2] Officers intercepted the
 rider on Cassis Road after pursuing him from Les Salines. [@1] Officers seized a
-substance suspected to be cannabis during the intervention. [@1] The intercepted
-rider was also given a drug screening test that came back positive. [@1] Police
+substance suspected to be cannabis during the intervention. [@1,2] The intercepted
+rider was also given a drug screening test that came back positive. [@1,2] Police
 then handed the intercepted rider to the Bain-des-Dames police for the follow-up
-investigation. [@1]
+investigation. [@1,2]
 
 The stop occurred during an island-wide programme of five days of road checks
-carried out from 30 October to 3 November. [@1] Police said officers checked
+carried out from 30 October to 3 November. [@1,2] Police said officers checked
 1,965 vehicles and the Traffic Branch recorded 912 offences, including 227 for
-speeding. [@1] The same operations detected 17 positive drink-driving cases and
+speeding. [@1,2] The same operations detected 17 positive drink-driving cases and
 one positive drug case. [@1] Police also recorded 187 vignette and insurance
 offences and 53 number-plate offences. [@1] Officers logged 39 seat-belt cases,
 29 mobile-phone cases, 23 tinted-window cases and 332 other road offences. [@1]
-
