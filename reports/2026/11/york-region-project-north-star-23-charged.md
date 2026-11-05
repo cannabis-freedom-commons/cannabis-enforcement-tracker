@@ -66,6 +66,10 @@ sources:
     url: https://stratcann.com/enforcement/alleged-illicit-international-cannabis-ring-dismantled-in-ontario/
     publisher: StratCann
     date: 2026-11-04
+  - title: London cannabis grow-op dismantled as probe leads to 23 charged, $7.5M in drugs seized
+    url: https://lfpress.com/news/crime-courts/large-cannabis-grow-op-dismantled-in-london-as-probe-leads-to-23-charged-7-5m-in-drugs-seized/
+    publisher: London Free Press
+    date: 2026-11-04
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -81,6 +85,9 @@ open_questions:
   - The only image on the RED FM page is a generic headline template graphic, not a photo of the grow operation, seizure, raid or arrests, so no media entry is included.
   - StratCann calls Ailsa Craig a rural village while the existing report calls it a rural community; the seven-place warrant list is otherwise identical.
   - The StratCann page carries images credited as via York Regional Police, but they cannot be confirmed as distinct from the York police handout photos already in the report, so no new media entry is added.
+  - The London Free Press does not name the two London-area accused, does not say what they are charged with, and does not say where in London they live.
+  - The London Free Press gives no weight or plant count for the London grow operation, so the report's cannabis weight remains the York police project-wide figure.
+  - 'Left out, as its quotation was not found in London Free Press: Search warrants were executed between July and September at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and the rural community of Ailsa Craig.'
 ---
 
 York Regional Police have charged 23 people and are searching for another
@@ -103,9 +110,9 @@ The investigation was dubbed Project North Star and was launched in February
 2026. [@1,3,5,7] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
-Service. [@2,6,8] Investigators allege the group sourced cannabis from several
+Service. [@2,6,8,9] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
-London, before distributing it through the underground market. [@1,3,4,5] Police say
+London, before distributing it through the underground market. [@1,2,3,4,5] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
 delivery services. [@1,3,8] Search warrants were executed between July and September
@@ -118,3 +125,5 @@ The 23 people face a total of 90 charges. [@5]
 Funding from Ontario's Ministry of the Solicitor General supported the investigation through the Criminal Intelligence Service Ontario. [@6]
 
 The 23 individuals charged range in age from 22 to 74 and are from Toronto, Markham, Milton, Burlington, Ailsa Craig and Vaughan. [@7]
+
+Two London-area residents are among the 23 people charged in Project North Star. [@9]
