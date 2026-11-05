@@ -29,6 +29,11 @@ sources:
     publisher: TERAZ.sk (TASR)
     date: 2026-11-05
     language: sk
+  - title: 'Ako z filmu Ace Ventura: Polícia v nitrianskom byte narazila na exotické zvieratá aj marihuanu!'
+    url: https://www.topky.sk/cl/10/9548109/Ako-z-filmu-Ace-Ventura--Policia-v-nitrianskom-byte-narazila-na-exoticke-zvierata-aj-marihuanu-
+    publisher: Topky.sk
+    date: 2026-11-05
+    language: sk
 open_questions:
   - No weight, plant count or value for the marijuana was published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -58,3 +63,4 @@ various animals and could clearly smell marijuana. [@1]
 The man said the material was his marijuana for personal use, and after being
 asked he voluntarily handed it to the officers. [@1]
 
+Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2]
