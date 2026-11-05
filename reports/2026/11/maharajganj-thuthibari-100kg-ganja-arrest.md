@@ -84,6 +84,11 @@ sources:
     publisher: Prabhasakshi
     date: 2026-11-05
     language: hi
+  - title: यूपी के महराजगंज में कार से बरामद हुआ 60 लाख का गांजा, महिला समेत 2 गिरफ्तार, ATS ने की कार्रवाई
+    url: https://www.indiatv.in/uttar-pradesh/maharajganj-ganja-worth-60-lakh-rupees-seized-from-car-2-arrested-including-woman-2026-11-05-1253015
+    publisher: India TV Hindi
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -112,6 +117,8 @@ open_questions:
   - The page gives no calendar date for the interception beyond its report that the superintendent of police spoke on Thursday, so 5 November 2026 remains the publication date used as the incident date.
   - No court outcome beyond the production of the accused before a court is reported, and no further report of the case was found.
   - 'Left out, as its quotation was not found in Prabhasakshi: One woman smuggler was reported arrested at the scene.'
+  - The Prabhasakshi account is published from the PTI-language feed, and the India TV text repeats the same police statement, so these are not independent reporting.
+  - Neither page gives a calendar date for the interception beyond the police statement being made on a Thursday, so 5 November 2026 remains the publication date used as the incident date.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
@@ -125,6 +132,6 @@ Amar Ujala reported that a police team acting on a tip-off from an informer thre
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
 
-Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,11] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
 
-A case was registered against both accused at Thuthibari police station under the NDPS Act, and both were being produced in court. [@12] The vehicle stopped near the village was reported as a car, not a Scorpio. [@12]
+A case was registered against both accused at Thuthibari police station under the NDPS Act, and both were being produced in court. [@10,12] The vehicle stopped near the village was reported as a car, not a Scorpio. [@12]
