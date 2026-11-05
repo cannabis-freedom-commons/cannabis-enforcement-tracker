@@ -29,6 +29,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-05
     language: hi
+  - title: 'नोएडा में व्हाट्सऐप पर गांजे की तस्करी-2 तस्कर गिरफ्तार: ऑनलाइन डिलीवरी कंपनियों के नाम वाले पैकेट में भेजते थे नशा'
+    url: https://www.bhaskar.com/amp/local/uttar-pradesh/gautambudh-nagar/news/noida-ganja-smuggling-arrest-technical-engineer-whatsapp-delivery-139599657.html
+    publisher: दैनिक भास्कर
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -36,6 +41,7 @@ open_questions:
   - No court outcome beyond registration of the NDPS case was reported.
   - The source of the seized ganja and the wider network remain under investigation and were not reported.
   - ETV Bharat places both arrests near Radisson Cut in Sector 57 in one passage, but later places Manish Kumar Jha's arrest near Sector 56.
+  - Dainik Bhaskar says only that the supplier works as a technical engineer and does not mention the Delhi airport workplace reported by ETV Bharat, so the employer remains unconfirmed.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -50,7 +56,7 @@ media:
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1,2] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2,3] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1] Following questioning of Sumit, police arrested his associate
 Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1] The men were
@@ -62,17 +68,17 @@ supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
 online to Manish. [@1]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3] A
 search of Sumit's bag found small packets bearing an online delivery company's
-name containing 1 kg 900 g of ganja. [@1] Police recovered 10 kg 300 g of ganja
-from Manish. [@1] Police also seized a Splendor motorcycle, two mobile phones
-and 42 printed packets used for packing the ganja. [@1]
+name containing 1 kg 900 g of ganja. [@1,3] Police recovered 10 kg 300 g of ganja
+from Manish. [@1,3] Police also seized a Splendor motorcycle, two mobile phones
+and 42 printed packets used for packing the ganja. [@1,3]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
 online delivery companies' names to avoid suspicion during delivery. [@1] Police
 said Manish works as a technical engineer. [@1] Questioning also named another
 associate, Amit, who is already jailed in Guwahati, Assam, in a
-ganja-trafficking case. [@1] Police registered case number 385/26 under sections
+ganja-trafficking case. [@1,3] Police registered case number 385/26 under sections
 8/20 of the NDPS Act at Sector-58 police station and are investigating the
 supply source and others linked to the network. [@1]
 
