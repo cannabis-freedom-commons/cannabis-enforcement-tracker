@@ -53,6 +53,11 @@ sources:
     publisher: Khabarchalisa News
     date: 2026-11-05
     language: hi
+  - title: 'बस्तर: ओडिशा से UP जा रहा 2.38 करोड़ का 476 किलो गांजा ज़ब्त, 7 धरे गए'
+    url: https://cgkhabar.com/news/bastar-476-kg-of-cannabis-worth-2-point-38-crore-being-transported-from-odisha-to-up-seized-7-arrested-20261105
+    publisher: CGKhabar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -61,10 +66,15 @@ open_questions:
   - The Amar Ujala photo is captioned as a symbolic picture, so no media entry is included from it.
   - Lalluram reports 476 kg, while the existing report retains Haribhoomi's more precise figure of 476.5 kg.
   - Lalluram's image has no caption or descriptive alt text establishing that it shows this seizure, so it is not added as event media.
+  - CGKhabar reports 476 kg while the existing report uses Haribhoomi's more precise 476 kg 500 g, so the precise figure is retained.
+  - CGKhabar names no accused and does not mention the three minors, so names and juvenile detail continue to rest on earlier sources.
+  - CGKhabar does not give the Adamvali crossing location, sack and packet count, phones, cash, NDPS section or court-production detail, which continue to rest on earlier sources.
+  - The article gives no separate interception time and 5 November 2026 is its publication date, which the existing report uses as the incident date.
+  - The page image is captioned POlice Van- Symbolic Photo and is not shown to depict this seizure, so no media entry is included.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
 Chitrasen Gallauri, 22. [@2] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2] Haribhoomi
@@ -89,11 +99,11 @@ Police said Bastar police acted against drug trafficking and arrested seven
 traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
-rupees, in line with the more precise figure. [@1] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5] Officers seized a Tata pickup and a
-motorcycle used in the smuggling at the scene. [@1,3,4] Jagdalpur police sealed off
+rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6] Officers seized a Tata pickup and a
+motorcycle used in the smuggling at the scene. [@1,3,4,6] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
-ganja from Odisha to Uttar Pradesh. [@1]
+ganja from Odisha to Uttar Pradesh. [@1,6]
 
 Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
