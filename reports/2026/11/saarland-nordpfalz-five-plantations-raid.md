@@ -56,6 +56,16 @@ sources:
     publisher: SWR Aktuell
     date: 2026-11-05
     language: de
+  - title: 'ZOLL-F: Zollfahndung Frankfurt: Fünf illegale Cannabisplantagen ausgehoben, acht Festnahmen'
+    url: https://www.presseportal.de/blaulicht/pm/116258/6384444
+    publisher: Presseportal (Zollfahndungsamt Frankfurt am Main)
+    date: 2026-11-05
+    language: de
+  - title: Fünf illegale Cannabisplantagen ausgehoben
+    url: https://www.zoll.de/SharedDocs/Pressemitteilungen/DE/Rauschgift/2026/z23_cannabisplantagen_zfaf.html
+    publisher: Zoll (Generalzolldirektion)
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -69,28 +79,29 @@ open_questions:
   - 'Left out, as its quotation was not found in SOL.DE: Officers also secured about 22,000 euros in cash.'
   - 'Left out, as its quotation was not found in SOL.DE: The investigation had been running since spring 2026.'
   - 'Left out, as its quotation was not found in SOL.DE: The case began with a May customs check near Pirmasens, when officers found about 20 kilograms of marijuana in a car boot.'
+  - 'Left out, as its quotation was not found in Zoll (Generalzolldirektion): The Federal Criminal Police Office crime-scene unit, the Saarbrücken main customs office and state police helped secure the plantations.'
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
-and dealing cannabis. [@1] The suspects allegedly used vacant buildings to
+and dealing cannabis. [@1,4] The suspects allegedly used vacant buildings to
 operate illegal plantations and sold the marijuana in the surrounding Greater
-Region and in France. [@1,3] The eight were brought before an investigating judge,
+Region and in France. [@1,3,4] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
-[@2]
+[@2,5]
 
 Officers searched eleven homes and business premises in Saarland and the
-Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1] They seized 11.5
+Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4] They seized 11.5
 kilograms of marijuana and one kilogram of hashish, together with 33 kilograms
-of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1]
+of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4]
 Investigators also seized a tablet press, blank-firing and air weapons plus
-another possibly live firearm. [@2]
+another possibly live firearm. [@2,5]
 
 French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3] The Federal Criminal Police Office
+same time and arrested 13 people. [@1,3,4] The Federal Criminal Police Office
 crime-scene unit, the Saarbrücken main customs office and state police helped
 secure the plantations. [@2] The authorities said the investigations are still
-ongoing. [@2,3]
+ongoing. [@2,3,5]
 
 Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
