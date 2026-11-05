@@ -87,6 +87,8 @@ open_questions:
   - 'Left out, as its quotation was not found in صدى البلد: Officers allegedly recovered about 10 kg of marijuana from four separate bags belonging to the pair.'
   - 'Left out, as its quotation was not found in صدى البلد: The bags were examined more closely after Central Industrial Security Force personnel and other security staff flagged something suspicious during routine screening.'
   - 'Left out, as its quotation was not found in صدى البلد: The consignment was reported to be worth about Rs 10 crore on the international market, although that valuation was not officially confirmed.'
+  - The Hindustan Times account gives no value for the consignment beyond a figure it reports without official confirmation, and the existing report continues to record no value.
+  - The attached picture on the Hindustan Times page is a representative file photo, so no media entry is added.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
@@ -97,21 +99,21 @@ staff reportedly noticed suspicious contents during baggage screening. [@1,3] Th
 were questioned for about eight hours before being formally arrested. [@1,3,4,7]
 
 Officers allegedly recovered about 10 kg of marijuana from four separate bags
-belonging to the pair. [@1,2,5,7] The bags were examined more closely after Central
+belonging to the pair. [@1,2,5,6,7] The bags were examined more closely after Central
 Industrial Security Force personnel and other security staff flagged something
 suspicious during routine screening. [@1,2,5,6] The consignment was reported to be
 worth about Rs 10 crore on the international market, although that valuation was
 not officially confirmed. [@1,2]
 
 Airport sources said six people had travelled to Thailand about four days before
-the seizure. [@1,7,9,10] The two women arrived back at Gaya with the suspected
-narcotics, while the other four had reportedly not yet returned. [@1,9,10] Customs
+the seizure. [@1,6,7,9,10] The two women arrived back at Gaya with the suspected
+narcotics, while the other four had reportedly not yet returned. [@1,6,9,10] Customs
 investigators are examining the group's possible connection to the consignment
 and whether others were involved, working to establish its origin and intended
 destination. [@1,9]
 
 Dainik Bhaskar reported that this was the fourth case of marijuana being caught at Gaya airport this year. [@4] Bhaskar reported that officials declined to answer questions about where the consignment was to be delivered and how many people were behind the smuggling. [@4]
 
-Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6,9,10] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@7,9] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7,8]
+Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6,9,10] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@6,7,9] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7,8]
 
-Officials said the women's permanent addresses in Punjab were still being verified. [@10]
+Officials said the women's permanent addresses in Punjab were still being verified. [@6,10]
