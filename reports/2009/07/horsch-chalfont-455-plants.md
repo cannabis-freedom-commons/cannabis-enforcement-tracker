@@ -46,6 +46,10 @@ sources:
     url: https://6abc.com/post/rc-horsch-provided-feds-information-child-prostitution-drug-trafficking-documents-show/19996003/
     publisher: 6abc Philadelphia
     date: 2026-10-29
+  - title: Timeline of investigation into missing women connected to Horsch Philly house
+    url: https://6abc.com/post/investigation-timeline-missing-women-connected-ray-eugene-horschs-chew-avenue-house-philadelphias-olney-section/19839936/
+    publisher: 6abc Philadelphia
+    date: 2026-10-30
 open_questions:
   - The sources give only 2012 for the sentencing; the exact date of the sentencing hearing is not stated.
   - One Inquirer account said Horsch faced a 15-year minimum, while other reports cite a 20-year mandatory minimum; the report uses 20 years.
@@ -56,6 +60,7 @@ open_questions:
   - 'Left out, as its quotation was not found in The Philadelphia Inquirer: They found 455 marijuana plants and two sawed-off shotguns.'
   - 'Left out, as its quotation was not found in The Philadelphia Inquirer: The case was referred for federal prosecution, and he was charged in December 2009 with possession with intent to distribute and firearms offenses.'
   - 6abc describes the federal plea as possession of more than 100 marijuana plants with intent to distribute and two firearms offences, while the report's text says Horsch pleaded guilty to manufacturing marijuana and illegal gun possession.
+  - This 6abc timeline says more than 200 marijuana plants were removed from the Chalfont property and quotes the arresting chief as saying nearly 200 were seized, while the report's figure is 455 plants; the report keeps 455.
 ---
 
 Officers found no intruder and discovered an indoor marijuana grow in the
@@ -64,7 +69,7 @@ after a short chase. [@4] New Britain Township police charged him with
 manufacturing a controlled substance and attempted sale. [@4]
 
 In 2009, Horsch faced federal charges after the raid at his Chalfont home, where
-police found an illegal marijuana grow operation. [@1] He pleaded guilty to
+police found an illegal marijuana grow operation. [@1,7] He pleaded guilty to
 manufacturing marijuana and illegal gun possession, charges that carried a
 20-year mandatory minimum. [@2] Court records put the plants’ weight at 89.3
 pounds (about 40.5 kg). [@3] In 2012, U.S. District Judge R. Barclay Surrick
@@ -78,3 +83,5 @@ government later acknowledged that his information did not lead to further
 prosecutions. [@3]
 
 Horsch forfeited the weapons and his Chalfont home as part of his sentence. [@6]
+
+Robert Scafidi, the former police chief of New Britain Township, said officers seized nearly 200 marijuana plants from the Chalfont home after obtaining a search warrant. [@7] Scafidi said firearms and identification cards for several women were also found during the investigation, and that the district attorney's office took them for follow-up. [@7] Court documents cited in the account record a 54-month federal prison sentence for Horsch with credit for time served in Bucks County jail. [@7]
