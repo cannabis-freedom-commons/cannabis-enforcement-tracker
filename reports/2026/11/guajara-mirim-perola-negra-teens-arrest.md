@@ -28,6 +28,11 @@ sources:
     publisher: Portal Guajará
     date: 2026-11-03
     language: pt
+  - title: Dois adolescentes são apreendidos com drogas sintéticas e maconha próximo a porto clandestino 'Pérola Negra'
+    url: https://sgc.com.br/noticia/5/453975/dois-adolescentes-sao-apreendidos-com-drogas-sinteticas-e-maconha-proximo-a-porto-clandestino-perola-negra
+    publisher: Portal SGC
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No weight was published for the three cannabis portions, so no kilograms can be recorded.
   - The 12 capsules are described only as having synthetic-drug characteristics known as bala and are excluded from cannabis figures; they are not identified as synthetic cannabinoids.
@@ -40,25 +45,24 @@ open_questions:
 
 Military Police officers of the 6th Battalion apprehended two 17-year-old
 adolescents late on the night of Monday 2 November 2026 near the Pérola Negra
-clandestine port in the Triângulo neighbourhood of Guajará-Mirim, Rondônia. [@1]
+clandestine port in the Triângulo neighbourhood of Guajará-Mirim, Rondônia. [@1,3]
 The patrol was operating in the area when it spotted two young people acting
 suspiciously. [@1] The pair were travelling on a silver Honda Biz motorcycle
 carrying two occupants. [@2] One of them got off and stayed at the spot while
-the driver headed toward the commercial centre. [@1]
+the driver headed toward the commercial centre. [@1,3]
 
 Officers stopped the teenager who stayed and found the drugs during a search of
 his backpack. [@1] Officers found 12 capsules of a substance described as having
-synthetic-drug characteristics, popularly known as bala. [@1] Officers also
+synthetic-drug characteristics, popularly known as bala. [@1,3] Officers also
 found three portions of plant material described as similar to maconha, the
-Portuguese term for cannabis. [@2]
+Portuguese term for cannabis. [@2,3]
 
 The second adolescent returned shortly afterwards, was also stopped, claimed
-ownership of the drugs and said he had bought the material in Bolivia. [@1] He
+ownership of the drugs and said he had bought the material in Bolivia. [@1,3] He
 said part of the drugs had already been sold in Brazilian territory and the rest
-would be sold at a party in the neighbouring country. [@1] Officers took the two
+would be sold at a party in the neighbouring country. [@1,3] Officers took the two
 teenagers, the motorcycle, the drugs and mobile phones to the Regional Civil
-Police station, where a child-welfare counsellor accompanied the case. [@1] The
+Police station, where a child-welfare counsellor accompanied the case. [@1,3] The
 teenagers’ legal guardians were called to follow the procedures, which were also
 accompanied by a child-welfare counsellor. [@2] He also said he intended to
 return to Bolivia to attend a party and sell the remainder. [@2]
-
