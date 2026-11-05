@@ -82,6 +82,11 @@ sources:
     url: https://www.miltontoday.ca/police-beat/milton-linked-to-75m-illicit-cannabis-trafficking-and-exportation-ring-12978229
     publisher: MiltonToday.ca
     date: 2026-11-04
+  - title: 約克區警方搗破大麻走私集團　23人被捕、一華裔疑犯在逃
+    url: https://www.singtao.ca/7675082/2026-11-04/news-%E7%B4%84%E5%85%8B%E5%8D%80%E8%AD%A6%E6%96%B9%E6%90%97%E7%A0%B4%E5%A4%A7%E9%BA%BB%E8%B5%B0%E7%A7%81%E9%9B%86%E5%9C%98%E3%80%8023%E4%BA%BA%E8%A2%AB%E6%8D%95%E3%80%81%E4%B8%80%E8%8F%AF%E8%A3%94%E7%96%91%E7%8A%AF%E5%9C%A8%E9%80%83/
+    publisher: Sing Tao Canada 星島加拿大
+    date: 2026-11-04
+    language: zh
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -111,26 +116,28 @@ open_questions:
   - The submitted CTV article repeats the case figures without adding from where in Ontario the other cannabis was sourced, so the report's record of the places named is unchanged.
   - The CTV page republishes the York Regional Police media release for 4 November 2026, so it is not an independent account of the investigation.
   - CTV uses the CTV News title on this page and a shorter SEO title, "23 charged in York Region cannabis trafficking probe", in its metadata; the report keeps the headline as published.
+  - The Sing Tao page carries three York Regional Police handout images without captions or credits; they could not be confirmed as distinct from the grow-operation and firearm handout photos already linked in the report from CP24, so no media entry was added.
+  - Sing Tao repeats the York Regional Police account without independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5,6,7,12]
+[@1,3,4,5,6,7,12,13]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8]
+small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13] Police also seized two firearms
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13]
 Two Ford pickup trucks were also seized, one of which police allege had been
-re-vinned. [@1,3,4,8,11] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12] York police put the
+re-vinned. [@1,3,4,8,11,13] Police estimated the cannabis taken from the London grow
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
 
 The investigation was dubbed Project North Star and was launched in February
-2026. [@1,3,5,7,12] It was led by the York Regional Police Complex Investigation Unit, in
+2026. [@1,3,5,7,12,13] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
 Service. [@2,6,8,9,10,11,12] Investigators allege the group sourced cannabis from several
@@ -138,9 +145,9 @@ locations across Ontario, including a large-scale illegal grow operation in
 London, before distributing it through the underground market. [@1,2,3,4,5] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
-delivery services. [@1,3,8] Search warrants were executed between July and September
+delivery services. [@1,3,8,13] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12] The investigation shut down the illicit
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13] The investigation shut down the illicit
 cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11]
 
 The 23 people face a total of 90 charges. [@5]
