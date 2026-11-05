@@ -19,6 +19,11 @@ media:
     media_url: https://www1.teraz.sk/usercontent/photos/3/6/2/4-36279714d390de406113961f3174b051d39b2270.jpg
     publisher: TERAZ.sk
     caption: 'Police photograph published with the raid report; the paper describes its caption as a police photo without stating what it shows. Photo: Polícia SR – Nitriansky kraj'
+  - kind: photo
+    url: https://www.nitrak.sk/clanky/12450/krokodily-a-exoticke-zvierata-v-panelaku-v-nitre-policia-preverovala-zvlastne-oznamenie-v-byte-vsak-nasla-aj-nieco-ine
+    media_url: https://www.nitrak.sk/assets/images/nr/photoalbums/img-1/2026-11/1793874880-foto-policia-zasahovala-v-byte-v-nitre-kde-mali-chovat-exoticke-zvierata-nasla-aj-marihuanu-1.jpg
+    publisher: Nitrak.sk
+    caption: 'First of nine police photographs published with the article and its photo gallery of the apartment intervention; the gallery is credited to the Facebook page of the Nitra regional police and states no further caption. Foto: FB: Polícia SR - Nitriansky kraj'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0df0ad38cdac19e25281bee90ab105b1
@@ -39,6 +44,11 @@ sources:
     publisher: Nový Čas
     date: 2026-11-05
     language: sk
+  - title: Krokodíly a exotické zvieratá v paneláku v Nitre? Polícia preverovala zvláštne oznámenie, v byte však našla aj niečo iné
+    url: https://www.nitrak.sk/clanky/12450/krokodily-a-exoticke-zvierata-v-panelaku-v-nitre-policia-preverovala-zvlastne-oznamenie-v-byte-vsak-nasla-aj-nieco-ine
+    publisher: Nitrak.sk
+    date: 2026-11-05
+    language: sk
 open_questions:
   - No weight, plant count or value for the marijuana was published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -50,14 +60,17 @@ open_questions:
   - The photo's caption identifies it only as a police photo from the Nitra regional police; the article does not say what it shows.
   - The user reported the source text as unavailable, but the full article was opened and used; no evidence came from a failed fetch.
   - 'Left out, as its quotation was not found in TERAZ.sk (TASR): Inside the apartment, besides various animals, officers saw a plastic tray with a grinder holding an unidentified dried plant material.'
+  - The gallery's nine photographs are credited only to the police Facebook page and carry no individual captions, so what each frame shows cannot be established beyond the article's account of the apartment intervention; only the first photo has been linked.
+  - The article gives no separate date for the intervention; 5 November 2026 is its publication date, the same day the existing report uses.
+  - 'Left out, as its quotation was not found in Nitrak.sk: The Nitra regional police directorate said the check concerning animal keeping was passed to the competent authority for further action.'
 ---
 
 Police in Nitra detained a 24-year-old man after finding marijuana in an
-apartment on a housing estate in the city. [@1] Officers had gone to the address
+apartment on a housing estate in the city. [@1,4] Officers had gone to the address
 to check a report that unknown people were carrying exotic animals, probably
-crocodiles, out of the 12th-floor apartment. [@1,3] A designated officer opened
+crocodiles, out of the 12th-floor apartment. [@1,3,4] A designated officer opened
 criminal proceedings over the misdemeanour of unauthorised possession of a
-narcotic and psychotropic substance. [@1,3] The Nitra regional police directorate
+narcotic and psychotropic substance. [@1,3,4] The Nitra regional police directorate
 said the check concerning animal keeping was passed to the competent authority
 for further action. [@1,3]
 
@@ -66,6 +79,6 @@ Officers from the rapid-response motorised unit went to verify the situation.
 various animals and could clearly smell marijuana. [@1,3]
 
 The man said the material was his marijuana for personal use, and after being
-asked he voluntarily handed it to the officers. [@1,3]
+asked he voluntarily handed it to the officers. [@1,3,4]
 
 Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2,3]
