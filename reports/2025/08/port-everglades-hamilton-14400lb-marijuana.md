@@ -43,6 +43,11 @@ sources:
     url: https://www.cbsnews.com/miami/news/coast-guard-offload-76000-pounds-cocaine-port-everglades/
     publisher: CBS News Miami
     date: 2025-08-25
+  - title: Guardacostas de EEUU incautan drogas en aguas internacionales frente a México y Venezuela
+    url: https://www.elnuevoherald.com/noticias/florida/sur-de-la-florida/article311855015.html
+    publisher: El Nuevo Herald
+    date: 2025-08-26
+    language: es
 open_questions:
   - The $473 million valuation covers cocaine and marijuana together and cannot be separated into a marijuana-only value, so it is kept in the text and omitted from figures.
   - The cocaine quantity and its 23 million lethal doses are mentioned only as context and are excluded from cannabis figures.
@@ -52,22 +57,24 @@ open_questions:
   - No charges, prosecutions or court outcomes beyond the detentions were reported.
   - The Telemundo page's lead image is an uncaptioned Getty Images stock photo not shown to be this offload, so no photo entry is listed for it.
   - 'Left out, as its quotation was not found in gCaptain: The 76,140-pound offload, taken from 19 interdictions between June and August 2025, was the largest quantity of drugs offloaded in Coast Guard history.'
+  - El Nuevo Herald places one of the Acapulco-area marihuana and cocaine figures in waters off Venezuela rather than itemising it, so its cannabis portion cannot be separated from the 17,153-pound combined figure and is left out of the report's figures.
+  - El Nuevo Herald's two named marijuana seizures, 9,088 and 2,615 pounds (5,300 kg combined), do not account for the whole of the offloaded marijuana, and the article does not say where the rest was taken.
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
-Port Everglades, Florida, on Monday 25 August 2025. [@2] CBS Miami reported the
+Port Everglades, Florida, on Monday 25 August 2025. [@2,4] CBS Miami reported the
 drugs were brought to port by the Coast Guard Cutter Hamilton after 19
 interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3] The
 interdicted vessels were stopped off Ecuador's Galapagos Islands and off the
-coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1]
+coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4]
 
 Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
 34 suspected drug traffickers. [@2] Telemundo reported that 34 suspected
 traffickers were held but that the authorities did not state how many suspects
 were detained in all the interdictions together. [@1] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
-of cocaine. [@3] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2]
+of cocaine. [@3,4] The Coast Guard valued the cocaine and marijuana together at
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
@@ -77,3 +84,4 @@ vessels USS Cole and USS Minneapolis Saint-Paul. [@2] The Coast Guard described
 the interdictions as part of Operation Pacific Viper, an initiative to speed up
 counter-drug work in the Eastern Pacific Ocean. [@2]
 
+Separate interdictions netted 20,830 pounds of cocaine south of Acapulco and 17,153 pounds of cocaine and marijuana in international waters off north and north-central Venezuela. [@4] A 9,088-pound marijuana seizure was made on 11 July about 17 miles northeast of Silva, in the José Laurencio Silva municipality at the eastern end of Venezuela's Falcón state. [@4] Officers also intercepted a fast boat about 52 miles north of Venezuela's Carabobo state, seizing 2,615 pounds of marijuana. [@4]
