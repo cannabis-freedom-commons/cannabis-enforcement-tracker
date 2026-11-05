@@ -39,19 +39,25 @@ sources:
     publisher: Sambad
     date: 2026-11-04
     language: or
+  - title: Three held with 20.8 kg of ganja
+    url: https://www.orissapost.com/three-held-with-20-8-kg-of-ganja/
+    publisher: OrissaPOST
+    date: 2026-11-05
 open_questions:
   - The articles give no separate date for the raid; 4 November 2026 is the publication date and is used as the incident date.
   - The location is named as Anala Canal road in one account and Hatadihi Tahasil road in the other; the report uses the police-jurisdiction description while noting the difference.
   - One account lists three mobile phones among the seized items while the other lists an electric vehicle; it is unclear whether both were seized.
   - No charges, custody ruling or court outcome were reported; a police case was registered and the investigation was continuing.
   - No cannabis-only valuation was published; the cash, gold and silver figures are separate seizures, not a drug value.
+  - The new account reports 20.8 kg of ganja while the existing report records 21 kg, likely rounding, so the existing figure is retained.
+  - The OrissaPOST page labels its only relevant image as Representational Image, so no new event photo from this source is added.
 ---
 
 Keonjhar Police arrested three people during a raid on Anala Canal road under
-Nandipada police station in Anandapur subdivision. [@1] The three arrested men
+Nandipada police station in Anandapur subdivision. [@1,3] The three arrested men
 were identified as 27-year-old Jaganath Mallick of Jalakalanga and 43-year-old
 Prakash Kumar Nayak and 39-year-old Sanyashi Charan Nayak of Betira village in
-Keonjhar district. [@1] A second account describes the site as Hatadihi Tahasil
+Keonjhar district. [@1,3] A second account describes the site as Hatadihi Tahasil
 road where Nandipada police seized 21 kg of ganja and arrested three accused.
 [@2]
 
@@ -59,7 +65,7 @@ Officers seized 21 kg of cannabis in the operation. [@1] Police also seized Rs
 3,93,300 in cash, 70 grams of gold, 260 grams of silver and three mobile phones
 from the accused. [@1] The second account lists the additional seizure as Rs
 3,93,000 in cash, 70 grams of gold ornaments, 260 grams of silver ornaments and
-an electric vehicle. [@2]
+an electric vehicle. [@2,3]
 
 Nandipada police waited on the road overnight after learning that ganja was
 being moved along that route. [@2] Police first detained a youth who was
@@ -67,3 +73,4 @@ carrying ganja on a scooty. [@2] His statement led officers to two more people
 involved in the trade. [@2] Police registered a case at the police station and
 the sub-divisional police officer announced the arrests at a press meet. [@2]
 
+The trio was travelling towards Bhadrak from Anandapur when police intercepted them on the Ana canal road near the Hatadihi tehsil office. [@3] Police estimated the seized ganja to be worth Rs 1.26 lakh. [@3] Police were investigating the source and destination of the consignment and possible links to a wider trafficking network. [@3]
