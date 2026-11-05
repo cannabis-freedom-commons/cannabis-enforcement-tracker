@@ -51,6 +51,14 @@ sources:
     url: https://en.vijesti.me/world-a/balkan/794827/Marijuana-seized-in-Macedonia-leads-to-family-of-former-Prime-Minister-Zaev
     publisher: Vijesti
     date: 2026-02-07
+  - title: 27 tons of marijuana seized in North Macedonia linked to Serbia trafficking
+    url: https://n1info.rs/english/news/27-tons-of-marijuana-seized-in-north-macedonia-linked-to-serbia-trafficking
+    publisher: N1
+    date: 2026-02-06
+  - title: 'North Macedonia: 27 tons of marijuana seized, a case connected to Serbia'
+    url: https://vreme.com/en/svet/severna-makedonija-zaplenjena-marihuana/
+    publisher: Vreme
+    date: 2026-02-06
 open_questions:
   - The published total is "more than 40 tons" of flowers and biomass; the 1,300 bottles of cannabis oil seized near Skopje are counted separately from that weight.
   - The Interior Ministry disclosed no arrests or named suspects and said the nationwide operation was continuing, so the total may have grown after 7 February.
@@ -70,13 +78,16 @@ open_questions:
   - The Ministry page image is captioned only with the article title and does not establish what it depicts, so no media entry is included.
   - Vijesti attributes the identification of CBD Medplant and the 21-ton figure to N1; the Interior Ministry statement does not identify the eastern-region companies.
   - The submitted page contains only a Shutterstock illustration, not an event photograph or video.
+  - Vreme and N1 report ten tons seized at the former OHIS complex in Skopje, while the existing report records nine tons at a factory near Skopje; it is unclear whether the difference reflects rounding, an early count or a changed tally.
+  - Vreme's co-owner initials DS and the ownership change it describes come from the Serbian Central Register as reported by Vreme, not from a Macedonian registry document.
+  - Vreme says Alfafarm DOO Skopje was registered for growing herbs and medicinal plants for pharmaceutical purposes; the existing report describes the raided Skopje business as an ALAFARM GROUP factory, and whether these are the same registered entity is not directly confirmed.
 ---
 
 ## Record raids on licensed growers
 
-Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4,5,7] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4,7] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4,7,8] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3,6]
+Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4,5,7,10] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1,10] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4,7] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4,7,8,10] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3,6]
 
-The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3,7] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4,5] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4,7] The firms and the people involved were not officially named. [@1]
+The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3,7] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4,5,9,10] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4,7] The firms and the people involved were not officially named. [@1]
 
 ## Reactions
 
@@ -87,3 +98,5 @@ The Skopje search targeted the ALAFARM GROUP factory. [@3,6] Telma reported that
 One of the suspects detained in Serbia less than two weeks before the 9 February 2026 report was linked to the Skopje company's ownership. [@4,7] Customs officials and the Health Ministry's supervisory commission joined police and organised-crime prosecutors in the joint investigation team. [@4,7] Prime Minister Hristijan Mickoski called the uncovered irregularities catastrophic and said authorities were continuing the investigation. [@4] Prime Minister Mickoski said the Serbia seizure was part of the same network and that the drugs seized in Serbia probably originated from North Macedonia. [@4]
 
 N1 reported a 21-ton marijuana seizure from CBD Medplant in Borisovo, Novo Selo. [@8]
+
+The Skopje seizure took place at the former OHIS industrial complex. [@9] Vreme reported that a dozen vans, five trucks and police and customs vehicles entered the former OHIS factory late on Thursday afternoon. [@10] The trading company Alfafarm DOO Skopje, registered in 2023 for growing and processing herbs and medicinal plants for pharmaceutical purposes, is at the centre of the investigation. [@10] According to the Central Register, the company has share capital of about 529,000 euros and several co-owners, all from Kruševac. [@10] The change in Alfafarm's ownership structure came immediately before the five-tonne seizure in Serbia, when DS with a Vienna address left the co-ownership. [@10] Macedonian institutions released no official details, explaining that the operation was still ongoing. [@10]
