@@ -44,6 +44,15 @@ sources:
     url: https://en.politis.com.cy/news/cy-news/1063654/cyprus-fbi-led-operation-nets-26-arrests-in-major-drug-crackdown
     publisher: Politis
     date: 2026-11-05
+  - title: Cyprus Police Arrest 26 People in Operation Plegma Against Organised Crime
+    url: https://www.kiprinform.com/en/news/cyprus-police-arrest-26-people-in-operation-plegma-against-organised-crime/
+    publisher: Cyprus Inform
+    date: 2026-11-05
+  - title: Η Αστυνομία συνέλαβε 26 άτομα στην πανεθνική επιχείρηση «Πλέγμα» κατά των δικτύων ναρκωτικών
+    url: https://www.kiprinform.com/el/news/i-astynomia-synelave-26-atoma-stin-panethniki-epicheirisi-plegma-kata-ton-diktyon-narkotikon/
+    publisher: Cyprus Inform
+    date: 2026-11-05
+    language: el
 open_questions:
   - The 171.5 kg total is the sum of 167 kg of cannabis and 4.5 kg of cannabis resin reported from the February phase of the same case; the small cannabis quantities seized on 5 November were not quantified and are not included.
   - The 62 kg of cocaine reported alongside the cannabis is mentioned only for context and is excluded from cannabis figures, as is any combined drug total.
@@ -55,22 +64,25 @@ open_questions:
   - The Chinese account does not say how much cannabis or cocaine was found on the passenger stopped in the car on 19 February.
   - The Cyprus Police News page includes uncaptained images, so the opened page does not establish which ones depict the arrests or seized items.
   - 'Left out, as its quotation was not found in Cyprus Police News: Police arrested 26 people on Thursday in the operation codenamed Plegma to crack down on organised crime.'
+  - The submitted short account says police seized more than 25,000 euros in cash and simply firearms, while the existing report records 25,025 euros with a pistol and a hunting rifle from the detailed account; the report keeps the detailed figures.
+  - The submitted page describes the investigation as starting after measures that began in February without naming the 19 February vehicle stop, so the existing report's account of that stop remains based on the detailed coverage.
+  - 'Left out, as its quotation was not found in Cyprus Inform: Working with Mokas, the anti-money-laundering unit, police obtained court orders freezing assets tied to the investigation.'
 ---
 
 Police arrested 26 people on Thursday in the operation codenamed Plegma to crack
-down on organised crime. [@1,3,4] Officers carried out 27 court-authorised searches
+down on organised crime. [@1,3,4,7] Officers carried out 27 court-authorised searches
 across the Nicosia, Limassol, Larnaca and Famagusta districts and at the Central
-Prisons, covering homes, other premises, vehicles and prison cells. [@2,3,4,5] Police
+Prisons, covering homes, other premises, vehicles and prison cells. [@2,3,4,5,8] Police
 said the arrests were part of an investigation into suspected drug trafficking,
 participation in a criminal organisation, money laundering and illegal
 possession of explosives. [@2] Police said five defendants from the February
-case were already in custody. [@2,3,4]
+case were already in custody. [@2,3,4,7]
 
 The investigation began on 19 February when anti-narcotics officers stopped a
 vehicle in the Nicosia district and found 11,480 firecrackers along with
-cannabis and cocaine. [@2,3,4] Searches linked to that stop then uncovered 167 kg of
+cannabis and cocaine. [@2,3,4,8] Searches linked to that stop then uncovered 167 kg of
 cannabis and 4.5 kg of cannabis resin, a combined 171.5 kg of cannabis,
-alongside 62 kg of cocaine. [@1,3,4] During the 5 November searches, officers seized
+alongside 62 kg of cocaine. [@1,3,4,7] During the 5 November searches, officers seized
 25,025 euros in cash, 37 mobile phones, a pistol, a hunting rifle, ammunition
 and small quantities of cannabis and cocaine. [@2,3,4] Working with the
 anti-money-laundering unit, police obtained court orders freezing a house, plots
