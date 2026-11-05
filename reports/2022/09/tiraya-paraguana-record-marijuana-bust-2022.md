@@ -1,0 +1,56 @@
+---
+added_at: "2026-11-05T02:14:23.747Z"
+code: "DVVMCT"
+date: 2022-09-03
+country: ve
+place: Off the Paraguaná Peninsula, Falcón State (seizure displayed at Tiraya)
+coordinates: [12.0464, -69.8538]
+precision: locality
+type: seizure
+also: [arrest]
+title: 2.8 tonnes of marijuana seized off Paraguaná in decade's biggest bust
+summary: >-
+  Venezuela's armed forces intercepted a boat off the Caribbean coast on 3
+  September 2022 carrying 2,857 kg of marijuana and 8 kg of cocaine, the
+  country's biggest marijuana stash in a decade. Twelve Venezuelans were
+  arrested on the Colombia-to-Martinique run.
+figures:
+  arrested: 12
+  kg_seized: 2857
+media:
+  - kind: photo
+    url: https://www.specialforcesnews.com/venezuela-armed-forces-make-largest-pot-bust-in-a-decade/
+    media_url: https://www.specialforcesnews.com/wp-content/uploads/2022/09/Venezuela-Armed-forces-make-largest-pot-bust-in-a-decade.jpg
+    publisher: "Special Forces News (photo: Associated Press)"
+    caption: Armed forces guard seized marijuana bales and fuel barrels on the beach at Tiraya
+created_by_model: muse-code/muse-spark-1.3#xhigh
+status: verified
+tags: [paraguana, maritime, cartel-de-la-guajira]
+sources:
+  - title: "Venezuela: Armed forces make largest pot bust in a decade"
+    url: https://vcpnewz.com/2022/09/05/venezuela-armed-forces-make-largest-pot-bust-in-a-decade/
+    publisher: VCP Newz (Associated Press, by Regina Garcia Cano)
+    date: 2022-09-05
+  - title: Record 2.8 Tonnes Of Drugs Seized On Paraguana Peninsula In Venezuela - General Commander
+    url: https://www.pakistanpoint.com/amp/en/story/1558374/record-28-tonnes-of-drugs-seized-on-paraguana-peninsul.html
+    publisher: Pakistan Point (Sputnik)
+    date: 2022-09-06
+open_questions:
+  - The 8 kg of cocaine found on the same boat is a non-cannabis amount excluded from the cannabis figures.
+  - The interception happened on 3 September and was announced on 5 September; 3 September is used as the incident date.
+  - No names, charges or court outcome for the twelve arrested men were reported.
+---
+
+On 3 September 2022 Venezuela's armed forces intercepted an unmarked vessel off
+the Caribbean coast carrying more than 3.1 US tons (2.8 metric tons) of
+marijuana and almost 18 pounds (8 kg) of cocaine, along with seven spare
+outboard motors, 33 large fuel containers and a satellite phone. [@1,2] The
+boat had sailed from Colombia and was bound for the island of Martinique.
+[@1]
+
+Twelve Venezuelans travelling on the boat were arrested. [@1,2] General
+Domingo Hernández Lárez, head of the Operational Strategic Command of the
+armed forces, said they worked for the Colombia-based Cartel of the Guajira.
+[@1,2] The 2,857 kg of marijuana was displayed at a beachside camp in the
+village of Tiraya on the Paraguaná Peninsula, which the military called the
+most important marijuana stash found in the country since 2012. [@1,2]
