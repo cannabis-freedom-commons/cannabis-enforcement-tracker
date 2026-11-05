@@ -34,12 +34,18 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-04
     language: hi
+  - title: हिस्ट्रीशीटर अभियुक्त को हुई 05 वर्ष का कारावास व 5,000/- के अर्थदण्ड की सजा
+    url: https://www.maavarahinews.com/2026/11/05-5000.html
+    publisher: MAA VARAHI NEWS
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate sentencing date, so 4 November 2026, the article's publication date, is used as the incident date.
   - Only one source for this event could be opened, so no second account confirms the details.
   - The only image supplied with the page is an outlet logo graphic, so no event photo is listed as media.
   - The new Amar Ujala account reports 1.6 kg of ganja seized, while the existing report records 4 kg 600 g from the Hindustan account; the report's figure is left unchanged pending clarification.
   - The Amar Ujala page carries a 2021-dated file image captioned only with the sentencing headline, which cannot be confirmed to show this event, so no media entry is listed.
+  - The newly opened accounts report 1.6 kg of ganja seized while the existing report records 4 kg 600 g from the Hindustan account; the discrepancy remains unexplained.
 ---
 
 Gonda's special court convicted Rajkumar Godiya in a ganja-recovery case from
@@ -54,7 +60,7 @@ station was on night patrol with a police team. [@1,2] Near Reksadia crossing, t
 team saw a man carrying a bag in suspicious circumstances, and caught him after
 he tried to flee on seeing the police. [@1,2] On questioning, he was identified as
 Rajkumar Godiya, son of Ramdeen, resident of Dhanawa village under Paraspur
-police station. [@1,2] A search of the bag in his possession recovered 4 kg 600 g
+police station. [@1,2,3] A search of the bag in his possession recovered 4 kg 600 g
 of ganja, the local term for cannabis. [@1]
 
 Police registered a case under the NDPS Act, investigated it and submitted a
@@ -65,3 +71,5 @@ and punished him with five years of rigorous imprisonment and a 5,000-rupee
 fine. [@1,2]
 
 Police described the convict as a history-sheeter facing 17 cases on charges including theft, robbery, attempted murder, fraud and arms and gangster-act offences between 1997 and 2020. [@2]
+
+The Maa Varahi News account dates the conviction and sentencing to 4 November 2026. [@3] The district police said the conviction was secured under Operation Conviction, a special drive for maximum and speedy punishment of identified repeat offenders. [@3]
