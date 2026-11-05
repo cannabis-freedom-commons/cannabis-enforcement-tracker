@@ -1,0 +1,64 @@
+---
+code: NRKTV2
+added_at: "2026-11-05T02:27:06.196113Z"
+date: 2025-08-04
+country: lu
+place: Luxembourg-Findel Airport cargo centre, Findel
+coordinates: [49.623, 6.204]
+precision: locality
+type: seizure
+also: [arrest, prosecution]
+title: 600 kg cannabis seized at Findel; receiver arrested in Netherlands
+summary: >-
+  Luxembourg customs seized about 600 kg of marijuana hidden in United States air freight declared as cotton duvets at Findel on 4 August 2025. The pallets were delivered under surveillance to the Netherlands, where Dutch police arrested the receiver and took over prosecution.
+figures:
+  arrested: 1
+  kg_seized: 600
+media:
+  - kind: photo
+    url: https://infos.rtl.lu/news/luxembourg/600-kilos-de-cannabis-1380197590
+    media_url: https://static-prod.rtl.lu/dims4/default/f511fc9/2147483647/strip/true/crop/685x411+0+0/resize/1224x734!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2Faa%2F7a%2Fa61b9e1047a0b5bb43f79a1f7d72%2Fstup-1.png
+    publisher: RTL Infos
+    caption: 'Customs seizure of nearly 600 kg of cannabis at the Findel cargo centre. Photo: Police grand-ducale'
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 8a95d76994375adb637244a05a3848fe
+tags: [findel, cargo, air-freight]
+sources:
+  - title: 'Grosse saisie de drogue au Findel: 600 kilos de cannabis à la place des couettes en coton'
+    url: https://infos.rtl.lu/news/luxembourg/600-kilos-de-cannabis-1380197590
+    publisher: RTL Infos
+    date: 2025-12-01
+    language: fr
+open_questions:
+  - Only one source for this event could be opened and no second accessible account was found.
+  - The weight is approximate at about 600 kg from 903 bags of 600 to 700 grams each, with no exact laboratory weight published.
+  - The arrested receiver was not named and no age, nationality or detention details were published.
+  - The outcome of the 17 November 2025 hearing before a Dutch criminal court and any later court steps were not reported.
+  - No street or customs value for the cannabis was published.
+  - The exact role of the Belgian authorities in the joint operation with Eurojust and the Dutch authorities was not explained.
+---
+
+Luxembourg customs officers made a major marijuana seizure at the cargo centre
+of Luxembourg-Findel Airport on 4 August 2025. [@1] A routine inspection flagged
+freight documents for a three-pallet cargo from a United States cargo plane as
+inconsistent. [@1] The documents declared the consignment as cotton duvets for a
+Dutch company. [@1] Suspicious officers scanned the consignment and found its
+contents did not match the declaration. [@1]
+
+Opening the parcels revealed 903 vacuum-sealed bags of marijuana instead of
+duvets. [@1] Each bag held 600 to 700 grams, bringing the total to about 600 kg.
+[@1] Toxicological tests confirmed it was good-quality cannabis, according to
+the Luxembourg prosecutor. [@1]
+
+Police supported customs after being informed, documenting the seizure and
+preparing further operations. [@1] The prosecutor ordered the seizure, and
+because the load was not for the domestic market a joint operation with Eurojust
+and the Belgian and Dutch authorities was organised. [@1] On 7 August 2025 the
+pallets were delivered under surveillance to the planned address in the
+Netherlands. [@1] The person tasked with collecting the drugs was arrested
+red-handed by Dutch police and detained. [@1] Dutch authorities took over
+prosecution, the investigation continues and a first hearing was held on 17
+November 2025 before a Dutch criminal court. [@1] The case was only made public
+on 1 December to avoid compromising foreign investigations. [@1]
+
