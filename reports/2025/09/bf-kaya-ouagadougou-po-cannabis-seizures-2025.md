@@ -58,6 +58,11 @@ sources:
     publisher: Wakat Séra
     date: 2025-09-25
     language: fr
+  - title: 'Burkina Faso : saisie de plus de 20 kg de cannabis'
+    url: https://www.seneweb.com/fr/news/Afrique/burkina-faso-saisie-de-plus-de-20-kg-de-cannabis_n_469092.html
+    publisher: Seneweb
+    date: 2025-09-25
+    language: fr
 open_questions:
   - The sources give only the announcement date, 25 September 2025, for both operations; the dates of the Kaya, Ouagadougou and Pô seizures themselves are not stated, and 25 September 2025 is used as the incident date.
   - KOACI calls the Pô traffickers' partner country Ghana while Burkina 24 and the National Police statement say only a neighbouring country, so no country is named in the text.
@@ -69,6 +74,10 @@ open_questions:
   - The photo addresses were taken from the cited pages' image markup; the pictures could not be viewed and their captions do not confirm whether the two outlet photos of the Kaya and Ouagadougou seizure are the same police handout.
   - Only one National Police statement underlies each operation; the other outlets are reprints of the same communiqué text.
   - 'Left out, as its quotation was not found in Burkina 24: They had twenty cannabis pads weighing 20.5 kg, valued at 2,300,000 CFA francs, packed in a suitcase and large bags.'
+  - Seneweb reports the arrest of "plusieurs individus" (several individuals) at the Tambolo police post in Pô without giving a number, while the existing report's two arrests come from the National Police statement as published by Burkina 24.
+  - Seneweb gives the Pô weight only as "more than 20 kg" and the value as an estimate of about 2.3 million CFA francs; the precise 20.5 kg figure comes from the National Police statement as published by Burkina 24.
+  - Seneweb does not name the neighbouring country the cannabis came from, nor the Dakola–Ouagadougou route or National Road 5 given in the other accounts.
+  - 'Left out, as its quotation was not found in Seneweb: Separately, the central police station in Pô arrested two people during a security search at the Tambolo/Pô police post on National Road 5.'
 ---
 
 Burkina Faso's regional judicial police for the Koulsé region carried out a
@@ -95,3 +104,4 @@ The National Police published both results in statements dated Thursday 25
 September 2025, appealing to residents to keep reporting suspicious cases on its
 hotlines. [@4]
 
+Police estimated the value of the Pô seizure at 2.3 million CFA francs. [@5]
