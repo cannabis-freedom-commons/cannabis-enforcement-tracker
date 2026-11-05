@@ -74,6 +74,11 @@ sources:
     publisher: Prabhasakshi
     date: 2026-11-05
     language: hi
+  - title: 'उप्र: महराजगंज में 60 लाख रुपये मूल्य का गांजा बरामद, महिला समेत दो गिरफ्तार'
+    url: https://hindi.theprint.in/india/up-ganja-worth-rs-60-lakh-recovered-in-maharajganj-two-including-a-woman-arrested/1054929/
+    publisher: ThePrint Hindi
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -111,4 +116,4 @@ Amar Ujala reported that a police team acting on a tip-off from an informer thre
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
 
-Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,11] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
