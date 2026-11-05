@@ -19,6 +19,11 @@ media:
     media_url: https://images.mediotiempo.com/HDUS9Ocll8uCYM31eQbllNeEiKY=/942x532/uploads/media/2026/08/11/detienen-vehiculo-sao-paulo-marihuana.jpg
     publisher: Mediotiempo
     caption: 'Bolivian officers guarding packages covered with blue sheeting in front of a bus marked Cosmos while a man stands beside them; published with photographs credited to X: GabrielSA.'
+  - kind: photo
+    url: https://www.infobae.com/deportes/2026/08/11/sorpresa-incautaron-86-kilos-de-marihuana-en-el-micro-del-plantel-del-san-pablo/
+    media_url: https://www.infobae.com/resizer/v2/WXVGN2CQTZHNXJOT4MGIHETR3M.jpg?auth=c3a850c0090f1c257485c5cd80a97b55f526adee2b0ed8e1eb3e8a8f867c55a7&smart=true&width=992&height=1546&quality=85
+    publisher: Infobae
+    caption: Black bus with SPFC shield, men and uniformed officers standing beside packages on wet ground at night.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da02da0fb25f46275ed9a2da12310038
@@ -44,6 +49,11 @@ sources:
     publisher: Olé
     date: 2026-08-11
     language: es
+  - title: 'Sorpresa: incautaron 86 kilos de marihuana en el micro del plantel del San Pablo'
+    url: https://www.infobae.com/deportes/2026/08/11/sorpresa-incautaron-86-kilos-de-marihuana-en-el-micro-del-plantel-del-san-pablo/
+    publisher: Infobae
+    date: 2026-08-11
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -58,13 +68,14 @@ open_questions:
   - The submitted article is a sports-page account that relies on UOL and names no Bolivian agency, prosecutor or court step in the case.
   - The page's only photograph is a file photo of São Paulo and Bolívar players in an earlier match, not the seizure, so no photo of this event was added from it.
   - Olé reports the delegates hired a replacement coach to go back to Santa Cruz de la Sierra airport, while the existing report says the team left for La Paz and El Comercio dates the coach's interception to 9 August; none of these accounts is treated as separate.
+  - Infobae reports 86.5 kilograms while the existing report records about 86 kilos, so the exact weighed figure remains unclear.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
 found about 86 kilos of marijuana hidden inside it, according to Mediotiempo.
 [@1,2] The bus belonged to the company Buses Cosmos and had been hired to carry
 the São Paulo FC squad during its visit to Bolivia for a Copa Sudamericana match
-against Bolívar, the outlet reported, citing Brazilian media. [@1,2] The discovery
+against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5] The discovery
 came before the bus reached the team members, and the authorities seized the
 drug after finding it concealed in the vehicle, Mediotiempo reported. [@1]
 
@@ -78,8 +89,10 @@ lessen the effect of the altitude before facing Bolívar. [@1,2]
 Authorities were still investigating where the marijuana came from and who was
 responsible for transporting it, Mediotiempo reported. [@1]
 
-The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3] Officers found four bags containing the drug inside the vehicle. [@2,3] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2]
+The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5] Officers found four bags containing the drug inside the vehicle. [@2,3,5] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5]
 
 El Comercio, citing the Brazilian outlet Universo Online, reported that the coach was stopped near Cochabamba on 9 August 2026. [@3] The coach was still carrying the São Paulo team's insignia when officers stopped it. [@3] The stop came two days before the Copa Sudamericana match against Bolívar, which was scheduled for 11 August, and the delegation was not on the bus. [@3]
 
 El micro involucrado realizaba habitualmente el recorrido entre Santa Cruz de la Sierra y Cochabamba y había partido desde esta última ciudad rumbo al lugar donde se encontraba alojado el equipo brasileño. [@4] De acuerdo con la compañía, la Policía boliviana avanzó con la investigación y las personas involucradas fueron detenidas. [@4]
+
+The interception was carried out by UMOPAR, the Mobile Police Unit for Rural Areas, in the Cochabamba area. [@5]
