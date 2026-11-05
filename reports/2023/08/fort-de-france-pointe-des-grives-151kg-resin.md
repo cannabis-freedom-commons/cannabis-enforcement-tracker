@@ -28,6 +28,11 @@ sources:
     publisher: RCI
     date: 2024-03-04
     language: fr
+  - title: Une saisie de 610 kilos de résine de cannabis sur le port de Fort-de-France
+    url: https://rci.fm/deuxiles/infos/Faits-divers/Une-saisie-de-610-kilos-de-resine-de-cannabis-sur-le-port-de-Fort-de-France
+    publisher: RCI
+    date: 2023-08-15
+    language: fr
 open_questions:
   - No suspects, arrests or charges were reported; the article says only that an investigation was opened to trace those who ordered the shipment.
   - The article gives no street value for the 151 kilos of resin.
@@ -52,9 +57,8 @@ claim the appliances. [@1] Ofast seized the drugs for destruction and opened an
 investigation to trace those who ordered the shipment. [@1]
 
 Six days earlier, on 10 August, customs had found 610 kilos of cannabis resin in
-a container at the port of Fort-de-France. [@1] In this case the traffickers
+a container at the port of Fort-de-France. [@1,3] In this case the traffickers
 used the rip-off method, forcing the container to insert the drugs at the last
-moment for accomplices to recover in transit. [@1] A later RCI dossier confirms
+moment for accomplices to recover in transit. [@1,3] A later RCI dossier confirms
 that Ofast found 151 kilos of cannabis resin hidden in household appliances in a
 container from Le Havre using the rip-off method. [@2]
-
