@@ -25,6 +25,21 @@ media:
     media_url: https://i.stopcor.org/news/2026/11/5/5431808537999907550.jpg?size=2010x1130
     publisher: StopCor
     caption: 'Lead photo of the Operation Espanyol case, captioned on the page “Narkotyky khoronyly v bytovii tekhnitsi” (drugs hidden in household appliances), with the page crediting the National Police as the source. Photo: National Police of Ukraine'
+  - kind: photo
+    url: https://18000.com.ua/strichka-novin/141-obshuk-i-37-zatrimanix-cherkashhina-potrapila-do-masshtabnoyi-specoperaciyi-proti-narkotorgivli/
+    media_url: https://18000.com.ua/wp-content/uploads/2026/11/narkotyky-v-paketykah-scaled.jpg?v=1793874216
+    publisher: "18000"
+    caption: 'Photograph captioned “Наркотики в пакетиках” (drugs in little bags), captioned on the page as drugs worth more than 90 million hryvnias from the operation that covered Cherkasy Oblast and 10 other regions. Photo: 18000'
+  - kind: photo
+    url: https://18000.com.ua/strichka-novin/141-obshuk-i-37-zatrimanix-cherkashhina-potrapila-do-masshtabnoyi-specoperaciyi-proti-narkotorgivli/
+    media_url: https://18000.com.ua/wp-content/uploads/2026/11/narkotyky-v-sumlah.jpeg?v=1793874213
+    publisher: "18000"
+    caption: 'Photograph captioned “Наркотики у сумках” (drugs in bags), published with the caption “Світлина зі спецоперації” (a picture from the special operation). Photo: 18000'
+  - kind: video
+    url: https://18000.com.ua/strichka-novin/141-obshuk-i-37-zatrimanix-cherkashhina-potrapila-do-masshtabnoyi-specoperaciyi-proti-narkotorgivli/
+    media_url: https://www.youtube.com/watch?v=iQ2fH8surv0
+    publisher: "18000"
+    caption: 'National Police video from Operation Espanyol, embedded on the page under the title “Operation Espanyol: the National Police cut the drug traffic from Spain, the USA and Portugal to Ukraine”. Video: National Police of Ukraine'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54ac52ebae71dea94d749b723b6ece54
@@ -49,6 +64,11 @@ sources:
     publisher: StopCor
     date: 2026-11-05
     language: ru
+  - title: '141 обшук і 37 затриманих: Черкащина потрапила до масштабної спецоперації проти наркоторгівлі'
+    url: https://18000.com.ua/strichka-novin/141-obshuk-i-37-zatrimanix-cherkashhina-potrapila-do-masshtabnoyi-specoperaciyi-proti-narkotorgivli/
+    publisher: "18000"
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -63,26 +83,33 @@ open_questions:
   - The StopCor item links only to the National Police Telegram post and gives no separate date for the searches and detentions.
   - The page carries several further gallery photographs under one generic caption, so only the lead photograph could be identified; the others were left out.
   - StopCor's own related item, the 10.5 million hryvnia Kyiv drug sale disguised as animal feed, is a separate event and is not part of this report.
+  - The Cherkasy outlet gives no separate date for the searches and detentions; 5 November 2026, the publication date, remains the recorded incident date.
+  - Neither the Cherkasy page nor LB.ua and Blik gives a cannabis-only weight or valuation, so the combined 67 kg and 90 million hryvnias remain uncounted for cannabis.
+  - The Cherkasy photographs are published only with generic captions and no agency credit, so it cannot be confirmed which items they show beyond packaged drugs.
+  - Ukrainian outlets, including Blik, name both the SBU and the National Police as involved; the police press release names only the National Police and its special units.
+  - The National Police statement calls the operation two-stage; the Cherkasy page describes it only as lasting across eleven regions.
+  - LB.ua adds that the pre-trial investigation continues and that decisions on notifying further suspects will follow the expert findings.
+  - 'Left out, as its quotation was not found in 18000: The Cherkasy page also carries the National Police video of the operation, titled “Operation Espanyol: the National Police cut the drug traffic from Spain, the USA and Portugal to Ukraine”.'
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
 [@1,3] The 39 suspects were notified over drug trafficking and smuggling, and the
 most serious charge carries up to 12 years in prison with confiscation. [@2]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
 parcels. [@1] In Ukraine the drugs were sold through Telegram channels and a
 network of distributors. [@1,3] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4]
+drugs and property at more than 90 million hryvnias. [@2,4,5]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
@@ -92,3 +119,5 @@ investigation is continuing to identify other people involved in organising the
 smuggling and sales. [@2]
 
 The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3]
+
+The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
