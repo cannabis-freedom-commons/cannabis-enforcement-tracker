@@ -24,28 +24,33 @@ sources:
     publisher: RFI
     date: 2018-01-24
     language: fr
+  - title: 'Tuléar : 76 tortues radiées et 3,5 kg de cannabis saisis dans une maison'
+    url: https://www.linfo.re/ocean-indien/madagascar/735544-tulear-76-tortues-radiees-et-3-5-kg-de-cannabis-saisis-dans-une-maison
+    publisher: LINFO.re
+    date: 2018-01-24
+    language: fr
 open_questions:
   - The date of the patrol and house search is not specified; 24 January 2018, the article's publication date, is used as the incident date.
   - No second full account of this event was found, so the facts rely on RFI's account.
   - The page's only image is an archival photograph of a tortoise seized at Roissy in 2014, not this event, so it is excluded from media.
   - The account does not establish whether the three people were later charged or tried.
   - No separate monetary value for the cannabis was reported.
+  - The page's lead photograph captioned with the article title cannot be established from its caption or credit to show this seizure, so no media entry is included.
 ---
 
-Gendarmes were conducting a routine patrol in the city of Tuléar. [@1] Tuléar is
+Gendarmes were conducting a routine patrol in the city of Tuléar. [@1,2] Tuléar is
 a city in the southwest of Madagascar. [@1] The man whom the gendarmes saw
 smoking cannabis in the city was 70 years old. [@1] After questioning him, the
 man himself led the gendarmes to his own home, where officers searched the
 residence. [@1] The search found 3.5 kilograms of cannabis that was ready to be
-sold. [@1]
+sold. [@1,2]
 
-Three traffickers were incarcerated after the discovery. [@1] Officers also
-found 76 young radiated tortoises in the same house. [@1] The animals did not
+Three traffickers were incarcerated after the discovery. [@1,2] Officers also
+found 76 young radiated tortoises in the same house. [@1,2] The animals did not
 belong to the 70-year-old man, but instead belonged to a couple with whom he
-lived. [@1] The gendarmerie and the regional directorate for the environment and
+lived. [@1,2] The gendarmerie and the regional directorate for the environment and
 forests opened an investigation after the three people were detained. [@1]
 
 The tortoises were due to be released into their natural habitat. [@1] The
 species is protected and endemic to Madagascar, and these animals are a regular
 target of wildlife trafficking. [@1]
-
