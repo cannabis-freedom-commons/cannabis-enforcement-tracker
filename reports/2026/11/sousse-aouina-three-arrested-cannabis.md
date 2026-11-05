@@ -34,6 +34,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-03
     language: fr
+  - title: Saisie de cannabis et de psychotropes à Sousse | Trois dealers arrêtés
+    url: https://kapitalis.com/tunisie/2026/11/05/saisie-de-cannabis-et-de-psychotropes-a-sousse-trois-dealers-arretes/
+    publisher: Kapitalis
+    date: 2026-11-05
+    language: fr
 open_questions:
   - The article gives no separate date for the raid; 3 November 2026 is the publication date and is used as the incident date.
   - The cannabis weight is reported as approximate, about half a kilogram, not an exact laboratory weight.
@@ -44,10 +49,14 @@ open_questions:
   - The page carries a photo captioned only IMG_6193, which cannot be established to show this seizure, so no media entry is included.
   - The new outlet spells the neighbourhood El Ouaïna while the existing report uses El Aouina, treated as the same place.
   - The Mosaique FM page image is captioned only with the article title and cannot be established to show this seizure, so no media entry is added.
+  - Kapitalis reports about 250 grams of cannabis resin while Mosaïque FM, which it cites, reports nearly 500 grams of cannabis; the existing report keeps about half a kilogram.
+  - Kapitalis places the operation on Wednesday 4 November 2026 and spells the neighbourhood Laouina, while Mosaïque FM, published on 3 November, gives El Ouaïna and no separate date for the raid.
+  - Kapitalis says the three were placed in garde à vue after consulting the public prosecutor, as does Mosaïque FM, while Hakaekonline describes the prosecutor authorising their detention for the investigation; the report keeps the existing wording.
+  - No independent source other than Kapitalis's account of the Mosaïque FM report was found for this raid.
 ---
 
 Sousse's regional anti-drug brigade detained three people, including a foreign
-national, in a security operation. [@1,2,3] The operation consisted of a raid on a
+national, in a security operation. [@1,2,3,4] The operation consisted of a raid on a
 house located in the El Aouina neighbourhood. [@1] After consulting the Public
 Prosecution, the prosecution ordered the three suspects to be held pending
 investigation to continue inquiries and complete the necessary legal procedures.
@@ -60,3 +69,5 @@ activity and a sum of money suspected of being linked to that activity. [@1,2]
 
 The report presents the operation as part of continuing security efforts against
 drug dealing and trafficking in narcotic substances. [@1]
+
+Kapitalis reported about 250 grams of cannabis resin, while Mosaïque FM, its cited source, reported nearly 500 grams of cannabis. [@4] Mosaïque FM reported the operation on 3 November without saying when the raid took place, and Kapitalis placed it on Wednesday 4 November. [@3] Mosaïque FM said the seized tablets were Parkizol. [@3]
