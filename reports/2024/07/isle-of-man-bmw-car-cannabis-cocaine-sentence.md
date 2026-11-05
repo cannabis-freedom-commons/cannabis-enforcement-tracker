@@ -26,6 +26,10 @@ sources:
     url: https://www.bbc.com/news/articles/cqe6pgj1dnzo
     publisher: BBC News
     date: 2024-07-25
+  - title: Drug gang member sentenced to nine years in jail on Isle of Man
+    url: https://www.bbc.com/news/world-europe-isle-of-man-66962660
+    publisher: BBC News
+    date: 2023-09-29
 open_questions:
   - No cannabis weight was published, only values of almost £100,000 of cocaine and about £78,000 of cannabis; figures record only the cannabis-only value.
   - No separate sentencing hearing date was published; 24 July 2024 is derived from the report that the three were sentenced on Wednesday before the 25 July 2024 publication.
@@ -34,6 +38,8 @@ open_questions:
   - James Spotswood's 15-year term concerns a separate earlier organised-crime case and is excluded from this event's figures.
   - Woods's sentence also covers a separate August 2021 cocaine-import charge and a March 2023 assault; the report cannot separate component terms.
   - No arrest, seizure-weight or cannabis-quantity figures were published for this event.
+  - The BBC account describes £78,000 of “cannabis and cocaine” and gives a £99,000–£142,000 street value without separating the drugs’ respective values, so it does not resolve the existing report’s cannabis-only valuation.
+  - No second independently opened account of Thomas’s sentencing was found.
 ---
 
 Matthew Woods, Kurt Hughes and Daniel Moody were sentenced for plotting to
@@ -61,3 +67,4 @@ through phone communication. [@1] Moody and Hughes were also given exclusion
 orders forbidding them from returning to the Isle of Man for five years after
 release. [@1] The three were sentenced on Wednesday. [@1]
 
+Darryl Thomas was jailed for nine years for his role in an organised crime gang importing cocaine and cannabis to the Isle of Man. [@2] Thomas pleaded guilty to importing cocaine and cannabis to the island. [@2] In June 2022, Thomas arranged for another man to take a vehicle containing the drugs from north-west England to the Isle of Man by ferry. [@2] Police found 20 packages of cannabis and cocaine in the vehicle when they searched it on arrival in Douglas. [@2]
