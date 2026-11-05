@@ -1,0 +1,50 @@
+---
+code: 3R7XWB
+added_at: "2026-11-05T09:47:31.884902Z"
+date: 2026-11-03
+country: bg
+place: Veliko Tarnovo
+coordinates: [43.0757, 25.6172]
+precision: locality
+type: arrest
+title: 30-year-old Ukrainian driver held for cannabis drug-driving in Veliko Tarnovo
+summary: >-
+  Veliko Tarnovo traffic police detained a 30-year-old Ukrainian driver on 3 November 2026 after a roadside drug test indicated cannabis and cocaine use. He refused a blood test, was held for up to 24 hours, and police opened fast-track proceedings.
+figures:
+  arrested: 1
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: 8509c333711f4dd58229ed950ffb4105
+tags: [veliko-tarnovo, drug-driving]
+sources:
+  - title: Хванаха украинец да шофира на кокаин и канабис
+    url: https://www.borbabg.com/2026/11/04/hvanaha-ukrainets-da-shofira-na-kokain-i-kanabis/
+    publisher: Вестник Борба
+    date: 2026-11-04
+    language: bg
+open_questions:
+  - No weight or amount of cannabis or cocaine was reported, only a positive consumption indication, so no kilogram figure can be recorded.
+  - The article states 3 November without a year; 2026 is inferred from its 4 November 2026 publication date.
+  - No outcome of the fast-track proceedings was reported.
+  - The cocaine indication is mentioned only to explain the mixed result and is excluded from cannabis figures.
+  - Only one source for this event could be opened after searching in Bulgarian and English.
+  - The page image carries no caption establishing that it shows this roadside check, so no media entry is included.
+  - The exact street or location of the check within Veliko Tarnovo was not given; coordinates are for the city centre with locality precision.
+---
+
+Officers of the Traffic Police in Veliko Tarnovo, the road-police unit for the
+regional city, identified a driver as a person who had used narcotic substances.
+[@1] On 3 November in Veliko Tarnovo, the regional city, officers carried out a
+roadside check of a passenger car that at the time was being driven by a
+30-year-old man described as having Ukrainian citizenship. [@1] As part of that
+roadside check, officers administered a test to the driver for the use of
+narcotic substances using a technical testing device. [@1] The device returned a
+positive reaction for cannabis as well as a positive reaction for cocaine in the
+same roadside test. [@1]
+
+After receiving the roadside result, the driver refused to provide a blood
+sample for further confirmatory testing. [@1] Following the refusal, officers
+detained the driver for a period of up to 24 hours under the Interior Ministry
+Act. [@1] After the detention, police opened fast-track proceedings against the
+driver in connection with the drug-driving case. [@1]
+
