@@ -27,6 +27,11 @@ sources:
     publisher: 搜狐网
     date: 2026-11-04
     language: zh
+  - title: 有些“糖”不能嗑！
+    url: https://www.sohu.com/a/1097651212_121106902
+    publisher: 搜狐网
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The article says only近日 and gives no separate seizure date, so 3 November 2026, the publication date, is used as the incident date.
   - The 18.03-gram figure is expressly a gross packet weight, and no net cannabis weight or THC content was published, so the kilograms figure records that gross weight.
@@ -35,24 +40,27 @@ open_questions:
   - The page image is captioned only as图片 and does not establish that it shows this seizure, and the other page images are video-player posters or advertisements, so no media entry is included.
   - The new Sohu repost was published on 4 November 2026 while the existing report uses 3 November 2026; both say only近日 and give no separate seizure date.
   - The page image is captioned only as文章配图-1 and does not establish that it shows this seizure, so no media entry is included.
+  - The submitted Sohu repost is dated 5 November 2026 and says only近日, while the report uses 3 November 2026, the date of China Customs' own release; neither gives a separate seizure date.
 ---
 
 Customs officers at West Kowloon Station stopped a male inbound traveller who
 had entered the customs control area without making a declaration during routine
-supervision of inbound travellers. [@1,2] The traveller appeared unfocused and
+supervision of inbound travellers. [@1,2,3] The traveller appeared unfocused and
 nervous while passing through the checkpoint, so officers intercepted him for
-inspection. [@1,2] During the inspection, officers found one packet of suspected
-cannabis candy in the shoulder bag he was carrying. [@1,2] Customs recorded the
-packet as one bag with a gross weight of 18.03 grams. [@1,2]
+inspection. [@1,2,3] During the inspection, officers found one packet of suspected
+cannabis candy in the shoulder bag he was carrying. [@1,2,3] Customs recorded the
+packet as one bag with a gross weight of 18.03 grams. [@1,2,3]
 
 A field reagent test of the candy returned a positive reaction for
-tetrahydrocannabinol (THC). [@1,2] A later appraisal by a specialist agency
-confirmed that THC was present in the candy. [@1,2] Customs transferred the case
-to its anti-smuggling department for further handling. [@1,2]
+tetrahydrocannabinol (THC). [@1,2,3] A later appraisal by a specialist agency
+confirmed that THC was present in the candy. [@1,2,3] Customs transferred the case
+to its anti-smuggling department for further handling. [@1,2,3]
 
 In a notice citing the Criminal Law and the Narcotics Control Law, Customs said
 drugs under Chinese law include opium, heroin, methamphetamine, morphine,
 cannabis, cocaine and other state-controlled narcotic and psychotropic
-substances capable of causing addiction. [@1] The notice added that smuggling,
+substances capable of causing addiction. [@1,3] The notice added that smuggling,
 selling, transporting or manufacturing drugs carries criminal liability and
-punishment regardless of the quantity involved. [@1]
+punishment regardless of the quantity involved. [@1,3]
+
+The submitted page credits its text to China's customs anti-drug channel, naming 中国禁毒 as the origin of the account. [@3]
