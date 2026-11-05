@@ -45,6 +45,11 @@ sources:
     publisher: Prima Bergamo
     date: 2026-11-04
     language: it
+  - title: 'Sedrina, fermato con cocaina e hashish: arrestato un 26enne'
+    url: https://www.bergamotomorrow.it/2026/11/05/sedrina-fermato-con-cocaina-e-hashish-arrestato-un-26enne/
+    publisher: Bergamo Tomorrow
+    date: 2026-11-05
+    language: it
 open_questions:
   - The year 2026 for the 3 November arrest is inferred from the 4 November 2026 publication date, which gives Tuesday 3 November without a year.
   - The 84 grams of cocaine are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
@@ -54,22 +59,23 @@ open_questions:
   - Only one accessible source for this event was found after searching; no agency statement or second outlet account could be opened.
   - The page carries another image captioned only with the article title, which does not establish that it shows this seizure, so only the captioned seizure photo is listed as media.
   - The Valbrembanaweb page shows two seizure photos with empty alt text and no captions or credits establishing what they show, so no media entry is added.
+  - The Bergamo Tomorrow page's only listed image is a 2023 Adobe Stock illustration, so no new event photo can be added.
 ---
 
 Carabinieri officers from the Zogno station arrested a 26-year-old man with no
 fixed abode who was already known to police in Via Ponte Botta in Sedrina in the
 late afternoon of Tuesday 3 November. [@1,3] Police accused him of possessing
-drugs for the purpose of dealing. [@1,2,4] On the morning of Wednesday 4 November
+drugs for the purpose of dealing. [@1,2,4,5] On the morning of Wednesday 4 November
 judges validated the flagrant arrest and ordered the precautionary measure
-banning him from residing in the entire province of Bergamo. [@1,2,4]
+banning him from residing in the entire province of Bergamo. [@1,2,4,5]
 
 During the personal search officers found 84 grams of cocaine kept in a
 cellophane bag and partly already divided into doses, together with 33 grams of
-hashish and 245 euros in cash. [@1,3,4] Investigators considered the cash to be
+hashish and 245 euros in cash. [@1,3,4,5] Investigators considered the cash to be
 possible proceeds of dealing activity, and officers seized both the drugs and
 the money. [@1] The Zogno Carabinieri carried out the stop, search and seizure
-reported from Sedrina. [@1,2]
+reported from Sedrina. [@1,2,5]
 
 The arrest took place as part of territorial control services aimed at combating
 drug dealing. [@1] The soldiers had become suspicious because of the young man’s
-attitude, stopped him for a check and subjected him to a personal search. [@1,4]
+attitude, stopped him for a check and subjected him to a personal search. [@1,4,5]
