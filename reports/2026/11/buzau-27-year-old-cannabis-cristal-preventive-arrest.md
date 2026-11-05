@@ -1,0 +1,77 @@
+---
+code: 8TE427
+added_at: "2026-11-05T20:43:36.971491Z"
+date: 2026-11-03
+country: ro
+place: Buzău, Buzău County, Romania
+coordinates: [45.15, 26.8333]
+precision: locality
+type: arrest
+also: [raid, seizure, prosecution]
+title: 'Buzău: 27-year-old held 30 days over cannabis and "cristal" sales'
+summary: >-
+  A 27-year-old man was placed in 30 days' preventive arrest on 4 November 2026 after DIICOT prosecutors and Buzău organised-crime police accused him of selling cannabis and 3-CMC between February and September. Searches of four addresses in Buzău and Bucharest on 3 November recovered cannabis, a 4-CMC substance and weighing and grinding equipment.
+figures:
+  arrested: 1
+  charged: 1
+media:
+  - kind: video
+    url: https://stiridebuzau.ro/video-tanar-de-27-de-ani-arestat-pentru-trafic-de-droguri-in-buzau-vindea-canabis-si-cristal-prin-metoda-dead-drop/
+    media_url: https://stiridebuzau.ro/wp-content/uploads/2026/11/Sequence-01_1.mp4
+    publisher: Stiri de Buzau
+    caption: 'Video posted with the Buzău report on the detention of the 27-year-old and the 3 November searches; the still frame is captioned as Buzău drug-trafficking coverage. Video: Stiri de Buzau'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 750f2bb8748d5be7ea7f585316631650
+tags: [buzau, diicot, cannabis-trafficking, dead-drop, romania]
+sources:
+  - title: Tânăr de 27 de ani, arestat pentru trafic de droguri în Buzău. Vindea canabis și „cristal”
+    url: https://www.buzau.net/stiri-din-buzau/tanar-de-27-de-ani-arestat-pentru-trafic-de-droguri-in-buzau-vindea-canabis-si-cristal/
+    publisher: Știri din Buzău
+    date: 2026-11-05
+    language: ro
+  - title: Prins inițial cu canabis, un tânăr de 27 de ani a ajuns în arest după ce anchetatorii au descoperit și droguri de mare risc!
+    url: https://amprentabuzau.ro/prins-initial-cu-canabis-un-tanar-de-27-de-ani-a-ajuns-in-arest-dupa-ce-anchetatorii-au-descoperit-si-droguri-de-mare-risc/
+    publisher: Amprenta Buzău
+    date: 2026-11-05
+    language: ro
+  - title: VIDEO Tânăr de 27 de ani, arestat pentru trafic de droguri în Buzău. Vindea canabis și „cristal” prin metoda „dead drop”
+    url: https://stiridebuzau.ro/video-tanar-de-27-de-ani-arestat-pentru-trafic-de-droguri-in-buzau-vindea-canabis-si-cristal-prin-metoda-dead-drop/
+    publisher: Stiri de Buzau
+    date: 2026-11-05
+    language: ro
+open_questions:
+  - No weight for the cannabis found in the 3 November searches or in the earlier stop was published, so no cannabis quantity can be recorded.
+  - The 3-CMC sold during the alleged trafficking and the 4-CMC found in the searches are synthetic drugs outside the cannabis figures, and no combined total is recorded.
+  - The suspect was not named and no charges were formally listed beyond the trafficking investigation opened by DIICOT Buzău; he retains the presumption of innocence.
+  - No date was given for the earlier stop at the end of October other than the month, and no quantum of cannabis was stated for it.
+  - Accounts differ on whether the trafficking took place in Buzău alone or in Buzău and Bucharest; the report uses the Buzău activity and the Buzău and Bucharest searches.
+  - No direct media address could be verified for the pictures on the Buzău.net article, which are generic police archive images, so only the Stiri de Buzau video is listed.
+  - 'Left out, as its quotation was not found in Știri din Buzău: The searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence.'
+---
+
+A 27-year-old man was placed in 30 days of preventive arrest on suspicion of
+continued trafficking in risk and high-risk drugs. [@1] Investigators said he
+sold cannabis and 3-CMC, a synthetic cathinone known in Romania as "cristal",
+both by direct sale and by the "dead drop" method, in which drugs are hidden at
+set places for buyers to collect later. [@1] Officers of the Buzău
+organised-crime service and prosecutors of DIICOT's Buzău territorial office,
+the directorate that investigates organised crime and terrorism, documented his
+activity between February and September 2026. [@1] Amprenta Buzău reported that
+he allegedly obtained, held and prepared for sale quantities of cannabis and
+synthetic substances, including 3-CMC. [@2]
+
+On 3 November 2026 police carried out four home-search warrants in Buzău and
+Bucharest. [@1] The searches targeted addresses in the municipalities of Buzău
+and Bucharest. [@2] At the end of October 2026 police had already found him in
+the municipality of Buzău carrying a quantity of cannabis. [@1]
+
+DIICOT Buzău prosecutors ordered his detention for 24 hours on 3 November. [@1]
+On 4 November the rights-and-freedoms judge of the Buzău Tribunal ordered him
+held in preventive arrest for 30 days. [@1] Buzău county police officers and
+Buzău county gendarmes took part in the operation, which Stiri de Buzau reported
+was carried out with their support. [@3] Stiri de Buzau reported that his drugs
+were delivered both directly to clients and through dead drops in Buzău and
+Bucharest. [@3] Investigations continued to establish the full extent of the
+alleged offending, and he has not been tried. [@2]
+
