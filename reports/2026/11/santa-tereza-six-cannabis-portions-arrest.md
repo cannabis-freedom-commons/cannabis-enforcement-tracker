@@ -23,6 +23,11 @@ sources:
     publisher: Últimas Notícias
     date: 2026-11-04
     language: pt
+  - title: PM prende suspeito após apreensão de maconha e crack em Formiga/MG
+    url: https://www.tvbambui.com.br/noticia/25248/pm-prende-suspeito-apos-apreensao-de-maconha-e-crack-em-formigamg
+    publisher: TV Bambuí
+    date: 2026-11-04
+    language: pt
 open_questions:
   - No weight was published for the six cannabis portions, so no kilograms can be recorded.
   - The R$ 207 is seized cash, not an official drug valuation, so no value is recorded.
@@ -33,10 +38,11 @@ open_questions:
   - The fate of the identified 35-year-old, who fled and was later tracked down, was not reported beyond identification.
   - Only one accessible account of this event was found after searching for a second report.
   - The page's credited PMMG image shows the Santa Tereza area rather than the seizure itself, so no media entry is included.
+  - The page carries a main image with an empty alt attribute and no caption or credit, so it cannot be established that it shows this seizure and no media entry is included.
 ---
 
 Minas Gerais military police arrested a 43-year-old man in the Santa Tereza
-neighbourhood late on Tuesday 3 November 2026. [@1] The operation took place at
+neighbourhood late on Tuesday 3 November 2026. [@1,2] The operation took place at
 about 6 p.m. on Rua dos Professores and was carried out by teams of the 63rd
 Military Police Battalion (63º BPM), a regional unit of the state military
 police. [@1] The patrols said they acted after receiving information and
@@ -44,15 +50,16 @@ carrying out inquiries in the area before approaching one suspect. [@1] Officers
 also identified a second man, aged 35, who initially managed to flee. [@1]
 
 During the search of the 43-year-old, officers found one bucha of maconha, a
-small retail pack of cannabis, and R$ 207 in cash. [@1] The 35-year-old fled
+small retail pack of cannabis, and R$ 207 in cash. [@1,2] The 35-year-old fled
 through scrubland when he saw the police teams, but officers searched the area,
 tracked him down and identified him. [@1] Police then searched the residences of
 both men involved. [@1] At the 43-year-old's house they found two more buchas of
-maconha and three crack stones. [@1] At the second suspect's residence they
-found three more buchas of maconha. [@1] In total, officers reported six buchas
+maconha and three crack stones. [@1,2] At the second suspect's residence they
+found three more buchas of maconha. [@1,2] In total, officers reported six buchas
 of maconha and three crack stones, plus the R$ 207 in cash. [@1]
 
 The 43-year-old was arrested and taken to the Delegacia de Polícia, the civil
-police station, with all the seized material for further legal steps. [@1] The
+police station, with all the seized material for further legal steps. [@1,2] The
 account attributes its information to the Minas Gerais military police. [@1]
 
+The Santa Tereza operation took place in Formiga, Minas Gerais. [@2]
