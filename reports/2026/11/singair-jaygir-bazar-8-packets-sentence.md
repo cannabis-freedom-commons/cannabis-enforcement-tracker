@@ -27,25 +27,37 @@ sources:
     publisher: প্রবাসীর দিগন্ত
     date: 2026-11-04
     language: bn
+  - title: সিংগাইরে মাদক বিক্রেতাকে ভ্রাম্যমাণ আদালতে ৩ মাসের কারাদণ্ড ও জরিমানা
+    url: https://www.protidinersangbad.com/whole-country/594022
+    publisher: Protidiner Sangbad
+    date: 2026-11-05
+    language: bn
 open_questions:
   - No weight was published for the 8 packets of ganja, so no cannabis weight can be recorded.
   - Only one accessible source for this event was found after searching in Bengali and English.
   - The page image carries only the generic caption Img with no description establishing that it shows this seizure, so no media entry is listed.
+  - Neither outlet published a weight for the 8 packets of ganja, so no cannabis weight is recorded.
+  - The page image carries only the generic caption Protidiner Sangbad's Photo with no description establishing that it shows this seizure, so no media entry is listed.
+media:
+  - kind: photo
+    url: https://www.protidinersangbad.com/whole-country/594022
+    media_url: https://www.protidinersangbad.com/assets/news_photos/2026/11/05/image-594022.jpg
+    publisher: Protidiner Sangbad
+    caption: 'Photograph published with the report on the Singair mobile-court case, credited to Protidiner Sangbad; the page carries no caption describing what it shows. Photo: Protidiner Sangbad'
 ---
 
 Local people in Singair, Manikganj detained 60-year-old Bisha Molla while he was
-selling ganja. [@1] The convicted man is the son of Borhan Molla of Jaygir
-village in Dhalla Union of Singair upazila. [@1] After locals called the
+selling ganja. [@1,2] The convicted man is the son of Borhan Molla of Jaygir
+village in Dhalla Union of Singair upazila. [@1,2] After locals called the
 national emergency number 999, Sub-Inspector Md Rezaul Karim-1 of Singair police
-station went to the spot and took Molla into custody. [@1] Assistant
+station went to the spot and took Molla into custody. [@1,2] Assistant
 Commissioner (Land) and Executive Magistrate Md Al Amin Kabir conducted the
-mobile court at about 7 pm on Wednesday, 4 November. [@1]
+mobile court at about 7 pm on Wednesday, 4 November. [@1,2]
 
 Locals caught Molla on the under-construction bridge at Jaygir Bazar in Singair
-while he was selling ganja on Wednesday evening. [@1] Officers recovered 8
-packets of ganja from his possession at the scene. [@1] The case was tried under
-section 36(5) of the Narcotics Control Act, 2018. [@1] Through the mobile court
+while he was selling ganja on Wednesday evening. [@1,2] Officers recovered 8
+packets of ganja from his possession at the scene. [@1,2] The case was tried under
+section 36(5) of the Narcotics Control Act, 2018. [@1,2] Through the mobile court
 the magistrate sentenced him to three months of simple imprisonment and fined
-him 500 taka. [@1] Upazila administration sources reported the sequence of
+him 500 taka. [@1,2] Upazila administration sources reported the sequence of
 detention, recovery and mobile-court punishment. [@1]
-
