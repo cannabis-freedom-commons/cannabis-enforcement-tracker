@@ -40,6 +40,11 @@ sources:
     publisher: Stiri de Buzau
     date: 2026-11-05
     language: ro
+  - title: FOTO - VIDEO / Tânăr reținut pentru trafic de droguri
+    url: https://opiniabuzau.ro/foto-video-tanar-retinut-pentru-trafic-de-droguri/
+    publisher: Opinia Buzău
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No weight for the cannabis found in the 3 November searches or in the earlier stop was published, so no cannabis quantity can be recorded.
   - The 3-CMC sold during the alleged trafficking and the 4-CMC found in the searches are synthetic drugs outside the cannabis figures, and no combined total is recorded.
@@ -48,6 +53,8 @@ open_questions:
   - Accounts differ on whether the trafficking took place in Buzău alone or in Buzău and Bucharest; the report uses the Buzău activity and the Buzău and Bucharest searches.
   - No direct media address could be verified for the pictures on the Buzău.net article, which are generic police archive images, so only the Stiri de Buzau video is listed.
   - 'Left out, as its quotation was not found in Știri din Buzău: The searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence.'
+  - The page's lead picture uses a 2023 archive file name, so it cannot be verified to show this event and no media entry is included.
+  - The page embeds a YouTube video titled Trafic de droguri Buzău, but its content could not be verified from the capture, so no video entry is included.
 ---
 
 A 27-year-old man was placed in 30 days of preventive arrest on suspicion of
@@ -62,16 +69,17 @@ he allegedly obtained, held and prepared for sale quantities of cannabis and
 synthetic substances, including 3-CMC. [@2]
 
 On 3 November 2026 police carried out four home-search warrants in Buzău and
-Bucharest. [@1] The searches targeted addresses in the municipalities of Buzău
+Bucharest. [@1,4] The searches targeted addresses in the municipalities of Buzău
 and Bucharest. [@2] At the end of October 2026 police had already found him in
-the municipality of Buzău carrying a quantity of cannabis. [@1]
+the municipality of Buzău carrying a quantity of cannabis. [@1,4]
 
 DIICOT Buzău prosecutors ordered his detention for 24 hours on 3 November. [@1]
 On 4 November the rights-and-freedoms judge of the Buzău Tribunal ordered him
-held in preventive arrest for 30 days. [@1] Buzău county police officers and
+held in preventive arrest for 30 days. [@1,4] Buzău county police officers and
 Buzău county gendarmes took part in the operation, which Stiri de Buzau reported
 was carried out with their support. [@3] Stiri de Buzau reported that his drugs
 were delivered both directly to clients and through dead drops in Buzău and
 Bucharest. [@3] Investigations continued to establish the full extent of the
 alleged offending, and he has not been tried. [@2]
 
+The 3 November searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence. [@4]
