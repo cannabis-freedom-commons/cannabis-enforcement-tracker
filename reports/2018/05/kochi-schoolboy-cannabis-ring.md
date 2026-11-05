@@ -39,11 +39,16 @@ sources:
     url: https://soranews24.com/2018/05/15/group-of-japanese-teens-busted-for-marijuana-say-we-wanted-to-be-like-foreign-musicians/
     publisher: SoraNews24
     date: 2018-05-15
+  - title: Japan struggles with growing cannabis use
+    url: https://www.dw.com/en/japan-struggles-with-growing-cannabis-use/a-44094855
+    publisher: Deutsche Welle
+    date: 2018-06-06
+    language: en
 ---
 
-Cannabis sold by a Tokyo gang member had spread to six high-school students in Kochi city, and police had busted twelve people in total by 11 May for possessing or passing on the drug. [@1] Those busted included six boys in their first to third years at Kochi high schools alongside the 57-year-old member of a designated crime syndicate living in Tokyo's Suginami Ward. [@1,2]
+Cannabis sold by a Tokyo gang member had spread to six high-school students in Kochi city, and police had busted twelve people in total by 11 May for possessing or passing on the drug. [@1,3] Those busted included six boys in their first to third years at Kochi high schools alongside the 57-year-old member of a designated crime syndicate living in Tokyo's Suginami Ward. [@1,2,3]
 
-Police say the six bought cannabis multiple times between May and August of the previous year from a 17-year-old in Matsuyama whom they had met through music events, keeping it at home and passing some on to others. [@1,2] The cannabis the boys bought had been mailed to the 17-year-old's father by the gang member. [@1] Questioned, the six said they had smoked it out of admiration for musicians abroad. [@1,2]
+Police say the six bought cannabis multiple times between May and August of the previous year from a 17-year-old in Matsuyama whom they had met through music events, keeping it at home and passing some on to others. [@1,2] The cannabis the boys bought had been mailed to the 17-year-old's father by the gang member. [@1] Questioned, the six said they had smoked it out of admiration for musicians abroad. [@1,2,3]
 
 ## Probation and reform school
 
