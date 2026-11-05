@@ -34,6 +34,11 @@ sources:
     publisher: Topky.sk
     date: 2026-11-05
     language: sk
+  - title: 'Veľký bizár v Nitre: Policajti išli do bytu preveriť krokodíly a našli tam... Na ten zásah nezabudnú'
+    url: https://www.cas.sk/spravy/velky-bizar-v-nitre-policajti-isli-do-bytu-preverit-krokodily-a-nasli-tam-na-ten-zasah-nezabudnu
+    publisher: Nový Čas
+    date: 2026-11-05
+    language: sk
 open_questions:
   - No weight, plant count or value for the marijuana was published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -50,17 +55,17 @@ open_questions:
 Police in Nitra detained a 24-year-old man after finding marijuana in an
 apartment on a housing estate in the city. [@1] Officers had gone to the address
 to check a report that unknown people were carrying exotic animals, probably
-crocodiles, out of the 12th-floor apartment. [@1] A designated officer opened
+crocodiles, out of the 12th-floor apartment. [@1,3] A designated officer opened
 criminal proceedings over the misdemeanour of unauthorised possession of a
-narcotic and psychotropic substance. [@1] The Nitra regional police directorate
+narcotic and psychotropic substance. [@1,3] The Nitra regional police directorate
 said the check concerning animal keeping was passed to the competent authority
-for further action. [@1]
+for further action. [@1,3]
 
 Officers from the rapid-response motorised unit went to verify the situation.
-[@1] The police said that on reaching the floor they immediately heard sounds of
-various animals and could clearly smell marijuana. [@1]
+[@1,3] The police said that on reaching the floor they immediately heard sounds of
+various animals and could clearly smell marijuana. [@1,3]
 
 The man said the material was his marijuana for personal use, and after being
-asked he voluntarily handed it to the officers. [@1]
+asked he voluntarily handed it to the officers. [@1,3]
 
-Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2]
+Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2,3]
