@@ -104,6 +104,11 @@ sources:
     publisher: IliaLive.gr
     date: 2026-11-04
     language: el
+  - title: 'Ελ. Βενιζέλος: Κατασχέθηκαν 207 κιλά κάνναβης αξίας 1 εκατ. ευρώ'
+    url: https://www.kathimerini.gr/society/564567301/el-venizelos-kataschethikan-207-kila-kannavis-axias-1-ekat-eyro/
+    publisher: Η Καθημερινή
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -127,6 +132,7 @@ open_questions:
   - The policenet.gr page image is presented only with the generic label 'Εικόνα' and alt text '1', with no caption or credit establishing that it shows this consignment, so no media entry is added from this source.
   - The Typosthes page image is captioned only kannavi with no credit or description establishing that it shows this consignment, so no media entry is included.
   - The page image is captioned only with the article title and credited to EUROKINISSI / TATIANA BOLARI, with no description establishing that it shows this consignment, so no media entry is added.
+  - Kathimerini dates the seizure only to August 2026 with no day, so the additional fact is recorded against a publication-dated incident date, not an exact day.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -149,17 +155,19 @@ had received. [@1,8,13,14,17] No arrested people, suspects or charges are named 
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17]
+that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18]
 
 Investigators traced the route of the pallets, which had apparently started by
-air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17] The accompanying documents for the shipment had declared
+air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The accompanying documents for the shipment had declared
 the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17] The investigation was continuing so that the case could be fully examined.
+[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The investigation was continuing so that the case could be fully examined.
 [@1,4,5,6,7,8,9,10,12,13,14,15,16,17]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
 
 The pallets travelled by air from Thailand to Athens via Qatar. [@3] The cannabis was found on 19 August 2026 in the Goldair company's temporary goods-storage warehouse at Eleftherios Venizelos airport. [@3] The sender was listed as a Thailand-based company and the recipient as a company with an address on Evangelistrias street in central Athens. [@3] After the seizure officers removed the drugs from the pallets and replaced them with other packages empty of drugs as part of a controlled delivery. [@3] No one came forward to collect the load, so the controlled delivery ended without result. [@3] A forensic-investigations crew was called to examine the packages and collect evidence that could lead to identification of those involved. [@3]
+
+The operation was carried out by the Narcotics Prosecution Subdirectorate together with the smuggling-prosecution department of the airport customs office. [@18]
