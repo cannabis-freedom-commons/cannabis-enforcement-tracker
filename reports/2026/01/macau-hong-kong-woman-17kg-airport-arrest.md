@@ -26,6 +26,14 @@ sources:
     url: https://macaudailytimes.com.mo/woman-attempts-to-smuggle-marijuana-buds-from-southeast-asia.html
     publisher: Macau Daily Times
     date: 2026-01-19
+  - title: HK woman busted at Macau airport smuggling cannabis buds worth 17 million patacas
+    url: https://www.macaupostdaily.com/news/27174
+    publisher: The Macau Post Daily
+    date: 2026-01-19
+  - title: Hong Kong woman custody for drug trafficking
+    url: https://www.mp.gov.mo/en/news/all-news/69
+    publisher: Public Prosecutions Office of the Macao SAR
+    date: 2026-01-19
 open_questions:
   - The article published 19 January 2026 says the arrest happened Saturday at about 10:30 a.m.; 17 January 2026 is used as the incident date.
   - The source says arrival at the local airport without naming it; Macau International Airport is used as the most precise place.
@@ -34,6 +42,9 @@ open_questions:
   - No court outcome, charge or detention decision was reported.
   - Only one accessible source for this event was found after searching in English.
   - The page carries a photo without a caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The Chinese-language reports give the exact weight as about 17,311 grams, whereas the Macau Daily Times account already used by the report says 17.371 kilograms; the report keeps the figure it had.
+  - The Public Prosecutions Office does not say when the judicial interrogation and detention order took place, only that they had happened by its 19 January 2026 statement.
+  - Only the arrest and pretrial detention are known; no trial date or final sentence was reported.
 ---
 
 A Hong Kong woman was arrested for smuggling marijuana buds concealed in her
@@ -42,14 +53,15 @@ at about 10:30 a.m. on Saturday on arrival at the local airport, where the Macau
 Customs Service had found the buds hidden in her luggage. [@1]
 
 The seized marijuana buds weighed 17.371 kilograms and were wrapped in aluminum
-foil. [@1] Police put the estimated street value of the haul at about MOP17
-million. [@1]
+foil. [@1,2] Police put the estimated street value of the haul at about MOP17
+million. [@1,2]
 
 Police said she admitted that a drug-trafficking gang had recruited her to
-smuggle narcotics from Southeast Asia into Macau. [@1] She refused to disclose
+smuggle narcotics from Southeast Asia into Macau. [@1,2] She refused to disclose
 the amount of commission promised by the gang or provide further information
 about the syndicate. [@1] At a press briefing on Saturday, police said the final
 destination of the drugs remained under investigation. [@1] Based on similar
 past cases and the quantity seized, police did not rule out that the narcotics
 could be transshipped through Macau to other regions. [@1]
 
+After her first judicial interrogation, the Criminal Preliminary Hearing Court ordered her held in preventive detention pending trial. [@3] The court cited the gravity of the offence, the possible penalty, the risk that she would flee Macau and the possibility that accomplices were still at large. [@3]
