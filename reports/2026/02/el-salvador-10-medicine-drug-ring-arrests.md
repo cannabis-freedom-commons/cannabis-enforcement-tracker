@@ -29,6 +29,11 @@ sources:
     publisher: La Prensa Gráfica
     date: 2026-02-13
     language: es
+  - title: La Fiscalía de El Salvador captura a personas vinculadas a una red que distribuía cocaína, marihuana y metanfetaminas
+    url: https://www.infobae.com/el-salvador/2026/08/01/la-fiscalia-de-el-salvador-captura-a-personas-vinculadas-a-una-red-que-distribuia-cocaina-marihuana-y-metanfetaminas/
+    publisher: Infobae
+    date: 2026-08-01
+    language: es
 open_questions:
   - No weight or separate quantity for the seized marijuana was published, so no kilograms can be recorded.
   - The $20,000 in cash, vehicles, devices and documents are combined operation totals not specific to cannabis, so they are not recorded as cannabis value.
@@ -49,7 +54,7 @@ of illicit trafficking, cooperation in drug trafficking, illicit association,
 active bribery and improper bribery. [@1]
 
 Officers carried out several raids that seized methamphetamine, cocaine,
-marijuana, a drug known as tusi and 108 boxes of controlled medicine. [@1]
+marijuana, a drug known as tusi and 108 boxes of controlled medicine. [@1,2]
 Officers also seized vehicles, electronic devices, documents and $20,000 in cash
 during the operation. [@1]
 
@@ -58,4 +63,3 @@ and trafficked was Guatemalan Luis Alfredo Zuleta, who was killed in Guatemala
 in December 2024 in suspected gang disputes. [@1] Prosecutors said Zuleta
 coordinated drug entry with another structure leader, William Leiva Hernández,
 who is serving a prison sentence for illicit trafficking. [@1]
-

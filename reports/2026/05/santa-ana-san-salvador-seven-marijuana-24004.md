@@ -52,6 +52,11 @@ sources:
     publisher: El Blog
     date: 2026-05-29
     language: es
+  - title: La Fiscalía de El Salvador captura a personas vinculadas a una red que distribuía cocaína, marihuana y metanfetaminas
+    url: https://www.infobae.com/el-salvador/2026/08/01/la-fiscalia-de-el-salvador-captura-a-personas-vinculadas-a-una-red-que-distribuia-cocaina-marihuana-y-metanfetaminas/
+    publisher: Infobae
+    date: 2026-08-01
+    language: es
 open_questions:
   - No weight for the marijuana was published, only a police valuation of $24,004, so no kilograms can be recorded.
   - The reports say the arrests happened during the night of Thursday; 28 May 2026 is used because the accounts were published on Friday 29 May.
@@ -63,7 +68,7 @@ open_questions:
 ---
 
 Seven people were detained in San Salvador and Santa Ana on suspicion of selling
-drugs, El Salvador's National Civil Police reported. [@1] The detentions took
+drugs, El Salvador's National Civil Police reported. [@1,4] The detentions took
 place during the night of Thursday, when police arrested two groups of people
 accused of selling drugs. [@2] Three of the detainees were held in the colonia
 Altamira, San Salvador. [@1] They were named as Noelia Guadalupe Tobar Ramos,
@@ -86,4 +91,3 @@ The PNC said its investigation had established a link to a second group of
 people. [@3] The arrests were carried out by the police anti-narcotics division.
 [@2] All seven detainees were to be handed over for the offence of illicit drug
 trafficking. [@3]
-
