@@ -50,6 +50,16 @@ sources:
     publisher: MZ Notícia
     date: 2026-11-04
     language: pt
+  - title: Polícia Civil encontra quase meia tonelada de maconha em casa no bairro Potecas; jovem de 18 anos é preso
+    url: https://sjagora.com.br/seguranca/policia-civil-encontra-quase-meia-tonelada-de-maconha-em-casa-no-bairro-potecas-jovem-de-18-anos-e-preso-196106
+    publisher: SJ Agora
+    date: 2026-11-04
+    language: pt
+  - title: Polícia Civil apreende 472 kg de maconha em residência em São José
+    url: https://www.lenoticias.com.br/noticia/39724/policia-civil-apreende-472-kg-de-maconha-em-residencia-em-sao-jose
+    publisher: Lê Notícias
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The incident date of 3 November 2026 is inferred from terça-feira (3) with publication on 4 November 2026.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet could be opened.
@@ -59,11 +69,12 @@ open_questions:
   - The article dates the announcement to Wednesday 4 November and gives no separate date for the seizure, which the other accounts place on the afternoon of Tuesday 3 November.
   - The Civil Police did not disclose the origin or intended destination of the marijuana or who supplied it.
   - No charge or court outcome beyond arrest in flagrante was reported.
+  - SJ Agora spells the neighbourhood Potecas, while the earlier accounts and the report use Potecas.
 ---
 
 Santa Catarina Civil Police arrested an 18-year-old in flagrante at a property
 in the Potecas neighbourhood of São José on the afternoon of Tuesday 3 November
-2026. [@1,3] The young man told police in his statement that he had agreed to keep
+2026. [@1,3,5] The young man told police in his statement that he had agreed to keep
 the drug hidden in the property for a few days in exchange for money. [@1,2,3] After
 processing at the Civil Police station he was sent to the prison system, where
 he remains at the disposal of the courts. [@1,2,3]
@@ -78,3 +89,5 @@ The seizure happened during inquiries by the São José Homicide Division of the
 Division of Criminal Investigation, known as the DIC, which was trying to locate
 a man with outstanding arrest warrants linked to homicide investigations in the
 region. [@1,2,3] The homicide investigations are continuing. [@1]
+
+The Civil Police said the homicide inquiries remain active to capture the main target of the warrants and to dismantle the network linked to the seized drugs. [@6]
