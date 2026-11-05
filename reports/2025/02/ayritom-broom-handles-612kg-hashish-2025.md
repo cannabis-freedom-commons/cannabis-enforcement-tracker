@@ -21,6 +21,11 @@ media:
     media_url: https://img.belta.by/images/storage/news/with_archive/2025/000197_1739176997_694799_big.png
     publisher: Белорусское телеграфное агентство (БелТА)
     caption: 'Customs-service photo republished with the BelTA report on the broom-handle hashish seizure. Photo: Customs service of Uzbekistan'
+  - kind: photo
+    url: https://www.gazeta.uz/en/2025/02/10/drugs/
+    media_url: https://www.gazeta.uz/media/img/2025/02/c8FGoT17391693081252_l.jpg
+    publisher: Gazeta.uz
+    caption: 'Customs Committee photo of the 612 kg hashish seizure at the Uzbekistan-Afghanistan border. Photo: Customs Committee'
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 46d8d9b92b522a38b3e5ef54e67bf52a
@@ -41,6 +46,14 @@ sources:
     publisher: Husan Tangriyev, press secretary of the Customs Committee, on Telegram
     date: 2025-02-09
     language: uz
+  - title: 'Hashish disguised as brooms: Large drug shipment seized in Uzbekistan'
+    url: https://www.uzdaily.uz/en/hashish-disguised-as-brooms-large-drug-shipment-seized-in-uzbekistan/
+    publisher: UzDaily.uz
+    date: 2025-02-10
+  - title: Over 600 kg of hashish seized at Uzbekistan-Afghanistan border
+    url: https://www.gazeta.uz/en/2025/02/10/drugs/
+    publisher: Gazeta.uz
+    date: 2025-02-10
 open_questions:
   - No arrest, detention or charge was reported; customs said only that a pre-investigation check was continuing.
   - The incident date of 9 February 2025 comes from the Uzbek accounts, while BelTA's article is dated 10 February 2025 and rounds the weight to more than 600 kg.
@@ -50,21 +63,20 @@ open_questions:
 ---
 
 On 9 February 2025, officers checked a truck transiting through Uzbekistan at
-the Ayritom customs post on the Afghan border. [@2] The operation in
+the Ayritom customs post on the Afghan border. [@2,4] The operation in
 Surkhandarya region was a joint effort by the Customs Committee and the State
-Security Service, reported by customs press secretary Husan Tangriyev. [@2] The
+Security Service, reported by customs press secretary Husan Tangriyev. [@2,4] The
 truck carried 22,500 household brooms made of broomcorn packed in 180 sacks.
-[@2] Officers moved the truck to the Termez customs warehouse adjoining the
-Ayritom post for a full customs inspection. [@3]
+[@2,5] Officers moved the truck to the Termez customs warehouse adjoining the
+Ayritom post for a full customs inspection. [@3,4]
 
 Hidden inside the handles of 2,986 brooms were plastic-wrapped packages about 25
-cm long, bound in yellow tape matching the brooms' colour. [@2] When opened
+cm long, bound in yellow tape matching the brooms' colour. [@2,5] When opened
 before witnesses, each package held on average 200 grams of a dark-brown
-substance with a strong smell. [@2] A rapid test showed the substance was
+substance with a strong smell. [@2,5] A rapid test showed the substance was
 hashish. [@2] The hashish weighed 612 kg in total, which customs preliminarily
-valued at more than $16.5 million on the black market. [@2]
+valued at more than $16.5 million on the black market. [@2,4]
 
 The consignment had been brought from Afghanistan for transit through
 Uzbekistan. [@1] Customs said a pre-investigation check was continuing, and the
-sources name no detained suspect. [@2]
-
+sources name no detained suspect. [@2,4]
