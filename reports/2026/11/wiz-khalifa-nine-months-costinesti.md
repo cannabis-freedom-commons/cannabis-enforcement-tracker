@@ -55,6 +55,8 @@ open_questions:
   - This account gives the retrial date only as November 12, without the year and 16:00 time recorded in the existing report.
   - This account reports possession as more than 18 grams while the existing report records 18.53 grams from prosecutors' minutes; the precise figure is retained.
   - The page's only listed image is a Getty portrait of the rapper and does not depict the Costinești festival, seizure or court, so no media entry is listed.
+  - This account attributes the 3 November annulment to the Bucharest Court of Appeal, corroborating the Bucharest version already noted in the report's open questions and differing from report sentences that attribute the same step to the Constanța Court of Appeal.
+  - 'The page''s only image is a 2017 screen capture captioned ''Wiz Khalifa Issues Public Service Announcement: "Lean is Lame"'' and does not depict the Costinești festival, seizure or court, so no media entry is listed.'
 sources:
   - title: UPDATE - Rapperul Wiz Khalifa, condamnat la nouă luni de închisoare cu executare
     url: https://www.news.ro/justitie/update-rapperul-wiz-khalifa-condamnat-luni-inchisoare-executare-dupa-fumat-tigara-cannabis-scena-festivalului-beach-please-costinesti-decizia-curtii-apel-constanta-definitiva-dat-urmarire-1922403418002025121722278686
@@ -138,6 +140,10 @@ sources:
     publisher: Romania TV
     date: 2026-11-04
     language: ro
+  - title: Wiz Khalifa’s Nine-Month Prison Sentence Overturned In Romania, But Drug Possession Case Remains Open
+    url: https://thesource.com/2026/11/05/wiz-khalifas-nine-month-prison-sentence-overturned-in-romania-but-drug-possession-case-remains-open/
+    publisher: The Source
+    date: 2026-11-05
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/c93wxp2p05xo
@@ -167,9 +173,9 @@ Judges said the public consumption at a youth festival normalised illegal drug u
 
 The charge was personal possession, not trafficking, under Law 143/2000. [@1,2]
 
-On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17] State-advanced court costs remain on him. [@3]
+On 3 November the Constanta Court of Appeal set aside the decision that had convicted American rapper Wiz Khalifa in Romania for smoking cannabis on the stage of the Beach, Please! festival at Costinesti. [@3] The judges admitted the artist's contestation in annulment against penal decision No. 1222/P of 18 December 2025 in case No. 7777/118/2024. [@3,4,6,7,9] With that ruling the prison-execution warrant issued by the Constanta Tribunal also falls. [@3,5,6,7,9,10,11,12,14,15,16,17,18] The DIICOT prosecutors' appeal will be heard again on 12 November 2026 at 16:00, and the court ordered steps for Wiz Khalifa to take part by videoconference. [@3,4,7,10,11,12,13,14,16,17,18] State-advanced court costs remain on him. [@3]
 
-On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15]
+On 3 November the Bucharest Court of Appeal admitted Khalifa's contestation in annulment and set aside the Constanța Court of Appeal's penal decision of 18 December 2025. [@6,8,9,10,12,13,14,15,16,17,18] At Khalifa's request, the High Court of Cassation and Justice transferred the annulment file from the Constanța Court of Appeal to the Bucharest Court of Appeal for judgment. [@6,8,12,13,14,15]
 
 The appeal retrial will take place at the Bucharest Court of Appeal. [@7,9,10,11]
 
@@ -178,3 +184,5 @@ In May, Romanian Police placed him on the general search list under the warrant 
 Wiz Khalifa was prosecuted in October 2024 for illegally possessing cannabis for personal use. [@14,15]
 
 An effort to annul the nine-month sentence was rejected in February 2026 before the November 2026 challenge succeeded. [@16]
+
+The court has not acquitted the rapper of the underlying drug possession allegation. [@18] The court has also directed officials to make arrangements for Khalifa to participate in the hearing through videoconference, potentially allowing him to address the proceedings without traveling to Romania. [@18]
