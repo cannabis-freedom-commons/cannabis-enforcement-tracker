@@ -43,6 +43,14 @@ sources:
     url: https://www.nytimes.com/athletic/7717192/2026/10/23/anthony-richardson-marijuana-possession-colts/
     publisher: The Athletic
     date: 2026-10-23
+  - title: Colts QB Anthony Richardson Sr. charged with marijuana possession
+    url: https://www.espn.ph/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession
+    publisher: ESPN
+    date: 2026-10-23
+  - title: Anthony Richardson Sr. charged with marijuana possession in Hamilton County
+    url: https://www.wishtv.com/sports/indianapolis-colts/anthony-richardson-drug-arrest-colts
+    publisher: WISH-TV
+    date: 2026-10-23
 open_questions:
   - No weight was published for the mason jar contents or the THC-infused gummies, so no cannabis quantity is recorded.
   - The filing date of 19 October 2026 is inferred from the charge being filed on the Monday a week after the Oct. 12 stop.
@@ -60,12 +68,15 @@ open_questions:
   - The page's only picture is a Getty pre-game image of Richardson and does not depict the stop or seizure, so no media entry is listed.
   - The page's only picture is a Getty preseason-game photo of Richardson in August 2026 and does not depict the traffic stop or seizure, so no media entry is listed.
   - No weight was published for the mason-jar contents or the five remaining THC gummies, so no cannabis quantity is recorded.
+  - ESPN gives the bench trial as Jan. 4 without stating the year; the year remains unconfirmed.
+  - WISH-TV describes the stop as yielding marijuana paraphernalia while the affidavits it cites describe a jar of marijuana and THC gummies.
+  - ESPN gives no event date for the traffic stop, so the charging date of 19 October 2026 remains the report's date.
 ---
 
 Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor charge
 of marijuana possession following an Oct. 12 traffic stop in Carmel, Indiana.
-[@1,2,4,5,6] Court documents show the charge was filed on the Monday a week after
-officers stopped his black 2023 Dodge Charger. [@1] The vehicle's registration
+[@1,2,4,5,6,7] Court documents show the charge was filed on the Monday a week after
+officers stopped his black 2023 Dodge Charger. [@1,8] The vehicle's registration
 was reportedly expired and assigned to a different car. [@1,6] Richardson was
 handcuffed after exiting the car, but he was not arrested and was released with
 a citation for the expired registration and a summons for marijuana possession.
@@ -77,7 +88,7 @@ smoked marijuana in the car so as not to do so in front of his children. [@1,3,4
 also told police that he possessed a small amount of marijuana in the car. [@1]
 Officers searching the car reportedly found a small mason jar containing a
 substance believed to be marijuana and an opened bag of THC-infused gummies.
-[@1,2,3,5,6] The substance reportedly tested positive for THC. [@1]
+[@1,2,3,5,6,8] The substance reportedly tested positive for THC. [@1]
 
 The Colts said they were aware of the situation, were gathering additional
 information and would have no further comment. [@1,3,4,6] Richardson's agent said
@@ -86,3 +97,5 @@ focused on his responsibilities, family and future. [@1] A hearing scheduled for
 Dec. 9 has been waived, and a bench trial will be held in Jan. 2027. [@1,6]
 
 The Hamilton County prosecutor’s office filed the possession charge as a Class B misdemeanor. [@2]
+
+A car search produced 500-milligram THC-infused gummies in the glove compartment. [@7] Colts coach Shane Steichen said the team would keep the matter in-house and that Richardson remained their backup quarterback. [@7] A Carmel Police Department officer patrolling the area of Springmill Boulevard and Silver Stream Drive spotted the Dodge Charger. [@8]
