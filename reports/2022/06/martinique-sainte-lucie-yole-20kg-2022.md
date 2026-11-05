@@ -24,6 +24,31 @@ media:
     media_url: https://www.zayactu.org/wp-content/uploads/2022/06/Saisie-de-cannabis.jpg
     publisher: ZayActu
     caption: 'Cannabis from the interception between Martinique and Sainte-Lucie, captioned “Saisie de cannabis”. Photo: ZayActu'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16d98ca233b454df1d3/width_1000/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16dabed212f67413da5/width_1000/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16e55aaf31f6a68762e/width_1000/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16ed072e60fd021455e/width_1000/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
+  - kind: photo
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16e2bef653853398ebe/width_1000/image.jpg
+    publisher: France-Antilles Martinique
+    caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8b01f9b9623a4222df8952b124ed905c
@@ -44,6 +69,16 @@ sources:
     publisher: Faxinfo
     date: 2022-06-09
     language: fr
+  - title: Une tonne de cannabis et 700 kilos de cocaïne saisis depuis le début de l'année
+    url: https://rci.fm/martinique/infos/Faits-divers/Une-tonne-de-cannabis-et-700-kilos-de-cocaine-saisis-depuis-le-debut-de-lannee
+    publisher: RCI Martinique
+    date: 2022-06-08
+    language: fr
+  - title: Déjà 700 kilos de cocaïne et une tonne de cannabis saisis en mer en 2022 par la Marine aux Antilles
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/deja-700-kilos-de-cocaine-et-une-tonne-de-cannabis-saisis-en-mer-en-2022-par-la-marine-aux-antilles-850795.php
+    publisher: France-Antilles Martinique
+    date: 2022-06-08
+    language: fr
 open_questions:
   - Neither the yole nor its occupants were intercepted, so no one was arrested, charged or named in the reporting.
   - No area was given for where in the Saint Lucia Channel the interception took place, so the coordinates mark the channel rather than a precise point.
@@ -52,21 +87,23 @@ open_questions:
   - The France-Antilles account is cut off after its opening lines, so details beyond the first paragraph come from the ZayActu and Faxinfo reports.
   - The photograph captioned “Saisie de cannabis” on ZayActu carries no credit in the page markup, so its source is unclear.
   - The military statement's yearly totals for 2022 (about 700 kg of cocaine and one tonne of cannabis seized at sea) cover other operations and are excluded from this event's figures.
+  - No separate date was given for when in the 3 June interception the five packages were recovered beyond the 4:22 a.m. detection, and no weight per package was published.
 ---
 
 In the night patrol of 3 June 2022, the French navy patrol boat La Combattante,
 home-ported at Fort-de-France, intercepted a suspicious yole, a fast open boat,
-in French territorial waters between Martinique and Sainte-Lucie. [@1] The yole
+in French territorial waters between Martinique and Sainte-Lucie. [@1,4] The yole
 was detected at 4:22 a.m. local time. [@2] As the patrol boat approached, the
 people aboard the yole threw bales into the water and fled towards Sainte-Lucie.
 [@2]
 
 La Combattante recovered five packages that tested positive for cannabis, with a
-total weight of 20 kg. [@2] Neither the boat nor the people aboard could be
-intercepted, and no arrests were reported. [@2] The cannabis was handed over the
+total weight of 20 kg. [@2,4] Neither the boat nor the people aboard could be
+intercepted, and no arrests were reported. [@2,4] The cannabis was handed over the
 same day to the Caribbean branch of the OFAST, France's anti-narcotics office,
-in Fort-de-France. [@3]
+in Fort-de-France. [@3,4]
 
 The patrol was run by the Forces Armées aux Antilles, France's military command
-in the Antilles. [@3]
+in the Antilles. [@3,5]
 
+Sainte-Lucie is the French-language name for Saint Lucia, the island the boat fled towards after jettisoning bales. [@4] By the start of June 2022 the Forces Armées aux Antilles, France's military command in the Antilles, had seized one tonne of cannabis and 700 kilograms of cocaine at sea that year. [@4]
