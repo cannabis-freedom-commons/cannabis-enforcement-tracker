@@ -37,6 +37,10 @@ sources:
     url: https://www.newportdispatch.com/2026/11/03/vape-shop-employee-arrested-on-drug-tax-charges-in-norwalk/
     publisher: Newport Dispatch
     date: 2026-11-03
+  - title: Norwalk store employee accused of illegally selling vape, THC products
+    url: https://newjersey.news12.com/norwalk-store-employee-accused-of-illegally-selling-vape-thc-products
+    publisher: News 12
+    date: 2026-11-02
 open_questions:
   - The opened articles give no separate date for the search and arrest; 2 November 2026 is the earlier publication date and is used as the incident date.
   - The quantity is reported only as a combined total of marijuana flower and THC products, with no separate breakdown; the 0.5 kg figure records that combined cannabis total.
@@ -56,15 +60,15 @@ open_questions:
 Norwalk authorities arrested Mohamed Ali Zaidan, a shop employee described as of
 Arab origin, on allegations of illegally selling vape products and THC. [@1]
 News 12 Connecticut also reports that police arrested a Norwalk store employee
-for illegally selling vape and THC products. [@2] Zaidan was charged with
-selling the products without a licence. [@2] The Arabic outlet stresses that the
+for illegally selling vape and THC products. [@2,5] Zaidan was charged with
+selling the products without a licence. [@2,5] The Arabic outlet stresses that the
 accusations remain unproven allegations and that Zaidan is presumed innocent
 until a court convicts him. [@1]
 
 Investigators seized more than half a kilogram of marijuana and THC products
 inside Sono Vape and Tobacco on Washington Street. [@1,3,4] News 12 describes the
 same seizure as more than a pound of marijuana and THC products at Sono Vape and
-Tobacco on Washington Street. [@2] The outlet reports that the material was
+Tobacco on Washington Street. [@2,5] The outlet reports that the material was
 prepared for sale and distribution in breach of local product-sale rules. [@1]
 Officers also seized 50 packs of cigarettes bearing counterfeit tax stamps,
 adding forgery and tax-evasion allegations. [@1,3,4] Police also seized more than
