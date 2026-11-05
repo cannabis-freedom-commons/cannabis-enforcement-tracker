@@ -50,6 +50,11 @@ sources:
     publisher: Dinakaran
     date: 2026-11-05
     language: ta
+  - title: சென்னை விமான நிலையத்தில் ரூ.5 கோடி மதிப்பு கஞ்சா பறிமுதல்
+    url: https://www.hindutamil.in/news/crime/ganja-worth-rs-5-crore-seized-at-chennai-airport
+    publisher: Hindu Tamil Thisai
+    date: 2026-11-05
+    language: ta
 open_questions:
   - Puthiyathalaimurai rounds the haul to 5 kg; this report uses The Times of India's precise 4,970 grams.
   - Puthiyathalaimurai describes the flight as arriving yesterday early morning, which would be 3 November 2026, while The Times of India says the interception happened on Monday, 2 November 2026; 3 November is used as the incident date.
@@ -69,6 +74,9 @@ open_questions:
   - Dinakaran rounds the haul to 5 kg and values it at about Rs 5 crore; this report keeps the precise 4,970 grams and the independent Rs 5 crore valuation already recorded from Times of India.
   - Dinakaran says the flight reached Chennai early "yesterday" morning and carries a 5 November 2026 dateline, which would put the interception on 4 November, while the report uses 3 November 2026.
   - Dinakaran gives the transit through Kuala Lumpur only as a stopover on the Bangkok flight and does not name the airline.
+  - This outlet names no age for the youth and does not report the remand to judicial custody or Puzhal imprisonment, so those details rest on the earlier sources.
+  - The page image is captioned only as a file photo (கோப்புப் படம்) and is not established to show this seizure, so no media entry is included.
+  - The same page reports a separate GPS-device seizure from a Mangaluru-bound passenger, a different event left out of this report.
 media:
   - kind: photo
     url: https://urbanacres.in/chennai-airport-seizes-hydroponic-ganja-worth-rs-5-crore/
@@ -80,23 +88,23 @@ media:
 Customs officers at Chennai International Airport arrested a 27-year-old youth
 from Kerala who had returned from Thailand as a tourist. [@1,6] He had flown from
 Bangkok via Kuala Lumpur on a private passenger flight that reached Chennai
-early the previous morning. [@1,5] Officers grew suspicious of him, stopped him
+early the previous morning. [@1,5,7] Officers grew suspicious of him, stopped him
 for questioning, and said he did not cooperate properly. [@1,5,6] Officers then
 searched his belongings. [@1] After the seizure he was produced in court and
 lodged in Puzhal prison. [@1,5,6] Investigators said the educated graduate was
 unemployed and had been acting as a courier for a drug-smuggling gang. [@1,6]
 
 His baggage held processed-food packets, among which officers found packets
-hiding high-grade hydroponic ganja. [@1,6] The Air Intelligence Unit intercepted
+hiding high-grade hydroponic ganja. [@1,6,7] The Air Intelligence Unit intercepted
 him on spot profiling. [@2] A detailed examination of his checked-in baggage
 found 10 transparent packets containing green-coloured flowering and fruiting
 tops suspected to be hydroponically cultivated cannabis. [@2,3,4,5] The packets
 weighed 4,970 grams and had been hidden inside food packets in his trolley
-suitcase. [@2,3,4,5] Customs valued the haul at around Rs 5 crore in the illicit
-market. [@2,3,4] A field drug-testing kit confirmed the substance was cannabis. [@2,3,4]
+suitcase. [@2,3,4,5,7] Customs valued the haul at around Rs 5 crore in the illicit
+market. [@2,3,4,7] A field drug-testing kit confirmed the substance was cannabis. [@2,3,4]
 Officers seized the cannabis under Section 43 of the Narcotic Drugs and
 Psychotropic Substances Act, 1985. [@2,3] The passenger was arrested and remanded
-to judicial custody. [@2,3,4,5]
+to judicial custody. [@2,3,4,5,7]
 
 Officials said smuggling syndicates fund young people's travel and accommodation
 and use them to carry contraband into India. [@2,3,4] The case was described as the
