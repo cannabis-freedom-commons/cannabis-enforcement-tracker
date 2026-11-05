@@ -29,6 +29,11 @@ sources:
     publisher: Aydın Ses Gazetesi
     date: 2026-11-05
     language: tr
+  - title: 'Nazilli''de silah ve uyuşturucu operasyonu: 7 tüfek, 249 gram esrar ele geçirildi'
+    url: https://www.egealternatif.com/haber/nazilli-de-silah-ve-uyusturucu-operasyonu-7-tufek-249-gram-esrar-ele-gecirildi_100539/
+    publisher: Ege Alternatif Gazetesi
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports name no neighbourhood or street within Nazilli, only the district.
   - No charge, court decision or later outcome was reported; the suspects were still in gendarmerie custody when the reports were published.
@@ -41,21 +46,20 @@ open_questions:
 ---
 
 Gendarmerie teams searched four addresses in Nazilli, in Aydın province, on 4
-November 2026. [@1] The searches were run jointly by the Nazilli district
+November 2026. [@1,3] The searches were run jointly by the Nazilli district
 gendarmerie, the gendarmerie's organised-crime (KOM) branch and its
 anti-narcotics branch, under the Aydın provincial gendarmerie command. [@1] The
 teams carried out the searches at the four addresses simultaneously. [@2]
 Officers detained two suspects in the operation, identified in the reports by
-the initials İ. A., aged 38, and S. A., aged 45. [@1] Aydın Ses Gazetesi
+the initials İ. A., aged 38, and S. A., aged 45. [@1,3] Aydın Ses Gazetesi
 described both detainees as men and said they were taken to the gendarmerie to
 be referred to prosecutors after processing. [@2]
 
 The searches turned up 249 grams of kubar esrar, the Turkish term for pressed
-cannabis resin, along with 7 hunting shotguns and 190 shotgun cartridges. [@1]
+cannabis resin, along with 7 hunting shotguns and 190 shotgun cartridges. [@1,3]
 The operation was part of an investigation into gun trafficking, and the
 Provençal (KOM) branch searches began in more than four homes. [@1]
 
 The Aydın provincial gendarmerie said its teams carried out the searches under
 an investigation into gun trading, and the first reports expected the detainees
 to be brought to court the same day. [@1]
-
