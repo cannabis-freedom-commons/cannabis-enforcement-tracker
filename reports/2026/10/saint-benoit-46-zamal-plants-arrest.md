@@ -41,17 +41,24 @@ sources:
     publisher: Free Dom
     date: 2026-10-05
     language: fr
+  - title: Il est soupçonné de violences avec arme, les gendarmes découvrent 193 pieds de cannabis chez lui
+    url: https://www.zinfos974.com/il-est-soupconne-de-violences-avec-arme-les-gendarmes-decouvrent-193-pieds-de-cannabis-chez-lui/
+    publisher: Zinfos974
+    date: 2026-11-05
+    language: fr
 open_questions:
   - La 1ère reports more than 300 euros while Free Dom reports 305 euros; the report uses the detailed 305-euro figure.
   - The man's name and age were not published.
   - No custody outcome, charge or sentence beyond the statement that he must answer for trafficking was reported.
   - No street or wholesale value for the cannabis was published; the seized cash is not recorded as a drug value.
   - Both accounts repeat the Gendarmerie de La Réunion version; the gendarmerie's original Facebook post was not opened separately.
+  - Zinfos974 reports 193 plants, while the existing Réunion La 1ère and Free Dom accounts report 46 plants and 5.9 kg of cannabis; the sources do not reconcile the plant-count discrepancy, so the existing figures are retained.
+  - 'Left out, as its quotation was not found in Réunion La 1ère: On 3 October 2026, gendarmes from the Saint-Benoît community of brigades took a Saint-Benoît resident into custody in an inquiry into armed violence committed the previous day.'
 ---
 
 On 3 October 2026, gendarmes from the Saint-Benoît community of brigades took a
 Saint-Benoît resident into custody in an inquiry into armed violence committed
-the previous day. [@2] Officers searched the man's home as part of that
+the previous day. [@2,3] Officers searched the man's home as part of that
 investigation and found a greenhouse fitted out to hold dozens of cannabis
 plants. [@1] Réunion outlets refer to the seized cannabis as zamal. [@1]
 
@@ -65,4 +72,3 @@ The man will have to answer for the trafficking before the courts. [@1] The
 gendarmerie recalled that cannabis remains a narcotic whose possession, offer or
 transfer is prohibited. [@2] Unlawful possession, offer or transfer is
 punishable by up to 10 years in prison and a 7.5-million-euro fine. [@2]
-
