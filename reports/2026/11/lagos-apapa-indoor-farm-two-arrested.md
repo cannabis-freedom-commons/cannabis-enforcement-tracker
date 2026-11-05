@@ -192,6 +192,10 @@ sources:
     url: https://newtelegraphng.com/police-arrest-polish-national-nigerian-for-cultivating-in-indoor-cannabis-farm-in-lagos/
     publisher: New Telegraph
     date: 2026-11-04
+  - title: POLICE UNCOVER INDOOR CANNABIS FARM IN LAGOS, ARREST TWO SUSPECTS
+    url: https://crimefightersng.com/news/police-uncover-indoor-cannabis-farm-in-lagos-arrest-two-suspects
+    publisher: Crime Fighters
+    date: 2026-11-04
 open_questions:
   - No figure for the quantity of suspected cannabis recovered, the number of plants, the equipment inventory, the value of the facility or the duration of its operation was published.
   - The precise roles of the two men, the ownership of the property and the intended market for the suspected cannabis products have not been publicly established.
@@ -252,9 +256,9 @@ open_questions:
 ---
 
 Lagos State police uncovered a suspected high-tech indoor cannabis farm inside a
-residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38] The
+residential property in Apapa, Lagos, and arrested two residents. [@1,3,5,6,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39] The
 arrested men were identified as Thomas Razvickas, a 49-year-old Polish national,
-and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31,32,33,34,35,36,38] Detectives searched the
+and James Chisome, a 36-year-old Nigerian. [@1,7,8,9,11,12,13,14,15,16,17,18,19,20,21,22,25,26,27,28,31,32,33,34,35,36,38,39] Detectives searched the
 residential premises at approximately 8:15 a.m. on Monday, November 2, following
 credible intelligence. [@1,7,9,10,11,14,17,18,26,27,28,29,30,31,32,34,36,37] The Lagos State Police Command announced the
 discovery on Tuesday, November 3, 2026, saying it resulted from an
