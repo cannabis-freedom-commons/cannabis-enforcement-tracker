@@ -60,6 +60,15 @@ sources:
     url: https://health.einnews.com/country/malaysia
     publisher: EIN News
     date: '2026-10-29'
+  - title: Malaysian chef nabbed in Mauritius for trafficking cannabis
+    url: https://www.freemalaysiatoday.com/category/nation/2026/10/29/malaysian-chef-nabbed-in-mauritius-for-trafficking-cannabis
+    publisher: Free Malaysia Today
+    date: 2026-10-29
+  - title: Cef Malaysia ditahan edar kanabis di Mauritius
+    url: https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/29/cef-malaysia-ditahan-edar-kanabis-di-mauritius
+    publisher: Free Malaysia Today
+    date: 2026-10-29
+    language: ms
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -108,22 +117,26 @@ open_questions:
   - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.
+  - The new source does not name the suspect, flight EK709, or ADSU/CANS; those details rest on the existing sources.
+  - The new source values the haul at about RM2.18 million while the existing report keeps Rs 25.5 million from Le Défi Media Group; the difference is left open.
+  - The page image is captioned as a Rawpixel stock picture of a detention, not a photo of this seizure, so no media entry is included.
+  - The article also describes a separate 15 September arrest of a Malaysian with 6.18 kg at the same airport, a different event recorded separately and left out here.
 ---
 
-Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6]
+Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8]
 
 Officers of the Anti Drug and Smuggling Unit and the Customs Anti Narcotics
 Section were watching passengers off flight EK709 from Dubai, which landed
 around 3 p.m. on Friday 23 October, when customs checks on suspicious luggage
 flagged the suitcase of Sia Guan Kueh, a Malaysian national working as a cook.
-[@1] A scanner check and full search found cannabis packed in 17 compressed
+[@1,7] A scanner check and full search found cannabis packed in 17 compressed
 bags weighing 17.88 kg net, worth an estimated Rs 25.5 million. [@1,4]
 
 Kueh was arrested and questioned by ADSU investigators, who ran a controlled
 delivery with dummy parcels to identify the consignment's recipient; the
-recipient never came to collect it and was not caught. [@1,2,3] His mobile phone
+recipient never came to collect it and was not caught. [@1,2,3,7] His mobile phone
 was seized for examination, along with Rs 8,150 and Malaysian and Thai currency
-found on him. [@1,2,3] He was placed in police detention under a provisional charge
+found on him. [@1,2,3,7] He was placed in police detention under a provisional charge
 of drug dealing by importing dangerous drugs with an averment of trafficking.
 [@1,2,3]
 
