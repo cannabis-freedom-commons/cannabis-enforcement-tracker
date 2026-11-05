@@ -23,6 +23,9 @@ open_questions:
   - The report names no arrests or court steps.
   - The source gives no street value for the cannabis.
   - The article does not say how many people were in the vehicle or where in Ethiopia it had come from.
+  - AFREEQUE describes itself as writing from a named source and credits the Djibouti Information Agency for every detail, so it is not an independent original account and adds no facts beyond the ADI text.
+  - The article does not say how many passengers were in the vehicle, whether anyone was detained, or where in Ethiopia the vehicle had started its journey.
+  - 'Left out, as its quotation was not found in AFREEQUE: AFREEQUE, an African news digest that credits the Djibouti Information Agency for its account, reports the same 4.7 kg found in four pillows at the poste-frontière de Galafi on the Ethiopian border.'
 media:
   - kind: photo
     url: https://adi.dj/article/139023
@@ -49,12 +52,17 @@ sources:
     publisher: ADI News
     date: 2026-10-22
     language: fr
+  - title: 'Douane : Saisie à Galafi de 4,7 kg de cannabis'
+    url: https://www.adi.dj/article/139023
+    publisher: ADI News
+    date: 2026-10-22
+    language: fr
 ---
 
 Customs officers at the Galafi border post found 4.7 kg of cannabis hidden in four pillows during a
-routine check on 22 October 2026. [@1] The vehicle was registered in Djibouti but had come from
-Ethiopia, and its passengers' luggage was searched. [@1]
+routine check on 22 October 2026. [@1,2] The vehicle was registered in Djibouti but had come from
+Ethiopia, and its passengers' luggage was searched. [@1,2]
 
-The officers became suspicious of four thick, firm pillows stacked together. [@1] Opening the first,
-they found a plastic bag containing cannabis; the other three held the same. [@1] The statement gave
+The officers became suspicious of four thick, firm pillows stacked together. [@1,2] Opening the first,
+they found a plastic bag containing cannabis; the other three held the same. [@1,2] The statement gave
 no street value for the drug and named no arrests. [@1]
