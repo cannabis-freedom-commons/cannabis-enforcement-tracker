@@ -26,6 +26,11 @@ media:
     media_url: https://media.3news.com/cannabis%20destruction%202.png
     publisher: 3News
     caption: A second view of the burning drugs at Bundase, captioned “cannabis destruction 2.” No photo credit is listed.
+  - kind: photo
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Watch-as-NACOC-destroys-over-10m-worth-of-seized-drugs-2059993
+    media_url: https://cdn.ghanaweb.com/imagelib/pics/656/65653682.295.jpg
+    publisher: GhanaWeb
+    caption: NACOC officials destroy seized illicit drugs at Bundase.
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e5052e36eb7141cb5a7dcf1870939386
@@ -34,6 +39,10 @@ sources:
   - title: NACOC destroys seized drugs valued at over $10m at Bundase
     url: https://3news.com/news/nacoc-destroys-seized-drugs-valued-at-over-10m-at-bundase
     publisher: 3News
+    date: 2026-11-05
+  - title: Watch as NACOC destroys over $10 million worth of seized drugs
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Watch-as-NACOC-destroys-over-10m-worth-of-seized-drugs-2059993
+    publisher: GhanaWeb
     date: 2026-11-05
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
@@ -44,10 +53,10 @@ open_questions:
 
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
-million. [@1] The destroyed stock included 564.39 kilograms of cannabis, valued
-at US$112,878. [@1] The same destruction included 4,730,100 capsules and tablets
+million. [@1,2] The destroyed stock included 564.39 kilograms of cannabis, valued
+at US$112,878. [@1,2] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
-codeine-infused cough mixture, valued at US$4,225,000. [@1] The Ghana Standards
+codeine-infused cough mixture, valued at US$4,225,000. [@1,2] The Ghana Standards
 Authority verified the authenticity of the seized substances before destruction,
 and tests confirmed cannabis in the samples. [@1]
 
@@ -60,4 +69,3 @@ despite the challenges. [@1] Mantey reaffirmed the Commission's resolve to
 intensify efforts to tackle the narcotics trade. [@1] He said NACOC would not
 give up in the face of challenges. [@1] He said the commission would pursue
 traffickers wherever they were and believed it would win the fight. [@1]
-
