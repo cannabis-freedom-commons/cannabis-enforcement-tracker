@@ -50,17 +50,23 @@ sources:
     publisher: الوكالة العربية السورية للأنباء – سانا
     date: 2026-10-31
     language: ar
+  - title: 51 ألف حبة كبتاغون في قبضة الأمن.. تفكيك شبكات مخدرات في حلب وضبط ترسانة متنوعة
+    url: https://www.almjhar.com/ar-sy/NewsView/275479/311643/_51_%D8%A3%D9%84%D9%81_%D8%AD%D8%A8%D8%A9_%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86_%D9%81%D9%8A_%D9%82%D8%A8%D8%B6%D8%A9_%D8%A7%D9%84%D8%A3%D9%85%D9%86_%D8%AA%D9%81%D9%83%D9%8A%D9%83_%D8%B4%D8%A8%D9%83%D8%A7%D8%AA_%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA_%D9%81%D9%8A_%D8%AD%D9%84%D8%A8_%D9%88%D8%B6%D8%A8%D8%B7_%D8%AA%D8%B1%D8%B3%D8%A7%D9%86%D8%A9_%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9_.aspx
+    publisher: تحت المجهر
+    date: 2026-10-31
+    language: ar
 open_questions:
   - The operations' exact date is not given; 31 October 2026 is the publication date of the article and agency post.
   - The department reports arrests but does not give their number or identify the detainees.
   - Ajel describes the operations as carried out with Road Security, while the department's post specifies that one operation involved that branch; it is unclear whether Road Security participated in others.
   - The sources do not specify operation sites within Aleppo Governorate or what happened after referral for investigation.
   - The SANA French page was published on 1 November 2026, a day after the 31 October 2026 sources cited in the existing report; it gives no separate date for the operations.
+  - The Almjhar page displays an image captioned only with the article title, whose content cannot be confirmed to show this seizure from the caption alone, so no media entry is included.
 ---
 
 The Anti-Narcotics Department said its branch in Aleppo Governorate carried out
 several separate security operations against networks active in the trade and
-promotion of narcotic substances. [@2,3,5] One of the operations was conducted in
+promotion of narcotic substances. [@2,3,5,6] One of the operations was conducted in
 cooperation with the Road Security branch; the department said the operations
 dismantled the networks and led to the arrest of a number of their members. [@2,5]
 The authorities described the drug-trading and promotion networks as the focus
@@ -69,8 +75,8 @@ outcomes. [@1]
 
 The reported seizure included 9.571 kilograms of hashish and 21 grams of
 marijuana; converting 21 grams to 0.021 kilograms gives a combined cannabis
-weight of 9.592 kilograms. [@1,3,4,5] The same list included 51,000 Captagon pills and
+weight of 9.592 kilograms. [@1,3,4,5,6] The same list included 51,000 Captagon pills and
 5,430 pregabalin pills as well as a military handgun, separate items from the
 hashish and marijuana quantities. [@1] The agency said those arrested were
 referred to the competent authorities to complete investigations and take the
-necessary legal measures against them. [@2,3,5]
+necessary legal measures against them. [@2,3,5,6]
