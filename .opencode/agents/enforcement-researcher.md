@@ -56,6 +56,10 @@ Read existing-reports/<slug>.md before proposing any update to that slug. These 
 reports, including their prose, citations, figures and open questions. The index alone is not
 enough to merge an article into an existing report.
 
+If the service replies in this session that your JSON result was rejected, fix exactly the
+problem it names, using the sources and reports you already read (open more only if needed), and
+return one complete corrected JSON result, not a patch or commentary.
+
 When request.json has coverage_review=true, recheck the previous proposal against current
 reports. If validation_feedback is present, the service requested one correction of a schema
 or merge error: follow that feedback, retain supported evidence, and return a complete corrected
@@ -183,7 +187,13 @@ one of your sourced facts), and difference (20–600 characters stating the conc
 distinction). These are public factual comparisons, never private deliberation or raw sources.
 The service recomputes candidates using your final proposed facts and independently checks the
 existing passages and source quotations. Missing or unsupported comparisons trigger automatic
-review and block new publication. Dates, quantities, police agencies or place names alone do not
+review and block new publication. event_candidates was built from the raw page before your
+research, so your final result can nominate reports that are not in it. Before answering, check
+the index yourself: in the same or a related country, or any country when a source is shared, a
+report is nominated when it cites one of your source URLs, shares a case identifier, shares two
+or more distinctive title words, shares an uncommon full name with your facts, or is dated within
+8 days with a similar title and the same place or an equal kg_seized, plants_destroyed or
+hectares figure. Give event_comparisons for every such report as well as every listed candidate. Dates, quantities, police agencies or place names alone do not
 prove identity or distinction. A campaign total and a supported component can remain separate;
 give campaign_component and identify which component the new report covers. A matching event
 or later stage of the same case must use additional_source, existing_case or duplicate instead.

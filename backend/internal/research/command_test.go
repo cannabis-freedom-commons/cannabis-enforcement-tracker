@@ -123,3 +123,12 @@ func TestModelConfigUsesSelectedModelName(t *testing.T) {
 		t.Fatalf("probe failure must identify selected model: %s", message)
 	}
 }
+
+func TestCorrectionContinuesSessionWithFeedback(t *testing.T) {
+	args := []string{"run", "--standalone", "--agent", "enforcement-researcher", "--format", "json", "Read request.json"}
+	got := correctionArgs(args, "fix it")
+	want := []string{"run", "--continue", "--standalone", "--agent", "enforcement-researcher", "--format", "json", "fix it"}
+	if strings.Join(got, "|") != strings.Join(want, "|") || args[len(args)-1] != "Read request.json" {
+		t.Fatal(got)
+	}
+}

@@ -263,6 +263,10 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	var result research.Result
 	var initial safeurl.Evidence
 	var dir string
+	// An OpenCode session kept open for one in-job correction (local runner only).
+	var session *research.Session
+	defer func() { session.Close() }()
+	var baseEvidence []safeurl.Evidence
 	if err == nil {
 		if err = json.Unmarshal([]byte(saved), &checkpoint); err != nil {
 			return fmt.Errorf("invalid research checkpoint: %w", err)
@@ -411,7 +415,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			return err
 		}
 		invoked = true
-		result, err = runner.Run(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
+		result, session, err = runner.Start(ctx, j.Ref, dir, run, initial, []byte(store.JSON(reports)))
 		if w.observeResearch != nil && ctx.Err() == nil {
 			w.observeResearch(err)
 		}
@@ -430,222 +434,297 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if aliasErr != nil {
 			return aliasErr
 		}
-		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(checkpoint.Evidence, research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
+		baseEvidence = checkpoint.Evidence
+		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(append([]safeurl.Evidence(nil), baseEvidence...), research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
 		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
 			return err
 		}
 	}
-	result.CleanPresentation()
-	// the answer is public: the request page shows it as a report, whatever happens to it next
-	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": "", "draft_markdown": ""})
-	b, err := os.ReadFile(filepath.Join(w.Config.RepoPath, "src/data/countries.json"))
-	if err != nil {
-		return err
-	}
-	var countries []struct {
-		ID string `json:"id"`
-	}
-	if err = json.Unmarshal(b, &countries); err != nil {
-		return err
-	}
-	ids := map[string]bool{}
-	for _, c := range countries {
-		ids[c.ID] = true
-	}
-	// counts in the text that the figures miss are pointed out as open questions
-	result.Uncertainties = append(result.Uncertainties, research.FigureGaps(result)...)
-	result.Tags = research.CleanTags(result.Tags) // a tag in another script or with spaces is mended, not refused
-	if err = result.Validate(ids); err != nil {
-		if checkpoint.RepairAttempts < 1 {
-			return w.requeueResearchReview(ctx, j, nil, "The result did not pass schema validation: "+err.Error()+". Correct the result using the saved sources and current reports; do not invent missing evidence.")
-		}
-		return w.Store.Transition(ctx, j.Ref, "failed", "The AI result did not pass validation ("+err.Error()+") and cannot be published automatically.", "", "")
-	}
-	// Scope decisions do not draft facts. They must not fail quotation checks for
-	// having no quotations, or download corroborating pages unnecessarily.
-	if !result.Drafts() {
-		if err = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": ""}); err != nil {
+	// A rejected answer gets one correction. With an open session the same agent fixes it here,
+	// and the corrected answer goes through every check again from the top of this loop.
+	for {
+		result.CleanPresentation()
+		// the answer is public: the request page shows it as a report, whatever happens to it next
+		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": "", "draft_markdown": ""})
+		b, err := os.ReadFile(filepath.Join(w.Config.RepoPath, "src/data/countries.json"))
+		if err != nil {
 			return err
 		}
-		outcome := result.Outcome
-		if outcome == "needs_review" {
-			outcome = "insufficient_evidence"
+		var countries []struct {
+			ID string `json:"id"`
 		}
-		matched := ""
-		if outcome == "duplicate" && result.ExistingReport != "" {
-			reports, err := Coverage(w.Config.RepoPath)
+		if err = json.Unmarshal(b, &countries); err != nil {
+			return err
+		}
+		ids := map[string]bool{}
+		for _, c := range countries {
+			ids[c.ID] = true
+		}
+		// counts in the text that the figures miss are pointed out as open questions
+		result.Uncertainties = append(result.Uncertainties, research.FigureGaps(result)...)
+		result.Tags = research.CleanTags(result.Tags) // a tag in another script or with spaces is mended, not refused
+		if err = result.Validate(ids); err != nil {
+			if checkpoint.RepairAttempts < 1 {
+				problem := "The result did not pass schema validation: " + err.Error() + ". Correct the result using the saved sources and current reports; do not invent missing evidence."
+				if session != nil {
+					if result, err = w.correctInSession(ctx, j, session, &checkpoint, problem, dir, baseEvidence); err != nil {
+						return err
+					}
+					continue
+				}
+				return w.requeueResearchReview(ctx, j, nil, problem)
+			}
+			return w.Store.Transition(ctx, j.Ref, "failed", "The AI result did not pass validation ("+err.Error()+") and cannot be published automatically.", "", "")
+		}
+		// Scope decisions do not draft facts. They must not fail quotation checks for
+		// having no quotations, or download corroborating pages unnecessarily.
+		if !result.Drafts() {
+			if err = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": ""}); err != nil {
+				return err
+			}
+			outcome := result.Outcome
+			if outcome == "needs_review" {
+				outcome = "insufficient_evidence"
+			}
+			matched := ""
+			if outcome == "duplicate" && result.ExistingReport != "" {
+				reports, err := Coverage(w.Config.RepoPath)
+				if err != nil {
+					return err
+				}
+				for _, report := range reports {
+					if report.Slug == result.ExistingReport {
+						matched = report.Slug
+					}
+				}
+				if matched == "" {
+					return w.Store.Transition(ctx, j.Ref, "failed", "The proposed duplicate names a report that is no longer available. Restart to check the current coverage.", "", "")
+				}
+			}
+			return w.Store.Transition(ctx, j.Ref, outcome, result.Explanation, matched, "")
+		}
+		if result.Outcome == "new_event" {
+			current, err := Coverage(w.Config.RepoPath)
 			if err != nil {
 				return err
 			}
-			for _, report := range reports {
-				if report.Slug == result.ExistingReport {
-					matched = report.Slug
-				}
+			if coverageDiffers(current, result, checkpoint.Coverage, nil) {
+				return w.requeueCoverageReview(ctx, j, nil)
 			}
-			if matched == "" {
-				return w.Store.Transition(ctx, j.Ref, "failed", "The proposed duplicate names a report that is no longer available. Restart to check the current coverage.", "", "")
+			_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
+			if aliasErr != nil {
+				return aliasErr
+			}
+			if aliases != checkpoint.AliasDigest {
+				return w.requeueCoverageReview(ctx, j, nil)
 			}
 		}
-		return w.Store.Transition(ctx, j.Ref, outcome, result.Explanation, matched, "")
-	}
-	if result.Outcome == "new_event" {
-		current, err := Coverage(w.Config.RepoPath)
-		if err != nil {
-			return err
-		}
-		if coverageDiffers(current, result, checkpoint.Coverage, nil) {
-			return w.requeueCoverageReview(ctx, j, nil)
-		}
-		_, aliases, aliasErr := research.ReadReportAliases(w.Config.RepoPath)
-		if aliasErr != nil {
-			return aliasErr
-		}
-		if aliases != checkpoint.AliasDigest {
-			return w.requeueCoverageReview(ctx, j, nil)
-		}
-	}
 
-	// a blocked extra source or a missing quotation is noted and worked around; only a really bad
-	// answer (nothing confirmed, or most quotations missing) stops here
-	if err = w.Store.Transition(ctx, j.Ref, "verifying", "Checking every quotation against saved source captures; opening sources not already captured.", "", ""); err != nil {
-		return err
-	}
-	confirmed, evidence, check, err := result.Confirm(ctx, initial, func(ctx context.Context, u string) (safeurl.Evidence, error) { return w.loadSource(ctx, j.Ref, u) }, checkpoint.Evidence...)
-	if ctx.Err() != nil {
-		return ctx.Err()
-	}
-	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": store.JSON(check)})
-	if err != nil {
-		return w.Store.Transition(ctx, j.Ref, w.uncertainOutcome(), "The facts could not be confirmed in the sources ("+err.Error()+").", "", "")
-	}
-	result = confirmed
-	if result.Outcome == "new_event" {
-		reports, identityErr := Coverage(dir)
-		if identityErr != nil {
-			return identityErr
-		}
-		identityErr = research.CheckEventComparisons(result, reports, true)
-		if identityErr == nil {
-			identityErr = research.CheckRetiredIdentity(dir, result.Slug, result.Code)
-		}
-		if identityErr != nil {
-			if checkpoint.RepairAttempts < 1 {
-				return w.requeueResearchReview(ctx, j, nil, "The new-event identity check failed: "+identityErr.Error()+". Read event-candidates.json and each original report. Supply event_comparisons for every nominated match, with a body excerpt and a quotation-supported fact demonstrating the distinction. A matching event or later case stage must update the existing report instead of creating another. Keep genuinely distinct events and campaign components separate.")
-			}
-			return w.Store.Transition(ctx, j.Ref, "failed", "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.", "", "")
-		}
-	}
-	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result)})
-	if err = research.SaveEvidence(dir, evidence); err != nil {
-		return err
-	}
-	// a source already cited by a report this answer updates is not an overlap: adding to that
-	// report is the point
-	targets := map[string]bool{}
-	if result.Outcome == "additional_source" {
-		targets[result.ExistingReport] = true
-	}
-	for _, u := range result.Updates {
-		targets[u.Report] = true
-	}
-	known := map[string]bool{}
-	if len(targets) > 0 {
-		reports, err := Coverage(w.Config.RepoPath)
-		if err != nil {
-			slog.Error("report coverage could not be loaded", "error", err)
+		// a blocked extra source or a missing quotation is noted and worked around; only a really bad
+		// answer (nothing confirmed, or most quotations missing) stops here
+		if err = w.Store.Transition(ctx, j.Ref, "verifying", "Checking every quotation against saved source captures; opening sources not already captured.", "", ""); err != nil {
 			return err
 		}
-		for _, r := range reports {
-			if targets[r.Slug] {
-				for _, source := range r.Sources {
-					if u, err := safeurl.Normalize(source.URL); err == nil {
-						known[u] = true
+		confirmed, evidence, check, err := result.Confirm(ctx, initial, func(ctx context.Context, u string) (safeurl.Evidence, error) { return w.loadSource(ctx, j.Ref, u) }, checkpoint.Evidence...)
+		if ctx.Err() != nil {
+			return ctx.Err()
+		}
+		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": store.JSON(check)})
+		if err != nil {
+			return w.Store.Transition(ctx, j.Ref, w.uncertainOutcome(), "The facts could not be confirmed in the sources ("+err.Error()+").", "", "")
+		}
+		result = confirmed
+		if result.Outcome == "new_event" {
+			reports, identityErr := Coverage(dir)
+			if identityErr != nil {
+				return identityErr
+			}
+			identityErr = research.CheckEventComparisons(result, reports, true)
+			if identityErr == nil {
+				identityErr = research.CheckRetiredIdentity(dir, result.Slug, result.Code)
+			}
+			if identityErr != nil {
+				if checkpoint.RepairAttempts < 1 {
+					problem := "The new-event identity check failed: " + identityErr.Error() + ". Read event-candidates.json and each original report. Supply event_comparisons for every nominated match, with a body excerpt and a quotation-supported fact demonstrating the distinction. A matching event or later case stage must update the existing report instead of creating another. Keep genuinely distinct events and campaign components separate."
+					if session != nil {
+						if result, err = w.correctInSession(ctx, j, session, &checkpoint, problem, dir, baseEvidence); err != nil {
+							return err
+						}
+						continue
+					}
+					return w.requeueResearchReview(ctx, j, nil, problem)
+				}
+				return w.Store.Transition(ctx, j.Ref, "failed", "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.", "", "")
+			}
+		}
+		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result)})
+		if err = research.SaveEvidence(dir, evidence); err != nil {
+			return err
+		}
+		// a source already cited by a report this answer updates is not an overlap: adding to that
+		// report is the point
+		targets := map[string]bool{}
+		if result.Outcome == "additional_source" {
+			targets[result.ExistingReport] = true
+		}
+		for _, u := range result.Updates {
+			targets[u.Report] = true
+		}
+		known := map[string]bool{}
+		if len(targets) > 0 {
+			reports, err := Coverage(w.Config.RepoPath)
+			if err != nil {
+				slog.Error("report coverage could not be loaded", "error", err)
+				return err
+			}
+			for _, r := range reports {
+				if targets[r.Slug] {
+					for _, source := range r.Sources {
+						if u, err := safeurl.Normalize(source.URL); err == nil {
+							known[u] = true
+						}
 					}
 				}
 			}
 		}
-	}
-	for _, e := range evidence {
-		sum := sha256.Sum256([]byte(e.Content))
-		sourceCase, err := w.claimSource(ctx, j.Ref, e.URL, e.FinalURL, hex.EncodeToString(sum[:]))
-		if err != nil {
+		for _, e := range evidence {
+			sum := sha256.Sum256([]byte(e.Content))
+			sourceCase, err := w.claimSource(ctx, j.Ref, e.URL, e.FinalURL, hex.EncodeToString(sum[:]))
+			if err != nil {
+				return err
+			}
+			if sourceCase != j.Ref && !known[e.URL] && !known[e.FinalURL] {
+				return w.rejectSourceOverlap(ctx, j.Ref, sourceCase, e.URL, check)
+			}
+		}
+		if err = w.Store.Transition(ctx, j.Ref, "drafted", "A cited draft is being checked against the repository rules.", "", ""); err != nil {
 			return err
 		}
-		if sourceCase != j.Ref && !known[e.URL] && !known[e.FinalURL] {
-			return w.rejectSourceOverlap(ctx, j.Ref, sourceCase, e.URL, check)
+		// a new report keeps the submission it came from (the first one for this case), for reference;
+		// updates of existing reports keep theirs
+		if err = w.Store.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, id LIMIT 1", j.Ref).Scan(&result.Submission); err != nil {
+			return err
 		}
-	}
-	if err = w.Store.Transition(ctx, j.Ref, "drafted", "A cited draft is being checked against the repository rules.", "", ""); err != nil {
-		return err
-	}
-	// a new report keeps the submission it came from (the first one for this case), for reference;
-	// updates of existing reports keep theirs
-	if err = w.Store.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, id LIMIT 1", j.Ref).Scan(&result.Submission); err != nil {
-		return err
-	}
-	// the same photo republished by several outlets is shown once
-	if len(result.Media) > 0 {
-		fetch := w.FetchImage
-		if fetch == nil {
-			fetch = research.FetchImage
+		// the same photo republished by several outlets is shown once
+		if len(result.Media) > 0 {
+			fetch := w.FetchImage
+			if fetch == nil {
+				fetch = research.FetchImage
+			}
+			var existing []string
+			if result.Outcome != "new_event" {
+				existing = research.ReportMedia(dir, result.ExistingReport)
+			}
+			var dropped []string
+			result.Media, dropped = research.DedupeMedia(ctx, result.Media, existing, fetch)
+			if ctx.Err() != nil {
+				return ctx.Err()
+			}
+			if len(dropped) > 0 {
+				slog.Info("duplicate photos left out", "case", j.Ref, "count", len(dropped))
+			}
 		}
-		var existing []string
-		if result.Outcome != "new_event" {
-			existing = research.ReportMedia(dir, result.ExistingReport)
-		}
-		var dropped []string
-		result.Media, dropped = research.DedupeMedia(ctx, result.Media, existing, fetch)
+		draft, err := research.ValidateBuild(ctx, dir, result)
 		if ctx.Err() != nil {
 			return ctx.Err()
 		}
-		if len(dropped) > 0 {
-			slog.Info("duplicate photos left out", "case", j.Ref, "count", len(dropped))
+		if errors.Is(err, research.ErrUnchanged) {
+			return w.Store.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
 		}
+		if err != nil {
+			if errors.Is(err, research.ErrMergeTarget) && checkpoint.RepairAttempts < 1 {
+				problem := "An update could not match its existing sentence. Read the current target report and copy each corroborated sentence exactly into existing_text, without citations. Only genuinely new details may use new_detail:true. Do not append paraphrases of existing prose."
+				if session != nil {
+					if result, err = w.correctInSession(ctx, j, session, &checkpoint, problem, dir, baseEvidence); err != nil {
+						return err
+					}
+					continue
+				}
+				return w.requeueResearchReview(ctx, j, nil, problem)
+			}
+			var build *research.BuildError
+			if errors.As(err, &build) {
+				return w.Store.Transition(ctx, j.Ref, "failed", "The AI's draft did not pass the report check:\n\n"+build.Detail+"\n\nRestart to research and draft it again.", "", "")
+			}
+			return w.Store.Transition(ctx, j.Ref, "failed", "The draft could not be prepared for the report build ("+err.Error()+"). Restart to try again.", "", "")
+		}
+		// the request page lists the reports this run changes: keep only the updates that change something
+		applied := map[string]bool{}
+		updates := []fileJob{}
+		for _, u := range draft.Updates {
+			applied[u.Slug] = true
+			sum := sha256.Sum256([]byte(u.Content))
+			updates = append(updates, fileJob{Rel: u.Path, Slug: u.Slug, Title: u.Title, Digest: hex.EncodeToString(sum[:])})
+		}
+		kept := result.Updates[:0]
+		for _, u := range result.Updates {
+			if applied[u.Report] {
+				kept = append(kept, u)
+			}
+		}
+		result.Updates = kept
+		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
+		digest := sha256.Sum256([]byte(draft.Content))
+		payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage, AliasDigest: checkpoint.AliasDigest, IdentityResult: &result}
+		tx, err := w.Store.DB.BeginTx(ctx, nil)
+		if err != nil {
+			return err
+		}
+		defer tx.Rollback()
+		if err = store.Enqueue(tx, "jobs", "publish", j.Ref, store.JSON(payload), time.Now().Unix()); err != nil {
+			return err
+		}
+		return tx.Commit()
 	}
-	draft, err := research.ValidateBuild(ctx, dir, result)
-	if ctx.Err() != nil {
-		return ctx.Err()
+}
+
+// correctInSession sends one correction to the still-open OpenCode session. The checkpoint is
+// marked for review first: if the worker stops during the correction, recovery runs the same
+// correction as a fresh review from saved evidence and never accepts the rejected answer.
+func (w *Worker) correctInSession(ctx context.Context, j store.Job, session *research.Session, checkpoint *researchCheckpoint, problem, dir string, baseEvidence []safeurl.Evidence) (research.Result, error) {
+	checkpoint.ReviewCoverage, checkpoint.ReviewProblem = true, problem
+	checkpoint.RepairAttempts++
+	if _, err := w.Store.DB.ExecContext(ctx, "UPDATE research_checkpoints SET payload=? WHERE case_id=?", store.JSON(*checkpoint), j.Ref); err != nil {
+		return research.Result{}, err
 	}
-	if errors.Is(err, research.ErrUnchanged) {
-		return w.Store.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
+	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"draft_path": "", "draft_markdown": ""})
+	if err := w.Store.Transition(ctx, j.Ref, "researching", "The proposed result needs a correction. OpenCode is fixing it in the same research session; all evidence and report checks still apply.", "", ""); err != nil {
+		return research.Result{}, err
+	}
+	run, err := w.Store.Reserve(ctx, j.Ref, dir, w.Config.RunCents, w.Config.DailyCents)
+	if err != nil {
+		return research.Result{}, err
+	}
+	if _, err = w.Store.DB.ExecContext(ctx, "UPDATE research_runs SET model=?,runner=?,status='preparing' WHERE id=?", w.Config.ResearchModel, w.Config.ResearchRunner, run); err != nil {
+		return research.Result{}, err
+	}
+	result, err := session.Correct(ctx, run, problem)
+	if w.observeResearch != nil && ctx.Err() == nil {
+		w.observeResearch(err)
 	}
 	if err != nil {
-		if errors.Is(err, research.ErrMergeTarget) && checkpoint.RepairAttempts < 1 {
-			return w.requeueResearchReview(ctx, j, nil, "An update could not match its existing sentence. Read the current target report and copy each corroborated sentence exactly into existing_text, without citations. Only genuinely new details may use new_detail:true. Do not append paraphrases of existing prose.")
-		}
-		var build *research.BuildError
-		if errors.As(err, &build) {
-			return w.Store.Transition(ctx, j.Ref, "failed", "The AI's draft did not pass the report check:\n\n"+build.Detail+"\n\nRestart to research and draft it again.", "", "")
-		}
-		return w.Store.Transition(ctx, j.Ref, "failed", "The draft could not be prepared for the report build ("+err.Error()+"). Restart to try again.", "", "")
+		return research.Result{}, err
 	}
-	// the request page lists the reports this run changes: keep only the updates that change something
-	applied := map[string]bool{}
-	updates := []fileJob{}
-	for _, u := range draft.Updates {
-		applied[u.Slug] = true
-		sum := sha256.Sum256([]byte(u.Content))
-		updates = append(updates, fileJob{Rel: u.Path, Slug: u.Slug, Title: u.Title, Digest: hex.EncodeToString(sum[:])})
+	result.CreatedByModel = w.Config.ResearchModel
+	addedAt, code := checkpoint.AddedAt, checkpoint.Code
+	if result.Outcome == "new_event" {
+		result.AddedAt, result.Code = addedAt, code
+	} else {
+		addedAt, code = "", ""
 	}
-	kept := result.Updates[:0]
-	for _, u := range result.Updates {
-		if applied[u.Report] {
-			kept = append(kept, u)
-		}
-	}
-	result.Updates = kept
-	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
-	digest := sha256.Sum256([]byte(draft.Content))
-	payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage, AliasDigest: checkpoint.AliasDigest, IdentityResult: &result}
-	tx, err := w.Store.DB.BeginTx(ctx, nil)
+	reports, err := Coverage(dir)
 	if err != nil {
-		return err
+		return research.Result{}, err
 	}
-	defer tx.Rollback()
-	if err = store.Enqueue(tx, "jobs", "publish", j.Ref, store.JSON(payload), time.Now().Unix()); err != nil {
-		return err
+	_, aliasDigest, err := research.ReadReportAliases(dir)
+	if err != nil {
+		return research.Result{}, err
 	}
-	return tx.Commit()
+	*checkpoint = researchCheckpoint{Result: result, Initial: checkpoint.Initial, Evidence: append(append([]safeurl.Evidence(nil), baseEvidence...), research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: checkpoint.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: addedAt, Code: code, RepairAttempts: checkpoint.RepairAttempts}
+	if _, err = w.Store.DB.ExecContext(ctx, "UPDATE research_checkpoints SET payload=? WHERE case_id=?", store.JSON(*checkpoint), j.Ref); err != nil {
+		return research.Result{}, err
+	}
+	return result, nil
 }
 
 // Private durable output; never part of the public API. Validation and source checks rerun on recovery.

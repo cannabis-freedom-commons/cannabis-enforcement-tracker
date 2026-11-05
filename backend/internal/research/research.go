@@ -825,38 +825,84 @@ func (b *capped) Write(p []byte) (int, error) {
 	}
 	return b.Buffer.Write(p)
 }
-func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidence, coverage []byte) (result Result, runErr error) {
-	var events *eventWriter
+func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidence, coverage []byte) (Result, error) {
+	result, session, err := r.Start(ctx, cid, dir, run, e, coverage)
+	session.Close()
+	return result, err
+}
+
+// Session is a finished OpenCode conversation kept open for one correction. When the service's
+// checks reject an answer, the same agent continues with the feedback while it still has every
+// source and report it read, instead of the case going back to the queue for a fresh run.
+type Session struct {
+	runner   Runner
+	cid, dir string
+	cmd      *exec.Cmd
+	cleanup  func()
+}
+
+// Close removes the session's private OpenCode home. A nil session is a no-op.
+func (s *Session) Close() {
+	if s != nil && s.cleanup != nil {
+		s.cleanup()
+		s.cleanup = nil
+	}
+}
+
+// correctionArgs continues the run's only session with the feedback as the next message.
+func correctionArgs(args []string, feedback string) []string {
+	out := append([]string(nil), args...)
+	for i, arg := range out {
+		if arg == "run" {
+			out = append(out[:i+1], append([]string{"--continue"}, out[i+1:]...)...)
+			break
+		}
+	}
+	out[len(out)-1] = feedback
+	return out
+}
+
+// Correct sends the service's validation feedback to the same OpenCode session and returns its
+// corrected answer. The answer goes through every check again; nothing here trusts it more.
+func (s *Session) Correct(ctx context.Context, run, problem string) (result Result, runErr error) {
+	if s == nil || s.cmd == nil || s.cleanup == nil {
+		return Result{}, errors.New("no research session to correct")
+	}
+	r := s.runner
 	if err := r.Store.StartRun(ctx, run, r.Config.ResearchModel, r.Config.ResearchRunner); err != nil {
 		return Result{}, err
 	}
-	if err := r.Store.AddAIEvent(ctx, cid, run, "user", "request", "Investigate the submitted source, confirm the event and follow the tracker editorial rules."); err != nil {
+	if err := r.Store.AddAIEvent(ctx, s.cid, run, "user", "request", "The answer did not pass the service checks. Correct it in the same session using the sources already read: "+problem); err != nil {
 		return Result{}, err
 	}
+	feedback := "The service rejected your JSON result: " + problem + "\nCorrect the result using the sources and reports you already read; open more only if needed. Do not invent missing evidence. Return exactly one complete JSON result matching the contract in the agent instructions."
+	cmd := exec.CommandContext(ctx, s.cmd.Path, correctionArgs(s.cmd.Args[1:], feedback)...)
+	cmd.Env, cmd.Dir = s.cmd.Env, s.cmd.Dir
+	return r.execute(ctx, s.cid, s.dir, run, cmd, true)
+}
+
+// Start runs the research agent. The returned session is non-nil only when the runner can
+// continue the conversation (the local runner keeps its private home); callers must Close it.
+func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evidence, coverage []byte) (result Result, session *Session, runErr error) {
+	if err := r.Store.StartRun(ctx, run, r.Config.ResearchModel, r.Config.ResearchRunner); err != nil {
+		return Result{}, nil, err
+	}
+	if err := r.Store.AddAIEvent(ctx, cid, run, "user", "request", "Investigate the submitted source, confirm the event and follow the tracker editorial rules."); err != nil {
+		return Result{}, nil, err
+	}
+	executed := false
 	defer func() {
-		endCtx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
-		defer cancel()
-		status := "completed"
-		if runErr != nil {
-			status = "failed"
-			if errors.Is(ctx.Err(), context.Canceled) {
-				status = "interrupted"
-			}
-			// say why, in words: the data is public, only credentials are redacted
-			why := runErr.Error()
-			if errors.Is(runErr, store.ErrResearchAgent) {
-				why = store.ErrResearchAgent.Error()
-			} else if events != nil {
-				why = events.safe(why)
-			}
-			_ = r.Store.AddAIEvent(endCtx, cid, run, "system", "error", "The OpenCode run could not complete: "+why+". Processing will retry automatically within its limits.")
+		if runErr != nil && !executed {
+			endCtx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+			defer cancel()
+			_ = r.Store.AddAIEvent(endCtx, cid, run, "system", "error", "The OpenCode run could not complete: the research workspace could not be prepared. Processing will retry automatically within its limits.")
+			_ = r.Store.EndRun(endCtx, run, "failed", "")
 		}
-		_ = r.Store.EndRun(endCtx, run, status, result.Outcome)
 	}()
 
 	_, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=? WHERE id=?", dir, run)
 	if err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	// Bound model input independently of the larger private evidence archive.
 	if len(e.Content) > 100000 {
@@ -864,12 +910,12 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	}
 	input := filepath.Join(dir, ".research-input")
 	if err = os.Mkdir(input, 0755); err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	// Mount an explicit allowlist, not the repository's .git, environment, or production DB.
 	var reportRows []json.RawMessage
 	if err = json.Unmarshal(coverage, &reportRows); err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	var index strings.Builder
 	for _, row := range reportRows {
@@ -888,7 +934,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	files := map[string][]byte{"reports-index.jsonl": []byte(index.String())}
 	var identityReports []ReportIndex
 	if err = json.Unmarshal(coverage, &identityReports); err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	proposal := Result{Facts: []Fact{{Text: text}}, Sources: []Source{{URL: e.URL}, {URL: e.FinalURL}}}
 	if e.Metadata != nil {
@@ -901,7 +947,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	request["event_candidates"] = "event-candidates.json"
 	aliases, _, aliasErr := ReadReportAliases(dir)
 	if aliasErr != nil {
-		return Result{}, aliasErr
+		return Result{}, nil, aliasErr
 	}
 	files["retired-report-aliases.json"], _ = json.MarshalIndent(aliases, "", "  ")
 	request["retired_report_aliases"] = "retired-report-aliases.json"
@@ -929,7 +975,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	// paraphrasing the same facts into a second copy of the report.
 	reportFiles, err := existingReportFiles(dir)
 	if err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	for name, content := range reportFiles {
 		files[name] = content
@@ -972,7 +1018,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	files["request.json"] = []byte(store.JSON(request))
 	examples, err := exampleReports(r.Config.RepoPath, 3)
 	if err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
 	for name, b := range examples {
 		files["examples/"+name] = b
@@ -980,7 +1026,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	for _, path := range []string{"docs/CFI.md", "docs/WRITING.md", ".claude/skills/add-report/SKILL.md", ".claude/skills/find-reports/SKILL.md", ".opencode/agents/enforcement-researcher.md", "src/data/countries.json"} {
 		b, err := os.ReadFile(filepath.Join(r.Config.RepoPath, path))
 		if err != nil {
-			return Result{}, err
+			return Result{}, nil, err
 		}
 		if path == "src/data/countries.json" {
 			var countries []struct {
@@ -988,7 +1034,7 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 				Name string `json:"name"`
 			}
 			if err = json.Unmarshal(b, &countries); err != nil {
-				return Result{}, err
+				return Result{}, nil, err
 			}
 			b = []byte(store.JSON(countries))
 		}
@@ -1001,29 +1047,68 @@ func (r Runner) Run(ctx context.Context, cid, dir, run string, e safeurl.Evidenc
 	for path, b := range files {
 		target := filepath.Join(input, path)
 		if err = os.MkdirAll(filepath.Dir(target), 0755); err != nil {
-			return Result{}, err
+			return Result{}, nil, err
 		}
 		if err = os.WriteFile(target, b, 0644); err != nil {
-			return Result{}, err
+			return Result{}, nil, err
 		}
 	}
 	cmd, cleanup, err := r.command(ctx, input, run)
 	if err != nil {
-		return Result{}, err
+		return Result{}, nil, err
 	}
-	defer cleanup()
-	out := &capped{Max: 4 * 1024 * 1024}
+	// The Docker runner's container and its session are gone when it exits.
+	continuable := r.Config.ResearchRunner == "local"
+	template := &exec.Cmd{Path: cmd.Path, Args: append([]string(nil), cmd.Args...), Env: cmd.Env, Dir: cmd.Dir}
+	executed = true
+	result, err = r.execute(ctx, cid, dir, run, cmd, false)
+	if err != nil || !continuable {
+		cleanup()
+		return result, nil, err
+	}
+	return result, &Session{runner: r, cid: cid, dir: dir, cmd: template, cleanup: cleanup}, nil
+}
+
+// execute runs one OpenCode invocation and parses its final JSON answer. A correction appends
+// to the run's event log so tool evidence from both invocations stays available.
+func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd, appendLog bool) (result Result, runErr error) {
+	var events *eventWriter
+	defer func() {
+		endCtx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+		defer cancel()
+		status := "completed"
+		if runErr != nil {
+			status = "failed"
+			if errors.Is(ctx.Err(), context.Canceled) {
+				status = "interrupted"
+			}
+			// say why, in words: the data is public, only credentials are redacted
+			why := runErr.Error()
+			if errors.Is(runErr, store.ErrResearchAgent) {
+				why = store.ErrResearchAgent.Error()
+			} else if events != nil {
+				why = events.safe(why)
+			}
+			_ = r.Store.AddAIEvent(endCtx, cid, run, "system", "error", "The OpenCode run could not complete: "+why+". Processing will retry automatically within its limits.")
+		}
+		_ = r.Store.EndRun(endCtx, run, status, result.Outcome)
+	}()
 	key := r.Config.ResearchKey
 	if localKey := selectedProviderKey(cmd); localKey != "" {
 		key = localKey
 	}
+	out := &capped{Max: 4 * 1024 * 1024}
 	events = &eventWriter{ctx: ctx, store: r.Store, cid: cid, run: run, secret: key}
-	raw, err := os.OpenFile(filepath.Join(dir, "research-events.jsonl"), os.O_CREATE|os.O_TRUNC|os.O_WRONLY, 0600)
+	flags := os.O_CREATE | os.O_WRONLY | os.O_TRUNC
+	if appendLog {
+		flags = os.O_CREATE | os.O_WRONLY | os.O_APPEND
+	}
+	raw, err := os.OpenFile(filepath.Join(dir, "research-events.jsonl"), flags, 0600)
 	if err != nil {
 		return Result{}, err
 	}
 	defer raw.Close()
-	diagnostics, err := os.OpenFile(filepath.Join(dir, "research-stderr.log"), os.O_CREATE|os.O_TRUNC|os.O_WRONLY, 0600)
+	diagnostics, err := os.OpenFile(filepath.Join(dir, "research-stderr.log"), flags, 0600)
 	if err != nil {
 		return Result{}, err
 	}
