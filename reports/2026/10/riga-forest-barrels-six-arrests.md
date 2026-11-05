@@ -29,6 +29,11 @@ media:
     media_url: https://www.youtube.com/watch?v=zKHu-t3xDCQ
     publisher: Valsts policija (State Police), YouTube
     caption: State Police video of the operation, titled on YouTube 'Narkodīleru grupējums mežos Rīgā un Pierīgā slēpis desmitiem kilogramu narkotiku', embedded in the article.
+  - kind: video
+    url: https://www.lsm.lv/raksts/zinas/latvija/05.11.2026-aizturets-narkodileru-grupejums-kas-mezos-riga-un-pieriga-mucas-slepis-desmitiem-kilogramu-narkotiku.a670637/
+    media_url: https://static.lsm.lv/media/2026/11/ujtq.mp3
+    publisher: LSM.lv
+    caption: 'Audio interview about the case with Dmitrijs Vorobjovs, deputy head of the State Police Riga regional board''s drug-enforcement division. Credit: LSM.lv'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 967d7cff14a911dcaf46a76c4e812ad0
@@ -49,6 +54,16 @@ sources:
     publisher: Valsts policija
     date: 2026-11-05
     language: lv
+  - title: 'Mežos pie Rīgas atrastas zemē ieraktas mucas: policiju pārsteidz slēptuvju saturs'
+    url: https://lat.bb.lv/raksts/kriminalzinas/2026/11/05/narkotikas-slepa-zeme-ieraktas-mucas-bet-tirdzniecibu-vadija-no-cietuma-policija-atklajusi-shemu-rigas-regiona-119204
+    publisher: BB.LV
+    date: 2026-11-05
+    language: lv
+  - title: Aizturēts narkodīleru grupējums, kas mežos Rīgā un Pierīgā mucās slēpis desmitiem kilogramu narkotiku
+    url: https://www.lsm.lv/raksts/zinas/latvija/05.11.2026-aizturets-narkodileru-grupejums-kas-mezos-riga-un-pieriga-mucas-slepis-desmitiem-kilogramu-narkotiku.a670637/
+    publisher: LSM.lv
+    date: 2026-11-05
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -60,6 +75,9 @@ open_questions:
   - The text gives a weight ("36 kg") but the figures have no kg_seized; check whether it belongs there.
   - The State Police release and the newspaper accounts give exactly 15.7485 kg of marijuana and 630 grams of hashish but no weight for the 34 THC devices, so 16.3785 kg counts dried marijuana and hashish only.
   - No cannabis-only street value was published; the earlier 36 kg figure and any total value cover amphetamine, cocaine and other substances as well.
+  - LSM names the deputy head of the State Police Riga regional board's drug-enforcement division, Dmitrijs Vorobjovs, as the officer who gave an audio interview about the case, but does not attribute any quoted figures to him.
+  - 'Left out, as its quotation was not found in LSM.lv: State Police seized 15.7485 kg of marijuana, 630 grams of hashish and 34 devices containing THC.'
+  - 'Left out, as its quotation was not found in LSM.lv: Two other Latvian citizens in the scheme carried out the offences while in prison.'
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
@@ -68,7 +86,7 @@ drugs in barrels buried in the forest. [@1] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
 to escape. [@1,2] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1,3] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3,4] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
 Latvia. [@1,2] Two detained Lithuanians were wanted in Lithuania at the time, one
 of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
@@ -77,12 +95,12 @@ for theft, and was handed over to serve his sentence. [@1] The other detained
 Latvian had been released from prison only in spring after serving a sentence
 for a similar drug-trafficking offence. [@1] On 23 October a court imposed
 pretrial custody, the strictest restraint, on five suspects, four Lithuanians
-and one Latvian. [@1]
+and one Latvian. [@1,4]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1,2] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2,4] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1]
 State Police said this was the first discovery in the Riga region of such a
@@ -96,3 +114,5 @@ investigation continues to establish all circumstances and to check possible
 involvement of other people. [@1]
 
 Police said the crime was uncovered in close cooperation with the Prison Administration. [@3] The investigation began on 14 October 2026 in the 1st section of the 4th Bureau of the State Police Riga regional board's criminal police. [@2] The operation was run with the State Police cybercrime, investigation support, technical support and OMEGA counter-terrorism units. [@2] The criminal case cites organised-group trafficking, bringing communication devices into prison and driving under the influence of drugs. [@3]
+
+Dmitrijs Vorobjovs, deputy head of the State Police Riga regional board's drug-enforcement division, spoke about the case in an audio interview for LSM. [@5]
