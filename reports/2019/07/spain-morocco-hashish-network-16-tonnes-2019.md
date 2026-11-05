@@ -28,14 +28,24 @@ sources:
     publisher: Cannabis Law Report
     url: https://cannabislaw.report/another-huge-bust-in-spain-bringing-in-suspects-from-morocco-dominican-republic-as-well-16000-kilos-of-hash/
     date: 2019-07-20
+  - title: Cae una red de narcotráfico con 23 detenidos y 16.000 kilos de hachís
+    url: https://www.telemadrid.es/programas/buenos-dias-madrid/Cae-narcotrafico-detenidos-kilos-hachis-2-2141505838--20190719112210.html
+    publisher: Telemadrid
+    date: 2019-07-19
+    language: es
 open_questions:
   - The opened sources do not give a per-province breakdown of the arrests or the seized hashish.
   - No court outcomes for the 23 arrested people were reported in the opened sources.
   - A photo on the second source page could not be verified as depicting this event, so no media entry was added.
+  - The Telemadrid article reports 7.4 kilos of hashish seized on the Western Sahara-Mauritania border, while the existing report records 7,400 kilos from its other source, and the discrepancy is unresolved.
+  - The article says the final enforcement phase could not be carried out until the previous May but gives no exact date for that phase, while 19 July 2019 remains the operation date used by the existing report.
+  - The page carries a photo captioned with the headline, but the caption and article text do not describe what it depicts, so no media entry was added.
 ---
 
-Spanish and Moroccan police broke up an international hashish trafficking network on 19 July 2019, arresting 23 people in the two countries and seizing 16 tonnes of hashish. [@1] Most of the arrests were in Spain, with one in the Dominican Republic and two in Morocco, in an operation against a ring that hid the drug in lorries run through transport and agricultural import companies. [@1,2]
+Spanish and Moroccan police broke up an international hashish trafficking network on 19 July 2019, arresting 23 people in the two countries and seizing 16 tonnes of hashish. [@1] Most of the arrests were in Spain, with one in the Dominican Republic and two in Morocco, in an operation against a ring that hid the drug in lorries run through transport and agricultural import companies. [@1,2,3]
 
-The network operated in Almería and Seville among other areas, and investigators described it as highly structured. [@2] As well as the 16,000 kilos of hashish, the authorities seized 3.5 million euros in cash, eight top-of-the-range vehicles and embargoed twenty properties worth a combined 2 million euros. [@2] Those held face charges including crimes against public health, illegal possession of arms and money laundering. [@2]
+The network operated in Almería and Seville among other areas, and investigators described it as highly structured. [@2] As well as the 16,000 kilos of hashish, the authorities seized 3.5 million euros in cash, eight top-of-the-range vehicles and embargoed twenty properties worth a combined 2 million euros. [@2,3] Those held face charges including crimes against public health, illegal possession of arms and money laundering. [@2]
 
-The investigation began in 2017 after more than 300,000 euros in small-denomination notes was found in a luxury car owned by a Frenchman with a drug-trafficking record. [@2] Working with the Moroccan authorities, investigators linked him to leaders of an organisation uncovered earlier that year after 7,400 kilos of hashish bound for Spain was seized on the border between Western Sahara and Mauritania. [@2] Police also came to believe the profits were laundered through the Caribbean after seizing a suitcase bound for the Dominican Republic hiding 165,000 euros. [@2]
+The investigation began in 2017 after more than 300,000 euros in small-denomination notes was found in a luxury car owned by a Frenchman with a drug-trafficking record. [@2,3] Working with the Moroccan authorities, investigators linked him to leaders of an organisation uncovered earlier that year after 7,400 kilos of hashish bound for Spain was seized on the border between Western Sahara and Mauritania. [@2] Police also came to believe the profits were laundered through the Caribbean after seizing a suitcase bound for the Dominican Republic hiding 165,000 euros. [@2,3]
+
+The operation was carried out by the National Police, the Civil Guard and the Tax Agency in collaboration with the Moroccan and Dominican authorities against a network moving large quantities of hashish by lorry for distribution in Spain. [@3] Four other people were placed under investigation in the same operation. [@3] In April 2018 officers in Almería seized a lorry declared as carrying ceramic slabs and found 7.2 kilos of hashish and 177,000 euros inside. [@3] Two months later officers intercepted another stash in an industrial warehouse in Seville, and in November they detained a courier who acted as a link between suppliers in Morocco and the organisation. [@3] The final enforcement phase could not be carried out until the previous May because of the large volume of seized documents and the complex international financial network built to launder the drug money. [@3]
