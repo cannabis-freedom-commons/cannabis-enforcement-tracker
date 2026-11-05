@@ -25,6 +25,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-05
     language: es
+  - title: Investigados unos padres de La Rioja Baja por la intoxicación por cannabis de su hijo de 1 año
+    url: https://www.larioja.com/la-rioja/sucesos/guardia-civil-investiga-padres-bebe-meses-intoxicado-20261105103154-nt.html
+    publisher: La Rioja
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article gives no separate date for the hospital admission or the investigation, so 5 November 2026 is the publication date used as the incident date.
   - No cannabis weight, seizure, plant count, cultivation site or laboratory amount was reported.
@@ -38,7 +43,7 @@ open_questions:
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a
 24-year-old woman as presumed perpetrators of serious negligent injury and
 breach of parental duties after their 14-month-old son suffered cannabis
-intoxication. [@1,2] The two people under investigation are the child's mother and
+intoxication. [@1,2,3] The two people under investigation are the child's mother and
 father. [@1]
 
 The case began when emergency health protocols were activated for the child's
@@ -55,9 +60,11 @@ involvement in the cited offences. [@1]
 
 Child-protection protocols were activated alongside the police inquiry, placing
 the baby under provisional guardianship and custody of social services pending
-protective measures and liability decisions. [@1] The Guardia Civil said any act
+protective measures and liability decisions. [@1,2] The Guardia Civil said any act
 or omission endangering a minor's physical integrity, health or welfare can have
 legal consequences and will be investigated. [@1] The force said it would
 release no further information about the case or the locality where it happened
 to protect the child's privacy and best interests under child-protection rules.
 [@1]
+
+La Rioja said both parents had prior records associated with drug use. [@3]
