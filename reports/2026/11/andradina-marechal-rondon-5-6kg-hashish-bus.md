@@ -48,6 +48,11 @@ sources:
     publisher: Nossa Guia
     date: 2026-11-05
     language: pt
+  - title: Colombiano é preso com 5 quilos e 600 gramas de haxixe em ônibus na rodovia Marechal Rondon
+    url: https://www.fmmetropole.com.br/noticias/estradas/colombiano-e-preso-com-5-quilos-e-600-gramas-de-haxixe-em-onibus-na-rodovia-marechal-rondon-05-11-2026
+    publisher: Rádio Metrópole FM
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The suspect is identified only by his Colombian nationality; his name, age and travel details were not published.
   - No charges, custody hearing or court outcome were reported beyond his arrest in flagrante and detention at the Federal Police station in Araçatuba.
@@ -57,22 +62,24 @@ open_questions:
   - The page photo is captioned only Polícia Rodoviária and is not established to show this seizure or its 5.6 kg, so its caption is left cautious.
   - The police did not announce the seizure on an accessible agency page; PMESP social posts found at the same kilometre described a separate Bolivian cocaine arrest.
   - 'Left out, as its quotation was not found in Band: The police estimated the seizure caused 56,000 reais in losses to the drug trade.'
+  - The new outlet does not mention Operação Impacto, the police weighing procedure or the 56,000-reais trade-loss estimate recorded in the existing report.
+  - The page image is filed under Policial-Ilustrativa and captioned only with the article title, so it is not established to show this seizure and no media entry is added.
 ---
 
 Highway military police arrested a Colombian man on suspicion of drug
 trafficking in the early hours of Thursday 5 November 2026 during an inspection
-on the Marechal Rondon highway (SP-300) in Andradina, São Paulo state. [@1,3] The
+on the Marechal Rondon highway (SP-300) in Andradina, São Paulo state. [@1,3,5] The
 bus was stopped at about 00:34 at kilometre 631 during Operação Impacto, a
 highway policing operation run by officers of the 2nd Highway Police Battalion
-(2º BPRv). [@2] The bus was travelling the route between Campo Grande in Mato
-Grosso do Sul and São Paulo. [@1]
+(2º BPRv). [@2,5] The bus was travelling the route between Campo Grande in Mato
+Grosso do Sul and São Paulo. [@1,5]
 
 During the search officers found four cardboard tubes in the bus's internal
-luggage rack. [@1,3] After weighing, the material was found to contain 5.6
-kilograms of hashish. [@1,3] Investigators established that the drug belonged to a
-passenger sitting in seat 16. [@1] He was arrested in flagrante and the case was
+luggage rack. [@1,3,5] After weighing, the material was found to contain 5.6
+kilograms of hashish. [@1,3,5] Investigators established that the drug belonged to a
+passenger sitting in seat 16. [@1,5] He was arrested in flagrante and the case was
 presented at the Federal Police station in Araçatuba, where he remained in
-custody at the disposal of the courts. [@2]
+custody at the disposal of the courts. [@2,5]
 
 According to the Highway Police, officers could not check the suspect's criminal
 record because he is a foreign national. [@2]
