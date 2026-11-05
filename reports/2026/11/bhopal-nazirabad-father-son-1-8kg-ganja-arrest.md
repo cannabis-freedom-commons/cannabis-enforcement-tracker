@@ -48,6 +48,11 @@ sources:
     publisher: People's Update
     date: 2026-11-04
     language: hi
+  - title: 'Bhopal News: केरल का युवक एक किलो चरस के साथ गिरफ्तार'
+    url: https://thecrimeinfo.com/national-news/madhya-pradesh/a-young-man-from-kerala-was-arrested-at-the-isbt-in-govindpura-bhopal-while-on-a-bus-with-one-kilogram-of-charas-cannabis-resin-in-his-possession/
+    publisher: The Crime Info
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The informer tip is dated 3 November and the arrests are described as happening on Wednesday; 4 November 2026, the publication date, is used as the incident date.
   - The Rs 40,000 figure is the police estimate for the seized ganja.
@@ -58,6 +63,7 @@ open_questions:
   - The Nai Dunia page carries a photo captioned with the headline, but without a credit or description establishing that it shows this seizure, so no media entry is included.
   - The page image is captioned only with the headline without a credit or description establishing that it shows this seizure, so no media entry is included.
   - The source spells the village as गढ़ाकला, transliterated Gadhakala/Garhakala, while the existing report uses Gadakala for the same village.
+  - This account spells the village as Gadhakala, while the existing report uses Gadakala for the same village.
 ---
 
 Nazirabad police in Bhopal arrested a father and son with 1.8 kg of ganja in a
@@ -79,3 +85,5 @@ accused. [@2,3,4] Police said they are questioning the accused about the ganja t
 and smuggling network. [@2,3,4]
 
 Two police teams raided the spot immediately on the informer's tip. [@3] The accused tried to flee on seeing the police and were caught after officers cordoned the area. [@3] The operation was conducted under the guidance of Superintendent of Police (Rural) Pankaj Kumar Pandey, Additional Superintendent of Police (Rural) Pramod Kumar Sonkar and SDOP (Berasia) Vaishali Singh Karhaliya as part of a special anti-smuggler campaign. [@3]
+
+Police identified the two as 60-year-old Mangilal Yogi and his 45-year-old son Raju Yoginath, with 1800 grams of ganja recovered. [@5]

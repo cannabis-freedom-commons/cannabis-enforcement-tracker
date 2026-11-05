@@ -34,6 +34,11 @@ sources:
     publisher: Raj Express
     date: 2026-11-05
     language: hi
+  - title: 'Bhopal News: केरल का युवक एक किलो चरस के साथ गिरफ्तार'
+    url: https://thecrimeinfo.com/national-news/madhya-pradesh/a-young-man-from-kerala-was-arrested-at-the-isbt-in-govindpura-bhopal-while-on-a-bus-with-one-kilogram-of-charas-cannabis-resin-in-his-possession/
+    publisher: The Crime Info
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate date for the two actions; 4 November 2026 is the publication date and is used as the incident date.
   - No second accessible source for this Gautam Nagar event was found after searching in Hindi and English.
@@ -42,6 +47,7 @@ open_questions:
   - No court outcome beyond production before the court was reported; questioning about the supply network was still under way.
   - The page includes an image whose caption is only a file name, which does not establish that it shows this seizure, so no media entry is included.
   - No separate date for the two police actions is given; the report uses 4 November 2026, while this account was published on 5 November 2026.
+  - This account spells the second accused's surname as Maheshwar, while the existing report uses Maheshkar.
 media:
   - kind: photo
     url: https://rajexpress.com/madhya-pradesh-news/bhopal-ganja-smuggling-old-clothes-business-three-arrested-mp-news-in-hindi-20261105034858
@@ -71,3 +77,5 @@ route and sold it at different places in Bhopal. [@1,2] Police registered two
 separate cases against the three men under Sections 8/20 and 29 of the NDPS Act,
 India's narcotics law, and produced them before a court. [@1,2,3] Police said they
 are now tracing other people in the network and the supply chain. [@1,2]
+
+The two scooter riders are described as 19-year-old Shiva alias Shivanshu Sankat and 19-year-old Shivam Maheshwar. [@4]
