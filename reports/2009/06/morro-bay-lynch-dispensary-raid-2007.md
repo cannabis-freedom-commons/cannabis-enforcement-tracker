@@ -25,6 +25,7 @@ tags: [medical-marijuana, dea, dispensary]
 open_questions:
   - No figure for the cannabis or medicine seized in the raid was published beyond the reported $27,000 in cash.
   - No photograph of the raid with a recoverable direct image address was found in the opened sources.
+  - The Guardian dates the DEA raid on the Morro Bay dispensary only to March 2007 and gives no day, though it is the raid already recorded as 29 March 2007.
 sources:
   - title: Medical Marijuana in California
     url: https://gould.usc.edu/news/medical-marijuana-in-california/
@@ -49,6 +50,10 @@ sources:
     url: https://www.safeaccessnow.org/patient_advocates_file_brief_in_support_of_federal_appeal_by_medical_marijuana_dispensary_operator
     publisher: Americans for Safe Access
     date: 2012-07-10
+  - title: 'California: Marijuana law goes up in smoke as federal agents raid dispensaries'
+    url: https://www.theguardian.com/world/2008/aug/11/drugstrade.internationalcrime
+    publisher: The Guardian
+    date: 2008-08-11
 ---
 
 Charles Lynch opened Central Coast Compassionate Caregivers in Morro Bay on 1
@@ -73,7 +78,7 @@ property unless he evicted the shop, and on 16 May 2007 the dispensary closed
 permanently. [@1,2] Two months later agents arrested Lynch at his home and
 charged him with five federal marijuana counts. [@2] A federal jury, which could
 not hear about California's medical marijuana law, convicted him on all counts in
-August 2008. [@2]
+August 2008. [@2,7]
 
 On 11 June 2009 Judge George H. Wu of the federal court in Los Angeles sentenced
 Lynch, 47, to a year and a day in prison, staring straight ahead as the sentence
@@ -89,3 +94,5 @@ Lynch appealed, and in 2012 Americans for Safe Access filed an amicus brief
 supporting him, noting the administration still sought a five-year term while
 the judge weighed its declarations of tolerance toward medical marijuana.
 [@6]
+
+Prosecutors told the jury that Lynch had sold $2m worth of marijuana to patients from his dispensary between its opening in 2006 and the DEA raid in March 2007. [@7] Lynch's lawyers argued entrapment by estoppel, saying a federal agent had told him local jurisdiction would prevail, and prosecutors and the jury dismissed the claim. [@7] The judge ruled that state medical marijuana law was irrelevant in federal court and stopped the patient Owen Beck and others from testifying once their medical conditions were mentioned. [@7] Jury forewoman Kitty Meese said afterwards that the jurors felt Lynch intended well but had no choice under the federal law they were given. [@7]
