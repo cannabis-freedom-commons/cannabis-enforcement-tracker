@@ -29,27 +29,35 @@ sources:
     publisher: Khabar Abhi Abhi
     date: 2026-11-04
     language: hi
+  - title: ਚਰਸ ਸਮੇਤ ਇਕ ਨੌਜਵਾਨ ਕਾਬੂ
+    url: https://www.punjabijagran.com/punjab/ropar-news-9708962.html
+    publisher: Punjabi Jagran
+    date: 2026-11-05
+    language: pa
 open_questions:
   - The Amar Ujala article gives no separate date for the roadblock and was published on 5 November 2026; 3 November 2026 from the second account is used as the incident date.
   - No court outcome, custody status or further charges beyond the NDPS case were reported.
   - No valuation of the seized charas was published.
   - The Amar Ujala page image is a Bilaspur file photo dated 7 January 2022 and is not established to show this seizure, so no media entry is included.
+  - Punjabi Jagran files the arrest under Ropar district and names the road as National Highway 205 near Karmala, while the Bilaspur accounts place the same checkpoint and Swarghat police station case in Bilaspur district, Himachal Pradesh.
+  - No court outcome, custody status or valuation of the seized charas was reported.
+  - The Punjabi Jagran photo shows two uniformed men standing over a seated suspect and is captioned as the arrest, but it names no agency or credit and does not show the charas.
+  - 'Left out, as its quotation was not found in Punjabi Jagran: He was identified as a resident of village Panchijattan, tehsil Ghanour, district Sonipat.'
 ---
 
 Bilaspur police arrested 23-year-old Sachin from Sonipat, Haryana, after finding
-charas in his possession on a passenger bus. [@1] He was identified as a
+charas in his possession on a passenger bus. [@1,3] He was identified as a
 resident of village Panchijattan, tehsil Ghanour, district Sonipat. [@1] The
-detention was part of the district police campaign against drugs. [@2] Police
+detention was part of the district police campaign against drugs. [@2,3] Police
 registered a case against him under the Narcotic Drugs and Psychotropic
-Substances (NDPS) Act, including Section 20, at Swarghat police station. [@2]
+Substances (NDPS) Act, including Section 20, at Swarghat police station. [@2,3]
 
 The Special Detection Team had set up a roadblock near Karmala on the
-Kiratpur-Nerchowk four-lane highway and stopped the bus for checking. [@1] The
-checkpoint search of the bus took place on 3 November. [@2] During the search,
-officers recovered 852 grams of charas from the man travelling on the bus. [@1]
+Kiratpur-Nerchowk four-lane highway and stopped the bus for checking. [@1,3] The
+checkpoint search of the bus took place on 3 November. [@2,3] During the search,
+officers recovered 852 grams of charas from the man travelling on the bus. [@1,3]
 
 Bilaspur Superintendent of Police Abhishek Dhiman said investigators are tracing
 the source and supply chain of the seized charas. [@1] Police are examining
 backward and forward linkages to identify other people linked to the
-trafficking. [@1] Police said further action in the case is under way. [@2]
-
+trafficking. [@1,3] Police said further action in the case is under way. [@2]
