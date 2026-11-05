@@ -1,19 +1,20 @@
 ---
 code: K67MRG
 added_at: "2026-11-03T17:29:23.577346Z"
-date: 2026-10-31
+date: 2026-11-04
 country: fr
 place: Agen, Lot-et-Garonne
 coordinates: [44.2047, 0.6213]
 precision: locality
-type: arrest
-also: [seizure]
-title: 26-year-old held in Agen after 4 kg of cannabis found at home
-summary: >-
-  A 26-year-old man stopped in Agen for driving without a licence was held in custody after a home search found four kilograms of cannabis herb and resin. He admitted the facts and faced a possible immediate trial before the Agen court on 4 November.
+type: sentence
+also: [seizure, arrest, prosecution]
+title: Agen man sentenced to two years after 4 kg cannabis discovery
+summary: A man arrested after a traffic stop in Agen was tried for drug trafficking after police found four kilograms of cannabis at his home. On 4 November, the court convicted him and sentenced him to two years, with half under electronically monitored home detention and half suspended with probation.
 figures:
-  arrested: 1
-  kg_seized: 4
+    arrested: 1
+    kg_seized: 4
+    charged: 1
+    prison: 2 years (half under electronically monitored home detention; half suspended with probation)
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c6b340c8296c07a8ac515a41c880de9d
@@ -34,6 +35,16 @@ sources:
     publisher: Sud Ouest
     date: 2026-11-03
     language: fr
+  - title: 'Les policiers l''interpellent d''abord pour non-port de la ceinture de sécurité, puis découvrent quatre kilos de cannabis chez lui : "J''étais une petite main du trafic"'
+    url: https://www.petitbleu.fr/2026/11/04/les-policiers-linterpellent-dabord-pour-non-port-de-la-ceinture-de-securite-puis-decouvrent-quatre-kilos-de-cannabis-chez-lui-jetais-une-petite-main-13635850.php
+    publisher: PetitBleu.fr
+    date: 2026-11-04
+    language: fr
+  - title: 'Les policiers l''interpellent d''abord pour non-port de la ceinture de sécurité, puis découvrent quatre kilos de cannabis chez lui : "J''étais une petite main du trafic"'
+    url: https://www.ladepeche.fr/2026/11/04/les-policiers-linterpellent-dabord-pour-non-port-de-la-ceinture-de-securite-puis-decouvrent-quatre-kilos-de-cannabis-chez-lui-jetais-une-petite-main-13635850.php
+    publisher: La Dépêche du Midi
+    date: 2026-11-04
+    language: fr
 open_questions:
   - No breakdown of the four kilograms between herb and resin was published.
   - The very small quantity found on the man during the roadside stop was not quantified.
@@ -46,6 +57,7 @@ open_questions:
   - The page photo is credited to NICOLAS MAETERLINCK / AFP and is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Sud Ouest: Officers had first stopped him on that same day because he was driving without a licence.'
   - 'Left out, as its quotation was not found in Sud Ouest: The case then changed scale when officers carried out a search of his home in Agen.'
+  - The 4 November account describes the four kilograms as cannabis resin, while the earlier account described a mix of herb and resin; the composition remains unresolved.
 ---
 
 A 26-year-old man has been held in police custody at the Agen police station
@@ -64,3 +76,5 @@ brought before the prosecutor on the morning of Wednesday 4 November. [@1,2,3]
 Prosecutors could then send him for immediate trial before the Agen judicial
 court on that same day. [@1,2,3] The arrest, custody and home search all took place
 in Agen, in the Lot-et-Garonne department. [@1]
+
+The Agen correctional court tried the 25-year-old man for drug trafficking on 4 November 2026. [@4] The court convicted him and sentenced him to two years, with the first half arranged as electronically monitored home detention and the second half suspended with probation. [@5] The court required him to work, receive treatment and complete 70 hours of community service. [@5]
