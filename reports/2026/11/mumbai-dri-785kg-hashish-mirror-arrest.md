@@ -55,6 +55,11 @@ sources:
     url: https://www.thehindu.com/news/cities/mumbai/dri-seizes-785-kg-of-hashish-smuggled-from-us-to-mumbai-in-mirror-frame-one-arrested/article71666672.ece
     publisher: The Hindu
     date: 2026-11-05
+  - title: ਨਸ਼ਾ ਤਸਕਰੀ ਗਿਰੋਹ ਦਾ ਪਰਦਾਫਾਸ਼ ; 7.85 ਕਿਲੋ ਚਰਸ ਜ਼ਬਤ, ਇੱਕ ਵਿਅਕਤੀ ਗ੍ਰਿਫ਼ਤਾਰ
+    url: https://wishavwarta.in/dri-busts-hashish-smuggling-racket/
+    publisher: Wishav Warta
+    date: 2026-11-05
+    language: pa
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
@@ -65,16 +70,18 @@ open_questions:
   - The Hindu and News18 state that the DRI did not disclose the arrested person's identity, which leaves the recipient's name, age and gender unpublished.
   - Neither opened page gives a separate date for the interception and seizure; 2 November 2026 remains the stated arrest date.
   - No monetary value for the seized hashish was published in either account.
+  - 'Left out, as its quotation was not found in Wishav Warta: The accused was arrested on November 2 under the provisions of the NDPS Act.'
+  - 'Left out, as its quotation was not found in Wishav Warta: Officers found eight concealed packets inside the dismantled wooden frame, holding 169 smaller packets of a blackish, glue-like substance.'
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
 international racket that concealed hashish in a courier shipment sent from New
 York in the United States to Mumbai. [@1,2,3] After sustained investigation,
-officers identified and traced the intended recipient of the consignment. [@1]
+officers identified and traced the intended recipient of the consignment. [@1,6]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
 [@1,3,4] Officials said further investigation is under way to uncover the larger
 network, identify other people involved and establish domestic and international
-linkages. [@1,5]
+linkages. [@1,5,6]
 
 Acting on specific intelligence, officers uncovered the operation and seized
 7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3]
