@@ -34,6 +34,11 @@ sources:
     publisher: दैनिक भास्कर
     date: 2026-11-05
     language: hi
+  - title: नोएडा में व्हाट्सएप ग्रुप के जरिए गांजे की ऑनलाइन बिक्री का खुलासा, हॉस्टल और कॉलेजों में करते थे सप्लाई, दो आरोपी गिरफ्तार
+    url: https://nownoida.com/noida-news/details/10079/noida-sector-58-police-arrest-delhi-airport-engineer-online-ganja-smuggling
+    publisher: Now Noida
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -42,6 +47,10 @@ open_questions:
   - The source of the seized ganja and the wider network remain under investigation and were not reported.
   - ETV Bharat places both arrests near Radisson Cut in Sector 57 in one passage, but later places Manish Kumar Jha's arrest near Sector 56.
   - Dainik Bhaskar says only that the supplier works as a technical engineer and does not mention the Delhi airport workplace reported by ETV Bharat, so the employer remains unconfirmed.
+  - This account rounds the seizure to 12 kilograms while the existing report records 12 kg 200 g, so the existing 12.2 kg figure is retained.
+  - This account names only Manish and does not name the second accused or give the Medicine Cut Sector-57 and ESI Colony Sector-56 arrest locations already recorded.
+  - This account specifies Amazon packets while the existing report records packets bearing an online delivery company's name and 42 printed packing packets.
+  - The page carries one image captioned only as top-news with no caption establishing it shows this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -56,7 +65,7 @@ media:
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1,2,3] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2,3,4] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1] Following questioning of Sumit, police arrested his associate
 Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1] The men were
@@ -66,9 +75,9 @@ originally of Kalyanpur in Samastipur, Bihar, and also living in Khoda Colony.
 [@1] Sumit told police that Manish supplied him the ganja and that together they
 supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
-online to Manish. [@1]
+online to Manish. [@1,4]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4] A
 search of Sumit's bag found small packets bearing an online delivery company's
 name containing 1 kg 900 g of ganja. [@1,3] Police recovered 10 kg 300 g of ganja
 from Manish. [@1,3] Police also seized a Splendor motorcycle, two mobile phones
@@ -76,10 +85,10 @@ and 42 printed packets used for packing the ganja. [@1,3]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
 online delivery companies' names to avoid suspicion during delivery. [@1] Police
-said Manish works as a technical engineer. [@1] Questioning also named another
+said Manish works as a technical engineer. [@1,4] Questioning also named another
 associate, Amit, who is already jailed in Guwahati, Assam, in a
 ganja-trafficking case. [@1,3] Police registered case number 385/26 under sections
 8/20 of the NDPS Act at Sector-58 police station and are investigating the
 supply source and others linked to the network. [@1]
 
-DCP Noida Preeti Yadav said Manish Kumar Jha worked as a technical engineer at Delhi airport. [@2]
+DCP Noida Preeti Yadav said Manish Kumar Jha worked as a technical engineer at Delhi airport. [@2,4]
