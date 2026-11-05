@@ -41,6 +41,21 @@ sources:
     publisher: Policja Podkarpacka
     date: 2026-11-05
     language: pl
+  - title: Handlarz narkotyków zatrzymany ze sporą ilością marihuany
+    url: https://gospodarkapodkarpacka.pl/news/view/72865/handlarz-narkotykow-zatrzymany-ze-spora-iloscia-marihuany
+    publisher: gospodarkaPodkarpacka.pl
+    date: 2026-11-05
+    language: pl
+  - title: Narkotyki w domu 33-latka z powiatu krośnieńskiego
+    url: https://www.terazkrosno.pl/artykul/52865-narkotyki-w-domu-33-latka-z-powiatu-krosnienskiego
+    publisher: terazKrosno.pl
+    date: 2026-11-05
+    language: pl
+  - title: Mieszkaniec powiatu krośnieńskiego z zabronionymi substancjami
+    url: https://krosno112.pl/artykul/31857,mieszkaniec-powiatu-krosnienskiego-z-zabronionymi-substancjami
+    publisher: krosno112.pl
+    date: 2026-11-05
+    language: pl
 open_questions:
   - Police said officers visited the home during the preceding week but gave no exact day; 5 November 2026, the publication date, is used as the incident date.
   - The home was identified only as being in Krosno County; no town or village was named, and the Krosno County centre coordinates stand in for it.
@@ -52,19 +67,20 @@ open_questions:
 ---
 
 Police found more than 180 grams of marijuana and an electronic scale in the
-home of a 33-year-old Krosno County resident, whom they detained. [@1] Criminal
+home of a 33-year-old Krosno County resident, whom they detained. [@1,4] Criminal
 investigators from the District Police Headquarters in Strzyżów suspected that
-the resident possessed prohibited substances. [@2] Officers went to his home
+the resident possessed prohibited substances. [@2,3] Officers went to his home
 during the previous week to verify their suspicions and prevent the substances
 from being hidden or destroyed, and found the 33-year-old at the address. [@2]
 During the search, officers found dried plant material and an electronic scale
-at his home. [@2] An initial test identified the material as marijuana, with the
-seized amount exceeding 180 grams. [@2]
+at his home. [@2,3] An initial test identified the material as marijuana, with the
+seized amount exceeding 180 grams. [@2,3]
 
-The man was taken to a police detention facility after the search. [@2] After
-questioning, he was charged with possessing narcotic drugs. [@2] Officers from
+The man was taken to a police detention facility after the search. [@2,4] After
+questioning, he was charged with possessing narcotic drugs. [@2,5] Officers from
 the investigation-and-detection department gathered evidence and sent the case
 materials to the Strzyżów District Prosecutor’s Office. [@2] A prosecutor placed
 him under police supervision. [@2] Police said the possession offense carries a
 possible prison term of up to three years. [@2]
 
+The court will decide on the man's criminal responsibility. [@5]
