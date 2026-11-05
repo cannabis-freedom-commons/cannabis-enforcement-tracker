@@ -20,6 +20,11 @@ media:
     media_url: https://sctd.com.br/wp-content/uploads/2026/11/Policia-encontra-472-quilos-de-maconha-em-imovel-em-Sao-Jose-1024x784.png
     publisher: SCTODODIA
     caption: 'Photo published with the report of the 472 kg seizure in São José. Photo: Divulgação/PCSC'
+  - kind: photo
+    url: https://mznoticia.com.br/policia-apreende-472-quilos-de-maconha-e-prende-jovem-durante-investigacao-de-homicidio-em-santa-catarina/
+    media_url: https://mznoticia.com.br/wp-content/uploads/2026/11/IMG_1564.jpeg
+    publisher: MZ Notícia
+    caption: 'Civil Police officers stand behind a table of brick-shaped marijuana packages and evidence bags labelled in Portuguese during the 472 kg seizure in São José. Photo: Divulgação/Polícia Civil de Santa Catarina (agency handout republished by the outlet)'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e7eb5bd46c6e7df808648b6ba4b10378
@@ -40,12 +45,20 @@ sources:
     publisher: OCP News
     date: 2026-11-04
     language: pt
+  - title: Polícia apreende 472 quilos de maconha e prende jovem durante investigação de homicídio em Santa Catarina
+    url: https://mznoticia.com.br/policia-apreende-472-quilos-de-maconha-e-prende-jovem-durante-investigacao-de-homicidio-em-santa-catarina/
+    publisher: MZ Notícia
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The incident date of 3 November 2026 is inferred from terça-feira (3) with publication on 4 November 2026.
   - Only one accessible source for this event was found after searching; no agency statement or second outlet could be opened.
   - The detainee's name was not published.
   - No charge or court outcome beyond detention in flagrante and placement at the disposal of the courts was reported.
   - No valuation of the seized marijuana was published.
+  - The article dates the announcement to Wednesday 4 November and gives no separate date for the seizure, which the other accounts place on the afternoon of Tuesday 3 November.
+  - The Civil Police did not disclose the origin or intended destination of the marijuana or who supplied it.
+  - No charge or court outcome beyond arrest in flagrante was reported.
 ---
 
 Santa Catarina Civil Police arrested an 18-year-old in flagrante at a property
@@ -55,7 +68,7 @@ the drug hidden in the property for a few days in exchange for money. [@1,2,3] A
 processing at the Civil Police station he was sent to the prison system, where
 he remains at the disposal of the courts. [@1,2,3]
 
-Officers seized 472 kilograms of marijuana at the property. [@1,2,3] The marijuana
+Officers seized 472 kilograms of marijuana at the property. [@1,2,3,4] The marijuana
 was divided into 568 tablets. [@1,2,3] During the check of the property officers
 noticed the resident's nervousness, contradictory accounts and a strong
 characteristic smell of drugs, and the subsequent search uncovered the marijuana
