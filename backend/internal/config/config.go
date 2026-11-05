@@ -1,8 +1,10 @@
 package config
 
 import (
+	"encoding/json"
 	"errors"
 	"fmt"
+	"io"
 	"net/netip"
 	"net/url"
 	"os"
@@ -14,7 +16,13 @@ import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/harvest"
 )
 
+type ResearchAgent struct {
+	Model      string `json:"model"`
+	MaxWorkers int    `json:"max_workers"`
+}
+
 type Config struct {
+	ResearchAgents                                                              []ResearchAgent
 	BingNewsEnabled                                                             bool
 	BingNewsQueries                                                             []harvest.BingNewsQuery
 	BingNewsInterval                                                            time.Duration
@@ -132,10 +140,34 @@ func Load() (Config, error) {
 	if boolErr != nil {
 		return c, errors.New("invalid AUTO_PUBLISH")
 	}
-	var concurrencyErr error
-	c.WorkerConcurrency, concurrencyErr = strconv.Atoi(env("WORKER_CONCURRENCY", "2"))
-	if concurrencyErr != nil || c.WorkerConcurrency < 1 || c.WorkerConcurrency > 8 {
-		return c, errors.New("WORKER_CONCURRENCY must be 1 to 8")
+	if raw := strings.TrimSpace(os.Getenv("RESEARCH_AGENTS")); raw != "" {
+		decoder := json.NewDecoder(strings.NewReader(raw))
+		decoder.DisallowUnknownFields()
+		if err := decoder.Decode(&c.ResearchAgents); err != nil {
+			return c, fmt.Errorf("invalid RESEARCH_AGENTS: %w", err)
+		}
+		if err := decoder.Decode(new(any)); err != io.EOF {
+			return c, errors.New("RESEARCH_AGENTS must contain one JSON array")
+		}
+		if len(c.ResearchAgents) == 0 || len(c.ResearchAgents) > 16 {
+			return c, errors.New("RESEARCH_AGENTS must contain 1 to 16 agents")
+		}
+		seen := map[string]bool{}
+		for _, agent := range c.ResearchAgents {
+			if !regexp.MustCompile(`^[A-Za-z0-9_.-]+/[A-Za-z0-9_./:-]+(?:#[A-Za-z0-9_.-]+)?$`).MatchString(agent.Model) || seen[agent.Model] {
+				return c, errors.New("RESEARCH_AGENTS requires unique provider/model identifiers (optionally #effort)")
+			}
+			if agent.MaxWorkers < 1 || agent.MaxWorkers > 8 {
+				return c, errors.New("each RESEARCH_AGENTS max_workers must be 1 to 8")
+			}
+			seen[agent.Model] = true
+		}
+	} else {
+		var concurrencyErr error
+		c.WorkerConcurrency, concurrencyErr = strconv.Atoi(env("WORKER_CONCURRENCY", "2"))
+		if concurrencyErr != nil || c.WorkerConcurrency < 1 || c.WorkerConcurrency > 8 {
+			return c, errors.New("WORKER_CONCURRENCY must be 1 to 8")
+		}
 	}
 	c.AutoPush, boolErr = strconv.ParseBool(env("AUTO_PUSH", "true"))
 	if boolErr != nil {
@@ -228,7 +260,7 @@ func Load() (Config, error) {
 	if c.BotSecret != "" && len(seenRelays) < 2 {
 		return c, errors.New("configure at least two relays")
 	}
-	if c.ResearchRunner == "docker" && c.ResearchImage != "" && (!regexp.MustCompile(`^[A-Za-z0-9._:/-]+@sha256:[a-f0-9]{64}$`).MatchString(c.ResearchImage) || c.ResearchNetwork == "" || c.ResearchModel == "" || c.ResearchKey == "") {
+	if c.ResearchRunner == "docker" && c.ResearchImage != "" && (!regexp.MustCompile(`^[A-Za-z0-9._:/-]+@sha256:[a-f0-9]{64}$`).MatchString(c.ResearchImage) || c.ResearchNetwork == "" || len(c.Agents()) == 0 || c.ResearchKey == "") {
 		return c, errors.New("research requires a digest-pinned image, restricted egress network, model and dedicated budget-limited API key")
 	}
 	if c.Demo && (c.BotSecret != "" || c.ResearchImage != "" || c.ResearchKey != "") {
@@ -241,5 +273,26 @@ func Load() (Config, error) {
 }
 
 func (c Config) ResearchEnabled() bool {
-	return c.ResearchModel != "" && (c.ResearchRunner == "local" || (c.ResearchImage != "" && c.ResearchKey != ""))
+	return len(c.Agents()) > 0 && (c.ResearchRunner == "local" || (c.ResearchImage != "" && c.ResearchKey != ""))
+}
+
+// Agents normalizes legacy single-model settings. RESEARCH_AGENTS takes precedence.
+func (c Config) Agents() []ResearchAgent {
+	if len(c.ResearchAgents) > 0 {
+		return c.ResearchAgents
+	}
+	if c.ResearchModel == "" {
+		return nil
+	}
+	return []ResearchAgent{{Model: c.ResearchModel, MaxWorkers: max(1, c.WorkerConcurrency)}}
+}
+func (c Config) MaxWorkers() int {
+	if len(c.ResearchAgents) == 0 {
+		return max(1, c.WorkerConcurrency)
+	}
+	total := 0
+	for _, a := range c.ResearchAgents {
+		total += a.MaxWorkers
+	}
+	return total
 }

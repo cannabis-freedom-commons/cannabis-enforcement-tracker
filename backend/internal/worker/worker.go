@@ -51,27 +51,27 @@ func (w *Worker) Run(parent context.Context) {
 		w.Nostr.Listen(ctx)
 		go func() { defer close(outboxDone); w.outbox(ctx) }()
 	}
-	// several requests are worked on at once (WORKER_CONCURRENCY); each loop claims its own job,
-	// and a claim is one atomic update, so two loops never take the same one
-	loops := max(1, w.Config.WorkerConcurrency)
+	// Research loops share one random allocator with independent per-agent limits.
+	loops := w.Config.MaxWorkers()
+	pool := newAgentPool(w.Config, w.Health)
 	var wg sync.WaitGroup
 	// job storage: build leftovers and finished requests' workspaces are cleaned up
 	wg.Add(1)
 	go func() { defer wg.Done(); w.janitor(ctx) }()
 	for i := 0; i < loops; i++ {
 		wg.Add(1)
-		go func() { defer wg.Done(); w.jobs(ctx, "") }()
+		go func() { defer wg.Done(); w.jobs(ctx, "research", pool) }()
 	}
 	// and a lane of its own for committing validated drafts, so a finished draft is committed (and
 	// pushed) within seconds instead of waiting for a research run to end
 	wg.Add(1)
-	go func() { defer wg.Done(); w.jobs(ctx, "publish") }()
+	go func() { defer wg.Done(); w.jobs(ctx, "publish", nil) }()
 	wg.Wait()
 }
 
 // jobs claims and processes queued jobs (of one kind when kind is set) one after another until the
 // context ends.
-func (w *Worker) jobs(ctx context.Context, kind string) {
+func (w *Worker) jobs(ctx context.Context, kind string, pool *agentPool) {
 	ticker := time.NewTicker(2 * time.Second)
 	defer ticker.Stop()
 	for {
@@ -80,18 +80,32 @@ func (w *Worker) jobs(ctx context.Context, kind string) {
 			return
 		case <-ticker.C:
 
+			selected := *w
+			release := func() {}
+			if pool != nil && len(pool.agents) > 0 && !w.Config.Demo {
+				model, done, ok := pool.acquire()
+				if !ok {
+					continue
+				}
+				release = done
+				selected.Config.ResearchModel = model
+				selected.Health = w.Health.ForModel(model)
+			}
 			j, err := w.Store.ClaimKind(ctx, "jobs", kind, 2*time.Minute)
 			if errors.Is(err, sql.ErrNoRows) {
+				release()
 				continue
 			}
 			if err != nil {
+				release()
 				slog.Error("job claim failed")
 				continue
 			}
 			jobCtx, cancel := context.WithTimeout(ctx, w.Config.ResearchTimeout)
 			stop := make(chan struct{})
 			go w.heartbeat(jobCtx, "jobs", j, stop, cancel)
-			err = w.process(jobCtx, j)
+			err = selected.process(jobCtx, j)
+			release()
 			close(stop)
 			cancel()
 			if errors.Is(err, errCoverageRequeued) {

@@ -1,7 +1,7 @@
 // The submissions list (/submissions/): one row per request, most recently updated first, live over a WebSocket.
 // A row says what is happening (a pulsing status while running, its stage and attempt) or how it
 // ended and why, and links to the request's own page.
-import { renderProcessingStatus } from "../lib/ai-activity.js";
+import { modelLabel, renderProcessingStatus } from "../lib/ai-activity.js";
 import { runCost, planCost, formatUSD, displayedRunCost } from "../lib/model-cost.js";
 import { ID_PATTERN } from "../lib/submission-receipts.js";
 import { queueEstimate } from "../lib/queue-estimate.js";
@@ -87,7 +87,9 @@ function initialize(root) {
     const apiCost = list.reduce((t, r) => t + runCost(r), 0), share = list.reduce((t, r) => t + planCost(runCost(r), plan, r.model), 0), shownCost = list.reduce((t, r) => t + displayedRunCost(r, plan), 0);
     const cost = el("span", apiCost ? formatUSD(shownCost) : "—", "sx-row-cost");
     cost.title = apiCost ? `${share ? `${formatUSD(share)} of the plan · ` : ""}${formatUSD(apiCost)} at API prices` : "No AI run yet";
-    a.append(when, ...(showUpdated ? [updated] : []), id, src, state, tokens, runs, cost);
+    const model = el("span", list[0]?.model ? modelLabel(list[0].model) : "Awaiting research", "sx-row-model");
+    model.title = list[0]?.model || "No model run recorded yet";
+    a.append(when, ...(showUpdated ? [updated] : []), id, src, state, ...(!showUpdated ? [model] : []), tokens, runs, cost);
     li.append(a); return li;
   }
   // Keep unchanged links in place while live work updates. Rebuilding every row

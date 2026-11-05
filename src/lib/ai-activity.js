@@ -1,6 +1,6 @@
 import { runCost, planCost, costEstimated, formatUSD, modelPlan, planDescription, displayedRunCost } from "./model-cost.js";
 
-export const MODEL_LABELS = { "opencode-go/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · OpenCode Go", "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
+export const MODEL_LABELS = { "swancloud/claude-haiku-5.5": "Claude Haiku 5.5 · Swancloud", "opencode-go/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · OpenCode Go", "opencode-go/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · OpenCode Go", "swancloud/muse-spark-1.3-contributor": "Muse Spark 1.3 Contributor · Swancloud", "swancloud/deepseek-v4.1-flash": "DeepSeek V4.1 Flash · Swancloud" };
 // "opencode-go/deepseek-v4.1-flash#max" is the model at a reasoning variant; show both, without the #
 export function modelLabel(model) {
   const [base, variant] = String(model || "").split("#");
@@ -8,6 +8,16 @@ export function modelLabel(model) {
   return label ? `${label}${variant ? ` · ${variant}` : ""}` : "Not configured";
 }
 const node = (tag, text, className) => { const el = document.createElement(tag); if (text !== undefined) el.textContent = text; if (className) el.className = className; return el; };
+
+function processingModelLabel(processing) {
+  if (!processing.agents?.length) return modelLabel(processing.model);
+  return processing.agents.map(agent => {
+    const startup = processing.startup?.agents?.find(check => check.model === agent.model)?.startup;
+    return `${modelLabel(agent.model)} · ${agent.max_workers} workers${startup ? ` · ${startup.status}` : ""}`;
+  }).join("; ");
+}
+
+let workerTooltipID = 0;
 
 export function renderProcessingStatus(container, processing, { compact = false } = {}) {
   container.replaceChildren();
@@ -19,8 +29,27 @@ export function renderProcessingStatus(container, processing, { compact = false 
     const line = node("div", undefined, "ai-worker-line");
     line.append(node("i", undefined, "ai-worker-dot"), node("strong", processing.enabled ? (processing.mode === "automatic" ? "AI worker running" : processing.mode === "demo" ? "Demonstration mode" : "Review mode") : "AI worker paused"));
     const detail = node("div", undefined, "ai-worker-detail");
-    detail.append(node("span", modelLabel(processing.model), "ai-model"));
-    if (processing.startup?.version) detail.append(node("span", `OpenCode ${processing.startup.version.replace(/^opencode\s+/i, "")}`, "ai-muted"));
+    const agents = processing.agents?.length ? processing.agents : processing.model ? [{ model: processing.model, max_workers: processing.max_running || 1 }] : [];
+    if (agents.length) {
+      const workers = agents.reduce((total, agent) => total + agent.max_workers, 0);
+      const trigger = node("button", `${agents.length} ${agents.length === 1 ? "agent" : "agents"} · ${workers} ${workers === 1 ? "worker" : "workers"}`, "ai-worker-info");
+      trigger.type = "button";
+      trigger.append(node("span", "ⓘ", "ai-worker-info-icon"));
+      const tooltip = node("div", undefined, "ai-worker-tooltip");
+      tooltip.id = `ai-worker-details-${++workerTooltipID}`;
+      tooltip.setAttribute("role", "tooltip");
+      trigger.setAttribute("aria-describedby", tooltip.id);
+      for (const agent of agents) {
+        const startup = processing.startup?.agents?.find(check => check.model === agent.model)?.startup || (agents.length === 1 ? processing.startup : null);
+        const item = node("div", undefined, "ai-worker-agent");
+        item.append(node("strong", modelLabel(agent.model)), node("span", agent.model, "ai-worker-model-id"));
+        item.append(node("span", `${agent.max_workers} ${agent.max_workers === 1 ? "worker" : "workers"}${startup ? ` · ${startup.status}` : ""}`));
+        if (startup?.message && startup.status !== "ready") item.append(node("span", startup.message));
+        tooltip.append(item);
+      }
+      if (processing.startup?.version) tooltip.append(node("span", `OpenCode ${processing.startup.version.replace(/^opencode\s+/i, "")}`));
+      detail.append(trigger, tooltip);
+    }
     container.append(line, detail);
     const notes = [];
     if (!processing.enabled && processing.reason) notes.push(processing.reason);
@@ -29,8 +58,11 @@ export function renderProcessingStatus(container, processing, { compact = false 
     return;
   }
   container.append(node("strong", processing.mode === "automatic" ? "Automatic processing" : processing.mode === "demo" ? "Demonstration mode" : "Review mode"));
-  container.append(node("span", modelLabel(processing.model), "ai-model"), node("p", processing.reason));
+  container.append(node("span", processingModelLabel(processing), "ai-model"), node("p", processing.reason));
   renderBudget(container, processing.budget);
+  for (const agent of processing.startup?.agents || []) {
+    if (agent.startup.status !== "ready") container.append(node("p", `${modelLabel(agent.model)}: ${agent.startup.message}`, "ai-muted"));
+  }
   if (processing.startup) { const check = processing.startup; container.append(node("p", `Startup test: ${check.status}${check.version ? ` · OpenCode ${check.version}` : ""}`, "ai-muted")); }
   if (processing.automatic_publication && !processing.publication_configured) container.append(node("p", "Research can run independently. Committing is waiting for a configured local repository.", "ai-muted"));
 }

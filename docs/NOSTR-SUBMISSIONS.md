@@ -24,8 +24,9 @@ npm run dev
 
 `backend-dev` loads the ignored root `.env` and starts Go on `127.0.0.1:8080`. It defaults to
 the locally installed OpenCode CLI, automatic publication, and private state under
-`backend/data/`. Set `RESEARCH_MODEL` in `.env` (or the process environment) to choose the
-provider/model, including `#effort` when the reasoning effort is known (for example `#xhigh`). There is no built-in model default;
+`backend/data/`. Set `RESEARCH_AGENTS` in `.env` (or the process environment) to choose provider/models and their
+worker limits, including `#effort` when known. The legacy `RESEARCH_MODEL` plus
+`WORKER_CONCURRENCY` configuration remains supported. There is no built-in model default;
 processing stays paused until a model is configured. Astro proxies HTTP and WebSocket traffic through
 `/__submissions`, so the frontend also works when port 4321 is occupied and Astro selects 4322.
 Production builds require an explicit `PUBLIC_SUBMISSIONS_API_URL`.
@@ -34,9 +35,18 @@ Private local `.env` settings:
 
 ```dotenv
 RESEARCH_RUNNER=local
-RESEARCH_MODEL=opencode-go/deepseek-v4.1-flash
+RESEARCH_AGENTS='[{"model":"opencode-go/muse-spark-1.3-contributor#xhigh","max_workers":3},{"model":"swancloud/muse-spark-1.3-contributor#xhigh","max_workers":3}]'
 AUTO_PUBLISH=true
 ```
+
+`RESEARCH_AGENTS` accepts 1–16 unique provider/model entries with `max_workers` from 1–8 each.
+When set, it overrides `RESEARCH_MODEL` and `WORKER_CONCURRENCY`. The example permits six
+concurrent research jobs, three per provider. Each job is assigned uniformly at random among
+agents that passed their startup check and have a free worker; saturated or unavailable agents
+are skipped. Retries may use another agent, while saved results retain their original creator.
+Publication uses a separate worker. All agents share timeout, step, search and daily budget settings;
+local credentials and provider definitions are selected separately for each model. Docker mode
+uses the shared `RESEARCH_API_KEY`, so its agents must accept that key.
 
 Keep `.env` mode 0600 and out of Git. Never prefix a secret with `PUBLIC_`.
 The local runner uses OpenCode’s saved credentials. It also loads the selected provider’s
@@ -51,7 +61,7 @@ into the isolated session; home agents, plugins, permissions and unrelated provi
 are not imported. A provider key from `options.apiKey` (v1), `settings.apiKey` (v2), a
 `{env:NAME}` reference, or the selected provider's `env` list is passed privately to the harness and redacted from
 startup diagnostics and public activity. The provider config stays outside the evidence input.
-`RESEARCH_MODEL` still selects the provider/model; restart the backend after changing either.
+`RESEARCH_AGENTS` (or legacy `RESEARCH_MODEL`) selects the provider/models; restart the backend after changing either.
 OpenCode 2 uses its native scoped
 `auth export`/`auth import` commands to initialize a private standalone session. It imports the
 selected model integration and the search integration chosen by `RESEARCH_WEBSEARCH` (default
@@ -64,8 +74,8 @@ OpenCode 1 copies only the selected provider from its
 legacy auth file (`OPENCODE_AUTH_FILE` can override that file). Local mode does not require
 `RESEARCH_API_KEY`. Docker deployments can provide a dedicated provider key.
 On every backend start, the service checks the binary/version and runs a short, no-tool
-`opencode run` prompt asking the selected model to reply `OK`. Research starts only after that
-test passes. A successful non-empty assistant reply establishes connectivity; the requested
+`opencode run` prompt asking each selected model to reply `OK`. Each agent starts accepting jobs only after its own
+test passes; a failed agent does not pause the agents that passed. A successful non-empty assistant reply establishes connectivity; the requested
 wording is not an exact-output gate. An empty successful stop is retried once, with both
 attempts retained in the diagnostics. The probe has a two-step allowance to avoid OpenCode’s
 forced last-step summary on the first request. The check is bounded to 60 seconds and appears live in the UI. A failed check leaves
@@ -75,7 +85,8 @@ You can run the same check without starting workers using `cd backend && go run 
 agent instruction, model/CLI arguments, parsed response, exit code, duration and stderr. Failures
 also include a bounded stdout preview. Full captured stdout/stderr are saved, with credential
 redaction, to `WORKSPACE_PATH/startup-check.json` (default `backend/data/jobs/startup-check.json`
-from the repository root), mode 0600. This file is replaced on each check. These operator
+from the repository root), mode 0600. With `RESEARCH_AGENTS`, each model has its own `startup-<model-hash>/startup-check.json`
+under `WORKSPACE_PATH`. Each file is replaced on its model’s check. These operator
 diagnostics are excluded from public health/config JSON.
 Restart `backend-dev` after changing environment settings or saved auth. `/v1/config` and the public request
 register explicitly report the binary/model startup check and any unavailable research configuration.
@@ -742,6 +753,12 @@ pricing; cache reads/writes use standard input pricing because no separate cache
 Reported API costs still take precedence. The operator's 15× Swancloud plan is estimated as API
 value divided by 15, separately for each run. This applies only to these Swancloud model IDs,
 including reasoning variants; OpenCode DeepSeek runs retain the configured price/allowance ratio.
+
+`swancloud/claude-haiku-5.5` uses the operator-supplied screenshot rates of $0.015 input
+and $0.075 output per million tokens, with cache reads/writes at the standard input rate.
+Reasoning uses output pricing; no peak adjustment applies. Its 15× plan allocation is API
+value divided by 15, including reasoning variants and reported API costs. The same pricing
+is used by run details, statistics and submission cost sorting.
 
 `opencode-go/muse-spark-1.3-contributor` uses operator-supplied API prices per million tokens:
 input $0.10, output $0.20 and cache reads $0.002, with no time-of-day adjustment. Cache writes

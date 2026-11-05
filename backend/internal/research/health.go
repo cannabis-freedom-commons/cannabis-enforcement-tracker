@@ -2,9 +2,11 @@ package research
 
 import (
 	"context"
+	"crypto/sha256"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -14,6 +16,7 @@ import (
 )
 
 type HealthSnapshot struct {
+	Agents      []AgentHealth     `json:"agents,omitempty"`
 	Diagnostics *ProbeDiagnostics `json:"-"`
 	Status      string            `json:"status"`
 	Message     string            `json:"message"`
@@ -21,6 +24,8 @@ type HealthSnapshot struct {
 	CheckedAt   int64             `json:"checked_at"`
 }
 type Health struct {
+	agents   map[string]*Health
+	order    []string
 	mu       sync.RWMutex
 	snapshot HealthSnapshot
 }
@@ -28,9 +33,63 @@ type Health struct {
 func NewHealth() *Health {
 	return &Health{snapshot: HealthSnapshot{Status: "checking", Message: "Checking the OpenCode binary and a short model test prompt."}}
 }
-func (h *Health) Snapshot() HealthSnapshot { h.mu.RLock(); defer h.mu.RUnlock(); return h.snapshot }
-func (h *Health) Ready() bool              { return h != nil && h.Snapshot().Status == "ready" }
-func (h *Health) Set(s HealthSnapshot)     { h.mu.Lock(); h.snapshot = s; h.mu.Unlock() }
+
+type AgentHealth struct {
+	Model   string         `json:"model"`
+	Startup HealthSnapshot `json:"startup"`
+}
+
+func NewAgentHealth(agents []config.ResearchAgent) *Health {
+	h := NewHealth()
+	if len(agents) <= 1 {
+		return h
+	}
+	h.agents = map[string]*Health{}
+	for _, a := range agents {
+		h.agents[a.Model] = NewHealth()
+		h.order = append(h.order, a.Model)
+	}
+	return h
+}
+func (h *Health) ForModel(model string) *Health {
+	if h == nil {
+		return nil
+	}
+	if h.agents == nil {
+		return h
+	}
+	return h.agents[model]
+}
+func (h *Health) Snapshot() HealthSnapshot {
+	if len(h.order) == 0 {
+		h.mu.RLock()
+		defer h.mu.RUnlock()
+		return h.snapshot
+	}
+	state := HealthSnapshot{Status: "failed", Message: "No research agents passed their startup checks."}
+	ready, checking := 0, 0
+	for _, model := range h.order {
+		snapshot := h.agents[model].Snapshot()
+		state.Agents = append(state.Agents, AgentHealth{model, snapshot})
+		if snapshot.Status == "ready" {
+			ready++
+		}
+		if snapshot.Status == "checking" {
+			checking++
+		}
+		state.CheckedAt = max(state.CheckedAt, snapshot.CheckedAt)
+	}
+	if ready > 0 {
+		state.Status = "ready"
+		state.Message = fmt.Sprintf("%d of %d research agents ready. Queued requests are processed automatically.", ready, len(h.order))
+	} else if checking > 0 {
+		state.Status = "checking"
+		state.Message = "Checking research agents."
+	}
+	return state
+}
+func (h *Health) Ready() bool          { return h != nil && h.Snapshot().Status == "ready" }
+func (h *Health) Set(s HealthSnapshot) { h.mu.Lock(); h.snapshot = s; h.mu.Unlock() }
 
 // Probe invokes the same actual OpenCode harness/model/auth path used by research,
 // with a neutral workspace and a short no-tool agent instead of a real report.
@@ -95,6 +154,13 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 		return diagnostics, err
 	}
 	diagnosticRoot = root
+	if len(r.Config.ResearchAgents) > 0 {
+		digest := sha256.Sum256([]byte(r.Config.ResearchModel))
+		diagnosticRoot = filepath.Join(root, fmt.Sprintf("startup-%x", digest[:8]))
+		if err = os.MkdirAll(diagnosticRoot, 0700); err != nil {
+			return diagnostics, err
+		}
+	}
 	dir, err := os.MkdirTemp(root, ".startup-check-")
 	if err != nil {
 		return diagnostics, err
@@ -108,7 +174,12 @@ func (r Runner) probeAttempt(ctx context.Context) (diagnostics ProbeDiagnostics,
 		return diagnostics, err
 	}
 	args := []string{"run", "--pure", "--agent", "enforcement-probe", "--model", r.Config.ResearchModel, "--format", "json", probePrompt}
-	command, cleanup, err := r.commandArgs(ctx, input, "startup-check", args)
+	probeID := "startup-check"
+	if len(r.Config.ResearchAgents) > 0 {
+		digest := sha256.Sum256([]byte(r.Config.ResearchModel))
+		probeID = fmt.Sprintf("startup-check-%x", digest[:8])
+	}
+	command, cleanup, err := r.commandArgs(ctx, input, probeID, args)
 	if err != nil {
 		return diagnostics, err
 	}

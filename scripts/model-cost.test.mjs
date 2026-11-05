@@ -60,6 +60,7 @@ test("costs keep four decimals, and six below a ten-thousandth of a dollar", () 
 });
 
 for (const [model,input,output,cached] of [
+ ["swancloud/claude-haiku-5.5",0.015,0.075,0.015],
  ["swancloud/muse-spark-1.3-contributor",0.100,0.200,0.002],
  ["swancloud/deepseek-v4.1-flash",0.150,0.600,0.150],
 ]) {

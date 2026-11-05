@@ -10,7 +10,7 @@ import (
 
 func defaults(t *testing.T) {
 	t.Helper()
-	for _, k := range []string{"NOSTR_GATEWAY_SECRET", "NOSTR_BOT_SECRET", "NOSTR_RELAYS", "RESEARCH_IMAGE", "RESEARCH_NETWORK", "RESEARCH_MODEL", "RESEARCH_API_KEY", "GITHUB_APP_ID", "GITHUB_INSTALLATION_ID", "GITHUB_APP_PRIVATE_KEY_FILE", "INGEST_TOKEN", "TRUSTED_PROXY_CIDRS", "HARVEST_RSS_URLS", "HARVEST_GDELT_QUERIES", "HARVEST_BING_NEWS_ENABLED", "HARVEST_BING_NEWS_INTERVAL", "HARVEST_BING_NEWS_QUERIES", "HARVEST_BING_NEWS_MAX_ARTICLES", "HARVEST_BING_NEWS_QUERIES_PER_SCAN", "HARVEST_GOOGLE_NEWS_ENABLED", "HARVEST_GOOGLE_NEWS_INTERVAL", "HARVEST_GOOGLE_NEWS_QUERIES", "HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN"} {
+	for _, k := range []string{"NOSTR_GATEWAY_SECRET", "NOSTR_BOT_SECRET", "NOSTR_RELAYS", "RESEARCH_IMAGE", "RESEARCH_NETWORK", "RESEARCH_MODEL", "RESEARCH_AGENTS", "WORKER_CONCURRENCY", "RESEARCH_API_KEY", "GITHUB_APP_ID", "GITHUB_INSTALLATION_ID", "GITHUB_APP_PRIVATE_KEY_FILE", "INGEST_TOKEN", "TRUSTED_PROXY_CIDRS", "HARVEST_RSS_URLS", "HARVEST_GDELT_QUERIES", "HARVEST_BING_NEWS_ENABLED", "HARVEST_BING_NEWS_INTERVAL", "HARVEST_BING_NEWS_QUERIES", "HARVEST_BING_NEWS_MAX_ARTICLES", "HARVEST_BING_NEWS_QUERIES_PER_SCAN", "HARVEST_GOOGLE_NEWS_ENABLED", "HARVEST_GOOGLE_NEWS_INTERVAL", "HARVEST_GOOGLE_NEWS_QUERIES", "HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN"} {
 		t.Setenv(k, "")
 	}
 	t.Setenv("DEMO_WORKER", "false")
@@ -161,6 +161,24 @@ func TestBingNewsConfiguration(t *testing.T) {
 					t.Fatal("invalid value accepted")
 				}
 			})
+		}
+	}
+}
+
+func TestResearchAgentsConfiguration(t *testing.T) {
+	defaults(t)
+	t.Setenv("RESEARCH_RUNNER", "local")
+	t.Setenv("RESEARCH_MODEL", "legacy/model")
+	t.Setenv("WORKER_CONCURRENCY", "invalid-but-overridden")
+	t.Setenv("RESEARCH_AGENTS", `[{"model":"opencode-go/muse-spark-1.3-contributor#xhigh","max_workers":3},{"model":"swancloud/muse-spark-1.3-contributor#xhigh","max_workers":3}]`)
+	c, err := Load()
+	if err != nil || len(c.Agents()) != 2 || c.MaxWorkers() != 6 || !c.ResearchEnabled() {
+		t.Fatal(c, err)
+	}
+	for _, raw := range []string{`[]`, `null`, `{}`, `[{}]`, `[{"model":"p/m","max_workers":0}]`, `[{"model":"p/m","max_workers":9}]`, `[{"model":"p/m","max_workers":1,"typo":2}]`, `[{"model":"p/m","max_workers":1},{"model":"p/m","max_workers":2}]`, `[{"model":"invalid","max_workers":1}]`, `[{"model":"p/m","max_workers":1}] []`} {
+		t.Setenv("RESEARCH_AGENTS", raw)
+		if _, err := Load(); err == nil {
+			t.Fatalf("accepted %s", raw)
 		}
 	}
 }

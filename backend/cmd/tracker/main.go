@@ -62,12 +62,14 @@ func run() error {
 		return err
 	}
 	if *checkAI {
+		if !c.ResearchEnabled() {
+			return errors.New("configure RESEARCH_AGENTS or RESEARCH_MODEL before checking AI")
+		}
 		ctx, cancel := context.WithTimeout(context.Background(), 60*time.Second)
 		defer cancel()
-		health := research.NewHealth()
-		(research.Runner{Config: c}).Check(ctx, health)
+		health := research.NewAgentHealth(c.Agents())
+		checkAgents(ctx, c, nil, health)
 		snapshot := health.Snapshot()
-		logStartupCheck(snapshot)
 		if snapshot.Status != "ready" {
 			return errors.New(snapshot.Message)
 		}
@@ -155,15 +157,13 @@ func run() error {
 	if err := research.BackfillTokens(ctx, s); err != nil {
 		slog.Warn("token backfill failed", "error", err)
 	}
-	health := research.NewHealth()
+	health := research.NewAgentHealth(c.Agents())
 	w := worker.Worker{Store: s, Config: c, Health: health}
 	checkDone := make(chan struct{})
 	if !c.Demo && c.ResearchEnabled() {
 		go func() {
 			defer close(checkDone)
-			(research.Runner{Config: c, Store: s}).Check(ctx, health)
-			snapshot := health.Snapshot()
-			logStartupCheck(snapshot)
+			checkAgents(ctx, c, s, health)
 		}()
 	} else {
 		health.Set(research.HealthSnapshot{Status: "unconfigured", Message: "OpenCode research is not configured."})
@@ -260,4 +260,20 @@ func logExcerpt(value string, limit int) string {
 		return string(text[:limit]) + "… [truncated; full output in diagnostics file]"
 	}
 	return value
+}
+
+func checkAgents(ctx context.Context, c config.Config, s *store.Store, health *research.Health) {
+	var wg sync.WaitGroup
+	for _, agent := range c.Agents() {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			selected := c
+			selected.ResearchModel = agent.Model
+			h := health.ForModel(agent.Model)
+			(research.Runner{Config: selected, Store: s}).Check(ctx, h)
+			logStartupCheck(h.Snapshot())
+		}()
+	}
+	wg.Wait()
 }

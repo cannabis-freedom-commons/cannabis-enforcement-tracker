@@ -2,16 +2,19 @@ package api
 
 import (
 	"context"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"net/http"
 	"os/exec"
 	"runtime"
 	"strconv"
+	"strings"
 	"time"
 )
 
 type ProcessingInfo struct {
+	Agents                []config.ResearchAgent   `json:"agents"`
 	Budget                *BudgetInfo              `json:"budget"`
 	Startup               *research.HealthSnapshot `json:"startup,omitempty"`
 	RestartAvailable      bool                     `json:"restart_available"`
@@ -25,7 +28,7 @@ type ProcessingInfo struct {
 	AutomaticPublication  bool                     `json:"automatic_publication"`
 	PublicationConfigured bool                     `json:"publication_configured"`
 	Plan                  *Plan                    `json:"plan,omitempty"`
-	MaxRunning            int                      `json:"max_running"` // research jobs worked on at once (WORKER_CONCURRENCY)
+	MaxRunning            int                      `json:"max_running"` // total configured research worker capacity
 }
 
 // Plan is a subscription the runs are paid from: its monthly price and the usage it includes at
@@ -37,7 +40,13 @@ type Plan struct {
 
 func (s *Server) processingInfo(ctx context.Context) ProcessingInfo {
 	c := s.Config
-	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.localControls(), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: max(1, c.WorkerConcurrency)}
+	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.localControls(), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: c.MaxWorkers()}
+	p.Agents = c.Agents()
+	models := make([]string, 0, len(p.Agents))
+	for _, a := range p.Agents {
+		models = append(models, a.Model)
+	}
+	p.Model = strings.Join(models, ", ")
 	if c.PlanUSD > 0 && c.PlanAllowanceUSD > 0 {
 		p.Plan = &Plan{PriceUSD: c.PlanUSD, AllowanceUSD: c.PlanAllowanceUSD}
 	}
@@ -47,8 +56,8 @@ func (s *Server) processingInfo(ctx context.Context) ProcessingInfo {
 		p.Reason = "Demo worker simulates progress; no AI model is called."
 		return p
 	}
-	if c.ResearchModel == "" {
-		p.Reason = "AI processing is not configured. Set RESEARCH_MODEL and configure OpenCode auth."
+	if len(c.Agents()) == 0 {
+		p.Reason = "AI processing is not configured. Set RESEARCH_AGENTS (or RESEARCH_MODEL) and configure OpenCode auth."
 		p.Enabled = false
 	} else if c.ResearchRunner != "local" && c.ResearchKey == "" {
 		p.Reason = "Waiting for the AI API key. Add RESEARCH_API_KEY to .env and restart backend-dev."

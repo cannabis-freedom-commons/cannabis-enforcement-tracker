@@ -53,8 +53,8 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
 
     <section class="sx-working" aria-labelledby="working-title">
       <h2 id="working-title">Working now <span id="register-working-count"></span></h2>
-      <div class="sx-table" tabindex="0" role="region" aria-label="Currently running submissions">
-        <div class="sx-grid-head" aria-hidden="true"><span>Received</span><span>ID</span><span>Source</span><span>Status</span><span>Tokens in/out</span><span>Runs · time</span><span>Cost</span></div>
+      <div class="sx-table sx-table-working" tabindex="0" role="region" aria-label="Currently running submissions; scroll horizontally on smaller screens">
+        <div class="sx-grid-head" aria-hidden="true"><span>Received</span><span>ID</span><span>Source</span><span>Status</span><span>Model</span><span>Tokens in/out</span><span>Runs · time</span><span>Cost</span></div>
         <ol class="sx-list" id="register-working" aria-live="polite"><li class="sx-empty">Checking active work…</li></ol>
       </div>
       <p class="sx-table-note">Live processing across all sources. Restarted submissions appear here when work begins.</p>

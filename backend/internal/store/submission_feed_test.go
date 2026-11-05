@@ -380,3 +380,47 @@ func TestWorkingFeedUsesLatestReceiptAndLiveJobs(t *testing.T) {
 		}
 	}
 }
+
+func TestSubmissionHaikuCostEstimateIncludesCacheAndReasoning(t *testing.T) {
+	s := openTest(t)
+	ctx := context.Background()
+	for i, model := range []string{"swancloud/claude-haiku-5.5", "swancloud/claude-haiku-5.5#xhigh"} {
+		u := fmt.Sprintf("https://news.example/haiku-%d", i)
+		id, err := s.Accept(ctx, Intake{Origin: "web", URL: u, CanonicalURL: u})
+		if err != nil {
+			t.Fatal(err)
+		}
+		v, _ := s.Get(ctx, id)
+		run, err := s.Reserve(ctx, v.CaseID, "workspace", 1, 1000)
+		if err != nil {
+			t.Fatal(err)
+		}
+		if _, err = s.DB.Exec(`UPDATE research_runs SET model=?,input_tokens=1000000,cache_read_tokens=1000000,cache_write_tokens=1000000,output_tokens=1000000,reasoning_tokens=1000000 WHERE id=?`, model, run); err != nil {
+			t.Fatal(err)
+		}
+	}
+	page, err := s.ListSubmissions(ctx, "", "", "", "cost", "asc")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(page.Submissions) != 2 {
+		t.Fatal(page.Submissions)
+	}
+	for _, entry := range page.Submissions {
+		if entry.sortKey != "195000000" {
+			t.Fatal("Haiku API estimate differs from displayed pricing", entry.sortKey)
+		}
+	}
+	if _, err = s.DB.Exec(`UPDATE research_runs SET cost_usd=0.5`); err != nil {
+		t.Fatal(err)
+	}
+	page, err = s.ListSubmissions(ctx, "", "", "", "cost", "asc")
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, entry := range page.Submissions {
+		if entry.sortKey != "500000000" {
+			t.Fatal("reported cost did not take precedence", entry.sortKey)
+		}
+	}
+}

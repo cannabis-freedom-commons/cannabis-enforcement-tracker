@@ -3,6 +3,7 @@ package api
 import (
 	"context"
 	"encoding/json"
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"strings"
@@ -59,6 +60,32 @@ func TestFullAIJSONLogEndpoint(t *testing.T) {
 	for _, id := range []string{"bad", strings.Repeat("a", 32)} {
 		if response := request(h, "GET", "/v1/submissions/"+id+"/ai/log", "", ""); response.Code != 404 {
 			t.Fatal(response.Code)
+		}
+	}
+}
+
+func TestProcessingInfoMultipleAgents(t *testing.T) {
+	s, _ := server(t)
+	s.Config.ResearchModel = "ignored/legacy"
+	s.Config.WorkerConcurrency = 8
+	s.Config.ResearchRunner = "docker"
+	s.Config.ResearchImage = "fixture-image"
+	s.Config.ResearchKey = "fixture-private-key"
+	s.Config.ResearchAgents = []config.ResearchAgent{{Model: "a/model#xhigh", MaxWorkers: 3}, {Model: "b/model#xhigh", MaxWorkers: 3}}
+	s.Health = research.NewAgentHealth(s.Config.Agents())
+	s.Health.ForModel("a/model#xhigh").Set(research.HealthSnapshot{Status: "ready", Diagnostics: &research.ProbeDiagnostics{Stdout: "private probe output"}})
+	s.Health.ForModel("b/model#xhigh").Set(research.HealthSnapshot{Status: "failed", Message: "Authentication failed."})
+	info := s.processingInfo(context.Background())
+	if !info.Enabled || info.MaxRunning != 6 || len(info.Agents) != 2 || len(info.Startup.Agents) != 2 || strings.Contains(info.Model, "legacy") {
+		t.Fatalf("incorrect processing info: %+v", info)
+	}
+	data, err := json.Marshal(info)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, private := range []string{"private probe output", "fixture-private-key"} {
+		if strings.Contains(string(data), private) {
+			t.Fatal("exposed private diagnostics")
 		}
 	}
 }
