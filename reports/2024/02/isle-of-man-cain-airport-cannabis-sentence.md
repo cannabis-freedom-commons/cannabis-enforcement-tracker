@@ -32,6 +32,10 @@ sources:
     url: https://www.bbc.com/news/articles/cj740xv3yg0o
     publisher: BBC News
     date: 2024-02-09
+  - title: Man caught with £100k cannabis in suitcase jailed
+    url: https://www.bbc.co.uk/news/articles/cj740xv3yg0o
+    publisher: BBC News
+    date: 2024-02-09
 open_questions:
   - No exact arrest day in January 2024 was published, only that the arrest occurred in January.
   - No separate sentencing hearing date was published, so 9 February 2024 is the BBC publication date used as the incident date.
@@ -47,15 +51,15 @@ arrivals conveyor belt as suspicious. [@1] Officers noticed Cain appeared
 nervous and pale while he waited in the baggage reclaim area. [@1] Cain was
 arrested after he collected the hard-shell suitcase from the conveyor belt in
 the baggage reclaim area. [@1] Cain pleaded guilty to importing cannabis to the
-island and possessing the drug with intent to supply. [@1] Douglas Courthouse
+island and possessing the drug with intent to supply. [@1,2] Douglas Courthouse
 jailed Cain for three years and four months for the cannabis importation. [@1]
 Deemster Graeme Cook also banned Cain from returning to the island for five
-years following his release. [@1]
+years following his release. [@1,2]
 
 Officers broke open the suitcase lock to reveal more than 11lbs (5kgs) of
 cannabis inside. [@1] The cannabis in the suitcase was reported as worth more
 than £116,000. [@1] Officers were carrying out airport checks as part of
-Operation Fortress when sniffer dogs identified the hard shell suitcase. [@1]
+Operation Fortress when sniffer dogs identified the hard shell suitcase. [@1,2]
 
 Deemster Cook said the quantity meant there must be some links to organised
 crime. [@1] Prosecutors said Cain was unlikely to have obtained such a large
@@ -63,4 +67,3 @@ amount without being linked to a larger organised crime group. [@1] Cain told
 police he had previously carried money to and from the island but said this was
 his first time transporting drugs. [@1] His defence advocate said he became
 involved after getting into debt to fuel a cocaine addiction. [@1]
-
