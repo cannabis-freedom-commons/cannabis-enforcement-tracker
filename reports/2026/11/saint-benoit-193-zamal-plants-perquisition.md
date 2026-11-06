@@ -45,6 +45,11 @@ sources:
     publisher: Le Quotidien de La Réunion
     date: 2026-11-05
     language: fr
+  - title: 'Saint-Benoît : 193 pieds de cannabis découverts lors d''une perquisition'
+    url: https://imazpress.com/faits-divers/saint-benoit-saisie-cannabis
+    publisher: Imaz Press Réunion
+    date: 2026-11-05
+    language: fr
 open_questions:
   - Neither outlet gives a weight for the dried cannabis, so no kilogram figure is recorded.
   - Neither account gives a separate date for the search; both articles are dated 5 November 2026, which is used as the incident date.
@@ -61,14 +66,14 @@ open_questions:
 ---
 
 Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,
-acting in an inquiry into violence with a weapon. [@1,3] The search uncovered an
+acting in an inquiry into violence with a weapon. [@1,3,4] The search uncovered an
 installation set up to produce narcotics. [@1] Officers found 193 cannabis
-plants spread over three spaces specially fitted out for growing them. [@1,3] The
+plants spread over three spaces specially fitted out for growing them. [@1,2,3] The
 find also included dried cannabis and various pieces of equipment, notably
 ventilation equipment. [@1,3] The discovery gave a new dimension to the inquiry,
 which had initially been opened over the armed violence. [@1] After the search,
 the person concerned was placed in garde à vue, French police custody, on
-suspicion of several offences under the drug law. [@1,3] Réunion outlets call the
+suspicion of several offences under the drug law. [@1,3,4] Réunion outlets call the
 plant zamal, the local term for cannabis. [@2]
 
 The gendarmerie said the man had been placed in custody for several suspected
