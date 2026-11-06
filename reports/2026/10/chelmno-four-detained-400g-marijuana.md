@@ -40,6 +40,11 @@ sources:
     url: https://chelmno.policja.gov.pl/kb7/informacje/wiadomosci/174721,Kryminalni-zabezpieczyli-znaczne-ilosci-narkotykow-Trzy-osoby-z-zarzutami.html
     publisher: Komenda Powiatowa Policji w Chełmnie
     language: pl
+  - title: Zatrzymania w Chełmnie i we Włocławku. Policjanci zabezpieczyli sporą ilość narkotyków [wideo]
+    url: https://www.radiopik.pl/2,143444,zatrzymania-w-chelmnie-i-we-wloclawku-policjanci
+    publisher: Radio PIK
+    date: 2026-11-05
+    language: pl
 open_questions:
   - The over 100 grams seized from the 32-year-old woman mixes amphetamine and marijuana without a separable cannabis weight, so no cannabis quantity is recorded for it.
   - The over 530 grams of amphetamine, over 215 grams of 3-4 CMC and the combined over 1.2 kg drug total are excluded from cannabis figures as non-cannabis or unseparated mixed totals.
@@ -47,27 +52,30 @@ open_questions:
   - The exact address of the 31-year-old's residence was not published, so Chełmno is used as the incident place.
   - The police page carries additional photos and a detention video whose direct addresses were not recovered, so only the outlet's police-handout photo is listed as media.
   - Both accounts repeat the police version of the operation; no separate non-police account was found.
+  - Radio PIK gives the 31-year-old's seizure as 530 g of amphetamine and 215 g of 3-4 CMC, while the police statement says over 530 g and over 215 g; both are non-cannabis and do not affect the cannabis figure.
+  - The Włocławek part of the same article states more than 400 g of marijuana, while the Włocławek police statement says more than 405 g; the separate Włocławek report keeps 405 g.
 ---
 
 Chełmno's kryminalni, the police criminal-investigation officers, detained four
 people suspected of possessing and trafficking intoxicants and psychotropic
-substances on 31 October 2026. [@2] Three of the detained people were charged
+substances on 31 October 2026. [@2,3] Three of the detained people were charged
 with drug offences. [@2] The fourth detained person was questioned only as a
-witness and released after police procedures. [@2] At the request of
+witness and released after police procedures. [@2,3] At the request of
 investigators and the prosecutor, a court placed the 31-year-old man in
 temporary arrest, the Polish pretrial-detention measure, for three months. [@2]
 The court placed the 32-year-old woman and the 26-year-old man under police
 supervision and banned them from leaving the country. [@1]
 
 At the 31-year-old's home, police seized over 400 grams of marijuana together
-with weighing and portioning tools. [@1] In the same search, police also seized
+with weighing and portioning tools. [@1,3] In the same search, police also seized
 over 530 grams of amphetamine and over 215 grams of 3-4 CMC. [@2] Officers
 seized over 100 grams of drugs, including amphetamine and marijuana, from the
 32-year-old woman. [@2]
 
 The 31-year-old was charged with participating in trafficking a significant
-quantity of intoxicants and psychotropic substances. [@2] The 26-year-old was
+quantity of intoxicants and psychotropic substances. [@2,3] The 26-year-old was
 charged with introducing drugs into circulation. [@2] Police said operational
 work identified the suspects and confirmed their suspicions on the same day the
 charges and seizures were made. [@1]
 
+The 32-year-old woman is also to answer for possessing a significant quantity of psychotropic substances, the charge police reported against her. [@2]

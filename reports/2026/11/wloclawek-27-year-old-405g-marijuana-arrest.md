@@ -50,6 +50,11 @@ sources:
     publisher: Portal Włocławek
     date: 2026-11-05
     language: pl
+  - title: Zatrzymania w Chełmnie i we Włocławku. Policjanci zabezpieczyli sporą ilość narkotyków [wideo]
+    url: https://www.radiopik.pl/2,143444,zatrzymania-w-chelmnie-i-we-wloclawku-policjanci
+    publisher: Radio PIK
+    date: 2026-11-05
+    language: pl
 open_questions:
   - 'No precise laboratory weight was reported: the figures are "over 405 g" of marijuana and "over 290 g" of mephedrone, so the cannabis figure uses the stated lower bound.'
   - The reports do not say whether the 27-year-old has been formally charged yet; police said he was still to hear the possession charge.
@@ -57,14 +62,15 @@ open_questions:
   - The almost 700 g total covers both marijuana and mephedrone and cannot be separated further, so it is excluded from cannabis figures.
   - No court outcome beyond the order to serve the earlier six-month sentence was reported.
   - The police statement's three photos carry no descriptive captions, so only one is listed and it cannot be confirmed which items it shows.
+  - Radio PIK reports that over 400 g of marijuana was found in the flat, while the Włocławek police statement gives more than 405 g; the report keeps 405 g.
 ---
 
 Włocławek criminal police searched a 27-year-old resident's flat on Tuesday 3
 November 2026 and found drugs. [@1,4,5] The man was already wanted under an order to
 take him to prison to serve a six-month sentence for an earlier drug offence.
-[@1,4,5] He was placed in prison, and police said he will soon also be charged with
+[@1,4,5,6] He was placed in prison, and police said he will soon also be charged with
 possessing a significant quantity of drugs, an offence carrying up to 10 years.
-[@1,4,5]
+[@1,4,5,6]
 
 During the search officers seized more than 405 grams of marijuana. [@1,4,5] They
 also seized more than 290 grams of mephedrone, a stimulant that is not cannabis
