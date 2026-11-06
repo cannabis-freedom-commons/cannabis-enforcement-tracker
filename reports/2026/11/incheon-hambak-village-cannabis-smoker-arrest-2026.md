@@ -56,6 +56,11 @@ sources:
     publisher: 브릿지경제
     date: 2026-11-06
     language: ko
+  - title: 인천경찰청, 연수구 함박마을 범죄예방 치안활동···주민안전 확보
+    url: https://www.incheontoday.com/news/articleView.html?idxno=326039
+    publisher: 인천투데이
+    date: 2026-11-06
+    language: ko
 open_questions:
   - No amount or weight of cannabis was reported, so no cannabis quantity is recorded.
   - The person's age, nationality, sex and the business where the inspection took place were not published.
@@ -68,24 +73,23 @@ open_questions:
 
 Police in Incheon arrested one person suspected of smoking cannabis during a
 joint inspection of four businesses in Hambak Village, a neighbourhood in Yeonsu
-1-dong, Yeonsu District. [@1] The arrest came during a special policing
+1-dong, Yeonsu District. [@1,3] The arrest came during a special policing
 operation that Incheon Metropolitan Police Agency said it ran in the
-neighbourhood from 28 October to 4 November 2026. [@2]
+neighbourhood from 28 October to 4 November 2026. [@2,3]
 
 The joint inspection team included the agency's international crime
 investigation unit and the Incheon Immigration and Foreigner Office, which also
 found two foreigners who had breached their work eligibility. [@2] The operation
 deployed 290 police personnel, including 128 officers from local police boxes,
 88 from a mobile squad, 42 from the metropolitan preventive patrol unit and 32
-detectives. [@1]
+detectives. [@1,3]
 
 Crime reported in the area during the operation fell to five cases from eight in
 the preceding week, a 37.5% drop, and 112 emergency calls fell 13.4% from 89 to
-77. [@2] Officers concentrated the mobile squad in the neighbourhood late at
-night and increased patrols in the hours when crime was most likely. [@1]
+77. [@2,3] Officers concentrated the mobile squad in the neighbourhood late at
+night and increased patrols in the hours when crime was most likely. [@1,3]
 
 Hambak Village, in Yeonsu 1-dong, has drawn a fast-growing foreign population
 since 2015 and last year had more than 60% foreign residents among about 12,000
 people. [@1] Police said they would keep patrolling crime-prone areas and work
 with other agencies on a safe policing environment. [@1]
-
