@@ -72,6 +72,11 @@ sources:
     publisher: Metrotvnews.com
     date: 2026-11-05
     language: id
+  - title: Polres Lampung Selatan Ungkap Empat Kasus Narkotika, Sita 40,26 Kg Sabu dan 15,1 Kg Ganja Senilai Rp43,48 Miliar
+    url: https://hanuang.com/polres-lampung-selatan-ungkap-empat-kasus-narkotika-sita-4026-kg-sabu-dan-151-kg-ganja-senilai-rp4348-miliar/
+    publisher: Hanuang.com
+    date: 2026-11-05
+    language: id
 open_questions:
   - >-
     The seizures occurred during October 2026 and were announced on 4 November 2026; 4 November 2026 is used
@@ -107,12 +112,17 @@ open_questions:
     and the Medan-Bandung route via Bakauheni.
   - The submitted article dates the police statement to Thursday, 5 November 2026, while the existing report uses a 4 November 2026 press conference as the incident date; whether these are successive announcements of the same October operation is not resolved.
   - The submitted page's images are captioned only with the police chief's name and a generic October-case headline credited as Istimewa, so no photo can be confirmed to show this seizure and no media entry is listed.
+  - The fifth case in the five-case announcement lies outside South Lampung police's four reports, and these accounts publish no suspects, weights or places for it.
+  - Police give two separate valuations, Rp43,480,300,000 for the South Lampung four cases and Rp125,123,200,000 for all five; both cover methamphetamine, ecstasy and etomidate as well as ganja, so no cannabis-only value is recorded.
+  - The submitted page attributes the 177,202-people estimate to the four South Lampung cases, while earlier accounts of the same announcement put the five-case figure at 429,683.
+  - No suspect names, ages or court outcomes are published for the ganja cases.
+  - The submitted page's single image has no caption or credit identifying it as this event's evidence, so no media entry is added.
 ---
 
 Lampung police reported ten suspects detained in five October cases and 33.1 kilograms of cannabis seized. [@1,2,3,4]
 
 Lampung police broke up five highlighted narcotics cases during October 2026.
-[@2,4,5] Officers detained 10 suspects in those cases. [@2,4,5] A second outlet confirms
+[@2,4,5,6] Officers detained 10 suspects in those cases. [@2,4,5] A second outlet confirms
 the same October operation involved 10 suspects and the same drug totals. [@3]
 Provincial police chief Brig. Gen. Yustan Alpiani announced the results at a
 press conference at Lampung police headquarters on 4 November 2026. [@2,4] The
@@ -127,9 +137,11 @@ at Rp125,123,200,000, or more than Rp125 billion. [@2,4,5] Yustan claimed the se
 narcotics could save about 429,683 people from potential drug abuse. [@2,4,5]
 
 Investigators said the network moved narcotics from Medan, North Sumatra, to
-Bandung, West Java, through Bakauheni Port in South Lampung. [@2] Police
+Bandung, West Java, through Bakauheni Port in South Lampung. [@2,6] Police
 described Bakauheni as the main transport gateway between Sumatra and Java,
 making surveillance of the crossing crucial to narrowing the inter-island
-syndicate's room to move. [@2] Yustan said police would act firmly without
+syndicate's room to move. [@2,6] Yustan said police would act firmly without
 discrimination against perpetrators from local or international networks and
 would give no space for Lampung to be used as a distribution route. [@2]
+
+Four of the five cases were reported by South Lampung police, who found 3.1 kilograms of ganja in a Toyota Hiace at Bakauheni on 9 October 2026 and 12 kilograms in a purple suitcase on a Bandung-bound ALS bus on 28 October 2026, making up the 15.1 kilograms they counted. [@6] South Lampung police put the economic value of their four cases at Rp43,480,300,000 and said they could save 177,202 people from potential drug abuse. [@6] The South Lampung police recorded five male suspects across their four case reports. [@6]
