@@ -95,6 +95,11 @@ sources:
     publisher: BigTvLive
     date: 2026-11-05
     language: te
+  - title: సెక్యూరిటీ గార్డు నుంచి కోటీశ్వరుడిగా..
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/assam-cannabis-kingpin-bhaskar-hazarika-arrested-hyderabad-eagle-force-1573781.html
+    publisher: Andhrajyothy
+    date: 2026-11-06
+    language: te
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -134,12 +139,16 @@ open_questions:
   - BigTV Telugu says the EAGLE Force ran the 60-day hunt with a Special Task Force team; the report's other accounts do not mention an STF unit in this case.
   - BigTV Telugu describes the Odisha supplier paid in 88 instalments only as Ashish Kumar, matching an existing report name, and does not mention the other Odisha suppliers discussed in an earlier open question.
   - BigTV Telugu's only picture is captioned with the headline alone and cannot be confirmed to show this seizure, so no media entry was added.
+  - This account is datelined Hyderabad, 5 November but was published on 6 November 2026; it gives no separate time for the five arrests on that night.
+  - This account lists the fourth associate only as Rajbanshi, while the existing report gives Akan Rajbanshi; whether the shortened name is the same person is not explained.
+  - This account names Odisha-based Pitaranjan Nayak as Hazarika's first supplier, while the existing report names Ashish Kumar and other Odisha suppliers; how these suppliers relate is unclear.
+  - The page's only image is captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is included.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10,12] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -154,9 +163,9 @@ monthly over ten months to around 100 regular customers in Cyberabad. [@1]
 Bank transaction analysis showed Hazarika bought marijuana worth ₹48 lakh from
 Ashish Kumar in 88 transactions between 2 February and 29 October 2026. [@1] The
 reported purchase price was ₹12,000 to ₹15,000 per kilogram, while the gang sold
-the drug for around ₹50,000 per kilogram. [@1,3,4,6] Investigators estimated about 400
+the drug for around ₹50,000 per kilogram. [@1,3,4,6,12] Investigators estimated about 400
 kg moved through the supply chain, generating sales of nearly ₹1.8 crore in ten
-months. [@1,3,8] Police said Hazarika had other sources of supply. [@1]
+months. [@1,3,8,12] Police said Hazarika had other sources of supply. [@1]
 
 Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4,8]
 
@@ -173,3 +182,5 @@ At Prem Nagar in New Hafeezpet, Hazarika ran a small roadside hotel. [@9]
 Bhaskar Hazarika, 31, is a native of Lakhimpur in Assam. [@10]
 
 BigTV Telugu reported that two people were caught at Choutuppal on 27 August with 20.36 kg of ganja and that questioning them brought Hazarika's network to light. [@11]
+
+EAGLE formed a Special Task Force to search for Hazarika after arresting Vikas Barik. [@12] Hazarika first bought ganja from Odisha-based Pitaranjan Nayak to sell in Hyderabad. [@12]
