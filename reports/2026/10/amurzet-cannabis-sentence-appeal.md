@@ -30,6 +30,8 @@ data_sources:
   details.products: [2, 3]
   details.sentence_types: [1]
   details.setting: [3, 1]
+  figures.arrested: [2, 3, 1]
+  figures.prison: [2, 3, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 6ebcf275afb0c25769ebde2d85ab6d3a

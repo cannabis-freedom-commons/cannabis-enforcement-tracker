@@ -33,6 +33,7 @@ data_sources:
   details.setting: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.prison: [1]
   figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark

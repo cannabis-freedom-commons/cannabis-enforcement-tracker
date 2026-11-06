@@ -31,6 +31,8 @@ data_sources:
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.prison: [1]
   figures.value: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

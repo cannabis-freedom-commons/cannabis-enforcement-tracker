@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 3, 2]
 status: verified
 tags: [kochi, schoolboys, yakuza]
 media:

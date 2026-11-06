@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]
+  figures.prison: [1, 2]
 status: verified
 tags: [hashish, bali, life-sentence]
 open_questions:

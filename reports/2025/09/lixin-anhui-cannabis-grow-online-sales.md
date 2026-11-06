@@ -29,6 +29,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [anhui, shandong, grow, online-sales, money-laundering, sentence]

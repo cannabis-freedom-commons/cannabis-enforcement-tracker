@@ -41,6 +41,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1]
   figures.charged: [1]
+  figures.kg_seized: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c72dc1de33851a0d18222b470837a7fd

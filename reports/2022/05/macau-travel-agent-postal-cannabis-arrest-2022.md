@@ -30,6 +30,7 @@ data_sources:
   details.products: [3, 1, 2, 4, 5, 7]
   details.setting: [5, 2, 1, 6, 3, 4]
   figures.arrested: [3, 1, 2, 4]
+  figures.kg_seized: [2, 1, 6, 3, 4, 5]
   figures.value: [2, 3, 1, 4, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

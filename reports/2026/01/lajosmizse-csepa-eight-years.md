@@ -35,6 +35,7 @@ data_sources:
   details.setting: [1, 2]
   figures.charged: [1]
   figures.fine: [1]
+  figures.prison: [1, 2]
 status: verified
 tags: [lajosmizse, csepa, szolnok]
 open_questions:

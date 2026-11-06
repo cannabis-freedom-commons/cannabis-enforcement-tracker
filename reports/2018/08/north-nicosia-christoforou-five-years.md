@@ -27,6 +27,8 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.prison: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a297e0691c3addfdc644c53d5aa19986

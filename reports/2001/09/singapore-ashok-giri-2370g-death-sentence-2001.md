@@ -34,6 +34,7 @@ data_sources:
   details.sentence_types: [2, 3, 1]
   details.setting: [1, 2, 3]
   figures.charged: [1, 2]
+  figures.kg_seized: [1]
 status: verified
 tags: [mandatory-death-penalty, aljunied, cnb]
 sources:

@@ -25,6 +25,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 945e07f3fbb2849db4e6946b05d23d44

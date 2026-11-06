@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [3, 4, 1, 2]
+  figures.prison: [1, 2, 3]
 status: verified
 tags: [marc-emery, trafficking, saskatoon]
 sources:

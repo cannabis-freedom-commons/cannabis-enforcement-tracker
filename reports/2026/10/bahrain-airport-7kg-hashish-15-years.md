@@ -40,6 +40,7 @@ data_sources:
   details.setting: [1, 2]
   figures.charged: [1, 2]
   figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [airport, hashish, court]
 open_questions:

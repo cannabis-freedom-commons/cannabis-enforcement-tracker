@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/pointe-a-pitre-un-individu-intercepte-avec-50-grammes-de-cannabis-1085949.php

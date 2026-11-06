@@ -36,6 +36,8 @@ data_sources:
   details.sentence_types: [2, 3, 1]
   details.setting: [2, 3, 1]
   figures.arrested: [2, 3]
+  figures.kg_seized: [1, 4, 3, 2]
+  figures.prison: [2, 3, 1]
   figures.value: [1, 4, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

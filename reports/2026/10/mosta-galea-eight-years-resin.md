@@ -40,6 +40,7 @@ data_sources:
   figures.charged: [2, 1]
   figures.fine: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
   figures.value: [1]
 status: verified
 tags: [mosta, resin]

@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 2, 4, 5]
   details.case_stage: [2, 1, 4, 5, 3]
   figures.arrested: [2, 1, 4, 5, 3]
+  figures.kg_seized: [2, 4, 5, 1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4ea6c99b0582f0826f2d2f800362e091

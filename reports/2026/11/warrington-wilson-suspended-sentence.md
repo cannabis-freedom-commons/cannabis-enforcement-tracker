@@ -30,6 +30,7 @@ data_sources:
   details.setting: [1]
   figures.charged: [1]
   figures.fine: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6f83017277e58d9bd88e97ae2d6d40c1

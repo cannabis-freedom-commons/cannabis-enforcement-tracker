@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 4, 5, 6, 7, 2]
   details.sentence_types: [3, 7, 1, 4, 5, 6]
   details.setting: [1, 4, 5, 7, 6, 3]
+  figures.kg_seized: [1, 4, 5, 6, 7, 2]
 media:
   - kind: photo
     url: https://wloclawek.policja.gov.pl/kb4/informacje/wiadomosci/174712,Wloclawscy-kryminalni-zabezpieczyli-mefedron-i-marihuane-mezczyzna-juz-jest-za-k.html

@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   figures.arrested: [1, 2, 3]
   figures.charged: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://bvinews.com/man-arrested-and-charged-over-cannabis-possession/

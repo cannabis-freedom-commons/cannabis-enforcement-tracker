@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.fine: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc5f87c9fd0f768eff8b48d196ba0d0c

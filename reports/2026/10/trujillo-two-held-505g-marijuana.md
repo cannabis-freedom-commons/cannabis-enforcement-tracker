@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://noticiastrujillo.pe/noticia/detienen-a-adulto-mayor-y-a-hombre-por-tener-marihuana-y-balanza-ante-aparente-distribucion

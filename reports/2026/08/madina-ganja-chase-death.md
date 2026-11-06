@@ -29,6 +29,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [bnn, madina, panyabungan]
 open_questions:

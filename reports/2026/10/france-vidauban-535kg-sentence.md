@@ -39,6 +39,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.fine: [1, 2]
+  figures.prison: [1, 2]
   figures.value: [1, 2]
 status: verified
 tags: [var, douanes, a8, trafficking]

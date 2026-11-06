@@ -16,6 +16,7 @@ details:
   setting: [prison]
 data_sources:
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 479a47c4f78d90d0ca7c693537fed1ea

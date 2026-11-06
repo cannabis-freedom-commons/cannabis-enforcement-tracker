@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 3, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 963d2284e1b8c14c42358f556f266b98

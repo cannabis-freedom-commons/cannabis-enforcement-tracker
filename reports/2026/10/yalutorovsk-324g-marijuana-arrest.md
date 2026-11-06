@@ -30,6 +30,7 @@ data_sources:
   details.environment: [2]
   details.products: [1, 2]
   details.setting: [2]
+  figures.kg_seized: [2, 1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [yalutorovsk, tyumen-oblast, wild-cannabis, russia]

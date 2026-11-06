@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [seeds, extradition, activism]
 sources:

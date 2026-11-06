@@ -35,6 +35,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.fine: [2, 1]
+  figures.prison: [2, 1]
 status: verified
 tags: [trafficking, foreigners, plea-deal, thailand]
 sources:

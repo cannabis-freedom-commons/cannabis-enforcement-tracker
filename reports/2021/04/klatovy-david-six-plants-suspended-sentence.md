@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.prison: [1]
 media:
   - kind: photo
     url: https://www.novinky.cz/clanek/krimi-marihuanu-jsem-mel-na-masticku-presvedcil-muz-soud-udal-ho-soused-40358411

@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b83cfbf5b132d492577b258499ed0aaa

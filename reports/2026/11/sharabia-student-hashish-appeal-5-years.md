@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1, 3, 2, 4, 5]
   figures.arrested: [2, 1, 3]
   figures.fine: [1, 3, 2, 4, 5]
+  figures.prison: [1, 3, 2, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: be9d1c81e908244f4fbcb10835eee5c6

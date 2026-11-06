@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1]
   details.environment: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 74ac087caa74026cfdb75ea2e0d23c98

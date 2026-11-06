@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9339b12f9172b11a03fb5877c7666dfd

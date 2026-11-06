@@ -34,6 +34,8 @@ data_sources:
   details.products: [2, 3, 4, 1]
   details.sentence_types: [2, 3, 4, 5, 6]
   details.setting: [5, 6, 3, 4]
+  figures.kg_seized: [1, 2]
+  figures.prison: [5, 6]
 status: verified
 tags: [death-sentence, medical-cannabis, shah-alam, appeal]
 open_questions:

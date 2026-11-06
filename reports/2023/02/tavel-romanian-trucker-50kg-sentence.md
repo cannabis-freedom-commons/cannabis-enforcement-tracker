@@ -36,6 +36,7 @@ data_sources:
   figures.arrested: [1, 2]
   figures.fine: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [trucker, tavel, gard]
 open_questions:

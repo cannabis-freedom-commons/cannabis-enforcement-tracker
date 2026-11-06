@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9189206258eadb4d1fc2dd840677217

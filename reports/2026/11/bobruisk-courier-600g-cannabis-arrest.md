@@ -41,6 +41,8 @@ data_sources:
   details.products: [3, 5, 6, 7, 8, 10, 11, 12, 13]
   details.sentence_types: [1, 8, 10, 11, 12, 13]
   details.setting: [1, 8, 10, 11, 12, 13]
+  figures.arrested: [2, 5, 6, 8, 10, 12]
+  figures.kg_seized: [2, 1, 5, 6, 7, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4379621103fe62acf9faba402270616d

@@ -21,6 +21,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/lutte-contre-les-stupefiants-la-compagnie-de-gendarmerie-du-moule-maintient-la-pression-1051286.php

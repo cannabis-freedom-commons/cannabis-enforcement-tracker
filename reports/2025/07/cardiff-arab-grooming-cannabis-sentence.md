@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.prison: [1]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/cp900p5d0vyo

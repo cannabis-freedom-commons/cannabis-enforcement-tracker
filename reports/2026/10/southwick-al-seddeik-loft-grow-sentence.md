@@ -30,6 +30,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: abd7026451d2f57d9b756bc51f29dc58

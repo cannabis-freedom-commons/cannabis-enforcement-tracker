@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1, 4, 2, 3]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 4, 2, 3, 5]
+  figures.kg_seized: [1, 4, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: a44dff5b0f89a2605f5f3cfa60322f9e

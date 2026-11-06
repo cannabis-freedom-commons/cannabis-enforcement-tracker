@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
   figures.plants_destroyed: [1]
   figures.prison: [1]
 status: verified

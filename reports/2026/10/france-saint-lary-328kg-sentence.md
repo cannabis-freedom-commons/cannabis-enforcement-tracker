@@ -39,6 +39,7 @@ data_sources:
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
+  figures.prison: [1, 2, 3]
   figures.value: [1, 2, 3]
 status: verified
 tags: [hautes-pyrenees, douanes, pyrenees, trafficking]

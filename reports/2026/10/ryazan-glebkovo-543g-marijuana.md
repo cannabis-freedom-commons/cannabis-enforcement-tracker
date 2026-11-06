@@ -33,6 +33,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://162.ru/criminal/u-zhitelya-glebkovo-izyali-543-gramma-marikhuany-id595342/

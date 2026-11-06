@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.sentence_types: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [1, 2, 5, 6, 7, 8]
   figures.plants_destroyed: [1, 2, 5, 6, 7, 8]
 media:
   - kind: photo

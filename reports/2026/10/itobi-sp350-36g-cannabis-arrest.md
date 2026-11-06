@@ -34,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.setting: [2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4d2768a5dbc18a0b6de01944061fadea

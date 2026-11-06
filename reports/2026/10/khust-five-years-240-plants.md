@@ -35,6 +35,7 @@ data_sources:
   details.sentence_types: [2, 3, 4, 5, 1]
   details.setting: [1, 2, 3, 4, 5]
   figures.arrested: [2, 3, 4, 5, 1]
+  figures.prison: [2, 3, 4, 5, 1]
 status: reported
 tags: [khust, zakarpattia]
 open_questions:

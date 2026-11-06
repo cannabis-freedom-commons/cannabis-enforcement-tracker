@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1, 2, 4, 3]
   details.setting: [1, 4, 2, 3]
   figures.fine: [2, 1, 4, 3]
+  figures.prison: [1, 2, 4, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2e42d3d1e1af3acca33f2e78250a75e5

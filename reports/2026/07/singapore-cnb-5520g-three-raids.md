@@ -36,6 +36,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified
 tags: [cnb, ang-mo-kio, pasir-ris]

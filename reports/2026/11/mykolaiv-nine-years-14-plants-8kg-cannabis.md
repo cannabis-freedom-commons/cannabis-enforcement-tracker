@@ -41,6 +41,7 @@ data_sources:
   figures.charged: [1, 3, 4, 5, 10, 11]
   figures.kg_seized: [2, 11, 1, 3, 4, 5]
   figures.plants_destroyed: [1, 10, 11, 2, 3, 4]
+  figures.prison: [1, 3, 4, 5, 10, 11]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df882d7edc003b5c737665ede94ca608

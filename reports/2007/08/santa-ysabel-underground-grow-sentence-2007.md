@@ -33,6 +33,7 @@ data_sources:
   details.sentence_types: [3, 1, 2]
   details.setting: [2, 3, 1]
   figures.plants_destroyed: [2, 3]
+  figures.prison: [3]
 status: verified
 tags: [underground-grow, tunnel, forfeiture, deportation]
 open_questions:

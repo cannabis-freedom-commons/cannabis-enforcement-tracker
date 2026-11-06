@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1, 2, 4]
   details.setting: [2, 4, 3, 1]
   figures.kg_seized: [1, 2, 4, 3]
+  figures.prison: [1, 2, 4, 3]
   figures.value: [1, 3, 4, 2]
 status: verified
 tags: [jersey, customs, hire-car, importation]

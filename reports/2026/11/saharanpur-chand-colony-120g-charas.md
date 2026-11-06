@@ -33,6 +33,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 99930e12f6482c373d97a6e35dbc5489

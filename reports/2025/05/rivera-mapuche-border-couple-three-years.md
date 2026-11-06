@@ -44,6 +44,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [3, 1]
   details.setting: [1, 2]
+  figures.prison: [3, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f4bbf4e85063681d5dfad2008963175d

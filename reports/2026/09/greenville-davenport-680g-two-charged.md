@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [4, 3, 2, 1]
   details.products: [1, 4, 3, 2]
   details.setting: [2, 1, 3, 4]
+  figures.kg_seized: [1, 4, 3]
 media:
   - kind: video
     url: https://www.witn.com/2026/09/18/two-greenville-men-charged-with-exposing-child-marijuana/

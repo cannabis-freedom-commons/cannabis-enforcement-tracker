@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.fine: [1, 2, 3]
+  figures.prison: [1, 2, 3]
 status: verified
 tags: [criminal-court, hashish, cultivation]
 open_questions:

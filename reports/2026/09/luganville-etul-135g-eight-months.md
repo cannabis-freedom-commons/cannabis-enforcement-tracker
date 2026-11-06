@@ -33,6 +33,8 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [luganville, court, taxi]

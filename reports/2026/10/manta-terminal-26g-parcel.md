@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.eldiario.ec/seguridad/unidad-canina-detecta-paquete-con-marihuana-en-el-terminal-terrestre-de-manta-30102026/

@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
   figures.arrested: [1, 3]
+  figures.prison: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e83067ea7c636066509d93d45e62a3f

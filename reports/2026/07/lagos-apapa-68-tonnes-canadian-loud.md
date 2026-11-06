@@ -23,6 +23,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [lagos, apapa, canadian-loud, ndlea, rcmp]

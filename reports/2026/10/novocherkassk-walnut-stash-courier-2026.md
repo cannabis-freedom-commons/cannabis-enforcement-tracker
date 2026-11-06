@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 4, 5, 3, 2]
   details.products: [1, 4, 5, 3, 2]
   details.setting: [1, 3, 4, 5, 2]
+  figures.arrested: [1, 4, 5, 3, 2]
 media:
   - kind: photo
     url: https://www.ruffnews.ru/novocherkassk/v-novocherkasske-zaderzhali-zakladchika-kotoryy-pryatal-marihuanu-v-gretskih-orehah

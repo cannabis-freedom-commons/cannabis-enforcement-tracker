@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://tvatv.ru/news/proisshestviya/84703-v-rayone-buryatii-podrostok-sobral-konoplyu-dlya-sebya/

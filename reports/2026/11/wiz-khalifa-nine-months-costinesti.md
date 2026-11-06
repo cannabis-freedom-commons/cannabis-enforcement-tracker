@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [12, 14, 15, 16, 18]
   details.sentence_types: [1, 2, 3, 14, 7, 16]
   details.setting: [1, 2, 3, 14, 7, 16]
+  figures.prison: [1, 2, 3, 14, 7, 16]
 status: verified
 tags: [costinesti, festival, appeal]
 open_questions:

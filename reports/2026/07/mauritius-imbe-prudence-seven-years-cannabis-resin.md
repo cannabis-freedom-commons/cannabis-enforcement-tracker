@@ -37,6 +37,7 @@ data_sources:
   details.setting: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [supreme-court, cannabis-resin, trafficking, cooperation]
 open_questions:

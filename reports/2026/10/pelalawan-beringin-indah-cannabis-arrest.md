@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://catatanriau.com/amp/detail/33784/polres-pelalawan-gerebek-rumah-di-beringin-indah-sabu-dan-ganja-disita-pria-28-tahun-diamankan

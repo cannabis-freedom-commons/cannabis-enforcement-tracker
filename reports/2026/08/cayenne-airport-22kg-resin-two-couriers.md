@@ -49,6 +49,7 @@ data_sources:
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
   figures.kg_seized: [2, 1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 484a1fbe70fd381123705ba396d27fef

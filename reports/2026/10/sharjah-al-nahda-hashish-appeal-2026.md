@@ -34,6 +34,8 @@ data_sources:
   details.setting: [1, 3, 2]
   figures.arrested: [1, 3]
   figures.charged: [1, 3]
+  figures.kg_seized: [1]
+  figures.prison: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 75dac124274ae7cb9bcf9e6d4654dfca

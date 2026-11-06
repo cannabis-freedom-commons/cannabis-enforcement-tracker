@@ -37,6 +37,7 @@ data_sources:
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2]
   figures.fine: [1, 2, 3, 4]
+  figures.prison: [1, 2, 3, 4]
 status: verified
 tags:
   - tarkwa

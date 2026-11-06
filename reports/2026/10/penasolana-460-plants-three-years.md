@@ -38,6 +38,7 @@ data_sources:
   figures.fine: [1]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]
+  figures.prison: [1, 2]
   figures.value: [1, 2]
 status: verified
 tags: [salamanca, udyco, electricity]

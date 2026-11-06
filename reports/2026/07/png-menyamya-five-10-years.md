@@ -36,6 +36,7 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 tags: [menyamya, morobe, lae-court]
 open_questions:

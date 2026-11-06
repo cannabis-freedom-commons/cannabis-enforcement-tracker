@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
+  figures.arrested: [1]
   figures.charged: [1, 2]
   figures.kg_seized: [2, 1]
 status: verified

@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [ulyanovsk-oblast, inzensky-district, courts, sentence]

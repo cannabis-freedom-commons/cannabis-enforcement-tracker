@@ -35,6 +35,7 @@ data_sources:
   details.products: [1, 3, 2]
   details.sentence_types: [2]
   details.setting: [1, 3]
+  figures.arrested: [1, 3]
   figures.kg_seized: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

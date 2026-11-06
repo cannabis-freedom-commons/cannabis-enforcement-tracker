@@ -32,7 +32,9 @@ data_sources:
   details.products: [2, 3, 4, 1]
   details.sentence_types: [1, 3, 4, 2]
   details.setting: [1, 3, 4, 2]
+  figures.arrested: [1, 3, 4]
   figures.charged: [1, 3, 4]
+  figures.kg_seized: [2, 3, 4, 1]
   figures.plants_destroyed: [1, 3, 4, 2]
 media:
   - kind: photo

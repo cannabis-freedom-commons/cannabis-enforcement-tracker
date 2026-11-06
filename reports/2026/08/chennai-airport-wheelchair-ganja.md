@@ -38,6 +38,7 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [2]
+  figures.kg_seized: [3, 2, 1]
   figures.value: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

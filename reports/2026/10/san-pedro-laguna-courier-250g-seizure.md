@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3, 4]
   figures.value: [1, 2, 3, 4]
 status: verified
 tags: [laguna, san-pedro, pdea, courier, k9]

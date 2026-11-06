@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [mandatory-death-penalty]
 open_questions:

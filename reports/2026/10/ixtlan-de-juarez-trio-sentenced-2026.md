@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
 media:
   - kind: photo
     url: https://imparcialoaxaca.mx/policiaca/cuatro-anos-de-carcel-por-vender-drogas-condenan-a-tres-personas-tras-decomiso-de-metanfetamina-cocaina-y-marihuana-en-ixtlan/

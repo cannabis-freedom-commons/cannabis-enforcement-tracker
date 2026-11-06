@@ -34,6 +34,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [2, 1]
   figures.fine: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.prison: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low

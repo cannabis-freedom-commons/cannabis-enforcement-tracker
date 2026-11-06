@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2, 3, 1]
   details.products: [2, 3, 1]
   details.setting: [2, 3, 1]
+  figures.kg_seized: [2, 3, 1]
 media:
   - kind: photo
     url: https://repost.uz/rabotali-v-online-narkoshope

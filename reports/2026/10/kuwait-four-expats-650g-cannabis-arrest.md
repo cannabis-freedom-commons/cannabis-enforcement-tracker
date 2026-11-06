@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [3]
   figures.arrested: [3, 1, 2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: unknown
 tags:

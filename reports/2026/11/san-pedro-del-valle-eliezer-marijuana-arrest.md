@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://mvsnoticias.com/nuevo-leon/2026/11/1/operativo-de-halloween-deja-cuatro-detenidos-por-distintos-delitos-en-san-pedro-751976.html

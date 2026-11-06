@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.prison: [1]
 status: verified
 tags: [kuenzell, fulda]
 open_questions:

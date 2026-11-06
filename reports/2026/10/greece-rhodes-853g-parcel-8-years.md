@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.fine: [1]
+  figures.kg_seized: [1]
   figures.prison: [1]
 status: verified
 tags: [rhodes, dodecanese, courier-parcel, appeal-pending]

@@ -20,6 +20,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.voaportugues.com/a/detido-traficante-suruma-vende-por-causa-pobreza/4494709.html

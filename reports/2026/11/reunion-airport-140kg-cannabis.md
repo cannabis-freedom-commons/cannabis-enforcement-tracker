@@ -28,6 +28,7 @@ data_sources:
   details.products: [5, 6, 7, 9, 3, 1]
   details.sentence_types: [1, 2, 9, 6, 7]
   details.setting: [1, 9, 4, 5, 6, 7]
+  figures.prison: [1, 9, 6, 7, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [reunion, cannabis, customs, air-cargo, saint-denis]

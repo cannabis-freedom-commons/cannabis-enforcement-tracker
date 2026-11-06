@@ -17,6 +17,7 @@ details:
   agency_types: [police, prosecutor]
 data_sources:
   details.agency_types: [1, 4, 3, 2, 5]
+  figures.kg_seized: [2, 5, 1, 3, 4]
 media:
   - kind: photo
     url: https://misionesonline.net/2026/10/31/posadas-llevo-yerba-para-los-detenidos-pero-la-policia-descubrio-marihuana-oculta-en-el-paquete/

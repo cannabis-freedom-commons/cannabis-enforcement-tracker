@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
 status: reported
 created_by_model: "opencode-go/deepseek-v4.1-flash#max"
 tags: [xinjiang, akto, cannabis, police-dog, drug-use]

@@ -31,6 +31,7 @@ data_sources:
   details.setting: [2, 4]
   figures.arrested: [2, 4]
   figures.charged: [2, 4]
+  figures.prison: [2, 4]
 media:
   - kind: photo
     url: https://diario.elmundo.sv/el-mundo/pandilleros-que-trabajaban-en-hospital-de-honduras-detenidos-con-droga-en-ambulancia

@@ -41,6 +41,7 @@ data_sources:
   figures.arrested: [1, 3, 2]
   figures.fine: [1, 3]
   figures.kg_seized: [1, 3, 2]
+  figures.prison: [1, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [pasay, naia, thai-national, smuggling]

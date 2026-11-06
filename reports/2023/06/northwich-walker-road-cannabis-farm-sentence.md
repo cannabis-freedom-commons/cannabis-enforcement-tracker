@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.prison: [1]
 status: verified
 tags: [cannabis-farm, cheshire]
 open_questions:

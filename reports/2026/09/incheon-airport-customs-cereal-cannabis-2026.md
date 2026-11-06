@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [3, 1, 5, 2, 4]
   details.case_stage: [3, 4, 2, 1, 5]
   details.setting: [3, 1, 5, 2, 4]
+  figures.kg_seized: [3, 1, 5, 2]
 media:
   - kind: photo
     url: https://www.chosun.com/english/national-en/2026/10/30/5GD4J3VU6RF2RMVMPA4EHHHRUE/

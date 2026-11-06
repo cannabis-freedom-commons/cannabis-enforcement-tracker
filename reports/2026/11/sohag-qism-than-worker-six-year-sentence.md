@@ -35,6 +35,7 @@ data_sources:
   details.sentence_types: [1, 2, 3, 5, 4]
   details.setting: [1, 2, 3, 5, 4]
   figures.fine: [1, 2, 3, 5, 4]
+  figures.prison: [1, 2, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 658f76a483c9bf9fa51a26a20f98ca60

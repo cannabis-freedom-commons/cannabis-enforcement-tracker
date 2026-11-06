@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://rci.fm/martinique/infos/Societe/Operation-anti-delinquance-dans-le-Sud-du-cannabis-et-des-munitions-saisis

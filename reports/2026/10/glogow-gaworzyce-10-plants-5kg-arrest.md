@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 7, 8]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 3, 4]
+  figures.arrested: [1, 2, 3, 7, 8]
   figures.kg_seized: [1, 3, 4, 5, 6, 7]
   figures.plants_destroyed: [1, 4, 5, 8, 2, 3]
 status: reported

@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [4]
   details.products: [2]
   figures.arrested: [1, 5, 6, 7, 8, 10]
+  figures.kg_seized: [2, 7, 8, 10, 1, 5]
 status: reported
 created_by_model: xai/grok-4.7#medium
 submission: 91c4c1066e56dea17b2ccac414657345

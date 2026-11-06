@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [2, 4, 1]
   details.sentence_types: [2, 4, 1, 3]
   details.setting: [1, 3, 4]
+  figures.kg_seized: [1, 4, 3]
   figures.prison: [3, 4, 2, 1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

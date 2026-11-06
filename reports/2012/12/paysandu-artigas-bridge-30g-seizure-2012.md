@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.aduanas.gub.uy/innovaportal/v/10541/14/innova.front/incautacion-de-marihuana-en-paysandu.html

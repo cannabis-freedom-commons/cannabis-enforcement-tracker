@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2, 1]
+  figures.arrested: [1, 2]
 media:
   - kind: video
     url: https://canaln.pe/actualidad/villa-salvador-incautan-droga-roja-inmueble-microcomercializadores-n440947

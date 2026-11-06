@@ -33,6 +33,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.kg_seized: [1]
   figures.value: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -37,6 +37,8 @@ data_sources:
   details.case_stage: [3, 1, 2]
   details.sentence_types: [3, 1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1]
   figures.value: [2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

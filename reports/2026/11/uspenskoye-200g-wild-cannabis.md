@@ -29,6 +29,7 @@ data_sources:
   details.environment: [1, 3, 5]
   details.sentence_types: [2, 4, 5, 3, 1]
   details.setting: [1, 3, 5]
+  figures.kg_seized: [1, 5]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ab9e7a087037c0c8d2655f2feaf8dee0

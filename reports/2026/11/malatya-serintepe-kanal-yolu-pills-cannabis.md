@@ -34,6 +34,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [3, 4, 6, 5, 7]
   figures.arrested: [1, 4, 3, 6, 5, 2]
+  figures.kg_seized: [1, 4, 3, 5, 2, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e113a8be95d1cf968c2a3dfcbd35bf19

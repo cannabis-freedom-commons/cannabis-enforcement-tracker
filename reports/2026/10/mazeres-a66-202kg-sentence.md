@@ -38,6 +38,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [ariege, mazeres, customs, ofast]
 open_questions:

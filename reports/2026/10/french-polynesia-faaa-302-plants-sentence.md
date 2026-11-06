@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2, 3]
   figures.plants_destroyed: [1, 2, 3]
   figures.prison: [1, 2, 3]
 media:

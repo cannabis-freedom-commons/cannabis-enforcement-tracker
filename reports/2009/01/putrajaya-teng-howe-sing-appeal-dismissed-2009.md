@@ -31,6 +31,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [mandatory-death-penalty, federal-court, sarawak]
 open_questions:

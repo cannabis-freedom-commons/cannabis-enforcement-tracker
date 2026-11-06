@@ -37,6 +37,7 @@ data_sources:
   details.agency_types: [1, 5, 4, 2, 3]
   details.case_stage: [1, 5, 4]
   details.setting: [1, 2, 4, 5]
+  figures.arrested: [1, 5, 4]
   figures.kg_seized: [1, 4, 5, 2]
   figures.plants_destroyed: [1, 5, 4, 2]
 status: reported

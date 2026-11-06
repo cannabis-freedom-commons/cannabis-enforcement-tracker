@@ -35,6 +35,7 @@ data_sources:
   details.setting: [1, 2]
   figures.fine: [2]
   figures.kg_seized: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [canu, hauraruni, guilty-plea]

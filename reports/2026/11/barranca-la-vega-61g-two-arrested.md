@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://rccnoticias.com.do/dncd-arresta-dos-por-microtrafico-y-ocupa-drogas-en-la-vega-594987/

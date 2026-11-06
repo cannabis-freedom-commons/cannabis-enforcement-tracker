@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1, 3, 2]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 03dd4a8e5d39a071c12f4152ed8bfc4d

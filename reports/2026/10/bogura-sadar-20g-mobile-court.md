@@ -37,6 +37,8 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.fine: [1]
+  figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bogura, mobile-court, dnc]

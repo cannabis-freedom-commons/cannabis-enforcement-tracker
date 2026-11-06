@@ -31,6 +31,8 @@ data_sources:
   details.products: [1, 5, 3, 2, 4]
   details.sentence_types: [4, 1, 5]
   details.setting: [4, 1, 5]
+  figures.arrested: [4, 1, 5]
+  figures.kg_seized: [1, 5, 3, 2, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e3d58b25a11df6ea3cc3e54ff4c139fe

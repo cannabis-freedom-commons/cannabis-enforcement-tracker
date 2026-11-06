@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 tags: [mwanza, border, thyolo, sentencing]
 open_questions:

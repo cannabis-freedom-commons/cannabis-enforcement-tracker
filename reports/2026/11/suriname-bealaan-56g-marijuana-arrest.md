@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [2, 3, 4, 1]
   details.case_stage: [2, 3, 4]
   details.products: [2, 3, 4]
+  figures.kg_seized: [2, 3, 4]
 media:
   - kind: photo
     url: https://politie.sr/narcotica-brigade-houdt-met-ondersteuning-van-at-en-qrt-drugsverdachte-aan/

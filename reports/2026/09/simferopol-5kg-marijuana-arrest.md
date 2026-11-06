@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1]
   details.environment: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: reported
 created_by_model: cursor/composer-2.5

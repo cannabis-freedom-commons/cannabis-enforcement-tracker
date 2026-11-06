@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://sampi.net.br/ovale/noticias/3015874/vale-do-paraiba/2026/11/homem-e-preso-fumando-maconha-na-balsa-de-ilhabela-sao-sebastiao

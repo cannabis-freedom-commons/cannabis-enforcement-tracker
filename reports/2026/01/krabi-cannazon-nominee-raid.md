@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [krabi, foreign-business-act, cannazon]
 open_questions:

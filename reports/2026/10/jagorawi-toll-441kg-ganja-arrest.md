@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 5, 7, 8, 9, 11]
   details.sentence_types: [1, 5, 7, 8, 9, 11]
   details.setting: [1, 5, 7, 8, 9, 11]
+  figures.arrested: [4, 8, 12, 13, 22, 14]
   figures.kg_seized: [3, 7, 8, 9, 11, 12]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

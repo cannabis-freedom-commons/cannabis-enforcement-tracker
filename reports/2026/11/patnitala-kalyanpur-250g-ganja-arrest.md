@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 4, 5, 2, 3]
   details.setting: [1, 4, 5, 2, 3]
   figures.arrested: [2, 1, 5, 3, 4]
+  figures.kg_seized: [1, 4, 5]
 media:
   - kind: photo
     url: https://www.dhakatoday.com/news/92902/%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A7%A8%E0%A7%AB%E0%A7%A6-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0

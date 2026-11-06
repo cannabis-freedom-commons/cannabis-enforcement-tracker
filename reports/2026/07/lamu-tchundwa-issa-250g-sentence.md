@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.fine: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.prison: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

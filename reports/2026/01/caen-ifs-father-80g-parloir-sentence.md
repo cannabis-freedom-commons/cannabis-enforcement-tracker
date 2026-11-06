@@ -31,6 +31,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [caen, prison, parloir, resin]

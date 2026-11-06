@@ -53,6 +53,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2, 1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.charged: [1, 2]
   figures.kg_seized: [2, 1]
 status: verified

@@ -27,6 +27,8 @@ data_sources:
   details.products: [2, 3, 1, 4]
   details.sentence_types: [1, 3, 2, 4]
   details.setting: [2, 3, 1, 4]
+  figures.arrested: [2]
+  figures.kg_seized: [2, 3, 1, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d5cf59e2536363722419b4ffa6bc47f6

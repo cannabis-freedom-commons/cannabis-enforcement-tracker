@@ -30,6 +30,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 38bccc6c5c8c290b1cfee9ea0b3f6c2f

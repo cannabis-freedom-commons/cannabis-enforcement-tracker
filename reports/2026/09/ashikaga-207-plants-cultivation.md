@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1]
   figures.plants_destroyed: [1]
 status: verified
 created_by_model: cursor/composer-2.5

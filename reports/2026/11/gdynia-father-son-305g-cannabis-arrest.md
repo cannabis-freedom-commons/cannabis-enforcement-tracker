@@ -29,6 +29,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3bc9cfb9496724b39fc82eff8ae74212

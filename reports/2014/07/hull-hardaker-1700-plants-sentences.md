@@ -29,6 +29,7 @@ data_sources:
   details.setting: [1, 2]
   figures.charged: [2, 1]
   figures.plants_destroyed: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cannabis-factory, hull, vietnamese]

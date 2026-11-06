@@ -42,6 +42,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c636005e3a63164a38871477f656a849

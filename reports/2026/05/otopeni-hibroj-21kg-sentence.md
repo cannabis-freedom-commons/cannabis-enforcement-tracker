@@ -35,6 +35,7 @@ data_sources:
   details.setting: [1, 2]
   figures.fine: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 tags: [otopeni, diicot, air-travel]
 open_questions:

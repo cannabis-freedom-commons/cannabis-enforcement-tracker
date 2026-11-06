@@ -36,6 +36,7 @@ data_sources:
   details.products: [1, 3, 4, 5, 7, 9]
   details.setting: [1, 3, 4, 5, 7, 9]
   figures.arrested: [1, 4, 5, 6, 10]
+  figures.kg_seized: [1, 4, 5, 6, 10, 3]
   figures.plants_destroyed: [1, 3, 4, 5, 7, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

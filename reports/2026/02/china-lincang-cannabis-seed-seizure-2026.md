@@ -39,6 +39,7 @@ data_sources:
   details.products: [2, 3]
   details.sentence_types: [2, 1, 3]
   details.setting: [2]
+  figures.kg_seized: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cannabis-seeds, lincang, yunnan, trafficking]

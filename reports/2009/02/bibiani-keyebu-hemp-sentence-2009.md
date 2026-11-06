@@ -33,6 +33,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
+  figures.prison: [1]
 status: verified
 tags: [western-region, indian-hemp, possession]
 open_questions:

@@ -34,6 +34,7 @@ data_sources:
   details.setting: [2]
   figures.arrested: [2]
   figures.fine: [2, 1]
+  figures.kg_seized: [2]
   figures.prison: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

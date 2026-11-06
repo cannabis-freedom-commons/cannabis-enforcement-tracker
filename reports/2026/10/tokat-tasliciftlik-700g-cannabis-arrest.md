@@ -27,6 +27,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
   figures.arrested: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [2, 3, 4, 5, 6, 7]
 media:
   - kind: photo
     url: https://www.iha.com.tr/tokat-haberleri/tokatta-arac-ve-evde-700-gram-esrar-ele-gecirildi-510939771

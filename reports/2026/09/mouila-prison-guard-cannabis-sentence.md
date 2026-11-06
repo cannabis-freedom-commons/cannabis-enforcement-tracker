@@ -33,6 +33,7 @@ data_sources:
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1]
   figures.fine: [2, 1]
+  figures.prison: [2, 1]
 status: verified
 tags: [mouila, prison-officer, court-seals, ocad]
 open_questions:

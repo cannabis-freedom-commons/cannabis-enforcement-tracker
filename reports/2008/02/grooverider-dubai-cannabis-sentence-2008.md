@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 3, 4, 2]
   details.sentence_types: [1, 3, 4]
   details.setting: [1, 3, 4, 2]
+  figures.prison: [2, 1, 3, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [sentencing, pardon]

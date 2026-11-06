@@ -36,6 +36,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1]
   figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 08925c506acdf0af8e6cbd2a84910b3b

@@ -33,6 +33,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: de7029630fe432b6172930118a94d583

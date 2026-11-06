@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2723269-ahirda-111-kilogram-esrar-ele-gecirildi

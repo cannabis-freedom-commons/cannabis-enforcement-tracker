@@ -25,6 +25,8 @@ data_sources:
   details.agency_types: [1, 5, 7, 2, 4, 6]
   details.case_stage: [1, 5, 7, 2, 4]
   details.setting: [1, 5, 6, 7, 3]
+  figures.arrested: [1, 5, 7, 2, 4]
+  figures.kg_seized: [2, 1, 6, 5, 7]
 media:
   - kind: photo
     url: https://poligraff.net/news/dvama-zadrzani-s-narkotici-v-sveti-vlas-i-slncev-bryag/102953

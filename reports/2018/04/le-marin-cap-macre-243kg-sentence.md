@@ -44,6 +44,7 @@ data_sources:
   details.setting: [1, 2, 3]
   figures.arrested: [1]
   figures.kg_seized: [2, 1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd8c9d9835f96174d5171a1ed4af919d

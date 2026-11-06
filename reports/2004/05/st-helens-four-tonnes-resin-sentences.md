@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]
+  figures.prison: [1, 2]
   figures.value: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

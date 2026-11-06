@@ -66,6 +66,7 @@ data_sources:
   details.setting: [1, 2, 4, 5]
   figures.kg_seized: [2, 6, 7, 8, 9, 10]
   figures.plants_destroyed: [1, 4, 5, 7, 11, 18]
+  figures.prison: [1, 4, 5, 7, 11, 18]
   figures.value: [1, 4, 5, 6, 7, 8]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

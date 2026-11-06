@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.setting: [1, 3, 4, 2]
   figures.fine: [1, 3, 4, 2]
+  figures.prison: [1, 3, 4, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 11caeaf4dd78f9ada8fe7a0887f9c6f6

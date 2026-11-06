@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2]
+  figures.prison: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.cubanet.org/santiago-de-cuba-imponen-nueve-anos-de-prision-a-ciudadano-por-trafico-de-marihuana/

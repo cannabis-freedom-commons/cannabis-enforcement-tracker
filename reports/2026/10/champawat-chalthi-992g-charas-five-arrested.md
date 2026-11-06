@@ -35,6 +35,7 @@ data_sources:
   details.setting: [1, 3]
   figures.arrested: [3, 1]
   figures.charged: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2bffe8e459974f0c9c764e2e2c2f706f

@@ -28,6 +28,7 @@ data_sources:
   details.sentence_types: [1, 3, 5]
   details.setting: [2, 1, 3, 5]
   figures.kg_seized: [1, 3, 5, 2]
+  figures.prison: [1, 3, 5]
 media:
   - kind: photo
     url: https://podillyanews.com/2026/11/04/na-shepetivshhyni-cholovika-zasudyly-do-6-rokiv-uv-yaznennya-za-zbut-kanabisu-ta-zberigannya-vybuhivky/

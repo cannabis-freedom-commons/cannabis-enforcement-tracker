@@ -37,6 +37,7 @@ data_sources:
   details.case_stage: [2, 1, 3, 4]
   details.sentence_types: [1, 3, 4, 2, 5]
   details.setting: [1, 2, 4]
+  figures.prison: [2, 1, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7f2f1384aca432f5510d9de3d45640e3

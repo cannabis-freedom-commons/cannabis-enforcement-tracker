@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   figures.charged: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [mandatory-death-penalty, alor-setar]
 open_questions:
