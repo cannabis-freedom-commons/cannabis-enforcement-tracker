@@ -44,7 +44,8 @@ Open the URL and read the whole article. Note:
 - country, place (as precise as named), the agencies;
 - who was affected: people arrested, charged, sentenced, killed; farmers, shops, families;
 - figures as stated (people, kg, plants, hectares, prison, fine, the authorities' value), and whose
-  numbers they are;
+  numbers they are; the agencies, the products, where it happened and how far the case went
+  (charged, convicted, sentenced, acquitted);
 - quotes from the accused, families, critics or officials worth keeping (short);
 - photos and video of the event, with their credit. For each collected photo or video, extract its direct
   absolute media URL from the opened page as well as the source-page URL.
@@ -82,6 +83,10 @@ the main report. Resolve answered open questions and preserve the original creat
 - `coordinates` of the most precise named place, with `precision`.
 - `type` (+ `also`), title, two-sentence summary, figures only as stated (convert lb → kg,
   acres → ha, keep the original in the text).
+- Structured `details` and `data_sources` (docs/WRITING.md §5): the agencies, products, activity,
+  setting, case stage and the rest that a source states, with ids from `src/data/vocabularies.json`
+  and `src/data/agencies.json`; list for each figure and detail the numbers of the cited sources
+  that state it. Omit what no source states; no personal identifiers in details.
 - Text: lead with what happened to people, 150–400 words, every factual sentence cited `[@n]`,
   every source cited.
 - Pictures (docs/WRITING.md §7): `cover` only with an open licence or a no-copyright government work

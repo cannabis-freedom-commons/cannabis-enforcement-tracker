@@ -94,6 +94,28 @@ Apply the substance scope in `docs/CFI.md`: synthetic cannabinoids and their pre
 cannabis figures. In mixed events, use only the separately supported cannabis weight; omit a
 combined weight that cannot be separated, and explain that limitation in `open_questions`.
 
+### Structured details and their sources
+
+`kg_seized` and `plants_destroyed` stay the totals (seized or destroyed). Where a source splits
+them, add `plants_seized` (taken away) or `kg_destroyed` (burned). The court outcome and harm have
+their own counts: `convicted`, `acquitted`, `sentenced`, `released`, `injured`; and `sites`,
+`seeds`, `vehicles` and `cash` (money confiscated) where stated. An omitted figure means "not
+reported"; write `0` only when a source says none.
+
+`details` records who acted, what was taken, where and how far the case went, with ids from
+`src/data/vocabularies.json` and `src/data/agencies.json`:
+`agencies` (registry id, or the name as published), `agency_types`, `products` (with `kg` or
+`plants` per product where stated), `activity`, `setting`, `environment`, `charges` (as stated),
+`case_stage`, `sentence_types`, `force`, `period` (start and end of a multi-day operation),
+`date_precision`, `region`, `route` (`from`/`to` country ids, `crossing`), `part_of` (a campaign
+report's slug) and `related` (slugs of other stages of the same case).
+
+Every figure and every detail except `part_of`, `related`, `date_precision` and `region` needs a
+source that states it: list the sources' numbers in `data_sources` (`figures.arrested: [1]`,
+`details.agencies: [1, 2]`), only sources the text cites. A value no source supports stays out.
+Never put a person's name or other identifiers in `details`; counts and outcomes only. A later
+stage of a case replaces the details it changes (`case_stage`, `sentence_types`) and keeps the rest.
+
 ## 6. Place
 
 Give `coordinates` for the most precise place the sources name, and say how precise with

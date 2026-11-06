@@ -140,7 +140,8 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   kg, acres → hectares), the original kept in the text. Leave a figure out rather than guess; leave
   out a value the sources contradict and explain it in uncertainties. Which count goes where:
   - plants_destroyed: cannabis plants seized, uprooted, cut, burned or destroyed (the tracker keeps
-    seized plants here too: "officers seized 52 plants" is plants_destroyed 52);
+    seized plants here too: "officers seized 52 plants" is plants_destroyed 52; the structured
+    data section at the end adds the optional split and the other counts);
   - kg_seized: cannabis by weight, seized or destroyed (dried cannabis, resin, oil), in kg;
     exclude synthetic cannabinoids and precursors, and omit combined weights that cannot be
     separated into cannabis and other substances (explain the limitation in uncertainties);

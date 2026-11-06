@@ -139,6 +139,28 @@ figures:                         # optional; only numbers a source states
   fine: { amount: 500000, currency: GEL }
   value: { amount: 9600000, currency: PHP }   # the authorities' estimate
   deaths: 1
+  convicted: 1                   # also: acquitted, sentenced, released, injured, plants_seized,
+                                 # kg_destroyed, sites, seeds, vehicles, cash (see docs/WRITING.md §5)
+details:                         # optional; ids from src/data/vocabularies.json and agencies.json
+  agencies: [ng-ndlea]           # registry id, or the agency's name as published
+  agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 12.4}]
+  activity: [cultivation]
+  setting: [field]
+  environment: [outdoor]
+  charges: [cultivating cannabis]
+  case_stage: charged            # investigation | charged | trial | convicted | sentenced | acquitted | appeal | final | executed
+  sentence_types: [prison]
+  force: [none-reported]
+  period: {start: 2026-04-02, end: 2026-04-04}
+  date_precision: exact          # exact | approximate | publication
+  region: Edo State
+  route: {from: [ma], to: [es], crossing: Algeciras}
+  part_of: ndlea-edo-campaign-2026   # a campaign report this event is part of
+  related: [edo-farm-owner-sentenced]
+data_sources:                    # which sources (by number) state each figure and detail
+  figures.arrested: [1]
+  details.agencies: [1, 2]
 cover:                           # optional; a local picture with an open licence
   image: ../../../src/assets/reports/example.jpg
   alt: What the picture shows

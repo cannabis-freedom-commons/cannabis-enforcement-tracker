@@ -103,6 +103,8 @@ for different events in their respective reports, and archive and validate every
   itself for JSON results; do not add `code` to that contract or run commands in its read-only harness.
 - Country: the CFI id from `src/data/countries.json` (`ng`, `us/ca`).
 - Coordinates for the most precise named place, with `precision`.
+- Structured `details` and `data_sources` per docs/WRITING.md §5: what a source states, ids from
+  `src/data/vocabularies.json` and `src/data/agencies.json`, each value with its sources' numbers.
 - Text, figures, citations and status per docs/WRITING.md; `status: verified` only when every fact was
   read in an opened source.
 - `open_questions` (docs/WRITING.md §9): what the sources leave open (figures not given, an unclear
