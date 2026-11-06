@@ -70,6 +70,11 @@ sources:
     publisher: صدى البلد
     date: 2026-11-05
     language: ar
+  - title: 'बिहार: गया हवाई अड्डे पर 10 करोड़ रुपये कीमत के गांजे के साथ 2 गिरफ्तार'
+    url: https://hindi.newsbytesapp.com/news/india/two-residents-of-punjab-arrested-at-gaya-airport-with-10-kg-of-cannabis/tldr
+    publisher: NewsBytes
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
   - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
@@ -94,31 +99,32 @@ open_questions:
   - 'Left out, as its quotation was not found in صدى البلد: The consignment was reported to be worth about Rs 10 crore on the international market, although that valuation was not officially confirmed.'
   - The Hindustan Times account gives no value for the consignment beyond a figure it reports without official confirmation, and the existing report continues to record no value.
   - The attached picture on the Hindustan Times page is a representative file photo, so no media entry is added.
+  - The NewsBytes account does not name the two arrested people.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
-after they arrived from Thailand. [@1,2,5,6,8,9,10] The women were identified as Simranjit
+after they arrived from Thailand. [@1,2,5,6,8,9,10,11] The women were identified as Simranjit
 and Kulwinder, both reported as Punjab residents. [@1,7,10] They arrived on a Thai
 Airways flight from Thailand at around 11.45 am and were detained after security
 staff reportedly noticed suspicious contents during baggage screening. [@1,3] They
 were questioned for about eight hours before being formally arrested. [@1,3,4,7]
 
 Officers allegedly recovered about 10 kg of marijuana from four separate bags
-belonging to the pair. [@1,2,5,6,7] The bags were examined more closely after Central
+belonging to the pair. [@1,2,5,6,7,11] The bags were examined more closely after Central
 Industrial Security Force personnel and other security staff flagged something
 suspicious during routine screening. [@1,2,5,6] The consignment was reported to be
 worth about Rs 10 crore on the international market, although that valuation was
 not officially confirmed. [@1,2]
 
 Airport sources said six people had travelled to Thailand about four days before
-the seizure. [@1,6,7,9,10] The two women arrived back at Gaya with the suspected
-narcotics, while the other four had reportedly not yet returned. [@1,6,9,10] Customs
+the seizure. [@1,6,7,9,10,11] The two women arrived back at Gaya with the suspected
+narcotics, while the other four had reportedly not yet returned. [@1,6,9,10,11] Customs
 investigators are examining the group's possible connection to the consignment
 and whether others were involved, working to establish its origin and intended
 destination. [@1,9]
 
 Dainik Bhaskar reported that this was the fourth case of marijuana being caught at Gaya airport this year. [@4] Bhaskar reported that officials declined to answer questions about where the consignment was to be delivered and how many people were behind the smuggling. [@4]
 
-Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6,9,10] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@6,7,9] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7,8]
+Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6,9,10,11] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@6,7,9,11] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7,8]
 
 Officials said the women's permanent addresses in Punjab were still being verified. [@6,10]
