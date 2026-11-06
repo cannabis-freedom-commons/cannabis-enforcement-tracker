@@ -54,6 +54,11 @@ sources:
     publisher: ContextoSC
     date: 2026-11-05
     language: pt
+  - title: Homem é preso com maconha, cocaína e ecstasy após denúncias de tráfico por tele-entrega em Gravatal
+    url: https://www.reportersul.com.br/homem-e-preso-com-maconha-cocaina-e-ecstasy-apos-denuncias-de-trafico-por-tele-entrega-em-gravatal/
+    publisher: Reporter Sul
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The 18.1 grams in the tube includes its packaging, so the recorded 1,096.9 grams may slightly overstate the drug weight.
   - No charges, custody hearing or court outcome were reported; both accounts end with the man taken to the Civil Police station.
@@ -62,18 +67,17 @@ open_questions:
 
 Military Police arrested a 33-year-old man for drug trafficking in the Pouso
 Alto neighbourhood of Gravatal on the night of 4 November 2026, at about 9:27
-pm. [@1] The action followed reports that drugs were being sold frequently in
+pm. [@1,3] The action followed reports that drugs were being sold frequently in
 the town by tele-entrega, a delivery service in which orders are placed by
-phone. [@2]
+phone. [@2,3]
 
 When officers stopped the vehicle the suspect was driving they found 1 kg of
-marijuana in it. [@1] A search of his home then found a further 78.8 grams of
+marijuana in it. [@1,3] A search of his home then found a further 78.8 grams of
 marijuana and a tube containing 18.1 grams of the same drug, a weight that
-includes the packaging. [@1] At the property officers also seized 2 grams of
+includes the packaging. [@1,3] At the property officers also seized 2 grams of
 cocaine and five ecstasy tablets, which are not counted in the cannabis total.
-[@1]
+[@1,3]
 
 The man was taken with all the seized substances to the Civil Police station for
-legal procedures. [@2] The vehicle used to transport the drugs was also seized
-and left at the disposal of the police authority and the courts. [@2]
-
+legal procedures. [@2,3] The vehicle used to transport the drugs was also seized
+and left at the disposal of the police authority and the courts. [@2,3]
