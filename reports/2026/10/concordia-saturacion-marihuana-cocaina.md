@@ -43,7 +43,7 @@ details:
   agency_types: [police, prosecutor, court]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
   setting: [street]

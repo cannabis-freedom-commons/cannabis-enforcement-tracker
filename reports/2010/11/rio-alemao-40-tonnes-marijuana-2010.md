@@ -21,7 +21,7 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 40000}]
   setting: [home]
 data_sources:

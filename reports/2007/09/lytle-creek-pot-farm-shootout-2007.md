@@ -21,7 +21,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}, {product: plants}]
   setting: [field, forest]
 data_sources:

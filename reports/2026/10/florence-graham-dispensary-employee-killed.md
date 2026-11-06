@@ -21,7 +21,7 @@ details:
   activity: [sale]
   agency_types: [police]
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   setting: [shop]
 data_sources:

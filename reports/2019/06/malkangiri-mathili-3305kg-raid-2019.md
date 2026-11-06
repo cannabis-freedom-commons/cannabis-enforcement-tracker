@@ -22,7 +22,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
   setting: [forest]

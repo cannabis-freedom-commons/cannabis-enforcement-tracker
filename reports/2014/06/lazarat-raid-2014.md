@@ -23,7 +23,7 @@ details:
   activity: [processing]
   agency_types: [police]
   case_stage: investigation
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 25000}, {product: plants, plants: 90000}]
   setting: [field]
 data_sources:

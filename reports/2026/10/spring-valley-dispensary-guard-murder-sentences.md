@@ -20,7 +20,7 @@ details:
   activity: [sale]
   agency_types: [prosecutor]
   case_stage: sentenced
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [shop]

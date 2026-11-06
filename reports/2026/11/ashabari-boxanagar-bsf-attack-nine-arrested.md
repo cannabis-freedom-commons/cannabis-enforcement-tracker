@@ -19,7 +19,7 @@ details:
   agency_types: [border-guard]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
   setting: [border, home]

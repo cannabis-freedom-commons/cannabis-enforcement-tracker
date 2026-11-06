@@ -23,7 +23,7 @@ details:
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 140000}]
   setting: [border]
 data_sources:

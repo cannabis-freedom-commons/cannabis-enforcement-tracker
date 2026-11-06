@@ -25,7 +25,7 @@ details:
   agency_types: [police]
   case_stage: charged
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 0.1276}]
   setting: [home]
 data_sources:

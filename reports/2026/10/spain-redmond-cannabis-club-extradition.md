@@ -19,7 +19,7 @@ details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   setting: [shop]
 data_sources:

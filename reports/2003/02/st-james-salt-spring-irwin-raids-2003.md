@@ -22,7 +22,7 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
-  force: lethal
+  force: [lethal]
   products:
     - {product: oil}
   setting: [home, mail]

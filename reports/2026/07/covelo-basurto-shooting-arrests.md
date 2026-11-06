@@ -23,7 +23,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: charged
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [vehicle, home, prison]
 data_sources:

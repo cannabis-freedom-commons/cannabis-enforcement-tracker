@@ -22,7 +22,7 @@ details:
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]

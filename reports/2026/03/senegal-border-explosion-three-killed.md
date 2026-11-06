@@ -20,7 +20,7 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [military]
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [field]
 data_sources:

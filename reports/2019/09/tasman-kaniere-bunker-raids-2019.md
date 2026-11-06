@@ -23,7 +23,7 @@ details:
   agency_types: [police]
   case_stage: charged
   date_precision: exact
-  force: physical
+  force: [physical]
   products: [{product: flower}]
   setting: [port]
 data_sources:

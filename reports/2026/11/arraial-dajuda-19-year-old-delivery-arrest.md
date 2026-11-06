@@ -19,7 +19,7 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [police]
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
     - {product: hashish}

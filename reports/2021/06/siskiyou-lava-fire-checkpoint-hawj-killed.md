@@ -21,7 +21,7 @@ details:
   agency_types: [police]
   date_precision: exact
   environment: [greenhouse]
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 59.87}]
   setting: [border, vehicle, home]
 data_sources:

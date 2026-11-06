@@ -16,7 +16,7 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
-  force: physical
+  force: [physical]
   products:
     - {product: hashish}
   setting: [street]

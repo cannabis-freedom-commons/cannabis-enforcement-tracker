@@ -19,7 +19,7 @@ figures:
 details:
   agency_types: [police]
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 0.255}]
   setting: [vehicle, home]
 data_sources:

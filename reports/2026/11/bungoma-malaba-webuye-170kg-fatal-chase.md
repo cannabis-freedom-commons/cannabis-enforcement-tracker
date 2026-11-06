@@ -21,7 +21,7 @@ details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 170.8}]
   setting: [street]
 data_sources:

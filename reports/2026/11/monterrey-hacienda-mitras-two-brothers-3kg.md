@@ -34,7 +34,7 @@ media:
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
-  force: shots-fired
+  force: [shots-fired]
   products:
     - {product: flower}
   setting: [vehicle, home]

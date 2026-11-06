@@ -18,7 +18,7 @@ figures:
   kg_seized: 720
 details:
   agency_types: [police]
-  force: shots-fired
+  force: [shots-fired]
   products:
     - {product: hashish}
   setting: [border]

@@ -20,7 +20,7 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 8852}]
   setting: [vehicle]
 data_sources:

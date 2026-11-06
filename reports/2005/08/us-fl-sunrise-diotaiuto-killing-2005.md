@@ -23,7 +23,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 0.0567}]
   setting: [home]
 data_sources:

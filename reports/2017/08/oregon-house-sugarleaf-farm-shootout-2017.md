@@ -20,7 +20,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   setting: [home]
 data_sources:

@@ -17,6 +17,12 @@ func TestReportCommitIncludesItsPhotoManifest(t *testing.T) {
 		t.Skip("node not installed")
 	}
 	root, _ := filepath.Abs("../../..")
+	// the backend CI job installs Go only; the script needs the site's packages (sharp, js-yaml, thumbhash)
+	for _, pkg := range []string{"sharp", "js-yaml", "thumbhash"} {
+		if _, err := os.Stat(filepath.Join(root, "node_modules", pkg, "package.json")); err != nil {
+			t.Skip("site packages not installed (npm ci)")
+		}
+	}
 	dir := t.TempDir()
 	run := func(args ...string) string {
 		cmd := exec.Command(args[0], args[1:]...)

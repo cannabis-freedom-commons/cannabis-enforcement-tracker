@@ -24,7 +24,7 @@ details:
   agency_types: [police, court]
   case_stage: sentenced
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: edibles}
   sentence_types: [prison]

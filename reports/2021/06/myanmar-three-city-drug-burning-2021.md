@@ -15,7 +15,7 @@ details:
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products: [{product: flower}]
   setting: [home]
 data_sources:

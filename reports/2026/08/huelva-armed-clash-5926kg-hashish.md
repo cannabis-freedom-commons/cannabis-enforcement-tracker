@@ -24,7 +24,7 @@ details:
   agency_types: [gendarmerie, customs]
   case_stage: investigation
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: hashish, kg: 5926}]
   setting: [vehicle]
 data_sources:

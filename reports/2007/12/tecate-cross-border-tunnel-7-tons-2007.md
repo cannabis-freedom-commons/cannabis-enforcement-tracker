@@ -19,7 +19,7 @@ details:
   activity: [processing]
   agency_types: [military, border-guard, police]
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 6350.29}]
   setting: [home, building]
 data_sources:

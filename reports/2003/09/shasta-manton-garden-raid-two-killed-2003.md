@@ -22,7 +22,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}, {product: plants, plants: 27262}]
 data_sources:
   details.activity: [1, 3]

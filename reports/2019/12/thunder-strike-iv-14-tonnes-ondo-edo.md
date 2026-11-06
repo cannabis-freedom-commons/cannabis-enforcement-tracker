@@ -22,7 +22,7 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   case_stage: investigation
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 14300}]
   setting: [forest]
 data_sources:

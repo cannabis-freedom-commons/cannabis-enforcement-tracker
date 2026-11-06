@@ -18,7 +18,7 @@ details:
   agencies: [Hellenic Police]
   agency_types: [police]
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: flower, kg: 0.01122}
   activity: [possession, sale]

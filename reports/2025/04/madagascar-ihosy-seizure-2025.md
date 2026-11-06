@@ -14,7 +14,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, police]
   case_stage: investigation
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   setting: [forest]
 data_sources:

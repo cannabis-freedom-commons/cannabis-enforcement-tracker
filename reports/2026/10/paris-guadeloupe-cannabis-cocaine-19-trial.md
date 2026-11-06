@@ -18,7 +18,7 @@ details:
   activity: [smuggling]
   agency_types: [anti-narcotics, court]
   case_stage: executed
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [vehicle, home, building]

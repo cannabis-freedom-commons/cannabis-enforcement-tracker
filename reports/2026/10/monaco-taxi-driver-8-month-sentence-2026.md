@@ -17,7 +17,7 @@ details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
   date_precision: exact
-  force: physical
+  force: [physical]
   products: [{product: flower}]
   sentence_types: [prison, suspended, probation]
   setting: [prison]

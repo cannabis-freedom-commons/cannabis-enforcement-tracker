@@ -23,7 +23,7 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: plants}]
   setting: [port]
 data_sources:

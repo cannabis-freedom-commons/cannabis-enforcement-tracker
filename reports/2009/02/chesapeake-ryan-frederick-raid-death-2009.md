@@ -25,7 +25,7 @@ details:
   agency_types: [police]
   case_stage: charged
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}, {product: plants}]
   setting: [home, prison]
 data_sources:

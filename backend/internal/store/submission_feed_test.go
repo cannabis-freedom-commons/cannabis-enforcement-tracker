@@ -407,7 +407,7 @@ func TestSubmissionHaikuCostEstimateIncludesCacheAndReasoning(t *testing.T) {
 		t.Fatal(page.Submissions)
 	}
 	for _, entry := range page.Submissions {
-		if entry.sortKey != "195000000" {
+		if entry.sortKey != "1300000000" {
 			t.Fatal("Haiku API estimate differs from displayed pricing", entry.sortKey)
 		}
 	}

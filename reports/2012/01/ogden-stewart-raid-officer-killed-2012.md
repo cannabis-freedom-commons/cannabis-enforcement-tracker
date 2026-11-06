@@ -24,7 +24,7 @@ details:
   case_stage: charged
   date_precision: exact
   environment: [indoor]
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:

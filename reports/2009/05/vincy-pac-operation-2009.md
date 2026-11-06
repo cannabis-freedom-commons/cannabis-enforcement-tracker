@@ -23,7 +23,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}, {product: plants, plants: 8500000}]
   setting: [field]
 data_sources:

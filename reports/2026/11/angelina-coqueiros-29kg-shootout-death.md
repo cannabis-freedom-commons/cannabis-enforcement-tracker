@@ -35,7 +35,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower, kg: 29}]
   setting: [vehicle, mail]
 data_sources:

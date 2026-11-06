@@ -29,7 +29,7 @@ details:
   activity: [possession]
   agency_types: [police, prosecutor, court]
   case_stage: investigation
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
   setting: [vehicle, home]

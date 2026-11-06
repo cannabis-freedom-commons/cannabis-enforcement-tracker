@@ -17,7 +17,7 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
     - {product: plants, plants: 3}

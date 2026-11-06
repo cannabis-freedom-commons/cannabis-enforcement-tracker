@@ -32,7 +32,7 @@ details:
   case_stage: investigation
   date_precision: exact
   environment: [greenhouse]
-  force: lethal
+  force: [lethal]
   products: [{product: plants, plants: 14}]
   setting: [home]
 data_sources:

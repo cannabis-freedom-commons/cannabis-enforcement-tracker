@@ -28,7 +28,7 @@ media:
 details:
   agency_types: [police, prosecutor]
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: hashish}
   setting: [street]

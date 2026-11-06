@@ -21,7 +21,7 @@ details:
   agency_types: [police]
   case_stage: convicted
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [port]
 data_sources:

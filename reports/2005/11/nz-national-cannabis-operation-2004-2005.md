@@ -20,7 +20,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
-  force: lethal
+  force: [lethal]
   products: [{product: plants, plants: 108000}]
 data_sources:
   details.activity: [1]

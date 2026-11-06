@@ -19,7 +19,7 @@ figures:
 details:
   agency_types: [prosecutor]
   case_stage: charged
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [home, prison]
 data_sources:

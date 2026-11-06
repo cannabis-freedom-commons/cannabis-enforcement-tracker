@@ -24,7 +24,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products:
     - {product: flower}
   setting: [field, forest]

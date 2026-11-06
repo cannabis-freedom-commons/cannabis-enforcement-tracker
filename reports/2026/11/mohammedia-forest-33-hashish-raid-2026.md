@@ -19,7 +19,7 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products:
     - {product: hashish}
   setting: [forest]

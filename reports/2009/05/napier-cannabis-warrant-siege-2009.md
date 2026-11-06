@@ -19,7 +19,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [home]
 data_sources:

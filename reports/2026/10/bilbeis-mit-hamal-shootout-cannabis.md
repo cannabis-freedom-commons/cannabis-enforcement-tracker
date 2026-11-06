@@ -20,7 +20,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   environment: [indoor]
-  force: lethal
+  force: [lethal]
   products:
     - {product: hashish}
   setting: [home]

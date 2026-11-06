@@ -24,7 +24,7 @@ details:
   agency_types: [court]
   case_stage: sentenced
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]

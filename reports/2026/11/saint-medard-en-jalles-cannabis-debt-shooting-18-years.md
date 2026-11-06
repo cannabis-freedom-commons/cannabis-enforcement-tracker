@@ -23,7 +23,7 @@ details:
   agency_types: [court]
   case_stage: sentenced
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: hashish}, {product: flower}]
   setting: [home]
 data_sources:

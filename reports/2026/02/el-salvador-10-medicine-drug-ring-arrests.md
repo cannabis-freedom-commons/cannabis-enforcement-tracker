@@ -24,7 +24,7 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products:
     - {product: flower}
   sentence_types: [prison]

@@ -20,7 +20,7 @@ details:
   activity: [trafficking]
   agency_types: [military]
   case_stage: investigation
-  force: lethal
+  force: [lethal]
   setting: [border]
 data_sources:
   details.activity: [1]

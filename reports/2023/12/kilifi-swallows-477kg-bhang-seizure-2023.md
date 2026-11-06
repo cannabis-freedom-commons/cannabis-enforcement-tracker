@@ -34,7 +34,7 @@ details:
   agencies: [ke-nps]
   agency_types: [police]
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products:
     - {product: edibles}
   setting: [street]

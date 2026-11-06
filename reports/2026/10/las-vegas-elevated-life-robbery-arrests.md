@@ -20,7 +20,7 @@ details:
   agency_types: [police]
   case_stage: charged
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}]
   setting: [home]
 data_sources:

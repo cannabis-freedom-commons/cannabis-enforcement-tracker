@@ -18,7 +18,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
-  force: lethal
+  force: [lethal]
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:

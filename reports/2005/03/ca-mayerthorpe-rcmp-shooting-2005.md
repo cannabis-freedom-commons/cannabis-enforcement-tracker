@@ -23,7 +23,7 @@ details:
   agency_types: [police]
   case_stage: convicted
   date_precision: exact
-  force: shots-fired
+  force: [shots-fired]
   products: [{product: flower}, {product: plants}]
   setting: [vehicle, home]
 data_sources:

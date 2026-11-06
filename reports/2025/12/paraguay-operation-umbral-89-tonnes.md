@@ -23,7 +23,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [trafficking]
   case_stage: charged
-  force: lethal
+  force: [lethal]
   products: [{product: flower, kg: 88991}]
   setting: [border]
 data_sources:

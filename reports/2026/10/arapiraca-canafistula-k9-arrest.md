@@ -26,7 +26,7 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: flower}
   setting: [home]

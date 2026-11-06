@@ -26,7 +26,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: charged
   date_precision: exact
-  force: lethal
+  force: [lethal]
   products: [{product: flower}, {product: plants, plants: 6000}]
   setting: [home]
 data_sources:

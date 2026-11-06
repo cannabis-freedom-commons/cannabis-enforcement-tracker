@@ -43,7 +43,7 @@ details:
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   date_precision: exact
-  force: physical
+  force: [physical]
   products:
     - {product: edibles}
 data_sources:

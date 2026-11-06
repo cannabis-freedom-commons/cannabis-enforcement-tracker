@@ -42,7 +42,7 @@ details:
   activity: [cultivation]
   agency_types: [military, police]
   case_stage: investigation
-  force: physical
+  force: [physical]
   products: [{product: plants, plants: 3450}]
   setting: [home]
 data_sources:
