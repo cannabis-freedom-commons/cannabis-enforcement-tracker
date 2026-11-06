@@ -46,6 +46,11 @@ sources:
     publisher: عربي21
     date: 2026-11-05
     language: ar
+  - title: السعودية تنفذ حكم الإعدام بحق 5 إثيوبيين بتهمة تهريب الحشيش المخدر إلى المملكة
+    url: https://elmaser.com/article/200819
+    publisher: المصير
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -55,13 +60,14 @@ open_questions:
   - The submitted page's only photo is captioned as a 25 April 2023 Jeddah amphetamine seizure and does not show this execution, so no media entry is included.
   - The Arabic renderings of the five names differ between the submitted page, Okaz and Ajel, so the spellings here follow the submitted page and have not been confirmed against a family or court record.
   - The accounts repeat one interior ministry statement and are not independent of each other; none reports the quantity of hashish, the place of arrest or the date of the trial.
+  - The Almasir account repeats the interior ministry statement and independently confirms nothing beyond it; it gives no quantity of hashish, names of the five men or exact execution site.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
 2026. [@1,5] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2] The ministry recorded the penalty as
+in smuggling hashish into the kingdom. [@1,2,6] The ministry recorded the penalty as
 a discretionary taazir execution. [@1] The executions were carried out on
-Thursday in Asir in the south of the country. [@1]
+Thursday in Asir in the south of the country. [@1,2]
 
 An AFP tally based on official data put total executions in Saudi Arabia in 2026
 at 205. [@1] The same tally counted 124 people executed in drug cases this year,
@@ -80,4 +86,6 @@ image. [@1]
 
 The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Kenfe Teklay Hadosh Fuado, Mekele Merhan Gerzagir Gebra, Desta Gebre Kiros Ambaya and Mahari Gebre Howarie Hilah Hilasa. [@3,5] The ministry gave the execution date as Thursday 25 Rabi al-Thani 1448 AH, corresponding to 5 November 2026, in the Asir region. [@4]
 
-The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5]
+The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6]
+
+The announcement was the third such execution announcement in recent months. [@2]
