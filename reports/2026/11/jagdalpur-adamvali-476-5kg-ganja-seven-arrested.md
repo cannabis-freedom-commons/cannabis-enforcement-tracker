@@ -23,6 +23,11 @@ media:
     media_url: https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/_Accused_in_police_custody_1793881746.webp
     publisher: Haribhoomi
     caption: 'Photo captioned “Accused in police custody”, published with Haribhoomi''s report on the 476.5 kg seizure in Jagdalpur. Photo: Haribhoomi'
+  - kind: photo
+    url: https://cgkhabar.com/news/chhattisgarh-bastar-police-seize-476-kg-cannabis-20261105
+    media_url: https://cgkhabar.com/storage/CGKhabar-News/5PnVzXIOZahHmKAjdo4sxzDNEEajquIlM5KCEss8.webp
+    publisher: CGKhabar
+    caption: The lead picture on CGKhabar's report, captioned “Chhattisgar Police- Seize 476 kg Cannabis”, which the page presents as the seizure; no credit is given.
 details:
   products:
     - {product: flower}
@@ -83,6 +88,15 @@ sources:
     publisher: news36live
     date: 2026-11-05
     language: hi
+  - title: Bastar police seize 476 kg cannabis worth ₹2.38 crore
+    url: https://cgkhabar.com/news/chhattisgarh-bastar-police-seize-476-kg-cannabis-20261105
+    publisher: CGKhabar
+    date: 2026-11-05
+  - title: 'CG BREAKING: 2.38 करोड़ के गांजे के साथ 7 तस्कर गिरफ्तार'
+    url: https://jantaserishta.com/local/chhattisgarh/cg-breaking-7-smugglers-arrested-with-cannabis-worth-rs-238-crore-4916927
+    publisher: Janta Se Rishta
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -111,10 +125,12 @@ open_questions:
   - The page image has no caption or credit identifying it as this interception, so no media entry is added.
   - ETV Bharat does not say what the court decided when the seven accused were produced before it.
   - The ETV Bharat page carries one lead image captioned only as ganja worth crores seized in Bastar, credited to ETV Bharat Chhattisgarh, without identifying the load or place shown.
+  - CGKhabar says Jagdalpur police set up strategic checkpoints across the Bastar region, while the existing account describes a single blockade near Adamvali railway crossing; neither explains whether other checkpoints were involved.
+  - The CGKhabar and Janta Se Rishta pages carry no credit for the lead photograph, which is captioned as the seizure but is not attributed to a photographer or agency.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
 Chitrasen Gallauri, 22. [@2,7,8] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2] Haribhoomi
@@ -140,14 +156,14 @@ traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
 rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8] Officers seized a Tata pickup and a
-motorcycle used in the smuggling at the scene. [@1,3,4,6] Jagdalpur police sealed off
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12] Officers seized a Tata pickup and a
+motorcycle used in the smuggling at the scene. [@1,3,4,6,12] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1,6]
 
 Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
-Uttar Pradesh. [@1,4]
+Uttar Pradesh. [@1,4,11]
 
 The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10]
 
