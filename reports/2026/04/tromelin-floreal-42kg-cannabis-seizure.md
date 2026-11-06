@@ -17,6 +17,10 @@ figures:
   value:
     amount: 1000000
     currency: EUR
+details:
+  route: {from: [af], to: [mu]}
+data_sources:
+  details.route: [2, 1, 3]
 media:
   - kind: photo
     url: https://lemarin.ouest-france.fr/defense/la-fregate-francaise-floreal-realise-une-saisie-de-drogue-exceptionnelle-au-large-de-lile-maurice-859121aa-3e4b-11f1-ac09-2dd9a94cc119

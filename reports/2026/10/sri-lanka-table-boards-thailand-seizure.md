@@ -22,8 +22,10 @@ created_by_model: unknown
 details:
   products:
     - {product: hashish}
+  route: {from: [th], to: [lk]}
 data_sources:
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [hashish, thailand-route, concealment]
 sources:

@@ -21,8 +21,10 @@ media:
     caption: 'Gendarmes with a beached trafficking boat at Saint-Benoît. Photo: Emmanuel Grondin via Le Quotidien'
 details:
   activity: [trafficking]
+  route: {from: [re], to: [mu]}
 data_sources:
   details.activity: [1]
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [zamal, trafficking, mauritius-route, appeal]

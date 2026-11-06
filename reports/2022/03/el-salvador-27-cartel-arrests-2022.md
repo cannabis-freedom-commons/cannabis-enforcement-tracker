@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 27
   kg_seized: 44
+details:
+  route: {from: [ni], to: [sv]}
+data_sources:
+  details.route: [1]
 media:
   - kind: photo
     url: https://diario.elmundo.sv/nacionales/capturan-a-27-miembros-de-cartel-que-transporta-droga-desde-nicaragua

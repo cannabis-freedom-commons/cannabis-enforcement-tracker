@@ -20,8 +20,10 @@ figures:
   kg_seized: 70
 details:
   activity: [trafficking]
+  route: {from: [cg], to: [ga]}
 data_sources:
   details.activity: [1]
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [trafficking, tramadol, congo-route]

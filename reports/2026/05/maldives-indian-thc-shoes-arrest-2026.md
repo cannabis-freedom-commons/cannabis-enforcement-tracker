@@ -15,8 +15,10 @@ figures:
   arrested: 1
 details:
   activity: [smuggling]
+  route: {from: [in], to: [mv]}
 data_sources:
   details.activity: [1]
+  details.route: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c910b3608c57e33d31e764a93b01af71

@@ -19,6 +19,10 @@ figures:
   arrested: 3
   kg_seized: 231.42
   value: { amount: 25456200, currency: TTD }
+details:
+  route: {from: [ve], to: [tt]}
+data_sources:
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [coast-guard, pirogue, venezuela-route]

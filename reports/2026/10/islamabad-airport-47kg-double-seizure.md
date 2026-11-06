@@ -22,8 +22,10 @@ details:
   setting: [airport]
   products:
     - {product: hashish}
+  route: {from: [th], to: [pk]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

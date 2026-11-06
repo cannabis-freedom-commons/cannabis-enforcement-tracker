@@ -19,7 +19,9 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   setting: [building]
+  route: {from: [th], to: [nl]}
 data_sources:
+  details.route: [1, 2, 3]
   details.setting: [1, 2]
 status: verified
 tags: [warehouse, netherlands-route]

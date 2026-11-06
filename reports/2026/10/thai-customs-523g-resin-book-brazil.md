@@ -23,8 +23,10 @@ media:
     caption: Customs photo of the seized cannabis resin concealed in a book.
 details:
   activity: [smuggling]
+  route: {from: [th], to: [br]}
 data_sources:
   details.activity: [1]
+  details.route: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1da8a15c8cf4362d497a09f620f36f25

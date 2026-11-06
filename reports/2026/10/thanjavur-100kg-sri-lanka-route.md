@@ -19,6 +19,10 @@ figures:
   arrested: 4
   kg_seized: 100
 created_by_model: unknown
+details:
+  route: {from: [in], to: [lk]}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [sri-lanka-route, carrier]
 sources:

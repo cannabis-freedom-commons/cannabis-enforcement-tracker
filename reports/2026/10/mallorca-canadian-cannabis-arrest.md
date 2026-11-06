@@ -22,8 +22,10 @@ figures:
 created_by_model: unknown
 details:
   activity: [trafficking]
+  route: {from: [ca], to: [es]}
 data_sources:
   details.activity: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [trafficking, canada-route, valencia]
 sources:

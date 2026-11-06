@@ -19,8 +19,10 @@ figures:
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [be]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [morocco-route, hashish, furniture, front-business]

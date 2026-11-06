@@ -23,8 +23,10 @@ created_by_model: unknown
 details:
   setting: [airport]
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 tags: [airport, bangkok-route, hydroponic, profiling]

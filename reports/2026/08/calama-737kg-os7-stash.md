@@ -21,9 +21,11 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  route: {from: [bo], to: [cl]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2, 3]
 status: verified
 tags: [calama, os7, bolivia-route]
 open_questions:

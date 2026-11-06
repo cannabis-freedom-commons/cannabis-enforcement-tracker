@@ -28,8 +28,10 @@ created_by_model: unknown
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [es]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [hashish, tunnel, ceuta, morocco-route]
 sources:

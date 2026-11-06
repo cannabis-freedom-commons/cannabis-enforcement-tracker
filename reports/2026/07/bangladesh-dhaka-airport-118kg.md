@@ -22,9 +22,11 @@ details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
   setting: [airport]
+  route: {from: [th], to: [bd]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

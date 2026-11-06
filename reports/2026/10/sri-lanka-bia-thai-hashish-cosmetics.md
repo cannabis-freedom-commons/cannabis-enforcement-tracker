@@ -26,10 +26,12 @@ details:
   setting: [airport]
   products:
     - {product: hashish}
+  route: {from: [th], to: [lk]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2, 3]
   details.setting: [1, 2]
 status: verified
 tags: [hashish, airport, bangkok-route, concealment]

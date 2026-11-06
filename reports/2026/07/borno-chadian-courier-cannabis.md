@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 30
+details:
+  route: {from: [td], to: [ng]}
+data_sources:
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [borno, chad-route, terrorism, hadin-kai]

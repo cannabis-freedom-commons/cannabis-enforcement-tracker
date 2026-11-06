@@ -22,9 +22,11 @@ created_by_model: unknown
 details:
   agencies: [np-police]
   agency_types: [police]
+  route: {from: [np], to: [in]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
 status: verified
 open_questions:
   - The map marks Jahada ward 4; Ramchowk itself was not separately geolocated in the geographic sources checked.

@@ -23,9 +23,11 @@ details:
   agencies: [es-guardia-civil, es-vigilancia-aduanera]
   agency_types: [gendarmerie, customs]
   setting: [port]
+  route: {from: [es], to: [ly, eg]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 tags: [citco, maritime, libya-route]

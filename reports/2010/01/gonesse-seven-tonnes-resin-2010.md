@@ -21,8 +21,10 @@ figures:
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [fr]}
 data_sources:
   details.products: [2]
+  details.route: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, morocco-route, rungis-investigation]

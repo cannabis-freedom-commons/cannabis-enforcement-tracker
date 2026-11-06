@@ -21,10 +21,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  route: {from: [th], to: [ph]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [naia, airport, bangkok-route, kush]

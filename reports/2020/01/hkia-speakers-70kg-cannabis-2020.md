@@ -28,7 +28,9 @@ media:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   setting: [airport]
+  route: {from: [ca], to: [hk]}
 data_sources:
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, canada-route]

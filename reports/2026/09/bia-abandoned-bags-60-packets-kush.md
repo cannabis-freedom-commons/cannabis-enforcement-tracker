@@ -29,10 +29,12 @@ details:
   setting: [airport]
   products:
     - {product: flower}
+  route: {from: [th], to: [lk]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 tags: [airport, bangkok-route, abandoned, kush, pnb]

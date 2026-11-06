@@ -17,7 +17,10 @@ figures:
   value:
     amount: 5000000
     currency: EUR
+details:
+  route: {from: [re], to: [mu]}
 data_sources:
+  details.route: [2, 1, 3]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

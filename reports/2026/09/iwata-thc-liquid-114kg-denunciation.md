@@ -20,6 +20,10 @@ figures:
   arrested: 2
   charged: 2
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
+details:
+  route: {from: [vn], to: [jp]}
+data_sources:
+  details.route: [2]
 status: verified
 tags: [thc-liquid, customs, vietnam-route, international-post, minors]
 open_questions:

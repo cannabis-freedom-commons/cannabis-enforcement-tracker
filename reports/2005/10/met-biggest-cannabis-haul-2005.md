@@ -17,6 +17,10 @@ figures:
   arrested: 9
   value: { amount: 12000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  route: {from: [mx], to: [gb]}
+data_sources:
+  details.route: [1, 2]
 status: verified
 tags: [metropolitan-police, hm-customs, furniture-consignment, mexico-route]
 open_questions:

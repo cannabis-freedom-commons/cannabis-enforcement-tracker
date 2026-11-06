@@ -21,8 +21,10 @@ figures:
   value: { amount: 520000000, currency: INR }
 details:
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [customs, igi, bangkok-route, hydroponic]

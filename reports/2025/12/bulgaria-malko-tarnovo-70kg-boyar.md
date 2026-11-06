@@ -20,7 +20,9 @@ figures:
   value: { amount: 573170, currency: EUR }
 details:
   setting: [border]
+  route: {from: [bg], to: [tr]}
 data_sources:
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

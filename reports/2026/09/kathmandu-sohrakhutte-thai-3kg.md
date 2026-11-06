@@ -18,6 +18,10 @@ figures:
   arrested: 3
   kg_seized: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  route: {from: [th], to: [np]}
+data_sources:
+  details.route: [1, 2, 4, 3]
 status: verified
 tags: [kathmandu, thai-route, airport-follow, hotel]
 sources:

@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 70
+details:
+  route: {from: [ma], to: [dz]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [morocco-route, kif, network, dgsn]

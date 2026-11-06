@@ -21,9 +21,11 @@ details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   setting: [airport]
+  route: {from: [th], to: [ph]}
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

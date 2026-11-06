@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 15
   kg_seized: 810
+details:
+  route: {from: [ma], to: [es]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [malaga, helicopters, morocco-route]

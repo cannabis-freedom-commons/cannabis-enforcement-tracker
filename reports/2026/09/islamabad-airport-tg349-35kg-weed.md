@@ -23,8 +23,10 @@ details:
   setting: [airport]
   products:
     - {product: flower}
+  route: {from: [th], to: [pk]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

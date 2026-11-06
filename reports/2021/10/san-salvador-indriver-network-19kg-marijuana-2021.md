@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 13
   kg_seized: 19
+details:
+  route: {from: [gt], to: [sv]}
+data_sources:
+  details.route: [1, 4, 3]
 media:
   - kind: photo
     url: https://diario.elmundo.sv/nacionales/capturan-a-red-que-movia-droga-desde-guatemala-y-la-distribuia-por-encargo

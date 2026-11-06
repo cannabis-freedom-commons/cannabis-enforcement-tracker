@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 15
+details:
+  route: {from: [ma], to: [dz]}
+data_sources:
+  details.route: [1, 2]
 media:
   - kind: photo
     url: https://www.aps.dz/fr/algerie/societe/mu17asl7-saisie-de-15-kg-de-kif-traite-provenant-du-maroc-et-arrestation-de-trois-individus

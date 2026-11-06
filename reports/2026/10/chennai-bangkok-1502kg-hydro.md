@@ -21,8 +21,10 @@ figures:
   value: { amount: 52600000, currency: INR }
 details:
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [chennai, airport, bangkok-route, hydroponic, customs, ndps]
