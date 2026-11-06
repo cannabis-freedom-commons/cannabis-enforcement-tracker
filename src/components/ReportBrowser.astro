@@ -57,6 +57,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   import { timelineTooltip } from "../scripts/report-timeline-tooltip.js";
   import { reportDay, compareReports } from "../lib/report-time.js";
   import { imageProxy } from "../lib/media.js";
+  import { thumbHashToDataURL } from "thumbhash";
   import { hasTag } from "../lib/report-tags.js";
   import { initTagSuggest } from "../scripts/report-tag-suggest.js";
   import { FIGURE_FILTERS, DETAIL_FILTERS, STATUSES, parseRange, formatRange, rangeLabel, inRange, hasDetail } from "../lib/figure-filters.js";
@@ -160,7 +161,13 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   let scrollObserver: IntersectionObserver | null = null;
 
   // a photo the publisher no longer serves is removed, and its row drawn without it
-  const thumb = (r: Row) => r.im ? `<img class="thumb" src="${esc(imageProxy(r.im))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-thumb');this.remove()">` : "";
+  // a photo's ThumbHash as a blurred placeholder, drawn under it until it loads
+  const placeholders = new Map<string, string>();
+  const placeholder = (hash: string) => {
+    if (!placeholders.has(hash)) { try { placeholders.set(hash, thumbHashToDataURL(Uint8Array.from(atob(hash), (c) => c.charCodeAt(0)))); } catch { placeholders.set(hash, ""); } }
+    return placeholders.get(hash);
+  };
+  const thumb = (r: Row) => r.im ? `<img class="thumb" src="${esc(r.it ?? imageProxy(r.im))}"${r.ih ? ` style="background-image:url(${placeholder(r.ih)})"` : ""} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-thumb');this.remove()">` : "";
   const item = (r: Row) => `<li class="report-item${r.im ? " has-thumb" : ""}" data-id="${r.i}"${r.at ? ` data-added="${esc(r.at)}"` : ""} data-country="${esc(r.c)}">
     <div class="meta"><span class="type" style="--c:${types[r.t].color}">${esc(types[r.t].label)}</span>
       <time datetime="${r.d}">${fmtDate(r.d)}</time>

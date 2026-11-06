@@ -84,3 +84,7 @@
 
 /* the flag before a registry agency's name */
 .fact-flag { margin-right: .35em; }
+
+/* a photo's ThumbHash placeholder under it until it loads (style="background-image:…") */
+.media-open { background-size: cover; background-position: center; }
+.media-open img[width][height] { height: auto; }

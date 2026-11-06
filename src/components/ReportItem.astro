@@ -3,7 +3,7 @@
 import { formatDate, isoDate } from "../lib/reports.js";
 import { Image } from "astro:assets";
 import { flagOf } from "../lib/countries.js";
-import { imageProxy } from "../lib/media.js";
+import { photoOf, coverPlaceholderOf } from "../lib/media-manifest.js";
 const { r, search = true, zoom = false } = Astro.props;
 // zoom: a button at the end of the first line that shows the report on the page's map (the map's side pane)
 const base = import.meta.env.BASE_URL;
@@ -21,8 +21,8 @@ const haystack = [r.title, r.summary, r.place, r.countryName, r.typeLabel, ...(r
   <h3><a href={`${base}${r.url}`}>{r.title}</a></h3>
   {/* the photo floats right after the title; the summary wraps around it */}
   {r.cover
-    ? <Image class="thumb" src={r.cover.image} alt="" width={264} height={184} fit="cover" loading="lazy" />
-    : r.photo && <img class="thumb" src={imageProxy(r.photo)} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentElement.classList.remove('has-thumb');this.remove()" />}
+    ? <Image class="thumb" src={r.cover.image} alt="" width={264} height={184} fit="cover" loading="lazy" style={coverPlaceholderOf(r.cover.image.src) ? `background-image:url(${coverPlaceholderOf(r.cover.image.src)})` : undefined} />
+    : r.photo && <img class="thumb" src={photoOf(r.photo).src} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" style={photoOf(r.photo).placeholder ? `background-image:url(${photoOf(r.photo).placeholder})` : undefined} onerror="this.parentElement.classList.remove('has-thumb');this.remove()" />}
   <p>{r.summary}</p>
   {r.figureRows.length > 0 && (
     <div class="figs-inline">

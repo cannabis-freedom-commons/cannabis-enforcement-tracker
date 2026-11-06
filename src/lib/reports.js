@@ -7,6 +7,7 @@ import { countryName, countryOf } from "./countries.js";
 import { centreOf } from "./map.js";
 import { figureRows } from "./figures.js";
 import { detailRows } from "./details.js";
+import { photoOf } from "./media-manifest.js";
 import { relative } from "node:path";
 import { readReportHistory } from "./report-history.js";
 import { compareReports } from "./report-time.js";
@@ -121,6 +122,8 @@ export function indexRow(r) {
     k: [`cet-${r.code}`, r.code, ...(r.tags ?? [])].join(" ").toLowerCase(),
     ...(r.tags?.length ? { g: r.tags } : {}), // exact tags for selection, separate from search text
     ...(r.cover || r.photo ? { im: r.cover?.image.src ?? r.photo } : {}), // the list thumbnail
+    ...(!r.cover && r.photo && photoOf(r.photo).thumb ? { it: photoOf(r.photo).thumb } : {}), // our small copy, where served
+    ...(!r.cover && r.photo && photoOf(r.photo).hash ? { ih: photoOf(r.photo).hash } : {}), // its ThumbHash placeholder
     ...(Object.keys(numbers).length ? { n: numbers } : {}), // figures as numbers, for the "+ Filter" menu
     ...(Object.keys(details).length ? { x: details } : {}), // structured details, for the "+ Filter" menu
     ...(r.status && r.status !== "verified" ? { st: r.status } : {}), // verified unless said

@@ -18,6 +18,7 @@ import { glanceFacts } from "../../lib/details.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
 import { shortSubmission } from "../../lib/report-submission.js";
 import { mediaView } from "../../lib/media.js";
+import { photoOf, coverPlaceholderOf } from "../../lib/media-manifest.js";
 
 export async function getStaticPaths() {
   const entries = await getCollection("reports");
@@ -44,7 +45,7 @@ const law = legalContext(r.country, r.date);
 const fmtChangeDate = (d) => d.length === 10 ? new Date(`${d}T00:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) : d;
 // photos with a direct address are shown from the publisher's own server (never copied here, see
 // docs/WRITING.md §7); videos and photos without one stay links
-const shown = (r.media ?? []).map((m) => ({ ...m, view: mediaView(m) })).filter((m) => m.view);
+const shown = (r.media ?? []).map((m) => ({ ...m, view: mediaView(m), photo: m.kind === "photo" ? photoOf(m.media_url) : null })).filter((m) => m.view);
 const linked = (r.media ?? []).filter((m) => !mediaView(m));
 const languageName = (code) => new Intl.DisplayNames(["en"], { type: "language" }).of(code);
 // the Landrace.wiki growing areas and regions the place lies in, when it is known closely enough
@@ -94,7 +95,7 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
 
     {r.cover && (
       <figure class="cover">
-        <Image src={r.cover.image} alt={r.cover.alt} widths={[640, 960, 1280]} sizes="(max-width: 860px) 100vw, 860px" />
+        <Image src={r.cover.image} alt={r.cover.alt} widths={[640, 960, 1280]} sizes="(max-width: 860px) 100vw, 860px" style={coverPlaceholderOf(r.cover.image.src) ? `background:center/cover no-repeat url(${coverPlaceholderOf(r.cover.image.src)})` : undefined} />
         <figcaption><a href={r.cover.url} class="ext" target="_blank" rel="noopener">{r.cover.credit}</a> · {r.cover.licence}</figcaption>
       </figure>
     )}
@@ -116,8 +117,8 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
           <div class="media-grid" data-count={Math.min(shown.length, 4)} data-media-grid>
             {shown.map((m) => (
               <figure class:list={["media-tile", m.view.type !== "photo" && "media-tile-video"]}>
-                {m.view.type === "photo" && <button type="button" class="media-open" aria-label={`Enlarge: ${m.caption}`}>
-                  <img src={m.view.src} alt={m.caption} loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+                {m.view.type === "photo" && <button type="button" class="media-open" aria-label={`Enlarge: ${m.caption}`} style={m.photo.placeholder ? `background-image:url(${m.photo.placeholder})` : undefined}>
+                  <img src={m.photo.src} data-full={m.photo.full} width={m.photo.width ?? undefined} height={m.photo.height ?? undefined} alt={m.caption} loading="lazy" decoding="async" referrerpolicy="no-referrer" />
                 </button>}
                 {m.view.type === "video" && <video src={m.view.src} controls preload="metadata" playsinline referrerpolicy="no-referrer" aria-label={m.caption}></video>}
                 {m.view.type === "embed" && <iframe src={m.view.src} title={m.caption} loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>}

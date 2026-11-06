@@ -42,7 +42,7 @@ function initGrid(grid) {
   const visible = () => tiles.filter((t) => !t.hidden);
   const show = (tile) => {
     const list = visible(); at = list.indexOf(tile);
-    big.src = tile.querySelector("img").src; big.alt = tile.querySelector("img").alt;
+    big.src = tile.querySelector("img").dataset.full || tile.querySelector("img").src; big.alt = tile.querySelector("img").alt;
     caption.replaceChildren(...[...tile.querySelector("figcaption").childNodes].map((n) => n.cloneNode(true)));
     dialog.querySelector(".mv-prev").hidden = dialog.querySelector(".mv-next").hidden = list.length < 2;
   };

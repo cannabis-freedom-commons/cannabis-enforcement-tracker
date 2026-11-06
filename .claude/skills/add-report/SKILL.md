@@ -113,6 +113,7 @@ the main report. Resolve answered open questions and preserve the original creat
 
 ```bash
 node scripts/archive-media.mjs <slug>
+node scripts/media-manifest.mjs              # sizes and placeholders of new photos
 ```
 
 ```bash

@@ -282,7 +282,7 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 .media li { margin-bottom: 6px; }
 /* a report's photo: after its type line and title, floated right, the summary wrapping around it */
 .report-item.has-thumb::after { content: ""; display: block; clear: both; }
-.report-item .thumb { float: right; width: 132px; height: 92px; margin: 4px 0 6px 18px; object-fit: cover; border-radius: var(--r); background: var(--surface-2); }
+.report-item .thumb { float: right; width: 132px; height: 92px; margin: 4px 0 6px 18px; object-fit: cover; border-radius: var(--r); background: var(--surface-2) center / cover no-repeat; }
 @media (max-width: 560px) { .report-item .thumb { width: 96px; height: 70px; margin-left: 12px; } }
 /* the home page's map pane: smaller thumbnails */
 .browser.compact .report-item .thumb, .home-pane .report-item .thumb { width: 84px; height: 60px; margin-left: 12px; }

@@ -340,6 +340,15 @@ to `archive/<slug>/` with a manifest (page, image URL, date fetched, SHA-256), s
 survives if the pages change or disappear. `archive/` is ignored by git and not part of the site,
 because most of the pictures belong to their publishers; back it up privately.
 
+`node scripts/media-manifest.mjs [--retry] [--thumbs]` describes every photo a report links with a
+`media_url` in `src/data/media.json` (committed): the SHA-256 of the original, its width, height and
+type, a ThumbHash placeholder and whether it could be fetched (`ok` or `unavailable`, with the
+error). The original goes to `archive/media/<sha256>.<ext>` (private, shared by every report that
+links it) and a 320px AVIF thumbnail to `.cache/media/<ab>/<cd>/<sha256>.avif` (not committed).
+Pages reserve each photo's size and show its blurred placeholder until it loads. Photos load
+through the image proxy unless `MEDIA_BASE` is set at build time to where the thumbnails are
+served; then grids and lists use those and enlarging still loads the original.
+
 ## Archived copies of sources
 
 `node scripts/archive-sources.mjs` looks up each source and media page in the Wayback Machine and
