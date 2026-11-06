@@ -42,6 +42,10 @@ sources:
     url: https://patch.com/connecticut/meriden/convicted-felon-arrested-drug-gun-charges-meriden-police
     publisher: Meriden, CT Patch
     date: 2026-11-05
+  - title: West Haven man arrested in ongoing effort against firearm and drug sales
+    url: https://www.wfsb.com/2026/11/05/west-haven-man-arrested-ongoing-effort-against-firearm-drug-sales/
+    publisher: WFSB
+    date: 2026-11-05
 open_questions:
   - No weight was published for the marijuana found on Franklin or in his home, and narcotics and marijuana amounts were reported together, so no cannabis quantity is recorded.
   - October 29 is the date given for the enforcement effort the arrest stemmed from; the article states no separate arrest date.
@@ -50,14 +54,15 @@ open_questions:
   - Only one accessible source for this event was found after searching in English.
   - The page's only image is a Shutterstock stock photo, so no media entry is included.
   - Other tickets and arrests from the same enforcement effort are separate events left out of this report.
+  - The WFSB article says Franklin is held on a one million dollar bond, while the existing report says he was held on a $400,000 bond; the discrepancy is unresolved.
 ---
 
 Meriden police arrested 37-year-old Sherrod Franklin of West Haven on drug and
 gun charges after he allegedly tried to elude officers during a traffic stop in
-Meriden. [@1] Officers and detectives had tried to stop his vehicle during a
+Meriden. [@1,2] Officers and detectives had tried to stop his vehicle during a
 targeted investigation, and he attempted to elude them before being apprehended.
 [@1] Police described Franklin as a convicted felon who is ineligible to possess
-firearms. [@1] He was charged with possession of narcotics, possession of
+firearms. [@1,2] He was charged with possession of narcotics, possession of
 narcotics with intent to sell, operating a drug factory, use of drug
 paraphernalia, criminal possession of a firearm, possession of a high-capacity
 magazine, interfering with an officer, possession with intent to sell a
@@ -66,10 +71,10 @@ disobeying the signal of an officer. [@1] He was being held in lieu of a
 $400,000 bond with a court date of November 19. [@1]
 
 At the arrest, Franklin was found in possession of narcotics and sale quantities
-of marijuana. [@1] A later search of his home under a search warrant recovered a
+of marijuana. [@1,2] A later search of his home under a search warrant recovered a
 handgun, a high-capacity magazine and further sale quantities of narcotics and
-marijuana. [@1] Officers also found a 10-year-old child left unsupervised in the
-apartment. [@1]
+marijuana. [@1,2] Officers also found a 10-year-old child left unsupervised in the
+apartment. [@1,2]
 
 Police said the arrest grew out of a targeted enforcement effort conducted
 around the Meriden Green on October 29 to address complaints about
@@ -77,3 +82,4 @@ quality-of-life issues and narcotics activity. [@1] That effort produced
 multiple infraction tickets and multiple arrests. [@1] Those stops spanned
 pedestrian and motor-vehicle violations as well as narcotics activity. [@1]
 
+Franklin faces 11 charges. [@2]
