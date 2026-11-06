@@ -35,6 +35,11 @@ sources:
     publisher: BFMTV
     date: 2026-05-23
     language: fr
+  - title: 'Trafic de cannabis: des colis saisis au Luxembourg dans une affaire parisienne'
+    url: https://www.lessentiel.lu/fr/story/trafic-de-drogue-l-ex-influenceur-le-faussaire-et-des-colis-saisis-au-luxembourg-103570766
+    publisher: L'essentiel
+    date: 2026-05-26
+    language: fr
 open_questions:
   - 'The arrest dates for all six people are not established: the account dates five arrests to 18–19 May, while the four men were remanded on 21 May 2026.'
   - The identity and subsequent procedural status of the sixth person placed in police custody are not reported.
@@ -49,22 +54,21 @@ open_questions:
 
 Six people were placed in police custody overall, five formally investigated,
 four remanded in pre-trial detention and one placed under judicial supervision.
-[@3] Four men, including the former influencer known as PA7, were remanded in
+[@3,4] Four men, including the former influencer known as PA7, were remanded in
 Paris on 21 May 2026 over suspected cannabis imports from the United States.
-[@2] A woman was also prosecuted in the Paris JIRS case, a specialized
-interregional jurisdiction, and placed under judicial supervision. [@1]
+[@2,4] A woman was also prosecuted in the Paris JIRS case, a specialized
+interregional jurisdiction, and placed under judicial supervision. [@1,4]
 
 The investigation began in June 2025 after a notification from U.S. authorities
 and was run jointly by gendarmes from the Versailles research section and Ofast,
-France's office dedicated to combating drug trafficking. [@1] Gendarmes said
-cannabis was concealed in large parcels sent from California. [@1]
+France's office dedicated to combating drug trafficking. [@1,4] Gendarmes said
+cannabis was concealed in large parcels sent from California. [@1,4]
 
 The parcels were concealed in flat-pack furniture, fitness equipment or arcade
 machines and delivered to Paris-region businesses unaware of the shipments; a
 network associate collected them and the cannabis was taken away for packaging
-before resale at dealing points. [@1] Investigators traced 21 shipments to
+before resale at dealing points. [@1,4] Investigators traced 21 shipments to
 France and neighboring countries, with several tens of kilograms in each; four
 were intercepted, yielding more than 430 kg of cannabis. [@3] The prosecutor's
 office said parcels were also seized in Luxembourg, Germany and Switzerland.
-[@1]
-
+[@1,4]
