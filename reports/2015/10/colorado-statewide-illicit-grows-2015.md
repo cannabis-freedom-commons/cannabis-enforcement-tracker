@@ -20,11 +20,15 @@ figures:
   kg_seized: 300
 details:
   activity: [trafficking, cultivation]
+  agencies: [us-dea, us-hsi]
+  agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 300}, {product: plants, plants: 20000}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

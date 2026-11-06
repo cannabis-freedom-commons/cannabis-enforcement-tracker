@@ -15,7 +15,7 @@ figures:
   arrested: 1
   charged: 1
 details:
-  agencies: [FBI, ATF, New York State Office of Cannabis Management, Erie County Sheriff's Office, U.S. Marshals Service, New York State Police]
+  agencies: [us-fbi, "ATF", "New York State Office of Cannabis Management", "Erie County Sheriff's Office", "U.S. Marshals Service", "New York State Police"]
   agency_types: [police, regulator]
   products:
     - {product: flower}

@@ -37,6 +37,7 @@ media:
     caption: Two-minute video of the Ventanilla operation, which ended with three detentions and the marijuana seizure.
 details:
   activity: [trafficking]
+  agencies: [pe-dirandro]
   agency_types: [police]
   case_stage: investigation
   products:
@@ -44,6 +45,7 @@ details:
   setting: [home, prison]
 data_sources:
   details.activity: [1]
+  details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
   details.products: [1, 3]

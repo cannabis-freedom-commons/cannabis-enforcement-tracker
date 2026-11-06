@@ -15,7 +15,7 @@ figures:
   arrested: 490
   kg_seized: 118600
 details:
-  agencies: [Belgian Federal Police, int-interpol, int-europol]
+  agencies: [be-police, int-interpol, int-europol]
   agency_types: [police, customs]
   products:
     - {product: flower}

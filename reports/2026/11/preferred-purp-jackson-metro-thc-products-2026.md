@@ -14,8 +14,10 @@ summary: >-
 figures:
   kg_seized: 362.874
 details:
+  agencies: [us-dea, us-hsi]
   agency_types: [police]
 data_sources:
+  details.agencies: [1]
   details.agency_types: [1]
   figures.kg_seized: [1]
 status: verified

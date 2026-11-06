@@ -14,7 +14,7 @@ figures:
   arrested: 31
   kg_seized: 36.1
 details:
-  agencies: [General Directorate of Border Guard, General Directorate of Mujahideen, General Directorate of Narcotics Control]
+  agencies: ["General Directorate of Border Guard", "General Directorate of Mujahideen", sa-gdnc]
   agency_types: [border-guard, other]
   products:
     - {product: hashish, kg: 36.1}

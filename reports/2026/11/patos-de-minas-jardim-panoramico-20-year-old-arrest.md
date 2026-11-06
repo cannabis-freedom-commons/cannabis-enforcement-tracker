@@ -14,7 +14,7 @@ summary: >-
 figures:
   arrested: 1
 details:
-  agencies: [Polícia Militar]
+  agencies: [br-pm]
   agency_types: [police]
   products:
     - {product: flower}

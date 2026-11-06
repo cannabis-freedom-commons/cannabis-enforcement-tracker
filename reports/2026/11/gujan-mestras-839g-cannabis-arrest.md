@@ -19,7 +19,7 @@ figures:
     amount: 860
     currency: EUR
 details:
-  agencies: [Gendarmerie nationale]
+  agencies: [fr-gendarmerie]
   agency_types: [gendarmerie]
   products:
     - {product: hashish, kg: 0.596}

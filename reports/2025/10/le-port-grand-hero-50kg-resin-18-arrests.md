@@ -22,7 +22,7 @@ figures:
     amount: 162640
     currency: EUR
 details:
-  agencies: [Gendarmerie nationale, OFAST]
+  agencies: [fr-gendarmerie, fr-ofast]
   agency_types: [gendarmerie, anti-narcotics]
   products:
     - {product: hashish, kg: 50}

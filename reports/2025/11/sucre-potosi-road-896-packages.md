@@ -12,12 +12,14 @@ summary: >-
   Bolivia's FELCN stopped a private van at a static checkpoint on the Potosí–Sucre highway and found 45 jute sacks holding 896 packages that field-tested positive for marijuana. It was not known whether the driver or anyone else was detained, and the weight was not published.
 details:
   activity: [trafficking]
+  agencies: [bo-felcn]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
   setting: [border, vehicle]
 data_sources:
   details.activity: [1, 3, 2]
+  details.agencies: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [3, 2]
   details.products: [1, 3, 2]

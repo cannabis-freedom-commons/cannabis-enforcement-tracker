@@ -21,7 +21,7 @@ figures:
     amount: 10000
     currency: EUR
 details:
-  agencies: [National Gendarmerie (France)]
+  agencies: [fr-gendarmerie]
   agency_types: [gendarmerie, court]
   products:
     - {product: flower, kg: 147}

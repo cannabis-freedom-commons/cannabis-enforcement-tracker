@@ -15,7 +15,7 @@ figures:
   arrested: 12
   sites: 10
 details:
-  agencies: [Guardia Civil, Vícar Local Police]
+  agencies: [es-guardia-civil, "Vícar Local Police"]
   agency_types: [gendarmerie, police]
   products:
     - {product: plants}

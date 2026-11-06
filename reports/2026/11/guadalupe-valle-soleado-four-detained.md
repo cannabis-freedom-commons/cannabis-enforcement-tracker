@@ -15,7 +15,7 @@ figures:
   arrested: 4
   sites: 3
 details:
-  agencies: [Agencia Estatal de Investigaciones, Mexican Army, Fiscalía General de Justicia de Nuevo León]
+  agencies: ["Agencia Estatal de Investigaciones", mx-sedena, "Fiscalía General de Justicia de Nuevo León"]
   agency_types: [police, military, prosecutor, anti-narcotics]
   products:
     - {product: flower}

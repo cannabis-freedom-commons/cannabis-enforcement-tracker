@@ -15,7 +15,7 @@ figures:
   arrested: 2
   vehicles: 29
 details:
-  agencies: [Gendarmería Nacional]
+  agencies: [ar-gna]
   agency_types: [gendarmerie]
   products:
     - {product: flower}

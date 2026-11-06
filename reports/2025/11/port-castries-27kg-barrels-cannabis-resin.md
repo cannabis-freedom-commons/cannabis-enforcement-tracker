@@ -16,7 +16,7 @@ figures:
     amount: 900000
     currency: XCD
 details:
-  agencies: ['Gangs, Narcotics and Firearms Unit (GNFU)', Customs and Excise Department]
+  agencies: ["Gangs, Narcotics and Firearms Unit (GNFU)", hk-customs]
   agency_types: [police, customs]
   activity: [smuggling]
   products: [{product: hashish, kg: 27.08}]

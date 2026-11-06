@@ -14,12 +14,14 @@ summary: >-
 figures:
   kg_seized: 867
 details:
+  agencies: [cl-carabineros]
   agency_types: [court]
   case_stage: sentenced
   products: [{product: flower, kg: 867}]
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

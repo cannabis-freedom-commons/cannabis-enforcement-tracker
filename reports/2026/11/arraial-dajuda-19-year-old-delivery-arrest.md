@@ -17,6 +17,7 @@ figures:
     amount: 126.55
     currency: BRL
 details:
+  agencies: [br-pm]
   agency_types: [police]
   force: physical
   products:
@@ -29,6 +30,7 @@ details:
   region: Bahia
 data_sources:
   details.activity: [2]
+  details.agencies: [1, 2, 3]
   details.agency_types: [2]
   details.case_stage: [2]
   details.force: [3]

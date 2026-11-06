@@ -16,10 +16,12 @@ figures:
   arrested: 1
 details:
   activity: [trafficking]
+  agencies: [br-pm]
   agency_types: [military, police]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
 status: verified

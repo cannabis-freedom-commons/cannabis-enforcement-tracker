@@ -19,6 +19,7 @@ figures:
     amount: 12111000000
     currency: CLP
 details:
+  agencies: [cl-pdi]
   agency_types: [police]
   activity: [trafficking]
   setting: [vehicle]
@@ -28,6 +29,7 @@ details:
   region: Antofagasta
 data_sources:
   details.activity: [1]
+  details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]

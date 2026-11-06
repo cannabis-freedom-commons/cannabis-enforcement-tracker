@@ -15,7 +15,7 @@ figures:
   arrested: 2
   kg_seized: 0.173
 details:
-  agencies: [Agencia Estatal de Investigación, Mexican Army]
+  agencies: ["Agencia Estatal de Investigación", mx-sedena]
   agency_types: [police, military]
   products:
     - {product: flower, kg: 0.173}

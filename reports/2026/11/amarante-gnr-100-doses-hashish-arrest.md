@@ -14,7 +14,7 @@ summary: >-
 figures:
   arrested: 1
 details:
-  agencies: [National Republican Guard (GNR)]
+  agencies: [pt-gnr]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}

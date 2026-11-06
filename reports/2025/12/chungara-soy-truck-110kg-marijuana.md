@@ -16,7 +16,7 @@ figures:
   charged: 1
   kg_seized: 110.1
 details:
-  agencies: [Servicio Nacional de Aduanas de Chile, Carabineros de Chile]
+  agencies: ["Servicio Nacional de Aduanas de Chile", cl-carabineros]
   agency_types: [customs, police]
   products:
     - {product: flower, kg: 110.1}

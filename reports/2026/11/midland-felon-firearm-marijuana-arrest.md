@@ -14,6 +14,7 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agencies: [us-dea, us-hsi, us-fbi]
   agency_types: [police]
   case_stage: investigation
   products:
@@ -24,6 +25,7 @@ details:
   region: Texas
 data_sources:
   details.activity: [1]
+  details.agencies: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1]

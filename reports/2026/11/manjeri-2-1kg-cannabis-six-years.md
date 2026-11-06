@@ -21,11 +21,13 @@ figures:
     amount: 25000
     currency: INR
 details:
+  agencies: [in-excise]
   agency_types: [prosecutor]
   case_stage: sentenced
   sentence_types: [fine]
   setting: [prison]
 data_sources:
+  details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1]

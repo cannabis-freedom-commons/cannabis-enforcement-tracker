@@ -16,9 +16,11 @@ figures:
   arrested: 2
   kg_seized: 39.898
 details:
+  agencies: [id-bnn]
   agency_types: [customs, police]
   case_stage: investigation
 data_sources:
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
 media:

@@ -18,7 +18,7 @@ figures:
     amount: 3000000
     currency: INR
 details:
-  agencies: [ANTF]
+  agencies: [in-anf]
   agency_types: [anti-narcotics]
   products:
     - {product: flower, kg: 10}

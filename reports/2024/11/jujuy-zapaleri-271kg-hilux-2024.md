@@ -13,9 +13,11 @@ summary: >-
 figures:
   kg_seized: 271.1
 details:
+  agencies: [ar-gna]
   agency_types: [gendarmerie]
   setting: [vehicle]
 data_sources:
+  details.agencies: [1]
   details.agency_types: [1, 3, 2]
   details.setting: [1, 3, 2, 4, 5]
   figures.kg_seized: [1]

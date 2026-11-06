@@ -13,8 +13,10 @@ summary: >-
   DGSN with the DGST, local authorities and the royal gendarmerie.
 created_by_model: unknown
 details:
+  agencies: [ma-dgsn]
   agency_types: [gendarmerie]
 data_sources:
+  details.agencies: [1]
   details.agency_types: [1]
 status: verified
 cfi_id: morocco-essaouira-seizure-2026

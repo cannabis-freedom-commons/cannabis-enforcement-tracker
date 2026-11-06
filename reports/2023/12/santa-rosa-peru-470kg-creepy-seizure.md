@@ -16,7 +16,7 @@ figures:
     amount: 3000000
     currency: USD
 details:
-  agencies: [Peruvian anti-drug directorate, Colombian Navy]
+  agencies: ["Peruvian anti-drug directorate", co-armada]
   agency_types: [anti-narcotics, military]
   products:
     - {product: flower, kg: 470}

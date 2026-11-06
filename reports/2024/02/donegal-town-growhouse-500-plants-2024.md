@@ -20,10 +20,14 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agencies: [ie-garda]
+  agency_types: [police]
   products: [{product: flower, kg: 13.5}, {product: plants, plants: 500}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

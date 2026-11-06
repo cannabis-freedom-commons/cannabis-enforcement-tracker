@@ -19,7 +19,7 @@ figures:
   kg_seized: 40
   prison: 40 months
 details:
-  agencies: [Douane, Tribunal correctionnel de Bruxelles]
+  agencies: [fr-douane, "Tribunal correctionnel de Bruxelles"]
   agency_types: [customs, court, prosecutor]
   products:
     - {product: flower, kg: 40}

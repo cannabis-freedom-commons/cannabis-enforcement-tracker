@@ -16,7 +16,7 @@ figures:
   plants_destroyed: 31
   vehicles: 1
 details:
-  agencies: [Municipal Police of Bahía de Banderas, Nayarit State Police, Mexican Army]
+  agencies: ["Municipal Police of Bahía de Banderas", "Nayarit State Police", mx-sedena]
   agency_types: [police, military]
   products:
     - {product: flower}

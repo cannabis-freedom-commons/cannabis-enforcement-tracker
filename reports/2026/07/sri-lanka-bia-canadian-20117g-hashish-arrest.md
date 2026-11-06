@@ -18,7 +18,7 @@ figures:
     amount: 201890000
     currency: LKR
 details:
-  agencies: [Customs Narcotics Control Unit, Police Narcotics Bureau]
+  agencies: ["Customs Narcotics Control Unit", lk-pnb]
   agency_types: [customs, anti-narcotics]
   products:
     - {product: hashish, kg: 20.117}

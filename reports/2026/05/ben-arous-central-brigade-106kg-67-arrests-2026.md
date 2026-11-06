@@ -19,7 +19,7 @@ figures:
     amount: 1442000
     currency: TND
 details:
-  agencies: [National Guard, National Guard central anti-drug brigade in Ben Arous]
+  agencies: [mx-gn, "National Guard central anti-drug brigade in Ben Arous"]
   agency_types: [gendarmerie, prosecutor]
   products:
     - {product: other, kg: 106.5}

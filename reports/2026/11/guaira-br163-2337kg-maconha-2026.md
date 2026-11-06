@@ -15,7 +15,7 @@ figures:
   arrested: 1
   kg_seized: 2337
 details:
-  agencies: [Federal Highway Police (PRF), Receita Federal do Brasil, br-pf]
+  agencies: [br-prf, "Receita Federal do Brasil", br-pf]
   agency_types: [police, customs]
   products:
     - {product: flower, kg: 2337}

@@ -13,7 +13,7 @@ summary: >-
 figures:
   kg_seized: 0.1
 details:
-  agencies: [Border Guard Bangladesh]
+  agencies: [bd-bgb]
   agency_types: [border-guard]
   products:
     - {product: flower, kg: 0.1}

@@ -17,7 +17,7 @@ figures:
   sites: 2
   kg_seized: 80
 details:
-  agencies: [Gendarmerie nationale]
+  agencies: [fr-gendarmerie]
   agency_types: [gendarmerie]
   products:
     - {product: plants, kg: 80, plants: 2337}

@@ -18,10 +18,12 @@ figures:
     currency: PHP
 details:
   activity: [trafficking]
+  agencies: [ph-pnp]
   agency_types: [police]
   products: [{product: flower}, {product: oil}]
 data_sources:
   details.activity: [2, 1, 3]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2, 3]
   details.products: [2, 1, 3]
 status: verified

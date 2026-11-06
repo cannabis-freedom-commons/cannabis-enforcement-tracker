@@ -12,10 +12,12 @@ summary: >-
   NDLEA chairman Buba Marwa asked the Oba of Benin on 4 November 2026 to support the agency's Alternative Development Programme, which persuades cannabis growers to switch to cassava, yam and maize. The programme's Ondo State pilot began in January 2026, and the agency now plans to launch it in Edo State.
 details:
   activity: [trafficking, cultivation]
+  agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
 media:

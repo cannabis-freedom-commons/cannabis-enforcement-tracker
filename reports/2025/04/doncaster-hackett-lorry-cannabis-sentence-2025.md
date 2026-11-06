@@ -19,11 +19,13 @@ figures:
     amount: 2100000
     currency: GBP
 details:
+  agencies: [gb-nca]
   agency_types: [police]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.agencies: [2, 3, 4]
   details.agency_types: [3, 2, 4, 1, 5]
   details.case_stage: [3]
   details.sentence_types: [3]
