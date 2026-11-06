@@ -24,6 +24,11 @@ sources:
     publisher: СайтЪТ
     date: 2026-11-05
     language: bg
+  - title: 'Полицията във Варна спря микробус: Тестът на шофьора отчете метамфетамин и канабис'
+    url: https://novavarna.net/2026/11/05/%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%8F%D1%82%D0%B0-%D0%B2%D1%8A%D0%B2-%D0%B2%D0%B0%D1%80%D0%BD%D0%B0-%D1%81%D0%BF%D1%80%D1%8F-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%B1%D1%83%D1%81-%D1%82%D0%B5%D1%81/
+    publisher: Новини Варна
+    date: 2026-11-05
+    language: bg
 open_questions:
   - No cannabis quantity was reported, only alleged use before driving, so no weight or value is recorded.
   - The results of the laboratory blood test are not given, so the roadside result is unconfirmed.
@@ -32,18 +37,19 @@ open_questions:
   - Only one source for this event was found; searches did not surface the Varna police bulletin itself or another outlet's account.
   - The page picture is a generic file photo captioned for an unrelated alcohol check, so no media entry is included.
   - The article does not say where in Varna the van was stopped; the coordinates are for the city.
+  - The article still does not say where in Varna the van was stopped; it names only the city and the First District Police Station.
+  - No cannabis weight, laboratory test result, charge or court outcome is given, so none can be recorded.
 ---
 
 A 31-year-old man from Varna was detained after a police check showed a positive
-result for methamphetamine and cannabis use. [@1] The man was driving a van when
+result for methamphetamine and cannabis use. [@1,2] The man was driving a van when
 officers of Varna's First District Police Station stopped him, the police
-bulletin said. [@1] The check took place around midday on 4 November. [@1]
+bulletin said. [@1,2] The check took place around midday on 4 November. [@1,2]
 
 A technical device for narcotic substances recorded a positive sample for two
 kinds of drugs, methamphetamine and cannabis. [@1] After the check the driver
-was taken to a laboratory, where he gave a blood sample for testing. [@1]
+was taken to a laboratory, where he gave a blood sample for testing. [@1,2]
 
 The man was held for up to 24 hours, and a pre-trial proceeding was opened in
-the case. [@1] The police bulletin did not give the results of the laboratory
+the case. [@1,2] The police bulletin did not give the results of the laboratory
 test. [@1]
-
