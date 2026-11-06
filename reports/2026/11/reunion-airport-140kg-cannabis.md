@@ -55,6 +55,11 @@ sources:
     publisher: Zinfos974
     date: 2026-10-29
     language: fr
+  - title: 'Aéroport Roland-Garros : les douaniers saisissent 140 kg d’herbe de cannabis en provenance de Thaïlande'
+    url: https://www.linfo.re/la-reunion/societe/la-reunion-140-kg-d-herbe-de-cannabis-saisis-dans-un-fret-aerien-en-provenance-de-thailande
+    publisher: LINFO.re
+    date: 2026-09-21
+    language: fr
 open_questions:
   - The sources do not say whether the British woman or the Guianese man was charged, tried or sentenced.
   - The customs page is dated 15 September 2026, while Imaz Press dates the communiqué to 21 September 2026; the seizure dates of 9 and 10 September are consistent across sources.
@@ -76,13 +81,13 @@ media:
 ---
 
 Customs officers in Réunion seized 140 kg of cannabis herb from an air-cargo
-consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1] Agents at
+consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1,8] Agents at
 the Saint-Denis Aéroport customs office selected the consignment, which was in
-transit at Réunion. [@1] They targeted two pallets holding 40 cartons and
-X-rayed them. [@1] Behind consumer goods they found vacuum-sealed plastic bags
-hidden in black bubble wrap. [@1] In total they seized 258 bags of cannabis herb
-weighing 140 kg. [@1] Customs called it Réunion's first seizure of Thai cannabis
-herb from air freight in transit to Europe. [@1]
+transit at Réunion. [@1,8] They targeted two pallets holding 40 cartons and
+X-rayed them. [@1,8] Behind consumer goods they found vacuum-sealed plastic bags
+hidden in black bubble wrap. [@1,8] In total they seized 258 bags of cannabis herb
+weighing 140 kg. [@1,8] Customs called it Réunion's first seizure of Thai cannabis
+herb from air freight in transit to Europe. [@1,8]
 
 Less than 24 hours earlier, officers intercepted 17 kg of Thai cannabis herb on
 a British woman who had flown via Chennai. [@1] She was placed in police custody
