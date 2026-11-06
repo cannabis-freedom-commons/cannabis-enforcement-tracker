@@ -46,6 +46,11 @@ sources:
     publisher: Daily Joypur Barta
     date: 2026-11-05
     language: bn
+  - title: 'বগুড়ার সান্তাহারে ডিএনসির অভিযান: ১০২ পিস ইয়াবা ও ১০০ গ্রাম গাঁজাসহ তালিকাভুক্ত দুই মাদক কারবারি গ্রেপ্তার'
+    url: https://durnititalashnewstv.com/archives/3703
+    publisher: Durniti Talash News TV
+    date: 2026-11-05
+    language: bn
 open_questions:
   - 'The two accounts differ on the raid address: Rupali Bangladesh puts it in the Adarshapara area of Santahar, while Daily Joypur Barta describes it as in the New Bazaar area of Santahar municipal town.'
   - 'The raid time differs by about half an hour: around 10 am in Rupali Bangladesh, around 9:30 am in Daily Joypur Barta.'
@@ -59,6 +64,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Rupali Bangladesh: The officer said the two listed traders were arrested with the tablets and the 100 grams of ganja at Jambu''s own house while drugs were being sold.'
   - 'Left out, as its quotation was not found in Daily Joypur Barta: DNC sources said officers searched Jambu''s own semi-pucca house on a secret tip and found, as he was searched, 102 amphetamine-based yaba tablets wrapped in polythene inside a white plastic box, with 100 grams of ganja in a separate packet in the same polythene.'
   - 'Left out, as its quotation was not found in Daily Joypur Barta: The men were sent to court after the case was filed against them at Adamdighi police station under the drug law.'
+  - This account places the raid in the Adarshapara (New Bazaar) area of ward 3 in Santahar municipality, which reconciles the address difference the existing report records between Adarshapara and New Bazaar.
+  - This account gives no raid time, and no court outcome beyond the filing of the case.
 ---
 
 Jambu is the son of Ruhul Amin of the New Bazaar area of Santahar municipal town
@@ -74,3 +81,4 @@ In the afternoon, DNC sub-inspector Shamima Akhtar filed a case against the men
 under the drug law at Adamdighi police station. [@1] DNC sub-inspector Shamima
 Akhtar said the department's continuing drive against drugs would carry on. [@2]
 
+On 5 November 2026 DNC sub-inspector Shamima Akhtar filed a regular case at Adamdighi police station under Schedule 10(a)/19(a)/41 of section 36(1) of the Narcotics Control Act, 2018. [@3]
