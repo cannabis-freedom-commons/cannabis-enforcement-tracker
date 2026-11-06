@@ -67,6 +67,11 @@ sources:
     publisher: The Times of India
     date: 2026-11-05
     language: en
+  - title: హైదరాబాద్‌లో భారీ డ్రగ్స్ రాకెట్ గుట్టురట్టు.. అసోం గ్యాంగ్ కింగ్‌పిన్ అరెస్ట్
+    url: https://www.dishadaily.com/telangana/major-drugs-racket-busted-in-hyderabad-598825
+    publisher: Disha Daily
+    date: 2026-11-05
+    language: te
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -94,12 +99,14 @@ open_questions:
   - This account gives 20.3 kg for the 27 August car interception; an earlier open question noted a 20.36 kg figure whose quotation was not found.
   - This account spells the employer Bikas Barik; an earlier open question referred to Bikash Barik.
   - This account says Hazarika was previously arrested in three NDPS cases in Cyberabad in 2024, while the existing report names Madapoor and Gachibowli police stations for those 2024 cases.
+  - Disha Daily spells the associates Babu Bora and Pranjal Datta, where the existing report uses Babu Borah and Pranajal Dutta.
+  - The article gives no separate date for the raid; 5 November 2026 is its publication date.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -120,8 +127,10 @@ months. [@1,3] Police said Hazarika had other sources of supply. [@1]
 
 Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4]
 
-Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
+Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4,7] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
 
 Police traced more than Rs 48 lakh in online payments made in 88 instalments to Odisha supplier Ashish Kumar. [@5]
 
-Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
+Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6,7] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
+
+Hazarika had previously been caught in three ganja cases and was released on bail in each, but continued the trade. [@7] Two couriers first held by Choutuppal police, when questioned, led special teams to the gang's Hyderabad operation. [@7]
