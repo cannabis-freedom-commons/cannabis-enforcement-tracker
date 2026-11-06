@@ -65,6 +65,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-05
     language: tr
+  - title: Jandarmadan 4 bin 508 haplık operasyon
+    url: https://www.sakaryagazetesi.com.tr/jandarmadan-4-bin-508-haplik-operasyon
+    publisher: Sakarya Gazetesi
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give only the 5 November 2026 publication date and no separate date for the searches, so the publication date is used as the incident date.
   - The 4,508 synthetic pharmaceutical pills are not cannabis and are excluded from kg_seized; only the 50 grams of esrar is counted.
@@ -72,21 +77,23 @@ open_questions:
   - The Medya Gazete page image is captioned with the same seizure headline but its content is not described in text beyond that caption.
   - The Son Dakika page credits İHA and gives no separate date for the searches, so the incident date remains the 5 November 2026 publication date.
   - The 4,508 synthetic pharmaceutical pills are not cannabis and stay out of the cannabis figure; only the 50 grams of esrar is counted.
+  - This Sakarya Gazetesi page credits İHA and gives no separate date for the searches, so the incident date remains the 5 November 2026 publication date.
+  - The 4,508 synthetic pharmaceutical pills are not cannabis and are excluded from the cannabis weight; only the 50 grams of esrar is counted.
 ---
 
 Eskişehir provincial gendarmerie teams searched a vehicle and an address in
 Odunpazarı district after receiving intelligence that drugs would be brought
-into the district by vehicle and put on the market. [@1,3,5] The searches followed
+into the district by vehicle and put on the market. [@1,3,5,6] The searches followed
 technical and physical surveillance of the identified vehicle and address. [@1,3]
-Officers detained one suspect in connection with the operation. [@1,4,5]
+Officers detained one suspect in connection with the operation. [@1,4,5,6]
 
 Judicial proceedings were started against the suspect on an allegation of
-manufacturing and trading drugs or stimulants. [@1] After procedures at the
+manufacturing and trading drugs or stimulants. [@1,6] After procedures at the
 gendarmerie, the suspect was referred to the courthouse and remanded to prison
-by the court. [@1,3,5]
+by the court. [@1,3,5,6]
 
 The searches recovered 4,508 synthetic pharmaceutical pills together with 50
-grams of cannabis described as esrar. [@1,3,5] Eskişehir.Net confirmed the same
+grams of cannabis described as esrar. [@1,3,5,6] Eskişehir.Net confirmed the same
 Odunpazarı operation by gendarmerie teams, reporting 4,508 synthetic pills and
 50 grams of esrar seized and one suspect remanded. [@2] Eskişehir.Net said the
 seized substances were confiscated and the suspect was sent to prison after
