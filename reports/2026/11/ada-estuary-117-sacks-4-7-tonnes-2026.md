@@ -62,6 +62,10 @@ sources:
     publisher: 3News
     date: 2026-11-06
     language: en
+  - title: 4.8 tonnes of marijuana with over US$1m street value heading towards Nigeria seized by Ghana Navy
+    url: https://www.myjoyonline.com/4-8-tonnes-of-marijuana-with-over-us1m-street-value-heading-towards-nigeria-seized-by-ghana-navy/
+    publisher: MyJoyOnline
+    date: 2026-11-06
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -72,6 +76,8 @@ open_questions:
   - 3News gives the cargo as an estimated 4.8 tonnes, while the Ghana Navy statement and other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
   - 3News says the consignment was bound for Nigeria through the Volta Lake corridor, while the existing report says the intended foreign destination was not established.
   - The boats are placed at the Volta Lake estuary near the Talibet Bridge, while the report's place is the Ada Estuary; the sources do not establish whether these are the same spot.
+  - MyJoyOnline gives the consignment as 4.8 tons, matching 3News, while the existing report keeps 4.7 tonnes, the figure in the Navy statement and other outlets.
+  - MyJoyOnline says the boats were being prepared for transport to Nigeria; the bags were found at Ada Foah, in Ghana, before any crossing took place.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
@@ -99,4 +105,6 @@ The Navy said the interception was at least the third major abandonment of a
 cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
 March and 59 sacks found on 19 July. [@2]
 
-Ghana Navy personnel found the two wooden vessels concealed along the banks of the Volta Lake estuary at about 1:00 a.m., roughly 200 metres from the Talibet Bridge. [@4] Naval personnel searched the vessels at about 5:00 a.m. in the presence of officials from the Narcotics Control Commission, finding the 117 sacks. [@4] The individuals behind the shipment abandoned the boats and remain at large, and the Navy warned those financing or facilitating drug trafficking that operations would continue. [@4]
+Ghana Navy personnel found the two wooden vessels concealed along the banks of the Volta Lake estuary at about 1:00 a.m., roughly 200 metres from the Talibet Bridge. [@4,5] Naval personnel searched the vessels at about 5:00 a.m. in the presence of officials from the Narcotics Control Commission, finding the 117 sacks. [@4,5] The individuals behind the shipment abandoned the boats and remain at large, and the Navy warned those financing or facilitating drug trafficking that operations would continue. [@4,5]
+
+According to the Navy account, the boats were in the preparatory stages of being used to transport the narcotics to Nigeria when they were intercepted. [@5]
