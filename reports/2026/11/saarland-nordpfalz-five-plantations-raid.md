@@ -92,6 +92,11 @@ sources:
     publisher: Breaking News Saarland
     date: 2026-11-05
     language: de
+  - title: Fünf illegale Cannabisplantagen ausgehoben – mehrere Festnahmen im Saarland
+    url: https://www.tagesschau.de/inland/regional/saarland/sr-fuenf-illegale-cannabisplantagen-ausgehoben--mehrere-festnahmen-im-saarland-102.html
+    publisher: tagesschau.de
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -120,19 +125,19 @@ and dealing cannabis. [@1,4,7,8,9] The suspects allegedly used vacant buildings 
 operate illegal plantations and sold the marijuana in the surrounding Greater
 Region and in France. [@1,3,4,9] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7,8,9] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4,7,8,9,10] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
 [@2,5,9]
 
 Officers searched eleven homes and business premises in Saarland and the
-Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7,9] They seized 11.5
+Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7,9,10] They seized 11.5
 kilograms of marijuana and one kilogram of hashish, together with 33 kilograms
 of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4,6,7,8,9]
 Investigators also seized a tablet press, blank-firing and air weapons plus
 another possibly live firearm. [@2,5,9]
 
 French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3,4,7,9] The Federal Criminal Police Office
+same time and arrested 13 people. [@1,3,4,7,9,10] The Federal Criminal Police Office
 crime-scene unit, the Saarbrücken main customs office and state police helped
 secure the plantations. [@2,9] The authorities said the investigations are still
 ongoing. [@2,3,4,5,9]
