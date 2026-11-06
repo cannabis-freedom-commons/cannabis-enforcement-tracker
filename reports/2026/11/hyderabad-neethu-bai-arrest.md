@@ -19,6 +19,11 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/telangana/qnfg5z/article71670702.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-05%20at%208.09.05%20PM.jpeg
     publisher: The Hindu
     caption: 'Kalapathi Neethu Bai, captioned as arrested by EAGLE Force on 5 November. Photo credit: By Arrangement.'
+  - kind: photo
+    url: https://www.newsbytesapp.com/news/india/kalapathi-neethu-bai-arrested-by-eagle-team-in-asif-nagar/tldr
+    media_url: https://i.cdn.newsbytesapp.com/images/l144_15661793894991.jpg?tr=w-720
+    publisher: NewsBytes
+    caption: Photo captioned "Neethu Bai was arrested in Asif Nagar", used by NewsBytes with its report on the arrest; no photo credit given.
 details:
   agencies: [in-excise, in-eagle]
   agency_types: [regulator, anti-narcotics]
@@ -37,18 +42,25 @@ sources:
     url: https://www.thehindu.com/news/national/telangana/wanted-ganja-queen-neethu-bai-arrested-after-year-long-search/article71670707.ece
     publisher: The Hindu
     date: 2026-11-05
+  - title: Kalapathi Neethu Bai arrested by EAGLE team in Asif Nagar
+    url: https://www.newsbytesapp.com/news/india/kalapathi-neethu-bai-arrested-by-eagle-team-in-asif-nagar/tldr
+    publisher: NewsBytes
+    date: 2026-11-05
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
   - No charge, custody decision or court outcome after the arrest was reported.
   - Only one accessible account of this arrest was found; no separate agency statement or second outlet account could be opened.
+  - NewsBytes gives no date, station or case number for the 13 March 2024 seizure of 22.6 kg of marijuana and ₹22.10 lakh in cash, and does not say whether it is among the 31 listed cases.
+  - NewsBytes names no charge, custody decision or court outcome after the 2026 arrest.
+  - The NewsBytes photo is captioned only as Neethu Bai arrested in Asif Nagar with no credit, so its provenance is not documented.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1]
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2]
 Bai had been absconding for more than a year. [@1] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
-though they seized ₹1 lakh in cash. [@1]
+though they seized ₹1 lakh in cash. [@1,2]
 
 Bai was linked to an alleged marijuana-trafficking network across Hyderabad and
 Cyberabad. [@1] Bai and her family members operated an organised distribution
@@ -60,6 +72,7 @@ earlier and sent for de-addiction. [@1]
 Police records listed 31 cases against Bai dating back to 2018, including
 offences under the Narcotic Drugs and Psychotropic Substances Act and the
 Telangana Excise Act, registered across Hyderabad, Cyberabad and other parts of
-Telangana. [@1] EAGLE was expected to question Bai about the supply chain,
+Telangana. [@1,2] EAGLE was expected to question Bai about the supply chain,
 consumers connected to the network and proceeds from trafficking. [@1]
 
+On 13 March 2024, police seized 22.6 kg of marijuana and ₹22.10 lakh in cash from her. [@2]
