@@ -37,6 +37,11 @@ sources:
     publisher: Cooperativa
     date: 2026-09-13
     language: es
+  - title: 'Los "cariñositos" no llegarán a Puente Alto: incautan una tonelada de marihuana de origen boliviano'
+    url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/17/los-carinositos-no-llegaran-a-puente-alto-incautan-una-tonelada-de-marihuana-de-origen-boliviano.shtml
+    publisher: BioBioChile
+    date: 2026-09-17
+    language: es
 media:
   - kind: photo
     url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/13/pdi-decomisa-811-kilos-de-marihuana-que-eran-internados-desde-bolivia-a-la-region-metropolitana.shtml
@@ -50,7 +55,7 @@ media:
 ---
 
 Chile's investigative police (PDI) arrested four people and seized 811 kg of cannabis sativa in San
-Bernardo, in the Metropolitan Region, the force announced on 13 September 2026. [@1,2]
+Bernardo, in the Metropolitan Region, the force announced on 13 September 2026. [@1,2,3]
 
 The operation, called Pacto Andino IV, targeted an organisation that brought marijuana from Bolivia
 into Chile; the house in San Bernardo was used to store the drug before delivery to buyers. [@1,2]
