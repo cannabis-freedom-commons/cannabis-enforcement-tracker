@@ -28,6 +28,10 @@ sources:
     publisher: Kharibot
     date: 2026-08-23
     language: ne
+  - title: Two Myanmar nationals arrested with 8.238 kg of marijuana brought from Thailand
+    url: https://myrepublica.nagariknetwork.com/news/two-myanmar-nationals-arrested-with-8238-kg-of-marijuana-brought-from-thail-38-61.html
+    publisher: MyRepublica
+    date: 2026-08-23
 open_questions:
   - The articles give no separate date for the arrest; 23 August 2026 is the publication date and is used as the incident date.
   - 'The second suspect''s age differs between accounts: myRepublica gives 21-year-old Nay Thu Ren while Kharibot and NepalWatch give 29; the report uses myRepublica''s figure.'
@@ -37,11 +41,11 @@ open_questions:
 ---
 
 Nepal's Narcotics Control Bureau arrested two Myanmar nationals in Kathmandu
-with 8.238 kilograms of marijuana allegedly brought from Thailand. [@1] The
+with 8.238 kilograms of marijuana allegedly brought from Thailand. [@1,3] The
 suspects were identified as 27-year-old Aye Thida Aung and 21-year-old Nay Thu
 Ren, both residents of Yangon, Myanmar. [@1] The two were arrested after they
 arrived in Kathmandu from Suvarnabhumi International Airport in Thailand on
-Nepal Airlines flight RA 402. [@1]
+Nepal Airlines flight RA 402. [@1,3]
 
 A team deployed from the Gochar Section at Tribhuvan International Airport found
 the marijuana concealed in their suitcases while conducting passenger profiling
@@ -52,4 +56,3 @@ passports and two mobile phones from them along with the marijuana. [@2]
 
 Police said further investigation into the case was underway. [@1] The Bureau
 also said the two detainees remained under further investigation. [@2]
-
