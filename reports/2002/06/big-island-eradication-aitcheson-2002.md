@@ -18,11 +18,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  environment: [indoor, outdoor]
   products: [{product: flower}, {product: plants, plants: 14425}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.plants_destroyed: [1]

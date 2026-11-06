@@ -22,10 +22,12 @@ created_by_model: spacexai/grok-4.7
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
+  environment: [outdoor]
   setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.environment: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.hectares: [1]

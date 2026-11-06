@@ -17,6 +17,7 @@ details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
+  environment: [indoor]
   products: [{product: flower}]
   setting: [field, home, building]
 data_sources:
@@ -24,6 +25,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6, 7]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7]
   details.case_stage: [1, 4, 5, 6, 7, 2]
+  details.environment: [1, 4, 5, 6, 7, 2]
   details.products: [1, 4, 5, 6, 7]
   details.setting: [1, 4, 5, 6, 7, 2]
 status: reported

@@ -22,10 +22,12 @@ details:
   activity: [cultivation]
   agencies: [nz-police]
   agency_types: [police]
+  environment: [outdoor]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1]

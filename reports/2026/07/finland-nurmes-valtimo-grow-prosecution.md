@@ -21,10 +21,12 @@ created_by_model: deepseek/deepseek-v4.1-flash#max
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
+  environment: [indoor]
   products: [{product: plants}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
 status: verified

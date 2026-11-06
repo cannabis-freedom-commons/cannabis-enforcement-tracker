@@ -22,6 +22,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
+  environment: [indoor]
   products:
     - {product: edibles}
   setting: [home, building]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.environment: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

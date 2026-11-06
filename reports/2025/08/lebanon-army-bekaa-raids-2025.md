@@ -13,8 +13,10 @@ summary: >-
   law.
 created_by_model: unknown
 details:
+  environment: [indoor]
   setting: [field]
 data_sources:
+  details.environment: [1]
   details.setting: [1]
 status: verified
 cfi_id: lebanon-army-bekaa-raids-2025

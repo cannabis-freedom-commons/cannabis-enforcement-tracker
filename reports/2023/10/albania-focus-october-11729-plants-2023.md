@@ -19,10 +19,12 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
+  environment: [indoor]
   products: [{product: plants, plants: 11729}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]

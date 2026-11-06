@@ -15,11 +15,13 @@ summary: >-
 details:
   activity: [cultivation]
   case_stage: investigation
+  environment: [indoor]
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
 media:

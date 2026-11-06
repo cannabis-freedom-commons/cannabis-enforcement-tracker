@@ -20,10 +20,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
+  environment: [outdoor]
   setting: [field, building, mail]
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [1, 2, 3]
+  details.environment: [2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2]
 media:

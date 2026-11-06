@@ -14,9 +14,11 @@ created_by_model: unknown
 details:
   activity: [smuggling]
   agency_types: [police]
+  environment: [indoor]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.environment: [1, 2, 3]
 status: verified
 cfi_id: bahrain-adliya-cannabis-farm-2025
 sources:

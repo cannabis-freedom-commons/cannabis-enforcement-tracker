@@ -20,8 +20,10 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [gendarmerie, police]
+  environment: [outdoor]
 data_sources:
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [lice, diyarbakir, destruction, gendarmerie]
 sources:

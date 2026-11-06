@@ -25,6 +25,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: hashish}, {product: flower}]
   setting: [home]
 data_sources:
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
   details.case_stage: [2, 1, 3, 4]
+  details.environment: [1, 3, 4, 2]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 4, 1, 3]
 status: reported

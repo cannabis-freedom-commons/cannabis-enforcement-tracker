@@ -13,9 +13,11 @@ summary: >-
   that a small outdoor plot is prosecuted as a crime, not treated as a minor infraction.
 created_by_model: unknown
 details:
+  environment: [outdoor]
   products: [{product: plants}]
   setting: [forest, home]
 data_sources:
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

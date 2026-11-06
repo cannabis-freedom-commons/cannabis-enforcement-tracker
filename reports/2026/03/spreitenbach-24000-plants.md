@@ -19,10 +19,12 @@ figures:
   kg_seized: 1000
 details:
   agency_types: [police, prosecutor]
+  environment: [indoor]
   products: [{product: flower, kg: 1000}, {product: plants}]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1, 2]

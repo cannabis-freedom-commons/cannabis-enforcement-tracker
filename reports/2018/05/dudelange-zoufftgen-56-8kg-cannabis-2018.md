@@ -17,10 +17,12 @@ figures:
     currency: EUR
 details:
   agency_types: [customs]
+  environment: [outdoor]
   products: [{product: flower, kg: 56.8}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

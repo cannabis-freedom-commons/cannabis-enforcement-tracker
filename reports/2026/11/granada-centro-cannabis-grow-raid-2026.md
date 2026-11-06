@@ -15,9 +15,11 @@ figures:
   arrested: 2
 details:
   agency_types: [police]
+  environment: [indoor]
   products: [{product: plants}]
 data_sources:
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1, 2]
   figures.arrested: [1]
 media:

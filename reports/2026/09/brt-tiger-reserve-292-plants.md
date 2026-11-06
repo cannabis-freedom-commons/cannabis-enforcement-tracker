@@ -27,12 +27,14 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  environment: [indoor]
   setting: [forest]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.charged: [1]

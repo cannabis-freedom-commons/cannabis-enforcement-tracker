@@ -20,10 +20,12 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
+  environment: [indoor]
   setting: [field, home]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 2, 3]
+  details.environment: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 tags: [plantation, vietnamese-network, kripos]

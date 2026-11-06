@@ -19,11 +19,13 @@ figures:
 details:
   activity: [cultivation, possession]
   case_stage: charged
+  environment: [indoor]
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 3, 2]
   details.case_stage: [1, 3, 2]
+  details.environment: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 3]
   figures.plants_destroyed: [1, 2, 3]

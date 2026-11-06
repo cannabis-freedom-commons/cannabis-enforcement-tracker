@@ -30,6 +30,7 @@ media:
 details:
   agency_types: [military, police, prosecutor]
   case_stage: sentenced
+  environment: [outdoor]
   sentence_types: [prison]
   setting: [border]
   products:
@@ -37,6 +38,7 @@ details:
 data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [3, 1]
+  details.environment: [3, 1]
   details.products: [1]
   details.sentence_types: [3, 1]
   details.setting: [1, 2]

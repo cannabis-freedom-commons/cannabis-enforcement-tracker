@@ -12,6 +12,10 @@ summary: >-
   from Thailand, where legalisation had made strong indoor-grown cannabis easy to buy, and
   investigators said the destination was India.
 created_by_model: unknown
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 cfi_id: nepal-thai-cannabis-airport-2025
 sources:

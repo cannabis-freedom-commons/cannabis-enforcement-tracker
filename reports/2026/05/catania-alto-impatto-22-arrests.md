@@ -22,11 +22,13 @@ created_by_model: unknown
 details:
   agency_types: [police]
   case_stage: investigation
+  environment: [indoor, outdoor]
   products: [{product: hashish, kg: 33}, {product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

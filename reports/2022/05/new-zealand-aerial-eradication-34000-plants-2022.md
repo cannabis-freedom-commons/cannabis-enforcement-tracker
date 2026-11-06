@@ -17,10 +17,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  environment: [indoor]
   products: [{product: plants, plants: 34000}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.environment: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

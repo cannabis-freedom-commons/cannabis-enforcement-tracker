@@ -21,11 +21,13 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  environment: [outdoor]
   setting: [home]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.environment: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

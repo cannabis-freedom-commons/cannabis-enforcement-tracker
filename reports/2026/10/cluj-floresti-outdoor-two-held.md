@@ -22,11 +22,13 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  environment: [outdoor]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]

@@ -23,12 +23,14 @@ details:
   activity: [sale]
   agency_types: [prosecutor]
   case_stage: acquitted
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 3, 1, 4]
   details.case_stage: [2]
+  details.environment: [2]
   details.products: [2]
   details.setting: [2, 3]
   figures.charged: [2]

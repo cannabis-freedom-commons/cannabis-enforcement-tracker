@@ -21,6 +21,7 @@ details:
   agencies: [cz-npc]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  environment: [indoor]
   products:
     - {product: hashish}
   sentence_types: [prison]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.environment: [2]
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
