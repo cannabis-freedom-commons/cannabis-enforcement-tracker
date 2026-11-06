@@ -58,12 +58,17 @@ sources:
     url: https://wach.com/news/local/2026-11-05-2-arrested-after-400k-in-drugs-six-guns-seized-in-sumter-county-devante-wilson-alvin-reams-crime-investigation-narcotics
     publisher: WACH FOX 57
     date: 2026-11-05
+  - title: 2 arrested after $400K in drugs, six guns seized in Sumter County
+    url: https://abcnews4.com/news/state/2026-11-05-2-arrested-after-400k-in-drugs-six-guns-seized-in-sumter-county-devante-wilson-alvin-reams-crime-investigation-narcotics?teaserSource=trending
+    publisher: ABC News 4
+    date: 2026-11-05
 open_questions:
   - The article gives only 'Tuesday' for the raid; 3 November 2026 is inferred from the 5 November 2026 publication date.
   - The $400,000 street value covers all the seized drugs together (methamphetamine, fentanyl, cocaine, crack and marijuana); no separate marijuana value was published.
   - No bond, court appearance, plea or trial outcome was reported; the sheriff described the investigation as open with more arrests expected.
   - Only one outlet's report could be opened (also carried by its sister station WCIV); no independent second account of the raid was found.
   - 'Left out, as its quotation was not found in WACH FOX 57: Sheriff Anthony Dennis said the investigation began with complaints from the community and remains open, with more arrests expected.'
+  - The ABC News 4 page carries the same newsroom account as the existing WACH report, so it is not an independent second source.
 ---
 
 Sumter County sheriff's deputies arrested two Sumter men, Alvin Reams, 30, and
@@ -71,7 +76,7 @@ Devante' Wilson, 28, on drug and weapons charges after a search of a home on
 Woodlawn Avenue. [@1] The arrests came on Tuesday, 3 November 2026, when the
 sheriff's office Drug Unit, helped by the Sheriff's Emergency Response Team,
 served a search warrant at the home. [@1] Authorities said the two men ignored
-deputies' commands and ran before they were caught after a brief chase. [@1]
+deputies' commands and ran before they were caught after a brief chase. [@1,2]
 
 Reams was charged with trafficking crack cocaine, methamphetamine and fentanyl,
 possession with intent to distribute marijuana, possession of a weapon during a
@@ -81,7 +86,8 @@ of trafficking methamphetamine and fentanyl, possession with intent to
 distribute marijuana and possession of a weapon during a violent crime. [@1]
 Deputies recovered 464.5 grams of marijuana (about 0.46 kg) along with 1,866
 grams of methamphetamine, 217.25 grams of fentanyl, 126 grams of cocaine and 146
-grams of crack cocaine. [@1] Investigators also seized six guns. [@1] The
+grams of crack cocaine. [@1,2] Investigators also seized six guns. [@1,2] The
 sheriff's office estimated the street value of all the seized drugs at $400,000.
-[@1]
+[@1,2]
 
+Sheriff Anthony Dennis said the investigation that resulted in the arrests began when the office received complaints from the community. [@2]
