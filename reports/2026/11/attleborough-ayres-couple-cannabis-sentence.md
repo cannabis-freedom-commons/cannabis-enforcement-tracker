@@ -51,6 +51,10 @@ sources:
     url: https://www.edp24.co.uk/news/26704043.couple-70s-caught-running-cannabis-farm-1m-home/
     publisher: Eastern Daily Press
     date: 2026-11-05
+  - title: Elderly Attleborough couple sentenced after cannabis farm found in their home
+    url: https://www.hellorayo.co.uk/greatest-hits/norfolk/news/elderly-attleborough-couple-sentenced-after-cannabis-farm-found-in-their-home
+    publisher: Greatest Hits Radio (Norfolk and North Suffolk)
+    date: 2026-11-05
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -62,16 +66,16 @@ open_questions:
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
-near Attleborough in Norfolk. [@1,4] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4]
+near Attleborough in Norfolk. [@1,4,5] Marion Ayres was given nine months in prison,
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
-with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4]
+with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5]
 
 Both were arrested after Norfolk Constabulary officers executed a warrant at the
 couple's home on 20 May 2025, as part of an investigation into cannabis supply
 in the area. [@2] Officers found 25 cannabis plants and approximately 5.7 kg of
 dried cannabis, which police estimated had a street value of more than £46,000.
-[@1,4] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
+[@1,4,5] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
 guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
 28 cannabis plants on that date. [@3] Marion Ayres denied both charges at that
 stage and was sent to Norwich Crown Court for a trial preparation hearing. [@3]
