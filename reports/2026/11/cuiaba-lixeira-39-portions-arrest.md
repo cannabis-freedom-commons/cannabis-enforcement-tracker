@@ -72,11 +72,13 @@ open_questions:
   - The submitted account describes no street name; Rua Linhares comes from Gazeta Digital.
   - The pages do not say when the case file will be sent to a court, and no defence statement was published.
   - The HiperNotícias page shows an image file named '05.11 droga rotam (1).jpg' with no descriptive caption or credit, so it is not established to show this seizure and no media entry is added.
+  - Gazeta Digital names the alley as the nearby location for the vacant lot, while the Military Police statement says the lot was near an alley; the reports agree on the store.
+  - No weight, street value or number of plants was published for the 39 portions in this account.
 ---
 
 Officers of Rotam, the Military Police's tactical patrol battalion, arrested an
 18-year-old man for drug trafficking in the Lixeira neighbourhood of Cuiabá in
-the late afternoon of Wednesday 4 November 2026. [@1] The officers went to the
+the late afternoon of Wednesday 4 November 2026. [@1,2] The officers went to the
 neighbourhood after the intelligence sector reported a drug sales point and the
 suspect responsible for it. [@1,4] The arrest arose from information passed on by
 the state public security secretariat's intelligence service about a drug sales
@@ -84,7 +86,7 @@ point in Lixeira, which also identified the man running it. [@3]
 
 They stopped him on Rua Linhares and found three portions of a cannabis-like
 substance on him. [@2] Police said the suspect admitted he was selling the drug
-and told them where more was stored, in a vacant lot next to an alley. [@1,4]
+and told them where more was stored, in a vacant lot next to an alley. [@1,2,4]
 
 In the lot, officers found a bag with another 36 cannabis portions in plastic
 packaging, ready for sale. [@1] The seizure totalled 39 cannabis portions, with
