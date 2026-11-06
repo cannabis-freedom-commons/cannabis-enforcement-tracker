@@ -52,17 +52,25 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'Bagaha News: दो किलो गांजा संग तीन तस्कर धराये, Bagaha Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/bagaha/story-lauriya-police-arrest-three-cannabis-smugglers-seize-2-972-kg-of-ganja-201793898110942.html
+    publisher: Live Hindustan
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither account gives a separate date for the raid; 5 November 2026 is the publication date of both reports and is used as the incident date.
   - No seizure value, NDPS sections, case number, charge sheet or court outcome was published.
   - Neither account says where the ganja came from or who supplied it.
   - The submitted page's lone usable photo carries only a file-name caption and no credit, so it could not be confirmed to show this seizure.
   - Desh Vani says the bikes were searched after the men were caught while Bhaskar says they were questioned before the search; the accounts do not materially differ.
+  - Live Hindustan dates the arrest to Thursday, 5 November 2026, matching the date the existing report uses from publication; the other accounts give no separate date.
+  - Live Hindustan lists a sub-inspector named Priya Ranjan where the existing report names Priya Ranjana; the report keeps its original spelling.
+  - The Live Hindustan page's only image uses an October 2025 file-address frame, so no event photo is added from it.
 ---
 
 Police in Lauriya police station area, West Champaran, arrested three young men
 on suspicion of selling ganja. [@2] Police raided under the Matiyariya bridge
-and caught three youths riding two bikes. [@1] The three were identified as
+and caught three youths riding two bikes. [@1,3] The three were identified as
 Naseem Ahmed, 25, son of Sheikh Haroon of Sahanwala Pakdi in the Matiyariya
 station area, Mohd Dilshad, 19, son of Sheikh Mohan, and Suraj Kumar, 22, son of
 Shyamal Sheel of Pachrukha colony. [@1]
@@ -79,3 +87,4 @@ Sugriv Kumar and Priya Ranjana and other personnel. [@1]
 Paswan said all three accused had been arrested and the necessary legal
 procedure was being completed. [@1]
 
+The raid took place at the rubbish building near the Matiyariya bridge, where the suspects ran on seeing police. [@3] Police acted after station house officer Indrajeet Paswan passed the tip to Narkatiaganj SDPO Prasanna Kumar M B, who directed the raid. [@3]
