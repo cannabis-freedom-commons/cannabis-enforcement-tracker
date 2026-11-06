@@ -127,6 +127,11 @@ sources:
     publisher: Informasi.com
     date: 2026-11-02
     language: id
+  - title: Niat Pakai Ganja saat Malam Pergantian Tahun Batal usai Pria di Sragen Diringkus Polisi - Halaman 2
+    url: https://m.tribunnews.com/regional/7907221/niat-pakai-ganja-saat-malam-pergantian-tahun-batal-usai-pria-di-sragen-diringkus-polisi?page=2
+    publisher: Tribunnews.com
+    date: 2026-11-05
+    language: id
 open_questions:
   - IDN Times reported the payment as Rp2 million per kilogram, while RRI quoted police saying the Rp2 million was for the whole delivery.
   - RRI described the seizure as 'more than 12 kilograms'; this report uses the 12 kilograms given by police and IDN Times.
@@ -149,13 +154,15 @@ open_questions:
   - Salingka Media reports that, after Law No. 1 of 2026, Articles 114(2) and 111(2) carry the death penalty, life imprisonment or up to 20 years, with the maximum fine increased by one-third; the report records up to 20 years and a maximum fine of Rp10 billion, following other outlets.
   - Salingka Media gives Tri Suhartanto the rank of Inspector and calls him head of the Bandung district police, while the report and other outlets call him Bandung police chief Commissioner.
   - The new source spells the rented-room village as Kampung Citamiang Kidul, while the existing report uses Kampung Cikanyang Kidul.
+  - The page title and tags name Sragen in Central Java, but the body places the house, arrest and press conference in Dayeuhkolot and Mapolresta Bandung; this result follows the body's Dayeuhkolot account.
+  - The page lists one image file named Berihaticom-via-Tribun-Jatim.jpg with no caption showing it depicts this seizure, so no media entry is added.
 ---
 
 Police in Kabupaten Bandung arrested a man they identified as AR, 27, on
 suspicion of dealing cannabis. [@1,3,4,5,6,7,8,11,12] They detained him at his rented room in
 Kampung Cikanyang Kidul, Dayeuhkolot, on Wednesday 28 October 2026. [@1]
 Officers seized 12 kilograms of cannabis that police said had been sent from
-Medan and secured in the Kiaracondong area. [@1,3,8] The case began with drug
+Medan and secured in the Kiaracondong area. [@1,3,8,13] The case began with drug
 transactions police detected at Kiaracondong bus terminal in Bandung city. [@1]
 Bandung police chief Commissioner Tri Suhartanto announced the case at a press
 conference on 30 October. [@1,4,7] He said AR was suspected of planning to send the
@@ -167,7 +174,7 @@ Police said AR was paid Rp2 million for the job. [@2,5] IDN Times reported the
 payment as Rp2 million for each kilogram he distributed. [@1] AR told police
 this was his second run; on the first he carried a suitcase with about 6
 kilograms of cannabis. [@2] Police said he also consumed cannabis, brewing it as
-a tea. [@2,4,7,9,10,12] He told them he had not drunk the brew before officers arrived. [@2]
+a tea. [@2,4,7,9,10,12,13] He told them he had not drunk the brew before officers arrived. [@2,13]
 
 Police charged AR under Articles 114(2) and 111(2) of the 2009 Narcotics Law.
 [@1,3,4,5,6,7,10,12] The offences carry up to 20 years in prison and a maximum fine of Rp10
@@ -179,4 +186,4 @@ Officers went to Jalan Kiara Condong No. 411 in Kiaracondong, Bandung city, at a
 
 At the rented room, officers found two black plastic bags and a teapot holding dried stems and branches believed to be cannabis, one rolled joint and a red iPhone. [@5] Police put ALF alias BU, the suspected controller, on their wanted list and said they were hunting him. [@5]
 
-The arrest took place at about 19:00 on 28 October 2026. [@6,7,8,10]
+The arrest took place at about 19:00 on 28 October 2026. [@6,7,8,10,13]
