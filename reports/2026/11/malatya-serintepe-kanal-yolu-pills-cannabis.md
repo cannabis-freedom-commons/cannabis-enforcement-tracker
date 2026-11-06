@@ -35,6 +35,11 @@ sources:
     publisher: Kahta Haber Postası
     date: 2026-11-05
     language: tr
+  - title: 'Malatya''da uyuşturucu operasyonu: 3 gözaltı'
+    url: https://mansethaber.com/gundem/malatyada-uyusturucu-operasyonu-3-gozalti
+    publisher: Manşet Haber
+    date: 2026-11-05
+    language: tr
 open_questions:
   - Neither account says which unit carried out the checks or where exactly on the road the suspects were stopped.
   - The suspects are described only as three people; no names, ages, or the charges they face were published.
@@ -43,6 +48,7 @@ open_questions:
   - No street value for the esrar was published.
   - Both outlets carry the governor's statement almost verbatim, so the three-suspect count and quantities are not independently corroborated.
   - The reports do not say whether the 12 grams were found on the suspects or nearby along the road.
+  - Manşet Haber describes searches at the suspects’ addresses, while the existing accounts place the checks along Kanal Yolu; whether those addresses were on that road is unclear.
 ---
 
 Three people were named as suspects after security forces searched along Kanal
@@ -51,7 +57,7 @@ judicial investigation was opened against the three suspects in connection with
 the seizure. [@1]
 
 Officers seized 6,050 narcotic pills packed in 121 boxes together with 12 grams
-of esrar, the Turkish name for cannabis. [@1] Malatya governor Seddar Yavuz
+of esrar, the Turkish name for cannabis. [@1,3] Malatya governor Seddar Yavuz
 announced the seizure, not a police directorate statement. [@1]
 
 Yavuz said the checks on 4 November 2026 found 6,050 narcotic pills in 121 boxes
@@ -62,3 +68,4 @@ checks as part of continuing controls on drug production and trade across
 Malatya. [@2] Kahta Haber Postası reported that the seized material was taken
 into custody. [@2]
 
+Manşet Haber described the 6,050 pills as sentetik ecza, or synthetic pharmaceutical pills. [@3] The operation was carried out by Battalgazi District Police, part of the Malatya Provincial Police Directorate. [@3] Police searched the suspects’ addresses as part of the operation. [@3] Police detained three suspects and took them to the station, where their processing was still continuing. [@3]
