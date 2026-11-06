@@ -26,6 +26,15 @@ sources:
     url: https://www.cna.al/english/kronika/zbulohen-2-raste-shitje-esh-2-arrestime-ne-flagrance-sekuestrohe-i478928
     publisher: CNA.al
     date: 2026-11-04
+  - title: 2 people arrested in Tirana with cocaine, cannabis and an imitation pistol in their car
+    url: https://www.balkanweb.com/en/me-kokaine-kanabis-dhe-pistolete-imituese-ne-makine-arrestohen-2-persona-ne-tirane/
+    publisher: BalkanWeb
+    date: 2026-11-04
+  - title: Sekuestrohen kokainë, kanabis dhe një pistoletë, arrestohen dy persona në Tiranë
+    url: https://top-channel.tv/2026/11/04/sekuestrohen-kokaine-kanabis-dhe-nje-pistolete-arrestohen-dy-persona-ne-tirane/
+    publisher: Top Channel
+    date: 2026-11-04
+    language: sq
 open_questions:
   - No weight or dose count was published for the suspected cocaine or cannabis, so no kilograms can be recorded.
   - The articles give no separate date for the stops; 4 November 2026 is the publication date and is used as the incident date.
@@ -33,22 +42,22 @@ open_questions:
   - Cannabis was described only in the 36-year-old's possession while the 50-year-old's vehicle search was described only as cocaine, so the substances cannot be separated into totals.
   - Both accounts repeat the police version and no separate police-statement page was opened directly.
   - The submitted page image is captioned only as Capture, which does not establish that it shows this seizure, so no media entry is included.
+  - Top Channel says the operation struck two additional drug-selling cases in Tirana but does not say whether either arrested man was under prior investigation.
 ---
 
 Police in Tirana arrested R.S., 36, and I.S., 50, both residents of Tirana, on
-suspicion of selling cocaine and cannabis. [@1] The arrests were carried out in
+suspicion of selling cocaine and cannabis. [@1,3] The arrests were carried out in
 police operation Variety by Narcotics Investigation specialists together with
-the Shigjeta special force during permanent controls. [@2] Officers stopped the
+the Shigjeta special force during permanent controls. [@2,4] Officers stopped the
 36-year-old on Njazi Meka street and found suspected quantities and doses of
 cocaine and cannabis during a physical search and in searches of his apartment
-and the vehicle he was driving. [@1] Officers also found an imitation firearm
-pistol with metal bullets inside the vehicle driven by the 36-year-old. [@1]
+and the vehicle he was driving. [@1,3] Officers also found an imitation firearm
+pistol with metal bullets inside the vehicle driven by the 36-year-old. [@1,3]
 
 Officers stopped the 50-year-old on Zogu i Parë Boulevard and searched the
-vehicle he was driving. [@1] During that vehicle search officers found a
+vehicle he was driving. [@1,3] During that vehicle search officers found a
 suspected quantity of cocaine divided into doses that police said was prepared
-for sale. [@1] Police seized the suspected narcotics, the imitation pistol, the
-two vehicles and the mobile phones of those arrested. [@1] Police referred the
+for sale. [@1,3] Police seized the suspected narcotics, the imitation pistol, the
+two vehicles and the mobile phones of those arrested. [@1,3] Police referred the
 procedural materials in the case to the prosecution for further action following
-the operation. [@2]
-
+the operation. [@2,4]
