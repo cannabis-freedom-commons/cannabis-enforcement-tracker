@@ -33,6 +33,11 @@ media:
     media_url: https://cgsandesh.com/Content/News/202611195401000017202611195401000007.jpg
     publisher: CG Sandesh
     caption: 'Lead photo on CG Sandesh''s report on the 476.5 kg ganja seizure in Jagdalpur; the page gives no caption or credit beyond the headline. Photo: CG Sandesh'
+  - kind: photo
+    url: https://navabharat.news/tobacco-worth-over-%E2%82%B92-38-crore-seized-seven-individuals-arrested-suspicions-raised-regarding-links-between-the-accused-and-the-opposition/
+    media_url: https://navabharat.news/wp-content/uploads/2026/11/Ganja1.jpg
+    publisher: Navabharat News
+    caption: 'Lead photograph on Navabharat''s report, captioned only with the headline about the 2.38 crore rupee ganja seizure and seven arrests in Bastar; the page gives no credit. Photo: Navabharat News'
 details:
   products:
     - {product: flower}
@@ -122,6 +127,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 2.38 करोड़ से अधिक का गांजा पकड़ाया, सात आरोपी गिरफतार, तस्करों के तार उड़ीसा से जुड़े होने का शक
+    url: https://navabharat.news/tobacco-worth-over-%E2%82%B92-38-crore-seized-seven-individuals-arrested-suspicions-raised-regarding-links-between-the-accused-and-the-opposition/
+    publisher: Navabharat News
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -163,10 +173,14 @@ open_questions:
   - Dainik Bhaskar names the ASP as Sukhnandan Singh while the existing report names Sukhnandan Rathore.
   - The page's combined figure of 884 kg 410 g worth about Rs 5.92 crore spans the Jagdalpur, Kanker and Keshkal actions and is not recorded as this event's figure.
   - The page's two images are captioned only for the combined total and do not clearly show this interception, so no media entry is added.
+  - Navabharat gives the consignment as 476 kg, while the existing report retains the more precise 476 kg 500 g from earlier sources.
+  - Navabharat's page address and English rendering call the seized substance tobacco, while its Hindi text describes ganja throughout.
+  - Navabharat attributes its account to police sources, names no officer and gives no accused names or court detail.
+  - The page photograph is captioned only with the headline and carries no credit, so it cannot be shown to depict this particular load.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14,16] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14,16,17] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
 Chitrasen Gallauri, 22. [@2,7,8,13,15,16] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2,13,16] Haribhoomi
@@ -178,7 +192,7 @@ set up a blockade near Adamvali railway crossing. [@2,5,9,13,16] Officers saw tw
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2,9,13] The pickup held
 450 packets of ganja hidden in 15 sacks. [@2,5,7,10,16] Police valued the cannabis at 2
-crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13,15,16] Besides the
+crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13,15,16,17] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5,9,13,16]
 
@@ -192,14 +206,14 @@ traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
 rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15,16] Officers seized a Tata pickup and a
-motorcycle used in the smuggling at the scene. [@1,3,4,6,12] Jagdalpur police sealed off
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15,16,17] Officers seized a Tata pickup and a
+motorcycle used in the smuggling at the scene. [@1,3,4,6,12,17] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1,6]
 
 Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
-Uttar Pradesh. [@1,4,11]
+Uttar Pradesh. [@1,4,11,17]
 
 The intercepted white pickup bore registration number CG 17 KL 0411. [@8,13] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10,13]
 
