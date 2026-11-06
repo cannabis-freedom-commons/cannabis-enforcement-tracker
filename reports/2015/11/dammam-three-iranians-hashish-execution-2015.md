@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  figures.deaths: [1, 2]
 status: verified
 tags: [saudi-arabia, hashish, beheading, iranians]
 sources:

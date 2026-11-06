@@ -50,6 +50,7 @@ data_sources:
   details.products: [1]
   details.route: [1, 2, 4]
   details.setting: [1]
+  figures.arrested: [1, 3, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 29256fa9b3eeffd177c9d39458ffe201

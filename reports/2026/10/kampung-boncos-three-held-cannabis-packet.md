@@ -39,6 +39,7 @@ data_sources:
   details.agency_types: [2, 4, 5, 6, 1, 3]
   details.products: [2, 4, 5, 6]
   details.setting: [2, 4, 5, 6, 1, 3]
+  figures.arrested: [2, 4, 5, 6, 1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: ccce5d0d271fd14f7d731b63ac916d8f

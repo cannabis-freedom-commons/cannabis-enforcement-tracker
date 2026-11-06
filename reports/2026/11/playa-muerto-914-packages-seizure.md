@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.midiario.com/policiales/golpe-en-playa-muerto-decomisan-914-paquetes-de-presunta-droga-y-aprehenden-a-dos/

@@ -36,6 +36,7 @@ data_sources:
   details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 media:
   - kind: photo

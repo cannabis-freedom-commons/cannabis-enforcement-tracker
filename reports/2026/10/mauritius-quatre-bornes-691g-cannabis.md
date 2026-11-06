@@ -22,6 +22,7 @@ details:
   activity: [smuggling, trafficking]
 data_sources:
   details.activity: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
 media:
   - kind: photo
     url: https://lexpress.mu/node/563875

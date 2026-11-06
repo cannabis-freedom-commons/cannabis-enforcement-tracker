@@ -18,6 +18,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 7]
   details.case_stage: [1, 3, 4, 8, 10, 5]
+  figures.arrested: [1, 4, 6, 9, 10]
 media:
   - kind: photo
     url: https://www.chinatimes.com/realtimenews/20261104002312-260402

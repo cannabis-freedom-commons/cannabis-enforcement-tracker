@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://life.tw/article/%E6%9D%BF%E6%A9%8B%E8%AD%A6%E8%B7%A8%E5%8D%80%E8%BF%BD%E7%B7%9D%E9%80%AE5%E4%BA%BA-%E6%9F%A5%E6%89%A3%E5%A4%9A%E7%A8%AE%E6%AF%92%E5%93%81%E5%8F%8A%E5%88%86%E8%A3%9D%E5%B7%A5%E5%85%B7-3198409

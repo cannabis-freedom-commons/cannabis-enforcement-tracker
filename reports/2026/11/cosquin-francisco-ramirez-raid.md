@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.eldiariodecarlospaz.com.ar/sucesos/2026/11/4/golpe-al-narcomenudeo-en-cosquin-allanaron-una-casa-y-encontraron-cocaina-y-marihuana-263598.html

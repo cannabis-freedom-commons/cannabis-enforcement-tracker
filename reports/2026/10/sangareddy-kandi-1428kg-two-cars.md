@@ -32,6 +32,7 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [cars, odisha-route, maharashtra-route]

@@ -53,6 +53,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 5, 6, 7]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

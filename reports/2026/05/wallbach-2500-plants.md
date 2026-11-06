@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium

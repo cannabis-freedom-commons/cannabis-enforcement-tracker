@@ -22,6 +22,8 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 3, 2]
+  figures.charged: [1, 3]
 media:
   - kind: photo
     url: https://babelteraktual.co/2026/10/24/2-pengedar-660-gram-ganja-ditangkap-polisi-barang-bukti-disembunyikan-di-mesin-cuci-dan-kandang-ayam/

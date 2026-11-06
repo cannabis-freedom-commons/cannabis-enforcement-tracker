@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [1, 4, 2, 3]
   details.agency_types: [1, 4, 2, 3]
+  figures.charged: [1]
 media:
   - kind: video
     url: https://globalnews.ca/news/12124551/halifax-police-fentanyl-ghb-seizure/

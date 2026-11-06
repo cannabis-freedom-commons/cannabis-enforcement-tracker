@@ -20,6 +20,8 @@ details:
 data_sources:
   details.activity: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 00f7a867f6292f02e8113b70e95c07ca

@@ -25,6 +25,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [israel-police, tel-aviv, kfar-shalem]

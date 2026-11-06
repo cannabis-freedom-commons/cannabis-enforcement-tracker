@@ -32,6 +32,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1]
+  figures.arrested: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a6a61c8cc7adaf66bdc670b56f9c938e

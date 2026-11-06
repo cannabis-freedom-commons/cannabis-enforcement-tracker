@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [grad, grand-bassam, epervier, port-autonome-abidjan]
 open_questions:

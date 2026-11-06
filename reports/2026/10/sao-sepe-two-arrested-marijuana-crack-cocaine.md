@@ -31,6 +31,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.products: [1]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 97a544609b1bb5b9d1611360a4a99515

@@ -32,6 +32,7 @@ data_sources:
   details.force: [1, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 2, 3]
   figures.deaths: [1, 3]
 status: verified
 tags: [police-shooting, manslaughter, gentilly]

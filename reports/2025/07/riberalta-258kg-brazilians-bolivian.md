@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [2, 3]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://lapatria.bo/actualidad/dos-brasilenos-y-un-boliviano-son-detenidos-con-droga-en-riberalta/

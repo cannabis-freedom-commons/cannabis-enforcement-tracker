@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [project-gator, dispensaries, toronto-police]
 sources:

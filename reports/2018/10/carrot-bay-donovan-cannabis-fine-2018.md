@@ -33,6 +33,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [2, 3, 1]
   details.setting: [2, 3, 1]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 941a98cb3f67f9c2f68d5c8ea8ea4d0d

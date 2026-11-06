@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.eltiempo.com/mundo/latinoamerica/colombianos-capturados-en-un-decomiso-de-droga-en-costa-rica-702237

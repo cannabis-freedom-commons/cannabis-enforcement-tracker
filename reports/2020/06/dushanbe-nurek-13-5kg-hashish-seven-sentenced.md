@@ -37,6 +37,7 @@ data_sources:
   details.environment: [2]
   details.products: [1]
   details.setting: [1, 2, 3]
+  figures.arrested: [1]
   figures.kg_seized: [1]
   figures.prison: [1, 2]
 status: verified

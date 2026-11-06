@@ -27,6 +27,8 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [psni, newtownards, county-down, record-seizure]

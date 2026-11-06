@@ -31,6 +31,7 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 907cf2967c86f9504d13b3c9bdbef1b2

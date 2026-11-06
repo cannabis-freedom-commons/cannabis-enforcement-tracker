@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/nouvellecaledonie/400g-de-beurre-de-cannabis-saisis-339521.html

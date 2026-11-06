@@ -45,6 +45,7 @@ data_sources:
   details.case_stage: [2, 3, 4, 6, 7, 8]
   details.products: [1, 3, 4, 5, 6, 7, 8, 9]
   details.setting: [2, 3, 4, 6, 7, 8]
+  figures.arrested: [2, 3, 4, 6, 7, 8]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: beaebe6e3abced89eb0032c92f14f42a

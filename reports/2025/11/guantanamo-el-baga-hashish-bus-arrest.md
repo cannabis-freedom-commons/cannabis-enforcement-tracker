@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c31a63138b712fbe1e8a60cba367e228

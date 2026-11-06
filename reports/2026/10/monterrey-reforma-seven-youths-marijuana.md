@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [2, 4, 1, 3]
   details.products: [2, 4, 1, 3]
   details.setting: [2, 4, 1, 3]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.milenio.com/policia/detienen-siete-jovenes-con-droga-centro-monterrey

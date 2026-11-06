@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [3]
+  figures.arrested: [3, 1, 2]
 status: verified
 created_by_model: unknown
 tags:

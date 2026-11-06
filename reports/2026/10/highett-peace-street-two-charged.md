@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [2, 1]
   details.environment: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [2, 1]
+  figures.charged: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08e188afe21fcd22f5fe0db204229ac1

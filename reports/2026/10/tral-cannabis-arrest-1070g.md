@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://kimskashmir.com/drug-peddler-arrested-in-tral-over-1-kg-of-cannabis-recovered-vehicle-seized/

@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
+  figures.arrested: [1, 3]
 media:
   - kind: photo
     url: https://holasalta.com/post/campo-santo-secuestran-843-dosis-de-droga-y-detienen-a-dos-personas/

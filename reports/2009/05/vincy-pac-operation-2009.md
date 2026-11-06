@@ -32,6 +32,7 @@ data_sources:
   details.force: [3, 2, 1]
   details.products: [3, 2, 1]
   details.setting: [2, 1]
+  figures.deaths: [3, 2]
 status: verified
 tags: [st-vincent, vincy-pac, eradication]
 sources:

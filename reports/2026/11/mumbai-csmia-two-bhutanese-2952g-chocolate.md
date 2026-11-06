@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 5]
   details.route: [1, 2, 3, 5]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 3, 4, 2, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3644bda82d58f0275444e2100f38eb48

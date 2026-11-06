@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 7]
   details.case_stage: [2, 4, 7, 9, 10, 12]
   details.setting: [1, 3, 8, 13, 4, 7]
+  figures.arrested: [1, 3, 4, 5, 6, 7]
   figures.kg_seized: [1, 3, 4, 5, 6, 7]
 media:
   - kind: photo

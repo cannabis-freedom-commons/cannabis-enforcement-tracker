@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.setting: [1, 2]
+  figures.arrested: [1]
 status: verified
 tags: [cannabis-farms, peki, arrests]
 sources:

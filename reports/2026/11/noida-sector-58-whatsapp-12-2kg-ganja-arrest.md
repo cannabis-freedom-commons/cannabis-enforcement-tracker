@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.setting: [1, 3, 8, 13, 7, 2]
+  figures.arrested: [10, 11, 12, 1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43c9f7665307141576859891c56f300e

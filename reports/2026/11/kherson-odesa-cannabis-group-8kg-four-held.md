@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 3]
 media:
   - kind: photo
     url: https://suspilne.media/kherson/1443211-virosuvali-kanabis-dla-zbutu-v-hersonskij-oblasti-ta-za-ii-mezami-policia-vikrila-ucasnikiv-zlocinnoi-grupi/

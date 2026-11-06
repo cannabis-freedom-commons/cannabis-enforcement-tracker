@@ -28,6 +28,7 @@ data_sources:
   details.activity: [1, 3, 4]
   details.case_stage: [2, 3, 4, 1]
   details.products: [1]
+  figures.arrested: [2, 1, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 241b5b94962b3b1575c7f4a372515cc3

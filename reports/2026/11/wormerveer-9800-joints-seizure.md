@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/ruim-achtduizend-joints-ontdekt-in-auto.-politie-stuit-ook-in-wormerveerse-woning-op-partij-softdrugs-na-anonieme-tip/164067961.html

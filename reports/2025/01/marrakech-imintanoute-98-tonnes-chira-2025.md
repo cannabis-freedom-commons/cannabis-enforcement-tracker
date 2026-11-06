@@ -29,6 +29,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.arrested: [1, 2]
 status: verified
 open_questions:
   - The identities and roles of the arrested official and former elected representative were not published.

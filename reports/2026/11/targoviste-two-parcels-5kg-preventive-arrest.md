@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.ziuaconstanta.ro/stiri/justitie/video-foto-diicot-doi-barbati-arestati-preventiv-dupa-ce-au-fost-prinsi-in-flagrant-cu-peste-5-kilograme-de-canabis-aduse-din-spania-959414.html

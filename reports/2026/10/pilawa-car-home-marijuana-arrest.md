@@ -24,6 +24,8 @@ data_sources:
   details.case_stage: [1, 4, 3]
   details.products: [2, 3, 4, 1]
   details.setting: [1, 3, 4]
+  figures.arrested: [1, 4, 3]
+  figures.charged: [1, 4, 3]
 media:
   - kind: photo
     url: https://mazowiecka.policja.gov.pl/wg/aktualnosci/140820,Marihuana-i-amfetamina-ukryte-w-samochodzie-mefedron-w-domu-kierowca-po-alkoholu.html

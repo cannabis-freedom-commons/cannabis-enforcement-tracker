@@ -22,6 +22,7 @@ data_sources:
   details.activity: [3]
   details.agency_types: [3, 1, 4, 2]
   details.products: [3, 1]
+  figures.arrested: [3, 4, 2, 1]
   figures.kg_seized: [3, 4, 2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

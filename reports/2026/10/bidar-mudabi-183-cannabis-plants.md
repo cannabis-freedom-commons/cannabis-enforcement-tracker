@@ -31,6 +31,7 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3]
   details.products: [2]
+  figures.arrested: [2, 1]
   figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

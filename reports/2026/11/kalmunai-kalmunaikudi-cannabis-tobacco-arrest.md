@@ -19,6 +19,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://news.navy.lk/operations-news/2026/november/suspect-nabbed-with-cannabis-mixed-tobacco-product-in-kalmunai.html

@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://suspilne.media/vinnytsia/1444681-u-vinnici-zatrimali-colovika-akogo-pidozruut-u-kradizci-450-dolariv-u-pasazirki-trolejbusa/

@@ -21,6 +21,7 @@ details:
   agency_types: [anti-narcotics, police]
 data_sources:
   details.agency_types: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]
 status: verified

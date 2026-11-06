@@ -22,6 +22,7 @@ details:
 data_sources:
   details.activity: [2, 5, 6, 3, 4]
   details.agency_types: [2, 5, 6, 3, 4, 1]
+  figures.arrested: [2, 5, 6, 3]
   figures.value: [4, 1, 5, 7, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

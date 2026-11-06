@@ -20,6 +20,8 @@ details:
   agency_types: [prosecutor, court]
 data_sources:
   details.agency_types: [1, 2]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e4bf1bb6c4141adc212d5f6c75f92f0c

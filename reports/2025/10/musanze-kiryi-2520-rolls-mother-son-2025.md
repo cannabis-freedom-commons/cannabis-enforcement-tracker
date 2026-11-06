@@ -22,6 +22,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://taarifa.rw/2025/10/06/mother-and-son-arrested-in-musanze-with-2520-rolls-of-cannabis/

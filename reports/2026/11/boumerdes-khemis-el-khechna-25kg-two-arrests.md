@@ -19,6 +19,7 @@ details:
   agency_types: [police, prosecutor, court]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo

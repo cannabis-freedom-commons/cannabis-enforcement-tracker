@@ -24,6 +24,7 @@ details:
   agency_types: [prosecutor]
 data_sources:
   details.agency_types: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [sic, malanje, liamba]
 open_questions:

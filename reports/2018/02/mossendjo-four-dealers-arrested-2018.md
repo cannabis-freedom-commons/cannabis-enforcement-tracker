@@ -16,6 +16,7 @@ details:
   agency_types: [police, prosecutor]
 data_sources:
   details.agency_types: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4d2deb24c53aefd9c0c08cf620120400

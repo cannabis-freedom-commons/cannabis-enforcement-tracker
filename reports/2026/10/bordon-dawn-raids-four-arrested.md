@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.bordonherald.com/news/999/four-arrested-on-drugs-offences-as-police-raid-bordon-shop-and-homes-968574

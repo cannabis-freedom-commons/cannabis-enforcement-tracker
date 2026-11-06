@@ -29,6 +29,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.route: [2]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
+  figures.charged: [2, 1]
 status: verified
 tags: [oncb, smuggling, parcels]
 open_questions:

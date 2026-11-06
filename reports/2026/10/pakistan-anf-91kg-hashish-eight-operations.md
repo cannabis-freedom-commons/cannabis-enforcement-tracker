@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [2, 1, 3]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, anf, karachi, rawalpindi, students]

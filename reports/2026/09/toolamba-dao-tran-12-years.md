@@ -35,6 +35,7 @@ data_sources:
   details.environment: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
+  figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.prison: [1, 2]

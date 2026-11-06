@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1, 4, 2, 3]
   details.products: [1, 3, 4]
   details.setting: [1, 4, 2, 3]
+  figures.arrested: [1, 4]
   figures.kg_seized: [1, 4]
   figures.prison: [1, 4, 2, 3]
 status: verified

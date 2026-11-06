@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.arrested: [1]
   figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

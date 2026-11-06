@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 tags: [barcelona, cannabis-clubs, catalonia]
 sources:

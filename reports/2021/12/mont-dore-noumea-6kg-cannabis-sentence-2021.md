@@ -30,6 +30,8 @@ data_sources:
   details.environment: [2]
   details.sentence_types: [1]
   details.setting: [2, 1]
+  figures.arrested: [1]
+  figures.charged: [1]
   figures.prison: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

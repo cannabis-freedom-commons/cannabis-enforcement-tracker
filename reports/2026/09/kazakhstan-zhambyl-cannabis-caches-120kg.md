@@ -28,6 +28,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [zhambyl, karasora-2026, caches, transit]

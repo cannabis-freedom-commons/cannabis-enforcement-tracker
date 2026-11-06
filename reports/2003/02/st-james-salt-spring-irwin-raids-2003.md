@@ -33,6 +33,7 @@ data_sources:
   details.force: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [st-james, hash-oil, firearms]
 open_questions:

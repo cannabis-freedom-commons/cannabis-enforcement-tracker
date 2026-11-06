@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 503835efa6de57178f76bee39987bade

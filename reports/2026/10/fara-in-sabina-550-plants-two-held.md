@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2, 5]
   details.products: [2, 5, 1, 4]
   details.setting: [3, 2, 5, 1, 4]
+  figures.arrested: [2, 5, 3]
   figures.kg_seized: [2, 5, 1, 4]
   figures.plants_destroyed: [2, 5, 1]
 status: verified

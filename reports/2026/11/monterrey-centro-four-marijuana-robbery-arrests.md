@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [1]
   details.products: [1, 3]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://mvsnoticias.com/nuevo-leon/2026/11/2/detienen-a-banda-de-foraneos-por-robo-a-cuentahabientes-en-monterrey-752005.html

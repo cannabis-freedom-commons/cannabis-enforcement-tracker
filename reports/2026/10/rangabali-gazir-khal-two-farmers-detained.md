@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.itvbd.com/amp/country/barisal/277272/%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B6%E0%A6%BE%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%97%E0%A6%BE%E0%A6%9B-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%9A%E0%A6%BE%E0%A6%B7%E0%A6%BF

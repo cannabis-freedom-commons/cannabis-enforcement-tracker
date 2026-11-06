@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5, 7]
   details.products: [2, 5, 7, 1, 3, 4]
   details.setting: [1, 2, 3, 4, 5, 7]
+  figures.arrested: [1, 2, 3, 4, 5, 7]
 media:
   - kind: photo
     url: https://solo.tribunnews.com/solo-raya/352980/nekat-tanam-25-batang-ganja-di-samping-rumah-pria-di-jetak-sragen-terancam-hukuman-mati

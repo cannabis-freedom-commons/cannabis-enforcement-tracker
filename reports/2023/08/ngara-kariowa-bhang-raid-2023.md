@@ -28,6 +28,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [bhang, nairobi, dci]
 open_questions:

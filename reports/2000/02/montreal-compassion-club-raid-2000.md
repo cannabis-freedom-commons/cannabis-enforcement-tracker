@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 tags: [compassion-club, medical-marijuana]
 open_questions:

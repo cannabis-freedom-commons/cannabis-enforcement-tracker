@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2, 3]
   details.setting: [1, 2]
+  figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [hashish, airport, bangkok-route, concealment]

@@ -34,6 +34,8 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.sentence_types: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
+  figures.charged: [1, 2, 3, 4, 5, 6]
   figures.fine: [1, 2, 3, 4, 5, 6]
   figures.prison: [1, 2, 3, 4, 5, 6]
 status: verified

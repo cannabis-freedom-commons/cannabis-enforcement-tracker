@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.elimparcial.com/son/nogales/2026/11/03/detienen-a-dos-adultos-y-dos-menores-tras-rina-en-panteon-de-nogales-adolescentes-tenian-mariguana-y-bebidas-alcoholicas/

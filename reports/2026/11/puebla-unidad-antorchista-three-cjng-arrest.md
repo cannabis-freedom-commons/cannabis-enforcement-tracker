@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.eluniversalpuebla.com.mx/estado/detienen-a-tres-presuntos-integrantes-del-cjng-en-puebla-les-aseguran-mas-de-280-dosis-de-droga/

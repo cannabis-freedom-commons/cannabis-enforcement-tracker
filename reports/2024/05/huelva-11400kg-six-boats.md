@@ -22,6 +22,7 @@ details:
     - {product: hashish}
 data_sources:
   details.products: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [huelva, hashish, guardia-civil]

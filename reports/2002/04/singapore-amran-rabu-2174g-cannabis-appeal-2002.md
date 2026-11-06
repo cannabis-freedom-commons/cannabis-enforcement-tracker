@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1, 2]
+  figures.charged: [2, 1]
 status: verified
 tags: [bukit-merah, cnb, mandatory-death-penalty]
 sources:

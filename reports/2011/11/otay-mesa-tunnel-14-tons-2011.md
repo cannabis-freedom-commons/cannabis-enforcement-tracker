@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tunnel, otay-mesa, dea]

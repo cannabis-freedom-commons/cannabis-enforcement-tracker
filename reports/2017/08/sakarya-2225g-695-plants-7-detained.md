@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3c9692b783df4d8c273f95dc3e7fe037

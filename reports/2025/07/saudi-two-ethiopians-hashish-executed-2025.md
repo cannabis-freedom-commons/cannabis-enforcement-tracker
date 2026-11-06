@@ -22,6 +22,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  figures.deaths: [2, 1]
 status: verified
 tags:
   - death-penalty

@@ -40,6 +40,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 9]
   details.route: [1, 2, 3]
   details.setting: [1, 2, 3, 4, 5, 9]
+  figures.arrested: [1, 2, 5, 6, 9, 11]
   figures.kg_seized: [1, 2, 3, 4, 5, 9]
 status: verified
 created_by_model: unknown

@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [2]
   details.sentence_types: [2]
   details.setting: [2]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://localrags.co.uk/2023/09/09/large-scale-cannabis-production-site-found-in-ramsgate-three-jailed/

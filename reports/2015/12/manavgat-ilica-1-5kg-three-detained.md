@@ -23,6 +23,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/1697096-manavgatta-uyusturucu-operasyonu

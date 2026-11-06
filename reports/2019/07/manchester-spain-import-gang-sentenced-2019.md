@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.charged: [1]
 status: verified
 tags: [smuggling, dover, lock-ups, underground-bunker]
 sources:

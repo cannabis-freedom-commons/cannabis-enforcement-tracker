@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 3, 4]
   details.sentence_types: [1, 3, 4]
   details.setting: [1, 3, 4]
+  figures.charged: [1, 3, 4]
   figures.value: [1]
 media:
   - kind: photo

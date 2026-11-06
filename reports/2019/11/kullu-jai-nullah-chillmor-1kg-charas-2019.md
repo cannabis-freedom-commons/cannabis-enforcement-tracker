@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 tags: [charas, kullu, tourists]
 open_questions:

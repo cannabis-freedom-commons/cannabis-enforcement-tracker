@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 998ac1e5b077a14f8178b10501e85e53

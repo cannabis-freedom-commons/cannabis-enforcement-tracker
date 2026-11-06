@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4]
+  figures.arrested: [1, 2, 3, 4, 5]
 status: verified
 tags: [dagga, eswatini, festive-season]
 sources:

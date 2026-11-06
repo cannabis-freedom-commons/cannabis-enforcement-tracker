@@ -23,6 +23,7 @@ data_sources:
   details.activity: [2, 3]
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3, 1]
+  figures.arrested: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db9d91897dc99268254d964586d88966

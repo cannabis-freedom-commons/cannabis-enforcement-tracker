@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1, 3, 4, 2]
   details.products: [1, 2, 4, 3]
   details.setting: [1, 3, 4, 2]
+  figures.arrested: [1, 3, 4]
 media:
   - kind: photo
     url: https://www.onmanorama.com/news/kerala/2026/11/02/police-chase-down-three-youths-with-hashish-oil-in-wayanad.amp.html

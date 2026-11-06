@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 3]
+  figures.charged: [1, 3]
 media:
   - kind: photo
     url: https://www.dailyrecord.co.uk/news/scottish-news/cannabis-plants-dumped-garden-after-37823971

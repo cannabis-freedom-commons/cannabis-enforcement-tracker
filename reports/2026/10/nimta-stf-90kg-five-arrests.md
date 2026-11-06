@@ -28,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.route: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [stf, odisha-route]

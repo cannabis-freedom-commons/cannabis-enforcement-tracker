@@ -48,6 +48,7 @@ data_sources:
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10]
   details.products: [8, 9, 10, 11, 12]
   details.setting: [1, 4, 5, 6, 9, 7]
+  figures.arrested: [1, 4, 5, 6, 9, 7]
   figures.hectares: [1, 4, 5, 6, 7, 9]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [cannabis-resin, carbury-seizure, drug-trafficking-act]
 open_questions:

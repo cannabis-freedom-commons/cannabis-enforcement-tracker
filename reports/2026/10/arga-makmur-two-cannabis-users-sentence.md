@@ -32,6 +32,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
   figures.prison: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

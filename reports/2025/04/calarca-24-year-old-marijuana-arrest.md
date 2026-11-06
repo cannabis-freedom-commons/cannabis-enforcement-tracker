@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/un-hombre-es-capturado-en-calarca-con-marihuana

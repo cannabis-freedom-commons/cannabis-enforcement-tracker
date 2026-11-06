@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/10/05/cote-divoire/societe/cote-divoire-bonon-deux-hommes-interpelles-avec-deux-blocs-de-cannabis_201271.html

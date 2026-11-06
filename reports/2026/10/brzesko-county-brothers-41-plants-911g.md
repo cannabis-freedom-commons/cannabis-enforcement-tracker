@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [2, 1, 3]
+  figures.charged: [2, 1, 3]
   figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo

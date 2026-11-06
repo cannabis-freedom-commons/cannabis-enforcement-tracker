@@ -30,6 +30,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2]
 status: verified
 tags: [casablanca, record-haul, chira]
 open_questions:

@@ -25,6 +25,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1]
   figures.arrested: [1]
+  figures.deaths: [1, 2]
   figures.plants_destroyed: [1]
 status: verified
 tags: [national-cannabis-crime-operation, gibbston-valley]

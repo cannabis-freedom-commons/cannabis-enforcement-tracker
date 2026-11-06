@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/deshaies-un-point-de-deal-demantele-cannabis-crack-et-cocaine-saisis-1086871.php

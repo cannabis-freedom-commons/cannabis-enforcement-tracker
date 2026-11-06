@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 3, 2]
 media:
   - kind: photo
     url: https://kabarduri.net/21-paket-ganja-disita-dua-pria-ditangkap-polsek-mandau-di-duri/

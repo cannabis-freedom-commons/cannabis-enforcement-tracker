@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.deaths: [1, 2]
 status: verified
 tags: [saudi-arabia, beheading, smuggling]
 sources:

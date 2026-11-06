@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [shanghai, sentence, cultivation, buried-drop]

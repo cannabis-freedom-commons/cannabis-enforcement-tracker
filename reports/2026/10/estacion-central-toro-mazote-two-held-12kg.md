@@ -29,6 +29,8 @@ data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 4, 2]
+  figures.arrested: [1, 2, 3, 4]
+  figures.charged: [1, 2, 3, 4]
   figures.value: [1, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

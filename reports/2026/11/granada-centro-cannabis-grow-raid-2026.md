@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.ideal.es/granada/dos-detenidos-tras-desmantelarles-plantacion-marihuana-pleno-20261105161738-nt.html

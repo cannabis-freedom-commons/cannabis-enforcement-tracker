@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [4, 3, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, ethiopian-nationals, tigray, khamis-mushait, asir, taazir]

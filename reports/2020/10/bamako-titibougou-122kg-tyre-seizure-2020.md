@@ -28,6 +28,7 @@ data_sources:
   details.products: [1]
   details.route: [1, 2]
   details.setting: [1]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1]
 media:
   - kind: photo

@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://ici.radio-canada.ca/nouvelle/2297226/arrestation-perquisition-drogue-policier-surete-quebec-north-savage-gang

@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [2, 1, 3]
   details.setting: [3, 2, 1]
+  figures.arrested: [2]
 media:
   - kind: photo
     url: https://www.taftmidwaydriller.com/news/kcso-makes-major-marijuana-busts-in-taft-maricopa/article_be1948cc-bc7d-44a3-a542-be9bf229d9ac.html

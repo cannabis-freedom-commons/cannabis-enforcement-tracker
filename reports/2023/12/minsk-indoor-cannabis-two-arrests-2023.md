@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.customs.gov.by/news/dva-grazhdanina-kotorye-vyrashchivali-kannabis-i-izgotavlivali-iz-nego-marikhuanu-zaderzhany-sotrudn/

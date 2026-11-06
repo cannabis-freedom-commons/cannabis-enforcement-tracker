@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-un-individu-interpelle-et-six-kilogrammes-de-cannabis-saisis-par-la-police-a-kouibly/

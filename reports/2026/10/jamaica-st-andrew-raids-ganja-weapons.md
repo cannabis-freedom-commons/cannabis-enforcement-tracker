@@ -25,6 +25,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 tags: [st-andrew, half-way-tree, extortion, drugs-for-guns]
 open_questions:

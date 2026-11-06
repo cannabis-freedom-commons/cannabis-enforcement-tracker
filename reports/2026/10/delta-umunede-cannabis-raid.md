@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [3, 4, 5, 2, 1]
   details.case_stage: [3, 4, 5, 2, 1]
   details.setting: [2, 1, 3]
+  figures.arrested: [3, 4, 5, 2, 1]
 media:
   - kind: photo
     url: https://www.tvcnews.tv/delta-police-arrest-four-suspected-cultists-robbers-recover-seven-firearms-stolen-motorcycles/

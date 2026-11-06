@@ -35,6 +35,7 @@ data_sources:
   details.products: [2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [smuggling, resin, customs, haulage]

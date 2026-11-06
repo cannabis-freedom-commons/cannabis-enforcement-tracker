@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://riaupos.jawapos.com/kuansing/2611030008/dalam-semalam-satres-narkoba-polres-kuansing-ringkus-3-pengedar-di-wisma-sita-ekstasi-sabu-ganja

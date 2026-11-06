@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [2, 1]
 status: verified
 tags: [llakatund, vlora, warehouse]
 media:

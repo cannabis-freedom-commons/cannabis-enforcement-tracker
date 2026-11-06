@@ -21,6 +21,7 @@ data_sources:
   details.activity: [2, 3, 4]
   details.agency_types: [1, 4, 2, 3]
   details.setting: [1, 4]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2025/09/08/cote-divoire/societe/cote-divoire-bouake-66-blocs-de-cannabis-saisis-au-domicile-dun-presume-dealer_189984.html

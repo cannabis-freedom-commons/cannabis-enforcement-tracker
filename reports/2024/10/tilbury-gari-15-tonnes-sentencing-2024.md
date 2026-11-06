@@ -40,6 +40,8 @@ data_sources:
   details.route: [1, 2]
   details.sentence_types: [2]
   details.setting: [2]
+  figures.arrested: [2]
+  figures.charged: [2]
   figures.prison: [2]
 status: verified
 tags: [nca, organised-crime, smuggling]

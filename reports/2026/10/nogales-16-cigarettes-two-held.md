@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://infonogales.com/recuperan-motocicleta-robada-y-aseguran-16-cigarrillos-con-posible-marihuana-en-nogales/

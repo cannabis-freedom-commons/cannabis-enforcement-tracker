@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [2, 3, 1, 4, 5]
   details.case_stage: [2, 3, 5]
+  figures.arrested: [2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [mutenice, hodonin, car-chase, cannabis, south-moravia]

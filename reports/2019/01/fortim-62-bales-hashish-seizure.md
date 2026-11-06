@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [hashish, fortim, transatlantic-route]
 sources:

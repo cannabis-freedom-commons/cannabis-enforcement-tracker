@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
 media:
   - kind: photo
     url: https://www.nrk.no/trondelag/tre-cannabisplantasjer-avdekka-i-trondelag-1.17892116

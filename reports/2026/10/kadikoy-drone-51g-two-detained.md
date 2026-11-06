@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
+  figures.arrested: [1, 3]
   figures.kg_seized: [2, 3, 1]
 media:
   - kind: photo

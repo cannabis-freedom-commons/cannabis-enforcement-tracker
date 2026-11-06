@@ -99,6 +99,7 @@ data_sources:
   details.products: [3, 14, 15, 29, 43, 44]
   details.route: [2, 27, 1, 3, 4, 5]
   details.setting: [21, 24, 25, 35, 36, 41]
+  figures.arrested: [1, 6, 9, 10, 16, 17]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0

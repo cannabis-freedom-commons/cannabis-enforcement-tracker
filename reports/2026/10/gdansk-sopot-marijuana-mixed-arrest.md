@@ -35,6 +35,8 @@ data_sources:
   details.products: [1, 4, 5, 6]
   details.sentence_types: [1, 4]
   details.setting: [1, 4]
+  figures.arrested: [1, 4, 2, 5, 6, 3]
+  figures.charged: [1, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64db04a0600ec77d4e4fc4e20760c3b4

@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [vendome, blois, sentence]

@@ -33,6 +33,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [guardia-civil, madrid, indoor]

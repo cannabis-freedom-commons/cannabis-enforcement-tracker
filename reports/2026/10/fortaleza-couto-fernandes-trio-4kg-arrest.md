@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://cn7.com.br/policia-civil-prende-trio-e-apreende-quatro-quilos-de-maconha-que-seriam-enviados-ao-interior-do-ceara/

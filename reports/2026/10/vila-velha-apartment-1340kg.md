@@ -43,6 +43,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 6, 7]
   details.case_stage: [1, 6, 7, 2, 4, 5]
   details.setting: [2, 6, 7, 4, 3]
+  figures.arrested: [2, 6, 7, 4]
   figures.kg_seized: [2, 4, 6, 7, 3, 1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

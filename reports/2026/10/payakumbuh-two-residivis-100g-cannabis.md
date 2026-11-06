@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [2, 4, 1, 3]
   details.case_stage: [1, 4, 3, 2]
   details.setting: [3, 4, 2, 1]
+  figures.arrested: [2, 4, 1, 3]
 media:
   - kind: photo
     url: https://www.valoranews.com/berita/48739/polisi-payakumbuh-tangkap-dua-residivis-narkoba-sita-sabu-dan-ganja

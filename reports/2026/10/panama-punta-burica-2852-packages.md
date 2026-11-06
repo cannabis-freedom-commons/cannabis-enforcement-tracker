@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2, 3]
+  figures.charged: [1, 2, 3]
   figures.prison: [1, 2]
 status: verified
 tags: [chiriqui, punta-burica, senan, plea-agreement]

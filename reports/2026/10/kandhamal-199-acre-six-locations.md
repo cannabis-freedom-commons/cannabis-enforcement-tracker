@@ -29,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [kandhamal, drones]
 sources:

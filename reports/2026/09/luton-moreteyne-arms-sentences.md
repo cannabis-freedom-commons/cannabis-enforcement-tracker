@@ -38,6 +38,8 @@ data_sources:
   details.environment: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [bedfordshire, luton, millbrook, operation-costello]

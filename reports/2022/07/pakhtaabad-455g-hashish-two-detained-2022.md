@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [1, 3]
   details.setting: [2, 1, 3]
+  figures.arrested: [2]
 status: reported
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 739d6cd2d750fa254a77b44268a285ac

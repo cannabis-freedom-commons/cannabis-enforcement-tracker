@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://crhoy.com/nacionales/allanamientos-por-drogas-dejan-3-detenidos-en-siquirres-y-barrio-cuba/

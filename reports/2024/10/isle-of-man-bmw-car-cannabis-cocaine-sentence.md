@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 6, 4, 5, 3]
   details.sentence_types: [1, 4, 5, 6, 2, 3]
   details.setting: [1, 4, 5, 6, 2, 3]
+  figures.charged: [2, 3, 4]
   figures.prison: [1, 4, 5, 6]
   figures.value: [1]
 status: verified

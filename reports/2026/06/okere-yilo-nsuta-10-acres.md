@@ -29,6 +29,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [eastern-region, okere, yilo-krobo, dleu, nacoc]
 sources:

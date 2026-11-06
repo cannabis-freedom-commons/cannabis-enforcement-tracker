@@ -65,6 +65,7 @@ data_sources:
   details.case_stage: [1, 3, 4, 5, 6, 9]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 4, 12, 21, 22, 24]
+  figures.arrested: [1, 3, 4, 5, 6, 9]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
   figures.plants_destroyed: [1, 2, 3, 4, 5, 6]
 status: verified

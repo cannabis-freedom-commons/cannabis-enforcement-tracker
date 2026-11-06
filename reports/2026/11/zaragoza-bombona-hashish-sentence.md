@@ -38,6 +38,8 @@ data_sources:
   details.products: [2]
   details.sentence_types: [1]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc41e6200da8116d94d890f98576c0e5

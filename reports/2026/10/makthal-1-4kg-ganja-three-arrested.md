@@ -31,6 +31,7 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3]
   details.products: [1, 2]
+  figures.arrested: [2]
   figures.kg_seized: [2]
   figures.value: [2]
 status: verified

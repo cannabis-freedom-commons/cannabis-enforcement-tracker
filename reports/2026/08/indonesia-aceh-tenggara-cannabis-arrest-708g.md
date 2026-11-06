@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.setting: [1]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://www.poskotasumatera.com/2026/08/kebun-jadi-lokasi-transaksi-ganja-tiga.html

@@ -26,6 +26,8 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 3, 2]
+  figures.charged: [2, 1, 3]
   figures.plants_destroyed: [1, 3, 2]
 media:
   - kind: photo

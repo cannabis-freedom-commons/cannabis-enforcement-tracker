@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://folhadomate.com/noticias/policia/brigada-prende-suspeito-de-trafico-em-venancio-aires-2/

@@ -34,6 +34,8 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.plants_destroyed: [2, 1]
 media:
   - kind: photo

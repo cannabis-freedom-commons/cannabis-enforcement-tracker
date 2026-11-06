@@ -30,6 +30,7 @@ data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.products: [1, 3]
+  figures.arrested: [1, 3, 2]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 204bff95694ce8ff5482bf2d5619512b

@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.tiempo.com.mx/local/arrestan-a-pareja-con-marihuana-en-calles-del-centro/

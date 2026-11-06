@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.rtbf.be/article/enorme-saisie-de-cannabis-a-wavre-neuf-tonnes-decouvertes-dans-un-entrepot-10822641

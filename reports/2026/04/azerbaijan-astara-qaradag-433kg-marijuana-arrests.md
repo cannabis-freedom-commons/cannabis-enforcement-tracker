@@ -22,6 +22,7 @@ data_sources:
   details.case_stage: [3, 2]
   details.products: [2, 3, 1]
   details.setting: [2, 3, 1]
+  figures.arrested: [2, 3, 1]
 media:
   - kind: photo
     url: https://media.az/society/v-azerbajdzhane-izyaty-svyshe-43-kg-marihuany-presechena-deyatelnost-prestupnoj-gruppy

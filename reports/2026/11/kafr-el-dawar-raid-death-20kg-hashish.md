@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.deaths: [1, 3]
   figures.kg_seized: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

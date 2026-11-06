@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 media:
   - kind: photo
     url: https://www.cbc.ca/news/canada/toronto/project-dos-drug-busts-southern-ontario-1.5129081

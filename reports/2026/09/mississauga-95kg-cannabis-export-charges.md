@@ -29,6 +29,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.

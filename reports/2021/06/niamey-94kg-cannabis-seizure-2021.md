@@ -25,6 +25,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
   figures.kg_seized: [1, 2]
   figures.value: [2, 1]
 status: verified

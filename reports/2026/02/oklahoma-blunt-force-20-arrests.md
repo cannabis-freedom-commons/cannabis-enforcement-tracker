@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 tags: [omma, organized-crime, blunt-force]
 open_questions:

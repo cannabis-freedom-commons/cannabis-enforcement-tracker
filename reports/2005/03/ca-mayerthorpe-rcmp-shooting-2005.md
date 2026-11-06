@@ -29,6 +29,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [1]
 status: verified
 tags: [rcmp, mayerthorpe, grow-op]
 open_questions:

@@ -31,6 +31,7 @@ data_sources:
   details.products: [2]
   details.route: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, morocco-route, rungis-investigation]

@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.route: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [trafficking-ring, dea, cross-border]
 sources:

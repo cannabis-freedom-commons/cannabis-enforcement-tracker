@@ -48,6 +48,7 @@ data_sources:
   details.case_stage: [2, 3, 6]
   details.products: [1, 4, 6]
   details.setting: [2, 3, 6]
+  figures.arrested: [1, 4, 5]
   figures.kg_seized: [1, 4, 6]
   figures.prison: [1, 3, 4, 6, 2]
   figures.value: [1, 4, 6, 2]

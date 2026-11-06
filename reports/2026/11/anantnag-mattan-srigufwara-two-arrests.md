@@ -26,6 +26,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 8, 9, 10]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: meta/muse-spark
 tags: [anantnag, charas, ndps-act]

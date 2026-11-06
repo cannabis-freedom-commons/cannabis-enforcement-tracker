@@ -51,6 +51,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 097823c7b2e53d5fc0d67719cc38c477

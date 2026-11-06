@@ -29,6 +29,7 @@ data_sources:
   details.activity: [1, 4, 5, 6, 7, 8]
   details.agency_types: [1, 6, 7, 8, 9, 2]
   details.products: [1, 4, 5, 6, 7, 8, 9]
+  figures.arrested: [1, 6, 7, 8, 9, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 693068529a9505e01d27a84f8f9ca1f1

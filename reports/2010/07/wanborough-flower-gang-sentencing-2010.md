@@ -36,6 +36,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [3]
   details.setting: [1, 2, 3]
+  figures.charged: [1, 2]
   figures.prison: [3]
 status: verified
 tags: [wanborough, flower-lorries, bristol-crown-court, skunk]

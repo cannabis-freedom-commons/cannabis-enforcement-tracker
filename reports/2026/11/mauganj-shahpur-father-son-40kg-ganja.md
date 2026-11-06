@@ -36,6 +36,8 @@ data_sources:
   details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 4]
   details.setting: [2, 1, 3, 4]
+  figures.arrested: [1, 4, 2]
+  figures.charged: [1, 4, 2]
   figures.kg_seized: [2, 4, 1]
   figures.value: [2, 4, 1]
 status: verified

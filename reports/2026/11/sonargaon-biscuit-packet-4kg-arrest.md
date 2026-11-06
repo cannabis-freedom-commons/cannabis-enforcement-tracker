@@ -44,6 +44,7 @@ data_sources:
   details.case_stage: [1, 3, 6, 7, 8, 9]
   details.products: [1, 2, 3, 4, 7, 8, 9]
   details.setting: [1, 3, 6, 7, 8, 9]
+  figures.arrested: [1, 3, 6, 7, 8, 9]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bfd856ef7437645f6db4a7db0c89a9a5

@@ -32,6 +32,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

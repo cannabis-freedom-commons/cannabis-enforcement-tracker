@@ -37,6 +37,7 @@ data_sources:
   details.products: [1, 3, 2, 4]
   details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 4]
+  figures.charged: [1, 2, 4]
   figures.plants_destroyed: [3, 1, 2]
 status: verified
 created_by_model: meta/muse-spark

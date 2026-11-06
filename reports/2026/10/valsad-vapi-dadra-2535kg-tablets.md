@@ -25,6 +25,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [valsad, vapi, dadra, tablets, interstate-network]

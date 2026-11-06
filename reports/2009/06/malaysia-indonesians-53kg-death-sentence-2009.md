@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
+  figures.charged: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [mandatory-death-penalty, aceh]

@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [2]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [unna, holzwickede, plantation, raid]

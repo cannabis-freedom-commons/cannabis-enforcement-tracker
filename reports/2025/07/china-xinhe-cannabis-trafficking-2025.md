@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, xinhe, yining, trafficking]

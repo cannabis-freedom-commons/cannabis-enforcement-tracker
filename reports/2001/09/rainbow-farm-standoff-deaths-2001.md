@@ -31,6 +31,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1, 3]
   details.setting: [1, 3, 2, 4]
+  figures.deaths: [4, 3, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [rainbow-farm, standoff, festivals]

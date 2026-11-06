@@ -40,6 +40,7 @@ data_sources:
   details.force: [1, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 5, 6, 7]
   details.setting: [1, 3, 7, 5, 4, 6]
+  figures.arrested: [1, 3, 7, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 5234e699768ce3059e5de9d9b3e7660f

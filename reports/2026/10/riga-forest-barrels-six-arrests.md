@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 6, 7, 2, 9, 3]
   details.products: [1, 4, 6, 8, 9, 2]
   details.setting: [1, 6, 7, 2, 9, 4]
+  figures.arrested: [1, 2, 6, 7, 9, 3]
 media:
   - kind: photo
     url: https://rus.jauns.lv/article/novosti/736690-v-lesax-pod-rigoi-nasli-zakopannye-bocki-s-desiatkami-kg-narkotikov-zaderzana-mezdunarodnaia-prestupnaia-gruppa

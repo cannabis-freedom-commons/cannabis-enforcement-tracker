@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [2]
   details.setting: [2, 3]
+  figures.charged: [2]
 media:
   - kind: photo
     url: https://reason.com/2015/03/04/medical-marijuana-growers-escape-mandato/

@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1, 2, 5, 3, 4]
   details.agency_types: [1, 2, 5, 3, 4]
   details.setting: [1, 2, 5]
+  figures.arrested: [1, 2, 5, 3, 4]
 status: verified
 tags: [isp, traffic-stop, lasalle]
 open_questions:

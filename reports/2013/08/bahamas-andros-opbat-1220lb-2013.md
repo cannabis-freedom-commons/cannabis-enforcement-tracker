@@ -25,6 +25,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.dvidshub.net/news/112992/operation-bahamas-turks-and-caicos-seizes-1220-pounds-marijuana-caribbean

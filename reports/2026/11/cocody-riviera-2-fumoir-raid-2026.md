@@ -17,6 +17,7 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.linfodrome.com/societe/127173-cocody-290-pochons-de-cannabis-decouverts-dans-un-fumoir-a-riviera-2

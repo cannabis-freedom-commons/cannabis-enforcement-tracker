@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, chira, camper-van, french-nationals, gendarmerie-royale, safi]

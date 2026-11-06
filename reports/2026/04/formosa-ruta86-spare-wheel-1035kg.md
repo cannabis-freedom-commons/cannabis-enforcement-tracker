@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/formosa-hallan-mas-de-10-kilos-de-marihuana-ocultos-en-la-rueda-de-auxilio-de-una-camioneta

@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.voaportugues.com/a/pol%C3%ADcia-angolana-apreende-uma-tonelada-de-em-malanje/5533300.html
