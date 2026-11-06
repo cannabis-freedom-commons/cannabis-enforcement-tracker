@@ -93,6 +93,10 @@ sources:
     publisher: Pune Prime News
     date: 2026-11-06
     language: mr
+  - title: Noodles, Durian Packets Used to Smuggle ₹3.72 Crore Hydroponic Weed Through Pune Airport
+    url: https://punemirror.com/city/pune/noodles-durian-packets-used-to-smuggle-%E2%82%B93-72-crore-hydroponic-weed-through-pune-airport/
+    publisher: Pune Mirror
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -114,25 +118,25 @@ open_questions:
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
-profiling and suspicious scanning of his check-in baggage. [@2,3,7,8] The interception
+profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
-of Pune Customs. [@2,3]
+of Pune Customs. [@2,3,12]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11] Each packet was further lined with two layers of
-vacuum-sealed black polythene to mask detection. [@2,8,10,11] On opening, the packets
+noodle packets. [@1,8,11,12] Each packet was further lined with two layers of
+vacuum-sealed black polythene to mask detection. [@2,8,10,11,12] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
-[@2,11] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11]
+[@2,11,12] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
+crore. [@2,4,5,7,8,9,10,11,12]
 
 Customs seized the weed along with its packing materials under the Narcotic
-Drugs and Psychotropic Substances Act, 1985. [@1,8] The passenger was arrested and
+Drugs and Psychotropic Substances Act, 1985. [@1,8,12] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8,9,10,11] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6,8,9,10,11,12] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4]
 
 The arrested flyer was 45 years old. [@4]
