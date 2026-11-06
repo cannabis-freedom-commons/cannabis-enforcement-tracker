@@ -44,6 +44,11 @@ sources:
     publisher: L'Express de Madagascar
     date: 2024-06-01
     language: fr
+  - title: TRAFIC DE DROGUE – 10 kg de skunk, une variété de cannabis, saisis par la gendarmerie à Toamasina
+    url: https://2424.mg/news/trafic-de-drogue-10-kg-de-skunk-une-variete-de-cannabis-saisis-par-la-gendarmerie-a-toamasina/
+    publisher: 2424.mg
+    date: 2024-05-22
+    language: fr
 open_questions:
   - The Mauritian account gives the skunk weight as ten kilos in its first paragraph and as 9,822 kg in the account of the investigation; the report records 9.822 kg and keeps the ten-kilo figure in the text.
   - The Mauritian account calls the third suspect Avoola Oddy and the Malagasy account calls him Jules Roddy Avoula; the earlier 2023 heroin case named him Avoola Oddy, so the two spellings likely refer to one person.
@@ -54,15 +59,17 @@ open_questions:
   - The L'Express de Madagascar photo is captioned only with the three suspects' names and does not establish the scene or date, so no event-specific photo of the seizure could be identified.
   - 'No media address could be recovered from the Mauritian page: its only image is the article''s share image, captioned with the headline, so no media entry is added.'
   - The account also describes the earlier 2023 heroin case and the abandoned boat Bras-d'Eau, which belong to another case and are left out here.
+  - The 2424.mg account gives the consignment as 10 kg and does not mention the 9,822 kg weight used in the Mauritian account of the same investigation.
+  - It does not describe the intended maritime route or destination, or whether the skunk was imported rather than produced in Madagascar.
 ---
 
 Madagascar's national gendarmerie, through its Antananarivo investigation
 brigade, seized ten kilos of skunk, a high-THC cannabis variety, on 22 May 2024.
-[@1] Four people were taken in: three Mauritian nationals and one Malagasy
-citizen. [@1] Police valued the skunk at about Rs 12 million, Mauritius's own
+[@1,3] Four people were taken in: three Mauritian nationals and one Malagasy
+citizen. [@1,3] Police valued the skunk at about Rs 12 million, Mauritius's own
 currency. [@1] The officers intercepted a man travelling from Tamatave,
 Madagascar's main eastern port, toward the capital Antananarivo, turned him back
-and searched his home, where they found the drug. [@1] The investigation led to
+and searched his home, where they found the drug. [@1,3] The investigation led to
 the arrest of Juveno Nafompona and the seizure of 9,822 kg of the skunk, two
 vehicles, a Mazda and a Tiguan, and a boat named Masondrano. [@1] The
 gendarmerie said this type of cannabis is not grown in Madagascar but imported,
@@ -81,3 +88,4 @@ to six months in prison, according to informed sources. [@2] Eight Mauritian
 nationals were being held at Tsiafahy awaiting trial before the criminal court.
 [@2]
 
+The Antananarivo section de recherches, the gendarmerie's criminal investigation unit, had been warned in advance on 15 May that the skunk was being moved from Toamasina to Antananarivo, and its officers stopped the car carrying it on the RN2, the road between the two towns. [@3] The gendarmerie said the four suspects intended to export the skunk by sea and that they should be brought before a court. [@3]
