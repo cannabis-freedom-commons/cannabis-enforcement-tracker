@@ -42,6 +42,10 @@ sources:
     publisher: KMBC 9
     archived: https://web.archive.org/web/20251003164339id_/https://www.kmbc.com/article/two-chiefs-players-marijuana-possession-charges-dropped/62316232
     date: 2024-09-22
+  - title: Chiefs' Morris, Godrick arrested for marijuana possession
+    url: https://www.espn.com/nfl/story/_/id/40167649/chiefs-morris-godrick-arrested-marijuana-possession
+    publisher: ESPN
+    date: 2024-05-18
 open_questions:
   - No weight of the marijuana found in the Jeep was published; the affidavit did not give amounts, so none can be recorded.
   - News organisations reported slightly different stop and arrest times; Johnson County Post records the stop at 11:22 p.m. on Kansas Highway 10 and the arrests at 11:44 p.m., while KSHB describes the location as West 159th Street and U.S. 69 Highway, near where KCTV also placed the stop.
@@ -54,7 +58,7 @@ open_questions:
 
 Kansas City Chiefs offensive tackles Wanya Morris and Chukwuebuka Godrick, both
 23, were arrested on misdemeanor marijuana possession charges on the night of 16
-May 2024 after a traffic stop in Johnson County, Kansas. [@1] A Johnson County
+May 2024 after a traffic stop in Johnson County, Kansas. [@1,5] A Johnson County
 sheriff's deputy pulled over a Jeep on West 159th Street and U.S. 69 Highway in
 Overland Park, and the affidavit said the deputy smelled a strong odor of
 marijuana coming from inside. [@3]
@@ -70,4 +74,3 @@ against both players had been dropped. [@4] Kansas is one of only four US states
 where both medical and recreational marijuana were then illegal and possession
 was not decriminalised, while recreational use of up to three ounces is legal
 across the state line in Missouri. [@2]
-
