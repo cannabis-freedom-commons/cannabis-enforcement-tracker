@@ -112,6 +112,11 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-05
     language: hi
+  - title: 'Video: જગદલપુરમાં ₹૨.૩૮ કરોડનો ગાંજો ઝડપાયો'
+    url: https://www.gstv.in/news/india/rs-238-crore-marijuana-seized-in-jagdalpur
+    publisher: GSTV
+    date: 2026-11-05
+    language: gu
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -146,12 +151,15 @@ open_questions:
   - CG Sandesh spells the origin village as Kontamadi while ETV Bharat spells it Kantamadi and the existing report uses Kantamadi; the difference appears to be transliteration.
   - CG Sandesh gives no hour for the interception beyond the morning of 5 November 2026 and publishes no case or seizure-memo number.
   - The CG Sandesh lead image carries only the headline as caption with no credit, so it is unclear what it depicts.
+  - GSTV gives no weight for the seized ganja, so the 476.5 kg figure continues to rest on earlier sources.
+  - GSTV gives no interception time or case details beyond detention and further legal proceedings.
+  - 'The page''s image is credited only as Source: gstv with no caption establishing that it shows this seizure, so no media entry is added.'
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
 Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
-Chitrasen Gallauri, 22. [@2,7,8,13] All seven come from Kantamadi village in the
+Chitrasen Gallauri, 22. [@2,7,8,13,15] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2,13] Haribhoomi
 called the seizure the largest action Bastar police have taken this year. [@2]
 
@@ -161,7 +169,7 @@ set up a blockade near Adamvali railway crossing. [@2,5,9,13] Officers saw two y
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2,9,13] The pickup held
 450 packets of ganja hidden in 15 sacks. [@2,5,7,10] Police valued the cannabis at 2
-crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13] Besides the
+crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13,15] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5,9,13]
 
@@ -175,7 +183,7 @@ traffickers there. [@1,3]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
 rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13] Officers seized a Tata pickup and a
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15] Officers seized a Tata pickup and a
 motorcycle used in the smuggling at the scene. [@1,3,4,6,12] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1,6]
