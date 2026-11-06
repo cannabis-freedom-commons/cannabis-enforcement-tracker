@@ -95,6 +95,10 @@ sources:
     url: https://www.hillingdontimes.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
     publisher: Hillingdon Times
     date: 2026-11-05
+  - title: Married couple in their 70s who grew £46,000 of cannabis sentenced
+    url: https://www.halsteadgazette.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
+    publisher: Halstead Gazette
+    date: 2026-11-05
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -105,20 +109,21 @@ open_questions:
   - LBC calls the sentencing court Norfolk Crown Court while the existing report records Norwich Crown Court; the LBC wording is retained only as a source discrepancy.
   - This account places the sentencing at Norfolk Crown Court, while the existing report records Norwich Crown Court; the difference is retained as a source wording discrepancy.
   - This account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; the difference is retained as a source wording discrepancy.
+  - This account says the sentencing was at Norfolk Crown Court while the existing report records Norwich Crown Court; whether this is the same court under a different name is unclear.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
 near Attleborough in Norfolk. [@1,4,5,7,11] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14]
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
-with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14]
+with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14,15]
 
 Both were arrested after Norfolk Constabulary officers executed a warrant at the
 couple's home on 20 May 2025, as part of an investigation into cannabis supply
-in the area. [@2,6,7,8,9,10,11,12,14] Officers found 25 cannabis plants and approximately 5.7 kg of
+in the area. [@2,6,7,8,9,10,11,12,14,15] Officers found 25 cannabis plants and approximately 5.7 kg of
 dried cannabis, which police estimated had a street value of more than £46,000.
-[@1,4,5,6,7,8,9,10,12,13,14] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
+[@1,4,5,6,7,8,9,10,12,13,14,15] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
 guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
 28 cannabis plants on that date. [@3] Marion Ayres denied both charges at that
 stage and was sent to Norwich Crown Court for a trial preparation hearing. [@3]
