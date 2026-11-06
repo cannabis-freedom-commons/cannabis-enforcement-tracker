@@ -37,6 +37,11 @@ sources:
     publisher: Великотърновски Вести
     date: 2026-11-04
     language: bg
+  - title: Великотърновски полицаи иззеха наркотични вещества от мъж и жена, водач на автомобил е задържан след положителна проба за канабис и кокаин
+    url: https://delnik.bg/bulgaria/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D1%82%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%B8-%D0%B8%D0%B7%D0%B7%D0%B5%D1%85%D0%B0-%D0%BD%D0%B0%D1%80%D0%BA/1211959/
+    publisher: Делник БГ
+    date: 2026-11-04
+    language: bg
 open_questions:
   - No weight or amount of cannabis or cocaine was reported, only a positive consumption indication, so no kilogram figure can be recorded.
   - The article states 3 November without a year; 2026 is inferred from its 4 November 2026 publication date.
@@ -51,14 +56,14 @@ Officers of the Traffic Police in Veliko Tarnovo, the road-police unit for the
 regional city, identified a driver as a person who had used narcotic substances.
 [@1] On 3 November in Veliko Tarnovo, the regional city, officers carried out a
 roadside check of a passenger car that at the time was being driven by a
-30-year-old man described as having Ukrainian citizenship. [@1,2] As part of that
+30-year-old man described as having Ukrainian citizenship. [@1,2,5] As part of that
 roadside check, officers administered a test to the driver for the use of
 narcotic substances using a technical testing device. [@1] The device returned a
 positive reaction for cannabis as well as a positive reaction for cocaine in the
-same roadside test. [@1,2,3]
+same roadside test. [@1,2,3,5]
 
 After receiving the roadside result, the driver refused to provide a blood
-sample for further confirmatory testing. [@1,2,3] Following the refusal, officers
+sample for further confirmatory testing. [@1,2,3,5] Following the refusal, officers
 detained the driver for a period of up to 24 hours under the Interior Ministry
 Act. [@1,4] After the detention, police opened fast-track proceedings against the
-driver in connection with the drug-driving case. [@1,2,3]
+driver in connection with the drug-driving case. [@1,2,3,5]
