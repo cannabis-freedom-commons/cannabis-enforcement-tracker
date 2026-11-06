@@ -14,6 +14,7 @@ import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
 import Cites from "../../components/Cites.astro";
 import { legalContext } from "../../lib/legal-context.js";
+import { glanceFacts } from "../../lib/details.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
 import { shortSubmission } from "../../lib/report-submission.js";
 import { mediaView } from "../../lib/media.js";
@@ -34,6 +35,10 @@ const cited = order.map((i) => r.sources[i - 1]);
 const cites = (field) => (r.data_sources?.[field] ?? []).map((n) => order.indexOf(n) + 1).filter((n) => n > 0).sort((a, b) => a - b);
 const base = import.meta.env.BASE_URL;
 const more = related(r);
+// the top of the page shows the main numbers and three facts; the full case data sits before the sources
+const glanceFigures = r.figureRows.filter((f) => f.key !== "value").slice(0, 4);
+const glance = glanceFacts(r.details);
+const caseData = r.figureRows.length + r.detailRows.length > glanceFigures.length + glance.length;
 // the law at the time: the CFI score that year, the law changes before the event, reforms since
 const law = legalContext(r.country, r.date);
 const fmtChangeDate = (d) => d.length === 10 ? new Date(`${d}T00:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) : d;
@@ -94,15 +99,12 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
       </figure>
     )}
 
-    {r.figureRows.length > 0 && (
-      <dl class="figures">
-        {r.figureRows.map((f) => <div><dt>{f.label}</dt><dd>{f.value}<Cites numbers={cites(`figures.${f.key}`)} /></dd></div>)}
-      </dl>
-    )}
-    {r.detailRows.length > 0 && (
-      <dl class="report-details">
-        {r.detailRows.map((d) => <div><dt>{d.label}</dt><dd>{d.value}<Cites numbers={cites(`details.${d.key}`)} /></dd></div>)}
-      </dl>
+    {(glanceFigures.length > 0 || glance.length > 0) && (
+      <section class="glance" aria-label="At a glance">
+        {glanceFigures.length > 0 && <dl class="glance-figures">{glanceFigures.map((f) => <div><dt>{f.label}</dt><dd>{f.value}</dd></div>)}</dl>}
+        {glance.length > 0 && <dl class="glance-facts">{glance.map((f) => <div><dt>{f.label}</dt><dd>{f.value}</dd></div>)}</dl>}
+        {caseData && <a class="glance-more" href="#case-data">All case data and sources ↓</a>}
+      </section>
     )}
 
     <div class="prose article-body e-content" itemprop="articleBody"><Content /></div>
@@ -129,6 +131,17 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
             <li><a href={m.url} class="ext" target="_blank" rel="noopener noreferrer">{m.caption}</a> <span class="muted">{m.kind === "video" ? "Video" : "Photos"}: {m.publisher}{m.archived && <>, <a href={m.archived} target="_blank" rel="noopener">archived copy</a></>}</span></li>
           ))}
         </ul>}
+      </>
+    )}
+
+    {caseData && (
+      <>
+        <h2 id="case-data">Case data</h2>
+        <p class="muted case-data-note">Every number and detail the sources state, with the sources that state it.</p>
+        <dl class="report-details">
+          {r.figureRows.map((f) => <div><dt>{f.label}</dt><dd>{f.value}<Cites numbers={cites(`figures.${f.key}`)} /></dd></div>)}
+          {r.detailRows.map((d) => <div><dt>{d.label}</dt><dd>{d.value}<Cites numbers={cites(`details.${d.key}`)} /></dd></div>)}
+        </dl>
       </>
     )}
 

@@ -35,3 +35,24 @@ export function detailRows(d = {}, countryName = (id) => id) {
   if (d.date_precision && d.date_precision !== "exact") push("date_precision", "Date", label("date_precision", d.date_precision));
   return rows;
 }
+
+// an agency in few words, for the summary at the top: its acronym where it has one ("NDLEA"),
+// else its name; a name as published is cut at its first comma
+export const agencyShort = (id) => {
+  const a = agencies.find((x) => x.id === id);
+  if (!a) return id.split(",")[0].trim();
+  return a.name.match(/\(([A-Z][A-Za-z0-9.-]{1,11})\)$/)?.[1] ?? a.name;
+};
+
+// the few details a reader wants first, for the summary under the title: who acted, what was
+// taken and how far the case went. The full list, with sources, is at the end of the page.
+export function glanceFacts(d = {}) {
+  const facts = [];
+  if (d.agencies?.length) {
+    const names = d.agencies.slice(0, 2).map(agencyShort).join(", ");
+    facts.push({ key: "agencies", label: d.agencies.length > 1 ? "Agencies" : "Agency", value: d.agencies.length > 2 ? `${names} +${d.agencies.length - 2}` : names });
+  }
+  if (d.products?.length) facts.push({ key: "products", label: "Cannabis", value: [...new Set(d.products.map((p) => label("product", p.product)))].join(", ") });
+  if (d.case_stage) facts.push({ key: "case_stage", label: "Case stage", value: label("case_stage", d.case_stage) });
+  return facts;
+}
