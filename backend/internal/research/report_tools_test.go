@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 	"testing"
 )
@@ -52,5 +53,39 @@ func TestReportLookupFindsAndReadsReports(t *testing.T) {
 	}
 	if out := l.get(json.RawMessage(`{"slug":"../../etc/passwd"}`)); !strings.Contains(out, "No report has the slug") {
 		t.Fatal("path outside the reports", out)
+	}
+}
+
+func TestFindReportsWithTheDraftMatchesTheCheck(t *testing.T) {
+	dir := t.TempDir()
+	writeTestReport(t, dir, "2026/11/cuiaba-lixeira-39-portions-arrest.md",
+		"title: Teen arrested with 39 cannabis portions in Cuiabá's Lixeira\ncountry: br\ndate: 2026-11-04\ntype: arrest\nplace: Lixeira, Cuiabá, Mato Grosso\nsources:\n  - url: https://www.hnt.com.br/policia/lixeira\n",
+		"\nRotam officers arrested an 18-year-old in Lixeira with 39 portions of marijuana. [@1]\n")
+	l := newReportLookup(dir)
+	// the first guess shares nothing with the report; the draft cites its source
+	if out := l.find(json.RawMessage(`{"country":"br","title":"Police operation in Mato Grosso"}`)); strings.Contains(out, "will require") {
+		t.Fatal("the first guess should require nothing", out)
+	}
+	draft := `{"outcome":"new_event","country":"br","date":"2026-11-05","title":"Police operation in Mato Grosso","place":"Cuiabá","facts":[{"text":"Officers made an arrest."}],"sources":[{"url":"https://www.hnt.com.br/policia/lixeira"}]}`
+	var r Result
+	if err := json.Unmarshal([]byte(draft), &r); err != nil {
+		t.Fatal(err)
+	}
+	reports, _ := LoadReports(dir)
+	want := EventCandidates(r, reports)
+	if len(want) != 1 {
+		t.Fatalf("fixture: the check should require one comparison, got %v", want)
+	}
+	for _, arg := range []string{`{"result":` + draft + `}`, `{"result":` + strconv.Quote(draft) + `}`} {
+		out := l.find(json.RawMessage(arg))
+		required, _, _ := strings.Cut(out, "Other possible matches")
+		if !strings.Contains(required, "will require") || !strings.Contains(required, want[0].Report) {
+			t.Fatal("the draft's required comparison is missing", out)
+		}
+	}
+	// the check names every missing comparison with its date and title
+	err := CheckEventComparisons(r, reports, false)
+	if err == nil || !strings.Contains(err.Error(), "2026-11-04") || !strings.Contains(err.Error(), "Teen arrested with 39 cannabis portions") {
+		t.Fatalf("missing comparison message: %v", err)
 	}
 }

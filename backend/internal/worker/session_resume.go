@@ -112,7 +112,7 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 			reports, err := Coverage(dir)
 			if err == nil {
 				if err = research.CheckEventComparisons(r, reports, false); err != nil {
-					problems = append(problems, "event identity: "+err.Error()+". Read event-candidates.json and each original report; a matching event or later case stage must update the existing report instead")
+					problems = append(problems, "event identity: "+err.Error()+". Read each report with tracker_get_report (or existing-reports/<slug>.md) and give event_comparisons for all of them at once; tracker_find_reports with your result lists every report this check will require. A matching event or later case stage must update the existing report instead")
 				}
 			}
 			if err = research.CheckRetiredIdentity(dir, r.Slug, r.Code); err != nil {

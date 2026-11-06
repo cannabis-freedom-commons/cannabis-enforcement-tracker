@@ -541,7 +541,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			}
 			if identityErr != nil {
 				if checkpoint.RepairAttempts < 1 {
-					problem := "The new-event identity check failed: " + identityErr.Error() + ". Read event-candidates.json and each original report. Supply event_comparisons for every nominated match, with a body excerpt and a quotation-supported fact demonstrating the distinction. A matching event or later case stage must update the existing report instead of creating another. Keep genuinely distinct events and campaign components separate."
+					problem := "The new-event identity check failed: " + identityErr.Error() + ". Read each nominated report (tracker_get_report, or existing-reports/<slug>.md). Supply event_comparisons for every nominated match, with a body excerpt and a quotation-supported fact demonstrating the distinction. A matching event or later case stage must update the existing report instead of creating another. Keep genuinely distinct events and campaign components separate."
 					if session != nil {
 						if result, err = w.correctInSession(ctx, j, session, &checkpoint, problem, dir, baseEvidence); err != nil {
 							return err

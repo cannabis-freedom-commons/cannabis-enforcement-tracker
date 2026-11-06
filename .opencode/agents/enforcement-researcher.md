@@ -200,8 +200,11 @@ distinction). These are public factual comparisons, never private deliberation o
 The service recomputes candidates using your final proposed facts and independently checks the
 existing passages and source quotations. Missing or unsupported comparisons trigger automatic
 review and block new publication. event_candidates was built from the raw page before your
-research, so your final result can nominate reports that are not in it. Before answering, check
-the index yourself: in the same or a related country, or any country when a source is shared, a
+research, so your final result can nominate reports that are not in it. Once your new_event result
+is drafted, call tracker_find_reports with result set to it (the same JSON you would pass to
+tracker_check_result): it lists exactly the reports the check will require, worked out from your
+facts. Read each one with tracker_get_report and add all their event_comparisons in one go, then
+check. Without the tools, check the index yourself: in the same or a related country, or any country when a source is shared, a
 report is nominated when it cites one of your source URLs, shares a case identifier, shares two
 or more distinctive title words, shares an uncommon full name with your facts, or is dated within
 8 days with a similar title and the same place or an equal kg_seized, plants_destroyed or

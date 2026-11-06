@@ -22,7 +22,9 @@ const findReportsDescription = "Find existing tracker reports that may record th
 	"(an English headline), place, keywords, names, case_ids, source_urls, kg_seized, plants_destroyed. The answer " +
 	"lists first the reports the result check will require you to compare (the same matcher), then other likely " +
 	"matches by place, words and date, each with slug, date, title, place, figures, tags and why it matched. " +
-	"Call it again with other words or a wider window_days (default 45) when nothing fits. Read a report with get_report."
+	"Call it again with other words or a wider window_days (default 45) when nothing fits. Before you check a " +
+	"new_event, call it with result (your proposed JSON result, as for check_result): it then lists exactly the reports " +
+	"the check will require you to compare, found from your facts. Read a report with get_report."
 
 const getReportDescription = "Read one existing tracker report: its complete original Markdown (front matter, prose with " +
 	"[@n] citations, sources). Pass the slug from find_reports. Read a report before you propose an update to it " +
@@ -41,6 +43,7 @@ var findReportsSchema = map[string]any{"type": "object", "properties": map[strin
 	"kg_seized":        map[string]any{"type": "number"},
 	"plants_destroyed": map[string]any{"type": "integer"},
 	"limit":            map[string]any{"type": "integer", "description": "Other matches to list (default 10, at most 25)"},
+	"result":           map[string]any{"description": "Your proposed JSON result (object or string): the required comparisons are then worked out from it, as the check does"},
 }}
 
 var getReportSchema = map[string]any{"type": "object", "properties": map[string]any{
@@ -48,18 +51,19 @@ var getReportSchema = map[string]any{"type": "object", "properties": map[string]
 }, "required": []string{"slug"}}
 
 type findReportsArgs struct {
-	Country         string   `json:"country"`
-	Date            string   `json:"date"`
-	WindowDays      int      `json:"window_days"`
-	Title           string   `json:"title"`
-	Place           string   `json:"place"`
-	Keywords        string   `json:"keywords"`
-	Names           []string `json:"names"`
-	CaseIDs         []string `json:"case_ids"`
-	SourceURLs      []string `json:"source_urls"`
-	KgSeized        *float64 `json:"kg_seized"`
-	PlantsDestroyed *int     `json:"plants_destroyed"`
-	Limit           int      `json:"limit"`
+	Country         string          `json:"country"`
+	Date            string          `json:"date"`
+	WindowDays      int             `json:"window_days"`
+	Title           string          `json:"title"`
+	Place           string          `json:"place"`
+	Keywords        string          `json:"keywords"`
+	Names           []string        `json:"names"`
+	CaseIDs         []string        `json:"case_ids"`
+	SourceURLs      []string        `json:"source_urls"`
+	KgSeized        *float64        `json:"kg_seized"`
+	PlantsDestroyed *int            `json:"plants_destroyed"`
+	Limit           int             `json:"limit"`
+	Result          json.RawMessage `json:"result"`
 }
 
 // reportLookup loads the snapshot's reports on first use (a run that never asks pays nothing).
@@ -143,6 +147,22 @@ func (l *reportLookup) find(raw json.RawMessage) string {
 	}
 	if a.KgSeized != nil || a.PlantsDestroyed != nil {
 		probe.Figures = &Figures{KgSeized: a.KgSeized, PlantsDestroyed: a.PlantsDestroyed}
+	}
+	// a proposed result: the check's own input, so the same reports (its words fill in the search below)
+	if draft, ok := proposedResult(a.Result); ok {
+		probe = draft
+		if a.Country == "" {
+			a.Country = strings.ToLower(draft.Country)
+		}
+		if a.Date == "" {
+			a.Date = draft.Date
+		}
+		if a.Title == "" {
+			a.Title = draft.Title
+		}
+		if a.Place == "" {
+			a.Place = draft.Place
+		}
 	}
 	required := EventCandidates(probe, l.reports)
 	if len(required) > 25 {
@@ -248,6 +268,24 @@ func (l *reportLookup) find(raw json.RawMessage) string {
 		fmt.Fprintf(&b, "\nNo other report in %s%s shares these words.\n", or(a.Country, "any country"), within)
 	}
 	return b.String()
+}
+
+// proposedResult reads a draft result passed as an object or as a JSON string; a draft that is not
+// yet complete still has the fields the matcher reads.
+func proposedResult(raw json.RawMessage) (Result, bool) {
+	if len(raw) == 0 || string(raw) == "null" {
+		return Result{}, false
+	}
+	data := []byte(raw)
+	var quoted string
+	if json.Unmarshal(raw, &quoted) == nil {
+		data = []byte(quoted)
+	}
+	var r Result
+	if json.Unmarshal(data, &r) != nil {
+		return Result{}, false
+	}
+	return r, r.Title != "" || len(r.Facts) > 0
 }
 
 func or(s, fallback string) string {

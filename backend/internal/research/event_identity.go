@@ -291,10 +291,26 @@ func CheckEventComparisons(r Result, reports []ReportIndex, requireConfirmed boo
 		}
 		comparisons[c.Report] = c
 	}
+	// every missing comparison at once, so that one round of reading covers them all
+	var missing []string
 	for _, candidate := range EventCandidates(r, reports) {
 		if _, ok := comparisons[candidate.Report]; !ok {
-			return fmt.Errorf("missing event comparison for %s (%s); read its original report and compare the event and case, not just dates or titles", candidate.Report, strings.Join(candidate.Reasons, "; "))
+			other := bySlug[candidate.Report]
+			missing = append(missing, fmt.Sprintf("%s (%s, %q%s; why: %s)", candidate.Report, other.Date, other.Title, placeSuffix(other.Place), strings.Join(candidate.Reasons, "; ")))
 		}
 	}
-	return nil
+	switch len(missing) {
+	case 0:
+		return nil
+	case 1:
+		return fmt.Errorf("missing event comparison for %s; read its original report and compare the event and case, not just dates or titles", missing[0])
+	}
+	return fmt.Errorf("missing event comparisons for %d reports: %s; read each original report and compare the event and case, not just dates or titles", len(missing), strings.Join(missing, "; "))
+}
+
+func placeSuffix(place string) string {
+	if place == "" {
+		return ""
+	}
+	return ", " + place
 }
