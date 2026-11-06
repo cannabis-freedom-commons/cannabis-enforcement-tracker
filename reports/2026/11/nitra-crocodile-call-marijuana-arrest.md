@@ -54,6 +54,11 @@ sources:
     publisher: Nitrak.sk
     date: 2026-11-05
     language: sk
+  - title: 'Z bytu mali vynášať krokodíla: Namiesto neho našli marihuanu'
+    url: https://plus7dni.pluska.sk/aktualne/v-nitre-mali-z-bytu-vynasat-krokodila-policajti-namiesto-neho-nasli-marihuanu
+    publisher: Plus 7 dní
+    date: 2026-11-05
+    language: sk
 open_questions:
   - No weight, plant count or value for the marijuana was published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -68,22 +73,23 @@ open_questions:
   - The gallery's nine photographs are credited only to the police Facebook page and carry no individual captions, so what each frame shows cannot be established beyond the article's account of the apartment intervention; only the first photo has been linked.
   - The article gives no separate date for the intervention; 5 November 2026 is its publication date, the same day the existing report uses.
   - 'Left out, as its quotation was not found in Nitrak.sk: The Nitra regional police directorate said the check concerning animal keeping was passed to the competent authority for further action.'
+  - The article's nine photographs carry only the generic caption about police checking the reported crocodile removal and are credited to the Nitra regional police Facebook page, appearing to republish the same police handout already linked on the existing report, so no new media entry is added.
 ---
 
 Police in Nitra detained a 24-year-old man after finding marijuana in an
-apartment on a housing estate in the city. [@1,4] Officers had gone to the address
+apartment on a housing estate in the city. [@1,4,5] Officers had gone to the address
 to check a report that unknown people were carrying exotic animals, probably
-crocodiles, out of the 12th-floor apartment. [@1,3,4] A designated officer opened
+crocodiles, out of the 12th-floor apartment. [@1,3,4,5] A designated officer opened
 criminal proceedings over the misdemeanour of unauthorised possession of a
-narcotic and psychotropic substance. [@1,3,4] The Nitra regional police directorate
+narcotic and psychotropic substance. [@1,3,4,5] The Nitra regional police directorate
 said the check concerning animal keeping was passed to the competent authority
-for further action. [@1,3]
+for further action. [@1,3,5]
 
 Officers from the rapid-response motorised unit went to verify the situation.
 [@1,3] The police said that on reaching the floor they immediately heard sounds of
-various animals and could clearly smell marijuana. [@1,3]
+various animals and could clearly smell marijuana. [@1,3,5]
 
 The man said the material was his marijuana for personal use, and after being
-asked he voluntarily handed it to the officers. [@1,3,4]
+asked he voluntarily handed it to the officers. [@1,3,4,5]
 
-Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2,3]
+Inside the apartment, officers saw a plastic tray and grinder containing unidentified dried plant material. [@2,3,5]
