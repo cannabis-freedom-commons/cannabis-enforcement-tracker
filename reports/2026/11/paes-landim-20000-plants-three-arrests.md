@@ -76,6 +76,11 @@ sources:
     publisher: Jornal de Brasília
     date: 2026-11-04
     language: pt
+  - title: 'Incineração de drogas: Polícia Federal queima 20 mil pés de maconha em Paes Landim'
+    url: https://g1.globo.com/pi/piaui/videos-bom-dia-piaui/video/incineracao-de-drogas-policia-federal-queima-20-mil-pes-de-maconha-em-paes-landim-15161520.ghtml
+    publisher: G1
+    date: 2026-11-05
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
@@ -86,11 +91,13 @@ open_questions:
   - The GP1 page names Simplício Mendes in its article body but Paes Landim in its photo captions and topic tag, so it does not resolve which municipality is correct.
   - The Jornal de Brasília names Paes Landim, while the Federal Police statement, g1's correction and GP1's article text name the rural zone of Simplício Mendes; which municipality is correct remains unresolved.
   - The page names no identities or charges for the three detainees and gives no later court step.
+  - The video page provides only its title as usable text; no article body, arrest count, operation date, plot count or video transcript could be captured, so the operation date and arrests rely on the existing report.
+  - The page thumbnail at https://s01.video.glbimg.com/x720/15161520.jpg has no caption or credit confirming it shows this burning, so no media entry is made.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
 people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
-southern Piauí. [@1,4,5] The operation was run from the Federal Police's Picos base
+southern Piauí. [@1,4,5,6] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
 During the operation the teams found four plots used to grow the drug. [@1,3,4,5] The
