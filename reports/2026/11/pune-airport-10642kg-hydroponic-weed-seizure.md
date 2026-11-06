@@ -119,6 +119,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-06
     language: hi
+  - title: 'రూ.3.72 కోట్ల విదేశీ గంజాయి స్వాధీనం: థాయ్లాండ్ నుంచి వచ్చిన వ్యక్తి అరెస్ట్'
+    url: https://www.dishadaily.com/crime/foreign-origin-ganja-worth-rs372-crore-seized-man-arriving-from-thailand-arrested-599001
+    publisher: Disha Daily
+    date: 2026-11-06
+    language: te
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -153,10 +158,12 @@ open_questions:
   - Neither account gives a separate date for the arrest or the remand hearing, only that custody runs to 18 November.
   - 'Left out, as its quotation was not found in Dainik Bhaskar Hindi: The passenger was arrested and produced before a judicial magistrate, who granted him judicial custody till 18 November.'
   - 'Left out, as its quotation was not found in The Indian Express: Customs seized the weed along with its packing materials under the Narcotic Drugs and Psychotropic Substances Act, 1985.'
+  - The article gives no separate date for the interception, arrest or remand hearing; 6 November 2026 is its publication date, while the existing report dates the interception to the evening of 4 November 2026.
+  - The page's single image is captioned only with the headline and is not identified as a photograph of this seizure, so no media entry is added.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
@@ -164,18 +171,18 @@ of Pune Customs. [@2,3,12]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8,9,10,11,12,14,15,16] Further investigation is under way to bust the illicit syndicate
-involved in the smuggling attempt. [@3,4]
+November. [@2,4,6,8,9,10,11,12,14,15,16,18] Further investigation is under way to bust the illicit syndicate
+involved in the smuggling attempt. [@3,4,18]
 
 The arrested flyer was 45 years old. [@4]
 
