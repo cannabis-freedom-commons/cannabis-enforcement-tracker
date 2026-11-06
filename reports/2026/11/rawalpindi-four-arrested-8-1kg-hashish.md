@@ -32,6 +32,10 @@ sources:
     url: https://www.urdupoint.com/en/pakistan/rawalpindi-police-arrest-four-drug-suppliers-2283902.html
     publisher: UrduPoint
     date: 2026-11-04
+  - title: Rawalpindi Court Sentences Zulfiqar To 14 Years For Supplying 5.36kg Hashish
+    url: https://www.urdupoint.com/en/pakistan/drug-supplier-sentenced-to-14-years-imprisonm-2284762.html
+    publisher: UrduPoint
+    date: 2026-11-05
 open_questions:
   - The articles give no separate date for the four raids; 4 November 2026 is the earliest publication date and is used as the incident date, while TNS republished the same account on 5 November 2026.
   - No names, ages or further case outcomes for the four accused were published beyond the registration of separate cases.
@@ -58,6 +62,7 @@ Together the four station-level recoveries total 8.1 kilograms of hashish,
 described by police as more than eight kilograms. [@1]
 
 Police said further action was being taken to curb drug trafficking in the
-district. [@2] The four operations were reported across Rawalpindi district.
+district. [@2,3] The four operations were reported across Rawalpindi district.
 [@2]
 
+Rawalpindi Police also said operations would aim to protect young people from narcotics abuse. [@3]
