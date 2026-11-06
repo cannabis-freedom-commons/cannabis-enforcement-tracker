@@ -119,6 +119,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-05
     language: zh
+  - title: 'Наркотики з трьох країн: в Україні викрили масштабну мережу'
+    url: https://ua.korrespondent.net/amp/4926311-narkotyky-z-trokh-krain-v-ukraini-vykryly-masshtabnu-merezhu
+    publisher: Корреспондент.net
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -153,26 +158,27 @@ open_questions:
   - The page gives no separable cannabis-only weight or valuation; the combined 67 kg and 90 million hryvnias cover all drugs and property together.
   - The page reproduces the Office of the Prosecutor General and National Police statements and is not an independent account.
   - The UA.NEWS Chinese page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
+  - The closing paragraph about the Greek coast guard intercepting a yacht with cannabis and detaining two Ukrainians is a separate event left out of this match.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13,15] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3,7,9,12,13] The 39 suspects were notified over drug trafficking and smuggling, and the
+[@1,3,7,9,12,13,15] The 39 suspects were notified over drug trafficking and smuggling, and the
 most serious charge carries up to 12 years in prison with confiscation. [@2,6,10,12,13]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5,6,8,12,13] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5,6,8,12,13,15] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
 parcels. [@1,6,8,13,14] In Ukraine the drugs were sold through Telegram channels and a
 network of distributors. [@1,3,6,12,13,14] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13,15] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1,6,13] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14]
+drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14,15]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
