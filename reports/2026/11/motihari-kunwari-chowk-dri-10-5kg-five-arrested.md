@@ -102,6 +102,7 @@ open_questions:
   - This account does not mention the hired car, the Satganj-Nepal origin, the FIR by the DRI intelligence officer, or the production before the special court and remand to jail recorded in the existing report.
   - The submitted article gives no separate date for the raid; 6 November 2026 is its publication date, while the existing report dates the operation to the night of 4 November 2026.
   - The submitted article does not mention the SSB joint team, the hired car, the reported Satganj-Nepal origin, the FIR or the special-court production recorded in the existing report.
+  - The Prabhat Khabar report attributes the operation to the DRI team acting on a tip-off near Kunwari Devi Chowk but names neither the SSB joint team nor a date; 6 November 2026 is its own publication date, while the report dates the raid to the night of 4 November 2026.
 ---
 
 The Muzaffarpur unit of the Directorate of Revenue Intelligence (DRI), India's
@@ -129,3 +130,5 @@ of cannabis seizures across India in recent months, including ganja and charas
 hauls in Bihar and Uttar Pradesh. [@1]
 
 Officers also seized five smartphones from the men. [@3]
+
+After completing the legal paperwork, all five accused were sent to jail in judicial custody. [@4]
