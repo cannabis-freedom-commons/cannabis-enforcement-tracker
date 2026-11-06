@@ -58,6 +58,11 @@ sources:
     publisher: NewsWeek
     date: 2026-11-05
     language: uk
+  - title: В Полтавской области мужчину будут судить за выращивание конопли и хранение каннабиса
+    url: https://resonance.ua/ru/poltavskoj-oblasty-muzhchynu-budut-sudyt/
+    publisher: Резонанс
+    date: 2026-11-05
+    language: ru
 open_questions:
   - The sources give no separate date for the search, the cultivation or the filing of the indictment; 5 November 2026, the publication date, stands in as the incident date.
   - The reports name only the region, Poltava Oblast, and give no district or village, so the place is recorded at region precision.
@@ -66,21 +71,23 @@ open_questions:
   - The exact weight above 1.2 kg and whether the seized plants were destroyed or retained are not stated.
   - No court has given a verdict, so no prison term is recorded.
   - The sources appear to be outlets reprinting each other's account of an official statement rather than independent reporting; no police or prosecutor release for this case could be opened.
+  - The Russian-language edition gives no district or village either, so the place remains recorded at region precision.
+  - The page photo carries only the article headline as alt text and is not established to show this case, so no media entry is added.
 ---
 
 A man in Poltava Oblast was sent to trial after investigators completed a
 pre-trial investigation in which he was accused of growing cannabis and of
-storing more than 1.2 kg of cannabis. [@1]
+storing more than 1.2 kg of cannabis. [@1,4]
 
 Investigators say that in spring he sowed a plot with cannabis on the grounds of
 his private household, and that he regularly watered the plants, worked the soil
-and tied up the stems. [@1] During an authorised search, law enforcement
+and tied up the stems. [@1,4] During an authorised search, law enforcement
 officers seized 17 cannabis plants and more than 1.2 kilograms of dry green
-substance. [@1] A forensic examination confirmed that the seized plants belonged
+substance. [@1,4] A forensic examination confirmed that the seized plants belonged
 to the genus cannabis and that the dry substance was cannabis. [@1]
 
 The man is charged with criminal offences under Part 2 of Article 309 and Part 1
-of Article 310 of Ukraine's Criminal Code, and no verdict has been given. [@1]
+of Article 310 of Ukraine's Criminal Code, and no verdict has been given. [@1,4]
 
 Officers found the man during an authorised search of the private household, and
 the indictment has been sent to court. [@3]
@@ -92,4 +99,3 @@ material. [@2]
 The case remains at the prosecution stage: the pre-trial investigation is
 complete, the indictment is with the court and the man is presumed innocent
 until a court verdict. [@2]
-
