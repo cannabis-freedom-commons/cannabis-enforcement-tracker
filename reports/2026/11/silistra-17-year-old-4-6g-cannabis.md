@@ -24,6 +24,11 @@ sources:
     publisher: Информационна агенция Фокус (focus-news.net)
     date: 2026-11-04
     language: bg
+  - title: 17-годишен е задържан с 4,6 грама канабис в Силистра
+    url: https://www.kvorum-silistra.info/news/71822
+    publisher: Кворум Силистра
+    date: 2026-11-04
+    language: bg
 open_questions:
   - The article states the drug was found "yesterday" relative to its 4 November 2026 publication, so 3 November is used as the incident date.
   - No figure for the value of the cannabis or any place within Silistra was published.
@@ -31,15 +36,16 @@ open_questions:
   - No court outcome was reported; the pre-trial investigation was still under way when the article was published.
   - Only one opened source covers this event; searches and local outlet pages turned up no second account.
   - The page's lead image repeats the headline as its caption and is credited to Фокус without showing the seizure, so no media entry is included.
+  - The Kvorum Silistra account gives no street location within the city for the police check, only that it was on the territory of the provincial capital.
+  - This article repeats the police directorate's statement and adds no charge, value or court outcome beyond what was already recorded.
 ---
 
 Police in Silistra detained a 17-year-old boy after a check found he was
-carrying 4.6 grams of cannabis. [@1] The Silistra regional police directorate,
-part of Bulgaria's Interior Ministry, reported the detention. [@1]
+carrying 4.6 grams of cannabis. [@1,2] The Silistra regional police directorate,
+part of Bulgaria's Interior Ministry, reported the detention. [@1,2]
 
-Officers found the drug the day before the report and seized it. [@1] The
-teenager was held for up to 24 hours. [@1]
+Officers found the drug the day before the report and seized it. [@1,2] The
+teenager was held for up to 24 hours. [@1,2]
 
 Police opened a pre-trial investigation into unlawful possession of a high-risk
-narcotic substance, and the investigation is continuing. [@1]
-
+narcotic substance, and the investigation is continuing. [@1,2]
