@@ -22,6 +22,10 @@ figures:
     amount: 5200000000
     currency: JPY
 created_by_model: cursor/composer-2.5
+details:
+  route: {from: [vn], to: [jp]}
+data_sources:
+  details.route: [1, 2]
 status: verified
 tags: [tokyo-port, vietnam-route, customs]
 open_questions:

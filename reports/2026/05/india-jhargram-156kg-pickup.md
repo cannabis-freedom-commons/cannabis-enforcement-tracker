@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 156.2
+details:
+  route: {from: [in], to: [in], crossing: Jharkhand}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [pickup, nh49, jharkhand-route, ndps]

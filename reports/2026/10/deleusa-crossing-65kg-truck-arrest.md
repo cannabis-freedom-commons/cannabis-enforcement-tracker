@@ -20,7 +20,9 @@ figures:
   kg_seized: 65
 details:
   setting: [vehicle, border]
+  route: {from: [ba], to: [me]}
 data_sources:
+  details.route: [1, 3, 2]
   details.setting: [1, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

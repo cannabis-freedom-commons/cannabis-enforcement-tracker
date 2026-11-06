@@ -89,10 +89,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  route: {from: [in], to: [in], crossing: Odisha}
 data_sources:
   details.agencies: [3, 5, 8, 14, 15, 29, 43, 44]
   details.agency_types: [3, 5, 8, 14, 15, 29, 43, 44]
   details.products: [3, 14, 15, 29, 43, 44]
+  details.route: [2, 27, 1, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0

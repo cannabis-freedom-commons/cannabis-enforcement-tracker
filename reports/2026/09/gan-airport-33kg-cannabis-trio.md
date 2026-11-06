@@ -20,7 +20,9 @@ figures:
   kg_seized: 3.345
 details:
   setting: [airport]
+  route: {from: [in], to: [mv]}
 data_sources:
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

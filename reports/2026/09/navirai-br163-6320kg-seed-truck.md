@@ -19,10 +19,12 @@ figures:
   arrested: 1
   kg_seized: 6320
 details:
+  route: {from: [br], to: [br], crossing: 'Ponta Porã to Santos'}
   agencies: [br-pf, br-prf]
   agency_types: [police]
   setting: [vehicle]
 data_sources:
+  details.route: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]

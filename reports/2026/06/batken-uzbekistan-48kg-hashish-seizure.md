@@ -23,8 +23,10 @@ media:
 details:
   products:
     - {product: hashish}
+  route: {from: [tj], to: [uz], crossing: 'via Kyrgyzstan'}
 data_sources:
   details.products: [1, 3]
+  details.route: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82ac3bd972c69b5196b89c18fc8de10c

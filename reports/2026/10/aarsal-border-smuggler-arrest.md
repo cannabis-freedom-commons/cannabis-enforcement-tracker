@@ -21,8 +21,10 @@ details:
   setting: [border]
   products:
     - {product: hashish}
+  route: {from: [lb], to: [sy]}
 data_sources:
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

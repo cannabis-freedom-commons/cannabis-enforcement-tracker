@@ -20,6 +20,10 @@ figures:
   kg_seized: 142.8
   value: { amount: 7140000, currency: INR }
 created_by_model: unknown
+details:
+  route: {from: [in], to: [in], crossing: 'Odisha to Maharashtra'}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [cars, odisha-route, maharashtra-route]
 sources:

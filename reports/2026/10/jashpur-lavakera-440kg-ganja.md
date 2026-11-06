@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 440.63
+details:
+  route: {from: [in], to: [in], crossing: Odisha}
+data_sources:
+  details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [jashpur, trafficking, odisha-route]

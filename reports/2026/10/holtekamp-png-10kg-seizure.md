@@ -16,6 +16,10 @@ summary: >-
   cross-border paths.
 figures:
   kg_seized: 10
+details:
+  route: {from: [pg], to: [id]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [jayapura, png-route, trafficking]

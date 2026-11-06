@@ -23,9 +23,11 @@ created_by_model: anthropic/opus-5.5
 details:
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  route: {from: [in], to: [in], crossing: Odisha}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.route: [1]
 status: verified
 tags: [stf, odisha-route]
 sources:

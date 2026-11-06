@@ -27,9 +27,11 @@ details:
   agencies: [fr-douane]
   agency_types: [customs]
   setting: [port]
+  route: {from: [sn], to: [ly]}
 data_sources:
   details.agencies: [1, 2, 6]
   details.agency_types: [1, 2, 6]
+  details.route: [1, 2, 3, 4, 6, 5]
   details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 tags: [douane, port, container, machine-tools, senegal-libya-route]

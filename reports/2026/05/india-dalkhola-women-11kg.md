@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 11
+details:
+  route: {from: [in], to: [in], crossing: 'Siliguri corridor'}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [women-couriers, nh12, siliguri-route]

@@ -26,10 +26,12 @@ details:
   agency_types: [customs]
   products:
     - {product: hashish}
+  route: {from: [np], to: [in]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [charas, nepal-route, hideout, surveillance]
 open_questions:

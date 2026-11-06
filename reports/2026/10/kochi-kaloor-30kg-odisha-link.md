@@ -18,6 +18,10 @@ figures:
   arrested: 1
   kg_seized: 30
 created_by_model: unknown
+details:
+  route: {from: [in], to: [in], crossing: 'Odisha to Kerala'}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [odisha-route, dansaf, operation-toofan]
 sources:

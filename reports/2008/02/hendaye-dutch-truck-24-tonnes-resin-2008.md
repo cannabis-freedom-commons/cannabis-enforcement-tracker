@@ -21,10 +21,12 @@ details:
   agency_types: [customs]
   products:
     - {product: hashish}
+  route: {from: [es], to: [fr]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [resin, customs, spain-route]
 open_questions:

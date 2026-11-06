@@ -18,6 +18,10 @@ figures:
   arrested: 1
   kg_seized: 110
 created_by_model: unknown
+details:
+  route: {from: [np], to: [np], crossing: 'toward Siraha'}
+data_sources:
+  details.route: [1, 2]
 status: verified
 tags: [courier, siraha-route]
 sources:

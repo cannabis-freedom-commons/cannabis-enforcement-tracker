@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 110
+details:
+  route: {from: [in], to: [lk]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [pudukkottai, sri-lanka-route, fishermen]

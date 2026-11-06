@@ -24,8 +24,10 @@ details:
   setting: [vehicle]
   products:
     - {product: edibles}
+  route: {from: [ke], to: [ke], crossing: 'Mombasa to Kisumu'}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [bhang, bus, mombasa-route]

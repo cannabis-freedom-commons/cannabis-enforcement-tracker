@@ -23,8 +23,10 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [es]}
 data_sources:
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [hashish, yacht, eastern-mediterranean-route, operacion-fokke]
 sources:

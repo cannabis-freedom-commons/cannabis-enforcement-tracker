@@ -28,8 +28,10 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   setting: [airport]
   environment: [indoor]
+  route: {from: [ae], to: [in]}
 data_sources:
   details.environment: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 tags: [chennai, airport, dubai-route, hydroponic, ndps]
