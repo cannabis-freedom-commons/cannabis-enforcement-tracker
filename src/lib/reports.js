@@ -112,7 +112,7 @@ export function related(r, n = 4) {
 // filters load: short keys, only what a list item and a map dot need.
 export function indexRow(r) {
   const numbers = figureNumbers(r);
-  const details = detailValues(r.details);
+  const details = detailValues(r.details, r.figures);
   return {
     i: r.id, d: isoDate(r.date), ...(r.added_at ? { at: r.added_at } : {}), c: r.country, t: r.type, a: r.also ?? [],
     ti: r.title, s: r.summary, p: r.place ?? null,

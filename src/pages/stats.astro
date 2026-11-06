@@ -6,7 +6,7 @@ import { sourcesByDomain, sourcesByTld, SOURCE_KINDS, GENERIC_CC } from "../lib/
 import BandChart from "../components/stats/BandChart.astro";
 import { TYPES, STATUS } from "../lib/types.js";
 import { countryOf, flagOf, countryName } from "../lib/countries.js";
-import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay, detailCounts, topAgencies, caseFunnel, topRoutes } from "../lib/stats.js";
+import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, PRISON_BANDS, SEIZURE_BANDS, SOURCE_COUNT_BANDS, prisonYears, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay, detailCounts, topAgencies, caseFunnel, topRoutes } from "../lib/stats.js";
 import { formatWeight, formatWeightNumber } from "../lib/figures.js";
 const base = import.meta.env.BASE_URL;
 const domains = sourcesByDomain(reports);
@@ -41,13 +41,15 @@ const leaders = [
 // what the reports record about agencies, cannabis, places and courts (their structured details)
 const recorded_ = reports.filter((r) => r.details).length;
 const agencyRows = topAgencies(reports);
+// each row leads to the Reports page filtered by it (the "+ Filter" details, figure-filters.js)
+const reportsWith = (query) => `${base}reports/?${new URLSearchParams(query)}`;
 const detailLists = [
-  { title: "What was seized", rows: detailCounts(reports, "products", "product") },
-  { title: "Where it happened", rows: detailCounts(reports, "setting", "setting") },
-  { title: "What people did", rows: detailCounts(reports, "activity", "activity") },
-  { title: "How it was grown", rows: detailCounts(reports, "environment", "environment") },
-  { title: "Who acted", rows: detailCounts(reports, "agency_types", "agency_type") },
-  { title: "How far the case went", rows: detailCounts(reports, "case_stage", "case_stage") },
+  { title: "What was seized", filter: "product", rows: detailCounts(reports, "products", "product") },
+  { title: "Where it happened", filter: "setting", rows: detailCounts(reports, "setting", "setting") },
+  { title: "What people did", filter: "activity", rows: detailCounts(reports, "activity", "activity") },
+  { title: "How it was grown", filter: "environment", rows: detailCounts(reports, "environment", "environment") },
+  { title: "Who acted", filter: "agency_type", rows: detailCounts(reports, "agency_types", "agency_type") },
+  { title: "How far the case went", filter: "case_stage", rows: detailCounts(reports, "case_stage", "case_stage") },
 ].filter((l) => l.rows.length);
 const funnel = caseFunnel(reports);
 const routes = topRoutes(reports);
@@ -55,6 +57,13 @@ const yearRows = years.map((y) => { const list = reports.filter((r) => r.year ==
 const pct = (n, of) => `${((n / Math.max(1, of)) * 100).toFixed(1)}%`;
 // how long the stated prison terms are, and how big the stated seizures
 const prison = prisonBands(reports), seizures = seizureBands(reports);
+// each band leads to its reports: the figure filters take a range with both ends included, so a band
+// [lo, hi) ends just below hi (terms are kept to 0.01 years); the longest term caps the open band, as
+// an open end would take in life and death sentences too
+const longest = Math.ceil(Math.max(20, ...reports.map((r) => r.figures?.prison && prisonYears(r.figures.prison)).filter((y) => typeof y === "number")));
+const bandHref = (key, [, , lo, hi], cap = "") => reportsWith({ [key]: `${lo}-${hi === Infinity ? cap : Math.round((hi - 0.01) * 100) / 100}` });
+prison.bands.forEach((b, i) => { b.href = PRISON_BANDS[i] ? bandHref("prison", PRISON_BANDS[i], longest) : reportsWith({ sentence: b.label === "Life" ? "life" : "death" }); });
+seizures.bands.forEach((b, i) => { b.href = reportsWith({ kg: SEIZURE_BANDS[i][3] === Infinity ? `${SEIZURE_BANDS[i][2]}-` : `${SEIZURE_BANDS[i][2]}-${SEIZURE_BANDS[i][3] - 0.01}` }); });
 const yearsText = (y) => y < 1 ? `${Math.round(y * 12)} months` : `${y.toLocaleString("en-GB", { maximumFractionDigits: 1 })} years`;
 // what enforcement looks like in each region: the share of its reports of each primary type
 const mixTypes = byType.map(([id]) => id);
@@ -87,6 +96,7 @@ const tldGroups = [["Generic endings", bySite.tlds.filter((t) => !tldPlace(t.tld
   .map(([title, rows]) => ({ title, rows, max: Math.max(1, ...rows.map((t) => t.sources)) }));
 const ccShare = bySite.tlds.filter((t) => tldPlace(t.tld)).reduce((n, t) => n + t.sources, 0);
 const perReport = sourceCountBands(reports);
+perReport.bands.forEach((b, i) => { const [, , lo, hi] = SOURCE_COUNT_BANDS[i]; b.href = reportsWith({ sources: `${lo}-${hi === Infinity ? "" : hi - 1}` }); });
 const withMedia = reports.filter((r) => r.media?.length || r.cover).length;
 const precisions = [["exact", "Exact spot"], ["locality", "Town or village"], ["district", "District"], ["region", "Region or state"], ["country", "Country only"]].map(([k, label]) => [label, reports.filter((r) => r.precision === k).length]).filter(([, n]) => n);
 const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", "Calendar"], ["what", "What happened"], ["sizes", "Sentences and seizures"], ["where", "Where"], ["leaders", "Biggest figures"], ["tags", "Tags"], ["models", "AI models"], ["ai-usage", "AI usage"], ["years", "By year"], ["sources", "Sources"]];
@@ -178,7 +188,7 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
     <div class="side-grid">
       <div>
         <h3>By type</h3>
-        <ol class="hbars">{byType.map(([id, n]) => <li><span class="hb-label"><i class="dot" style={`--c:${TYPES[id].color}`}></i>{TYPES[id].plural}</span><span class="hb-track"><i style={`width:${(n / maxType) * 100}%`}></i></span><span class="hb-num">{fmt(n)}</span></li>)}</ol>
+        <ol class="hbars">{byType.map(([id, n]) => <li><a class="hb-label" href={reportsWith({ type: id })}><i class="dot" style={`--c:${TYPES[id].color}`}></i>{TYPES[id].plural}</a><span class="hb-track"><i style={`width:${(n / maxType) * 100}%`}></i></span><span class="hb-num">{fmt(n)}</span></li>)}</ol>
       </div>
       <div>
         <h3>How far each report is checked</h3>
@@ -245,17 +255,17 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       {detailLists.map((l) => (
         <div>
           <h3>{l.title}</h3>
-          <ol class="hbars compact">{l.rows.slice(0, 8).map((row) => <li><span class="hb-label">{row.label}</span><span class="hb-track"><i style={`width:${(row.count / l.rows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(row.count)}</span></li>)}</ol>
+          <ol class="hbars compact">{l.rows.slice(0, 8).map((row) => <li><a class="hb-label" href={reportsWith({ [l.filter]: row.id })}>{row.label}</a><span class="hb-track"><i style={`width:${(row.count / l.rows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(row.count)}</span></li>)}</ol>
         </div>
       ))}
     </div>
     <h3>From arrest to sentence</h3>
     <p class="muted">People counted at each step, in the reports that give the number. Arrested does not mean charged, and charged does not mean convicted; most reports cover one step only.</p>
-    <ol class="hbars">{funnel.map((step) => <li><span class="hb-label">{step.key[0].toUpperCase() + step.key.slice(1)}</span><span class="hb-track"><i style={`width:${(step.people / Math.max(1, funnel[0].people)) * 100}%`}></i></span><span class="hb-num" title={`in ${fmt(step.reports)} reports`}>{fmt(step.people)}</span></li>)}</ol>
+    <ol class="hbars">{funnel.map((step) => <li>{step.reports ? <a class="hb-label" href={reportsWith({ [step.key]: "0-" })} title={`The ${fmt(step.reports)} reports that give the number`}>{step.key[0].toUpperCase() + step.key.slice(1)}</a> : <span class="hb-label">{step.key[0].toUpperCase() + step.key.slice(1)}</span>}<span class="hb-track"><i style={`width:${(step.people / Math.max(1, funnel[0].people)) * 100}%`}></i></span><span class="hb-num" title={`in ${fmt(step.reports)} reports`}>{fmt(step.people)}</span></li>)}</ol>
     {routes.length > 0 && (
       <>
         <h3>Smuggling routes</h3>
-        <ol class="hbars compact">{routes.map((r) => <li><span class="hb-label">{flagOf(r.from)} {countryName(r.from)} → {flagOf(r.to)} {countryName(r.to)}</span><span class="hb-track"><i style={`width:${(r.count / routes[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(r.count)}</span></li>)}</ol>
+        <ol class="hbars compact">{routes.map((r) => <li><a class="hb-label" href={reportsWith({ from: r.from, to: r.to })}>{flagOf(r.from)} {countryName(r.from)} → {flagOf(r.to)} {countryName(r.to)}</a><span class="hb-track"><i style={`width:${(r.count / routes[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(r.count)}</span></li>)}</ol>
       </>
     )}
   </section>

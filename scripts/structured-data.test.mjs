@@ -11,6 +11,15 @@ test("index rows carry registry agencies and listed terms only", () => {
   assert.ok(hasDetail({ x }, agency, "ng-ndlea"));
   assert.ok(!hasDetail({ x: {} }, agency, "ng-ndlea"));
   assert.deepEqual(figureNumbers({ figures: { convicted: 2, injured: 1 } }), { cv: 2, in: 1 });
+  // a smuggling route: each end its own filter (?from=ma&to=es)
+  const route = detailValues({ route: { from: ["ma"], to: ["es", "fr"] } });
+  assert.deepEqual(route, { rf: ["ma"], rt: ["es", "fr"] });
+  const [from, to] = ["from", "to"].map((k) => DETAIL_FILTERS.find((f) => f.key === k));
+  assert.ok(hasDetail({ x: route }, from, "ma") && hasDetail({ x: route }, to, "fr") && !hasDetail({ x: route }, to, "ma"));
+  assert.ok(from.options.some(([id]) => id === "ma"));
+  // a life or death sentence the figures state is a sentence type too
+  assert.deepEqual(detailValues(undefined, { prison: "life" }), { st: ["life"] });
+  assert.deepEqual(detailValues({ sentence_types: ["death"] }, { prison: "death" }), { st: ["death"] });
 });
 
 test("the backfill adds only values a cited sentence bears out", () => {

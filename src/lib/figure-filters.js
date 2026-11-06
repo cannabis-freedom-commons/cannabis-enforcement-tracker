@@ -7,6 +7,7 @@ import rates from "../data/exchange-rates.json" with { type: "json" };
 import { prisonYears } from "./stats.js";
 import vocabularies from "../data/vocabularies.json" with { type: "json" };
 import agencies from "../data/agencies.json" with { type: "json" };
+import countries from "../data/countries.json" with { type: "json" };
 
 export const FIGURE_FILTERS = [
   { key: "arrested", field: "ar", label: "People arrested", short: "Arrested" },
@@ -71,9 +72,11 @@ export function inRange(row, filter, [min, max]) {
 }
 
 // Filters by the structured details a report records (details in the report): one value each,
-// kept in the address as ?agency=ng-ndlea, ?product=hashish… A report that does not record the
-// detail is left out while it is filtered.
+// kept in the address as ?agency=ng-ndlea, ?product=hashish, ?from=ma&to=es (a smuggling route)… A
+// report that does not record the detail is left out while it is filtered.
 const terms = (list) => vocabularies[list].map((t) => [t.id, t.label]);
+const placeName = (c) => (c.parent ? `${c.name}, ${countries.find((p) => p.id === c.parent)?.name ?? c.parent}` : c.name);
+const places = countries.map((c) => [c.id, placeName(c)]).sort((a, b) => a[1].localeCompare(b[1]));
 export const DETAIL_FILTERS = [
   { key: "agency", field: "ag", label: "Agency", options: agencies.map((a) => [a.id, a.name]).sort((a, b) => a[1].localeCompare(b[1])) },
   { key: "agency_type", field: "at", label: "Agency type", options: terms("agency_type") },
@@ -82,15 +85,22 @@ export const DETAIL_FILTERS = [
   { key: "setting", field: "se", label: "Setting", options: terms("setting") },
   { key: "environment", field: "en", label: "Grown", options: terms("environment") },
   { key: "case_stage", field: "cs", label: "Case stage", options: terms("case_stage") },
+  { key: "sentence", field: "st", label: "Sentence", options: terms("sentence_type") },
+  { key: "from", field: "rf", label: "Smuggled from", options: places },
+  { key: "to", field: "rt", label: "Smuggled to", options: places },
 ];
 
-// A report's details as short lists for its index row: only registry ids and listed terms.
-export function detailValues(d) {
-  if (!d) return {};
+// A report's details as short lists for its index row: only registry ids and listed terms. A life
+// or death sentence its figures state counts as that sentence type too.
+export function detailValues(d, figures) {
+  const kind = figures?.prison ? prisonYears(figures.prison) : null;
+  const stated = kind === "life" || kind === "death" ? [kind] : [];
+  if (!d) return stated.length ? { st: stated } : {};
   const ids = new Set(agencies.map((a) => a.id));
   const x = {
     ag: d.agencies?.filter((a) => ids.has(a)), at: d.agency_types, pd: d.products?.map((p) => p.product),
     ac: d.activity, se: d.setting, en: d.environment, cs: d.case_stage ? [d.case_stage] : undefined,
+    st: [...(d.sentence_types ?? []), ...stated], rf: d.route?.from, rt: d.route?.to,
   };
   const out = {};
   for (const [k, v] of Object.entries(x)) if (v?.length) out[k] = [...new Set(v)];
