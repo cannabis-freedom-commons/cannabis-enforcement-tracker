@@ -81,6 +81,10 @@ sources:
     publisher: Serangkai.co
     date: 2026-11-05
     language: id
+  - title: Police Seized Seeds Suspected to be Marijuana in Pekanbaru, A Suspect Arrested
+    url: https://inp.polri.go.id/artikel/police-seized-seeds-suspected-to-be-marijuana-in-pekanbaru-a-suspect-arrested
+    publisher: INP | Indonesian National Police
+    date: 2026-11-06
 open_questions:
   - The pots were reported as suspected cannabis plants with no published laboratory confirmation.
   - No separate count of individual plants was given beyond the 53 pots.
@@ -89,6 +93,8 @@ open_questions:
   - The three accounts repeat the Polresta Pekanbaru briefing and are not independent of the police version.
   - ANTARA names the detained man as ED and the supplier as DN, who is listed as wanted, while Halo Terkini, Serangkai.co and the existing report name AH and YL with supplier DI; the discrepancy is unresolved.
   - ANTARA describes the potted plants as about five days old and awaiting laboratory confirmation, so the cannabis identity remains suspected.
+  - The submitted INP account describes one suspect, ED, with a cottage where the plants were found, while the local outlets describe two detained men, AH and YL, and a hut nearby; ANTARA links the pot find to the development of the ED arrest, and the relationship between ED and the two detained men is unresolved.
+  - The submitted account gives no weight for the dried marijuana and no count of the potted plants, and the plants' cannabis identity is still subject to laboratory testing.
 ---
 
 Pekanbaru narcotics police detained two men identified as AH, 41, and YL, 49, in
@@ -114,3 +120,5 @@ the area. [@1] An operational team led by Kanit II Ipda Efrain Wildana
 investigated the location after the tip. [@1] Officers used an undercover-buy
 tactic to detain the men in front of the slaughterhouse. [@1,6] The subsequent
 search was witnessed by the local neighbourhood chief. [@1]
+
+The man suspected of dealing the dried cannabis was detained in an undercover operation, according to the police's national news portal, which identified him only as ED. [@7] ANTARA reported that the eight dried-cannabis packages taken from ED came from a man identified as DN, who had been placed on the wanted list. [@5] The dried cannabis was packed in small packets and sold for about IDR 50,000 per packet. [@7]
