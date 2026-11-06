@@ -52,6 +52,11 @@ sources:
     publisher: Rádio Difusora do Paraná
     date: 2026-11-05
     language: pt
+  - title: Traficantes fogem a pé e abandonam mais de meia tonelada de maconha em Terra Roxa
+    url: https://portalnovasantarosa.com.br/noticia/traficantes-fogem-a-pe-e-abandonam-mais-de-meia-tonelada-de-maconha-em-terra-roxa
+    publisher: Portal Nova Santa Rosa
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The three suspects were not located; no arrests, charges or court outcome were reported for this seizure.
   - The newspaper describes the bundles as a substance similar to marijuana, while the Federal Police statement calls it marijuana and a substance similar to marijuana; both give the 534 kg weight.
@@ -66,26 +71,27 @@ open_questions:
   - 'Left out, as its quotation was not found in Mídia Sudoeste: The incident in Terra Roxa began on 3 November 2026, with 534 kg seized on Estrada Paulista.'
   - The article gives no separate date for the patrol; 5 November 2026 is its publication date, while 3 November 2026 as the incident date comes from the earlier Federal Police and newspaper accounts.
   - The page carries a picture captioned only with the headline and no credit, so no media entry is added because it cannot be established to show this seizure.
+  - The three suspects were not located; no arrests, charges or court outcome were reported.
 ---
 
 Three men loading bundles into two cars on a rural road in Terra Roxa ran into
 the riverside woodland when officers approached, abandoning a Hyundai Santa Fe
-and a GM S10 pickup. [@1,3,4] The teams searched the area but did not find the three
-suspects. [@1,3]
+and a GM S10 pickup. [@1,3,4,5] The teams searched the area but did not find the three
+suspects. [@1,3,5]
 
 The seizure was made on Tuesday 3 November 2026 in Terra Roxa, in western
 Paraná, in a joint action by the Military Police, the Federal Police and the
-Receita Federal. [@1,3] Officers patrolling rural roads saw two cars parked next
-to the vegetation with their headlights off. [@1,3] The incident was recorded on
+Receita Federal. [@1,3,5] Officers patrolling rural roads saw two cars parked next
+to the vegetation with their headlights off. [@1,3,5] The incident was recorded on
 Estrada Paulista, during an operation carried out under Operação Protetor. [@1]
 The teams came from the Border Police Battalion (BPFron), the Federal Police's
 Special Maritime Police Nucleus (Nepom/PF) and the Receita Federal office in
 Mundo Novo, Mato Grosso do Sul. [@1]
 
-The bundles found in the vehicles weighed 534 kg after weighing. [@1,3,4] An Apple
+The bundles found in the vehicles weighed 534 kg after weighing. [@1,3,4,5] An Apple
 iPhone 17 Pro Max and a wallet with documents were also seized in the pickup.
 [@1] The vehicles, the drug and the other materials were sent to the Federal
-Police station in Guaíra for judicial police procedures. [@1,3,4] The security
+Police station in Guaíra for judicial police procedures. [@1,3,4,5] The security
 forces put the loss to crime at R$ 1.254 million. [@1]
 
 The Federal Police said an integrated action with the Paraná Military Police
@@ -94,3 +100,5 @@ Roxa on Tuesday 3 November. [@2] The Federal Police said patrols monitoring
 rural roads saw two suspicious vehicles and found bundles of a substance similar
 to marijuana during the vehicle inspection. [@2] After weighing, the Federal
 Police put the total at 534 kg. [@2]
+
+The patrols monitored roads used by criminals to carry illegal goods in the border region, and the seizure formed part of operations against drug trafficking and cross-border crime in the Guaíra and Terra Roxa area. [@5]
