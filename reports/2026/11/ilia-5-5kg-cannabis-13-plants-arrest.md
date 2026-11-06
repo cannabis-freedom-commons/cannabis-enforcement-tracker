@@ -53,6 +53,16 @@ sources:
     publisher: Pelop.gr
     date: 2026-11-05
     language: el
+  - title: 'Ηλεία: Κατασχέθηκαν περισσότερα από 5,5 κιλά κάνναβης και 13 δενδρύλλια'
+    url: https://www.patrasevents.gr/amp/760274-ileia-katasxethikan-perissotera-apo-5-5-kila-kannavis-ke-13-dendrillia
+    publisher: Patras Events
+    date: 2026-11-05
+    language: el
+  - title: 'Ηλεία: Έκρυβε 5,5 κιλά κάνναβης και δενδρύλλια «γίγαντες» σε κλειστό κατάστημα'
+    url: https://www.patrisnews.com/ileia-ekryve-55-kila-kannavis-kai-dendryllia-gigantes-se-kleisto-katastima/
+    publisher: PatrisNews
+    date: 2026-11-05
+    language: el
 open_questions:
   - The incident date is the 4 November 2026 operation date given by the second account; the submitted page gives only its 5 November 2026 publication date.
   - No village or more precise location within Ilia was named, so coordinates mark the district centre.
@@ -60,18 +70,20 @@ open_questions:
   - No court outcome beyond referral to the Ilia prosecutor was reported.
   - The submitted page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
   - The Pelop.gr page image repeats the headline with no credit establishing that it shows this seizure, so no media entry is included from that source.
+  - Pelop.gr states that the police announcement did not say whether the seized cannabis was intended for trafficking.
+  - PatrisNews gives the freshly harvested quantity only as 5.5 kilograms, while police and the other accounts give 5 kilograms and 500 grams plus 6 grams of dried cannabis; the existing report keeps the precise police split.
 ---
 
 Officers of the Ilida Crime Investigation and Clearance Department arrested a
 man in Ilia and opened a case file against him for cultivating and possessing
-narcotics and for violating weapons legislation. [@1] The case was solved after
+narcotics and for violating weapons legislation. [@1,3] The case was solved after
 police acted on information that had come to the attention of the authorities.
 [@1] Officers carried out a surprise search of the accused man's house and the
 surrounding area of a disused food-interest shop he kept. [@1] The police
 operation took place at midday on Wednesday 4 November 2026. [@2]
 
 During the searches officers found and seized 13 cannabis seedlings that were up
-to 4.5 metres tall and had been partly harvested. [@1] Officers also seized 5
+to 4.5 metres tall and had been partly harvested. [@1,3] Officers also seized 5
 kilograms and 500 grams of freshly harvested cannabis plus another 6 grams of
 dried cannabis. [@1] Officers seized one metal folding baton and nine 9mm
 cartridges, five of which bore traces of having been fired. [@1]
@@ -80,3 +92,4 @@ The arrested man was expected to be led before the Ilia Court of First Instance
 prosecutor at the parallel seat in Amaliada for the relevant charges to be
 brought. [@1]
 
+The Pelop.gr account says the operation formed part of the police operations under way in the area against drug cultivation and possession. [@2] Pelop.gr reports that the police announcement does not specify the exact part of Ilia where the searches took place, or whether the seized quantity was intended for trafficking. [@2] PatrisNews gives the quantity as 5.5 kilograms of freshly harvested cannabis, without the extra 500 grams, plus the further 6 grams of dried cannabis and the 13 partly harvested plants up to 4.5 metres tall. [@4] PatrisNews describes the seized metal folding baton as a glop, a telescopic baton. [@4]
