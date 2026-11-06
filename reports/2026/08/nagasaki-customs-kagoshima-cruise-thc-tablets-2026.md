@@ -61,6 +61,11 @@ sources:
     url: https://www.customs.go.jp/nagasaki/mizugiwa/tekihatu-jisseki.htm
     publisher: 長崎税関 Nagasaki Customs
     language: ja
+  - title: クルーズ船客の手荷物から大麻成分入り錠剤 長崎税関が摘発した不正薬物の写真公開、6機関で水際対策を協議
+    url: https://newsdig.tbs.co.jp/articles/-/3064858
+    publisher: TBS NEWS DIG
+    date: 2026-11-05
+    language: ja
 open_questions:
   - The reports do not name the referred person or give a nationality, age or sex, so only one charged person is recorded.
   - No tablet count or street value was published, only the 8.93 gram total.
@@ -70,7 +75,7 @@ open_questions:
 ---
 
 Photographs released by Nagasaki Customs included tablets containing a cannabis
-component found in a foreign cruise-ship passenger's hand luggage. [@1] The
+component found in a foreign cruise-ship passenger's hand luggage. [@1,3] The
 passenger had sailed from South Korea aboard an international cruise ship
 intending to bring the tablets into Japan. [@2] Kagoshima Customs officers found
 the tablets during an inspection on 26 July 2026, preventing the import. [@2]
@@ -81,10 +86,9 @@ After a joint investigation with Kagoshima police, the Kagoshima branch referred
 one person to the Kagoshima District Public Prosecutors Office under the Customs
 Act on 12 August 2026. [@2] On 5 November Nagasaki Customs held a waterfront
 anti-smuggling meeting and released photographs of drugs seized during the year.
-[@1]
+[@1,3]
 
 The 5 November meeting drew 32 people from six bodies including Nagasaki
 Customs, the prefectural police and the coast guard. [@1] Participants shared
 information on recent smuggling methods and enforcement to stop drugs at ports
 and airports. [@1]
-
