@@ -36,6 +36,11 @@ sources:
     url: https://gallinews.com/mumbai-airport-par-bangkok-se-aaye-2-bhutanese-nagrik-giraftar-chocolate-packaging-mein-kareeb-3-kilo-ganja-baramad/
     publisher: Gallinews India
     date: 2026-11-05
+  - title: मुंबई एयरपोर्ट पर ड्रग तस्करी का भंडाफोड़, 3 किलो गांजे के साथ दो भूटानी नागरिक गिरफ्तार
+    url: https://navbharatlive.com/maharashtra/mumbai/mumbai-airport-aiu-bhutan-nationals-ganja-seized-rgs12
+    publisher: Navbharat Live
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The article gives no calendar date for either interception and says only they happened "recently"; 4 November 2026 is the dateline of its text and is used as the incident date.
   - The two interceptions are not dated separately, so it is not known how far apart they occurred.
@@ -73,3 +78,5 @@ neighbouring countries such as Bhutan as mules by offering financial incentives.
 [@1,3] A senior Customs officer said preliminary investigations and the accused
 men's statements show other foreign and local handlers are involved and have yet
 to be traced. [@1,3]
+
+Officers said their investigation is now focused on who handed the cannabis to the two arrested passengers and who the consignment was meant to be delivered to in India. [@4]
