@@ -48,23 +48,23 @@ open_questions:
   - The reported 9 kg weight and HK$1.9 million value are stated as approximations.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
   - No court outcome beyond the scheduled 6 November mention at West Kowloon Magistrates' Courts was reported.
+  - The published photograph on the on.cc東網 page is captioned only as the arrested person bringing a large quantity of suspected cannabis flowers to Hong Kong, with no credit given, so no separate media entry is added beyond what the existing report holds.
 ---
 
 Hong Kong Customs arrested a 24-year-old mainland male traveller at Hong Kong
-International Airport after finding suspected cannabis in his hand luggage. [@1]
+International Airport after finding suspected cannabis in his hand luggage. [@1,2]
 The traveller had flown in from Bangkok, Thailand, on the night of 4 November
-2026. [@1] Officers detected the luggage-concealed trafficking case at the
+2026. [@1,2] Officers detected the luggage-concealed trafficking case at the
 airport on 5 November 2026. [@1] The arrested man has been charged with one
 count of trafficking in a dangerous drug. [@2] His case is due for mention at
-West Kowloon Magistrates' Courts on 6 November 2026. [@1]
+West Kowloon Magistrates' Courts on 6 November 2026. [@1,2]
 
 Officers seized about 9 kg of suspected cannabis buds, described as 大麻花, in the
 case. [@3] Customs put the estimated market value of the seized buds at about
-HK$1.9 million. [@1]
+HK$1.9 million. [@1,2]
 
 Customs said it prioritises clearance checks on travellers arriving from
 high-risk regions under a risk-management approach to combat cross-boundary drug
 trafficking. [@1] Under Hong Kong's Dangerous Drugs Ordinance, trafficking in a
 dangerous drug carries a maximum penalty of a HK$5 million fine and life
 imprisonment on conviction. [@1]
-
