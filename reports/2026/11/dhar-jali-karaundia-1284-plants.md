@@ -63,6 +63,11 @@ sources:
     publisher: MP Breaking News
     date: 2026-11-05
     language: hi
+  - title: मध्य प्रदेश के धार में गांजे की अवैध खेती पर पुलिस की दो बड़ी कार्रवाई, 969 किलो से अधिक गांजा जब्त
+    url: https://vocaltv.in/crime/illegal-cannabis-cultivation-php/cid19496099.htm
+    publisher: Vocal TV
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
   - No names or ages of the two arrested growers were published.
@@ -79,6 +84,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The Manawar station house chief said the Karondiya Khurd action was the tenth against illegal cannabis cultivation under Operation Prahar in the district in two months, with ten cases registered.'
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used here as the incident date.
   - The article does not name the two arrested growers, give the field areas or record any court outcome.
+  - Neither account gives a separate date for the Jali raid; 5 November 2026 is the Vocal TV publication date already used as the report's incident date.
+  - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar
@@ -86,16 +93,16 @@ district under Operation Prahar on the direction of Superintendent of Police
 Sachin Sharma. [@1,2,3] Officers arrested two growers accused of cultivating
 cannabis illegally in the two actions. [@1,2,3,6] Officers seized a total of 1,284
 green cannabis plants, known locally as ganja, weighing 969.335 kg in the two
-actions. [@1,2,3,4,6] Police valued the total seizure at 1 crore 57 lakh 12 thousand
-rupees. [@1,2,3,4,6]
+actions. [@1,2,3,4,6,7] Police valued the total seizure at 1 crore 57 lakh 12 thousand
+rupees. [@1,2,3,4,6,7]
 
 Tanda police raided Jali village and seized 1,134 green cannabis plants from the
-accused grower's cotton field. [@1,2,6] Police said the Jali plants weighed 518.335
+accused grower's cotton field. [@1,2,6,7] Police said the Jali plants weighed 518.335
 kg and put their estimated market value at about 1 crore 3 lakh rupees. [@1,2,6]
 Police arrested the Jali accused and registered a case against him at Tanda
 police station under the Narcotic Drugs and Psychotropic Substances Act. [@1,2] In
 the second action, the Umarban outpost of Manawar police raided Karaundia Khurd
-village and seized 150 cannabis plants from the accused grower's field. [@1,2,6] The
+village and seized 150 cannabis plants from the accused grower's field. [@1,2,6,7] The
 Karaundia Khurd plants had been grown among cotton and tuar, the local name for
 pigeon pea, and police said they weighed 451 kg with an estimated value of 54
 lakh 12 thousand rupees. [@1,2,5,6] Police arrested the second accused and took legal
@@ -104,3 +111,5 @@ action against him under the Narcotic Drugs and Psychotropic Substances Act.
 
 Police said the campaign is not limited to seizures but also focuses on tracing
 the source, supply networks and people involved in the trade. [@1,2,6]
+
+Manawar station in-charge Rajesh Yadav said Umarban police received a tip on 4 November that cannabis was growing among cotton and pigeon pea in a Karaundia Khurd field and raided it after confirming the information. [@5] The station in-charge said the Karaundia Khurd action was the tenth against illegal cannabis cultivation in the area under Operation Prahar in two months, with ten cases registered. [@5]
