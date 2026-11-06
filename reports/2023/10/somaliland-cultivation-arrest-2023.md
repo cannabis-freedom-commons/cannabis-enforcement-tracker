@@ -12,6 +12,19 @@ summary: >-
   with the district station; it reported an arrest and allegation, with no conviction or
   sentence.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+
 status: verified
 cfi_id: somaliland-cultivation-arrest-2023
 tags:

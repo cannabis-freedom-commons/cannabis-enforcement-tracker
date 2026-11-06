@@ -12,6 +12,13 @@ summary: >-
   and people in their twenties 8,368. The report as published did not break the figures down by
   drug.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+
 status: verified
 cfi_id: south-korea-record-drug-offenders-2024
 sources:

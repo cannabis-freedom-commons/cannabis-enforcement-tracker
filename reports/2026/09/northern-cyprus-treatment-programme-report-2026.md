@@ -11,6 +11,13 @@ summary: >-
   programmes. The figure covered drug cases generally and described the work of the Prime Ministry’s
   drug commission.
 created_by_model: unknown
+details:
+  activity: [use]
+  case_stage: sentenced
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+
 status: verified
 cfi_id: northern-cyprus-treatment-programme-report-2026
 sources:

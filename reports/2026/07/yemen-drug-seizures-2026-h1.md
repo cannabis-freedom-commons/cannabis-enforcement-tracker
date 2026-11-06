@@ -12,6 +12,15 @@ summary: >-
   methamphetamine, 100 kg of heroin, 4 kg of opium, more than a million Captagon pills and 41,768
   other pills.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  products: [{product: hashish, kg: 613.7}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+
 status: verified
 cfi_id: yemen-drug-seizures-2026-h1
 sources:

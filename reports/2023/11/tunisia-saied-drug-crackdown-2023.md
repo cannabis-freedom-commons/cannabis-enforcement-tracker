@@ -12,6 +12,11 @@ summary: >-
   against drugs. The meeting followed similar remarks on 26 October. Lawyers later linked the
   instructions to the arrest wave of 2024.
 created_by_model: unknown
+details:
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agency_types: [1]
+
 status: verified
 cfi_id: tunisia-saied-drug-crackdown-2023
 sources:
