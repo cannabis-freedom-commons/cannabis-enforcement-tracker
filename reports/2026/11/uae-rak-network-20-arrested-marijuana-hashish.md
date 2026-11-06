@@ -69,6 +69,11 @@ sources:
     publisher: قناة ومنصة المشهد
     date: 2026-11-06
     language: ar
+  - title: الإمارات.. الإطاحة بشبكة دولية لتجارة المخدرات تضم 20 متهما
+    url: https://www.skynewsarabia.com/middle-east/1903102-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D9%85-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7
+    publisher: سكاي نيوز عربية
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -81,9 +86,9 @@ open_questions:
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
-link of the plan, from smuggling to preparation for dealing. [@1]
+link of the plan, from smuggling to preparation for dealing. [@1,6]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
