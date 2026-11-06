@@ -114,6 +114,11 @@ sources:
     url: https://urbanacres.in/pune-airport-cannabis-seizure-stops-%E2%82%B93-72-crore-drug-haul/
     publisher: Urban Acres
     date: 2026-11-05
+  - title: बैंकॉक से आए यात्री के पास मिला गांजा, अंतराष्ट्रीय बाजार में कीमत करीब 4 करोड़
+    url: https://www.prabhatkhabar.com/state/maharashtra/pune-airport-hydroponic-weed-seized-bangkok-passenger
+    publisher: Prabhat Khabar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -142,6 +147,12 @@ open_questions:
   - It gives no separate date for the arrest or the remand hearing, only that custody runs until 18 November.
   - Identification of the substance rested on a Customs narcotics detection kit; laboratory confirmation is not reported.
   - The page's single image is captioned only with the headline and is not identified as a photograph of this seizure, so no media entry is added for it.
+  - Dainik Bhaskar runs the IANS wire copy without editing, so it is not an independent confirmation of the facts beyond the agency's own reporting.
+  - The Indian Express attributes the Rs 3.72 crore figure to Pune Customs' press statement as an estimated market value and does not explain how it was calculated.
+  - Neither account names the passenger or gives his age, residence or the charges filed beyond the NDPS Act.
+  - Neither account gives a separate date for the arrest or the remand hearing, only that custody runs to 18 November.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar Hindi: The passenger was arrested and produced before a judicial magistrate, who granted him judicial custody till 18 November.'
+  - 'Left out, as its quotation was not found in The Indian Express: Customs seized the weed along with its packing materials under the Narcotic Drugs and Psychotropic Substances Act, 1985.'
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -153,12 +164,12 @@ of Pune Customs. [@2,3,12]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16] The passenger was arrested and
@@ -171,3 +182,5 @@ The arrested flyer was 45 years old. [@4]
 Further investigation is under way to identify and track down the smuggling network involved. [@8]
 
 The seizure was carried out under the direction of Dheeraj More, Pune Customs' Deputy Commissioner of Police. [@11,14,16]
+
+Following statutory procedures under the NDPS Act, 1985, officers found the contraband hidden among noodle packets and packaged inside nine rectangular silver-coloured packets bearing 'Freeze Dried Monthong Durian' labels. [@2]
