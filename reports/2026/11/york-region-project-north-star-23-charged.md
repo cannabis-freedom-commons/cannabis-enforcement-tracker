@@ -184,6 +184,7 @@ open_questions:
   - The page is a Chinese-language reprint credited to NewmarketToday.ca reproducing the York Regional Police release, so it does not resolve whether the wanted man is counted among the 23 charged.
   - The page's only listed image is the outlet's QR code, not a photo of the operation, so no media entry is added.
   - The page gives no weight for the infused edibles, no plant count or area for the London grow operation and no total number of charges laid.
+  - The page names the two Ailsa Craig accused only by age and does not give their names or the court dates, so it cannot confirm them against the full York police charge list.
 ---
 
 York Regional Police have charged 23 people and are searching for another
@@ -220,7 +221,7 @@ The 23 people face a total of 90 charges. [@5]
 
 Funding from Ontario's Ministry of the Solicitor General supported the investigation through the Criminal Intelligence Service Ontario. [@6]
 
-The 23 individuals charged range in age from 22 to 74 and are from Toronto, Markham, Milton, Burlington, Ailsa Craig and Vaughan. [@7,19]
+The 23 individuals charged range in age from 22 to 74 and are from Toronto, Markham, Milton, Burlington, Ailsa Craig and Vaughan. [@7,17,19]
 
 Two London-area residents are among the 23 people charged in Project North Star. [@9]
 
@@ -229,3 +230,5 @@ York police called on Zhu to seek legal advice and turn himself in, warning that
 Toronto Sun names all 23 accused, including Qihang Lin, 22, Yongtao Zou, 23, Shu Ying Li, 41, Shi Shun Li, 74, Jiahou Xu, 26, Da Hai LIiu, 45, Chun-Ho Lee, 31, and Zhong Chen, 39. [@16]
 
 Jiahou Xu, 26, of Markham faces nine counts, including exporting cannabis, possessing proceeds of crime and several firearms and prohibited-device offences, while Zhong Chen, 39, of Markham faces seven counts covering illicit cannabis distribution and unsafe storage of firearms and ammunition. [@19] York police ask anyone with information to call the force's Organized Crime Enforcement Bureau at 1-866-876-5423, extension 7841. [@19]
+
+A 39-year-old and a 46-year-old, both from Ailsa Craig, are among those charged, with possession for the purpose of distributing, possession of illicit cannabis, distributing anything with the intent to produce, sell or distribute illicit cannabis, possession of property obtained by crime over $5,000, possession of cocaine and possession of psilocybin. [@17]
