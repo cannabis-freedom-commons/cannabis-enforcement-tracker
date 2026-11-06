@@ -21,10 +21,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
+  route: {from: [py], to: [br]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [senad, hashish, capitan-bado]
 media:

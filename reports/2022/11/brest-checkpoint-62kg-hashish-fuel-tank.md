@@ -25,6 +25,7 @@ details:
   case_stage: charged
   date_precision: publication
   region: Brest Region
+  route: {from: [pl], to: [by]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

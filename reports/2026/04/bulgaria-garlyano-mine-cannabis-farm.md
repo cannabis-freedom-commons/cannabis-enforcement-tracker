@@ -24,6 +24,10 @@ figures:
   arrested: 3
   charged: 3
 created_by_model: unknown
+details:
+  route: {from: [bg], to: [tr]}
+data_sources:
+  details.route: [1]
 status: verified
 tags:
   - gdbop

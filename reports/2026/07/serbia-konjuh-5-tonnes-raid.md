@@ -15,6 +15,10 @@ figures:
     arrested: 5
     kg_seized: 5000
     charged: 6
+details:
+  route: {from: [mk], to: [rs]}
+data_sources:
+  details.route: [3]
 media:
   - kind: photo
     url: https://srpske.rs/uploads/articles/konjuh-drug-squad-officers-letter-macut-15-removed-16x9.webp

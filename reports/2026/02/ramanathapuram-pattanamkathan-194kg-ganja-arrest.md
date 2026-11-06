@@ -17,6 +17,10 @@ figures:
   value:
     amount: 3000000
     currency: INR
+details:
+  route: {from: [in], to: [lk]}
+data_sources:
+  details.route: [1, 2]
 media:
   - kind: photo
     url: https://www.thehindu.com/news/cities/Madurai/police-seize-194-kg-of-ganja-en-route-to-sri-lanka-one-arrested/article70583847.ece

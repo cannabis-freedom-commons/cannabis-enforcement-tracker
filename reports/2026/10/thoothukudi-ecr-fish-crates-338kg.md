@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 338
+details:
+  route: {from: [in], to: [lk]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [thoothukudi, sri-lanka-route, trafficking]

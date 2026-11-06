@@ -22,9 +22,11 @@ details:
   agencies: [int-interpol]
   agency_types: [police]
   setting: [airport]
+  route: {from: [th], to: [cy]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

@@ -16,6 +16,10 @@ figures:
     value:
         amount: 50000000
         currency: INR
+details:
+  route: {from: [in], to: [mv]}
+data_sources:
+  details.route: [4]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/three-maldivians-arrested-in-india-drug-bust-138660

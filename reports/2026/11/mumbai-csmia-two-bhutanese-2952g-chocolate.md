@@ -16,7 +16,9 @@ figures:
   kg_seized: 2.952
 details:
   setting: [airport]
+  route: {from: [th], to: [in]}
 data_sources:
+  details.route: [1, 2, 3, 5]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

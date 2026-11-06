@@ -17,6 +17,10 @@ figures:
   arrested: 4
   kg_seized: 110
   value: { amount: 19000000, currency: HKD }
+details:
+  route: {from: [ca], to: [hk]}
+data_sources:
+  details.route: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tai-po, canada-route, industrial-unit]

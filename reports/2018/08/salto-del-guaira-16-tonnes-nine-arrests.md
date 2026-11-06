@@ -17,6 +17,10 @@ figures:
   value:
     amount: 8000000
     currency: USD
+details:
+  route: {from: [py], to: [br]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c27abab9c476e301e18a766e68a24606

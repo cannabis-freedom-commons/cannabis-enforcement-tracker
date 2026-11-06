@@ -40,7 +40,9 @@ media:
     caption: 'Gendarmería photo placed beside the passage on the Narcotest result and the 45 kilos 822 grams of cannabis sativa. Photo: Gendarmería Nacional Argentina'
 details:
   setting: [vehicle]
+  route: {from: [py], to: [ar]}
 data_sources:
+  details.route: [1, 2, 4]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

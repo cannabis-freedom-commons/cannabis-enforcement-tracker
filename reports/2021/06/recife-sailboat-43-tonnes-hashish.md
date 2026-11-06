@@ -35,10 +35,12 @@ details:
   agency_types: [police]
   products:
     - {product: hashish}
+  route: {from: [pt], to: [br]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [hashish, recife, sailing-boat, transatlantic-route]
 sources:

@@ -10,6 +10,10 @@ summary: >-
   Cannabis is cultivated in Equatorial Guinea, with some of the product trafficked to Gabon via the
   Muni river, according to the 2019 United States OSAC crime and safety report for the country.
 created_by_model: unknown
+details:
+  route: {from: [gq], to: [ga], crossing: 'Muni river'}
+data_sources:
+  details.route: [1]
 status: verified
 cfi_id: equatorial-guinea-muni-river-trafficking-2019
 tags:

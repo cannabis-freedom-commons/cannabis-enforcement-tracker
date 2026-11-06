@@ -20,7 +20,9 @@ figures:
     currency: INR
 details:
   setting: [airport]
+  route: {from: [th], to: [in]}
 data_sources:
+  details.route: [1, 4, 5, 6, 7, 2]
   details.setting: [1, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

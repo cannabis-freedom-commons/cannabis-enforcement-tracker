@@ -20,6 +20,10 @@ figures:
   arrested: 2
   kg_seized: 6
   value: { amount: 1100000, currency: HKD }
+details:
+  route: {from: [th], to: [hk]}
+data_sources:
+  details.route: [1, 2]
 media:
   - kind: photo
     url: https://www.info.gov.hk/gia/general/202610/07/P2026100700698.htm

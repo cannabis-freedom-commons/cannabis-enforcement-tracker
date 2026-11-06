@@ -21,8 +21,10 @@ figures:
 details:
   products:
     - {product: flower}
+  route: {from: [th], to: [in]}
 data_sources:
   details.products: [1, 2, 3]
+  details.route: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e04c5c718883ee3c46e0310de6df0c34

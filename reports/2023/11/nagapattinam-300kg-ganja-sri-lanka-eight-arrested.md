@@ -26,8 +26,10 @@ media:
 details:
   products:
     - {product: flower}
+  route: {from: [in], to: [lk]}
 data_sources:
   details.products: [1, 2, 3]
+  details.route: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 541ec90d9736a92453cc48bb5aea5bd1

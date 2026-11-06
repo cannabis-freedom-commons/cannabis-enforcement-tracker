@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [it-gdf]
   agency_types: [customs]
+  route: {from: [al], to: [it]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.route: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [catanzaro, albania-route, ndrangheta]

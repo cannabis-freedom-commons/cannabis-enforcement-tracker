@@ -13,6 +13,10 @@ summary: >-
   Senegal working both as a cannabis producer and as a transit point for Moroccan resin bound for
   Europe.
 created_by_model: unknown
+details:
+  route: {from: [ma], to: [sn]}
+data_sources:
+  details.route: [1]
 status: verified
 cfi_id: senegal-dakar-resin-seizure-2000
 sources:

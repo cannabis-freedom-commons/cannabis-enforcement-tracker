@@ -21,8 +21,10 @@ figures:
 details:
   setting: [airport]
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  details.route: [1, 4, 5, 6, 7, 8]
   details.setting: [1, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

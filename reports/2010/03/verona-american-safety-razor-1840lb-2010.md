@@ -15,6 +15,10 @@ summary: >-
 figures:
   kg_seized: 834.61
   value: { amount: 2000000, currency: USD }
+details:
+  route: {from: [mx], to: [us/va]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [misdelivery, trucking, mexico-route]

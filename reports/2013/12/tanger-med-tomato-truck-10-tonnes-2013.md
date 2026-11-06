@@ -21,8 +21,10 @@ created_by_model: meta/muse-spark
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [fr]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [hashish, tanger-med, smuggling]
 sources:

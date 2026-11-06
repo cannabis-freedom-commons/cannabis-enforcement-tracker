@@ -25,7 +25,9 @@ media:
     caption: 'Rear benches holding the 58 kg marijuana seizure at Findel. Photo: Administration des douanes et accises'
 details:
   setting: [airport]
+  route: {from: [sg], to: [lu]}
 data_sources:
+  details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

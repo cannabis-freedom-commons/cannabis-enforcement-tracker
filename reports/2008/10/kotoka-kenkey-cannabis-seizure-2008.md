@@ -17,8 +17,10 @@ summary: >-
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  route: {from: [gh], to: [gb]}
 data_sources:
   details.activity: [1]
+  details.route: [1]
 status: verified
 tags: [kotoka, ceps, nacob, export, uk-route]
 open_questions:

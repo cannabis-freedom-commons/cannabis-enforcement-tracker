@@ -21,9 +21,11 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  route: {from: [ca/bc], to: [us/ca]}
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.route: [1, 3]
 status: verified
 tags: [medical-marijuana, dea, harm-reduction]
 open_questions:

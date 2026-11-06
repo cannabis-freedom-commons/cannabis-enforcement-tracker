@@ -25,8 +25,10 @@ figures:
 details:
   activity: [smuggling]
   setting: [airport]
+  route: {from: [th], to: [sg]}
 data_sources:
   details.activity: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark

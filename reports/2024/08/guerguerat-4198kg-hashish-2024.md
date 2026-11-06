@@ -20,8 +20,10 @@ details:
   setting: [border]
   products:
     - {product: hashish}
+  route: {from: [ma], to: [mr]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [hashish, chira, border, mauritania-route]

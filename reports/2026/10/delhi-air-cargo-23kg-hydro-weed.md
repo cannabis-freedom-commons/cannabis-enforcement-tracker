@@ -21,8 +21,10 @@ figures:
 created_by_model: unknown
 details:
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [hydroponic, bangkok-route, air-cargo]
 sources:

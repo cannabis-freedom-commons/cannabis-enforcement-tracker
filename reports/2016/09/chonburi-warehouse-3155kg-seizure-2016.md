@@ -21,8 +21,10 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [smuggling]
+  route: {from: [la], to: [th]}
 data_sources:
   details.activity: [1]
+  details.route: [1]
 status: verified
 tags: [smuggling, laos, australia]
 sources:

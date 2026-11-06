@@ -23,8 +23,10 @@ figures:
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [fr]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [strasbourg, resin, chocolate, port-du-rhin]

@@ -27,12 +27,14 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Gujarat
+  route: {from: [vn], to: [in]}
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [3]
   details.environment: [1]
   details.products: [1]
+  details.route: [1, 3, 2]
   details.setting: [2]
   figures.arrested: [3]
   figures.kg_seized: [1]

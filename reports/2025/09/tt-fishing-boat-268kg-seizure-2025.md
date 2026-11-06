@@ -17,6 +17,10 @@ figures:
   value:
     amount: 29412196
     currency: USD
+details:
+  route: {from: [ve], to: [tt]}
+data_sources:
+  details.route: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/venezuela/2025/09/13/trinidad-y-tobago-incauto-268-kilos-de-marihuana-de-una-embarcacion-proveniente-de-venezuela/

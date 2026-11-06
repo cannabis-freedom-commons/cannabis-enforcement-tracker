@@ -30,8 +30,10 @@ media:
 details:
   setting: [airport]
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.environment: [1, 2, 3, 4, 5]
+  details.route: [4]
   details.setting: [4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

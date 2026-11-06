@@ -21,9 +21,11 @@ details:
   activity: [smuggling]
   products:
     - {product: hashish}
+  route: {from: [np], to: [in]}
 data_sources:
   details.activity: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [hashish, smuggling, india-route]
 sources:

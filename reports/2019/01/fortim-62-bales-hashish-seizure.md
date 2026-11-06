@@ -22,10 +22,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  route: {from: [ma], to: [br]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.route: [1]
 status: verified
 tags: [hashish, fortim, transatlantic-route]
 sources:

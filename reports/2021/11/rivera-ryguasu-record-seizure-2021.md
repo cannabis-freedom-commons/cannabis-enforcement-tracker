@@ -15,6 +15,10 @@ summary: >-
   investigation running since September.
 figures:
   kg_seized: 1500
+details:
+  route: {from: [py], to: [uy], crossing: 'land entry from Brazil'}
+data_sources:
+  details.route: [1]
 media:
   - kind: photo
     url: https://web.archive.org/web/20220818111943/https://dialogo-americas.com/articles/uruguay-police-carries-out-record-seizure-of-marijuana/

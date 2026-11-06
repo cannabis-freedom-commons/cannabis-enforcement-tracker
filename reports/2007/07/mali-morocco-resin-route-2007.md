@@ -12,6 +12,10 @@ summary: >-
   resin was seized in five seizures in Niger in the 2006–2007 period. The case put Mali on a
   trans-Saharan trafficking map linking Moroccan resin to markets further east.
 created_by_model: unknown
+details:
+  route: {from: [ma], to: [ml], crossing: 'Mauritania–Mali–Niger–Chad corridor'}
+data_sources:
+  details.route: [1]
 status: verified
 cfi_id: mali-morocco-resin-route-2007
 sources:

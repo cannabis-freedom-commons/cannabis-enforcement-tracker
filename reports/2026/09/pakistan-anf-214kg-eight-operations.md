@@ -23,10 +23,12 @@ details:
   products:
     - {product: flower}
     - {product: hashish}
+  route: {from: [pk], to: [ae]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [anf, hashish, weed, nationwide, quetta, lahore]

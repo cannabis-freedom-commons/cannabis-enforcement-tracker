@@ -28,8 +28,10 @@ media:
 details:
   products:
     - {product: hashish}
+  route: {from: [ir], to: [ge], crossing: 'Armenia transit'}
 data_sources:
   details.products: [1, 2]
+  details.route: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 91b3b8a876cb50054e99e13b86290665

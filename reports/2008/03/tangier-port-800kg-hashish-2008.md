@@ -21,8 +21,10 @@ figures:
 details:
   products:
     - {product: hashish}
+  route: {from: [ma], to: [fr], crossing: 'via Algeciras'}
 data_sources:
   details.products: [1]
+  details.route: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tangier, hashish, trafficking, spain-route]

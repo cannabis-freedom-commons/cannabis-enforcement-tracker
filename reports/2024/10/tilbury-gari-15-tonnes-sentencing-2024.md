@@ -26,10 +26,12 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   activity: [smuggling]
+  route: {from: [gh], to: [gb]}
 data_sources:
   details.activity: [2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [nca, organised-crime, smuggling]
 open_questions:

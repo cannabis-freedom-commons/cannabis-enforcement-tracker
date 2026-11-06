@@ -22,11 +22,13 @@ details:
   setting: [airport]
   case_stage: investigation
   date_precision: exact
+  route: {from: [th], to: [lk]}
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [2]
   figures.arrested: [1]
   figures.kg_seized: [1]

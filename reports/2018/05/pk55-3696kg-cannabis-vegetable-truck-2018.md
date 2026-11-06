@@ -13,7 +13,10 @@ summary: >-
   Mauritanian gendarmes seized 369.6 kg of cannabis hidden in a Moroccan truck carrying vegetables at the PK55 crossing on the Western Sahara frontier on Thursday 3 May 2018, and arrested those involved. The load was bound for Niger along the trans-African highway through Mauritania, a route the account says has carried drugs before.
 figures:
   kg_seized: 369.6
+details:
+  route: {from: [ma], to: [ne]}
 data_sources:
+  details.route: [1, 2]
   figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -15,6 +15,10 @@ summary: >-
   haul in Japanese history at the time.
 figures:
   kg_seized: 280
+details:
+  route: {from: [ca], to: [jp]}
+data_sources:
+  details.route: [1, 3, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [osaka-port, lumber-concealment, canada-route]

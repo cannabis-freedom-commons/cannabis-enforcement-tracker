@@ -16,6 +16,10 @@ summary: >-
 figures:
   kg_seized: 240
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  route: {from: [la], to: [th]}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [smuggling, laos, customs]
 media:

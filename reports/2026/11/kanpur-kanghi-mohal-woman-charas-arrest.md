@@ -40,8 +40,10 @@ media:
 details:
   products:
     - {product: hashish}
+  route: {from: [np], to: [in]}
 data_sources:
   details.products: [1, 2, 3, 4, 5, 6, 7, 8]
+  details.route: [9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6aea84dd41624fb3c7ad9b8807c8dab

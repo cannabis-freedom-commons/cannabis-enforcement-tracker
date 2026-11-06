@@ -22,8 +22,10 @@ details:
   setting: [airport]
   products:
     - {product: hashish}
+  route: {from: [dk], to: [gl]}
 data_sources:
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

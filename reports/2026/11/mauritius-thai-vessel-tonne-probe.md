@@ -23,9 +23,11 @@ details:
   agencies: [int-interpol]
   agency_types: [police]
   setting: [port]
+  route: {from: [th], to: [mu]}
 data_sources:
   details.agencies: [9]
   details.agency_types: [9]
+  details.route: [1, 7, 9]
   details.setting: [1, 2, 3, 7, 10, 11, 12]
 status: reported
 tags: [maritime, thailand-route, coast-guard]

@@ -26,10 +26,12 @@ details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
   activity: [smuggling]
+  route: {from: [th], to: [id], crossing: 'via Malaysia'}
 data_sources:
   details.activity: [3, 4, 5, 6]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.route: [5, 6]
 status: verified
 tags:
   - bnn

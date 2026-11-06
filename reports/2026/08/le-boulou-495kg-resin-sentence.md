@@ -28,9 +28,11 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  route: {from: [es], to: [it], crossing: 'Le Boulou A9 toll'}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [pyrenees-orientales, douanes, a9, ofast]
 open_questions:

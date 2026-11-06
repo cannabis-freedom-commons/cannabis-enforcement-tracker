@@ -26,6 +26,7 @@ details:
   case_stage: investigation
   date_precision: publication
   region: Delhi and Kerala
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [1]
   details.environment: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

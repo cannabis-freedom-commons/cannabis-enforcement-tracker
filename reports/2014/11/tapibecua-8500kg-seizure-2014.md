@@ -30,9 +30,11 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  route: {from: [py], to: [ar]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [gendarmeria, paraguay-route]
 sources:

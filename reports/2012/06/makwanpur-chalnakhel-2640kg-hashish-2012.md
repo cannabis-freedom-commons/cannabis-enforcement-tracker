@@ -23,10 +23,12 @@ details:
   agency_types: [police]
   products:
     - {product: hashish}
+  route: {from: [np], to: [in, cn]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 tags: [makwanpur, hashish, trafficking-network]
 sources:

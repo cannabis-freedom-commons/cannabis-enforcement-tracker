@@ -29,10 +29,12 @@ details:
   agency_types: [customs]
   products:
     - {product: hashish}
+  route: {from: [ma], crossing: 'Atlantic off Canary Islands, toward West Africa'}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [odyssey-227, atlantic-route, trawler, hashish]
 sources:

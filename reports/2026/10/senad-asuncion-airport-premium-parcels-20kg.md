@@ -25,9 +25,11 @@ media:
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  route: {from: [us], to: [py]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [asuncion, senad, air-cargo, premium-cannabis]

@@ -18,6 +18,10 @@ figures:
   arrested: 3
   kg_seized: 480
   value: { amount: 10000000, currency: THB }
+details:
+  route: {from: [la], to: [th]}
+data_sources:
+  details.route: [1, 2]
 media:
   - kind: photo
     url: https://www.bangkokpost.com/thailand/general/1919176/village-head-arrested-480kg-of-marijuana-seized

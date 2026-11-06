@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 100
+details:
+  route: {from: [za], to: [mz]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [maputo, south-africa-route, suruma]

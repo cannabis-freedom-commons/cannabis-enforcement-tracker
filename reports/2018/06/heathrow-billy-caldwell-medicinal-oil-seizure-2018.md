@@ -14,6 +14,10 @@ summary: >-
   Billy was hospitalised, the home secretary issued an emergency licence and the oil was
   returned to his hospital on 16 June.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  route: {from: [ca], to: [gb]}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [medicinal, border-force]
 sources:

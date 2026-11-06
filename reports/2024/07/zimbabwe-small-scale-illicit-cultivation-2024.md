@@ -13,6 +13,10 @@ summary: >-
   supply complemented by imports from Malawi, South Africa and Mozambique. Binga and Chiredzi
   were chosen for…
 created_by_model: unknown
+details:
+  route: {from: [mw, za, mz], to: [zw]}
+data_sources:
+  details.route: [1]
 status: verified
 cfi_id: zimbabwe-small-scale-illicit-cultivation-2024
 sources:

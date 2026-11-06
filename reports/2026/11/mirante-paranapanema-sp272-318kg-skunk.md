@@ -24,6 +24,7 @@ details:
   charges: [drug trafficking, criminal association]
   case_stage: investigation
   region: São Paulo
+  route: {from: [br], to: [br], crossing: 'Ponta Porã to São Paulo'}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [2]
   details.products: [1]
+  details.route: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

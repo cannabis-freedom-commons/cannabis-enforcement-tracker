@@ -28,6 +28,7 @@ details:
   force: [none-reported]
   date_precision: exact
   region: Lisbon
+  route: {from: [ma], to: [pt]}
 data_sources:
   details.activity: [3]
   details.agencies: [2]
@@ -36,6 +37,7 @@ data_sources:
   details.charges: [2]
   details.force: [2]
   details.products: [2]
+  details.route: [3]
   details.setting: [3]
   figures.cash: [2]
   figures.kg_seized: [2]

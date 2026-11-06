@@ -19,6 +19,10 @@ figures:
   arrested: 6
   kg_seized: 1820
 created_by_model: meta/muse-spark
+details:
+  route: {from: [gr], to: [gb]}
+data_sources:
+  details.route: [1]
 status: verified
 tags: [trafficking-ring, dea, cross-border]
 sources:

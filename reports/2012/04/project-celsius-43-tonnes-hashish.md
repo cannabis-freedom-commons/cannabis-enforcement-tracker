@@ -23,10 +23,12 @@ details:
   agency_types: [police, customs]
   products:
     - {product: hashish}
+  route: {from: [pk], to: [ca]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
 status: verified
 tags: [rcmp, project-celsius, hashish, cross-border]
 sources:

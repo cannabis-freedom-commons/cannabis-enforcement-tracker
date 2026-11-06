@@ -22,9 +22,11 @@ details:
   agencies: [mx-sedena, mx-fgr]
   agency_types: [military, prosecutor]
   setting: [building]
+  route: {from: [mx], to: [us/ca]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.route: [1, 2]
   details.setting: [1]
 status: verified
 sources:
