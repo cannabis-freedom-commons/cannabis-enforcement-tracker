@@ -63,14 +63,17 @@ open_questions:
   - Le Quotidien gives no separate date for the search; its article is dated 5 November 2026.
   - The photo published with the article shows a gendarmerie vehicle and is not a picture of this search, its plants or its grow rooms, so it is not listed as media.
   - No charge, prosecution or court outcome was reported beyond the garde à vue.
+  - Imaz Press Réunion attributes the account to the Gendarmerie de La Réunion and gives no independent detail beyond the existing reporting.
+  - The article gives no weight for the dried cannabis, no separate date for the search and no charge or court outcome.
+  - The caption credits the accompanying photo to the Gendarmerie de La Réunion; the image shows the find from this search rather than a distinct scene already linked in the report, but the submitted page does not caption it more specifically.
 ---
 
 Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,
 acting in an inquiry into violence with a weapon. [@1,3,4] The search uncovered an
 installation set up to produce narcotics. [@1] Officers found 193 cannabis
-plants spread over three spaces specially fitted out for growing them. [@1,2,3] The
+plants spread over three spaces specially fitted out for growing them. [@1,2,3,4] The
 find also included dried cannabis and various pieces of equipment, notably
-ventilation equipment. [@1,3] The discovery gave a new dimension to the inquiry,
+ventilation equipment. [@1,3,4] The discovery gave a new dimension to the inquiry,
 which had initially been opened over the armed violence. [@1] After the search,
 the person concerned was placed in garde à vue, French police custody, on
 suspicion of several offences under the drug law. [@1,3,4] Réunion outlets call the
