@@ -10,7 +10,7 @@ import { pathToFileURL } from "node:url";
 import { codeOf } from "../src/lib/code.js";
 
 // Exercise manual refresh against Astro's real content store, route cache and HMR socket.
-test("dev reports refresh on a commit that changes them or on the button; code still hot reloads", { timeout: 60000 }, async () => {
+test("dev reports and commits stay quiet until manual refresh; code still hot reloads", { timeout: 60000 }, async () => {
   const root = mkdtempSync(join(tmpdir(), "tracker-changelog-dev-"));
   const git = (...args) => execFileSync("git", args, { cwd: root, stdio: "pipe" });
   let child, socket, logs = "";
@@ -93,21 +93,12 @@ export function getStaticPaths() {
     writeFileSync(join(root, "reports/new-report.md"), report("Newly committed report", "new-report"));
     writeFileSync(join(root, "reports/initial.md"), report("Updated report"));
     git("add", "reports"); git("commit", "-m", "Add and update reports");
-    // the commit that changed reports refreshes them once (pages reload); the empty one does nothing
-    const refreshed = (m) => m.type === "custom" && m.event === "tracker:reports-refreshed";
-    const notice = await until(() => notifications.find(refreshed));
-    assert.equal(notice.data.reports, 2);
-    await delay(500);
-    assert.equal(notifications.filter(refreshed).length, 1, `one refresh: ${JSON.stringify(notifications)}\n${logs}`);
-    assert.equal(notifications.filter(m => m.type === "full-reload").length, 1, `one reload: ${JSON.stringify(notifications)}`);
-    await until(async () => (await read("/report/new-report/")).text.includes("<h1>Newly committed report</h1>"));
-    // an uncommitted edit waits for the button
-    notifications.length = 0;
-    writeFileSync(join(root, "reports/initial.md"), report("Edited, not committed"));
-    await delay(3000);
-    assert.equal(notifications.length, 0, `uncommitted edits stay quiet: ${JSON.stringify(notifications)}`);
-    assert.ok(!(await read("/report/initial/")).text.includes("Edited, not committed"));
-    writeFileSync(join(root, "reports/initial.md"), report("Updated report"));
+    await delay(1500);
+    assert.equal(notifications.filter(m => m.type === "full-reload" || m.type === "update").length, 0, `Report writes and commits must not trigger HMR: ${JSON.stringify(notifications)}\n${logs}`);
+    assert.ok(!(await read("/api/index.json")).text.includes("Newly committed report"));
+    assert.ok((await read("/report/initial/")).text.includes("Initial report"));
+    assert.equal((await read("/report/new-report/")).status, 404);
+    assert.ok((await read("/changelog/")).text.includes("<h1>Initial history</h1>"));
     await refresh();
     await until(async () => (await read("/changelog/")).text.includes("Add and update reports"));
     await until(async () => (await read("/api/index.json")).text.includes("Newly committed report"));
