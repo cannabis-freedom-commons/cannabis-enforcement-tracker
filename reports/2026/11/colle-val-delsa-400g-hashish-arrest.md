@@ -41,23 +41,28 @@ sources:
     publisher: Canale 3
     date: 2026-11-05
     language: it
+  - title: Blitz antidroga dei carabinieri. Pusher fermati e poi arrestati
+    url: https://www.lanazione.it/siena/cronaca/blitz-antidroga-dei-carabinieri-pusher-61e592a7
+    publisher: La Nazione
+    date: 2026-11-06
+    language: it
 open_questions:
   - The article gives no separate date for the stop; 5 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian and English.
   - The two men are not named; only their ages and foreign citizenship were published.
   - The page image is a 2019 file photo of a Carabinieri arrest, not this seizure, so no media entry is listed.
   - No court outcome beyond house arrest pending the validation hearing was reported.
+  - La Nazione gives no separate date for the stop; 6 November 2026 is its publication date.
 ---
 
 Two young foreign men aged 25 and 22 were arrested by the Carabinieri in Colle
-Val d’Elsa on a charge of drug dealing. [@1] The two men were already known to
+Val d’Elsa on a charge of drug dealing. [@1,2] The two men were already known to
 law enforcement. [@1]
 
 Officers noticed them aboard a Volkswagen Polo driving irregularly along via dei
-Mille. [@1] On seeing the Carabinieri they tried to evade the check but were
-blocked by a second Carabinieri car. [@1] A search of the car found 4 hashish
-blocks divided in 2 packages weighing 400 grams in total. [@1]
+Mille. [@1,2] On seeing the Carabinieri they tried to evade the check but were
+blocked by a second Carabinieri car. [@1,2] A search of the car found 4 hashish
+blocks divided in 2 packages weighing 400 grams in total. [@1,2]
 
 Both were arrested in flagrante and placed by the judicial authority under house
 arrest at their respective residences pending the validation hearing. [@1]
-
