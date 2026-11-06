@@ -54,6 +54,11 @@ sources:
     publisher: DHA
     date: 2026-11-05
     language: tr
+  - title: Diyarbakır'da kademeli operasyonda 147 kilo skunk ve 185 bin 593 sentetik hap ele geçirildi
+    url: https://www.aksiyon.com.tr/diyarbakir-da-kademeli-operasyonda-147-kilo-skunk-ve-185-bin-593-sentetik-hap-ele-gecirildi-388952
+    publisher: Aksiyon
+    date: 2026-11-05
+    language: tr
 open_questions:
   - Only the publication date of 5 November 2026 and the phrase 'the last 10 days' are given, so no exact day for the operations is established.
   - The accounts give total figures per province and do not say how many locations or addresses were searched, or how the cannabis was split between the many incidents.
@@ -63,20 +68,20 @@ open_questions:
   - The synthetic drug pills, cocaine, methamphetamine, heroin and ecstasy are excluded from the cannabis figures.
   - The submitted page's five photos carry only the headline as a caption and no credit, so no media entry is added.
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Officers also found two unlicensed handguns and 49 cartridges during the operations.'
+  - Aksiyon attributes the operations to Diyarbakır's Narkotik Suçlarla Mücadele Şubesi, the police anti-narcotics branch, whereas the report's sources give no unit.
 ---
 
 Diyarbakır police carried out anti-narcotics operations at different points
 across the province over the previous ten days. [@1]
 
 Officers seized 147 kilograms of skunk and esrar, or cannabis, in the searches.
-[@1] DHA put the cannabis seizure at 147 kilograms of skunk and esrar. [@2]
+[@1,3] DHA put the cannabis seizure at 147 kilograms of skunk and esrar. [@2]
 
 Police took legal action against 129 suspects and sent those brought to the
 judicial authorities to court, where 24 were remanded in pre-trial detention.
-[@1] 24 suspects were remanded after appearing before the court and 8 were
+[@1,3] 24 suspects were remanded after appearing before the court and 8 were
 released under judicial-control measures. [@2]
 
 The same searches found 2 kilograms 213 grams of cocaine, 303 grams of
 methamphetamine, 21 grams of heroin, 185,593 synthetic drug pills and 17 ecstasy
 tablets. [@1]
-
