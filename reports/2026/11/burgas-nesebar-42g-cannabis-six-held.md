@@ -54,6 +54,16 @@ sources:
     publisher: БНР Бургас
     date: 2026-11-05
     language: bg
+  - title: Сливналия загази заради канабис в Несебър
+    url: https://www.burgas24.bg/novini/regionalni/Slivnaliya-zagazi-zaradi-kanabis-v-Nesebur-3051916
+    publisher: Burgas24.bg
+    date: 2026-11-05
+    language: bg
+  - title: Задържаха хора за наркотици и заплахи в Просеник, Средец, Несебър и Царево
+    url: https://burgasmedia.com/amp/news/zadarzhaha-hora-za-narkotici-i-zaplahi-v-prosenik-sredec-nesebar-i-carevo
+    publisher: BurgasMedia
+    date: 2026-11-05
+    language: bg
 open_questions:
   - The incident date of 4 November 2026 is inferred from both publications dated 5 November 2026 saying the searches took place yesterday; no calendar date is stated in the texts.
   - Both accounts trace to the Burgas regional police directorate via BTA, with no independent reporting found beyond that police account.
@@ -68,6 +78,9 @@ open_questions:
   - This account says two men were held in the two 4 November searches, in Sredets and Nesebar, and does not mention the Prosenik searches or the other four detainees recorded in this report.
   - It describes the Sredets find as 1.5 grams of methamphetamine with a scale, hotplates, a glass pipe and precursors, and says the Sredets man was held for up to 24 hours, while other reports describe laboratories in Sredets and Prosenik.
   - This BurgasMedia page says police reported five detainees for the two searches, while the existing report records six people held in the same operation.
+  - BurgasMedia's roundup gives only the bare fact that a 42-year-old man in Nesebar held cannabis, with no weight or address.
+  - Both new pages are dated 5 November 2026; the 4 November incident date follows the existing report and the Dnes Bulgaria account of the same searches.
+  - No charges beyond the fast-track proceeding or a court outcome were reported.
 ---
 
 Six people were detained in police actions against drug distribution and
@@ -81,10 +94,10 @@ were held for up to 24 hours. [@1] In Sredets, officers searched the home of a
 up to 24 hours. [@1]
 
 Officers also searched a flat in Nesebar's Pyasatsite quarter in an operation on
-the same day and seized cannabis there. [@1,3,4,5,7] The Nesebar seizure was 42 grams of
-cannabis, found in a flat lived in by a 42-year-old man from Sliven. [@2,3,4,5,6,7] The
+the same day and seized cannabis there. [@1,3,4,5,7,8] The Nesebar seizure was 42 grams of
+cannabis, found in a flat lived in by a 42-year-old man from Sliven. [@2,3,4,5,6,7,8] The
 Nesebar man was kept in custody and fast-track proceedings were opened against
-him. [@2,3,4,6]
+him. [@2,3,4,6,8,9]
 
 The same operation also yielded methamphetamine, chemicals, precursors and
 production equipment. [@1] Shortly after release, the 45-year-old from Burgas
