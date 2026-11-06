@@ -1,0 +1,49 @@
+---
+code: TRVG0C
+added_at: "2026-11-06T01:47:36.217918Z"
+date: 2026-11-04
+country: bg
+place: Varna, Varna Province, Bulgaria
+coordinates: [43.2141, 27.9147]
+precision: district
+type: arrest
+title: 31-year-old van driver held in Varna after cannabis and meth test
+summary: >-
+  Police in Varna detained a 31-year-old man from the city on 4 November 2026 after a roadside device found methamphetamine and cannabis in his sample while he was driving a van. He gave a blood sample at a laboratory, was held for up to 24 hours, and a pre-trial proceeding was opened; the test results were not released.
+figures:
+  arrested: 1
+data_sources:
+  figures.arrested: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: b4124276055b71c7d2cc06b07ef82bb9
+tags: [varna, drug-driving, methamphetamine, road-checks]
+sources:
+  - title: Шофьор на микробус във Варна даде положителна проба за метамфетамин и канабис
+    url: https://thesite24.net/shofor-na-mikrobus-vav-varna-dade-polozhitelna-proba-za-metamfetamin-i-kanabis/
+    publisher: СайтЪТ
+    date: 2026-11-05
+    language: bg
+open_questions:
+  - No cannabis quantity was reported, only alleged use before driving, so no weight or value is recorded.
+  - The results of the laboratory blood test are not given, so the roadside result is unconfirmed.
+  - The driver's name was not published.
+  - No charge or court outcome was reported; the case was at the pre-trial stage.
+  - Only one source for this event was found; searches did not surface the Varna police bulletin itself or another outlet's account.
+  - The page picture is a generic file photo captioned for an unrelated alcohol check, so no media entry is included.
+  - The article does not say where in Varna the van was stopped; the coordinates are for the city.
+---
+
+A 31-year-old man from Varna was detained after a police check showed a positive
+result for methamphetamine and cannabis use. [@1] The man was driving a van when
+officers of Varna's First District Police Station stopped him, the police
+bulletin said. [@1] The check took place around midday on 4 November. [@1]
+
+A technical device for narcotic substances recorded a positive sample for two
+kinds of drugs, methamphetamine and cannabis. [@1] After the check the driver
+was taken to a laboratory, where he gave a blood sample for testing. [@1]
+
+The man was held for up to 24 hours, and a pre-trial proceeding was opened in
+the case. [@1] The police bulletin did not give the results of the laboratory
+test. [@1]
+
