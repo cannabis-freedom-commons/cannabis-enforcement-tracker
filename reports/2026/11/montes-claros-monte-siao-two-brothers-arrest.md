@@ -44,6 +44,11 @@ sources:
     publisher: WebTerra
     date: 2026-11-05
     language: pt
+  - title: Irmãos são presos com drogas e plantas de maconha em operação com cão farejador em Montes Claros - Gerais News
+    url: https://geraisnews.com.br/2026/11/05/irmaos-sao-presos-com-drogas-e-plantas-de-maconha-em-operacao-com-cao-farejador-em-montes-claros/
+    publisher: Gerais News
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight was published for the 24 marijuana-like lumps, so no cannabis kilogram figure can be recorded.
   - Crack, cocaine, cash and the combined drug totals are mentioned only to explain the same mixed event and are excluded from cannabis figures.
@@ -51,17 +56,18 @@ open_questions:
   - Only one accessible outlet account was found after searching in Portuguese; no agency statement or second outlet account could be opened.
   - 'The page image is credited only as Foto: Polícia Militar without a descriptive caption establishing that it shows this seizure, so no media entry is included.'
   - No court outcome beyond transfer to the Civil Police station was reported.
+  - 'The page image is credited only as Foto: Polícia Militar / Divulgação without a descriptive caption establishing that it shows this seizure, so no media entry is included.'
 ---
 
 Two brothers aged 18 and 20 were arrested on suspicion of involvement with drug
 trafficking on the night of Wednesday 4 November in Montes Claros in northern
-Minas Gerais. [@1] The case was recorded in the Monte Sião neighbourhood during
+Minas Gerais. [@1,2] The case was recorded in the Monte Sião neighbourhood during
 an operation by the Shock Platoon and the Ostensive Patrols with Dogs (ROCCA).
-[@1] During preventive patrolling, military police saw the younger brother
+[@1,2] During preventive patrolling, military police saw the younger brother
 discarding a wrapper as the patrol car approached. [@1] That packet held 30
 stones of a crack-like substance. [@1] During the searches the older brother
 arrived at the house, resisted the approach, kicked a police officer and tried
-to flee, but was caught and restrained. [@1]
+to flee, but was caught and restrained. [@1,2]
 
 After authorization to enter his house, police found in a wooden box 18 pins of
 a cocaine-like substance, five crack stones and R$50 in cash. [@1] Near the
@@ -71,7 +77,6 @@ crack-like stones and R$55. [@1] With the help of sniffer dog Atena, police
 located one more plant resembling marijuana. [@1]
 
 In total police reported 50 crack-like stones, 18 cocaine-like pins, 24
-marijuana-like lumps, three marijuana-like plants and R$105. [@1] The two
+marijuana-like lumps, three marijuana-like plants and R$105. [@1,2] The two
 brothers were arrested and taken to the Civil Police station together with all
-the seized material. [@1]
-
+the seized material. [@1,2]
