@@ -71,6 +71,11 @@ sources:
     publisher: Vertentes das Gerais
     date: 2026-11-05
     language: pt
+  - title: Casal é detido com 19 barras de maconha após drogas serem lançadas de apartamento em Juiz de Fora
+    url: https://bh24horas.com.br/minas-gerais/casal-e-detido-com-19-barras-de-maconha-apos-drogas-serem-lancadas-de-apartamento-em-juiz-de-fora/
+    publisher: BH 24 Horas
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No weight was published for the 19 bars or tablets of maconha, so no kilograms can be recorded.
   - The suspects were identified only by age and sex, with no names published.
@@ -83,23 +88,27 @@ open_questions:
   - Vertentes das Gerais credits Hoje em Dia, an outlet the report already cites, so this account repeats rather than independently reports the Military Police version.
   - The article's featured photo of the case is uncaptioned and carries no credit, so it is not confirmed to show this seizure and no media entry is added.
   - Vertentes das Gerais dates the arrest to the Wednesday night and gives no time for the police approach.
+  - This account dates the apprehension to the night of Wednesday 4 November, while the Estado de Minas account cited in the report places the arrest in the afternoon with the occurrence recorded at about 18h25.
+  - No weight was published for the 19 bars in this account either, so no kilograms can be added.
+  - The scrapyard is described here as a ferro-velho, a scrap-metal yard; the report calls it a lot beside the building.
+  - BH 24 Horas attributes the account to 'a corporação' without naming a contributor, so it appears to repeat the Military Police version.
 ---
 
 Military police arrested a couple suspected of storing drugs for the Comando
 Vermelho (CV) in an apartment with 19 bars of maconha on the night of Wednesday
-4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1,3,5]
+4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1,3,5,6]
 Police said the apartment was used as a depot for drugs belonging to members of
-the criminal faction. [@1] The suspects were a 24-year-old man and a 21-year-old
-woman. [@1,3] Both resisted arrest, and the woman received care at a health unit
+the criminal faction. [@1,6] The suspects were a 24-year-old man and a 21-year-old
+woman. [@1,3,6] Both resisted arrest, and the woman received care at a health unit
 before she and her partner were taken to the police station with the seized
-materials. [@1]
+materials. [@1,6]
 
 The operation took place in the São Judas Tadeu neighbourhood to check reports
-that the apartment was storing drugs. [@1] Officers found the drugs in a
-scrapyard next to the building. [@1,3] Police said the couple had thrown the
+that the apartment was storing drugs. [@1,6] Officers found the drugs in a
+scrapyard next to the building. [@1,3,6] Police said the couple had thrown the
 maconha bars from the balcony to hide them, and sniffer dogs Brasão and Rakissa
-helped find the drugs in the lot beside the building. [@1,3,5] Alongside the 19
-maconha tablets, officers seized a precision scale and two mobile phones. [@1,5]
+helped find the drugs in the lot beside the building. [@1,3,5,6] Alongside the 19
+maconha tablets, officers seized a precision scale and two mobile phones. [@1,5,6]
 
 During patrols in São Judas Tadeu, officers were told that members of the
 criminal organisation were storing drugs in an apartment on Rua José Paulino
