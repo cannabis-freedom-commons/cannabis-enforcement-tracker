@@ -63,6 +63,11 @@ sources:
     publisher: GS NEWS
     date: 2026-11-05
     language: hi
+  - title: 'Indian Railways : বড় সাফল্য আরপিএফের, মালদা টাউন স্টেশনে পাতা হয়েছিল ''ফাঁদ'', ধরা পড়ল তিনজন সন্দেহভাজন'
+    url: https://bengali.news18.com/news/west-bengal/marijuana-recovery-in-malda-town-railway-station-three-people-arrested-by-rpf-smj-2953308.html
+    publisher: News18 Bengali
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The article gives no separate date for the seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The report does not say where the ganja was brought from or where it was to be delivered.
@@ -79,11 +84,12 @@ open_questions:
   - GS NEWS dates the train's arrival to 3 November and the formal NDPS arrest to the morning of 4 November, while the report uses 5 November, the publication date, as the incident date.
   - GS NEWS calls the seized substance madak padarth (narcotic substance) in its headline and lead, relying on a drug-detection kit test, and names no state of origin or destination for the ganja.
   - GS NEWS carries photographs of the recovered ganja and of the accused, but no caption or credit ties any of them specifically to this seizure.
+  - The News18 account dates the train's arrival to 3 November 2026 and the formal NDPS arrests to the morning of 4 November, the same dates other accounts give, while the existing report still uses 5 November, its first publication date, as the incident date.
 ---
 
 Railway Protection Force personnel stopped two men and a woman carrying heavy
 plastic sacks as they tried to hurry away from the Tejas Rajdhani Express at
-Malda Town railway station. [@1,4,5] The team had been watching passengers on the
+Malda Town railway station. [@1,4,5,6] The team had been watching passengers on the
 basis of a tip-off after train number 20501 reached Malda Town station. [@1,4]
 Officers searched the sacks and found 24 packets kept in plastic boxes, and a
 drug-detection kit confirmed the substance was ganja, the local name for
@@ -98,7 +104,7 @@ rupees). [@1,2,5] The action took place on platform number 1 at Malda Town stati
 rail tickets, whose examination may reveal further facts about the case. [@1,3]
 Woman constable Kanika Roy searched the woman accused. [@1,3] After completing the
 required legal formalities, the Malda Town Government Railway Police arrested
-all three and took over further investigation and legal action. [@1,2] The Tejas
+all three and took over further investigation and legal action. [@1,2,6] The Tejas
 Rajdhani Express runs via Malda and Bhagalpur to Anand Vihar Terminal. [@1,2]
 
 The Anand Vihar Terminal-Tejas Rajdhani Express (20501) reached platform 1 at Malda Town on 3 November. [@2] The three were arrested under the NDPS Act on 4 November. [@2] Eastern Railway public relations officer Shivram Majhi said surveillance on rail routes had been intensified to stop drug trafficking. [@2]
