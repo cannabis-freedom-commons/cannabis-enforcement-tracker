@@ -12,6 +12,7 @@ import { flagOf } from "../../lib/countries.js";
 import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
+import Cites from "../../components/Cites.astro";
 import { submissionsAPI } from "../../lib/submissions-config.js";
 import { shortSubmission } from "../../lib/report-submission.js";
 import { mediaView } from "../../lib/media.js";
@@ -28,6 +29,8 @@ const r = reports.find((x) => x.id === entry.id);
 const { Content, remarkPluginFrontmatter } = await render(entry);
 const order = remarkPluginFrontmatter.citeOrder ?? r.sources.map((_, i) => i + 1);
 const cited = order.map((i) => r.sources[i - 1]);
+// the sources a structured value rests on, as the numbers the reader sees in the source list
+const cites = (field) => (r.data_sources?.[field] ?? []).map((n) => order.indexOf(n) + 1).filter((n) => n > 0).sort((a, b) => a - b);
 const base = import.meta.env.BASE_URL;
 const more = related(r);
 // photos with a direct address are shown from the publisher's own server (never copied here, see
@@ -89,7 +92,12 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
 
     {r.figureRows.length > 0 && (
       <dl class="figures">
-        {r.figureRows.map((f) => <div><dt>{f.label}</dt><dd>{f.value}</dd></div>)}
+        {r.figureRows.map((f) => <div><dt>{f.label}</dt><dd>{f.value}<Cites numbers={cites(`figures.${f.key}`)} /></dd></div>)}
+      </dl>
+    )}
+    {r.detailRows.length > 0 && (
+      <dl class="report-details">
+        {r.detailRows.map((d) => <div><dt>{d.label}</dt><dd>{d.value}<Cites numbers={cites(`details.${d.key}`)} /></dd></div>)}
       </dl>
     )}
 

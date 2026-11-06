@@ -11,6 +11,7 @@ import (
 	"os/exec"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"syscall"
 	"time"
 
@@ -46,6 +47,7 @@ func (w *Worker) cleanWorkspaces(ctx context.Context, completedCase string) erro
 		retention = defaultJobLogRetention
 	}
 	now := time.Now()
+	keep := keptSessions(root, entries, now)
 	pruned, removed := 0, 0
 	var failures []error
 	for _, e := range entries {
@@ -88,9 +90,17 @@ func (w *Worker) cleanWorkspaces(ctx context.Context, completedCase string) erro
 		if running {
 			continue
 		}
-		// An interrupted OpenCode session waits here to be continued by the next attempt.
+		// An interrupted OpenCode session waits here, slimmed, to be continued by the next
+		// attempt; past its age limit or the cap on kept sessions it is discarded.
 		if !store.Terminal(status) && research.HasSession(dir) {
-			continue
+			if !keep[dir] {
+				research.DiscardSession(dir)
+			} else {
+				if err := research.SlimKeptSession(dir); err != nil {
+					failures = append(failures, err)
+				}
+				continue
+			}
 		}
 		// A validated draft is the only checkout a later stage reuses. Research retries
 		// rebuild from durable checkpoints in a fresh snapshot, not an old checkout.
@@ -226,4 +236,38 @@ func (w *Worker) archiveScreenshots(ctx context.Context, cid string) error {
 		}
 	}
 	return errors.Join(failures...)
+}
+
+// Kept sessions are a disk cost: each holds the agent's input and its session (about 70 MB).
+const (
+	maxKeptSessions   = 12
+	keptSessionMaxAge = 6 * time.Hour
+)
+
+// keptSessions picks the kept sessions that may stay: the newest, within the age limit.
+func keptSessions(root string, entries []os.DirEntry, now time.Time) map[string]bool {
+	type kept struct {
+		dir string
+		at  time.Time
+	}
+	var all []kept
+	for _, e := range entries {
+		if !e.IsDir() || workspaceName.FindStringSubmatch(e.Name()) == nil {
+			continue
+		}
+		dir := filepath.Join(root, e.Name())
+		info, err := os.Stat(filepath.Join(dir, "research-session.json"))
+		if err != nil {
+			continue
+		}
+		all = append(all, kept{dir, info.ModTime()})
+	}
+	sort.Slice(all, func(i, j int) bool { return all[i].at.After(all[j].at) })
+	out := map[string]bool{}
+	for i, k := range all {
+		if i < maxKeptSessions && now.Sub(k.at) < keptSessionMaxAge {
+			out[k.dir] = true
+		}
+	}
+	return out
 }

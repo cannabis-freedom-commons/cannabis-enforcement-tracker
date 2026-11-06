@@ -4,9 +4,15 @@ import { defineCollection } from "astro:content";
 import { reportLoader } from "../scripts/lib/report-loader.mjs";
 import { z } from "astro/zod";
 import countries from "./data/countries.json";
+import vocabularies from "./data/vocabularies.json";
+import agencies from "./data/agencies.json";
 import { TYPE_IDS, PRECISION, STATUS } from "./lib/types.js";
 
 const COUNTRY_IDS = countries.map((c) => c.id) as [string, ...string[]];
+// the allowed values of the structured details (src/data/vocabularies.json)
+const term = (list: keyof typeof vocabularies) => z.enum(vocabularies[list].map((t) => t.id) as [string, ...string[]]);
+const terms = (list: keyof typeof vocabularies) => z.array(term(list)).min(1).max(10);
+const AGENCY_IDS = new Set(agencies.map((a) => a.id));
 const day = z.coerce.date();
 const money = z.object({ amount: z.number().positive(), currency: z.string().regex(/^[A-Z]{3}$/) }).strict();
 
@@ -39,6 +45,39 @@ const figures = z.object({
   fine: money.optional(),
   value: money.optional(), // the authorities' estimate of what was seized or destroyed
   deaths: z.number().int().nonnegative().optional(),
+  // kg_seized and plants_destroyed stay the totals; these split them where a source does
+  plants_seized: z.number().int().nonnegative().optional(), // taken away, not destroyed
+  kg_destroyed: z.number().nonnegative().optional(), // burned or destroyed
+  convicted: z.number().int().nonnegative().optional(),
+  acquitted: z.number().int().nonnegative().optional(),
+  sentenced: z.number().int().nonnegative().optional(),
+  released: z.number().int().nonnegative().optional(), // freed without charge or on bail
+  injured: z.number().int().nonnegative().optional(),
+  sites: z.number().int().nonnegative().optional(), // places raided or plantations destroyed
+  seeds: z.number().int().nonnegative().optional(),
+  vehicles: z.number().int().nonnegative().optional(), // confiscated
+  cash: money.optional(), // money confiscated
+}).strict();
+
+// Who acted, what was taken, where, and how far the case went: each value supported by a quoted
+// source (data_sources), all optional. Ids come from src/data/vocabularies.json and agencies.json.
+const details = z.object({
+  agencies: z.array(z.string().min(2).max(100).refine((a) => AGENCY_IDS.has(a) || !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(a), { message: "an agency is a registry id (src/data/agencies.json) or a name as published" })).min(1).max(10).optional(),
+  agency_types: terms("agency_type").optional(),
+  products: z.array(z.object({ product: term("product"), kg: z.number().nonnegative().optional(), plants: z.number().int().nonnegative().optional() }).strict()).min(1).max(10).optional(),
+  activity: terms("activity").optional(),
+  setting: terms("setting").optional(),
+  environment: terms("environment").optional(),
+  charges: z.array(z.string().min(3).max(160)).min(1).max(10).optional(),
+  case_stage: term("case_stage").optional(),
+  sentence_types: terms("sentence_type").optional(),
+  force: terms("force").optional(),
+  period: z.object({ start: day, end: day }).strict().refine((p) => p.end >= p.start, { message: "period ends before it starts" }).optional(),
+  date_precision: term("date_precision").optional(),
+  region: z.string().min(1).max(100).optional(),
+  route: z.object({ from: z.array(z.enum(COUNTRY_IDS)).optional(), to: z.array(z.enum(COUNTRY_IDS)).optional(), crossing: z.string().min(1).max(100).optional() }).strict().optional(),
+  part_of: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/).optional(), // a campaign report's slug
+  related: z.array(z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/)).min(1).max(10).optional(),
 }).strict();
 
 const reports = defineCollection({
@@ -64,6 +103,9 @@ const reports = defineCollection({
     title: z.string().min(1).max(120),
     summary: z.string().min(1).max(400),
     figures: figures.optional(),
+    details: details.optional(),
+    // which sources (by number) support each structured value: { "figures.arrested": [1] }
+    data_sources: z.record(z.string().regex(/^(figures|details)\.[a-z_]+$/), z.array(z.number().int().positive()).min(1)).optional(),
     cover: z.object({
       image: image(),
       alt: z.string().min(1),
@@ -93,7 +135,11 @@ const reports = defineCollection({
   }).strict()
     .refine((r) => !r.added_at_source || r.added_at, { message: "added_at_source needs added_at" })
     .refine((r) => !r.coordinates || r.precision, { message: "coordinates need a precision" })
-    .refine((r) => !r.also?.includes(r.type), { message: "`also` repeats the main type" })),
+    .refine((r) => !r.also?.includes(r.type), { message: "`also` repeats the main type" })
+    .refine((r) => Object.entries(r.data_sources ?? {}).every(([field, list]) => {
+      const [group, key] = field.split(".");
+      return (r as any)[group]?.[key] != null && list.every((n) => n <= r.sources.length);
+    }), { message: "data_sources names a value the report does not give, or a source it does not list" })),
 });
 
 export const collections = { reports };

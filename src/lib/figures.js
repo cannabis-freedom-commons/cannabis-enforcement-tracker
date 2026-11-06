@@ -22,13 +22,24 @@ export function figureRows(f = {}) {
   const rows = [];
   if (f.arrested != null) rows.push({ key: "arrested", label: "Arrested", value: fmtNum(f.arrested) });
   if (f.charged != null) rows.push({ key: "charged", label: "Charged", value: fmtNum(f.charged) });
+  if (f.convicted != null) rows.push({ key: "convicted", label: "Convicted", value: fmtNum(f.convicted) });
+  if (f.acquitted != null) rows.push({ key: "acquitted", label: "Acquitted", value: fmtNum(f.acquitted) });
+  if (f.sentenced != null) rows.push({ key: "sentenced", label: "Sentenced", value: fmtNum(f.sentenced) });
+  if (f.released != null) rows.push({ key: "released", label: "Released", value: fmtNum(f.released) });
   if (f.plants_destroyed != null) rows.push({ key: "plants_destroyed", label: "Plants destroyed", value: fmtNum(f.plants_destroyed) });
+  if (f.plants_seized != null) rows.push({ key: "plants_seized", label: "of them seized", value: fmtNum(f.plants_seized) });
   // with its unit, like the weight, so its tooltip can give it in acres
   if (f.hectares != null) rows.push({ key: "hectares", label: "Area", value: `${fmtNum(f.hectares)} ha` });
   if (f.kg_seized != null) rows.push({ key: "kg_seized", label: "Cannabis", value: formatWeight(f.kg_seized) });
+  if (f.kg_destroyed != null) rows.push({ key: "kg_destroyed", label: "of it destroyed", value: formatWeight(f.kg_destroyed) });
+  if (f.sites != null) rows.push({ key: "sites", label: "Sites", value: fmtNum(f.sites) });
+  if (f.seeds != null) rows.push({ key: "seeds", label: "Seeds", value: fmtNum(f.seeds) });
   if (f.prison) rows.push({ key: "prison", label: "Prison", value: f.prison });
   if (f.fine) rows.push({ key: "fine", label: "Fine", value: fmtMoney(f.fine) });
+  if (f.injured != null) rows.push({ key: "injured", label: "Injured", value: fmtNum(f.injured) });
   if (f.deaths != null) rows.push({ key: "deaths", label: "Deaths", value: fmtNum(f.deaths) });
+  if (f.vehicles != null) rows.push({ key: "vehicles", label: "Vehicles confiscated", value: fmtNum(f.vehicles) });
+  if (f.cash) rows.push({ key: "cash", label: "Cash confiscated", value: fmtMoney(f.cash) });
   if (f.value) rows.push({ key: "value", label: "Value (official estimate)", value: fmtMoney(f.value) });
   return rows;
 }

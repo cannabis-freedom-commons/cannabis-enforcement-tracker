@@ -77,7 +77,11 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		r.CreatedByModel = w.Config.ResearchModel
 		r.CleanPresentation()
 		r.Tags = research.CleanTags(r.Tags)
-		if err := r.Validate(ids); err != nil {
+		var vocabs []research.Vocabularies
+		if vocab, err := research.LoadVocabularies(w.Config.RepoPath); err == nil {
+			vocabs = append(vocabs, vocab)
+		}
+		if err := r.Validate(ids, vocabs...); err != nil {
 			return []string{"schema validation: " + err.Error()}
 		}
 		if !r.Drafts() {
@@ -92,6 +96,12 @@ func (w *Worker) resultCheck(dir string, initial safeurl.Evidence, base []safeur
 		}
 		evidence := append(append([]safeurl.Evidence(nil), base...), research.ReadToolEvidence(dir)...)
 		_, _, check, err := r.Confirm(ctx, initial, notCaptured, evidence...)
+		for _, field := range r.MissingQuotes() {
+			problems = append(problems, field+" has no data_quotes entry: add a verbatim quotation from a cited source that shows this value, or leave the value out")
+		}
+		for _, field := range check.DataLeftOut {
+			problems = append(problems, field+" would be left out: its quotation is not in the captured text of its source, or that source is not cited by any fact")
+		}
 		for _, text := range check.LeftOut {
 			problems = append(problems, "this fact's quotation is not in the captured text of its source, so it would be left out (quote the source exactly): "+text)
 		}

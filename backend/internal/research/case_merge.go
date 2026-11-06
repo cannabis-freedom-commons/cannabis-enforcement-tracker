@@ -91,7 +91,7 @@ func setNode(front []string, key string, value *yaml.Node) ([]string, error) {
 	return append(out, front[end:]...), nil
 }
 
-func mergeCaseFields(front []string, header *yaml.Node, r Result) ([]string, error) {
+func mergeCaseFields(front []string, header *yaml.Node, r Result, number map[int]int) ([]string, error) {
 	country, date := mapping(header, "country"), mapping(header, "date")
 	if country == nil || country.Value != r.Country {
 		return front, errors.New("existing report country differs")
@@ -153,6 +153,37 @@ func mergeCaseFields(front []string, header *yaml.Node, r Result) ([]string, err
 		}
 		clearYAMLStyle(figures)
 		setMapping(changes, "figures", figures)
+	}
+	// a later stage replaces the details it gives (case stage, sentence types…) and keeps the rest
+	if d := r.Details.node(); d != nil {
+		details := mapping(header, "details")
+		if details == nil {
+			details = &yaml.Node{Kind: yaml.MappingNode, Tag: "!!map"}
+		}
+		for i := 0; i+1 < len(d.Content); i += 2 {
+			setMapping(details, d.Content[i].Value, d.Content[i+1])
+		}
+		setMapping(changes, "details", details)
+	}
+	if len(r.DataSources) > 0 {
+		sources := mapping(header, "data_sources")
+		if sources == nil {
+			sources = &yaml.Node{Kind: yaml.MappingNode, Tag: "!!map"}
+		}
+		renumbered := map[string][]int{}
+		for field, list := range r.DataSources {
+			for _, n := range list {
+				if m := number[n]; m != 0 {
+					renumbered[field] = append(renumbered[field], m)
+				}
+			}
+		}
+		if node := dataSourcesNode(renumbered); node != nil {
+			for i := 0; i+1 < len(node.Content); i += 2 {
+				setMapping(sources, node.Content[i].Value, node.Content[i+1])
+			}
+			setMapping(changes, "data_sources", sources)
+		}
 	}
 	for i := 0; i+1 < len(changes.Content); i += 2 {
 		key, value := changes.Content[i].Value, changes.Content[i+1]

@@ -1,0 +1,5 @@
+---
+// The sources a structured value rests on, as links to the numbered source list.
+const { numbers = [] } = Astro.props;
+---
+{numbers.length > 0 && <sup class="data-cite">{numbers.map((n, i) => <>{i > 0 && ","}<a href={`#ref-${n}`}>{n}</a></>)}</sup>}

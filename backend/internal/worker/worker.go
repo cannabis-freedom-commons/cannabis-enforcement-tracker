@@ -403,6 +403,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		resumed := w.resumableWorkspace(j.Ref)
 		if resumed != "" {
 			dir = resumed
+			if err = runner.RestoreCheckout(ctx, j.Ref, dir); err != nil {
+				return err
+			}
 		} else {
 			dir, err = runner.Snapshot(ctx, j.Ref)
 			if err != nil {
@@ -479,7 +482,15 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		// counts in the text that the figures miss are pointed out as open questions
 		result.Uncertainties = append(result.Uncertainties, research.FigureGaps(result)...)
 		result.Tags = research.CleanTags(result.Tags) // a tag in another script or with spaces is mended, not refused
-		if err = result.Validate(ids); err != nil {
+		vocab, vocabErr := research.LoadVocabularies(w.Config.RepoPath)
+		if vocabErr != nil && !os.IsNotExist(vocabErr) {
+			return vocabErr
+		}
+		var vocabs []research.Vocabularies
+		if vocabErr == nil {
+			vocabs = append(vocabs, vocab)
+		}
+		if err = result.Validate(ids, vocabs...); err != nil {
 			if checkpoint.RepairAttempts < 1 {
 				problem := "The result did not pass schema validation: " + err.Error() + ". Correct the result using the saved sources and current reports; do not invent missing evidence."
 				if session != nil {

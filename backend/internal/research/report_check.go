@@ -1,6 +1,7 @@
 package research
 
 import (
+	"bytes"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -39,7 +40,7 @@ func CheckReport(dir, rel, content string) error {
 		return err
 	}
 	c := checker{}
-	c.only(data, "", "code", "added_at", "added_at_source", "date", "country", "place", "coordinates", "precision", "type", "also", "title", "summary", "figures", "cover", "media", "status", "cfi_id", "tags", "created_by_model", "submission", "open_questions", "sources")
+	c.only(data, "", "code", "added_at", "added_at_source", "date", "country", "place", "coordinates", "precision", "type", "also", "title", "summary", "figures", "details", "data_sources", "cover", "media", "status", "cfi_id", "tags", "created_by_model", "submission", "open_questions", "sources")
 	c.match("code", data["code"], `^[0-9A-HJKMNP-TV-Z]{6}$`)
 	for _, field := range []string{"added_at"} {
 		if v, ok := data[field]; ok {
@@ -89,15 +90,16 @@ func CheckReport(dir, rel, content string) error {
 	c.text("summary", data["summary"], 400, true)
 	if v, ok := data["figures"]; ok {
 		f := c.object("figures", v)
-		c.only(f, "figures.", "arrested", "charged", "kg_seized", "plants_destroyed", "hectares", "prison", "fine", "value", "deaths")
-		for _, k := range []string{"arrested", "charged", "plants_destroyed", "deaths"} {
+		c.only(f, "figures.", "arrested", "charged", "kg_seized", "plants_destroyed", "hectares", "prison", "fine", "value", "deaths",
+			"plants_seized", "kg_destroyed", "convicted", "acquitted", "sentenced", "released", "injured", "sites", "seeds", "vehicles", "cash")
+		for _, k := range []string{"arrested", "charged", "plants_destroyed", "deaths", "plants_seized", "convicted", "acquitted", "sentenced", "released", "injured", "sites", "seeds", "vehicles"} {
 			if n, ok := f[k]; ok {
 				if x, isNum := toNumber(n); !isNum || x < 0 || x != float64(int64(x)) {
 					c.fail("figures.%s: a whole number, 0 or more", k)
 				}
 			}
 		}
-		for _, k := range []string{"kg_seized", "hectares"} {
+		for _, k := range []string{"kg_seized", "hectares", "kg_destroyed"} {
 			if n, ok := f[k]; ok {
 				if x, isNum := toNumber(n); !isNum || x < 0 {
 					c.fail("figures.%s: a number, 0 or more", k)
@@ -105,7 +107,7 @@ func CheckReport(dir, rel, content string) error {
 			}
 		}
 		c.text("figures.prison", f["prison"], 0, false)
-		for _, k := range []string{"fine", "value"} {
+		for _, k := range []string{"fine", "value", "cash"} {
 			if v, ok := f[k]; ok {
 				money := c.object("figures."+k, v)
 				c.only(money, "figures."+k+".", "amount", "currency")
@@ -113,6 +115,26 @@ func CheckReport(dir, rel, content string) error {
 					c.fail("figures.%s.amount: a positive number", k)
 				}
 				c.match("figures."+k+".currency", money["currency"], `^[A-Z]{3}$`)
+			}
+		}
+	}
+	if v, ok := data["details"]; ok {
+		if err := checkDetails(dir, v, countries); err != nil {
+			c.fail("%v", err)
+		}
+	}
+	if v, ok := data["data_sources"]; ok {
+		sources, _ := data["sources"].([]any)
+		for field, raw := range c.object("data_sources", v) {
+			prefix, key, _ := strings.Cut(field, ".")
+			group, _ := data[prefix].(map[string]any)
+			if (prefix != "figures" && prefix != "details") || group == nil || group[key] == nil {
+				c.fail("data_sources.%s: names no value in this report", field)
+			}
+			for _, n := range c.list("data_sources."+field, raw) {
+				if x, isNum := toNumber(n); !isNum || x < 1 || int(x) > len(sources) || x != float64(int64(x)) {
+					c.fail("data_sources.%s: source numbers 1 to %d", field, len(sources))
+				}
 			}
 		}
 	}
@@ -369,4 +391,44 @@ func number(list []any, i int) (float64, bool) {
 		return 0, false
 	}
 	return toNumber(list[i])
+}
+
+// checkDetails validates a report's details with the service's own rules and vocabularies.
+func checkDetails(dir string, v any, countries map[string]bool) error {
+	b, err := json.Marshal(plainDates(v))
+	if err != nil {
+		return err
+	}
+	var d Details
+	decoder := json.NewDecoder(bytes.NewReader(b))
+	decoder.DisallowUnknownFields()
+	if err = decoder.Decode(&d); err != nil {
+		return fmt.Errorf("details: %v", err)
+	}
+	vocab, err := LoadVocabularies(dir)
+	if err != nil {
+		return fmt.Errorf("details: vocabularies unavailable: %v", err)
+	}
+	return d.Validate(vocab, countries)
+}
+
+// plainDates turns YAML dates back into YYYY-MM-DD strings.
+func plainDates(v any) any {
+	switch x := v.(type) {
+	case time.Time:
+		return x.Format("2006-01-02")
+	case map[string]any:
+		out := map[string]any{}
+		for k, item := range x {
+			out[k] = plainDates(item)
+		}
+		return out
+	case []any:
+		out := make([]any, len(x))
+		for i, item := range x {
+			out[i] = plainDates(item)
+		}
+		return out
+	}
+	return v
 }

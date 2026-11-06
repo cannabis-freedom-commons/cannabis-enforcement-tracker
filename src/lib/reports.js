@@ -6,6 +6,7 @@ import { TYPES } from "./types.js";
 import { countryName, countryOf } from "./countries.js";
 import { centreOf } from "./map.js";
 import { figureRows } from "./figures.js";
+import { detailRows } from "./details.js";
 import { relative } from "node:path";
 import { readReportHistory } from "./report-history.js";
 import { compareReports } from "./report-time.js";
@@ -35,6 +36,7 @@ export const reports = entries.map(({ id, data, body, filePath }) => {
     coordinates,
     precision: data.coordinates ? data.precision : coordinates ? "country" : null,
     figureRows: figureRows(data.figures),
+    detailRows: detailRows(data.details, countryName),
     // the first photo with a direct address, shown beside the report in lists (loaded from its
     // publisher, never copied); a report's own cover image comes first where there is one
     photo: data.media?.find((m) => m.kind === "photo" && /^https?:\/\//.test(m.media_url ?? ""))?.media_url ?? null,

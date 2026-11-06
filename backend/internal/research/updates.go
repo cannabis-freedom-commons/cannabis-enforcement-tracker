@@ -294,7 +294,7 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	}
 	sets := [][2]string{}
 	if current != nil {
-		front, err = mergeCaseFields(front, header, *current)
+		front, err = mergeCaseFields(front, header, *current, number)
 		if err != nil {
 			return d, err
 		}

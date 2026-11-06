@@ -78,33 +78,49 @@ type Figures struct {
 	Fine            *Money   `json:"fine,omitempty"`
 	Value           *Money   `json:"value,omitempty"`
 	Deaths          *int     `json:"deaths,omitempty"`
+	// Added with the structured data (see structured.go).
+	PlantsSeized *int     `json:"plants_seized,omitempty"`
+	KgDestroyed  *float64 `json:"kg_destroyed,omitempty"`
+	Convicted    *int     `json:"convicted,omitempty"`
+	Acquitted    *int     `json:"acquitted,omitempty"`
+	Sentenced    *int     `json:"sentenced,omitempty"`
+	Released     *int     `json:"released,omitempty"`
+	Injured      *int     `json:"injured,omitempty"`
+	Sites        *int     `json:"sites,omitempty"`
+	Seeds        *int     `json:"seeds,omitempty"`
+	Vehicles     *int     `json:"vehicles,omitempty"`
+	Cash         *Money   `json:"cash,omitempty"`
 }
 type Result struct {
 	// Set by the service after execution, never accepted from model-generated JSON.
-	Code           string    `json:"-"` // permanent CET id, allocated by the service
-	AddedAt        string    `json:"-"` // first accepted draft timestamp, assigned by the service
-	CreatedByModel string    `json:"-"`
-	Submission     string    `json:"-"` // the submission that created the report, set by the service
-	Outcome        string    `json:"outcome"`
-	Country        string    `json:"country"`
-	Date           string    `json:"incident_date"`
-	Type           string    `json:"type"`
-	Also           []string  `json:"also,omitempty"`
-	Place          string    `json:"place,omitempty"`
-	Coordinates    []float64 `json:"coordinates,omitempty"` // [lat, lon]
-	Precision      string    `json:"precision,omitempty"`
-	Figures        *Figures  `json:"figures,omitempty"`
-	Tags           []string  `json:"tags,omitempty"`
-	Media          []Media   `json:"media,omitempty"`
-	Sources        []Source  `json:"sources"`
-	Facts          []Fact    `json:"facts"`
-	Slug           string    `json:"proposed_slug"`
-	Title          string    `json:"title"`
-	Summary        string    `json:"summary"`
-	ExistingReport string    `json:"existing_report"`
-	Explanation    string    `json:"explanation"`
-	DecisionTitle  string    `json:"decision_title,omitempty"`
-	Uncertainties  []string  `json:"uncertainties"`
+	Code           string      `json:"-"` // permanent CET id, allocated by the service
+	AddedAt        string      `json:"-"` // first accepted draft timestamp, assigned by the service
+	CreatedByModel string      `json:"-"`
+	Submission     string      `json:"-"` // the submission that created the report, set by the service
+	Outcome        string      `json:"outcome"`
+	Country        string      `json:"country"`
+	Date           string      `json:"incident_date"`
+	Type           string      `json:"type"`
+	Also           []string    `json:"also,omitempty"`
+	Place          string      `json:"place,omitempty"`
+	Coordinates    []float64   `json:"coordinates,omitempty"` // [lat, lon]
+	Precision      string      `json:"precision,omitempty"`
+	Figures        *Figures    `json:"figures,omitempty"`
+	Details        *Details    `json:"details,omitempty"`
+	DataQuotes     []DataQuote `json:"data_quotes,omitempty"`
+	// Which sources support each structured value, after the quotation check (never from the model).
+	DataSources    map[string][]int `json:"-"`
+	Tags           []string         `json:"tags,omitempty"`
+	Media          []Media          `json:"media,omitempty"`
+	Sources        []Source         `json:"sources"`
+	Facts          []Fact           `json:"facts"`
+	Slug           string           `json:"proposed_slug"`
+	Title          string           `json:"title"`
+	Summary        string           `json:"summary"`
+	ExistingReport string           `json:"existing_report"`
+	Explanation    string           `json:"explanation"`
+	DecisionTitle  string           `json:"decision_title,omitempty"`
+	Uncertainties  []string         `json:"uncertainties"`
 	// Other existing reports this run changes (additional sources, open questions, corrections).
 	Updates          []ReportUpdate    `json:"report_updates,omitempty"`
 	EventComparisons []EventComparison `json:"event_comparisons,omitempty"`
@@ -186,7 +202,8 @@ func (r *Result) CleanPresentation() {
 	}
 }
 
-func (r Result) Validate(countries map[string]bool) error {
+// Validate checks the result. With vocabularies it also checks the details' terms.
+func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error {
 	switch r.Outcome {
 	case "new_event", "existing_case", "additional_source", "duplicate", "not_relevant", "insufficient_evidence", "routed_to_cfi", "needs_review":
 	default:
@@ -303,6 +320,14 @@ func (r Result) Validate(countries map[string]bool) error {
 	if err := r.Figures.validate(); err != nil {
 		return err
 	}
+	if err := validateDataQuotes(r); err != nil {
+		return err
+	}
+	if len(vocab) > 0 {
+		if err := r.Details.Validate(vocab[0], countries); err != nil {
+			return err
+		}
+	}
 	if err := r.validateMedia(); err != nil {
 		return err
 	}
@@ -344,8 +369,10 @@ type Validation struct {
 	Checked   int           `json:"checked"`   // facts whose source opened, so their quotation could be looked for
 	Confirmed int           `json:"confirmed"` // of those, the ones whose quotation was found
 	LeftOut   []string      `json:"left_out,omitempty"`
-	Passed    bool          `json:"passed"`
-	Reason    string        `json:"reason,omitempty"` // why it did not pass
+	// structured values left out for want of a supporting quotation ("figures.arrested")
+	DataLeftOut []string `json:"data_left_out,omitempty"`
+	Passed      bool     `json:"passed"`
+	Reason      string   `json:"reason,omitempty"` // why it did not pass
 }
 type SourceCheck struct {
 	Title     string `json:"title"`
@@ -453,6 +480,15 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 			updates = append(updates, u)
 		}
 	}
+	// structured values: each needs a quotation found in its opened source
+	checks := make([]*supportCheck, len(opened))
+	for i, e := range opened {
+		if e != nil {
+			e := e
+			checks[i] = &supportCheck{supports: e.Supports, publisher: r.Sources[i].Publisher}
+		}
+	}
+	v.DataLeftOut = r.confirmData(checks)
 	missing := v.Checked - v.Confirmed
 	switch {
 	case v.Confirmed == 0 && v.Checked > 0:
@@ -491,6 +527,7 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 			r.Updates = append(r.Updates, u)
 		}
 	}
+	v.DataLeftOut = append(v.DataLeftOut, r.renumberData(renumber)...)
 	r.Sources, r.Facts = order, kept
 	v.Passed = true
 	return r, evidence, v, nil
@@ -560,17 +597,17 @@ func (f *Figures) validate() error {
 	if f == nil {
 		return nil
 	}
-	for _, n := range []*int{f.Arrested, f.Charged, f.PlantsDestroyed, f.Deaths} {
+	for _, n := range []*int{f.Arrested, f.Charged, f.PlantsDestroyed, f.Deaths, f.PlantsSeized, f.Convicted, f.Acquitted, f.Sentenced, f.Released, f.Injured, f.Sites, f.Seeds, f.Vehicles} {
 		if n != nil && *n < 0 {
 			return errors.New("invalid figure")
 		}
 	}
-	for _, n := range []*float64{f.KgSeized, f.Hectares} {
+	for _, n := range []*float64{f.KgSeized, f.Hectares, f.KgDestroyed} {
 		if n != nil && *n < 0 {
 			return errors.New("invalid figure")
 		}
 	}
-	for _, m := range []*Money{f.Fine, f.Value} {
+	for _, m := range []*Money{f.Fine, f.Value, f.Cash} {
 		if m != nil && (m.Amount <= 0 || !currency.MatchString(m.Currency)) {
 			return errors.New("invalid money figure")
 		}
@@ -615,6 +652,12 @@ func (r Result) Markdown() string {
 	add("summary", summary)
 	if f := r.Figures.node(); f != nil {
 		add("figures", f)
+	}
+	if d := r.Details.node(); d != nil {
+		add("details", d)
+	}
+	if s := dataSourcesNode(r.DataSources); s != nil {
+		add("data_sources", s)
 	}
 	if len(r.Media) > 0 {
 		media := &yaml.Node{Kind: yaml.SequenceNode}
@@ -738,11 +781,11 @@ func (f *Figures) node() *yaml.Node {
 	ints := []struct {
 		k string
 		v *int
-	}{{"arrested", f.Arrested}, {"charged", f.Charged}, {"plants_destroyed", f.PlantsDestroyed}, {"deaths", f.Deaths}}
+	}{{"arrested", f.Arrested}, {"charged", f.Charged}, {"convicted", f.Convicted}, {"acquitted", f.Acquitted}, {"sentenced", f.Sentenced}, {"released", f.Released}, {"plants_destroyed", f.PlantsDestroyed}, {"plants_seized", f.PlantsSeized}, {"sites", f.Sites}, {"seeds", f.Seeds}, {"vehicles", f.Vehicles}, {"injured", f.Injured}, {"deaths", f.Deaths}}
 	floats := []struct {
 		k string
 		v *float64
-	}{{"kg_seized", f.KgSeized}, {"hectares", f.Hectares}}
+	}{{"kg_seized", f.KgSeized}, {"kg_destroyed", f.KgDestroyed}, {"hectares", f.Hectares}}
 	for _, x := range ints {
 		if x.v != nil {
 			m.Content = append(m.Content, str(x.k), integer(*x.v))
@@ -759,7 +802,7 @@ func (f *Figures) node() *yaml.Node {
 	for _, x := range []struct {
 		k string
 		v *Money
-	}{{"fine", f.Fine}, {"value", f.Value}} {
+	}{{"fine", f.Fine}, {"value", f.Value}, {"cash", f.Cash}} {
 		if x.v != nil {
 			m.Content = append(m.Content, str(x.k), &yaml.Node{Kind: yaml.MappingNode, Content: []*yaml.Node{str("amount"), num(x.v.Amount), str("currency"), str(x.v.Currency)}})
 		}
@@ -863,6 +906,8 @@ func (s *Session) Close() {
 	if s.cleanup != nil && !s.keep {
 		s.cleanup()
 		_ = os.Remove(filepath.Join(s.dir, sessionMarkerName))
+	} else if s.keep {
+		_ = slimSession(s.dir)
 	}
 	s.cleanup = nil
 }
@@ -1193,6 +1238,14 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 		files[path] = b
 		editorial[path] = b
 	}
+	// The structured-data contract comes with this service version, so it always matches the parser.
+	structured, err := structuredSection(r.Config.RepoPath)
+	if err != nil {
+		return Result{}, nil, err
+	}
+	agentPath := ".opencode/agents/enforcement-researcher.md"
+	editorial[agentPath] = append(append([]byte(nil), editorial[agentPath]...), []byte(structured)...)
+	files[agentPath] = editorial[agentPath]
 	if inline {
 		agent, err := inlineInstructions(editorial[".opencode/agents/enforcement-researcher.md"], editorial["docs/CFI.md"], editorial["docs/WRITING.md"])
 		if err != nil {
@@ -1256,6 +1309,7 @@ func (r Runner) invoke(ctx context.Context, cid, dir, run string, adapt func(*ex
 	if err != nil || !local {
 		r.tool.Close()
 		if local && resumableRunError(err) {
+			_ = slimSession(dir)
 			return result, nil, err // kept on disk; the retry continues this session
 		}
 		cleanup()
@@ -1673,4 +1727,61 @@ func (e *BuildError) Error() string {
 		return "draft did not pass the " + e.Step
 	}
 	return "draft did not pass the " + e.Step + ":\n" + e.Detail
+}
+
+// slimSession reduces a kept session's workspace to what a resume needs: the agent's input, the
+// session home, the marker, logs and evidence. The checkout is rebuilt by RestoreCheckout.
+func slimSession(dir string) error {
+	entries, err := os.ReadDir(dir)
+	if err != nil {
+		return err
+	}
+	for _, e := range entries {
+		name := e.Name()
+		if name == ".research-input" || name == sessionMarkerName || strings.HasPrefix(name, ".opencode-session-") || (e.Type().IsRegular() && KeptFile(name)) {
+			continue
+		}
+		if err := os.RemoveAll(filepath.Join(dir, name)); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+// SlimKeptSession is slimSession for a workspace that holds a kept session; anything else is left.
+func SlimKeptSession(dir string) error {
+	if !HasSession(dir) {
+		return nil
+	}
+	if _, err := os.Stat(filepath.Join(dir, ".git")); os.IsNotExist(err) {
+		return nil // already slim
+	}
+	return slimSession(dir)
+}
+
+// RestoreCheckout rebuilds a slimmed workspace's checkout in place (the session's paths must not
+// change), from a fresh snapshot moved in entry by entry.
+func (r Runner) RestoreCheckout(ctx context.Context, cid, dir string) error {
+	if _, err := os.Stat(filepath.Join(dir, ".git")); err == nil {
+		return nil
+	}
+	fresh, err := r.Snapshot(ctx, cid)
+	if err != nil {
+		return err
+	}
+	defer os.RemoveAll(fresh)
+	entries, err := os.ReadDir(fresh)
+	if err != nil {
+		return err
+	}
+	for _, e := range entries {
+		target := filepath.Join(dir, e.Name())
+		if _, err := os.Lstat(target); err == nil {
+			continue
+		}
+		if err := os.Rename(filepath.Join(fresh, e.Name()), target); err != nil {
+			return err
+		}
+	}
+	return nil
 }

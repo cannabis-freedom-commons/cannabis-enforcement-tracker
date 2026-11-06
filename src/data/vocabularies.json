@@ -1,0 +1,92 @@
+{
+  "agency_type": [
+    { "id": "police", "label": "Police", "description": "Civil police, national or local", "tags": ["police"] },
+    { "id": "anti-narcotics", "label": "Anti-narcotics agency", "description": "A dedicated drug enforcement agency or unit", "tags": ["anti-narcotics", "narcotics-control-bureau"] },
+    { "id": "gendarmerie", "label": "Gendarmerie", "description": "Military-status police force", "tags": ["gendarmerie", "jandarma"] },
+    { "id": "military", "label": "Military", "description": "Army, navy or air force", "tags": ["army", "military", "navy"] },
+    { "id": "customs", "label": "Customs", "description": "Customs or excise service", "tags": ["customs"] },
+    { "id": "border-guard", "label": "Border guard", "description": "Border police or guard", "tags": ["border-guard", "border-police", "border-patrol"] },
+    { "id": "coast-guard", "label": "Coast guard", "description": "Coast guard or maritime police", "tags": ["coast-guard", "coastguard"] },
+    { "id": "prosecutor", "label": "Prosecutor", "description": "Public prosecutor's office", "tags": ["prosecutor"] },
+    { "id": "court", "label": "Court", "description": "A court deciding the case", "tags": [] },
+    { "id": "postal", "label": "Postal inspection", "description": "Postal or courier inspection", "tags": ["postal-inspection"] },
+    { "id": "regulator", "label": "Regulator", "description": "A licensing or health regulator", "tags": [] },
+    { "id": "other", "label": "Other", "description": "Any other public body", "tags": [] }
+  ],
+  "product": [
+    { "id": "flower", "label": "Herbal cannabis", "description": "Dried flower, buds or leaf (ganja, marijuana, skunk)", "tags": ["ganja", "marijuana", "maconha", "skunk", "kush", "weed", "dagga", "cannabis-herb"] },
+    { "id": "hashish", "label": "Hashish", "description": "Resin and pressed resin (hashish, charas, chira)", "tags": ["hashish", "hash", "charas", "resin", "cannabis-resin", "chira", "esrar"] },
+    { "id": "oil", "label": "Oil or extract", "description": "Hash oil, extracts, concentrates, vapes", "tags": ["hash-oil", "cannabis-oil", "thc-oil", "vape", "vapes", "concentrate", "wax"] },
+    { "id": "edibles", "label": "Edibles", "description": "Foods and drinks containing cannabis", "tags": ["edibles", "bhang", "majoun"] },
+    { "id": "plants", "label": "Living plants", "description": "Growing or freshly cut plants", "tags": ["plants"] },
+    { "id": "seeds", "label": "Seeds", "description": "Cannabis seeds", "tags": ["seeds", "cannabis-seeds"] },
+    { "id": "other", "label": "Other cannabis product", "description": "Any other cannabis product", "tags": [] }
+  ],
+  "activity": [
+    { "id": "cultivation", "label": "Cultivation", "description": "Growing cannabis", "tags": ["cultivation", "grow", "plantation", "eradication"] },
+    { "id": "possession", "label": "Possession", "description": "Having cannabis, for own use or not", "tags": ["possession"] },
+    { "id": "use", "label": "Use", "description": "Consuming cannabis", "tags": ["consumption", "smoking"] },
+    { "id": "sale", "label": "Sale", "description": "Selling or supplying cannabis, including shops", "tags": ["dealing", "sale", "narcomenudeo", "peddling", "dispensary"] },
+    { "id": "trafficking", "label": "Trafficking", "description": "Moving cannabis in quantity within a country", "tags": ["trafficking", "transport"] },
+    { "id": "smuggling", "label": "Smuggling", "description": "Moving cannabis across a border", "tags": ["smuggling", "import", "export"] },
+    { "id": "processing", "label": "Processing", "description": "Making resin, oil or edibles", "tags": ["processing", "extraction", "lab"] },
+    { "id": "money", "label": "Money and assets", "description": "Laundering or confiscation of cannabis money", "tags": ["money-laundering"] }
+  ],
+  "setting": [
+    { "id": "home", "label": "Home", "description": "A house or flat", "tags": ["home-grow", "house"] },
+    { "id": "farm", "label": "Farm", "description": "A farm or its buildings", "tags": ["farm"] },
+    { "id": "field", "label": "Field", "description": "A field or plantation in the open", "tags": ["field", "plantation"] },
+    { "id": "forest", "label": "Forest or wild land", "description": "Forest, hills, wild growth", "tags": ["forest", "wild-cannabis", "jungle"] },
+    { "id": "building", "label": "Other building", "description": "A warehouse, industrial or empty building", "tags": ["warehouse", "industrial-grow"] },
+    { "id": "shop", "label": "Shop", "description": "A shop, dispensary, café or club", "tags": ["dispensary", "shop", "coffeeshop", "cannabis-club"] },
+    { "id": "street", "label": "Street or public place", "description": "A street, park or public place", "tags": ["street"] },
+    { "id": "vehicle", "label": "Vehicle", "description": "A car, truck or bus, including traffic stops", "tags": ["traffic-stop", "truck", "vehicle", "bus"] },
+    { "id": "border", "label": "Land border", "description": "A border crossing or border area", "tags": ["border", "border-crossing"] },
+    { "id": "airport", "label": "Airport", "description": "An airport or aircraft", "tags": ["airport", "air-passenger"] },
+    { "id": "port", "label": "Port or sea", "description": "A port, ship or boat", "tags": ["port", "maritime", "boat", "ship", "container"] },
+    { "id": "mail", "label": "Mail or parcel", "description": "Post, courier or parcel", "tags": ["parcel", "postal", "courier", "mail"] },
+    { "id": "prison", "label": "Prison", "description": "A prison or jail", "tags": ["prison"] },
+    { "id": "school", "label": "School or campus", "description": "A school or university", "tags": ["school", "university"] },
+    { "id": "online", "label": "Online", "description": "Online sale or social media", "tags": ["online", "darknet", "telegram"] }
+  ],
+  "environment": [
+    { "id": "indoor", "label": "Indoor", "description": "Grown indoors under lights", "tags": ["indoor-grow", "hydroponic", "grow-room", "indoor"] },
+    { "id": "greenhouse", "label": "Greenhouse", "description": "Grown in a greenhouse", "tags": ["greenhouse"] },
+    { "id": "outdoor", "label": "Outdoor", "description": "Planted outdoors", "tags": ["outdoor", "outdoor-grow"] },
+    { "id": "wild", "label": "Wild", "description": "Growing wild, not planted", "tags": ["wild-cannabis", "wild-hemp"] }
+  ],
+  "case_stage": [
+    { "id": "investigation", "label": "Under investigation", "description": "Arrested or under investigation, no charge reported" },
+    { "id": "charged", "label": "Charged", "description": "Charged or indicted, awaiting trial" },
+    { "id": "trial", "label": "On trial", "description": "Trial under way" },
+    { "id": "convicted", "label": "Convicted", "description": "Found guilty, sentence not yet given" },
+    { "id": "sentenced", "label": "Sentenced", "description": "Sentenced at first instance" },
+    { "id": "acquitted", "label": "Acquitted", "description": "Acquitted or charges dropped" },
+    { "id": "appeal", "label": "On appeal", "description": "An appeal is pending" },
+    { "id": "final", "label": "Final", "description": "Final judgment after appeal, or no appeal possible" },
+    { "id": "executed", "label": "Executed", "description": "A death sentence was carried out" }
+  ],
+  "sentence_type": [
+    { "id": "prison", "label": "Prison", "description": "A prison term" },
+    { "id": "life", "label": "Life imprisonment", "description": "A life sentence" },
+    { "id": "death", "label": "Death sentence", "description": "A death sentence" },
+    { "id": "suspended", "label": "Suspended sentence", "description": "A suspended prison term" },
+    { "id": "fine", "label": "Fine", "description": "A fine" },
+    { "id": "community-service", "label": "Community service", "description": "Unpaid work" },
+    { "id": "probation", "label": "Probation", "description": "Probation or supervision" },
+    { "id": "corporal", "label": "Corporal punishment", "description": "Caning or flogging" },
+    { "id": "treatment", "label": "Compulsory treatment", "description": "Rehabilitation or treatment order" },
+    { "id": "deportation", "label": "Deportation", "description": "Expulsion or entry ban" }
+  ],
+  "force": [
+    { "id": "none-reported", "label": "No force reported", "description": "The sources say no force was used" },
+    { "id": "physical", "label": "Physical force", "description": "Restraint, beating, tear gas" },
+    { "id": "shots-fired", "label": "Shots fired", "description": "Officers or suspects fired weapons" },
+    { "id": "lethal", "label": "Someone killed", "description": "Someone died in the operation" }
+  ],
+  "date_precision": [
+    { "id": "exact", "label": "Exact day", "description": "The sources give the day of the event" },
+    { "id": "approximate", "label": "Approximate", "description": "The day is estimated (\"last week\", \"early October\")" },
+    { "id": "publication", "label": "Publication date", "description": "Only the publication date is known; it stands in for the event's" }
+  ]
+}
