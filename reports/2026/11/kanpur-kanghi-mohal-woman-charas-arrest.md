@@ -86,6 +86,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'પ્રેમી-પંખીડાના કાળા કામ: પ્રેમી જેલમાં ગયો તે પ્રેમિકાએ ડ્રગ વેચવાનો ધંધો શરુ કર્યો, ચાની દુકાનેથી વેપાર કરતી'
+    url: https://gujarati.news18.com/news/national-international/kanpur-crime-girlfriend-takes-over-charas-smuggling-business-from-tea-shop-after-lover-goes-to-jail-pk-2658311.html
+    publisher: News18 Gujarati
+    date: 2026-11-05
+    language: gu
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -107,6 +112,13 @@ open_questions:
   - The page image is labelled only with the article headline and its file name indicates a screenshot, so it is not established to show this seizure and no media entry is included.
   - The roundup gives only the Rs 1.5 crore valuation and no weight for the charas, so it does not settle the recorded difference between 3 kg and 1.5 kg.
   - The roundup repeats the account in a few lines and names no police officer, so it adds no detail beyond the value and the tea-stall cover story.
+  - The Gujarati account gives no weight or value for the 3 November seizure, only that police recovered four charas packets hidden inside an empty LPG cylinder, so the weight difference between 3.131 kg and about 1.5 kg stays unresolved.
+  - The Gujarati account says Riyaz alias Khatola was the partner arrested about 20 days earlier with one kilogram of charas and a pistol, while the existing report has him jailed for selling charas while carrying an illegal pistol; the two accounts of that earlier arrest still differ.
+  - The Gujarati account speaks of Shabnam's house search, while other accounts place the recovery at her tea shop; where the charas was actually found is still unclear.
+  - The page picture is captioned only as News18 and is not established by any caption or text to show this seizure, so no media link was added for it.
+  - The Gujarati report gives no court outcome and no charge sheet; it says only that police were still raiding to find her associates.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out value, as no supporting quotation was given.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
@@ -132,3 +144,5 @@ The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after a
 Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
 
 Dainik Jagran reported that the charas weighed 3.131 kg and was recovered in four black-polythene packets hidden behind an empty cylinder inside Shabnam's home. [@7]
+
+Police said Shabnam had charas brought from Nepal through Said, a close associate of Riyaz, and used other associates such as Sharafat to deliver it to schools, colleges and various parts of the city. [@9] Police said that during questioning Shabnam admitted she was using the proceeds of the trade to collect money to pay for Riyaz's bail. [@9] Police Commissioner Raghuveer Lal said various police teams were raiding continuously to catch the associates who supplied Shabnam with charas from Nepal and distributed it in the city. [@9]
