@@ -35,23 +35,29 @@ sources:
     publisher: Folha do Interior
     date: 2026-11-04
     language: pt
+  - title: Adolescente é apreendido com cerca de sete quilos de maconha em Paraty
+    url: https://avozdacidade.com/wp/adolescente-e-apreendido-com-cerca-de-sete-quilos-de-maconha-em-paraty/
+    publisher: A Voz da Cidade
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Folha do Interior calls the suspect a man while G1 says a 16-year-old; the report follows G1 that one minor was apprehended.
   - The cause and seriousness of the injuries that led to treatment at Hugo Miranda Hospital were not reported.
   - 'How police found the suspect differs: routine patrol in one account versus prior information received by the 2nd Independent Company in the other.'
   - The weight is approximate at about 7 kg; one account details three tablets of about 2 kg each plus one 1 kg tablet.
   - No name, custody ruling beyond remaining apprehended/at the disposal of justice, or later court outcome was reported.
+  - A Voz da Cidade gives no reason for the hospital visit and says the teenager was released from hospital, while G1, the account the report follows, describes him as injured without saying how serious the injuries were.
 ---
 
 Military police apprehended a 16-year-old with about 7 kg of marijuana on the
-night of Tuesday 3 November 2026 in Corisco, Paraty, at around 20h. [@1] The
+night of Tuesday 3 November 2026 in Corisco, Paraty, at around 20h. [@1,3] The
 injured teenager was taken to Hugo Miranda Hospital, where he received medical
-care and was then released. [@1] He was then taken to the Paraty police station,
+care and was then released. [@1,3] He was then taken to the Paraty police station,
 where the case was registered, and he remained apprehended for an act analogous
-to drug trafficking. [@1]
+to drug trafficking. [@1,3]
 
 Officers on patrol located the suspect and seized three marijuana tablets and a
-motorcycle. [@1] A second account breaks the haul down as three tablets of about
+motorcycle. [@1,3] A second account breaks the haul down as three tablets of about
 2 kg each plus another 1 kg tablet, totalling about 7 kg. [@2] That account
 identifies the seized motorcycle as a Honda. [@2]
 
@@ -59,5 +65,4 @@ It says the suspect and all the material were taken to the 167th Police Station
 in Paraty, where the drugs and motorcycle stayed seized and the suspect remained
 at the disposal of justice. [@2] That account says 2nd Independent Company
 officers went to the indicated address after receiving information about a man
-holding drugs. [@2]
-
+holding drugs. [@2,3]
