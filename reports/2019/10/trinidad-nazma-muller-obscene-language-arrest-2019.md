@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  agency_types: [police, court]
+  case_stage: charged
+  setting: [street]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3]
+  details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 3]
 media:
   - kind: photo
     url: https://globalvoices.org/2019/10/25/cry-of-free-the-bleeping-weed-leads-to-arrest-of-trinidadian-cannabis-advocate/
