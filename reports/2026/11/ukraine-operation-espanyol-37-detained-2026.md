@@ -144,6 +144,11 @@ sources:
     publisher: Укрінформ
     date: 2026-11-05
     language: uk
+  - title: 'В Україні викрили міжнародну мережу наркоторгівлі: вилучили наркотиків і майна на понад 90 млн грн'
+    url: https://pravdatutnews.com/society/2026/11/05/88473-v-ukrayini-vykryly-mizhnarodnu-merezhu-narkotorgivli-vyluchyly
+    publisher: ПравдаТУТ NEWS
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -184,33 +189,35 @@ open_questions:
   - Ukrinform gives no figure for cannabis plants; it mentions only that equipment for cultivating drug-containing plants was seized.
   - The four photographs on the Ukrinform page carry no caption or credit, so it cannot be confirmed which of them, if any, show cannabis rather than other seized drugs.
   - Ukrinform carries the same National Police YouTube video (iQ2fH8surv0) already listed in the report, so it is not counted as a new picture.
+  - PravdaTUT NEWS reproduces the National Police and Prosecutor General's Office statements without independent reporting and gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
+  - PravdaTUT NEWS gives no cannabis-only or hashish-only weight or valuation, so the more than 67 kg total and the more than 90 million hryvnia valuation stay unallocated to cannabis.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13,15] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13,15,17] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3,7,9,12,13,15] The 39 suspects were notified over drug trafficking and smuggling, and the
+[@1,3,7,9,12,13,15,17] The 39 suspects were notified over drug trafficking and smuggling, and the
 most serious charge carries up to 12 years in prison with confiscation. [@2,6,10,12,13]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5,6,8,12,13,15,16] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5,6,8,12,13,15,16,17] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
 parcels. [@1,6,8,13,14,16] In Ukraine the drugs were sold through Telegram channels and a
 network of distributors. [@1,3,6,12,13,14,16] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13,15,16] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13,15,16,17] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1,6,13,16] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14,15,16]
+drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14,15,16,17]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
 exposed international supply channels and a sales network. [@1,6] Everyone is
 presumed innocent until a court verdict proves guilt. [@1,7] The pre-trial
 investigation is continuing to identify other people involved in organising the
-smuggling and sales. [@2,7]
+smuggling and sales. [@2,7,17]
 
 The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3,13,16]
 
