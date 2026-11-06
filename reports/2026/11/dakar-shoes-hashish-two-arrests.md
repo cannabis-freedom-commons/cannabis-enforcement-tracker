@@ -74,6 +74,11 @@ sources:
     publisher: Senegal Direct
     date: 2026-11-05
     language: fr
+  - title: رائحة الحشيش تكشف محاولة تهريب مخدرات داخل أحذية بين الدار البيضاء ودكار
+    url: https://casa24.ma/societe/69443.html
+    publisher: كازا 24
+    date: 2026-11-05
+    language: ar
 open_questions:
   - No weight for the hashish was published, only counts of eight pellets, 32 balls and one additional ball, so no kilogram figure can be recorded.
   - The two packs of Alprazolam are a non-cannabis substance and are excluded from cannabis figures.
@@ -88,6 +93,8 @@ open_questions:
   - The page image caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
   - This account times the woman's arrest at Soprim Extension at about 20:30, while the existing report records about 20:00 from earlier sources.
   - The page's image caption refers to blue packets seized by police and does not establish that the photo shows the shoes or hashish in this case, so no media entry is included.
+  - Casa24 gives no weight for the hashish, reporting only balls of the drug, so the existing open question about a kilogram figure remains.
+  - Casa24 refers to the central office for the fight against illicit drug trafficking without naming ocrtis, and does not say how the Moroccan seizure was transferred to Senegal.
 ---
 
 Two people were arrested in Dakar in an operation by Ocrtis, the anti-drug
@@ -114,3 +121,5 @@ Ocrtis then set up a controlled delivery with the goods substituted in order to
 identify the people involved in the circuit. [@1,3,4,5,6]
 
 The woman had commissioned a parcel courier to collect the parcel at Parcelles Assainies Unité 08 at about 20:00, and officers carrying out a watched delivery then identified and arrested her. [@7,8,9] The man was arrested near the Zinc market in Pikine at about 19:00 on 1 November 2026 as he was about to collect the parcel. [@7,8,9] He was placed in custody for criminal association, international hashish trafficking and money laundering. [@7,8,9] The woman's arrest followed a related seizure in Casablanca of eight 100-gram hashish slabs and nine hashish balls hidden in a pair of shoes, 500 grams in all. [@7,8,9] A search of her home at Soprim Extension found three pairs of shoes identical to the one used to hide the hashish seized in Morocco. [@7,8,9]
+
+The report says the woman said her role was limited to acting as an intermediary for delivering the parcel before she gave the recipient's identity. [@10] Casa24 names the Senegalese agency as the central office for the fight against illicit drug trafficking, and does not say how the drugs reached it. [@10]
