@@ -38,6 +38,11 @@ sources:
     publisher: Yahoo Noticias
     date: 2026-09-27
     language: es
+  - title: 'Incautación de marihuana en Huila: anunciaron decomiso de 4,2 toneladas en la vía Neiva-Castilla'
+    url: https://www.infobae.com/colombia/2026/09/27/incautacion-de-marihuana-en-huila-anunciaron-decomiso-de-42-toneladas-en-la-via-neiva-castilla/
+    publisher: Infobae
+    date: 2026-09-27
+    language: es
 media:
   - kind: photo
     url: https://www.elheraldo.co/colombia/2026/09/27/policia-nacional-incauto-42-toneladas-de-marihuana-en-el-huila/
@@ -54,14 +59,19 @@ open_questions:
   - This source does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca trafficking organisation or any peso valuation, so those existing details gain no corroboration here.
   - The closing paragraph reports a separate 24-hour tally of 19 arrests, 907 kilos of drugs and destroyed dredges and motors, a different event left out of this match.
   - No event photo could be verified from the opened text, which shows a region-blocked video without a caption establishing that any thumbnail shows this seizure, so no media entry is included.
+  - Infobae gives no separate interception date beyond its 27 September publication, so the existing 26 September incident date rests on the earlier Caracol Radio and El Heraldo reporting rather than on this source.
+  - Infobae does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca organisation or the police's roughly 1 billion peso valuation, so those existing details gain no corroboration from this source.
+  - Infobae also reports a separate 1,498 kg cocaine seizure on the Meta river in Vichada on 25 September, a different event left out here.
 ---
 
 Police found 4.2 tonnes of marijuana hidden among sacks of lime in a truck at the Patá toll booth
-near Neiva, Huila, on 26 September 2026. [@1,2,3] The truck was on the Neiva–Castilla corridor;
+near Neiva, Huila, on 26 September 2026. [@1,2,3,4] The truck was on the Neiva–Castilla corridor;
 Caracol Radio reported it was covering the Inzá–Bogotá route. [@1,2,3]
 
-One man was arrested and will face drug-trafficking charges. [@1,2,3] The police said the load
+One man was arrested and will face drug-trafficking charges. [@1,2,3,4] The police said the load
 belonged to a trafficking organisation from Cauca. [@1,2]
 
 President Abelardo De la Espriella said the load was worth 2.225 billion pesos, while the police put
-it at about 1 billion pesos. [@1,2]
+it at about 1 billion pesos. [@1,2,4]
+
+Defence Minister Jorge Eduardo Mora López said the result showed that coordinated work by intelligence, the National Police and the Armed Forces can close criminal routes and strike criminal structures. [@4] Mora López added that the institutional response would continue in Huila and in other regions of the country. [@4]
