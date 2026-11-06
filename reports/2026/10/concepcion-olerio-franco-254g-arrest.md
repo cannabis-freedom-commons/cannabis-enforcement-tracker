@@ -29,6 +29,9 @@ tags: [concepcion, senad, microtrafico, olerias]
 open_questions:
   - No charge, court date or sentence had been reported when the accounts were published.
   - Moopio spelled the barrio San José Obrero; other outlets use San José Olero.
+  - NPY gives no charge, court date or court outcome; the Public Ministry investigation was still under way when published.
+  - NPY spells the neighbourhood San José Obrero while the report uses San José Olero for the same barrio.
+  - NPY does not name the prosecutor, so it does not corroborate the report's attribution to prosecutor Arnaldo Argüello.
 sources:
   - title: SENAD detiene a hombre de 69 años durante allanamiento en Concepción
     url: https://www.concepcionaldia.com/senad-detiene-a-hombre-de-69-anos-durante-allanamiento-en-concepcion/
@@ -45,6 +48,11 @@ sources:
     publisher: Moopio
     date: 2026-10-29
     language: es
+  - title: SENAD desarticula presunto punto de venta de marihuana en Concepción
+    url: https://www.npy.com.py/noticias/nacionales/senad-desarticula-presunto-punto-de-venta-de-marihuana-en-concepcion
+    publisher: NPY (Noticias Paraguay)
+    date: 2026-10-29
+    language: es
 media:
   - kind: photo
     url: https://www.concepcionaldia.com/senad-detiene-a-hombre-de-69-anos-durante-allanamiento-en-concepcion/
@@ -55,19 +63,19 @@ media:
 
 Special agents from SENAD, Paraguay's anti-drug secretariat, searched the home of
 Simón Florentín Franco in the barrio San José Olero, Concepción, on Wednesday
-28 October at about 16:00. [@1,2,3] Prosecutor Arnaldo Argüello of the specialised
+28 October at about 16:00. [@1,2,3,4] Prosecutor Arnaldo Argüello of the specialised
 anti-drug unit led the warrant with regional agents and SENAD special forces. [@1,3]
 
 Investigators said Franco, 69, had been selling marijuana to young people in the
 riverside neighbourhood, including minors who work in local yerba mate processing
 yards. [@2,3] Officers found 254 grams of marijuana in 17 individually wrapped
-portions hidden in a boot bag inscribed “Carlitos 10 años”. [@1,3]
+portions hidden in a boot bag inscribed “Carlitos 10 años”. [@1,3,4]
 
 Concepción al Día said Franco had 2007 convictions for sexual coercion and related
-bans. [@1] La Tribuna and Moopio described the same weight and arrest; Moopio quoted
+bans. [@1,4] La Tribuna and Moopio described the same weight and arrest; Moopio quoted
 regional chief Lilian Solís saying the raid followed complaints about sales to
-minors. [@3] SENAD said it would keep monitoring the barrio for other micro-trafficking
+minors. [@3,4] SENAD said it would keep monitoring the barrio for other micro-trafficking
 points. [@2]
 
 Franco was left in custody of the competent authorities; none of the reports
-opened gave a charge or court date. [@1,2,3]
+opened gave a charge or court date. [@1,2,3,4]
