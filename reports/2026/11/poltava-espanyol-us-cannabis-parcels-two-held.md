@@ -67,13 +67,19 @@ open_questions:
   - The regional police caption drugs each photograph only generically as drugs or officers at the scene, so it cannot be confirmed which photo shows cannabis rather than the cocaine case.
   - The regional police release speaks of eleven regions but lists Poltava Oblast among twelve named units including Kyiv city.
   - All accounts reproduce the regional police statement; no independent reporting of the searches was found.
+  - The Suspilne page gives no separate date for the searches and detentions; 6 November 2026, its publication date, stands in as the incident date.
+  - The cash of more than 100,000 hryvnias in equivalent was seized from the two Poltava residents accused over cocaine, not from the cannabis group, so it is not recorded as a cannabis figure.
+  - The cocaine weight (about 200 g) and the THC confectionery belong to the same operation but are not counted as cannabis quantities.
+  - The page gives no district, town or village for the searches, so the place remains at region precision.
+  - The article reproduces the Poltava region police statement and contains no independent reporting.
+  - The page's lead photograph carries only the generic caption “На Полтавщині викрили наркогрупу” with no credit, so it cannot be confirmed what it shows and no photo entry is added.
 ---
 
 Poltava region police detained two men, aged 29 and 34, accused of running a
 cannabis smuggling scheme from the United States into Ukraine. [@2] The
 organiser ordered international parcels using invented recipients' surnames to
 hide the cargo from customs control. [@1] The cannabis travelled on scheduled
-buses and through postal services. [@2] Searches of the men's homes and a
+buses and through postal services. [@2,3] Searches of the men's homes and a
 basement recovered more than 11 kilograms of cannabis and confectionery
 containing tetrahydrocannabinol. [@2] The pair sold through specialised Telegram
 channels with a network of dealers, and buyers paid in cryptocurrency. [@2] In
@@ -85,7 +91,7 @@ scales, packaging material and handwritten notes. [@2] The Poltava searches were
 carried out by national and regional drug-crime officers, regional
 investigators, Poltava district police and other units, backed by a
 special-purpose police company. [@2] Both men were notified of suspicion and a
-court placed them in pre-trial detention. [@2] According to their roles, they
+court placed them in pre-trial detention. [@2,3] According to their roles, they
 are accused of smuggling and drug trafficking by an organised group under
 Articles 305, 307 and 263 of Ukraine's Criminal Code, and investigators say the
 pre-trial investigation is continuing. [@2]
@@ -99,3 +105,4 @@ has given a verdict. [@2] Two other Poltava residents, a 29-year-old man and a
 cocaine to customers across Ukraine. [@1] Suspilne Poltava reported that four
 people in the two Poltava groups were notified of suspicion. [@3]
 
+Suspilne Poltava reported that cash in national and foreign currencies worth more than 100,000 hryvnias in equivalent was seized in the searches of the two Poltava residents accused over cocaine. [@3]
