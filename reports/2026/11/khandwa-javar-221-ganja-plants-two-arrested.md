@@ -56,6 +56,11 @@ sources:
     publisher: Tarun Mitra
     date: 2026-11-05
     language: hi
+  - title: खंडवा में कपास-तुअर की फसल के बीच उगा रखा था गांजा, दो खेतों से 221 पौधे किए जब्त
+    url: https://www.naidunia.com/madhya-pradesh/khandwa-cannabis-was-being-grown-amidst-cotton-and-pigeon-pea-8474781
+    publisher: Nai Dunia
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
@@ -67,6 +72,7 @@ open_questions:
   - The page image is captioned only with the headline and does not establish that it shows this seizure, so no media entry is listed.
   - Patrika gives the second field's weight as 1 quintal 700 grams, or 100.7 kg, matching the Times of India's 100.7 kg against the 100.339 kg figure already recorded, so the exact laboratory weight remains uncertain.
   - Patrika gives no total weight and no weight for the 110-plant first field, so the recorded 295.700 kg total and 195.361 kg first-field weight still rest on the earlier outlet.
+  - Nai Dunia gives the two Javar fields' plant weights as 195.361 kg for the 110-plant field and 100.700 kg for the 111-plant field, totalling 295.700 kg, and puts the first field's value at about 19.54 lakh rupees; this matches the total weight already recorded but not the earlier about 100.339 kg figure for the second field.
 media:
   - kind: photo
     url: https://www.patrika.com/khandwa-news/jawar-police-seize-221-cannabis-plants-worth-rs-29-57-lakh-in-cotton-field-21029286
@@ -98,3 +104,5 @@ against narcotics will continue. [@1]
 Khandwa SP Agam Jain said police verified information that two farmers were cultivating cannabis before conducting the raids. [@2]
 
 The 110 plants from Dariyavsingh's field were valued at 19.54 lakh rupees. [@3] The 111 plants from Bhuru alias Rajesh's field weighed 1 quintal 700 grams and were valued at about 10 lakh rupees. [@3] The operation was led by Javar station in-charge Inspector Sulochana Gahlod with Sub-Inspector Rajendra Rathore, Assistant Sub-Inspector Ranjit Singh Rajput, Head Constables Munna Barde and Prakash, Constable Suresh Chauhan and others. [@3]
+
+Javar police raided two fields in Debri Falya Kaisun and seized 221 ganja plants, as part of a district drive against illegal drug cultivation and trafficking that also brought arrests in Boragaon. [@7]
