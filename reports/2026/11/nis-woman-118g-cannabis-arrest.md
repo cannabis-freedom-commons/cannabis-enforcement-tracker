@@ -39,6 +39,11 @@ sources:
     publisher: Niškevesti
     date: 2026-11-05
     language: sr
+  - title: U Nišu uhapšena devojka (21), pronađeni marihuana, kokain i psihoaktivne tablete
+    url: https://naslovi.net/2026-11-05/niske-vesti/u-nisu-uhapsena-devojka-21-pronadjeni-marihuana-kokain-i-psihoaktivne-tablete/42571842
+    publisher: Naslovi.net
+    date: 2026-11-05
+    language: sr
 open_questions:
   - The articles give no separate date for the arrest, street check or flat search; 5 November 2026 is their publication date and is used as the incident date.
   - The 118 grams is described only as a substance suspected to be marijuana, and no laboratory confirmation was reported.
@@ -54,14 +59,14 @@ open_questions:
 
 Police in Niš arrested a 21-year-old woman, identified only as M. J., on
 suspicion of unauthorised production of narcotics and putting them into
-circulation. [@1] She was arrested on the order of the Higher Public
+circulation. [@1,5] She was arrested on the order of the Higher Public
 Prosecutor's Office in Niš, the city's higher prosecution office. [@2]
 
 During a check in the street officers found 118 grams of a substance suspected
-to be marijuana. [@1] The same check turned up a small amount of powder
+to be marijuana. [@1,5] The same check turned up a small amount of powder
 suspected to be cocaine and 17 tablets listed as psychoactive substances. [@3]
 She was carrying a precision scale and about 93,000 dinars and 150 euros, which
-police suspect came from selling narcotics. [@1] A search of her flat and other
+police suspect came from selling narcotics. [@1,5] A search of her flat and other
 premises she uses found eight more psychoactive tablets. [@4]
 
 The court ordered her held for up to 48 hours before she was to be taken to the
@@ -69,4 +74,3 @@ competent prosecution service with a criminal complaint. [@2] The Niš police di
 not say which street the check took place on. [@2] Several Niš outlets carried
 the same police statement, and one headline counted the 17 tablets from the
 street and eight from the flat as 25. [@3]
-
