@@ -35,6 +35,11 @@ sources:
     publisher: Daily Thanthi
     date: 2026-11-04
     language: ta
+  - title: போதைப் பொருள் சாம்ராஜ்யம் நடக்கிறதா? தமிழ்நாடு முழுதும் ஒரே நாளில் 344 போதைப் பொருள் குற்றவாளிகள் கைது!
+    url: https://viduthalai.in/213447/%E0%AE%AA%E0%AF%8B%E0%AE%A4%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D-%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AF%8D%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AF%8D%E0%AE%AF%E0%AE%AE%E0%AF%8D/
+    publisher: Viduthalai
+    date: 2026-11-05
+    language: ta
 open_questions:
   - The incident date is 3 November 2026 from the explicit 03.11.2026 date and yesterday relative to the 4 November publications.
   - The kg figure combines newly seized 242.2 kg ganja and 19.8 kg hashish with separately quantified 6,958 kg destroyed ganja; 0.250 kg methamphetamine, 12.298 kg other drugs, 2,143 tablets, gutka and IMFL were excluded as non-cannabis.
@@ -44,13 +49,15 @@ open_questions:
   - The new detail says the checkpoint checks recovered 4.4 kg of ganja; it is not clear whether this weight is already included in the operation's 242.2 kg ganja total, so it is not counted separately as a cannabis figure.
   - Tamil Murasu gives 104.36 kg of ganja from train searches and Daily Thanthi gives 104.361 kg, a rounding difference within the same operation.
   - Neither account gives charges, custody status or court outcomes for the 344 people arrested, beyond the arrest figures and executed warrants.
+  - Viduthalai says the drive took place on 4 November 2026, while the existing report, based on 4 November publications describing the operation as held 'yesterday', dates it 3 November 2026.
+  - The page carries only a generic newspaper placeholder image, so no photo of the operation could be linked.
 ---
 
 Tamil Nadu police carried out a one-day coordinated special operation against
 narcotic and banned substances on 3 November 2026. [@2] The drive covered 38
 districts and nine cities on the orders of Director General of Police Mahesh
 Kumar Agarwal under Crime Branch CID supervision. [@1] Officers registered 283
-cases and arrested 344 offenders in the operation. [@2] The total included 64
+cases and arrested 344 offenders in the operation. [@2,3] The total included 64
 absconding accused who were caught and 44 non-bailable warrants that were
 executed. [@2]
 
