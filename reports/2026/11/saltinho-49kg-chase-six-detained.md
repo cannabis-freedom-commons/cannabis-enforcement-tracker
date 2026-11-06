@@ -47,6 +47,11 @@ media:
     media_url: https://wh3.com.br/galerias/noticias/640/260504061139_capturadetela20261105as08.03.18.png
     publisher: WH3
     caption: 'Police photo published with the report of the Saltinho seizure. Photo: PM / Divulgação'
+  - kind: photo
+    url: https://prensamercosur.org/2026/11/06/quase-50-kg-de-maconha-que-seriam-levados-a-chapeco-sao-apreendidos-apos-perseguicao-no-oeste-de-sc/
+    media_url: https://files.clicrdc.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-13.13.03.jpeg
+    publisher: Prensa Mercosur
+    caption: Police operation photo republished from ClicRDC with the Saltinho seizure report; the page gives no credit for it.
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3af76f2d80a8b3ab59ac208a906143f5
@@ -72,6 +77,11 @@ sources:
     publisher: Campo Erê.com
     date: 2026-11-05
     language: pt
+  - title: Quase 50 kg de maconha que seriam levados a Chapecó são apreendidos após perseguição no Oeste de SC
+    url: https://prensamercosur.org/2026/11/06/quase-50-kg-de-maconha-que-seriam-levados-a-chapeco-sao-apreendidos-apos-perseguicao-no-oeste-de-sc/
+    publisher: Prensa Mercosur
+    date: 2026-11-06
+    language: es
 open_questions:
   - No names were published, and no court outcome after the handover to the police station was reported.
   - The accounts do not say whether the load crossed from Argentina, only that police said it was loaded in Dionísio Cerqueira, a border municipality, for delivery in Chapecó.
@@ -80,11 +90,13 @@ open_questions:
   - Oeste Mais captions its photo as showing four people aged 13, 17, 20 and 23 held after the pursuit, while its text and the other accounts say six people were taken to the police station; the report keeps the six-person count.
   - Campo Erê says officers fired at the Gol and one shot hit the bodywork, while the existing report states that four shots were fired and none hit the car; this account does not give a shot count.
   - Campo Erê does not mention the 68 tablets or the seven mobile phones recorded in the existing report.
+  - Prensa Mercosur reproduces the ClicRDC text and credits ClicRDC as its original source, so it is not independent confirmation of the details.
+  - The Prensa Mercosur page image is the same file hosted by ClicRDC and carries no caption or credit establishing that it shows this seizure.
 ---
 
 Military police of the 36th Battalion detained six people, including adolescents
 aged 13 and 17, after a pursuit in the centre of Saltinho, in western Santa
-Catarina, at about 12.30am on Thursday 5 November 2026. [@1,4] The action began as
+Catarina, at about 12.30am on Thursday 5 November 2026. [@1,4,5] The action began as
 a traffic check on Avenida Alfredo Jacomo Scopel, where officers stopped a
 GM/Blazer driven by the 17-year-old and carrying three other people aged 13, 20
 and 23. [@1,4] A VW/Gol then tried to flee when the police crew was seen, and a
@@ -98,7 +110,7 @@ injured. [@1,3,4] The car stopped soon afterwards, and the passenger, who tried 
 run on foot, was caught and held. [@1,3]
 
 A search of the Gol found 68 tablets of marijuana weighing 49.850 kilograms.
-[@1,3,4] Police said the drug had been loaded in Dionísio Cerqueira, a municipality
+[@1,3,4,5] Police said the drug had been loaded in Dionísio Cerqueira, a municipality
 on the border with Argentina, and was to be taken to Chapecó. [@1,3,4] Those
 involved were to be paid for transporting the load, and the Blazer occupants
 were to support the trip by passing on information about the route and about
@@ -108,7 +120,7 @@ seven mobile phones. [@1,3] WH3, citing the Military Police, said the Gol was
 registered in Foz do Iguaçu and the Blazer in Barracão. [@2]
 
 The Conselho Tutelar, Brazil's child-protection council, was called because of
-the 13- and 17-year-olds and followed the procedures. [@1,3,4] All six were taken to
+the 13- and 17-year-olds and followed the procedures. [@1,3,4,5] All six were taken to
 the police station with the vehicles, the drug and the phones. [@1,3] The case was
 registered as drug trafficking, association for trafficking and corruption of
 minors, and a Campo Erê military police crew supported the action. [@1,4] WH3
