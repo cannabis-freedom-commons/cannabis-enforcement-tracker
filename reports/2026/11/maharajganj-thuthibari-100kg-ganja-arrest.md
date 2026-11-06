@@ -25,6 +25,11 @@ media:
     media_url: https://bhaskardigital.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-4.54.59-PM.webp
     publisher: Bhaskar Digital (Dainik Bhaskar)
     caption: Photograph carried at the top of the report on the Thuthibari ganja seizure; the page gives no caption or credit naming what it shows.
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/crime-news-drugs-and-illegal-liquor-seized-in-maharajganj-agra-and-auraiya-ups26110506735
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/05-11-2026/1200-675-28047171-thumbnail-16x9-image-as-aspera.jpg
+    publisher: ETV Bharat
+    caption: 'ETV Bharat''s lead photograph for the Maharajganj report, printed under the caption ''Scorpio carrying 123 kg of illegal ganja seized''. Photo: ETV Bharat'
 details:
   products:
     - {product: flower}
@@ -119,6 +124,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-06
     language: hi
+  - title: यूपी में नशे के कारोबार पर पुलिस और आबकारी विभाग का शिकंजा, 70 लाख का गांजा और 30 लाख की शराब बरामद
+    url: https://www.etvbharat.com/hi/state/crime-news-drugs-and-illegal-liquor-seized-in-maharajganj-agra-and-auraiya-ups26110506735
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -157,6 +167,8 @@ open_questions:
   - Oneindia puts the price at about Rs 60 lakh, while ETV Bharat and one Dainik Bhaskar account reported about Rs 70 lakh for the same seizure, so the claimed value remains disputed.
   - The new Live Hindustan account values the ganja at about Rs 70 lakh, while the existing report records about Rs 60 lakh from other accounts of the same seizure, so the claimed value remains disputed.
   - The page lists one image with only the headline as caption and no credit establishing that it shows this seizure, so no media entry is added.
+  - ETV Bharat puts the international-market value of the ganja at about Rs 70 lakh, while the existing report uses other accounts that reported about Rs 60 lakh, so the claimed value remains disputed.
+  - The page names the stop location as near Nauabari, alongside Lohrauli, Naubari and Nautanwari in other accounts, so the precise spot remains unresolved.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
@@ -179,3 +191,5 @@ The case was filed at Thuthibari police station as crime number 150/2026, a file
 The same Oneindia report's second operation was a 4 November heroin seizure in Sonauli, a separate event not part of this cannabis case. [@15] PTI, republished by Rediff.com, reported the police statement made on Thursday 5 November 2026, two days before Oneindia's account. [@9]
 
 Nisha lives in Chainpatti under Taryan Sujan police station and Gaur lives in Ward No 7, Azad Nagar under Sevarhi police station in Kushinagar district. [@16] The court sent both accused to jail after police produced them. [@16] Gaur's earlier cases were registered at Vishunpura police station in 2020 and Rudhauli police station in Basti district in 2023. [@16]
+
+Police said the suspects took a woman along in the Scorpio to avoid suspicion and used different stickers, banners and flags on the vehicle to make it harder to identify. [@18] The team stopped the Scorpio and weighed the ganja inside it at 1 quintal 22 kg 975 g. [@18]
