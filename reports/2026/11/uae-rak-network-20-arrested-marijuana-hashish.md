@@ -74,6 +74,11 @@ sources:
     publisher: سكاي نيوز عربية
     date: 2026-11-06
     language: ar
+  - title: الإمارات تُحبط تهريب 200 ألف قرص كبتاغون وتضبط شبكة دولية تضم 20 متهماً
+    url: http://alwatan.kuwait.tt/articledetails.aspx?id=836486&yearquarter=20264
+    publisher: الوطـــن الإلكترونية
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -86,7 +91,7 @@ open_questions:
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,6]
 
