@@ -68,6 +68,11 @@ sources:
     publisher: Lokswar
     date: 2026-11-05
     language: hi
+  - title: 'CG Ganja Smuggling Arrest: छत्तीसगढ़ में 5.92 करोड़ का गांजा जब्त! नाबालिग समेत 7 गिरफ्तार'
+    url: https://bansalnews.com/chhattisgarh/jagdalpur/chhattisgarh-ganja-smuggling-884-kg-seized-zhg-12787637
+    publisher: Bansal News
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -80,11 +85,12 @@ open_questions:
   - Lokswar gives an approximate cannabis valuation of Rs 2,03,95,000, compared with Dainik Bhaskar’s exact Rs 2,03,95,500; the accounts do not explain the difference.
   - 'Left out, as its quotation was not found in Lokswar: The Keshkal case involved a Rajasthan youth arrested with 407 kg of ganja.'
   - 'Left out, as its quotation was not found in Lokswar: He was produced in court and sent to judicial remand.'
+  - The Bansal account gives no vehicle model, seizure value, NDPS section or court detail for the Keshkal recovery, which continue to rest on earlier sources.
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
 registration OD-10-V-7053 on a tip and searched it. [@2,3] The Keshkal case
-involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2,5] The driver
+involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2,5,7] The driver
 identified himself during questioning as 31-year-old Deepak Kumar Mali of
 Nathukhedi in Pratapgarh district, Rajasthan. [@2] Police registered a case
 against him under Section 20(b) of the NDPS Act and arrested him. [@2,3] He was
@@ -92,7 +98,7 @@ produced in court and sent to judicial remand. [@2,3,5]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
 the dickey. [@2,3,5,6] Officers recovered 407 kg 910 g of ganja from the car, which
-police valued at Rs 2,03,95,500. [@2,4] Police also found an extra number plate
+police valued at Rs 2,03,95,500. [@2,4,7] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
 and Rs 1,100 in cash were also recovered from the accused. [@2,5] Police seized
 the ganja, car, mobile phone and other items together worth Rs 2,18,96,600 in

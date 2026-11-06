@@ -96,6 +96,11 @@ sources:
     publisher: Navabharat News
     date: 2026-11-05
     language: hi
+  - title: 'CG Ganja Smuggling Arrest: छत्तीसगढ़ में 5.92 करोड़ का गांजा जब्त! नाबालिग समेत 7 गिरफ्तार'
+    url: https://bansalnews.com/chhattisgarh/jagdalpur/chhattisgarh-ganja-smuggling-884-kg-seized-zhg-12787637
+    publisher: Bansal News
+    date: 2026-11-06
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -141,6 +146,7 @@ open_questions:
   - The page's single image file named news-cgnews.webp is captioned only as a Kanker ganja-smuggling graphic and is not shown to depict this recovery, so no media entry is added.
   - This account names no suspect, vehicle or Odisha district and says only that the load came from the Odisha border, so the Vishrampuri-Keshkal route reported elsewhere is not corroborated here.
   - This account credits a police informer for the tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
+  - The Bansal account gives no weight, value or suspect detail for the Kanker recovery and calls the containers bags rather than packets.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -149,7 +155,7 @@ November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
-avoid action or arrest. [@1,2,3,4,5,7,11]
+avoid action or arrest. [@1,2,3,4,5,7,11,12]
 
 The case falls under the Kotwali police station area. [@1,3,4] Police put the value
 of the seized ganja in lakhs of rupees. [@1] Senior officers and a Kotwali
@@ -161,7 +167,7 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7,12] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7]
 
 The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5]
 
