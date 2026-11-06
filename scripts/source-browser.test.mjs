@@ -79,8 +79,10 @@ test("Playwright captures JavaScript text, SEO metadata, redirects and screensho
     assert.equal(result.evidence.metadata.json_ld.length, 1);
     assert.ok(requests.some(url => url.endsWith("/app.js"))); assert.ok(requests.some(url => url.endsWith("/api/story")));
     assert.equal(result.evidence.screenshot, "page.webp");
-    assert.deepEqual(result.evidence.metadata.images.map(image => image.file), ["images/1.webp"]);
-    for (const name of [result.evidence.screenshot, result.evidence.metadata.images[0].file]) {
+    assert.equal(result.evidence.metadata.images.length, 1);
+    assert.ok(result.evidence.metadata.images[0].src.startsWith("http") && !("file" in result.evidence.metadata.images[0]));
+    await assert.rejects(fs.stat(path.join(dir, "images")), { code: "ENOENT" });
+    for (const name of [result.evidence.screenshot]) {
       const file = path.join(dir, name);
       const image = await fs.readFile(file);
       assert.equal(image.toString("ascii", 0, 4), "RIFF");

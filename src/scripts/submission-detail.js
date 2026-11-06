@@ -168,7 +168,6 @@ function validation(v) {
 // what the service found on the submitted page before any AI research
 function sourceCheck(box, v, { api, local }) {
   const previousScreenshot = box.querySelector(".sx-source-screenshot");
-  const previousPhotos = box.querySelector(".sx-source-photos");
   const c = v.source_check;
   const failed = v.status === "source_unavailable";
   box.hidden = !c && !failed && !["fetching"].includes(v.status);
@@ -209,28 +208,6 @@ function sourceCheck(box, v, { api, local }) {
       screenshot.append(image); figure.append(screenshot, el("figcaption", "Captured source page · click to open the full-size screenshot"));
       }
       box.append(figure);
-    }
-    // the article's photos the capture kept, with captions (local only, like the screenshot): the
-    // researcher may link them as the report's media; the site never copies them
-    if (local && c.images?.length) {
-      const key = `${c.capture_id || v.id}:${c.images.length}`;
-      const photos = previousPhotos?.dataset.capture === key ? previousPhotos : el("section", undefined, "sx-source-photos");
-      if (!photos.childElementCount) {
-        photos.dataset.capture = key;
-        photos.append(el("h3", `Photos on the page · ${c.images.length}`));
-        const grid = el("div", undefined, "sx-photo-grid");
-        c.images.forEach((img, i) => {
-          const n = Number((img.file.match(/^images\/([1-8])\.(?:png|avif|webp)$/) || [])[1] || i + 1);
-          const href = `${api}/v1/submissions/${v.id}/source/image/${n}${c.capture_id ? `?capture=${encodeURIComponent(c.capture_id)}` : ""}`;
-          const fig = el("figure"); const a = link("", href); a.target = "_blank"; a.rel = "noopener noreferrer";
-          const im = el("img"); im.src = href; im.alt = img.caption || `Photo ${n} on the source page`; im.loading = "lazy"; im.decoding = "async";
-          a.append(im); fig.append(a);
-          if (img.caption) { const cap = el("figcaption", img.caption); cap.title = img.src; fig.append(cap); }
-          grid.append(fig);
-        });
-        photos.append(grid, el("p", "Kept privately with the capture. A report links them as media; the site does not copy a newspaper's pictures.", "sx-muted sx-photo-note"));
-      }
-      box.append(photos);
     }
     const m = c.metadata;
     if (m && Object.values(m).some(value => Array.isArray(value) ? value.length : Boolean(value))) {

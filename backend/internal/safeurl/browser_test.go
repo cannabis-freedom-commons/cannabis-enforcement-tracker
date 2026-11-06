@@ -128,13 +128,9 @@ func TestBrowserProxyTunnelsHTTPSAndForwardsHTTP(t *testing.T) {
 func TestRenderedChecksUseVisibleTextAndDoNotExposeRawStructuredData(t *testing.T) {
 	e := Evidence{URL: "https://news.example/a", FinalURL: "https://news.example/a", Rendered: true, Text: strings.Repeat("The public article discusses a cannabis seizure and police arrests. ", 5), Content: "<title>Public source</title><script>Hidden unsupported allegation.</script>", Screenshot: "page.png", Metadata: &Metadata{Title: "Public source", Description: "SEO description", Authors: []string{"Reporter"}, JSONLD: []json.RawMessage{json.RawMessage(`{"articleBody":"private structured-data body"}`)}}}
 	e.Screenshot = "page.webp"
-	e.Metadata.Images = []SourceImage{{File: "images/2.webp"}, {File: "images/3.avif"}}
 	check, err := Check(e)
 	if err != nil || !check.Rendered || !check.Screenshot || check.Metadata == nil || check.Metadata.Description != "SEO description" {
 		t.Fatal(check, err)
-	}
-	if len(check.Images) != 2 || check.Images[0].File != "images/2.webp" || check.Images[1].File != "images/3.avif" {
-		t.Fatalf("compressed captures were omitted: %+v", check.Images)
 	}
 	if !e.Supports("a cannabis seizure and police arrests") || e.Supports("Hidden unsupported allegation.") {
 		t.Fatal("verification did not use visible text")

@@ -185,7 +185,9 @@ Redirects re-enter the same destination checks. Captures have connection, byte a
 
 The archive under `WORKSPACE_PATH/sources/<case>/<capture>/` contains `page.html` (rendered markup),
 `page.txt` (visible text), `page.webp` and `metadata.json`, mode 0600 inside private directories.
-The page uses lossless WebP, and the article photos use WebP at quality 85. Chromium captures up
+The page uses lossless WebP. The article's photos are not copied: `metadata.json` lists their
+addresses, captions and credits (`source_images` for OpenCode, which may link them as a report's
+`media`). Chromium captures up
 to 1440×40000 pixels. Captures above WebP's size limit are scaled to fit in `page.avif`, with
 `page.png` as a fallback if AVIF encoding fails. A warning records clipping or screenshot failure.
 Metadata includes title/description, canonical URL, language, keywords, author/date/publisher
@@ -195,8 +197,7 @@ metadata and the optional screenshot; independent quotation checks use the rende
 
 The local request detail page shows selected metadata expanded and an inline screenshot preview,
 which links to the full-size capture.
-Report previews use the prepared report file's selected media, including an empty selection;
-captured research photos remain in the source-check section. Once a submission is committed,
+Report previews use the prepared report file's selected media, including an empty selection. Once a submission is committed,
 published or matched to an existing report, its inline preview loads the actual report article,
 and its full preview opens that report page. Covers, photos and later edits therefore stay in sync.
 Screenshots use a loopback-only development endpoint, not the public static report assets; no

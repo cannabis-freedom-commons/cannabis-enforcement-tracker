@@ -16,17 +16,6 @@ func (s *Server) sourceScreenshot(w http.ResponseWriter, r *http.Request) {
 	s.sourceFile(w, r, "page")
 }
 
-// sourceImage serves one of the article's photos the capture kept, local only
-// like the screenshot.
-func (s *Server) sourceImage(w http.ResponseWriter, r *http.Request) {
-	n := r.PathValue("n")
-	if len(n) != 1 || n < "1" || n > "8" {
-		problem(w, 404, "Image not found.")
-		return
-	}
-	s.sourceFile(w, r, "images/"+n)
-}
-
 func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string) {
 	host, _, err := net.SplitHostPort(r.RemoteAddr)
 	if !s.localControls() || err != nil || !loopbackHost(host) || r.Header.Get("Sec-Fetch-Site") == "cross-site" {

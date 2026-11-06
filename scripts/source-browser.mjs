@@ -137,8 +137,9 @@ export function extractSourcePage() {
 const WEBP_MAX_DIMENSION = 16383;
 
 // The photos in the article: large enough to be photos, not in the page's header, menu, sidebar or
-// footer, each once, at most eight.
-async function captureImages(page, imageBuffers) {
+// footer, each once, at most eight. Only their addresses, captions and credits: the research agent
+// may link them as a report's media; no copy is kept.
+async function captureImages(page) {
   const found = await page.evaluate(() => {
     const clean = (v, max = 400) => String(v || "").replace(/\s+/g, " ").trim().slice(0, max);
     // the story: the article or main around the headline (a page may have small <article> boxes
@@ -155,26 +156,12 @@ async function captureImages(page, imageBuffers) {
       const figure = img.closest("figure");
       const caption = clean(figure?.querySelector("figcaption")?.innerText || img.alt || img.title);
       const credit = clean((caption.match(/(?:foto|photo|zdroj|credit|source|©)\s*[:©]?\s*([^|·\n]{2,80})$/i) || [])[1], 120);
-      img.dataset.sourceImage = String(out.length + 1);
-      out.push({ index: out.length + 1, src: src.slice(0, 2000), caption, credit, width: Math.round(r.width), height: Math.round(r.height) });
+      out.push({ src: src.slice(0, 2000), caption, credit, width: Math.round(r.width), height: Math.round(r.height) });
       if (out.length >= 8) break;
     }
     return out;
   });
-  const images = [];
-  for (const image of found) {
-    const webp = Math.max(image.width, image.height) <= WEBP_MAX_DIMENSION;
-    const file = `images/${image.index}.${webp ? "webp" : "png"}`;
-    try {
-      const element = page.locator(`img[data-source-image="${image.index}"]`).first();
-      await element.scrollIntoViewIfNeeded({ timeout: 3000 });
-      const buffer = await element.screenshot({ ...(webp ? { type: "webp", quality: 85 } : { type: "png" }), animations: "disabled", timeout: 5000 });
-      imageBuffers.set(file, buffer);
-      images.push({ file, src: image.src, caption: image.caption, credit: image.credit, width: image.width, height: image.height });
-    } catch { /* an image that could not be shot is left out */ }
-  }
-  await page.evaluate(() => scrollTo(0, 0)).catch(() => {});
-  return images;
+  return found.map(({ src, caption, credit, width, height }) => ({ src, caption, credit, width, height }));
 }
 
 export async function captureSource({ url, dir, proxy, token }) {
@@ -182,7 +169,6 @@ export async function captureSource({ url, dir, proxy, token }) {
   const result = await capturePage({ url, dir, proxy, token, imageBuffers });
   // Encode after closing Chromium and before handing the capture to consumers.
   const { evidence } = result;
-  const images = evidence.metadata.images;
   const signal = AbortSignal.timeout(8000);
   const save = async file => {
     const target = path.join(dir, file);
@@ -191,8 +177,6 @@ export async function captureSource({ url, dir, proxy, token }) {
     return file;
   };
   if (evidence.screenshot) evidence.screenshot = await save(evidence.screenshot);
-  if (images.length) await fs.mkdir(path.join(dir, "images"), { recursive: true, mode: 0o700 });
-  for (const image of images) image.file = await save(image.file);
   await fs.writeFile(path.join(dir, "metadata.json"), JSON.stringify(evidence.metadata, null, 2), { mode: 0o600 });
   return result;
 }
@@ -251,7 +235,7 @@ async function capturePage({ url, dir, proxy, token, imageBuffers }) {
     // is fetched again), with its caption and credit. They are kept in the private capture, shown on
     // the local request page and offered to the researcher, which may link them as the report's
     // media; the site itself never copies a newspaper's picture (docs/WRITING.md §7).
-    extracted.metadata.images = await captureImages(page, imageBuffers).catch(() => []);
+    extracted.metadata.images = await captureImages(page).catch(() => []);
     // The whole page, top to bottom, so nothing on it is lost (images of text, tables, comments):
     // scroll through it first so lazy images load, then one full-page screenshot, capped only for
     // pages that never end

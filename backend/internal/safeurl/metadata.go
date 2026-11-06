@@ -22,10 +22,9 @@ type Metadata struct {
 	Images      []SourceImage     `json:"images,omitempty"`
 }
 
-// SourceImage is a photo in the article, as the browser saw it: the private copy beside the
-// screenshot in images/, where it is published, and its caption and credit.
+// SourceImage is a photo in the article, as the browser saw it: where it is published, and its
+// caption and credit. The research agent may link it as a report's media; no copy is kept.
 type SourceImage struct {
-	File    string `json:"file"`
 	Src     string `json:"src"`
 	Caption string `json:"caption,omitempty"`
 	Credit  string `json:"credit,omitempty"`

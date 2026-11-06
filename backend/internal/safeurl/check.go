@@ -21,15 +21,12 @@ type SourceCheck struct {
 	Screenshot     bool            `json:"screenshot"`
 	BrowserWarning string          `json:"browser_warning,omitempty"`
 	Cleanup        *Cleanup        `json:"cleanup,omitempty"`
-	Images         []SourceImage   `json:"images,omitempty"` // the article's photos, kept privately
 	Metadata       *SourceMetadata `json:"metadata,omitempty"`
 	Title          string          `json:"title"`
 	Host           string          `json:"host"`
 	Chars          int             `json:"chars"`
 	Mention        string          `json:"mention"`
 }
-
-var imageFile = regexp.MustCompile(`^images/[1-8]\.(png|avif|webp)$`)
 
 var (
 	dropBlocks = regexp.MustCompile(`(?is)<(script|style|noscript|svg|template)\b.*?</(script|style|noscript|svg|template)\s*>`)
@@ -53,12 +50,6 @@ func Check(e Evidence) (SourceCheck, error) {
 		m := e.Metadata
 		c.Metadata = &SourceMetadata{Description: limitText(m.Description, 500), Canonical: limitText(m.Canonical, 4096), Language: limitText(m.Language, 40), Authors: m.Authors, PublishedAt: limitText(m.PublishedAt, 100), ModifiedAt: limitText(m.ModifiedAt, 100), SiteName: limitText(m.SiteName, 200)}
 		c.Title = limitText(m.Title, 150)
-		for i, img := range m.Images {
-			if i == 8 || !imageFile.MatchString(img.File) {
-				break
-			}
-			c.Images = append(c.Images, SourceImage{File: img.File, Src: limitText(img.Src, 2000), Caption: limitText(img.Caption, 400), Credit: limitText(img.Credit, 120), Width: img.Width, Height: img.Height})
-		}
 	}
 	if m := titleTag.FindStringSubmatch(e.Content); m != nil {
 		c.Title = strings.TrimSpace(spaces.ReplaceAllString(html.UnescapeString(tags.ReplaceAllString(m[1], " ")), " "))
