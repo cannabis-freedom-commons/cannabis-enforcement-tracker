@@ -80,6 +80,16 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: ro
+  - title: De autoriteiten hebben op de luchthaven Noi Bai meer dan 25 kg marihuana en honderden verhitte tabakssticks in beslag genomen.
+    url: https://www.vietnam.vn/nl/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
+    language: nl
+  - title: Bắt giữ hơn 25 kg cần sa, hàng trăm cây thuốc lá nung nóng ở Nội Bài
+    url: https://tienphong.vn/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai-post1891978.tpo
+    publisher: Báo Tiền Phong
+    date: 2026-11-06
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -111,6 +121,9 @@ open_questions:
   - The page names the passenger only as Spanish and gives no name, origin of the trip or payment.
   - The page gives no charge, court outcome or estimated value for the cannabis.
   - The more than 400 heated-tobacco sticks in the same announcement are a tobacco case left out of this report.
+  - The Dutch translation rounds the cannabis weight to more than 25 kg rather than the 25.4 kg given in the existing report; the existing figure is retained.
+  - The page gives no name for the passenger and no account of the €4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts that earlier account.
+  - The page's only event photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is added.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -122,13 +135,13 @@ task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
 Inside the suitcase were two packages measuring about 40 by 70 cm, holding dried
-herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9]
+herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9,10]
 Questioned by the task force, Gomez admitted that he had been paid €4,000 to
 carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7]
+investigation. [@1,2,3,5,6,7,10]
 
 The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6]
 
@@ -137,3 +150,5 @@ The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6] The Cu
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6]
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
+
+The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11]
