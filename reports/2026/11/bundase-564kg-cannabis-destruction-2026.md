@@ -66,6 +66,11 @@ sources:
     url: https://www.myjoyonline.com/nacoc-destroys-seized-drugs-valued-at-over-10m-at-bundase/
     publisher: MyJoyOnline
     date: 2026-11-05
+  - title: NACOC burns $10.2 million worth of drugs
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/NACOC-burns-10-2-million-worth-of-drugs-2060037
+    publisher: GhanaWeb
+    date: 2026-11-05
+    language: en
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
   - No arrests, charges or court outcomes connected with this destruction were reported.
@@ -81,7 +86,7 @@ open_questions:
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
 million. [@1,2,3,5,6] The destroyed stock included 564.39 kilograms of cannabis, valued
-at US$112,878. [@1,2,3,5,6] The same destruction included 4,730,100 capsules and tablets
+at US$112,878. [@1,2,3,5,6,7] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
 codeine-infused cough mixture, valued at US$4,225,000. [@1,2,5,6] The Ghana Standards
 Authority verified the authenticity of the seized substances before destruction,
@@ -97,7 +102,7 @@ intensify efforts to tackle the narcotics trade. [@1,5] He said NACOC would not
 give up in the face of challenges. [@1] He said the commission would pursue
 traffickers wherever they were and believed it would win the fight. [@1]
 
-The seized drugs had been cleared for destruction through court orders. [@3] The destruction took place at the Bundase Infantry Training School in the Greater Accra Region on 5 November 2026. [@3] NACOC put the combined value of the three categories at US$10,250,503. [@3]
+The seized drugs had been cleared for destruction through court orders. [@3,7] The destruction took place at the Bundase Infantry Training School in the Greater Accra Region on 5 November 2026. [@3,7] NACOC put the combined value of the three categories at US$10,250,503. [@3,7]
 
 Mantey said the Lebanon incident should not be viewed as evidence of institutional failure. [@5] NACOC did not disclose exactly where the destroyed substances had been seized. [@5]
 
