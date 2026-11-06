@@ -65,6 +65,11 @@ sources:
     publisher: Habertürk
     date: 2026-11-05
     language: tr
+  - title: 'Manisa''da uyuşturucu operasyonu: Yakalanan şüpheli tutuklandı!'
+    url: https://www.egedesonsoz.com/manisada-uyusturucu-operasyonu-yakalanan-supheli-tutuklandi
+    publisher: Ege'de Sonsöz
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give the raid only as having happened the day before their 5 November 2026 publication, so 4 November 2026 is an inferred date.
   - No charges, custody ruling or court outcome were reported beyond the stated referral to the judicial authorities.
@@ -89,9 +94,9 @@ data_sources:
 
 Gendarmerie teams raided a home in Selendi district in Manisa province and
 detained a 44-year-old man identified only as K.Y. on suspicion of producing and
-trading drugs. [@1,5,6,7] The search of the address turned up 13 kilos 200 grams of
+trading drugs. [@1,5,6,7,9] The search of the address turned up 13 kilos 200 grams of
 kubar esrar, a resin-rich grade of herbal cannabis, and 450 cannabis plants,
-described as kök kenevir. [@2,4,5,6,7]
+described as kök kenevir. [@2,4,5,6,7,9]
 
 The suspect was detained on the instruction of the public prosecutor and was due
 to be taken to the judicial authorities the day after the raid. [@1,5,6,7] The
@@ -103,4 +108,4 @@ Officers seized the drugs found at the address. [@3]
 The raid took place the day before the 5 November 2026 reports, which put the
 haul at 13.2 kilos of kubar esrar and the same 450 plants. [@3,4]
 
-After the procedures, the detained suspect was brought before the judgeship and remanded in custody. [@8]
+After the procedures, the detained suspect was brought before the judgeship and remanded in custody. [@8,9]
