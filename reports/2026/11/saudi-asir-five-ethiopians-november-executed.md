@@ -70,6 +70,11 @@ sources:
     publisher: عاجل
     date: 2026-11-05
     language: ar
+  - title: السعودية تنفذ حكم الإعدام في 5 إثيوبيين بتهمة تهريب المخدرات
+    url: https://kech24.com/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-5-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA.html
+    publisher: Kech24
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -86,18 +91,19 @@ open_questions:
   - Both opened accounts repeat the same Interior Ministry statement via AFP and do not independently establish details beyond it.
   - The France24 page's only captioned photo is a 25 April 2023 Jeddah amphetamine archive image and does not show this execution, so no media entry is included.
   - The page's single image is captioned only with the headline and does not establish that it shows this execution, so no media entry is included.
+  - The Kech24 page image carries no caption or credit establishing it shows this execution, so no media entry is included.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
-2026. [@1,5,7,8,9,10] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10] The ministry recorded the penalty as
+2026. [@1,5,7,8,9,10,11] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11] The ministry recorded the penalty as
 a discretionary taazir execution. [@1] The executions were carried out on
 Thursday in Asir in the south of the country. [@1,2,8,9]
 
 An AFP tally based on official data put total executions in Saudi Arabia in 2026
-at 205. [@1,2,9] The same tally counted 124 people executed in drug cases this year,
-a majority of all executions. [@1] Foreigners accounted for 109 of this year's
-executions, including 32 Ethiopians as the largest foreign group. [@1] Saudi
+at 205. [@1,2,9,11] The same tally counted 124 people executed in drug cases this year,
+a majority of all executions. [@1,11] Foreigners accounted for 109 of this year's
+executions, including 32 Ethiopians as the largest foreign group. [@1,11] Saudi
 authorities had executed five Ethiopians in a single day in June and five in a
 single day in July on similar charges. [@2,9]
 
