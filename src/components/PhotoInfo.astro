@@ -1,0 +1,29 @@
+---
+// A photo's details behind a small info icon (hover, focus or tap): the original's size, type and
+// fingerprint from the media manifest (src/data/media.json), when it was retrieved, and whether
+// the page shows our 320px copy or the original through the image proxy. It sits in the caption,
+// so the enlarged view (media-viewer.js) shows it too.
+const { photo, shownSrc, archived = null } = Astro.props;
+const m = photo?.meta;
+const kb = (n) => (n >= 1024 * 1024 ? `${(n / 1024 / 1024).toFixed(1)} MB` : `${Math.max(1, Math.round(n / 1024))} KB`);
+const day = (d) => new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" });
+const ours = shownSrc && !/^https?:/.test(shownSrc);
+const rows = [
+  m?.width && ["Original", `${m.width} × ${m.height} px${m.type ? ` · ${m.type.replace("image/", "").toUpperCase()}` : ""}${m.bytes ? ` · ${kb(m.bytes)}` : ""}`],
+  m?.sha256 && ["SHA-256", m.sha256.slice(0, 16) + "…", m.sha256],
+  m?.fetched && ["Retrieved", day(m.fetched)],
+  m?.status === "unavailable" && ["Retrieval", `failed (${m.error ?? "unknown"})`],
+  ["Shown", ours ? "our 320px copy; enlarging loads the original" : "the publisher's file, through an image proxy"],
+  archived && ["Archived page", "Wayback Machine"],
+].filter(Boolean);
+---
+<span class="photo-info">
+  <button type="button" class="photo-info-btn" aria-label="Photo details" aria-expanded="false">
+    <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.3" /><path d="M8 7v4.2M8 4.6v.1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" /></svg>
+  </button>
+  <span class="photo-info-box" role="tooltip">
+    <span class="photo-info-title">Photo details</span>
+    <dl>{rows.map(([k, v, title]) => <div><dt>{k}</dt><dd title={title}>{k === "Archived page" ? <a href={archived} target="_blank" rel="noopener">{v}</a> : v}</dd></div>)}</dl>
+    {!m && <span class="photo-info-note">Not in the media manifest yet (scripts/media-manifest.mjs).</span>}
+  </span>
+</span>

@@ -33,7 +33,7 @@ function initGrid(grid) {
   const dialog = document.createElement("dialog");
   dialog.className = "media-viewer";
   dialog.innerHTML = `<figure><img alt="" referrerpolicy="no-referrer"><figcaption></figcaption></figure>
-    <button type="button" class="mv-close" aria-label="Close">×</button>
+    <button type="button" class="mv-close" aria-label="Close" autofocus>×</button>
     <button type="button" class="mv-prev" aria-label="Previous photo">‹</button>
     <button type="button" class="mv-next" aria-label="Next photo">›</button>`;
   grid.parentElement.append(dialog);
@@ -44,6 +44,7 @@ function initGrid(grid) {
     const list = visible(); at = list.indexOf(tile);
     big.src = tile.querySelector("img").dataset.full || tile.querySelector("img").src; big.alt = tile.querySelector("img").alt;
     caption.replaceChildren(...[...tile.querySelector("figcaption").childNodes].map((n) => n.cloneNode(true)));
+    for (const b of caption.querySelectorAll(".photo-info-btn")) b.setAttribute("aria-expanded", "false");
     dialog.querySelector(".mv-prev").hidden = dialog.querySelector(".mv-next").hidden = list.length < 2;
   };
   const step = (d) => { const list = visible(); if (list.length > 1) show(list[(at + d + list.length) % list.length]); };
@@ -57,5 +58,12 @@ function initGrid(grid) {
   dialog.addEventListener("click", (e) => { if (e.target === dialog) dialog.close(); });
   dialog.addEventListener("keydown", (e) => { if (e.key === "ArrowLeft") step(-1); if (e.key === "ArrowRight") step(1); });
 }
+
+// a tap on a photo's info icon pins its details (hover and focus show them without a script)
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest?.(".photo-info-btn");
+  for (const open of document.querySelectorAll('.photo-info-btn[aria-expanded="true"]')) if (open !== btn) open.setAttribute("aria-expanded", "false");
+  if (btn) { e.stopPropagation(); btn.setAttribute("aria-expanded", String(btn.getAttribute("aria-expanded") !== "true")); }
+}, true);
 
 initMediaViewers();

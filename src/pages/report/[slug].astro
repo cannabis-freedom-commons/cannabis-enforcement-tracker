@@ -13,6 +13,7 @@ import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
 import Fact from "../../components/Fact.astro";
+import PhotoInfo from "../../components/PhotoInfo.astro";
 import { legalContext } from "../../lib/legal-context.js";
 import { glanceFacts } from "../../lib/details.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
@@ -122,7 +123,7 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
                 </button>}
                 {m.view.type === "video" && <video src={m.view.src} controls preload="metadata" playsinline referrerpolicy="no-referrer" aria-label={m.caption}></video>}
                 {m.view.type === "embed" && <iframe src={m.view.src} title={m.caption} loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>}
-                <figcaption>{m.caption} <span class="media-source">Source: <a href={m.url} class="ext" target="_blank" rel="noopener noreferrer">{m.publisher}</a>{m.archived && <> · <a href={m.archived} target="_blank" rel="noopener">archived copy</a></>}</span></figcaption>
+                <figcaption>{m.caption}{m.photo && <PhotoInfo photo={m.photo} shownSrc={shown.length > 2 ? m.photo.src : m.photo.full} archived={m.archived} />} <span class="media-source">Source: <a href={m.url} class="ext" target="_blank" rel="noopener noreferrer">{m.publisher}</a>{m.archived && <> · <a href={m.archived} target="_blank" rel="noopener">archived copy</a></>}</span></figcaption>
               </figure>
             ))}
           </div>

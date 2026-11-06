@@ -59,6 +59,7 @@ export const coverPlaceholderOf = (src) => {
 export function photoOf(url) {
   const m = manifest[url];
   const full = imageProxy(url);
-  if (m?.status !== "ok") return { src: full, full, width: null, height: null, placeholder: null, hash: null };
-  return { src: thumbUrlOf(m.sha256) ?? full, full, width: m.width, height: m.height, placeholder: placeholderOf(m.thumbhash), hash: m.thumbhash, thumb: thumbUrlOf(m.sha256) };
+  const meta = m ? { status: m.status, error: m.error ?? null, width: m.width ?? null, height: m.height ?? null, type: m.type ?? null, bytes: m.bytes ?? null, sha256: m.sha256 ?? null, fetched: m.fetched ?? null } : null;
+  if (m?.status !== "ok") return { src: full, full, width: null, height: null, placeholder: null, hash: null, meta };
+  return { src: thumbUrlOf(m.sha256) ?? full, full, width: m.width, height: m.height, placeholder: placeholderOf(m.thumbhash), hash: m.thumbhash, thumb: thumbUrlOf(m.sha256), meta };
 }
