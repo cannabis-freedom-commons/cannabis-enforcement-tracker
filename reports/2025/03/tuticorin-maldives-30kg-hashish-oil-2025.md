@@ -42,27 +42,30 @@ sources:
     url: https://www.aninews.in/news/national/general-news/dri-indian-coast-guard-seize-30-kg-hashish-oil-in-joint-operation-3-held20250309180305
     publisher: ANI
     date: 2025-03-09
+  - title: In mid sea operation, DRI and Indian Coast Guard intercept a vessel en-route to Maldives; seize 30 kg Hashish Oil worth ₹33 crore; three held
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2109621
+    publisher: Press Information Bureau
+    date: 2025-03-09
 open_questions:
   - No names of the three accused were published.
   - No court outcome beyond remand to judicial custody on 8 March 2025 was reported.
 ---
 
 The Directorate of Revenue Intelligence and the Indian Coast Guard jointly
-intercepted a Maldives-bound tug-barge vessel and arrested three people. [@1]
+intercepted a Maldives-bound tug-barge vessel and arrested three people. [@1,3]
 Those held included the man who placed the drugs on the vessel, his accomplice,
 and a crew member who shared the vessel's location with the gang. [@1]
 
 Officers recovered 29 packets weighing 29.954 kg of hashish oil from the barge.
-[@1] The agency valued the hashish oil at Rs 32.94 crore in the illicit
-international market. [@1]
+[@1,3] The agency valued the hashish oil at Rs 32.94 crore in the illicit
+international market. [@1,3]
 
 The tug towing a barge laden with rock boulders had departed from Tuticorin Old
-Port for the Maldives. [@1] A Tuticorin-based gang covertly loaded the hashish
+Port for the Maldives. [@1,3] A Tuticorin-based gang covertly loaded the hashish
 oil onto the barge mid-sea with assistance from a crew member. [@2] At the DRI's
 request, the Coast Guard intercepted the vessel on March 5, 2025 off the
 Kanyakumari coast and escorted it back to Tuticorin New Port by March 7, 2025.
-[@2] A search found two bags holding 29 plastic packets labelled as food items
+[@2,3] A search found two bags holding 29 plastic packets labelled as food items
 containing a black-coloured liquid paste that field-tested positive for hashish
-oil. [@1] The haul was seized under the NDPS Act and the three accused were
-remanded to judicial custody on March 8. [@2]
-
+oil. [@1,3] The haul was seized under the NDPS Act and the three accused were
+remanded to judicial custody on March 8. [@2,3]
