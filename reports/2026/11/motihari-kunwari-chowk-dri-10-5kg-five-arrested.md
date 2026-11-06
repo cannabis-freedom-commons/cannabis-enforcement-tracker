@@ -58,6 +58,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/05/3EF8EF16-736C-44E4-80B0-82E865B63450_1793856384823.jpg
     publisher: Dainik Bhaskar
     caption: Photo captioned in Dainik Bhaskar for the arrest of five men with a ganja-like substance and Rs 45,000 in cash near Chatauni Chowk, Motihari; no credit was published.
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/muzaffarpur/dri-seizes-ganja-arrests-five-champaran
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/06/1793934956669/sizes/refit-1793934956666-50201a-hero.webp
+    publisher: Prabhat Khabar
+    caption: Photo published with Prabhat Khabar's report, described as the DRI team action with five smugglers arrested with 10.55 kg of ganja in East Champaran.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fce3468639d1847fa33980b3f81dec31
@@ -78,6 +83,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-05
     language: hi
+  - title: '10 किलो गांजा संग 5 तस्कर गिरफ्तार: डीआरआई की बड़ी कार्रवाई'
+    url: https://www.prabhatkhabar.com/state/bihar/muzaffarpur/dri-seizes-ganja-arrests-five-champaran
+    publisher: Prabhat Khabar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - 'The two accounts name the spot differently: Hindustan says Kunwari Chowk and Dainik Bhaskar says Chatauni Chowk, both near Motihari; the report uses Kunwari Chowk and records the discrepancy.'
   - Neither account gives a published market value for the 10.5 kg of ganja, so no value is recorded.
@@ -90,28 +100,30 @@ open_questions:
   - This account reports two motorcycles and five smartphones seized but no cash, while the existing report records Rs 45,000 cash and two motorcycles with no phones; whether cash and phones were seized together is unresolved.
   - This account names Tikulia village in Adapur and Saraia Khas in Govindganj, while the existing report gives ward numbers in Adapur and Sareya Khwas under Govindganj; spellings also vary (Bhulan/Bhuln, Sah/Shah, Sahni/Sahani).
   - This account does not mention the hired car, the Satganj-Nepal origin, the FIR by the DRI intelligence officer, or the production before the special court and remand to jail recorded in the existing report.
+  - The submitted article gives no separate date for the raid; 6 November 2026 is its publication date, while the existing report dates the operation to the night of 4 November 2026.
+  - The submitted article does not mention the SSB joint team, the hired car, the reported Satganj-Nepal origin, the FIR or the special-court production recorded in the existing report.
 ---
 
 The Muzaffarpur unit of the Directorate of Revenue Intelligence (DRI), India's
 customs intelligence agency, arrested five men with about ten and a half
 kilograms of ganja near Kunwari Chowk in Motihari on the night of Wednesday 4
-November 2026. [@1,3] The arrested men were Bhulan Kumar and Shyam Kumar of Ward 8
+November 2026. [@1,3,4] The arrested men were Bhulan Kumar and Shyam Kumar of Ward 8
 and Gulshan Kumar of Ward 7 in Adapur, and Mukesh Sah of Ward 12 and Radheshyam
 Sahni of Ward 13 in Sareya Khwas, which falls under Govindganj police station,
-all in East Champaran district. [@1,3] Dainik Bhaskar puts the seizure at 10.550
+all in East Champaran district. [@1,3,4] Dainik Bhaskar puts the seizure at 10.550
 kilograms and says the consignment was brought from Satganj in Nepal and meant
 to be sold in Motihari and nearby areas. [@2,3]
 
 The men had brought the load in bags in a hired car and were about to deliver it
 by motorcycle, the DRI team said. [@1] Officers seized Rs 45,000 in cash and two
-motorcycles from the men. [@1,3] Dainik Bhaskar reports that the joint team was
+motorcycles from the men. [@1,3,4] Dainik Bhaskar reports that the joint team was
 formed from the 71st Battalion of the Sashastra Seema Bal (SSB), India's border
 guard, in Motihari and the DRI's Muzaffarpur unit, and that it set up the cordon
 about 30 kilometres inside the India-Nepal border from border pillar 376. [@2]
 
 The DRI's intelligence officer registered an FIR against all five, and they were
 produced on Thursday before the special court of the principal district and
-sessions judge in Motihari, which sent all of them to jail. [@1] The DRI, which
+sessions judge in Motihari, which sent all of them to jail. [@1,4] The DRI, which
 usually handles customs and smuggling cases, is the national agency behind a run
 of cannabis seizures across India in recent months, including ganja and charas
 hauls in Bihar and Uttar Pradesh. [@1]
