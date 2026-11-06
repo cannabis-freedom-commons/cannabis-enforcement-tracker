@@ -334,6 +334,9 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	if len(r.Title) == 0 || len(r.Title) > 120 || len(r.Summary) == 0 || len(r.Summary) > 400 || plain.MatchString(r.Title) || plain.MatchString(r.Summary) {
 		return errors.New("invalid title or summary")
 	}
+	if strings.Contains(r.Title, "[@") || strings.Contains(r.Summary, "[@") {
+		return errors.New("the title and summary take no citations ([@n]); cite in the facts")
+	}
 	if len(r.Sources) == 0 || len(r.Facts) == 0 {
 		return errors.New("missing evidence")
 	}

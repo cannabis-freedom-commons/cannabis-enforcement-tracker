@@ -11,8 +11,8 @@ title: Police destroy 7 tonnes of wild cannabis in Osh Region
 summary: >-
   Police destroyed 7 tonnes of wild cannabis across 4 sotki (0.04 hectare) and
   3.5 hectares in the Kara-Suu and Nookat districts of Osh Region during an
-  eradication campaign reported on 10 July 2026. [@1,2] The reports do not
-  assign each area to a named district. [@1,2]
+  eradication campaign reported on 10 July 2026. The reports do not
+  assign each area to a named district.
 figures:
   kg_seized: 7000
   hectares: 3.54

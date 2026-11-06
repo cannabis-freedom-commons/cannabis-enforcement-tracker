@@ -12,7 +12,7 @@ summary: >-
   Sepahijala District Police and partner agencies destroyed approximately 320,000 mature cannabis
   plants across 35 plots and about 65 acres of forest in Khedabari, Anandapur and Ghatigarh near
   Sonamura, Tripura, on 29 December 2025. The report estimated the crop's market value at INR64
-  million. [@1]
+  million.
 figures:
   plants_destroyed: 320000
   hectares: 26.3

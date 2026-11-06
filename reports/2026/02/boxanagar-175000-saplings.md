@@ -12,7 +12,7 @@ summary: >-
   Assam Rifles and the Forest Department destroyed approximately 175,000 cannabis saplings spread
   across nearly 50 acres in Boxanagar, Tripura; officials estimated the crop's market value at
   ₹25.72 crore. Neither opened account gives a separate operation date, so this report uses the 4
-  February 2026 Northeast Today publication date. [@1,2]
+  February 2026 Northeast Today publication date.
 figures:
   plants_destroyed: 175000
   hectares: 20.23

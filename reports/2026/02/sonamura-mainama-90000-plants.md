@@ -9,8 +9,8 @@ precision: district
 type: eradication
 title: Sonamura police destroy 90,000 cannabis plants across 25 plots
 summary: >-
-  Sonamura police and Tripura State Rifles destroyed about 90,000 mature cannabis plants in 25 forest plots across Mainama, Aralia and Paoramura on 5 February 2026. [@1,2]
-  The operation covered about 32 acres and was valued by officials at approximately INR135 million. [@1,2]
+  Sonamura police and Tripura State Rifles destroyed about 90,000 mature cannabis plants in 25 forest plots across Mainama, Aralia and Paoramura on 5 February 2026.
+  The operation covered about 32 acres and was valued by officials at approximately INR135 million.
 figures:
   plants_destroyed: 90000
   hectares: 12.95

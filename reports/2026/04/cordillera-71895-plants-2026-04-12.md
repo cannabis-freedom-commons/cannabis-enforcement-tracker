@@ -12,8 +12,8 @@ title: Cordillera police burn 71,895 cannabis plants and 70.61 kg of dried mater
 summary: >-
   A week-long Cordillera campaign from 6 to 12 April 2026 comprised 18 operations, burned 71,873
   fully grown cannabis plants and 22 seedlings, and destroyed about 70.61 kilograms of dried
-  cannabis stalks, leaves and fruiting tops valued at PHP22,856,305. [@1,2,3] Police also arrested
-  one high-value suspect in Benguet. [@1,2,3]
+  cannabis stalks, leaves and fruiting tops valued at PHP22,856,305. Police also arrested
+  one high-value suspect in Benguet.
 figures:
   arrested: 1
   plants_destroyed: 71895

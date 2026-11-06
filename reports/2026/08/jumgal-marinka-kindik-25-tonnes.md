@@ -11,8 +11,7 @@ title: Police burn 2.5 tonnes of wild cannabis in Jumgal
 summary: >-
   Jumgal district police, Naryn regional drug police and Min-Kush rural officials
   mowed and burned about 2.5 tonnes of wild cannabis on roughly 2 hectares at
-  Marinka and Kindik. [@1] The operation was part of the Kara Kuura campaign.
-  [@1]
+  Marinka and Kindik. The operation was part of the Kara Kuura campaign.
 figures:
   kg_seized: 2500
   hectares: 2

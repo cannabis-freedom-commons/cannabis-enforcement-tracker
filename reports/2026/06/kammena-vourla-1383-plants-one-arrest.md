@@ -10,7 +10,7 @@ precision: locality
 type: eradication
 title: Police uproot 1,383 cannabis plants above Kammena Vourla
 summary: >-
-  Greek police arrested one worker and said two others escaped after discovering a 1,383-plant cannabis plantation in a remote forest area above Kammena Vourla on 3 June 2026. [@1,2] The five terraces covered about 2,500 square metres and were supplied by a four-kilometre hose network and two water reservoirs. [@1,2]
+  Greek police arrested one worker and said two others escaped after discovering a 1,383-plant cannabis plantation in a remote forest area above Kammena Vourla on 3 June 2026. The five terraces covered about 2,500 square metres and were supplied by a four-kilometre hose network and two water reservoirs.
 figures:
   arrested: 1
   plants_destroyed: 1383

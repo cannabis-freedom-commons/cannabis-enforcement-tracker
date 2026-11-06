@@ -12,8 +12,8 @@ title: Fiji police destroy 47,397 marijuana plants in Cakaudrove
 summary: >-
   Fiji Police uprooted and destroyed 47,397 marijuana plants through four
   operations in Cakaudrove, Vanua Levu, with 77 arrests reported across farm
-  raids and roadblocks. [@1,2] The reported operations covered cultivation
-  hotspots in the Northern Division's Golden Triangle. [@1,2]
+  raids and roadblocks. The reported operations covered cultivation
+  hotspots in the Northern Division's Golden Triangle.
 figures:
   plants_destroyed: 47397
   arrested: 77

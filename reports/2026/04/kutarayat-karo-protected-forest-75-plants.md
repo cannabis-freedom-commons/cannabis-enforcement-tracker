@@ -11,9 +11,9 @@ also: [arrest, seizure]
 title: Karo police remove 75 cannabis plants from protected forest and arrest four
 summary: >-
   Karo police arrested four men in Kabanjahe on 8 April 2026 and, after questioning them, found
-  75 cannabis plants in protected forest at Kutarayat, Naman Teran. [@1,2] The plants measured
+  75 cannabis plants in protected forest at Kutarayat, Naman Teran. The plants measured
   35 to 150 centimetres and weighed 650 grams wet; officers also seized 47 grams of cannabis and
-  27 grams of cannabis powder at the rented house. [@1,2]
+  27 grams of cannabis powder at the rented house.
 figures:
   arrested: 4
   plants_destroyed: 75

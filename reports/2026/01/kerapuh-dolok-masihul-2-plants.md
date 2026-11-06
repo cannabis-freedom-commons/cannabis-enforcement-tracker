@@ -12,7 +12,7 @@ title: Three arrested after police find two cannabis plants in Kerapuh
 summary: >-
   Serdang Bedagai police arrested three men and uprooted two approximately two-metre cannabis plants
   from behind a house in Kerapuh, Dolok Masihul, North Sumatra, on 6 January 2026. The suspects and
-  plants were taken for investigation under Indonesia's narcotics law. [@1,2]
+  plants were taken for investigation under Indonesia's narcotics law.
 figures:
   plants_destroyed: 2
 media:

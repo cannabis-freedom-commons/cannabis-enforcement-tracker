@@ -10,7 +10,7 @@ precision: region
 type: eradication
 title: 134 cannabis plants weighing 122 kg destroyed in Bulgaria
 summary: >-
-  Police destroyed 134 cannabis plants weighing a combined 122.325 kilograms at two sites near Churicheni and Ilindentsi on 26 August 2026. [@1,2] The regional police said 54 plants were found in Petrich Municipality and 80 in Strumyani Municipality; two pre-trial investigations were opened. [@1,2]
+  Police destroyed 134 cannabis plants weighing a combined 122.325 kilograms at two sites near Churicheni and Ilindentsi on 26 August 2026. The regional police said 54 plants were found in Petrich Municipality and 80 in Strumyani Municipality; two pre-trial investigations were opened.
 figures:
   plants_destroyed: 134
 details:

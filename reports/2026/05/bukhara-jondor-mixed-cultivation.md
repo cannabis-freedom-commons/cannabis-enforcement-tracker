@@ -11,8 +11,8 @@ title: Bukhara police find mixed cannabis and opium-poppy cultivation
 summary: >-
   Uzbek internal-affairs officers searched a resident's home and household plot in Jondor district
   on 21 May 2026 and found more than 600 cannabis and opium-poppy plants, 50 to 70 centimetres
-  tall. [@1,2] The reported weight exceeded 9 kg for the mixed plants, but the sources do not
-  separate the cannabis component, so no cannabis quantity is recorded. [@1,2]
+  tall. The reported weight exceeded 9 kg for the mixed plants, but the sources do not
+  separate the cannabis component, so no cannabis quantity is recorded.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: reported
 tags: [jondor, bukhara, cultivation, mixed-crops]

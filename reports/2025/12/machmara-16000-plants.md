@@ -11,7 +11,7 @@ title: TSR and police destroy about 16,000 cannabis plants near Machmara
 summary: >-
   Pecharthal Police and the 15th Battalion Tripura State Rifles destroyed approximately 15,000 to
   17,000 mature cannabis plants across eight plots in the Kuli Basti forest near Machmara Tea Garden,
-  Unakoti, Tripura, on 27 December 2025. [@1,2]
+  Unakoti, Tripura, on 27 December 2025.
 figures:
   plants_destroyed: 16000
 media:

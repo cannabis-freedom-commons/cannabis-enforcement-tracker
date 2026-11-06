@@ -11,8 +11,8 @@ also: [seizure, arrest]
 title: Rajasthan team destroys 5,860 cannabis plants near Delwara
 summary: >-
   Rajasthan's Anti-Narcotics Task Force and the Narcotics Control Bureau found cannabis concealed
-  among wheat near Delwara and destroyed 5,860 plants during Operation Ganjajuli. [@1,2] Patrika
-  reported that police arrested one man who was preparing packets for sale. [@1]
+  among wheat near Delwara and destroyed 5,860 plants during Operation Ganjajuli. Patrika
+  reported that police arrested one man who was preparing packets for sale.
 figures:
   plants_destroyed: 5860
   arrested: 1

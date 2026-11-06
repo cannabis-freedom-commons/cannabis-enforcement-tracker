@@ -11,7 +11,7 @@ title: Police mow and burn 3.4 tonnes of wild cannabis in Batken Region
 summary: >-
   Batken Region police surveyed 7 hectares in several settlements of the
   Kadamjay and Leilek districts and mowed and burned 3.4 tonnes of wild cannabis
-  during the southern Kyrgyzstan eradication work reported on 10 July 2026. [@1,2]
+  during the southern Kyrgyzstan eradication work reported on 10 July 2026.
 figures:
   kg_seized: 3400
   hectares: 7

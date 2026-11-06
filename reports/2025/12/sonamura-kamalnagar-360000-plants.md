@@ -12,7 +12,6 @@ summary: >-
   Sepahijala District Police, BSF, Tripura State Rifles and Forest Department teams destroyed
   approximately 360,000 mature cannabis plants across 38 plots and about 75 acres of forest in
   Kamalnagar, Batadola, Dhanirampur and Bijoy Nagar near Sonamura, Tripura, on 27 December 2025.
-  [@1]
 figures:
   plants_destroyed: 360000
   hectares: 30.35

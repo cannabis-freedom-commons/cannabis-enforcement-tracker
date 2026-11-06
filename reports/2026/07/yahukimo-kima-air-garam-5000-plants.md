@@ -12,8 +12,8 @@ title: TNI task force finds 5,000 cannabis plants at two Yahukimo sites
 summary: >-
   A TNI Habema border task force found about 5,000 cannabis plants at two
   Yahukimo sites on 13 July 2026: about 3,000 at Kima and 2,000 at Air Garam.
-  [@1,2] The reports describe recovery during a patrol but do not document
-  destruction of the plants. [@1,2]
+  The reports describe recovery during a patrol but do not document
+  destruction of the plants.
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indonesia, papua-pegunungan, yahukimo, kima, air-garam, seizure]

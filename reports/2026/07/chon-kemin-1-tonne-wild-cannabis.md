@@ -11,8 +11,8 @@ title: Police burn about one tonne of wild cannabis in Chon-Kemin
 summary: >-
   Kemin District police cut and burned about 1 tonne of wild cannabis across
   0.5 hectare in the Chon-Kemin rural district of Chüy Region on 13 July 2026.
-  [@1,2] Kabar reported the work as part of the Chüy regional police’s
-  “Cannabis-2026” campaign. [@1]
+  Kabar reported the work as part of the Chüy regional police’s
+  “Cannabis-2026” campaign.
 figures:
   kg_seized: 1000
   hectares: 0.5

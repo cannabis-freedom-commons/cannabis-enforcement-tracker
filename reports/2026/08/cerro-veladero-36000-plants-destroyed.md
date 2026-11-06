@@ -10,7 +10,7 @@ precision: locality
 type: eradication
 title: 36,000 cannabis plants destroyed at Cerro Veladero
 summary: >-
-  Baja California's state security force located two cannabis plots at Cerro Veladero, between Tijuana and Playas de Rosarito, after a citizen reported a strong smell. [@1,2] Officers destroyed about 36,000 plants and reported no arrests. [@1,2]
+  Baja California's state security force located two cannabis plots at Cerro Veladero, between Tijuana and Playas de Rosarito, after a citizen reported a strong smell. Officers destroyed about 36,000 plants and reported no arrests.
 figures:
   plants_destroyed: 36000
   hectares: 0.24

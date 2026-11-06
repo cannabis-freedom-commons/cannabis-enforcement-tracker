@@ -11,7 +11,7 @@ title: Jind government college students uproot self-sown bhang plants
 summary: >-
   Students and staff at Sant Shiromani Shri Sen Bhagat Government College in Jind uprooted and
   destroyed naturally growing bhang plants on the campus on 21 April 2026 during a state drug-free
-  campaign. [@1]
+  campaign.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified
 tags: [jind, haryana, college, self-sown]

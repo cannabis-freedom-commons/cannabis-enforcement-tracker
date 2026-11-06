@@ -11,7 +11,7 @@ title: Osh residents and police burn wild cannabis in three localities
 summary: >-
   Osh city officials said local residents and law-enforcement personnel mowed and burned wild
   cannabis in Japalak, Kyzyl-Kyshtak and Manas-Ata in work reported on 9 July 2026. No quantity or
-  area was given. [@1]
+  area was given.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   setting: [forest]

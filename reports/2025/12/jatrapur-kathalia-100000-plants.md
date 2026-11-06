@@ -11,7 +11,7 @@ title: Jatrapur police destroy about 100,000 cannabis plants across 22 plots
 summary: >-
   Jatrapur Police and Tripura State Rifles teams destroyed nearly 100,000 mature cannabis plants
   across 22 plots in the Southern Taichhama forest and South Paharpur forest areas of Sepahijala,
-  Tripura, on 23 December 2025. [@1,2]
+  Tripura, on 23 December 2025.
 figures:
   plants_destroyed: 100000
 media:

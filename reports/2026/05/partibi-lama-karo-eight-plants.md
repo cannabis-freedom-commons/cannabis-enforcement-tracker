@@ -11,8 +11,8 @@ also: [arrest, seizure]
 title: Eight cannabis plants weighing 8.8 kg seized at Partibi Lama
 summary: >-
   Karo police detained a 29-year-old man in farmland at Partibi Lama on 20 May 2026 and uprooted
-  eight cannabis plants measuring 85 to 165 centimetres. [@1,2] The wet plants weighed 8.8 kg net;
-  officers also seized 1.28 g of loose cannabis material and a rolling paper. [@1,2]
+  eight cannabis plants measuring 85 to 165 centimetres. The wet plants weighed 8.8 kg net;
+  officers also seized 1.28 g of loose cannabis material and a rolling paper.
 figures:
   arrested: 1
   plants_destroyed: 8

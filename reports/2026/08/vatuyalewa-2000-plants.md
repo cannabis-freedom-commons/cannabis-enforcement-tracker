@@ -10,7 +10,7 @@ type: eradication
 title: Police uproot more than 2,000 plants in Fiji’s Vatuyalewa range
 summary: >-
   Fiji's Northern Division Operations team uprooted more than 2,000 plants
-  believed to be marijuana in the Vatuyalewa mountain range. [@1]
+  believed to be marijuana in the Vatuyalewa mountain range.
 figures:
   plants_destroyed: 2000
 status: verified

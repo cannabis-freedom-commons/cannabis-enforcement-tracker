@@ -10,7 +10,7 @@ precision: region
 type: eradication
 title: Police destroy over two tonnes of wild cannabis in Osh Region
 summary: >-
-  Kyrgyz police said they mowed and burned more than two tonnes of wild cannabis in Osh Region during the second stage of the Kara Kuurai operation, which ran from 3 to 8 August 2026. [@1,2] The reports say officers searched about three hectares and planned to continue checks for wild plants on land, fields and homesteads. [@1,2]
+  Kyrgyz police said they mowed and burned more than two tonnes of wild cannabis in Osh Region during the second stage of the Kara Kuurai operation, which ran from 3 to 8 August 2026. The reports say officers searched about three hectares and planned to continue checks for wild plants on land, fields and homesteads.
 details:
   environment: [wild]
 data_sources:

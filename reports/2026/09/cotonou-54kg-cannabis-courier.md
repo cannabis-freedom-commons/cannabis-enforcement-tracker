@@ -12,9 +12,9 @@ also: [seizure]
 title: Courier arrested in Cotonou with 5.4 kg of suspected cannabis
 summary: >-
   Police arrested a man as he arrived to collect a parcel containing 5.4 kg of
-  suspected cannabis at a Cotonou transport company on 29 September 2026. [@1,2]
+  suspected cannabis at a Cotonou transport company on 29 September 2026.
   He said the parcel came from Togo by way of Bassila, and was held while police
-  continued their investigation. [@1]
+  continued their investigation.
 figures:
   arrested: 1
   kg_seized: 5.4

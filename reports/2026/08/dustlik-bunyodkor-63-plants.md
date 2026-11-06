@@ -10,9 +10,9 @@ type: eradication
 title: 63 wild cannabis plants destroyed in Dustlik, Jizzakh
 summary: >-
   Law-enforcement officers found and destroyed 63 wild cannabis plants on a
-  farmland plot in Bunyodkor mahalla, Dustlik District, on 5 August 2026. [@1,2]
+  farmland plot in Bunyodkor mahalla, Dustlik District, on 5 August 2026.
   The operation was reported under the “Safe and Healthy Country” preventive
-  campaign. [@1,2]
+  campaign.
 figures:
   plants_destroyed: 63
 details:

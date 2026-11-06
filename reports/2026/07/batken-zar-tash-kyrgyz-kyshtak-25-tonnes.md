@@ -11,8 +11,8 @@ title: Police destroy 2.5 tonnes of wild cannabis in Batken Region
 summary: >-
   Police destroyed about 1.7 tonnes of wild cannabis on 1.5 hectares at Zar-Tash
   and burned about 800 kilograms after checking 3 hectares at Kyrgyz-Kyshtak in
-  Batken Region. [@1,2,3] The two reported quantities total about 2.5 tonnes
-  across 4.5 hectares. [@1]
+  Batken Region. The two reported quantities total about 2.5 tonnes
+  across 4.5 hectares.
 figures:
   kg_seized: 2500
   hectares: 4.5

@@ -11,7 +11,7 @@ title: SSB uproots wild cannabis on about one acre in Tawang
 summary: >-
   The Sashastra Seema Bal's 38th Battalion uprooted wild cannabis across about
   one acre in the Bomja village area of Tawang district during an anti-narcotics
-  operation on 11 August 2026. [@1]
+  operation on 11 August 2026.
 figures:
   hectares: 0.405
 details:

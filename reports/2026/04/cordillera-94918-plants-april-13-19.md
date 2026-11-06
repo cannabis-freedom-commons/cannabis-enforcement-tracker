@@ -9,8 +9,8 @@ precision: region
 type: eradication
 title: PNP destroys about 94,918 marijuana plants in Cordillera campaign
 summary: >-
-  The Philippine National Police reported 22 eradication operations across the Cordillera from 13 to 19 April 2026. [@1,2]
-  The campaign uprooted about 94,918 marijuana plants, seized 56.6 kilograms of dried material and was valued at about PHP25.7 million. [@1,2]
+  The Philippine National Police reported 22 eradication operations across the Cordillera from 13 to 19 April 2026.
+  The campaign uprooted about 94,918 marijuana plants, seized 56.6 kilograms of dried material and was valued at about PHP25.7 million.
 figures:
   plants_destroyed: 94918
   kg_seized: 56.6

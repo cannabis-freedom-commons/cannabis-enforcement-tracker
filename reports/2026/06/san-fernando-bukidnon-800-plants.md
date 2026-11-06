@@ -12,7 +12,6 @@ summary: >-
   Joint police and military teams uprooted and destroyed about 800 fully grown marijuana plants in
   Sitio Salumayag, San Fernando, Bukidnon, on 8 June 2026. The plantation covered about 350 square
   metres, the plants were burned or destroyed at the site, and 10 hills were retained as evidence.
-  [@1,2]
 figures:
   plants_destroyed: 800
   hectares: 0.035

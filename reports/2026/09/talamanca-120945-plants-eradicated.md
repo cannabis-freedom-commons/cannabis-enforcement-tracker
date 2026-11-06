@@ -10,7 +10,7 @@ precision: district
 type: eradication
 title: 120,945 cannabis plants destroyed in Alta Talamanca
 summary: >-
-  Costa Rican police destroyed 120,945 cannabis plants across 35 plots in the mountainous Telire district of Limón during a ten-day eradication operation. [@1,2] The sites covered about 19,000 square metres and included Alto and Bajo Bley, Lagunas de Alto Bley and Cerro Xorbata. [@1,2]
+  Costa Rican police destroyed 120,945 cannabis plants across 35 plots in the mountainous Telire district of Limón during a ten-day eradication operation. The sites covered about 19,000 square metres and included Alto and Bajo Bley, Lagunas de Alto Bley and Cerro Xorbata.
 figures:
   plants_destroyed: 120945
   hectares: 1.9

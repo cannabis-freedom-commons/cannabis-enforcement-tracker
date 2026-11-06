@@ -12,7 +12,7 @@ summary: >-
   A Sonamura police-led joint operation destroyed approximately 80,000 mature cannabis plants in
   30 plots across forest areas at Kamalanagar, Krishna Dola and Ghatigarh on 15 February 2026. The
   operation covered about 30 acres and officials estimated the destroyed crop's value at INR120
-  million. [@1]
+  million.
 figures:
   plants_destroyed: 80000
   hectares: 12.14

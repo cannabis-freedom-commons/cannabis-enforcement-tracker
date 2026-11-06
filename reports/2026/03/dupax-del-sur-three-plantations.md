@@ -9,8 +9,8 @@ precision: locality
 type: eradication
 title: Three marijuana plantations destroyed in Dupax del Sur
 summary: >-
-  Police destroyed three marijuana plantation sites in Barangay Kimbutan, Dupax del Sur, on 23 March 2026. [@1,2]
-  Reports valued the destroyed crop at PHP12.9 million and PHP20 million, while giving no plant count or area. [@1,2,3]
+  Police destroyed three marijuana plantation sites in Barangay Kimbutan, Dupax del Sur, on 23 March 2026.
+  Reports valued the destroyed crop at PHP12.9 million and PHP20 million, while giving no plant count or area.
 figures:
   value: { amount: 12900000, currency: PHP }
 details:

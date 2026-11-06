@@ -11,9 +11,9 @@ also: [raid, seizure]
 title: Police uproot 19 cannabis plants at Sukatendel, Karo
 summary: >-
   A joint team found 19 cannabis plants at Perladangan Tembuten near a
-  drug-and-gambling barracks in Sukatendel, Tiganderket, on 22 July 2026. [@1,2]
+  drug-and-gambling barracks in Sukatendel, Tiganderket, on 22 July 2026.
   Officers uprooted the plants and secured them as evidence while investigating
-  who had planted them. [@1,2]
+  who had planted them.
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]

@@ -12,9 +12,9 @@ also: [arrest, seizure]
 title: Three charged after a 691 g cannabis seizure in Quatre-Bornes
 summary: >-
   ADSU officers arrested three men after finding 691.3 g of cannabis at a
-  Résidence Kennedy home on 19 October 2026. [@1,2] By 22 October, the men had
+  Résidence Kennedy home on 19 October 2026. By 22 October, the men had
   appeared in court on provisional possession and trafficking charges and were
-  remanded in detention. [@2]
+  remanded in detention.
 figures:
   arrested: 3
   kg_seized: 0.6913

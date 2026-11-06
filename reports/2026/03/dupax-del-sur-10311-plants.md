@@ -10,7 +10,7 @@ precision: district
 type: eradication
 title: 10,311 cannabis plants destroyed in Dupax del Sur
 summary: >-
-  Police uprooted 10,311 cannabis plants from a 1,200-square-metre site at Sitio Gunot in Kimbutan, Dupax del Sur, on 17 March 2026. [@1,2] The police estimated the crop's street value at ₱20 million, while local coverage reported more than ₱20 million, and said investigators were still identifying those responsible. [@1,2]
+  Police uprooted 10,311 cannabis plants from a 1,200-square-metre site at Sitio Gunot in Kimbutan, Dupax del Sur, on 17 March 2026. The police estimated the crop's street value at ₱20 million, while local coverage reported more than ₱20 million, and said investigators were still identifying those responsible.
 figures:
   plants_destroyed: 10311
   hectares: 0.12

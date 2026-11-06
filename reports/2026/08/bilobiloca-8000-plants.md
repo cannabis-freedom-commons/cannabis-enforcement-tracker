@@ -12,8 +12,8 @@ title: Police seize close to 8,000 cannabis plants at Bilobiloca
 summary: >-
   Fiji Police seized close to 8,000 plants believed to be marijuana at the
   Bilobiloca farming area in the Northern Division after community information
-  led to a drone-assisted raid. [@1] A follow-up said no suspect had been
-  arrested. [@2]
+  led to a drone-assisted raid. A follow-up said no suspect had been
+  arrested.
 figures:
   arrested: 0
 details:

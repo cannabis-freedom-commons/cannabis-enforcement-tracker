@@ -12,8 +12,8 @@ title: Police mow 1.27 tonnes of wild cannabis in Balkhash District
 summary: >-
   Police mowed and seized 1.27 tonnes of un-dried wild cannabis in Balkhash
   District, Almaty Region, after a passenger stopped on the Bakanas–Topar road
-  identified a collection site. [@1,2] Officers also detained the passenger and
-  driver after finding 6.78 kilograms of un-dried marijuana in their car. [@1,2]
+  identified a collection site. Officers also detained the passenger and
+  driver after finding 6.78 kilograms of un-dried marijuana in their car.
 figures:
   kg_seized: 1270
   arrested: 2

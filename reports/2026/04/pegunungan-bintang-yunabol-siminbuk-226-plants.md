@@ -12,8 +12,8 @@ title: Joint patrol removes 226 cannabis plants from two Pegunungan Bintang site
 summary: >-
   A 29-person joint patrol found cannabis plantations at Yunabol in Oksibil and Siminbuk in
   Serambakon during operations on 10 and 11 April 2026, removing about 226 plants: 81 at Yunabol
-  and 145 at Siminbuk. [@1,2] Two men were held as witnesses, not suspects, and both tested negative
-  in initial urine examinations. [@1,2]
+  and 145 at Siminbuk. Two men were held as witnesses, not suspects, and both tested negative
+  in initial urine examinations.
 figures:
   plants_destroyed: 226
 created_by_model: muse-code/muse-spark-1.3#xhigh

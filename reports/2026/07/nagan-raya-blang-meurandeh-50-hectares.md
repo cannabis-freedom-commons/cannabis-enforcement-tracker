@@ -12,7 +12,7 @@ summary: >-
   A joint Kodam Iskandar Muda team destroyed an estimated 50 hectares of cannabis fields in protected
   forest at Blang Meurandeh, Nagan Raya, Aceh, on 8 July 2026. ThreeNews reported plants aged 15 days
   to four months, with some ready for harvest; Metro TV separately reported about 300 tonnes of wet
-  cannabis destroyed. [@1,2]
+  cannabis destroyed.
 figures:
   hectares: 50
   kg_seized: 300000

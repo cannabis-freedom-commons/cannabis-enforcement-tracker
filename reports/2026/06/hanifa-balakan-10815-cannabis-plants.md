@@ -10,7 +10,7 @@ precision: locality
 type: eradication
 title: 10,815 wild cannabis plants destroyed in Hanifa
 summary: >-
-  Azerbaijan's Balakan District Police destroyed 10,815 wild cannabis plants weighing 9,800 kg in Hanifa village. [@1,2] The Interior Ministry attributed the operation to its Hash-hash-2026 campaign; both reports were published on 12 June 2026. [@1,2]
+  Azerbaijan's Balakan District Police destroyed 10,815 wild cannabis plants weighing 9,800 kg in Hanifa village. The Interior Ministry attributed the operation to its Hash-hash-2026 campaign; both reports were published on 12 June 2026.
 figures:
   plants_destroyed: 10815
 details:

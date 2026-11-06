@@ -11,8 +11,8 @@ also: [seizure]
 title: Sonamura police burn 15,000 cannabis plants in Sepahijala
 summary: >-
   Sonamura police and Tripura State Rifles destroyed nearly 15,000 mature cannabis plants across
-  seven plots in the Rangamathia and Bholamura forest areas on 3 February 2026. [@1] Officers also
-  seized 136 kg of dry cannabis and registered a case while investigating who cultivated and stored it. [@1]
+  seven plots in the Rangamathia and Bholamura forest areas on 3 February 2026. Officers also
+  seized 136 kg of dry cannabis and registered a case while investigating who cultivated and stored it.
 figures:
   plants_destroyed: 15000
   kg_seized: 136

@@ -11,8 +11,8 @@ title: PNP destroys about 73,320 plants and more than 454 kg of dried cannabis i
 summary: >-
   The Philippine National Police conducted 24 eradication operations in the Cordillera from 16 to
   22 March 2026, destroying around 72,900 fully grown cannabis plants, 420 seedlings and more than
-  454 kilograms of dried cannabis leaves, stalks and fruiting tops. [@1] The PNP valued the plants
-  and products at PHP69,172,200. [@1]
+  454 kilograms of dried cannabis leaves, stalks and fruiting tops. The PNP valued the plants
+  and products at PHP69,172,200.
 figures:
   plants_destroyed: 73320
   kg_seized: 454

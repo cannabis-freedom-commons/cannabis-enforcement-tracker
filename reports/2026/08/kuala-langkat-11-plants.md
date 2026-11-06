@@ -11,8 +11,8 @@ also: [seizure, arrest]
 title: Police seize 11 cannabis plants and arrest a man in Kuala
 summary: >-
   Police in Langkat arrested a 35-year-old man and seized 11 growing cannabis
-  plants from a field in Garunggang, Kuala, on 10 August 2026. [@1] The suspect
-  said he had planted them and had dry cannabis leaves in a sack in a hut. [@1]
+  plants from a field in Garunggang, Kuala, on 10 August 2026. The suspect
+  said he had planted them and had dry cannabis leaves in a sack in a hut.
 figures:
   arrested: 1
 status: verified

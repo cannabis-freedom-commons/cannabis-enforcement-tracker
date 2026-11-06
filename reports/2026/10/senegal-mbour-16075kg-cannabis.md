@@ -11,9 +11,9 @@ type: seizure
 title: Police seize 160.75 kg of cannabis near Mbour as suspects flee
 summary: >-
   Senegal's Thiès Regional Narcotics Brigade seized five packages of cannabis
-  weighing 160.75 kg between Mbaling and Sinthiou Mbadane. [@1,2] Police said
+  weighing 160.75 kg between Mbaling and Sinthiou Mbadane. Police said
   people fled during the operation, but the reports give no exact operation
-  date or number of suspects. [@1,2]
+  date or number of suspects.
 figures:
   kg_seized: 160.75
 media:

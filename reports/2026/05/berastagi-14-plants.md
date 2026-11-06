@@ -12,7 +12,7 @@ title: Berastagi police seize 14 cannabis plants and detain a 65-year-old
 summary: >-
   Berastagi police detained a 65-year-old man after finding 14 cannabis plants in a field at Rumah
   Berastagi, Karo, on 27 May 2026. Officers also found a cigarette box with dried cannabis, and the
-  suspect said the plants were his. [@1]
+  suspect said the plants were his.
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh

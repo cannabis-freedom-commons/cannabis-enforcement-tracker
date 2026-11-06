@@ -12,8 +12,8 @@ title: Athimale police seize 55,220 cannabis plants from Kebiliththa reserve
 summary: >-
   Police Narcotics Bureau and Athimale officers raided a cannabis plantation in the protected
   Kebiliththa area of Kotiyagala on 9 March 2026, seizing 55,220 plants grown across approximately
-  two acres. [@1] A 34-year-old resident of Embilipitiya was taken into custody in connection with
-  the cultivation. [@1]
+  two acres. A 34-year-old resident of Embilipitiya was taken into custody in connection with
+  the cultivation.
 figures:
   arrested: 1
   plants_destroyed: 55220

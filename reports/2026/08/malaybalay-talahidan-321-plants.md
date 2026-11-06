@@ -11,9 +11,9 @@ also: [raid, seizure]
 title: 321 cannabis plants uprooted in Malaybalay; 311 burned
 summary: >-
   Joint police units uprooted 321 cannabis plants at Sitio Talahidan in
-  Malaybalay City on 6 August 2026, with an estimated value of ₱64,200. [@1,2]
+  Malaybalay City on 6 August 2026, with an estimated value of ₱64,200.
   Bombo Radyo reported that 311 plants were burned and 10 specimens were sent
-  for laboratory examination. [@1]
+  for laboratory examination.
 figures:
   plants_destroyed: 311
   value: { amount: 64200, currency: PHP }

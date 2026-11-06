@@ -12,8 +12,8 @@ title: Gujarat ANTF seizes cannabis from cultivation and a Vinchi home
 summary: >-
   Gujarat's Anti-Narcotics Task Force searched cultivated land and a home in Vinchi, Poshina, on
   17 May 2026, seizing 8.060 kg of green cannabis plants from the land and 4.700 kg of dry cannabis
-  from the residence. [@1,2] Police detained 53-year-old Vinchi resident Makana Gamar and estimated
-  the combined contraband value at ₹638,000. [@1,2]
+  from the residence. Police detained 53-year-old Vinchi resident Makana Gamar and estimated
+  the combined contraband value at ₹638,000.
 figures:
   arrested: 1
   kg_seized: 12.76

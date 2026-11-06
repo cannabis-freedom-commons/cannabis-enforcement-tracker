@@ -10,7 +10,7 @@ precision: locality
 type: eradication
 title: 3,100 cannabis plants uprooted from a Crève-Cœur cane field
 summary: >-
-  Police uprooted and seized 3,100 cannabis plants from a sugarcane field along the Royal Road in Crève-Cœur, Mauritius. [@1,2] The plants were 10–56 cm tall and were assigned an estimated market value of Rs 12.4 million; the cultivators had not been identified by 10 October. [@1,2]
+  Police uprooted and seized 3,100 cannabis plants from a sugarcane field along the Royal Road in Crève-Cœur, Mauritius. The plants were 10–56 cm tall and were assigned an estimated market value of Rs 12.4 million; the cultivators had not been identified by 10 October.
 figures:
   plants_destroyed: 3100
   value: { amount: 12400000, currency: MUR }

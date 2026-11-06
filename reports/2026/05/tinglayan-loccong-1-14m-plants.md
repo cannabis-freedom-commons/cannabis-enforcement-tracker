@@ -11,8 +11,8 @@ title: 1.14 million marijuana plants destroyed in Tinglayan
 summary: >-
   Cordillera police destroyed about 1.14 million fully grown marijuana plants across 10 plantation
   sites on Mount Chumanchil in Loccong, Tinglayan, during a two-day operation on 17–18 May 2026.
-  [@1,2] The crop covered about 9.5 hectares and was given an official standard-price estimate of
-  ₱228 million. [@1,2]
+  The crop covered about 9.5 hectares and was given an official standard-price estimate of
+  ₱228 million.
 figures:
   plants_destroyed: 1140000
   hectares: 9.5

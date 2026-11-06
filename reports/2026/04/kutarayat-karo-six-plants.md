@@ -12,7 +12,7 @@ title: Karo police seize six cannabis plants from Kutarayat swamp
 summary: >-
   Karo narcotics officers detained a 46-year-old farmer in Kutarayat on 28 April 2026 after finding
   six cannabis plants in a nearby swamp, 35 to 160 centimetres tall and weighing about 500 grams
-  wet. [@1,2] A home search also found 1.1 grams of damp cannabis twigs. [@2]
+  wet. A home search also found 1.1 grams of damp cannabis twigs.
 figures:
   arrested: 1
   plants_destroyed: 6

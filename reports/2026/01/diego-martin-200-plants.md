@@ -12,7 +12,7 @@ title: Diego Martin police destroy about 200 cannabis plants in Operation Triden
 summary: >-
   Trinidad and Tobago police destroyed approximately 200 cannabis plants in a clearing off Salandy
   Street, Diego Martin, on 4 January 2026 during Operation Trident. Officers reached the site on
-  foot, uprooted the plants and burned them. [@1]
+  foot, uprooted the plants and burned them.
 figures:
   plants_destroyed: 200
 created_by_model: muse-code/muse-spark-1.3#xhigh

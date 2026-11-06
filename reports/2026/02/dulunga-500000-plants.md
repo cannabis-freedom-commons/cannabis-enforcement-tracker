@@ -11,7 +11,7 @@ title: Tripura forces destroy more than 500,000 cannabis plants at Dulunga
 summary: >-
   A joint operation in Dulunga forest, Sonamura, destroyed more than 500,000 cannabis plants in 92
   plots across around 170 acres on 1 February 2026. Officials estimated the destroyed crop at INR750
-  million. Northeast Herald describes the wider drive as continuing through 2 February. [@1,2]
+  million. Northeast Herald describes the wider drive as continuing through 2 February.
 figures:
   plants_destroyed: 500000
   hectares: 68.8

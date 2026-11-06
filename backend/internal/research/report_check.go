@@ -88,6 +88,12 @@ func CheckReport(dir, rel, content string) error {
 	}
 	c.text("title", data["title"], 120, true)
 	c.text("summary", data["summary"], 400, true)
+	// citations belong in the text: the title and summary are shown alone, in lists, cards and the API
+	for _, k := range []string{"title", "summary"} {
+		if v, ok := data[k].(string); ok && strings.Contains(v, "[@") {
+			c.fail("%s: no citations ([@n]) in the %s", k, k)
+		}
+	}
 	if v, ok := data["figures"]; ok {
 		f := c.object("figures", v)
 		c.only(f, "figures.", "arrested", "charged", "kg_seized", "plants_destroyed", "hectares", "prison", "fine", "value", "deaths",

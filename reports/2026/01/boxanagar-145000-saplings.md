@@ -11,7 +11,7 @@ title: Assam Rifles destroy 145,000 cannabis saplings in Boxanagar
 summary: >-
   Assam Rifles, the Sepahijala district police, Tripura State Rifles and the Forest Department
   destroyed approximately 145,000 cannabis saplings across more than 58 acres in Boxanagar on 28
-  January 2026. Officials estimated the destroyed crop at INR145 million. [@1,2]
+  January 2026. Officials estimated the destroyed crop at INR145 million.
 figures:
   plants_destroyed: 145000
   hectares: 23.47

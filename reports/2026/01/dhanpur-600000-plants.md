@@ -12,7 +12,7 @@ summary: >-
   A joint operation by Assam Rifles, BSF, Tripura Police, Tripura State Rifles and the Forest
   Department destroyed approximately 600,000 young cannabis plants across 65 plots and about 200
   acres in four Sepahijala locations on 7 January 2026. Officials estimated the crop at INR360
-  million. [@1,2,3]
+  million.
 figures:
   plants_destroyed: 600000
   hectares: 80.94

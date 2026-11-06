@@ -11,7 +11,7 @@ title: Raikia teams destroy more than 100,000 cannabis plants in Naudimahao
 summary: >-
   Raikia Police, the Phulbani Excise Department and Forest Department teams destroyed more than
   100,000 cannabis plants across a 25-acre forest plantation in Naudimahao, Kandhamal, Odisha, in
-  December 2025. The reported crop value was about INR20 million. [@1]
+  December 2025. The reported crop value was about INR20 million.
 figures:
   plants_destroyed: 100000
   hectares: 10.12

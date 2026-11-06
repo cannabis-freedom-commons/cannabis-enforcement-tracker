@@ -12,8 +12,8 @@ also: [arrest]
 title: Two arrested in Bantè with 1,031 cannabis balls in a minibus
 summary: >-
   Police in Bantè intercepted a minibus with 1,031 balls of cannabis and
-  arrested two Togolese men after a pursuit on 11 October 2026. [@1,2] The
-  sources describe 11 jute sacks but give no net weight for the cannabis. [@1,2]
+  arrested two Togolese men after a pursuit on 11 October 2026. The
+  sources describe 11 jute sacks but give no net weight for the cannabis.
 figures:
   arrested: 2
 media:

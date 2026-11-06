@@ -100,8 +100,8 @@ const reports = defineCollection({
     precision: z.enum(Object.keys(PRECISION) as [string, ...string[]]).optional(),
     type: z.enum(TYPE_IDS as [string, ...string[]]),
     also: z.array(z.enum(TYPE_IDS as [string, ...string[]])).optional(), // other kinds it involved
-    title: z.string().min(1).max(120),
-    summary: z.string().min(1).max(400),
+    title: z.string().min(1).max(120).refine((t) => !t.includes("[@"), { message: "no citations ([@n]) in the title" }),
+    summary: z.string().min(1).max(400).refine((t) => !t.includes("[@"), { message: "no citations ([@n]) in the summary; cite in the text" }),
     figures: figures.optional(),
     details: details.optional(),
     // which sources (by number) support each structured value: { "figures.arrested": [1] }

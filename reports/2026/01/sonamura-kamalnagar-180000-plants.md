@@ -11,7 +11,7 @@ title: Tripura forces destroy 180,000 cannabis plants across 41 plots
 summary: >-
   A joint operation in Sonamura subdivision destroyed approximately 180,000 cannabis plants in 41
   plots across nearly 65 acres of forest land on 29 January 2026. The participating agencies and
-  reports' estimated crop value of INR270 million were independently reported. [@1,2,3]
+  reports' estimated crop value of INR270 million were independently reported.
 figures:
   plants_destroyed: 180000
   hectares: 26.3

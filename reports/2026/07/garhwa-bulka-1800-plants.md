@@ -13,7 +13,7 @@ summary: >-
   A joint police and administration team uprooted and destroyed about 1,800 cannabis plants grown
   over roughly 300 square metres at a house compound in Bulka village, Garhwa, in an operation
   reported on 5 July 2026. The team said the uprooted plants weighed 118 kg and opened an
-  investigation. [@1]
+  investigation.
 figures:
   plants_destroyed: 1800
   kg_seized: 118

@@ -12,8 +12,8 @@ also: [seizure]
 title: Five arrested in Gakenke with 10 kg of cannabis
 summary: >-
   Police in Gakenke arrested five men and seized 10 kg of cannabis in Kabutwa on
-  22 October 2026. [@1,2] Police said the group was also suspected of distributing
-  illicit gin, and all five remained in custody as investigations continued. [@1]
+  22 October 2026. Police said the group was also suspected of distributing
+  illicit gin, and all five remained in custody as investigations continued.
 figures:
   arrested: 5
   kg_seized: 10

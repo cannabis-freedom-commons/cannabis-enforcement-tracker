@@ -10,9 +10,9 @@ type: eradication
 title: PNP destroys more than 108,000 cannabis plants in Benguet and Kalinga
 summary: >-
   The Philippine National Police said a week-long campaign from 23 to 29 March 2026 destroyed
-  more than PHP28.5 million worth of marijuana in 24 operations across Benguet and Kalinga. [@1]
+  more than PHP28.5 million worth of marijuana in 24 operations across Benguet and Kalinga.
   The report counted more than 80,000 fully grown plants and over 57 kilograms of dried marijuana
-  in 22 Benguet operations, plus 28,000 plants destroyed in two Kalinga operations. [@1]
+  in 22 Benguet operations, plus 28,000 plants destroyed in two Kalinga operations.
 figures:
   plants_destroyed: 108000
   kg_seized: 57

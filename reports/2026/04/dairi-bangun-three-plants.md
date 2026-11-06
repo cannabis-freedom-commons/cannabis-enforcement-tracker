@@ -11,9 +11,9 @@ also: [arrest, seizure]
 title: Dairi farmer arrested after three cannabis plants found in maize field
 summary: >-
   Unit Intel Kodim 0206/Dairi detained a 33-year-old farmer on 24 April 2026 after a community
-  report led officers to three cannabis plants hidden in his maize field at Bangun, Parbuluan. [@1]
+  report led officers to three cannabis plants hidden in his maize field at Bangun, Parbuluan.
   The plants were about 1.5 metres tall; police handed the suspect and evidence to the Dairi
-  narcotics unit. [@1,2]
+  narcotics unit.
 figures:
   arrested: 1
   plants_destroyed: 3
