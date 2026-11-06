@@ -40,6 +40,11 @@ sources:
     publisher: La Red 1061
     date: 2026-05-02
     language: es
+  - title: Guatemala erradicó casi 88 mil plantas de marihuana
+    url: https://www.prensa-latina.cu/2026/05/02/guatemala-erradico-casi-88-mil-plantas-de-marihuana/
+    publisher: Prensa Latina
+    date: 2026-05-02
+    language: es
 open_questions:
   - The article gives no separate date for the operation itself; 2 May 2026 is its publication date, used as the incident date.
   - No arrests, charges, suspects or court outcomes are reported.
@@ -47,13 +52,16 @@ open_questions:
   - Coordinates are for the town of Las Cruces; the mountain plots around caserío Flor de la Esperanza are not pinpointed.
   - The Infobae article also describes wider January-April 2026 eradications, poppy fields and synthetic-drug laboratories in Petén, San Marcos and Alta Verapaz, which are separate events left out here.
   - Only one photograph of this operation was listed on the submitted page; the other two images on it illustrate the broader 2026 anti-narcotics work and are not confirmed to show the Flor de la Esperanza fields, so they are omitted.
+  - Prensa Latina says officers uprooted and incinerated the plants without stating a value, while the existing report cites about Q43,900 from other outlets.
+  - This account names only the municipality of Las Cruces and mountain areas, without the caserío Flor de la Esperanza or the three-field detail given in the existing report.
+  - Photos on the Prensa Latina page carry no captions or credits confirming they show the Flor de la Esperanza fields, so no media is listed.
 ---
 
 Guatemala's National Civil Police, through its anti-narcotics analysis unit
 SGAIA, carried out an eradication operation in the municipality of Las Cruces,
-Petén, that destroyed 87,800 marijuana plants. [@1] The operation was conducted
+Petén, that destroyed 87,800 marijuana plants. [@1,3] The operation was conducted
 with the Guatemalan Army in mountain areas near caserío Flor de la Esperanza,
-where authorities identified and destroyed three illicit cultivation zones. [@1]
+where authorities identified and destroyed three illicit cultivation zones. [@1,3]
 A second Guatemalan outlet confirms that SGAIA anti-narcotics police and the
 Army eradicated 87,800 marijuana plants in a mountain area of Las Cruces, Petén.
 [@2]
@@ -69,7 +77,6 @@ SGAIA highlighted citizen complaints for identifying and locating the crops, and
 authorities thanked reports to the Línea Antinarcótica that enabled early
 detection. [@1] La Red reported that the authorities thanked citizen complaints
 received through the telephone numbers 110 and 1577 of the Línea Antinarcótica.
-[@2] Authorities said the actions form part of a planned strategy to weaken
+[@2,3] Authorities said the actions form part of a planned strategy to weaken
 criminal structures dedicated to producing and trafficking drugs in rural areas.
-[@1]
-
+[@1,3]
