@@ -48,6 +48,11 @@ sources:
     publisher: Réunion La 1ère
     date: 2026-09-04
     language: fr
+  - title: 'Quatre Mauriciens interpellés en juillet : Une équipe de l’ADSU à Madagascar'
+    url: https://lexpress.mu/s/une-equipe-de-ladsu-a-madagascar-562087
+    publisher: L'Express (Mauritius)
+    date: 2026-09-01
+    language: fr
 open_questions:
   - No cannabis weight, plants, area or value can be recorded for this event because no illicit substance was found aboard.
   - The Mauritian report gives 20 July for the grounding, while the Malagasy September report places the clandestine landing in the night of 19 July.
@@ -65,11 +70,13 @@ open_questions:
   - No outcome of the extradition request was reported; Malagasy authorities were still studying it.
   - The page's only image is captioned as an archive illustration from L'Express de Madagascar, not a photo of this event, so no media entry is added.
   - Left out arrested, as no supporting quotation was given.
+  - No official source confirmed why a Southern Division officer rather than a port or headquarters officer was chosen to lead the Madagascar mission.
+  - Whether the 155.7 kg seizure and the Madagascar case share supply channels, transport methods or protagonists remained under examination with no conclusion reported.
 ---
 
 Four Mauritian men were detained after their speedboat ran aground at Maharavo
 Ambohitralanana in Antalaha district on Madagascar's east coast on 20 July 2026.
-[@1,4] They were taken to Antananarivo and handed to the judicial police
+[@1,4,5] They were taken to Antananarivo and handed to the judicial police
 directorate at Toby Ratsimandrava. [@2] Fishermen helped the occupants and then
 alerted the Malagasy authorities. [@1,4]
 
@@ -84,7 +91,7 @@ surveillance for several months. [@1]
 Mauritius's Anti-Drug and Smuggling Unit and Financial Crimes Commission are
 examining whether a possible drug cargo was bound for Mauritius. [@1]
 Investigators are checking whether a link exists between Ashley Rose and the
-four Mauritians' trip. [@1] One hypothesis under verification is that part of
+four Mauritians' trip. [@1,5] One hypothesis under verification is that part of
 any cargo could have been ordered for or destined to Mauritius. [@1] Yoel and
 Legentil are also concerned by another inquiry into the seizure of more than 300
 kg of cannabis from a boat coming from Madagascar. [@1] Legentil and Yoel were
@@ -97,7 +104,7 @@ Their speedboat, which reportedly had been stolen and bore no registration,
 broke apart on the reefs. [@3,4] The fast boat used had been under surveillance
 since March and is central to the Mauritian police investigation. [@3] An ADSU
 team spent two weeks in Madagascar questioning them about the expedition's
-financing, contacts and the final destination of any drug cargo. [@3] They were
+financing, contacts and the final destination of any drug cargo. [@3,5] They were
 presented to the prosecutor and placed in pre-trial detention. [@3,4] They were
 being held at the Tsiafahy prison and could be returned to Mauritius. [@3]
 Mauritian police filed an official extradition request, which was awaiting a

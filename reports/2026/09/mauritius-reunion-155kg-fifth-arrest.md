@@ -31,6 +31,7 @@ open_questions:
   - This article does not state where in Mauritius the 31 July arrest took place.
   - The page's only relevant image is captioned generically about drug trafficking between Réunion and Mauritius and is not established to show this seizure or arrest, so no media entry is added.
   - The Zinfos974 page's images are captioned only 'Maurice, zamal' or carry no caption establishing they show this arrest or seizure, so no media entry is added.
+  - The account presents any common points between the Madagascar case and the 155.7 kg seizure as hypotheses under examination, not established facts.
 sources:
   - title: 'Trafic de 155,7 kg de cannabis sur l’axe La Réunion-Maurice : un cinquième suspect arrêté par l’ADSU'
     url: https://defimedia.info/trafic-de-1557-kg-de-cannabis-sur-laxe-la-reunion-maurice-un-cinquieme-suspect-arrete-par-ladsu
@@ -82,6 +83,11 @@ sources:
     publisher: Réunion La 1ère
     date: 2026-09-04
     language: fr
+  - title: 'Quatre Mauriciens interpellés en juillet : Une équipe de l’ADSU à Madagascar'
+    url: https://lexpress.mu/s/une-equipe-de-ladsu-a-madagascar-562087
+    publisher: L'Express (Mauritius)
+    date: 2026-09-01
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
@@ -120,3 +126,5 @@ Presented on Saturday before the Port-Louis court, he was not released on bail a
 On 7 September 2026 the Financial Crimes Commission moved two speedboats from suspect Ravindra Chimajee's home to its Réduit Triangle headquarters, with forensic examination of the cabin, lockers and cockpit ordered. [@9] The FCC inquiry also examined possible money laundering linked to the network. [@9]
 
 One of four Mauritians detained in Madagascar is said to be implicated in the attempted import of the 155.7 kg of cannabis seized at Bras-Panon. [@10]
+
+Investigators were examining whether the Madagascar case and the 155.7 kg cannabis seizure shared supply channels, transport methods or known protagonists. [@11]
