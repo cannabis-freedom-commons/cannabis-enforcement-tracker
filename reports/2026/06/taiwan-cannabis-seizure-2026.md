@@ -52,6 +52,11 @@ sources:
     publisher: 報新聞 Mega News
     date: 2026-11-06
     language: zh
+  - title: 海巡署今年驅離618艘中國船舶 未逮到張俊傑已展開內部調查 | 信傳媒 | LINE TODAY
+    url: https://today.line.me/tw/v3/article/Kw7L7Pm?referral=TWstraitwatch&view=topic
+    publisher: LINE TODAY
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The 5 November speech gives a year-to-date drug total of 12,901.6 kg without separating cannabis, so it is not recorded as a cannabis figure.
   - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
@@ -67,10 +72,11 @@ open_questions:
   - The page calls the ten-year cannabis case a smuggling case, while the existing report describes the 766.09 kg seizure as drugs found in a truck stopped in New Taipei's Rueifang district; the page gives no date, place, weight or route for the case.
   - This account confirms only the 3 June date, the 766.09 kg weight and the ten-year record; it gives no place, package count, arrests, charges, pieces of evidence or court outcome for the Rueifang case.
   - The page presents the cannabis case under the coast guard's overall security results, alongside a combined year-to-date drug total that is not broken down by substance.
+  - The page says the case was the Coast Guard Administration's largest inland cannabis bust in nearly 10 years, while the existing report records it as Taiwan's largest cannabis seizure in ten years.
 ---
 
 Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2]
 
-At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
+At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
 
-Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7]
+Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8]
