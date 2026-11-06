@@ -1,0 +1,77 @@
+---
+code: HV23ZV
+added_at: "2026-11-06T00:10:43.62993Z"
+date: 2026-11-05
+country: gb
+place: Burgh Common, Attleborough, Norfolk
+coordinates: [52.5187, 1.0157]
+precision: locality
+type: sentence
+also: [raid, arrest, prosecution, seizure]
+title: Pensioner couple sentenced over 25 plants and £46,000 grow in Attleborough
+summary: >-
+  Mark Ayres, 71, was jailed for three and a half years and his wife Marion, 70, received a nine-month suspended sentence for growing cannabis at their Burgh Common home near Attleborough. Police found 25 plants and about 5.7 kg of dried cannabis, which they valued at more than £46,000.
+figures:
+  charged: 2
+  plants_destroyed: 25
+  kg_seized: 5.7
+  prison: 'Mrs Ayres: 9 months suspended for 12 months; Mr Ayres: 3 years 6 months'
+  value:
+    amount: 46000
+    currency: GBP
+media:
+  - kind: photo
+    url: https://www.dissexpress.co.uk/news/pensioners-sentenced-after-46-000-cannabis-grow-discovered-9490187/
+    media_url: https://www.dissexpress.co.uk/_media/img/750x0/NPAFW78DWVCCXSBN150W.jpg
+    publisher: Diss Express
+    caption: 'Mark Ayres, who was jailed for three and a half years, in a police photograph released after sentencing. Photo: Norfolk Constabulary/PA'
+  - kind: photo
+    url: https://www.largsandmillportnews.com/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
+    media_url: https://image.assets.pressassociation.io/v2/image/production/e0a2b093c7a7ac60a18336bc36461df2Y29udGVudHNlYXJjaGFwaSwxNzkzOTk0Nzk2/2.86377618.jpg?w=640
+    publisher: Largs and Millport Weekly News (PA News Agency)
+    caption: 'Dried cannabis found by Norfolk Constabulary at the Ayres'' home in Burgh Common. Photo: Norfolk Constabulary/PA'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: a267e9129b496b3d2b453398938b0c9b
+tags: [norfolk, attleborough, cannabis-farm, home-grow, suspended-sentence]
+sources:
+  - title: Attleborough pensioners sentenced after £46,000 cannabis grow discovered at home
+    url: https://www.dissexpress.co.uk/news/pensioners-sentenced-after-46-000-cannabis-grow-discovered-9490187/
+    publisher: Diss Express
+    date: 2026-11-05
+  - title: Married couple in their 70s who grew £46,000 of cannabis sentenced
+    url: https://www.largsandmillportnews.com/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
+    publisher: Largs and Millport Weekly News (PA News Agency)
+    date: 2026-11-05
+  - title: Burgh Common husband and wife accused over kilos of cannabis
+    url: https://www.edp24.co.uk/news/26042058.burgh-common-husband-wife-accused-kilos-cannabis/
+    publisher: Eastern Daily Press
+    date: 2026-04-22
+open_questions:
+  - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
+  - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
+  - The weight of 5.7 kg of dried cannabis is described as approximate.
+  - The exact dates of the magistrates' court plea hearing and the trial preparation hearing were not published, and Marion Ayres's guilty plea is not tied to a specific court date.
+  - No confiscation order or other ancillary penalty for either defendant was reported.
+---
+
+Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
+Court for their involvement in producing cannabis at their home in Burgh Common,
+near Attleborough in Norfolk. [@1] Marion Ayres was given nine months in prison,
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1]
+Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
+with intent to supply, while Marion Ayres admitted producing cannabis. [@1]
+
+Both were arrested after Norfolk Constabulary officers executed a warrant at the
+couple's home on 20 May 2025, as part of an investigation into cannabis supply
+in the area. [@2] Officers found 25 cannabis plants and approximately 5.7 kg of
+dried cannabis, which police estimated had a street value of more than £46,000.
+[@1] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
+guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
+28 cannabis plants on that date. [@3] Marion Ayres denied both charges at that
+stage and was sent to Norwich Crown Court for a trial preparation hearing. [@3]
+
+Sergeant Dan Shelley of Norfolk Constabulary said drug production and supply
+could have a "hugely damaging impact" on communities and urged residents to
+report concerns about drugs to police. [@1]
+
