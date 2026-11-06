@@ -58,6 +58,11 @@ sources:
     publisher: SOL
     date: 2026-11-04
     language: pt
+  - title: Traficantes ocupam casas da Câmara de Lisboa e escondem mais de 32 quilos de droga
+    url: https://folhanacional.pt/2026/11/06/traficantes-ocupam-casas-da-camara-de-lisboa-e-escondem-mais-de-32-quilos-de-droga/
+    publisher: Folha Nacional
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The seized hashish and liamba are given only in doses, with no weight in grams or kilograms, so no cannabis kilogram figure can be recorded.
   - The street value of more than 2 million euros refers to all the drugs seized, including the heroin and cocaine, not to the cannabis alone.
@@ -65,11 +70,22 @@ open_questions:
   - No charging decision, coercive measure or court outcome after the first judicial interview was reported.
   - The submitted page carries only a 2026 photo of material seized in the separate July 2026 Operação Buongiorno at Polícia Judiciária headquarters, so no media entry is given for this operation.
   - The text gives a weight ("23 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - Folha Nacional credits Correio da Manhã as its source, so it is not an independent account and repeats that outlet's wording.
+  - Folha Nacional says the apartments are in the Quinta do Loureiro neighbourhood without naming Campo de Ourique; the existing report's place comes from other outlets.
+  - 'The order of the police operation is not clear: a search that had run since the start of 2026 and the detentions of two men living on the Margem Sul are described only briefly.'
+  - Folha Nacional gives the hashish and liamba with no weight, as in the existing report, so no cannabis kilogram figure can be recorded from this page either.
+  - Whether a judge imposed coercive measures after the Wednesday interview is not reported here.
+media:
+  - kind: photo
+    url: https://folhanacional.pt/2026/11/06/traficantes-ocupam-casas-da-camara-de-lisboa-e-escondem-mais-de-32-quilos-de-droga/
+    media_url: https://folhanacional.pt/wp-content/uploads/2026/11/img_932x621uu2026-11-04-15-44-36-2319426-im-639294073679246981.jpg
+    publisher: Folha Nacional
+    caption: 'PSP display of the seized packages of heroin, hashish and liamba, cash, two Glock magazines, ammunition and a signal-jamming device laid out on a table. Photo: PSP'
 ---
 
 Lisbon's PSP municipal police detained two men aged 24 and 27 in the Campo de
 Ourique parish of Lisbon on Tuesday 3 November 2026 on suspicion of drug
-trafficking. [@1] Officers of the Lisbon criminal investigation division made
+trafficking. [@1,4] Officers of the Lisbon criminal investigation division made
 the arrests in the act during an operation against direct sales to consumers,
 focused on the Vale de Alcântara area. [@2] The investigation began in July into
 two men living on the south bank of the Tagus with family ties to the Quinta do
@@ -80,16 +96,17 @@ to the PSP. [@2]
 The searches produced 1,084.44 doses of haxixe, Portuguese for hashish, and
 115.34 doses of liamba, a Portuguese word for herbal cannabis, alongside
 230,614.9 doses of heroin, 6,457.4 doses of cocaine and 8,305.96 grams of
-cutting agent. [@1] The police also seized 7,764 euros in cash, 31 rounds of 9mm
+cutting agent. [@1,4] The police also seized 7,764 euros in cash, 31 rounds of 9mm
 ammunition, two Glock magazines, precision scales, packing machines and other
-preparation equipment. [@2] The police said the seized drugs could have yielded
+preparation equipment. [@2,4] The police said the seized drugs could have yielded
 more than 2 million euros at street value. [@1]
 
 A PSP official told Lusa that the 23 kilograms of heroin were the largest
 seizure of that drug in 2026 and more than a third of all heroin seized by
 criminal police in 2025. [@1] The homes in Bairro da Quinta do Loureiro used for
 storage were being occupied illegally, the police said, without disclosing where
-on the south bank the two men lived. [@3] Both men were to appear before a judge
+on the south bank the two men lived. [@3,4] Both men were to appear before a judge
 on Wednesday 4 November for a first judicial interview to decide on coercive
-measures. [@2]
+measures. [@2,4]
 
+The two men, who already had records for drug trafficking, kept the flats under permanent watch and controlled who entered, according to the newspaper. [@4] The newspaper reports that the PSP investigation into the two men had been running since the start of 2026. [@4]
