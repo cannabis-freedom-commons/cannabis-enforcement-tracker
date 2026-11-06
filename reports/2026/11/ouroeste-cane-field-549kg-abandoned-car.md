@@ -70,20 +70,27 @@ sources:
     publisher: Policial Padrão
     date: 2026-11-05
     language: pt
+  - title: Ação conjunta intercepta mais de 500 kg de maconha em canavial no interior de São Paulo
+    url: https://fatopaulista.com.br/apreensao-de-maconha-em-ouroeste-sp/
+    publisher: Fato Paulista
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
   - The R$1 million figure is the authorities' estimated loss to organised crime, not a separate weighed valuation.
   - The weight is published as 549 kg in the Policial Padrão and PMESP headlines and as 549.6 kg by the Federal Police, so the exact rounded count differs between accounts.
+  - Fato Paulista describes the FICCO task force as linked to the Public Ministry, while the Federal Police's own statement lists its members as federal and São Paulo state agencies.
+  - Fato Paulista gives no exact weight, only more than half a tonne, so the 549.6 kg figure still rests on the Federal Police count.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
-Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1] During the inspection,
+Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5] During the inspection,
 officers found hundreds of cannabis tablets hidden in the vehicle, in the trunk
 and on the back seat. [@1] The Federal Police weighed the load at 549.6 kg of
 maconha in the Ouroeste region. [@2] São Paulo public-security authorities
 estimated the seizure caused more than R$1 million in losses to organised crime.
-[@1]
+[@1,5]
 
 The operation was led by the Tático Ostensivo Rodoviário with the FICCO task
 force and the Public Ministry. [@1] Canine teams from the 9th BAEP, officers of
