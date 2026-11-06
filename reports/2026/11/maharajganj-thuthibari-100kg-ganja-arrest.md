@@ -109,6 +109,11 @@ sources:
     publisher: Oneindia Hindi
     date: 2026-11-06
     language: hi
+  - title: Maharajganj News:1.22 क्विंटल गांजा बरामद, दो गिरफ्तार - 1.22 Quintals Of Ganja Seized; Two Arrested - Maharajganj News
+    url: https://www.amarujala.com/uttar-pradesh/maharajganj/122-quintals-of-ganja-seized-two-arrested-maharajganj-news-c-206-1-mhg1001-188695-2026-11-06
+    publisher: Amar Ujala
+    date: 2026-11-06
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -158,10 +163,12 @@ Amar Ujala reported that a police team acting on a tip-off from an informer thre
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
 
-Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13,14,15] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11,14,15] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13,15] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11,15] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11,14,15] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13,15] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13,14,15,16] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11,14,15,16] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13,15] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11,15,16] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11,14,15] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13,15] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
 
 A case was registered against both accused at Thuthibari police station under the NDPS Act, and both were being produced in court. [@10,12] The vehicle stopped near the village was reported as a car, not a Scorpio. [@12]
 
 The case was filed at Thuthibari police station as crime number 150/2026, a file reference the earlier reports did not give. [@14] Police said the operation was led by Circle Officer Nichlaul Ravindra Kumar Singh and overseen by Additional Superintendent of Police Siddharth, with Thuthibari police and ATS teams from Siddharthnagar and Gorakhpur. [@14] The report places the interception on the eve of Diwali, which fell on 8 November 2026. [@14]
 
 The same Oneindia report's second operation was a 4 November heroin seizure in Sonauli, a separate event not part of this cannabis case. [@15] PTI, republished by Rediff.com, reported the police statement made on Thursday 5 November 2026, two days before Oneindia's account. [@9]
+
+Nisha lives in Chainpatti under Taryan Sujan police station and Gaur lives in Ward No 7, Azad Nagar under Sevarhi police station in Kushinagar district. [@16] The court sent both accused to jail after police produced them. [@16] Gaur's earlier cases were registered at Vishunpura police station in 2020 and Rudhauli police station in Basti district in 2023. [@16]
