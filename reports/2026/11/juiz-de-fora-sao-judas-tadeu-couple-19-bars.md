@@ -36,6 +36,11 @@ media:
     media_url: https://www.hojeemdia.com.br/image/policy:1.1139579.1793883320:1793883320/image.jpg?f=2x1&w=1200
     publisher: Hoje em Dia
     caption: 'Sniffer dogs helped locate the drugs in the lot beside the suspects'' building. Photo: PM/Divulgação'
+  - kind: photo
+    url: https://www.em.com.br/gerais/2026/11/7533513-casal-tenta-esconder-19-barras-de-maconha-em-ferro-velho-e-acaba-preso.html
+    media_url: https://midias.em.com.br/_midias/jpg/2026/11/05/1200x720/1_whatsapp-image-2026-11-05-at-07-10-35-68147434.jpeg
+    publisher: Estado de Minas
+    caption: 'Sniffer dogs Brasão and Rakissa with the seized material after the couple allegedly threw 19 cannabis bars into a neighbouring scrapyard in Juiz de Fora. Photo: PMMG/Reprodução'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: daeb604c374a76215f40032b994c3488
@@ -51,6 +56,16 @@ sources:
     publisher: O Tempo
     date: 2026-11-05
     language: pt
+  - title: Casal tenta esconder 19 barras de maconha em ferro-velho e acaba preso
+    url: https://www.em.com.br/gerais/2026/11/7533513-casal-tenta-esconder-19-barras-de-maconha-em-ferro-velho-e-acaba-preso.html
+    publisher: Estado de Minas
+    date: 2026-11-05
+    language: pt
+  - title: Casal é preso com drogas do Comando Vermelho em Juiz de Fora
+    url: https://93fmbq.com.br/noticias/casal-e-preso-com-drogas-do-comando-vermelho-em-juiz-de-fora/
+    publisher: Rádio 93 FM
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight was published for the 19 bars or tablets of maconha, so no kilograms can be recorded.
   - The suspects were identified only by age and sex, with no names published.
@@ -58,29 +73,32 @@ open_questions:
   - The incident date of 4 November 2026 is the night before the 5 November 2026 publications, as stated in both accounts.
   - Both accounts repeat the Military Police version; no separate agency statement was opened.
   - The listed photo is a police handout image carried by the outlet, not an independently confirmed image of the seizure.
+  - The Estado de Minas account says the drugs were thrown from the balcony (varanda), while the Rádio 93 FM account says they were thrown from the apartment window (janela).
+  - The Estado de Minas account places the arrest in the afternoon and records the occurrence at about 18h25, while the Rádio 93 FM account describes the arrest on Wednesday night.
 ---
 
 Military police arrested a couple suspected of storing drugs for the Comando
 Vermelho (CV) in an apartment with 19 bars of maconha on the night of Wednesday
-4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1]
+4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1,3]
 Police said the apartment was used as a depot for drugs belonging to members of
 the criminal faction. [@1] The suspects were a 24-year-old man and a 21-year-old
-woman. [@1] Both resisted arrest, and the woman received care at a health unit
+woman. [@1,3] Both resisted arrest, and the woman received care at a health unit
 before she and her partner were taken to the police station with the seized
 materials. [@1]
 
 The operation took place in the São Judas Tadeu neighbourhood to check reports
 that the apartment was storing drugs. [@1] Officers found the drugs in a
-scrapyard next to the building. [@1] Police said the couple had thrown the
+scrapyard next to the building. [@1,3] Police said the couple had thrown the
 maconha bars from the balcony to hide them, and sniffer dogs Brasão and Rakissa
-helped find the drugs in the lot beside the building. [@1] Alongside the 19
+helped find the drugs in the lot beside the building. [@1,3] Alongside the 19
 maconha tablets, officers seized a precision scale and two mobile phones. [@1]
 
 During patrols in São Judas Tadeu, officers were told that members of the
 criminal organisation were storing drugs in an apartment on Rua José Paulino
 Sobrinho. [@2] The couple responsible for the apartment were arrested in
-flagrante for drug trafficking. [@2] After resisting the approach, the suspects
+flagrante for drug trafficking. [@2,4] After resisting the approach, the suspects
 were detained and taken to a Civil Police station. [@2] The second account
 described the apartment as a “guarda-roupa”, a stash house, for the faction.
 [@2]
 
+The occurrence was recorded at about 18h25. [@3] The two seized phones were described as a blue Samsung and a white iPhone. [@3] A team from Ronda Ostensiva com Cães (Rocca) was called in to help with the searches. [@3]
