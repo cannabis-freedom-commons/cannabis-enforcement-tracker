@@ -12,7 +12,8 @@
 .media-grid[hidden], .media-tile[hidden] { display: none; }
 .media-open { display: block; width: 100%; padding: 0; border: 0; border-radius: 8px; overflow: hidden; background: var(--border); cursor: zoom-in; }
 .media-open img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; transition: transform .2s; }
-.media-grid[data-count="1"] .media-open img { aspect-ratio: auto; max-height: 420px; }
+/* one photo: its own shape, known before it loads (--ar from the media manifest, else from the image) */
+.media-grid[data-count="1"] .media-open img { aspect-ratio: var(--ar, auto); max-height: 420px; }
 .media-open:hover img, .media-open:focus-visible img { transform: scale(1.03); }
 .media-tile-video { grid-column: span 2; }
 .media-grid[data-count="1"] .media-tile-video { grid-column: auto; }
