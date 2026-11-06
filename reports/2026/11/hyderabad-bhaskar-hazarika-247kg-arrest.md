@@ -20,6 +20,11 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/telangana/amntkz/article71669600.ece/alternates/FREE_1200/WhatsApp%20Image%202026-11-05%20at%2015.43.12.jpeg
     publisher: The Hindu
     caption: 'Bhaskar Hazarika and four associates with the seized 24.7 kg of marijuana. Photo: By Arrangement.'
+  - kind: photo
+    url: https://timesofindia.indiatimes.com/city/hyderabad/after-evading-police-for-nearly-two-months-kingpin-of-interstate-ganja-trafficking-network-arrested-in-hyderabad/articleshow/135584147.cms
+    media_url: https://static.toiimg.com/thumb/msid-135584146,imgsize-181708,width-400,height-225,resizemode-75/15e8c1d9-fabb-4262-be16-7c98eee1ea2bjpg.jpg
+    publisher: The Times of India
+    caption: 'The accused along with the seized ganja. Photo: The Times of India.'
 details:
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
@@ -57,6 +62,11 @@ sources:
     publisher: HMTV
     date: 2026-11-05
     language: te
+  - title: After evading police for nearly two months, kingpin of interstate ganja trafficking network arrested in Hyderabad
+    url: https://timesofindia.indiatimes.com/city/hyderabad/after-evading-police-for-nearly-two-months-kingpin-of-interstate-ganja-trafficking-network-arrested-in-hyderabad/articleshow/135584147.cms
+    publisher: The Times of India
+    date: 2026-11-05
+    language: en
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -80,12 +90,16 @@ open_questions:
   - HMTV says the business was worth about Rs 1.8 crore in the last ten months and that about 400 kg of ganja was brought into the city; it does not describe the Rs 1.8 crore as a valuation of the 10-month supply.
   - HMTV refers to Rachakonda police alongside the EAGLE Force, while the existing report names EAGLE Force and Choutuppal Police; the relationship between the two police units is not explained.
   - HMTV's only image is captioned just "Hyderabad" and cannot be confirmed to show this case, so no media entry is added.
+  - The Times of India says the five were arrested on Wednesday night; published on Thursday 5 November 2026, that is 4 November, while the existing report uses 5 November because earlier accounts gave no separate raid date.
+  - This account gives 20.3 kg for the 27 August car interception; an earlier open question noted a 20.36 kg figure whose quotation was not found.
+  - This account spells the employer Bikas Barik; an earlier open question referred to Bikash Barik.
+  - This account says Hazarika was previously arrested in three NDPS cases in Cyberabad in 2024, while the existing report names Madapoor and Gachibowli police stations for those 2024 cases.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -100,7 +114,7 @@ monthly over ten months to around 100 regular customers in Cyberabad. [@1]
 Bank transaction analysis showed Hazarika bought marijuana worth ₹48 lakh from
 Ashish Kumar in 88 transactions between 2 February and 29 October 2026. [@1] The
 reported purchase price was ₹12,000 to ₹15,000 per kilogram, while the gang sold
-the drug for around ₹50,000 per kilogram. [@1,3,4] Investigators estimated about 400
+the drug for around ₹50,000 per kilogram. [@1,3,4,6] Investigators estimated about 400
 kg moved through the supply chain, generating sales of nearly ₹1.8 crore in ten
 months. [@1,3] Police said Hazarika had other sources of supply. [@1]
 
@@ -109,3 +123,5 @@ Police said three ganja cases had been registered against Hazarika in 2024, two 
 Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
 
 Police traced more than Rs 48 lakh in online payments made in 88 instalments to Odisha supplier Ashish Kumar. [@5]
+
+Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
