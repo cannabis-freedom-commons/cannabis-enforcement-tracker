@@ -16,7 +16,7 @@ figures:
   charged: 1
   kg_seized: 22.226
 details:
-  agencies: [hk-customs, "Royal Barbados Police Drug Squad"]
+  agencies: ["Customs and Excise Department", "Royal Barbados Police Drug Squad"]
   agency_types: [customs, police]
   products:
     - {product: flower, kg: 22.226}

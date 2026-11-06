@@ -14,7 +14,7 @@ summary: >-
 figures:
   arrested: 1515
 details:
-  agencies: [mx-gn]
+  agencies: ["National Guard"]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
