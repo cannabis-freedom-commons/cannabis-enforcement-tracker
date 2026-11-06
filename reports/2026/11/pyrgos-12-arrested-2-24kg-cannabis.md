@@ -59,6 +59,11 @@ sources:
     publisher: PatraPress.gr
     date: 2026-11-05
     language: el
+  - title: 'Ηλεία: 12 συλλήψεις σε αστυνομική επιχείρηση στον Πύργο – Κατασχέθηκαν πάνω από 2 κιλά κάνναβης'
+    url: https://pelop.gr/ileia-12-syllipseis-se-astynomiki-epicheirisi-ston-pyrgo-kataschethikan-pano-apo-2-kila-kannavis/
+    publisher: pelop.gr
+    date: 2026-11-05
+    language: el
 open_questions:
   - The operation is described only as taking place on Thursday morning; 5 November 2026 is used as the incident date from the same-day publications.
   - No names, ages or nationalities of the 12 detained people were published.
@@ -67,20 +72,21 @@ open_questions:
   - The Newsbomb page photo shows generic police patrol cars and the dete.gr and neologostonpatron.gr images do not establish that they show this seizure, so no media entry is included.
   - The Newsbomb page also links a separate Ilia greenhouse case with 102 plants and 50 kg, a different event left out here.
   - The page photo caption alone does not establish that it shows this seizure, so no media entry is included.
+  - The pelop.gr page image caption repeats the headline and alone does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Police arrested 12 people in Pyrgos, Elis on the morning of 5 November 2026
-during a targeted crime-prevention operation. [@1,4] Of the 12 detained, one man
-faces violations of drug legislation. [@1] Five other detainees were held for
-electricity theft and six for health-regulation violations. [@1] All those
+during a targeted crime-prevention operation. [@1,4,5] Of the 12 detained, one man
+faces violations of drug legislation. [@1,5] Five other detainees were held for
+electricity theft and six for health-regulation violations. [@1,5] All those
 arrested were expected to be led before the Ilia Court of First Instance
-prosecutor for the prescribed procedure. [@1,4]
+prosecutor for the prescribed procedure. [@1,4,5]
 
 Officers found 2 kilos and 240 grams of cannabis and two harvested cannabis
-seedlings in the drug suspect's possession. [@1,4] A second account describes the
+seedlings in the drug suspect's possession. [@1,4,5] A second account describes the
 same drug case as a man arrested for possession after officers seized 2 kilos
 and 240 grams of cannabis and two harvested seedlings. [@3] Officers checked 85
-people and 37 vehicles and searched seven houses. [@1] Officers also brought 15
+people and 37 vehicles and searched seven houses. [@1,5] Officers also brought 15
 people to the competent police services for further checks. [@1,4] Officers also
 recorded 12 violations of the Highway Code during the same operation. [@1,4]
 
