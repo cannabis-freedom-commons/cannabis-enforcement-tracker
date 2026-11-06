@@ -67,6 +67,10 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-05
     language: uk
+  - title: Police Detain 26 Suspects in Nationwide Operation ‘Plegma’ Targeting Drug Networks
+    url: https://www.kiprinform.com/en/news/police-detain-26-suspects-in-nationwide-operation-plegma-targeting-drug-networks/
+    publisher: Cyprus Inform
+    date: 2026-11-05
 open_questions:
   - The 171.5 kg total is the sum of 167 kg of cannabis and 4.5 kg of cannabis resin reported from the February phase of the same case; the small cannabis quantities seized on 5 November were not quantified and are not included.
   - The 62 kg of cocaine reported alongside the cannabis is mentioned only for context and is excluded from cannabis figures, as is any combined drug total.
@@ -83,6 +87,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Cyprus Inform: Working with Mokas, the anti-money-laundering unit, police obtained court orders freezing assets tied to the investigation.'
   - The Cyprus Mail account does not clarify whether the five inmates it mentions were included among the 26 people arrested during Operation Plegma.
   - Pilenews describes the second firearm as a shotgun, while KNEWS calls it a hunting rifle; the conflicting descriptions are unresolved.
+  - The submitted page does not name the police rapid reaction unit (Mmad) in full.
+  - This account gives no weight for the cannabis and cocaine seized on 5 November, only that the amounts were small.
 ---
 
 Police arrested 26 people on Thursday in the operation codenamed Plegma to crack
@@ -115,3 +121,5 @@ One of the two people in the car stopped in Nicosia on 19 February was found car
 Two cannabis grinders and two partially smoked cannabis cigarettes were among the items seized. [@6]
 
 Police sources said four of those arrested have been re-arrested and five others are inmates. [@10] Police executed court arrest warrants for all 26 people in the operation. [@5] Officers seized 13 cartridges of various calibres and 534 shotgun cartridges. [@5]
+
+The operations were led by the newly created directorate for combating organised crime. [@12]
