@@ -59,6 +59,11 @@ sources:
     publisher: Crna Gora vijesti
     date: 2026-11-05
     language: sr
+  - title: Uhapšen državljanin Turske, pronađena marihuana i kokain za uličnu prodaju
+    url: https://kolektiv.me/308261/uhapsen-drzavljanin-turske-pronadjena-marihuana-i-kokain-za-ulicnu-prodaju
+    publisher: Kolektiv.me
+    date: 2026-11-05
+    language: sr
 open_questions:
   - No separate date for the search was published; 5 November 2026 is the publication date of all three accounts and is used as the incident date.
   - About 50 grams of cocaine and 238 Lyrica tablets were also seized but are not counted in the cannabis figure; combined drug weights are not used.
@@ -70,6 +75,8 @@ open_questions:
   - IN4S repeats the police's approximate 'almost two kilograms of marijuana' wording, which the report's cited figures and the 1,830-gram breakdown already replace.
   - The cocaine and Lyrica tablets on the IN4S page are not cannabis and are not counted as cannabis figures.
   - IN4S credits its single photograph only to the Police Directorate and gives no further caption, so it cannot be shown to differ from the images already linked on the report.
+  - The Kolektiv.me and RTCG pages give no separate date for the search; both were published on 5 November 2026, the date the report already uses.
+  - RTCG reproduces the Police Directorate statement in full and adds no facts beyond it.
 ---
 
 Podgorica police arrested 42-year-old Turkish citizen E.T. after searching his
@@ -96,3 +103,5 @@ The operation was part of continued action against street-level drug dealing in
 the capital, in coordination with the Higher State Prosecutor's Office in
 Podgorica. [@2,4,5] The detention was ordered because of a flight risk since he is a
 foreign citizen. [@3]
+
+Police said the apartment search in Zabjelo was carried out in coordination with the Higher State Prosecutor's Office in Podgorica. [@7]
