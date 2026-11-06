@@ -43,6 +43,11 @@ sources:
     url: https://insightcrime.org/news/what-a-drug-bust-involving-a-mrbeast-winner-says-about-latams-marijuana-trade/
     publisher: InSight Crime
     date: 2026-06-10
+  - title: Ganó un jet privado en un concurso de MrBeast y fue detenido en Paraguay con 261 kilos de marihuana
+    url: https://www.infobae.com/america/mundo/2026/06/03/gano-un-jet-privado-en-un-concurso-de-mrbeast-y-fue-detenido-en-paraguay-con-261-kilos-de-marihuana/
+    publisher: Infobae
+    date: 2026-06-03
+    language: es
 open_questions:
   - Only InSight Crime's Spanish account and its English edition could be opened; no separate SENAD or prosecutor's statement was opened directly.
   - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
@@ -51,12 +56,17 @@ open_questions:
   - Panama's investigation into the aircraft's stopover was still under way with no outcome reported.
   - The US$3.6 million is the authorities' estimated value for the Brazilian market, not an independently verified market value.
   - 'Left out, as its quotation was not found in InSight Crime: The English edition confirms that Paraguayan authorities found 261.6 kilograms of marijuana with high-THC content valued at $3.6 million being unloaded from the private jet at Asuncion''s Silvio Pettirosi International Airport on May 29.'
+  - Infobae reports the load as 262.6 kg in the EFE-based account and more than 261 kilos in its lead; the report keeps 261.6 kg from InSight Crime, so the conflicting weight is not added as a figure.
+  - Infobae, citing EFE, says the aircraft landed on Friday and the seizure was on Saturday, while the report dates the discovery to 29 May; the calendar day of the seizure is not reconciled.
+  - Infobae attributes Brown's release to the prosecutor's finding that there were no grounds to suspect him, and gives his age as 21; the report says he was 20 and that a SENAD representative said investigators found no evidence he knew about the drugs.
+  - Infobae says Keith Siilats was not charged and left Paraguay on a commercial flight before the operation; the report records an arrest warrant against him, and that difference is unresolved.
+  - The new names, detention order and charter payment rest on Infobae's summary of EFE, AP and ABC; no SENAD, prosecutor or court document was opened directly.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
 Treezy, was among those detained after the seizure after rising to fame by
 winning a viral MrBeast challenge in late 2025. [@1] Three United States
-citizens who travelled aboard the jet remain in Paraguayan custody. [@1]
+citizens who travelled aboard the jet remain in Paraguayan custody. [@1,3]
 Authorities identified the second pilot and registered owner of the jet as
 Estonian citizen Keith Siilats and issued an arrest warrant against him for
 international drug trafficking and unauthorized possession of narcotics. [@1]
@@ -64,13 +74,13 @@ Siilats, who left Paraguay before the operation, told InSight Crime he had no
 knowledge of the marijuana on board and plans to cooperate fully with Paraguayan
 authorities. [@1] Brown was briefly detained after the seizure but was released
 on 31 May after investigators found no evidence he knew about the drugs,
-according to a SENAD representative. [@1]
+according to a SENAD representative. [@1,3]
 
 Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
 International Airport in Asuncion on 29 May. [@1] The aircraft had departed
 Miami, stopped in Panama and then arrived in Paraguay, and investigators believe
-the marijuana was destined for Brazil. [@1] Paraguayan anti-drug prosecutor
+the marijuana was destined for Brazil. [@1,3] Paraguayan anti-drug prosecutor
 Ingrid Cubilla said the estimated value reflected demand in Brazil, where each
 kilogram can reach nearly US$14,000 on the illicit market. [@1]
 
@@ -80,3 +90,4 @@ executive aircraft was unusual among seizures recorded in the country. [@1] The
 English edition confirms that Brown was released on May 31, according to a
 representative of Paraguay's drug enforcement agency. [@2]
 
+A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3]
