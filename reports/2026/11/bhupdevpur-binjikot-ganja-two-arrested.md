@@ -69,28 +69,42 @@ sources:
     publisher: Kelo Pravah
     date: 2026-11-06
     language: hi
+  - title: 4.110 किलो गांजे के साथ दो आरोपित गिरफ्तार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/6/TWO-ACCUSED-ARRESTED-WITH-4110-KG-GANJA.php
+    publisher: हिन्दुस्थान समाचार (Hindusthan Samachar)
+    date: 2026-11-06
+    language: hi
+  - title: 'CG NEWS : ऑपरेशन आघात के तहत गांजा तस्करी का भंडाफोड़, 4.110 किलो गांजा के साथ दो आरोपी गिरफ्तार'
+    url: https://grandnews.in/2026/11/06/cg-news-cannabis-smuggling-racket-busted/
+    publisher: Grand News
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports give no separate date for the interception and arrests; 6 November 2026 is their publication dateline and is used as the incident date.
   - The district reports do not say where Binjkot or Darramuda villages lie within Raigarh district, so the coordinates are for Raigarh town and the precision is district.
   - No court date or outcome beyond the judicial remand was reported.
   - The 60,000-rupee figure is the investigating police's estimated value, not a market valuation.
   - The page's lead photograph is captioned only that two accused were arrested with 60,000 rupees of ganja, with no credit and no visible description of the packets, so it could not be confirmed to show this seizure.
+  - Neither new account gives a separate bag count or further cash beyond the four packets and 500 rupees already described.
+  - Grand News names only Kumhar and does not give the NDPS sections or crime number, and its text closely follows the same police handout as other outlets, so it is not an independent account.
+  - The Grand News page's only news image is uncaptioned and uncredited and is not shown to depict this seizure, so no media entry is supported from it.
+  - Hindusthan Samachar does not say where Binjkot or Darramuda lie within Raigarh district, so the coordinates stay at the district centre.
 ---
 
 Bhupdevpur police arrested Dhaneshwar Kumhar, 62, of Binjkot Kumhardipa and
 Thakur Prasad Patel, 39, of Darramuda village after a tip-off about ganja being
 carried through Binjkot in Raigarh district, Chhattisgarh. [@1] Officers found
 four packets of ganja wrapped in khaki tape in the plastic bag Kumhar was
-carrying on foot from Binjkot towards Darramuda. [@1] The ganja weighed 4.110
-kg, which police estimated was worth about 60,000 rupees. [@1]
+carrying on foot from Binjkot towards Darramuda. [@1,4] The ganja weighed 4.110
+kg, which police estimated was worth about 60,000 rupees. [@1,4]
 
 Kumhar admitted in questioning that he had kept the ganja for sale. [@1]
 Questioning of Kumhar pointed to Patel as helping buy and sell the ganja, and
 Patel confessed when officers detained and questioned him. [@1] Police also
-recovered and seized 500 rupees in ganja-sale proceeds from Patel. [@1] Both men
+recovered and seized 500 rupees in ganja-sale proceeds from Patel. [@1,4] Both men
 were booked at Bhupdevpur police station in crime number 141/2026 under sections
 20(b) and 29 of the NDPS Act, India's narcotics law, and sent to judicial
-remand, custody while the case continues. [@1]
+remand, custody while the case continues. [@1,5]
 
 Nai Dunia reported the same Bhupdevpur case in Binjkot, describing two smugglers
 arrested with more than 4 kg of ganja. [@2] Kelo Pravah carried the same
@@ -99,7 +113,8 @@ and 29 and sent to judicial remand. [@3] The arrest came under Operation Aghaat,
 a special drive ordered by Raigarh superintendent of police Shashi Mohan Singh
 against the illegal drug trade. [@1] Inspector Roshan Kumar Kaushik, the
 Bhupdevpur station house officer, led the team with trainee sub-inspector
-Praveen Kumar Bandhav. [@1] Police said they were still looking for others
+Praveen Kumar Bandhav. [@1,5] Police said they were still looking for others
 linked to the ganja trade, under the guidance of Kharsia sub-divisional police
 officer Satish Bhargav and deputy superintendent Uttam Pratap Singh. [@1]
 
+Hindusthan Samachar reported that Bhupdevpur police made the arrests in Binjkot village on Friday 6 November 2026. [@4]
