@@ -59,6 +59,11 @@ sources:
     publisher: Senegal Direct
     date: 2026-11-04
     language: fr
+  - title: 'Maroc-Sénégal : du haschisch caché dans des chaussures, deux arrestations à Pikine et Soprim Extension'
+    url: https://senego.com/maroc-senegal-du-haschisch-cache-dans-des-chaussures-deux-arrestations-a-pikine-et-soprim-extension_2020841.html
+    publisher: Senego
+    date: 2026-11-05
+    language: fr
 open_questions:
   - No weight for the hashish was published, only counts of eight pellets, 32 balls and one additional ball, so no kilogram figure can be recorded.
   - The two packs of Alprazolam are a non-cannabis substance and are excluded from cannabis figures.
@@ -66,27 +71,33 @@ open_questions:
   - The identity of the final recipient was not published and that person was still being sought.
   - The linked mention of a separate seizure of 180 kg of hashish in Morocco is a different event and is left out of this report.
   - The parcel was flagged on 31 October and the arrests were reported on 1 November; the incident date uses the arrest date.
+  - One account puts the Moroccan seizure that preceded the woman's arrest at 500 grams, whereas the earlier reports describe the Casablanca consignment as 32 balls inside four shoes without giving its weight; the 500 grams are treated separately.
+  - The 500 grams of hashish were seized in Casablanca, not in Senegal, and are not recorded as a Senegalese seizure.
+  - The report's summary still says the final recipient was being sought; this account describes the woman as the parcel's addressee, and the relationship between the two is not resolved.
+  - The outcome of the custody and any charges after the prosecutor was notified are not reported.
 ---
 
 Two people were arrested in Dakar in an operation by Ocrtis, the anti-drug
 office, against a suspected hashish-trafficking network between Casablanca and
-Dakar. [@1,4] The first person arrested was M. M. Mbacké, aged 25, who described
+Dakar. [@1,4,7] The first person arrested was M. M. Mbacké, aged 25, who described
 himself as a livestock breeder living at HLM 5. [@1,4,5] A second outlet fully names
 him as Mouhamadou Mourtalla Mbacké and dates his interception to 1 November.
 [@2] The second person arrested was R. Kane, aged 28, who described herself as a
-sales agent and was detained at Soprim Extension. [@1,4,5] A second outlet fully
+sales agent and was detained at Soprim Extension. [@1,4,5,7] A second outlet fully
 names her as Rokhaya Kane and says she was intercepted the same day. [@2]
 Questioned about the seized goods, Kane acknowledged acting as an intermediary
 and gave investigators the identity of the consignment's final recipient, who
 was still being actively sought. [@1,3,4,6]
 
 Officers found eight pellets of hashish, made up of 32 balls, carefully hidden
-in the soles of shoes carried in a parcel. [@1,4,5] A search of Mbacké's home
+in the soles of shoes carried in a parcel. [@1,4,5,7] A search of Mbacké's home
 recovered one more ball of hashish along with two started packs of Alprazolam,
-which is not counted as cannabis. [@1,4,5]
+which is not counted as cannabis. [@1,4,5,7]
 
 On 31 October a Senegalese GP, a parcel courier shuttling between the two
 cities, alerted police after noticing a strong suspect smell coming from shoes
-inside a parcel. [@1,4,6] The drugs were first handed to the Moroccan police. [@1,3,4,5,6]
+inside a parcel. [@1,4,6,7] The drugs were first handed to the Moroccan police. [@1,3,4,5,6]
 Ocrtis then set up a controlled delivery with the goods substituted in order to
 identify the people involved in the circuit. [@1,3,4,5,6]
+
+The woman had commissioned a parcel courier to collect the parcel at Parcelles Assainies Unité 08 at about 20:00, and officers carrying out a watched delivery then identified and arrested her. [@7] The man was arrested near the Zinc market in Pikine at about 19:00 on 1 November 2026 as he was about to collect the parcel. [@7] He was placed in custody for criminal association, international hashish trafficking and money laundering. [@7] The woman's arrest followed a related seizure in Casablanca of eight 100-gram hashish slabs and nine hashish balls hidden in a pair of shoes, 500 grams in all. [@7] A search of her home at Soprim Extension found three pairs of shoes identical to the one used to hide the hashish seized in Morocco. [@7]
