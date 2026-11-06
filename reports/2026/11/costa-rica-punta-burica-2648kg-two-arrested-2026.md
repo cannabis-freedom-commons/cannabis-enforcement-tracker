@@ -55,6 +55,15 @@ sources:
     publisher: NCR Noticias
     date: 2026-11-04
     language: es
+  - title: Kilos of Marijuana Seized Off Costa Rica’s Border With Panama
+    url: https://ticotimes.net/2026/11/05/costa-rica-marijuana-seizure-punta-burica-dea
+    publisher: The Tico Times
+    date: 2026-11-05
+  - title: Paquetes de droga incautados en una lancha traían la imagen de un reconocido narco
+    url: https://www.diarioextra.com/noticia/paquetes-de-droga-incautados-en-una-lancha-traian-la-imagen-de-un-reconocido-narco/
+    publisher: Diario Extra
+    date: 2026-11-05
+    language: es
 open_questions:
   - No charges, preventive-detention ruling or court outcome were reported; the Public Ministry was still deciding the men's legal situation.
   - The weight is an estimate based on packages of about one kilogram each, not a published weighing result.
@@ -64,25 +73,26 @@ open_questions:
   - Coordinates are for Golfito, where the boat and men were landed, not the interception point 52 nautical miles offshore.
   - No photo of the two detainees or of the seized packages on land could be matched to this event from the opened pages.
   - 'Left out, as its quotation was not found in Diario Extra: They also found 11 fuel drums and other items recorded in the investigation.'
+  - The Caro Quintero name and Colombian-flag marking are packaging marks reported by Diario Extra; no authority has said the shipment belongs to any group linked to him.
 ---
 
 Costa Rica's National Coast Guard detained two Ecuadorian men aboard a 38-foot
 go-fast boat in the Pacific south of Punta Burica. [@1] The security ministry
 identified the men only by the surnames Trejos Domínguez, 25, who appeared to be
-the boat's captain, and Flores Bawi, 49, the second crewman. [@2]
+the boat's captain, and Flores Bawi, 49, the second crewman. [@2,4]
 
 Officers of the National Coast Guard's Special Operations Group intercepted the
 boat at about 52 nautical miles south-east of Punta Burica, near the Costa
-Rica–Panama maritime border. [@1] The operation began on Tuesday 3 November and
+Rica–Panama maritime border. [@1,4] The operation began on Tuesday 3 November and
 ended on Wednesday 4 November 2026. [@1] Coast guard officers took the boat to
 Golfito, in Puntarenas province, where drug police inspected the cargo under the
-Public Ministry's coordination. [@1]
+Public Ministry's coordination. [@1,4]
 
 Officers seized 2,648 packages of marijuana, each weighing about one kilogram,
 an estimated 2,648 kilograms in all. [@1]
 
 The two men were placed at the disposal of the Public Ministry, which decides
-their legal situation. [@2] The operation was coordinated with the US Drug
+their legal situation. [@2,4] The operation was coordinated with the US Drug
 Enforcement Administration and drew aerial support from Panama's National
 Aeronaval Service intelligence directorate and the US Joint Interagency Task
 Force South, along with Costa Rica's drug police, Special Support Unit and
@@ -90,3 +100,4 @@ criminal intelligence directorate. [@1] NCR Noticias reported that the
 authorities had not published an official monetary valuation of the marijuana or
 determined where the boat sailed from and where it was headed. [@3]
 
+The seized marijuana was packed in a rectangular block with Colombia's flag and the legend “Made in Colombia. Lo mejor de Caro Quintero”. [@5] The seized packages bore the image and reference to Mexican trafficker Rafael Caro Quintero. [@5]
