@@ -39,17 +39,24 @@ sources:
     publisher: Infobae
     date: 2026-08-01
     language: es
+  - title: Desarticulan red internacional de narcotráfico en El Salvador con vínculos en Guatemala
+    url: https://www.infobae.com/el-salvador/2026/02/13/desarticulan-red-internacional-de-narcotrafico-en-el-salvador-con-vinculos-en-guatemala/
+    publisher: Infobae
+    date: 2026-02-13
+    language: es
 open_questions:
   - No weight or separate quantity for the seized marijuana was published, so no kilograms can be recorded.
   - The $20,000 in cash, vehicles, devices and documents are combined operation totals not specific to cannabis, so they are not recorded as cannabis value.
   - No charge filing, custody ruling or court outcome beyond the announced accusations has been reported.
   - No city or department for the raids was published, so the place is recorded at country level.
   - Only one source for this event could be opened; no second account confirming or adding facts was found.
+  - Infobae dates Zuleta's killing in Guatemala to October 2024, while the report's La Prensa Gráfica source said December 2024; no other account resolved the discrepancy.
+  - Infobae's charge list for the detainees includes improper bribery (cohecho impropio) among the offences, which the report's earlier account did not list.
 ---
 
 The Attorney General's Office and the National Civil Police detained 10 people
 in an early-morning operation on 13 February 2026 accused of forming an alleged
-drug-trafficking structure operating internationally from El Salvador. [@1] The
+drug-trafficking structure operating internationally from El Salvador. [@1,3] The
 detainees were identified as Andrea Santamaría, Raquel Mejía, Jonathan
 Marroquín, Verónica Santamaría, Glenda Romero, José Rivera, Joel Rojas, Pedro
 López, José Ávila and Élmer Peñate. [@1] Among those detained were a doctor and
@@ -59,7 +66,7 @@ of illicit trafficking, cooperation in drug trafficking, illicit association,
 active bribery and improper bribery. [@1]
 
 Officers carried out several raids that seized methamphetamine, cocaine,
-marijuana, a drug known as tusi and 108 boxes of controlled medicine. [@1,2]
+marijuana, a drug known as tusi and 108 boxes of controlled medicine. [@1,2,3]
 Officers also seized vehicles, electronic devices, documents and $20,000 in cash
 during the operation. [@1]
 
@@ -68,3 +75,5 @@ and trafficked was Guatemalan Luis Alfredo Zuleta, who was killed in Guatemala
 in December 2024 in suspected gang disputes. [@1] Prosecutors said Zuleta
 coordinated drug entry with another structure leader, William Leiva Hernández,
 who is serving a prison sentence for illicit trafficking. [@1]
+
+The investigation identified the network as operating in various countries, with the participation of Guatemalan citizen Luis Alfredo Zuleta, who was coordinating the entry of drugs into El Salvador. [@3] Officers also seized electronic devices and documentation useful to the investigation. [@3]
