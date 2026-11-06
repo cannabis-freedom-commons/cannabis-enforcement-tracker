@@ -109,6 +109,10 @@ sources:
     url: https://newsmeter.in/hyderabad/security-guard-to-18-cr-drug-lord-how-bhaskar-hazarika-built-ganja-empire-in-hyderabad-778821
     publisher: NewsMeter
     date: 2026-11-06
+  - title: Guard-turned drug kingpin arrested in Hyderabad
+    url: https://www.newindianexpress.com/cities/hyderabad/2026/Nov/06/guard-turned-drug-kingpin-arrested-in-hyderabad
+    publisher: The New Indian Express
+    date: 2026-11-06
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -162,9 +166,15 @@ open_questions:
   - NewsMeter names the Odisha supplier only Ashish Kumar and quotes purchase prices of ₹12,000 to ₹15,000 per kg and sales at around ₹50,000 per kg, without distinguishing the several Odisha suppliers named in other accounts.
   - NewsMeter says Hazarika's latest five-man arrest came after investigators tracked two couriers visiting his residence, while The Times of India account already cited describes a night raid on a house at Prem Nagar; the two descriptions of the arrest location are not reconciled.
   - The page carries three WhatsApp-sourced images captioned only with the headline or not at all, which cannot be confirmed to show this seizure, so no media entry is added.
+  - The New Indian Express gives no date for the five arrests beyond saying they were on Wednesday and reported on Thursday; 5 November 2026, the report's existing incident date, is consistent but not stated.
+  - The New Indian Express says Hazarika was arrested twice by Madhapur police and once by Gachibowli police in 2024 and released in March 2024, while the report's other accounts describe arrests in January and March 2024 and a release on bail; the release date is not reconciled.
+  - The New Indian Express spells the Odisha supplier Ashish Kumar Baliarsingh and names Bikas Barik as a supplier, where other accounts give Ashish Kumar, Ashok Kumar Baliyarsingh and other suppliers.
+  - The New Indian Express gives 20.36 kg for the 27 August interception, while the report's Times of India account gives 20.3 kg.
+  - The page's only image is credited to IANS and captioned with excerpts of the article text, so it cannot be confirmed to show this seizure; no media entry was added.
+  - The page also carries a separate Maheshwaram forfeiture item; that case is recorded in its own report and is left out here.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10,12,13,14] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
 24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] The five arrested were
@@ -192,7 +202,7 @@ Police registered a case over the seizure at the Cyberabad Narcotics Police Stat
 
 Police traced more than Rs 48 lakh in online payments made in 88 instalments to Odisha supplier Ashish Kumar. [@5]
 
-Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6,7] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
+Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6,7] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6,15] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
 
 Hazarika had previously been caught in three ganja cases and was released on bail in each, but continued the trade. [@7] Two couriers first held by Choutuppal police, when questioned, led special teams to the gang's Hyderabad operation. [@7]
 
@@ -207,3 +217,5 @@ EAGLE formed a Special Task Force to search for Hazarika after arresting Vikas B
 V6 Velugu reported that Hazarika had earlier worked in Hyderabad as a security guard and a delivery boy. [@13] V6 Velugu reported that after a jail term Hazarika returned to his home village and expanded his network. [@13]
 
 NewsMeter reported that Hazarika was arrested in three separate NDPS cases registered at Madhapur and Gachibowli police stations in January and March 2024, involving seizures of 1.96 kg, 1.3 kg and 700 grams of ganja. [@14]
+
+Police said the probe began on 27 August, when the EAGLE Force and Choutuppal police seized 20.36 kg of ganja from a car and arrested two Odisha natives who named Barik and Hazarika. [@15] Hazarika returned to Hyderabad in late 2017, worked with Swiggy and Zomato and later resumed security work. [@15] He resumed operations in Hyderabad in June 2025, sourcing ganja from Barik and two other Odisha-based suppliers through WhatsApp. [@15] After a month of surveillance, officers tracked two couriers carrying ganja into Hazarika's house on Wednesday, raided the premises and arrested five gang members, including the last absconding accused in the Choutuppal case. [@15]
