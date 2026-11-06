@@ -25,6 +25,11 @@ media:
     media_url: https://static.toiimg.com/thumb/msid-135584146,imgsize-181708,width-400,height-225,resizemode-75/15e8c1d9-fabb-4262-be16-7c98eee1ea2bjpg.jpg
     publisher: The Times of India
     caption: 'The accused along with the seized ganja. Photo: The Times of India.'
+  - kind: photo
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/eagle-force-and-choutuppal-police-bust-ganja-smuggling-gang-vk-1573658.html
+    media_url: https://media.andhrajyothy.com/media/2026/20260822/arrest_64661cf382_v_jpg.webp
+    publisher: Andhrajyothy
+    caption: 'Photo illustrating the arrest of the gang accused of running a ganja supply network in Hyderabad. Photo: Andhrajyothy'
 details:
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
@@ -72,6 +77,11 @@ sources:
     publisher: Disha Daily
     date: 2026-11-05
     language: te
+  - title: హైదరాబాద్‌లో గంజాయి సప్లై నెట్‌వర్క్ గుట్టురట్టు.. నిందితుల అరెస్ట్
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/eagle-force-and-choutuppal-police-bust-ganja-smuggling-gang-vk-1573658.html
+    publisher: Andhrajyothy
+    date: 2026-11-05
+    language: te
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -101,12 +111,14 @@ open_questions:
   - This account says Hazarika was previously arrested in three NDPS cases in Cyberabad in 2024, while the existing report names Madapoor and Gachibowli police stations for those 2024 cases.
   - Disha Daily spells the associates Babu Bora and Pranjal Datta, where the existing report uses Babu Borah and Pranajal Dutta.
   - The article gives no separate date for the raid; 5 November 2026 is its publication date.
+  - The page's only picture is captioned with the headline alone, so it cannot be confirmed to show this seizure.
+  - The page carries a separate Quthbullapur case in which Suraram police seized two cannabis plants from an open plot in Kaisar Nagar and arrested a 54-year-old welder; it is a different event and is left out of this report.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -123,9 +135,9 @@ Ashish Kumar in 88 transactions between 2 February and 29 October 2026. [@1] The
 reported purchase price was ₹12,000 to ₹15,000 per kilogram, while the gang sold
 the drug for around ₹50,000 per kilogram. [@1,3,4,6] Investigators estimated about 400
 kg moved through the supply chain, generating sales of nearly ₹1.8 crore in ten
-months. [@1,3] Police said Hazarika had other sources of supply. [@1]
+months. [@1,3,8] Police said Hazarika had other sources of supply. [@1]
 
-Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4]
+Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4,8]
 
 Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4,7] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
 
