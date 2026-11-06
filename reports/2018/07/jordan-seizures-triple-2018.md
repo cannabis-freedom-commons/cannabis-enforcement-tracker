@@ -10,6 +10,11 @@ summary: >-
   Cannabis seizures tripled from 444 kg to 1,478 kg between 2013 and 2018, a 233 percent increase
   that authorities read as a sign of increased national drug use.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
+
 status: verified
 cfi_id: jordan-seizures-triple-2018
 sources:

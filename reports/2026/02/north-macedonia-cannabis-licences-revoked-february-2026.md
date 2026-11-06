@@ -12,6 +12,13 @@ summary: >-
   checks across 43 licensed entities. It also promised stronger legislation after the inspections,
   rather than announcing that a new law was already in force.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [regulator]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+
 status: verified
 cfi_id: north-macedonia-cannabis-licences-revoked-february-2026
 sources:

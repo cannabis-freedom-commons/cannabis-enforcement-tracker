@@ -12,6 +12,11 @@ summary: >-
   people continuing. The figures concerned drug cases generally and were presented at the Nicosia
   court session.
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
+
 status: verified
 cfi_id: northern-cyprus-nicosia-treatment-figures-2025
 tags:

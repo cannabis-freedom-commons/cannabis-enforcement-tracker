@@ -11,6 +11,19 @@ summary: >-
   more than 8,000 operations against drug suspects in 2026 and arrested more than 10,000 people. He
   also claimed 4,300 operations to round up addicts and 12,500 operations to destroy poppy fields.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: flower}]
+  setting: [field]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+
 status: verified
 cfi_id: afghanistan-anti-drug-operations-2026
 sources:

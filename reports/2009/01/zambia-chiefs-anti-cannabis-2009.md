@@ -11,6 +11,15 @@ summary: >-
   crops instead of cannabis; chiefs reported growers to the agency. The campaign was an enforcement
   and crop-substitution effort, not a change in the law.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: flower}]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+
 status: verified
 cfi_id: zambia-chiefs-anti-cannabis-2009
 sources:

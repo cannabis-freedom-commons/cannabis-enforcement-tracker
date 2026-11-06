@@ -13,6 +13,13 @@ summary: >-
   involved heroin, not cannabis, and showed the border service's role in interdicting Afghan
   opiates.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
+
 status: verified
 cfi_id: turkmenistan-heroin-seizure-2025
 sources:

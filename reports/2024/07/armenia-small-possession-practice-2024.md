@@ -12,6 +12,13 @@ summary: >-
   fine instead. Drug crimes fell from 5,070 in 2023 to 3,639 in 2024, while administrative drug
   offences rose from 387 to 633.
 created_by_model: unknown
+details:
+  activity: [possession]
+  case_stage: sentenced
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+
 status: verified
 cfi_id: armenia-small-possession-practice-2024
 sources:

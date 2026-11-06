@@ -11,6 +11,15 @@ summary: >-
   from rice, beans, betel nut and cotton to cannabis since 2022–23. Residents estimated at least
   five acres per village and more than thirty acres across six villages.
 created_by_model: unknown
+details:
+  activity: [cultivation, smuggling]
+  products: [{product: flower}]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
+
 status: verified
 cfi_id: myanmar-sagaing-cannabis-boom-2025
 sources:

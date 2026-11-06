@@ -12,6 +12,11 @@ summary: >-
   sentences rose from 0.14% to 3.4% of sentences. The figures covered drug offences generally and
   followed the 2025 expansion of sentencing options.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1, 2]
+
 status: verified
 cfi_id: belarus-drug-sentence-report-2026
 tags:

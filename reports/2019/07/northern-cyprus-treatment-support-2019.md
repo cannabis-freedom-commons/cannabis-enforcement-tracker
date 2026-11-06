@@ -12,6 +12,13 @@ summary: >-
   gave no separate cannabis count. It documented the support work following the 2016 law’s
   treatment alternative to sentencing.
 created_by_model: unknown
+details:
+  activity: [use]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+
 status: verified
 cfi_id: northern-cyprus-treatment-support-2019
 tags:

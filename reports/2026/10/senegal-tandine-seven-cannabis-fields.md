@@ -13,6 +13,15 @@ summary: >-
   Senegal's armed forces said commando troops destroyed seven fields of chanvre indien on
   17 October 2026 in North Sindian, south-east of Tandine in Bignona department, as part
   of border security work in Casamance. No arrests were reported.
+details:
+  activity: [cultivation, smuggling]
+  setting: [field, border]
+  agency_types: [military]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
+
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [casamance, military, bignona]

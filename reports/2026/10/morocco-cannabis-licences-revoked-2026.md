@@ -13,6 +13,15 @@ summary: >-
   variety had been harvested, 60% of the area planted with it, by about 1,800 farmers in 154
   cooperatives.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: flower}]
+  agency_types: [regulator]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+
 status: verified
 cfi_id: morocco-cannabis-licences-revoked-2026
 sources:

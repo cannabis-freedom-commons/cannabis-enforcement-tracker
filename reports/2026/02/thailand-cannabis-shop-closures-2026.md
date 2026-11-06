@@ -12,6 +12,17 @@ summary: >-
   leaving 11,136 in business. The closures followed the June 2025 prescription rule and the
   requirement for trained staff and medical-style premises.
 created_by_model: unknown
+details:
+  activity: [sale]
+  products: [{product: flower}]
+  setting: [shop]
+  agency_types: [regulator]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
+
 status: verified
 cfi_id: thailand-cannabis-shop-closures-2026
 sources:

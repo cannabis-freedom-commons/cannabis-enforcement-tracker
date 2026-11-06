@@ -12,6 +12,15 @@ summary: >-
   of the accused were aged 18 to 30, 44 per cent were 31 to 44, and 15 per cent were women. The
   figures cover offences under Articles 20.7 and 20.8, not cannabis alone.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+  agency_types: [court, prosecutor]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+
 status: verified
 cfi_id: mongolia-drug-prosecutions-2026
 sources:

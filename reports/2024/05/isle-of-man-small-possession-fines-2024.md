@@ -11,6 +11,17 @@ summary: >-
   case shows that a small personal quantity can still lead to a court penalty alongside the island's
   referral options for eligible offenders.
 created_by_model: unknown
+details:
+  activity: [possession]
+  products: [{product: flower}]
+  agency_types: [court]
+  case_stage: sentenced
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+
 status: verified
 cfi_id: isle-of-man-small-possession-fines-2024
 sources:

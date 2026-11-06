@@ -17,7 +17,17 @@ summary: >-
 figures:
   arrested: 10
   kg_seized: 10.8
+details:
+  products: [{product: flower, kg: 10.8}]
+  setting: [street]
+  agency_types: [anti-narcotics, court]
+  case_stage: investigation
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: openai/gpt-6

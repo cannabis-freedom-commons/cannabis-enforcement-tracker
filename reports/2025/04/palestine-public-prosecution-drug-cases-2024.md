@@ -11,6 +11,11 @@ summary: >-
   drug cases and resolved 97% of them. The report covers the areas under PA jurisdiction; Gaza's
   courts were outside the PA system and largely closed by the war.
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
+
 status: verified
 cfi_id: palestine-public-prosecution-drug-cases-2024
 sources:
