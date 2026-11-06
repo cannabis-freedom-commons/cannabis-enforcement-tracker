@@ -60,10 +60,21 @@ sources:
     publisher: Polícia Federal
     date: 2026-11-05
     language: pt
+  - title: PM Rodoviária apreende 549 kg de maconha em carro abandonado em Ouroeste
+    url: https://portaldenoticias.policiamilitar.sp.gov.br/pm-rodoviaria-apreende-549-kg-de-maconha-em-carro-abandonado-em-ouroeste/
+    publisher: Portal de Notícias da PMESP
+    date: 2026-11-05
+    language: pt
+  - title: PM apreende 549 kg de maconha em Ouroeste
+    url: https://policialpadrao.com.br/apreende-549-kg-de-maconha-em-ouroeste-pm-acao-conjunta-rodovia-sp-463-sao/
+    publisher: Policial Padrão
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
   - The R$1 million figure is the authorities' estimated loss to organised crime, not a separate weighed valuation.
+  - The weight is published as 549 kg in the Policial Padrão and PMESP headlines and as 549.6 kg by the Federal Police, so the exact rounded count differs between accounts.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
@@ -84,3 +95,4 @@ responsibility for the car and the driver was not located. [@1] The vehicle and
 the drugs were taken to the Federal Police station in Jales, which continues to
 investigate to identify those responsible for the transport. [@2]
 
+The vehicle was a rented car, and the rental documents were left inside it. [@3] The car was found near kilometre 188 of the SP-463 highway in Ouroeste. [@4]
