@@ -11,7 +11,7 @@
 //   country: a country page's own country, fixed (no country choice)
 import { reports, reportsOf, years as allYears, isoDate } from "../lib/reports.js";
 import { TYPES, typeIcon } from "../lib/types.js";
-import { FIGURE_FILTERS, STATUSES } from "../lib/figure-filters.js";
+import { FIGURE_FILTERS, DETAIL_FILTERS, STATUSES } from "../lib/figure-filters.js";
 import CountryPicker from "./CountryPicker.astro";
 import Select from "./Select.astro";
 const { layout = "map", country = null } = Astro.props;
@@ -63,6 +63,7 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
     <div class="fig-choose"><span>Filter by</span>
       <Select id="fig-key" label="Filter by" value={FIGURE_FILTERS[0].key} groups={[
         { label: "Figures the report states", options: FIGURE_FILTERS.filter((f) => !f.report).map((f) => ({ value: f.key, label: f.label })) },
+        { label: "What the report records", options: DETAIL_FILTERS.map((f) => ({ value: `detail:${f.key}`, label: f.label })) },
         { label: "The report", options: [...FIGURE_FILTERS.filter((f) => f.report).map((f) => ({ value: f.key, label: f.label })), { value: "status", label: "Check status" }, { value: "photo", label: "Has a photo" }] },
       ]} />
     </div>
@@ -74,6 +75,11 @@ const first = list.map((r) => isoDate(r.date)).sort()[0] ?? "";
     <div class="fig-choose" id="fig-status-row" hidden><span>Status</span>
       <Select id="fig-status" label="Status" value="verified" options={STATUSES.map(([value, label]) => ({ value, label }))} />
     </div>
+    {DETAIL_FILTERS.map((f) => (
+      <div class="fig-choose" id={`fig-detail-${f.key}`} data-detail-row hidden><span>{f.label}</span>
+        <Select id={`fig-detail-value-${f.key}`} label={f.label} value={f.options[0][0]} options={f.options.map(([value, label]) => ({ value, label }))} />
+      </div>
+    ))}
     <button type="button" id="fig-apply">Add filter</button>
     <p class="custom-tip" id="fig-note">Only reports that state the figure are kept.</p>
   </div>

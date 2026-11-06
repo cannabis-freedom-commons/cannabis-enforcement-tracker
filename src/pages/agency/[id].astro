@@ -1,0 +1,29 @@
+---
+// One agency of the registry: the reports that name it, newest first.
+import Base from "../../layouts/Base.astro";
+import ReportItem from "../../components/ReportItem.astro";
+import agencies from "../../data/agencies.json";
+import vocabularies from "../../data/vocabularies.json";
+import { reportsOfAgency, totals } from "../../lib/reports.js";
+import { countryName, flagOf } from "../../lib/countries.js";
+import { formatWeight } from "../../lib/figures.js";
+
+export function getStaticPaths() {
+  return agencies.filter((a) => reportsOfAgency(a.id).length > 0).map((a) => ({ params: { id: a.id }, props: { agency: a } }));
+}
+const { agency } = Astro.props;
+const list = reportsOfAgency(agency.id);
+const t = totals(list);
+const base = import.meta.env.BASE_URL;
+const fmt = (n) => n.toLocaleString("en-GB");
+const typeLabel = vocabularies.agency_type.find((x) => x.id === agency.type)?.label ?? agency.type;
+const figures = [["People arrested", t.arrested], ["Plants destroyed", t.plants_destroyed], ["Cannabis seized", t.kg_seized, formatWeight(t.kg_seized, 6)]].filter(([, v]) => v > 0);
+---
+<Base title={agency.name} description={`${fmt(list.length)} cannabis enforcement reports naming ${agency.name}.`}>
+  <nav class="crumbs" aria-label="Breadcrumb"><a href={`${base}agency/`}>Agencies</a>{agency.country && <> / <a href={`${base}country/${agency.country}/`}>{countryName(agency.country)}</a></>}</nav>
+  <h1>{agency.name}</h1>
+  <p class="lead">{agency.country ? <>{flagOf(agency.country)} {countryName(agency.country)}</> : "International"} · {typeLabel} · {fmt(list.length)} {list.length === 1 ? "report" : "reports"}</p>
+  {figures.length > 0 && <dl class="figures">{figures.map(([label, value, shown]) => <div><dt>{label}</dt><dd>{shown ?? fmt(value)}</dd></div>)}</dl>}
+  <p class="muted">Totals of what these reports state; a report counts when a source it cites names the agency.</p>
+  <ul class="reports">{list.map((r) => <ReportItem r={r} />)}</ul>
+</Base>

@@ -13,6 +13,7 @@ import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
 import Cites from "../../components/Cites.astro";
+import { legalContext } from "../../lib/legal-context.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
 import { shortSubmission } from "../../lib/report-submission.js";
 import { mediaView } from "../../lib/media.js";
@@ -33,6 +34,9 @@ const cited = order.map((i) => r.sources[i - 1]);
 const cites = (field) => (r.data_sources?.[field] ?? []).map((n) => order.indexOf(n) + 1).filter((n) => n > 0).sort((a, b) => a - b);
 const base = import.meta.env.BASE_URL;
 const more = related(r);
+// the law at the time: the CFI score that year, the law changes before the event, reforms since
+const law = legalContext(r.country, r.date);
+const fmtChangeDate = (d) => d.length === 10 ? new Date(`${d}T00:00:00Z`).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) : d;
 // photos with a direct address are shown from the publisher's own server (never copied here, see
 // docs/WRITING.md §7); videos and photos without one stay links
 const shown = (r.media ?? []).map((m) => ({ ...m, view: mediaView(m) })).filter((m) => m.view);
@@ -191,6 +195,15 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
     <section>
       <h2>The law there</h2>
       <CfiWidget id={r.country} compact />
+      {(law.scoreThen != null || law.before.length > 0) && (
+        <div class="law-then">
+          <h3>At the time</h3>
+          {law.scoreThen != null && <p>CFI score in {law.year}: <b>{Math.round(law.scoreThen)}/100</b> ({law.tierThen}){law.scoreNow != null && Math.round(law.scoreNow) !== Math.round(law.scoreThen) && <>, now {law.scoreNow}/100</>}.</p>}
+          {law.recentReform && <p class="law-recent">The law had changed within the year before: <a href={law.recentReform.url} class="ext" target="_blank" rel="noopener">{law.recentReform.title}</a> ({fmtChangeDate(law.recentReform.date)}).</p>}
+          {law.before.length > 0 && <><p class="muted">CFI history before the event</p><ul class="law-changes">{law.before.map((c) => <li><time>{fmtChangeDate(c.date)}</time> <a href={c.url} class="ext" target="_blank" rel="noopener">{c.title}</a></li>)}</ul></>}
+          {law.after.length > 0 && <><p class="muted">Since then</p><ul class="law-changes">{law.after.map((c) => <li><time>{fmtChangeDate(c.date)}</time> <a href={c.url} class="ext" target="_blank" rel="noopener">{c.title}</a></li>)}</ul></>}
+        </div>
+      )}
       <p><a href={`${base}country/${r.country}/`}>All reports from {r.countryName} →</a></p>
     </section>
   </aside>

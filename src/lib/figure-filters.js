@@ -5,10 +5,16 @@
 // ?photo=1. A report that does not state a figure is left out while that figure is filtered.
 import rates from "../data/exchange-rates.json" with { type: "json" };
 import { prisonYears } from "./stats.js";
+import vocabularies from "../data/vocabularies.json" with { type: "json" };
+import agencies from "../data/agencies.json" with { type: "json" };
 
 export const FIGURE_FILTERS = [
   { key: "arrested", field: "ar", label: "People arrested", short: "Arrested" },
   { key: "charged", field: "ch", label: "People charged", short: "Charged" },
+  { key: "convicted", field: "cv", label: "People convicted", short: "Convicted" },
+  { key: "sentenced", field: "sn", label: "People sentenced", short: "Sentenced" },
+  { key: "acquitted", field: "aq", label: "People acquitted", short: "Acquitted" },
+  { key: "injured", field: "in", label: "People injured", short: "Injured" },
   { key: "plants", field: "pl", label: "Plants destroyed", short: "Plants" },
   { key: "hectares", field: "ha", label: "Area destroyed (hectares)", short: "Area", unit: " ha" },
   { key: "kg", field: "kg", label: "Cannabis seized (kg)", short: "Seized", unit: " kg" },
@@ -28,7 +34,7 @@ export function figureNumbers(r) {
   const usd = (m) => (m && rates.rates[m.currency] ? Math.round(m.amount / rates.rates[m.currency]) : undefined);
   const prison = f.prison ? prisonYears(f.prison) : null;
   const values = {
-    ar: f.arrested, ch: f.charged, pl: f.plants_destroyed, ha: f.hectares, kg: f.kg_seized,
+    ar: f.arrested, ch: f.charged, cv: f.convicted, sn: f.sentenced, aq: f.acquitted, in: f.injured, pl: f.plants_destroyed, ha: f.hectares, kg: f.kg_seized,
     de: f.deaths ?? (r.type === "execution" ? 1 : undefined),
     py: prison === "life" ? "L" : prison === "death" ? "D" : typeof prison === "number" ? Math.round(prison * 100) / 100 : undefined,
     fu: usd(f.fine), vu: usd(f.value),
@@ -63,3 +69,31 @@ export function inRange(row, filter, [min, max]) {
   const x = value === "L" || value === "D" ? Infinity : value;
   return (min == null || x >= min) && (max == null || x <= max);
 }
+
+// Filters by the structured details a report records (details in the report): one value each,
+// kept in the address as ?agency=ng-ndlea, ?product=hashish… A report that does not record the
+// detail is left out while it is filtered.
+const terms = (list) => vocabularies[list].map((t) => [t.id, t.label]);
+export const DETAIL_FILTERS = [
+  { key: "agency", field: "ag", label: "Agency", options: agencies.map((a) => [a.id, a.name]).sort((a, b) => a[1].localeCompare(b[1])) },
+  { key: "agency_type", field: "at", label: "Agency type", options: terms("agency_type") },
+  { key: "product", field: "pd", label: "Cannabis product", options: terms("product") },
+  { key: "activity", field: "ac", label: "Activity", options: terms("activity") },
+  { key: "setting", field: "se", label: "Setting", options: terms("setting") },
+  { key: "environment", field: "en", label: "Grown", options: terms("environment") },
+  { key: "case_stage", field: "cs", label: "Case stage", options: terms("case_stage") },
+];
+
+// A report's details as short lists for its index row: only registry ids and listed terms.
+export function detailValues(d) {
+  if (!d) return {};
+  const ids = new Set(agencies.map((a) => a.id));
+  const x = {
+    ag: d.agencies?.filter((a) => ids.has(a)), at: d.agency_types, pd: d.products?.map((p) => p.product),
+    ac: d.activity, se: d.setting, en: d.environment, cs: d.case_stage ? [d.case_stage] : undefined,
+  };
+  const out = {};
+  for (const [k, v] of Object.entries(x)) if (v?.length) out[k] = [...new Set(v)];
+  return out;
+}
+export const hasDetail = (row, filter, value) => !!row.x?.[filter.field]?.includes(value);

@@ -6,7 +6,7 @@ import { sourcesByDomain, sourcesByTld, SOURCE_KINDS, GENERIC_CC } from "../lib/
 import BandChart from "../components/stats/BandChart.astro";
 import { TYPES, STATUS } from "../lib/types.js";
 import { countryOf, flagOf, countryName } from "../lib/countries.js";
-import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay } from "../lib/stats.js";
+import { fmt, compact, tileNumber, headlineFigures, periodColumns, typeRows, reportsByModel, topCountriesBy, prisonBands, seizureBands, typeMixByRegion, sourceCountBands, weekdayCounts, seasonality, tagCloud, addedPerDay, detailCounts, topAgencies, caseFunnel, topRoutes } from "../lib/stats.js";
 import { formatWeight, formatWeightNumber } from "../lib/figures.js";
 const base = import.meta.env.BASE_URL;
 const domains = sourcesByDomain(reports);
@@ -38,6 +38,19 @@ const leaders = [
   { title: "Most plants destroyed", figure: "plants_destroyed" },
   { title: "Most cannabis seized", figure: "kg_seized" },
 ].map((l) => ({ ...l, rows: topCountriesBy(reports, l.figure) })).filter((l) => l.rows.length);
+// what the reports record about agencies, cannabis, places and courts (their structured details)
+const recorded_ = reports.filter((r) => r.details).length;
+const agencyRows = topAgencies(reports);
+const detailLists = [
+  { title: "What was seized", rows: detailCounts(reports, "products", "product") },
+  { title: "Where it happened", rows: detailCounts(reports, "setting", "setting") },
+  { title: "What people did", rows: detailCounts(reports, "activity", "activity") },
+  { title: "How it was grown", rows: detailCounts(reports, "environment", "environment") },
+  { title: "Who acted", rows: detailCounts(reports, "agency_types", "agency_type") },
+  { title: "How far the case went", rows: detailCounts(reports, "case_stage", "case_stage") },
+].filter((l) => l.rows.length);
+const funnel = caseFunnel(reports);
+const routes = topRoutes(reports);
 const yearRows = years.map((y) => { const list = reports.filter((r) => r.year === y); return { y, list, t: totals(list), types: countByType(list) }; });
 const pct = (n, of) => `${((n / Math.max(1, of)) * 100).toFixed(1)}%`;
 // how long the stated prison terms are, and how big the stated seizures
@@ -216,6 +229,35 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
         </tr>)}</tbody>
       </table>
     </div>
+  </section>
+
+  <section id="details" aria-labelledby="details-title">
+    <h2 id="details-title">What the reports record</h2>
+    <p class="muted">{fmt(recorded_)} of {fmt(reports.length)} reports record structured details, each with the source that states it. Counts are reports, not events of equal size.</p>
+    {agencyRows.length > 0 && (
+      <div>
+        <h3>Agencies named most often</h3>
+        <ol class="hbars">{agencyRows.map((a) => <li><a class="hb-label" href={`${base}agency/${a.id}/`}>{a.agency.country && flagOf(a.agency.country)} {a.agency.name}</a><span class="hb-track"><i style={`width:${(a.count / agencyRows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(a.count)}</span></li>)}</ol>
+        <p class="more-links"><a href={`${base}agency/`}>All agencies →</a></p>
+      </div>
+    )}
+    <div class="leader-grid">
+      {detailLists.map((l) => (
+        <div>
+          <h3>{l.title}</h3>
+          <ol class="hbars compact">{l.rows.slice(0, 8).map((row) => <li><span class="hb-label">{row.label}</span><span class="hb-track"><i style={`width:${(row.count / l.rows[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(row.count)}</span></li>)}</ol>
+        </div>
+      ))}
+    </div>
+    <h3>From arrest to sentence</h3>
+    <p class="muted">People counted at each step, in the reports that give the number. Arrested does not mean charged, and charged does not mean convicted; most reports cover one step only.</p>
+    <ol class="hbars">{funnel.map((step) => <li><span class="hb-label">{step.key[0].toUpperCase() + step.key.slice(1)}</span><span class="hb-track"><i style={`width:${(step.people / Math.max(1, funnel[0].people)) * 100}%`}></i></span><span class="hb-num" title={`in ${fmt(step.reports)} reports`}>{fmt(step.people)}</span></li>)}</ol>
+    {routes.length > 0 && (
+      <>
+        <h3>Smuggling routes</h3>
+        <ol class="hbars compact">{routes.map((r) => <li><span class="hb-label">{flagOf(r.from)} {countryName(r.from)} → {flagOf(r.to)} {countryName(r.to)}</span><span class="hb-track"><i style={`width:${(r.count / routes[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(r.count)}</span></li>)}</ol>
+      </>
+    )}
   </section>
 
   <section id="leaders" aria-labelledby="leaders-title">

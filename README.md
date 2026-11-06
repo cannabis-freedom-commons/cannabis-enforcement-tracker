@@ -29,10 +29,11 @@ production builds always load the latest reports.
 | `/` | **Map**: a full-screen map of all reports (the view is kept in the address, `#map=zoom/lat/lon`, so it can be shared) (a diamond marker per type; grouping crowded markers into clusters is an option in the Layers panel) with a pane on the right: the newest reports; filter by type, country and free text, use synchronized time controls on the map and in the panel, or select a period in the timeline; filters are kept in the address (`/?type=sentence&country=ge&year=2025`) |
 | `/reports/` | **Reports**: the same filterable list as a page of its own, with an RSS subscription button and automatic loading as you scroll |
 | `/<year>/`, `/<year>/<month>/` | The archive by date: a year's months, and every report of a month (`/2026/08/`) |
-| `/report/<slug>/` | One report: figures, text with citations, sources, map pin, link to the CFI profile, related reports; semantic article markup and Article metadata support native browser reader views; availability is decided by the browser |
+| `/report/<slug>/` | One report: figures and structured details with their sources, the law at the time (CFI score that year, CFI history before and since), text with citations, sources, map pin, link to the CFI profile, related reports; semantic article markup and Article metadata support native browser reader views; availability is decided by the browser |
 | `/country/<id>/` | A country's or state's reports, totals and map (`/country/ng/`, `/country/us/ca/`) |
 | `/country/` | All 220 CFI countries and territories, including places with no reports; states and provinces listed separately |
-| `/stats/` | Totals, reports per month since the first report, by type, region and year, top countries |
+| `/stats/` | Totals, reports per month since the first report, by type, region and year, top countries; what the reports record (agencies, products, settings, case stages, arrest-to-sentence counts, smuggling routes) |
+| `/agency/`, `/agency/<id>/` | The agencies of the registry (`src/data/agencies.json`) with how many reports name each; one agency's reports and totals |
 | `/changelog/` | Paginated commit history: reports added, edited, deleted and renamed, report descriptions, countries, categories and changed fields, plus a timeline of report changes; refreshed at build time |
 | `/feed.xml` | RSS feed of the 50 newest reports |
 | `/about/` | What a report is, the types and statuses |
@@ -430,3 +431,16 @@ vocabulary and `src/data/glossary.json`. Markdown gets term markup during builds
 layout also marks summaries and live previews. Links, headings, form controls, citations, code,
 maps and raw AI transcripts are left untouched. Atlas terms such as bhang also link to their
 CFI article. Each glossary term is marked once per page.
+
+## Structured details: maintenance
+
+- `node scripts/backfill-details.mjs [--write]` fills `details` of existing reports from their tags,
+  where a cited sentence of the report bears the value out (its citations become `data_sources`).
+- `go run ./cmd/tracker -enrich N` (in `backend/`) asks the research agent for quoted structured
+  values of up to N reports without details, checks every quotation against the opened sources,
+  writes the reports (no commit) and logs conflicts with existing figures to
+  `backend/data/audits/enrich-<date>.jsonl` for review.
+- `node scripts/agency-names.mjs [--apply]` lists agency names reports use that are not in
+  `src/data/agencies.json`; after adding an agency there, `--apply` rewrites its names to the id.
+- `node scripts/sync-cfi-changes.mjs` copies the CFI's dated law changes to
+  `src/data/cfi-changes.json` for the report pages' legal context (run with `sync-countries.mjs`).

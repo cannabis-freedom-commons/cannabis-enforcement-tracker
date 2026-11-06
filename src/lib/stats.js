@@ -212,3 +212,45 @@ export function addedPerDay(list, until = new Date()) {
   }
   return out;
 }
+
+// ---- structured details (report `details`, src/data/vocabularies.json, agencies.json) ----
+import vocabularies from "../data/vocabularies.json" with { type: "json" };
+import agencyRegistry from "../data/agencies.json" with { type: "json" };
+
+const termLabel = (list, id) => vocabularies[list]?.find((t) => t.id === id)?.label ?? id;
+// how many reports record each value of a detail list, most first: [{ id, label, count }]
+export function detailCounts(reports, key, list) {
+  const counts = new Map();
+  for (const r of reports) {
+    const values = key === "products" ? r.details?.products?.map((p) => p.product) : key === "case_stage" ? [r.details?.case_stage] : r.details?.[key];
+    for (const v of new Set((values ?? []).filter(Boolean))) counts.set(v, (counts.get(v) ?? 0) + 1);
+  }
+  return [...counts].map(([id, count]) => ({ id, label: termLabel(list, id), count })).sort((a, b) => b.count - a.count);
+}
+// the agencies most reports name (registry ids only), with their country
+export function topAgencies(reports, n = 15) {
+  const counts = new Map();
+  for (const r of reports) for (const a of new Set(r.details?.agencies ?? [])) counts.set(a, (counts.get(a) ?? 0) + 1);
+  return [...counts].map(([id, count]) => ({ id, count, agency: agencyRegistry.find((a) => a.id === id) }))
+    .filter((a) => a.agency).sort((a, b) => b.count - a.count).slice(0, n);
+}
+// from arrest to sentence: the people the reports count at each step, and how many reports count them
+export function caseFunnel(reports) {
+  return ["arrested", "charged", "convicted", "sentenced", "acquitted"].map((key) => {
+    const stating = reports.filter((r) => r.figures?.[key] != null);
+    return { key, people: stating.reduce((n, r) => n + r.figures[key], 0), reports: stating.length };
+  });
+}
+// the most frequent smuggling routes: "ma → es"
+export function topRoutes(reports, n = 10) {
+  const counts = new Map();
+  for (const r of reports) {
+    const route = r.details?.route;
+    if (!route?.from?.length || !route?.to?.length) continue;
+    for (const from of route.from) for (const to of route.to) {
+      const key = `${from}>${to}`;
+      counts.set(key, (counts.get(key) ?? 0) + 1);
+    }
+  }
+  return [...counts].map(([k, count]) => { const [from, to] = k.split(">"); return { from, to, count }; }).sort((a, b) => b.count - a.count).slice(0, n);
+}

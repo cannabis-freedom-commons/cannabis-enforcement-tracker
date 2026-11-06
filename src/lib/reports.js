@@ -1,6 +1,6 @@
 // All reports, sorted newest first, with what the pages and the JSON files need worked out once:
 // the country's name, where the dot goes on the map, the year, and the figures as short labels.
-import { figureNumbers } from "./figure-filters.js";
+import { figureNumbers, detailValues } from "./figure-filters.js";
 import { getCollection } from "astro:content";
 import { TYPES } from "./types.js";
 import { countryName, countryOf } from "./countries.js";
@@ -54,6 +54,9 @@ const byCountry = group((r) => [r.country, r.parent]);
 const byType = group((r) => r.type);
 export const byMonth = group((r) => r.month);
 export const reportsOf = (id) => byCountry.get(id) ?? [];
+// reports by the registry agencies their details name (src/data/agencies.json)
+const byAgency = group((r) => r.details?.agencies ?? []);
+export const reportsOfAgency = (id) => byAgency.get(id) ?? [];
 export const reportsOfMonth = (month) => byMonth.get(month) ?? [];
 export const years = [...new Set(reports.map((r) => r.year))].sort((a, b) => b - a);
 export const monthsOf = (year) => [...byMonth.keys()].filter((m) => m.startsWith(`${year}-`)).sort().reverse();
@@ -108,6 +111,7 @@ export function related(r, n = 4) {
 // filters load: short keys, only what a list item and a map dot need.
 export function indexRow(r) {
   const numbers = figureNumbers(r);
+  const details = detailValues(r.details);
   return {
     i: r.id, d: isoDate(r.date), ...(r.added_at ? { at: r.added_at } : {}), c: r.country, t: r.type, a: r.also ?? [],
     ti: r.title, s: r.summary, p: r.place ?? null,
@@ -118,6 +122,7 @@ export function indexRow(r) {
     ...(r.tags?.length ? { g: r.tags } : {}), // exact tags for selection, separate from search text
     ...(r.cover || r.photo ? { im: r.cover?.image.src ?? r.photo } : {}), // the list thumbnail
     ...(Object.keys(numbers).length ? { n: numbers } : {}), // figures as numbers, for the "+ Filter" menu
+    ...(Object.keys(details).length ? { x: details } : {}), // structured details, for the "+ Filter" menu
     ...(r.status && r.status !== "verified" ? { st: r.status } : {}), // verified unless said
   };
 }
@@ -144,6 +149,8 @@ export function compact(r, site) {
     summary: r.summary,
     status: r.status,
     figures: r.figures ?? {},
+    details: r.details ?? {},
+    data_sources: r.data_sources ?? {},
     tags: r.tags ?? [],
     cover: r.cover ? { url: new URL(r.cover.image.src, site).href, alt: r.cover.alt, credit: r.cover.credit, licence: r.cover.licence, source: r.cover.url, ...(r.cover.media_url ? { media_url: r.cover.media_url } : {}) } : null,
     media: r.media ?? [],

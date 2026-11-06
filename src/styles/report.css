@@ -50,3 +50,11 @@
 .data-cite { font-size: 0.7em; margin-left: 2px; }
 .data-cite a { text-decoration: none; }
 @media (max-width: 520px) { .report-details { grid-template-columns: 1fr; gap: 2px; } .report-details dd { margin-bottom: 8px; } }
+
+/* the law at the time of the event, under the CFI box */
+.law-then { margin-top: 14px; font-size: 14px; }
+.law-then h3 { font-size: 14px; margin: 0 0 6px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); }
+.law-then p { margin: 4px 0; }
+.law-changes { list-style: none; padding: 0; margin: 4px 0 10px; }
+.law-changes li { margin-bottom: 6px; line-height: 1.4; }
+.law-changes time { display: block; font: 12px var(--mono); color: var(--muted); }

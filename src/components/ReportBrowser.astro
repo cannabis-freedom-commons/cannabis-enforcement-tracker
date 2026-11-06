@@ -59,7 +59,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   import { imageProxy } from "../lib/media.js";
   import { hasTag } from "../lib/report-tags.js";
   import { initTagSuggest } from "../scripts/report-tag-suggest.js";
-  import { FIGURE_FILTERS, STATUSES, parseRange, formatRange, rangeLabel, inRange } from "../lib/figure-filters.js";
+  import { FIGURE_FILTERS, DETAIL_FILTERS, STATUSES, parseRange, formatRange, rangeLabel, inRange, hasDetail } from "../lib/figure-filters.js";
   import { isNew, markAllAsRead, onUnreadChange } from "../scripts/unread-state.js";
 
   const $ = <T extends HTMLElement = HTMLInputElement>(id: string) => document.getElementById(id) as T;
@@ -82,9 +82,12 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
   for (const f of FIGURE_FILTERS) { const range = parseRange(params.get(f.key)); if (range) figs[f.key] = range; }
   let status = STATUSES.some(([v]) => v === params.get("status")) ? params.get("status")! : "";
   let photo = params.get("photo") === "1";
+  // the structured-detail filters: one value each (?agency=ng-ndlea)
+  const details: Record<string, string> = {};
+  for (const f of DETAIL_FILTERS) { const v = params.get(f.key); if (v && f.options.some(([id]) => id === v)) details[f.key] = v; }
   // only the reports added since the reader's last visit (the header's "new" count links here)
   let newOnly = params.get("new") === "1";
-  const extraCount = () => Object.keys(figs).length + (status ? 1 : 0) + (photo ? 1 : 0) + (newOnly ? 1 : 0);
+  const extraCount = () => Object.keys(figs).length + Object.keys(details).length + (status ? 1 : 0) + (photo ? 1 : 0) + (newOnly ? 1 : 0);
   let updateTags: ((rows: Row[]) => void) | undefined;
   // One Time control owns both rolling periods and calendar selections.
   // Relative windows include calendar dates already reached in any local timezone.
@@ -128,6 +131,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     for (const t of on) if (types[t]) chips.push([`type:${t}`, types[t].label, types[t].color]);
     if (period.mode !== DEFAULT_RANGE) chips.push(["period", period.mode === "calendar" ? periodLabel(period) : PRESETS[period.mode] ?? period.mode]);
     for (const f of FIGURE_FILTERS) if (figs[f.key]) chips.push([`fig:${f.key}`, rangeLabel(f, figs[f.key])]);
+    for (const f of DETAIL_FILTERS) if (details[f.key]) chips.push([`detail:${f.key}`, `${f.label}: ${f.options.find(([id]) => id === details[f.key])?.[1] ?? details[f.key]}`]);
     if (status) chips.push(["status", STATUSES.find(([v]) => v === status)![1]]);
     if (photo) chips.push(["photo", "With a photo"]);
     if (newOnly) chips.push(["new", "New since your last visit"]);
@@ -180,6 +184,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       && (skipDay || !day || date === day)
       && (skipTag || hasTag(r, $("tag").value))
       && FIGURE_FILTERS.every((f) => !figs[f.key] || inRange(r, f, figs[f.key]))
+      && DETAIL_FILTERS.every((f) => !details[f.key] || hasDetail(r, f, details[f.key]))
       && (!status || (r.st ?? "verified") === status) && (!photo || !!r.im) && (!newOnly || isNew(r.i, r.at))
       && q.every((w) => haystack.get(r)!.includes(w));
   }
@@ -296,6 +301,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     if (period.to) p.set("to", period.to);
     if (period.mode !== DEFAULT_RANGE) p.set("range", period.mode);
     for (const f of FIGURE_FILTERS) if (figs[f.key]) p.set(f.key, formatRange(figs[f.key]));
+    for (const f of DETAIL_FILTERS) if (details[f.key]) p.set(f.key, details[f.key]);
     if (status) p.set("status", status);
     if (photo) p.set("photo", "1");
     if (newOnly) p.set("new", "1");
@@ -412,11 +418,14 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       const f = FIGURE_FILTERS.find((x) => x.key === figKey.value), range = f && figs[f.key];
       $("fig-range").hidden = !f;
       $("fig-status-row").hidden = figKey.value !== "status";
+      const detail = DETAIL_FILTERS.find((x) => figKey.value === `detail:${x.key}`);
+      document.querySelectorAll<HTMLElement>("[data-detail-row]").forEach((row) => { row.hidden = row.id !== `fig-detail-${detail?.key}`; });
+      if (detail && details[detail.key]) $(`fig-detail-value-${detail.key}`).value = details[detail.key];
       $("fig-min").value = range?.[0] != null ? String(range[0]) : "";
       $("fig-max").value = range?.[1] != null ? String(range[1]) : "";
       if (figKey.value === "status") $("fig-status").value = status || "verified";
-      $("fig-note").textContent = f ? (f.report ? f.note : `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}`) : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
-      $("fig-apply").textContent = (f ? figs[f.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
+      $("fig-note").textContent = f ? (f.report ? f.note : `Only reports that state the figure are kept.${f.note ? ` ${f.note}` : ""}`) : detail ? "Only reports that record it, with a source." : figKey.value === "photo" ? "Reports with a photo of the event." : "Verified: every fact checked against the sources.";
+      $("fig-apply").textContent = (f ? figs[f.key] : detail ? details[detail.key] : figKey.value === "status" ? status : photo) ? "Change filter" : "Add filter";
     };
     const openFig = popover($("fig-popover"), addButton, () => { showFigure(); figKey.focus({ preventScroll: true }); });
     figKey.addEventListener("change", showFigure);
@@ -427,6 +436,9 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
         if (range.some((v) => v != null && !(v >= 0))) return;
         if (range[0] == null && range[1] == null) delete figs[f.key];
         else figs[f.key] = range[0] != null && range[1] != null && range[0] > range[1] ? [range[1], range[0]] : range;
+      } else if (figKey.value.startsWith("detail:")) {
+        const key = figKey.value.slice(7), value = $(`fig-detail-value-${key}`).value;
+        if (value) details[key] = value;
       } else if (figKey.value === "status") status = $("fig-status").value;
       else photo = true;
       apply();
@@ -456,6 +468,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
       else if (key === "q") $("q").value = "";
       else if (key.startsWith("type:")) $("type").value = $("type").value.split(",").filter((t) => t && t !== key.slice(5)).join(",");
       else if (key.startsWith("fig:")) delete figs[key.slice(4)];
+      else if (key.startsWith("detail:")) delete details[key.slice(7)];
       else if (key === "status") status = "";
       else if (key === "photo") photo = false;
       else if (key === "new") newOnly = false;
@@ -523,6 +536,7 @@ const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { lab
     const clearFilters = () => {
       for (const field of fields) $(field).value = "";
       for (const key of Object.keys(figs)) delete figs[key];
+      for (const key of Object.keys(details)) delete details[key];
       status = ""; photo = false; newOnly = false;
       setPeriod(changePeriod(DEFAULT_RANGE, {}));
       apply();

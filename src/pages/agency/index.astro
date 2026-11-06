@@ -1,0 +1,28 @@
+---
+// The enforcement agencies of the registry (src/data/agencies.json), with how many reports name each.
+import Base from "../../layouts/Base.astro";
+import agencies from "../../data/agencies.json";
+import vocabularies from "../../data/vocabularies.json";
+import { reportsOfAgency } from "../../lib/reports.js";
+import { countryName, flagOf } from "../../lib/countries.js";
+
+const base = import.meta.env.BASE_URL;
+const typeLabel = (id) => vocabularies.agency_type.find((t) => t.id === id)?.label ?? id;
+const rows = agencies.map((a) => ({ ...a, count: reportsOfAgency(a.id).length })).sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
+const fmt = (n) => n.toLocaleString("en-GB");
+---
+<Base title="Agencies" description="The police, drug, customs and military agencies the reports name, with how many reports each.">
+  <h1>Agencies</h1>
+  <p class="lead">The agencies the reports name, from the tracker's registry. A report counts here when a source it cites names the agency.</p>
+  <table class="table">
+    <thead><tr><th scope="col">Agency</th><th scope="col">Place</th><th scope="col">Type</th><th scope="col" class="num">Reports</th></tr></thead>
+    <tbody>{rows.map((a) => (
+      <tr>
+        <th scope="row">{a.count ? <a href={`${base}agency/${a.id}/`}>{a.name}</a> : a.name}</th>
+        <td>{a.country ? <>{flagOf(a.country)} {countryName(a.country)}</> : "International"}</td>
+        <td>{typeLabel(a.type)}</td>
+        <td class="num">{fmt(a.count)}</td>
+      </tr>
+    ))}</tbody>
+  </table>
+</Base>
