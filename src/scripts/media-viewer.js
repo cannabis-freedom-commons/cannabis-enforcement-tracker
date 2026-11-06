@@ -1,6 +1,8 @@
 // The report page's photo grid: a photo opens large in a dialog, with its caption and credit, and
 // the arrow keys move between photos. A photo its publisher no longer serves leaves the grid and
-// is listed as a link instead, so a broken image is never shown.
+// is listed as a link instead, so a broken image is never shown. Moving to another photo shows it at
+// once as what is already here (its ThumbHash placeholder, and the tile's small picture over it)
+// with a loading note, and the full photo fades in when it has arrived.
 const initialized = new WeakSet();
 
 export function initMediaViewers(root = document) {
@@ -32,17 +34,37 @@ function initGrid(grid) {
 
   const dialog = document.createElement("dialog");
   dialog.className = "media-viewer";
-  dialog.innerHTML = `<figure><img alt="" referrerpolicy="no-referrer"><figcaption></figcaption></figure>
+  dialog.innerHTML = `<figure><div class="mv-frame"><img alt="" referrerpolicy="no-referrer"><span class="mv-loading" role="status">Loading the full photo…</span></div><figcaption></figcaption></figure>
     <button type="button" class="mv-close" aria-label="Close" autofocus>×</button>
     <button type="button" class="mv-prev" aria-label="Previous photo">‹</button>
     <button type="button" class="mv-next" aria-label="Next photo">›</button>`;
   grid.parentElement.append(dialog);
-  const big = dialog.querySelector("img"), caption = dialog.querySelector("figcaption");
+  const big = dialog.querySelector(".mv-frame img"), frame = dialog.querySelector(".mv-frame"), caption = dialog.querySelector("figcaption");
+  const note = dialog.querySelector(".mv-loading");
+  let loading = 0; // which show() the pending load belongs to, so a slow earlier photo never replaces a later one
   let at = 0;
   const visible = () => tiles.filter((t) => !t.hidden);
   const show = (tile) => {
     const list = visible(); at = list.indexOf(tile);
-    big.src = tile.querySelector("img").dataset.full || tile.querySelector("img").src; big.alt = tile.querySelector("img").alt;
+    const small = tile.querySelector("img"), full = small.dataset.full || small.src;
+    // at once: the placeholder, the tile's picture over it (cached: already on the page), in the photo's shape
+    const placeholder = tile.querySelector(".media-open").style.backgroundImage;
+    const preview = small.complete && small.naturalWidth ? `url("${small.currentSrc || small.src}")` : "";
+    frame.style.backgroundImage = [preview, placeholder].filter(Boolean).join(", ");
+    const w = Number(small.getAttribute("width")) || small.naturalWidth, h = Number(small.getAttribute("height")) || small.naturalHeight;
+    frame.style.aspectRatio = w && h ? `${w} / ${h}` : "";
+    big.alt = small.alt;
+    if (big.src !== full) {
+      const ticket = ++loading;
+      big.classList.remove("is-loaded");
+      frame.classList.remove("is-failed");
+      frame.classList.add("is-loading");
+      note.textContent = "Loading the full photo…";
+      big.onload = () => { if (ticket === loading) { big.classList.add("is-loaded"); frame.classList.remove("is-loading"); } };
+      big.onerror = () => { if (ticket === loading) { note.textContent = "The full photo could not be loaded; this is a small copy."; frame.classList.add("is-failed"); } };
+      big.src = full;
+      if (big.complete && big.naturalWidth) big.onload();
+    }
     caption.replaceChildren(...[...tile.querySelector("figcaption").childNodes].map((n) => n.cloneNode(true)));
     for (const b of caption.querySelectorAll(".photo-info-btn")) b.setAttribute("aria-expanded", "false");
     dialog.querySelector(".mv-prev").hidden = dialog.querySelector(".mv-next").hidden = list.length < 2;
