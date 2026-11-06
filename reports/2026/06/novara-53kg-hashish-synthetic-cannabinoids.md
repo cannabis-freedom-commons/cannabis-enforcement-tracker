@@ -70,6 +70,11 @@ sources:
     publisher: RaiNews
     date: 2026-11-05
     language: it
+  - title: Sequestrati 53 chili di hashish, ma le analisi svelano una pericolosa sorpresa. La Procura lancia l'allarme sui rischi per la salute
+    url: https://www.giornalelavoce.it/news/cronaca/753772/sequestrati-53-chili-di-hashish-ma-le-analisi-svelano-una-pericolosa-sorpresa-la-procura-lancia-l-allarme-sui-rischi-per-la-salute.html
+    publisher: Giornale La Voce
+    date: 2026-11-05
+    language: it
 open_questions:
   - The sources give no exact date in June 2026 for the road check and arrest; 30 June 2026 is a placeholder inside the month stated and must be treated as approximate.
   - No court outcome or charge detail was reported for the arrested man; the November briefing covered laboratory findings, not the case's progress.
@@ -93,16 +98,16 @@ operation, presented at the Novara prosecution office, began with that road
 check. [@4]
 
 Forensic analysis later found five different cannabinoids inside the seized
-substance, four fully synthetic and one semi-synthetic. [@1] All five compounds
+substance, four fully synthetic and one semi-synthetic. [@1,7] All five compounds
 fall under Table I of Italy's consolidated narcotics law, the Testo unico sugli
 stupefacenti. [@1] The investigation was coordinated by Silvia Baglivo, the
-acting chief prosecutor of Novara. [@3]
+acting chief prosecutor of Novara. [@3,7]
 
 Officers also found e-cigarettes with THC concentrations close to 90% and THC
-sweets during the checks. [@1] The Novara prosecution said checks were still
+sweets during the checks. [@1,7] The Novara prosecution said checks were still
 under way to prepare alerts for national and international early-warning
 systems. [@3] Prosecutors said the synthetic cannabinoids act on the same
 receptors as THC but can produce stronger and less predictable effects than
 traditional cannabis. [@3]
 
-Part of the material was in brown slabs outwardly indistinguishable from traditional hashish, while other samples had a gummy or crystalline consistency. [@6]
+Part of the material was in brown slabs outwardly indistinguishable from traditional hashish, while other samples had a gummy or crystalline consistency. [@6,7]
