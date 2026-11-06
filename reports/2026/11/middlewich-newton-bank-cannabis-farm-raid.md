@@ -51,6 +51,10 @@ sources:
     url: https://www.hellorayo.co.uk/greatest-hits/staffordshire-cheshire/news/middlewich-cannabis-grow-shutdown-police
     publisher: Greatest Hits Radio (Staffordshire & Cheshire)
     date: 2026-11-05
+  - title: Police bust Cheshire cannabis farm 'capable of producing over £800K a year'
+    url: https://www.cheshire-live.co.uk/news/chester-cheshire-news/police-bust-cheshire-cannabis-farm-34868962
+    publisher: Cheshire Live
+    date: 2026-11-06
 open_questions:
   - No number of plants seized was published, so no plant count can be recorded.
   - The 70kg and 800,000-pound figures are police estimates of the site's potential yearly output, not weighed drugs or cash seized.
@@ -66,14 +70,14 @@ open_questions:
 Congleton Local Policing Unit shut down a cannabis farm at an empty business
 premises in Middlewich. [@2,5] On 4 November officers executed a warrant at the
 address in Newton Bank after receiving information that drugs were being grown
-there. [@2,5] Officers were seen at an abandoned building on Newton Bank during
+there. [@2,5,6] Officers were seen at an abandoned building on Newton Bank during
 the day on Wednesday, November 4. [@1,3,4] As a result of the raid police seized a
 large number of cannabis plants at the commercial premises. [@1,3,4]
 
 Once inside, officers found a substantial cannabis grow and began removing it
-with the cultivation equipment. [@2,5] PC Adam Archer said the premises was
-capable of producing about 70kg of cannabis per year. [@1,3,4,5] Police put the
-potential street value of that yearly output at over 800,000 pounds. [@2,3] Archer
+with the cultivation equipment. [@2,5,6] PC Adam Archer said the premises was
+capable of producing about 70kg of cannabis per year. [@1,3,4,5,6] Police put the
+potential street value of that yearly output at over 800,000 pounds. [@2,3,6] Archer
 said the operation was one of many intended to stop illegal drugs reaching the
 community through warrants, targeting dealers and closing houses used to deal
 drugs. [@2,4,5]
