@@ -74,6 +74,11 @@ sources:
     url: https://www.rediff.com/news/report/bihar-stf-arrests-drug-traffickers-seizes-charas-and-smack/20261106.htm
     publisher: Rediff
     date: 2026-11-06
+  - title: मुजफ्फरपुर में 10 करोड़ की चरस के साथ तस्कर गिरफ्तार, नेपाल से बिहार के रास्ते गुजरात भेजी जानी थी खेप
+    url: https://www.prabhatkhabar.com/state/bihar/muzaffarpur/dri-seizes-rs-10-crore-worth-of-hashish-on-bus-arrests-smuggler
+    publisher: Prabhat Khabar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -83,21 +88,28 @@ open_questions:
   - The submitted page spells the place as Dumariya Ghat while the existing report uses Dumaria Ghat; both refer to the same East Champaran police-station area.
   - The page's only image is labelled as AI-generated and used for representational purposes, so no media entry is included.
   - The same page reports a separate Purnea operation with 61 grams of smack and a motorcycle; smack is not cannabis, so that arrest and seizure remain excluded from the cannabis report.
+  - Prabhat Khabar attributes the arrest to the DRI's Muzaffarpur regional unit alone, while the existing report and its sources describe a joint STF and DRI operation with the DRI's Patna and Muzaffarpur units.
+  - Prabhat Khabar does not give the exact weight of the seized charas; the 10 kg figure is its statement that the suspect was carrying about 10 kg in his backpack.
+  - Prabhat Khabar gives no exact place or time for the bus interception and no district for the Gujarat destination, whereas other accounts name Patan district.
+  - Only the publication date, 6 November 2026, is on the page; the day of the arrest is inferred from its statement that the suspect was produced in court on Friday and the earlier reports that he was held on Thursday.
+  - The page's only image is a composite of the seized packets and the arrested man published without a credit line, and its representative status could not be established, so no media entry is included.
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
 Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
 Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1,4,6] Officers seized 10 kg of charas from him and valued the consignment at
-about Rs 10 crore. [@2,5,6] Officers also recovered a mobile phone and Rs 2,320 in
+[@1,4,6,7] Officers seized 10 kg of charas from him and valued the consignment at
+about Rs 10 crore. [@2,5,6,7] Officers also recovered a mobile phone and Rs 2,320 in
 cash from him. [@3,6] Sahni is a resident of East Champaran district, according to
 the STF account released on Friday. [@3]
 
 The STF said Sahni was allegedly part of an international drug-trafficking gang.
 [@1,4] He allegedly brought charas from Nepal and supplied it through Bihar to
-traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6] The
-seized consignment was to be delivered to Patan district in Gujarat. [@2,6]
+traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6,7] The
+seized consignment was to be delivered to Patan district in Gujarat. [@2,6,7]
 
 The STF said further investigation in the case is continuing. [@1] The criminal
 history of the arrested accused is being verified. [@1] Legal proceedings in the
 case have been started. [@1]
+
+The DRI's Muzaffarpur regional unit made the recovery after stopping a bus in the Dumaria Ghat area and seizing a consignment of charas, a cannabis resin. [@7] The arrested man was carrying about 10 kg of charas in a backpack, and investigators said public buses were used to avoid the attention of security agencies. [@7] Officers took him to the DRI's zonal office at Imlichatti in Muzaffarpur and questioned him for several hours about his methods and his Nepali suppliers. [@7] The DRI produced him before a court on Friday, which ordered him to judicial custody in jail. [@7]
