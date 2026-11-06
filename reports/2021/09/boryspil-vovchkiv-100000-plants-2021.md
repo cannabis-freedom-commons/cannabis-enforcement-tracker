@@ -24,6 +24,8 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.hectares: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kyiv-region, boryspil, operation-mak]

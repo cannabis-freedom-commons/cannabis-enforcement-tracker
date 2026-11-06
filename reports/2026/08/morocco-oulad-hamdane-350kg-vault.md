@@ -20,6 +20,7 @@ details:
   agency_types: [customs, gendarmerie, prosecutor]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://eljadidanews.com/wp-content/uploads/2026/08/IMG-20260827-WA0003.jpg

@@ -30,6 +30,7 @@ data_sources:
   details.products: [2, 3, 1, 4, 5]
   details.route: [4]
   details.setting: [2, 3, 1, 4]
+  figures.kg_seized: [2, 1, 4]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/three-maldivians-arrested-in-india-drug-bust-138660

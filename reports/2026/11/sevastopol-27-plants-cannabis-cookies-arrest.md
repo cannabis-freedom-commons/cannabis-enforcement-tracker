@@ -36,6 +36,7 @@ data_sources:
   details.environment: [1, 3, 4, 5, 2]
   details.products: [1, 5, 3, 4, 2]
   details.setting: [2]
+  figures.plants_destroyed: [1, 5, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7fa9f496e01529f22fb4ced7c8895bb

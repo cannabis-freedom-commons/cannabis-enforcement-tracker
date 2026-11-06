@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.omroepflevoland.nl/nieuws/529997/bijna-tweehonderd-hennepplanten-groeiden-in-kwekerij-almere-haven-stroom-illegaal-afgetapt

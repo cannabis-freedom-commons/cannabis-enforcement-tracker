@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/politsiya-ulichila-ottsa-mladentsev-bliznetsov-iz-kaliningrada-v-kultivirovanii-i-khranenii-kannabis/

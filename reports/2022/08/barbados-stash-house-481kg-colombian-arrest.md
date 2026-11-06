@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [3, 1, 2]
   details.products: [3, 1, 2]
   details.setting: [2, 3, 1]
+  figures.kg_seized: [3, 1, 2]
+  figures.value: [3, 1, 2]
 media:
   - kind: photo
     url: https://newsday.co.tt/2022/08/07/72-million-in-marijuana-seized-in-barbados-after-leaving-trinidad-and-tobago/

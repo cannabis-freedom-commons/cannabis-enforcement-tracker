@@ -30,6 +30,8 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2672061-aksarayda-uyusturucu-operasyonu

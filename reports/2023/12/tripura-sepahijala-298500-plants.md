@@ -32,6 +32,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.hectares: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, ganja, eradication, war-on-drugs]

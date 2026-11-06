@@ -33,6 +33,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.environment: [2, 4]
   details.products: [2, 3, 4, 1]
+  figures.value: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a78460afb6c6b726768eae6145d359c1

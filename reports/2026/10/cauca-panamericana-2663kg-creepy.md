@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.elpais.com.co/judicial/capturan-a-conductor-de-camion-turbo-con-mas-de-26-toneladas-de-marihuana-tipo-creepy-que-iban-hacia-peru-y-chile-3026.html

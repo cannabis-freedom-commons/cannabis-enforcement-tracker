@@ -29,6 +29,7 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [leiyang, hunan, indoor-grow, cannabis]

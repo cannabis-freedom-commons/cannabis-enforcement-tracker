@@ -41,6 +41,7 @@ data_sources:
   details.agency_types: [2]
   details.force: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [bhang, kilifi, dci]
 open_questions:

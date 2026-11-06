@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://kesedice.com/judicial/con-80-kilos-de-marihuana-tipo-creepy-en-un-chevrolet-asi-cayeron-tres-personas-en-puerto-boyaca-HDJRSSVZ

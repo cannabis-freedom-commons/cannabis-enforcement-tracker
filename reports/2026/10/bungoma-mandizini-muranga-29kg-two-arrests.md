@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.tv47.digital/two-arrested-as-detectives-seize-29kg-of-bhang-in-bungoma-and-muranga-167549/

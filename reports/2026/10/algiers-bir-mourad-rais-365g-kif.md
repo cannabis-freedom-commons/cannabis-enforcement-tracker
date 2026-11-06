@@ -24,6 +24,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  figures.value: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a4ed28f201f1e0e683c11935f46422e2

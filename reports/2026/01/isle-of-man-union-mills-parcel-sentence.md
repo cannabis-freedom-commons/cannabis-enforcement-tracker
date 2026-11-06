@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1, 2]
+  figures.value: [2, 1]
 status: verified
 tags: [isle-of-man, post-office, importation, suspended-sentence]
 open_questions:

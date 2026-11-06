@@ -32,6 +32,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [bassa, kogi, nigeria, navy, river-niger]
 sources:

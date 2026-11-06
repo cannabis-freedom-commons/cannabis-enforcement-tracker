@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 4]
+  figures.prison: [2, 4, 1, 3]
 status: verified
 tags: [commutation, clemency, conspiracy, life-sentence]
 open_questions:

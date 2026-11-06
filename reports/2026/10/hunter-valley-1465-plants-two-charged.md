@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [hunter-valley, nsw, grow-houses, operation-cages]

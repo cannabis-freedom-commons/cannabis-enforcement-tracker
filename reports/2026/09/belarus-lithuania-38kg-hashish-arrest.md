@@ -27,6 +27,7 @@ data_sources:
   details.products: [1, 2, 3, 5]
   details.sentence_types: [1, 2, 5, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 5]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c5ee74ed074942b8dda85526d8ddf6af

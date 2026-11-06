@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2, 4, 5]
   details.route: [1, 2, 3]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [kush, airport, bangkok-route]
 open_questions:

@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [guardia-civil, huesca, outdoor]
 open_questions:

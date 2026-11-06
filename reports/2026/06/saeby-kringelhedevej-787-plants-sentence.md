@@ -32,6 +32,8 @@ data_sources:
   details.products: [1, 3, 2]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 3, 2]
+  figures.plants_destroyed: [1, 3, 2]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [denmark, sentence, indoor]

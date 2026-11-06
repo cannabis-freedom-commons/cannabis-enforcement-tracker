@@ -31,6 +31,9 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.prison: [1]
 status: verified
 tags: [grimbergen, wezelstraat, brussels]
 open_questions:

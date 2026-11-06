@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://convictsoapbox.com/2015/09/03/man-sentenced-to-life-without-parole-for-marijuana-charge-is-freed/

@@ -25,6 +25,8 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [ttps, gasparillo, reform]
 open_questions:

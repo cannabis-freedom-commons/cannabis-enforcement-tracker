@@ -18,6 +18,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.setting: [2, 1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://malijet.com/les_faits_divers_au_mali/92858-du-chanvre-indien-saisi-au-mali-en-partance-pour-le-senegal.html

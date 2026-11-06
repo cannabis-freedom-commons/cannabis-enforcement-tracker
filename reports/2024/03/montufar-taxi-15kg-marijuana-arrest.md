@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2024/03/15/capturaron-a-colombianos-moviendo-cargamento-de-marihuana-en-ecuador-la-droga-iba-camuflada-en-un-taxi/

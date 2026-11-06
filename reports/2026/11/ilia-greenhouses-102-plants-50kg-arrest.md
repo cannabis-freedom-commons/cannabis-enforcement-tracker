@@ -36,6 +36,8 @@ data_sources:
   details.environment: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
+  figures.plants_destroyed: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1319963/man-held-for-growing-marijuana-in-greenhouses/

@@ -29,6 +29,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [nacoc, volta, warehouse]
 open_questions:

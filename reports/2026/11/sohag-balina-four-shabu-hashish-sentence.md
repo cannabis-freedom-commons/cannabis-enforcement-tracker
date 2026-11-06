@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.fine: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0b5491829842c745ec98b1e680b7ec50

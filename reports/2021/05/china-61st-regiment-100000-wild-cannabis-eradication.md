@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.xj.chinanews.com.cn/dizhou/2021-05-27/detail-ihamuvvy5537080.shtml

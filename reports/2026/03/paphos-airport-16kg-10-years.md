@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2]
+  figures.prison: [1, 2]
 status: verified
 tags: [paphos, ykan, airport]
 open_questions:

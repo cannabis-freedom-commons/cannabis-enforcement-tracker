@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 65fac2cbd88a134bb46ddbd60b0916c3

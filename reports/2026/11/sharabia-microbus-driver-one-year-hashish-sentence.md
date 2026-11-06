@@ -32,6 +32,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.fine: [1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b21cf4c74ffe9b29c9c333abcfc8fba6

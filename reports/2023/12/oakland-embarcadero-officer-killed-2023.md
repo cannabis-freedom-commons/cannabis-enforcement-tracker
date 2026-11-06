@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [3, 1]
   details.products: [1, 3]
   details.setting: [3]
+  figures.deaths: [1, 2]
 status: verified
 tags: [burglary, oakland-police]
 open_questions:

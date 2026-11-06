@@ -38,6 +38,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [2]
   details.setting: [2]
+  figures.kg_seized: [2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 74e4da3892402c350646f2ff52b7cd66

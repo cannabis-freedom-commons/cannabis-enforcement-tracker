@@ -32,6 +32,7 @@ data_sources:
   details.agency_types: [1, 3, 4]
   details.case_stage: [2, 1, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.kg_seized: [1, 3, 4, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f23ca7ab1b4c352541b8ee93cbf1ce7b

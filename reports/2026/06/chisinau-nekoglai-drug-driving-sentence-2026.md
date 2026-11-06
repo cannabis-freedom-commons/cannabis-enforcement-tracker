@@ -28,6 +28,7 @@ data_sources:
   details.products: [2]
   details.sentence_types: [2, 1, 3]
   details.setting: [3, 2, 1]
+  figures.fine: [3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 91507023a42aaf7a5ee8db1e1049ad68

@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.voaafrique.com/a/p-196-kg-de-cannabis-en-partance-pour-dakar-saisis-a-bamako/4105001.html

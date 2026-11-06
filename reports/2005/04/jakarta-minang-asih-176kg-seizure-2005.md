@@ -21,6 +21,7 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [jakarta, syndicate]
 sources:

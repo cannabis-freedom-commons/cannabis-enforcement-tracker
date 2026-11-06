@@ -36,6 +36,8 @@ data_sources:
   details.activity: [1, 3, 5, 7, 8, 6]
   details.agencies: [1, 3, 5, 7, 8]
   details.agency_types: [1, 3, 5, 7, 8]
+  figures.kg_seized: [1, 3, 6, 7, 8, 10]
+  figures.value: [1, 5, 7, 8, 2, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 79dc984a435579b4fe89c4e21dba4c6c

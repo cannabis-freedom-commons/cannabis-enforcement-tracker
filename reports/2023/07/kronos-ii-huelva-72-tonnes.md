@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [2, 1]
+  figures.kg_seized: [2]
 status: verified
 tags: [huelva, hashish, customs, organised-crime]
 open_questions:

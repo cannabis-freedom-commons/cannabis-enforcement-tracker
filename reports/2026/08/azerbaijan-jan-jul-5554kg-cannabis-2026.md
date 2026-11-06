@@ -22,6 +22,7 @@ details:
 data_sources:
   details.activity: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a21c845b8bc76d301ad4ceec557562b

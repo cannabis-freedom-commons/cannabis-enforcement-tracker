@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.antaranews.com/berita/5731804/tni-temukan-1347-batang-ganja-di-hutan-pegunungan-bintang

@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [2, 1]
+  figures.kg_seized: [2]
 media:
   - kind: photo
     url: https://www.gabonreview.com/gabon-1000-ballots-de-chanvre-indien-saisis-a-bitam/

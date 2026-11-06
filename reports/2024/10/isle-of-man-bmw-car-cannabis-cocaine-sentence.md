@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2, 6, 4, 5, 3]
   details.sentence_types: [1, 4, 5, 6, 2, 3]
   details.setting: [1, 4, 5, 6, 2, 3]
+  figures.prison: [1, 4, 5, 6]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c3e1c4a48dd569411ae706d5cb39d17

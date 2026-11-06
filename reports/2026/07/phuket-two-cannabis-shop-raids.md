@@ -24,6 +24,7 @@ data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://thethaiger.com/news/phuket/two-phuket-cannabis-shops-caught-operating-despite-suspension

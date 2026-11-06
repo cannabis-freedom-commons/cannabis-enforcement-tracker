@@ -25,6 +25,7 @@ details:
 data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 4, 2, 3]
+  figures.plants_destroyed: [1, 4, 2, 3]
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/mp/dhar/badnawar/news/badnawar-dhar-police-ganja-seizure-kheti-operation-prahar-139556746.html

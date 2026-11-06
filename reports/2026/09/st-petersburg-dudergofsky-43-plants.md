@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.fontanka.ru/2026/09/10/76634990/

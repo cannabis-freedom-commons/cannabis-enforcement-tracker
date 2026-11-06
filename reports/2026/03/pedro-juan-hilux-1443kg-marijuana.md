@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [pedro-juan-caballero, amambay, senad, hilux]

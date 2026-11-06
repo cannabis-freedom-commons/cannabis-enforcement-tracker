@@ -32,6 +32,7 @@ data_sources:
   details.force: [1]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [operation-hive, porirua, family-convictions]
 sources:

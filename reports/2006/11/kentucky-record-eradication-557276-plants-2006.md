@@ -30,6 +30,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [record-eradication, appalachia-hidta]
 open_questions:

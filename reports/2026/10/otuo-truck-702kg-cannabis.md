@@ -28,6 +28,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [2, 1]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ndlea, edo, otuo]

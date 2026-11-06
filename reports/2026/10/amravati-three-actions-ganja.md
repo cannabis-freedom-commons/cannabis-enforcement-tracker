@@ -24,6 +24,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://marathi.hindusthansamachar.in/Encyc/2026/10/30/MD-drugs-and-cannabis-seized-.php

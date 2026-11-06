@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
+  figures.prison: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.tahiti-infos.com/Methamphetamine-et-pieds-de-cannabis-saisis-a-Faa-a_a239928.html

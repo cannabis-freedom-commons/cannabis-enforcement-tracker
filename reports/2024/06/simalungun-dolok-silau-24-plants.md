@@ -22,6 +22,7 @@ data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [1, 2, 3]
   details.setting: [2, 3, 1]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo
     url: https://daerah.sindonews.com/read/1397259/717/disamarkan-pohon-kopi-ladang-ganja-ditemukan-di-dolok-silau-simalungun-1718460387

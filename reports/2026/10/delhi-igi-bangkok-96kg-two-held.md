@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 5, 6, 7, 3, 2]
   details.route: [1, 4, 5, 6, 7, 2]
   details.setting: [1, 4, 5, 6, 7]
+  figures.kg_seized: [1, 4, 5, 6, 7, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0898f4ac318cd832624e8462241e2865

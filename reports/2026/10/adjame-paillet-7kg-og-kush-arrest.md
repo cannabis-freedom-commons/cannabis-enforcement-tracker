@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.lavenir.ci/faits-divers/16649-trafic-de-drogue-adjame-paillet-7-kilos-de-cannabis-og-kush-retrouves-dans-sa-chambre-par-le-grad-special

@@ -33,6 +33,9 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
+  figures.plants_destroyed: [2, 1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [united-kingdom, kettering, sentence]

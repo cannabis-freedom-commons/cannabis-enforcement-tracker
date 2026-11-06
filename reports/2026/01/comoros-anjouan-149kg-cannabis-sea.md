@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2, 4, 3, 5]
   details.case_stage: [1, 2, 4, 3]
   details.setting: [1, 2, 4]
+  figures.kg_seized: [1, 2, 4, 3, 5]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [comoros, anjouan, coast-guard, maritime, incineration]

@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/50809011/police-raid-five-marijuana-farms-and-destroy-more-than-20000-plants/

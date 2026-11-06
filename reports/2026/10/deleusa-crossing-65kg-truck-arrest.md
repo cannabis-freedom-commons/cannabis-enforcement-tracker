@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 3, 2]
   details.route: [1, 3, 2]
   details.setting: [1, 3]
+  figures.kg_seized: [1, 3, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [deleusa, border, truck, bosnia-route]

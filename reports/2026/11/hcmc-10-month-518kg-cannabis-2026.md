@@ -17,6 +17,7 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [1, 2]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 89cf4192076479c28534e6b20d9b2ba8

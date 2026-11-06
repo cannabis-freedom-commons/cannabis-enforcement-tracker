@@ -28,6 +28,8 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [postojna, hydroponics, koper-police]

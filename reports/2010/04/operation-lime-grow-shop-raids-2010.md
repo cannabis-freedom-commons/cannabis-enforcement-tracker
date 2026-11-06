@@ -31,6 +31,7 @@ data_sources:
   details.environment: [3, 4, 1]
   details.products: [3, 4, 1]
   details.setting: [5, 2, 3]
+  figures.charged: [1, 5]
 status: verified
 tags: [operation-lime, grow-shops, hydroponic, organised-crime]
 open_questions:

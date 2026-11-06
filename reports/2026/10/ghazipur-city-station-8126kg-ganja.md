@@ -29,6 +29,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d9db7a486a022938158585ac74a531f6

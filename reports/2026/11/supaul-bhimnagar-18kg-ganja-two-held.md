@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 366e189678214e52ac0df25d8cb9c7d0

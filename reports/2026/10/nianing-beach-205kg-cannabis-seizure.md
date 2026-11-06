@@ -20,6 +20,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://fr.apanews.net/society/senegal-plus-de-200-kg-de-chanvre-indien-saisis-sur-la-plage-de-nianing/

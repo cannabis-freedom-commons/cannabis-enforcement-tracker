@@ -18,6 +18,7 @@ details:
   agency_types: [police, prosecutor]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [santiago, sao-salvador-do-mundo, policia-judiciaria, eradication]

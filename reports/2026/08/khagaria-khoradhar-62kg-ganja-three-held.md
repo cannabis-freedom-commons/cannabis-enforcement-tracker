@@ -37,6 +37,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2, 4]
   details.setting: [3, 4]
+  figures.kg_seized: [1, 4, 3]
+  figures.value: [4, 3, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b5f64d06991983e97fb37dc0856bcdff

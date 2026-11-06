@@ -27,6 +27,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 47e88ba86b2e90878289f3ee1de3e53e

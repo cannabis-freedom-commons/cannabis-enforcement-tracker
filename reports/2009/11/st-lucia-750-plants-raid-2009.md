@@ -33,6 +33,8 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [st-lucia, hydroponic, organised-crime]
 media:

@@ -40,6 +40,7 @@ data_sources:
   details.agency_types: [2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [tripura, dulunga, sonamura]
 open_questions:

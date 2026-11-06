@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 3]
   details.products: [1, 3]
   details.setting: [1, 2]
+  figures.hectares: [1]
 status: reported
 tags:
   - bekaa

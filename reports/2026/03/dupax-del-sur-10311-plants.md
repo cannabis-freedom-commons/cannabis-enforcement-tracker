@@ -24,6 +24,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [dupax-del-sur, nueva-vizcaya, kimbutan, eradication]

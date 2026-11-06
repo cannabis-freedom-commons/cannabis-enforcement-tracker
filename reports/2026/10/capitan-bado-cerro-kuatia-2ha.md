@@ -17,6 +17,8 @@ figures:
   hectares: 2
   kg_seized: 2000
 created_by_model: xai/grok-4.7
+data_sources:
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [amambay, sumar, capitan-bado]
 open_questions:

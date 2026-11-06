@@ -40,6 +40,7 @@ data_sources:
   details.environment: [1, 3, 5]
   details.products: [1, 3, 5, 2, 4]
   details.setting: [1, 3, 5, 2, 4]
+  figures.plants_destroyed: [1, 4, 2, 3, 5]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c0ca7dd3729b6a9cb0b587b6e9c6fe02

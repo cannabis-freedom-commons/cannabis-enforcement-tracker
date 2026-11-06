@@ -33,6 +33,7 @@ data_sources:
   details.environment: [1, 2, 3, 4, 5, 7]
   details.products: [1, 2, 3, 4, 5, 7]
   details.setting: [1, 2, 3, 4, 5, 7]
+  figures.plants_destroyed: [1, 2, 3, 4, 5, 7]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [diekirch, indoor, landlord-tip]

@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [1, 3, 2]
   details.setting: [2, 1]
+  figures.plants_destroyed: [1, 3, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c28c47d0b1ebc2399ad0e1811038d5e4

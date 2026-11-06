@@ -28,6 +28,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [operation-hammer-strike, greenhouses, illegal-grows]
 open_questions:

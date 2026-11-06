@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.route: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [hashish, yacht, eastern-mediterranean-route, operacion-fokke]
 sources:

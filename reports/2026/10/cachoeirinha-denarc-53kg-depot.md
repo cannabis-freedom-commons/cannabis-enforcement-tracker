@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADcia/policia-civil-apreende-mais-de-90-kg-de-drogas-1.1760034

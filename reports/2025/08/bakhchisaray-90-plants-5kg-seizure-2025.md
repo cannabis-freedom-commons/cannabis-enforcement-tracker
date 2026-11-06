@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/svyshe-90-kustov-konopli-i-pochti-5-kg-marikhuany-izyali-politseyskie-u-zhitelya-bakhchisarayskogo-r/

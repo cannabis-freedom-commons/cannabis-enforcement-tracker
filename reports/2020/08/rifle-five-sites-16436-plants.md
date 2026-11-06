@@ -33,6 +33,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, rifle, garfield-county, public-lands]

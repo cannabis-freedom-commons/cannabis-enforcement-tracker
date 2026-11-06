@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/250-kilos-de-cannabis-saisis-chez-une-habitante-de-schoelcher-887144.php

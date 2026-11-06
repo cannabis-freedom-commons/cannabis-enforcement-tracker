@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [chlef, gendarmerie, highway]
 open_questions:

@@ -20,6 +20,7 @@ details:
   setting: [forest]
 data_sources:
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
 status: verified
 tags: [arusha, meru, crackdown]
 sources:

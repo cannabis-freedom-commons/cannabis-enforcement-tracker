@@ -29,6 +29,8 @@ data_sources:
   details.environment: [2, 3, 1, 4]
   details.products: [2, 3, 1, 4]
   details.setting: [2, 3, 1, 4]
+  figures.kg_seized: [1, 4, 2]
+  figures.plants_destroyed: [1, 4, 2]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/reunion/une-quarantaine-de-pieds-de-zamal-saisis-avec-des-fusils-a-lunettes-et-des-munitions-a-saint-benoit-1745043.html

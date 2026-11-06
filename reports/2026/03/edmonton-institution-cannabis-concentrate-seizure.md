@@ -23,6 +23,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [3, 2, 4, 1]
   details.setting: [4]
+  figures.value: [2, 3, 4, 1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a452367bec7406675f238e68542ba8ab

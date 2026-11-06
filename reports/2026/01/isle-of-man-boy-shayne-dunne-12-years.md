@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.sentence_types: [2, 1, 3]
   details.setting: [1, 3, 2]
+  figures.prison: [2, 1]
 media:
   - kind: photo
     url: https://www.iomtoday.co.im/news/courts/gang-facilitator-jailed-for-failed-bids-to-bring-up-to-ps370000-worth-of-drugs-to-island-869549

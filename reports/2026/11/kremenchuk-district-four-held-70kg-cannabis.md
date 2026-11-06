@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.telegraf.in.ua/accidents/na-kremenchuchchyni-vyroshhuvaly-konopli-na-prodazh-policziya-vyluchyla-ponad-70-kg-kanabisu.html

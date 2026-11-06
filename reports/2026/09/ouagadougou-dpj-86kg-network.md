@@ -24,6 +24,7 @@ details:
 data_sources:
   details.activity: [1, 3, 5, 2]
   details.agency_types: [1, 3, 5, 2, 4]
+  figures.kg_seized: [1, 3, 5, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ouagadougou, dpj, network, gold-mines]

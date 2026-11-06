@@ -27,6 +27,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sweida, hashish, smuggling]

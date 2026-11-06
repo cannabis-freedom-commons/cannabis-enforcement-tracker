@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [sbi, aerial-surveillance, chatham-county]
 open_questions:

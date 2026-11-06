@@ -30,6 +30,8 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 32, 35, 36, 38, 43]
   details.products: [27, 36, 33, 37, 28, 43]
   details.setting: [10, 21, 19, 32, 34, 36]
+  figures.hectares: [43, 47, 48, 50, 49]
+  figures.plants_destroyed: [1, 2, 4, 8, 10, 13]
 status: verified
 tags: [bnn, mandailing-natal, tor-sihite, hillside]
 open_questions:

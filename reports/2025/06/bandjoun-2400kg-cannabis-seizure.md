@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.kg_seized: [1, 3]
 status: verified
 tags: [customs, bandjoun, west-region]
 open_questions:

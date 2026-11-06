@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [2, 1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.lexpress.mg/2025/07/befandriana-nord-un-quart-de-tonne-de.html

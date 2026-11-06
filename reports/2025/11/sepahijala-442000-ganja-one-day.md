@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 3]
   details.products: [1]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [3, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, ganja, forest-land]

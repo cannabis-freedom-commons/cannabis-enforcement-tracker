@@ -30,6 +30,9 @@ details:
 data_sources:
   details.agency_types: [1, 4, 5, 6, 7, 9]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  figures.arrested: [2, 6, 8, 10, 11, 12]
+  figures.kg_seized: [2, 6, 8, 10, 11, 12]
+  figures.plants_destroyed: [1, 7, 15, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d5ffc08e687446b4d3d9749dcfb32a44

@@ -18,6 +18,9 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3, 4]
   details.setting: [2, 1, 3]
+  figures.arrested: [2, 3, 4]
+  figures.kg_seized: [2, 3, 4]
+  figures.plants_destroyed: [2, 3, 4]
 status: verified
 cfi_id: new-zealand-transtasman-cannabis-sting-2026
 sources:

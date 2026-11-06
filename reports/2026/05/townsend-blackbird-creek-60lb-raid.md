@@ -23,6 +23,7 @@ details:
   products: [{product: flower, kg: 27.216}, {product: plants, plants: 32}]
 data_sources:
   details.products: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [date, unlicensed, townsend]

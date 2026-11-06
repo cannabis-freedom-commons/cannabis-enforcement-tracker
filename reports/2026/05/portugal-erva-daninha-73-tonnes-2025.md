@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [4, 2]
   details.case_stage: [2, 3, 4, 5]
   details.setting: [4, 5]
+  figures.charged: [1, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b3a3477675d96401a86386d066ba74c7

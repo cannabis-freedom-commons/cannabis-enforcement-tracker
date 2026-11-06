@@ -21,6 +21,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: c59a6d5661531269a993ba9dc68cb258

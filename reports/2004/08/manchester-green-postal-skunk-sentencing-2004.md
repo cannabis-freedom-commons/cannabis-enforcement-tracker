@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [2]
   details.setting: [1, 2]
+  figures.prison: [2]
 status: verified
 tags: [manchester-crown-court, postal-importation, skunk, confiscation]
 open_questions:

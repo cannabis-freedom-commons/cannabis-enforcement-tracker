@@ -26,6 +26,8 @@ data_sources:
   details.case_stage: [1, 3, 5, 7, 8, 2]
   details.sentence_types: [1, 3, 5, 7, 8, 6]
   details.setting: [1, 3, 5, 7, 8, 6]
+  figures.kg_seized: [1, 5, 6, 7, 8]
+  figures.prison: [1, 3, 5, 7, 8]
 media:
   - kind: photo
     url: https://www.yorkshirepost.co.uk/news/crime/drugs-gang-jailed-for-more-than-85-years-after-police-uncover-industrial-scale-cocaine-and-cannabis-operation-9321977

@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 status: verified
 tags: [death-sentence, trafficking, kedah]
 sources:

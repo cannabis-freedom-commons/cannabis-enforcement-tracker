@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://tula.mk.ru/incident/2026/10/16/u-zhitelya-beleva-nashli-bolee-100-kustov-konopli-i-459-grammov-marikhuany.html

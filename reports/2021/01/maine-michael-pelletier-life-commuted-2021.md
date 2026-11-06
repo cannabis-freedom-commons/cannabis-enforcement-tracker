@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2, 3]
+  figures.prison: [1, 2]
 status: verified
 tags: [commutation, clemency, smuggling, life-sentence]
 open_questions:

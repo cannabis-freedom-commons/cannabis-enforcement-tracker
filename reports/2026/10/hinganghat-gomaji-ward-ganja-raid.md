@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [2, 3, 1, 4]
   details.products: [2, 3, 1]
   details.setting: [2, 3, 1]
+  figures.value: [3, 2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4a97d98d821586be0d898efe148c92eb

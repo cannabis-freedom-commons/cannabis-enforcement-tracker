@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.bhaskarenglish.in/local/gujarat/ahmedabad/news/ahmedabad-man-arrested-2kg-ganja-luxury-car-69-lakh-137989306.html

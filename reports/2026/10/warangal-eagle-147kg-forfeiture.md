@@ -27,6 +27,7 @@ data_sources:
   details.agencies: [1, 2, 4, 6, 7, 8]
   details.agency_types: [1, 2, 4, 6, 7, 8]
   details.products: [1, 2, 4]
+  figures.kg_seized: [1, 2, 4]
 status: verified
 created_by_model: meta/muse-spark
 tags: [eagle-force, warangal, ndps-act, asset-forfeiture]

@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.periodicocubano.com/operativo-policial-en-songo-la-maya-desmantela-cultivo-de-marihuana-con-mas-de-2-mil-plantas

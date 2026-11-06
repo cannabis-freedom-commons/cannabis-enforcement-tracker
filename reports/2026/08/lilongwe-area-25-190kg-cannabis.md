@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://malawi24.com/2026/08/12/190kg-cannabis-haul-lands-two-in-police-net/

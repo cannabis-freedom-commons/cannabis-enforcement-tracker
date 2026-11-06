@@ -30,6 +30,8 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.prison: [1]
 status: verified
 tags: [appeal, death-penalty, caning]
 open_questions:

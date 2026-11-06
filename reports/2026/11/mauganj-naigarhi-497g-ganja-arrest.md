@@ -24,6 +24,7 @@ details:
 data_sources:
   details.agency_types: [2, 1]
   details.products: [1, 2]
+  figures.value: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: d328550684033d4ff0cb1d71667a3099

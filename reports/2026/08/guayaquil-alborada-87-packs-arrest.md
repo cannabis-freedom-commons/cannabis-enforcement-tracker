@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.eluniverso.com/noticias/seguridad/marihuana-saborizada-una-nueva-modalidad-de-trafico-de-sustancias-que-la-jefatura-antidrogas-busca-contener-en-ecuador-nota/

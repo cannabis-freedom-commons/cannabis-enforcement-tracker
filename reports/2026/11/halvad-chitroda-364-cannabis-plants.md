@@ -28,6 +28,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  figures.plants_destroyed: [1]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://morbiupdate.com/2026/11/03/364-cannabis-plants-cultivated-under-the-guise-of-a-castor-crop-seized-in-chitroda-village-of-halvad

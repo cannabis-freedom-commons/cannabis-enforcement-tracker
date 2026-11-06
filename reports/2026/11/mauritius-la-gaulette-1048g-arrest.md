@@ -24,6 +24,8 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://lexpress.mu/s/1-048-g-de-cannabis-et-rs-461-400-saisis-au-domicile-dun-homme-564391

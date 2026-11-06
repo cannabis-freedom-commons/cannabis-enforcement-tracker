@@ -19,6 +19,7 @@ details:
   agency_types: [police, prosecutor]
 data_sources:
   details.agency_types: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.tanjug.rs/srbija/hronika/291533/u-kraljevu-zaplenjeno-40-kilograma-kanabisa-jedan-muskarac-uhapsen/vest

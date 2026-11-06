@@ -32,6 +32,8 @@ data_sources:
   details.case_stage: [2, 3, 4, 1]
   details.products: [2, 1, 4]
   details.setting: [3, 2, 4, 1]
+  figures.kg_seized: [2, 1, 4]
+  figures.plants_destroyed: [2, 1, 4]
 media:
   - kind: photo
     url: https://bc.espreso.tv/news-konoplyana-plantatsiya-ta-desyatki-kilogramiv-kanabisu-na-bilotserkivshchini-vikrili-narkobiznes

@@ -18,6 +18,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/faits-divers/298-pieds-de-cannabis-saisis-a-tubuai/

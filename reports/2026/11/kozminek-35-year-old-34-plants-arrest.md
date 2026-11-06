@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.plants_destroyed: [1, 2, 5, 6, 7, 8]
 media:
   - kind: photo
     url: https://kalisz.naszemiasto.pl/35-latek-uprawial-konopie-i-handlowal-narkotykami/ar/c1p2-29492801

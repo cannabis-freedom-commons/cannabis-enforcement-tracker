@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [3, 1, 2]
   details.route: [1, 2, 3]
+  figures.kg_seized: [3, 1, 2]
 status: verified
 tags: [trafficking, laos-route]
 sources:

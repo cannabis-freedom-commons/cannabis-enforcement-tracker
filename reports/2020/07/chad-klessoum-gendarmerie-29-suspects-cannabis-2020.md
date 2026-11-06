@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/Tchad-des-armes-des-faux-billets-et-de-la-drogue-saisis-par-la-gendarmerie-29-arrestations_a91075.html

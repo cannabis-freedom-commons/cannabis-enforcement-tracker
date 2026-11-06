@@ -37,6 +37,7 @@ data_sources:
   details.case_stage: [1, 4, 5, 6, 7, 8]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29]
   details.setting: [1, 6, 15, 16, 21, 23]
+  figures.kg_seized: [1, 6, 15, 16, 21, 23]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 45bd460fd5b7a336e34b8c425f838599

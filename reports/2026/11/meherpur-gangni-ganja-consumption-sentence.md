@@ -38,6 +38,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8023739f5660ad32f60b5343149bb157

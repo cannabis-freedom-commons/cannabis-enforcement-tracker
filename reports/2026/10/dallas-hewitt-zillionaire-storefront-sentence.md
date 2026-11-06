@@ -26,6 +26,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://www.fox4news.com/news/crips-gang-member-gets-37-year-sentence-using-storefront-sell-zillionaire-marijuana-other-drugs

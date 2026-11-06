@@ -23,6 +23,7 @@ details:
 data_sources:
   details.activity: [2, 1, 3]
   details.case_stage: [2, 1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.ennaharonline.com/fr/saisie-de-86-kilogrammes-de-cannabis-en-provenance-du-maroc/

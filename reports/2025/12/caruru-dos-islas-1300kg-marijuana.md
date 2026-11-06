@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 3, 1]
   details.products: [2, 3, 1]
+  figures.kg_seized: [2, 3]
 media:
   - kind: photo
     url: https://www.cgfm.mil.co/es/multimedia/noticias/ejercito-nacional-y-policia-incautan-mas-de-una-tonelada-de-marihuana-destinado

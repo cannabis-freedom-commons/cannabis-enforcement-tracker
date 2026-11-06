@@ -32,6 +32,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [cnb, ang-mo-kio, pasir-ris]
 open_questions:

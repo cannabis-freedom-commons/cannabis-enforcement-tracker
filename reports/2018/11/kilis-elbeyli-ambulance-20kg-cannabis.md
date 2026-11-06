@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2759325-suriyeden-donen-ambulansta-esrar-ele-gecirildi

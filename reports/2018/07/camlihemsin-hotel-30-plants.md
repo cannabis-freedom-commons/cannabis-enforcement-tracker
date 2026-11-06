@@ -27,6 +27,7 @@ data_sources:
   details.environment: [2, 1, 3]
   details.products: [2, 1]
   details.setting: [2, 1, 3]
+  figures.plants_destroyed: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.sozcu.com.tr/otel-odasinda-soke-eden-goruntu-wp2542910

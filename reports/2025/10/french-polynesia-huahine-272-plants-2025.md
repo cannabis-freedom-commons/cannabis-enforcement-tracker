@@ -26,6 +26,8 @@ data_sources:
   details.environment: [3, 4, 2, 1]
   details.products: [3, 4, 2]
   details.setting: [3, 4, 2, 1]
+  figures.kg_seized: [2, 1, 3]
+  figures.plants_destroyed: [3, 4, 2, 1]
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/faits-divers/deux-sites-de-cultures-de-cannabis-decouverts-a-huahine-272-plants-saisis/

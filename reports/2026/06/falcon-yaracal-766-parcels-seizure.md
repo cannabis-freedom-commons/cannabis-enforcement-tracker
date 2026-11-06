@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [1, 3]
   details.setting: [2, 1, 3]
+  figures.kg_seized: [1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 632783ac6e68a4e8903f58f0afd902d5

@@ -33,6 +33,8 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.environment: [1, 2]
   details.products: [2, 3, 1]
+  figures.plants_destroyed: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [attica, daoe, hydroponic, skunk]
 open_questions:

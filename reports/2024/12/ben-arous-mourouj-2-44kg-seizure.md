@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
 data_sources:
   details.activity: [1, 3, 2, 4]
+  figures.kg_seized: [3, 2, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79745d056e575ad110d231d7ccc3e657

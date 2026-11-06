@@ -38,6 +38,7 @@ data_sources:
   details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [samui, airport, smuggling, singapore-route, british]

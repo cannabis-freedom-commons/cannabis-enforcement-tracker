@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [1]
   details.setting: [1]
+  figures.hectares: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [yakutia, sakha, mak-2026, wild-cannabis, russia]

@@ -26,6 +26,7 @@ data_sources:
   details.environment: [2, 1]
   details.products: [1]
   details.setting: [3, 4, 1, 2]
+  figures.kg_seized: [3, 4, 1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6bf466206644b34dd96c8983cecd9143

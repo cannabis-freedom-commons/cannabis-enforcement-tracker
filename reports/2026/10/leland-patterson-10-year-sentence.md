@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.prison: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64cbb60d5b9c44695e4a1f3663bd300a

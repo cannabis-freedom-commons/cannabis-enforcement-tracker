@@ -34,6 +34,8 @@ data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.setting: [2, 1, 4, 3]
+  figures.hectares: [1, 3]
+  figures.kg_seized: [1, 3]
 status: verified
 tags:
   - ndlea

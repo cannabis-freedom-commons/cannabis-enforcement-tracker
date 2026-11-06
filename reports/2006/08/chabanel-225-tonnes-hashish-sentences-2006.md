@@ -39,6 +39,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [west-end-gang, rcmp, hashish, sting, angola]
 open_questions:

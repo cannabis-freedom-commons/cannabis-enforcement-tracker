@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-deux-individus-interpelles-et-113-kg-de-cannabis-saisis-a-asseyaokro-police/

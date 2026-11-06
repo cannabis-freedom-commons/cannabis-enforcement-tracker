@@ -20,6 +20,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/america/mexico/2021/11/21/semar-decomiso-288-kilos-de-marihuana-en-colima-con-destino-a-costa-rica/

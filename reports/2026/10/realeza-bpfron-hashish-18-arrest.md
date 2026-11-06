@@ -39,6 +39,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.value: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 043694c5d7e39e2b3df3f91fb1fb2754

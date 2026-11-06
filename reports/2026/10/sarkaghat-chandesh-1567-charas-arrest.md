@@ -31,6 +31,7 @@ data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [2]
   details.setting: [2, 3]
+  figures.kg_seized: [2, 3, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f32bad273f44942b15ce1e9098e5ae88

@@ -35,6 +35,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.fine: [1, 2, 3, 4]
 status: verified
 tags:
   - tarkwa

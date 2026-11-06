@@ -30,6 +30,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.abc.net.au/news/2026-04-16/police-seize-more-than-350-cannabis-plants-from-kalgoorlie-house/106571660

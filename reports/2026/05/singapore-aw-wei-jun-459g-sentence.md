@@ -32,6 +32,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [cnb, ang-mo-kio, repeat-offender]
 open_questions:

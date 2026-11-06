@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2024/11/26/incautan-cerca-de-dos-toneladas-de-marihuana-y-cocaina-en-frontera-con-panama-tres-personas-fueron-capturadas/

@@ -37,6 +37,8 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.prison: [2, 1]
 status: verified
 tags: [airport, customs, trafficking]
 open_questions:

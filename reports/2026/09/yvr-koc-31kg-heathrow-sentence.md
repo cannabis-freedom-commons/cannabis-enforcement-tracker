@@ -34,6 +34,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [richmond, british-columbia, vancouver-airport, smuggling, exportation]

@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
   details.setting: [1, 3]
+  figures.kg_seized: [1, 3, 2]
 media:
   - kind: photo
     url: https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/29/mais-de-90-kg-de-maconha-sao-encontrados-em-malas-com-destino-a-curitiba-na-rodoviaria-de-campo-grande.ghtml

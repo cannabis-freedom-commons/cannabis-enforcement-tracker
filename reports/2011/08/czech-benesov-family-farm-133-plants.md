@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 17898b786aa08cce7d4484770df23f19

@@ -30,6 +30,8 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/panama/2026/03/14/capturados-en-alta-mar-condenan-a-13-anos-a-dos-colombianos-por-trafico-de-marihuana-y-cocaina/

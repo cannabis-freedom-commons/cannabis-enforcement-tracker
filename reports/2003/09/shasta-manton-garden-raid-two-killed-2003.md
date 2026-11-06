@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [2]
   details.force: [1, 3]
   details.products: [1, 3, 2]
+  figures.plants_destroyed: [3, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [camp, shasta-county, manton]

@@ -28,6 +28,8 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [border, turkey-route, sniffer-dog]

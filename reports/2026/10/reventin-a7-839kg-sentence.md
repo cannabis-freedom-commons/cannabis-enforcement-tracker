@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1, 3]
+  figures.kg_seized: [1, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [reventin, a7, go-fast, resin, ofast]

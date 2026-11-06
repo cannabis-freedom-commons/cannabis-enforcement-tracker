@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 sources:
   - title: Ten members of a criminal organisation have been arrested following a shooting attack on a Civil Guard patrol boat in the waters off Huelva

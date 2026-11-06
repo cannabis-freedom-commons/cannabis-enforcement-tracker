@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.route: [1, 2]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.thehindu.com/news/cities/Madurai/police-seize-194-kg-of-ganja-en-route-to-sri-lanka-one-arrested/article70583847.ece

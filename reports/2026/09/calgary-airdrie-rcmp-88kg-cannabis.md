@@ -45,6 +45,7 @@ data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [alberta, calgary, airdrie, rcmp, money-laundering, contraband-tobacco]

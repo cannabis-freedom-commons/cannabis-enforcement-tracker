@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 3, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5232d80fbc1b9eb4db69414083b24e1f

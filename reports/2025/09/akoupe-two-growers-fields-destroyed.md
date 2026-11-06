@@ -23,6 +23,8 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-deux-cultivateurs-de-cannabis-interpelles-et-deux-champs-detruits-a-akoupe-police/

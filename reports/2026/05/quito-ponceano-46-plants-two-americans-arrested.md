@@ -22,6 +22,7 @@ data_sources:
   details.activity: [3, 1]
   details.agency_types: [1, 3, 2]
   details.products: [1, 3, 2]
+  figures.plants_destroyed: [3, 1, 2]
 media:
   - kind: photo
     url: https://www.primicias.ec/sucesos/detencion-estadounidenses-plantacion-marihuana-quito-policia-123937/

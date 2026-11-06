@@ -29,6 +29,9 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://phnompenhpost.com/national/drug-bust-yields-12500-marijuana-plants-over-30kg-dried-produce/

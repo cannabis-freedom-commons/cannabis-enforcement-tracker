@@ -27,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [yunabol, oksibil, siminbuk, serambakon, pegunungan-bintang, highland-papua]
 sources:

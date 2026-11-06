@@ -37,6 +37,7 @@ data_sources:
   details.agency_types: [4, 1, 2, 3]
   details.products: [1, 3]
   details.setting: [4, 3, 2]
+  figures.kg_seized: [4, 1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, tripura, khowai, assam-rifles, customs]

@@ -19,6 +19,7 @@ details:
   products: [{product: flower}]
 data_sources:
   details.products: [1, 2]
+  figures.fine: [1, 2]
 status: disputed
 created_by_model: openai/gpt-6
 tags: [catalyst-cannabis, inventory-tracking, retail-sales]

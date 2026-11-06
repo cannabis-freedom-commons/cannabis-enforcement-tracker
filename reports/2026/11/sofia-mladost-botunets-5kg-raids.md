@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [4, 6, 8]
   details.products: [1, 5, 9, 3, 6, 8]
   details.setting: [4, 6, 8]
+  figures.kg_seized: [1, 5, 7, 9, 2]
 media:
   - kind: photo
     url: https://burgasmedia.com/news/trima-zadarzhani-i-nad-5-kg-marihuana-pri-akcii-v-sofiya?lang=en

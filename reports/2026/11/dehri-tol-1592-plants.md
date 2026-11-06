@@ -29,6 +29,8 @@ data_sources:
   details.agency_types: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: video
     url: https://www.bhaskar.com/local/mp/dhar/kukshi/video/dehri-police-seize-cannabis-plants-field-drug-bust-139558088.html?type=video

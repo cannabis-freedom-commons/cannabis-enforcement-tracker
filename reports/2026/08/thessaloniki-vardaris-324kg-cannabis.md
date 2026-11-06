@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [4]
   details.setting: [2, 1, 3]
+  figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1312577/police-break-gang-that-smuggled-albanian-marijuana-to-turkey-in-waste/

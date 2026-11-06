@@ -26,6 +26,8 @@ data_sources:
   details.activity: [1, 3, 4, 6, 7, 8]
   details.agency_types: [1, 4, 6, 7, 8, 9]
   details.setting: [1, 4, 5, 10, 11, 6]
+  figures.kg_seized: [1, 5, 6, 7, 8, 9]
+  figures.plants_destroyed: [1, 4, 6, 7, 8, 9]
 media:
   - kind: video
     url: https://www.bhaskar.com/local/mp/barwani/sendhwa/news/barwani-ganja-seizure-borpadwa-police-raid-operation-green-strike-139558361.html

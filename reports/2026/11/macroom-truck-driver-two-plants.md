@@ -28,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.value: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3a4cf3001e267398dadad0e585a13ee2

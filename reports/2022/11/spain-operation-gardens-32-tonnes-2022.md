@@ -29,6 +29,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.ladbible.com/news/spanish-police-seize-largest-amount-marijuana-20221106

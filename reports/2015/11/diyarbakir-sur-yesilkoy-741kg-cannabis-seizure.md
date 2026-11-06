@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/1667584-diyarbakirda-741-kilogram-esrar-ele-gecirildi

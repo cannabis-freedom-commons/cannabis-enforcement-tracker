@@ -30,6 +30,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lamu, sentencing, trafficking]

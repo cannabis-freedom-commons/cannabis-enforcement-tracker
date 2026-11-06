@@ -24,6 +24,8 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.police1.com/drug-interdiction-narcotics/articles/1b-in-illegal-pot-seized-in-largest-los-angeles-county-bust-kduJCyY7SKfEBWJG/

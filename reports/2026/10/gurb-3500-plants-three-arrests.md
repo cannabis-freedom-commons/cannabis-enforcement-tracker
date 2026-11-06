@@ -42,6 +42,8 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dae2934995881cbaf1718b0ad904c298

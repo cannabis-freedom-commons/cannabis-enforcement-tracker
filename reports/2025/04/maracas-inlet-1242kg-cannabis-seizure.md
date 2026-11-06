@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.setting: [2]
+  figures.value: [2]
 media:
   - kind: photo
     url: https://www.guardian.co.tt/news/police-seized-over-136m-in-marijuana-in-maracas-6.2.2273596.2b5b5f1b16

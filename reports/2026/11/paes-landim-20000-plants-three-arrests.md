@@ -54,6 +54,7 @@ data_sources:
   details.case_stage: [2, 3, 4]
   details.products: [1, 4, 5, 6, 3]
   details.setting: [3, 4, 5]
+  figures.plants_destroyed: [1, 4, 5, 6, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7e789da53b424c595c697e5aed18d315

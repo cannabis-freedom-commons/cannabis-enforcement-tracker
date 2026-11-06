@@ -28,6 +28,8 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.filipinonewssentinel.com/3-drug-personalities-busted-over-9-8-m-worth-of-marijuana-seized-and-destroyed-in-separate-drug-operations-in-kalinga/

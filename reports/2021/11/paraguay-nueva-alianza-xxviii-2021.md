@@ -36,6 +36,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
+  figures.hectares: [2, 1]
 status: verified
 tags: [senad, amambay, nueva-alianza]
 open_questions:

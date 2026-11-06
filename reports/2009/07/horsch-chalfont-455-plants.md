@@ -30,6 +30,8 @@ data_sources:
   details.products: [4, 1, 7, 2, 3, 6]
   details.sentence_types: [7]
   details.setting: [1, 7, 2, 3, 6, 5]
+  figures.kg_seized: [1, 7, 2, 3, 6, 5]
+  figures.prison: [2, 3, 6, 5, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [pennsylvania, chalfont, grow-house, federal-sentence, cooperation]

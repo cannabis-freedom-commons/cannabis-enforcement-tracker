@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [osabot, rcmp, opp, outdoor-grows]
 open_questions:

@@ -21,6 +21,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.gxnews.com.cn/staticpages/20260929/newgx6abbbf93-21999648.shtml

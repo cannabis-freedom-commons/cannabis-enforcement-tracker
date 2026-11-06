@@ -24,6 +24,8 @@ data_sources:
   details.activity: [2]
   details.agency_types: [1]
   details.products: [1, 2]
+  figures.hectares: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [operation-jerovia]
 open_questions:

@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [2, 4, 5, 6, 8, 9]
   details.case_stage: [2, 5, 6, 10, 9]
   details.setting: [2, 4, 5, 6, 8, 9]
+  figures.kg_seized: [2, 4, 5, 6, 8, 9]
 media:
   - kind: photo
     url: https://radarcirebon.disway.id/insiden-24-jam/read/234861/jaringan-ganja-di-cirebon-terbongkar-polisi-sita-10-kg-pasokan-ternyata-dari-jakarta

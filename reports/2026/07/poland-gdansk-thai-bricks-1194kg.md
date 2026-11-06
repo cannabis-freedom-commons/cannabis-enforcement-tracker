@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [border-guard, gdansk, thailand, smuggling]
 sources:

@@ -28,6 +28,7 @@ data_sources:
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [2, 1]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: video
     url: https://t.me/minobl_uvd/69572

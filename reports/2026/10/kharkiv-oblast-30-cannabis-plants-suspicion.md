@@ -25,6 +25,7 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e774b80a1af8ab014d39f56fe95dbd0b

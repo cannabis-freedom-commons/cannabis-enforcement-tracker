@@ -64,6 +64,9 @@ data_sources:
   details.products: [2, 6, 7, 8, 9, 10]
   details.sentence_types: [1, 4, 5, 7, 11, 18]
   details.setting: [1, 2, 4, 5]
+  figures.kg_seized: [2, 6, 7, 8, 9, 10]
+  figures.plants_destroyed: [1, 4, 5, 7, 11, 18]
+  figures.value: [1, 4, 5, 6, 7, 8]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a267e9129b496b3d2b453398938b0c9b

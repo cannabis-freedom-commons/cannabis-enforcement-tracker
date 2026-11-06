@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://www.1news.co.nz/2026/10/31/wairarapa-drug-kingpins-prison-sentence-a-major-blow-to-organised-crime/

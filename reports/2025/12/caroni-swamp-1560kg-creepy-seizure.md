@@ -21,6 +21,8 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: http://www.guardian.co.tt/news/ganja-haul-in-caroni-swamp-6.2.2469646.d714a77ba8

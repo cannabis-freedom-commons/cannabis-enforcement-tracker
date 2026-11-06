@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 3, 2]
   details.sentence_types: [1]
   details.setting: [1, 3, 2]
+  figures.prison: [1]
 media:
   - kind: photo
     url: https://www.supertalk.fm/man-sentenced-to-10-years-in-prison-for-illegal-pot-farm-in-crystal-springs/

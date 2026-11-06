@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [2, 3, 5, 6, 1]
   details.products: [1, 3, 6, 4, 5]
   details.setting: [1, 4, 5, 2, 3, 6]
+  figures.kg_seized: [1, 3, 6]
 media:
   - kind: photo
     url: https://www.encastillalamancha.es/ciudad-real/fentanilo-morfina-y-marihuana-cae-una-red-de-trafico-de-drogas-en-puertollano-con-cuatro-detenidos/

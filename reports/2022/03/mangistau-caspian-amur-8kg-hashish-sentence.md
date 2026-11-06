@@ -37,6 +37,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b24959823435820a0b5363a86cbaf3d6

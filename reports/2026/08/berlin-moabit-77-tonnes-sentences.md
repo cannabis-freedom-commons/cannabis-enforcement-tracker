@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [moabit, smuggling, canada]

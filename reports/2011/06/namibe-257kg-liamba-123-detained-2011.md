@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.voaportugues.com/a/namibe-06-27-2011-voanews-124607959/1260584.html

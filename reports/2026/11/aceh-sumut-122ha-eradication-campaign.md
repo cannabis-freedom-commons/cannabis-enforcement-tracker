@@ -59,6 +59,8 @@ data_sources:
   details.products: [1, 3, 4, 6, 7, 9]
   details.sentence_types: [21]
   details.setting: [27, 28, 29, 30, 1, 4]
+  figures.hectares: [1, 13, 22, 24, 27, 29]
+  figures.plants_destroyed: [1, 3, 4, 6, 7, 9]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0b11fdb744747faab0170240badc5d4

@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.sentence_types: [2, 3, 1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 3]
 status: verified
 cfi_id: china-beijing-airport-cannabis-2025
 sources:

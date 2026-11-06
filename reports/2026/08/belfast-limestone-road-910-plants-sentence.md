@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.prison: [1]
 media:
   - kind: photo
     url: https://www.belfastlive.co.uk/news/afghan-nationals-jailed-involvement-north-34516787

@@ -21,6 +21,8 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
+  figures.hectares: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 open_questions:
   - The articles are dated 13 May but do not give a separate date or time for the operation.

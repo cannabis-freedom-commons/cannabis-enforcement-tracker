@@ -17,6 +17,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 tags: [joint-operation, tni, community-plantation]
 summary: >-
   A joint force led by Yonif 734/SNS with five task forces, military

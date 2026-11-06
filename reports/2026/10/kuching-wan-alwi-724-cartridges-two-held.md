@@ -25,6 +25,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://dayakdaily.com/police-seize-724-suspected-cannabis-cartridges-worth-rm347520-arrest-two-women-in-kuching/

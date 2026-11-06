@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.telemundopr.com/noticias/puerto-rico/autoridades-incautan-44-plantas-de-marihuana-en-residencia-en-aguadilla/2200995/

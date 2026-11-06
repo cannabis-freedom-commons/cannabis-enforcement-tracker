@@ -25,6 +25,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.value: [1, 3]
 media:
   - kind: photo
     url: https://www.infobae.com/peru/2026/03/25/policia-de-peru-y-ecuador-incauta-mas-de-15-toneladas-de-marihuana-en-frontera-mafia-colombiana-escondia-droga-en-vigas-de-acero/

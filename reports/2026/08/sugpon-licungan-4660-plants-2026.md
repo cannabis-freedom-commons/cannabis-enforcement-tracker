@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://newsinfo.inquirer.net/2295021/over-p200000-marijuana-plants-discovered-in-ilocos-sur

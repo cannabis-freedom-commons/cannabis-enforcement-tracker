@@ -27,6 +27,8 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [kwale, mdomo, anu, trafficking]
 sources:

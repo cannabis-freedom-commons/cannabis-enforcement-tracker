@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [bonaerense, exaltacion-de-la-cruz, indoor]
 sources:

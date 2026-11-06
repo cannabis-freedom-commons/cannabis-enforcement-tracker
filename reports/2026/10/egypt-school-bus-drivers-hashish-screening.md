@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e7f3df937e3ca8b4fbc07277be1dee47

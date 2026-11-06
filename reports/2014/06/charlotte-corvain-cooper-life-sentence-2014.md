@@ -28,6 +28,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]
+  figures.prison: [2, 1]
 status: verified
 tags: [three-strikes, conspiracy, mandatory-minimum, clemency]
 open_questions:

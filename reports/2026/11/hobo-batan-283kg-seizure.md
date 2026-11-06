@@ -25,6 +25,8 @@ data_sources:
   details.agency_types: [2, 3, 6, 1, 5, 4]
   details.products: [2, 3, 6, 1, 5]
   details.setting: [2, 3, 6, 1, 5, 4]
+  figures.kg_seized: [2, 3, 6, 1, 5, 4]
+  figures.value: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo
     url: https://www.diariodelsur.com.co/noticias/ejercito-incauta-mas-de-500-000-dosis-de-marihuana-en-hobo-huila

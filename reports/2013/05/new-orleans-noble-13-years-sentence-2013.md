@@ -33,6 +33,7 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [2, 3, 1]
   details.setting: [1, 3, 2]
+  figures.prison: [1, 3]
 status: verified
 tags: [habitual-offender, sentencing, clemency]
 sources:

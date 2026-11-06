@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.fine: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f617fd2733906c2dd354c05fa36b4856

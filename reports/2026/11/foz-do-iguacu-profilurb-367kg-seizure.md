@@ -29,6 +29,8 @@ data_sources:
   details.activity: [1, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 50fe827926d999e496b90187c87bf36d

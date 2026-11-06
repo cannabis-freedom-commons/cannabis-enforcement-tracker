@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [indoor, kose, plea]
 open_questions:

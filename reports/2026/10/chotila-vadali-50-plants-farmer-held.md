@@ -28,6 +28,8 @@ data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.products: [1]
+  figures.plants_destroyed: [2, 1]
+  figures.value: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 66e423f4a8a27508f0e39f6ecb3e4e0e

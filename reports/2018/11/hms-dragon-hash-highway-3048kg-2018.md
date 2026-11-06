@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [hashish, maritime, ctf-150]
 media:

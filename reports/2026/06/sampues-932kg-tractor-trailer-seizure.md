@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [3, 4, 1, 2]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2026/06/15/golpe-al-narcotrafico-en-sucre-policia-logro-la-incautacion-de-casi-una-tonelada-de-marihuana/

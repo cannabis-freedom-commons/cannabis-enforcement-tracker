@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.rcn67.com.br/tres-lagoas/jpnews/jovem-de-21-anos-e-preso-com-tablete-de-maconha-durante-abordagem-em-tres-lagoas/

@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 2, 3, 4, 5]
+  figures.plants_destroyed: [1, 2, 3, 4, 5]
 media:
   - kind: photo
     url: https://www.crimevoice.com/2026/10/15/kern-county-taft-cannabis-grow-investigation/

@@ -32,6 +32,7 @@ data_sources:
   details.activity: [7, 25, 8, 15, 19, 21]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 4, 7, 8, 11, 12]
+  figures.value: [1, 4, 5, 7, 8, 9]
 media:
   - kind: photo
     url: https://www.hfocus.org/content/2026/11/40096

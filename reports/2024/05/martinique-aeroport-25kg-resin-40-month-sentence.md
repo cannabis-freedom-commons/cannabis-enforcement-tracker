@@ -36,6 +36,9 @@ data_sources:
   details.case_stage: [3, 1, 2]
   details.products: [1, 2, 3]
   details.setting: [1]
+  figures.fine: [2, 1, 3]
+  figures.kg_seized: [1, 2, 3]
+  figures.prison: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 73abc98e4810f63907bd78a506117fd6

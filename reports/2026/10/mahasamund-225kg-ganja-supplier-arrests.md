@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [1, 2]
   details.setting: [2]
+  figures.kg_seized: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: eb7318cfbacc6dfd9a70d70ebd496543

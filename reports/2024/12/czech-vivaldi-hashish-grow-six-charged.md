@@ -33,6 +33,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, cannabis-grow, czechia, slovakia, vivaldi]

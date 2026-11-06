@@ -52,6 +52,7 @@ data_sources:
   details.case_stage: [2]
   details.environment: [2, 3]
   details.products: [1, 2]
+  figures.plants_destroyed: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b49ca59fb958d79be06f4a2e1417d4f8

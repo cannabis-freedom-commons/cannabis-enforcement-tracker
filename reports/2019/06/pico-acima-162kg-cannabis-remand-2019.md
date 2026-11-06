@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://expressodasilhas.cv/pais/2019/06/05/prisao-preventiva-para-homem-detido-na-posse-arma-de-fogo-e-162-quilos-de-cannabis/64129

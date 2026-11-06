@@ -28,6 +28,7 @@ data_sources:
   details.activity: [3, 1, 2]
   details.products: [1, 3]
   details.setting: [3, 1, 2]
+  figures.plants_destroyed: [1, 3]
 status: verified
 tags: [yurok, humboldt-county, operation-yurok]
 media:

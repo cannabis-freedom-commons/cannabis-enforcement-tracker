@@ -26,6 +26,9 @@ data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.hectares: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 open_questions:
   - The articles report 53,500 plants in the farms and about 9,600 nursery seedlings separately, without one combined total.

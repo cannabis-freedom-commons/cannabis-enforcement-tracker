@@ -22,6 +22,8 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [2, 1]
+  figures.kg_seized: [2, 1]
+  figures.value: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: fda9fd04a3701200ea7c283395f0f4e4

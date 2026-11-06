@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2092085-kavakta-22-kok-hint-keneviri-ele-gecirildi

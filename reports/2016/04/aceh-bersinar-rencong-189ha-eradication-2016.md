@@ -24,6 +24,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.hectares: [1]
 status: verified
 tags: [aceh, bersinar-rencong, eradication-campaign]
 media:

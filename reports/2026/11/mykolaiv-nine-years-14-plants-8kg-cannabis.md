@@ -38,6 +38,7 @@ data_sources:
   details.products: [7, 12, 13, 8, 9, 10]
   details.sentence_types: [2, 5, 1, 3, 4, 6]
   details.setting: [1, 3, 4, 5, 6, 7, 10, 11, 12, 13]
+  figures.kg_seized: [2, 11, 1, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df882d7edc003b5c737665ede94ca608

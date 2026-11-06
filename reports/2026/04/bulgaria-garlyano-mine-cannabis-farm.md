@@ -38,6 +38,7 @@ data_sources:
   details.environment: [1, 2, 3]
   details.route: [1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 3, 1]
 status: verified
 tags:
   - gdbop

@@ -26,6 +26,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [svinesund, toll]
 open_questions:

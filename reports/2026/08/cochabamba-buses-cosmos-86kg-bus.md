@@ -23,6 +23,7 @@ data_sources:
   details.case_stage: [1, 2, 7, 3, 5, 6]
   details.products: [1, 2, 6, 7, 5, 4]
   details.setting: [2, 3, 5, 6, 8, 4]
+  figures.kg_seized: [1, 2, 6, 7]
 media:
   - kind: photo
     url: https://www.mediotiempo.com/futbol/autobus-trasladaria-sao-paulo-detenido-bolivia-86-kilos-marihuana

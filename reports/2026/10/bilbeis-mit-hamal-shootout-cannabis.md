@@ -28,6 +28,7 @@ data_sources:
   details.environment: [1, 2, 3]
   details.force: [2, 1]
   details.products: [1]
+  figures.deaths: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 539c41fbacefd24996af4d765ef7652c

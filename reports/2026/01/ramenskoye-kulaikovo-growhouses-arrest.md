@@ -30,6 +30,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/narkodeltsy-vyrastivshie-195-kustov-konopli-dlya-izgotovleniya-marikhuany-zaderzhany-v-podmoskove/

@@ -19,6 +19,8 @@ figures:
   value:
     amount: 45000
     currency: TTD
+data_sources:
+  figures.value: [1]
 media:
   - kind: photo
     url: http://youthere1news.blogspot.com/2026/11/ttps-recovers-45000-in-cannabis-several.html

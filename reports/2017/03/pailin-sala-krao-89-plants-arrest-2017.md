@@ -22,6 +22,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.products: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/15581/man-held-over-cannabis-farm/

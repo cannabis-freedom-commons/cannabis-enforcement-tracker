@@ -29,6 +29,7 @@ data_sources:
   details.force: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [1]
 status: verified
 tags: [burglary, shotgun, self-defence]
 sources:

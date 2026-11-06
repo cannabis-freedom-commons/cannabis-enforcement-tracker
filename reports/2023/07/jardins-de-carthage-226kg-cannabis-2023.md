@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://kapitalis.com/tunisie/2023/07/31/jardins-de-carthage-saisie-de-226-kg-de-cannabis-dune-valeur-de-6-md/

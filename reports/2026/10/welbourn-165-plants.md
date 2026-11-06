@@ -28,6 +28,8 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [lincolnshire, welbourn, indoor-grow]
 open_questions:

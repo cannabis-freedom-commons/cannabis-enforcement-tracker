@@ -29,6 +29,9 @@ data_sources:
   details.case_stage: [1, 3]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
+  figures.kg_seized: [1, 3, 2]
+  figures.plants_destroyed: [1, 3, 2]
+  figures.value: [1, 3, 2]
 status: verified
 tags: [hawick, scottish-borders, hotel, albanian-nationals, indoor-grow]
 open_questions:

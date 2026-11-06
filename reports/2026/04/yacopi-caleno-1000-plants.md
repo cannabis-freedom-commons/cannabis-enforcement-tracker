@@ -27,6 +27,8 @@ data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.products: [2, 1]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [yacopi, army, cundinamarca]

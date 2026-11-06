@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 3, 2]
   details.setting: [1, 3, 4, 2]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [louth, drogheda, prosecution]

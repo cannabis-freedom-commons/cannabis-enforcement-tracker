@@ -40,6 +40,7 @@ data_sources:
   details.agency_types: [2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [tripura, sonamura, kamalnagar]
 open_questions:

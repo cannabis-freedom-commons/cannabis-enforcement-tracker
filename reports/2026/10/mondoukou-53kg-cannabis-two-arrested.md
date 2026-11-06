@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/10/16/cote-divoire/societe/cote-divoire-mondoukou-plus-de-53-kg-de-cannabis-saisis-deux-individus-interpelles_201680.html

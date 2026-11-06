@@ -27,6 +27,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.route: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [coast-guard, pirogue, venezuela-route]

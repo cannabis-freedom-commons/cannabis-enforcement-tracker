@@ -55,6 +55,7 @@ data_sources:
   details.case_stage: [3, 1, 6, 7, 4, 5]
   details.environment: [1, 5, 6, 7]
   details.setting: [1, 5, 6, 7]
+  figures.plants_destroyed: [1, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 35befc440e1493f58082bd975b185519

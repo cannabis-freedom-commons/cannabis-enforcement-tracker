@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [2, 1, 3]
   details.products: [1]
   details.setting: [2, 1, 3]
+  figures.kg_seized: [1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sonbhadra, uttar-pradesh, ganja, operation-shuddhi, odisha]

@@ -19,6 +19,7 @@ details:
   case_stage: investigation
 data_sources:
   details.case_stage: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.leprogres.fr/faits-divers-justice/2026/10/28/cinq-interpellations-435-grammes-de-cocaine-et-1-7-kg-de-cannabis-saisis

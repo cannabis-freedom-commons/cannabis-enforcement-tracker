@@ -30,6 +30,8 @@ details:
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  figures.kg_seized: [2, 3, 1]
+  figures.value: [2, 3, 1]
 status: verified
 tags: [bhanupratappur, kanker, chhattisgarh, cultivation]
 open_questions:

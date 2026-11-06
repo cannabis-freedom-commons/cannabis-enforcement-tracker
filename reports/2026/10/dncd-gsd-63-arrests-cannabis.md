@@ -21,6 +21,8 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  figures.arrested: [1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://vigilanteinformativo.com/fuerzas-de-seguridad-impactan-redes-del-microtrafico-en-el-gran-santo-domingo/

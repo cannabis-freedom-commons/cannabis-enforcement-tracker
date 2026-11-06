@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [2]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.value: [2, 1]
 status: verified
 tags: [pdea, pnp, joint-operation]
 open_questions:

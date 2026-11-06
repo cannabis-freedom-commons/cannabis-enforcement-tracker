@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1]
+  figures.hectares: [1]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://jateng.antaranews.com/berita/497307/satgas-pamtas-yonif-725-temukan-ladang-ganja-di-papua-selatan

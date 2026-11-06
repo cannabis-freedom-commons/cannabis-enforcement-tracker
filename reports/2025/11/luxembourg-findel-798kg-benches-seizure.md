@@ -18,6 +18,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 2]
   details.setting: [1, 3, 4, 5, 6, 2]
+  figures.kg_seized: [1, 3, 4, 6, 7, 2]
 media:
   - kind: photo
     url: https://actu.fr/faits-divers/environ-800-kg-de-cannabis-caches-dans-des-banquettes-saisis-a-l-aeroport-du-luxembourg_63557786.html

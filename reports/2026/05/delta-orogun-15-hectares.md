@@ -29,6 +29,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [delta, ndlea, orogun, eradication]
 sources:

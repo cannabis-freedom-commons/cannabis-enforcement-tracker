@@ -23,6 +23,8 @@ details:
 data_sources:
   details.activity: [2, 1]
   details.products: [1]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a91838e8c921c675859fa34b7d669bb2

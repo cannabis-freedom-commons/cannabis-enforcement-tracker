@@ -35,6 +35,9 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [3]
+  figures.kg_seized: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
+  figures.value: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [balrampur, chhattisgarh, ganja, cultivation, ndps]

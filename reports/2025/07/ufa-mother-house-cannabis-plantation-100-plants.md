@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/pochti-100-kustov-konopli-i-5-kg-podgotovlennoy-k-sbytu-marikhuany-izyato-politseyskimi-u-zhitelya-u/

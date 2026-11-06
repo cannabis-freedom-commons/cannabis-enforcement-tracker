@@ -26,6 +26,8 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [airport-smuggling, gatwick]
 open_questions:

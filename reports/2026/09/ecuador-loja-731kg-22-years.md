@@ -33,6 +33,8 @@ data_sources:
   details.products: [3, 4]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3, 4]
+  figures.prison: [1, 2]
 status: verified
 tags: [loja, amaluza, espindola, border]
 media:

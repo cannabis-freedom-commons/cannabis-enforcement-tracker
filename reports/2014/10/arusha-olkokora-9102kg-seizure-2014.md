@@ -22,6 +22,8 @@ details:
   agency_types: [anti-narcotics, police]
 data_sources:
   details.agency_types: [1, 2]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [mount-meru, arusha, crackdown]
 sources:

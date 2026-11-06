@@ -25,6 +25,7 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://web.archive.org/web/20220818111943/https://dialogo-americas.com/articles/uruguay-police-carries-out-record-seizure-of-marijuana/

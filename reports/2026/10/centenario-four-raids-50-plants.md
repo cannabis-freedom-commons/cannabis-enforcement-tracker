@@ -27,6 +27,8 @@ data_sources:
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [1, 4, 2, 3]
   details.products: [1, 4, 2, 3]
+  figures.kg_seized: [3, 2]
+  figures.plants_destroyed: [2, 3]
 media:
   - kind: photo
     url: https://www.minutoneuquen.com/neuquen/2026/10/24/cuatro-allanamientos-en-centenario-permitieron-secuestrar-drogas-y-un-arma-412973.html

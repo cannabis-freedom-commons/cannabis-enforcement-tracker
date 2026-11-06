@@ -28,6 +28,8 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1, 2]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [karone, casamance, ziguinchor, chanvre-indien]
 open_questions:

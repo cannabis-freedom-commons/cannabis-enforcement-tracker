@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [wakeford, medical-marijuana, udora]
 open_questions:

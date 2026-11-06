@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [machacamarca, potosi, felcn]

@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.koaci.com/index.php/article/2020/06/17/togo/Soci%C3%A9t%C3%A9/togo-saisie-de-15-tonnes-du-cannabis-a-hiheatro-sous-une-fausse-deguisee_142375.html

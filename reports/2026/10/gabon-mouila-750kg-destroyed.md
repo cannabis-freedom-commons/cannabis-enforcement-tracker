@@ -21,6 +21,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [exhibit-destruction, ngounie]
 sources:

@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 tags: [appeal, gozo, british-national]
 open_questions:

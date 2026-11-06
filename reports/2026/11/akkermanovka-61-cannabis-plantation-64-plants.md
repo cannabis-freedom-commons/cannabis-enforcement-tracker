@@ -39,6 +39,7 @@ data_sources:
   details.products: [1, 3]
   details.sentence_types: [3, 1]
   details.setting: [3, 1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3820529a508c4ed3e9cd303964c372b0

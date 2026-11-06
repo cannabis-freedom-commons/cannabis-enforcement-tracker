@@ -22,6 +22,7 @@ details:
   products: [{product: flower, kg: 20.46}]
 data_sources:
   details.products: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tachira, gnb, trafficking]

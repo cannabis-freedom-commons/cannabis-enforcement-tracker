@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.yeclo.com/trafic-de-drogue-la-police-saisit-59-blocs-de-cannabis-a-bassam/

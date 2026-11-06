@@ -22,6 +22,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  figures.hectares: [1, 2]
 status: verified
 tags: [eradication-campaign, kullu, ssb]
 media:

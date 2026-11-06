@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 3, 8, 11, 13, 15]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 13, 2, 5, 7, 8]
+  figures.kg_seized: [1, 13, 2, 5, 7, 8]
 media:
   - kind: photo
     url: https://suspilne.media/mykolaiv/1442965-u-mikolaevi-colovika-pidozruut-u-zbuti-kanabisu-vilucili-majze-8-kg-narkotikiv/

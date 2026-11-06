@@ -26,6 +26,7 @@ data_sources:
   details.environment: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/saisie-de-141-pieds-de-cannabis-a-port-blanc-gosier-401605.php

@@ -34,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [dublin, cannabis-resin, west-dublin-gang]
 open_questions:

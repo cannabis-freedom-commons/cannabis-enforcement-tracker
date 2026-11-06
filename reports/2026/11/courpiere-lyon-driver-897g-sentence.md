@@ -36,6 +36,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.prison: [1, 4, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9c79b0c82fa4f7275b5b169ab1d4c322

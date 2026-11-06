@@ -27,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [bsf, tsr, drones]
 open_questions:

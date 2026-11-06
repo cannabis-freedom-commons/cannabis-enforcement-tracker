@@ -37,6 +37,8 @@ data_sources:
   details.environment: [2]
   details.products: [1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 07269de570eb44cd4392abefa4b9a524

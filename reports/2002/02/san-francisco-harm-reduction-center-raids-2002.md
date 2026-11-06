@@ -34,6 +34,7 @@ data_sources:
   details.products: [1, 3, 2]
   details.route: [1, 3]
   details.setting: [1, 3, 2]
+  figures.plants_destroyed: [2, 3, 1]
 status: verified
 tags: [medical-marijuana, dea, harm-reduction]
 open_questions:

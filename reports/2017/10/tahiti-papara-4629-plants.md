@@ -29,6 +29,9 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.hectares: [2, 1]
+  figures.plants_destroyed: [1, 2]
+  figures.value: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9ddde7a8ef25d7f84146572f7c986001

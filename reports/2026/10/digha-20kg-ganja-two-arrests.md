@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 3, 4]
   details.route: [1, 3, 4, 2]
   details.setting: [1, 3, 4]
+  figures.kg_seized: [1, 3, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 66b183c2ae32868c6bda800d1225e698

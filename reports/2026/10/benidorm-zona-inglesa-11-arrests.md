@@ -38,6 +38,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 038b8b7272b81a5f68eabec7443c7f5f

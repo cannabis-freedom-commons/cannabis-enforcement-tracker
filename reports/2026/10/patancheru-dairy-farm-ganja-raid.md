@@ -49,6 +49,8 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
+  figures.value: [4, 9, 6, 10, 3, 5]
 status: reported
 created_by_model: meta/muse-spark
 tags:

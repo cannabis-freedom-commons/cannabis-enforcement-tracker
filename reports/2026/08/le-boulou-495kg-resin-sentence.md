@@ -41,6 +41,8 @@ data_sources:
   details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [pyrenees-orientales, douanes, a9, ofast]
 open_questions:

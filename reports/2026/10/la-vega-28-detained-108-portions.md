@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.paginaextra.com/policia-y-fuerzas-armadas-apresan-28-personas-y-ocupan-evidencias-en-operativo/

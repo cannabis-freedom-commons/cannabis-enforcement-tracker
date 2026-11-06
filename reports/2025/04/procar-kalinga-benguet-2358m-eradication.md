@@ -25,6 +25,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.value: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kalinga, benguet, pdea, pro-car]

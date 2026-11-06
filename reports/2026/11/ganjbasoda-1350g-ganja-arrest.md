@@ -30,6 +30,8 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: ce63e2844af9e9233febf41ec39fed0a

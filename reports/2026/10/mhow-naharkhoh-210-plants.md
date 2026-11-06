@@ -35,6 +35,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: cb871b4866eaecc5813c5cb8f5238cfa

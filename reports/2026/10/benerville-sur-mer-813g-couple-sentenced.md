@@ -35,6 +35,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [2, 3, 1]
   details.setting: [2, 3, 1]
+  figures.value: [1, 4, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f78c8264329def3d63deb5894e2c725

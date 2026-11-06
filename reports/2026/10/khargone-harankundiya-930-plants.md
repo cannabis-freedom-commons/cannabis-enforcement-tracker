@@ -26,6 +26,7 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3]
   details.setting: [1, 3, 2]
+  figures.plants_destroyed: [1, 3, 2]
 media:
   - kind: photo
     url: https://mediawala.in/two-major-operations-against-illegal-cannabis-cultivation-in-khargone-5-61-quintals-of-plants/

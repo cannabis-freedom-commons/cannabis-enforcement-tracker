@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.case_stage: [3, 1]
   details.setting: [2, 1, 3]
+  figures.value: [2, 1]
 media:
   - kind: photo
     url: https://www.gabonreview.com/port-gentil-du-sac-darachides-a-la-prison-georges-mapessi-rattrape-par-le-cannabis/

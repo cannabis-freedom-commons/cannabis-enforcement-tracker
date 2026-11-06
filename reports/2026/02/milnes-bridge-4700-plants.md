@@ -34,6 +34,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.abc.net.au/news/2026-02-13/men-face-commercial-drug-cultivation-charges-after-cannabis-bust/106338128

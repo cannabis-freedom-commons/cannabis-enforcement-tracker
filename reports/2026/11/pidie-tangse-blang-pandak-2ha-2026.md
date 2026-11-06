@@ -26,6 +26,8 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [1, 3, 9, 2, 4, 5]
+  figures.plants_destroyed: [1, 3, 9, 2, 4, 5]
 media:
   - kind: photo
     url: https://atjehwatch.com/2026/11/02/nyan-polres-pidie-musnahkan-2-hektar-ladang-ganja-di-tangse-350-batang-disita/

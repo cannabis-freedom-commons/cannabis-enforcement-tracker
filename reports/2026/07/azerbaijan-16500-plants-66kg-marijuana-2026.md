@@ -25,6 +25,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.products: [1]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 56bbd949216449db4e299202f6eaa949

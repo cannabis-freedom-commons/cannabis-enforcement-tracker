@@ -38,6 +38,8 @@ data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 3, 5, 2, 4]
   details.products: [1, 3, 5]
+  figures.arrested: [1, 3, 5]
+  figures.kg_seized: [1, 3, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 31da6724885419a044d120fac4a71c58

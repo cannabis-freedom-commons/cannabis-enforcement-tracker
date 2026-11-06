@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [3, 1]
   details.sentence_types: [3, 1]
   details.setting: [3, 1]
+  figures.kg_seized: [3, 1]
 media:
   - kind: photo
     url: https://www.thezimbabwean.co/2025/07/high-court-slashes-harsh-15-year-jail-term-for-cannabis-dealer/

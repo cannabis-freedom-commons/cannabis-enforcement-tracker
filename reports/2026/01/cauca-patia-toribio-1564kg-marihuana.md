@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.rtvcnoticias.com/justicia/seguridad-y-orden/incautan-mas-de-una-tonelada-de-marihuana-que-iba-rumbo-ecuador

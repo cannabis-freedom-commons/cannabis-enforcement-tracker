@@ -35,6 +35,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 7, 4, 2, 3, 9]
   details.setting: [1, 7, 4, 2, 3, 9]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: verified
 tags:
   - airport

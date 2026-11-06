@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [3, 1]
   details.setting: [3, 1, 2]
+  figures.plants_destroyed: [3, 1, 2]
 media:
   - kind: photo
     url: https://sumut.wahananews.co/utama/kebun-sawit-jadi-ladang-ganja-petani-di-tapanuli-selatan-tidur-di-penjara-ogc5585KwD

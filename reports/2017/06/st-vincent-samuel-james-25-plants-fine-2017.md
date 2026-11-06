@@ -30,6 +30,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 506aba210f3bb3a1e75f25141404a61b

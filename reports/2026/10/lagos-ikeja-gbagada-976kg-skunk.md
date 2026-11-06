@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 18, 20, 21, 22, 23, 24, 25, 26]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lagos, skunk, ndlea, bus-interception]

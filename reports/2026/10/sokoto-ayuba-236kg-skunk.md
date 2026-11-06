@@ -26,6 +26,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
   details.agency_types: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
   details.products: [1, 2, 4, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 20, 21]
+  figures.kg_seized: [1, 2, 3, 4, 5, 7]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sokoto, skunk, ndlea, zone-7]

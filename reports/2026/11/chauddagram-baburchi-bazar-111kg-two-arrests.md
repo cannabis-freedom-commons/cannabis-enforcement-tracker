@@ -33,6 +33,8 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [1, 2, 4]
   details.setting: [1, 2, 4, 3]
+  figures.kg_seized: [1, 2, 4]
+  figures.value: [1, 2, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a3ecb651c020e67c30fa2a3c75a5552

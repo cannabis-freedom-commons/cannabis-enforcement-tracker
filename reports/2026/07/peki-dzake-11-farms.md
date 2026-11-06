@@ -25,6 +25,7 @@ data_sources:
   details.activity: [2]
   details.agency_types: [1]
   details.case_stage: [1]
+  figures.hectares: [1, 2]
 status: verified
 tags: [volta, dleu, eradication]
 sources:

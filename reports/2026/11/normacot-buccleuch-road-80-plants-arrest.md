@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.stokesentinel.co.uk/news/stoke-on-trent-news/police-smash-way-stoke-trent-11228785

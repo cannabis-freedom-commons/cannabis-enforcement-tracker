@@ -29,6 +29,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.expressdz.dz/2026/10/17/demantelement-de-six-reseaux-criminels-et-saisie-de-113-kg-de-kif-traite-en-provenance-du-maroc/

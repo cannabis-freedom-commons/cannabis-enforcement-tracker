@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.force: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [tasman, bunker, cultivation]
 sources:

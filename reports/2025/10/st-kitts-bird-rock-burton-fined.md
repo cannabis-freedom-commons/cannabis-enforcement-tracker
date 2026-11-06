@@ -30,6 +30,8 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.fine: [1, 2, 3]
+  figures.prison: [2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 82f05a9b351a5a075f9c23dfba083e1d

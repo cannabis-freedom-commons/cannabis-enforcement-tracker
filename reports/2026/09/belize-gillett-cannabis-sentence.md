@@ -30,6 +30,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.breakingbelizenews.com/2026/09/29/evan-gillett-fined-6000-for-almost-3lbs-of-weed-pleads-guilty-so-father-in-law-isnt-charged/

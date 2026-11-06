@@ -38,6 +38,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
 status: verified
 tags: [airport, hashish, court]
 open_questions:

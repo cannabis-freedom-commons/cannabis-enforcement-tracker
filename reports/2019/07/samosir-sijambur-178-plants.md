@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.radarmedan.com/polres-samosir-temukan-1-rante-ladang-ganja-di-sijambur

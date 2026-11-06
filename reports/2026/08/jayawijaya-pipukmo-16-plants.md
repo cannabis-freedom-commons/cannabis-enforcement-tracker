@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 4, 2]
   details.setting: [1, 3, 2]
+  figures.plants_destroyed: [1, 3]
 media:
   - kind: photo
     url: https://www.detik.com/sulsel/hukum-dan-kriminal/d-8637159/ladang-ganja-ditemukan-polisi-di-kampung-pipukmo-jayawijaya

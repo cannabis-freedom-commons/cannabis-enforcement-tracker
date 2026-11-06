@@ -34,6 +34,8 @@ data_sources:
   details.products: [3, 2, 1]
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1, 3]
+  figures.fine: [1, 3, 2]
+  figures.plants_destroyed: [3, 2]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/cj6nxrdexwwo

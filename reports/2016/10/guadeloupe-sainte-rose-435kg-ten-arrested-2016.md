@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/10-trafiquants-ecroues-et-435-kilos-dherbe-saisis-264307.php

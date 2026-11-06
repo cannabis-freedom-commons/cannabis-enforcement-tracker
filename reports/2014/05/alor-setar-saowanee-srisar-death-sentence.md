@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, kedah]

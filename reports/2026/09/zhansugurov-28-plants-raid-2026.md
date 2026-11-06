@@ -27,6 +27,7 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://24.kz/ru/news/incidents/793323-28-kustov-kannabisa-i-bolee-1-4-kg-marikhuany-izyali-v-dome-v-zhetysu

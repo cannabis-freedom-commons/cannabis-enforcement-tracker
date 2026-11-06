@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [san-pedro-sula, cortes]
 open_questions:

@@ -23,6 +23,7 @@ details:
 data_sources:
   details.activity: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.sentinelassam.com/amp/story/breakingnews/assam-rifles-destroys-illegal-ganja-cultivation-worth-rs-2572-crore-in-tripuras-boxanagar

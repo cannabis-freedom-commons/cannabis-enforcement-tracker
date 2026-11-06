@@ -34,6 +34,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.prison: [2, 1]
 status: verified
 tags: [sunderland, northumbria, newcastle-crown-court]
 open_questions:

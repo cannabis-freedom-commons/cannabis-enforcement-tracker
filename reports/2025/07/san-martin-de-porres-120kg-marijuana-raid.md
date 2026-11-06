@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/peru/2025/07/13/cae-banda-en-smp-con-120-kilos-de-marihuana-valorizados-en-s-300-mil-una-menor-entre-los-detenidos/

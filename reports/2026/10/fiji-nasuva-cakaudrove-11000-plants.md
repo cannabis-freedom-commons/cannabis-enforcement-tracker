@@ -37,6 +37,7 @@ data_sources:
   details.activity: [2, 3, 4, 1]
   details.agency_types: [2, 3, 4, 1]
   details.products: [2]
+  figures.plants_destroyed: [2, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cakaudrove, marijuana, eradication, savusavu]

@@ -51,6 +51,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.deaths: [2, 1]
+  figures.fine: [2, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2b979055bf8f0dda25c981f328ba1b86

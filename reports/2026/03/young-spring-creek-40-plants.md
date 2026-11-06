@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [2, 1]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.canberratimes.com.au/story/9202461/police-allege-40-cannabis-plants-steroids-and-other-drugs-seized-in-young/

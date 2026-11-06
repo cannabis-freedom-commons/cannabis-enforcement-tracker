@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://statepatrol.nebraska.gov/nearly-150-lbs-marijuana-seized-i-80-traffic-stop

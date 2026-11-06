@@ -34,6 +34,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [edomex, cuautitlan-izcalli, highway, cjng-allegation]

@@ -27,6 +27,7 @@ details:
 data_sources:
   details.activity: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 055212df840d5f2cd22cf2addd0e40c5

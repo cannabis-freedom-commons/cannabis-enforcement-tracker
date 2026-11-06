@@ -28,6 +28,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 status: verified
 tags: [national-park, public-lands, camp, environmental-damage]
 open_questions:

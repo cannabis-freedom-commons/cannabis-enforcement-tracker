@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kildare, naas, gndocb, revenue, organised-crime]

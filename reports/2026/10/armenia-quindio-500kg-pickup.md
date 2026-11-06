@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [3, 1, 2, 4]
   details.products: [3, 1, 2, 4]
   details.setting: [3, 1, 2, 4]
+  figures.kg_seized: [2, 1, 4]
 media:
   - kind: photo
     url: https://www.ntn24.com/noticias-actualidad/estas-son-las-impresionantes-imagenes-del-cargamento-de-estupefacientes-incautado-en-armenia-eran-mas-de-500-kilogramos-661749

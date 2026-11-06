@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1, 4, 5, 7, 9, 10]
   details.setting: [3, 1, 4, 5, 7, 8]
+  figures.value: [1, 4, 5, 7, 8, 9]
 media:
   - kind: photo
     url: https://www.myjoyonline.com/police-arrest-40-year-old-man-with-91-parcels-of-suspected-indian-hemp-at-circle/

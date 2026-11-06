@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2, 3, 1]
   details.products: [1, 4, 2]
   details.setting: [2, 3]
+  figures.kg_seized: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, west-bengal, interstate-trafficking, purulia, truck]

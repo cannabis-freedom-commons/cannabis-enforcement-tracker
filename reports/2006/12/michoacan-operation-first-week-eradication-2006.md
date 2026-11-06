@@ -27,6 +27,8 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
+  figures.hectares: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [michoacan]

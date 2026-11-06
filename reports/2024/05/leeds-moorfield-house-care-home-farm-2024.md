@@ -28,6 +28,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [2, 1]
+  figures.value: [1, 2]
 status: verified
 tags: [leeds, care-home, albanian-nationals, indoor-grow]
 open_questions:

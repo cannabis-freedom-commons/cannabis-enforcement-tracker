@@ -26,6 +26,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  figures.kg_seized: [1]
 status: verified
 tags: [taltal, antofagasta, carabineros]
 open_questions:

@@ -19,6 +19,7 @@ details:
   agency_types: [customs, police]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ac01ee3fb5907b666bbd2be438f7d3fb

@@ -25,6 +25,8 @@ data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.products: [1, 3, 2]
+  figures.plants_destroyed: [1, 3, 2]
+  figures.value: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.patrika.com/burhanpur-news/nepanagar-police-seize-96-cannabis-plants-mandwa-village-21029636

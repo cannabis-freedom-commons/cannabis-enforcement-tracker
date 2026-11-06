@@ -30,6 +30,7 @@ data_sources:
   details.environment: [1, 3, 4, 2]
   details.products: [2, 3, 4, 1]
   details.setting: [1, 3, 4, 2]
+  figures.plants_destroyed: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://chodziez.policja.gov.pl/wl1/aktualnosci/280903,Uprawial-konopie-i-posiadal-znaczna-ilosc-srodkow-odurzajacych-areszt-tymczasowy.html

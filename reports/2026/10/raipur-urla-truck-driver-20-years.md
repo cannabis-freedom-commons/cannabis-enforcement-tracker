@@ -33,6 +33,8 @@ data_sources:
   details.case_stage: [3, 5, 1, 6]
   details.sentence_types: [3, 5, 1, 6]
   details.setting: [3, 5, 1, 6, 2, 4]
+  figures.kg_seized: [2, 5, 1, 6]
+  figures.prison: [3, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6770a9df3309c91c9e39b1dd54c01397

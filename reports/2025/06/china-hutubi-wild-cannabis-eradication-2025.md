@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, hutubi, wild-cannabis, eradication]

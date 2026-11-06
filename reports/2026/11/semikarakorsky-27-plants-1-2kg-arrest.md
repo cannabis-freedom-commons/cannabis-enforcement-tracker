@@ -35,6 +35,8 @@ data_sources:
   details.environment: [2, 4, 5, 6, 7, 1]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [2, 4, 5, 6, 7, 1]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
+  figures.plants_destroyed: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://bloknot-rostov.ru/news/v-rostovskoy-oblasti-zaderzhali-narkoagronoma-s-27-2022753

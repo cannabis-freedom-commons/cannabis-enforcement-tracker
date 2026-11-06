@@ -28,6 +28,8 @@ data_sources:
   details.environment: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kitchener, waterloo, project-greenhouse, grow-op]

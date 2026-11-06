@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/capturado-con-100-kilogramos-marihuana

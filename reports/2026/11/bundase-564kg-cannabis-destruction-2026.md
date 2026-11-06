@@ -44,6 +44,8 @@ data_sources:
   details.activity: [1, 6, 8, 5, 3, 7]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  figures.kg_seized: [1, 2, 3, 5, 6, 8]
+  figures.value: [1, 2, 3, 5, 6, 8]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e5052e36eb7141cb5a7dcf1870939386

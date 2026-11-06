@@ -24,6 +24,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.arrested: [1]
 status: verified
 tags: [kirehe, exhibits-destruction]
 sources:

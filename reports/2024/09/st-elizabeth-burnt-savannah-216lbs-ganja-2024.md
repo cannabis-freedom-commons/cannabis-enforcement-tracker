@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.jamaicaobserver.com/2024/09/04/216-pounds-ganja-seized-st-elizabeth/

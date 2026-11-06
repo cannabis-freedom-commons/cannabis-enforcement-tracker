@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [customs]
 sources:

@@ -25,6 +25,8 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4d11ed6787b773972267527520f298c9

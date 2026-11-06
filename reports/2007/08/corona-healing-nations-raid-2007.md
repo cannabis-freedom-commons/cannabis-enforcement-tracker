@@ -34,6 +34,7 @@ data_sources:
   details.products: [2, 1, 3]
   details.sentence_types: [3, 1]
   details.setting: [2, 3]
+  figures.kg_seized: [2]
 status: verified
 tags: [dea, dispensary, corona]
 open_questions:

@@ -26,6 +26,8 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
+  figures.hectares: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [operation-kingfish, first-anniversary]
 open_questions:

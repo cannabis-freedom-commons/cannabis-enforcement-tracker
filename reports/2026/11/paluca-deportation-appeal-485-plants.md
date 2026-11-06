@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://www.dailymail.com/news/article-16264545/Albanian-illegal-migrant-jailed-1-5m-cannabis-plot-wins-right-fight-deportation-crime-didnt-cause-harm.html

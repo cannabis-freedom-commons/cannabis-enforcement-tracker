@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.kg_seized: [1, 3, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [ishim, tyumen-oblast, article-228, russia]

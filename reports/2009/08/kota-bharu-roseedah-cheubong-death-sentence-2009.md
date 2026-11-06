@@ -31,6 +31,7 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [2]
+  figures.kg_seized: [2, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, trafficking]

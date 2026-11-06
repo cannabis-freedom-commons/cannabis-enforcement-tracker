@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [2, 1, 3]
   details.products: [2, 1, 3]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.thestkittsnevisobserver.com/combined-operation-nets-large-quantity-marijuana-three-persons-arrested/

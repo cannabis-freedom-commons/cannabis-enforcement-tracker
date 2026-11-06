@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [nacob, export, united-kingdom]

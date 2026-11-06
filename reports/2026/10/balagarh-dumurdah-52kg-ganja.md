@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://bengali.hindusthansamachar.in/Encyc/2026/10/31/BALAGAR-GANJA-RECORD-ARREST.php

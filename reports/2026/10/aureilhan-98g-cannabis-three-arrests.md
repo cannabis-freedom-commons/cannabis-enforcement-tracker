@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [2, 3, 1, 4]
   details.case_stage: [2, 3, 1]
   details.products: [1, 2]
+  figures.value: [2, 1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a0870ead8f928eb670d28d1fc00b1a5e

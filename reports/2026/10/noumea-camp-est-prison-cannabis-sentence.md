@@ -28,6 +28,8 @@ data_sources:
   details.case_stage: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.prison: [2, 1]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/nouvellecaledonie/elle-introduisait-du-cannabis-au-camp-est-une-trentenaire-condamnee-a-deux-ans-de-prison-ferme-1744977.html

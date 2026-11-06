@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.rm.co.mz/detido-cidadao-no-buzi-na-posse-de-mais-de-150-kgs-de-suruma/

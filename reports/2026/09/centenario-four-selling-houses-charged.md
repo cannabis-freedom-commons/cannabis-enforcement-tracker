@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://www.lmneuquen.com/policiales/allanaron-cuatro-kioscos-droga-los-cuatro-detenidos-uno-quedo-preso-intentar-atropellar-un-policia-n1254214

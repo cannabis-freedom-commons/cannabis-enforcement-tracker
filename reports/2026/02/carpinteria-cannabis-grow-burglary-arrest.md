@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.sbsheriff.org/l-a-man-arrested-in-carpinteria-cannabis-grow-burglary/

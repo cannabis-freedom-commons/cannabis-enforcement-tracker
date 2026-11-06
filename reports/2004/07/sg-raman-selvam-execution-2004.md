@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [changi, mandatory-death-penalty]
 open_questions:

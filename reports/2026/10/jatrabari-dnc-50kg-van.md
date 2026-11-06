@@ -31,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [dhaka, jatrabari, dnc, highway]

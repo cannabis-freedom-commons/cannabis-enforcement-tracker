@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [3, 4, 1]
   details.products: [1, 3, 4]
+  figures.kg_seized: [1, 3, 4]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/martinique/65-kg-de-cannabis-saisis-en-mer-violences-conjugales-et-altercation-au-coutelas-trois-affaires-jugees-le-meme-jour-a-fort-de-france-1744515.html

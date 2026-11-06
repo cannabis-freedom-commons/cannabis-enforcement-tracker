@@ -27,6 +27,8 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sughd, mastchoh, wild-cannabis, poppy-2026, eradication]

@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/u-dvukh-narkoagronomov-iz-krasnoyarska-politseyskie-izyali-152-kusta-konopli-i-bolee-10-kg-chastey-k/

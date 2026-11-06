@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/27kg-of-drugs-smuggled-from-india-seized-from-airport-126646

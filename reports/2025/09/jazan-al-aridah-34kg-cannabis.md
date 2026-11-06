@@ -24,6 +24,7 @@ details:
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [jazan, border-guard, hashish]
 open_questions:

@@ -20,6 +20,7 @@ details:
   activity: [cultivation]
 data_sources:
   details.activity: [1, 3, 2]
+  figures.hectares: [1, 3, 2]
 status: verified
 tags: [larache, eradication-campaign]
 open_questions:

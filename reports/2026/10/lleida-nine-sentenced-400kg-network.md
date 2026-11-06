@@ -45,6 +45,8 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 3, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 1]
+  figures.prison: [1, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 15df7cc0fed3f760d6cad6ed37219219

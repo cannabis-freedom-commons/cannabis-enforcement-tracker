@@ -18,6 +18,7 @@ details:
   agency_types: [gendarmerie]
 data_sources:
   details.agency_types: [1, 3, 2]
+  figures.kg_seized: [1, 3, 2]
 media:
   - kind: photo
     url: https://24heureinfo.com/faits-divers/togo-saisie-de-650-kg-de-cannabis-par-la-gendarmerie/

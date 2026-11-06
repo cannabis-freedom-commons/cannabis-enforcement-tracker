@@ -34,6 +34,8 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.sentence_types: [2, 1]
   details.setting: [2, 3, 1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [2, 1]
 status: verified
 tags: [nuclear-bunker, chilmark, cannabis-factory, modern-slavery]
 sources:

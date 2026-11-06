@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [customs, galafi, pillows]
 open_questions:

@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [1]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-mas-de-160-kilos-de-droga-en-misiones

@@ -36,6 +36,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5fc43cb784d762e1e44b18676b3e8159

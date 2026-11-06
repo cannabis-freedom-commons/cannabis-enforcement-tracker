@@ -25,6 +25,8 @@ data_sources:
   details.activity: [2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [heathrow, smuggling, airline-crew, south-african-airways]

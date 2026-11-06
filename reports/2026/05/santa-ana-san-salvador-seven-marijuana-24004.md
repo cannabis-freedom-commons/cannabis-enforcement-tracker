@@ -45,6 +45,7 @@ data_sources:
   details.case_stage: [1, 4, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
+  figures.value: [3, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: d19cd685bcb2909e8844eb078d0aca55

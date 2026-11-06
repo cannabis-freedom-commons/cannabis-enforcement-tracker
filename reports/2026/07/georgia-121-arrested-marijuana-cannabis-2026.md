@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 3]
   details.sentence_types: [1, 3, 2]
   details.setting: [2, 1, 3]
+  figures.arrested: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b436199682387d115aa3e19052461823

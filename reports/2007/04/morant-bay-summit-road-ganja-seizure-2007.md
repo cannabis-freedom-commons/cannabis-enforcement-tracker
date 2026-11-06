@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [morant-bay, st-thomas]
 open_questions:

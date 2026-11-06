@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 status: verified
 tags: [acre, brasileia, chico-mendes-reserve, civil-police, cannabis-eradication]
 open_questions:

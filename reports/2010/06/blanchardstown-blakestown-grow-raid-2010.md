@@ -32,6 +32,8 @@ data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [1, 3, 2]
   details.setting: [1, 3]
+  figures.plants_destroyed: [1, 3]
+  figures.value: [1, 3]
 status: verified
 tags: [dublin, cannabis-factory]
 open_questions:

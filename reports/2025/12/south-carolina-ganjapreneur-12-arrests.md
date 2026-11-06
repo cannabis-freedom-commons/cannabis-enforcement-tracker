@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [ganjapreneur, sled, dea, thc-retail]
 open_questions:

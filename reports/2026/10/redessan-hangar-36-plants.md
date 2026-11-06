@@ -30,6 +30,8 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.midilibre.fr/2026/10/30/un-reseau-local-de-fabrication-de-cannabis-demantele-dans-le-gard-pres-de-36-plants-decouverts-trois-individus-interpelles-13627528.php

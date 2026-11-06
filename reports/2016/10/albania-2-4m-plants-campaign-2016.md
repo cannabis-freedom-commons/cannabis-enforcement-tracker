@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1]
+  figures.hectares: [1]
 status: verified
 tags: [record-campaign, guardia-di-finanza, organised-crime]
 sources:

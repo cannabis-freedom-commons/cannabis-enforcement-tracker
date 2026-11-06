@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [islamabad, airport, thailand-route, hashish]

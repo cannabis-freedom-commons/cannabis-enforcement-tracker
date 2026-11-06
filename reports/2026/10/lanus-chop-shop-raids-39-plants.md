@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 3, 2]
   details.products: [2, 3, 1]
   details.setting: [1, 3, 2]
+  figures.plants_destroyed: [2, 3]
 media:
   - kind: photo
     url: https://www.canal26.com/policiales/2026/11/02/desbarataron-un-desarmadero-de-motos-en-lanus-25-allanamientos-seis-detenidos-y-autopartes-secuestradas/

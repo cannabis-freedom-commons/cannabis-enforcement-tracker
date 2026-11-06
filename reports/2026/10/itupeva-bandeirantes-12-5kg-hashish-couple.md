@@ -40,6 +40,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3a68707b7346fae720e58c82619e3f59

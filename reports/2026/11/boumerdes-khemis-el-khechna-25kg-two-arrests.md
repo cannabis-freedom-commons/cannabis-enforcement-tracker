@@ -19,6 +19,7 @@ details:
   agency_types: [police, prosecutor, court]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://www.ennaharonline.com/%D8%A8%D9%88%D9%85%D8%B1%D8%AF%D8%A7%D8%B3-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%88%D8%B6%D8%A8%D8%B7-25-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF/

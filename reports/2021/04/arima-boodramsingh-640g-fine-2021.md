@@ -32,6 +32,8 @@ data_sources:
   details.products: [2]
   details.sentence_types: [2, 1]
   details.setting: [2]
+  figures.fine: [2, 1]
+  figures.prison: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 4d8937930dacc02a87a5a6ce36d0331d

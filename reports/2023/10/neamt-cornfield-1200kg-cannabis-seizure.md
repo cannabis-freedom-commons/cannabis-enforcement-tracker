@@ -29,6 +29,7 @@ data_sources:
   details.environment: [2, 1, 3]
   details.products: [2, 1]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [2]
 media:
   - kind: photo
     url: https://www.digi24.ro/galerie-foto/1/stiri/actualitate/justitie/cultura-de-canabis-de-12-tone-ascunsa-intr-un-lan-de-porumb-in-neamt-doi-traficanti-furau-de-la-cultivator-ca-sa-vanda-mai-departe-2527437?__grrn=1&__grsc=cookieIsUndef1&__grts=59667840&__grua=501fff1e6d7cfcae7272093380ac3015

@@ -27,6 +27,7 @@ data_sources:
   details.activity: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [hashish, trafficking-ring, civil-guard, cross-border]
 sources:

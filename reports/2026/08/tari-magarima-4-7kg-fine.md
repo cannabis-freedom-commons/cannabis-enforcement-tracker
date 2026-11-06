@@ -29,6 +29,9 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.prison: [1, 2]
 media:
   - kind: photo
     url: https://www.thepngsun.com/hela-youth-fined-k30-000-or-faces-20-years-for-marijuana/

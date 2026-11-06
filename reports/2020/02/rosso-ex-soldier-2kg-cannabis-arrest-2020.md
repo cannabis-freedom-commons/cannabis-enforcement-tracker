@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [2, 1, 5, 3, 4]
   details.case_stage: [2, 1, 5]
+  figures.kg_seized: [2]
 media:
   - kind: photo
     url: https://www.leral.net/Chanvre-indien-Un-ancien-militaire-senegalais-arrete-avec-2-kg-en-Mauritanie_a269276.html

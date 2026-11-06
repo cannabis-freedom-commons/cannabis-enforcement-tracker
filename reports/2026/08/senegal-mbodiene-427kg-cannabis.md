@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
+  figures.kg_seized: [1, 2, 4, 3]
 media:
   - kind: photo
     url: https://www.gendarmerie.sn/post.php?page=7&slug=lutte-contre-le-trafic-de-stup-fiants-quatre-cent-vingt-sept-427-kilogrammes-de-chanvre-indien-saisis-mbodi-ne-par-la-compagnie-de-gendarmerie-de-mbour

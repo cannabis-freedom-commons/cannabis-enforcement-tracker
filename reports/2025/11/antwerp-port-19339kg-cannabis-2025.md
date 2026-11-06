@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 4, 5, 2, 3]
   details.products: [1, 4, 5, 2, 3]
   details.setting: [1, 4]
+  figures.kg_seized: [1, 4]
 status: verified
 tags: [antwerp, port, canada, record-year]
 open_questions:

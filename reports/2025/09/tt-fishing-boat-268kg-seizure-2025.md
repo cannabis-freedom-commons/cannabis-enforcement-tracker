@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.route: [1]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/venezuela/2025/09/13/trinidad-y-tobago-incauto-268-kilos-de-marihuana-de-una-embarcacion-proveniente-de-venezuela/

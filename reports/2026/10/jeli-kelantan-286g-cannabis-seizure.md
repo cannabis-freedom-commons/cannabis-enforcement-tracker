@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 5, 4]
   details.setting: [1, 2, 3, 4]
+  figures.value: [1, 2, 4, 5, 3]
 media:
   - kind: photo
     url: https://guangming.com.my/%E7%A0%B42%E8%B7%A8%E5%9B%BD%E5%8C%85%E8%A3%B9%E8%97%8F%E6%AF%92-%E9%9B%AA%E5%85%B3%E7%A8%8E%E5%B1%80%E8%B5%B7%E9%80%BE224%E4%B8%87%E6%AF%92%E5%93%81

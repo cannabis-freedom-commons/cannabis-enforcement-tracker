@@ -34,6 +34,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 95dd8d06294bc25949a88460cb079ad6

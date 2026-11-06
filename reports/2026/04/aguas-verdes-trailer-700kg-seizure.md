@@ -33,6 +33,8 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [tumbes, zarumilla, trailer, chile-route]

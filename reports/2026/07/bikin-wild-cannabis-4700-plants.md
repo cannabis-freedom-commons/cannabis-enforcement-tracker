@@ -30,6 +30,8 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [bikin, khabarovsk-krai, wild-cannabis, mak-2026, russia]

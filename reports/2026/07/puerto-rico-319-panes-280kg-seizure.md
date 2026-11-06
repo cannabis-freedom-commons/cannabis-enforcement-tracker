@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.noticiasdelacalle.com.ar/noticias/2026/07/03/179563-prefectura-secuestro-mas-de-280-kilos-de-marihuana-en-puerto-rico

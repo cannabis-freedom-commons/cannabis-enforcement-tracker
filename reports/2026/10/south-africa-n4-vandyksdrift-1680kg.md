@@ -53,6 +53,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
 status: verified
 tags: [dagga, n4, mpumalanga, bribery, truck]
 open_questions:

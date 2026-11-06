@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.route: [1]
   details.setting: [1, 3, 2]
+  figures.kg_seized: [1, 3, 2]
 media:
   - kind: photo
     url: https://english.onlinekhabar.com/3-indian-nationals-arrested-at-tia.html

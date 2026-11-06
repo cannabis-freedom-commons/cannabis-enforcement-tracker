@@ -22,6 +22,7 @@ details:
   products: [{product: hashish, kg: 22}, {product: flower}]
 data_sources:
   details.products: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [baalbek]
 sources:

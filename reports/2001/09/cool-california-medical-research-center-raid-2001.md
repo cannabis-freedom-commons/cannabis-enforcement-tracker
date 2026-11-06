@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 3, 2]
 status: verified
 tags: [medical-marijuana, dea, patient-records]
 open_questions:

@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 499097e31ab2cee8f170c8e3dabd0c36

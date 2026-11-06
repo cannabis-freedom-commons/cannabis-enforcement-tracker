@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [2, 1]
   details.case_stage: [1]
+  figures.arrested: [1, 2]
 status: verified
 tags: [casamance, military, bignona]
 open_questions:

@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: da8c426ff9ff2f7e1c9c2fa9dce40a65

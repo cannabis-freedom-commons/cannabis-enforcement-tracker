@@ -25,6 +25,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://barbadostoday.bb/2026/11/02/woman-on-45-000-bail-in-121-600-cannabis-case/

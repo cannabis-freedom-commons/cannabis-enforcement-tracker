@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.comoresinfos.net/plus-de-2000-kg-de-cannabis-saisi-par-lantidrogue-en-3-ans/

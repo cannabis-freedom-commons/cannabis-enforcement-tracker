@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [2, 1]
+  figures.kg_seized: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [importation, drug-mule, manchester-airport, thailand, warrington]

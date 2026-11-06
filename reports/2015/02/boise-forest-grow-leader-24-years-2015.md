@@ -30,6 +30,8 @@ data_sources:
   details.environment: [2, 3, 1]
   details.products: [3, 2, 1]
   details.setting: [3]
+  figures.plants_destroyed: [1, 3]
+  figures.prison: [3]
 status: verified
 tags: [public-lands, boise-national-forest]
 sources:

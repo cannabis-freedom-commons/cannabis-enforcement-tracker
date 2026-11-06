@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [luxembourg, customs, airport]

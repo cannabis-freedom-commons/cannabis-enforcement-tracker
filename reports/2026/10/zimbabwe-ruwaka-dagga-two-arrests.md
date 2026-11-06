@@ -33,6 +33,7 @@ data_sources:
   details.agency_types: [3, 2, 1, 5, 4]
   details.case_stage: [3, 2, 1, 5]
   details.products: [1, 2, 3, 5]
+  figures.plants_destroyed: [3, 2, 1, 5]
 status: reported
 tags:
   - dagga

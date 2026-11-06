@@ -14,6 +14,8 @@ figures:
   fine:
     amount: 250000
     currency: CAD
+data_sources:
+  figures.fine: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 86cf74a1075f8e0980b4cd5fd7227859

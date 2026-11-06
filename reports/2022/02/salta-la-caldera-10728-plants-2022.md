@@ -31,6 +31,8 @@ data_sources:
   details.case_stage: [3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [gendarmeria, procunar]
 open_questions:

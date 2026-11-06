@@ -39,6 +39,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [odyssey-227, atlantic-route, trawler, hashish]
 sources:

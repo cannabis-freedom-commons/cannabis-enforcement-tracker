@@ -28,6 +28,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.route: [2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [thc-liquid, customs, vietnam-route, international-post, minors]
 open_questions:

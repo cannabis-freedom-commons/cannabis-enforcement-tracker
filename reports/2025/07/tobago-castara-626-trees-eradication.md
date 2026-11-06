@@ -37,6 +37,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5b016aee2af57a6f00c7da8ef1e762ab

@@ -70,6 +70,8 @@ data_sources:
   details.products: [2, 3, 4, 5, 6, 7, 8, 9, 12]
   details.sentence_types: [1, 3, 7, 9, 12, 13]
   details.setting: [2, 6, 10, 12, 13, 3]
+  figures.arrested: [1, 3, 4, 5, 6, 8]
+  figures.charged: [1, 3, 4, 5, 6, 8]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54ac52ebae71dea94d749b723b6ece54

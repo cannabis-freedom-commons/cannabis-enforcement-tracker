@@ -29,6 +29,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [slany, kladno, organised-crime, indoor-grow, cannabis]

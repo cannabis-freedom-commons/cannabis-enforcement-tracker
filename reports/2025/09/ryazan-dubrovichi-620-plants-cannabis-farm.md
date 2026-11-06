@@ -30,6 +30,7 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 4]
+  figures.plants_destroyed: [1, 4]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/u-narkoagrariya-iz-ryazani-politseyskie-izyali-pochti-20-kg-kannabisa-i-620-kustov-proizrastavshey-k/

@@ -36,6 +36,7 @@ data_sources:
   details.agencies: [1, 6]
   details.agency_types: [1, 6]
   details.setting: [2, 3, 8, 1, 5, 6]
+  figures.kg_seized: [2, 3, 8, 1, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 45be1ff0b01e5984552e53c58518ff43

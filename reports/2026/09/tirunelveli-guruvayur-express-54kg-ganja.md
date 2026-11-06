@@ -22,6 +22,7 @@ details:
   products: [{product: flower, kg: 54}]
 data_sources:
   details.products: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [tirunelveli, railway, guruvayur-express, nib-cid, rpf]
 sources:

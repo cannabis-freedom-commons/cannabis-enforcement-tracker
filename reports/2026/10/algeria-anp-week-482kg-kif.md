@@ -24,6 +24,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.force: [1]
+  figures.arrested: [1]
 status: verified
 tags: [anp, moroccan-border, weekly-bilan]
 sources:

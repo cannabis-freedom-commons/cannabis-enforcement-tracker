@@ -28,6 +28,8 @@ data_sources:
   details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
+  figures.value: [1, 2, 3, 4]
 status: verified
 tags: [nagpur]
 sources:

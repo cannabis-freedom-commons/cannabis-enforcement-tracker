@@ -21,6 +21,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://rci.fm/guadeloupe/infos/Faits-divers/Cinq-armes-feu-plus-de-11-kg-de-cannabis-et-de-la-contrebande-saisis-lors

@@ -27,6 +27,9 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.hectares: [2, 1]
+  figures.kg_seized: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kullu, manikaran, himachal-pradesh, charas, ndps-act]

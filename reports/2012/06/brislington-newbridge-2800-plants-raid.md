@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [cannabis-factory, bristol, operation-viscount]
 sources:

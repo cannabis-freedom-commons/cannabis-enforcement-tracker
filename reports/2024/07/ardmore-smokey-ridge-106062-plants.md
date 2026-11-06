@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [3, 1]
   details.products: [3, 1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [3]
 media:
   - kind: photo
     url: https://www.kten.com/news/two-arrests-in-raid-at-illegal-marijuana-grow-near-ardmore/article_2d25bc72-49cb-11ef-8878-c72e17157420.html

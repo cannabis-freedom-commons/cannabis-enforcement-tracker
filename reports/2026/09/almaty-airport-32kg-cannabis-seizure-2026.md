@@ -18,6 +18,7 @@ details:
 data_sources:
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.inform.kz/ru/bolee-32-kgnarkotikov-pitalis-vvezti-vkazahstan-izyugo-vostochnoy-azii-bc131bf3

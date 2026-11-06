@@ -40,6 +40,8 @@ data_sources:
   details.environment: [2, 3, 1]
   details.products: [2]
   details.setting: [2]
+  figures.kg_seized: [3, 2, 1]
+  figures.value: [2, 1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: a5d240cf5c45e730b22f4ae30ea95d5b

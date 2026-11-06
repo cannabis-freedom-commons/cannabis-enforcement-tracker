@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 status: verified
 tags: [jelenia-gora]
 open_questions:

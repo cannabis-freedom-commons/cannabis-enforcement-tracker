@@ -16,6 +16,7 @@ details:
   products: [{product: flower, kg: 202}]
 data_sources:
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.hurriyetdailynews.com/more-than-200-kg-of-marijuana-seized-in-eastern-turkey-150469

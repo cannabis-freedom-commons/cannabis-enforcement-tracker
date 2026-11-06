@@ -31,6 +31,8 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
+  figures.value: [1]
 status: verified
 tags: [tsing-yi, courier, high-court]
 open_questions:

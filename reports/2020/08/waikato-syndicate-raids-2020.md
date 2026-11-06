@@ -48,6 +48,9 @@ data_sources:
   details.agency_types: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
+  figures.arrested: [1]
+  figures.charged: [1]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [waikato, organised-crime, cultivation]
 sources:

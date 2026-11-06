@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/america/america-latina/2026/09/27/mas-de-19-kilos-de-droga-y-40-detenidos-la-fuerza-de-tarea-conjunta-de-republica-dominicana-desplego-operativos-en-tres-provincias/

@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://gabonactu.com/blog/2026/08/06/trafic-de-cannabis-plus-dune-tonne-de-drogue-saisie/

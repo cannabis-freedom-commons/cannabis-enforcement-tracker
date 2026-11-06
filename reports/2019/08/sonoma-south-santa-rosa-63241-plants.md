@@ -20,6 +20,7 @@ details:
   activity: [cultivation]
 data_sources:
   details.activity: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [sonoma-county, illicit-grows]
 open_questions:

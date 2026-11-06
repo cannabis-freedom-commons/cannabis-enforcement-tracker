@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [1, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: dc10a9a997aa57ba0f8f947af2775aca

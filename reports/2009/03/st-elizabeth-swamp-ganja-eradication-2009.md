@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 status: verified
 tags: [st-elizabeth, narcotics-division, jdf]
 open_questions:

@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://news.abidjan.net/articles/748596/cote-divoire-un-individu-interpelle-avec-55-kg-de-cannabis-lors-dune-operation-de-securisation-a-abobo

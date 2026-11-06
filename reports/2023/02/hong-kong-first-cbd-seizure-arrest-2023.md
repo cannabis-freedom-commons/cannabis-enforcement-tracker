@@ -24,6 +24,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://cannareporter.eu/en/2023/02/11/hong-kong-faz-a-primeira-detencao-de-posse-de-produtos-com-cbd/

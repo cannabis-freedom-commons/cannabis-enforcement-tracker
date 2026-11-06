@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/mp/chhindwara/pandhurna/news/pandhurna-ganja-seizure-farmers-arrested-chhindwara-crime-news-139534312.html

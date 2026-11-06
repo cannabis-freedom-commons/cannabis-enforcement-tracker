@@ -31,6 +31,8 @@ details:
 data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [1, 3]
+  figures.plants_destroyed: [2, 3, 1]
+  figures.value: [2, 3, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 7a0e6162bbd842a49af01012c2468a97

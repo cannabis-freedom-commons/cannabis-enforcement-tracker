@@ -24,6 +24,7 @@ data_sources:
   details.case_stage: [4, 2, 1, 5]
   details.products: [3, 5, 1]
   details.setting: [3, 5, 1, 2, 4]
+  figures.plants_destroyed: [3, 5, 1]
 media:
   - kind: photo
     url: https://one.kr.ua/ru/news/66229

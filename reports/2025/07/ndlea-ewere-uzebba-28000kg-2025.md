@@ -33,6 +33,7 @@ data_sources:
   details.force: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.hectares: [1, 2, 3]
 status: verified
 tags:
   - ndlea

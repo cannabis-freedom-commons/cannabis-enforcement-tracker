@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [2, 6, 9, 12, 3, 14]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.value: [2, 6, 9, 12, 3, 14]
 media:
   - kind: photo
     url: https://news.rthk.hk/rthk/ch/component/k2/1876124-20261101.htm

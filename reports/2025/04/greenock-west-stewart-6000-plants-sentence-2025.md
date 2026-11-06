@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2, 4, 3]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [scotland, greenock, cannabis-farm]
 media:

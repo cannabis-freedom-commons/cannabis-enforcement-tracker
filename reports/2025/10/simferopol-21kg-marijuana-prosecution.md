@@ -24,6 +24,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://kianews24.ru/news/zdorove-uzhe-ne-to-69-letniy-simferopolets-khranil-21-kg-marikhuany-v-lechebnykh-tselyakh/

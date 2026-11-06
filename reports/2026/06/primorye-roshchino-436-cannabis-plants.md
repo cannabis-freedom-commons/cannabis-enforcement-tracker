@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://primamedia.ru/news/2539391/

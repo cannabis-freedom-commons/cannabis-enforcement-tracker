@@ -26,6 +26,7 @@ data_sources:
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
   details.setting: [1, 2, 4]
+  figures.kg_seized: [1, 2, 3, 4, 5]
 status: verified
 tags:
   - transit

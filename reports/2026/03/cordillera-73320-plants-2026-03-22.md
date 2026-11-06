@@ -28,6 +28,8 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [cordillera, benguet, pnp, marijuana-eradication]
 sources:

@@ -41,6 +41,8 @@ data_sources:
   details.products: [1, 3, 4, 5, 6]
   details.sentence_types: [1, 3, 4, 5, 6, 2]
   details.setting: [1, 3, 6, 4, 5]
+  figures.fine: [1, 3, 4, 5, 6, 2]
+  figures.prison: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6a1292520dd6d2084778b0f768aa42af

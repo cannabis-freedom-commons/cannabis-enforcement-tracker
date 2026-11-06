@@ -34,6 +34,7 @@ data_sources:
   details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 3, 4, 2]
+  figures.value: [2, 4, 1]
 status: verified
 tags: [dublin, meath, cannabis-factory, operation-nitrogen]
 open_questions:

@@ -27,6 +27,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mutoko, inyathi, cultivation]

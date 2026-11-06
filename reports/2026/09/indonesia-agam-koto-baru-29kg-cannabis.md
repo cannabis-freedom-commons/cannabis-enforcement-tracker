@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://rri.co.id/padang/hukum/kriminalitas/2738323/bnnp-sumbar-gagalkan-pengiriman-hampir-30-kilogram-ganja

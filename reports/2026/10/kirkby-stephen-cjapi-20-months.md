@@ -33,6 +33,9 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
+  figures.prison: [1]
+  figures.value: [1]
 status: verified
 tags: [cumbria, carlisle, gardener]
 open_questions:

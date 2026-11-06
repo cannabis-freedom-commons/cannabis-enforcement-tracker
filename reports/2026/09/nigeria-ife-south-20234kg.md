@@ -28,6 +28,8 @@ data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.products: [1, 2, 3]
+  figures.hectares: [1, 3, 2]
+  figures.kg_seized: [1, 3, 2]
 status: verified
 tags: [ndlea, osun, ife-south, skunk]
 open_questions:

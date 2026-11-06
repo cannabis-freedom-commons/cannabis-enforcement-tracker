@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  figures.fine: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a0b2f8fd5045c95ee0fbb5187f9bfd2b

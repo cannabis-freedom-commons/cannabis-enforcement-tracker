@@ -19,6 +19,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.webdo.tn/fr/actualite/national/tunisie-destruction-de-538-kilogrammes-de-cannabis/393390/

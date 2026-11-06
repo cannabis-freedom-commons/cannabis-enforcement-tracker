@@ -26,6 +26,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.fine: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [charas, mandi, trial-court]

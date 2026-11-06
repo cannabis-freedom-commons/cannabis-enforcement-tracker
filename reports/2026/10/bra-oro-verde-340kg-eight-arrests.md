@@ -38,6 +38,8 @@ data_sources:
   details.environment: [1, 2, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1, 3, 2]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [piedmont, carabinieri, oro-verde, indoor]
 open_questions:

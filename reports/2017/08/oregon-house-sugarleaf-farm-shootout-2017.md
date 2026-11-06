@@ -26,6 +26,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.deaths: [1]
 status: verified
 tags: [sugarleaf, oregon-house, shootout, deputies-wounded]
 sources:

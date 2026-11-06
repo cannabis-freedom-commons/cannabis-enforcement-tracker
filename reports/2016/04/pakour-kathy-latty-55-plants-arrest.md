@@ -23,6 +23,8 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 928489b6b9a561de0e68963fc19b6c5b

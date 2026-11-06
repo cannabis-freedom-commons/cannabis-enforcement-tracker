@@ -30,6 +30,9 @@ data_sources:
   details.case_stage: [2]
   details.sentence_types: [2]
   details.setting: [2]
+  figures.kg_seized: [2, 1]
+  figures.plants_destroyed: [2, 1]
+  figures.value: [1, 2]
 status: verified
 tags: [llandysul, ceredigion, school, m4-interception, indoor-grow]
 open_questions:

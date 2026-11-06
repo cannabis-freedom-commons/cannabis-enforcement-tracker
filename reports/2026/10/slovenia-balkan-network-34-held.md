@@ -30,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 3, 5, 2]
   details.setting: [3, 4, 5, 1, 2]
+  figures.arrested: [1, 3, 5, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [slovenia, europol, balkan-network, first-report]

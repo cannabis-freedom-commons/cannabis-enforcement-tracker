@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.products: [2, 3, 1]
+  figures.kg_seized: [2, 3, 1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/martinique/plus-de-5-kg-de-cannabis-et-trois-armes-saisis-lors-d-une-operation-de-gendarmerie-au-francois-1691636.html

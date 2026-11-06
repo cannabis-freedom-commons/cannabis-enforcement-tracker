@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.sgvtribune.com/2019/10/18/police-seize-illegal-pills-marijuana-and-cocaine-from-azusa-apartment/

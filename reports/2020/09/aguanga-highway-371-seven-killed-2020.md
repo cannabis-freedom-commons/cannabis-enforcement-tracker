@@ -26,6 +26,8 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1, 2]
+  figures.deaths: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [aguanga, organised-crime, illicit-grow, homicide]
 sources:

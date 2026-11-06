@@ -23,6 +23,10 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [1]
+  figures.hectares: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [ttps, siu, toco]
 open_questions:

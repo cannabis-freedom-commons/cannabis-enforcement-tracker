@@ -31,6 +31,8 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.prison: [1]
+  figures.value: [1]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [apopa, san-salvador]

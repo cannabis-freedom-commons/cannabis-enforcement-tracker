@@ -33,6 +33,8 @@ data_sources:
   details.products: [2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [2, 3]
+  figures.kg_seized: [2, 3]
+  figures.value: [2, 3]
 status: verified
 tags: [airport, import]
 open_questions:

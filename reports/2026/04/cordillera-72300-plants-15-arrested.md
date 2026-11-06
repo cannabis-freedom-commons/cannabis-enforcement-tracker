@@ -37,6 +37,8 @@ data_sources:
   details.case_stage: [4, 2, 1]
   details.products: [2, 3, 4]
   details.setting: [2, 3, 4, 1]
+  figures.hectares: [4]
+  figures.kg_seized: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cordillera, benguet, kalinga, marijuana, eradication]

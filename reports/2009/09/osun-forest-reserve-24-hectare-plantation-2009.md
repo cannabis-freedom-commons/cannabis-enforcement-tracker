@@ -25,6 +25,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]
+  figures.hectares: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, osun-state, plantation]

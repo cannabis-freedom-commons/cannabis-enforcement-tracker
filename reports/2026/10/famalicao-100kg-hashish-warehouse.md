@@ -32,6 +32,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [famalicao, pj, hashish]
 open_questions:

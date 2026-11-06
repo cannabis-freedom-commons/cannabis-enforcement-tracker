@@ -25,6 +25,8 @@ data_sources:
   details.case_stage: [1, 6, 8]
   details.products: [1, 6, 8]
   details.setting: [1, 6, 7, 8, 4]
+  figures.arrested: [1, 6, 8]
+  figures.kg_seized: [1, 6, 8]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f2456fa8ede8d20fe12efb54e68bd6e3

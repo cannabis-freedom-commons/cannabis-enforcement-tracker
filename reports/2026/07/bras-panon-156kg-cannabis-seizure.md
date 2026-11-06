@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://freedom.fr/coup-de-filet-a-bras-panon-156-kg-de-cannabis-saisis-sur-le-littoral-grace-a-la-vigilance-citoyenne/

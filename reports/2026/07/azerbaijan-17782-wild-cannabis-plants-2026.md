@@ -21,6 +21,7 @@ data_sources:
   details.agency_types: [2, 3, 1]
   details.environment: [1, 2]
   details.products: [2, 3, 1, 4]
+  figures.plants_destroyed: [2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4ad91414cc13d76926482013d61ba20

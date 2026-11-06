@@ -57,6 +57,7 @@ data_sources:
   details.environment: [2]
   details.products: [1, 8, 11, 12, 14, 15]
   details.setting: [2, 8, 10, 11, 12, 14]
+  figures.kg_seized: [2, 8, 10, 11, 12, 16]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22776c80ff27cc7ac568691795ff0f0e

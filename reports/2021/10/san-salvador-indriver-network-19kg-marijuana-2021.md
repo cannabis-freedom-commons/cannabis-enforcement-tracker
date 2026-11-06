@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [1, 3, 2, 4]
   details.route: [1, 4, 3]
+  figures.kg_seized: [1, 2, 4]
 media:
   - kind: photo
     url: https://diario.elmundo.sv/nacionales/capturan-a-red-que-movia-droga-desde-guatemala-y-la-distribuia-por-encargo

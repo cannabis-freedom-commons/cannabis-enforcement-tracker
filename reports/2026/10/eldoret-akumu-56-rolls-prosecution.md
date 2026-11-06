@@ -26,6 +26,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  figures.value: [1]
 status: verified
 created_by_model: unknown
 tags: [eldoret, activism, heroin]

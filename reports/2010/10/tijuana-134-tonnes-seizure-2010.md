@@ -30,6 +30,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sinaloa-cartel, record-seizure, us-bound]

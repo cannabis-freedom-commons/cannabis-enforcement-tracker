@@ -17,6 +17,8 @@ summary: >-
 figures:
   arrested: 10
   kg_seized: 10.8
+data_sources:
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [chongwe, festival, cannabis, drug-enforcement-commission]

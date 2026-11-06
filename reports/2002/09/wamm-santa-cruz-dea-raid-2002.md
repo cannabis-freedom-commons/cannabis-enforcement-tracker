@@ -29,6 +29,7 @@ data_sources:
   details.agencies: [3, 5]
   details.agency_types: [3, 5]
   details.products: [1, 2, 3, 4, 5]
+  figures.plants_destroyed: [5, 1]
 status: disputed
 tags:
   - medical-marijuana

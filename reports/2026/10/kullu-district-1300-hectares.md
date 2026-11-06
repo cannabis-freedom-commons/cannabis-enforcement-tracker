@@ -34,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [2, 1]
+  figures.hectares: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 29c78d23c7b5ef571d2de8cad448c364

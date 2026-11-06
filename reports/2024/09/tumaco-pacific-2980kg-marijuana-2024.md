@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2024/10/01/cinco-colombianos-fueron-capturados-en-aguas-de-honduras-iban-en-una-lancha-go-fast-cargados-con-cerca-de-cuatro-toneladas-de-cocaina/

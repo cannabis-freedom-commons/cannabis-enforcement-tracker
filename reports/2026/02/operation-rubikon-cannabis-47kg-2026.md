@@ -29,6 +29,9 @@ data_sources:
   details.case_stage: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
+  figures.kg_seized: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7814f409b1093e48daae30afebb69ea2

@@ -29,6 +29,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 4, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 4]
 media:
   - kind: photo
     url: https://www.freepressjournal.in/amp/indore/mps-khargone-and-dhar-police-seize-380-cannabis-plants-worth-over-65-lakh-hidden-in-cotton-fields-one-arrested

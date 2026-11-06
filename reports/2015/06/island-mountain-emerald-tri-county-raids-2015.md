@@ -29,6 +29,7 @@ data_sources:
   details.activity: [2, 5, 1, 4]
   details.products: [2, 5, 1]
   details.setting: [2, 5, 1, 4]
+  figures.plants_destroyed: [2, 5]
 status: verified
 tags: [island-mountain, emerald-triangle, search-warrants]
 open_questions:

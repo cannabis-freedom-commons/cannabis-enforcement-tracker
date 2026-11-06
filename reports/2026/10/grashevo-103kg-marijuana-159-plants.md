@@ -20,6 +20,8 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.bta.bg/bg/news/bulgaria/1237038-spetsializirana-politseyska-operatsiya-ustanovi-103-kilograma-marihuana-vav-veli

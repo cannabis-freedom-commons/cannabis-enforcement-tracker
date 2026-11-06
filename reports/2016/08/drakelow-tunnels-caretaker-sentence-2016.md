@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2]
+  figures.prison: [1]
 status: verified
 tags: [indoor-grow, bunker, worcestershire, retrial]
 media:

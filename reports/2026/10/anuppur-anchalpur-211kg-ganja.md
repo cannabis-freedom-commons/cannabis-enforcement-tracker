@@ -43,6 +43,7 @@ data_sources:
   details.agency_types: [3, 6, 2, 5, 1, 4]
   details.products: [1, 2, 4, 5, 6, 7]
   details.setting: [3, 6, 2, 5, 1, 4]
+  figures.value: [1, 4, 2, 6, 5, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9dd8844cc7d330f305e581ea9fbf8e9a

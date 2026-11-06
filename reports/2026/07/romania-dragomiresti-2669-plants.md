@@ -31,6 +31,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [diicot, neamt, greenhouse, trafficking]
 open_questions:

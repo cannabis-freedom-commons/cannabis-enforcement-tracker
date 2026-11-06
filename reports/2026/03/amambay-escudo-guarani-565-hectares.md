@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  figures.hectares: [1]
 status: verified
 tags: [amambay, senad, escudo-guarani, eradication]
 sources:

@@ -39,6 +39,8 @@ data_sources:
   details.agencies: [1, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 3, 4, 5, 6, 7, 8, 9, 10]
   details.products: [1, 3, 4, 5, 6, 7]
+  figures.plants_destroyed: [1, 3, 4, 5, 6, 7]
+  figures.value: [1, 3, 5, 9, 4, 8]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0e1bf26482be440bfd61af1a32cc021e

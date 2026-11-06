@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   details.setting: [2, 1, 3]
+  figures.prison: [2, 1, 3]
 status: verified
 tags: [commutation, release, clemency]
 open_questions:

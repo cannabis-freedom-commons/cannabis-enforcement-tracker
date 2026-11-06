@@ -56,6 +56,8 @@ data_sources:
   details.agency_types: [1, 4]
   details.products: [1, 4, 2, 3]
   details.setting: [1, 4, 2, 3]
+  figures.kg_seized: [1, 4, 2]
+  figures.value: [2, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc8906e4fe1333e011a8537bb18db85a

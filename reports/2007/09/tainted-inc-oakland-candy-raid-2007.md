@@ -25,6 +25,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.dea.gov/sites/default/files/divisions/sf/2007/sanfran092707p.html

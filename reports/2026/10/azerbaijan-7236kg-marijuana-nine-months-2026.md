@@ -23,6 +23,8 @@ details:
 data_sources:
   details.activity: [2, 3]
   details.products: [2]
+  figures.charged: [2, 3]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a0f8278d75694f018d977b5d174f971a

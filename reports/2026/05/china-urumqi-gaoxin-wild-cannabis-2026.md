@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, urumqi, wild-cannabis, eradication]

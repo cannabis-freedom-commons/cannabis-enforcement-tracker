@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 open_questions:
   - Only one account of the raid, a repost of the Thai Examiner's reporting, could

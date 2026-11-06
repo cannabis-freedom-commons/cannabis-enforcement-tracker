@@ -17,6 +17,7 @@ details:
   agency_types: [gendarmerie]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.senenews.com/actualites/3200-kg-de-yamba-saisis-par-la-gendarmerie-photos_242770.html

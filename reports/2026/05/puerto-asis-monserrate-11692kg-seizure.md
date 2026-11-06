@@ -23,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.eluniversal.com.mx/mundo/incautan-mas-de-116-toneladas-de-marihuana-en-colombia-droga-tenia-como-destino-final-brasil/

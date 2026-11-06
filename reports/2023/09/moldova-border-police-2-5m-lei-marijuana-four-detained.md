@@ -36,6 +36,7 @@ data_sources:
   details.environment: [1, 3, 2]
   details.products: [2, 1, 3]
   details.setting: [1, 3, 2]
+  figures.value: [2, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 78d314895836e7367fc6c32ff8b405b3

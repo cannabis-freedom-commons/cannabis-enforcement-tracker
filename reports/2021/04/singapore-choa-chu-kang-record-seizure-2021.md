@@ -27,6 +27,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [cnb, record-seizure, trafficking]
 media:

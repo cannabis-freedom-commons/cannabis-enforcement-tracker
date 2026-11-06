@@ -32,6 +32,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 open_questions:
   - One account gives the farm's estimated yield as over 16,966 kilogrammes rather than over 18,000 kilogrammes.

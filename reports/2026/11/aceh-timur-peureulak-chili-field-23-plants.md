@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 media:
   - kind: photo
     url: https://pujatvaceh.com/samarkan-ganja-di-kebun-cabai-petani-di-aceh-timur-ditangkap-polisi/

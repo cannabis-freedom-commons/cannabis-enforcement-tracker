@@ -31,6 +31,7 @@ data_sources:
   details.activity: [1]
   details.products: [1]
   details.setting: [1]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2770116d7ca2706b8703b022adbc93bb

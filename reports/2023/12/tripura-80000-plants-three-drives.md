@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2, 4]
   details.products: [1, 2, 4]
   details.setting: [1, 4, 3]
+  figures.plants_destroyed: [1, 4, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, ganja, bsf, unakoti, sepahijala]

@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [2, 1]
+  figures.fine: [1, 2]
+  figures.prison: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: c9e88f3a4ee8fd60189937de9a1549f3

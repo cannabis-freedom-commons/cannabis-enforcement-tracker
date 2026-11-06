@@ -22,6 +22,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://vietnamnews.vn/society/1799747/nearly-74kg-of-cannabis-uncovered-in-drug-bust-in-northern-province.html

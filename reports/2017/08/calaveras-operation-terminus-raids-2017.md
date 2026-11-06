@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [2, 1]
+  figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [operation-terminus, environmental-crimes]

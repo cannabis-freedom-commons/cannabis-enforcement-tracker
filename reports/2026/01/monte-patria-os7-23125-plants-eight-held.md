@@ -38,6 +38,8 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 3]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 69f0e30f8ebeddf69bf3211859fc2e8e

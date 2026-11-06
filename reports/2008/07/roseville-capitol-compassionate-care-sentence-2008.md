@@ -34,6 +34,8 @@ data_sources:
   details.case_stage: [4, 5]
   details.products: [1, 4, 5, 2, 3]
   details.setting: [1, 2, 4, 5]
+  figures.fine: [4, 5]
+  figures.prison: [4, 5]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [medical-marijuana, dispensary, dea, federal]

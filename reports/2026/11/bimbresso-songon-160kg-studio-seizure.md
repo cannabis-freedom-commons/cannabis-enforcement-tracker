@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4, 5]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/11/04/cote-divoire/societe/cote-divoire-saisie-record-a-bimbresso-1605-kg-de-cannabis-dans-un-studio-discret-de-songon_202254.html

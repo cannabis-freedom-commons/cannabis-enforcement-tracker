@@ -32,6 +32,8 @@ data_sources:
   details.case_stage: [1, 3]
   details.sentence_types: [1, 3]
   details.setting: [1, 2, 3]
+  figures.fine: [1, 2]
+  figures.prison: [1, 3]
 media:
   - kind: photo
     url: https://uk.news.yahoo.com/man-made-160-000-illicit-184733187.html

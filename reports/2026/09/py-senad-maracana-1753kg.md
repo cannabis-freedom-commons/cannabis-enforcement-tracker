@@ -38,6 +38,7 @@ data_sources:
   details.case_stage: [2, 3, 1]
   details.products: [1, 2, 3]
   details.route: [2, 3, 1]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [senad, canindeyu, stash-site, brazil-route]
 open_questions:

@@ -26,6 +26,8 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [benguet]
 open_questions:

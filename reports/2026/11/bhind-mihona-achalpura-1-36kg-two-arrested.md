@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3b8d0e55a9d230e0a5464d9a5012f400

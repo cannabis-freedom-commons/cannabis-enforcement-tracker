@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/v-sankt-peterburge-politsiey-zaderzhan-narkoagronom-zagotovivshiy-67-kg-marikhuany-v-arendovannoy-kv/

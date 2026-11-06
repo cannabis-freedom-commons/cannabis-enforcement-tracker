@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-un-cargamento-de-marihuana-en-misiones-2

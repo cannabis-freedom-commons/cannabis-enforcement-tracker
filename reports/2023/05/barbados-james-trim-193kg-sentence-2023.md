@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [foreigner, trafficking, vessel-interception, guilty-plea]
 open_questions:

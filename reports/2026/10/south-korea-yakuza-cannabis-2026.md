@@ -27,6 +27,8 @@ data_sources:
   details.activity: [2, 4, 1, 3]
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [1, 4, 2]
+  figures.kg_seized: [2, 1, 3, 4]
+  figures.prison: [1, 4, 2]
 status: verified
 cfi_id: south-korea-yakuza-cannabis-2026
 tags: [suwon, incheon, yakuza]

@@ -36,6 +36,7 @@ data_sources:
   details.agency_types: [3, 6, 7, 1, 4, 5]
   details.case_stage: [3, 7, 6, 2, 4, 5]
   details.setting: [1, 3, 4, 5, 7]
+  figures.kg_seized: [1, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ef247ec8b3ea11d310e839e5aa9ce8db

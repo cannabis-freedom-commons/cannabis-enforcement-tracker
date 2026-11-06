@@ -31,6 +31,8 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [1, 2, 4, 3]
   details.sentence_types: [1, 2, 4]
+  figures.kg_seized: [1, 2, 4, 3]
+  figures.value: [1, 3, 4, 2]
 status: verified
 tags: [jersey, customs, hire-car, importation]
 open_questions:

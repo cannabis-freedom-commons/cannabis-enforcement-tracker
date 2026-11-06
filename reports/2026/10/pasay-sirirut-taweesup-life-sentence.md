@@ -38,6 +38,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
+  figures.kg_seized: [1, 3, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [pasay, naia, thai-national, smuggling]

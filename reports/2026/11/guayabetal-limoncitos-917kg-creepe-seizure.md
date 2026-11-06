@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [2, 3, 1, 4]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 3, 4, 2]
+  figures.kg_seized: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://www.eltiempo.com/bogota/policia-encontro-917-kilos-de-marihuana-en-una-camioneta-que-transitaba-por-la-via-bogota-villavicencio-3598303

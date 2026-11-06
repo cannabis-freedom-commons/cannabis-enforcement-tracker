@@ -18,6 +18,7 @@ details:
   agency_types: [customs]
 data_sources:
   details.agency_types: [2, 3, 1]
+  figures.value: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4ab398f5037a21aae69281f20acb68dd

@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [hawaii-county, mountain-view, eradication, federal-prosecution]

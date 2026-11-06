@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://tiempo.hn/sucesos/2025/10/12/localizan-30-mil-plantas-marihuana-olancho-capturan-dos-hombres/

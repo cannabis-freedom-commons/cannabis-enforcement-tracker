@@ -28,6 +28,8 @@ data_sources:
   details.case_stage: [2, 4]
   details.sentence_types: [2, 4]
   details.setting: [2, 4, 1]
+  figures.charged: [2]
+  figures.prison: [2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9953e803864aded1a51d7ef24527f073

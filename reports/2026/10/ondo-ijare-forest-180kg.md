@@ -35,6 +35,7 @@ data_sources:
   details.agency_types: [1, 2, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
   details.case_stage: [1, 4, 5, 7, 6, 12]
   details.setting: [1, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+  figures.kg_seized: [1, 7, 9, 15, 2, 3]
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: bbc6da467253d9fbdba96826d7097c90

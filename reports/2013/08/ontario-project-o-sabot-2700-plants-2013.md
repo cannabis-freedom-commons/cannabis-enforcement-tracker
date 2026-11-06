@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [operation-sabot, o-sabot, outdoor-grows]
 sources:

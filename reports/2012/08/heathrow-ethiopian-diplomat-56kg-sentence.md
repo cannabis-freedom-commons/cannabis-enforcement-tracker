@@ -28,6 +28,9 @@ data_sources:
   details.case_stage: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.prison: [2, 1]
+  figures.value: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [heathrow, diplomatic-immunity]

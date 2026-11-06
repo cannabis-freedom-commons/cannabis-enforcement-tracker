@@ -20,6 +20,7 @@ details:
 data_sources:
   details.case_stage: [1]
   details.products: [1, 2, 3]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/10/04/republica-dominicana-ha-incautado-16671-kilogramos-de-drogas-durante-el-segundo-trimestre-de-2026/

@@ -32,6 +32,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
+  figures.hectares: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [primorye, dukhovskoye, mak-2026, wild-cannabis, russia]

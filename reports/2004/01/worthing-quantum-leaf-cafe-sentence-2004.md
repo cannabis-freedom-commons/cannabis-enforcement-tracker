@@ -33,6 +33,7 @@ data_sources:
   details.products: [3, 2, 1]
   details.sentence_types: [3]
   details.setting: [3]
+  figures.value: [3, 2]
 status: verified
 tags: [worthing, cannabis-cafe, medical-use]
 sources:

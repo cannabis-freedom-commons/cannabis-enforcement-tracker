@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2552665-diyarbakirda-500-kilogram-esrar-ele-gecirildi

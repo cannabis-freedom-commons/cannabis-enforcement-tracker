@@ -22,6 +22,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://kapitalis.com/tunisie/2022/11/01/tunisie-un-voyageur-en-provenance-de-marseille-arrete-en-possession-de-65-kg-de-cannabis/

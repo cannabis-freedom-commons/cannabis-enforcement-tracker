@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://sandesh.com/gujarat/news/crime/vapi/vapi--rs-38-98-lakh-worth-of-hybrid-weed-seized-by-valsad-lcb

@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
 status: verified
 tags: [ndlea, ondo]
 sources:

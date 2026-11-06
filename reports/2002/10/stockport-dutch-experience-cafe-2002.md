@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [5, 1, 2]
   details.sentence_types: [5, 1, 2]
   details.setting: [5, 1, 2]
+  figures.prison: [5, 1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cannabis-cafe, stockport]

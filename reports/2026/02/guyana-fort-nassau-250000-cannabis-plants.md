@@ -25,6 +25,9 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 open_questions:
   - The plant count, dried-cannabis amount and value come from a Guyana Police Force account repeated by both outlets, with no independent confirmation in these reports.

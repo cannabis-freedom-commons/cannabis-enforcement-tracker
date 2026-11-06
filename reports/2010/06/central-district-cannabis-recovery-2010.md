@@ -26,6 +26,9 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2]
+  figures.charged: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [national-cannabis-operation, operation-penny]
 open_questions:

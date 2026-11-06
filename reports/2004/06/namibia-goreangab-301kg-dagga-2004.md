@@ -29,6 +29,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [windhoek, goreangab, record-seizure]
 sources:

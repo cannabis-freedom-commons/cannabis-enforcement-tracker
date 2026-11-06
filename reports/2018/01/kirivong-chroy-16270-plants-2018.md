@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/50102824/takeo-police-destroy-16000-marijuana-plants/

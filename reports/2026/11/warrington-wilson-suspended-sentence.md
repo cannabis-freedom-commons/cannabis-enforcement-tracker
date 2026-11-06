@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.fine: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6f83017277e58d9bd88e97ae2d6d40c1

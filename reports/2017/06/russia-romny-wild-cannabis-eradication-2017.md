@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [3, 1, 2]
   details.environment: [1]
   details.products: [1, 3]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [primorye, manchurian-cannabis, wild-cannabis, maks-2017, russia]

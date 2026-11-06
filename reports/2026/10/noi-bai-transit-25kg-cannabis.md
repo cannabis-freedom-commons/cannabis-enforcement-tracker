@@ -36,6 +36,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 6, 7]
   details.products: [1, 2, 3, 5, 6, 7]
   details.setting: [1]
+  figures.kg_seized: [1, 2, 3, 5, 6, 7]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6267c34d6c9e9c88d1eebd15cce7b5ce

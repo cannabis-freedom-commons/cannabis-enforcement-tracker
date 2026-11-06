@@ -84,6 +84,8 @@ data_sources:
   details.products: [2, 4, 1, 3, 15, 17]
   details.sentence_types: [5, 6, 9, 12, 13, 7]
   details.setting: [5, 6, 11, 12, 9, 13]
+  figures.hectares: [2, 4, 1, 3, 15, 17]
+  figures.plants_destroyed: [1, 2, 4, 3, 15, 17]
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e0035043d4e97af06cdb8b6e0ed219e6

@@ -20,6 +20,8 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.arrested: [2, 1]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.elliberal.com.ar/nota/91086/2026/09/creen-que-los-58-kg-de-droga-partieron-de-bolivia-con-destino--la-villa-1-11-14

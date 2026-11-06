@@ -28,6 +28,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [edo, owan-west, ndlea, cannabis-farms, eradication]
 open_questions:

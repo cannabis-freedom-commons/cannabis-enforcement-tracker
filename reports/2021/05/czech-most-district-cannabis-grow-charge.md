@@ -38,6 +38,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.environment: [2]
   details.products: [1, 2]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [czechia, ustecky-kraj, most, indoor-grow, cannabis]

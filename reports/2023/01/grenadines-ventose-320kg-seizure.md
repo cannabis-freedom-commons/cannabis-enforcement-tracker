@@ -21,6 +21,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.products: [2, 1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://stluciatimes.com/151000/2023/01/320-kg-of-cannabis-seized-at-sea-off-the-grenadines/

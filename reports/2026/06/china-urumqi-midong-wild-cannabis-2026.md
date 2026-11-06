@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [2, 4]
   details.environment: [1, 2, 4]
   details.setting: [2, 4]
+  figures.plants_destroyed: [2, 4, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [xinjiang, wild-cannabis, urumqi, midong]

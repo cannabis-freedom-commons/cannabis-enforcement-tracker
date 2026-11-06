@@ -34,6 +34,8 @@ data_sources:
   details.case_stage: [2, 1, 5]
   details.products: [1, 2, 3, 5, 4]
   details.setting: [1, 2, 3, 5, 4]
+  figures.hectares: [1, 2, 3, 5]
+  figures.plants_destroyed: [1, 2, 3, 5]
 status: verified
 tags: [kalinga, tinglayan, pnp, pdea, cordillera]
 open_questions:

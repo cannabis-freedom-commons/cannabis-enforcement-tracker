@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.route: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [catanzaro, albania-route, ndrangheta]

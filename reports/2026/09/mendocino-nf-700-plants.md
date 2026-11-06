@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 tags: [mendocino-national-forest, forest-service, glenn-county, eradication]
 sources:

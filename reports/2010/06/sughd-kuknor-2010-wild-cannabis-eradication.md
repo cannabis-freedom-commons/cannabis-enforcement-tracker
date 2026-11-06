@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [wild-cannabis, sughd, eradication-campaign]
 sources:

@@ -34,6 +34,8 @@ data_sources:
   details.case_stage: [2, 3, 4, 5, 1]
   details.sentence_types: [2, 3, 4, 5, 1]
   details.setting: [2, 3, 4, 5, 1]
+  figures.prison: [1, 3, 4, 5, 2]
+  figures.value: [1, 3, 4, 5, 2]
 status: verified
 tags: [warwickshire, underground, wolston]
 open_questions:

@@ -34,6 +34,7 @@ data_sources:
   details.case_stage: [2, 5, 7, 10, 3]
   details.products: [2, 5, 7, 10]
   details.setting: [2, 1, 4, 6, 10]
+  figures.kg_seized: [2, 5, 7, 10, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 5618c90fc887e5b0df6d010a9940d32c

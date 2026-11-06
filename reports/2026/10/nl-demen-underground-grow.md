@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1, 2, 4]
   details.agency_types: [1, 2, 4, 3]
   details.setting: [1, 3, 4, 2]
+  figures.plants_destroyed: [1, 2, 4]
 media:
   - kind: photo
     url: https://www.omroepbrabant.nl/nieuws/6030730/hennepkwekerij-ontdekt-in-demen-politie-bezig-met-ontruimen

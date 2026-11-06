@@ -23,6 +23,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ndlea, ondo, public-destruction]

@@ -18,6 +18,8 @@ details:
   agency_types: [police]
 data_sources:
   details.agency_types: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8b901015eaa8d83adeae1d22d662019b

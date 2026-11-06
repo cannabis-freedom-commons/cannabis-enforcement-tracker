@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2334949-diyarbakirda-narkoteror-operasyonu

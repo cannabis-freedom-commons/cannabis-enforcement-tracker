@@ -61,6 +61,7 @@ data_sources:
   details.products: [2, 3, 1]
   details.sentence_types: [3, 2, 1]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 039d15e58209ca82afbc131eaac5e77e

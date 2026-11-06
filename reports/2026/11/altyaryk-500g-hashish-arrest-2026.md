@@ -30,6 +30,7 @@ details:
 data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c11e51a89ec46d1f40a58dd6ec03cfc4

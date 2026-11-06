@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 37c7e57f55ed2194f2a0df8d986ff4e1

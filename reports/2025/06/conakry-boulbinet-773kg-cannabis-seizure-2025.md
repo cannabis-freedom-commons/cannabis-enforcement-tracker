@@ -20,6 +20,8 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://guineematin.com/2025/06/30/guinee-saisie-record-de-165-kg-de-kush-et-773-kg-de-chanvre-indien-par-les-services-speciaux/

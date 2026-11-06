@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.sentence_types: [1]
+  figures.fine: [1]
 media:
   - kind: photo
     url: https://www.countytimes.co.uk/news/26678600.newtown-woman-banned-mid-wales-drug-driving-offences/

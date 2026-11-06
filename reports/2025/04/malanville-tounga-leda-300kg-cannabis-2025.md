@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 29369cfcc3dfc6e0d1fbdbba3b6e05b2

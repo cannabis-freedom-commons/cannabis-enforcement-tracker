@@ -30,6 +30,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
 status: verified
 tags:
   - rental-car

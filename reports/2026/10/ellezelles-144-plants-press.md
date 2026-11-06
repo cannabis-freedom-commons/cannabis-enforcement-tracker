@@ -24,6 +24,8 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
 status: verified
 tags: [hainaut, ellezelles, resin]
 open_questions:

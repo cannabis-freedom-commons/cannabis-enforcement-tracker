@@ -27,6 +27,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [qibray, containers, farm, weapons]

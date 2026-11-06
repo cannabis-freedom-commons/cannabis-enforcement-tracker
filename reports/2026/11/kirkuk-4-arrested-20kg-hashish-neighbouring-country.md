@@ -21,6 +21,7 @@ details:
 data_sources:
   details.activity: [1, 3]
   details.products: [1, 3]
+  figures.kg_seized: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c47b20d7aabbbb8317bb5a3e6d194d70

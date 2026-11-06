@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.ellitoral.com/sucesos/incautaron-600-kilos-marihuana-cruzando-argentina-lanchas-flores-acuaticas-droga-ahora-hoy-misiones-puerto-rico-paraguyay-federal-video_0_CWNrIVTm4G.html

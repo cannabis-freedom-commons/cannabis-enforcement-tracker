@@ -37,6 +37,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [fgr, checkpoint, pre-trial-detention, hiding-method]
 open_questions:

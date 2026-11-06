@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.wspa.com/news/crime/waynesville-police-seize-thc-products/

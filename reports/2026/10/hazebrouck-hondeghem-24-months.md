@@ -39,6 +39,8 @@ data_sources:
   details.products: [1, 4, 3, 2]
   details.sentence_types: [3, 1, 4]
   details.setting: [3, 1, 2, 4]
+  figures.prison: [1, 4, 3]
+  figures.value: [3, 1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 42052f0bd6e0a4cc65f9fb9ff57cd15c

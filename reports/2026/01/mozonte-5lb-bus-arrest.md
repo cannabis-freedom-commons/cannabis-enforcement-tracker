@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://www.tn8.ni/sucesos/golpe-al-narcotrafico-detenidos-transportando-marihuana-en-nueva-segovia/

@@ -31,6 +31,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [benguet, kibungan, bakun, pdea, eradication]

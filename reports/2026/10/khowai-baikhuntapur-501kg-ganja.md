@@ -32,6 +32,7 @@ data_sources:
   details.agency_types: [2, 1, 4]
   details.products: [1, 2, 4]
   details.setting: [4]
+  figures.kg_seized: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, khowai, ganja, assam-rifles, customs]

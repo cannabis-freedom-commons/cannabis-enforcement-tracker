@@ -36,6 +36,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.fine: [1, 2]
 status: verified
 tags: [benguet, la-trinidad, pdea, buy-bust, reclusion]
 open_questions:

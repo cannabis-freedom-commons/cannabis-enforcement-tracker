@@ -20,6 +20,7 @@ data_sources:
   details.agency_types: [1, 3, 2]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.kg_seized: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.virgule.lu/luxembourg/42-kilos-de-cannabis-saisis-par-les-douanes-luxembourgeoises-dans-un-camion/61427025.html

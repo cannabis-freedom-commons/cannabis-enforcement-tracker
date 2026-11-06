@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.value: [2, 1]
 media:
   - kind: photo
     url: https://prensalibrehn.com/decomisan-15-paquetes-de-supuesta-marihuana-valorados-en-medio-millon-de-lempiras-y-captura-a-presunto-distribuidor-en-san-manuel-cortes/

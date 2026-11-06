@@ -24,6 +24,8 @@ data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 4, 2]
   details.products: [1, 4]
+  figures.arrested: [1, 3]
+  figures.kg_seized: [1, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 64b4a4dac7b347ea1735f2c9105633c3

@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/titulo:144428-ejercito-de-nicaragua-realizo-la-incautacion-e-incineracion-de-plantas-de-marihuana-

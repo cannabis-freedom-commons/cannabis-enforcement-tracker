@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
     url: https://news.coastguard.gov.lk/news/2022/09/13/202209141526/

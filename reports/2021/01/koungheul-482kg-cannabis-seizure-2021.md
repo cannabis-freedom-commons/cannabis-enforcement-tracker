@@ -25,6 +25,8 @@ data_sources:
   details.agency_types: [2, 1, 3, 5, 4]
   details.case_stage: [2, 1, 3, 5, 4]
   details.setting: [2, 1, 3, 5]
+  figures.kg_seized: [1]
+  figures.value: [2, 1]
 media:
   - kind: photo
     url: https://www.dakaractu.com/Trafic-de-drogues-634-kg-de-chanvre-indien-saisis-a-Koungheul-et-a-Mbour_a198851.html

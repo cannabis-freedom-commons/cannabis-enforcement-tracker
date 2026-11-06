@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1, 2]
   details.setting: [2]
+  figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f34d886189a5e00c2caa74d55900b578

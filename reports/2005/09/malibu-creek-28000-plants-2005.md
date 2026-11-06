@@ -20,6 +20,7 @@ details:
   products: [{product: flower}]
 data_sources:
   details.products: [1]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [malibu, lost-hills, public-lands]

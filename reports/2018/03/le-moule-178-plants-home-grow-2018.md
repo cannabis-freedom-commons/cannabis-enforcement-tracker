@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 0cc6221521983f1d895049511571c3a3

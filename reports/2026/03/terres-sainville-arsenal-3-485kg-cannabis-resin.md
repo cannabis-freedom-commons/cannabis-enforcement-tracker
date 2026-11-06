@@ -42,6 +42,7 @@ data_sources:
   details.products: [3]
   details.sentence_types: [1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 25dc1da7f7b56fb271a2971ed3ad53ba

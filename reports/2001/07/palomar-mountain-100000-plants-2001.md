@@ -20,6 +20,7 @@ details:
 data_sources:
   details.activity: [2, 1]
   details.products: [1, 2]
+  figures.plants_destroyed: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [palomar-mountain, san-diego-county]

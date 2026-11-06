@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.police.govt.nz/news/release/four-people-arrested-northland-drug-operation

@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, firing-squad, nusakambangan]

@@ -23,6 +23,7 @@ details:
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [shkoder, koman, gjurmet]

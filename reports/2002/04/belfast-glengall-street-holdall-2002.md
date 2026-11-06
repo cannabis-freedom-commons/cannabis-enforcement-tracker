@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  figures.value: [1, 2]
 status: verified
 tags: [belfast, holdall, resin]
 open_questions:

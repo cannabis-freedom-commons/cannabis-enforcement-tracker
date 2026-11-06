@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.sgaia.gob.gt/erradicacion-de-47568-matas-de-marihuana-en-las-cruces-peten/

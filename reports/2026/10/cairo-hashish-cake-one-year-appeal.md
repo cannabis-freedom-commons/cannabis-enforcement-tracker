@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.prison: [1]
 status: verified
 tags: [cairo, hashish, court]
 open_questions:
