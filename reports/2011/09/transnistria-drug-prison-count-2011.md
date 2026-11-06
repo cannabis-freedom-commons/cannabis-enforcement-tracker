@@ -11,11 +11,13 @@ summary: >-
   population, and more than 200 people serving suspended sentences under supervision.
 created_by_model: unknown
 details:
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [suspended]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
   details.sentence_types: [1, 2]

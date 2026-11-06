@@ -15,6 +15,7 @@ figures:
   prison: 8 years
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics]
   case_stage: sentenced
   date_precision: exact
   products: [{product: flower}]
@@ -22,6 +23,7 @@ details:
   setting: [prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]

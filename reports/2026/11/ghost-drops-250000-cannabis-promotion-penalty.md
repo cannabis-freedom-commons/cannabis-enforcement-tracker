@@ -15,9 +15,11 @@ figures:
     amount: 250000
     currency: CAD
 details:
+  agency_types: [court]
   case_stage: convicted
   products: [{product: flower}]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [2, 1]
   figures.fine: [1, 2]

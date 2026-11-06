@@ -14,11 +14,13 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [possession]
+  agency_types: [anti-narcotics, court]
   case_stage: sentenced
   products: [{product: hashish}]
   sentence_types: [death]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]

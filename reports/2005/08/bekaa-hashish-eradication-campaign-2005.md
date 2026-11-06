@@ -15,11 +15,13 @@ summary: >-
   costly operation would continue until every hashish crop was eliminated.
 details:
   activity: [cultivation]
+  agency_types: [military]
   date_precision: exact
   products: [{product: hashish}]
   setting: [field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]

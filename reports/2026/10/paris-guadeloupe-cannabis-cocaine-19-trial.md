@@ -16,6 +16,7 @@ figures:
   charged: 19
 details:
   activity: [smuggling]
+  agency_types: [anti-narcotics, court]
   case_stage: executed
   force: shots-fired
   products: [{product: flower}]
@@ -23,6 +24,7 @@ details:
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.force: [1]
   details.products: [1, 2]

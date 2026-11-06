@@ -12,12 +12,14 @@ summary: >-
   trafficking, covering 200 g of cannabis and 84.17 g of cannabis mixture, and he pleaded guilty.
 created_by_model: unknown
 details:
+  agency_types: [court]
   case_stage: sentenced
   date_precision: exact
   products: [{product: flower}]
   sentence_types: [probation]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]

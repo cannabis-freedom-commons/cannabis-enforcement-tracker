@@ -12,8 +12,10 @@ summary: >-
   extract in 20 vape cartridges hidden in pancake-mix packages at Terminal 3 on 15 December 2024.
 created_by_model: unknown
 details:
+  agency_types: [court]
   case_stage: convicted
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
 status: verified
 cfi_id: uae-cannabis-extract-acquittal-2025

@@ -17,6 +17,7 @@ figures:
   charged: 1
 details:
   activity: [possession]
+  agency_types: [court]
   case_stage: sentenced
   date_precision: exact
   products:
@@ -24,6 +25,7 @@ details:
   setting: [prison]
 data_sources:
   details.activity: [3]
+  details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1, 2]

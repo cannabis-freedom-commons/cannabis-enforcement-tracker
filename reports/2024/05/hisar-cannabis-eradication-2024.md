@@ -13,10 +13,12 @@ summary: >-
   Acting on a Punjab and Haryana High Court direction, the Hisar district administration began destroying cannabis plants in ten villages at the end of May 2024. A team from the Agriculture and Farmers Welfare Department uprooted the plants, and officials said the work was continuing across the district.
 details:
   activity: [cultivation]
+  agency_types: [court]
   case_stage: investigation
   products: [{product: plants}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2]
 status: reported

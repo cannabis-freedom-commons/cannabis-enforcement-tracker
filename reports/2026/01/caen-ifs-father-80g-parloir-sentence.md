@@ -20,6 +20,7 @@ figures:
   prison: 8 months
 details:
   activity: [trafficking]
+  agency_types: [court]
   case_stage: sentenced
   date_precision: exact
   sentence_types: [prison]
@@ -28,6 +29,7 @@ details:
     - {product: hashish}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]

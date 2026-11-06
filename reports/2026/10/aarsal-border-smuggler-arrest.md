@@ -19,6 +19,7 @@ figures:
   kg_seized: 82
 details:
   activity: [smuggling]
+  agency_types: [military]
   case_stage: investigation
   date_precision: exact
   setting: [border]
@@ -27,6 +28,7 @@ details:
   route: {from: [lb], to: [sy]}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]

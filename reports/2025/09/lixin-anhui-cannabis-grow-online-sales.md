@@ -20,6 +20,7 @@ figures:
   fine: { amount: 400000, currency: CNY }
 details:
   activity: [cultivation, money]
+  agency_types: [anti-narcotics, court]
   case_stage: sentenced
   date_precision: exact
   products: [{product: flower}]
@@ -27,6 +28,7 @@ details:
   setting: [building, prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]

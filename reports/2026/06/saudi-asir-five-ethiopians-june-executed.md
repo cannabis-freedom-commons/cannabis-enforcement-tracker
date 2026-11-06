@@ -18,6 +18,7 @@ figures:
   deaths: 5
 details:
   activity: [smuggling]
+  agency_types: [anti-narcotics]
   case_stage: executed
   date_precision: exact
   products:
@@ -26,6 +27,7 @@ details:
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
   details.date_precision: [1, 3]
   details.products: [1]

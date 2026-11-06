@@ -17,11 +17,13 @@ figures:
   kg_seized: 0.9963
 details:
   activity: [possession]
+  agency_types: [gendarmerie]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]

@@ -20,6 +20,7 @@ figures:
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics]
   case_stage: executed
   date_precision: exact
   products: [{product: flower, kg: 2.7}]
@@ -27,6 +28,7 @@ details:
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]

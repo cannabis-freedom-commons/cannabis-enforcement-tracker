@@ -13,11 +13,13 @@ summary: >-
   law.
 created_by_model: unknown
 details:
+  agency_types: [military]
   case_stage: investigation
   environment: [indoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
