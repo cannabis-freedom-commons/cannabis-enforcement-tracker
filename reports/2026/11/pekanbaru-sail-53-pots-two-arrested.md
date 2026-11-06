@@ -66,18 +66,35 @@ sources:
     publisher: RiauEditor.com
     date: 2026-11-05
     language: id
+  - title: Gerebek Rumah Potong Sail, 53 Pot Ganja Disita, 2 Pria Dibekuk
+    url: https://www.haloterkini.com/2026/11/05/gerebek-rumah-potong-sail-53-pot-ganja-disita-2-pria-dibekuk/
+    publisher: Halo Terkini
+    date: 2026-11-05
+    language: id
+  - title: Polresta Pekanbaru temukan 53 polibek diduga bibit ganja saat kembangkan kasus
+    url: https://riau.antaranews.com/berita/457727/polresta-pekanbaru-temukan-53-polibek-diduga-bibit-ganja-saat-kembangkan-kasus
+    publisher: ANTARA News Riau
+    date: 2026-11-05
+    language: id
+  - title: Polresta Pekanbaru Sita 53 Pot Tanaman Diduga Ganja di Sail
+    url: https://serangkai.co/polresta-pekanbaru-sita-53-pot-tanaman-diduga-ganja-di-sail/
+    publisher: Serangkai.co
+    date: 2026-11-05
+    language: id
 open_questions:
   - The pots were reported as suspected cannabis plants with no published laboratory confirmation.
   - No separate count of individual plants was given beyond the 53 pots.
   - No court outcome, trial date or custody status beyond the initial investigation was reported.
   - The man identified as DI was still under investigation and had not been arrested in these accounts.
   - The three accounts repeat the Polresta Pekanbaru briefing and are not independent of the police version.
+  - ANTARA names the detained man as ED and the supplier as DN, who is listed as wanted, while Halo Terkini, Serangkai.co and the existing report name AH and YL with supplier DI; the discrepancy is unresolved.
+  - ANTARA describes the potted plants as about five days old and awaiting laboratory confirmation, so the cannabis identity remains suspected.
 ---
 
 Pekanbaru narcotics police detained two men identified as AH, 41, and YL, 49, in
-Sail district. [@1] Officers detained them in front of the slaughterhouse on
+Sail district. [@1,4] Officers detained them in front of the slaughterhouse on
 Jalan Ibrahim Sattah in Cinta Raja, Sail, Pekanbaru, at about 23.00 on 2
-November 2026. [@3] Police described AH as an alleged dealer and YL as an
+November 2026. [@3,4] Police described AH as an alleged dealer and YL as an
 alleged drug user. [@1] AH was charged under Article 114 paragraph (1) and/or
 Article 111 paragraph (1) of Narcotics Law Number 35 of 2009 with later
 amendments. [@1] YL was charged under Article 127 paragraph (1) of the same
@@ -85,8 +102,8 @@ Narcotics Law. [@1] Both men and all the seized items were taken to the Polresta
 Pekanbaru drug-investigation office for further investigation. [@1]
 
 Officers seized 53 pots containing suspected cannabis plants from inside a
-building at the site. [@1] Officers also seized 37.28 grams of dried cannabis
-packed in nine ready-to-distribute packages. [@1] Eight of the packages were
+building at the site. [@1,5] Officers also seized 37.28 grams of dried cannabis
+packed in nine ready-to-distribute packages. [@1,6] Eight of the packages were
 hidden underground near where the men stood and one more package was found in a
 room. [@2] Officers also seized a blue Redmi mobile phone, a pair of scissors
 and Rp135,000 in cash. [@1] The two men initially told police they had obtained
@@ -95,6 +112,5 @@ the drugs from a man identified as DI, who was still under investigation. [@1]
 The case began after residents reported suspected cannabis transactions by AH in
 the area. [@1] An operational team led by Kanit II Ipda Efrain Wildana
 investigated the location after the tip. [@1] Officers used an undercover-buy
-tactic to detain the men in front of the slaughterhouse. [@1] The subsequent
+tactic to detain the men in front of the slaughterhouse. [@1,6] The subsequent
 search was witnessed by the local neighbourhood chief. [@1]
-
