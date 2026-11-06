@@ -18,6 +18,12 @@ figures:
   arrested: 2
   charged: 1
   kg_seized: 14000
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [zacatecas, monreal]

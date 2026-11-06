@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 20
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lunga-lunga, skank, tanzania-network, trafficking]

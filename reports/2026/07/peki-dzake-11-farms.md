@@ -17,6 +17,10 @@ summary: >-
 figures:
   hectares: 3.2
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 tags: [volta, dleu, eradication]
 sources:

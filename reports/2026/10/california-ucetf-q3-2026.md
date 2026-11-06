@@ -42,6 +42,10 @@ media:
     caption: >-
       Another photo from the CDFW-led cannabis enforcement operation in Oakland in August 2026, part of the
       Alameda County results. Photo: Office of the Governor of California
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b49ca59fb958d79be06f4a2e1417d4f8

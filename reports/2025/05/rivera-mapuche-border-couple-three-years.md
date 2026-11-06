@@ -27,6 +27,13 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202025-05-20%20at%2009.22.09.jpeg?itok=oW-LGHXr
     publisher: Ministerio del Interior
     caption: 'The drugs, cash and ammunition seized in Santana do Livramento, Brazil. Photo: Ministerio del Interior'
+details:
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f4bbf4e85063681d5dfad2008963175d

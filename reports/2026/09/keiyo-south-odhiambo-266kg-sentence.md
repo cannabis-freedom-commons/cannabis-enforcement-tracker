@@ -19,6 +19,10 @@ figures:
   kg_seized: 266.2
   prison: 10 years in default
   fine: { amount: 24000000, currency: KES }
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [elgeyo-marakwet, sentencing, trafficking]

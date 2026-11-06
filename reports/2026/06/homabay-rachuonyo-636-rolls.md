@@ -17,6 +17,12 @@ summary: >-
   sacks and a white carrier bag.
 figures:
   arrested: 3
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [homabay, rachuonyo, trafficking]

@@ -26,6 +26,11 @@ media:
     media_url: https://www.vijesti.me/data/images/2026/10/31/18/5770989_policijske-kontrole2_ff.jpg?ver=1793467883
     publisher: Vijesti
     caption: 'Police photo of a baton and other metal items shown among property seized during the operation. Photo: UP'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 4d38a01372ae930a0f612806962aa0c5

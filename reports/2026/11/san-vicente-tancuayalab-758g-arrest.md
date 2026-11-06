@@ -21,6 +21,11 @@ media:
     media_url: https://assets.reporteindigo.com/images-formats/1200x675/t_2-p_9-fpx_750-fpy_422/jpg/2026/11/01/slp-detienen-presunto.jpg
     publisher: Reporte Índigo
     caption: 'Seized narcotics and communications equipment from the operation in San Vicente Tancuayalab. Photo: GCE (State Civil Guard).'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 5, 6, 7, 8]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7982770c590f9f8683ed29e754f8169b

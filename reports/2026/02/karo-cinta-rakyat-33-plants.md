@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 33
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [karo, cultivation]

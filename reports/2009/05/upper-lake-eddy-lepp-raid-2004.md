@@ -18,6 +18,12 @@ figures:
   arrested: 13
   plants_destroyed: 20000
   prison: 10 years
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, medical-marijuana, lake-county]

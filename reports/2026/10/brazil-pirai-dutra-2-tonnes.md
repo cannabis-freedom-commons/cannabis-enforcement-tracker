@@ -19,6 +19,12 @@ figures:
   arrested: 1
   kg_seized: 2000
 created_by_model: deepseek/deepseek-v4.1-flash#max
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [prf, dutra, pirai, maringa]
 open_questions:

@@ -17,6 +17,10 @@ summary: >-
   questioning.
 figures:
   arrested: 1
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [samoa, faleolo, airport, trafficking]

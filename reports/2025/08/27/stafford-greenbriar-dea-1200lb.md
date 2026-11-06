@@ -18,6 +18,14 @@ figures:
   arrested: 18
   kg_seized: 544
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea, us-cbp]
+  agency_types: [anti-narcotics, customs]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dea, stafford, ice, warehouse]
 open_questions:

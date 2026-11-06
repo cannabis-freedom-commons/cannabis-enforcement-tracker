@@ -16,6 +16,12 @@ summary: >-
   guardians”.
 figures:
   plants_destroyed: 100
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [tibet, nyingchi, wild-cannabis, eradication]

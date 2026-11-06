@@ -28,6 +28,11 @@ media:
     media_url: https://bunny-wp-pullzone-qey9lnnsyf.b-cdn.net/wp-content/uploads/2026/11/Screenshot_20261105_165844_Facebook-780x470.jpg
     publisher: Lokswar
     caption: Police officers, a detained man and sacks beside a vehicle, shown with the Keshkal seizure; no photo credit is displayed.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f56251795a77a496a25407bcda75eba

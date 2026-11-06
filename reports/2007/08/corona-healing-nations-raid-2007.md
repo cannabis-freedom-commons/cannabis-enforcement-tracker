@@ -18,6 +18,16 @@ figures:
   arrested: 3
   kg_seized: 6.8
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [2, 3]
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.setting: [2, 3]
 status: verified
 tags: [dea, dispensary, corona]
 open_questions:

@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 35.5
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cooch-behar, sitalkuchi, ganja, west-bengal]

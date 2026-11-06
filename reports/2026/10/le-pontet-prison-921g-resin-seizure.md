@@ -13,6 +13,13 @@ summary: >-
   Officers searching Avignon-Le Pontet prison from 26 to 28 October 2026 seized 921 grams of cannabis resin, including 650 grams in a single cell, plus phones, knives and chargers. The FO Justice union said trafficking continues inside the walls and called for more searches and anti-drone measures.
 figures:
   kg_seized: 0.921
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5d2d602e2a963d02c99cda6eebca1465

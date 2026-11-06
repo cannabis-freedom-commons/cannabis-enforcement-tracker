@@ -18,6 +18,12 @@ figures:
   arrested: 16
   plants_destroyed: 800
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [unlicensed-grow, merritt, cannabis-act]
 sources:

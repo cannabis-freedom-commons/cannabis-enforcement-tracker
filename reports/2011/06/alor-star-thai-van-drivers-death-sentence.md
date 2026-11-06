@@ -19,6 +19,10 @@ figures:
   charged: 2
   kg_seized: 21.6
   prison: death by hanging
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [death-sentence, trafficking, kedah]

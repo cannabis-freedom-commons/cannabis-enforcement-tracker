@@ -17,6 +17,15 @@ summary: >-
   Guilfoyle’s Ballymun home in September 2003.
 figures:
   charged: 2
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ballymun, circuit-criminal-court, resin]

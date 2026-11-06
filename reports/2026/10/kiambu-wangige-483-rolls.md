@@ -16,6 +16,10 @@ summary: >-
   and 103 rolls at Corner One (Kimuchu). All three awaited arraignment.
 figures:
   arrested: 3
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [wangige, kiambu, nps, trafficking]

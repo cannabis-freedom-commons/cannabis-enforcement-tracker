@@ -13,6 +13,15 @@ summary: >-
   Military Police arrested a 29-year-old man for drug trafficking in bairro Campo, Barbacena, on 4 November 2026 after finding drugs in a backpack inside a Ford Fiesta Sedan. Officers seized one bar and nine portions of skunk alongside cocaine, a precision scale, cash, a cheque and phones, and the car was impounded.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 77cd12e7c99167ffd007cf17a881408a

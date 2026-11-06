@@ -21,6 +21,10 @@ media:
     media_url: https://media.elcomercio.com/wp-content/uploads/2023/03/FsKSE-lXgAAuD8f-700x391.jpg
     publisher: El Comercio
     caption: 'Police photos of the drugs seized in the three-province operations. Photo: Twitter @CmdtPoliciaEc'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ad89e31c99693d44afcb4e7a681dee40

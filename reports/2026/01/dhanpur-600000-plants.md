@@ -29,6 +29,12 @@ media:
     publisher: Brighter Kashmir
     caption: Security personnel in a cannabis cultivation area during the Tripura operation
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, dhanpur, assam-rifles]
 open_questions:

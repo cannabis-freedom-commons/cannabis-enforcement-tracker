@@ -24,6 +24,12 @@ media:
     media_url: https://www.abc.com.py/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fabccolor%2FT5KNMYVNCZETTOKXYLUK4PO3VU.jpg?auth=592178f8d93c0794fe082e17a9b94f66929305493691637ba3c7090fe7f42b7d&width=770&smart=true
     publisher: ABC Color
     caption: A second ABC Color picture from the story, published without a caption or credit; the page places it with the account of the two loads.
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5318911917db2bf18cb11fa4135f7481

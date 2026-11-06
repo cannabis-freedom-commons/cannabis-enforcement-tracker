@@ -19,6 +19,12 @@ figures:
   charged: 5
   kg_seized: 831
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [jm-jcf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [st-thomas, bowden-wharf, coast-guard, export-suspected]
 open_questions:

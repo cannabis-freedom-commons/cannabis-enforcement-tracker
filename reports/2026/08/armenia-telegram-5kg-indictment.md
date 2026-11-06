@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5
+details:
+  activity: [trafficking]
+  setting: [online]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [telegram, trafficking]

@@ -39,6 +39,10 @@ media:
     media_url: https://statics.exmoo.com/uploads/2021-08-09/CnHkWm7zJieDYvkRKYcW.jpg
     publisher: Exmoo
     caption: 'The three men arrested in the parcel case. Photo: Chong Pui Ian / Exmoo'
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe063b47fe3fd451b724abc6d4f48214

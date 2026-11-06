@@ -21,6 +21,11 @@ media:
     media_url: https://kun.uz/_next/image?url=https%3A%2F%2Fstorage.kun.uz%2Fsource%2F12%2FseBDI9w7Je9a7YF3e79LvyXgOZyTFsYp.jpg&w=1080&q=75
     publisher: Kun.uz
     caption: 'Cannabis products seized from the suspects'' luggage at Phuket airport. Photo: Amarin TV'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4742c69d4af6287efa0e8b8ab586ef7a

@@ -16,6 +16,11 @@ figures:
   arrested: 4
   plants_destroyed: 1500
   kg_seized: 0.00886
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d4a37593959f17ffe3ac17091bc114fe

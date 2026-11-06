@@ -23,6 +23,10 @@ figures:
     amount: 200000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [attica, daoe, hydroponic, skunk]
 open_questions:

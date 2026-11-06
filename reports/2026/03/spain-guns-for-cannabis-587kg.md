@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 21
   kg_seized: 587.56
+details:
+  agencies: [es-mossos, int-europol]
+  agency_types: [police]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [europol, catalonia, firearms, trafficking]

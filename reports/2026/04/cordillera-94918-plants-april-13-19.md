@@ -16,6 +16,12 @@ figures:
   kg_seized: 56.6
   value: { amount: 25700000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pnp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cordillera, benguet, mountain-province, kalinga, pnp, marijuana-eradication]
 sources:

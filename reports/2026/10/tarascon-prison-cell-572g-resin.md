@@ -13,6 +13,13 @@ summary: >-
   Guards at the Tarascon detention centre in Bouches-du-Rhône found 572 g of a product that appeared to be cannabis resin, 21 g of white powder that appeared to be cocaine and a mobile phone in one cell on 27 October 2026, the FO Justice union said. It said about 60 phones had been seized in the prison since early October and demanded an extensive search.
 figures:
   kg_seized: 0.572
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: bb826d70e72a66a3765f63448557c490

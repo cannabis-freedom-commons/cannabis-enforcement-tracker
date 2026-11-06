@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 18
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, alabama-route]

@@ -12,6 +12,15 @@ summary: >-
   Tamil Nadu Police destroyed 1,760 kg of ganja seized in various cases at an authorised facility at Thenmelpakkam in Chengalpattu district on 3 November 2026. The disposal, ordered under a one-day statewide anti-drug operation, was attended by senior crime-branch, anti-narcotics and forensic officers.
 figures:
   kg_seized: 1760
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: efb94363002bc78d44c4ea3a18f31302

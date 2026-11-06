@@ -19,6 +19,10 @@ figures:
   charged: 21
   plants_destroyed: 650
 created_by_model: cursor/composer-2.5
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [merseyside, liverpool, warehouse]
 open_questions:

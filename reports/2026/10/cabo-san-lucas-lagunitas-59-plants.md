@@ -28,6 +28,15 @@ media:
     media_url: https://peninsulardigital.com/wp-content/uploads/2026/10/121026_erik.webp
     publisher: Peninsular Digital
     caption: 'Photograph labeled Erik Esaú “N” and Shawna Marie “N”. Photo: Peninsular Digital'
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f50d7debf6b9f90bd57d7bcea959b18a

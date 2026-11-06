@@ -21,6 +21,13 @@ media:
     media_url: https://v.wpimg.pl/N2ZhNWFkYVM7CjhkaRBsRnhSbD4vSWIQL0p0dWkIYQNqXHovaQ0nXj8aKycpRTlCNgk6MSkZIxw3DSo-J0QvQjNHOGZpDydBKgQvLmkOI1A_DGFnJF8sAztffXoiCi9Rd1x4YXJGL1diWWMzfgl9BG0OL2InD38QJw
     publisher: Panorama Płock
     caption: 'Police photo of the seized marijuana. Photo: KMP Płock'
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2, 3, 4, 5, 6]
+  details.products: [1, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7e3ed06cb79e1d9bd6b1b1e47f5107e5

@@ -22,6 +22,12 @@ media:
     media_url: https://marunadanmalayalee.com/h-upload/2026/11/04/1095016-operation-toofan.webp
     publisher: Marunadan Malayalee
     caption: Header image the outlet uses for the Operation Toofan five-month update, captioned with the arrest and seizure totals.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef713a692f2fbbdcbab68c9213516453

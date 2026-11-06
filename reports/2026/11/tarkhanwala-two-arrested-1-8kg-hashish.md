@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.8
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84cf12e75b52e0bc66d5af19f43214ba

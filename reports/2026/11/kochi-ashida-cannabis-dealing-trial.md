@@ -13,6 +13,10 @@ summary: >-
   Unemployed defendant Fui Ashida admitted charges of repeatedly selling cannabis and cocaine in Kochi City at the opening of his lay-judge trial on 2 November 2026. He is also accused of fraud for using another person's credit-card information at a Kochi hotel, with the next hearing set for 4 November.
 figures:
   charged: 1
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a2293846f3563ff846ce5888f7d78a8f

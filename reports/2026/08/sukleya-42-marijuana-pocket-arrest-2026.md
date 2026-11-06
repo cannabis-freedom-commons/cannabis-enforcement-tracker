@@ -13,6 +13,11 @@ summary: >-
   Criminal-investigation officers of Transnistria's capital militia detained a 42-year-old Sukleya resident who carried a fold of suspected marijuana in his shorts pocket and was under the influence of drugs. He first said he found it on a walk, then that he picked the plant in a nearby field, and an examination will decide whether he faces up to three years in prison or an administrative penalty.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7009ceccb871e5749b87153c7f56124a

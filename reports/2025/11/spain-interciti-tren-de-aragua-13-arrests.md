@@ -13,6 +13,10 @@ summary: >-
   Spanish National Police arrested thirteen suspected members of the first Tren de Aragua cell detected in Spain, in Barcelona, Madrid, Girona, A Coruña and Valencia. Five searches seized synthetic drugs, cocaine and an indoor marijuana plantation and dismantled two tusi laboratories; four suspects were remanded in custody.
 figures:
   arrested: 13
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6c23331e6bc3b9705fab8d8080a66fc2

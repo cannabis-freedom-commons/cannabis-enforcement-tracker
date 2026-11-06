@@ -39,6 +39,11 @@ media:
     media_url: https://peopledaily.digital/wp-content/uploads/2026/10/HV9KlPMX0AAWdDn-500x667.jpg
     publisher: People Daily
     caption: Part of the narcotics recovered by the DCI during the 30 October 2026 crackdown, in a photo credited to @DCI_Kenya/X.
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a1f57c9bf9ea65cdbd2be6525ee64b28

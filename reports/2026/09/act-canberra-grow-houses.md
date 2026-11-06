@@ -19,6 +19,12 @@ figures:
   kg_seized: 70
   arrested: 9
 created_by_model: unknown
+details:
+  agencies: [au-afp, au-abf]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [grow-houses, organised-crime]
 sources:

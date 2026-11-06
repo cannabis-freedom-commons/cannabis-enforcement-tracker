@@ -15,6 +15,13 @@ figures:
   arrested: 7
   plants_destroyed: 21
   kg_seized: 4
+details:
+  activity: [cultivation]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64fc90e09e9f5656060981de76bf1f7a

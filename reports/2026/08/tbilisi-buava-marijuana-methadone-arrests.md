@@ -13,6 +13,11 @@ summary: >-
   Georgia's Interior Ministry detained three people in the investigation into the death of Abkhaz blogger Daur Buava. Two were held on drug charges after searches in Tbilisi found marijuana and methadone in 10 packages, while a Ukrainian woman was charged with abandoning Buava in danger.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 311be746eb5e561d1f8ae2cdf7de65eb

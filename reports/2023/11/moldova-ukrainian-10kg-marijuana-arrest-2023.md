@@ -20,6 +20,11 @@ media:
     media_url: https://s14.stc.yc.kpcdn.net/share/i/12/13456941/wr-960.webp
     publisher: MD.KP.MEDIA
     caption: 'Seized drugs laid out after the searches in the rented apartment, as published with the report. Photo: GIP.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2fc1f901d5f4f32fe4f93c993f5dbf5e

@@ -22,6 +22,13 @@ media:
     media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/10/31/app_17933711426ae4ac064ad24_146121.jpg
     publisher: Dainik Bhaskar
     caption: 'Cannabis recovered from a truck in Konch. Photo: Dainik Bhaskar'
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 443587ffe603136289eb1583cf0474f9

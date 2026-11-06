@@ -20,6 +20,12 @@ media:
     media_url: https://www.vmcdn.ca/f/files/tbnewswatch/images/local-news/2026/november/dryden-ride-stop/dryden-cannabis-in-car.jpg;w=526
     publisher: NWONewsWatch.com
     caption: 'Cannabis products police said were found within reach in the vehicle stopped at the RIDE check. Photo: Ontario Provincial Police North West Region/Facebook.'
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 267a2a5683d8640a484cbe2df3c6c3da

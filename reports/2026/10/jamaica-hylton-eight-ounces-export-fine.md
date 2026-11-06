@@ -18,6 +18,12 @@ figures:
   arrested: 1
 # The desktop runtime did not disclose the exact provider, model, or reasoning effort.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 tags: [airport, export, guilty-plea, fine]
 open_questions:

@@ -22,6 +22,10 @@ media:
     media_url: https://news.am/storage/media/26/10/28/vBFTzdxnOCJ4BcmJ.webp
     publisher: NEWS.am
     caption: Photo published with the report on the Davtashen cannabis seizure in Yerevan.
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7cb6bf1dcc64e87aac5d84533e32c471

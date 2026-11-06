@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 5200
   value: { amount: 12000000, currency: INR }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [keonjhar, banspal, eradication]
 sources:

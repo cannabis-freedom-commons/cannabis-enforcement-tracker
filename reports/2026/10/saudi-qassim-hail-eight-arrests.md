@@ -21,6 +21,15 @@ media:
     media_url: https://cdn.ajel.sa/articles/2026-10/Capture-crop-TT--R2We.jpg
     publisher: عاجل
     caption: Several men stand with their backs to the camera in front of a General Directorate of Narcotics Control backdrop in the lead photo of the arrests report.
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d7132bcbfb430769d5a0fe0e07cfdcbc

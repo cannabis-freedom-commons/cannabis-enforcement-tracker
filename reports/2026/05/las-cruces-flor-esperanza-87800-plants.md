@@ -21,6 +21,10 @@ media:
     media_url: https://www.infobae.com/resizer/v2/6EU43XHUTNB25MZ7UEVSA554NY.jpg?auth=1f72e5ab3d520343b23b0eb31a8d21e33532e0e5a1179789346e64cbc4bd217e&smart=true&width=992&height=744&quality=85
     publisher: Infobae
     caption: 'The three cannabis cultivation zones destroyed in the joint operation near caserío Flor de la Esperanza. Photo: PNC Antinarcóticos Guatemala via Infobae'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c28c47d0b1ebc2399ad0e1811038d5e4

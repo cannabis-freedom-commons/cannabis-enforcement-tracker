@@ -34,6 +34,11 @@ media:
     media_url: https://iol-prod.appspot.com/image/b8335c1c8a3bd3c7945e2daac0742e457563a7e3=w700
     publisher: IOL
     caption: 'Police photo of the recovered dagga sacks and bakkie in Barberton. Photo: SAPS'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dfb3d8d54f02127bfbe47e82763375a3

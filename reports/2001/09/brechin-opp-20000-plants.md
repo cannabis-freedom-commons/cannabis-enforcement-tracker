@@ -16,6 +16,12 @@ summary: >-
   and later buried it at the Orillia landfill after deciding they could not incinerate the volume.
 figures:
   plants_destroyed: 20000
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [opp, brechin, orillia, outdoor-grow]

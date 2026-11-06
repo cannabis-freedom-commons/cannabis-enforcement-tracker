@@ -20,6 +20,10 @@ media:
     media_url: https://s3.laprensani.com/wp-content/uploads/2026/06/lancha-con-droga.jpg
     publisher: La Prensa
     caption: 'The intercepted speedboat and detained men during the anti-drug operation off Matapalo. Photo: Ministerio de Seguridad Pública de Costa Rica'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 37f49b39ad590a81ed4bc1b64c7b4beb

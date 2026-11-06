@@ -31,6 +31,10 @@ media:
     media_url: https://caracoltv.brightspotcdn.com/dims4/default/e6161df/2147483647/strip/true/crop/431x242+24+0/resize/568x319!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd6%2F30%2F43e9bf7c4005b08332870a8eca90%2Fpaloma-mensajera-de-marihuana.PNG
     publisher: Blu Radio
     caption: 'Messenger pigeon carrying marijuana toward the prison. Photo: Twitter @HuancaYorkTimes.'
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 2, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 6af9194e96a4f84e4058d85fe727dffe

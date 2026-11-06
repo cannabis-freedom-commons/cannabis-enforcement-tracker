@@ -31,6 +31,11 @@ media:
     media_url: https://static.lsm.lv/media/2026/03/large/1/sxak.jpg
     publisher: Valsts policija, via LSM.lv
     caption: 'State Police photograph released with the announcement of the Rīga search and seizure. Photo: Valsts policija'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6cd73e2c6c14dee890cfeb53c85c082f

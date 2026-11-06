@@ -13,6 +13,16 @@ summary: >-
   Carabinieri in Siena province referred eight people to the Prefecture for drug possession during Halloween-night road and nightclub checks, seizing 21 grams of marijuana and hashish. More than 200 people were identified and 50 vehicles checked, with 30 breath tests and 12 traffic fines issued.
 figures:
   kg_seized: 0.021
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d23058bf2f217a1c09669cd7d7628f62

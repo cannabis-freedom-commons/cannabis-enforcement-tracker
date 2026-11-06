@@ -16,6 +16,11 @@ summary: >-
   warrants; neither source states whether he was arrested or charged.
 figures:
   kg_seized: 0.35
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [shreveport, traffic-stop, marijuana]

@@ -17,6 +17,12 @@ figures:
   arrested: 1
   kg_seized: 20.45
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [dz-anp]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [chlef, customs, highway, kif]
 sources:

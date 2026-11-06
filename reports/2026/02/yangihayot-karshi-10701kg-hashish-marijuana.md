@@ -20,6 +20,12 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/02/8flol08auvg7c34Z7q717703809123712_l.webp
     publisher: Gazeta.uz
     caption: 'Photo published with the State Security Service statement on the three seizures in Tashkent city and the Tashkent and Kashkadarya regions; the caption repeats the headline and does not say which episode it shows. Photo: Press service of the State Security Service, via Gazeta.uz'
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08d6df70451d517854ca3ceeb330a934

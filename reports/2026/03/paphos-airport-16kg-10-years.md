@@ -19,6 +19,10 @@ figures:
   kg_seized: 16.003
   prison: 10 years
 created_by_model: cursor/composer-2.5
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [2]
 status: verified
 tags: [paphos, ykan, airport]
 open_questions:

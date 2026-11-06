@@ -17,6 +17,11 @@ summary: >-
   separate non-cannabis seizures.
 figures:
   kg_seized: 582
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a167909e2ac1897c8fc7785a0b30dbec

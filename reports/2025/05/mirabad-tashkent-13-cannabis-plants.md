@@ -19,6 +19,10 @@ media:
     media_url: https://www.gazeta.uz/media/img/2025/05/pAdhlw17461813563987_l.webp
     publisher: Gazeta.uz
     caption: 'Police operational photo accompanying the reports of the home cannabis grows in Mirabad district. Photo: operational footage of the GUVD.'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dcb7087b463697a50e37ce65461a12c2

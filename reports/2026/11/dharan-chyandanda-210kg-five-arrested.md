@@ -43,6 +43,11 @@ media:
     media_url: https://english.khabarhub.com/wp-content/uploads/2026/11/Dharan-arrest.jpg
     publisher: Khabarhub
     caption: 'Scorpio vehicles being seized by police in Dharan. Photo: RSS'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0a191d0237c3299da9d36aa0518d04be

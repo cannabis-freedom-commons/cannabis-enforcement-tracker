@@ -27,6 +27,10 @@ media:
     media_url: https://www.instagram.com/reel/DfPHO74x0Cz/
     publisher: Almaty Police Department
     caption: 'Operational footage shared by Almaty police and embedded with the report. Video: Almaty Police Department (@almaty.police)'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4583d4e33749c117abf41b712d8bed9

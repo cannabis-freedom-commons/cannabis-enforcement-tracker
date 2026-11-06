@@ -25,6 +25,14 @@ media:
     media_url: https://static.bjd.com.cn/dams-res-external/editing/video/202606/25/ju9txn7zv55bxjzhfn9fgcht/ju9txn7zv55bxjzhfn9fgcht.mp4
     publisher: 央视网快看
     caption: CCTV footage of the search for and removal of suspected wild cannabis in Shihezi.
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1, 2]
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, shihezi, wild-cannabis, eradication]

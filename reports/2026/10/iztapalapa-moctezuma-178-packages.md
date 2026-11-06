@@ -20,6 +20,15 @@ media:
     media_url: https://www.excelsior.com.mx/files/main_image_1210_680/uploads/2026/10/29/6ae3f5a7c5aca.jpeg
     publisher: Excélsior
     caption: 'The three men detained in the raid, aged 20, 22 and 57, after their arrest. Photo: SSC'
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: dab41c14cb36de53849e51bfecb59490

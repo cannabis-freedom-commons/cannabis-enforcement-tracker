@@ -12,6 +12,10 @@ summary: >-
   trafficking, and the judicial authorities imposed bail. RSTP’s August report quoted a police
   announcement and recalled the previous year’s raids on cannabis fields and sales points.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: sao-tome-park-cannabis-arrests-2025
 tags:

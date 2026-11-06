@@ -17,6 +17,12 @@ figures:
   value:
     amount: 96000000
     currency: INR
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a8272acb7ec6b497cf545e3c8b45a12c

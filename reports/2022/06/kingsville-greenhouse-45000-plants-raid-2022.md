@@ -16,6 +16,14 @@ summary: >-
   charges had been laid when the raid was announced.
 figures:
   kg_seized: 8000
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+  environment: [greenhouse]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kingsville, opp, greenhouse, unlicensed-production]

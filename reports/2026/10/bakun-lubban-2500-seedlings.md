@@ -18,6 +18,14 @@ figures:
   plants_destroyed: 2500
   value: { amount: 100000, currency: PHP }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [bakun, benguet, pdea, eradication]
 sources:

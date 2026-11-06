@@ -19,6 +19,11 @@ media:
     media_url: https://www.curacaochronicle.com/media/posts/marijuana_plantation.jpg
     publisher: Curaçao Chronicle
     caption: 'Photo of the marijuana plantation published with the report on the Barbuquet raid. Photo: Extra'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1f0eebd8e9e000d653904d1c93c2c51d

@@ -23,6 +23,10 @@ media:
     media_url: https://img.virgule.lu/public/luxembourg/yyr1rc-20260527-banquettes-stupefiants-2.jpg/alternates/WIDTH_1440/20260527-Banquettes-stup%C3%A9fiants-2.jpg
     publisher: Virgule
     caption: 'Rear benches holding the 58 kg marijuana seizure at Findel. Photo: Administration des douanes et accises'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a3e466aac08b6e9b02663ce5b9b62cca

@@ -25,6 +25,11 @@ media:
     media_url: https://www.midiario.com/resizer/v2/WXHF2FBF3JBUDJCNW26R54MWJQ.jpg?auth=b2d9ae6f3496c11376269f721d1f0d122cdd73383f7218d4fcad0b59a7d253cf&width=1200
     publisher: Mi Diario
     caption: 'A gloved hand points to rounds, coins and a small plastic packet on a patterned surface. Credit: Corprensa'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: edfdbf049906d31b0bb615110c2cb978

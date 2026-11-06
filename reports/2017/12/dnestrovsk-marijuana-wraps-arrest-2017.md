@@ -13,6 +13,11 @@ summary: >-
   Police in Dnestrovsk detained an unemployed 26-year-old man after finding 11 paper wraps of suspected marijuana on him and about 15 more in his flat. The Dnestrovsk police opened a drug-trafficking case, held him under Article 104 procedure, and ordered expert tests; he refused to testify.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a3b96883b478efa2eef80f6681cc53e7

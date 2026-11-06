@@ -21,6 +21,10 @@ media:
     media_url: https://www.rtl.be/page-videos/belgique/faits-divers/perquisitions-place-saint-antoine-forest-21-kg-de-cannabis-saisis/2024-09-06/video/707879
     publisher: RTL Info
     caption: RTL Info video report on the searches around place Saint-Antoine in Forest and the seizure of 21 kg of cannabis, cocaine sachets, cash, a fake pistol and stolen motorcycles.
+details:
+  setting: [forest]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: af04368614736d502d56d8b3f501bfa6

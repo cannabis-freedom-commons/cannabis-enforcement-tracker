@@ -44,6 +44,12 @@ media:
     media_url: https://rudo.video/vod/inpovUEkD
     publisher: BioBioChile
     caption: Video of the PDI operation in the Los Lagos region, titled 'Operativo en la región de Los Lagos', embedded in the article.
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 4454381dc80a17029e023938a24f5e23

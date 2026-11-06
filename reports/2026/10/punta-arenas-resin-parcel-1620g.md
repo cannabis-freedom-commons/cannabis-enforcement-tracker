@@ -28,6 +28,15 @@ media:
     media_url: https://www.ovejeronoticias.cl/wp-content/uploads/2026/10/d1a8e021-bb7d-45df-b0a7-d2420e37a2f5.jpeg
     publisher: Ovejero Noticias
     caption: 'The 100 containers of cannabis resin seized in Punta Arenas, arranged for a PDI evidence photograph. Photo: PDI Magallanes.'
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [magallanes, punta-arenas, pdi, briant, cannabis-resin]

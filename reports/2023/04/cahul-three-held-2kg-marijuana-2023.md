@@ -23,6 +23,11 @@ media:
     media_url: https://storage.moldova1.md/images/90412be5-f5d9-408a-87c2-71920fd8ed0e.jpg
     publisher: Moldova 1
     caption: Photo published with the Moldova 1 report on the Cahul searches. No caption or credit was published with the picture.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 050a96f48fc523249f8458f684f17702

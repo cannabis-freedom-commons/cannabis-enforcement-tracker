@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 55220
   hectares: 0.81
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [kebiliththa, kotiyagala, athimale, monaragala, uva, sri-lanka, reserve]
 sources:

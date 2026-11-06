@@ -20,6 +20,15 @@ media:
     media_url: https://corrieredinovara.it/media/2026/11/IMG_6131-1-1280x859.jpg
     publisher: Corriere di Novara
     caption: 'Carabinieri Novara photo showing the cash, phones, scales, packaging and drug packets seized in the arrest. Photo: Carabinieri Novara.'
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: b631b2cad438c15309c2271efb9fdedf

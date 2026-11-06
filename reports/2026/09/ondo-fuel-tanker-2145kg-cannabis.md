@@ -23,6 +23,12 @@ media:
     media_url: https://www.channelstv.com/wp-content/uploads/2026/09/NDLEA-1.jpg
     publisher: Channels Television
     caption: The fuel tanker with a concealed compartment used to transport cannabis, shown with Channels Television coverage.
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [ondo, ndlea, tanker, akoko]

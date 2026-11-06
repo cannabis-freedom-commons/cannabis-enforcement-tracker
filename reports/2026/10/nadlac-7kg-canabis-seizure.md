@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 7
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [nadlac, diicot, border]

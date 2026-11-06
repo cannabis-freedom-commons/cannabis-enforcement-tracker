@@ -18,6 +18,12 @@ figures:
   value:
     amount: 903000
     currency: GBP
+details:
+  agencies: [gb-border-force]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a67d830793a0f37411de4c121e5f740

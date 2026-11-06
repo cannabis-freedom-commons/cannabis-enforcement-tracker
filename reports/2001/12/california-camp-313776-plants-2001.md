@@ -18,6 +18,12 @@ summary: >-
 figures:
   plants_destroyed: 313776
   arrested: 20
+details:
+  agencies: [us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [camp, lockyer, public-lands]

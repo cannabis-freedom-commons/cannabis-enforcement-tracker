@@ -40,6 +40,11 @@ media:
     media_url: https://www.youtube.com/watch?v=iQ2fH8surv0
     publisher: "18000"
     caption: 'National Police video from Operation Espanyol, embedded on the page under the title “Operation Espanyol: the National Police cut the drug traffic from Spain, the USA and Portugal to Ukraine”. Video: National Police of Ukraine'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 3, 4, 5, 6, 7, 8, 9, 12]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54ac52ebae71dea94d749b723b6ece54

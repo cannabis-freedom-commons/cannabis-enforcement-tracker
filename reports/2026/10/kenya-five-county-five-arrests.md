@@ -17,6 +17,11 @@ summary: >-
 figures:
   arrested: 5
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [dci, nanib, crackdown, bhang]
 sources:

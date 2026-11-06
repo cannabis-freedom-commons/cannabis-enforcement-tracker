@@ -15,6 +15,12 @@ figures:
   arrested: 1
   kg_seized: 9.3496
   prison: 8 years and 4 months
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b21b2fc11b70cc82cb3e3697db08e485

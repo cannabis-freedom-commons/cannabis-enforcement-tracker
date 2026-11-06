@@ -25,6 +25,12 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/salta_-_circulaban_en_una_motocicleta_con_mochilas_rellenas_de_marihuana_3.jpg
     publisher: Argentina.gob.ar (Gendarmería Nacional)
     caption: 'Packages of cannabis seized at Salvador Mazza, photographed next to a ruler with the weight marked. Photo: Gendarmería Nacional Argentina'
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b943c27fcbc5db2f42b18db146e23a3d

@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 12715
   kg_seized: 5307.260329
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a21c845b8bc76d301ad4ceec557562b

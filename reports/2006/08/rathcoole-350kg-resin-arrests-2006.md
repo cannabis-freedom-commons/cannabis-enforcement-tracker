@@ -18,6 +18,15 @@ figures:
   kg_seized: 350
   value: { amount: 2500000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 tags: [rathcoole, resin, operation-oak]
 open_questions:

@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 48000
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [rio-de-janeiro, mare, pm, record]

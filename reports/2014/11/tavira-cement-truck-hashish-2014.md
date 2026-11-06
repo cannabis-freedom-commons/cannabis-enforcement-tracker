@@ -18,6 +18,11 @@ figures:
   arrested: 5
   kg_seized: 2000
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [judicial-police, hashish, cross-border]
 sources:

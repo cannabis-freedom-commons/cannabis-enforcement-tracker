@@ -21,6 +21,12 @@ media:
     media_url: https://masencarnacion.s3.us-west-2.amazonaws.com/uploads/public/6ae/48d/ca7/6ae48dca7395d416964128.png
     publisher: Más Encarnación
     caption: 'Agents with the detained woman and packaged drugs inside a brick room during the Loreto raid. Photo: Más Encarnación'
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 4614b69ae658600a40f4f135e485e6d3

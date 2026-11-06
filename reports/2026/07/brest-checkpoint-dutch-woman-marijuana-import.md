@@ -19,6 +19,13 @@ media:
     media_url: https://io.sb.by/storage01/iblock/bd7/bd747cef3f8509a9558f598219aa81aa/77a483289d8ccacf02cccd8f5d35c70a.jpg
     publisher: СБ. Беларусь сегодня
     caption: 'Frame from a State Border Committee of Belarus video of the search of the Dutch woman''s car at the Brest checkpoint. Photo: ГПК, via СБ. Беларусь сегодня'
+details:
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76aa862482fc68b668c60b69e7db1573

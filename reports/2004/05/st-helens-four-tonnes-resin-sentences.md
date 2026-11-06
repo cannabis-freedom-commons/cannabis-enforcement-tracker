@@ -20,6 +20,13 @@ figures:
   kg_seized: 4000
   prison: 9 years (Rooney and Hassiakos; four co-accused got lesser terms)
   value: { amount: 9000000, currency: GBP }
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [2]
+  details.products: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [smuggling, resin, customs, haulage]

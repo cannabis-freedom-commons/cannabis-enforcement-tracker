@@ -22,6 +22,10 @@ media:
     media_url: https://edge.dailyvoice.com/upload/489_pounds_of_weed.jpg?width=720
     publisher: Daily Voice
     caption: 'Kevin Wilbur, Quinton Carle and the seized cannabis. Photo: Saratoga County Sheriff''s Office'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2fd83db9e1c30e578faf0746015ba608

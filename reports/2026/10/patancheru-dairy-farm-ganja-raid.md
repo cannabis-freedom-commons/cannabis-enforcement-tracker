@@ -40,6 +40,15 @@ media:
     media_url: https://media.nw18.com/media-assets/t4akda/e5ab6682-dbbf-4ff7-a944-ffe4c6480f6a/11-2026/2-2026/VaOl1lBizh-i5TMJ4rzMYhyd-ganjai-dandamp4-MdabeitACv/1080highp-h264.mp4
     publisher: News18 Telugu
     caption: Video report on the dairy-farm ganja raid and arrests.
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: reported
 created_by_model: meta/muse-spark
 tags:

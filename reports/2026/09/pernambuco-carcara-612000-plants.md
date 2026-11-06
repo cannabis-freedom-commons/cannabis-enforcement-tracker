@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 612000
   kg_seized: 128
 created_by_model: xai/grok-4.7
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [brazil, pernambuco, federal-police, eradication]
 sources:

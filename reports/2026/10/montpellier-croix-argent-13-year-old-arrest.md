@@ -25,6 +25,11 @@ media:
     media_url: https://static.actu.fr/uploads/2026/10/capture-decran-2026-10-29-a-172933.png
     publisher: Actu.fr
     caption: 'Screen capture published with Actu.fr''s report; its caption says the BAC put the group of youths to flight around 11pm and the 13-year-old was arrested. Credit: DR'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ed7dd6dba8e36b9ad2d96eff90df6a10

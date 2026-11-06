@@ -20,6 +20,15 @@ media:
     media_url: https://ifronteira.com/_upload/foto/noticia/31-10-202605-00-07-xvJ2Rn2BZ4YdC0O.webp
     publisher: Ifronteira
     caption: 'Seized drugs hidden inside a pair of sneakers in Martinópolis. Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d634c2b23bd8c267cc0ca19b60ed1f6

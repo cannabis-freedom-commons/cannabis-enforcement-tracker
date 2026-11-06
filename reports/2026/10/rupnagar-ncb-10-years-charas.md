@@ -17,6 +17,15 @@ figures:
   charged: 3
   kg_seized: 3.65
   prison: 10 years
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ncb, rupnagar, charas, sentence, ndps]

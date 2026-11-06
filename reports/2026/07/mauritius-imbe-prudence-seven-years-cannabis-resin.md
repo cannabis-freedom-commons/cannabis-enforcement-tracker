@@ -20,6 +20,13 @@ figures:
   prison: 7 years
 # The desktop runtime did not disclose the exact provider, model, or reasoning effort.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [supreme-court, cannabis-resin, trafficking, cooperation]
 open_questions:

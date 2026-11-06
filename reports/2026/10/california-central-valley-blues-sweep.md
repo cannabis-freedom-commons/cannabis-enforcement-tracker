@@ -25,6 +25,12 @@ media:
     publisher: KION
     caption: 'Drugs and firearms seized as part of Operation Central Valley Blues. Photo: Sacramento County District Attorney''s Office'
 created_by_model: unknown
+details:
+  agencies: [us-dea, us-fbi]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [social-media, sweep, meta]
 sources:

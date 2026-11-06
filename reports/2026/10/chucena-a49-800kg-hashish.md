@@ -26,6 +26,15 @@ media:
     media_url: https://s1.abcstatics.com/huelva24/www/multimedia/sucesos/2026/10/27/WhatsApp%20Image%202026-10-27%20at%2009.06.04-R0FKtkfR075YsScqkyrxBSM-1200x840@huelva24.jpeg
     publisher: Huelva24
     caption: 'Hashish bales carried in the stopped car on the A-49, with little concealment. Photo: Guardia Civil'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2, 3, 4, 5, 6]
+  details.agency_types: [2, 3, 4, 5, 6]
+  details.products: [1, 2, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7bfb4c6a7658f578ba10ff8df8b646fc

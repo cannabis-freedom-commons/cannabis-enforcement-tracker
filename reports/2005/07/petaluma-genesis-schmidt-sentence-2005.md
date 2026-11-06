@@ -20,6 +20,16 @@ figures:
   kg_seized: 265
   prison: 41 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.setting: [1]
 status: verified
 tags: [medical-marijuana, dispensary, dea, federal]
 sources:

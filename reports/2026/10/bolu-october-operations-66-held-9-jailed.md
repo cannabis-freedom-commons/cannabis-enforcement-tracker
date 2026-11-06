@@ -15,6 +15,12 @@ figures:
   arrested: 66
   plants_destroyed: 299
   kg_seized: 0.07
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e09f4f0053682340cfd4920899ab9d78

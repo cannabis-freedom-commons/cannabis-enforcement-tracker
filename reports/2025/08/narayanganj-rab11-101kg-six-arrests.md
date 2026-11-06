@@ -28,6 +28,12 @@ media:
     publisher: The New Nation
     caption: Seized marijuana bundles and weapons displayed at RAB-11 headquarters
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [bd-rab]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [rab, narayanganj, sonargaon]
 open_questions:

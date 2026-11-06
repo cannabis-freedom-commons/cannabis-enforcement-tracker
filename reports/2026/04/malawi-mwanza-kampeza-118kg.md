@@ -20,6 +20,10 @@ figures:
   kg_seized: 118
   prison: 6 years' imprisonment with hard labour
 created_by_model: openai/gpt-6-luna#max
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [mwanza, border, thyolo, sentencing]
 open_questions:

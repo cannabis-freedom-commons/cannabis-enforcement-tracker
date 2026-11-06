@@ -28,6 +28,12 @@ media:
     publisher: Northeast Herald
     caption: Security personnel work among burning cannabis plants in the Dulunga cultivation area
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [tripura, dulunga, sonamura]
 open_questions:

@@ -14,6 +14,12 @@ summary: >-
 figures:
   charged: 119
   prison: 14 months to 17 years
+details:
+  agencies: [be-police]
+  agency_types: [police]
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9953e803864aded1a51d7ef24527f073

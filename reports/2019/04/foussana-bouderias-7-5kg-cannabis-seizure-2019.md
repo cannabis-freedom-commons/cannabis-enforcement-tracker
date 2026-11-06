@@ -13,6 +13,10 @@ summary: >-
   National guard officers of the Bouderias border brigade in Foussana, Kasserine governorate, seized cannabis resin that two people abandoned in the border zone on the night of 21–22 April 2019. Accounts reported 7.5 kg, or 8 kilos in one outlet, and both people escaped, with preliminary investigations describing an Algerian national who was to hand the drug to a Tunisian.
 figures:
   kg_seized: 8
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 50680f4581c80bc67f4ae24203956858

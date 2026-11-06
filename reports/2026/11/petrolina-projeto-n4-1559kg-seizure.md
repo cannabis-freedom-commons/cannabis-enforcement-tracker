@@ -18,6 +18,12 @@ media:
     media_url: https://www.diariodepernambuco.com.br/_midias/jpg/2026/11/03/droga_sertao-986798.jpg
     publisher: Diario de Pernambuco
     caption: 'Seized marijuana and .22-calibre rifle from the Projeto N4 operation. Photo: Divulgação/PMPE'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 058beaa34f227889e529a5e4ff42bf07

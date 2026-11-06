@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 700
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [auchi, edo, ndlea, trafficking, fertiliser-cover-load]

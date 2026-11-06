@@ -23,6 +23,11 @@ media:
     media_url: https://img.naidunia.com/naidunia/ndnimg/02082026/02_08_2026-jangaataskrod_m.webp
     publisher: Naidunia
     caption: Arrested accused with the seized car and ganja.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ddbad87ea4deb4e1d0ac559189fad88

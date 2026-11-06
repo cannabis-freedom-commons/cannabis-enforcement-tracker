@@ -21,6 +21,11 @@ media:
     media_url: https://cdn-s-www.ledauphine.com/images/727ccf86-37da-4726-b707-418587d33ce5/NW_detail/l-homme-de-34-ans-a-explique-que-sa-petite-amie-la-conduisait-plusieurs-fois-par-semaine-vers-differentes-adresses-photo-olivier-masseboeuf-1793642386.jpg
     publisher: Le Dauphiné Libéré
     caption: 'Photo illustrating the 34-year-old man''s account that his girlfriend drove him several times a week to different addresses. Photo: Olivier Masseboeuf'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e41f4baa9d45939627c610fd11f1780

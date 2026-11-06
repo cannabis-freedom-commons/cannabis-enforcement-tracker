@@ -20,6 +20,13 @@ media:
     media_url: https://www.infobae.com/resizer/v2/YHCC7UNXJNGFHKZ3PC3OG3CAYA.jpg?auth=89cb7229d580f1309648f93c61358f9f66fb48fc0f090bc1eae66a1b757e34dc&smart=true&width=350&height=195&quality=85
     publisher: Infobae
     caption: 'Marijuana found hidden inside a bag of fried snacks that a nursing assistant tried to hand to a prisoner at the Tony Facio Hospital in Limón. Photo: Ministry of Justice of Costa Rica'
+details:
+  setting: [prison]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 95bd3effc2e359114ce2a82cf04bd4d1

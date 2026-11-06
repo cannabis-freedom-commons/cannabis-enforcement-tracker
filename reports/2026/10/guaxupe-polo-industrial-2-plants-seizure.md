@@ -20,6 +20,14 @@ media:
     media_url: https://arquivos.jornaldaregiaoonline.com.br/uploads/images/202611/image_870x_6ae918d036e71.jpg
     publisher: Jornal da Região On-line
     caption: 'The seized materials reported in the operation. Photo: PMMG'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cc52c082b528025598786fb7d5059bde

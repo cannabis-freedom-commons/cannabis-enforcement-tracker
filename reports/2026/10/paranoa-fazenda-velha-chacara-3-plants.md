@@ -21,6 +21,16 @@ media:
     media_url: https://portal.pm.df.gov.br/wp-content/uploads/2026/11/01-11-26-drogas-1.webp
     publisher: Polícia Militar do Distrito Federal
     caption: Lead photo on the PMDF page for this Paranoá seizure report
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 94dfd8c787ddb7c1babe295ef739b5e0

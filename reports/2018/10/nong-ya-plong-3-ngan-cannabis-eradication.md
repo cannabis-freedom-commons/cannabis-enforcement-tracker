@@ -35,6 +35,10 @@ media:
     media_url: https://www.matichon.co.th/wp-content/uploads/2018/10/โค่นกัญชา3-1024x768.jpg
     publisher: Matichon Online
     caption: Officers handling the seized cannabis from the Nong Ya Plong forest plot
+details:
+  setting: [forest]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e67730c4906d58ba1f41670dbb7d3f3

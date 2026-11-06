@@ -13,6 +13,15 @@ summary: >-
   Carabinieri arrested a 22-year-old in Formia for alleged drug dealing, seizing cocaine in four wraps, a small amount of hashish, a scale and packaging material. A judge validated the arrest and ordered residence in Formia with nighttime home confinement; the case remains preliminary.
 figures:
   arrested: 1
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 140b2ed73269ecdb4cacfd0ce9563ebc

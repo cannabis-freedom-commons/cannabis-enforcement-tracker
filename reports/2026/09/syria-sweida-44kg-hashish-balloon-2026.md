@@ -44,6 +44,13 @@ media:
     media_url: https://cdn.sananews.sy/2026/09/photo_2026-09-07_16-39-41-1024x683.jpg
     publisher: SANA – Syrian Arab News Agency
     caption: 'One of the photographs SANA published with the report on the foiled balloon smuggling attempt from Sweida to Jordan. Photo: SANA'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 3]
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: cbca9a6d404b52c5471b8ce75411b5d5

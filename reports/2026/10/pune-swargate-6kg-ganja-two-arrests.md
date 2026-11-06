@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 6
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 201a06e5525ff74b5c110837fff12638

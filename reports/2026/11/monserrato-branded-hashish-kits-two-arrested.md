@@ -21,6 +21,11 @@ media:
     media_url: https://www.youtg.net/images/2026/11/Squadra-Mobile-Cagliari-sequestro.jpg#joomlaImage://local-images/2026/11/Squadra-Mobile-Cagliari-sequestro.jpg?width=500&height=306
     publisher: YouTG.NET
     caption: Drugs seized by Cagliari's Squadra Mobile in the Monserrato operation
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c141ed6ee024ceaa6bbca33b3001d8af

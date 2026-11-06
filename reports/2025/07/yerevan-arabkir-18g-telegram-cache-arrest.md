@@ -25,6 +25,13 @@ media:
     media_url: https://www.youtube.com/watch?v=0shfVlGxGOM
     publisher: Новости-Армения
     caption: 'News Armenia video accompanying the police account of the detention and the cache search. Video: News Armenia'
+details:
+  setting: [online]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6236cd41b7090327447b5c48500fb7b4

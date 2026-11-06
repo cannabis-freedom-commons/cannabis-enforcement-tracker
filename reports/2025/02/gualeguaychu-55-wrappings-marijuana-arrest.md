@@ -20,6 +20,13 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/tres-narcos-capturados-con-cocaina-y-marihuana-en-rosario-y-entre-rios-2.jpg
     publisher: Ministerio de Seguridad Nacional
     caption: 'Federal police officers at the roadside with the seized items laid out beside them during one of the two operations reported on 10 February 2025. Photo: Ministerio de Seguridad Nacional.'
+details:
+  activity: [sale]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6ea419f1f5195fb1d9439e06ad228ffa

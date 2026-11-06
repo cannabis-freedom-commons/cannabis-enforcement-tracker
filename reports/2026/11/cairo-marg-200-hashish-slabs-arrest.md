@@ -13,6 +13,11 @@ summary: >-
   Cairo police arrested a repeat offender in Al-Marg district, seizing 200 hashish slabs plus a shotgun, cash and a phone. The suspect admitted holding the drugs for sale and the Public Prosecution took over the investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4cee40df3578da1bda3fc716af9fc684

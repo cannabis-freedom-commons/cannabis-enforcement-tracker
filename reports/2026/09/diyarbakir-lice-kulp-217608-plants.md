@@ -18,6 +18,14 @@ figures:
   plants_destroyed: 217608
   kg_seized: 15
 created_by_model: xai/grok-4.7
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [turkey, diyarbakir, gendarmerie, eradication]
 sources:

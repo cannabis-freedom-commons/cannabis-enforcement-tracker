@@ -13,6 +13,15 @@ summary: >-
   Military Police in Guajará-Mirim detained two 17-year-olds near the Pérola Negra clandestine port, seizing 12 synthetic-drug capsules and three portions of cannabis. One teen said he bought the drugs in Bolivia and had already sold part in Brazil.
 figures:
   arrested: 2
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 04b374ebc35ec2aa2825aa75570f6576

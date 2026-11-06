@@ -51,6 +51,11 @@ media:
     media_url: https://images.news18.com/ibnkhabar/uploads/2026/11/up-news-2026-11-01T154440.983-2026-11-d4ff95b2cad97d57bbf9a6a41d45c6a8-1200x675.jpg?impolicy=website&width=640&height=360
     publisher: News18 हिंदी
     caption: Police officers during the search operation in Kanjarpurwa, Kidwai Nagar, Kanpur.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4, 6, 7, 11, 12, 13, 16, 18, 19, 20, 21, 23]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7f1412a9ba8a8a91b49c8c41ab4ca9d8

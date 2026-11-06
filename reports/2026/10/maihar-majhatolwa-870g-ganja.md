@@ -24,6 +24,11 @@ media:
     media_url: https://deshbandhump.com/web/uploads/1793368464_gdhfgdhss.png
     publisher: Deshbandhu
     caption: 'Police officers and a man stand outside a building with papers after the Majhatolwa search; one face is blurred. Photo: Deshbandhu (no separate credit).'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 9cf36dedf2f5f3c8dea6b4174b194b9b

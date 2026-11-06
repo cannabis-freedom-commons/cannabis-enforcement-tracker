@@ -21,6 +21,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/05/1793881036826/sizes/05pak_m_23_05112026_54-5820c4-hero.webp
     publisher: Prabhat Khabar
     caption: 'Police officers stand by a shop during a raid, captioned "छापेमारी करती पुलिस" in Prabhat Khabar''s report. The caption and credit identify officers on a raid but not this shop. Photo: Prabhat Khabar Network'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 738d9c21fafe187ad741d2ab742c24a9

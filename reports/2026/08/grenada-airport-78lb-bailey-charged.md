@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 35.4
+details:
+  activity: [trafficking]
+  setting: [airport]
+data_sources:
+  details.activity: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [airport, trafficking]

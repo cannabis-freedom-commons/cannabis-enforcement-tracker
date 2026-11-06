@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 1000
   value: { amount: 1000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  agencies: [gb-nca]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [nca, nightclub, cannabis-factory]
 sources:

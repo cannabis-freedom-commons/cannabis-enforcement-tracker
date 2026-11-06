@@ -24,6 +24,11 @@ media:
     url: https://prachaticky.denik.cz/zpravy-region/mladik-mel-prodavat-drogy-na-prachaticku-skoncil-v-policejni-cele/
     publisher: Prachatický deník
     caption: 'The drugs seized in the raid in the Prachatice district, laid out on a table. Photo: Police of the Czech Republic, with permission.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [prachatice, pervitin, marijuana, remand]

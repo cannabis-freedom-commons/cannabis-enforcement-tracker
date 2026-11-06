@@ -28,6 +28,12 @@ cover:
   url: https://www.freightwaves.com/news/feds-still-probing-20-million-marijuana-shipment-after-truckers-release
   media_url: https://www.freightwaves.com/wp-content/uploads/2020/07/peacebridgebordertruck0714.jpeg
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cbp, peace-bridge, cross-border]
 sources:

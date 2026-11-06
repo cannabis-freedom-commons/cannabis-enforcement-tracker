@@ -19,6 +19,12 @@ figures:
   arrested: 7
   kg_seized: 103.11
   value: { amount: 8975000, currency: INR }
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [odisha-route, antf, piloting, ndps]

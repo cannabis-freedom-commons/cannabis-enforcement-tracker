@@ -24,6 +24,11 @@ media:
     url: https://www.varthabharati.in/bidar/bidar-ganja-plants-worth-over-4-lakh-seized-accused-arrested-2279745
     publisher: Vartha Bharati
     caption: Police officers among the tall cannabis plants in the field on the outskirts of Mudabi village.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [bidar, karnataka, ganja, cultivation, raid]

@@ -24,6 +24,11 @@ media:
     media_url: https://investigasi.news/wp-content/uploads/2026/11/IMG-20261104-WA0092.jpg
     publisher: Investigasi
     caption: Police photo of suspects FS and ODP with the seized drug packets and related items after the bridge arrest.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ebfb93be85ae42c1d05d16f9eae1ab5d

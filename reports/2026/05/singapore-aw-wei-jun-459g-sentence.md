@@ -20,6 +20,12 @@ figures:
   kg_seized: 0.4592
   prison: 16 years 10 months
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cnb, ang-mo-kio, repeat-offender]
 open_questions:

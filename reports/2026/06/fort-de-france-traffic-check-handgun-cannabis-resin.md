@@ -19,6 +19,13 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/eyi4v5Mx7dZFzaX6hjckO1qDvVc/0x38:721x444/900x506/filters:format(webp):quality(80)/outremer%2F2026%2F06%2F08%2F6a27367be2bbf200362016.png
     publisher: Martinique La 1ère
     caption: 'Police photo of the handgun and the cannabis resin found on the man after the traffic check. Photo: Police nationale'
+details:
+  setting: [vehicle]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4225500c744163df0387d7341d7fb3f3

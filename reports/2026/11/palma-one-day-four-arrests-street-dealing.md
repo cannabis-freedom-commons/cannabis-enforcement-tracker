@@ -13,6 +13,11 @@ summary: >-
   National Police arrested four men in Palma on Sunday 1 November 2026 in three separate street-level interventions in La Soledat, Es Puntiró and Son Forteza, the Baleares police headquarters said on Wednesday. The only cannabis found in the three cases was a portion of hashish and a portion of marijuana on the alleged seller stopped in La Soledat.
 figures:
   arrested: 4
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: cde8af2aee0d66f369f67831952ed2b6

@@ -16,6 +16,10 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 7.71
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 52713f10cbc30f35a9dfb7bd23e42c3e

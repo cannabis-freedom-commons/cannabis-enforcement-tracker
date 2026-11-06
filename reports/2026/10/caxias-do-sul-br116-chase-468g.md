@@ -31,6 +31,15 @@ media:
     media_url: https://uploads.leouve.com.br/2026/10/WhatsApp-Image-2026-10-30-at-07.31.13.jpeg
     publisher: Leouve
     caption: 'Marijuana, hashish, cash, phones and trafficking material laid out in front of Brigada Militar plaques. Photo: Comunicação Social 12º BPM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: cbc70590c13f834315e18ac67870dd71

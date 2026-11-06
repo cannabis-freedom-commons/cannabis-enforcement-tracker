@@ -14,6 +14,12 @@ summary: >-
   OS7 officers detained five Chileans in Concepción and San Pedro de la Paz after searches of three homes, including a delivery-selling group. Police seized more than 2,500 bulk marijuana doses plus cocaine and other drugs, which they valued at more than 20 million pesos.
 figures:
   arrested: 5
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 0df341391f335df3381f12294e77f8ac

@@ -18,6 +18,10 @@ figures:
   arrested: 1
   charged: 1
   value: { amount: 21000, currency: GBP }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dumfries, cultivation]

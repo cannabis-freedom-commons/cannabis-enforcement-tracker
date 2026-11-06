@@ -26,6 +26,15 @@ media:
     media_url: https://www.youtube.com/watch?v=Hf9r5uotGbs
     publisher: Новости-Армения
     caption: Video embedded in the Novosti-Armenia article under the headline on the detention of two foreigners over 7.5 kg of marijuana, published through the outlet's YouTube channel.
+details:
+  activity: [smuggling]
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54987088e7d6472df45244770008dcec

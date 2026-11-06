@@ -21,6 +21,11 @@ media:
     media_url: https://royalbulletin.in/media-webp/1200/2026-11/tmpjktergib.webp
     publisher: Royal Bulletin
     caption: Lead photo accompanying the report of the two arrests and the 206-gram charas seizure
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 204bff95694ce8ff5482bf2d5619512b

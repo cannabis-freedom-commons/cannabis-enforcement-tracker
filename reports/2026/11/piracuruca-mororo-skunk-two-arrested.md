@@ -23,6 +23,15 @@ media:
     media_url: https://www.gp1.com.br/media/image_bank/2026/11/supermaconha-avliada-em-r-400-mil-apreendida-no-piauinone.jpg.950x0_q95_crop.webp
     publisher: GP1
     caption: 'Seized packages of skunk valued at R$400,000 in Piauí. Photo: Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 6]
+  details.agency_types: [1, 2, 3, 4, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bee34e2220a0646a997f068a5aac9253

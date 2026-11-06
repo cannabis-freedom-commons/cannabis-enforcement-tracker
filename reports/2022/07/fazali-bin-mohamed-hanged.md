@@ -17,6 +17,12 @@ figures:
   kg_seized: 1.8388
   deaths: 1
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cnb, mandatory-death-penalty, sims-drive]
 open_questions:

@@ -30,6 +30,11 @@ media:
     media_url: https://elfarodeceuta.es/wp-content/uploads/2026/04/belga-detenido-frontera-kilos-hachis-002.jpeg
     publisher: El Faro de Ceuta
     caption: 'Photo of the hidden compartment under the rear seat used to conceal hashish plates. Photo: Imágenes cedidas via El Faro de Ceuta.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 354acddbb68cec1f91fe082f67b9db9e

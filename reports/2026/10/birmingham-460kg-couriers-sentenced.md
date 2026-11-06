@@ -18,6 +18,12 @@ figures:
   kg_seized: 460
   value: { amount: 13800000, currency: GBP }
 created_by_model: unknown
+details:
+  agencies: [gb-nca, gb-border-force]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [couriers, trafficking]
 sources:

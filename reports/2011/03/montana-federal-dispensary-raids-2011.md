@@ -14,6 +14,12 @@ summary: >-
   called it an 18-month trafficking investigation; advocates called it an attack
   on the state's medical-marijuana law as lawmakers debated repeal.
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-dea, us-fbi]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [dea, medical-marijuana, search-warrants]
 sources:

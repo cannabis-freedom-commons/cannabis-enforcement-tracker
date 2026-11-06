@@ -13,6 +13,11 @@ summary: >-
   Vellore anti-drug police seized 6 kg of ganja from an unclaimed bag under a seat in the Sanghamitra Express at Katpadi railway station. No owner was found, no arrests were reported, and police registered a case and are investigating.
 figures:
   kg_seized: 6
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aa232d2ace40e9951e756efbdcd60a91

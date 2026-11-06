@@ -13,6 +13,12 @@ summary: >-
   The Tomarinsky district prosecutor approved an indictment against a local man accused of finding wild cannabis at Krasnogorsk in August 2026 and keeping it in an outbuilding on his partner's land until police seized it. The case under part 1 of article 228 has gone to the Uglegorsk city court's session in Tomari, where the offence carries up to three years in prison.
 figures:
   charged: 1
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 85b82a2de4386229036400866fb68978

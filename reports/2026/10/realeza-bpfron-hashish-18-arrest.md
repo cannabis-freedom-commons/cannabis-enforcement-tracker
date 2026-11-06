@@ -24,6 +24,17 @@ media:
     media_url: https://midiasudoeste.com.br/arquivos/noticias/31858/dda.jpg
     publisher: Mídia Sudoeste
     caption: 'Photo published with the BPFRON account of the Realeza stop, credited to the battalion. Photo: BPFRON'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 043694c5d7e39e2b3df3f91fb1fb2754

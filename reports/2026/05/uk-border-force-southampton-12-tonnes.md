@@ -20,6 +20,12 @@ figures:
   kg_seized: 12000
   value: { amount: 139000000, currency: GBP }
 created_by_model: deepseek/deepseek-v4.1-flash#max
+details:
+  agencies: [gb-border-force]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [border-force, southampton, canada, swrocu]
 open_questions:

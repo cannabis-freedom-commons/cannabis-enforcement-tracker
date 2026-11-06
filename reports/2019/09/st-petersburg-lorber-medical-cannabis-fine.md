@@ -19,6 +19,10 @@ figures:
   fine:
     amount: 15000
     currency: RUB
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bdfa19c3e67bab2087c13ea092f2cd2a

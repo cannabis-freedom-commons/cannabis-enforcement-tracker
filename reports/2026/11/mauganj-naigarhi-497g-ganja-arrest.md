@@ -17,6 +17,11 @@ figures:
   value:
     amount: 5500
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: d328550684033d4ff0cb1d71667a3099

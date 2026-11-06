@@ -16,6 +16,14 @@ figures:
   kg_seized: 1.009
   deaths: 1
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  setting: [mail]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.setting: [1]
 status: verified
 tags: [death-penalty, mandatory-sentence, courier]
 sources:

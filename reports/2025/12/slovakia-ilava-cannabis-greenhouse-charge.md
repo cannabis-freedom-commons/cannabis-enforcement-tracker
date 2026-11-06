@@ -20,6 +20,10 @@ media:
     url: https://www.aktuality.sk/clanok/OQkAepQ/policajti-z-trencianskeho-kraja-odhalili-nelegalnu-plantaz-konopy-podozriveho-obvinili/
     publisher: Aktuality.sk
     caption: 'Cannabis plants in a police photograph published with the case announcement. Photo: Polícia SR – Trenčiansky kraj via Aktuality.sk'
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ilava, greenhouse, personal-use, cannabis]

@@ -20,6 +20,12 @@ media:
     media_url: https://24.kz/media/k2/items/cache/aa1ec527212d522b3912caa98f7c7eba_XL.jpg
     publisher: 24KZ
     caption: 'Seized drugs in the Kokshetau case. Photo: video frame via 24KZ'
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 465c917a9679b103731c6fafc0e78fa8

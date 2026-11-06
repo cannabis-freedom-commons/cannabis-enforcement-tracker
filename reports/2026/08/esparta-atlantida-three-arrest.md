@@ -13,6 +13,11 @@ summary: >-
   Honduran National Police apprehended three people in Esparta, Atlántida, seizing more than 100 wrappers of suspected crack cocaine. Officers also seized suspected marijuana and cocaine, plus cash and phones; one suspect is a 14-year-old minor.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d87363fdfc0e308558fdd1ccd314a27a

@@ -24,6 +24,12 @@ media:
     publisher: Portal de Curuguaty (SENAD)
     caption: SENAD's Regional No. 4 flag from Salto del Guairá at the wooded stash, beside bales of the seized marijuana.
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [senad, canindeyu, stash-site, brazil-route]
 open_questions:

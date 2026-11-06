@@ -11,6 +11,11 @@ also: [raid]
 title: 28-year-old checked in Duisburg; hashish, pills and cash seized
 summary: >-
   Duisburg police checked a 28-year-old on Königstraße in the early hours of 31 October 2026 and seized cash, two phones and a pharmacy bag with medications and hashish. Officers then searched his Alleestraße flat at the prosecutor's request, finding more painkillers and cash, and opened proceedings for suspected drug dealing.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c1191ecac313fd50d21c59996d125ead

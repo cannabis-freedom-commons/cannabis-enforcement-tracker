@@ -18,6 +18,11 @@ summary: >-
   Madaba.
 figures:
   arrested: 31
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [jordan, aqaba, madaba, hashish]

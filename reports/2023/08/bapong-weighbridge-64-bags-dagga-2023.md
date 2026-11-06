@@ -18,6 +18,13 @@ figures:
   arrested: 2
   value: { amount: 5000000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dagga, brits, mooinooi, north-west, truck, flying-squad]
 open_questions:

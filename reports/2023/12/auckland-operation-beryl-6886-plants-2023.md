@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 6886
   kg_seized: 10
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [nz-police]
+  agency_types: [police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [operation-beryl, indoor-grow, vietnamese-syndicate, deportation]
 media:

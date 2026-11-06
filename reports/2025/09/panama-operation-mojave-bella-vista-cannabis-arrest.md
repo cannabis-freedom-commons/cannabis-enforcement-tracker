@@ -19,6 +19,10 @@ media:
     media_url: https://ministeriopublico.gob.pa/wp-content/uploads/DROGA-COMPENDIO-7-14SEP25.jpeg
     publisher: Procuraduría General de la Nación
     caption: 'Handout montage and text marking the drug seizures reported for 7–14 September 2025, including the Mojave courier-trafficking case. Photo: Procuraduría General de la Nación (Panama)'
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d84e1395e354a80bc30791f30256d6f5

@@ -25,6 +25,12 @@ media:
     media_url: https://www.youtube.com/watch?v=UagZLdaw4-w
     publisher: Ada Derana
     caption: The video report embedded in Ada Derana's article on the arrest.
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 tags: [puttalam, kerala-cannabis, pnb, councillor]

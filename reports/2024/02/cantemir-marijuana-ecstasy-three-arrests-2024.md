@@ -13,6 +13,11 @@ summary: >-
   Moldovan police detained three natives of Cantemir district, two of them under 18, over alleged marijuana and Ecstasy dealing. Home searches found banned substances police put at about 100,000 lei combined, and the investigation was continuing.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 73e1c53c9c389e552f4181fbd31be3e0

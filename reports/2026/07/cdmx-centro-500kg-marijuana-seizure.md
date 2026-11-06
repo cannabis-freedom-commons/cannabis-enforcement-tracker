@@ -19,6 +19,11 @@ media:
     media_url: https://cdn2.telediario.mx/uploads/media/2026/07/24/droga-encontrada-inmueble-pertenecia-union.jpg
     publisher: Telediario
     caption: 'Bags of drugs found in the Mexico City storehouse attributed to La Unión Tepito. Photo: C4 Carlos Jiménez'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9608362499a2809bbbce95df08b8ef48

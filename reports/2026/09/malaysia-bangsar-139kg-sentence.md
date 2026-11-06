@@ -19,6 +19,10 @@ figures:
   kg_seized: 139
   prison: 30 years
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [caning, trafficking, bangsar]
 sources:

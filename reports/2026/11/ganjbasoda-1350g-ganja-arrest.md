@@ -23,6 +23,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/05/185c0be3-6f2e-4d94-b5d6-e675df107c87_1793877023017/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video preview shows uniformed police officers with a crouching man outside a building; Dainik Bhaskar.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: ce63e2844af9e9233febf41ec39fed0a

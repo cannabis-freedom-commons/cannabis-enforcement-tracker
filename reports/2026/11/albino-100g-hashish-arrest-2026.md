@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.1
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f6c3d0ab3158a16bc62cb21b8d83e975

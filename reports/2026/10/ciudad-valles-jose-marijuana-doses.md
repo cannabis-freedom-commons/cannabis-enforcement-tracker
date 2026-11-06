@@ -14,6 +14,10 @@ summary: >-
   State civil-guard officers detained a 31-year-old man identified as José “N” in Ciudad Valles, San Luis Potosí, under the Huasteca Segura deployment. They seized doses of marijuana from him, along with a crystal-like substance and metal artefacts known as ponchallantas.
 figures:
   arrested: 1
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 2bebe5482e3ebb90186272d4817cb0a0

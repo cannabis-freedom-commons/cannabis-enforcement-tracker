@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 37000
   kg_seized: 18.14
   value: { amount: 26832112, currency: GYD }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 media:

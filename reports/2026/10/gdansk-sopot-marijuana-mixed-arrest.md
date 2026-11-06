@@ -20,6 +20,11 @@ media:
     media_url: https://d-pa.ppstatic.pl/frames/pa-def/ac/ac/261103117f_978013555,size,1280x1859,crop,149.0000x698.0000x1173.0000x614.0000,h,9e74b3.jpg
     publisher: Dziennik Bałtycki
     caption: 'Money found on the detainees that police said could have come from drug dealing. Photo: Komenda Miejska Policji w Gdańsku'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64db04a0600ec77d4e4fc4e20760c3b4

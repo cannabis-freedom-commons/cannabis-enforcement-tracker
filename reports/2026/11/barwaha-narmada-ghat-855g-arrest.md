@@ -29,6 +29,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/01/3235fe48-65a5-4949-99a0-52b2f49d7c37_1793538059924/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video report on the ganja seizure and the arrest at Narmada Ghat
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e32a4285a254b7386374b138f5b8bbab

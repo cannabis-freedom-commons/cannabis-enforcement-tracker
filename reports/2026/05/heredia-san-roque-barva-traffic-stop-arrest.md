@@ -24,6 +24,11 @@ media:
     media_url: https://cdn.telediario.cr/uploads/media/2026/06/01/decomisos-en-heredia-mps.jpg
     publisher: Telediario Costa Rica
     caption: Police photo of the items seized in Heredia, captioned "Decomisos en Heredia" and credited to the MPS, Costa Rica's Public Security Ministry.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3dcbe0ea97204a96a4e25e4cd699e562

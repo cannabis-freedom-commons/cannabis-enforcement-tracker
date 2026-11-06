@@ -20,6 +20,11 @@ figures:
   charged: 1
   kg_seized: 1
   prison: 5 months
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [greenland, nuuk, hash, smuggling, straksdom]

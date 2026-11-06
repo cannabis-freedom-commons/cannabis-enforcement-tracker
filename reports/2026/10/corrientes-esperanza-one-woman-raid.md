@@ -20,6 +20,11 @@ media:
     media_url: https://pxcdn.ellitoral.com.ar/litoral/102026/1793456616113.webp?cw=1200&ch=675&extw=jpeg
     publisher: El Litoral
     caption: Phones, cash and packets displayed on a table beside a police emblem after the Corrientes search.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: bd79af37ab0a22e4ded3df33ef8f12da

@@ -11,6 +11,14 @@ type: eradication
 title: Police in Xinjiang's Yutian County uproot wild cannabis and corn poppies
 summary: >-
   Police in Yutian County, Xinjiang, uprooted wild cannabis and corn poppies during a sweep of farmland and disused courtyards, the county public security bureau said. Officers briefed residents on drug-source plants and urged them to report illegal cultivation; no quantities, arrests or charges were announced.
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [xinjiang, yutian, wild-cannabis, eradication, poppy]

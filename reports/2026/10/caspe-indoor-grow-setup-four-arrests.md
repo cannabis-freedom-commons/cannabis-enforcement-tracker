@@ -20,6 +20,14 @@ media:
     media_url: https://www.lacomarca.net/wp-content/uploads/2026/11/finca-abandonada-caspe-octubre-2026.jpg
     publisher: La COMARCA
     caption: 'The abandoned farm in Caspe being prepared for indoor marijuana cultivation. Photo: L.C.'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 680ce605d1bdfc41d73dd4c0b60d1cb5

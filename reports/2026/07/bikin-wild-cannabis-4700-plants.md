@@ -18,6 +18,16 @@ figures:
   plants_destroyed: 4700
   hectares: 1
   kg_seized: 320
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [bikin, khabarovsk-krai, wild-cannabis, mak-2026, russia]

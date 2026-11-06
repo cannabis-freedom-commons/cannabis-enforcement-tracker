@@ -20,6 +20,11 @@ media:
     media_url: https://caracoltv.brightspotcdn.com/dims4/default/220d975/2147483647/strip/true/crop/1280x720+0+0/resize/768x432!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8d%2Fab%2F54911e13408aae55ed335b8c18f8%2Fslide1.jpg
     publisher: Blu Radio
     caption: 'Police photo of the drug arrests in the Bucaramanga metropolitan area. Photo: Policía.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7aa12ae73985d62b01ae59287755a655

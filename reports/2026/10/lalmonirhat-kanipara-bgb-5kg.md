@@ -20,6 +20,14 @@ media:
     media_url: https://www.newsbangladesh.com/media/imgAll/2026October/d-2610300817.png
     publisher: News Bangladesh
     caption: 'Photo published with the report of Indian mobile displays, liquor and cannabis seized on the Lalmonirhat border. Photo: News Bangladesh'
+details:
+  agencies: [bd-bgb]
+  agency_types: [border-guard]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f23ca7ab1b4c352541b8ee93cbf1ce7b

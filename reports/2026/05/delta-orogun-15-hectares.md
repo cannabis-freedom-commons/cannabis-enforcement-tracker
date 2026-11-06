@@ -19,6 +19,12 @@ figures:
   kg_seized: 37500
   arrested: 1
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [delta, ndlea, orogun, eradication]
 sources:

@@ -17,6 +17,12 @@ figures:
   arrested: 1
   kg_seized: 907.185
   value: { amount: 5000000, currency: USD }
+details:
+  agencies: [us-fbi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [boston-police, fbi]

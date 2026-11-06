@@ -18,6 +18,15 @@ media:
     media_url: https://pbs.twimg.com/media/HWNeYMpWcAA7qWT?format=webp&name=large
     publisher: General Directorate of Mujahideen
     caption: Two handcuffed suspects seen from behind in front of a General Directorate of Mujahideen support-patrols backdrop.
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fae1b282952dd85d0e5e0e6ebbaaccec

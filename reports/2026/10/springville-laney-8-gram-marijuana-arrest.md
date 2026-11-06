@@ -16,6 +16,10 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.008
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 964004ff56cae746c14c9a71a7883d66

@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 3370
   kg_seized: 58.967
   value: { amount: 10000000, currency: USD }
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indoor-grow, electricity-theft]

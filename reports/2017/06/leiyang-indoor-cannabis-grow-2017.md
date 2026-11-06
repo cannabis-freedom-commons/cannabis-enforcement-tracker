@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 6
   plants_destroyed: 31
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [leiyang, hunan, indoor-grow, cannabis]

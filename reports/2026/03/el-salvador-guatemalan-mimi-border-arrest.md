@@ -29,6 +29,11 @@ media:
     media_url: https://www.hoy.com.sv/wp-content/uploads/2026/03/image-283-768x1024.png
     publisher: Hoy.com.sv
     caption: 'Second photo from the same arrest operation after K9 Mimi detected the drugs. Photo: PNC / Gustavo Villatoro via Hoy'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1920bd53b8fa241a84fb0bf979bedd2e

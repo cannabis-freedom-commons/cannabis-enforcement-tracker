@@ -20,6 +20,11 @@ media:
     media_url: https://static.bonniernews.se/ba/109c2004-d436-42b4-8820-3054b91928b4.png?crop=2475%2C1392%2Cx0%2Cy760&width=980&format=pjpg&auto=avif
     publisher: Söderhamns-Kuriren
     caption: 'Police photo showing the basement cannabis grow in Söderhamn. Photo: Polisens förundersökningsprotokoll'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4094884f983bd34762a160aac5fcbb1b

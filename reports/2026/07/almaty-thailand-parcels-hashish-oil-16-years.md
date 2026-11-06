@@ -15,6 +15,10 @@ figures:
   charged: 1
   kg_seized: 5.7
   prison: 16 years
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e76230f15c00a07df5ad0672ec13283

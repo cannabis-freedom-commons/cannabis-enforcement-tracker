@@ -14,6 +14,10 @@ summary: >-
   four years in jail for possessing 22.39 grams at the same place and time.
 figures:
   kg_seized: 0.89508
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kuantan, death-sentence, trafficking]

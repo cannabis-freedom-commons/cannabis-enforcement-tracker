@@ -18,6 +18,10 @@ summary: >-
   TVS motorcycle intercepted at the Kenya-Uganda border in Busia.
 figures:
   arrested: 3
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kiambu, busia, dci, trafficking]

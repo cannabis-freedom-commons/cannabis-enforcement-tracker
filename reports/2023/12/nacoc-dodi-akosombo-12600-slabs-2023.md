@@ -14,6 +14,12 @@ summary: >-
   compressed cannabis hidden in poultry feed inside an abandoned truck at Dodi
   near Akosombo. No suspect was arrested.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [nacoc, trafficking]
 open_questions:

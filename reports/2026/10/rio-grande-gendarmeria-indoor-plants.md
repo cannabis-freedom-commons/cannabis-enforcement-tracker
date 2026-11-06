@@ -33,6 +33,14 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/narcotrafico_rio_grande_tierra_del_fuego_gna0.jpeg
     publisher: Argentina.gob.ar (Gendarmería Nacional)
     caption: 'A cannabis bud from the plants seized in Río Grande. Photo: Gendarmería Nacional.'
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [tierra-del-fuego, rio-grande, gendarmeria, indoor]

@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 8
   kg_seized: 10.037
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5076e09556dee824fea1780a9ad3fc77

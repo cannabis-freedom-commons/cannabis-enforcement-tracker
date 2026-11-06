@@ -21,6 +21,10 @@ media:
     media_url: https://assets.debate.com.mx/__export/1793682976222/sites/debate/img/2026/11/02/DEBATE_-33-.jpg_2039492274.jpg
     publisher: EL DEBATE SINALOA
     caption: 'The detained man presented to the corresponding authority. Photo: Cortesía.'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7c09b87e890e1d79d9b442b4ef7d483

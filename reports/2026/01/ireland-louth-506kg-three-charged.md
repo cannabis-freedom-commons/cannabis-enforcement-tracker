@@ -19,6 +19,12 @@ figures:
   charged: 3
   kg_seized: 506
   value: { amount: 10120000, currency: EUR }
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [louth, drogheda, prosecution]

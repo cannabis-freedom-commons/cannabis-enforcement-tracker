@@ -20,6 +20,10 @@ figures:
   kg_seized: 0.6245
   prison: death sentence on each of two charges
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [telok-blangah, death-sentence, trafficking]
 open_questions:

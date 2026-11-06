@@ -13,6 +13,13 @@ summary: >-
   Vitebsk customs detained a 40-year-old Belarusian driver after finding hashish in his belongings in a Volkswagen arriving from Russia on 31 July, with two passengers in the car. A criminal case for cross-border drug movement was opened against the driver, while drug-use paraphernalia was found on one passenger.
 figures:
   arrested: 1
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5011c7ec187f528ba4ac75ba0a128824

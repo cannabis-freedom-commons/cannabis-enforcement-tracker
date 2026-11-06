@@ -42,6 +42,15 @@ media:
     media_url: https://www.jlnoticias.com.br/uploads/images/2026/10/post-duaxigeb.jpg
     publisher: JL Notícias
     caption: 'The packages of skunk seized from the car. Photo: PRF.'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 12]
+  details.agency_types: [1, 2, 12]
+  details.products: [1, 2, 4, 6, 7, 8, 9, 10, 11, 12]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7ba5744604f50eb1366771cafbba68cb

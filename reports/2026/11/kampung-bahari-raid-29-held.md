@@ -50,6 +50,12 @@ media:
     media_url: https://imgsrv2.voi.id/o1zY3aCc1iK0ueJFh0O32iDFo9FQa6_py9h-V-MBN1o/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy82MDEwMTgvMjAyNjExMDIxODI1LW1haW4uY3JvcHBlZF8xNzkzNjE4NzE3LmpwZWc.jpg
     publisher: VOI
     caption: 'Joint officers during the 1 November 2026 raid on Kampung Bahari, North Jakarta. Photo: BNN file via VOI'
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 8, 10, 12, 15, 16, 17, 19]
+  details.agency_types: [2, 8, 10, 12, 15, 16, 17, 19]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865

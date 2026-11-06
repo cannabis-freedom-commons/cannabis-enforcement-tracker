@@ -20,6 +20,15 @@ media:
     media_url: https://srpskainfo.com/wp-content/uploads/2023/12/Mladen-Samaradzija-hapsenje-foto-mup-rs-872x610.jpg
     publisher: SrpskaInfo
     caption: 'Police photo of Mladen Samardžija''s arrest in operation Tokio. Photo: MUP RS'
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b9866d9deb956b41ad7108df5a58e2a3

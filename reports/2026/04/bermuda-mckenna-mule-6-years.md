@@ -21,6 +21,12 @@ figures:
   prison: 6 years 6 months
   value: { amount: 1380000, currency: USD }
 created_by_model: cursor/composer-2.5
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [airport, mule, import]
 open_questions:

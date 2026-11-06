@@ -24,6 +24,11 @@ media:
     media_url: https://www.customs.gov.by/upload/resize_cache/iblock/92b/1700_1135_273f073bcb5eafcd0170050e0e787c090/6to4y3dx9ai3qj403m4wm5hi23jwg6ox.JPG
     publisher: Таможенные органы Республики Беларусь
     caption: 'Second customs photo published with the report on the Kamenny Log detention. Photo: State Customs Committee of Belarus'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb341a05a41cec73ee07ec91e8913d68

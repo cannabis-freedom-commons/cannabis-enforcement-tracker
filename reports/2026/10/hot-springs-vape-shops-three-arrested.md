@@ -20,6 +20,11 @@ media:
     media_url: https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213972318_Vape_t842.jpg?e5ab187fd9b46f2971cc9cd0025dffa4a96399a8
     publisher: The Sentinel-Record
     caption: 'Ameer''s Tobacco and Vape Shop at 1607 Albert Pike Road in Hot Springs, one of the two shops where employees were arrested on 29 October 2026. Photo: The Sentinel-Record/Anna-Claire Butler'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 00df84af4a5e15e0dfba89296923d19d

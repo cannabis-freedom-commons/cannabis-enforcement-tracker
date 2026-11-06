@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 14
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [comoros, hahaya, airport, importation]

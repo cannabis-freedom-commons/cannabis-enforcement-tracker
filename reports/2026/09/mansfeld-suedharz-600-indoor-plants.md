@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 600
   kg_seized: 100
 created_by_model: cursor/composer-2.5
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [saxony-anhalt, indoor, halle]
 open_questions:

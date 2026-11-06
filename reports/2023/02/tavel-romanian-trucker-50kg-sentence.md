@@ -21,6 +21,12 @@ figures:
     amount: 270000
     currency: EUR
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [trucker, tavel, gard]
 open_questions:

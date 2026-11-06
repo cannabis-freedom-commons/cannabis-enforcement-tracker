@@ -21,6 +21,11 @@ media:
     media_url: https://alivenews.co.in/wp-content/uploads/2026/10/faridabad-crime-branch-arrests-two-ganja-smugglers.jpg
     publisher: Alive News
     caption: Alive News photo of accused people and recovered items after Faridabad ganja arrests. The page caption does not say which of the two cases is shown.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: bc71e02782dc0d459f94fb63165332fb

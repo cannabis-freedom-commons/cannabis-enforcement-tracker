@@ -20,6 +20,10 @@ figures:
   plants_destroyed: 207
   kg_seized: 2.9
   arrested: 1
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [tochigi, cultivation, overstay]

@@ -19,6 +19,11 @@ media:
     media_url: https://cdn.elmundo.sv/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-7.26.06-AM.jpeg?x-image-process=image/resize,w_890/quality,q_85/format,webp
     publisher: Diario El Mundo
     caption: 'Operation that left at least five captured. Photo: FGR.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 63866c3e681755a23fda0f0818c25f18

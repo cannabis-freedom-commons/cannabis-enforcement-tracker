@@ -26,6 +26,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/30/ad222a6d-f65e-422d-b307-cd1c592ad151_1793362364617.jpg
     publisher: Dainik Bhaskar
     caption: 'The arrested man in police custody in Hasayan. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 92deafb2aedf09d03d86dd3933e30e6b

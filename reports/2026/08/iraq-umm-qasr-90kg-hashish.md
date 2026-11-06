@@ -19,6 +19,11 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 90
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: unknown
 tags: [hashish, umm-qasr, territorial-waters]

@@ -17,6 +17,12 @@ figures:
         amount: 784000
         currency: EUR
     charged: 1
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3, 5]
+  details.agency_types: [1, 2, 3, 5]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c90fc75d76054817653c73b0d9fdd6e

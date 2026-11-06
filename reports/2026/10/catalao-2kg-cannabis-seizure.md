@@ -21,6 +21,12 @@ media:
     media_url: https://zapcatalao.com.br/wp-content/uploads/2026/10/IMG-20261031-WA0007.jpg
     publisher: Portal Zap Catalão
     caption: 'Cannabis, nine ecstasy portions, a precision scale and the seized car after the CPE operation in Catalão. Photo: Divulgação/Polícia Militar (Goiás Military Police handout).'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 764f6be722f3d9380e7cd693acc06fc2

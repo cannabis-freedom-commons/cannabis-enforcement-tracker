@@ -14,6 +14,11 @@ summary: >-
   Police in San Miguel Centro arrested 26-year-old Jhon Brandon Giraldo Rivera after catching him carrying a bag of marijuana. He allegedly tried to flee and discarded the bag before officers recovered it and took him into custody for alleged drug trafficking.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e78e1cdbea0c3e0bc8149aa703b7832

@@ -20,6 +20,12 @@ figures:
   kg_seized: 12837
   arrested: 1
   value: { amount: 22600000, currency: USD }
+details:
+  agencies: [us-dea, us-cbp]
+  agency_types: [anti-narcotics, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [border-patrol, checkpoint, record-seizure]

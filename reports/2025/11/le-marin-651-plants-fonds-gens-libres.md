@@ -26,6 +26,10 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/6932f3ca560e125b5d004b93/width_1000/image.jpg
     publisher: France-Antilles Martinique
     caption: 'Gendarmerie photo captioned as the more than 650 plants found by the gendarmes. Photo: Gendarmerie du Marin'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 653720174f4efc582e70f98968b4ccc9

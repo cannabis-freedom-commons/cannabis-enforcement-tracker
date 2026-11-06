@@ -17,6 +17,11 @@ figures:
   value:
     amount: 600000
     currency: USD
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 98b490b8ff3754a0e852319afbfb97fd

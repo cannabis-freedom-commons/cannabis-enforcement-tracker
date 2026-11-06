@@ -13,6 +13,12 @@ summary: >-
   chain on 23 October 2014 under sealed warrants, seizing money, marijuana and
   computers. Staff said the shops followed state law, and no one was arrested.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dispensary, dea]
 open_questions:

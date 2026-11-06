@@ -18,6 +18,15 @@ summary: >-
 figures:
   arrested: 2
 created_by_model: unknown
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  products:
+    - {product: edibles}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [bhang, peddling]
 open_questions:

@@ -84,6 +84,15 @@ media:
     media_url: https://images.tv9hindi.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-31-at-2.19.09-pm-1.jpeg?w=1280&q=51
     publisher: TV9 Bharatvarsh
     caption: Police officers with the seized ganja consignment and the accused.
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [3, 5, 8, 14, 15, 29, 43, 44]
+  details.agency_types: [3, 5, 8, 14, 15, 29, 43, 44]
+  details.products: [3, 14, 15, 29, 43, 44]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dd476674abc6491cdd790cc27a4cb6f0

@@ -24,6 +24,12 @@ cover:
   licence: Work of the Government of the Philippines (no copyright, RA 8293 §176)
   url: https://tribune.net.ph/2026/08/04/p96-million-worth-of-weeds-destroyed-in-kalinga
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cordillera, communal-land]
 sources:

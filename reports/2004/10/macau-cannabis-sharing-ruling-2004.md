@@ -13,6 +13,10 @@ summary: >-
   eight grams for cannabis; the quantity supplied exceeded it. Macau’s 2009 replacement later
   introduced a…
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: macau-cannabis-sharing-ruling-2004
 tags:

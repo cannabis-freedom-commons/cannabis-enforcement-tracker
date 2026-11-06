@@ -19,6 +19,11 @@ figures:
   kg_seized: 6
   value: { amount: 12000000, currency: EGP }
 created_by_model: xai/grok-4.7
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [cairo, customs, cannabis-oil]
 open_questions:

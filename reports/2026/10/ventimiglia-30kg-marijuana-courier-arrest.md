@@ -21,6 +21,15 @@ media:
     media_url: https://www.italpress.com/wp-content/uploads/2026/11/29102026_052900_1-696x928.jpg
     publisher: Italpress
     caption: 'Photo credited to the Guardia di Finanza accompanying the report on the Ventimiglia seizure. Photo: GDF'
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13]
+  details.agency_types: [1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13]
+  details.products: [1, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3228d6bb57c409985087e1cddf76910c

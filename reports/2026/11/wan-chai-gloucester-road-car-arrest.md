@@ -26,6 +26,10 @@ media:
     media_url: https://hk.on.cc/hk/bkn/cnt/news/20261102/photo/bkn-20261102020432347-1102_00822_001_01p.jpg?20261102131915
     publisher: on.cc東網
     caption: 'Police with the drugs seized from the private car. Photo: Hu Dewei'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db21b8ee61c28b88699f4dc433f508d6

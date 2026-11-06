@@ -25,6 +25,15 @@ media:
     media_url: https://api.eimattro.com/uploads/93fca526-a8bc-4f94-a920-8000fc15644a.jpg
     publisher: Eimattro
     caption: Photo labelled with the Chapainawabganj dwelling-house arrest with 4 kg of cannabis.
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d112c9842a18b66b2d734b899f2964d0

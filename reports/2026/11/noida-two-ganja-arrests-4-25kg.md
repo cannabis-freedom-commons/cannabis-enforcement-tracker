@@ -20,6 +20,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2021/10/26/noida_1635234632.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'The article''s lead image of Noida, reused from the newspaper''s 2021 stock file and captioned only with the headline; it does not show these arrests. Photo: Amar Ujala'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 53988f06b871066caddfe3302705728e

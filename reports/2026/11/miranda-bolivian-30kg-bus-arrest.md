@@ -21,6 +21,12 @@ media:
     media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/02/17fheqx1orniu.png
     publisher: Campo Grande News
     caption: 'Photo shows the two suitcases with cannabis in ziplock packaging. Photo: Reprodução/Autos'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e81a0407162e869e3d2a3827a2f1e930

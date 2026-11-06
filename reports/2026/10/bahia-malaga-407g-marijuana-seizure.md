@@ -35,6 +35,10 @@ media:
     media_url: https://cdn.jwplayer.com/videos/GYI698Xy-7njfJk2Q.mp4
     publisher: Infobae
     caption: 'Video report on the Navy seizure of more than 1.4 tonnes of drugs in the Colombian Pacific. Photo: prensa Armada de Colombia.'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ab9b7a4ceff0ae2ac2cca5b2397eabc

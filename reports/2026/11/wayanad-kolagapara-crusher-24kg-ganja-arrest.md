@@ -20,6 +20,11 @@ media:
     media_url: https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/11/3/abi-wayanad-ganja.jpg?w=1120&h=583
     publisher: Onmanorama
     caption: 'Arrested accused T R Nidhun (L) and Ebi. Photo: Special arrangement'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6d7fe1b7149c558448745c7f08975d03

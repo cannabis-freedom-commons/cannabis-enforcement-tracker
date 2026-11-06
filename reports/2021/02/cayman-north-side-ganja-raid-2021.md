@@ -19,6 +19,11 @@ media:
     media_url: https://caymancompass.s3.amazonaws.com/wp-content/uploads/2021/02/24153202/ganja-seizure-696x1238.jpg
     publisher: Cayman Compass
     caption: 'Bags of ganja seized in the raid on Further Road, North Side, on Tuesday 9 February 2021. Photo: RCIPS'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 29c28b20082802b9e3cb8a5678e55311

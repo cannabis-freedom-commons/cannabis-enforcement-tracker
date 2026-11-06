@@ -20,6 +20,10 @@ figures:
   charged: 1
   kg_seized: 8.5
 created_by_model: cursor/composer-2.5
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [mellieha, postal]
 open_questions:

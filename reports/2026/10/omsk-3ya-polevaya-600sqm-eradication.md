@@ -21,6 +21,12 @@ media:
     media_url: https://cdn.om1.ru/localStorage/news/2026/10/15/437630/nImg55327_resizedScaled_1280to720.webp
     publisher: Om1.ru
     caption: 'Wild cannabis raid on 3-ya Polevaya in Omsk, 15 October 2026. Photo: Om1 Omsk'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [omsk, wild-cannabis, russia]

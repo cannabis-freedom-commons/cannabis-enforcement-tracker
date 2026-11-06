@@ -20,6 +20,15 @@ media:
     media_url: https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/01/675x450/1_whatsapp-image-2026-11-01-at-09-49-09-68120656.jpeg
     publisher: Correio Braziliense
     caption: 'Police photo of the seized portions of maconha, skunk and cocaine, drone, digital scale, trafficking accounts and pistol magazine. Photo: Material cedido ao Correio.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4098e9afb75681ffdc4660e02dcee1f7

@@ -16,6 +16,13 @@ summary: >-
 figures:
   kg_seized: 15000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 tags: [isf, hashish, ouzai, smuggling]
 sources:

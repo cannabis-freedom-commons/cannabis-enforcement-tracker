@@ -17,6 +17,12 @@ figures:
   kg_seized: 7257.5
   value: { amount: 40000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [chicago, cartel, dea, tractor-trailer]
 sources:

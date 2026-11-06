@@ -18,6 +18,12 @@ figures:
   kg_seized: 1402.1
   arrested: 1
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags: [assis, sao-paulo, ficco, highway-police]
 media:

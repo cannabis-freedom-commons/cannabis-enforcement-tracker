@@ -13,6 +13,12 @@ summary: >-
   Almaty police detained a suspect and seized over 3 kg of drugs, including cannabis extract, marijuana and hashish, when they searched him and his home for a packaging operation. The man was placed in temporary detention while a pretrial investigation continues into the supply channel.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9947551b4b382acb2c8ba0dac6baf892

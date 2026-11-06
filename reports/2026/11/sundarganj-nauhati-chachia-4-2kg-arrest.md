@@ -23,6 +23,15 @@ media:
     media_url: https://rangpur24.com/assets/images/post/179385920087RXUwSu.jpg
     publisher: Rangpur24
     caption: A man in a maroon shirt stands behind polythene-wrapped packets of seized ganja between two uniformed officers, in the photo published with the report of the arrest.
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d422ae1212db696ffcd9801c328ed4f0

@@ -19,6 +19,11 @@ media:
     media_url: https://vdmedia.elpais.com/mcv/elpais/multimedia/20250519/1058499_231943_video_1800.mp4
     publisher: EL PAÍS América
     caption: 'Ministry of Justice and Peace video showing prison officers catching the white cat with the drug packets taped to its body at Pococí, and the packets being removed on a table inside the prison. Video: Ministerio de Justicia y Paz'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0a1a80a43b7780c4de15115d9c0ff6d5

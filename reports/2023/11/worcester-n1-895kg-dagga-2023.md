@@ -19,6 +19,15 @@ figures:
   kg_seized: 895
   value: { amount: 7100000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1]
 status: verified
 tags: [dagga, n1, worcester, western-cape, tip-off]
 open_questions:

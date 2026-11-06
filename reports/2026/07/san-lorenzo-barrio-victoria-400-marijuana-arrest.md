@@ -13,6 +13,11 @@ summary: >-
   DPI investigators arrested a 27-year-old suspected MS-13 member in barrio Victoria, San Lorenzo, seizing 3,850 drug doses. The haul included 400 wrappers of alleged marijuana alongside alleged crack and cocaine, and the man faces drug-trafficking charges.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 751d2dea35a95059502e7d7b7dd5ff89

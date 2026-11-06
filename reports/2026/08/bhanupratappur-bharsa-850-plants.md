@@ -24,6 +24,10 @@ media:
     publisher: Amar Ujala
     caption: Police personnel and cannabis plants pictured with the Bhanupratappur report.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 tags: [bhanupratappur, kanker, chhattisgarh, cultivation]
 open_questions:

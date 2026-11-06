@@ -26,6 +26,11 @@ media:
     media_url: https://spokesmanhindi.com/cover/prev/7d2317644f2edd8ff6ac9d24ad438e1d-20261030122550.Medi.jpeg
     publisher: Rozana Spokesman
     caption: The arrested man sitting on the floor in front of three uniformed police officers, in the photograph published with Rozana Spokesman's report of the Jubbal arrest.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0298afce1855703e7c1a5c39746dad6a

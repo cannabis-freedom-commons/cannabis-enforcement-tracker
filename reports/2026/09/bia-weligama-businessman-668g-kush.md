@@ -26,6 +26,17 @@ media:
     publisher: Ada Derana
     caption: Seized kush packets displayed after the arrest at Bandaranaike International Airport, in the photograph published with the report.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [airport, bangkok-route, kush, customs, pnb]
 sources:

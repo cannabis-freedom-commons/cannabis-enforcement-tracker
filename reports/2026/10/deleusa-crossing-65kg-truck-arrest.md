@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 65
+details:
+  setting: [vehicle, border]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [deleusa, border, truck, bosnia-route]

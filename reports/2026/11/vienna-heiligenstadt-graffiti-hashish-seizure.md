@@ -13,6 +13,11 @@ summary: >-
   Vienna police arrested a 17-year-old Swiss and a 19-year-old German after a group sprayed trains at Heiligenstadt station on 2 November 2026, firing two warning shots as three suspects fled. Officers seized 15 spray cans and sprayer gear along with suspected hashish in a plastic bag.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 972a175d43f9aa37d2a4f7cb9b9a74d9

@@ -17,6 +17,10 @@ summary: >-
 figures:
   prison: 18 months in custody and 18 months on licence; six months suspended for 18 months for the third defendant
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [psni, laganside, cultivation]
 open_questions:

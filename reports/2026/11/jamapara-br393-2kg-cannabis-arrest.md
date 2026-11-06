@@ -21,6 +21,16 @@ media:
     media_url: https://avozdacidade.com/wp/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-06.49.33.jpeg
     publisher: A Voz da Cidade
     caption: Two Military Police officers display drugs and packages seized in the case. Credit not listed.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c636005e3a63164a38871477f656a849

@@ -20,6 +20,11 @@ media:
     media_url: https://guineenews.org/wp-content/uploads/2023/06/InCollage_20230621_203922082.jpg
     publisher: Guinéenews
     caption: Photo collage accompanying the report on the 500 kg cannabis seizure presented to the press.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: abeae090cb406afbbe8ba942e5a2acf8

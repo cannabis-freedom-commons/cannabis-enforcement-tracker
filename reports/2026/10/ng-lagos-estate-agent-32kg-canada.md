@@ -19,6 +19,14 @@ figures:
   prison: six years (reported as three years on each of two counts, running concurrently)
   fine: { amount: 6000000, currency: NGN }
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [ndlea, lagos, airport, canada, guilty-plea]
 open_questions:

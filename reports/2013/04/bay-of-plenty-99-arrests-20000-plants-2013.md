@@ -18,6 +18,10 @@ figures:
   arrested: 99
   plants_destroyed: 20000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [outdoor]
+data_sources:
+  details.environment: [1]
 status: verified
 tags: [bay-of-plenty, rotorua, taupo, outdoor-grow]
 sources:

@@ -20,6 +20,12 @@ media:
     media_url: https://www.lavenir.net/resizer/v2/VACGF25NRBBVZHTGTXDK4IKWVI.jpg?auth=89437c7512f4399576827a8a1f4084c137fb9e8f2a37b32ead92831dd7c037af&width=1200&height=630&quality=85&fitfill=true
     publisher: L'Avenir
     caption: 'Police photo of the 11 kg of cannabis seized from the car boot. Credit: Belgian Federal Police'
+details:
+  agencies: [be-police]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 522de63e3e9b22ca4231326b7380780d

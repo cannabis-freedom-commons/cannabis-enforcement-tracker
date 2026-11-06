@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
 created_by_model: deepseek/deepseek-v4.1-flash#max
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [nurmes, lieksa, valtimo, grow, ita-suomi]
 open_questions:

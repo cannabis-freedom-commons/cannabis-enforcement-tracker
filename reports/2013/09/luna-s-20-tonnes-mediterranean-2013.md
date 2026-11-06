@@ -20,6 +20,12 @@ figures:
   kg_seized: 10000
   value: { amount: 50000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
 status: verified
 tags: [french-navy, luna-s, mediterranean]
 sources:

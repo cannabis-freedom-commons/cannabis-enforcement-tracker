@@ -15,6 +15,10 @@ summary: >-
   operation with on-site education on identifying drug-source plants and reporting duties.
 figures:
   plants_destroyed: 436
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [yunnan, dehong, eradication, cultivation]

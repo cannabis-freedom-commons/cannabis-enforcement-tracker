@@ -14,6 +14,15 @@ summary: >-
   Road toward Dandora Dumpsite on 23 September 2026; the rider escaped but abandoned the
   sack, which held about 2,900 rolls of bhang. The exhibit is secured pending further
   investigation.
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  products:
+    - {product: edibles}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [nairobi, korogocho, bhang]

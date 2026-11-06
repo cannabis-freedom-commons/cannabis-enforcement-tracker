@@ -19,6 +19,10 @@ figures:
   kg_seized: 3155
   arrested: 2
 created_by_model: meta/muse-spark
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [smuggling, laos, australia]
 sources:

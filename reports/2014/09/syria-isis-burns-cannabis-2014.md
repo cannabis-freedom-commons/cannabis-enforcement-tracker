@@ -10,6 +10,10 @@ summary: >-
   After taking the town of Akhtarin, north of Aleppo, from the Free Syrian Army, fighters of the
   Islamic State cut down a field of cannabis, soaked it in fuel and set it alight for the camera.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: syria-isis-burns-cannabis-2014
 tags:

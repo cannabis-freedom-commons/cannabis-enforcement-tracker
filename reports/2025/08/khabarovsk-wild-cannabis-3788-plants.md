@@ -22,6 +22,16 @@ media:
     media_url: https://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-08/photo_2025-08-05_04-48-12.jpg
     publisher: Известия
     caption: 'Wild cannabis destroyed in Khabarovsk Krai during operation Mak-2025. Photo: Khabarovsk Krai UMVD Telegram channel, via Izvestia'
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [khabarovsk-krai, wild-cannabis, mak-2025, russia]

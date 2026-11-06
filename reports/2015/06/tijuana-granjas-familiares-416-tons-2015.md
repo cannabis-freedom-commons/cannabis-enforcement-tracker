@@ -24,6 +24,10 @@ media:
     publisher: "Borderland Beat (photo: AFN Tijuana)"
     caption: Officers stand by stacked packages of the seized marijuana on display
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 tags: [tijuana, warehouse, sinaloa-cartel]
 sources:

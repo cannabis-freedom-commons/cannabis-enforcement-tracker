@@ -25,6 +25,10 @@ media:
     media_url: https://www.infobae.com/resizer/v2/52JGN2HF7RCXBGTB6E4NE4QF4Y.png?auth=46fa056e1611355b53c3ec48435b5bfd7faf680cf51b289699749caa9f6f3363&smart=true&width=350&height=236&quality=85
     publisher: Infobae
     caption: 'Drug Control Police officers count and weigh the seized drugs in Golfito. Credit: MSP.'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 488a06a954d0ff70005bccd25f4b37fa

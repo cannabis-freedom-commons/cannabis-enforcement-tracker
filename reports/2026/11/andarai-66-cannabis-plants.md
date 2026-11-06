@@ -19,6 +19,12 @@ media:
     media_url: https://cloudfront-us-east-1.images.arcpublishing.com/newr7/GRNNO7J7PFDVHKNR4D5OHFL4FM.jpeg
     publisher: Noticias R7
     caption: 'Borel UPP agents found the drug plantation in a greenhouse. Photo: Policia Militar.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2412439b9641b728645e0c06cdfb93c7

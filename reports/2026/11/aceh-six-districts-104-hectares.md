@@ -68,6 +68,14 @@ media:
     caption: >-
       Personnel pulling up cannabis stalks during the Aceh eradication operation. Photo: Humas Polda Aceh via
       Pos Aceh
+details:
+  agencies: [id-bnn, id-polri]
+  agency_types: [anti-narcotics, police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [5, 6, 7, 8, 9, 11, 12, 13]
+  details.agencies: [5, 6, 7, 8, 9, 11, 12, 13]
+  details.agency_types: [5, 6, 7, 8, 9, 11, 12, 13]
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: e0035043d4e97af06cdb8b6e0ed219e6

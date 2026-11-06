@@ -18,6 +18,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 3000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, chira, camper-van, french-nationals, gendarmerie-royale, safi]

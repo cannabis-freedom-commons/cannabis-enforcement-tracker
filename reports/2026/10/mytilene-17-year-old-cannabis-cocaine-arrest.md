@@ -14,6 +14,11 @@ summary: >-
   Mytilene drug officers arrested a 17-year-old on 31 October 2026 after a check found a small amount of hashish on him and a home search found 54 packs of cocaine weighing 36.72 g with a precision scale. His parents were also arrested for alleged neglect of supervision of a minor.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8940be33ac51b7c0c9c616ede95aa6de

@@ -15,6 +15,10 @@ summary: >-
 figures:
   kg_seized: 0.47033
   prison: life imprisonment
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [death-penalty-avoided, trafficking, melaka]

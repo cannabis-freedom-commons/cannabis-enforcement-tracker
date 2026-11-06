@@ -24,6 +24,12 @@ media:
     media_url: https://mvdmedia.ru/upload/iblock/51a/ti8jxkpxcmibltr5h2a9hrdpak37op9r.png
     publisher: МВД Медиа
     caption: 'Seized marijuana and equipment from the SNT search. Photo: press service of the Chelyabinsk Oblast GU MVD'
+details:
+  agencies: [ru-mvd]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [chelyabinsk, sosnovsky, indoor-cultivation, russia]

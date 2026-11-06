@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 8000
   arrested: 5
+details:
+  activity: [trafficking]
+  setting: [building]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [warehouse, heroin, joint-operation, hawks, trafficking]

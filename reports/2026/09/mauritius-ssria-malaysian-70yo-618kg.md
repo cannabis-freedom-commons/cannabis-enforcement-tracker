@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 6.18
   value: { amount: 9270000, currency: MUR }
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ssria, airport, trafficking]

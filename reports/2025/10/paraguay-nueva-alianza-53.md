@@ -31,6 +31,12 @@ media:
     publisher: Hoy (Paraguay)
     caption: A pile of cannabis plants burns in a field, smoke rising over the crop
 created_by_model: unknown
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags: [nueva-alianza, brazil, joint-operation, protected-areas, deforestation]
 sources:

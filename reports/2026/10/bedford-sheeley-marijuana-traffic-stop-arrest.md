@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 029065c4b96f4d83b88262e179c9f23b

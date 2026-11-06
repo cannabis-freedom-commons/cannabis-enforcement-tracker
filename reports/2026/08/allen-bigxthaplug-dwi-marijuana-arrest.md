@@ -12,6 +12,10 @@ summary: >-
   Allen police arrested rapper BigXthaPlug, Xavier Landum, on 21 August 2026 and booked him into Collin County Jail on DWI, possession of less than two ounces of marijuana and unlawful firearm possession. He was released the next day, missing a Winnipeg festival headline before performing in Des Moines, while his similar August 2025 Dallas case remains pending.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 16f0c87dd9b3454f69e3b0c9c51f318d

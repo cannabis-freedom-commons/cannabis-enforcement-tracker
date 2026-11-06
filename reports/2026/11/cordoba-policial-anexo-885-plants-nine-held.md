@@ -21,6 +21,10 @@ media:
     media_url: https://eldoce.tv/resizer/v2/las-plantas-de-marihuana-secuestradas-en-el-marco-de-los-allanamientos-CMEVNCAGLJEQLKWAXFGAQVXBFU.jpeg?auth=72c99ab49b507d298a9b944ff0e39bd3a9810cb63cb542227fbf6c225b20ac15&width=767
     publisher: ElDoce
     caption: Seized marijuana plants from the raids in barrio Policial Anexo.
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 11c638245ab7c66c195ad910cd848f97

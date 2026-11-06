@@ -19,6 +19,10 @@ media:
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBYv74HZO7UA4FIv0882VPdZHnJi48ttxVoERg1pxRlBsv199FCQqyy4MUQAvXVmYBYBNDOStQto63TjvIq-U0O4P_EnYJCZWI2zhBFoayV9HG5VnZyrJpsdUvDW4ltWEQBz8_62i_RmlR2p64W3XP9c44PXzJQQc5NMA2RjSMjMCi0M37jan5MNnvmSaU/w1600/Fd-trafic-maur-4.png
     publisher: L'Express de Madagascar
     caption: 'Montage of the four Mauritian suspects held at Tsiafahy prison, as published by L''Express de Madagascar. Photo: L''Express de Madagascar'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3e002501da1f7b3a62cc334034b50976

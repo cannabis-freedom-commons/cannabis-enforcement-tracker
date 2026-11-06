@@ -16,6 +16,15 @@ figures:
   value:
     amount: 2800000
     currency: INR
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, sonamura, ganja, nursery-beds]

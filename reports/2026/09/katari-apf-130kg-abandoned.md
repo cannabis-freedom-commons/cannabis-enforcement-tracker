@@ -22,6 +22,10 @@ media:
     publisher: The Himalayan Times
     caption: Two APF personnel with the seized plastic-bag bundles of marijuana
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [forest]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [forest, unattended, apf, udayapur]
 sources:

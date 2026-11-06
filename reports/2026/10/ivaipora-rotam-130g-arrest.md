@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.13
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 4, 5]
+  details.agency_types: [1, 2, 4, 5]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4ea6c99b0582f0826f2d2f800362e091

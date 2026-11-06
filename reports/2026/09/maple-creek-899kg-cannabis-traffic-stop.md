@@ -24,6 +24,14 @@ media:
     media_url: https://rcmp.ca/sites/default/files/styles/large_480x480/public/images/seizedcannabishashishsaisis.jpg?itok=IJLBrGXZ
     publisher: Saskatchewan RCMP
     caption: Boxes and bags of cannabis and bars of hashish seized near Maple Creek, in an RCMP photo.
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
 tags: [saskatchewan, maple-creek, rcmp, traffic-stop, cannabis]

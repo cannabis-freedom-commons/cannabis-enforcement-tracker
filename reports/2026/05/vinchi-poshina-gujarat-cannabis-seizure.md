@@ -19,6 +19,14 @@ figures:
   kg_seized: 12.76
   value: { amount: 638000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [vinchi, poshina, sabarkantha, gujarat, cultivation, antf]
 open_questions:

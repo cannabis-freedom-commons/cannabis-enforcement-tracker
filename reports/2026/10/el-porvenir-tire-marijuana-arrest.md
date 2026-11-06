@@ -11,6 +11,11 @@ also: [seizure]
 title: Detainees face trafficking inquiry over tire marijuana in El Porvenir
 summary: >-
   Honduran National Police detained people in El Porvenir, Atlántida after finding marijuana hidden in the spare tires of a small truck. The detainees must answer for alleged drug trafficking; no weight, detainee number or court outcome was published.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4ec2ff817010dffdd9f30bbe984df688

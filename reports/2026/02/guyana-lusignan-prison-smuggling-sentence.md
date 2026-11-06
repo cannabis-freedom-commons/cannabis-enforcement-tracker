@@ -18,6 +18,10 @@ figures:
   prison: 3 years
   fine: { amount: 30000, currency: GYD }
 created_by_model: meta/muse-spark
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [prison, smuggling, lusignan]
 sources:

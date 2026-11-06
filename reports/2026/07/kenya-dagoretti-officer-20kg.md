@@ -23,6 +23,12 @@ media:
     url: https://peopledaily.digital/wp-content/uploads/2026/07/CANNABIS-BAG-500x532.jpg
     publisher: People Daily
     caption: 'Six yellow-taped bales seized in the raid. Photo: NPS via People Daily'
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [officer, corruption, nps]

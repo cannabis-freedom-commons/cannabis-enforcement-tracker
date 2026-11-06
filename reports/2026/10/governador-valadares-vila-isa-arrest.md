@@ -20,6 +20,12 @@ media:
     media_url: https://s2-g1.glbimg.com/6r3uKS_UoaqziWvkpk7hh3HtIMQ=/0x232:960x1280/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/o/0HtNcLScOnDiUHTP7O2A/crack.jpeg
     publisher: g1
     caption: 'Seized material laid out after the Vila Isa raid. Photo: Polícia Militar/Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 190a69ee359bc834fef685f8ae3b7a4b

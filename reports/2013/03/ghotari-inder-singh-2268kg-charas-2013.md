@@ -19,6 +19,11 @@ figures:
   kg_seized: 22.68
   value: { amount: 10000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [charas, parole-jumper, sirmaur]
 open_questions:

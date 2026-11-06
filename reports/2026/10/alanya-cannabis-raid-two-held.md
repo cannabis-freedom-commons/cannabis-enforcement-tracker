@@ -22,6 +22,11 @@ media:
     media_url: https://www.akdenizgercek.com.tr/cropImages/1280x/uploads/haberler/2026/10/y04O-alanyada-uyusturucu-operasyonu-2-supheli-tutuklandi.jpg
     publisher: Akdeniz Gerçek
     caption: 'Handcuffed suspects being escorted after the Alanya raids, in the lead photo of the Akdeniz Gerçek report. Photo: İHA'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4, 5, 7, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ea228fab23bcea33ff9525c09b77dbfd

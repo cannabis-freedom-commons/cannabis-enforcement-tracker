@@ -25,6 +25,16 @@ media:
     media_url: https://news.cloudrco.com/uploads/img/d79415c9ecb99e59209859d3a56c2aaa2340e7ca.jpg
     publisher: RCO 100.9 FM
     caption: 'Seized skunk, hashish, ecstasy tablets and LSD doses. Photo: ASCOM via RCO'
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9f552f1e7f694fca121e661ca1d71934

@@ -14,6 +14,10 @@ summary: >-
 figures:
   charged: 3
   kg_seized: 330
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2ba695b60f3edf38be9de6be842fa88d

@@ -18,6 +18,14 @@ figures:
   hectares: 1.0
   value: { amount: 20000000, currency: PHP }
   arrested: 0
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [philippines, mountain-province, sadanga, eradication]

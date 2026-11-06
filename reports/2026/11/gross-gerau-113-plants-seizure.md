@@ -13,6 +13,10 @@ summary: >-
   Police in Groß-Gerau seized 113 cannabis plants from a 56-year-old man's flat balcony and allotment grow tent on 3 November. The man is under investigation for suspected violation of the consumer cannabis law pending THC tests.
 figures:
   plants_destroyed: 113
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c22583c58b79891c3d9494d1caff9806

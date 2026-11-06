@@ -19,6 +19,17 @@ figures:
   hectares: 2
   kg_seized: 5048
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [farm]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ondo, ndlea, farm, skunk]
 sources:

@@ -24,6 +24,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/03/template/image/Untitled-design-(83)-1793706788917_v.webp
     publisher: Jagran
     caption: Seized ganja reported as worth about Rs 14.20 lakh.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc5e69e65f4890a907f007c7d0410a51

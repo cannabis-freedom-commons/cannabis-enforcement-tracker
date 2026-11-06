@@ -29,6 +29,12 @@ media:
     media_url: https://www.cp24.com/resizer/v2/IFQWSJ2AJNBKTJ633ML7D54FDQ.png?auth=2716ff72ea62ac00fc0bfdf4cc0f5515181f1ce8e5f6d0e8c0a1e0557283e1da&width=1440&height=921
     publisher: CP24
     caption: 'One of the firearms seized by York Regional Police in Project North Star. Photo: York Regional Police via CP24'
+details:
+  agencies: [ca-cbsa, ca-opp]
+  agency_types: [customs, police]
+data_sources:
+  details.agencies: [2, 6, 8, 9, 10, 11, 12]
+  details.agency_types: [2, 6, 8, 9, 10, 11, 12]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 32296050ded449051043b6c1a93bb85d

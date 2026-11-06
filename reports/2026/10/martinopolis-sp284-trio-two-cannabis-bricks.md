@@ -20,6 +20,17 @@ media:
     media_url: https://ifronteira.com/_upload/foto/noticia/02-11-202611-11-52-ckYWOgpZqMJNn29.webp
     publisher: Ifronteira
     caption: 'Seized car, mobile phones and cash displayed after the Martinópolis roadside arrest. Photo: Polícia Militar.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d1687cb0b13e93014e4733ea6b37bdfa

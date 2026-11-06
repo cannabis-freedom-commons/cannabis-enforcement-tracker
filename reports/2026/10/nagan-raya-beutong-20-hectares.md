@@ -29,6 +29,12 @@ media:
     media_url: https://indonesiaglobal.net/wp-content/uploads/2026/11/63f4e57c-69bb-4ecb-8128-689a8713cb8f-1536x864.jpeg
     publisher: Indonesiaglobal.net
     caption: 'Composite lead image on the Indonesiaglobal report: the operation''s headline over a photograph of the cannabis field during the destruction; the outlet gives no caption or credit.'
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 3, 4, 5, 9, 10, 11, 13]
+  details.agency_types: [2, 3, 4, 5, 9, 10, 11, 13]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9b110957c57a1cae8e942c323efa3a00

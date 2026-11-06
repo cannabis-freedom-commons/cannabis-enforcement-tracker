@@ -20,6 +20,11 @@ media:
     media_url: https://podrobno.uz/upload/iblock/b2a/6ag7p0tk9lsgz9cee26ebn08j9el6znu/2_ag8xXSA.max_2560x1440.format_webp.jpegquality_90.webp
     publisher: Podrobno.uz
     caption: Detained suspect standing between two masked officers behind rows of seized hashish packages.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9cf6e90f5c1a19e90ba581b68e0bd169

@@ -24,6 +24,11 @@ media:
     media_url: https://singraulimirror.in/assets/uploads/gallary/20261102171519.webp
     publisher: Singrauli Mirror
     caption: Police officers with the accused and the seized packet outside Semariya police station.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5bba3879ebc3c9724682532b6404851b

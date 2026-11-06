@@ -11,6 +11,10 @@ also: [seizure]
 title: Police raid house in Thüste over suspected cannabis grow
 summary: >-
   Police searched a multi-storey house in Thüste, Salzhemmendorf, on 10 April 2026 for a suspected indoor cannabis plantation after an anonymous tip. The Hannover prosecution confirmed the large-scale raid but gave no figures for officers or seized material, saying details would follow on Monday.
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 534c8a78d5b16f640c451c76fabb9a5d

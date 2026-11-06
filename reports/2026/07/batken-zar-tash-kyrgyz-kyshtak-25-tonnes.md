@@ -16,6 +16,14 @@ summary: >-
 figures:
   kg_seized: 2500
   hectares: 4.5
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1, 3]
+  details.environment: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kyrgyzstan, batken, zar-tash, kyrgyz-kyshtak, wild-cannabis, eradication]

@@ -20,6 +20,10 @@ figures:
   kg_seized: 0.225
   charged: 1
 created_by_model: cursor/composer-2.5
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [dugo-selo, zagreb-county, indoor]
 open_questions:

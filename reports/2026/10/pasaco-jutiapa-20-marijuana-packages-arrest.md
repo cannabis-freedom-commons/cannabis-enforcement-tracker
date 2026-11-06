@@ -19,6 +19,11 @@ media:
     media_url: https://www.prensalibre.com/wp-content/uploads/2026/10/DECOMISAN-MARIHUANA-EN-PASACO-JUTIAPA.png
     publisher: Prensa Libre
     caption: 'Photo of the drug packages seized from vehicles in Pasaco, Jutiapa. Photo: PNC via Prensa Libre.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 91a6228bbefb63d1b394f9b915e5414b

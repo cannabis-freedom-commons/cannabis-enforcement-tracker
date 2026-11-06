@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 140.4
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fbc5e9e098ecba14cfd254a39df494e0

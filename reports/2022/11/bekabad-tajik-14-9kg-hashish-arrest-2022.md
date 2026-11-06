@@ -40,6 +40,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2022/11/ahMVOH16674537395966_b.jpg
     publisher: Gazeta.uz
     caption: 'Fourth carousel frame from the same police handout on the Bekabad search, published without its own caption. Photo: press service of the Tashkent region GUVD'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: bf66635f6494bd77a31450b4f5134625

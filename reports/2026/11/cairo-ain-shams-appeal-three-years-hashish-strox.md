@@ -16,6 +16,11 @@ figures:
   arrested: 2
   charged: 2
   prison: 3 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d68411ce95e4a172dea74d4e658ce9b1

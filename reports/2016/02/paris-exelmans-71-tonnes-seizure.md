@@ -17,6 +17,12 @@ figures:
         currency: EUR
     arrested: 1
 created_by_model: meta/muse-spark
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [paris, record-haul, customs]
 open_questions:

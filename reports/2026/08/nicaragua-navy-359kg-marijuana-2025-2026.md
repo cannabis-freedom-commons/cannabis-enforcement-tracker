@@ -12,6 +12,11 @@ summary: >-
   Nicaragua's Naval Force seized 359 kg of marijuana and 351 kg of cocaine between August 2025 and July 2026, part of a 710 kg drug total reported for its 46th anniversary. The report named no detainee figure for the seizures.
 figures:
   kg_seized: 359
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 38da0abeea3628bbd74a6f2c35b708e1

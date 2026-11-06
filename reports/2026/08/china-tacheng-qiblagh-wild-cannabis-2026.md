@@ -13,6 +13,12 @@ summary: >-
   On 3 August 2026, Qiblagh border police in Tacheng prefecture, Xinjiang, uprooted more than 5,000 wild cannabis plants after two children reported suspected drug crops in a village field. Officers and village staff confirmed the plants, cleared the patch and gave the children “little anti-drug guard” certificates.
 figures:
   plants_destroyed: 5000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, tacheng, eradication, wild-cannabis]

@@ -20,6 +20,16 @@ media:
     media_url: https://storage.mwsapis.ru/primamedia-files/big/6271/6270182.png?a2f1a7b4434f0a17fa438e20a19a21f4
     publisher: PrimaMedia
     caption: 'Screenshot from a Primorye police video of the Mak-2026 eradication work. Photo: Police of Primorye, via PrimaMedia'
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 656a2f7b3ff2d4da6e8f50fbdc8b0f5a

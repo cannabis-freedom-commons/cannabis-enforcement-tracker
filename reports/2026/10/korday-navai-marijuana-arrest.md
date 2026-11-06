@@ -13,6 +13,11 @@ summary: Police detained Russian rapper Navai (Navai Bakirov) at the Korday chec
 figures:
     arrested: 3
     kg_seized: 0.0025
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3, 4, 7, 8, 9, 10, 11]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9749b83b5c1e52460887b80df38119cc

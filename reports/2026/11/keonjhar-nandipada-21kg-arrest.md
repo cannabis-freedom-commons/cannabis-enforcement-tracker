@@ -25,6 +25,11 @@ media:
     media_url: https://img-cdn.publive.online/fit-in/1280x720/filters:format(webp)/sambad/media/media_files/2026/11/04/untitled-2026-11-04-12-59-37.png
     publisher: Sambad
     caption: 'Seized ganja and the three arrested accused on Hatadihi Tahasil Road. Photo: sambad.in'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b22f28367028211f47f93bb20c155122

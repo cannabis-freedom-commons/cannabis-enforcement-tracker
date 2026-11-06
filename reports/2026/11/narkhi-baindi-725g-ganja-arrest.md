@@ -20,6 +20,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/05/fata31-narakha-palsa-ka-garafata-ma-gaja-ka-satha-aarapa-satarata-palsa_c6941c6d157e85f0190087ba23c9b6b6.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'Police photo of the accused in Narkhi police custody with the seized ganja. Photo: Police'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3878e99a28f31faf6f2068dd927cfd74

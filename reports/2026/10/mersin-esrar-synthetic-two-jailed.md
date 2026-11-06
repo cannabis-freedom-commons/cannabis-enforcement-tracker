@@ -21,6 +21,11 @@ media:
     media_url: https://img.saraymedya.com/manset/2026/11/mersin-de-uyusturucu-sorusturmasinda-2-kisi-tutuklandi-1793486188.webp
     publisher: Saray Medya
     caption: 'A police display of bagged suspected synthetic cannabinoid and a placard reading ''Mersin synthetic cannabinoid (bonzai raw material), narco'', published with the report on the arrests. Photo: İHA via Saray Medya'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 73dcb09a23c859c3a9481b432fb86adb

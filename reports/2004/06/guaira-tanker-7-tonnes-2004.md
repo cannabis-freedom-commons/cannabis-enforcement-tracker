@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 7000.129
   arrested: 1
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guaira, parana, policia-federal, paraguay-border, tanker]

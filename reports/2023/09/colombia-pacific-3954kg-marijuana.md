@@ -29,6 +29,14 @@ media:
     media_url: https://noscogiolanoche.com/wp-content/uploads/2023/10/42_DROGA-WWW-IMAGEN-JUAN-MEJIA.jpg.webp
     publisher: Nos Cogió La Noche
     caption: 'A Colombian Navy photograph of the seized drug haul, published with the report on the Pacific operations. Photo: Armada de Colombia.'
+details:
+  agencies: [co-armada]
+  agency_types: [military]
+  setting: [port]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0dd9434f3616981ff0cb831590a9b169

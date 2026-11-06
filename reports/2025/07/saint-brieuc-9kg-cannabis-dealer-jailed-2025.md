@@ -25,6 +25,13 @@ media:
     media_url: https://media.ouest-france.fr/v1/pictures/MjAyNTA3YmNmMWJjYTlkMzZiMTNiZTY2YTljMTk0NjM3NWE3MjA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b30a2afefde546091c7b3fe04556988feece29cd3a58ca5a3a0a5ef3d10342c2
     publisher: Ouest-France
     caption: 'Detention cells at the Saint-Brieuc police station, the picture published with the report that a 23-year-old man was jailed after his arrest near Rennes. Photo: David Ademas / Ouest-France'
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 870e8aff32f02b8c5596cbc6e4189754

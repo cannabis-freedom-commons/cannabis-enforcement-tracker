@@ -19,6 +19,14 @@ figures:
   hectares: 17
   value: { amount: 4000000, currency: INR }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [kandhamal, phiringia, operation-green, eradication]
 sources:

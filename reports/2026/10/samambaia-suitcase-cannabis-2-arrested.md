@@ -20,6 +20,15 @@ media:
     media_url: https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/01190240/WhatsApp-Image-2026-11-01-at-05.55.10-620x620.jpeg
     publisher: Jornal de Brasília
     caption: 'Photo published with the report on the Samambaia seizure. Photo: PMDF'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2f0677d63ad1ba5b546a20f4a4c3fd5e

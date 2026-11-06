@@ -20,6 +20,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2022/07/LPhh5R16582209838010_l.jpg
     publisher: Gazeta.uz
     caption: Photo published with the report on the Pakhtaabad detention, credited to the press service of the Andijan regional internal affairs directorate; the caption repeats the headline and does not describe who or what is shown.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 739d6cd2d750fa254a77b44268a285ac

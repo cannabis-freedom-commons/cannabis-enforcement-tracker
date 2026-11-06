@@ -27,6 +27,12 @@ media:
     publisher: Avenir Guinée
     caption: Second photograph published with the report of the same presentation; the page gives no separate caption.
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [lola, gueasso, gendarmerie, plantation, nzerekore]
 sources:

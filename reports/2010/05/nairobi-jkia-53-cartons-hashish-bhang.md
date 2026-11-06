@@ -14,6 +14,13 @@ summary: >-
   South Africa and labelled as maize seeds; no one had come to claim the cargo.
 figures:
   kg_seized: 50
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [nairobi, airport, hashish, trafficking]

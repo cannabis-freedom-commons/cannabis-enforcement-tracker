@@ -16,6 +16,13 @@ figures:
   charged: 2
   kg_seized: 0.5
   prison: 12 months, 6 firm (the woman); one extra year (the detainee)
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6180332251a84660ef0282410f28e1a3

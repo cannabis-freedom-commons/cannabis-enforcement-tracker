@@ -19,6 +19,14 @@ figures:
   kg_seized: 220
   value: { amount: 413000, currency: EUR }
 created_by_model: xai/grok-4.7
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  environment: [outdoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 tags: [guardia-civil, huesca, outdoor]
 open_questions:

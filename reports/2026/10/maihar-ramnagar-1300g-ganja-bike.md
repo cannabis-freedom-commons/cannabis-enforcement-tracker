@@ -24,6 +24,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/31/5a5725a6-b085-4c30-ac22-e2df98cc8db9_1793457628886/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'The 43-second Dainik Bhaskar video report on the arrest of a 60-year-old man with 1.30 kg of ganja in Maihar and the seizure of his motorcycle. Video: Dainik Bhaskar.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 96a1cb6d8e2160530c9e3f36af029440

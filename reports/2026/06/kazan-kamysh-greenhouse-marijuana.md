@@ -24,6 +24,10 @@ media:
     media_url: https://mvdmedia.ru/upload/iblock/f1b/tjg0mn37538c5c5jf0awca36mq6is0lt.png
     publisher: МВД Медиа
     caption: 'Seized plants and marijuana from the Kamysh search. Photo: press service of the Tatarstan MVD'
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [kazan, tatarstan, greenhouse, russia]

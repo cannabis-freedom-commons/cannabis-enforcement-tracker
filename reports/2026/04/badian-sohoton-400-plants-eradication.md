@@ -21,6 +21,14 @@ media:
     media_url: https://cebudailynews.inquirer.net/files/2026/04/IMG_6842-1-1024x788.jpg
     publisher: Cebu Daily News
     caption: Uprooted marijuana plants destroyed during the police operation in Sitio Lawaan, Barangay Sohoton, Badian, Cebu. Photo courtesy of Badian Municipal Police Station
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dbc69a962f6eb725bd91b887162c8319

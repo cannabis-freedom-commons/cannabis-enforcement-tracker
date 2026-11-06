@@ -20,6 +20,11 @@ media:
     media_url: https://guinee28.info/wp-content/uploads/2024/06/IMG_9834.jpeg
     publisher: Guinee28
     caption: Press-presentation photo showing officers and onlookers with the stacked seized cannabis packages in Forécariah.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 057a94255cb2df9b645e8082d70d71bf

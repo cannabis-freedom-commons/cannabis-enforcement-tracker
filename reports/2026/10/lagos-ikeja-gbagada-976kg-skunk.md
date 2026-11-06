@@ -16,6 +16,15 @@ summary: >-
   to the Mainland; no arrests were reported for the seizures.
 figures:
   kg_seized: 976
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 18, 20, 21, 22, 23, 24, 25, 26]
+  details.agency_types: [1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 18, 20, 21, 22, 23, 24, 25, 26]
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lagos, skunk, ndlea, bus-interception]

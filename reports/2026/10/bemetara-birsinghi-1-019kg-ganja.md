@@ -29,6 +29,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/26/4196d05b-f2f1-49cd-86c7-22a3d2129f77_1793006975744/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar''s 36-second video report on the arrest and the 1 kg 19 g ganja seizure near Birsinghi. Video: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 757c44296a5683ca37bcd6c7875bf48d

@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 10000
   arrested: 1
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [orange-walk, san-carlos, plantation]

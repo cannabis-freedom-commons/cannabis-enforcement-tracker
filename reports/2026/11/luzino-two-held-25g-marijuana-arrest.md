@@ -36,6 +36,11 @@ media:
     media_url: http://nadmorski24.pl/publicTmp/pictures/400x/352867/y8m1p3w4k0o0u1g7s953o7z8q7x8c3m9.webp
     publisher: Nadmorski24.pl
     caption: 'Police handout gallery photo published with the Luzino seizure report. Photo: KPP Wejherowo'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 097823c7b2e53d5fc0d67719cc38c477

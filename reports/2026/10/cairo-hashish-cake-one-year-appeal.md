@@ -17,6 +17,11 @@ figures:
   charged: 2
   prison: 1 year
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 tags: [cairo, hashish, court]
 open_questions:

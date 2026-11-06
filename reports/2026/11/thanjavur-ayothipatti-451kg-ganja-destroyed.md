@@ -18,6 +18,11 @@ media:
     media_url: https://static.toiimg.com/thumb/msid-135507897,imgsize-950173,width-400,height-225,resizemode-75/img-20261103-wa0019jpg.jpg
     publisher: The Times of India
     caption: Police officials destroying the seized cannabis in the incinerator.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 61e19a80dd8ba89981a0e83e29644223

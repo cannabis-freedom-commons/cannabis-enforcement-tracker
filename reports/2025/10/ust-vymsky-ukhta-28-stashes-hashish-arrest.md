@@ -25,6 +25,11 @@ media:
     media_url: https://rutube.ru/play/embed/9b8c253c67edda4dc6b065c9474a67b6
     publisher: МВД МЕДИА
     caption: 'Police operational video embedded in the ministry''s report on the detention in the Ust-Vymsky district and the 28 stashes found in Ukhta. Video: Interior Ministry for the Komi Republic'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 66cdf72a3cfc48fdf4ec0910e99836c1

@@ -14,6 +14,10 @@ summary: >-
   Police in Georgia detained two people in separate operations, including a controlled delivery of a parcel from abroad that held about 200 THC capsules. The second detention at Tbilisi airport involved methadone and buprenorphine, with both cases investigated as especially large-scale import punishable by up to life imprisonment.
 figures:
   arrested: 2
+details:
+  setting: [airport, mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c9f00b79f2855a71b48bfd858ea526b0

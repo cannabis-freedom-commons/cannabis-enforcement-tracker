@@ -41,6 +41,13 @@ media:
     media_url: https://harvest-media-clips.sinclairstoryline.com/WPEC/2026-09-03T21:04:50.972Z/Live-DVR/95126fbc-cb2c-421e-be4d-18cf64d4fe4/mp4/index.mp4
     publisher: CBS12
     caption: Video report on the convicted felon drug trafficking charges in Fort Pierce
+details:
+  activity: [trafficking]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fee58d243687c801d4bf76caa97426e9

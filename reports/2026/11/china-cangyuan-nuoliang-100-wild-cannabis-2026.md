@@ -13,6 +13,12 @@ summary: >-
   Nuoliang anti-drug workers uprooted more than 100 wild cannabis plants near a villager's fields in Cangyuan County after a resident tip. The workers found the patch during a follow-up carpet search and cleared all plants on the spot.
 figures:
   plants_destroyed: 100
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bda723edf5b054d86070646fba67f20d

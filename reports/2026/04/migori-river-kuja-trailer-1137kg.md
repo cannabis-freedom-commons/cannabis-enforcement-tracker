@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1137.8
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [migori, rongo, river-kuja, trailer, trafficking]

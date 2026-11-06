@@ -17,6 +17,15 @@ figures:
   value:
     amount: 343000
     currency: EUR
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0578429ed6f88a5b3cf0ff0c0cf8f742

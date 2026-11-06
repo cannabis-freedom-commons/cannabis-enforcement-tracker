@@ -14,6 +14,16 @@ summary: >-
   cannabis and cash. No one was arrested in the raid, the first dispensary raid of
   the new administration.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dispensary, obama-administration]
 open_questions:

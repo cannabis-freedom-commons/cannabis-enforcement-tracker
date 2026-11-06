@@ -23,6 +23,10 @@ media:
     media_url: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_avif,q_auto:best/newscms/2017_51/2271366/171222-york-county-sheriff-marijuana-bust-ew-917a.jpg
     publisher: NBC News
     caption: 'Bags of the roughly 60 pounds of marijuana found in the couple''s Toyota Tacoma on Dec. 19, 2017. Photo: York County Sheriff''s Department'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2770116d7ca2706b8703b022adbc93bb

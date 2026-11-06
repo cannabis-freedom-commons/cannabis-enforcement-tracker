@@ -18,6 +18,12 @@ figures:
   arrested: 5
   hectares: 40
 created_by_model: meta/muse-spark
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ndlea, oyo, hemp-plantation]
 sources:

@@ -17,6 +17,12 @@ figures:
   charged: 2
   kg_seized: 2.17486
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [bukit-merah, cnb, mandatory-death-penalty]
 sources:

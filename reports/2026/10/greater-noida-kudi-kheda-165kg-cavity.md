@@ -20,6 +20,10 @@ figures:
   kg_seized: 165.7
   value: { amount: 10000000, currency: INR }
 created_by_model: unknown
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [truck, scout-car, concealment, odisha-route]
 sources:

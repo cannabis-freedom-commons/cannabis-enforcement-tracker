@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.268
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9916b91361b3bd4b62be297826f82fb1

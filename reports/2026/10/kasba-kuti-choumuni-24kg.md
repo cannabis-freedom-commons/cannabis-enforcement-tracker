@@ -21,6 +21,10 @@ media:
     media_url: https://channels.com.bd/media/1793448741_new-project-43.webp
     publisher: Channel S
     caption: 'Two police officers and the two arrested men with packages of seized cannabis after the arrest. Photo: Channel S'
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c6a6256616d8db9ad7da7810e2d0082f

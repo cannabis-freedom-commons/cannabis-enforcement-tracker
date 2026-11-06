@@ -16,6 +16,11 @@ figures:
   arrested: 1
   charged: 1
   prison: life
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e83067ea7c636066509d93d45e62a3f

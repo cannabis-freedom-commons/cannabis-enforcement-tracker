@@ -19,6 +19,17 @@ figures:
   arrested: 9
   kg_seized: 10000
   value: { amount: 20000000, currency: EUR }
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [quest, guardia-di-finanza, maritime, hashish, malta]

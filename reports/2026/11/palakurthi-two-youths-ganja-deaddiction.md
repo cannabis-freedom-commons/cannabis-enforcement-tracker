@@ -12,6 +12,11 @@ summary: >-
   Palakurthi police detained two youths caught consuming ganja after confirmation tests came back positive. A magistrate directed both to the Jangaon de-addiction centre for 15 days.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 966c2a50be7b1efa5876f533ed0b20e7

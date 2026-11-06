@@ -36,6 +36,15 @@ media:
     media_url: https://files.agoramt.com.br/2026/10/viatura-forca-tatica.jpeg
     publisher: Agora MT
     caption: 'A Força Tática vehicle during the police action in the Tancredo Neves neighbourhood. Photo: Gustavo Sabino – TV Cidade Record'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d141e6ab5018b8906af873c87d10d4a5

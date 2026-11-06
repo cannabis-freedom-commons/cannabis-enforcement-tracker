@@ -20,6 +20,12 @@ media:
     media_url: https://pvhnoticias.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-18.05.44.jpeg
     publisher: PVH Notícias
     caption: Photo accompanying the report on the monitored apenado arrested with drug portions in Nova Esperança.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2, 4]
+  details.agency_types: [2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05f8bf11304a7bea31db6e52caa0d588

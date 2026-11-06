@@ -12,6 +12,10 @@ summary: >-
   Police in Dedza arrested 46-year-old Mayamiko Empraim on suspicion of supplying chamba to three pupils aged 13 to 15 at Kapalamula Primary School. He was in custody and expected to face a charge of possessing cannabis sativa after a school outreach programme led to the report.
 figures:
   arrested: 1
+details:
+  setting: [school]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 917a4849fd1b2510f0468a43bde19fc7

@@ -19,6 +19,10 @@ figures:
   arrested: 1
   plants_destroyed: 60
   kg_seized: 5.4
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [covasna, diicot, indoor]

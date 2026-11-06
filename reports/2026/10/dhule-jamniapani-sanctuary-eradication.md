@@ -16,6 +16,12 @@ summary: >-
   formalities; no arrests were reported.
 figures:
   hectares: 2.87
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [dri, sanctuary, maharashtra]

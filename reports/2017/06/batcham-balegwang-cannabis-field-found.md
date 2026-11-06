@@ -12,6 +12,12 @@ summary: >-
   On 20 June 2017 Mbouda gendarmes uncovered a one-hectare cannabis plantation at Balegwang in Batcham after residents tipped them off; no grower had been arrested. The force guarded the site and planned to return within days to destroy it.
 figures:
   hectares: 1
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9bc86bc031c7fb1f76d62dc32bfe0f84

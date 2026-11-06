@@ -20,6 +20,11 @@ media:
     media_url: https://haberton.com/wp-content/uploads/2026/11/dha-1159538-1793786899.jpg
     publisher: Haberton
     caption: 'Photo of the Kağıthane drug operation that led to 2 detentions. Photo: DHA via Haberton'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6, 7, 8, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d0e9f3b6cf469ed34378963b74cb7a7c

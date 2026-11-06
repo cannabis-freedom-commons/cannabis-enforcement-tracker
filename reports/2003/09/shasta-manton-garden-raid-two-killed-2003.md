@@ -16,6 +16,12 @@ summary: >-
 figures:
   deaths: 2
   plants_destroyed: 27262
+details:
+  agencies: [us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [camp, shasta-county, manton]

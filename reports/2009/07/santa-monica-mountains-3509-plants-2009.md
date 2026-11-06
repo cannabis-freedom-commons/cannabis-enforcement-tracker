@@ -16,6 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 3509
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [nps, camp, public-lands, malibu]
 open_questions:

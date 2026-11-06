@@ -21,6 +21,17 @@ media:
     media_url: https://cdn.24.co.za/files/Cms/General/d/11038/ecbc9a908f194235895154b8e45db5da.jpg
     publisher: News24
     caption: 'The arrested taxi commuter, with the dagga he carried wrapped around his waist. Photo: Supplied/SAPS'
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [4]
+  details.agency_types: [4]
+  details.products: [1, 2, 3, 4]
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3b51d2c8d50037338681a74ebe6cd89a

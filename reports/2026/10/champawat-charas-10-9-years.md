@@ -17,6 +17,11 @@ figures:
   charged: 2
   kg_seized: 1.88
   prison: 10 years and 9 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9ba7bffdd9149ff5070736ea753f74c

@@ -15,6 +15,12 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 79
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 09be475e6b44b2578ba45d4eaa7a432b

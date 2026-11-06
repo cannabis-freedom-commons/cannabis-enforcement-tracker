@@ -18,6 +18,13 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 84
+details:
+  setting: [border]
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [namanga, border, tanzania-route, bhang]

@@ -14,6 +14,11 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 0.2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2a9fc350336be92bddfa23376d8ff285

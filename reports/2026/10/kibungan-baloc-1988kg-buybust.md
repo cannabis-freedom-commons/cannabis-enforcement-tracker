@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 19.88
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibungan, benguet, pdea, buy-bust]

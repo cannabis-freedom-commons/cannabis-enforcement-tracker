@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.5
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [bangladesh, brahmanbaria, dnc, ganja]

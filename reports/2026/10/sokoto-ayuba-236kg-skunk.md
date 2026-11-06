@@ -17,6 +17,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 236.6
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
+  details.agency_types: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
+  details.products: [1, 2, 4, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 20, 21]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sokoto, skunk, ndlea, zone-7]

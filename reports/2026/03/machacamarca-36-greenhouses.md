@@ -15,6 +15,12 @@ summary: >-
   Oruro prosecutor put the plants at about 12,600 kilograms.
 figures:
   kg_seized: 12600
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [machacamarca, potosi, felcn]

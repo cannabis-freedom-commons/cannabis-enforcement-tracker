@@ -18,6 +18,11 @@ figures:
   kg_seized: 7000
   arrested: 7
   value: { amount: 35000000, currency: EUR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, morocco-route, rungis-investigation]

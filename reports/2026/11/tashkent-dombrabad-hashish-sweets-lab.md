@@ -35,6 +35,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/5f/28/5f28c909-f554-47fe-be2f-d7cf9233e4b7/narkolabaratoria0411_20261104123925.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Lead picture captioned as made from State Security Service video footage of the Tashkent laboratory case. Photo: Image made from State Security Service video.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64c2d440e764c8dc20efdd705f426a31

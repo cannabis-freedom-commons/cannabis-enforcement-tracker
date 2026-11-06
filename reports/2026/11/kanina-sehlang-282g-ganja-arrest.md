@@ -26,6 +26,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/01/661b6eb9-4738-4d79-83f3-1837647c6438_1793531049302.jpg
     publisher: Dainik Bhaskar
     caption: 'Mahendragarh police holding the accused drug-trafficking suspect. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b8dac7e6649ab7a95c28dc5906050b8b

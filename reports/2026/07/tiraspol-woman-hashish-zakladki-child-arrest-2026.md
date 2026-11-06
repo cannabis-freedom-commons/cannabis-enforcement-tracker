@@ -13,6 +13,11 @@ summary: >-
   Transnistrian police detained a 41-year-old woman from Bender on Yunosti Street in Tiraspol on 2 July 2026 and found a master stash of 200 wraps of hashish, which experts classified as an especially large amount. Investigators say she worked as a drug courier for two online shops and took her underage son to the hiding places as cover.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aa628ba2cc74d1dce8d56faecd037810

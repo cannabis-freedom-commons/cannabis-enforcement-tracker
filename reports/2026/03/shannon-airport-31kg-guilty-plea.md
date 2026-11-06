@@ -19,6 +19,12 @@ figures:
   value:
     amount: 620000
     currency: EUR
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 525bdbdfb5590421922d709dd86f18c8

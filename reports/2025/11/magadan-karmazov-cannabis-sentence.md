@@ -20,6 +20,10 @@ figures:
   plants_destroyed: 35
   kg_seized: 4
   prison: 6 years
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [magadan, cultivation, sentence, russia]

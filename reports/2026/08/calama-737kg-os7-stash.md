@@ -18,6 +18,12 @@ figures:
   arrested: 1
   kg_seized: 737.3
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [calama, os7, bolivia-route]
 open_questions:

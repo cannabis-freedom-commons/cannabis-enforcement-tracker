@@ -22,6 +22,11 @@ figures:
   fine: { amount: 15000, currency: EUR }
   value: { amount: 328000, currency: EUR }
 created_by_model: spacexai/grok-4.7
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [mosta, resin]
 open_questions:

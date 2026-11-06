@@ -16,6 +16,15 @@ summary: >-
 figures:
   kg_seized: 2850
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [senad, hashish, capitan-bado]
 media:

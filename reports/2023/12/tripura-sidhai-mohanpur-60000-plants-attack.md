@@ -20,6 +20,11 @@ media:
     url: https://www.hindustantimes.com/india-news/tripura-cops-who-destroyed-60-000-cannabis-plants-attacked-5-hurt-official-101702566442239.html
     publisher: Hindustan Times
     caption: 'The scene of the attack in Panchabati, Sidhai Mohanpur, West Tripura. Photo: West Tripura police (X/wd_police), via Hindustan Times.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, ganja, west-tripura, sidhai-mohanpur, police-attack]

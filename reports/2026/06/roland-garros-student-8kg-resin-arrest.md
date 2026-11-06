@@ -20,6 +20,11 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/CEZGG3NZJlgW67_mUgd2ihu_lFo/0x48:930x572/900x506/filters:format(webp):quality(80)/outremer%2F2026%2F07%2F02%2F6a465131aaf63247305482.jpg
     publisher: Réunion La 1ère
     caption: 'Customs photo of the seized cannabis resin packed across several bags. Photo: Douanes de La Réunion'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4dfcb28e0ddc5e479001c15bba17ccf8

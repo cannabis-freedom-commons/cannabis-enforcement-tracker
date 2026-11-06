@@ -18,6 +18,10 @@ figures:
   kg_seized: 3380
   value: { amount: 30600000, currency: JMD }
 created_by_model: meta/muse-spark
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [operation-kingfish, kingston, export, drug-for-guns]
 open_questions:

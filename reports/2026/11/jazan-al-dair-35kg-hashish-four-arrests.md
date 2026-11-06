@@ -20,6 +20,11 @@ media:
     media_url: https://pbs.twimg.com/media/HWWTQf1W0AA5_jb?format=webp&name=large
     publisher: حرس الحدود السعودي
     caption: 'Photograph posted by the Saudi Border Guard with its 5 November 2026 announcement of the four Jazan arrests and the 35 kg of hashish; the post carries no separate caption for the picture. Photo: حرس الحدود السعودي'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d60324bf1368d85f3e59fbf5fccde8be

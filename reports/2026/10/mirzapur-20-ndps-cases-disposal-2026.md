@@ -27,6 +27,11 @@ media:
     media_url: https://s3.ap-south-1.amazonaws.com/static.dynamitenews.com/wp-content/uploads/sites/2/2026/10/UP-NEWS-124.jpg
     publisher: Dynamite News Hindi
     caption: 'Photograph published with the report on the disposal, captioned "the special drive being run in the district" and credited "photo source: Dynamite News".'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3de3c589c9f17e5e2cf1cc059da05cf2

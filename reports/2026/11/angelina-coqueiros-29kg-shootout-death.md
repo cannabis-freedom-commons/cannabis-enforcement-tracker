@@ -30,6 +30,12 @@ media:
     media_url: https://jornalrazao.com/wp-content/uploads/2026/11/traficante-atira-pmsc-neutralizado-angelina-major-gercino-galeria-04.jpg
     publisher: Jornal Razão
     caption: Photo of the 29 kg of cannabis seized by the PMSC.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [4, 5]
+  details.agency_types: [4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8004069ebfb3b48ca346f8217906d5c7

@@ -16,6 +16,17 @@ summary: >-
 figures:
   kg_seized: 1300
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp, ca-cbsa]
+  agency_types: [police, customs]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [hashish, container, detector-dog]
 open_questions:

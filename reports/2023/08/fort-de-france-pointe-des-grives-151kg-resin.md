@@ -13,6 +13,17 @@ summary: >-
   Officers of France's Ofast anti-narcotics office searched a moving company in Martinique and found 151 kilos of cannabis resin hidden in household appliances inside a container sent from Le Havre. No one came to claim the load, and an investigation was opened to find those who ordered it.
 figures:
   kg_seized: 151
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b22f9976a5cbb8ae1ab5ac3b057598d3

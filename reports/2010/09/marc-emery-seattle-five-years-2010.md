@@ -15,6 +15,15 @@ summary: >-
 figures:
   prison: 5 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: seeds}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 tags: [seeds, extradition, activism]
 sources:

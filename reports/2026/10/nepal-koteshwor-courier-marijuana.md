@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.338
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: unknown
 tags: [narcotics-control-bureau, courier, kathmandu]

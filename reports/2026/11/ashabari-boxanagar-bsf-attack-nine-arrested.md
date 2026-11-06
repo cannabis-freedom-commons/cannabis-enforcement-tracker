@@ -13,6 +13,15 @@ summary: >-
   Tripura police arrested nine people after a mob attacked BSF personnel at Ashabari village in Sepahijala district, injuring three troopers. Police said the clash followed a BSF anti-smuggling action in which personnel recovered packets of ganja.
 figures:
   arrested: 9
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3, 4, 5]
+  details.agency_types: [1, 3, 4, 5]
+  details.products: [1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 39d81fccd51892dea10d0d03fcfcdda5

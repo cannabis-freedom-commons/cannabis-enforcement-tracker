@@ -22,6 +22,10 @@ figures:
   charged: 2
   value: { amount: 10440, currency: XCD }
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 3]
 status: verified
 tags: [laborie, plantation, rslpf]
 sources:

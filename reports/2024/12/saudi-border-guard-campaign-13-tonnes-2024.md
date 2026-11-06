@@ -17,6 +17,11 @@ summary: >-
 figures:
   arrested: 1823
   kg_seized: 1300
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [border-guard, hashish, jazan, asir, najran]

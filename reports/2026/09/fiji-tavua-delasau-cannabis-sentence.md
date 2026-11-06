@@ -17,6 +17,10 @@ summary: >-
 figures:
   prison: 5 years 11 months
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [cultivation, tavua]
 sources:

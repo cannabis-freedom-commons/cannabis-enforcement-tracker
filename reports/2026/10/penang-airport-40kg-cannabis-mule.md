@@ -29,6 +29,10 @@ media:
     media_url: https://www.sinarharian.com.my/uploads/images/2026/11/02/3697503.webp
     publisher: Sinar Harian
     caption: Photo published with the report captioned as police detaining a local man with 40 kg of cannabis buds worth RM3.2 million for suspected smuggling to London in the LTAPP raid on 18 October.
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 3, 4, 5, 6, 10, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93d95bb1d2f916a244ecc65ee9f6d089

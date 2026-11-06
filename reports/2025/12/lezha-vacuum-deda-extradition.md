@@ -21,6 +21,12 @@ media:
     media_url: https://media.pamfleti.net/pamfleti.net/media3/-900-0-1762010686xpolicia-durres-433x300-841.jpg
     publisher: Pamfleti
     caption: 'Archive picture of Albanian police cars, not of this arrest; the caption carries the article headline. Photo: Pamfleti'
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3765e9cab210b73e6130e11382fac5d

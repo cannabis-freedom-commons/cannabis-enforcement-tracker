@@ -23,6 +23,11 @@ media:
     media_url: https://www.radiorva.com/media/news/thumb/1280x720_parti-de-lyon-pour-livrer-de-la-drogue-en-auvergne-il-est-arrete-avec-pres-d-un-kilo-de-cannabis-et-156-grammes-de-cocaine_6ae762de8c5dc.webp
     publisher: RVA
     caption: Lead photo on the source page for this Courpière seizure report
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9c79b0c82fa4f7275b5b169ab1d4c322

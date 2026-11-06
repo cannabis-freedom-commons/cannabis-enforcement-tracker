@@ -13,6 +13,14 @@ summary: >-
   Yining County's anti-drug office and county police ran a “ban cultivation, eradicate drugs” sweep that had uprooted more than 10,000 wild cannabis plants by mid-May 2026, according to a county media centre report. Staff searched fields, woodland, abandoned yards and tree belts, destroying plants on the spot and briefing villagers; no arrests were announced.
 figures:
   plants_destroyed: 10000
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, yining-county, wild-cannabis, eradication]

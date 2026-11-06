@@ -25,6 +25,11 @@ media:
     publisher: The Business Standard
     caption: A person works inside the smuggling tunnel in Ceuta, in an undated picture released by Spanish police on 31 March 2026
 created_by_model: unknown
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, tunnel, ceuta, morocco-route]
 sources:

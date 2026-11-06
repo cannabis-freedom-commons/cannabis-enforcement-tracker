@@ -18,6 +18,14 @@ summary: >-
   The growers, led by a suspect known as Mods, escaped.
 figures:
   plants_destroyed: 21200
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sulu, eradication, firearms]

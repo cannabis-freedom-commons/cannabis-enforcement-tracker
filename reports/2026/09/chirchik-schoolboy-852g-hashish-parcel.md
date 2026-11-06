@@ -28,6 +28,13 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/09/1me3dl0akirg6eJKz2z17898343691907_b.webp
     publisher: Gazeta.uz
     caption: 'Customs Committee photo of the seized drugs in the Chirchiq parcel case. Photo: Customs Committee'
+details:
+  setting: [mail]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc5d201595d6b91937c34920e2c76e7c

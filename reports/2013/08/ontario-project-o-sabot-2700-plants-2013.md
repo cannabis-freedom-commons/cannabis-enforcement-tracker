@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 2700
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp, ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [operation-sabot, o-sabot, outdoor-grows]
 sources:

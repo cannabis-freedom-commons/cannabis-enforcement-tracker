@@ -24,6 +24,11 @@ media:
     publisher: The New Region
     caption: Bags of seized narcotics in the Syrian Interior Ministry photo published with the report on the joint operation.
 created_by_model: unknown
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [syria, iraq, hashish, joint-operation]
 sources:

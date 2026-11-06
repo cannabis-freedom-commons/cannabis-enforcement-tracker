@@ -43,6 +43,14 @@ media:
     media_url: https://www.soualigapost.com/sites/soualiga-post/files/articles/2022_mgml_002_a_001_001.jpg
     publisher: Soualigapost
     caption: A view of the deck of the frigate Germinal during the operation, among the series of photos published with the seizure report.
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  setting: [port]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93634b244d40a7306ff9fbfda873eefe

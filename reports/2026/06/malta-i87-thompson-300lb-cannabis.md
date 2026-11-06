@@ -20,6 +20,12 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 136.078
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [malta, northway, k9, border-patrol]

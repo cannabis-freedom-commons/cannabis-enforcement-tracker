@@ -16,6 +16,10 @@ summary: >-
   bottle. Forensic tests confirmed marijuana, and customs opened criminal cases
   that carry up to seven years in prison.
 created_by_model: spacexai/grok-4.7
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [vitebsk, customs, border]
 open_questions:

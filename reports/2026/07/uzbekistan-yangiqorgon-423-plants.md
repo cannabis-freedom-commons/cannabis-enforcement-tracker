@@ -19,6 +19,10 @@ summary: >-
   reported on 24 July 2026.
 figures:
   plants_destroyed: 423
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

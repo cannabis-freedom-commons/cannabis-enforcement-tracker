@@ -30,6 +30,11 @@ media:
     media_url: https://www.dailymotion.com/embed/video/xbtgc36?syndication=273778
     publisher: OKDIARIO
     caption: Video of the police searches of the two homes in Orihuela
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86293d0ace2812402dff42d403981b13

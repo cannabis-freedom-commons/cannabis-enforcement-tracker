@@ -18,6 +18,12 @@ figures:
   kg_seized: 1845
   arrested: 2
 created_by_model: spacexai/grok-4.7
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [taltal, antofagasta, carabineros]
 open_questions:

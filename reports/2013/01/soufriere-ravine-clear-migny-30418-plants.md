@@ -13,6 +13,10 @@ summary: >-
   Soufriere police destroyed 30,418 cannabis plants across three plantations at Ravine Clear and Migny in January 2013, also seizing a bucket of compressed marijuana. No one was arrested in either eradication exercise.
 figures:
   plants_destroyed: 30418
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 30e0b8bc60e0cfc5b5ff3a9d3062b926

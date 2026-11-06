@@ -15,6 +15,13 @@ summary: >-
   analysis confirmed THC; the case was handled under customs drug-enforcement rules with no arrest named.
 figures:
   kg_seized: 0.06
+details:
+  setting: [airport]
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [beijing, customs, airport, vape]

@@ -32,6 +32,14 @@ media:
     media_url: https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4628819_hls/master.m3u8
     publisher: CBS Baltimore
     caption: 39-second video report on more than 10,000 pounds of marijuana seized in Baltimore bound for England.
+details:
+  agencies: [us-cbp, us-hsi]
+  agency_types: [customs, police]
+  setting: [port]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 96abe7ed0bb9b8748e285a9940b38577

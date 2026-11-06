@@ -18,6 +18,11 @@ figures:
   arrested: 4
   charged: 2
   value: { amount: 350000, currency: GBP }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [antrim, coleraine, resin]

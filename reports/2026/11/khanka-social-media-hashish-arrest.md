@@ -13,6 +13,11 @@ summary: >-
   Police in Khanka, Qalyubia arrested an unemployed man accused of running a social-media page to sell drugs, seizing hashish and a mobile phone. He confessed to managing the page to promote narcotics.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ffd7d3e4f33a2b5a49f03156c392c5aa

@@ -26,6 +26,11 @@ media:
     media_url: https://cdn.iha.com.tr/Contents/images/2026/10/26/20261025aw818109-1.jpg
     publisher: İhlas Haber Ajansı
     caption: Second photo on the İHA page for this seizure report
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df673d5f4464f49b4041dbd29b00de66

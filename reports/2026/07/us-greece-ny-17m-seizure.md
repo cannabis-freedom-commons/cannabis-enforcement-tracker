@@ -19,6 +19,12 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 9350
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [new-york, ocm, dea]

@@ -14,6 +14,11 @@ summary: >-
   Egypt's Interior Ministry said on 31 October 2026 that security services arrested a man in 10th of Ramadan, Sharqia Governorate, for running a social-media page that advertised drugs for sale. Officers found a quantity of hashish, a private car and a mobile phone, and the man confessed to holding the drugs for trafficking, the ministry said.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 60658838c6f72fd35b35e73ad427ba3a

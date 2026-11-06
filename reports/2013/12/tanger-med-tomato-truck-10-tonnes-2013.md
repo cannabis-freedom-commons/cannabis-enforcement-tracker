@@ -18,6 +18,11 @@ figures:
   arrested: 1
   kg_seized: 10000
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, tanger-med, smuggling]
 sources:

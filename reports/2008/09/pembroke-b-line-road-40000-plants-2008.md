@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 40000
   value: { amount: 40000000, currency: CAD }
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [opp, grow-op, cornfield]

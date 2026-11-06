@@ -18,6 +18,10 @@ figures:
   kg_seized: 16.936
   prison: death by hanging
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [death-sentence, trafficking, kedah]
 open_questions:

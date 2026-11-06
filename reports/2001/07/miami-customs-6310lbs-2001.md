@@ -15,6 +15,10 @@ summary: >-
   called at Colón, Panama, after Jamaica; no one was charged.
 figures:
   kg_seized: 2860
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [customs, port-of-miami, maritime]

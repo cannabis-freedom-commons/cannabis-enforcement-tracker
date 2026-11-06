@@ -15,6 +15,11 @@ figures:
   arrested: 2
   kg_seized: 78
   prison: 24 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 37af2238c619b97af243ccb7164e94c0

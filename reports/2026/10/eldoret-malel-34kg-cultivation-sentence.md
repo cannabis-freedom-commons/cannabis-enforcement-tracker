@@ -27,6 +27,11 @@ figures:
   value:
     amount: 1032000
     currency: KES
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

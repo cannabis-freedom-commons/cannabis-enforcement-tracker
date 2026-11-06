@@ -14,6 +14,12 @@ summary: >-
   heroin, after court certification under the NDPS Act.
 figures:
   kg_seized: 220000
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [odisha, stf, disposal]

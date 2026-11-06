@@ -19,6 +19,17 @@ figures:
   arrested: 1
   kg_seized: 4.28
 created_by_model: unknown
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [kush, airport, concealment, sarees]
 sources:

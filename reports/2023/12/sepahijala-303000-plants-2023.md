@@ -15,6 +15,13 @@ summary: >-
 figures:
   plants_destroyed: 303000
   hectares: 61.31
+details:
+  activity: [cultivation]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tripura, sepahijala, ganja, eradication, war-on-drugs]

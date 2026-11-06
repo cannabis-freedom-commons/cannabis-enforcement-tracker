@@ -13,6 +13,11 @@ summary: >-
   Porto PSP officers detained five men aged 25 to 47 in Pasteleira, Cerco and São Tomé on 28 August 2024 on suspicion of drug trafficking. Police reported 461 and 32 hashish doses plus 35 cannabis-herb doses alongside cocaine, heroin and over 18,700 euros in cash, with the detainees to face judicial authorities.
 figures:
   arrested: 5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: df8c4dbf7c9c8fd90abe1b330156c3a2

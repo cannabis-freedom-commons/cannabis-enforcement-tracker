@@ -17,6 +17,12 @@ figures:
   fine:
     amount: 304.27
     currency: EUR
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1f0bb8124e9ea807fc25db98613fd528

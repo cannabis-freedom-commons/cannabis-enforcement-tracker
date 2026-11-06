@@ -19,6 +19,11 @@ figures:
   kg_seized: 3000
   value: { amount: 24000000, currency: INR }
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [ganja, koraput, inter-state-racket]
 open_questions:

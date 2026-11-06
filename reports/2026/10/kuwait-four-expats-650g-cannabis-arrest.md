@@ -17,6 +17,11 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 0.65
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: unknown
 tags:

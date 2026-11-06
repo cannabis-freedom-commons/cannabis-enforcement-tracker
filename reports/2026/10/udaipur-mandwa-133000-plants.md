@@ -20,6 +20,12 @@ figures:
   hectares: 57
   value: { amount: 1995000000, currency: INR }
 created_by_model: unknown
+details:
+  agencies: [in-ncb, in-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ncb, antf, operation-ganjagaveshana]
 open_questions:

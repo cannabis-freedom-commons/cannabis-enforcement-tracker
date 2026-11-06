@@ -13,6 +13,11 @@ summary: >-
   Sabha Security Directorate said officers detained an Egyptian man wanted on a fraud charge and then used his phone call to set an ambush for a Libyan man who came to buy hashish. Both were referred to the Public Prosecution on drug, alcohol and fraud charges.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a1a617fe1c20eb5b301e8a9a92effa6b

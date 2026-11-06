@@ -21,6 +21,12 @@ figures:
     amount: 10000000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [revenue, garda, clare, operation-tara]
 open_questions:

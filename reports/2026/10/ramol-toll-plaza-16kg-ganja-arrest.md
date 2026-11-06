@@ -24,6 +24,11 @@ media:
     media_url: https://cdn.gujaratsamachar.com/media/post/2026/10/1141f2ed6920e999121a6ace3ba89d32.jpeg?w=1060&f=webp&q=90
     publisher: Gujarat Samachar
     caption: Lead photo published with the report on the 16.13 kg ganja seizure at the Ramol Expressway toll plaza
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 09b1532ec84049ab173c67657faa05e2

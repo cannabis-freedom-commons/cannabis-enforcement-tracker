@@ -15,6 +15,12 @@ summary: >-
   ministry said the load was sent for forensic tests. No arrests were reported.
 figures:
   kg_seized: 9229.1
+details:
+  agencies: [pe-dirandro]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [loreto, binational, ramon-castilla]

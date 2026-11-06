@@ -46,6 +46,10 @@ media:
     media_url: https://media.ark.org/dps/300-Pounds-Lonoke-County-1024x768.jpg
     publisher: Arkansas Department of Public Safety
     caption: 'Marijuana the agency captions as 300 pounds seized from a Sprinter van in Lonoke County on 3 May 2024. Photo: Arkansas State Police / Arkansas Department of Public Safety'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f37e65e44b4098e11226dd5b2277fcdd

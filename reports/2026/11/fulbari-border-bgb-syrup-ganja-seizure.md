@@ -12,6 +12,17 @@ also: [raid]
 title: BGB seizes cannabis and 98 syrup bottles in Fulbari border raids
 summary: >-
   Border Guard Bangladesh's 15 BGB seized Indian Iscap syrup and cannabis plus a transport motorcycle in two night operations on the Fulbari border on 1 November 2026. The cannabis weight was not published, so only the 98 syrup bottles are quantified and the Tk 158,800 combined drug value is not counted as a cannabis value.
+details:
+  agencies: [bd-bgb]
+  agency_types: [border-guard]
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b94d6d8fd3927d24d3e32c968d2ba5be

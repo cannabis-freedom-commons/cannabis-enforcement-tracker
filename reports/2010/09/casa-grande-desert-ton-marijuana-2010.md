@@ -17,6 +17,12 @@ figures:
   kg_seized: 907
   value: { amount: 1600000, currency: USD }
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cbp, border-patrol, tucson-sector]
 open_questions:

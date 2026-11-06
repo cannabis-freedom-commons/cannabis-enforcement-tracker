@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 1778
   kg_seized: 4.346
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [maule, pdi, plan-cannabis, irrigation]
 media:

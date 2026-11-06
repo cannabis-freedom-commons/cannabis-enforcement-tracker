@@ -20,6 +20,15 @@ media:
     media_url: https://lapiazzaweb.cdn.m33cloud.com/resizer/1140/-1/true/2026_11_05/f62351fe-d605-4e3e-835d-979b2f9596af-1793882529428.jpeg--conselve__pd___mezzo_chilo_di_hashish_nascosto_in_una_valigia__arrestato_23enne_dopo_le_segnalazioni_dei_residenti.jpeg?1793882529556
     publisher: La Piazza Web
     caption: Lead photo of the Conselve arrest article, on the hashish seizure case. Publisher image, credit not stated.
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 79661f739c5ba619c43df5287d2a802f

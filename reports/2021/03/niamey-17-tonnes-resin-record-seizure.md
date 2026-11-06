@@ -19,6 +19,17 @@ figures:
   kg_seized: 17000
   value: { amount: 37000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2, 3, 5]
+  details.agencies: [1, 5]
+  details.agency_types: [1, 5]
+  details.products: [1, 2, 3, 4, 5, 6]
 status: verified
 tags: [hashish, resin, record-seizure, trafficking]
 sources:

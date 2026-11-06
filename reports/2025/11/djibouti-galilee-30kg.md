@@ -17,6 +17,10 @@ figures:
   kg_seized: 29.8
   arrested: 1
 created_by_model: cursor/composer-2.5-fast
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [customs, border, ali-sabieh]
 open_questions:

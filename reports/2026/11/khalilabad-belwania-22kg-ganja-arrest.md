@@ -20,6 +20,11 @@ media:
     media_url: https://www.tarunmitra.in/media-webp/1200/2026-11/img-20261103-wa0240.jpg
     publisher: Tarun Mitra
     caption: Police photo of the 22.400 kg ganja seizure and the two arrested accused.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b2b649c495a4d108f522ea9fe20bc7b0

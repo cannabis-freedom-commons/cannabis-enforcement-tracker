@@ -20,6 +20,15 @@ media:
     url: https://ndlea.gov.ng/blog/ndlea-intercepts-n34bn-loud-opioids-arrests-fake-police-officer-mechanic-drug-dealer
     publisher: National Drug Law Enforcement Agency
     caption: 'Innocent Ekpe and Nduka Joseph hold an NDLEA arrest placard, with seized exhibits displayed in front of them, after their arrest in Asaba. Photo: National Drug Law Enforcement Agency'
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [skunk, delta-state, fake-police, checkpoint, ndlea]

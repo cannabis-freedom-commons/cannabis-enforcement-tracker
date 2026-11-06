@@ -22,6 +22,10 @@ figures:
   value:
     amount: 3660000
     currency: XPF
+details:
+  setting: [school]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2a2a5cf64e96670d92112848d6fcb3d6

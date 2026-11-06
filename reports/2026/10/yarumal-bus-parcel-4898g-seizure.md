@@ -22,6 +22,10 @@ media:
     media_url: https://staticprd.minuto30.com/wp-content/uploads/2026/11/1-yarumal-destacada.webp
     publisher: Minuto30
     caption: 'Two uniformed officers beside the seized packages marked “Marihuana”. Photo: Policía Nacional'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 01c5b01c65ea58e6fd8a05e7d78048e9

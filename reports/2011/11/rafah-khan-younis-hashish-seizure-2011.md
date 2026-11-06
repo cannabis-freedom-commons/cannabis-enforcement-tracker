@@ -13,6 +13,11 @@ summary: >-
   Gaza anti-narcotics police arrested a dealer in Khan Younis with one hashish slab, then ambushed his reported suppliers in Rafah and seized three more slabs. The seized quantity was kept and the accused were detained for completion of legal procedures.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 01cab71d518f6e6302610f914aa5d305

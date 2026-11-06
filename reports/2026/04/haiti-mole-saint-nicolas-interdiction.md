@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1451.5
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mole-saint-nicolas, maritime, us-coast-guard]

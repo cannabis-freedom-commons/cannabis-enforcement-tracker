@@ -14,6 +14,12 @@ summary: >-
   Military police stopped a man in Parque Industrial, Conchal, on 31 October 2026 and seized one portion of marijuana along with two vials of suspected cocaine and R$49. He was taken to Araras, where the case was recorded as drug possession, and released after police procedures.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 443dfde3e1cd4ffe7e346bf228fcce6a

@@ -24,6 +24,13 @@ media:
     media_url: https://cdn.elmundo.sv/wp-content/uploads/2026/11/Detenido-por-drogas.jpg?x-image-process=image/resize,w_890/quality,q_85/format,webp
     publisher: Diario El Mundo
     caption: 'Police photo of the detained young man with seized marijuana bags in Mejicanos. Photo: PNC.'
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d0dbd029cae054fc57b8dca63585bebc

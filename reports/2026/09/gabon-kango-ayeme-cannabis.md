@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [kango, gendarmerie, eradication]
 sources:

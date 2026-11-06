@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 11
   kg_seized: 24000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, boats, record-seizure]

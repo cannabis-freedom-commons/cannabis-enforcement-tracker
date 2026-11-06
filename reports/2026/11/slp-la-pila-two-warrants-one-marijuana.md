@@ -14,6 +14,10 @@ summary: >-
   Investigators served two re-arrest warrants on men already held in La Pila prison in San Luis Potosí after they allegedly breached bail in 2025 drug cases. One warrant alleges marijuana possession against Joel “N”; the other alleges methamphetamine possession against Henry “N” and is noted only as context.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd739818ddb6ebbbbbba429fbea9bbd2

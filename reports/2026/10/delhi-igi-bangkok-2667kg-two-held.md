@@ -18,6 +18,12 @@ figures:
   value:
     amount: 93300000
     currency: INR
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+  details.setting: [1, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1cd0cfe739528fb7261561fc4a8e93a9

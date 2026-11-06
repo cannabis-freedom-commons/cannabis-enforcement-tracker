@@ -18,6 +18,11 @@ figures:
   arrested: 28
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [malkangiri, ganja, inter-state]
 sources:

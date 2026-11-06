@@ -29,6 +29,17 @@ media:
     media_url: https://iol-prod.appspot.com/image/b1bf77b619c8d20dcc2ecc1d66c7dcbf7a61b065/1000
     publisher: Cape Argus
     caption: 'Police at the Mahamba port of entry with the cut-open sealed gas tank holding concealed dagga. Photo: SAPS'
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ebdee82e16c50daaa9598a60794ba6bd

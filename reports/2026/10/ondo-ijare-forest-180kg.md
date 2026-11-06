@@ -23,6 +23,14 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 180
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [forest]
+data_sources:
+  details.agencies: [1, 2, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+  details.agency_types: [1, 2, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+  details.setting: [1, 4, 5, 6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: bbc6da467253d9fbdba96826d7097c90

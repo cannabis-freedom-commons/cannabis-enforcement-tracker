@@ -12,6 +12,12 @@ summary: >-
   one of four alternative-development pilot sites where BNN is trying to move growers to legal
   crops.
 created_by_model: unknown
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: indonesia-north-aceh-cannabis-69-tonnes-2025
 sources:

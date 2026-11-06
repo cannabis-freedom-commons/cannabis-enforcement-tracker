@@ -18,6 +18,12 @@ figures:
   arrested: 20
   kg_seized: 19000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-guardia-civil, es-policia-nacional, es-mossos]
+  agency_types: [gendarmerie, police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags: [hemp-front, catalonia, organised-crime]
 open_questions:

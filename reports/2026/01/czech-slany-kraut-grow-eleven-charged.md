@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 11
   charged: 11
+details:
+  agencies: [cz-npc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [slany, kladno, organised-crime, indoor-grow, cannabis]

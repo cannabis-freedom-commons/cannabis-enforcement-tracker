@@ -18,6 +18,14 @@ summary: >-
   Kirinyaga, who was arrested pending arraignment.
 figures:
   arrested: 1
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ruiru, kirinyaga, nps, trafficking]

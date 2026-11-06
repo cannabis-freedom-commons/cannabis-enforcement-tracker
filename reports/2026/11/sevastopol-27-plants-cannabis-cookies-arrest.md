@@ -22,6 +22,10 @@ media:
     media_url: https://n1s1.hsmedia.ru/55/5c/6f/555c6ff25afd8c077f9f4e0f0a428b8b/656x369_1_db0bc600e4a61878915060379b73fc73@1170x658_0x5XsbG6Vn_1197769657135029771.jpg.webp
     publisher: ФОНТАНКА.ру
     caption: 'MVD Media handout photo published with the report on the Sevastopol seizure. Photo: МВД Медиа'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7fa9f496e01529f22fb4ced7c8895bb

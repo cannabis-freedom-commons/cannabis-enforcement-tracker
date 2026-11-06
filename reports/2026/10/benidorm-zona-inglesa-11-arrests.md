@@ -27,6 +27,15 @@ media:
     media_url: https://marinabaixadigital.es/upload/images/10_2026/9333_sustancia-localizada-por-la-policia-nacional-en-uno-de-los-registros-realizados-en-benidorm.jpg
     publisher: Marina Baixa Digital
     caption: A package of the seized substance found during one of the three searches in Benidorm, laid out for police photographs.
+details:
+  agencies: [es-policia-nacional]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 038b8b7272b81a5f68eabec7443c7f5f

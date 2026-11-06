@@ -19,6 +19,10 @@ figures:
   kg_seized: 5
   prison: 50 years in default
   fine: { amount: 50000000, currency: KES }
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kakamega, sentencing, trafficking]

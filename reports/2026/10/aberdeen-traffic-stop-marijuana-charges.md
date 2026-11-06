@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [possession]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [north-carolina, aberdeen, traffic-stop, possession, firearm]

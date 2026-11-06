@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 4600
   arrested: 4
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [portarlington, laois, garda, customs, durban]

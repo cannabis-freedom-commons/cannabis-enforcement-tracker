@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 178
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 0cc6221521983f1d895049511571c3a3

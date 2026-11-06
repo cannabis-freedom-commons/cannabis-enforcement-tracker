@@ -21,6 +21,11 @@ media:
     media_url: https://coosavalleynews.com/wp-content/uploads/2026/10/devonier-bowers-tineka-foster.jpg
     publisher: Coosa Valley News
     caption: Portraits of Devonier Marques Bowers and Tineka Nicole Foster, the two people arrested in the home search.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 5294436608a68c99bb9d5150df033a21

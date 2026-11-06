@@ -31,6 +31,11 @@ media:
     media_url: https://pkagoj.com/uploads/40795_1793686598.jpg
     publisher: Protidiner Kagoj
     caption: Photo accompanying the report on the biscuit-packet cannabis seizure in Sonargaon
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 7, 8, 9]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bfd856ef7437645f6db4a7db0c89a9a5

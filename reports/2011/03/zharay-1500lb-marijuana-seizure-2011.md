@@ -13,6 +13,11 @@ summary: >-
   Security forces captured several suspected insurgents linked to a drug cache in Zharay district, Kandahar, on 27 March 2011. The operation seized 1,500 pounds of marijuana and 350 pounds of marijuana seeds, as reported by military officials.
 figures:
   kg_seized: 680.4
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 09c5a57801baf98a563be68b9a856e4c

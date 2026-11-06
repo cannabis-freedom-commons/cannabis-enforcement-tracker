@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 74a9ae5025a3c6d0691d994f7bad48cf

@@ -25,6 +25,11 @@ media:
     media_url: https://armenpress.am/resized/1600/storage/images/articles/2026/05/18/IqC4xQPOKUfPuUCnYeqBHHZcuTuFFXVPo8oHPn5J.webp
     publisher: Armenpress
     caption: Photo published with the Armenpress report on the hashish seized from the truck at Agarak.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 91b3b8a876cb50054e99e13b86290665

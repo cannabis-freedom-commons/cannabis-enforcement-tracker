@@ -18,6 +18,11 @@ figures:
   fine:
     amount: 6000
     currency: USD
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 941a98cb3f67f9c2f68d5c8ea8ea4d0d

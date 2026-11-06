@@ -17,6 +17,14 @@ figures:
   value:
     amount: 62776500
     currency: PHP
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 12064dec30ea0096cdd59370f379a0be

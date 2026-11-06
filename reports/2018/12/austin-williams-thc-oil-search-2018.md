@@ -15,6 +15,11 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.311
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 569f2874db8f63cbb0cfc22f1fd69017

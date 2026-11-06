@@ -12,6 +12,10 @@ summary: >-
   California Highway Patrol officers arrested a driver in Madera County on 2 November 2026 after reporting an overpowering scent of cannabis during a cellphone traffic stop at Fourth and I Street. The driver was booked into Madera County Jail for possession of a controlled substance with intent to sell.
 figures:
   arrested: 1
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e32a86671c32efa50d9e6f0d06ca108c

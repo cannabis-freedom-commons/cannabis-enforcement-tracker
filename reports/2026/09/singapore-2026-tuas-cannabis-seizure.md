@@ -12,6 +12,12 @@ summary: >-
   Malaysian man and a 35-year-old Malaysian woman were arrested. The drugs were worth more than S$203,000 and
   could feed about 1,450 abusers for a week, and the amount was twenty…
 created_by_model: unknown
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: singapore-2026-tuas-cannabis-seizure
 sources:

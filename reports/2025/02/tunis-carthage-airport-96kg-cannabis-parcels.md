@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 96.3
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ba45d77db704a41b10a1638117425600

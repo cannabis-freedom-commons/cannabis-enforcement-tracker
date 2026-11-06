@@ -13,6 +13,11 @@ summary: >-
   seeds and products marketed as teas and other goods. A supply investigation was continuing
   when the arrests…
 created_by_model: unknown
+details:
+  products:
+    - {product: seeds}
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: kyrgyzstan-cannabis-product-searches-2026
 tags:

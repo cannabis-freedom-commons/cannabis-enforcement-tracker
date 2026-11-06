@@ -15,6 +15,10 @@ figures:
   arrested: 1
   plants_destroyed: 1383
   hectares: 0.25
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [kammena-vourla, phthiotis, cannabis-farm, eradication]

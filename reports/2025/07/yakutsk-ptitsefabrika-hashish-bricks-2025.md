@@ -25,6 +25,11 @@ media:
     media_url: https://mvdmedia.ru/upload/resize_cache/iblock/e8b/870_870_112e23092a5dbb905c83b3ae67db670d0/9px8s0zhhre9v7ppvkiq1zzvwypovkno.jpeg
     publisher: MVD Media (Russian Interior Ministry)
     caption: 'Police photo of an officer''s hand uncovering dark hashish bars inside a black plastic bag. Photo: Press service of the Interior Ministry for the Republic of Sakha (Yakutia)'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 21130577f26cf1368ba23e60ad6cd1ee

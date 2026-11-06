@@ -20,6 +20,10 @@ media:
     media_url: https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1782319504-cubanos-enfrentan-proceso-judicial-mexico-presunta-venta-ilegal-traves-facebook.jpg
     publisher: CiberCuba
     caption: 'Detained Cubans in Cancún. Photo: Facebook/Policía de Cancún.'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c4d52e64143ef7678c139f8e9862b1a

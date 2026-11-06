@@ -28,6 +28,12 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/08/21/new-project-2026-08-21T083231609_1787281366.jpg
     publisher: Bhaskar English
     caption: 'The five accused in custody with the seized cannabis. Photo: Bhaskar English'
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a176decf0017846ca3532bf4032acb06

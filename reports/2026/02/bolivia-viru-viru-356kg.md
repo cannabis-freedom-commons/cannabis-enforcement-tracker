@@ -17,6 +17,14 @@ summary: >-
 figures:
   kg_seized: 356.75
 created_by_model: openai/gpt-6-luna#max
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [felcn, viru-viru, santa-cruz, airport, miami]
 open_questions:

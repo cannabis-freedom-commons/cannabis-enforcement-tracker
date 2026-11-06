@@ -17,6 +17,10 @@ figures:
   plants_destroyed: 330
   kg_seized: 50
 created_by_model: unknown
+details:
+  setting: [forest]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [achaea, forest, corinth]
 sources:

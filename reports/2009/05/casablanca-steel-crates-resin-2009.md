@@ -14,6 +14,11 @@ summary: >-
   The resin was bound for France; arrest warrants were issued but no arrests were reported.
 figures:
   kg_seized: 20000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [casablanca, hashish, chira, smuggling]

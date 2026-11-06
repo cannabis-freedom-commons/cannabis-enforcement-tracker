@@ -18,6 +18,11 @@ figures:
   value:
     amount: 4160000
     currency: TRY
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 72e6239f8740648da1cdbca1eb009ba0

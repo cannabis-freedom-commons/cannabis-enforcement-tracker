@@ -25,6 +25,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/08/19/be605b78-1a4e-40c7-8da7-dd6163ebbb34_1787139036085.jpg
     publisher: Dainik Bhaskar
     caption: Photo of the Nepali youth in police custody after the Sugauli ganja arrest.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 61d29754193d709258091cac5d77369f

@@ -17,6 +17,10 @@ summary: >-
 figures:
   plants_destroyed: 700
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [mendocino-national-forest, forest-service, glenn-county, eradication]
 sources:

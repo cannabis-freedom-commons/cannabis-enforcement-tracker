@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 51031
   kg_seized: 207
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [rcmp, ottawa, project-sabot]

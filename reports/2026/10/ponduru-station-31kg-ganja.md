@@ -24,6 +24,11 @@ media:
     media_url: https://media.andhrajyothy.com/media/2026/20260822/30ponduru_photo_3a_81488bc5ca_V_gif--625x351-4g.webp
     publisher: Andhrajyothy
     caption: 'Tahsildar and police officers inspect bags of ganja laid out at Ponduru railway station. Photo: Andhrajyothy'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: dc1259251aed250849d01d1203500611

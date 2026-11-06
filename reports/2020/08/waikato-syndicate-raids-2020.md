@@ -38,6 +38,10 @@ media:
     publisher: New Zealand Police
     caption: 'Two motorbikes in a garage seized in the Waikato organised-crime raids. Photo: New Zealand Police'
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [waikato, organised-crime, cultivation]
 sources:

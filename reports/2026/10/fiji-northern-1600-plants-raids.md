@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1600
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [northern-division, cultivation]

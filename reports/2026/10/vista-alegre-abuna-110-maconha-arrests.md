@@ -20,6 +20,12 @@ media:
     media_url: https://www.rondoniadinamica.com/uploads/pujdjoszb8kbmxt.jpg
     publisher: Rondônia Dinâmica
     caption: Lead photo on the source page for this seizure report
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ec40104e9bfa6cdc747465b9874017e1

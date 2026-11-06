@@ -20,6 +20,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/f6/18/f6188c9e-7f85-4a01-a887-85b1dd2a8c24/zaderjanie_20260613102514.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Image of the 5.6 kg hashish seizure in Fergana Region, created from SGB video. Photo: xavfsizlik.uz via UzDaily.uz'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6b385627366eb87077a84a2c08a17cd7

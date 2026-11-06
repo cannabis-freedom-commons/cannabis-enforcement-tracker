@@ -20,6 +20,10 @@ media:
     media_url: https://www.police.sa.gov.au/__data/assets/image/0009/1447605/5-November-Marla-alcohol-arrest-2.png
     publisher: South Australia Police
     caption: Police photo published with the account of the alcohol and cannabis intercepted north of Marla.
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f667c45f4450193c238ad71d87d0c1dd

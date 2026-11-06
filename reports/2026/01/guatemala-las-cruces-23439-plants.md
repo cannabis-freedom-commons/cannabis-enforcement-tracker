@@ -16,6 +16,10 @@ summary: >-
 figures:
   plants_destroyed: 23439
   value: { amount: 8789625, currency: GTQ }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [guatemala, peten, las-cruces, eradication]

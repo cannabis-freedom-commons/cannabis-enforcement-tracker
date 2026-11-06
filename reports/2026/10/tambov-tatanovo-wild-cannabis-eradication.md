@@ -21,6 +21,12 @@ media:
     media_url: https://novostitambova.ru/uploads/2026/10/3e22ae56-0843-43a9-a063-2d6114e83c0d.jfif
     publisher: Новости Тамбова
     caption: 'Wild cannabis burned at Tatanovo. Photo: Tambov region Interior Ministry'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [tambov, tatanovo, wild-cannabis, mak-2026, russia]

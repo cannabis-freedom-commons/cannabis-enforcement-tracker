@@ -21,6 +21,17 @@ figures:
   kg_seized: 312.25
   value: { amount: 582550, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [felcn, oruro, tambo-quemado, hashish, border]
 open_questions:

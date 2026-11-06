@@ -23,6 +23,14 @@ figures:
     amount: 1200000
     currency: EUR
 created_by_model: cursor/composer-2.5-fast
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  environment: [outdoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [gallura, carabinieri, outdoor]
 open_questions:

@@ -13,6 +13,12 @@ summary: >-
   Railway and local police uprooted more than 20,000 suspected wild cannabis plants on 2 September 2025 beside the Keta railway line between Hojirt in Emin County and Tiechangou in Toli County, Xinjiang. Officers said seeds could spread along the line and that the plants are controlled regardless of whether they grew wild.
 figures:
   plants_destroyed: 20000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, toli, railway, wild-cannabis]

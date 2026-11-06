@@ -20,6 +20,15 @@ figures:
   prison: life
   fine: { amount: 200000, currency: PKR }
   value: { amount: 6000000000, currency: PKR }
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [anf, charas]

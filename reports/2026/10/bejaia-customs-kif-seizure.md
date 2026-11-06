@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 144.3
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bejaia, customs, kif, trafficking]

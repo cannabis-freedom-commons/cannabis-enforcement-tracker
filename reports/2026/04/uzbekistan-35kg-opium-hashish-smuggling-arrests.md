@@ -21,6 +21,13 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/04/n7sh2npe0folbj2q4F917754739621187_l.webp
     publisher: Gazeta.uz
     caption: 'Four men, two of them in camouflage, standing with officers in uniform, with bags and a tobacco box laid out on the ground in front of them. Photo: СГБ, Uzbekistan''s State Security Service'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea32e63a579c2c3d74ac1a5aa4553dfd

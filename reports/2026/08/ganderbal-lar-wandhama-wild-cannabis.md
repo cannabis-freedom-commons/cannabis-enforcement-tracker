@@ -13,6 +13,16 @@ summary: >-
   destruction drive at Lar, Wandhama and adjoining areas on 27 August 2026,
   identifying, uprooting and destroying wild plants along roadsides and at other locations.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ganderbal, lar, wandhama, jammu-and-kashmir, wild-cannabis, eradication]
 sources:

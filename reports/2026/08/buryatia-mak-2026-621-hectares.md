@@ -15,6 +15,12 @@ summary: >-
   hectares had been mown and burned, and about 17.8 kilograms of drugs were seized.
 figures:
   hectares: 621
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [buryatia, mak-2026, eradication, wild-cannabis]

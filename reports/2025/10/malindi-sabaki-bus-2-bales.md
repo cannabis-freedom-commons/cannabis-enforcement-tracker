@@ -16,6 +16,10 @@ summary: >-
   owner fled before arrest and a manhunt began; the bus was impounded.
 figures:
   arrested: 0
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [malindi, sabaki, bus, trafficking]

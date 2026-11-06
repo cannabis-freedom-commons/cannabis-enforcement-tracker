@@ -23,6 +23,12 @@ media:
     media_url: https://durontocrime.news/wp-content/uploads/2026/10/FB_IMG_1791729884462.jpg
     publisher: Duronto Crime News
     caption: Photograph published with Duronto Crime News on the DNC seizure in Jatrabari.
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [dhaka, jatrabari, dnc, highway]

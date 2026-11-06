@@ -26,6 +26,14 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261103104905_690.avif
     publisher: Europa Press
     caption: 'A Mossos d''Esquadra officer in the marijuana plantation dismantled in Tortosa. Photo: Mossos via Europa Press'
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.environment: [1, 3, 5]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c0ca7dd3729b6a9cb0b587b6e9c6fe02

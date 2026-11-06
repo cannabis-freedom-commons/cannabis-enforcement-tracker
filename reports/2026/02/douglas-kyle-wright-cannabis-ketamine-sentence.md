@@ -19,6 +19,11 @@ figures:
   value:
     amount: 6452
     currency: GBP
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 148c7972ff9f775ac64ffce2e1f07911

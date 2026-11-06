@@ -14,6 +14,12 @@ summary: >-
   The largest stands, about 10,000 and 8,853 bushes, grew on farmland and in a city park.
 figures:
   plants_destroyed: 29962
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [wild-cannabis, sughd, eradication-campaign]
 sources:

@@ -25,6 +25,11 @@ media:
     media_url: https://eldoce.tv/resizer/v2/los-hermanos-vendian-droga-en-villa-el-libertador-FLNL4POVORAX5CANBRVOIHZM3E.jpg?auth=48ece47afe7fb5c76cec5b87103fe1fc4413d904af1ac720386bbad8529d1a99&width=767
     publisher: ElDoce.tv
     caption: Second photo accompanying the ElDoce.tv report on the Villa El Libertador detentions, captioned that the brothers sold drugs in Villa El Libertador.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e8a4866517a114d169ad1be4d4bded1f

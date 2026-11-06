@@ -14,6 +14,10 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 133
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 17898b786aa08cce7d4484770df23f19

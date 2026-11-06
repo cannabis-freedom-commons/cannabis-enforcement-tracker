@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3.5
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: da91958c0b53db35c8511fce0ae7fb32

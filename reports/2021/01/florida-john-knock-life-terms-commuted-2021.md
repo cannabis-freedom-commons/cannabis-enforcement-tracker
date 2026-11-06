@@ -16,6 +16,12 @@ summary: >-
 figures:
   prison: two life terms plus 20 years (commuted January 2021)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [commutation, clemency, conspiracy, life-sentence]
 open_questions:

@@ -17,6 +17,12 @@ figures:
   charged: 2
   kg_seized: 2.4
   prison: death sentence
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5ec2eea24f7c23a388d4903db8e720da

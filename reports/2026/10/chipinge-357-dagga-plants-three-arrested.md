@@ -16,6 +16,11 @@ figures:
   charged: 3
   plants_destroyed: 357
   prison: 36 months
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1a1ca8e103f856f7bf6b43112bcec4d7

@@ -20,6 +20,10 @@ figures:
   kg_seized: 735
   value: { amount: 11300000, currency: INR }
 created_by_model: unknown
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [truck, night-patrol]
 sources:

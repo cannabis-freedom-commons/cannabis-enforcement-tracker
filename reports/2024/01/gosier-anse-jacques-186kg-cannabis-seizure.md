@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 186
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8084686119cbeb69f58936da457ae8f1

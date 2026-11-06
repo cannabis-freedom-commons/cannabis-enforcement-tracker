@@ -21,6 +21,12 @@ media:
     media_url: https://images.dynamitenews.com/wp-content/uploads/sites/2/2026/11/balrampur_V_jpg--1280x720-4g.webp
     publisher: Dynamite News Hindi
     caption: 'Police photo of the accused in custody. Photo: Dynamite News'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1da761acbfb191cea2df7a3e1c2a8a29

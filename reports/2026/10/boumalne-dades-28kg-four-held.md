@@ -16,6 +16,11 @@ figures:
   arrested: 4
   charged: 4
   kg_seized: 28
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d9c319381d8636569bf05a1c14ea26a0

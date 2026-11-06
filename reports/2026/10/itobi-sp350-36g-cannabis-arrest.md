@@ -21,6 +21,12 @@ media:
     media_url: https://www.gazetavg.com.br/wp-content/uploads/2026/10/Trafico-em-Itobi.jpg
     publisher: Gazeta de Vargem Grande
     caption: 'Seized drugs from the Itobi stop, captioned as totalling 45 grams. Photo: Gazeta de Vargem Grande'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4d2768a5dbc18a0b6de01944061fadea

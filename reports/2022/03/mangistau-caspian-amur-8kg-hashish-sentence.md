@@ -22,6 +22,11 @@ media:
     media_url: https://www.gov.kz/uploads/2022/3/25/ad04b26ef8f8c51294f042d4032cbb9f_1280x720.jpg
     publisher: GOV.KZ
     caption: 'Photo accompanying the KNB account of the Caspian detention and drug seizure. Photo: Border Service of the National Security Committee'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b24959823435820a0b5363a86cbaf3d6

@@ -23,6 +23,11 @@ media:
     media_url: https://www.nagpurtoday.in/wp-content/uploads/2026/11/934046-1536x1152.webp
     publisher: Nagpur Today
     caption: Photo published with the report, captioned in Hindi that ganja was grown in the field and a drug stock was found in the house.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc5564888bc5df3267011debfb3051e7

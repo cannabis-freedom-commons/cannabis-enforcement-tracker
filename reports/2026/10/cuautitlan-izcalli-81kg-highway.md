@@ -24,6 +24,12 @@ media:
     media_url: https://nxnoticias.com/wp-content/uploads/2026/10/operativos-conjuntos-en-cuautitlan-izcalli-dejan-10-detenidos-inmuebles-y-droga-asegurada_4983f5c7-6268-419f-8759-fc2f1cb245d6_medialjnimgndimagefullsize.webp
     publisher: NX Noticias
     caption: State security image published with NX Noticias coverage of joint operations in Cuautitlán Izcalli, including the highway seizure.
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [edomex, cuautitlan-izcalli, highway, cjng-allegation]

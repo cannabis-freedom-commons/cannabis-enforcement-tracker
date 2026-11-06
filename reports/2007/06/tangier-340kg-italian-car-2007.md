@@ -17,6 +17,11 @@ figures:
   kg_seized: 340
   arrested: 1
   value: { amount: 4100000, currency: USD }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, italy-route, customs]

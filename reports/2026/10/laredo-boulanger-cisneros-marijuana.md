@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: eb8a00461398a06f58f035adac67c535

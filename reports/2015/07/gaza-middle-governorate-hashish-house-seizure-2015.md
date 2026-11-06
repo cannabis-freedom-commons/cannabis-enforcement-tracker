@@ -17,6 +17,11 @@ media:
     media_url: https://alray.ps/ar/thumb.php?src=uploads//images/1c0ac19fa1b3b05c9d47e49e387a7ace.jpg&w=1000&zc=1
     publisher: Alray Palestinian Media Agency
     caption: Photo of hashish accompanying the report on the Middle Governorate house seizure.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 43960ef167c9f1687193b4d56e7a5a97

@@ -15,6 +15,12 @@ figures:
   arrested: 2
   plants_destroyed: 550
   kg_seized: 600
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 5]
+  details.agency_types: [1, 2, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd8c6bb44285afe10547be769286d7f7

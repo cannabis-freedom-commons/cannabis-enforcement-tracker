@@ -13,6 +13,11 @@ summary: >-
   Police in Capesterre-Belle-Eau, Guadeloupe, checked a parked scooter on a Tuesday in early October 2017 and found its 19-year-old owner carrying more than ten sachets of cannabis herb and unexplained cash. A search of his home turned up more herb and several plants behind the house, and the urban safety squad took over the inquiry.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d846a59a2bb98865e00215c16f145c3d

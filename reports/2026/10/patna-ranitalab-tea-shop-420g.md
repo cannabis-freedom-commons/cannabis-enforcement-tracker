@@ -21,6 +21,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/28/cover_1793176902994.jpg
     publisher: Dainik Bhaskar
     caption: 'The accused in police custody after the Ranitalab shop raid. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 5756847beb89639842091e986fd69e5c

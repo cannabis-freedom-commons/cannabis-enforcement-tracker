@@ -16,6 +16,11 @@ figures:
   charged: 5
   prison: 3 to 5.5 years for four men; closed youth care for one minor
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [norrland, network, hashish]
 open_questions:

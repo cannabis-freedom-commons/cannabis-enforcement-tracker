@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 118000
   arrested: 500
   kg_seized: 77
+details:
+  agencies: [nz-police]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [national-cannabis-operation, northland]

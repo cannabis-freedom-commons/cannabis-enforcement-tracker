@@ -20,6 +20,15 @@ media:
     media_url: https://webterra.com.br/wp-content/uploads/2026/10/9440567a-01fe-4db2-a543-b8fdd48127ef-e1793443915138.jpeg
     publisher: WebTerra
     caption: 'Drugs seized in the Taiobeiras operation. Photo: Polícia Militar/ Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2, 3, 4]
+  details.agency_types: [2, 3, 4]
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9f3d781cd1f38d1a8d2a0c785a3570af

@@ -21,6 +21,15 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/10/30/pemusnahan-barang-bukti-di-halaman-mapolda-sumsel-1793369201289_169.jpeg?w=700&q=90
     publisher: detikSumbagsel
     caption: 'People at the destruction of drug evidence in the courtyard of South Sumatra police headquarters in Palembang. Photo: Vinsca/detikSumbagsel'
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b453dd74733c1d47a393b690899447c1

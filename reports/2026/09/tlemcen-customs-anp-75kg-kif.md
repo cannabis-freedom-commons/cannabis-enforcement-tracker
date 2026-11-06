@@ -18,6 +18,12 @@ figures:
   arrested: 3
   kg_seized: 75
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [dz-anp]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [kif, tlemcen, customs, army]
 sources:

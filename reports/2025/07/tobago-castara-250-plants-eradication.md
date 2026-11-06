@@ -21,6 +21,10 @@ media:
     media_url: https://www.guardian.co.tt/image-3.6483597.735911.20250802173840.58b56961b4?size=1024
     publisher: Trinidad Guardian
     caption: A section of the cannabis field discovered in Moriah, Tobago. Photo courtesy TTPS.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 68be0bb62f264e637f9bf32873032152

@@ -18,6 +18,12 @@ figures:
   arrested: 1
   kg_seized: 438
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [zhambyl, taraz, karasora, plantation]
 open_questions:

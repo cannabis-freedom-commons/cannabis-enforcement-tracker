@@ -20,6 +20,10 @@ media:
     media_url: https://static.actu.fr/uploads/2026/06/f94d9ff5c33a61e4d9ff5c33a025d9v-960x640.jpg
     publisher: actu.fr
     caption: 'Police photo of the cannabis cultivation discovered in a house in Mouscron''s Risquons-Tout district. Photo: Police de Mouscron'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54b7c10611489c051c529045a1be81b5

@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 101
   kg_seized: 65
 created_by_model: cursor/composer-2.5
+details:
+  environment: [outdoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [diicot, lipova, arad, outdoor]
 open_questions:

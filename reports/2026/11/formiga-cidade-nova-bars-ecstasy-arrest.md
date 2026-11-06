@@ -20,6 +20,15 @@ media:
     media_url: https://www.tvbambui.com.br/storage/news/25247/6aeb70526255c.jpeg
     publisher: TV Bambuí
     caption: 'Military Police photo showing a potted cannabis plant, small plastic bags, a precision scale, cash, and an officers'' association pennant on a table; published with the report on the Cidade Nova seizure in Formiga. Photo: PMMG'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c2c67cf5dd6d7e07d1fb3c26b9ab639

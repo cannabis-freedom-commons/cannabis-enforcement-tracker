@@ -19,6 +19,11 @@ summary: >-
   distribution network and placed at the disposal of the authorities for investigation.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3cb17074a71c6bdd4e0b2f868300a507

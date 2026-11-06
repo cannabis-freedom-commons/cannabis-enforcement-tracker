@@ -20,6 +20,11 @@ media:
     media_url: https://atvmedia.ru/uploads/news/202611/179386385326.jpg
     publisher: АТВмедиа
     caption: 'Police photograph published with the report on the Inozemtsevo home search and seizure. Photo: полиция Ставрополья'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 13efe778caa4cc1c1cfc2f8da4e3ce69

@@ -23,6 +23,12 @@ media:
     media_url: https://i0.wp.com/insightcrime.org/wp-content/uploads/2026/06/Featured-image-MrBeast-Marihuana-Seizure-Paraguay-June-2026-1.jpg?w=1200&quality=100&ssl=1
     publisher: InSight Crime
     caption: 'Illustration based on SENAD photos of the private-jet cannabis seizure at Asuncion on 29 May 2026. Image: SENAD via InSight Crime.'
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c3b36148878318ad83894571bbec49e

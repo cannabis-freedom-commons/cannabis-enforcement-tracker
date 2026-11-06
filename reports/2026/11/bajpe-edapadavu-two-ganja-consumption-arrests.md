@@ -12,6 +12,11 @@ summary: >-
   Bajpe police in Mangaluru arrested Rohit Dolai, 19, and Abhishek Kumar, 22, on Tuesday for allegedly consuming ganja in public places in Edapadavu village. Both were questioned after officers found them apparently intoxicated, admitted to consuming ganja and had cases registered against them.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 998ac1e5b077a14f8178b10501e85e53

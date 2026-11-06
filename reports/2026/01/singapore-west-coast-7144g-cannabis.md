@@ -19,6 +19,14 @@ figures:
   kg_seized: 7.144
   value: { amount: 94900, currency: SGD }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cnb, west-coast, trafficking]
 open_questions:

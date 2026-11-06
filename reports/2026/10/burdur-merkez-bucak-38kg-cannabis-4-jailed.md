@@ -26,6 +26,11 @@ media:
     media_url: https://cdn.iha.com.tr/Contents/images/2026/11/03/20261103aw824513-3.jpg
     publisher: İhlas Haber Ajansı
     caption: 'Additional view of the drugs and materials seized in the Burdur operation. Photo: İhlas Haber Ajansı'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6060531cb115471bfa3645caf0aff795

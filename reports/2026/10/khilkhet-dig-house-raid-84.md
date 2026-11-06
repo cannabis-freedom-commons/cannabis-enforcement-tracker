@@ -21,6 +21,11 @@ media:
     media_url: https://www.tbsnews.net/sites/default/files/styles/very_big_1/public/images/2026/10/22/carew.jpg
     publisher: The Business Standard
     caption: 'Drugs seized during a raid on a rented house owned by Additional DIG Abdullah Al Zahir in Dhaka’s Bhatara area. Photo: TBS'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 064eff26754d895f5c57f0b2952dd320

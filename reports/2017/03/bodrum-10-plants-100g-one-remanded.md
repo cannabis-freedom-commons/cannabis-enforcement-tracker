@@ -15,6 +15,11 @@ figures:
   arrested: 3
   plants_destroyed: 10
   kg_seized: 0.1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: afb4008df12a9d970fec995f4f14115b

@@ -26,6 +26,11 @@ media:
     media_url: https://media.magilev.by/gYBAAAAAAAEuNyRPcsM/photo.webp
     publisher: проМогилев
     caption: 'A still from the Interior Ministry video showing packaged drugs. Photo: video by МВД Беларуси, via проМогилев'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [3, 5, 6, 7, 8, 10, 11, 12, 13]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4379621103fe62acf9faba402270616d

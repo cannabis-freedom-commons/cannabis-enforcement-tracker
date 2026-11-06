@@ -21,6 +21,13 @@ figures:
     amount: 120000000
     currency: XOF
 created_by_model: claude-apollo-4-8
+details:
+  setting: [port]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [customs, port-of-dakar, skunk, container]
 open_questions:

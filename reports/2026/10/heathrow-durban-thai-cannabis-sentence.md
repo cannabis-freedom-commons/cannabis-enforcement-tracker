@@ -25,6 +25,12 @@ media:
     url: https://www.midweekherald.co.uk/news/26638893.devon-woman-jailed-smuggling-512-000-cannabis/
     publisher: Midweek Herald
     caption: 'The two suitcases containing 51.2 kg of cannabis brought into the UK by Amy Jayne Durban. Photo: NCA via Midweek Herald.'
+details:
+  agencies: [gb-nca, gb-border-force]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [heathrow, thai-cannabis, courier, devon, drug-import]

@@ -19,6 +19,11 @@ figures:
   kg_seized: 11125
 tags: [hashish, malaga, dgsn, trafficking]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 open_questions:
   - One account describes the furniture-van interception as unrelated to the melon-truck case, while the other presents both as dismantling one criminal organisation.

@@ -18,6 +18,17 @@ figures:
   kg_seized: 200
   value: { amount: 2500000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  setting: [building]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [navan, warehouse, cross-border, resin]
 open_questions:

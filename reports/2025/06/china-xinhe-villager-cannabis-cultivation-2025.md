@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 63
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, xinhe, cultivation]

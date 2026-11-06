@@ -20,6 +20,11 @@ figures:
   fine:
     amount: 177260
     currency: EUR
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9be6ed9874d90e1c81acff1aad93b436

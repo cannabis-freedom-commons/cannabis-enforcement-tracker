@@ -16,6 +16,15 @@ summary: >-
 figures:
   kg_seized: 74
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [asir, border-guard, hashish]
 open_questions:

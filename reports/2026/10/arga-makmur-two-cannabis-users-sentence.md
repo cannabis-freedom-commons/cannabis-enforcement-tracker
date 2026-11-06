@@ -17,6 +17,15 @@ figures:
   charged: 2
   kg_seized: 0.00237
   prison: 10 months
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0de5fb4fc8323f1470466cc09accc5d6

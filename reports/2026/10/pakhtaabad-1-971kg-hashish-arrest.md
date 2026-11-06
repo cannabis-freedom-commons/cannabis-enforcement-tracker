@@ -17,6 +17,11 @@ figures:
   value:
     amount: 18000
     currency: USD
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ef159391b8903b6c5459c98e07c8a3ac

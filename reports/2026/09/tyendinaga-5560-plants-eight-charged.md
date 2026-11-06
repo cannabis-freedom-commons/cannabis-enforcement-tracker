@@ -30,6 +30,12 @@ media:
     media_url: https://globalnews.ca/wp-content/uploads/2026/09/20260916_122754_47337.jpg?quality=65&strip=all&w=1200
     publisher: Ontario Provincial Police, via Global News
     caption: Cannabis displayed at the Tyendinaga Mohawk Territory site, in an OPP photo.
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
 tags: [ontario, tyendinaga, cannabis, cultivation, arrests]

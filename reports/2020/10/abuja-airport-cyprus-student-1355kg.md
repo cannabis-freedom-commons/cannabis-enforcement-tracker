@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 13.55
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a753d30449821f1372c79ec0b565f17b

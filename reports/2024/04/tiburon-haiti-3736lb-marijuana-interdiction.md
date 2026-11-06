@@ -18,6 +18,11 @@ figures:
   value:
     amount: 3500000
     currency: USD
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 5]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 24d3e843f91459c3a3939cf92db0106c

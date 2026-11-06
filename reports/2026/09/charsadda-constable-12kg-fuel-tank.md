@@ -18,6 +18,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 12
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [charsadda, hashish, fuel-tank, police-officer, excise]

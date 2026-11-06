@@ -35,6 +35,11 @@ media:
     media_url: https://cdn.jwplayer.com/videos/pIxc2ayi-xPNvTglZ.mp4
     publisher: Infobae
     caption: Two-minute video of the Ventanilla operation, which ended with three detentions and the marijuana seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4b32b3f3f60f9e726d2114ac649810ac

@@ -13,6 +13,10 @@ summary: >-
   Police arrested 20-year-old Noel “N” in Colonia Roosevelt, zone 11 of Guatemala City, and found 207 bags of marijuana in the property they searched, while 43-year-old Wendy “N” was detained with 165 bags in a Puerto Barrios cantina. The two 27 March 2025 anti-narcomenudeo operations yielded 372 bags in total; the seized marijuana was never weighed in the reports.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 870048a9d201e3189a97ba05737cd087

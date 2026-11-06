@@ -17,6 +17,12 @@ summary: >-
   cultivation case this year to yield arrests.
 figures:
   arrested: 3
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [nacoc, volta, hashish-oil, edibles]

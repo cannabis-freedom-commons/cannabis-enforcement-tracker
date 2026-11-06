@@ -20,6 +20,12 @@ figures:
   kg_seized: 1517
   value: { amount: 5000000, currency: USD }
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cbp, peace-bridge, cross-border]
 sources:

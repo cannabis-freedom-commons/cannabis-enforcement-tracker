@@ -21,6 +21,12 @@ media:
     media_url: https://files.ndeal.app/api/images/proxy?format=webp&width=800&src=https://www.netdeal.com.br/api/images/producao.spayce.com.br/1793646622799_prf_droga_ok.jpg
     publisher: Tarobá
     caption: Lead photo on the Tarobá page for this PRF seizure report
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 505c6a8ecdea1de263fcba919106d6dc

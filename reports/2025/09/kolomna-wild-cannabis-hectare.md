@@ -22,6 +22,12 @@ media:
     media_url: https://cdni-vm.servicecdn.ru/2025.09/original/720_68c7bcc382682c55b256ba46.jpg
     publisher: Вечерняя Москва
     caption: 'Wild cannabis eradication in Moscow Oblast reported on 15 September 2025. Photo: Moscow region Interior Ministry Telegram channel, via Vechernyaya Moskva'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [kolomna, moscow-oblast, wild-cannabis, mak-2025, russia]

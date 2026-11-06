@@ -20,6 +20,13 @@ figures:
   kg_seized: 65.45
   value: { amount: 1963500, currency: KES }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [vehicle]
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [bhang, bus, mombasa-route]
 media:

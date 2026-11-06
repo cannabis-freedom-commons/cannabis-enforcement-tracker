@@ -43,6 +43,12 @@ media:
     media_url: https://telusur.co.id/storage/1168/conversions/WhatsApp-Image-2026-11-02-at-3.57.54-PM-preview.webp
     publisher: Telusur
     caption: 'Joint BNN and Polri team uncovering and destroying cannabis fields in Aceh. Photo: dok. BNN.'
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3, 8, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30]
+  details.agency_types: [1, 2, 3, 8, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0b11fdb744747faab0170240badc5d4

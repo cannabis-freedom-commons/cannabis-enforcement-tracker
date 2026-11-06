@@ -14,6 +14,12 @@ summary: >-
   only 281 grams of cannabis, below the 500-gram threshold carrying a mandatory death sentence.
 figures:
   kg_seized: 0.281
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, trafficking-threshold]

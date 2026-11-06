@@ -19,6 +19,15 @@ media:
     media_url: https://www.radiosantacruzfmg.com.br/assets/uploads/imagens/aaa53-Perdig--o.png
     publisher: Rádio Santa Cruz FM
     caption: 'Police photo of the drugs and materials seized in Perdigão. Photo: PMMG (60º Batalhão)'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: aa0a85755fb24668a86066221383d8a1

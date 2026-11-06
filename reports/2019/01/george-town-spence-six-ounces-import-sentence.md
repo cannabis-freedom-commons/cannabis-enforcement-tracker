@@ -15,6 +15,15 @@ figures:
   charged: 1
   kg_seized: 0.17
   prison: 6 months
+details:
+  activity: [smuggling]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 667902265c91ba487e53a528593a3f6a

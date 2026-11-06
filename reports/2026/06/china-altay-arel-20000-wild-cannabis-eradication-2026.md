@@ -31,6 +31,12 @@ media:
     media_url: https://image.cns.com.cn/xinjiang_editor/transform/20260616/XBd4-hffptmh9482326.png
     publisher: 中新网·新疆
     caption: Officers inspect tall plants growing in a wooded field.
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, altay, wild-cannabis, eradication]

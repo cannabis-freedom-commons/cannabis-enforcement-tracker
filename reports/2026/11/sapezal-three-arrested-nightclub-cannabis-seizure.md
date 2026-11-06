@@ -19,6 +19,12 @@ media:
     media_url: https://www.jornaloeste.com.br/imgsite/noticias/sapezal-cavalaria-pm-drogas-boate.jpg
     publisher: Jornal Oeste
     caption: 'Drugs, money and mobile phones that the Military Police''s cavalry unit says it seized in Sapezal. Photo: PM-MT/Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7eb881b3608852f1458f452f09ca665c

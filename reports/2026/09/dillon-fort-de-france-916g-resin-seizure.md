@@ -19,6 +19,11 @@ media:
     media_url: https://rci.fm/sites/default/files/styles/facebook_share/public/2026-09/r%C3%A9sine%20fb%20police%20nationale.jpeg?itok=TV7BJXgP
     publisher: RCI
     caption: 'Police photo of the 916 grammes of cannabis resin seized in the Dillon anti-delinquency operation. Photo: Police Nationale social media, via RCI'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f3520145e0f9fa6757d1891b37583c28

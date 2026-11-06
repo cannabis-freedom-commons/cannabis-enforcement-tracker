@@ -19,6 +19,13 @@ figures:
   fine:
     amount: 2636.73
     currency: EUR
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7aa9b4cecd314ba95be239602cabd70e

@@ -19,6 +19,11 @@ figures:
   kg_seized: 0.11918
   prison: 4 years
   fine: { amount: 953440, currency: EUR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [frejus, customs, a8, resin]

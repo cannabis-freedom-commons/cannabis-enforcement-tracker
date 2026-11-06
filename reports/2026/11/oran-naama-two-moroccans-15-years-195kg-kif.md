@@ -17,6 +17,10 @@ figures:
   charged: 6
   kg_seized: 195
   prison: 15 years
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 15b85389c4bbaa654510cc9146e86aab

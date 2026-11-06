@@ -17,6 +17,10 @@ summary: >-
 figures:
   hectares: 4
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [aceh, bnn, eradication]
 sources:

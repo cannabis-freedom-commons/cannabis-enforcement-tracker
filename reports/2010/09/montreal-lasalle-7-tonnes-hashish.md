@@ -15,6 +15,15 @@ summary: >-
   made no arrests, and asked the public for leads.
 figures:
   kg_seized: 7000
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [rcmp, hashish]

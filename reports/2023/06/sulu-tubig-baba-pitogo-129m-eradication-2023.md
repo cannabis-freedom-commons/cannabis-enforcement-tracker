@@ -17,6 +17,12 @@ figures:
   hectares: 1.5
   value: { amount: 12900000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [pdea, pnp, joint-operation]
 open_questions:

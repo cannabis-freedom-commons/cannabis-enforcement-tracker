@@ -24,6 +24,10 @@ figures:
     amount: 12500000
     currency: INR
 created_by_model: unknown
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - truck

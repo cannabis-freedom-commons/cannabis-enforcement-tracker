@@ -15,6 +15,13 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 5
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7bfcf2c22c96ffce9391a0ab50b7e944

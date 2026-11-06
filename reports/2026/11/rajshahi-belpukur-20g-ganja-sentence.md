@@ -19,6 +19,11 @@ figures:
   fine:
     amount: 1000
     currency: BDT
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4557623aa364121b788fffdad7f5b787

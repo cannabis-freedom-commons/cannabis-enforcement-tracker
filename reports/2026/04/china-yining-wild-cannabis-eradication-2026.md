@@ -13,6 +13,12 @@ summary: >-
   On 28 April 2026 police in Yining's Sayibuyi subdistrict uprooted 485 wild cannabis plants found around a high-voltage substation outside a residential compound. Officers said interviews ruled out deliberate cultivation and cleared neighbouring ground so no plants were left standing.
 figures:
   plants_destroyed: 485
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, yining, wild-cannabis]

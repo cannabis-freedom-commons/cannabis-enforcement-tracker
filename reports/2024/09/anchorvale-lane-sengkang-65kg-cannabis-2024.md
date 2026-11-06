@@ -26,6 +26,14 @@ media:
     publisher: Central Narcotics Bureau (CNB)
     caption: Drugs including about 6.5 kg of cannabis seized in the CNB operation on 17 September 2024.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cnb, trafficking]
 open_questions:

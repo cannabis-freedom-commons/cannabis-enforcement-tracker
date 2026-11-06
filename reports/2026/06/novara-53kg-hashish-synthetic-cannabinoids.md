@@ -30,6 +30,11 @@ media:
     media_url: https://media.gedidigital.it/repubblicatv/file/2026/11/05/1351529/1351529-video-rrtv-650-gdf.mp4
     publisher: La Stampa
     caption: '24-second video report on the November briefing at the Novara prosecution office about the hashish contaminated with synthetic cannabinoids. Video: La Stampa'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 5, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 55bdf3fc101db5ba45a45bf061b23f3a

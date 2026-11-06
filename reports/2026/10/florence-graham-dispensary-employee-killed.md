@@ -17,6 +17,12 @@ summary: >-
   Homicide Bureau appealed for information.
 figures:
   deaths: 1
+details:
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [florence-graham, dispensary, homicide-investigation]

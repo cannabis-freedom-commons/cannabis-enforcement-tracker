@@ -14,6 +14,10 @@ summary: >-
   York County deputies arrested Gerald S. Baugh III of Stromsburg on Oct. 15 after a late-night Highway 81 traffic stop and K-9 alert led to drugs, a weapon and 390 prescription pills. He was lodged on charges including possession of marijuana less than 1 oz alongside methamphetamine, legend-drug, paraphernalia, weapons and stolen-property counts.
 figures:
   arrested: 1
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9f11a5a550764bdc30398aa215d7e86

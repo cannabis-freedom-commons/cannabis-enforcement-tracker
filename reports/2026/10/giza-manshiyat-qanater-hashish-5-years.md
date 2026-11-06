@@ -17,6 +17,11 @@ figures:
   charged: 1
   prison: 5 years
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [giza, hashish, court]
 open_questions:

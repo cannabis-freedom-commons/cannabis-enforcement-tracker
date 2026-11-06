@@ -14,6 +14,12 @@ summary: >-
   plants at La Angostura, in El Torno, Santa Cruz, and burned more than 90
   tonnes. The published accounts name no arrests and give no separate date
   for the operation.
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [felcn, el-torno, santa-cruz]

@@ -14,6 +14,11 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74d35bf126b5aba2706994d2b4395491

@@ -20,6 +20,11 @@ media:
     media_url: https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/06/28125925/droga.jpg
     publisher: El Nacional
     caption: 'Cargo found in the truck described as humanitarian aid. Photo: cortesía'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 632783ac6e68a4e8903f58f0afd902d5

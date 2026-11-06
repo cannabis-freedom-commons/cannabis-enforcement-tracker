@@ -19,6 +19,10 @@ media:
     media_url: https://www.webdo.tn/fr/wp-content/uploads/2022/07/294395981_416908607138478_1017373235054382335_n.jpg
     publisher: Webdo
     caption: 'Lead image published with the report on the La Goulette seizure, captioned only with the article title, with no credit or caption identifying what it shows. Photo: Webdo'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 886ea6ce71782ebd7b82a6f9f5096aec

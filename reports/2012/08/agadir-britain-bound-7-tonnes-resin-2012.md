@@ -16,6 +16,11 @@ figures:
   kg_seized: 7000
   value: { amount: 7000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [hashish, smuggling, agadir]
 open_questions:

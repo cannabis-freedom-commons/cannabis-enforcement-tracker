@@ -20,6 +20,10 @@ summary: >-
 figures:
   arrested: 7
   kg_seized: 59
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [gitaru, kikuyu, police-complicity, trafficking]

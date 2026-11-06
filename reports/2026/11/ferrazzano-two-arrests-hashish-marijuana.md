@@ -20,6 +20,11 @@ media:
     media_url: https://www.isnews.it/wp-content/uploads/2026/11/arresti-squadra-mobile.jpg
     publisher: isNews - Molise
     caption: Photo captioned "arresti squadra mobile", filed with the report on the Ferrazzano arrests; the page gives no photographer or agency credit.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 646a0bf78556993e1e6fa323757404cf

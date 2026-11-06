@@ -12,6 +12,11 @@ summary: >-
   Prague's municipal court acquitted Jiri Toul for the third time over eleven alleged 2018-2019 marijuana deals, ruling the evidence did not prove he was the seller. Prosecutor Simona Krupova appealed and asked the High Court to assign a different panel, with a public hearing set for December.
 figures:
   charged: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c56af13fe65e91a3920efda80db5734d

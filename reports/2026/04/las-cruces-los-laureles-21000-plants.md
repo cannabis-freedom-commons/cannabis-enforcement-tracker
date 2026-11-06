@@ -31,6 +31,10 @@ media:
     media_url: https://cdn.jwplayer.com/previews/U6sJT2lo
     publisher: Infobae
     caption: 'Video of the coordinated operation neutralizing the illegal crop that generated million-dollar profits for drug trafficking. Video: Ejército de Guatemala via Infobae.'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd4e40785bf89f74a652c7c600eb8eb7

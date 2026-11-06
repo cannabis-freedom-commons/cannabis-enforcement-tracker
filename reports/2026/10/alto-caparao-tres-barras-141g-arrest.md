@@ -21,6 +21,15 @@ media:
     media_url: https://asnoticiasonline.com.br/wp-content/uploads/2026/11/0383b9f0-ec09-47ba-94b5-54088c94a158.jpg
     publisher: As Notícias Online
     caption: Seized drugs, banknotes, scale and two mobile phones laid out with a PMMG bag
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: af3609bef1b65bed3b16c0857404b48c

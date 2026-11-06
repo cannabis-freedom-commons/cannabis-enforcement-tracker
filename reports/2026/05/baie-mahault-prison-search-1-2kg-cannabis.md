@@ -29,6 +29,10 @@ media:
     media_url: https://rci.fm/sites/default/files/2026-05/WhatsApp%20Image%202026-05-28%20at%2010.51.33.jpeg
     publisher: RCI
     caption: Gendarmes inside the Baie-Mahault prison during the 22 May search.
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1b55f21d8832911f0b447f5dda71f878

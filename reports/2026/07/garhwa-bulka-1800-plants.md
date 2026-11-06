@@ -19,6 +19,10 @@ figures:
   kg_seized: 118
   hectares: 0.03
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [jharkhand, garhwa, bulka, ramna, eradication]
 open_questions:

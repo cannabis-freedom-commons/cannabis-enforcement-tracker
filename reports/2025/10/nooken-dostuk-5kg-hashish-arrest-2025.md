@@ -35,6 +35,13 @@ media:
     media_url: https://eltr.kg/wp-content/uploads/2025/10/whatsapp_image_tclth66.max-2560x1440.format-webp.jpegquality-90.webp
     publisher: ELTR Кыргызстан
     caption: 'Landscape photo of the packages laid out on the ground at the detention site. Photo: ELTR, published without a separate credit'
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: caa68af904b09381daf3a6cbcc285526

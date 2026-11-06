@@ -14,6 +14,15 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 62
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 44c860c178f5ed99069ea29d7dd5324e

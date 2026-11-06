@@ -18,6 +18,10 @@ figures:
   arrested: 2
   plants_destroyed: 3000
   hectares: 2
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [3]
 status: disputed
 created_by_model: openai/gpt-6
 tags: [indonesia, aceh, teupin-rusep, eradication]

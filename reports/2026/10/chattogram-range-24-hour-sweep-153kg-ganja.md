@@ -23,6 +23,11 @@ media:
     media_url: https://cdn.jagonews24.com/media/imgAllNew/BG/2023March/3-1-curve-mvuv13hr5qbj99t-20261030170018.jpg?w=1080
     publisher: Jagonews24.com
     caption: Police photo of several people arrested in the Chattogram Range operation.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 03dce84400251cb55b422d9f7418d864

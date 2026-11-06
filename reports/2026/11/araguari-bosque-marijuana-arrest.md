@@ -19,6 +19,15 @@ media:
     media_url: https://zapcatalao.com.br/wp-content/uploads/2026/11/Screenshot_20261103_123252_Instagram.jpg
     publisher: Portal Zap Catalão
     caption: 'Seized marijuana, money, cell phone and precision scale from the Bosque operation in Araguari. Photo: Divulgação/PMMG'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c697ea1a7b1eac649188011f39ce6f50

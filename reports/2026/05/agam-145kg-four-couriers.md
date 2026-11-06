@@ -18,6 +18,12 @@ figures:
   arrested: 4
   kg_seized: 145.085
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [bnnp-sumbar, agam, highway]
 open_questions:

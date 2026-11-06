@@ -29,6 +29,10 @@ media:
     media_url: https://cdn-pro.eldiariodehoy.com/wp-content/uploads/2026/03/DECOMISO-COCAINA-NARCOMENUDEO.jpg
     publisher: El Diario de Hoy
     caption: 'The cocaine portions seized in the searches, photographed for the prosecutor''s office report. Photo: Cortesía (courtesy)'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b06d753c46cd3dcace56504464fdff03

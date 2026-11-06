@@ -15,6 +15,17 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 20000
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [customs, hashish, maritime, nancy-ii, teleno]

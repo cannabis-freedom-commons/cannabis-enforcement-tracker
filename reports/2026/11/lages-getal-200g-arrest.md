@@ -21,6 +21,15 @@ media:
     media_url: https://noticianoato.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-06.53.22.jpeg
     publisher: Notícia no Ato
     caption: Photo accompanying the report of the 12 seized portions in Lages
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76dc531f3d5416f5a0282ca9973043fe

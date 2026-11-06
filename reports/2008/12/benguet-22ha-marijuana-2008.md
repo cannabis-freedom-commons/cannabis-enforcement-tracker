@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 186930
   hectares: 22
   value: { amount: 31528400, currency: PHP }
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [benguet, kibungan, bakun, pdea, eradication]

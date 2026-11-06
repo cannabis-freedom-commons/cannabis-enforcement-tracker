@@ -19,6 +19,15 @@ figures:
   kg_seized: 20500
   value: { amount: 200000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [it-gdf, int-europol]
+  agency_types: [customs, police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1]
 status: verified
 tags: [hashish, maritime-smuggling, europol]
 open_questions:

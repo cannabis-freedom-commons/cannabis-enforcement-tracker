@@ -22,6 +22,12 @@ figures:
     amount: 18000000000
     currency: CLP
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [os7, fiscalia-supraterritorial, santiago]
 open_questions:

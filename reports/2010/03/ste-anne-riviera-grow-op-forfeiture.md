@@ -18,6 +18,12 @@ figures:
   arrested: 2
   plants_destroyed: 600
   value: { amount: 600000, currency: CAD }
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [grow-op, forfeiture]
 open_questions:

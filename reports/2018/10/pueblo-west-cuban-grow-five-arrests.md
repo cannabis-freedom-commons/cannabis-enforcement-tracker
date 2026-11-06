@@ -24,6 +24,12 @@ media:
     media_url: https://mediaassets.koaa.com/cordillera-network/wp-content/uploads/sites/11/2018/10/24173139/MJ-Grow-Pueblo-West-1024x576.jpg
     publisher: KOAA
     caption: Photo of the seized Pueblo West marijuana grow operation.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8ac26f9a1f77a093aac6f46183ef8b46

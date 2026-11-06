@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.01152
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [apartment-search, trafficking]

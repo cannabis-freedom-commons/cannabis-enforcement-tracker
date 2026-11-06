@@ -17,6 +17,15 @@ figures:
   arrested: 6
   kg_seized: 10000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, strait-of-gibraltar, uncte, smuggling]
 sources:

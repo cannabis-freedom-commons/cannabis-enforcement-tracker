@@ -19,6 +19,12 @@ media:
     media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/01/5a0dea340aaf727a8f5f581101e809747a6964eb.jpeg
     publisher: Campo Grande News
     caption: 'Abandoned Fiat Fiorino at the scene after the collision with a motorcycle. Photo: Direto das Ruas'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 397b31400c0c714b1e87357133273f81

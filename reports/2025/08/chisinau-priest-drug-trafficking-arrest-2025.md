@@ -19,6 +19,12 @@ media:
     media_url: https://newsmaker.md/wp-content/uploads/2025/08/my_photo_collage-61-1.jpg
     publisher: NewsMaker
     caption: Photo collage from the searches in the Chisinau drug-trafficking case in which the priest was detained.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8f2fa171ea8b98a9bd5ef6df500c7c46

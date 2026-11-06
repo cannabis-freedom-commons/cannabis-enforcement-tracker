@@ -25,6 +25,12 @@ media:
     media_url: http://static.xabar.uz/crop/5/4/720_460_95_544156707.jpg
     publisher: Xabar.uz
     caption: Still from video of the Lacetti fuel-tank seizure at the Ravot post.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f148781d2face5a54917834816c345d9

@@ -23,6 +23,10 @@ figures:
     amount: 19902200
     currency: HKD
 created_by_model: cursor/composer-2.5
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [tsing-yi, courier, high-court]
 open_questions:

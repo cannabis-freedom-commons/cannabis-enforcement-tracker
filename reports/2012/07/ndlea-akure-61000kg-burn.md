@@ -15,6 +15,12 @@ summary: >-
   of farmland had been traced to cannabis in the previous two years.
 figures:
   kg_seized: 61000
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ndlea, ondo, public-destruction]

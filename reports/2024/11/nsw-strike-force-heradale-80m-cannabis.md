@@ -19,6 +19,10 @@ figures:
   kg_seized: 586
   value: { amount: 80000000, currency: AUD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [strike-force-heradale, transnational-crime, hydroponic]
 sources:

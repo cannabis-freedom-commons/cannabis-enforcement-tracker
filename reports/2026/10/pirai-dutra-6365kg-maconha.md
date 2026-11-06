@@ -22,6 +22,12 @@ media:
     media_url: https://www.focoregional.com.br/Foto/prf-apreende-63-kg-de-maconha-que-iriam-para.png?w=690&h=420&pasta=noticia
     publisher: Foco Regional
     caption: 'Cannabis seized from a car on the Via Dutra in Piraí. Photo: PRF'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3, 4, 5, 7]
+  details.agency_types: [1, 3, 4, 5, 7]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 673f68ed316b5fde160ad4823b72d586

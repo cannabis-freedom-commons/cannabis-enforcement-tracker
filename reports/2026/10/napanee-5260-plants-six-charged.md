@@ -19,6 +19,12 @@ figures:
   arrested: 6
   charged: 6
   value: { amount: 7900000, currency: CAD }
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [opp, napanee, grow-op, cannabis-act]

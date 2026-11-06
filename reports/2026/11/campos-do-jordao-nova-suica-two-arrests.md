@@ -19,6 +19,11 @@ media:
     media_url: https://img.band.com.br/image/2026/11/Prisao-em-Campos.png
     publisher: Band
     caption: The two suspects arrested in Campos do Jordão.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dd326d7f9591f17def2d985104013505

@@ -50,6 +50,10 @@ media:
     media_url: https://images.hoy.cr/cdn-cgi/image/width=1200,quality=80,format=auto/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-28-at-12.21.35-PM.jpeg
     publisher: CR Hoy
     caption: 'Seized drugs from the interception 200 km off Golfito. Photo: MSP.'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 45ffc505711d5fc0f1012de649a2eaa5

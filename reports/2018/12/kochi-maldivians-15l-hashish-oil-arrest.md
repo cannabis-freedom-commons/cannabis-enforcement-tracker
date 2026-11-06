@@ -23,6 +23,14 @@ media:
     media_url: https://ik.imagekit.io/mindy/media/2016/09/111235-hash-oil.jpg
     publisher: Maldives Independent
     caption: 'File photo of packets of seized hashish oil published with the report; the picture predates this case and does not show this seizure. Photo: Maldives Independent'
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3a5afea0afb866f1e488e02361af5800

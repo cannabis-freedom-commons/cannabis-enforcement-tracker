@@ -22,6 +22,12 @@ figures:
     amount: 81000
     currency: SGD
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cnb, kim-keat, geylang]
 open_questions:

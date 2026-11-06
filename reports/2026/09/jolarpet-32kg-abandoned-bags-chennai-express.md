@@ -14,6 +14,10 @@ summary: >-
   carriers fled the scene and no arrest is reported; CCTV is being reviewed.
 figures:
   kg_seized: 32
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [jolarpet, tirupattur, railway, rpf, trafficking]

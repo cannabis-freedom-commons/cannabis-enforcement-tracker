@@ -17,6 +17,10 @@ figures:
   plants_destroyed: 332000
   hectares: 7
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [rozdilna, border, forest-fund]
 open_questions:

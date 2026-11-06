@@ -19,6 +19,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/GFPLA4KH3REZTP2GKXNVZ34JOU.jpg?auth=9f845bd7825e2067ec4dd4d4d4215946faf4a3ecd6bb56351e0ae0d39d996e08&smart=true&width=992&height=565&quality=85
     publisher: Infobae
     caption: 'PNC photo of the arrest for possession and tenure of drugs in the Terranova house in San Miguel. Photo: Policía Nacional Civil via Infobae'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dc97db1847c4b61b5c724c136f95896f

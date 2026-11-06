@@ -25,6 +25,12 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/073c570ac990815d4d0fbc8a775e6f5550270c43343/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faca156b8e8cd8a884be1e9ffec03063f.png
     publisher: BBC
     caption: 'Drugs hidden in food containers including biscuit packets, coffee sachets and noodles. Photo: South Yorkshire Police'
+details:
+  activity: [smuggling]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.setting: [1, 2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7f2f1384aca432f5510d9de3d45640e3

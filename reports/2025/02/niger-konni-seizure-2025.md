@@ -12,6 +12,10 @@ summary: >-
   bound for Dan Issa and Maradi. Three people were arrested for international trafficking of
   high-risk drugs.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: niger-konni-seizure-2025
 tags:

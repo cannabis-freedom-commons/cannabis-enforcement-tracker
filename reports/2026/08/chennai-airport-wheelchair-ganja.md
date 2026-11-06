@@ -23,6 +23,15 @@ media:
     url: https://www.dtnext.in/news/chennai/flyer-uses-wheelchair-to-avoid-checking-nabbed-with-high-grade-ganja-from-thailand-worth-rs-3-crore
     publisher: DT Next
     caption: The hydroponic ganja seized at Chennai airport.
+details:
+  setting: [airport]
+  environment: [indoor]
+  products:
+    - {product: flower}
+data_sources:
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [chennai, airport, hydroponic, customs, ganja]

@@ -16,6 +16,12 @@ figures:
   charged: 2
   kg_seized: 10008
   prison: 5 years
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 73df0fa68b3646350e142aced35f3000

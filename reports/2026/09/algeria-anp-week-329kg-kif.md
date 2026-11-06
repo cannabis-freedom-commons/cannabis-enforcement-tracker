@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 35
   kg_seized: 329
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [algeria, kif, border, army]

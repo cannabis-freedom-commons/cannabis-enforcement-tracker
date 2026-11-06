@@ -13,6 +13,13 @@ summary: >-
   Three Mass Communication and Journalism students caught with ganja on Khulna University campus on 30 September 2026 were expelled for one to two terms and fined by the university Board of Discipline. The students admitted sourcing the drug from a Hall Road van driver, who was later detained with a significant quantity of ganja and handed to law enforcers.
 figures:
   arrested: 4
+details:
+  setting: [school]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de80be5c8251bd4c1c14c76321df3bf8

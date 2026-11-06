@@ -38,6 +38,11 @@ media:
     media_url: https://media.vikatan.com/vikatan%2F2026-11-04%2Fmj6sl9i9%2F%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%AA%E0%AE%BF%E0%AE%9A%E0%AE%BF%E0%AE%A9%E0%AF%8D-1.jpg?q=75&auto=format%2Ccompress&w=770
     publisher: Vikatan
     caption: Photo identified as the arrested Mano in the Ramanathapuram case.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bc627a9f33f666618c1c637f9fc175bc

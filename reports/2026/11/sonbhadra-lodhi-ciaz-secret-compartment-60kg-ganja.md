@@ -23,6 +23,11 @@ media:
     media_url: https://posterimage.amarujala.com/1XoXCGC.0000000.jpg?w=674&dpr=1.0&q=80
     publisher: Amar Ujala
     caption: The opening image of Amar Ujala's video report on the Sonbhadra seizure; the page gives no credit for it.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5b0ba0dcdb24b13736a51bf618eeaa7b

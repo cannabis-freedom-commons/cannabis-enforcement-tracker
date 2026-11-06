@@ -28,6 +28,15 @@ media:
     media_url: https://www.hindustantimes.com/ht-img/img/2026/03/06/400x225/NCB-busts-international-narcotics-ring-moving_1772813186273.jpg
     publisher: Hindustan Times
     caption: NCB busts international narcotics ring moving hashish oil from Nepal to Sri Lanka through India.
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cab9945b2427da6ee2516864786de1be

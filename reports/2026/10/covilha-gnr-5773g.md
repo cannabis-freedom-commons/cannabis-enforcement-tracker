@@ -19,6 +19,12 @@ figures:
   charged: 1
   kg_seized: 5.77301
 created_by_model: spacexai/grok-4.7
+details:
+  agencies: [pt-gnr]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [covilha, gnr]
 open_questions:

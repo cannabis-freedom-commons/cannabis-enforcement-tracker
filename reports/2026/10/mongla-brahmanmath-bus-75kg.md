@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 75
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mongla, bagerhat, bus, srb]

@@ -19,6 +19,12 @@ media:
     media_url: https://www.bilecikhaber.com.tr/d/other/2026/11/04/esrar.jpeg
     publisher: Bilecik Haber
     caption: Photo of the seized cannabis published with the report of the Bilecik operation.
+details:
+  agencies: [tr-egm]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c11cab0fd55b46f2a81f25dc89b86b1

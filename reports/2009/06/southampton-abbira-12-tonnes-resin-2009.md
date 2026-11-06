@@ -19,6 +19,10 @@ figures:
   arrested: 12
   value: { amount: 36000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  setting: [port]
+data_sources:
+  details.setting: [3]
 status: verified
 tags: [southampton, customs, soca, maritime]
 open_questions:

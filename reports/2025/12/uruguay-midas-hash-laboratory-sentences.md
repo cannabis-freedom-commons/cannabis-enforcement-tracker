@@ -19,6 +19,11 @@ figures:
   kg_seized: 4433.65
   prison: 3 years
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [midas, hashish, canelones]
 open_questions:

@@ -19,6 +19,13 @@ media:
     media_url: https://mostmedia.io/wp-content/uploads/2026/08/granica1.jpg
     publisher: MOST Media
     caption: 'Screenshot from a State Border Committee of Belarus video of the detention at the Brest checkpoint. Screenshot: MOST, from state border committee video'
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1bf723cb3d537fb512cabaa2c0103c47

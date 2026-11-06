@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 1.1
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 57fccf6167a7b18fd19200fcb11ef9b2

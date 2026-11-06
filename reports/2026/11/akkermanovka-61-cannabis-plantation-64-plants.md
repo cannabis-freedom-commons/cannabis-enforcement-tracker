@@ -23,6 +23,10 @@ media:
     media_url: https://nokstv.ru/images/IMG_20261105_102914.jpg
     publisher: НоКС ТВ
     caption: 'Police photo of the equipment and plant material seized from the man''s outbuildings in Akkermanovka. Photo: УМВД по Оренбургской области'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3820529a508c4ed3e9cd303964c372b0

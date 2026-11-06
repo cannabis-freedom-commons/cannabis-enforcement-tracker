@@ -28,6 +28,12 @@ media:
     media_url: https://www.latercera.com/resizer/v2/6J3656FRMBDJBEFHST7RTKTPPY.jpeg?auth=fa225a9cacee54b91a108501ee166117c431cd0fcd62875ba2f715fa192d4eb6&height=630&width=1200&smart=true
     publisher: La Tercera
     caption: La Tercera illustration for the Purranque interception report.
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [los-lagos, quellon, os7, purranque]

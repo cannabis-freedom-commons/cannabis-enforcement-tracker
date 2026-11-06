@@ -19,6 +19,12 @@ figures:
   charged: 1
   kg_seized: 60
   value: { amount: 1200000, currency: EUR }
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [organised-crime, joint-operation]

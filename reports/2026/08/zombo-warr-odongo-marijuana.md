@@ -17,6 +17,10 @@ summary: >-
   leaving 146 households without supply.
 figures:
   arrested: 1
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [zombo, warr, west-nile, cultivation]

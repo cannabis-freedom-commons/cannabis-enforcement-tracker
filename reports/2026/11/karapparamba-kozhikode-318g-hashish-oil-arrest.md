@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.318
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 960b64be39361d85349e9645f7cca8d4

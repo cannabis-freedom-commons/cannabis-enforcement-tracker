@@ -14,6 +14,10 @@ summary: >-
   On 11 May 2026 customs officers at Schaanwald found hemp seedlings on a man
   entering from Austria; Liechtenstein police seized the plants and reported him
   for a breach of the Narcotics Act.
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [schaanwald, border, seedlings]

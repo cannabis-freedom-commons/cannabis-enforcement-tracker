@@ -23,6 +23,12 @@ media:
     media_url: https://static.toiimg.com/thumb/msid-131552624,imgsize-161786,width-400,height-225,resizemode-72/maharajganj-police-and-ssb-apprehended-a-myanmar-national-phyo-near-the-india-nepal-border-seizing-4532-kg-of-high-grade-hydroponic.jpg
     publisher: The Times of India
     caption: Maharajganj Police and SSB personnel with the apprehended Myanmar national Phyo and the seized 4.532 kg of high-grade hydroponic weed near the India-Nepal border.
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4e6ca730d6ad93ea44d1d68e5c336200

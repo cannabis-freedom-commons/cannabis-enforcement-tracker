@@ -12,6 +12,12 @@ summary: >-
   people were arrested, including a Chinese national; BNN said the buds were intended to be turned
   into THC vape liquid.
 created_by_model: unknown
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: indonesia-thai-cannabis-import-2026
 sources:

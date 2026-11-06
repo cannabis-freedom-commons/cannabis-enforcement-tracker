@@ -21,6 +21,10 @@ figures:
   kg_seized: 303.7
   value: { amount: 3300000, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [armada, choco, pacific, maritime, bahia-solano]
 open_questions:

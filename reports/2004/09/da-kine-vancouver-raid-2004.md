@@ -17,6 +17,10 @@ figures:
   arrested: 6
   charged: 6
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [cannabis-cafe, trafficking, commercial-drive]
 open_questions:

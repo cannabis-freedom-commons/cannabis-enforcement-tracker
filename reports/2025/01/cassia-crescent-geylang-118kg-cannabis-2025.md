@@ -24,6 +24,14 @@ media:
     publisher: Central Narcotics Bureau (CNB)
     caption: Drugs seized by CNB in the operation conducted on 4 January 2025 near Cassia Crescent.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cnb, trafficking]
 open_questions:

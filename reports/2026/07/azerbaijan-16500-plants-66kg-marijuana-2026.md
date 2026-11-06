@@ -14,6 +14,15 @@ summary: >-
 figures:
   plants_destroyed: 16500
   kg_seized: 6.6
+details:
+  activity: [cultivation]
+  environment: [wild]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.environment: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 56bbd949216449db4e299202f6eaa949

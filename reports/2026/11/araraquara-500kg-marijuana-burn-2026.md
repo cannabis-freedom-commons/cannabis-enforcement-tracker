@@ -23,6 +23,12 @@ media:
     media_url: https://araraquaraagora.com/midia/_uploads/2026/11/pf-incinera-meia-tonelada-de-maconha-apreendida-na-regiao-de-araraquara-e7d60a.jpg?l=960&f=o
     publisher: Araraquara Agora
     caption: 'Seized drugs carried in sacks to the incineration site. Photo: Polícia Federal/Divulgação'
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0cdd3230b6de4a232a3adca49784837d

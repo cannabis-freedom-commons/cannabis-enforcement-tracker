@@ -20,6 +20,11 @@ figures:
   fine:
     amount: 100000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 19c5505bc67af39d4c6434160747ec87

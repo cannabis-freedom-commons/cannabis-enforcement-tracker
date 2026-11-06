@@ -16,6 +16,10 @@ figures:
   arrested: 2
   plants_destroyed: 154
   kg_seized: 0.015
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2bbf1f7a43fde224ce240aea41583c37

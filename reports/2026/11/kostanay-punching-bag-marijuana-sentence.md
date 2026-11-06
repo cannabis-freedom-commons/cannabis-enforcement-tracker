@@ -15,6 +15,11 @@ figures:
   arrested: 1
   charged: 1
   prison: 7 years
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6e7ad27f53f0309446310e066c6fda90

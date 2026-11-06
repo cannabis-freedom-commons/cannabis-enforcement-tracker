@@ -18,6 +18,10 @@ figures:
   arrested: 1
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [no-knock-raid, officer-killed, home-grow]
 sources:

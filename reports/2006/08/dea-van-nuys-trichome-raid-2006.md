@@ -13,6 +13,12 @@ summary: >-
   after an undercover agent's cover was blown, holding staff for 12 hours while a judge issued
   a warrant. Agents seized marijuana, cash, computers and surveillance tapes; no one was arrested
   or charged.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, dispensaries, medical-marijuana]
 sources:

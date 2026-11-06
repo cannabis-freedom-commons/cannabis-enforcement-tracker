@@ -17,6 +17,12 @@ figures:
   hectares: 0.08
   value: { amount: 2000000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [pdea, kalinga, tinglayan]
 sources:

@@ -20,6 +20,11 @@ media:
     media_url: https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1793551441-condenan-15-anos-carcel-ciudadano-vender-marihuana-cocaina-cannabinoides-tunas.jpg
     publisher: CubaHeadlines
     caption: 'Photo accompanying the sentencing report on the electronic-surveillance investigation and 15-year sentence. Photo: periódico 26/Dayana Menzoney'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef4e358bf1f2e652216abfb0cdf65d77

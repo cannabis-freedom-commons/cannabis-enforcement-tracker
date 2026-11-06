@@ -14,6 +14,10 @@ summary: >-
   Lancashire Police shut down a Halloween house party attended by more than 200 children on Moss Lane in Whittle-le-Woods on 30 October 2026, after fireworks were set off towards a neighbouring house. Three children were arrested; one was held on suspicion of possessing cannabis after officers seized some from an individual, and that child and another were later referred to the Youth Offending Team.
 figures:
   arrested: 3
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ec51d1f340ff424c0d5d3756ff2655da

@@ -25,6 +25,12 @@ media:
     publisher: Agencia IP
     caption: Photo published with Agencia IP's report on the SENAD operation in Hernandarias
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [senad, premium-cannabis, secret-compartment, brazil-market, alto-parana]
 open_questions:

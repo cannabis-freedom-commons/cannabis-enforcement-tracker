@@ -22,6 +22,14 @@ media:
     media_url: https://newsinfo.inquirer.net/files/2026/11/Marijuana-plantations-in-Benguet-1200x740.jpg.avif
     publisher: INQUIRER.net
     caption: 'Police personnel uproot marijuana plants and seedlings from the three plantations in Kapangan and Kibungan. Photo: courtesy of Police Regional Office-Cordillera.'
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3296b0f56b04fb88668658d5b4c57f58

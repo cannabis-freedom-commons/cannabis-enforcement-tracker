@@ -23,6 +23,12 @@ media:
     media_url: https://img.sorianoticias.com/imagenes/2026-11/th600/69e7f5730b2fbc7b0bcaa2a921e76068bdfa3b2dcc35da2dba5e3fe8014757d1_04112026133729_261104134027.webp
     publisher: SoriaNoticias
     caption: Photo published with the SoriaNoticias report on the seizure in the Soria home.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8df696273809b02df068ad1ac684c094

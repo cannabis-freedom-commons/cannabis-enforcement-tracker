@@ -41,6 +41,12 @@ media:
     media_url: https://www.youtube-nocookie.com/embed/bUH2tKYasL4
     publisher: Europol
     caption: Embedded video with footage from the arrests.
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6c2b853c1d0c6d2e7dec9185aa84142d

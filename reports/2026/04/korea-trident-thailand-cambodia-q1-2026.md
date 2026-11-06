@@ -17,6 +17,10 @@ media:
     media_url: https://newsimg.koreatimes.co.kr/2026/04/23/fd9d0e70-cf7c-430e-b1e0-2bbe7cc9cafe.jpg?w=728
     publisher: The Korea Times
     caption: 'Korea Customs Service Commissioner Lee Myeong-ku speaks at a press conference at the Government Complex Daejeon on 6 April 2026 presenting the first-quarter drug smuggling results. Photo: Courtesy of KCS'
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 03612b02ea037fbb057eb0724b425af5

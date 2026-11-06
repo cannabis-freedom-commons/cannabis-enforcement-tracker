@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 3000
   arrested: 3
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [navy, sonora, maritime, pacific-route]

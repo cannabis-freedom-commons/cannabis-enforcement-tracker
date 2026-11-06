@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 9
   kg_seized: 150
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ee8f89cbfd216b74720bc4a00311dd9

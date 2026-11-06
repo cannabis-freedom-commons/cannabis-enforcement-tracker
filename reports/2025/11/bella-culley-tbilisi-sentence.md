@@ -20,6 +20,10 @@ figures:
   prison: 5 months 24 days (time served)
   fine: { amount: 500000, currency: GEL }
 created_by_model: anthropic/opus-5.5
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [trafficking, foreigners, plea-deal, thailand]
 sources:

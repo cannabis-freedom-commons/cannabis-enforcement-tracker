@@ -14,6 +14,13 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 38
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 5]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c5ee74ed074942b8dda85526d8ddf6af

@@ -13,6 +13,11 @@ summary: >-
   Criminal-investigation officers in Tiraspol detained a 20-year-old man suspected of unlawfully storing drugs after finding a ziplock packet with a brown mass resembling hashish in his jeans pocket. The substance was sent for chemical-biological examination during a pre-investigation check, with up to three years' imprisonment cited as possible criminal liability.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dc94ad6b226a8554162158ec6a053ca0

@@ -17,6 +17,12 @@ figures:
   hectares: 6.5
   kg_seized: 69000
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [bnn, aceh]
 sources:

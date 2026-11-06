@@ -20,6 +20,11 @@ media:
     media_url: https://media.assettype.com/dt-next%2F2026-07-31%2Fidg8riu3%2F1-15.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: DT Next
     caption: Photo of the arrested trio, Thangaraj, Sekar and Senthilvelan.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 900ead458041ed71ef5bfa7666b1dfd1

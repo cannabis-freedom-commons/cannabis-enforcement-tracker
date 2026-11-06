@@ -26,6 +26,14 @@ media:
     publisher: New Telegraph
     caption: Photograph published with the report on the NDLEA operation against cannabis farms in Edo State.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [edo, ndlea, cannabis-farms, eradication]
 sources:

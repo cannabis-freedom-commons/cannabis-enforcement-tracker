@@ -20,6 +20,15 @@ media:
     media_url: https://estaticosgn-cdn.deia.eus/clip/80ccf29b-19bc-4d2f-bf0a-aab94a589e0f_16-9-discover-aspect-ratio_default_0.jpg
     publisher: Noticias de Gipuzkoa
     caption: 'Methadone pills hidden in the car''s lighter from the Irun seizure. Photo: Guardia Civil'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: abe022e30d5c33aea505dfe03ef850e4

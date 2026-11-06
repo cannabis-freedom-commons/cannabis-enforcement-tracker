@@ -17,6 +17,10 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 1.44509
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [jersey, airport, importation, community-service, jcis]

@@ -29,6 +29,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/6WJBCN7FERDTNHC3QQIMFKINTI.jpeg?auth=b17d9068cd6387622b3f6078aa2ca810cbae6f92b09171e14169b53e1b8b68ce&smart=true&width=350&height=270&quality=85
     publisher: Infobae
     caption: Photo related to the four men detained in flagrante for alleged drug trafficking and weapons possession.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1a4b6fa13cfa29231bd7815352b4f453

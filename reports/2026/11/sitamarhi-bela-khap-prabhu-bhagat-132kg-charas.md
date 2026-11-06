@@ -21,6 +21,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/02/1793595493385/sizes/02sit_m_1_02112026_60-e1b564-hero.webp
     publisher: Prabhat Khabar
     caption: Photo published with the report on the arrest of Prabhu Bhagat with 1.320 kg of charas at Bela Khap
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 72abf63bfe69d8f9c61442abdfca07fc

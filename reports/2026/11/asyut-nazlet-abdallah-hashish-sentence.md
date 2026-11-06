@@ -19,6 +19,13 @@ figures:
   fine:
     amount: 50000
     currency: EGP
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 6, 7]
+  details.products: [1, 2, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6107f7801a5ffc5b7253fde8fc3f0dd3

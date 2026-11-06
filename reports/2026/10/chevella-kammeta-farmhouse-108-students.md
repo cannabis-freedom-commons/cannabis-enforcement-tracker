@@ -21,6 +21,15 @@ media:
     media_url: https://cdn.siasat.com/wp-content/uploads/2026/10/Featured-Farmhouse.jpg
     publisher: The Siasat Daily
     caption: 'Some of the students caught at the LG Farmhouse raid in Kammeta on Friday, 30 October. Photo: The Siasat Daily'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2, 6, 7, 8, 9]
+  details.agency_types: [2, 6, 7, 8, 9]
+  details.products: [1, 2, 4, 5, 6, 7, 8, 9]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 8307acfd391f0f1354c840fbc7e010a9

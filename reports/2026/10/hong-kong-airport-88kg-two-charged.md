@@ -19,6 +19,10 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 8.8
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hong-kong, customs, airport, bangkok, trafficking-charge]

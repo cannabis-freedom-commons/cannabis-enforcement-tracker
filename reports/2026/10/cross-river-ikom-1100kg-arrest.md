@@ -20,6 +20,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1100
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

@@ -13,6 +13,11 @@ summary: >-
   Police arrested pharmacy owner Sudip Mukhopadhyay in Durgapur after finding 285 codeine-based Phensedyl bottles, banned tablets and several ganja packets at his house. Police say the stock may point to a wider supply network around student areas and are seeking custody for further investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e4f60b170548469ce7f91f3330152591

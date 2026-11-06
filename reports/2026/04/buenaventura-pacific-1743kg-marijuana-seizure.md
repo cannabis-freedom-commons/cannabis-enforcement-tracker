@@ -43,6 +43,12 @@ media:
     media_url: https://cdn.jwplayer.com/videos/AafGi8Il-7njfJk2Q.mp4
     publisher: Infobae
     caption: '58-second video of the Navy operation on 2 April 2026 that seized the cargo and detained two Costa Rican citizens near Buenaventura. Credit: Armada de Colombia press office via Infobae.'
+details:
+  agencies: [co-armada]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c86768a5bc2a3599d87be1ff36a42bd7

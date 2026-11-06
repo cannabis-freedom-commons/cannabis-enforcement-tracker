@@ -18,6 +18,11 @@ figures:
   value:
     amount: 205000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, west-bengal, hijli, rpf, kharagpur]

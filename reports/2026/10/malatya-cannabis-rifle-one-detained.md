@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.05
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 22, 24, 26, 27, 28, 29, 30]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: daa896fd374c29c2b48a09f317c6d1ae

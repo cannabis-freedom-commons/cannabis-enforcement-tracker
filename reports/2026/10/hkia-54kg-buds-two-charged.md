@@ -20,6 +20,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5.4
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, phu-quoc, bangkok, trafficking-charge]

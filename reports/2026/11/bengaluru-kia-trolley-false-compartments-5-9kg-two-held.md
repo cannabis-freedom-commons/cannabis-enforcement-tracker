@@ -23,6 +23,12 @@ media:
     media_url: https://static.toiimg.com/thumb/msid-135570839,imgsize-204672,width-400,height-225,resizemode-75/customs-officials-at-kempegowda-international-airport-intercepted-two-passengers-engaged-in-the-smuggling-of-hydroponic-ganja.jpg
     publisher: The Times of India
     caption: 'Kempegowda International Airport, where the Times of India captions the picture as customs intercepting two passengers smuggling hydroponic ganja. Photo: Times of India'
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 573c193db7fd6a406fc7e18298a2e85d

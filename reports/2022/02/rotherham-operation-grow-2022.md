@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 6797
   value: { amount: 6800000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [operation-grow, indoor-grow, rotherham, organised-crime]
 media:

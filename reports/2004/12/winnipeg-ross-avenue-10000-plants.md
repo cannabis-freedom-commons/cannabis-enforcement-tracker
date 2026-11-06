@@ -17,6 +17,10 @@ summary: >-
   take days.
 figures:
   plants_destroyed: 10000
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [indoor-grow, hydroponic, winnipeg-police]

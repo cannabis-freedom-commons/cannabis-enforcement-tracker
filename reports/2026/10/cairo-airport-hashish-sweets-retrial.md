@@ -18,6 +18,11 @@ figures:
   fine:
     amount: 10000
     currency: EGP
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2e42d3d1e1af3acca33f2e78250a75e5

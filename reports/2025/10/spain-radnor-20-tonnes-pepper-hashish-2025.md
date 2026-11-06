@@ -22,6 +22,11 @@ media:
     publisher: Policía Nacional via Estrella Digital
     caption: Police video still of the hashish hidden among green peppers
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, peppers, algeciras, dgsn, radnor]
 open_questions:

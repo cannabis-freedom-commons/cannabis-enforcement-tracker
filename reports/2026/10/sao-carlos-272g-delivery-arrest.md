@@ -21,6 +21,15 @@ media:
     media_url: https://jornalpp.com.br/wp-content/uploads/2026/11/maconha.jpg
     publisher: Jornal Primeira Página
     caption: Lead photo on the source page for this seizure report
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c0c4888529a96c1d4c74a33e2159675

@@ -13,6 +13,12 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.305
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 13daaa445d9948f3f6b6260080e5ec18

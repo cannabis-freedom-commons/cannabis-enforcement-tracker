@@ -15,6 +15,14 @@ figures:
   plants_destroyed: 36000
   hectares: 0.24
   arrested: 0
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [cerro-veladero, baja-california, fesc, eradication]

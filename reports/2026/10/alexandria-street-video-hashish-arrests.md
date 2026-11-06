@@ -25,6 +25,11 @@ media:
     media_url: https://www.mobtada.com/resize?src=uploads/images/2026/10/20261031_010828901_0_MkhtG1.jpg&w=750&h=450&zc=0&q=70
     publisher: مبتدا
     caption: 'Photo captioned "the accused" with the Mobtada report on the Alexandria street hashish arrests. Photo: مبتدا'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1285783c35be1725da4ace2af181a0b4

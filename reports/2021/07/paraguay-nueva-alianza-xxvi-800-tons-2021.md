@@ -28,6 +28,12 @@ media:
     publisher: Diálogo Américas
     caption: "Federal Police and Senad agents destroyed nearly 48 tons of marijuana in Amambay during the operation's 26th phase. Photo: Senad via Diálogo Américas"
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [senad, amambay, nueva-alianza]
 sources:

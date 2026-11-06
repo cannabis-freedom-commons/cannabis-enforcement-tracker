@@ -20,6 +20,13 @@ media:
     media_url: https://media.dinamani.com/dinamani/2026-11-05/9bc5oxh1/4amnpsa0411chn466.jpg?w=828&q=65&auto=format%2Ccompress&fit=max
     publisher: தினமணி (Dinamani)
     caption: 'Photo captioned "கைது செய்யப்பட்ட இளைஞா்கள்" (the arrested youths), showing the two men taken into custody. Photo: Dinamani'
+details:
+  setting: [school]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d55027712d8098e2243784b5a97426d1

@@ -24,6 +24,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/960/2026/10/27/065bfd3c-590f-4225-adf2-2300d3623fa3_1793047304681.jpg
     publisher: Divya Bhaskar
     caption: Bhavnagar SOG personnel photographed at Patana village after the raid; the page gives no image credit.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 7a0e6162bbd842a49af01012c2468a97

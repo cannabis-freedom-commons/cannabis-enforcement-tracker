@@ -25,6 +25,17 @@ media:
     publisher: Daily Voice
     caption: Truck halted on the N1 with bags of cannabis, as published with reports on the November 2023 interceptions.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [dagga, n1, western-cape, truck, traffic-police]
 open_questions:

@@ -15,6 +15,12 @@ figures:
   charged: 4352
   plants_destroyed: 21355
   kg_seized: 7490.53271
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a0f8278d75694f018d977b5d174f971a

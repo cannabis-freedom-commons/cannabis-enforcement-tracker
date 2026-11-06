@@ -18,6 +18,12 @@ summary: >-
 figures:
   plants_destroyed: 168000
   hectares: 5.5
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [sugpon, pdea, ilocos-sur]

@@ -19,6 +19,11 @@ media:
     media_url: https://assets.laprensagrafica.com/__export/1771016480037/sites/prensagrafica/img/2026/02/13/whatsapp_image_2026-02-13_at_2_59_05_pm.jpeg_554688467.jpeg
     publisher: La Prensa Gráfica
     caption: 'Canine agents of the National Civil Police taking part in the 13 February 2026 operation against the alleged drug-trafficking structure. Photo: FGR via La Prensa Gráfica'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d9e3302f901d7b0672064889a536a605

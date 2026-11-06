@@ -31,6 +31,12 @@ media:
     media_url: https://www.infobae.com/resizer/v2/PZZJSGBNONFGBEGCYVWZEELF3Q.png?auth=bf31fbf9b9c3ef4e446df20268df3048c58976954715216aca61dce9b94da334&smart=true&width=350&height=405&quality=85
     publisher: Infobae
     caption: 'Inés “N” in a photograph published with the report of her arrest in Taxco. Photo: Fiscalía General del Estado de Guerrero.'
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e4fb882840f31b0d640c5149679be03d

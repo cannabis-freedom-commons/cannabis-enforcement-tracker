@@ -17,6 +17,12 @@ figures:
   arrested: 4
   charged: 4
   kg_seized: 40.82
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, dispensaries, medical-marijuana]
 sources:

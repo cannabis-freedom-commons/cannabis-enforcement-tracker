@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 552403bd633dd25f2cd29beef005c1f4

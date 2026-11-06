@@ -21,6 +21,12 @@ media:
     media_url: https://i0.wp.com/ppnewsfb.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-04-090409.png?fit=408%2C453&ssl=1
     publisher: PPNews FB
     caption: 'Seized bags with suspected drugs and plants laid on a table in front of Santa Catarina Military Police and Parana 21st BPM banners. Photo: PM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: aa01ce831a42b21cfc0d2f55e1270aaf

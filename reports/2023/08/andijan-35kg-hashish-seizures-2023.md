@@ -23,6 +23,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2023/08/quOra916926221280632_l.jpg
     publisher: Gazeta.uz
     caption: Video still accompanying the report on the Andijan hashish seizures.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7c1fdf32744b0433c9ecc53a51a70747

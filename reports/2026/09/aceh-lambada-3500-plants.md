@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 3500
   hectares: 1.5
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [aceh-besar, tni, eradication]
 sources:

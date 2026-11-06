@@ -50,6 +50,13 @@ media:
     media_url: https://www.youtube.com/embed/1XncOpF
     publisher: Amar Ujala
     caption: Amar Ujala video report about the two arrests and cannabis seizure; no video credit listed.
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 7, 8, 9, 12, 14, 15]
+  details.setting: [3, 4, 5, 6, 8, 9, 10, 13, 14, 15]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ed23a692cf816ca6f5e144e869c7b064

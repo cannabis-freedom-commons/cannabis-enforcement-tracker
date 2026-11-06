@@ -20,6 +20,11 @@ media:
     media_url: https://www.dainiksokal.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-02T222327.677.jpg
     publisher: দৈনিক সকাল
     caption: Image accompanying the report on the woman arrested with 500 g of ganja in Galachipa.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dcbd3e163e441a91c86e9716ac0d7d5b

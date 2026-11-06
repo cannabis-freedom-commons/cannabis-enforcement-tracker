@@ -13,6 +13,11 @@ summary: >-
   Police arrested a suspected drug dealer during an identity check on route de Thionville in Luxembourg City on 29 September 2025, finding several bags of hashish, cash, four knives and a phone on him. On the prosecutor's orders he was arrested and brought before an investigating judge.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4850d6d201da7f7334fe433925cd30aa

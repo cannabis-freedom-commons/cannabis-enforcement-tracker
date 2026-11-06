@@ -17,6 +17,14 @@ summary: >-
   worth P14.16 million in Kibungan and Kapangan, Benguet. No arrests were reported.
 figures:
   plants_destroyed: 143070
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cordillera, kalinga, benguet, eradication]

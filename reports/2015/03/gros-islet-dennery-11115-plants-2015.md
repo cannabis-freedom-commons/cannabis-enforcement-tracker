@@ -13,6 +13,10 @@ summary: >-
 figures:
   arrested: 0
   plants_destroyed: 11115
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 63e44e045505b2cbe5e6f8e9c7b3fa35

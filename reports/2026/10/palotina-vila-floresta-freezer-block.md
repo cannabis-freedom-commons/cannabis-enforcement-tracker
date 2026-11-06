@@ -21,6 +21,15 @@ media:
     media_url: https://www.radioeducadora.com/upload/2026-10-31-2125069456ae5c07770e8a7.20721874.jpeg
     publisher: Rádio Educadora
     caption: 'The drugs seized in Palotina arranged on a table with a Polícia Militar badge and a ''31 OUT 26'' date tag. Photo: PMPR (Paraná Military Police).'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 056356a02a4f2fc353878ae4778c301e

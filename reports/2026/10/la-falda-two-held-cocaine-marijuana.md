@@ -31,6 +31,11 @@ media:
     media_url: https://www.lavoz.com.ar/_next/image/?url=https%3A%2F%2Fwww.lavoz.com.ar%2Fimages%2F2026%2F10%2F31%2Fut3THPf9l6_0x1000__detail.jpg&w=980&q=75
     publisher: La Voz del Interior
     caption: 'One of the men detained in the La Falda raids. Photo: Ministerio Público Fiscal de Córdoba (mpfcordoba.gob.ar).'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: be979faa2f535e3438aa9d785860bee4

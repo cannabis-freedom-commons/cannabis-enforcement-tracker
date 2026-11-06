@@ -13,6 +13,11 @@ summary: >-
   Sohag detectives detained eight people in sweeps across five villages and areas of Sohag markaz, seizing hashish alongside shabu, Tamol tablets, firearms and cash. Those held were processed for referral to the competent investigation authorities.
 figures:
   arrested: 8
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2a2fdcb50b51b2a3df254346f998f83f

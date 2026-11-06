@@ -16,6 +16,13 @@ figures:
   arrested: 4
   charged: 4
   kg_seized: 89.82
+details:
+  activity: [trafficking]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [dagga, trafficking, pharmacy-act]

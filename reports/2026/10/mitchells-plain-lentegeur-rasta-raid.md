@@ -17,6 +17,15 @@ summary: >-
   criminal case against its own members over the cash-theft claim.
 figures:
   arrested: 1
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: disputed
 created_by_model: meta/muse-spark-1.3#xhigh
 tags: [dagga, lentegeur, anti-gang-unit, ipid]

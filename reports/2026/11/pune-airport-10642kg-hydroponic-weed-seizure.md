@@ -23,6 +23,10 @@ media:
     media_url: https://img.aaplamahanagar.com/2026/11/Cannabis-seized-at-Pune-Airport.jpg?w=1024
     publisher: Aapla Mahanagar
     caption: Photo of the seized hydroponic weed packets concealed among food packets at Pune airport
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22776c80ff27cc7ac568691795ff0f0e

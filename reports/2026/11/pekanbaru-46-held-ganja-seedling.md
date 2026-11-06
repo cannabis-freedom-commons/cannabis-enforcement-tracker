@@ -19,6 +19,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/05/rilis-kasus-narkoba-1793868398048_169.jpeg?w=650&q=90
     publisher: detikSumut
     caption: 'Police display seized drug evidence at the Polresta Pekanbaru press conference for the operation. Photo: Raja Adil Siregar/detikSumut'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5591042161b4b01a6840581a967b6e1a

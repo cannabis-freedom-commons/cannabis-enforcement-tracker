@@ -17,6 +17,11 @@ figures:
   value:
     amount: 700000
     currency: MDL
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2d3a9a16f14cfdd4e5f64b833a59d0f9

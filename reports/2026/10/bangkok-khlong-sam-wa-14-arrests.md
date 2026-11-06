@@ -57,6 +57,14 @@ media:
     media_url: https://assets.aseannow.com/forum/uploads/monthly_2026_10/IMG_7113.jpeg.7037460dfe569b574d4d32a1b593fe563.jpeg
     publisher: ASEAN NOW
     caption: Lead photo on the source page for this warehouse raid report
+details:
+  agencies: [th-oncb]
+  agency_types: [anti-narcotics]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
+  details.setting: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 9d48c34cba4c50c6572ffc3969510db3

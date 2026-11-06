@@ -25,6 +25,11 @@ media:
     media_url: https://cdn.ajkerdarpon.com/images/010448f013230bfde2f2ac1f3acadd30.jpeg
     publisher: Ajker Darpan
     caption: Photo published with the report of the 500-gram ganja seizure in Madan
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fec3ab6592d957a406934ea32db240f2

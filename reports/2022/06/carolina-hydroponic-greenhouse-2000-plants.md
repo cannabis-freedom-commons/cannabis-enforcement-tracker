@@ -23,6 +23,10 @@ media:
     media_url: https://www.telemundopr.com/video/destacados/ocupan-el-invernadero-de-marihuana-mas-grande-en-puerto-rico/2353627/
     publisher: Telemundo Puerto Rico
     caption: 'Telemundo Puerto Rico video report on the seizure, described as recorded at the grow house confiscated in barrio Carruzo, Carolina. Video: Telemundo Puerto Rico'
+details:
+  environment: [indoor, greenhouse]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 817d43566739933e7e4d53da73116390

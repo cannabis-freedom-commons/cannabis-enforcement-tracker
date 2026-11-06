@@ -16,6 +16,11 @@ summary: >-
   facility and said they never knew what they were carrying across the Yemen border.
 figures:
   deaths: 5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, ethiopian-nationals, tigray, khamis-mushait, asir, taazir]

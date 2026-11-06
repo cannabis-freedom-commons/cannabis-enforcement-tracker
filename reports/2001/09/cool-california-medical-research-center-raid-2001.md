@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 32
   kg_seized: 9.07
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags: [medical-marijuana, dea, patient-records]
 open_questions:

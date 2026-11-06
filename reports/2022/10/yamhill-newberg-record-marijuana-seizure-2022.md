@@ -19,6 +19,10 @@ figures:
   kg_seized: 34894.86
   value: { amount: 76500000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [unlicensed-farm, trafficking]
 open_questions:

@@ -23,6 +23,14 @@ media:
     publisher: Tripura Star News
     caption: BSF and police personnel with the seized wrapped cannabis packets, in the photograph Tripura Star News published with the report.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+  setting: [border]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [tripura, sonamura, bsf, border, unclaimed]
 sources:

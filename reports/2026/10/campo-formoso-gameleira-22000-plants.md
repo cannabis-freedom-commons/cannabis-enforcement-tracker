@@ -13,6 +13,12 @@ summary: >-
   Bahia Civil and Military Police eradicated and burned 22,000 cannabis plants at Gameleira, Campo Formoso, on 6 October 2026. People who police said maintained and guarded the planting fled into woodland; no arrests were reported.
 figures:
   plants_destroyed: 22000
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [bahia, campo-formoso]

@@ -17,6 +17,11 @@ figures:
   charged: 2
   kg_seized: 1.0911
   prison: life
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 75dac124274ae7cb9bcf9e6d4654dfca

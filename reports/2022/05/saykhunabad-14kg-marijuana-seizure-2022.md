@@ -35,6 +35,14 @@ media:
     media_url: https://www.gazeta.uz/media/img/2022/05/TO16zy16517430498471_b.jpg
     publisher: Gazeta.uz
     caption: Police handout photo from the Saykhunabad house search, published after the account of the basement and cannabis bushes without its own caption
+details:
+  setting: [home]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 821c3fbfa7bca44e58e49a9a378b3e04

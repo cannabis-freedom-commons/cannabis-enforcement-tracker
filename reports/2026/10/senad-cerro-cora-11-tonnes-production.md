@@ -17,6 +17,12 @@ summary: >-
 figures:
   hectares: 3
   kg_seized: 11000
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [senad, amambay, cerro-cora, colonia-cumbre]

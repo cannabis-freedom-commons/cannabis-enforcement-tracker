@@ -19,6 +19,13 @@ figures:
   value:
     amount: 660000000
     currency: PKR
+details:
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [islamabad, airport, thailand-route, weed]

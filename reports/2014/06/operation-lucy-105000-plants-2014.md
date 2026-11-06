@@ -14,6 +14,12 @@ figures:
   arrested: 640
   plants_destroyed: 105000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [nz-police]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [operation-lucy, organised-crime]
 open_questions:

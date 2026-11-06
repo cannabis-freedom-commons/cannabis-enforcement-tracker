@@ -20,6 +20,10 @@ figures:
   plants_destroyed: 1500
   value: { amount: 1960000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [school]
+data_sources:
+  details.setting: [2]
 status: verified
 tags: [llandysul, ceredigion, school, m4-interception, indoor-grow]
 open_questions:

@@ -16,6 +16,11 @@ figures:
   kg_seized: 2.35
   prison: 10 years' rigorous imprisonment
   fine: { amount: 100000, currency: INR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [charas, hamirpur, trial-court]

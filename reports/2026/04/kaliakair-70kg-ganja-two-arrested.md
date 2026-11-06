@@ -23,6 +23,12 @@ media:
     media_url: https://banglaralonews.com/public/postimages/69e914364df2b.PNG
     publisher: Banglar Alo News
     caption: Photo published with the report on the seizure of 70 kg 700 g of ganja and the arrest of two men in Kaliakair.
+details:
+  agencies: [bd-rab]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6e0b2b5cb132fe3fcf9bf22993c74a34

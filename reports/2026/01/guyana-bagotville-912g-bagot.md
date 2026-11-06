@@ -16,6 +16,10 @@ summary: >-
   ecstasy. He pleaded not guilty and was bailed for February proceedings.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [guyana, canu, trafficking]

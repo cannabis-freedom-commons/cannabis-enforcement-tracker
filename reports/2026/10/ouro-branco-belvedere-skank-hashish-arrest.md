@@ -14,6 +14,15 @@ summary: >-
   Military Police arrested 23-year-old J.I.P.S. for drug trafficking on 31 October 2026 in Belvedere, Ouro Branco, seizing skank, a marijuana tablet and a hashish tablet plus LSD-like pills. He was taken to the Civil Police with the drugs, a precision scale and a mobile phone.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c93a40eadc6993330e81f8ab29b571a6

@@ -36,6 +36,15 @@ media:
     media_url: https://assets-news-bcdn.dailyhunt.in/cmd/resize/600x338_75/fetchdata20/images/ce/fd/b7/cefdb71a6156c5f1326b6e959ebe62872845562f5435a617407c7570df91a0dc.webp
     publisher: Andhra Jyothy, via Dailyhunt
     caption: Close-up of bundled cannabis published as the lead image of the report on the Suryapet seizure; the page gives no photo credit.
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [4, 18]
+  details.agency_types: [4, 18]
+  details.products: [1, 2, 3, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 84a8096d1d3579af6b716aef68cf7961

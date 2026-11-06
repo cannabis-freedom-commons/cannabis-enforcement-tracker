@@ -24,6 +24,12 @@ media:
     media_url: https://static.toiimg.com/thumb/msid-135400387,imgsize-62057,width-400,height-225,resizemode-75/whatsapp-image-2026-10-31-at-40200-pmjpeg.jpg
     publisher: The Times of India
     caption: 'The cannabis seized by the ANTF in Khurda. Photo: The Times of India'
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4463d2969a65cbaf947023301cc187b3

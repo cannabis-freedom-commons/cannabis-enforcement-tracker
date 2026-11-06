@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 52000
 created_by_model: unknown
+details:
+  agencies: [in-ncb, in-anf, in-excise]
+  agency_types: [anti-narcotics, regulator]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [boudh, zero-cultivation-mission]
 sources:

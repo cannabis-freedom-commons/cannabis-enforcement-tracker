@@ -20,6 +20,11 @@ media:
     media_url: https://www.livehindustan.com/lh-img/smart/img/2026/11/04/1200x900/KSB1042651_1793790000170_VGhK.JPG
     publisher: Live Hindustan
     caption: Photo published with the report on the nine arrests and 16.758 kg ganja seizure under Operation Savera.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5fec87c6efa80e726ccd1711d1077020

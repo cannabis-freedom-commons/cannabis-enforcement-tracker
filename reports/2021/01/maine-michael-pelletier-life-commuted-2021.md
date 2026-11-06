@@ -16,6 +16,10 @@ summary: >-
 figures:
   prison: life plus concurrent 20 years (commuted January 2021)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [commutation, clemency, smuggling, life-sentence]
 open_questions:

@@ -16,6 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 80000
 created_by_model: xai/grok-4.7
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [india, tripura, mohanpur, eradication]
 sources:

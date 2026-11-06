@@ -13,6 +13,10 @@ summary: >-
   cultivation prohibition, which carries five to twenty years in prison plus a fine for unauthorised
   growing.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: guatemala-cannabis-eradication-report-2026
 tags:

@@ -17,6 +17,11 @@ summary: >-
 figures:
   kg_seized: 29.3005
   prison: 8 years 6 months
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [santarem, lisbon, resin]

@@ -16,6 +16,12 @@ figures:
   arrested: 438
   plants_destroyed: 74349
   kg_seized: 10.414
+details:
+  products:
+    - {product: hashish}
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bd5760ad42dddb22fc03affcedd13800

@@ -18,6 +18,13 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 47
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [islamabad, airport, thailand-route, hashish]

@@ -19,6 +19,12 @@ figures:
   kg_seized: 17
   prison: 2 years 6 months
   value: { amount: 50000, currency: GBP }
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [belfast, smuggling, airport]

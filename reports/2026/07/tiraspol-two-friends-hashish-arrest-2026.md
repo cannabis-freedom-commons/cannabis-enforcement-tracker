@@ -13,6 +13,11 @@ summary: >-
   Operatives in Tiraspol detained two friends, aged 21 and 20, in the daytime on 15 July 2026 and seized hashish from each of them. Both reportedly use drugs and face a fine of up to 21,000 rubles or up to three years in prison for storage.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c69cfc45fbcfc10c5146e659cc793fd6

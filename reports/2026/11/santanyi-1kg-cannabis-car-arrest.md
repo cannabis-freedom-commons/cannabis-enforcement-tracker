@@ -20,6 +20,12 @@ media:
     media_url: https://images.ecestaticos.com/Od4Vl-rsab2lMtVp4Jr0vSXATZ4=/0x158:1080x968/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0eb%2F484%2F237%2F0eb4842375b13cf76101caa35972a39f.jpg
     publisher: El Confidencial
     caption: 'Seized bag holding a kilo of marijuana. Photo: Europa Press/Guardia Civil'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 6]
+  details.agency_types: [1, 2, 3, 4, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22c39910b55c18ac46c3c25e3bd8724c

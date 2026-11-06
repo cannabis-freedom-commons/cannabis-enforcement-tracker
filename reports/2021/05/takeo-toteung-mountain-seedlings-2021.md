@@ -12,6 +12,11 @@ summary: >-
   Police destroyed thousands of marijuana seedlings spread across eight sites covering about 2,000 square metres on Toteung mountain in Takeo's Kiri Vong district, seizing six irrigation water tanks. No growers were arrested after they fled before police arrived, continuing a cycle of replanting and eradication reported since 2019.
 figures:
   hectares: 0.2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cfd9b64516732f9d18a9cc9d46d6b089

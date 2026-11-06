@@ -21,6 +21,12 @@ media:
     media_url: https://banglaralonews.com/public/postimages/6a32377165bc7.jpg
     publisher: Banglar Alo News
     caption: 'Photo published with the report of the RAB checkpoint in Thakurgaon where 64 kg of cannabis and two men were seized. Credit: Banglar Alo News'
+details:
+  agencies: [bd-rab]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f734642802f3473f51719b4b0e73f65a

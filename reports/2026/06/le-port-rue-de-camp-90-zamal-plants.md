@@ -16,6 +16,10 @@ figures:
   charged: 3
   plants_destroyed: 90
   kg_seized: 9
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef3ef69af5fc436182ae2171cad9395d

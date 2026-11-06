@@ -20,6 +20,10 @@ figures:
   kg_seized: 3289
   value: { amount: 6000000, currency: EUR }
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [trafficking, canada-route, valencia]
 sources:

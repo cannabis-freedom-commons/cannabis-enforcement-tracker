@@ -18,6 +18,12 @@ summary: >-
 figures:
   kg_seized: 18143.7
   arrested: 8
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tunnel, sinaloa-cartel, otay-mesa, ice]

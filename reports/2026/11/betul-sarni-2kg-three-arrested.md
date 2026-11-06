@@ -18,6 +18,11 @@ figures:
   value:
     amount: 80000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9a2c861dae20669d3810893a3dbe0eba

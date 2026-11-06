@@ -20,6 +20,12 @@ figures:
   charged: 7
   kg_seized: 9888
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [chicago-heights, rail, mexico]
 sources:

@@ -21,6 +21,14 @@ media:
     media_url: https://www.elimparcial.com/resizer/v2/3X5OOHFYBRCPHOAO6JLR7BDEAU.jpeg?auth=fee9620bf7f905591e13f52bbae6e7462b8cacdb882c40f633c10c08c36ef16b&smart=true&width=1200&height=800&quality=70
     publisher: El Imparcial
     caption: 'Seized marijuana packets in the Rincones de Puebla detention. Photo: courtesy via El Imparcial.'
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+  activity: [sale]
+data_sources:
+  details.activity: [1, 3]
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 22607efb68c1280029bb5dde6509bcd6

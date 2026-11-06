@@ -13,6 +13,11 @@ summary: >-
   use; investigators described a home-growing operation. Laboratory tests identified viable
   cannabis seeds…
 created_by_model: unknown
+details:
+  products:
+    - {product: seeds}
+data_sources:
+  details.products: [1, 3]
 status: verified
 cfi_id: bahrain-home-cultivation-appeal-2026
 tags:

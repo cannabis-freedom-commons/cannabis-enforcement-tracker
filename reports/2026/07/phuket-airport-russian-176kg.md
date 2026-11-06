@@ -24,6 +24,11 @@ media:
     media_url: https://www.tourdom.ru/newapi/assets/5a3cc3f5-5c53-4ca6-9079-ad6828eae419?width=860&height=500
     publisher: Tourdom.ru
     caption: 'The cannabis seizure at Phuket airport. Photo: The Phuket News'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7ae98d73759bf123ce904c128245d206

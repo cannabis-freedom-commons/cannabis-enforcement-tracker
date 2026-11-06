@@ -20,6 +20,12 @@ figures:
   kg_seized: 1377.6
   value: { amount: 189000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea, us-fbi]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [anza-valley, illicit-grows, riverside]
 media:

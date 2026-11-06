@@ -16,6 +16,14 @@ summary: >-
   force said field tests confirmed marijuana and sent the case to prosecutors.
 figures:
   arrested: 1
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.setting: [2, 3, 5]
 status: verified
 created_by_model: unknown
 tags: [felcn, potosi, border]

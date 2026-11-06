@@ -18,6 +18,14 @@ figures:
   kg_seized: 5.5
   hectares: 0.496
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [edo, owan-west, ndlea, cannabis-farms, eradication]
 open_questions:

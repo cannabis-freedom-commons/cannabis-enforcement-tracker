@@ -22,6 +22,11 @@ figures:
   fine:
     amount: 150000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sidhai, west-tripura, ganja, ndps]

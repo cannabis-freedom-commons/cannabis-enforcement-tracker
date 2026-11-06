@@ -19,6 +19,10 @@ figures:
   arrested: 10
   value: { amount: 150000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [smuggling, british-columbia, akwesasne, continuing-criminal-enterprise]
 open_questions:

@@ -17,6 +17,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 28.241
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [urdaneta, buy-bust, pdea, kush]

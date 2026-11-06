@@ -18,6 +18,18 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 7.68
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, kush, hashish, thailand-route, supplements]

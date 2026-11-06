@@ -16,6 +16,13 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 18243
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [sidi-rahal, casablanca, resin, trafficking]

@@ -16,6 +16,12 @@ summary: >-
   three outlets and charged owners; the county later put July arrests at ten.
 figures:
   arrested: 10
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

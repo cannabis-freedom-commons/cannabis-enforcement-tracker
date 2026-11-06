@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 1463900
   hectares: 3.8
 created_by_model: xai/grok-4.7
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [mexico, baja-california, semar, eradication]
 sources:

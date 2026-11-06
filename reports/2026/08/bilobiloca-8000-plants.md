@@ -16,6 +16,10 @@ summary: >-
   arrested. [@2]
 figures:
   arrested: 0
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [fiji, northern-division, bilobiloca, seizure, eradication]

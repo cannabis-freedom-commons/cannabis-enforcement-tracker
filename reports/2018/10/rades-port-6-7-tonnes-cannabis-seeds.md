@@ -10,6 +10,11 @@ type: seizure
 title: 6.7 tonnes of cannabis-yielding seeds seized at Radès port
 summary: >-
   Tunisian customs at the port of Radès seized 6.7 tonnes of sunflower seeds mixed with cannabis that laboratory tests found cultivable to obtain cannabis. The bird-feed consignments had arrived twice through the same port, and the file was sent to customs investigators with no suspects named.
+details:
+  products:
+    - {product: seeds}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 15405eb4932e14bbbd2ae00f12c961e0

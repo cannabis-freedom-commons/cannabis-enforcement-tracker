@@ -16,6 +16,13 @@ figures:
   arrested: 1
   plants_destroyed: 114
   kg_seized: 2.914
+details:
+  environment: [indoor]
+  products:
+    - {product: hashish}
+data_sources:
+  details.environment: [2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 22]
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 12c097ab6469c08ac914c0e4ea36bff7

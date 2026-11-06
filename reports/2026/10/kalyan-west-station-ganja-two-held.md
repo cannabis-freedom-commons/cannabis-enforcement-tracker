@@ -18,6 +18,11 @@ figures:
   value:
     amount: 286000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8f5017f1023c7ac63ca9f434bfef58b6

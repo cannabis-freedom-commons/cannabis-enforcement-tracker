@@ -16,6 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 135323
   value: { amount: 270000000, currency: USD }
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [washington-state-patrol, outdoor-grows, public-lands]

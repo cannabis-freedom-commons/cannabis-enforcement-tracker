@@ -21,6 +21,12 @@ media:
     media_url: https://jornalnoroeste.com.br/files/images/news_20261031_070607_0b6e2894b725cd6b.webp
     publisher: Jornal Noroeste
     caption: 'BM photo accompanying the report on the drugs seized in Santo Ângelo. Photo: BM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8073d5ff7073274ea29dfada48cd8885

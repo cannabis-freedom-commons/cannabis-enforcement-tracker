@@ -16,6 +16,12 @@ summary: >-
   560.4 kg, worth GH¢11.2 million, now with NACOC.
 figures:
   kg_seized: 560.4
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [aflao, volta, customs, lexus, nacoc]

@@ -13,6 +13,11 @@ summary: >-
   Police followed Milton Orlando Hernández Alfaro, alias Ñaña, from a marijuana handover at the Nuevo Amanecer terminal in Soyapango and arrested him in San Miguel. A San Miguel peace court later ordered him held in provisional detention while prosecutors investigate the alleged distribution network.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8fb7a0e5bb9af9849adfbbef6e8149e4

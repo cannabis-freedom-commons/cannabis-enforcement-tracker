@@ -15,6 +15,11 @@ figures:
   value:
     amount: 450000000
     currency: AMD
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 737d338a33701b8c3486ce05221d6cd1

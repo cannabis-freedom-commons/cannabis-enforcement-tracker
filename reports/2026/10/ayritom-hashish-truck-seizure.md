@@ -17,6 +17,13 @@ summary: >-
   customs, border, security and police case is underway.
 figures:
   kg_seized: 42.335
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ayritom, border, trafficking, hashish]

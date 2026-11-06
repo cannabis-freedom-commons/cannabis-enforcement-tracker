@@ -20,6 +20,12 @@ figures:
   hectares: 120
   value: { amount: 160000000, currency: USD }
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sedena, plantation, sinaloa-cartel]
 sources:

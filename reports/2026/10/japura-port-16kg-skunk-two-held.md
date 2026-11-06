@@ -26,6 +26,15 @@ media:
     media_url: https://amsfimg.amazoniasemfronteira.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-01-at-19.00.26.jpg
     publisher: Amazônia Sem Fronteira
     caption: 'Police photo of the skunk seized in the Japurá boat operation. Photo: Divulgação/PMAM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
+  details.products: [3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 984c25ed91c3ca54766ab20c7ef3fce6

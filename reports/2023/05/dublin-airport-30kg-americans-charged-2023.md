@@ -19,6 +19,14 @@ figures:
   charged: 2
   kg_seized: 30
   value: { amount: 600000, currency: EUR }
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+  setting: [airport]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [airport, trafficking, foreigner]

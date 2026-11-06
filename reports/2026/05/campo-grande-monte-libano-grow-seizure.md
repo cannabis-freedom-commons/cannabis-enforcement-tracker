@@ -26,6 +26,10 @@ media:
     media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/05/11/3sgqjnapshs00.jpeg
     publisher: Campo Grande News
     caption: 'Cannabis branches drying inside a makeshift greenhouse found in the residence. Photo: Direto das Ruas'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 876dd8fa61a9beb7abbde0c01a00aeca

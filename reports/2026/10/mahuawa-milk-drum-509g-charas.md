@@ -29,6 +29,11 @@ media:
     media_url: https://images.news18.com/ibnkhabar/uploads/2026/10/TV_6694191_vid20261030wa0053_1-2026-10-9e7646e26e1c65fd4f47fa75fc41b2f4.mp4
     publisher: News18 Hindi
     caption: Video embedded in the News18 Hindi report of the Motihari milk-container seizure.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f6feb1560958abe3507b82390c3481bb

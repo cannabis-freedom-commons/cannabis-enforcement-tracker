@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 6
   value: { amount: 10000000, currency: AUD }
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [blair-athol, hydroponic, sydney]

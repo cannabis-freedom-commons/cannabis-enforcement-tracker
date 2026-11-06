@@ -12,6 +12,10 @@ title: Five arrested in St Paul's Bay raid with cannabis among 150 sachets
 summary: Five people including a 16-year-old girl were arrested in St Paul's Bay after police found about 150 sachets of suspected heroin, cocaine and cannabis, plus about €5,000 and phones. One 20-year-old accused pleaded not guilty to cannabis and cocaine possession and was granted bail on a €1,000 deposit and €10,000 guarantee.
 figures:
     arrested: 5
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e83dbaeefc7a41ed5f32450e00eb7ba

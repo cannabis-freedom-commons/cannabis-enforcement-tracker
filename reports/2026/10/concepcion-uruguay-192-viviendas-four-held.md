@@ -47,6 +47,11 @@ media:
     media_url: https://elonce-media.elonce.com/fotos/2026/10/30/o_1793408051_89920.webp
     publisher: Elonce
     caption: 'Federal police photo published with the account of the four detentions, showing seized items laid out on a table. Photo: PFA, via Elonce.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: e5655aad1ab8710150e784427156756f

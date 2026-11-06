@@ -19,6 +19,12 @@ summary: >-
   were secured for NDLEA handover.
 figures:
   arrested: 3
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [nasarawa, keana, cultivation, ndlea-handover]

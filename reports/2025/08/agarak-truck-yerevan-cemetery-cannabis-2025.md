@@ -25,6 +25,12 @@ media:
     media_url: https://www.youtube.com/embed/PtDOPxY06r0
     publisher: Новости-Армения
     caption: Video embedded in the report on the drug seizure, titled with the article headline. No separate credit is given.
+details:
+  activity: [smuggling]
+  setting: [online]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1ac5f5e2fcc04dba400df7adfe3ad088

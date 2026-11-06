@@ -19,6 +19,12 @@ figures:
   kg_seized: 75
   value: { amount: 149145400, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [procor, pdea, cordillera, herodotus]
 open_questions:

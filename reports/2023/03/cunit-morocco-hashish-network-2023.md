@@ -17,6 +17,15 @@ figures:
   arrested: 11
   kg_seized: 1146
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [hashish, morocco]
 open_questions:

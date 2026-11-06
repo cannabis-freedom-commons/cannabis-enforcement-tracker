@@ -12,6 +12,11 @@ summary: >-
   Montenegro's Border Police seized about 66 kg of skunk marijuana in 119 packages near Sukobin village in Ulcinj. Two suspected carriers fled toward Albania and remained sought, with prosecutors in Podgorica notified.
 figures:
   kg_seized: 66
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de31c223e53b0a4a2882970fc8556842

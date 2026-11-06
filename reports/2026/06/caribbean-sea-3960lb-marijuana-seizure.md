@@ -20,6 +20,17 @@ media:
     media_url: https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1781644864-detectan-narcolancha-ecuatoriana-caribe-incautan-casi-dos-toneladas-marihuana.jpg
     publisher: CiberCuba
     caption: The Ecuadorian-style three-engine go-fast boat intercepted in the Caribbean Sea, in a photo credited to X/@CBPAMO.
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+  setting: [port]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: dc10a9a997aa57ba0f8f947af2775aca

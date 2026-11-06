@@ -11,6 +11,10 @@ summary: >-
   cannabis, alongside 52 kg of cocaine and psychotropic drugs. Security minister Calixte Madjoulba
   pointed to the seizures as evidence of anti-trafficking work.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: togo-drug-seizures-report-2026
 tags:

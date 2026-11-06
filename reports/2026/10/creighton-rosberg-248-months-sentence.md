@@ -13,6 +13,15 @@ summary: >-
   Samuel Rosberg, 25, of Creighton was sentenced to 248 months in federal prison for a polydrug conspiracy that included marijuana and THC products alongside methamphetamine, cocaine and psilocybin, plus a firearm count. The case involved statewide distribution, controlled buys in Kearney and more than 20 firearms seized from his Creighton home.
 figures:
   prison: 248 months
+details:
+  agencies: [us-hsi, us-fbi]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 570f3c8a277e48a60313343a2de62d45

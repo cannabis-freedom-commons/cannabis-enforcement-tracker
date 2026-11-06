@@ -13,6 +13,12 @@ summary: >-
   his car. CNB valued the cannabis at more than S$184,000 and said it could feed about 1,040
   abusers for a…
 created_by_model: unknown
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: singapore-2025-cavenagh-cannabis-seizure
 sources:

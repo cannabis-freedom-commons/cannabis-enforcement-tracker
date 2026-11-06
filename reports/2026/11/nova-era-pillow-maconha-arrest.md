@@ -20,6 +20,15 @@ media:
     media_url: https://otempo.scene7.com/is/image/sempreeditora/cidades-trafico_de_drogas-maconha-nova-era-mg-1793656168?qlt=90&wid=1200&ts=1793656277933&dpr=off
     publisher: O TEMPO
     caption: 'Police photo of the seized package of marijuana. Photo: PMMG / Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 4]
+  details.agency_types: [1, 2, 4]
+  details.products: [1, 2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c7069b90271e10f14c19fa1a17b41e63

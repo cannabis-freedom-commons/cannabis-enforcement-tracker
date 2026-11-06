@@ -19,6 +19,12 @@ figures:
   hectares: 158
   kg_seized: 24485
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [amambay, senad, nueva-alianza-56, eradication]
 sources:

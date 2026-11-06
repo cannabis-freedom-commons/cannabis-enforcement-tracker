@@ -19,6 +19,12 @@ figures:
   arrested: 6
   hectares: 80.5
 created_by_model: unknown
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [kandhamal, drones]
 sources:

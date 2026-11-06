@@ -24,6 +24,17 @@ media:
     media_url: https://starofmysore.com/wp-content/uploads/2026/09/news15-5-1024x427.png
     publisher: Star of Mysore
     caption: 'Excise and forest officials with the seized ganja plants inside the BRT Tiger Reserve forest. Photo: Star of Mysore.'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  setting: [forest]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [karnataka, chamarajanagar, ganja, forest, excise]

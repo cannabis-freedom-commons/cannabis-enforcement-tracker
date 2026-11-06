@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 3548
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [puntarenas, matapalo, dea, maritime]

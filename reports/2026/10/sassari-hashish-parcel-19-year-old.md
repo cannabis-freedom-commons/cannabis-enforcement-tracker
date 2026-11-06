@@ -16,6 +16,15 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 2
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b854978dc0264f464c3d50bcce0e6051

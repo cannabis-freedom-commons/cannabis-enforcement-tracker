@@ -26,6 +26,11 @@ media:
     media_url: https://rajshahirsomoy.com/public/postimages/6ae86e45ba903.jpg
     publisher: Rajshahir Somoy
     caption: Photo accompanying the report of the Upashahar 48 kg seizure and two arrests
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 840afcee50a2bf9b6508a877ce825195

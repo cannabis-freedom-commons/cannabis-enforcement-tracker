@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 28
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+  setting: [airport]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [larnaca, airport, trafficking, thailand-route]

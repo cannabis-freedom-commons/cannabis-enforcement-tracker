@@ -20,6 +20,15 @@ media:
     media_url: https://storage.ecodibergamo.it/media/photologue/2026/11/4/photos/cache/sedrina-fermato-con-cocaina-e-hashish-arrestato-un-26enne_21a0b214-d865-11f1-9dae-fee58998ff83_1920_2560_v3_medium_libera.jpg
     publisher: L'Eco di Bergamo
     caption: 'Seized drugs from the 26-year-old arrested in Sedrina by the Zogno Carabinieri. Photo: L''Eco di Bergamo'
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3, 5]
+  details.agency_types: [1, 2, 3, 5]
+  details.products: [1, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 878ea340ec1686773463dc6838175b21

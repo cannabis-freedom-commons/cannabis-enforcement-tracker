@@ -24,6 +24,11 @@ media:
     media_url: https://rig24.in/wp-content/uploads/2026/10/IMG-20261030-WA0004.jpg
     publisher: RIG24
     caption: A man squatting in front of Kharsia police officers outside the police station, in the article's featured photograph; the page gave no caption or credit.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b5a12faea25e67453d0f9d35fe14fac5

@@ -69,6 +69,11 @@ media:
     media_url: https://www.hariansib.com/cdn/uploads/images/2026/10/_887_OSN-Polresta-Deliserdang-Ungkap-30-Kasus-dan-Amankan-57-Tersangka--Sita-23-Kg-Sabu-dan-23-Kg-Ganja.png
     publisher: Harian SIB
     caption: 'Police chief with Forkopimda members and guests holding up seized evidence at the press conference on 30 October 2026 in Lubukpakam. Photo: Lisbon Situmorang / harianSIB.com'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4, 5, 7, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645

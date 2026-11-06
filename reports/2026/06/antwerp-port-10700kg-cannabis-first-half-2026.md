@@ -12,6 +12,13 @@ summary: >-
   Belgian customs seized 10.7 tonnes of cannabis at the Port of Antwerp in the first half of 2026 across 13 marijuana interceptions. Most of the marijuana came from Canada, which customs chief Kristian Vanderwaeren linked to overproduction under Canada's domestic legal market, while seized hashish came mainly from Morocco.
 figures:
   kg_seized: 10700
+details:
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd11b235b7e052f991324a72f028f89c

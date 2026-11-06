@@ -20,6 +20,11 @@ media:
     media_url: https://pxcdn.ellitoral.com.ar/litoral/102026/1793460558471.webp?cw=1200&ch=675&extw=jpeg
     publisher: El Litoral
     caption: Cash, mobile phones and packaged drug doses laid out on a table after the raid in Curuzú Cuatiá.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ea28f31caaaec7b74ca59bc60c68d44f

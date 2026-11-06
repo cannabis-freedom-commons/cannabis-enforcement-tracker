@@ -14,6 +14,11 @@ summary: >-
   Security forces in Sohag arrested a 30-year-old unemployed man at his home in Rawafi al-Qasir, finding five slabs of hashish, 139 rolls of shabu weighing about a kilogram, a locally made gun and cash. Prosecutors authorised the raid, and the man was detained and referred to them.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a0c9e6dfd0e7f19defaf35f2465627c5

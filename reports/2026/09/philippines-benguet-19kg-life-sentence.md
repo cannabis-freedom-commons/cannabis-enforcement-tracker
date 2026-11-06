@@ -22,6 +22,12 @@ figures:
     amount: 500000
     currency: PHP
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [benguet, la-trinidad, pdea, buy-bust, reclusion]
 open_questions:

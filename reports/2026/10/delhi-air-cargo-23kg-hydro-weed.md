@@ -19,6 +19,10 @@ figures:
   arrested: 1
   value: { amount: 81200000, currency: INR }
 created_by_model: unknown
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [hydroponic, bangkok-route, air-cargo]
 sources:

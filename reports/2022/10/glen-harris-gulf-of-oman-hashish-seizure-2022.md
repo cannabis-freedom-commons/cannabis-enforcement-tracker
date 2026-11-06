@@ -23,6 +23,13 @@ media:
     media_url: https://www.stripes.com/incoming/akv82c-121022methphoto02.jpg/alternates/LANDSCAPE_910/121022METHphoto02.JPG
     publisher: Stars and Stripes
     caption: 'Illicit drugs seized by the Coast Guard cutter from a fishing vessel in the Gulf of Oman. Photo: U.S. Coast Guard'
+details:
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 911a26d26c0345c57a944e95c3bc0386

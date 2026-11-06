@@ -17,6 +17,10 @@ figures:
   arrested: 5
   kg_seized: 38.6
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [bihar, vaishali, bus, minors, operation-neelkanth]
 sources:

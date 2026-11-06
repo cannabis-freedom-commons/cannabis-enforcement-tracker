@@ -40,6 +40,8 @@ func run() error {
 	reportSlug := flag.String("report-slug", "", "Existing report slug for a duplicate resolution")
 	backup := flag.String("backup", "", "Write an online SQLite backup to a new file, then exit")
 	retry := flag.String("retry", "", "Retry dead jobs/outbox for a submission ID, then exit")
+	enrich := flag.Int("enrich", 0, "Add quotation-checked structured details to up to N existing reports that have none (uses the research model; writes report files, does not commit), then exit")
+	enrichReport := flag.String("enrich-report", "", "With -enrich: only this report slug")
 	compareContext := flag.Bool("compare-context", false, "Compare research by starting-context mode (RESEARCH_CONTEXT), then exit")
 	pruneJobs := flag.Bool("prune-jobs", false, "Clean disposable job workspaces and expired job logs, preserving sources and active jobs, then exit")
 	flag.Parse()
@@ -76,6 +78,12 @@ func run() error {
 			return errors.New(snapshot.Message)
 		}
 		return nil
+	}
+
+	if *enrich > 0 {
+		ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
+		defer cancel()
+		return runEnrich(ctx, c, *enrich, *enrichReport, os.Stdout)
 	}
 
 	if *compareContext {

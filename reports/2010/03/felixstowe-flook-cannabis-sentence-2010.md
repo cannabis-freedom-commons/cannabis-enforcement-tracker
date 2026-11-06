@@ -19,6 +19,10 @@ figures:
   kg_seized: 7500
   prison: 18 years
   value: { amount: 12000000, currency: GBP }
+details:
+  setting: [port]
+data_sources:
+  details.setting: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [trafficking, maritime, customs]

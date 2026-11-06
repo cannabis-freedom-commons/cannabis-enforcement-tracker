@@ -19,6 +19,12 @@ figures:
   arrested: 282
   kg_seized: 48144.75
   value: { amount: 353000000, currency: USD }
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [epic, bonta, unlicensed-cultivation, environmental-harm]

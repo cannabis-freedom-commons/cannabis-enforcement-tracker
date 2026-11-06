@@ -20,6 +20,11 @@ media:
     media_url: https://www.fbcnews.com.fj/wp-content/uploads/2026/10/Cash-and-drugs.png
     publisher: Fiji Broadcasting Corporation
     caption: 'Photo of the seized cash and suspected drugs from the Cunningham arrest. Photo: Fiji Police /Facebook'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c5c62c8c2f53c4a47b80d42d9155847

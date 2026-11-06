@@ -19,6 +19,11 @@ media:
     media_url: https://tvjaguari.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-11.56.08-800x450.webp
     publisher: TV Jaguari
     caption: 'Drugs seized in the Ouro Negro operation. Photo: GCM'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7e301c82ed86ce0495f0ea72be4b60d2

@@ -17,6 +17,10 @@ figures:
   kg_seized: 1453.3
   value: { amount: 25000000, currency: THB }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [customs, laem-chabang, uk-route, export]
 open_questions:

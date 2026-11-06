@@ -13,6 +13,11 @@ summary: >-
   Police at Kathmandu's Tribhuvan International Airport arrested 46-year-old American citizen Ognian Petrov with five bottles of suspected cannabis oil. He was bound for Delhi on Air India flight AI 218 and was handed to the Narcotics Control Bureau for investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b899c08f198ad112f09b17ad64f0fef3

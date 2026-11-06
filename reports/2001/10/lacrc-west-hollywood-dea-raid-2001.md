@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 400
   arrested: 0
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [medical-marijuana, dea, buyers-club]
 open_questions:

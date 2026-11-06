@@ -13,6 +13,11 @@ summary: >-
   Kafr El Sheikh detectives arrested three men accused of drug trafficking and holding unlicensed firearms, seizing 25 hashish slabs and 32 pieces alongside shabu, heroin, guns and a motorcycle. The suspects were referred to the Public Prosecution for investigation.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fb35ecb78b0f47a1ae085918a35c11cf

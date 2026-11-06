@@ -22,6 +22,10 @@ media:
     media_url: https://i0.wp.com/stluciastar.com/wp-content/uploads/2012/02/Marijuana.jpg?w=550&ssl=1
     publisher: THE STAR - St Lucia
     caption: The marijuana field found and destroyed by local police.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fbd36ba333b3b44e0efaa9adac58c430

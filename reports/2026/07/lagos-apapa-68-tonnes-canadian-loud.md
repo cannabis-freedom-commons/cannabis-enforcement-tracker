@@ -13,6 +13,12 @@ summary: >-
   Nigeria's NDLEA took custody of 6,778.5 kg of Canadian Loud cannabis at Apapa Port on 1 July 2026 after joint examinations of two containers on 15 and 24 June. The agency said its units tracked the shipments from Canada with the RCMP and Customs; no arrests were reported.
 figures:
   kg_seized: 6778.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [lagos, apapa, canadian-loud, ndlea, rcmp]

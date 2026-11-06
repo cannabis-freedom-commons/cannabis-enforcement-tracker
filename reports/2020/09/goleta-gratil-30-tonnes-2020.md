@@ -19,6 +19,15 @@ figures:
   arrested: 9
   kg_seized: 30500
 created_by_model: meta/muse-spark
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, atlantic, sailing-yachts, goleta-gratil]
 sources:

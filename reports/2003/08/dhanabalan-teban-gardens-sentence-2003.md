@@ -18,6 +18,14 @@ figures:
   charged: 1
   kg_seized: 1.25
   prison: 20 years
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [cnb, trafficking, cane]

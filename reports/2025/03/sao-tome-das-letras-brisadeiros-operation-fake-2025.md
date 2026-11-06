@@ -13,6 +13,12 @@ summary: >-
   Police detained 10 people and seized almost 400 ‘brisadeiros’ and other ‘magic’ sweets in São Tomé das Letras on 22 March 2025, including 15 cannabis palhas italianas. Health officials said 13 people needed care after eating the sweets in January and February, with no new cases by June after the alert and operation.
 figures:
   arrested: 10
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3d8ee712ebc0e504066f947ce15635c1

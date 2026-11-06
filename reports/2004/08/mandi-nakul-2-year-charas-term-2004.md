@@ -15,6 +15,11 @@ summary: >-
 figures:
   prison: 2 years' imprisonment
   fine: { amount: 40000, currency: INR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [charas, mandi, trial-court]

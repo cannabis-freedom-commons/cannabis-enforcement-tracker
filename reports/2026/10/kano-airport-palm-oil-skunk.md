@@ -21,6 +21,14 @@ figures:
   arrested: 2
   kg_seized: 0.51175
 created_by_model: unknown
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - ndlea

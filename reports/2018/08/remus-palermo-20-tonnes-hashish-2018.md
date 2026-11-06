@@ -19,6 +19,17 @@ figures:
   kg_seized: 20140
   value: { amount: 200000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2]
 status: verified
 tags: [guardia-di-finanza, maritime, hashish, montenegro]
 media:

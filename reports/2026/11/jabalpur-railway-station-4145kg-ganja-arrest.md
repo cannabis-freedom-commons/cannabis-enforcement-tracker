@@ -28,6 +28,11 @@ media:
     media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/9f7171c9-57e6-47e1-8c05-4b73ff5594c8.webp
     publisher: Raj Express
     caption: 'Photo published with the report of the youth arrested with a consignment of ganja at Jabalpur railway station. Photo: Raj Express'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3c4ab48ebb7b08e509aabecc0d08b5eb

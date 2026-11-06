@@ -23,6 +23,11 @@ media:
     media_url: https://www.stripes.com/incoming/og7ap1-120225drugsphoto01.jpg/alternates/LANDSCAPE_910/120225DRUGSphoto01.jpg
     publisher: Stars and Stripes
     caption: 'A crew from USCGC Emlen Tunnell seizes illegal drugs from a stateless vessel in the Arabian Sea. Photo: U.S. Coast Guard'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 3dc7d905fa294254c32f17c0b11b82c1

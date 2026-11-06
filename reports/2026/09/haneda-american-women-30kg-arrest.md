@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 30
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [haneda, airport, new-york-route, trafficking]

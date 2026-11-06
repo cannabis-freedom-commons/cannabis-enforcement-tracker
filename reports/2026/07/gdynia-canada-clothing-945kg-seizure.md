@@ -47,6 +47,12 @@ media:
     media_url: https://www.gov.pl/photo/78626bde-b2c8-4a0f-843b-6b5418cc5703
     publisher: Izba Administracji Skarbowej w Gdańsku
     caption: 'Officers lift boxes of marijuana from a pallet in the Gdynia container. Photo: Izba Administracji Skarbowej w Gdańsku'
+details:
+  activity: [smuggling]
+  setting: [port]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 039d15e58209ca82afbc131eaac5e77e

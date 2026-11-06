@@ -47,6 +47,10 @@ media:
     caption: >-
       National Police video on the dismantled network with seven detainees, 3,000 marijuana plants and an
       arsenal of weapons
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 305e166187fb6fbfc463a0b43d7699e6

@@ -29,6 +29,11 @@ media:
     media_url: https://smartpress.by/upload/medialibrary/8a9/l13bcw4l6hx1xtc6in3230emsv8xp6wn/narkotiki1.jpg
     publisher: Смартпресс
     caption: Seized packages from the record 1.3-tonne shipment.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b1b3ed7ee3c186ab137166ccdbae2f41

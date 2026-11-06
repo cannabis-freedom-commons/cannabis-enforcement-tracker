@@ -20,6 +20,15 @@ media:
     media_url: https://admin.vechorka.ru/wp-content/uploads/2026/10/i-2026-10-29t123256.478.webp
     publisher: Вечерний Ставрополь
     caption: 'Police photo published with the report of the Kochubeyevsky seizure. Photo: ГУ МВД России по СК'
+details:
+  agencies: [ru-mvd]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: e61714f4489916eaf4fd789b656101af

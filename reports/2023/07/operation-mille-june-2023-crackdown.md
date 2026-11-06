@@ -20,6 +20,12 @@ figures:
     amount: 115000000
     currency: GBP
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gb-nca]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [operation-mille, npcc, organised-crime]
 open_questions:

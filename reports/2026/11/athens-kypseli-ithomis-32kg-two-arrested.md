@@ -22,6 +22,11 @@ media:
     media_url: https://greekcitytimes.com/wp-content/uploads/2026/11/cannabis.jpg
     publisher: Greek City Times
     caption: Seized small black cannabis packages in clear bags on a wooden floor.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54fc67597ac5cbd1e2ec3dba897e6d20

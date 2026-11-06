@@ -13,6 +13,10 @@ summary: >-
   Guangzhou Baiyun airport customs seized 6,794.26 g of cannabis from transit freight declared as handmade cotton luxury curtains. Officers said X-ray screening showed bagged lumps unlike curtains; 15 vacuum-packed bags of brown plant material tested as cannabis and were sent to anti-smuggling investigators.
 figures:
   kg_seized: 6.79426
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, guangzhou, customs, airport]

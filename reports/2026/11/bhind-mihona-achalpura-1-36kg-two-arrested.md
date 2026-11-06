@@ -19,6 +19,11 @@ figures:
   value:
     amount: 50000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3b8d0e55a9d230e0a5464d9a5012f400

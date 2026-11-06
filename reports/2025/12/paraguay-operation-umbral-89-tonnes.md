@@ -18,6 +18,14 @@ figures:
   deaths: 1
   kg_seized: 88991
   value: { amount: 13300000, currency: USD }
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [4]
+  details.agencies: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [senad, canindeyu, trafficking, record]

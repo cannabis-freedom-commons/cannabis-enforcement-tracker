@@ -43,6 +43,12 @@ media:
     caption: >-
       Lead photo on the source page for this operations report; its caption repeats the headline and carries
       no credit.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 5, 6, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca70948f496373ba768b4df84af5294f

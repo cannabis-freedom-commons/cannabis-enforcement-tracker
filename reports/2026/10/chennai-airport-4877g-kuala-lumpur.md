@@ -18,6 +18,12 @@ figures:
   value:
     amount: 17100000
     currency: INR
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 5, 8]
+  details.setting: [1, 3, 4, 5, 6, 7, 8, 9, 10, 13]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 31f26e485817d4c515025ff6c18a374e

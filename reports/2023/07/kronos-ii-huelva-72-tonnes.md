@@ -18,6 +18,15 @@ figures:
   arrested: 8
   kg_seized: 7200
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [2]
 status: verified
 tags: [huelva, hashish, customs, organised-crime]
 open_questions:

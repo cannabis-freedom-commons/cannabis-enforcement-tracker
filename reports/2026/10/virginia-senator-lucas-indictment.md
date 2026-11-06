@@ -17,6 +17,12 @@ summary: >-
 figures:
   charged: 7
 created_by_model: unknown
+details:
+  agencies: [us-fbi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3, 5, 6]
+  details.agency_types: [1, 2, 3, 5, 6]
 status: verified
 tags: [rico, corruption, indictment]
 sources:

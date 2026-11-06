@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 100197
   value: { amount: 175000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [outdoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [polk-county, outdoor-grow, record-haul]
 sources:

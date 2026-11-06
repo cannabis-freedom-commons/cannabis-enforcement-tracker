@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 11.399
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [import, port, barrel]

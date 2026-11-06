@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 148
+details:
+  setting: [home]
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [malang, home-grow, greenhouse]

@@ -24,6 +24,10 @@ media:
     media_url: https://gia.info.gov.hk/general/202611/05/P2026110500601_photo_1342939.jpg
     publisher: Hong Kong Government
     caption: 'Seized suspected cannabis buds from the airport hand-luggage case. Photo: Hong Kong Government'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7532df75c93755e856c238ec79787a1b

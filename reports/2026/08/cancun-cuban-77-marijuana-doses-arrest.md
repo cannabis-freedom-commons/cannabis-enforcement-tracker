@@ -19,6 +19,14 @@ media:
     media_url: https://cdn.mediawpaccore.net/wp-content/uploads/2026/08/24171408/1787507649-detienen-cubano-cancun-100-dosis-droga-billetes-falsos-1068x561.jpg
     publisher: CubaNoticias360
     caption: 'Image captioned cubano detenido en México por drogas. Photo: RRSS via CubaNoticias360'
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+  activity: [sale]
+data_sources:
+  details.activity: [3]
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b2f3751de835f2a566b867d19bbd6633

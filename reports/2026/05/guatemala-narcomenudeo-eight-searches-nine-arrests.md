@@ -25,6 +25,10 @@ media:
     media_url: https://dca.gob.gt/wp-content/uploads/2026/05/690677550_1429168332584598_2020762204573156212_n.jpg
     publisher: Diario de Centro América
     caption: 'PNC handout photo used with the official account of the ten street-dealing points dismantled and the nine captures. Photo: PNC / Diario de Centro América'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c381f381ed2d666a132b9c0bdf02a33c

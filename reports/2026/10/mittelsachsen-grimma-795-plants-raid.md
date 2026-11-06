@@ -18,6 +18,10 @@ figures:
   arrested: 2
   plants_destroyed: 795
   kg_seized: 4.7
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [grimma, zoll, indoor]

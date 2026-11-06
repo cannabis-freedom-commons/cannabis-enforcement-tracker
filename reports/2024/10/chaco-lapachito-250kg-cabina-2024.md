@@ -30,6 +30,10 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/250_kilos_de_marihuana_en_la_cabina_de_un_camion_procedente_de_paraguay_2.jpg
     publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
     caption: 'Third photo published with the Gendarmería release of the seizure on Ruta Nacional 11 in Chaco. Photo: Gendarmería Nacional Argentina'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1fc8e56021d29f741604302f464f68e9

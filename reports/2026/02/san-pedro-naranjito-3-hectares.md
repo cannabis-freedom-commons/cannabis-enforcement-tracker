@@ -19,6 +19,12 @@ figures:
   hectares: 3
   kg_seized: 9000
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [senad, san-pedro, naranjito, eradication]
 sources:

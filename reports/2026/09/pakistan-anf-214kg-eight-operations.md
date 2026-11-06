@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 16.05
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [anf, hashish, weed, nationwide, quetta, lahore]

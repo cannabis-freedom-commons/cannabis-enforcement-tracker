@@ -25,6 +25,12 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/c1d7/live/dbe9a720-a237-11f1-80a2-67c89a95284e.jpg.webp
     publisher: BBC News
     caption: Some 119kg of cannabis uncovered during a search in Dundalk
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2bc834f3c17ea73f894dde9c53092037

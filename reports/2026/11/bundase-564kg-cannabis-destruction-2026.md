@@ -31,6 +31,12 @@ media:
     media_url: https://cdn.ghanaweb.com/imagelib/pics/656/65653682.295.jpg
     publisher: GhanaWeb
     caption: NACOC officials destroy seized illicit drugs at Bundase.
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3, 5]
+  details.agency_types: [1, 2, 3, 5]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: e5052e36eb7141cb5a7dcf1870939386

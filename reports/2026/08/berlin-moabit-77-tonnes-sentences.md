@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 1100
   prison: 15 years 6 months
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [moabit, smuggling, canada]

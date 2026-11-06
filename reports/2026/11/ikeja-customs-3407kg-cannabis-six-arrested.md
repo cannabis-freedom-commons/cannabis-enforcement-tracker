@@ -25,6 +25,12 @@ media:
     media_url: https://leadership.ng/wp-content/uploads/2026/11/IMG-20261103-WA0042.jpg
     publisher: Leadership
     caption: Photo of the seized goods displayed at the Customs FOU Zone A briefing in Ikeja.
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3, 4, 5]
+  details.agency_types: [1, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1d6f9a957607fcc31245dea9b87d7126

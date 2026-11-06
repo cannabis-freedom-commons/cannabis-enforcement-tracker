@@ -15,6 +15,13 @@ summary: >-
   1,080 recovered from the sea. No arrests had been made when announced.
 figures:
   kg_seized: 3750
+details:
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [customs, hashish, maritime]

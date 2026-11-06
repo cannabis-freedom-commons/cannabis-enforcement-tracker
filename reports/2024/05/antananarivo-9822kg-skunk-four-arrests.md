@@ -24,6 +24,11 @@ media:
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh32Z3pQ6Mnx8SpHzm0OC-Au4WJBVeajdrE4ITzsJE_2Se1YrSWatGaZSZRRTeBkwXOldozgFZRZyPw-HpP35AIfPtv1U4rrs6Kr2F1-oy-bGi_6QQfoTKqzG7G5Q42sFjDvPG8mglkYihPT3vqX1BKMIyYPWC93ehjZL1r0euUv1XHarW5QT7j-NTXMKLC/s920/Fd%20blanchiment.jpg
     publisher: L'Express de Madagascar
     caption: Photo captioned with the names of the three Mauritian suspects, Kenny Morvant, his brother Kendji Morvant and Jules Roddy Avoula; the page does not say where or when it was taken.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d8d92460c6872748e78219360d4dafda

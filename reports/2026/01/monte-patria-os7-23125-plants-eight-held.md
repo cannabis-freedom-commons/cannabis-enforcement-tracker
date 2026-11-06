@@ -24,6 +24,12 @@ media:
     media_url: https://www.fiscaliadechile.cl/sites/default/files/2026-01/20_01_2026os7.jpg
     publisher: Fiscalía de Chile
     caption: Photo published with the Fiscalía de Chile release on the Monte Patria seizure; the page carries no caption or credit line.
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 69f0e30f8ebeddf69bf3211859fc2e8e

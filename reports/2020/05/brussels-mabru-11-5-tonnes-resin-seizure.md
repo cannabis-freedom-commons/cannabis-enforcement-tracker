@@ -24,6 +24,15 @@ media:
     media_url: https://static.cnews.fr/sites/default/files/styles/image_750_422/public/000_ef3jc_5ec3ffa8ab2d4.jpg?itok=XUNhmQIs
     publisher: CNEWS
     caption: 'Drugs stored in a container intercepted at the Marché matinal de Bruxelles (Mabru). Photo: HO / Douanes Francaises / AFP'
+details:
+  agencies: [be-police]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: adbb4853e97ee45b5acae671a7370f23

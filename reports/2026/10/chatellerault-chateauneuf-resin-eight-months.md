@@ -16,6 +16,11 @@ figures:
   arrested: 1
   charged: 1
   prison: 8 months
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 38bccc6c5c8c290b1cfee9ea0b3f6c2f

@@ -20,6 +20,15 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/telangana/amntkz/article71669600.ece/alternates/FREE_1200/WhatsApp%20Image%202026-11-05%20at%2015.43.12.jpeg
     publisher: The Hindu
     caption: 'Bhaskar Hazarika and four associates with the seized 24.7 kg of marijuana. Photo: By Arrangement.'
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: dda61f912ccda722ad063b1a68ee7013

@@ -13,6 +13,16 @@ summary: >-
   marijuana dispensary on 4 October and again on 2 November 2006, seizing cannabis,
   edibles and cash. No one was arrested in either raid, and the investigation continued.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 tags: [dea, dispensary, palm-springs]
 open_questions:

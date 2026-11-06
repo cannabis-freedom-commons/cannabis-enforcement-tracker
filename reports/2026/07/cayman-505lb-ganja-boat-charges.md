@@ -33,6 +33,10 @@ media:
     media_url: https://caymancompass.s3.amazonaws.com/wp-content/uploads/2026/07/Gun-1-2165x1440.jpg
     publisher: Royal Cayman Islands Police Service, via Cayman Compass
     caption: The Sig Sauer semi-automatic handgun recovered on the intercepted vessel.
+details:
+  setting: [port]
+data_sources:
+  details.setting: [3]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [grand-cayman, frank-sound, coast-guard, maritime, rcips]

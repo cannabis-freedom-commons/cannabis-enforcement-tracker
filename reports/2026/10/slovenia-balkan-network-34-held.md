@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 34
   kg_seized: 3000
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [slovenia, europol, balkan-network, first-report]

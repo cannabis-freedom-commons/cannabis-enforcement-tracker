@@ -30,6 +30,15 @@ media:
     publisher: MAOC (N)
     caption: Federal Police boats escort the seized sailboat to Recife
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, recife, sailing-boat, transatlantic-route]
 sources:

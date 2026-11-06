@@ -13,6 +13,11 @@ summary: >-
   Police in Pomorie seized 2 grams of marijuana from a 44-year-old man on 30 October during two days of drug checks on four men. The same checks also yielded methamphetamine from three other men, which is excluded from the cannabis total.
 figures:
   kg_seized: 0.002
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa44ce21640485102bb6cf5f2f0b1eca

@@ -20,6 +20,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/07/ca/07cae00c-1070-4262-872c-7df845bf9303/narkotic0601_20260613102652.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Drugs seized in the Tashkent and Samarkand operations laid out for inspection. Photo: Customs Committee press service via UzDaily.uz'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c601148040fa56cd6ddb5b00a5477c47

@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 728458
   arrested: 204
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [epic, bonta, unlicensed-cultivation, environmental-harm]
 open_questions:

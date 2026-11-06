@@ -13,6 +13,11 @@ summary: >-
   Transnistrian militia officers detained a 27-year-old Tiraspol man in the early hours of 21 May 2022 after a visitor reported him smoking marijuana in an internet club toilet. He faces an administrative fine above 2,700 roubles or 15 days' administrative arrest if testing confirms drug use.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9abdb2711ab0e1f9eee6f658a942dcaf

@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 9
   prison: 21 years and 10 months (Scarmazzo); 20 years (Montes)
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [2, 4]
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.setting: [2, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [medical-marijuana, dea, dispensary]

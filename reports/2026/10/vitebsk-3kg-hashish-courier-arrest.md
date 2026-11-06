@@ -25,6 +25,13 @@ media:
     media_url: https://mlyn.by/app/uploads/2026/10/video_mvd_narko-1.mp4
     publisher: Mlyn.by
     caption: 'MVD video published with the report on the courier detentions. Video: MVD.'
+details:
+  setting: [mail]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dcce82b90a8dba769f7428bdb3178e93

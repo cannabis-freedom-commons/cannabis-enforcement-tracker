@@ -18,6 +18,10 @@ summary: >-
 figures:
   kg_seized: 83000
   arrested: 350
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bekaa, eradication, isf]

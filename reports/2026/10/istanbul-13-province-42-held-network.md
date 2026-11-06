@@ -15,6 +15,12 @@ summary: >-
   assets worth 7.65 billion liras.
 figures:
   arrested: 42
+details:
+  agencies: [int-interpol, int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [istanbul, network, interpol-europol]

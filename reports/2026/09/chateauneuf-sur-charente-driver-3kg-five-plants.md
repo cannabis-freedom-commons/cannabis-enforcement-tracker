@@ -23,6 +23,10 @@ media:
     media_url: https://static.actu.fr/uploads/2026/10/capture-decran-2026-10-27-a-094129-960x640.png
     publisher: Actu Charente
     caption: 'Screenshot of the Charente gendarmerie''s Facebook post about the search, showing the indoor drug laboratory officers found at the driver''s home, published by Actu Charente. Photo: Gendarmerie de la Charente'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1c3e300888ae8b04d7feef47c0b8e4a8

@@ -18,6 +18,10 @@ figures:
   arrested: 2
   prison: 3 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 tags: [marc-emery, trafficking, saskatoon]
 sources:

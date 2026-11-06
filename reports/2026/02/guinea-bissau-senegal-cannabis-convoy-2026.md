@@ -13,6 +13,10 @@ summary: >-
   5.168 tonnes taken by all southern units in the whole of 2025, with cannabis moving opposite to
   the cashew…
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2, 4, 6]
 status: verified
 cfi_id: guinea-bissau-senegal-cannabis-convoy-2026
 tags:

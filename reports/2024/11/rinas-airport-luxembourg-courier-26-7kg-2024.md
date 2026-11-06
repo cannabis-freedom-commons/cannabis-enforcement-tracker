@@ -30,6 +30,10 @@ media:
     media_url: https://img.virgule.lu/public/luxembourg/nwexo5-900-0-b8a196b26fcd2aeefa69fa83f7745962.jpg/alternates/WIDTH_1440/-900-0-b8a196b26fcd2aeefa69fa83f7745962.jpg
     publisher: Virgule
     caption: 'A second screen capture from the police video of the Rinas seizure. Photo: screen capture'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8d5811bc30b02d034952728753fd8897

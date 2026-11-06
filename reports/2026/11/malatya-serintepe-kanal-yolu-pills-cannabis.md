@@ -20,6 +20,11 @@ media:
     media_url: https://www.malatyatime.com/images/haberler/2026/11/malatyada-kanal-yolu-uzerinde-binlerce-uyusturucu-hap-ve-esrar-ele-gecirildi-1793876990.jpg
     publisher: Malatya Time
     caption: Police handout showing the plastic trays of pills and the cartons laid out after the Malatya seizure, under the emblem of the Battalgazi district police directorate's crime-prevention and investigation office. No photo credit given.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e113a8be95d1cf968c2a3dfcbd35bf19

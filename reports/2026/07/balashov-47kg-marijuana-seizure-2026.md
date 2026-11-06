@@ -34,6 +34,11 @@ media:
     media_url: https://img.vzsar.ru/i/gallery/2026/07/88019_1783498900_4_big.jpg
     publisher: ИА «Взгляд-инфо»
     caption: 'Fourth of four gallery photographs published with the report of the Balashov seizure. Photo: GU MVD (regional Interior Ministry headquarters).'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7978617a8f84590929627f5f5605310f

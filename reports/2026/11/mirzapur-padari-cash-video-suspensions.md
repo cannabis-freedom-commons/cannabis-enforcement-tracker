@@ -17,6 +17,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/03/para-palsa-ka-pasa-val-vadaya-ka-fata_d031014206ce4ed502527ba1c1e95326.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: Still from the viral video showing Padari police counting the cash found during the ganja-raid check, captioned as the Padari police money-video photo. No photo credit listed.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: effbfe05fda129bdafe877af1e17a8ef

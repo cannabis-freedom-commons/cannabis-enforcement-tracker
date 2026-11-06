@@ -31,6 +31,11 @@ media:
     media_url: https://img.mvsnoticias.com/yu-v64wszPkbOM2_L2-nPRNDb3sUva0Fqnjo2g8kW8c/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzNTUzOTQ1MTI5LW53aHZiZC5wbmc
     publisher: MVS Noticias
     caption: 'Police at the searched property with the seized SUV. Photo: Policía de Monterrey'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4534bf9e5297a8d1579dc8d6c3ac5c8b

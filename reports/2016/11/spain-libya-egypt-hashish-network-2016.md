@@ -19,6 +19,14 @@ figures:
   arrested: 25
   kg_seized: 5500
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-guardia-civil, es-vigilancia-aduanera]
+  agency_types: [gendarmerie, customs]
+  setting: [port]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [citco, maritime, libya-route]
 sources:

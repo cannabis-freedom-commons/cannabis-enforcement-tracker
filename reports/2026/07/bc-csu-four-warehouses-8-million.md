@@ -17,6 +17,14 @@ summary: >-
   announced, and the province said its investigation continues.
 figures:
   value: { amount: 8000000, currency: CAD }
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+  setting: [building]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [british-columbia, community-safety-unit, warehouse, unlicensed-cannabis]

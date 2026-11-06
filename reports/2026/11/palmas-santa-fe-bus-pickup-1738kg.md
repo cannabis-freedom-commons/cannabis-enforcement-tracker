@@ -20,6 +20,12 @@ media:
     media_url: https://soudepalmas.com.br/wp-content/uploads/2026/11/42266608-ce5e-4183-b274-3011ad9e8c14.jpg
     publisher: Jornal Sou de Palmas
     caption: 'Picture published with the 4 November 2026 report on the Palmas arrest; the page credits it only to the outlet and does not say what it shows. Photo: Jornal Sou de Palmas'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 33bc8272ec3db2edc13ae14ce85ca008

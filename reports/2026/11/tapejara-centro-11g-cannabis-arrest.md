@@ -20,6 +20,15 @@ media:
     media_url: https://obemdito.com.br/wp-content/uploads/2026/11/policia-apreende-crack-maconha-e-haxixe-durante-acao-contra-trafico-em-tapejara.webp
     publisher: OBemdito
     caption: 'Drugs and cash seized in the Tapejara operation displayed after the raid. Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dd820f03a994a6a5547042906c1db35e

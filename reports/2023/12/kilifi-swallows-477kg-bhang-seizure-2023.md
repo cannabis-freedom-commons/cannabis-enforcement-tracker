@@ -30,6 +30,15 @@ media:
     publisher: The Eastleigh Voice
     caption: The impounded bhang in Kilifi
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  products:
+    - {product: edibles}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 tags: [bhang, kilifi, dci]
 open_questions:

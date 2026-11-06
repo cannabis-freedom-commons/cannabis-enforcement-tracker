@@ -19,6 +19,15 @@ figures:
   kg_seized: 10000
   value: { amount: 20000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 tags: [hashish, merchant-vessel, eastern-mediterranean-route, operation-seifa]
 sources:

@@ -20,6 +20,11 @@ media:
     media_url: https://jurnalpolisi.co.id/wp-content/uploads/2026/11/IMG-20261103-WA0206.jpg
     publisher: jurnalpolisi.co.id
     caption: Police officers hold up seized drug evidence at the Polresta Barelang press conference in Batam.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 555416cbda3850d3d177b1fe82d4e2d2

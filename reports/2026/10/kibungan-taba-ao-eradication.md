@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 1200
   value: { amount: 256000, currency: PHP }
 created_by_model: unknown
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [benguet]
 open_questions:

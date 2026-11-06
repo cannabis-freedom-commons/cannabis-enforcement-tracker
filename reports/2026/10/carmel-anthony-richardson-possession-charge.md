@@ -14,6 +14,10 @@ summary: >-
   Indianapolis Colts quarterback Anthony Richardson Sr. was cited after an Oct. 12 traffic stop in Carmel, Indiana, where officers reported finding marijuana and THC gummies in his car. A misdemeanor possession charge was filed a week later, with a bench trial scheduled for January 2027.
 figures:
   charged: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1, 2, 4, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f68d13e874a89c93b6121727c74393e3

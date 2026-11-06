@@ -19,6 +19,13 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.316
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [andorra, border, hashish]

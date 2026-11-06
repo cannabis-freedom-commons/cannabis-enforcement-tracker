@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 1
   prison: 1 year and 1 day
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2, 5, 7]
+  details.agencies: [1, 2, 7]
+  details.agency_types: [1, 2, 7]
+  details.setting: [1, 2, 5, 7]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [medical-marijuana, dea, dispensary]

@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.324
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [2]
+  details.setting: [2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [yalutorovsk, tyumen-oblast, wild-cannabis, russia]

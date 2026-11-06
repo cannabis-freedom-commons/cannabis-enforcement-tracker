@@ -18,6 +18,10 @@ figures:
   value:
     amount: 4427000
     currency: INR
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 40342d0000c07c294de08e7d445e23e8

@@ -26,6 +26,12 @@ media:
     media_url: https://www.vestnik-rm.ru/userfiles/images/1a/krim/6/marih_prigovor.jpg
     publisher: Вестник Мордовии
     caption: 'Cannabis from the Saransk case at sentencing. Photo: Mordovia Interior Ministry and FSB, via Vestnik Mordovii'
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [saransk, mordovia, cultivation, sentence, russia]

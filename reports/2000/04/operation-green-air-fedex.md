@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 121000
   arrested: 101
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, fedex, operation-green-air, arellano-felix]

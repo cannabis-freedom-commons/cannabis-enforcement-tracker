@@ -21,6 +21,11 @@ media:
     media_url: https://sokalerkhobor24.com/wp-content/uploads/2026/11/1000364667.jpg
     publisher: sokalerkhobor24.com
     caption: Photo published with the report on the woman detained with 4 kg of ganja in Kaliganj.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8c420813b49359569e45f9d54d4b7a18

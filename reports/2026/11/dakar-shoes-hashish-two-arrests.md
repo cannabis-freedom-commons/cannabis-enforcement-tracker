@@ -19,6 +19,11 @@ media:
     media_url: https://image.seneweb.com/content/news/2026-45-04//thumb_1260x800_6aeadb7751d8e_Rra0Kj5UMn.jpg
     publisher: Seneweb
     caption: The shoes with hashish concealed in the soles at the centre of the Casablanca-Dakar case
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e342c649641b4a7f62bd25022aab2745

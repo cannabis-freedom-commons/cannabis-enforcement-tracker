@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
+  details.agencies: [2]
+  details.agency_types: [2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [pyatigorsk, stavropol-krai, customs, smuggling, united-states, russia]

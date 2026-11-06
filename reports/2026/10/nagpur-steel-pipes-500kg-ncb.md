@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 500
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [nagpur, ncb, truck, odisha-network]

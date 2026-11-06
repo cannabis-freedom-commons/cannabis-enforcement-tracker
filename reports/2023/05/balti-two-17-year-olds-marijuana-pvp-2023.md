@@ -17,6 +17,11 @@ figures:
   value:
     amount: 1500000
     currency: MDL
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4751d97b006b2f535a11a13116a92518

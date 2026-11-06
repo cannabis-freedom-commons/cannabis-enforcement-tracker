@@ -13,6 +13,11 @@ summary: >-
   Police detained a 27-year-old man at Praca Barao do Rio Branco in Campos dos Goytacazes after seeing him smoking a handmade cannabis cigarette. A check found an open arrest warrant for child-support debt, and he was taken to the 134th Police Station where he remained detained.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f850a27287b24a34e38bd124062a1ee5

@@ -37,6 +37,10 @@ media:
     media_url: https://www.infobae.com/resizer/v2/HNRHXPFZT5DDTFTL4XVE5VSMQE.jpg?auth=fdf761ba2e7bb107be57f3003fa15a642a28651f0efb5c8883e44f5d94ebd3b8&smart=true&width=350&height=197&quality=85
     publisher: Infobae
     caption: 'Police photo of the seized marijuana said to be worth millions on the illicit market. Photo: X / DIPAMPCO'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c7166d37f113eae1c9b47316c352a5f2

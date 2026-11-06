@@ -17,6 +17,13 @@ figures:
   charged: 1
   kg_seized: 10.05
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [death-sentence, hashish, trafficking]
 sources:

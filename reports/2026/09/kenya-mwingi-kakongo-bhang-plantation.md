@@ -18,6 +18,15 @@ figures:
   value:
     amount: 60000000
     currency: KES
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  products:
+    - {product: edibles}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [bhang, kitui, mwingi, tana-river, intercropping]

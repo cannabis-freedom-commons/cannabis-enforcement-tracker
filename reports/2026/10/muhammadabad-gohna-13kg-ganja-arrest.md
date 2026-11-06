@@ -24,6 +24,11 @@ media:
     media_url: https://aimamedia.org/fotos/aimanewsphoto1/19b965af-3029-42b2-932b-08194e0e751e.webp
     publisher: AIMA Media
     caption: The arrested man in a white shirt standing with four police officers and the seized white Alto K-10 outside Muhammadabad police station in Mau, with items on a table in front of them.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9c9264640bec004ba72fba2a74fa34e3

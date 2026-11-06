@@ -16,6 +16,11 @@ figures:
   charged: 1
   kg_seized: 0.115
   prison: life
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ec2dc853e210394c7d533ca9108ab9af

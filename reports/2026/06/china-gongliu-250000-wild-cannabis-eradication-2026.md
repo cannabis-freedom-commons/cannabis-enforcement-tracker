@@ -31,6 +31,14 @@ media:
     media_url: "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F0622%2F25f5222aj00th18ln0032d200u000gwg00it00al.jpg&thumbnail=660x2147483647&quality=80&type=jpg"
     publisher: 巩留县融媒体中心（巩留零距离）
     caption: A worker uses a brush cutter in a stand of wild plants.
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, gongliu, wild-cannabis, eradication]

@@ -20,6 +20,15 @@ media:
     media_url: https://s2-g1.glbimg.com/ThNwsITlgyVJpVvhCMHrdwi6QWk=/0x0:1200x1600/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/F/RFVOi5SEKRIjBd0JuatQ/whatsapp-image-2026-11-04-at-09.36.39.jpeg
     publisher: G1
     caption: 'Police handout photo of the cannabis seized in the Paraty apprehension. Photo: Divulgacao/Policia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 20ec077062c903d838e49dd7546eb3b6

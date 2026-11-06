@@ -16,6 +16,15 @@ summary: >-
 figures:
   kg_seized: 5000
 created_by_model: xai/grok-4.7
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [ayamonte, guadiana, hashish]
 open_questions:

@@ -14,6 +14,12 @@ summary: >-
   Lecco police identified 579 people during a national youth-crime operation and seized doses of hashish and marijuana. Two people were referred to the Prefecture for possession, while one youth was arrested for an unrelated theft from an elderly woman.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ab4e7d41287addcdbe776d85d0941757

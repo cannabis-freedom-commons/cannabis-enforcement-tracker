@@ -18,6 +18,11 @@ figures:
   arrested: 33
   kg_seized: 3700
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, trafficking-ring, civil-guard, cross-border]
 sources:

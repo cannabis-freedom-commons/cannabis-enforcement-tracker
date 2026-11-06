@@ -21,6 +21,11 @@ media:
     media_url: https://cdn.aksiyon.com.tr/uploads/1280x720/images/202610/mersin-de-torbaci-operasyonunda-iki-supheli-tutuklandi-1200-132613.jpg
     publisher: Aksiyon
     caption: Two plastic bags of esrar displayed on a table in front of a Mersin provincial police anti-narcotics unit banner; police handout photo published by Aksiyon.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3b97f689eb070bfbdcddb5ab2d4b9bfc

@@ -20,6 +20,10 @@ figures:
   kg_seized: 200
   value: { amount: 2000000, currency: EUR }
 created_by_model: xai/grok-4.7
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [traiskirchen, spielfeld, truck]
 open_questions:

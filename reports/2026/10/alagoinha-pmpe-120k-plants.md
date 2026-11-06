@@ -21,6 +21,12 @@ media:
     media_url: https://cdn.portaldeprefeitura.com.br/img/c/1200/628/dn_arquivo/2026/10/plantacao-de-maconha-apreendida.jpg
     publisher: Portal de Prefeitura
     caption: 'Military police photo of the cannabis plantation found in the Agreste. Photo: Divulgação/PMPE'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3913be42c802c22a170e3afac37e2bd6

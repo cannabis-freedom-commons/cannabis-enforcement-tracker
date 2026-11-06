@@ -34,6 +34,11 @@ media:
     media_url: https://insiderlive.in/wp-content/uploads/2026/11/sugauli-750x375.jpg
     publisher: Insider Live
     caption: Photo published with the report on the Sugauli STF action, captioned as the 1.970 kg charas seizure with three smugglers arrested.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5210cadb02a25782ac18fd8ac6ed1cbe

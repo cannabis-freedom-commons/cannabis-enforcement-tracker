@@ -18,6 +18,10 @@ figures:
   arrested: 10
   charged: 10
   kg_seized: 200
+details:
+  setting: [online]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [online, cryptocurrency, multi-province]

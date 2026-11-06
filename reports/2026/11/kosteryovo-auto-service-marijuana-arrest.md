@@ -26,6 +26,15 @@ media:
     media_url: https://rutube.ru/play/embed/57952406bc5c63218431def39c7a320b
     publisher: МВД Медиа
     caption: Operational video of the detention and searches embedded in the report
+details:
+  agencies: [ru-mvd, ru-fsb]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ece85e8e10b71cb5a04b397351371814

@@ -13,6 +13,11 @@ summary: >-
   Ferrara's Squadra Mobile arrested a 33-year-old man after officers watched him hand a ball of hashish to a buyer in the Gad district by the railway station on 2 November 2026. The buyer said the hashish was for personal use, and the suspect was held in police cells pending a validation hearing.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7be0d591761b481fa01e4121f2c6edbd

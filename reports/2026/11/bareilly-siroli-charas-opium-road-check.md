@@ -25,6 +25,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/05/fffb6a48-75cb-45af-b115-90879b2495b2_1793880625594/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Short video published with the report on the Siroli arrest of the two riders. Video: Dainik Bhaskar'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0b95565e808f90087271d486f43e5c5e

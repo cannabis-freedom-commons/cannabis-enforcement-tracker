@@ -18,6 +18,11 @@ media:
     media_url: https://just-infodz.com/wp-content/uploads/2026/11/FB_IMG_1793713183962-1024x768.webp
     publisher: JUST-INFODZ
     caption: The seized kif from the joint ANP–Customs interception in Béchar.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b8565bd60f36dd3d61b3ec678e4dd2f5

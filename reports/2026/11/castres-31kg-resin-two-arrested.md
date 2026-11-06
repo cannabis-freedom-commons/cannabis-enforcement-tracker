@@ -35,6 +35,11 @@ media:
     media_url: https://www.lasemainedespyrenees.fr/wp-content/uploads/2026/11/Capture-decran-2026-11-02-a-21.37.10-600x431.png
     publisher: La Semaine des Pyrénées
     caption: 'Seized cannabis, cash and weapons from the Petit Train–Laden operation. Photo: gendarmerie du Tarn'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ba87c356c0798b2fcdced496cb8ee21b

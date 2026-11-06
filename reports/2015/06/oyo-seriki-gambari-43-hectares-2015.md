@@ -17,6 +17,12 @@ summary: >-
 figures:
   hectares: 43
 created_by_model: meta/muse-spark
+details:
+  agencies: [ng-ndlea, ng-npf]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ndlea, oyo, forest-reserve]
 sources:

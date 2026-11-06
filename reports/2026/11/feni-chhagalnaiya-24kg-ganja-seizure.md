@@ -35,6 +35,11 @@ media:
     media_url: https://sorejominbarta.com/public/uploads/2026-11/IMG-20261102-WA0027_original_1793599661.webp
     publisher: Sorejomin Barta
     caption: Lead photo published with the report on the 24 kg seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f7905734338eed2aacb6f653a0c5b40

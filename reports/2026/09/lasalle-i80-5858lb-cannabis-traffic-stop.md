@@ -18,6 +18,10 @@ figures:
   arrested: 2
   kg_seized: 2657.3
 created_by_model: cursor/composer-2.5
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 5]
 status: verified
 tags: [isp, traffic-stop, lasalle]
 open_questions:

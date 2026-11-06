@@ -23,6 +23,17 @@ media:
     publisher: Ada Derana
     caption: Seized airtight kush packets laid out on the baggage belt with one of the abandoned suitcases
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [airport, bangkok-route, abandoned, kush, pnb]
 sources:

@@ -21,6 +21,11 @@ media:
     media_url: https://www.sra7h.com/wp-content/uploads/2026/11/HWB2kOTWsAA_NHN.jpg
     publisher: صحيفة صراحة الالكترونية
     caption: 'Four handcuffed detainees stand with their backs to the camera beneath a General Directorate of Border Guards, Asir region command banner, with packages laid out in front of them. Photo: Saudi Border Guard, via Sraha.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 29f64619da6cb62fb7937649fd8848a5

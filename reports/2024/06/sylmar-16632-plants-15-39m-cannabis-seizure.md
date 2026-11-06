@@ -17,6 +17,10 @@ figures:
   value:
     amount: 15390000
     currency: USD
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ac3223499f10238d072690f09f6506ba

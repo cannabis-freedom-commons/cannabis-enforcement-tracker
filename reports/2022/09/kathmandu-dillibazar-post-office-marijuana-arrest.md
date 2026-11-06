@@ -13,6 +13,12 @@ summary: >-
   Nepal Police arrested three people after a marijuana parcel from the United States arrived at the Dillibazar post office in Kathmandu. Manoj Kumar Rai was held when he came to collect it, and Rahul Chhetri and Ankit Kumar Shrestha were arrested after he gave a statement.
 figures:
   arrested: 3
+details:
+  agencies: [np-police]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a9fff933d74f5ff82e446c3bc27b31bb

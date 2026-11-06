@@ -35,6 +35,11 @@ media:
     media_url: https://rutube.ru/play/embed/b7ef68f7e3904dfbc5648c2b60eb5840
     publisher: МВД МЕДИА
     caption: 'Operational video embedded in the police account of the Pyatigorsk detention and searches. Video: Press service of the Main Directorate of the Interior Ministry for the North Caucasus Federal District'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8fcdffeeacddd1bb9c2a8efc19af6f68

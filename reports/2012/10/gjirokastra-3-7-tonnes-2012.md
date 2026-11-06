@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 3700
   arrested: 7
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [gjirokastra, kakavije, lazarat, trafficking]

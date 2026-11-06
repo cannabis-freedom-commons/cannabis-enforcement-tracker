@@ -15,6 +15,12 @@ summary: >-
   Greenfield was absent and no arrests were reported, but agents took her computer and cash.
 figures:
   plants_destroyed: 99
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, medical-marijuana, mendocino]

@@ -27,6 +27,10 @@ media:
     media_url: https://newsday.co.tt/wp-content/uploads/2025/07/police-2.png
     publisher: Trinidad and Tobago Newsday
     caption: Police and soldiers debrief after destroying a marijuana field in Castara valued at over $5 million on 11 July. Photo courtesy TTPS.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5b016aee2af57a6f00c7da8ef1e762ab

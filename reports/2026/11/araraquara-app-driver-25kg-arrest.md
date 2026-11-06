@@ -20,6 +20,12 @@ media:
     media_url: https://araraquaraagora.com/midia/_uploads/2026/11/motorista-de-aplicativo-e-preso-com-26-kg-de-maconha-na-sp-255-4dd58d.jpg?l=960&f=avif
     publisher: Araraquara Agora
     caption: The detained app driver with seized maconha tablets and the grey Fiat Mobi on the SP-255 in Araraquara.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8673360ffdf129a6414ce69a8f336d56

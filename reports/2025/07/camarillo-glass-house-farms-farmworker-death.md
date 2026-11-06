@@ -29,6 +29,12 @@ media:
     publisher: ABC7 Los Angeles
     caption: Still from ABC7's July 2025 video report of the injury during the Camarillo raid
 created_by_model: alibaba-token-plan/qwen3.8-flash
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ice, cbp, glass-house-farms, wrongful-death-claim, licensed-farm, ufw]
 open_questions:

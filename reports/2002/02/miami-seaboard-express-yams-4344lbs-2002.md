@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 1970
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [customs, port-of-miami, maritime]
 open_questions:

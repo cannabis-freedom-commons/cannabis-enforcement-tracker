@@ -21,6 +21,15 @@ media:
     media_url: https://vocaltv.in/static/c1e/client/111914/migrated/af999e2a38200cc7e28bf38d670f9115.jpg
     publisher: Vocal TV
     caption: 'The three arrested — a man in a pink shirt, his wife in blue and his mother in red — standing with three police officers after the raid in Moradabad. Photo: Vocal TV'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [1, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e7a6df4ab5bd4eca00f9e1e9d2401bac

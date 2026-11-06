@@ -13,6 +13,11 @@ summary: >-
   Guatemala's National Civil Police said officers arrested Alexis “N”, 25, in barrio Candelaria, Coatepeque, Quetzaltenango, on 27 September 2026 after finding four bags of marijuana in the pickup he was driving. The arrest was one of several the police reported that Sunday across five departments for crimes including kidnapping, extortion and fraud.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df81329c65ea44070f1bbf3991dcdf89

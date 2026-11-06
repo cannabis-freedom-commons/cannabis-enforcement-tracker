@@ -20,6 +20,11 @@ media:
     media_url: https://pajhwok.com/wp-content/uploads/2021/06/%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1-%DA%A9%D8%A7%D8%A8%D9%84.png
     publisher: Pajhwok Afghan News
     caption: 'A collage of what appears to be the seized hashish, a vehicle and a detained man, published with the report on the arrest. Photo: Pajhwok Afghan News'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5b4b6c12b43ac0e85cc83c41a1d05bd5

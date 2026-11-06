@@ -14,6 +14,14 @@ summary: >-
   25 September 2012, filing three asset-forfeiture lawsuits, executing three DEA
   search warrants and sending warning letters to 68 operators and landlords.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dispensary, dea, forfeiture]
 sources:

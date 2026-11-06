@@ -14,6 +14,14 @@ summary: >-
   facility on 25 July 2013. The agency called it the largest narcotic bust in the
   history of the Calexico ports of entry.
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: reported
 tags: [cbp, record-haul, border]
 sources:

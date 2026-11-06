@@ -29,6 +29,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/02/78022552-0b4f-4a77-8bac-79b6f0cc3cc_1793636408555/mp4/v360.mp4
     publisher: Divya Bhaskar
     caption: Video report on the Upleta Machhi Market ganja seizure and raid
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d3832b28f79b80c6d6b1b8e671781e4

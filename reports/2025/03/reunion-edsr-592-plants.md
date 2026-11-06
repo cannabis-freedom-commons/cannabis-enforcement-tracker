@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 592
   arrested: 2
 created_by_model: cursor/composer-2.5
+details:
+  environment: [outdoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [reunion, gendarmerie, outdoor, eradication]
 open_questions:

@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 860000
   value: { amount: 17480000, currency: PHP }
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [pdea, kalinga, cordillera]

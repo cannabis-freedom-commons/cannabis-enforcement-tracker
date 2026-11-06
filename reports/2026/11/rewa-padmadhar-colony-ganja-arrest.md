@@ -13,6 +13,11 @@ summary: >-
   Civil Lines Police in Rewa arrested habitual offender Lalu Patel, also known as Ashish, after catching him with a packet of ganja near Padmadhar Colony. Police registered a fresh case under the NDPS Act and said they are tracing the source of the ganja and his intended customers.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 58c000eaddb0146d10db62b217427f94

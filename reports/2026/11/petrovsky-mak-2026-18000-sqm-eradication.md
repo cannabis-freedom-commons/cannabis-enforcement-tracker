@@ -13,6 +13,12 @@ summary: >-
   Michurinsky police reported destroying 12 wild-cannabis sites covering more than 18,000 square metres during Operation Mak-2026 in Petrovsky district. Thirteen people were brought to administrative responsibility and four criminal cases were opened, including three involving cannabis cultivation or storage.
 figures:
   hectares: 1.8
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f3846748c2aab5fb051722e9f12061da

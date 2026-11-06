@@ -19,6 +19,12 @@ figures:
   value:
     amount: 5120000
     currency: CLP
+details:
+  agencies: [cl-carabineros, cl-pdi]
+  agency_types: [gendarmerie, police]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 573244762b7476ae26fcede7b16c6e7e

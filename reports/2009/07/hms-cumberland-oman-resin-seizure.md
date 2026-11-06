@@ -16,6 +16,10 @@ figures:
   kg_seized: 12400
   value: { amount: 43000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [hms-cumberland, maritime, combined-task-force-150]
 open_questions:

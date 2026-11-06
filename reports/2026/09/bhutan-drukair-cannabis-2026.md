@@ -11,6 +11,10 @@ summary: >-
   at Paro airport. A Drukair employee travelling as a passenger was arrested on 14 September 2026 and denied
   that the bags were his.
 created_by_model: unknown
+details:
+  activity: [trafficking, smuggling]
+data_sources:
+  details.activity: [2]
 status: reported
 cfi_id: bhutan-drukair-cannabis-2026
 tags:

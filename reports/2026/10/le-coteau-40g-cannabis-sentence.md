@@ -17,6 +17,11 @@ figures:
   charged: 1
   kg_seized: 0.04
   prison: 10 months, suspended with probation
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 45c737ecd4402eaf40e1a77be56b8979

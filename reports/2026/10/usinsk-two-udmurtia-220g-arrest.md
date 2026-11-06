@@ -22,6 +22,12 @@ media:
     media_url: https://komionline.ru/uploads/2026/10/2358-800x600-1-720x480.jpg
     publisher: КомиОнлайн
     caption: 'Police photo accompanying the report on the Usinsk detention and flat search. Photo: MVD of the Komi Republic'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6143e7697121e6687ee06f68e03bdd6b

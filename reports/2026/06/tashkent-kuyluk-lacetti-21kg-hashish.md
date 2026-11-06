@@ -20,6 +20,13 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/07/ca/07cae00c-1070-4262-872c-7df845bf9303/narkotic0601_20260613102652.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Photo published with the report on the 34.61 kg seizure near the Kuyluk bazaar, captioned only with the headline. Photo: press service of the Customs Committee'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 682a04df64e66bf1e70f9df798c95d01

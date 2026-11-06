@@ -20,6 +20,12 @@ figures:
   kg_seized: 50
   value: { amount: 500000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [appeal, retrial, controlled-delivery]
 open_questions:

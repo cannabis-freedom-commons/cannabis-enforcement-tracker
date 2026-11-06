@@ -23,6 +23,10 @@ media:
     media_url: https://macaupostdaily.com/attachment/images/2026/07/24/image_1784829066_DWnWygzY.jpeg
     publisher: The Macau Post Daily
     caption: 'Three Macau Customs Service officers show journalists the seized cannabis and the suspect''s suitcase during the airport press briefing. Photo: Maria Cheang Ut Meng'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 23925c32b0ff43ae93baeb7e42458e68

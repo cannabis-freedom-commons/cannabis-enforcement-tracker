@@ -15,6 +15,12 @@ summary: >-
   security bureau said the work was part of ongoing ban-cultivation checks across Lincang prefecture.
 figures:
   plants_destroyed: 54
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [yunnan, yunxian, lincang, wild-cannabis]

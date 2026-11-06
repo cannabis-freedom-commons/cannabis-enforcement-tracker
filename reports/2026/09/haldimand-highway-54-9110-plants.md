@@ -19,6 +19,12 @@ figures:
   charged: 2
   kg_seized: 107.5
   value: { amount: 4600000, currency: CAD }
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-spark-1.3#max
 tags: [haldimand, opp, grow-op, cannabis-act]

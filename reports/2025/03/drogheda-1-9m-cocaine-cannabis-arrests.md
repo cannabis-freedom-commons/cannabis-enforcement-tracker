@@ -20,6 +20,12 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/b2c5/live/00fa27c0-ff77-11ef-8b58-c3b5582557b3.jpg.webp
     publisher: BBC News
     caption: Plastic bags on a table holding the seized drugs from the Drogheda operation
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c7d7dd9e3fe82d611ed91ab0e083f4c

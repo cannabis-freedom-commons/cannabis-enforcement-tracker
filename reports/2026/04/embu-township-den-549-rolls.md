@@ -17,6 +17,12 @@ summary: >-
   held at Embu Police Station pending arraignment.
 figures:
   arrested: 4
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [embu, drug-den, trafficking]

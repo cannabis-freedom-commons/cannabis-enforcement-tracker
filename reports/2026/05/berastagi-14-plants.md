@@ -16,6 +16,10 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [north-sumatra, karo, berastagi, rumah-berastagi, eradication]
 open_questions:

@@ -14,6 +14,12 @@ summary: >-
   warrants simultaneously without incident. No one was arrested, and the US
   Attorney's Office was left to decide on charges.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [dispensary, dea]
 open_questions:

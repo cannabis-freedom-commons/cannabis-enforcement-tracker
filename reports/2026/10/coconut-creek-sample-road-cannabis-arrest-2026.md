@@ -13,6 +13,10 @@ summary: >-
   Coconut Creek police arrested 23-year-old Maliq Camel Peck on 21 October 2026 after a traffic stop on West Sample Road for felony possession of more than 20 grams of cannabis. He was transported to the Broward Sheriff’s Office Main Jail; no weight beyond the threshold or court outcome was reported.
 figures:
   arrested: 1
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d7bf735c81ee5221f8ffbae16fbc2b5d

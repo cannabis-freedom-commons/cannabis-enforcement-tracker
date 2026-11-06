@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08e188afe21fcd22f5fe0db204229ac1

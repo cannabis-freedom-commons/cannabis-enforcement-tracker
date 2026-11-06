@@ -38,6 +38,13 @@ media:
     media_url: https://cdnwine.diario1.com/wp-content/uploads/2026/04/droga-La-Hachadura-Fuerza-Armada-.jpg
     publisher: Diario1
     caption: 'The seized marijuana from the La Hachadura interception. Photo: Fuerza Armada via Diario1'
+details:
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c2ae02cb6ac4b6c09bfd6bc4ab55d1b4

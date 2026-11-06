@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 16000
   kg_seized: 385.55
   prison: 8 years 1 month
+details:
+  agencies: [us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [sequoia, public-lands, camp]

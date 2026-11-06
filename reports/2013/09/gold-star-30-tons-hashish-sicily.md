@@ -18,6 +18,15 @@ figures:
   kg_seized: 30000
   arrested: 9
   value: { amount: 300000000, currency: EUR }
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [gold-star, hashish, guardia-di-finanza, mediterranean, sicily]

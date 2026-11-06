@@ -16,6 +16,10 @@ figures:
   plants_destroyed: 621
   kg_seized: 5
   arrested: 2
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [capital-region-police, kjalarnes, industrial-grow]

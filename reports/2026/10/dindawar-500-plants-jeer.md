@@ -26,6 +26,10 @@ figures:
     amount: 10137500
     currency: INR
 created_by_model: cursor/composer-2.5
+details:
+  setting: [farm]
+data_sources:
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - karnataka

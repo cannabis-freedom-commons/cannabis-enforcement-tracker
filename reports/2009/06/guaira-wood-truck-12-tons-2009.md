@@ -15,6 +15,12 @@ summary: >-
   in Brazil that year.
 figures:
   kg_seized: 12000
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [policia-federal, guaira, paraguay-border]

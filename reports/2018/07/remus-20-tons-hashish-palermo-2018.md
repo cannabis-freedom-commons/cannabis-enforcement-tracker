@@ -14,6 +14,11 @@ summary: >-
 figures:
   arrested: 11
   kg_seized: 20000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 670a1b26a79e43fad082681d227ca19a

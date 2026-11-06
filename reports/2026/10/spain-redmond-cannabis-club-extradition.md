@@ -14,6 +14,14 @@ summary: >-
   Sonny Redmond, 33, from Bootle, consented at a London hearing to extradition to Spain over an armed October 2024 raid on a cannabis club in La Marina. He was later arrested on the Orihuela Costa, and his return to Spain is described as imminent.
 figures:
   arrested: 1
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  setting: [shop]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: cebb7729fd4da0e34e806b7054e567c8

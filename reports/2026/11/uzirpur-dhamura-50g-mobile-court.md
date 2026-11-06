@@ -18,6 +18,12 @@ figures:
   fine:
     amount: 100
     currency: BDT
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74e11e60040f7cc865a7a081bb1a064b

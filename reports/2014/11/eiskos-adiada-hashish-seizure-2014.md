@@ -17,6 +17,12 @@ figures:
   arrested: 11
   kg_seized: 20000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [operation-adiada, eastern-mediterranean-route]
 open_questions:

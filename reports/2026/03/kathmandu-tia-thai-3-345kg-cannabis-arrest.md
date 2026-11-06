@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3.345
+details:
+  agencies: [np-police]
+  agency_types: [police]
+  setting: [airport]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cfb0b253cb41bba44c316cf42b90e6b2

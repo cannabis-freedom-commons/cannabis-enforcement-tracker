@@ -20,6 +20,11 @@ media:
     media_url: https://asiaplus.news/wp-content/uploads/2026/09/photo_2026-09-17_08-52-56-766x434.jpg.webp
     publisher: Asia-Plus
     caption: 'Seized drugs from the Asht case, shown as a screenshot from an Interior Ministry video. Photo: screenshot from Interior Ministry video via Asia-Plus.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7c2ac949d389226e1d95d7b68421e55c

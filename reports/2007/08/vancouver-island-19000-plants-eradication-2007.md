@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 19000
   arrested: 2
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [aerial-operation]

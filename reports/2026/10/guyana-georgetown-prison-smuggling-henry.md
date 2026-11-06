@@ -16,6 +16,10 @@ summary: >-
   Alberttown Police Station with the cannabis.
 figures:
   arrested: 1
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [prison, georgetown, smuggling]

@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 1245
   value: { amount: 15000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [telangana, asifabad, cultivation, intercrop, ndps]
 sources:

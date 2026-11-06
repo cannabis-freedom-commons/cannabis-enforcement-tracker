@@ -21,6 +21,11 @@ media:
     media_url: https://www.adngad.net/UploadFiles/2026/Oct/31/ba714d81-155f-478c-833b-ee09f873d6db.jpg
     publisher: عدن الغد
     caption: 'A police colonel seated behind nine bags of hashish laid out on a table, published with the report on the Khormaksar seizure. Photo: Aden Al-Ghad'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 5, 7, 10]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 5618c90fc887e5b0df6d010a9940d32c

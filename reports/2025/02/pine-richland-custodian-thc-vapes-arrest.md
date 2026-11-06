@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  setting: [school]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 90c3d300c1eb4f6bae77c90f11dbc002

@@ -13,6 +13,12 @@ summary: >-
   Military Police arrested two couples aged 19 to 25 in separate drug-trafficking cases in São João del-Rei on 29 and 31 October 2026. Officers seized portions of marijuana and crack, cash and phones, and sent all four suspects to the competent authorities.
 figures:
   arrested: 4
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 396f35d57f845afc567d43b98a37a09e

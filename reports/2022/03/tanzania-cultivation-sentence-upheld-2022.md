@@ -13,6 +13,10 @@ summary: >-
   His confession, though retracted, was supported by other evidence linking him to the field, so
   the…
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: tanzania-cultivation-sentence-upheld-2022
 tags:

@@ -19,6 +19,14 @@ figures:
   value:
     amount: 300000
     currency: EUR
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  setting: [building]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 270ee973c75e6b6c94f59415ba6169cf

@@ -14,6 +14,10 @@ summary: >-
   North Vernon police arrested three men on 28 October 2026 after a narcotics investigation in which officers found suspected cocaine, marijuana and THC products. Terry Winchester II and Jacob M. Kennedy were arrested on charges including dealing in marijuana, and Steven James Chandler on possession and nuisance charges; two search warrants were served in Columbus.
 figures:
   arrested: 3
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 576499185d2738e5b93a35d3f3e6ed67

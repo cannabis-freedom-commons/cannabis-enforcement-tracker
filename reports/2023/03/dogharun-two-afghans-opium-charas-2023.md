@@ -21,6 +21,11 @@ media:
     media_url: https://www.ariananews.af/wp-content/uploads/2023/03/afghan-arrested.jpg
     publisher: Ariana News
     caption: 'Photo illustration headed by the report on the arrest of two Afghans at the Dogharun crossing; it shows two men facing a wall and is not captioned as a picture of this seizure. Photo: Ariana News'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db6c8ed24347d450616959402723bfec

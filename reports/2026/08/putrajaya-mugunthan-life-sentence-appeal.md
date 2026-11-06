@@ -19,6 +19,10 @@ figures:
   kg_seized: 0.845
   prison: life imprisonment and 12 strokes of the cane
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [putrajaya, federal-court, trafficking]
 open_questions:

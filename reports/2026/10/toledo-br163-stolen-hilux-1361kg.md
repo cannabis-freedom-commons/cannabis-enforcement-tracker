@@ -29,6 +29,12 @@ media:
     media_url: https://portalguaira.com/publico/uploads/2026/10/6ae36581ba1c4-17932793796ae3459328de1-medium.webp
     publisher: Portal Guaíra
     caption: Photo published with the Portal Guaíra account of the Hilux cannabis seizure on the BR-163 in Toledo. No separate photo credit is given.
+details:
+  agencies: [br-prf, br-pm]
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 4, 5]
+  details.agency_types: [1, 2, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0a8b1fd8c03516bef48aabd39f40c5c7

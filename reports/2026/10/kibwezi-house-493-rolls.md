@@ -17,6 +17,10 @@ summary: >-
   Rizla papers and suspected crime proceeds in cash.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibwezi, makueni, dci, trafficking]

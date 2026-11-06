@@ -19,6 +19,12 @@ figures:
   kg_seized: 676800
   hectares: 57
   value: { amount: 6800000000, currency: NGN }
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [ndlea, operation-weed-eaters, tractor]

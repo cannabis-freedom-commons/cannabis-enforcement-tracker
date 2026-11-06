@@ -25,6 +25,11 @@ media:
     media_url: https://i0.wp.com/ahora.com.ar/wp-content/uploads/2026/10/sustancias-secuestradas-allanamiento-concordia.jpg?resize=696%2C1237&ssl=1
     publisher: AHORA Entre Ríos
     caption: Wrappers of cocaine and marijuana seized in the Concordia raids; field tests were positive for both drugs.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 5234e699768ce3059e5de9d9b3e7660f

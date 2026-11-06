@@ -21,6 +21,12 @@ figures:
   plants_destroyed: 61000
   kg_seized: 550
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, obndd, black-market, hstf]
 open_questions:

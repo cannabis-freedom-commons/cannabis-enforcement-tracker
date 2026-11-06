@@ -31,6 +31,11 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-11-2026/cg-knr-03-ganja-av-cg10054_04112026190025_0411f_1793799025_24.jpg
     publisher: ETV Bharat
     caption: 'Large consignment of ganja recovered in Kanker. Photo: ETV Bharat'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 6, 7, 8, 9, 10, 11]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f4a28e11aa3f0760df62099da8fbb838

@@ -13,6 +13,13 @@ summary: >-
   Georgia's Central Criminal Police detained 8 people, including Georgian, Turkish and Japanese nationals, on charges of large-scale drug acquisition, import and facilitation of sale. Marijuana and cannabis plants were among the seized substances, and the charges carry up to 20 years in prison or life imprisonment.
 figures:
   arrested: 8
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 922173360d050edf6713fa65aa27df1b

@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 96000
   hectares: 2
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [mx-sedena]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [michoacan, huetamo, sedena, ssp]
 open_questions:

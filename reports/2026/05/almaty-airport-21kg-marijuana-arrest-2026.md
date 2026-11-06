@@ -20,6 +20,11 @@ media:
     media_url: https://24.kz/media/k2/items/cache/5777c4880d122d666ddbb518f11a3012_XL.jpg?t=20260610_063001
     publisher: 24KZ
     caption: 'Photo published with the report on the seizure of about 21 kg of presumed marijuana at Almaty airport. Photo: press service of the National Security Committee'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 52ec06fa8f0362924ba1bbf9d9e8020e

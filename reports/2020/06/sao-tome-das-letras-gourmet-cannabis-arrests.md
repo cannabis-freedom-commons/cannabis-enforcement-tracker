@@ -19,6 +19,11 @@ media:
     media_url: https://i.em.com.br/b5wRBr1j4C4UVMoAHReG_1Ftj_k=/820x0/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/06/22/1158847/20200622123325809048o.jpeg
     publisher: Estado de Minas
     caption: 'Civil Police handout photo published with the São Tomé das Letras ''gourmet'' cannabis operation report. Photo: Polícia Civil/Divulgação'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e537df90707a0b752be5bd14c278dfda

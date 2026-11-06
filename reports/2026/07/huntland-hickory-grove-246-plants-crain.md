@@ -16,6 +16,10 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 246
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4cdefe1355c3c5f1aae22bd8f5fad17a

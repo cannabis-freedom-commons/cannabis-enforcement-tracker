@@ -17,6 +17,12 @@ figures:
   hectares: 1.42
   value: { amount: 49600000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [pdea, kalinga, cordillera, oplan-green-pearl-charlie]
 sources:

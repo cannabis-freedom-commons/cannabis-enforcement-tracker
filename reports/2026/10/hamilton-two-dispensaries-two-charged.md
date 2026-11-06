@@ -20,6 +20,16 @@ media:
     media_url: https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/10/Screenshot-2026-10-30-145227.png
     publisher: Toronto Sun
     caption: 'Some of the illegal cannabis found by Hamilton Police during the dispensary raids. Photo: Hamilton Police'
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [3]
+  details.agencies: [2, 4]
+  details.agency_types: [2, 4]
+  details.setting: [3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a7732fc726995465db176c465768cf38

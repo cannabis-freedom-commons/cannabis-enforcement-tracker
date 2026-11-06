@@ -46,6 +46,11 @@ media:
     media_url: https://www.gazetebirlik.com/uploads/haberler/2026/10/9319-antalya-da-uyusturucu-operasyonu-7-5-kilo-esrar-ele-gecirildi-4.webp
     publisher: Yeni Birlik
     caption: Wrapped packages of seized cannabis laid out in front of a banner of the Antalya police narcotics branch; police photo published by Yeni Birlik.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7158ea0d83b0d99b63c7df31a1306028

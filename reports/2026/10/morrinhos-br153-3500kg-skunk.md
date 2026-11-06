@@ -40,6 +40,15 @@ media:
     media_url: https://www.diariogoianiense.com.br/uploads/images/2026/10/prf-e-policia-civil-apreendem-3-5-toneladas-de-supermaconha-em-caminhao-na-br-153-em-goias1793363722.jpg
     publisher: Diário Goianiense
     caption: 'Photo published with the Diário Goianiense report of the 3.5-tonne skunk seizure on the BR-153. Credit on the page: A Redação, com informações da PRF e PCDF; FONTE/CRÉDITOS: Glaucio teixeira.'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 15, 16]
+  details.agency_types: [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 15, 16]
+  details.products: [1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 15, 16]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0d5434a64ecbbb6b8828a23255faa9fa

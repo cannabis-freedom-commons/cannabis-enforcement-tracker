@@ -21,6 +21,11 @@ media:
     media_url: https://img.c-inform.info/cache/e/f/118805_m_117546738754543301_1.jpg/dw900h500.jpg
     publisher: Kryminform
     caption: Police photo of the two boxes of marijuana found at the Feodosia resident's premises
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8ccd9ec73d12d7eb76245f1e5630e9b0

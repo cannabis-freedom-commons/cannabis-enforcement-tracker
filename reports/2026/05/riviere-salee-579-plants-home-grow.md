@@ -22,6 +22,10 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/wwiIfV7ZHbR4wFnfQHfkwpdGcmI/32x0:699x375/720x405/filters:format(webp):quality(80)/outremer%2F2026%2F06%2F01%2F6a1da22ef283a689307483.png
     publisher: Martinique La 1ère
     caption: 'Gendarmerie photo of the plants and harvested cannabis seized during the Rivière-Salée search. Photo: Gendarmerie de Martinique.'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fec07550ca777b2a114e3c434b991faf

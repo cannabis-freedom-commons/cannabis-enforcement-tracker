@@ -26,6 +26,11 @@ media:
     media_url: https://assets.reporteindigo.com/images-formats/1200x675/t_2-p_9-fpx_1000-fpy_562/png/2026/11/02/guillermo_plantillas_-2-.png
     publisher: Reporte Indigo
     caption: Detention and presentation of the two detainees before the corresponding Ministerio Público agent.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 681f94b16d4aecaad7a1b8cd6cc69b4d

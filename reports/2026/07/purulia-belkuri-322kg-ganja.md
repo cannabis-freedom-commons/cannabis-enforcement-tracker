@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 7
   kg_seized: 322
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, west-bengal, interstate-trafficking, purulia, truck]

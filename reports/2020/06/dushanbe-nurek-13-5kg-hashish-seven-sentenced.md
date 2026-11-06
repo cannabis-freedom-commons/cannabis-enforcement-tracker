@@ -22,6 +22,11 @@ media:
     media_url: https://vecherka.tj/wp-content/uploads/2020/04/partija-narkotikov.jpg
     publisher: Вечёрка
     caption: Photo captioned "наркотики" (drugs) illustrating the Dushanbe police seizure report.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 07269de570eb44cd4392abefa4b9a524

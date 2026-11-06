@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 150000
   kg_seized: 3000
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 32, 35, 36, 38, 43]
+  details.agency_types: [1, 2, 3, 4, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 32, 35, 36, 38, 43]
 status: verified
 tags: [bnn, mandailing-natal, tor-sihite, hillside]
 open_questions:

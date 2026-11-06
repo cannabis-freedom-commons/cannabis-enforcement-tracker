@@ -21,6 +21,11 @@ media:
     media_url: https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://northcapitalnews.com/wp-content/uploads/elementor/thumbs/IMG-20261101-WA0036-rvptul4q4wjc9zhctee53k813u4fhke9srorc4jen8.jpg
     publisher: North Capital News
     caption: Police photo of the four detained men standing in front of a District Detective Branch banner
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 03976907af52f970ebf4141dc6da6075

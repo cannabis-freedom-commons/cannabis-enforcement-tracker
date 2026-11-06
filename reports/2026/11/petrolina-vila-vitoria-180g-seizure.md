@@ -12,6 +12,12 @@ summary: >-
   Military police seized 180 g of marijuana alongside cocaine and a precision scale in searches of shacks in Vila Vitória, Petrolina, on 2 November 2026. The drugs were taken to the Civil Police station, which is investigating those responsible; no suspects were detained.
 figures:
   kg_seized: 0.18
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 553a2819db9a419bb88a4fc1c2f92186

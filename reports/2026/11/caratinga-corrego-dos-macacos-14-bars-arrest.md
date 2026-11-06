@@ -19,6 +19,12 @@ media:
     media_url: https://s2-g1.glbimg.com/9Mc4mQKW1TyWXFnVHqkt8mZiSV4=/0x0:1599x899/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/m/2eh8NjQemhSKcVIWqLuA/whatsapp-image-2026-11-05-at-08.37.34.jpeg
     publisher: g1
     caption: 'The material seized at the house in Córrego dos Macacos, on the g1 photo captioned "Homem é preso após PM encontrar 14 barras de maconha em casa na zona rural de Caratinga". Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6041e27c0a976a6ffcf3a1cf52a24911

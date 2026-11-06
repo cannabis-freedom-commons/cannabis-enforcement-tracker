@@ -21,6 +21,12 @@ media:
     media_url: http://image.cns.com.cn/xinjiang_editor/transform/20240620/630D-hecnypz9358257.jpg
     publisher: 精河零距离 via 中新网·新疆
     caption: Officers inspect wild cannabis plants during a clearance in Jinghe County.
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, jinghe, wild-cannabis, eradication]

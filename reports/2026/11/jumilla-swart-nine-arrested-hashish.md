@@ -13,6 +13,15 @@ summary: >-
   Guardia Civil and Jumilla local police arrested nine members of a suspected family clan and dismantled three alleged drug sale points in Jumilla's old town. Officers seized 86 doses of hashish alongside more than 700 cocaine doses, cash and other items in Operation Swart.
 figures:
   arrested: 9
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 336fe7de904d81e46fde3d545da3690a

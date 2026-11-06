@@ -25,6 +25,11 @@ figures:
   fine:
     amount: 100000
     currency: EGP
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b89af7c4d97a8dc1d5f238b6c5773840

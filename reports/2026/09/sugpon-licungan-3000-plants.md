@@ -25,6 +25,14 @@ media:
     media_url: https://images.assettype.com/tribune/2026-09-27/v4haqd8q/825329685914516711486110875516756533836926n.jpg?w=663&auto=format&q=55&rect=146%2C0%2C663%2C373&h=373&fit=crop
     publisher: Daily Tribune
     caption: 'Officers with uprooted marijuana plants at the plantation site in Sugpon. Photo: Daily Tribune.'
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [philippines, ilocos-sur, sugpon, eradication]

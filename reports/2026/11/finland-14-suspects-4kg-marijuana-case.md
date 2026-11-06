@@ -19,6 +19,15 @@ media:
     media_url: https://www.epressi.com/media/userfiles/164598/1793713772/lianapressfile-1793713803816.jpg
     publisher: Tulli
     caption: 'Customs photo of cocaine packages seized in the same operation. Photo: Tulli'
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdd8b4338fb2d7aece0ca7f8265e406d

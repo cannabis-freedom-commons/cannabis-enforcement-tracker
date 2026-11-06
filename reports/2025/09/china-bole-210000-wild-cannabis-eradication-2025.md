@@ -36,6 +36,12 @@ media:
     media_url: https://cdnjdout.aikan.pdnews.cn/zhbj-20250909/vod/content/output/418724c79d9b498db0adfd3f1c2116e1_opt.mp4
     publisher: 人民日报客户端
     caption: Video report on the joint clearance of wild cannabis plants in Bole.
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, bole, wild-cannabis, eradication]

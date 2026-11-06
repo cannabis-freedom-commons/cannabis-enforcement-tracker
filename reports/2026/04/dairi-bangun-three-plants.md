@@ -18,6 +18,10 @@ figures:
   arrested: 1
   plants_destroyed: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 tags: [bangun, parbuluan, dairi, north-sumatra, cultivation]
 open_questions:

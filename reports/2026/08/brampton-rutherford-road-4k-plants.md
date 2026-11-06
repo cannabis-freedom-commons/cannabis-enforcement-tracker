@@ -25,6 +25,12 @@ media:
     media_url: https://globalnews.ca/wp-content/uploads/2026/08/Seized-Cannabis-Plants-3-e1786568445793.jpg?quality=65&strip=all&w=1200
     publisher: Global News
     caption: 'Cannabis plants seized from the commercial unit in Brampton, in an OPP handout photo published by Global News. Photo: OPP'
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0782e70bd7dbb818890527d4321b3749

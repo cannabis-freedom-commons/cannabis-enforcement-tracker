@@ -18,6 +18,11 @@ figures:
   arrested: 3
   kg_seized: 12
   value: { amount: 2400000, currency: INR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [charas, chamba, checkpoint]

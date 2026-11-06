@@ -18,6 +18,10 @@ figures:
   kg_seized: 15
   arrested: 5
 created_by_model: cursor/composer-2.5-fast
+details:
+  setting: [shop]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [koundara, bsip, shop]
 sources:

@@ -20,6 +20,14 @@ figures:
   plants_destroyed: 628295
   value: { amount: 186400000, currency: PHP }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ilocos-sur, sugpon, kibungan, pdea, eradication]
 sources:

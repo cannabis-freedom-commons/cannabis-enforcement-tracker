@@ -16,6 +16,12 @@ figures:
   kg_seized: 242000
   hectares: 79
   value: { amount: 7260000, currency: USD }
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [senad, amambay, capitan-bado]

@@ -18,6 +18,10 @@ summary: >-
   investigation continued.
 figures:
   kg_seized: 54.431
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dekalb, hemp, warehouse, gda]

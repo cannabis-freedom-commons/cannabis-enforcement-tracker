@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0353
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1d5bf7aa6d6964b2356620fccf3f252d

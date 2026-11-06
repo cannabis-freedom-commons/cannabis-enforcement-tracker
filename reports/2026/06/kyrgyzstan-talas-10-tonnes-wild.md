@@ -21,6 +21,12 @@ media:
     url: https://24kgr2.bemint.pro/files/media/451/451854.jpeg
     publisher: 24.kg
     caption: 'Officers watching a pile of wild cannabis burn in Talas. Photo: 24.kg'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [wild-cannabis, burn]

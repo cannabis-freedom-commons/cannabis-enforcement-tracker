@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 2000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [europol, guardia-civil, trafficking]
 sources:

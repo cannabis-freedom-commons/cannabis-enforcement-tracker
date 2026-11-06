@@ -24,6 +24,14 @@ media:
     media_url: https://rcmp.ca/sites/default/files/styles/gallery_large_1200x1200/public/2026-06/001.jpg?itok=gEFs7-Qo
     publisher: Royal Canadian Mounted Police
     caption: 'Items seized at the Cornwall port of entry and displayed by the Cornwall Regional Task Force: unstamped cannabis, THC vape cartridges, edibles, cash and phones. Photo: RCMP / Cornwall Regional Task Force'
+details:
+  agencies: [ca-rcmp, ca-cbsa, ca-opp]
+  agency_types: [police, customs]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 74e4da3892402c350646f2ff52b7cd66

@@ -25,6 +25,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/26/whatsapp-image-2026-10-26-at-35238-pm-11793014896_1793015421.jpg
     publisher: Dainik Bhaskar
     caption: 'Accused woman with the Dhamtan Sahib police post team. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 92491619385891a0669f496a417c1012

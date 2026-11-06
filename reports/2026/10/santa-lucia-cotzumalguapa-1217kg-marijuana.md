@@ -32,6 +32,10 @@ media:
     media_url: https://cdn.albertonews.com/wp-content/uploads/2026/10/image-2026-10-29T211503.905.jpg
     publisher: AlbertoNews
     caption: Wrapped packages of plant material published with AlbertoNews's account of the Santa Lucía Cotzumalguapa marijuana seizure. No photo credit is given.
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2, 5, 7, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 5a0262dc0cb1d48ed066689c05f7c4fb

@@ -18,6 +18,10 @@ figures:
   arrested: 1
   kg_seized: 35.159
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [assam, cachar, courier, meghalaya-border]
 sources:

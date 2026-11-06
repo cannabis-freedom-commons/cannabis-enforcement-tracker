@@ -23,6 +23,11 @@ media:
     media_url: https://fr.apanews.net/wp-content/uploads/sites/2/2026/10/FB_IMG_1792839194243-1024x768.jpg
     publisher: APAnews
     caption: Photo reported with the Dakar seizure, captioned 36.5 kg of hashish seized in Dakar.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c8788e77dd5fd33b60fa6a0e8f418b54

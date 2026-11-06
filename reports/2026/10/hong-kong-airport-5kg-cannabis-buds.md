@@ -24,6 +24,10 @@ media:
     media_url: https://gia.info.gov.hk/general/202610/31/P2026103100514_photo_1342585.jpg
     publisher: Hong Kong Customs and Excise Department
     caption: 'The suspected cannabis buds seized at Hong Kong International Airport, shown in a Customs handout photo. Photo: Hong Kong Customs and Excise Department'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [2, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 71e62444ba83863c3dd9cb0646eefbc5

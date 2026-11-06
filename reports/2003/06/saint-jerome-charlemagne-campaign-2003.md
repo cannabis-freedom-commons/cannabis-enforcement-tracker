@@ -19,6 +19,12 @@ figures:
   arrested: 400
   kg_seized: 970.36
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [charlemagne, indoor-grows, rcmp]
 open_questions:

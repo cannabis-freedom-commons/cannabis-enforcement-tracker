@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 0.0351
   prison: 6 months
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [caen, prison, parloir]

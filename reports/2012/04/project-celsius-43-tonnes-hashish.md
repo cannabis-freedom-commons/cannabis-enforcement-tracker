@@ -18,6 +18,15 @@ figures:
   arrested: 9
   kg_seized: 43300
 created_by_model: meta/muse-spark
+details:
+  agencies: [ca-rcmp, ca-cbsa]
+  agency_types: [police, customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [rcmp, project-celsius, hashish, cross-border]
 sources:

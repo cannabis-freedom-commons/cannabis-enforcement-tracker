@@ -18,6 +18,10 @@ media:
     media_url: https://static.actu.fr/uploads/2026/05/fotojet-2026-05-07t172342808-960x640.jpg
     publisher: actu.fr
     caption: 'Customs photo of the cannabis found in mattresses at Luxembourg. Photo: Administration des douanes et accises'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a5f44dc2ffc8772476a32cede80765d0

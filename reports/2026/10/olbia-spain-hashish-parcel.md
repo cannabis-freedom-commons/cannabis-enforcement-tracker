@@ -40,6 +40,15 @@ media:
     media_url: https://immagini.unionesarda.it/version/c:OGVlZDJkNTgtZDAzNi00:NGIzOGRhMjItZGE1ZS00/image.webp?f=Freeform&q=0.75&w=640
     publisher: L'Unione Sarda
     caption: 'A fourth photograph published with the Olbia seizure report. The page gives no caption. Photo: L''Unione Sarda'
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: edd84ed783ee6c4e7476327c7a4c3519

@@ -16,6 +16,15 @@ figures:
   arrested: 1
   kg_seized: 0.4967
   prison: 5 years
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 04c03c07e9492287562b965c157ad9ef

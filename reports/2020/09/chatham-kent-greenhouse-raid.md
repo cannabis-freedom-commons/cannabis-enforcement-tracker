@@ -17,6 +17,10 @@ figures:
   charged: 1
   plants_destroyed: 7300
   value: { amount: 7300000, currency: CAD }
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [chatham-kent, greenhouse]

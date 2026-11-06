@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 9.028
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4, 6, 7, 8]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 38054d3420f7c47a1e57b8d073a4983d

@@ -17,6 +17,10 @@ figures:
   kg_seized: 5000
   value: { amount: 500000000, currency: THB }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [warehouse, netherlands-route]
 sources:

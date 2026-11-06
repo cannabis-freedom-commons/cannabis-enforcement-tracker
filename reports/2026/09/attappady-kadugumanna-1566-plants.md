@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 1566
 created_by_model: xai/grok-4.7
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [india, kerala, palakkad, eradication]
 sources:

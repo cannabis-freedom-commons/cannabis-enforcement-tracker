@@ -25,6 +25,12 @@ media:
     media_url: https://cadena-high-volume.b-cdn.net/5w75zffqmtw1rpeoaqkseaqhldro
     publisher: Alvorada 95.3 FM
     caption: 'Drugs, money and materials seized by the Military Police in Redentor. Photo: Samuel Leite / Rádio Alvorada'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3e94c090fd89dee938d902d9c2280a70

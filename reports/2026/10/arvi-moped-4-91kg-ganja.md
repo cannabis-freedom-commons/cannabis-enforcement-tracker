@@ -30,6 +30,11 @@ media:
     media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/Dhule_205986_123287_5000.mp4
     publisher: NDTV Marathi
     caption: NDTV Marathi video report on cannabis seized from a school bag in Arvi, Wardha.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c57a4ce57b0a24e4efc4cd156bbcc25e

@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 25000
   hectares: 3.75
+details:
+  agencies: [bo-felcn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [felcn, processing-lab, toro-toro]

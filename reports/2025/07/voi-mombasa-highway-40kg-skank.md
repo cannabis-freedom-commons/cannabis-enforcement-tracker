@@ -20,6 +20,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 40
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mombasa-highway, skank, trafficking]

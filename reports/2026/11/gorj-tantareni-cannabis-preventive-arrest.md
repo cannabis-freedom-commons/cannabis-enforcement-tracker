@@ -19,6 +19,10 @@ media:
     media_url: https://www.gds.ro/wp-content/uploads/2026/11/sddefault-1.jpg
     publisher: Gazeta de Sud
     caption: 'Video report on the Gorj arrest, whose still shows a dark night scene with police lights; no direct video stream address was recoverable. Image: Gazeta de Sud'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b257c5b19e0a0cff76400b012ca9ba93

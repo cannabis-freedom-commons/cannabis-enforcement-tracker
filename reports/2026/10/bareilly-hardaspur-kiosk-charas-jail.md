@@ -15,6 +15,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.1
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [1, 3, 8, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 031bb3bedea9b64384eee37eb0120cb2

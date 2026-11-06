@@ -30,6 +30,11 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/10/30/polisi-gerebek-kampung-boncos-jakbar-1793365834784_169.jpeg?w=650&q=90
     publisher: detikNews
     caption: 'Police officers stand behind three detained men during the raid on Kampung Boncos, Palmerah, West Jakarta, on 30 October 2026. Photo: Dok. Istimewa/detikNews'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: ccce5d0d271fd14f7d731b63ac916d8f

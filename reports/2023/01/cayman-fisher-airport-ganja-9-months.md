@@ -15,6 +15,15 @@ figures:
   arrested: 1
   charged: 1
   prison: 9 months, half of an 18-month term suspended
+details:
+  activity: [smuggling]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b4d720b56c9772d77a69eba428c7f5ff

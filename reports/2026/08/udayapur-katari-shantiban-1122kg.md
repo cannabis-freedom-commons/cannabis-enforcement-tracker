@@ -20,6 +20,17 @@ media:
     url: https://thehimalayantimes.com/nepal/1122-kg-of-marijuana-seized-in-udayapur-three-arrested
     publisher: The Himalayan Times
     caption: 'Sacks of seized marijuana stacked in front of a truck. Photo: Shyam Rai'
+details:
+  agencies: [np-police]
+  agency_types: [police]
+  activity: [trafficking]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [udayapur, katari, ganja, seizure, trafficking]

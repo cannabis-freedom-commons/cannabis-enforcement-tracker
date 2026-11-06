@@ -20,6 +20,11 @@ media:
     media_url: https://jantaserishta.com/h-upload/2026/11/03/5634385-untitled-62-copy.webp
     publisher: Janta Se Rishta
     caption: Photo published with the report on the 1.5-quintal ganja seizure from a car in Baripada.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5e36d5d377b59d2f8419bcd233faf8c5

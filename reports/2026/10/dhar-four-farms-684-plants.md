@@ -20,6 +20,11 @@ figures:
   value:
     amount: 12754000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b6d772dae7a472e1bb6b0331009cc125

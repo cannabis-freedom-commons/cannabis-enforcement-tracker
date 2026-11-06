@@ -21,6 +21,12 @@ media:
     url: https://leadership.ng/customs-intercepts-1-2-tonnes-of-drugs-worth-n3-674bn-from-canada/
     publisher: LEADERSHIP
     caption: Uniformed officers stand behind a table of packaged goods at Tin Can Island Port, in two photographs accompanying the announcement; no credit is given.
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [nigeria, tin-can, customs, edibles, delta-8]

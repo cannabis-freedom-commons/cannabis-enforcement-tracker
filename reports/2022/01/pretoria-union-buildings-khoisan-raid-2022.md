@@ -17,6 +17,11 @@ summary: >-
 figures:
   arrested: 4
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [khoisan, union-buildings, protest-camp, dagga]
 media:

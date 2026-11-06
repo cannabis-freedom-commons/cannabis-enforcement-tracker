@@ -16,6 +16,11 @@ figures:
   arrested: 1
   charged: 1
   prison: 6 months
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2038cc466048c865a2ecd2d1030345b2

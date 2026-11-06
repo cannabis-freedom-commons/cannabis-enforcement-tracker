@@ -14,6 +14,11 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 181.44
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 3d434a51ab3a070d568c64a5ad6a7591

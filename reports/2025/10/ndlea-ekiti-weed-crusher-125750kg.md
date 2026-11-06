@@ -19,6 +19,12 @@ figures:
   kg_seized: 125750
   hectares: 51
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ndlea, ekiti, operation-weed-crusher]
 open_questions:

@@ -35,6 +35,10 @@ media:
     media_url: https://www.prensalibre.com/wp-content/uploads/2025/06/buque-3.jpg?resize=1360,768
     publisher: Prensa Libre
     caption: 'A ship at Puerto Santo Tomás de Castilla, the Guatemalan port named as where the Haina container was loaded. Photo: Empornac / Prensa Libre'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8a9aa3387b8aecab363b5c4136bf4fc9

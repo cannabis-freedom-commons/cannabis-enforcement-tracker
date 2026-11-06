@@ -17,6 +17,10 @@ figures:
   kg_seized: 40823
   value: { amount: 100000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [oak-hills, warehouse, honeyhill-road]
 open_questions:

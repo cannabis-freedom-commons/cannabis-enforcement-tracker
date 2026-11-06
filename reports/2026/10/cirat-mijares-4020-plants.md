@@ -23,6 +23,12 @@ figures:
     amount: 2000000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [castellon, alto-mijares, guardia-civil, guerrilla-grow]
 open_questions:

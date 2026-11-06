@@ -21,6 +21,11 @@ media:
     media_url: https://www.knskashmir.com/userfiles/image/639290124823038055_IMG_20261031_083112.jpg
     publisher: Kashmir News Service
     caption: 'Two men standing with police officers beside a seized bag marked FIR No. 31/2026, Police Station Pethkoot. Photo: Kashmir News Service'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 47d3672cab8d56d4fb44c2a68d8b0a4a

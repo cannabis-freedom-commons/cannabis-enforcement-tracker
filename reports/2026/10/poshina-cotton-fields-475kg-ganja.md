@@ -21,6 +21,10 @@ figures:
   arrested: 4
   plants_destroyed: 988
   kg_seized: 475.39
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sabarkantha, gujarat, cultivation]

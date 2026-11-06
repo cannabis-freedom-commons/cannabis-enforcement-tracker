@@ -20,6 +20,12 @@ media:
     media_url: https://assets.thehansindia.com/h-upload/2026/11/03/1720901-found-14-kg-of-dried-cannabis-concealed.webp
     publisher: The Hans India
     caption: Excise officials during special checks against the illegal transportation of cannabis in Mahabubabad.
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 87083b923fcfb65ebcc4099c37406a83

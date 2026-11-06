@@ -21,6 +21,15 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/13/abf0c56fa4c5cc197fbe28d1f73b952e_a.jpg
     publisher: Haber7
     caption: Lead photo published with the Haber7 report on the 700-kilogram Diyarbakır seizure
+details:
+  agencies: [tr-egm]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d2ba4dee112dcaf3668f57cd8b089167

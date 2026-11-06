@@ -19,6 +19,12 @@ media:
     media_url: https://www.varginhaonline.com.br/wp-content/uploads/2026/11/04112026_pm.jpg
     publisher: Varginha Online
     caption: 'Police photo published with the report on the Novo Tempo arrests. Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a44c77ff5156ef163fde16f4ba1b0584

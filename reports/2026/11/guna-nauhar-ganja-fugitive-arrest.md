@@ -12,6 +12,11 @@ summary: >-
   Bhind police arrested ganja-case fugitive Satyadev in a Guna ashram on 2 November after 21 years on the run, while he lived disguised as a sadhu. He had jumped bail in a 2002 cannabis case that drew a permanent warrant in 2005 and was to be produced before the court.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a80ad3eab9c77ae8aad6e21930b54dbf

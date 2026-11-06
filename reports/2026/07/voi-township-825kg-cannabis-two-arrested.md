@@ -23,6 +23,11 @@ media:
     media_url: https://capitalfm.africa/wp-content/uploads/2026/07/seized-bhang-800x420.jpg
     publisher: Capital FM
     caption: 'Photo of the seized bhang from the Voi operation. Photo: Capital FM'
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ff504f4303b513baae883f72a05f4afa

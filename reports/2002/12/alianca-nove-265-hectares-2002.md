@@ -17,6 +17,12 @@ summary: >-
 figures:
   hectares: 265
   kg_seized: 583000
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [alianca-nove, amambay, ponte-pora, dinar]

@@ -16,6 +16,10 @@ summary: >-
 figures:
   kg_seized: 345
   prison: 30 years and 24 strokes of the cane
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [death-penalty, commutation, court-of-appeal, trafficking]

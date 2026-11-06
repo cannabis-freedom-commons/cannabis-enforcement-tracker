@@ -35,6 +35,13 @@ media:
     media_url: https://www.infobae.com/resizer/v2/RXFJX4EJ2NCCPGJHIVQM26K5WU.jpg?auth=db84fe5094d12c560797bad1e12b65c2a96708847236204080e72d23f391a6f3&smart=true&width=350&height=263&quality=85
     publisher: Infobae
     caption: 'Drugs in bundles hidden with special material to evade controls. Photo: courtesy Gustavo Villatoro'
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3b18e6da9d9af7d21f6be4be54d33723

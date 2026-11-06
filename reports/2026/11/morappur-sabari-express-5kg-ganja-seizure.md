@@ -12,6 +12,11 @@ summary: >-
   Harur prohibition police seized 5 kg of ganja from a bag found near the toilet of the Sabari Express near Morappur station on 3 November 2026. No suspect was named and inquiries were continuing to trace who carried the bag.
 figures:
   kg_seized: 5
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d3e94478abb2276989d3ad8faabc0586

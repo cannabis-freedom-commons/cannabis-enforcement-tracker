@@ -20,6 +20,11 @@ media:
     media_url: https://img.inform.kz/kazinform-photobank/media/2026-10-05/dede2883-6354-4794-855e-e88a796a5f16.webp
     publisher: Kazinform
     caption: 'Police handout photo published with the report on the Shu detention. Photo: Department of Police of Zhambyl Region'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 35c93a330a5fba3e39ac3c004a4e641f

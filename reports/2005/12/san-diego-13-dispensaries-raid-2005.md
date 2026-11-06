@@ -18,6 +18,12 @@ figures:
   arrested: 4
   kg_seized: 22.68
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, dispensaries, medical-marijuana]
 open_questions:

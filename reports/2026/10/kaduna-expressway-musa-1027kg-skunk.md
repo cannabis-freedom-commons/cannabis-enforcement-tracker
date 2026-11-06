@@ -19,6 +19,15 @@ figures:
   arrested: 1
   kg_seized: 1027
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [expressway, patrol, skunk]
 sources:

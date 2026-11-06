@@ -23,6 +23,10 @@ figures:
     amount: 30000000
     currency: XOF
 created_by_model: opencode-go/deepseek-v4.1-flash#max
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [transit, truck, sahel, transnational]
 open_questions:

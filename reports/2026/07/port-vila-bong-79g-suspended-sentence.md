@@ -15,6 +15,10 @@ summary: >-
 figures:
   kg_seized: 0.07989
   prison: 5 months (suspended 12 months)
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [port-vila, court, possession]

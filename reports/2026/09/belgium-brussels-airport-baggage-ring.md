@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 21
 created_by_model: unknown
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [airport, couriers, eurojust]
 sources:

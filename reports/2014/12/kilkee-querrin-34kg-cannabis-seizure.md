@@ -18,6 +18,12 @@ figures:
   charged: 1
   kg_seized: 34
   value: { amount: 680000, currency: EUR }
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kilkee, clare, house-search]

@@ -32,6 +32,10 @@ media:
     media_url: https://www.tovima.com/wp-content/uploads/2026/06/11/astunomiki-epiheirisi-sti-sadorini-edopistikan-26-dendrullia-kannavis-sunelifthisan-duo-atoma-deite-video-2.png
     publisher: tovima.com
     caption: Police photo of the hydroponic cannabis setup and plants found at the second home.
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 21d0a487a261574b0dd2149305b7ba2a

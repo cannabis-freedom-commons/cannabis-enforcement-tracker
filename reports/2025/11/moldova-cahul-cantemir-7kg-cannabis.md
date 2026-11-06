@@ -17,6 +17,10 @@ summary: >-
   lei on the black market.
 figures:
   kg_seized: 7
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [cahul, cantemir, hydroponic]

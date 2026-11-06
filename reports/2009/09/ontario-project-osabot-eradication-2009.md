@@ -15,6 +15,12 @@ figures:
   plants_destroyed: 4700
   value: { amount: 4700000, currency: CAD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp, ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [osabot, rcmp, opp, outdoor-grows]
 open_questions:

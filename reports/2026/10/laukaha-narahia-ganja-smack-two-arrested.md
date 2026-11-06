@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.009
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c8c049083bd6c9cc864f4b1829d734dc

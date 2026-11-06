@@ -22,6 +22,14 @@ figures:
   prison: 26 years combined (10, 7, 5 and 4 years)
   value: { amount: 4300000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gb-nca, gb-border-force]
+  agency_types: [police, customs]
+  activity: [smuggling]
+data_sources:
+  details.activity: [2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [nca, organised-crime, smuggling]
 open_questions:

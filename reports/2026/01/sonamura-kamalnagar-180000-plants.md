@@ -28,6 +28,12 @@ media:
     publisher: Sentinel Assam
     caption: Assam Rifles personnel stand among uprooted cannabis plants after the plantation-clearing operation
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
 status: verified
 tags: [tripura, sonamura, kamalnagar]
 open_questions:

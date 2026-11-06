@@ -17,6 +17,15 @@ figures:
   value:
     amount: 3000000
     currency: INR
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7bd08f371ab9d1081ef18480abfd7e8a

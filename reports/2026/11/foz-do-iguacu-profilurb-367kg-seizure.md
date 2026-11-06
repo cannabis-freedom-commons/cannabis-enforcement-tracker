@@ -21,6 +21,12 @@ media:
     media_url: https://uploads.oparana.com.br/2026/11/WhatsApp-Image-2026-11-03-at-06.22.00-1000x1333.jpeg
     publisher: O Paraná
     caption: 'BPFron photo of the 367 kg cannabis seizure in Foz do Iguaçu. Photo: BPFron'
+details:
+  agencies: [br-pf, br-pm]
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 50fe827926d999e496b90187c87bf36d

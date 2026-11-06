@@ -19,6 +19,15 @@ media:
     media_url: https://castellonaldia.elmundo.es/binrepository/948x474/77c0/710d473/none/291842500/SCVE/gallos-y-drogas_381-6522498_20261105090100.jpg
     publisher: Castellón al Día
     caption: 'Guardia Civil officers during one of the searches in Benicarló. Photo: Guardia Civil'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 540551d9962cf836ffc8ed39c28cf997

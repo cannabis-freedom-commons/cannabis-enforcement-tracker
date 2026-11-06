@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 300
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 085701ab07c0cc2a98609479f0ad61fa

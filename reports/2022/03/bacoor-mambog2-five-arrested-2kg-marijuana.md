@@ -17,6 +17,11 @@ figures:
   value:
     amount: 90000
     currency: PHP
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6610309c0f4afc5e36c85da9b3528ef2

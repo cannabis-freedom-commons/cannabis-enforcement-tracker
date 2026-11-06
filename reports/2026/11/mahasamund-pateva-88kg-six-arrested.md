@@ -20,6 +20,11 @@ figures:
   value:
     amount: 4400000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mahasamund, pateva, ganja, ndps, operation-nishchay]

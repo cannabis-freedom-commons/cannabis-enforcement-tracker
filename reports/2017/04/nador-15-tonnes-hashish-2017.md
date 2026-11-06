@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 14973
+details:
+  agencies: [ma-dgsn]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c08a8fc2f7547b491c78742e8f384d95

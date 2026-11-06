@@ -20,6 +20,15 @@ media:
     media_url: https://misturebas.com.br/site-2022/wp-content/webp-express/webp-images/doc-root/site-2022/wp-content/uploads/2026/11/drogas-780x470.png.webp
     publisher: Misturebas News
     caption: 'Police photo of the seized drugs after the Timbó operation. Credit: PMSC.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ffebc02ccf79eb0923bbf54aa25dace0

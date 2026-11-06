@@ -17,6 +17,15 @@ figures:
   charged: 2
   kg_seized: 1.188
   prison: 10 years
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: de7029630fe432b6172930118a94d583

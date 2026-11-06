@@ -24,6 +24,12 @@ figures:
     amount: 2000000
     currency: EUR
 created_by_model: cursor/composer-2.5-fast
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [pyrenees-orientales, douanes, pmr-van]
 open_questions:

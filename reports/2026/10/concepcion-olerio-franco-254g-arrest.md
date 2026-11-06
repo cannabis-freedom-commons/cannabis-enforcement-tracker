@@ -18,6 +18,12 @@ figures:
   arrested: 1
   kg_seized: 0.254
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [concepcion, senad, microtrafico, olerias]
 open_questions:

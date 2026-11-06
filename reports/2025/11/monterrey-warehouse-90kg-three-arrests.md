@@ -20,6 +20,10 @@ media:
     media_url: https://assets.reporteindigo.com/__export/1764175424847/sites/reporteindigo/img/2025/11/26/detenidos_drogas_mty_iphone.jpg_1909828379.jpg
     publisher: Reporte Indigo
     caption: Photo of the three detained people identified in the Monterrey warehouse case.
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2cf4893fb01eef2427959899b3ff4650

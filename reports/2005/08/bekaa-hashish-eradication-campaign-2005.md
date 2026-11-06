@@ -13,6 +13,10 @@ summary: >-
   crops in several areas of the Bekaa on 4 August 2005, opening a ten-day
   eradication campaign. He warned farmers to stop planting cannabis, pledging the
   costly operation would continue until every hashish crop was eliminated.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bekaa, eradication, isf]

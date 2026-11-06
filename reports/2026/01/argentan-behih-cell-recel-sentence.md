@@ -18,6 +18,10 @@ summary: >-
 figures:
   kg_seized: 0.0017
   prison: 4 months
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [argentan, prison, recel]

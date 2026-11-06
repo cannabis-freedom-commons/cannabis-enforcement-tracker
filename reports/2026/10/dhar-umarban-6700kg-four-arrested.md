@@ -60,6 +60,11 @@ media:
     media_url: https://geo.dailymotion.com/player/xu5gi.html?video=xbsmpgm
     publisher: ETV Bharat
     caption: 'ETV Bharat video on the seizure of about 67 quintals of ganja plants from eight farms in Umarban, captioned with the police estimate of Rs 25 crore. Video: ETV Bharat'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 9, 10, 11]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e2cf01d5d63870561ed64f9aa310ac8d

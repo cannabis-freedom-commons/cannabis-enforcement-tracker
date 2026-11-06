@@ -18,6 +18,15 @@ figures:
   kg_seized: 32376
   value: { amount: 50000000, currency: EUR }
 created_by_model: meta/muse-spark
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, algeciras, record-seizure, melons]
 sources:

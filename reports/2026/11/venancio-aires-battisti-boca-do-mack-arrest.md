@@ -19,6 +19,15 @@ media:
     media_url: https://uploads.folhadomate.com/2026/11/droga2.jpg
     publisher: Folha do Mate
     caption: 'The marijuana and cocaine portions and the cellphones seized from the two suspects, shown after the Battisti arrest. Photo: Brigada Militar/Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d61172b736e7eca1a3c833a591bc3357

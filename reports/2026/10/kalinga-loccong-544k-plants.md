@@ -20,6 +20,12 @@ figures:
     amount: 108800000
     currency: PHP
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [2, 3, 4]
+  details.agency_types: [2, 3, 4]
 status: verified
 tags: [kalinga, tinglayan, pnp, pdea, cordillera]
 open_questions:

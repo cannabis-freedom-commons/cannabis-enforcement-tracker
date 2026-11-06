@@ -25,6 +25,12 @@ media:
     media_url: https://www.dailyjoypurbarta.com/uploads/2026/11/Techtaranga.com_17938781325655.jpg
     publisher: Daily Joypur Barta
     caption: 'Photo credited to the paper''s Adamdighi correspondent and captioned with the arrest headline, showing the seizure reported in the article. Photo: Daily Joypur Barta correspondent'
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 447de00d7f52ad77b2d4bf872164c7cc

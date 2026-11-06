@@ -14,6 +14,15 @@ summary: >-
   Military Police stopped two men in Vila Nova, São Carlos, on 31 October 2026 and seized a replica pistol and a portion of cannabis. Both men were taken to the judicial police station for questioning and released afterwards.
 figures:
   arrested: 2
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 696af3d0c555e49533cd8ab0f4827469

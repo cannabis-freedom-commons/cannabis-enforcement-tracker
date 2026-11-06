@@ -21,6 +21,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/26/dbgifmagic-2026-10-26t114509122_1792995350.gif
     publisher: Dainik Bhaskar
     caption: 'Hisar police detention of the accused with ganja. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: b57bbd6be18e3663ef4f3c25667c1fb2

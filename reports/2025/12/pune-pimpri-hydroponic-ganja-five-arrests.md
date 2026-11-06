@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 1.194
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 800503725dfec7bb3e67ba020f6ba306

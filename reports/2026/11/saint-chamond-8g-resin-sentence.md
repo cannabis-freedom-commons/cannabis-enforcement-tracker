@@ -16,6 +16,11 @@ figures:
   charged: 1
   kg_seized: 0.008
   prison: 6 months, suspended
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 507d1ad7fe4df2ce80d16b00060a433f

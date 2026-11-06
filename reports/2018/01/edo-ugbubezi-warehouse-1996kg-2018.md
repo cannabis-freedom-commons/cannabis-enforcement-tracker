@@ -20,6 +20,14 @@ figures:
   value: { amount: 20000000, currency: NGN }
 tags: [edo, warehouse, trafficking]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 sources:
   - title: Edo NDLEA uncovers N20 million worth of Indian Hemp in warehouse

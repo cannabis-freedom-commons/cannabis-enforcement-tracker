@@ -12,6 +12,11 @@ summary: >-
   Morocco's Royal Armed Forces seized 3.7 tonnes of cannabis resin in 148 packages at Gueltat Zemmour after firing warning shots at two vehicles. The Tuesday-evening interception took place at the defence line near the Mauritanian border in Western Sahara.
 figures:
   kg_seized: 3700
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eb611e3021f48562b55fc0162b22a3fb

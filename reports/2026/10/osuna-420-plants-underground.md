@@ -20,6 +20,12 @@ figures:
   arrested: 3
   charged: 3
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [osuna, seville, guardia-civil, aduanas]
 open_questions:

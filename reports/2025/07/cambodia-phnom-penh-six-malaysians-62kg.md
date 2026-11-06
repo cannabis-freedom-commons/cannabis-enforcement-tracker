@@ -17,6 +17,10 @@ summary: >-
   were expected to be charged under Article 40 of the drug control law.
 figures:
   arrested: 6
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [phnom-penh, airport, trafficking]

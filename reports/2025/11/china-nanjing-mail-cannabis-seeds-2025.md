@@ -14,6 +14,11 @@ summary: >-
   parcel whose X-ray image was flagged after risk analysis. Seeds were hidden between magazine pages
   in small bags of three to five each; customs destroyed the mail and cited criminal penalties for
   carrying non-inactivated drug-plant seeds in larger amounts.
+details:
+  products:
+    - {product: seeds}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [jiangsu, nanjing, customs, cannabis-seeds]

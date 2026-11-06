@@ -24,6 +24,10 @@ media:
     publisher: Inquirer.net
     caption: Police destroy marijuana plants at Sitio Nagawa, Barangay Caoayan, Sugpon, in the photo collage credited to the Ilocos Sur police provincial office and published with the report.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [philippines, ilocos-sur, sugpon, eradication]
 sources:

@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 200
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [amdanga, nh12, trafficking]

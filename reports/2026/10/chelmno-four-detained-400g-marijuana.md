@@ -21,6 +21,11 @@ media:
     media_url: https://pozatorun.pl/wp-content/uploads/2026/11/143-447598-original-1024x567-1024x585.webp
     publisher: Poza Toruń
     caption: 'Police photo of packets of seized drugs laid on a table. Photo: Komenda Powiatowa Policji w Chełmnie'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5aff663ccaf6f672675607e26d28f6d2

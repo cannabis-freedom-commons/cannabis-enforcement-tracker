@@ -19,6 +19,10 @@ media:
     url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/10/14/bateau-trafic-de-zamal-reunion-maurice-6ac764ca5efb0625528671-6acf093b3eb68490861278.webp
     publisher: Le Quotidien
     caption: 'Gendarmes with a beached trafficking boat at Saint-Benoît. Photo: Emmanuel Grondin via Le Quotidien'
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [zamal, trafficking, mauritius-route, appeal]

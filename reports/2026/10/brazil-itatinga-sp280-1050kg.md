@@ -18,6 +18,12 @@ figures:
   kg_seized: 1050.2
   arrested: 1
 created_by_model: unknown
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ficco, sao-paulo, highway]
 sources:

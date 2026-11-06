@@ -23,6 +23,10 @@ figures:
   kg_seized: 1.0246
   prison: 30 years
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3, 4]
 status: verified
 tags:
   - johor-bahru

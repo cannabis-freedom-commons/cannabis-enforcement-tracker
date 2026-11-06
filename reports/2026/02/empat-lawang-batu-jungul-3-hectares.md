@@ -20,6 +20,10 @@ figures:
   kg_seized: 200
   plants_destroyed: 6000
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [south-sumatra, empat-lawang, eradication]
 open_questions:

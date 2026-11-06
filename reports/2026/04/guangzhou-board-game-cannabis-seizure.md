@@ -31,6 +31,10 @@ media:
     publisher: Shenqiu County Government (reposting China Drug Control)
     caption: Seized items shown with the customs account of the board-game parcel.
 created_by_model: openai/gpt-6
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [customs, guangzhou, parcel, cannabis-seizure]
 sources:

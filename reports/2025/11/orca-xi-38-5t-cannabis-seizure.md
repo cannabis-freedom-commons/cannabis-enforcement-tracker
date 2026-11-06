@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 8700
   kg_seized: 38500
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 242c4726e3e9cc1904cce45be2356658

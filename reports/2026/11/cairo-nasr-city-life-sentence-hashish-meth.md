@@ -15,6 +15,11 @@ figures:
   arrested: 3
   charged: 3
   prison: life
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79937131e4b412bf1df5fedf1411a179

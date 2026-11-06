@@ -35,6 +35,12 @@ media:
     media_url: https://www.chanarcillo.cl/wp-content/uploads/2026/10/ban1-300x200.jpg
     publisher: Diario Chañarcillo
     caption: Four men behind a table with packages of cannabis and cash in Copiapó.
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f4d0ec5ebf159ed0dae9679c5c3d2388

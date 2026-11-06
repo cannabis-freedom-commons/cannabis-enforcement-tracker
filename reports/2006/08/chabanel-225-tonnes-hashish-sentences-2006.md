@@ -22,6 +22,15 @@ figures:
   prison: 11 years (Peter Toman); 4 years (Shawn Daoust)
   value: { amount: 225000000, currency: CAD }
 created_by_model: meta/muse-spark
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [west-end-gang, rcmp, hashish, sting, angola]
 open_questions:

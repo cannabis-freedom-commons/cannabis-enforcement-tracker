@@ -25,6 +25,12 @@ media:
     media_url: https://isomer-user-content.by.gov.sg/266/3abec7fe-d5c8-49a4-a93c-8a69a872009a/picture-221dc0af114a46b78a186ff0000079eb0.png
     publisher: Central Narcotics Bureau
     caption: 'About 323g of Ice and 2,000g of cannabis seized in the vicinity of Edgefield Plains on 29 March 2021. Photo: CNB'
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 285bd786525ccbdedc428229bbbce88b

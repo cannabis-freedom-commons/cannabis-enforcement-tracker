@@ -25,6 +25,15 @@ media:
     media_url: https://www.grnet.it/wp-content/uploads/2026/11/ANZIO_-_I_Carabinieri_con_droga_e_soldi_sequestrati__2_.jpeg
     publisher: GrNet News Sicurezza e Difesa
     caption: 'Second Carabinieri handout photo of the drugs and cash seized at Anzio Colonia. Photo: Carabinieri (published without a separate credit line).'
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df8b0a46beb1e27e9a7d1985cc877109

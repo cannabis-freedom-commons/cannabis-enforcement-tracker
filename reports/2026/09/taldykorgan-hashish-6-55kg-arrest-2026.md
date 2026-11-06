@@ -20,6 +20,11 @@ media:
     media_url: https://24.kz/media/k2/items/cache/49a7cc3aa94c192cb7e3cec143a5b85c_XL.jpg
     publisher: 24KZ
     caption: 'Still from the police video of the Taldykorgan seizure showing the confiscated hashish. Photo: still from video via 24KZ'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e75b5027b4348255509d29ad5ada86cc

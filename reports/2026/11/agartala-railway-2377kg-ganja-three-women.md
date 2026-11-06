@@ -23,6 +23,11 @@ media:
     media_url: https://boroktimes.com/wp-content/uploads/2026/11/ganja-696x522.jpeg
     publisher: Borok Times
     caption: 'The seized ganja at Agartala Railway Station, in the photo published with the report. Photo: Borok Times.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f39fef1c488544c12205f95306df92de

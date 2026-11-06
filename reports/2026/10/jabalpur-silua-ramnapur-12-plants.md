@@ -19,6 +19,10 @@ figures:
   value:
     amount: 70000
     currency: INR
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3bbf94dd29d6b525c94a82b60bfd530f

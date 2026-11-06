@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.952
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3644bda82d58f0275444e2100f38eb48

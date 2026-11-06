@@ -15,6 +15,12 @@ summary: >-
   at a Mountain View home; no arrests were made in either action.
 figures:
   plants_destroyed: 9195
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [hawaii-county, green-harvest, mountain-view]

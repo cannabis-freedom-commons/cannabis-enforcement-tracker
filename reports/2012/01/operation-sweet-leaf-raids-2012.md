@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 2749
   kg_seized: 66.93
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [operation-sweet-leaf]
 sources:

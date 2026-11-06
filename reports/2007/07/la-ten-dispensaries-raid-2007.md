@@ -12,6 +12,12 @@ summary: >-
   Federal drug agents raided 10 medical marijuana dispensaries across Los Angeles on
   25 July 2007, the same day the City Council voted to halt new dispensaries; crowds
   protested at the California Patients Group in Hollywood while the LAPD stood by.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 4]
+  details.agency_types: [1, 2, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

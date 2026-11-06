@@ -27,6 +27,11 @@ media:
     media_url: https://www.gendarmerie.interieur.gouv.fr/var/site/storage/images/_aliases/dsfr_md/6/2/5/5/195526-1-fre-FR/958b56d5ea1e-canabis-2.jpg
     publisher: Gendinfo, Gendarmerie nationale
     caption: 'Gendarme photograph of bales from the Cap Macré landing; a third image on the page uses the same Comgend - Martinique credit but no separate address could be recovered. Photo: Comgend - Martinique'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd8c9d9835f96174d5171a1ed4af919d

@@ -25,6 +25,17 @@ media:
     media_url: https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/local/2026/11/04/DROGA-RtDA566SjWbrXzZeyuSBk9I-1200x840@El%20Norte.jpg
     publisher: El Norte de Castilla
     caption: 'Photo of the cocaine and cannabis from the intercepted Palencia parcel. Photo: El Norte de Castilla'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  setting: [mail]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 4, 5, 6]
+  details.agency_types: [1, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2cd701f89a7c9e534911cf896f4b1fae

@@ -25,6 +25,10 @@ media:
     url: https://news.fznews.com.cn/fuzhou/20150331/5519dc22c2b07.shtml
     publisher: 福州晚报
     caption: 'Cannabis plants, some already flowering, inside one of the three rented flats. Photo: Fuzhou Evening News'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [fuzhou, indoor-grow, mail-smuggling, customs, fujian]

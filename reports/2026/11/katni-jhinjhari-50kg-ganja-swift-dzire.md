@@ -32,6 +32,11 @@ media:
     media_url: https://yashbharat.co.in/wp-content/uploads/2026/11/IMG_20261105_125141-780x470.jpg
     publisher: Yash Bharat
     caption: 'Police personnel lined up at a police outpost, used as the illustration on the report of the Jhinjhari police seizure in Katni. Photo: Yash Bharat'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f1521ee9b73a6d523fdfeba257b30442

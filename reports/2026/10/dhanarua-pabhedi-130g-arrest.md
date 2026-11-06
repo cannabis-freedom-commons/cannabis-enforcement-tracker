@@ -21,6 +21,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/10/31/ef747698-a595-4f19-ad6d-f92caf4208e3_1793453716478/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video report on the arrest of Omprakash Yadav and the ganja seizure in Pabhedi, Dhanarua. Video: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f8b5740c3b1cec2a9b8dad4266a8b1c6

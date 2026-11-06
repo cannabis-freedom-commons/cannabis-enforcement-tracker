@@ -28,6 +28,11 @@ media:
     url: https://fijisun.com.fj/news/nation/owner-unknown-after-11000-suspected-marijuana-plants-uprooted
     publisher: The Fiji Sun
     caption: 'Police photo of the marijuana plants uprooted from the Nasuva farming area. Photo: Fiji Police Force'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cakaudrove, marijuana, eradication, savusavu]

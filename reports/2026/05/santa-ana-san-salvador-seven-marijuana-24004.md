@@ -32,6 +32,11 @@ media:
     media_url: https://assets.laprensagrafica.com/__export/1780062019650/sites/prensagrafica/img/2026/05/29/droga_1.jpeg_1442440379.jpeg
     publisher: La Prensa Gráfica
     caption: 'Police photo of part of the drugs seized in the operation. Photo: PNC'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: d19cd685bcb2909e8844eb078d0aca55

@@ -35,6 +35,11 @@ media:
     media_url: https://cdn.jwplayer.com/videos/wSzl2RgR-XEya6GhY.mp4
     publisher: Infobae
     caption: 'Video about the PNP operation in Huanchaco and the nine Ecuadorian detainees. Credit: Policía Nacional del Perú.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: f72a4073c08599bd38ea60acb6f3de86

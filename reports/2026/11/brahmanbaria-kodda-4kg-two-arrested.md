@@ -16,6 +16,15 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 4
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
+  details.products: [1, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c0bb20527fe5a88016c977767548551a

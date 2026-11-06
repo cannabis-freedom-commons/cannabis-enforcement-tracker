@@ -23,6 +23,15 @@ media:
     media_url: https://midias.correiobraziliense.com.br/_midias/jpg/2026/11/01/675x450/1_blurred-frame--12--68121085.jpg
     publisher: Correio Braziliense
     caption: 'Seized material taken to the 16th Police Station in Planaltina. Photo: Divulgação/PMDF'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a3c8775c240b016236cc8cdd9fa78819

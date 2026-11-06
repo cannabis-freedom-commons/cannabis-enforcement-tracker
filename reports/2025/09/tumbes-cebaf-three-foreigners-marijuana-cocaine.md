@@ -29,6 +29,11 @@ media:
     media_url: https://mdstrm.com/video/68cd65ac60baa1b84b65aab4.mp4
     publisher: América Noticias
     caption: América Noticias video report on the detention of three foreigners at the Cebaf border post in Tumbes (1 minute 14 seconds).
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 88cbcdab4a258f15153c1552074f7ab7

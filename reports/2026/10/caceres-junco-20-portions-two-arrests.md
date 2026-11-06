@@ -20,6 +20,15 @@ media:
     media_url: https://cdn.caceresnoticias.com.br/storage/webdisco/2026/10/30/560x420/c67cba6540a0d97a1fc9e87e705c2327-caceresnoticias-com-br.jpg
     publisher: Cáceres Notícias
     caption: 'Image published with the Junco arrest report and credited as a military police reproduction. Credit: Reprodução / PM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 197a7c9f7a3b16b37625dc55a6caa165

@@ -17,6 +17,10 @@ figures:
   plants_destroyed: 5000
   hectares: 0.81
   arrested: 0
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [guyana, berbice, eradication]

@@ -22,6 +22,10 @@ media:
     media_url: https://storage.radiomoldova.md/images/153dd1a7-1f9a-413f-bb13-8d6f7068988c.jpg
     publisher: Radio Moldova
     caption: 'Border Police photograph published with the report on the marijuana seized in Chișinău, Comrat, Basarabeasca and Leova and the four detentions. Photo: Poliția de Frontieră a Republicii Moldova, via Radio Moldova'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 78d314895836e7367fc6c32ff8b405b3

@@ -24,6 +24,10 @@ media:
     media_url: https://cdx.dhakamail.com/media/images/2026November/meherpur_20261101_211314290.jpg
     publisher: Dhaka Mail
     caption: Lead photo accompanying the Dhaka Mail report on the youth sentenced for ganja consumption in Meherpur.
+details:
+  activity: [use]
+data_sources:
+  details.activity: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8023739f5660ad32f60b5343149bb157

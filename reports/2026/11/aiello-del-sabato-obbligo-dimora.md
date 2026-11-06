@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.65
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8c5e383556b8a52a1682c018ab1b3fdc

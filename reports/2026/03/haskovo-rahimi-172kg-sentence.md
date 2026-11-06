@@ -24,6 +24,10 @@ figures:
     amount: 1409000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [kapitan-andreevo, truck, plea-deal]
 open_questions:

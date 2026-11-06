@@ -22,6 +22,12 @@ figures:
   prison: life
   fine: { amount: 2000000, currency: PHP }
   value: { amount: 18430000, currency: PHP }
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [pasay, naia, thai-national, smuggling]

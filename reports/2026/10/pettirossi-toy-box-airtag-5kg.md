@@ -19,6 +19,14 @@ media:
     media_url: https://www.lanacion.com.py/resizer/v2/6P5IFTSOEJD7RITCMBW34CEXDE.jpeg?auth=b724da3a468bdd0cdbbc183ef0c50668573229b8da98bfb4e9db458baff43bb9&width=1200&smart=true
     publisher: La Nación
     caption: 'The 5.2 kg of suspected marijuana found during the DNIT courier inspection at Silvio Pettirossi airport, as captioned by La Nación. Photo: Gentileza (courtesy).'
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+  setting: [airport, mail]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f31bbb5a2b46bba50efae98ef38f687c

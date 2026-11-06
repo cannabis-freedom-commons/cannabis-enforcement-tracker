@@ -21,6 +21,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/10/31/1793445920412/sizes/31sim_m_13_31102026_30-f271dc-hero.webp
     publisher: Prabhat Khabar
     caption: 'The arrested man, captioned by the outlet as the accused in police custody after the Daily Market raid. Photo: Prabhat Khabar Network'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2226f245b365cf587db1c34908e5b2fb

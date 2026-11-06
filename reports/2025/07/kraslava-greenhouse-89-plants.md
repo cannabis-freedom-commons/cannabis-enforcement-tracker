@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 89
   kg_seized: 0.04
 created_by_model: cursor/composer-2.5
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1]
 status: verified
 tags: [kraslava, latgale, greenhouse]
 open_questions:

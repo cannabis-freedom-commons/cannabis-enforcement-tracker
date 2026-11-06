@@ -18,6 +18,16 @@ figures:
   charged: 2
   kg_seized: 100
   prison: 10 and 11 years
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [primorye, komissarovo, wild-cannabis, sentence, russia]

@@ -23,6 +23,15 @@ media:
     media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/498-20261103130736.jpg
     publisher: Ekushey Sangbad
     caption: Photo of the Baliakandi detentions reported on 3 November 2026.
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 98beeae640ad0cffa1bf68a64829d198

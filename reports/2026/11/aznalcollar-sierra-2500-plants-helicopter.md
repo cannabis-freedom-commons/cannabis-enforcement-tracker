@@ -51,6 +51,12 @@ media:
     media_url: https://www.mediaset.es/video/video-embed.html?contentId=2230401&cmsId=atlas
     publisher: Atlas
     caption: 2m 15s silent compilation of Guardia Civil images of the mountain plantation operation in Aznalcóllar. Images distributed by the Guardia Civil.
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 26, 29, 30]
+  details.agency_types: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 26, 29, 30]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6c89bea035bef3e1745750e9034e3fa

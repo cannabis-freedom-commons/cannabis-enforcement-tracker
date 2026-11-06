@@ -26,6 +26,12 @@ media:
     media_url: https://www.interpol.int/var/interpol/storage/images/6/1/1/5/285116-1-eng-GB/7be0435ed420-9.Barbados-cannabis-plantation-2.JPEG
     publisher: INTERPOL
     caption: Cannabis plants destroyed by authorities in Barbados during Operation Trigger VII.
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 43d42ee14b52bd2d24bd4a7cb534f3ed

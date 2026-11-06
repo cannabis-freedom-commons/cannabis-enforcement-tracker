@@ -20,6 +20,13 @@ media:
     media_url: https://armenpress.am/resized/1600/storage/images/articles/2026/06/18/EiciYXYeV5qxuumYTcAMB4EIvskEGN2OtdfXjYTN.webp
     publisher: Armenpress
     caption: Wrapped parcels on a scale being weighed during the seizure operation
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8565b873eb017493b245d48f190b55a1

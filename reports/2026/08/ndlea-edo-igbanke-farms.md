@@ -22,6 +22,12 @@ figures:
   arrested: 11
   kg_seized: 12.4
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags:
   - ndlea

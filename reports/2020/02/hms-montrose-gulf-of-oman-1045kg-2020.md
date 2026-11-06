@@ -18,6 +18,11 @@ figures:
   kg_seized: 1045
   value: { amount: 538860, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, maritime, ctf-150, dhow]
 sources:

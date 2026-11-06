@@ -19,6 +19,11 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-10-31/1793469909_IMG20261031WA2587.jpg
     publisher: Suryaa News
     caption: Photo published with the report on the arrest of two persons allegedly consuming ganja.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c2c3b51ea080150c677d9eea4c42585d

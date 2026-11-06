@@ -13,6 +13,11 @@ summary: >-
   Kurumbur police arrested 36-year-old Manickam of Alanthalai for alleged ganja sale, and Thoothukudi Collector ordered his preventive detention for one year under the Goondas Act on SP Sivaprasad's recommendation. The order was served at Palayamkottai Central Jail, taking the district's Goondas detentions this year to 129 across various crimes.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aecda5760e22675ed93e567757e08259

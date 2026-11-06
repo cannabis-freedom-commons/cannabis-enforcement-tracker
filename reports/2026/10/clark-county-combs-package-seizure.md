@@ -17,6 +17,11 @@ figures:
   charged: 1
   plants_destroyed: 36
   kg_seized: 61.6886
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9d5caeea8fd24fa890c71234e45894d3

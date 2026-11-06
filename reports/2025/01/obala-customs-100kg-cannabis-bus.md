@@ -13,6 +13,10 @@ summary: >-
   Customs officers at Obala in Cameroon's Centre region found 100 kg of cannabis in five parcels hidden in the luggage holds of a Bafoussam–Yaoundé bus on 13 January 2025. An investigation was opened to identify who ordered and who was to receive the load; no one was reported arrested.
 figures:
   kg_seized: 100
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5dc220071adc25d1cd04e101da07d13c

@@ -18,6 +18,10 @@ figures:
   arrested: 93
   kg_seized: 2407.27
   value: { amount: 202760000, currency: MYR }
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [klia, mules, trafficking, airport]

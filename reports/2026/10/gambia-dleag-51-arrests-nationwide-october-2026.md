@@ -13,6 +13,11 @@ summary: >-
   Gambia's Drug Law Enforcement Agency arrested 51 suspects in nationwide operations in October 2026, including two men held at Banjul Post Office with five parcels of suspected skunk. Officers also recovered cannabis sativa, kush and hashish alongside other drugs, with all 51 remaining in custody pending investigation.
 figures:
   arrested: 51
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 42f9f60c29a62eff552bedafa66790ce

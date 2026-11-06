@@ -16,6 +16,11 @@ figures:
   value:
     amount: 70000000000
     currency: XAF
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 62fd6d79193547d3af1fe8032947fb33

@@ -18,6 +18,12 @@ figures:
   hectares: 0.975
   kg_seized: 320
 created_by_model: openai/gpt-6
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [nayarit, la-yesca, navy, army, cannabis-eradication]
 open_questions:

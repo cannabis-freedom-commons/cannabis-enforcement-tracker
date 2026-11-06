@@ -20,6 +20,10 @@ figures:
   kg_seized: 10000
   hectares: 15
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  setting: [field]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [sic, malanje, liamba, field]
 open_questions:

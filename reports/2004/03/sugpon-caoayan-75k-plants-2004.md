@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 75000
   hectares: 3.7
   value: { amount: 15000000, currency: PHP }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [sugpon, ilocos-sur, npa, eradication]

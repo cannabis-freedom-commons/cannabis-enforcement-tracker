@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 6
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kikuyu, kiambu, nps, trafficking]

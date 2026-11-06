@@ -18,6 +18,12 @@ figures:
   value:
     amount: 36000
     currency: JMD
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ac141fb31427ee0ddcbb1a204215e48f

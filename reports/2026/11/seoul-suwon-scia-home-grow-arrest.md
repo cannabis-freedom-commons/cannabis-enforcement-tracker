@@ -19,6 +19,10 @@ figures:
         currency: KRW
     charged: 2
     plants_destroyed: 33
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: d38f63e926770ffbf729f071c25d4cba

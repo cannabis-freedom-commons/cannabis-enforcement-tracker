@@ -17,6 +17,12 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 18
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [ibotirama, bahia, rondesp]

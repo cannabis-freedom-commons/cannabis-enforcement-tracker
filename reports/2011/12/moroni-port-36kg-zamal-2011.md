@@ -19,6 +19,10 @@ media:
     media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnN6wJDzqmxHbIDdqYdjCwIFky9POYV1JTCzXmxCQzp6oIB5Co3oRDrPAK6akpIQyCbaEn9keQDTEvZTdISPYq1snnz0XoOf-eCiDTSQP_aJDmXW1EuDMTK21XdxXRkZrZKl7RZeHjKkIv/s640/blogger-image--181803164.jpg
     publisher: HabarizaComores
     caption: Photo published with the 12 December 2011 reprint of the Albalad report on the 36 kg of zamal seized at Moroni port.
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76e9c3a75c0b4f92edae1ea0bbe3248c

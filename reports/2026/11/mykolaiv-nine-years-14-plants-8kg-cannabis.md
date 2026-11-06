@@ -24,6 +24,10 @@ media:
     media_url: https://news.pn/photo/c0ef1a3d7008136f1973c21d1b230d1d.i900x1003x654.jpeg
     publisher: Преступности.НЕТ
     caption: Lead photo on the source page for this sentence report
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 3, 4, 5, 6, 7, 10, 11, 12, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df882d7edc003b5c737665ede94ca608

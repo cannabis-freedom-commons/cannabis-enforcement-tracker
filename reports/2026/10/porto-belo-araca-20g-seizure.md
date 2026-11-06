@@ -19,6 +19,12 @@ media:
     media_url: https://admin.vipsocial.com.br/admin/image/noticia/60524/79021lg.jpeg
     publisher: VipSocial
     caption: 'Items seized in the vehicle search, including the cannabis. Photo: Polícia Militar via VipSocial'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3289cfb10f06169b07f535282b598200

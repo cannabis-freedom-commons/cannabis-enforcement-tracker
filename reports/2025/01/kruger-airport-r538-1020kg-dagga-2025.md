@@ -19,6 +19,11 @@ figures:
   kg_seized: 1020
   value: { amount: 1200000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [saps, dagga, kruger-airport]
 sources:

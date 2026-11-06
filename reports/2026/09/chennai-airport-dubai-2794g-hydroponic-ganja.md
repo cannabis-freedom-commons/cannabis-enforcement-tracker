@@ -25,6 +25,12 @@ media:
     publisher: News Today
     caption: Photograph published with the report on the hydroponic ganja seized at Chennai airport.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [chennai, airport, dubai-route, hydroponic, ndps]
 sources:

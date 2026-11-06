@@ -19,6 +19,12 @@ figures:
   charged: 1
   kg_seized: 55
   value: { amount: 1100000, currency: EUR }
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kildare, naas, gndocb, revenue, organised-crime]

@@ -28,6 +28,12 @@ media:
     media_url: https://cdn.www.gob.pe/uploads/document/file/9653687/1368242-interceptan-embarcacion-con-884-kilos-de-marihuana-en-operativo-del-comando-unificado-puma.jpg
     publisher: Comando Conjunto de las Fuerzas Armadas
     caption: Photograph of the intercepted boat and 884 kg load published in the PUMA operation account.
+details:
+  agencies: [pe-dirandro]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79265f629e476ff2a22c0e059ba28b2f

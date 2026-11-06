@@ -23,6 +23,15 @@ media:
     media_url: https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/08/Dagga-bust-2-769x577.jpg
     publisher: SABC News
     caption: 'The truck with the seized bags of dagga at Oshoek. Photo: @SAPoliceService via SABC News.'
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 143f970f281fd64330b5f330073703a5

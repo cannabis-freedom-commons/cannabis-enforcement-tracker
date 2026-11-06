@@ -20,6 +20,10 @@ figures:
   kg_seized: 8.826
   prison: 3 years (suspended)
   fine: { amount: 9900, currency: BGN }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cultivation]

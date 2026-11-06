@@ -29,6 +29,11 @@ media:
     media_url: https://radiogdansk.pl/wp-content/uploads/2026/11/367-320451.jpg
     publisher: Radio Gdańsk
     caption: 'Police photo of the seized marijuana from the 42-year-old''s flat. Photo: Komenda Miejska Gdańsk'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1dd0f3c2f99a2f23ef427de2ad005008

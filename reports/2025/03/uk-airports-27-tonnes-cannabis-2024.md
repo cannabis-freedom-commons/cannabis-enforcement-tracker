@@ -19,6 +19,12 @@ figures:
   kg_seized: 26924
   arrested: 750
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gb-nca, gb-border-force]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [nca, border-force, airports, thailand-route, annual-total]
 open_questions:

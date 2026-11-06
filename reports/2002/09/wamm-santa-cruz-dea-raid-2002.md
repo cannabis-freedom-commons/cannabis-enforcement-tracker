@@ -19,6 +19,12 @@ figures:
   arrested: 2
   plants_destroyed: 167
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [3, 5]
+  details.agency_types: [3, 5]
 status: disputed
 tags:
   - medical-marijuana

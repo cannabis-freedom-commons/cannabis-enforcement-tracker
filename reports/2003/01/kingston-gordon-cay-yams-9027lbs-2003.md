@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 4094.6
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [customs, maritime, kingston]
 open_questions:

@@ -49,6 +49,12 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/6390b16e2bef653853398ebe/width_1000/image.jpg
     publisher: France-Antilles Martinique
     caption: 'Cinq ballots ont été récupérés en mer par La Combattante: the five bales recovered at sea on 3 June 2022. Photo: FAA'
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [3, 4, 6]
+  details.agency_types: [3, 4, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8b01f9b9623a4222df8952b124ed905c

@@ -16,6 +16,12 @@ summary: >-
   named.
 figures:
   plants_destroyed: 3000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [jilin, zhenlai, wild-cannabis, summer-campaign]

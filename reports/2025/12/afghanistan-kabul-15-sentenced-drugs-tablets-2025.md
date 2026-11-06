@@ -15,6 +15,11 @@ figures:
   arrested: 15
   charged: 15
   prison: 7 months to 4 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cc8629b230ba358d4649266d399e0938

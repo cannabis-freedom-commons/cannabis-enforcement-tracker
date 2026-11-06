@@ -16,6 +16,12 @@ summary: >-
 figures:
   value: { amount: 13000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dublin-port, customs, herbal-cannabis]
 open_questions:

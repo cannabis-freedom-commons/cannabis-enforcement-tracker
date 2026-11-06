@@ -18,6 +18,11 @@ figures:
   kg_seized: 305.956
   charged: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [dagga, syndicate, restraint, big-boy]
 sources:

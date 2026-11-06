@@ -25,6 +25,13 @@ media:
     media_url: https://www.youtube.com/embed/zcPPKGYK79Q
     publisher: Новости-Армения
     caption: 'Police video of the pursuit and detention in Gyumri embedded in the bulletin, on the Novosti-Armenia YouTube channel. Video: Police of the Ministry of Internal Affairs of Armenia via Novosti-Armenia'
+details:
+  setting: [online]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 324c198abb9a390281051d6c0a4c9a9e

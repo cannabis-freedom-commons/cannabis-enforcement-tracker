@@ -21,6 +21,15 @@ media:
     media_url: https://www.rbatv.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-02-185443.webp
     publisher: RBA TV
     caption: 'Lead photo on the source page for this seizure report. Photo: PMSC'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bcd1e735524aff85995a298abd342525

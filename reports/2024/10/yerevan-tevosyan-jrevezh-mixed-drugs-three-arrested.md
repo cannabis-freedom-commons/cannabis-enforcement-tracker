@@ -25,6 +25,12 @@ media:
     media_url: https://www.youtube.com/embed/wZf6O79CYm8
     publisher: Новости-Армения
     caption: 'Video embedded under the Interior Ministry press release on the Yerevan and Jjrvezh detentions. Video: Novosti-Armenia'
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 96a68efbc241d1867fbae6a7920358e5

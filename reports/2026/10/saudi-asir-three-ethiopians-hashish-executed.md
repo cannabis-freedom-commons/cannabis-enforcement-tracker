@@ -16,6 +16,11 @@ summary: >-
 figures:
   deaths: 3
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, asir, taazir, ethiopian-nationals]
 open_questions:

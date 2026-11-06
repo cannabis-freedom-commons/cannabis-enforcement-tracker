@@ -25,6 +25,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/02/4c86ab05-30e4-472c-b03a-e1daefaf2a94_1793623722721.jpg
     publisher: Dainik Bhaskar
     caption: Seized ganja shown with the detained farmer after the Birulbazaar seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6cd8f8badcde610198f2047760d1005a

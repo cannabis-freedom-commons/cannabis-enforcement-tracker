@@ -26,6 +26,11 @@ media:
     media_url: https://i0.wp.com/himachaldastak.com/wp-content/uploads/2026/11/7.jpg?resize=576%2C324&ssl=1
     publisher: Himachal Dastak
     caption: Photo showing the reported 2.990 kg charas seizure from the woman's house in Koot; no credit given.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c63457ac7edb7adf88668188e6b22197

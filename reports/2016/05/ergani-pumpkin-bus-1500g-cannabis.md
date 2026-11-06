@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.5
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1cc15341295da63c6bf15f5395c10887

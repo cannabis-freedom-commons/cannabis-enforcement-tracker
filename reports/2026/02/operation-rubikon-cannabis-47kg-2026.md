@@ -15,6 +15,12 @@ figures:
   arrested: 97
   charged: 123
   kg_seized: 47
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7814f409b1093e48daae30afebb69ea2

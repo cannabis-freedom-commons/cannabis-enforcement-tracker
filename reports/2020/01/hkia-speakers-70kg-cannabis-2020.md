@@ -26,6 +26,10 @@ media:
     publisher: Hong Kong Customs and Excise Department
     caption: Cannabis buds seized at Hong Kong International Airport on 17 January 2020, displayed by Customs
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [airport, canada-route]
 sources:

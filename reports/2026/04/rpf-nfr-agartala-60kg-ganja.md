@@ -19,6 +19,11 @@ figures:
   value:
     amount: 2900000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, railway, agartala, tripura, smuggling]

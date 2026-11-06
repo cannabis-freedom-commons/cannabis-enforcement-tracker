@@ -14,6 +14,10 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 4.607
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, trafficking]

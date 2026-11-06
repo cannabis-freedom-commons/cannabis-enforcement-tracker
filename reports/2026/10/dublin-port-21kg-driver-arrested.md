@@ -24,6 +24,12 @@ media:
     media_url: https://i2-prod.dublinlive.ie/article34850539.ece/ALTERNATES/s1200f/0_Image-1_seized-herbal-cannabis.jpg
     publisher: Dublin Live
     caption: Photo of the seized herbal cannabis published with the report.
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 4]
+  details.agency_types: [1, 2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 988082c51912d67cbc4d7aafe6817e5c

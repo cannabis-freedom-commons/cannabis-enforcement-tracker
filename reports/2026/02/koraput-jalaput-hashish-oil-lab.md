@@ -24,6 +24,10 @@ figures:
     currency: INR
   kg_seized: 1000
 created_by_model: Meta Muse Spark (via Muse Code)
+details:
+  activity: [processing]
+data_sources:
+  details.activity: [1]
 status: reported
 tags:
   - koraput

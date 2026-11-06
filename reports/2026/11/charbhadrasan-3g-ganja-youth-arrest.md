@@ -23,6 +23,11 @@ media:
     media_url: https://www.ekusheysangbad.com/media/imgAll/2025May/33-20261104102644.jpg
     publisher: Ekushey Sangbad
     caption: Photo published with the report showing the youth detained with ganja in the Charbhadrasan police operation.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fea97f087b9cd92bf8d3b3aae969c981

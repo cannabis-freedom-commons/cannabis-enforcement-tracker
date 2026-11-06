@@ -26,6 +26,10 @@ media:
     media_url: https://hiindia.com/wp-content/uploads/2026/11/202611013999664.jpg
     publisher: hi INDiA
     caption: 'A pink trolley bag beside vacuum-sealed packets of the seized hydroponic marijuana and a passport. Photo: IANS.'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2, 3, 4, 5, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 31, 32, 33, 34, 35]
 status: verified
 created_by_model: unknown
 tags: [ahmedabad, hydroponic, bangkok-route, ndps-act]

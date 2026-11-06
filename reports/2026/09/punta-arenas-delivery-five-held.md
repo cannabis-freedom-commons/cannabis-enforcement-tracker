@@ -29,6 +29,12 @@ media:
     media_url: https://www.youtube.com/watch?v=9HwBzYSKxXc
     publisher: El Pingüino
     caption: Video embedded in El Pingüino's report on the case.
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [magallanes, punta-arenas, pdi, delivery]

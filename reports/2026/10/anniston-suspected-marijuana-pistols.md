@@ -22,6 +22,11 @@ media:
     media_url: https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/WBRC/20261030/6ae512b35ff6aa769598a60f/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4
     publisher: WBRC
     caption: Short WBRC video titled “Guns, suspected drugs seized in Anniston.”
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3aa57d1ace3f2495740b5970b8a08684

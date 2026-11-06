@@ -15,6 +15,11 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 20
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 55c31147a75e387af391620151406204

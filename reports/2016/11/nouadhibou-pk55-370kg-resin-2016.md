@@ -30,6 +30,11 @@ media:
     media_url: http://www.cridem.org/media/photos/photo//370kilos_de_haschich_032.jpg
     publisher: CRIDEM
     caption: Image captioned with the 370 kg hashish seizure from a truck arriving from Morocco; no photographer or agency credit is given.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 72d46bd54821f8fd44e8407b7c5aaba3

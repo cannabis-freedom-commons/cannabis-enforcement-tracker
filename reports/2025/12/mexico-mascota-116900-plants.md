@@ -18,6 +18,12 @@ figures:
   arrested: 0
   kg_seized: 470
   plants_destroyed: 116900
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [mexico, jalisco, mascota, eradication]

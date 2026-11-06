@@ -14,6 +14,15 @@ summary: >-
 figures:
   charged: 5
   kg_seized: 0.0175
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b032b87ebe737d1137df80892f028fef

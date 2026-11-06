@@ -28,6 +28,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/QS7GODPSZJD37N7VQU3KO7YRMQ.jpg?auth=8aa9ad6c6e47eb37503ee085aca05eb43d129d233db3494a0024f6aa5a501f83&smart=true&width=350&height=177&quality=85
     publisher: Infobae
     caption: 'Agent with a detection dog inspecting portable toilets at the San Roque venue. Photo: Ministerio Público de Córdoba'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86f7277a34e2dd12105b7c4e679ae79e

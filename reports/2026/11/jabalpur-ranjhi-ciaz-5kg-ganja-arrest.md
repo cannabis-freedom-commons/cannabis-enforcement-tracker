@@ -30,6 +30,11 @@ media:
     media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/521/2026/11/02/5f7ad381-4720-422d-8fb2-64cbd4bc513b_1793613635527.jpg
     publisher: Dainik Bhaskar
     caption: Photo of the five packets of ganja found in the accused's bags from the Ranjhi seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 77c69c9ac2ff620456dfe0951ee3b145

@@ -20,6 +20,11 @@ media:
     media_url: https://www.adria.tv/wp-content/uploads/2026/11/droga-1024x851.jpg
     publisher: Adria TV
     caption: 'Police photo of the seized drugs. Photo: UP'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2ce45cf799c4fb274dde5c92d658a96d

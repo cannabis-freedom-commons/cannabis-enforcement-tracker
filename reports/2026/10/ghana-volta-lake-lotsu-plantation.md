@@ -21,6 +21,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - indian-hemp

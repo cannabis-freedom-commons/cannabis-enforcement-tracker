@@ -52,6 +52,15 @@ media:
     media_url: https://www.arezzo24.net/wp-content/uploads/2026/11/stupefacenti_gdf_3.png
     publisher: Arezzo24
     caption: Loose hashish pieces and a wrapped package shown in an Arezzo seizure photo.
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  details.agency_types: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa

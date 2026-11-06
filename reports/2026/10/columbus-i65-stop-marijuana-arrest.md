@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9ed87f93593d912e6aac3221a9d9f2a1

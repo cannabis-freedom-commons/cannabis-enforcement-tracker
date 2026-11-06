@@ -17,6 +17,12 @@ figures:
   hectares: 39.7
   plants_destroyed: 1496
   kg_seized: 14376
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [bnn, bireuen, aceh, nila-rencong]

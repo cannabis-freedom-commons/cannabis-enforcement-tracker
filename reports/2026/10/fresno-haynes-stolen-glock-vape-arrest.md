@@ -19,6 +19,11 @@ media:
     media_url: https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2026/10/20-year-old-Christopher-Haynes-guns-and-weed.jpg?resize=876,493
     publisher: YourCentralValley.com | CBS47 and KSEE24
     caption: Photo accompanying the report showing the seized handgun and marijuana products
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93767ace822d66b470d8dac91fc05366

@@ -29,6 +29,13 @@ media:
     media_url: https://prajasakti-publishingdbbucket.sgp1.digitaloceanspaces.com/1793372119960-1793372425848-5bd60a34-e0df-4511-93fc-b1cc89fcf75d-1793372426375-2e5f1d50-792c-408b-a468-c5348725aabf-900x637.webp
     publisher: Prajasakti
     caption: Police and other men stand behind sacks of seized ganja during the Dharmavaram operation.
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 76bcce762255e9f16a9fa694660f09d7

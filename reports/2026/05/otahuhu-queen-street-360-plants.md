@@ -13,6 +13,16 @@ summary: >-
   Police destroyed around 360 cannabis plants found under 15 tents in a Queen Street warehouse in Ōtāhuhu, Auckland. [@1,2] The search warrant was executed on Thursday, 14 May 2026, after an electrician reported unusual wiring, ventilation pipes and a cannabis smell. [@1,2]
 figures:
   plants_destroyed: 360
+details:
+  agencies: [nz-police]
+  agency_types: [police]
+  activity: [cultivation]
+  setting: [building]
+data_sources:
+  details.activity: [2]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [otahuhu, auckland, warehouse, eradication]

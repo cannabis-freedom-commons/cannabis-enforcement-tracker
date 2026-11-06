@@ -16,6 +16,11 @@ summary: >-
   on foot in the dark.
 figures:
   kg_seized: 720
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, excise-intelligence-bureau, peshawar, record-seizure, opium]

@@ -21,6 +21,15 @@ media:
     media_url: https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/02153640/screenshot-1244-620x620.jpg
     publisher: Jornal de Brasília
     caption: 'PRF-GO photo published with the report on the Jataí seizure. Photo: Reprodução/PRF-GO'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 00492888adbcf8f7ddd101606a5749e0

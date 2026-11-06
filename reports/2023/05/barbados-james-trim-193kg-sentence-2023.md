@@ -17,6 +17,10 @@ figures:
   kg_seized: 193.65
   value: { amount: 744600, currency: BBD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [foreigner, trafficking, vessel-interception, guilty-plea]
 open_questions:

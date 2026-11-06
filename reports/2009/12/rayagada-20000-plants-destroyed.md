@@ -16,6 +16,14 @@ summary: >-
 figures:
   plants_destroyed: 20000
   value: { amount: 20000000, currency: INR }
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  setting: [forest]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [maoists, forest]

@@ -23,6 +23,10 @@ media:
     media_url: https://lmwebstatic.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2026/11/website-image-15-696x348.webp
     publisher: Le Mauricien
     caption: Photo of the cannabis seized at SSR airport, captioned Rs 16,4 millions de cannabis saisis.
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f4f43714201418f31948062f9b3bcba

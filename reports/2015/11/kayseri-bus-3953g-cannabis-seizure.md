@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3.953
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 828e1faee0f0b05d446443a4e0af2766

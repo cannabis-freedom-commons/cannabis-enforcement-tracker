@@ -19,6 +19,12 @@ figures:
   kg_seized: 1.53
   value: { amount: 130000, currency: PHP }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [pdea, aklan, k9, controlled-delivery]
 open_questions:

@@ -20,6 +20,11 @@ media:
     media_url: https://esp.md/sites/default/files/2026/07/gashish_iz_ukrainy3.jpg
     publisher: СП - Новости Бельцы Молдова
     caption: 'Seized hashish concealed in the spare-wheel niche of the smuggling car. Photo: PCCOCS'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cf54e01aa1164aaf65d0c854c415f314

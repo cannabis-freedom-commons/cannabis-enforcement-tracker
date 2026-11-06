@@ -26,6 +26,10 @@ media:
     media_url: https://en.philenews.com/wp-content/uploads/2026/10/Cannabis-parcel-sting-in-Nicosia-nets-more-than-six-kilos-22-year-old-arrested.jpg
     publisher: Philenews
     caption: Cannabis parcel sting in Nicosia nets more than six kilos, 22-year-old arrested
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 3, 4, 5, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ef247ec8b3ea11d310e839e5aa9ce8db

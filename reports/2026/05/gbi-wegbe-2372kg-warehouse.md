@@ -19,6 +19,14 @@ figures:
     amount: 1186190
     currency: GHS
 created_by_model: cursor/composer-2.5-fast
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [nacoc, volta, warehouse]
 open_questions:

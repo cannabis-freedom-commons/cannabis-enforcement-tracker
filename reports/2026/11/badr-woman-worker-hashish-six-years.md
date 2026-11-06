@@ -17,6 +17,11 @@ figures:
   charged: 1
   kg_seized: 9.35
   prison: 6 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9339b12f9172b11a03fb5877c7666dfd

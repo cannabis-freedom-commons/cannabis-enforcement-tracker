@@ -14,6 +14,13 @@ summary: >-
   Interior Ministry anti-drug officers detained one suspected organizer of an online drug shop in Bishkek that allegedly sold drugs for several years in Bishkek and Chuy Region. Officers seized marijuana, hashish and heroin prepared for sale, plus growing and packing equipment, with police valuing the haul at 4.5 million som.
 figures:
   arrested: 1
+details:
+  setting: [online]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7004e6a942375c2804dfb192c39e0b1

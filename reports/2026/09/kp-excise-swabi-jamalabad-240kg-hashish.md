@@ -16,6 +16,11 @@ summary: >-
 figures:
   kg_seized: 240
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [excise, swabi, hashish, checkpoint]
 sources:

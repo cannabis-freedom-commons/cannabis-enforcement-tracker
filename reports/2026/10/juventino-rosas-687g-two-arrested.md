@@ -26,6 +26,11 @@ media:
     media_url: https://noticiasnpi.com/wp-content/uploads/2026/10/droga_detenidos1.webp
     publisher: Noticias Por Internet
     caption: Two detained young men stand with state police officers in front of a police pickup, with bags on the ground at their feet. No photo credit given.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e3d04845df6db64169070296186e1a90

@@ -17,6 +17,15 @@ media:
     media_url: https://acontecenovale.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-01T112716.022-1024x538.png
     publisher: Acontece no Vale
     caption: 'Seized drugs found during the Estrada do Alegrete stop in Encantado. Photo: Brigada Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a131409f5588ec7fa894f88f5bed0367

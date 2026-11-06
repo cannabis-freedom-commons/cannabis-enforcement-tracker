@@ -20,6 +20,13 @@ figures:
   kg_seized: 9800
 tags: [chira, marrakech, safi, dgst, trafficking]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1]
 status: verified
 open_questions:
   - The identities and roles of the arrested official and former elected representative were not published.

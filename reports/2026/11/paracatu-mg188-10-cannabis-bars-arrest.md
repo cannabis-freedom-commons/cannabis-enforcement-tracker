@@ -19,6 +19,15 @@ media:
     media_url: https://i0.wp.com/patosnoticias.com.br/wp-content/uploads/2026/11/prisao_paracatu_drogas-1a3c-cut.webp?ssl=1&quality=66&strip=all&w=768
     publisher: Patos Notícias (PN)
     caption: Seized drugs from the MG-188 roadside arrest in Paracatu.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cf4bb37858c11bc9044e11fb60201953

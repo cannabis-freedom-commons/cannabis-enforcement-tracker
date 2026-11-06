@@ -26,6 +26,14 @@ media:
     media_url: https://cdn.jugantor.com/assets/news_photos/2026/10/29/Elec-(5)-6ae3377bf2ad3.jpg
     publisher: Jugantor
     caption: 'Seized drugs, shown with Jugantor''s caption that their estimated market value was Tk 51,30,800. Photo: Jugantor'
+details:
+  agencies: [bd-bgb]
+  agency_types: [border-guard]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: b1436f3e9a2a8cead681caf92c23401f

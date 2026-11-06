@@ -18,6 +18,13 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.5
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [greenland, ilulissat, airport, hash, smuggling]

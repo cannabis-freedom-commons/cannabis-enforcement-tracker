@@ -17,6 +17,12 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 0.0002
+details:
+  agencies: [us-fbi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: disputed
 created_by_model: meta/muse-spark
 tags: [swat-raid, confidential-informant]

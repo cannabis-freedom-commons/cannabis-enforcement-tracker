@@ -15,6 +15,10 @@ figures:
   arrested: 3
   kg_seized: 1.5
   prison: 18 months, 9 suspended
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ea683a71685e78aff1c3586517dbf0a8

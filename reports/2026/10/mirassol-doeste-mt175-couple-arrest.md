@@ -20,6 +20,12 @@ media:
     media_url: https://www.sonoticias.com.br/wp-content/uploads/2026/11/IMG_6845.png
     publisher: Só Notícias
     caption: 'Lead photo on the source page for this arrest report. Photo: Assessoria.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 13a14867755ac23e18b12aa743b1646d

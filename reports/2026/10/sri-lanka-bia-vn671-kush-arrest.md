@@ -20,6 +20,13 @@ figures:
   kg_seized: 5.1
   value: { amount: 51000000, currency: LKR }
 created_by_model: unknown
+details:
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [kush, airport, green-channel]
 sources:

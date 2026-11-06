@@ -16,6 +16,11 @@ figures:
   value:
     amount: 26000000
     currency: KMF
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7929a42fec70872bf30fccd10b4192de

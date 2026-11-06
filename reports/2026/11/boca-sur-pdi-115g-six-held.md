@@ -21,6 +21,12 @@ media:
     media_url: https://media.radarbiobio.cl/wp-content/uploads/2026/11/PDI.jpeg
     publisher: Radar BioBio
     caption: 'Seized drugs and other items displayed by PDI''s MT-0 unit following the Boca Sur operation. Photo: PDI Biobío'
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4177cb4b8b9e6b0a6dd77642f5898e77

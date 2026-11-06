@@ -23,6 +23,12 @@ media:
     media_url: https://img.officer.com/files/base/cygnus/ofcr/image/2021/11/16x9/White_City_Marijuana_Seizure__OR_.619bb3346cb58.png?auto=format,compress&fit=fill&fill=blur&q=45&w=250&width=250
     publisher: Officer.com
     caption: "Seized marijuana at the White City processing site. Photo: Oregon State Police via Officer.com"
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [warehouses, unlicensed-processing, jackson-county]

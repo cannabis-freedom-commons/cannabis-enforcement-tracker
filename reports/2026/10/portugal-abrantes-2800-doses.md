@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: unknown
+details:
+  agencies: [pt-gnr]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [gnr, abrantes, ribatejo]
 sources:

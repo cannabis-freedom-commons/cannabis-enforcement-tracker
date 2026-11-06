@@ -16,6 +16,15 @@ summary: >-
 figures:
   hectares: 239.6
 created_by_model: unknown
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [parvati-valley, hashish, mountains]
 sources:

@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 21000
   arrested: 1
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+  environment: [outdoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [iroquois-falls, opp, outdoor-grow, commercial-growing]

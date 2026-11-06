@@ -13,6 +13,10 @@ summary: >-
   Police in Zhaosu County, Xinjiang, uprooted more than 4,200 cannabis plants during a district-wide eradication sweep in June 2025, searching fields, abandoned buildings and woodland. Officers paired the clearance with face-to-face anti-drug briefings for residents; no arrests were reported.
 figures:
   plants_destroyed: 4200
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, zhaosu, eradication]

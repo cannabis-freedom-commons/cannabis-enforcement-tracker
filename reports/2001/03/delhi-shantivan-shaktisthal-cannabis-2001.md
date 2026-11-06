@@ -14,6 +14,12 @@ summary: >-
   on 22 and 23 March 2001; with the growth wild, no one could be held responsible.
 figures:
   hectares: 6.07
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [wild-growth, delhi]

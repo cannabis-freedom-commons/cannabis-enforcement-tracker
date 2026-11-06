@@ -18,6 +18,14 @@ media:
     media_url: https://media.superchannel12.com/covers/2026/10/pub_709689_65562197888e.webp
     publisher: Super Channel 12
     caption: K-9 detection of a drug package at a courier firm in Torreón.
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+  setting: [mail]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9860a8945b4aaf3e7c373b7d3e48ef16

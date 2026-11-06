@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 8100
   hectares: 0.2
   value: { amount: 1600000, currency: PHP }
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [pdea, agusan-del-sur, oplan-dahon]

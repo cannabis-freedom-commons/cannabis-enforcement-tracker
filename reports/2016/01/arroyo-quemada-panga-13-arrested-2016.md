@@ -26,6 +26,12 @@ media:
     media_url: https://www.ice.gov/sites/default/files/images/news/2016/160202losangeles2-nr.jpg
     publisher: U.S. Immigration and Customs Enforcement
     caption: 'Photo captioned “Law enforcement seized 114 bales of marijuana weighing in excess of 2,800 pounds” from the two stopped vehicles. Photo: ICE'
+details:
+  agencies: [us-cbp, us-hsi]
+  agency_types: [customs, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 80cf1581787e36530440225c7b14bf12

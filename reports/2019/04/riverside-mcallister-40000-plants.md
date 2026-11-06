@@ -17,6 +17,10 @@ figures:
   plants_destroyed: 40000
   value: { amount: 20000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [riverside, illicit-grows, greenhouse]
 open_questions:

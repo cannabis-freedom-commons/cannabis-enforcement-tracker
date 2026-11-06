@@ -12,6 +12,12 @@ summary: >-
   DEA agents with Las Vegas police raided at least five medical marijuana dispensaries
   across Las Vegas on 8 September 2010, seizing patient and financial records.
   No arrests were made, and the warrants and supporting affidavits were sealed by court order.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

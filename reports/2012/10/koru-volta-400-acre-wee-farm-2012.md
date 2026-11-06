@@ -17,6 +17,12 @@ figures:
   kg_seized: 5000
   hectares: 161.9
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [nacob, volta, plantation]
 sources:

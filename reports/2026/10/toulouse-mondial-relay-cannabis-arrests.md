@@ -26,6 +26,10 @@ media:
     media_url: https://images.ladepeche.fr/api/v1/images/view/6ae33825469a64f70a00a90e/original/image.jpg?v=1
     publisher: La Dépêche du Midi
     caption: 'Weapons and ammunition seized in the case, in a photo credited to the Toulouse prosecutor''s office. Photo: Parquet de Toulouse'
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f4f186bf4f34a24419a955b7aa9b601b

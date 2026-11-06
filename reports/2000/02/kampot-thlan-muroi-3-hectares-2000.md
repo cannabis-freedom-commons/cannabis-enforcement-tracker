@@ -14,6 +14,10 @@ summary: >-
   Military police destroyed a 3-hectare cannabis field at Phnom Thlan Muroi in Kampot province on 24 February 2000, the second plantation destroyed in a week. Kampot deputy police chief Keow Tha was suspended over suspected involvement in the plantations, and police were investigating a Chinese businessman and others.
 figures:
   hectares: 3
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kampot, eradication, khmer-rouge, police-corruption]

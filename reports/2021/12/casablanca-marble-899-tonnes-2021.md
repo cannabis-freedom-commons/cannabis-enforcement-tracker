@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 8990
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [casablanca, marble-blocks, trafficking]

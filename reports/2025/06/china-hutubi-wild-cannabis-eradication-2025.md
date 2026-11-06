@@ -16,6 +16,14 @@ summary: >-
   in the Ershilidian station area, alongside a public anti-drug event in Century Park.
 figures:
   plants_destroyed: 20000
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, hutubi, wild-cannabis, eradication]

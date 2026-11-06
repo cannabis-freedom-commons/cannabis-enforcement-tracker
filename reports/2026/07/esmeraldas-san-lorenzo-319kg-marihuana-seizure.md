@@ -28,6 +28,10 @@ media:
     media_url: https://www.eluniverso.com/resizer/v2/CD6ZG54UIZGAPEHP444YLMAZLU.jpg?auth=733a972f239d51cdda451d841977b1912891a596c88bcc802c915d44326ba365&width=1451&height=670&quality=75&smart=true
     publisher: El Universo
     caption: 'Bundles of marijuana retained by the Esmeraldas police in the early hours of 22 July 2026. Photo: Policía Subzona Esmeraldas'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e7decfb1ecf43a92d4b96e1e15d9d315

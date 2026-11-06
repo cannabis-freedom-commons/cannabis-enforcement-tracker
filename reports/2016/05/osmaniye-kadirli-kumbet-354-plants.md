@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 4
   plants_destroyed: 354
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 608c5fb81ceb1ad977fbbcccf30f9af7

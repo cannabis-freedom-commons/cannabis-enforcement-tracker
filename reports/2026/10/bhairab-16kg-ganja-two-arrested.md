@@ -20,6 +20,11 @@ media:
     media_url: https://www.agrajatrapratidin.com/media/imgAll/2026October/yffydf-65-2610310433.jpg
     publisher: Agrajatra Pratidin
     caption: Photo accompanying the report on the two women arrested with ganja in Bhairab
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5736ad8a545eb664ce513952ad706a31

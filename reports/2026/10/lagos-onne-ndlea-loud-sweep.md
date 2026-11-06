@@ -16,6 +16,12 @@ summary: >-
   in vehicles at Tin Can Island, and 22 kg of Loud at Onne alongside codeine syrup.
 figures:
   kg_seized: 1443.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lagos, apapa, ports, bangkok-route, loud]

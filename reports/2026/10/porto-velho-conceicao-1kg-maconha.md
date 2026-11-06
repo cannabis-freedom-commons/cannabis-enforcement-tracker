@@ -26,6 +26,15 @@ media:
     media_url: https://imediato.ncnews.com.br/app/uploads/2026/10/PHOTO-2026-10-30-11-48-33-2.webp
     publisher: Imediato Online
     caption: Second photo published in the report of the Porto Velho arrest. Imediato Online.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4a3156457cc39e12fc9fb89273220945

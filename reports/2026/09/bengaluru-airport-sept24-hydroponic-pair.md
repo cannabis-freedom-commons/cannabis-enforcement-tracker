@@ -17,6 +17,12 @@ figures:
   value:
     amount: 64900000
     currency: INR
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bengaluru, karnataka, hydroponic, airport, bangkok]

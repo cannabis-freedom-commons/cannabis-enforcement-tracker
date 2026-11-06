@@ -12,6 +12,11 @@ summary: >-
   Fuerza Pública officers seized nine packs and 158 doses of suspected marijuana plus cash at the Miraflores dike in Taras, Cartago, after three suspects fled. The mixed seizure also contained crack, cocaine, tusi and ecstasy and was handed to judicial authorities.
 figures:
   kg_seized: 0.126
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ada318710c3a2a15bc67ecf49624562

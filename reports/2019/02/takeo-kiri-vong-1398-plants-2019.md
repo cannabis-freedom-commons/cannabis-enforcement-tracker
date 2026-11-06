@@ -20,6 +20,11 @@ media:
     media_url: https://phnompenhpost.com/wp-content/uploads/2026/06/top_pic12-_marijuana_crackdown_in_takeo_by_police_1.jpg
     publisher: Phnom Penh Post
     caption: Destroyed cannabis plants in Takeo province after the Sunday raid. Photo supplied.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 28754b017daa208ee87d2c1260a4bda4

@@ -17,6 +17,13 @@ figures:
   arrested: 1
   kg_seized: 30.85
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [mail]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [muaro-jambi, courier, ganja]
 sources:

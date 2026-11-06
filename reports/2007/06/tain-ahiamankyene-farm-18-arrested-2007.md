@@ -17,6 +17,12 @@ figures:
   arrested: 18
   hectares: 1.62
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [tain-district, indian-hemp]
 open_questions:

@@ -18,6 +18,12 @@ figures:
   value:
     amount: 4000000
     currency: USD
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [buffalo, peace-bridge, cbp, smuggling, commercial-truck]

@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f0b7793841268043776d64e6a61e5186

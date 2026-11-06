@@ -17,6 +17,12 @@ media:
     media_url: https://img.mvsnoticias.com/ai9F3X_Q57nazuDK1Fe74qc4tVfvEQX52cY1l651XVo/rs:fit:1024:0:0/q:50/f:avif/aHR0cHM6Ly9hc3NldHMubXZzbm90aWNpYXMuY29tL2ltZy8xNzkzNDk0NTk2ODI4LXpyMzR2by5qcGc
     publisher: MVS Noticias
     caption: 'A man in an FGR T-shirt, seen from behind, watches a large pile of drugs burn in the open during the incineration at the 98th Infantry Battalion base. Photo: FGR México via X'
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: eb48eecec1e6ccc83dea93fe279527e7

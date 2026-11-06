@@ -17,6 +17,12 @@ summary: >-
   and the agency was disbanded.
 figures:
   arrested: 7
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [feads, tijuana, corruption]

@@ -16,6 +16,12 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 57.12
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7fccbcf76464fc5cddc73cb837eaaebb

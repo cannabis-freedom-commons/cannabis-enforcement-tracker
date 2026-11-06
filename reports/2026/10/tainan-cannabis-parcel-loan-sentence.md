@@ -17,6 +17,10 @@ figures:
   charged: 1
   kg_seized: 2.03
   prison: 10 years 6 months
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b02118cc327ab61bb3d3bed31609c132

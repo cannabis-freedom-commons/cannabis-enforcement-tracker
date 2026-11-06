@@ -11,6 +11,11 @@ also: [raid]
 title: Ganja seized in Nagaon jail inspection; superintendent suspended
 summary: >-
   Officers inspecting Nagaon Central Jail found a contraband haul from Canteen No. 4 that included ganja alongside other items, after staff were accused of supplying drugs to inmate Salim. Jail superintendent Mukul Bhuyan was suspended and a detailed probe was ordered.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b25a1cb70db0c71f98d733ba94873114

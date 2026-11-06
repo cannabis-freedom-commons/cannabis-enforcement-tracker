@@ -25,6 +25,12 @@ media:
     media_url: https://rutube.ru/play/embed/24900d5852a803f0fda72166766cb996
     publisher: МВД МЕДИА
     caption: Operational video of the Zheleznogorsk detention and seizure.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cb21473ccfa698877a399ea9b736cb48

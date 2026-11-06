@@ -14,6 +14,12 @@ summary: >-
   plantation in an isolated area outside Berzovia, run by four suspects aged 19 to 53 who bought
   seeds from Spain. The four were taken for questioning.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [diicot, caras-severin, plantation]
 sources:

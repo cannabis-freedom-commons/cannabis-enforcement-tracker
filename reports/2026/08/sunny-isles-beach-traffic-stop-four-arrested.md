@@ -14,6 +14,10 @@ summary: >-
   Sunny Isles Beach police arrested four vehicle occupants during a speeding traffic stop after finding guns and marijuana. Two of the four faced marijuana-possession allegations, alongside a stolen-firearm allegation, a short-barreled rifle allegation and a fugitive warrant.
 figures:
   arrested: 4
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f1761e3aa12306df6e24b0fff8dd1832

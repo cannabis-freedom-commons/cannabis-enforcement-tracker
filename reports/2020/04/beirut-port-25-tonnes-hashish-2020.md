@@ -17,6 +17,13 @@ summary: >-
 figures:
   kg_seized: 25000
 created_by_model: meta/muse-spark
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [beirut-port, hashish, record-seizure, smuggling]
 sources:

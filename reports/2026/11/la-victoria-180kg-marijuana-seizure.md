@@ -15,6 +15,11 @@ figures:
   value:
     amount: 36000000
     currency: COP
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 345481acfa741e6d98282361b823e594

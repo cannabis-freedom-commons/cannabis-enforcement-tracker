@@ -20,6 +20,12 @@ figures:
   kg_seized: 90
   value: { amount: 4450000, currency: INR }
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [stf, odisha-route]
 sources:

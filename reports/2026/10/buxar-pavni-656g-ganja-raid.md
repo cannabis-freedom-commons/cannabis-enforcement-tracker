@@ -20,6 +20,11 @@ media:
     media_url: https://www.buxarkhabar.com/wp-content/uploads/2026/10/30-oct-ganja-baramad.jpg
     publisher: Buxar Khabar
     caption: 'Ganja seized by Mufassil police station. Photo: Buxar Khabar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: a44dff5b0f89a2605f5f3cfa60322f9e

@@ -18,6 +18,14 @@ figures:
   kg_seized: 39000
 tags: [tijuana, warehouse, us-route]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [mx-sedena, mx-fgr]
+  agency_types: [military, prosecutor]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 sources:
   - title: Mexican authorities seize 44 tons of marijuana in Tijuana

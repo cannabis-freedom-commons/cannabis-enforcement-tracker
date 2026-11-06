@@ -18,6 +18,10 @@ figures:
   hectares: 2.02
   value: { amount: 11519200, currency: GYD }
   arrested: 0
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [guyana, berbice, eradication]

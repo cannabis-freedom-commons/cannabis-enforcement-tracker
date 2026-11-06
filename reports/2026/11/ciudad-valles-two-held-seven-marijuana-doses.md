@@ -13,6 +13,10 @@ summary: >-
   Guardia Civil Estatal officers detained Marco “N” and Ramón “N” in Ciudad Valles, seizing about seven doses of marijuana alongside cristal doses allegedly for sale. The two were handed to the competent authorities for investigation of possible responsibility and criminal-group links.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bfd12e3a4f3ec9fa8fa9bb487c4be5dc

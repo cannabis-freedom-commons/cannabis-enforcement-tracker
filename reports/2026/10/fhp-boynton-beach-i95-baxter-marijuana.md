@@ -16,6 +16,11 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.0027
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: d923cc494310556b916e20be617cf00a

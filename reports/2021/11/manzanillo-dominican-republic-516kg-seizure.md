@@ -29,6 +29,12 @@ media:
     media_url: https://www.infobae.com/resizer/v2/6TTQX7XDKFBKVJXALOXG2UU5PM.jpeg?auth=4df4ae7e234881cc8ce6eadf226b455da0dccc4a5fb52ce1b26808504d9ca769&smart=true&width=350&height=263&quality=85
     publisher: Infobae
     caption: 'Packages from the load, captioned in the article “La droga estaba destinada a la isla del caribe”. Photo: FGR-Semar.'
+details:
+  agencies: [mx-semar, mx-fgr]
+  agency_types: [military, prosecutor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 28cc6ce94a6b8ec1f4a91774dd73c35b

@@ -20,6 +20,10 @@ figures:
   kg_seized: 0.25
   prison: 10 years in default
   fine: { amount: 50000000, currency: KES }
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lamu, sentencing, trafficking]

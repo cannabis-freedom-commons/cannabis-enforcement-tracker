@@ -16,6 +16,14 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 628.42
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ncb, trafficking, truck]

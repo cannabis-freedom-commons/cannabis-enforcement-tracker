@@ -22,6 +22,10 @@ media:
     publisher: Bangkok Post
     caption: "Navy officers display the seized cannabis bricks and the pickup at their Nakhon Phanom headquarters. Photo: Pattanapong Sripiachai."
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [mekong, navy, nakhon-phanom, smuggling]
 sources:

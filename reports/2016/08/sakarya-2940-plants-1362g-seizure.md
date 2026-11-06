@@ -20,6 +20,12 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2016/35/bcfb76624a471ae32d8be692c943b607_a.jpg
     publisher: Haber7
     caption: Photo published with the report on the Sakarya drug operation, captioned Sakarya'da uyuşturucu operasyonu.
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c4b29b4022b7afd53de8328b078b9d3

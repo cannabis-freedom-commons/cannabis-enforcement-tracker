@@ -17,6 +17,10 @@ summary: >-
 figures:
   kg_seized: 0.119
   prison: 3 months (suspended 6 months)
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [blacksands, efate, court, possession]

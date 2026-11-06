@@ -21,6 +21,12 @@ media:
     media_url: https://cdn.amarsangbad.com/media/imgAll/2026July/SM/Untitled-4-20261102101907.jpg
     publisher: Amar Sangbad
     caption: 'Seized drugs from the Meherpur border drives. Photo: Amar Sangbad'
+details:
+  agencies: [bd-bgb]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c3fbd47274dbbfcca688751281263d9

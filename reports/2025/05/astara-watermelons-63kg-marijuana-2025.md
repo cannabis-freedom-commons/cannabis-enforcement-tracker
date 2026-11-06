@@ -12,6 +12,11 @@ summary: >-
   Customs officers in Astara found dried marijuana hidden in foil-wrapped packages inside 84 watermelons in a vehicle carrying fruit from Iran to Russia through Azerbaijan; the reported total was 63.417 kg including packaging. A sniffer dog reacted to 42 boxes, and the State Customs Committee said an investigation was under way.
 figures:
   kg_seized: 63.417
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 3a01a66fde13a8d126b25d4d9db3df88

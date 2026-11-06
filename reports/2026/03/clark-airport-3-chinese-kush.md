@@ -24,6 +24,15 @@ media:
     media_url: https://newsinfo.inquirer.net/files/2026/03/1000015748.jpg
     publisher: Philippine Daily Inquirer
     caption: Seized vacuum-sealed packs shown with the Inquirer report; photo credited to PDEA Region 3.
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [clark, crk, kush, transit, customs]

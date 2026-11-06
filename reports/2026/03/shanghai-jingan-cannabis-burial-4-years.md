@@ -18,6 +18,10 @@ summary: >-
 figures:
   prison: 4 years
   fine: { amount: 10000, currency: CNY }
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [shanghai, jingan, smuggling, burial, sentence]

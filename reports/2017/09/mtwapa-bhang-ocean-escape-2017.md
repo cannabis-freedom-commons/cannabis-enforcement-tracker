@@ -19,6 +19,11 @@ figures:
   charged: 1
   value: { amount: 600000, currency: KES }
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 tags: [bhang, mtwapa, indian-ocean]
 open_questions:

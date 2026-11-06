@@ -24,6 +24,10 @@ media:
     media_url: https://cdn4.suspilne.media/images/resize/400x0.1/3ed6257e562ce857.jpg
     publisher: Suspilne Zhytomyr
     caption: 'Seized substance photographed during the investigation. Photo: Main Directorate of the National Police in Zhytomyr Oblast'
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 334e29bfb723524dd42835854fce21cf

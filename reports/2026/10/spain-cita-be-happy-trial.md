@@ -19,6 +19,10 @@ summary: >-
 figures:
   charged: 4
   kg_seized: 1.2
+details:
+  setting: [shop]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [gran-canaria, cannabis-club, prosecution]

@@ -15,6 +15,16 @@ summary: >-
   428 kg. The targeted suspect, Baba Luka Lada Drang, fled and is being hunted.
 figures:
   kg_seized: 428
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ndlea, adamawa, army, plantation]

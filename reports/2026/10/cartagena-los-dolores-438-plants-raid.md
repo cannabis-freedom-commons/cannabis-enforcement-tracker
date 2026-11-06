@@ -15,6 +15,14 @@ figures:
   arrested: 2
   plants_destroyed: 438
   kg_seized: 172
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7ff971791534382e7528eeb4ad107817

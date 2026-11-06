@@ -15,6 +15,10 @@ figures:
   value:
     amount: 1000000
     currency: EUR
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 81759edceb720187a69be943dc9c180f

@@ -25,6 +25,14 @@ media:
     media_url: https://www.eixdiari.cat/resources/2026/eix-els-mossos-desmantellen-una-plantacio-de-774-plantes-de-marihuana-en-una-casa-ocupada-a-mediona-174397.JPG
     publisher: Eix Diari
     caption: 'The 774-plant marijuana plantation dismantled in an occupied house in Mediona. Photo: Mossos d''Esquadra'
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: db458dfea5f8bd588941b17bac46f51d

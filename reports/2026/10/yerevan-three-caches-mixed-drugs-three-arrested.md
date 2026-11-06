@@ -19,6 +19,11 @@ media:
     media_url: https://newsarmenia.am/upload/medialibrary/548/5tomqgm0yax0hbbsm0iui261jjg5ek66.jpg
     publisher: Новости-Армения
     caption: Seized drugs recovered from the three caches in Yerevan.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bcca4ffe5a7666605769829f69eacc26

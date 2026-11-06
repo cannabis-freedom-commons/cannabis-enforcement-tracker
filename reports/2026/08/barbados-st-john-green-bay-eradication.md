@@ -18,6 +18,10 @@ summary: >-
 figures:
   plants_destroyed: 5968
   kg_seized: 356.79
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cultivation, drones, st-john, eradication]

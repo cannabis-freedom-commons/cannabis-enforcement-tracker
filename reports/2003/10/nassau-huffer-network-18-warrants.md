@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 9
   kg_seized: 79.38
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, nassau, oyster-bay, firearms]

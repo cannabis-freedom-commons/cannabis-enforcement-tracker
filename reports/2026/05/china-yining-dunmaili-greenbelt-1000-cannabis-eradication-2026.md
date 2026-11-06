@@ -21,6 +21,12 @@ media:
     media_url: https://image.cns.com.cn/xinjiang_editor/transform/20260514/sRF7-hfenirv8004546.jpg
     publisher: 中新网·新疆
     caption: Police officers examine wild cannabis plants growing in a greenbelt.
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, yining, wild-cannabis, eradication]

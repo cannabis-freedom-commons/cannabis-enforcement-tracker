@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 2000
   value: { amount: 2400000, currency: CAD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [calgary, samit, grow-op]
 sources:

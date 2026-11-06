@@ -18,6 +18,14 @@ summary: >-
 figures:
   kg_seized: 391
 created_by_model: unknown
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  setting: [port]
+data_sources:
+  details.agencies: [1, 2, 4]
+  details.agency_types: [1, 2, 4]
+  details.setting: [1, 2, 4]
 status: verified
 tags:
   - transit

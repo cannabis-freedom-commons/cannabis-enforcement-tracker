@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.9
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6bf466206644b34dd96c8983cecd9143

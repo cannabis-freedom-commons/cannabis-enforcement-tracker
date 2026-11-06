@@ -25,6 +25,11 @@ media:
     media_url: https://www.radio47.fm/wp-content/uploads/2026/11/21e3402f-3474-417d-a53f-5136258a32c5-e1793679278914-768x435.jpg
     publisher: Radio47
     caption: Brooms and rolls of suspected bhang netted during the operation.
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c0b115f2f1fe10206794a3eb5eb133d3

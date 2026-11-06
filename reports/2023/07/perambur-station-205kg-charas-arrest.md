@@ -23,6 +23,11 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/tamil-nadu/1fyh05/article67102801.ece/alternates/LANDSCAPE_1200/IMG-20230720-WA0066.jpg
     publisher: The Hindu
     caption: 'Joint Commissioner R.V. Ramya Bharathi checking boxes containing charas seized from three passengers at Perambur railway station. Photo: Special Arrangement.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f68816151fd5a22ac333e55b89c2ee32

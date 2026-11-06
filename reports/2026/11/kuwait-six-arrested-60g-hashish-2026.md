@@ -21,6 +21,11 @@ media:
     media_url: https://alseyassah.com/alseyassah/uploads/images/2026/11/01/148865.webp
     publisher: السياسة
     caption: Photo published with the report on the six suspects and the seized drugs.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0fad41a4c5caee4af012ec0981563ea7

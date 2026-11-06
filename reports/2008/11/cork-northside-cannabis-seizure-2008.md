@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 1
   value: { amount: 500000, currency: EUR }
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [house-search]

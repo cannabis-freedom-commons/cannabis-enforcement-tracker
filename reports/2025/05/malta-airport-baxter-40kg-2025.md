@@ -20,6 +20,10 @@ figures:
   charged: 1
   kg_seized: 40
 created_by_model: cursor/composer-2.5
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [airport, import]
 open_questions:

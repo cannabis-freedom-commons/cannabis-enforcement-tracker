@@ -13,6 +13,10 @@ summary: >-
   200,000 clients.
 figures:
   prison: 8 years
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [telegrass, telegram, trafficking]

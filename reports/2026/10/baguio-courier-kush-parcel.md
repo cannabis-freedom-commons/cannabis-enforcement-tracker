@@ -16,6 +16,17 @@ summary: >-
   the shipment was traced to Cavite and a Baguio addressee.
 figures:
   kg_seized: 0.99429
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  setting: [mail]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [baguio, pdea, courier, k9, kush]

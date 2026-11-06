@@ -17,6 +17,13 @@ media:
     media_url: https://cdn.lagatar.in/assets/images/article/web_file_item_395f_31_10_2026_20_40_57.jpeg?aspect_ratio=16:9&width=800&quality=60&format=webp
     publisher: Lagatar News
     caption: 'Police destroying cannabis plants. Photo: Lagatar News page image captioned cannabis plants.'
+details:
+  activity: [cultivation]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e01cd4886f10ef7a25268508b1a31d9

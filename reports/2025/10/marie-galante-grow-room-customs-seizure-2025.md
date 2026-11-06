@@ -30,6 +30,10 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/5TVRPRk2Nfrmp_wIg90qpcubON4/487x0:1560x1073/320x320/filters:quality(80)/outremer%2F2025%2F10%2F24%2F569809061-1116389037325265-914341984222390724-n-68fb9c6546ca5109307752.jpg
     publisher: Guadeloupe La 1ère
     caption: 'The customs seizure from the shop: 20 g of cannabis herb, 2,193 cigarettes and 1 kg of loose tobacco. Photo: Gendarmerie de Guadeloupe'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4513e666899683f1663b9680cba99182

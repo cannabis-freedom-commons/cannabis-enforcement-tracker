@@ -20,6 +20,15 @@ media:
     media_url: https://www.modernetdigital.cat/asset/thumbnail,1920,1080,center,center/media/modernetdigital/images/2026/11/02/2026110215591386002.jpg
     publisher: Modernet Digital
     caption: 'Part of the seized marijuana at Figuerola del Camp. Photo: Cedida por los Mossos d''Esquadra / Agencia Catalana de Noticias'
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f819b07395828cc1447629bba447b5b0

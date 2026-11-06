@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 147.3
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2, 4, 6, 7, 8]
+  details.agency_types: [1, 2, 4, 6, 7, 8]
 status: verified
 created_by_model: meta/muse-spark
 tags: [eagle-force, warangal, ndps-act, asset-forfeiture]

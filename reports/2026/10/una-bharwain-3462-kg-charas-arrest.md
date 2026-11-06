@@ -42,6 +42,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2021/12/03/una_1638529668.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: Photo captioned as the 3.462 kg of charas seized from two youths on a motorcycle at Bharwain
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8311ba008ffe5a92aec2874d885b8a83

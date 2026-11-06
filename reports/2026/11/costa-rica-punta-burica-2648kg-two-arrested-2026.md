@@ -30,6 +30,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/472TKRYXGVB3HCS4RFZTV4AY7I.png?auth=d1dac7cc2c774b889ff31747700bc446e4159b3281da09f98c7137478a045efa&smart=true&width=350&height=199&quality=85
     publisher: Infobae
     caption: 'The interception point 52 nautical miles south-east of Punta Burica, shown as part of the joint operation with US and Panamanian authorities. Photo: MSP'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4e6d83bf128acb838f2d936786a887b1

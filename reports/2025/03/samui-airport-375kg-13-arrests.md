@@ -22,6 +22,12 @@ figures:
   value:
     amount: 75000000
     currency: THB
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [samui, airport, smuggling, singapore-route, british]

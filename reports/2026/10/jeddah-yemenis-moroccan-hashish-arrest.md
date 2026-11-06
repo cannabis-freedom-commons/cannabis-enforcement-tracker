@@ -20,6 +20,15 @@ media:
     media_url: https://upload-main.al-marsd.com/main/articles/images/2026/10/24/20261024143825.webp
     publisher: صحيفة المرصد
     caption: Photo accompanying the report on the Jeddah arrests of two Yemeni residents and a Moroccan visitor.
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74d252f500a8f1065643bdaedb7a0bc7

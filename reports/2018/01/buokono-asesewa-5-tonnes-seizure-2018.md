@@ -20,6 +20,10 @@ figures:
   value: { amount: 500000, currency: GHS }
 tags: [nacoc-nacob, volta-route, trafficking]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 sources:
   - title: NACOB Impounds Half A Million Worth of Wee

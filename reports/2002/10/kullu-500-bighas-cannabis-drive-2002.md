@@ -13,6 +13,12 @@ summary: >-
   cannabis growing on 500 bighas across four areas of Kullu district between 27 and 31 October
   2002. No one had been prosecuted for the cultivation, and the agencies said they would seek
   education and alternative crops before taking action under the NDPS Act.
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ncb, customs, kullu, eradication-drive]

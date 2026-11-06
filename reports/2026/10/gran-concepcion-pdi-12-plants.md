@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 4
   plants_destroyed: 12
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 907cf2967c86f9504d13b3c9bdbef1b2

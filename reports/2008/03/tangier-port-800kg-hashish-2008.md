@@ -18,6 +18,11 @@ figures:
   kg_seized: 800
   arrested: 2
   value: { amount: 3000000, currency: EUR }
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tangier, hashish, trafficking, spain-route]

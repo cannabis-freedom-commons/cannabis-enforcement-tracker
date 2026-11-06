@@ -20,6 +20,11 @@ media:
     media_url: https://media.assettype.com/sanmarg%2F2026-11-03%2Fc57l5tig%2F1000242003.jpg?w=640
     publisher: Sanmarg Hindi daily
     caption: 'Police photo of the seized ganja and the arrested accused with officers. Photo: Sanmarg Hindi daily'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 144c6c7c0503c937240d0242ca686253

@@ -20,6 +20,11 @@ media:
     media_url: https://om-saratov.ru/files/pages/175847/1793867091general_pages_05_november_2026_i175847_u_jitelya_atkarskogo_raio.jpg
     publisher: Общественное мнение
     caption: 'Police photograph published with the account of the seizure at the 51-year-old resident''s household. Photo: ГУ МВД по Саратовской области'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8191ab8f7f4e80b7f9b495c3cf54eddd

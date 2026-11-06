@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 44
   kg_seized: 2700
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, ndrangheta, joint-operation]

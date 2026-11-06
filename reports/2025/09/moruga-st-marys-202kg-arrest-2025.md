@@ -20,6 +20,10 @@ media:
     media_url: https://newsday.co.tt/wp-content/uploads/2025/09/24406750.jpg
     publisher: Trinidad and Tobago Newsday
     caption: Seized marijuana shown in the report on the Moruga exercise.
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0999ea1d37f73d792939bb3f609f5867

@@ -48,6 +48,11 @@ media:
     caption: >-
       Lead photo published with the report on the Pendik operation in which 336 kilos 550 grams of skunk were
       seized.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 79e8ae9ea851addccec4c2fa654d8a5c

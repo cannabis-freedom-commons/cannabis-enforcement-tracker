@@ -20,6 +20,11 @@ media:
     media_url: https://informacjelodzkie.pl/images/zdjecia/poszukiwacznewsow/124755-lodzcy-policjanci-wyczuli-narkoty-27340a-20261103-20261103093404.webp
     publisher: Informacje Łódzkie
     caption: 'Bag of dried plant material on electronic scales showing 211.4 g. Photo: KWP Łódź via Informacje Łódzkie'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3d694d1a24c3f590c5ba044dbf64619b

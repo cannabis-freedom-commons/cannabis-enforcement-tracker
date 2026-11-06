@@ -18,6 +18,10 @@ media:
     media_url: https://www.fijivillage.com/news_images/20260708181555_media_6a4de34021e707_23388917.jpg
     publisher: fijivillage
     caption: A photo published with fijivillage's report and credited to the Fiji Police Force; the page gives no caption.
+details:
+  setting: [farm]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 tags: [qaravutu, northern-division, sasamaki, farm]

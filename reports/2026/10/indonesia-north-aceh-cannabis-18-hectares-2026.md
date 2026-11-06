@@ -11,6 +11,10 @@ summary: >-
   Teupin Reusep, North Aceh, after a joint sweep involving roughly 90 personnel. Four suspected growers were
   handed to Lhokseumawe district police; plants were uprooted and burned on site.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: reported
 cfi_id: indonesia-north-aceh-cannabis-18-hectares-2026
 sources:

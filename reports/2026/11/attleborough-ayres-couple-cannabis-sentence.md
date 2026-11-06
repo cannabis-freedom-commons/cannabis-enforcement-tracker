@@ -30,6 +30,10 @@ media:
     media_url: https://image.assets.pressassociation.io/v2/image/production/e0a2b093c7a7ac60a18336bc36461df2Y29udGVudHNlYXJjaGFwaSwxNzkzOTk0Nzk2/2.86377618.jpg?w=640
     publisher: Largs and Millport Weekly News (PA News Agency)
     caption: 'Dried cannabis found by Norfolk Constabulary at the Ayres'' home in Burgh Common. Photo: Norfolk Constabulary/PA'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2, 4, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a267e9129b496b3d2b453398938b0c9b

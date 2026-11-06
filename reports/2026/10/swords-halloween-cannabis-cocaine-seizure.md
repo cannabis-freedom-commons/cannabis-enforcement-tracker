@@ -17,6 +17,12 @@ media:
     media_url: https://i2-prod.dublinlive.ie/article34856884.ece/ALTERNATES/s1200f/0_The-seized-drugs-and-hatchet.jpg
     publisher: Dublin Live
     caption: The seized drugs and hatchet laid out together.
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1f53062e2e7064e76ff3d06743af223f

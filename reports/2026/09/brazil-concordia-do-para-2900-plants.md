@@ -15,6 +15,14 @@ summary: >-
 figures:
   plants_destroyed: 2900
   arrested: 1
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [brazil, para, eradication]

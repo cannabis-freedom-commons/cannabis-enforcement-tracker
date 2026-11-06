@@ -20,6 +20,12 @@ media:
     media_url: https://media.extraguarapuava.com.br/2026/11/13ed2034-captura-de-tela-2026-11-04-123534.png
     publisher: Extra Guarapuava
     caption: 'Police photo of the cannabis parcels found in the boot of the Volkswagen Gol, laid out with the badge of the 16th Military Police Battalion. Photo: Divulgação/16o BPM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8c0a1e09ead48a00d2a9111fd08964e9

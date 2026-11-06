@@ -19,6 +19,12 @@ figures:
   kg_seized: 27215.54
   arrested: 2
   value: { amount: 20000000, currency: USD }
+details:
+  agencies: [us-dea, us-cbp]
+  agency_types: [anti-narcotics, customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tunnel, sinaloa-cartel, dea, otay-mesa]

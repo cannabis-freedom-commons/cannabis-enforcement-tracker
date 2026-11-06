@@ -31,6 +31,11 @@ media:
     media_url: https://www.redaksi24jam.com/wp-content/uploads/2026/11/IMG-20261101-WA0065.jpg
     publisher: Redaksi24Jam
     caption: Photo published with the report on the seizure of about one ons of dried ganja in Galang
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1a35fcdb9a1f9869b7012ebf8dfa85cc

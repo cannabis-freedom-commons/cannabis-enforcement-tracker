@@ -13,6 +13,11 @@ summary: >-
   Police arrested Bissau-Guinean forwarder A. U. Jalo in Parcelles Assainies, Dakar, on the night of 23 September 2026 after finding a half-opened hashish slab on him. A search of his Medina room found a second slab plus cash, and he was held for offering or transferring hashish while the investigation continues.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1b2c33e7fcea787d596b99fe2f834585

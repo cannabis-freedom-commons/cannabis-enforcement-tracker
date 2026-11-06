@@ -13,6 +13,10 @@ summary: >-
   Police destroyed 134 cannabis plants weighing a combined 122.325 kilograms at two sites near Churicheni and Ilindentsi on 26 August 2026. [@1,2] The regional police said 54 plants were found in Petrich Municipality and 80 in Strumyani Municipality; two pre-trial investigations were opened. [@1,2]
 figures:
   plants_destroyed: 134
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [blagoevgrad, petrich, strumyani, eradication]

@@ -16,6 +16,11 @@ figures:
     charged: 4
     kg_seized: 15
     prison: 15 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3e00412ebd75172e2ca00dda18e60a0

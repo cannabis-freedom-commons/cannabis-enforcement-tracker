@@ -24,6 +24,15 @@ media:
     publisher: Europa Press
     caption: "Hashish bales fill the sailing boat's cabin. Photo: National Police via Europa Press"
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, sicily, sailing-boat, transatlantic-route]
 sources:

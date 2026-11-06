@@ -17,6 +17,13 @@ figures:
   arrested: 1
   kg_seized: 164
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 tags: [hashish, smuggling, india-route]
 sources:

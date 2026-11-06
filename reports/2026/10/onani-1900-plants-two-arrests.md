@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 2
   plants_destroyed: 1900
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [onani, nuoro, carabinieri]

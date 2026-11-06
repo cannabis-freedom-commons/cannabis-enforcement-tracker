@@ -18,6 +18,11 @@ figures:
   value:
     amount: 11000000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sonbhadra, uttar-pradesh, ganja, operation-shuddhi, odisha]

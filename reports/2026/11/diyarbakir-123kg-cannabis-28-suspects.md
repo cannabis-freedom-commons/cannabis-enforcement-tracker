@@ -22,6 +22,12 @@ media:
     media_url: https://ilkha.com/img/NewsGallery/2026/11/2/573115/FeaturedImage/b7cc017d-90f5-4037-b496-6db0a97437c2.jpeg
     publisher: İlke Haber Ajansı
     caption: Lead photo on the source page for this Diyarbakır seizure report.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d5ffc08e687446b4d3d9749dcfb32a44

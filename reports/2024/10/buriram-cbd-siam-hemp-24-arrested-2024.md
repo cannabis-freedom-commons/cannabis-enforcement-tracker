@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 24
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [th-oncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 open_questions:
   - Only one account of the raid, a repost of the Thai Examiner's reporting, could

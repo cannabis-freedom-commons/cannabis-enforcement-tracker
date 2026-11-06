@@ -18,6 +18,12 @@ summary: >-
 figures:
   plants_destroyed: 1000
   arrested: 6
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [unna, holzwickede, plantation, raid]

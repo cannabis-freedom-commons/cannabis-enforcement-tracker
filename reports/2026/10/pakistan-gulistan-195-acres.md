@@ -15,6 +15,12 @@ summary: >-
   reconcile with the previous reported total of 992 acres.
 figures:
   hectares: 78.91
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: disputed
 created_by_model: openai/gpt-6
 tags: [balochistan, gulistan, qila-abdullah, cannabis-eradication]

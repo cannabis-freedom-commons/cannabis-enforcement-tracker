@@ -26,6 +26,12 @@ media:
     media_url: https://bico24horas.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-08.54.42.jpeg
     publisher: Bico 24 Horas
     caption: 'Civil police during the integrated search that served seven warrants in São Valério da Natividade. Photo: Polícia Civil'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 95dd8d06294bc25949a88460cb079ad6

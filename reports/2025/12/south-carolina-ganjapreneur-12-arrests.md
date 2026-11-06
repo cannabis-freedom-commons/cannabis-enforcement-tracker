@@ -19,6 +19,12 @@ figures:
   charged: 12
   value: { amount: 2000000, currency: USD }
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ganjapreneur, sled, dea, thc-retail]
 open_questions:

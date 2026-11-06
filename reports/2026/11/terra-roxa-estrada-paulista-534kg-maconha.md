@@ -21,6 +21,12 @@ media:
     media_url: https://ilustrado.com.br/wp-content/webp-express/webp-images/uploads/2026/11/imagem-whatsapp-image-2026-11-04-at-15-39-03.jpg.webp
     publisher: Jornal Ilustrado
     caption: 'Two vehicles left beside the vegetation on Estrada Paulista in Terra Roxa after three men fled into the woods, with 534 kg of marijuana found inside. Photo: Jornal Ilustrado'
+details:
+  agencies: [br-pf, br-pm]
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e4f2bb3a8d190feabf4bff091904e57

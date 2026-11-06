@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 354
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 32c301f7c84e7037774de9a78d993abe

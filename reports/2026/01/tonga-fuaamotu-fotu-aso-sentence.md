@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 63
   kg_seized: 0.69
   prison: 18 months (6 suspended)
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [fuaamotu, cultivation]

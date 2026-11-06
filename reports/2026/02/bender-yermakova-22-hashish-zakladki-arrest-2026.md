@@ -24,6 +24,11 @@ media:
     media_url: https://www.youtube.com/watch?v=iVj1DaGJuCo
     publisher: MVD PMR (YouTube)
     caption: Interior Ministry video titled Taken red-handed, linked from the article page about the detention
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e0b755eff6e7c96f272b696680f23de9

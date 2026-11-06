@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 6320
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [navirai, prf, truck, rifles, paraguay-route]

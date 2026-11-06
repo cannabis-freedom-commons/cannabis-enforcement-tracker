@@ -19,6 +19,11 @@ figures:
   kg_seized: 325.2
   value: { amount: 1950000, currency: ZAR }
 created_by_model: unknown
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 tags: [dagga, eswatini, festive-season]
 sources:

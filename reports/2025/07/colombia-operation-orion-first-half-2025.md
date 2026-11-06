@@ -25,6 +25,16 @@ media:
     media_url: https://clips-media-aka.warnermediacdn.com/cnn/clips/2025-07/1960395-7cb809b768ca4ae7ad610198a91fd808/mp4/semisumergible-confiscado-narcotrafico-cafe-tv-1960395-1920x1080_8000k.mp4
     publisher: CNN en Español
     caption: 'Fifty-seven-second video showing the confiscated semisubmersible used for drug trafficking in Colombia. Video: CNN en Español'
+details:
+  agencies: [co-armada]
+  agency_types: [military]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d5fb0f96cbf7edefe9a073833c771516

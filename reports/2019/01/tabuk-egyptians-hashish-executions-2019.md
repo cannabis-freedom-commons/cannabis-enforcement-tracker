@@ -16,6 +16,10 @@ summary: >-
 figures:
   deaths: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [saudi-arabia, beheading, smuggling]
 sources:

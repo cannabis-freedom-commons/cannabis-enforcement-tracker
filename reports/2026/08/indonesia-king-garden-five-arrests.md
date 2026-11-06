@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 9.4
+details:
+  agencies: [id-polri]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [instagram, indah-cargo, bareskrim, medan, pasuruan]

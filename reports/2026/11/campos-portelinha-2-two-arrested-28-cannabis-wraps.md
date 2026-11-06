@@ -19,6 +19,15 @@ media:
     media_url: https://campos24horas.com.br/portal/wp-content/uploads/2026/11/53122761-5c01-4740-81a9-40603046e3b7.jpeg
     publisher: Campos 24 Horas
     caption: 'Photo published with the report of the Portelinha 2 arrests, credited to the Military Police as a handout (Foto: Divulgação PM); the page gives no caption saying what it shows.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ca451373198a9d059e2c4f2ffb572be2

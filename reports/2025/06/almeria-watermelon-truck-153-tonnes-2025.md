@@ -26,6 +26,11 @@ media:
     publisher: Policía Nacional via Express TV
     caption: Bales of seized hashish stacked in a warehouse, with Spanish, French and Moroccan agency emblems
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, watermelon-truck, dgsn, ofast, almeria]
 open_questions:

@@ -13,6 +13,12 @@ summary: >-
   Military Police arrested a 35-year-old man at a rural smallholding in São João del-Rei on 30 October 2026, seizing 18 and a half cannabis bars plus cocaine and crack and processing equipment. Officers also seized three firearms, 43 cartridges and other materials and took the suspect to the on-duty Civil Police station.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe49aa21fa8e3658f499a56704d9f29a

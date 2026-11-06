@@ -20,6 +20,11 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-11-05/1793894255_IMG20261105WA0119.jpg
     publisher: Suryaa News
     caption: Photo published with Suryaa News's report on the ganja seizure at Bhooc hanpalli; the credit is not given.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 87d0aaaefda3b1edbc42ff8ed1b62311

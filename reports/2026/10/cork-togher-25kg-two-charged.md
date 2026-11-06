@@ -22,6 +22,12 @@ figures:
   value:
     amount: 500000
     currency: EUR
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [cork, togher, district-court]

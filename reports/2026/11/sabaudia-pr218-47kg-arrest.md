@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 47
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e3f7eb7431cf5a3d74df05e97f982720

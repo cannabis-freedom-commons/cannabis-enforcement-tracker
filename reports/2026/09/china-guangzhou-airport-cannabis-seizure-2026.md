@@ -13,6 +13,10 @@ summary: >-
   Guangzhou Baiyun airport customs seized 906.52 g of cannabis on 9 September 2026 in a transit express parcel declared as children's bowling toys. Officers said X-ray screening looked wrong, opened the box and found eight silver-wrapped packages of green plant material that tested as cannabis.
 figures:
   kg_seized: 0.90652
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [guangdong, guangzhou, customs, airport]

@@ -20,6 +20,12 @@ media:
     media_url: https://cdn.prod.website-files.com/66de2022d72eb33f2727d561/6ae691fedd229cd3f46e65e8_aeb8a3d2-fecc-462b-a1db-a2eba0e81b8e.jpg
     publisher: Gobierno del Estado de Morelos
     caption: Official photo published with the account of the six detentions in Cuernavaca.
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 624eb51b2962c801a9c39bfd9e28f856

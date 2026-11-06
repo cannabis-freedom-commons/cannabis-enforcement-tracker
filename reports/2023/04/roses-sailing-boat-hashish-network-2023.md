@@ -18,6 +18,11 @@ figures:
   kg_seized: 2854
   plants_destroyed: 864
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [hashish, sailing-boats]
 open_questions:

@@ -30,6 +30,11 @@ media:
     media_url: https://canalc.com.ar/wp-content/uploads/2026/10/261113.jpg
     publisher: Canal C
     caption: 'Man detained over drug sales. Photo: Ministerio Público Fiscal'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 351d69d8383da7fa7a04ee329f45610b

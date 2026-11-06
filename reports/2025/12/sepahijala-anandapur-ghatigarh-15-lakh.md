@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 1500000
   hectares: 72.8
   value: { amount: 750000000, currency: INR }
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]

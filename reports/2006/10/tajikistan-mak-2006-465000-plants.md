@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 465000
   kg_seized: 235
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f34d886189a5e00c2caa74d55900b578

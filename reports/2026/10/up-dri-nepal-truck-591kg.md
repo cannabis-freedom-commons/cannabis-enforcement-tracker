@@ -18,6 +18,14 @@ summary: >-
 figures:
   kg_seized: 591.3
 created_by_model: unknown
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: reported
 tags:
   - dri

@@ -19,6 +19,12 @@ figures:
   hectares: 185.75
   value: { amount: 1000000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-fbi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: disputed
 tags: [hemp-dispute, kern-county, arvin]
 open_questions:

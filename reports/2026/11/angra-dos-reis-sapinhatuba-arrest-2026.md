@@ -13,6 +13,12 @@ summary: >-
   A joint 33º BPM–Civil Police operation in Sapinhatuba II, Angra dos Reis, ended with one man arrested and one adolescent apprehended. Officers seized 101 marijuana strips, two marijuana tubes and 31 hashish units alongside cocaine, crack, ecstasy, a pistol and radio equipment.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 380f7e2fbea50076fe712ea78d8de180

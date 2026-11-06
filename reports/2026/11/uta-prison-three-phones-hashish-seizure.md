@@ -11,6 +11,13 @@ also: [raid]
 title: Three phones and hashish seized in two cells at Uta prison
 summary: >-
   Prison police seized three mobile phones, chargers and small quantities of hashish during a routine search of two cells at the Cagliari-Uta prison on 3 November 2026. The Sappe penitentiary-police union announced the seizure and praised the officers, stressing the need for vigilance against phones and drugs in prisons.
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 5]
+  details.setting: [1, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0622e21c9ffe10620b8838f88cdd2437

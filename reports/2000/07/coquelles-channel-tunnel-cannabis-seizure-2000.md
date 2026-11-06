@@ -19,6 +19,15 @@ figures:
   kg_seized: 1500
   value: { amount: 50000000, currency: FRF }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [channel-tunnel, coquelles, hashish, morocco]
 sources:

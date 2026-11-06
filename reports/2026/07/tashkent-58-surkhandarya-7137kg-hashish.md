@@ -20,6 +20,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/66/e9/66e905c4-747d-4275-bd0c-c1e3e9a8385f/narkotik1710_20260613101659.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Officers in dark uniforms emptying a large black bag of packaged narcotics at a seized-goods table, illustrating the Tashkent seizure. Photo: UzDaily.uz'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 81d0c53e35d4ba6b0c056915d75cafcd

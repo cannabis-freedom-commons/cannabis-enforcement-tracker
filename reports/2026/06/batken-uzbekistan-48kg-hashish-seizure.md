@@ -20,6 +20,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/64/58/64585ed9-5b59-435c-a5b0-650b5e8424cb/narcotic_20260613102515.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: Seized substances linked to the Tajikistan-Uzbekistan trafficking channel.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82ac3bd972c69b5196b89c18fc8de10c

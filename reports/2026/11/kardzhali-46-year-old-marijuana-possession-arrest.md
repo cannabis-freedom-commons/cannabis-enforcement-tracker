@@ -13,6 +13,13 @@ summary: >-
   Police in Kardzhali checked a 46-year-old man at about 19:00 on 4 November 2026 and seized dry leaf matter that tested as marijuana. The man was detained for up to 24 hours while pre-trial proceedings for unlawful possession of a high-risk drug were opened.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 492de245f06aa6933204e7f30b4b46b7

@@ -13,6 +13,11 @@ summary: >-
   Frankfurt police arrested a 35-year-old man at Matthias-Beltz-Platz on suspicion of dealing marijuana after watching him distribute goods. Officers found a drug stash and later seized marijuana, packaging material and cash in a home search before releasing him pending a dealing investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a19219701bb99873273dafc2b8bb0c04

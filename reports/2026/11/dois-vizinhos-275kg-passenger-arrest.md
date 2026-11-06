@@ -20,6 +20,15 @@ media:
     media_url: https://i0.wp.com/ppnewsfb.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-04-193548.png?fit=541%2C399&ssl=1
     publisher: PPNews FB
     caption: 'Police photo of seized packages displayed with evidence paperwork. Photo: PM.'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 64b2dc46fbcd60cd3d1502db608390c6

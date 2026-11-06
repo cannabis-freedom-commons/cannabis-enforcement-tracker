@@ -25,6 +25,11 @@ media:
     media_url: https://www.vijesti.me/data/images/2022/02/06/17/5389318_droga-novi-pazar_ff.jpg?ver=1644166206
     publisher: Vijesti
     caption: 'Second Interior Ministry handout photo of the seized drugs published with the Novi Pazar seizure report. Photo: Mup.gov.rs'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9412a1c8a83fda7ba5cdd3582fa8a3ca

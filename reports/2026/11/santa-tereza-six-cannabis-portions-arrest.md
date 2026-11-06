@@ -13,6 +13,12 @@ summary: >-
   Military police in Minas Gerais arrested a 43-year-old man in the Santa Tereza neighbourhood after finding cannabis and cash on him and searching two homes. Officers reported six portions of cannabis and three crack stones seized in total, and took the arrested man to the police station.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3f5627fbb93681cbfaf0b715934a1b9b

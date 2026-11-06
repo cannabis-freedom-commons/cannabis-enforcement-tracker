@@ -20,6 +20,11 @@ media:
     media_url: https://images.ekhon.tv/tangail%20%20news-768x402.webp
     publisher: Ekhon TV
     caption: 'Photo of the seized drugs accompanying the Ghatail bus seizure report. Photo: Ekhon TV'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f20c705358fa0b4f9b710924b72d231

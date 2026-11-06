@@ -17,6 +17,10 @@ summary: >-
   CEPS called it its largest cannabis seizure of the year.
 figures:
   arrested: 2
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ceps, atimpoku, smuggling]

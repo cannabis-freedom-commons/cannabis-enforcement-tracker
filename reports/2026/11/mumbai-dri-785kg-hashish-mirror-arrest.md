@@ -30,6 +30,17 @@ media:
     media_url: https://images.news18.com/ibnlive/uploads/2026/11/DRI-Uncovers-Novel-New-York-Mumbai-Hashish-Smuggling-Scheme-drug-2026-11-3b3dc8b9bdfc4b6bda5407ea3ba246f6-1200x675.jpg
     publisher: News18
     caption: Photo published with the report on the 7.85 kg hashish seizure in Mumbai, captioned as showing the eight packets found inside the mirror frame and the 169 sachets of blackish resinous substance. Image/News18
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+  setting: [mail]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3, 5]
+  details.agency_types: [1, 2, 3, 5]
+  details.products: [1, 2, 3, 7]
+  details.setting: [1, 2, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdbf702e7a9da205d6627eccf8ff9361

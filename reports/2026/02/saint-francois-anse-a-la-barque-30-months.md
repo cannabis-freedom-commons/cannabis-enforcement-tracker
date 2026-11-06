@@ -16,6 +16,15 @@ figures:
   charged: 3
   kg_seized: 243.28
   prison: 30 months (firm)
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 910e90736a99fecac661542072bcc6c6

@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 135000
   hectares: 12
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [toledo, hemp-front, guardia-civil]

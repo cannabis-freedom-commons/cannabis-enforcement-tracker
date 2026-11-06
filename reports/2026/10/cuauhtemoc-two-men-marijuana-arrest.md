@@ -21,6 +21,12 @@ media:
     media_url: https://segundoasegundo.com/wp-content/uploads/2026/10/con-marihuana.jpeg
     publisher: Segundo a Segundo
     caption: A man stands between an AEI investigator and a Sedena soldier in front of a Fiscalía de Distrito Zona Occidente backdrop; no photo credit is shown.
+details:
+  agencies: [mx-sedena]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 31d8dbe09edadebd80b8c0ba143a0f31

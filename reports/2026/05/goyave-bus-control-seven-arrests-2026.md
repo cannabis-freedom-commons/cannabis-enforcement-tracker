@@ -44,6 +44,10 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/6a1f470c95240bcf800f2932/width_1000/image.jpg
     publisher: France-Antilles Guadeloupe
     caption: 'A transport inspector helping gendarmes check passengers late in the day on 29 May 2026. Photo: Gendarmerie de la Guadeloupe'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4f11fcc0cbb28614a988d16f0ceab852

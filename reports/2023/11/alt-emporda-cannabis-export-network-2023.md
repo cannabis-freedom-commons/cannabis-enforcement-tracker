@@ -18,6 +18,14 @@ figures:
   kg_seized: 14
   plants_destroyed: 5000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera, es-mossos]
+  agency_types: [customs, police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 tags: [indoor-grow, export-network]
 open_questions:

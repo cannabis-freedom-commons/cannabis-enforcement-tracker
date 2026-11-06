@@ -14,6 +14,12 @@ summary: >-
   border; officers uprooted and destroyed them, then searched nearby areas again.
 figures:
   plants_destroyed: 500
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [yunnan, lincang, eradication, wild-cannabis]

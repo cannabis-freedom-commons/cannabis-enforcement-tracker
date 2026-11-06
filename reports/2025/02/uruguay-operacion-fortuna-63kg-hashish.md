@@ -59,6 +59,11 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/4_35.jpeg?itok=qxgc2rjL
     publisher: Ministerio del Interior
     caption: Image captioned as seized drugs in the Operation Fortuna gallery; no photo credit stated.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c19b16179956b9fae772995416b845fc

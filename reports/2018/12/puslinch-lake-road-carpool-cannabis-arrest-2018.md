@@ -15,6 +15,12 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.03
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9667cfd6c421e3efcaa83722736de024

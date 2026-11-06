@@ -17,6 +17,11 @@ figures:
   kg_seized: 4.43
   plants_destroyed: 144
 created_by_model: xai/grok-4.7
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [hainaut, ellezelles, resin]
 open_questions:

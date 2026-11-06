@@ -20,6 +20,15 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/10/30/1793352074600/sizes/30lak_m_14_30102026_67-11c10e-webp.webp
     publisher: Prabhat Khabar
     caption: 'Photographs captioned as showing the arrested liquor-smuggling suspect and the arrested drinkers in the Lakhisarai operation. Photo: Prabhat Khabar Network'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e1fa1ce7e391d1d9d3d64c417eda7192

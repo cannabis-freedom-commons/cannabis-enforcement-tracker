@@ -14,6 +14,14 @@ summary: >-
   was still at large when the seizure was announced in December 2009.
 figures:
   value: { amount: 8000000, currency: NGN }
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [building]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, warehouse]

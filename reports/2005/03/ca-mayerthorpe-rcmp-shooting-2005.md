@@ -17,6 +17,12 @@ summary: >-
 figures:
   deaths: 4
 created_by_model: unknown
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [rcmp, mayerthorpe, grow-op]
 open_questions:

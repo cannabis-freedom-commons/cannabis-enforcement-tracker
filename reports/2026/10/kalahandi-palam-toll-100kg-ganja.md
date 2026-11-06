@@ -21,6 +21,15 @@ media:
     media_url: https://img.prameyanews7.com/FilesUpload/News7/Posts/2026/10/29/1793276535_WhatsApp_Image_2026-10-29_at_5_49_54_PM.webp
     publisher: Prameya News7
     caption: Photograph published with Prameya News7's report and captioned '100 Kg Ganja Seized'; no photo credit given.
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ce3af579a42c77d6c282ce80e1da3df1

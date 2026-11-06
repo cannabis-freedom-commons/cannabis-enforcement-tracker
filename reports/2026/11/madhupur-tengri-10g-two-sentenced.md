@@ -16,6 +16,15 @@ figures:
   arrested: 2
   kg_seized: 0.01
   prison: 6 months
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 667581348a5fab8095f2b8bc781ff0bb

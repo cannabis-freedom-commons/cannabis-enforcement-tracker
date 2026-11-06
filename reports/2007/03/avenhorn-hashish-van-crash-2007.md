@@ -14,6 +14,11 @@ summary: >-
   passenger fled, and Dutch authorities later incinerated the hashish.
 figures:
   kg_seized: 3000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [hashish, trafficking, road-crash]

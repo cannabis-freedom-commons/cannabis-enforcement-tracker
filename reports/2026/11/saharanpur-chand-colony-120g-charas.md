@@ -21,6 +21,11 @@ media:
     media_url: https://royalbulletin.in/media-webp/1200/2026-11/tmpyjt85bh7.webp
     publisher: Royal Bulletin
     caption: Photo published with the report of the arrest, captioned as Saharanpur police catching the smuggler and recovering 120 g of illegal charas.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 99930e12f6482c373d97a6e35dbc5489

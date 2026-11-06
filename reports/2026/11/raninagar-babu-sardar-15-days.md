@@ -16,6 +16,15 @@ figures:
   arrested: 1
   charged: 1
   prison: 15 days
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6373d1fe07f1656e790ab9eae4d7e3f6

@@ -19,6 +19,11 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/20/bc4072c8709993260ee901d606c6e2b6_a.jpg
     publisher: Haber7
     caption: The cannabis concealed in a pickle jar seized during the Bodrum bus check.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d1f090919acc8a438849f870b14d319a

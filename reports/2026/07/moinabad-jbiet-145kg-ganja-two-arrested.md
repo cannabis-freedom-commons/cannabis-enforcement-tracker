@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1.45
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 2745de85ce0d98052133b6424df06aea

@@ -22,6 +22,11 @@ figures:
   value:
     amount: 12500000
     currency: INR
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 78441696f6bd740700a8de896d8c38a1

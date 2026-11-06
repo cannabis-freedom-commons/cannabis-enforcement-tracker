@@ -13,6 +13,11 @@ summary: >-
   Police detained a 19-year-old Bender resident in Kitskany forest after finding hashish on him, which officers seized. He faces a fine of up to 6,300 Transnistrian roubles or up to 30 days of administrative arrest, with an administrative case under consideration.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4da5887aee7477b2e3ce3c1015b7ac9b

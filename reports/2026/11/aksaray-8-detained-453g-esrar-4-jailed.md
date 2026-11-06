@@ -20,6 +20,11 @@ media:
     media_url: https://yenigungazete.com/wp-content/uploads/2026/11/uyusturucu.jpg
     publisher: Aksaray Yenigün Gazetesi
     caption: Seized drugs displayed after the Aksaray gendarmerie operation that detained eight suspects.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 91ab22add4b1a3bec0344f2768fa7558

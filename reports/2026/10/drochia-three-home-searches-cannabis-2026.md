@@ -11,6 +11,12 @@ also: [seizure]
 title: Searches at three Drochia homes find marijuana and hashish
 summary: >-
   Police searched the homes of three Drochia residents aged 46 to 55 and found marijuana, hashish, mephedrone and cocaine, along with about 200 litres of counterfeit alcohol. The substances were sent for expert examination, and police said they were still establishing all the circumstances and everyone involved.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 9e72d5e9cee7f73cf4e39f41dcdd5e1e

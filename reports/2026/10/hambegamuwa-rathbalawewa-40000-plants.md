@@ -22,6 +22,10 @@ figures:
     amount: 10000000
     currency: LKR
 created_by_model: xai/grok-4.7
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [sri-lanka, hambegamuwa, eradication]
 sources:

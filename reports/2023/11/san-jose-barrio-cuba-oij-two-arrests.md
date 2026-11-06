@@ -49,6 +49,11 @@ media:
     media_url: https://images.hoy.cr/cdn-cgi/image/width=1200,quality=80,format=auto/wp-content/uploads/2023/11/Venta-droga-Barrio-Cuba-01.jpg
     publisher: CR Hoy
     caption: 'Seventh photograph in the carousel, published under the caption ''Detienen a dos sujetos en Barrio Cuba por venta de droga''. Photo: CR Hoy'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0eccac655ddd5b84c569800cde634de2

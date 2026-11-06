@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1907
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [guasaule, border, transit]

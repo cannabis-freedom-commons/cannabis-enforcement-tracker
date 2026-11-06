@@ -16,6 +16,10 @@ summary: >-
   The Point reported no arrests but gave a two-day breakdown that totals 50 farms.
 figures:
   arrested: 0
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [5, 6]
 status: disputed
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [jinack, north-bank, dleag, eradication]

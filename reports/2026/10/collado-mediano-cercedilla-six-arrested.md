@@ -19,6 +19,15 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261104135725_690.jpg
     publisher: Europa Press
     caption: 'Seized substances from the Collado Mediano and Cercedilla operation. Photo: Guardia Civil Madrid via Europa Press'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 051c5e60be05bdf5613951943330afc2

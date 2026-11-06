@@ -15,6 +15,12 @@ figures:
   arrested: 1
   deaths: 1
   kg_seized: 0.919
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 269e8c0bb1f9c0b8fb459d2952ead924

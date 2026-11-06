@@ -15,6 +15,11 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 5df0779b42474907d0ec84bff803d079

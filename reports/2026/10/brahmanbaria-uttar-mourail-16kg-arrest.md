@@ -21,6 +21,11 @@ media:
     media_url: https://cdx.dhakamail.com/media/images/2026October/000_20261031_162425178.jpg
     publisher: Dhaka Mail
     caption: 'Arrested drug dealer Delowar Hossain, known as Dilu. Photo: Dhaka Mail'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 62588e42c8a4ed13ae6c6c255573d376

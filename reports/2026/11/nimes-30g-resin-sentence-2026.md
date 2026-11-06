@@ -16,6 +16,11 @@ figures:
   charged: 1
   kg_seized: 0.03
   prison: 2 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b4a147557d57fe462f2fa6adf0447cfa

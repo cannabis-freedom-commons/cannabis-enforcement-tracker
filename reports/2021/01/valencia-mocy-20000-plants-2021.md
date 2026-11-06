@@ -20,6 +20,12 @@ figures:
   plants_destroyed: 20000
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [mocy, guardia-civil, valencia, bulgarian-network]
 open_questions:

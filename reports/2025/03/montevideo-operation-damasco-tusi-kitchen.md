@@ -27,6 +27,11 @@ media:
     media_url: https://www.youtube.com/embed/abcawfQY4N8
     publisher: Ministerio del Interior
     caption: 'Interior Ministry video on the Operation Damasco raids and seizure. Video: Ministerio del Interior'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: be324495d0c28a02180fa21cb5c36bf7

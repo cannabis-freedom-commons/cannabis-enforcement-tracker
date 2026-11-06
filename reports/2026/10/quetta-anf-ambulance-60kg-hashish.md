@@ -19,6 +19,15 @@ figures:
   arrested: 1
   kg_seized: 60
 created_by_model: unknown
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [anf, ambulance, hashish]
 sources:

@@ -38,6 +38,10 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/dos_camiones_de_bandera_extranjera_transportaban_mas_de_45_kilos_de_marihuana_3.jpeg
     publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
     caption: 'Gendarmería photo placed beside the passage on the Narcotest result and the 45 kilos 822 grams of cannabis sativa. Photo: Gendarmería Nacional Argentina'
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 29256fa9b3eeffd177c9d39458ffe201

@@ -13,6 +13,11 @@ summary: >-
   Japanese police arrested XGALX producers Simon Jakops and Chancellor at an Aichi hotel on Feb. 23, 2026, on suspected drug possession. Officers seized several packets of cocaine and one packet of marijuana; the cannabis weight and any court outcome were not reported.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc38f4618572da4ce65cd58e95483661

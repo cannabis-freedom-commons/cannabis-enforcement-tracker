@@ -18,6 +18,10 @@ figures:
   fine:
     amount: 2300
     currency: XCD
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 506aba210f3bb3a1e75f25141404a61b

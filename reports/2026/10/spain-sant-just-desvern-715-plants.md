@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 2
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [sant-just-desvern, mossos, indoor-grow, electricity]
 media:

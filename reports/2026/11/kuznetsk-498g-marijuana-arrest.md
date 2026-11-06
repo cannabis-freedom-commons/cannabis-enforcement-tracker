@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.498
+details:
+  environment: [wild]
+data_sources:
+  details.environment: [4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e3d58b25a11df6ea3cc3e54ff4c139fe

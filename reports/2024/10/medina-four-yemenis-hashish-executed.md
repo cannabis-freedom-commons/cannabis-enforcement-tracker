@@ -16,6 +16,11 @@ summary: >-
 figures:
   deaths: 4
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [hashish, yemen, medina]
 open_questions:

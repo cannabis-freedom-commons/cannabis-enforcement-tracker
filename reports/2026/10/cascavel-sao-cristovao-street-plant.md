@@ -19,6 +19,15 @@ media:
     media_url: https://portalcantagalo.com.br/uploads/166e61946c11915983543a7c9f4d6e68.webp
     publisher: Portal Cantagalo
     caption: 'Police handout published with the report of the plant taken from Rua Francisco Beltrão in São Cristóvão. Credit: Divulgação/PMPR'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 6f70c118155662a894a8e2e3188a780c

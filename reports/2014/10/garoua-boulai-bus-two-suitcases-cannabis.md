@@ -11,6 +11,10 @@ also: [arrest]
 title: Two suitcases of cannabis seized from a bus at Garoua-Boulaï
 summary: >-
   Police at Garoua-Boulaï seized two suitcases of Indian hemp from the luggage hold of a bus travelling from Bertoua to Ngaoundéré on 12 October 2014, and took all 70-seat bus's passengers in for questioning. Nobody admitted owning the suitcases; officers said the load still had to be weighed.
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e1bc959c0c7aa36ee4aae505e879596f

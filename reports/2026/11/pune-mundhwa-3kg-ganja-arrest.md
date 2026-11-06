@@ -24,6 +24,11 @@ media:
     media_url: https://images.bhaskarassets.com/thumb/360x0/web2images/5483/2026/11/01/388ff64c-3f79-4ff7-aac9-338b72b6971b_1793527920290.jpg
     publisher: Divya Marathi
     caption: Photo accompanying the report on the seized 3 kg of ganja and mobile phone in the Mundhwa case
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4bfa9ec0118dde426763db1ce0cd9e64

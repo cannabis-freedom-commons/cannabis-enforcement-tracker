@@ -23,6 +23,10 @@ media:
     media_url: https://www.newcastleherald.com.au/images/transform/v1/crop/frm/afalkenmire/05eb5611-b87e-49a0-b99a-7a868f1477af.jpg/r0_0_7008_4672_w1200_h678_fmax.webp
     publisher: Newcastle Herald
     caption: 'NSW Police photos of the Hunterview cannabis raid seizure. Photo: NSW Police'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a78460afb6c6b726768eae6145d359c1

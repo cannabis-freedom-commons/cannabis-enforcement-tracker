@@ -14,6 +14,10 @@ summary: >-
 figures:
   plants_destroyed: 3100
   value: { amount: 12400000, currency: MUR }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [creve-coeur, pamplemousses, eradication, cannabis]

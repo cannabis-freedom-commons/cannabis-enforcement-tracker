@@ -17,6 +17,13 @@ media:
     media_url: https://diariocorreo.pe/resizer/v2/LTH436G2OJAZPKFBPCDGXY6KDI.jpg?auth=d6bbdada8a2d24c08f730a3a4b087826658bf78ebad965e07ab9964bd2a202c3&width=1200&height=675&quality=75&smart=true
     publisher: Correo
     caption: Photo published with the report of the drugs, bladed weapons and phones seized in the Socabaya prison search.
+details:
+  setting: [prison]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 616e925ba9398a03d18463709bf99042

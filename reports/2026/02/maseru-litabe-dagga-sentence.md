@@ -16,6 +16,10 @@ summary: >-
   after she failed to produce a licence.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [maseru, sentence, possession]

@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 14300
   arrested: 4
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [ndlea, operation-thunder-strike-iv, ondo, edo]

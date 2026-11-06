@@ -44,6 +44,11 @@ media:
     media_url: https://www.cairo24.com/Upload/libfiles/152/3/906.jfif
     publisher: Cairo 24
     caption: 'More seized items from the Zagazig stop, captioned ''المضبوطات'' (the seized items). Photo: Cairo 24'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a300cddeacc304ff4f0795311ea880e9

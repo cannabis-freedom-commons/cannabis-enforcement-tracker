@@ -11,6 +11,10 @@ summary: >-
   in Rubavu carrying 80 kg, after residents tipped them off. The drivers escaped, but police said
   they had identified the traffickers.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: rwanda-rubavu-cannabis-seizure-2017
 tags:

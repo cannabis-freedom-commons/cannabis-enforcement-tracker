@@ -17,6 +17,10 @@ summary: >-
 figures:
   hectares: 89
   kg_seized: 66000
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [india, arunachal-pradesh, eradication]

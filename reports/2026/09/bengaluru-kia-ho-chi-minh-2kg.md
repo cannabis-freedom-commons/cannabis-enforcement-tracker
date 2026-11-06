@@ -17,6 +17,12 @@ figures:
   kg_seized: 2
   value: { amount: 7000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [bengaluru, karnataka, hydroponic, airport, ho-chi-minh]
 sources:

@@ -25,6 +25,11 @@ media:
     media_url: https://mwlana.com/files/2026/10/%D8%B3%D9%82%D9%88%D8%B7-3-%D8%B9%D8%A7%D8%B7%D9%84%D9%8A%D9%86-%D8%A8%D9%80-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%88%D8%AE%D8%B1%D8%B7%D9%88%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B1%D8%AC-%D8%B6%D8%A8-Zzeb-1.webp
     publisher: بوابة مولانا
     caption: Lead photo captioned with the arrest headline for the Marg hashish case.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e2623d6908e11c886e2993dd90d803f9

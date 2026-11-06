@@ -24,6 +24,10 @@ media:
     media_url: https://i.err.ee/smartcrop?type=optimize&width=1072&aspectratio=16%3A10&url=https%3A%2F%2Fs.err.ee%2Fphoto%2Fcrop%2F2026%2F10%2F05%2F3829790hff4a.jpg
     publisher: ERR
     caption: Photo captioned "Narkootikumid" (drugs) on the ERR report, credited to PPA (Police and Border Guard Board).
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 89b5c3fb5941cd02063ed53838543c4d

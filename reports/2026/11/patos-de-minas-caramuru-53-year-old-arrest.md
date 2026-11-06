@@ -13,6 +13,12 @@ summary: >-
   Military Police arrested a 53-year-old man for drug trafficking in Caramuru, Patos de Minas, on 1 November 2026 after finding crack and cannabis at his house. Officers seized R$150, a phone and more cannabis, with a sniffer dog locating additional drugs at his home and a neighbouring house.
 figures:
   arrested: 1
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8b1f91dbd1a71dc3aba148d671417500

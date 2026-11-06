@@ -23,6 +23,12 @@ media:
     media_url: https://cdn.nur.kz/images/1200x675/502fbb40ec71c492f89e08b17b7aebfc.jpeg?version=1
     publisher: NUR.KZ
     caption: 'Video still published with the report showing police actions after the car stop in Almaty Region. Photo: Almaty Region police'
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kazakhstan, almaty-region, balkhash, wild-cannabis, eradication]

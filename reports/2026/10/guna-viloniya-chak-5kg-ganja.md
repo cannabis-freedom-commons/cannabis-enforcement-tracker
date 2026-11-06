@@ -24,6 +24,11 @@ media:
     media_url: https://nms-api.thecliffnews.in/uploads/620028d6-a7de-4d57-99bc-09142dffb3a7.jpg
     publisher: The Cliff News
     caption: 'Police officers with a seated suspect whose face is blurred, in the photo published with the Guna seizure report. Photo: The Cliff News'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e212dc5367ad997de07eb774dcd51e1e

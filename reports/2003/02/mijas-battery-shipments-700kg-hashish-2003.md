@@ -17,6 +17,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 700
+details:
+  agencies: [int-interpol, int-europol]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [udyco, united-kingdom, hashish]

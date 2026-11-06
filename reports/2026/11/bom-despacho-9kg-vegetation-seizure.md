@@ -18,6 +18,12 @@ media:
     media_url: https://ultimasnoticias.inf.br/wp-content/uploads/2026/11/Barras.jpeg
     publisher: Últimas Notícias
     caption: 'Police photo of the seized cannabis bars displayed on a table. Photo: PMMG'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a1b424b713147a178db4adbcd59708d0

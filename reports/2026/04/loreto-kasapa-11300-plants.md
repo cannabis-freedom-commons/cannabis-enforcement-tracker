@@ -15,6 +15,12 @@ figures:
   plants_destroyed: 11300
   value: { amount: 2212000, currency: PHP }
 created_by_model: openai/gpt-6
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 open_questions:
   - The mature-plant count is reported only as more than 11,000, so 11,300 is a minimum combined count rather than an exact total.

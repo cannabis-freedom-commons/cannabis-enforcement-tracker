@@ -21,6 +21,10 @@ figures:
   kg_seized: 200
   prison: 16 weeks (time served)
   fine: { amount: 10000000, currency: EUR }
+details:
+  setting: [shop]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [coffeeshop, checkpoint, criminal-organisation]

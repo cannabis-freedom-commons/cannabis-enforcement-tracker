@@ -15,6 +15,12 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.2
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 3, 5]
+  details.setting: [1, 3, 5]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ab9e7a087037c0c8d2655f2feaf8dee0

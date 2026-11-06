@@ -35,6 +35,12 @@ media:
     publisher: BBC News
     caption: Police raid carried out as part of the operation in November 2017
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gb-nca]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [operation-violet-panama, organised-crime, cannabis-factory]
 open_questions:

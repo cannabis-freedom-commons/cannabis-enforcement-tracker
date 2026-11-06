@@ -18,6 +18,12 @@ figures:
   kg_seized: 240
   value: { amount: 40780000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [pdea, kalinga, cordillera]
 sources:

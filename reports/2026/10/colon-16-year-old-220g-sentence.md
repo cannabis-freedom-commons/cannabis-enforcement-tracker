@@ -18,6 +18,11 @@ figures:
   value:
     amount: 778.36
     currency: USD
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2043aaa28d71e93cbf39e4685e1e8334

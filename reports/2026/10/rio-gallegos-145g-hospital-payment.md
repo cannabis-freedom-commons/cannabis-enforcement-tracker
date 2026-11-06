@@ -27,6 +27,12 @@ media:
     media_url: https://laopinionaustral.com.ar/media/uploads/2026/10/allanamiento-rio-gallegos-abuso-de-armas-marihuana-3-OG.jpg
     publisher: La Opinión Austral
     caption: 'L.S.L. handcuffed by Santa Cruz provincial police after his detention in the 2024 weapons search in which the marijuana was found. Photo: Policía de Santa Cruz.'
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [santa-cruz, rio-gallegos, tribunal-oral-federal, sentence]

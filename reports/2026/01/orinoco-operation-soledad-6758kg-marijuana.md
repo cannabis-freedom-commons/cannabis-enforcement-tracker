@@ -12,6 +12,11 @@ summary: >-
   Venezuela's Operation Soledad seized two boats on the Orinoco near Ciudad Bolivar on 5 January 2026, holding 14,199 wraps of marijuana weighing 6,758.66 kg alongside 81 wraps of cocaine. Interior minister Diosdado Cabello announced the 6,850.41 kg mixed load on 13 January as part of 7,148 kg of all drugs reported in the first 13 days of January.
 figures:
   kg_seized: 6758.66
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74117748ebdc0aa805913466ad48f261

@@ -17,6 +17,13 @@ figures:
   arrested: 23
   kg_seized: 16000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [money]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [2, 3]
+  details.products: [1, 2, 3]
 status: verified
 tags: [hashish, joint-operation, morocco, money-laundering]
 sources:

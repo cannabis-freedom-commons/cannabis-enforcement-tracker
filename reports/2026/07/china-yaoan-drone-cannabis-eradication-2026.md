@@ -14,6 +14,10 @@ summary: >-
   locating 24 cannabis sites and uprooting 433 plants.
 figures:
   plants_destroyed: 433
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [yunnan, yaoan, eradication, wild-cannabis]

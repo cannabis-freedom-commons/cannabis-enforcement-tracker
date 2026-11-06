@@ -29,6 +29,12 @@ media:
     media_url: https://www.diarioregionalaysen.cl/files/ck_6ad3e786ab607.webp
     publisher: Diario Regional Aysén
     caption: 'Close-up of the glass jars holding the cannabis found in the suitcase. Photo: Cedida (supplied to Diario Regional Aysén).'
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [aysen, coyhaique, carabineros, os7]

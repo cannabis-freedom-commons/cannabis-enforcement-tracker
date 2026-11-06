@@ -23,6 +23,11 @@ media:
     media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/6f/ae/6fae131e-26ea-407d-a63a-90a4d68434e5/zaderjanie3_20260613102514.webp__760x507_crop_subsampling-2.webp
     publisher: UzDaily.uz
     caption: 'Still from a State Security Service video showing the Altyaryk detention and seized hashish. Photo: State Security Service via UzDaily.uz'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c11e51a89ec46d1f40a58dd6ec03cfc4

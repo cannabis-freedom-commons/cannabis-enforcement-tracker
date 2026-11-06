@@ -25,6 +25,11 @@ media:
     media_url: https://www.curacaochronicle.com/media/posts/marijuana_plantation-scherpenheuvel.jpg
     publisher: Curaçao Chronicle
     caption: Photo of the seized marijuana plantation at Scherpenheuvel.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 105ccd8330ca2cace19ba47d96b517bf

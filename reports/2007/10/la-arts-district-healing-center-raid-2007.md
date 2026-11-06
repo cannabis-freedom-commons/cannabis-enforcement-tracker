@@ -14,6 +14,16 @@ summary: >-
   over three hours and seizing marijuana and cash. No one was arrested; weeks later
   the dispensary sued the DEA over threats to its landlord.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [dispensary]
 open_questions:

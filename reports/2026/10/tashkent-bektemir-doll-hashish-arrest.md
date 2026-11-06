@@ -20,6 +20,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/10/dp3qf2dq70b0e43MpEg17923934256491_l.webp
     publisher: Gazeta.uz
     caption: 'Still from Interior Ministry video related to the doll seizure. Photo: Ministry of Internal Affairs via Gazeta.uz'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c6dd807f9be0953b92a897066cdb7f94

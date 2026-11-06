@@ -31,6 +31,12 @@ media:
     media_url: https://d22jn00zjrk7sl.cloudfront.net/wp-content/uploads/2026/11/3fc83c68-a994-4bfc-bc98-26e83af08b92.jpg
     publisher: Once Noticias
     caption: 'Photo captioned FOTO: SSPC, credited to the federal public-security ministry, published with the report on the two operations in Sinaloa. Photo: SSPC'
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [2, 3, 5, 9, 10]
+  details.agency_types: [2, 3, 5, 9, 10]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c92aeb985454f6fbaed90140151d03cd

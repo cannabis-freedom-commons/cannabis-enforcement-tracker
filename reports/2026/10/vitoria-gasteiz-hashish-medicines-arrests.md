@@ -13,6 +13,11 @@ summary: >-
   Local police in Vitoria-Gasteiz arrested two men aged 25 and 27 on 29 October 2026 on suspicion of trafficking hashish and medicines. Officers detained them at 17:41 and 18:27 on Calle Barrancal, and no quantities or court outcome were reported.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 42177cd25fb3ab14ab9a8dd4d83ac8d0

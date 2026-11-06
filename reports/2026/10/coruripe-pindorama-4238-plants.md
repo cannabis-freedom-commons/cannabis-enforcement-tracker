@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 4238
   arrested: 2
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [br-pf, br-pm]
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [alagoas, coruripe, policia-federal, copes]
 open_questions:

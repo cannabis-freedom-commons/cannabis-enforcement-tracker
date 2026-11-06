@@ -15,6 +15,11 @@ summary: >-
 figures:
   charged: 1
   prison: life
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 70b2a176a2ce67ddf5d48c27a96c9ed7

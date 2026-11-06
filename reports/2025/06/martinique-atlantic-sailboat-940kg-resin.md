@@ -20,6 +20,15 @@ media:
     media_url: https://la1ere.franceinfo.fr/image/InKaBI1ZsDJydcKJL_5ftDaIEJk/0x68:1305x803/900x506/filters:format(webp):quality(80)/outremer%2F2025%2F06%2F23%2F4-68596cf319959627528272.jpg
     publisher: Martinique La 1ère
     caption: 'Photo captioned by the outlet as near a tonne of cannabis seized off Martinique, credited to Serge Charmoillaux, Groupe Image Méditerranée; the outlet does not name the vessel or place it was taken. Photo: Serge Charmoillaux / Groupe Image Méditerranée'
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 111e82ae7c6d325c953e3c23114635ad

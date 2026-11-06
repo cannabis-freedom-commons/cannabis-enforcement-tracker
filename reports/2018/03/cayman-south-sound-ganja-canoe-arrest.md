@@ -19,6 +19,11 @@ media:
     media_url: https://caymancompass.s3.amazonaws.com/wp-content/uploads/2018/03/25102715/ganja-canoe-696x392.jpg
     publisher: Cayman Compass
     caption: 'The seized canoe from the police operation off South Sound. Photo: RCIPS'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: abe751e4553e92f8adadd9ad3cebe02f

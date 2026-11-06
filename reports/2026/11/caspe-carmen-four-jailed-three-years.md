@@ -22,6 +22,15 @@ media:
     media_url: https://imagenes.heraldo.es/files/image_1280_720/uploads/imagenes/2025/08/11/un-momento-de-la-operacion-antidroga-en-caspe.jpeg
     publisher: Heraldo de Aragón
     caption: 'Search of the house in Caspe where the four accused sold drugs. Photo: Guardia Civil'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86d3806323a3586c64e66d91f3c37542

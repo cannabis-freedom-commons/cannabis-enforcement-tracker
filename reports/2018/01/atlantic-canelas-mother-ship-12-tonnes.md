@@ -16,6 +16,15 @@ figures:
   arrested: 13
   kg_seized: 12000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [hashish, mother-ship, operation-canelas]
 sources:

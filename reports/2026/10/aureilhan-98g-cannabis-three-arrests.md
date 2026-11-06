@@ -19,6 +19,11 @@ figures:
   value:
     amount: 3200
     currency: EUR
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a0870ead8f928eb670d28d1fc00b1a5e

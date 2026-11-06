@@ -34,6 +34,12 @@ media:
     publisher: Tripura Star News
     caption: Uprooted cannabis plants in the forest cultivation area
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 tags: [tripura, sepahijala, sonamura, khedabari]
 open_questions:

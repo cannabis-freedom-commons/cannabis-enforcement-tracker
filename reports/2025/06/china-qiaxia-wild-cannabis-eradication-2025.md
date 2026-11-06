@@ -15,6 +15,12 @@ summary: >-
   province-wide live-streamed anti-drug publicity day.
 figures:
   plants_destroyed: 15000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, tacheng, qiaxia, wild-cannabis, border-police]

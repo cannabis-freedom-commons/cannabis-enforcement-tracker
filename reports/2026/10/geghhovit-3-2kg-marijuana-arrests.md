@@ -20,6 +20,11 @@ media:
     media_url: https://news.am/storage/media/26/10/07/1bYJUdIrh0JpXQyR.webp
     publisher: NEWS.am
     caption: Photo published with the report on the seizure of over 3 kg of marijuana.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9fba0ded66ebcfcbfba41febd7fafa36

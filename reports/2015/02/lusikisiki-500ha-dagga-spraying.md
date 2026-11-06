@@ -16,6 +16,15 @@ summary: >-
 figures:
   hectares: 500
 created_by_model: meta/muse-spark
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [lusikisiki, aerial-spraying, dagga]
 open_questions:

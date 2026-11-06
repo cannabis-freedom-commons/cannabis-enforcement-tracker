@@ -18,6 +18,10 @@ figures:
   charged: 1
   kg_seized: 0.4362
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3, 4]
 status: verified
 tags:
   - penang

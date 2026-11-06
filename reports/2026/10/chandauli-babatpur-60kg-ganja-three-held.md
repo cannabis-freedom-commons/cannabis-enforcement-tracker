@@ -39,6 +39,11 @@ media:
     media_url: https://livebharatnews.in/static/c1e/client/89702/uploaded/82d4f63a21d80df780d5a92230803d56.jpeg?width=730&height=420&resizemode=4
     publisher: Live Bharat News
     caption: Photo published with the Live Bharat News report on the Chandauli 60 kg ganja seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0a51bec327e940ca4ac48b108bdbe381

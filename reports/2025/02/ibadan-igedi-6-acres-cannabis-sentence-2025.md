@@ -17,6 +17,14 @@ figures:
   kg_seized: 7.3
   hectares: 2.43
   prison: 30 months
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ibadan, ndlea, cultivation]

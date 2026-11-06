@@ -26,6 +26,13 @@ media:
     media_url: https://s1.ppllstatics.com/canarias7/www/multimedia/local/2026/10/30/droga2-kDeH--680x476@Canarias7.jpeg
     publisher: Canarias7
     caption: A second in-text photo of a bag marked '700 gr' from the seizure in Las Palmas.
+details:
+  setting: [vehicle]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b9c3e528cfc972492debc3b059ad4999

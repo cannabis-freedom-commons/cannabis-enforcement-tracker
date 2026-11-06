@@ -11,6 +11,11 @@ summary: >-
   southeast of Tobruk. Officials valued it at about 6 million dinars and said it had crossed the
   Egyptian border for sale in Libya. The detainees were Libyan and Egyptian nationals.
 created_by_model: unknown
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 cfi_id: libya-tobruk-hashish-2026
 sources:

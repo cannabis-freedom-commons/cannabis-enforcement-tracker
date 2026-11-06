@@ -16,6 +16,12 @@ summary: >-
   Morales supervised the seizure bound for Brazil.
 figures:
   kg_seized: 1443
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [pedro-juan-caballero, amambay, senad, hilux]

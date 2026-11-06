@@ -21,6 +21,12 @@ figures:
   kg_seized: 87
   value: { amount: 18000000, currency: HKD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [airport, trafficking, canada]
 media:

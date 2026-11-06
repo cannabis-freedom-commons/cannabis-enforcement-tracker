@@ -20,6 +20,11 @@ media:
     media_url: https://t792ae.c2.acecdn.net/wp-content/uploads/2026/11/Compressed-Dagga.jpeg
     publisher: Pindula News
     caption: Image published with the report on the 10 parcels of compressed dagga seized at the Harare-Chirundu checkpoint.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ae21f61e1947e9b5eb0134b9790e2b9d

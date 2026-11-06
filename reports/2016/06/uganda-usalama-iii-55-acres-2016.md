@@ -11,6 +11,12 @@ summary: >-
   SARPCCO and Interpol across 22 countries in Eastern and Southern Africa.
 figures:
   hectares: 22.26
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [usalama, interpol]

@@ -46,6 +46,12 @@ media:
     media_url: https://www.directemar.cl/directemar/site/artic/20250915/imag/foto_0000001920250915164131/FOTO_1.jpeg
     publisher: Armada de Chile (Directemar)
     caption: Additional view from the gallery accompanying the San Antonio seizure; no individual caption or photo credit is listed.
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 4]
+  details.agency_types: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc8906e4fe1333e011a8537bb18db85a

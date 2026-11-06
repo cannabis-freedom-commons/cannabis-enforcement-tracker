@@ -23,6 +23,10 @@ figures:
     amount: 600000
     currency: HKD
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [customs, airport, bangkok, cannabis-buds]
 open_questions:

@@ -15,6 +15,16 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.1317
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 4]
+  details.agency_types: [1, 2, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a69b82158719171b996e406beb7e7024

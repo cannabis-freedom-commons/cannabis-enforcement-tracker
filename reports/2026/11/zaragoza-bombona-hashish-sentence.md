@@ -23,6 +23,11 @@ media:
     media_url: https://imagenes.heraldo.es/files/image_1280_720/uploads/imagenes/2023/12/26/imagenes-de-la-operacion-policial-en-zaragoza.jpeg
     publisher: Heraldo de Aragón
     caption: 'Police photos of the seized drugs and money and the discovered gas cylinder from the Zaragoza operation. Photo: P. N.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc41e6200da8116d94d890f98576c0e5

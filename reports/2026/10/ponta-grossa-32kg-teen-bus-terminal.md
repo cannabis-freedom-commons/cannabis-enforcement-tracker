@@ -15,6 +15,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 32
+details:
+  agencies: [br-pf, br-pm]
+  agency_types: [police, gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: adf94d3a378a86533303916b2b2c4280

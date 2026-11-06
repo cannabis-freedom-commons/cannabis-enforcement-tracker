@@ -15,6 +15,10 @@ summary: >-
   took the case; no arrests were reported.
 figures:
   kg_seized: 59.4
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [vehicle, dnpa, escudo]

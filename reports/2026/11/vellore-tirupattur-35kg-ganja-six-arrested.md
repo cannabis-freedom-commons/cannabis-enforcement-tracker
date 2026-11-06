@@ -20,6 +20,11 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/tamil-nadu/14hme5/article71665908.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-04%20at%206.10.03%20PM.jpeg
     publisher: The Hindu
     caption: 'Police searches with sniffer dogs at a public place such as a railway station during the Vellore-Tirupattur drive. Photo: Special Arrangement'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 273beb074b2ad092fd61b42cb5c92aa0

@@ -13,6 +13,10 @@ summary: >-
   Hódmezővásárhely police who stopped a Romanian man over a property offence on 2 November 2026 found marijuana in his clothing during a search. A drug test was positive for THC, he was questioned as a suspect and a criminal case was opened for drug possession.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 730baeb93d3ff3f65cc307689e501284

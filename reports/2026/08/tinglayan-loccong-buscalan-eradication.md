@@ -17,6 +17,14 @@ summary: >-
   arrested.
 figures:
   plants_destroyed: 94500
+details:
+  agencies: [ph-pnp]
+  agency_types: [police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tinglayan, kalinga, eradication]

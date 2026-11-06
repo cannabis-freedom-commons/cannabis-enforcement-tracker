@@ -17,6 +17,14 @@ figures:
   arrested: 3
   kg_seized: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cnb, trafficking, woodlands]
 media:

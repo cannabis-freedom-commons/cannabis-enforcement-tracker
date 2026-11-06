@@ -22,6 +22,10 @@ media:
     media_url: https://www.dzrh.com.ph/_next/image?url=https%3A%2F%2Fdzrh-bucket.s3.ap-southeast-1.amazonaws.com%2Ffeaturedimage%2F2026%2F11%2FRW0jBgVOxna43sGaWoA5e.jpeg&w=1200&q=50
     publisher: DZRH News
     caption: 'Lead photo for the report on the Benguet plantations. Photo courtesy: PNP Police Regional Office CAR.'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3a2fd498c85aa9ff11e8556ec023e20

@@ -15,6 +15,15 @@ summary: >-
   after convictions in Gujarat and Mumbai cases.
 figures:
   kg_seized: 189.8
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndps, mandatory-death-penalty, charas]

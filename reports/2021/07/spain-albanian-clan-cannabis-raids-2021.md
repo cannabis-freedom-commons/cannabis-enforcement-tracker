@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 25000
   kg_seized: 938
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [europol, albania, organised-crime]
 open_questions:

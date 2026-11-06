@@ -16,6 +16,15 @@ figures:
   arrested: 4
   value: { amount: 10000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [cannabis-resin, carbury-seizure, drug-trafficking-act]
 open_questions:

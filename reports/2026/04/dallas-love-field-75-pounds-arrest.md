@@ -27,6 +27,10 @@ media:
     media_url: https://www.ctvnews.ca/resizer/v2/CH4S4KCAZVDI7KXXAC32HDO2PA.JPG?smart=true&auth=4b72ef9b0938c9361576100fc717ce4679b6bb612e308d42798f25dbdc42c239&width=1600&height=899
     publisher: CTV News
     caption: 'A suitcase that broke open on the Las Vegas-to-Dallas flight, with marijuana visible inside. Photo: Dallas Police Department/KTVT via CNN Newsource'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9a62e656887d1cd40fa08347ce2e1c2

@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 18926
   value: { amount: 75000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [camp, public-lands, operation-no-grow]
 open_questions:

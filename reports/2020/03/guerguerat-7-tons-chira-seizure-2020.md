@@ -17,6 +17,13 @@ summary: >-
 figures:
   kg_seized: 7000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [chira, guerguerat, border, police-statement]
 sources:

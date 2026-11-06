@@ -23,6 +23,10 @@ media:
     media_url: https://lexpress.mu/storage/articles/5Fbzgp5u9Y9EFoCNzMEfIxlhtuJ6fnfFNsMBRaeC.jpg
     publisher: L'Express
     caption: 'Seized compressed cannabis in a vacuum bag pictured with the report on the three arrests after the flight from Madagascar. Photo: L''Express'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8dd91acf58ebbfa475aa647546dee83a

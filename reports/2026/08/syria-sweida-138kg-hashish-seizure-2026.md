@@ -18,6 +18,13 @@ media:
     url: https://sana.sy/fr/syrie/2326722/
     publisher: SANA – Agence Arabe Syrienne de Presse
     caption: 'Packages of hashish and narcotic pills seized in eastern Sweida, in photographs published with the anti-narcotics directorate''s announcement. Photo: SANA'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sweida, hashish, smuggling]

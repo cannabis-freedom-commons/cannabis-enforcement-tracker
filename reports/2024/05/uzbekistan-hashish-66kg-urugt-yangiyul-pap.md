@@ -25,6 +25,13 @@ media:
     media_url: https://cdnn1.img.sputnik.tj/img/07e5/06/09/1040104874_0:94:999:656_1920x0_80_0_0_0b97f4c0d0a97109217179463b6ae285.jpg
     publisher: Sputnik Таджикистан
     caption: 'Drugs seized from a suspect, in a photo released by the State Security Service press service. Photo: State Security Service of Uzbekistan, via Sputnik Таджикистан'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5e71fc6bf494a9d3344448d28a733b88

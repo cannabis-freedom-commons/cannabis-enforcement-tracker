@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 50
+details:
+  agencies: [ru-fsb]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b841dbdbbce47f9bb0b86022277cebfe

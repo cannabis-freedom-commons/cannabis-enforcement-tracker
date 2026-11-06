@@ -26,6 +26,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2025/02/c8FGoT17391693081252_l.jpg
     publisher: Gazeta.uz
     caption: 'Customs Committee photo of the 612 kg hashish seizure at the Uzbekistan-Afghanistan border. Photo: Customs Committee'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 46d8d9b92b522a38b3e5ef54e67bf52a

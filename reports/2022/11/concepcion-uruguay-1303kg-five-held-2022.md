@@ -25,6 +25,17 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/5_allanamientos_narcotrafico_concepcion_del_uruguay_1.jpeg
     publisher: Argentina.gob.ar (Gendarmería Nacional)
     caption: 'Second photo published with the Gendarmería''s account of the Concepción del Uruguay searches. Photo: Gendarmería Nacional Argentina.'
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+  activity: [sale]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9c565da155f619b8e8bc33a82d91e268

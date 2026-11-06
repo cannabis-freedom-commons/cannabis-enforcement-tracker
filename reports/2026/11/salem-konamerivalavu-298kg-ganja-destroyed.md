@@ -12,6 +12,11 @@ summary: >-
   Salem City police destroyed 298 kg of ganja seized in 53 cases at the medical waste incineration plant at Konamerivalavu near Edappadi. Deputy Commissioner Geetha burned the stock, with no arrests or court outcomes reported in this disposal.
 figures:
   kg_seized: 298
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c0a0a98404ba62031462df0817a8270

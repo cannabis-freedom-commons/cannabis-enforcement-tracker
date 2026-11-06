@@ -20,6 +20,13 @@ media:
     url: https://sana.sy/en/syria/2345981/
     publisher: Syrian Arab News Agency (SANA)
     caption: 'A Drug Enforcement Department officer inspects seized narcotics and bottles of alcohol after the shipment from Lebanon was stopped. Photo: SANA'
+details:
+  setting: [border]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, lebanon, border, smuggling]

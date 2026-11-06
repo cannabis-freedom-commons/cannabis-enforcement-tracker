@@ -15,6 +15,12 @@ summary: >-
   terrain, confirmed the stand was natural growth, and burned the plants on site.
 figures:
   plants_destroyed: 8000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [jilin, hunchun, forest-police, wild-cannabis]

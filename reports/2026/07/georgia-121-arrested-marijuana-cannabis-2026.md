@@ -13,6 +13,11 @@ summary: >-
   Police across Georgia detained 121 people on drug charges, including 59 accused of involvement in drug distribution, and seized marijuana and cannabis plants among other drugs. The investigation is proceeding under Criminal Code articles carrying up to 20 years in prison or life imprisonment.
 figures:
   arrested: 121
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b436199682387d115aa3e19052461823

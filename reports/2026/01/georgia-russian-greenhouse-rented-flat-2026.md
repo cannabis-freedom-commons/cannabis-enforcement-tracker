@@ -13,6 +13,11 @@ summary: >-
   Police in Georgia detained a 46-year-old Russian citizen who allegedly built a greenhouse in a rented flat to grow narcotic-containing plants. Officers seized what the Interior Ministry called an especially large amount of dried marijuana and cannabis plants, and a criminal case was opened.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6518a936fb090abb2ff9973ce7fd9d41

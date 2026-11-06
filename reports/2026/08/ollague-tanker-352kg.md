@@ -20,6 +20,12 @@ figures:
   arrested: 3
   charged: 3
 created_by_model: spacexai/grok-4.7
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [ollague, antofagasta, customs, pdi]
 open_questions:

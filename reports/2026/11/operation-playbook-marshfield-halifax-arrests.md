@@ -25,6 +25,15 @@ media:
     media_url: https://fallriverreporter.com/wp-content/uploads/2026/11/Malcolm-Waaser-Maccoy-Jr.-Josef-Troy-Hebb-drugs.jpg.webp
     publisher: Fall River Reporter
     caption: Seized drugs displayed after the Operation Playbook searches.
+details:
+  agencies: [us-dea, us-fbi]
+  agency_types: [anti-narcotics, police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f344fe4869378bf80b3960ed0a614f2b

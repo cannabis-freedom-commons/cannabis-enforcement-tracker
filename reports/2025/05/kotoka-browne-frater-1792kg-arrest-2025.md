@@ -20,6 +20,12 @@ figures:
   kg_seized: 17.92
   value: { amount: 232960, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
 status: verified
 tags: [nacoc, smuggling, kotoka]
 media:

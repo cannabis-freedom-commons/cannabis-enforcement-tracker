@@ -23,6 +23,11 @@ media:
     media_url: https://th-i.thgim.com/public/incoming/3andll/article71344970.ece/alternates/LANDSCAPE_1200/charas%20network%20seizure%20.jpeg
     publisher: The Hindu
     caption: 'Police display of the seized 106.250 kg of high-quality charas. Photo: Special Arrangement'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e2ef0e416fab3e644604e81253fd6149

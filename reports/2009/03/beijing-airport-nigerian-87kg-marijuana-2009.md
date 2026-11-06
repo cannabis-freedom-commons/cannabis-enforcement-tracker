@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 87.25
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [trafficking, airport]

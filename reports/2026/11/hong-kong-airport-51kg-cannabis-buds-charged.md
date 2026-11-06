@@ -36,6 +36,10 @@ media:
     caption: >-
       Seized suspected cannabis buds displayed by Hong Kong Customs in the airport case. Photo: Hong Kong
       Customs and Excise Department
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [8, 10, 11, 12, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 28f5eef0670dc7aa857133077e3cac22

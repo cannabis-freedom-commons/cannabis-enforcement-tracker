@@ -31,6 +31,11 @@ media:
     media_url: https://aksarayportal.com/clouds/news/aksaray_da_uyusturucu_operasyonu_3_supheli_tutuklandi_3.webp
     publisher: Aksaray Portal
     caption: The 1,134 synthetic pills seized in the operation, spread out in front of the gendarmerie banner.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2ab6b322d6d00059e258dbe5ff64adbb

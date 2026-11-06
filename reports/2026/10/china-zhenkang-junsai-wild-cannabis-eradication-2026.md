@@ -30,6 +30,12 @@ media:
     publisher: 凤凰网大风号 (Phoenix.com, Dafenghao)
     caption: An officer handles uprooted cannabis plants on a roadside.
 created_by_model: openai/gpt-6
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [yunnan, lincang, zhenkang, eradication, wild-cannabis]
 sources:

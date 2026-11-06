@@ -19,6 +19,16 @@ figures:
   kg_seized: 240.2
   value: { amount: 22300000, currency: PKR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [anf, hashish, weed, nationwide, quetta, khyber, islamabad]
 sources:

@@ -22,6 +22,11 @@ media:
     media_url: https://policie.gov.cz/images/narodni-protidrogova-centrala-skpv/trezor?width=1920
     publisher: Policie České republiky
     caption: Police photo from the Operation Kardio gallery showing seized items including valuables kept in a safe.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 56e8a427bfef9803391200e3ad4eb509

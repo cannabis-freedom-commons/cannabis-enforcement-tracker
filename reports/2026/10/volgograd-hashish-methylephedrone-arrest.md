@@ -20,6 +20,11 @@ media:
     media_url: https://volganet.net/wp-content/uploads/2026/10/IMG_20261030_180437-800x600-1.jpg
     publisher: Volganet.net
     caption: 'Police handout photo published with the report of the detention and seizure in Volgograd. Photo: Main Directorate of the Ministry of Internal Affairs for Volgograd Oblast'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 734f616aa8acbf86338a116e6825bc08

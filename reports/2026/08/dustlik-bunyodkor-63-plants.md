@@ -15,6 +15,12 @@ summary: >-
   campaign. [@1,2]
 figures:
   plants_destroyed: 63
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [uzbekistan, jizzakh, dustlik, wild-cannabis, eradication]

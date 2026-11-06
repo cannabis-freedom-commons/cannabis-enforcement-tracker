@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.067
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 653668c53666ccf883332a7d21b830f5

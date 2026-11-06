@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 130
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, dinhata, cooch-behar, west-bengal]

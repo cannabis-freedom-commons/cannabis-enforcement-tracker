@@ -24,6 +24,11 @@ media:
     media_url: https://eldoce.tv/resizer/v2/los-detenidos-vendian-droga-en-barrio-los-eucaliptos-SL4NOU23TNHQ3I62CV5GRZWZGU.jpg?auth=3ed26bb3a6d46970f2b28f0741b0442b05b9a2f8357eac5f50c967166f6302e3&width=1440
     publisher: ElDoce.tv
     caption: Second photo accompanying the ElDoce.tv report on the Los Eucaliptos detentions, captioned that the detainees sold drugs in Barrio Los Eucaliptos.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bcfd7dedd0d60bc3e3b94574841ce1e6

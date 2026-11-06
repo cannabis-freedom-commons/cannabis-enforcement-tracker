@@ -17,6 +17,12 @@ summary: >-
 figures:
   prison: 15 years
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ndlea, kano, wudil]
 open_questions:

@@ -26,6 +26,11 @@ media:
     media_url: https://rutube.ru/play/embed/eb8a8d77f9b8c1b94c6915eb51c3ac7a
     publisher: МВД МЕДИА
     caption: 'Police video showing officers opening the hidden compartment inside the cylinder in the car''s boot. Video: GU MVD Russia for St Petersburg and Leningrad Oblast.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c7ec37c444931ba19037d707ac082a4

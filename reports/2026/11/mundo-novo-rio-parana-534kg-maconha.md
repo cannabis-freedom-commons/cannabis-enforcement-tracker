@@ -19,6 +19,12 @@ media:
     media_url: https://douradosinforma.com.br/media/editorjs/apreensao_receita_1793815537,9866.jpg
     publisher: Dourados Informa
     caption: 'A car and the marijuana tablets seized during the integrated operation on the banks of the Rio Paraná in Mundo Novo. Photo: Divulgação/Receita Federal'
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d74274a20a0ef8355a5c4b15cf050e88

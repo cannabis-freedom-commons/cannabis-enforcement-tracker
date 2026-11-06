@@ -14,6 +14,16 @@ summary: >-
   a search warrant that made no arrests but left the shop in disarray. The raid
   came the same day a state appeals court ordered two counties to issue medical
   marijuana ID cards.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dispensary, dea, culver-city]

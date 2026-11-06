@@ -15,6 +15,11 @@ summary: >-
   Interior Ministry gave no amount for the drugs.
 figures:
   deaths: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [beheading, hashish, drug-trafficking]

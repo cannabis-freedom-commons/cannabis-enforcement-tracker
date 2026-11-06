@@ -10,6 +10,12 @@ type: prosecution
 title: Two parents investigated after 14-month-old intoxicated by cannabis in La Rioja
 summary: >-
   Guardia Civil officers in La Rioja are investigating the parents of a 14-month-old boy who was hospitalised with cannabis intoxication. The child remains under provisional social-services custody while police say the parents' account of accidental exposure in a park could not be corroborated.
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e82f330ad9ee1542d4d82f7913c09818

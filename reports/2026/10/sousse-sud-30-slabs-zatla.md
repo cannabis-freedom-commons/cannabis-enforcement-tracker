@@ -14,6 +14,11 @@ summary: >-
   Security units in Sousse Sud, Tunisia, seized 30 slabs of cannabis resin, known as zatla, on the evening of 31 October 2026 and seized a car. Radio Marina reported that a suspect was arrested and detained on the public prosecutor's authorisation, while the search for other members of the network continued.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 59222ff350a47c4a0f26e5be8639d5b6

@@ -13,6 +13,11 @@ summary: >-
   On 28 October, Michurinsky police seized 365 grams of marijuana from a previously convicted 46-year-old resident of Pokrovo-Chicherino in Petrovsky district, Tambov Oblast. Police opened a criminal case under part 2 of Article 228 for large-scale drug storage, with further investigation continuing.
 figures:
   kg_seized: 0.365
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 42120f329ced4cbaa37b08d86b620355

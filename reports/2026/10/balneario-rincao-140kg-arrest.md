@@ -41,6 +41,12 @@ media:
     media_url: https://vodstreaming01.video.globo.com/45/4a/a9/15152471_a98897b8e7074d0567342c3ab697c5e45b88a1fa/15152471-360p_487k_h264-16406dd0-b917-013f-0036-000000000000.mp4
     publisher: G1
     caption: 48-second Jornal do Almoço video report on the man arrested and 140 kg of maconha seized in Balneário Rincão.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  details.agency_types: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3b33f6d39a1e25f135869e49ac79b18a

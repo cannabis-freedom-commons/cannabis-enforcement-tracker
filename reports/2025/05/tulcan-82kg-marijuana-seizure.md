@@ -20,6 +20,11 @@ media:
     media_url: https://www.eluniverso.com/resizer/v2/ZCLW5RM3OFGPROXR3KTFEK6OSY.jpg?auth=de9b8ce890ac3ef73c62b96e9a880f20e61d9070acbc3913b51cbdc81141034b&width=912&height=670&quality=75&smart=true
     publisher: El Universo
     caption: 'Six people captured over drug trafficking in the Posorja and Tulcán operations. Photo: El Universo'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4659e392e79616ef4814096205369e79

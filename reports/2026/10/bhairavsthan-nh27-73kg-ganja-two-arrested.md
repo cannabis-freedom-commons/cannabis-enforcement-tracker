@@ -21,6 +21,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/29/80f5673c-d9dc-4548-a9cf-e4d8c3271937_1793273095560.jpg
     publisher: Dainik Bhaskar
     caption: Police personnel with the seized car and two sacks placed in front of it at the stop on NH-27.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f5617df6625c58a82148f762c61b4518

@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 3700
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [pt-gnr]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [maritime-smuggling]
 media:

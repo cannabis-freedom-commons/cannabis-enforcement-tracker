@@ -21,6 +21,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/22/508c763f-7a29-4299-b976-bc5f27e93d5e_1792661631261.jpg
     publisher: Dainik Bhaskar
     caption: 'The accused kneeling in front of six Rewari police officers after his arrest. Photo: Dainik Bhaskar'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0fda333da4afaa7c1c9b9f2be499b395

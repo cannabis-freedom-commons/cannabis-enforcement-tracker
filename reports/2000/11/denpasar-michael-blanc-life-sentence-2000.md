@@ -16,6 +16,11 @@ figures:
   kg_seized: 3.85
   prison: life imprisonment
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [hashish, bali, life-sentence]
 open_questions:

@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 185
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3, 6, 7]
+  details.agency_types: [1, 3, 6, 7]
+  details.products: [2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 40845fbadc0828cf06ff5ba84e295ab5

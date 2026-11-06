@@ -21,6 +21,10 @@ media:
     media_url: https://sunamkantha.com/public/postimages/6ae408cfbc437.jpg
     publisher: Daily SunamKantha
     caption: The arrested man, his face blurred, before a press-briefing banner; photo published with the Daily SunamKantha report.
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 055212df840d5f2cd22cf2addd0e40c5

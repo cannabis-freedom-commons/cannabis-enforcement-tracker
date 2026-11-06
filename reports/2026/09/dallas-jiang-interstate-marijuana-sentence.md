@@ -15,6 +15,12 @@ summary: >-
 figures:
   charged: 1
   prison: 60 months
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: openai/gpt-6.1-sol#xhigh
 tags: [texas, dallas, oklahoma, interstate-trafficking, federal-court]

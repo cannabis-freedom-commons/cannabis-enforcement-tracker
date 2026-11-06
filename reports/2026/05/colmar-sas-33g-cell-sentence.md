@@ -18,6 +18,13 @@ summary: >-
 figures:
   kg_seized: 0.033
   prison: 8 months (4 firm)
+details:
+  setting: [prison]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [colmar, prison, sas, resin]

@@ -23,6 +23,13 @@ media:
     media_url: https://cf-images.assettype.com/pudharinews%2F2026-10-30%2Fj0l5yqui%2F7.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Pudhari News
     caption: 'A group of men standing among the cannabis plants on forest land in Shirpur taluka. Photo: Pudhari'
+details:
+  activity: [cultivation]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6e450ce5530a1d31ee98c4e7e7d21bbf

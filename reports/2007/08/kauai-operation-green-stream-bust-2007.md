@@ -18,6 +18,10 @@ figures:
   arrested: 5
   plants_destroyed: 5922
   value: { amount: 5900000, currency: USD }
+details:
+  environment: [outdoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [operation-green-stream, kauai, outdoor-grow]

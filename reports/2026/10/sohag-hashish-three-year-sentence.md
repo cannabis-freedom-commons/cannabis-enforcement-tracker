@@ -16,6 +16,13 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years
+details:
+  activity: [trafficking]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 05ea4082a5823c893a10ad32b93328d6

@@ -36,6 +36,12 @@ media:
     media_url: https://images.swr.de/image/bbf602e7-7d04-4004-9d6e-96c37a44b74c/AAABoati5N0/AAABknajoc8/16x9-M/cannabis-plantage-drogenrazzia-100.jpg
     publisher: SWR Aktuell
     caption: 'One of the cannabis plantations discovered in the raids, including about 300 plants in Jeckenbach. Photo: Zollfahndungsamt Frankfurt am Main'
+details:
+  agencies: [de-bka]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0e2cd996cc95e4910a18d0a509adac8e

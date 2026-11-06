@@ -23,6 +23,11 @@ media:
     media_url: https://media.abtakmedia.com/wp-content/uploads/2026/11/1793794500/%E0%AA%96%E0%AB%80%E0%AA%B0%E0%AA%B8%E0%AA%B0%E0%AA%BE-%E0%AA%AA%E0%AB%87%E0%AA%B2%E0%AB%87%E0%AA%B8-%E0%AA%AA%E0%AA%BE%E0%AA%B8%E0%AB%87%E0%AA%A5%E0%AB%80-860x645.jpg.webp
     publisher: Abtak Media
     caption: Lead photo captioned as the man from UP caught near Khirsara Palace with ganja worth Rs 84,000.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f7f94f89ac8829ca5ca3adc37b526bef

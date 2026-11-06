@@ -20,6 +20,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/05/612610-untitled-1.webp
     publisher: Disha Daily
     caption: Photograph published with the Disha report on the ganja cultivation inside the walled plot at Kaisar Nagar, Suraram.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bb485bbb3d3644d46c507d4b13e8643f

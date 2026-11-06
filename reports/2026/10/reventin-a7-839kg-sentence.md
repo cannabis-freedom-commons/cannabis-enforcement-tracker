@@ -18,6 +18,15 @@ summary: >-
 figures:
   kg_seized: 839
   prison: 10 years
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [reventin, a7, go-fast, resin, ofast]

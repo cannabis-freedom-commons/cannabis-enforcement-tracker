@@ -25,6 +25,11 @@ media:
     media_url: https://repost.uz/storage/uploads/thumbnails/0-1781672880-Oleg-post-material-large.webp
     publisher: Repost.uz
     caption: Photo of the seized drugs, credited to the State Security Service.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9216cddbcb3a8ee791005b98fbb4d059

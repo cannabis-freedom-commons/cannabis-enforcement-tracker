@@ -17,6 +17,17 @@ figures:
   kg_seized: 7.335
   value: { amount: 7335000, currency: PHP }
 created_by_model: unknown
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2, 4, 5]
+  details.setting: [1, 2]
 status: verified
 tags: [kush, airport, bangkok-route]
 open_questions:

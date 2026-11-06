@@ -14,6 +14,10 @@ summary: >-
   Guardia Civil Estatal officers arrested two men described as priority targets in Matehuala and Ciudad Fernández, in San Luis Potosí. One was carrying about twelve small bags of marijuana and 15 tyre spikes; the other had 320 marijuana cigarettes, the force said.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c24c04a3a83e36fcce2779d53f77137a

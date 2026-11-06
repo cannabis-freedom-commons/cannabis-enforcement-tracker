@@ -19,6 +19,14 @@ media:
     media_url: https://www.ctvnews.ca/resizer/v2/UFLOC25G5NC5ZOAHWD5B3AJN4Q.jpeg?smart=true&auth=30ab3d832f0f53d8df7a27fc05c9757975b36ee82608c93b246e3d5c9301c919&width=1600&height=900
     publisher: CTV News
     caption: 'Photo of the gun and marijuana seized at the Gordie Howe International Bridge on Oct. 27, 2026. Photo: @DFODetroit/X via CTV News'
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 343ddb54d04d4ce260f1749d6b34d786

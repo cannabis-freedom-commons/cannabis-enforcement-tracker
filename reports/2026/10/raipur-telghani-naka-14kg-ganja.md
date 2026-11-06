@@ -24,6 +24,15 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/30-10-2026/1200-675-27993419-thumbnail-16x9-n-image-aspera.jpg
     publisher: ETV Bharat
     caption: 'The three arrested suspects seated with Ganj police officers, with bags and the seized cannabis in front of them. Photo: ETV Bharat'
+details:
+  agencies: [in-anf]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 4db330903de3399eb11d20e6953391be

@@ -31,6 +31,10 @@ media:
     media_url: https://kymkemp.com/wp-content/uploads/2026/11/885054050_1148007387573010_6103084913232717606_n.jpeg
     publisher: Redheaded Blackbelt
     caption: 'Sheriff''s photo of mature indoor marijuana plants from the grow. Photo: Shasta County Sheriff''s Office via Redheaded Blackbelt'
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 97e6099ee42c1ea5c7e15e13ad5d397e

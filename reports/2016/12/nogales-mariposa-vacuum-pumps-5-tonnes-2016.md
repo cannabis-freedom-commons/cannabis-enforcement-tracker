@@ -20,6 +20,12 @@ figures:
   kg_seized: 4535.92
   value: { amount: 5040000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-hsi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cbp, border, tractor-trailer]
 sources:

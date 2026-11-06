@@ -18,6 +18,11 @@ figures:
   value:
     amount: 22400
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: daa4068849bfd10708ad74b0bbfcc1ea

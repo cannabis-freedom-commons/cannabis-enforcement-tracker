@@ -18,6 +18,10 @@ summary: >-
   arraignment.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kiambu, homa-bay, dci, nanib, trafficking]

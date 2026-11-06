@@ -18,6 +18,10 @@ figures:
   arrested: 3
   plants_destroyed: 16000
 created_by_model: meta/muse-spark
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [houten, greenhouse, nursery]
 open_questions:

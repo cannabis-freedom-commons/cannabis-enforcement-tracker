@@ -19,6 +19,12 @@ figures:
   arrested: 5
   plants_destroyed: 1500000
   hectares: 155
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [bnn, aceh, rencong, outdoor-cultivation]

@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 30000
   hectares: 12
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [aceh, nagan-raya, bnn, eradication]
 open_questions:

@@ -14,6 +14,17 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 430f6485c1ea54c7c1fc010b0ab6c4aa

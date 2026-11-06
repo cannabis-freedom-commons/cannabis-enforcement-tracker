@@ -25,6 +25,11 @@ media:
     media_url: https://img.naidunia.com/naidunia/ndnimg/30102026/30_10_2026-dhar_me_mile_ganje_ke_paudhe.webp
     publisher: Nai Dunia
     caption: 'A police team seizing cannabis plants from a field in Borda village. Courtesy: police.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 7cf932527defca2ef62c6d35bb049857

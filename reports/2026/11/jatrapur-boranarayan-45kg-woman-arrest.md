@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 45.9
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2cb13f30899b2c5ce0e03ff4a1164148

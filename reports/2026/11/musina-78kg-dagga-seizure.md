@@ -21,6 +21,11 @@ media:
     media_url: https://www.thesouthafrican.com/wp-content/uploads/2026/11/2026-11-03-post-2530779.jpg.webp
     publisher: The South African
     caption: 'Seized dagga from the Musina border operation. Photo: X@Abramjee'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6c8117bbeacd33a9d77c1eb4befedcfd

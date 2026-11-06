@@ -28,6 +28,10 @@ media:
     media_url: https://newsday.co.tt/wp-content/uploads/2025/04/23994357-1024x768.jpg
     publisher: Trinidad and Tobago Newsday
     caption: A section of the marijuana plantation destroyed by police in Moruga. Photo courtesy TTPS.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 73431a76e99161cb55b766f3654f48a4

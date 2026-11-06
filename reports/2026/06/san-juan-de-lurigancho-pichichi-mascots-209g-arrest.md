@@ -40,6 +40,11 @@ media:
     media_url: https://elcomercio.pe/resizer/v2/M7WO4FFL7BF7XDMU626LACH7TM.jpg?auth=b9fabd4ea1322ad5a438dde4c5fb9698650422f75d2fa2176f8ab94aa778d02a&width=980&height=653&quality=75&smart=true
     publisher: El Comercio
     caption: 'A television grab of the operation in San Juan de Lurigancho with officers in the 2026 World Cup mascot costumes. Photo: Video capture / América TV'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b34501ad5d0d191c02fdf221639e1b22

@@ -16,6 +16,10 @@ summary: >-
   known to the security services, and the drugs were later burned at the Anjouan court.
 figures:
   kg_seized: 149
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2, 4]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [comoros, anjouan, coast-guard, maritime, incineration]

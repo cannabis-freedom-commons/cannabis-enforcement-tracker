@@ -24,6 +24,10 @@ media:
     media_url: https://i0.wp.com/stluciastar.com/wp-content/uploads/2013/02/IMG_1074.jpg?w=550&ssl=1
     publisher: THE STAR - St Lucia
     caption: Second photograph published with the account of the 23 February 2013 eradication at St Phillips, Fond St Jacques, Soufriere; the page carries no caption or credit for it.
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5fc43cb784d762e1e44b18676b3e8159

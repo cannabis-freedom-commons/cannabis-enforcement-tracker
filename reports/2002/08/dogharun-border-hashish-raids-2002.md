@@ -15,6 +15,10 @@ summary: >-
   IRNA agency report gave no date for the raids.
 figures:
   kg_seized: 4545
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [border, smuggling]

@@ -20,6 +20,12 @@ figures:
   kg_seized: 100100
   value: { amount: 128000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [nueva-alianza, senad, brazil, joint-operation]
 open_questions:

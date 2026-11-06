@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 7
   value: { amount: 40000000, currency: ZAR }
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [saps, hydroponic-lab, organised-crime]

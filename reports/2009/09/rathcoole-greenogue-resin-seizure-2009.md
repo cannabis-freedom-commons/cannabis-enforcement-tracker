@@ -17,6 +17,15 @@ figures:
   arrested: 3
   value: { amount: 2000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 tags: [rathcoole, resin, greenogue]
 open_questions:

@@ -18,6 +18,12 @@ figures:
   arrested: 3
   plants_destroyed: 415000
   hectares: 67
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [navarre, guardia-civil, industrial-hemp-cover, cbd]

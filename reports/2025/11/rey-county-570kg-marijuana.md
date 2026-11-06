@@ -18,6 +18,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 570
+details:
+  agencies: [ir-dchq]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [tehran, rey, marijuana]

@@ -19,6 +19,11 @@ media:
     media_url: https://hyderabadmail.com/wp-content/uploads/2026/11/Goshamahal-traffic-police-seize-ganja-from-two-men-at-Alaska-Junction-1-300x230.jpg
     publisher: Hyderabad Mail
     caption: Photo of the Goshamahal traffic police seizure of ganja from two men at Alaska Junction.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7987b742c227f8f69cb2e51bb159dab2

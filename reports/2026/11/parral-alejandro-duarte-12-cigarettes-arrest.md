@@ -19,6 +19,12 @@ media:
     media_url: https://www.digitalmex.mx/media/k2/items/cache/cd85c48dc7bae5e91978cc21cd111ee8_XL.jpg?t=20261104_221727
     publisher: DigitalMex
     caption: Photo published with the detention report about Alejandro Duarte Jáquez detained in Hidalgo del Parral with reported narcotics and cartridges.
+details:
+  agencies: [mx-sedena]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f26691500ca197026be370d7647d27f6

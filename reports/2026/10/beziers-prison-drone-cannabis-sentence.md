@@ -17,6 +17,10 @@ figures:
   charged: 2
   kg_seized: 0.09725
   prison: 15 months firm; six months suspended
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: cafe42e828fb0a9bef6dbea681fe69a8

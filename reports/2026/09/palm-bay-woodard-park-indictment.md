@@ -16,6 +16,11 @@ figures:
   arrested: 2
   charged: 2
   deaths: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fb6f00e7c878f80b035faaa2a849db59

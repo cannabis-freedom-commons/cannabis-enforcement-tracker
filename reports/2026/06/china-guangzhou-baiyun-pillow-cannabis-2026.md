@@ -13,6 +13,10 @@ summary: >-
   Guangzhou Baiyun airport customs seized 47.52264 kg of cannabis from a transit express parcel declared as low-allergy memory-foam pillows. Officers said 48 opened pillows contained foil- or plastic-wrapped green plant material that tested as cannabis; the case was handled under customs drug-enforcement rules with no arrests named.
 figures:
   kg_seized: 47.52264
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, guangzhou, customs, airport]

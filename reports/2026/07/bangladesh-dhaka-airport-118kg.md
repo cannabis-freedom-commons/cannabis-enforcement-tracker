@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 11.8
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, thailand-route, green-channel, indian]

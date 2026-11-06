@@ -27,6 +27,13 @@ media:
     media_url: https://media.southpasadenan.com/wp-content/uploads/south-pasadena-news-04-24-2019-police-officers-several-cars-pull-over-suspects-carrows-06.jpg
     publisher: The South Pasadenan
     caption: 'Officers and patrol cars at the Carrow''s parking lot during the marijuana edibles stop. Photo: Steven Lawrence | SouthPasadenan.com News'
+details:
+  setting: [vehicle]
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d1d5ba7dd9cb47035ae073fea6361b0f

@@ -12,6 +12,10 @@ summary: >-
   A prisoner at Marneffe returned from temporary leave with 7 grams of cannabis he had obtained while away. Prison guards quickly found it during a search, and the prisoner said he needed it to sleep.
 figures:
   kg_seized: 0.007
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 479a47c4f78d90d0ca7c693537fed1ea

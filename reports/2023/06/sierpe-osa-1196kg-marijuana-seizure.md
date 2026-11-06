@@ -20,6 +20,10 @@ media:
     media_url: https://images.hoy.cr/cdn-cgi/image/width=1200,quality=80,format=auto/wp-content/uploads/2023/06/Decomiso-de-droga-en-Osa.jpg
     publisher: CR Hoy
     caption: The article's photo for the Osa seizure, captioned only 'Decomiso de droga en Osa' (drug seizure in Osa); no photo credit was published.
+details:
+  setting: [port]
+data_sources:
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 30cecb2f825d06d50df2ef2e731b2f55

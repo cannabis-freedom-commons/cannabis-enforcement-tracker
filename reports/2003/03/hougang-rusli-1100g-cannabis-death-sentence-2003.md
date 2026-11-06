@@ -18,6 +18,12 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 1.1002
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cnb, mandatory-death-penalty, hougang]

@@ -25,6 +25,11 @@ media:
     media_url: https://france3-regions.franceinfo.fr/image/A-PZjbWOyXIP9UEWTDhv--m0K98/930x620/filters:format(webp)/regions/2024/03/15/photo-2024-03-09-22-02-13-65f4634e24552624276909.jpg
     publisher: France 3 Occitanie
     caption: 'Customs photo of the drug seizure made with the sniffer dog. Photo: Brigade des douanes de Narbonne'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a85f7b86b85bd56247b63a2bb5369c7

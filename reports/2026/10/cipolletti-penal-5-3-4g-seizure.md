@@ -13,6 +13,10 @@ summary: >-
   Prison officers in Cipolletti found a package with 3.4 grams of cannabis thrown over the wall into Penal 5 during a 9 p.m. perimeter patrol. The Federal Prosecutor's Office ordered its seizure and field testing, which was positive for cannabis; no suspect or arrest was reported.
 figures:
   kg_seized: 0.0034
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f5a97cfb6751efcf1d2cfde78569bebc

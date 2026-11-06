@@ -18,6 +18,12 @@ summary: >-
 figures:
   kg_seized: 45.36
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, oceanside, compliance]
 open_questions:

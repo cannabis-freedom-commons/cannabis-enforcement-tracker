@@ -20,6 +20,15 @@ media:
     media_url: https://www.poresto.com/media/2026/10/30/fuerzas-federales-aseguran-inmueble-presuntas-drogas-uman.jpg
     publisher: PorEsto
     caption: 'Federal forces secure a property with suspected drugs in Umán. Photo: Especial'
+details:
+  agencies: [mx-sedena, mx-gn, mx-fgr]
+  agency_types: [military, gendarmerie, prosecutor]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 7dced5a7bf3c2f5acd85388276538746

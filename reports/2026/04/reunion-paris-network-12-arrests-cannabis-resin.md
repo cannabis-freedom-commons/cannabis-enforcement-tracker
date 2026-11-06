@@ -24,6 +24,11 @@ media:
     media_url: https://www.gendarmerie.interieur.gouv.fr/var/site/storage/images/_aliases/dsfr_md.2x/0/6/1/3/583160-1-fre-FR/f06462ac1c13-COMGENDRE_STUP_2-imageonline.co-merged.png
     publisher: Gendinfo, Gendarmerie nationale
     caption: 'Gendarmerie handout photo illustrating the 13 April 2026 drug operation between Réunion and the Paris region. Photo: COMGENDRE / UNPJ'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bfd1db6df60b4552bb08265919bb686d

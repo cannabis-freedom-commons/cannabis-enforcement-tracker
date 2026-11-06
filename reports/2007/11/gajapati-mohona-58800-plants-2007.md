@@ -16,6 +16,12 @@ figures:
   plants_destroyed: 58800
   hectares: 16.19
   value: { amount: 15000000, currency: INR }
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [excise, eradication-drive]

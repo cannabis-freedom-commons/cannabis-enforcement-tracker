@@ -15,6 +15,11 @@ summary: >-
 figures:
   charged: 88
   kg_seized: 11.863
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 38da4e0695eef33150a3e4893f58202d

@@ -19,6 +19,15 @@ media:
     media_url: https://www.dm.com.br/wp-content/uploads/2026/11/Copia-de-f1.-2026-11-02T202957.810.png
     publisher: Diário da Manhã
     caption: 'Photo of the seized maconha, skunk, crack and cocaine after the arrest in Rio Verde. Photo: Reprodução'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 33e328f1780f86e73cf5d9255510979d

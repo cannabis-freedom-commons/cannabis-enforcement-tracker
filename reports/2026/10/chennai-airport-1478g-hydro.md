@@ -27,6 +27,12 @@ media:
     media_url: https://www.dinakaran.com/sortd-service/imaginary/v22-01/webp/medium/high?url=cHVibGlzaC1kaW5ha2FyYW4tY29tLXByb2Qtc29ydGQvbWVkaWE0NWU4YjVkMC1kNTFlLTExZjEtYmEwMy03Nzk1Y2RmYTk3ZmUuanBn
     publisher: Dinakaran
     caption: The 10 numbered packets of hydroponic cannabis laid out after the seizure at Chennai airport.
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2, 3, 4, 5]
+  details.setting: [4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ce4c85a88421cc1d026a35aca5a3c731

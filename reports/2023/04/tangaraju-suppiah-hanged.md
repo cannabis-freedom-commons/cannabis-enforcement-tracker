@@ -17,6 +17,12 @@ figures:
   kg_seized: 1.0179
   deaths: 1
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [cnb, mandatory-death-penalty, conspiracy]
 open_questions:

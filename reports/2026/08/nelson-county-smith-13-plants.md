@@ -16,6 +16,13 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 13
+details:
+  setting: [home]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 67c5f85937bdd01f8645004c74283ba9

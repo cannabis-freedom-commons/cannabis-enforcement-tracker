@@ -13,6 +13,12 @@ summary: >-
   In the first month of Kazakhstan's 2023 Qarasora operation police reported 221 drug offences and 82 cultivation cases, and the interior ministry listed 614 kg of marijuana and 29 kg of hashish among the drugs seized, a cannabis total of 643 kg. Detentions were reported across the Zhambyl, Kostanay, Almaty and Turkestan regions.
 figures:
   kg_seized: 643
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 4347511eeb4dd6a31123f4659d9b64b8

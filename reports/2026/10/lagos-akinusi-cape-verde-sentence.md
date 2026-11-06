@@ -19,6 +19,14 @@ figures:
   fine:
     amount: 500000
     currency: NGN
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: c9e88f3a4ee8fd60189937de9a1549f3

@@ -16,6 +16,15 @@ figures:
   kg_seized: 2400
   value: { amount: 4960000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [resin, customs, spain-route]
 open_questions:

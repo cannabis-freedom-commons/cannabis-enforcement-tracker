@@ -30,6 +30,15 @@ media:
     media_url: https://www.tv47.digital/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-9.31.26-AM-3-1333x1000.jpeg
     publisher: TV47 Digital
     caption: Seized bhang rolls marked with evidence tags after the Jericho raid.
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+  products:
+    - {product: edibles}
+data_sources:
+  details.agencies: [1, 4, 6, 7]
+  details.agency_types: [1, 4, 6, 7]
+  details.products: [1, 3, 4, 5, 6, 7, 8, 9]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: beaebe6e3abced89eb0032c92f14f42a

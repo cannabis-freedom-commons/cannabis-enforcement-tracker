@@ -23,6 +23,11 @@ media:
     media_url: https://img.luxtimes.lu/public/luxembourg/6e5697-picture-title-binary/alternates/SIXTEEN_NINE_960/Picture%20title%20binary
     publisher: Luxembourg Times
     caption: 'Photograph published with the report showing seized items, including packaged suspected drugs, phones and euro banknotes laid on a counter, credited in the image to the SREC Diekirch. Photo: SREC Diekirch'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3f9f768c64a0e5c09b5eb746ae035b6f

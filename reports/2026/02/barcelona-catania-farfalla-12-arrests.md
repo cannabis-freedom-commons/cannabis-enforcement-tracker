@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 12
   plants_destroyed: 1670
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [barcelona, catania, eurojust, indoor]

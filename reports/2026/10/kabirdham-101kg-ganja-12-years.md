@@ -19,6 +19,11 @@ figures:
   fine:
     amount: 100000
     currency: INR
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9938a71b7bf60ac3281afa12bac8a9ca

@@ -19,6 +19,13 @@ media:
     media_url: https://multi-admin.ru/mediabank_blog/11/394995/f21375c9e01ae153386ea1ed7c7cbf33_394995.jpg
     publisher: Radio 1
     caption: 'Press-service photo published with the report on the seized drugs. Photo: FTS press service'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 67c80ccb3e54c19541125a14e94119b8

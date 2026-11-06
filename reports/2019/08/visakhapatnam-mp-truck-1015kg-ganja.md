@@ -19,6 +19,12 @@ figures:
   arrested: 1
   kg_seized: 1015
   value: { amount: 15225000, currency: INR }
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [dri, interstate-smuggling]

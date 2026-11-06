@@ -15,6 +15,12 @@ figures:
   arrested: 2
   plants_destroyed: 82
   kg_seized: 7.727
+details:
+  products:
+    - {product: flower}
+    - {product: oil}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 90b2315c07eb794cc69353593d2d43ae

@@ -25,6 +25,13 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/6669ad8964c81829410b207b/width_1000/image.jpg
     publisher: France-Antilles Martinique
     caption: 'The check-in hall of Martinique Aimé Césaire airport in Le Lamentin, where customs officers stopped the passenger on 31 May 2024. The outlet publishes the picture without a caption or credit. Photo: France-Antilles Martinique'
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 73abc98e4810f63907bd78a506117fd6

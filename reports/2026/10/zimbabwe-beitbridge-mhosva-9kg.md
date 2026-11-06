@@ -17,6 +17,13 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 9
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [beitbridge, border-post, dagga, bus]

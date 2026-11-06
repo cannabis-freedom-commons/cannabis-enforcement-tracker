@@ -25,6 +25,11 @@ media:
     media_url: https://www.youtube.com/embed/EcpHr_S0bV4?feature=oembed
     publisher: Fibwi Diario
     caption: 'Video report on the operation against the three round-the-clock drug sales points in La Soledat, Palma; the thumbnail shows a National Police officer at a doorway. Video: Fibwi Diario.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c5fc613a45fe42b461b87b1b26cbc231

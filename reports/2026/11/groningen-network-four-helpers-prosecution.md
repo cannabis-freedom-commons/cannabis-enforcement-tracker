@@ -12,6 +12,11 @@ summary: >-
   Four alleged helpers of a Groningen drug network faced trial in Groningen under plea deals, with prosecutors seeking prison and community-service terms. The case centres on large 2020 cannabis imports from Spain alongside other drugs moved as part of the same network.
 figures:
   charged: 4
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d2c0f8e57e4f928762b6f73b85203bc1

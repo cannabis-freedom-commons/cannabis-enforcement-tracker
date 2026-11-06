@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 25
   kg_seized: 5000
+details:
+  agencies: [it-gdf]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [catanzaro, albania-route, ndrangheta]

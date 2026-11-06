@@ -17,6 +17,17 @@ figures:
   arrested: 2
   kg_seized: 48000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [guardia-civil, hashish, record-haul, port]
 sources:

@@ -20,6 +20,11 @@ figures:
   fine:
     amount: 5000
     currency: INR
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d734b6d5dbc2fda2aca5e02d26147beb

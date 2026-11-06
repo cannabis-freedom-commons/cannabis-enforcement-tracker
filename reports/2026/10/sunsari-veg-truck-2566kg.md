@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2566
+details:
+  activity: [trafficking]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sunsari, truck, trafficking]

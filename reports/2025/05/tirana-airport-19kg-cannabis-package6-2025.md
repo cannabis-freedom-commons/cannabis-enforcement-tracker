@@ -17,6 +17,10 @@ figures:
   value:
     amount: 388000
     currency: EUR
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6978706589dcf2da6cdb37898262a1f

@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 28
   kg_seized: 844
+details:
+  agencies: [dz-anp]
+  agency_types: [military]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b1b55067b002cebf600dff5820352cfe

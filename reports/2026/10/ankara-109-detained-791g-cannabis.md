@@ -17,6 +17,11 @@ figures:
   charged: 40
   plants_destroyed: 49
   kg_seized: 0.791
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1e59522d2b3bad929d64f1d7e604a3d5

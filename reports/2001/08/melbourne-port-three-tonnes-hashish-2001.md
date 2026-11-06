@@ -18,6 +18,15 @@ figures:
   arrested: 5
   charged: 5
   kg_seized: 3000
+details:
+  agencies: [au-afp]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [port-melbourne, hashish, containers]

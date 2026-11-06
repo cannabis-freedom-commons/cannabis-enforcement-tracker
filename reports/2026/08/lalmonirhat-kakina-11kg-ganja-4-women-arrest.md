@@ -20,6 +20,15 @@ media:
     media_url: https://banglaralonews.com/public/postimages/6a8a893d1db3d.jpg
     publisher: Banglar Alo News
     caption: 'Photo of the reported detention of four women drug dealers with 11 kg of ganja in Lalmonirhat. Photo: Banglar Alo News.'
+details:
+  agencies: [bd-rab]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 01c03ab43d20ec66230e71e8a0e43b75

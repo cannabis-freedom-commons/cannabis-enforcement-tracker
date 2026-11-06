@@ -14,6 +14,12 @@ summary: >-
 figures:
   hectares: 4
 created_by_model: openai/gpt-6
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 open_questions:
   - No plant count or arrests were reported.

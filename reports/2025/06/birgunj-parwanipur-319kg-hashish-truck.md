@@ -23,6 +23,13 @@ media:
     media_url: https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2025/06/27/40831.jpg&w=800&q=100&f=webp
     publisher: The Himalayan Times
     caption: 'Police photograph of the seized hashish published with the Birgunj truck seizure report. Photo: Nepal Police/facebook'
+details:
+  setting: [vehicle]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 33049b25d61df4b30c5fba10c8e7e2d5

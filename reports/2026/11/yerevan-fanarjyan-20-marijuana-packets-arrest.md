@@ -13,6 +13,13 @@ summary: >-
   Yerevan community police detained two residents aged 19 and 20 who allegedly bought 20 marijuana packets for 250 dollars over Telegram to place in dead-drop caches. Officers recovered part of the packets in a search and part where one suspect threw them while fleeing, and both were remanded in custody after a criminal case was opened.
 figures:
   arrested: 2
+details:
+  setting: [online]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4755d228229d3d54f72b7a2f4add0f4d

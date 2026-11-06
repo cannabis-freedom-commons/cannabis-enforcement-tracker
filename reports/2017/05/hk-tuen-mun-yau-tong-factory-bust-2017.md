@@ -16,6 +16,10 @@ summary: >-
 figures:
   arrested: 10
   kg_seized: 24
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indoor-grow, factory-unit, vietnamese-workers]

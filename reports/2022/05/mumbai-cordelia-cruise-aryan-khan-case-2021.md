@@ -25,6 +25,12 @@ media:
     publisher: LiveMint
     caption: Aryan Khan escorted in custody after the NCB raid on the Cordelia cruise
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ncb, cruise-ship]
 sources:

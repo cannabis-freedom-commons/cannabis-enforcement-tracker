@@ -18,6 +18,15 @@ figures:
   arrested: 5
   kg_seized: 6044
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [hashish, sailboat, canary-islands, organised-crime]
 open_questions:

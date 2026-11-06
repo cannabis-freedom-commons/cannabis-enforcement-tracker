@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 554
   prison: 17 months
   value: { amount: 372540, currency: GBP }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [inverurie, cultivation, sheriff-court]

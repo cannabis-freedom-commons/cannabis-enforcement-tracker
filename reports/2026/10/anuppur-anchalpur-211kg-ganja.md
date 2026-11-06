@@ -32,6 +32,11 @@ media:
     media_url: https://rajexpress.com/cdn-cgi/image/width=750,quality=75,format=auto,onerror=redirect/https://storage.googleapis.com/raj-express-raw-media/raj-express-production/images/94a068ac-863f-4ac4-9a1d-ecd9bb1853a3.webp
     publisher: Raj Express
     caption: Police officers with sacks of seized ganja and the car after the interception in Rajendragram.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9dd8844cc7d330f305e581ea9fbf8e9a

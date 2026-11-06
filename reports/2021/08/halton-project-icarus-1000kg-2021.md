@@ -19,6 +19,12 @@ figures:
   charged: 12
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-cbsa]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [project-icarus, halton, record-seizure]
 media:

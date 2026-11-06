@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 37000
   hectares: 10.1
 created_by_model: unknown
+details:
+  agencies: [in-ncb, in-bsf]
+  agency_types: [anti-narcotics, border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [ncb, joint-operation]
 sources:

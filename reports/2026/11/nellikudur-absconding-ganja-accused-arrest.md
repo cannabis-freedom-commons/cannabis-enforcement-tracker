@@ -20,6 +20,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/03/612097-yu.webp
     publisher: Disha Daily
     caption: Photo accompanying the report on the arrest of the absconding accused in the ganja case.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 56f1301d0f1963d9bbdb5f7c11652908

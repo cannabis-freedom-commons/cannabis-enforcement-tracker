@@ -17,6 +17,10 @@ summary: >-
 figures:
   prison: 26 months
 created_by_model: unknown
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [possession, gummies, basketball, medical-claim]
 sources:

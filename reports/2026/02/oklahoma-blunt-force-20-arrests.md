@@ -19,6 +19,12 @@ figures:
   arrested: 20
   charged: 19
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [omma, organized-crime, blunt-force]
 open_questions:

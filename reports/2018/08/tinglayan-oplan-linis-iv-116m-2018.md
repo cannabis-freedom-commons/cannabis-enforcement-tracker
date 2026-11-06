@@ -18,6 +18,14 @@ figures:
   value: { amount: 11600000, currency: PHP }
 tags: [eradication, cordillera, pdea]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 media:
   - kind: photo

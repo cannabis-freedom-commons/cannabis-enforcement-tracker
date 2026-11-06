@@ -23,6 +23,15 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-11-05/1793896822_1006691819.jpg
     publisher: Suryaa News
     caption: 'Page photo published with the report on the Kallakal seizure of 956 grams of dry ganja. Photo: Suryaa News'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 31844cc2672f834ad754b4c5d1769d4f

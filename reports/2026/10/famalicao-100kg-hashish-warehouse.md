@@ -19,6 +19,15 @@ figures:
   arrested: 1
   kg_seized: 100
 created_by_model: xai/grok-4.7
+details:
+  agencies: [pt-pj]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 tags: [famalicao, pj, hashish]
 open_questions:

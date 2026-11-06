@@ -12,6 +12,11 @@ summary: >-
   Transnistrian police detained three couriers from Moldova — two men and a woman — who rented a flat in Tiraspol and placed about 500 drug stash drops around the republic. The Interior Ministry named hashish alongside mephedrone and alpha-PVP among the drugs they sold; selling carries up to 20 years.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: e8ddc38e4f1c158ea5184a51715ead7e

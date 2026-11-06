@@ -26,6 +26,12 @@ media:
     media_url: https://assets.thejasnews.com/h-upload/2026/11/02/261171-arrest.webp
     publisher: Thejas News
     caption: Photo published with the report on the man held with hashish oil and methamphetamine at the Palakkad toll plaza.
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa47ffd2f7c58b884e117f40f231afe5

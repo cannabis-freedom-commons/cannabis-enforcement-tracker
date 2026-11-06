@@ -17,6 +17,10 @@ summary: >-
   Etoile, changed his plea to guilty after first denying the charge.
 figures:
   kg_seized: 68.648
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [port, importation, container]

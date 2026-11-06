@@ -17,6 +17,12 @@ figures:
   kg_seized: 8618
   arrested: 2
   value: { amount: 13000000, currency: USD }
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [houston, stash-house, school-buses, trafficking]

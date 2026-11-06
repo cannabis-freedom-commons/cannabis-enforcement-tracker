@@ -17,6 +17,11 @@ summary: >-
   truck and the people in the gang. No names or exact count were given.
 figures:
   kg_seized: 85
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [libya, hashish, murqub]

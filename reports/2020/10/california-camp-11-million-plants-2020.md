@@ -28,6 +28,12 @@ media:
     media_url: https://www.youtube.com/watch?v=YI1oI2zKs-o
     publisher: California Department of Justice
     caption: B-roll from the 2020 CAMP season released by the attorney general's office
+details:
+  agencies: [us-dea, us-camp]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [camp, becerra, public-lands]

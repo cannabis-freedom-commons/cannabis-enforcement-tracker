@@ -17,6 +17,17 @@ figures:
   kg_seized: 15700
   value: { amount: 24000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-vigilancia-aduanera, int-europol]
+  agency_types: [customs, police]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-urca, maritime, hashish]
 sources:

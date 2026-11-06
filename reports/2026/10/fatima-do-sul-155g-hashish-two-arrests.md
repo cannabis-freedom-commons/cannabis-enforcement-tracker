@@ -21,6 +21,16 @@ media:
     media_url: https://fatimaemdia.com.br/images/noticias/44253/30102955_DROGA.jpeg
     publisher: Fátima em Dia
     caption: 'Drugs photograph published with the Fátima do Sul arrest report (file name DROGA). Credit: Fátima em Dia'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 8321a28f9573208dd3cbf82c53bb3a71

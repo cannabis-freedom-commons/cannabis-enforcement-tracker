@@ -16,6 +16,11 @@ summary: >-
 figures:
   charged: 4
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [standerton, dagga, appeal]
 sources:

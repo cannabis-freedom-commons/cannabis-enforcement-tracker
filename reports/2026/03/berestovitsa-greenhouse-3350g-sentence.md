@@ -18,6 +18,10 @@ summary: >-
 figures:
   plants_destroyed: 15
   kg_seized: 3.351
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [greenhouse, personal-cultivation]

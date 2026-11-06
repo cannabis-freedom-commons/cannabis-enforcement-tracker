@@ -17,6 +17,14 @@ figures:
   kg_seized: 44702.6625
   hectares: 8.3
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [building]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ndlea, warehouse, farm-raid]
 open_questions:

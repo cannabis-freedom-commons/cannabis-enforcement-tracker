@@ -21,6 +21,11 @@ media:
     media_url: https://fijionenews.com.fj/wp-content/uploads/2026/09/lolomo-drugs.jpg
     publisher: Fiji One News
     caption: Foil-wrapped bundles of dried leaves reported as recovered during the Lomolomo arrest.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6
 tags: [lautoka, lomolomo, marijuana, police]

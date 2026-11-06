@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b57db992e5ccd3e1bb84804704f72cb1

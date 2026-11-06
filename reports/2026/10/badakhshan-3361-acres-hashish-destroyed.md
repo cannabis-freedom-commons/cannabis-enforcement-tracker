@@ -14,6 +14,11 @@ summary: >-
   Badakhshan province in a two-week campaign to 5 October 2026, warning
   growers of stern action against poppy, hashish and other illegal crops.
 figures: {}
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [badakhshan, eradication, hashish, campaign]

@@ -24,6 +24,15 @@ media:
     media_url: https://static.plox.com.br/uploads/body/news/2026-11/img_6aea1b35a1350.avif
     publisher: Plox
     caption: 'Police photo relating to the arrest of the 33-year-old man in Caratinga. Photo: Divulgação/Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a1119bf48b0684a44080ad42805824a1

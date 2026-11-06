@@ -16,6 +16,12 @@ figures:
   charged: 3
   deaths: 1
   prison: 67 years and four months to life; 84 years to life; 54 years to life
+details:
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f13f7abf86e315a0d6a3eadcf418ba80

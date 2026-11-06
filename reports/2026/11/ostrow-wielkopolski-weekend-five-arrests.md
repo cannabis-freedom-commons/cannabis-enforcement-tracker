@@ -13,6 +13,13 @@ summary: >-
   Ostrów Wielkopolski police detained five men aged 24 to 36 between 30 October and 1 November 2026, seizing marijuana alongside amphetamine and methamphetamine. Police reported combined mixed-drug totals of nearly 60 grams and more than 30 grams, with no cannabis-only weight given, and said further proceedings will follow.
 figures:
   arrested: 5
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 58b86730014a73a50398f40155719cbf

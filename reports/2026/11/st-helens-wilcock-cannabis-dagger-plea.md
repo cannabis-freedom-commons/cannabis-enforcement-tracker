@@ -12,6 +12,10 @@ summary: >-
   Daniel Wilcock, 31, pleaded guilty to five charges including cannabis possession and possession of a push dagger from offences in St Helens and Sefton on August 25. He was due to be sentenced at Liverpool, Knowsley and St Helens Magistrates’ Court on November 3 after an adjournment for a pre-sentence report.
 figures:
   charged: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a93fccf5ebc1b4a90fc78c0d3834b187

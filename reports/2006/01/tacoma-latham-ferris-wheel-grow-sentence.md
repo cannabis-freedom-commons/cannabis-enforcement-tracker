@@ -15,6 +15,14 @@ summary: >-
   caught him moving the operation in March 2004.
 figures:
   prison: 15 years
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [grow-op, hydroponic, dea]

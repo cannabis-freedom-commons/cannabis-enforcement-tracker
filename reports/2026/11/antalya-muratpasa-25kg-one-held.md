@@ -26,6 +26,11 @@ media:
     media_url: https://cdn.iha.com.tr/Contents/images/2026/11/03/20261103aw824229-3.jpg
     publisher: İhlas Haber Ajansı
     caption: Second photo on the IHA page for the report of the 25-kilogram cannabis seizure in Muratpaşa.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 45bd460fd5b7a336e34b8c425f838599

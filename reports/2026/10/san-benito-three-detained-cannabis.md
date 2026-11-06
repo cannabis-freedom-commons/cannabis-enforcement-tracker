@@ -21,6 +21,10 @@ media:
     media_url: https://elonce-media.elonce.com/fotos/2026/10/30/m_1793359225_26829.webp
     publisher: Elonce.com
     caption: 'Police photo of the narcomenudeo raid in San Benito. Photo: Policía de Entre Ríos'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: f7e4b3f277db3f08cfe412c6cd6496db

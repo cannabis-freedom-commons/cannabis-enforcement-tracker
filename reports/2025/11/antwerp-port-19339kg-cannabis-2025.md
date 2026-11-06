@@ -15,6 +15,10 @@ summary: >-
 figures:
   kg_seized: 19339
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 4]
 status: verified
 tags: [antwerp, port, canada, record-year]
 open_questions:

@@ -17,6 +17,12 @@ figures:
   arrested: 21
   kg_seized: 10
   hectares: 12.14
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [usalama, interpol]

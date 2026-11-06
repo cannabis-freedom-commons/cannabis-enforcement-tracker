@@ -20,6 +20,12 @@ media:
     media_url: https://portalcantagalo.com.br/uploads/74076851c45c9146537e9c7da1cc1119.webp
     publisher: Portal Cantagalo
     caption: 'PRF photo of the marijuana seized in the Honda Civic on BR-277 in Céu Azul. Credit: Divulgação/PRF'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4a3c85266712ee7bdaae54ef69e13e0b

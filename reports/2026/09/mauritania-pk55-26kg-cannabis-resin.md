@@ -20,6 +20,11 @@ figures:
   kg_seized: 26
   arrested: 2
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [gendarmerie, pk55, dakhlet-nouadhibou, cannabis-resin]
 open_questions:

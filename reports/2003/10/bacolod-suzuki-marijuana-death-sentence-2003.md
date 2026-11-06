@@ -20,6 +20,10 @@ figures:
   kg_seized: 1.54707
   prison: reclusion perpetua
   fine: { amount: 1000000, currency: PHP }
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [death-penalty, airport, bacolod]

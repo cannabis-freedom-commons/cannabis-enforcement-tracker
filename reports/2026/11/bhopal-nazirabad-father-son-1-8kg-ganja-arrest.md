@@ -23,6 +23,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/04/whatsapp_video_2026_11_04_at_14_46_47_1793793525280/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video accompanying the report on the 1.8 kg ganja seizure in Nazirabad
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b5628f5c4e81eaaa668bb88337e0877e

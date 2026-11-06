@@ -18,6 +18,12 @@ summary: >-
 figures:
   plants_destroyed: 375000
   hectares: 25
+details:
+  agencies: [ph-pnp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [sugpon, ilocos-sur, benguet, npa, afp]

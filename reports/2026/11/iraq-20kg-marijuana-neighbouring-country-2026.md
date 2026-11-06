@@ -13,6 +13,12 @@ summary: >-
   Iraqi intelligence supported joint operations with seven states that seized about nine tons of mixed drugs including hashish. A separately reported 20 kg of marijuana was seized in one unnamed neighbouring country with Iraqi specialist teams.
 figures:
   kg_seized: 20
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c858a37fec2d104de70a090660677f4b

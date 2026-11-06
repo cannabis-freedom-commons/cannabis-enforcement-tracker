@@ -25,6 +25,15 @@ media:
     media_url: https://imagenes.eldebate.com/files/vertical_composte_image/uploads/2026/06/06/6a247ade98f7f.jpeg
     publisher: El Debate
     caption: Police photo of the seized drugs and medicines from the operation.
+details:
+  agencies: [es-guardia-civil, es-policia-nacional]
+  agency_types: [gendarmerie, police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0316e9e0064ff95f44a557a651f561d1

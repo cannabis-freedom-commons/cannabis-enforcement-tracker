@@ -16,6 +16,10 @@ figures:
   plants_destroyed: 550
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [st-kitts, eradication]
 open_questions:

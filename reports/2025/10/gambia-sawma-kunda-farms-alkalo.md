@@ -22,6 +22,10 @@ media:
     url: https://thepoint.gm/assets/Featured-Articles/canabis-farms__ScaleMaxWidthWzE0MDBd.jpg
     publisher: The Point
     caption: 'Cannabis farm and uprooted plants seized in the operation. Photo: The Point'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cultivation, village-chief, children]

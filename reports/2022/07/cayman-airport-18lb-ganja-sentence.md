@@ -16,6 +16,13 @@ figures:
   charged: 1
   kg_seized: 8.16
   prison: 18 months
+details:
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 159ec8b53ef475bc39fb8bcc3867af3c

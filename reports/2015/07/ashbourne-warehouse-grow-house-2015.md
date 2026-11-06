@@ -18,6 +18,12 @@ figures:
   arrested: 1
   value: { amount: 750000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [garda, grow-operation]
 open_questions:

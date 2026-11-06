@@ -19,6 +19,12 @@ figures:
   hectares: 33.18
   value: { amount: 170000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [operation-green-clean, odisha-police, forest-land]
 open_questions:

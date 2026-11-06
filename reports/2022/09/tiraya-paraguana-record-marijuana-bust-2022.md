@@ -29,6 +29,10 @@ media:
     publisher: Telemundo 51
     caption: 'Sacks of illegal drugs and plastic barrels of fuel seized by Venezuela''s armed forces on display at a beachside camp in the village of Tiraya on 5 September 2022. Photo: Getty Images'
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 tags: [paraguana, maritime, cartel-de-la-guajira]
 sources:

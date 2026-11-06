@@ -18,6 +18,12 @@ figures:
   arrested: 10
   kg_seized: 1902
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [es-guardia-civil, es-vigilancia-aduanera, int-europol]
+  agency_types: [gendarmerie, customs, police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 open_questions:
   - The reports give the announcement date; the culminating arrests and searches are

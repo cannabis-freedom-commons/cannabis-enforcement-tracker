@@ -12,6 +12,10 @@ summary: >-
 figures:
   kg_seized: 20.6984
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [death-penalty, trafficking]
 open_questions:

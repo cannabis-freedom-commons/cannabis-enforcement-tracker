@@ -32,6 +32,12 @@ media:
     publisher: The Detroit News (Detroit Police Department photo)
     caption: Marijuana seized in the West Jefferson facility raid
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [medical-marijuana, dismissal, detroit, license-dispute]
 open_questions:

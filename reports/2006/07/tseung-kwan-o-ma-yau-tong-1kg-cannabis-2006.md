@@ -27,6 +27,10 @@ media:
     publisher: Hong Kong Customs and Excise Department
     caption: Plastic bag holding the seized kilogram of herbal cannabis beside a ruler
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [customs, tseung-kwan-o, trafficking]
 sources:

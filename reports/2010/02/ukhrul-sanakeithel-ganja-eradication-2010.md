@@ -15,6 +15,11 @@ summary: >-
 figures:
   hectares: 5.26
   kg_seized: 1300
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [assam-rifles, manipur, ganja]

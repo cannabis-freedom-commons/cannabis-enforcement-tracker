@@ -20,6 +20,15 @@ media:
     media_url: https://ajnoticias.com.br/images/noticias/59357/e787391ccdda5291744fcbeeeb93a0d5.webp
     publisher: AJ Notícias
     caption: 'Police handout photograph published with the report of the Vila Nova seizure. Photo: Divulgação / PMSC'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2b1d307a986494d462f02d4123cf8094

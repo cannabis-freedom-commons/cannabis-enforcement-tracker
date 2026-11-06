@@ -15,6 +15,11 @@ summary: >-
 figures:
   charged: 1
   deaths: 1
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [riverside, california, murder, robbery, marijuana]

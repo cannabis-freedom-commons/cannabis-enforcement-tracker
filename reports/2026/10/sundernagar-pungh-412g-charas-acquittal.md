@@ -15,6 +15,11 @@ summary: >-
 figures:
   charged: 3
   kg_seized: 0.412
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: be636faec2a359a2fbfead25fda5d3e3

@@ -33,6 +33,11 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/6a91c1ed684a2a6e40033fb0/width_1000/image.jpg
     publisher: France-Guyane
     caption: 'Customs photo of cannabis resin said to be imported from Europe in the latest 2026 seizures. Photo: Douanes'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 484a1fbe70fd381123705ba396d27fef

@@ -15,6 +15,10 @@ figures:
   fine:
     amount: 133
     currency: GBP
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fdbda944e9734a32dada571c4c919f79

@@ -20,6 +20,11 @@ media:
     media_url: https://cdn-images-site-arauto.portalarauto.com.br/2026/10/tijo.jpg
     publisher: Portal Arauto
     caption: Seized drugs displayed after the arrest, captioned as a large quantity of drugs seized.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 95eb4278389535d32b4f72b9c4b2cfb3

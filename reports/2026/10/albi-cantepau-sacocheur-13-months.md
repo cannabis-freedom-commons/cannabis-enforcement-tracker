@@ -17,6 +17,11 @@ figures:
   charged: 1
   kg_seized: 0.3481
   prison: 13 months
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c60ff8177ec49cde16d5f44b325ceeb3

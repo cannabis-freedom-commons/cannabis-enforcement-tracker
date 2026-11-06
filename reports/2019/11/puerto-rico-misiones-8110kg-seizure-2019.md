@@ -15,6 +15,11 @@ figures:
   value:
     amount: 500900000
     currency: ARS
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 669d16d5d4ed8b6cff863809d01b1cd5

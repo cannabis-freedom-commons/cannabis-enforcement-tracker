@@ -20,6 +20,11 @@ media:
     media_url: https://repost.uz/storage/uploads/thumbnails/0-1785574504-Oleg-post-material-large.webp
     publisher: Repost.uz
     caption: 'State Security Service photo published with the report on the 11.7 kg hashish seizures in Namangan and Tashkent region. Photo: State Security Service (СГБ)'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8a3a37d5485ec9af38b2959b62061768

@@ -20,6 +20,12 @@ figures:
   plants_destroyed: 1000
   value: { amount: 450000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 tags: [dublin, cannabis-factory]
 open_questions:

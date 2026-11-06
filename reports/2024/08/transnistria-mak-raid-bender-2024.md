@@ -11,6 +11,10 @@ summary: >-
   residential plot and discovered 64 two-metre-tall cannabis plants cultivated alongside dried
   marijuana.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: transnistria-mak-raid-bender-2024
 tags:

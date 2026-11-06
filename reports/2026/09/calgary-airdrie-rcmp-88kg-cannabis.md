@@ -35,6 +35,14 @@ media:
     media_url: https://rcmp.ca/sites/default/files/styles/gallery_large_1200x1200/public/2026-09/image-2.jpeg?itok=aO9foQhb
     publisher: Royal Canadian Mounted Police
     caption: Contraband tobacco seized in the investigation, in an RCMP handout photo.
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+  activity: [money]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [alberta, calgary, airdrie, rcmp, money-laundering, contraband-tobacco]

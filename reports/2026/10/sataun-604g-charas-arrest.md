@@ -21,6 +21,11 @@ media:
     media_url: https://mbmnewsnetwork.com/wp-content/uploads/2026/10/SATAUN-.jpg
     publisher: MBM News Network
     caption: 'The accused with the police team after his arrest at Sataun bus stand. Photo: MBM News Network'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ad5f30fb9c8904d7ae691bbf5110b2b4

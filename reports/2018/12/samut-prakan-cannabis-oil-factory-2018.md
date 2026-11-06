@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 76.6
+details:
+  agencies: [th-oncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [cannabis-oil, oncb, samut-prakan]

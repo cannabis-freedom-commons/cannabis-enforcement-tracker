@@ -24,6 +24,15 @@ media:
     media_url: https://cdn.antaranews.com/cache/1200x800/2026/10/30/IMG_3648.jpeg
     publisher: ANTARA News Lampung
     caption: 'Officers carry out the destruction of seized evidence in Lampung Selatan. Photo: ANTARA/HO/Kejari Lampung Selatan'
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fa73fb78f2eba72d1763a763a55502c4

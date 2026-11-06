@@ -18,6 +18,12 @@ figures:
   kg_seized: 360
   value: { amount: 845000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 open_questions:
   - Both accounts repost the 26 October 2023 Europol release; no independent press

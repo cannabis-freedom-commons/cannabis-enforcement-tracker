@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [cannabis-factory, leitrim]
 open_questions:

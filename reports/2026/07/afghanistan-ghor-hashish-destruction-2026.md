@@ -12,6 +12,11 @@ summary: >-
   Ghor police burned more than 800 kg of seized narcotics, including 4 kg of hashish, at a site away from residential areas on 20 July 2026. The hashish is the separately stated cannabis component of the mixed destruction, which also included opium, methamphetamine and precursor chemicals.
 figures:
   kg_seized: 4
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 09975638f9772a17852b8d9c657c0c89

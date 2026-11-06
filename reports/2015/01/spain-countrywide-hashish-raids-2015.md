@@ -15,6 +15,11 @@ summary: >-
 figures:
   arrested: 55
   kg_seized: 11000
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, organised-crime, countrywide-raids]

@@ -18,6 +18,10 @@ figures:
   arrested: 1
   kg_seized: 136.5
 created_by_model: unknown
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [truck]
 sources:

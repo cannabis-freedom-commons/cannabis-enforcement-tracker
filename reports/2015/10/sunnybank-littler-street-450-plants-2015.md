@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 450
   value: { amount: 2000000, currency: AUD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 tags: [hydroponic, vietnamese-nationals]
 open_questions:

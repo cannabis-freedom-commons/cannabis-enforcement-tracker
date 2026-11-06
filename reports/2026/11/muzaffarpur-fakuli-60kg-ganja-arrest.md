@@ -20,6 +20,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/04/1_1793757972394.jpg
     publisher: Dainik Bhaskar
     caption: The arrested smuggler in police custody at Fakuli.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22625c3855d64931dceda954613a993a

@@ -18,6 +18,11 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 60
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [beed, rajuri, ganja, ndps]

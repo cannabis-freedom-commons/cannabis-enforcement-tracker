@@ -17,6 +17,14 @@ figures:
   charged: 1
   kg_seized: 31
   prison: 2 years
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 120ef4e9023a1731d117ece65cb8f185

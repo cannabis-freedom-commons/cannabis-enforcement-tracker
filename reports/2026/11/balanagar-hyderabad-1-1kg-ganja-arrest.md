@@ -21,6 +21,15 @@ media:
     media_url: https://cdn.siasat.com/wp-content/uploads/2026/11/Balanagar.jpg
     publisher: The Siasat Daily
     caption: The excise team with the detained man (crouching) and the seized contraband.
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 16732b12c64b703dbf737648c623ec9e

@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 1.5
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3, 4, 5, 6, 7]
+  details.agency_types: [1, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41df8c2954d0c01cd2ec0ecc7ecfa59e

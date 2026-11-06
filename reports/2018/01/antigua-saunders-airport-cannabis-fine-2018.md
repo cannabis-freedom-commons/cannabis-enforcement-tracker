@@ -19,6 +19,10 @@ figures:
   fine:
     amount: 300
     currency: XCD
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 222c09c2818e1223742fbaebb56b6abd

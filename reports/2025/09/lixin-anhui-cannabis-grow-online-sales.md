@@ -18,6 +18,10 @@ summary: >-
 figures:
   prison: 4 years 6 months
   fine: { amount: 400000, currency: CNY }
+details:
+  activity: [cultivation, money]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [anhui, shandong, grow, online-sales, money-laundering, sentence]

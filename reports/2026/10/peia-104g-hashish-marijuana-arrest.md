@@ -21,6 +21,16 @@ media:
     media_url: https://www.valseriananews.it/wp-content/uploads/2026/11/arresto-peia-droga-1.jpeg.webp
     publisher: Valseriana News
     caption: 'Seized drugs and related items from the Peia arrest. Photo: Valseriana News'
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a988919c9b4ccc922213a6315d8c1c25

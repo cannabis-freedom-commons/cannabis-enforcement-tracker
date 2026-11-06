@@ -25,6 +25,11 @@ media:
     media_url: https://nfw.ria.ru/flv/file.aspx?nolog=1&ID=68819209&type=mp4
     publisher: Sputnik Армения
     caption: 'Police video of the 2.5 kg marijuana seizure by Malatia community police. Video: press office of Police of the RA Ministry of Internal Affairs via Sputnik Armenia'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a8031b90a0bce8ca63781c3f26aa612c

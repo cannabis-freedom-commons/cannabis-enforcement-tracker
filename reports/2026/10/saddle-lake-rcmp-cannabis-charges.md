@@ -24,6 +24,12 @@ media:
     media_url: https://rcmp.ca/sites/default/files/styles/gallery_large_1200x1200/public/2026-10/00a_4.jpg?itok=xcHXiWJ3
     publisher: Royal Canadian Mounted Police
     caption: Bagged drugs and a handgun among items seized in the search at Saddle Lake Cree Nation, in an Alberta RCMP handout photo.
+details:
+  agencies: [ca-rcmp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [alberta, saddle-lake, rcmp, distribution, firearms]

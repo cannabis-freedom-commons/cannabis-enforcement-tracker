@@ -20,6 +20,13 @@ media:
     media_url: https://news.am/storage/media/26/09/01/Li3RxJDxJkSWkQOs.webp
     publisher: NEWS.am
     caption: Image published with the report of the reported discovery of about 10 kg of marijuana-like substance and the detention of three young people on Rubinyants Street in Yerevan
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de0f81f10cf6a9fd7c861dfb46de0d67

@@ -17,6 +17,14 @@ figures:
   arrested: 2
   kg_seized: 26070
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [prf, iguatemi, truck]
 media:

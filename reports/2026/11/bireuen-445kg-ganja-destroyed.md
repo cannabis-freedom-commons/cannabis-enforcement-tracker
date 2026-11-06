@@ -18,6 +18,11 @@ media:
     media_url: https://www.beritaterbit.com/wp-content/uploads/2026/11/IMG-20261104-WA0054.webp
     publisher: Berita Terbit
     caption: 'Officials during the burning stage of the evidence destruction at Kejari Bireuen. Photo: contributed (Ist)'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6aec01461d32309a69b8eff2500fb46

@@ -29,6 +29,11 @@ media:
     media_url: https://cf-images.assettype.com/saamtv%2F2026-11-01%2Fpfasj3do%2FTwo-killed-in-truck-car-collision-near-Khamgaon-on-Mumbai-Nagpur-Highway.jpg?w=640
     publisher: Saam TV
     caption: The truck-car crash scene on the Mumbai-Nagpur Highway near Khamgaon.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 287c265e08c1f1becabd7780a3794cc5

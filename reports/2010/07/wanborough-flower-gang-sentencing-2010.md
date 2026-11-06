@@ -21,6 +21,11 @@ figures:
   prison: "45 years combined (longest: 12 years, Barnes)"
   value: { amount: 60000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 tags: [wanborough, flower-lorries, bristol-crown-court, skunk]
 open_questions:

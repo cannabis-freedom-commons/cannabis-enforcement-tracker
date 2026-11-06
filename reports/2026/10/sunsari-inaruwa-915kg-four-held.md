@@ -17,6 +17,11 @@ summary: >-
 figures:
   kg_seized: 915.68
   arrested: 4
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [sunsari, inaruwa, ganja, seizure]

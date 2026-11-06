@@ -24,6 +24,10 @@ media:
     media_url: https://www.gazeta.uz/media/img/2025/07/SXdFT117522269756815_l.webp
     publisher: Gazeta.uz
     caption: 'Second Interior Ministry press-service photograph inside the article, captioned only "Photo: Press service of the Interior Ministry", showing a notice on a blue fence. Photo: Press service of the Interior Ministry'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e52bd91bb959372a3a9ae8bb8d1bec38

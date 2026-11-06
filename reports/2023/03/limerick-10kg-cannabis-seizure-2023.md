@@ -17,6 +17,12 @@ figures:
   arrested: 1
   kg_seized: 10
   value: { amount: 200000, currency: EUR }
+details:
+  agencies: [ie-garda, ie-revenue]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [limerick, gndocb, revenue, organised-crime]

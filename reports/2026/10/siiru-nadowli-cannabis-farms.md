@@ -36,6 +36,12 @@ media:
     media_url: https://www.graphic.com.gh/images/2026/Oct/31/1.jpg
     publisher: Graphic Online
     caption: Cannabis plants burn after the gardens were destroyed.
+details:
+  agencies: [gh-nacoc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 4]
+  details.agency_types: [2, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7cae2b14b7b449d1218b0869155dbf1b

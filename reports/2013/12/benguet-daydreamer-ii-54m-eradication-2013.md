@@ -16,6 +16,12 @@ figures:
   plants_destroyed: 203650
   value: { amount: 54590800, currency: PHP }
 created_by_model: meta/muse-spark
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [benguet, pdea, eradication-campaign]
 sources:

@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   value: { amount: 5000000, currency: INR }
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kadamtala, churaibari, trafficking, ndps]

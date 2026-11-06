@@ -13,6 +13,12 @@ summary: >-
   Police arrested a motorcyclist in the Pap Rombe area of Nyatike, Migori County on 2 August 2026 after he failed to stop for a check. A search found several rolls of suspected cannabis hidden in his clothing and luggage; he was held at Macalder Police Station with the motorcycle and drugs kept as exhibits.
 figures:
   arrested: 1
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1b5d150a00165671075906885bf924d9

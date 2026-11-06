@@ -22,6 +22,12 @@ figures:
     amount: 63000000
     currency: USD
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [amambay, senad, nueva-alianza, border]
 media:

@@ -15,6 +15,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.27
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 27833b61f9737b2cc5ac3ad1c8cf01cc

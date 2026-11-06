@@ -20,6 +20,11 @@ media:
     media_url: https://kalingatv.com/wp-content/uploads/2026/11/ganja-rolls-sold-in-bhubaneswar.png
     publisher: KalingaTV
     caption: Image accompanying the report, captioned 'ganja rolls sold in bhubaneswar', relating to the alleged ganja-roll sales.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cdcac088eaee9d5aa700604bed225209

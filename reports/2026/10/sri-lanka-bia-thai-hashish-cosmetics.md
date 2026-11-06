@@ -20,6 +20,17 @@ figures:
   kg_seized: 5.096
   value: { amount: 51000000, currency: LKR }
 created_by_model: unknown
+details:
+  agencies: [lk-pnb]
+  agency_types: [anti-narcotics]
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, airport, bangkok-route, concealment]
 sources:

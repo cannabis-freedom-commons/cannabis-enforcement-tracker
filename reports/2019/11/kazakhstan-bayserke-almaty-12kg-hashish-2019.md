@@ -20,6 +20,11 @@ media:
     media_url: https://inbusiness.kz/uploads/37/images/qZ5tFLCf.jpg
     publisher: Inbusiness.kz
     caption: Photo published with the report on the 12 kg hashish seizure.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ccdcf218a58e6334a6319e9ab948707c

@@ -21,6 +21,15 @@ figures:
   kg_seized: 5.14
   value: { amount: 51400000, currency: INR }
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [charas, nepal-route, hideout, surveillance]
 open_questions:

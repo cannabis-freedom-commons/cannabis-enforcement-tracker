@@ -20,6 +20,10 @@ media:
     media_url: https://murmantv.ru/images/news/2026/09/07/48776/Avgust_2026_plantatsiya_doma.mp4
     publisher: ГТРК «Мурман»
     caption: 'Police video of the indoor cannabis farm and the seized marijuana. Video: UMVD of Russia for the Murmansk region'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ab5f0da758f03d780e9224cef8237ef2

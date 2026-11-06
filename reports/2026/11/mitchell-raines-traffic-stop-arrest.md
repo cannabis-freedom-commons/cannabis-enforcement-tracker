@@ -13,6 +13,12 @@ summary: >-
   Michael T. Raines, 44, of Pueblo, Colorado, was arrested in Mitchell, Indiana, on 3 November 2026 after a speeding stop led to a search that found a burnt marijuana cigarette and cocaine. He was booked into the Lawrence County Jail on a preliminary felony cocaine-possession charge.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 914efc36bec093d3e33916ca7411d22b

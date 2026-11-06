@@ -25,6 +25,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2024/01/EjPhLV17047109212855_b.jpg
     publisher: Gazeta.uz
     caption: Close-up of drug material found in the Jomboy home search. Credit not stated.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: f0d63b816069613a6ce7d030e7874753

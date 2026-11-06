@@ -21,6 +21,10 @@ media:
     media_url: https://mvdmedia.ru/upload/resize_cache/iblock/bfe/1170_1080_112e23092a5dbb905c83b3ae67db670d0/ie5bf3g71wvnu0xmmcoyekgvmuvcj4ce.png
     publisher: МВД МЕДИА
     caption: 'Police operational photo published with the report on the Inkerman seizure of about 3 kg of marijuana. Photo: press service of the Russian Interior Ministry for Sevastopol'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7ede49b029464a45bb9adf94c22b716e

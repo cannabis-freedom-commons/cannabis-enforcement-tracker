@@ -19,6 +19,10 @@ figures:
   kg_seized: 0.00183
 # The desktop runtime did not disclose the exact provider, model, or reasoning effort.
 created_by_model: unknown
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [court, community-work, possession]
 open_questions:

@@ -12,6 +12,11 @@ summary: >-
   Customs officers stopped a Nukus resident and found 16 matchboxes of marijuana in his black handbag, weighing 77.56 grams with packaging. The Karakalpakstan Customs Administration opened a criminal case and an investigation was continuing.
 figures:
   kg_seized: 0.07756
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eb7c3357cc47a0dd25caa410034b40a3

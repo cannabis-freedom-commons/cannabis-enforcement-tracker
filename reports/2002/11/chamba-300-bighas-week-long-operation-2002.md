@@ -13,6 +13,12 @@ summary: >-
   about 300 bighas of cannabis in the Kalhel, Jassourgarh and Bharada-Lesuin belts during a
   week-long operation ending 13 November 2002. Acting on joint intelligence, the teams cleared
   the plantations; no arrests were reported.
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [ncb, chamba, eradication-drive]

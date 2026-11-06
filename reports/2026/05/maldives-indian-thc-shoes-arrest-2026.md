@@ -13,6 +13,10 @@ summary: >-
   Maldives authorities arrested 30-year-old Indian national Suraj Karwar after finding two packets that tested positive for THC hidden in tennis shoes in his luggage. The Criminal Court ordered him held for five days to allow him to seek a state defence lawyer.
 figures:
   arrested: 1
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c910b3608c57e33d31e764a93b01af71

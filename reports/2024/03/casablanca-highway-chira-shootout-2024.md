@@ -17,6 +17,11 @@ figures:
   deaths: 1
   arrested: 3
   kg_seized: 10300
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [casablanca, chira, dgsn]

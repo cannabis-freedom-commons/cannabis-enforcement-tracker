@@ -29,6 +29,12 @@ media:
     publisher: A Crítica
     caption: A helicopter lands beside a cannabis field among tree stumps
 created_by_model: anthropic/opus-5.5
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [nueva-alianza, brazil, protected-areas, joint-operation, deforestation]
 sources:

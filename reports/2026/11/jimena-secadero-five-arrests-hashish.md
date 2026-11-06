@@ -19,6 +19,15 @@ media:
     media_url: https://static.grupojoly.com/clip/80adcd8b-8863-4fa1-bdeb-5d31df969f6b_16-9-aspect-ratio_1600w_0.webp
     publisher: Europa Sur
     caption: 'A Guardia Civil deployment in Jimena and El Secadero, captioned by the paper as an image of the operation. Photo: Europa Sur'
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: e2ba758e3b1b7feded9b92767786390c

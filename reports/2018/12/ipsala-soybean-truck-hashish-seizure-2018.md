@@ -19,6 +19,11 @@ figures:
   kg_seized: 1500
   value: { amount: 40000000, currency: TRY }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [turkiye, ipsala, hashish, soybean-truck]
 media:

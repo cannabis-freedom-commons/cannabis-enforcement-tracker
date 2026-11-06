@@ -29,6 +29,11 @@ media:
     media_url: https://cdx.dhakamail.com/media/images/2026October/00_20261030_194303436.jpg
     publisher: Dhaka Mail
     caption: 'Photo of Anwar Hossain after his arrest. Photo: Dhaka Mail'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 96d4d9217e0b3d09ad2acb105ef22862

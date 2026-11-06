@@ -18,6 +18,11 @@ figures:
   kg_seized: 12000
   value: { amount: 360000000, currency: EUR }
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [mirovyane, hashish, record-seizure, smuggling]
 sources:

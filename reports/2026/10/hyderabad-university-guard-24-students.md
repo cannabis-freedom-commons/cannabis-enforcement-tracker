@@ -21,6 +21,17 @@ media:
     media_url: https://cdn.siasat.com/wp-content/uploads/2026/10/drugs.jpg
     publisher: The Siasat Daily
     caption: Bikash Singh with the 24 sachets of ganja seized in the case, laid out in front of him; faces are blurred.
+details:
+  agencies: [in-eagle]
+  agency_types: [anti-narcotics]
+  setting: [school]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 4, 5, 6, 7, 9, 10, 11]
+  details.agency_types: [1, 2, 4, 5, 6, 7, 9, 10, 11]
+  details.products: [1, 4, 6, 7, 8, 9, 10, 11]
+  details.setting: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 35e9811894e9b5aae2ee6da15ef57fc1

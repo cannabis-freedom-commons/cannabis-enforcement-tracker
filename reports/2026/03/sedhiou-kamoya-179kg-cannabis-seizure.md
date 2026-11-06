@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 179
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd299a56f84869e7f899fb906a291b66

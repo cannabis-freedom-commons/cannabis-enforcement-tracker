@@ -19,6 +19,11 @@ figures:
   kg_seized: 1723.67
   value: { amount: 1720000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: reported
 tags: [dagga, homestead, border-area]
 sources:

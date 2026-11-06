@@ -21,6 +21,10 @@ media:
     media_url: https://media.elcomercio.com/wp-content/uploads/2026/03/marihana-droga-carchi-1024x683.jpg
     publisher: El Comercio
     caption: 'Photo published with the report of the 530 kg marijuana seizure in Carchi. Photo: FF.AA. (Ecuador''s Armed Forces)'
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bb978d00b1b4a31e53655d0479e4df29

@@ -19,6 +19,14 @@ summary: >-
 figures:
   hectares: 3
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-polri]
+  agency_types: [police]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [3]
+  details.agency_types: [3]
 status: verified
 tags: [aceh-besar, lampanah, operasi-antik-seulawah, eradication]
 sources:

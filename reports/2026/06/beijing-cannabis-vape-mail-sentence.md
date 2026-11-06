@@ -30,6 +30,12 @@ media:
     media_url: https://inews.gtimg.com/om_bt/OOqgZXHQGEbenQ2qjrygEc9abG8JuybpZ5gFEolZuLQQEAA/641
     publisher: 京法网事 (Beijing High People's Court), via Tencent News
     caption: The sentencing hearing at Beijing No. 4 Intermediate People's Court, in a photo published with the court's account.
+details:
+  activity: [smuggling]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [beijing, vape, mail, smuggling, sentence]

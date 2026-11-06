@@ -22,6 +22,12 @@ figures:
     amount: 73400
     currency: SGD
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [cnb, island-wide, geylang, kaki-bukit]
 open_questions:

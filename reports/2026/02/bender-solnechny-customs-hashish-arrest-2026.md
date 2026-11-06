@@ -13,6 +13,11 @@ summary: >-
   Transnistrian customs officers detained a man near the state border in Bender's Solnechny neighbourhood carrying a stash package that experts confirmed held hashish, which he said he bought through an online platform in Moldova. A criminal case was opened for drug smuggling, the man was placed under arrest and he faces three to seven years in prison.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 892eea4e8e9bb2830620536f442be2dd

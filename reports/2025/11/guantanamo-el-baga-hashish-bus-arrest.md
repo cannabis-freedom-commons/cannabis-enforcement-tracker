@@ -19,6 +19,11 @@ media:
     media_url: https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1763490408-capturan-cubano-hachis-guagua-guantanamo.jpg
     publisher: CiberCuba
     caption: 'Collage of the detained man and the hashish seized at the El Bagá checkpoint. Photo: Collage Facebook/Guantánamo y su Verdad'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c31a63138b712fbe1e8a60cba367e228

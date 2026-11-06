@@ -18,6 +18,13 @@ figures:
   value:
     amount: 358000
     currency: INR
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 5]
+  details.setting: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4318b6dac8bfea76ac74851ee4f1c7dc

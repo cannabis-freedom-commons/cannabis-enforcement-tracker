@@ -19,6 +19,14 @@ figures:
   arrested: 8
   value: { amount: 48000000, currency: PLN }
 created_by_model: unknown
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [border-guard, gdansk, thailand, smuggling]
 sources:

@@ -22,6 +22,11 @@ media:
     media_url: https://cdn.elmundo.sv/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-2.01.14-PM.jpeg?x-image-process=image/resize,w_890/quality,q_85/format,webp
     publisher: Diario El Mundo
     caption: 'Police photo of Ana Elizabeth Rodriguez Ardon and Alberto Fernando Escalante Salazar detained in Chalchuapa. Photo: PNC via Diario El Mundo'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3f7ac37df54d5236a8c6696c32778dcd

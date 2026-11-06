@@ -16,6 +16,12 @@ summary: >-
 figures:
   hectares: 14
   kg_seized: 8000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [yakutia, sakha, mak-2026, wild-cannabis, russia]

@@ -22,6 +22,13 @@ media:
     media_url: https://cbs12.com/resources/media2/16x9/1253/1174/0x166/80/c61e4ab2-6dc6-4853-8fc3-e4fe92eb6b4d-PSLmarijuanaarrest.jpg
     publisher: CBS12
     caption: 'CBS12''s lead image for the story: a composite with the driver''s booking photo and the packaged marijuana seized in the traffic stop. Photo: Port St. Lucie Police'
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7]
+  details.setting: [1, 2, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3e3f90e5d5edf624773de9ff864beeb8

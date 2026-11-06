@@ -18,6 +18,12 @@ figures:
   arrested: 8
   charged: 8
   plants_destroyed: 3100
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [north-stormont, mushroom-farm, grow-op, opp]

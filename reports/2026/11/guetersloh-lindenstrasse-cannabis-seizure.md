@@ -17,6 +17,10 @@ media:
     media_url: https://www.nw.de/_em_daten/_cache/image/1xTldRcVg2aFY2MkpORXVnbHZYQ3ZpRmhVTnM4Um0zNUY0NCt2RStodW4wc1FRYTVrT3JqQXVnRDhhd0NJMk5MV2tGSlNja0JPd3F5S3hMZDMvb1FnU0d1TkRKSmRIUFQ2NG92Mk9vaXAya3M9/261104-1702-964873235.jpg
     publisher: Neue Westfälische
     caption: 'Residents outside the Lindenstraße municipal shelter shortly after the raid; police seized cannabis plants from the couple''s flat. Photo: Wolfgang Wotke'
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6f3890363e461faa0b600f57f41233a8

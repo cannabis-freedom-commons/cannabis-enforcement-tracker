@@ -35,6 +35,14 @@ media:
     media_url: https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/11/1001547847-e1793712695693.jpg?resize=1140%2C713&ssl=1
     publisher: Premium Times Nigeria
     caption: Indoor cannabis farm in Lagos
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  environment: [indoor]
+data_sources:
+  details.agencies: [14]
+  details.agency_types: [14]
+  details.environment: [1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b4eecbd5e2ed70724f4009b4a8dec29e

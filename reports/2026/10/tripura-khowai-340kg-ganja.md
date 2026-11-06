@@ -26,6 +26,11 @@ media:
     url: https://www.morungexpress.com/assam-rifles-seize-huge-ganja-haul-in-tripura
     publisher: The Morung Express
     caption: The seized ganja haul displayed by Assam Rifles. Photo courtesy Assam Rifles
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, tripura, khowai, assam-rifles, customs]

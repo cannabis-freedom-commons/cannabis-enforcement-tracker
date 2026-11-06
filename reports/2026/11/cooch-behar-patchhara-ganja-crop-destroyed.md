@@ -17,6 +17,11 @@ media:
     media_url: https://www.youtube.com/shorts/u2ZKouYEp3E
     publisher: Eisamay Online
     caption: Short video report on the Kotwali police raid over alleged illegal cannabis cultivation in Patchhara village.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 702973c12b3130c76dbaeee44ccb4817

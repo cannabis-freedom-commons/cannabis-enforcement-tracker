@@ -16,6 +16,10 @@ figures:
   arrested: 2
   charged: 2
   plants_destroyed: 135
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3c73b43f5b9c003a21b2cc1e914a95f6

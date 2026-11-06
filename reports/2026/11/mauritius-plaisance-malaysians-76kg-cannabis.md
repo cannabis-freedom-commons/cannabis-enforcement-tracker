@@ -20,6 +20,10 @@ media:
     media_url: https://media.defimedia.info/sites/default/files/styles/wide/public/2026-11/drogue.jpg.avif?itok=eYU46R3i
     publisher: Defimedia.info
     caption: Photo published with the Plaisance seizure report, captioned 'drogue'.
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a295c49ff41aa12553b6069b2eb5fad1

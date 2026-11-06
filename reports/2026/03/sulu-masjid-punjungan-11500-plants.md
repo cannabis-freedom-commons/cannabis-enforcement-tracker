@@ -17,6 +17,12 @@ summary: >-
   such operation after the 13 February raid.
 figures:
   plants_destroyed: 11500
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sulu, eradication]

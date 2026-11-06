@@ -23,6 +23,14 @@ media:
     media_url: https://www.orissapost.com/wp-content/uploads/2026/09/Screenshot-2026-09-27-223007.png
     publisher: OrissaPOST
     caption: 'Officials with sacks of the seized ganja and the arrested warehouse manager at Bhawanipatna. Photo: OrissaPOST.'
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  setting: [mail]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kalahandi, odisha, ganja, courier, excise]

@@ -18,6 +18,12 @@ figures:
   arrested: 2
   value: { amount: 5000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [pike-national-forest, public-lands, mexican-cartels]
 open_questions:

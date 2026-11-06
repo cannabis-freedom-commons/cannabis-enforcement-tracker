@@ -20,6 +20,12 @@ media:
     media_url: https://www.latercera.com/resizer/v2/HTYUTPH2LNF5TJ3G6C2B2IVD6U.png?auth=1036b395c245d176e219c772c91c84035dd6e1a628bce4a35bfbf84fd73e628c&smart=true&width=800&height=450&quality=70
     publisher: La Tercera
     caption: La Tercera's lead image for the ninth Chile–Bolivia binational operation; its embedded description reads "IX OPERATIVO BINACIONAL CHILE–BOLIVIA". No photographer or agency credit is given, and the caption does not say whether it shows officers, the checks or the seized items.
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4c63e5ff62d650176f72e3d046501f72

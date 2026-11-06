@@ -18,6 +18,10 @@ figures:
   arrested: 4
   kg_seized: 70.064
   value: { amount: 573170, currency: EUR }
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [border, turkey-route, sniffer-dog]

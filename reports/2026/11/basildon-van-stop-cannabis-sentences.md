@@ -30,6 +30,11 @@ media:
     media_url: https://www.echo-news.co.uk/resources/images/21666822/?type=responsive-gallery-fullscreen
     publisher: Echo
     caption: 'Hieu Vo-Trong, who was sentenced to 25 months in prison. Photo: Essex Police.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 85a674fdf60ee529878a78b9f5243225

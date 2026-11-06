@@ -22,6 +22,12 @@ media:
     media_url: https://assets.publishing.service.gov.uk/media/5a6119f440f0b652634cc50c/s300_London_gateway_seizure_960x640.jpg
     publisher: GOV.UK
     caption: Photo of the seizure at London Gateway
+details:
+  agencies: [gb-nca, gb-border-force]
+  agency_types: [police, customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8c0d1ba0aba9c363551311a3d2a39c01

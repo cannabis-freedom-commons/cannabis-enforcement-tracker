@@ -24,6 +24,11 @@ media:
     media_url: https://www.policia.gov.co/sites/default/files/noticias/capturado%20por%20estupefacientes_0.jpg
     publisher: Policía Nacional de Colombia
     caption: Police image captioned as showing two officers and a man arrested after marijuana was found in a vehicle. No separate photo credit is given.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 91c42d3a9549f9546b8b29df7e72f442

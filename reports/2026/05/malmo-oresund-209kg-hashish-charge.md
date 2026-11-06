@@ -21,6 +21,11 @@ figures:
   kg_seized: 209.9
   value: { amount: 25000000, currency: SEK }
 created_by_model: spacexai/grok-4.7
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [malmo, tullverket, hashish]
 open_questions:

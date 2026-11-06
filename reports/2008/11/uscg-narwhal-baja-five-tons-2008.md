@@ -17,6 +17,10 @@ figures:
   kg_seized: 4536
   value: { amount: 32000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [coast-guard, maritime, go-fast, pacific-route]
 open_questions:

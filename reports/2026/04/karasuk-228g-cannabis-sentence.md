@@ -19,6 +19,12 @@ figures:
   charged: 1
   kg_seized: 0.2286
   prison: 3 years 6 months
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [karasuk, novosibirsk-oblast, wild-cannabis, article-228, russia]

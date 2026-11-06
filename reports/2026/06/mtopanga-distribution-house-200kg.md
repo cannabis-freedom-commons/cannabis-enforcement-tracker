@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 200
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mtopanga, mombasa, anu, trafficking]

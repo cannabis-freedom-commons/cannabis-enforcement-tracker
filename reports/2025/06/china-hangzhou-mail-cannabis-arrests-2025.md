@@ -17,6 +17,10 @@ summary: >-
   fund their own use.
 figures:
   arrested: 2
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [zhejiang, hangzhou, shanghai, customs, mail]

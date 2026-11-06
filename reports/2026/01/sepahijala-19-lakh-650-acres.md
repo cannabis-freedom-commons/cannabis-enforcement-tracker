@@ -18,6 +18,12 @@ figures:
   hectares: 263
   value: { amount: 1000000000, currency: INR }
 created_by_model: cursor/composer-2.5-fast
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, bsf, tsr]
 sources:

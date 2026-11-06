@@ -24,6 +24,13 @@ media:
     url: https://www.thepaper.cn/newsDetail_forward_32604588
     publisher: 澎湃新闻
     caption: Photos released with the police statement showing the seized cannabis seeds and woven sacks stacked in a room.
+details:
+  activity: [trafficking]
+  products:
+    - {product: seeds}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cannabis-seeds, lincang, yunnan, trafficking]

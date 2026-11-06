@@ -19,6 +19,11 @@ media:
     media_url: https://cdn.dostor.org/media/img/large/2026/11/5/2026_11_5_0_28_0_705_8623.png
     publisher: جريدة الدستور
     caption: Hashish, the caption given to the page picture for the Zefta arrests; the photo carries no credit.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f6a47aa34475b2cc9b6cd24ff9c42e6f

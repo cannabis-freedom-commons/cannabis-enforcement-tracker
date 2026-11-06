@@ -23,6 +23,15 @@ media:
     media_url: https://cf-images.assettype.com/newindianexpress%2F2026-08-25%2Faryggvrg%2FNCB-seizes-3kg.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: The New Indian Express
     caption: 'Hashish seized at Porur toll plaza. Photo: Express.'
+details:
+  agencies: [in-ncb]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 052eae3e71d554cea5aa055d46033461

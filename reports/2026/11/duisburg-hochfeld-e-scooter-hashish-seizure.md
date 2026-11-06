@@ -13,6 +13,11 @@ summary: >-
   Duisburg police stopped a 17-year-old e-scooter rider on Wanheimer Straße in Hochfeld on 2 November 2026 after he ran a red light and tried to flee. Officers seized hashish, a prohibited one-hand knife, scene-typical cash, dealer utensils and his phone, took him to the station and later handed him to his mother pending criminal proceedings.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a35d360a807b631ee0512557a14b1af6

@@ -16,6 +16,11 @@ summary: >-
 figures:
   value: { amount: 2900000, currency: ZAR }
 created_by_model: unknown
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [dagga, mpumalanga]
 sources:

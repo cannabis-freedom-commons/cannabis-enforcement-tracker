@@ -23,6 +23,11 @@ media:
     media_url: https://www.gabonreview.com/wp-content/uploads/2020/09/ballots-cannabis.jpg
     publisher: Gabonreview.com
     caption: 'Bundles of cannabis resin, captioned as an illustration of the drug rather than a photograph of this load. Photo: D.R.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e4f687f0f2f64f6a4070cb315dba56e

@@ -12,6 +12,10 @@ summary: >-
   Caitlyn Shephard, 22, has been charged with arson and cannabis possession over alleged offences on May 7 in St Helens. She is due to make a first appearance before Liverpool, Knowsley and St Helens Magistrates' Court on November 4.
 figures:
   charged: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8da2b6d2e3c0a4ab7b436e6a79c0aab1

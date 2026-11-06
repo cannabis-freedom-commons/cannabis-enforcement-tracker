@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 5000
   kg_seized: 2300
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [bnn, aceh-besar, eradication]
 open_questions:

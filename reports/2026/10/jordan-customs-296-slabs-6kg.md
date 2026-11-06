@@ -14,6 +14,10 @@ summary: >-
   Jordan Customs Anti-Smuggling patrols foiled a narcotics smuggling attempt
   on 9 October 2026, seizing 296 slabs of hashish and six kilograms of
   marijuana. The department credited joint work with security agencies.
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [jordan, customs, smuggling]

@@ -18,6 +18,10 @@ summary: >-
 figures:
   kg_seized: 200
 created_by_model: cursor/composer-2.5
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [tolletaten, gardermoen, postal, usa]
 open_questions:

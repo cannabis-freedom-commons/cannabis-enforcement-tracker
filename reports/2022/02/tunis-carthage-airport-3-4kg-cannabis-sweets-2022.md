@@ -25,6 +25,10 @@ media:
     media_url: https://www.realites.com.tn/wp-content/uploads/2022/02/douane-bonbon2.jpg
     publisher: Réalités
     caption: 'A second photo from the same customs statement, showing the packets seized at the airport. Photo: Douane tunisienne / Réalités'
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ad9f0b8a36d659c44ee67981cd20bea2

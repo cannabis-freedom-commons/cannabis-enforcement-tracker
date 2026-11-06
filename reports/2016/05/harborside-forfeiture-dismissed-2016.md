@@ -14,6 +14,12 @@ summary: >-
   attempt to close what was described as the world's largest medical marijuana
   dispensary.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [harborside, dispensary, forfeiture]
 sources:

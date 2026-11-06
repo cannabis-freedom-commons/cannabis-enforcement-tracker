@@ -15,6 +15,10 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.2
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 945e07f3fbb2849db4e6946b05d23d44

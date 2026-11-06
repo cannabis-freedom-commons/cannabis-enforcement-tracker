@@ -21,6 +21,12 @@ figures:
     amount: 7200000
     currency: PHP
 created_by_model: xai/grok-4.7
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [philippines, mountain-province, sadanga, eradication]
 sources:

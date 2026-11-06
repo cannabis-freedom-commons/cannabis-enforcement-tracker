@@ -17,6 +17,10 @@ figures:
   charged: 1
   plants_destroyed: 10
   kg_seized: 5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4c96c64875b89845898dc1594a4bbfb

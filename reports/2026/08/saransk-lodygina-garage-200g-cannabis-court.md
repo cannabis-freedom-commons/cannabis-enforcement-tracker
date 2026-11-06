@@ -16,6 +16,10 @@ figures:
   charged: 1
   plants_destroyed: 10
   kg_seized: 0.2
+details:
+  environment: [wild]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 47f977addbeff8817d6b07b8ef87699b

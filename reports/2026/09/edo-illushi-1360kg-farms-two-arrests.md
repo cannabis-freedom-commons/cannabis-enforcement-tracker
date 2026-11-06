@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 1467.23
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [edo, esan-south-east, ndlea, army, farms]

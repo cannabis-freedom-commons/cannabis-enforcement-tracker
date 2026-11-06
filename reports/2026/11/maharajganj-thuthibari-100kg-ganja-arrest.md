@@ -25,6 +25,11 @@ media:
     media_url: https://bhaskardigital.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-4.54.59-PM.webp
     publisher: Bhaskar Digital (Dainik Bhaskar)
     caption: Photograph carried at the top of the report on the Thuthibari ganja seizure; the page gives no caption or credit naming what it shows.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4, 6, 8, 9, 10, 11, 13, 14]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e9c5b1df647e33838d7e3ac3d87d4a6

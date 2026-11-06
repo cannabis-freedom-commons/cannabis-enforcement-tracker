@@ -19,6 +19,12 @@ figures:
   plants_destroyed: 7000
   hectares: 2.0
 created_by_model: unknown
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [bsf, tsr, drones]
 open_questions:

@@ -27,6 +27,11 @@ media:
     media_url: https://www.zayactu.org/wp-content/uploads/2025/11/Armes-saisies.png
     publisher: ZayActu
     caption: 'Police photo of the weapons and equipment seized in the house, including the handgun stock, silencer, ammunition and ballistic vest. Photo: Police nationale de la Martinique'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 25dc1da7f7b56fb271a2971ed3ad53ba

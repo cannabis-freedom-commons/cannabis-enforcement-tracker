@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 41082
   value: { amount: 36930300, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [building]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [ucetf, warehouse, unlicensed-market]
 media:

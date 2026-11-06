@@ -23,6 +23,12 @@ media:
     publisher: Tripura Star News
     caption: Personnel work among cannabis plants during the Sonamura eradication drive
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: reported
 tags: [tripura, sepahijala, sonamura, kamalnagar]
 open_questions:

@@ -23,6 +23,13 @@ figures:
     amount: 10000
     currency: BHD
 created_by_model: cursor/composer-2.5
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [airport, hashish, court]
 open_questions:

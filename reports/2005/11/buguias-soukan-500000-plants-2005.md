@@ -16,6 +16,12 @@ summary: >-
   on site.
 figures:
   plants_destroyed: 500000
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [pdea, aidsotf, cordillera]

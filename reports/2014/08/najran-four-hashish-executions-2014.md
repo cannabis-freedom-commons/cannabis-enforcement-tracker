@@ -16,6 +16,11 @@ summary: >-
 figures:
   deaths: 4
 created_by_model: meta/muse-spark
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [mandatory-death-penalty, hashish, najran]
 open_questions:

@@ -14,6 +14,12 @@ summary: >-
   drug-and-gambling barracks in Sukatendel, Tiganderket, on 22 July 2026. [@1,2]
   Officers uprooted the plants and secured them as evidence while investigating
   who had planted them. [@1,2]
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indonesia, north-sumatra, karo, sukatendel, tiganderket, eradication]

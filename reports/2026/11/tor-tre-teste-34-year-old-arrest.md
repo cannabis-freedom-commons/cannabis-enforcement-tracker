@@ -13,6 +13,11 @@ summary: >-
   Police in Rome arrested a 34-year-old German man for alleged drug dealing after a neighbour dispute in Tor Tre Teste led officers to a flat holding cocaine, hashish and marijuana. Officers seized about one kilogram of mixed drugs and more than 5,000 euros alleged to be dealing proceeds.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a377183f9cbb969af5649ee3d00148b

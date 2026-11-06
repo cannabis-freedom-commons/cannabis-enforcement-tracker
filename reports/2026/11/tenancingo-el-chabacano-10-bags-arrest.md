@@ -19,6 +19,10 @@ media:
     media_url: https://www.digitalmex.mx/media/k2/items/cache/56ea68a71c546acdecdd5acbaa38fbe5_XL.jpg?t=20261103_225313
     publisher: DigitalMex
     caption: 'State police officers detain Ángel N during the surveillance operation in Colonia El Chabacano, Tenancingo. Photo: Especial via DigitalMex'
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 601c8fe7797608f23852296277fd60d5

@@ -31,6 +31,11 @@ media:
     media_url: https://www.eluniversal.com.mx/resizer/v2/VDTWXAQJSVCENKEQRYNYVTHLTU.jpg?auth=e71b29e6bf5179fa521ea95bd63dd245d8661d902e9eb6bd29a0781a067d0904&smart=true&height=666
     publisher: El Universal
     caption: 'The five people detained in the three raids. Photo: SSC, via El Universal'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ddd9e1c2da45932b3bdd97fd12f22512

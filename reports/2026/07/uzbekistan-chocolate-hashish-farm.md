@@ -24,6 +24,11 @@ media:
     url: https://cdn.anhor.uz/migrated/wp/360648/original.webp
     publisher: Anhor
     caption: Hashish packets removed from chocolate wrappers in Khorezm. Still from SSS video via Anhor
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

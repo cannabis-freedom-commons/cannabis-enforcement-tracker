@@ -15,6 +15,12 @@ summary: >-
   station team before briefing passers-by on how to report similar plants.
 figures:
   plants_destroyed: 349
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, urumqi, wild-cannabis, eradication]

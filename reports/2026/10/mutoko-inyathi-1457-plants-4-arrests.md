@@ -19,6 +19,10 @@ summary: >-
 figures:
   arrested: 4
   plants_destroyed: 1457
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [mutoko, inyathi, cultivation]

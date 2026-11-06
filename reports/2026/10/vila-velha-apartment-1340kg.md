@@ -31,6 +31,12 @@ media:
     media_url: https://eshoje.com.br/wp-content/uploads/2026/10/0aecaac7-55f2-4047-950b-be214a3c1212-1024x576.webp
     publisher: ES Hoje
     caption: 'Cleidileia Firmino, Felipe Vieira Lima and Saulo Ferreira Junqueira, the three people arrested over the Vila Velha seizure. Photo: Reprodução'
+details:
+  agencies: [br-pf, br-pm]
+  agency_types: [police, gendarmerie]
+data_sources:
+  details.agencies: [1, 2, 3, 6, 7]
+  details.agency_types: [1, 2, 3, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d1c28c9aebc1cda2151e717ad8c9872a

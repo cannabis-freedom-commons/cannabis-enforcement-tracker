@@ -20,6 +20,12 @@ figures:
     amount: 200000
     currency: PHP
 created_by_model: xai/grok-4.7
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [philippines, benguet, kibungan, eradication]
 sources:

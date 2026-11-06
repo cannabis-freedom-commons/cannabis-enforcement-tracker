@@ -19,6 +19,11 @@ media:
     media_url: https://cp.slaati.com//wp-content/uploads/2026/11/95cd3861-c4db-461b-bf01-da65e4085eea.jpg
     publisher: صحيفة صدى الالكترونية
     caption: Photo published with the report on the Ethiopian arrested for promoting hashish in Jazan.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9bcebd5da67cc89a5e08cef847200210

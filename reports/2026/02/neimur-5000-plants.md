@@ -35,6 +35,10 @@ media:
     media_url: https://juneebulletin.com.au/wp-content/uploads/2026/02/Cannabis-Crop-Seizure-1.jpeg
     publisher: Junee Bulletin
     caption: 'NSW Police photograph cannabis located in bushland at Neimur. Photo: NSW Police, via Junee Bulletin'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [new-south-wales, neimur, riverina, nsw-police, eradication]

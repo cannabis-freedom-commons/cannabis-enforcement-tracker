@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   charged: 3
+details:
+  agencies: [us-fbi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ebd9e65a705a7ace70dd93e4cb47075

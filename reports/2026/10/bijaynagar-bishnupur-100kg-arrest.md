@@ -20,6 +20,11 @@ media:
     media_url: https://dbcnews.tv/_next/image?url=https%3A%2F%2Fassets.dbcnews.tv%2F170895%2F148183.webp&w=640&q=75
     publisher: DBC News
     caption: Stacks of wrapped bundles reported as the seized 100 kg of ganja displayed at the SRB-9 briefing.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 41e00cbf421b13a40b754e01f253e6fa

@@ -16,6 +16,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 7.37
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [famagusta, resin, kief]

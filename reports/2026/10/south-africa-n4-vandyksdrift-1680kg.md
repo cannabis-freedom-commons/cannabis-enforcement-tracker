@@ -40,6 +40,13 @@ media:
     publisher: Trucking.africa
     caption: R100 notes seized in the case, laid out on a table.
 created_by_model: command-code/deepseek/deepseek-v4.1-flash#max
+details:
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dagga, n4, mpumalanga, bribery, truck]
 open_questions:

@@ -15,6 +15,12 @@ summary: >-
   2025. The figure was presented at the bureau's January 2026 annual briefing.
 figures:
   plants_destroyed: 238000
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [xinjiang, railway-police, wild-cannabis, eradication]

@@ -21,6 +21,10 @@ media:
     media_url: https://www.elliberal.com.ar/img/publicaciones/2026/10/30/alta/1226765.webp
     publisher: El Liberal
     caption: Detainees and police officers stand behind a table holding seized wrappers, phones and cash; the outlet's caption reads 'Five detained in four raids for drug retailing in two Santiago neighbourhoods'.
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b33973402f6d61ee85a7ebd0b4789a77

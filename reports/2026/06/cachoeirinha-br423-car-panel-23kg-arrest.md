@@ -20,6 +20,12 @@ media:
     media_url: https://www.diariodepernambuco.com.br/_midias/jpg/2026/06/22/1200x800/1_whatsapp_image_2026_06_22_at_07_05_32-909784.jpeg
     publisher: Diario de Pernambuco
     caption: 'PRF handout photo of the seized cannabis blocks and the hidden dashboard compartment in the car. Photo: Ascom/PRF'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f9d6cf0fcbca45d1b74af0b69422a758

@@ -14,6 +14,11 @@ summary: >-
 figures:
   kg_seized: 2000
 created_by_model: unknown
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [pakistan-navy, ispr, arabian-sea, hashish]
 sources:

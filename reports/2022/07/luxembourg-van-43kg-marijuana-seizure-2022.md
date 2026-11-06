@@ -20,6 +20,11 @@ media:
     media_url: https://img.luxtimes.lu/public/luxembourg/g6s0y1-around-43kg-of-marijuana-was-found-in-a-van-in-luxembourg/alternates/SIXTEEN_NINE_960/Around%2043kg%20of%20marijuana%20was%20found%20in%20a%20van%20in%20Luxembourg
     publisher: Luxembourg Times
     caption: 'Photo of the 43 kg of marijuana found in a van in Luxembourg. Photo: Polizei Wuppertal'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5c19f582a55be3910835014326cf698f

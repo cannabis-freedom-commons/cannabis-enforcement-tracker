@@ -20,6 +20,12 @@ figures:
   kg_seized: 16.041
   value: { amount: 56200000, currency: INR }
 created_by_model: unknown
+details:
+  setting: [airport]
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [airport, bangkok-route, hydroponic, profiling]
 sources:

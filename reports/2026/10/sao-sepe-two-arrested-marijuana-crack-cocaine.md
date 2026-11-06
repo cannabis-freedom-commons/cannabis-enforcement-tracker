@@ -20,6 +20,13 @@ media:
     media_url: https://paralelo29.com.br/wp-content/uploads/2026/10/PC-APREENSAO-DE-DROGAS-SAO-SEPE.jpg
     publisher: Paralelo 29
     caption: 'Police handout photo of the cash, mobile phone and drug portions seized in the arrests in São Sepé. Photo: Polícia Civil (PC), divulgação'
+details:
+  activity: [trafficking]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 97a544609b1bb5b9d1611360a4a99515

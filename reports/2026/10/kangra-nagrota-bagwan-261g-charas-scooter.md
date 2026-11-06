@@ -14,6 +14,11 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.261
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 443c9e58349f7fb0b8b8c58f6855f97f

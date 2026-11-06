@@ -15,6 +15,10 @@ figures:
   arrested: 1
   plants_destroyed: 35000
   hectares: 1.21
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b837d89d518a8b3a6a254564502ee970

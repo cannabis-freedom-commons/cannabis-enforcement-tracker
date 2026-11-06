@@ -19,6 +19,15 @@ media:
     media_url: https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/11/PADRAO-WEB-JUIZ-DE-FORA-2026-11-04T123537.288.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1
     publisher: Rádio Itatiaia
     caption: 'Seized drugs, money, weapons and trafficking items from the Zona da Mata operation. Photo: PMMG / Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 55fee76123a3cf1f87f465ca5cb0d068

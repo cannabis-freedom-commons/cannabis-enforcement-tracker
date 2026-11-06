@@ -20,6 +20,10 @@ figures:
   kg_seized: 535.03
   value: { amount: 414000, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [2]
 status: verified
 tags: [imbabura, ibarra, cero-impunidad, vehicle]
 open_questions:

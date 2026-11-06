@@ -14,6 +14,11 @@ summary: >-
   Municipal police in Soledad de Graciano Sánchez, San Luis Potosí, detained four people, one of them a 15-year-old, during preventive patrols, including two men found with bags of suspected marijuana. A woman and the 15-year-old were held over suspected methamphetamine, and all four were handed to the state prosecutor.
 figures:
   arrested: 4
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4584327dc987df006db16c78d023d52d

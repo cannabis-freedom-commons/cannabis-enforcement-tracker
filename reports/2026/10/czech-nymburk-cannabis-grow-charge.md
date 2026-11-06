@@ -15,6 +15,10 @@ summary: >-
 figures:
   charged: 1
   prison: up to 3 years
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [nymburk, home-grow, personal-use, three-plant-limit]

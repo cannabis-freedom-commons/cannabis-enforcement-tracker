@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 3.345
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [smuggling, airport, controlled-delivery, india-route]

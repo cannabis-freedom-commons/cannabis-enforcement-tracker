@@ -20,6 +20,12 @@ figures:
   charged: 2
   plants_destroyed: 6000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [medical-marijuana, federal-prosecution]
 open_questions:

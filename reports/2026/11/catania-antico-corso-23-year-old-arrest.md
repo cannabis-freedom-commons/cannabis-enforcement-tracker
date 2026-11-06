@@ -25,6 +25,11 @@ media:
     media_url: https://questure.poliziadistato.it/statics/45/a-passeggio-con-la-marijuana-sotto-la-felpa-23enne-arrestato-dalla-polizia-di-stato-in-via-antico-corso.jpg?art=1&lang=it
     publisher: Questura di Catania, Polizia di Stato
     caption: 'Police headquarters photo published with the statement on the 23-year-old''s arrest in Via Antico Corso. Photo: Polizia di Stato'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 806eab78903b18f01467b0170e55e4b9

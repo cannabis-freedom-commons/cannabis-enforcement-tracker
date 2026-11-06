@@ -19,6 +19,15 @@ media:
     media_url: https://www.portal24.com.br/arquivos/noticias/21214/equipe-do-choque-encontra-caminhonete-roubada-e-pes-de-maconha-em-cascavel.jpg
     publisher: Portal24
     caption: Photo published with the report of the stolen pickup and cannabis plants found in Cascavel.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 5]
+  details.agency_types: [1, 5]
+  details.products: [1, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5886b9725682d6ee04606fc9e69e06c9

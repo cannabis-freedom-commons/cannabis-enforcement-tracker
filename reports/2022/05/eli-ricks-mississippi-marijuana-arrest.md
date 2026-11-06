@@ -13,6 +13,10 @@ summary: >-
   Alabama cornerback Eli Ricks was arrested by the Mississippi Highway Patrol on Sunday 1 May 2022 and booked on charges of speeding, driving without insurance and marijuana possession. The ESPN report, based on an online database, said it was his first marijuana possession charge and that his bond was set at $0.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 337221b63f9a5744dbd6f850ce8489bf

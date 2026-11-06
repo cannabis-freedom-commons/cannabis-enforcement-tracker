@@ -28,6 +28,10 @@ media:
     media_url: "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/7/fb/7fb6bc1f-8be6-4c6e-a489-3b1819785d43/69a7174c6e64b.image.jpg?resize=400%2C219"
     publisher: Puerto Rico Police Bureau, via WAPA
     caption: The black Toyota Tacoma where police found the marijuana packages in Carolina.
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 3]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [carolina, puerto-rico, pr-26, traffic-stop, prpd]

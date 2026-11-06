@@ -16,6 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 6000
   arrested: 0
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, forest-preserve, aerial-surveillance]

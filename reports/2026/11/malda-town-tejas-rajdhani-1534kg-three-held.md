@@ -23,6 +23,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/05/1793886146712/sizes/05bha_54_05112026_6-a0d968-hero.webp
     publisher: Prabhat Khabar
     caption: 'The recovered ganja pictured with the report on the Malda Town Tejas Rajdhani seizure. Photo: Prabhat Khabar Network'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b149727a555062c9c0e8d17e952db7e5

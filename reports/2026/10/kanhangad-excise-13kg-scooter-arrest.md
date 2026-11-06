@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.3
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f7b27018311c84182f11b879e0f65a60

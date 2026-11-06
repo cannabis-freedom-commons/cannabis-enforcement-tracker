@@ -20,6 +20,15 @@ media:
     media_url: https://emtemponoticias.com.br/wp-content/uploads/2026/10/screenshot-2026-10-30-at-08-32-28-whatsapp.webp
     publisher: Em Tempo Notícias
     caption: Rows of bagged crack rocks and marijuana portions and two mobile phones laid out on a table beneath a K9 unit 'Canil' cap, in the picture published with the report of the seizure; no credit given.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 5]
+  details.agency_types: [1, 2, 3, 5]
+  details.products: [2, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3238a325db140b597a1ddcacef2d741d

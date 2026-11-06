@@ -18,6 +18,15 @@ figures:
   kg_seized: 300000
   arrested: 2
   value: { amount: 500000000, currency: INR }
+details:
+  agencies: [in-excise]
+  agency_types: [regulator]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kandhamal, phiringia, ganja]

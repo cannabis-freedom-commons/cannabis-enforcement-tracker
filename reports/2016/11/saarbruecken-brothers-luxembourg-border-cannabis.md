@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 8.593
+details:
+  agencies: [de-zoll]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: ed1d81f2208dc1f0e76447effbf9a14a

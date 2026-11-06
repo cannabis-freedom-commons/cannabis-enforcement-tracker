@@ -23,6 +23,12 @@ media:
     media_url: https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20250309123248.jpg
     publisher: ANI
     caption: 'Seized hashish oil after the joint DRI-Coast Guard interception of the Maldives-bound vessel. Photo: PIB via ANI'
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1fdffd019aed051cd3adcdac18ede28c

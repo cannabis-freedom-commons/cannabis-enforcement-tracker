@@ -24,6 +24,11 @@ media:
     media_url: https://questure.poliziadistato.it/statics/16/foto-comunicato-sq-mob.jpg?art=1&lang=it
     publisher: Questura di Varese, Polizia di Stato
     caption: 'Police handout photo published with the Varese Squadra Mobile statement on the case, captioned there as the material seized. Photo: Polizia di Stato, Questura di Varese'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7d1bb73ab56d8e42cf64e8f742f4f426

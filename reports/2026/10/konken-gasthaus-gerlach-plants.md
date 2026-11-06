@@ -22,6 +22,10 @@ figures:
     amount: 1000000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [rheinland-pfalz, kusel, westpfalz, indoor]
 open_questions:

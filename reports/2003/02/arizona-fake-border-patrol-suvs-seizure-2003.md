@@ -18,6 +18,12 @@ figures:
   arrested: 1
   kg_seized: 862
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [arizona, southwest-border, fake-police-vehicles]
 sources:

@@ -23,6 +23,14 @@ media:
     publisher: Douane française
     caption: Photo published with the customs announcement of the Le Havre resin seizure
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+  setting: [port]
+data_sources:
+  details.agencies: [1, 2, 6]
+  details.agency_types: [1, 2, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 tags: [douane, port, container, machine-tools, senegal-libya-route]
 open_questions:

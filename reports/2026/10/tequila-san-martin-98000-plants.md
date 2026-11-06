@@ -21,6 +21,12 @@ figures:
     amount: 102900000
     currency: MXN
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [tequila, jalisco, san-martin-de-las-canas]
 open_questions:

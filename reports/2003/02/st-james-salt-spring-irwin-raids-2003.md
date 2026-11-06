@@ -18,6 +18,11 @@ figures:
   arrested: 4
   deaths: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [st-james, hash-oil, firearms]
 open_questions:

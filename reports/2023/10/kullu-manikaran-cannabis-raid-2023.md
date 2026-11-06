@@ -16,6 +16,11 @@ figures:
   arrested: 34
   kg_seized: 5.71
   hectares: 19
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kullu, manikaran, himachal-pradesh, charas, ndps-act]

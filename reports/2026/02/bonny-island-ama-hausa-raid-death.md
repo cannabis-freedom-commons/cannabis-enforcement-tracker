@@ -19,6 +19,12 @@ figures:
   arrested: 6
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [bonny-island, rivers-state, ndlea, officer-killed]
 open_questions:

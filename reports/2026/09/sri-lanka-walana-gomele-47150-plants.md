@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 47150
   hectares: 0.2
 created_by_model: Meta Muse Spark (via Muse Code)
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [walana, cultivation, meegahagamuwa]
 open_questions:

@@ -25,6 +25,12 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/gna_los_descubrio_incauto_la_droga_y_los_detuvo.jpeg
     publisher: Argentina.gob.ar
     caption: Gendarmerie photos of the 2,836 cannabis packages found in wooden crates at Paraje Centinela
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bec4afa4889411e64431513750dde6f6

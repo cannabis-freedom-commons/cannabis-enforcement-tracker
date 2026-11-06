@@ -18,6 +18,12 @@ summary: >-
 figures:
   kg_seized: 978.8
   prison: 10 years
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [rosslare, smuggling, haulage]

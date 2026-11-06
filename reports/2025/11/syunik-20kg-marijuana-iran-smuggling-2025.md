@@ -31,6 +31,13 @@ media:
     media_url: https://armenpress.am/storage/images/articles/2025/11/22/QYmYQS3INHcI0yfsegLbqvTjfWFEY08r6NZ6VYru.webp
     publisher: Armenpress
     caption: Photo published with the Armenpress report showing plastic-wrapped packages inside the boot of a car.
+details:
+  activity: [trafficking]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c12d4b16911e543e03cd61faaa3a0073

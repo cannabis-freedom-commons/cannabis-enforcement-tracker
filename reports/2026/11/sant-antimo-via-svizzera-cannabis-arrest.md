@@ -20,6 +20,12 @@ media:
     media_url: https://lostrillone.cdn.m33cloud.com/resizer/1140/-1/true/2026_11_03/46125d40-1878-461d-97fe-7c8117fd0b06-1793710802026.jpg--il_sequestro.webp?1793710802149
     publisher: Lo Strillone TV
     caption: The seizure laid out after the Via Svizzera stop.
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e20b1f4f5dc585ee9be9abcac0244a9b

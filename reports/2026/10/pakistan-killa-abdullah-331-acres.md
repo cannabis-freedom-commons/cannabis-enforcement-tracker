@@ -17,6 +17,12 @@ summary: >-
 figures:
   hectares: 133.9
 created_by_model: unknown
+details:
+  agencies: [pk-anf]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [balochistan, joint-operation]
 sources:

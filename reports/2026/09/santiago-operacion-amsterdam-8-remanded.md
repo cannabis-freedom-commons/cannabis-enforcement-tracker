@@ -13,6 +13,12 @@ summary: >-
   Santiago's Fourth Guarantee Court placed eight accused in pretrial detention in Operación Imperio Amsterdam, a medical-dispensary cannabis case with 72 people detained nationwide. Prosecutors allege leaders used Dispensario Nacional and MA Botanics to grow and sell high-THC cannabis under medical cover for gains over 8 billion pesos.
 figures:
   arrested: 72
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [4]
+  details.agency_types: [4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eb7d0e6315b1937a9feece1748cc5aaf

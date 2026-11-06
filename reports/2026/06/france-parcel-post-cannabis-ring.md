@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 10
 created_by_model: unknown
+details:
+  agencies: [int-europol]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [parcels, eurojust, trafficking]
 sources:

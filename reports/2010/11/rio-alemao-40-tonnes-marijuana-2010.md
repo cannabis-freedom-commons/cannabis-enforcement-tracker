@@ -15,6 +15,12 @@ summary: >-
   from houses in Grota after traffickers fled there from Vila Cruzeiro.
 figures:
   kg_seized: 40000
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [record-seizure, favela-operation]

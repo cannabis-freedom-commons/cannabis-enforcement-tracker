@@ -21,6 +21,11 @@ media:
     media_url: https://media.jagarantripura.com/2026/10/202610293995179.png
     publisher: Jagarantripura.com
     caption: Lead photo displayed with the report on the Rafiq Miah arrest.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7f0928e7bfb6e4578d8ead3327f2f539

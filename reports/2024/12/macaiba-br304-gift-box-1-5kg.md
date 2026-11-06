@@ -19,6 +19,14 @@ media:
     media_url: https://s2-g1.glbimg.com/XV_XYfDDrNPEjUDBLSouDggu6d0=/0x0:870x985/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/h/NH32RHRWqBvcJYfvP5rg/prf.jpeg
     publisher: G1
     caption: 'The gift-wrapped box in which the Federal Highway Police found 1.5 kg of marijuana. Photo: PRF/Cedida'
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a8b57f0255582401f052d403e631d3df

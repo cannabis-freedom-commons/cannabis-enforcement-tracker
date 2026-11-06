@@ -19,6 +19,12 @@ figures:
   arrested: 1
   kg_seized: 2.17
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [santiago-del-estero, la-banda, gendarmeria, plantation]
 media:

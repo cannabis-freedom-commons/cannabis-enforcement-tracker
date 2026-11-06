@@ -20,6 +20,10 @@ figures:
   value:
     amount: 865000
     currency: EUR
+details:
+  setting: [online]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [reims, champagne-connection, telegram]

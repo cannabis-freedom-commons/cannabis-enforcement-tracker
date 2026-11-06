@@ -19,6 +19,10 @@ figures:
   kg_seized: 731
   charged: 5
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
+details:
+  setting: [border]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 tags: [loja, amaluza, espindola, border]
 media:

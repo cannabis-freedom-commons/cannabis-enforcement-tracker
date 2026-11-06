@@ -17,6 +17,14 @@ figures:
   arrested: 2266
   kg_seized: 62595.75
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [dea, project-deliverance, mexico, trafficking]
 open_questions:

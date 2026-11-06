@@ -24,6 +24,11 @@ media:
     media_url: https://images.lanouvellerepublique.fr/image/upload/t_768w/f_auto/v1793643187/6ae917141d8f89061e8b4600.jpg
     publisher: La Nouvelle République
     caption: 'Seized drug load estimated at 113,440 euros after the 30 October 2026 Nouâtre check. Photo: archives NR'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 81b954a6788f32c5f9499cb704a79e12

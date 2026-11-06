@@ -19,6 +19,10 @@ figures:
     amount: 49483500
     currency: GTQ
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [peten, las-cruces, ixcoch, sgaia, eradication]
 open_questions:

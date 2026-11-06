@@ -20,6 +20,11 @@ figures:
   kg_seized: 4100
   arrested: 3
 created_by_model: unknown
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 tags: [hashish, boats, dgst]
 media:

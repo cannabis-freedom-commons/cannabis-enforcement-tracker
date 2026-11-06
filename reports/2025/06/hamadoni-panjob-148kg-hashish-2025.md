@@ -25,6 +25,11 @@ media:
     media_url: https://khovar.tj/rus/wp-content/uploads/2025/06/Mavodi-muhaddir-2.jpg
     publisher: НИАТ «Ховар»
     caption: 'Second security service handout photo, placed beside the passage on the 139 parcels found in the suspect''s BYD car and the 41 parcels found nearby. Photo: State Committee for National Security, published by NIAT Khovar'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b00d25f6a8bc98fd59c2ccae2583a304

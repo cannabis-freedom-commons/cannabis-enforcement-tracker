@@ -17,6 +17,12 @@ figures:
   charged: 1
   kg_seized: 271
   prison: 5 years
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6.1-sol#xhigh
 tags: [florida, jacksonville, rental-van, federal-court, highway-patrol]

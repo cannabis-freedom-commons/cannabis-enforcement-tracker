@@ -20,6 +20,11 @@ media:
     media_url: https://media.gemini.media/img/large/2026/10/31/2026_10_31_23_1_49_559.webp
     publisher: مصراوي
     caption: The two arrested men, in a photo captioned "the two defendants" with the Masrawy report on the Suez arrests; no credit was given.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 4, 5, 6, 7, 8, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 693068529a9505e01d27a84f8f9ca1f1

@@ -16,6 +16,15 @@ summary: >-
   over to PDEA.
 figures:
   kg_seized: 94.597
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [naia, airport, bangkok-route, kush]

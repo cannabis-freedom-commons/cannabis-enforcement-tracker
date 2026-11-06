@@ -19,6 +19,10 @@ figures:
   arrested: 2
   charged: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 tags: [st-lucia, hydroponic, organised-crime]
 media:

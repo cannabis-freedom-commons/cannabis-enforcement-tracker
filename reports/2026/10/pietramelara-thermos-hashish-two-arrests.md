@@ -21,6 +21,15 @@ media:
     media_url: https://statics.cedscdn.it/photos/PANORAMA_HIGH/2026/10/29/9856335_29131743_45f7b10b_96a4_4d6a_9465_3a38d25fdb5f.jpg
     publisher: Il Mattino
     caption: Two Carabinieri officers in uniform beside patrol cars, captioned 'L'intervento dei carabinieri' (the Carabinieri operation) by Il Mattino.
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d5845df061e97bbe2fcae74fd00a49e8

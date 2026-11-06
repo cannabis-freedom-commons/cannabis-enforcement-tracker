@@ -23,6 +23,11 @@ media:
     media_url: https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20231109093658.jpg
     publisher: ANI News
     caption: 'Tamil Nadu police officials with the seized ganja from the Nagapattinam interception. Photo: ANI'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 541ec90d9736a92453cc48bb5aea5bd1

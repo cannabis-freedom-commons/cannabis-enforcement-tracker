@@ -11,6 +11,12 @@ summary: >-
   cannabis from four checked bags at Beijing Capital International Airport in June 2025. They had planned to
   carry it through Beijing to a third country.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 cfi_id: china-beijing-airport-cannabis-2025
 sources:

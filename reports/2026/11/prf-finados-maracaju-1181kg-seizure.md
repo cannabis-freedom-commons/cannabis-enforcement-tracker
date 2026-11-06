@@ -20,6 +20,15 @@ media:
     media_url: https://cdn.midiamax.com.br/wp-content/uploads/2026/11/image-1200-5d23b22b47075ffa87b50ea12d9a0b04.jpeg.webp
     publisher: Midiamax
     caption: 'Drugs and pistols seized during the PRF''s Operação Finados. Photo: Divulgação/PRF via Midiamax'
+details:
+  agencies: [br-pf, br-prf]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 3, 4, 5]
+  details.agency_types: [1, 3, 4, 5]
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: feab9327de57efbb2375f080892e6942

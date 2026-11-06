@@ -23,6 +23,13 @@ media:
     media_url: https://images.fijisun.com.fj/media/0737924d-7263-47a6-acbb-1f762d13e59e?q=75&w=1920
     publisher: Fiji Sun
     caption: 'Police photo published with the Cakaudrove operation report showing a cannabis cultivation area. Photo: Fiji Police Force'
+details:
+  activity: [cultivation]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [fiji, cakaudrove, vanua-levu, marijuana, eradication]

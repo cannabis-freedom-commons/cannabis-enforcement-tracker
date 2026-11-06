@@ -22,6 +22,14 @@ media:
     media_url: https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/03/02/marijuana.jpg?ext=.jpg
     publisher: ABS-CBN News
     caption: 'Uprooted marijuana stalks laid out after the eradication in a village in Cebu City on 2 March 2018. Photo: Rhea Soco, ABS-CBN News'
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [2]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: f9c5bedc0219d74e65c1ffc241222776

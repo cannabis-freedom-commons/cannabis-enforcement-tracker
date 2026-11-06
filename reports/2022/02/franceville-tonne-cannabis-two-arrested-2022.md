@@ -17,6 +17,11 @@ figures:
   value:
     amount: 15000000
     currency: XAF
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b69e0a0be0aebb0eb179af395f3e2398

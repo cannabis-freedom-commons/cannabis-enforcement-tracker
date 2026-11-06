@@ -23,6 +23,11 @@ media:
     media_url: https://www.suryaa.com/cms/postImages/2026-11-04/1793808597_1966657.jpg
     publisher: Suryaa News
     caption: Photo accompanying the Suryaa News report on the Raghavapur ganja seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2b398b68cf153d0e3bf5d1ea52abcf4f

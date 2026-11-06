@@ -16,6 +16,12 @@ summary: >-
   seizing medicine and making more than a dozen arrests. The sweep was the third
   medical-marijuana enforcement action in California that week.
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [dea, dispensaries, medical-marijuana]
 open_questions:

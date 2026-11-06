@@ -14,6 +14,12 @@ summary: >-
   operation on 11 August 2026. [@1]
 figures:
   hectares: 0.405
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tawang, bomja, arunachal-pradesh, ssb, wild-cannabis, eradication]

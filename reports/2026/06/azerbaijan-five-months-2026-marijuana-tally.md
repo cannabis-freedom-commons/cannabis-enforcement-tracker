@@ -17,6 +17,12 @@ figures:
   value:
     amount: 111800000
     currency: AZN
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 890cde8fb143056c8e84172e366721c9

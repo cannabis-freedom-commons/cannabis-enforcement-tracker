@@ -25,6 +25,11 @@ media:
     media_url: https://dolnoslaska.policja.gov.pl/dokumenty/zalaczniki/411/411-388410.jpg
     publisher: Policja Dolnośląska
     caption: 'Police photo of two officers escorting the detained 19-year-old woman outdoors in a residential area. Photo: KPP Polkowice'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb72a43f06fe271ebf9886f7f8119c38

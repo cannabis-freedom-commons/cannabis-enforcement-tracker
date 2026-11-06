@@ -22,6 +22,11 @@ media:
     media_url: https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/1712/4037159/1000w_q95.jpg
     publisher: DVIDS (NATO Special Operations Component Command-Afghanistan)
     caption: 'Courtesy photo from the National Interdiction Unit of the operation that seized and destroyed 34 tons of raw hashish and 300 kg of processed hashish in Mohammed Agha district, Logar, on 12 December 2017. Photo: Afghan National Interdiction Unit courtesy photo, published by DVIDS'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e303745745981f249ac7cb86299ed988

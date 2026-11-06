@@ -22,6 +22,12 @@ media:
     media_url: https://www.lanacion.com.py/resizer/v2/XX6K6JTK7ZBRPCNOLRZW664VIU.jpg?auth=5df2ec25b020b18a4888132f0b11ed89a0a02501fac1a2e21498b2ba0e5de0de&width=1200&height=630&smart=true
     publisher: La Nación (Paraguay)
     caption: Premium cannabis hidden in consumer goods, published with La Nación's report on SENAD airport interceptions.
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [asuncion, senad, air-cargo, premium-cannabis]

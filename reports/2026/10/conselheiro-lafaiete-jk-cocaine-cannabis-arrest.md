@@ -20,6 +20,12 @@ media:
     media_url: https://www.jornalcorreiodacidade.com.br/imagens/destaques/6ae6524c437ff.jpg
     publisher: Jornal Correio da Cidade
     caption: 'Police photo of the drugs and materials seized in the JK house search. Photo: Divulgação/PM'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4572e457385d2a362d745c9f0616a004

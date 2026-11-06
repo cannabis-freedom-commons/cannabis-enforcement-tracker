@@ -20,6 +20,15 @@ media:
     media_url: https://www.sra7h.com/wp-content/uploads/2026/10/HV8651LW4AAnTxc.jpg
     publisher: صحيفة صراحة الالكترونية
     caption: Photo accompanying the report on the six arrests in Medina, Riyadh and Jeddah.
+details:
+  agencies: [sa-gdnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 99052c8b7789ddbb4d069b605cc432e5

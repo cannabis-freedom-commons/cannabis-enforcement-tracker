@@ -14,6 +14,14 @@ summary: >-
   cannabis plants and included anti-drug education for nearby residents.
 figures:
   plants_destroyed: 1000
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [yunnan, deqin, eradication, wild-cannabis]

@@ -17,6 +17,11 @@ summary: >-
 figures:
   arrested: 2
 created_by_model: unknown
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [dagga, firearms, hawks]
 sources:

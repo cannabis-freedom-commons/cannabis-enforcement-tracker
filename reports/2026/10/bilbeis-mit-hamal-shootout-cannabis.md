@@ -15,6 +15,11 @@ summary: >-
 figures:
   deaths: 2
   kg_seized: 3.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 539c41fbacefd24996af4d765ef7652c

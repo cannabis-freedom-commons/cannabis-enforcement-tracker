@@ -19,6 +19,15 @@ media:
     media_url: https://img.dhost.cloud/vW_GHipUvNbf_LrF5mwAMsgIB7o=/966x632/smart/https://cdn.a8se.com/images/d676f/a25319bf7162bffed90c856a93dca1d0f40.png
     publisher: A8 Sergipe
     caption: 'Photo captioned ''drug seizure'' and credited to the Sergipe Military Police (PMSE), on the report of the arrest in Bugio. Photo: PMSE'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 47b07c2012332f18866c229e7046188f

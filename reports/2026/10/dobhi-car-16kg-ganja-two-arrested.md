@@ -36,6 +36,13 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/10/30/e2b3a140-ea3b-4c09-92d0-5e44b63300d2_1793350449671.jpg
     publisher: Dainik Bhaskar
     caption: 'Photo after Bahera police recovered ganja on NH-22. Photo: Dainik Bhaskar'
+details:
+  activity: [smuggling]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2, 3]
+  details.products: [1, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 768df2e0612d3fc62d9d711a83e4092f

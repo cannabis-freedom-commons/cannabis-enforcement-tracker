@@ -26,6 +26,11 @@ media:
     media_url: https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261013/6aceb296e3f20514f528dffe/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4
     publisher: WBKO
     caption: 44-second video report on the Madisonville arrest and seizure.
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 194a0b8eb089873223aef398482c50b5

@@ -13,6 +13,16 @@ summary: >-
   shutting the city's first permitted medical-marijuana dispensary without
   filing charges while the IRS seized its bank accounts. The raid was part of
   a federal crackdown that had already closed most county dispensaries.
+details:
+  agencies: [us-dea]
+  agency_types: [anti-narcotics]
+  activity: [sale]
+  setting: [shop]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensary, sacramento]

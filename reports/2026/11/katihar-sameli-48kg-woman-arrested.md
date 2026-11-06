@@ -21,6 +21,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/03/ec3cb82c-7ef4-4c18-be95-900fe7ab3bcd_1793700404313/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: Video report on the Sameli raid and the 48 kg ganja seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4cbd68aa90dd72c77b949a20959d0722

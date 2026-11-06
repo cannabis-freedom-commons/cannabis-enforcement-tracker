@@ -11,6 +11,11 @@ also: [arrest, seizure]
 title: 25 convicted in Durg 2026 NDPS cases including ganja trafficking
 summary: >-
   Durg police said courts convicted the accused in 25 NDPS cases in 2026, including several ganja-trafficking cases with 1 kg to more than 5 kg seized in some cases. Courts imposed prison terms and fines, with some accused given 10 to 15 years of rigorous imprisonment and fines up to Rs 100,000 across the mixed caseload.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0b76a86d84501c307a4130e4655b3c64

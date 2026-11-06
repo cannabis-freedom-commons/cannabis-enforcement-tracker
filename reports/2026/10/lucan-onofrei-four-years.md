@@ -18,6 +18,12 @@ figures:
   prison: 4 years
   value: { amount: 1556000, currency: EUR }
 created_by_model: xai/grok-4.7
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [dublin, lucan, circuit-court]
 open_questions:

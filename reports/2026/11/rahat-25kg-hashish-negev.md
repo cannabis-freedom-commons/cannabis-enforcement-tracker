@@ -30,6 +30,11 @@ media:
     media_url: https://images.alarab.com/data/news/2026/11/01/WhatsApp_Image_2026-11-01_at_09.32.47_1793518614929_275331176.jpeg
     publisher: كل العرب
     caption: A police officer's gloved hands holding a rifle in a photograph published with the report on the Negev seizures.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 4, 5, 6, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6b5d071cc2c65fe0541a61404f8b8a0f

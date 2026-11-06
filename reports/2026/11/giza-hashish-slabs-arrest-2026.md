@@ -13,6 +13,11 @@ summary: >-
   Giza detectives arrested an unemployed man with a prior record on suspicion of trafficking hashish across Giza, seizing hashish slabs, cash and a phone. He admitted possessing the drugs for sale and the prosecution ordered him detained pending investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 938818b309334c09cf157e66ce2693ba

@@ -19,6 +19,10 @@ figures:
   arrested: 3
   charged: 3
 created_by_model: cursor/composer-2.5-fast
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [pavia, vigevano, indoor]
 open_questions:

@@ -30,6 +30,14 @@ cover:
   url: https://tribune.net.ph/2026/07/18/38400-marijuana-plants-uprooted
   media_url: https://images.assettype.com/tribune/2026-07-18/9q7wf7pa/MJ.jpg
 created_by_model: opencode-go/deepseek-v4.1-flash#max
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [cordillera, kalinga, eradication]
 open_questions:

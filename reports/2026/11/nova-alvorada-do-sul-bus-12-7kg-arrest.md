@@ -21,6 +21,17 @@ media:
     media_url: https://cdn1.jd1noticias.com/Folder/2026/11/1972abd2-d9ad-45fb-a6e7-48378101e876/conversions/whatsapp-image-2026-11-02-at-095350-medium.webp
     publisher: JD1 Notícias
     caption: 'Seized packages of the substance described as marijuana. Photo: Divulgação/PMMS'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  setting: [vehicle]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f94d3382ed8fe026ade855bd03b65e2

@@ -18,6 +18,11 @@ media:
     media_url: https://media.assettype.com/dailythanthi%2F2026-11-04%2F61yl2nuf%2FUntitled-1.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Daily Thanthi
     caption: Police burning of the 174.05 kg of seized ganja at Pappankulam in the presence of the Tirunelveli Range DIG.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f37828fad5cfd29c59611491d2a0978d

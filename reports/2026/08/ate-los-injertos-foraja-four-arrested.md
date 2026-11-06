@@ -24,6 +24,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/HS7XTIEQABFXFJ55ZY5TDZUDTY.webp?auth=6d309c26cca1a63d61b13a3ca1e0b46044e17bb1c56b7b3b2a809c2cc9437d23&smart=true&width=350&height=191&quality=85
     publisher: Infobae
     caption: 'The four detained people, including alleged ringleader Christian Omar Aliaga Pariona, alias Piko or Culon. Photo: Peru 21 via Infobae.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e69a8ba7b685f08b3c70ba1da03b092b

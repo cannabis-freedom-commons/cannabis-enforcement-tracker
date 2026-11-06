@@ -13,6 +13,10 @@ summary: >-
   Federal police detained two men in Santiago del Estero's Tradición neighbourhood, seizing 20 marijuana packets and 60 cocaine packets allegedly ready for sale. The detainees and the seized drugs and cash were placed at the disposal of prosecutor Natalia Saavedra and the control-and-guarantees court.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c5870f997cb5427994ce8bddd4a59408

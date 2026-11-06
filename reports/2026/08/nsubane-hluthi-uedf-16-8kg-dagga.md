@@ -17,6 +17,11 @@ figures:
   value:
     amount: 16800
     currency: SZL
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe2d5077e4859c0f50f5f0a3ba821a21

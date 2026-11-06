@@ -20,6 +20,13 @@ figures:
   charged: 1
   kg_seized: 2.8
   prison: 11 months
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [greenland, nuuk, airport, hash, straksdom]

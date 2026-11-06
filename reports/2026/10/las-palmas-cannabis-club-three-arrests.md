@@ -36,6 +36,12 @@ media:
     media_url: https://estaticos-cdn.prensaiberica.es/clip/99465297-a605-4308-8fc6-39efa97f8311_alta-libre-aspect-ratio_default_0_x960y360.jpg
     publisher: La Provincia
     caption: 'Containers of cannabis found during the search of the premises. Photo: Policía Nacional.'
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1, 3, 4, 5, 6, 7]
+  details.agency_types: [1, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2b2a5b0d1e7428f24187416773e3b139

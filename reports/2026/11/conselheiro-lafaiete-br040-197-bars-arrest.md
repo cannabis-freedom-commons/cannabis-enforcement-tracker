@@ -30,6 +30,12 @@ media:
     media_url: https://www.jornalcorreiodacidade.com.br/imagens/destaques/6ae7460d5477e.jpg
     publisher: Jornal Correio da Cidade
     caption: 'Lead photo on the source page for this seizure report. Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 292b47e34414e719feefd54285386d5c

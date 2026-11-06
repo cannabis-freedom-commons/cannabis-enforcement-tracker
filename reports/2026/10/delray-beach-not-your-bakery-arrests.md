@@ -20,6 +20,10 @@ media:
     media_url: https://static.therealdeal.com/wp-content/uploads/2026/10/Drug-Scheme-Allegedly-Paid-for-3M-in-South-Florida-Real-Estate-1024x683.jpg
     publisher: The Real Deal
     caption: 'Hassan Soueid and Casey Ann Smith with 4950 Glenn Pine Lane and 1300 South Ocean Boulevard. Photo: Palm Beach County Sheriff''s Office, Google Maps, Getty via The Real Deal'
+details:
+  activity: [money]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de5285033fc519389eab7b196334504f

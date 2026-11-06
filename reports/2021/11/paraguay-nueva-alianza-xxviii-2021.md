@@ -24,6 +24,12 @@ media:
     publisher: Hoy (Paraguay)
     caption: "Marijuana destroyed during the Amambay operation. Photo: Senad via Hoy"
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [py-senad]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [senad, amambay, nueva-alianza]
 open_questions:

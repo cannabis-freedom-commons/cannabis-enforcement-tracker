@@ -14,6 +14,10 @@ summary: >-
   After Roberto Carlos Albarracín reported death threats from his brother in Capital, San Juan, police found 29 cannabis plants in the yard and seized them. Sergio Ariel Albarracín, 38, remains a fugitive while a federal narcotics case is opened.
 figures:
   plants_destroyed: 29
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 65fac2cbd88a134bb46ddbd60b0916c3

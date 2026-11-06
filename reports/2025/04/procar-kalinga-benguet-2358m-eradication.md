@@ -15,6 +15,12 @@ summary: >-
 figures:
   plants_destroyed: 11550
   value: { amount: 2358000, currency: PHP }
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kalinga, benguet, pdea, pro-car]

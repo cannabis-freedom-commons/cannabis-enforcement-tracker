@@ -37,6 +37,11 @@ media:
     media_url: https://images.news18.com/ibnkhabar/uploads/2026/11/up-news-2026-11-04T122237.975-2026-11-c12785846790594d12bdec253cd2cc53-1200x675.jpg?impolicy=website&width=640&height=360
     publisher: News18 Hindi
     caption: Photo of the arrested accused in the Kanpur charas case.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6, 7, 8]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6aea84dd41624fb3c7ad9b8807c8dab

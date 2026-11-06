@@ -17,6 +17,14 @@ figures:
   plants_destroyed: 2150
   arrested: 2
 created_by_model: unknown
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [guardia-civil, madrid, indoor]
 sources:

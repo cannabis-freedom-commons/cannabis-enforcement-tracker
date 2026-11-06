@@ -20,6 +20,12 @@ figures:
   kg_seized: 8
   value: { amount: 800000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
 status: verified
 tags: [dublin, meath, cannabis-factory, operation-nitrogen]
 open_questions:

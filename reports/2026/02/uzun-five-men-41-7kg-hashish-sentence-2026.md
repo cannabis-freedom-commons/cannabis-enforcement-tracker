@@ -22,6 +22,13 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/02/te4oiof72028dCwlZnY17714807156392_b.webp
     publisher: Gazeta.uz
     caption: 'Packages of the seized drugs laid out for the camera in the Uzun district case. Photo: State Security Service of Uzbekistan'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1814222c70abe3a4eddcae20d4f4c86f

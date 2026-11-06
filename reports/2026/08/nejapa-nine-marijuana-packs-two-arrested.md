@@ -24,6 +24,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/LTVACZB6TVAHFLSSQCLXAVA3ME.png?auth=7ede81d0bc6627df9f1d775ac74ff036665ad16e49b6a4d5171ec35489873d05&smart=true&width=350&height=476&quality=85
     publisher: Infobae
     caption: 'Police photo linked to the arrest in colonias El Cambio and Las Américas, where the accused were described as drug distributors. Photo: Policía Nacional Civil de El Salvador via Infobae'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f5b045d2a0bb876e3d469f1f544d1143

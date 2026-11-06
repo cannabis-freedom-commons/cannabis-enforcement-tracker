@@ -21,6 +21,11 @@ media:
     media_url: https://www.thestkittsnevisobserver.com/wp-content/uploads/2016/07/Contents-of-one-of-the-packages-seized-by-Police-on-Saturday-July-16.jpg
     publisher: The St Kitts Nevis Observer
     caption: Photo captioned “Contents of one of the packages seized by Police on Saturday July 16,” showing the contents of a seized package.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 0f576a1babd7aa6fba921ebabc35d98b

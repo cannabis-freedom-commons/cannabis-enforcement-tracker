@@ -16,6 +16,12 @@ summary: >-
 figures:
   hectares: 189.5
 created_by_model: meta/muse-spark
+details:
+  agencies: [id-polri]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [aceh, bersinar-rencong, eradication-campaign]
 media:

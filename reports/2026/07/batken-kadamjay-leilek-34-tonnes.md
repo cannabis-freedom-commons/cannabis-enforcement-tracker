@@ -15,6 +15,14 @@ summary: >-
 figures:
   kg_seized: 3400
   hectares: 7
+details:
+  activity: [cultivation]
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.activity: [1]
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kyrgyzstan, batken, kadamjay, leilek, wild-cannabis, eradication]

@@ -19,6 +19,15 @@ figures:
   kg_seized: 6.078
   value: { amount: 60700000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-dri]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [charas, train, dri, body-concealment, nepal-origin]
 sources:

@@ -18,6 +18,15 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.1
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: unknown
 tags: [wari, dhaka, kush, cultivation-lab, us-citizen]

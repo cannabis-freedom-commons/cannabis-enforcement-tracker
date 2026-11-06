@@ -22,6 +22,10 @@ media:
     media_url: https://www.thestkittsnevisobserver.com/wp-content/uploads/2016/09/Some-of-the-Marijuana-plants-uprooted-and-seized-by-Police..jpg
     publisher: The St Kitts Nevis Observer
     caption: 'Police photograph of some of the marijuana plants uprooted and seized in Operation Safe Streets, captioned ''Some of the Marijuana plants uprooted and seized by Police.'' Photo: Royal St Christopher and Nevis Police Force, published by The St Kitts Nevis Observer'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 33a0beca79656f7e195be3287f57513c

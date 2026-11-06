@@ -14,6 +14,10 @@ summary: >-
   suspects were named and investigations were continuing.
 figures:
   kg_seized: 15
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [parcel-mail, airport, trafficking]

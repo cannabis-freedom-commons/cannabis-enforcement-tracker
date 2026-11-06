@@ -15,6 +15,11 @@ figures:
   charged: 1
   kg_seized: 0.38
   prison: 30 months
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc9722d8e2469e3b1d9067d34b03e818

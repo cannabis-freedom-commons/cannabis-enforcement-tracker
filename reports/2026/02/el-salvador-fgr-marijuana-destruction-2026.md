@@ -23,6 +23,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/Q5EGIPU4C5EUBI64IO33I2YULM.jpg?auth=ac0e21aa414c24266b0259925bc20bdbf43a6ce5bad93fa626ae60d4899f5b&smart=true&width=350&height=236&quality=85
     publisher: Infobae
     caption: 'Authorities destroying seized drugs in a controlled burn during the official procedure in El Salvador. Photo: courtesy FGR'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b032783ada3e841c7ae7e59f885043a2

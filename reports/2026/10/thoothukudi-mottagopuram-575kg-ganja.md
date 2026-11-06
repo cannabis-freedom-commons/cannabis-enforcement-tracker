@@ -21,6 +21,11 @@ media:
     media_url: https://media.assettype.com/dailythanthi%2F2026-10-29%2Fccgs8ete%2FUntitled-1.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Daily Thanthi
     caption: 'The three arrested men standing with police officers behind a heap of seized ganja. Photo: Daily Thanthi'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a57549316ccbbb30c12a3fff9ec54263

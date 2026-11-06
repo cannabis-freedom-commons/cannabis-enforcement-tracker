@@ -20,6 +20,10 @@ figures:
   charged: 1
   kg_seized: 0.74917
   prison: 26 years
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cnb, mandatory-death-penalty, trafficking]

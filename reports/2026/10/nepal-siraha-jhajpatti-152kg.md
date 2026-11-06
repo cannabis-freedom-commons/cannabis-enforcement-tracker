@@ -22,6 +22,13 @@ media:
     publisher: Online Khabar
     caption: Armed Police Force personnel with the nine sacks of cannabis seized at the Jhajpatti border in Siraha.
 created_by_model: command-code/deepseek/deepseek-v4.1-flash#max
+details:
+  setting: [border]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [ganja, siraha, armed-police-force, border]
 open_questions:

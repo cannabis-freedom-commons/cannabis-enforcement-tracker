@@ -12,6 +12,15 @@ summary: >-
   Authorities seized a package with 925 grams of suspected marijuana on 28 October 2026 on Cozumel's Costera Oriente highway during joint patrols. The package was handed to Quintana Roo's specialised narcomenudeo prosecutor, with no detained person reported for this find.
 figures:
   kg_seized: 0.925
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [3]
+  details.agency_types: [3]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bcd0a507d52ec996266760cde375f7ae

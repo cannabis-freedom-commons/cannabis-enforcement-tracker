@@ -24,6 +24,12 @@ media:
     url: https://www.rajasthannews24.in/rajasthan/udaipur-police-action-cannabis-cultivation-discovered
     publisher: Rajasthan News 24
     caption: Police uproot cannabis and hemp plants in a field, and cannabis plants growing among maize.
+details:
+  products:
+    - {product: flower}
+    - {product: edibles}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [udaipur, rajasthan, ganja, bhang, mandwa]

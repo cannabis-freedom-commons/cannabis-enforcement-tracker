@@ -15,6 +15,12 @@ figures:
   arrested: 136
   plants_destroyed: 46796
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 tags: [green-sweep, grow-ops]
 open_questions:

@@ -19,6 +19,15 @@ media:
     media_url: https://www.varginhaonline.com.br/wp-content/uploads/2026/11/04112026_pm_vg.jpg
     publisher: Varginha Online
     caption: 'Police photo accompanying the report on the Praça Getúlio Vargas seizure, credited to the Polícia Militar. Photo: Polícia Militar'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5f0114fc983e2d3d430f20994a4eaae6

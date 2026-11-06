@@ -17,6 +17,12 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: unknown
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [maranhao, indigenous-land, herba-nefanda]
 sources:

@@ -23,6 +23,15 @@ media:
     media_url: https://maritime-executive.com/cdn-cgi/image/width=1024,format=auto,quality=80,fit=scale-down,onerror=redirect/media/images/article/Photos/Drugs/Spanish-hashish-seizure.c12911.jpg
     publisher: The Maritime Executive
     caption: "Hashish recovered from the Natalia. Photo: Policía Nacional via The Maritime Executive"
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [hashish, atlantic, merchant-ship, natalia]

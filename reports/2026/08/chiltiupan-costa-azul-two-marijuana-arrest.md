@@ -19,6 +19,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/FVB4IZUTLRDDBIYRIZ5U4R2K5I.png?auth=f71bc3dc681b0e5256330a773ada39ec724f3a469eb11cf271d0a0963d05254e&smart=true&width=350&height=197&quality=85
     publisher: Infobae
     caption: 'Police photo of the detention of two people transporting marijuana in a Guatemalan-plated vehicle in Costa Azul, Chiltiupán. Photo: cortesía Policía Nacional Civil'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6ae57459bc6ec9697f9783e7067c26db

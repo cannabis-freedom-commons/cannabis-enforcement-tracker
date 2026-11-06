@@ -19,6 +19,15 @@ figures:
   kg_seized: 200
   value: { amount: 1400000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 tags: [dublin, cannabis-resin, west-dublin-gang]
 open_questions:

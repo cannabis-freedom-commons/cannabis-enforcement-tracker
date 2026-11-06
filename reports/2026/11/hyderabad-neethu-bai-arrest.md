@@ -19,6 +19,15 @@ media:
     media_url: https://th-i.thgim.com/public/news/national/telangana/qnfg5z/article71670702.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-05%20at%208.09.05%20PM.jpeg
     publisher: The Hindu
     caption: 'Kalapathi Neethu Bai, captioned as arrested by EAGLE Force on 5 November. Photo credit: By Arrangement.'
+details:
+  agencies: [in-excise, in-eagle]
+  agency_types: [regulator, anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 343c0bdf042911055e8046cc445623f8

@@ -20,6 +20,12 @@ media:
     media_url: https://painel.prod.unitri.edu.br/wp-content/uploads/2026/11/SITE-V9-32.png
     publisher: V9 TV Uberlândia
     caption: 'Seized drugs and related materials from the Aclimação operation. Photo: Polícia Militar de Minas Gerais (PMMG)'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 61c5c46e829af28f12d785fba3309f86

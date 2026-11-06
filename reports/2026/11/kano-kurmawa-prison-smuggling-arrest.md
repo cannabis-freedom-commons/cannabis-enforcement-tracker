@@ -13,6 +13,12 @@ summary: >-
   Correctional officers in Kano arrested a 40-year-old man who allegedly tried to throw suspected cannabis over the perimeter wall into the Medium Security Custodial Centre at Kurmawa. The suspect, said to be from Janguza Quarters, was handed to the NDLEA for investigation as the prison command restated its zero-tolerance stance on contraband.
 figures:
   arrested: 1
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 4, 5, 6, 7]
+  details.agency_types: [2, 4, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a5c6a151c97fd00b24054be37085b7a3

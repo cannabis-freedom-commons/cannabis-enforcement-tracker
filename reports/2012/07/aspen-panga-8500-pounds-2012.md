@@ -17,6 +17,12 @@ figures:
   kg_seized: 3855.5
   value: { amount: 7700000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [coast-guard, panga, maritime-smuggling, pacific]
 sources:

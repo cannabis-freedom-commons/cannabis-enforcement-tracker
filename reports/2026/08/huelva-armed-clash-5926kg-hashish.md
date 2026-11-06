@@ -18,6 +18,12 @@ figures:
   arrested: 10
   kg_seized: 5926
 created_by_model: unknown
+details:
+  agencies: [es-guardia-civil, es-vigilancia-aduanera]
+  agency_types: [gendarmerie, customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 sources:
   - title: Ten members of a criminal organisation have been arrested following a shooting attack on a Civil Guard patrol boat in the waters off Huelva

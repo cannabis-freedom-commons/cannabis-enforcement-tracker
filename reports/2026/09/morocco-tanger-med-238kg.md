@@ -15,6 +15,15 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 238
+details:
+  agencies: [ma-dgsn]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tanger-med, hashish, customs, trailer]

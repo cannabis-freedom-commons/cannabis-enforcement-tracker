@@ -26,6 +26,10 @@ figures:
     amount: 53610
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [var, douanes, a8, trafficking]
 open_questions:

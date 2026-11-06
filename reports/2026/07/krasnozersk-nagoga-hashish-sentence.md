@@ -16,6 +16,11 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years 1 month suspended
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4bac12ff068f496139707b1675e518ad

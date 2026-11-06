@@ -34,6 +34,12 @@ media:
     publisher: Guardia Civil (Ministerio del Interior)
     caption: A masked Guardia Civil officer in an orange vest removes a large blade and ammunition found in one of the registered properties.
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [guardia-civil, garnata-silo, underground, buried-containers, arsenals]
 open_questions:

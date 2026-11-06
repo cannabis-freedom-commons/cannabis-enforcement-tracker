@@ -12,6 +12,11 @@ summary: >-
   Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November 2026 after convicting them of smuggling hashish. The executions brought the kingdom's 2026 total to 205, including 124 drug cases and 32 Ethiopians.
 figures:
   deaths: 5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cad02e3f57090b79fc61c6e533a49427

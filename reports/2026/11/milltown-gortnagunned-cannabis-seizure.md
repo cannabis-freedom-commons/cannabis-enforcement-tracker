@@ -13,6 +13,12 @@ summary: >-
   Gardaí seized cannabis valued at €800–€1,000 from a car on the N17 at Gortnagunned near Milltown and arrested two drivers for drug-impaired driving. The stops on 2 November 2026 were part of the multi-agency Operation Intercept day of action in east Galway.
 figures:
   arrested: 2
+details:
+  agencies: [ie-garda]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e52267efa3db69f2ba04f4b747e0802a

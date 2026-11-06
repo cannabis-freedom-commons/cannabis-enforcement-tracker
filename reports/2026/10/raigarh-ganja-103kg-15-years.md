@@ -26,6 +26,11 @@ media:
     media_url: https://rig24.in/wp-content/uploads/2026/10/2023092159-1024x538-1.jpg
     publisher: RIG24
     caption: The district and sessions court building shown as the article's lead image for the Raigarh sentencing; the page gave no caption or credit.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6a1292520dd6d2084778b0f768aa42af

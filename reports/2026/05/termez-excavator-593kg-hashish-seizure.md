@@ -18,6 +18,11 @@ media:
     media_url: https://www.gazeta.uz/media/img/2026/05/bf5o3bb47pipdq7iYwd17790129914549_l.webp
     publisher: Gazeta.uz
     caption: Still from State Security Service footage of the Termez excavator drug seizure.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 786952a7a290210feec06b4e566a4382

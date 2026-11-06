@@ -15,6 +15,11 @@ figures:
   charged: 30
   kg_seized: 427
   prison: 1 to 16 years
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fd9f9c7d16f9470a7fc48d84e1b70c35

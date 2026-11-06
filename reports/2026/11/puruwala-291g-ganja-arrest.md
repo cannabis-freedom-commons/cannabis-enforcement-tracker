@@ -20,6 +20,11 @@ media:
     media_url: https://www.himachalnownews.com/wp-content/uploads/2026/11/ndps-puruwala-ganja-arrest.jpg
     publisher: Himachal Now News
     caption: Police action after the reported recovery of 291 g of ganja in Puruwala.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0841e812ba3cda5c03490ed17bcb43cc

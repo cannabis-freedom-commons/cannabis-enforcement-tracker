@@ -16,6 +16,10 @@ figures:
   charged: 3
   kg_seized: 6.323
   prison: 2 years (including 1 year suspended)
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3c71c6e7610d108a0acc1e98c669ae07

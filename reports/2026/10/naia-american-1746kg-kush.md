@@ -60,6 +60,17 @@ media:
     caption: >-
       Police and customs officers stand over opened luggage and packages on a table at NAIA Terminal 3 during
       the inspection that found the kush. Photo: PNP Aviation Security Group
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+  setting: [airport]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 7, 8, 9, 12, 13, 15, 16]
+  details.agency_types: [1, 2, 3, 4, 7, 8, 9, 12, 13, 15, 16]
+  details.products: [1, 2, 3, 4, 7, 9, 12, 13]
+  details.setting: [1, 2, 3, 4, 5, 7, 9, 11, 12, 13, 14, 16]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7d8e16ba1a878f91c1f8c45e7a8350e8

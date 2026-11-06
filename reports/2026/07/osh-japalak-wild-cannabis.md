@@ -13,6 +13,12 @@ summary: >-
   cannabis in Japalak, Kyzyl-Kyshtak and Manas-Ata in work reported on 9 July 2026. No quantity or
   area was given. [@1]
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [forest]
+  environment: [wild]
+data_sources:
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [osh, japalak, kyzyl-kyshtak, manas-ata, wild-cannabis]
 open_questions:

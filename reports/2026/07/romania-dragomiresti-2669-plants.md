@@ -19,6 +19,10 @@ figures:
   plants_destroyed: 2669
   kg_seized: 88.45
 created_by_model: cursor/composer-2.5
+details:
+  environment: [greenhouse]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [diicot, neamt, greenhouse, trafficking]
 open_questions:

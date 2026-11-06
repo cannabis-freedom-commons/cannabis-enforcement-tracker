@@ -17,6 +17,12 @@ figures:
   charged: 2
   kg_seized: 2.3705
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [sg-cnb]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
 status: verified
 tags: [mandatory-death-penalty, aljunied, cnb]
 sources:

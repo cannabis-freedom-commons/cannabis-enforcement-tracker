@@ -17,6 +17,11 @@ summary: >-
   referred to the public prosecution; none of the accounts gave the weight of the bundles.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [hashish, giza, manira]

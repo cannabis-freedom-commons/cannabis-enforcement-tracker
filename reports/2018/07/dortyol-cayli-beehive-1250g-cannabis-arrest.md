@@ -21,6 +21,10 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2018/28/2093981b394f8d5300d7a6cba6d5d725_a.jpg
     publisher: Haber7
     caption: Photo published with the report on cannabis seized from beehives in Dörtyol.
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8791eecaf18bb7e23a7e7a081a69cca5

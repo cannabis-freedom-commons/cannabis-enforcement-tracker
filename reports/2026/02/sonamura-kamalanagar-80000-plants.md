@@ -29,6 +29,12 @@ media:
     publisher: Tripura Star News
     caption: Personnel burn a pile of cannabis plants in the cleared plantation area
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [in-bsf]
+  agency_types: [border-guard]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [tripura, sonamura, sepahijala]
 open_questions:

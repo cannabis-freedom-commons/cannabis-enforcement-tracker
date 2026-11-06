@@ -23,6 +23,11 @@ media:
     media_url: https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/_Accused_in_police_custody_1793881746.webp
     publisher: Haribhoomi
     caption: 'Photo captioned “Accused in police custody”, published with Haribhoomi''s report on the 476.5 kg seizure in Jagdalpur. Photo: Haribhoomi'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4, 5, 6, 7, 8, 9, 10]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f66851f7e738323ec84f92c33a65093

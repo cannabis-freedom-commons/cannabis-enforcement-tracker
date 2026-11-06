@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 100000
   value: { amount: 20000000, currency: PHP }
 created_by_model: meta/muse-spark
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 tags: [pdea, cordillera, tinglayan]
 open_questions:

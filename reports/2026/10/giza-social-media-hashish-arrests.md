@@ -17,6 +17,11 @@ summary: >-
   used in the trade.
 figures:
   arrested: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [giza, hashish, social-media]

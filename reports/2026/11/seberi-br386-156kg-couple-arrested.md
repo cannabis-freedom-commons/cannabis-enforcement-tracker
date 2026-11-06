@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 156
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3, 4, 5]
+  details.agency_types: [1, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08bf9eb682f97b0c1cabd47851cd428e

@@ -18,6 +18,13 @@ figures:
   arrested: 1
   kg_seized: 1.055
   prison: 30 months (six months suspended for five years)
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [chinhoyi, dagga, sentence, possession]

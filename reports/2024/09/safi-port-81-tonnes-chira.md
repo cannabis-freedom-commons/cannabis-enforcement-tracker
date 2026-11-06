@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 21
   kg_seized: 8100
+details:
+  agencies: [ma-dgsn]
+  agency_types: [police]
+  activity: [trafficking]
+  setting: [port]
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [safi, port, chira, trafficking]

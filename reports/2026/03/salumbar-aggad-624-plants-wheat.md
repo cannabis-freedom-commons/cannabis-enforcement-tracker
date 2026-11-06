@@ -18,6 +18,10 @@ summary: >-
 figures:
   plants_destroyed: 624
   kg_seized: 120.85
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [salumbar, lasadiya, cultivation]

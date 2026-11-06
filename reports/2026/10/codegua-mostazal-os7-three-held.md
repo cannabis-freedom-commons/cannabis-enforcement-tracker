@@ -25,6 +25,12 @@ media:
     media_url: https://www.elrancaguino.cl/wp-content/uploads/2026/10/1-detenidos-OS7.png
     publisher: El Rancagüino
     caption: Bags of seized drugs, cash and other items laid out on a table in front of Carabineros OS-7 banners after the searches.
+details:
+  agencies: [cl-carabineros]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 88f0ee7e90b92cfbc77d6c2d14170bde

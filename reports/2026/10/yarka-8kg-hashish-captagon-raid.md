@@ -18,6 +18,11 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 8
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [yarka, galilee, hashish, captagon]

@@ -20,6 +20,11 @@ summary: >-
   pieces of the same drug, 5 grams of cocaine and cash they suspected was proceeds.
 figures:
   arrested: 8
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [6, 7]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 60483570fb9b71fd0704755c5862e1f8

@@ -17,6 +17,10 @@ figures:
   plants_destroyed: 360
   value: { amount: 1000000, currency: AUD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1]
 status: verified
 tags: [greenfield-park, hydroponic, wetherill-park]
 open_questions:

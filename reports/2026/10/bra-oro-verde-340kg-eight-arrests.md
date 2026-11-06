@@ -22,6 +22,14 @@ figures:
     amount: 500000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  environment: [indoor]
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.environment: [1, 2, 3]
 status: verified
 tags: [piedmont, carabinieri, oro-verde, indoor]
 open_questions:

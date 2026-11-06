@@ -19,6 +19,15 @@ media:
     media_url: https://portaldozacarias.com.br/site/arquivos/imagens/video/20261103235222whatsapp_video_2026-11-03_at_22.36.41.mp4
     publisher: Portal do Zacarias
     caption: Embedded video presented as footage of the Mundo Novo arrest and seizure operation.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 893c1e0a434cd90d2086eb835657e5f5

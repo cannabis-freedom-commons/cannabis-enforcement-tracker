@@ -36,6 +36,11 @@ media:
     media_url: https://files-101tv-londres.s3-accelerate.amazonaws.com/2026/10/web-narcotrafico-1024x576.jpg
     publisher: 101TV
     caption: 'Part of the seized drug haul, stacked wrapped packages. Photo: Policía Nacional.'
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 53fc23aca5a8e595c134a45894de6b9e

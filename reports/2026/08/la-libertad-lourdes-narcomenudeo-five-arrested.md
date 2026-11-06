@@ -31,6 +31,13 @@ media:
     media_url: https://www.infobae.com/resizer/v2/AZJN6YC33JDZRC37QQXV5MIRBI.jpg?auth=d54fc760f6ef7effdbcf8c123d24ec8219427077deaacf0822aa406e5b6063c0&smart=true&width=992&height=744&quality=85
     publisher: Infobae
     caption: 'FGR photograph captioned as showing the raids in Lourdes, San Juan Opico and Villa Suchit that led to arrests for illicit trafficking and unlawful association. Photo: FGR via Infobae'
+details:
+  activity: [sale]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 6d9e0361de1ba89e195075d78334aea1

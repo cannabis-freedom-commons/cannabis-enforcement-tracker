@@ -10,6 +10,10 @@ summary: >-
   During the Mak-2018 campaign, police in the Dubossary district found thirteen cannabis plants and
   one poppy in a 55-year-old woman’s garden.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: transnistria-medical-homegrow-police-2018
 tags:

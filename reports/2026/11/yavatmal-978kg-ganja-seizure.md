@@ -23,6 +23,11 @@ media:
     media_url: https://marathi.hindusthansamachar.in/Encyc/2026/11/3/6512bd43d9caa6e02c990b0a82652dca_1167038352_H@@IGHT_0_W@@IDTH_600.jpg
     publisher: Hindusthan Samachar
     caption: Police and farmers with sacks of harvested ganja plants in a cotton field in Yavatmal
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 95138b1f5face4bab039a336091d178a

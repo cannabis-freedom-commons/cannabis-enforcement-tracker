@@ -14,6 +14,11 @@ summary: >-
   Alès police arrested a young adult on Rue du Lozère in the Cévennes district on 2 November 2026 after finding cocaine and cannabis resin on him. He was placed in police custody as Midi Libre linked the case to the recurring use of outsiders as expendable drug-trade labour.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4fcc1795e1cbaa08ed65f455c43218d1

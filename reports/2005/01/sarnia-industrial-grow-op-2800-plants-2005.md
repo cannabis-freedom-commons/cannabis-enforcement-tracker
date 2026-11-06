@@ -19,6 +19,12 @@ figures:
   arrested: 2
   charged: 2
   value: { amount: 3400000, currency: CAD }
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [sarnia, grow-op, chemical-valley]

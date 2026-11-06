@@ -17,6 +17,12 @@ figures:
   arrested: 6
   kg_seized: 1959
   hectares: 33
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, ondo, edo, farms]

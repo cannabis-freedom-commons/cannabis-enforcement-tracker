@@ -16,6 +16,10 @@ summary: >-
   were sealed for destruction. No one was arrested.
 figures:
   kg_seized: 123
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [luxembourg, customs, airport]

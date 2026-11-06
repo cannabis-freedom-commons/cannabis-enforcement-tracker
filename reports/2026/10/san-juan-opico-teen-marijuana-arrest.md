@@ -19,6 +19,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/IHVZEKDUZVBGPIQJCSOWZSVYG4.png?auth=54423d4d3b7ecdaf5ec8575610907eb7dde3bb8ecf3002cca63e4ee4144d5dbb&smart=true&width=992&height=558&quality=85
     publisher: Infobae
     caption: 'Police and soldiers intercept the 17-year-old with marijuana in San Juan Opico. Photo: Policía Nacional Civil via Infobae.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8b026147788644c73fa701848ea0dd5d

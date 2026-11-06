@@ -31,6 +31,14 @@ media:
     media_url: https://cdn.jwplayer.com/videos/svQREBlE-jvDuxzKY.mp4
     publisher: Infobae
     caption: 'Video report on the criminal marijuana network operating in Mexico City and the four detentions. Video: SSC via Infobae'
+details:
+  agencies: [mx-gn]
+  agency_types: [gendarmerie]
+  environment: [greenhouse]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c5663e5ddf19ff567d68573156e24ae

@@ -22,6 +22,10 @@ media:
     media_url: https://queencitynewsfeed.com/wp-content/uploads/2026/10/k9.png
     publisher: Queen City Newsfeed
     caption: A deputy and his K9 beside a car with bags of suspected marijuana on the hood and trunk; the page gives no caption or credit.
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e3ba9849ca4f102e4328c8b435ec6388

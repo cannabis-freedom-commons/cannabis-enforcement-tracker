@@ -21,6 +21,12 @@ figures:
   arrested: 9
   charged: 7
   value: { amount: 30000000, currency: CAD }
+details:
+  agencies: [ca-opp]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [molson, barrie, opp, grow-op, organised-crime]

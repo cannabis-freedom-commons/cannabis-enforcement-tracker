@@ -21,6 +21,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2021/12/01/bareilly_1638345241.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: Lead photo on the source page for this arrest report.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9b6cce3bab493734199cac8835301a73

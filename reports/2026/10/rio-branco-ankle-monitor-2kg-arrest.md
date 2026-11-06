@@ -26,6 +26,12 @@ media:
     media_url: https://agazetadoacre.com/wp-content/uploads/2026/10/prisao-1-scaled.jpg
     publisher: A Gazeta do Acre
     caption: 'A two-photo collage showing the handcuffed suspect with BOPE officers, and the two seized cannabis packages, a mobile phone and BOPE unit cards on a BOPE vest. Photo: A Gazeta do Acre (watermark).'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 6]
+  details.agency_types: [1, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 45be1ff0b01e5984552e53c58518ff43

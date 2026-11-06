@@ -13,6 +13,11 @@ summary: >-
   Government Railway Police at Bapatla railway station seized 18 kilograms of ganja hidden in a suitcase on the Bilaspur–Tirupati Express after a ticket examiner reported suspected carriers. The suspects fled during the check and no arrest was reported; police registered a case and are investigating.
 figures:
   kg_seized: 18
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1d9074a9e45de740d4a73f81415e0063

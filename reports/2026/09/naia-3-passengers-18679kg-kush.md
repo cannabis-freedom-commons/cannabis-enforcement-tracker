@@ -18,6 +18,15 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 18.679
+details:
+  agencies: [ph-pdea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [naia, airport, bangkok-route, kush]

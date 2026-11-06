@@ -14,6 +14,11 @@ summary: >-
 figures:
   arrested: 5
   deaths: 2
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 48376ab1f343fdb0e44c4673c5ed4ae5

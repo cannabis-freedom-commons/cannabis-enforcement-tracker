@@ -21,6 +21,11 @@ media:
     media_url: https://lenterakepri.com/wp-content/uploads/2026/11/a_6ae19b59b9dfd.jpeg
     publisher: LenteraKepri.com
     caption: Riau police destroying seized narcotics evidence on 28 October 2026.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b8adadebac254ef1cf5286bf341e3888

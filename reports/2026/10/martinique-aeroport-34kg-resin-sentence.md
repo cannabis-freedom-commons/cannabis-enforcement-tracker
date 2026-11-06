@@ -25,6 +25,13 @@ media:
     media_url: https://rci.fm/sites/default/files/styles/facebook_share/public/2025-11/WhatsApp%20Image%202025-11-12%20at%209.23.41%20PM.jpeg?itok=w5MQ9WdF
     publisher: RCI
     caption: 'Aéroport Aimé Césaire in Martinique, where the arrest took place. Photo: RCI'
+details:
+  setting: [airport]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 082a04c046fc7249631979590a604613

@@ -21,6 +21,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 25
+details:
+  agencies: [ke-nps]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [juja, kimilili, nps, trafficking]

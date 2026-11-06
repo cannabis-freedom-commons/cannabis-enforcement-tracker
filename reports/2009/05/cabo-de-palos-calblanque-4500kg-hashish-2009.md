@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 4500
   arrested: 6
+details:
+  agencies: [es-vigilancia-aduanera]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cabo-de-palos]

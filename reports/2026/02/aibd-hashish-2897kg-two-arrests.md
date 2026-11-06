@@ -86,6 +86,11 @@ media:
     publisher: Seneweb
     caption: Photograph published in Seneweb's gallery of the AIBD seizure; the outlet gives no individual caption.
 created_by_model: openai/gpt-6-luna#max
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [aibd, douanes, hashish, mbour, diass]
 sources:

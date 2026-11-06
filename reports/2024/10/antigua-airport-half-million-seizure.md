@@ -13,6 +13,10 @@ summary: >-
   Police and Customs found six boxes holding 116 vacuum-sealed cannabis
   packages in the V.C. Bird cargo shed on 22 October 2024, a seizure worth
   over half a million dollars. No arrests were reported.
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, cargo]

@@ -19,6 +19,13 @@ figures:
   fine:
     amount: 9000
     currency: TTD
+details:
+  activity: [possession]
+  products:
+    - {product: flower}
+data_sources:
+  details.activity: [2]
+  details.products: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 4d8937930dacc02a87a5a6ce36d0331d

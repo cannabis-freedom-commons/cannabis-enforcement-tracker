@@ -12,6 +12,11 @@ summary: >-
   Gendarmerie stopped a car carrying suspect R.A. at Ikisu on the Gumushane-Trabzon highway and seized 27 grams of cannabis described as kubar esrar. An investigation was opened against R.A. for drug use and possession under Article 191 of the Turkish Penal Code.
 figures:
   kg_seized: 0.027
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5b51fb3df48ef074067efa339295854d

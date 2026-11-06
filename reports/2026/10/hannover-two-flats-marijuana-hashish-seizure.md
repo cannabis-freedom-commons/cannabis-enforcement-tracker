@@ -28,6 +28,14 @@ media:
     media_url: https://www.nord24.de/bilder/die-zollfahnder-beschlagnahmten-in-der-wohnung-des-25-900955m.webp
     publisher: nord24
     caption: 'Cash seized in the 25-year-old suspect''s flat. Photo: Zoll'
+details:
+  setting: [mail]
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 21fac406e1bc5da2d33e819f356b7359

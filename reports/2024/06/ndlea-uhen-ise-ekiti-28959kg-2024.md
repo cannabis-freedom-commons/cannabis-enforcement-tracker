@@ -16,6 +16,12 @@ figures:
   kg_seized: 28959
   hectares: 11.583912
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ndlea, uhen-forest, ise-ekiti]
 sources:

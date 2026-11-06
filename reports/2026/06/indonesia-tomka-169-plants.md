@@ -22,6 +22,10 @@ media:
     url: https://cdn.antaranews.com/cache/1200x800/2026/06/23/1002395483.jpg
     publisher: ANTARA
     caption: 'Soldiers uprooting harvest-ready cannabis at Tomka. Photo: Kogabwilhan III via ANTARA'
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cultivation, military, armed-group, highland-papua]

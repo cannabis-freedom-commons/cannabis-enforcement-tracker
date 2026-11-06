@@ -18,6 +18,12 @@ figures:
   arrested: 6
   kg_seized: 29029.91
   value: { amount: 65000000, currency: USD }
+details:
+  agencies: [us-dea, us-cbp, us-hsi]
+  agency_types: [anti-narcotics, customs, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tunnel, otay-mesa, record-haul]

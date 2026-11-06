@@ -29,6 +29,14 @@ media:
     media_url: https://cdn.elobservatodo.cl/sites/elobservatodo.cl/files/imagecache/380x285/imagen_noticia/whatsapp_image_2026-10-30_at_9.58.32_am.jpeg
     publisher: El Observatodo
     caption: Cannabis plants seized in Diaguitas, in the photograph published with this version of the El Observatodo report; the outlet gives no caption or credit.
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agencies: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.setting: [1, 2, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 53aa49dd84be66a987c9f7d7c0bf6e0d

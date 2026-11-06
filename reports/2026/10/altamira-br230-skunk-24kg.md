@@ -26,6 +26,15 @@ media:
     media_url: https://parawebnews.com/wp-content/uploads/2026/10/CAPA-Materia-2026-10-30T113415.964.jpg
     publisher: PARÁ WEB NEWS
     caption: Packages of the seized skunk in a bag, in the article's lead photo; the page gives no credit.
+details:
+  agencies: [br-prf]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 0d895ba745abaed9a22948df62ba539c

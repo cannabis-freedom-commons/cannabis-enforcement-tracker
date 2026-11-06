@@ -20,6 +20,15 @@ media:
     media_url: https://vodstreaming01.video.globo.com/45/f1/48/15110171_48012169509e0ab330e62e1a008fa212374e2be8/15110171-360p_300k_h264-963d1080-afb1-013f-dada-7ab34a79b295.mp4
     publisher: G1
     caption: G1 video footage of the seized drugs and materials, with on-screen text identifying the Porciúncula operation.
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2, 3]
+  details.agency_types: [2, 3]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 6d337236580a1cf2ed1e886d98de2ba2

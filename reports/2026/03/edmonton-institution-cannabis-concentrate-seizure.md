@@ -15,6 +15,10 @@ figures:
   value:
     amount: 57700
     currency: CAD
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a452367bec7406675f238e68542ba8ab

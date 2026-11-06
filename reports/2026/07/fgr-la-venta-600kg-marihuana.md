@@ -25,6 +25,12 @@ media:
     publisher: Quadratín Tabasco
     caption: Prosecutor's (FGR) photos of the seized packages and the pickup truck, published with the report
 created_by_model: alibaba-token-plan/qwen3.8-flash
+details:
+  agencies: [mx-fgr]
+  agency_types: [prosecutor]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [fgr, checkpoint, pre-trial-detention, hiding-method]
 open_questions:

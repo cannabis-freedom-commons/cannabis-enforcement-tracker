@@ -17,6 +17,10 @@ summary: >-
 figures:
   plants_destroyed: 1100
   arrested: 13
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [drug-task-force, hydroponic, organised-crime]

@@ -15,6 +15,10 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 90
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 50a4649c1621586d13130975b3f6eb0c

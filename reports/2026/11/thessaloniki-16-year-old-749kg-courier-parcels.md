@@ -20,6 +20,13 @@ media:
     media_url: https://www.rthess.gr/wp-content/uploads/2026/11/kannavi-rthess.jpg
     publisher: Rthess
     caption: Seized courier parcels reported as containing 7.5 kg of skunk addressed to a 16-year-old in Thessaloniki.
+details:
+  setting: [mail]
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  details.setting: [1, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e67e834979097043affd592711a8ba33

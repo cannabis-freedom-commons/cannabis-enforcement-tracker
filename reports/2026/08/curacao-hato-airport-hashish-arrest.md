@@ -13,6 +13,11 @@ summary: >-
   Curacao police arrested a 26-year-old Curacao-born man at Hato International Airport on 17 August 2026 for allegedly carrying hashish from the Netherlands. He was ordered to remain in custody pending further investigation under the Opium Ordinance.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0da69c8b59a5c897a3e5ad6fed8abf7b

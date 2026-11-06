@@ -14,6 +14,15 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 20
+details:
+  agencies: [bd-bgb]
+  agency_types: [border-guard]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 53f9210dca67aa63ba10963eb742cc01

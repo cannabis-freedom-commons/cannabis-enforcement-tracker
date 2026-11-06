@@ -14,6 +14,11 @@ summary: >-
   Security forces in Tahta, northern Sohag, arrested a 34-year-old man from Al-Jubayrat village with a quantity of hashish and cash police suspect came from drug sales, saying he was caught before he could sell it. The operation was carried out with prosecutors' authorisation and he was referred to the Public Prosecution; no weight, charge or court date has been reported.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 5, 7, 8, 10, 11]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8045942a184035db777fc60ee3e64dcf

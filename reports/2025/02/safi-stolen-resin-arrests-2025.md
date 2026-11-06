@@ -20,6 +20,11 @@ figures:
   arrested: 8
   kg_seized: 85
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [safi, resin, evidence]
 open_questions:

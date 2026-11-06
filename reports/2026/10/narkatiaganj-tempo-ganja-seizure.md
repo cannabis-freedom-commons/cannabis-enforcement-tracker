@@ -34,6 +34,11 @@ media:
     media_url: https://videos.bhaskarassets.com/2026/11/01/4b3024ad-c2ab-449c-96c5-ac90ac828fa4_1793510868405/mp4/v360.mp4
     publisher: Dainik Bhaskar
     caption: 'A 35-second Dainik Bhaskar video on the Narkatiaganj seizure and the search for the main accused. Video: Dainik Bhaskar.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c6f5b02e8796cc39fc3f69004d45ff9b

@@ -14,6 +14,11 @@ summary: >-
   Police in Awsim, Giza arrested an unemployed man accused of drug trafficking with 50 slabs of hashish before distribution. He admitted the activity and the case was referred to the competent authorities for investigation.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b73c10b190cc84f782e5f415ffb3d438

@@ -14,6 +14,12 @@ summary: >-
   Lamezia Terme police arrested three people on 31 October 2026 and seized over 1.3 kg of drugs including hashish and marijuana alongside cocaine, plus a scale and 5,625 euros. Police unions praised the Flying Squad operation; the reports give no separate cannabis weight, so no cannabis quantity is recorded.
 figures:
   arrested: 3
+details:
+  products:
+    - {product: flower}
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a9478e65a5bd02d02a486f1a91751b84

@@ -20,6 +20,11 @@ media:
     media_url: https://img.inform.kz/kazinform-photobank/media/2026-09-04/2c641f60-fdb5-44db-b95c-a6d2d509d542.webp
     publisher: Kazinform
     caption: 'Police photo accompanying the report on the Akkayyn marijuana seizure. Photo: Polisia.kz'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ef605ca145661c1888b84c7a8279e75d

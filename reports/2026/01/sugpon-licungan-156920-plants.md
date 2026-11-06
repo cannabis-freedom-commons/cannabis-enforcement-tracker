@@ -21,6 +21,12 @@ figures:
     amount: 46800000
     currency: PHP
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [ph-pdea, ph-pnp]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ilocos-sur, sugpon, pdea, pnp]
 open_questions:

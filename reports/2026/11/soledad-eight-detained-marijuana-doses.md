@@ -24,6 +24,11 @@ media:
     media_url: https://www.mirioverde.com/media/images/mariguana_asegurada_mirioverde.width-800.jpg
     publisher: Mi Rioverde
     caption: Bags of seized suspected marijuana displayed against a Guardia Civil Municipal backdrop, filed as mariguana_asegurada.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f41f52238749f397b49cfd340822c315

@@ -17,6 +17,13 @@ figures:
   arrested: 4
   kg_seized: 1300
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [building]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [marbella, warehouse, united-kingdom, hashish]
 open_questions:

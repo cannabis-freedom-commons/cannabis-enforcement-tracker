@@ -18,6 +18,10 @@ figures:
   arrested: 2
   kg_seized: 1.874
 created_by_model: unknown
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 tags: [airport, bangkok-route, couriers]
 sources:

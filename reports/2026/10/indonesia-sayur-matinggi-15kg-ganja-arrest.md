@@ -31,6 +31,11 @@ media:
     media_url: https://www.waspada.id/uploads/media/2026/10/1001279100-1793461494272.webp?w=960
     publisher: Waspada
     caption: 'Evidence seized in the Sayur Matinggi case, photographed at the South Tapanuli police station. Photo: Waspada.id/Ist'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e281b75ce383897f1f973fad4d469eab

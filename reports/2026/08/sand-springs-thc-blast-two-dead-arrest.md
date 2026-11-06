@@ -16,6 +16,10 @@ figures:
   arrested: 1
   charged: 1
   deaths: 2
+details:
+  activity: [processing]
+data_sources:
+  details.activity: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 869a295af28cab2c743473e7a46068ac

@@ -19,6 +19,14 @@ figures:
         amount: 2700000000
         currency: MUR
 created_by_model: unknown
+details:
+  agencies: [int-interpol]
+  agency_types: [police]
+  setting: [port]
+data_sources:
+  details.agencies: [9]
+  details.agency_types: [9]
+  details.setting: [1, 2, 3, 7, 10, 11, 12]
 status: reported
 tags: [maritime, thailand-route, coast-guard]
 sources:

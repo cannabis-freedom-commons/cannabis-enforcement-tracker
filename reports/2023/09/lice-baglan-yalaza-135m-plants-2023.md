@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 2121
   plants_destroyed: 13514550
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [lice, diyarbakir, gendarmerie]

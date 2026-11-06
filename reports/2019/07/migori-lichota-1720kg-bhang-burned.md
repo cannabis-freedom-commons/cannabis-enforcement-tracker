@@ -16,6 +16,11 @@ summary: >-
 figures:
   kg_seized: 1720
   value: { amount: 17200000, currency: KES }
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [bhang, migori, exhibits-destruction]

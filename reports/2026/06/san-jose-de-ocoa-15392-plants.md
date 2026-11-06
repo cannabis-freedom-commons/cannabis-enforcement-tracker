@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 15392
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 6]
 status: verified
 tags: [dncd, san-jose-de-ocoa, el-pinar, plantation]
 open_questions:

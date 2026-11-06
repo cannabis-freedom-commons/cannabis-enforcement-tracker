@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 43d98d0b25dd3a14518c777d710f53f1

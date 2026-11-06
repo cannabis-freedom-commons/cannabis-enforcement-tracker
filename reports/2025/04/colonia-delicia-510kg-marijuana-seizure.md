@@ -18,6 +18,12 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/la-gna-decomiso-mas-de-500-kilos-de-droga-en-misiones-2.jpg
     publisher: Argentina.gob.ar
     caption: 'Packages of the marijuana seized in Misiones. Photo: Gendarmería Nacional Argentina'
+details:
+  agencies: [ar-gna]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdfd83f54f99621b77480f07317e745b

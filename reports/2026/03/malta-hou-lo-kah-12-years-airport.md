@@ -22,6 +22,10 @@ figures:
   fine: { amount: 20000, currency: EUR }
   value: { amount: 153833, currency: EUR }
 created_by_model: cursor/composer-2.5
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [airport, import, trafficking]
 open_questions:

@@ -22,6 +22,12 @@ figures:
   kg_seized: 0.02
   prison: 1 month
   fine: { amount: 50, currency: BDT }
+details:
+  agencies: [bd-dnc]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bogura, mobile-court, dnc]

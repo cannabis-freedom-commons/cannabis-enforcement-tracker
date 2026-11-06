@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 40
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e299769322d56763cd8ae9d4e43005e0

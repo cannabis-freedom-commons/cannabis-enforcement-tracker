@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 59.1
+details:
+  agencies: [tr-egm]
+  agency_types: [police]
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 692181d7c627f7e4c238f7e9fb16428f

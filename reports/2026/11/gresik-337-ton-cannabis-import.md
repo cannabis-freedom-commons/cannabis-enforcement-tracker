@@ -22,6 +22,14 @@ figures:
   arrested: 12
   kg_seized: 3371.4
 created_by_model: cursor/composer-2.5
+details:
+  agencies: [id-bnn]
+  agency_types: [anti-narcotics]
+  activity: [smuggling]
+data_sources:
+  details.activity: [3, 4, 5, 6]
+  details.agencies: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
 status: verified
 tags:
   - bnn

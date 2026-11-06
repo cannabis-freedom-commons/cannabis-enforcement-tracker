@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 0.138
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43ee2671788cd280bbb4fe095f786ce3

@@ -19,6 +19,11 @@ media:
     media_url: https://www.prensalibre.com/wp-content/uploads/2026/06/Canche-loco.jpg
     publisher: Prensa Libre
     caption: 'Investigators transfer the man known as “Canche Loco” after detention in Flores Costa Cuca, Quetzaltenango. Photo: PNC via Prensa Libre.'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3f40e6406c391a96a76f700fa2aa4b60

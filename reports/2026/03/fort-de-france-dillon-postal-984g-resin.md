@@ -19,6 +19,15 @@ media:
     media_url: https://medias.franceantilles.fr/api/v1/images/view/69a7c3ce73ab3c0761074224/width_1000/image.jpg
     publisher: France-Antilles Martinique
     caption: 'The prefect Étienne Desplanques at the Dillon postal sorting centre during the parcel-control operation. Photo: DR (France-Antilles)'
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 84ba5abae8b95fa9b25f88f1a5ba4411

@@ -22,6 +22,13 @@ media:
     media_url: https://newslab.ru/images/2013/sep/23/1379922922_thumb700_IMG_4276.JPG
     publisher: Newslab.Ru
     caption: 'Photo of the seized smuggled hashish. Photo: r-19.ru'
+details:
+  activity: [smuggling]
+  products:
+    - {product: hashish}
+data_sources:
+  details.activity: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4272c45353711d2910ff6494db5ea147

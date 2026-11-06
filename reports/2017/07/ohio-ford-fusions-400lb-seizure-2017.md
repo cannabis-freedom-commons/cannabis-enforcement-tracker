@@ -26,6 +26,12 @@ media:
     media_url: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-360w,f_avif,q_auto:best/newscms/2017_29/2075621/170717-ford-fusion-marijuana_ford-fusion-se347p.jpg
     publisher: NBC News
     caption: 'Tightly packed marijuana hidden in the spare tire wheel wells of Ford Fusions. Photo: Youngstown Resident Office / Drug Enforcement Administration'
+details:
+  agencies: [us-dea, us-fbi]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 17cbc1443ec8ae957adb1b316fb2195b

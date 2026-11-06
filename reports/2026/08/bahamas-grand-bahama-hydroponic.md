@@ -20,6 +20,10 @@ figures:
   kg_seized: 0.5897
   value: { amount: 2060, currency: BSD }
 created_by_model: openai/gpt-6-luna#max
+details:
+  environment: [indoor]
+data_sources:
+  details.environment: [1, 2]
 status: verified
 tags: [grand-bahama, hydroponic, drug-enforcement-unit]
 open_questions:

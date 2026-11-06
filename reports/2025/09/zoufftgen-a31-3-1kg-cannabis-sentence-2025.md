@@ -25,6 +25,12 @@ media:
     media_url: https://cdn-s-www.republicain-lorrain.fr/images/7D502200-2B96-443A-B329-A879861A1CEB/NW_detail/le-prevenu-belge-a-ete-juge-par-le-tribunal-correctionnel-de-thionville-photo-armand-flohr-1757442834.jpg
     publisher: Le Républicain Lorrain
     caption: 'The convicted Belgian defendant before the Thionville criminal court. Photo: Armand Flohr'
+details:
+  agencies: [fr-douane]
+  agency_types: [customs]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 671f55bcb39ffa62d55bbe1c30448159

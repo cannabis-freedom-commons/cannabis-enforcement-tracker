@@ -27,6 +27,11 @@ media:
     media_url: https://whisperswire.com/wp-content/uploads/2026/11/image-1024x652.jpeg
     publisher: Whispers Wire
     caption: 'Arrested suspects. Photo: Courtesy, published with the report on the crackdown.'
+details:
+  products:
+    - {product: edibles}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [dci, nanib, crackdown, bhang]

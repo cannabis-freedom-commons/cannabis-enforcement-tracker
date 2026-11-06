@@ -24,6 +24,11 @@ media:
     media_url: https://www.nitrak.sk/assets/images/nr/photoalbums/img-1/2026-11/1793874880-foto-policia-zasahovala-v-byte-v-nitre-kde-mali-chovat-exoticke-zvierata-nasla-aj-marihuanu-1.jpg
     publisher: Nitrak.sk
     caption: 'First of nine police photographs published with the article and its photo gallery of the apartment intervention; the gallery is credited to the Facebook page of the Nitra regional police and states no further caption. Foto: FB: Polícia SR - Nitriansky kraj'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0df0ad38cdac19e25281bee90ab105b1

@@ -14,6 +14,11 @@ summary: >-
 figures:
   kg_seized: 0.00028
 created_by_model: openai/gpt-6
+details:
+  products:
+    - {product: oil}
+data_sources:
+  details.products: [1]
 status: verified
 tags: [customs, shenzhen, vape]
 sources:

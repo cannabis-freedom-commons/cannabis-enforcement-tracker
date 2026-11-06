@@ -17,6 +17,11 @@ media:
     media_url: https://rci.fm/sites/default/files/styles/facebook_share/public/2025-10/arme%20crack%20cannabis.jpg?itok=tu6HiZQK
     publisher: RCI Martinique
     caption: Photo published with the Terres-Sainville sweep report, captioned with the headline about the revolver, crack and cannabis seized, showing a handgun and bags of drugs on a table.
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 583a35f98d199c56994851bf6b8c3ac6

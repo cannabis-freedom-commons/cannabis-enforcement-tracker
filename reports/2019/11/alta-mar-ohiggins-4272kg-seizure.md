@@ -19,6 +19,12 @@ figures:
   kg_seized: 4272
   value: { amount: 25000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [cl-pdi]
+  agency_types: [police]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [pdi, armada, cripy, colombia]
 open_questions:

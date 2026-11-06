@@ -13,6 +13,11 @@ summary: >-
   Police at Yamatogne in Ziguinchor arrested a foreign national on 14 July 2025 with 50 balls of hashish found in a passenger vehicle from Guinea-Bissau. The suspect said he bought them at 1,000 FCFA each to resell in Gambia at 10,000 FCFA each, and he was held while police investigated.
 figures:
   arrested: 1
+details:
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 40955c20c7b9f2a984eb5296f5edd15c

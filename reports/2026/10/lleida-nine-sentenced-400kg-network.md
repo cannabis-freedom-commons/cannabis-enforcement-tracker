@@ -30,6 +30,15 @@ media:
     media_url: https://imagenes.segre.com/uploads/2026/10/30/6ae41c1e08e94.webp
     publisher: Segre
     caption: 'The trial at the Lleida courts on the morning of 29 October 2026. Photo: Albert Guerrero'
+details:
+  agencies: [es-mossos]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 15df7cc0fed3f760d6cad6ed37219219

@@ -19,6 +19,15 @@ media:
     media_url: https://pn7.com.br/wp-content/uploads/2026/11/cod-prende-homem-haxixe-tanque-combustivel-1536x864.webp
     publisher: Portal PaNoRaMa
     caption: 'COD officers during the GO-184 stop in Jataí that led to the seizure of 17 suspected hashish portions. Photo: Divulgação/Polícia Militar de Goiás – COD'
+details:
+  agencies: [br-pf]
+  agency_types: [police]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4cbb4824d39403ee6795bd9dadbeba5d

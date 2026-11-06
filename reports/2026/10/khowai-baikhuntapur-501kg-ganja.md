@@ -21,6 +21,11 @@ media:
     url: https://tripuratimes.com/ttimes/customs-assam-rifles-seize-ganja-worth-rs-2-50-cr-in-tripura-42471.html
     publisher: Tripura Times
     caption: 'Assam Rifles personnel standing beside blue-wrapped packages and white sacks after the seizure in Tripura. Photo: Tripura Times'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 2, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, khowai, ganja, assam-rifles, customs]

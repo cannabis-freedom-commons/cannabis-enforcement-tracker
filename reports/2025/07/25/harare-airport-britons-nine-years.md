@@ -21,6 +21,10 @@ figures:
   prison: 9 years (3 suspended)
   value: { amount: 600000, currency: USD }
 created_by_model: cursor/composer-2.5
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [2, 3]
 status: verified
 tags: [airport, import]
 open_questions:

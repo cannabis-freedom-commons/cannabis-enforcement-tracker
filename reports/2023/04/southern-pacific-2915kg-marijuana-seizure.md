@@ -23,6 +23,10 @@ media:
     media_url: https://www.eje21.com.co/site/wp-content/uploads/2023/04/whatsapp-image-2023-04-23-at-9.24.55-am.jpeg
     publisher: Eje21
     caption: 'Navy photo of the intercepted boat''s marijuana load published with the seizure report. Photo: Armada de Colombia.'
+details:
+  setting: [port]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 62fa11563560f9a49d564f2b5e143884

@@ -20,6 +20,14 @@ figures:
   kg_seized: 14332.61
   value: { amount: 18960000, currency: USD }
 created_by_model: meta/muse-spark
+details:
+  agencies: [us-cbp]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [cbp, record-haul, border]
 media:

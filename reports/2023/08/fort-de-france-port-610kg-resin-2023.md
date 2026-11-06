@@ -12,6 +12,17 @@ summary: >-
   French customs officers checking containers at Fort-de-France's Pointe des Grives terminal found 610 kg of cannabis resin in bags hidden in a shipment from Le Havre on 10 August 2023. The drugs were handed to the OFAST anti-narcotics office for destruction and an investigation was opened to find those behind the shipment.
 figures:
   kg_seized: 610
+details:
+  agencies: [fr-ofast]
+  agency_types: [anti-narcotics]
+  setting: [port]
+  products:
+    - {product: hashish}
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c986a21a67eebaaca8048e5f0474e4a7

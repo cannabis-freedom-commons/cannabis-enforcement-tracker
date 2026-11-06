@@ -35,6 +35,11 @@ media:
     media_url: https://banglaralonews.com/public/postimages/6ae4ef4ae8c74.jpg
     publisher: Banglar Alo News
     caption: Photo published with the Banglar Alo News report on the Brahmanpara CNG-auto ganja seizure.
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [1, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ba60f7a9d0f844e38d8e058a2f48222

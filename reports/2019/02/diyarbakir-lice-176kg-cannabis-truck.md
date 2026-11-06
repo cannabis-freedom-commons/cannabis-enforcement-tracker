@@ -21,6 +21,13 @@ media:
     media_url: https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2019/08/a1493261d3906a72190f4139082946d6_a.jpg
     publisher: Haber7
     caption: White sacks of the seized cannabis displayed in front of a Diyarbakır provincial gendarmerie banner.
+details:
+  setting: [vehicle]
+  products:
+    - {product: hashish}
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1eac51aa13f52d004ba80ba0d1f47c62

@@ -24,6 +24,11 @@ media:
     media_url: https://cdnwine.diario1.com/wp-content/uploads/2026/02/cropped-HAwrJhIW0AA2t7i.jpg
     publisher: Diario1
     caption: 'Police photo captioned as two men captured with several portions of marijuana in Quezaltepeque. Photo: PNC via Diario1'
+details:
+  products:
+    - {product: flower}
+data_sources:
+  details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 06b10ed7627d06badee3f13cbfcae309

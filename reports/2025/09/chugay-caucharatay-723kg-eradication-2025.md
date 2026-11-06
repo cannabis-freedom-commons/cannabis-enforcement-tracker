@@ -18,6 +18,10 @@ figures:
   value:
     amount: 206760
     currency: PEN
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86db2b35dc22da9481594f0279886385

@@ -18,6 +18,11 @@ summary: >-
 figures:
   charged: 3
 created_by_model: cursor/composer-2.5
+details:
+  products:
+    - {product: seeds}
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [diicot, dambovita, seeds]
 open_questions:

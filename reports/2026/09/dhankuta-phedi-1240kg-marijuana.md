@@ -26,6 +26,15 @@ media:
     publisher: Onlinekhabar
     caption: The truck and sacks of seized marijuana pictured at night in an Onlinekhabar photograph of the Dhankuta seizure.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agencies: [np-police]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [dhankuta, koshi-highway, marijuana, nepal-police, apf]
 sources:

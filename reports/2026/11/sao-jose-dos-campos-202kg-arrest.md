@@ -20,6 +20,12 @@ media:
     media_url: https://base44.app/api/apps/6a24979bd451b36e3542c1b4/files/mp/public/6a24979bd451b36e3542c1b4/0c06b20bb_homem-e-preso-com-mais-de-2-kg-de-maconha-em-estacionamento-de-supermercado-em-s.jpg
     publisher: AgoraVale
     caption: 'Photo accompanying the report of the man arrested with more than 2 kg of marijuana in the supermarket parking lot in São José dos Campos. Photo: Divulgação'
+details:
+  agencies: [br-pm]
+  agency_types: [gendarmerie]
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bb16530e300958bab0e5b32d67f0bf15

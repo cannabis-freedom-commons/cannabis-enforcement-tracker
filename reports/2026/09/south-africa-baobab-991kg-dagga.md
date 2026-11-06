@@ -23,6 +23,15 @@ media:
     url: https://bnknews.co.za/assets/cache/images/6aae472d4c185-dagga-seizure-beitbridge_1200_977799bb114eacf20b5817237e92a830.webp
     publisher: BNK News
     caption: 'Stacked dagga bales seized in the operation. Photo: SAPS via BNK News'
+details:
+  agencies: [za-saps]
+  agency_types: [police]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tanzania-route, dagga, border, hilux]

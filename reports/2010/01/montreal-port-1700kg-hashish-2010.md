@@ -16,6 +16,14 @@ summary: >-
 figures:
   kg_seized: 1700
   value: { amount: 36000000, currency: CAD }
+details:
+  agencies: [ca-rcmp, ca-cbsa]
+  agency_types: [police, customs]
+  setting: [port]
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cbsa, container, south-africa, rcmp]

@@ -20,6 +20,15 @@ media:
     media_url: https://ndlea.gov.ng/uploads/images/2026/09/20260913105033-A4twmV-whatsapp-image-2026-09-13-at-002036.jpeg
     publisher: National Drug Law Enforcement Agency
     caption: NDLEA handout photograph identifying Paul Ogbuwala and showing the 186 kg skunk recovery in Akure on 9 September 2026.
+details:
+  agencies: [ng-ndlea]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower}
+data_sources:
+  details.agencies: [1, 3]
+  details.agency_types: [1, 3]
+  details.products: [1, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [colorado, skunk, edo, lagos, ndlea]
