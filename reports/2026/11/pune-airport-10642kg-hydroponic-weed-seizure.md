@@ -83,6 +83,11 @@ sources:
     publisher: Deshdoot
     date: 2026-11-05
     language: mr
+  - title: 'Pune : पुणे विमानतळावर कस्टम विभागाची मोठी कारवाई; 10.642 किलो गांजा केला जप्त'
+    url: https://www.lokshahi.com/maharashtra/major-operation-by-the-customs-department-at-pune-airport-10642-kg-of-ganja-cannabis-seized-12787639
+    publisher: Lokshahi Marathi News
+    date: 2026-11-06
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -94,10 +99,13 @@ open_questions:
   - Loksatta does not give the passenger's age or residence, so nothing is added on those points.
   - The Instagram post's text is cut off mid-sentence and the post is a short video, so no new facts beyond the weight, value and interception details could be taken from it.
   - Deshdoot says officers grew suspicious of the passenger's movements as well as his baggage, but gives no airport terminal, officers' ranks or court, and names no suspect.
+  - Lokshahi gives no name or age for the passenger and names no charges, court or flight.
+  - The article attributes the Rs 3.72 crore figure to an official as the international market price and does not say how it was estimated.
+  - The article's photo is captioned only with the headline and is not identified as a picture of this seizure, so it is not listed as media.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
@@ -106,16 +114,16 @@ of Pune Customs. [@2,3]
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
 noodle packets. [@1,8] Each packet was further lined with two layers of
-vacuum-sealed black polythene to mask detection. [@2,8] On opening, the packets
+vacuum-sealed black polythene to mask detection. [@2,8,10] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9]
+crore. [@2,4,5,7,8,9,10]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8,9] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6,8,9,10] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4]
 
 The arrested flyer was 45 years old. [@4]
