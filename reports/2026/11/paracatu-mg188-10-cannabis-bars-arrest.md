@@ -53,6 +53,11 @@ sources:
     publisher: JP Agora
     date: 2026-11-05
     language: pt
+  - title: Paracatu é destino de viagem interrompida por apreensão de maconha e cocaína na MG-188
+    url: https://www.webtvparacatu.com.br/noticias/paracatu-e-destino-de-viagem-interrompida-por-apreensao-de-maconha-e-cocaina-na-mg-188
+    publisher: Webtv Paracatu
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight was published for the 10 marijuana bars, only the bar count, so no kilograms can be recorded.
   - The cocaine bar is mentioned only to explain the mixed seizure and is excluded from cannabis figures.
@@ -62,18 +67,19 @@ open_questions:
   - Only the lead event photo is listed as media; a second image on the page had no caption establishing that it shows this seizure.
   - P.O Notícias and JP Agora record the stop at about 23h27 while the report records about 23h30 from the second account.
   - P.O Notícias dates the operation to the night of Wednesday 4 November, while the report notes another account dates it to the early hours of Thursday 5 November.
+  - This account times the stop at about 23h27, while the existing report records about 23h30 from another account; the existing report already notes the 23h27 timing from other outlets.
 ---
 
 Two men aged 29 and 34 were arrested for drug trafficking during a Highway
-Military Police operation on the MG-188 in Paracatu. [@1,3] The two men were from
-Uberlândia and were travelling toward Paracatu when stopped. [@1,4] After the
-drugs were found, both received arrest orders for drug trafficking. [@1] The
+Military Police operation on the MG-188 in Paracatu. [@1,3,5] The two men were from
+Uberlândia and were travelling toward Paracatu when stopped. [@1,4,5] After the
+drugs were found, both received arrest orders for drug trafficking. [@1,5] The
 suspects were taken for medical evaluation and then to the Civil Police station,
 while the car used to carry the drugs was removed. [@1,3]
 
 Officers stopped a Hyundai HB20 during an anti-drug operation and found the
-drugs inside a suitcase in the trunk. [@1,4] The seizure comprised 10 bars of
-marijuana plus one bar of cocaine found together in the trunk suitcase. [@2,4] The
-stop occurred at km 185 of the MG-188 in Paracatu, recorded at about 23h30. [@2,3]
+drugs inside a suitcase in the trunk. [@1,4,5] The seizure comprised 10 bars of
+marijuana plus one bar of cocaine found together in the trunk suitcase. [@2,4,5] The
+stop occurred at km 185 of the MG-188 in Paracatu, recorded at about 23h30. [@2,3,5]
 The second account dates the overnight operation to the early hours of Thursday
 5 November. [@2]
