@@ -42,6 +42,11 @@ sources:
     publisher: teleSUR
     date: 2026-01-13
     language: es
+  - title: 'VTV Canal 8 on Instagram: "La República Bolivariana de Venezuela ha incautado, en lo que va de 2026, siete mil 148 kilogramos de droga, durante varios procedimientos, anunció el vicepresidente Sectorial de Seguridad Ciudadana y Paz, Diosdado Cabello."'
+    url: https://www.instagram.com/p/DTdku0NgRu9/
+    publisher: VTV Canal 8
+    date: 2026-01-13
+    language: es
 open_questions:
   - The main operation date of 5 January 2026 comes from the second sources; the submitted page is dated 13 January 2026 and gives no separate operation date.
   - The precise river interception point was not published, so Ciudad Bolivar centre coordinates are used for the Orinoco near Ciudad Bolivar.
@@ -49,6 +54,7 @@ open_questions:
   - No arrests, value, or court outcome for the main Orinoco load were reported in the opened sources.
   - Two additional Zulia operations announced in the same briefing, with six detentions and 39.45 kg plus 50 kg of marijuana, are left out here as separate events.
   - The submitted page's photo shows the minister and does not depict the seizure, so no media entry is included, and no direct address was recovered for its embedded social video.
+  - The post is a short broadcast clip and gives no operation-level figures beyond the combined 7,148 kg total for all drugs, so its marijuana component cannot be separated.
 ---
 
 Diosdado Cabello, Venezuela's interior, justice and peace minister, announced
@@ -61,10 +67,12 @@ Officers found 238 bales containing a total of 14,280 wraps in the main load.
 [@1] Of those wraps, 14,199 held marijuana weighing 6,758.66 kg and 81 held
 cocaine weighing 91.75 kg, together 6,850.41 kg of mixed drugs. [@1,4] Cabello put
 the national total for the first 13 days of January at 7,148 kg of all drugs, a
-combined figure not recorded as cannabis here. [@1,4]
+combined figure not recorded as cannabis here. [@1,4,5]
 
 Cabello said blocking maritime and air routes forces traffickers onto land
 routes where they are more vulnerable to surveillance. [@1] He described the
 seizure as a blow to claims that Venezuela facilitates trafficking and to the
 traffickers' logistics. [@1] He said monitoring continues in hard river areas
 such as Delta Amacuro because of its network of navigable channels. [@1]
+
+Cabello said the seizures struck at the logistics of trafficking networks, which he said could not be sustained once that structure was broken. [@5]
