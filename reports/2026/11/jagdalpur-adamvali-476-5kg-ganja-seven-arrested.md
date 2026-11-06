@@ -73,6 +73,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-05
     language: hi
+  - title: 476 किलो से अधिक गांजा जब्त, चार आरोपी गिरफ्तार, तीन नाबालिग भी पकड़े गए
+    url: https://news36live.com/?p=77336
+    publisher: news36live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -97,10 +102,12 @@ open_questions:
   - Spellings differ only by transliteration across outlets, such as Adawal for Adamvali, Bodhghat for Boghaghat and Kontamadi for Kantamadi, and do not indicate different places.
   - The page image is captioned only Chhattisgarh Jagdalpur news and is not shown to depict this interception, so no media entry is added.
   - Navbharat Live puts the tip-off on the morning of 5 November and does not give the hour of the interception itself.
+  - The article names the four adults' fathers but gives no further identifying detail, and does not say whether the three children were formally charged.
+  - The page image has no caption or credit identifying it as this interception, so no media entry is added.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7,8] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
 Chitrasen Gallauri, 22. [@2,7,8] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2] Haribhoomi
@@ -111,7 +118,7 @@ from Malkangiri in Odisha via Kurandi was heading toward Jagdalpur, and officers
 set up a blockade near Adamvali railway crossing. [@2,5,9] Officers saw two young
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2,9] The pickup held
-450 packets of ganja hidden in 15 sacks. [@2,5] Police valued the cannabis at 2
+450 packets of ganja hidden in 15 sacks. [@2,5,10] Police valued the cannabis at 2
 crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5,9]
@@ -135,6 +142,8 @@ Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
 Uttar Pradesh. [@1,4]
 
-The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8]
+The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10]
 
 The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@9] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
+
+The four adults are listed with their fathers' names: Bhagwan Pangi son of Hari Pangi, Ghasi Khilo son of Sundaro Khilo, Chitrasen Gallori son of Kamlu Gallori and Rohani Gallori son of Lachhu Gallori. [@10] The interception came during a district drive against the illegal sale and smuggling of narcotic drugs ordered by Bastar superintendent of police Shalabh Kumar Sinha. [@10]
