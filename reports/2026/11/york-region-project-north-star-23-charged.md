@@ -29,6 +29,11 @@ media:
     media_url: https://www.cp24.com/resizer/v2/IFQWSJ2AJNBKTJ633ML7D54FDQ.png?auth=2716ff72ea62ac00fc0bfdf4cc0f5515181f1ce8e5f6d0e8c0a1e0557283e1da&width=1440&height=921
     publisher: CP24
     caption: 'One of the firearms seized by York Regional Police in Project North Star. Photo: York Regional Police via CP24'
+  - kind: photo
+    url: https://torontosun.com/news/local-news/project-north-star-illegal-cannabis-operation-arrests-toronto-london
+    media_url: https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/11/Project-North-Star-4-e1793818508865.jpg
+    publisher: Toronto Sun
+    caption: 'York Regional Police handout photo from the Project North Star searches, captioned with the July to September 2026 warrants and the seizure of more than 700 kg of cannabis, two firearms, two pickup trucks and more than $250,000 cash. Photo: Handout / York Regional Police'
 details:
   agencies: [ca-cbsa, ca-opp]
   agency_types: [customs, police]
@@ -103,6 +108,10 @@ sources:
     publisher: NewmarketToday.ca
     date: 2026-11-04
     language: en
+  - title: 'PROJECT NORTH STAR: Illegal cannabis operation shut down, 23 arrests in Toronto and beyond'
+    url: https://torontosun.com/news/local-news/project-north-star-illegal-cannabis-operation-arrests-toronto-london
+    publisher: Toronto Sun
+    date: 2026-11-04
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -140,37 +149,44 @@ open_questions:
   - The page gives no weights for the hashish beyond 8.5 pounds, none for the edibles, and no figure for plants, area or the number of searches.
   - The page is a reprint of the York Regional Police release with no independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
   - The page's only image is a supplied portrait of the wanted man, which does not show the event itself, so no media entry is added.
+  - Toronto Sun says the group exported cannabis throughout North America and parts of Europe, while the existing report says destinations across North America; its police quotation uses 'throughout'.
+  - Toronto Sun gives hashish as nearly 4 kg and derivatives as nearly 2 kg, wording that does not resolve the report's lower-bound 708.92 kg conversion.
+  - Toronto Sun repeats the York police release with no independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
+  - Toronto Sun gives Da Hai LIiu with a doubled capital I, apparently a typographical error for Da Hai Liu; the name is copied as published.
+  - Toronto Sun calls Ailsa Craig a rural village while the existing report calls it a rural community; the seven-place warrant list is otherwise identical.
+  - Toronto Sun's $7.5 million figure is introduced in its own text as '$7.5 million in illegal cannabis', while police sources describe it as the value of all drugs seized.
+  - Only the lead handout image (Project-North-Star-4) has a verifiable address in the opened page markup, so only one media entry is added; the other inline images repeat the same generic caption with no confirmed distinct addresses, and it may duplicate police handout photos already linked from CP24.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5,6,7,12,13,14,15]
+[@1,3,4,5,6,7,12,13,14,15,16]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15]
+small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16] Police also seized two firearms
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16]
 Two Ford pickup trucks were also seized, one of which police allege had been
-re-vinned. [@1,3,4,8,11,13] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15] York police put the
-value of all drugs seized in the project at more than $7.5 million. [@2,4,5]
+re-vinned. [@1,3,4,8,11,13,16] Police estimated the cannabis taken from the London grow
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16] York police put the
+value of all drugs seized in the project at more than $7.5 million. [@2,4,5,16]
 
 The investigation was dubbed Project North Star and was launched in February
-2026. [@1,3,5,7,12,13] It was led by the York Regional Police Complex Investigation Unit, in
+2026. [@1,3,5,7,12,13,16] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
-Service. [@2,6,8,9,10,11,12] Investigators allege the group sourced cannabis from several
+Service. [@2,6,8,9,10,11,12,16] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
-London, before distributing it through the underground market. [@1,2,3,4,5] Police say
+London, before distributing it through the underground market. [@1,2,3,4,5,16] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
-delivery services. [@1,3,8,13] Search warrants were executed between July and September
+delivery services. [@1,3,8,13,16] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14] The investigation shut down the illicit
-cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11]
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16] The investigation shut down the illicit
+cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11,16]
 
 The 23 people face a total of 90 charges. [@5]
 
@@ -180,4 +196,6 @@ The 23 individuals charged range in age from 22 to 74 and are from Toronto, Mark
 
 Two London-area residents are among the 23 people charged in Project North Star. [@9]
 
-York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12,15]
+York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12,15,16]
+
+Toronto Sun names all 23 accused, including Qihang Lin, 22, Yongtao Zou, 23, Shu Ying Li, 41, Shi Shun Li, 74, Jiahou Xu, 26, Da Hai LIiu, 45, Chun-Ho Lee, 31, and Zhong Chen, 39. [@16]
