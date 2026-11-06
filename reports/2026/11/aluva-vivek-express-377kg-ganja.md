@@ -62,21 +62,27 @@ sources:
     url: https://urbanacres.in/aluva-ganja-seizure-exposes-drug-smuggling-on-train-routes/
     publisher: Urban Acres
     date: 2026-11-06
+  - title: നാല് ചാക്കുകളിലായി ശർക്കര പൊതിഞ്ഞ നിലയില്‍ കഞ്ചാവ്; ട്രെയിനില്‍ ഉപേക്ഷിക്കപ്പെട്ട നിലയില്‍ കണ്ടെത്തിയത് 19 ലക്ഷം രൂപയുടെ കഞ്ചാവ്
+    url: https://marunadanmalayalee.com/amp/news/keralam/news-869065
+    publisher: Marunadan Malayalee
+    date: 2026-11-05
+    language: ml
 open_questions:
   - Neither report gives the origin or intended destination of the sacks, or where on the route they were placed on the train.
   - No arrest, charge or court step has been reported; investigators said they were trying to identify those behind the consignment.
   - The value of about 19 lakh rupees is the RPF's own estimate, as carried in the reports, not a court-assessed valuation.
   - The two Hindi and Malayalam reports both date the inspection to Thursday, 5 November 2026, the publication day; no separate check time was published.
+  - This Malayalam account does not give the train's origin or destination, the number of the service, or when the sacks were placed aboard.
 ---
 
 Railway Protection Force officers seized 37.7 kg of ganja from the
 Dibrugarh–Kanyakumari Vivek Express at Aluva railway station in Kerala on
-Thursday, 5 November 2026. [@1] The force put the value of the seized ganja at
+Thursday, 5 November 2026. [@1,4] The force put the value of the seized ganja at
 about 19 lakh rupees. [@1]
 
 Officers found four unclaimed sacks in a general coach while inspecting train
 number 22504 after it reached Aluva; they appeared to hold jaggery, but the
-ganja was packed beneath a jaggery coating. [@1] Malayala Manorama reported that
+ganja was packed beneath a jaggery coating. [@1,4] Malayala Manorama reported that
 the cannabis was split across four sacks concealed under jaggery-like wrapping
 and weighed 37.700 kg. [@2] Malayala Manorama reported that the cannabis was
 found unclaimed in the general coach after the train arrived. [@2]
@@ -93,4 +99,3 @@ The RPF handed the ganja to the Aluva Excise Department for further action and
 investigation. [@1] The RPF said smugglers had previously hidden ganja in
 cricket bats, shoes, inverter boxes, paint tins and other goods, and that checks
 at stations and on trains had been stepped up for the festival season. [@1]
-
