@@ -61,6 +61,11 @@ sources:
     publisher: krosno112.pl
     date: 2026-11-05
     language: pl
+  - title: 33-latek miał ponad 180 gramów marihuany. Został zatrzymany
+    url: https://radio.rzeszow.pl/371196/33-latek-mial-ponad-180-gramow-marihuany-zostal-zatrzymany/
+    publisher: Polskie Radio Rzeszów
+    date: 2026-11-05
+    language: pl
 open_questions:
   - Police said officers visited the home during the preceding week but gave no exact day; 5 November 2026, the publication date, is used as the incident date.
   - The home was identified only as being in Krosno County; no town or village was named, and the Krosno County centre coordinates stand in for it.
@@ -69,10 +74,11 @@ open_questions:
   - No court outcome was reported.
   - Radio VIA credits its account to the Podkarpacka Police and its page picture to the Strzyżów district police, so it is not clearly an independent account of the police version.
   - The three photos of the seized material all appear to come from the same Strzyżów police handout and are listed from the police page and the outlet that republished them.
+  - Polskie Radio Rzeszów reproduces the Strzyżów police statement almost verbatim, so it is not an independent account of the search.
 ---
 
 Police found more than 180 grams of marijuana and an electronic scale in the
-home of a 33-year-old Krosno County resident, whom they detained. [@1,4] Criminal
+home of a 33-year-old Krosno County resident, whom they detained. [@1,4,6] Criminal
 investigators from the District Police Headquarters in Strzyżów suspected that
 the resident possessed prohibited substances. [@2,3] Officers went to his home
 during the previous week to verify their suspicions and prevent the substances
@@ -81,11 +87,13 @@ During the search, officers found dried plant material and an electronic scale
 at his home. [@2,3] An initial test identified the material as marijuana, with the
 seized amount exceeding 180 grams. [@2,3]
 
-The man was taken to a police detention facility after the search. [@2,4] After
+The man was taken to a police detention facility after the search. [@2,4,6] After
 questioning, he was charged with possessing narcotic drugs. [@2,5] Officers from
 the investigation-and-detection department gathered evidence and sent the case
-materials to the Strzyżów District Prosecutor’s Office. [@2] A prosecutor placed
-him under police supervision. [@2] Police said the possession offense carries a
+materials to the Strzyżów District Prosecutor’s Office. [@2,6] A prosecutor placed
+him under police supervision. [@2,6] Police said the possession offense carries a
 possible prison term of up to three years. [@2]
 
 The court will decide on the man's criminal responsibility. [@5]
+
+Radio Rzeszów credits the photographs to the Strzyżów county police and files the search under Strzyżów county, Powiat Strzyżowski. [@2]
