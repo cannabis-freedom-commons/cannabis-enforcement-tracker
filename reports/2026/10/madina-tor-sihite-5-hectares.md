@@ -138,6 +138,9 @@ open_questions:
   - The harianSIB account names Kombes Pol Ferry Walintukan giving the figures at provincial police headquarters on 5 November 2026, the same statement the MedanBisnisDaily account carries.
   - The main photo on harianSIB is credited only as Dok/Polda Sumut with a generic operation caption and appears to republish the agency handout already linked in the report, so no media entry is added.
   - Neither account names a suspect, arrest or charge for the plots; police said they were still hunting those who owned and managed the field.
+  - This account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip with a 29 October follow-up check.
+  - This account gives the approach as about 7.5 hours on foot arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip.
+  - This account gives plant height as one to 1.5 metres, while the existing report describes plants as about one to two metres tall.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -364,6 +367,11 @@ sources:
     publisher: MedanBisnisDaily.com
     date: 2026-11-05
     language: id
+  - title: 150 Ribu Batang Ganja Ditemukan di Tor Sihite Madina, Polisi Telusuri Pemilik Ladang Seluas 5 Hektare
+    url: https://sidaknews.com/2026/11/05/150-ribu-batang-ganja-ditemukan-di-tor-sihite-madina-polisi-telusuri-pemilik-ladang-seluas-5-hektare/
+    publisher: SidakNews.com
+    date: 2026-11-05
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -425,12 +433,17 @@ media:
     media_url: https://mitrapol.com/wp-content/uploads/2026/11/5-Hektare-Ladang-Ganja-Ditemukan-di-Madina-Tim-Gabungan-Musnahkan-149.980-Batang-Ganja.jpg
     publisher: Mitrapol
     caption: The cannabis field in the Madina area of North Sumatra, captioned only as its location and carried without a photographer credit; it appears to republish the Polda Sumut handout already listed in this report.
+  - kind: photo
+    url: https://sidaknews.com/2026/11/05/150-ribu-batang-ganja-ditemukan-di-tor-sihite-madina-polisi-telusuri-pemilik-ladang-seluas-5-hektare/
+    media_url: https://sidaknews.com/wp-content/uploads/2026/11/150-Ribu-Batang-Ganja-Ditemukan-di-Tor-Sihite-Madina.jpeg
+    publisher: SidakNews.com
+    caption: Joint Polda Sumut, BNN and TNI team showing cannabis plants found in the Tor Sihite hills; 149,980 plants were destroyed on site and 20 kept as evidence.
 ---
 
 After a public tip on 26 October 2026, Badan Narkotika Nasional (BNN) and police teams in
 Mandailing Natal regency, North Sumatra, hiked about seven hours through steep mountain terrain
 to cannabis plots hidden on Tor Sihite and destroyed them on 31 October. [@1,2,3,14,15,16,23,25,26,28,30,31,35,36,38,43] No growers were
-named or arrested in either account. [@1,2,24,27,29,36,39,42]
+named or arrested in either account. [@1,2,24,27,29,36,39,42,46]
 
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
 investigation before BNN North Sumatra ordered a joint destruction involving about 90 personnel
@@ -451,7 +464,7 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
@@ -459,7 +472,7 @@ The five-hectare fields sat at 1,117 metres above sea level. [@19,32,34,36,37] T
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
 
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26,35]
 
