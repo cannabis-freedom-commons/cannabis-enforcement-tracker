@@ -64,6 +64,11 @@ sources:
     publisher: TV9 भारतवर्ष
     date: 2026-11-05
     language: hi
+  - title: दिल्ली एयरपोर्ट का इंजीनियर निकला गांजा सप्लायर, नोएडा पुलिस ने किया गिरफ्तार; शिलांग से मंगता था सप्लाई
+    url: https://www.jagran.com/uttar-pradesh/noida-delhi-airport-technical-engineer-ganja-supplier-smuggling-arrest-noida-police-shillong-connection-40428132.html
+    publisher: Dainik Jagran
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -93,6 +98,10 @@ open_questions:
   - This account mentions only a bike and two phones and does not mention the Splendor model, phone brands, or 42 printed packing packets already recorded.
   - The page image is captioned only as accused arrested and with the article headline and gives no credit establishing that it shows this seizure, so no media entry is added.
   - No court outcome beyond sending both accused to jail and registration of the case was reported, and the wider supply source remains under investigation.
+  - 'The opened Jagran page is a short, partly cropped copy: it gives no accused names, no arrest date and no quantity of ganja recovered.'
+  - Jagran says the ganja was brought from Shillong, while the existing report records only that consignments came from India's northeast; the two accounts do not fix whether Shillong is the exact source.
+  - The existing report dates the enforcement to 4 November 2026, but Jagran gives no separate date and 5 November 2026 is its publication date only.
+  - The page's only picture is captioned as a representative image (प्रतीकात्मक तस्वीर), so no media entry is added.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -152,3 +161,5 @@ Police have not disclosed any actual involvement of an online shopping company i
 Police said the gang ordered its ganja consignments from states in India's northeast and delivered them across Delhi-NCR on WhatsApp orders. [@8]
 
 Police sent both accused to jail after the arrests. [@9]
+
+Police said the man worked as a technical engineer at Delhi airport and had ganja brought from Shillong to supply in Noida and the surrounding areas. [@10] The accused was selling ganja in Noida that he had sent for from Shillong. [@10] Preliminary investigation found he was running the ganja-supply work alongside his job. [@10] Police said they were questioning the accused to gather information about other people connected to the network, and were taking further action in the case. [@10]
