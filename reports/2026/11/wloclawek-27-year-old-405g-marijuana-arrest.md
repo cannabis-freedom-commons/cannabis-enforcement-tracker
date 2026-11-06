@@ -20,6 +20,11 @@ media:
     media_url: https://wloclawek.policja.gov.pl/dokumenty/zalaczniki/140/140-447575.jpg
     publisher: Komenda Miejska Policji we Włocławku
     caption: 'Police photo from the Włocławek case, showing seized drugs; the police caption gives no item-by-item description. Photo: KMP we Włocławku'
+  - kind: photo
+    url: https://nwloclawek.pl/artykul/marihuana-mefedron-i-n1876338
+    media_url: https://nwloclawek.pl/static/files/gallery/140/1876338_1793878717.webp
+    publisher: nWloclawek.pl
+    caption: 'Police photo from the Włocławek case, captioned only as a city police picture with no item-by-item description. Photo: KMP we Włocławku, via nWloclawek.pl'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 751ab242eb93becfd1bcde87fb1559e9
@@ -55,6 +60,11 @@ sources:
     publisher: Radio PIK
     date: 2026-11-05
     language: pl
+  - title: Marihuana, mefedron i poszukiwany 27-latek. Akcja policji we Włocławku
+    url: https://nwloclawek.pl/artykul/marihuana-mefedron-i-n1876338
+    publisher: nWloclawek.pl
+    date: 2026-11-05
+    language: pl
 open_questions:
   - 'No precise laboratory weight was reported: the figures are "over 405 g" of marijuana and "over 290 g" of mephedrone, so the cannabis figure uses the stated lower bound.'
   - The reports do not say whether the 27-year-old has been formally charged yet; police said he was still to hear the possession charge.
@@ -63,23 +73,26 @@ open_questions:
   - No court outcome beyond the order to serve the earlier six-month sentence was reported.
   - The police statement's three photos carry no descriptive captions, so only one is listed and it cannot be confirmed which items it shows.
   - Radio PIK reports that over 400 g of marijuana was found in the flat, while the Włocławek police statement gives more than 405 g; the report keeps 405 g.
+  - The page shows a three-photo gallery, but only the lead image had a supplied direct address, so only that police photo is listed; it is captioned only as a Włocławek city police picture and it is not confirmed which seized items it shows.
 ---
 
 Włocławek criminal police searched a 27-year-old resident's flat on Tuesday 3
-November 2026 and found drugs. [@1,4,5] The man was already wanted under an order to
+November 2026 and found drugs. [@1,4,5,7] The man was already wanted under an order to
 take him to prison to serve a six-month sentence for an earlier drug offence.
-[@1,4,5,6] He was placed in prison, and police said he will soon also be charged with
+[@1,4,5,6,7] He was placed in prison, and police said he will soon also be charged with
 possessing a significant quantity of drugs, an offence carrying up to 10 years.
-[@1,4,5,6]
+[@1,4,5,6,7]
 
-During the search officers seized more than 405 grams of marijuana. [@1,4,5] They
+During the search officers seized more than 405 grams of marijuana. [@1,4,5,7] They
 also seized more than 290 grams of mephedrone, a stimulant that is not cannabis
-and is left out of the cannabis figure here. [@1,4] The total was almost 700 grams
+and is left out of the cannabis figure here. [@1,4,7] The total was almost 700 grams
 of narcotic and psychotropic substances, and the drugs went to a laboratory for
-detailed testing. [@2]
+detailed testing. [@2,7]
 
 Włocławek police spokesperson Renata Wróblewska-Czaplicka said mephedrone is
 commonly called "kryształ", Polish for crystal, and that laboratory tests were
 to confirm the composition of the substances. [@3] Under Poland's drug-addiction
 law, possessing a significant quantity of narcotic or psychotropic substances
 carries one to 10 years in prison, and a court will decide his case. [@3]
+
+Włocławek detectives check places where banned substances may be stored and detain people linked to drug crime. [@7]
