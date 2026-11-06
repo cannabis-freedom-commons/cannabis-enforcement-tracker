@@ -131,6 +131,16 @@ sources:
     url: https://greekcitytimes.com/2026/11/05/drug-haul-worth-e1-million-uncovered-at-athens-airport/
     publisher: Greek City Times
     date: 2026-11-05
+  - title: Πάνω από 200 κιλά κάνναβης κατασχέθηκαν στο τελωνείο του «Ελευθέριος Βενιζέλος»
+    url: https://creta24.gr/pano-apo-200-kila-kannavis-kataschethikan-sto-teloneio-toy-eleytherios-venizelos/
+    publisher: CRETA24
+    date: 2026-11-05
+    language: el
+  - title: Εντοπίστηκαν 207 κιλά κάνναβης στο τελωνείο του «Ελευθέριος Βενιζέλος» αξίας σχεδόν 1 εκατ. €
+    url: https://www.protothema.gr/greece/article/1905625/edopistikan-207-kila-kannavis-sto-teloneio-tou-eleutherios-venizelos-axias-shedon-1-ekat-/
+    publisher: protothema.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -168,6 +178,7 @@ open_questions:
   - The Greek City Times account gives only 'August' for the arrival of the shipment and no date for the inspection, while other accounts place the find on 19 August 2026.
   - The Greek City Times account names no arrests, suspects or charges and repeats only that the operation prevented the drugs from reaching the market.
   - The page image is captioned as bags of seized cannabis in a secure room at Athens Airport but carries no credit establishing that it shows this consignment, so no media entry is added from this source.
+  - The CRETA24 page image has no caption or credit establishing that it shows this consignment, so no media entry is included.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -184,22 +195,22 @@ media:
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
 smuggling-prosecution department of the customs office at Athens International
 Airport 'Eleftherios Venizelos', located and seized a large quantity of raw
-cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19,20,22] According to the Hellenic Police, abbreviated in
+cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19,20,22,24] According to the Hellenic Police, abbreviated in
 the account as EL.AS, the officers acted after making use of information they
-had received. [@1,8,13,14,17] No arrested people, suspects or charges are named in the
+had received. [@1,8,13,14,17,23] No arrested people, suspects or charges are named in the
 account. [@1,2]
 
 The seizure was made in August 2026 and totalled 207 kilograms and 466 grams of
-raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18,20] Officers found 48 cardboard boxes placed on two pallets
+raw cannabis. [@1,2,3,4,5,6,7,9,10,12,13,14,15,16,17,18,20,23] Officers found 48 cardboard boxes placed on two pallets
 inside a temporary goods-storage warehouse, and those boxes proved to contain
-that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21]
+that cannabis. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,23]
 
 Investigators traced the route of the pallets, which had apparently started by
 air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The accompanying documents for the shipment had declared
-the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,21] Police estimated that the expected financial gain
+the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,21,23] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,22] The investigation was continuing so that the case could be fully examined.
-[@1,4,5,6,7,8,9,10,12,13,14,15,16,17,20]
+[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,22,23] The investigation was continuing so that the case could be fully examined.
+[@1,4,5,6,7,8,9,10,12,13,14,15,16,17,20,23]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
 
