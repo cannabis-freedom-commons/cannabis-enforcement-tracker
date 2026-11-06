@@ -40,6 +40,11 @@ sources:
     publisher: LINFO.re
     date: 2026-11-05
     language: fr
+  - title: 'Saint-Benoît : 193 pieds de cannabis découverts lors d’une perquisition'
+    url: https://www.lequotidien.re/article/faits-divers/2026/11/05/saint-benoit-193-pieds-de-cannabis-decouverts-lors-dune-perquisition
+    publisher: Le Quotidien de La Réunion
+    date: 2026-11-05
+    language: fr
 open_questions:
   - Neither outlet gives a weight for the dried cannabis, so no kilogram figure is recorded.
   - Neither account gives a separate date for the search; both articles are dated 5 November 2026, which is used as the incident date.
@@ -49,17 +54,21 @@ open_questions:
   - Both outlets rely on the Gendarmerie de La Réunion's Facebook post, which was not opened separately; LINFO.re quotes it directly.
   - The direct addresses of the two photos were recovered from the outlets' image markup and metadata, not from a separately opened gendarmerie post.
   - Photo attribution comes from the outlets' captions and credits and was not visually confirmed against the seized material.
+  - Le Quotidien gives no weight for the dried cannabis, so no kilogram figure is added to the report.
+  - Le Quotidien gives no separate date for the search; its article is dated 5 November 2026.
+  - The photo published with the article shows a gendarmerie vehicle and is not a picture of this search, its plants or its grow rooms, so it is not listed as media.
+  - No charge, prosecution or court outcome was reported beyond the garde à vue.
 ---
 
 Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,
-acting in an inquiry into violence with a weapon. [@1] The search uncovered an
+acting in an inquiry into violence with a weapon. [@1,3] The search uncovered an
 installation set up to produce narcotics. [@1] Officers found 193 cannabis
-plants spread over three spaces specially fitted out for growing them. [@1] The
+plants spread over three spaces specially fitted out for growing them. [@1,3] The
 find also included dried cannabis and various pieces of equipment, notably
-ventilation equipment. [@1] The discovery gave a new dimension to the inquiry,
+ventilation equipment. [@1,3] The discovery gave a new dimension to the inquiry,
 which had initially been opened over the armed violence. [@1] After the search,
 the person concerned was placed in garde à vue, French police custody, on
-suspicion of several offences under the drug law. [@1] Réunion outlets call the
+suspicion of several offences under the drug law. [@1,3] Réunion outlets call the
 plant zamal, the local term for cannabis. [@2]
 
 The gendarmerie said the man had been placed in custody for several suspected
@@ -79,4 +88,3 @@ years in prison and a 7.5-million-euro fine. [@1]
 The operation is one of the gendarmerie's actions on Réunion against
 drug-related offences, and investigators are to establish where the production
 was destined. [@1]
-
