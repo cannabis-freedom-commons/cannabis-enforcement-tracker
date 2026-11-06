@@ -65,6 +65,11 @@ sources:
     publisher: 腾讯新闻 (Tencent News), 越南中文社
     date: 2026-11-06
     language: zh
+  - title: Les autorités ont saisi plus de 25 kg de marijuana et des centaines de bâtonnets de tabac chauffé à l'aéroport de Noi Bai.
+    url: https://www.vietnam.vn/fr/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn
+    date: 2026-11-06
+    language: fr
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -84,24 +89,28 @@ open_questions:
   - The Chinese account says dried plant parts were suspected cannabis and gives no laboratory result, so the species remains unconfirmed.
   - The article reports the customs announcement dated 6 November 2026, two weeks after the inspection, and does not say what happened to the passenger afterwards.
   - The 405 cartons and 5 packs of heated tobacco in the same announcement are a tobacco case outside this report.
+  - This account rounds the cannabis weight to more than 25 kg rather than the 25.4 kg given in the existing report; the existing figure is retained.
+  - This account identifies the passenger only as Spanish and gives no name, itinerary origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
+  - The same announcement reports a separate heated-tobacco seizure of more than 400 sticks, a different product left out of the cannabis report.
+  - The page's only event photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is included.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
-2026 when they found a black checked suitcase. [@1,2,3,4,6] The suitcase was checked
+2026 when they found a black checked suitcase. [@1,2,3,4,6,7] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
-leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6] The airport
+leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6,7] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
 Inside the suitcase were two packages measuring about 40 by 70 cm, holding dried
-herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6]
+herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7]
 Questioned by the task force, Gomez admitted that he had been paid €4,000 to
 carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6]
+investigation. [@1,2,3,5,6,7]
 
 The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6]
 
