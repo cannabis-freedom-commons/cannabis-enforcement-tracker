@@ -60,6 +60,11 @@ sources:
     publisher: LINFO.re
     date: 2026-09-21
     language: fr
+  - title: 'Lutte contre le narcotrafic : la Douane de La Réunion saisit près de 200 kg de stupéfiants en quelques jours'
+    url: https://la1ere.franceinfo.fr/reunion/lutte-contre-le-narcotrafic-la-douane-de-la-reunion-saisit-pres-de-200-kg-de-stupefiants-en-quelques-jours-1740515.html
+    publisher: Réunion La 1ère
+    date: 2026-09-21
+    language: fr
 open_questions:
   - The sources do not say whether the British woman or the Guianese man was charged, tried or sentenced.
   - The customs page is dated 15 September 2026, while Imaz Press dates the communiqué to 21 September 2026; the seizure dates of 9 and 10 September are consistent across sources.
@@ -78,30 +83,45 @@ media:
     media_url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/11/03/6ae927a6e07936.13479071-336077.HR.jpg
     publisher: Le Quotidien de La Réunion
     caption: 'Customs photos of the September 2026 seizures including 15 kg of cocaine and 37 kg of cannabis resin carried by a Guyanese man arriving from Orly in business class. Photo: DR via Le Quotidien de La Réunion'
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/reunion/lutte-contre-le-narcotrafic-la-douane-de-la-reunion-saisit-pres-de-200-kg-de-stupefiants-en-quelques-jours-1740515.html
+    media_url: https://la1ere.franceinfo.fr/image/aw-WI6aXkuje7EWesk_KGEDwGeA/0x0:800x450/900x506/filters:format(webp):quality(80)/outremer%2F2026%2F09%2F21%2F6ab115fd72894990936219.jpg
+    publisher: Réunion La 1ère
+    caption: 'Cannabis herb seized by Réunion customs from Thai air freight bound for Amsterdam. Photo: Douane de La Réunion'
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/reunion/lutte-contre-le-narcotrafic-la-douane-de-la-reunion-saisit-pres-de-200-kg-de-stupefiants-en-quelques-jours-1740515.html
+    media_url: https://la1ere.franceinfo.fr/image/mv3tL1rhdshZ5S1yUMEx2d5bDSk/0x0:800x800/720x720/filters:format(webp):quality(80)/outremer%2F2026%2F09%2F21%2F6ab116236519c076597803.jpg
+    publisher: Réunion La 1ère
+    caption: 'The 140 kg of cannabis herb found in the air-freight consignment at Réunion. Photo: Douane de La Réunion'
+  - kind: photo
+    url: https://la1ere.franceinfo.fr/reunion/lutte-contre-le-narcotrafic-la-douane-de-la-reunion-saisit-pres-de-200-kg-de-stupefiants-en-quelques-jours-1740515.html
+    media_url: https://la1ere.franceinfo.fr/image/Qz2KhaUJC9yciVBSADB3e_wrzNY/0x75:800x525/720x405/filters:quality(80)/outremer%2F2026%2F09%2F21%2F6ab116442ba09132722954.jpg
+    publisher: Réunion La 1ère
+    caption: 'Vacuum-sealed cannabis bags from the 140 kg cargo seizure. Photo: Douane de La Réunion'
 ---
 
 Customs officers in Réunion seized 140 kg of cannabis herb from an air-cargo
-consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1,8] Agents at
+consignment on the Bangkok–Amsterdam route on 10 September 2026. [@1,8,9] Agents at
 the Saint-Denis Aéroport customs office selected the consignment, which was in
 transit at Réunion. [@1,8] They targeted two pallets holding 40 cartons and
-X-rayed them. [@1,8] Behind consumer goods they found vacuum-sealed plastic bags
-hidden in black bubble wrap. [@1,8] In total they seized 258 bags of cannabis herb
-weighing 140 kg. [@1,8] Customs called it Réunion's first seizure of Thai cannabis
-herb from air freight in transit to Europe. [@1,8]
+X-rayed them. [@1,8,9] Behind consumer goods they found vacuum-sealed plastic bags
+hidden in black bubble wrap. [@1,8,9] In total they seized 258 bags of cannabis herb
+weighing 140 kg. [@1,8,9] Customs called it Réunion's first seizure of Thai cannabis
+herb from air freight in transit to Europe. [@1,8,9]
 
 Less than 24 hours earlier, officers intercepted 17 kg of Thai cannabis herb on
-a British woman who had flown via Chennai. [@1] She was placed in police custody
+a British woman who had flown via Chennai. [@1,9] She was placed in police custody
 at the Saint-Denis territorial judicial police service. [@4] On 10 September a
 young man from French Guiana arriving from Paris was arrested at Roland-Garros
 airport with more than 50 kg of drugs. [@5,6,7] He was carrying 37 kg of cannabis
-resin and 15 kg of cocaine. [@5,6,7] The authorities called the haul the largest
+resin and 15 kg of cocaine. [@5,6,7,9] The authorities called the haul the largest
 seizure ever made from a passenger in Réunion. [@5,7]
 
 Le Quotidien put the Thai cannabis total at nearly 157 kg, the 140 kg cargo haul
 plus the 17 kg courier seizure. [@3] The week's haul also included 37 kg of
 cannabis resin from the Paris passenger. [@1] Customs said the operations
-produced more than 200 kg of drugs in all. [@2] It said the seizures were
-carried out under the prefectural « Zéro drogue » plan. [@1] It ended its
+produced more than 200 kg of drugs in all. [@2,9] It said the seizures were
+carried out under the prefectural « Zéro drogue » plan. [@1,9] It ended its
 statement with the phrase « Pa ter là ! », which it translated as 'not here'.
 [@1]
 
