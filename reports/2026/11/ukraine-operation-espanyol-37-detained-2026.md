@@ -94,6 +94,11 @@ sources:
     publisher: Укрінформ
     date: 2026-11-05
     language: uk
+  - title: 'Міжнародна спецоперація «Еспаньйол»: перекрили канали наркотрафіку з Іспанії, США та Португалії до України, зокрема на Полтавщині'
+    url: https://np.pl.ua/2026/11/05/mizhnarodna-spetsoperatsiia-espanyol-natspolitsiia-perekryla-kanaly-narkotrafiku-z-ispanii-ssha-ta-portuhalii-do-ukrainy-zokrema-na-poltavshchyni/
+    publisher: Новини Полтавщини
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -127,7 +132,7 @@ open_questions:
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
 [@1,3,7,9] The 39 suspects were notified over drug trafficking and smuggling, and the
