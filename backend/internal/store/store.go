@@ -13,6 +13,7 @@ import (
 	_ "modernc.org/sqlite"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 )
 
@@ -21,7 +22,31 @@ var ErrResearchAgent = errors.New("research agent exited before its first model 
 
 var ErrBudget = errors.New("daily research budget reached")
 
-type Store struct{ DB *sql.DB }
+// Store is the operational database. DB is its one read-write connection (writers queue on it);
+// Read, when set, is a small pool of read-only connections for the public pages' queries, which
+// WAL lets run alongside a write instead of waiting behind every worker update.
+type Store struct {
+	DB   *sql.DB
+	Read *sql.DB
+}
+
+func (s *Store) reader() *sql.DB {
+	if s.Read != nil {
+		return s.Read
+	}
+	return s.DB
+}
+
+// Reader is the connection pool for read-only queries.
+func (s *Store) Reader() *sql.DB { return s.reader() }
+
+// Close closes both connection pools.
+func (s *Store) Close() error {
+	if s.Read != nil {
+		s.Read.Close()
+	}
+	return s.DB.Close()
+}
 
 func ID() string {
 	b := make([]byte, 16)
@@ -90,7 +115,19 @@ func Open(path string) (*Store, error) {
 			return nil, err
 		}
 	}
-	return &Store{db}, nil
+	st := &Store{DB: db}
+	// a file path (not a DSN with its own options): read-only connections beside the writer
+	if path != ":memory:" && !strings.ContainsAny(path, "?") && !strings.HasPrefix(path, "file:") {
+		read, err := sql.Open("sqlite", "file:"+path+"?_pragma=busy_timeout(5000)&_pragma=query_only(1)")
+		if err == nil && read.Ping() == nil {
+			read.SetMaxOpenConns(4)
+			read.SetMaxIdleConns(4)
+			st.Read = read
+		} else if read != nil {
+			read.Close()
+		}
+	}
+	return st, nil
 }
 
 type History struct {
@@ -238,7 +275,7 @@ func Enqueue(tx *sql.Tx, table, kind, ref, payload string, now int64) error {
 func (s *Store) Get(ctx context.Context, id string) (Submission, error) {
 	v := Submission{History: []History{}}
 	var sourceCheck, result, validation string
-	err := s.DB.QueryRowContext(ctx, `SELECT s.id,s.origin,s.original_url,s.note,s.case_id,c.status,c.explanation,c.report_slug,c.pr_url,coalesce(s.origin_event_id,nullif(s.gateway_event_id,''),''),s.reply_event_id,s.created_at,c.source_check,c.ai_result,c.validation,c.draft_path,c.draft_markdown,coalesce((SELECT commit_sha FROM local_publications WHERE case_id=c.id),''),coalesce((SELECT available_at FROM jobs WHERE ref=c.id AND kind='research' AND error_code='daily_budget_wait' AND status='queued'),0),EXISTS(SELECT 1 FROM research_checkpoints WHERE case_id=c.id) FROM submissions s JOIN cases c ON c.id=s.case_id WHERE s.id=?`, id).Scan(&v.ID, &v.Origin, &v.URL, &v.Note, &v.CaseID, &v.Status, &v.Explanation, &v.ReportSlug, &v.PRURL, &v.NostrEventID, &v.ReplyEventID, &v.CreatedAt, &sourceCheck, &result, &validation, &v.DraftPath, &v.DraftMarkdown, &v.CommitSHA, &v.ResumeAt, &v.Resumable)
+	err := s.reader().QueryRowContext(ctx, `SELECT s.id,s.origin,s.original_url,s.note,s.case_id,c.status,c.explanation,c.report_slug,c.pr_url,coalesce(s.origin_event_id,nullif(s.gateway_event_id,''),''),s.reply_event_id,s.created_at,c.source_check,c.ai_result,c.validation,c.draft_path,c.draft_markdown,coalesce((SELECT commit_sha FROM local_publications WHERE case_id=c.id),''),coalesce((SELECT available_at FROM jobs WHERE ref=c.id AND kind='research' AND error_code='daily_budget_wait' AND status='queued'),0),EXISTS(SELECT 1 FROM research_checkpoints WHERE case_id=c.id) FROM submissions s JOIN cases c ON c.id=s.case_id WHERE s.id=?`, id).Scan(&v.ID, &v.Origin, &v.URL, &v.Note, &v.CaseID, &v.Status, &v.Explanation, &v.ReportSlug, &v.PRURL, &v.NostrEventID, &v.ReplyEventID, &v.CreatedAt, &sourceCheck, &result, &validation, &v.DraftPath, &v.DraftMarkdown, &v.CommitSHA, &v.ResumeAt, &v.Resumable)
 	if sourceCheck != "" && json.Valid([]byte(sourceCheck)) {
 		v.SourceCheck = json.RawMessage(sourceCheck)
 	}
@@ -251,7 +288,7 @@ func (s *Store) Get(ctx context.Context, id string) (Submission, error) {
 	if err != nil {
 		return v, err
 	}
-	rows, err := s.DB.QueryContext(ctx, "SELECT status,explanation,created_at FROM submission_history WHERE submission_id=? ORDER BY id", id)
+	rows, err := s.reader().QueryContext(ctx, "SELECT status,explanation,created_at FROM submission_history WHERE submission_id=? ORDER BY id", id)
 	if err != nil {
 		return v, err
 	}

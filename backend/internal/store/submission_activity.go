@@ -67,7 +67,7 @@ func (s *Store) SubmissionActivity(ctx context.Context, window string, now time.
 		}
 		return int((at - from) / w.Step)
 	}
-	tx, err := s.DB.BeginTx(ctx, nil)
+	tx, err := s.reader().BeginTx(ctx, nil)
 	if err != nil {
 		return out, err
 	}

@@ -114,7 +114,12 @@ const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "sh
             else show("online", `Online, idle${waiting}`, 0, v.queued);
           } catch { if (!live) show("offline", "Offline: the submissions service does not answer"); }
         };
-        const soon = () => { clearTimeout(pending); pending = window.setTimeout(counts, 300); };
+        // changes come every second while requests run: re-read the counts at most every 5 seconds
+        let lastCounts = 0;
+        const soon = () => {
+          if (pending) return;
+          pending = window.setTimeout(() => { pending = 0; lastCounts = Date.now(); counts(); }, Math.max(300, 5000 - (Date.now() - lastCounts)));
+        };
         // every 20 seconds as long as the tab is visible: the counts, even if the socket says nothing
         const tick = () => { clearTimeout(poll); if (document.hidden) return; counts(); poll = window.setTimeout(tick, 20000); };
         const connect = () => {

@@ -58,7 +58,7 @@ func ValidSubmissionFilter(status, origin string) bool {
 }
 func (s *Store) FeedVersion(ctx context.Context) (string, error) {
 	var v int64
-	err := s.DB.QueryRowContext(ctx, "SELECT version FROM submission_feed_version WHERE singleton=1").Scan(&v)
+	err := s.reader().QueryRowContext(ctx, "SELECT version FROM submission_feed_version WHERE singleton=1").Scan(&v)
 	return strconv.FormatInt(v, 10), err
 }
 
@@ -150,7 +150,7 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
 	if order == "desc" {
 		dir, cmp = "DESC", "<"
 	}
-	tx, err := s.DB.BeginTx(ctx, nil)
+	tx, err := s.reader().BeginTx(ctx, nil)
 	if err != nil {
 		return out, err
 	}

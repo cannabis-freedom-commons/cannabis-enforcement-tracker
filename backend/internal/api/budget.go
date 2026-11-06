@@ -22,7 +22,7 @@ func (s *Server) budgetInfo(ctx context.Context, now time.Time) *BudgetInfo {
 	}
 	start := now.UTC().Truncate(24 * time.Hour)
 	b := &BudgetInfo{DailyLimitCents: int64(s.Config.DailyCents), PerRunCents: int64(s.Config.RunCents), ResetsAt: start.Add(24 * time.Hour).Unix()}
-	if err := s.Store.DB.QueryRowContext(ctx, "SELECT coalesce(sum(reserved_cents),0) FROM research_runs WHERE created_at>=?", start.Unix()).Scan(&b.ReservedCents); err != nil {
+	if err := s.Store.Reader().QueryRowContext(ctx, "SELECT coalesce(sum(reserved_cents),0) FROM research_runs WHERE created_at>=?", start.Unix()).Scan(&b.ReservedCents); err != nil {
 		return nil
 	}
 	if b.DailyLimitCents == 0 {

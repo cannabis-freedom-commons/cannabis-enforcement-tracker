@@ -6,7 +6,7 @@ import "net/http"
 // requests are being worked on or waiting. One small query, cheap enough to poll from every page.
 func (s *Server) status(w http.ResponseWriter, r *http.Request) {
 	var running, queued int64
-	err := s.Store.DB.QueryRowContext(r.Context(), `SELECT
+	err := s.Store.Reader().QueryRowContext(r.Context(), `SELECT
  coalesce(sum(status IN ('fetching','classifying','researching','verifying','drafted','awaiting_review','publishing','merged','deploying')),0),
  coalesce(sum(status IN ('queued','budget_wait')),0) FROM cases`).Scan(&running, &queued)
 	if err != nil {

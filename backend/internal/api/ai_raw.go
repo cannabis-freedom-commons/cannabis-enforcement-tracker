@@ -47,7 +47,7 @@ func (s *Server) aiRaw(w http.ResponseWriter, r *http.Request) {
 	for _, run := range activity.Runs {
 		var workspace string
 		// Fence every file lookup to a run belonging to this receipt's case.
-		err = s.Store.DB.QueryRowContext(r.Context(), "SELECT workspace FROM research_runs WHERE id=? AND case_id=(SELECT case_id FROM submissions WHERE id=?)", run.ID, id).Scan(&workspace)
+		err = s.Store.Reader().QueryRowContext(r.Context(), "SELECT workspace FROM research_runs WHERE id=? AND case_id=(SELECT case_id FROM submissions WHERE id=?)", run.ID, id).Scan(&workspace)
 		if err != nil {
 			problem(w, 503, "Raw AI logs unavailable.")
 			return

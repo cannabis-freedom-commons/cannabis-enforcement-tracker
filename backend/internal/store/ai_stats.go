@@ -37,7 +37,7 @@ const categorySQL = `CASE outcome
 func (s *Store) AIUsage(ctx context.Context, since int64) ([]AIUsageBucket, error) {
 	// Never join receipts: several submissions may share one research case/run.
 	// Keep reported costs separate from token estimates, and split pricing tiers.
-	rows, err := s.DB.QueryContext(ctx, `SELECT model,`+categorySQL+`,min(started_at),count(*),
+	rows, err := s.reader().QueryContext(ctx, `SELECT model,`+categorySQL+`,min(started_at),count(*),
  sum(CASE WHEN status='running' THEN 1 ELSE 0 END),
  sum(input_tokens),sum(output_tokens),sum(reasoning_tokens),
  sum(cache_read_tokens),sum(cache_write_tokens),sum(cost_usd),
@@ -75,7 +75,7 @@ type AIDuration struct {
 }
 
 func (s *Store) AIDurations(ctx context.Context, since int64) ([]AIDuration, error) {
-	rows, err := s.DB.QueryContext(ctx, `SELECT model,`+categorySQL+`,finished_at-started_at
+	rows, err := s.reader().QueryContext(ctx, `SELECT model,`+categorySQL+`,finished_at-started_at
  FROM research_runs WHERE started_at>0 AND started_at>=? AND finished_at>=started_at
  ORDER BY 1,2,3`, since)
 	if err != nil {

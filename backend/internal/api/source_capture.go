@@ -45,7 +45,7 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 		query += " AND p.id=?"
 		args = append(args, capture)
 	}
-	err = s.Store.DB.QueryRowContext(r.Context(), query+" ORDER BY p.created_at DESC,p.rowid DESC LIMIT 1", args...).Scan(&dir)
+	err = s.Store.Reader().QueryRowContext(r.Context(), query+" ORDER BY p.created_at DESC,p.rowid DESC LIMIT 1", args...).Scan(&dir)
 	if err != nil {
 		if store.IsMissingAI(err) {
 			problem(w, 404, "No captured screenshot is available.")

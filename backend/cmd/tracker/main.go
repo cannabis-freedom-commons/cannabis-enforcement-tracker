@@ -91,7 +91,7 @@ func run() error {
 		if err != nil {
 			return err
 		}
-		defer s.DB.Close()
+		defer s.Close()
 		stats, err := s.CompareContext(context.Background())
 		if err != nil {
 			return err
@@ -105,7 +105,7 @@ func run() error {
 		if err != nil {
 			return err
 		}
-		defer s.DB.Close()
+		defer s.Close()
 		ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 		defer cancel()
 		return (&worker.Worker{Store: s, Config: c}).CleanWorkspaces(ctx)
@@ -121,7 +121,7 @@ func run() error {
 	if err != nil {
 		return err
 	}
-	defer s.DB.Close()
+	defer s.Close()
 	ctx, cancel := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 	defer cancel()
 	if *resolve != "" {

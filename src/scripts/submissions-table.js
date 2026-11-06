@@ -160,10 +160,11 @@ function initialize(root) {
     } finally { request = null; if (pending) { pending = false; scheduleRefresh(); } }
   }
   // Coalesce stream bursts without postponing updates indefinitely. Explicit navigation
-  // still refreshes immediately; background updates run at most once every two seconds.
+  // still refreshes immediately; background updates run at most once every five seconds (with
+  // several requests running, the stream announces a change about every second).
   function scheduleRefresh() {
     if (refreshTimer || disposed || document.hidden) return;
-    refreshTimer = setTimeout(() => { refreshTimer = null; refresh(); }, Math.max(250, 2000 - (Date.now() - lastRefresh)));
+    refreshTimer = setTimeout(() => { refreshTimer = null; refresh(); }, Math.max(250, 5000 - (Date.now() - lastRefresh)));
   }
   function changePage(action) { clearTimeout(refreshTimer); refreshTimer = null; lastRefresh = 0; request?.abort(); action(); pending = true; if (!request) { pending = false; refresh(); } }
 

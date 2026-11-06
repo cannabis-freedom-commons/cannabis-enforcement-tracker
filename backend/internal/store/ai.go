@@ -74,14 +74,14 @@ func (s *Store) AIActivityLog(ctx context.Context, submissionID string) (AIActiv
 func (s *Store) aiActivity(ctx context.Context, submissionID string, after int64, full bool) (AIActivity, error) {
 	out := AIActivity{Runs: []AIRun{}, Events: []AIEvent{}}
 	var cid string
-	if err := s.DB.QueryRowContext(ctx, "SELECT case_id FROM submissions WHERE id=?", submissionID).Scan(&cid); err != nil {
+	if err := s.reader().QueryRowContext(ctx, "SELECT case_id FROM submissions WHERE id=?", submissionID).Scan(&cid); err != nil {
 		return out, err
 	}
 	runLimit, eventLimit := 10, 101
 	if full {
 		runLimit, eventLimit = -1, -1
 	}
-	rows, err := s.DB.QueryContext(ctx, "SELECT id,model,runner,session_id,status,outcome,created_at,coalesce(started_at,0),coalesce(finished_at,0),input_tokens,output_tokens,reasoning_tokens,cache_read_tokens,cache_write_tokens,cost_usd FROM research_runs WHERE case_id=? ORDER BY rowid DESC LIMIT ?", cid, runLimit)
+	rows, err := s.reader().QueryContext(ctx, "SELECT id,model,runner,session_id,status,outcome,created_at,coalesce(started_at,0),coalesce(finished_at,0),input_tokens,output_tokens,reasoning_tokens,cache_read_tokens,cache_write_tokens,cost_usd FROM research_runs WHERE case_id=? ORDER BY rowid DESC LIMIT ?", cid, runLimit)
 	if err != nil {
 		return out, err
 	}
@@ -104,7 +104,7 @@ func (s *Store) aiActivity(ctx context.Context, submissionID string, after int64
 		order = "DESC"
 		floor = 0
 	}
-	rows, err = s.DB.QueryContext(ctx, "SELECT id,run_id,role,kind,text,created_at FROM ai_events WHERE case_id=? AND id>? ORDER BY id "+order+" LIMIT ?", cid, floor, eventLimit)
+	rows, err = s.reader().QueryContext(ctx, "SELECT id,run_id,role,kind,text,created_at FROM ai_events WHERE case_id=? AND id>? ORDER BY id "+order+" LIMIT ?", cid, floor, eventLimit)
 	if err != nil {
 		return out, err
 	}
