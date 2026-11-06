@@ -1211,7 +1211,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	if (e.Screenshot == "page.png" || e.Screenshot == "page.avif" || e.Screenshot == "page.webp") && e.ArtifactDir != "" {
 		name := e.Screenshot
 		screenshot, err := os.ReadFile(filepath.Join(e.ArtifactDir, name))
-		if os.IsNotExist(err) && name == "page.png" {
+		if os.IsNotExist(err) && name != "page.avif" { // archived since the capture
 			name = "page.avif"
 			screenshot, err = os.ReadFile(filepath.Join(e.ArtifactDir, name))
 		}

@@ -55,9 +55,10 @@ export async function saveCaptureImage(file, png, signal) {
   }
 }
 
+// A browser capture is saved as WebP (or PNG when too large for WebP) and archived as AVIF.
 export async function archiveScreenshot(file) {
-  const target = file.replace(/\.png$/i, '.avif');
-  if (target === file) throw new Error('Expected PNG capture');
+  const target = file.replace(/\.(png|webp)$/i, '.avif');
+  if (target === file) throw new Error('Expected PNG or WebP capture');
   const lock = await fs.open(file + '.archive-lock', 'wx', 0o600).catch(e => {
     if (e.code === 'EEXIST' || e.code === 'ENOENT') return null;
     throw e;
@@ -137,7 +138,7 @@ async function files(root) {
   for (const e of await fs.readdir(root, { withFileTypes: true }).catch(e => { if (e.code === 'ENOENT') return []; throw e; })) {
     const file = path.join(root, e.name);
     if (e.isDirectory() && !e.name.startsWith('.') && !process.argv.includes('--logs-only')) out.push(...await files(file));
-    else if (e.isFile() && (textArtifact(e.name) || (!process.argv.includes('--html-only') && !process.argv.includes('--logs-only') && e.name.endsWith('.png'))) && (!process.argv.includes('--html-only') || e.name === 'page.html') && (!process.argv.includes('--logs-only') || e.name !== 'page.html')) out.push(file);
+    else if (e.isFile() && (textArtifact(e.name) || (!process.argv.includes('--html-only') && !process.argv.includes('--logs-only') && /\.(png|webp)$/.test(e.name))) && (!process.argv.includes('--html-only') || e.name === 'page.html') && (!process.argv.includes('--logs-only') || e.name !== 'page.html')) out.push(file);
   }
   return out;
 }

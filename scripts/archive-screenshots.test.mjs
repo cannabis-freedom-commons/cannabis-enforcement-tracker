@@ -23,6 +23,16 @@ test('archives a long capture as a private AVIF within the size limit', { skip: 
   assert.deepEqual(await fs.readdir(dir), ['page.avif']);
  } finally { await fs.rm(dir, { recursive:true, force:true }); }
 });
+test('archives a WebP capture as AVIF', { skip: !available }, async () => {
+ const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'capture-avif-'));
+ try {
+  const webp = path.join(dir, 'page.webp');
+  execFileSync('magick', ['-size', '200x300', 'xc:white', webp]);
+  const result = await archiveScreenshot(webp);
+  assert(result.before > 0 && result.after > 0);
+  assert.deepEqual(await fs.readdir(dir), ['page.avif']);
+ } finally { await fs.rm(dir, { recursive:true, force:true }); }
+});
 test('failed conversion retains the original and removes temporary output and lock', { skip: !available }, async () => {
  const dir = await fs.mkdtemp(path.join(os.tmpdir(), 'capture-avif-'));
  try {
