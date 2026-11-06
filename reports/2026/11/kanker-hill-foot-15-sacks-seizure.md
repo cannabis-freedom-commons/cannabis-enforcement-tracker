@@ -101,6 +101,11 @@ sources:
     publisher: Bansal News
     date: 2026-11-06
     language: hi
+  - title: 'Chhattisgarh samachar: छत्तीसगढ़ में गांजा तस्करी के खिलाफ पुलिस बड़ी कार्रवाई; 5.92 करोड़ गांजा के साथ 7 तस्कर गिरफ्तार'
+    url: https://rghnews.com/chhattisgarh-samachar-106/
+    publisher: RGH NEWS
+    date: 2026-11-06
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -147,6 +152,8 @@ open_questions:
   - This account names no suspect, vehicle or Odisha district and says only that the load came from the Odisha border, so the Vishrampuri-Keshkal route reported elsewhere is not corroborated here.
   - This account credits a police informer for the tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
   - The Bansal account gives no weight, value or suspect detail for the Kanker recovery and calls the containers bags rather than packets.
+  - Rgh News and Bansal News give 70 bags and no weight for the Kanker recovery, so the 15-sack versus 70-bag difference remains unresolved and no kilograms are added.
+  - Neither roundup gives the Kanker valuation, which continues to rest on the report's earlier sources.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -184,3 +191,5 @@ Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
 The haul came a day after Keshkal police seized 407 kg of ganja. [@10] Grand News reporter Dheeraj Sharma filed the account of the Kanker recovery and chase. [@10]
 
 This account says police reached the spot after an informer gave them precise information, and then found several bags of ganja there. [@7,11] The smugglers tried to hide the load from the police cordon and changed their route, dumping it on the way before fleeing under cover of darkness. [@7,11] Police said the consignment was brought from neighbouring Odisha by road to be sold in Chhattisgarh, while officers kept running checks along the route. [@7,11] Police officers said the fleeing accused would soon be identified and sent to jail and the smuggling network would be exposed. [@7]
+
+Police recovered 70 bags of ganja near Gadhia hill in Kanker, and the smugglers fled on seeing police, leaving the load behind. [@13]

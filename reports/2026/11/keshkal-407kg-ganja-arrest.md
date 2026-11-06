@@ -73,6 +73,11 @@ sources:
     publisher: Bansal News
     date: 2026-11-06
     language: hi
+  - title: 'Chhattisgarh samachar: छत्तीसगढ़ में गांजा तस्करी के खिलाफ पुलिस बड़ी कार्रवाई; 5.92 करोड़ गांजा के साथ 7 तस्कर गिरफ्तार'
+    url: https://rghnews.com/chhattisgarh-samachar-106/
+    publisher: RGH NEWS
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -86,6 +91,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Lokswar: The Keshkal case involved a Rajasthan youth arrested with 407 kg of ganja.'
   - 'Left out, as its quotation was not found in Lokswar: He was produced in court and sent to judicial remand.'
   - The Bansal account gives no vehicle model, seizure value, NDPS section or court detail for the Keshkal recovery, which continue to rest on earlier sources.
+  - Rgh News and Bansal News give 407 kg 910 g for the Keshkal recovery, matching the existing report's figure; neither gives the vehicle, the valuation or the NDPS section for that case, so those continue to rest on earlier sources.
+  - The two roundups place the Keshkal action a day before the 5 November Jagdalpur interception, consistent with the report's 3 November date but giving no calendar date of their own.
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
@@ -98,7 +105,7 @@ produced in court and sent to judicial remand. [@2,3,5]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
 the dickey. [@2,3,5,6] Officers recovered 407 kg 910 g of ganja from the car, which
-police valued at Rs 2,03,95,500. [@2,4,7] Police also found an extra number plate
+police valued at Rs 2,03,95,500. [@2,4,7,8] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
 and Rs 1,100 in cash were also recovered from the accused. [@2,5] Police seized
 the ganja, car, mobile phone and other items together worth Rs 2,18,96,600 in
@@ -110,3 +117,5 @@ in-charge Ritesh Mishra, sub-inspector Kanwal Singh Shori, assistant
 sub-inspectors Bhagat Singh Netam and Suresh Markam, head constables Ishwar
 Netam and Sanjay Bisen and other personnel took part. [@2] Police said the
 smuggling network is under investigation. [@2,4]
+
+A Rajasthan youth was arrested in the Keshkal case, reported alongside the 5 November Jagdalpur actions. [@8]

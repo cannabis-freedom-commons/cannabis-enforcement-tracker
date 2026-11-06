@@ -137,6 +137,11 @@ sources:
     publisher: Bansal News
     date: 2026-11-06
     language: hi
+  - title: 'Chhattisgarh samachar: छत्तीसगढ़ में गांजा तस्करी के खिलाफ पुलिस बड़ी कार्रवाई; 5.92 करोड़ गांजा के साथ 7 तस्कर गिरफ्तार'
+    url: https://rghnews.com/chhattisgarh-samachar-106/
+    publisher: RGH NEWS
+    date: 2026-11-06
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -185,6 +190,10 @@ open_questions:
   - The Bansal News lead image is captioned as an AI-generated image and is not shown to depict this seizure, so no media entry is added.
   - The page's combined total of 884 kg 410 g matches the Jagdalpur 476.5 kg and Keshkal 407.91 kg figures exactly, leaving no weighed contribution from the Kanker 70-bag recovery in that total.
   - The page gives the Kanker and Keshkal actions only as occurring in the past two days and a day earlier, with no separate calendar dates beyond the Jagdalpur tip-off on 5 November.
+  - Rgh News cites NDPS Act section 20(b)(ii)(C) for the Jagdalpur case while ETV Bharat and the existing report give 20(b)(iii)(C); Bansal News also gives 20(b)(ii)(C).
+  - Rgh News and Bansal News carry the same roundup text, including the tip-off, the pickup registration and the accused's village, so they are not independent accounts of this interception.
+  - The Rgh News page carries a single uncaptioned image with no credit, so it is not shown to depict this seizure and no media entry is added.
+  - The page's combined total of 884 kg 410 g across the Jagdalpur, Keshkal and Kanker actions leaves no weighed contribution from the Kanker recovery, whose sacks were never weighed in the reports available.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
@@ -228,3 +237,5 @@ The intercepted white pickup bore registration number CG 17 KL 0411. [@8,13,18] 
 The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@7,9,13] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
 
 The four adults are listed with their fathers' names: Bhagwan Pangi son of Hari Pangi, Ghasi Khilo son of Sundaro Khilo, Chitrasen Gallori son of Kamlu Gallori and Rohani Gallori son of Lachhu Gallori. [@10] The interception came during a district drive against the illegal sale and smuggling of narcotic drugs ordered by Bastar superintendent of police Shalabh Kumar Sinha. [@10]
+
+The seven accused were arrested with 476 kg 500 g of ganja, a pickup, a motorcycle, six mobile phones and 1,500 rupees in cash, police said. [@19] Police registered the Jagdalpur case under section 20(b)(ii)(C) of the NDPS Act and produced all seven accused on judicial remand before the special NDPS court in Jagdalpur. [@18,19]
