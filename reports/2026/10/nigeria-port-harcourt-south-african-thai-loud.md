@@ -43,6 +43,10 @@ sources:
     url: https://ng.headtopics.com/news/ndlea-south-africans-leading-drug-trafficking-cartels-in-89584626
     publisher: Head Topics
     date: 2026-11-05
+  - title: “Nigeria becoming drug trafficking route”–NDLEA
+    url: https://pmnewsnigeria.com/2026/11/05/nigeria-becoming-drug-trafficking-route-ndlea/
+    publisher: P.M. News
+    date: 2026-11-05
 media:
   - kind: photo
     url: https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
@@ -75,3 +79,5 @@ route to Port Harcourt when she was arrested. [@1,2]
 The NDLEA did not say on what date she was arrested or whether she had appeared in court. [@1]
 
 The NDLEA said three South African nationals had been arrested in the period under review, a tally that also covered a separate July 2026 case in which a woman arriving from Doha was found with 5.75 kg of heroin. [@3]
+
+On 5 November 2026, NDLEA Assistant Director for Media and Advocacy Francis Okogun told a joint security briefing in Abuja that three South African nationals had been arrested in recent operations involving heroin, cocaine and Loud, a tally covering this Port Harcourt case. [@4]
