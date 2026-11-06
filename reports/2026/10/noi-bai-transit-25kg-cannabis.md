@@ -100,6 +100,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: bn
+  - title: ضبطت السلطات أكثر من 25 كيلوغراماً من الماريجوانا ومئات من أعواد التبغ المسخنة في مطار نوي باي.
+    url: https://www.vietnam.vn/ar/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -139,6 +144,10 @@ open_questions:
   - The separate seizure of more than 400 TEREA heated-tobacco sticks in the same announcement is a tobacco case left out of this report.
   - The Bengali translation says the case was handed to the Hanoi City police drug crime investigation office without naming the office's number, so it neither confirms nor contradicts the earlier report that the receiving unit was PC04.
   - The page describes the announced batch as two cases — heated tobacco and suspected cannabis — but records only one case file being transferred, so it does not say whether the heated-tobacco matter was referred to another agency.
+  - The Arabic page rounds the cannabis weight to more than 25 kg rather than the 25.4 kg in the existing report, so the existing figure is retained.
+  - The page identifies the passenger only as Spanish and gives no name, trip origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
+  - The more than 400 TEREA heated-tobacco sticks in the same announcement are a tobacco case left out of this report.
+  - The page names no charge, court outcome or estimated value for the cannabis.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -156,14 +165,14 @@ carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10]
+investigation. [@1,2,3,5,6,7,10,14]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,14]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,13] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,13,14] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,12]
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
 
-The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12,13] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13]
+The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12,13,14] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14]
