@@ -54,12 +54,18 @@ sources:
     url: https://www.socialnews.xyz/2026/11/05/kolkata-police-seize-over-14-5-kg-ganja-near-dharmatala-three-arrested/
     publisher: Social News XYZ
     date: 2026-11-05
+  - title: ধর্মতলায় কেজি কেজি গাঁজা উদ্ধার! শহরে পাচারের ছক বানচাল, কলকাতা পুলিশের জালে মুর্শিদাবাদের ৩
+    url: https://www.sangbadpratidin.in/kolkata/3-men-arrested-by-kolkata-police-narcotic-cell-from-esplanade-bus-stand-with-over-14-kg-ganja/pid/1415312/
+    publisher: Sangbad Pratidin
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The raid fell on Wednesday and the case was registered on Thursday; 4 November 2026 is used as the incident date, derived from the 5 November 2026 publication date.
   - No value was published for the seized ganja.
   - No outcome beyond production in court was reported; remand or bail is unknown.
   - The only second account is an IANS reprint via Social News XYZ, not independent reporting.
   - The sponsored advertisement image on the submitted page is excluded from media.
+  - The Bengali article's photo is captioned as a representative image (প্রতীকী ছবি) and is not a picture of this seizure, so no media entry is added.
 ---
 
 Kolkata Police's Narcotics Cell arrested three people and seized ganja during a
@@ -81,3 +87,4 @@ to drug dealers in and around Kolkata. [@1] Detectives are investigating who
 else is involved in the ring and whether the three had already been in touch
 with other members of the gang. [@2]
 
+The Bengali article gives the accused's names as Abdul Haque alias Babu, Anju Sheikh and Attabur Sheikh. [@3]
