@@ -63,6 +63,10 @@ sources:
     publisher: Open.kg
     date: 2026-11-06
     language: ru
+  - title: Suspects with nearly 64 kilograms of hashish detained in Kyrgyzstan
+    url: https://24.kg/en/article/suspects-with-nearly-64-kilograms-of-hashish-detained-in-kyrgyzstan
+    publisher: 24.kg
+    date: 2026-11-06
 open_questions:
   - The agency gives no date for the detention or the seizure; 6 November 2026 is the publication date of all three accounts and is used as the incident date.
   - The seizure is placed only in Osh Region, with no district or settlement named.
@@ -75,18 +79,17 @@ open_questions:
 
 Kyrgyzstan's Interior Ministry Drug Control Service (SBNON) reported that it had
 broken up an international channel for transporting drugs. [@1] Officers seized
-63 kilograms and 695 grams of hashish of Afghan origin in Osh Region. [@1]
+63 kilograms and 695 grams of hashish of Afghan origin in Osh Region. [@1,4]
 
 The group brought the drugs into Kyrgyzstan through Tajikistan for onward
 shipment to Kazakhstan and Russia, according to SBNON. [@1] Three citizens,
-identified only as E. F. Kh., R. T. A. and N. N. O., were detained. [@1]
+identified only as E. F. Kh., R. T. A. and N. N. O., were detained. [@1,4]
 
 By the agency's preliminary calculations the seized volume would amount to about
-315,000 doses, worth an estimated 95 million soms. [@1] A criminal case was
+315,000 doses, worth an estimated 95 million soms. [@1,4] A criminal case was
 opened over the seizure and investigative and operational measures were
 continuing. [@1]
 
 The state telegram agency KyrTAG carried the same statement under the headline
 that police had detained citizens with 63 kilograms of Afghan drugs. [@2]
 Open.kg reported that three people were detained in the operation. [@3]
-
