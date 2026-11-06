@@ -127,6 +127,10 @@ sources:
     url: https://www.tovima.com/society/greece-seizes-207-kilos-of-cannabis-at-athens-airport/
     publisher: tovima.com
     date: 2026-11-05
+  - title: Drug Haul Worth €1 Million Uncovered at Athens Airport
+    url: https://greekcitytimes.com/2026/11/05/drug-haul-worth-e1-million-uncovered-at-athens-airport/
+    publisher: Greek City Times
+    date: 2026-11-05
 open_questions:
   - The article dates the seizure only to August 2026 without a day, so no exact incident day is known; 4 November 2026, used as the incident date, is the article's publication date.
   - No arrests, suspects or charges were reported; the account says only that investigation is continuing.
@@ -161,6 +165,9 @@ open_questions:
   - ERT is the first source to name a reporter for this event, Kostas Stamou, which does not change any fact about the seizure.
   - The Tovima account gives no separate date for the seizure, saying only that the drugs were flown from Asia in August; 4 November 2026, the date used by the existing report, remains the incident date.
   - The page image is a September 2019 stock photograph of Athens airport departure terminals credited to PalSand/Shutterstock, so it does not show this consignment and no media link is added from this source.
+  - The Greek City Times account gives only 'August' for the arrival of the shipment and no date for the inspection, while other accounts place the find on 19 August 2026.
+  - The Greek City Times account names no arrests, suspects or charges and repeats only that the operation prevented the drugs from reaching the market.
+  - The page image is captioned as bags of seized cannabis in a secure room at Athens Airport but carries no credit establishing that it shows this consignment, so no media entry is added from this source.
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1320235/e1-million-worth-of-marijuana-found-in-storage-at-athens-airport/
@@ -177,7 +184,7 @@ media:
 Officers of the Narcotics Prosecution Subdirectorate, working jointly with the
 smuggling-prosecution department of the customs office at Athens International
 Airport 'Eleftherios Venizelos', located and seized a large quantity of raw
-cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19,20] According to the Hellenic Police, abbreviated in
+cannabis at the airport. [@1,4,5,7,8,9,10,11,13,14,15,16,17,19,20,22] According to the Hellenic Police, abbreviated in
 the account as EL.AS, the officers acted after making use of information they
 had received. [@1,8,13,14,17] No arrested people, suspects or charges are named in the
 account. [@1,2]
@@ -191,7 +198,7 @@ Investigators traced the route of the pallets, which had apparently started by
 air from Thailand. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18] The accompanying documents for the shipment had declared
 the cargo as clothing. [@1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,20,21] Police estimated that the expected financial gain
 from further trafficking of the seized cannabis would approach 1,000,000 euros.
-[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] The investigation was continuing so that the case could be fully examined.
+[@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,22] The investigation was continuing so that the case could be fully examined.
 [@1,4,5,6,7,8,9,10,12,13,14,15,16,17,20]
 
 The Ekathimerini account explicitly notes that it was unclear why the August seizure was announced more than two months later. [@2]
@@ -203,3 +210,5 @@ The operation was carried out by the Narcotics Prosecution Subdirectorate togeth
 The ERT report was filed by reporter Kostas Stamou. [@20]
 
 Investigators acted on information indicating that the drugs had been transported by air from Asia in August. [@21] A search of the two pallets revealed 207 kilograms and 466 grams of raw cannabis, which were seized by authorities. [@21]
+
+The operation took place at Athens International Airport's Eleftherios Venizelos facility, with the Hellenic Police's Narcotics Sub-Directorate working closely with the airport customs department responsible for combating smuggling. [@22] Authorities acted on intelligence indicating that the drugs had arrived by air from Asia in August. [@22] The Greek City Times account attributes its details to ERT, and its source line credits the Athens-Macedonian News Agency, abbreviated AMNA, Greece's national news agency. [@22]
