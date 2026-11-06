@@ -1,0 +1,104 @@
+---
+code: 4X777W
+added_at: "2026-11-06T21:37:29.522997Z"
+date: 2026-11-06
+country: in
+place: Behind Sharden School, Meerut Road, Khala Par, Muzaffarnagar, Uttar Pradesh
+coordinates: [29.5161, 77.7524]
+precision: locality
+type: arrest
+also: [seizure]
+title: Four Meerut men arrested with 25.7 kg of ganja in Muzaffarnagar
+summary: >-
+  Khala Par police in Muzaffarnagar arrested four men from Meerut's Sindhawali village and seized 25.7 kg of ganja, valued by police at 385,500 rupees, during a street check on 6 November 2026. All four face NDPS Act charges, one is a Meerut history-sheeter, and police are tracing a supply line they say runs to a supplier in Uttarakhand.
+figures:
+  arrested: 4
+  kg_seized: 25.7
+  value:
+    amount: 385500
+    currency: INR
+details:
+  agencies: ['Khala Par police station, Muzaffarnagar']
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 25.7}
+  activity: [sale, trafficking, possession]
+  setting: [street]
+  charges: [sections 8/20 of the NDPS Act]
+  case_stage: charged
+  force: [none-reported]
+  date_precision: exact
+  region: Uttar Pradesh
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.force: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://royalbulletin.in/muzaffarnagar/four-ganja-smugglers-from-meerut-arrested-in-muzaffarnagar-with-257-kg-ganja/article-252548
+    media_url: https://royalbulletin.in/media-webp/1200/2026-11/tmp8vi1o5zj.webp
+    publisher: Royal Bulletin
+    caption: Page picture captioned with this arrest in Khala Par over more than 25 kg of ganja; the page gives no credit for the photo.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: ed0de189aea3e2e4b459e924fc91ed28
+tags: [muzaffarnagar, uttar-pradesh, ganja, ndps-act, interstate-smuggling]
+sources:
+  - title: मुजफ्फरनगर में 25 किलो से अधिक गांजे के साथ मेरठ के चार तस्कर गिरफ्तार, उत्तराखंड से जुड़ा नेटवर्क
+    url: https://royalbulletin.in/muzaffarnagar/four-ganja-smugglers-from-meerut-arrested-in-muzaffarnagar-with-257-kg-ganja/article-252548
+    publisher: Royal Bulletin
+    date: 2026-11-06
+    language: hi
+  - title: 'Muzaffarnagar News: 25.7 किलो गांजे के साथ मेरठ के चार तस्कर गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/muzaffarnagar/four-smugglers-from-meerut-arrested-with-257-kg-of-cannabis-muzaffarnagar-news-c-29-1-mng1005-184801-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
+open_questions:
+  - The reports do not say whether the four accused were remanded to custody or released on bail.
+  - Neither report gives the individual weight carried by each of the four men.
+  - Only two outlets, one of them a local Hindi news site, were opened for this event; no police statement or official release was found.
+  - The Amar Ujala page carries a file photo from 2021 and its later version does not describe the pictured content, so no media entry is taken from it.
+  - The Royal Bulletin page picture carries no credit and no caption text of its own, so it is linked rather than treated as established agency evidence.
+  - The accused are named in the reports; no ages are given.
+  - The supplier named Harish was not arrested and the reports give no details of his identification or whereabouts.
+---
+
+Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
+on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
+November 2026. [@1] The four arrested men come from Sindhawali village on Rohta
+Road, in the Kankarkhera police station area of Meerut district. [@1]
+
+Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
+Sharden School, on the way from Meerut Road towards Garhabagh, after they turned
+back at the sight of the police patrol. [@1] The men each carried a bag, and
+police say the four bags together held 25 kg 700 grams of ganja. [@1] Police
+also seized four mobile phones of different companies from the four arrested
+men. [@1] Police had the ganja weighed and put its estimated value at 385,500
+rupees. [@1]
+
+Police registered case 195/2026 at Khala Par station under sections 8/20 of the
+NDPS Act and began taking the four before a court. [@1] Assistant superintendent
+of police and city circle officer Siddharth K. Mishra told reporters the arrests
+came in a district campaign against drug smugglers run on the orders of senior
+superintendent of police Suraj Kumar Rai. [@1]
+
+The accused told police during questioning that they had bought the ganja from a
+man named Harish in Uttarakhand, and that they brought larger consignments when
+demand rose around the festival season. [@1] Amar Ujala reported that Harish was
+known to bring the ganja from the hills of Pauri and that the smugglers sold it
+in small packets, and that the supplier left the scene. [@2] Police said one of
+the four, Anwar, is on the Meerut police's history sheet at Kankarkhera station,
+recorded as number 155A, with earlier cases under robbery, gangster, Arms Act
+and assault provisions. [@1] Police said Talib already faced a 2020 NDPS case at
+Meerut's Civil Lines station and Irshan a 2023 NDPS case at Khatauli station in
+Muzaffarnagar, and that they are tracing the wider network. [@1]
+
