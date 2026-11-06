@@ -69,6 +69,11 @@ sources:
     publisher: Luino Notizie
     date: 2026-11-05
     language: it
+  - title: 'Oltre 1 kg di hashish in auto: arrestati 2 coniugi a Varese'
+    url: https://www.ilmetropolitano.it/2026/11/05/oltre-1-kg-di-hashish-in-auto-arrestati-2-coniugi-a-varese/
+    publisher: IlMetropolitano.it
+    date: 2026-11-05
+    language: it
 open_questions:
   - The available accounts give no separate date for the stop and search; 5 November 2026 is the date the Varese police statement and the outlet article were published, and is used as the incident date.
   - The two hashish weights are given only as more than one kilogram net of the ten blocks and more than half a kilogram found at home, so the recorded 2 kg follows the police summary of "almost two kilograms" rather than an exact laboratory weight.
@@ -80,22 +85,23 @@ open_questions:
   - Prima Saronno states no total weight, giving only more than one kilogram at the roadside and more than half a kilogram at home, so its account matches the recorded approximate 2 kg rather than adding an exact figure.
   - Luino Notizie gives no separate date for the stop; 5 November 2026 is its publication date and the date of the police statement.
   - The article gives only 'more than one kilogram' gross for the ten roadside blocks and no weighable total, so no revised weight figure is proposed.
+  - The article gives no separate date for the stop and search; 5 November 2026 is its publication date, matching the police statement already used as the report's incident date.
 ---
 
 State police in Varese arrested a married couple on suspicion of possessing
 drugs for sale after finding almost two kilograms of hashish and a precision
-scale. [@1,4,7] Officers of the Varese Flying Squad stopped the couple's car in
-Largo Flaiano in the city, where the two live. [@1,3,4,7]
+scale. [@1,4,7,8] Officers of the Varese Flying Squad stopped the couple's car in
+Largo Flaiano in the city, where the two live. [@1,3,4,7,8]
 
 During the roadside check, the man handed over a bag holding ten blocks of
-hashish with a gross weight of more than one kilogram, police said. [@1,5] A
+hashish with a gross weight of more than one kilogram, police said. [@1,5,8] A
 search of their home, carried out with a Guardia di Finanza dog unit, found more
-than half a kilogram of hashish and small fragments of marijuana. [@1,3,5] The
+than half a kilogram of hashish and small fragments of marijuana. [@1,3,5,8] The
 precision scale was found outside the flat, and the husband was attributed
-ownership of it. [@1,5]
+ownership of it. [@1,5,8]
 
 The man was arrested and taken to Varese's prison, while the wife was placed
-under house arrest. [@1,3,5,7] Police described the couple as visibly agitated when
+under house arrest. [@1,3,5,7,8] Police described the couple as visibly agitated when
 officers questioned them. [@2,3,6]
 
 The man was arrested on suspicion of possessing drugs for sale. [@3]
