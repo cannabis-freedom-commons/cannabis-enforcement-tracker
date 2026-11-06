@@ -80,6 +80,10 @@ sources:
     url: https://en.politis.com.cy/news/cy-news/1063995/operation-plegma-police-seize-cash-weapons-and-drugs-in-nationwide-raids
     publisher: Politis
     date: 2026-11-05
+  - title: Organised crime raids freeze over €750,000 in assets
+    url: https://en.philenews.com/local/operation-plegma-ringleader-at-large-frozen-assets-750000/
+    publisher: Philenews
+    date: 2026-11-06
 open_questions:
   - The 171.5 kg total is the sum of 167 kg of cannabis and 4.5 kg of cannabis resin reported from the February phase of the same case; the small cannabis quantities seized on 5 November were not quantified and are not included.
   - The 62 kg of cocaine reported alongside the cannabis is mentioned only for context and is excluded from cannabis figures, as is any combined drug total.
@@ -101,6 +105,9 @@ open_questions:
   - Politis gives asset freezes as 750,000 euros in earlier remarks by Christos Andreou, while the same page itemises about 400,000 euros in vehicles and 100,000 euros in funds; the accounts are not reconciled.
   - Police did not say how many of the 19 people not taken to court had been charged in writing, so the number charged remains unknown.
   - The remand hearings were reported on 5 November without a stated hearing date, so the publication date stands in for the hearing date.
+  - This account gives the February Strovolos safe-house haul as 233 kilos of unspecified drugs, which does not match the 167 kg of cannabis, 4.5 kg of cannabis resin and 62 kg of cocaine itemised for the same phase; the figure is not used for cannabis.
+  - The submitted page says the two mobile phones were found in a suspect's prison cell during Thursday's searches and will be examined.
+  - The submitted account says phone-tapping powers would have allowed the directorate to dismantle the whole network, a claim attributed to belief rather than to a named official.
 ---
 
 Police arrested 26 people on Thursday in the operation codenamed Plegma to crack
@@ -121,7 +128,7 @@ alongside 62 kg of cocaine. [@1,3,4,7] During the 5 November searches, officers 
 and small quantities of cannabis and cocaine. [@2,3,4,9,13] Working with the
 anti-money-laundering unit, police obtained court orders freezing a house, plots
 of land, 10 cars and two motorcycles valued at about 400,000 euros, plus 100,000
-euros in funds. [@2,3,4,9,11]
+euros in funds. [@2,3,4,9,11,14]
 
 The operation was led by the Directorate for Combating Organized Crime, the
 specialist unit dubbed the Cyprus FBI. [@2] Police said the financial
@@ -137,3 +144,5 @@ Police sources said four of those arrested have been re-arrested and five others
 The operations were led by the newly created directorate for combating organised crime. [@12]
 
 Seven of the 26 people arrested during the nationwide operation were remanded in custody after separate court proceedings in Nicosia. [@13] The Nicosia District Court issued detention orders against the seven individuals as part of investigations into alleged offences including drug possession and illegal possession of explosives. [@13] Four men aged 30, 34, 37 and 41 appeared over alleged drug possession and related offences and were remanded for five days. [@13] Three other men aged 33, 35 and 48 appeared in separate proceedings over cases including illegal possession of explosives. [@13] The court ordered detention of the first two for five days, while the 48-year-old was remanded for two days. [@13] Of the remaining 19 arrested, some had been questioned and charged in writing for a later court appearance and others were released pending further investigation. [@13] Head of the Organised Crime Directorate Christos Andreou said in earlier comments that asset freezes linked to the operation amounted to 750,000 euros. [@13]
+
+Police know who heads the drug network targeted in Operation Plegma, the man who puts up most of the money to import the drugs, but he has so far evaded arrest, Phileleftheros understands. [@14] Investigations by the Directorate for Combating Organised Crime found the drugs were imported into Cyprus, stored at a warehouse in Strovolos and distributed through associates to smaller networks. [@14] One of those arrested held a leading role in the group, but most were allegedly associates, and those pulling the strings had so far evaded arrest. [@14] Not all 26 people arrested are linked to the drug trafficking network, and some remand prisoners and four other people arrested appeared to be under investigation over drug offences. [@14] Working with the anti-money-laundering unit Mokas, police examined bank accounts and the Land Registry and froze about 350,000 euros in bank accounts. [@14] During the 5 November searches, officers also found fireworks including 354 bangers, 456 flares and 192 sparklers, and eight precision scales. [@14] The offences under investigation include supply and possession of Class A and Class B controlled drugs, possession with intent to supply, participation in a criminal organisation, conspiracy to commit a felony, money laundering, illegal possession of explosives, and distribution of medicinal products without a licence. [@14] Some of those arrested were allegedly exposed by their conversations with the so-called storekeeper of the Strovolos safe house, who is now on remand, the court heard on Thursday. [@14]
