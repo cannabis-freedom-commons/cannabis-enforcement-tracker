@@ -109,6 +109,11 @@ sources:
     publisher: Корреспондент.net
     date: 2026-11-05
     language: ru
+  - title: 'В Україні викрили міжнародний наркотрафік із Іспанії, Португалії та США: 39 підозрюваних і понад ₴90 мільйонів вилученого'
+    url: https://news.pn/uk/criminal/351702
+    publisher: Преступности.НЕТ
+    date: 2026-11-05
+    language: uk
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -139,26 +144,29 @@ open_questions:
   - The submitted Zahidnyi Front page carries no article photograph showing the operation; its only image is a generic video-production banner, so it adds no media.
   - The National Police names 11 oblasts plus Kyiv city as areas of the first stage, which is 12 named units while the statements speak of 11 regions.
   - Zahidnyi Front writes that cannabis came from the United States while the National Police and prosecutors list Spain, Portugal and the United States as the countries of origin without specifying cannabis to the United States alone.
+  - The page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
+  - The page gives no separable cannabis-only weight or valuation; the combined 67 kg and 90 million hryvnias cover all drugs and property together.
+  - The page reproduces the Office of the Prosecutor General and National Police statements and is not an independent account.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12] The two-stage Operation
+drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13] The two-stage Operation
 Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
 interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3,7,9,12] The 39 suspects were notified over drug trafficking and smuggling, and the
-most serious charge carries up to 12 years in prison with confiscation. [@2,6,10,12]
+[@1,3,7,9,12,13] The 39 suspects were notified over drug trafficking and smuggling, and the
+most serious charge carries up to 12 years in prison with confiscation. [@2,6,10,12,13]
 
 Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5,6,8,12] The drugs were hidden in household
+cannabis came from the United States. [@2,3,4,5,6,8,12,13] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
-parcels. [@1,6,8] In Ukraine the drugs were sold through Telegram channels and a
-network of distributors. [@1,3,6,12] Officers carried out 141 searches and seized more
+parcels. [@1,6,8,13] In Ukraine the drugs were sold through Telegram channels and a
+network of distributors. [@1,3,6,12,13] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12] They
+well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
-than 3 million hryvnias. [@1,6] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12]
+than 3 million hryvnias. [@1,6,13] Authorities put the total value of the seized
+drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
@@ -167,7 +175,7 @@ presumed innocent until a court verdict proves guilt. [@1,7] The pre-trial
 investigation is continuing to identify other people involved in organising the
 smuggling and sales. [@2,7]
 
-The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3]
+The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3,13]
 
 The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
 
