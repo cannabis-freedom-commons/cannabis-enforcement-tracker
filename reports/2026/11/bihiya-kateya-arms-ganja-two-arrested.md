@@ -99,6 +99,10 @@ open_questions:
   - The submitted Desh Sewak image is captioned only with the headline and is not established to show the seizure, so no media entry is included.
   - Live Hindustan puts the total ganja recovery at 176.45 grams, which the report's press-note figure of 175.75 grams does not match.
   - This account does not explain how the 5.75 grams recovered from the paddy field relates to the stated total of 175.75 grams.
+  - This Hindustan page puts the total ganja recovery at 176.45 grams, which does not match the report's press-note figure of 175.75 grams.
+  - The page image is captioned only with the headline and its file path dates to 27 August 2025, so it is not established to show this seizure and no media entry is added.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 media:
   - kind: video
     url: https://www.bhaskar.com/local/bihar/bhojpur/bihiya/video/bihia-crime-notorious-criminal-sanjeet-yadav-kariya-arrested-arms-139600952.html?type=video
@@ -121,7 +125,7 @@ other people involved in the same arms and ganja network. [@1,2] Police said the
 will register a case under the relevant sections and send both accused to
 judicial custody after questioning is complete. [@1,3]
 
-Police recovered a country-made pistol, four cartridges and a total of 175.75 grams of ganja, according to a press note from superintendent of police Awadhesh Dixit. [@3,10,11] The other arrested suspect was identified as Awadh Bihari Prasad of Kateya village. [@3,10] Yadav told police he had bought the ganja from Prasad, and a raid on Prasad's shop recovered 170 grams of ganja; Prasad admitted his involvement. [@3]
+Police recovered a country-made pistol, four cartridges and a total of 175.75 grams of ganja, according to a press note from superintendent of police Awadhesh Dixit. [@3,10,11] The other arrested suspect was identified as Awadh Bihari Prasad of Kateya village. [@3,10] Yadav told police he had bought the ganja from Prasad, and a raid on Prasad's shop recovered 170 grams of ganja; Prasad admitted his involvement. [@3,10]
 
 Police registered Bihiya police station case 382/26 on 4 November 2026 under the Arms Act and the NDPS Act. [@6,7]
 
