@@ -77,6 +77,11 @@ sources:
     publisher: Defimedia.info
     date: 2026-09-07
     language: fr
+  - title: 'Madagascar : quatre Mauriciens suspectés de trafic de drogue en détention provisoire'
+    url: https://la1ere.franceinfo.fr/reunion/madagascar-quatre-mauriciens-suspectes-de-trafic-de-drogue-en-detention-provisoire-1735250.html
+    publisher: Réunion La 1ère
+    date: 2026-09-04
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
@@ -113,3 +118,5 @@ The political party of minister Véronique Leu-Govind said it was following the 
 Presented on Saturday before the Port-Louis court, he was not released on bail after police cited a risk of reoffending, pressure on witnesses and tampering with evidence. [@7] In a statement published on Saturday, the Les Nouveaux Démocrates party, to which Véronique Leu-Govind belongs, acknowledged the arrest and recalled its fundamental attachment to the principle of presumption of innocence. [@7]
 
 On 7 September 2026 the Financial Crimes Commission moved two speedboats from suspect Ravindra Chimajee's home to its Réduit Triangle headquarters, with forensic examination of the cabin, lockers and cockpit ordered. [@9] The FCC inquiry also examined possible money laundering linked to the network. [@9]
+
+One of four Mauritians detained in Madagascar is said to be implicated in the attempted import of the 155.7 kg of cannabis seized at Bras-Panon. [@10]

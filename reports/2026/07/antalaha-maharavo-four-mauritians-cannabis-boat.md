@@ -43,6 +43,11 @@ sources:
     publisher: L'Express de Madagascar
     date: 2026-09-04
     language: fr
+  - title: 'Madagascar : quatre Mauriciens suspectés de trafic de drogue en détention provisoire'
+    url: https://la1ere.franceinfo.fr/reunion/madagascar-quatre-mauriciens-suspectes-de-trafic-de-drogue-en-detention-provisoire-1735250.html
+    publisher: Réunion La 1ère
+    date: 2026-09-04
+    language: fr
 open_questions:
   - No cannabis weight, plants, area or value can be recorded for this event because no illicit substance was found aboard.
   - The Mauritian report gives 20 July for the grounding, while the Malagasy September report places the clandestine landing in the night of 19 July.
@@ -53,16 +58,23 @@ open_questions:
   - The identity of who financed and organised the trip, and whether a cargo ever existed, was not established.
   - The submitted page's image is captioned about Ashley Rose rather than the arrests, and the August page shows the town of Antalaha, so neither is listed as media of this event.
   - The text gives a weight ("300 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The article gives no separate start date for pre-trial detention beyond "the end of July 2026", and gives the delegation's presence only as "since Tuesday", read as Tuesday 1 September 2026 given the 4 September publication.
+  - The article places the clandestine landing in the night of 19 to 20 July, while the existing report uses 20 July; the existing date is retained.
+  - The article gives the suspects' ages as a 29 to 35 range, differing from the existing report's named ages of 34, 28, 30 and 29.
+  - The article does not name the suspect said to be linked to the Bras-Panon seizure nor the two men prosecuted in earlier Mauritian cannabis cases.
+  - No outcome of the extradition request was reported; Malagasy authorities were still studying it.
+  - The page's only image is captioned as an archive illustration from L'Express de Madagascar, not a photo of this event, so no media entry is added.
+  - Left out arrested, as no supporting quotation was given.
 ---
 
 Four Mauritian men were detained after their speedboat ran aground at Maharavo
 Ambohitralanana in Antalaha district on Madagascar's east coast on 20 July 2026.
-[@1] They were taken to Antananarivo and handed to the judicial police
+[@1,4] They were taken to Antananarivo and handed to the judicial police
 directorate at Toby Ratsimandrava. [@2] Fishermen helped the occupants and then
-alerted the Malagasy authorities. [@1]
+alerted the Malagasy authorities. [@1,4]
 
 The occupants tried to pass themselves off as Réunion residents and used false
-identities. [@1] They were identified as David Kingsley Chicot, 34, Ismaël
+identities. [@1,4] They were identified as David Kingsley Chicot, 34, Ismaël
 Benjamin Yoel, 28, Jean David Legentil, 30, and Brian Bowanee, 29, all Mauritian
 nationals. [@1] No illicit substance was found aboard, but investigators working
 with Mauritius's ADSU anti-drug unit favour a drug-trafficking hypothesis. [@2]
@@ -82,12 +94,13 @@ Their presence in Madagascar was described as a clear breach of those bail
 conditions. [@3]
 
 Their speedboat, which reportedly had been stolen and bore no registration,
-broke apart on the reefs. [@3] The fast boat used had been under surveillance
+broke apart on the reefs. [@3,4] The fast boat used had been under surveillance
 since March and is central to the Mauritian police investigation. [@3] An ADSU
 team spent two weeks in Madagascar questioning them about the expedition's
 financing, contacts and the final destination of any drug cargo. [@3] They were
-presented to the prosecutor and placed in pre-trial detention. [@3] They were
+presented to the prosecutor and placed in pre-trial detention. [@3,4] They were
 being held at the Tsiafahy prison and could be returned to Mauritius. [@3]
 Mauritian police filed an official extradition request, which was awaiting a
-Malagasy decision under a mutual legal assistance agreement. [@3]
+Malagasy decision under a mutual legal assistance agreement. [@3,4]
 
+A delegation of Mauritius's Anti-Drug and Smuggling Unit was in Madagascar questioning the detainees about traffickers' strategies for bringing drugs into Mauritius. [@4] The suspects were aged from 29 to 35. [@4] Two of the Mauritians held in Madagascar were already being prosecuted in Mauritian cannabis-trafficking cases. [@4] The case raised questions about the effectiveness of monitoring defendants released on bail. [@4] One of the detained suspects is said to be involved in the attempted import to Mauritius of the 155.7 kg of cannabis seized at Bras-Panon. [@4] Mauritian inspectors said the arrests could help close several air and sea entry routes. [@4]
