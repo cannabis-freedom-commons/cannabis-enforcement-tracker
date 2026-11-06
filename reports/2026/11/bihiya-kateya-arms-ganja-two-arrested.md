@@ -58,6 +58,16 @@ sources:
     url: https://www.thehawk.in/news/india/bihar-176-grams-of-cannabis-illegal-pistol-seized-two-arrested
     publisher: The Hawk
     date: 2026-11-05
+  - title: 'ਬਿਹਾਰ: 176 ਗ੍ਰਾਮ ਗਾਂਜਾ ਅਤੇ ਨਾਜਾਇਜ਼ ਪਿਸਤੌਲ ਬਰਾਮਦ; ਦੋ ਗ੍ਰਿਫ਼ਤਾਰ'
+    url: https://www.deshsewak.org/%E0%A8%85%E0%A8%AA%E0%A8%B0%E0%A8%BE%E0%A8%A7/bihar-176-grams-of-ganja-and-illegal-pistol-recovered-two/article-22701
+    publisher: Desh Sewak
+    date: 2026-11-05
+    language: pa
+  - title: बिहिया में पिस्टल, चार कारतूस और 176 ग्राम मादक पदार्थ के साथ दो गिरफ्तार
+    url: https://khabreapki.com/bihiya-news-two-arrested-with-a-pistol-four-cartridges-and-narcotics
+    publisher: Khabre Apki
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight or quantity for the seized ganja was published, so no cannabis kilograms can be recorded.
   - No type, count or calibre for the seized arms and cartridges was published.
@@ -74,6 +84,9 @@ open_questions:
   - The single page image repeats the headline and its file path dates to February 2025, so it is not established to show this seizure and no media entry is included.
   - Hindustan and News4Nation report a total of 176.45 g, while the existing report records 175.75 g; Hindustan's FAQ gives 5.75 g at the scene and 170 g from the shop, and News4Nation gives 5.75 g and 170.7 g, so the final total remains unresolved.
   - This account puts the cannabis total at 176.45 grams, from 5.75 grams seized from the main accused and 170.7 grams from the shop, while the report records 175.75 grams from a press note that gave 170 grams for the shop recovery.
+  - Desh Sewak and Khabre Apki give a total of 176.45 grams of suspected ganja (5.75 grams plus 170.70 grams), while the report records 175.75 grams; the weights are described as suspected ganja, not a laboratory-confirmed figure.
+  - Desh Sewak and Khabre Apki say the pistol and cartridges were thrown into a paddy field during the chase and recovered there, which differs from the report's account of catching the pair at the temple with the arms.
+  - The submitted Desh Sewak image is captioned only with the headline and is not established to show the seizure, so no media entry is included.
 media:
   - kind: video
     url: https://www.bhaskar.com/local/bihar/bhojpur/bihiya/video/bihia-crime-notorious-criminal-sanjeet-yadav-kariya-arrested-arms-139600952.html?type=video
@@ -101,3 +114,5 @@ Police recovered a country-made pistol, four cartridges and a total of 175.75 gr
 Police registered Bihiya police station case 382/26 on 4 November 2026 under the Arms Act and the NDPS Act. [@6]
 
 Police said Sanjit disclosed that he purchased the contraband from Awadh Bihari Prasad, also a resident of Kateya. [@7] Acting on this information, the police raided Prasad's shop and recovered another 170.7 grams of suspected cannabis. Prasad was subsequently arrested. [@7] According to the police, Sanjit has a criminal history, with four cases registered against him at Bihiya police station in 2018, 2019 and 2025. [@7] A search also led to the recovery of 5.75 grams of a substance suspected to be cannabis from his possession. [@7] An FIR has been registered at Bihiya police station in connection with the latest operation as Case No. 382/26, dated November 4, 2026, under relevant provisions of the Arms Act and the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@7]
+
+The main accused was identified as 28-year-old Sanjeet Yadav alias Kariya Yadav. [@8] Police also seized a weighing scale used for drug sales from Prasad's shop. [@9] Jagdishpur SDPO Ravi Kumar described the operation at a press conference at the Bihiya police station on Thursday. [@9]
