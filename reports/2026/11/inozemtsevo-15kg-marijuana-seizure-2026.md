@@ -60,6 +60,11 @@ sources:
     publisher: МК-Кавказ
     date: 2026-11-05
     language: ru
+  - title: Больше чем полкило марихуаны нашли дома у жителя Иноземцево
+    url: https://prospect.com.ru/news/7149824/bolshe-chem-polkilo-marihuany-nashli-doma-u-gitelya-inozemtsevo.html
+    publisher: Prospect
+    date: 2026-11-05
+    language: ru
 open_questions:
   - No separate search date was published; 5 November 2026 is the publication date used as the incident date.
   - The total was reported only as exceeding 1.5 kg, with approximate components of about 300 grams, more than 1 kg and about 310 grams, so 1.5 kg is recorded as the minimum.
@@ -72,13 +77,13 @@ open_questions:
 Zheleznovodsk police established that a 53-year-old resident of the settlement
 of Inozemtsevo was illegally storing narcotic substances. [@1,5] Zheleznovodsk
 officers suspected the man of illegal drug storage and found plastic buckets and
-paper wraps with contraband in his home during the search. [@4,5] The man was
+paper wraps with contraband in his home during the search. [@4,5,7] The man was
 taken to the police station after the search. [@1] He told officers that he had
-kept the drug for his own personal use. [@2,5]
+kept the drug for his own personal use. [@2,5,7]
 
 Forensic examination found that part of the seizure was about 300 grams of
 cannabis parts, alongside more than a kilogram of ready marijuana and about 310
-grams discovered in the outbuilding. [@3,5,6] Experts confirmed that the seized
+grams discovered in the outbuilding. [@3,5,6,7] Experts confirmed that the seized
 material was cannabis parts and marijuana with a combined weight of more than
 1.5 kg. [@1] The regional Interior Ministry reported that officers seized 1.5 kg
 of marijuana from the 53-year-old local resident in Inozemtsevo and said he
