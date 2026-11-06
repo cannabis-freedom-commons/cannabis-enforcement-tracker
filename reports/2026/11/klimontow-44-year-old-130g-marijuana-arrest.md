@@ -58,6 +58,11 @@ sources:
     publisher: Echo Dnia Świętokrzyskie
     date: 2026-11-05
     language: pl
+  - title: Dużą ilość marihuany zabezpieczono u 44-latka z gminy Klimontów
+    url: https://tyna.info.pl/pl/765_na-sygnale/241639_duza-ilosc-marihuany-zabezpieczono-u-44-latka-z-gminy-klimontow.html
+    publisher: tyna.info.pl
+    date: 2026-11-05
+    language: pl
 open_questions:
   - The articles were published on 5 November 2026 but say the visit happened on Tuesday afternoon, so 3 November 2026 is used as the incident date.
   - The identification as marijuana was preliminary by drug tester and no laboratory confirmation was reported.
@@ -66,17 +71,17 @@ open_questions:
 ---
 
 Sandomierz criminal officers visited a property in Gmina Klimontów on Tuesday
-afternoon just before 4 p.m. acting on their own findings. [@1] The property
-they visited was home to a 44-year-old man. [@1] Investigators believed
+afternoon just before 4 p.m. acting on their own findings. [@1,4] The property
+they visited was home to a 44-year-old man. [@1,4] Investigators believed
 prohibited substances could be found there. [@1] The man was detained and taken
-to the local police unit for further steps. [@1]
+to the local police unit for further steps. [@1,4]
 
 A detailed search covered the residential and farm buildings and confirmed the
 suspicion. [@1] Inside those residential and farm rooms officers found and
-secured the plant material. [@1] A drug-tester examination preliminarily
-indicated the material was marijuana. [@2] Police found 130 grams of dried plant
+secured the plant material. [@1,4] A drug-tester examination preliminarily
+indicated the material was marijuana. [@2,4] Police found 130 grams of dried plant
 material preliminarily identified as marijuana on a property in Sandomierz
-County. [@3]
+County. [@3,4]
 
 The property lies in Gmina Klimontów in Sandomierz County. [@3] Junior Aspirant
 Kamil Kasprzyk of the Sandomierz district police described the test result and
@@ -84,4 +89,3 @@ seizure. [@3] Under Poland's law on counteracting drug addiction, possession
 carries up to 3 years in prison, rising to 10 years for a significant quantity.
 [@1] The identification of the material as marijuana was described as
 preliminary. [@1]
-
