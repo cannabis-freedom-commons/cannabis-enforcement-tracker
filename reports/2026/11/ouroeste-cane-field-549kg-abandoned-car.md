@@ -90,6 +90,11 @@ sources:
     publisher: BRA 1
     date: 2026-11-05
     language: pt
+  - title: 'Mega-apreensão de Maconha em Ouroeste: Operação Integrada Causa Prejuízo de R$ 1 Milhão ao Crime Organizado'
+    url: https://jornaldigitaldaregiaooeste.com.br/apreensao-maconha-ouroeste-prejuizo-1-milhao/
+    publisher: Jornal Digital da Região Oeste
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
@@ -99,23 +104,25 @@ open_questions:
   - Fato Paulista gives no exact weight, only more than half a tonne, so the 549.6 kg figure still rests on the Federal Police count.
   - Agência SP gives no exact weight, only "more than meia tonelada", so it does not settle the difference between the 549 kg and 549.6 kg figures in the report.
   - This account gives only more than 500 kg rather than the 549.6 kg Federal Police weighing, so the exact weight still rests on the earlier Federal Police count.
+  - This account gives only more than half a tonne rather than a precise weight, so the 549.6 kg figure rests on the Federal Police count.
+  - The article credits the FICCO as a branch of the Public Ministry; the Federal Police's own statement lists federal and São Paulo state agencies instead.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
-Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5,7] During the inspection,
+Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5,7,8] During the inspection,
 officers found hundreds of cannabis tablets hidden in the vehicle, in the trunk
-and on the back seat. [@1,6,7] The Federal Police weighed the load at 549.6 kg of
+and on the back seat. [@1,6,7,8] The Federal Police weighed the load at 549.6 kg of
 maconha in the Ouroeste region. [@2] São Paulo public-security authorities
 estimated the seizure caused more than R$1 million in losses to organised crime.
 [@1,5,6,7]
 
 The operation was led by the Tático Ostensivo Rodoviário with the FICCO task
-force and the Public Ministry. [@1,7] Canine teams from the 9th BAEP, officers of
+force and the Public Ministry. [@1,7,8] Canine teams from the 9th BAEP, officers of
 the 16th Interior Police Battalion and the Minas Gerais military police also
-took part. [@1,6,7]
+took part. [@1,6,7,8]
 
 Officers searched the surrounding area, but no one was found to take
-responsibility for the car and the driver was not located. [@1,7] The vehicle and
+responsibility for the car and the driver was not located. [@1,7,8] The vehicle and
 the drugs were taken to the Federal Police station in Jales, which continues to
 investigate to identify those responsible for the transport. [@2,7]
 
