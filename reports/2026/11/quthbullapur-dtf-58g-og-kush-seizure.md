@@ -42,6 +42,10 @@ sources:
     url: https://hyderabadmail.com/quthbullapur-dtf-team-og-kush-mdma-lsd-seizure/
     publisher: Hyderabad Mail
     date: 2026-11-06
+  - title: Man arrested for selling drugs from his car in Hyderabad
+    url: https://www.siasat.com/man-arrested-for-selling-drugs-from-his-car-in-hyderabad-3570785/
+    publisher: The Siasat Daily
+    date: 2026-11-06
 open_questions:
   - The article gives no separate date for the operation; 6 November 2026 is its publication date and stands in for the incident date.
   - Only one source for this event could be opened and no second account was found in searches.
@@ -49,17 +53,18 @@ open_questions:
   - No court outcome, remand or sentence was reported.
   - The MDMA and LSD quantities are reported but excluded from cannabis figures.
   - The page's lead photo, captioned only 'Qutblpur', could not be confirmed to show the seizure, so no media entry was made.
+  - The Siasat article identifies the suspect by name, a detail not in the existing report and not added here.
+  - The existing report attributes the handover account to excise superintendent Praveen; the Siasat article reports the handover to Quthbullapur Excise Police Station without naming him.
 ---
 
 A Directorate of Enforcement task force team from Quthbullapur detained a man
-accused of selling drugs from his car. [@1] Officers recovered 58 grams of OG
-Kush, a name used for a variety of high-grade cannabis, from him. [@1] The same
+accused of selling drugs from his car. [@1,2] Officers recovered 58 grams of OG
+Kush, a name used for a variety of high-grade cannabis, from him. [@1,2] The same
 search turned up 0.95 grams of MDMA and two LSD doses, which fall outside the
-tracker's cannabis figures. [@1]
+tracker's cannabis figures. [@1,2]
 
 The team seized the car and mobile phones it says were used in the drug trade.
-[@1] The detained man and the seized drugs were handed to Quthbullapur Excise
+[@1,2] The detained man and the seized drugs were handed to Quthbullapur Excise
 police station, excise superintendent Praveen said. [@1] The Telangana excise
 department runs district task forces, the DTF units that carried out the
 operation, and its excise police registered the case. [@1]
-
