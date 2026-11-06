@@ -117,6 +117,11 @@ sources:
     url: https://hyderabadmail.com/bhaskar-hazarika-assam-ganja-network-busted-telangana-eagle-force/
     publisher: Hyderabad Mail
     date: 2026-11-06
+  - title: 'Security guard to ₹1.8 Cr drug lord: How Bhaskar Hazarika built ganja empire in Hyderabad'
+    url: https://newsmeter.in/video-stories/security-guard-to-18-cr-drug-lord-how-bhaskar-hazarika-built-ganja-empire-in-hyderabad-778850
+    publisher: NewsMeter
+    date: 2026-11-06
+    language: en
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -178,9 +183,13 @@ open_questions:
   - The page also carries a separate Maheshwaram forfeiture item; that case is recorded in its own report and is left out here.
   - The new account spells the station Madhapur, while the existing report uses Madapoor for the 2024 cases.
   - The new account spells the Odisha supplier Debasis Nayak, while another account already noted in the report uses Debasish Nayak alias Pinku Nayak; whether the spellings refer to the same person is unclear.
+  - The submitted video story has no article body; only its sub-heading states the 60-day hunt, the five arrests and the 24.7 kg seizure, so it is cited for the match rather than for new details.
+  - The page's lead image is captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is added.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14,16] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14,16,17] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
 24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16] The five arrested were
