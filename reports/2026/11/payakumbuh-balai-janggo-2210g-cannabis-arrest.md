@@ -44,6 +44,11 @@ sources:
     publisher: Topsatu.com
     date: 2026-11-05
     language: id
+  - title: Polres Payakumbuh Amankan Dua Pria, Sita 2,2 Kg Ganja dan Belasan Gram Sabu-Sabu
+    url: https://mediahub.polri.go.id/in/image/detail/600711-polres-payakumbuh-amankan-dua-pria-sita-22-kg-ganja-dan-belasan-gram-sabusabu
+    publisher: Mediahub Polri
+    date: 2026-11-05
+    language: id
 open_questions:
   - Only one accessible source for this event was found after searching in Indonesian and English, so no second outlet corroborates the account.
   - The article page carries a photograph with no caption or alt text establishing that it shows this seizure, so no media entry is included.
@@ -53,6 +58,8 @@ open_questions:
   - This Harian Singgalang account states the Article 114(2) charge carries a 12-year prison threat, while the existing report describes a 6-year minimum and a 20-year or life maximum for the same charge.
   - The page photograph is captioned only with the article title and carries no credit or description establishing that it shows this seizure, so no media entry is included.
   - The new accounts describe the Article 114(2) penalty as 12 years' imprisonment, with Sakato saying a maximum of 12 years and Salingka Media saying a minimum of 12 years, while the existing report gives a 6-year minimum and a 20-year or life maximum for the same charge.
+  - Mediahub Polri describes the Article 114(2) charge's threatened prison term as 12 years, another figure in a series that already differ across outlets covering this case; the penalty detail remains unresolved.
+  - The Mediahub page labels its only photograph "Main" with no credit or description identifying it as a picture of this seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://sakato.co.id/dramatis-polisi-bekuk-dua-pengedar-narkotika-lintas-provinsi-di-payakumbuh-ganja-2-kg-lebih-disita/
@@ -62,24 +69,24 @@ media:
 ---
 
 Payakumbuh's drug squad arrested two men, AS aged 32 and FH aged 26, on
-suspicion of narcotics abuse and illicit trafficking. [@1,2,3] The arrest, which
+suspicion of narcotics abuse and illicit trafficking. [@1,2,3,6] The arrest, which
 drew residents' attention, took place in the early hours of Thursday 5 November
-2026 on Jalan Jenderal Sudirman in Kelurahan Balai Janggo. [@1,2,3] Payakumbuh
+2026 on Jalan Jenderal Sudirman in Kelurahan Balai Janggo. [@1,2,3,6] Payakumbuh
 police chief AKBP Irwan Andeta, through drug squad head AKP Gusmanto, confirmed
 the arrests. [@1,2,4]
 
 An initial search at the scene found two large packets of dried cannabis and
-five packets of methamphetamine, known locally as sabu. [@1,2,3] Officers said
+five packets of methamphetamine, known locally as sabu. [@1,2,3,6] Officers said
 initial field questioning indicated the two had just collected the cannabis and
 methamphetamine in Pekanbaru city to distribute in Payakumbuh city. [@1,2,3] Police
 then searched AS's house in Kelurahan Parit Rantang in Payakumbuh Barat, finding
 another medium packet of dried cannabis wrapped in brown tape, one small packet
-of dried cannabis, a digital scale and other supporting evidence. [@1,5] Gusmanto
+of dried cannabis, a digital scale and other supporting evidence. [@1,5,6] Gusmanto
 put the total seized cannabis at 2,210 grams and the methamphetamine at 15.36
-grams. [@1,2,3]
+grams. [@1,2,3,6]
 
 Investigators were still developing the case to uncover possible involvement of
-a wider trafficking network. [@1,2,3] The two men were accused under Article 114(2)
+a wider trafficking network. [@1,2,3,6] The two men were accused under Article 114(2)
 of Indonesia's 2009 Narcotics Law in conjunction with the 2023 Criminal Code,
 which carries a minimum of 6 years and a maximum of 20 years or life
 imprisonment. [@1,3]
