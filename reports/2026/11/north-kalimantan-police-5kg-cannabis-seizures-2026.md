@@ -43,31 +43,38 @@ sources:
     publisher: VOI
     date: 2026-11-05
     language: ar
+  - title: Kaltara警察局揭露了80起毒品案件，查获了42公斤的摇头丸，116名嫌疑人
+    url: https://voi.id/zh/news/601446
+    publisher: VOI
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The account does not identify how many of the 116 arrested suspects were involved in cannabis cases.
   - The article's approximate 42 kg total combines multiple drugs and does not give a cannabis-specific split, so it is omitted from the cannabis figure.
   - The account does not clarify whether its 28.71-gram marijuana listing is separate from the three dated cannabis seizures; the calculated 5.10491 kg total treats the four quantities as separate.
   - No later court outcome is reported for the suspects.
   - Only the VOI account was found in accessible searches; no independently opened account or official statement was available.
+  - The Chinese page is an automatically generated translation of the same VOI article, so it does not independently confirm the figures; no Indonesian-language original or police statement was opened.
+  - The page does not say whether the 28.71-gram marijuana listing overlaps the three dated cannabis seizures, so the 5.10491 kg total treats the four quantities as separate.
+  - The page does not state how many of the 116 suspects were held in cannabis cases, or give any court outcome.
 ---
 
 North Kalimantan Regional Police (Polda Kaltara) said it had disclosed 80
-narcotics cases from September to November 2026. [@1] The regional police chief
-presented the cases at a press conference in Tarakan on 5 November 2026. [@1]
+narcotics cases from September to November 2026. [@1,2] The regional police chief
+presented the cases at a press conference in Tarakan on 5 November 2026. [@1,2]
 Police said 116 suspects had been arrested across the cases, and the Kaltara
 narcotics directorate and the Kaltara police narcotics unit handled the
-disclosures. [@1] Other cases were handled by units in Bulungan, Tarakan and
+disclosures. [@1,2] Other cases were handled by units in Bulungan, Tarakan and
 Nunukan and involved trafficking in methamphetamine, ecstasy, etomidate and
-liquid containing synthetic drugs. [@1]
+liquid containing synthetic drugs. [@1,2]
 
 Police listed 28.71 grams of marijuana alongside morphine, 235.3 grams of
 etomidate or 95 cartridges, 406.65 millilitres of synthetic liquid and 270
-ecstasy tablets. [@1] The account separately lists three cannabis seizures:
+ecstasy tablets. [@1,2] The account separately lists three cannabis seizures:
 3,012.48 grams on 5 September 2026, 1,063.72 grams on 25 September and 1,000
-grams on 23 October. [@1]
+grams on 23 October. [@1,2]
 
 All seized evidence was examined at the Surabaya forensic laboratory and tested
-with narcotics kits. [@1] Police said the reported tests identified
+with narcotics kits. [@1,2] Police said the reported tests identified
 methamphetamine in the methamphetamine samples, synthetic cannabinoids in the
-liquid, etomidate in another seized product and MDMA in the ecstasy. [@1]
-
+liquid, etomidate in another seized product and MDMA in the ecstasy. [@1,2]
