@@ -1,0 +1,88 @@
+---
+code: SXAXK1
+added_at: "2026-11-06T08:40:39.843807Z"
+date: 2026-11-05
+country: gh
+place: Ada Estuary, Ada East District, Greater Accra Region
+coordinates: [5.783, 0.633]
+precision: locality
+type: seizure
+title: Navy seizes 4.7 tonnes of suspected cannabis from two boats at Ada Estuary
+summary: >-
+  Ghana Navy personnel with NACOC and National Security found 117 sacks of suspected Indian hemp, about 4.7 tonnes and valued at more than US$1 million, on two abandoned wooden boats at the Ada Estuary on 5 November 2026. The occupants fled before the patrol reached them, no arrests were made, and the sacks were handed to NACOC pending laboratory tests.
+figures:
+  arrested: 0
+  kg_seized: 4700
+  value:
+    amount: 1000000
+    currency: USD
+details:
+  agencies: [Ghana Navy, gh-nacoc]
+  agency_types: [military, anti-narcotics]
+  products:
+    - {product: flower}
+  activity: [smuggling]
+  environment: [outdoor]
+  case_stage: investigation
+data_sources:
+  details.activity: [2]
+  details.agencies: [2]
+  details.agency_types: [2]
+  details.case_stage: [1]
+  details.environment: [2]
+  details.products: [2]
+  figures.arrested: [2]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://3news.com/crime/navy-intercepts-suspected-cannabis-ada-estuary
+    media_url: https://media.3news.com/ghana-navy-ada-seizure-117-sacks-800x560.webp
+    publisher: 3News
+    caption: Sacks of suspected cannabis, fuel containers and outboard motors seized by the Ghana Navy at the Ada Estuary on 5 November 2026.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 6e2424b87990442e71eeded1964c8f35
+tags: [ghana-navy, nacoc, ada, indian-hemp, volta-lake]
+sources:
+  - title: 'Ada: suspected cannabis worth over $1m seized in joint Navy, NACOC operation'
+    url: https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ada-suspected-cannabis-worth-over-1m-seized-in-joint-Navy-NACOC-operation-2060055
+    publisher: GhanaWeb
+    date: 2026-11-06
+  - title: Ghana Navy intercepts 4.7 tonnes of suspected cannabis worth over US$1m at Ada Estuary
+    url: https://3news.com/crime/navy-intercepts-suspected-cannabis-ada-estuary
+    publisher: 3News
+    date: 2026-11-06
+open_questions:
+  - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
+  - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
+  - No one had been arrested when the seizure was announced, and the source and intended foreign destination of the consignment were not established.
+  - The news reports do not say whether the two boats and any outboard motors or fuel were retained as exhibits.
+  - The earlier 2026 Ada estuary seizures mentioned in the same reports — 37 sacks at Goi on 27 March and 59 sacks on 19 July — are separate events and are not recorded here.
+---
+
+Ghana Navy personnel from the Riverine Command, working with the Narcotics
+Control Commission (NACOC) and National Security, intercepted two wooden boats
+at the Ada Estuary on Thursday 5 November 2026. [@2] The boats carried 117 sacks
+of compressed dried leaves suspected to be Indian hemp, each sack holding more
+than 80 parcels. [@2] The occupants spotted the approaching naval patrol,
+abandoned both vessels and their cargo, and fled. [@1]
+
+The Navy estimated the cargo at about 4.7 tonnes and put its street value at
+more than US$1 million. [@1] No one was arrested, and the sacks remain
+classified as suspected narcotics pending laboratory testing. [@2] Preliminary
+intelligence indicated the consignment was being prepared for export out of
+Ghana. [@2]
+
+The seized substances were handed to NACOC for forensic examination and further
+investigation. [@1] Naval Captain Festus Osei Brobbey, Director of Naval
+Operations, said a riverine detachment had been stationed to strengthen security
+on the Volta Lake and in surrounding communities. [@2] Kenneth Kofi Kabu Kanor,
+the Ada East District Chief Executive and chairman of the District Security
+Committee (DISEC), urged residents not to let the Volta Lake become a transit
+route for drugs. [@2]
+
+The Navy said the interception was at least the third major abandonment of a
+cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
+March and 59 sacks found on 19 July. [@2]
+
