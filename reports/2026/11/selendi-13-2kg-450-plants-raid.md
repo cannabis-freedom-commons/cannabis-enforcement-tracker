@@ -1,20 +1,19 @@
 ---
 code: "246523"
 added_at: "2026-11-05T09:46:46.466371Z"
-date: 2026-11-04
+date: 2026-11-05
 country: tr
 place: Selendi, Manisa
 coordinates: [38.7453, 28.8675]
 precision: locality
 type: raid
 also: [seizure, arrest]
-title: One detained as Selendi raid finds 13.2 kg cannabis and 450 plants
-summary: >-
-  Gendarmerie teams raided a home in Selendi, Manisa, and detained 44-year-old K.Y. on suspicion of producing and trading drugs. Officers seized 13 kilos 200 grams of kubar esrar and 450 cannabis plants, and the suspect was due to be brought before prosecutors the next day.
+title: One remanded as Selendi raid finds 13.2 kg cannabis and 450 plants
+summary: Provincial gendarmerie teams raided the home of 44-year-old K.Y. in Selendi, Manisa, seizing 13 kilos 200 grams of kubar esrar and 450 cannabis plants. After the procedures, the detained suspect was brought before the judgeship and remanded in custody.
 figures:
-  arrested: 1
-  plants_destroyed: 450
-  kg_seized: 13.2
+    arrested: 1
+    plants_destroyed: 450
+    kg_seized: 13.2
 media:
   - kind: photo
     url: https://www.medyagazete.com/haber/manisada-jandarmadan-uyusturucu-operasyonu-13-kilo-esrar-ele-gecirildi
@@ -61,6 +60,11 @@ sources:
     publisher: Manisa Denge
     date: 2026-11-05
     language: tr
+  - title: Manisa'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı
+    url: https://yerel-haberler.haberturk.com/manisa-haberleri/manisada-uyusturucu-operasyonunda-yakalanan-supheli-tutuklandi-119513669
+    publisher: Habertürk
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give the raid only as having happened the day before their 5 November 2026 publication, so 4 November 2026 is an inferred date.
   - No charges, custody ruling or court outcome were reported beyond the stated referral to the judicial authorities.
@@ -74,6 +78,13 @@ open_questions:
   - The Habertürk page states its Manisa news comes from agency channels without editorial intervention and names İhlas Haber Ajansı as its source, so it adds no independent account beyond the same agency text.
   - The submitted page's image carries no caption or photographer/agency credit establishing that it shows this seizure, so no media entry is added.
   - The Manisa Denge page identifies its text and byline as İhlas Haber Ajansı, so it is a reprint of agency copy already cited and gives no independent confirmation.
+  - The page gives no separate day for the remand; 5 November 2026 is its publication and entry date and is used as the latest-step date, while the raid itself was inferred as 4 November 2026 in the existing report.
+  - The Habertürk page states its text came without editorial intervention through agency channels from Anadolu Ajansı, and a Milliyet page carries the same AA text, so no independent account beyond the agency copy was found.
+  - The page image is captioned only with the headline Manisa'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı and carries no photographer or agency credit establishing that it shows this seizure, so no media entry is included.
+data_sources:
+    figures.arrested: [8]
+    figures.kg_seized: [8]
+    figures.plants_destroyed: [8]
 ---
 
 Gendarmerie teams raided a home in Selendi district in Manisa province and
@@ -91,3 +102,5 @@ Officers seized the drugs found at the address. [@3]
 
 The raid took place the day before the 5 November 2026 reports, which put the
 haul at 13.2 kilos of kubar esrar and the same 450 plants. [@3,4]
+
+After the procedures, the detained suspect was brought before the judgeship and remanded in custody. [@8]
