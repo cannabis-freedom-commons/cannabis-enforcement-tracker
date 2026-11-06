@@ -1,0 +1,92 @@
+---
+code: 04HDGY
+added_at: "2026-11-06T10:32:27.629987Z"
+date: 2026-11-05
+country: id
+place: Mapolres Lhokseumawe, Lhokseumawe, Aceh
+coordinates: [5.18, 97.15]
+precision: locality
+type: seizure
+also: [eradication, arrest]
+title: Nine held as Lhokseumawe police report 43 hectares of cannabis fields
+summary: >-
+  Lhokseumawe police presented nine detainees and about 40.3 kilograms of dried cannabis on 5 November 2026 after a month of narcotics cases. The same disclosure covered about 43 hectares of cannabis fields found in Sawang, North Aceh, where three men were held after the 27 October find near Teupin Rusep.
+figures:
+  arrested: 9
+  kg_seized: 40.312128
+  hectares: 43
+details:
+  agencies: [Polres Lhokseumawe]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 40.312128}
+    - {product: seeds}
+    - {product: plants}
+  activity: [cultivation, sale, possession]
+  setting: [field, forest, home]
+  environment: [outdoor]
+  charges: ['Articles 111, 112, 114, 117 and 119 of Narcotics Law No. 35 of 2009']
+  case_stage: investigation
+  date_precision: exact
+  region: Aceh
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [2]
+  details.environment: [1]
+  details.products: [2]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.hectares: [2]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: c7c62c74508d9d364ac205302d665751
+tags: [lhokseumawe, aceh, ladang-ganja, ganja, polres-lhokseumawe]
+sources:
+  - title: Polres Lhokseumawe Sita Puluhan Kilo Narkotika dan Temukan 43 Hektare Ladang Ganja, 9 Tersangka Ditangkap
+    url: https://www.newsataloen.com/2026/11/polres-lhokseumawe-sita-puluhan-kilo.html
+    publisher: NEWS ATALOEN
+    date: 2026-11-06
+    language: id
+  - title: Polres Lhokseumawe Ungkap Enam Kasus Narkoba, Temukan Ladang Ganja 43 Hektare
+    url: https://rri.co.id/lhokseumawe/hukum/kriminalitas/2873598/polres-lhokseumawe-ungkap-enam-kasus-narkoba-temukan-ladang-ganja-43-hektare
+    publisher: RRI.co.id
+    date: 2026-11-05
+    language: id
+open_questions:
+  - RRI and earlier reporting list four people detained in the 27 October Sawang phase with one later released, while this press conference says only three suspects were held there.
+  - The submitted page spells the sites Alue Garot and Alue Ie Mudek, differing from Cot Mancang, Alue Garot and Alue Le Mudek in other accounts.
+  - The 43-hectare total is a police-briefing figure that adds the 27 October 18 hectares, already recorded in the campaign report, to the 30-31 October 25 hectares; it is not a new area of destruction.
+  - Neither account says whether the Sawang fields were destroyed or only measured during these disclosures.
+  - No plant count, weight or street value was published for the fields, and no court outcome beyond detention and questioning was reported.
+  - The submitted page's single photo carries no caption or credit, so no media entry is made.
+---
+
+Lhokseumawe police presented nine detainees and about 40.3 kilograms of dried
+cannabis at a press conference at the Lhokseumawe police headquarters on 5
+November 2026. [@1] The nine detainees were eight men and one woman, held over
+narcotics cases spread across Banda Sakti, Muara Dua and Sawang district. [@1]
+
+Two ganja cases accounted for 40,312.128 grams of dried cannabis, the only
+cannabis weight the press conference reported. [@1] On 27 October 2026 officers
+found a cannabis field of 18 hectares in Desa Teupin Rusep, Sawang, North Aceh,
+and detained three suspects who were still being questioned about their
+involvement. [@1] Between 30 and 31 October 2026 officers found three more
+cannabis sites at Dusun Alue Garot, Dusun Alue Ie Mudek and Desa Teupin Rusep in
+Sawang with a combined area of about 25 hectares. [@1] No one had been
+identified for the three late-October sites, which police said were still under
+investigation. [@1] RRI put the cannabis fields found in the series of
+disclosures at about 43 hectares in total. [@2] RRI reported that the 27 October
+find at Teupin Rusep was accompanied by 282 grams of cannabis seeds and 29 grams
+of dried cannabis seized at the site. [@2] RRI said the two ganja cases involved
+four suspects and that the 27 October Teupin Rusep site yielded three men
+identified only by initials. [@2]
+
+Police applied Articles 111, 112, 114, 117 and 119 of Narcotics Law Number 35 of
+2009 to the suspects, with penalties depending on each person's charge and role.
+[@2] The Lhokseumawe police chief, AKBP Ahzan, said the crackdown showed police
+would give no room to people damaging the younger generation through drugs. [@1]
+

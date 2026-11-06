@@ -62,6 +62,7 @@ open_questions:
   - No court outcome beyond detention and the cited articles was reported.
   - Mu said he was tasked with selling 40.128 kilograms while police seized 40.000128 kilograms; the difference is unexplained.
   - Coordinates are for Lhokseumawe town centre as a proxy for Hagu Teungoh village.
+  - The submitted News Ataloen account gives the Hagu case only as part of a two-case ganja total of 40,312.128 grams and does not restate the individual 40,000.128-gram figure.
 ---
 
 Lhokseumawe police uncovered a cannabis case in Desa Hagu Teungoh, Banda Sakti,
@@ -81,3 +82,4 @@ face Articles 111, 112, 114, 117 and 119 of Narcotics Law Number 35 of 2009
 and/or Criminal Code Law Number 1 of 2023 in conjunction with Law Number 1 of
 2026 on sentencing adjustments. [@1]
 
+RRI reported the Hagu case as one of two ganja cases with a combined 40,312.128 grams of dried cannabis, with four suspects across both ganja cases. [@2]

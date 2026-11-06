@@ -204,6 +204,11 @@ sources:
     publisher: Bacakabar
     date: 2026-11-04
     language: id
+  - title: Polres Lhokseumawe Ungkap Enam Kasus Narkoba, Temukan Ladang Ganja 43 Hektare
+    url: https://rri.co.id/lhokseumawe/hukum/kriminalitas/2873598/polres-lhokseumawe-ungkap-enam-kasus-narkoba-temukan-ladang-ganja-43-hektare
+    publisher: RRI.co.id
+    date: 2026-11-05
+    language: id
 open_questions:
   - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
   - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
@@ -294,6 +299,7 @@ open_questions:
   - No dried-cannabis weight was published; the 93,225-ton figure is stated as estimated wet weight.
   - No names, charges or court outcomes beyond the four people secured in the Sawang phase were given in this account.
   - The page carries one image with no caption or credit establishing that it shows this eradication, so no media entry is added.
+  - The RRI account names three detainees, S, W and M, for the 27 October Sawang phase and records 282 grams of cannabis seeds and 29 grams of dried cannabis seized there, which agrees with this report's four secured with HM released.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh
@@ -344,3 +350,5 @@ Growers also planted cannabis at home to monitor growth, estimating the forest-f
 The Mandailing Natal follow-up was handled by the Mandailing Natal police drug unit in coordination with the North Sumatra police drug directorate. [@29] Officers said handling of the fields considered the number of plants and the sites' proximity to community plantation areas. [@29]
 
 BNN public-relations bureau chief Putu Putera Sadana said the operation targeted narcotics production sources rather than only downstream distribution networks. [@30] BNN asked the public to report suspected cannabis planting or trafficking through its complaint service at number 184. [@30]
+
+The new press conference reports three detainees, S, W and M, for the 27 October Sawang phase, while this report records four people secured there and one later released. [@31]
