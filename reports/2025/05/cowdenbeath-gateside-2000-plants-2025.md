@@ -22,10 +22,12 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
+  products: [{product: flower}]
   setting: [home, building]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [2, 3, 1]
+  details.products: [1, 2, 3]
   details.setting: [2, 3, 1]
   figures.arrested: [2, 3]
   figures.charged: [2, 3, 1]

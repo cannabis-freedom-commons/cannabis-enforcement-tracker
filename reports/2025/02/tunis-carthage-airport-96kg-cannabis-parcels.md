@@ -17,10 +17,12 @@ figures:
 details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 96.3}]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.products: [2, 1, 3]
   details.setting: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2, 3]

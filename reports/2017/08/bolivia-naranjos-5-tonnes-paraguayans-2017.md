@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [2, 4]
   details.products: [2, 4, 1, 3]
   figures.arrested: [2]
+  figures.charged: [2, 4]
   figures.value: [3, 2, 1]
 media:
   - kind: photo

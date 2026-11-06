@@ -21,12 +21,15 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 400}]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.products: [2]
   figures.arrested: [2]
   figures.kg_seized: [2]
+  figures.value: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc897f83ed6203a1682e6171195b651d

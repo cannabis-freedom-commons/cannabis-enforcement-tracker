@@ -16,8 +16,11 @@ figures:
   arrested: 1
 details:
   activity: [trafficking]
+  products: [{product: flower}]
 data_sources:
   details.activity: [2, 1]
+  details.products: [1, 2]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dc97b78ff022ce558d0b569a4b79e66b

@@ -19,10 +19,12 @@ figures:
     currency: GHS
 details:
   agency_types: [police]
+  case_stage: convicted
   products: [{product: flower}]
   setting: [mail]
 data_sources:
   details.agency_types: [1, 4, 5, 7, 9, 10]
+  details.case_stage: [1, 4, 6, 7, 8, 9]
   details.products: [1, 4, 5, 7, 8, 9]
   details.setting: [3, 1, 4, 5, 7, 8]
   figures.arrested: [3, 1, 4, 5, 7, 8]

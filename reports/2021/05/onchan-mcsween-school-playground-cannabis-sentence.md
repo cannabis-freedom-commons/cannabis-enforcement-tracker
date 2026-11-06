@@ -21,6 +21,7 @@ figures:
 details:
   agency_types: [police]
   activity: [possession, sale]
+  products: [{product: flower}]
   setting: [school]
   charges: [possessing cannabis with intent to supply, possessing criminal property, breaching lockdown laws]
   case_stage: sentenced
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [3]
+  details.products: [1, 2, 3]
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]

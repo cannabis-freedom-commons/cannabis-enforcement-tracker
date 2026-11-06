@@ -18,11 +18,13 @@ details:
   activity: [trafficking, possession]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [home, street]
 data_sources:
   details.activity: [1, 4, 2, 3]
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [1, 4, 2, 3]
+  details.products: [1, 4, 2, 3]
   details.setting: [1, 3]
   figures.charged: [1]
 media:

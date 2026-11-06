@@ -20,11 +20,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 10000}]
   setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

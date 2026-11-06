@@ -18,11 +18,13 @@ details:
   activity: [trafficking, sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 0.403329}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified

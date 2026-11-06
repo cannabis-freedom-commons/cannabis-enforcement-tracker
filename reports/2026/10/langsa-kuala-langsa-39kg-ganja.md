@@ -20,11 +20,13 @@ details:
   agencies: [id-bnn]
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 39.898}]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]
 media:

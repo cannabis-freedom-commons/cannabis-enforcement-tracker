@@ -13,10 +13,12 @@ summary: >-
   drug case.
 created_by_model: unknown
 details:
+  activity: [possession]
   case_stage: sentenced
   products: [{product: hashish}]
   sentence_types: [death]
 data_sources:
+  details.activity: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]

@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 10, 4, 5, 6, 7]
   details.products: [2, 3, 4, 5, 6, 7]
   details.setting: [1, 10, 4, 5, 6, 7]
+  figures.arrested: [1, 10, 4, 5, 6, 7]
 media:
   - kind: photo
     url: https://tempo24.news/dytiki-achaia-synelifthi-andras-me-perissotera-apo-3-kila-kannavis-kai-opla/

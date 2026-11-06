@@ -28,9 +28,12 @@ media:
 details:
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 tags: [puttalam, kerala-cannabis, pnb, councillor]

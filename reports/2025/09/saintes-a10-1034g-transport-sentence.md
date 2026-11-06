@@ -23,11 +23,13 @@ created_by_model: cursor/composer-2.5
 details:
   agency_types: [customs, prosecutor, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 1.034}]
   sentence_types: [prison, fine, probation]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]

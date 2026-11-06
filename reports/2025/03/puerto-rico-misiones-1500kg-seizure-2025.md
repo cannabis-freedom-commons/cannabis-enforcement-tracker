@@ -19,10 +19,12 @@ details:
   agency_types: [border-guard, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 1500}]
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
   details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
   figures.kg_seized: [1, 3, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

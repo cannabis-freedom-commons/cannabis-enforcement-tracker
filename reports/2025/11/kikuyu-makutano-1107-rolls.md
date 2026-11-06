@@ -21,11 +21,13 @@ figures:
 details:
   agencies: [ke-nps]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 6}]
   setting: [street]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

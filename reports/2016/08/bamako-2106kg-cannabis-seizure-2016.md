@@ -20,11 +20,13 @@ details:
   activity: [trafficking]
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 2106.88}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
 status: verified

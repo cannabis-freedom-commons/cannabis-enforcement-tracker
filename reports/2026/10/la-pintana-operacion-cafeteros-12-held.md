@@ -17,6 +17,7 @@ details:
   agencies: [cl-pdi]
   agency_types: [anti-narcotics, police, prosecutor]
   activity: [trafficking, money]
+  products: [{product: flower}]
   setting: [shop]
   charges: [tráfico de drogas (Ley 20.000), infracción a la Ley de Armas]
   case_stage: charged
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [2, 6, 1, 3, 7]
   details.setting: [1]
   figures.arrested: [3]
   figures.charged: [1]

@@ -18,11 +18,13 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [building]
 data_sources:
   details.activity: [2, 3, 4]
   details.agency_types: [2, 3, 4, 1]
   details.case_stage: [2, 3, 4]
+  details.products: [2, 3, 4]
   details.setting: [2, 3, 4]
   figures.arrested: [2, 3, 4]
 status: reported

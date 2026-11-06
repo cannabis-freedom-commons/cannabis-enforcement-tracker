@@ -14,11 +14,13 @@ created_by_model: unknown
 details:
   agency_types: [gendarmerie, court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

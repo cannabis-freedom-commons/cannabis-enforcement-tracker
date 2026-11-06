@@ -23,12 +23,14 @@ details:
   agencies: [int-europol]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 3000}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 5, 2]
+  details.products: [1, 3, 5, 2, 4]
   details.setting: [3, 4, 5, 1, 2]
   figures.arrested: [1, 3, 5, 2]
 status: verified

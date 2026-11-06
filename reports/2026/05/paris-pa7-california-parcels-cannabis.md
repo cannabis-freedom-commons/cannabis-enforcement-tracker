@@ -19,11 +19,13 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, police, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 430}]
   setting: [mail]
 data_sources:
   details.activity: [1, 4]
   details.agency_types: [2, 4, 1, 3]
   details.case_stage: [1, 4, 3]
+  details.products: [1, 4, 3, 2]
   details.setting: [1, 4, 3]
   figures.arrested: [3, 4]
   figures.kg_seized: [1, 4, 3]

@@ -27,12 +27,14 @@ media:
 details:
   activity: [possession]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3]
   details.products: [1, 2, 3]
   details.setting: [2, 3, 1]
 status: verified

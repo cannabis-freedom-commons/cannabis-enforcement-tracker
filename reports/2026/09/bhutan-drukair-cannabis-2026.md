@@ -15,11 +15,13 @@ details:
   activity: [trafficking, smuggling]
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 22.34}]
   setting: [airport]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

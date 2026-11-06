@@ -17,11 +17,13 @@ details:
   activity: [cultivation]
   agency_types: [court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
 status: verified
 cfi_id: vanuatu-young-cannabis-seller-sentence-2019

@@ -13,9 +13,11 @@ summary: >-
   must be granted; they should charge the person and bring them before a magistrate.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [police]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.setting: [1]
 status: verified

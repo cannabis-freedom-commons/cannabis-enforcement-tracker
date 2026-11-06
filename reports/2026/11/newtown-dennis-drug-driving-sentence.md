@@ -18,10 +18,14 @@ figures:
     currency: GBP
 details:
   agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [fine, probation]
   setting: [street]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.fine: [1]

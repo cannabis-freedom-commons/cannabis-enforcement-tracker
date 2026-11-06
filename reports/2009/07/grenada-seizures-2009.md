@@ -11,9 +11,13 @@ summary: >-
   reported in the US International Narcotics Control Strategy Report.
 created_by_model: unknown
 details:
+  agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: grenada-seizures-2009
 sources:

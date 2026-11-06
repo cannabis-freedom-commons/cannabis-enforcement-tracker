@@ -17,10 +17,12 @@ figures:
 details:
   agency_types: [police, prosecutor, court]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
   figures.plants_destroyed: [1, 2, 3, 4, 5, 6]
 media:

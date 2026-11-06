@@ -20,10 +20,12 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 62.811}]
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bolivar, cpnb, river, trafficking]

@@ -18,10 +18,12 @@ details:
   agencies: [ar-gna]
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 4.613}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

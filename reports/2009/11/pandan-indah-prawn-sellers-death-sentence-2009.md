@@ -22,10 +22,12 @@ details:
   activity: [trafficking]
   agency_types: [prosecutor]
   case_stage: sentenced
+  products: [{product: flower, kg: 36.22}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.charged: [1]
 status: verified
 tags: [mandatory-death-penalty, selangor]

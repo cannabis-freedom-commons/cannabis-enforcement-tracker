@@ -29,11 +29,13 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 17.88}]
   setting: [mail]
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 7, 4, 2, 3, 9]
+  details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 7, 4, 2, 3, 9]
   figures.arrested: [1, 7, 4, 2, 3, 9]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

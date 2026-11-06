@@ -37,11 +37,13 @@ details:
   case_stage: charged
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [1, 5, 2]
   details.agency_types: [3, 1, 4, 2, 5]
   details.case_stage: [1, 5, 2]
   details.products: [1, 5]
+  details.setting: [3, 1, 4]
   figures.arrested: [3, 1, 5, 2]
   figures.charged: [3, 1, 5, 2]
 status: reported

@@ -19,10 +19,15 @@ figures:
   value: { amount: 257200000, currency: INR }
 details:
   activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [forest]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
   figures.plants_destroyed: [1, 2]
 media:
   - kind: photo

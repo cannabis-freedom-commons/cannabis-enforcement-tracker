@@ -14,10 +14,12 @@ summary: >-
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 media:
   - kind: photo

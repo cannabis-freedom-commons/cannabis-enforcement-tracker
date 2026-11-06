@@ -16,12 +16,14 @@ summary: >-
   count and no confirmed arrests were published.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower}, {product: plants}]
   setting: [vehicle, home, building]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

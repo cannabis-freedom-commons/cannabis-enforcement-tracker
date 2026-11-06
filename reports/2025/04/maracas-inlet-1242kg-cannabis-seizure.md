@@ -19,11 +19,13 @@ details:
   activity: [trafficking]
   agency_types: [coast-guard, police]
   case_stage: investigation
+  products: [{product: flower, kg: 1242.9}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   details.setting: [2]
   figures.kg_seized: [2]
   figures.value: [2]

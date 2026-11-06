@@ -15,10 +15,12 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 315}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [2, 3]
+  details.products: [1, 3, 2]
   details.setting: [1, 2]
   figures.kg_seized: [3, 1]
 status: verified

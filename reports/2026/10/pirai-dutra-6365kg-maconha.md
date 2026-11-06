@@ -26,10 +26,14 @@ details:
   activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: convicted
+  products: [{product: flower, kg: 63.65}]
 data_sources:
   details.activity: [2, 1, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 7]
   details.agency_types: [1, 3, 4, 5, 7]
+  details.case_stage: [3, 7, 2, 1, 4, 5]
+  details.products: [3, 5, 1, 4, 6, 7]
   figures.arrested: [1, 4, 5, 3, 6]
   figures.kg_seized: [1, 4, 5, 6, 7, 3]
 status: reported

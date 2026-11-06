@@ -16,11 +16,13 @@ figures:
   plants_destroyed: 34996
   value: { amount: 87490000, currency: USD }
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   products: [{product: flower}]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

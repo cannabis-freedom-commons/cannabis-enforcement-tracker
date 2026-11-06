@@ -32,12 +32,14 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 2]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 3, 4, 5, 6, 2]
   details.products: [1, 3, 4, 5, 6]
+  details.setting: [2, 6, 1, 5, 3, 4]
   figures.arrested: [1, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

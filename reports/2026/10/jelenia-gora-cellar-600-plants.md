@@ -21,17 +21,20 @@ figures:
   kg_seized: 3.5
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: plants}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.charged: [1]
   figures.kg_seized: [1]
 status: verified

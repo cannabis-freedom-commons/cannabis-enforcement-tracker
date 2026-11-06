@@ -13,9 +13,11 @@ summary: >-
   Abdullah Al Mahmud, 43, editor of Muktomon, was stabbed in Uttara Sector 8 on 30 October 2026 after he and local people seized cannabis, 2,100 taka and a knife from a seller who then fled. Uttara East and Dakshinkhan police took the cannabis and cash into custody; no arrest was reported.
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: reported
 created_by_model: xai/grok-4.7#low

@@ -13,8 +13,10 @@ summary: >-
   a fine of over €23,000. He said he grew it for himself.
 created_by_model: anthropic/opus-5.5
 details:
+  products: [{product: flower}]
   setting: [home]
 data_sources:
+  details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 2, 3, 4, 5]
 status: verified
 cfi_id: malta-holmes-sentence-2011

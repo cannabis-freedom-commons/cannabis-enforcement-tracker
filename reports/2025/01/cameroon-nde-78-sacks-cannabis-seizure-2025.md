@@ -14,9 +14,11 @@ figures:
   kg_seized: 7800
 details:
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 7800}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [2, 1, 4, 3]
+  details.products: [2, 1, 4, 3]
   details.setting: [2, 1]
   figures.kg_seized: [2, 4]
 media:

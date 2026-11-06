@@ -32,14 +32,17 @@ details:
   activity: [cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products: [{product: plants, plants: 180000}]
   setting: [field, forest]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
+  figures.hectares: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [tripura, sonamura, kamalnagar]

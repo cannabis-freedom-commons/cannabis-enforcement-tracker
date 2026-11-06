@@ -17,13 +17,16 @@ figures:
   kg_seized: 1.112
 details:
   agency_types: [police]
+  case_stage: convicted
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 3, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

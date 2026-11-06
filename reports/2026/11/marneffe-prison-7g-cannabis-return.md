@@ -13,8 +13,10 @@ summary: >-
 figures:
   kg_seized: 0.007
 details:
+  products: [{product: flower, kg: 0.007}]
   setting: [prison]
 data_sources:
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

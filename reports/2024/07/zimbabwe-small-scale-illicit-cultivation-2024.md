@@ -15,9 +15,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [cultivation]
+  products: [{product: flower}]
   route: {from: [mw, za, mz], to: [zw]}
 data_sources:
   details.activity: [1]
+  details.products: [1]
   details.route: [1]
 status: verified
 cfi_id: zimbabwe-small-scale-illicit-cultivation-2024

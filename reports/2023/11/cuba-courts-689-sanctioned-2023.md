@@ -13,9 +13,13 @@ summary: >-
   of marihuana growing.
 created_by_model: unknown
 details:
+  case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

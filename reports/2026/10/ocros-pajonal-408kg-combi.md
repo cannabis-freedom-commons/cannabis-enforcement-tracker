@@ -19,10 +19,12 @@ created_by_model: xai/grok-4.7
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 408}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

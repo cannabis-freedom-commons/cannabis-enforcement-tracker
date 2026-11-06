@@ -19,10 +19,17 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.hectares: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [morogoro, mvomero, dcea, cannabis-eradication]

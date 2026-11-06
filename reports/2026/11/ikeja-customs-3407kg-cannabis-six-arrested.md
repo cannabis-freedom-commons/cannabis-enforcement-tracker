@@ -30,12 +30,14 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 3407.83}]
   setting: [mail]
 data_sources:
   details.activity: [2, 1, 5, 3, 4]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
   details.case_stage: [1, 3, 4, 5, 2]
+  details.products: [2, 3, 4, 5, 1]
   details.setting: [1, 3, 4, 5, 2]
   figures.arrested: [1, 3]
   figures.kg_seized: [1, 3, 4, 5, 2]

@@ -18,14 +18,17 @@ figures:
   kg_seized: 6.80389
 details:
   activity: [trafficking, possession]
+  agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 6.80389}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
+  details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2]
+  figures.arrested: [2]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

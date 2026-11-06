@@ -19,10 +19,12 @@ details:
   activity: [trafficking]
   agency_types: [police, court]
   case_stage: charged
+  products: [{product: flower, kg: 37.228}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

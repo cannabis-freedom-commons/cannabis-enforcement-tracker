@@ -24,12 +24,14 @@ details:
   activity: [possession]
   agency_types: [prosecutor, court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [fine]
   setting: [prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [2, 1, 3]
+  details.products: [1, 2, 3, 4]
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1]
   figures.fine: [2, 1]

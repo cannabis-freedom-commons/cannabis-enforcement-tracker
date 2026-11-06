@@ -20,11 +20,13 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: charged
+  products: [{product: flower, kg: 0.04}]
   setting: [home, building]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [3, 1, 4, 5, 6]
   details.setting: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

@@ -23,10 +23,12 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 28669}]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   figures.arrested: [1]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]

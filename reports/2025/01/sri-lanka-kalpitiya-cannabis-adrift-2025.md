@@ -20,11 +20,13 @@ details:
   activity: [smuggling]
   agency_types: [military]
   case_stage: investigation
+  products: [{product: flower, kg: 90.045}]
   setting: [mail]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.value: [2]
 status: reported

@@ -23,12 +23,14 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 224}]
   route: {from: [re], to: [mu]}
+  setting: [vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   details.route: [2, 1, 3]
+  details.setting: [1, 2]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

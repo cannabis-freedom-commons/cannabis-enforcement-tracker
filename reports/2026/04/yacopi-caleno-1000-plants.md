@@ -24,11 +24,13 @@ details:
   agency_types: [military]
   case_stage: investigation
   products: [{product: flower, kg: 22}, {product: plants, plants: 1000}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2, 1]
+  details.setting: [2, 1]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]
 status: verified

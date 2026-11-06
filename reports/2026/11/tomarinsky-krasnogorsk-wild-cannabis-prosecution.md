@@ -16,6 +16,7 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [forest]
   environment: [wild]
@@ -23,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [2, 3, 1, 4]
   details.environment: [1, 2]
+  details.products: [3, 2, 1, 4]
   details.sentence_types: [2, 3, 1, 4]
   details.setting: [1, 4]
 status: verified

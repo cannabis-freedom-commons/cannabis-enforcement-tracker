@@ -21,10 +21,12 @@ figures:
 details:
   activity: [possession]
   case_stage: charged
+  products: [{product: flower, kg: 0.462}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

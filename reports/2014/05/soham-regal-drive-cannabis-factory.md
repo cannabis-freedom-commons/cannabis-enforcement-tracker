@@ -20,10 +20,13 @@ figures:
   value: { amount: 6000000, currency: GBP }
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [home, building]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
   figures.plants_destroyed: [1, 2]
   figures.value: [2, 1]
 status: verified

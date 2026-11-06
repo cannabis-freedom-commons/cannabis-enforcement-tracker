@@ -18,11 +18,13 @@ details:
   agencies: [tr-egm]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 59.1}]
   setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

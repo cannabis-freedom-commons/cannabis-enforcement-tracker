@@ -16,10 +16,12 @@ figures:
   kg_seized: 834.61
   value: { amount: 2000000, currency: USD }
 details:
+  agency_types: [police]
   products: [{product: flower, kg: 834.61}]
   route: {from: [mx], to: [us/va]}
   setting: [vehicle, street]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [1]
   details.setting: [1, 2]

@@ -21,12 +21,14 @@ details:
   activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: hashish, kg: 0.004}, {product: flower}]
   sentence_types: [prison, deportation]
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
+  details.products: [1, 3, 2]
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]

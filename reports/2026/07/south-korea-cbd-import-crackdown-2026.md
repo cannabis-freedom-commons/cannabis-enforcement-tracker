@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [customs]
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: south-korea-cbd-import-crackdown-2026
 sources:

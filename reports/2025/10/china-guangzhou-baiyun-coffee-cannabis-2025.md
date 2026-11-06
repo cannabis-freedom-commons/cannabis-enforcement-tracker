@@ -20,11 +20,13 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
   case_stage: investigation
+  products: [{product: flower, kg: 3.97522}]
   setting: [airport]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: reported

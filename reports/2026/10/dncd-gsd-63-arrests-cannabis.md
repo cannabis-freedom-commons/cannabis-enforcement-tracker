@@ -18,9 +18,11 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 7.748}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
 media:

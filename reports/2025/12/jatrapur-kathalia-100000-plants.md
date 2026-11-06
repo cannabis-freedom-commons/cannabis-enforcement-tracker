@@ -16,10 +16,12 @@ figures:
   plants_destroyed: 100000
 details:
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: plants, plants: 100000}]
   setting: [forest]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

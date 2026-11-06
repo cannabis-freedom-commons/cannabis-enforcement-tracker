@@ -43,15 +43,18 @@ media:
     caption: Video report on the convicted felon drug trafficking charges in Fort Pierce
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   case_stage: charged
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
   figures.charged: [2, 1]
   figures.kg_seized: [2, 1]
 status: verified

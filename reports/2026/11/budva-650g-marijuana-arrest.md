@@ -17,9 +17,11 @@ figures:
   kg_seized: 0.65
 details:
   agency_types: [police, prosecutor]
+  case_stage: charged
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3]
 media:

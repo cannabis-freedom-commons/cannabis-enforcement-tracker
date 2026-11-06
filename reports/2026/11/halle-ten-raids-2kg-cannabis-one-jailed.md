@@ -22,6 +22,7 @@ details:
   case_stage: investigation
   period: {start: 2026-11-04, end: 2026-11-05}
   date_precision: exact
+  products: [{product: flower, kg: 2}]
   region: Saxony-Anhalt
   setting: [prison]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [2]
   details.period: [1]
+  details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [2]
   figures.kg_seized: [1]

@@ -35,6 +35,7 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 47730}, {product: seeds}]
   route: {from: [py], to: [br]}
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -42,6 +43,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1]
+  details.setting: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

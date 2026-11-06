@@ -18,8 +18,12 @@ figures:
   kg_seized: 300000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  case_stage: investigation
+  products: [{product: flower, kg: 300000}]
   setting: [field, forest]
 data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [1, 2]

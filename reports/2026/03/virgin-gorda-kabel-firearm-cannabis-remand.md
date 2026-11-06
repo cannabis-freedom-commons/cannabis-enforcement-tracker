@@ -25,11 +25,13 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
+  products: [{product: flower, kg: 0.031}]
   setting: [prison]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]

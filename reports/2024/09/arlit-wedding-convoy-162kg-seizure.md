@@ -15,9 +15,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  products: [{product: flower, kg: 162}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

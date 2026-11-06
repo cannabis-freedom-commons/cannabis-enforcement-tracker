@@ -23,6 +23,7 @@ details:
   agencies: [gb-border-force]
   agency_types: [customs]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.prison: [1]

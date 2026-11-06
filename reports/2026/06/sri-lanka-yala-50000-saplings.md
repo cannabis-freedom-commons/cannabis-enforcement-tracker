@@ -20,10 +20,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [coast-guard, police]
+  products: [{product: flower}]
   setting: [forest]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]

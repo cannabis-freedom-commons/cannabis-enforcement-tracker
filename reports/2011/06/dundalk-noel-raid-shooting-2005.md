@@ -21,15 +21,18 @@ figures:
   charged: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: charged
   products: [{product: flower}]
   setting: [home]
 data_sources:
+  details.activity: [5, 4]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [4]
   details.products: [4]
   details.setting: [4, 5, 1, 2]
+  figures.charged: [5, 4]
 status: disputed
 tags:
   - no-knock-raid

@@ -19,15 +19,19 @@ figures:
     amount: 2100000
     currency: GBP
 details:
+  activity: [trafficking]
   agencies: [gb-nca]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [4, 1, 5]
   details.agencies: [2, 3, 4]
   details.agency_types: [3, 2, 4, 1, 5]
   details.case_stage: [3]
+  details.products: [2, 4]
   details.sentence_types: [3]
   details.setting: [3, 2, 4, 1]
   figures.arrested: [1]

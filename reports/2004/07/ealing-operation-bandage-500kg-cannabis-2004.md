@@ -19,11 +19,13 @@ figures:
   arrested: 2
   charged: 2
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: charged
   products: [{product: flower, kg: 500}]
   setting: [home, street]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1]

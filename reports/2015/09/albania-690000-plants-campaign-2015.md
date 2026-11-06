@@ -15,11 +15,15 @@ figures:
   hectares: 44
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [mail]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

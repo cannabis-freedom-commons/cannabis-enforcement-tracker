@@ -13,8 +13,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking, cultivation]
+  case_stage: convicted
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: lebanon-zeaiter-arrest-2025
 tags:

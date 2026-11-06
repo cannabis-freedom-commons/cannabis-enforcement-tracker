@@ -21,10 +21,15 @@ details:
   activity: [smuggling]
   agency_types: [court]
   case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.charged: [1]
   figures.value: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

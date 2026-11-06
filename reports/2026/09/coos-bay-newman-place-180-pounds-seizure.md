@@ -19,11 +19,13 @@ figures:
     currency: USD
 details:
   activity: [possession]
+  agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 81.65}]
   setting: [street]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]

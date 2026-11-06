@@ -12,8 +12,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: dominica-drug-burn-2025
 sources:

@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [customs, police]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: tunisia-drug-trafficking-cases-2025
 sources:

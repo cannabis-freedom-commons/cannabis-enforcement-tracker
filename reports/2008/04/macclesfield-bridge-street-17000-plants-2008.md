@@ -18,10 +18,12 @@ figures:
 details:
   agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}]
   setting: [home, building]
 data_sources:
   details.agency_types: [3, 2]
   details.environment: [3, 2]
+  details.products: [3, 2]
   details.setting: [3, 1, 2]
   figures.plants_destroyed: [3, 1, 2]
   figures.value: [3, 1, 2]

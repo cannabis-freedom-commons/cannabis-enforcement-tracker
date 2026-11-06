@@ -37,11 +37,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

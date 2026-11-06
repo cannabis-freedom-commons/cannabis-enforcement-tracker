@@ -23,10 +23,16 @@ details:
   agencies: [id-polri]
   agency_types: [police]
   activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [aceh-besar, lampanah, operasi-antik-seulawah, eradication]
 sources:

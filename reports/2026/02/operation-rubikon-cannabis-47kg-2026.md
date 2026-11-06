@@ -20,6 +20,7 @@ details:
   agencies: [int-europol]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 47}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [2, 1]
+  details.products: [2, 1, 3]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]

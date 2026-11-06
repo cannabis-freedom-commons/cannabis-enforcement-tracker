@@ -20,11 +20,14 @@ details:
   agencies: [in-excise]
   agency_types: [regulator]
   products: [{product: flower, kg: 0.872}]
+  setting: [shop]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

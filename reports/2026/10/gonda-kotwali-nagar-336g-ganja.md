@@ -23,10 +23,12 @@ media:
     caption: A uniformed officer stands beside a person whose face is blurred, the photograph published with the Gonda ganja arrest. Credit not stated.
 details:
   agency_types: [police]
+  case_stage: convicted
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2, 3]

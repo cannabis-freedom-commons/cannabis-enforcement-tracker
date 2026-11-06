@@ -15,12 +15,16 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [building]
 data_sources:
+  details.activity: [1, 5, 6, 4, 7, 2]
   details.agency_types: [1, 5, 6, 4, 7, 2]
   details.case_stage: [1, 5, 6, 4, 7, 2]
+  details.products: [1, 5, 6, 4, 7, 2]
   details.setting: [1, 6, 2, 4, 7]
   figures.arrested: [1, 5, 6, 4, 7, 2]
 status: reported

@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: investigation
+  products: [{product: flower}]
   setting: [airport]
 data_sources:
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: thailand-smuggling-warning-2025

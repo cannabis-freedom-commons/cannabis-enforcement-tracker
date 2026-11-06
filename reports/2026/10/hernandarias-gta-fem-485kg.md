@@ -29,10 +29,12 @@ details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 48.5}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified

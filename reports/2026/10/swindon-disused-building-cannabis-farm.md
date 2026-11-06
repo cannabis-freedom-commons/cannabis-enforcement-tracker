@@ -15,10 +15,12 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.swindonadvertiser.co.uk/news/26687108.cannabis-farm-found-building-police-hunt-gardener/

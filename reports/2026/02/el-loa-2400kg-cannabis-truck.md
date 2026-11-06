@@ -22,6 +22,7 @@ details:
   agencies: [cl-pdi]
   agency_types: [police]
   activity: [trafficking]
+  products: [{product: flower, kg: 2400}]
   setting: [vehicle]
   charges: [drug trafficking]
   case_stage: charged
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

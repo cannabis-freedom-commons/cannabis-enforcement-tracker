@@ -23,6 +23,7 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 978.8}]
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

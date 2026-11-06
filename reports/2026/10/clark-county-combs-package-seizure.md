@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1, 5, 3]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [2, 3, 4, 1, 5]
+  figures.arrested: [2, 3, 4, 1, 5]
   figures.charged: [1, 5, 3]
   figures.kg_seized: [1, 3, 5]
   figures.plants_destroyed: [1, 3, 5]

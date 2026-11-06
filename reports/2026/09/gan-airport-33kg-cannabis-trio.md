@@ -21,11 +21,13 @@ figures:
 details:
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 3.345}]
   setting: [airport]
   route: {from: [in], to: [mv]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

@@ -53,10 +53,14 @@ details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 20}]
+  setting: [vehicle, home]
 data_sources:
   details.agencies: [3, 4, 6]
   details.agency_types: [3, 4, 6]
   details.case_stage: [3, 5, 4]
+  details.products: [3, 5, 4, 2, 6, 1]
+  details.setting: [1, 4, 6, 2, 3, 5]
   figures.kg_seized: [2, 6, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

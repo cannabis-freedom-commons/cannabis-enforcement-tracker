@@ -16,10 +16,12 @@ details:
   activity: [trafficking]
   agency_types: [prosecutor]
   case_stage: sentenced
+  products: [{product: flower, kg: 20.6984}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [death-penalty, trafficking]
 open_questions:

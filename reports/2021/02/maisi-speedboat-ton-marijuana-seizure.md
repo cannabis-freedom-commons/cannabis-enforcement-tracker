@@ -19,11 +19,13 @@ details:
   agency_types: [border-guard]
   case_stage: investigation
   products: [{product: flower, kg: 1000}]
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://diariodecuba.com/cuba/1613326252_28833.html

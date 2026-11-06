@@ -24,11 +24,13 @@ details:
   activity: [smuggling]
   agencies: [gb-border-force]
   agency_types: [customs]
+  products: [{product: flower, kg: 12000}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

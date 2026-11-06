@@ -24,12 +24,14 @@ details:
   agencies: [fr-douane]
   agency_types: [customs]
   case_stage: sentenced
+  products: [{product: flower, kg: 10000}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [3, 1, 2]
+  details.products: [1, 2, 3]
   details.sentence_types: [3, 1, 2]
   details.setting: [3, 1, 2]
   figures.kg_seized: [2, 3, 1]

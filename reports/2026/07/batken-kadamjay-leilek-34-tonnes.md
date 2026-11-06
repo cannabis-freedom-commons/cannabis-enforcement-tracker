@@ -18,12 +18,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  products: [{product: flower, kg: 3400}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [1, 2]

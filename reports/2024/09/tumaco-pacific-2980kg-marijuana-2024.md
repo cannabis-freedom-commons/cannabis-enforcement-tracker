@@ -18,10 +18,12 @@ details:
   activity: [trafficking]
   agency_types: [coast-guard, military]
   products: [{product: flower, kg: 2980}]
+  setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 media:
   - kind: photo

@@ -16,10 +16,12 @@ created_by_model: unknown
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [field, prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: sao-tome-cannabis-crop-raids-2024

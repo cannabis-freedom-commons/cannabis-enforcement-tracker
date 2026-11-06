@@ -16,9 +16,11 @@ figures:
 details:
   activity: [cultivation, possession]
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.activity: [2, 1, 4, 3]
   details.agency_types: [2, 1, 3, 4]
+  details.products: [2, 1, 3, 4]
   figures.charged: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

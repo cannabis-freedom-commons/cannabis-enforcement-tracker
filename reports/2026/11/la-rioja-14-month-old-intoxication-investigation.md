@@ -14,10 +14,12 @@ details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 4, 7, 5, 2, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e82f330ad9ee1542d4d82f7913c09818

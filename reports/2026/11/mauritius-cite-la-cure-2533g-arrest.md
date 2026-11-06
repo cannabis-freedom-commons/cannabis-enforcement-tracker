@@ -22,11 +22,13 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.02533}]
   setting: [mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

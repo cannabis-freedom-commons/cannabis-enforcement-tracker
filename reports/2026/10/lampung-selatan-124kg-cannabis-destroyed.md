@@ -31,12 +31,14 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [3, 1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.setting: [1, 3]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

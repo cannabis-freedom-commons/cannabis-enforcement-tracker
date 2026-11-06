@@ -18,6 +18,7 @@ figures:
 details:
   activity: [possession]
   agency_types: [police, court]
+  products: [{product: flower, kg: 0.3}]
   sentence_types: [prison]
   setting: [home]
   environment: [wild]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]

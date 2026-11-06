@@ -19,11 +19,13 @@ details:
   agency_types: [customs, coast-guard, military]
   case_stage: investigation
   products: [{product: flower, kg: 1301.5}]
+  setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 media:
   - kind: photo

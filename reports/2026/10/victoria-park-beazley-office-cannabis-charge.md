@@ -19,11 +19,13 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
+  products: [{product: flower}]
   setting: [port]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
+  details.products: [2, 1, 3]
   details.setting: [2]
   figures.arrested: [2, 1, 3]
   figures.charged: [2]

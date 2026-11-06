@@ -48,6 +48,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.sentence_types: [2]
   details.setting: [2]
+  figures.charged: [2]
   figures.value: [1]
 status: verified
 tags: [medical-marijuana, dismissal, detroit, license-dispute]

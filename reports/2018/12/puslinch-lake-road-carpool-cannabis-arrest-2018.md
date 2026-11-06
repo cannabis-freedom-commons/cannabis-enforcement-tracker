@@ -19,11 +19,13 @@ details:
   activity: [trafficking, possession]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: charged
   products: [{product: flower, kg: 0.03}]
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   figures.arrested: [2]
   figures.kg_seized: [2, 1, 3]

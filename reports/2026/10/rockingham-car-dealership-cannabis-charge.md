@@ -16,9 +16,13 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 4, 2]
   details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [1, 4, 2, 3]
+  details.products: [1, 4, 2]
   figures.charged: [1, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

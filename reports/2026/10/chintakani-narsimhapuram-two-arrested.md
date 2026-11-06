@@ -16,9 +16,11 @@ figures:
 details:
   activity: [sale]
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 3, 2]
 media:
   - kind: photo
     url: https://prabhanews.com/ganja-stir-two-youths-arrested/

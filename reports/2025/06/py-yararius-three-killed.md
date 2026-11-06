@@ -31,12 +31,14 @@ details:
   case_stage: investigation
   force: shots-fired
   products: [{product: hashish, kg: 887.2}, {product: flower}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.setting: [2, 3, 4, 5]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [codi, ftc, yararius, el-macho, arsenal, parana-river]

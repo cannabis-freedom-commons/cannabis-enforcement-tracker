@@ -19,11 +19,13 @@ figures:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 1443.5}]
   route: {from: [th], to: [ng]}
   setting: [mail]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified

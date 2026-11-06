@@ -18,11 +18,13 @@ figures:
   kg_seized: 0.516
 details:
   activity: [possession]
+  agency_types: [anti-narcotics]
   case_stage: charged
   products: [{product: flower, kg: 0.516}]
   setting: [vehicle, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]

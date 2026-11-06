@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.plants_destroyed: [1]
 status: reported
 created_by_model: cursor/composer-2.5

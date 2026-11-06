@@ -18,10 +18,12 @@ details:
   activity: [trafficking]
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 6.5}]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [2, 1]
   figures.arrested: [1, 2]
   figures.kg_seized: [2, 1]
 media:

@@ -20,12 +20,15 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.7}]
   setting: [home]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [2, 3, 1, 4]
   details.case_stage: [3, 2, 1, 4]
+  details.products: [2, 3, 1, 4]
   details.setting: [2]
+  figures.charged: [2, 3]
   figures.kg_seized: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

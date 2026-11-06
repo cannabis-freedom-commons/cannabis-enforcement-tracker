@@ -23,6 +23,7 @@ details:
   activity: [possession, sale]
   charges: [possession of cannabis, being concerned in the supply of cannabis]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.0013}]
   sentence_types: [prison]
   date_precision: exact
   setting: [home, mail, prison]
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1, 2]
   figures.arrested: [1]

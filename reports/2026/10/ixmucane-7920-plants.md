@@ -16,10 +16,12 @@ figures:
   hectares: 0.066
   value: { amount: 3960000, currency: GTQ }
 details:
+  activity: [cultivation]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 7920}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]

@@ -21,10 +21,12 @@ media:
 details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 45.86}]
   setting: [airport]
 data_sources:
   details.agency_types: [3, 5, 2, 4, 1]
   details.case_stage: [2, 4, 5, 3]
+  details.products: [3, 5, 2, 4]
   details.setting: [3, 5]
   figures.kg_seized: [2, 4, 5, 3]
 status: verified

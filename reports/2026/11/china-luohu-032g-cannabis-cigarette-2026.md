@@ -15,9 +15,13 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  products: [{product: flower, kg: 0.00032}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e110b476f2b247ec796c26b55e4e1da9

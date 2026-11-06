@@ -18,12 +18,14 @@ figures:
     amount: 500000000
     currency: LKR
 details:
+  activity: [possession]
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 6, 4, 5]
   details.case_stage: [1, 2, 3, 6, 4]
   details.products: [1, 2, 3, 6, 4]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2, 3, 6, 4]
 status: reported
 tags: [dpi, udic, firearm]

@@ -23,12 +23,14 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 14.5}]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 3, 4, 5, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 3, 4, 5, 2]
+  details.products: [1, 3, 4, 5, 2]
   details.setting: [2, 3, 4, 5, 1]
   figures.kg_seized: [2, 3, 4]
   figures.prison: [1, 3, 4, 5, 2]

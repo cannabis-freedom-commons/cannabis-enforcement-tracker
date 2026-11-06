@@ -13,10 +13,12 @@ summary: >-
 figures:
   kg_seized: 0.027
 details:
+  activity: [possession]
   agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [2]
   figures.kg_seized: [1, 2]

@@ -28,10 +28,12 @@ details:
   activity: [smuggling]
   agency_types: [customs]
   case_stage: investigation
+  products: [{product: flower, kg: 42.7}]
 data_sources:
   details.activity: [2]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 89b5c3fb5941cd02063ed53838543c4d

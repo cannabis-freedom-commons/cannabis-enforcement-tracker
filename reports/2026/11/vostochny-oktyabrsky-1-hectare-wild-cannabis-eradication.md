@@ -13,15 +13,23 @@ summary: >-
 figures:
   hectares: 1
 details:
+  activity: [cultivation]
   agencies: [ru-mvd, military security bodies]
   agency_types: [police, military]
+  case_stage: investigation
   environment: [wild]
   date_precision: publication
+  products: [{product: flower}]
   region: Amur Oblast
+  setting: [field]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1, 2]
   figures.hectares: [1]
 media:
   - kind: photo

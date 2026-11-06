@@ -24,13 +24,17 @@ figures:
     amount: 405000
     currency: INR
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 40.545}]
   sentence_types: [fine]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [2, 5, 1, 6, 3]
   details.agency_types: [3, 5, 1, 6, 2, 4]
   details.case_stage: [3, 5, 1, 6]
+  details.products: [2, 5, 1, 6, 3, 4]
   details.sentence_types: [3, 5, 1, 6]
   details.setting: [3, 5, 1, 6, 2, 4]
   figures.arrested: [2, 5, 1, 6]

@@ -17,10 +17,12 @@ figures:
   plants_destroyed: 575
   kg_seized: 10
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: charged
   products: [{product: plants, plants: 575}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

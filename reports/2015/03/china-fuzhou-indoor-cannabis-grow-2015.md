@@ -30,12 +30,14 @@ details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 4.5128}]
   setting: [mail]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]

@@ -19,12 +19,14 @@ figures:
     amount: 9384.8
     currency: MXN
 details:
+  activity: [possession]
   agency_types: [court]
   case_stage: sentenced
   products: [{product: flower, kg: 1.612}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

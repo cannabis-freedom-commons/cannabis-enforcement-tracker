@@ -18,6 +18,7 @@ summary: >-
 figures:
   deaths: 2
 details:
+  activity: [cultivation]
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: charged
@@ -25,6 +26,7 @@ details:
   products: [{product: flower}]
   setting: [home]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3]

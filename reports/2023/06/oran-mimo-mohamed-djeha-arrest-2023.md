@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   case_stage: investigation
   date_precision: exact
+  products: [{product: flower}]
   region: Oran
   sentence_types: [prison]
   setting: [prison]
@@ -26,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1, 3, 2]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1]

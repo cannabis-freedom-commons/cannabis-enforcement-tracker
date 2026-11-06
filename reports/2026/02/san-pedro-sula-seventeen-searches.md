@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   figures.arrested: [1, 2]
+  figures.charged: [1]
 status: verified
 tags: [san-pedro-sula, cortes]
 open_questions:

@@ -21,12 +21,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]

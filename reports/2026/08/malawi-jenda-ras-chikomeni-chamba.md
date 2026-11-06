@@ -20,10 +20,13 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
+  products: [{product: flower, kg: 19.2}]
 data_sources:
   details.activity: [3, 1, 2, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 1, 2, 4]
+  details.products: [1, 2, 3, 4]
+  figures.charged: [3, 1, 2, 4]
   figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo

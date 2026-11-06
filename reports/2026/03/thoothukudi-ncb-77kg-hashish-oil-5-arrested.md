@@ -44,6 +44,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [3, 2, 1]
   figures.arrested: [2]
+  figures.value: [3, 2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cab9945b2427da6ee2516864786de1be

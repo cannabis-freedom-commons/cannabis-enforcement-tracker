@@ -29,11 +29,13 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs, border-guard, police]
+  case_stage: convicted
   products: [{product: flower, kg: 25.4}]
   setting: [airport]
 data_sources:
   details.activity: [3, 6, 13, 14, 12, 8]
   details.agency_types: [1, 2, 3, 4, 6, 7]
+  details.case_stage: [1, 2, 3, 5, 6, 7]
   details.products: [1, 2, 3, 5, 6, 7]
   details.setting: [1]
   figures.kg_seized: [1, 2, 3, 5, 6, 7]

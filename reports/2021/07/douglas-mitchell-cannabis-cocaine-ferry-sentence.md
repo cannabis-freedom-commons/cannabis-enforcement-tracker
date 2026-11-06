@@ -22,6 +22,7 @@ details:
   agencies: [Isle of Man Constabulary]
   agency_types: [police]
   activity: [smuggling, possession]
+  products: [{product: flower}]
   setting: [port, vehicle]
   charges: [importing drugs, possession of drugs]
   case_stage: sentenced
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.force: [2]
+  details.products: [2, 1]
   details.sentence_types: [1]
   details.setting: [2]
   figures.arrested: [2]

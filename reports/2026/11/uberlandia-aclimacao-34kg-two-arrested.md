@@ -25,12 +25,14 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 34.59}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [3, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 3, 1]
+  details.products: [2, 3, 1]
   details.setting: [2, 3]
   figures.arrested: [2, 3]
   figures.kg_seized: [2, 3, 1]

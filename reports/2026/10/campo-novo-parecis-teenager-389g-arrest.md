@@ -18,11 +18,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: convicted
   products: [{product: flower, kg: 0.389}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
 media:

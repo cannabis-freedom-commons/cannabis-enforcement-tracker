@@ -18,11 +18,13 @@ details:
   activity: [possession]
   agency_types: [customs, border-guard, police]
   case_stage: investigation
+  products: [{product: flower, kg: 55}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.products: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]
   figures.kg_seized: [2, 1]

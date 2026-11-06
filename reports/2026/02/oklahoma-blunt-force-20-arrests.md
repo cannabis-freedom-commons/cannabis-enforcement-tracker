@@ -20,12 +20,14 @@ figures:
   charged: 19
 created_by_model: cursor/composer-2.5
 details:
+  activity: [use]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
   products: [{product: flower}]
   setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

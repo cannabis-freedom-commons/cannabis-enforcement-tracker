@@ -16,9 +16,11 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4133e0d69f0b879172c512d492d0ee97

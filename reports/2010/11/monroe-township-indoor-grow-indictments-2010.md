@@ -34,6 +34,7 @@ data_sources:
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1, 2]

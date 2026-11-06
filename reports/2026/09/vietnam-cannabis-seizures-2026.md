@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: vietnam-cannabis-seizures-2026
 sources:

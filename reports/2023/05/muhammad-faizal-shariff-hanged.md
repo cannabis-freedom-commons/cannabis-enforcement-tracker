@@ -22,12 +22,14 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: executed
+  products: [{product: flower, kg: 1.56297}]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [cnb, mandatory-death-penalty, pasir-ris]

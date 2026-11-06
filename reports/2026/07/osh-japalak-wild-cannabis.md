@@ -14,10 +14,14 @@ summary: >-
   area was given.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 tags: [osh, japalak, kyzyl-kyshtak, manas-ata, wild-cannabis]

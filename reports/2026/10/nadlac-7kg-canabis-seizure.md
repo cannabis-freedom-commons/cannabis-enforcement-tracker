@@ -22,10 +22,12 @@ figures:
 details:
   activity: [trafficking, sale]
   agency_types: [border-guard, police, prosecutor]
+  products: [{product: flower, kg: 7}]
   setting: [border]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

@@ -28,10 +28,12 @@ media:
     caption: Additional photo of the Naylor Avenue weed bust in Taft, as published with the report
 details:
   activity: [cultivation]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 204}]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2]
   details.products: [2, 1, 3]
   figures.arrested: [2]

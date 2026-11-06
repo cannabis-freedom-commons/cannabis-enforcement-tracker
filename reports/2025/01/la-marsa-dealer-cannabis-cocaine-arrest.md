@@ -17,11 +17,13 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [3, 2]
+  details.products: [3, 2, 1]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 2]
 media:

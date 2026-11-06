@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [2]
   figures.arrested: [2]
+  figures.deaths: [2, 1]
 status: verified
 tags: [raid-death, long-island]
 open_questions:

@@ -23,10 +23,12 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 97.5}]
+  setting: [shop]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 tags: [dea, operation-vape-trail]

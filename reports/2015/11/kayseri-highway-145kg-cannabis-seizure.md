@@ -19,11 +19,13 @@ details:
   activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 145.812}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
+  details.products: [2, 1, 3]
   details.setting: [1, 3]
   figures.arrested: [1, 3, 2]
 status: verified

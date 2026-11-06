@@ -12,10 +12,12 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [suspended]
   setting: [prison]
 data_sources:
   details.case_stage: [1]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified

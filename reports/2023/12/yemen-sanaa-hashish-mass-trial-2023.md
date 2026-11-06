@@ -13,11 +13,15 @@ summary: >-
   years for possessing a block of hashish.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [court]
+  case_stage: sentenced
   products: [{product: hashish}]
   sentence_types: [death]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]
 status: verified

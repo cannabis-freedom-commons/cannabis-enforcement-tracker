@@ -19,10 +19,13 @@ details:
   activity: [possession]
   agency_types: [prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 0.0353}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 2, 4]
+  details.products: [1, 3, 4, 2]
+  figures.arrested: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1d5bf7aa6d6964b2356620fccf3f252d

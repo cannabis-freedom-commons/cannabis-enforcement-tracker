@@ -23,10 +23,12 @@ created_by_model: unknown
 details:
   activity: [smuggling]
   agency_types: [police]
+  products: [{product: flower, kg: 31.275}]
   setting: [vehicle, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

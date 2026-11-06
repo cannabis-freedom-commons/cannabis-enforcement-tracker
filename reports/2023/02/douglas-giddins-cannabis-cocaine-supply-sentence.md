@@ -20,6 +20,7 @@ figures:
 details:
   agency_types: [police]
   activity: [sale]
+  products: [{product: flower}]
   setting: [street, home]
   charges: [being concerned in the supply of cannabis]
   case_stage: sentenced
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
   figures.charged: [1]

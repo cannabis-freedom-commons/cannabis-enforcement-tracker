@@ -27,12 +27,14 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 12.4}]
   setting: [field, forest]
 data_sources:
   details.activity: [2, 1, 4, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
+  details.products: [1, 2, 3, 4]
   details.setting: [2, 1, 4, 3]
   figures.hectares: [1, 3]
   figures.kg_seized: [1, 3]

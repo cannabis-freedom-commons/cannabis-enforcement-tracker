@@ -27,12 +27,15 @@ details:
   case_stage: charged
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
   details.case_stage: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [2, 1, 3]
   figures.arrested: [2, 3]
+  figures.charged: [2, 3, 1]
   figures.kg_seized: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

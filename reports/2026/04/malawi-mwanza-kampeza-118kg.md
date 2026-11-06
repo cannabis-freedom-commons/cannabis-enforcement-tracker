@@ -21,12 +21,14 @@ figures:
   prison: 6 years' imprisonment with hard labour
 created_by_model: openai/gpt-6-luna#max
 details:
+  activity: [possession]
   agency_types: [prosecutor, court]
   case_stage: sentenced
   products: [{product: flower, kg: 118}]
   sentence_types: [prison]
   setting: [border]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

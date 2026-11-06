@@ -20,9 +20,11 @@ figures:
     currency: BDT
 details:
   agency_types: [police]
+  case_stage: charged
   setting: [prison]
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.setting: [1, 2]
   figures.arrested: [2, 1]
   figures.fine: [2, 1]

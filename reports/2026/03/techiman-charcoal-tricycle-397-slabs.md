@@ -19,9 +19,11 @@ figures:
   arrested: 1
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

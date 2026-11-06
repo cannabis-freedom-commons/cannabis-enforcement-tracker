@@ -17,12 +17,14 @@ figures:
   kg_seized: 314.57
 details:
   activity: [trafficking, cultivation, sale]
+  agency_types: [police]
   case_stage: investigation
   environment: [indoor, outdoor]
   products: [{product: flower, kg: 314.57}, {product: plants, plants: 3944}]
   setting: [home]
 data_sources:
   details.activity: [2, 3, 1]
+  details.agency_types: [2, 3, 1]
   details.case_stage: [2]
   details.environment: [1, 2, 3]
   details.products: [2, 1, 3]

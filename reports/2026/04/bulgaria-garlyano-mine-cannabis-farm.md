@@ -29,6 +29,7 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   environment: [greenhouse]
+  products: [{product: flower, kg: 70}]
   route: {from: [bg], to: [tr]}
   setting: [home]
 data_sources:
@@ -36,6 +37,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 3]
   details.environment: [1, 2, 3]
+  details.products: [1, 2, 3, 4, 5]
   details.route: [1]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3, 4, 5]

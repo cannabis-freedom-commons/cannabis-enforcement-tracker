@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 4, 5, 7]
   details.products: [1, 4, 5, 7, 3]
   details.setting: [1, 4, 5, 7, 3, 2]
+  figures.charged: [1, 4, 5, 7, 3, 6]
   figures.deaths: [1, 4, 5, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -20,6 +20,7 @@ figures:
   kg_seized: 6320
 details:
   case_stage: investigation
+  products: [{product: flower, kg: 6320}]
   route: {from: [br], to: [br], crossing: 'Ponta Porã to Santos'}
   agencies: [br-pf, br-prf]
   agency_types: [police]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

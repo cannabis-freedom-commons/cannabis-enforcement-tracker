@@ -13,8 +13,10 @@ summary: >-
 created_by_model: openai/gpt-6
 details:
   activity: [cultivation]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4, 5]
 status: verified
 cfi_id: serbia-large-personal-stock-sentence-2024
 tags:

@@ -20,14 +20,17 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking, cultivation]
+  agency_types: [police]
   environment: [greenhouse]
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [1, 2]
 status: verified
 tags: [mendocino, covelo, shooting, dta]
 open_questions:

@@ -23,9 +23,11 @@ figures:
     currency: GBP
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [building]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]

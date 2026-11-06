@@ -21,10 +21,12 @@ details:
   agency_types: [coast-guard, military, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 1727.4}]
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 5]
   details.case_stage: [1, 2, 5]
   details.products: [2, 5, 1, 3, 4]
+  details.setting: [1, 2, 5, 3, 4]
   figures.arrested: [1, 2, 5]
   figures.kg_seized: [3, 4, 5]
 status: verified

@@ -15,8 +15,10 @@ summary: >-
   Biakato, along with high-strength alcohol and expired goods, at a public ceremony at the
   local stadium on 7 October 2026; no sellers were named or arrested in the reports.
 details:
+  case_stage: investigation
   setting: [home]
 data_sources:
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

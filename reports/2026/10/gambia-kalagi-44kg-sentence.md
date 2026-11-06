@@ -20,11 +20,15 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [military, anti-narcotics, court]
+  case_stage: convicted
+  products: [{product: flower, kg: 44.402}]
   sentence_types: [fine]
   setting: [border, vehicle, prison]
 data_sources:
   details.activity: [3, 1, 2]
   details.agency_types: [3, 1, 2]
+  details.case_stage: [1, 2]
+  details.products: [3, 1, 2]
   details.sentence_types: [1, 2]
   details.setting: [3, 1, 2]
 status: verified

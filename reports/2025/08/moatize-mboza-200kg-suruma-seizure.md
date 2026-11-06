@@ -19,9 +19,11 @@ figures:
     currency: MZN
 details:
   case_stage: investigation
+  products: [{product: flower, kg: 200}]
   setting: [border, vehicle, home]
 data_sources:
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2]
 status: verified

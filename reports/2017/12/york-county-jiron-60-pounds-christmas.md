@@ -25,10 +25,12 @@ media:
     caption: 'Bags of the roughly 60 pounds of marijuana found in the couple''s Toyota Tacoma on Dec. 19, 2017. Photo: York County Sheriff''s Department'
 details:
   activity: [possession]
+  agency_types: [police]
   products: [{product: flower, kg: 27.216}]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

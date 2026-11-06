@@ -22,10 +22,12 @@ details:
   activity: [cultivation]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 6000}]
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 1]
   details.case_stage: [1]
+  details.products: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 tags: [casamance, military, bignona]

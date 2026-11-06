@@ -21,9 +21,11 @@ figures:
     currency: TTD
 details:
   agency_types: [police]
+  products: [{product: flower, kg: 0.35}]
   setting: [home, street]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]

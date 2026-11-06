@@ -14,8 +14,10 @@ summary: >-
   continued, and…
 created_by_model: unknown
 details:
+  products: [{product: flower}]
   setting: [airport, border]
 data_sources:
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: singapore-changi-airport-cannabis-seizure-2026

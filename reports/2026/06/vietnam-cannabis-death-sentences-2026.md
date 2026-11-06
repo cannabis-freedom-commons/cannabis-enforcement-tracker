@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   agency_types: [court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [death]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
 status: verified
 cfi_id: vietnam-cannabis-death-sentences-2026

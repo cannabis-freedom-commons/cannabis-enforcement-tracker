@@ -16,9 +16,11 @@ summary: >-
 details:
   agency_types: [gendarmerie, military]
   case_stage: investigation
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.sunugox.info/iles-karones-des-champs-de-chanvre-indien-decouverts-lors-dune-operation-militaire/

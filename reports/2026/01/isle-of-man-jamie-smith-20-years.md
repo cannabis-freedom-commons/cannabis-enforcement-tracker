@@ -19,12 +19,14 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [3, 1, 2]
+  details.products: [1, 2, 3]
   details.sentence_types: [3, 1, 2]
   details.setting: [3, 1]
   figures.arrested: [1, 2]

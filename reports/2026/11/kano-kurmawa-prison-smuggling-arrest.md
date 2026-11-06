@@ -17,10 +17,12 @@ details:
   activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 5, 6, 7]
   details.agencies: [2, 4, 5, 6, 7]
   details.agency_types: [2, 4, 5, 6, 7]
+  details.products: [1, 5, 6, 7, 4]
   figures.arrested: [1, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

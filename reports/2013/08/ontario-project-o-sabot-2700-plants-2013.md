@@ -15,12 +15,14 @@ figures:
   plants_destroyed: 2700
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ca-rcmp, ca-opp]
   agency_types: [police]
   case_stage: investigation
   environment: [outdoor]
   products: [{product: plants, plants: 2700}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

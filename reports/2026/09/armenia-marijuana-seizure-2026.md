@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling]
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: armenia-marijuana-seizure-2026

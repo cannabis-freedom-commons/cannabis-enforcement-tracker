@@ -13,11 +13,13 @@ summary: >-
   street value at K20,000–30,000.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower}]
   setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

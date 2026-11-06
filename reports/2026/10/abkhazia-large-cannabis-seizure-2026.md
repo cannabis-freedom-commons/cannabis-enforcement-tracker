@@ -13,9 +13,11 @@ summary: >-
   possession tier of five to seven years applies.
 created_by_model: unknown
 details:
+  agency_types: [anti-narcotics]
   products: [{product: flower}]
   setting: [port, home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling]
+  agency_types: [prosecutor]
   setting: [border]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: yemen-marib-hashish-seizure-2024

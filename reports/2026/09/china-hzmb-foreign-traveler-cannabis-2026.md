@@ -16,9 +16,11 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  products: [{product: hashish, kg: 0.00251}, {product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, zhuhai, customs, hzmb]

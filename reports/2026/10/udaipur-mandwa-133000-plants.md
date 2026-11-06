@@ -23,11 +23,15 @@ created_by_model: unknown
 details:
   agencies: [in-ncb, in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.hectares: [1]
 status: verified
 tags: [ncb, antf, operation-ganjagaveshana]

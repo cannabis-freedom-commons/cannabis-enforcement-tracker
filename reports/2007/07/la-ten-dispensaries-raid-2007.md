@@ -16,12 +16,14 @@ details:
   activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [1, 5]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.case_stage: [2, 3, 1, 5, 4]
   details.products: [2]
   details.setting: [1, 5]
 status: verified

@@ -19,8 +19,10 @@ figures:
   arrested: 3
 details:
   agency_types: [anti-narcotics, police]
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kuresoi, nakuru, nps, trafficking]

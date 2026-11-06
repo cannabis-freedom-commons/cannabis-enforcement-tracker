@@ -18,10 +18,12 @@ figures:
 details:
   activity: [sale]
   agency_types: [police]
+  products: [{product: flower, kg: 0.06}]
   setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

@@ -15,9 +15,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.products: [1, 2]
   details.setting: [1, 2, 3]
 status: verified
 cfi_id: timor-leste-dili-drug-arrests-2022

@@ -18,6 +18,7 @@ figures:
   kg_seized: 271
   prison: 5 years
 details:
+  activity: [possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -25,6 +26,7 @@ details:
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

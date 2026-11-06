@@ -20,11 +20,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [1, 3, 4, 2]
   details.agency_types: [1, 4, 2]
   details.case_stage: [2, 1, 4]
   details.products: [1, 4]
+  details.setting: [1, 3, 4, 2]
   figures.arrested: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

@@ -18,11 +18,13 @@ details:
   agency_types: [prosecutor]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [vehicle, home]
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
+  details.setting: [2, 1, 3]
 media:
   - kind: video
     url: https://www.tvn-2.com/nacionales/decomiso-paquetes-marihuana-droga-senan-video_1_1664689.html

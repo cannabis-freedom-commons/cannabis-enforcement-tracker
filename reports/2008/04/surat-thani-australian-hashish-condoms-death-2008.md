@@ -17,10 +17,12 @@ figures:
   deaths: 1
 details:
   agency_types: [police]
+  case_stage: charged
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.deaths: [2]
   figures.kg_seized: [2, 1]

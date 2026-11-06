@@ -28,10 +28,12 @@ details:
   agencies: [cl-pdi]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.0842}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   figures.arrested: [2]
   figures.kg_seized: [2, 1]
   figures.value: [2, 3]

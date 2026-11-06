@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 3, 6]
   details.setting: [1, 5, 6, 7, 2, 3]
   figures.arrested: [1, 5, 6, 7]
+  figures.deaths: [1, 5, 6, 7, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b3cb7f9797a4f28bb513dfed274559f5

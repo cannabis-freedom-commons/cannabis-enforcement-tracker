@@ -25,6 +25,7 @@ details:
   agencies: [ru-fsb]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2, 1]
   details.environment: [1]
+  details.products: [2, 1]
   details.setting: [1]
   figures.hectares: [1]
   figures.plants_destroyed: [2, 1]

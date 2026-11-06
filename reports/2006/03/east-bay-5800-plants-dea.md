@@ -23,12 +23,14 @@ details:
   activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
   environment: [indoor]
   products: [{product: flower, kg: 53.07}]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
   figures.arrested: [1]

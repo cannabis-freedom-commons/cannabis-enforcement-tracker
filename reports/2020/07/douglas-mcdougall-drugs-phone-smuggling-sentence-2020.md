@@ -19,6 +19,7 @@ figures:
 details:
   agency_types: [police, court]
   activity: [smuggling, sale, possession]
+  products: [{product: flower}]
   setting: [vehicle]
   charges: [production of cocaine and cannabis to the island, possession with intent to supply, possessing criminal property, attempting to smuggle mobile phones into prison, being concerned with the production of cocaine and cannabis]
   case_stage: sentenced
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [1]
   details.charges: [2]
+  details.products: [2, 1]
   details.sentence_types: [2]
   details.setting: [1]
   figures.convicted: [1]

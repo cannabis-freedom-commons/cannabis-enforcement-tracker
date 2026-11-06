@@ -28,10 +28,12 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs, prosecutor]
+  products: [{product: flower, kg: 3.4}]
   setting: [airport]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
+  details.products: [2, 1, 3]
   details.setting: [2]
   figures.kg_seized: [2, 1, 3]
 status: verified

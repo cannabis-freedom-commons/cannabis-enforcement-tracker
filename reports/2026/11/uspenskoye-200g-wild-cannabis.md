@@ -19,6 +19,7 @@ details:
   activity: [cultivation, possession]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.2}]
   sentence_types: [prison]
   setting: [forest]
   environment: [wild]
@@ -27,6 +28,7 @@ data_sources:
   details.agency_types: [1, 5, 2, 4, 3]
   details.case_stage: [2, 4, 5, 3, 1]
   details.environment: [1, 3, 5]
+  details.products: [1, 5, 2, 4, 3]
   details.sentence_types: [2, 4, 5, 3, 1]
   details.setting: [1, 3, 5]
   figures.kg_seized: [1, 5]

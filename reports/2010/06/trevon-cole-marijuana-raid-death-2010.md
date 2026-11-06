@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [1]
   details.setting: [1]
+  figures.deaths: [1]
 status: verified
 tags: [police-shooting, search-warrant, inquest]
 sources:

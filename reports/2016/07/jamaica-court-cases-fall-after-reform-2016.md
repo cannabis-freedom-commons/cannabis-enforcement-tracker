@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [use]
   agency_types: [court]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: jamaica-court-cases-fall-after-reform-2016
 sources:

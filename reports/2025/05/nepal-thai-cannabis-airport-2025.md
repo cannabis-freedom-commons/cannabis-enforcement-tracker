@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   environment: [indoor]
+  products: [{product: flower}]
 data_sources:
   details.environment: [1]
+  details.products: [1]
 status: verified
 cfi_id: nepal-thai-cannabis-airport-2025
 sources:

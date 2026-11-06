@@ -24,11 +24,13 @@ media:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: plants, plants: 250}]
   setting: [field, forest]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.products: [2]
   details.setting: [2, 1]
   figures.plants_destroyed: [2]

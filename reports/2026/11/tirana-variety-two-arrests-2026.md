@@ -17,11 +17,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 3, 2, 4]
   details.case_stage: [1, 3, 2, 4]
+  details.products: [1, 3, 2, 4]
   details.setting: [2, 4, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -21,12 +21,14 @@ media:
 details:
   activity: [cultivation]
   agency_types: [police]
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [2, 4, 1, 3]
   details.agency_types: [2, 4]
   details.environment: [1, 2, 4]
+  details.products: [2, 4, 1, 3]
   details.setting: [2, 4]
   figures.plants_destroyed: [2, 4, 3]
 status: reported

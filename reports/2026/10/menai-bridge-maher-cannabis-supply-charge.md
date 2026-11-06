@@ -16,9 +16,11 @@ figures:
   charged: 1
 details:
   agency_types: [police, court]
+  products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
   details.setting: [2, 1, 3]
   figures.arrested: [1]
 status: verified

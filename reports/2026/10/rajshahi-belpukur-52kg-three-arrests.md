@@ -21,10 +21,12 @@ figures:
 details:
   agency_types: [military, police]
   case_stage: investigation
+  products: [{product: flower, kg: 52}]
   setting: [border, vehicle, prison]
 data_sources:
   details.agency_types: [1, 8, 6, 2, 4, 7]
   details.case_stage: [2, 5, 6, 7, 8, 1]
+  details.products: [2, 5, 6, 7, 8, 1]
   details.setting: [1, 4, 5, 6, 7, 8]
   figures.arrested: [2, 5, 6, 7, 8, 1]
   figures.kg_seized: [2, 5, 6, 7, 8, 1]

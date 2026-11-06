@@ -20,13 +20,17 @@ figures:
   prison: 10 years
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 16.003}]
   sentence_types: [prison]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2]
   figures.prison: [1, 2]

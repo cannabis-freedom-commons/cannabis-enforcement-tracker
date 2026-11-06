@@ -19,11 +19,13 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 3}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [3, 2, 1]
   details.case_stage: [3, 2]
+  details.products: [3, 2, 1]
   details.sentence_types: [3, 1]
   details.setting: [3, 1]
   figures.arrested: [3, 2]

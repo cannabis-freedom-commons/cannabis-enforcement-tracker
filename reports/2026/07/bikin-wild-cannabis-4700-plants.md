@@ -19,14 +19,18 @@ figures:
   hectares: 1
   kg_seized: 320
 details:
+  activity: [cultivation]
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: plants, plants: 4700}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]

@@ -16,10 +16,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: convicted
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 3, 2]
+  details.products: [2, 1, 3]
   details.setting: [2, 1, 3]
   figures.arrested: [2, 3, 1]
 status: verified

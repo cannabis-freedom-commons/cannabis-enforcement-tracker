@@ -19,11 +19,15 @@ details:
   activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 178.85}]
   setting: [airport]
 data_sources:
   details.activity: [1, 4, 6, 8, 10, 11]
   details.agencies: [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 19, 20, 21, 23]
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 19, 20, 21, 23]
+  details.case_stage: [1, 4, 5, 6, 7, 8]
+  details.products: [2, 1, 4, 6, 8, 10]
   details.setting: [2, 1, 4, 6, 8, 10]
   figures.arrested: [1, 4, 5, 6, 7, 8]
   figures.kg_seized: [1, 4, 6, 8, 10, 11]

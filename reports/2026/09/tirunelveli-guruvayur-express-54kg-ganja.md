@@ -20,10 +20,12 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 54}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]

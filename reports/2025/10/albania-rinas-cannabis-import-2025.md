@@ -13,9 +13,11 @@ created_by_model: unknown
 details:
   activity: [sale]
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: albania-rinas-cannabis-import-2025
 sources:

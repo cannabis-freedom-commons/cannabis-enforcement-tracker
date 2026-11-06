@@ -17,12 +17,14 @@ figures:
   prison: 5 years
   kg_seized: 2.075
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   products: [{product: flower, kg: 2.075}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]

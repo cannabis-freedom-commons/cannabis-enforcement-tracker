@@ -40,11 +40,14 @@ details:
   agency_types: [police]
   activity: [money]
   case_stage: charged
+  products: [{product: flower, kg: 88}]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
+  details.products: [1, 2]
+  figures.charged: [1, 3]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

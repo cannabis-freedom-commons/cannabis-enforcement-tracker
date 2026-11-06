@@ -19,11 +19,13 @@ details:
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 16.415}]
+  setting: [home, shop]
 data_sources:
   details.activity: [3]
   details.agency_types: [3, 1, 4, 2]
   details.case_stage: [1, 3, 4]
   details.products: [3, 1]
+  details.setting: [3, 1, 4]
   figures.arrested: [3, 4, 2, 1]
   figures.kg_seized: [3, 4, 2, 1]
 status: verified

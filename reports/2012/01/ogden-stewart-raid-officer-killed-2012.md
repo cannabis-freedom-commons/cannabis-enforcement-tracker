@@ -34,6 +34,7 @@ data_sources:
   details.force: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [2]
 status: verified
 tags: [no-knock-raid, officer-killed, home-grow]
 sources:

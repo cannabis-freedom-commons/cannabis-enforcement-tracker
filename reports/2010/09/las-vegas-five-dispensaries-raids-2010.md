@@ -13,11 +13,13 @@ summary: >-
   across Las Vegas on 8 September 2010, seizing patient and financial records.
   No arrests were made, and the warrants and supporting affidavits were sealed by court order.
 details:
+  activity: [use]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

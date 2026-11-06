@@ -15,10 +15,12 @@ figures:
 details:
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 2.4}]
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified

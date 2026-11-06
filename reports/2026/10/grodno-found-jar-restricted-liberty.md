@@ -17,10 +17,12 @@ details:
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 media:
   - kind: video
     url: https://www.grodnoplustv.by/index.php/novosti/item/32267-v-grodno-muzhchinu-osudili-za-najdennuyu-banku-s-marikhuanoj

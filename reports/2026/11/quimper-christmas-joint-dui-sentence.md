@@ -18,11 +18,13 @@ details:
   activity: [use]
   agency_types: [gendarmerie, prosecutor, court]
   case_stage: sentenced
+  products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.prison: [1]
 status: verified

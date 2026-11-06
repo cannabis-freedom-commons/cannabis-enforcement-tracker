@@ -19,10 +19,14 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.2}]
+  setting: [home]
 data_sources:
   details.activity: [2, 4, 1, 3]
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [1, 4, 2]
+  details.products: [1, 4, 2, 3]
+  details.setting: [1, 4, 2]
   figures.arrested: [1, 4, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

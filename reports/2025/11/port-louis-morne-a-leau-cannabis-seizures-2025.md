@@ -14,10 +14,12 @@ summary: >-
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower}]
   setting: [port]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2, 1]
   details.setting: [1, 2]
 media:
   - kind: photo

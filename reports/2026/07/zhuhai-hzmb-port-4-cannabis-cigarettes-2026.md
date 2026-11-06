@@ -15,9 +15,11 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  products: [{product: flower, kg: 0.0011}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.products: [2, 1]
   figures.kg_seized: [1, 2]
 media:
   - kind: photo

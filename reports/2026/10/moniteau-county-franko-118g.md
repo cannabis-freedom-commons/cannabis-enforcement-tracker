@@ -19,13 +19,16 @@ figures:
 details:
   activity: [possession]
   agency_types: [prosecutor]
+  case_stage: charged
   products: [{product: flower, kg: 0.118}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [2]
+  figures.charged: [2]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

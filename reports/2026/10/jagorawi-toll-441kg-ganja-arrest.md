@@ -20,12 +20,14 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 44.1}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [8, 12, 13, 22, 14, 19]
   details.agency_types: [3, 7, 8, 9, 11, 12]
   details.case_stage: [1, 5, 7, 8, 9, 11]
+  details.products: [3, 7, 8, 9, 11, 12]
   details.sentence_types: [1, 5, 7, 8, 9, 11]
   details.setting: [1, 5, 7, 8, 9, 11]
   figures.arrested: [4, 8, 12, 13, 22, 14]

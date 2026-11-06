@@ -17,11 +17,13 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [border, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

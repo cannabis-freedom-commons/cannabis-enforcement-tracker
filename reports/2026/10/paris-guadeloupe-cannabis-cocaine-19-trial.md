@@ -18,12 +18,14 @@ details:
   activity: [smuggling]
   case_stage: executed
   force: shots-fired
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1]
   details.case_stage: [1, 2]
   details.force: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1, 2]
   figures.arrested: [1]

@@ -13,10 +13,14 @@ summary: >-
   law.
 created_by_model: unknown
 details:
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
   setting: [field]
 data_sources:
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: lebanon-army-bekaa-raids-2025

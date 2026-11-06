@@ -19,11 +19,13 @@ details:
   agencies: [pe-dirandro]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 9229.1}]
   setting: [border]
 data_sources:
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
   details.case_stage: [1, 3, 4]
+  details.products: [1, 3, 4]
   details.setting: [1, 3, 4]
   figures.kg_seized: [1, 3, 4]
 status: verified

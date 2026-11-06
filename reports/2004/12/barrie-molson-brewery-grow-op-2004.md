@@ -41,6 +41,7 @@ data_sources:
   details.setting: [1, 2, 4]
   figures.charged: [1, 2, 4]
   figures.plants_destroyed: [3, 1, 2]
+  figures.value: [3, 1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [molson, barrie, opp, grow-op, organised-crime]

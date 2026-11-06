@@ -18,9 +18,15 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [military, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 272}]
+  setting: [home]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 3]
+  details.products: [2, 3, 1]
+  details.setting: [1, 3]
   figures.arrested: [1, 3, 2]
   figures.kg_seized: [2, 3, 1]
 status: verified

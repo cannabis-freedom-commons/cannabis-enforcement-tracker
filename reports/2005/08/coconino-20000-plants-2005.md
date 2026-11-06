@@ -21,12 +21,14 @@ details:
   activity: [trafficking, cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
   products: [{product: flower}, {product: plants, plants: 20000}]
   setting: [forest]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [1]
   details.setting: [1, 2]
   figures.arrested: [2]

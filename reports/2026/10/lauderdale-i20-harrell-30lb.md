@@ -24,11 +24,13 @@ media:
     caption: A deputy and his K9 beside a car with bags of suspected marijuana on the hood and trunk; the page gives no caption or credit.
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   case_stage: charged
   products: [{product: flower, kg: 13.61}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [2]

@@ -22,12 +22,14 @@ details:
   activity: [sale]
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.018}]
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]

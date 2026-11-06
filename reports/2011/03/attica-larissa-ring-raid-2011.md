@@ -23,12 +23,14 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 1820}]
   route: {from: [gr], to: [gb]}
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.route: [1]
   details.setting: [1]
   figures.arrested: [1]

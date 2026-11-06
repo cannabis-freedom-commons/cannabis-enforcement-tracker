@@ -13,8 +13,10 @@ summary: >-
   The case was an enforcement event, not a change in the law.
 created_by_model: unknown
 details:
+  products: [{product: flower}]
   setting: [mail]
 data_sources:
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: bhutan-parcel-cannabis-seizure-2026

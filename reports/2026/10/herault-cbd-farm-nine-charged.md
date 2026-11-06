@@ -15,10 +15,12 @@ figures:
   charged: 9
 details:
   activity: [trafficking]
+  case_stage: charged
   products: [{product: flower}]
   setting: [building]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.charged: [1]

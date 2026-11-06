@@ -13,11 +13,13 @@ summary: >-
   firearms were seized.
 created_by_model: unknown
 details:
+  agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: hashish}]
   sentence_types: [life]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]

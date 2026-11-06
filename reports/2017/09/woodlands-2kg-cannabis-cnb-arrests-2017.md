@@ -22,12 +22,14 @@ details:
   agency_types: [anti-narcotics]
   activity: [trafficking]
   case_stage: investigation
+  products: [{product: flower, kg: 2}]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

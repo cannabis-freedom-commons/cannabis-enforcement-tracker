@@ -32,11 +32,13 @@ details:
   agencies: [pe-dirandro]
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 883.3}]
+  setting: [vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [2]
+  details.setting: [2, 1]
   figures.kg_seized: [2]
   figures.value: [2]
 status: verified

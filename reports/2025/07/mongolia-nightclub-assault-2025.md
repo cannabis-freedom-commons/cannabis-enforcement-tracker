@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [use]
+  case_stage: investigation
   setting: [street]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 cfi_id: mongolia-nightclub-assault-2025

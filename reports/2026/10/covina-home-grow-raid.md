@@ -14,12 +14,14 @@ summary: >-
   Los Angeles County sheriff’s deputies raided a suspected illegal indoor marijuana grow at a home in unincorporated Covina on Oct. 6, 2026, seizing numerous plants and other controlled substances. No arrests or charges were announced, and no plant count, weight or value was published.
 details:
   activity: [cultivation]
+  agency_types: [anti-narcotics, police]
   case_stage: investigation
   environment: [indoor]
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]

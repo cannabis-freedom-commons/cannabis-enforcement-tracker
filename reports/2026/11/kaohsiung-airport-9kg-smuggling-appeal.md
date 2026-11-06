@@ -27,11 +27,13 @@ details:
   activity: [smuggling]
   agency_types: [court]
   case_stage: appeal
+  products: [{product: flower, kg: 9.037}]
   setting: [airport, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.prison: [1, 2]

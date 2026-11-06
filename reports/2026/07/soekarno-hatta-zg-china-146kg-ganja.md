@@ -21,9 +21,13 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 14.6165}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [bnn, airport, transit]
 open_questions:

@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.setting: [1, 2]
   figures.arrested: [1]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://www.novinite.com/articles/238918/Nearly+Half+a+Million+Euros+in+Marijuana+Seized+at+Gueshevo+Border+as+Albanian+Driver+Detained

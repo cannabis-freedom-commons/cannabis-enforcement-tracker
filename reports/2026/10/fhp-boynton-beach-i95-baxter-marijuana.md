@@ -18,11 +18,13 @@ figures:
   kg_seized: 0.0027
 details:
   activity: [possession]
+  case_stage: charged
   products:
     - {product: flower}
   setting: [vehicle, prison]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

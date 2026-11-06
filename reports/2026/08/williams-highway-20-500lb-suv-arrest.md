@@ -17,10 +17,12 @@ figures:
   kg_seized: 226.8
 details:
   agency_types: [police]
+  case_stage: charged
   products: [{product: flower, kg: 226.8}]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]

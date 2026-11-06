@@ -21,11 +21,13 @@ media:
     publisher: Uttarbanga Sambad
     caption: 'A composite image at the top of the article shows officers standing with the four arrested youths at the terminus, and the recovered bags of ganja laid out on tables. Photo: Uttarbanga Sambad.'
 details:
+  activity: [possession]
   agency_types: [police]
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]

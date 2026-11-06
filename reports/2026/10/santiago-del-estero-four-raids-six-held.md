@@ -26,11 +26,13 @@ details:
   agency_types: [court]
   case_stage: investigation
   products: [{product: flower, kg: 0.03575}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 4, 2]
   details.case_stage: [1, 4, 2]
   details.products: [1, 4, 2, 3]
+  details.setting: [1, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b33973402f6d61ee85a7ebd0b4789a77

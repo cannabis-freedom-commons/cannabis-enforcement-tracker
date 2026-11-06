@@ -16,11 +16,15 @@ figures:
   plants_destroyed: 29962
 details:
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
 status: verified

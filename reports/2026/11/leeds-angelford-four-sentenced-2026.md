@@ -21,11 +21,13 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 3, 4]
+  details.products: [1, 3, 4]
   details.sentence_types: [1, 3, 4]
   details.setting: [1, 3, 4]
   figures.charged: [1, 3, 4]

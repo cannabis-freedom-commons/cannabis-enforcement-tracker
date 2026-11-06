@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/07/12/el-salvador-capturan-a-sujeto-con-mas-de-medio-kilo-de-marihuana-en-candelaria-de-la-frontera/

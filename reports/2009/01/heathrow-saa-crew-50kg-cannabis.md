@@ -21,10 +21,12 @@ details:
   activity: [smuggling]
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 50}]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.products: [1]
   figures.kg_seized: [1]
   figures.value: [1]
 status: verified

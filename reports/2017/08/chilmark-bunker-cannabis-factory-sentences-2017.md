@@ -26,12 +26,14 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  products: [{product: flower, kg: 643}]
   sentence_types: [prison, deportation]
   setting: [home, prison]
 data_sources:
   details.activity: [3, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1, 3]
+  details.products: [3, 2, 1]
   details.sentence_types: [2, 1]
   details.setting: [2, 3, 1]
   figures.arrested: [2, 3]

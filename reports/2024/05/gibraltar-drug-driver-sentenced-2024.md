@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  case_stage: sentenced
   sentence_types: [fine]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.sentence_types: [1]
 status: verified
 cfi_id: gibraltar-drug-driver-sentenced-2024

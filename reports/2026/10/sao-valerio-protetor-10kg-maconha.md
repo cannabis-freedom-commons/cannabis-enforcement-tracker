@@ -30,11 +30,15 @@ details:
   activity: [trafficking, possession]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 10}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

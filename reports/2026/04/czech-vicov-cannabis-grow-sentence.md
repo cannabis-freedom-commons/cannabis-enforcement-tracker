@@ -18,11 +18,13 @@ figures:
   prison: 3 years, suspended for 5 years
 details:
   agency_types: [prosecutor, court]
+  case_stage: sentenced
   products: [{product: flower, kg: 7.5}]
   sentence_types: [probation]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

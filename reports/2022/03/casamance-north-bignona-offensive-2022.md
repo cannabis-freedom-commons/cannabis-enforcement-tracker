@@ -21,11 +21,15 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
   agency_types: [military]
+  case_stage: investigation
   force: lethal
+  products: [{product: flower, kg: 140000}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.force: [1, 2]
+  details.products: [2, 1]
   figures.deaths: [1]
   figures.kg_seized: [1, 2]
 status: verified

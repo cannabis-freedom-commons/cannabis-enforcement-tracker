@@ -13,9 +13,15 @@ summary: >-
   The operation was part of the annual Kara-kuurai eradication campaign.
 created_by_model: unknown
 details:
+  activity: [cultivation]
+  case_stage: investigation
   environment: [wild]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
 status: verified
 cfi_id: kyrgyzstan-wild-cannabis-burn-2024
 sources:

@@ -21,14 +21,17 @@ details:
   activity: [trafficking]
   agencies: [us-fbi]
   agency_types: [police]
+  case_stage: convicted
   products: [{product: flower, kg: 0.0002}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [2, 1]
 status: disputed
 created_by_model: meta/muse-spark
 tags: [swat-raid, confidential-informant]

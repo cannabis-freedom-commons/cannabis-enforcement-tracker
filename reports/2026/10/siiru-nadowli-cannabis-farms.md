@@ -40,11 +40,15 @@ details:
   activity: [cultivation]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [field]
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
+  details.case_stage: [2, 4, 1]
+  details.products: [1, 2, 3, 4]
   details.setting: [2, 4, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

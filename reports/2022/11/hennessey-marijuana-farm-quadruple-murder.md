@@ -20,11 +20,13 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   case_stage: investigation
   force: lethal
   products: [{product: flower}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]

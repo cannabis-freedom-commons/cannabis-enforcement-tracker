@@ -22,11 +22,15 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   activity: [cultivation]
+  case_stage: convicted
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.value: [1]
 status: verified

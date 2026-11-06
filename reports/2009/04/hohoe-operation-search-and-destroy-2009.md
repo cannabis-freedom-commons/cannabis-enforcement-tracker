@@ -29,6 +29,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.hectares: [1, 2]
 status: verified
 tags: [volta-region, indian-hemp, operation-search-and-destroy]
 open_questions:

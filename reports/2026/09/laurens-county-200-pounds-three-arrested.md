@@ -29,10 +29,12 @@ media:
     caption: 'Seized marijuana displayed by Laurens County investigators. Photo: Laurens County Sheriff''s Office'
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: charged
   products: [{product: flower, kg: 90.72}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]

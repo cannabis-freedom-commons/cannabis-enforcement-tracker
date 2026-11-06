@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [cultivation]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: zambia-operation-kufeza-2026
 sources:

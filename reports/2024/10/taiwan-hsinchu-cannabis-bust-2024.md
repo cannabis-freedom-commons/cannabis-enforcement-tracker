@@ -17,11 +17,13 @@ details:
   activity: [cultivation]
   agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}]
   setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: taiwan-hsinchu-cannabis-bust-2024

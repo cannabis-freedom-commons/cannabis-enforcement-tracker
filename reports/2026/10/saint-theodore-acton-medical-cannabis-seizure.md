@@ -21,11 +21,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: hashish, kg: 1950}, {product: plants, plants: 600}]
+  setting: [home]
 data_sources:
   details.activity: [2, 4, 5, 1]
   details.agency_types: [2, 4, 5, 1, 3]
   details.case_stage: [2, 4, 5, 1]
   details.products: [2, 4, 5, 1]
+  details.setting: [2, 4, 5, 1]
   figures.arrested: [2, 4, 5, 1]
   figures.kg_seized: [2, 4, 5, 1]
   figures.plants_destroyed: [2, 4, 5, 1]

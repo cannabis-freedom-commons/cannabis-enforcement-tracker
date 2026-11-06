@@ -17,11 +17,15 @@ figures:
     amount: 173000
     currency: KZT
 details:
+  activity: [use]
   agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
   figures.fine: [1, 2]
 status: verified

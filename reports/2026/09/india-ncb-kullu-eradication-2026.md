@@ -13,8 +13,10 @@ summary: >-
   legal action would follow against those responsible.
 created_by_model: unknown
 details:
+  activity: [cultivation]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.setting: [1]
 status: verified
 cfi_id: india-ncb-kullu-eradication-2026

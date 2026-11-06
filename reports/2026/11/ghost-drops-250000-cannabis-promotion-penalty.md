@@ -16,8 +16,10 @@ figures:
     currency: CAD
 details:
   case_stage: convicted
+  products: [{product: flower}]
 data_sources:
   details.case_stage: [1]
+  details.products: [2, 1]
   figures.fine: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

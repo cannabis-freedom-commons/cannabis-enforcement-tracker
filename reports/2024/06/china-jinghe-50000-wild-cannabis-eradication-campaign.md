@@ -23,11 +23,13 @@ media:
     caption: Officers inspect wild cannabis plants during a clearance in Jinghe County.
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: plants, plants: 50000}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

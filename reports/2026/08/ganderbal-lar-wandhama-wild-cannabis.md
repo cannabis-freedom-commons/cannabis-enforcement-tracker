@@ -17,13 +17,17 @@ details:
   activity: [cultivation]
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [ganderbal, lar, wandhama, jammu-and-kashmir, wild-cannabis, eradication]

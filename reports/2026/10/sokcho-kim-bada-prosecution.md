@@ -19,11 +19,13 @@ details:
   activity: [use]
   agency_types: [police, prosecutor, court]
   case_stage: charged
+  products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-spark-1.3#max

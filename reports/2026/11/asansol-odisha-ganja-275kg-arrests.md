@@ -22,11 +22,13 @@ details:
   case_stage: investigation
   date_precision: approximate
   region: West Bengal
+  setting: [home]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [2, 1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

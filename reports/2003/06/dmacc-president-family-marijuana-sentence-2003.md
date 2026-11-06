@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [2, 4, 3]
   details.setting: [1, 3]
   figures.arrested: [1, 3]
+  figures.charged: [1, 3, 2]
   figures.plants_destroyed: [1, 3]
   figures.prison: [2, 4, 3]
   figures.value: [1, 3]

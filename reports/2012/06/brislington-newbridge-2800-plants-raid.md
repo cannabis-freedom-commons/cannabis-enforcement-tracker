@@ -20,10 +20,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [building]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
   figures.value: [1]

@@ -18,12 +18,15 @@ details:
   activity: [trafficking, possession]
   agency_types: [police, court]
   case_stage: investigation
+  products: [{product: flower, kg: 2}]
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 2]
   details.agency_types: [1, 2, 5, 6, 4, 3]
   details.case_stage: [1, 4, 6, 3, 2, 5]
+  details.products: [1, 4, 6, 3, 2, 5]
   details.setting: [1, 3, 4, 5, 6]
+  figures.arrested: [1, 2, 5, 6, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 216179e2dd63caec4cd78b744d7aa2e9

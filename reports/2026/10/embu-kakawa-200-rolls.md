@@ -27,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [embu, kakawa, nps, trafficking]

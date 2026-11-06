@@ -35,12 +35,14 @@ details:
   activity: [cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 39000}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
   figures.hectares: [1, 3]

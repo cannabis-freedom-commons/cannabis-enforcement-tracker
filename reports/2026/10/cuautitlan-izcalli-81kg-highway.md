@@ -25,12 +25,14 @@ media:
     publisher: NX Noticias
     caption: State security image published with NX Noticias coverage of joint operations in Cuautitlán Izcalli, including the highway seizure.
 details:
+  activity: [possession]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower, kg: 81}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

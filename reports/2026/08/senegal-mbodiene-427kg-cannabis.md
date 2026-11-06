@@ -19,9 +19,11 @@ figures:
 details:
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 427}]
 data_sources:
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
+  details.products: [1, 2, 4, 3]
   figures.arrested: [1, 2, 4, 3]
   figures.kg_seized: [1, 2, 4, 3]
 media:

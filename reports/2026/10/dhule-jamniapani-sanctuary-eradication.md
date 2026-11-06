@@ -20,12 +20,14 @@ details:
   activity: [cultivation]
   agencies: [in-dri]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

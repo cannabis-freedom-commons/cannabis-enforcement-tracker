@@ -15,9 +15,15 @@ figures:
   charged: 1
 details:
   activity: [possession]
+  agency_types: [prosecutor, court]
+  case_stage: convicted
+  products: [{product: flower}]
   sentence_types: [fine, treatment]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

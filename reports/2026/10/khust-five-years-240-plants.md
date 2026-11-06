@@ -21,6 +21,7 @@ figures:
   prison: 5 years
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   environment: [greenhouse]
@@ -28,6 +29,7 @@ details:
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [2, 3, 4, 5, 1]
   details.agency_types: [2, 3, 4, 5, 1]
   details.case_stage: [2, 3, 4, 5, 1]
   details.environment: [1, 2, 3, 4, 5]

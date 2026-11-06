@@ -16,11 +16,15 @@ details:
   agencies: [id-bnn]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2, 3, 4, 6]
   details.agency_types: [1, 2, 6, 3, 4, 5]
   details.case_stage: [1, 2, 5, 6]
+  details.products: [1, 2, 6, 3, 4]
+  details.setting: [1, 2, 6, 3, 4]
   figures.arrested: [1, 2, 5, 6]
   figures.hectares: [1, 2, 6, 3, 4]
 status: reported

@@ -22,9 +22,13 @@ figures:
 created_by_model: spacexai/grok-4.7
 details:
   agency_types: [customs, police, prosecutor]
+  case_stage: convicted
+  products: [{product: flower, kg: 194.8}]
   setting: [vehicle, home]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

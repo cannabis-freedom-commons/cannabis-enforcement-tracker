@@ -22,6 +22,7 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [police, prosecutor, court]
+  products: [{product: flower, kg: 1.7}]
   setting: [mail]
   charges: [importing cannabis, attempting to possess cannabis with intent to supply]
   case_stage: sentenced
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]

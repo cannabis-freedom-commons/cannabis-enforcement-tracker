@@ -16,10 +16,12 @@ figures:
 details:
   agencies: [ng-npf]
   agency_types: [police]
+  products: [{product: flower, kg: 267}]
   setting: [port]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

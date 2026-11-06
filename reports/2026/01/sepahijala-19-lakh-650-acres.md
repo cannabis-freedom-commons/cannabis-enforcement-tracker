@@ -22,14 +22,17 @@ details:
   activity: [smuggling, cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 1900000}]
   setting: [field, forest]
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [2, 1, 3]
   details.setting: [1, 2, 3]
+  figures.hectares: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, bsf, tsr]
 sources:

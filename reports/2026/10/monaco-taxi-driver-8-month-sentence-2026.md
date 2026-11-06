@@ -17,12 +17,14 @@ details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
   force: physical
+  products: [{product: flower}]
   sentence_types: [prison, suspended, probation]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.force: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
   figures.prison: [1, 2]

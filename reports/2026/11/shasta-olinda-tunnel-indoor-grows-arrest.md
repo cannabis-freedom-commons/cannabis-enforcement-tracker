@@ -33,11 +33,15 @@ media:
     caption: 'Sheriff''s photo of mature indoor marijuana plants from the grow. Photo: Shasta County Sheriff''s Office via Redheaded Blackbelt'
 details:
   activity: [cultivation, possession]
+  agency_types: [anti-narcotics, police]
+  case_stage: charged
   environment: [indoor]
   products: [{product: flower, kg: 147.42}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

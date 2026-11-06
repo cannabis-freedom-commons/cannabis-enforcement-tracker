@@ -26,6 +26,7 @@ figures:
     amount: 100000
     currency: EGP
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   products:
@@ -33,11 +34,13 @@ details:
   sentence_types: [fine]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3, 4, 5]
   details.setting: [1, 2, 3, 4, 5]
+  figures.arrested: [1, 3, 2]
   figures.fine: [1, 2, 3, 4, 5]
   figures.prison: [1, 2, 3, 4, 5]
 status: reported

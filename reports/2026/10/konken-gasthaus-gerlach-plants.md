@@ -38,6 +38,7 @@ data_sources:
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [rheinland-pfalz, kusel, westpfalz, indoor]
 open_questions:

@@ -15,9 +15,11 @@ figures:
   arrested: 0
 details:
   agency_types: [border-guard, police]
+  products: [{product: flower}]
   setting: [forest]
 data_sources:
   details.agency_types: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 media:
   - kind: photo

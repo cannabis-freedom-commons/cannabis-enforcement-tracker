@@ -19,11 +19,13 @@ figures:
   kg_seized: 0.5
   value: { amount: 25000, currency: GBP }
 details:
+  activity: [cultivation]
   agency_types: [police]
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]

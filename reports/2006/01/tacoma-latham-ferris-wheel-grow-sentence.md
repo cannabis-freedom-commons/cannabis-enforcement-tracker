@@ -16,6 +16,7 @@ summary: >-
 figures:
   prison: 15 years
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -24,6 +25,7 @@ details:
   sentence_types: [prison]
   setting: [home, building, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

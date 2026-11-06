@@ -41,12 +41,14 @@ details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 564.39}]
   setting: [street]
 data_sources:
   details.activity: [1, 6, 8, 5, 3, 7]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 2, 3, 5, 6, 8]
+  details.products: [1, 2, 3, 5, 6, 8]
   details.setting: [1, 2, 3, 5, 6, 8]
   figures.kg_seized: [1, 2, 3, 5, 6, 8]
   figures.value: [1, 2, 3, 5, 6, 8]

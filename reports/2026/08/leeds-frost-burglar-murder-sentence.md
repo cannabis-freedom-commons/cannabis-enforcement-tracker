@@ -20,15 +20,22 @@ figures:
   prison: life (minimum 27 years)
 created_by_model: unknown
 details:
+  activity: [possession]
+  agency_types: [court]
   case_stage: sentenced
   force: shots-fired
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
   details.case_stage: [1, 2]
   details.force: [1, 2]
+  details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [1, 2]
   figures.prison: [1]
 status: verified
 tags: [burglary, shotgun, self-defence]

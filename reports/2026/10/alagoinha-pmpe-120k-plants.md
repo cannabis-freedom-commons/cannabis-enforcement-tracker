@@ -26,12 +26,14 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 1000}]
   setting: [field]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.products: [2, 1]
   details.setting: [2, 1]
   figures.plants_destroyed: [1, 2]
 status: verified

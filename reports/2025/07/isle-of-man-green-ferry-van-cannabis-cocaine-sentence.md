@@ -23,12 +23,14 @@ details:
   activity: [smuggling]
   agency_types: [customs, police, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.5223}]
   sentence_types: [prison, probation]
   setting: [vehicle, home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [1]

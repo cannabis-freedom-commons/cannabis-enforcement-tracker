@@ -26,14 +26,17 @@ details:
   agency_types: [police]
   case_stage: investigation
   force: shots-fired
+  products: [{product: flower, kg: 21}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3]
   details.force: [1, 2]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [2, 3, 4]
+  figures.charged: [1]
   figures.kg_seized: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

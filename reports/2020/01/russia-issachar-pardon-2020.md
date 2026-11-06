@@ -21,11 +21,13 @@ details:
   activity: [smuggling]
   agency_types: [border-guard]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.009}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified

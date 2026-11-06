@@ -26,12 +26,14 @@ details:
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 24.1}]
   setting: [vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1]
 status: verified

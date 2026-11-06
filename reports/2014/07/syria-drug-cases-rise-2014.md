@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [court]
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: syria-drug-cases-rise-2014
 sources:

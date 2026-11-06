@@ -14,9 +14,13 @@ summary: >-
 details:
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/Tchad-d-importantes-saisies-d-armes-de-guerre-par-la-gendarmerie_a89286.html

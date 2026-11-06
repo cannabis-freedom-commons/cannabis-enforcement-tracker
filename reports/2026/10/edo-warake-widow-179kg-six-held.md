@@ -23,11 +23,15 @@ details:
   activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 407.39}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

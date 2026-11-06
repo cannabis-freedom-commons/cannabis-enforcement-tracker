@@ -26,12 +26,14 @@ media:
     publisher: Infobae
     caption: 'PNC officers transfer the two handcuffed women after the Las Gaviotas arrest. Video: Infobae'
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1, 2]

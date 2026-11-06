@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6]
   details.sentence_types: [1, 2, 3, 5, 6, 4]
   details.setting: [2, 1, 3, 4, 5, 6]
+  figures.charged: [1, 3, 4, 5, 6, 2]
   figures.kg_seized: [1, 3, 5, 6, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

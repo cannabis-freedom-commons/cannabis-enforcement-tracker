@@ -16,9 +16,11 @@ figures:
   hectares: 1.9
 details:
   agency_types: [border-guard, anti-narcotics, police]
+  case_stage: investigation
   products: [{product: plants, plants: 120945}]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

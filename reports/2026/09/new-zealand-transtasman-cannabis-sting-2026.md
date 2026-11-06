@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   agency_types: [customs, police]
   case_stage: investigation
+  products: [{product: flower, kg: 270}]
   setting: [home]
 data_sources:
   details.agency_types: [2, 1, 3, 4]
   details.case_stage: [2, 1, 3, 4]
+  details.products: [2, 3, 4]
   details.setting: [2, 1, 3]
   figures.arrested: [2, 3, 4]
   figures.kg_seized: [2, 3, 4]

@@ -17,10 +17,12 @@ details:
   agency_types: [military]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 189b5d53fc6437d0c12b0f004e2601c4

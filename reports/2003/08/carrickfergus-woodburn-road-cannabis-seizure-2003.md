@@ -18,10 +18,12 @@ summary: >-
 details:
   agency_types: [police, court]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
+  details.products: [1, 3]
   details.setting: [1]
   figures.value: [1, 3]
 status: verified

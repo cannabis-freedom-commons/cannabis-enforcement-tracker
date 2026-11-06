@@ -24,6 +24,7 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   case_stage: investigation
+  products: [{product: flower, kg: 26924}]
   route: {from: [th], to: [gb]}
   setting: [airport, prison]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

@@ -19,10 +19,12 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  products: [{product: flower, kg: 20}]
   sentence_types: [death]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]

@@ -23,11 +23,13 @@ media:
     caption: 'Police officers stand by a shop during a raid, captioned "छापेमारी करती पुलिस" in Prabhat Khabar''s report. The caption and credit identify officers on a raid but not this shop. Photo: Prabhat Khabar Network'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [building]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

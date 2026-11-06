@@ -16,9 +16,11 @@ figures:
 details:
   agency_types: [coast-guard, gendarmerie, prosecutor]
   case_stage: investigation
+  setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/gendarmeria-decomiso-casi-una-tonelada-de-estupefacientes-en-misiones

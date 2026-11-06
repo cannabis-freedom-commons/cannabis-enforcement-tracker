@@ -14,8 +14,12 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: malta-odour-enforcement-2025
 sources:

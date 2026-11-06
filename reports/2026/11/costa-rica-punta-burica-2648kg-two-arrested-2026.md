@@ -36,11 +36,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
   details.activity: [3, 5]
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
   details.products: [1, 3]
+  details.setting: [1, 2, 4, 3, 5]
   figures.arrested: [1, 4, 2]
   figures.kg_seized: [1, 4, 2]
 status: verified

@@ -16,11 +16,13 @@ details:
   activity: [trafficking]
   agency_types: [customs]
   case_stage: appeal
+  products: [{product: flower, kg: 1500}]
   setting: [border, vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

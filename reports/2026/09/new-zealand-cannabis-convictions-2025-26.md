@@ -13,8 +13,10 @@ summary: >-
   imprisonment as their most serious sentence, about 22%.
 created_by_model: unknown
 details:
+  products: [{product: flower}]
   setting: [prison]
 data_sources:
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: new-zealand-cannabis-convictions-2025-26

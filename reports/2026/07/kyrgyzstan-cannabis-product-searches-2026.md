@@ -17,9 +17,11 @@ details:
   agency_types: [police]
   products:
     - {product: seeds}
+  setting: [home, shop]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: kyrgyzstan-cannabis-product-searches-2026
 tags:

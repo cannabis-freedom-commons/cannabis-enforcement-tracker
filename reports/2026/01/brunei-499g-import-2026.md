@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: charged
+  products: [{product: flower}]
 data_sources:
   details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: brunei-499g-import-2026
 tags:

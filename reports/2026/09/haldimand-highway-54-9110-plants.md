@@ -23,14 +23,17 @@ details:
   activity: [cultivation, possession]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: charged
   products: [{product: hashish, kg: 107.5}, {product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.charged: [1]
   figures.value: [1]
 status: verified
 created_by_model: muse-spark-1.3#max

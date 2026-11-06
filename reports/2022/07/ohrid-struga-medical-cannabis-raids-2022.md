@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2]
+  figures.value: [3, 2]
 media:
   - kind: photo
     url: https://balkaninsight.com/2023/03/28/crime-ties-exposed-in-north-macedonia-medicinal-cannabis-boom/bi/

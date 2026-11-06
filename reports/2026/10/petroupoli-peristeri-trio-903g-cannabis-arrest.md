@@ -19,10 +19,14 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 0.903}]
+  setting: [home]
 data_sources:
   details.activity: [1, 4, 5, 6, 8, 9]
   details.agency_types: [1, 4, 5, 6, 8, 9]
   details.case_stage: [1, 4, 6, 7, 11, 14]
+  details.products: [1, 12, 13, 14, 4, 5]
+  details.setting: [1, 4, 5, 6, 8, 9]
   figures.arrested: [1, 4, 5, 6, 8, 9]
   figures.kg_seized: [1, 12, 13, 14, 4, 5]
 status: reported

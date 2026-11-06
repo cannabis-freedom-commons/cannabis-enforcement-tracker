@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [2, 7, 4]
   details.products: [1, 2, 7, 4, 5, 6]
   details.setting: [1, 2, 5, 7]
+  figures.arrested: [1, 2, 3, 7]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [medical-marijuana, dea, dispensary]

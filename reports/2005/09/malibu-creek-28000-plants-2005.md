@@ -17,8 +17,10 @@ figures:
   plants_destroyed: 28000
   value: { amount: 30000000, currency: USD }
 details:
+  agency_types: [anti-narcotics, police]
   products: [{product: flower}]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
   figures.plants_destroyed: [1, 2]
 status: verified

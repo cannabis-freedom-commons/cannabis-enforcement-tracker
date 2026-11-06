@@ -24,11 +24,15 @@ details:
   agencies: [cl-carabineros, cl-pdi]
   agency_types: [gendarmerie, police]
   case_stage: appeal
+  products: [{product: flower, kg: 1.20416}]
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 4, 2]
+  details.products: [1, 4, 2]
+  details.setting: [1, 4, 2]
   figures.arrested: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]

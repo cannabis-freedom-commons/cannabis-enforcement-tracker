@@ -29,6 +29,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.deaths: [1, 2]
 media:
   - kind: photo
     url: https://www.bbc.com/news/world-europe-37260193

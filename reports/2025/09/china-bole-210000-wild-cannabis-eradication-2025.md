@@ -38,11 +38,13 @@ media:
     caption: Video report on the joint clearance of wild cannabis plants in Bole.
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

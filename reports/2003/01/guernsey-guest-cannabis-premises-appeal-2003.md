@@ -15,11 +15,13 @@ created_by_model: unknown
 details:
   agency_types: [court]
   case_stage: sentenced
+  products: [{product: hashish}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

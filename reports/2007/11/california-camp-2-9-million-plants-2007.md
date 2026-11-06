@@ -22,14 +22,18 @@ details:
   activity: [trafficking, cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 3, 1]
   details.environment: [2]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [camp, jerry-brown, record-eradication, public-lands]

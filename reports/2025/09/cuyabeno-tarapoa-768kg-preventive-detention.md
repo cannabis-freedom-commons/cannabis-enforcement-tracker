@@ -40,7 +40,9 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3, 4]
+  figures.charged: [1, 2, 3]
   figures.kg_seized: [4, 3, 2, 1]
+  figures.value: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: eb2a9471e45800f903810a3f671570ee

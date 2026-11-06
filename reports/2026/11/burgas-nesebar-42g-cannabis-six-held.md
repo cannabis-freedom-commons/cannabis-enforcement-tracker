@@ -18,11 +18,13 @@ details:
   activity: [use]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.042}]
   setting: [home]
 data_sources:
   details.activity: [2, 3, 4, 6, 8, 9]
   details.agency_types: [1, 4, 3, 5, 7, 8]
   details.case_stage: [1, 4, 3, 5, 7, 8]
+  details.products: [1, 4, 3, 5, 7, 8]
   details.setting: [1, 4, 2, 3, 5, 6]
   figures.arrested: [1]
   figures.kg_seized: [1, 4, 3, 5, 7, 8]

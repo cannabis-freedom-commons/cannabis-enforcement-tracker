@@ -20,12 +20,14 @@ figures:
     currency: USD
 details:
   activity: [sale]
+  agency_types: [prosecutor]
   case_stage: sentenced
   products: [{product: edibles}]
   sentence_types: [prison, fine]
   setting: [home, building, prison]
 data_sources:
   details.activity: [3, 1]
+  details.agency_types: [3, 1]
   details.case_stage: [3, 1]
   details.products: [1, 3]
   details.sentence_types: [3, 1]

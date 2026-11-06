@@ -23,9 +23,11 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 3.347}]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.greaterkashmir.com/kashmir/j-k-police-apprehend-9-drug-peddlers-in-multiple-anti-narcotics-operations-in-kashmir-12771759

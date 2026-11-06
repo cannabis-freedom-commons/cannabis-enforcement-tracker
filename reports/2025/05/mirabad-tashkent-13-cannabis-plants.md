@@ -24,6 +24,7 @@ details:
   agency_types: [police]
   case_stage: sentenced
   environment: [indoor]
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
 status: verified

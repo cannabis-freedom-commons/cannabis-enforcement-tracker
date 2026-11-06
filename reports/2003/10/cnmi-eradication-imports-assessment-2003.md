@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   sentence_types: [fine]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.sentence_types: [1]
 status: verified
 cfi_id: cnmi-eradication-imports-assessment-2003

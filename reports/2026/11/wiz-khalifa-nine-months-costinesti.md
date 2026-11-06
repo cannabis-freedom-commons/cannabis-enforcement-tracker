@@ -20,12 +20,14 @@ details:
   activity: [trafficking, possession]
   agency_types: [police, prosecutor, court]
   case_stage: acquitted
+  products: [{product: flower, kg: 0.01853}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 1, 3, 7, 9, 10]
   details.agency_types: [1, 2, 7, 14, 16, 6]
   details.case_stage: [12, 14, 15, 16, 18]
+  details.products: [1, 2, 3, 14, 7, 16]
   details.sentence_types: [1, 2, 3, 14, 7, 16]
   details.setting: [1, 2, 3, 14, 7, 16]
   figures.prison: [1, 2, 3, 14, 7, 16]

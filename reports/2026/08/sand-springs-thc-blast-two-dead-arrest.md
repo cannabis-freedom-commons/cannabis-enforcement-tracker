@@ -18,10 +18,12 @@ figures:
   deaths: 2
 details:
   activity: [processing]
+  agency_types: [police]
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 4, 3, 5]
   details.products: [2, 4, 3, 1]
   details.setting: [2, 4, 3, 5]
 status: reported

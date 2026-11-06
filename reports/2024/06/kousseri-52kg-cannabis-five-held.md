@@ -17,10 +17,12 @@ figures:
 details:
   activity: [trafficking, sale]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 52}]
   setting: [mail]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
+  details.products: [1]
   details.setting: [2, 1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

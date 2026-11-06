@@ -20,11 +20,13 @@ details:
   agencies: [cl-pdi]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 0.00223}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

@@ -20,12 +20,14 @@ figures:
   plants_destroyed: 511
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: plants, plants: 511}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

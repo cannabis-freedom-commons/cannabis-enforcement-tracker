@@ -30,6 +30,7 @@ data_sources:
   details.products: [3, 1]
   details.sentence_types: [2, 1, 3]
   details.setting: [3, 1, 2]
+  figures.arrested: [3, 1]
   figures.plants_destroyed: [3, 1, 2]
 media:
   - kind: photo

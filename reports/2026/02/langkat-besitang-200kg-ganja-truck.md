@@ -19,12 +19,16 @@ figures:
   arrested: 3
   kg_seized: 200
 details:
+  activity: [cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 200}]
   setting: [prison]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.setting: [3, 1, 2]
   figures.arrested: [3, 1, 2]
   figures.kg_seized: [1, 2, 3]

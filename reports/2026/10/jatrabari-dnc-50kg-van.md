@@ -27,12 +27,15 @@ details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 50}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: cursor/grok-4.7-low

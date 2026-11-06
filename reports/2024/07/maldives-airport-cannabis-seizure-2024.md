@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [street]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: maldives-airport-cannabis-seizure-2024

@@ -21,6 +21,7 @@ details:
   agency_types: [gendarmerie, court]
   case_stage: sentenced
   environment: [indoor]
+  products: [{product: flower, kg: 6.323}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.environment: [2]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [2, 1]
   figures.arrested: [1]

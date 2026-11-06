@@ -24,12 +24,14 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [field]
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
   figures.hectares: [1, 3, 2]
   figures.kg_seized: [1, 3, 2]
 status: verified

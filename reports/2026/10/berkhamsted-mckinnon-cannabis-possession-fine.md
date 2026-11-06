@@ -16,8 +16,14 @@ figures:
     amount: 1333
     currency: GBP
 details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [fine]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   figures.fine: [1]
 status: verified

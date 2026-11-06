@@ -18,10 +18,12 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [possession]
   agency_types: [police]
   products: [{product: flower}]
   setting: [airport, mail]
 data_sources:
+  details.activity: [1, 2, 4, 3]
   details.agency_types: [1, 2, 4, 3]
   details.products: [1, 2, 4, 3]
   details.setting: [1, 2, 4, 3]

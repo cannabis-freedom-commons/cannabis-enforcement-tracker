@@ -17,6 +17,7 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  case_stage: convicted
   environment: [indoor]
   products: [{product: flower, kg: 0.845}]
   setting: [airport]
@@ -24,10 +25,12 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

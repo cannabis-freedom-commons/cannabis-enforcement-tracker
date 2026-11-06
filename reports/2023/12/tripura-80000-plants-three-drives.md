@@ -19,6 +19,7 @@ details:
   activity: [cultivation]
   agencies: [in-ncb, in-bsf, in-excise]
   agency_types: [anti-narcotics, border-guard, regulator]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [forest]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [2, 4, 1]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.case_stage: [1, 4, 3, 2]
   details.products: [1, 2, 4]
   details.setting: [1, 4, 3]
   figures.plants_destroyed: [1, 4, 3]

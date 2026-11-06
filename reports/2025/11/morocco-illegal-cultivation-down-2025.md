@@ -16,9 +16,11 @@ created_by_model: unknown
 details:
   activity: [cultivation]
   products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.products: [1]
+  details.setting: [1]
 
 status: verified
 cfi_id: morocco-illegal-cultivation-down-2025

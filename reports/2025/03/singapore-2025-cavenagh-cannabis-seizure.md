@@ -17,11 +17,13 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: singapore-2025-cavenagh-cannabis-seizure

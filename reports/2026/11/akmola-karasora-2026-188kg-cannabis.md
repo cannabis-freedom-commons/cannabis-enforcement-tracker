@@ -18,6 +18,7 @@ details:
   agencies: [Akmola Region Police Department]
   activity: [cultivation, sale, possession, trafficking]
   agency_types: [customs, police]
+  products: [{product: flower, kg: 188}]
   setting: [forest]
   environment: [wild]
   case_stage: investigation
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [3, 1, 2]
   details.case_stage: [1]
   details.environment: [1]
+  details.products: [1, 2, 3]
   details.setting: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]

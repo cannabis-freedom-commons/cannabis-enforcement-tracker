@@ -18,12 +18,14 @@ details:
   activity: [smuggling]
   agency_types: [customs]
   case_stage: investigation
+  products: [{product: flower, kg: 2.952}]
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1, 5, 2, 3]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 2, 3, 5]
+  details.products: [1, 2, 3, 5, 4]
   details.route: [1, 2, 3, 5]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 3, 4, 2, 5]

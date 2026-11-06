@@ -20,11 +20,13 @@ figures:
 details:
   agency_types: [customs, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 2.03}]
   sentence_types: [prison]
   setting: [mail]
 data_sources:
   details.agency_types: [2, 4, 3, 1]
   details.case_stage: [1]
+  details.products: [1, 2, 4, 3]
   details.sentence_types: [1]
   details.setting: [1, 3, 4]
   figures.arrested: [1, 4, 3]

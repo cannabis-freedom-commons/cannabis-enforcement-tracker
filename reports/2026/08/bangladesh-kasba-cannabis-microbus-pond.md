@@ -16,11 +16,13 @@ details:
   activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
   setting: [border, vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   details.setting: [1, 2]
 media:
   - kind: photo

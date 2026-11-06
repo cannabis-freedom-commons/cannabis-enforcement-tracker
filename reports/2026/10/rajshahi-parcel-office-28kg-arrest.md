@@ -19,11 +19,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 28}]
   setting: [mail]
 data_sources:
   details.activity: [3, 5, 7, 4, 1, 6]
   details.agency_types: [3, 5, 7, 2, 6, 4]
   details.case_stage: [3, 5, 7, 2, 6, 4]
+  details.products: [3, 5, 7, 2, 6, 4]
   details.setting: [3, 5, 7, 2, 6, 4]
   figures.arrested: [3, 5, 7, 2, 6]
   figures.kg_seized: [3, 5, 7, 2, 6, 4]

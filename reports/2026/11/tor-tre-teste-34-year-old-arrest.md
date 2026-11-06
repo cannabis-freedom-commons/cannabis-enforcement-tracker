@@ -19,11 +19,14 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [3, 1, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a377183f9cbb969af5649ee3d00148b

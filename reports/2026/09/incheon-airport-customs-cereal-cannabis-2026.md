@@ -19,12 +19,15 @@ details:
   activity: [smuggling]
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 0.226}]
   setting: [airport, mail]
 data_sources:
   details.activity: [3, 4, 2, 1, 5]
   details.agency_types: [3, 1, 5, 2, 4]
   details.case_stage: [3, 4, 2, 1, 5]
+  details.products: [3, 1, 5, 2]
   details.setting: [3, 1, 5, 2, 4]
+  figures.arrested: [3]
   figures.kg_seized: [3, 1, 5, 2]
 media:
   - kind: photo

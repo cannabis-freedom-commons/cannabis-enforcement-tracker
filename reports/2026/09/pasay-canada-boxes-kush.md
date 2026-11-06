@@ -24,12 +24,14 @@ figures:
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: charged
   products:
     - {product: flower}
   setting: [home, building]
 data_sources:
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [3, 2, 1]
   details.products: [1, 3]
   details.setting: [1, 2, 3, 4, 5]
   figures.kg_seized: [1, 2, 3, 4, 5]

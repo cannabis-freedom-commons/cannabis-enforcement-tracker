@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 70e7bb4b6853d12ea215c87022c95e85

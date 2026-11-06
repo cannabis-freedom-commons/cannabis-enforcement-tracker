@@ -17,10 +17,12 @@ details:
   activity: [smuggling]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c25c282aff818a76e3e07c3afd9a174b

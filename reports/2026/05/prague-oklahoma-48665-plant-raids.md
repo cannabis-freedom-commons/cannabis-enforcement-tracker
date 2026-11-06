@@ -23,12 +23,14 @@ figures:
     currency: USD
 created_by_model: cursor/composer-2.5
 details:
+  activity: [use]
   agencies: [us-cbp, us-hsi, us-fbi]
   agency_types: [customs, police]
   case_stage: investigation
   products: [{product: flower, kg: 817.8}, {product: plants, plants: 48665}]
   setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

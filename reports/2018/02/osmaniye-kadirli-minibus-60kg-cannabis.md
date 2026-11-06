@@ -18,10 +18,12 @@ figures:
 details:
   agency_types: [police, court]
   case_stage: investigation
+  products: [{product: flower, kg: 60}]
   setting: [vehicle, home, mail]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

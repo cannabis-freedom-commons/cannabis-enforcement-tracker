@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]

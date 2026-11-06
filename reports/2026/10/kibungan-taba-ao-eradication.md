@@ -21,10 +21,12 @@ created_by_model: unknown
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 1200}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
   figures.value: [1]

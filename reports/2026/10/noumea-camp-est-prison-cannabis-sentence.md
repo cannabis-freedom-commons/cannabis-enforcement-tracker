@@ -20,12 +20,16 @@ figures:
     currency: XPF
 details:
   activity: [trafficking, possession]
+  agency_types: [anti-narcotics]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.536}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

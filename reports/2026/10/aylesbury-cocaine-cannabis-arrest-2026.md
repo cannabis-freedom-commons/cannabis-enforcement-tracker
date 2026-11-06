@@ -16,9 +16,11 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.products: [2, 1]
   figures.arrested: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

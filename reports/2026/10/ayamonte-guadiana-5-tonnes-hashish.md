@@ -22,11 +22,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ayamonte, guadiana, hashish]
 open_questions:

@@ -32,6 +32,7 @@ data_sources:
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [2, 3, 1]
+  figures.charged: [1, 2]
 media:
   - kind: photo
     url: https://police.act.gov.au/news/2025-media-releases/january/man-charged-and-grow-house-dismantled

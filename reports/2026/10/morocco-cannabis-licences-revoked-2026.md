@@ -17,10 +17,12 @@ details:
   activity: [smuggling]
   products: [{product: flower}]
   agency_types: [regulator]
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 
 status: verified
 cfi_id: morocco-cannabis-licences-revoked-2026

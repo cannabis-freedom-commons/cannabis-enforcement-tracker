@@ -17,9 +17,11 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police, court]
+  products: [{product: flower, kg: 113}]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
   figures.arrested: [1, 3]
   figures.kg_seized: [1, 2, 3]
 media:

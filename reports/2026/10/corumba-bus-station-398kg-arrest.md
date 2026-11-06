@@ -25,11 +25,13 @@ details:
   activity: [trafficking]
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
+  products: [{product: flower, kg: 3.98}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [3, 1, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.products: [3, 1, 2]
   details.setting: [3, 1, 2]
   figures.arrested: [3, 1]
   figures.kg_seized: [3, 1, 2]

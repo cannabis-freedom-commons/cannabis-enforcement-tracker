@@ -33,9 +33,11 @@ media:
 created_by_model: openai/gpt-6
 details:
   agency_types: [customs]
+  products: [{product: flower, kg: 0.44283}]
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [customs, guangzhou, parcel, cannabis-seizure]

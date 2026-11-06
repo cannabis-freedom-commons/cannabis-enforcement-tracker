@@ -23,6 +23,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [trafficking]
   case_stage: sentenced
+  products: [{product: flower, kg: 1.25}]
   sentence_types: [prison, corporal]
   setting: [prison]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.prison: [1]

@@ -18,12 +18,14 @@ details:
   activity: [possession]
   agency_types: [police, prosecutor]
   case_stage: executed
+  products: [{product: flower, kg: 0.1413}]
   sentence_types: [fine]
   setting: [home, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified

@@ -18,9 +18,12 @@ figures:
     currency: TTD
 details:
   agency_types: [coast-guard, police]
+  products: [{product: flower, kg: 661.9}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
   figures.kg_seized: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: http://www.guardian.co.tt/news/police-seize-198m-in-weed-at-chatham-beach-6.2.2703142.3881d885e1

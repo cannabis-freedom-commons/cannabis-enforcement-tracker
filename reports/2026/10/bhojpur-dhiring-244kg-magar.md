@@ -17,8 +17,10 @@ figures:
   kg_seized: 244.77
 details:
   agency_types: [police]
+  products: [{product: flower, kg: 244.77}]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
   figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

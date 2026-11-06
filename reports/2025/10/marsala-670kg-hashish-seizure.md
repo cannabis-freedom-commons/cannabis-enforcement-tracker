@@ -25,10 +25,12 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2]
   details.products: [2]
+  details.setting: [2, 1]
   figures.kg_seized: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

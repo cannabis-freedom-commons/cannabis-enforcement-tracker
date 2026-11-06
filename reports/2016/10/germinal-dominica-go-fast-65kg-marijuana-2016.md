@@ -20,12 +20,14 @@ details:
   activity: [smuggling, trafficking]
   case_stage: investigation
   date_precision: exact
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
   details.products: [1]
+  details.setting: [1, 2]
   figures.kg_seized: [1]
 media:
   - kind: photo

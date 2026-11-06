@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [Brevard County Sheriff's Office, us-cbp]
   agency_types: [police, customs]
+  case_stage: charged
   products:
     - {product: edibles, kg: 0.1}
     - {product: oil}
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2, 3]
   details.agency_types: [3]
+  details.case_stage: [2, 3]
   details.products: [3]
   details.setting: [3]
   figures.arrested: [2]

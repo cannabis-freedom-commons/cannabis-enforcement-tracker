@@ -14,11 +14,13 @@ summary: >-
 figures:
   plants_destroyed: 17782
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   environment: [wild]
   products: [{product: plants, plants: 17782}]
 data_sources:
+  details.activity: [3, 2, 1, 4]
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3, 1]
   details.environment: [1, 2]

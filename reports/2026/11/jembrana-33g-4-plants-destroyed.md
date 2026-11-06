@@ -15,8 +15,12 @@ figures:
   plants_destroyed: 4
   kg_seized: 0.03304
 details:
+  agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: plants, plants: 4}]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
 media:
   - kind: photo

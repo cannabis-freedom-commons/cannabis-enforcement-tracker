@@ -15,9 +15,11 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 7]
   details.case_stage: [1, 3, 4, 8, 10, 5]
+  details.products: [1, 3, 4, 5, 6, 7]
   figures.arrested: [1, 4, 6, 9, 10]
 media:
   - kind: photo

@@ -28,6 +28,7 @@ details:
   agency_types: [gendarmerie]
   case_stage: sentenced
   environment: [indoor]
+  products: [{product: flower, kg: 3}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
@@ -35,6 +36,7 @@ data_sources:
   details.agency_types: [2, 1, 3]
   details.case_stage: [3, 2]
   details.environment: [1, 2]
+  details.products: [2, 1, 3]
   details.sentence_types: [3, 2]
   details.setting: [3, 2]
   figures.kg_seized: [2, 1, 3]

@@ -36,6 +36,7 @@ data_sources:
   details.products: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 443587ffe603136289eb1583cf0474f9

@@ -35,13 +35,16 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   force: shots-fired
+  products: [{product: flower, kg: 29}]
   setting: [vehicle, mail]
 data_sources:
   details.activity: [1, 3, 4, 5, 2]
   details.agencies: [4, 5]
   details.agency_types: [4, 5]
   details.force: [2, 4, 5]
+  details.products: [2, 3, 4, 5, 1]
   details.setting: [2, 4, 3, 5, 1]
+  figures.deaths: [2, 4, 5, 3]
   figures.kg_seized: [2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

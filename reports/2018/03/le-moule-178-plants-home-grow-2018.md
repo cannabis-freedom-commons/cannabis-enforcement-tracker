@@ -19,12 +19,14 @@ details:
   agency_types: [gendarmerie, police]
   case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
 status: verified

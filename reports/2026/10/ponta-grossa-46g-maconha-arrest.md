@@ -22,14 +22,18 @@ media:
     publisher: aRede
     caption: 'Lead photo on the source page for this seizure report. Photo: PM'
 details:
+  activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9e607f1acbfde25202fef905018b574

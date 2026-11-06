@@ -31,10 +31,12 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [shop]
 data_sources:
   details.agency_types: [2, 3, 4, 5, 1]
   details.case_stage: [2, 3, 4, 5, 1]
   details.products: [1, 3, 4, 5]
+  details.setting: [1, 5]
   figures.arrested: [2, 3, 4, 5, 1]
 status: reported
 created_by_model: openai/gpt-6-luna#max

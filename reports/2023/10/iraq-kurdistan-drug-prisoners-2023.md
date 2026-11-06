@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: iraq-kurdistan-drug-prisoners-2023

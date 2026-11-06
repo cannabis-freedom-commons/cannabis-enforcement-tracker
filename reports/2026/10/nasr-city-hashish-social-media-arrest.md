@@ -23,12 +23,15 @@ media:
 details:
   activity: [sale]
   agency_types: [police]
+  case_stage: convicted
   products:
     - {product: hashish}
 data_sources:
   details.activity: [2, 4, 1, 3]
   details.agency_types: [2, 4, 1]
+  details.case_stage: [1, 4, 2, 3]
   details.products: [2, 4]
+  figures.arrested: [2, 4, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: b69653c6be9e39f042605ba59df941ab

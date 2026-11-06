@@ -18,6 +18,7 @@ details:
   agencies: [Albi anti-crime brigade (BAC)]
   agency_types: [police, court]
   activity: [sale, trafficking]
+  products: [{product: flower}]
   setting: [vehicle, street]
   case_stage: charged
   force: [none-reported]
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.force: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

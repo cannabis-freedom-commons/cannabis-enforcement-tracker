@@ -17,9 +17,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  products: [{product: flower, kg: 22}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

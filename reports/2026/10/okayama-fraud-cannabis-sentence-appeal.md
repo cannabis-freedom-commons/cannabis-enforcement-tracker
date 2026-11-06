@@ -22,12 +22,14 @@ details:
   activity: [possession]
   agency_types: [prosecutor]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.charged: [1]

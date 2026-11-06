@@ -36,6 +36,7 @@ data_sources:
   details.setting: [1, 2]
   figures.fine: [1, 2]
   figures.prison: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [kardzhali, sentence]

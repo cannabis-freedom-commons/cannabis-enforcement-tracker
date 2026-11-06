@@ -32,6 +32,7 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 tags: [montevideo, pcc, sicilia]
 open_questions:

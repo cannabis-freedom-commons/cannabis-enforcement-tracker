@@ -26,6 +26,7 @@ details:
   agencies: [Isle of Man Constabulary]
   agency_types: [police]
   activity: [smuggling, possession, money]
+  products: [{product: flower, kg: 14.4475}]
   setting: [vehicle, home]
   charges: [producing cannabis to the Isle of Man, possession of cannabis with intent to supply, possession of criminal property]
   case_stage: sentenced
@@ -38,6 +39,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.charges: [2]
+  details.products: [1, 2, 3]
   details.sentence_types: [2]
   details.setting: [1]
   figures.arrested: [1]

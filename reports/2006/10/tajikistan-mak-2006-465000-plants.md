@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  products: [{product: flower, kg: 235}]
   setting: [forest]
   environment: [wild]
 data_sources:
@@ -25,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]

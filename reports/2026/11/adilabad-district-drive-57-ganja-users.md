@@ -20,12 +20,14 @@ details:
     - {product: flower}
   date_precision: approximate
   region: Telangana
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.v6velugu.com/adilabad-police-special-drive-on-gangaji-ganges-details-here

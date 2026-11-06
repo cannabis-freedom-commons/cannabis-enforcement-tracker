@@ -29,6 +29,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [2]
   details.setting: [1, 2, 3, 4]
+  figures.charged: [2, 3, 4, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fb6f00e7c878f80b035faaa2a849db59

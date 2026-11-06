@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 3]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.charged: [1, 3]
   figures.fine: [1, 2, 3, 4]
   figures.prison: [1, 3, 4]
 status: verified

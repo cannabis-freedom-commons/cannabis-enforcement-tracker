@@ -22,10 +22,12 @@ details:
   activity: [smuggling]
   agency_types: [anti-narcotics, police]
   environment: [indoor]
+  products: [{product: flower, kg: 1.896}]
 data_sources:
   details.activity: [1, 7, 9, 10, 2, 3]
   details.agency_types: [1, 3, 7, 10, 12, 2]
   details.environment: [1, 3, 4, 6, 7, 8]
+  details.products: [1, 7, 9, 10, 2, 3]
   figures.arrested: [1, 3, 4, 6, 7, 8]
   figures.kg_seized: [1, 3, 4, 6, 7, 8]
   figures.value: [2, 3, 7, 10, 11, 12]

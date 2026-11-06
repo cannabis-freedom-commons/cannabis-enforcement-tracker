@@ -16,10 +16,12 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: plants}]
+  setting: [field]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: madagascar-tsaratanana-plantation-2024
 tags:

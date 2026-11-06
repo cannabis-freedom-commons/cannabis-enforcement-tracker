@@ -25,11 +25,15 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 24950}]
+  setting: [field]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified

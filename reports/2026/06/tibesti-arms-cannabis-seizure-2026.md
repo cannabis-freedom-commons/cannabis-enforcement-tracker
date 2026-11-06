@@ -12,8 +12,10 @@ summary: >-
   Security forces in Chad's Tibesti Province presented seized arms, cannabis, adulterated alcohol and other banned goods to the press after a meeting chaired by Delegate-General Alifa Weddeye. Weddeye praised the forces and urged vigilance, while local people welcomed the results against insecurity.
 details:
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/tchad-saisie-darmes-et-de-drogues-au-tibesti-un-pas-vers-la-securite/

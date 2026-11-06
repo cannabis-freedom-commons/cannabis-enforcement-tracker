@@ -26,6 +26,7 @@ details:
   agencies: [Isle of Man Constabulary]
   agency_types: [police]
   activity: [possession, sale]
+  products: [{product: flower, kg: 0.282}]
   setting: [home]
   charges: [possession with intent to supply cocaine, possession with intent to supply cannabis, possession of criminal cash]
   case_stage: sentenced
@@ -38,6 +39,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [1]
+  details.products: [2, 1]
   details.sentence_types: [2]
   details.setting: [1]
   figures.arrested: [1]

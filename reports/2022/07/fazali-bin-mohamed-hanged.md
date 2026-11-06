@@ -22,12 +22,14 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: executed
+  products: [{product: flower, kg: 1.8388}]
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 2]
+  details.products: [3, 2, 1]
   details.setting: [1, 2]
 status: verified
 tags: [cnb, mandatory-death-penalty, sims-drive]

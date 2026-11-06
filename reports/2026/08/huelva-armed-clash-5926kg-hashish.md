@@ -25,6 +25,7 @@ details:
   case_stage: investigation
   force: shots-fired
   products: [{product: hashish, kg: 5926}]
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 sources:

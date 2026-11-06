@@ -21,6 +21,7 @@ details:
   activity: [smuggling]
   agencies: [gb-nca, gb-border-force]
   agency_types: [anti-narcotics, border-guard]
+  products: [{product: flower, kg: 408}]
   setting: [port]
   charges: [conspiracy to evade the prohibition on importation of a controlled class B drug (cannabis)]
   case_stage: sentenced
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
   figures.cash: [1]

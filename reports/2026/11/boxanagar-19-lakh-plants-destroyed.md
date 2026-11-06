@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [in-bsf, Tripura Police, Tripura State Rifles]
   agency_types: [police, border-guard]
+  case_stage: investigation
   products:
     - {product: plants, plants: 1900000}
   activity: [cultivation]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [2]
   figures.plants_destroyed: [2]

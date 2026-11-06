@@ -21,11 +21,13 @@ created_by_model: spacexai/grok-4.7
 details:
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.prison: [1]

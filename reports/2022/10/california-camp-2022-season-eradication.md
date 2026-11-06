@@ -23,12 +23,14 @@ details:
   activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 90718}, {product: plants, plants: 973984}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

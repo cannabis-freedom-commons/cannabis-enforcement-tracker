@@ -12,9 +12,11 @@ summary: >-
   Düren municipal officers checked four youths at the Frankenstraße playground on Halloween night after finding a minor smoking a joint, seizing cannabis and ecstasy plus a blank-firing pistol and fireworks. Police took over the youths for criminal review, while officers separately shut a loud party in Nord-Düren after about 25 to 30 guests left.
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [2, 1]
+  details.products: [1, 2]
   details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

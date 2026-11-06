@@ -15,9 +15,13 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  case_stage: sentenced
+  products: [{product: flower}]
   setting: [airport]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 cfi_id: cambodia-cannabis-airport-sentence-2026

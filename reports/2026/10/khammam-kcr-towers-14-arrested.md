@@ -27,11 +27,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [shop]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 4, 3, 1, 5, 6]
   details.products: [1, 2, 3, 5]
+  details.setting: [2, 3, 1]
   figures.arrested: [2, 3, 1, 5, 6, 4]
   figures.kg_seized: [2, 4, 3, 1, 5, 6]
 status: reported

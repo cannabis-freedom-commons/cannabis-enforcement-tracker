@@ -20,11 +20,15 @@ created_by_model: unknown
 details:
   agencies: [us-fbi]
   agency_types: [police]
+  case_stage: charged
   products: [{product: flower}]
+  setting: [shop]
 data_sources:
   details.agencies: [1, 2, 3, 5, 6]
   details.agency_types: [1, 2, 3, 5, 6]
+  details.case_stage: [1, 2, 4, 5, 6, 3]
   details.products: [1, 2, 3, 4, 6, 5]
+  details.setting: [2, 3, 6, 5]
 status: verified
 tags: [rico, corruption, indictment]
 sources:

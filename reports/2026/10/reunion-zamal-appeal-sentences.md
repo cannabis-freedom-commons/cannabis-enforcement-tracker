@@ -21,6 +21,7 @@ media:
     caption: 'Gendarmes with a beached trafficking boat at Saint-Benoît. Photo: Emmanuel Grondin via Le Quotidien'
 details:
   activity: [trafficking]
+  agency_types: [prosecutor]
   case_stage: sentenced
   products: [{product: flower}]
   route: {from: [re], to: [mu]}
@@ -28,6 +29,7 @@ details:
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.route: [1]

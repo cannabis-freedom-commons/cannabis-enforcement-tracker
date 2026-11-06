@@ -32,6 +32,7 @@ data_sources:
   details.products: [3, 2]
   details.sentence_types: [3, 1, 2]
   details.setting: [2, 3, 1]
+  figures.charged: [1, 2, 3]
   figures.plants_destroyed: [2, 3]
   figures.prison: [3]
 status: verified

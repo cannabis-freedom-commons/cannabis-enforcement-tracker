@@ -25,13 +25,16 @@ details:
   agency_types: [police]
   activity: [sale]
   case_stage: executed
+  products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [3]
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
   details.case_stage: [2, 3, 4, 5, 1]
+  details.products: [1, 4, 2, 3, 5]
   details.setting: [3]
+  figures.charged: [1, 4, 2, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a7732fc726995465db176c465768cf38

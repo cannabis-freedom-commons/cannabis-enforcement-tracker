@@ -26,13 +26,17 @@ figures:
   arrested: 1
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: flower, kg: 0.13961}]
   sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2]

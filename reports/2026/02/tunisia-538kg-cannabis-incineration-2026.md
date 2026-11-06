@@ -17,10 +17,12 @@ details:
   activity: [trafficking]
   agency_types: [anti-narcotics, prosecutor]
   case_stage: investigation
+  products: [{product: flower, kg: 538}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.products: [1]
   figures.kg_seized: [1]
 media:
   - kind: photo

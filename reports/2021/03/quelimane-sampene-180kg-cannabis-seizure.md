@@ -15,9 +15,11 @@ figures:
   kg_seized: 180
 details:
   activity: [trafficking]
+  products: [{product: flower, kg: 180}]
   setting: [home, building]
 data_sources:
   details.activity: [2, 3, 1]
+  details.products: [3, 2, 1]
   details.setting: [3, 2, 1]
   figures.kg_seized: [3, 2]
 status: verified

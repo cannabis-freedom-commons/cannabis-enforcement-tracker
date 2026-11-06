@@ -25,6 +25,7 @@ details:
   activity: [trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home, prison]
@@ -32,6 +33,7 @@ data_sources:
   details.activity: [1, 4, 5, 6, 7]
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 5, 7, 3]
   details.products: [1, 4, 5, 6]
   details.setting: [1, 5, 7, 3, 6, 2]
   figures.kg_seized: [1, 4, 5, 6, 7]

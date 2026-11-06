@@ -20,11 +20,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [customs, coast-guard, police, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 1440}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 3, 2]
   figures.arrested: [2, 1]

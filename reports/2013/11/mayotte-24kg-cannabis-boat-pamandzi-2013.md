@@ -17,9 +17,15 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [gendarmerie, police, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 24}]
+  setting: [vehicle]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
+  details.products: [2, 3, 1]
+  details.setting: [2, 3, 1]
   figures.arrested: [2, 3, 1]
   figures.kg_seized: [2, 3, 1]
 status: verified

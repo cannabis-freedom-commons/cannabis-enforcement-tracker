@@ -16,11 +16,13 @@ details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 271.1}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2, 4, 5]
+  details.products: [1, 2, 4, 5]
   details.setting: [1, 3, 2, 4, 5]
   figures.kg_seized: [1]
 media:

@@ -12,8 +12,10 @@ summary: >-
   Gwent Police Special officers seized a quantity of cannabis during a stop search in Newport city centre. The search was carried out under Section 23 of the Misuse of Drugs Act during proactive patrols.
 details:
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.southwalesargus.co.uk/news/26698581.cannabis-seized-newport-city-centre-patrols/

@@ -39,12 +39,14 @@ details:
   agencies: [gb-nca]
   agency_types: [police]
   case_stage: sentenced
+  products: [{product: flower, kg: 2500}]
   sentence_types: [prison]
   setting: [building, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]

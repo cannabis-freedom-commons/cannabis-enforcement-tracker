@@ -31,6 +31,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.hectares: [1]
 status: disputed
 tags: [hemp-dispute, kern-county, arvin]
 open_questions:

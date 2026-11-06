@@ -11,10 +11,12 @@ title: Students arrested for marijuana at Morne Fortune college
 summary: >-
   Police arrested students including the son of a former minister for marijuana possession on the Sir Arthur Lewis Community College compound at Morne Fortune. Police withheld names because those held were schoolchildren, while the principal said drug finds are referred to police for charging decisions.
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

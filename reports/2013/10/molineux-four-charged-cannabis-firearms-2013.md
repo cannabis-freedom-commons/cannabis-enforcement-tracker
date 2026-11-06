@@ -21,6 +21,7 @@ details:
   charges: [possession of cannabis, possession of cannabis with intent to supply]
   case_stage: charged
   date_precision: exact
+  products: [{product: flower}]
   region: Saint Kitts
   setting: [street]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

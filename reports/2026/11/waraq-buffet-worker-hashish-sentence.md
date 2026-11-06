@@ -20,12 +20,14 @@ figures:
     amount: 10000
     currency: EGP
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
+  details.activity: [1, 2, 4, 3]
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 4, 2]
   details.products: [1, 2, 3, 4]

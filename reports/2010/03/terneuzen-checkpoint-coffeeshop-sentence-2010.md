@@ -24,10 +24,14 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 200}]
   setting: [shop]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.fine: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]

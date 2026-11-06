@@ -24,12 +24,15 @@ details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: charged
+  products: [{product: flower, kg: 17.92}]
   setting: [airport]
 data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [1, 3]
+  details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.charged: [1, 3]
   figures.kg_seized: [2, 3, 1]
   figures.value: [2, 3, 1]
 status: verified

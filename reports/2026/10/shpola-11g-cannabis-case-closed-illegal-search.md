@@ -22,12 +22,14 @@ details:
   activity: [cultivation, possession]
   agency_types: [court]
   case_stage: acquitted
+  products: [{product: flower, kg: 0.0116}]
   sentence_types: [fine]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
   figures.fine: [1, 2]

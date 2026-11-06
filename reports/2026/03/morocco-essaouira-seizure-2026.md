@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   agencies: [ma-dgsn]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: morocco-essaouira-seizure-2026
 sources:

@@ -20,11 +20,15 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: flower, kg: 0.13}]
+  setting: [home]
 data_sources:
   details.activity: [2, 1, 4, 5, 3]
   details.agencies: [1, 2, 4, 5]
   details.agency_types: [1, 2, 4, 5]
   details.case_stage: [2, 1, 4, 5, 3]
+  details.products: [2, 4, 5, 1, 3]
+  details.setting: [2, 4, 5, 1, 3]
   figures.arrested: [2, 1, 4, 5, 3]
   figures.kg_seized: [2, 4, 5, 1, 3]
 status: verified

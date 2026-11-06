@@ -18,12 +18,14 @@ figures:
   plants_destroyed: 13
 details:
   activity: [cultivation, possession]
+  agency_types: [police]
   case_stage: charged
   setting: [home]
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]

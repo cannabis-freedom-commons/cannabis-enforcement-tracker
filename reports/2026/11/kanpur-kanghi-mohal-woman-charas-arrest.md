@@ -53,6 +53,7 @@ data_sources:
   details.route: [9]
   details.setting: [1, 3, 6, 4, 2, 5]
   figures.arrested: [1, 3, 6, 4, 2]
+  figures.value: [3, 5, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6aea84dd41624fb3c7ad9b8807c8dab

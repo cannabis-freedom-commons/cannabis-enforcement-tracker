@@ -15,11 +15,13 @@ figures:
   kg_seized: 816.47
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 816.47}, {product: oil}]
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1, 4, 2]
+  details.agency_types: [1, 3, 2]
   details.case_stage: [1, 4, 3, 2]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 3, 1, 4]

@@ -23,11 +23,13 @@ details:
   agencies: [nz-police]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower, kg: 77}]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

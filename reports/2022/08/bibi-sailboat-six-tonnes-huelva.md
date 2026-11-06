@@ -36,6 +36,7 @@ details:
   products:
     - {product: hashish}
   route: {from: [ma], to: [es]}
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -43,6 +44,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [hashish, huelva, sailing-boat, atlantic-route]

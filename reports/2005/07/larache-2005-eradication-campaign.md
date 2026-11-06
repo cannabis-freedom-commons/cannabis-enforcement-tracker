@@ -18,8 +18,12 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [1, 3, 2]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
   figures.hectares: [1, 3, 2]
 status: verified
 tags: [larache, eradication-campaign]

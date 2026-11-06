@@ -21,9 +21,11 @@ created_by_model: meta/muse-spark
 details:
   agency_types: [customs]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.value: [1]
 status: verified

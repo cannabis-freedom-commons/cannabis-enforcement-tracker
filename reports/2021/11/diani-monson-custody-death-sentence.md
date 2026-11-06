@@ -37,6 +37,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.deaths: [1, 2]
 status: verified
 tags: [diani, custody-death, bhang]
 media:

@@ -20,10 +20,12 @@ created_by_model: xai/grok-4.7
 details:
   activity: [trafficking]
   agency_types: [prosecutor]
+  products: [{product: flower, kg: 2}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified

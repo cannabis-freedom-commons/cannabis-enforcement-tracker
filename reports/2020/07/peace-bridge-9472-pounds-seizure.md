@@ -29,12 +29,14 @@ cover:
   media_url: https://www.freightwaves.com/wp-content/uploads/2020/07/peacebridgebordertruck0714.jpeg
 created_by_model: meta/muse-spark
 details:
+  activity: [possession]
   agencies: [us-cbp]
   agency_types: [customs]
   case_stage: charged
   products: [{product: flower, kg: 4296.43}]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 2]

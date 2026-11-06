@@ -21,9 +21,11 @@ figures:
 details:
   agency_types: [police]
   products: [{product: plants, plants: 3000}]
+  setting: [field]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
   figures.plants_destroyed: [1]
 media:
   - kind: photo

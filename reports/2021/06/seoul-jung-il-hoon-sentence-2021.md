@@ -23,6 +23,7 @@ figures:
     amount: 133000000
     currency: KRW
 details:
+  activity: [use]
   agency_types: [prosecutor, court]
   case_stage: sentenced
   products:
@@ -30,12 +31,14 @@ details:
   sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.fine: [1, 2]
   figures.kg_seized: [1, 2]
   figures.prison: [1, 2]

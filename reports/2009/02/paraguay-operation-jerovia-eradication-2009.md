@@ -19,11 +19,15 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
   agency_types: [military, police]
+  case_stage: investigation
   products: [{product: flower, kg: 8900}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
   figures.hectares: [1]
   figures.kg_seized: [1]
 status: verified

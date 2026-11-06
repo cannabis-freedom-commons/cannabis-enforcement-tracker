@@ -32,6 +32,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [greenfield-park, hydroponic, wetherill-park]
 open_questions:

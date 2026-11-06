@@ -30,6 +30,7 @@ data_sources:
   details.environment: [1, 5, 8]
   details.products: [1, 5, 8, 2, 3, 11]
   details.setting: [1, 3, 4, 5, 6, 7, 8, 9, 10, 13]
+  figures.arrested: [1, 3, 4, 5, 6, 7]
   figures.kg_seized: [1, 5, 8, 2, 3, 11]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -18,10 +18,12 @@ details:
   activity: [possession]
   agency_types: [court]
   case_stage: sentenced
+  products: [{product: flower, kg: 16}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.kg_seized: [1]
   figures.prison: [1]
 media:

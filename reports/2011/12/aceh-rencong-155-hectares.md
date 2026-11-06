@@ -20,12 +20,14 @@ figures:
   plants_destroyed: 1500000
   hectares: 155
 details:
+  activity: [cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: plants, plants: 1500000}]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

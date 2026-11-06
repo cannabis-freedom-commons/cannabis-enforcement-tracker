@@ -21,11 +21,13 @@ figures:
     currency: USD
 details:
   activity: [trafficking]
+  agency_types: [police, court]
   case_stage: charged
   products: [{product: flower, kg: 69.28}]
   setting: [vehicle]
 data_sources:
   details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.products: [1, 2, 3]
   details.setting: [2]

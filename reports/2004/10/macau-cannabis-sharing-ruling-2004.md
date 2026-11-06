@@ -17,10 +17,12 @@ details:
   activity: [trafficking]
   agency_types: [court]
   case_stage: convicted
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: macau-cannabis-sharing-ruling-2004
 tags:

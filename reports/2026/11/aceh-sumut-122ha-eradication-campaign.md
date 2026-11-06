@@ -60,6 +60,7 @@ data_sources:
   details.sentence_types: [21]
   details.setting: [27, 28, 29, 30, 1, 4]
   figures.arrested: [1, 2, 3, 8, 14, 15]
+  figures.charged: [15, 17, 18, 23, 21, 26]
   figures.hectares: [1, 13, 22, 24, 27, 29]
   figures.plants_destroyed: [1, 3, 4, 6, 7, 9]
 status: reported

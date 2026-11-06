@@ -19,6 +19,7 @@ figures:
   charged: 5
   kg_seized: 3000
 details:
+  activity: [possession]
   agencies: [au-afp]
   agency_types: [police]
   case_stage: charged
@@ -26,6 +27,7 @@ details:
     - {product: hashish}
   setting: [port, mail, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

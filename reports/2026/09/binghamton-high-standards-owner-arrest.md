@@ -15,10 +15,14 @@ figures:
   arrested: 1
   charged: 1
 details:
+  agency_types: [police]
   case_stage: charged
+  products: [{product: flower}]
   setting: [building]
 data_sources:
+  details.agency_types: [2, 3, 1, 4]
   details.case_stage: [1, 4]
+  details.products: [1, 4, 2, 3]
   details.setting: [1, 4, 2, 3]
   figures.arrested: [1, 4]
   figures.charged: [1, 4]

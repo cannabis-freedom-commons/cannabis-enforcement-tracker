@@ -17,10 +17,12 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [military]
   case_stage: investigation
+  products: [{product: flower, kg: 1049}]
 data_sources:
   details.activity: [3, 4, 1, 2]
   details.agency_types: [3, 4, 1, 2]
   details.case_stage: [4, 1, 3]
+  details.products: [3, 4]
   figures.kg_seized: [3]
   figures.vehicles: [3]
 media:
