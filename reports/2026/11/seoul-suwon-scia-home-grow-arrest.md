@@ -174,6 +174,11 @@ sources:
     publisher: 아이뉴스24
     date: 2026-11-05
     language: ko
+  - title: 도심 주택가에서 3,700명분 대마 재배한 20대들 구속송치
+    url: https://m.ytn.co.kr/news_view.php?key=202611051616136563&s_mcd=0103
+    publisher: YTN
+    date: 2026-11-05
+    language: ko
 open_questions:
   - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
   - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
@@ -223,6 +228,10 @@ open_questions:
   - The page's four listed images carry no caption or credit, so it cannot be established that they show the grow site or seizure; the event photo already listed comes from the page's own video still.
   - 'Left out, as its quotation was not found in 연합뉴스: The narcotics joint investigation division arrested B on 28 October 2026 and A on 30 October 2026, the first time the dates of the two arrests were published.'
   - The article gives no separate date for the events at the building and does not say whether the men had sold the cannabis or what charge prosecutors filed.
+  - The submitted page misprints the seizure value as 1억 7000억 원; the report uses 170 million won (1억 7천만 원) supported by the YTN account and the report's earlier Korean coverage.
+  - The submitted amp URL carries the same article ID as the canonical Seoul Economic Daily URL already cited in the report, so it is the same account rather than an independent outlet; corroboration comes from the preserved YTN account.
+  - The YTN account also describes a separate 3 kg liquid-methamphetamine smuggling arrest from Laos, a different event left out of this cannabis account.
+  - The only listed image for the submitted page shows Suwon office staff at work, not the grow, plants or seizure, so no media entry is added.
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -263,11 +272,11 @@ District Prosecutors' Office was dissolved. [@1,4] The division brings together 
 people from the investigation agency, the police, the Immigration and Foreign
 Policy Headquarters and customs. [@1,7]
 
-Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6,16,20] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,25,27,28,29] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15,17,18,19,20,21,22,26,27]
+Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6,16,20] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15,17,18,19,20,21,22,26,27,31]
 
 On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13,14]
 
-Investigators seized 33 cannabis plants still being grown at the rented fourth-floor site, a figure not published in the earlier coverage of the case. [@16,17,18,19,20,21,22,25,26,27,28,29] The Suwon Serious Crime Investigation Agency announced on 5 November 2026 that it had sent both men to prosecutors in custody on suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21,22,23,25,26,27,29,30] The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up. [@16,19,20,22,25,26,28] An official of the division said the case showed that cannabis-growing facilities had spread to the middle of Seoul and that the unit would keep working with other agencies against drug crime. [@16,18,20,21,25,26,29,30] The division is the only dedicated joint narcotics investigation unit among the regional Serious Crime Investigation Agency offices, created to succeed the former Suwon District Prosecutors' Office drug investigation headquarters. [@16,20] It brings together 43 people from the investigation agency, the police, the Immigration and Foreign Policy Headquarters and the customs service. [@16,20]
+Investigators seized 33 cannabis plants still being grown at the rented fourth-floor site, a figure not published in the earlier coverage of the case. [@16,17,18,19,20,21,22,24,25,26,27,28,29] The Suwon Serious Crime Investigation Agency announced on 5 November 2026 that it had sent both men to prosecutors in custody on suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21,22,23,24,25,26,27,29,30] The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up. [@16,19,20,22,25,26,28] An official of the division said the case showed that cannabis-growing facilities had spread to the middle of Seoul and that the unit would keep working with other agencies against drug crime. [@16,18,20,21,25,26,29,30] The division is the only dedicated joint narcotics investigation unit among the regional Serious Crime Investigation Agency offices, created to succeed the former Suwon District Prosecutors' Office drug investigation headquarters. [@16,20] It brings together 43 people from the investigation agency, the police, the Immigration and Foreign Policy Headquarters and the customs service. [@16,20]
 
 Both men were 29 years old. [@17,19,23] The two were friends. [@17,19,22,24,26]
 
