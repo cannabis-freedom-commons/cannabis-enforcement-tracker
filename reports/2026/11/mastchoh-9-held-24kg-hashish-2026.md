@@ -54,6 +54,10 @@ sources:
     publisher: Asia-Plus
     date: 2026-11-05
     language: ru
+  - title: Nine Arrested In Tajikistan Over Alleged Drug Smuggling From Afghanistan
+    url: https://www.afintl.com/en/202611068900
+    publisher: Afghanistan International
+    date: 2026-11-06
 open_questions:
   - The article gives no separate date for the detention or seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The destination country for the alleged onward smuggling was not named.
@@ -66,7 +70,7 @@ open_questions:
 ---
 
 Tajikistan's Interior Ministry reported the detention of nine people on
-suspicion of smuggling drugs abroad. [@1] The ministry says all nine belonged to
+suspicion of smuggling drugs abroad. [@1,2] The ministry says all nine belonged to
 one drug group that had moved more than half a tonne of drugs abroad over the
 past year. [@1] The suspects were named as 44-year-old Muzafar Azamov,
 40-year-old Farkhod Nordzhigitov, 44-year-old Abdushukur Dzhuraboev and
@@ -90,4 +94,3 @@ trafficking under part 4 of Article 200 of Tajikistan's Criminal Code and they
 were remanded in custody. [@1] That article carries 12 to 20 years'
 imprisonment. [@1] The positions of the detainees and their relatives on the
 case are not known. [@1]
-
