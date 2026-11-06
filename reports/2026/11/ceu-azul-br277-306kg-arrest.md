@@ -46,6 +46,11 @@ sources:
     publisher: Portal Cantagalo
     date: 2026-11-05
     language: pt
+  - title: Motorista é preso com 306 kg de maconha em Céu Azul
+    url: https://pretonobranco.com.br/noticia/13084/motorista-e-preso-com-306-kg-de-maconha-em-ceu-azul
+    publisher: Preto no Branco
+    date: 2026-11-05
+    language: pt
 open_questions:
   - Tarobá describes the arrest as happening at dawn on Thursday 5 November while the PRF accounts time it at about 23:40 on Wednesday 4 November; 4 November is used as the incident date.
   - The driver was reported only as a 28-year-old man with no name published.
@@ -53,17 +58,18 @@ open_questions:
   - Capulho is reported as a type of marijuana in the bag in the boot and is included in the 306.48 kg total.
   - The Tarobá lead image has no caption or credit establishing that it shows this seizure, so no media entry is made for it.
   - The RRMAIS page carries a PRF-credited photo of the seizure that appears to republish the same agency handout already linked from Portal Cantagalo, so it is not listed separately.
+  - Preto no Branco does not say where the car came from or where it was going, unlike the reports already cited, which say it had left Foz Iguaçu heading to Curitiba.
 ---
 
 Federal Highway Police officers stopped a Honda Civic on BR-277 in Céu Azul in
-western Paraná at about 23:40 on the night of 4 November 2026. [@2] The driver
+western Paraná at about 23:40 on the night of 4 November 2026. [@2,4] The driver
 was a 28-year-old man. [@1]
 
 During the inspection officers found several bales of marijuana inside the car,
 whose rear seats had been removed to enlarge the space for the load. [@2]
 Officers also found more bales in the boot plus a bag holding capulho marijuana,
 and weighing set the total at 296.72 kg of pressed marijuana and 9.76 kg of
-capulho. [@3] The car had left Foz do Iguaçu and was heading toward Curitiba.
+capulho. [@3,4] The car had left Foz do Iguaçu and was heading toward Curitiba.
 [@1]
 
 Officers found the car's identifying signs irregular, and checks found no theft
@@ -71,5 +77,4 @@ or robbery record for the original vehicle. [@2] When questioned the driver did
 not say where the drugs were going or what he would be paid, telling officers
 only that he would receive delivery instructions during the journey. [@1] The
 man was arrested for drug trafficking and altering a vehicle identifier and was
-taken with the drugs and the car to the Civil Police station in Cascavel. [@2]
-
+taken with the drugs and the car to the Civil Police station in Cascavel. [@2,4]
