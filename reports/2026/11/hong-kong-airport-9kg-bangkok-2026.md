@@ -48,6 +48,11 @@ sources:
     publisher: 星島頭條
     date: 2026-11-05
     language: zh
+  - title: 手提行李藏190萬元大麻花 24歲內地男曼谷抵港被捕
+    url: https://www.singtao.ca/7675883/2026-11-05/news-%E6%89%8B%E6%8F%90%E8%A1%8C%E6%9D%8E%E8%97%8F190%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1
+    publisher: 星島加拿大 星島日報
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The reported 9 kg weight and HK$1.9 million value are stated as approximations.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -56,12 +61,12 @@ open_questions:
 ---
 
 Hong Kong Customs arrested a 24-year-old mainland male traveller at Hong Kong
-International Airport after finding suspected cannabis in his hand luggage. [@1,2]
+International Airport after finding suspected cannabis in his hand luggage. [@1,2,4]
 The traveller had flown in from Bangkok, Thailand, on the night of 4 November
-2026. [@1,2] Officers detected the luggage-concealed trafficking case at the
-airport on 5 November 2026. [@1] The arrested man has been charged with one
-count of trafficking in a dangerous drug. [@2] His case is due for mention at
-West Kowloon Magistrates' Courts on 6 November 2026. [@1,2]
+2026. [@1,2,4] Officers detected the luggage-concealed trafficking case at the
+airport on 5 November 2026. [@1,4] The arrested man has been charged with one
+count of trafficking in a dangerous drug. [@2,4] His case is due for mention at
+West Kowloon Magistrates' Courts on 6 November 2026. [@1,2,4]
 
 Officers seized about 9 kg of suspected cannabis buds, described as 大麻花, in the
 case. [@3] Customs put the estimated market value of the seized buds at about
