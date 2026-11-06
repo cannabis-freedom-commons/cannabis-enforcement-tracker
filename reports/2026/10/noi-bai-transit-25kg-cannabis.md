@@ -70,6 +70,11 @@ sources:
     publisher: Vietnam.vn
     date: 2026-11-06
     language: fr
+  - title: เจ้าหน้าที่ค้นพบยาสูบแบบแท่งที่ผ่านการให้ความร้อนแล้วกว่า 400 แท่ง และกัญชา 25.4 กิโลกรัม ในกระเป๋าเดินทางที่ฮานอย
+    url: https://www.vietnam.vn/th/phat-hien-hon-400-cay-thuoc-la-nung-nong-va-25-4kg-can-sa-trong-hanh-ly-o-ha-noi
+    publisher: Vietnam.vn (VietNamNet)
+    date: 2026-11-06
+    language: th
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -93,6 +98,9 @@ open_questions:
   - This account identifies the passenger only as Spanish and gives no name, itinerary origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
   - The same announcement reports a separate heated-tobacco seizure of more than 400 sticks, a different product left out of the cannabis report.
   - The page's only event photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is included.
+  - This Thai page gives no name for the passenger and no account of the €4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts that earlier account.
+  - The page names flight VN922 as the incoming leg but gives no origin airport for that flight.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -117,3 +125,5 @@ The herb in the two packages was of flowers, leaves, stems and buds, and the Cus
 The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6]
+
+The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
