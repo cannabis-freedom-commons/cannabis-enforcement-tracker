@@ -68,6 +68,11 @@ sources:
     publisher: El País
     date: 2026-11-05
     language: es
+  - title: Armas, animales mutilados y 15 detenidos en el desmantelamiento de un punto de venta de droga en Castellón
+    url: https://okdiario.com/comunidad-valenciana/armas-animales-mutilados-15-detenidos-desmantelamiento-punto-venta-droga-castellon-20701884
+    publisher: OKDiario
+    date: 2026-11-05
+    language: es
 open_questions:
   - No source gives a weight for the hashish or marijuana seized, so no cannabis quantity can be recorded.
   - The 100,000-euro figure covers jewellery, watches, phones and vehicles together, not the drugs, and no separate value was given for any substance.
@@ -78,20 +83,22 @@ open_questions:
   - The published photo is captioned only as a Guardia Civil search, without identifying which property, so it is linked but not used as a cover image.
   - La Razón gives no weight for the hashish or marijuana and no separate value for any substance.
   - The detainees' court appearance is reported only as being placed at the court's disposal; no custody ruling or charge sheet was published.
+  - OKDiario reports 100,000 euros in cash while El Pais and the existing report give more than 10,000 euros in cash; the existing figure is kept and the difference is noted.
+  - Neither the new OKDiario account nor the existing sources give a weight for the hashish or marijuana, so no cannabis quantity can be recorded.
 ---
 
 The Guardia Civil arrested 15 people in Benicarló, in Castellón province, and is
 investigating them for crimes against public health and membership of a criminal
-organisation. [@1,4,5] Officers carried out six searches in homes in Benicarló's old
+organisation. [@1,4,5,8] Officers carried out six searches in homes in Benicarló's old
 town, and dozens of Guardia Civil officers took part from judicial-police,
 investigation, riot-control, citizen-security, dog-handling,
-technological-investigation, nature-protection and air units. [@1] The clan ran
+technological-investigation, nature-protection and air units. [@1,8] The clan ran
 a network of connected sales points from different homes in the old town,
 managed by members of the same family. [@3,4,5]
 
 The searches found cocaine, heroin, hashish, marijuana and cristal, a street
 name for crystal methamphetamine, along with other drug derivatives, plus
-precision scales and packaging for preparing and distributing the drugs. [@1,4,5]
+precision scales and packaging for preparing and distributing the drugs. [@1,4,5,8]
 Officers seized six shotguns, several bladed weapons and abundant ammunition,
 plus more than 10,000 euros in cash and stamped official documents valued at
 over 1,500 euros. [@1,4,5] The operation also recovered jewellery, watches, mobile
@@ -100,13 +107,13 @@ phones and eight vehicles, goods the sources valued together at more than
 
 In two of the searched properties officers found about 180 fighting cocks, 48 of
 them mutilated, plus several finches and more than 40 hunting dogs, most of them
-without identification microchips. [@1,4,5] Two of the detainees are being
+without identification microchips. [@1,4,5,8] Two of the detainees are being
 investigated by Seprona, the Guardia Civil's nature-protection service, over
 suspected animal abuse, and officers also started administrative sanction
 proceedings. [@2,4,5]
 
 The detainees and the seized items were placed at the disposal of the Civil and
 Investigating Section, Seat 3, of the Vinaròs court, the court serving
-Benicarló. [@1,4,5]
+Benicarló. [@1,4,5,7]
 
 The operation exposed what the Guardia Civil called an especially serious situation involving the keeping and condition of numerous animals found in two of the searched properties. [@6] The detainees had been brought before the courts, El País reported. [@7]
