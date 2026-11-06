@@ -44,6 +44,10 @@ sources:
     url: https://www.yahoo.com/news/videos/ecpd-man-arrested-marijuana-firearm-184555712.html
     publisher: Yahoo News
     date: 2026-11-05
+  - title: 'ECPD: Man arrested after marijuana and firearm found during traffic stop - AOL'
+    url: https://www.aol.com/articles/ecpd-man-arrested-marijuana-firearm-135503000.html
+    publisher: AOL.com
+    date: 2026-11-04
 open_questions:
   - Only one accessible source for this event was found after searching in English.
   - The marijuana weight was reported only as about 1.1 pounds, not an exact laboratory weight, and is converted here to about 0.499 kg.
@@ -55,6 +59,7 @@ open_questions:
   - Its police handout photo is captioned only with a courtesy credit and is not shown to depict this seizure, so no media entry is added.
   - The WAVY video page repeats only the one-sentence police summary and gives no weight, charge list, bond or court appearance details.
   - The page's video player and thumbnail carry no caption establishing that they show this seizure, so no media entry is added.
+  - The AOL page is a syndication of WAVY's story, not an independent account, and it repeats the same police statement.
 media:
   - kind: video
     url: https://www.wavy.com/video/ecpd-man-arrested-after-marijuana-and-firearm-found-during-traffic-stop/12341627/
@@ -64,13 +69,13 @@ media:
 ---
 
 An officer stopped a vehicle around 4 p.m. Monday, Nov. 2, in the 700 block of
-Roanoke Avenue. [@1,2,3] Police identified the arrested man as Aram Krajekian of
+Roanoke Avenue. [@1,2,3,6] Police identified the arrested man as Aram Krajekian of
 Elizabeth City. [@1] He was 21 years old and faced drug and weapon charges after
 the traffic stop. [@1,5] A search of the vehicle turned up the firearm and
 marijuana. [@1]
 
 Police said officers found a concealed firearm and about 1.1 pounds (about 0.5
-kg) of marijuana during the traffic stop. [@1,2,3,4,5] Krajekian was arrested and
+kg) of marijuana during the traffic stop. [@1,2,3,4,5,6] Krajekian was arrested and
 charged with maintaining a vehicle for the use, storage or sale of a controlled
 substance. [@1,2] He was also charged with possession with intent to sell or
 deliver marijuana, possession of a Schedule VI controlled substance and
