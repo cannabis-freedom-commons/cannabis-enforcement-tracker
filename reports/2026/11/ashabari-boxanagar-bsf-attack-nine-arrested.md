@@ -50,6 +50,10 @@ sources:
     publisher: Navarashtra
     date: 2026-11-04
     language: mr
+  - title: 18 arrested in Tripura over attack on BSF personnel near Bangladesh border
+    url: https://telanganatoday.com/18-arrested-in-tripura-over-attack-on-bsf-personnel-near-bangladesh-border
+    publisher: Telangana Today
+    date: 2026-11-06
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -66,6 +70,9 @@ open_questions:
   - The new account describes the injured as three jawans including the company commander and is summarised as the commander plus three jawans, so the exact number of injured personnel remains unclear.
   - The new account says a pump-action gun was snatched, while the report says firearms were allegedly attempted to be snatched, so whether a weapon was taken or only an attempt occurred remains unclear.
   - The page's only image carries only the headline as its caption with no credit or event-specific detail, so it is not established to show this attack and no media entry is included.
+  - The article gives 18 arrests including three women, while the existing report records nine arrests and mentions an earlier account of ten, so the case count rose again after those publications.
+  - The article places Ashabari under Kalamchaura police station, while the existing report places it under Boxanagar; the same village appears to be meant.
+  - The eight new arrests are dated to Thursday night and early Friday morning, so the incident date is set to the 6 November publication date of this stage.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -95,3 +102,5 @@ the court. [@2]
 The attack occurred at about 9 a.m. on 2 November while BSF personnel were on duty patrolling the border. [@4] The nine detained comprised six men and three women. [@4] Two constables and an assistant commandant were seriously injured in the attack and taken to hospital. [@4,5] After initially fleeing, the group returned with others, tried to block the road, and snatched the personnel's weapons during the assault. [@4]
 
 The BSF complaint names 19 attackers, of whom ten had been arrested and nine remained fugitive with search operations and raids continuing. [@5] Police said the nine fugitives might cross the India-Bangladesh international border into Bangladesh, so Tripura police directed the BSF to maintain special vigilance on the border. [@5] BSF Tripura Frontier inspector general Princi Rani and Sepahijala superintendent Bijoy Debbarma visited the Ashabari border area on Tuesday with other officers and briefed chief minister Manik Saha. [@5] BSF, Tripura State Rifles and police held a joint flag march on Wednesday while tension continued in the area. [@5] BSF said its personnel showed restraint and did not use lethal weapons despite the attack. [@5]
+
+Police said the eight newly arrested people would be produced before a local court in Sepahijala district at the earliest. [@6] All 18 people arrested have been booked under the Narcotic Drugs and Psychotropic Substances Act, 1985, the Bharatiya Nyaya Sanhita, 2023, and the Prevention of Damage to Public Property Act, 1984. [@6] Chief Minister Manik Saha chaired a high-level meeting with senior security officials in Agartala on Thursday night to review the incident and the law and order situation, directing zero tolerance towards cross-border smuggling. [@6] One of the alleged attackers was injured in the incident. [@6] The attackers allegedly snatched a pump-action gun from one of the BSF personnel, not only attempted to do so. [@6]
