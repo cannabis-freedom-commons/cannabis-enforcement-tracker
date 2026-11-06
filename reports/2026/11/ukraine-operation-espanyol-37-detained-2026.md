@@ -114,6 +114,11 @@ sources:
     publisher: Преступности.НЕТ
     date: 2026-11-05
     language: uk
+  - title: 警方捣毁了向乌克兰输送毒品的国际贩毒渠道
+    url: https://ua.news/cn/ukraine/politsiia-likviduvala-mizhnarodni-kanali-postachannia-narkotikiv-do-ukrayini
+    publisher: UA.NEWS
+    date: 2026-11-05
+    language: zh
 open_questions:
   - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
   - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
@@ -147,6 +152,7 @@ open_questions:
   - The page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
   - The page gives no separable cannabis-only weight or valuation; the combined 67 kg and 90 million hryvnias cover all drugs and property together.
   - The page reproduces the Office of the Prosecutor General and National Police statements and is not an independent account.
+  - The UA.NEWS Chinese page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
 ---
 
 Ukrainian officers notified 39 people that they were suspected in a
@@ -159,14 +165,14 @@ most serious charge carries up to 12 years in prison with confiscation. [@2,6,10
 Investigators said cocaine and hashish came from Spain and Portugal, while
 cannabis came from the United States. [@2,3,4,5,6,8,12,13] The drugs were hidden in household
 appliances and moved across the border on international buses and in postal
-parcels. [@1,6,8,13] In Ukraine the drugs were sold through Telegram channels and a
-network of distributors. [@1,3,6,12,13] Officers carried out 141 searches and seized more
+parcels. [@1,6,8,13,14] In Ukraine the drugs were sold through Telegram channels and a
+network of distributors. [@1,3,6,12,13,14] Officers carried out 141 searches and seized more
 than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
 well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13] They
 also seized equipment for growing drug-containing plants, cars, equipment,
 weapons and ammunition, and cash in national and foreign currencies worth more
 than 3 million hryvnias. [@1,6,13] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13]
+drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14]
 
 The operation was conducted under the procedural guidance of prosecutors from
 the Office of the Prosecutor General and regional and district offices and
@@ -179,6 +185,6 @@ The seized drugs also included kratom, psilocybin mushrooms and confectionery co
 
 The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
 
-The National Police statement was coordinated by its drug-crime department, main investigation directorate, the Security Service of Ukraine and the Prosecutor General's Office. [@7] The second stage of the operation targeted and detained other figures who handled the sale of cocaine and cannabis in Ukraine. [@7] The 141 searches were backed by tactical response and special-purpose police units, with canine teams from regional police and Kyiv. [@7]
+The National Police statement was coordinated by its drug-crime department, main investigation directorate, the Security Service of Ukraine and the Prosecutor General's Office. [@7] The second stage of the operation targeted and detained other figures who handled the sale of cocaine and cannabis in Ukraine. [@7] The 141 searches were backed by tactical response and special-purpose police units, with canine teams from regional police and Kyiv. [@7,14]
 
 Ukraine's National Police detained all 37 under the custody provisions of the Criminal Procedure Code. [@10] Ukrinform reported that the question of notifying further suspects will be decided on the results of expert examinations. [@10]
