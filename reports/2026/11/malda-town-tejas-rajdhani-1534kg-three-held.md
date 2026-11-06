@@ -38,12 +38,19 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-05
     language: hi
+  - title: মালদা টাউনে তেজস রাজধানী এক্সপ্রেস থেকে সাড়ে ১৫ কেজি গাঁজা উদ্ধার, গ্রেফতার -৩ - Hindusthan Samachar Bangali
+    url: https://bengali.hindusthansamachar.in/Encyc/2026/11/5/GANJA-RECOVERED-ARRESTED-33-ER.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The article gives no separate date for the seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The report does not say where the ganja was brought from or where it was to be delivered.
   - Whether other people or a wider network were involved was not reported, and the seized phones and tickets were still to be examined.
   - No court outcome beyond the Malda Town GRP arrest was reported.
   - Only one accessible source for this event was found after searching in English and Hindi.
+  - The new account dates the train's arrival to 3 November and the NDPS arrests to 4 November, while the existing report uses the 5 November publication date as the incident date.
+  - The new account describes a joint RPF-GRP surveillance team, while the existing report describes an RPF stop followed by handover to the Malda Town GRP.
 ---
 
 Railway Protection Force personnel stopped two men and a woman carrying heavy
@@ -53,16 +60,17 @@ basis of a tip-off after train number 20501 reached Malda Town station. [@1]
 Officers searched the sacks and found 24 packets kept in plastic boxes, and a
 drug-detection kit confirmed the substance was ganja, the local name for
 cannabis. [@1] The three were identified as Nitish Kumar, aged 26, Khusho Bind,
-aged 43, and Gunjan Devi, aged 43. [@1] Searches attributed 5.745 kg of ganja to
+aged 43, and Gunjan Devi, aged 43. [@1,2] Searches attributed 5.745 kg of ganja to
 Nitish Kumar, 5.705 kg to Khusho Bind and 3.890 kg to Gunjan Devi. [@1] The
-total weight of ganja recovered from the three was 15.340 kg. [@1]
+total weight of ganja recovered from the three was 15.340 kg. [@1,2]
 
 Officers put the estimated value of the cannabis at 767,000 rupees (7.67 lakh
-rupees). [@1] The action took place on platform number 1 at Malda Town station.
-[@1] The Railway Protection Force team also seized two mobile phones and two
+rupees). [@1,2] The action took place on platform number 1 at Malda Town station.
+[@1,2] The Railway Protection Force team also seized two mobile phones and two
 rail tickets, whose examination may reveal further facts about the case. [@1]
 Woman constable Kanika Roy searched the woman accused. [@1] After completing the
 required legal formalities, the Malda Town Government Railway Police arrested
-all three and took over further investigation and legal action. [@1] The Tejas
+all three and took over further investigation and legal action. [@1,2] The Tejas
 Rajdhani Express runs via Malda and Bhagalpur to Anand Vihar Terminal. [@1]
 
+The Anand Vihar Terminal-Tejas Rajdhani Express (20501) reached platform 1 at Malda Town on 3 November. [@2] The three were arrested under the NDPS Act on 4 November. [@2] Eastern Railway public relations officer Shivram Majhi said surveillance on rail routes had been intensified to stop drug trafficking. [@2]
