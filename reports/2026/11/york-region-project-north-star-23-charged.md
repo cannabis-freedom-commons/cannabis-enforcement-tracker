@@ -121,6 +121,11 @@ sources:
     publisher: 搜狐网
     date: 2026-11-06
     language: zh
+  - title: 23人被控！大批华人涉$750万毒品大案 名单曝光
+    url: https://www.bcbay.com/news/2026/11/05/1043020.html
+    publisher: 温哥华港湾 (BCbay), 转载 NewmarketToday.ca
+    date: 2026-11-05
+    language: zh
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -174,46 +179,53 @@ open_questions:
   - The Sohu page gives no name for the wanted suspect, no plant count and no area for the London grow operation, and no total number of charges.
   - The page's single image is credited only to CityNews and carries no caption describing what it shows, so no media entry is added.
   - The page's investigation name is printed as roject North Star, apparently missing the P of Project; the existing report keeps the correct name.
+  - The BCbay page lists Burlington among the warrant locations but omits it from its summary of the accused's home cities, where it names Toronto, Markham, Vaughan, Milton, Burlington and Ailsa Craig; the existing report's home-city list is unchanged.
+  - The page renders 1,550 pounds as 1.550 pounds and converts it to about 703 kg, slightly below the report's 708.92 kg lower-bound conversion.
+  - The page is a Chinese-language reprint credited to NewmarketToday.ca reproducing the York Regional Police release, so it does not resolve whether the wanted man is counted among the 23 charged.
+  - The page's only listed image is the outlet's QR code, not a photo of the operation, so no media entry is added.
+  - The page gives no weight for the infused edibles, no plant count or area for the London grow operation and no total number of charges laid.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16,17,18] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
-[@1,3,4,5,6,7,12,13,14,15,16]
+[@1,3,4,5,6,7,12,13,14,15,16,19]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16,17,18] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16,17]
+small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16,17,18,19] Police also seized two firearms
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16,17,19]
 Two Ford pickup trucks were also seized, one of which police allege had been
-re-vinned. [@1,3,4,8,11,13,16] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17] York police put the
+re-vinned. [@1,3,4,8,11,13,16,19] Police estimated the cannabis taken from the London grow
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5,16]
 
 The investigation was dubbed Project North Star and was launched in February
-2026. [@1,3,5,7,12,13,16,17,18] It was led by the York Regional Police Complex Investigation Unit, in
+2026. [@1,3,5,7,12,13,16,17,18,19] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
-Service. [@2,6,8,9,10,11,12,16,17] Investigators allege the group sourced cannabis from several
+Service. [@2,6,8,9,10,11,12,16,17,19] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
-London, before distributing it through the underground market. [@1,2,3,4,5,16] Police say
+London, before distributing it through the underground market. [@1,2,3,4,5,16,19] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
-delivery services. [@1,3,8,13,16,17] Search warrants were executed between July and September
+delivery services. [@1,3,8,13,16,17,19] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16,17,18] The investigation shut down the illicit
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16,17,18,19] The investigation shut down the illicit
 cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11,16]
 
 The 23 people face a total of 90 charges. [@5]
 
 Funding from Ontario's Ministry of the Solicitor General supported the investigation through the Criminal Intelligence Service Ontario. [@6]
 
-The 23 individuals charged range in age from 22 to 74 and are from Toronto, Markham, Milton, Burlington, Ailsa Craig and Vaughan. [@7]
+The 23 individuals charged range in age from 22 to 74 and are from Toronto, Markham, Milton, Burlington, Ailsa Craig and Vaughan. [@7,19]
 
 Two London-area residents are among the 23 people charged in Project North Star. [@9]
 
-York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12,15,16]
+York police called on Zhu to seek legal advice and turn himself in, warning that anyone who knowingly helps a person evade police may face criminal charges. [@12,15,16,19]
 
 Toronto Sun names all 23 accused, including Qihang Lin, 22, Yongtao Zou, 23, Shu Ying Li, 41, Shi Shun Li, 74, Jiahou Xu, 26, Da Hai LIiu, 45, Chun-Ho Lee, 31, and Zhong Chen, 39. [@16]
+
+Jiahou Xu, 26, of Markham faces nine counts, including exporting cannabis, possessing proceeds of crime and several firearms and prohibited-device offences, while Zhong Chen, 39, of Markham faces seven counts covering illicit cannabis distribution and unsafe storage of firearms and ammunition. [@19] York police ask anyone with information to call the force's Organized Crime Enforcement Bureau at 1-866-876-5423, extension 7841. [@19]
