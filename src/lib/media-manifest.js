@@ -1,15 +1,17 @@
 // What the media manifest (src/data/media.json, scripts/media-manifest.mjs) knows about a report
 // photo: its size, so the page reserves the space and nothing jumps while it loads, a ThumbHash
-// placeholder shown until then, and a small thumbnail of our own where MEDIA_BASE serves them.
+// placeholder shown until then, and our own small thumbnail (public/media/) where there is one.
 // Build time only: the manifest is not sent to readers (lists get a row's hash, see reports.js).
 import manifest from "../data/media.json" with { type: "json" };
 import { thumbHashToRGBA } from "thumbhash";
 import { deflateSync, crc32 } from "node:zlib";
+import { existsSync } from "node:fs";
 import { imageProxy } from "./media.js";
 
-// where the 320px AVIF thumbnails are served (.cache/media/<ab>/<cd>/<sha256>.avif); unset, the
-// photos load from their publishers through the image proxy, as before
+// the 320px AVIF thumbnails: public/media/<ab>/<cd>/<sha256>.avif, served by the site at /media/
+// (MEDIA_BASE moves them elsewhere). A photo without one loads from its publisher through the proxy.
 const MEDIA_BASE = (import.meta.env?.MEDIA_BASE ?? process.env.MEDIA_BASE ?? "").replace(/\/$/, "");
+const BASE = (import.meta.env?.BASE_URL ?? "/").replace(/\/?$/, "/");
 
 // the placeholder as a small compressed PNG (a few hundred bytes; ThumbHash's own data URL is
 // uncompressed, about 5 KB, too much to inline for every photo)
@@ -40,7 +42,12 @@ export const placeholderOf = (hash) => {
   }
   return placeholders.get(hash);
 };
-export const thumbUrlOf = (sha) => (MEDIA_BASE && sha ? `${MEDIA_BASE}/${sha.slice(0, 2)}/${sha.slice(2, 4)}/${sha}.avif` : null);
+const thumbFile = (sha) => `${sha.slice(0, 2)}/${sha.slice(2, 4)}/${sha}.avif`;
+export const thumbUrlOf = (sha) => {
+  if (!sha) return null;
+  if (MEDIA_BASE) return `${MEDIA_BASE}/${thumbFile(sha)}`;
+  return existsSync(`public/media/${thumbFile(sha)}`) ? `${BASE}media/${thumbFile(sha)}` : null;
+};
 
 // a cover image's placeholder, by its file name (Astro serves it as /_astro/<name>.<hash>.<ext>)
 export const coverPlaceholderOf = (src) => {

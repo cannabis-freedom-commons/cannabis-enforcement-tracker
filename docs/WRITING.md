@@ -152,7 +152,8 @@ copied** to this site.
   agency's page or the first outlet); `node scripts/duplicate-media.mjs` finds repeats. Never
   guess an address or substitute a news article URL. If no address can be recovered, explain the
   missing media in `open_questions` instead of inventing a media entry. A media URL does not grant
-  permission to copy the asset: it is never downloaded into the site. Old entries without `media_url`
+  permission to copy the asset: the full photo is never copied into the site, only a 320px
+  thumbnail for lists and grids (`public/media/`, by `scripts/media-manifest.mjs`). Old entries without `media_url`
   remain valid.
   Under the text, "Photos and video" shows each photo with a `media_url` in a grid, loaded through
   DuckDuckGo's image proxy so readers never contact the publisher (click to enlarge); report lists show

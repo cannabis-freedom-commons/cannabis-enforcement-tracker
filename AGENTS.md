@@ -44,7 +44,8 @@ Index (country ids are the CFI's).
   for a separate request. Add corroborating citations or genuinely new details to the matching
   report, keeping different events separate. Follow `docs/WRITING.md` and validate all changed reports.
 - Photos: copy one into `src/assets/reports/` only with an open licence or a no-copyright government
-  work; link all others as `media`. Every newly collected photo or video must include its direct
+  work; link all others as `media`. After adding media run `node scripts/media-manifest.mjs`: it
+  records each photo's size and placeholder and commits only a 320px thumbnail (`public/media/`). Every newly collected photo or video must include its direct
   `media_url` alongside the source-page `url`, one media entry per photo or video. Never guess a media
   address. Keep local evidence copies with `node scripts/archive-media.mjs`.
 - The site must stay fast with thousands of reports: no page may embed all reports; use the

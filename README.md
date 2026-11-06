@@ -344,10 +344,11 @@ because most of the pictures belong to their publishers; back it up privately.
 `media_url` in `src/data/media.json` (committed): the SHA-256 of the original, its width, height and
 type, a ThumbHash placeholder and whether it could be fetched (`ok` or `unavailable`, with the
 error). The original goes to `archive/media/<sha256>.<ext>` (private, shared by every report that
-links it) and a 320px AVIF thumbnail to `.cache/media/<ab>/<cd>/<sha256>.avif` (not committed).
-Pages reserve each photo's size and show its blurred placeholder until it loads. Photos load
-through the image proxy unless `MEDIA_BASE` is set at build time to where the thumbnails are
-served; then grids and lists use those and enlarging still loads the original.
+links it) and a 320px AVIF thumbnail to `public/media/<ab>/<cd>/<sha256>.avif`, committed and
+served at `/media/`. Pages reserve each photo's size and show its blurred placeholder until it
+loads. Report lists and photo grids of three or more use the thumbnails; a grid of one or two
+photos, and enlarging a photo, load the original from its publisher through the image proxy.
+`MEDIA_BASE` at build time serves the thumbnails from elsewhere.
 
 ## Archived copies of sources
 

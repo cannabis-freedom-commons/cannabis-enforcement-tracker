@@ -1,9 +1,10 @@
 // The report photos' manifest (src/data/media.json): for every photo a report links with a direct
 // `media_url`, the SHA-256 of the original file, its size and type, a ThumbHash placeholder (a
 // blurred preview of about 25 bytes, shown while the photo loads) and how it was obtained.
-// The original goes to the private archive, content-addressed (archive/media/<sha256>.<ext>), and a
-// 320px AVIF thumbnail to .cache/media/<ab>/<cd>/<sha256>.avif, served only where MEDIA_BASE says
-// (src/lib/media.js). Neither is committed or published: the photos belong to their publishers.
+// The original goes to the private archive, content-addressed (archive/media/<sha256>.<ext>; not
+// committed, the photos belong to their publishers). A 320px AVIF thumbnail goes to
+// public/media/<ab>/<cd>/<sha256>.avif: committed and served by the site in grids and lists;
+// enlarging a photo still loads the original from its publisher (src/lib/media-manifest.js).
 //
 //   node scripts/media-manifest.mjs              photos not in the manifest yet
 //   node scripts/media-manifest.mjs --retry      also try again those that failed
@@ -15,7 +16,7 @@ import sharp from "sharp";
 import { load } from "js-yaml";
 import { rgbaToThumbHash } from "thumbhash";
 
-const MANIFEST = "src/data/media.json", ORIGINALS = "archive/media", THUMBS = ".cache/media";
+const MANIFEST = "src/data/media.json", ORIGINALS = "archive/media", THUMBS = "public/media";
 // the same browser identity as archive-media.mjs: many news sites refuse unknown clients
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36";
 const retry = process.argv.includes("--retry"), thumbsOnly = process.argv.includes("--thumbs");

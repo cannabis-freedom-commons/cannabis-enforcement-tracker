@@ -1,6 +1,7 @@
 // How a report's photo or video is shown on its page: a photo with a direct address as a picture, a
 // video file as a player, a YouTube or Vimeo video as their embedded player; anything else stays a
-// link. Nothing is copied: pictures and videos load from their publishers (docs/WRITING.md §7).
+// link. Pictures and videos load from their publishers (docs/WRITING.md §7); lists and larger
+// photo grids use our 320px thumbnails where there is one (src/lib/media-manifest.js).
 // Every outside picture is loaded through DuckDuckGo's image proxy: readers' browsers never contact
 // the publisher (no address or referrer reaches it), and sites that refuse hotlinking still show.
 // Our own images (a path on this site) are left as they are.

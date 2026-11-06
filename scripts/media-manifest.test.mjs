@@ -14,7 +14,7 @@ test("a ThumbHash becomes a small PNG placeholder", async () => {
   assert.equal(placeholderOf(null), null);
 });
 
-test("without MEDIA_BASE photos load through the proxy, as before", () => {
+test("a photo without a thumbnail loads through the proxy", () => {
   assert.equal(thumbUrlOf("ab".repeat(32)), null);
   const p = photoOf("https://unknown.example/a.jpg");
   assert.match(p.src, /^https:\/\/external-content\.duckduckgo\.com\//);
