@@ -249,6 +249,11 @@ sources:
     publisher: وكالة نيو ترك بوست الاخبارية
     date: 2026-11-04
     language: ar
+  - title: Gümrük Kapılarında Yasaklı Madde Operasyonu! 459 Kilodan Fazla Ele Geçirildi
+    url: https://www.usakhabergazetesi.com.tr/gumruk-kapilarinda-yasakli-madde-operasyonu-459-kilodan-fazla-ele-gecirildi
+    publisher: Uşak Haber Gazetesi
+    date: 2026-11-05
+    language: tr
 open_questions:
   - >-
     The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry
@@ -353,33 +358,35 @@ open_questions:
   - >-
     The Yorumla page image is explicitly captioned as a representative illustration credited to Tekha, so it
     does not show this seizure and no media entry is added.
+  - The article gives no separate dates for the four operations; 4 November 2026 is the Trade Ministry statement date used in the existing report.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
-Türkiye's customs teams seized 325.941 kilograms of cannabis across three Edirne border operations. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43]
+Türkiye's customs teams seized 325.941 kilograms of cannabis across three Edirne border operations. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44]
 
 Türkiye's Trade Ministry Customs Enforcement teams carried out four separate
 operations at the Kapıkule, Hamzabeyli and İpsala customs gates in Edirne and at
 Istanbul Airport, seizing a total of 459 kg 599 g of drugs. [@1,2,3,4,5,6,7,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,29,30,31,32,34,35,36,37,38,43] The ministry's
 4 November 2026 statement put the breakdown at 118 kg 658 g of cocaine, 325 kg
 941 g of esrar, the Turkish term for cannabis recorded here as cannabis, and 15
-kg of heroin. [@1,4,7,10,15,16,19,20,27,30,33,35,36,37,38,43] Judicial investigations into the four operations were being
+kg of heroin. [@1,4,7,8,10,15,16,19,20,27,30,33,35,36,37,38,43] Judicial investigations into the four operations were being
 conducted by the Edirne, Gaziosmanpaşa and İpsala chief public prosecutor's
-offices. [@1,3,4,6,8,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,30,31,32,34,35,36,37,38,43]
+offices. [@1,3,4,6,8,9,10,11,13,14,15,16,18,19,20,21,23,24,25,26,27,30,31,32,34,35,36,37,38,43,44]
 
 At Kapıkule, officers judged a vehicle entering the customs area suspicious
 after risk analysis and sent it for X-ray screening, where they found suspicious
-density in its fuel tank. [@1,2,5,6,9,14,28,31] A detailed search there recovered 109 packages
+density in its fuel tank. [@1,2,5,6,9,14,28,31,44] A detailed search there recovered 109 packages
 holding 118 kg 658 g of cocaine and 32 packages holding 25 kg 744 g of esrar.
-[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33,34,36,37,38,43] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
-assessment. [@1,2,6,28] Officers searched its fuel tank with narcotics detector dogs
+[@1,2,3,4,6,7,9,10,11,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33,34,36,37,38,43,44] At Hamzabeyli, a truck entering Türkiye was X-rayed after a risk
+assessment. [@1,2,6,28,44] Officers searched its fuel tank with narcotics detector dogs
 YAPPA and ATLAS after suspicious density was found, and after the dogs reacted
-they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33,34,36,37,38,43] At İpsala,
+they found 85 packages holding a total of 81 kg 134 g of esrar. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15,17,18,19,20,21,23,24,25,26,27,28,29,31,33,34,36,37,38,43] At İpsala,
 a truck entering Türkiye was sent for X-ray screening after risk-analysis work.
-[@1,2,6,28] After checks with narcotics detector dog İDA, a detailed examination of the
-suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27,28,29,31,33,34,36,37,38,43]
+[@1,2,6,28,44] After checks with narcotics detector dog İDA, a detailed examination of the
+suspect section found 200 packages containing 219 kg 63 g of esrar. [@1,2,3,4,6,7,8,9,10,11,12,13,14,15,17,18,19,20,22,23,24,25,26,27,28,29,31,33,34,36,37,38,43]
 
 At Istanbul Airport, officers checked the luggage of three incoming passengers
-identified through risk analysis. [@1,2,3,4,6,9,10,11,13,14,15,17,19,21,23,24,25,26,29,33,34,36,37] The examination there found a total of 15
-kg of heroin-type drugs. [@1,2,3,4,6,9,10,13,15,16,23,24,25,29,30,31,34,35,36,37,38,43] The statement stressed that Customs Enforcement
+identified through risk analysis. [@1,2,3,4,6,9,10,11,13,14,15,17,19,21,23,24,25,26,29,33,34,36,37,44] The examination there found a total of 15
+kg of heroin-type drugs. [@1,2,3,4,6,8,9,10,13,15,16,23,24,25,29,30,31,34,35,36,37,38,43] The statement stressed that Customs Enforcement
 teams continue the fight against smuggling using advanced systems, risk-analysis
-work and specialist staff. [@1]
+work and specialist staff. [@1,44]
