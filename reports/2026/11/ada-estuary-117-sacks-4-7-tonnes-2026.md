@@ -79,6 +79,10 @@ sources:
     url: https://www.graphic.com.gh/news/general-news/ghana-navy-seizes-4-8-tonnes-of-suspected-marijuana-at-ada.html
     publisher: Graphic Online
     date: 2026-11-06
+  - title: Ghana Navy intercepts 4.7 tonnes of suspected cannabis worth over US$1m at Ada Estuary
+    url: https://3news.com/news/crime/navy-intercepts-suspected-cannabis-ada-estuary
+    publisher: 3News
+    date: 2026-11-06
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -96,28 +100,31 @@ open_questions:
   - The source gives no weight confirmed by laboratory testing and no identity of the boat operators.
   - The July interception of about 60 sacks that the Navy recalled is an earlier, separate event and is not recorded as part of this one.
   - The Graphic report names the Ada East municipal chief executive as Kenneth Kofi Kabu Kanor and quotes him on surveillance; the existing report calls him the district chief executive.
+  - The 4.7 tonnes and the US$1 million value remain the Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing when the account was published.
+  - 3News gives no figure for the number of parcels in total and does not say whether the two boats, outboard motors or fuel were retained as exhibits for this interception.
+  - This page describes the cargo as suspected Indian hemp prepared for export out of Ghana without naming a destination country.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
-than 80 parcels. [@2,3,4] The occupants spotted the approaching naval patrol,
-abandoned both vessels and their cargo, and fled. [@1,3,4,6]
+than 80 parcels. [@2,3,4,7] The occupants spotted the approaching naval patrol,
+abandoned both vessels and their cargo, and fled. [@1,3,4,6,7]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
 more than US$1 million. [@1,3,4] No one was arrested, and the sacks remain
-classified as suspected narcotics pending laboratory testing. [@2] Preliminary
+classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
-Ghana. [@2,3]
+Ghana. [@2,3,7]
 
 The seized substances were handed to NACOC for forensic examination and further
 investigation. [@1,6] Naval Captain Festus Osei Brobbey, Director of Naval
 Operations, said a riverine detachment had been stationed to strengthen security
-on the Volta Lake and in surrounding communities. [@2,3] Kenneth Kofi Kabu Kanor,
+on the Volta Lake and in surrounding communities. [@2,3,7] Kenneth Kofi Kabu Kanor,
 the Ada East District Chief Executive and chairman of the District Security
 Committee (DISEC), urged residents not to let the Volta Lake become a transit
-route for drugs. [@2,3]
+route for drugs. [@2,3,7]
 
 The Navy said the interception was at least the third major abandonment of a
 cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
@@ -126,3 +133,5 @@ March and 59 sacks found on 19 July. [@2]
 Ghana Navy personnel found the two wooden vessels concealed along the banks of the Volta Lake estuary at about 1:00 a.m., roughly 200 metres from the Talibet Bridge. [@4,5] Naval personnel searched the vessels at about 5:00 a.m. in the presence of officials from the Narcotics Control Commission, finding the 117 sacks. [@4,5] The individuals behind the shipment abandoned the boats and remain at large, and the Navy warned those financing or facilitating drug trafficking that operations would continue. [@4,5]
 
 According to the Navy account, the boats were in the preparatory stages of being used to transport the narcotics to Nigeria when they were intercepted. [@5,6]
+
+The items burned at the Bundase Military Training Camp on Thursday included 564.39 kilogrammes of cannabis valued at US$112,878. [@7]
