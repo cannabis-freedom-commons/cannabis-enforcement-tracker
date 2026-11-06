@@ -84,6 +84,11 @@ sources:
     publisher: ReTV
     date: 2026-11-05
     language: lv
+  - title: Latvijas un Lietuvas narkodīleru grupējums Rīgas reģiona mežos slēpis desmitiem kilogramu narkotiku
+    url: https://bnn.lv/baltija/latvijas-un-lietuvas-narkodileru-grupejums-rigas-regiona-mezos-slepis-desmitiem-kilogramu-narkotiku-es28dre
+    publisher: BNN
+    date: 2026-11-05
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -100,13 +105,15 @@ open_questions:
   - 'Left out, as its quotation was not found in LSM.lv: Two other Latvian citizens in the scheme carried out the offences while in prison.'
   - ReTV reports the seizure as about 36 kilograms of various narcotics including marijuana and hashish but gives no separate weight for the cannabis substances, so the mixed total stays outside the cannabis figures.
   - The ReTV page gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication date.
+  - BNN and its English edition publish only the combined figure of about 36 kilograms of various narcotics and a count of 34 THC devices, with no separate weight for marijuana or hashish, so no cannabis weight is recorded.
+  - BNN gives 14, 21 and 23 October without a year; 2026 is inferred from the 5 November 2026 publication date.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
 criminal group of Latvian and Lithuanian citizens who hid tens of kilograms of
 drugs in barrels buried in the forest. [@1,6,7] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
-to escape. [@1,2,6,7] Two other Latvian members were already imprisoned for other
+to escape. [@1,2,6,7,9] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
 communication. [@1,3,4,6,7,8] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
@@ -117,14 +124,14 @@ for theft, and was handed over to serve his sentence. [@1] The other detained
 Latvian had been released from prison only in spring after serving a sentence
 for a similar drug-trafficking offence. [@1] On 23 October a court imposed
 pretrial custody, the strictest restraint, on five suspects, four Lithuanians
-and one Latvian. [@1,4,6,8]
+and one Latvian. [@1,4,6,8,9]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1,2,4,6,7,8] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2,4,6,7,8,9] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8,9] Officers
 also seized 34 devices containing the psychoactive substance THC found in
-cannabis, and found most of the substances in barrels buried in the forest. [@1]
+cannabis, and found most of the substances in barrels buried in the forest. [@1,9]
 State Police said this was the first discovery in the Riga region of such a
 large drug consignment hidden in a forest. [@1,2] During the searches officers
 also seized 17 mobile phones, a tablet and false identity documents, plus 5,490
@@ -138,3 +145,5 @@ involvement of other people. [@1]
 Police said the crime was uncovered in close cooperation with the Prison Administration. [@3] The investigation began on 14 October 2026 in the 1st section of the 4th Bureau of the State Police Riga regional board's criminal police. [@2] The operation was run with the State Police cybercrime, investigation support, technical support and OMEGA counter-terrorism units. [@2] The criminal case cites organised-group trafficking, bringing communication devices into prison and driving under the influence of drugs. [@3]
 
 Dmitrijs Vorobjovs, deputy head of the State Police Riga regional board's drug-enforcement division, spoke about the case in an audio interview for LSM. [@5]
+
+The first public sign of the case was a video filmed by a young woman and posted on social media in late October, showing sounds resembling gunshots and several police cars, after which police confirmed several arrests in the Riga region without giving details. [@9]
