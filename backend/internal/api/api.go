@@ -59,12 +59,14 @@ func (l *Limiter) Allow(key string, limit int) bool {
 }
 
 type Server struct {
-	Store       *store.Store
-	Health      *research.Health
-	Config      config.Config
-	Limit       Limiter
-	streamMu    sync.Mutex
-	streamCount int
+	Store         *store.Store
+	Health        *research.Health
+	Config        config.Config
+	Limit         Limiter
+	streamMu      sync.Mutex
+	streamCount   int
+	activityMu    sync.Mutex
+	activityCache map[string]cachedActivity
 }
 
 var idPattern = regexp.MustCompile(`^[a-f0-9]{32}$`)
@@ -108,6 +110,7 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("GET /v1/submissions/{id}/ai/raw", s.aiRaw)
 	mux.HandleFunc("GET /v1/submissions", s.submissions)
 	mux.HandleFunc("GET /v1/submissions/stream", s.submissionStream)
+	mux.HandleFunc("GET /v1/submissions/activity", s.submissionActivity)
 	mux.HandleFunc("GET /v1/activity", s.activity)
 	mux.HandleFunc("GET /v1/status", s.status)
 	mux.HandleFunc("GET /v1/stats/ai", s.aiStats)

@@ -326,3 +326,40 @@
 @media (max-width: 820px) { .sx-worker-card .ai-worker-tooltip { right: auto; left: 0; } .sx-worker-card { align-items: flex-start; } .sx-worker-card .sx-worker { justify-items: start; } .sx-worker-card .ai-worker-detail { justify-content: flex-start; } .sx-worker-card .ai-worker-note { text-align: left; } }
 
 /* the article's photos in the Source check card: a grid of thumbnails with their captions */
+
+/* the activity chart: throughput per slot above, the open queue below, one time axis
+   (colours validated for colour-blind separation on both themes; values always shown as text too) */
+.sx-activity { --sx-c-committed: #199e70; --sx-c-closed: #d95926; --sx-c-open: #3987e5; margin: 0 0 1.5rem; padding: 14px 18px 10px; border: 1px solid var(--border); border-radius: 12px; }
+:root[data-theme="light"] .sx-activity { --sx-c-committed: #1baf7a; --sx-c-closed: #eb6834; --sx-c-open: #2a78d6; }
+.sx-activity-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.sx-activity-head h2 { margin: 0; font-size: 1rem; }
+.sx-activity-switch { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.sx-activity-switch button { padding: 4px 10px; border: 0; background: none; color: var(--text-2); font: 500 12.5px Inter, system-ui, sans-serif; cursor: pointer; }
+.sx-activity-switch button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.sx-activity-legend { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 8px 0 6px; padding: 0; list-style: none; font-size: 13px; color: var(--text-2); }
+.sx-activity-legend b, .sx-activity-tip b { color: var(--text); font: 500 12.5px var(--mono); font-variant-numeric: tabular-nums; margin-left: 4px; }
+.sx-activity i { display: inline-block; width: 10px; height: 10px; margin-right: 6px; border-radius: 2px; vertical-align: -1px; }
+.sx-activity [data-key="committed"] i { background: var(--sx-c-committed); }
+.sx-activity [data-key="closed"] i { background: var(--sx-c-closed); }
+.sx-activity [data-key="received"] i { height: 0; border-top: 2px dashed var(--text-2); border-radius: 0; vertical-align: 3px; }
+.sx-activity [data-key="open"] i { background: color-mix(in srgb, var(--sx-c-open) 30%, transparent); border-top: 2px solid var(--sx-c-open); border-radius: 0; }
+.sx-activity-frame { position: relative; min-height: 142px; }
+.sx-activity-plot svg { display: block; overflow: visible; }
+.sx-activity-committed { fill: var(--sx-c-committed); }
+.sx-activity-closed { fill: var(--sx-c-closed); }
+.sx-activity-received { fill: none; stroke: var(--text-2); stroke-width: 1.5; stroke-dasharray: 3 3; }
+.sx-activity-open { fill: none; stroke: var(--sx-c-open); stroke-width: 2; stroke-linejoin: round; }
+.sx-activity-open-fill { fill: var(--sx-c-open); opacity: .14; }
+.sx-activity-grid { stroke: var(--border); stroke-width: 1; }
+.sx-activity-tick { fill: var(--text-2); font: 10.5px var(--mono); }
+.sx-activity-hover { fill: var(--text); opacity: .07; pointer-events: none; }
+.sx-activity-tip { position: absolute; top: -6px; z-index: 2; display: grid; gap: 2px; min-width: 170px; padding: 8px 10px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,.25); font-size: 12.5px; color: var(--text-2); pointer-events: none; }
+.sx-activity-tip strong { color: var(--text); font: 600 12px var(--mono); margin-bottom: 2px; }
+.sx-activity-tip span { display: flex; align-items: center; }
+.sx-activity-tip b { margin-left: auto; padding-left: 12px; }
+.sx-activity-note { display: none; position: absolute; inset: 0; margin: 0; place-items: center; color: var(--text-2); font-size: 13px; }
+.sx-activity[data-state="loading"] .sx-activity-loading, .sx-activity[data-state="error"] .sx-activity-error { display: grid; }
+@media (max-width: 650px) { .sx-activity { padding: 12px 12px 8px; } .sx-activity-legend { gap: 2px 12px; font-size: 12px; } }
+.sx-activity-tokens { margin-left: auto; }
+.sx-activity-tip [data-key="tokens"] i { display: none; }
+@media (max-width: 650px) { .sx-activity-tokens { margin-left: 0; } }
