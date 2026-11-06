@@ -52,6 +52,11 @@ sources:
     publisher: GAZETA de SUD
     date: 2026-11-05
     language: ro
+  - title: 'Operatiune DIICOT și IPJ Gorj: Cannabis trimis din Spania, bărbat reținut în.flagrant'
+    url: https://www.goldring.ro/ro/news/operatiune-diicot-si-ipj-gorj-cannabis-trimis-din-spania-barbat-retinut-inflagrant
+    publisher: Goldring
+    date: 2026-11-05
+    language: ro
 open_questions:
   - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
   - No court decision on the two preventive-arrest requests had been reported when the article was published.
@@ -62,26 +67,26 @@ open_questions:
 ---
 
 Officers of the Gorj organised-crime police and prosecutors of the DIICOT Gorj
-territorial office ran the operation that intercepted the parcel. [@1,2] A
+territorial office ran the operation that intercepted the parcel. [@1,2,3] A
 32-year-old man was caught in the act in Motru on 4 November 2026 as he was
-about to take possession of a parcel sent from abroad. [@1,2] DIICOT prosecutors
+about to take possession of a parcel sent from abroad. [@1,2,3] DIICOT prosecutors
 ordered the 32-year-old detained on 4 November in a case concerning his alleged
-role in bringing risk drugs into the country and selling them. [@1]
+role in bringing risk drugs into the country and selling them. [@1,3]
 
 Officers found about 7.8 kilograms of cannabis inside the parcel, a quantity
-prosecutors said was meant for sale. [@1,2] The cannabis was divided into eight
+prosecutors said was meant for sale. [@1,2,3] The cannabis was divided into eight
 vacuum-sealed bags hidden among sweets, juices, canned food, oil bottles and
-cold cuts. [@1,2] The packing was meant to disguise the shipment so the parcel
+cold cuts. [@1,2,3] The packing was meant to disguise the shipment so the parcel
 would look like an ordinary consignment of food sent from abroad. [@1]
 
 Investigators found that the plant material had allegedly been procured and sent
-by another man, aged 34, living in Spain. [@1,2] The 34-year-old is a relative of
-the man caught in the act, according to the Gorj county police. [@1] The
+by another man, aged 34, living in Spain. [@1,2,3] The 34-year-old is a relative of
+the man caught in the act, according to the Gorj county police. [@1,3] The
 investigation concerns international trafficking in risk drugs and risk-drug
 trafficking, and investigators suspect the drugs brought into the country were
 to be sold. [@1] On 5 November prosecutors asked a Gorj Tribunal judge to place
 the detained man in preventive arrest and to order preventive arrest in absentia
-for the 34-year-old in Spain. [@1,2] No court decision on those requests had been
+for the 34-year-old in Spain. [@1,2,3] No court decision on those requests had been
 announced when the information was released, and the investigation continues.
 [@1] Both suspects retain the presumption of innocence until a final court
 judgment. [@1]
