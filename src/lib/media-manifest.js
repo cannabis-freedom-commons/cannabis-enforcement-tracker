@@ -60,6 +60,10 @@ export function photoOf(url) {
   const m = manifest[url];
   const full = imageProxy(url);
   const meta = m ? { status: m.status, error: m.error ?? null, width: m.width ?? null, height: m.height ?? null, type: m.type ?? null, bytes: m.bytes ?? null, sha256: m.sha256 ?? null, fetched: m.fetched ?? null } : null;
-  if (m?.status !== "ok") return { src: full, full, width: null, height: null, placeholder: null, hash: null, meta };
-  return { src: thumbUrlOf(m.sha256) ?? full, full, width: m.width, height: m.height, placeholder: placeholderOf(m.thumbhash), hash: m.thumbhash, thumb: thumbUrlOf(m.sha256), meta };
+  const host = (() => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return null; } })();
+  if (m?.status !== "ok") return { src: full, full, original: url, host, ours: null, width: null, height: null, placeholder: null, hash: null, meta };
+  const ours = thumbUrlOf(m.sha256);
+  // an original no larger than the thumbnail is fully there in our copy: no outside request at all
+  const oursIsFull = !!ours && m.width <= 320 && m.height <= 320;
+  return { src: ours ?? full, full: oursIsFull ? ours : full, original: url, host, ours, oursIsFull, width: m.width, height: m.height, placeholder: placeholderOf(m.thumbhash), hash: m.thumbhash, thumb: ours, meta };
 }

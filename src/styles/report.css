@@ -103,3 +103,10 @@
 .photo-info-box dt { color: var(--muted); }
 .photo-info-box dd { margin: 0; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
 .photo-info-note { display: block; margin-top: 6px; color: var(--muted); }
+
+/* a photo the image proxy could not fetch: our copy (or its placeholder) and the offer to load it
+   from the publisher (media-viewer.js, external-media.js) */
+.media-tile { position: relative; }
+.media-ask { position: absolute; top: 8px; left: 8px; right: 8px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 8px 10px; border-radius: 6px; background: rgb(0 0 0 / .72); color: #eee; font-size: 12.5px; line-height: 1.4; }
+.media-ask button, .media-viewer .mv-load { padding: 3px 10px; border: 1px solid rgb(255 255 255 / .5); border-radius: 999px; background: none; color: #fff; font: inherit; cursor: pointer; }
+.media-ask button:hover, .media-viewer .mv-load:hover { background: rgb(255 255 255 / .15); }

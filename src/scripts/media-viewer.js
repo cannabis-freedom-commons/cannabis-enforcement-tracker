@@ -3,7 +3,11 @@
 // is listed as a link instead, so a broken image is never shown. Moving to another photo shows it at
 // once as what is already here (its ThumbHash placeholder, and the tile's small picture over it)
 // with a loading note, and the full photo fades in when it has arrived.
+import { proxyFailed, allowHost, isAllowed } from "./external-media.js";
+
 const initialized = new WeakSet();
+// photos the reader agreed to load from these publishers on this page
+const onPage = new Set();
 
 export function initMediaViewers(root = document) {
   for (const grid of root.querySelectorAll("[data-media-grid]")) {
@@ -26,10 +30,42 @@ function initGrid(grid) {
     list.append(li);
     if (![...grid.children].some((t) => !t.hidden)) grid.hidden = true;
   };
+  // the proxy could not fetch a photo: our own copy if there is one, and the offer to load the
+  // photo from its publisher (straight away where the reader already agreed for that domain)
+  const loadOriginal = (tile) => {
+    const img = tile.querySelector(".media-open img");
+    tile.querySelector(".media-ask")?.remove();
+    img.style.visibility = "";
+    img.dataset.full = img.dataset.original;
+    img.src = img.dataset.original;
+  };
+  const fallback = (tile) => {
+    const img = tile.querySelector(".media-open img"), { original, ours, host } = img.dataset;
+    if (original && (onPage.has(host) || isAllowed(host))) return loadOriginal(tile);
+    // our copy for the tile; enlarging still tries the full photo (and offers the publisher there)
+    if (ours) img.src = ours; else img.style.visibility = "hidden";
+    if (!original || !host || tile.querySelector(".media-ask")) return;
+    const ask = document.createElement("div");
+    ask.className = "media-ask";
+    const text = Object.assign(document.createElement("span"), { textContent: ours ? "Showing our small copy: the full photo did not load through the privacy proxy." : "This photo did not load through the privacy proxy." });
+    const button = Object.assign(document.createElement("button"), { type: "button", textContent: `Load from ${host}` });
+    button.title = `Your browser will contact ${host} directly. Remembered for this domain in this browser.`;
+    button.addEventListener("click", () => {
+      allowHost(host); onPage.add(host);
+      for (const t of tiles) if (t.querySelector(".media-open img").dataset.host === host && t.querySelector(".media-ask")) loadOriginal(t);
+    });
+    ask.append(text, button);
+    tile.append(ask);
+  };
+  const check = (tile) => { const img = tile.querySelector(".media-open img"); if (proxyFailed(img)) fallback(tile); };
   for (const tile of tiles) {
     const img = tile.querySelector("img");
     if (img.complete && !img.naturalWidth) broken(tile);
-    else img.addEventListener("error", () => broken(tile), { once: true });
+    else {
+      img.addEventListener("error", () => broken(tile));
+      img.addEventListener("load", () => check(tile));
+      if (img.complete) check(tile);
+    }
   }
 
   const dialog = document.createElement("dialog");
@@ -60,7 +96,21 @@ function initGrid(grid) {
       frame.classList.remove("is-failed");
       frame.classList.add("is-loading");
       note.textContent = "Loading the full photo…";
-      big.onload = () => { if (ticket === loading) { big.classList.add("is-loaded"); frame.classList.remove("is-loading"); } };
+      const { original, host } = small.dataset;
+      big.onload = () => {
+        if (ticket !== loading) return;
+        if (proxyFailed(big)) {
+          // the proxy could not fetch it: from the publisher if the reader agreed, else ask
+          if (original && (onPage.has(host) || isAllowed(host))) { big.src = original; return; }
+          frame.classList.add("is-failed");
+          const button = Object.assign(document.createElement("button"), { type: "button", className: "mv-load", textContent: `Load from ${host}` });
+          button.title = `Your browser will contact ${host} directly. Remembered for this domain in this browser.`;
+          button.addEventListener("click", () => { allowHost(host); onPage.add(host); frame.classList.remove("is-failed"); note.textContent = "Loading the full photo…"; big.src = original; });
+          note.replaceChildren("The full photo did not load through the privacy proxy. ", ...(original && host ? [button] : []));
+          return;
+        }
+        big.classList.add("is-loaded"); frame.classList.remove("is-loading");
+      };
       big.onerror = () => { if (ticket === loading) { note.textContent = "The full photo could not be loaded; this is a small copy."; frame.classList.add("is-failed"); } };
       big.src = full;
       if (big.complete && big.naturalWidth) big.onload();

@@ -13,7 +13,7 @@ const rows = [
   m?.sha256 && ["SHA-256", m.sha256.slice(0, 16) + "…", m.sha256],
   m?.fetched && ["Retrieved", day(m.fetched)],
   m?.status === "unavailable" && ["Retrieval", `failed (${m.error ?? "unknown"})`],
-  ["Shown", ours ? "our 320px copy; enlarging loads the original" : "the publisher's file, through an image proxy"],
+  ["Shown", photo?.oursIsFull ? "our copy, at the original's full size" : ours ? "our 320px copy; enlarging loads the original" : "the publisher's file, through an image proxy"],
   archived && ["Archived page", "Wayback Machine"],
 ].filter(Boolean);
 ---
