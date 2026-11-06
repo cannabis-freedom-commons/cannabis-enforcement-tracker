@@ -68,6 +68,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-05
     language: hi
+  - title: बस्तर में गांजे की 2.38 करोड़ की खेप पकड़ाई, 3 नाबालिग भी तस्करी में शामिल! ओडिशा से UP जा रहा था नशे का जखीरा
+    url: https://navbharatlive.com/amp/story/chhattisgarh/bastar/bastar-police-seized-238-crore-cannabis-three-accused-arrested-cgn91
+    publisher: Navbharat Live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -91,6 +96,7 @@ open_questions:
   - This Navbharat Live report cites NDPS Act section 20(b)(ii)(C), while the existing report cites section 20(b)(iii)(C) from earlier sources; the existing section is retained.
   - Spellings differ only by transliteration across outlets, such as Adawal for Adamvali, Bodhghat for Boghaghat and Kontamadi for Kantamadi, and do not indicate different places.
   - The page image is captioned only Chhattisgarh Jagdalpur news and is not shown to depict this interception, so no media entry is added.
+  - Navbharat Live puts the tip-off on the morning of 5 November and does not give the hour of the interception itself.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
@@ -102,13 +108,13 @@ called the seizure the largest action Bastar police have taken this year. [@2]
 
 Police said a tip-off told Boghaghat police that a white pickup carrying ganja
 from Malkangiri in Odisha via Kurandi was heading toward Jagdalpur, and officers
-set up a blockade near Adamvali railway crossing. [@2,5] Officers saw two young
+set up a blockade near Adamvali railway crossing. [@2,5,9] Officers saw two young
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
-then stopped the pickup when its occupants tried to flee. [@2] The pickup held
+then stopped the pickup when its occupants tried to flee. [@2,9] The pickup held
 450 packets of ganja hidden in 15 sacks. [@2,5] Police valued the cannabis at 2
 crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
-phones and 1,500 rupees in cash. [@2,5]
+phones and 1,500 rupees in cash. [@2,5,9]
 
 Additional Superintendent of Police Sukhnandan Rathore said a case was
 registered under section 20(b)(iii)(C) of the NDPS Act, India's Narcotic Drugs
@@ -130,3 +136,5 @@ questioning the accused to trace suppliers in Odisha and intended buyers in
 Uttar Pradesh. [@1,4]
 
 The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8]
+
+The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@9] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
