@@ -59,6 +59,16 @@ sources:
     publisher: Sangbad Pratidin
     date: 2026-11-05
     language: bn
+  - title: ধর্মতলায় পুলিশের জালে মাদক কারবারিরা! উদ্ধার ১৪ কেজি গাঁজা, গ্রেফতার তিন
+    url: https://biswabanglasangbad.com/breaking-news/drug-dealers-caught-in-police-net-in-dharmatala-14-kg-of-cannabis-seized-three-arrested
+    publisher: BiswaBangla Sangbad
+    date: 2026-11-05
+    language: bn
+  - title: ধর্মতলায় কেজি কেজি গাঁজা উদ্ধার! শহরে পাচারের ছক বানচাল, কলকাতা পুলিশের জালে মুর্শিদাবাদের ৩
+    url: https://m.sangbadpratidin.in/article/kolkata/3-men-arrested-by-kolkata-police-narcotic-cell-from-esplanade-bus-stand-with-over-14-kg-ganja/pid/1415312?utm=latestnews
+    publisher: Sangbad Pratidin
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The raid fell on Wednesday and the case was registered on Thursday; 4 November 2026 is used as the incident date, derived from the 5 November 2026 publication date.
   - No value was published for the seized ganja.
@@ -72,14 +82,14 @@ Kolkata Police's Narcotics Cell arrested three people and seized ganja during a
 raid near the Dharmatala bus stand in central Kolkata. [@1] Acting on specific
 intelligence, officers raided the Maidan police station area on Wednesday and
 caught the three suspects near the PWD Site Office (South Division) next to the
-bus stand. [@1] Police identified the three as Abdul Haque, 48, Anju Sheikh, 32,
+bus stand. [@1,4] Police identified the three as Abdul Haque, 48, Anju Sheikh, 32,
 and Attabur Sheikh, 27, all residents of Murshidabad district. [@2]
 
 A total of 14.559 kg of ganja was recovered from the joint custody of the three,
-videographed before witnesses and gazetted officers. [@1] A case was registered
+videographed before witnesses and gazetted officers. [@1,4,5] A case was registered
 at Maidan police station under sections 20(B)(2)(B) and 29 of the Narcotic Drugs
 and Psychotropic Substances Act, 1985, on a complaint by a Narcotics Cell
-sub-inspector. [@1] All three were produced in court on Thursday. [@1]
+sub-inspector. [@1,4] All three were produced in court on Thursday. [@1]
 
 In initial questioning, investigators learned the three had brought a large
 quantity of ganja from Narla in Kalahandi district, Odisha, intending to sell it
@@ -88,3 +98,5 @@ else is involved in the ring and whether the three had already been in touch
 with other members of the gang. [@2]
 
 The Bengali article gives the accused's names as Abdul Haque alias Babu, Anju Sheikh and Attabur Sheikh. [@3]
+
+The Maidan police station complaint was filed by Narcotic Cell sub-inspector Prashantakumar Ray. [@4]
