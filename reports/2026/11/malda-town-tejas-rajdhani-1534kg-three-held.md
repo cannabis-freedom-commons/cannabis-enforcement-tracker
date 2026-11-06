@@ -58,6 +58,11 @@ sources:
     publisher: Eisamay Online
     date: 2026-11-05
     language: bn
+  - title: 'Bhagalpur: तेजस राजधानी एक्सप्रेस से 15.340 किलो गांजा बरामद, दो पुरुषों और एक महिला समेत तीन गिरफ्तार- GS NEWS - GS NEWS'
+    url: https://www.gs-news.in/tejas-rajdhani-express-se-15-340-kilo-ganja-baramad-do-purushon-aur-ek-mahila-samet-teen-giraftar/
+    publisher: GS NEWS
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives no separate date for the seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The report does not say where the ganja was brought from or where it was to be delivered.
@@ -71,21 +76,24 @@ open_questions:
   - The existing report says a drug-detection kit confirmed the ganja; Eisamay describes only a preliminary test showing the presence of the drug, and Hindusthan Samachar likewise calls it a preliminary test.
   - The Eisamay account restates facts the existing report already carries, so its facts are submitted as detail rather than verbatim corroboration; the merge could not be matched sentence by sentence automatically.
   - Eisamay reports that two mobile phones and two rail tickets were seized from the three, a detail the existing report already carries but whose wording could not be matched automatically here.
+  - GS NEWS dates the train's arrival to 3 November and the formal NDPS arrest to the morning of 4 November, while the report uses 5 November, the publication date, as the incident date.
+  - GS NEWS calls the seized substance madak padarth (narcotic substance) in its headline and lead, relying on a drug-detection kit test, and names no state of origin or destination for the ganja.
+  - GS NEWS carries photographs of the recovered ganja and of the accused, but no caption or credit ties any of them specifically to this seizure.
 ---
 
 Railway Protection Force personnel stopped two men and a woman carrying heavy
 plastic sacks as they tried to hurry away from the Tejas Rajdhani Express at
-Malda Town railway station. [@1,4] The team had been watching passengers on the
+Malda Town railway station. [@1,4,5] The team had been watching passengers on the
 basis of a tip-off after train number 20501 reached Malda Town station. [@1,4]
 Officers searched the sacks and found 24 packets kept in plastic boxes, and a
 drug-detection kit confirmed the substance was ganja, the local name for
-cannabis. [@1,3,4] The three were identified as Nitish Kumar, aged 26, Khusho Bind,
+cannabis. [@1,3,4,5] The three were identified as Nitish Kumar, aged 26, Khusho Bind,
 aged 43, and Gunjan Devi, aged 43. [@1,2] Searches attributed 5.745 kg of ganja to
 Nitish Kumar, 5.705 kg to Khusho Bind and 3.890 kg to Gunjan Devi. [@1] The
-total weight of ganja recovered from the three was 15.340 kg. [@1,2,3]
+total weight of ganja recovered from the three was 15.340 kg. [@1,2,3,5]
 
 Officers put the estimated value of the cannabis at 767,000 rupees (7.67 lakh
-rupees). [@1,2] The action took place on platform number 1 at Malda Town station.
+rupees). [@1,2,5] The action took place on platform number 1 at Malda Town station.
 [@1,2,4] The Railway Protection Force team also seized two mobile phones and two
 rail tickets, whose examination may reveal further facts about the case. [@1,3]
 Woman constable Kanika Roy searched the woman accused. [@1,3] After completing the
@@ -95,6 +103,8 @@ Rajdhani Express runs via Malda and Bhagalpur to Anand Vihar Terminal. [@1,2]
 
 The Anand Vihar Terminal-Tejas Rajdhani Express (20501) reached platform 1 at Malda Town on 3 November. [@2] The three were arrested under the NDPS Act on 4 November. [@2] Eastern Railway public relations officer Shivram Majhi said surveillance on rail routes had been intensified to stop drug trafficking. [@2]
 
-An Eastern Railway press release said the search ran from 5:25 pm to 7:55 pm in the presence of an executive magistrate and independent witnesses. [@3] The three were formally arrested by the Malda Town Government Railway Police on the morning of 4 November under sections 20(b)(ii)(B) and 29 of the NDPS Act, 1985. [@3]
+An Eastern Railway press release said the search ran from 5:25 pm to 7:55 pm in the presence of an executive magistrate and independent witnesses. [@3,5] The three were formally arrested by the Malda Town Government Railway Police on the morning of 4 November under sections 20(b)(ii)(B) and 29 of the NDPS Act, 1985. [@3]
 
 Officers who investigated said they were examining where the three had picked up the ganja and where they had planned to deliver it. [@4] Officers were also investigating whether anyone else was behind the trafficking ring. [@4] The search was carried out in the presence of an executive magistrate and independent witnesses, and ran from 5.25 pm to 7.55 pm. [@4] The woman accused was searched by a woman police officer. [@4] A preliminary test also indicated the presence of the drug, railway police claimed. [@4]
+
+As soon as train number 20501 from Anand Vihar Terminal reached the station, the joint team of RPF/CIB/Malda and GRPS/Malda Town began monitoring passengers' movements. [@5]
