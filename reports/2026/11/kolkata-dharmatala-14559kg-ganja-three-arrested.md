@@ -74,6 +74,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-05
     language: bn
+  - title: 'Arrest: বাইরে থেকে মনে হবে চালের বস্তা, ভিতরে লুকিয়ে ভয়ঙ্কর জিনিস! কলকাতায় পুলিশের জালে মুর্শিদাবাদের তিন'
+    url: https://bengali.news18.com/news/kolkata/rice-sack-hidden-cannabis-kolkata-stf-arrest-rmj-ws-l-2952974.html
+    publisher: News18 Bengali
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The raid fell on Wednesday and the case was registered on Thursday; 4 November 2026 is used as the incident date, derived from the 5 November 2026 publication date.
   - No value was published for the seized ganja.
@@ -81,6 +86,8 @@ open_questions:
   - The only second account is an IANS reprint via Social News XYZ, not independent reporting.
   - The sponsored advertisement image on the submitted page is excluded from media.
   - The Bengali article's photo is captioned as a representative image (প্রতীকী ছবি) and is not a picture of this seizure, so no media entry is added.
+  - This source says one of the detained men is from Murshidabad and the other two are from Odisha, while the existing report identifies all three as Murshidabad residents.
+  - This source describes the arresting officers as Kolkata Police STF detectives, while the existing report attributes the raid to the Narcotics Cell of the Detective Department.
 ---
 
 Kolkata Police's Narcotics Cell arrested three people and seized ganja during a
@@ -107,3 +114,5 @@ The Bengali article gives the accused's names as Abdul Haque alias Babu, Anju Sh
 The Maidan police station complaint was filed by Narcotic Cell sub-inspector Prashantakumar Ray. [@4]
 
 The three accused were to be produced before the Alipore court on Thursday. [@6]
+
+The accused appeared to carry rice sacks, but ganja was hidden inside the sacks. [@7] Opening the sacks and breaking a sand-cement casting revealed a special tanker wrapped in aluminium plate and tied with wire, which held packets of ganja. [@7]
