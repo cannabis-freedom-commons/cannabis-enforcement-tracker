@@ -3,7 +3,7 @@ import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { defineConfig } from "astro/config";
-import { reportsDev } from "./scripts/lib/reports-dev.mjs";
+import { reportsDev, devWatchIgnored } from "./scripts/lib/reports-dev.mjs";
 import { markdownGlossary } from "./src/lib/glossary.js";
 import { unified } from "@astrojs/markdown-remark";
 
@@ -121,10 +121,9 @@ export default defineConfig({
   integrations: [reportsDev()],
   vite: {
     server: {
-      // the Go backend's code and its job storage (thousands of files changing while research runs:
-      // repository copies, builds, logs) are nothing the site needs to reload for.
-      // Reports (including cover assets) refresh only from the dev header button.
-      watch: { ignored: ["**/backend/**", "**/.cache/**", "**/src/assets/reports/**", "**/.git/**", `${reportsDirectory}/**`] },
+      // the Go backend's code and job storage, and reports with their photo manifest: refreshed only
+      // from the dev header button (scripts/lib/reports-dev.mjs)
+      watch: { ignored: devWatchIgnored(reportsDirectory) },
       proxy: {
         "/__submissions": {
           target: "http://127.0.0.1:8080",

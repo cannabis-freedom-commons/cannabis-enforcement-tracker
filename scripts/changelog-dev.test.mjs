@@ -46,7 +46,7 @@ export const getStaticPaths = () => reports.map(r => ({params:{slug:r.id},props:
     symlinkSync(resolve("node_modules"), join(root, "node_modules"), "dir");
     writeFileSync(join(root, "package.json"), '{"type":"module"}');
     const plugin = pathToFileURL(resolve("scripts/lib/reports-dev.mjs")).href;
-    writeFileSync(join(root, "astro.config.mjs"), `import { defineConfig } from 'astro/config';\nimport { reportsDev } from ${JSON.stringify(plugin)};\nexport default defineConfig({ site: 'https://tracker.example', devToolbar: { enabled: false }, cacheDir: './.astro-cache', integrations: [reportsDev()], vite: { cacheDir: './.vite-cache', server: { watch: { ignored: [${JSON.stringify(root + '/reports/**')}, '**/.git/**'] } } } });`);
+    writeFileSync(join(root, "astro.config.mjs"), `import { defineConfig } from 'astro/config';\nimport { reportsDev, devWatchIgnored } from ${JSON.stringify(plugin)};\nexport default defineConfig({ site: 'https://tracker.example', devToolbar: { enabled: false }, cacheDir: './.astro-cache', integrations: [reportsDev()], vite: { cacheDir: './.vite-cache', server: { watch: { ignored: devWatchIgnored(${JSON.stringify(root + '/reports')}) } } } });`);
     writeFileSync(join(root, "src/pages/changelog/[...page].astro"), `---
 import {execFileSync} from 'node:child_process';
 import { reports } from '../../lib/reports.js';
@@ -58,7 +58,7 @@ export function getStaticPaths() {
 <h1>{Astro.props.subject}</h1>
 {reports.map(r => <a href={'/' + r.url}>{r.title}</a>)}`);
     git("init"); git("config", "user.name", "Test"); git("config", "user.email", "test@example.org");
-    git("add", "package.json", "reports"); git("commit", "-m", "Initial history");
+    git("add", "package.json", "reports", "src/data/media.json"); git("commit", "-m", "Initial history");
     // Start with a fresh content cache so dev loads its own content configuration
     // and completes the initial sync before routes are requested.
     child = spawn(process.execPath, [resolve("node_modules/astro/bin/astro.mjs"), "dev", "--ignore-lock", "--root", root, "--host", "127.0.0.1", "--port", "0"], { cwd: root, env: { ...process.env, ASTRO_TELEMETRY_DISABLED: "1", NO_COLOR: "1" }, stdio: ["ignore", "pipe", "pipe"] });
@@ -93,6 +93,9 @@ export function getStaticPaths() {
     writeFileSync(join(root, "reports/new-report.md"), report("Newly committed report", "new-report"));
     writeFileSync(join(root, "reports/initial.md"), report("Updated report"));
     git("add", "reports"); git("commit", "-m", "Add and update reports");
+    // a thumbnail commit rewrites the photo manifest, which reports.js imports: quiet too
+    writeFileSync(join(root, "src/data/media.json"), readFileSync(join(root, "src/data/media.json"), "utf8").replace(/\n$/, "") + "\n\n");
+    git("add", "src/data/media.json"); git("commit", "-m", "Add photo thumbnails: fixture");
     await delay(1500);
     assert.equal(notifications.filter(m => m.type === "full-reload" || m.type === "update").length, 0, `Report writes and commits must not trigger HMR: ${JSON.stringify(notifications)}\n${logs}`);
     assert.ok(!(await read("/api/index.json")).text.includes("Newly committed report"));
@@ -100,7 +103,7 @@ export function getStaticPaths() {
     assert.equal((await read("/report/new-report/")).status, 404);
     assert.ok((await read("/changelog/")).text.includes("<h1>Initial history</h1>"));
     await refresh();
-    await until(async () => (await read("/changelog/")).text.includes("Add and update reports"));
+    await until(async () => (await read("/changelog/")).text.includes("Add photo thumbnails: fixture"));
     await until(async () => (await read("/api/index.json")).text.includes("Newly committed report"));
     await until(async () => (await read("/report/new-report/")).text.includes("<h1>Newly committed report</h1>"));
     await until(async () => (await read("/report/initial/")).text.includes("<h1>Updated report</h1>"));
@@ -110,7 +113,7 @@ export function getStaticPaths() {
     // Request without following the short URL redirect, then exercise its target above.
     assert.equal((await fetch(address + `/r/${codeOf("new-report")}/`, { redirect: "manual" })).status, 301);
     // Branch/revision changes also invalidate cached paths, including removed pages.
-    git("checkout", "--detach", "HEAD~2");
+    git("checkout", "--detach", "HEAD~3");
     await refresh();
     await until(async () => (await read("/changelog/")).text.includes("<h1>Initial history</h1>"));
     assert.equal((await read("/changelog/2/")).status, 404);

@@ -15,8 +15,9 @@ Site: <https://tracker.cannabisfreedom.fyi> (static, built with [Astro](https://
 
 ## Development
 
-`npm run dev` hot reloads frontend code. Report files and Git commits do not trigger
-reloads, so the backend can keep publishing while you work. Use **Refresh reports**
+`npm run dev` hot reloads frontend code. Report files, their photo manifest
+(`src/data/media.json`) and Git commits do not trigger reloads, so the backend can keep
+publishing while you work. Use **Refresh reports**
 in the header to resync reports, indexes, report routes and Git history, then reload
 the current page (preserving its URL and filters). Restarting the dev server also
 loads current reports. The button and refresh endpoint exist only in development;

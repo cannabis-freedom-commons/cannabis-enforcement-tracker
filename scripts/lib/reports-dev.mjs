@@ -1,3 +1,12 @@
+// What the dev server does not watch: files the backend and research change all the time. A change
+// to them would re-run the report indexes and reload every open page (it freezes the site for a
+// while), so they load from the header's "Refresh reports" button instead, with the reports:
+// report files, their cover images, and the photo manifest each "Add photo thumbnails" commit
+// rewrites (src/data/media.json, imported by src/lib/reports.js).
+export function devWatchIgnored(reportsDirectory) {
+  return ["**/backend/**", "**/.cache/**", "**/src/assets/reports/**", "**/src/data/media.json", "**/.git/**", `${reportsDirectory}/**`];
+}
+
 export function reportsDev() {
   return {
     name: "tracker:reports-dev",
