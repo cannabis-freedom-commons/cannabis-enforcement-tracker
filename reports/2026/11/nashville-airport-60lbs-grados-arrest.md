@@ -32,6 +32,10 @@ sources:
     url: https://www.wkrn.com/video/60-pounds-of-marijuana-seized-at-bna-21-year-old-charged/12340355/
     publisher: WKRN News 2
     date: 2026-11-05
+  - title: 60 pounds of marijuana seized at BNA; 21-year-old charged
+    url: https://www.wkrn.com/news/local-news/nashville/60-pounds-of-marijuana-seized-at-bna-21-year-old-charged/
+    publisher: WKRN News 2
+    date: 2026-11-05
 open_questions:
   - The article was published on 4 November 2026 and says the arrest occurred on Tuesday afternoon, so 3 November 2026 is used as the incident date.
   - Only one opened source about this event could be found, so no second account confirms the details.
@@ -40,6 +44,7 @@ open_questions:
   - No court outcome beyond the charge, bond and same-day release was reported.
   - WKRN/Yahoo describes the charge as possession with intent involving a Schedule IV drug, while WSMV describes felony possession with intent to sell without specifying a schedule; the precise statutory charge and schedule remain unconfirmed.
   - The Yahoo page’s image and video metadata do not establish that either asset depicts the seizure, so no event media is linked.
+  - WKRN gives the woman's name as Isah Grados, without the middle name Cristina reported by WSMV.
 media:
   - kind: video
     url: https://www.wkrn.com/video/60-pounds-of-marijuana-seized-at-bna-21-year-old-charged/12340355/
@@ -61,7 +66,7 @@ sweep of an arriving Southwest Airlines flight from San Jose, California, when
 The affidavit states that the dog pinged on two pieces of luggage for the
 officer, who identified 21-year-old Isah Cristina Grados as the traveler from
 the baggage tags. [@1,2,3] Detectives located Grados in the terminal as she was
-reportedly heading to her connecting flight. [@1]
+reportedly heading to her connecting flight. [@1,4]
 
 She permitted them to search her luggage, which produced multiple vacuum-sealed
 bundles of marijuana, totaling 60 lbs. (about 27.22 kg), according to the
@@ -75,4 +80,4 @@ flights. [@1,3] Narcotics officers at BNA often sweep incoming luggage from
 California airports, including San Diego, Los Angeles, San Francisco, and
 Sacramento. [@1,3]
 
-Court documents reported nearly 60 pounds, or 27,215 grams, across the two bags. [@2] Court documents place the Southwest flight from San Jose at about 3:15 p.m. [@2]
+Court documents reported nearly 60 pounds, or 27,215 grams, across the two bags. [@2,4] Court documents place the Southwest flight from San Jose at about 3:15 p.m. [@2,4]
