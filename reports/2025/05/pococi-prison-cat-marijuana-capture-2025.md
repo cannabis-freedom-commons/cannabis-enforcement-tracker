@@ -19,6 +19,11 @@ media:
     media_url: https://vdmedia.elpais.com/mcv/elpais/multimedia/20250519/1058499_231943_video_1800.mp4
     publisher: EL PAÍS América
     caption: 'Ministry of Justice and Peace video showing prison officers catching the white cat with the drug packets taped to its body at Pococí, and the packets being removed on a table inside the prison. Video: Ministerio de Justicia y Paz'
+  - kind: photo
+    url: https://www.elcomercio.com/actualidad/mundo/gato-con-droga-capturado-carcel-costa-rica/
+    media_url: https://media.elcomercio.com/wp-content/uploads/2025/05/fuerzas-armadas-5-1024x683.jpg
+    publisher: El Comercio
+    caption: Photo captioned as police members removing the drugs taped to the cat, credited by the outlet only as a screen capture.
 details:
   products:
     - {product: flower}
@@ -59,6 +64,11 @@ sources:
     publisher: CNN en Español
     date: 2025-05-19
     language: es
+  - title: Gato con droga fue capturado en cárcel de Costa Rica
+    url: https://www.elcomercio.com/actualidad/mundo/gato-con-droga-capturado-carcel-costa-rica/
+    publisher: El Comercio
+    date: 2025-05-19
+    language: es
 open_questions:
   - El País says only that the incident happened in early May; other reports give the night of 6 May 2025, the date used here.
   - El País describes the second substance as crack paste and AFP as crack; one Ecuadorian report called it heroin, so only the 235.65 g of marijuana is recorded as cannabis.
@@ -73,16 +83,18 @@ open_questions:
   - The only image captured from the El Mundo page is an unrelated thumbnail about another story, so no event photo from this outlet can be listed.
   - OndaCero names the 67.76 grams taped to the cat as cocaine, while the report records the same amount as crack paste; the two accounts describe one second packet and neither figure is counted as cannabis.
   - CNN describes the second packet as cocaine, while the existing report records the ministry’s description as crack paste.
+  - El Comercio reports 235.65 g of marijuana, the same figure as the existing report; one earlier outlet gave 235.56 g.
+  - El Comercio's photo caption credits it only as a screen capture, so the underlying source of the image is unclear.
 ---
 
 Costa Rican prison officers at the Penitenciaría de Pococí caught a domestic cat
 that was carrying a package of drugs towards the prison's interior. [@1] An
 officer in one of the watchtowers spotted the animal in a green area of the
 prison and raised the alert. [@3] Guards found the animal with two packets taped
-to its body. [@2,4,6]
+to its body. [@2,4,6,7]
 
 One packet held 235.65 grams of what the authorities described as marijuana.
-[@1,4,5] The other held 67.76 grams of what the Justice and Peace Ministry called
+[@1,4,5,7] The other held 67.76 grams of what the Justice and Peace Ministry called
 crack paste, a cocaine product, which is not counted as cannabis here. [@3]
 Officers also found two sheets of rolling paper. [@3,4] The Prisión Policía seized
 the drugs and began investigating where they came from and where they were
@@ -95,4 +107,6 @@ Rica. [@2]
 El País reports the incident took place in early May. [@1] According to other
 reports, the capture happened on the night of 6 May 2025. [@3,4]
 
-The officers removed the packets, seized the drugs and handed the cat to the National Animal Health Service (Senasa). [@5,6] Police attributed the attempt to the prison's difficult perimeter monitoring and to the false belief that using animals would not raise suspicion. [@5]
+The officers removed the packets, seized the drugs and handed the cat to the National Animal Health Service (Senasa). [@5,6,7] Police attributed the attempt to the prison's difficult perimeter monitoring and to the false belief that using animals would not raise suspicion. [@5]
+
+The Justice and Peace Ministry published the case on Facebook. [@7] The cat was white with black markings and was taken to a security room inside the prison complex, where specialist staff removed the packets. [@7] Costa Rican authorities documented at least seven attempts between 2015 and 2024 to bring banned items in with animals, using cats, pigeons and dogs. [@7]
