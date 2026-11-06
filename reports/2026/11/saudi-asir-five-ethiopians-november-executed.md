@@ -1,0 +1,58 @@
+---
+code: GE4269
+added_at: "2026-11-06T00:21:35.411289Z"
+date: 2026-11-05
+country: sa
+place: Asir region, Saudi Arabia
+coordinates: [19.1667, 43.1667]
+precision: region
+type: execution
+title: Saudi Arabia executes five Ethiopians for hashish smuggling
+summary: >-
+  Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November 2026 after convicting them of smuggling hashish. The executions brought the kingdom's 2026 total to 205, including 124 drug cases and 32 Ethiopians.
+figures:
+  deaths: 5
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: cad02e3f57090b79fc61c6e533a49427
+tags: [hashish, asir, ethiopian-nationals, taazir]
+sources:
+  - title: السعودية تعدم خمسة إثيوبيين دينوا بتهريب المخدرات إلى المملكة
+    url: https://www.mc-doualiya.com/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20261105-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AF%D9%85-%D8%AE%D9%85%D8%B3%D8%A9-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D8%AF%D9%8A%D9%86%D9%88%D8%A7-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9
+    publisher: مونت كارلو الدولية / MCD
+    date: 2026-11-05
+    language: ar
+  - title: Saudi Arabia executes five Ethiopians for smuggling hashish, announces ministry
+    url: https://www.khaleejtimes.com/world/gulf/saudi-arabia-execution-five-ethiopians-smuggling-hashish
+    publisher: Khaleej Times
+    date: 2026-11-05
+open_questions:
+  - The names of the five executed men were not published.
+  - No quantity of hashish they were convicted of smuggling was published.
+  - No exact place of execution beyond the Asir region was stated.
+  - No trial, appeal or detention details for these five men were reported.
+  - The 205, 124, 109 and 32 totals are AFP tallies based on official data, not separate findings for this event.
+  - The submitted page's only photo is captioned as a 25 April 2023 Jeddah amphetamine seizure and does not show this execution, so no media entry is included.
+---
+
+Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
+2026. [@1] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1] The ministry recorded the penalty as
+a discretionary taazir execution. [@1] The executions were carried out on
+Thursday in Asir in the south of the country. [@1]
+
+An AFP tally based on official data put total executions in Saudi Arabia in 2026
+at 205. [@1] The same tally counted 124 people executed in drug cases this year,
+a majority of all executions. [@1] Foreigners accounted for 109 of this year's
+executions, including 32 Ethiopians as the largest foreign group. [@1] Saudi
+authorities had executed five Ethiopians in a single day in June and five in a
+single day in July on similar charges. [@2]
+
+Human Rights Watch warned in July that at least 79 detained Ethiopians remained
+at imminent risk of execution on similar charges. [@1] Last year executions
+reached a second straight annual record with 356 people put to death, including
+243 in drug cases. [@1] Saudi authorities say executions follow exhaustion of
+all appeals and aim to maintain security and protect residents from drugs. [@1]
+Rights groups say the executions undermine the kingdom's efforts to polish its
+image. [@1]
+
