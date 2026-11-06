@@ -13,18 +13,22 @@ summary: >-
 figures:
   kg_seized: 0.925
 details:
+  activity: [sale]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.activity: [3, 2, 1]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 1]
   details.date_precision: [2]
   details.products: [1, 2]
+  details.setting: [1]
   figures.kg_seized: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

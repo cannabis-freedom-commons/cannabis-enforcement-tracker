@@ -18,6 +18,7 @@ figures:
   arrested: 2
   kg_seized: 6.5
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: charged
   date_precision: exact
@@ -25,6 +26,7 @@ details:
     - {product: hashish}
   setting: [port, home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

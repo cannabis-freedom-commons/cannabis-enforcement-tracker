@@ -22,9 +22,11 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  setting: [field]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: b873f428843fcf379faf7a54477b09da

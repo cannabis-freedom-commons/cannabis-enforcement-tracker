@@ -25,11 +25,13 @@ details:
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: plants, plants: 88}]
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 5, 2, 4]
   details.case_stage: [2, 3, 5, 1, 4]
   details.products: [2, 3, 5, 1, 4]
+  details.setting: [2, 3, 5, 1, 4]
   figures.arrested: [2, 3, 5, 1]
   figures.plants_destroyed: [1, 2, 3, 5, 4]
   figures.value: [2, 3, 5, 1, 4]

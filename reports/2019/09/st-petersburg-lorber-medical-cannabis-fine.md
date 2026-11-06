@@ -20,12 +20,14 @@ figures:
     amount: 15000
     currency: RUB
 details:
+  activity: [possession]
   agency_types: [court]
   case_stage: convicted
   products: [{product: flower, kg: 0.01905}]
   sentence_types: [fine]
   setting: [airport]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2]
   details.products: [3, 1, 2]

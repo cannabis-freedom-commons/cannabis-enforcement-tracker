@@ -25,12 +25,14 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2, 3]
   details.products: [2]
+  details.setting: [3, 1]
   figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

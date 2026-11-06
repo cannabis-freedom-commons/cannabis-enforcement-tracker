@@ -18,11 +18,13 @@ details:
   case_stage: charged
   date_precision: exact
   products: [{product: flower}]
+  setting: [border]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.date_precision: [2, 3, 7, 8]
   details.products: [1, 2, 3, 7, 8, 4]
+  details.setting: [2, 3, 4, 5, 6, 7]
 status: verified
 cfi_id: taiwan-cannabis-seizure-2026
 sources:

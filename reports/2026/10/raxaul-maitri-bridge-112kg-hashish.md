@@ -23,11 +23,13 @@ details:
   products:
     - {product: hashish}
   route: {from: [np], to: [in]}
+  setting: [border]
 data_sources:
   details.activity: [1, 2, 4]
   details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2]
   details.route: [2]
+  details.setting: [2, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [raxaul, hashish, nepal-route, ssb]

@@ -14,10 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 100
 details:
+  activity: [cultivation]
   products: [{product: plants, plants: 100}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

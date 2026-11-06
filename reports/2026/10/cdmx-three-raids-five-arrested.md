@@ -37,11 +37,13 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [field, street]
 data_sources:
   details.agency_types: [3, 1, 2]
   details.case_stage: [3, 1, 2]
   details.date_precision: [3, 1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

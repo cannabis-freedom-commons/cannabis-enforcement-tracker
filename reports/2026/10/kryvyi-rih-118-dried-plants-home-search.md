@@ -15,6 +15,7 @@ summary: >-
 figures:
   plants_destroyed: 118
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -22,6 +23,7 @@ details:
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [3, 5, 1]
   details.agency_types: [3, 5, 1, 2, 4]
   details.case_stage: [4, 2, 1, 5]
   details.date_precision: [3, 5, 1, 2, 4]

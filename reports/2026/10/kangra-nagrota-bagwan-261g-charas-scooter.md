@@ -15,12 +15,14 @@ figures:
   charged: 1
   kg_seized: 0.261
 details:
+  activity: [sale]
   agency_types: [police]
   date_precision: exact
   products:
     - {product: hashish}
   setting: [border]
 data_sources:
+  details.activity: [3]
   details.agency_types: [3, 1, 2]
   details.date_precision: [3, 1, 2]
   details.products: [1, 3]

@@ -15,10 +15,12 @@ details:
   activity: [trafficking]
   case_stage: sentenced
   sentence_types: [prison]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: russia-fogel-arrest-2021
 tags:

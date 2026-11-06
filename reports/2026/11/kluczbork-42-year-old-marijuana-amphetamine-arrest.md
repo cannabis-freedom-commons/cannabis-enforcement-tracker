@@ -15,12 +15,14 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [possession, processing]
   agency_types: [police, court]
   case_stage: charged
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1]
   details.products: [1]

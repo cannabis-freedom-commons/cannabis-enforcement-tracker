@@ -18,9 +18,11 @@ figures:
 details:
   agency_types: [police]
   products: [{product: flower, kg: 0.0049}]
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/polynesie/23-3-grammes-d-ice-saisis-a-punaauia-avec-du-cannabis-1746648.html

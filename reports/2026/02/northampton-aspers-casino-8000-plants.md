@@ -23,6 +23,7 @@ figures:
     amount: 3200000
     currency: GBP
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -30,6 +31,7 @@ details:
   sentence_types: [fine]
   setting: [prison]
 data_sources:
+  details.activity: [3, 2, 1]
   details.agency_types: [2, 1, 3, 4]
   details.case_stage: [2, 1, 3]
   details.date_precision: [2, 1, 3]

@@ -24,6 +24,7 @@ media:
     publisher: Goemkarponn
     caption: A man in custody flanked by Saligao police officers after the arrest at Marra, Pilerne; the faces are blurred in the published photo and no credit is given.
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: investigation
   products:
@@ -31,6 +32,7 @@ details:
   sentence_types: [fine]
   setting: [home]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [3, 4, 1]
   details.products: [1, 4]

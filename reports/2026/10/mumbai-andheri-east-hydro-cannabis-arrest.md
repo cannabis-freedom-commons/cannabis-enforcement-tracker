@@ -21,12 +21,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 1.896}]
 data_sources:
   details.activity: [1, 7, 9, 10, 2, 3]
   details.agency_types: [1, 3, 7, 10, 12, 2]
+  details.case_stage: [1, 3, 4, 6, 7, 8]
   details.date_precision: [2, 3, 5, 6, 8, 11]
   details.environment: [1, 3, 4, 6, 7, 8]
   details.products: [1, 7, 9, 10, 2, 3]

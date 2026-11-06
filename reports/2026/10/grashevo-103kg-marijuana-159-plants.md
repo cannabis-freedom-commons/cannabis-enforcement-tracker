@@ -15,11 +15,13 @@ figures:
   plants_destroyed: 159
   kg_seized: 103
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie, police]
   date_precision: exact
   products: [{product: flower, kg: 103}, {product: plants, plants: 159}]
   setting: [shop]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]

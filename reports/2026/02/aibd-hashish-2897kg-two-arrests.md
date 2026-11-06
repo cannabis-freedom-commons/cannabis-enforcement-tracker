@@ -87,6 +87,7 @@ media:
     caption: Photograph published in Seneweb's gallery of the AIBD seizure; the outlet gives no individual caption.
 created_by_model: openai/gpt-6-luna#max
 details:
+  activity: [processing]
   agency_types: [customs, police, prosecutor]
   case_stage: investigation
   date_precision: exact
@@ -94,6 +95,7 @@ details:
     - {product: hashish}
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

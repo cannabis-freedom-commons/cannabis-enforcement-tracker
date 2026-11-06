@@ -29,11 +29,13 @@ media:
     publisher: Infobae
     caption: 'Agent with a detection dog inspecting portable toilets at the San Roque venue. Photo: Ministerio Público de Córdoba'
 details:
+  activity: [trafficking]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1, 3]
   details.products: [1, 2, 3]

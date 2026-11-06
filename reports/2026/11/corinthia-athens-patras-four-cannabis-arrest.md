@@ -15,10 +15,12 @@ figures:
   arrested: 4
   kg_seized: 0.00789
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 0.00789}]
 data_sources:
+  details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

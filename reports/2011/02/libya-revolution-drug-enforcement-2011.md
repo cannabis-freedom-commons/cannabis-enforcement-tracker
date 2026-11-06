@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   products: [{product: flower}]
+  setting: [border, street]
 data_sources:
   details.activity: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: libya-revolution-drug-enforcement-2011
 sources:

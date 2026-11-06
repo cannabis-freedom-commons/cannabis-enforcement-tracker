@@ -13,10 +13,12 @@ summary: >-
   opened under the supply article of the Criminal Code and the investigation continued.
 created_by_model: unknown
 details:
+  activity: [sale]
   case_stage: investigation
   date_precision: exact
   products: [{product: hashish}, {product: flower}]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]

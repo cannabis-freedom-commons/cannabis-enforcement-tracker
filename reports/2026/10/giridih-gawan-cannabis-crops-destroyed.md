@@ -23,11 +23,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e01cd4886f10ef7a25268508b1a31d9

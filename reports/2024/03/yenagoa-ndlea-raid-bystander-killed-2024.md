@@ -20,6 +20,7 @@ details:
   activity: [sale]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   date_precision: exact
   force: shots-fired
   products: [{product: flower}]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]

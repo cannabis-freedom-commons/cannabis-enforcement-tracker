@@ -19,11 +19,15 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [military]
+  case_stage: investigation
   force: lethal
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.force: [1]
+  details.setting: [1]
   figures.arrested: [1]
 status: verified
 tags: [anp, moroccan-border, weekly-bilan]

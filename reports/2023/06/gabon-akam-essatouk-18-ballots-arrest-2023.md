@@ -15,12 +15,14 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [possession]
   agency_types: [gendarmerie, police]
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [prison, fine]
   setting: [forest, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]

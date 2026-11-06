@@ -21,11 +21,13 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
   details.date_precision: [1, 3]
   details.products: [1]
+  details.setting: [1, 3, 2]
   figures.arrested: [3, 1, 2]
   figures.charged: [3, 1, 2]
   figures.kg_seized: [3, 1, 2]

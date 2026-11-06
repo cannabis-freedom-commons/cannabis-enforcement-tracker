@@ -18,12 +18,14 @@ summary: >-
 figures:
   deaths: 1
 details:
+  activity: [cultivation]
   agency_types: [police]
   date_precision: exact
   force: lethal
   products: [{product: flower}, {product: plants}]
   setting: [field, forest]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.date_precision: [1, 2]
   details.force: [1, 2]

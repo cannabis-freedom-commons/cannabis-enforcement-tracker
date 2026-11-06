@@ -17,10 +17,12 @@ details:
   activity: [cultivation]
   date_precision: exact
   products: [{product: hashish}]
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bekaa, eradication, isf]

@@ -18,6 +18,7 @@ figures:
   value: { amount: 7000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
@@ -25,6 +26,7 @@ details:
   setting: [airport]
   environment: [indoor]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

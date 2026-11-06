@@ -21,11 +21,13 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 427}]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
   details.date_precision: [1, 2, 4, 3]
   details.products: [1, 2, 4, 3]
+  details.setting: [1, 3, 4, 2]
   figures.arrested: [1, 2, 4, 3]
   figures.kg_seized: [1, 2, 4, 3]
 media:

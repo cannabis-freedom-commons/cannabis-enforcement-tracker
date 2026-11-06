@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [cultivation]
+  case_stage: sentenced
   date_precision: exact
 data_sources:
   details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.date_precision: [1, 2]
 status: verified
 cfi_id: indonesia-dutch-cannabis-farm-2026

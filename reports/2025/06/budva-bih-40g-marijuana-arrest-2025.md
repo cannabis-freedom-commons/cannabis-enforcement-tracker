@@ -15,12 +15,14 @@ figures:
   arrested: 1
   kg_seized: 0.04
 details:
+  activity: [possession]
   agency_types: [police, prosecutor]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

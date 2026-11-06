@@ -18,11 +18,13 @@ figures:
     amount: 1072
     currency: USD
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 30}]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

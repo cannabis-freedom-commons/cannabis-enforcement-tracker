@@ -22,6 +22,7 @@ media:
     publisher: CK News
     caption: Lead photo on the CK News report of the search at KCR Towers, Tekulapalli, showing a crowd gathered in a residential street; the outlet published no caption or credit.
 details:
+  activity: [sale]
   agencies: [in-excise, in-eagle]
   agency_types: [regulator, anti-narcotics]
   case_stage: investigation
@@ -30,6 +31,7 @@ details:
     - {product: flower}
   setting: [shop]
 data_sources:
+  details.activity: [2, 4, 3, 1, 5, 6]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 4, 3, 1, 5, 6]

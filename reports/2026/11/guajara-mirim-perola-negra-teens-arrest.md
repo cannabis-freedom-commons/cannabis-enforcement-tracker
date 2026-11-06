@@ -19,11 +19,13 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.date_precision: [1, 3, 2]
   details.products: [2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 04b374ebc35ec2aa2825aa75570f6576

@@ -24,6 +24,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 31054}]
   route: {from: [py], to: [br]}
+  setting: [border]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -32,6 +33,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [senad, capitan-bado, itakyry, brazil-border]
 media:

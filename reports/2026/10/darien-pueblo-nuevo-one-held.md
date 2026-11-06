@@ -31,11 +31,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [border]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [2, 1]
   details.products: [2]
+  details.setting: [2]
   figures.arrested: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low

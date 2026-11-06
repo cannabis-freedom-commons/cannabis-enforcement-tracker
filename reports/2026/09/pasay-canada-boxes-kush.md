@@ -22,6 +22,7 @@ figures:
     amount: 7119000
     currency: PHP
 details:
+  activity: [processing]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   case_stage: charged
@@ -29,6 +30,7 @@ details:
     - {product: flower}
   setting: [home, building]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [3, 2, 1]

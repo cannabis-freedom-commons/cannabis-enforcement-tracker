@@ -13,8 +13,10 @@ summary: >-
 created_by_model: unknown
 details:
   products: [{product: hashish}]
+  setting: [port]
 data_sources:
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: philippines-micp-kush-hash-2024
 sources:

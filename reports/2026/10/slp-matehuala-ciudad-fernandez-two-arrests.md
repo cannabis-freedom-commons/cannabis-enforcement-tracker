@@ -19,11 +19,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3, 1, 4]
   details.products: [2, 3, 1, 4]
+  details.setting: [2, 3, 1]
   figures.arrested: [2, 3, 1, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

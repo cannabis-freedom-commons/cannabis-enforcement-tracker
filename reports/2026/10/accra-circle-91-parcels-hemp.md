@@ -18,12 +18,14 @@ figures:
     amount: 33600
     currency: GHS
 details:
+  activity: [processing]
   agency_types: [police]
   case_stage: convicted
   date_precision: exact
   products: [{product: flower}]
   setting: [mail]
 data_sources:
+  details.activity: [1, 4, 5, 7, 8, 10]
   details.agency_types: [1, 4, 5, 7, 9, 10]
   details.case_stage: [1, 4, 6, 7, 8, 9]
   details.date_precision: [1, 4, 5, 7, 9, 10]

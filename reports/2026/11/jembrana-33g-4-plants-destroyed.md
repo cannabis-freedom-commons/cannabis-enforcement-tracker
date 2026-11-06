@@ -15,11 +15,13 @@ figures:
   plants_destroyed: 4
   kg_seized: 0.03304
 details:
+  activity: [cultivation]
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 4}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1]

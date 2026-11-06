@@ -19,6 +19,7 @@ figures:
   kg_seized: 22
   prison: "9 months"
 details:
+  activity: [cultivation]
   agency_types: [police, court]
   case_stage: sentenced
   date_precision: exact
@@ -27,6 +28,7 @@ details:
   sentence_types: [deportation]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2, 3]

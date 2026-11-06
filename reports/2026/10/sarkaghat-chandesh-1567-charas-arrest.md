@@ -24,11 +24,13 @@ media:
     caption: 'A man held with charas, in the photograph Punjab Kesari published with its report on the Sarkaghat seizure, captioned ''smuggler arrested with hashish''. Photo: Punjab Kesari'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
   details.products: [2]
   details.setting: [2, 3]
   figures.arrested: [2, 3, 1]

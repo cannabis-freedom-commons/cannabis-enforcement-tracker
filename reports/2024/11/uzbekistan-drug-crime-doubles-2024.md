@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   agency_types: [anti-narcotics]
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: uzbekistan-drug-crime-doubles-2024
 sources:

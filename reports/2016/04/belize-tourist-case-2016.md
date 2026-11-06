@@ -12,10 +12,12 @@ summary: >-
   believe it was legal, cautioning her never to possess drugs in Belize again.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [court]
   case_stage: acquitted
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

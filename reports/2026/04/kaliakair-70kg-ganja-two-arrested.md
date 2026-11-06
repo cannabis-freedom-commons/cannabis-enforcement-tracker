@@ -24,6 +24,7 @@ media:
     publisher: Banglar Alo News
     caption: Photo published with the report on the seizure of 70 kg 700 g of ganja and the arrest of two men in Kaliakair.
 details:
+  activity: [sale]
   agencies: [bd-rab]
   agency_types: [police]
   case_stage: investigation
@@ -31,6 +32,7 @@ details:
   products: [{product: flower, kg: 70.7}]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

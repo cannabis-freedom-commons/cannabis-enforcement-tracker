@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 6
   prison: 18 months, suspended
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   environment: [greenhouse]
@@ -24,6 +25,7 @@ details:
   sentence_types: [prison, suspended]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]

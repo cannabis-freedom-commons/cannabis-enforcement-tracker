@@ -16,11 +16,13 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: seeds}]
+  setting: [port, field]
 data_sources:
   details.activity: [1, 2, 5]
   details.case_stage: [2, 4, 5, 1, 3]
   details.date_precision: [2, 4, 5]
   details.products: [2, 1, 4, 5, 3]
+  details.setting: [2, 5, 1, 4, 3]
 media:
   - kind: photo
     url: https://www.dakarposte.com/CASAMANCE-COUP-DE-FILET-DANS-LES-ILES-KARONE-LA-MARINE-DETRUIT-DES-PLANTATIONS-DE-CANNABIS-ET-SAISIT-37-SACS-DE-CHANVRE_a88138.html

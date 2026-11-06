@@ -15,8 +15,10 @@ figures:
   kg_seized: 131.946
 details:
   agency_types: [police]
+  setting: [port, field, street]
 data_sources:
   details.agency_types: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/misiones-incautaron-mas-de-131-kilos-de-marihuana-abandonados-en-la-costa-del-rio-parana

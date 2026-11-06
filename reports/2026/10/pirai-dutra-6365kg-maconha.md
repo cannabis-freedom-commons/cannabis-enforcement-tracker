@@ -29,6 +29,7 @@ details:
   case_stage: convicted
   date_precision: exact
   products: [{product: flower, kg: 63.65}]
+  setting: [field]
 data_sources:
   details.activity: [2, 1, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 7]
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [3, 7, 2, 1, 4, 5]
   details.date_precision: [1, 4, 5, 3, 6]
   details.products: [3, 5, 1, 4, 6, 7]
+  details.setting: [1, 4, 5, 3, 6]
   figures.arrested: [1, 4, 5, 3, 6]
   figures.kg_seized: [1, 4, 5, 6, 7, 3]
 status: reported

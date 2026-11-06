@@ -17,6 +17,7 @@ figures:
   deaths: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: charged
   date_precision: exact
@@ -24,6 +25,7 @@ details:
   products: [{product: flower}, {product: plants}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1]
   details.date_precision: [1, 2, 3]

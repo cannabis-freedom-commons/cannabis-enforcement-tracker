@@ -21,10 +21,12 @@ figures:
   kg_seized: 0.0478
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 8, 9, 10]
   figures.arrested: [1, 2, 3, 4, 5, 6]
 status: verified

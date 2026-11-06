@@ -17,12 +17,14 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: appeal
   date_precision: exact
   products: [{product: flower, kg: 30}]
   setting: [mail]
 data_sources:
   details.activity: [3, 2, 4]
   details.agency_types: [3, 1, 2, 4]
+  details.case_stage: [3, 2, 4]
   details.date_precision: [3, 1]
   details.products: [1, 3, 2]
   details.setting: [3, 1, 2]

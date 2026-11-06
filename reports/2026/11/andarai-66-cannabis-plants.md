@@ -20,6 +20,7 @@ media:
     publisher: Noticias R7
     caption: 'Borel UPP agents found the drug plantation in a greenhouse. Photo: Policia Militar.'
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -28,6 +29,7 @@ details:
   products: [{product: plants, plants: 66}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]

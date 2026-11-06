@@ -18,6 +18,7 @@ figures:
   charged: 7
 created_by_model: unknown
 details:
+  activity: [sale]
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: charged
@@ -25,6 +26,7 @@ details:
   products: [{product: flower}]
   setting: [shop]
 data_sources:
+  details.activity: [1, 2, 4, 5, 6]
   details.agencies: [1, 2, 3, 5, 6]
   details.agency_types: [1, 2, 3, 5, 6]
   details.case_stage: [1, 2, 4, 5, 6, 3]

@@ -23,6 +23,7 @@ media:
     publisher: İlke Haber Ajansı
     caption: Lead photo on the source page for this Diyarbakır seizure report.
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie, anti-narcotics]
   case_stage: investigation
   date_precision: exact
@@ -30,6 +31,7 @@ details:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 7, 15, 4, 5, 6]
   details.agency_types: [1, 4, 5, 6, 7, 9]
   details.case_stage: [2, 6, 8, 10, 11, 12]
   details.date_precision: [3, 4, 5, 7, 10, 11]

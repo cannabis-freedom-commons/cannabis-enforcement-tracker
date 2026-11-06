@@ -18,10 +18,12 @@ details:
   agency_types: [gendarmerie, military, police]
   case_stage: investigation
   products: [{product: flower, kg: 2}]
+  setting: [border, street]
 data_sources:
   details.agency_types: [2, 1, 5, 3, 4]
   details.case_stage: [2, 1, 5]
   details.products: [2]
+  details.setting: [2, 1, 5]
   figures.arrested: [2, 1, 5]
   figures.kg_seized: [2]
 media:

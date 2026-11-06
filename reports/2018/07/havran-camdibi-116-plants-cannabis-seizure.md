@@ -16,12 +16,14 @@ figures:
   plants_destroyed: 116
   kg_seized: 1.21
 details:
+  activity: [cultivation]
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: plants, plants: 116}]
   setting: [home]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 3]

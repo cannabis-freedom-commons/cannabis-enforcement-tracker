@@ -17,6 +17,7 @@ summary: >-
 figures:
   kg_seized: 8000
 details:
+  activity: [cultivation]
   agencies: [ca-opp]
   agency_types: [police]
   case_stage: investigation
@@ -25,6 +26,7 @@ details:
   products: [{product: plants}]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

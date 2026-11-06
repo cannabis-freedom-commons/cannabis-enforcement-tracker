@@ -16,9 +16,13 @@ summary: >-
 figures:
   fine: { amount: 11150, currency: USD }
 details:
+  activity: [sale]
   products: [{product: flower}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.fine: [1, 2]
 status: disputed
 created_by_model: openai/gpt-6

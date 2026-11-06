@@ -37,6 +37,7 @@ details:
   case_stage: charged
   date_precision: exact
   products: [{product: flower}]
+  setting: [field, street]
 data_sources:
   details.activity: [1, 3, 4]
   details.agencies: [1, 2, 3, 4]
@@ -44,6 +45,7 @@ data_sources:
   details.case_stage: [3, 4, 1]
   details.date_precision: [1, 3, 4]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
   figures.arrested: [1, 2, 3, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

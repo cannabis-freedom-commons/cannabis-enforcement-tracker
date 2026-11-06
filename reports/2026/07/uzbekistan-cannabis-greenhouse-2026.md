@@ -14,10 +14,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling, sale]
+  case_stage: convicted
   products: [{product: hashish}, {product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

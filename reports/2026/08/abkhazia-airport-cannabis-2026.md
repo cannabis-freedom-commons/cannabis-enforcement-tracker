@@ -13,9 +13,11 @@ summary: >-
   prosecuted in the aggravated possession tier rather than as simple possession.
 created_by_model: unknown
 details:
+  activity: [possession]
   case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
 status: verified

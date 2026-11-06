@@ -22,6 +22,7 @@ figures:
   prison: 13 years 4 months
 created_by_model: meta/muse-spark
 details:
+  activity: [possession]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   date_precision: exact
@@ -29,6 +30,7 @@ details:
   sentence_types: [prison, suspended, probation]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.date_precision: [1, 3]

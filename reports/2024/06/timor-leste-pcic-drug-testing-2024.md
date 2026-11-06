@@ -13,10 +13,12 @@ summary: >-
   statement points to the laboratory gap the 2012 UN assessment had already identified.
 created_by_model: unknown
 details:
+  activity: [processing]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

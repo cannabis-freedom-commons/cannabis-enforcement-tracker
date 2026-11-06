@@ -17,10 +17,12 @@ details:
   agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
+  setting: [border, field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [2]
+  details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

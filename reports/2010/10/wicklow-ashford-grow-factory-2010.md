@@ -17,6 +17,7 @@ figures:
   value: { amount: 500000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: investigation
@@ -24,6 +25,7 @@ details:
   products: [{product: plants, plants: 1000}]
   setting: [home, building]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]

@@ -17,12 +17,14 @@ figures:
   plants_destroyed: 10
   kg_seized: 3.059
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 5, 6, 7, 9]
   details.agency_types: [3, 4, 5, 6, 7, 9]
   details.case_stage: [3, 4, 5, 6, 7, 9]
   details.products: [1, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]

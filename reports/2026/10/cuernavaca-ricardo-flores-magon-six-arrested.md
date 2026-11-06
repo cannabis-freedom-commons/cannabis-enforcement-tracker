@@ -24,10 +24,12 @@ details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
+  setting: [street]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 624eb51b2962c801a9c39bfd9e28f856

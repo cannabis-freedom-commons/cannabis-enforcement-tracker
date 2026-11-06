@@ -18,11 +18,13 @@ details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 15.09}]
+  setting: [port, field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/en-misiones-incautaron-15-kilos-de-marihuana-y-7750-paquetes-de-cigarrillos-sin-aval-legal

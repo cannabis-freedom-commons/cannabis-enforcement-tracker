@@ -15,15 +15,19 @@ summary: >-
 figures:
   arrested: 2
 details:
+  activity: [trafficking]
   agency_types: [anti-narcotics, police, court]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
+  setting: [field, street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9e465c75d6f94ffad49845c1a16ef1ec

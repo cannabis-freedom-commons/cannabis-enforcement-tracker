@@ -34,6 +34,7 @@ media:
     publisher: Argentina.gob.ar (Gendarmería Nacional)
     caption: 'A cannabis bud from the plants seized in Río Grande. Photo: Gendarmería Nacional.'
 details:
+  activity: [cultivation]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -41,6 +42,7 @@ details:
   products: [{product: flower, kg: 10.641}, {product: plants}]
   setting: [border]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

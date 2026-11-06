@@ -18,11 +18,13 @@ figures:
   plants_destroyed: 7300
 created_by_model: xai/grok-4.7
 details:
+  activity: [cultivation]
   agency_types: [anti-narcotics, police]
   date_precision: exact
   products: [{product: plants, plants: 7300}]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.date_precision: [1]
   details.products: [1]

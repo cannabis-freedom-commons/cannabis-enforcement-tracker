@@ -23,6 +23,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}, {product: oil}]
+  setting: [street]
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [1, 2]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.date_precision: [1, 2]
   details.products: [2, 1, 3]
+  details.setting: [3, 2]
   figures.arrested: [1, 2]
   figures.value: [1, 3, 2]
 status: verified

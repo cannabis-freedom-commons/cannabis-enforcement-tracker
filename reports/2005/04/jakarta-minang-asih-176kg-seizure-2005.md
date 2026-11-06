@@ -18,10 +18,12 @@ figures:
   kg_seized: 176
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
   agency_types: [police]
   date_precision: exact
   products: [{product: flower, kg: 176}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]

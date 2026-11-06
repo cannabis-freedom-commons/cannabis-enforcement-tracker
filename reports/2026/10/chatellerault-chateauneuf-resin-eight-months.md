@@ -17,6 +17,7 @@ figures:
   charged: 1
   prison: 8 months
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   products:
@@ -24,6 +25,7 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

@@ -15,10 +15,12 @@ details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
   products: [{product: hashish}]
+  setting: [port]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: libya-misrata-cannabis-resin-2026
 sources:

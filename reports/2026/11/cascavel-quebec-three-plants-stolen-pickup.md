@@ -20,6 +20,7 @@ media:
     publisher: Portal24
     caption: Photo published with the report of the stolen pickup and cannabis plants found in Cascavel.
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -28,6 +29,7 @@ details:
     - {product: flower}
   setting: [vehicle, home]
 data_sources:
+  details.activity: [1, 5, 3, 4, 2]
   details.agencies: [1, 5]
   details.agency_types: [1, 5]
   details.case_stage: [1, 5, 3, 4, 2]

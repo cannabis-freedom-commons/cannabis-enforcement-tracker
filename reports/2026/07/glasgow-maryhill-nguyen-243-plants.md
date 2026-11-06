@@ -20,11 +20,13 @@ figures:
     amount: 145800
     currency: GBP
 details:
+  activity: [cultivation]
   agency_types: [prosecutor, court]
   date_precision: exact
   products: [{product: plants, plants: 243}]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]

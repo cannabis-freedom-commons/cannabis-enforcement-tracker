@@ -15,15 +15,19 @@ summary: >-
 figures:
   plants_destroyed: 440000
 details:
+  activity: [cultivation]
   agency_types: [military, police]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 440000}]
+  setting: [border, field]
 data_sources:
+  details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2]
+  details.setting: [2, 1]
   figures.plants_destroyed: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

@@ -16,6 +16,7 @@ summary: >-
   pardoned and released early within weeks.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [customs]
   case_stage: sentenced
   date_precision: exact
@@ -23,6 +24,7 @@ details:
   sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2, 3]

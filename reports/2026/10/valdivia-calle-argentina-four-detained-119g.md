@@ -20,11 +20,13 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower, kg: 0.1191}]
+  setting: [field, street]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
   details.products: [1, 3]
+  details.setting: [2, 1, 3]
   figures.kg_seized: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

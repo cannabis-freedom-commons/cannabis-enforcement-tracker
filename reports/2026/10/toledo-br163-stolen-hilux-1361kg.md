@@ -32,11 +32,13 @@ media:
 details:
   agencies: [br-prf, br-pm]
   agency_types: [police, gendarmerie]
+  case_stage: investigation
   products: [{product: flower, kg: 1361.7}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 4, 5]
   details.agency_types: [1, 2, 4, 5]
+  details.case_stage: [1, 5, 3, 2]
   details.products: [2, 1, 6, 3, 5, 4]
   details.setting: [1, 5, 3, 2, 6, 4]
   figures.kg_seized: [1, 6, 3, 5, 4]

@@ -16,12 +16,14 @@ figures:
   arrested: 5
   kg_seized: 0.138
 details:
+  activity: [sale]
   agencies: [cl-pdi]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 0.138}]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

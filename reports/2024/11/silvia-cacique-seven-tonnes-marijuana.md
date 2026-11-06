@@ -17,13 +17,17 @@ figures:
     amount: 4000000000
     currency: COP
 details:
+  activity: [sale]
   agency_types: [military, police]
   case_stage: investigation
   products: [{product: flower, kg: 7000}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.portafolio.co/economia/regiones/logran-la-mas-grande-incautacion-de-marihuana-en-colombia-de-los-ultimos-7-anos-617688

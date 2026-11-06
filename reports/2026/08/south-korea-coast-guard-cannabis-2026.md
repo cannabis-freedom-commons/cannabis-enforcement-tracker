@@ -15,10 +15,12 @@ details:
   activity: [cultivation]
   agency_types: [coast-guard]
   products: [{product: plants}]
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: south-korea-coast-guard-cannabis-2026
 sources:

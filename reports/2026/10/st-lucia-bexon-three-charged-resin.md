@@ -15,6 +15,7 @@ figures:
   arrested: 2
   charged: 3
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: charged
   date_precision: exact
@@ -22,6 +23,7 @@ details:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

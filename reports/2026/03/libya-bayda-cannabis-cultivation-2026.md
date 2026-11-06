@@ -14,12 +14,14 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking, cultivation]
+  case_stage: convicted
   date_precision: exact
   products: [{product: flower}]
   sentence_types: [life]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1]

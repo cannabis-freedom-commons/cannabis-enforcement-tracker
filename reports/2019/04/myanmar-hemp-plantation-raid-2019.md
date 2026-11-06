@@ -13,10 +13,14 @@ summary: >-
   for one year. Todoroki was released on medical bail in July 2019 and reportedly left the country.
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agency_types: [court]
+  case_stage: sentenced
   products: [{product: plants}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 cfi_id: myanmar-hemp-plantation-raid-2019

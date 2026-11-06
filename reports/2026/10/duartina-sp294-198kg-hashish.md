@@ -32,12 +32,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [military, police]
+  case_stage: investigation
   date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
   details.date_precision: [2, 3, 1]
   details.products: [2]
   figures.arrested: [2, 3, 1]

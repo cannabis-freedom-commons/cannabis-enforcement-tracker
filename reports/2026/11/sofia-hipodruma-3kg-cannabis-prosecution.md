@@ -15,11 +15,13 @@ figures:
   charged: 1
   kg_seized: 3.19949
 details:
+  activity: [sale]
   agency_types: [prosecutor]
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 2, 5, 3, 6]
   details.agency_types: [1, 4, 2, 5, 3, 6]
   details.products: [1, 2, 3, 6]
   details.setting: [1, 2, 5, 3, 6]

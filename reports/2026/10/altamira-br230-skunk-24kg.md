@@ -27,6 +27,7 @@ media:
     publisher: PARÁ WEB NEWS
     caption: Packages of the seized skunk in a bag, in the article's lead photo; the page gives no credit.
 details:
+  activity: [processing]
   agencies: [br-prf]
   agency_types: [police]
   case_stage: investigation
@@ -34,6 +35,7 @@ details:
     - {product: flower}
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3, 4, 6]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 6]

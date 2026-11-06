@@ -19,12 +19,14 @@ figures:
     amount: 62000
     currency: INR
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]

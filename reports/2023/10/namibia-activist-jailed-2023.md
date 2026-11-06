@@ -13,10 +13,12 @@ summary: >-
   lawyer in the constitutional case said the sentence did not end that challenge.
 created_by_model: unknown
 details:
+  activity: [possession]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]

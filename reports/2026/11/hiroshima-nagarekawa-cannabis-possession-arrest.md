@@ -16,12 +16,14 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [2, 4]
   details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 4]
   details.date_precision: [2, 4, 3, 1]
   details.products: [2, 4, 1, 3]
   details.setting: [2, 3, 1]

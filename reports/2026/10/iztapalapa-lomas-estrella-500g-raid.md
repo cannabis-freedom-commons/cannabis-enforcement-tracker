@@ -22,16 +22,20 @@ media:
     publisher: La Silla Rota
     caption: 'SSC photo published with the report of the Lomas Estrella search. Photo: SSC_CDMX'
 details:
+  activity: [sale]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

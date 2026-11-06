@@ -18,11 +18,13 @@ figures:
     amount: 35500
     currency: INR
 details:
+  activity: [sale, processing]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

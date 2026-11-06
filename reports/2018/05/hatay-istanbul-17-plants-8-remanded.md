@@ -16,11 +16,13 @@ figures:
   plants_destroyed: 17
   kg_seized: 0.011
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie]
   case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]

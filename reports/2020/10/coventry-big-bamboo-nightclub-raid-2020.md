@@ -20,6 +20,7 @@ figures:
   value: { amount: 1000000, currency: GBP }
 created_by_model: meta/muse-spark
 details:
+  activity: [cultivation]
   agencies: [gb-nca]
   agency_types: [police]
   case_stage: charged
@@ -27,6 +28,7 @@ details:
   products: [{product: plants, plants: 1000}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

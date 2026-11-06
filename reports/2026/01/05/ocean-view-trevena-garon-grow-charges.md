@@ -23,12 +23,14 @@ figures:
   value: { amount: 1437630, currency: USD }
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation, possession]
   agency_types: [police]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 184.9}, {product: plants, plants: 397}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

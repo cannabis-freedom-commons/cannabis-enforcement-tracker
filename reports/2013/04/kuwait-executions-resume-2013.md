@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  case_stage: convicted
 data_sources:
   details.activity: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
 status: verified
 cfi_id: kuwait-executions-resume-2013
 sources:

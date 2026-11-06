@@ -30,11 +30,13 @@ media:
     caption: 'Bundles of marijuana retained by the Esmeraldas police in the early hours of 22 July 2026. Photo: Policía Subzona Esmeraldas'
 details:
   agency_types: [military, anti-narcotics, police]
+  case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 319.228}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [3, 2, 1]
+  details.case_stage: [3, 2]
   details.date_precision: [3, 1]
   details.products: [3, 2, 1]
   details.setting: [3]

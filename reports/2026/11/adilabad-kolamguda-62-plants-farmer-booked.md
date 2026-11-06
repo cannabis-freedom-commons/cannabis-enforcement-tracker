@@ -15,6 +15,7 @@ figures:
   charged: 1
   plants_destroyed: 62
 details:
+  activity: [cultivation]
   agencies: [in-excise]
   agency_types: [regulator]
   case_stage: investigation
@@ -22,6 +23,7 @@ details:
     - {product: flower}
   setting: [vehicle, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

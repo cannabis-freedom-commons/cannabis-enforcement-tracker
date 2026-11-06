@@ -18,6 +18,7 @@ summary: >-
 figures:
   kg_seized: 7
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -26,6 +27,7 @@ details:
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1, 2]

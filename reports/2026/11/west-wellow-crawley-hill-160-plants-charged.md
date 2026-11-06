@@ -17,12 +17,14 @@ figures:
   charged: 1
   plants_destroyed: 160
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: charged
   date_precision: exact
   products: [{product: plants, plants: 160}]
   setting: [home, building]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

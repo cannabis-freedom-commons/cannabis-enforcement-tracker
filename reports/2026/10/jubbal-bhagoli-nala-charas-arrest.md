@@ -28,11 +28,13 @@ media:
     caption: The arrested man sitting on the floor in front of three uniformed police officers, in the photograph published with Rozana Spokesman's report of the Jubbal arrest.
 details:
   agency_types: [police]
+  case_stage: investigation
   date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2]
   details.date_precision: [1, 4, 2, 3]
   details.products: [1, 2, 3, 4]
   figures.arrested: [1, 4, 2]

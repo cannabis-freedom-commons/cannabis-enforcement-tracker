@@ -14,6 +14,7 @@ summary: >-
 figures:
   kg_seized: 0.021
 details:
+  activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   date_precision: exact
@@ -22,6 +23,7 @@ details:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [1, 2]

@@ -31,11 +31,13 @@ details:
   force: physical
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.agency_types: [2, 4, 3, 1, 5]
   details.date_precision: [2, 4, 3, 1, 5]
   details.force: [1, 4, 5, 2, 3]
   details.products: [2, 4]
+  details.setting: [2, 4, 3, 1, 5]
   figures.arrested: [1, 4, 5, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

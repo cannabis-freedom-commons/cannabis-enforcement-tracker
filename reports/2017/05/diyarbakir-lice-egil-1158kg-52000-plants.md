@@ -16,12 +16,14 @@ figures:
   plants_destroyed: 52000
   kg_seized: 1158
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie, prosecutor, court]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 52000}]
   setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

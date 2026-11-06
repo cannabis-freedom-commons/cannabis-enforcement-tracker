@@ -13,9 +13,11 @@ created_by_model: unknown
 details:
   agency_types: [customs]
   products: [{product: hashish}]
+  setting: [port]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: qatar-hamad-port-seizure-2023
 sources:

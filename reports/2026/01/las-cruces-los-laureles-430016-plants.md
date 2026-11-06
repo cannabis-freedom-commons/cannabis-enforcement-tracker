@@ -21,11 +21,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 430016}]
+  setting: [border]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://politica.expansion.mx/mexico/2026/01/31/guatemala-captura-a-un-presunto-narco-mexicano

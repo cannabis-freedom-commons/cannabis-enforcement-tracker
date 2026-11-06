@@ -24,6 +24,7 @@ details:
   products:
     - {product: hashish}
   sentence_types: [death]
+  setting: [street]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2]
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [hashish, foreign-national, najran]
 open_questions:

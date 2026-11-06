@@ -15,10 +15,12 @@ details:
   activity: [trafficking]
   agency_types: [police]
   products: [{product: hashish}]
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: sudan-radom-campaign-2017
 tags:

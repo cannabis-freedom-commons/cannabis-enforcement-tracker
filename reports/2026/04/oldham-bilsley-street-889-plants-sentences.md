@@ -24,6 +24,7 @@ figures:
     currency: GBP
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -31,6 +32,7 @@ details:
   sentence_types: [prison]
   setting: [building, prison]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3, 2]
   details.date_precision: [1, 3, 2]

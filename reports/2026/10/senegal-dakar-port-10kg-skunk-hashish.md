@@ -22,6 +22,7 @@ figures:
     currency: XOF
 created_by_model: claude-apollo-4-8
 details:
+  activity: [processing]
   agency_types: [customs, police]
   case_stage: investigation
   date_precision: exact
@@ -29,6 +30,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

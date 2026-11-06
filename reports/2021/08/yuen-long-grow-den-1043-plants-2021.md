@@ -21,12 +21,14 @@ figures:
   kg_seized: 465
   value: { amount: 70000000, currency: HKD }
 details:
+  activity: [cultivation]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 1043}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

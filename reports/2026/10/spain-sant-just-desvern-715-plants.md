@@ -18,6 +18,7 @@ figures:
   arrested: 2
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [cultivation]
   agencies: [es-mossos]
   agency_types: [police]
   case_stage: investigation
@@ -25,6 +26,7 @@ details:
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

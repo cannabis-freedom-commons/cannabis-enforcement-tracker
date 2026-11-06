@@ -15,13 +15,19 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [possession]
   agency_types: [prosecutor]
+  case_stage: charged
   date_precision: exact
   products: [{product: flower}]
+  setting: [field]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.date_precision: [1]
   details.products: [1]
+  details.setting: [1, 2, 3]
   figures.arrested: [2]
   figures.charged: [2]
 status: verified

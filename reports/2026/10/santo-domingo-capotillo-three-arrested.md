@@ -35,10 +35,12 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [port, street]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 1]
   details.products: [1]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e237e2d3cfd52f13ef512e3be129a28f

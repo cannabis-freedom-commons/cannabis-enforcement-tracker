@@ -16,13 +16,17 @@ created_by_model: unknown
 details:
   activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
+  setting: [port]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: hong-kong-canada-cannabis-seizure-2024
 sources:

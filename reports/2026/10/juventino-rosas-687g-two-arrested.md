@@ -32,11 +32,13 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1, 3]
   details.products: [1]
+  details.setting: [2, 1, 3]
   figures.arrested: [1, 2]
   figures.kg_seized: [3, 1, 2]
 status: verified

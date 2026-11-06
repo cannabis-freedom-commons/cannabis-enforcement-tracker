@@ -24,12 +24,14 @@ details:
   case_stage: investigation
   products: [{product: hashish, kg: 70}]
   route: {from: [ma], to: [dz]}
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.route: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

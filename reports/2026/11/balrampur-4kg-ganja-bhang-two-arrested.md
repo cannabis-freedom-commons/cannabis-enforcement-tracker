@@ -24,10 +24,12 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   setting: [prison]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 3, 4, 1]
   details.setting: [1, 3, 4, 2]
   figures.arrested: [2, 3, 4, 1]
 status: reported

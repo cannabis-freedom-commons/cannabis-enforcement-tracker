@@ -25,6 +25,7 @@ details:
   date_precision: exact
   force: lethal
   products: [{product: flower, kg: 140000}]
+  setting: [border]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -32,6 +33,7 @@ data_sources:
   details.date_precision: [1]
   details.force: [1, 2]
   details.products: [2, 1]
+  details.setting: [2, 1]
   figures.deaths: [1]
   figures.kg_seized: [1, 2]
 status: verified

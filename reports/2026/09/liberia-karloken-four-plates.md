@@ -19,12 +19,16 @@ figures:
   value: { amount: 400, currency: USD }
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
+  activity: [possession]
   agency_types: [police]
+  case_stage: charged
   date_precision: exact
   products: [{product: flower}]
   setting: [port, border]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]

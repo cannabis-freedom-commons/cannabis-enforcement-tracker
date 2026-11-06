@@ -14,11 +14,13 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [cultivation, trafficking, sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

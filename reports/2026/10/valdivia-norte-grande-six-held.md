@@ -25,12 +25,14 @@ media:
     publisher: Pauta Los Ríos
     caption: 'Bags of seized drugs and other items laid out with a PDI EVIDENCIA card after the operation in Valdivia. Photo: Pauta Los Ríos.'
 details:
+  activity: [sale]
   agencies: [cl-pdi]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 0.0842}]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1]

@@ -30,6 +30,7 @@ media:
     caption: Personnel burn a pile of cannabis plants in the cleared plantation area
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
   case_stage: investigation
@@ -37,6 +38,7 @@ details:
   products: [{product: plants, plants: 80000}]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

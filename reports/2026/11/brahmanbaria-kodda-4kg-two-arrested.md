@@ -17,14 +17,18 @@ figures:
   charged: 2
   kg_seized: 4
 details:
+  activity: [possession]
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   date_precision: exact
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 4, 1, 3]
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
+  details.case_stage: [1, 3, 4]
   details.date_precision: [1, 3, 4, 2]
   details.products: [1, 3, 4]
   figures.arrested: [1, 3, 4, 2]

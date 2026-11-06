@@ -17,6 +17,7 @@ figures:
   charged: 1
   prison: 10 years
 details:
+  activity: [processing]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -25,6 +26,7 @@ details:
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [3, 2, 1]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.date_precision: [1]

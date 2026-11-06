@@ -15,12 +15,14 @@ figures:
   arrested: 4
   kg_seized: 18
 details:
+  activity: [sale, processing]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [2, 1, 4]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1]

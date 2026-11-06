@@ -19,6 +19,7 @@ details:
   activity: [smuggling]
   agencies: [sa-gdnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [border]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [1]

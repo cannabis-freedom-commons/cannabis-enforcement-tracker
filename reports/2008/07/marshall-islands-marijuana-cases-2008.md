@@ -13,8 +13,10 @@ summary: >-
   report gives case counts, not arrest or seizure figures.
 created_by_model: unknown
 details:
+  activity: [sale]
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.products: [1]
 status: verified
 cfi_id: marshall-islands-marijuana-cases-2008

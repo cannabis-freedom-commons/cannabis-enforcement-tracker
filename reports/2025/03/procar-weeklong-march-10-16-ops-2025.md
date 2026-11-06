@@ -21,12 +21,14 @@ figures:
   value: { amount: 30345953.20, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 35.01613}, {product: plants, plants: 129720}]
   setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

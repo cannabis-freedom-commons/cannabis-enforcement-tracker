@@ -22,12 +22,14 @@ figures:
   kg_seized: 550
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
   products: [{product: flower, kg: 550}, {product: plants, plants: 61000}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2, 3]

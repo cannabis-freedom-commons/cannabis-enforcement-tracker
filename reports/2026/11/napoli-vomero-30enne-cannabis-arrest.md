@@ -18,6 +18,7 @@ details:
   activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [1, 4, 5, 6, 7, 3]
   details.agencies: [1, 4, 5, 6, 7]
   details.agency_types: [1, 4, 5, 6, 7]
+  details.case_stage: [1, 4, 5, 6, 7, 3]
   details.products: [2, 3, 4, 5, 6, 7]
   details.setting: [1, 4, 5, 6, 7, 3]
   figures.arrested: [1, 4, 5, 6, 7, 3]

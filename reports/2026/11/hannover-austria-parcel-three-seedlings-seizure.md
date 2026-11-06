@@ -13,11 +13,13 @@ summary: >-
 figures:
   plants_destroyed: 3
 details:
+  activity: [cultivation]
   agency_types: [customs]
   date_precision: exact
   products: [{product: plants, plants: 3}]
   setting: [mail]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]

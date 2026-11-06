@@ -17,9 +17,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [border]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bda177b3db6307e240f9bbf8a18c1084

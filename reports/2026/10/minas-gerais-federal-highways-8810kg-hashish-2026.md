@@ -24,13 +24,17 @@ details:
   activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.setting: [1]
   figures.kg_seized: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

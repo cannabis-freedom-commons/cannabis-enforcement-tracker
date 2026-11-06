@@ -16,10 +16,12 @@ details:
   activity: [smuggling, trafficking]
   case_stage: investigation
   products: [{product: hashish}]
+  setting: [border]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: jordan-marijuana-farm-raids-2026
 sources:

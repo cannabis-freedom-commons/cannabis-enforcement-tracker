@@ -15,12 +15,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [prosecutor, court]
+  case_stage: appeal
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

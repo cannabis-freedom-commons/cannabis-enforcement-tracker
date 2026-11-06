@@ -13,8 +13,10 @@ summary: >-
   70 received administrative penalties.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: oil}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: vietnam-hcmc-cannabis-ring-2026

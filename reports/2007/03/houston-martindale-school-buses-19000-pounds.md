@@ -18,6 +18,7 @@ figures:
   arrested: 2
   value: { amount: 13000000, currency: USD }
 details:
+  activity: [possession]
   agencies: [us-cbp]
   agency_types: [customs]
   case_stage: charged
@@ -26,6 +27,7 @@ details:
   products: [{product: flower, kg: 8618}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

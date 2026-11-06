@@ -13,9 +13,11 @@ summary: >-
   The case was an enforcement event, not a change in the law.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: flower}]
   setting: [mail]
 data_sources:
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

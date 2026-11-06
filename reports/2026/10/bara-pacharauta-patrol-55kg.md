@@ -21,10 +21,14 @@ figures:
   kg_seized: 55
 created_by_model: anthropic/opus-5.5
 details:
+  activity: [possession]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 55}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

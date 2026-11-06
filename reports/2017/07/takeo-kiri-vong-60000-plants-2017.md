@@ -16,12 +16,14 @@ figures:
   plants_destroyed: 60000
   hectares: 3
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}, {product: plants, plants: 60000}]
   setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.date_precision: [1, 2]

@@ -19,15 +19,19 @@ figures:
   plants_destroyed: 28650
   arrested: 35
 details:
+  activity: [cultivation]
   agency_types: [prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}, {product: plants, plants: 28650}]
+  setting: [street]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.date_precision: [2, 1]
   details.products: [2, 1]
+  details.setting: [1, 2]
   figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: meta/muse-spark

@@ -19,12 +19,14 @@ figures:
   value: { amount: 256000, currency: PHP }
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}, {product: plants, plants: 1200}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

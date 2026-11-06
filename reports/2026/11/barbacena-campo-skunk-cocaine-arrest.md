@@ -21,6 +21,7 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [field]
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [1, 3]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.date_precision: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
   figures.arrested: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

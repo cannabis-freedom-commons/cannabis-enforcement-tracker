@@ -32,6 +32,7 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2]
@@ -39,6 +40,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [2, 1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [2, 1]

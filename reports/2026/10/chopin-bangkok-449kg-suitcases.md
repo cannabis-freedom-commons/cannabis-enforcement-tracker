@@ -23,12 +23,14 @@ figures:
     currency: PLN
 created_by_model: cursor/composer-2.5
 details:
+  activity: [processing]
   agency_types: [customs, prosecutor]
   case_stage: sentenced
   products: [{product: flower, kg: 44.9}]
   sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

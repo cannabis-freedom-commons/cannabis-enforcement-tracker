@@ -17,12 +17,14 @@ figures:
   charged: 1
   kg_seized: 0.4835
 details:
+  activity: [processing]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: flower, kg: 0.4835}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [2, 3, 4, 5]
   details.agency_types: [2, 3, 4, 5, 6, 1]
   details.case_stage: [1, 3, 4, 5, 6, 2]
   details.products: [2, 4, 5, 3]

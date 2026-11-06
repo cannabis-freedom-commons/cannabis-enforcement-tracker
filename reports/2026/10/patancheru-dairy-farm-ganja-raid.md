@@ -41,6 +41,7 @@ media:
     publisher: News18 Telugu
     caption: Video report on the dairy-farm ganja raid and arrests.
 details:
+  activity: [sale]
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -48,6 +49,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 9, 10, 4, 6, 5]
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.case_stage: [1, 2, 3, 4, 5, 6]

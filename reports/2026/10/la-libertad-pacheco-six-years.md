@@ -19,6 +19,7 @@ figures:
   prison: 6 years
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   date_precision: exact
@@ -26,6 +27,7 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

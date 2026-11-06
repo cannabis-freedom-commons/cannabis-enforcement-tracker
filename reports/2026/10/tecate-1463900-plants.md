@@ -20,11 +20,13 @@ created_by_model: xai/grok-4.7
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [field]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

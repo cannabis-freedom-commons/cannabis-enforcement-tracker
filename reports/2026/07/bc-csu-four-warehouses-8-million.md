@@ -18,6 +18,7 @@ summary: >-
 figures:
   value: { amount: 8000000, currency: CAD }
 details:
+  activity: [cultivation, sale]
   agencies: [ca-rcmp]
   agency_types: [police]
   case_stage: investigation
@@ -25,6 +26,7 @@ details:
   products: [{product: plants}, {product: edibles}]
   setting: [building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 2]

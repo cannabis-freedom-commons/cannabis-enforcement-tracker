@@ -19,6 +19,7 @@ figures:
     amount: 10000000
     currency: PKR
 details:
+  activity: [sale]
   agencies: [pk-anf]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -27,6 +28,7 @@ details:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]

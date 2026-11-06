@@ -11,12 +11,14 @@ summary: >-
   had found and used for about a month.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [court]
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1]

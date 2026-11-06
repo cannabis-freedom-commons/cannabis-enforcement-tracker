@@ -19,12 +19,14 @@ figures:
   kg_seized: 470
   plants_destroyed: 116900
 details:
+  activity: [cultivation]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 470}, {product: plants, plants: 116900}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

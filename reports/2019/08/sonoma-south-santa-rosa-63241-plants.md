@@ -20,10 +20,12 @@ details:
   activity: [cultivation]
   date_precision: exact
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [sonoma-county, illicit-grows]

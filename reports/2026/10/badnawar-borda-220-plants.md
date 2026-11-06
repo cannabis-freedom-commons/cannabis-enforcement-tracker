@@ -25,12 +25,14 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 250.3}]
+  setting: [field]
 data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 4, 2, 3]
   details.case_stage: [1, 4, 2, 3]
   details.date_precision: [2, 1, 3, 4]
   details.products: [2, 1, 3, 4]
+  details.setting: [1, 4, 2, 3]
   figures.kg_seized: [2, 3, 1, 4]
   figures.plants_destroyed: [1, 4, 2, 3]
 media:

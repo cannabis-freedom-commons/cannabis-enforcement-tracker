@@ -18,11 +18,13 @@ figures:
   plants_destroyed: 5364
 created_by_model: openai/gpt-6
 details:
+  activity: [cultivation, processing]
   agency_types: [military, anti-narcotics, police, prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 5364}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

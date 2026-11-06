@@ -25,11 +25,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [field]
 data_sources:
   details.activity: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [1, 2, 3, 4, 5]
   figures.kg_seized: [1, 2, 3, 4, 5]
   figures.value: [1, 4, 5, 2, 3]
 status: verified

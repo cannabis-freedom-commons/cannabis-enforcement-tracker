@@ -16,11 +16,13 @@ figures:
   plants_destroyed: 2
   kg_seized: 2.45
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
   products: [{product: plants, plants: 2}]
   setting: [home]
 data_sources:
+  details.activity: [1, 3, 4, 6, 7, 5]
   details.agency_types: [1, 3, 4, 6, 7, 5]
   details.case_stage: [1, 3, 4, 6, 7, 5]
   details.products: [1, 3, 4, 6, 7, 5]

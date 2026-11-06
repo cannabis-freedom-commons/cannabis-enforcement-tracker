@@ -21,12 +21,14 @@ media:
     publisher: Diario El Observador
     caption: Lead image published with the report on the Ruta 5 Norte detention and seizure (file name Decomiso).
 details:
+  activity: [possession]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower}]
   setting: [street]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

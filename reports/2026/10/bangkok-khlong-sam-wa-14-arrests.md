@@ -58,6 +58,7 @@ media:
     publisher: ASEAN NOW
     caption: Lead photo on the source page for this warehouse raid report
 details:
+  activity: [sale]
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
   case_stage: charged
@@ -65,6 +66,7 @@ details:
   products: [{product: flower}]
   setting: [building]
 data_sources:
+  details.activity: [3, 5, 6, 7, 8, 4]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [3, 5, 6, 7, 8, 4]

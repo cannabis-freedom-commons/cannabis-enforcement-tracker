@@ -18,6 +18,7 @@ figures:
   kg_seized: 0.523
   prison: 5 months
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products:
@@ -25,6 +26,7 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

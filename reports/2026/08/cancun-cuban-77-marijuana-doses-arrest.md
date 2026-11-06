@@ -25,12 +25,14 @@ details:
   activity: [sale]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [3]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [1]
   details.products: [3, 1, 2]
+  details.setting: [1, 3]
   figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

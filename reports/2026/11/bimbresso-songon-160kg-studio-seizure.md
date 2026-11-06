@@ -15,12 +15,14 @@ figures:
   arrested: 2
   kg_seized: 160.5
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 160.5}]
   setting: [home, mail]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4]
   details.date_precision: [1, 2, 3, 4, 5]

@@ -31,12 +31,14 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.activity: [3, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.date_precision: [2, 1, 3]
   details.products: [3]
+  details.setting: [2, 1, 3]
   figures.arrested: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

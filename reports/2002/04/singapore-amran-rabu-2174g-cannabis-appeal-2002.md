@@ -25,6 +25,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 2.17486}]
   sentence_types: [death]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
@@ -33,6 +34,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
+  details.setting: [1, 2]
   figures.charged: [2, 1]
 status: verified
 tags: [bukit-merah, cnb, mandatory-death-penalty]

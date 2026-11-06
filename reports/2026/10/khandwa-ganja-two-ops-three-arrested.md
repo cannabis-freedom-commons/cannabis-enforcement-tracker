@@ -25,11 +25,13 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Police with accused Ameen Khan at the Bargaon Bhila Road railway bridge in Khandwa, where Moghat Road police arrested him with 110 g of ganja. Photo: Dainik Bhaskar'
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

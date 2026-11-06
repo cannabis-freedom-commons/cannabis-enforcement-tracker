@@ -26,6 +26,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: hashish}, {product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [3]
   details.agencies: [3, 5]
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5]
   details.date_precision: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [3, 5, 1]
   figures.plants_destroyed: [5, 1]
 status: disputed
 tags:

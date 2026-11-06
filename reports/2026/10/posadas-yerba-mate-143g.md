@@ -16,9 +16,11 @@ figures:
 details:
   agency_types: [police, prosecutor]
   products: [{product: flower, kg: 0.143}]
+  setting: [field, street]
 data_sources:
   details.agency_types: [1, 4, 3, 2, 5]
   details.products: [2, 5, 1, 3, 4]
+  details.setting: [2, 5, 1, 3, 4]
   figures.kg_seized: [2, 5, 1, 3, 4]
 media:
   - kind: photo

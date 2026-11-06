@@ -20,10 +20,12 @@ details:
   activity: [cultivation]
   agency_types: [police]
   products: [{product: plants, plants: 86}]
+  setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
   figures.plants_destroyed: [1]
 status: verified
 tags: [toledo, drone]

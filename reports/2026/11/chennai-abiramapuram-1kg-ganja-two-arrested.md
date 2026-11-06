@@ -20,11 +20,13 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 508e91a11e5ee0a1ce3f3915aa542c1e

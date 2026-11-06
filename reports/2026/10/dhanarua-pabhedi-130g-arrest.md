@@ -24,6 +24,7 @@ media:
 details:
   activity: [sale]
   agency_types: [police]
+  case_stage: investigation
   date_precision: exact
   products:
     - {product: flower}
@@ -31,6 +32,7 @@ details:
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]

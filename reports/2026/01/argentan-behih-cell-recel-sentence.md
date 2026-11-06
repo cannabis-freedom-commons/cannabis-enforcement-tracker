@@ -19,12 +19,14 @@ figures:
   kg_seized: 0.0017
   prison: 4 months
 details:
+  activity: [processing]
   agency_types: [prosecutor, court]
   case_stage: sentenced
   date_precision: exact
   products: [{product: flower, kg: 0.0017}]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

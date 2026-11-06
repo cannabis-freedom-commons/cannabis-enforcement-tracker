@@ -25,6 +25,7 @@ details:
   case_stage: charged
   force: lethal
   products: [{product: flower, kg: 88991}]
+  setting: [border]
 data_sources:
   details.activity: [4]
   details.agencies: [1, 2, 3, 4, 5, 6]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2, 3, 4]
   details.force: [1, 3, 2, 4]
   details.products: [1, 3]
+  details.setting: [1, 3]
   figures.deaths: [1, 3, 2, 4]
   figures.kg_seized: [1, 3]
   figures.value: [1, 3, 2, 4, 5]

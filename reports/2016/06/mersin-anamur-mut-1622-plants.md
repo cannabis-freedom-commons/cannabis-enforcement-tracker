@@ -17,11 +17,13 @@ figures:
   plants_destroyed: 1622
   kg_seized: 2.04
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie, court]
   case_stage: investigation
   products: [{product: plants, plants: 1622}]
   setting: [forest, home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

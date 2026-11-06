@@ -15,10 +15,12 @@ details:
   activity: [smuggling, cultivation]
   case_stage: investigation
   products: [{product: hashish}]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: libya-taknes-hashish-raid-2025
 sources:

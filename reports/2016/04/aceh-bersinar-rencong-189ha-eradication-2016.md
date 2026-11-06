@@ -17,6 +17,7 @@ figures:
   hectares: 189.5
 created_by_model: meta/muse-spark
 details:
+  activity: [cultivation]
   agencies: [id-polri]
   agency_types: [police]
   case_stage: investigation
@@ -24,6 +25,7 @@ details:
   products: [{product: plants}]
   setting: [field]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

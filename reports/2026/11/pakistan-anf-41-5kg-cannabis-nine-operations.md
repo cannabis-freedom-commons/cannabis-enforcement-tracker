@@ -15,6 +15,7 @@ figures:
   arrested: 8
   kg_seized: 41.525
 details:
+  activity: [sale]
   agencies: [pk-anf]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -23,6 +24,7 @@ details:
     - {product: flower}
   setting: [airport, mail]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1]

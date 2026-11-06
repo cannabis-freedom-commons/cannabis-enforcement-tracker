@@ -19,11 +19,13 @@ details:
   agency_types: [gendarmerie, anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 176}]
+  setting: [border]
 data_sources:
   details.activity: [1, 4, 5, 8, 9, 6]
   details.agency_types: [1, 4, 5, 8, 9, 6]
   details.case_stage: [1, 4, 5, 8, 9, 6]
   details.products: [1, 4, 5, 8, 9, 6]
+  details.setting: [1, 4, 5, 8, 9, 6]
   figures.arrested: [1, 4, 5, 8, 9, 6]
   figures.kg_seized: [1, 4, 5, 8, 9, 6]
 media:

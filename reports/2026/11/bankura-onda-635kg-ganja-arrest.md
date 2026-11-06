@@ -21,11 +21,13 @@ media:
     publisher: Sanmarg Hindi daily
     caption: 'Police photo of the seized ganja and the arrested accused with officers. Photo: Sanmarg Hindi daily'
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

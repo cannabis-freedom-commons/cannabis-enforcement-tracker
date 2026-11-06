@@ -16,11 +16,13 @@ figures:
   arrested: 1
   plants_destroyed: 34
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: plants, plants: 34}]
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 5, 2]
   details.agency_types: [1, 2, 5, 3]
   details.case_stage: [1, 2, 5, 3, 4]
   details.products: [1, 4, 5, 2]

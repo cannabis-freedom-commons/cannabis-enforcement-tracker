@@ -23,12 +23,14 @@ details:
   case_stage: investigation
   environment: [indoor]
   products: [{product: hashish, kg: 2740}, {product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [policia-nacional, almeria, el-puche, firearms]
 open_questions:

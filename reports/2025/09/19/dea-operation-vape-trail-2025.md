@@ -22,12 +22,14 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: appeal
   date_precision: exact
   products: [{product: flower, kg: 97.5}]
   setting: [shop]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

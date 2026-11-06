@@ -21,12 +21,14 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

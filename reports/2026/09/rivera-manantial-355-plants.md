@@ -18,12 +18,14 @@ figures:
   arrested: 3
   kg_seized: 4.732
 details:
+  activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.date_precision: [1]

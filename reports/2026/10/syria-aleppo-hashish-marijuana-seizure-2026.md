@@ -22,10 +22,12 @@ media:
     caption: Wrapped bundles displayed beneath an Anti-Narcotics Department sign in the image accompanying the Aleppo-operations report; no photo credit is supplied.
 details:
   agency_types: [military, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 2]
+  details.case_stage: [1, 3, 4, 5, 6, 2]
   details.products: [1, 3, 4, 5, 6]
   figures.kg_seized: [1, 3, 4, 5, 6]
 status: reported

@@ -22,11 +22,13 @@ details:
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [border, street]
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 3]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [3, 2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 03612b02ea037fbb057eb0724b425af5

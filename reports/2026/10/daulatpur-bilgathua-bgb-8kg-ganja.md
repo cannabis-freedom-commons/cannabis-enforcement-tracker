@@ -35,6 +35,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 8}]
+  setting: [border, field]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1, 2]
@@ -42,6 +43,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2, 1]
+  details.setting: [2, 1]
   figures.kg_seized: [2, 1]
   figures.value: [1, 2]
 status: verified

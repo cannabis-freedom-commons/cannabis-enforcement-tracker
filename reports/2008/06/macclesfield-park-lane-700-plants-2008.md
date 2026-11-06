@@ -16,11 +16,13 @@ figures:
   plants_destroyed: 700
   value: { amount: 50000, currency: GBP }
 details:
+  activity: [cultivation, processing]
   agency_types: [police]
   date_precision: exact
   products: [{product: plants, plants: 700}]
   setting: [building]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]

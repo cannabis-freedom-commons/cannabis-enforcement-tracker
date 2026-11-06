@@ -16,6 +16,7 @@ figures:
   arrested: 11
   charged: 11
 details:
+  activity: [cultivation]
   agencies: [cz-npc]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -24,6 +25,7 @@ details:
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

@@ -21,12 +21,14 @@ created_by_model: unknown
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 60.175}]
   setting: [border]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

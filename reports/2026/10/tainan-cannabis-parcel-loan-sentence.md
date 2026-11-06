@@ -18,6 +18,7 @@ figures:
   kg_seized: 2.03
   prison: 10 years 6 months
 details:
+  activity: [sale]
   agency_types: [customs, court]
   case_stage: sentenced
   date_precision: exact
@@ -25,6 +26,7 @@ details:
   sentence_types: [prison]
   setting: [mail]
 data_sources:
+  details.activity: [1, 4, 3]
   details.agency_types: [2, 4, 3, 1]
   details.case_stage: [1]
   details.date_precision: [1]

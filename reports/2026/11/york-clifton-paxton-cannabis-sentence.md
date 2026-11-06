@@ -17,12 +17,14 @@ figures:
   charged: 1
   prison: 12 months, suspended for 12 months
 details:
+  activity: [sale]
   agency_types: [police, court]
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

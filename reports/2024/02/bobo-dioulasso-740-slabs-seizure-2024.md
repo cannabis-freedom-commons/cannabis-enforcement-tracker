@@ -19,11 +19,13 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3, 1]
   details.date_precision: [2]
   details.products: [2, 3, 1]
+  details.setting: [1, 2]
   figures.value: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

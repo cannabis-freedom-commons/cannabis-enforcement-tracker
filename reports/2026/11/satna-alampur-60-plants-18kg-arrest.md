@@ -20,11 +20,13 @@ figures:
     amount: 180000
     currency: INR
 details:
+  activity: [cultivation]
   agency_types: [police, court]
   case_stage: investigation
   products: [{product: plants, plants: 60}]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [2, 1]

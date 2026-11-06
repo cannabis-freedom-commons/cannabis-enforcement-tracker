@@ -21,6 +21,7 @@ media:
     publisher: Radio 8
     caption: 'Municipal police photo accompanying the seizure announcement, showing the shoulder badge of a municipal officer with the words "Brigade de nuit" behind, credited to the Charleville-Mézières municipal police. Photo: @Police municipale Cmz'
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
@@ -28,6 +29,7 @@ details:
     - {product: hashish}
   setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

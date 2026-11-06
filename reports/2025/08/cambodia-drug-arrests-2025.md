@@ -13,8 +13,12 @@ summary: >-
   1.91 tonnes of drugs in all.
 created_by_model: unknown
 details:
+  activity: [cultivation]
+  case_stage: investigation
   products: [{product: plants}]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: cambodia-drug-arrests-2025

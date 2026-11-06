@@ -15,12 +15,16 @@ figures:
   arrested: 1
   kg_seized: 95
 details:
+  activity: [possession]
   agency_types: [border-guard, police, prosecutor]
   products:
     - {product: flower}
+  setting: [border]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

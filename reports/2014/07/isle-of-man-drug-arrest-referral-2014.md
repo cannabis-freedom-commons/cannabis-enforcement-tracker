@@ -13,9 +13,11 @@ summary: >-
   108 entrants in 2021/22.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [police]
   products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
 status: verified

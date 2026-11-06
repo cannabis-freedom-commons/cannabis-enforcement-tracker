@@ -15,12 +15,14 @@ summary: >-
 figures:
   kg_seized: 220000
 details:
+  activity: [processing]
   agencies: [in-excise]
   agency_types: [regulator]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 220000}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

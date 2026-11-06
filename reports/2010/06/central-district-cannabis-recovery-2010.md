@@ -21,13 +21,17 @@ figures:
   kg_seized: 13.241
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police, court]
   case_stage: investigation
   products: [{product: plants, plants: 9369}, {product: oil, kg: 13.241}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4, 1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]

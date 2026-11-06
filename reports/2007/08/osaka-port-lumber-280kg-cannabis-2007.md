@@ -19,10 +19,12 @@ details:
   agency_types: [customs, police]
   products: [{product: flower, kg: 280}]
   route: {from: [ca], to: [jp]}
+  setting: [port, street]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 3, 2]
   details.route: [1, 3, 2]
+  details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

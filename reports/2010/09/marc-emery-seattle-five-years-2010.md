@@ -16,6 +16,7 @@ figures:
   prison: 5 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -25,6 +26,7 @@ details:
   sentence_types: [probation]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

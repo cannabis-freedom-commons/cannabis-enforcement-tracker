@@ -19,6 +19,7 @@ figures:
   kg_seized: 6044
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [processing]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   case_stage: investigation
@@ -26,6 +27,7 @@ details:
     - {product: hashish}
   setting: [home, building]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]

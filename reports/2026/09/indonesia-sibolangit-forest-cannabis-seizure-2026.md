@@ -26,12 +26,14 @@ media:
     publisher: Harian SIB
     caption: 'Police and soldiers during the joint sweep of the cannabis plot in Dusun II. Photo: Polsek Pancurbatu via Harian SIB'
 details:
+  activity: [cultivation]
   agency_types: [police]
   date_precision: exact
   setting: [forest]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]

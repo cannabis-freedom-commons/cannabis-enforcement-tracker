@@ -21,12 +21,14 @@ figures:
   value: { amount: 232960, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession, processing]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: charged
   products: [{product: flower, kg: 17.92}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [1, 3]

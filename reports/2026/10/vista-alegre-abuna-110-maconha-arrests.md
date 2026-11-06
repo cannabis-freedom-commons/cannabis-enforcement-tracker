@@ -21,6 +21,7 @@ media:
     publisher: Rondônia Dinâmica
     caption: Lead photo on the source page for this seizure report
 details:
+  activity: [sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -28,6 +29,7 @@ details:
   products: [{product: flower}]
   setting: [street]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

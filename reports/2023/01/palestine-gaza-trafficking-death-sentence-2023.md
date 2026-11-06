@@ -16,11 +16,13 @@ details:
   agency_types: [anti-narcotics]
   case_stage: sentenced
   sentence_types: [death]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: palestine-gaza-trafficking-death-sentence-2023
 sources:

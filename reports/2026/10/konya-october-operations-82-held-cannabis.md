@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 9
   kg_seized: 3.629
 details:
+  activity: [cultivation]
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
@@ -25,6 +26,7 @@ details:
     - {product: hashish}
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

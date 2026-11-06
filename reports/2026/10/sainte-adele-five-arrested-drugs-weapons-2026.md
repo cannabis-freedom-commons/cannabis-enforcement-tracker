@@ -22,10 +22,12 @@ details:
   date_precision: publication
   products: [{product: hashish}]
   region: Quebec
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.cash: [1]
 media:

@@ -16,10 +16,12 @@ figures:
   arrested: 1
 details:
   activity: [trafficking]
+  case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [2, 1]
+  details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [1, 2]
   figures.arrested: [2, 1]

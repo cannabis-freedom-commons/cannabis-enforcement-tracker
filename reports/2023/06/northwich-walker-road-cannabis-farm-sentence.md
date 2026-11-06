@@ -19,6 +19,7 @@ figures:
   prison: 2 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
@@ -26,6 +27,7 @@ details:
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

@@ -23,12 +23,14 @@ media:
     publisher: Daily Voice
     caption: 'Kevin Wilbur, Quinton Carle and the seized cannabis. Photo: Saratoga County Sheriff''s Office'
 details:
+  activity: [possession]
   agency_types: [court]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 221.81}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 5, 3, 2, 4]
   details.agency_types: [1, 5, 3]
   details.case_stage: [1, 5, 3]
   details.date_precision: [3, 5, 1, 2, 4]

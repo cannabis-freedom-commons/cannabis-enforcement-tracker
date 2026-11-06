@@ -17,12 +17,14 @@ figures:
   kg_seized: 6
 details:
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2]
   details.date_precision: [3, 2, 4, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 4, 2, 3]

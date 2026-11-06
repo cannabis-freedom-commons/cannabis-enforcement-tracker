@@ -17,17 +17,21 @@ figures:
   plants_destroyed: 80000
 created_by_model: xai/grok-4.7
 details:
+  activity: [cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
   case_stage: investigation
   date_precision: exact
   products: [{product: plants, plants: 80000}]
+  setting: [border]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [india, tripura, mohanpur, eradication]

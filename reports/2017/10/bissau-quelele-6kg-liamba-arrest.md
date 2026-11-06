@@ -15,11 +15,13 @@ figures:
   arrested: 1
   kg_seized: 6
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 6}]
   setting: [airport]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

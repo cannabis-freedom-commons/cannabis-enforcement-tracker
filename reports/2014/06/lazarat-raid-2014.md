@@ -25,12 +25,14 @@ details:
   case_stage: investigation
   force: shots-fired
   products: [{product: flower, kg: 25000}, {product: plants, plants: 90000}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]

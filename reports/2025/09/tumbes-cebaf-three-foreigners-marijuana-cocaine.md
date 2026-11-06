@@ -34,10 +34,12 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [border, vehicle, field]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 88cbcdab4a258f15153c1552074f7ab7

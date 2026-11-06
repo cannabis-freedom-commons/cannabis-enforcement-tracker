@@ -24,6 +24,7 @@ details:
   date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 575}, {product: plants}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]
 status: verified

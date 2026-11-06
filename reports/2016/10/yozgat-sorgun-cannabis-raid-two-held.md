@@ -22,6 +22,7 @@ media:
     publisher: Haber7
     caption: Four hunting rifles, packages and other seized items displayed on a table with two sniffer dogs, in front of a provincial gendarmerie command banner, in the photo published with the Haber7 report.
 details:
+  activity: [sale]
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -29,6 +30,7 @@ details:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

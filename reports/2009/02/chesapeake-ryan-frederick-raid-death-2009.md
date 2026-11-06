@@ -21,6 +21,7 @@ figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation, possession]
   agency_types: [police]
   case_stage: charged
   date_precision: exact
@@ -28,6 +29,7 @@ details:
   products: [{product: flower}, {product: plants}]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2, 3]

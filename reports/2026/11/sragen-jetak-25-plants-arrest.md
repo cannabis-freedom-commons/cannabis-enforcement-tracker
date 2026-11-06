@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 29
   kg_seized: 0.0158
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
@@ -24,6 +25,7 @@ details:
   sentence_types: [life]
   setting: [home, prison]
 data_sources:
+  details.activity: [2, 5, 7]
   details.agency_types: [1, 2, 3, 4, 5, 7]
   details.case_stage: [1, 2, 3, 4, 5, 7]
   details.date_precision: [1, 3, 5, 6, 2, 4]

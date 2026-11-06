@@ -17,11 +17,13 @@ figures:
   plants_destroyed: 124000
   arrested: 780
 details:
+  activity: [cultivation]
   agencies: [nz-police]
   agency_types: [police]
   case_stage: investigation
   products: [{product: plants, plants: 124000}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

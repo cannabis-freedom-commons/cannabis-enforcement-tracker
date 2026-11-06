@@ -19,6 +19,7 @@ figures:
   kg_seized: 385.55
   prison: 8 years 1 month
 details:
+  activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -27,6 +28,7 @@ details:
   sentence_types: [prison, fine, deportation]
   setting: [forest, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]

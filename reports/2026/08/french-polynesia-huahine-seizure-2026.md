@@ -11,10 +11,12 @@ summary: >-
   on site. The raid was one of the largest cannabis seizures reported in the territory.
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agency_types: [customs]
   case_stage: investigation
   products: [{product: plants}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

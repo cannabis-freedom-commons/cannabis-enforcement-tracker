@@ -20,12 +20,14 @@ figures:
   kg_seized: 24
 created_by_model: cursor/composer-2.5
 details:
+  activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 24}]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

@@ -23,11 +23,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: plants}]
+  setting: [field]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
+  details.setting: [2, 1, 3]
   figures.arrested: [2, 1, 3]
 media:
   - kind: photo

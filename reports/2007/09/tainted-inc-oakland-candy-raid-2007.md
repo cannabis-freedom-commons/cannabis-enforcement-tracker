@@ -18,6 +18,7 @@ figures:
   charged: 4
   plants_destroyed: 460
 details:
+  activity: [cultivation, sale]
   agency_types: [court]
   case_stage: investigation
   date_precision: exact
@@ -25,6 +26,7 @@ details:
   products: [{product: flower}, {product: plants, plants: 460}]
   setting: [vehicle, building]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

@@ -13,11 +13,13 @@ summary: >-
   plants, and destroyed more than 100 tonnes of wild cannabis on 380 hectares in the Shu district.
 created_by_model: unknown
 details:
+  activity: [cultivation]
   case_stage: investigation
   environment: [wild]
   products: [{product: hashish}, {product: flower}]
   setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]

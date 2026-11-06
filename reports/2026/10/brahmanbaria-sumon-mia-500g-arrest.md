@@ -19,6 +19,7 @@ figures:
   arrested: 1
   kg_seized: 0.5
 details:
+  activity: [possession]
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -26,6 +27,7 @@ details:
   products: [{product: flower, kg: 0.5}]
   setting: [building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

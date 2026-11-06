@@ -15,11 +15,13 @@ summary: >-
 figures:
   plants_destroyed: 140
 details:
+  activity: [cultivation]
   agency_types: [police]
   date_precision: exact
   products: [{product: plants, plants: 140}]
   setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]

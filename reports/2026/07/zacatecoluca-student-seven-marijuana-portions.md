@@ -20,12 +20,14 @@ media:
     publisher: Infobae
     caption: 'Police photograph of Josué E., the 18-year-old student detained outside the Instituto Nacional José Simeón Cañas in Zacatecoluca. Photo: Policía Nacional Civil de El Salvador via Infobae'
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

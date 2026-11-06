@@ -32,6 +32,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 1753}]
   route: {from: [py], to: [br]}
+  setting: [border, field]
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
@@ -40,6 +41,7 @@ data_sources:
   details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.route: [2, 3, 1]
+  details.setting: [2, 3, 1]
   figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [senad, canindeyu, stash-site, brazil-route]

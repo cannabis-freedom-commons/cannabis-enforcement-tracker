@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 2000
   arrested: 23
 details:
+  activity: [cultivation]
   agencies: [ca-rcmp, ca-opp]
   agency_types: [police]
   case_stage: investigation
@@ -25,6 +26,7 @@ details:
   products: [{product: flower}, {product: plants, plants: 2000}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
