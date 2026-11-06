@@ -84,6 +84,11 @@ sources:
     publisher: Prabhasakshi
     date: 2026-11-06
     language: hi
+  - title: 'बिहार: 10 करोड़ की चरस बरामद, तस्करी का नेटवर्क नेपाल से गुजरात तक फैला—जानें कैसे'
+    url: https://www.gandivlive.com/bihar-hashish-worth-rs-10-crore-recovered-smuggling-network-spread-from-nepal-to-gujarat-know-how/
+    publisher: गांडीव लाइव
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -99,20 +104,21 @@ open_questions:
   - Only the publication date, 6 November 2026, is on the page; the day of the arrest is inferred from its statement that the suspect was produced in court on Friday and the earlier reports that he was held on Thursday.
   - The page's only image is a composite of the seized packets and the arrested man published without a credit line, and its representative status could not be established, so no media entry is included.
   - The page capitalises the accused's name as Rajesh Sahni without further identification; no case number or next court step is given.
+  - The Gandiv Live page carries the same AI-experienced place spelling Dumariya Ghat and describes the arrest as reported by the STF on Friday without naming the DRI's Patna or Muzaffarpur units separately.
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
 Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
 Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1,4,6,7,8] Officers seized 10 kg of charas from him and valued the consignment at
+[@1,4,6,7,8,9] Officers seized 10 kg of charas from him and valued the consignment at
 about Rs 10 crore. [@2,5,6,7] Officers also recovered a mobile phone and Rs 2,320 in
 cash from him. [@3,6] Sahni is a resident of East Champaran district, according to
 the STF account released on Friday. [@3]
 
 The STF said Sahni was allegedly part of an international drug-trafficking gang.
 [@1,4] He allegedly brought charas from Nepal and supplied it through Bihar to
-traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6,7,8] The
-seized consignment was to be delivered to Patan district in Gujarat. [@2,6,7]
+traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6,7,8,9] The
+seized consignment was to be delivered to Patan district in Gujarat. [@2,6,7,9]
 
 The STF said further investigation in the case is continuing. [@1,8] The criminal
 history of the arrested accused is being verified. [@1,8] Legal proceedings in the
