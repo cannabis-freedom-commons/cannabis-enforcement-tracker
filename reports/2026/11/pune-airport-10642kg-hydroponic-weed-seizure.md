@@ -28,6 +28,11 @@ media:
     media_url: https://scontent-prg1-1.cdninstagram.com/v/t51.82787-15/887929314_1124140327268133_1465172905094696260_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=IgeUvRM0tE0Q7kNvwGb5ltl&_nc_oc=AdrQssEzZwzHYzooaZHkryUwzmURstU6PLSOs9wP7JKMnk8jVxLt-1h55Nrnb2PoJR0&_nc_zt=23&_nc_ht=scontent-prg1-1.cdninstagram.com&_nc_gid=CweBecqZ72qKmTxNhjlVAA&_nc_ss=7ba8c&oh=00_AQSzbekJa2AAzXhWxfvKJrCQRMdLnfuk6i11opTJIRfusg&oe=6AF2DFA0
     publisher: Policenama (Instagram)
     caption: 'Policenama''s Instagram clip on the Pune airport seizure of hydroponic ganja from a Bangkok passenger; only its cover frame is available as an address. Video: Policenama'
+  - kind: photo
+    url: https://deshdoot.com/hydroponic-cannabis-worth-rs-3-72-crore-seized/
+    media_url: https://deshdoot.com/wp-content/uploads/2026/11/ganja-5-nov-26-696x392.webp
+    publisher: Deshdoot
+    caption: 'Photo captioned ''ganja 5 nov 26'' used to illustrate the Deshdoot report on the hydroponic ganja seized at Pune airport. Photo: Deshdoot'
 details:
   environment: [indoor]
 data_sources:
@@ -73,6 +78,11 @@ sources:
     url: https://www.freepressjournal.in/pune/pune-airport-customs-seize-106-kg-of-hydroponic-cannabis-worth-372-crore-in-major-drug-bust
     publisher: The Free Press Journal
     date: 2026-11-05
+  - title: ३ कोटी ७२ लाख रुपये किमतीचा हायड्रोपोनिक गांजा जप्त
+    url: https://deshdoot.com/hydroponic-cannabis-worth-rs-3-72-crore-seized/
+    publisher: Deshdoot
+    date: 2026-11-05
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -83,6 +93,7 @@ open_questions:
   - Loksatta describes the concealment only as dried-fruit and noodle packets, without the ‘Freeze Dried Monthong Durian’ label or the nine-packet count that the existing report takes from its other sources.
   - Loksatta does not give the passenger's age or residence, so nothing is added on those points.
   - The Instagram post's text is cut off mid-sentence and the post is a short video, so no new facts beyond the weight, value and interception details could be taken from it.
+  - Deshdoot says officers grew suspicious of the passenger's movements as well as his baggage, but gives no airport terminal, officers' ranks or court, and names no suspect.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -99,12 +110,12 @@ vacuum-sealed black polythene to mask detection. [@2,8] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8]
+crore. [@2,4,5,7,8,9]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6,8,9] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4]
 
 The arrested flyer was 45 years old. [@4]
