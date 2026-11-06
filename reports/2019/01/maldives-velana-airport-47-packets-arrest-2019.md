@@ -25,6 +25,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/suspected-traffickers-arrested-with-cannabis-143456

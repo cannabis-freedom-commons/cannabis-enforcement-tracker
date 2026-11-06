@@ -34,6 +34,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.charged: [1]
   figures.kg_seized: [1]
 status: verified

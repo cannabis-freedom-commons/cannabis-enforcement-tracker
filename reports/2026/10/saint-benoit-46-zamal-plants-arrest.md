@@ -33,6 +33,7 @@ data_sources:
   details.products: [2, 3, 1, 4]
   details.sentence_types: [2, 1, 4]
   details.setting: [2, 3, 1, 4]
+  figures.arrested: [2, 3, 1, 4]
   figures.kg_seized: [1, 4, 2]
   figures.plants_destroyed: [1, 4, 2]
 media:

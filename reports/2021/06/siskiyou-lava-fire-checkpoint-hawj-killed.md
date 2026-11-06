@@ -21,12 +21,14 @@ details:
   agency_types: [police]
   date_precision: exact
   environment: [greenhouse]
+  force: shots-fired
   products: [{product: flower, kg: 59.87}]
   setting: [border, vehicle, home]
 data_sources:
   details.agency_types: [1, 2]
   details.date_precision: [1, 2]
   details.environment: [1, 2]
+  details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

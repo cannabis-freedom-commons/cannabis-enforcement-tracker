@@ -22,6 +22,7 @@ details:
   agencies: [Napier District Court]
   agency_types: [court]
   activity: [use]
+  force: lethal
   products: [{product: flower}]
   setting: [vehicle]
   charges: [causing death while the level of THC in the blood exceeded the high-risk level, causing injury while the level of THC in the blood exceeded the high-risk level]
@@ -35,6 +36,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.force: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

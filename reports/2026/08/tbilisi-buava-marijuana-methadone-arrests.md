@@ -16,12 +16,14 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: charged
+  force: lethal
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
+  details.force: [3, 2, 1]
   details.products: [3]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 3]

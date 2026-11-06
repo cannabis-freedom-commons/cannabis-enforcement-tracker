@@ -35,6 +35,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [1, 3]
   details.setting: [2]
+  figures.kg_seized: [2, 3, 1]
   figures.plants_destroyed: [2, 3, 1]
   figures.value: [2, 3, 1]
 status: verified

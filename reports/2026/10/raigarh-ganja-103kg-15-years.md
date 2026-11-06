@@ -45,6 +45,7 @@ data_sources:
   details.setting: [1, 3, 6, 4, 5]
   figures.arrested: [1, 3, 4, 5, 2, 6]
   figures.fine: [1, 3, 4, 5, 6, 2]
+  figures.kg_seized: [2, 3, 1, 4, 5, 6]
   figures.prison: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

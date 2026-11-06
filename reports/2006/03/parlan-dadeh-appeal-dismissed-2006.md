@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
 status: verified
 tags:
   - penang

@@ -33,6 +33,7 @@ data_sources:
   details.date_precision: [1, 4, 2]
   details.products: [1, 2, 4]
   details.setting: [1, 4, 2, 5, 3]
+  figures.kg_seized: [1, 4, 2, 5, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d9ef29ad01658abdde8c59d1d34f0dc7

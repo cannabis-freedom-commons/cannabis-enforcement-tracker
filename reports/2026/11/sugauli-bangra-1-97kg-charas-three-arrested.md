@@ -48,6 +48,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.setting: [1, 4, 5, 6, 7, 8]
   figures.arrested: [2, 3, 4, 5, 6, 7]
+  figures.kg_seized: [1, 4, 5, 6, 7, 8]
   figures.value: [2, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

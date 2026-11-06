@@ -31,6 +31,7 @@ data_sources:
   details.date_precision: [3]
   details.products: [1]
   details.setting: [3, 1, 2]
+  figures.arrested: [2, 1, 3]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

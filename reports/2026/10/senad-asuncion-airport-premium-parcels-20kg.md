@@ -36,6 +36,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [asuncion, senad, air-cargo, premium-cannabis]

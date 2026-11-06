@@ -31,6 +31,7 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
   figures.prison: [1]
 media:
   - kind: photo

@@ -34,6 +34,7 @@ data_sources:
   details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.arrested: [1, 3, 4, 2]
   figures.kg_seized: [1, 3, 2, 4]
 status: verified
 tags: [concepcion, senad, microtrafico, olerias]

@@ -28,6 +28,7 @@ data_sources:
   details.date_precision: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

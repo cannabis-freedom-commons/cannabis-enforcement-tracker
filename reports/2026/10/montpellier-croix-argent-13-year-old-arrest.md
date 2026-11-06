@@ -36,6 +36,7 @@ data_sources:
   details.date_precision: [2, 4, 3, 1, 5]
   details.force: [1, 4, 5, 2, 3]
   details.products: [2, 4]
+  figures.arrested: [1, 4, 5, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ed7dd6dba8e36b9ad2d96eff90df6a10

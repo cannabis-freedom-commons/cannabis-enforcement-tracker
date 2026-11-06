@@ -40,6 +40,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
+  figures.arrested: [1, 3, 4, 2]
   figures.kg_seized: [1, 2, 3, 4]
   figures.prison: [1, 4, 2, 3]
 status: reported

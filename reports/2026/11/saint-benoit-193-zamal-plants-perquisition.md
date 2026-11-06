@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 3, 4, 2]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [1, 3, 4, 2]
   figures.plants_destroyed: [1, 3, 4, 2]
 media:
   - kind: photo

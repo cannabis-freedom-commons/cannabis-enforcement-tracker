@@ -36,6 +36,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9e607f1acbfde25202fef905018b574

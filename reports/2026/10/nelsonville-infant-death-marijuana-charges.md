@@ -19,11 +19,13 @@ figures:
 details:
   agency_types: [prosecutor]
   case_stage: charged
+  force: lethal
   products: [{product: flower}]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 4, 5, 7, 3, 2]
   details.case_stage: [1, 4, 5, 7]
+  details.force: [1, 4, 5, 7, 3]
   details.products: [1, 4, 5, 7, 3]
   details.setting: [1, 4, 5, 7, 3, 2]
   figures.charged: [1, 4, 5, 7, 3, 6]

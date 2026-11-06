@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
 status: verified
 tags: [fiji, nadi, arrest]
 sources:
