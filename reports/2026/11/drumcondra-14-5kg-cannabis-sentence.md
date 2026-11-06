@@ -45,6 +45,10 @@ sources:
     url: https://www.dublinlive.ie/news/dublin-news/man-who-delivered-290000-cannabis-34860972
     publisher: Dublin Live
     date: 2026-11-04
+  - title: Man jailed after €290,000 cannabis delivery to Dublin house
+    url: https://buttondown.com/good-morning-dublin-belt/archive/man-jailed-after-u20ac-290000-cannabis-delivery/
+    publisher: Good Morning Dublin Belt
+    date: 2026-11-05
 open_questions:
   - The articles give only their publication date of 3 November 2026 and no separate sentencing date, so the report uses the publication date as the incident date.
   - The co-accused was reported as already dealt with and jailed for two years and nine months in separate proceedings, which is a different event left out here.
@@ -54,12 +58,14 @@ open_questions:
   - The Irish Mirror article gives only its publication date of 4 November 2026 and no separate sentencing date, so the existing report's use of 3 November 2026 as the incident date remains.
   - The two supplied images show the Criminal Courts of Justice building and portraits of two crime writers, not the seizure itself, so no media entry is listed.
   - The article says Jenkinson accepted ownership of the van while also describing a white Ford Focus in the CCTV account, leaving the vehicle description unclear.
+  - The briefing gives no separate sentencing date, consistent with the existing report's use of the coverage date.
+  - Only the lead item concerns this case; the other items in the briefing are unrelated local news and were not used.
 ---
 
-Matthew Jenkinson is 27. [@1,3,4] He works as an electrician. [@2,3] He pleaded guilty
+Matthew Jenkinson is 27. [@1,3,4,5] He works as an electrician. [@2,3] He pleaded guilty
 to possession of cannabis for sale or supply at St Ignatius Road, Drumcondra on
-June 3, 2024. [@2,3,4] Judge Martin Nolan dealt with his case. [@2] He was jailed
-for three years. [@1,3,4] His early guilty plea allowed the court to depart from the
+June 3, 2024. [@2,3,4,5] Judge Martin Nolan dealt with his case. [@2] He was jailed
+for three years. [@1,3,4,5] His early guilty plea allowed the court to depart from the
 presumptive mandatory minimum sentence of 10 years. [@2,3,4]
 
 Garda Philip Lavery said a house on St Ignatius Road was searched because of
