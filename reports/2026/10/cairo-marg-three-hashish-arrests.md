@@ -45,6 +45,11 @@ sources:
     publisher: بوابة مولانا
     date: 2026-10-31
     language: ar
+  - title: ضبط 3 عاطلين بحوزتهم حشيش وسلاح وذخيرة في المرج
+    url: https://ekhbary24.com/article/41371
+    publisher: إخباري 24 نيوز
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No weight or volume was published for the hashish; the source describes it only as a large quantity.
   - 31 October 2026 is the article's publication date; no separate day for the arrests is given.
@@ -56,19 +61,19 @@ open_questions:
 
 Cairo security forces arrested three people in Al-Marg district who were
 allegedly holding a large quantity of hashish before selling it to customers.
-[@1,2] The arrests were made by the Cairo Security Directorate under the
+[@1,2,3] The arrests were made by the Cairo Security Directorate under the
 supervision of the director of its Criminal Investigation Department. [@1]
 Police said the head of investigations at Marg police station had received
 information that three unemployed men had made a den in the station's district
-for trading in hashish. [@1] An investigation team verified the tip and found it
+for trading in hashish. [@1,3] An investigation team verified the tip and found it
 to be correct. [@1]
 
 After procedures were formalised, two Marg investigations officers and their
 accompanying force detained the suspects. [@1] Officers found a large quantity
 of hashish in their possession, along with a shotgun and cartridges, money
-suspected to be criminal proceeds and three mobile phones. [@1,2]
+suspected to be criminal proceeds and three mobile phones. [@1,2,3]
 
 When confronted, the suspects admitted possessing the seized items for
-trafficking. [@1] Authorities completed the required legal procedures and the
+trafficking. [@1,3] Authorities completed the required legal procedures and the
 public prosecution took over the investigation in Cairo. [@1,2] The arrests took
 place within the jurisdiction of Marg police station in Cairo. [@1]
