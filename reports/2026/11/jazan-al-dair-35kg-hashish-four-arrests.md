@@ -50,6 +50,11 @@ sources:
     publisher: حرس الحدود السعودي (@BG994), X
     date: 2026-11-05
     language: ar
+  - title: حرس الحدود في جازان يعتقل أربعة إثيوبيين أثناء محاولتهم تهريب 35 كيلوغرامًا من الحشيش و74، 400 قرص من المواد المخدرة
+    url: https://www.alestad.com/149608/%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%81%D9%8A-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D9%8A%D8%B9%D8%AA%D9%82%D9%84-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A/
+    publisher: الاستاد الاخباري
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The articles give no separate date for the arrests; 5 November 2026 is their publication date and is used as the incident date.
   - The four detainees' names and ages were not published.
@@ -59,13 +64,14 @@ open_questions:
   - No charges, court dates or sentences were reported; the Border Guard said only that initial legal procedures were completed.
   - The Border Guard's X post carries a photograph with no independent caption establishing it shows this seizure; it is linked to the post with that caveat.
   - The Sabq page's only image is the outlet logo used with the headline, so no media entry is taken from it.
+  - The Al-Estad article repeats the Border Guard announcement without naming its own sector-level source and adds no details beyond those already reported.
 ---
 
 Saudi Border Guard land patrols in the Al-Dair sector of Jazan region arrested
 four violators of the border security law who were trying to smuggle 35
-kilograms of hashish. [@2] All four were Ethiopian nationals, according to Ajel
+kilograms of hashish. [@2,5] All four were Ethiopian nationals, according to Ajel
 and Sraha. [@3] The same interception also turned up 74,400 tablets subject to
-medical-trade controls, which are not counted as cannabis. [@1]
+medical-trade controls, which are not counted as cannabis. [@1,5]
 
 The Border Guard published the case on its own X account on 5 November 2026,
 without naming the sector. [@4] The directorate said initial legal procedures
@@ -83,4 +89,3 @@ authority for the penalties set by law. [@1]
 
 The security agencies urged citizens and residents to report any information on
 drug smuggling or promotion through the approved channels. [@1]
-
