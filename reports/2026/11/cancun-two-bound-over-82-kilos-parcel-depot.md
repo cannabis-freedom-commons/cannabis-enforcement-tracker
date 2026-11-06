@@ -67,6 +67,11 @@ sources:
     publisher: Julio Astillero
     date: 2026-11-04
     language: es
+  - title: Aseguran más de 82 kilos de marihuana en Cancún; vinculan a dos
+    url: https://quintanaroohoy.com/seguridad/aseguran-mas-de-82-kilos-de-marihuana-en-cancun-vinculan-a-dos/
+    publisher: Quintana Roo Hoy
+    date: 2026-11-05
+    language: es
 open_questions:
   - The sources say only that the detention happened days recently and do not give a separate date, so 4 November 2026, when the FGR announced the binding-over, is used as the incident date.
   - No street value or dose count for the marijuana was published, so no value can be recorded.
@@ -80,19 +85,22 @@ open_questions:
   - The reprint gives no separate detention date; it was published on 4 November 2026, the date of the FGR announcement used in the existing report.
   - The lead image on the reprint carries no separate agency or photographer credit, so it is linked rather than copied.
   - The other three photos on the page illustrate unrelated stories and are not media for this event.
+  - Quintana Roo Hoy describes a single package, while the existing report, citing other outlets, says the shipment held several packages.
+  - This account says the federal public prosecutor integrated the evidence file after the men were handed to FECOR; the existing report attributes building the file to FECOR.
+  - The article gives no detention date separate from its 5 November 2026 publication.
 ---
 
 Víctor “N” and Héctor “N” were bound over for trial in Cancún, Quintana Roo, on
-a charge of possessing marijuana for transport. [@1,3] Police detained the two men
+a charge of possessing marijuana for transport. [@1,3,4] Police detained the two men
 at a parcel company near Avenida Oaxantún in Supermanzana 35 as they came to
-collect the shipment. [@1,3] The shipment held several packages of marijuana
-weighing 82 kilograms, 573 grams and six milligrams. [@1,3]
+collect the shipment. [@1,3,4] The shipment held several packages of marijuana
+weighing 82 kilograms, 573 grams and six milligrams. [@1,3,4]
 
 The men were handed to the FGR's regional control office for Quintana Roo, the
-Fecor, which built the evidence file. [@1] The judge ordered mandatory
+Fecor, which built the evidence file. [@1,4] The judge ordered mandatory
 preventive detention, the Mexican rule that keeps certain accused in custody
-during trial, and set one month to close the complementary investigation. [@1,3]
+during trial, and set one month to close the complementary investigation. [@1,3,4]
 
 PorEsto! reported that the parcel awakened the suspicions of the police officers
 before they inspected it. [@2] Binding the men over is not a conviction, and the
-accused keep the presumption of innocence until a court passes sentence. [@1,2]
+accused keep the presumption of innocence until a court passes sentence. [@1,2,4]
