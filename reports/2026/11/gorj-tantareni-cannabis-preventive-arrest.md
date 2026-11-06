@@ -68,6 +68,11 @@ sources:
     publisher: Jurnal MM
     date: 2026-11-05
     language: ro
+  - title: A cultivat canabis la Țânțăreni! A fost reținut pentru trafic de droguri
+    url: https://www.tvsud.ro/a-cultivat-canabis-la-tantareni-a-fost-retinut-pentru-trafic-de-droguri.html
+    publisher: TV SUD
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No figure for the number of plants grown or for the weight, area or value of the cannabis was published; only the nine jars seized are stated.
   - The cannabis found in the jars and bags was still being examined, so its weight and composition were not stated.
@@ -79,11 +84,13 @@ open_questions:
   - Gorjeanul gives no weight, plant count, area or value for the cannabis, and no figure beyond the nine jars already recorded.
   - The man is not named, and no charges, trial or sentence beyond the preventive arrest are reported.
   - The page's lead image is marked 'Imagine ilustrativă' and is not shown to depict this seizure, so no media entry is listed.
+  - TV Sud gives no plant count, weight, area or value for the cannabis, and only repeats the nine glass jars of cannabis without a weight.
+  - TV Sud's only image is captioned 'Screenshot' with no credit, and is not established to show this raid or seizure, so no media entry is added.
 ---
 
 A 34-year-old man from Gorj County was placed in 30 days' preventive arrest,
 investigated for trafficking in risk drugs over a cannabis grow in Țânțăreni.
-[@1,3,4,6,8] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
+[@1,3,4,6,8,9] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
 [@2] Officers of the Gorj organised-crime service and DIICOT prosecutors, the
 directorate that investigates organised crime, documented the man's activity.
 [@1,3,4,5]
@@ -97,8 +104,10 @@ containing various amounts of cannabis, several bags and containers with plant
 fragments still being examined, remnants of hand-rolled cigarettes, grinders,
 data storage devices and other evidence. [@1,3,4,5,6,7,8]
 
-DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6,7,8] On
+DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6,7,8,9] On
 Thursday, 5 November, a judge of the Gorj Tribunal ordered him held in
-preventive arrest for 30 days. [@1,3,4,5,6,7,8] County police officers and Gorj gendarmes
+preventive arrest for 30 days. [@1,3,4,5,6,7,8,9] County police officers and Gorj gendarmes
 supported the operation. [@1,3,4,5,6] The man retains the presumption of innocence and
 his procedural rights through the criminal proceedings. [@1]
+
+The operation was supported by Gorj county police officers and by Gorj county gendarmes. [@9]
