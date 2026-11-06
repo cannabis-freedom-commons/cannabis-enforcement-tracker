@@ -46,6 +46,11 @@ sources:
     publisher: Первый канал
     date: 2026-11-05
     language: ru
+  - title: Таможенники в Москве пресекли контрабанду наркотиков в Киргизию на 17 млн рублей
+    url: https://saomos.news/news/society/tamozhenniki-v-moskve-presekli-kontrabandu-narkotikov-v-kirgiziyu-na-17-mln-rubley/
+    publisher: MOS NEWS
+    date: 2026-11-05
+    language: ru
 open_questions:
   - No separate cannabis-only weight was published; the reported 3.9 kg covers hashish and alpha-PVP together, so no kg_seized is recorded as a cannabis figure.
   - The reported value of more than 17 million roubles covers all seized substances together, so no cannabis-only value is recorded.
@@ -59,21 +64,21 @@ open_questions:
 
 Russian customs officers and Interior Ministry officers disrupted an
 international criminal group that planned to move drugs illegally to Kyrgyzstan.
-[@1] Customs found that a 42-year-old Russian woman planned the shipment, hiding
+[@1,4] Customs found that a 42-year-old Russian woman planned the shipment, hiding
 substances in everyday items and passing them for dispatch through delivery
-services, and she was detained. [@1] The same account is confirmed by a second
+services, and she was detained. [@1,4] The same account is confirmed by a second
 outlet, which says the 42-year-old Russian woman organized the dispatch and was
 detained after concealing substances in everyday items sent through delivery
 services. [@2] Criminal cases were opened against the detained woman for
 organized-group smuggling on an especially large scale, an offence the customs
-service says carries up to life imprisonment. [@2] In a joint international
+service says carries up to life imprisonment. [@2,4] In a joint international
 operation, Russian customs officers and Kyrgyz Interior Ministry officers
-detained the consignees in Bishkek, and investigative work was continuing. [@2]
+detained the consignees in Bishkek, and investigative work was continuing. [@2,4]
 
 In Moscow and the surrounding region, customs officers found and seized 3.9 kg
 of drugs in passenger cars, hidden in sweet wrappers, stew cans, body scrubs and
-other items. [@1,3] Expert examinations found that the seized material contained
-hashish and alpha-PVP. [@1,2] A second account likewise says the drugs were in
+other items. [@1,3,4] Expert examinations found that the seized material contained
+hashish and alpha-PVP. [@1,2,4] A second account likewise says the drugs were in
 sweet packets, stew cans and body-scrub jars and that examinations established
 the presence of hashish and alpha-PVP. [@2] The authorities put the black-market
-value of the seized substances at more than 17 million roubles. [@1]
+value of the seized substances at more than 17 million roubles. [@1,4]
