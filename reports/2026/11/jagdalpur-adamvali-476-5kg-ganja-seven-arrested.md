@@ -142,6 +142,11 @@ sources:
     publisher: RGH NEWS
     date: 2026-11-06
     language: hi
+  - title: 'MP-CG TOP NEWS: दिवाली पर रायपुर में मांस-मटन की दुकानें रहेंगी बंद, होटल-रेस्टोरेंट में नॉनवेज पर भी रोक'
+    url: https://hindi.news18.com/news/madhya-pradesh/jabalpur-mp-top-news-today-live-6-november-2026-mohan-yadav-breaking-updates-politics-crime-samachar-aaj-ki-taaza-khabarein-local18-10966763.html
+    publisher: News18 Hindi
+    date: 2026-11-06
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -194,6 +199,7 @@ open_questions:
   - Rgh News and Bansal News carry the same roundup text, including the tip-off, the pickup registration and the accused's village, so they are not independent accounts of this interception.
   - The Rgh News page carries a single uncaptioned image with no credit, so it is not shown to depict this seizure and no media entry is added.
   - The page's combined total of 884 kg 410 g across the Jagdalpur, Keshkal and Kanker actions leaves no weighed contribution from the Kanker recovery, whose sacks were never weighed in the reports available.
+  - This account rounds the seizure to 476 kg while the report retains the more precise 476.5 kg from earlier sources.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
@@ -219,11 +225,11 @@ and Psychotropic Substances Act, and the accused were being produced before a
 court. [@2]
 
 Police said Bastar police acted against drug trafficking and arrested seven
-traffickers there. [@1,3]
+traffickers there. [@1,3,20]
 
 Amar Ujala put the ganja's estimated market value at about 2 crore 38 lakh
-rupees, in line with the more precise figure. [@1,6] The cannabis was being taken
-from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15,16,17,18] Officers seized a Tata pickup and a
+rupees, in line with the more precise figure. [@1,6,20] The cannabis was being taken
+from Odisha toward Uttar Pradesh. [@1,3,4,5,6,8,12,13,15,16,17,18,20] Officers seized a Tata pickup and a
 motorcycle used in the smuggling at the scene. [@1,3,4,6,12,17] Jagdalpur police sealed off
 roads in Bastar after learning that traffickers were carrying a large load of
 ganja from Odisha to Uttar Pradesh. [@1,6]
