@@ -61,6 +61,11 @@ sources:
     publisher: aRede
     date: 2026-11-05
     language: pt
+  - title: PRF apreende mais de 300 quilos de maconha em Céu Azul (PR)
+    url: https://www.aquiagora.net/noticias/ver/170370/PRF_apreende_mais_de_300_quilos_de_maconha_em_Ceu_Azul__PR_
+    publisher: AquiAgora.net
+    date: 2026-11-05
+    language: pt
 open_questions:
   - Tarobá describes the arrest as happening at dawn on Thursday 5 November while the PRF accounts time it at about 23:40 on Wednesday 4 November; 4 November is used as the incident date.
   - The driver was reported only as a 28-year-old man with no name published.
@@ -72,17 +77,19 @@ open_questions:
   - ClicRDC does not report the Foz do Iguaçu origin, Curitiba destination, or vehicle-identifier adulteration already cited in the existing report.
   - The ClicRDC page carries an image file that may republish the same PRF handout already linked from Portal Cantagalo; with no caption or credit establishing it, no separate media entry is made.
   - aRede does not report the Foz do Iguaçu origin, the Curitiba destination or the vehicle-identifier irregularity cited in the existing report.
+  - This account does not mention the Foz do Iguaçu origin, the Curitiba destination, or the vehicle-identifier adulteration recorded in the existing report from its other cited sources.
+  - The page carries a PRF-credited photo that appears to republish the same agency handout already linked from Portal Cantagalo, so no separate media entry is made.
 ---
 
 Federal Highway Police officers stopped a Honda Civic on BR-277 in Céu Azul in
-western Paraná at about 23:40 on the night of 4 November 2026. [@2,4,5,6] The driver
-was a 28-year-old man. [@1,5]
+western Paraná at about 23:40 on the night of 4 November 2026. [@2,4,5,6,7] The driver
+was a 28-year-old man. [@1,5,7]
 
 During the inspection officers found several bales of marijuana inside the car,
-whose rear seats had been removed to enlarge the space for the load. [@2,5,6]
+whose rear seats had been removed to enlarge the space for the load. [@2,5,6,7]
 Officers also found more bales in the boot plus a bag holding capulho marijuana,
 and weighing set the total at 296.72 kg of pressed marijuana and 9.76 kg of
-capulho. [@3,4,5,6] The car had left Foz do Iguaçu and was heading toward Curitiba.
+capulho. [@3,4,5,6,7] The car had left Foz do Iguaçu and was heading toward Curitiba.
 [@1]
 
 Officers found the car's identifying signs irregular, and checks found no theft
@@ -90,4 +97,4 @@ or robbery record for the original vehicle. [@2] When questioned the driver did
 not say where the drugs were going or what he would be paid, telling officers
 only that he would receive delivery instructions during the journey. [@1,5,6] The
 man was arrested for drug trafficking and altering a vehicle identifier and was
-taken with the drugs and the car to the Civil Police station in Cascavel. [@2,4,5]
+taken with the drugs and the car to the Civil Police station in Cascavel. [@2,4,5,7]
