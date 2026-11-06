@@ -60,11 +60,17 @@ sources:
     publisher: Mondoreale
     date: 2026-11-05
     language: it
+  - title: 'Sezze, quasi un chilo di hashish in casa: arrestati due giovani'
+    url: https://www.h24notizie.com/2026/11/06/sezze-quasi-un-chilo-di-hashish-in-casa-arrestati-due-giovani/
+    publisher: h24 notizie
+    date: 2026-11-06
+    language: it
 open_questions:
   - The reports give the 70-gram marijuana figure as just under 70 grams and other weights as approximate, so the 1.08 kg total sums the stated approximate weights.
   - The small hashish amount found on one youth on the street was described only as a modest quantity and is not included in the quantified total.
   - No validation-hearing outcome or later court result was reported.
   - The submitted page's photo caption does not establish that the image shows this seizure, so no media entry is included.
+  - The h24 notizie page is dated 6 November 2026 and gives no separate date for the street check or the home searches; the existing report uses 4 November 2026 from its earlier accounts, and this outlet's later date is not treated as the incident date.
 media:
   - kind: photo
     url: https://www.mondoreale.it/2026/11/sezze-hashish-e-marijuana-due-giovani-arrestati-per-detenzione-ai-fini-di-spaccio/
@@ -74,25 +80,25 @@ media:
 ---
 
 Carabinieri in Sezze arrested two local residents aged 23 and 22 on suspicion of
-possessing drugs with intent to deal. [@1,3] The operation began on the afternoon
+possessing drugs with intent to deal. [@1,3,4] The operation began on the afternoon
 of 4 November during a territorial control patrol in the town centre. [@1,3]
 Officers stopped the two after noticing their suspicious behaviour near a public
 business. [@2]
 
 The street check found one youth with a small amount of hashish and the other
-with about 25 grams in 11 doses plus an 18 cm knife with hashish residue. [@1,3] A
+with about 25 grams in 11 doses plus an 18 cm knife with hashish residue. [@1,3,4] A
 bedroom search in the 23-year-old's home found ten hashish blocks totalling
-about 960 grams plus just under 70 grams of marijuana. [@1,3] Officers also seized
+about 960 grams plus just under 70 grams of marijuana. [@1,3,4] Officers also seized
 about 165 euros in cash thought to be proceeds, two precision scales and
-packaging material. [@1,3] Officers also found an electronic identity card whose
-microchip had been materially removed. [@1,3] A search in the 22-year-old's home
-found another roughly 25 grams of marijuana kept in two glass containers. [@1,3]
+packaging material. [@1,3,4] Officers also found an electronic identity card whose
+microchip had been materially removed. [@1,3,4] A search in the 22-year-old's home
+found another roughly 25 grams of marijuana kept in two glass containers. [@1,3,4]
 All the recovered material was seized. [@1,3]
 
 Both were arrested in flagrancy for possession with intent to deal. [@1,3] After
 formalities the 23-year-old was transferred to Latina prison while the
-22-year-old was placed under house arrest. [@1,3] The 23-year-old was also
-reported at liberty for material forgery over the identity card. [@1,3] The
+22-year-old was placed under house arrest. [@1,3,4] The 23-year-old was also
+reported at liberty for material forgery over the identity card. [@1,3,4] The
 22-year-old must also answer for carrying weapons or objects capable of offence
 over the knife. [@1,3] Both remain available to the Latina public prosecutor
 pending the validation hearing. [@1,3] The case is in the
