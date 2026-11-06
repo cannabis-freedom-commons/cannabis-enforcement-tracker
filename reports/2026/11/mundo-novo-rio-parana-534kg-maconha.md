@@ -52,6 +52,8 @@ open_questions:
   - The report describes the drug as a substance similar to marijuana; the Federal Police and Receita Federal gave no statement that could be opened to confirm the amount.
   - The source does not say which bank of the river, or on which side of the Paraná, the bundles were found; coordinates use the centre of Mundo Novo.
   - The two photos are separate agency handout images of the seizure, one showing the car and tablets and the other the tablets alone, and no further photographs of the event were published.
+  - The Campo Grande News account gives no separate date for the seizure; 4 November 2026 is its publication date, used as the incident date.
+  - The page says only that no one had been located at the time of publication, leaving open whether suspects were later identified.
 ---
 
 Federal and state officers seized about 534 kg of marijuana on the banks of the
@@ -62,7 +64,7 @@ approached, and none was found. [@2]
 A team from the Receita Federal office in Mundo Novo took part in the action,
 the local customs and tax office. [@2] The teams came from the Border Police
 Battalion of Guaíra, in Paraná, the Receita Federal office in Mundo Novo, and
-the Federal Police's Special Maritime Police Nucleus (Nepom). [@1] A Crítica do
+the Federal Police's Special Maritime Police Nucleus (Nepom). [@1,2] A Crítica do
 MS republished the same agency account headlined on the Receita Federal office
 in Mundo Novo and the Paraná police. [@3]
 
@@ -70,10 +72,11 @@ The operation began after the agencies shared information about suspicious
 movement in the border area. [@2] Officers had identified a car with São Paulo
 plates that was allegedly being used to carry illegal goods. [@2] Approaching
 the spot, the officers saw people transferring several bundles into cars parked
-in the area. [@1] Written as a substance similar to marijuana, the bundles
+in the area. [@1,2] Written as a substance similar to marijuana, the bundles
 weighed about 534 kg once found and weighed. [@1]
 
 The vehicles and all the seized material were sent to the Federal Police station
-in Guaíra, Paraná, for the legal procedures. [@1] Campo Grande News reported
+in Guaíra, Paraná, for the legal procedures. [@1,2] Campo Grande News reported
 that there was no information about arrests in the case. [@2]
 
+The officers arrived at the loading site after information shared between the agencies pointed to suspicious vehicle movement in the frontier region targeted in the inspection. [@2]
