@@ -109,6 +109,8 @@ open_questions:
   - Navbharat Live puts the tip-off on the morning of 5 November and does not give the hour of the interception itself.
   - The article names the four adults' fathers but gives no further identifying detail, and does not say whether the three children were formally charged.
   - The page image has no caption or credit identifying it as this interception, so no media entry is added.
+  - ETV Bharat does not say what the court decided when the seven accused were produced before it.
+  - The ETV Bharat page carries one lead image captioned only as ganja worth crores seized in Bastar, credited to ETV Bharat Chhattisgarh, without identifying the load or place shown.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
@@ -123,7 +125,7 @@ from Malkangiri in Odisha via Kurandi was heading toward Jagdalpur, and officers
 set up a blockade near Adamvali railway crossing. [@2,5,9] Officers saw two young
 men on a motorcycle riding ahead of the pickup to scout for police on the route,
 then stopped the pickup when its occupants tried to flee. [@2,9] The pickup held
-450 packets of ganja hidden in 15 sacks. [@2,5,10] Police valued the cannabis at 2
+450 packets of ganja hidden in 15 sacks. [@2,5,7,10] Police valued the cannabis at 2
 crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
 phones and 1,500 rupees in cash. [@2,5,9]
@@ -149,6 +151,6 @@ Uttar Pradesh. [@1,4]
 
 The intercepted white pickup bore registration number CG 17 KL 0411. [@8] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10]
 
-The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@9] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
+The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@7,9] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
 
 The four adults are listed with their fathers' names: Bhagwan Pangi son of Hari Pangi, Ghasi Khilo son of Sundaro Khilo, Chitrasen Gallori son of Kamlu Gallori and Rohani Gallori son of Lachhu Gallori. [@10] The interception came during a district drive against the illegal sale and smuggling of narcotic drugs ordered by Bastar superintendent of police Shalabh Kumar Sinha. [@10]
