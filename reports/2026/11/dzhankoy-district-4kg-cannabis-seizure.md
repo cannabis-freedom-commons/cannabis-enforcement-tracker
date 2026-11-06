@@ -46,6 +46,11 @@ sources:
     publisher: Крыминформ
     date: 2026-11-06
     language: ru
+  - title: В Джанкойском районе полицейские изъяли около 4 кг конопли, выращенных из шести семян
+    url: https://obyektiv.press/news/v-dzhankoiskom-raione-politseiskie-izyali-okolo-4-kg-konopli-vyraschennykh-iz-shesti-semyan/
+    publisher: Объектив
+    date: 2026-11-06
+    language: ru
 open_questions:
   - The article gives no date for the search or the opening of the case; 6 November 2026 is its publication date and is used as the incident date.
   - The weight is stated only as approximately four kilograms of dried equivalent, not an exact measured figure.
@@ -54,19 +59,21 @@ open_questions:
   - The article does not say what became of the cultivated plants beyond the seized material, so only the four-kilogram total is recorded.
   - No street value, sentence or court date was reported.
   - No second, independent account of the search was found, so the report relies on the regional interior ministry statement published by Kryminform.
+  - The Obyektiv account gives no separate date for the search or the case; 6 November 2026 is its publication date.
+  - Obyektiv reproduces the regional interior ministry statement rather than independent reporting, so it adds no separate confirmation of the facts.
 ---
 
 Police in Dzhankoy district opened a criminal case against a 41-year-old local
-resident after finding cannabis parts on his land. [@1] The seized raw material
+resident after finding cannabis parts on his land. [@1,2] The seized raw material
 weighed about four kilograms when converted to dried substance, police said.
-[@1] Officers of the drug-control unit of the Dzhankoy interior ministry
+[@1,2] Officers of the drug-control unit of the Dzhankoy interior ministry
 division reached the previously convicted man during operational search work.
 [@1]
 
 While examining his household plot, officers found grey-green plant material
 with a characteristic smell in an outbuilding. [@1] The man said he had planted
 six cannabis seeds in his vegetable garden and tended the plants, then cut them
-once they ripened and moved them into the shed. [@1] He said the crop was
+once they ripened and moved them into the shed. [@1,2] He said the crop was
 intended for his own use. [@1]
 
 An expert examination found the seized material to be parts of plants of the
@@ -76,5 +83,6 @@ illegal trafficking of drugs in a large amount without intent to sell and
 carries three to ten years in prison. [@1] The suspect was placed under a
 written undertaking not to leave the area. [@1] Police also drew up an
 administrative case against him under article 10.5.1 of the Administrative Code
-for illegal cultivation of drug-containing plants. [@1]
+for illegal cultivation of drug-containing plants. [@1,2]
 
+The article states he could face three to ten years in prison. [@2]
