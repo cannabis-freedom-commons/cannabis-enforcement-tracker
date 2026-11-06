@@ -54,6 +54,10 @@ sources:
     publisher: News4Nation
     date: 2026-11-05
     language: hi
+  - title: 'Bihar: 176 grams of cannabis, illegal pistol seized; two arrested'
+    url: https://www.thehawk.in/news/india/bihar-176-grams-of-cannabis-illegal-pistol-seized-two-arrested
+    publisher: The Hawk
+    date: 2026-11-05
 open_questions:
   - No weight or quantity for the seized ganja was published, so no cannabis kilograms can be recorded.
   - No type, count or calibre for the seized arms and cartridges was published.
@@ -69,6 +73,7 @@ open_questions:
   - No charge sections, court date or judicial custody decision appear in this account.
   - The single page image repeats the headline and its file path dates to February 2025, so it is not established to show this seizure and no media entry is included.
   - Hindustan and News4Nation report a total of 176.45 g, while the existing report records 175.75 g; Hindustan's FAQ gives 5.75 g at the scene and 170 g from the shop, and News4Nation gives 5.75 g and 170.7 g, so the final total remains unresolved.
+  - This account puts the cannabis total at 176.45 grams, from 5.75 grams seized from the main accused and 170.7 grams from the shop, while the report records 175.75 grams from a press note that gave 170 grams for the shop recovery.
 media:
   - kind: video
     url: https://www.bhaskar.com/local/bihar/bhojpur/bihiya/video/bihia-crime-notorious-criminal-sanjeet-yadav-kariya-arrested-arms-139600952.html?type=video
@@ -78,7 +83,7 @@ media:
 ---
 
 During the Wednesday raid near the temple, officers caught both youths with
-illegal arms, cartridges and ganja. [@1,2,3,4,5] Police had received a tip that
+illegal arms, cartridges and ganja. [@1,2,3,4,5,7] Police had received a tip that
 offenders had gathered in the area planning a major criminal act. [@1,2]
 
 Police suspect the arrested youths were preparing to carry out a major criminal
@@ -94,3 +99,5 @@ judicial custody after questioning is complete. [@1,3]
 Police recovered a country-made pistol, four cartridges and a total of 175.75 grams of ganja, according to a press note from superintendent of police Awadhesh Dixit. [@3] The other arrested suspect was identified as Awadh Bihari Prasad of Kateya village. [@3] Yadav told police he had bought the ganja from Prasad, and a raid on Prasad's shop recovered 170 grams of ganja; Prasad admitted his involvement. [@3]
 
 Police registered Bihiya police station case 382/26 on 4 November 2026 under the Arms Act and the NDPS Act. [@6]
+
+Police said Sanjit disclosed that he purchased the contraband from Awadh Bihari Prasad, also a resident of Kateya. [@7] Acting on this information, the police raided Prasad's shop and recovered another 170.7 grams of suspected cannabis. Prasad was subsequently arrested. [@7] According to the police, Sanjit has a criminal history, with four cases registered against him at Bihiya police station in 2018, 2019 and 2025. [@7] A search also led to the recovery of 5.75 grams of a substance suspected to be cannabis from his possession. [@7] An FIR has been registered at Bihiya police station in connection with the latest operation as Case No. 382/26, dated November 4, 2026, under relevant provisions of the Arms Act and the Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@7]
