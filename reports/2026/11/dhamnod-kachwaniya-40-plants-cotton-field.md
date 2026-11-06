@@ -52,6 +52,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: कपास की फसल के बीच उगाए जा रहे थे गांजे के पौधे, धामनोद पुलिस ने 77 किलो गांजा किया जब्त
+    url: https://www.sammukhbharatnews.com/2026/11/77.html
+    publisher: Sammukh Bharat News
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The article says police received the tip on Thursday and registered the case on 6 November 2026, so 5 November is used as the incident date.
   - The field's owner was not reported arrested; police said they were searching for him.
@@ -68,3 +73,4 @@ locally as ganja, that had been grown hidden among a cotton crop. [@1] The
 uprooted plants weighed 77 kg 61 g. [@1] The article's headline puts the
 estimated value of the cannabis at about 16 lakh rupees. [@1]
 
+Police registered the case as crime number 568/2026 under section 8/20 of the NDPS Act. [@2]
