@@ -21,6 +21,16 @@ media:
     media_url: https://webcdn.guangming.com.my/wp-content/uploads/2026/11/e99baae585b3e7a88ee5b180e8b5b7e88eb7e980be224e4b887e4bba4e59089e6af92e59381.webp
     publisher: 光明日报
     caption: 'Officers display the 286 g of suspected cannabis flower seized in Kelantan. Photo: provided by Customs.'
+  - kind: photo
+    url: https://www.sinarharian.com.my/article/803328/berita/semasa/kastam-patahkan-cubaan-seludup-ketamin-bunga-ganja-bernilai-rm224-juta
+    media_url: https://www.sinarharian.com.my/uploads/images/2026/11/05/3700461.webp
+    publisher: Sinar Harian
+    caption: 'Customs photographs of the drugs seized in the two operations announced on 5 November 2026. Photo: Royal Malaysian Customs Department (JKDM) Selangor, via Sinar Harian'
+  - kind: photo
+    url: https://www.sinarharian.com.my/article/803328/berita/semasa/kastam-patahkan-cubaan-seludup-ketamin-bunga-ganja-bernilai-rm224-juta
+    media_url: https://www.sinarharian.com.my/uploads/images/2026/11/05/3700459.webp
+    publisher: Sinar Harian
+    caption: 'Customs case items laid out after being taken to the North Port customs office for investigation. Photo: Royal Malaysian Customs Department (JKDM) Selangor, via Sinar Harian'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f7192713cfdcd57698294b89d11149a0
@@ -46,6 +56,11 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-05
     language: ms
+  - title: Kastam patahkan cubaan seludup ketamin, bunga ganja bernilai RM2.24 juta
+    url: https://www.sinarharian.com.my/article/803328/berita/semasa/kastam-patahkan-cubaan-seludup-ketamin-bunga-ganja-bernilai-rm224-juta
+    publisher: Sinar Harian
+    date: 2026-11-05
+    language: ms
 open_questions:
   - The operation date is given only as 10 October 13 as “this year”; 2026 is inferred from the 4 November 2026 publication date.
   - No suspect was arrested or named; the rider escaped and remains unidentified.
@@ -61,17 +76,19 @@ open_questions:
   - The page's only picture is a portrait of Selangor Customs director Noraidah Ishak, not a photo of the seizure, so no media entry is added.
   - Operation Mekong Dragon VII, named in this account for the 13 August Sepang ketamine seizure, has not previously been reported as the operation name for that case.
   - 'Left out, as its quotation was not found in Sinar Harian: Both cases were taken to the North Port customs office and investigated under Section 39B of the Dangerous Drugs Act 1952.'
+  - The page's photos were published with captions for the combined two-operation announcement; none is separately captioned as showing only the 286 g of cannabis flower from Jeli.
+  - The report's text was already supported by this Sinar Harian article through its AMP address; this full address is a second URL for the same piece, and Newswav is a reprint of it.
 ---
 
 Selangor Customs enforcement officers spotted an unregistered motorcycle with a
 suspicious rider in Jeli district, Kelantan, on 13 October 2026 and began
-tracking him. [@1,2,3] The rider accelerated and fled when he realised officers were
+tracking him. [@1,2,3,5] The rider accelerated and fled when he realised officers were
 following, leading to a chase in which officers kept up but the suspect escaped
 through narrow roads. [@1,2] While fleeing, the rider threw a green plastic
 package onto the roadside. [@1,2]
 
 Officers recovered the package and found 286 grams of suspected cannabis flower
-inside. [@1,2,4] Customs estimated the 286 grams of suspected cannabis flower at
+inside. [@1,2,4,5] Customs estimated the 286 grams of suspected cannabis flower at
 RM22,880. [@1,2,3,4] Officers seized the exhibit and sent it to the North Port customs
 office for investigation. [@1,2]
 
@@ -85,3 +102,5 @@ investigation was still under way with no court outcome announced. [@1]
 Selangor Customs ran the Jeli motorcycle hunt under the operation name Shieldgate, separate from its courier-parcel operation in Sepang. [@3] Customs said the Jeli cannabis and the ketamine seized in the separate Sepang operation were taken together to the North Port customs office for further investigation under Section 39B of the Dangerous Drugs Act 1952. [@3]
 
 Selangor Customs announced the Jeli seizure on 13 October 2026 together with a separate 44.501 kg ketamine seizure worth some RM2.22 million at a courier company's mail centre near Sepang on 13 August, under Operation Mekong Dragon VII. [@4]
+
+The operation was run under the name Shieldgate. [@5]
