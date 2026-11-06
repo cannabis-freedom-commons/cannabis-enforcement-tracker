@@ -63,6 +63,10 @@ sources:
     url: https://wibc.com/901216/hemp-dealer-charged-with-drug-dealing-in-hancock-county/
     publisher: WIBC 93.1 FM
     date: 2026-11-05
+  - title: Indiana hemp dealer says he's filing lawsuit after police raid shop, clean out his shelves
+    url: https://local12.com/news/nation-world/adam-king-hemp-dealer-faces-felony-marijuana-charges-hancock-county-farm-raid-seized-hundreds-plants-dapper-cincinnati-canna-dispensary-undercover-buys-tested-products-thc-exceeds-legal-limit-indiana-lawsuit-police-agencies
+    publisher: WKRC
+    date: 2026-11-06
 open_questions:
   - No precise plant number was published beyond hundreds of marijuana plants, so no plants_destroyed figure is recorded.
   - No cannabis weight, area, value or THC-test result was published for the farm plants or the shop products, so no kilogram or value figure is recorded.
@@ -75,25 +79,26 @@ open_questions:
   - WIBC credits the story to FOX 59, so it is a republication of the account already cited rather than independent confirmation.
   - WIBC gives no separate date for the late-October farm raid or the Wednesday initial hearing.
   - The WIBC page's copyright year appears as 2025 in its footer while the stated publication date is 5 November 2026; the publication date is used.
+  - The page's only news photo is a generic hemp image credited to Sean Gallup/Getty Images, not a photo of this raid or seizure, so no media entry is listed.
 ---
 
 Felony drug charges have been filed in Hancock County against a local hemp
 dealer who runs a dispensary in Fountain Square. [@1,2,3] The dealer was identified
-as Adam King, who faces two felony counts of dealing marijuana. [@1,3] King spoke
+as Adam King, who faces two felony counts of dealing marijuana. [@1,3,4] King spoke
 out against the charges a day after he was released from jail. [@1] He spent
 nearly a week behind bars before being released on bond pending trial after an
-initial hearing on Wednesday. [@1,3]
+initial hearing on Wednesday. [@1,3,4]
 
 The investigation began when Indiana State Excise Police received a complaint
 and started conducting undercover buys at the Dapper Canna dispensary on
-Virginia Avenue last year. [@1,3] Surveillance footage, recorded in late October,
+Virginia Avenue last year. [@1,3,4] Surveillance footage, recorded in late October,
 shows numerous Hancock County SWAT officers, State Excise Police and the Metro
-Drug Task Force raiding a farm in Hancock County. [@1,3] Court records claim
-hundreds of marijuana plants were seized in the raid. [@1,3] King claims police
+Drug Task Force raiding a farm in Hancock County. [@1,3,4] Court records claim
+hundreds of marijuana plants were seized in the raid. [@1,3,4] King claims police
 also raided his shop and cleared out his shelves. [@1,3] Investigators claim
 samples taken from some of the undercover buys at the store included products
 with more THC than is legal, but King has not been charged with any crimes in
-Marion County. [@1,3]
+Marion County. [@1,3,4]
 
 King, who also runs the hemp dispensary in Fountain Square, showed us a license
 from the Indiana Seed Commissioner that allows him to legally grow and sell
