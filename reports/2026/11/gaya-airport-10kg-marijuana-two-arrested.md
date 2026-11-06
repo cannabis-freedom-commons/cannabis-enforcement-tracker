@@ -75,6 +75,10 @@ sources:
     publisher: NewsBytes
     date: 2026-11-05
     language: hi
+  - title: Two women arrested with 10kg ganja at Gaya airport
+    url: https://timesofindia.indiatimes.com/city/patna/two-women-arrested-with-10kg-ganja-at-gaya-airport/articleshow/135574291.cms
+    publisher: The Times of India
+    date: 2026-11-05
 open_questions:
   - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
   - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
@@ -100,11 +104,15 @@ open_questions:
   - The Hindustan Times account gives no value for the consignment beyond a figure it reports without official confirmation, and the existing report continues to record no value.
   - The attached picture on the Hindustan Times page is a representative file photo, so no media entry is added.
   - The NewsBytes account does not name the two arrested people.
+  - The Times of India gives the quantity as 10.5 kg while the recorded report and Hindustan Times give about 10 kg; the report keeps the 10 kg figure.
+  - The Times of India names Bangkok as the departure city while the recorded report and Hindustan Times name Chiang Mai; both are in Thailand and the sources do not reconcile them.
+  - The Times of India reports the production before the chief judicial magistrate on Thursday but gives no custody ruling or charges, so no court outcome is known.
+  - The Times of India page image is a handcuffs file picture and is not established to show this seizure, so no media entry is added.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
-after they arrived from Thailand. [@1,2,5,6,8,9,10,11] The women were identified as Simranjit
-and Kulwinder, both reported as Punjab residents. [@1,7,10] They arrived on a Thai
+after they arrived from Thailand. [@1,2,5,6,8,9,10,11,12] The women were identified as Simranjit
+and Kulwinder, both reported as Punjab residents. [@1,7,10,12] They arrived on a Thai
 Airways flight from Thailand at around 11.45 am and were detained after security
 staff reportedly noticed suspicious contents during baggage screening. [@1,3] They
 were questioned for about eight hours before being formally arrested. [@1,3,4,7]
@@ -114,17 +122,19 @@ belonging to the pair. [@1,2,5,6,7,11] The bags were examined more closely after
 Industrial Security Force personnel and other security staff flagged something
 suspicious during routine screening. [@1,2,5,6] The consignment was reported to be
 worth about Rs 10 crore on the international market, although that valuation was
-not officially confirmed. [@1,2]
+not officially confirmed. [@1,2,6]
 
 Airport sources said six people had travelled to Thailand about four days before
 the seizure. [@1,6,7,9,10,11] The two women arrived back at Gaya with the suspected
 narcotics, while the other four had reportedly not yet returned. [@1,6,9,10,11] Customs
 investigators are examining the group's possible connection to the consignment
 and whether others were involved, working to establish its origin and intended
-destination. [@1,9]
+destination. [@1,9,12]
 
 Dainik Bhaskar reported that this was the fourth case of marijuana being caught at Gaya airport this year. [@4] Bhaskar reported that officials declined to answer questions about where the consignment was to be delivered and how many people were behind the smuggling. [@4]
 
 Customs officials said both women arrived from Chiang Mai International Airport in Thailand on a Thai Airways flight. [@6,9,10,11] Airport personnel noticed suspicious images on the X-ray screen and stopped the women for questioning before their luggage was searched. [@6,7,9,11] Investigators are trying to establish how the consignment was procured, who arranged its transport and where it was supposed to be delivered. [@7,8]
 
 Officials said the women's permanent addresses in Punjab were still being verified. [@6,10]
+
+The Times of India reports that the accused were produced before the court of the chief judicial magistrate on Thursday, the day after the seizure. [@12] An official said security and intelligence agencies had stepped up surveillance at Gaya airport after the seizure to curb smuggling of narcotics, gold and foreign currency. [@12] Authorities said legal proceedings were under way and that they were still assessing the value of the seized consignment. [@12]
