@@ -34,6 +34,11 @@ media:
     media_url: https://static.lsm.lv/media/2026/11/ujtq.mp3
     publisher: LSM.lv
     caption: 'Audio interview about the case with Dmitrijs Vorobjovs, deputy head of the State Police Riga regional board''s drug-enforcement division. Credit: LSM.lv'
+  - kind: photo
+    url: https://retv.lv/kriminalzinas/latvijas-un-lietuvas-narkodileru-grupejums-mezos-slepis-desmitiem-kilogramu-narkotiku/
+    media_url: https://retv.lv/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-10.32.14.png
+    publisher: ReTV
+    caption: 'A forest cache found during the operation, showing a white container and wrapped items buried in the ground. Photo: video screenshot (ReTV)'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 967d7cff14a911dcaf46a76c4e812ad0
@@ -74,6 +79,11 @@ sources:
     publisher: BB.LV
     date: 2026-11-05
     language: ru
+  - title: Latvijas un Lietuvas narkodīleru grupējums mežos slēpis desmitiem kilogramu narkotiku
+    url: https://retv.lv/kriminalzinas/latvijas-un-lietuvas-narkodileru-grupejums-mezos-slepis-desmitiem-kilogramu-narkotiku/
+    publisher: ReTV
+    date: 2026-11-05
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -88,6 +98,8 @@ open_questions:
   - LSM names the deputy head of the State Police Riga regional board's drug-enforcement division, Dmitrijs Vorobjovs, as the officer who gave an audio interview about the case, but does not attribute any quoted figures to him.
   - 'Left out, as its quotation was not found in LSM.lv: State Police seized 15.7485 kg of marijuana, 630 grams of hashish and 34 devices containing THC.'
   - 'Left out, as its quotation was not found in LSM.lv: Two other Latvian citizens in the scheme carried out the offences while in prison.'
+  - ReTV reports the seizure as about 36 kilograms of various narcotics including marijuana and hashish but gives no separate weight for the cannabis substances, so the mixed total stays outside the cannabis figures.
+  - The ReTV page gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication date.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
@@ -96,21 +108,21 @@ drugs in barrels buried in the forest. [@1,6,7] On 21 October police detained si
 people in a large-scale operation, after three of them tried to flee but failed
 to escape. [@1,2,6,7] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1,3,4,6,7] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3,4,6,7,8] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
-Latvia. [@1,2] Two detained Lithuanians were wanted in Lithuania at the time, one
+Latvia. [@1,2,8] Two detained Lithuanians were wanted in Lithuania at the time, one
 of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
 had been wanted since 28 August for a sexual act against a person under 16 and
 for theft, and was handed over to serve his sentence. [@1] The other detained
 Latvian had been released from prison only in spring after serving a sentence
 for a similar drug-trafficking offence. [@1] On 23 October a court imposed
 pretrial custody, the strictest restraint, on five suspects, four Lithuanians
-and one Latvian. [@1,4,6]
+and one Latvian. [@1,4,6,8]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1,2,4,6,7] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2,4,6,7,8] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1]
 State Police said this was the first discovery in the Riga region of such a
