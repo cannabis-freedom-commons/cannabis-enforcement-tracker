@@ -35,6 +35,11 @@ media:
     media_url: https://www.ealingtimes.co.uk/resources/images/21677569.jpg?type=mds-article-962
     publisher: Ealing Times
     caption: 'Cannabis plants found by police at the Ayres'' home in Burgh Common. Photo: Norfolk Constabulary/PA'
+  - kind: photo
+    url: https://www.hellorayo.co.uk/hits-radio/norfolk/news/elderly-attleborough-couple-sentenced-after-cannabis-farm-found-in-their-home
+    media_url: https://cdn.apollo.audio/one/media/6aec/c455/605e/8ebd/9eec/9fbe/imagehlepl.webp?quality=80&format=jpg&ratio=16-9&width=960
+    publisher: Hits Radio (Norfolk)
+    caption: 'Cannabis plants and dried cannabis found by Norfolk Constabulary at the Ayres'' home in Burgh Common. Photo: Norfolk Constabulary'
 details:
   setting: [home]
 data_sources:
@@ -128,6 +133,10 @@ sources:
     url: https://www.oxfordmail.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
     publisher: Oxford Mail
     date: 2026-11-05
+  - title: Elderly Attleborough couple sentenced after cannabis farm found in their home
+    url: https://www.hellorayo.co.uk/hits-radio/norfolk/news/elderly-attleborough-couple-sentenced-after-cannabis-farm-found-in-their-home
+    publisher: Hits Radio (Norfolk)
+    date: 2026-11-05
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -146,16 +155,16 @@ open_questions:
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
-near Attleborough in Norfolk. [@1,4,5,7,11,19,21] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21]
+near Attleborough in Norfolk. [@1,4,5,7,11,19,21,22] Marion Ayres was given nine months in prison,
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
 with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21]
 
 Both were arrested after Norfolk Constabulary officers executed a warrant at the
 couple's home on 20 May 2025, as part of an investigation into cannabis supply
-in the area. [@2,6,7,8,9,10,11,12,14,15,16,17,20,21] Officers found 25 cannabis plants and approximately 5.7 kg of
+in the area. [@2,6,7,8,9,10,11,12,14,15,16,17,20,21,22] Officers found 25 cannabis plants and approximately 5.7 kg of
 dried cannabis, which police estimated had a street value of more than £46,000.
-[@1,4,5,6,7,8,9,10,12,13,14,15,20,21] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
+[@1,4,5,6,7,8,9,10,12,13,14,15,20,21,22] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
 guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
 28 cannabis plants on that date. [@3] Marion Ayres denied both charges at that
 stage and was sent to Norwich Crown Court for a trial preparation hearing. [@3]
