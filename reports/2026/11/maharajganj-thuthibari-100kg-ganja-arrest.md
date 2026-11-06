@@ -20,6 +20,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/05/51643dff-dac5-40f2-bd84-51cb64fd88b8_1793845237275.jpg
     publisher: Dainik Bhaskar
     caption: Photograph carried with the report on the Thuthibari ganja seizure, filed under the story's image gallery.
+  - kind: photo
+    url: https://bhaskardigital.com/maharajganj-cannabis-smuggling-racket-busted-on-indcluding-a-woman/
+    media_url: https://bhaskardigital.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-4.54.59-PM.webp
+    publisher: Bhaskar Digital (Dainik Bhaskar)
+    caption: Photograph carried at the top of the report on the Thuthibari ganja seizure; the page gives no caption or credit naming what it shows.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e9c5b1df647e33838d7e3ac3d87d4a6
@@ -89,6 +94,11 @@ sources:
     publisher: India TV Hindi
     date: 2026-11-05
     language: hi
+  - title: 'Maharajganj : भारत-नेपाल सीमा पर गांजा तस्करी का भंडाफोड़, महिला समेत दो गिरफ्तार'
+    url: https://bhaskardigital.com/maharajganj-cannabis-smuggling-racket-busted-on-indcluding-a-woman/
+    publisher: Bhaskar Digital (Dainik Bhaskar)
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -119,11 +129,15 @@ open_questions:
   - 'Left out, as its quotation was not found in Prabhasakshi: One woman smuggler was reported arrested at the scene.'
   - The Prabhasakshi account is published from the PTI-language feed, and the India TV text repeats the same police statement, so these are not independent reporting.
   - Neither page gives a calendar date for the interception beyond the police statement being made on a Thursday, so 5 November 2026 remains the publication date used as the incident date.
+  - The page gives the crime number as 150/2026 at Thuthibari police station, a file reference not published in the earlier accounts.
+  - The page names the stop location as near Nautanwari, alongside Lohrauli, Naubari and Nauwabari in other reports, so the precise spot remains unresolved.
+  - The page puts the international value of the ganja at about Rs 70 lakh, against about Rs 60 lakh in other accounts of the same seizure, so the claimed value remains disputed.
+  - The page states only that legal proceedings were under way against the accused and gives no court outcome.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
 Indo-Nepal border, stopped a Scorpio near Lohrauli village and arrested a
-smuggler at the scene. [@1,2,4] Officers found about one quintal, or 100 kg, of
+smuggler at the scene. [@1,2,4,14] Officers found about one quintal, or 100 kg, of
 ganja — cannabis in dried form — inside the vehicle during the search. [@1,2]
 
 One woman smuggler was reported arrested at the scene. [@2,5,6,7] Three people were reported to have been in the vehicle allegedly used for the smuggling. [@2,4] There was still no official confirmation about the roles of the other two people or whether they were arrested. [@2,4] Police were investigating the source of the seized ganja and the full smuggling network, including where it was brought from and where it was to be supplied. [@2,4,6,8]
@@ -132,6 +146,8 @@ Amar Ujala reported that a police team acting on a tip-off from an informer thre
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
 
-Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13,14] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11,14] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11,14] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8]
 
 A case was registered against both accused at Thuthibari police station under the NDPS Act, and both were being produced in court. [@10,12] The vehicle stopped near the village was reported as a car, not a Scorpio. [@12]
+
+The case was filed at Thuthibari police station as crime number 150/2026, a file reference the earlier reports did not give. [@14] Police said the operation was led by Circle Officer Nichlaul Ravindra Kumar Singh and overseen by Additional Superintendent of Police Siddharth, with Thuthibari police and ATS teams from Siddharthnagar and Gorakhpur. [@14] The report places the interception on the eve of Diwali, which fell on 8 November 2026. [@14]
