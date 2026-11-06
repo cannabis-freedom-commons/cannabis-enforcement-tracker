@@ -105,6 +105,10 @@ sources:
     publisher: V6 Velugu
     date: 2026-11-06
     language: te
+  - title: 'Security guard to ₹1.8 Cr drug lord: How Bhaskar Hazarika built ganja empire in Hyderabad'
+    url: https://newsmeter.in/hyderabad/security-guard-to-18-cr-drug-lord-how-bhaskar-hazarika-built-ganja-empire-in-hyderabad-778821
+    publisher: NewsMeter
+    date: 2026-11-06
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -152,14 +156,20 @@ open_questions:
   - V6 Velugu says after a jail term Hazarika returned to his home village, without saying when that term ended or where it was served; the existing report only records 2024 cases and release on bail.
   - V6 Velugu's only picture is captioned with the headline plus the sub-heading about the 60-day hunt and cannot be confirmed to show this seizure, so no media entry is added.
   - The article gives no separate arrest date; 5 November 2026, when the EAGLE director announced the case, is the incident date and 6 November is its publication date.
+  - NewsMeter dates the three 2024 NDPS cases to January and March and gives their seizures as 1.96 kg, 1.3 kg and 700 grams, which the report's earlier accounts did not state.
+  - NewsMeter spells two police stations Madhapur and Gachibowli for the 2024 cases, while the report's earlier sources give Madapoor and Gachibowli.
+  - The article gives no separate date for the five arrests; 6 November 2026 is its publication date and the dateline is Hyderabad.
+  - NewsMeter names the Odisha supplier only Ashish Kumar and quotes purchase prices of ₹12,000 to ₹15,000 per kg and sales at around ₹50,000 per kg, without distinguishing the several Odisha suppliers named in other accounts.
+  - NewsMeter says Hazarika's latest five-man arrest came after investigators tracked two couriers visiting his residence, while The Times of India account already cited describes a night raid on a house at Prem Nagar; the two descriptions of the arrest location are not reconciled.
+  - The page carries three WhatsApp-sourced images captioned only with the headline or not at all, which cannot be confirmed to show this seizure, so no media entry is added.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10,12,13] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10,12,13,14] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
-five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9] Hazarika, 31,
+five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9,14] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
 distributors moving marijuana from Odisha to Hyderabad. [@1] Police said the
 investigation began on 27 August when EAGLE Force and Choutuppal Police
@@ -170,11 +180,11 @@ sold for ₹300 each. [@1,2,3,4,10,13] Police said Hazarika reportedly sold 40 t
 monthly over ten months to around 100 regular customers in Cyberabad. [@1,13]
 
 Bank transaction analysis showed Hazarika bought marijuana worth ₹48 lakh from
-Ashish Kumar in 88 transactions between 2 February and 29 October 2026. [@1,13] The
+Ashish Kumar in 88 transactions between 2 February and 29 October 2026. [@1,13,14] The
 reported purchase price was ₹12,000 to ₹15,000 per kilogram, while the gang sold
 the drug for around ₹50,000 per kilogram. [@1,3,4,6,12] Investigators estimated about 400
 kg moved through the supply chain, generating sales of nearly ₹1.8 crore in ten
-months. [@1,3,8,12,13] Police said Hazarika had other sources of supply. [@1]
+months. [@1,3,8,12,13,14] Police said Hazarika had other sources of supply. [@1]
 
 Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4,8]
 
@@ -186,7 +196,7 @@ Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested
 
 Hazarika had previously been caught in three ganja cases and was released on bail in each, but continued the trade. [@7] Two couriers first held by Choutuppal police, when questioned, led special teams to the gang's Hyderabad operation. [@7]
 
-At Prem Nagar in New Hafeezpet, Hazarika ran a small roadside hotel. [@9]
+At Prem Nagar in New Hafeezpet, Hazarika ran a small roadside hotel. [@9,14]
 
 Bhaskar Hazarika, 31, is a native of Lakhimpur in Assam. [@10]
 
@@ -195,3 +205,5 @@ BigTV Telugu reported that two people were caught at Choutuppal on 27 August wit
 EAGLE formed a Special Task Force to search for Hazarika after arresting Vikas Barik. [@12] Hazarika first bought ganja from Odisha-based Pitaranjan Nayak to sell in Hyderabad. [@12]
 
 V6 Velugu reported that Hazarika had earlier worked in Hyderabad as a security guard and a delivery boy. [@13] V6 Velugu reported that after a jail term Hazarika returned to his home village and expanded his network. [@13]
+
+NewsMeter reported that Hazarika was arrested in three separate NDPS cases registered at Madhapur and Gachibowli police stations in January and March 2024, involving seizures of 1.96 kg, 1.3 kg and 700 grams of ganja. [@14]
