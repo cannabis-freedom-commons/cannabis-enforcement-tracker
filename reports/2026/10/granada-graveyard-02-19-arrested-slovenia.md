@@ -91,6 +91,11 @@ sources:
     publisher: El Confidencial Digital
     date: 2026-11-06
     language: es
+  - title: Detenidas 19 personas de una organización criminal que enviaba droga a Eslovenia
+    url: https://www.elconfidencial.com/espana/2026-11-06/guardia-civil-desarticula-organizacion-marihuana-granada-1tna-1tps_4460157/
+    publisher: El Confidencial
+    date: 2026-11-06
+    language: es
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -102,17 +107,17 @@ open_questions:
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
-people in operation Graveyard 02. [@2] Three of the 19 detainees are of
-Slovenian origin. [@1] The searches took place on 23 and 24 October 2026 at 12
-properties in Granada city, Almuñécar and Peligros. [@2] Investigators believe
+people in operation Graveyard 02. [@2,4] Three of the 19 detainees are of
+Slovenian origin. [@1,4] The searches took place on 23 and 24 October 2026 at 12
+properties in Granada city, Almuñécar and Peligros. [@2,4] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
 international links with other countries. [@2]
 
 Agents found marijuana plantations indoors, in rooms fitted out for cultivation
-and, in one case, in a pit dug underground, a zulo. [@2] The properties had
+and, in one case, in a pit dug underground, a zulo. [@2,4] The properties had
 illegal connections to the electricity grid to feed the plantations. [@1] The
 searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams
-of hashish. [@1] Officers also seized almost 35,000 euros in cash, gold pieces
+of hashish. [@1,4] Officers also seized almost 35,000 euros in cash, gold pieces
 valued at about 40,000 euros, six high-end vehicles, motorcycles and accounting
 records. [@2]
 
@@ -122,9 +127,8 @@ Guardia Civil treats as a weapon of war. [@2] The detainees were accused of drug
 trafficking, belonging to a criminal organisation, illegal possession of
 firearms, illegal possession of weapons of war and money laundering. [@2] After
 appearing before the duty investigating court of the Granada court, four of them
-were remanded in custody. [@2] The investigation was run by the Guardia Civil's
+were remanded in custody. [@2,4] The investigation was run by the Guardia Civil's
 Organised Crime Judicial Police Unit in Granada, supported by the USECIC
 riot-control unit and units from other Andalusian commands. [@2] El Confidencial
 Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
 Graveyard 02 and the remand in custody of four detainees. [@3]
-
