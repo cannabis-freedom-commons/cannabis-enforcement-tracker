@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: investigation
+  date_precision: exact
   setting: [prison]
 data_sources:
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: bangladesh-first-digital-drug-case-2026

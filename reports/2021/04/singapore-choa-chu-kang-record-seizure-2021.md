@@ -23,11 +23,13 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   activity: [trafficking]
+  date_precision: exact
   products: [{product: flower, kg: 23.687}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

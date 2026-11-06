@@ -20,6 +20,7 @@ figures:
 details:
   agencies: ['French national police, Gard territorial crime division drug squad']
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower, kg: 7}
   activity: [trafficking]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [2]
   details.period: [1]
   details.products: [1]

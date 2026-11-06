@@ -18,12 +18,14 @@ figures:
 details:
   agency_types: [customs, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [port, vehicle]
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1]

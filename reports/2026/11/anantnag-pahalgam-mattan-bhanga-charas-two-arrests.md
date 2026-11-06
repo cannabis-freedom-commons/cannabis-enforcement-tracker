@@ -16,11 +16,13 @@ figures:
   kg_seized: 3.0196
 details:
   agency_types: [anti-narcotics, police]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [street]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

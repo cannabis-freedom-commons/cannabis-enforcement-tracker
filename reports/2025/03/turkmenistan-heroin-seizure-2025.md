@@ -15,10 +15,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling]
+  date_precision: exact
   products: [{product: flower}]
   setting: [border]
 data_sources:
   details.activity: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
 

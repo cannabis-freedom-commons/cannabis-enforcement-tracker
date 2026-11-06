@@ -22,11 +22,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
+  date_precision: exact
   products: [{product: flower, kg: 2.1123}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

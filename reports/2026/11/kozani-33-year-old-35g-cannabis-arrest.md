@@ -19,11 +19,13 @@ details:
   activity: [possession]
   agency_types: [prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 0.0353}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 2, 4]
+  details.date_precision: [1, 3, 4]
   details.products: [1, 3, 4, 2]
   figures.arrested: [1, 3, 4, 2]
 status: reported

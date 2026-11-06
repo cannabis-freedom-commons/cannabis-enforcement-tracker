@@ -16,11 +16,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower, kg: 500}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 4, 2]
   details.agency_types: [3, 1, 2, 4]
+  details.date_precision: [3, 1, 2]
   details.products: [3, 1, 2, 4]
   details.setting: [3, 1, 2, 4]
   figures.kg_seized: [2, 1, 4]

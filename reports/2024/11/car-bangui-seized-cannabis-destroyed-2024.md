@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 cfi_id: car-bangui-seized-cannabis-destroyed-2024

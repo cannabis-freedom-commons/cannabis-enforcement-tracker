@@ -17,11 +17,13 @@ figures:
   kg_seized: 0.15
 details:
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 4, 5, 2, 3]
+  details.date_precision: [1, 4, 5, 2]
   details.products: [1, 2, 4, 5]
   details.setting: [2, 3]
   figures.arrested: [1, 4, 5, 2]

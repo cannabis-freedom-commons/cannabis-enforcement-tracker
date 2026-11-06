@@ -13,8 +13,10 @@ summary: >-
   postal imports rather than one large shipment; no sender or recipient was named.
 created_by_model: unknown
 details:
+  date_precision: exact
   setting: [mail]
 data_sources:
+  details.date_precision: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: oman-postal-cannabis-2026

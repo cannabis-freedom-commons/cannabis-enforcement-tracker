@@ -25,6 +25,7 @@ details:
   agency_types: [police]
   activity: [sale]
   case_stage: executed
+  date_precision: exact
   products: [{product: flower}]
   setting: [shop]
 data_sources:
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
   details.case_stage: [2, 3, 4, 5, 1]
+  details.date_precision: [1, 4, 2, 3, 5]
   details.products: [1, 4, 2, 3, 5]
   details.setting: [3]
   figures.charged: [1, 4, 2, 5]

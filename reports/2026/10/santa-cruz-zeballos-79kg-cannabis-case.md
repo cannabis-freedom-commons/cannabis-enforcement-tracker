@@ -20,6 +20,7 @@ details:
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 79}]
   setting: [airport, home, building]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [6]
+  details.date_precision: [6]
   details.products: [5, 3, 2, 1]
   details.setting: [2, 1, 3, 6, 4, 5]
   figures.arrested: [6]

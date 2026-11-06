@@ -19,11 +19,13 @@ figures:
 details:
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 65}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [3, 4, 1]
   details.case_stage: [3, 4]
+  details.date_precision: [2, 1]
   details.products: [1, 3, 4]
   details.setting: [1, 3, 4]
   figures.kg_seized: [1, 3, 4]

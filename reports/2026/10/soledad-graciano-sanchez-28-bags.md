@@ -13,10 +13,12 @@ summary: >-
   The Guardia Civil Municipal of Soledad de Graciano Sánchez, San Luis Potosí, reported seizing 28 bags of marijuana in its results for 26 to 29 October 2026, presented at the state security coordination meeting. The same tally listed 13 doses of methamphetamine, two replica firearms, three prohibited weapons and four vehicles with theft reports.
 details:
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

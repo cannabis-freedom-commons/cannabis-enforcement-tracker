@@ -21,6 +21,7 @@ details:
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [border]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 2, 3, 4, 5]
+  details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [2, 3, 5]
   figures.arrested: [1, 2, 3, 4, 5]

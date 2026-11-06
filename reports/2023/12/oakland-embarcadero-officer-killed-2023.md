@@ -19,11 +19,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police, prosecutor]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}, {product: plants}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 3]
   details.setting: [3]
   figures.deaths: [1, 2]

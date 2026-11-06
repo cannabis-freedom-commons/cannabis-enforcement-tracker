@@ -22,6 +22,7 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [street]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 3, 4, 5]
+  details.date_precision: [2, 5, 1, 4]
   details.products: [1, 3, 4, 5, 2]
   details.setting: [1, 3, 4, 5, 2]
   figures.arrested: [1, 3, 4, 5]

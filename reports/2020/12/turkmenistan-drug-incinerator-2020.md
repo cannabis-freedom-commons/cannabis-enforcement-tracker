@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
 status: verified
 cfi_id: turkmenistan-drug-incinerator-2020
 sources:

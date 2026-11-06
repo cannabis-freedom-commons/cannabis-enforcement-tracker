@@ -18,12 +18,14 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, court]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [1, 3]
+  details.date_precision: [1, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 3, 2]
   figures.arrested: [2, 1, 3]

@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 cfi_id: chad-police-burn-2025

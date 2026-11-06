@@ -19,12 +19,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

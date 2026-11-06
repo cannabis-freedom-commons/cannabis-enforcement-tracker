@@ -15,12 +15,14 @@ figures:
   arrested: 4
 details:
   case_stage: investigation
+  date_precision: exact
   sentence_types: [fine, deportation]
   setting: [school]
   products:
     - {product: flower}
 data_sources:
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]

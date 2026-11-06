@@ -22,11 +22,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [border-guard, anti-narcotics, police]
+  date_precision: exact
   products: [{product: flower, kg: 31751}]
   setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

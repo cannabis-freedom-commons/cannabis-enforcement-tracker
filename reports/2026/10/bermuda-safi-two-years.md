@@ -24,12 +24,14 @@ details:
   activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 1.336}]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

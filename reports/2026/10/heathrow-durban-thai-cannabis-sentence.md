@@ -30,6 +30,7 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 51.2}]
   sentence_types: [prison]
   setting: [airport, prison]
@@ -38,6 +39,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2]
   details.products: [1, 3, 2]
   details.sentence_types: [1, 3, 2]
   details.setting: [1, 3, 2]

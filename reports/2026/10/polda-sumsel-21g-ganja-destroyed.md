@@ -26,6 +26,7 @@ details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 4, 1, 5]
+  details.date_precision: [2, 4, 1]
   details.products: [1, 3]
   figures.arrested: [2, 4, 1, 5, 3]
 status: reported

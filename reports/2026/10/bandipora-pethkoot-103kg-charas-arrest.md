@@ -24,12 +24,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [border]
 data_sources:
   details.activity: [2, 1, 5, 6]
   details.agency_types: [1, 4, 6, 3, 7, 5]
+  details.date_precision: [1, 4, 6, 3, 7]
   details.products: [1, 2, 5, 6]
   details.setting: [1, 4, 6, 3, 7]
   figures.arrested: [1, 4, 6, 3, 7, 5]

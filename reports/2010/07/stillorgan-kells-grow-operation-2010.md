@@ -25,6 +25,7 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 8}, {product: plants, plants: 900}]
   setting: [home, building]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 3, 4, 2]
+  details.date_precision: [1, 3, 4, 2]
   details.environment: [2, 4, 1]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 3, 4, 2]

@@ -17,12 +17,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [gendarmerie, prosecutor]
+  date_precision: exact
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

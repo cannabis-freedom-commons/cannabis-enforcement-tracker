@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [Bulgaria's General Directorate for Combating Organised Crime (GDBOP)]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower, kg: 3}
   activity: [possession]
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

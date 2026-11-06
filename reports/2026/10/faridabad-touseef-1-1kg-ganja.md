@@ -24,11 +24,13 @@ media:
 details:
   activity: [smuggling]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   figures.arrested: [2, 1]
   figures.kg_seized: [2, 1]

@@ -54,6 +54,7 @@ details:
   activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: plants, plants: 25}]
   sentence_types: [prison]
   setting: [home]
@@ -61,6 +62,7 @@ data_sources:
   details.activity: [1, 4, 5, 6, 7, 8]
   details.agency_types: [2, 6, 7, 8, 9, 10]
   details.case_stage: [1, 4, 5, 7, 11, 18]
+  details.date_precision: [4, 19, 18, 28, 29, 34]
   details.products: [2, 6, 7, 8, 9, 10]
   details.sentence_types: [1, 4, 5, 7, 11, 18]
   details.setting: [1, 2, 4, 5]

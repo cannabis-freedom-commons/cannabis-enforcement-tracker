@@ -18,11 +18,13 @@ figures:
 details:
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   figures.deaths: [2]
   figures.kg_seized: [2, 1]

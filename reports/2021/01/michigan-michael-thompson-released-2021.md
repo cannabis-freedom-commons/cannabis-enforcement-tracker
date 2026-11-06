@@ -19,10 +19,12 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.case_stage: [2, 1, 3]
+  details.date_precision: [2, 1, 3]
   details.products: [2, 1, 3]
   details.setting: [2, 1, 3]
   figures.prison: [2, 1, 3]

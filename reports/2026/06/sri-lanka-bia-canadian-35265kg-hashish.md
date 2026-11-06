@@ -21,6 +21,7 @@ details:
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   setting: [airport]
   products:
     - {product: hashish}
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

@@ -23,6 +23,7 @@ details:
   activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home, building]
@@ -30,6 +31,7 @@ data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [2]

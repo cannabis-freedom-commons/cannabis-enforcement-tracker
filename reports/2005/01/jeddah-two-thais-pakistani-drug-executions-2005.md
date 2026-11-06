@@ -20,12 +20,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling, trafficking]
   case_stage: executed
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [2]
   figures.kg_seized: [1, 2]

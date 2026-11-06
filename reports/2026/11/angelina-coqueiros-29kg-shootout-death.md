@@ -34,6 +34,7 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   force: shots-fired
   products: [{product: flower, kg: 29}]
   setting: [vehicle, mail]
@@ -41,6 +42,7 @@ data_sources:
   details.activity: [1, 3, 4, 5, 2]
   details.agencies: [4, 5]
   details.agency_types: [4, 5]
+  details.date_precision: [2, 3, 5, 4]
   details.force: [2, 4, 5]
   details.products: [2, 3, 4, 5, 1]
   details.setting: [2, 4, 3, 5, 1]

@@ -19,12 +19,14 @@ figures:
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower}
   route: {from: [th], to: [ph]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   figures.kg_seized: [1, 2]

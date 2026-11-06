@@ -32,12 +32,14 @@ media:
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  date_precision: exact
   setting: [airport, mail]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.date_precision: [2, 1]
   details.products: [1]
   details.setting: [2]
   figures.kg_seized: [2, 1]

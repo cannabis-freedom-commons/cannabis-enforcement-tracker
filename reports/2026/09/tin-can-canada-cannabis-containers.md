@@ -25,12 +25,14 @@ details:
   activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products: [{product: flower, kg: 1201.83}]
   setting: [street]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1]

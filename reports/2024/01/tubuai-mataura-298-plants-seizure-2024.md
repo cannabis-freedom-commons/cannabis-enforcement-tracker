@@ -15,10 +15,12 @@ figures:
 details:
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants, plants: 298}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
 media:

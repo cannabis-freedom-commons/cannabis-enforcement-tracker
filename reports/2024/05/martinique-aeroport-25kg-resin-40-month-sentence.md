@@ -29,6 +29,7 @@ details:
   activity: [smuggling]
   agency_types: [customs, police, court]
   case_stage: executed
+  date_precision: exact
   setting: [airport]
   products:
     - {product: hashish}
@@ -36,6 +37,7 @@ data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1, 2]
+  details.date_precision: [1]
   details.products: [1, 2, 3]
   details.setting: [1]
   figures.arrested: [1, 2]

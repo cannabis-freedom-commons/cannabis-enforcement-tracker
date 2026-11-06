@@ -19,6 +19,7 @@ figures:
 details:
   agencies: [Ghana Navy, gh-nacoc]
   agency_types: [military, anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [smuggling]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
+  details.date_precision: [2, 3, 4, 6, 1]
   details.environment: [2]
   details.products: [2]
   details.setting: [2, 3, 4, 6, 1]

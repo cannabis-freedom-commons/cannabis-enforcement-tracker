@@ -12,10 +12,12 @@ summary: >-
   On 25 July 2025 Mali’s customs intelligence service intercepted two freight trucks from a neighbouring country and seized 104 balls of cannabis hidden in fitted compartments. No official weight was announced and no arrests were reported in the accounts.
 details:
   agency_types: [customs]
+  date_precision: exact
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 4]
+  details.date_precision: [1, 4]
   details.products: [1, 4, 2, 3]
   details.setting: [1, 4, 2, 3]
 media:

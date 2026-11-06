@@ -37,6 +37,7 @@ details:
   activity: [possession]
   agency_types: [coast-guard, police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 229.06}]
   sentence_types: [prison]
   setting: [port]
@@ -44,6 +45,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [3, 2, 1]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [2, 3, 1]
   details.products: [3, 2, 1]
   details.sentence_types: [1, 2, 3]
   details.setting: [3]

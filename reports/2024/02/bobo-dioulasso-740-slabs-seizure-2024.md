@@ -17,10 +17,12 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3, 1]
+  details.date_precision: [2]
   details.products: [2, 3, 1]
   figures.value: [2, 3, 1]
 status: verified

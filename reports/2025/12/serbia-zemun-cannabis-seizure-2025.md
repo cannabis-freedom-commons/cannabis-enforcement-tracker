@@ -13,10 +13,12 @@ created_by_model: unknown
 details:
   agency_types: [prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 2000}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: reported
 cfi_id: serbia-zemun-cannabis-seizure-2025

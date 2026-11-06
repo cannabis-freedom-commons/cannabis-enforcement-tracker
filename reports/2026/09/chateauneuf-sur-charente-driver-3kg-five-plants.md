@@ -27,6 +27,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: sentenced
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 3}]
   sentence_types: [prison]
@@ -35,6 +36,7 @@ data_sources:
   details.activity: [3, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [3, 2]
+  details.date_precision: [2, 1]
   details.environment: [1, 2]
   details.products: [2, 1, 3]
   details.sentence_types: [3, 2]

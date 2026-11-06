@@ -20,11 +20,13 @@ created_by_model: unknown
 details:
   activity: [cultivation, sale]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}]
   setting: [vehicle, field]
 data_sources:
   details.activity: [1, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]

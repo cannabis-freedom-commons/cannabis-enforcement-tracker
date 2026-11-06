@@ -14,6 +14,7 @@ details:
   activity: [trafficking]
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   force: physical
   products: [{product: flower}]
   setting: [home]
@@ -21,6 +22,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2]
   details.force: [3, 1]
   details.products: [3, 2, 1]
   details.setting: [3, 1]

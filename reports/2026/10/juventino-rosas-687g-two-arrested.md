@@ -29,11 +29,13 @@ media:
 details:
   agency_types: [prosecutor]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1, 3]
   details.products: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [3, 1, 2]

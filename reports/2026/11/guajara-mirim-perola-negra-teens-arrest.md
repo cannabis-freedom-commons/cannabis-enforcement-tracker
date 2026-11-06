@@ -16,11 +16,13 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.date_precision: [1, 3, 2]
   details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

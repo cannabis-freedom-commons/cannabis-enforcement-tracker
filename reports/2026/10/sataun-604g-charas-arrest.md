@@ -23,11 +23,13 @@ media:
     caption: 'The accused with the police team after his arrest at Sataun bus stand. Photo: MBM News Network'
 details:
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 3, 4, 2]
+  details.date_precision: [1, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 3, 4]
   figures.arrested: [1, 3, 4]

@@ -20,12 +20,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 270}]
   setting: [vehicle]
   route: {from: [np], to: [in]}
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

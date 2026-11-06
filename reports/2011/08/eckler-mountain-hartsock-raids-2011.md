@@ -24,12 +24,14 @@ details:
   agency_types: [prosecutor]
   case_stage: appeal
   products: [{product: flower}, {product: plants, plants: 28065}]
+  sentence_types: [deportation]
   setting: [forest, prison]
 data_sources:
   details.activity: [2, 5, 1, 3]
   details.agency_types: [2, 5, 1, 3, 4]
   details.case_stage: [1, 2, 5]
   details.products: [1, 2, 5]
+  details.sentence_types: [4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [2, 5, 1, 3]
   figures.value: [1, 2]

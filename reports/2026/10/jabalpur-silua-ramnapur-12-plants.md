@@ -23,11 +23,13 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants, plants: 12}]
 data_sources:
   details.activity: [2]
   details.agency_types: [3, 2, 1, 4]
   details.case_stage: [1, 2, 4, 3]
+  details.date_precision: [3, 2]
   details.products: [3, 2, 1, 4]
   figures.arrested: [3, 2]
   figures.value: [1, 2, 4, 3]

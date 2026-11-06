@@ -16,11 +16,13 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 86}]
   setting: [airport, vehicle]
 data_sources:
   details.agency_types: [4, 5, 8]
   details.case_stage: [1, 2, 7, 3, 5, 6]
+  details.date_precision: [1, 2, 6, 7, 3, 4]
   details.products: [1, 2, 6, 7, 5, 4]
   details.setting: [2, 3, 5, 6, 8, 4]
   figures.kg_seized: [1, 2, 6, 7]

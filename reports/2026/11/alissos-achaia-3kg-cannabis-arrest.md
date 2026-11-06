@@ -18,12 +18,14 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1, 10, 4, 5, 6, 7]
   details.agency_types: [1, 10, 4, 5, 6, 7]
   details.case_stage: [1, 10, 4, 5, 6, 7]
+  details.date_precision: [1, 10, 4, 5, 6, 7]
   details.products: [2, 3, 4, 5, 6, 7]
   details.setting: [1, 10, 4, 5, 6, 7]
   figures.arrested: [1, 10, 4, 5, 6, 7]

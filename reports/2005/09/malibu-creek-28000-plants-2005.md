@@ -18,9 +18,11 @@ figures:
   value: { amount: 30000000, currency: USD }
 details:
   agency_types: [anti-narcotics, police]
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1]
   details.products: [1]
   figures.plants_destroyed: [1, 2]
 status: verified

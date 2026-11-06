@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: hashish}
   activity: [sale, possession]
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2, 1]
   details.products: [2]
   details.setting: [1]
   figures.arrested: [2]

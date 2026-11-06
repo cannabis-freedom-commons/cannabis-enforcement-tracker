@@ -20,6 +20,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [street]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [2]
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.charged: [1, 2]

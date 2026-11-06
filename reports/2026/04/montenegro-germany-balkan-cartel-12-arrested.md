@@ -46,6 +46,7 @@ details:
   agencies: [int-europol]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 1500}]
   setting: [port]
 data_sources:
@@ -53,6 +54,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.date_precision: [1]
   details.products: [2, 1]
   details.setting: [1]
   figures.arrested: [1]

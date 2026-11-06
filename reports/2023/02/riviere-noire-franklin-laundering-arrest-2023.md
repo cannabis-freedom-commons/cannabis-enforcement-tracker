@@ -17,6 +17,7 @@ details:
   agencies: [Independent Commission Against Corruption (ICAC)]
   agency_types: [other]
   activity: [money]
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [home]
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

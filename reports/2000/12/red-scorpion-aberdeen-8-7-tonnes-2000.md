@@ -24,11 +24,13 @@ created_by_model: meta/muse-spark
 details:
   agency_types: [customs, police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish, kg: 8690.02}]
   setting: [port, vehicle]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

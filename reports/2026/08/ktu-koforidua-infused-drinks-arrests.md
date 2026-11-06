@@ -35,12 +35,14 @@ details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [1, 3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4, 1]
+  details.date_precision: [1, 3, 4]
   details.products: [1, 3, 4]
   figures.arrested: [1, 2, 3, 4]
 status: verified

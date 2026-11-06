@@ -19,12 +19,14 @@ figures:
 details:
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   force: lethal
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [3, 2, 4, 1]
   details.case_stage: [3, 2, 4]
+  details.date_precision: [3, 2]
   details.force: [3, 4, 1]
   details.products: [3, 4, 1]
   details.setting: [4]

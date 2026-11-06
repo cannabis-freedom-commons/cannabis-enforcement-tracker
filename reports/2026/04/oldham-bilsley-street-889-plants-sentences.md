@@ -26,12 +26,14 @@ created_by_model: cursor/composer-2.5
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: plants, plants: 889}]
   sentence_types: [prison]
   setting: [building, prison]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]

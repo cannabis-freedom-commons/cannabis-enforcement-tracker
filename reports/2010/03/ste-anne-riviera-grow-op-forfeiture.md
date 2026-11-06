@@ -23,6 +23,7 @@ details:
   agencies: [ca-rcmp]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 600}]
   setting: [home]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.plants_destroyed: [1]

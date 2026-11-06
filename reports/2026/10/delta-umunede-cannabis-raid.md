@@ -17,10 +17,12 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [home]
 data_sources:
   details.agency_types: [3, 4, 5, 2, 1]
   details.case_stage: [3, 4, 5, 2, 1]
+  details.date_precision: [3, 4, 5, 2, 1]
   details.setting: [2, 1, 3]
   figures.arrested: [3, 4, 5, 2, 1]
 media:

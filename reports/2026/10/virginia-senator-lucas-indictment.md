@@ -21,12 +21,14 @@ details:
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.agencies: [1, 2, 3, 5, 6]
   details.agency_types: [1, 2, 3, 5, 6]
   details.case_stage: [1, 2, 4, 5, 6, 3]
+  details.date_precision: [1, 2, 3, 4, 6]
   details.products: [1, 2, 3, 4, 6, 5]
   details.setting: [2, 3, 6, 5]
 status: verified

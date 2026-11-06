@@ -21,6 +21,7 @@ details:
   activity: [possession]
   agency_types: [customs, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 0.00216}]
   sentence_types: [deportation]
   setting: [airport, prison]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1, 3, 4, 2]
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 4]
+  details.date_precision: [2, 1, 3]
   details.products: [1, 3, 4, 2]
   details.sentence_types: [1, 3, 4]
   details.setting: [1, 3, 4, 2]

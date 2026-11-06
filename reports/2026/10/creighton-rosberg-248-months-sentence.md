@@ -18,6 +18,7 @@ details:
   agencies: [us-hsi, us-fbi]
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: flower}
   sentence_types: [prison]
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [1]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]

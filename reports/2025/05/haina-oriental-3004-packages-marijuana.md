@@ -39,12 +39,14 @@ details:
   activity: [trafficking]
   agency_types: [customs, anti-narcotics, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 3057.21}]
   setting: [port]
 data_sources:
   details.activity: [3, 4, 2, 1]
   details.agency_types: [4, 2, 1]
   details.case_stage: [2, 3]
+  details.date_precision: [2]
   details.products: [2, 3, 4]
   details.setting: [1, 2, 4]
   figures.kg_seized: [2, 3]

@@ -21,6 +21,7 @@ figures:
 details:
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   environment: [greenhouse]
   products: [{product: flower, kg: 22}, {product: plants, plants: 787}]
   sentence_types: [deportation]
@@ -28,6 +29,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.environment: [1, 2, 3]
   details.products: [1, 3, 2]
   details.sentence_types: [1, 2, 3]

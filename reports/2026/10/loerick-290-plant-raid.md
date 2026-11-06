@@ -23,11 +23,13 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.plants_destroyed: [1, 2]

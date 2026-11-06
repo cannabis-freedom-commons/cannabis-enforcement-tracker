@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [National Anti-Narcotics Agency, Ras Al Khaimah Police, Iraq's General Directorate for Narcotics and Psychotropic Substances, Federal Public Prosecution]
   agency_types: [anti-narcotics, police, prosecutor]
+  date_precision: exact
   products:
     - {product: flower}
     - {product: hashish}
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.date_precision: [1, 6, 7, 8, 9, 10]
   details.products: [2]
   details.setting: [2]
   figures.arrested: [1]

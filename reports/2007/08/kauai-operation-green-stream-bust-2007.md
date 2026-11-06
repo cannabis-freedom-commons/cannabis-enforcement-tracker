@@ -22,6 +22,7 @@ details:
   activity: [cultivation, sale]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   environment: [outdoor]
   products: [{product: flower}, {product: plants, plants: 5922}]
   setting: [vehicle, forest, prison]
@@ -29,6 +30,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

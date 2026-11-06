@@ -22,6 +22,7 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 4.5}]
   sentence_types: [life]
   setting: [prison]
@@ -29,6 +30,7 @@ data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 7, 8]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.date_precision: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 4, 5, 6, 7]
   details.sentence_types: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]

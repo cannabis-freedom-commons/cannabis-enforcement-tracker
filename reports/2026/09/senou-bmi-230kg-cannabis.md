@@ -18,10 +18,12 @@ figures:
   value: { amount: 312000000, currency: XOF }
 details:
   agency_types: [customs]
+  date_precision: exact
   products: [{product: hashish, kg: 230}, {product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

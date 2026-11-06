@@ -21,12 +21,14 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
   agency_types: [police]
+  date_precision: exact
   environment: [greenhouse]
   products: [{product: flower, kg: 0.04}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1, 2]

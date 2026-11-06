@@ -21,11 +21,13 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 400}]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2]
   details.products: [2]
   figures.arrested: [2]
   figures.kg_seized: [2]

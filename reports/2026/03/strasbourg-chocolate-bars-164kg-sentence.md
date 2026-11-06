@@ -23,6 +23,7 @@ figures:
 details:
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr]}
@@ -31,6 +32,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1]
   details.sentence_types: [1, 2]

@@ -21,6 +21,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower}]
   sentence_types: [prison]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.environment: [2, 1]
   details.products: [1, 2]
   details.sentence_types: [1]

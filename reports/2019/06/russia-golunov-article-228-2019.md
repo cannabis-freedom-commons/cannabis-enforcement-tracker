@@ -20,12 +20,14 @@ details:
   activity: [processing]
   agency_types: [police]
   case_stage: appeal
+  date_precision: exact
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
   details.activity: [3, 1, 4]
   details.agency_types: [3, 1]
   details.case_stage: [1, 4, 2]
+  details.date_precision: [3]
   details.sentence_types: [3, 1, 4]
   details.setting: [3, 1, 4]
 status: verified

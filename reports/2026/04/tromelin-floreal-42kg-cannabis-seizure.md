@@ -20,12 +20,14 @@ figures:
 details:
   agency_types: [gendarmerie, military, court]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 42}]
   route: {from: [af], to: [mu]}
   setting: [vehicle]
 data_sources:
   details.agency_types: [2]
   details.case_stage: [2, 1]
+  details.date_precision: [2]
   details.products: [2, 1, 3]
   details.route: [2, 1, 3]
   details.setting: [1, 2]

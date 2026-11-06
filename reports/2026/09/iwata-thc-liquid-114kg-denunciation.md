@@ -24,12 +24,14 @@ details:
   activity: [smuggling]
   agency_types: [customs, police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 20}]
   route: {from: [vn], to: [jp]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
+  details.date_precision: [2]
   details.products: [1, 2]
   details.route: [2]
   figures.kg_seized: [1, 2]

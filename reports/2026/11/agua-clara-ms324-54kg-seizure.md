@@ -18,12 +18,14 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: flower, kg: 54}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

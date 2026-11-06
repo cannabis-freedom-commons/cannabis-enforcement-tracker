@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [court]
+  date_precision: exact
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
 
 status: verified
 cfi_id: northern-cyprus-nicosia-treatment-figures-2025

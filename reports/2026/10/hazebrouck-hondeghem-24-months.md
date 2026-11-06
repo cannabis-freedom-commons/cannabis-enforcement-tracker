@@ -29,6 +29,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish, kg: 0.44}, {product: flower}]
   sentence_types: [prison, probation]
   setting: [home, prison]
@@ -36,6 +37,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [3, 1, 4, 2]
   details.case_stage: [3, 1, 4]
+  details.date_precision: [3, 1, 4]
   details.products: [1, 4, 3, 2]
   details.sentence_types: [3, 1, 4]
   details.setting: [3, 1, 2, 4]

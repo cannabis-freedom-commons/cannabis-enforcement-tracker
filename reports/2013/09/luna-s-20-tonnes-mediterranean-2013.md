@@ -24,6 +24,7 @@ details:
   agencies: [fr-douane]
   agency_types: [customs]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 10000}]
   sentence_types: [prison]
   setting: [prison]
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [3, 1, 2]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [3, 1, 2]
   details.setting: [3, 1, 2]

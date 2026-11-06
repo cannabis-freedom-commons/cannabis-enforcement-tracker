@@ -20,6 +20,7 @@ details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics, police, prosecutor]
   case_stage: trial
+  date_precision: exact
   products: [{product: flower, kg: 435}]
   setting: [prison]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1]
   details.setting: [1, 2]
   figures.arrested: [1]

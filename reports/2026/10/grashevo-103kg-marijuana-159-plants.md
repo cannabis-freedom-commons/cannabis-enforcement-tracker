@@ -16,10 +16,12 @@ figures:
   kg_seized: 103
 details:
   agency_types: [gendarmerie, police]
+  date_precision: exact
   products: [{product: flower, kg: 103}, {product: plants, plants: 159}]
   setting: [shop]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 3, 2]
   figures.kg_seized: [1, 2, 3]

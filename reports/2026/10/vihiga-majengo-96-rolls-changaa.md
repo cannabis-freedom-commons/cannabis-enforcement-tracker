@@ -17,10 +17,12 @@ summary: >-
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [home]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

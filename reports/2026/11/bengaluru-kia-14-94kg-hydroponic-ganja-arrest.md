@@ -21,6 +21,7 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   environment: [indoor]
   products:
     - {product: flower}
@@ -29,6 +30,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2]
   details.environment: [1, 3, 2]
   details.products: [1, 2, 3]
   details.route: [1, 3]

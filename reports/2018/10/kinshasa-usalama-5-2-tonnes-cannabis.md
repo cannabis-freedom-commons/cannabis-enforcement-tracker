@@ -15,10 +15,12 @@ figures:
   kg_seized: 2000
 details:
   agency_types: [police, prosecutor]
+  date_precision: exact
   products: [{product: flower, kg: 2000}]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

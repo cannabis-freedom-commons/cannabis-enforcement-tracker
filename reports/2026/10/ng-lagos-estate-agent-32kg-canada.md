@@ -24,6 +24,7 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison, fine, community-service]
   setting: [airport]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]

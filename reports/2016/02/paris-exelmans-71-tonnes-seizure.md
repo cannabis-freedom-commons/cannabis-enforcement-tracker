@@ -22,6 +22,7 @@ details:
   agencies: [fr-douane]
   agency_types: [customs]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish, kg: 7100}]
   sentence_types: [prison]
   setting: [airport, vehicle, home]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [3]
+  details.date_precision: [2, 3]
   details.products: [3, 1, 2]
   details.sentence_types: [3]
   details.setting: [3, 1, 2]

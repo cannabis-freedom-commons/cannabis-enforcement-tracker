@@ -21,6 +21,7 @@ details:
   agencies: [us-camp]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   force: lethal
   products: [{product: flower}, {product: plants, plants: 27262}]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.date_precision: [1, 3]
   details.force: [1, 3]
   details.products: [1, 3, 2]
   figures.deaths: [1, 3]

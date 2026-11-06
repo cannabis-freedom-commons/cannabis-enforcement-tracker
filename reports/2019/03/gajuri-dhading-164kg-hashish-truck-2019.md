@@ -20,6 +20,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
   route: {from: [np], to: [in]}
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

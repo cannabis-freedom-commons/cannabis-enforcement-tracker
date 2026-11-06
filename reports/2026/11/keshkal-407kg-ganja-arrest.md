@@ -32,12 +32,14 @@ details:
   activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.activity: [2, 5, 3, 4, 8]
   details.agency_types: [2, 3, 1, 5, 7, 6]
   details.case_stage: [2, 4, 8, 3]
+  details.date_precision: [2, 3, 1, 5, 7]
   details.products: [1, 2, 3, 4, 5]
   figures.arrested: [2, 4, 8, 1, 5, 7]
 status: verified

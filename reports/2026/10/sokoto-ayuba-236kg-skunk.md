@@ -20,11 +20,13 @@ figures:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
   details.agency_types: [1, 2, 3, 4, 5, 7, 9, 11, 13, 15, 16, 17, 18, 19, 21]
+  details.date_precision: [1, 2, 3, 4, 5, 7]
   details.products: [1, 2, 4, 6, 7, 8, 10, 12, 14, 15, 16, 17, 18, 20, 21]
   figures.arrested: [1, 2, 3, 4, 5, 7]
   figures.kg_seized: [1, 2, 3, 4, 5, 7]

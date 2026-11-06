@@ -25,6 +25,7 @@ details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [port]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [2, 1, 3]
+  details.date_precision: [3, 4, 2]
   details.products: [2]
   details.setting: [2, 1, 4]
   figures.arrested: [2, 1]

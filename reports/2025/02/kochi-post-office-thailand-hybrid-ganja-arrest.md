@@ -20,6 +20,7 @@ figures:
 details:
   agencies: ['Customs (Preventive) Commissionerate, Kochi']
   agency_types: [customs]
+  date_precision: exact
   products:
     - {product: flower, kg: 1.04}
   activity: [smuggling, possession, sale]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.environment: [1]
   details.force: [1]
   details.products: [2]

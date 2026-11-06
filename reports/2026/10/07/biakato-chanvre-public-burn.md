@@ -16,9 +16,11 @@ summary: >-
   local stadium on 7 October 2026; no sellers were named or arrested in the reports.
 details:
   case_stage: investigation
+  date_precision: exact
   setting: [home]
 data_sources:
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

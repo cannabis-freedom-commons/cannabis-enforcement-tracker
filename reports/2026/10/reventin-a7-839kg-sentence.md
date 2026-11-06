@@ -23,6 +23,7 @@ details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [prison]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1, 3]
+  details.date_precision: [2, 1, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1, 3]

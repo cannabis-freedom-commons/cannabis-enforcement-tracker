@@ -25,6 +25,7 @@ details:
   agency_types: [police]
   activity: [smuggling]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 8000}]
   route: {from: [es], to: [gb]}
   setting: [vehicle]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [3, 1]
   details.products: [1, 2, 3]
   details.route: [1]
   details.setting: [1, 2, 3]

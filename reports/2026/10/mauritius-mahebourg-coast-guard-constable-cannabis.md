@@ -23,12 +23,14 @@ details:
   activity: [smuggling, trafficking, possession]
   agency_types: [coast-guard, police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 0.0021}]
   setting: [home]
 data_sources:
   details.activity: [2, 1, 3, 4, 5]
   details.agency_types: [2, 1, 4, 3, 5]
   details.case_stage: [1, 4, 2, 3, 5]
+  details.date_precision: [2, 1]
   details.products: [1, 4, 2, 3, 5]
   details.setting: [1, 4, 2, 5]
   figures.charged: [1, 4, 2, 3, 5]

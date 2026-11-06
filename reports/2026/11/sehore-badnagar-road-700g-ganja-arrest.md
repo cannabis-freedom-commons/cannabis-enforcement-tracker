@@ -29,6 +29,7 @@ details:
   agencies: [in-excise]
   agency_types: [regulator]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

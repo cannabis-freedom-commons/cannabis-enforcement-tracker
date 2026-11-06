@@ -23,11 +23,13 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: flower, kg: 521.6}]
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.date_precision: [1, 3]
   details.products: [1, 3, 2]
   figures.kg_seized: [2]
 status: reported

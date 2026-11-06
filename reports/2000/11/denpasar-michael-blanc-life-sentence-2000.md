@@ -20,6 +20,7 @@ details:
   activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [life, deportation]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]

@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [Anti Drug and Smuggling Unit]
   agency_types: [anti-narcotics, customs]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [trafficking]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

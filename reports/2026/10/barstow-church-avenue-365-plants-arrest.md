@@ -19,12 +19,14 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 365}]
   setting: [port, home, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [2, 1]
   figures.arrested: [1]

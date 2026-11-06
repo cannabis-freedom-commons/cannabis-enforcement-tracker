@@ -19,10 +19,12 @@ figures:
   kg_seized: 9.5
 details:
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

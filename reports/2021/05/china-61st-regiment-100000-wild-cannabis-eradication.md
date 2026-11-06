@@ -19,12 +19,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [border-guard, police]
+  date_precision: exact
   environment: [wild]
   products: [{product: plants, plants: 100000}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

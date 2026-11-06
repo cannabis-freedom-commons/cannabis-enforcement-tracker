@@ -24,6 +24,7 @@ details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: appeal
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [forest]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.date_precision: [2, 1]
   details.products: [1]
   details.setting: [2, 1]
   figures.hectares: [2, 1]

@@ -26,6 +26,7 @@ details:
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 534}]
   setting: [vehicle]
 data_sources:
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3, 4, 5, 2]
+  details.date_precision: [1, 3, 4, 5, 2]
   details.products: [1, 3, 4, 5, 2]
   details.setting: [1, 3, 4, 5]
   figures.kg_seized: [1, 3, 4, 5, 2]

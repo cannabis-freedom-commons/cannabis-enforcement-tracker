@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   activity: [cultivation]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}, {product: plants}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 cfi_id: solomon-islands-tetere-uproot-2026

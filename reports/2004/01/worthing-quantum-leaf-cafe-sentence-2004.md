@@ -23,6 +23,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison, suspended]
   setting: [prison]
@@ -30,6 +31,7 @@ data_sources:
   details.activity: [3, 2]
   details.agency_types: [3, 2, 1]
   details.case_stage: [3]
+  details.date_precision: [3]
   details.products: [3, 2, 1]
   details.sentence_types: [3]
   details.setting: [3]

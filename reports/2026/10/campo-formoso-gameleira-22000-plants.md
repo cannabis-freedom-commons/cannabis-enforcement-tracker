@@ -17,11 +17,13 @@ details:
   activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: plants, plants: 22000}]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1]
   details.products: [1]
   figures.plants_destroyed: [1, 2]
 status: verified

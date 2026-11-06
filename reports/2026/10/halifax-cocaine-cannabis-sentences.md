@@ -20,6 +20,7 @@ details:
   activity: [possession, trafficking]
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 20}]
   sentence_types: [prison, suspended]
   setting: [prison]
@@ -27,6 +28,7 @@ data_sources:
   details.activity: [1, 6, 2, 3, 5, 7]
   details.agency_types: [1, 5, 2, 4]
   details.case_stage: [1, 3, 5, 7, 8, 2]
+  details.date_precision: [1, 3, 5, 7, 8]
   details.products: [1, 5, 6, 7, 8, 3]
   details.sentence_types: [1, 3, 5, 7, 8, 6]
   details.setting: [1, 3, 5, 7, 8, 6]

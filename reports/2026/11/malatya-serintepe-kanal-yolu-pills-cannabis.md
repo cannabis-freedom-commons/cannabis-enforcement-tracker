@@ -24,6 +24,7 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [street]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [3, 4, 6, 5, 7]
   details.agency_types: [1, 4, 3, 5, 2, 6]
   details.case_stage: [2, 3, 4, 6, 5]
+  details.date_precision: [1, 4, 3, 5, 2]
   details.products: [1, 2, 3]
   details.setting: [3, 4, 6, 5, 7]
   figures.arrested: [1, 4, 3, 6, 5, 2]

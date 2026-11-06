@@ -18,6 +18,7 @@ details:
   agencies: [in-bsf]
   agency_types: [border-guard]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [border, home]
@@ -26,6 +27,7 @@ data_sources:
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
   details.case_stage: [2, 4, 5]
+  details.date_precision: [2, 4, 5]
   details.products: [1, 3, 4]
   details.setting: [5, 1, 3, 4, 2]
   figures.arrested: [1, 3, 4, 5, 2]

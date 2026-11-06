@@ -17,11 +17,13 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 1]
+  details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]

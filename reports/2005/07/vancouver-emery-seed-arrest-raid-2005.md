@@ -21,6 +21,7 @@ details:
   agencies: [ca-rcmp]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: seeds}
   setting: [vehicle]
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

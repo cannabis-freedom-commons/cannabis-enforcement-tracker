@@ -24,6 +24,7 @@ details:
   activity: [cultivation]
   agency_types: [anti-narcotics, court]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [prison, fine]
@@ -32,6 +33,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]

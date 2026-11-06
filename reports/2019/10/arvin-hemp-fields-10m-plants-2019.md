@@ -24,12 +24,14 @@ details:
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 10000000}]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.hectares: [1]
 status: disputed

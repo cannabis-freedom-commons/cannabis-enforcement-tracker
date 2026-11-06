@@ -20,10 +20,12 @@ figures:
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}]
   setting: [port, border]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

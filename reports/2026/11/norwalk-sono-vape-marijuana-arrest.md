@@ -19,12 +19,14 @@ details:
   activity: [possession, sale]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 0.5}]
   setting: [prison]
 data_sources:
   details.activity: [4, 1, 3, 2, 5]
   details.agency_types: [1, 2, 5, 3, 4]
   details.case_stage: [1, 2, 5, 4]
+  details.date_precision: [4]
   details.products: [2, 5, 1, 3, 4]
   details.setting: [1, 3, 4]
   figures.arrested: [1, 2, 5]

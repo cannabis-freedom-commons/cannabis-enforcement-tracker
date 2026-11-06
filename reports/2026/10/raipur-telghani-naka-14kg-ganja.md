@@ -28,6 +28,7 @@ details:
   agencies: [in-anf]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [prison]
@@ -35,6 +36,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 4, 1]
+  details.date_precision: [2, 4, 1]
   details.products: [4]
   details.setting: [1, 3, 2, 4]
   figures.arrested: [2, 4]

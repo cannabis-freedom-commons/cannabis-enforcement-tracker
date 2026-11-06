@@ -22,11 +22,13 @@ media:
 details:
   agencies: [br-prf]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower, kg: 1.5}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1]

@@ -15,11 +15,13 @@ figures:
   arrested: 2
 details:
   agency_types: [police]
+  date_precision: exact
   environment: [indoor]
   products: [{product: plants}]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1, 2]

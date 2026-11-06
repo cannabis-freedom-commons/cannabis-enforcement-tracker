@@ -22,11 +22,13 @@ created_by_model: unknown # This runtime did not disclose its exact model identi
 details:
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 27}]
   setting: [home, street]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]

@@ -20,12 +20,14 @@ details:
   activity: [smuggling, trafficking, cultivation]
   agency_types: [gendarmerie, police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants}]
   setting: [port, vehicle]
 data_sources:
   details.activity: [1, 4, 5, 6]
   details.agency_types: [1, 2, 7, 8, 3, 4]
   details.case_stage: [4, 6, 7, 8, 5, 9]
+  details.date_precision: [1, 2, 7, 8]
   details.products: [3, 4, 6, 7, 8, 5]
   details.setting: [9, 10, 11, 1, 2, 7]
   figures.kg_seized: [1, 2, 7, 8, 9, 10]

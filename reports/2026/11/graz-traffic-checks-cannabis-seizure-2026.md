@@ -13,10 +13,12 @@ summary: >-
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1, 3]
+  details.date_precision: [2]
   details.products: [2, 1, 3]
 media:
   - kind: photo

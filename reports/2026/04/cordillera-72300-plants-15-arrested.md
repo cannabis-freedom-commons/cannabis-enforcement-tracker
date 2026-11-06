@@ -27,6 +27,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [cultivation]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [field, home]
@@ -35,6 +36,7 @@ data_sources:
   details.agencies: [4]
   details.agency_types: [4]
   details.case_stage: [4, 2, 1]
+  details.date_precision: [2, 3, 4]
   details.products: [2, 3, 4]
   details.setting: [2, 3, 4, 1]
   figures.arrested: [1]

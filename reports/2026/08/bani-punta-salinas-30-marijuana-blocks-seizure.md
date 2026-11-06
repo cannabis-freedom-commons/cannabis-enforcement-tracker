@@ -16,11 +16,13 @@ figures:
 details:
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
 status: verified

@@ -17,12 +17,14 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 0.18}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [2, 1]
   figures.kg_seized: [2, 1]
 status: verified

@@ -21,11 +21,13 @@ details:
   activity: [trafficking]
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   force: lethal
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [1]
   figures.deaths: [1]
   figures.kg_seized: [1]

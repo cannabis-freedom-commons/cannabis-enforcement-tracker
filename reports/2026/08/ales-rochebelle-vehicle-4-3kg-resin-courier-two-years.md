@@ -19,6 +19,7 @@ figures:
 details:
   agencies: [Police nationale]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish, kg: 4.3}
   activity: [trafficking]
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2]
   details.products: [2]
   details.sentence_types: [2]
   details.setting: [2]

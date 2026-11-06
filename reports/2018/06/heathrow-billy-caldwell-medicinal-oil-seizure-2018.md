@@ -17,12 +17,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
   case_stage: convicted
+  date_precision: exact
   products: [{product: oil}]
   route: {from: [ca], to: [gb]}
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.route: [1]
   details.setting: [1, 2]

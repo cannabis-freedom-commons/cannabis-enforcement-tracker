@@ -20,6 +20,7 @@ created_by_model: unknown
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  date_precision: exact
   setting: [airport]
   products:
     - {product: flower}
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2, 3, 4, 5]
   details.products: [1, 2, 4, 5]
   details.route: [1, 2, 3]
   details.setting: [1, 2]

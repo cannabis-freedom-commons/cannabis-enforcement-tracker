@@ -24,12 +24,14 @@ details:
   activity: [smuggling]
   agency_types: [border-guard]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [2, 5, 3, 1]
   details.agency_types: [2, 5, 3, 1, 4]
   details.case_stage: [1]
+  details.date_precision: [2, 5, 3, 1, 4]
   details.products: [2]
   figures.kg_seized: [2, 5, 3, 1]
 status: verified

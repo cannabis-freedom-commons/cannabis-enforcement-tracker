@@ -19,10 +19,12 @@ details:
   activity: [trafficking, sale]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
+  details.date_precision: [1, 3, 2]
   figures.arrested: [1, 3]
   figures.kg_seized: [2, 3, 1]
 media:

@@ -26,6 +26,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [home]
@@ -33,6 +34,7 @@ data_sources:
   details.activity: [3, 2]
   details.agency_types: [3, 2, 1, 5, 4]
   details.case_stage: [3, 2, 1, 5]
+  details.date_precision: [3, 2, 1, 5]
   details.products: [1, 2, 3, 5]
   details.setting: [3, 2, 1, 5]
   figures.arrested: [3, 2, 4]

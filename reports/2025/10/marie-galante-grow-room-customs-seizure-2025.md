@@ -33,12 +33,14 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs, gendarmerie]
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 0.303}, {product: plants, plants: 13}]
   setting: [home, building]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
+  details.date_precision: [1, 3]
   details.environment: [3]
   details.products: [1, 3]
   details.setting: [1, 3]

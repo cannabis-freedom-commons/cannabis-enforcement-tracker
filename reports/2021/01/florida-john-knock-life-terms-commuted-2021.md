@@ -20,12 +20,14 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish}, {product: flower}]
   setting: [home, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3]
+  details.date_precision: [2, 4]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 4]
   figures.prison: [2, 4, 1, 3]

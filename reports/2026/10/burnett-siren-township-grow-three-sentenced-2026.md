@@ -20,11 +20,13 @@ figures:
 details:
   activity: [possession]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 1.13}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2, 4]
   details.products: [1, 3]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 2, 3]

@@ -20,6 +20,7 @@ figures:
 details:
   activity: [smuggling]
   case_stage: investigation
+  date_precision: exact
   setting: [border]
   products:
     - {product: hashish}
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

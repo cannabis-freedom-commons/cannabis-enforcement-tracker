@@ -17,9 +17,11 @@ figures:
   kg_seized: 371
 details:
   agency_types: [police, prosecutor]
+  date_precision: exact
   products: [{product: flower, kg: 371}]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.kg_seized: [1]
 status: verified

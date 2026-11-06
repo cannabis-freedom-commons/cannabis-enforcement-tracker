@@ -20,6 +20,7 @@ details:
   activity: [trafficking, sale]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [deportation]
   setting: [airport, home, prison]
@@ -27,6 +28,7 @@ data_sources:
   details.activity: [1, 4, 5, 6, 7, 8]
   details.agency_types: [1, 4, 6, 7, 8, 9]
   details.case_stage: [1, 4, 5, 6, 7, 8]
+  details.date_precision: [1, 4, 5, 6, 7, 8]
   details.products: [2, 4, 5, 7, 8, 9]
   details.sentence_types: [1, 4, 5, 6, 7, 8]
   details.setting: [35, 36, 38, 55, 47, 63]

@@ -12,10 +12,12 @@ summary: >-
   Prison guards and police intercepted a cat carrying suspected drugs near Nueva Esperanza prison in Colón, Panama. A drug prosecutor said the load might include marijuana alongside cocaine and crack; authorities opened an investigation and transferred the cat to an animal-protection foundation.
 details:
   agency_types: [police, prosecutor]
+  date_precision: exact
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.agency_types: [4, 1, 2, 3]
+  details.date_precision: [4, 1, 2]
   details.products: [2, 1, 3]
   details.setting: [4, 1, 2, 3]
 media:

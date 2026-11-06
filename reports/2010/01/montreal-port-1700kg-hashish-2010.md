@@ -19,11 +19,13 @@ figures:
 details:
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
+  date_precision: exact
   products: [{product: hashish, kg: 1700}]
   setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

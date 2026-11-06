@@ -24,6 +24,7 @@ details:
   activity: [smuggling]
   agency_types: [customs, police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [airport]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [2, 1, 4]
   details.agency_types: [3, 1, 2, 4]
   details.case_stage: [3, 1, 2, 4]
+  details.date_precision: [3, 4, 2]
   details.products: [2]
   details.setting: [3, 1, 2, 4]
   figures.arrested: [3, 1, 2, 4]

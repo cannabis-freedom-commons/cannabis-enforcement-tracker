@@ -27,6 +27,7 @@ details:
   activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   setting: [airport]
   environment: [indoor]
   products:
@@ -35,6 +36,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2, 3]
   details.environment: [1]
   details.products: [1]
   details.setting: [2]

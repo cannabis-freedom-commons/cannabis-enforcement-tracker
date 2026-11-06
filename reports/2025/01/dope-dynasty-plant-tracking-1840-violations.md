@@ -15,9 +15,11 @@ summary: >-
   said it corrected the tags before the follow-up visit and asked for a warning.
 details:
   activity: [cultivation]
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 created_by_model: openai/gpt-6

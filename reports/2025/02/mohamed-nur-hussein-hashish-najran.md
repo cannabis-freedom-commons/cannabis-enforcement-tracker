@@ -20,13 +20,17 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [court]
   case_stage: executed
+  date_precision: exact
   products:
     - {product: hashish}
+  sentence_types: [death]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [hashish, foreign-national, najran]
 open_questions:

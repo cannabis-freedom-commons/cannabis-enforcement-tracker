@@ -28,6 +28,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   sentence_types: [prison]
@@ -36,6 +37,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 3]
   details.products: [1, 2]
   details.sentence_types: [2]
   details.setting: [1, 2]

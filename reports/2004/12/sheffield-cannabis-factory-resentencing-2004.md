@@ -19,6 +19,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower}, {product: plants}]
   sentence_types: [prison]
@@ -26,6 +27,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.environment: [1]
   details.products: [1]
   details.sentence_types: [1, 2]

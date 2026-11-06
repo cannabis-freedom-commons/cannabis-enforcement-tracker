@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [Andorran police]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish, kg: 0.2}
   activity: [trafficking, possession]
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [customs]
+  date_precision: exact
   setting: [border, vehicle]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.setting: [1]
 status: verified
 cfi_id: turkmenistan-heroin-transit-2026

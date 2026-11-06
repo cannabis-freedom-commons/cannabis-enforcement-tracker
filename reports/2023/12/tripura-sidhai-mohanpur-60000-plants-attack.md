@@ -23,11 +23,13 @@ media:
 details:
   agency_types: [police]
   case_stage: appeal
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 3]
   details.products: [2]
   figures.plants_destroyed: [2, 3, 1]
 status: reported

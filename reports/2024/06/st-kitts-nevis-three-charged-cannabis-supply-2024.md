@@ -16,10 +16,12 @@ figures:
 details:
   activity: [cultivation, possession]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [2, 1, 4, 3]
   details.agency_types: [2, 1, 3, 4]
+  details.date_precision: [3, 2, 1, 4]
   details.products: [2, 1, 3, 4]
   figures.charged: [2, 1, 3]
 status: verified

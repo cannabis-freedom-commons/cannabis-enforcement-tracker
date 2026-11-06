@@ -18,10 +18,12 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants, plants: 243}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
 status: verified

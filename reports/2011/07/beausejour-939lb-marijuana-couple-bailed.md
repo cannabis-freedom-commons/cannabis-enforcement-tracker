@@ -22,11 +22,13 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 42.59}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.products: [1]
   figures.charged: [1, 2]
   figures.value: [1]

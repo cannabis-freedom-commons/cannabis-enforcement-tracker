@@ -47,6 +47,7 @@ details:
   activity: [smuggling]
   agency_types: [customs, police]
   case_stage: investigation
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 10.642}]
   setting: [airport]
@@ -54,6 +55,7 @@ data_sources:
   details.activity: [1, 8, 12, 13, 16, 19]
   details.agency_types: [2, 8, 10, 11, 12, 14]
   details.case_stage: [2, 4, 5, 7, 8, 9]
+  details.date_precision: [2, 8, 10, 11, 12, 14]
   details.environment: [2]
   details.products: [1, 8, 11, 12, 14, 15]
   details.setting: [2, 8, 10, 11, 12, 14]

@@ -25,6 +25,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   force: physical
   products:
     - {product: flower}
@@ -34,6 +35,7 @@ data_sources:
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [2, 6, 5]
+  details.date_precision: [1, 2]
   details.force: [2, 5, 6]
   details.products: [2, 5, 6]
   details.setting: [1, 2, 5, 6, 3, 4]

@@ -24,6 +24,7 @@ details:
   activity: [trafficking, possession]
   agency_types: [court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 0.279}, {product: oil}]
   sentence_types: [death]
   setting: [home, prison]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [2, 1, 5, 6]
   details.case_stage: [1, 2]
+  details.date_precision: [4, 5, 6]
   details.products: [2, 3, 4, 1]
   details.sentence_types: [2, 3, 4, 5, 6]
   details.setting: [5, 6, 3, 4]

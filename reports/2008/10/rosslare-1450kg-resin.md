@@ -22,6 +22,7 @@ details:
   agencies: [ie-garda]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 1450}]
   setting: [vehicle]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]

@@ -23,6 +23,7 @@ details:
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 36}]
   route: {from: [th], to: [gb]}
   setting: [home, mail]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   details.route: [2]
   details.setting: [2, 1]

@@ -21,6 +21,7 @@ details:
   agencies: [in-ncb, in-anf]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [field]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.charged: [1]

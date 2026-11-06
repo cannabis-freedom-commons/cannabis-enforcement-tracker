@@ -24,6 +24,7 @@ figures:
 details:
   agencies: [fr-gendarmerie, fr-ofast]
   agency_types: [gendarmerie, anti-narcotics]
+  date_precision: exact
   products:
     - {product: hashish, kg: 50}
   activity: [smuggling, trafficking]
@@ -37,6 +38,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2, 1, 3, 4]
   details.products: [1]
   details.setting: [2]
   figures.arrested: [2]

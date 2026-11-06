@@ -19,10 +19,12 @@ figures:
   value: { amount: 1600000, currency: BZD }
 details:
   agency_types: [anti-narcotics, police]
+  date_precision: exact
   products: [{product: flower, kg: 533}]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.value: [1]

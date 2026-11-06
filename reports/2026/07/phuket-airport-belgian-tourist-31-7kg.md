@@ -19,6 +19,7 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs, police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 31.7}]
   sentence_types: [prison]
   setting: [airport, prison]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 2, 1]
+  details.date_precision: [1]
   details.products: [1, 2, 3]
   details.sentence_types: [3, 2, 1]
   details.setting: [1, 3, 2]

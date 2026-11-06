@@ -20,6 +20,7 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: flower, kg: 0.17}
   activity: [possession]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [1]
   details.products: [1]
   details.setting: [2]

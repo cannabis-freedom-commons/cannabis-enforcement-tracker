@@ -16,10 +16,12 @@ figures:
   charged: 1
 details:
   agency_types: [police, court]
+  date_precision: exact
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1, 3]
   figures.arrested: [1]

@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants}]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
 status: verified
 cfi_id: mongolia-cannabis-plants-seizure-2024

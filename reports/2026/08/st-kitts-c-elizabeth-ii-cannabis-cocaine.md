@@ -19,8 +19,10 @@ figures:
   kg_seized: 5.6767
 details:
   agency_types: [customs, coast-guard, anti-narcotics, police]
+  date_precision: exact
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo

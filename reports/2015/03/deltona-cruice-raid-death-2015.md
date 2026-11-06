@@ -18,11 +18,13 @@ figures:
   kg_seized: 0.255
 details:
   agency_types: [police]
+  date_precision: exact
   force: lethal
   products: [{product: flower, kg: 0.255}]
   setting: [vehicle, home]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2, 3]
   details.force: [1, 2, 3]
   details.products: [2, 3, 1]
   details.setting: [1, 2, 3]

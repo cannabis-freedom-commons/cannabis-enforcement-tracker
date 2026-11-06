@@ -18,11 +18,13 @@ figures:
 details:
   activity: [trafficking, sale]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.charged: [1]

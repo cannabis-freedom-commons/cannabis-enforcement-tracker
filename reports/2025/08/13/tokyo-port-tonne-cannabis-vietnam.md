@@ -26,6 +26,7 @@ details:
   activity: [smuggling]
   agency_types: [customs, prosecutor]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 1046}]
   route: {from: [vn], to: [jp]}
   setting: [port, street]
@@ -33,6 +34,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

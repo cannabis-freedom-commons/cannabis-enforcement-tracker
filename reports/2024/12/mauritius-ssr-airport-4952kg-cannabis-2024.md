@@ -21,11 +21,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
   agency_types: [customs, anti-narcotics]
+  date_precision: exact
   products: [{product: flower, kg: 49.52}]
   setting: [airport, mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

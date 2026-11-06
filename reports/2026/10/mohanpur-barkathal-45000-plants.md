@@ -19,10 +19,12 @@ figures:
 created_by_model: xai/grok-4.7
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants, plants: 45000}]
   setting: [field]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

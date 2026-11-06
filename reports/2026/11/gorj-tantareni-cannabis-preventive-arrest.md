@@ -23,12 +23,14 @@ details:
   activity: [cultivation]
   agency_types: [gendarmerie, police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: seeds}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 4, 5, 6, 7]
   details.case_stage: [1, 3, 4, 5, 7, 8]
+  details.date_precision: [1, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 6, 8, 9]
   details.setting: [1, 3, 4, 5, 7, 8]
 status: verified

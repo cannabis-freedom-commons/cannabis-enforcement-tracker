@@ -15,9 +15,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  date_precision: exact
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.date_precision: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: oman-airport-cannabis-2025

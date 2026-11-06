@@ -29,12 +29,14 @@ media:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [vehicle, home, building]
 data_sources:
   details.agency_types: [2, 4, 5, 6, 3, 1]
   details.case_stage: [2, 4, 5, 1]
+  details.date_precision: [2, 4, 5]
   details.products: [2, 4, 5, 6]
   details.setting: [2, 4, 5, 6, 3]
   figures.kg_seized: [2, 5, 6, 4, 1]

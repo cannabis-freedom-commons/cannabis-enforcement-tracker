@@ -20,6 +20,7 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   route: {from: [ma], to: [it]}
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

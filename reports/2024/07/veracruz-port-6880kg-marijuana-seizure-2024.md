@@ -15,6 +15,7 @@ figures:
 details:
   agencies: [mx-semar]
   agency_types: [military]
+  date_precision: exact
   products:
     - {product: flower, kg: 6880}
   activity: [smuggling]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

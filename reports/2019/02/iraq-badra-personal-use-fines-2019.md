@@ -17,10 +17,12 @@ details:
   agency_types: [court]
   case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [fine]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: iraq-badra-personal-use-fines-2019
 tags:

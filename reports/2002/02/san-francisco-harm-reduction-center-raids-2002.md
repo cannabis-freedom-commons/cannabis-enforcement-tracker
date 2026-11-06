@@ -23,6 +23,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 8135}]
   route: {from: [ca/bc], to: [us/ca]}
   sentence_types: [life]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 1, 3]
+  details.date_precision: [1, 3, 2]
   details.products: [1, 3, 2]
   details.route: [1, 3]
   details.sentence_types: [1, 2, 3]

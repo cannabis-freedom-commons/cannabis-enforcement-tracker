@@ -19,6 +19,7 @@ details:
   activity: [trafficking]
   agency_types: [coast-guard]
   case_stage: investigation
+  date_precision: exact
   setting: [port]
   products:
     - {product: flower}
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [2, 3, 4, 1]
   details.agency_types: [1, 3, 2]
   details.case_stage: [2, 3, 4]
+  details.date_precision: [2, 3, 4, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [2, 3, 4]
   figures.arrested: [2, 3, 4]

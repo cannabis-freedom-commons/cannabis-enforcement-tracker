@@ -21,12 +21,14 @@ created_by_model: unknown
 details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products: [{product: flower, kg: 391}]
   sentence_types: [death]
   setting: [port]
 data_sources:
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4, 5]
   details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 4]

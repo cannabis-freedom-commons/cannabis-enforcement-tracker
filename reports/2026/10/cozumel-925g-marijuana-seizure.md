@@ -16,12 +16,14 @@ details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 1]
+  details.date_precision: [2]
   details.products: [1, 2]
   figures.kg_seized: [2, 3]
 status: verified

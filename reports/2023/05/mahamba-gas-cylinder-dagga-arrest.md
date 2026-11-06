@@ -34,6 +34,7 @@ details:
   agencies: [za-saps]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   setting: [border]
   products:
     - {product: flower}
@@ -42,6 +43,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
   figures.arrested: [2, 1]

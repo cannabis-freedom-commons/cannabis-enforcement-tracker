@@ -24,12 +24,14 @@ media:
 details:
   activity: [use]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.activity: [1, 5, 6, 7, 2, 3]
   details.agency_types: [1, 5, 6, 7, 2, 3]
+  details.date_precision: [1, 5, 6, 7, 2, 3]
   details.products: [1, 3, 6]
   details.setting: [1, 5, 6, 7, 2, 3]
   figures.arrested: [1, 5, 6, 7]

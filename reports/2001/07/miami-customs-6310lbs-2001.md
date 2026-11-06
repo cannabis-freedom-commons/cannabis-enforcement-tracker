@@ -18,11 +18,13 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 2860}]
   setting: [port]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

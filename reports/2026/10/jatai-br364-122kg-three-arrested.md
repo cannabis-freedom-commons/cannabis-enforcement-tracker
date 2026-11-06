@@ -25,12 +25,14 @@ details:
   agencies: [br-prf]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [2]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]

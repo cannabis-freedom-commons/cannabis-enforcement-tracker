@@ -27,6 +27,7 @@ details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 422867}]
   setting: [field]
 data_sources:
@@ -34,6 +35,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
   figures.hectares: [2, 1]

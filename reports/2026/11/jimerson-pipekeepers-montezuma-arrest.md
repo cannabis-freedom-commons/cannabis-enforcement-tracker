@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [us-fbi, "ATF", "New York State Office of Cannabis Management", "Erie County Sheriff's Office", "U.S. Marshals Service", "New York State Police"]
   agency_types: [police, regulator]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [possession, sale]
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [1]
+  details.date_precision: [1, 5, 4]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [2]

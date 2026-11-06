@@ -25,6 +25,7 @@ figures:
 details:
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: flower}
   sentence_types: [fine]
@@ -32,6 +33,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

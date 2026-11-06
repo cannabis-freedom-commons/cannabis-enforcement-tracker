@@ -28,6 +28,7 @@ details:
   agencies: [za-saps]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: flower}
   route: {from: [tz], to: [za]}
@@ -37,6 +38,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

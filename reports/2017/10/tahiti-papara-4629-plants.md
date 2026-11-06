@@ -21,6 +21,7 @@ details:
   activity: [cultivation]
   agency_types: [gendarmerie]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: plants, plants: 4629}]
   sentence_types: [prison]
   setting: [field, forest, prison]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]

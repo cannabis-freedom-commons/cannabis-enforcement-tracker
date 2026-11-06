@@ -16,10 +16,12 @@ figures:
   plants_destroyed: 140
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants, plants: 140}]
   setting: [forest]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]

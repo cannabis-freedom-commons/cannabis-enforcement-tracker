@@ -17,11 +17,13 @@ figures:
   kg_seized: 1.9
 details:
   agency_types: [customs, police, prosecutor]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

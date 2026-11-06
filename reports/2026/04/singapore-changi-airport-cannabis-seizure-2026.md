@@ -14,9 +14,11 @@ summary: >-
   continued, and…
 created_by_model: unknown
 details:
+  date_precision: exact
   products: [{product: flower}]
   setting: [airport, border]
 data_sources:
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

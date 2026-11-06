@@ -19,12 +19,14 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [border-guard, anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [2, 3, 4, 5, 1, 6]
   details.agency_types: [2, 3, 4, 5, 1, 6]
   details.case_stage: [2, 3, 4, 5, 1, 6]
+  details.date_precision: [2, 3, 4, 5, 1, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   figures.arrested: [2, 3, 4, 5, 1, 6]
   figures.kg_seized: [2, 3, 4, 5, 1, 6]

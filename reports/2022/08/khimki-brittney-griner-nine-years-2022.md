@@ -19,6 +19,7 @@ figures:
 details:
   agencies: [Federal Customs Service of Russia]
   agency_types: [customs]
+  date_precision: exact
   products:
     - {product: oil}
   activity: [smuggling]
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [3]
   details.case_stage: [1]
   details.charges: [2]
+  details.date_precision: [3, 2]
   details.products: [2]
   details.sentence_types: [2]
   details.setting: [2]

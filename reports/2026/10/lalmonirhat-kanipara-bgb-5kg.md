@@ -25,6 +25,7 @@ details:
   agencies: [bd-bgb]
   agency_types: [border-guard]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 5}]
   setting: [border]
 data_sources:
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
   details.case_stage: [2, 1, 3, 4]
+  details.date_precision: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 2, 3, 4]
   figures.kg_seized: [1, 3, 4, 2]

@@ -15,12 +15,14 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
 status: verified

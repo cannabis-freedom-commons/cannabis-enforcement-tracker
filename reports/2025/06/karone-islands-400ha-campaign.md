@@ -24,12 +24,14 @@ details:
   activity: [cultivation]
   agency_types: [customs, gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 4000}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.hectares: [1, 2]

@@ -27,6 +27,7 @@ details:
   agency_types: [police, customs]
   activity: [smuggling]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 1500}]
   route: {from: [gh], to: [gb]}
   sentence_types: [prison]
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.sentence_types: [2]

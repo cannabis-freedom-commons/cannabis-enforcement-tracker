@@ -19,6 +19,7 @@ figures:
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   environment: [indoor, outdoor]
   products: [{product: flower}]
   sentence_types: [prison]
@@ -26,6 +27,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.environment: [1, 3, 2]
   details.products: [1, 3, 2]
   details.sentence_types: [1]

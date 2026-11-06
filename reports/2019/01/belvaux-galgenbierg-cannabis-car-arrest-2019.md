@@ -17,11 +17,13 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 0.035}, {product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   details.setting: [1, 2]
   figures.arrested: [2]

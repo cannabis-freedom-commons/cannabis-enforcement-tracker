@@ -21,6 +21,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: acquitted
+  date_precision: exact
   products: [{product: flower}]
   setting: [vehicle, prison]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 3]
+  details.date_precision: [2, 3]
   details.products: [2, 3, 1]
   details.setting: [2, 3]
   figures.arrested: [2, 3, 1]

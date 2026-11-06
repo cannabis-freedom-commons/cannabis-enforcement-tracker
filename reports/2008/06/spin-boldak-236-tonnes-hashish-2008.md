@@ -20,11 +20,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 236800}]
 data_sources:
   details.activity: [3, 4]
   details.agency_types: [3, 4, 1, 2]
   details.case_stage: [3, 4]
+  details.date_precision: [3, 4]
   details.products: [3, 4, 1, 2]
   figures.kg_seized: [3, 4, 1, 2]
 status: verified

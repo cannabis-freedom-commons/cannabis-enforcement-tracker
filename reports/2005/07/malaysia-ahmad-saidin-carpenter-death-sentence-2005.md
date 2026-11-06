@@ -21,12 +21,14 @@ details:
   agency_types: [prosecutor]
   case_stage: sentenced
   products: [{product: flower, kg: 1.6}]
+  sentence_types: [death]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

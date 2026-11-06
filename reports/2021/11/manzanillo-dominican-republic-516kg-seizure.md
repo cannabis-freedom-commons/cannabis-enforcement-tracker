@@ -33,12 +33,14 @@ details:
   agencies: [mx-semar, mx-fgr]
   agency_types: [military, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 516}]
   setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2, 1, 3]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1, 3]

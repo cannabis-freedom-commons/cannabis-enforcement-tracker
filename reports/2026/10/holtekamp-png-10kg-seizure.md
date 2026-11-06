@@ -19,11 +19,13 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower, kg: 10}]
   route: {from: [pg], to: [id]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.route: [1]
   figures.kg_seized: [1]

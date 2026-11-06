@@ -16,11 +16,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, police]
+  date_precision: exact
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [2, 3, 4]
   details.agency_types: [1, 4, 2, 3]
+  details.date_precision: [1, 4]
   details.products: [1, 4]
   details.setting: [1, 4]
   figures.arrested: [1]

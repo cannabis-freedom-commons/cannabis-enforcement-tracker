@@ -15,6 +15,7 @@ figures:
   charged: 1
 details:
   activity: [possession]
+  date_precision: exact
   products: [{product: flower}]
   agency_types: [court, regulator]
   case_stage: charged
@@ -22,6 +23,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.charged: [1]
 

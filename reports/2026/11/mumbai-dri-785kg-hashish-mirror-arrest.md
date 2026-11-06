@@ -35,6 +35,7 @@ details:
   agencies: [in-dri]
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   setting: [mail]
   products:
     - {product: hashish}
@@ -43,6 +44,7 @@ data_sources:
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 2, 3, 6, 4, 7]
+  details.date_precision: [1, 2, 3, 6, 4, 7]
   details.products: [1, 2, 3, 7]
   details.setting: [1, 2, 3, 5]
   figures.arrested: [1, 2, 3, 6, 4, 7]

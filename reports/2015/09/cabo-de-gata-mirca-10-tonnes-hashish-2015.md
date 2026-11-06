@@ -24,6 +24,7 @@ details:
   activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: hashish}
   route: {from: [ma], to: [es]}
@@ -32,6 +33,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.route: [1]
   details.setting: [1, 2]

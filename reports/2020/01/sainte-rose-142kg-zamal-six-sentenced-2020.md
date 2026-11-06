@@ -22,6 +22,7 @@ figures:
 details:
   agencies: [fr-gendarmerie]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: flower, kg: 142}
   setting: [port]
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [4]
+  details.date_precision: [4, 1]
   details.products: [2]
   details.sentence_types: [4]
   details.setting: [3]

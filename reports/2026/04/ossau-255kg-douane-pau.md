@@ -21,9 +21,11 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   agency_types: [customs]
+  date_precision: exact
   products: [{product: hashish, kg: 255.94}]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

@@ -29,10 +29,12 @@ details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 4, 2]
+  details.date_precision: [2, 4, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 447de00d7f52ad77b2d4bf872164c7cc

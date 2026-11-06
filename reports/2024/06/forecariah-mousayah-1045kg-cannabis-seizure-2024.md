@@ -24,12 +24,14 @@ details:
   activity: [trafficking]
   agency_types: [prosecutor]
   case_stage: appeal
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 4]
   details.agency_types: [3, 1, 4]
   details.case_stage: [1, 4]
+  details.date_precision: [3, 1, 4, 2]
   details.products: [1, 4]
   figures.arrested: [1, 4, 3]
   figures.kg_seized: [3, 1, 4]

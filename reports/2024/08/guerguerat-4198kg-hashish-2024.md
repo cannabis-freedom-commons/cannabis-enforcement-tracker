@@ -19,6 +19,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   setting: [border]
   products:
     - {product: hashish}
@@ -26,6 +27,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

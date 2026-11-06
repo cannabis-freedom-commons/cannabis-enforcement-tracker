@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [ar-gna]
   agency_types: [gendarmerie, court]
+  date_precision: exact
   products:
     - {product: flower, kg: 7949.25}
   activity: [smuggling, trafficking]
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [1]
   details.charges: [2]
+  details.date_precision: [3, 1, 6, 4, 5]
   details.force: [2]
   details.products: [2]
   details.route: [1]

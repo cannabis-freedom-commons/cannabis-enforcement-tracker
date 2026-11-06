@@ -22,12 +22,14 @@ created_by_model: meta/muse-spark
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police]
+  date_precision: exact
   products:
     - {product: edibles}
   setting: [port, prison]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [2, 3, 1]
+  details.date_precision: [2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.charged: [2, 3]

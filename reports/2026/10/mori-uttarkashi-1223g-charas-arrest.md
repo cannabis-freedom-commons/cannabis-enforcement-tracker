@@ -20,11 +20,13 @@ figures:
     currency: INR
 details:
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]

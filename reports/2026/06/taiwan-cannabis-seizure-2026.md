@@ -16,10 +16,12 @@ created_by_model: unknown
 details:
   agency_types: [coast-guard, police, prosecutor]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.date_precision: [2, 3, 7, 8]
   details.products: [1, 2, 3, 7, 8, 4]
 status: verified
 cfi_id: taiwan-cannabis-seizure-2026

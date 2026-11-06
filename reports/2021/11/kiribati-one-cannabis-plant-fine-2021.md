@@ -16,13 +16,17 @@ details:
   activity: [cultivation]
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: plants}]
+  sentence_types: [fine]
   setting: [prison]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1, 3]
+  details.sentence_types: [1, 2]
   details.setting: [1, 3]
 status: verified
 cfi_id: kiribati-one-cannabis-plant-fine-2021

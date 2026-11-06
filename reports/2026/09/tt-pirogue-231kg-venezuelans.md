@@ -21,11 +21,13 @@ figures:
   value: { amount: 25456200, currency: TTD }
 details:
   agency_types: [coast-guard]
+  date_precision: exact
   products: [{product: flower, kg: 231.42}]
   route: {from: [ve], to: [tt]}
   setting: [street]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

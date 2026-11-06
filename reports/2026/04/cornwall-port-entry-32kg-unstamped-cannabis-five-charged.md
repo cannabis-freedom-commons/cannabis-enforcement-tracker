@@ -29,6 +29,7 @@ details:
   agencies: [ca-rcmp, ca-cbsa, ca-opp]
   agency_types: [police, customs]
   case_stage: charged
+  date_precision: exact
   products: [{product: edibles, kg: 32.3}]
   setting: [border]
 data_sources:
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.date_precision: [2, 1]
   details.products: [2]
   details.setting: [2]
   figures.charged: [2]

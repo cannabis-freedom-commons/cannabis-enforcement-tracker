@@ -21,9 +21,11 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   agency_types: [border-guard, police, prosecutor]
+  date_precision: exact
   products: [{product: flower, kg: 9.4}]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]

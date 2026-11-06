@@ -33,11 +33,13 @@ media:
     caption: A worker uses a brush cutter in a stand of wild plants.
 details:
   activity: [cultivation]
+  date_precision: exact
   products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

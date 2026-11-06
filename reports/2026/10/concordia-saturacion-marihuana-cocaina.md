@@ -42,6 +42,7 @@ details:
   activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: investigation
+  date_precision: exact
   force: physical
   products:
     - {product: flower}
@@ -50,6 +51,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [1]
   details.products: [1]
   details.setting: [1]

@@ -23,6 +23,7 @@ details:
   agencies: [in-bsf]
   agency_types: [border-guard]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 1900000}]
   setting: [field, forest]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [2, 1, 3]
   details.setting: [1, 2, 3]
   figures.hectares: [1, 2, 3]

@@ -54,12 +54,14 @@ media:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [2, 7, 8, 9, 15, 16]
   details.case_stage: [2, 7, 8, 9, 10, 19]
+  details.date_precision: [2, 7, 8, 9, 15, 16]
   details.products: [1, 4, 6, 7, 11, 12, 13, 16, 18, 19, 20, 21, 23]
   details.setting: [5, 15, 17]
   figures.arrested: [2, 7, 8, 9, 15, 16]

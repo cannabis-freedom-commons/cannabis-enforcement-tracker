@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [border, vehicle]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [2, 3, 1]
   details.products: [1, 3]
   details.setting: [2, 3, 1]
   figures.arrested: [1, 3, 2]

@@ -23,6 +23,7 @@ details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home, building]
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.date_precision: [2]
   details.products: [2]
   details.setting: [2, 1]
   figures.arrested: [1, 2]

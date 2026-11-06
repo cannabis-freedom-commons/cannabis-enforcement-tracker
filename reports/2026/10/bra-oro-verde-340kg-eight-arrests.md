@@ -27,6 +27,7 @@ details:
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   environment: [indoor]
   products: [{product: hashish, kg: 340}, {product: flower}]
   setting: [home]
@@ -35,6 +36,7 @@ data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.environment: [1, 2, 3]
   details.products: [1, 3, 2]
   details.setting: [1, 2, 3]

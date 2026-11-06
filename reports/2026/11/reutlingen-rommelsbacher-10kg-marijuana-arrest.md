@@ -17,6 +17,7 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  date_precision: exact
   products:
     - {product: flower}
     - {product: hashish}
@@ -24,6 +25,7 @@ details:
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
+  details.date_precision: [1, 3]
   details.products: [2, 3]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 3]

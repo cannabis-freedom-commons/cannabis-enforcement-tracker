@@ -21,6 +21,7 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   environment: [outdoor]
   products: [{product: flower, kg: 100}]
   setting: [home]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 2]

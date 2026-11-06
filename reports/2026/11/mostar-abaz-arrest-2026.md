@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agencies: [Herzegovina-Neretva Canton Ministry of the Interior (MUP HNK), Court of Bosnia and Herzegovina]
   agency_types: [police, court]
+  date_precision: exact
   products:
     - {product: flower}
   case_stage: sentenced
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [3]
   details.case_stage: [3]
+  details.date_precision: [1, 2]
   details.force: [2]
   details.products: [1]
   details.sentence_types: [1]

@@ -18,6 +18,7 @@ figures:
 details:
   agencies: [Los Angeles County District Attorney's Office, us-dea, Los Angeles Interagency Metropolitan Police Apprehension Crime Task Force (LA Impact), Los Angeles High Intensity Drug Trafficking Area, us-uspis]
   agency_types: [prosecutor, anti-narcotics, police]
+  date_precision: exact
   products:
     - {product: oil}
   activity: [processing, sale, trafficking, possession]
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2, 1]
   details.force: [2]
   details.products: [2]
   details.setting: [2]

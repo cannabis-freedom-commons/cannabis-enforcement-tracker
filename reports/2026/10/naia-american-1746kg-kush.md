@@ -65,6 +65,7 @@ details:
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
+  date_precision: exact
   setting: [airport]
   products:
     - {product: flower}
@@ -73,6 +74,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 7, 8, 9, 12, 13, 15, 16]
   details.agency_types: [1, 2, 3, 4, 7, 8, 9, 12, 13, 15, 16]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.date_precision: [1, 2, 3, 4, 7, 9]
   details.products: [1, 2, 3, 4, 7, 9, 12, 13]
   details.setting: [1, 2, 3, 4, 5, 7, 9, 11, 12, 13, 14, 16]
   figures.arrested: [1, 2, 3, 4, 5, 6]

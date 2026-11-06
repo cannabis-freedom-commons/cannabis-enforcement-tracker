@@ -26,12 +26,14 @@ details:
   activity: [trafficking, possession]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: hashish, kg: 7.262}]
   setting: [building, street]
 data_sources:
   details.activity: [2, 5, 6, 3, 1, 4]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.date_precision: [1, 2, 3, 4, 5, 6]
   details.products: [3, 6, 5, 2, 4]
   details.setting: [3, 4, 5, 6, 1, 2]
   figures.arrested: [1, 2, 3, 4, 5, 6]

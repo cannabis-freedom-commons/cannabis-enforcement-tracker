@@ -22,6 +22,7 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: executed
+  date_precision: exact
   products: [{product: flower, kg: 1.56297}]
   setting: [home, prison]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

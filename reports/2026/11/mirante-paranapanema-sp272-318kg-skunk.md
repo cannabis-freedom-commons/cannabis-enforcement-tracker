@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [São Paulo Civil Police]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower, kg: 31.8}
   activity: [trafficking]
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [2]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.route: [1, 2]
   details.setting: [1]

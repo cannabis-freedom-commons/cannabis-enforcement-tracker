@@ -34,6 +34,7 @@ details:
   agencies: [in-excise, in-eagle]
   agency_types: [regulator, anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [prison]
@@ -42,6 +43,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [3]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [3]
   figures.arrested: [2, 3]

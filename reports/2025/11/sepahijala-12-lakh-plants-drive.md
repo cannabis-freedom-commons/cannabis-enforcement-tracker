@@ -21,12 +21,14 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants, plants: 1200000}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.value: [1, 2, 3]

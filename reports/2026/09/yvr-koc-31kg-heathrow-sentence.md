@@ -29,6 +29,7 @@ details:
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 31}]
   setting: [airport, prison]
 data_sources:
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1]

@@ -34,6 +34,7 @@ details:
   activity: [trafficking]
   agencies: [br-pf]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: hashish}
   route: {from: [pt], to: [br]}
@@ -42,6 +43,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

@@ -16,13 +16,17 @@ details:
   activity: [smuggling]
   agency_types: [court]
   case_stage: executed
+  date_precision: exact
   products:
     - {product: hashish}
+  sentence_types: [death]
 data_sources:
   details.activity: [1, 5, 7, 8, 9, 10]
   details.agency_types: [4, 5, 6, 7, 10, 2]
   details.case_stage: [1, 5, 7, 8, 9, 10]
+  details.date_precision: [3, 5, 4, 6, 7, 10]
   details.products: [1, 2]
+  details.sentence_types: [2, 9, 1]
   figures.deaths: [1, 5, 7, 8, 9, 10]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

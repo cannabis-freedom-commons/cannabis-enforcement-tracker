@@ -16,9 +16,11 @@ figures:
   kg_seized: 880
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants, plants: 11932}]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

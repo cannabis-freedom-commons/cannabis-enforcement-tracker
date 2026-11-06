@@ -18,6 +18,7 @@ details:
   activity: [trafficking, possession]
   agency_types: [anti-narcotics, police, court]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home, building, prison]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [2, 3, 4, 5, 8, 9]
   details.agency_types: [2, 3, 4, 5, 7, 9]
   details.case_stage: [14]
+  details.date_precision: [2, 3, 4, 8, 11, 1]
   details.products: [1, 3, 4, 7]
   details.setting: [1, 3, 4, 7, 2, 9]
   figures.arrested: [1, 3, 4, 7, 9, 10]

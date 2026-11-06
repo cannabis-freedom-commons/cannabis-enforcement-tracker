@@ -26,6 +26,7 @@ details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [mail]
@@ -34,6 +35,7 @@ data_sources:
   details.agencies: [1, 5, 7, 8, 9]
   details.agency_types: [1, 5, 7, 8, 9]
   details.case_stage: [2, 3, 4, 5, 7, 1]
+  details.date_precision: [1, 5, 2, 4, 7]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
   details.setting: [2, 3, 4, 5, 7, 1]
   figures.kg_seized: [1, 3, 4, 5, 7, 8]

@@ -36,12 +36,14 @@ details:
   agencies: [us-cbp, us-hsi]
   agency_types: [customs, police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 4815}]
   setting: [port]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [2]
   figures.kg_seized: [2]

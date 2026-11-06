@@ -22,12 +22,14 @@ details:
   activity: [smuggling]
   agency_types: [coast-guard, prosecutor]
   case_stage: convicted
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [3, 4, 5]
+  details.date_precision: [2, 3, 4, 5]
   details.products: [2, 5]
   figures.arrested: [1, 2, 3, 4, 5]
   figures.charged: [1, 2, 3, 4, 5]

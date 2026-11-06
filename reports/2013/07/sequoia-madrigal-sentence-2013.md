@@ -22,6 +22,7 @@ details:
   agencies: [us-camp]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 385.55}, {product: plants, plants: 16000}]
   sentence_types: [prison, fine, deportation]
   setting: [forest, prison]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [2, 1]
   details.sentence_types: [2]
   details.setting: [2]

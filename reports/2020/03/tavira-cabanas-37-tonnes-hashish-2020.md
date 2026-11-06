@@ -20,12 +20,14 @@ details:
   activity: [trafficking]
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: hashish, kg: 3700}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

@@ -20,12 +20,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 3954}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [1, 2]
+  details.date_precision: [2, 3, 1]
   details.products: [2, 3, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]

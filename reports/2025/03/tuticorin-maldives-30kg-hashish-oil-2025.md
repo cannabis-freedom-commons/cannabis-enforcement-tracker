@@ -27,11 +27,13 @@ details:
   agencies: [in-dri]
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 29.954}, {product: oil}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 3, 4, 1]
+  details.date_precision: [2, 3, 4, 1]
   details.products: [1, 3, 4, 2]
   figures.arrested: [1, 3, 4]
   figures.kg_seized: [1, 3, 4]

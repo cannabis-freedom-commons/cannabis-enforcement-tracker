@@ -20,6 +20,7 @@ details:
   activity: [trafficking]
   agency_types: [prosecutor, court]
   case_stage: acquitted
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [vehicle, home, mail]
@@ -27,6 +28,7 @@ data_sources:
   details.activity: [3]
   details.agency_types: [1, 3]
   details.case_stage: [3, 1, 2]
+  details.date_precision: [3]
   details.products: [1]
   details.setting: [3, 1, 2]
   figures.kg_seized: [2, 1]

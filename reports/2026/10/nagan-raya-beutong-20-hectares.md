@@ -34,6 +34,7 @@ details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants}]
   setting: [field]
 data_sources:
@@ -41,6 +42,7 @@ data_sources:
   details.agencies: [2, 3, 4, 5, 9, 10, 11, 13]
   details.agency_types: [2, 3, 4, 5, 9, 10, 11, 13]
   details.case_stage: [3, 4, 5, 9, 10, 11]
+  details.date_precision: [3, 4, 5, 9, 10, 11]
   details.products: [3, 4, 5, 9, 10, 11]
   details.setting: [3, 4, 5, 9, 10, 11]
   figures.hectares: [3, 4, 5, 9, 10, 11]

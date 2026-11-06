@@ -23,12 +23,14 @@ media:
 details:
   agency_types: [customs, police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home, building, mail]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [2, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
   figures.arrested: [2, 1]

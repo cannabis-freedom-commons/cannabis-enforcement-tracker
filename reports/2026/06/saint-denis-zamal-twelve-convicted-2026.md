@@ -23,6 +23,7 @@ figures:
 details:
   agencies: [fr-gendarmerie]
   agency_types: [gendarmerie, court]
+  date_precision: exact
   products:
     - {product: flower, kg: 147}
   activity: [trafficking, smuggling]
@@ -39,6 +40,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [2]
+  details.date_precision: [2]
   details.products: [1]
   details.route: [1]
   details.sentence_types: [1]

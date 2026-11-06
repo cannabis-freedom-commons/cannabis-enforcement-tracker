@@ -17,9 +17,11 @@ created_by_model: spacexai/grok-4.7
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
 status: verified
 tags: [borisovo, strumica, medical]
 open_questions:

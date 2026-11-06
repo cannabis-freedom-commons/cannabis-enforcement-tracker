@@ -17,6 +17,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
     - {product: hashish}
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [4, 1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [4]
   details.products: [1, 3]
   details.setting: [4, 1]
   figures.kg_seized: [1, 3, 2]

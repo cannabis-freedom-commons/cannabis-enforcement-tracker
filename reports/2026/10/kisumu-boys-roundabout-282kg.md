@@ -42,11 +42,13 @@ media:
 details:
   agency_types: [anti-narcotics, police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: edibles}
 data_sources:
   details.agency_types: [3, 8, 9, 1, 2, 4]
   details.case_stage: [3, 5, 6, 8, 9, 10]
+  details.date_precision: [3, 5, 9, 6, 7, 8]
   details.products: [1, 2, 3, 4, 5, 9]
   figures.arrested: [3, 5, 6, 8, 9, 10]
   figures.kg_seized: [1, 4, 6, 7, 10, 3]

@@ -24,6 +24,7 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [police, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: plants}]
   sentence_types: [prison, fine, probation]
   setting: [field]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]

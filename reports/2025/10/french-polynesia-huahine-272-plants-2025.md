@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   environment: [greenhouse]
   products: [{product: plants, plants: 272}]
   setting: [home]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [3, 2, 4]
   details.agency_types: [3, 4, 2]
   details.case_stage: [3, 4, 2, 1]
+  details.date_precision: [3, 4, 2]
   details.environment: [3, 4, 2, 1]
   details.products: [3, 4, 2]
   details.setting: [3, 4, 2, 1]

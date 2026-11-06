@@ -25,6 +25,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [sale]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish, kg: 21.827}, {product: flower}]
   sentence_types: [prison]
   setting: [shop]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [4, 5]
+  details.date_precision: [4, 5]
   details.products: [1, 4, 5, 2, 3]
   details.sentence_types: [4, 5]
   details.setting: [1, 2, 4, 5]

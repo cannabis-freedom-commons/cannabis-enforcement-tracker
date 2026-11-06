@@ -73,6 +73,7 @@ details:
   agency_types: [anti-narcotics, police]
   activity: [cultivation]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 78645}, {product: plants, plants: 157290}]
   sentence_types: [prison]
   setting: [field, home, prison]
@@ -81,6 +82,7 @@ data_sources:
   details.agencies: [5, 6, 7, 8, 9, 11, 12, 13]
   details.agency_types: [5, 6, 7, 8, 9, 11, 12, 13]
   details.case_stage: [5, 6, 9, 12, 13, 7]
+  details.date_precision: [2, 4, 1, 3, 15, 17]
   details.products: [2, 4, 1, 3, 15, 17]
   details.sentence_types: [5, 6, 9, 12, 13, 7]
   details.setting: [5, 6, 11, 12, 9, 13]

@@ -22,12 +22,14 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs, anti-narcotics, police]
   case_stage: investigation
+  date_precision: exact
   setting: [airport]
   route: {from: [us], to: [mu]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]

@@ -33,6 +33,7 @@ media:
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: flower}
   sentence_types: [prison]
@@ -40,6 +41,7 @@ details:
 data_sources:
   details.agency_types: [3, 1, 2, 5, 4]
   details.case_stage: [3, 1, 2, 5]
+  details.date_precision: [3, 1, 2, 5, 4]
   details.products: [1, 2, 3, 4, 5]
   details.sentence_types: [3, 1, 2, 5]
   details.setting: [2, 1, 3, 5, 4]

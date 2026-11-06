@@ -18,11 +18,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 1}]
 data_sources:
   details.activity: [1, 5, 2, 6]
   details.agency_types: [1, 5, 2, 6]
   details.case_stage: [1, 5, 2, 6, 4, 3]
+  details.date_precision: [1, 5, 2, 6, 4]
   details.products: [1, 6, 4, 5, 2, 3]
   figures.arrested: [1, 5, 2]
 status: verified

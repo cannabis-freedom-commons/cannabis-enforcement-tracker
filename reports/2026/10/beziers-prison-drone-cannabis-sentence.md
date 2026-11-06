@@ -20,11 +20,13 @@ figures:
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 4, 3]
   details.case_stage: [2, 4, 1]
+  details.date_precision: [3, 4, 2, 1]
   details.sentence_types: [2, 4, 1, 3]
   details.setting: [1, 3, 4]
   figures.kg_seized: [1, 4, 3]

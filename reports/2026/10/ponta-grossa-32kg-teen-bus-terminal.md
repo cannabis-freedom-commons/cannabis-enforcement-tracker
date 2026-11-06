@@ -18,12 +18,14 @@ figures:
 details:
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
+  date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.date_precision: [1, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 3, 4, 2]
   figures.kg_seized: [1, 3, 4, 2]

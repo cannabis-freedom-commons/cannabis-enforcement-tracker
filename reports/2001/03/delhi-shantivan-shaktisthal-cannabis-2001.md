@@ -18,6 +18,7 @@ details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   environment: [wild]
   products: [{product: plants}]
   setting: [vehicle]
@@ -25,6 +26,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

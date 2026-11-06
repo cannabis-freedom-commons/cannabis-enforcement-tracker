@@ -19,11 +19,13 @@ figures:
 details:
   agency_types: [coast-guard, military, police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 434.8}]
   setting: [street]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [3, 1, 2]
   details.setting: [2, 1, 3]
   figures.arrested: [3, 1]

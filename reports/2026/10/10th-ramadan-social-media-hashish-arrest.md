@@ -18,12 +18,14 @@ details:
   activity: [trafficking, sale]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 4, 5, 7, 8, 9]
   details.agency_types: [1, 4, 5, 7, 12, 13]
   details.case_stage: [1, 4, 5, 7, 8, 9]
+  details.date_precision: [1, 4, 5, 7, 12, 13]
   details.products: [1, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13]
   figures.arrested: [1, 4, 6, 7, 9, 12]
 status: reported

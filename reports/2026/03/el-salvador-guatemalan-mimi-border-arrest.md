@@ -33,6 +33,7 @@ details:
   activity: [trafficking]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [prison]
@@ -40,6 +41,7 @@ data_sources:
   details.activity: [4, 3, 2, 1, 5]
   details.agency_types: [4, 2, 1]
   details.case_stage: [2, 1, 4, 3]
+  details.date_precision: [3, 2, 1, 5, 4]
   details.products: [2, 4]
   details.setting: [4, 3, 2, 1, 5]
 status: verified

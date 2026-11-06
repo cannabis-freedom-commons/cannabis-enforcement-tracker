@@ -17,12 +17,14 @@ details:
   activity: [cultivation]
   agency_types: [military]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}]
   setting: [field]
 data_sources:
   details.activity: [2, 1, 7, 3, 6, 8]
   details.agency_types: [1, 4, 6, 7, 8, 9]
   details.case_stage: [2, 1, 7, 3, 6, 8]
+  details.date_precision: [1, 4, 6, 7, 8, 9]
   details.products: [1, 4, 6, 7, 8, 9]
   details.setting: [3, 5, 8, 11, 12, 13]
   figures.hectares: [3, 5, 8, 11, 12, 13]

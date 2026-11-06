@@ -31,6 +31,7 @@ details:
   agencies: [ru-fsb]
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 9.738}, {product: plants, plants: 82}]
   setting: [street]
 data_sources:
@@ -38,6 +39,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

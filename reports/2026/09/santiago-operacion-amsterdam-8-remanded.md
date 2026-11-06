@@ -18,6 +18,7 @@ details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [vehicle, home]
 data_sources:
@@ -25,6 +26,7 @@ data_sources:
   details.agencies: [4]
   details.agency_types: [4]
   details.case_stage: [1, 3, 4, 2]
+  details.date_precision: [3, 4]
   details.products: [4]
   details.setting: [3, 1, 4]
   figures.arrested: [1, 3, 4]

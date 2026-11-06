@@ -24,12 +24,14 @@ details:
   activity: [possession]
   agency_types: [customs]
   case_stage: convicted
+  date_precision: exact
   products: [{product: flower, kg: 40}]
   setting: [airport]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1, 2]
   figures.charged: [1]

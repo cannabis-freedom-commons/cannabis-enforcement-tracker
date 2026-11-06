@@ -25,6 +25,7 @@ details:
   agencies: [us-cbp]
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   setting: [port]
   products:
     - {product: flower}
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3]
+  details.date_precision: [1, 3]
   details.products: [1, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [3, 2]

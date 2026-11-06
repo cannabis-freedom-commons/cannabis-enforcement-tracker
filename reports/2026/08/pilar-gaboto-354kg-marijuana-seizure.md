@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [Prefectura Naval de Pilar, Fuerza de Tarea Conjunta (FTC) del Sur, Secretaría Nacional Antidrogas (SENAD)]
   agency_types: [coast-guard, military, anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower, kg: 354}
   activity: [trafficking]
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [1]
   details.products: [1]
   details.setting: [1]

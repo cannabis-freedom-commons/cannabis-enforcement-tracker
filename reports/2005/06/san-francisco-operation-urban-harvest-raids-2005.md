@@ -23,6 +23,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}, {product: plants, plants: 9000}]
   setting: [home]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

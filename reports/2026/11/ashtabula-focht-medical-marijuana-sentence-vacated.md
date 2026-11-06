@@ -17,6 +17,7 @@ details:
   activity: [possession]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison, probation]
   setting: [prison]
@@ -24,6 +25,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

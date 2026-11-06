@@ -26,12 +26,14 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 1100}]
   setting: [street]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

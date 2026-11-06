@@ -16,6 +16,7 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle]
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [1, 4, 5]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 4]
   details.setting: [1, 5]
   figures.kg_seized: [2, 3, 1, 4, 5]

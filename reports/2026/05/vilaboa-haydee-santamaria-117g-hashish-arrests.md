@@ -30,6 +30,7 @@ details:
   agencies: [es-guardia-civil, es-policia-nacional]
   agency_types: [gendarmerie, police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home, prison]
@@ -38,6 +39,7 @@ data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [3, 2, 1]
+  details.date_precision: [3, 2]
   details.products: [1, 2, 3]
   details.setting: [2, 1, 3]
   figures.arrested: [3, 2]

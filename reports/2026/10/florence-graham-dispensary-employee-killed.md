@@ -20,12 +20,14 @@ figures:
 details:
   activity: [sale]
   agency_types: [police]
+  date_precision: exact
   force: shots-fired
   products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.force: [1, 2, 3]
   details.products: [1]
   details.setting: [1]

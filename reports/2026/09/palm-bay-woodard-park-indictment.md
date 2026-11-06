@@ -19,6 +19,7 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: charged
+  date_precision: exact
   force: shots-fired
   products:
     - {product: flower}
@@ -26,6 +27,7 @@ details:
 data_sources:
   details.agency_types: [2, 3, 4, 1]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.force: [1, 2]
   details.products: [2]
   details.setting: [1, 2, 3, 4]

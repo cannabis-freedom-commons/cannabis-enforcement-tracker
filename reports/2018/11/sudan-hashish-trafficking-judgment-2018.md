@@ -14,11 +14,13 @@ created_by_model: unknown
 details:
   activity: [possession]
   case_stage: sentenced
+  date_precision: exact
   sentence_types: [life]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

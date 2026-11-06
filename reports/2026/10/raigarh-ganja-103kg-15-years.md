@@ -30,6 +30,7 @@ details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: flower}
   sentence_types: [fine]
@@ -38,6 +39,7 @@ data_sources:
   details.activity: [1, 3, 4, 5, 6]
   details.agency_types: [1, 3, 4, 5, 2, 6]
   details.case_stage: [1, 3, 4, 5, 6]
+  details.date_precision: [1, 4, 5, 6]
   details.products: [1, 3, 4, 5, 6]
   details.sentence_types: [1, 3, 4, 5, 6, 2]
   details.setting: [1, 3, 6, 4, 5]

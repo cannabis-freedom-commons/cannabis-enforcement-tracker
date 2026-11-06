@@ -23,12 +23,14 @@ media:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   environment: [wild]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [4, 1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [4, 1]
   details.environment: [4, 1]
   details.products: [1, 2]
   figures.kg_seized: [4, 1, 2, 3]

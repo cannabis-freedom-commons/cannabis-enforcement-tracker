@@ -24,11 +24,13 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: flower}]
   setting: [field]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

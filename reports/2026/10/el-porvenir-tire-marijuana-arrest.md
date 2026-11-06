@@ -15,6 +15,7 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle]
@@ -22,6 +23,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
 status: verified

@@ -17,10 +17,12 @@ figures:
   value: { amount: 50000, currency: GBP }
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: plants, plants: 700}]
   setting: [building]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]

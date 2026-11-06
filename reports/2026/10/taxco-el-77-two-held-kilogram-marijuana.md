@@ -34,11 +34,13 @@ media:
 details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: flower, kg: 1}]
   setting: [vehicle]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [2, 1]

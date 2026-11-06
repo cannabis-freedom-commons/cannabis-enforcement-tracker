@@ -17,11 +17,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [customs, police]
+  date_precision: exact
   products: [{product: plants, plants: 116}]
   setting: [field, forest]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
   figures.hectares: [1]

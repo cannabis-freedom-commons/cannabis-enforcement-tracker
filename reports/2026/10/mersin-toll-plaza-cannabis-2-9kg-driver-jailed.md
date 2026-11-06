@@ -26,6 +26,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [prison]
@@ -33,6 +34,7 @@ data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]

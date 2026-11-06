@@ -14,12 +14,14 @@ summary: >-
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 3, 5, 4, 2]
   details.case_stage: [1, 3, 5, 4, 2]
+  details.date_precision: [1, 3, 5, 4, 2]
   details.products: [2, 5]
   details.setting: [1, 3, 5]
 status: verified

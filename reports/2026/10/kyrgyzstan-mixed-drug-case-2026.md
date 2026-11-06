@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish}, {product: flower}]
 data_sources:
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 cfi_id: kyrgyzstan-mixed-drug-case-2026

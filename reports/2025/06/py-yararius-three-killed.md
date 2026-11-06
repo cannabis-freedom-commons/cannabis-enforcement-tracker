@@ -29,6 +29,7 @@ details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   force: shots-fired
   products: [{product: hashish, kg: 887.2}, {product: flower}]
   setting: [vehicle]
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 3, 4, 5]

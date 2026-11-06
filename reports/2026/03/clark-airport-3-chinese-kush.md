@@ -27,12 +27,14 @@ media:
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower}
   setting: [port]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

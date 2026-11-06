@@ -29,6 +29,7 @@ media:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 13.012}]
   route: {from: [th], to: [in]}
@@ -36,6 +37,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 9]
   details.case_stage: [1, 2, 4, 5, 6, 9]
+  details.date_precision: [1, 2, 3, 4, 5, 9]
   details.environment: [1, 2, 3, 4, 5, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 31, 32, 33, 34, 35]
   details.products: [1, 2, 3, 4, 5, 9]
   details.route: [1, 2, 3]

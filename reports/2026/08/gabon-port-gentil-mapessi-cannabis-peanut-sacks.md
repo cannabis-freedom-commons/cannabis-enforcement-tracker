@@ -21,12 +21,14 @@ details:
   activity: [trafficking]
   agency_types: [court]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [mail, prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [3, 1]
   details.case_stage: [3, 1]
+  details.date_precision: [2]
   details.products: [2, 1, 3]
   details.setting: [2, 1, 3]
   figures.arrested: [2]

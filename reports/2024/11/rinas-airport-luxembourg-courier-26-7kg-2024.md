@@ -34,12 +34,14 @@ details:
   activity: [possession]
   agency_types: [customs, police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 26.7}]
   setting: [airport]
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1, 2, 3]

@@ -22,11 +22,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [gb-border-force]
   agency_types: [customs]
+  date_precision: exact
   products: [{product: flower, kg: 1500}]
   setting: [airport]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1]

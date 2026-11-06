@@ -33,12 +33,14 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2]
   figures.kg_seized: [1, 2, 3]
   figures.value: [1, 2]

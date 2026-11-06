@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 cfi_id: tunisia-saliva-drug-test-2025

@@ -15,6 +15,7 @@ figures:
 details:
   agencies: [fr-douane]
   agency_types: [customs, military]
+  date_precision: exact
   products:
     - {product: flower, kg: 5}
   activity: [smuggling]
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.force: [1]
   details.products: [1]
   details.route: [2]

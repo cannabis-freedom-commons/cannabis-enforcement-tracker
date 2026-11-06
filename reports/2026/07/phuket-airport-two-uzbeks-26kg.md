@@ -24,6 +24,7 @@ media:
 details:
   agency_types: [customs, police]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [fine]
@@ -31,6 +32,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]

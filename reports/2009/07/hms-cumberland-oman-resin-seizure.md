@@ -19,11 +19,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 12400}, {product: flower}]
   setting: [port]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

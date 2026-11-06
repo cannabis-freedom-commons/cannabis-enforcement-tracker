@@ -18,6 +18,7 @@ details:
   activity: [possession]
   agencies: [Rethymno Police Directorate, Mylopotamos Police Operations Department, Rethymno Criminal Investigation Sub-Directorate]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower, kg: 0.28}
   setting: [home, farm]
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

@@ -33,12 +33,14 @@ details:
   agencies: [bd-bgb]
   agency_types: [border-guard]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 8}]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [2, 1]
   details.products: [2, 1]
   figures.kg_seized: [2, 1]
   figures.value: [1, 2]

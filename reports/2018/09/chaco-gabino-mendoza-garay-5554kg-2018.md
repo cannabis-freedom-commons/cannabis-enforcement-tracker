@@ -27,11 +27,13 @@ media:
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products: [{product: flower, kg: 5554}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [2, 1, 3]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1]

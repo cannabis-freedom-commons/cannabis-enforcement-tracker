@@ -19,11 +19,13 @@ figures:
 details:
   agency_types: [court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 35.3}]
   setting: [airport, prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.kg_seized: [1]

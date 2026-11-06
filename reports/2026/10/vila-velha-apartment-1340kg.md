@@ -36,6 +36,7 @@ details:
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 1340}]
   setting: [home]
 data_sources:
@@ -43,6 +44,7 @@ data_sources:
   details.agencies: [1, 2, 3, 6, 7]
   details.agency_types: [1, 2, 3, 6, 7]
   details.case_stage: [1, 6, 7, 2, 4, 5]
+  details.date_precision: [2, 6, 7, 4, 3]
   details.products: [2, 6, 7, 4, 3, 5]
   details.setting: [2, 6, 7, 4, 3]
   figures.arrested: [2, 6, 7, 4]

@@ -18,11 +18,13 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
+  date_precision: exact
   force: lethal
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agency_types: [3, 1, 2]
+  details.date_precision: [3]
   details.force: [3, 1, 2]
   details.products: [1, 3, 2]
   details.setting: [3]

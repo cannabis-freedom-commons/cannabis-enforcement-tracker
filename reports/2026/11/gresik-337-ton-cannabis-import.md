@@ -27,6 +27,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [smuggling]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 3371.4}]
   route: {from: [th], to: [id], crossing: 'via Malaysia'}
   setting: [home, building]
@@ -35,6 +36,7 @@ data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [3, 5, 6]
+  details.date_precision: [3, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.route: [5, 6]
   details.setting: [3, 4, 5, 6]

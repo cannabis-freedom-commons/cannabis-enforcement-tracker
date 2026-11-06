@@ -37,6 +37,7 @@ details:
   agencies: [us-cbp]
   agency_types: [customs]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
@@ -45,6 +46,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [1, 2, 3, 4]
   details.sentence_types: [2]
   details.setting: [2]

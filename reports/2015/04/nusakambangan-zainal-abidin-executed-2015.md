@@ -21,6 +21,7 @@ details:
   activity: [smuggling]
   agency_types: [police, court]
   case_stage: executed
+  date_precision: exact
   products: [{product: flower, kg: 58.7}]
   sentence_types: [death]
   setting: [prison]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4]
+  details.date_precision: [1]
   details.products: [1, 2, 3, 4]
   details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2]

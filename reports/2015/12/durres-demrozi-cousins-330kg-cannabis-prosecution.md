@@ -17,11 +17,13 @@ figures:
 details:
   agency_types: [border-guard, police, prosecutor]
   case_stage: appeal
+  date_precision: exact
   products: [{product: flower, kg: 330}]
   setting: [port]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4]
+  details.date_precision: [1]
   details.products: [2, 3]
   details.setting: [1, 3]
   figures.kg_seized: [3, 4, 2]

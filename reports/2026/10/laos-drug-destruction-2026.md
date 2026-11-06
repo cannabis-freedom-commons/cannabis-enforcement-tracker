@@ -13,10 +13,12 @@ summary: >-
   The figures are post-conviction destructions, not annual seizures.
 created_by_model: unknown
 details:
+  date_precision: exact
   products: [{product: flower}]
   agency_types: [anti-narcotics]
 data_sources:
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
 
 status: verified

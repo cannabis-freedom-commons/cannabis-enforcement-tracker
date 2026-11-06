@@ -19,11 +19,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  date_precision: exact
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.environment: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.hectares: [1, 2, 3]

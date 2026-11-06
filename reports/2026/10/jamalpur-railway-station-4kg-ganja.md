@@ -32,12 +32,14 @@ media:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1, 2]
+  details.date_precision: [1, 2, 3]
   details.products: [3]
   details.setting: [3, 1, 2]
   figures.kg_seized: [3, 1, 2]

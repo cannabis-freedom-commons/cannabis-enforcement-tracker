@@ -22,6 +22,7 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 2267.96}]
   setting: [shop]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1]

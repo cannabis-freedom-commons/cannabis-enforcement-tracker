@@ -22,12 +22,14 @@ details:
   activity: [sale]
   agency_types: [court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: hashish}, {product: flower}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.charged: [2]

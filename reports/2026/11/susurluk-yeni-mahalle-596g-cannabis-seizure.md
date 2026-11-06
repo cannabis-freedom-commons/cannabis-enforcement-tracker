@@ -17,12 +17,14 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
   details.agency_types: [1, 3, 4, 5, 2]
   details.case_stage: [1, 3, 4, 5, 2]
+  details.date_precision: [1, 3, 4, 2, 5]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 3, 2, 4, 5]
   figures.arrested: [1, 3, 4, 2, 5]

@@ -19,12 +19,14 @@ details:
   activity: [trafficking, possession]
   agency_types: [prosecutor, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}]
   sentence_types: [death]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 2, 3]
 status: verified

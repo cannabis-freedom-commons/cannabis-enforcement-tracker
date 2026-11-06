@@ -23,6 +23,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle, home]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 5]
   details.agency_types: [1, 5]
   details.case_stage: [1, 5, 3, 4, 2]
+  details.date_precision: [1, 2, 3, 4, 5]
   details.products: [1, 3, 4, 5]
   details.setting: [1, 5, 3, 4, 2]
   figures.plants_destroyed: [1, 5, 3, 4, 2]

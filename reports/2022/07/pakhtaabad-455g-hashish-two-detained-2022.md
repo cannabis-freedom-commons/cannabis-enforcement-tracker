@@ -23,6 +23,7 @@ media:
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [prison]
@@ -30,6 +31,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3]
+  details.date_precision: [1]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 3]
   details.setting: [2, 1, 3]

@@ -22,6 +22,7 @@ details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [vehicle, prison]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

@@ -23,12 +23,14 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [port]
 data_sources:
   details.activity: [1, 2, 5, 3, 4]
   details.agency_types: [1, 4, 5, 2, 3]
   details.case_stage: [1, 4, 5, 2]
+  details.date_precision: [1, 4, 5, 2]
   details.products: [1, 5, 3, 4]
   details.setting: [1, 3]
 status: verified

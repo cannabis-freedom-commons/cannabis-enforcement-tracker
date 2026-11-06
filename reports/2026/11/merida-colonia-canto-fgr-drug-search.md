@@ -14,6 +14,7 @@ summary: >-
 details:
   agencies: [mx-fgr, mx-gn, mx-sedena, mx-semar]
   agency_types: [prosecutor, gendarmerie, military, police]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [possession]
@@ -26,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.force: [1]
   details.products: [1]
   details.setting: [1]

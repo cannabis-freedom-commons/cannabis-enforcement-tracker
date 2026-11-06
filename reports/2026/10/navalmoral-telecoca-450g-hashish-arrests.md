@@ -34,6 +34,7 @@ details:
   activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [home]
@@ -41,6 +42,7 @@ data_sources:
   details.activity: [1, 2, 4, 5, 6, 7]
   details.agencies: [1, 2, 4, 5, 6, 7, 8]
   details.agency_types: [1, 2, 4, 5, 6, 7, 8]
+  details.date_precision: [2, 1, 7, 4, 5, 6]
   details.products: [1, 2, 4, 5, 6, 7, 8]
   details.setting: [1, 6, 2, 7]
   figures.arrested: [1, 2, 4, 5, 6, 7]

@@ -30,6 +30,7 @@ details:
   activity: [trafficking]
   agency_types: [police, court]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [prison]
@@ -37,6 +38,7 @@ data_sources:
   details.activity: [3, 4, 9, 1, 8, 2]
   details.agency_types: [3, 4, 9, 1, 8, 2]
   details.case_stage: [3, 4, 9, 1, 8, 2]
+  details.date_precision: [3, 4, 9, 1, 8, 2]
   details.products: [1, 4, 6, 8, 9]
   details.setting: [1, 4, 7, 8, 9, 5]
 status: reported

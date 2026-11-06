@@ -20,12 +20,14 @@ figures:
 details:
   agency_types: [court]
   case_stage: executed
+  date_precision: exact
   products: [{product: flower, kg: 1.0298}]
   sentence_types: [death]
   setting: [border, prison]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3]
   details.products: [1, 3, 2]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]

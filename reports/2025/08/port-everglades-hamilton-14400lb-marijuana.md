@@ -18,12 +18,14 @@ details:
   activity: [trafficking]
   agency_types: [coast-guard, military]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 6531.73}]
   setting: [vehicle]
 data_sources:
   details.activity: [3, 1, 4, 2]
   details.agency_types: [2, 4, 3, 1]
   details.case_stage: [3, 1, 4, 2]
+  details.date_precision: [2, 4, 3]
   details.products: [2, 1, 3, 4]
   details.setting: [4]
   figures.arrested: [3, 1, 4, 2]

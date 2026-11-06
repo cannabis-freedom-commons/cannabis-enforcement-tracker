@@ -30,12 +30,14 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  date_precision: exact
   products: [{product: flower, kg: 2}]
   setting: [home]
 data_sources:
   details.activity: [2, 3, 8, 1, 5, 6]
   details.agencies: [1, 6]
   details.agency_types: [1, 6]
+  details.date_precision: [2, 3, 8, 1, 5, 6]
   details.products: [2, 3, 8, 1, 5, 6]
   details.setting: [2, 3, 8, 1, 5, 6]
   figures.arrested: [2, 3, 8, 1, 5, 6]

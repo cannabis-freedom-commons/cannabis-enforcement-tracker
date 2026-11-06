@@ -16,10 +16,12 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  date_precision: exact
   products: [{product: flower, kg: 0.00187}]
 data_sources:
   details.activity: [2, 3, 7, 1, 4, 6]
   details.agency_types: [1, 3, 4, 5, 6, 2]
+  details.date_precision: [1, 3, 4, 5, 6, 2]
   details.products: [2, 3, 7, 1, 4, 6]
 media:
   - kind: photo

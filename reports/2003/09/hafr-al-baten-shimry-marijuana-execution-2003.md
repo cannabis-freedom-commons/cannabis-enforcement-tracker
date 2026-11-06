@@ -20,10 +20,12 @@ created_by_model: meta/muse-spark
 details:
   activity: [smuggling, trafficking]
   case_stage: executed
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
 status: verified
 tags: [hafr-al-baten, beheading, drug-trafficking]

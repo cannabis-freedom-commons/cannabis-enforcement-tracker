@@ -21,11 +21,13 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower, kg: 2657.3}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2, 5, 3, 4]
   details.agency_types: [1, 2, 5, 3, 4]
+  details.date_precision: [1, 2, 5]
   details.products: [1, 2, 5, 3, 4]
   details.setting: [1, 2, 5]
   figures.arrested: [1, 2, 5, 3, 4]

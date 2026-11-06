@@ -23,6 +23,7 @@ details:
   activity: [smuggling]
   agency_types: [customs]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 0.013}]
   sentence_types: [fine]
   setting: [airport]
@@ -30,6 +31,7 @@ data_sources:
   details.activity: [2, 3, 4]
   details.agency_types: [1, 2, 3]
   details.case_stage: [4, 1]
+  details.date_precision: [1, 2]
   details.products: [3, 4]
   details.sentence_types: [2, 3, 4, 1]
   details.setting: [1, 3]

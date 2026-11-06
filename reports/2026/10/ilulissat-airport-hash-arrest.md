@@ -21,12 +21,14 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
   details.products: [2]
   details.setting: [1]
   figures.arrested: [1, 2]

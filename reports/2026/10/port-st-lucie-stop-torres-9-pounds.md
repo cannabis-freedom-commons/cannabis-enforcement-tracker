@@ -26,6 +26,7 @@ details:
   activity: [possession]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   setting: [vehicle]
   products:
     - {product: flower}
@@ -33,6 +34,7 @@ data_sources:
   details.activity: [1, 4, 6]
   details.agency_types: [1, 4, 6, 2, 3, 5]
   details.case_stage: [1, 4, 6]
+  details.date_precision: [1, 4, 6, 2]
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.setting: [1, 2, 3, 4, 5, 6, 7]
   figures.arrested: [1, 4, 6]

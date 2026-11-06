@@ -20,6 +20,7 @@ details:
   agencies: [in-ncb, in-bsf, in-excise]
   agency_types: [anti-narcotics, border-guard, regulator]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [forest]
@@ -28,6 +29,7 @@ data_sources:
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
   details.case_stage: [1, 4, 3, 2]
+  details.date_precision: [1, 4, 3]
   details.products: [1, 2, 4]
   details.setting: [1, 4, 3]
   figures.plants_destroyed: [1, 4, 3]

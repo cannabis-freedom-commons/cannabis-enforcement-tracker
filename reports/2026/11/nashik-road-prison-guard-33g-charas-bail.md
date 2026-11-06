@@ -20,6 +20,7 @@ details:
   agencies: [Nashik Road Police Station]
   agency_types: [police]
   activity: [smuggling, sale]
+  date_precision: exact
   products: [{product: hashish, kg: 0.033}]
   setting: [prison]
   charges: [possession of charas under section 20(b) of the NDPS Act, abetment under section 29, section 54 of the Prisons Act]
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [1]
   details.force: [1]
   details.products: [1, 2, 3]
   details.setting: [1]

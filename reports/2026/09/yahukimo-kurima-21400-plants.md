@@ -18,10 +18,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [military]
+  date_precision: exact
   products: [{product: plants, plants: 21400}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [1, 2]
 media:

@@ -23,12 +23,14 @@ details:
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish, kg: 29.84}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.arrested: [2, 1]
   figures.kg_seized: [2, 1]

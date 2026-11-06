@@ -47,6 +47,7 @@ details:
   agencies: [br-prf]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
@@ -54,6 +55,7 @@ data_sources:
   details.agencies: [1, 2, 12]
   details.agency_types: [1, 2, 12]
   details.case_stage: [1, 4, 12, 6, 7, 8]
+  details.date_precision: [1, 4, 6, 7, 8, 9]
   details.products: [1, 2, 4, 6, 7, 8, 9, 10, 11, 12]
   figures.charged: [1, 4, 12, 6, 7, 8]
   figures.kg_seized: [1, 4, 6, 7, 8, 9]

@@ -20,12 +20,14 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [prison]
 data_sources:
   details.activity: [5, 6]
   details.agency_types: [5, 4, 6, 3, 1, 2]
   details.case_stage: [5, 4, 3, 6]
+  details.date_precision: [5]
   details.products: [5, 4, 3, 6, 1]
   details.setting: [5, 4, 3]
 status: disputed

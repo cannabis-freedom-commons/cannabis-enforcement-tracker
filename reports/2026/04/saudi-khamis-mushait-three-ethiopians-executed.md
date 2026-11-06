@@ -19,13 +19,17 @@ figures:
 details:
   activity: [smuggling]
   case_stage: executed
+  date_precision: exact
   products:
     - {product: hashish}
+  sentence_types: [death]
   setting: [prison]
 data_sources:
   details.activity: [1, 4]
   details.case_stage: [1, 4, 2, 3]
+  details.date_precision: [1, 4]
   details.products: [1]
+  details.sentence_types: [1, 4, 2, 3]
   details.setting: [2, 3]
   figures.deaths: [1, 4, 2]
 status: verified

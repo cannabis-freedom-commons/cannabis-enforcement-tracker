@@ -25,11 +25,13 @@ media:
 details:
   agency_types: [court]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 221.81}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 5, 3]
   details.case_stage: [1, 5, 3]
+  details.date_precision: [3, 5, 1, 2, 4]
   details.products: [1, 5, 3, 2, 4]
   details.setting: [1, 2, 5]
   figures.arrested: [1, 5, 3]

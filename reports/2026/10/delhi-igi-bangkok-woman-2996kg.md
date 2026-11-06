@@ -20,6 +20,7 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 2.996}]
   setting: [airport]
   environment: [indoor]
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.date_precision: [1, 2]
   details.environment: [1]
   details.products: [2, 1]
   details.route: [1, 2]

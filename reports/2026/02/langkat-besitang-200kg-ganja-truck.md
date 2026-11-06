@@ -22,12 +22,14 @@ details:
   activity: [cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  date_precision: exact
   products: [{product: flower, kg: 200}]
   setting: [prison]
 data_sources:
   details.activity: [2, 3, 1]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [3, 1, 2]
   figures.arrested: [3, 1, 2]

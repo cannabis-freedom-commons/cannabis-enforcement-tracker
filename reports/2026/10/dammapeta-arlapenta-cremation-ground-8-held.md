@@ -27,11 +27,13 @@ media:
 details:
   agency_types: [police, court]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   figures.value: [1, 2]
 status: verified

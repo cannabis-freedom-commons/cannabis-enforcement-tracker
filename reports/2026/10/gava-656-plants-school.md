@@ -46,6 +46,7 @@ details:
   agencies: [es-mossos]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants, plants: 656}]
   setting: [school]
   environment: [indoor]
@@ -54,6 +55,7 @@ data_sources:
   details.agencies: [1, 3, 5, 6, 7]
   details.agency_types: [1, 3, 5, 6, 7]
   details.case_stage: [3, 1, 6, 7, 4, 5]
+  details.date_precision: [1, 5, 6, 7]
   details.environment: [1, 5, 6, 7]
   details.products: [1, 5, 6, 7, 4, 2]
   details.setting: [1, 5, 6, 7]

@@ -25,12 +25,14 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: appeal
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.activity: [3, 1, 4]
   details.agency_types: [1, 5, 2, 3, 4]
   details.case_stage: [1, 4]
+  details.date_precision: [1, 5, 2]
   details.products: [1, 3, 5]
   figures.arrested: [1, 5, 2]
 status: verified

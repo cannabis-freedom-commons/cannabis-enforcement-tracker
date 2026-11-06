@@ -19,6 +19,7 @@ figures:
 details:
   agencies: [Direction de la police des stupéfiants et des drogues (DPSD) de Korhogo]
   agency_types: [police, anti-narcotics]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [sale]
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.force: [1]
   details.products: [1]
   details.setting: [1]

@@ -17,11 +17,13 @@ figures:
 details:
   agencies: [np-police]
   agency_types: [police]
+  date_precision: exact
   products: [{product: flower, kg: 3.345}]
   setting: [airport]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.date_precision: [1, 3]
   details.products: [1, 3, 2, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1]

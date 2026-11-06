@@ -19,11 +19,13 @@ figures:
     currency: SZL
 details:
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: flower}
   setting: [street]
 data_sources:
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [2]
   details.setting: [2]
   figures.kg_seized: [2]

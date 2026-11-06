@@ -19,10 +19,12 @@ details:
   activity: [smuggling]
   agency_types: [customs, anti-narcotics, court]
   case_stage: investigation
+  date_precision: exact
 data_sources:
   details.activity: [2, 4, 3]
   details.agency_types: [2, 4, 3]
   details.case_stage: [2, 3, 4, 1]
+  details.date_precision: [2, 4, 3, 1]
   figures.arrested: [2, 3, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -28,6 +28,7 @@ details:
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
   case_stage: investigation
+  date_precision: exact
   setting: [vehicle]
   products:
     - {product: hashish}
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 5, 3, 6, 2]
+  details.date_precision: [1, 3, 5, 6, 2]
   details.products: [1, 3, 5]
   details.setting: [1, 2, 3, 5]
   figures.arrested: [1, 5, 3, 6, 2]

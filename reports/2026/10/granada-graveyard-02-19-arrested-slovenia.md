@@ -21,6 +21,7 @@ figures:
 details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  date_precision: exact
   products:
     - {product: flower, kg: 181}
     - {product: plants, plants: 1388}
@@ -40,6 +41,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2, 4, 5, 1, 7, 6]
   details.environment: [2]
   details.force: [2]
   details.period: [2]

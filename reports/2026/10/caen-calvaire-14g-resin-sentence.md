@@ -18,6 +18,7 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  date_precision: exact
   products:
     - {product: hashish}
   sentence_types: [suspended]
@@ -25,6 +26,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 3, 2]

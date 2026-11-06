@@ -16,10 +16,12 @@ summary: >-
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [2, 3, 1]
+  details.date_precision: [2, 3]
   details.products: [3, 2, 1]
 status: verified
 created_by_model: cursor/grok-4.7

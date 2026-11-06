@@ -22,6 +22,7 @@ details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [street]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [3, 4, 2, 1]
+  details.date_precision: [1, 4, 2]
   details.products: [3, 4]
   details.setting: [1, 4, 2]
 status: reported

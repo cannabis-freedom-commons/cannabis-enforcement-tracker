@@ -22,6 +22,7 @@ details:
   activity: [trafficking]
   agency_types: [border-guard, police, prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 65}]
   setting: [vehicle, border]
   route: {from: [ba], to: [me]}
@@ -29,6 +30,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [1, 3, 2]
   details.products: [1, 3, 2]
   details.route: [1, 3, 2]
   details.setting: [1, 3]

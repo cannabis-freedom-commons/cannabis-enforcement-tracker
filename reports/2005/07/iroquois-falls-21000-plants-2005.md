@@ -22,6 +22,7 @@ details:
   agencies: [ca-opp]
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.date_precision: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

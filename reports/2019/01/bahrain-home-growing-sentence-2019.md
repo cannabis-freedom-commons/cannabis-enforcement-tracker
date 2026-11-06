@@ -16,6 +16,7 @@ details:
   activity: [trafficking, cultivation, possession]
   agency_types: [anti-narcotics, police, prosecutor, court]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: seeds}]
   sentence_types: [life]
   setting: [prison]
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [4, 2, 3, 5, 1]
   details.agency_types: [1]
   details.case_stage: [2, 4, 3]
+  details.date_precision: [1]
   details.products: [2, 5]
   details.sentence_types: [4, 2, 3]
   details.setting: [1, 2, 4, 3]

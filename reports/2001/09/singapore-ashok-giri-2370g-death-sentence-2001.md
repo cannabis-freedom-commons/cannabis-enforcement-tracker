@@ -22,6 +22,7 @@ details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower, kg: 2.3705}]
   sentence_types: [death]
   setting: [vehicle, mail]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [1]
+  details.date_precision: [2, 3]
   details.products: [1]
   details.sentence_types: [2, 3, 1]
   details.setting: [1, 2, 3]

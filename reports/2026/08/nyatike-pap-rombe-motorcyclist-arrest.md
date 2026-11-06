@@ -18,12 +18,14 @@ details:
   agencies: [ke-nps]
   agency_types: [police]
   case_stage: appeal
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.date_precision: [2]
   details.products: [2, 1]
   figures.arrested: [2]
 status: verified

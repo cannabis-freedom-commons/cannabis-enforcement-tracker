@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [Royal Cayman Islands Police Service]
   agency_types: [police]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [possession, sale]
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
+  details.date_precision: [2]
   details.products: [2]
   details.setting: [2]
   figures.arrested: [2]

@@ -16,10 +16,12 @@ summary: >-
 details:
   agency_types: [gendarmerie, military]
   case_stage: investigation
+  date_precision: exact
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.setting: [1, 2, 3]
 media:
   - kind: photo

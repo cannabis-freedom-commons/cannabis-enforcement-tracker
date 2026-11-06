@@ -22,12 +22,14 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 723.8}, {product: plants, plants: 72000}]
   setting: [field]
 data_sources:
   details.activity: [3]
   details.agency_types: [3, 2, 1]
   details.case_stage: [2, 3, 1]
+  details.date_precision: [3, 2]
   details.products: [3, 2, 1]
   details.setting: [3, 2]
   figures.value: [2, 3, 1]

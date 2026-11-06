@@ -19,12 +19,14 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants, plants: 29}, {product: seeds}]
   sentence_types: [life]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 7]
   details.case_stage: [1, 2, 3, 4, 5, 7]
+  details.date_precision: [1, 3, 5, 6, 2, 4]
   details.products: [2, 5, 7, 1, 3, 4]
   details.sentence_types: [2, 5, 7, 3]
   details.setting: [1, 2, 3, 4, 5, 7]

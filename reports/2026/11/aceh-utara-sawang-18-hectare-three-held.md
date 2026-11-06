@@ -41,6 +41,7 @@ details:
   agencies: [id-bnn, id-polri]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: plants}, {product: seeds}]
   setting: [field]
 data_sources:
@@ -48,6 +49,7 @@ data_sources:
   details.agencies: [1, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10]
   details.case_stage: [9, 10, 11, 12]
+  details.date_precision: [1, 4, 5, 6, 9, 7]
   details.products: [8, 9, 10, 11, 12]
   details.setting: [1, 4, 5, 6, 9, 7]
   figures.arrested: [1, 4, 5, 6, 9, 7]

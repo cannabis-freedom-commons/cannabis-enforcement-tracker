@@ -19,6 +19,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
@@ -26,6 +27,7 @@ data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [1, 4, 3]
+  details.date_precision: [1, 4, 3]
   details.products: [2, 3, 4]
   figures.arrested: [1, 4, 3]
 status: verified

@@ -23,12 +23,14 @@ details:
   activity: [cultivation]
   agency_types: [customs, police, prosecutor, court]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower, kg: 1.1}, {product: plants, plants: 33}]
   setting: [home]
 data_sources:
   details.activity: [1, 6, 4, 5, 2, 3]
   details.agency_types: [1, 4, 7, 6, 16, 20]
   details.case_stage: [6, 9, 12, 14, 15, 17]
+  details.date_precision: [7, 10, 13, 14, 16, 17]
   details.products: [1, 6, 4, 5, 7, 10]
   details.setting: [1, 4, 5, 6]
   figures.arrested: [1, 7, 6, 16, 20, 8]

@@ -14,10 +14,12 @@ summary: >-
 details:
   activity: [trafficking]
   case_stage: investigation
+  date_precision: exact
   products: [{product: seeds}]
 data_sources:
   details.activity: [1, 2, 5]
   details.case_stage: [2, 4, 5, 1, 3]
+  details.date_precision: [2, 4, 5]
   details.products: [2, 1, 4, 5, 3]
 media:
   - kind: photo

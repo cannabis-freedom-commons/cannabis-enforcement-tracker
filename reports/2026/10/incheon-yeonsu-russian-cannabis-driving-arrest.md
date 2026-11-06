@@ -16,10 +16,12 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 3, 7, 8, 9, 10]
   details.case_stage: [1, 3, 7, 8, 9, 10]
+  details.date_precision: [1, 3, 7, 8, 9, 10]
   details.products: [4, 6, 10, 1, 3, 7]
   figures.arrested: [1, 3, 7, 8, 9, 10]
 status: reported

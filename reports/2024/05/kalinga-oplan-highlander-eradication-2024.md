@@ -22,12 +22,14 @@ details:
   activity: [cultivation]
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
+  date_precision: exact
   products: [{product: flower, kg: 1575}, {product: plants, plants: 3349500}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

@@ -17,6 +17,7 @@ figures:
   prison: 1 year and 6 months, suspended
 details:
   agency_types: [court, prosecutor]
+  date_precision: exact
   products:
     - {product: flower}
   activity: [sale]
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.date_precision: [1]
   details.force: [2]
   details.products: [1]
   details.sentence_types: [1]

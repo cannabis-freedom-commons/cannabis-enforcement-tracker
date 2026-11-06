@@ -23,11 +23,13 @@ figures:
 details:
   agency_types: [police, prosecutor, court]
   case_stage: acquitted
+  date_precision: exact
   products: [{product: flower, kg: 2.27}, {product: plants, plants: 1118}]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.date_precision: [2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]

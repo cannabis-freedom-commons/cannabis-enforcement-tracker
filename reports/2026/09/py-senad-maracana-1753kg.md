@@ -29,6 +29,7 @@ details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 1753}]
   route: {from: [py], to: [br]}
 data_sources:
@@ -36,6 +37,7 @@ data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 3, 1]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.route: [2, 3, 1]
   figures.kg_seized: [1, 2, 3]

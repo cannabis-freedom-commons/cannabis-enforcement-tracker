@@ -22,6 +22,7 @@ details:
   agencies: [ru-fsb]
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: oil, kg: 100}]
   setting: [forest]
   environment: [wild]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]

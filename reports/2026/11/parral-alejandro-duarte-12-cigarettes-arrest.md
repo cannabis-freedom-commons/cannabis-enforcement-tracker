@@ -24,6 +24,7 @@ details:
   agencies: [mx-sedena]
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
   setting: [street]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
+  details.date_precision: [1, 3, 2]
   details.products: [1, 3]
   details.setting: [1, 3]
   figures.arrested: [1, 3]

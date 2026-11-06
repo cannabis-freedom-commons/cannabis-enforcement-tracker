@@ -17,11 +17,13 @@ created_by_model: unknown
 details:
   agency_types: [military]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

@@ -19,10 +19,12 @@ figures:
 created_by_model: unknown
 details:
   agency_types: [military, police]
+  date_precision: exact
   products: [{product: flower, kg: 3102}]
   setting: [border, vehicle]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]

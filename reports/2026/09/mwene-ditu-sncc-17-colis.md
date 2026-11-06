@@ -17,9 +17,11 @@ summary: >-
 created_by_model: cursor/composer-2.5-fast
 details:
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [sncc, lomami, incineration]

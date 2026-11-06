@@ -27,6 +27,7 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [police]
   case_stage: investigation
+  date_precision: exact
   setting: [forest]
   products:
     - {product: flower}
@@ -34,6 +35,7 @@ data_sources:
   details.activity: [3, 1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]

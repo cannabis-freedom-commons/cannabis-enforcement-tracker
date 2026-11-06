@@ -18,9 +18,11 @@ figures:
     currency: TTD
 details:
   agency_types: [coast-guard, police]
+  date_precision: exact
   products: [{product: flower, kg: 661.9}]
 data_sources:
   details.agency_types: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.value: [1]

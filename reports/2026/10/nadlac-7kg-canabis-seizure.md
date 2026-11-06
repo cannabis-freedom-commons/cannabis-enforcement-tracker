@@ -22,11 +22,13 @@ figures:
 details:
   activity: [trafficking, sale]
   agency_types: [border-guard, police, prosecutor]
+  date_precision: exact
   products: [{product: flower, kg: 7}]
   setting: [border]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

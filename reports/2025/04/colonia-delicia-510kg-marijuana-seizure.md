@@ -23,6 +23,7 @@ details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 510.829}]
   setting: [forest]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3, 2]
+  details.date_precision: [3, 1, 2]
   details.products: [1, 3, 2]
   details.setting: [1]
 status: verified

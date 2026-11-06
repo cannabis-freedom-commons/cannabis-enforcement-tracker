@@ -25,6 +25,7 @@ details:
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
 data_sources:
@@ -32,6 +33,7 @@ data_sources:
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 2, 4, 5, 3]
+  details.date_precision: [1, 3, 2, 4, 5]
   details.products: [1, 3, 4, 5]
   figures.arrested: [1, 3, 2, 4, 5]
   figures.kg_seized: [1, 2, 4, 5, 3]

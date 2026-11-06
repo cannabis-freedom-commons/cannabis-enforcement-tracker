@@ -22,6 +22,7 @@ details:
   agencies: [pk-anf]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products:
     - {product: hashish}
   setting: [vehicle]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [2, 1, 3]
   figures.arrested: [1]

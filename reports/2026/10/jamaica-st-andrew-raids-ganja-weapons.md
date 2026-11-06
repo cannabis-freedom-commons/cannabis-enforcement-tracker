@@ -22,10 +22,12 @@ created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
   agency_types: [police]
   case_stage: charged
+  date_precision: exact
   products: [{product: flower}]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1]
 status: verified

@@ -19,6 +19,7 @@ details:
   activity: [trafficking]
   agency_types: [customs, police]
   case_stage: investigation
+  date_precision: exact
   setting: [port]
   products:
     - {product: hashish}
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1]

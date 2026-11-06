@@ -19,12 +19,14 @@ figures:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  date_precision: exact
   products:
     - {product: flower}
   setting: [vehicle, prison]
 data_sources:
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
+  details.date_precision: [2, 3, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [2, 3, 1, 4]
   figures.arrested: [2, 3, 1]

@@ -23,11 +23,13 @@ created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
   agency_types: [prosecutor]
   case_stage: investigation
+  date_precision: exact
   products: [{product: flower, kg: 10000}]
   setting: [field]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.date_precision: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

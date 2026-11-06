@@ -21,12 +21,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
   case_stage: sentenced
+  date_precision: exact
   products: [{product: flower}, {product: plants}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [3]
   details.case_stage: [1, 4]
+  details.date_precision: [3, 2]
   details.products: [3, 2, 1]
   details.sentence_types: [1, 4]
   details.setting: [3, 1, 4]

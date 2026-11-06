@@ -24,12 +24,14 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  date_precision: exact
   products: [{product: hashish}, {product: flower}]
 data_sources:
   details.activity: [3]
   details.agencies: [3, 5]
   details.agency_types: [3, 5]
   details.case_stage: [1, 2, 3, 4, 5]
+  details.date_precision: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
   figures.plants_destroyed: [5, 1]
 status: disputed

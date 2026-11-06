@@ -33,6 +33,7 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ke-nps]
   agency_types: [police]
+  date_precision: exact
   force: shots-fired
   products:
     - {product: edibles}
@@ -40,6 +41,7 @@ details:
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.date_precision: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

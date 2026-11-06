@@ -22,6 +22,7 @@ details:
   agencies: [br-pf]
   agency_types: [police]
   case_stage: convicted
+  date_precision: exact
   products: [{product: flower, kg: 7000.129}]
   setting: [vehicle]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]
