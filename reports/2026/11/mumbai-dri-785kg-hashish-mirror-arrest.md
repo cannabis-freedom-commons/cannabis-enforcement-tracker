@@ -76,6 +76,10 @@ sources:
     publisher: Wishav Warta
     date: 2026-11-05
     language: pa
+  - title: Bathroom Mirror Ke Frame Mein Chhupaya 7.85 Kg Hashish Seized, Mumbai Mein Consignee Arrest.
+    url: https://gallinews.com/bathroom-mirror-ke-frame-mein-chhupaya-7-85-kg-hashish-seized-mumbai-mein-consignee-arrest/
+    publisher: Gallinews India
+    date: 2026-11-05
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
@@ -89,6 +93,8 @@ open_questions:
   - 'Left out, as its quotation was not found in Wishav Warta: The accused was arrested on November 2 under the provisions of the NDPS Act.'
   - 'Left out, as its quotation was not found in Wishav Warta: Officers found eight concealed packets inside the dismantled wooden frame, holding 169 smaller packets of a blackish, glue-like substance.'
   - The roundup page gives only the headline totals and no separate place, agency detail or arrest date; the incident date and Mumbai terminal attribution rely on the existing report and the linked full article.
+  - The Gallinews page gives no separate date for the interception and seizure; 2 November remains the stated arrest date used as the incident date.
+  - The Gallinews lead image is uncaptioned and its publisher is unstated, so it is not established to show this seizure and is not listed as event media.
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
@@ -96,12 +102,12 @@ international racket that concealed hashish in a courier shipment sent from New
 York in the United States to Mumbai. [@1,2,3] After sustained investigation,
 officers identified and traced the intended recipient of the consignment. [@1,6]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
-[@1,3,4,7] Officials said further investigation is under way to uncover the larger
+[@1,3,4,7,8] Officials said further investigation is under way to uncover the larger
 network, identify other people involved and establish domestic and international
-linkages. [@1,5,6]
+linkages. [@1,5,6,8]
 
 Acting on specific intelligence, officers uncovered the operation and seized
-7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3,7]
+7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3,7,8]
 Officers intercepted and examined the suspicious courier consignment at the
 International Courier Terminal in Mumbai. [@1,2,3] The package had been declared as
 a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
