@@ -30,6 +30,16 @@ sources:
     publisher: Общественное мнение
     date: 2026-11-05
     language: ru
+  - title: Жителя Аткарского района задержали с крупной партией наркотиков
+    url: https://zur-saratov.ru/news/article/jitelya-atkarskogo-rayona-zaderjali-s-krupnoy-partiey-narkotikov-196468/
+    publisher: Журнал Саратов
+    date: 2026-11-05
+    language: ru
+  - title: Оперативники задержали аткарчанина с крупной партией марихуаны
+    url: https://atkarskgazeta.ru/novosti/proisshestviya/operativniki-zaderzhali-atkarchanina-s-krupnoj-partiej-marihuany/
+    publisher: Аткарская газета
+    date: 2026-11-05
+    language: ru
 open_questions:
   - The account gives no separate date for the detention or the search; 5 November 2026 is the publication date and is used as the incident date.
   - The source does not say how the marijuana and the konoplya were packaged or where in the household they were found.
@@ -43,7 +53,7 @@ Police detained a 51-year-old resident of Atkarsky District in Saratov Oblast on
 suspicion of illegal drug trafficking, the regional headquarters of Russia's
 Interior Ministry said. [@1]
 
-Operatives seized 1,270.4 grams of marijuana from the man's household. [@1] They
+Operatives seized 1,270.4 grams of marijuana from the man's household. [@1,2] They
 seized a further 119.6 grams of konoplya, the Russian word for cannabis or hemp,
 at the same address. [@1] The two amounts together weigh 1,390 grams, about 1.39
 kilograms of cannabis material. [@1]
@@ -52,3 +62,4 @@ A criminal case was opened over the seizure, and the man is serving five days of
 administrative arrest. [@1] The regional Interior Ministry headquarters supplied
 the photograph published with the account of the search of his household. [@1]
 
+The seized 119.6 grams comprised parts of cannabis plants containing a narcotic substance. [@3]
