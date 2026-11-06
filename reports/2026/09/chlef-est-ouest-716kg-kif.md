@@ -23,6 +23,8 @@ tags: [chlef, gendarmerie, highway]
 open_questions:
   - A later magazine summary spoke of several suspects arrested; the gendarmerie communiqués opened here named two people stopped with the van.
   - The suspects were not named in these reports.
+  - L'Espoir Libéré says more than 71.6 kg, while Awras and Horizons give 71.6 kg; the existing report retains the precise figure.
+  - 'Left out, as its quotation was not found in Horizons: The operation followed intelligence work and ended with two people arrested and the van seized.'
 sources:
   - title: 'Chlef : plus de 71,6 kg de kif traité saisis'
     url: https://www.awras.net/chlef-plus-de-71-6-kg-de-kif-traite-saisis.html
@@ -34,14 +36,25 @@ sources:
     publisher: L'Espoir Libéré
     date: 2026-09-05
     language: fr
+  - title: Chlef authorities intercepts 71kg highway drug run
+    url: https://www.horizons.dz/language/en/2026/09/chlef-authorities-intercepts-71kg-highway-drug-run/
+    publisher: Horizons
+    date: 2026-09-05
+  - title: 'Plus de 71kg de résine de cannabis saisis : les gendarmes de Chlef remontent une vaste filière'
+    url: https://www.algerie360.com/plus-de-71kg-de-resine-de-cannabis-saisis-les-gendarmes-de-chlef-remontent-une-vaste-filiere/
+    publisher: Algerie360
+    date: 2026-09-05
+    language: fr
 ---
 
 Chlef gendarmerie research officers seized 71.6 kilograms of processed cannabis (kif) concealed
 under the chassis of a utility vehicle during a check on the East–West Highway, according to a
-National Gendarmerie statement reported on 5 September 2026. [@1,2]
+National Gendarmerie statement reported on 5 September 2026. [@1,2,3]
 
 The operation followed intelligence work and ended with two people arrested and the van seized. [@1,2]
-Authorities described them as part of a criminal network involved in cross-border drug trafficking. [@1]
+Authorities described them as part of a criminal network involved in cross-border drug trafficking. [@1,3]
 
 The suspects were to be handed to the competent courts after the legal steps on the drugs and vehicle,
 while inquiries continued under judicial supervision. [@2]
+
+The gendarmerie also confiscated mobile phones that authorities said were used to coordinate the smuggling operation. [@3] Chlef investigators said they traced the supply chain to the network’s principal organisers. [@4]
