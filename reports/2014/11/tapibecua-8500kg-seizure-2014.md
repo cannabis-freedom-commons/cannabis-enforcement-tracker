@@ -53,10 +53,16 @@ sources:
     url: https://insightcrime.org/news/brief/argentina-makes-largest-ever-marijuana-seizure/
     archived: https://web.archive.org/web/20260109202058/https://insightcrime.org/news/brief/argentina-makes-largest-ever-marijuana-seizure/
     publisher: InSight Crime
+  - title: Gendarmería secuestró 300 kilos de marihuana en el paso “El Francés”
+    url: https://www.primeraedicion.com.ar/nota/101077976/gendarmeria-secuestro-300-kilos-de-marihuana-en-el-paso-el-frances/
+    publisher: Primera Edición
+    date: 2026-02-03
+    language: es
 open_questions:
   - The articles were published on 12 and 13 November 2014; 8 November is the Saturday of the interception they describe.
   - The map pin is the Paso de los Libres town centre; no coordinates for Tapebicuá itself were published.
   - No later court outcome for the detained driver was reported in the opened sources.
+  - The 2026 paper does not say which conviction led to his expulsion, so it cannot be confirmed that it was the 2014 Tapebicua case.
 ---
 
 Troops of Gendarmería Nacional Squadron 7 intercepted a truck on Route 14 near
@@ -81,3 +87,5 @@ biggest marijuana trafficker until his arrest in Misiones in February of the
 previous year. [@2] Berni said several more procedures were under way and
 investigators were following several leads from the interception. [@1] The
 Gendarmería had seized almost 80 tons of marijuana so far that year. [@3]
+
+Primera Edicion identifies Thierry André Polus as a Polish and French citizen convicted in Misiones and expelled to Paraguay in 2016. [@4]
