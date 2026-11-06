@@ -61,6 +61,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-05
     language: tr
+  - title: Antalya Kumluca'da uyuşturucu operasyonunda 2 kilo 450 gram kubar esrar ele geçirildi
+    url: https://www.sondakika.com/amp/haber-antalya-kumluca-da-uyusturucu-operasyonunda-2-kilo-20397106/
+    publisher: Son Dakika
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give only the publication date of 5 November 2026 and no separate date for the house search, so that date is used as the incident date.
   - No neighbourhood or village inside Kumluca district is named in the opened accounts, so the place is recorded at district level.
@@ -73,20 +78,23 @@ open_questions:
   - The page's two other images are thumbnails of unrelated Antalya news items, so no media entry was added from this source.
   - Alanya Türk credits the İhlas News Agency (İHA) for the account, so it appears to be the same agency text carried by other outlets rather than an independent second source.
   - The Alanya Türk page image is captioned only with the headline and carries no photographer or agency credit, so it is not established to show this search.
+  - The Son Dakika page is credited to the İhlas News Agency (İHA) and repeats the agency account rather than adding an independent version.
 ---
 
 Antalya provincial gendarmerie teams carried out the operation in Kumluca
 district on the instructions of the Kumluca Chief Public Prosecutor's Office.
-[@1,3,4] Officers searched the home of a suspect identified only by the initials
-E.B. [@1,3,4,5]
+[@1,3,4,6] Officers searched the home of a suspect identified only by the initials
+E.B. [@1,3,4,5,6]
 
 The search found 2 kilos 450 grams of kubar esrar, the term the sources use for
-harvested cannabis. [@1,3,4,5] Officers also seized two Hint keneviri cannabis plants
-and one mobile phone. [@1,3,4,5] The same search turned up 62 rounds of 9.65 mm
+harvested cannabis. [@1,3,4,5,6] Officers also seized two Hint keneviri cannabis plants
+and one mobile phone. [@1,3,4,5,6] The same search turned up 62 rounds of 9.65 mm
 handgun ammunition and two unlicensed hunting rifles, which are not counted in
-the cannabis figures. [@1,3,4,5]
+the cannabis figures. [@1,3,4,5,6]
 
 The İhlas News Agency (İHA) account matches the DHA report, with the same
 suspect initials, address search and quantities. [@2]
 
-Judicial proceedings were started against the suspect over the raid. [@3,5]
+Judicial proceedings were started against the suspect over the raid. [@3,5,6]
+
+Antalya'nın Kumluca ilçesinde düzenlenen uyuşturucu operasyonunda 2 kilo 450 gram kubar esrar, 2 kök Hint keneviri ve çeşitli mühimmat ele geçirildi. [@6]
