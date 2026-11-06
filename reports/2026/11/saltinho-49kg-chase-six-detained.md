@@ -62,11 +62,17 @@ sources:
     publisher: WH3
     date: 2026-11-05
     language: pt
+  - title: Quase 50 quilos de maconha são apreendidos após perseguição policial no Oeste
+    url: https://www.oestemais.com/policia/2026/11/05/quase-50-quilos-de-maconha-sao-apreendidos-apos-perseguicao-policial-no-oeste/
+    publisher: Oeste Mais
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No names were published, and no court outcome after the handover to the police station was reported.
   - The accounts do not say whether the load crossed from Argentina, only that police said it was loaded in Dionísio Cerqueira, a border municipality, for delivery in Chapecó.
   - WH3 says four adults were arrested and two adolescents apprehended; both outlets say all six were taken to the police station, and the six are counted here as detained.
   - The ClicRDC page image has no caption establishing that it shows this seizure, so it is not listed; the WH3 image is credited only as a Military Police handout.
+  - Oeste Mais captions its photo as showing four people aged 13, 17, 20 and 23 held after the pursuit, while its text and the other accounts say six people were taken to the police station; the report keeps the six-person count.
 ---
 
 Military police of the 36th Battalion detained six people, including adolescents
@@ -75,30 +81,29 @@ Catarina, at about 12.30am on Thursday 5 November 2026. [@1] The action began as
 a traffic check on Avenida Alfredo Jacomo Scopel, where officers stopped a
 GM/Blazer driven by the 17-year-old and carrying three other people aged 13, 20
 and 23. [@1] A VW/Gol then tried to flee when the police crew was seen, and a
-chase began. [@1]
+chase began. [@1,3]
 
-The Gol was driven by a 19-year-old man, with a 21-year-old passenger. [@1]
+The Gol was driven by a 19-year-old man, with a 21-year-old passenger. [@1,3]
 During the flight the driver sped, crossed into the oncoming lane and ignored
 traffic signs, then made a sudden manoeuvre and tried to drive the car into the
-police vehicle. [@1] Officers fired four shots; none hit the car and no one was
-injured. [@1] The car stopped soon afterwards, and the passenger, who tried to
-run on foot, was caught and held. [@1]
+police vehicle. [@1,3] Officers fired four shots; none hit the car and no one was
+injured. [@1,3] The car stopped soon afterwards, and the passenger, who tried to
+run on foot, was caught and held. [@1,3]
 
 A search of the Gol found 68 tablets of marijuana weighing 49.850 kilograms.
-[@1] Police said the drug had been loaded in Dionísio Cerqueira, a municipality
-on the border with Argentina, and was to be taken to Chapecó. [@1] Those
+[@1,3] Police said the drug had been loaded in Dionísio Cerqueira, a municipality
+on the border with Argentina, and was to be taken to Chapecó. [@1,3] Those
 involved were to be paid for transporting the load, and the Blazer occupants
 were to support the trip by passing on information about the route and about
-police teams. [@1] Officers also seized both cars used in the run, one with
+police teams. [@1,3] Officers also seized both cars used in the run, one with
 plates from Foz do Iguaçu, Paraná, and the other from Barracão, Paraná, and
-seven mobile phones. [@1] WH3, citing the Military Police, said the Gol was
+seven mobile phones. [@1,3] WH3, citing the Military Police, said the Gol was
 registered in Foz do Iguaçu and the Blazer in Barracão. [@2]
 
 The Conselho Tutelar, Brazil's child-protection council, was called because of
-the 13- and 17-year-olds and followed the procedures. [@1] All six were taken to
-the police station with the vehicles, the drug and the phones. [@1] The case was
+the 13- and 17-year-olds and followed the procedures. [@1,3] All six were taken to
+the police station with the vehicles, the drug and the phones. [@1,3] The case was
 registered as drug trafficking, association for trafficking and corruption of
 minors, and a Campo Erê military police crew supported the action. [@1] WH3
 reported that the operation ended in the arrest of four adults, aged 19, 20, 21
 and 23, and the apprehension of the two adolescents. [@2]
-
