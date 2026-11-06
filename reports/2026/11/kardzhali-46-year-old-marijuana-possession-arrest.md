@@ -35,6 +35,11 @@ sources:
     publisher: Ministry of Interior, Kardzhali Directorate
     date: 2026-11-05
     language: bg
+  - title: Закопчаха 46-годишен с марихуана
+    url: https://24rodopi.bg/zakopchaha-46-godishen-s-marihuana/
+    publisher: 24rodopi.bg
+    date: 2026-11-05
+    language: bg
 open_questions:
   - No weight for the seized dry leaf matter was published, so no kilograms can be recorded.
   - The incident date of 4 November 2026 is inferred from about 19:00 yesterday relative to the 5 November 2026 publication and bulletin dates.
@@ -43,24 +48,24 @@ open_questions:
   - The same page reports a separate domestic-violence detention in Momchilgrad, a different event left out here.
   - The page image carries no caption establishing that it shows this seizure, so no media entry is included.
   - Both accounts repeat the police version; no independent account of the check could be opened.
+  - The 24rodopi page image is captioned only with the article headline and does not establish that it shows this seizure, so no media entry is included.
 ---
 
 Police officers in Kardzhali stopped and checked a 46-year-old man from
 Kardzhali in the town at about 19:00 on 4 November 2026. [@1] The man was held
 as a Kardzhali resident found in possession of a drug during the street check.
-[@1] Officers found dry leaf matter on the man when they searched him during the
-check. [@2]
+[@1,3] Officers found dry leaf matter on the man when they searched him during the
+check. [@2,3]
 
-A field test applied to the recovered leaf matter reacted as marijuana. [@1]
-Officers seized the substance identified by the test as marijuana. [@2] Police
+A field test applied to the recovered leaf matter reacted as marijuana. [@1,3]
+Officers seized the substance identified by the test as marijuana. [@2,3] Police
 detained the holder for up to 24 hours under Bulgaria's Law on the Ministry of
-Interior. [@1]
+Interior. [@1,3]
 
 The Kardzhali regional police directorate opened pre-trial proceedings for
-unlawful possession of a high-risk drug. [@1] The proceedings were registered at
+unlawful possession of a high-risk drug. [@1,3] The proceedings were registered at
 ODMVR-Kardzhali, the Interior Ministry's regional directorate for Kardzhali.
 [@2] Further work on the case is being carried out by the Countering Criminal
-Crime sector together with an investigating police officer. [@1] The regional
+Crime sector together with an investigating police officer. [@1,3] The regional
 press centre of the Interior Ministry announced the check, the seizure and the
 24-hour detention. [@1]
-
