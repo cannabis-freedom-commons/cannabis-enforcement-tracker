@@ -24,6 +24,11 @@ media:
     media_url: https://breakingtube.com/wp-content/uploads/2026/11/dhaar_polish-696x464.jpg
     publisher: Breaking Tube
     caption: Officers and onlookers in a field with white sacks holding the seized cannabis plants in Dhar.
+  - kind: photo
+    url: https://www.naidunia.com/madhya-pradesh/dhar-1134-plants-uprooted-from-a-cotton-field-in-dhar-8475032
+    media_url: https://img.naidunia.com/naidunia/ndnimg/06112026/06_11_2026-dhar_me_pakda_ganja.webp
+    publisher: Nai Dunia
+    caption: 'Police officers seizing cannabis plants among crops at Karaundia Khurd village in Manawar. Photo: Police'
 details:
   products:
     - {product: flower}
@@ -68,6 +73,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-05
     language: hi
+  - title: धार में कपास के खेत से उखाड़े 1134 गांजे के पौधे, 518 किलो से ज्यादा वजन
+    url: https://www.naidunia.com/madhya-pradesh/dhar-1134-plants-uprooted-from-a-cotton-field-in-dhar-8475032
+    publisher: Nai Dunia
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
   - No names or ages of the two arrested growers were published.
@@ -86,6 +96,8 @@ open_questions:
   - The article does not name the two arrested growers, give the field areas or record any court outcome.
   - Neither account gives a separate date for the Jali raid; 5 November 2026 is the Vocal TV publication date already used as the report's incident date.
   - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
+  - The Nai Dunia report does not give a separate date for either raid; 5 November 2026 is the incident date already used, while the article was published on 6 November 2026.
+  - The article gives no court outcome beyond registration of cases under the NDPS Act.
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar
@@ -113,3 +125,5 @@ Police said the campaign is not limited to seizures but also focuses on tracing
 the source, supply networks and people involved in the trade. [@1,2,6]
 
 Manawar station in-charge Rajesh Yadav said Umarban police received a tip on 4 November that cannabis was growing among cotton and pigeon pea in a Karaundia Khurd field and raided it after confirming the information. [@5] The station in-charge said the Karaundia Khurd action was the tenth against illegal cannabis cultivation in the area under Operation Prahar in two months, with ten cases registered. [@5]
+
+Police arrested Bhangda, son of Thawla Katara, a resident of Jali village, in the Jali raid and registered a case against him. [@8] In questioning police are seeking the source of the cannabis seeds, the purpose of the cultivation and the supply network. [@8] The man arrested in Jali gave police the names of other people who are on the run, and police are searching for them. [@8] Umarban sub-divisional police officer Pradeep Walter told a press conference that a farmer had grown cannabis plants illegally among his crops in Karaundia Khurd under Operation Prahar. [@8]
