@@ -1,0 +1,63 @@
+---
+code: 697H6M
+added_at: "2026-11-06T08:11:41.570691Z"
+date: 2026-11-05
+country: it
+place: Colle Val d'Elsa, Siena
+coordinates: [43.4207, 11.1267]
+precision: locality
+type: arrest
+also: [seizure]
+title: Two arrested in Colle Val d'Elsa with 400 g hashish
+summary: >-
+  Carabinieri arrested two young foreign men aged 25 and 22 in Colle Val d'Elsa after finding four hashish blocks weighing 400 grams in their Volkswagen Polo on via dei Mille. Both were placed under house arrest pending a validation hearing after trying to evade the check.
+figures:
+  arrested: 2
+  kg_seized: 0.4
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish, kg: 0.4}
+  charges: [spaccio di stupefacenti]
+  case_stage: investigation
+  date_precision: publication
+  region: Tuscany
+data_sources:
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
+submission: d8a42d963b7d1b58f14ec6440efd1f7b
+tags: [colle-val-delsa, tuscany, hashish]
+sources:
+  - title: 'Colle Val d''Elsa, sorpresi con quattro panetti di hashish: arrestati due cittadini stranieri'
+    url: https://www.canale3.tv/colle-val-delsa-sorpresi-con-quattro-panetti-di-hashish-arrestati-due-cittadini-stranieri/
+    publisher: Canale 3
+    date: 2026-11-05
+    language: it
+open_questions:
+  - The article gives no separate date for the stop; 5 November 2026 is its publication date and is used as the incident date.
+  - Only one accessible source for this event was found after searching in Italian and English.
+  - The two men are not named; only their ages and foreign citizenship were published.
+  - The page image is a 2019 file photo of a Carabinieri arrest, not this seizure, so no media entry is listed.
+  - No court outcome beyond house arrest pending the validation hearing was reported.
+---
+
+Two young foreign men aged 25 and 22 were arrested by the Carabinieri in Colle
+Val d’Elsa on a charge of drug dealing. [@1] The two men were already known to
+law enforcement. [@1]
+
+Officers noticed them aboard a Volkswagen Polo driving irregularly along via dei
+Mille. [@1] On seeing the Carabinieri they tried to evade the check but were
+blocked by a second Carabinieri car. [@1] A search of the car found 4 hashish
+blocks divided in 2 packages weighing 400 grams in total. [@1]
+
+Both were arrested in flagrante and placed by the judicial authority under house
+arrest at their respective residences pending the validation hearing. [@1]
+
