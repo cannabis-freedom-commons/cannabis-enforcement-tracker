@@ -33,6 +33,11 @@ media:
     media_url: https://deshdoot.com/wp-content/uploads/2026/11/ganja-5-nov-26-696x392.webp
     publisher: Deshdoot
     caption: 'Photo captioned ''ganja 5 nov 26'' used to illustrate the Deshdoot report on the hydroponic ganja seized at Pune airport. Photo: Deshdoot'
+  - kind: photo
+    url: https://www.mid-day.com/news/india-news/article/une-customs-bust-novel-drug-smuggling-method-seize-10-6-kg-of-ganja-from-bangkok-passenger-23658759
+    media_url: https://images.mid-day.com/images/images/2026/nov/napps_1793940762394_d.jpg
+    publisher: Mid-Day
+    caption: 'Hydroponic weed shown after Pune Customs officers opened the packets it was concealed in at Pune airport. Photo: Special arrangement'
 details:
   environment: [indoor]
 data_sources:
@@ -128,6 +133,10 @@ sources:
     url: https://www.rediff.com/news/report/hydroponic-weed-worth-rs-372-crore-seized-at-pune-airport/20261106.htm
     publisher: Rediff.com
     date: 2026-11-06
+  - title: Pune Customs seize hydroponic weed worth Rs 3.72 crore at airport, passenger arrested
+    url: https://www.mid-day.com/news/india-news/article/une-customs-bust-novel-drug-smuggling-method-seize-10-6-kg-of-ganja-from-bangkok-passenger-23658759
+    publisher: Mid-Day
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -167,14 +176,16 @@ open_questions:
   - Rediff does not distinguish between 'hydroponic weed' and marijuana beyond the field-test identification, so the substance is recorded as the existing report has it.
   - The Hindu dates the Pune Customs press note to 5 November 2026 but gives no separate date for the remand hearing beyond custody running to 18 November.
   - Rediff does not give the flight number, the passenger's age, or the quantity in grams.
+  - The Mid-Day article does not mention the nine-packet count, the noodle packets, the vacuum-sealed black polythene layers, the field testing kit result, the nine-hour investigation, or the judicial custody till 18 November recorded in the existing report.
+  - Mid-Day gives the concealment as freeze-dried durian packets in check-in baggage but names no charges, court or investigating officer.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
-of Pune Customs. [@2,3,12,15]
+of Pune Customs. [@2,3,12,15,20]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
@@ -183,7 +194,7 @@ vacuum-sealed black polythene to mask detection. [@2,8,10,11,12] On opening, the
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19] The passenger was arrested and
