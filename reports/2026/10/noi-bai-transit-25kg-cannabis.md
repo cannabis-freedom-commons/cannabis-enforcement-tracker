@@ -95,6 +95,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: ru
+  - title: নোই বাই বিমানবন্দর থেকে কর্তৃপক্ষ ২৫ কেজির বেশি গাঁজা এবং শত শত গরম তামাকের কাঠি জব্দ করেছে।
+    url: https://www.vietnam.vn/bn/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -132,6 +137,8 @@ open_questions:
   - The Russian page rounds the cannabis weight to more than 25 kg rather than the 25.4 kg in the existing report, so the existing figure is retained.
   - The page names the passenger only as Spanish and gives no €4,000 payment account, origin of the trip or charge, so it neither confirms nor contradicts those details.
   - The separate seizure of more than 400 TEREA heated-tobacco sticks in the same announcement is a tobacco case left out of this report.
+  - The Bengali translation says the case was handed to the Hanoi City police drug crime investigation office without naming the office's number, so it neither confirms nor contradicts the earlier report that the receiving unit was PC04.
+  - The page describes the announced batch as two cases — heated tobacco and suspected cannabis — but records only one case file being transferred, so it does not say whether the heated-tobacco matter was referred to another agency.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -153,10 +160,10 @@ investigation. [@1,2,3,5,6,7,10]
 
 The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,13] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,12]
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
 
-The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11]
+The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12,13] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13]
