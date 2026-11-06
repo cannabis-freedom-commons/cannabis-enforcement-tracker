@@ -61,6 +61,10 @@ sources:
     publisher: فرانس 24 / France 24
     date: 2026-11-05
     language: ar
+  - title: Saudi Arabia executes five Ethiopians for hashish smuggling
+    url: https://www.vanguardngr.com/2026/11/saudi-arabia-executes-five-ethiopians-for-hashish-smuggling/
+    publisher: Vanguard News
+    date: 2026-11-05
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -76,23 +80,24 @@ open_questions:
   - The page's photo caption repeats the headline and does not establish that the image shows this execution, so no media entry is included.
   - Both opened accounts repeat the same Interior Ministry statement via AFP and do not independently establish details beyond it.
   - The France24 page's only captioned photo is a 25 April 2023 Jeddah amphetamine archive image and does not show this execution, so no media entry is included.
+  - The page's single image is captioned only with the headline and does not establish that it shows this execution, so no media entry is included.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
-2026. [@1,5,7,8] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8] The ministry recorded the penalty as
+2026. [@1,5,7,8,9] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9] The ministry recorded the penalty as
 a discretionary taazir execution. [@1] The executions were carried out on
-Thursday in Asir in the south of the country. [@1,2,8]
+Thursday in Asir in the south of the country. [@1,2,8,9]
 
 An AFP tally based on official data put total executions in Saudi Arabia in 2026
-at 205. [@1,2] The same tally counted 124 people executed in drug cases this year,
+at 205. [@1,2,9] The same tally counted 124 people executed in drug cases this year,
 a majority of all executions. [@1] Foreigners accounted for 109 of this year's
 executions, including 32 Ethiopians as the largest foreign group. [@1] Saudi
 authorities had executed five Ethiopians in a single day in June and five in a
-single day in July on similar charges. [@2]
+single day in July on similar charges. [@2,9]
 
 Human Rights Watch warned in July that at least 79 detained Ethiopians remained
-at imminent risk of execution on similar charges. [@1,2] Last year executions
+at imminent risk of execution on similar charges. [@1,2,9] Last year executions
 reached a second straight annual record with 356 people put to death, including
 243 in drug cases. [@1] Saudi authorities say executions follow exhaustion of
 all appeals and aim to maintain security and protect residents from drugs. [@1]
