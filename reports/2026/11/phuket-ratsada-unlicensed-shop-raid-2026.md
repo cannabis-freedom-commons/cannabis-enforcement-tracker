@@ -28,6 +28,10 @@ sources:
     publisher: ข่าวภูเก็ต (Khaophuket)
     date: 2026-11-05
     language: th
+  - title: Unlicensed cannabis shop raided in Phuket Town
+    url: https://www.thephuketnews.com/unlicensed-cannabis-shop-raided-in-phuket-town-102123.php
+    publisher: The Phuket News
+    date: 2026-11-06
 open_questions:
   - No weight for the 36 cannabis items was published, so no kilograms can be recorded.
   - The 123,290 baht is seized cash held as evidence, not an official valuation of the drugs, so no value is recorded.
@@ -38,6 +42,13 @@ open_questions:
   - The Facebook post carries photos without accessible captions or alt text establishing they show this raid, so no media entry is included.
   - The Khaophuket account also describes Siwat Rawangkun as acting in place of the provincial clerk, while the existing report records him as Mueang Phuket district chief.
   - The article's only photo is captioned as a Phuket province public-relations picture without stating what it shows, so no media entry is added.
+  - The shop's name, Amsterjam, is given by The Phuket News; the earlier official and Khaophuket accounts did not name it, and no other outlet confirms the spelling.
+media:
+  - kind: photo
+    url: https://www.thephuketnews.com/unlicensed-cannabis-shop-raided-in-phuket-town-102123.php
+    media_url: https://www.thephuketnews.com/photo/listing/2026/1793930835_1-org.jpg
+    publisher: The Phuket News
+    caption: 'Photo published with the report of the Amsterjam cannabis shop raid in Phuket Town. Photo: Mueang District Office'
 ---
 
 Phuket province is strictly enforcing the law against selling cannabis without a
@@ -48,14 +59,16 @@ inspect and suppress unlicensed cannabis sales in Mueang Phuket district. [@1]
 District security chief Apichat Chantrawong led administrative and public-health
 officers to inspect a cannabis shop on Ratsada Road in Talat Nuea, Mueang
 Phuket, Phuket. [@1,2] Officers found the shop had no licence related to selling
-cannabis. [@1,2] Officers arrested the 41-year-old woman who owns the shop. [@1,2]
+cannabis. [@1,2,3] Officers arrested the 41-year-old woman who owns the shop. [@1,2,3]
 
-Officers seized 36 cannabis items. [@1,2] Officers seized seven other items. [@1,2]
-Officers seized 123,290 baht in cash. [@1,2] Officers recorded the arrest and
+Officers seized 36 cannabis items. [@1,2,3] Officers seized seven other items. [@1,2,3]
+Officers seized 123,290 baht in cash. [@1,2,3] Officers recorded the arrest and
 handed the detainee and seized items to investigators at Mueang Phuket Police
-Station for legal proceedings. [@1,2]
+Station for legal proceedings. [@1,2,3]
 
 The Phuket governor instructed administrative officials to work with relevant
 agencies to inspect offending businesses and enforce the law seriously and
 continuously. [@1] Officials said the aim is to keep business operation lawful,
 maintain order and protect public safety in Phuket. [@1]
+
+The Phuket News names the shop as Amsterjam. [@3]
