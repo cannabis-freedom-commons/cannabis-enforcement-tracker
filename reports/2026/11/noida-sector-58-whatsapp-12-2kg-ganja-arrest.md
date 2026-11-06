@@ -83,6 +83,10 @@ sources:
     url: https://the420.in/noida-whatsapp-ganja-delivery-racket/
     publisher: The 420.in
     date: 2026-11-05
+  - title: Airport engineer among two held for cannabis smuggling
+    url: https://timesofindia.indiatimes.com/city/noida/airport-engineer-among-two-held-for-cannabis-smuggling/articleshow/135585557.cms
+    publisher: The Times of India
+    date: 2026-11-06
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -121,6 +125,9 @@ open_questions:
   - The 420.in places the checking near Radisson Cut in Sector 57, while the existing report records Medicine Cut; the existing wording is kept.
   - The 420.in gives the arrests only as the night of 4 November 2026 and names no separate date for Manish Kumar Jha's arrest near Sector 56.
   - The 420.in reports no court outcome beyond registration of the NDPS case.
+  - The Times of India says the arrests were made on Wednesday, which matches 4 November 2026 but is stated indirectly rather than as a date.
+  - This account gives no separate date for Manish Kumar Jha's arrest near ESI Colony in Sector 56.
+  - No court outcome beyond the arrests and questioning was reported.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -145,7 +152,7 @@ media:
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1,2,3,4,5,6,8,9,11,12] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2,3,4,5,6,8,9,11,12,13] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1,5,7,8] Following questioning of Sumit, police arrested his associate
 Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1,5,6,7,8] The men were
@@ -155,19 +162,19 @@ originally of Kalyanpur in Samastipur, Bihar, and also living in Khoda Colony.
 [@1] Sumit told police that Manish supplied him the ganja and that together they
 supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
-online to Manish. [@1,4,8,9]
+online to Manish. [@1,4,8,9,13]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5,6,7,8,9,11,12] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5,6,7,8,9,11,12,13] A
 search of Sumit's bag found small packets bearing an online delivery company's
 name containing 1 kg 900 g of ganja. [@1,3,6,7,8] Police recovered 10 kg 300 g of ganja
 from Manish. [@1,3,6,7,8] Police also seized a Splendor motorcycle, two mobile phones
-and 42 printed packets used for packing the ganja. [@1,3,9]
+and 42 printed packets used for packing the ganja. [@1,3,9,13]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
-online delivery companies' names to avoid suspicion during delivery. [@1,8,9] Police
+online delivery companies' names to avoid suspicion during delivery. [@1,8,9,13] Police
 said Manish works as a technical engineer. [@1,4,7,8,12] Questioning also named another
 associate, Amit, who is already jailed in Guwahati, Assam, in a
-ganja-trafficking case. [@1,3,8] Police registered case number 385/26 under sections
+ganja-trafficking case. [@1,3,8,13] Police registered case number 385/26 under sections
 8/20 of the NDPS Act at Sector-58 police station and are investigating the
 supply source and others linked to the network. [@1,7,8]
 
