@@ -30,29 +30,35 @@ sources:
     publisher: Info Central
     date: 2025-03-22
     language: es
+  - title: 'Misiones: Prefectura decomisó un cargamento de más de una tonelada y media de marihuana'
+    url: https://www.argentina.gob.ar/noticias/misiones-prefectura-decomiso-un-cargamento-de-mas-de-una-tonelada-y-media-de-marihuana
+    publisher: Argentina.gob.ar
+    date: 2025-03-22
+    language: es
 open_questions:
   - The incident date is inferred as 21 March from Info Central's description of the seizure as occurring the previous night and its 22 March 2025 publication date; no exact time is given.
   - The government account reports more than 1,500 kg and more than 4,000 million pesos, while Info Central reports 1,500 kg and 4,000 million pesos; the figures record the supported lower bounds.
   - The valuation is an official estimate, not an independently assessed market value.
   - No suspects, arrests, charges or later court outcome are reported.
   - The government page's embedded image has no caption or alt text confirming that it shows this seizure, so no media entry is included.
+  - The archive-style agency page carries no separate operation date; the report's date of 21 March 2025 rests on Info Central's account that the seizure happened the previous night.
+  - The page's two inline photographs have no caption, credit or alt text, so no media entry was added for them.
 ---
 
 Prefectura Naval Argentina (PNA) officers seized more than 1,500 kilograms of
-marijuana in Puerto Rico, Misiones. [@1] The force said its river-border patrol
+marijuana in Puerto Rico, Misiones. [@1,3] The force said its river-border patrol
 saw two boats crossing the Paraná River with a suspected load from Paraguay.
-[@1] One boat quickly withdrew after leaving its load on the Argentine bank.
+[@1,3] One boat quickly withdrew after leaving its load on the Argentine bank.
 [@1]
 
 The landing site was known as Puerto 3 de Mayo, at kilometre 1,750 of the
-Paraná. [@1] Officers found an abandoned boat and rectangular bundles scattered
+Paraná. [@1,3] Officers found an abandoned boat and rectangular bundles scattered
 nearby. [@1] A second account says bundles were found inside the boat as well as
 scattered nearby. [@2] The seizure comprised 2,440 panes, meaning compressed
-marijuana bricks, weighing more than 1,500 kilograms. [@1] The official
+marijuana bricks, weighing more than 1,500 kilograms. [@1,3] The official
 government account valued the load at more than 4,000 million pesos. [@1]
 
 Info Central reported a 1,500-kilogram seizure and estimated the cargo's value
 at 4,000 million pesos. [@2] Info Central described the seizure as taking place
 the previous night. [@2] The Federal Prosecutor's Office in Oberá, led by
-Viviana Vallejos, supervised the operation. [@1]
-
+Viviana Vallejos, supervised the operation. [@1,3]
