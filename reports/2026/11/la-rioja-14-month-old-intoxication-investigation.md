@@ -41,6 +41,11 @@ sources:
     publisher: NueveCuatroUno
     date: 2026-11-05
     language: es
+  - title: Un bebé de 14 meses acaba ingresado en La Rioja con cannabis en su organismo. Ahora, la Guardia Civil investiga a sus padres
+    url: https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/bebe-14-meses-acaba-ingresado-rioja-cannabis-organismo-guardia-civil-investiga-padres-20261105_3469464.html
+    publisher: COPE
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article gives no separate date for the hospital admission or the investigation, so 5 November 2026 is the publication date used as the incident date.
   - No cannabis weight, seizure, plant count, cultivation site or laboratory amount was reported.
@@ -49,29 +54,31 @@ open_questions:
   - Only one accessible account of the event was found after searching in Spanish and English.
   - The page image is credited to the Guardia Civil and captioned with the headline but does not demonstrably show this hospitalisation or investigation, so no media entry is included.
   - The Europa Press and Cadena SER accounts closely reproduce the same Guardia Civil version, so independent confirmation beyond that account was not found.
+  - COPE gives no separate date for the hospital admission or the start of the investigation, so 5 November 2026 remains the publication date used as the incident date.
+  - COPE, like the other outlets, reproduces the Guardia Civil account and adds no independent confirmation or new figures.
 ---
 
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a
 24-year-old woman as presumed perpetrators of serious negligent injury and
 breach of parental duties after their 14-month-old son suffered cannabis
-intoxication. [@1,2,3,4] The two people under investigation are the child's mother and
+intoxication. [@1,2,3,4,5] The two people under investigation are the child's mother and
 father. [@1,4]
 
 The case began when emergency health protocols were activated for the child's
 hospital admission in the autonomous community. [@1,4] The baby showed pronounced
 listlessness and drowsiness, prompting medical tests to determine the cause.
 [@1] Toxicology tests confirmed cannabis in the infant's body, establishing
-intoxication with the drug. [@1,4] The child remained hospitalised with a moderate
+intoxication with the drug. [@1,4,5] The child remained hospitalised with a moderate
 prognosis. [@1,4] The parents told investigators the intoxication may have
 happened accidentally when the baby inhaled smoke in a public park where others
-were allegedly using cannabis nearby. [@1,2,4] Investigators found nothing to
+were allegedly using cannabis nearby. [@1,2,4,5] Investigators found nothing to
 corroborate that account or reasonably explain how the intoxication occurred.
-[@1,4] Officers therefore proceeded to investigate both parents for alleged
+[@1,4,5] Officers therefore proceeded to investigate both parents for alleged
 involvement in the cited offences. [@1]
 
 Child-protection protocols were activated alongside the police inquiry, placing
 the baby under provisional guardianship and custody of social services pending
-protective measures and liability decisions. [@1,2,4] The Guardia Civil said any act
+protective measures and liability decisions. [@1,2,4,5] The Guardia Civil said any act
 or omission endangering a minor's physical integrity, health or welfare can have
 legal consequences and will be investigated. [@1] The force said it would
 release no further information about the case or the locality where it happened
