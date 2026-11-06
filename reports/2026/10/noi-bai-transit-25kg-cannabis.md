@@ -50,6 +50,11 @@ sources:
     publisher: VOH Online
     date: 2026-11-06
     language: vi
+  - title: Hải quan phát hiện hơn 25kg hoa, lá cần sa trong hành lý đi Pháp
+    url: https://voh.com.vn/phap-luat/hai-quan-phat-hien-hon-25kg-hoa-la-can-sa-trong-hanh-ly-di-phap-678333.html
+    publisher: VOH
+    date: 2026-11-06
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -60,13 +65,16 @@ open_questions:
   - Tuổi Trẻ does not name the passenger or give the payment he described, so it neither confirms nor contradicts the earlier account of a €4,000 payment for carrying the load from Cambodia.
   - VOH describes the load as flowers, leaves, stems and buds, while the earlier Regional Customs Branch I account described dried herb; neither reports a laboratory result, so the earlier open question about species confirmation stays open.
   - VOH gives no name for the passenger and no figure for what he was paid, so the earlier account of a €4,000 payment for carrying the load from Cambodia is neither confirmed nor contradicted here.
+  - VOH does not name the passenger, give his age or say what he was paid, so the earlier account of Jesus Sanchez Gomez and a €4,000 payment from Cambodia is neither confirmed nor contradicted here.
+  - VOH and VOV2 report the customs announcement on 6 November 2026, two weeks after the 25 October inspection; neither says when the announcement was originally made.
+  - The separate heated-tobacco case in the same announcement involves a different product and is left out of this report.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
-2026 when they found a black checked suitcase. [@1,2,3] The suitcase was checked
+2026 when they found a black checked suitcase. [@1,2,3,4] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
-leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3] The airport
+leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
@@ -79,6 +87,6 @@ Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
 investigation. [@1,2,3]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4]
 
 The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
