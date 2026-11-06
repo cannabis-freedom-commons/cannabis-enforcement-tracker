@@ -65,6 +65,11 @@ sources:
     url: https://www.vanguardngr.com/2026/11/saudi-arabia-executes-five-ethiopians-for-hashish-smuggling/
     publisher: Vanguard News
     date: 2026-11-05
+  - title: تنفيذ حكم القتل تعزيرًا بحق خمسة مهربي مخدرات إثيوبيين في عسير
+    url: https://ajel.sa/local/9tsgl2zqy
+    publisher: عاجل
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -84,8 +89,8 @@ open_questions:
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
-2026. [@1,5,7,8,9] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8,9] The ministry recorded the penalty as
+2026. [@1,5,7,8,9,10] The Interior Ministry said the five were convicted of participating
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10] The ministry recorded the penalty as
 a discretionary taazir execution. [@1] The executions were carried out on
 Thursday in Asir in the south of the country. [@1,2,8,9]
 
@@ -106,6 +111,6 @@ image. [@1]
 
 The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Kenfe Teklay Hadosh Fuado, Mekele Merhan Gerzagir Gebra, Desta Gebre Kiros Ambaya and Mahari Gebre Howarie Hilah Hilasa. [@3,5] The ministry gave the execution date as Thursday 25 Rabi al-Thani 1448 AH, corresponding to 5 November 2026, in the Asir region. [@4]
 
-The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6,7]
+The Ministry said security agencies arrested the five before referring their case to the competent court, and that their sentences became final after appeal and Supreme Court endorsement before a royal order for execution. [@5,6,7,10]
 
 The announcement was the third such execution announcement in recent months. [@2]
