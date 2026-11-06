@@ -790,7 +790,15 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	if err = w.Store.Transition(ctx, j.Ref, "publishing", "Committing the validated report to the local repository.", d.Slug, ""); err != nil {
 		return err
 	}
-	sha, err := commitReport(ctx, w.Config.RepoPath, j.Ref, d)
+	// the new photos are downloaded first, outside the publication lock, and their thumbnails
+	// committed with the report (local_media.go)
+	rels := []string{d.Rel}
+	for _, u := range d.Updates {
+		rels = append(rels, u.Rel)
+	}
+	media, mediaErr := prepareMedia(ctx, w.Config.RepoPath, d.Dir, rels)
+	defer media.Close()
+	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media)
 	if err != nil {
 		var changed *coverageChanged
 		if errors.As(err, &changed) {
@@ -813,15 +821,10 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 		}
 		explanation += " It also updated " + strings.Join(titles, ", ") + "."
 	}
-	// the new photos' placeholders and thumbnails, in a commit of their own (local_media.go)
-	rels := []string{d.Rel}
-	for _, u := range d.Updates {
-		rels = append(rels, u.Rel)
-	}
-	if note, err := commitMedia(ctx, w.Config.RepoPath, j.Ref, d.Title, rels); err != nil {
-		explanation += " Photo thumbnails were not added (" + err.Error() + ")."
-	} else if note != "" {
-		explanation += " " + note
+	if mediaErr != nil {
+		explanation += " Photo thumbnails were not added (" + mediaErr.Error() + ")."
+	} else if mediaNote != "" {
+		explanation += " " + mediaNote
 	}
 	if w.Config.AutoPush {
 		// the commit goes to GitHub straight away, so its link works; a failed push leaves the

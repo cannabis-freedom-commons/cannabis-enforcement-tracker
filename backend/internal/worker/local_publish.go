@@ -48,17 +48,25 @@ func pushRepo(ctx context.Context, repo string) error {
 // Commit only the validated report paths; --only excludes unrelated staged work.
 // The case trailer recovers a successful Git commit after a crash before the DB update.
 func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, error) {
+	sha, _, err := commitReportWithMedia(ctx, repo, cid, d, nil)
+	return sha, err
+}
+
+// commitReportWithMedia commits the report and, in the same commit, the manifest entries and
+// thumbnails of its new photos (media, downloaded beforehand; nil for none). A thumbnail failure
+// leaves the report to be committed alone; note says what became of the photos.
+func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, media *mediaBatch) (string, string, error) {
 	if !reportPath.MatchString(d.Rel) || (d.PreviousRel != "" && !reportPath.MatchString(d.PreviousRel)) {
-		return "", errors.New("invalid report path")
+		return "", "", errors.New("invalid report path")
 	}
 	updates := map[string][]byte{}
 	for _, u := range d.Updates {
 		if !reportPath.MatchString(u.Rel) || u.Rel == d.Rel || u.Rel == d.PreviousRel || updates[u.Rel] != nil {
-			return "", errors.New("invalid report update path")
+			return "", "", errors.New("invalid report update path")
 		}
 		data, err := os.ReadFile(filepath.Join(d.Dir, u.Rel))
 		if err != nil {
-			return "", err
+			return "", "", err
 		}
 		updates[u.Rel] = data
 	}
@@ -72,12 +80,12 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 	// its push) rather than failing the job
 	unlock, err := publishLock(ctx, repo)
 	if err != nil {
-		return "", err
+		return "", "", err
 	}
 	defer unlock()
 	content, err := os.ReadFile(filepath.Join(d.Dir, d.Rel))
 	if err != nil {
-		return "", err
+		return "", "", err
 	}
 	marker := "Submission-Case: " + cid
 	if previous, _ := git("log", "-1", "--format=%H", "--fixed-strings", "--grep="+marker, "--", d.Rel); len(bytes.TrimSpace(previous)) > 0 {
@@ -86,13 +94,13 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		current, e2 := git("show", "HEAD:"+d.Rel)
 		working, e3 := os.ReadFile(filepath.Join(repo, d.Rel))
 		if e == nil && e2 == nil && e3 == nil && bytes.Equal(committed, content) && bytes.Equal(current, content) && bytes.Equal(working, content) {
-			return sha, nil
+			return sha, "", nil
 		}
-		return "", errors.New("the previously committed report has changed")
+		return "", "", errors.New("the previously committed report has changed")
 	}
 	if d.PreviousRel == "" {
 		if err := checkPublicationCoverage(repo, d, content); err != nil {
-			return "", err
+			return "", "", err
 		}
 	}
 	paths := []string{d.Rel}
@@ -107,15 +115,15 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		for at := path; at != "."; at = filepath.Dir(at) {
 			info, e := os.Lstat(filepath.Join(repo, at))
 			if e == nil && info.Mode()&os.ModeSymlink != 0 {
-				return "", errors.New("report path is a symlink")
+				return "", "", errors.New("report path is a symlink")
 			}
 		}
 		changes, e := git("status", "--porcelain", "--", path)
 		if e != nil {
-			return "", e
+			return "", "", e
 		}
 		if len(changes) > 0 {
-			return "", fmt.Errorf("report path has local edits: %s", path)
+			return "", "", fmt.Errorf("report path has local edits: %s", path)
 		}
 	}
 	// An update of an existing report may not replace a version changed since research began.
@@ -123,7 +131,7 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 	if d.PreviousRel != "" {
 		bases = append(bases, d.PreviousRel)
 	} else if _, e := os.Stat(filepath.Join(repo, d.Rel)); !os.IsNotExist(e) {
-		return "", errors.New("new report would overwrite an existing file")
+		return "", "", errors.New("new report would overwrite an existing file")
 	}
 	for _, u := range d.Updates {
 		bases = append(bases, u.Rel)
@@ -134,7 +142,7 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		base, e := baseCmd.Output()
 		current, e2 := git("show", "HEAD:"+basePath)
 		if e != nil || e2 != nil || !bytes.Equal(base, current) {
-			return "", &coverageChanged{country: "an existing report"}
+			return "", "", &coverageChanged{country: "an existing report"}
 		}
 	}
 	// Recheck under the publication lock: another job may have claimed a code
@@ -144,7 +152,7 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		files[rel] = string(data)
 	}
 	if err := reportcode.Check(repo, files, d.PreviousRel); err != nil {
-		return "", err
+		return "", "", err
 	}
 	original := map[string][]byte{}
 	for _, path := range paths {
@@ -152,7 +160,7 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		if e == nil {
 			original[path] = data
 		} else if !os.IsNotExist(e) {
-			return "", e
+			return "", "", e
 		}
 	}
 	rollback := func() {
@@ -168,29 +176,48 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		}
 	}
 	if err = os.MkdirAll(filepath.Dir(filepath.Join(repo, d.Rel)), 0755); err != nil {
-		return "", err
+		return "", "", err
 	}
 	if err = os.WriteFile(filepath.Join(repo, d.Rel), content, 0644); err != nil {
-		return "", err
+		return "", "", err
 	}
 	for rel, data := range updates {
 		if err = os.WriteFile(filepath.Join(repo, rel), data, 0644); err != nil {
 			rollback()
-			return "", err
+			return "", "", err
 		}
 	}
 	if d.PreviousRel != "" && d.PreviousRel != d.Rel {
 		if err = os.Remove(filepath.Join(repo, d.PreviousRel)); err != nil {
 			rollback()
-			return "", err
+			return "", "", err
 		}
 	}
 	if _, err = git(append([]string{"add", "--"}, paths...)...); err != nil {
 		rollback()
-		return "", err
+		return "", "", err
 	}
-	args := []string{"-c", "user.name=Submission service", "-c", "user.email=submissions@localhost", "-c", "commit.gpgsign=false", "commit", "--only", "-m", commitTitle(d) + "\n\n" + marker, "--"}
-	if _, err = git(append(args, paths...)...); err != nil {
+	// the new photos' manifest entries and thumbnails go into the same commit
+	committing, message, note := paths, commitTitle(d)+"\n\n"+marker, ""
+	if media != nil {
+		if files, err := media.apply(ctx, repo); err != nil {
+			note = "Photo thumbnails were not added (" + err.Error() + ")."
+		} else {
+			if len(files) > 0 {
+				committing = append(append([]string{}, paths...), files...)
+				message += "\nSubmission-Media: " + cid
+			}
+			note = media.note()
+		}
+	}
+	undo := func() {
+		rollback()
+		if media != nil {
+			restoreMedia(repo)
+		}
+	}
+	args := []string{"-c", "user.name=Submission service", "-c", "user.email=submissions@localhost", "-c", "commit.gpgsign=false", "commit", "--only", "-m", message, "--"}
+	if _, err = git(append(args, committing...)...); err != nil {
 		// A cancellation can race with a successful commit. Inspect Git using a fresh
 		// context before restoring files, so an already committed report stays intact.
 		recoveryCtx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
@@ -200,19 +227,19 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 			committed, e := gitWithContext(recoveryCtx, "show", sha+":"+d.Rel)
 			cancel()
 			if e == nil && bytes.Equal(committed, content) {
-				return sha, nil
+				return sha, note, nil
 			}
 		} else {
 			cancel()
 		}
-		rollback()
-		return "", errors.New("report commit failed")
+		undo()
+		return "", "", errors.New("report commit failed")
 	}
 	sha, err := git("rev-parse", "HEAD")
 	if err != nil {
-		return "", err
+		return "", "", err
 	}
-	return strings.TrimSpace(string(sha)), nil
+	return strings.TrimSpace(string(sha)), note, nil
 }
 
 func commitTitle(d draftJob) string {

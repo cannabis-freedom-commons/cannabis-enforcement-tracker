@@ -795,14 +795,15 @@ Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estima
 
 ## Photo thumbnails
 
-After committing a report, the service gives the photos it links (`media` with a `media_url`) their
-entry in `src/data/media.json`: size, ThumbHash placeholder and a 320px AVIF thumbnail in
-`public/media/`. It downloads each new photo through the public-address-only client (`FetchImage`,
-images up to 25 MB, at most 12 per report); `scripts/media-manifest.mjs --input` only processes
-those files and never fetches. The manifest and thumbnails are committed on their own under the
-publication lock, with a `Submission-Media: <case>` trailer, and skipped when they have local
-edits. A failure leaves the report committed and is noted on the request; photos that could not
-be fetched are recorded as `unavailable`.
+The service gives the photos a report links (`media` with a `media_url`) their entry in
+`src/data/media.json`: size, ThumbHash placeholder and a 320px AVIF thumbnail in `public/media/`.
+Before taking the publication lock it downloads each new photo through the public-address-only
+client (`FetchImage`, images up to 25 MB, at most 12 per report); under the lock
+`scripts/media-manifest.mjs --input` processes those files (it never fetches) and the manifest and
+thumbnails are committed in the report's own commit, with a `Submission-Media: <case>` trailer.
+They are skipped when the manifest or thumbnails have local edits. A thumbnail failure leaves the
+report to be committed alone and is noted on the request; photos that could not be fetched are
+recorded as `unavailable`.
 
 Videos that play in place get a 640px poster the same way: YouTube's preview image (fetched with
 `FetchImage`), or for a video file a frame taken by ffmpeg from its first 16 MB, which

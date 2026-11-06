@@ -11,8 +11,8 @@ import (
 )
 
 // A report's photo at a private address is never fetched: it is recorded as unavailable, and the
-// manifest change is committed on its own, after the report.
-func TestCommitMediaFetchesOnlyPublicPhotosAndCommitsTheManifest(t *testing.T) {
+// manifest change is committed together with the report, in one commit.
+func TestReportCommitIncludesItsPhotoManifest(t *testing.T) {
 	if _, err := exec.LookPath("node"); err != nil {
 		t.Skip("node not installed")
 	}
@@ -42,14 +42,24 @@ func TestCommitMediaFetchesOnlyPublicPhotosAndCommitsTheManifest(t *testing.T) {
 	os.MkdirAll(filepath.Join(dir, "public/media"), 0755)
 	os.WriteFile(filepath.Join(dir, mediaManifest), []byte("{}\n"), 0644)
 	os.WriteFile(filepath.Join(dir, ".gitignore"), []byte("node_modules\narchive/\n"), 0644)
-	rel := "reports/2026/01/example.md"
-	os.MkdirAll(filepath.Join(dir, filepath.Dir(rel)), 0755)
-	os.WriteFile(filepath.Join(dir, rel), []byte("---\ntitle: T\nmedia:\n  - kind: photo\n    url: http://127.0.0.1/page\n    media_url: http://127.0.0.1/secret.jpg\n    publisher: P\n    caption: C\n  - kind: video\n    url: http://127.0.0.1/page\n    media_url: http://127.0.0.1/secret.mp4\n    publisher: P\n    caption: V\n---\n\nBody\n"), 0644)
 	run("git", "init", "-q")
 	run("git", "-c", "user.name=t", "-c", "user.email=t@t", "add", ".")
 	run("git", "-c", "user.name=t", "-c", "user.email=t@t", "commit", "-qm", "init")
 
-	note, err := commitMedia(context.Background(), dir, "case1", "T", []string{rel})
+	// the validated draft, in the job's workspace
+	workspace := t.TempDir()
+	rel := "reports/2026/01/example.md"
+	content := "---\ncode: 7KQ2MX\ntitle: T\nmedia:\n  - kind: photo\n    url: http://127.0.0.1/page\n    media_url: http://127.0.0.1/secret.jpg\n    publisher: P\n    caption: C\n  - kind: video\n    url: http://127.0.0.1/page\n    media_url: http://127.0.0.1/secret.mp4\n    publisher: P\n    caption: V\n---\n\nBody\n"
+	os.MkdirAll(filepath.Join(workspace, filepath.Dir(rel)), 0755)
+	os.WriteFile(filepath.Join(workspace, rel), []byte(content), 0644)
+	d := draftJob{Dir: workspace, Rel: rel, Slug: "example", Title: "T"}
+
+	media, err := prepareMedia(context.Background(), dir, workspace, []string{rel})
+	if err != nil || media == nil {
+		t.Fatal("no media prepared", err)
+	}
+	defer media.Close()
+	sha, note, err := commitReportWithMedia(context.Background(), dir, "case1", d, media)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -61,15 +71,43 @@ func TestCommitMediaFetchesOnlyPublicPhotosAndCommitsTheManifest(t *testing.T) {
 	if json.Unmarshal(b, &m) != nil || m["http://127.0.0.1/secret.jpg"]["status"] != "unavailable" || m["http://127.0.0.1/secret.mp4"]["status"] != "unavailable" || m["http://127.0.0.1/secret.mp4"]["kind"] != "video" {
 		t.Fatal(string(b))
 	}
-	if log := run("git", "log", "-1", "--format=%s%n%b"); !strings.Contains(log, "Add photo thumbnails: T") || !strings.Contains(log, "Submission-Media: case1") {
+	if log := run("git", "log", "-1", "--format=%H%n%s%n%b"); !strings.HasPrefix(log, sha) || !strings.Contains(log, "Add report: T") || !strings.Contains(log, "Submission-Media: case1") {
 		t.Fatal(log)
+	}
+	if files := run("git", "show", "--name-only", "--format=", "HEAD"); !strings.Contains(files, rel) || !strings.Contains(files, mediaManifest) {
+		t.Fatal("one commit should hold the report and its manifest:", files)
+	}
+	if n := strings.TrimSpace(run("git", "rev-list", "--count", "HEAD")); n != "2" {
+		t.Fatal("commits:", n)
 	}
 	if status := run("git", "status", "--porcelain"); strings.TrimSpace(status) != "" {
 		t.Fatal("left changes:", status)
 	}
-	// nothing new the second time
-	if note, err = commitMedia(context.Background(), dir, "case1", "T", []string{rel}); err != nil || note != "" {
+	// the photos are known now: nothing new to prepare
+	if again, err := prepareMedia(context.Background(), dir, workspace, []string{rel}); err != nil || again != nil {
+		t.Fatal("prepared again", err)
+	}
+
+	// someone's uncommitted manifest edit: the next report is committed alone, the edit left as it was
+	rel2 := "reports/2026/01/second.md"
+	content2 := strings.Replace(strings.Replace(content, "7KQ2MX", "8MR3NY", 1), "secret.jpg", "other.jpg", 1)
+	os.WriteFile(filepath.Join(workspace, rel2), []byte(content2), 0644)
+	media2, err := prepareMedia(context.Background(), dir, workspace, []string{rel2})
+	if err != nil || media2 == nil {
+		t.Fatal("no media prepared", err)
+	}
+	defer media2.Close()
+	edited := strings.Replace(string(b), "{", "{ ", 1)
+	os.WriteFile(filepath.Join(dir, mediaManifest), []byte(edited), 0644)
+	_, note, err = commitReportWithMedia(context.Background(), dir, "case2", draftJob{Dir: workspace, Rel: rel2, Slug: "second", Title: "Second"}, media2)
+	if err != nil || !strings.Contains(note, "local changes") {
 		t.Fatal(note, err)
+	}
+	if files := run("git", "show", "--name-only", "--format=", "HEAD"); strings.TrimSpace(files) != rel2 {
+		t.Fatal("the report alone should be committed:", files)
+	}
+	if now, _ := os.ReadFile(filepath.Join(dir, mediaManifest)); string(now) != edited {
+		t.Fatal("the local manifest edit was changed")
 	}
 }
 

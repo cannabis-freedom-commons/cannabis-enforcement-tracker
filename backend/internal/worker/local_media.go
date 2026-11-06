@@ -139,77 +139,90 @@ func frameOf(ctx context.Context, video, out string) error {
 	return errors.New("no frame could be read")
 }
 
-// commitMedia gives the photos of a just-committed report their manifest entry, ThumbHash
-// placeholder and 320px thumbnail (scripts/media-manifest.mjs), and commits those on their own:
-// src/data/media.json and the new files in public/media/. The photos are fetched here, through the
-// public-address-only client; the script never fetches. Best effort: a failure leaves the report
-// committed and is returned as a note.
-func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (string, error) {
-	photos, videos := reportMedia(repo, rels)
-	if len(photos)+len(videos) == 0 {
-		return "", nil
+// mediaItem is one photo or video for the manifest script: a downloaded file, or why there is none.
+type mediaItem struct {
+	URL    string `json:"url"`
+	Video  bool   `json:"video,omitempty"`
+	Poster string `json:"poster,omitempty"`
+	File   string `json:"file,omitempty"`
+	Error  string `json:"error,omitempty"`
+}
+
+// mediaBatch is a report's new photos, downloaded before its commit: the commit step turns them
+// into manifest entries, ThumbHash placeholders and 320px thumbnails (scripts/media-manifest.mjs)
+// and commits those with the report, in one commit.
+type mediaBatch struct {
+	tmp, input string
+	items      []mediaItem
+}
+
+func (b *mediaBatch) Close() {
+	if b != nil {
+		_ = os.RemoveAll(b.tmp)
 	}
-	known := map[string]struct {
-		Status string `json:"status"`
-	}{}
+}
+
+// prepareMedia downloads the photos (and video posters) the draft's reports link that the manifest
+// does not know yet, at most 12, through the public-address-only client; the script never fetches.
+// It runs outside the publication lock: downloads can take minutes. nil: nothing new.
+func prepareMedia(ctx context.Context, repo, dir string, rels []string) (*mediaBatch, error) {
+	photos, videos := reportMedia(dir, rels)
+	if len(photos)+len(videos) == 0 {
+		return nil, nil
+	}
+	known := map[string]json.RawMessage{}
 	if b, err := os.ReadFile(filepath.Join(repo, mediaManifest)); err == nil {
 		_ = json.Unmarshal(b, &known)
 	}
-	var todo []string
 	isVideo := map[string]bool{}
+	for _, u := range videos {
+		isVideo[u] = true
+	}
+	var todo []string
 	for _, u := range append(append([]string{}, photos...), videos...) {
 		if _, ok := known[u]; !ok && len(todo) < 12 {
 			todo = append(todo, u)
 		}
 	}
-	for _, u := range videos {
-		isVideo[u] = true
-	}
 	if len(todo) == 0 {
-		return "", nil
+		return nil, nil
 	}
 	tmp, err := os.MkdirTemp("", "tracker-media-")
 	if err != nil {
-		return "", err
+		return nil, err
 	}
-	defer os.RemoveAll(tmp)
-	type item struct {
-		URL    string `json:"url"`
-		Video  bool   `json:"video,omitempty"`
-		Poster string `json:"poster,omitempty"`
-		File   string `json:"file,omitempty"`
-		Error  string `json:"error,omitempty"`
-	}
-	var input []item
+	batch := &mediaBatch{tmp: tmp, input: filepath.Join(tmp, "input.json")}
 	for i, u := range todo {
 		if isVideo[u] {
-			input = append(input, videoItem(ctx, tmp, i, u))
+			batch.items = append(batch.items, videoItem(ctx, tmp, i, u))
 			continue
 		}
 		fetchCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
 		b, err := safeurl.FetchImage(fetchCtx, u)
 		cancel()
 		if err != nil {
-			input = append(input, item{URL: u, Error: err.Error()})
+			batch.items = append(batch.items, mediaItem{URL: u, Error: err.Error()})
 			continue
 		}
 		file := filepath.Join(tmp, fmt.Sprintf("%d", i))
 		if err = os.WriteFile(file, b, 0600); err != nil {
-			return "", err
+			batch.Close()
+			return nil, err
 		}
-		input = append(input, item{URL: u, File: file})
+		batch.items = append(batch.items, mediaItem{URL: u, File: file})
 	}
-	inputFile := filepath.Join(tmp, "input.json")
-	data, _ := json.Marshal(input)
-	if err = os.WriteFile(inputFile, data, 0600); err != nil {
-		return "", err
+	data, _ := json.Marshal(batch.items)
+	if err = os.WriteFile(batch.input, data, 0600); err != nil {
+		batch.Close()
+		return nil, err
 	}
+	return batch, nil
+}
 
-	unlock, err := publishLock(ctx, repo)
-	if err != nil {
-		return "", err
-	}
-	defer unlock()
+// apply runs the manifest script in the repository and stages its changes; the caller holds the
+// publication lock and commits the returned paths with the report. On failure nothing is left
+// staged or written, and the report is committed without its thumbnails.
+func (b *mediaBatch) apply(ctx context.Context, repo string) ([]string, error) {
 	git := func(args ...string) ([]byte, error) {
 		cmd := exec.CommandContext(ctx, "git", args...)
 		cmd.Dir = repo
@@ -218,47 +231,42 @@ func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (s
 	paths := []string{mediaManifest, "public/media"}
 	// someone else's uncommitted work on the manifest or thumbnails: leave it alone
 	if dirty, err := git(append([]string{"status", "--porcelain", "--"}, paths...)...); err != nil || len(bytes.TrimSpace(dirty)) > 0 {
-		return "", errors.New("the media manifest has local changes")
+		return nil, errors.New("the media manifest has local changes")
 	}
 	runCtx, cancel := context.WithTimeout(ctx, 2*time.Minute)
 	defer cancel()
-	script := exec.CommandContext(runCtx, "node", "scripts/media-manifest.mjs", "--input", inputFile)
+	script := exec.CommandContext(runCtx, "node", "scripts/media-manifest.mjs", "--input", b.input)
 	script.Dir = repo
 	if out, err := script.CombinedOutput(); err != nil {
 		restoreMedia(repo)
-		return "", fmt.Errorf("thumbnails could not be made (%s)", lastLine(out, err))
+		return nil, fmt.Errorf("thumbnails could not be made (%s)", lastLine(out, err))
 	}
-	if _, err = git(append([]string{"add", "--"}, paths...)...); err != nil {
+	if _, err := git(append([]string{"add", "--"}, paths...)...); err != nil {
 		restoreMedia(repo)
-		return "", err
+		return nil, err
 	}
-	staged, _ := git(append([]string{"diff", "--cached", "--name-only", "--"}, paths...)...)
-	if len(bytes.TrimSpace(staged)) == 0 {
-		return "", nil
-	}
-	args := []string{"-c", "user.name=Submission service", "-c", "user.email=submissions@localhost", "-c", "commit.gpgsign=false", "commit", "--only", "-m", "Add photo thumbnails: " + title + "\n\nSubmission-Media: " + cid, "--"}
-	if _, err = git(append(args, strings.Fields(string(staged))...)...); err != nil {
+	staged, err := git(append([]string{"diff", "--cached", "--name-only", "--"}, paths...)...)
+	if err != nil {
 		restoreMedia(repo)
-		return "", errors.New("the thumbnails could not be committed")
+		return nil, err
 	}
+	return strings.Fields(string(staged)), nil
+}
+
+// note says how many of the new photos and videos got a thumbnail or poster.
+func (b *mediaBatch) note() string {
 	ok := 0
-	for _, it := range input {
+	for _, it := range b.items {
 		if it.File != "" {
 			ok++
 		}
 	}
-	return fmt.Sprintf("%d of %d new photos and videos got a thumbnail or poster.", ok, len(input)), nil
+	return fmt.Sprintf("%d of %d new photos and videos got a thumbnail or poster.", ok, len(b.items))
 }
 
 // videoItem gets a video's poster for the manifest script: YouTube's preview image, or a frame of
 // the file's first 16 MB (fetched through the public-address-only client; ffmpeg reads only that).
-func videoItem(ctx context.Context, tmp string, i int, u string) (it struct {
-	URL    string `json:"url"`
-	Video  bool   `json:"video,omitempty"`
-	Poster string `json:"poster,omitempty"`
-	File   string `json:"file,omitempty"`
-	Error  string `json:"error,omitempty"`
-}) {
+func videoItem(ctx context.Context, tmp string, i int, u string) (it mediaItem) {
 	it.URL, it.Video = u, true
 	poster, _ := videoPoster(u)
 	fetchCtx, cancel := context.WithTimeout(ctx, 45*time.Second)
