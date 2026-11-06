@@ -130,6 +130,11 @@ sources:
     publisher: يوليو
     date: 2026-10-31
     language: ar
+  - title: ضبط 3 متهمين بحوزتهم الحشيش بالإسكندرية
+    url: https://ekhbary24.com/article/40568
+    publisher: إخباري 24 نيوز
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -162,6 +167,10 @@ open_questions:
   - The page's only image is captioned only as the accused with no credit, so it was not established to show this seizure and no media entry was added.
   - The page image is uncaptioned and uncredited with only a generic drugs alt, so it was not established to show this seizure and no media entry was added.
   - The page's only image is captioned only المتهمين with no credit, so it was not established to show this event and no media entry was added.
+  - The ekhbary24 page is dated 5 November 2026 and gives no separate date for the arrests.
+  - It says the motorcycle was identified and that its licences were valid, but it does not say the motorcycle was seized, unlike the existing report.
+  - It gives no weight for the hashish and names none of the three men.
+  - The page image is hosted on elbalad.news and is captioned only with the section and time, so it was not established as a photo of this seizure and was not added as media.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
@@ -169,18 +178,18 @@ who published it complained about two men, one of them riding a motorcycle,
 using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
 which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18] The two were a company employee and a
-delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19]
+delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20]
 
-Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19] Questioned, the two admitted the
-offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18] The employee said he had
+Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
+offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
 obtained the hashish from an unemployed man with a criminal record living in the
-First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
 spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18] The public prosecution has taken over the investigation.
-[@2,3,4,7,8,9,10,13,16,17,18]
+[@2,3,4,7,8,9,10,13,16,17,18,20]
 
-The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18]
+The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
 
 Alexandria prosecutors ordered the employee and the delivery worker held for four days pending investigation and ordered the seized drugs held and sent to the chemical laboratory for examination. [@14]
 
