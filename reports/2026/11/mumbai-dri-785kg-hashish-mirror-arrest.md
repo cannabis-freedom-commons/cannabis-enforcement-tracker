@@ -60,6 +60,11 @@ sources:
     publisher: Wishav Warta
     date: 2026-11-05
     language: pa
+  - title: 'Big Breaking: ਰਾਤ 10 ਵਜੇ ਦੀਆਂ ਵੱਡੀਆਂ ਖ਼ਬਰਾਂ'
+    url: https://wishavwarta.in/big-breaking10pm5november/
+    publisher: Wishav Warta
+    date: 2026-11-05
+    language: pa
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
@@ -72,6 +77,7 @@ open_questions:
   - No monetary value for the seized hashish was published in either account.
   - 'Left out, as its quotation was not found in Wishav Warta: The accused was arrested on November 2 under the provisions of the NDPS Act.'
   - 'Left out, as its quotation was not found in Wishav Warta: Officers found eight concealed packets inside the dismantled wooden frame, holding 169 smaller packets of a blackish, glue-like substance.'
+  - The roundup page gives only the headline totals and no separate place, agency detail or arrest date; the incident date and Mumbai terminal attribution rely on the existing report and the linked full article.
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
@@ -79,12 +85,12 @@ international racket that concealed hashish in a courier shipment sent from New
 York in the United States to Mumbai. [@1,2,3] After sustained investigation,
 officers identified and traced the intended recipient of the consignment. [@1,6]
 The accused was arrested on November 2 under the provisions of the NDPS Act.
-[@1,3,4] Officials said further investigation is under way to uncover the larger
+[@1,3,4,7] Officials said further investigation is under way to uncover the larger
 network, identify other people involved and establish domestic and international
 linkages. [@1,5,6]
 
 Acting on specific intelligence, officers uncovered the operation and seized
-7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3]
+7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3,7]
 Officers intercepted and examined the suspicious courier consignment at the
 International Courier Terminal in Mumbai. [@1,2,3] The package had been declared as
 a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
