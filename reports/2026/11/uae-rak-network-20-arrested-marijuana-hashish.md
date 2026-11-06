@@ -37,6 +37,11 @@ media:
     media_url: https://www.attasiaa.com/wp-content/uploads/2026/11/dubai_164926.webp
     publisher: Attasiaa
     caption: The page's main picture illustrating the announcement of the 20-suspect network dismantled in Ras Al Khaimah; the page gives no credit.
+  - kind: photo
+    url: https://www.almashhad.com/article/773112298002792-News/555400366648439-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-200-%D8%A3%D9%84%D9%81-%D9%82%D8%B1%D8%B5-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7/
+    media_url: https://media.almashhad.com/storage/attachments/5555/1793959990800TztJbwebp-1793959990800_highres.webp
+    publisher: قناة ومنصة المشهد
+    caption: A table of the seized items from the 20-suspect network, captioned in Arabic as varied quantities of cocaine, crystal, marijuana, hashish and Spice; the page credits the image only to X (Twitter).
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422
@@ -59,12 +64,19 @@ sources:
     url: https://shafaq.com/en/Security/Iraq-helps-UAE-arrest-20-in-Captagon-bust
     publisher: Shafaq News
     date: 2026-11-06
+  - title: الإمارات.. إحباط تهريب 200 ألف قرص كبتاغون وتوقيف 20 متهما
+    url: https://www.almashhad.com/article/773112298002792-News/555400366648439-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-200-%D8%A3%D9%84%D9%81-%D9%82%D8%B1%D8%B5-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7/
+    publisher: قناة ومنصة المشهد
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
   - No charges or court stage were reported; the suspects were held for investigation with federal prosecutors coordinating.
   - The page picture carries no credit and is not established to show this seizure.
   - The text gives a weight ("30 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The article gives no separate weight or value for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
+  - The article gives no date for the arrests or the interception; 6 November 2026 is the announcement and publication date.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
@@ -75,7 +87,7 @@ link of the plan, from smuggling to preparation for dealing. [@1]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
-surveillance, Shafaq News reported. [@4] The network planned to bring the drugs
+surveillance, Shafaq News reported. [@4,5] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
 country. [@1]
 
@@ -89,4 +101,3 @@ Iraq's General Directorate for Narcotics and Psychotropic Substances and the
 Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1]
-
