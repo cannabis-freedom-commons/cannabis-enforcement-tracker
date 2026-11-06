@@ -66,6 +66,11 @@ sources:
     publisher: Rádio 93 FM
     date: 2026-11-05
     language: pt
+  - title: Casal que guardava drogas do CV em apartamento é preso com 19 barras de maconha em Juiz de Fora
+    url: https://vertentesdasgerais.com.br/casal-que-guardava-drogas-do-cv-em-apartamento-e-preso-com-19-barras-de-maconha-em-juiz-de-fora/
+    publisher: Vertentes das Gerais
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight was published for the 19 bars or tablets of maconha, so no kilograms can be recorded.
   - The suspects were identified only by age and sex, with no names published.
@@ -75,11 +80,14 @@ open_questions:
   - The listed photo is a police handout image carried by the outlet, not an independently confirmed image of the seizure.
   - The Estado de Minas account says the drugs were thrown from the balcony (varanda), while the Rádio 93 FM account says they were thrown from the apartment window (janela).
   - The Estado de Minas account places the arrest in the afternoon and records the occurrence at about 18h25, while the Rádio 93 FM account describes the arrest on Wednesday night.
+  - Vertentes das Gerais credits Hoje em Dia, an outlet the report already cites, so this account repeats rather than independently reports the Military Police version.
+  - The article's featured photo of the case is uncaptioned and carries no credit, so it is not confirmed to show this seizure and no media entry is added.
+  - Vertentes das Gerais dates the arrest to the Wednesday night and gives no time for the police approach.
 ---
 
 Military police arrested a couple suspected of storing drugs for the Comando
 Vermelho (CV) in an apartment with 19 bars of maconha on the night of Wednesday
-4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1,3]
+4 November 2026 in Juiz de Fora, in the Zona da Mata of Minas Gerais. [@1,3,5]
 Police said the apartment was used as a depot for drugs belonging to members of
 the criminal faction. [@1] The suspects were a 24-year-old man and a 21-year-old
 woman. [@1,3] Both resisted arrest, and the woman received care at a health unit
@@ -90,8 +98,8 @@ The operation took place in the São Judas Tadeu neighbourhood to check reports
 that the apartment was storing drugs. [@1] Officers found the drugs in a
 scrapyard next to the building. [@1,3] Police said the couple had thrown the
 maconha bars from the balcony to hide them, and sniffer dogs Brasão and Rakissa
-helped find the drugs in the lot beside the building. [@1,3] Alongside the 19
-maconha tablets, officers seized a precision scale and two mobile phones. [@1]
+helped find the drugs in the lot beside the building. [@1,3,5] Alongside the 19
+maconha tablets, officers seized a precision scale and two mobile phones. [@1,5]
 
 During patrols in São Judas Tadeu, officers were told that members of the
 criminal organisation were storing drugs in an apartment on Rua José Paulino
