@@ -34,6 +34,16 @@ sources:
     publisher: GVA
     date: 2026-11-05
     language: nl
+  - title: Ruim 1,6 kilogram drugs aangetroffen in Hobokense woning
+    url: https://www.politieantwerpen.be/nieuws/ruim-16-kilogram-drugs-aangetroffen-in-hobokense-woning
+    publisher: Politiezone Antwerpen
+    date: 2026-11-05
+    language: nl
+  - title: 'Vier verdachten opgepakt na drugsdeal vanuit woning in Hoboken: politie vindt ruim 1 kilo hasj en 600 gram cannabis'
+    url: https://www.pzc.nl/antwerpen/vier-verdachten-opgepakt-na-drugsdeal-vanuit-woning-in-hoboken-politie-vindt-ruim-1-kilo-hasj-en-600-gram-cannabis~a52ae998/
+    publisher: PZC.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - The hashish amount is given only as more than one kilogram, so the recorded 1.6 kg total is approximate.
   - The 205 euros was cash seized, not a valuation of the drugs, and no drug value was published.
@@ -41,21 +51,23 @@ open_questions:
   - Only one accessible source for this event was found after searching in Dutch and English.
   - The page photograph is captioned as an illustration image and is not shown to depict this seizure, so no media entry is included.
   - The page carries a photo but its caption and alt text are empty, so it cannot be confirmed to show this seizure and no media entry is included.
+  - 'Left out, as its quotation was not found in Politiezone Antwerpen: Police spokesperson Kim Bastiaens gave the account of the operation.'
+  - 'Left out, as its quotation was not found in Politiezone Antwerpen: The suspects allegedly used the house as a base for dealing drugs.'
 ---
 
 Antwerp police arrested four suspects who had been dealing drugs from a house in
-Hoboken, shortly after a deal took place. [@1] The intervention happened on
+Hoboken, shortly after a deal took place. [@1,3] The intervention happened on
 Thursday 29 October at a house on Zaatlaan in Hoboken after a neighbourhood team
-noticed a man briefly visiting the address. [@1,2] A check showed the visitor had
+noticed a man briefly visiting the address. [@1,2,3] A check showed the visitor had
 just bought hashish there, after which police extended the check to the house
-and found three people in the garden. [@1] A fourth person had hidden inside the
-house. [@1,2] Four people were deprived of their liberty and two of them were
-brought before the investigating judge. [@1,2]
+and found three people in the garden. [@1,3,4] A fourth person had hidden inside the
+house. [@1,2,3] Four people were deprived of their liberty and two of them were
+brought before the investigating judge. [@1,2,3]
 
-Police seized more than one kilogram of hashish and 600 grams of cannabis. [@1,2]
+Police seized more than one kilogram of hashish and 600 grams of cannabis. [@1,2,3,4]
 The drugs were found in the garden shed together with packaging material and a
-precision scale. [@1,2] Officers also seized five mobile phones and 205 euros.
-[@1,2]
+precision scale. [@1,2,3] Officers also seized five mobile phones and 205 euros.
+[@1,2,3]
 
 Police spokesperson Kim Bastiaens gave the account of the operation. [@1] The
 suspects allegedly used the house as a base for dealing drugs. [@1]
